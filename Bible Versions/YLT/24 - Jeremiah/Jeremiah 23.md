@@ -1,0 +1,89 @@
+# Jeremiah 23 (Young's Literal Translation)
+
+[[Bible Versions/YLT/24 - Jeremiah/Jeremiah 22|← Jeremiah 22]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah 24|Jeremiah 24 →]]
+
+***
+
+v1 Wo to shepherds destroying, And scattering the flock of My pasture, An affirmation of Jehovah.
+
+v2 Therefore, thus said Jehovah, God of Israel, Against the shepherds who feed My people, Ye have scattered My flock, and drive them away, And have not inspected them, Lo, I am charging on you the evil of your doings, An affirmation of Jehovah.
+
+v3 And I do gather the remnant of My flock Out of all the lands whither I drove them, And have brought them back unto their fold, And they have been fruitful, and multiplied.
+
+v4 And I have raised for them shepherds, And they have fed them, And they fear no more, nor are affrighted, Nor are they lacking -- an affirmation of Jehovah.
+
+v5 Lo, days are coming -- an affirmation of Jehovah, And I have raised to David a righteous shoot, And a king hath reigned and acted wisely, And done judgment and righteousness in the earth.
+
+v6 In his days is Judah saved, and Israel dwelleth confidently, And this his name that Jehovah proclaimeth him, 'Our Righteousness.'
+
+v7 Therefore, lo, days are coming, An affirmation of Jehovah, And they do not say any more, Jehovah liveth who brought up The sons of Israel out of the land of Egypt,
+
+v8 But -- Jehovah liveth, who brought up, And who brought in, the seed of the house of Israel, From the land of the north, And from all the lands whither I drove them, And they have dwelt on their own ground!
+
+v9 In reference to the prophets: Broken hath been my heart in my midst, Fluttered have all my bones, I have been as a man -- a drunkard, And as a man -- wine hath passed over him, Because of Jehovah, and of His holy words.
+
+v10 For of adulterers hath the land been full, For because of these hath the land mourned, Dried up hath been the pleasant places of the wilderness, And their course is evil, and their might -- not right.
+
+v11 For both prophet and priest have been profane, Yea, in My house I found their wickedness, An affirmation of Jehovah.
+
+v12 Therefore is their way to them as slippery places, Into thick darkness they are driven, And they have fallen in it, For I bring in against them evil, The year of their inspection, An affirmation of Jehovah.
+
+v13 And in prophets of Samaria I have seen folly, They have prophesied by Baal, And cause my people -- Israel -- to err.
+
+v14 And in prophets of Jerusalem I have seen a horrible thing, Committing adultery, and walking falsely, Yea, they strengthened the hands of evil doers, So that they have not turned back Each from his wickedness, They have been to me -- all of them -- as Sodom, And its inhabitants as Gomorrah.
+
+v15 Therefore, thus said Jehovah of Hosts, concerning the prophets: Lo, I am causing them to eat wormwood, And have caused them to drink water of gall, For, from prophets of Jerusalem Hath profanity gone forth to all the land.
+
+v16 Thus said Jehovah of Hosts: Ye do not hearken unto the words Of the prophets who are prophesying to you, They are making you vain things, A vision of their own heart they speak, Not from the mouth of Jehovah.
+
+v17 Saying diligently to those despising The word of Jehovah: Peace is for you, And [to] every one walking in the stubbornness of his heart they have said: Evil doth not come in unto you.
+
+v18 For who hath stood in the counsel of Jehovah, And seeth and heareth His word? Who hath regarded My word, and hearkeneth?
+
+v19 Lo, a whirlwind of Jehovah -- Fury hath gone out, even a piercing whirlwind, On the head of the wicked it stayeth.
+
+v20 The anger of Jehovah doth not turn back Till His doing, and till His establishing, The thoughts of His heart, In the latter end of the days ye attend to it With understanding.
+
+v21 I have not sent the prophets, and they have run, I have not spoken unto them, and they have prophesied.
+
+v22 But -- if they stood in My counsel, Then they cause My people to hear My words, And they turn them back from their evil way, And from the evil of their doings.
+
+v23 A God near [am] I -- an affirmation of Jehovah, And not a God afar off?
+
+v24 Is any one hidden in secret places, And I see him not? an affirmation of Jehovah, Do not I fill the heavens and the earth? An affirmation of Jehovah.
+
+v25 I have heard that which the prophets said, Who prophesy in My name falsehood, saying, 'I have dreamed, I have dreamed.'
+
+v26 Till when is it in the heart of the prophets? The prophets of falsehood, Yea, prophets of the deceit of their heart,
+
+v27 Who are devising to cause My people To forget My name by their dreams, That they recount each to his neighbour, As their fathers forgot my name for Baal.
+
+v28 The prophet with whom [is] a dream, Let him recount the dream, And he with whom [is] My word, Let him truly speak My word. What -- to the straw with the corn? An affirmation of Jehovah.
+
+v29 Is it not thus? My word [is] as a fire, An affirmation of Jehovah. And as a hammer -- it breaketh in pieces a rock.
+
+v30 Therefore, lo, I [am] against the prophets, An affirmation of Jehovah, Stealing My words each from his neighbour.
+
+v31 Lo, I [am] against the prophets, An affirmation of Jehovah, Who are making smooth their tongue, And they affirm -- an affirmation.
+
+v32 Lo, I [am] against the prophets of false dreams, An affirmation of Jehovah, And they recount them, and cause my people to err, By their falsehoods, and by their instability, And I -- I have not sent them, Nor have I commanded them, And they are not at all profitable to this people, An affirmation of Jehovah.
+
+v33 And when this people, or the prophet, Or a priest, doth ask thee, saying, What [is] the burden of Jehovah? Then thou hast said unto them: Ye [are] the burden, and I have left you, An affirmation of Jehovah.
+
+v34 And the prophet, and the priest, and the people, That saith, The burden of Jehovah, I have seen after that man, and after his house.
+
+v35 Thus do ye say each unto his neighbour, And each unto his brother: What hath Jehovah answered? And what hath Jehovah spoken?
+
+v36 And the burden of Jehovah ye do not mention any more, For the burden to each is -- His word, And ye have overturned the words of the living God, Jehovah of Hosts, our God.
+
+v37 Thus dost thou say unto the prophet What hath Jehovah answered thee? And what hath Jehovah spoken?
+
+v38 And if the burden of Jehovah ye say, Therefore thus said Jehovah: Because of your saying this word, The burden of Jehovah, And I do send unto you, saying, Ye do not say, The burden of Jehovah.
+
+v39 Therefore, lo, I -- I have taken you utterly away, And I have sent you out, And the city that I gave to you, And to your fathers, from before My face,
+
+v40 And I have put on you reproach age-during, And shame age-during that is not forgotten!
+
+***
+
+[[Bible Versions/YLT/24 - Jeremiah/Jeremiah 22|← Jeremiah 22]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah 24|Jeremiah 24 →]]

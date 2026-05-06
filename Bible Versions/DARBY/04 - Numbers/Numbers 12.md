@@ -1,0 +1,41 @@
+# Numbers 12 (Darby Translation)
+
+[[Bible Versions/DARBY/04 - Numbers/Numbers 11|← Numbers 11]] | [[Bible Versions/DARBY/04 - Numbers/Numbers]] | [[Bible Versions/DARBY/04 - Numbers/Numbers 13|Numbers 13 →]]
+
+***
+
+v1 And Miriam and Aaron spoke against Moses because of the Ethiopian woman whom he had taken; for he had taken a Cushite as wife.
+
+v2 And they said, Has Jehovah indeed spoken only to Moses? has he not spoken also to us? And Jehovah heard it.
+
+v3 But the man Moses was very meek, above all men that were upon the face of the earth.
+
+v4 Then Jehovah spoke suddenly to Moses, and to Aaron, and to Miriam, Come out ye three unto the tent of meeting. And they went out, they three.
+
+v5 And Jehovah came down in the pillar of the cloud, and stood at the entrance of the tent, and called Aaron and Miriam; and they both came forth.
+
+v6 And he said, Hear now my words: If there be a prophet among you, I Jehovah will make myself known to him in a vision, I will speak to him in a dream.
+
+v7 Not so my servant Moses: he is faithful in all my house.
+
+v8 Mouth to mouth do I speak to him openly, and not in riddles; and the form of Jehovah doth he behold. Why then were ye not afraid to speak against my servant, against Moses?
+
+v9 And the anger of Jehovah was kindled against them, and he went away;
+
+v10 and the cloud departed from off the tent. And behold, Miriam was leprous as snow; and Aaron turned toward Miriam, and behold, she was leprous.
+
+v11 Then Aaron said to Moses, Alas, my lord, I beseech thee, lay not this sin upon us, wherein we have been foolish, and have sinned!
+
+v12 Let her not be as one stillborn, half of whose flesh is consumed when he comes out of his mother's womb.
+
+v13 And Moses cried to Jehovah, saying, O Ã¹God, heal her, I beseech thee!
+
+v14 And Jehovah said to Moses, But had her father anyways spat in her face, should she not be shamed seven days? She shall be shut outside the camp seven days, and afterwards she shall be received in [again].
+
+v15 And Miriam was shut outside the camp seven days; and the people did not journey till Miriam was received in [again].
+
+v16 And afterwards the people journeyed from Hazeroth, and encamped in the wilderness of Paran.
+
+***
+
+[[Bible Versions/DARBY/04 - Numbers/Numbers 11|← Numbers 11]] | [[Bible Versions/DARBY/04 - Numbers/Numbers]] | [[Bible Versions/DARBY/04 - Numbers/Numbers 13|Numbers 13 →]]

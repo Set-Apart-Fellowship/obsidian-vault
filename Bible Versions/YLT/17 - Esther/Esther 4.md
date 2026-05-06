@@ -1,0 +1,43 @@
+# Esther 4 (Young's Literal Translation)
+
+[[Bible Versions/YLT/17 - Esther/Esther 3|← Esther 3]] | [[Bible Versions/YLT/17 - Esther/Esther]] | [[Bible Versions/YLT/17 - Esther/Esther 5|Esther 5 →]]
+
+***
+
+v1 And Mordecai hath known all that hath been done, and Mordecai rendeth his garments, and putteth on sackcloth and ashes, and goeth forth into the midst of the city and crieth -- a cry loud and bitter,
+
+v2 and he cometh in unto the front of the gate of the king, but none is to come in unto the gate of the king with a sackcloth-garment.
+
+v3 And in every province and province, the place where the word of the king, even his law, is coming, a great mourning have the Jews, and fasting, and weeping, and lamenting: sackcloth and ashes are spread for many.
+
+v4 And young women of Esther come in and her eunuchs, and declare [it] to her, and the queen is exceedingly pained, and sendeth garments to clothe Mordecai, and to turn aside his sackcloth from off him, and he hath not received [them].
+
+v5 And Esther calleth to Hatach, of the eunuchs of the king, whom he hath stationed before her, and giveth him a charge for Mordecai, to know what this [is], and wherefore this [is].
+
+v6 And Hatach goeth out unto Mordecai, unto a broad place of the city, that [is] before the gate of the king,
+
+v7 and Mordecai declareth to him all that hath met him, and the explanation of the money that Haman said to weigh to the treasuries of the king for the Jews, to destroy them,
+
+v8 and the copy of the writing of the law that had been given in Shushan to destroy them he hath given to him, to shew Esther, and to declare [it] to her, and to lay a charge on her to go in unto the king, to make supplication to him, and to seek from before him, for her people.
+
+v9 And Hatach cometh in and declareth to Esther the words of Mordecai,
+
+v10 and Esther speaketh to Hatach, and chargeth him for Mordecai:
+
+v11 'All servants of the king, and people of the provinces of the king, do know that any man and woman, who cometh in unto the king, unto the inner court, who is not called -- one law [of] his [is] to put [them] to death, apart from him to whom the king holdeth out the golden sceptre, then he hath lived; and I -- I have not been called to come in unto the king these thirty days.'
+
+v12 And they declare to Mordecai the words of Esther,
+
+v13 and Mordecai speaketh to send back unto Esther: 'Do not think in thy soul to be delivered [in] the house of the king, more than all the Jews,
+
+v14 but if thou keep entirely silent at this time, respite and deliverance remaineth to the Jews from another place, and thou and the house of thy fathers are destroyed; and who knoweth whether for a time like this thou hast come to the kingdom?'
+
+v15 And Esther speaketh to send back unto Mordecai:
+
+v16 'Go, gather all the Jews who are found in Shushan, and fast for me, and do not eat nor drink three days, by night and by day; also I and my young women do fast likewise, and so I go in unto the king, that [is] not according to law, and when I have perished -- I have perished.'
+
+v17 And Mordecai passeth on, and doth according to all that Esther hath charged upon him.
+
+***
+
+[[Bible Versions/YLT/17 - Esther/Esther 3|← Esther 3]] | [[Bible Versions/YLT/17 - Esther/Esther]] | [[Bible Versions/YLT/17 - Esther/Esther 5|Esther 5 →]]

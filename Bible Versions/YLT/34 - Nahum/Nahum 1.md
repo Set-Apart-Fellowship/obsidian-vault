@@ -1,0 +1,39 @@
+# Nahum 1 (Young's Literal Translation)
+
+[[Bible Versions/YLT/34 - Nahum/Nahum]] | [[Bible Versions/YLT/34 - Nahum/Nahum 2|Nahum 2 →]]
+
+***
+
+v1 Burden of Nineveh. The Book of the Vision of Nahum the Elkoshite.
+
+v2 A God zealous and avenging [is] Jehovah, An avenger [is] Jehovah, and possessing fury. An avenger [is] Jehovah on His adversaries, And He is watching for His enemies.
+
+v3 Jehovah [is] slow to anger, and great in power, And Jehovah doth not entirely acquit, In a hurricane and in a tempest [is] His way, And a cloud [is] the dust of His feet.
+
+v4 He is pushing against a sea, and drieth it up, Yea, all the floods He hath made dry, Languishing [are] Bashan and Carmel, Yea, the flower of Lebanon [is] languishing.
+
+v5 Mountains have shaken because of Him, And the hills have been melted; And lifted up [is] the earth at His presence, And the world and all dwelling in it.
+
+v6 Before His indignation who doth stand? And who riseth up in the heat of His anger? His fury hath been poured out like fire, And the rocks have been broken by Him.
+
+v7 Good [is] Jehovah for a strong place in a day of distress. And He knoweth those trusting in Him.
+
+v8 And with a flood passing over, An end He maketh of its place, And His enemies doth darkness pursue.
+
+v9 What do we devise against Jehovah? An end He is making, arise not twice doth distress.
+
+v10 For while princes [are] perplexed, And with their drink are drunken, They have been consumed as stubble fully dried.
+
+v11 From thee hath come forth a deviser of evil Against Jehovah -- a worthless counsellor.
+
+v12 Thus said Jehovah: Though complete, and thus many, Yet thus they have been cut off, And he hath passed away. And I afflicted thee, I afflict thee no more.
+
+v13 And now I break his rod from off thee, And thy bands I do draw away.
+
+v14 And commanded concerning thee hath Jehovah, 'No more of thy name doth spread abroad, From the house of thy gods I cut off graven and molten image, I appoint thy grave, for thou hast been vile.
+
+v15 Lo, on the mountains the feet of one proclaiming tidings, sounding peace! Celebrate, O Judah, thy festivals, complete thy vows, For add no more to pass over into thee doth the worthless, He hath been completely cut off!
+
+***
+
+[[Bible Versions/YLT/34 - Nahum/Nahum]] | [[Bible Versions/YLT/34 - Nahum/Nahum 2|Nahum 2 →]]

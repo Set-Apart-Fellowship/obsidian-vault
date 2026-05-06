@@ -1,0 +1,73 @@
+# Ephesians 4 (Weymouth's New Testament)
+
+[[Bible Versions/WEYMOUTH/49 - Ephesians/Ephesians 3|← Ephesians 3]] | [[Bible Versions/WEYMOUTH/49 - Ephesians/Ephesians]] | [[Bible Versions/WEYMOUTH/49 - Ephesians/Ephesians 5|Ephesians 5 →]]
+
+***
+
+v1 I, then, the prisoner for the Master's sake, entreat you to live and act as becomes those who have received the call that you have received--
+
+v2 with all lowliness of mind and unselfishness, and with patience, bearing with one another lovingly, and earnestly striving to maintain,
+
+v3 in the uniting bond of peace, the unity given by the Spirit.
+
+v4 There is but one body and but one Spirit, as also when you were called you had one and the same hope held out to you.
+
+v5 There is but one Lord, one faith, one baptism,
+
+v6 and one God and Father of all, who rules over all, acts through all, and dwells in all.
+
+v7 Yet to each of us individually grace was given, measured out with the munificence of Christ.
+
+v8 For this reason Scripture says: <"He re-ascended on high, He led captive a host of captives, and gave gifts to men.">
+
+v9 (Now this "re-ascended" --what does it mean but that He had first descended into the lower regions of the earth?
+
+v10 He who descended is the same as He who ascended again far above all the Heavens in order to fill the universe.)
+
+v11 And He Himself appointed some to be Apostles, some to be Prophets, some to be evangelists, some to be pastors and teachers,
+
+v12 in order fully to equip His people for the work of serving--for the building up of Christ's body--
+
+v13 till we all of us arrive at oneness in faith and in the knowledge of the Son of God, and at mature manhood and the stature of full-grown men in Christ.
+
+v14 So we shall no longer be babes nor shall we resemble mariners tossed on the waves and carried about with every changing wind of doctrine according to men's cleverness and unscrupulous cunning, making use of every shifting device to mislead.
+
+v15 But we shall lovingly hold to the truth, and shall in all respects grow up into union with Him who is our Head, even Christ.
+
+v16 Dependent on Him, the whole body--its various parts closely fitting and firmly adhering to one another-- grows by the aid of every contributory link, with power proportioned to the need of each individual part, so as to build itself up in a spirit of love.
+
+v17 Therefore I warn you, and I implore you in the name of the Master, no longer to live as the Gentiles in their perverseness live,
+
+v18 with darkened understandings, having by reason of the ignorance which is deep-seated in them and the insensibility of their moral nature, no share in the Life which God gives.
+
+v19 Such men being past feeling have abandoned themselves to impurity, greedily indulging in every kind of profligacy.
+
+v20 But these are not the lessons which you have learned from Christ;
+
+v21 if at least you have heard His voice and in Him have been taught--and this is true Christian teaching--
+
+v22 to put away, in regard to your former mode of life, your original evil nature which is doomed to perish as befits its misleading impulses,
+
+v23 and to get yourselves renewed in the temper of your minds and clothe yourselves
+
+v24 with that new and better self which has been created to resemble God in the righteousness and holiness which come from the truth.
+
+v25 For this reason, laying aside falsehood, every one of you should speak the truth to his fellow man; for we are, as it were, parts of one another.
+
+v26 If angry, beware of sinning. Let not your irritation last until the sun goes down;
+
+v27 and do not leave room for the Devil.
+
+v28 He who has been a thief must steal no more, but, instead of that, should work with his own hands in honest industry, so that he may have something of which he can give the needy a share.
+
+v29 Let no unwholesome words ever pass your lips, but let all your words be good for benefiting others according to the need of the moment, so that they may be a means of blessing to the hearers.
+
+v30 And beware of grieving the Holy Spirit of God, in whom you have been sealed in preparation for the day of Redemption.
+
+v31 Let all bitterness and all passionate feeling, all anger and loud insulting language, be unknown among you--and also every kind of malice.
+
+v32 On the contrary learn to be kind to one another, tender-hearted, forgiving one another, just as God in Christ has also forgiven you.
+
+***
+
+[[Bible Versions/WEYMOUTH/49 - Ephesians/Ephesians 3|← Ephesians 3]] | [[Bible Versions/WEYMOUTH/49 - Ephesians/Ephesians]] | [[Bible Versions/WEYMOUTH/49 - Ephesians/Ephesians 5|Ephesians 5 →]]

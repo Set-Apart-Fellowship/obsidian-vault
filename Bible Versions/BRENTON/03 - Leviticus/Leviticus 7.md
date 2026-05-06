@@ -1,0 +1,38 @@
+v1 And this is the law of the ram for the trespass-offering; it is most holy.
+v2 In the place where they slay the whole-burnt-offering, they shall slay the ram of the trespass-offering before the Lord, and he shall pour out the blood at the bottom of the altar round about.
+v3 And he shall offer all the fat from it; and the loins, and all the fat that covers the inwards, and all the fat that is upon the inwards,
+v4 and the two kidneys, and the fat that is upon them, that which is upon the thighs, and the caul upon the liver with the kidneys, he shall take them away.
+v5 And the priest shall offer them on the altar a burnt-offering to the Lord; it is for trespass.
+v6 Every male of the priests shall eat them, in the holy place they shall eat them: they are most holy.
+v7 As the sin-offering, so also is the trespass-offering. There is one law of them; the priest who shall make atonement with it, his it shall be.
+v8 And as for the priest who offers a man's whole-burnt-offering, the skin of the whole-burnt-offering which he offers, shall be his.
+v9 And every sacrifice which shall be prepared in the oven, and every one which shall be prepared on the hearth, or on a frying-pan, it is the property of the priest that offers it; it shall be his.
+v10 And every sacrifice made up with oil, or not made up with oil , shall belong to the sons of Aaron, an equal portion to each.
+v11 This is the law of the sacrifice of peace-offering, which they shall bring to the Lord.
+v12 If a man should offer it for praise, then shall he bring, for the sacrifice of praise, loaves of fine flour made up with oil, and unleavened cakes anointed with oil, and fine flour kneaded with oil.
+v13 With leavened bread he shall offer his gifts, with the peace-offering of praise.
+v14 And he shall bring one of all his gifts, a separate offering to the Lord: it shall belong to the priest who pours forth the blood of the peace-offering.
+v15 And the flesh of the sacrifice of the peace-offering of praise shall be his, and it shall be eaten in the day in which it is offered: they shall not leave of it till the morning.
+v16 And if it be a vow, or he offer his gift of his own will, on whatsoever day he shall offer his sacrifice, it shall be eaten, and on the morrow.
+v17 And that which is left of the flesh of the sacrifice till the third day, shall be consumed with fire.
+v18 And if he do at all eat of the flesh on the third day, it shall not be accepted for him that offers: it shall not be reckoned to him, it is pollution; and whatsoever soul shall eat of it, shall bear his iniquity.
+v19 And whatsoever flesh shall have touched any unclean thing, it shall not be eaten, it shall be consumed with fire; every one that is clean shall eat the flesh.
+v20 And whatsoever soul shall eat of the flesh of the sacrifice of the peace-offering which is the Lord's, and his uncleanness be upon him, that soul shall perish from his people.
+v21 And whatsoever soul shall touch any unclean thing, either of the uncleanness of a man, or of unclean quadrupeds, or any unclean abominable thing, and shall eat of the flesh of the sacrifice of the peace-offering, which is the Lord's, that soul shall perish from his people.
+v22 And the Lord spoke to Moses, saying,
+v23 Speak to the children of Israel, saying, Ye shall eat no fat of oxen or sheep or goats.
+v24 And the fat of such animals as have died of themselves, or have been seized of beasts, may be employed for any work; but it shall not be eaten for food.
+v25 Every one that eats fat off the beasts, from which he will bring a burnt-offering to the Lord—that soul shall perish from his people.
+v26 Ye shall eat no blood in all your habitations, either of beasts or of birds.
+v27 Every soul that shall eat blood, that soul shall perish from his people.
+v28 And the Lord spoke to Moses, saying,
+v29 Thou shalt also speak to the children of Israel, saying, He that offers a sacrifice of peace-offering, shall bring his gift to the Lord also from the sacrifice of peace-offering.
+v30 His hands shall bring the burnt-offerings to the Lord; the fat which is on the breast and the lobe of the liver, he shall bring them, so as to set them for a gift before the Lord.
+v31 And the priest shall offer the fat upon the altar, and the breast shall be Aaron's and his sons,
+v32 and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
+v33 He that offers the blood of the peace-offering, and the fat, of the sons of Aaron, his shall be the right shoulder for a portion.
+v34 For I have taken the wave-breast and shoulder of separation from the children of Israel from the sacrifices of your peace-offerings, and I have given them to Aaron the priest and his sons, a perpetual ordinance due from the children of Israel.
+v35 This is the anointing of Aaron, and the anointing of his sons, their portion of the burnt-offerings of the Lord, in the day in which he brought them forward to minister as priests to the Lord;
+v36 as the Lord commanded to give to them in the day in which he anointed them of the sons of Israel, a perpetual statute through their generations.
+v37 This is the law of the whole-burnt-offerings, and of sacrifice, and of sin-offering, and of offering for transgression, and of the sacrifice of consecration, and of the sacrifice of peace-offering;
+v38 as the Lord commanded Moses in the mount Sina, in the day in which he commanded the children of Israel to offer their gifts before the Lord in the wilderness of Sina.

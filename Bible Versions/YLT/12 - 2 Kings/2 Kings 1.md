@@ -1,0 +1,45 @@
+# 2 Kings 1 (Young's Literal Translation)
+
+[[Bible Versions/YLT/12 - 2 Kings/2 Kings]] | [[Bible Versions/YLT/12 - 2 Kings/2 Kings 2|2 Kings 2 →]]
+
+***
+
+v1 And Moab transgresseth against Israel after the death of Ahab,
+
+v2 and Ahaziah falleth through the lattice in his upper chamber that [is] in Samaria, and is sick, and sendeth messengers, and saith unto them, 'Go ye, inquire of Baal-Zebub god of Ekron if I recover from this sickness.'
+
+v3 And a messenger of Jehovah hath spoken unto Elijah the Tishbite, 'Rise, go up to meet the messengers of the king of Samaria, and speak unto them, Is it because there is not a God in Israel -- ye are going to inquire of Baal Zebub god of Ekron?
+
+v4 and therefore, thus said Jehovah, The bed whither thou hast gone up, thou dost not come down from it, for thou dost certainly die;' and Elijah goeth on.
+
+v5 And the messengers turn back unto him, and he saith unto them, 'What [is] this -- ye have turned back!'
+
+v6 And they say unto him, 'A man hath come up to meet us, and saith unto us, Go, turn back unto the king who sent you, and ye have said unto him, Thus said Jehovah, Is it because there is not a God in Israel -- thou art sending to inquire of Baal-Zebub god of Ekron? therefore, the bed whither thou hast gone up, thou dost not come down from it, for thou dost certainly die.'
+
+v7 And he saith unto them, 'What [is] the fashion of the man who hath come up to meet you, and speaketh unto you these words?'
+
+v8 And they say unto him, 'A man -- hairy, and a girdle of skin girt about his loins;' and he saith, 'He [is] Elijah the Tishbite.'
+
+v9 And he sendeth unto him a head of fifty and his fifty, and he goeth up unto him (and lo, he is sitting on the top of the hill), and he speaketh unto him, 'O man of God, the king hath spoken, Come down.'
+
+v10 And Elijah answereth and speaketh unto the head of the fifty, 'And if I [am] a man of God, fire doth come down from the heavens, and consume thee and thy fifty;' and fire cometh down from the heavens, and consumeth him and his fifty.
+
+v11 And he turneth and sendeth unto him another head of fifty and his fifty, and he answereth and speaketh unto him, 'O man of God, thus said the king, Haste, come down.'
+
+v12 And Elijah answereth and speaketh unto them, 'If I [am] a man of God, fire doth come down from the heavens, and consume thee and thy fifty;' and fire of God cometh down from the heavens, and consumeth him and his fifty.
+
+v13 And he turneth and sendeth a third head of fifty and his fifty, and the third head of fifty goeth up, and cometh in, and boweth on his knees over-against Elijah, and maketh supplication unto him, and speaketh unto him, 'O man of God, let be precious, I pray thee, my soul and the soul of thy servants -- these fifty -- in thine eyes.
+
+v14 Lo, come down hath fire from the heavens, and consumeth the two heads of the former fifties and their fifties; and, now, let my soul be precious in thine eyes.'
+
+v15 And a messenger of Jehovah speaketh unto Elijah, 'Go down with him, be not afraid of him;' and he riseth and goeth down with him unto the king,
+
+v16 and speaketh unto him, 'Thus said Jehovah, Because that thou hast sent messengers to inquire of Baal-Zebub god of Ekron -- is it because there is not a God in Israel to inquire of His word? therefore, the bed whither thou hast gone up -- thou dost not come down from it, for thou dost certainly die.'
+
+v17 And he dieth, according to the word of Jehovah that Elijah spake, and Jehoram reigneth in his stead, in the second year of Jehoram son of Jehoshaphat king of Judah, for he had no son.
+
+v18 And the rest of the matters of Ahaziah that he did, are they not written on the book of the Chronicles of the kings of Israel?
+
+***
+
+[[Bible Versions/YLT/12 - 2 Kings/2 Kings]] | [[Bible Versions/YLT/12 - 2 Kings/2 Kings 2|2 Kings 2 →]]

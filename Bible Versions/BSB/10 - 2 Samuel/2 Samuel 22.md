@@ -1,0 +1,54 @@
+# 2 Samuel 22 (Berean Standard Bible)
+[[Bible Versions/BSB/10 - 2 Samuel/2 Samuel 21|← 2 Samuel 21]] | [[Bible Versions/BSB/10 - 2 Samuel/2 Samuel]] | [[Bible Versions/BSB/10 - 2 Samuel/2 Samuel 23|2 Samuel 23 →]]
+***
+v1 And David sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul.
+v2 He said: “The LORD is my rock, my fortress, and my deliverer.
+v3 My God is my rock, in whom I take refuge, my shield, and the horn of my salvation. My stronghold, my refuge, and my Savior, You save me from violence.
+v4 I will call upon the LORD, who is worthy to be praised; so shall I be saved from my enemies.
+v5 For the waves of death engulfed me; the torrents of chaos overwhelmed me.
+v6 The cords of Sheol entangled me; the snares of death confronted me.
+v7 In my distress I called upon the LORD; I cried out to my God. And from His temple He heard my voice, and my cry for help reached His ears.
+v8 Then the earth shook and quaked; the foundations of the heavens trembled; they were shaken because He burned with anger.
+v9 Smoke rose from His nostrils, and consuming fire came from His mouth; glowing coals blazed forth.
+v10 He parted the heavens and came down with dark clouds beneath His feet.
+v11 He mounted a cherub and flew; He soared on the wings of the wind.
+v12 He made darkness a canopy around Him, a gathering of water and thick clouds.
+v13 From the brightness of His presence coals of fire blazed forth.
+v14 The LORD thundered from heaven; the voice of the Most High resounded.
+v15 He shot His arrows and scattered the foes; He hurled lightning and routed them.
+v16 The channels of the sea appeared, and the foundations of the world were exposed at the rebuke of the LORD, at the blast of the breath of His nostrils.
+v17 He reached down from on high and took hold of me; He drew me out of deep waters.
+v18 He rescued me from my powerful enemy, from foes too mighty for me.
+v19 They confronted me in my day of calamity, but the LORD was my support.
+v20 He brought me out into the open; He rescued me because He delighted in me.
+v21 The LORD has rewarded me according to my righteousness; He has repaid me according to the cleanness of my hands.
+v22 For I have kept the ways of the LORD and have not wickedly departed from my God.
+v23 For all His ordinances are before me; I have not disregarded His statutes.
+v24 And I have been blameless before Him and kept myself from iniquity.
+v25 So the LORD has repaid me according to my righteousness, according to my cleanness in His sight.
+v26 To the faithful You show Yourself faithful, to the blameless You show Yourself blameless;
+v27 to the pure You show Yourself pure, but to the crooked You show Yourself shrewd.
+v28 You save an afflicted people, but Your eyes are on the haughty to bring them down.
+v29 For You, O LORD, are my lamp; the LORD lights up my darkness.
+v30 For in You I can charge an army; with my God I can scale a wall.
+v31 As for God, His way is perfect; the word of the LORD is flawless. He is a shield to all who take refuge in Him.
+v32 For who is God besides the LORD? And who is the Rock except our God?
+v33 God is my strong fortress, and He makes my way clear.
+v34 He makes my feet like those of a deer and stations me upon the heights.
+v35 He trains my hands for battle; my arms can bend a bow of bronze.
+v36 You have given me Your shield of salvation, and Your gentleness exalts me.
+v37 You broaden the path beneath me so that my ankles do not give way.
+v38 I pursued my enemies and destroyed them; I did not turn back until they were consumed.
+v39 I devoured and crushed them so they could not rise; they have fallen under my feet.
+v40 You have armed me with strength for battle; You have subdued my foes beneath me.
+v41 You have made my enemies retreat before me; I destroyed those who hated me.
+v42 They looked, but there was no one to save them—to the LORD, but He did not answer.
+v43 I ground them as the dust of the earth; I crushed and trampled them like mud in the streets.
+v44 You have delivered me from the strife of my people; You have preserved me as the head of nations; a people I had not known shall serve me.
+v45 Foreigners cower before me; when they hear me, they obey me.
+v46 Foreigners lose heart and come trembling from their strongholds.
+v47 The LORD lives, and blessed be my Rock! And may God, the Rock of my salvation, be exalted—
+v48 the God who avenges me and brings down nations beneath me,
+v49 who frees me from my enemies. You exalt me above my foes; You rescue me from violent men.
+v50 Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name.
+v51 Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever.”

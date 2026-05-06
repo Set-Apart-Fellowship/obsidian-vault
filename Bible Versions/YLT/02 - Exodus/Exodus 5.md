@@ -1,0 +1,55 @@
+# Exodus 5 (Young's Literal Translation)
+
+[[Bible Versions/YLT/02 - Exodus/Exodus 4|← Exodus 4]] | [[Bible Versions/YLT/02 - Exodus/Exodus]] | [[Bible Versions/YLT/02 - Exodus/Exodus 6|Exodus 6 →]]
+
+***
+
+v1 And afterwards have Moses and Aaron entered, and they say unto Pharaoh, 'Thus said Jehovah, God of Israel, Send My people away, and they keep a feast to Me in the wilderness;'
+
+v2 and Pharaoh saith, 'Who [is] Jehovah, that I hearken to His voice, to send Israel away? I have not known Jehovah, and Israel also I do not send away.'
+
+v3 And they say, 'The God of the Hebrews hath met with us, let us go, we pray thee, a journey of three days into the wilderness, and we sacrifice to Jehovah our God, lest He meet us with pestilence or with sword.'
+
+v4 And the king of Egypt saith unto them, 'Why, Moses and Aaron, do ye free the people from its works? go to your burdens.'
+
+v5 Pharaoh also saith, 'Lo, numerous now [is] the people of the land, and ye have caused them to cease from their burdens!'
+
+v6 And Pharaoh commandeth, on that day, the exactors among the people and its authorities, saying,
+
+v7 'Ye do not add to give straw to the people for the making of the bricks, as heretofore -- they go and have gathered straw for themselves;
+
+v8 and the proper quantity of the bricks which they are making heretofore ye do put on them, ye do not diminish from it, for they are remiss, therefore they are crying, saying, Let us go, let us sacrifice to our God;
+
+v9 let the service be heavy on the men, and let them work at it, and not be dazzled by lying words.'
+
+v10 And the exactors of the people, and its authorities, go out, and speak unto the people, saying, 'Thus said Pharaoh, I do not give you straw,
+
+v11 ye -- go ye, take for yourselves straw where ye find [it], for there is nothing of your service diminished.'
+
+v12 And the people is scattered over all the land of Egypt, to gather stubble for straw,
+
+v13 and the exactors are making haste, saying, 'Complete your works, the matter of a day in its day, as when there is straw.'
+
+v14 And the authorities of the sons of Israel, whom the exactors of Pharaoh have placed over them, are beaten, saying, 'Wherefore have ye not completed your portion in making brick as heretofore, both yesterday and to-day?'
+
+v15 And the authorities of the sons of Israel come in and cry unto Pharaoh, saying, 'Why dost thou thus to thy servants?
+
+v16 Straw is not given to thy servants, and they are saying to us, Make bricks, and lo, thy servants are smitten -- and thy people hath sinned.'
+
+v17 And he saith, 'Remiss -- ye are remiss, therefore ye are saying, Let us go, let us sacrifice to Jehovah;
+
+v18 and now, go, serve; and straw is not given to you, and the measure of bricks ye do give.'
+
+v19 And the authorities of the sons of Israel see them in affliction, saying, 'Ye do not diminish from your bricks; the matter of a day in its day.'
+
+v20 And they meet Moses and Aaron standing to meet them, in their coming out from Pharaoh,
+
+v21 and say unto them, 'Jehovah look upon you, and judge, because ye have caused our fragrance to stink in the eyes of Pharaoh, and in the eyes of his servants -- to give a sword into their hand to slay us.'
+
+v22 And Moses turneth back unto Jehovah, and saith, 'Lord, why hast Thou done evil to this people? why [is] this? -- Thou hast sent me!
+
+v23 and since I have come unto Pharaoh, to speak in Thy name, he hath done evil to this people, and Thou hast not at all delivered Thy people.'
+
+***
+
+[[Bible Versions/YLT/02 - Exodus/Exodus 4|← Exodus 4]] | [[Bible Versions/YLT/02 - Exodus/Exodus]] | [[Bible Versions/YLT/02 - Exodus/Exodus 6|Exodus 6 →]]

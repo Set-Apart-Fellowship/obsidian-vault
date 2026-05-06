@@ -1,0 +1,49 @@
+# James 5 (American Standard Version)
+
+[[Bible Versions/ASV/59 - James/James 4|← James 4]] | [[Bible Versions/ASV/59 - James/James]]
+
+***
+
+v1 Come now, ye rich, weep and howl for your miseries that are coming upon you.
+
+v2 Your riches are corrupted, and your garments are moth-eaten.
+
+v3 Your gold and your silver are rusted; and their rust shall be for a testimony against you, and shall eat your flesh as fire. Ye have laid up your treasure in the last days.
+
+v4 Behold, the hire of the laborers who mowed your fields, which is of you kept back by fraud, crieth out: and the cries of them that reaped have entered into the ears of the Lord of Sabaoth.
+
+v5 Ye have lived delicately on the earth, and taken your pleasure; ye have nourished your hearts in a day of slaughter.
+
+v6 Ye have condemned, ye have killed the righteous [one]; he doth not resist you.
+
+v7 Be patient therefore, brethren, until the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, being patient over it, until it receive the early and latter rain.
+
+v8 Be ye also patient; establish your hearts: for the coming of the Lord is at hand.
+
+v9 Murmur not, brethren, one against another, that ye be not judged: behold, the judge standeth before the doors.
+
+v10 Take, brethren, for an example of suffering and of patience, the prophets who spake in the name of the Lord.
+
+v11 Behold, we call them blessed that endured: ye have heard of the patience of Job, and have seen the end of the Lord, how that the Lord is full of pity, and merciful.
+
+v12 But above all things, my brethren, swear not, neither by the heaven, nor by the earth, nor by any other oath: but let your yea be yea, and your nay, nay; that ye fall not under judgment.
+
+v13 Is any among you suffering? Let him pray. Is any cheerful? Let him sing praise.
+
+v14 Is any among you sick? Let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:
+
+v15 and the prayer of faith shall save him that is sick, and the Lord shall raise him up; and if he have committed sins, it shall be forgiven him.
+
+v16 Confess therefore your sins one to another, and pray one for another, that ye may be healed. The supplication of a righteous man availeth much in its working.
+
+v17 Elijah was a man of like passions with us, and he prayed fervently that it might not rain; and it rained not on the earth for three years and six months.
+
+v18 And he prayed again; and the heaven gave rain, and the earth brought forth her fruit.
+
+v19 My brethren, if any among you err from the truth, and one convert him;
+
+v20 let him know, that he who converteth a sinner from the error of his way shall save a soul from death, and shall cover a multitude of sins.
+
+***
+
+[[Bible Versions/ASV/59 - James/James 4|← James 4]] | [[Bible Versions/ASV/59 - James/James]]

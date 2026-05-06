@@ -1,0 +1,35 @@
+# 1 Corinthians 5 (American Standard Version)
+
+[[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians 4|← 1 Corinthians 4]] | [[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians]] | [[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians 6|1 Corinthians 6 →]]
+
+***
+
+v1 It is actually reported that there is fornication among you, and such fornication as is not even among the Gentiles, that one [of you] hath his father's wife.
+
+v2 And ye are puffed up, and did not rather mourn, that he that had done this deed might be taken away from among you.
+
+v3 For I verily, being absent in body but present in spirit, have already as though I were present judged him that hath so wrought this thing,
+
+v4 in the name of our Lord Jesus, ye being gathered together, and my spirit, with the power of our Lord Jesus,
+
+v5 to deliver such a one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
+
+v6 Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump?
+
+v7 Purge out the old leaven, that ye may be a new lump, even as ye are unleavened. For our passover also hath been sacrificed, [even] Christ:
+
+v8 wherefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.
+
+v9 I wrote unto you in my epistle to have no company with fornicators;
+
+v10 not at all [meaning] with the fornicators of this world, or with the covetous and extortioners, or with idolaters; for then must ye needs go out of the world:
+
+v11 but as it is, I wrote unto you not to keep company, if any man that is named a brother be a fornicator, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner; with such a one no, not to eat.
+
+v12 For what have I to do with judging them that are without? Do not ye judge them that are within?
+
+v13 But them that are without God judgeth. Put away the wicked man from among yourselves.
+
+***
+
+[[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians 4|← 1 Corinthians 4]] | [[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians]] | [[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians 6|1 Corinthians 6 →]]

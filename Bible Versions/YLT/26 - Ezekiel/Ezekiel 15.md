@@ -1,0 +1,25 @@
+# Ezekiel 15 (Young's Literal Translation)
+
+[[Bible Versions/YLT/26 - Ezekiel/Ezekiel 14|← Ezekiel 14]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel 16|Ezekiel 16 →]]
+
+***
+
+v1 And there is a word of Jehovah unto me, saying:
+
+v2 'Son of man, What is the vine-tree more than any tree? The vine-branch that hath been, Among trees of the forest?
+
+v3 Is wood taken from it to use for work? Do they take of it a pin to hang any vessel on it?
+
+v4 Lo, to the fire it hath been given for fuel, Its two ends hath the fire eaten, And its midst hath been scorched! Is it profitable for work?
+
+v5 Lo, in its being perfect it is not used for work, How much less, when fire hath eaten of it, And it is scorched, Hath it been used yet for work?
+
+v6 Therefore, thus said the Lord Jehovah: As the vine-tree among trees of the forest, That I have given to the fire for fuel, So I have given the inhabitants of Jerusalem.
+
+v7 And I have set My face against them, From the fire they have gone forth, And the fire doth consume them, And ye have known that I [am] Jehovah, In My setting My face against them.
+
+v8 And I have made the land a desolation, Because they have committed a trespass, An affirmation of the Lord Jehovah!'
+
+***
+
+[[Bible Versions/YLT/26 - Ezekiel/Ezekiel 14|← Ezekiel 14]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel 16|Ezekiel 16 →]]

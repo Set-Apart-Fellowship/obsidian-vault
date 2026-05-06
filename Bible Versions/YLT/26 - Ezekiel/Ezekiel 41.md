@@ -1,0 +1,61 @@
+# Ezekiel 41 (Young's Literal Translation)
+
+[[Bible Versions/YLT/26 - Ezekiel/Ezekiel 40|← Ezekiel 40]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel 42|Ezekiel 42 →]]
+
+***
+
+v1 And he bringeth me in unto the temple, and he measureth the posts, six cubits the breadth on this side, and six cubits the breadth on that side -- the breadth of the tent.
+
+v2 And the breadth of the opening [is] ten cubits; and the sides of the opening [are] five cubits on this side, and five cubits on that side; and he measureth its length forty cubits, and the breadth twenty cubits.
+
+v3 And he hath gone inward, and measureth the post of the opening two cubits, and the opening six cubits, and the breadth of the opening seven cubits.
+
+v4 And he measureth its length twenty cubits, and the breadth twenty cubits, unto the front of the temple, and he saith unto me, 'This [is] the holy of holies.'
+
+v5 And he measureth the wall of the house six cubits, and the breadth of the side-chamber four cubits, all round the house round about.
+
+v6 And the side-chambers [are] side-chamber by side-chamber, three and thirty times; and they are entering into the wall -- which the house hath for the side-chambers all round about -- to be taken hold of, and they are not taken hold of by the wall of the house.
+
+v7 And a broad place and a turning place still upwards [are] to the side-chambers, for the turning round of the house [is] still upwards all round about the house: therefore the breadth of the house [is] upwards, and so the lower one goeth up unto the higher by the midst.
+
+v8 And I have looked at the house, the height all round about: the foundations of the side-chambers [are] the fulness of the reed, six cubits by the joining.
+
+v9 The breadth of the wall that [is] to the side-chamber at the outside [is] five cubits; and that which is left [is] the place of the side-chambers that [are] to the house.
+
+v10 And between the chambers [is] a breadth of twenty cubits round about the house, all round about.
+
+v11 And the opening of the side-chamber [is] to the place left, one opening northward, and one opening southward, and the breadth of the place that is left [is] five cubits all round about.
+
+v12 As to the building that [is] at the front of the separate place [at] the corner westward, the breadth [is] seventy cubits, and the wall of the building five cubits broad all round about, and its length ninety cubits.
+
+v13 And he hath measured the house, the length [is] a hundred cubits; and the separate place, and the building, and its walls, the length [is] a hundred cubits;
+
+v14 and the breadth of the front of the house, and of the separate place eastward, a hundred cubits.
+
+v15 And he hath measured the length of the building unto the front of the separate place that [is] at its hinder part, and its galleries on this side and on that side, a hundred cubits, and the inner temple and the porches of the court,
+
+v16 the thresholds, and the narrow windows, and the galleries round about them three, over-against the threshold, a ceiling of wood all round about, and the ground unto the windows and the covered windows,
+
+v17 over above the opening, and unto the inner-house, and at the outside, and by all the wall all round about within and without [by] measure.
+
+v18 And it is made [with] cherubs and palm-trees, and a palm-tree [is] between cherub and cherub, and two faces [are] to the cherub;
+
+v19 and the face of man [is] unto the palm-tree on this side, and the face of a young lion unto the palm-tree on that side; it is made unto all the house all round about.
+
+v20 from the earth unto above the opening [are] the cherubs and the palm-trees made, and [on] the wall of the temple.
+
+v21 Of the temple the side post [is] square, and of the front of the sanctuary, the appearance [is] as the appearance.
+
+v22 Of the altar, the wood [is] three cubits in height, and its length two cubits; and its corners [are] to it, and its length, and its walls [are] of wood, and he speaketh unto me, 'This [is] the table that [is] before Jehovah.'
+
+v23 And two doors [are] to the temple and to the sanctuary;
+
+v24 and two leaves [are] to the doors, two turning leaves [are] to the doors, two to the one door, and two leaves to the other.
+
+v25 And made on them, on the doors of the temple, [are] cherubs and palm-trees as are made on the walls, and a thickness of wood [is] at the front of the porch on the outside.
+
+v26 And narrow windows and palm-trees [are] on this side, and on that side, at the sides of the porch, and the side-chambers of the house, and the thick places.
+
+***
+
+[[Bible Versions/YLT/26 - Ezekiel/Ezekiel 40|← Ezekiel 40]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel 42|Ezekiel 42 →]]

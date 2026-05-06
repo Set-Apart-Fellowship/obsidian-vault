@@ -1,0 +1,47 @@
+# Jeremiah 1 (American Standard Version)
+
+[[Bible Versions/ASV/24 - Jeremiah/Jeremiah]] | [[Bible Versions/ASV/24 - Jeremiah/Jeremiah 2|Jeremiah 2 →]]
+
+***
+
+v1 The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:
+
+v2 to whom the word of Jehovah came in the days of Josiah the son of Amon, king of Judah, in the thirteenth year of his reign.
+
+v3 It came also in the days of Jehoiakim the son of Josiah, king of Judah, unto the end of the eleventh year of Zedekiah, the son of Josiah, king of Judah, unto the carrying away of Jerusalem captive in the fifth month.
+
+v4 Now the word of Jehovah came unto me, saying,
+
+v5 Before I formed thee in the belly I knew thee, and before thou camest forth out of the womb I sanctified thee; I have appointed thee a prophet unto the nations.
+
+v6 Then said I, Ah, Lord Jehovah! behold, I know not how to speak; for I am a child.
+
+v7 But Jehovah said unto me, Say not, I am a child; for to whomsoever I shall send thee thou shalt go, and whatsoever I shall command thee thou shalt speak.
+
+v8 Be not afraid because of them; for I am with thee to deliver thee, saith Jehovah.
+
+v9 Then Jehovah put forth his hand, and touched my mouth; and Jehovah said unto me, Behold, I have put my words in thy mouth:
+
+v10 see, I have this day set thee over the nations and over the kingdoms, to pluck up and to break down and to destroy and to overthrow, to build and to plant.
+
+v11 Moreover the word of Jehovah came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond-tree.
+
+v12 Then said Jehovah unto me, Thou hast well seen: for I watch over my word to perform it.
+
+v13 And the word of Jehovah came unto me the second time, saying, What seest thou? And I said, I see a boiling caldron; and the face thereof is from the north.
+
+v14 Then Jehovah said unto me, Out of the north evil shall break forth upon all the inhabitants of the land.
+
+v15 For, lo, I will call all the families of the kingdoms of the north, saith Jehovah; and they shall come, and they shall set every one his throne at the entrance of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah.
+
+v16 And I will utter my judgments against them touching all their wickedness, in that they have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands.
+
+v17 Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at them, lest I dismay thee before them.
+
+v18 For, behold, I have made thee this day a fortified city, and an iron pillar, and brazen walls, against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land.
+
+v19 And they shall fight against thee; but they shall not prevail against thee: for I am with thee, saith Jehovah, to deliver thee.
+
+***
+
+[[Bible Versions/ASV/24 - Jeremiah/Jeremiah]] | [[Bible Versions/ASV/24 - Jeremiah/Jeremiah 2|Jeremiah 2 →]]

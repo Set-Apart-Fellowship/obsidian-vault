@@ -1,0 +1,33 @@
+# Psalms 5 (Darby Translation)
+
+[[Bible Versions/DARBY/19 - Psalms/Psalms 4|← Psalms 4]] | [[Bible Versions/DARBY/19 - Psalms/Psalms]] | [[Bible Versions/DARBY/19 - Psalms/Psalms 6|Psalms 6 →]]
+
+***
+
+v1 {To the chief Musician. Upon Nehiloth. A Psalm of David.} Give ear to my words, O Jehovah; consider my meditation.
+
+v2 Hearken unto the voice of my crying, my king and my God; for to thee will I pray.
+
+v3 Jehovah, in the morning shalt thou hear my voice; in the morning will I address myself to thee, and will look up.
+
+v4 For thou art not a Ã¹God that hath pleasure in wickedness; evil shall not sojourn with thee.
+
+v5 Insolent fools shall not stand before thine eyes; thou hatest all workers of iniquity.
+
+v6 Thou wilt destroy them that speak lies: Jehovah abhorreth a man of blood and deceit.
+
+v7 But as for me, in the greatness of thy loving-kindness will I enter thy house; I will bow down toward the temple of thy holiness in thy fear.
+
+v8 Lead me, Jehovah, in thy righteousness, because of my foes; make thy way plain before me.
+
+v9 For there is no certainty in their mouth; their inward part is perversion, their throat is an open sepulchre; they flatter with their tongue.
+
+v10 Bring guilt upon them, O God; let them fall by their own counsels: drive them out in the multitude of their transgressions, for they have rebelled against thee.
+
+v11 And all that trust in thee shall rejoice: for ever shall they shout joyously, and thou wilt protect them; and they that love thy name shall exult in thee.
+
+v12 For thou, Jehovah, wilt bless the righteous [man]; with favour wilt thou surround him as [with] a shield.
+
+***
+
+[[Bible Versions/DARBY/19 - Psalms/Psalms 4|← Psalms 4]] | [[Bible Versions/DARBY/19 - Psalms/Psalms]] | [[Bible Versions/DARBY/19 - Psalms/Psalms 6|Psalms 6 →]]

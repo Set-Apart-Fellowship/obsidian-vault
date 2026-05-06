@@ -1,0 +1,45 @@
+# Isaiah 23 (World English Bible)
+
+[[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah 22|← Isaiah 22]] | [[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah]] | [[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah 24|Isaiah 24 →]]
+
+***
+
+v1 The burden of Tyre. Howl, you ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Kittim it is revealed to them.
+
+v2 Be still, you inhabitants of the coast, you whom the merchants of Sidon, that pass over the sea, have replenished.
+
+v3 On great waters the seed of the Shihor, the harvest of the Nile, was her revenue; and she was the market of nations.
+
+v4 Be you ashamed, Sidon; for the sea has spoken, the stronghold of the sea, saying, I have not travailed, nor brought forth, neither have I nourished young men, nor brought up virgins.
+
+v5 When the report comes to Egypt, they shall be sorely pained at the report of Tyre.
+
+v6 Pass you over to Tarshish; wail, you inhabitants of the coast.
+
+v7 Is this your joyous [city], whose antiquity is of ancient days, whose feet carried her afar off to sojourn?
+
+v8 Who has purposed this against Tyre, the giver of crowns, whose merchants are princes, whose traffickers are the honorable of the earth?
+
+v9 Yahweh of hosts has purposed it, to stain the pride of all glory, to bring into contempt all the honorable of the earth.
+
+v10 Pass through your land as the Nile, daughter of Tarshish; there is no restraint any more.
+
+v11 He has stretched out his hand over the sea, he has shaken the kingdoms: Yahweh has given commandment concerning Canaan, to destroy the strongholds of it.
+
+v12 He said, You shall no more rejoice, you oppressed virgin daughter of Sidon: arise, pass over to Kittim; even there shall you have no rest.
+
+v13 Behold, the land of the Chaldeans: this people was not; the Assyrian founded it for those who dwell in the wilderness; they set up their towers; they overthrew the palaces of it; they made it a ruin.
+
+v14 Howl, you ships of Tarshish; for your stronghold is laid waste.
+
+v15 It shall come to pass in that day, that Tyre shall be forgotten seventy years, according to the days of one king: after the end of seventy years it shall be to Tyre as in the song of the prostitute.
+
+v16 Take a harp, go about the city, you prostitute that has been forgotten; make sweet melody, sing many songs, that you may be remembered.
+
+v17 It shall happen after the end of seventy years, that Yahweh will visit Tyre, and she shall return to her hire, and shall play the prostitute with all the kingdoms of the world on the surface of the earth.
+
+v18 Her merchandise and her hire shall be holiness to Yahweh: it shall not be treasured nor laid up; for her merchandise shall be for those who dwell before Yahweh, to eat sufficiently, and for durable clothing.
+
+***
+
+[[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah 22|← Isaiah 22]] | [[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah]] | [[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah 24|Isaiah 24 →]]

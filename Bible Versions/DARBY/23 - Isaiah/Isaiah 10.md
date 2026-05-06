@@ -1,0 +1,77 @@
+# Isaiah 10 (Darby Translation)
+
+[[Bible Versions/DARBY/23 - Isaiah/Isaiah 9|← Isaiah 9]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah 11|Isaiah 11 →]]
+
+***
+
+v1 Woe unto them that decree iniquitous decrees, and to the writers that prescribe oppression,
+
+v2 to turn away the poor from judgment, and to take away the right from the afflicted of my people; that widows may be their prey, and that they may rob the fatherless!
+
+v3 And what will ye do in the day of visitation, and in the sudden destruction [which] shall come from far? To whom will ye flee for help, and where will ye leave your glory?
+
+v4 They can but crouch under the prisoners, and they shall fall under the slain. For all this his anger is not turned away, and his hand is stretched out still.
+
+v5 Ah! the Assyrian! the rod of mine anger! and the staff in their hand is mine indignation.
+
+v6 I will send him against a hypocritical nation, and against the people of my wrath will I give him a charge; to take the spoil, and to seize the prey, and to tread them down like the mire of the streets.
+
+v7 But he meaneth not so, neither doth his heart think so; for it is in his heart to extirpate and cut off nations not a few.
+
+v8 For he saith, Are not my princes all kings?
+
+v9 Is not Calno as Karkemish? Is not Hamath as Arpad? Is not Samaria as Damascus?
+
+v10 As my hand hath found the kingdoms of the idols, -- and their graven images exceeded those of Jerusalem and Samaria,
+
+v11 -- shall I not, as I have done unto Samaria and her idols, so do to Jerusalem and her images?
+
+v12 And it shall come to pass, when the Lord hath performed his whole work upon mount Zion and upon Jerusalem, I will punish the fruit of the stoutness of heart of the king of Assyria, and the glory of his high looks.
+
+v13 For he saith, By the strength of my hand I have done [it], and by my wisdom, for I am intelligent; and I have removed the bounds of the peoples, and have robbed their treasures, and, like a valiant man, I have brought down them that sit [on thrones];
+
+v14 and my hand hath found as a nest the riches of the peoples, and as one gathereth forsaken eggs, have I gathered all the earth; and there was none that moved the wing, or opened the mouth, or chirped.
+
+v15 -- Shall the axe boast itself against him that heweth therewith? shall the saw magnify itself against him that wieldeth it? As if the rod should wield them that lift it up; as if the staff should lift up [him who is] not wood!
+
+v16 Therefore shall the Lord, Jehovah of hosts, send among his fat ones leanness, and under his glory he shall kindle a burning, like the burning of a fire:
+
+v17 and the light of Israel shall be for a fire, and his Holy One for a flame; and it shall burn and devour his thorns and his briars in one day,
+
+v18 and it shall consume the glory of his forest, and of his fruitful field, both soul and body; and they shall be as when a sick man fainteth.
+
+v19 And the remainder of the trees of his forest shall be few: yea, a child might write them.
+
+v20 And it shall come to pass in that day, [that] the remnant of Israel and such as are escaped of the house of Jacob shall no more again rely upon him that smote them; but they shall rely upon Jehovah, the Holy One of Israel, in truth.
+
+v21 The remnant shall return, the remnant of Jacob, unto the mighty Ã¹God.
+
+v22 For though thy people Israel be as the sand of the sea, [only] a remnant of them shall return: the consumption determined shall overflow in righteousness.
+
+v23 For a consumption, and [one] determined, will the Lord, Jehovah of hosts, accomplish in the midst of all the land.
+
+v24 Therefore thus saith the Lord, Jehovah of hosts: O my people that dwellest in Zion, be not afraid of the Assyrian; he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt:
+
+v25 for yet a very little while, and the indignation shall be accomplished, and mine anger, in their destruction.
+
+v26 And Jehovah of hosts will stir up a scourge against him, according to the slaughter of Midian at the rock of Oreb; and his rod [shall be] upon the sea, and he will lift it up after the manner of Egypt.
+
+v27 And it shall come to pass in that day, [that] his burden shall be taken away from off thy shoulder, and his yoke from off thy neck; and the yoke shall be destroyed because of the anointing. ...
+
+v28 He is come to Aiath, he hath passed through Migron; at Michmash he layeth up his baggage.
+
+v29 They are gone through the pass; they make their lodging at Geba: Ramah trembleth, Gibeah of Saul is fled.
+
+v30 Lift up thy voice, daughter of Gallim! Hearken, O Laish! -- Poor Anathoth!
+
+v31 Madmenah is fugitive; the inhabitants of Gebim take to flight.
+
+v32 Still a day of halting at Nob; he shaketh his hand [against] the mount of the daughter of Zion, the hill of Jerusalem. ...
+
+v33 Behold the Lord, Jehovah of hosts, shall lop the boughs with violence; and the high ones of stature shall be hewn down, and the haughty shall be brought low;
+
+v34 and he shall make clearings in the thickets of the forest with iron; and Lebanon shall fall by a mighty one.
+
+***
+
+[[Bible Versions/DARBY/23 - Isaiah/Isaiah 9|← Isaiah 9]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah 11|Isaiah 11 →]]

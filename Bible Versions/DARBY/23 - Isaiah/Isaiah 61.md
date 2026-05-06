@@ -1,0 +1,31 @@
+# Isaiah 61 (Darby Translation)
+
+[[Bible Versions/DARBY/23 - Isaiah/Isaiah 60|← Isaiah 60]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah 62|Isaiah 62 →]]
+
+***
+
+v1 The Spirit of the Lord Jehovah is upon me, because Jehovah hath anointed me to announce glad tidings unto the meek; he hath sent me to bind up the broken-hearted, to proclaim liberty to the captives, and opening of the prison to them that are bound;
+
+v2 to proclaim the acceptable year of Jehovah, and the day of vengeance of our God; to comfort all that mourn;
+
+v3 to appoint unto them that mourn in Zion, that beauty should be given unto them instead of ashes, the oil of joy instead of mourning, the garment of praise instead of the spirit of heaviness: that they might be called terebinths of righteousness, the planting of Jehovah, that he may be glorified.
+
+v4 And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the places desolate from generation to generation.
+
+v5 And strangers shall stand and feed your flocks, and the sons of the alien shall be your ploughmen and your vinedressers.
+
+v6 But as for you, ye shall be called priests of Jehovah; it shall be said of you: Ministers of our God. Ye shall eat the wealth of the nations, and into their glory shall ye enter.
+
+v7 Instead of your shame [ye shall have] double; instead of confusion they shall celebrate with joy their portion: therefore in their land they shall possess the double; everlasting joy shall be unto them.
+
+v8 For I, Jehovah, love judgment, I hate robbery with wrong; and I will give their recompence in truth, and I will make an everlasting covenant with them.
+
+v9 And their seed shall be known among the nations, and their offspring among the peoples: all that see them shall acknowledge them, that they are a seed that Jehovah hath blessed.
+
+v10 I will greatly rejoice in Jehovah, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh himself with the priestly turban, and as a bride adorneth herself with her jewels.
+
+v11 For as the earth bringeth forth her bud, and as a garden causeth the things that are sown in it to spring forth, so the Lord Jehovah will cause righteousness and praise to spring forth before all the nations.
+
+***
+
+[[Bible Versions/DARBY/23 - Isaiah/Isaiah 60|← Isaiah 60]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah 62|Isaiah 62 →]]

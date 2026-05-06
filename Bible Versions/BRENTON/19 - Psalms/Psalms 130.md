@@ -1,0 +1,3 @@
+v1 A Song of Degrees. O Lord, my heart is not exalted, neither have mine eyes been haughtily raised: neither have I exercised myself in great matters , nor in things too wonderful for me.
+v2 I shall have sinned if I have not been humble, but have exalted my soul: according to the relation of a weaned child to his mother, so wilt thou recompense my soul.
+v3 Let Israel hope in the Lord, from henceforth and for ever.

@@ -1,0 +1,45 @@
+# Zephaniah 1 (Young's Literal Translation)
+
+[[Bible Versions/YLT/36 - Zephaniah/Zephaniah]] | [[Bible Versions/YLT/36 - Zephaniah/Zephaniah 2|Zephaniah 2 →]]
+
+***
+
+v1 A word of Jehovah that hath been unto Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezikiah, in the days of Josiah son of Amoz, king of Judah:
+
+v2 I utterly consume all from off the face of the ground, An affirmation of Jehovah.
+
+v3 I consume man and beast, I consume fowl of the heavens, and fishes of the sea, And the stumbling-blocks -- the wicked, And I have cut off man from the face of the ground, An affirmation of Jehovah,
+
+v4 And stretched out My hand against Judah, And against all inhabiting Jerusalem, And cut off from this place the remnant of Baal, The name of the idolatrous priests, with the priests,
+
+v5 And those bowing themselves On the roofs to the host of the heavens, And those bowing themselves, Swearing to Jehovah, and swearing by Malcham,
+
+v6 And those removing from after Jehovah, And who have not sought Jehovah, nor besought Him.
+
+v7 Hush! because of the Lord Jehovah, For near [is] a day of Jehovah, For prepared hath Jehovah a sacrifice, He hath sanctified His invited ones.
+
+v8 And it hath come to pass, In the day of the sacrifice of Jehovah, That I have laid a charge on the heads, And on sons of the king, And on all putting on strange clothing.
+
+v9 And I have laid a charge on every one Who is leaping over the threshold in that day, Who are filling the house of their masters [With] violence and deceit.
+
+v10 And there hath been in that day, An affirmation of Jehovah, The noise of a cry from the fish-gate, And of a howling from the Second, And of great destruction from the hills.
+
+v11 Howl, ye inhabitants of the hollow place, For cut off hath been all the merchant people, Cut off have been all bearing silver.
+
+v12 And it hath come to pass, at that time, I search Jerusalem with lights, And I have laid a charge on the men Who are hardened on their preserved things, Who are saying in their heart: Jehovah doth no good, nor doth He evil.
+
+v13 And their wealth hath been for a spoil, And their houses for desolation, And they have built houses, and do not inhabit, And they have planted vineyards, And they do not drink their wine.
+
+v14 Near [is] the great day of Jehovah, Near, and hasting exceedingly, The noise of the day of Jehovah, Bitterly shriek there doth a mighty one.
+
+v15 A day of wrath [is] that day, A day of adversity and distress, A day of waste and desolation, A day of darkness and gloominess, A day of cloud and thick darkness.
+
+v16 A day of trumpet and shouting against the fenced cities, And against the high corners.
+
+v17 And I have sent distress to men, And they have walked as the blind, For against Jehovah they have sinned, And poured out is their blood as dust, And their flesh [is] as dung.
+
+v18 Even their silver, even their gold, Is not able to deliver them in a day of the wrath of Jehovah, And in the fire of His jealousy consumed is the whole land, For only a hastened end doth He make Of all the inhabitants of the land!
+
+***
+
+[[Bible Versions/YLT/36 - Zephaniah/Zephaniah]] | [[Bible Versions/YLT/36 - Zephaniah/Zephaniah 2|Zephaniah 2 →]]

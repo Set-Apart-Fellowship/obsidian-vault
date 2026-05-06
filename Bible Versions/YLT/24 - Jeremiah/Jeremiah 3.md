@@ -1,0 +1,59 @@
+# Jeremiah 3 (Young's Literal Translation)
+
+[[Bible Versions/YLT/24 - Jeremiah/Jeremiah 2|← Jeremiah 2]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah 4|Jeremiah 4 →]]
+
+***
+
+v1 Saying, 'Lo, one sendeth away his wife, And she hath gone from him, And she hath been to another man, Doth he turn back unto her again? Greatly defiled is not that land? And thou hast committed whoredom with many lovers, And turn again to Me, an affirmation of Jehovah.
+
+v2 Lift thine eyes to the high places, and see, Where hast thou not been lain with? On the ways thou hast sat for them, As an Arab in a wilderness, And thou defilest the land, By thy fornications, and by thy wickedness.
+
+v3 And withheld are showers, and gathered rain hath not been. The forehead of a whorish woman thou hast, Thou hast refused to be ashamed.
+
+v4 Hast thou not henceforth called to Me, 'My father, Thou [art] the leader of my youth?
+
+v5 Doth He keep to the age? watch for ever?' Lo, these things thou hast spoken, And thou dost the evil things, and prevailest.
+
+v6 And Jehovah saith unto me, in the days of Josiah the king, 'Hast thou seen that which backsliding Israel hath done? She is going on every high mountain, and unto the place of every green tree, and committeth fornication there.
+
+v7 And I say, after her doing all these, Unto Me thou dost turn back, and she hath not turned back, and see [it] doth her treacherous sister Judah.
+
+v8 And I see when (for all the causes whereby backsliding Israel committed adultery) I have sent her away, and I give the bill of her divorce unto her, that treacherous Judah her sister hath not feared, and goeth and committeth fornication -- she also.
+
+v9 And it hath come to pass, from the vileness of her fornication, that the land is defiled, and she committeth fornication with stone and with wood.
+
+v10 And even in all this her treacherous sister Judah hath not turned back unto Me with all her heart, but with falsehood, an affirmation of Jehovah.'
+
+v11 And Jehovah saith unto me: 'Justified herself hath backsliding Israel, More than treacherous Judah.
+
+v12 Go, and thou hast proclaimed these words toward the north, and hast said, Turn back, O backsliding Israel, An affirmation of Jehovah! I cause not Mine anger to fall upon you, For I [am] kind, an affirmation of Jehovah, I watch not to the age.
+
+v13 Only, know thine iniquity, For against Jehovah thy God thou hast transgressed, And thou dost scatter thy ways to strangers, Under every green tree, And to My voice thou hast not hearkened, An affirmation of Jehovah.
+
+v14 Turn back, O backsliding sons, An affirmation of Jehovah. For I have ruled over you, And taken you one of a city, and two of a family, And have brought you to Zion,
+
+v15 And I have given to you shepherds According to Mine own heart, And they have fed you with knowledge and understanding.
+
+v16 And it hath come to pass, when ye are multiplied, And have been fruitful in the land, In those days -- an affirmation of Jehovah, They say not any more, 'The ark of the covenant of Jehovah,' Nor doth it go up on the heart, Nor do they remember concerning it, Nor do they inspect, nor is it made again.
+
+v17 At that time they cry to Jerusalem, 'O throne of Jehovah,' And gathered unto her hath been all the nations, For the name of Jehovah, to Jerusalem, Nor do they go any more after the stubbornness of their evil heart.
+
+v18 In those days do the house of Judah Go unto the house of Israel, And they come together from the land of the south, unto the land That I caused your fathers to inherit.
+
+v19 And I have said, How do I put thee among the sons, And give to thee a desirable land, A beauteous inheritance of the hosts of nations, And I say, My father -- ye do call to Me, And from after Me ye do not turn back.
+
+v20 But -- a woman hath deceived her friend, So ye have dealt treacherously with Me, O house of Israel, an affirmation of Jehovah.
+
+v21 A voice on high places is heard -- weeping, Supplications of the sons of Israel, For they have made perverse their way, They have forgotten Jehovah their God.
+
+v22 Turn back, O backsliding sons, I cause your backslidings to cease. -- Behold us, we have come to Thee, For Thou [art] Jehovah our God.
+
+v23 Surely in vain from the heights, The multitude of mountains -- Surely in Jehovah our God [is] the salvation of Israel.
+
+v24 And the shameful thing hath devoured The labour of our fathers from our youth, Their flock and their herd, Their sons and their daughters.
+
+v25 We have lain down in our shame, and cover us doth our confusion, For against Jehovah our God we have sinned, We, and our fathers, from our youth even unto this day, Nor have we hearkened to the voice of Jehovah our God!
+
+***
+
+[[Bible Versions/YLT/24 - Jeremiah/Jeremiah 2|← Jeremiah 2]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah 4|Jeremiah 4 →]]

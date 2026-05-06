@@ -1,0 +1,31 @@
+# Psalms 16 (World English Bible)
+
+[[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 15|← Psalms 15]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 17|Psalms 17 →]]
+
+***
+
+v1 Preserve me, God, for in you do I take refuge.
+
+v2 My soul, you have said to Yahweh, "You are my Lord.  Apart from you I have no good thing."
+
+v3 As for the saints who are in the earth,  They are the excellent ones in whom is all my delight.
+
+v4 Their sorrows shall be multiplied who give gifts to another god.  Their drink-offerings of blood I will not offer,  Nor take their names on my lips.
+
+v5 Yahweh assigned my portion and my cup.  You made my lot secure.
+
+v6 The lines have fallen to me in pleasant places.  Yes, I have a good inheritance.
+
+v7 I will bless Yahweh, who has given me counsel.  Yes, my heart instructs me in the night seasons.
+
+v8 I have set Yahweh always before me.  Because he is at my right hand, I shall not be moved.
+
+v9 Therefore my heart is glad, and my tongue rejoices.  My body shall also dwell in safety.
+
+v10 For you will not leave my soul in Sheol,  Neither will you allow your holy one to see corruption.
+
+v11 You will show me the path of life.  In your presence is fullness of joy. In your right hand there are pleasures forevermore.   Psalm 17 A Prayer by David.
+
+***
+
+[[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 15|← Psalms 15]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 17|Psalms 17 →]]

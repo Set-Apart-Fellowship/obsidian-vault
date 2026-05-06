@@ -1,0 +1,27 @@
+v1 And Beseleel made the ark,
+v2 and overlaid it with pure gold within and without;
+v3 and he cast for it four golden rings, two on the one side, and two on the other,
+v4 wide enough for the staves, so that men should bear the ark with them.
+v5 And he made the propitiatory over the ark of pure gold,
+v6 and the two cherubs of gold;
+v7 one cherub on the one end of the propitiatory, and another cherub on the other end of the propitiatory,
+v8 overshadowing the propitiatory with their wings.
+v9 And he made the set table of pure gold,
+v10 and cast for it four rings: two on the one side and two on the other side, broad, so that men should lift it with the staves in them.
+v11 And he made the staves of the ark and of the table, and gilded them with gold.
+v12 And he made the furniture of the table, both the dishes, and the censers, and the cups, and the bowls with which he should offer drink-offerings, of gold.
+v13 And he made the candlestick which gives light, of gold;
+v14 the stem solid, and the branches from both its sides;
+v15 and blossoms proceeding from its branches, three on this side, and three on the other, made equal to each other.
+v16 And as to their lamps, which are on the ends, knops proceeded from them; and sockets proceeding from them, that the lamps might be upon them; and the seventh socket, on the top of the candlestick, on the summit above, entirely of solid gold.
+v17 And on the candlestick seven golden lamps, and its snuffers gold, and its funnels gold.
+v18 He overlaid the posts with silver , and cast for each post golden rings, and gilded the bars with gold; and he gilded the posts of the veil with gold, and made the hooks of gold.
+v19 He made also the rings of the tabernacle of gold; and the rings of the court, and the rings for drawing out the veil above of brass.
+v20 He cast the silver chapiters of the tabernacle, and the brazen chapiters of the door of the tabernacle, and the gate of the court; and he made silver hooks for the posts, he overlaid them with silver on the posts.
+v21 He made the pins of the tabernacle and the pins of the court of brass.
+v22 He made the brazen altar of the brazen censers, which belonged to the men engaged in sedition with the gathering of Core.
+v23 He made all the vessels of the altar and its grate, and its base, and its bowls, and the brazen flesh-hooks.
+v24 He made an appendage for the altar of network under the grate, beneath it as far as the middle of it; and he fastened to it four brazen rings on the four parts of the appendage of the altar, wide enough for the bars, so as to bear the altar with them.
+v25 He made the holy anointing oil and the composition of the incense, the pure work of the perfumer.
+v26 He made the brazen laver, and the brazen base of it of the mirrors of the women that fasted, who fasted by the doors of the tabernacle of witness, in the day in which he set it up.
+v27 And he made the laver, that at it Moses and Aaron and his sons might wash their hands and their feet: when they went into the tabernacle of witness, or whensoever they should advance to the altar to do service, they washed at it, as the Lord commanded Moses.

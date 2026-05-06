@@ -1,0 +1,13 @@
+v1 And there was a man of mount Ephraim, and his name was Michaias.
+v2 And he said to his mother, The eleven hundred pieces of silver which thou tookest to thyself, and about which thou cursedst me, and spokest in my ears, behold, the silver is with me; I took it: and his mother said, Blessed be my son of the Lord.
+v3 And he restored the eleven hundred pieces of silver to his mother; and his mother said, I had wholly consecrated the money to the Lord out of my hand for my son, to make a graven and a molten image , and now I will restore it to thee.
+v4 But he returned the silver to his mother, and his mother took two hundred pieces of silver, and gave them to a silversmith, and he made it a graven and a molten image; and it was in the house of Michaias.
+v5 And the house of Michaias was to him the house of God, and he made an ephod and theraphin, and he consecrated one of his sons, and he became to him a priest.
+v6 And in those days there was no king in Israel; every man did that which was right in his own eyes.
+v7 And there was a young man in Bethleem of the tribe of Juda, and he was a Levite, and he was sojourning there.
+v8 And the man departed from Bethleem the city of Juda to sojourn in whatever place he might find; and he came as far as mount Ephraim, and to the house of Michaias to accomplish his journey.
+v9 And Michaias said to him, Whence comest thou? and he said to him, I am a Levite of Bethleem Juda, and I go to sojourn in any place I may find.
+v10 And Michaias said to him, Dwell with me, and be to me a father and a priest; and I will give thee ten pieces of silver by the year, and a change of raiment, and thy living.
+v11 And the Levite went and began to dwell with the man; and the young man was to him as one of his sons.
+v12 And Michaias consecrated the Levite, and he became to him a priest, and he was in the house of Michaias.
+v13 And Michaias said, Now I know that the Lord will do me good, because a Levite has become my priest.

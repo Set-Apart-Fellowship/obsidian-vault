@@ -1,0 +1,63 @@
+# 2 Samuel 1 (American Standard Version)
+
+[[Bible Versions/ASV/10 - 2 Samuel/2 Samuel]] | [[Bible Versions/ASV/10 - 2 Samuel/2 Samuel 2|2 Samuel 2 →]]
+
+***
+
+v1 And it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;
+
+v2 it came to pass on the third day, that, behold, a man came out of the camp from Saul, with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance.
+
+v3 And David said unto him, From whence comest thou? And he said unto him, Out of the camp of Israel am I escaped.
+
+v4 And David said unto him, How went the matter? I pray thee, tell me. And he answered, The people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also.
+
+v5 And David said unto the young man that told him, How knowest thou that Saul and Jonathan his son are dead?
+
+v6 And the young man that told him said, As I happened by chance upon mount Gilboa, behold, Saul was leaning upon his spear; and, lo, the chariots and the horsemen followed hard after him.
+
+v7 And when he looked behind him, he saw me, and called unto me. And I answered, Here am I.
+
+v8 And he said unto me, Who art thou? And I answered him, I am an Amalekite.
+
+v9 And he said unto me, Stand, I pray thee, beside me, and slay me; for anguish hath taken hold of me, because my life is yet whole in me.
+
+v10 So I stood beside him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that was upon his head, and the bracelet that was on his arm, and have brought them hither unto my lord.
+
+v11 Then David took hold on his clothes, and rent them; and likewise all the men that were with him:
+
+v12 and they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of Jehovah, and for the house of Israel; because they were fallen by the sword.
+
+v13 And David said unto the young man that told him, Whence art thou? And he answered, I am the son of a sojourner, an Amalekite.
+
+v14 And David said unto him, How wast thou not afraid to put forth thy hand to destroy Jehovah's anointed?
+
+v15 And David called one of the young men, and said, Go near, and fall upon him. And he smote him, so that he died.
+
+v16 And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain Jehovah's anointed.
+
+v17 And David lamented with this lamentation over Saul and over Jonathan his son
+
+v18 (and he bade them teach the children of Judah [the song of] the bow: behold, it is written in the book of Jashar):
+
+v19 Thy glory, O Israel, is slain upon thy high places! How are the mighty fallen!
+
+v20 Tell it not in Gath, Publish it not in the streets of Ashkelon; Lest the daughters of the Philistines rejoice, Lest the daughters of the uncircumcised triumph.
+
+v21 Ye mountains of Gilboa, Let there be no dew nor rain upon you, neither fields of    offerings: For there the shield of the mighty was vilely cast away, The shield of Saul, not anointed with oil.
+
+v22 From the blood of the slain, from the fat of the mighty, The bow of Jonathan turned not back, And the sword of Saul returned not empty.
+
+v23 Saul and Jonathan were lovely and pleasant in their lives, And in their death they were not divided: They were swifter than eagles, They were stronger than lions.
+
+v24 Ye daughters of Israel, weep over Saul, Who clothed you in scarlet delicately, Who put ornaments of gold upon your apparel.
+
+v25 How are the mighty fallen in the midst of the battle! Jonathan is slain upon thy high places.
+
+v26 I am distressed for thee, my brother Jonathan: Very pleasant hast thou been unto me: Thy love to me was wonderful, Passing the love of women.
+
+v27 How are the mighty fallen, And the weapons of war perished!
+
+***
+
+[[Bible Versions/ASV/10 - 2 Samuel/2 Samuel]] | [[Bible Versions/ASV/10 - 2 Samuel/2 Samuel 2|2 Samuel 2 →]]

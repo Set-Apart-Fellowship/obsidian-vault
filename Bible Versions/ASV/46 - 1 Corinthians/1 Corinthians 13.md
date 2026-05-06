@@ -1,0 +1,35 @@
+# 1 Corinthians 13 (American Standard Version)
+
+[[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians 12|← 1 Corinthians 12]] | [[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians]] | [[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians 14|1 Corinthians 14 →]]
+
+***
+
+v1 If I speak with the tongues of men and of angels, but have not love, I am become sounding brass, or a clanging cymbal.
+
+v2 And if I have [the gift of] prophecy, and know all mysteries and all knowledge; and if I have all faith, so as to remove mountains, but have not love, I am nothing.
+
+v3 And if I bestow all my goods to feed [the poor], and if I give my body to be burned, but have not love, it profiteth me nothing.
+
+v4 Love suffereth long, [and] is kind; love envieth not; love vaunteth not itself, is not puffed up,
+
+v5 doth not behave itself unseemly, seeketh not its own, is not provoked, taketh not account of evil;
+
+v6 rejoiceth not in unrighteousness, but rejoiceth with the truth;
+
+v7 beareth all things, believeth all things, hopeth all things, endureth all things.
+
+v8 Love never faileth: but whether [there be] prophecies, they shall be done away; whether [there be] tongues, they shall cease; whether [there be] knowledge, it shall be done away.
+
+v9 For we know in part, and we prophesy in part;
+
+v10 but when that which is perfect is come, that which is in part shall be done away.
+
+v11 When I was a child, I spake as a child, I felt as a child, I thought as a child: now that I am become a man, I have put away childish things.
+
+v12 For now we see in a mirror, darkly; but then face to face: now I know in part; but then shall I know fully even as also I was fully known.
+
+v13 But now abook_ideth faith, hope, love, these three; and the greatest of these is love.
+
+***
+
+[[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians 12|← 1 Corinthians 12]] | [[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians]] | [[Bible Versions/ASV/46 - 1 Corinthians/1 Corinthians 14|1 Corinthians 14 →]]

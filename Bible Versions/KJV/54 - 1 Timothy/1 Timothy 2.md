@@ -1,0 +1,39 @@
+# 1 Timothy 2 (King James Version)
+
+[[Bible Versions/KJV/54 - 1 Timothy/1 Timothy 1|← 1 Timothy 1]] | [[Bible Versions/KJV/54 - 1 Timothy/1 Timothy]] | [[Bible Versions/KJV/54 - 1 Timothy/1 Timothy 3|1 Timothy 3 →]]
+
+***
+
+v1 I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;
+
+v2 For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.
+
+v3 For this is good and acceptable in the sight of God our Saviour;
+
+v4 Who will have all men to be saved, and to come unto the knowledge of the truth.
+
+v5 For there is one God, and one mediator between God and men, the man Christ Jesus;
+
+v6 Who gave himself a ransom for all, to be testified in due time.
+
+v7 Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.
+
+v8 I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
+
+v9 In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;
+
+v10 But (which becometh women professing godliness) with good works.
+
+v11 Let the woman learn in silence with all subjection.
+
+v12 But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.
+
+v13 For Adam was first formed, then Eve.
+
+v14 And Adam was not deceived, but the woman being deceived was in the transgression.
+
+v15 Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.
+
+***
+
+[[Bible Versions/KJV/54 - 1 Timothy/1 Timothy 1|← 1 Timothy 1]] | [[Bible Versions/KJV/54 - 1 Timothy/1 Timothy]] | [[Bible Versions/KJV/54 - 1 Timothy/1 Timothy 3|1 Timothy 3 →]]

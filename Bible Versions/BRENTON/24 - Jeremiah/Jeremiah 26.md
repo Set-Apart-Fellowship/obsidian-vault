@@ -1,0 +1,26 @@
+v2 For Egypt, against the Power of Pharao Nechao King of Egypt, who was by the river Euphrates in Charmis, whom Nabuchodonosor king of Babylon smote in the fourth year of Joakim king of Juda.
+v3 Take up arms and spears, and draw nigh to battle;
+v4 and harness the horses: mount, ye horsemen, and stand ready in your helmets; advance the spears, and put on your breast-plates.
+v5 Why do they fear, and turn back? even because their mighty men shall be slain: they have utterly fled, and being hemmed in they have not rallied, saith the Lord.
+v6 Let not the swift flee, and let not the mighty man escape to the north: the forces at Euphrates are become feeble, and they have fallen.
+v7 Who is this that shall come up as a river, and as rivers roll their waves?
+v8 The waters of Egypt shall come up like a river: and he said, I will go up, and will cover the earth, and will destroy the dwellers in it.
+v9 Mount ye the horses, prepare the chariots; go forth, ye warriors of the Ethiopians, and Libyans armed with shields; and mount, ye Lydians, bend the bow.
+v10 And that day shall be to the Lord our God a day of vengeance, to take vengeance on his enemies: and the sword of the Lord shall devour, and be glutted, and be drunken with their blood: for the Lord has a sacrifice from the land of the north at the river Euphrates.
+v11 Go up to Galaad, and take balm for the virgin daughter of Egypt: in vain hast thou multiplied thy medicines; there is no help in thee.
+v12 The nations have heard thy voice, and the land has been filled with thy cry: for the warriors have fainted fighting one against another, and both are fallen together.
+v13 The Words which the Lord spoke by Jeremias, concerning the coming of the king of Babylon to smite the land of Egypt.
+v14 Proclaim it at Magdol, and declare it at Memphis: say ye, Stand up, and prepare; for the sword has devoured thy yew-tree.
+v15 Wherefore has Apis fled from thee? thy choice calf has not remained; for the Lord has utterly weakened him.
+v16 And thy multitude has fainted and fallen; and each one said to his neighbour, Let us arise, and return into our country to our people, from the Grecian sword.
+v17 Call ye the name of Pharao Nechao king of Egypt, Saon esbeie moed.
+v18 As I live, saith the Lord God, he shall come as Itabyrion among the mountains, and as Carmel that is on the sea.
+v19 O daughter of Egypt dwelling at home , prepare thee stuff for removing: for Memphis shall be utterly desolate, and shall be called Woe, because there are no inhabitants in it.
+v20 Egypt is a fair heifer, but destruction from the north is come upon her.
+v21 Also her hired soldiers in the midst of her are as fatted calves fed in her; for they also have turned, and fled with one accord: they stood not, for the day of destruction was come upon them, and the time of their retribution.
+v22 Their voice is as that of a hissing serpent, for they go upon the sand; they shall come upon Egypt with axes, as men that cut wood.
+v23 They shall cut down her forest, saith the Lord, for their number cannot at all be conjectured, for it exceeds the locust in multitude, and they are innumerable.
+v24 The daughter of Egypt is confounded; she is delivered into the hands of a people from the north.
+v25 Behold, I will avenge Ammon her son upon Pharao, and upon them that trust in him.
+v27 But fear not thou, my servant Jacob, neither be thou alarmed, Israel: for, behold, I will save thee from afar, and thy seed from their captivity; and Jacob shall return, and be at ease, and sleep, and there shall be no one to trouble him.
+v28 Fear not thou, my servant Jacob, saith the Lord; for I am with thee: she that was without fear and in luxury, has been delivered up: for I will make a full end of every nation among whom I have thrust thee forth; but I will not cause thee to fail: yet will I chastise thee in the way of judgment, and will not hold thee entirely guiltless.

@@ -1,0 +1,8 @@
+v1 A Psalm for David, of Aggæus and Zacharias. I will give thee thanks, O Lord, with my whole heart; and I will sing psalms to thee before the angels; for thou hast heard all the words of my mouth.
+v2 I will worship toward thy holy temple, and give thanks to thy name, on account of thy mercy and thy truth; for thou hast magnified thy holy name above every thing.
+v3 In whatsoever day I shall call upon thee, hear me speedily; thou shalt abundantly provide me with thy power in my soul.
+v4 Let all the kings of the earth, O Lord, give thanks unto thee; for they have heard all the words of thy mouth.
+v5 And let them sing in the ways of the Lord; for great is the glory of the Lord.
+v6 For the Lord is high, and yet regards the lowly; and he knows high things from afar off.
+v7 Though I should walk in the midst of affliction, thou wilt quicken me; thou hast stretched forth thine hands against the wrath of mine enemies, and thy right hand has saved me.
+v8 O Lord, thou shalt recompense them on my behalf: thy mercy, O Lord, endures for ever: overlook not the works of thine hands.

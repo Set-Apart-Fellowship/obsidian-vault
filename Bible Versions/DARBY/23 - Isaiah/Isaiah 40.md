@@ -1,0 +1,71 @@
+# Isaiah 40 (Darby Translation)
+
+[[Bible Versions/DARBY/23 - Isaiah/Isaiah 39|← Isaiah 39]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah 41|Isaiah 41 →]]
+
+***
+
+v1 Comfort ye, comfort ye my people, saith your God.
+
+v2 Speak to the heart of Jerusalem, and cry unto her, that her time of suffering is accomplished, that her iniquity is pardoned; for she hath received of Jehovah's hand double for all her sins.
+
+v3 The voice of one crying in the wilderness: Prepare ye the way of Jehovah, make straight in the desert a highway for our God!
+
+v4 Every valley shall be raised up, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough places a plain.
+
+v5 And the glory of Jehovah shall be revealed, and all flesh shall see [it] together: for the mouth of Jehovah hath spoken.
+
+v6 A voice saith, Cry. And he saith, What shall I cry? -- All flesh is grass, and all the comeliness thereof as the flower of the field.
+
+v7 The grass withereth, the flower fadeth, for the breath of Jehovah bloweth upon it: surely the people is grass.
+
+v8 The grass withereth, the flower fadeth; but the word of our God abook_ideth for ever.
+
+v9 O Zion, that bringest glad tidings, get thee up into a high mountain; O Jerusalem, that bringest glad tidings, lift up thy voice with strength: lift it up, be not afraid; say unto the cities of Judah, Behold your God!
+
+v10 Behold, the Lord Jehovah will come with might, and his arm shall rule for him; behold, his reward is with him, and his recompence before him.
+
+v11 He will feed his flock like a shepherd: he will gather the lambs with his arm, and carry them in his bosom; he will gently lead those that give suck.
+
+v12 Who hath measured the waters in the hollow of his hand, and meted out the heavens with [his] span, and grasped the dust of the earth in a measure, and weighed the mountains in a balance, and the hills in scales?
+
+v13 Who hath directed the Spirit of Jehovah, and, [as] his counsellor, hath taught him?
+
+v14 With whom took he counsel, and [who] gave him intelligence, and instructed him in the path of judgment, and taught him knowledge, and shewed him the way of understanding?
+
+v15 Behold, the nations are esteemed as a drop of the bucket, and as the fine dust on the scales; behold, he taketh up the isles as an atom.
+
+v16 And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt-offering.
+
+v17 All the nations are as nothing before him; they are esteemed by him less than a cipher, and vanity.
+
+v18 To whom then will ye liken Ã¹God? and what likeness will ye compare unto him?
+
+v19 The workman casteth a graven image, and the goldsmith spreadeth it over with gold, and casteth silver chains [for it].
+
+v20 He that is impoverished, so that he hath no offering, chooseth a tree that doth not rot; he seeketh unto him a skilled workman to prepare a graven image that shall not be moved.
+
+v21 -- Do ye not know? Have ye not heard? Hath it not been told you from the beginning? Have ye not understood the foundation of the earth?
+
+v22 [It is] he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a gauze curtain, and spreadeth them out as a tent to dwell in;
+
+v23 that bringeth the princes to nothing, that maketh the judges of the earth as vanity.
+
+v24 Scarcely are they planted, scarcely are they sown, scarcely hath their stock taken root in the earth, but he also bloweth upon them and they wither, and the whirlwind taketh them away as stubble.
+
+v25 To whom then will ye liken me, or shall I be equal? saith the Holy One.
+
+v26 Lift up your eyes on high, and see! Who hath created these things, bringing out their host by number? He calleth them all by name; through the greatness of his might and strength of power, not one faileth.
+
+v27 Why sayest thou, Jacob, and speakest, O Israel, My way is hid from Jehovah, and my right is passed away from my God?
+
+v28 Dost thou not know, hast thou not heard, that the everlasting God, Jehovah, the Creator of the ends of the earth, fainteth not nor tireth? There is no searching of his understanding.
+
+v29 He giveth power to the faint; and to him that hath no might he increaseth strength.
+
+v30 Even the youths shall faint and shall tire, and the young men shall stumble and fall;
+
+v31 but they that wait upon Jehovah shall renew [their] strength: they shall mount up with wings as eagles; they shall run, and not tire; they shall walk, and not faint.
+
+***
+
+[[Bible Versions/DARBY/23 - Isaiah/Isaiah 39|← Isaiah 39]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah 41|Isaiah 41 →]]

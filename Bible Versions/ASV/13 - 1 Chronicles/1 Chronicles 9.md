@@ -1,0 +1,97 @@
+# 1 Chronicles 9 (American Standard Version)
+
+[[Bible Versions/ASV/13 - 1 Chronicles/1 Chronicles 8|← 1 Chronicles 8]] | [[Bible Versions/ASV/13 - 1 Chronicles/1 Chronicles]] | [[Bible Versions/ASV/13 - 1 Chronicles/1 Chronicles 10|1 Chronicles 10 →]]
+
+***
+
+v1 So all Israel were reckoned by genealogies; and, behold, they are written in the book of the kings of Israel: and Judah was carried away captive to Babylon for their transgression.
+
+v2 Now the first inhabitants that dwelt in their possessions in their cities were Israel, the priests, the Levites, and the Nethinim.
+
+v3 And in Jerusalem dwelt of the children of Judah, and of the children of Benjamin, and of the children of Ephraim and Manasseh:
+
+v4 Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Perez the son of Judah.
+
+v5 And of the Shilonites: Asaiah the first-born, and his sons.
+
+v6 And of the sons of Zerah: Jeuel, and their brethren, six hundred and ninety.
+
+v7 And of the sons of Benjamin: Sallu the son of Meshullam, the son of Hodaviah, the son of Hassenuah,
+
+v8 and Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephatiah, the son of Reuel, the son of Ibnijah;
+
+v9 and their brethren, according to their generations, nine hundred and fifty and six. All these men were heads of fathers' [houses] by their fathers' houses.
+
+v10 And of the priests: Jedaiah, and Jehoiarib, Jachin,
+
+v11 and Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;
+
+v12 and Adaiah the son of Jeroham, the son of Pashhur, the son of Malchijah, and Maasai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;
+
+v13 and their brethren, heads of their fathers' houses, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.
+
+v14 And of the Levites: Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari;
+
+v15 and Bakbakkar, Heresh, and Galal, and Mattaniah the son of Mica, the son of Zichri, the son of Asaph,
+
+v16 and Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites.
+
+v17 And the porters: Shallum, and Akkub, and Talmon, and Ahiman, and their brethren (Shallum was the chief),
+
+v18 who hitherto [waited] in the king's gate eastward: they were the porters for the camp of the children of Levi.
+
+v19 And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of his father's house, the Korahites, were over the work of the service, keepers of the thresholds of the tent: and their fathers had been over the camp of Jehovah, keepers of the entry.
+
+v20 And Phinehas the son of Eleazar was ruler over them in time past, [and] Jehovah was with him.
+
+v21 Zechariah the son of Meshelemiah was porter of the door of the tent of meeting.
+
+v22 All these that were chosen to be porters in the thresholds were two hundred and twelve. These were reckoned by genealogy in their villages, whom David and Samuel the seer did ordain in their office of trust.
+
+v23 So they and their children had the oversight of the gates of the house of Jehovah, even the house of the tent, by wards.
+
+v24 On the four sides were the porters, toward the east, west, north, and south.
+
+v25 And their brethren, in their villages, were to come in every seven days from time to time to be with them:
+
+v26 for the four chief porters, who were Levites, were in an office of trust, and were over the chambers and over the treasuries in the house of God.
+
+v27 And they lodged round about the house of God, because the charge [thereof] was upon them; and to them pertained the opening thereof morning by morning.
+
+v28 And certain of them had charge of the vessels of service; for by count were these brought in and by count were these taken out.
+
+v29 Some of them also were appointed over the furniture, and over all the vessels of the sanctuary, and over the fine flour, and the wine, and the oil, and the frankincense, and the spices.
+
+v30 And some of the sons of the priests prepared the confection of the spices.
+
+v31 And Mattithiah, one of the Levites, who was the first-born of Shallum the Korahite, had the office of trust over the things that were baked in pans.
+
+v32 And some of their brethren, of the sons of the Kohathites, were over the showbread, to prepare it every sabbath.
+
+v33 And these are the singers, heads of fathers' [houses] of the Levites, [who dwelt] in the chambers [and were] free [from other service]; for they were employed in their work day and night.
+
+v34 These were heads of fathers' [houses] of the Levites, throughout their generations, chief men: these dwelt at Jerusalem.
+
+v35 And in Gibeon there dwelt the father of Gibeon, Jeiel, whose wife's name was Maacah:
+
+v36 and his first-born son Abdon, and Zur, and Kish, and Baal, and Ner, and Nadab,
+
+v37 and Gedor, and Ahio, and Zechariah, and Mikloth.
+
+v38 And Mikloth begat Shimeam. And they also dwelt with their brethren in Jerusalem, over against their brethren.
+
+v39 And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.
+
+v40 And the son of Jonathan was Merib-baal; and Merib-baal begat Micah.
+
+v41 And the sons of Micah: Pithon, and Melech, and Tahrea, [and Ahaz].
+
+v42 And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza;
+
+v43 and Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son.
+
+v44 And Azel had six sons, whose names are these: Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel.
+
+***
+
+[[Bible Versions/ASV/13 - 1 Chronicles/1 Chronicles 8|← 1 Chronicles 8]] | [[Bible Versions/ASV/13 - 1 Chronicles/1 Chronicles]] | [[Bible Versions/ASV/13 - 1 Chronicles/1 Chronicles 10|1 Chronicles 10 →]]

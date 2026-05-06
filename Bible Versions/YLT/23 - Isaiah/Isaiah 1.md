@@ -1,0 +1,71 @@
+# Isaiah 1 (Young's Literal Translation)
+
+[[Bible Versions/YLT/23 - Isaiah/Isaiah]] | [[Bible Versions/YLT/23 - Isaiah/Isaiah 2|Isaiah 2 →]]
+
+***
+
+v1 The Visions of Isaiah son of Amoz, that he hath seen concerning Judah and Jerusalem, in the days of Uzziah, Jotham, Ahaz, Hezekiah, kings of Judah.
+
+v2 Hear, O heavens, and give ear, O earth, For Jehovah hath spoken: Sons I have nourished and brought up, And they -- they transgressed against Me.
+
+v3 An ox hath known its owner, And an ass the crib of its master, Israel hath not known, My people hath not understood.
+
+v4 Ah, sinning nation, a people heavy [with] iniquity, A seed of evil doers, sons -- corrupters! They have forsaken Jehovah, They have despised the Holy One of Israel, They have gone away backward.
+
+v5 Wherefore are ye stricken any more? Ye do add apostacy! Every head is become diseased, and every heart [is] sick.
+
+v6 From the sole of the foot -- unto the head, There is no soundness in it, Wound, and bruise, and fresh smiting! They have not been closed nor bound, Nor have they softened with ointment.
+
+v7 Your land [is] a desolation, your cities burnt with fire, Your ground, before you strangers are consuming it, And a desolation as overthrown by strangers!
+
+v8 And left hath been the daughter of Zion, As a booth in a vineyard, As a lodge in a place of cucumbers -- as a city besieged.
+
+v9 Unless Jehovah of Hosts had left to us a remnant, Shortly -- as Sodom we had been, To Gomorrah we had been like!
+
+v10 Hear the word of Jehovah, ye rulers of Sodom, Give ear to the law of our God, ye people of Gomorrah,
+
+v11 'Why to Me the abundance of your sacrifices? saith Jehovah, I have been satiated [with] burnt-offerings of rams, And fat of fatlings; And blood of bullocks, and lambs, And he-goats I have not desired.
+
+v12 When ye come in to appear before Me, Who hath required this of your hand, To trample My courts?
+
+v13 Add not to bring in a vain present, Incense -- an abomination it [is] to Me, New moon, and sabbath, calling of convocation! Rendure not iniquity -- and a restraint!
+
+v14 Your new moons and your set seasons hath My soul hated, They have been upon me for a burden, I have been weary of bearing.
+
+v15 And in your spreading forth your hands, I hide mine eyes from you, Also when ye increase prayer, I do not hear, Your hands of blood have been full.
+
+v16 Wash ye, make ye pure, Turn aside the evil of your doings, from before Mine eyes, Cease to do evil, learn to do good.
+
+v17 Seek judgment, make happy the oppressed, Judge the fatherless, strive [for] the widow.
+
+v18 Come, I pray you, and we reason, saith Jehovah, If your sins are as scarlet, as snow they shall be white, If they are red as crimson, as wool they shall be!
+
+v19 If ye are willing, and have hearkened, The good of the land ye consume,
+
+v20 And if ye refuse, and have rebelled, [By] the sword ye are consumed, For the mouth of Jehovah hath spoken.
+
+v21 How hath a faithful city become a harlot? I have filled it [with] judgment, Righteousness lodgeth in it -- now murderers.
+
+v22 Thy silver hath become dross, Thy drink polluted with water.
+
+v23 Thy princes [are] apostates, and companions of thieves, Every one loving a bribe, and pursuing rewards, The fatherless they judge not, And the plea of the widow cometh not to them.
+
+v24 Therefore -- the affirmation of the Lord -- Jehovah of Hosts, the Mighty One of Israel: Ah, I am eased of Mine adversaries, And I am avenged of Mine enemies,
+
+v25 And I turn back My hand upon thee, And I refine as purity thy dross, And I turn aside all thy tin,
+
+v26 And I give back thy judges as at the first, And thy counsellors as in the beginning, After this thou art called, 'A city of righteousness -- a faithful city.'
+
+v27 Zion in judgment is redeemed, And her captivity in righteousness.
+
+v28 And the destruction of transgressors and sinners [is] together, And those forsaking Jehovah are consumed.
+
+v29 For [men] are ashamed because of the oaks That ye have desired, And ye are confounded because of the gardens That ye have chosen.
+
+v30 For ye are as an oak whose leaf is fading, And as a garden that hath no water.
+
+v31 And the strong hath been for tow, And his work for a spark, And burned have both of them together, And there is none quenching!
+
+***
+
+[[Bible Versions/YLT/23 - Isaiah/Isaiah]] | [[Bible Versions/YLT/23 - Isaiah/Isaiah 2|Isaiah 2 →]]

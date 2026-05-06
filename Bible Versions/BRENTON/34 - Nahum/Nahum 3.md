@@ -1,0 +1,19 @@
+v1 O city of blood, wholly false, full of unrighteousness; the prey shall not be handled.
+v2 The noise of whips, and the noise of the rumbling of wheels, and of the pursuing horse, and of the bounding chariot,
+v3 and of the mounting rider, and of the glittering sword, and of the gleaming arms, and of a multitude of slain, and of heavy falling: and there was no end to her nations, but they shall be weak in their bodies
+v4 because of the abundance of fornication: she is a fair harlot, and well-favoured, skilled in sorcery, that sells the nations by her fornication, and peoples by her sorceries.
+v5 Behold, I am against thee, saith the Lord God Almighty, and I will uncover thy skirts in thy presence, and I will shew the nations thy shame, and the kingdoms thy disgrace.
+v6 And I will cast abominable filth upon thee according to thine unclean ways, and will make thee a public example.
+v7 And it shall be that every one that sees thee shall go down from thee, and shall say, Wretched Nineve! who shall lament for her? whence shall I seek comfort for her?
+v8 Prepare thee a portion, tune the chord, prepare a portion for Ammon: she that dwells among the rivers, water is round about her, whose dominion is the sea, and whose walls are water.
+v9 And Ethiopia is her strength, and Egypt; and there was no limit of the flight of her enemies ; and the Libyans became her helpers.
+v10 Yet she shall go as a prisoner into captivity, and they shall dash her infants against the ground at the top of all her ways: and they shall cast lots upon all her glorious possessions , and all her nobles shall be bound in chains.
+v11 And thou shalt be drunken, and shalt be overlooked; and thou shalt seek for thyself strength because of thine enemies.
+v12 All thy strong-holds are as fig-trees having watchers: if they be shaken, they shall fall into the mouth of the eater.
+v13 Behold, thy people within thee are as women: the gates of thy land shall surely be opened to thine enemies: the fire shall devour thy bars.
+v14 Draw thee water for a siege, and well secure thy strong-holds: enter into the clay, and be thou trodden in the chaff, make the fortifications stronger than brick.
+v15 There the fire shall devour thee; the sword shall utterly destroy thee, it shall devour thee as the locust, and thou shalt be pressed down as a palmerworm.
+v16 Thou hast multiplied thy merchandise beyond the stars of heaven: the palmerworm has attacked it , and has flown away.
+v17 Thy mixed multitude has suddenly departed as the grasshopper, as the locust perched on a hedge in a frosty day; the sun arises, and it flies off, and knows not its place: woe to them!
+v18 Thy shepherds have slumbered, the Assyrian king has laid low thy mighty men: thy people departed to the mountains, and there was none to receive them .
+v19 There is no healing for thy bruise; thy wound has rankled: all that hear the report of thee shall clap their hands against thee; for upon whom has not thy wickedness passed continually?

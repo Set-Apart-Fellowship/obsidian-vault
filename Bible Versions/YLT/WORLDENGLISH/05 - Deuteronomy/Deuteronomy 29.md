@@ -1,0 +1,67 @@
+# Deuteronomy 29 (World English Bible)
+
+[[Bible Versions/YLT/WORLDENGLISH/05 - Deuteronomy/Deuteronomy 28|← Deuteronomy 28]] | [[Bible Versions/YLT/WORLDENGLISH/05 - Deuteronomy/Deuteronomy]] | [[Bible Versions/YLT/WORLDENGLISH/05 - Deuteronomy/Deuteronomy 30|Deuteronomy 30 →]]
+
+***
+
+v1 These are the words of the covenant which Yahweh commanded Moses to make with the children of Israel in the land of Moab, besides the covenant which he made with them in Horeb.
+
+v2 Moses called to all Israel, and said to them, You have seen all that Yahweh did before your eyes in the land of Egypt to Pharaoh, and to all his servants, and to all his land;
+
+v3 the great trials which your eyes saw, the signs, and those great wonders:
+
+v4 but Yahweh has not given you a heart to know, and eyes to see, and ears to hear, to this day.
+
+v5 I have led you forty years in the wilderness: your clothes have not grown old on you, and your shoe has not grown old on your foot.
+
+v6 You have not eaten bread, neither have you drunk wine or strong drink; that you may know that I am Yahweh your God.
+
+v7 When you came to this place, Sihon the king of Heshbon, and Og the king of Bashan, came out against us to battle, and we struck them:
+
+v8 and we took their land, and gave it for an inheritance to the Reubenites, and to the Gadites, and to the half-tribe of the Manassites.
+
+v9 Keep therefore the words of this covenant, and do them, that you may prosper in all that you do.
+
+v10 You stand this day all of you before Yahweh your God; your heads, your tribes, your elders, and your officers, even all the men of Israel,
+
+v11 your little ones, your wives, and your sojourner who is in the midst of your camps, from the one who cuts your wood to the one who draws your water;
+
+v12 that you may enter into the covenant of Yahweh your God, and into his oath, which Yahweh your God makes with you this day;
+
+v13 that he may establish you this day to himself for a people, and that he may be to you a God, as he spoke to you, and as he swore to your fathers, to Abraham, to Isaac, and to Jacob.
+
+v14 Neither with you only do I make this covenant and this oath,
+
+v15 but with him who stands here with us this day before Yahweh our God, and also with him who is not here with us this day
+
+v16 (for you know how we lived in the land of Egypt, and how we came through the midst of the nations through which you passed;
+
+v17 and you have seen their abominations, and their idols, wood and stone, silver and gold, which were among them);
+
+v18 lest there should be among you man, or woman, or family, or tribe, whose heart turns away this day from Yahweh our God, to go to serve the gods of those nations; lest there should be among you a root that bears gall and wormwood;
+
+v19 and it happen, when he hears the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the stubbornness of my heart, to destroy the moist with the dry.
+
+v20 Yahweh will not pardon him, but then the anger of Yahweh and his jealousy will smoke against that man, and all the curse that is written in this book shall lie on him, and Yahweh will blot out his name from under the sky.
+
+v21 Yahweh will set him apart to evil out of all the tribes of Israel, according to all the curses of the covenant that is written in this book of the law.
+
+v22 The generation to come, your children who shall rise up after you, and the foreigner who shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses with which Yahweh has made it sick;
+
+v23 [and that] the whole land of it is sulfur, and salt, [and] a burning, [that] it is not sown, nor bears, nor any grass grows therein, like the overthrow of Sodom and Gomorrah, Admah and Zeboiim, which Yahweh overthrew in his anger, and in his wrath:
+
+v24 even all the nations shall say, Why has Yahweh done thus to this land? what means the heat of this great anger?
+
+v25 Then men shall say, Because they forsook the covenant of Yahweh, the God of their fathers, which he made with them when he brought them forth out of the land of Egypt,
+
+v26 and went and served other gods, and worshipped them, gods that they didn't know, and that he had not given to them:
+
+v27 therefore the anger of Yahweh was kindled against this land, to bring on it all the curse that is written in this book;
+
+v28 and Yahweh rooted them out of their land in anger, and in wrath, and in great indignation, and cast them into another land, as at this day.
+
+v29 The secret things belong to Yahweh our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.
+
+***
+
+[[Bible Versions/YLT/WORLDENGLISH/05 - Deuteronomy/Deuteronomy 28|← Deuteronomy 28]] | [[Bible Versions/YLT/WORLDENGLISH/05 - Deuteronomy/Deuteronomy]] | [[Bible Versions/YLT/WORLDENGLISH/05 - Deuteronomy/Deuteronomy 30|Deuteronomy 30 →]]

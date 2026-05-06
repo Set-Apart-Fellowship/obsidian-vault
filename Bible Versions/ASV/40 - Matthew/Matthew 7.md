@@ -1,0 +1,67 @@
+# Matthew 7 (American Standard Version)
+
+[[Bible Versions/ASV/40 - Matthew/Matthew 6|← Matthew 6]] | [[Bible Versions/ASV/40 - Matthew/Matthew]] | [[Bible Versions/ASV/40 - Matthew/Matthew 8|Matthew 8 →]]
+
+***
+
+v1 Judge not, that ye be not judged.
+
+v2 For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured unto you.
+
+v3 And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye?
+
+v4 Or how wilt thou say to thy brother, Let me cast out the mote out of thine eye; and lo, the beam is in thine own eye?
+
+v5 Thou hypocrite, cast out first the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
+
+v6 Give not that which is holy unto the dogs, neither cast your pearls before the swine, lest haply they trample them under their feet, and turn and rend you.
+
+v7 Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:
+
+v8 for every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
+
+v9 Or what man is there of you, who, if his son shall ask him for a loaf, will give him a stone;
+
+v10 or if he shall ask for a fish, will give him a serpent?
+
+v11 If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father who is in heaven give good things to them that ask him?
+
+v12 All things therefore whatsoever ye would that men should do unto you, even so do ye also unto them: for this is the law and the prophets.
+
+v13 Enter ye in by the narrow gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many are they that enter in thereby.
+
+v14 For narrow is the gate, and straitened the way, that leadeth unto life, and few are they that find it.
+
+v15 Beware of false prophets, who come to you in sheep's clothing, but inwardly are ravening wolves.
+
+v16 By their fruits ye shall know them. Do [men] gather grapes of thorns, or figs of thistles?
+
+v17 Even so every good tree bringeth forth good fruit; but the corrupt tree bringeth forth evil fruit.
+
+v18 A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit.
+
+v19 Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.
+
+v20 Therefore by their fruits ye shall know them.
+
+v21 Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father who is in heaven.
+
+v22 Many will say to me in that day, Lord, Lord, did we not prophesy by thy name, and by thy name cast out demons, and by thy name do many mighty works?
+
+v23 And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
+
+v24 Every one therefore that heareth these words of mine, and doeth them, shall be likened unto a wise man, who built his house upon the rock:
+
+v25 and the rain descended, and the floods came, and the winds blew, and beat upon that house; and if fell not: for it was founded upon the rock.
+
+v26 And every one that heareth these words of mine, and doeth them not, shall be likened unto a foolish man, who built his house upon the sand:
+
+v27 and the rain descended, and the floods came, and the winds blew, and smote upon that house; and it fell: and great was the fall thereof.
+
+v28 And it came to pass, when Jesus had finished these words, the multitudes were astonished at his teaching:
+
+v29 for he taught them as [one] having authority, and not as their scribes.
+
+***
+
+[[Bible Versions/ASV/40 - Matthew/Matthew 6|← Matthew 6]] | [[Bible Versions/ASV/40 - Matthew/Matthew]] | [[Bible Versions/ASV/40 - Matthew/Matthew 8|Matthew 8 →]]

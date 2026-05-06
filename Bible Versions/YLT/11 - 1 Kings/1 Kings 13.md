@@ -1,0 +1,77 @@
+# 1 Kings 13 (Young's Literal Translation)
+
+[[Bible Versions/YLT/11 - 1 Kings/1 Kings 12|← 1 Kings 12]] | [[Bible Versions/YLT/11 - 1 Kings/1 Kings]] | [[Bible Versions/YLT/11 - 1 Kings/1 Kings 14|1 Kings 14 →]]
+
+***
+
+v1 And lo, a man of God hath come from Judah, by the word of Jehovah, unto Beth-El, and Jeroboam is standing by the altar -- to make perfume;
+
+v2 and he calleth against the altar, by the word of Jehovah, and saith, 'Altar! altar! thus said Jehovah, Lo, a son is born to the house of David -- Josiah his name -- and he hath sacrificed on thee the priests of the high places who are making perfume on thee, and bones of man are burnt on thee.'
+
+v3 And he hath given on that day a sign, saying, 'This [is] the sign that Jehovah hath spoken, Lo, the altar is rent, and the ashes poured forth that [are] on it.'
+
+v4 And it cometh to pass, at the king's hearing the word of the man of God that he calleth against the altar in Beth-El, that Jeroboam putteth forth his hand from off the altar, saying, 'Catch him;' and his hand is dried up that he hath put forth against him, and he is not able to bring it back unto him,
+
+v5 and the altar is rent, and the ashes poured forth from the altar, according to the sign that the man of God had given by the word of Jehovah.
+
+v6 And the king answereth and saith unto the man of God, 'Appease, I pray thee, the face of Jehovah thy God, and pray for me, and my hand doth come back unto me;' and the man of God appeaseth the face of Jehovah, and the hand of the king cometh back unto him, and it is as at the beginning.
+
+v7 And the king speaketh unto the man of God, 'Come in with me to the house, and refresh thyself, and I give to thee a gift.'
+
+v8 And the man of God saith unto the king, 'If thou dost give to me the half of thine house, I do not go in with thee, nor do I eat bread, nor do I drink water, in this place;
+
+v9 for so He commanded me by the word of Jehovah, saying, Thou dost not eat bread nor drink water, nor turn back in the way that thou hast come.'
+
+v10 And he goeth on in another way, and hath not turned back in the way in which he came in unto Beth-El.
+
+v11 And a certain aged prophet is dwelling in Beth-El, and his son cometh and recounteth to him all the deed that the man of God hath done to-day in Beth-El, the words that he hath spoken unto the king, -- yea, they recount them to their father.
+
+v12 And their father saith unto them, 'Where [is] this -- the way he hath gone?' and his sons see the way that the man of God hath gone who came from Judah.
+
+v13 And he saith unto his sons, 'Saddle for me the ass,' and they saddle for him the ass, and he rideth on it,
+
+v14 and goeth after the man of God, and findeth him sitting under the oak, and saith unto him, 'Art thou the man of God who hast come from Judah?' and he saith, 'I [am].'
+
+v15 And he saith unto him, 'Come with me to the house, and eat bread.'
+
+v16 And he saith, 'I am not able to turn back with thee, and to go in with thee, nor do I eat bread or drink with thee water in this place,
+
+v17 for a word [is] unto me by the word of Jehovah, Thou dost not eat bread nor drink there water, thou dost not turn back to go in the way in which thou camest.'
+
+v18 And he saith to him, 'I also [am] a prophet like thee, and a messenger spake unto me by the word of Jehovah, saying, Bring him back with thee unto thy house, and he doth eat bread and drink water;' -- he hath lied to him.
+
+v19 And he turneth back with him, and eateth bread in his house, and drinketh water.
+
+v20 And it cometh to pass -- they are sitting at the table -- and a word of Jehovah is unto the prophet who brought him back,
+
+v21 and he calleth unto the man of God who came from Judah, saying, 'Thus said Jehovah, Because that thou hast provoked the mouth of Jehovah, and hast not kept the command that Jehovah thy God charged thee,
+
+v22 and turnest back and dost eat bread and drink water in the place of which He said unto thee, Thou dost not eat bread nor drink water -- thy carcase cometh not in unto the burying-place of thy fathers.'
+
+v23 And it cometh to pass, after his eating bread, and after his drinking, that he saddleth for him the ass, for the prophet whom he had brought back,
+
+v24 and he goeth, and a lion findeth him in the way, and putteth him to death, and his carcase is cast in the way, and the ass is standing near it, and the lion is standing near the carcase.
+
+v25 And lo, men are passing by, and see the carcase cast in the way, and the lion standing near the carcase, and they come and speak [of it] in the city in which the old prophet is dwelling.
+
+v26 And the prophet who brought him back out of the way heareth and saith, 'It [is] the man of God who provoked the mouth of Jehovah, and Jehovah giveth him to the lion, and it destroyeth him, and putteth him to death, according to the word of Jehovah that he spake to him.'
+
+v27 And he speaketh unto his sons saying, 'Saddle for me the ass,' and they saddle [it].
+
+v28 And he goeth and findeth his carcase cast in the way, and the ass and the lion are standing near the carcase -- the lion hath not eaten the carcase nor destroyed the ass.
+
+v29 And the prophet taketh up the carcase of the man of God, and placeth it on the ass, and bringeth it back, and the old prophet cometh in unto the city to mourn and to bury him,
+
+v30 and he placeth his carcase in his own grave, and they mourn for him, 'Oh, my brother!'
+
+v31 And it cometh to pass, after his burying him, that he speaketh unto his sons, saying, 'At my death -- ye have buried me in the burying-place in which the man of God is buried; near his bones place my bones;
+
+v32 for the word certainly cometh to pass that he called by the word of Jehovah concerning the altar which [is] Beth-El, and concerning all the houses of the high places that [are] in cities of Samaria.'
+
+v33 After this thing Jeroboam hath not turned from his evil way, and turneth back, and maketh of the extremities of the people priests of high places; he who is desirous he consecrateth his hand, and he is of the priests of the high places.
+
+v34 And in this thing is the sin of the house of Jeroboam, even to cut [it] off, and to destroy [it] from off the face of the ground.
+
+***
+
+[[Bible Versions/YLT/11 - 1 Kings/1 Kings 12|← 1 Kings 12]] | [[Bible Versions/YLT/11 - 1 Kings/1 Kings]] | [[Bible Versions/YLT/11 - 1 Kings/1 Kings 14|1 Kings 14 →]]

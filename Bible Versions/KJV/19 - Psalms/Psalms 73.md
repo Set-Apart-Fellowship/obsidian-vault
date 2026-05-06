@@ -1,0 +1,65 @@
+# Psalms 73 (King James Version)
+
+[[Bible Versions/KJV/19 - Psalms/Psalms 72|← Psalms 72]] | [[Bible Versions/KJV/19 - Psalms/Psalms]] | [[Bible Versions/KJV/19 - Psalms/Psalms 74|Psalms 74 →]]
+
+***
+
+v1 A Psalm of Asaph. Truly God is good to Israel, even to such as are of a clean heart.
+
+v2 But as for me, my feet were almost gone; my steps had well nigh slipped.
+
+v3 For I was envious at the foolish, when I saw the prosperity of the wicked.
+
+v4 For there are no bands in their death: but their strength is firm.
+
+v5 They are not in trouble as other men; neither are they plagued like other men.
+
+v6 Therefore pride compasseth them about as a chain; violence covereth them as a garment.
+
+v7 Their eyes stand out with fatness: they have more than heart could wish.
+
+v8 They are corrupt, and speak wickedly concerning oppression: they speak loftily.
+
+v9 They set their mouth against the heavens, and their tongue walketh through the earth.
+
+v10 Therefore his people return hither: and waters of a full cup are wrung out to them.
+
+v11 And they say, How doth God know? and is there knowledge in the most High?
+
+v12 Behold, these are the ungodly, who prosper in the world; they increase in riches.
+
+v13 Verily I have cleansed my heart in vain, and washed my hands in innocency.
+
+v14 For all the day long have I been plagued, and chastened every morning.
+
+v15 If I say, I will speak thus; behold, I should offend against the generation of thy children.
+
+v16 When I thought to know this, it was too painful for me;
+
+v17 Until I went into the sanctuary of God; then understood I their end.
+
+v18 Surely thou didst set them in slippery places: thou castedst them down into destruction.
+
+v19 How are they brought into desolation, as in a moment! they are utterly consumed with terrors.
+
+v20 As a dream when one awaketh; so, O Lord, when thou awakest, thou shalt despise their image.
+
+v21 Thus my heart was grieved, and I was pricked in my reins.
+
+v22 So foolish was I, and ignorant: I was as a beast before thee.
+
+v23 Nevertheless I am continually with thee: thou hast holden me by my right hand.
+
+v24 Thou shalt guide me with thy counsel, and afterward receive me to glory.
+
+v25 Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.
+
+v26 My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.
+
+v27 For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.
+
+v28 But it is good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all thy works.
+
+***
+
+[[Bible Versions/KJV/19 - Psalms/Psalms 72|← Psalms 72]] | [[Bible Versions/KJV/19 - Psalms/Psalms]] | [[Bible Versions/KJV/19 - Psalms/Psalms 74|Psalms 74 →]]

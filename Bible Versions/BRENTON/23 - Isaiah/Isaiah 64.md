@@ -1,0 +1,11 @@
+v1 as wax melts before the fire; and fire shall burn up the enemies, and thy name shall be manifest among the adversaries: at thy presence the nations shall be troubled,
+v2 whenever thou shalt work gloriously; trembling from thee shall take hold upon the mountains.
+v3 From of old we have not heard, neither have our eyes seen a God beside thee, and thy works which thou wilt perform to them that wait for mercy.
+v4 For these blessings shall happen to them that work righteousness, and they shall remember thy ways: behold, thou wast angry and we have sinned; therefore we have erred,
+v5 and we are all become as unclean, and all our righteousness as a filthy rag: and we have fallen as leaves because of our iniquities; thus the wind shall carry us away .
+v6 And there is none that calls upon thy name, or that remembers to take hold on thee: for thou hast turned thy face away from us, and hast delivered us up because of our sins.
+v7 And now, O Lord, thou art our Father, and we are clay, all of us the work of thine hands.
+v8 Be not very wroth with us, and remember not our sins for ever; but now look on us , for we are all thy people.
+v9 The city of thy holiness has become desolate, Sion has become as a wilderness, Jerusalem a curse.
+v10 The house, our sanctuary, and the glory which our fathers blessed, has been burnt with fire: and all our glorious things have gone to ruin.
+v11 And for all these things thou, O Lord, hast withholden thyself, and been silent, and hast brought us very low.

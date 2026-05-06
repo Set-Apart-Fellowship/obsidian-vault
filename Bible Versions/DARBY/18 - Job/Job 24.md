@@ -1,0 +1,59 @@
+# Job 24 (Darby Translation)
+
+[[Bible Versions/DARBY/18 - Job/Job 23|← Job 23]] | [[Bible Versions/DARBY/18 - Job/Job]] | [[Bible Versions/DARBY/18 - Job/Job 25|Job 25 →]]
+
+***
+
+v1 Why are not times treasured up with the Almighty? why do not they that know him see his days?
+
+v2 They remove the landmarks; they violently take away the flocks and pasture them;
+
+v3 They drive away the ass of the fatherless, they take the widow's ox for a pledge;
+
+v4 They turn the needy out of the way: the afflicted of the land all hide themselves.
+
+v5 Lo, [as] wild asses in the desert, they go forth to their work, seeking early for the prey: the wilderness [yieldeth] them food for [their] children.
+
+v6 They reap in the field the fodder thereof, and they gather the vintage of the wicked;
+
+v7 They pass the night naked without clothing, and have no covering in the cold;
+
+v8 They are wet with the showers of the mountains, and for want of a shelter embrace the rock ...
+
+v9 They pluck the fatherless from the breast, and take a pledge of the poor:
+
+v10 These go naked without clothing, and, hungry, they bear the sheaf;
+
+v11 They press out oil within their walls, they tread their winepresses, and suffer thirst.
+
+v12 Men groan from out of the city, and the soul of the wounded crieth out; and +God imputeth not the impiety.
+
+v13 There are those that rebel against the light; they know not the ways thereof, nor abook_ide in the paths thereof.
+
+v14 The murderer riseth with the light, killeth the afflicted and needy, and in the night is as a thief.
+
+v15 And the eye of the adulterer waiteth for the twilight, saying, No eye shall see me; and he putteth a covering on [his] face.
+
+v16 In the dark they dig through houses; by day they shut themselves in; they know not the light:
+
+v17 For the morning is to them all [as] the shadow of death; for they are familiar with the terrors of the shadow of death.
+
+v18 He is swift on the face of the waters; their portion is cursed on the earth: he turneth not unto the way of the vineyards.
+
+v19 Drought and heat consume snow waters; so doth Sheol those that have sinned.
+
+v20 The womb forgetteth him; the worm feedeth sweetly on him: he shall be no more remembered; and unrighteousness is broken as a tree, --
+
+v21 He that despoileth the barren that beareth not, and doeth not good to the widow:
+
+v22 He draweth also the mighty with his power; he riseth up, and no [man] is sure of life.
+
+v23 [God] setteth him in safety, and he resteth thereon; but his eyes are upon their ways.
+
+v24 They are exalted for a little, and are no more; they are laid low; like all [other] are they gathered, and are cut off as the tops of the ears of corn.
+
+v25 If it be not so now, who will make me a liar, and make my speech nothing worth?
+
+***
+
+[[Bible Versions/DARBY/18 - Job/Job 23|← Job 23]] | [[Bible Versions/DARBY/18 - Job/Job]] | [[Bible Versions/DARBY/18 - Job/Job 25|Job 25 →]]

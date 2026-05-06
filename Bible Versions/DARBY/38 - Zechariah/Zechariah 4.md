@@ -1,0 +1,37 @@
+# Zechariah 4 (Darby Translation)
+
+[[Bible Versions/DARBY/38 - Zechariah/Zechariah 3|← Zechariah 3]] | [[Bible Versions/DARBY/38 - Zechariah/Zechariah]] | [[Bible Versions/DARBY/38 - Zechariah/Zechariah 5|Zechariah 5 →]]
+
+***
+
+v1 And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep.
+
+v2 And he said unto me, What seest thou? And I said, I see, and behold, a lamp-stand all of gold, with a bowl upon the top of it, and its seven lamps thereon, seven [lamps] and seven pipes to the lamps, which are upon the top thereof;
+
+v3 and two olive-trees beside it, one on the right of the bowl, and the other on the left of it.
+
+v4 And I answered and spoke to the angel that talked with me, saying, What are these, my lord?
+
+v5 And the angel that talked with me answered and said unto me, Knowest thou not what these are? And I said, No, my lord.
+
+v6 And he answered and spoke unto me, saying, This is the word of Jehovah unto Zerubbabel, saying, Not by might, nor by power, but by my Spirit, saith Jehovah of hosts.
+
+v7 Who art thou, O great mountain? before Zerubbabel [thou dost become] a plain; and he shall bring forth the head-stone with shoutings: Grace, grace unto it!
+
+v8 And the word of Jehovah came unto me, saying,
+
+v9 The hands of Zerubbabel have laid the foundation of this house; and his hands shall finish it: and thou shalt know that Jehovah of hosts hath sent me unto you.
+
+v10 For who hath despised the day of small things? Yea, they shall rejoice [even] those seven -- and shall see the plummet in the hand of Zerubbabel: these are the eyes of Jehovah, which run to and fro in the whole earth.
+
+v11 And I answered and said unto him, What are these two olive-trees on the right of the lamp-stand and on its left?
+
+v12 And I answered the second time and said unto him, What are the two olive-branches which are beside the two golden tubes that empty the gold out of themselves?
+
+v13 And he spoke to me, saying, Knowest thou not what these are? And I said, No, my lord.
+
+v14 And he said, These are the two sons of oil, that stand before the Lord of the whole earth.
+
+***
+
+[[Bible Versions/DARBY/38 - Zechariah/Zechariah 3|← Zechariah 3]] | [[Bible Versions/DARBY/38 - Zechariah/Zechariah]] | [[Bible Versions/DARBY/38 - Zechariah/Zechariah 5|Zechariah 5 →]]

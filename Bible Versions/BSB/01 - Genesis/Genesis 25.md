@@ -1,0 +1,37 @@
+# Genesis 25 (Berean Standard Bible)
+[[Bible Versions/BSB/01 - Genesis/Genesis 24|← Genesis 24]] | [[Bible Versions/BSB/01 - Genesis/Genesis]] | [[Bible Versions/BSB/01 - Genesis/Genesis 26|Genesis 26 →]]
+***
+v1 Now Abraham had taken another wife, named Keturah,
+v2 and she bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
+v3 Jokshan was the father of Sheba and Dedan. And the sons of Dedan were the Asshurites, the Letushites, and the Leummites.
+v4 The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were descendants of Keturah.
+v5 Abraham left everything he owned to Isaac.
+v6 But while he was still alive, Abraham gave gifts to the sons of his concubines and sent them away from his son Isaac to the land of the east.
+v7 Abraham lived a total of 175 years.
+v8 And at a ripe old age he breathed his last and died, old and contented, and was gathered to his people.
+v9 His sons Isaac and Ishmael buried him in the cave of Machpelah near Mamre, in the field of Ephron son of Zohar the Hittite.
+v10 This was the field that Abraham had bought from the Hittites. Abraham was buried there with his wife Sarah.
+v11 After Abraham’s death, God blessed his son Isaac, who lived near Beer-lahai-roi.
+v12 This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham.
+v13 These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam,
+v14 Mishma, Dumah, Massa,
+v15 Hadad, Tema, Jetur, Naphish, and Kedemah.
+v16 These were the sons of Ishmael, and these were their names by their villages and encampments—twelve princes of their tribes.
+v17 Ishmael lived a total of 137 years. Then he breathed his last and died, and was gathered to his people.
+v18 Ishmael’s descendants settled from Havilah to Shur, which is near the border of Egypt as you go toward Asshur. And they lived in hostility toward all their brothers.
+v19 This is the account of Abraham’s son Isaac. Abraham became the father of Isaac,
+v20 and Isaac was forty years old when he married Rebekah, the daughter of Bethuel the Aramean from Paddan-aram and the sister of Laban the Aramean.
+v21 Later, Isaac prayed to the LORD on behalf of his wife, because she was barren. And the LORD heard his prayer, and his wife Rebekah conceived.
+v22 But the children inside her struggled with each other, and she said, “Why is this happening to me?” So Rebekah went to inquire of the LORD,
+v23 and He declared to her: “Two nations are in your womb, and two peoples from within you will be separated; one people will be stronger than the other, and the older will serve the younger.”
+v24 When her time came to give birth, there were indeed twins in her womb.
+v25 The first one came out red, covered with hair like a fur coat; so they named him Esau.
+v26 After this, his brother came out grasping Esau’s heel; so he was named Jacob. And Isaac was sixty years old when the twins were born.
+v27 When the boys grew up, Esau became a skillful hunter, a man of the field, while Jacob was a quiet man who stayed at home.
+v28 Because Isaac had a taste for wild game, he loved Esau; but Rebekah loved Jacob.
+v29 One day, while Jacob was cooking some stew, Esau came in from the field and was famished.
+v30 He said to Jacob, “Let me eat some of that red stew, for I am famished.” (That is why he was also called Edom.)
+v31 “First sell me your birthright,” Jacob replied.
+v32 “Look,” said Esau, “I am about to die, so what good is a birthright to me?”
+v33 “Swear to me first,” Jacob said. So Esau swore to Jacob and sold him the birthright.
+v34 Then Jacob gave some bread and lentil stew to Esau, who ate and drank and then got up and went away. Thus Esau despised his birthright.

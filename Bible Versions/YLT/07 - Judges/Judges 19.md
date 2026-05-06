@@ -1,0 +1,69 @@
+# Judges 19 (Young's Literal Translation)
+
+[[Bible Versions/YLT/07 - Judges/Judges 18|← Judges 18]] | [[Bible Versions/YLT/07 - Judges/Judges]] | [[Bible Versions/YLT/07 - Judges/Judges 20|Judges 20 →]]
+
+***
+
+v1 And it cometh to pass, in those days, when there is no king in Israel, that there is a man a Levite, a sojourner in the sides of the hill-country of Ephraim, and he taketh to him a wife, a concubine, out of Beth-Lehem-Judah;
+
+v2 and commit whoredom against him doth his concubine, and she goeth from him unto the house of her father, unto Beth-Lehem-Judah, and is there days -- four months.
+
+v3 And her husband riseth and goeth after her, to speak unto her heart, to bring her back, and his young man [is] with him, and a couple of asses; and she bringeth him into the house of her father, and the father of the young woman seeth him, and rejoiceth to meet him.
+
+v4 And keep hold on him doth his father-in-law, father of the young woman, and he abook_ideth with him three days, and they eat and drink, and lodge there.
+
+v5 And it cometh to pass, on the fourth day, that they rise early in the morning, and he riseth to go, and the father of the young woman saith unto his son-in-law, 'Support thy heart with a morsel of bread, and afterward ye go on.'
+
+v6 And they sit and eat both of them together, and drink, and the father of the young woman saith unto the man, 'Be willing, I pray thee, and lodge all night, and let thy heart be glad.'
+
+v7 And the man riseth to go, and his father-in-law presseth on him, and he turneth back and lodgeth there.
+
+v8 And he riseth early in the morning, on the fifth day, to go, and the father of the young woman saith, 'Support, I pray thee, thy heart;' and they have tarried till the turning of the day, and they eat, both of them.
+
+v9 And the man riseth to go, he and his concubine, and his young man, and his father-in-law, father of the young woman, saith to him, 'Lo, I pray thee, the day hath fallen toward evening, lodge all night, I pray thee; lo, the declining of the day! lodge here, and let thine heart be glad -- and ye have risen early to-morrow for your journey, and thou hast gone to thy tent.'
+
+v10 And the man hath not been willing to lodge all night, and he riseth, and goeth, and cometh in till over-against Jebus (It [is] Jerusalem), and with him [are] a couple of asses saddled; and his concubine [is] with him.
+
+v11 They [are] near Jebus, and the day hath gone greatly down, and the young man saith unto his lord, 'Come, I pray thee, and we turn aside unto this city of the Jebusite, and lodge in it.'
+
+v12 And his lord saith unto him, 'Let us not turn aside unto the city of a stranger, that is not of the sons of Israel, thither, but we have passed over unto Gibeah.'
+
+v13 And he saith to his young man, 'Come, and we draw near to one of the places, and have lodged in Gibeah, or in Ramah.'
+
+v14 And they pass over, and go on, and the sun goeth in upon them near Gibeah, which is to Benjamin;
+
+v15 and they turn aside there to go in to lodge in Gibeah, and he goeth in and sitteth in a broad place of the city, and there is no man gathering them into the house to lodge.
+
+v16 And lo, a man, an aged one, hath come from his work from the field in the evening, and the man [is] of the hill-country of Ephraim, and he [is] a sojourner in Gibeah, and the men of the place [are] Benjamites.
+
+v17 And he lifteth up his eyes, and seeth the man, the traveller, in a broad place of the city, and the aged man saith, 'Whither goest thou? and whence comest thou?'
+
+v18 And he saith unto him, 'We are passing over from Beth-Lehem-Judah unto the sides of the hill-country of Ephraim -- thence I [am], and I go unto Beth-Lehem-Judah; and to the house of Jehovah I am going, and there is no man gathering me into the house,
+
+v19 and both straw and provender are for our asses, and also bread and wine there are for me, and for thy handmaid, and for the young man with thy servants; there is no lack of anything.'
+
+v20 And the old man saith, 'Peace to thee; only, all thy lack [is] on me, only in the broad place lodge not.'
+
+v21 And he bringeth him in to his house, and mixeth [food] for the asses, and they wash their feet, and eat and drink.
+
+v22 They are making their heart glad, and lo, men of the city, men -- sons of worthlessness -- have gone round about the house, beating on the door, and they speak unto the old man, the master of the house, saying, 'Bring out the man who hath come unto thine house, and we know him.'
+
+v23 And the man, the master of the house, goeth out unto them, and saith unto them, 'Nay, my brethren, do not evil, I pray you, after that this man hath come in unto my house, do not this folly;
+
+v24 lo, my daughter, the virgin, and his concubine, let me bring them out, I pray you, and humble ye them, and do to them that which is good in your eyes, and to this man do not this foolish thing.'
+
+v25 And the men have not been willing to hearken to him, and the man taketh hold on his concubine, and bringeth [her] out unto them without, and they know her, and roll themselves upon her all the night, till the morning, and send her away in the ascending of the dawn;
+
+v26 and the woman cometh in at the turning of the morning, and falleth at the opening of the man's house, where her lord [is], till the light.
+
+v27 And her lord riseth in the morning, and openeth the doors of the house, and goeth out to go on his way, and lo, the woman, his concubine, is fallen at the opening of the house, and her hands [are] on the threshold,
+
+v28 and he saith unto her, 'Rise, and we go;' and there is none answering, and he taketh her on the ass, and the man riseth and goeth to his place,
+
+v29 and cometh in unto his house, and taketh the knife, and layeth hold on his concubine, and cutteth her in pieces to her bones -- into twelve pieces, and sendeth her into all the border of Israel.
+
+v30 And it hath come to pass, every one who seeth hath said, 'There hath not been -- yea, there hath not been seen like this, from the day of the coming up of the sons of Israel out of the land of Egypt till this day; set your [heart] upon it, take counsel, and speak.'
+
+***
+
+[[Bible Versions/YLT/07 - Judges/Judges 18|← Judges 18]] | [[Bible Versions/YLT/07 - Judges/Judges]] | [[Bible Versions/YLT/07 - Judges/Judges 20|Judges 20 →]]

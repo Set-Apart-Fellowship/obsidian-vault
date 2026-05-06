@@ -1,0 +1,51 @@
+# 2 Kings 12 (Darby Translation)
+
+[[Bible Versions/DARBY/12 - 2 Kings/2 Kings 11|← 2 Kings 11]] | [[Bible Versions/DARBY/12 - 2 Kings/2 Kings]] | [[Bible Versions/DARBY/12 - 2 Kings/2 Kings 13|2 Kings 13 →]]
+
+***
+
+v1 In the seventh year of Jehu, Jehoash began to reign; and he reigned forty years in Jerusalem; and his mother's name was Zibiah of Beer-sheba.
+
+v2 And Jehoash did what was right in the sight of Jehovah, all the days wherein Jehoiada the priest instructed him.
+
+v3 Only, the high places were not removed: the people still sacrificed and burned incense on the high places.
+
+v4 And Jehoash said to the priests, All the money of the hallowed things that is brought into the house of Jehovah, the money of every one that passes [the account], the money at which every man is valued, [and] all the money that comes into any man's heart to bring into the house of Jehovah,
+
+v5 let the priests take it, every man of his acquaintance; and let them repair the breaches of the house, wherever any breach is found.
+
+v6 And it was [so that] in the twenty-third year of king Jehoash, the priests had not repaired the breaches of the house.
+
+v7 Then king Jehoash called for Jehoiada the priest, and the priests, and said to them, Why have ye not repaired the breaches of the house? And now receive no money of your acquaintances, but give it for the breaches of the house.
+
+v8 And the priests consented to receive no money of the people, and that they should only repair the breaches of the house.
+
+v9 And Jehoiada the priest took a chest, and bored a hole in the lid, and set it beside the altar, on the right side as one comes into the house of Jehovah; and the priests that kept the door put into it all the money brought into the house of Jehovah.
+
+v10 And it came to pass when they saw that there was much money in the chest, that the king's scribe and the high priest came up, and they tied up and counted the money that was found in the house of Jehovah.
+
+v11 And they gave the money, weighed out into the hands of them that did the work, who were appointed over the house of Jehovah; and they laid it out to the carpenters and builders that wrought upon the house of Jehovah,
+
+v12 and to masons, and hewers of stone, and to buy timber and hewn stone to repair the breaches of the house of Jehovah, and for all that had to be laid out on the house for repairs.
+
+v13 However there were not made for the house of Jehovah basons of silver, knives, bowls, trumpets, nor any utensil of gold or utensil of silver, of the money that was brought [into] the house of Jehovah;
+
+v14 but they gave that to the workmen, and repaired the house of Jehovah with it.
+
+v15 And they did not reckon with the men into whose hand they gave the money to be bestowed on workmen; for they dealt faithfully.
+
+v16 The money of trespass-offerings, and the money of sin-offerings, was not brought into the house of Jehovah: it was for the priests.
+
+v17 Then Hazael king of Syria went up, and fought against Gath, and took it. And Hazael set his face to go up against Jerusalem.
+
+v18 And Jehoash king of Judah took all the hallowed things that Jehoshaphat and Jehoram and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold found in the treasures of the house of Jehovah and in the king's house, and sent it to Hazael king of Syria; and he went away from Jerusalem.
+
+v19 And the rest of the acts of Joash, and all that he did, are they not written in the book of the chronicles of the kings of Judah?
+
+v20 And his servants rose up and made a conspiracy, and smote Joash in the house of Millo, at the descent of Silla.
+
+v21 And Jozachar the son of Shimeath and Jehozabad the son of Shomer, his servants, smote him and he died; and they buried him with his fathers in the city of David. And Amaziah his son reigned in his stead.
+
+***
+
+[[Bible Versions/DARBY/12 - 2 Kings/2 Kings 11|← 2 Kings 11]] | [[Bible Versions/DARBY/12 - 2 Kings/2 Kings]] | [[Bible Versions/DARBY/12 - 2 Kings/2 Kings 13|2 Kings 13 →]]

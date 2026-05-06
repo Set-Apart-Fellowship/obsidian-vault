@@ -1,0 +1,55 @@
+# Numbers 27 (American Standard Version)
+
+[[Bible Versions/ASV/04 - Numbers/Numbers 26|← Numbers 26]] | [[Bible Versions/ASV/04 - Numbers/Numbers]] | [[Bible Versions/ASV/04 - Numbers/Numbers 28|Numbers 28 →]]
+
+***
+
+v1 Then drew near the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph; and these are the names of his daughters: Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.
+
+v2 And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, at the door of the tent of meeting, saying,
+
+v3 Our father died in the wilderness, and he was not among the company of them that gathered themselves together against Jehovah in the company of Korah: but he died in his own sin; and he had no sons.
+
+v4 Why should the name of our father be taken away from among his family, because he had no son? Give unto us a possession among the brethren of our father.
+
+v5 And Moses brought their cause before Jehovah.
+
+v6 And Jehovah spake unto Moses, saying,
+
+v7 The daughters of Zelophehad speak right: thou shalt surely give them a possession of an inheritance among their father's brethren; and thou shalt cause the inheritance of their father to pass unto them.
+
+v8 And thou shalt speak unto the children of Israel, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter.
+
+v9 And if he have no daughter, then ye shall give his inheritance unto his brethren.
+
+v10 And if he have no brethren, then ye shall give his inheritance unto his father's brethren.
+
+v11 And if his father have no brethren, then ye shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute [and] ordinance, as Jehovah commanded Moses.
+
+v12 And Jehovah said unto Moses, Get thee up into this mountain of Abarim, and behold the land which I have given unto the children of Israel.
+
+v13 And when thou hast seen it, thou also shalt be gathered unto thy people, as Aaron thy brother was gathered;
+
+v14 because ye rebelled against my word in the wilderness of Zin, in the strife of the congregation, to sanctify me at the waters before their eyes. (These are the waters of Meribah of Kadesh in the wilderness of Zin.)
+
+v15 And Moses spake unto Jehovah, saying,
+
+v16 Let Jehovah, the God of the spirits of all flesh, appoint a man over the congregation,
+
+v17 who may go out before them, and who may come in before them, and who may lead them out, and who may bring them in; that the congregation of Jehovah be not as sheep which have no shepherd.
+
+v18 And Jehovah said unto Moses, Take thee Joshua the son of Nun, a man in whom is the Spirit, and lay thy hand upon him;
+
+v19 and set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight.
+
+v20 And thou shalt put of thine honor upon him, that all the congregation of the children of Israel may obey.
+
+v21 And he shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before Jehovah: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation.
+
+v22 And Moses did as Jehovah commanded him; and he took Joshua, and set him before Eleazar the priest, and before all the congregation:
+
+v23 and he laid his hands upon him, and gave him a charge, as Jehovah spake by Moses.
+
+***
+
+[[Bible Versions/ASV/04 - Numbers/Numbers 26|← Numbers 26]] | [[Bible Versions/ASV/04 - Numbers/Numbers]] | [[Bible Versions/ASV/04 - Numbers/Numbers 28|Numbers 28 →]]

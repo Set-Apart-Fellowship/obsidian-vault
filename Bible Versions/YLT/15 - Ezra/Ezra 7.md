@@ -1,0 +1,65 @@
+# Ezra 7 (Young's Literal Translation)
+
+[[Bible Versions/YLT/15 - Ezra/Ezra 6|← Ezra 6]] | [[Bible Versions/YLT/15 - Ezra/Ezra]] | [[Bible Versions/YLT/15 - Ezra/Ezra 8|Ezra 8 →]]
+
+***
+
+v1 And after these things, in the reign of Artaxerxes king of Persia, Ezra son of Seraiah, son of Azariah, son of Hilkiah,
+
+v2 son of Shallum, son of Zadok, son of Ahitub,
+
+v3 son of Amariah, son of Azariah, son of Meraioth,
+
+v4 son of Zerahiah, son of Uzzi, son of Bukki,
+
+v5 son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the head priest;
+
+v6 Ezra himself hath come up from Babylon, and he [is] a scribe ready in the law of Moses, that Jehovah God of Israel gave, and the king giveth to him -- according to the hand of Jehovah his God upon him -- all his request.
+
+v7 And there go up of the sons of Israel, and of the priests, and the Levites, and the singers, and the gatekeepers, and the Nethinim, unto Jerusalem, in the seventh year of Artaxerxes the king.
+
+v8 And he cometh in to Jerusalem in the fifth month, that [is in] the seventh year of the king,
+
+v9 for on the first of the month he hath founded the ascent from Babylon, and on the first of the fifth month he hath come in unto Jerusalem, according to the good hand of his God upon him,
+
+v10 for Ezra hath prepared his heart to seek the law of Jehovah, and to do, and to teach in Israel statute and judgment.
+
+v11 And this [is] a copy of the letter that the king Artaxerxes gave to Ezra the priest, the scribe, a scribe of the words of the commands of Jehovah, and of His statutes on Israel:
+
+v12 'Artaxerxes, king of kings, to Ezra the priest, a perfect scribe of the law of the God of heaven, and at such a time:
+
+v13 By me hath been made a decree that every one who is willing, in my kingdom, of the people of Israel and of its priests and Levites, to go to Jerusalem with thee, doth go;
+
+v14 because that from the king and his seven counsellors thou art sent, to inquire concerning Judah and concerning Jerusalem, with the law of God that [is] in thy hand,
+
+v15 and to carry silver and gold that the king and his counsellors willingly offered to the God of Israel, whose tabernacle [is] in Jerusalem,
+
+v16 and all the silver and gold that thou findest in all the province of Babylon, with the free-will offerings of the people, and of the priests, offering willingly, for the house of their God that [is] in Jerusalem,
+
+v17 therefore thou dost speedily buy with this money, bullocks, rams, lambs, and their presents, and their libations, and dost bring them near to the altar of the house of your God that [is] in Jerusalem,
+
+v18 and that which to thee and to thy brethren is good to do with the rest of the silver and gold, according to the will of your God ye do.'
+
+v19 'And the vessels that are given to thee, for the service of the house of thy God, make perfect before the God of Jerusalem;
+
+v20 and the rest of the needful things of the house of thy God, that it falleth to thee to give, thou dost give from the treasure-house of the king.
+
+v21 'And by me -- I Artaxerxes the king -- is made a decree to all treasurers who [are] beyond the river, that all that Ezra the priest, scribe of the law of the God of heaven, doth ask of you, be done speedily:
+
+v22 Unto silver a hundred talents, and unto wheat a hundred cors, and unto wine a hundred baths, and unto oil a hundred baths, and salt without reckoning;
+
+v23 all that [is] by the decree of the God of heaven, let be done diligently for the house of the God of heaven; for why is there wrath against the kingdom of the king and his sons?
+
+v24 'And to you we are making known, that upon any of the priests and Levites, singers, gatekeepers, Nethinim, and servants of the house of God, tribute and custom there is no authority to lift up.
+
+v25 'And thou, Ezra, according to the wisdom of thy God, that [is] in thy hand, appoint magistrates and judges who may be judges to all the people who are beyond the river, to all knowing the law of thy God, and he who hath not known ye cause to know;
+
+v26 and any who doth not do the law of thy God, and the law of the king, speedily is judgment done upon him, whether to death, or to banishment, or to confiscation of riches, and to bonds.'
+
+v27 Blessed [is] Jehovah, God of our fathers, who hath given such a thing as this in the heart of the king, to beautify the house of Jehovah that [is] in Jerusalem,
+
+v28 and unto me hath stretched out kindness before the king and his counsellors, and before all the mighty heads of the king: and I have strengthened myself as the hand of Jehovah my God [is] upon me, and I gather out of Israel heads to go up with me.
+
+***
+
+[[Bible Versions/YLT/15 - Ezra/Ezra 6|← Ezra 6]] | [[Bible Versions/YLT/15 - Ezra/Ezra]] | [[Bible Versions/YLT/15 - Ezra/Ezra 8|Ezra 8 →]]

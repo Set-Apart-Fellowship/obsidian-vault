@@ -1,0 +1,95 @@
+# 1 Chronicles 16 (Young's Literal Translation)
+
+[[Bible Versions/YLT/13 - 1 Chronicles/1 Chronicles 15|← 1 Chronicles 15]] | [[Bible Versions/YLT/13 - 1 Chronicles/1 Chronicles]] | [[Bible Versions/YLT/13 - 1 Chronicles/1 Chronicles 17|1 Chronicles 17 →]]
+
+***
+
+v1 And they bring in the ark of God, and set it up in the midst of the tent that David hath stretched out for it, and they bring near burnt-offerings and peace-offerings before God;
+
+v2 and David ceaseth from offering the burnt-offering and the peace-offerings, and blesseth the people in the name of Jehovah,
+
+v3 and giveth a portion to every man of Israel, both man and woman: to each a cake of bread, and a measure of wine, and a grape-cake.
+
+v4 And he putteth before the ark of Jehovah, of the Levites, ministers, even to make mention of, and to thank, and to give praise to Jehovah, God of Israel,
+
+v5 Asaph the head, and his second Zechariah; Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed-Edom, and Jeiel, with instruments of psalteries, and with harps; and Asaph with cymbals is sounding;
+
+v6 and Benaiah and Jahaziel the priests [are] with trumpets continually before the ark of the covenant of God.
+
+v7 On that day then hath David given at the beginning to give thanks to Jehovah by the hand of Asaph and his brethren: --
+
+v8 Give thanks to Jehovah, call in His name, Make known among the peoples His doings.
+
+v9 Sing ye to Him, sing psalms to Him, Meditate on all His wonders.
+
+v10 Boast yourselves in His holy name, Rejoice doth the heart of those seeking Jehovah.
+
+v11 Seek ye Jehovah and His strength, Seek His face continually.
+
+v12 Remember His wonders that He did, His signs, and the judgments of His mouth,
+
+v13 O seed of Israel, His servant, O sons of Jacob, His chosen ones!
+
+v14 He [is] Jehovah our God, In all the earth [are] His judgments.
+
+v15 Remember ye to the age His covenant, The word He commanded -- To a thousand generations,
+
+v16 Which He hath made with Abraham, And His oath -- to Isaac,
+
+v17 And He establisheth it to Jacob for a statute, To Israel -- a covenant age-during.
+
+v18 Saying: To thee I give the land of Canaan, The portion of your inheritance,
+
+v19 When ye are few of number, As a little thing, and sojourners in it.
+
+v20 And they go up and down, From nation unto nation, And from a kingdom unto another people.
+
+v21 He hath not suffered any to oppress them, And reproveth on their account kings:
+
+v22 Come not against Mine anointed ones, And against My prophets do not evil.
+
+v23 Sing to Jehovah, all the earth, Proclaim from day unto day His salvation.
+
+v24 Rehearse among nations His glory, Among all the peoples His wonders.
+
+v25 For great [is] Jehovah, and praised greatly, And fearful He [is] above all gods.
+
+v26 For all gods of the peoples [are] nought, And Jehovah the heavens hath made.
+
+v27 Honour and majesty [are] before Him, Strength and joy [are] in His place.
+
+v28 Ascribe to Jehovah, ye families of peoples, Ascribe to Jehovah honour and strength.
+
+v29 Ascribe to Jehovah the honour of His name, Lift up a present, and come before Him. Bow yourselves to Jehovah, In the beauty of holiness.
+
+v30 Be pained before Him, all the earth:
+
+v31 Also, established is the world, It is not moved! The heavens rejoice, and the earth is glad, And they say among nations: Jehovah hath reigned.
+
+v32 Roar doth the sea, and its fulness, Exult doth the field, and all that [is] in it,
+
+v33 Then sing do trees of the forest, From the presence of Jehovah, For He hath come to judge the earth!
+
+v34 Give thanks to Jehovah, for good, For to the age, [is] His kindness,
+
+v35 And say, Save us, O God of our salvation, And gather us, and deliver us from the nations, To give thanks to Thy holy name, To triumph in Thy praise.
+
+v36 Blessed [is] Jehovah, God of Israel, From the age and unto the age;' And all the people say, 'Amen,' and have given praise to Jehovah.
+
+v37 And he leaveth there before the ark of the covenant of Jehovah, for Asaph and for his brethren, to minister before the ark continually, according to the matter of a day in its day,
+
+v38 both Obed-Edom and their brethren, sixty and eight, and Obed-Edom son of Jeduthun, and Hosah for gatekeepers,
+
+v39 and Zadok the priest, and his brethren the priests, before the tabernacle of Jehovah, in a high place that [is] in Gibeon,
+
+v40 to cause to ascend burnt-offerings to Jehovah, on the altar of burnt-offering continually, morning and evening, and for all that is written in the law of Jehovah, that He charged on Israel.
+
+v41 And with them [are] Heman and Jeduthun, and the rest of those chosen, who were defined by name, to give thanks to Jehovah, for to the age [is] His kindness,
+
+v42 and with them -- Heman and Jeduthun -- [are] trumpets and cymbals for those sounding, and instruments of the song of God, and the sons of Jeduthun [are] at the gate.
+
+v43 And all the people go, each to his house, and David turneth round to bless his house.
+
+***
+
+[[Bible Versions/YLT/13 - 1 Chronicles/1 Chronicles 15|← 1 Chronicles 15]] | [[Bible Versions/YLT/13 - 1 Chronicles/1 Chronicles]] | [[Bible Versions/YLT/13 - 1 Chronicles/1 Chronicles 17|1 Chronicles 17 →]]

@@ -1,0 +1,65 @@
+# Hebrews 7 (American Standard Version)
+
+[[Bible Versions/ASV/58 - Hebrews/Hebrews 6|← Hebrews 6]] | [[Bible Versions/ASV/58 - Hebrews/Hebrews]] | [[Bible Versions/ASV/58 - Hebrews/Hebrews 8|Hebrews 8 →]]
+
+***
+
+v1 For this Melchizedek, king of Salem, priest of God Most High, who met Abraham returning from the slaughter of the kings and blessed him,
+
+v2 to whom also Abraham divided a tenth part of all (being first, by interpretation, King of righteousness, and then also King of Salem, which is King of peace;
+
+v3 without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like unto the Son of God), abook_ideth a priest continually.
+
+v4 Now consider how great this man was, unto whom Abraham, the patriarch, gave a tenth out of the chief spoils.
+
+v5 And they indeed of the sons of Levi that receive the priest's office have commandment to take tithes of the people according to the law, that is, of their brethren, though these have come out of the loins of Abraham:
+
+v6 but he whose genealogy is not counted from them hath taken tithes of Abraham, and hath blessed him that hath the promises.
+
+v7 But without any dispute the less is blessed of the better.
+
+v8 And here men that die receive tithes; but there one, of whom it is witnessed that he liveth.
+
+v9 And, so to say, through Abraham even Levi, who receiveth tithes, hath paid tithes;
+
+v10 for he was yet in the loins of his father, when Melchizedek met him.
+
+v11 Now if there was perfection through the Levitical priesthood (for under it hath the people received the law), what further need [was there] that another priest should arise after the order of Melchizedek, and not be reckoned after the order of Aaron?
+
+v12 For the priesthood being changed, there is made of necessity a change also of the law.
+
+v13 For he of whom these things are said belongeth to another tribe, from which no man hath given attendance at the altar.
+
+v14 For it is evident that our Lord hath sprung out of Judah; as to which tribe Moses spake nothing concerning priests.
+
+v15 And [what we say] is yet more abundantly evident, if after the likeness of Melchizedek there ariseth another priest,
+
+v16 who hath been made, not after the law of a carnal commandment, but after the power of an endless life:
+
+v17 for it is witnessed [of him,] Thou art a priest for ever After the order of Melchizedek.
+
+v18 For there is a disannulling of a foregoing commandment because of its weakness and unprofitableness
+
+v19 (for the law made nothing perfect), and a bringing in thereupon of a better hope, through which we draw nigh unto God.
+
+v20 And inasmuch as [it is] not without the taking of an oath
+
+v21 (for they indeed have been made priests without an oath; but he with an oath by him that saith of him, The Lord sware and will not repent himself, Thou art a priest for ever);
+
+v22 by so much also hath Jesus become the surety of a better covenant.
+
+v23 And they indeed have been made priests many in number, because that by death they are hindered from continuing:
+
+v24 but he, because he abook_ideth for ever, hath his priesthood unchangeable.
+
+v25 Wherefore also he is able to save to the uttermost them that draw near unto God through him, seeing he ever liveth to make intercession for them.
+
+v26 For such a high priest became us, holy, guileless, undefiled, separated from sinners, and made higher than the heavens;
+
+v27 who needeth not daily, like those high priests, to offer up sacrifices, first for his own sins, and then for the [sins] of the people: for this he did once for all, when he offered up himself.
+
+v28 For the law appointeth men high priests, having infirmity; but the word of the oath, which was after the law, [appointeth] a Son, perfected for evermore.
+
+***
+
+[[Bible Versions/ASV/58 - Hebrews/Hebrews 6|← Hebrews 6]] | [[Bible Versions/ASV/58 - Hebrews/Hebrews]] | [[Bible Versions/ASV/58 - Hebrews/Hebrews 8|Hebrews 8 →]]

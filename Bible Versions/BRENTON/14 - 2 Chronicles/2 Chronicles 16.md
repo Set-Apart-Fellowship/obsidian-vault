@@ -1,0 +1,14 @@
+v1 And in the thirty-eighth year of the reign of Asa, the king of Israel went up against Juda, and built Rama, so as not to allow egress or ingress to Asa king of Juda.
+v2 And Asa took silver and gold out of the treasures of the house of the Lord, and of the king's house, and sent them to the son of Ader king of Syria, which dwelt in Damascus, saying,
+v3 Make a covenant between me and thee, and between my father and thy father: behold, I have sent thee gold and silver: come, and turn away from me Baasa king of Israel, and let him depart from me.
+v4 And the son of Ader hearkened to king Asa, and sent the captains of his host against the cities of Israel; and smote Æon, and Dan, and Abelmain, and all the country round Nephthali.
+v5 And it came to pass when Baasa heard it , he left off building Rama, and put a stop to his work:
+v6 then king Asa took all Juda, and took the stones of Rama, and its timber, with which Baasa had built; and he built with them Gabae and Maspha.
+v7 And at that time came Anani the prophet to Asa king of Juda, and said to him, Because thou didst trust on the king of Syria, and didst not trust on the Lord thy God, therefore the army of Syria is escaped out of thy hand.
+v8 Were not the Ethiopians and Libyans a great force, in courage, in horsemen, in great numbers? and did not He deliver them into thy hands, because thou trustedst in the Lord?
+v9 For the eyes of the Lord look upon all the earth, to strengthen every heart that is perfect toward him. In this thou hast done foolishly; henceforth there shall be war with thee.
+v10 And Asa was angry with the prophet, and put him in prison, for he was angry at this: and Asa vexed some of the people at that time.
+v11 And, behold, the acts of Asa, the first and the last, are written in the book of the kings of Juda and Israel.
+v12 And Asa was diseased in his feet in the thirty-ninth year of his reign, until he was very ill: but in his disease he sought not to the Lord, but to the physicians.
+v13 And Asa slept with his fathers, and died in the fortieth year of his reign.
+v14 And they buried him in the sepulchre which he had dug for himself in the city of David, and they laid him on a bed, and filled it with spices and all kinds of perfumes of the apothecaries; and they made for him a very great funeral.

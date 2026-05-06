@@ -1,0 +1,101 @@
+# Genesis 27 (American Standard Version)
+
+[[Bible Versions/ASV/01 - Genesis/Genesis 26|← Genesis 26]] | [[Bible Versions/ASV/01 - Genesis/Genesis]] | [[Bible Versions/ASV/01 - Genesis/Genesis 28|Genesis 28 →]]
+
+***
+
+v1 And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his elder son, and said unto him, My son. And he said unto him, Here am I.
+
+v2 And he said, Behold now, I am old, I know not the day of my death.
+
+v3 Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me venison.
+
+v4 And make me savory food, such as I love, and bring it to me, that I may eat. That my soul may bless thee before I die.
+
+v5 And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it.
+
+v6 And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,
+
+v7 Bring me venison, and make me savory food, that I may eat, and bless thee before Jehovah before my death.
+
+v8 Now therefore, my son, obey my voice according to that which I command thee.
+
+v9 Go now to the flock, and fetch me from thence two good kids of the goats. And I will make them savory food for thy father, such as he loveth.
+
+v10 And thou shalt bring it to thy father, that he may eat, so that he may bless thee before his death.
+
+v11 And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man.
+
+v12 My father peradventure will feel me, and I shall seem to him as a deceiver. And I shall bring a curse upon me, and not a blessing.
+
+v13 And his mother said unto him, Upon me be thy curse, my son. Only obey my voice, and go fetch me them.
+
+v14 And he went, and fetched, and brought them to his mother. And his mother made savory food, such as his father loved.
+
+v15 And Rebekah took the goodly garments of Esau her elder son, which were with her in the house, and put them upon Jacob her younger son.
+
+v16 And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck.
+
+v17 And she gave the savory food and the bread, which she had prepared, into the hand of her son Jacob.
+
+v18 And he came unto his father, and said, My father. And he said, Here am I. Who art thou, my son?
+
+v19 And Jacob said unto his father, I am Esau thy first-born; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.
+
+v20 And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because Jehovah thy God sent me good speed.
+
+v21 And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not.
+
+v22 And Jacob went near unto Isaac his father. And he felt him, and said, The voice is Jacob's voice, but the hands are the hands of Esau.
+
+v23 And he discerned him not, because his hands were hairy, as his brother Esau's hands. So he blessed him.
+
+v24 And he said, Art thou my very son Esau? And he said, I am.
+
+v25 And he said, Bring it near to me, and I will eat of my son's venison, that my soul may bless thee. And he brought it near to him, and he did eat. And he brought him wine, and he drank.
+
+v26 And his father Isaac said unto him, Come near now, and kiss me, my son.
+
+v27 And he came near, and kissed him. And he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son Is as the smell of a field which Jehovah hath blessed.
+
+v28 And God five thee of the dew of heaven, And of the fatness of the earth, And plenty of grain and new wine.
+
+v29 Let peoples serve thee, And nations bow down to thee. Be lord over thy brethren, And let thy mother's sons bow down to thee. Cursed be every one that curseth thee, And blessed be every one that blesseth thee.
+
+v30 And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
+
+v31 And he also made savory food, and brought it unto his father. And he said unto his father, Let my father arise, and eat of his son's venison, that thy soul may bless me.
+
+v32 And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy first-born, Esau.
+
+v33 And Isaac trembled very exceedingly, and said, Who then is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? Yea, [and] he shall be blessed.
+
+v34 When Esau heard the words of his father, he cried with an exceeding great and bitter cry, and said unto his father, Bless me, even me also, O my father.
+
+v35 And he said, Thy brother came with guile, and hath taken away thy blessing.
+
+v36 And he said, Is not he rightly name Jacob? for he hath supplanted me these two time. He took away my birthright. And, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?
+
+v37 And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants. And with grain and new wine have I sustained him. And what then shall I do for thee, my son?
+
+v38 And Esau said unto his father, Hast thou but one blessing, my father? Bless me, even me also, O my father. And Esau lifted up his voice, and wept.
+
+v39 And Isaac his father answered and said unto him, Behold, of the fatness of the earth shall be thy dwelling, And of the dew of heaven from above.
+
+v40 And by thy sword shalt thou live, and thou shalt serve    thy brother. And it shall come to pass, when thou shalt break loose, That thou shalt shake his yoke from off thy neck.
+
+v41 And Esau hated Jacob because of the blessing wherewith his father blessed him. And Esau said in his heart, The days of mourning for my father are at hand. Then will I slay my brother Jacob.
+
+v42 And the words of Esau her elder son were told to Rebekah. And she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, [purposing] to kill thee.
+
+v43 Now therefore, my son, obey my voice. And arise, flee thou to Laban my brother to Haran.
+
+v44 And tarry with him a few days, until thy brother's fury turn away.
+
+v45 Until thy brother's anger turn away from thee, and he forget that which thou hast done to him. Then I will send, and fetch thee from thence. Why should I be bereaved of you both in one day?
+
+v46 And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth. If Jacob take a wife of the daughters of Heth, such as these, of the daughters of the land, what good shall my life do me?
+
+***
+
+[[Bible Versions/ASV/01 - Genesis/Genesis 26|← Genesis 26]] | [[Bible Versions/ASV/01 - Genesis/Genesis]] | [[Bible Versions/ASV/01 - Genesis/Genesis 28|Genesis 28 →]]

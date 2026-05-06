@@ -1,0 +1,53 @@
+# 1 Samuel 8 (Darby Translation)
+
+[[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel 7|← 1 Samuel 7]] | [[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel]] | [[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel 9|1 Samuel 9 →]]
+
+***
+
+v1 And it came to pass when Samuel was old, that he made his sons judges over Israel.
+
+v2 And the name of his firstborn was Joel; and the name of his second, Abijah; they judged in Beer-sheba.
+
+v3 And his sons walked not in his ways, but turned aside after lucre, and took bribes, and perverted justice.
+
+v4 Then all the elders of Israel gathered themselves together, and came to Samuel to Ramah,
+
+v5 and said to him, Behold, thou art become old, and thy sons walk not in thy ways: now appoint us a king to judge us, like all the nations.
+
+v6 And the thing displeased Samuel, when they said, Give us a king to judge us. And Samuel prayed to Jehovah.
+
+v7 And Jehovah said to Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.
+
+v8 According to all the deeds that they have done since the day that I brought them up out of Egypt even unto this day, in that they have forsaken me and served other gods, so do they also unto thee.
+
+v9 And now hearken unto their voice; only, testify solemnly unto them, and declare unto them the manner of the king that shall reign over them.
+
+v10 And Samuel spoke all the words of Jehovah to the people that asked of him a king.
+
+v11 And he said, This will be the manner of the king that shall reign over you: he will take your sons, and appoint them for himself, on his chariot and among his horsemen, and they shall run before his chariots;
+
+v12 and [he will take them] that he may appoint for himself captains over thousands, and captains over fifties, and that they may plough his ground, and reap his harvest, and make his instruments of war and instruments of his chariots.
+
+v13 And he will take your daughters for perfumers, and cooks, and bakers.
+
+v14 And your fields, and your vineyards, and your oliveyards, the best, will he take and give to his servants.
+
+v15 And he will take the tenth of your seed and of your vineyards, and give to his chamberlains and to his servants.
+
+v16 And he will take your bondmen, and your bondwomen, and your comeliest young men, and your asses, and use them for his work.
+
+v17 He will take the tenth of your sheep. And ye shall be his servants.
+
+v18 And ye shall cry out in that day because of your king whom ye have chosen; and Jehovah will not answer you in that day.
+
+v19 And the people refused to hearken to the voice of Samuel; and they said, No, but there shall be a king over us,
+
+v20 that we also may be like all the nations; and our king shall judge us, and go out before us, and conduct our wars.
+
+v21 And Samuel heard all the words of the people, and he repeated them in the ears of Jehovah.
+
+v22 And Jehovah said to Samuel, Hearken unto their voice, and make them a king. And Samuel said to the men of Israel, Go ye every man to his city.
+
+***
+
+[[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel 7|← 1 Samuel 7]] | [[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel]] | [[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel 9|1 Samuel 9 →]]

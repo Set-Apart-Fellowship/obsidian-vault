@@ -1,0 +1,45 @@
+# 1 Kings 5 (Young's Literal Translation)
+
+[[Bible Versions/YLT/11 - 1 Kings/1 Kings 4|← 1 Kings 4]] | [[Bible Versions/YLT/11 - 1 Kings/1 Kings]] | [[Bible Versions/YLT/11 - 1 Kings/1 Kings 6|1 Kings 6 →]]
+
+***
+
+v1 And Hiram king of Tyre sendeth his servants unto Solomon, for he heard that they had anointed him for king instead of his father, for Hiram was a lover of David all the days;
+
+v2 and Solomon sendeth unto Hiram, saying,
+
+v3 'Thou hast known David my father, that he hath not been able to build a house to the name of Jehovah his God, because of the wars that have been round about him, till Jehovah's putting them under the soles of his feet.
+
+v4 'And now, Jehovah my God hath given rest to me round about, there is no adversary nor evil occurrence,
+
+v5 and lo, I am saying to build a house to the name of Jehovah my God, as Jehovah spake unto David my father, saying, Thy son whom I appoint in thy stead on thy throne, he doth build the house for My name.
+
+v6 'And now, command, and they cut down for me cedars out of Lebanon, and my servants are with thy servants, and the hire of thy servants I give to thee according to all that thou sayest, for thou hast known that there is not among us a man acquainted with cutting wood, like the Sidonians.'
+
+v7 And it cometh to pass at Hiram's hearing the words of Solomon, that he rejoiceth exceedingly, and saith, 'Blessed [is] Jehovah to-day, who hath given to David a wise son over this numerous people.'
+
+v8 And Hiram sendeth unto Solomon, saying, I have heard that which thou hast sent unto me, I do all thy desire concerning cedar-wood, and fir-wood,
+
+v9 my servants bring down from Lebanon to the sea, and I make them floats in the sea unto the place that thou sendest unto me, and I have spread them out there; and thou dost take [them] up, and thou dost execute my desire, to give the food of my house.'
+
+v10 And Hiram is giving to Solomon cedar-trees, and fir-trees, all his desire,
+
+v11 and Solomon hath given to Hiram twenty thousand cors of wheat, food for his house, and twenty cors of beaten oil; thus doth Solomon give to Hiram year by year.
+
+v12 And Jehovah hath given wisdom to Solomon as He spake to him, and there is peace between Hiram and Solomon, and they make a covenant both of them.
+
+v13 And king Solomon lifteth up a tribute out of all Israel, and the tribute is thirty thousand men,
+
+v14 and he sendeth them to Lebanon, ten thousand a month, by changes, a month they are in Lebanon, two months in their own house; and Adoniram [is] over the tribute.
+
+v15 And king Solomon hath seventy thousand bearing burdens, and eighty thousand hewing in the mountain,
+
+v16 apart from the heads of the officers of Solomon, who [are] over the work, three thousand and three hundred, those ruling over the people who are working in the business.
+
+v17 And the king commandeth, and they bring great stones, precious stone, to lay the foundation of the house, hewn stones;
+
+v18 and the builders of Solomon, and the builders of Hiram, and the Giblites hew, and prepare the wood and the stones to build the house.
+
+***
+
+[[Bible Versions/YLT/11 - 1 Kings/1 Kings 4|← 1 Kings 4]] | [[Bible Versions/YLT/11 - 1 Kings/1 Kings]] | [[Bible Versions/YLT/11 - 1 Kings/1 Kings 6|1 Kings 6 →]]

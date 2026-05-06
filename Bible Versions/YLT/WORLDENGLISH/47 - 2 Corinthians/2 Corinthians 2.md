@@ -1,0 +1,43 @@
+# 2 Corinthians 2 (World English Bible)
+
+[[Bible Versions/YLT/WORLDENGLISH/47 - 2 Corinthians/2 Corinthians 1|← 2 Corinthians 1]] | [[Bible Versions/YLT/WORLDENGLISH/47 - 2 Corinthians/2 Corinthians]] | [[Bible Versions/YLT/WORLDENGLISH/47 - 2 Corinthians/2 Corinthians 3|2 Corinthians 3 →]]
+
+***
+
+v1 But I determined this for myself, that I would not come to you again in sorrow.
+
+v2 For if I make you sorry, then who will make me glad but he who is made sorry by me?
+
+v3 And I wrote this very thing to you, so that, when I came, I wouldn't have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is of you all.
+
+v4 For out of much affliction and anguish of heart I wrote to you with many tears, not that you should be made sorry, but that you might know the love that I have so abundantly for you.
+
+v5 But if any has caused sorrow, he has caused sorrow, not to me, but in part (that I not press too heavily) to you all.
+
+v6 Sufficient to such a one is this punishment which was inflicted by the many;
+
+v7 so that on the contrary you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow.
+
+v8 Therefore I beg you to confirm your love toward him.
+
+v9 For to this end I also wrote, that I might know the proof of you, whether you are obedient in all things.
+
+v10 Now I also forgive whomever you forgive anything. For if indeed I have forgiven anything, I have forgiven that one for your sakes in the presence of Christ,
+
+v11 that no advantage may be gained over us by Satan; for we are not ignorant of his schemes.
+
+v12 Now when I came to Troas for the gospel of Christ, and when a door was opened to me in the Lord,
+
+v13 I had no relief for my spirit, because I didn't find Titus, my brother, but taking my leave of them, I went forth into Macedonia.
+
+v14 But thanks be to God, who always leads us in triumph in Christ, and reveals through us the sweet aroma of his knowledge in every place.
+
+v15 For we are a sweet aroma of Christ to God, in those who are saved, and in those who perish;
+
+v16 to the one a stench from death to death; to the other a sweet aroma from life to life. Who is sufficient for these things?
+
+v17 For we are not as so many, peddling the word of God. But as of sincerity, but as of God, in the sight of God, we speak in Christ.
+
+***
+
+[[Bible Versions/YLT/WORLDENGLISH/47 - 2 Corinthians/2 Corinthians 1|← 2 Corinthians 1]] | [[Bible Versions/YLT/WORLDENGLISH/47 - 2 Corinthians/2 Corinthians]] | [[Bible Versions/YLT/WORLDENGLISH/47 - 2 Corinthians/2 Corinthians 3|2 Corinthians 3 →]]

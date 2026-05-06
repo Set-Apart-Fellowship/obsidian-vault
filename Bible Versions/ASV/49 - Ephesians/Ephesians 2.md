@@ -1,0 +1,53 @@
+# Ephesians 2 (American Standard Version)
+
+[[Bible Versions/ASV/49 - Ephesians/Ephesians 1|← Ephesians 1]] | [[Bible Versions/ASV/49 - Ephesians/Ephesians]] | [[Bible Versions/ASV/49 - Ephesians/Ephesians 3|Ephesians 3 →]]
+
+***
+
+v1 And you [did he make alive,] when ye were dead through your trespasses and sins,
+
+v2 wherein ye once walked according to the course of this world, according to the prince of the powers of the air, of the spirit that now worketh in the sons of disobedience;
+
+v3 among whom we also all once lived in the lust of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest:--
+
+v4 but God, being rich in mercy, for his great love wherewith he loved us,
+
+v5 even when we were dead through our trespasses, made us alive together with Christ (by grace have ye been saved),
+
+v6 and raised us up with him, and made us to sit with him in the heavenly [places], in Christ Jesus:
+
+v7 that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus:
+
+v8 for by grace have ye been saved through faith; and that not of yourselves, [it is] the gift of God;
+
+v9 not of works, that no man should glory.
+
+v10 For we are his workmanship, created in Christ Jesus for good works, which God afore prepared that we should walk in them.
+
+v11 Wherefore remember, that once ye, the Gentiles in the flesh, who are called Uncircumcision by that which is called Circumcision, in the flesh, made by hands;
+
+v12 that ye were at that time separate from Christ, alienated from the commonwealth of Israel, and strangers from the covenants of the promise, having no hope and without God in the world.
+
+v13 But now in Christ Jesus ye that once were far off are made nigh in the blood of Christ.
+
+v14 For he is our peace, who made both one, and brake down the middle wall of partition,
+
+v15 having abolished in the flesh the enmity, [even] the law of commandments [contained] in ordinances; that he might create in himself of the two one new man, [so] making peace;
+
+v16 and might reconcile them both in one body unto God through the cross, having slain the enmity thereby:
+
+v17 and he came and preached peace to you that were far off, and peace to them that were nigh:
+
+v18 for through him we both have our access in one Spirit unto the Father.
+
+v19 So then ye are no more strangers and sojourners, but ye are fellow-citizens with the saints, and of the household of God,
+
+v20 being built upon the foundation of the apostles and prophets, Christ Jesus himself being the chief corner stone;
+
+v21 in whom each several building, fitly framed together, groweth into a holy temple in the Lord;
+
+v22 in whom ye also are builded together for a habitation of God in the Spirit.
+
+***
+
+[[Bible Versions/ASV/49 - Ephesians/Ephesians 1|← Ephesians 1]] | [[Bible Versions/ASV/49 - Ephesians/Ephesians]] | [[Bible Versions/ASV/49 - Ephesians/Ephesians 3|Ephesians 3 →]]

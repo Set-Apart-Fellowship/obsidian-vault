@@ -1,0 +1,31 @@
+# Ezra 1 (Darby Translation)
+
+[[Bible Versions/DARBY/15 - Ezra/Ezra]] | [[Bible Versions/DARBY/15 - Ezra/Ezra 2|Ezra 2 →]]
+
+***
+
+v1 And in the first year of Cyrus king of Persia, that the word of Jehovah by the mouth of Jeremiah might be accomplished, Jehovah stirred up the spirit of Cyrus king of Persia, and he made a proclamation throughout his kingdom, and also in writing, saying,
+
+v2 Thus says Cyrus king of Persia: All the kingdoms of the earth has Jehovah the God of the heavens given to me, and he has charged me to build him a house at Jerusalem, which is in Judah.
+
+v3 Whosoever there is among you of all his people, his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of Jehovah the God of Israel -- he is God -- which is at Jerusalem.
+
+v4 And whosoever remains in any place where he sojourns, let the men of his place help him with silver, and with gold, and with goods, and with beasts, besides the voluntary offering for the house of God which is at Jerusalem.
+
+v5 And the chief fathers of Judah and Benjamin rose up, and the priests, and the Levites, even all those whose spirit God had stirred, to go up to build the house of Jehovah which is at Jerusalem.
+
+v6 And all they that were about them strengthened their hands with articles of silver, with gold, with goods, and with beasts, and with precious things, besides all that was willingly offered.
+
+v7 And king Cyrus brought forth the vessels of the house of Jehovah, which Nebuchadnezzar had brought forth out of Jerusalem and had put in the house of his god.
+
+v8 And Cyrus king of Persia brought them forth by the hand of Mithredath the treasurer, who counted them out to Sheshbazzar the prince of Judah.
+
+v9 And this is the number of them: thirty chargers of gold, a thousand chargers of silver, nine-and-twenty knives,
+
+v10 thirty basons of gold, silver basons of a second [sort] four hundred and ten, [and] other vessels a thousand.
+
+v11 All the vessels of gold and of silver were five thousand four hundred. The whole did Sheshbazzar bring up, when they of the captivity were brought up from Babylon to Jerusalem.
+
+***
+
+[[Bible Versions/DARBY/15 - Ezra/Ezra]] | [[Bible Versions/DARBY/15 - Ezra/Ezra 2|Ezra 2 →]]

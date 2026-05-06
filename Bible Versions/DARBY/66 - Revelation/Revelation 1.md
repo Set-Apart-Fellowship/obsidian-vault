@@ -1,0 +1,49 @@
+# Revelation 1 (Darby Translation)
+
+[[Bible Versions/DARBY/66 - Revelation/Revelation]] | [[Bible Versions/DARBY/66 - Revelation/Revelation 2|Revelation 2 →]]
+
+***
+
+v1 Revelation of Jesus Christ, which God gave to him, to shew to his bondmen what must shortly take place; and he signified [it], sending by his angel, to his bondman John,
+
+v2 who testified the word of God, and the testimony of Jesus Christ, all things that he saw.
+
+v3 Blessed [is] he that reads, and they that hear the words of the prophecy, and keep the things written in it; for the time [is] near.
+
+v4 John to the seven assemblies which [are] in Asia: Grace to you and peace from [him] who is, and who was, and who is to come; and from the seven Spirits which [are] before his throne;
+
+v5 and from Jesus Christ, the faithful witness, the firstborn from the dead, and the prince of the kings of the earth. To him who loves us, and has washed us from our sins in his blood,
+
+v6 and made us a kingdom, priests to his God and Father: to him [be] the glory and the might to the ages of ages. Amen.
+
+v7 Behold, he comes with the clouds, and every eye shall see him, and they which have pierced him, and all the tribes of the land shall wail because of him. Yea. Amen.
+
+v8 I am the Alpha and the Omega, saith [the] Lord God, he who is, and who was, and who is to come, the Almighty.
+
+v9 I John, your brother and fellow-partaker in the tribulation and kingdom and patience, in Jesus, was in the island called Patmos, for the word of God, and for the testimony of Jesus.
+
+v10 I became in [the] Spirit on the Lord's day, and I heard behind me a great voice as of a trumpet,
+
+v11 saying, What thou seest write in a book, and send to the seven assemblies: to Ephesus, and to Smyrna, and to Pergamos, and to Thyatira, and to Sardis, and to Philadelphia, and to Laodicea.
+
+v12 And I turned back to see the voice which spoke with me; and having turned, I saw seven golden lamps,
+
+v13 and in the midst of the [seven] lamps [one] like [the] Son of man, clothed with a garment reaching to the feet, and girt about at the breasts with a golden girdle:
+
+v14 his head and hair white like white wool, as snow; and his eyes as a flame of fire;
+
+v15 and his feet like fine brass, as burning in a furnace; and his voice as the voice of many waters;
+
+v16 and having in his right hand seven stars; and out of his mouth a sharp two-edged sword going forth; and his countenance as the sun shines in its power.
+
+v17 And when I saw him I fell at his feet as dead; and he laid his right hand upon me, saying, Fear not; *I* am the first and the last,
+
+v18 and the living one: and I became dead, and behold, I am living to the ages of ages, and have the keys of death and of hades.
+
+v19 Write therefore what thou hast seen, and the things that are, and the things that are about to be after these.
+
+v20 The mystery of the seven stars which thou hast seen on my right hand, and the seven golden lamps. -- The seven stars are angels of the seven assemblies; and the seven lamps are seven assemblies.
+
+***
+
+[[Bible Versions/DARBY/66 - Revelation/Revelation]] | [[Bible Versions/DARBY/66 - Revelation/Revelation 2|Revelation 2 →]]

@@ -1,0 +1,15 @@
+v1 According to the word of Ephraim he adopted ordinances for himself in Israel; and he established them for Baal, and died.
+v2 And now they have sinned increasingly, and have made for themselves a molten image of their silver, according to the fashion of idols, the work of artificers accomplished for them: they say, Sacrifice men, for the calves have come to an end.
+v3 Therefore shall they be as a morning cloud, and as the early dew that passes away, as chaff blown away from the threshing-floor, and as a vapour from tears.
+v4 But I am the Lord thy God that establishes the heaven, and creates the earth, whose hands have framed the whole host of heaven: but I shewed them not to thee that thou shouldest go after them: and I brought thee up out of the land of Egypt, and thou shalt know no God but me; and there is no Saviour beside me.
+v5 I tended thee as a shepherd in the wilderness, in an uninhabited land.
+v6 According to their pastures, so they were completely filled; and their hearts were exalted; therefore they forgot me.
+v7 And I will be to them as a panther, and as a leopard.
+v8 I will meet them by the way of the Assyrians, as a she-bear excited, and I will rend the caul of their heart, and the lions' whelps of the thicket shall devour them there; the wild beasts of the field shall rend them in pieces.
+v9 O Israel, who will aid thee in thy destruction?
+v10 Where is this thy king? let him even save thee in all thy cities: let him judge thee, of whom thou saidst, Give me a king and a prince.
+v11 And I gave thee a king in mine anger, and kept him back in my wrath.
+v12 Ephraim has framed a conspiracy of unrighteousness, his sin is hidden.
+v13 Pains as of a woman in travail shall come upon him: he is thy wise son, because he shall not stay in the destruction of thy children.
+v14 I will deliver them out of the power of Hades, and will redeem them from death: where is thy penalty, O death? O Hades, where is thy sting? comfort is hidden from mine eyes.
+v15 Forasmuch as he will cause a division among his brethren, the Lord shall bring upon him an east wind from the desert, and shall dry up his veins and quite drain his fountains: he shall dry up his land, and spoil all his precious vessels.

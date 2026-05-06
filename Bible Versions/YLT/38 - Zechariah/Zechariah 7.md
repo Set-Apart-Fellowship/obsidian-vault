@@ -1,0 +1,37 @@
+# Zechariah 7 (Young's Literal Translation)
+
+[[Bible Versions/YLT/38 - Zechariah/Zechariah 6|← Zechariah 6]] | [[Bible Versions/YLT/38 - Zechariah/Zechariah]] | [[Bible Versions/YLT/38 - Zechariah/Zechariah 8|Zechariah 8 →]]
+
+***
+
+v1 And it cometh to pass, in the fourth year of Darius the king hath a word of Jehovah been unto Zechariah, in the fourth of the ninth month, in Chisleu.
+
+v2 And Beth-El sendeth Sherezer and Regem-Melech, and its men, to appease the face of Jehovah,
+
+v3 speaking unto the priests who [are] at the house of Jehovah of Hosts, and unto the prophets, saying, 'Do I weep in the fifth month -- being separated -- as I have done these so many years?'
+
+v4 And there is a word of Jehovah of Hosts unto me, saying:
+
+v5 'Speak unto all the people of the land, and unto the priests, saying:
+
+v6 When ye fasted with mourning in the fifth and in the seventh [months] -- even these seventy years -- did ye keep the fast [to] Me -- Me? And when ye eat, and when ye drink, is it not ye who are eating, and ye who are drinking?
+
+v7 'Are not [these] the words that Jehovah proclaimed by the hand of the former prophets, in Jerusalem's being inhabited, and [in] safety, and its cities round about it, and the south and the plain -- abook_iding?'
+
+v8 And there is a word of Jehovah unto Zechariah, saying:
+
+v9 'Thus spake Jehovah of Hosts, saying: True judgment judge ye, And kindness and mercy do one with another.
+
+v10 And widow, and fatherless, Sojourner, and poor, ye do not oppress, And the calamity of one another ye do not devise in your heart.
+
+v11 And they refuse to attend, And they give a refractory shoulder, And their ears have made heavy against hearing.
+
+v12 And their heart they have made adamant, Against hearing the law, and the words, That Jehovah of Hosts sent by His Spirit, By the hand of the former prophets, And their is great wrath from Jehovah of Hosts.
+
+v13 And it cometh to pass, as He called, And they have not hearkened, So do they call, and I do not hearken, Said Jehovah of Hosts.
+
+v14 And I toss them on all the nations, That they have not known, The land hath been desolate behind them, Of any passing by and turning back, And they set a desirable land for a desolation!
+
+***
+
+[[Bible Versions/YLT/38 - Zechariah/Zechariah 6|← Zechariah 6]] | [[Bible Versions/YLT/38 - Zechariah/Zechariah]] | [[Bible Versions/YLT/38 - Zechariah/Zechariah 8|Zechariah 8 →]]

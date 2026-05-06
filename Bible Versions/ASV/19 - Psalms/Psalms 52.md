@@ -1,0 +1,27 @@
+# Psalms 52 (American Standard Version)
+
+[[Bible Versions/ASV/19 - Psalms/Psalms 51|← Psalms 51]] | [[Bible Versions/ASV/19 - Psalms/Psalms]] | [[Bible Versions/ASV/19 - Psalms/Psalms 53|Psalms 53 →]]
+
+***
+
+v1 Why boastest thou thyself in mischief, O mighty man? The lovingkindness of God [endureth] continually.
+
+v2 Thy tongue deviseth very wickedness, Like a sharp razor, working deceitfully.
+
+v3 Thou lovest evil more than good, And lying rather than to speak righteousness.   Selah
+
+v4 Thou lovest all devouring words, thou deceitful tongue.
+
+v5 God will likewise destroy thee for ever; He will take thee up, and pluck thee out of thy tent, And root thee out of the land of the living.   Selah
+
+v6 The righteous also shall see [it], and fear, And shall laugh at him, [saying],
+
+v7 Lo, this is the man that made not God his strength, But trusted in the abundance of his riches, And strengthened himself in his wickedness.
+
+v8 But as for me, I am like a green olive-tree in the house    of God: I trust in the lovingkindness of God for ever and ever.
+
+v9 I will give thee thanks for ever, because thou hast done    it; And I will hope in thy name, for it is good, in the presence of    thy saints.      Psalm 53 For the Chief Musician; set to Mahalath. Maschil of David.
+
+***
+
+[[Bible Versions/ASV/19 - Psalms/Psalms 51|← Psalms 51]] | [[Bible Versions/ASV/19 - Psalms/Psalms]] | [[Bible Versions/ASV/19 - Psalms/Psalms 53|Psalms 53 →]]

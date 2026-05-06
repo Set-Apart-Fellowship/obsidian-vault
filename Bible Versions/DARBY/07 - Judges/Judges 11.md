@@ -1,0 +1,89 @@
+# Judges 11 (Darby Translation)
+
+[[Bible Versions/DARBY/07 - Judges/Judges 10|← Judges 10]] | [[Bible Versions/DARBY/07 - Judges/Judges]] | [[Bible Versions/DARBY/07 - Judges/Judges 12|Judges 12 →]]
+
+***
+
+v1 Now Jephthah the Gileadite was a mighty man of valour, and he was the son of a harlot; and Gilead had begotten Jephthah.
+
+v2 And Gilead's wife bore him sons; and when his wife's sons were grown, they expelled Jephthah, and said to him, Thou shalt not inherit in our father's house; for thou art the son of another woman.
+
+v3 Then Jephthah fled from his brethren, and dwelt in the land of Tob. And vain men were gathered to Jephthah, and they made expeditions with him.
+
+v4 And it came to pass after some time, that the children of Ammon fought with Israel.
+
+v5 And when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob.
+
+v6 And they said to Jephthah, Come, and be our captain, that we may fight against the children of Ammon.
+
+v7 And Jephthah said to the elders of Gilead, Did not ye hate me, and expel me out of my father's house? and why are ye come to me now when ye are in trouble?
+
+v8 And the elders of Gilead said to Jephthah, Therefore we have returned to thee now, that thou mayest go with us, and fight against the children of Ammon, and be head over all of us the inhabitants of Gilead.
+
+v9 And Jephthah said to the elders of Gilead, If ye take me back to fight against the children of Ammon, and Jehovah give them up before me, shall I be your head?
+
+v10 And the elders of Gilead said unto Jephthah, Jehovah be witness between us, if we do not so according to thy words!
+
+v11 Then Jephthah went with the elders of Gilead, and the people made him head and captain over them; and Jephthah uttered all his words before Jehovah in Mizpah.
+
+v12 And Jephthah sent messengers to the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight against my land?
+
+v13 And the king of the children of Ammon said to the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from the Arnon even unto the Jabbok and unto the Jordan; and now restore it peaceably.
+
+v14 And Jephthah sent messengers again to the king of the children of Ammon,
+
+v15 and said to him, Thus saith Jephthah: Israel took not away the land of Moab, nor the land of the children of Ammon.
+
+v16 But when they came up from Egypt, then Israel walked through the wilderness as far as the Red sea, and came to Kadesh.
+
+v17 And Israel sent messengers to the king of Edom, saying, Let me, I pray thee, pass through thy land; but the king of Edom would not hearken. And they also sent to the king of Moab; and he would not. And Israel abode in Kadesh.
+
+v18 And they walked through the wilderness, and went round the land of Edom and the land of Moab, and came by the east of the land of Moab, and encamped beyond the Arnon, but came not within the border of Moab, for the Arnon is the border of Moab.
+
+v19 And Israel sent messengers to Sihon king of the Amorites, the king of Heshbon, and Israel said to him, Let us pass, we pray thee, through thy land unto my place.
+
+v20 But Sihon trusted not Israel, to let him pass through his border, and Sihon gathered all his people, and they encamped in Jahzah; and he fought with Israel.
+
+v21 And Jehovah the God of Israel gave Sihon and all his people into the hand of Israel, and they smote them; and Israel took possession of the whole land of the Amorites, who dwelt in that country.
+
+v22 And they possessed all the borders of the Amorites, from the Arnon unto the Jabbok, and from the wilderness unto the Jordan.
+
+v23 And now Jehovah the God of Israel has dispossessed the Amorites from before his people Israel, and shouldest thou take possession of it?
+
+v24 Dost not thou possess what Chemosh thy god puts thee in possession of? and whatever Jehovah our God has dispossessed before us, that will we possess.
+
+v25 And now art thou indeed better than Balak the son of Zippor, king of Moab? did he ever strive with Israel? did he ever fight against them?
+
+v26 While Israel dwelt in Heshbon and its dependent villages, and in Aroer and its dependent villages, and in all the cities that are along the banks of the Arnon, three hundred years -- why did ye not recover [them] within that time?
+
+v27 So I have not sinned against thee, but it is thou who doest me wrong in making war against me. Jehovah, the Judge, be judge this day between the children of Israel and the children of Ammon!
+
+v28 But the king of the children of Ammon hearkened not to the words of Jephthah that he had sent him.
+
+v29 Then the Spirit of Jehovah came upon Jephthah, and he passed through Gilead and Manasseh, and passed to Mizpeh of Gilead, and from Mizpeh of Gilead he passed over to the children of Ammon.
+
+v30 And Jephthah vowed a vow to Jehovah, and said, If thou wilt without fail give the children of Ammon into my hand,
+
+v31 then shall that which cometh forth from the door of my house to meet me, when I return in peace from the children of Ammon, be Jehovah's, and I will offer it up for a burnt-offering.
+
+v32 And Jephthah passed over to the children of Ammon to fight against them; and Jehovah gave them into his hand.
+
+v33 And he smote them from Aroer until thou come to Minnith, twenty cities, even unto Abel-Cheramim, with a very great slaughter; and the children of Ammon were subdued before the children of Israel.
+
+v34 And Jephthah came to Mizpah to his house, and behold, his daughter came out to meet him with tambours and with dances; and she was an only child: besides her he had neither son nor daughter.
+
+v35 And it came to pass, when he saw her, that he rent his garments, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me; for I have opened my mouth to Jehovah, and I cannot go back.
+
+v36 And she said to him, My father, if thou hast opened thy mouth to Jehovah, do to me according to that which has proceeded out of thy mouth; forasmuch as Jehovah has taken vengeance for thee upon thine enemies, upon the children of Ammon.
+
+v37 And she said to her father, Let this thing be done for me: leave me alone two months, that I may go and descend to the mountains, and bewail my virginity, I and my companions.
+
+v38 And he said, Go. And he sent her away for two months. And she went with her companions, and bewailed her virginity upon the mountains.
+
+v39 And it came to pass at the end of two months, that she returned to her father, and he performed on her the vow that he had vowed; and she had known no man. And it became a fixed custom in Israel,
+
+v40 that from year to year the daughters of Israel go to celebrate the daughter of Jephthah the Gileadite four days in the year.
+
+***
+
+[[Bible Versions/DARBY/07 - Judges/Judges 10|← Judges 10]] | [[Bible Versions/DARBY/07 - Judges/Judges]] | [[Bible Versions/DARBY/07 - Judges/Judges 12|Judges 12 →]]

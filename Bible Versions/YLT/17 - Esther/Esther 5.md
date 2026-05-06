@@ -1,0 +1,37 @@
+# Esther 5 (Young's Literal Translation)
+
+[[Bible Versions/YLT/17 - Esther/Esther 4|← Esther 4]] | [[Bible Versions/YLT/17 - Esther/Esther]] | [[Bible Versions/YLT/17 - Esther/Esther 6|Esther 6 →]]
+
+***
+
+v1 And it cometh to pass on the third day, that Esther putteth on royalty, and standeth in the inner-court of the house of the king over-against the house of the king, and the king is sitting on his royal throne, in the royal-house, over-against the opening of the house,
+
+v2 and it cometh to pass, at the king's seeing Esther the queen standing in the court, she hath received grace in his eyes, and the king holdeth out to Esther the golden sceptre that [is] in his hand, and Esther draweth near, and toucheth the top of the sceptre.
+
+v3 And the king saith to her, 'What -- to thee Esther, O queen? and what thy request? unto the half of the kingdom -- and it is given to thee.'
+
+v4 And Esther saith, 'If unto the king [it be] good, the king doth come in, and Haman, to-day, unto the banquet that I have made for him;'
+
+v5 and the king saith, 'Haste ye Haman -- to do the word of Esther;' and the king cometh in, and Haman, unto the banquet that Esther hath made.
+
+v6 And the king saith to Esther, during the banquet of wine, 'What [is] thy petition? and it is given to thee; and what thy request? unto the half of the kingdom -- and it is done.'
+
+v7 And Esther answereth and saith, 'My petition and my request [is]:
+
+v8 if I have found grace in the eyes of the king, and if unto the king [it be] good, to give my petition, and to perform my request, the king doth come, and Haman, unto the banquet that I make for them, and to-morrow I do according to the word of the king.'
+
+v9 And Haman goeth forth on that day rejoicing and glad in heart, and at Haman's seeing Mordecai in the gate of the king, and he hath not risen nor moved for him, then is Haman full of fury against Mordecai.
+
+v10 And Haman forceth himself, and cometh in unto his house, and sendeth, and bringeth in his friends, and Zeresh his wife,
+
+v11 and Haman recounteth to them the glory of his wealth, and the abundance of his sons, and all that with which the king made him great, and with which he lifted him up above the heads and servants of the king.
+
+v12 And Haman saith, 'Yea, Esther the queen brought none in with the king, unto the feast that she made, except myself, and also for to-morrow I am called to her, with the king,
+
+v13 and all this is not profitable to me, during all the time that I am seeing Mordecai the Jew sitting in the gate of the king.'
+
+v14 And Zeresh his wife saith to him, and all his friends, 'Let them prepare a tree, in height fifty cubits, and in the morning speak to the king, and they hang Mordecai on it, and go thou in with the king unto the banquet rejoicing;' and the thing is good before Haman, and he prepareth the tree.
+
+***
+
+[[Bible Versions/YLT/17 - Esther/Esther 4|← Esther 4]] | [[Bible Versions/YLT/17 - Esther/Esther]] | [[Bible Versions/YLT/17 - Esther/Esther 6|Esther 6 →]]

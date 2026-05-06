@@ -1,0 +1,43 @@
+# 1 Samuel 7 (Darby Translation)
+
+[[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel 6|← 1 Samuel 6]] | [[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel]] | [[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel 8|1 Samuel 8 →]]
+
+***
+
+v1 And the men of Kirjath-jearim came, and fetched up the ark of Jehovah, and brought it into the house of Abinadab on the hill, and hallowed Eleazar his son to keep the ark of Jehovah.
+
+v2 And it came to pass, from the day that the ark abode in Kirjath-jearim, that the time was long; for it was twenty years. And all the house of Israel lamented after Jehovah.
+
+v3 And Samuel spoke to all the house of Israel, saying, If ye return to Jehovah with all your heart, put away the strange gods and the Ashtoreths from among you, and apply your hearts unto Jehovah, and serve him only; and he will deliver you out of the hand of the Philistines.
+
+v4 And the children of Israel put away the Baals and the Ashtoreths and served Jehovah only.
+
+v5 And Samuel said, Gather all Israel to Mizpah, and I will pray Jehovah for you.
+
+v6 And they gathered together to Mizpah, and drew water, and poured it out before Jehovah, and fasted on that day, and said there, We have sinned against Jehovah. And Samuel judged the children of Israel in Mizpah.
+
+v7 And the Philistines heard that the children of Israel were gathered together at Mizpah; and the lords of the Philistines went up against Israel; and the children of Israel heard [it], and were afraid of the Philistines.
+
+v8 And the children of Israel said to Samuel, Cease not to cry to Jehovah our God for us, that he will save us out of the hand of the Philistines.
+
+v9 And Samuel took a sucking-lamb, and offered it as a whole burnt-offering to Jehovah; and Samuel cried to Jehovah for Israel, and Jehovah answered him.
+
+v10 And as Samuel was offering up the burnt-offering, the Philistines advanced to battle against Israel. And Jehovah thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were routed before Israel.
+
+v11 And the men of Israel went out of Mizpah, and pursued the Philistines, and smote them, as far as below Beth-car.
+
+v12 And Samuel took a stone and set it between Mizpah and Shen, and called the name of it Eben-ezer, and said, Hitherto Jehovah has helped us.
+
+v13 And the Philistines were subdued, and came no more into the borders of Israel; and the hand of Jehovah was against the Philistines all the days of Samuel.
+
+v14 And the cities that the Philistines had taken from Israel were restored to Israel, from Ekron even to Gath; and their territory did Israel deliver out of the hand of the Philistines. And there was peace between Israel and the Amorite.
+
+v15 And Samuel judged Israel all the days of his life.
+
+v16 And he went from year to year in circuit to Bethel, and Gilgal, and Mizpah, and judged Israel in all those places.
+
+v17 And his return was to Ramah; for there was his house, and there he judged Israel; and there he built an altar to Jehovah.
+
+***
+
+[[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel 6|← 1 Samuel 6]] | [[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel]] | [[Bible Versions/DARBY/09 - 1 Samuel/1 Samuel 8|1 Samuel 8 →]]

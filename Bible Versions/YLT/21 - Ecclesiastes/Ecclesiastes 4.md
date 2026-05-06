@@ -1,0 +1,41 @@
+# Ecclesiastes 4 (Young's Literal Translation)
+
+[[Bible Versions/YLT/21 - Ecclesiastes/Ecclesiastes 3|← Ecclesiastes 3]] | [[Bible Versions/YLT/21 - Ecclesiastes/Ecclesiastes]] | [[Bible Versions/YLT/21 - Ecclesiastes/Ecclesiastes 5|Ecclesiastes 5 →]]
+
+***
+
+v1 And I have turned, and I see all the oppressions that are done under the sun, and lo, the tear of the oppressed, and they have no comforter; and at the hand of their oppressors [is] power, and they have no comforter.
+
+v2 And I am praising the dead who have already died above the living who are yet alive.
+
+v3 And better than both of them [is] he who hath not yet been, in that he hath not seen the evil work that hath been done under the sun.
+
+v4 And I have seen all the labour, and all the benefit of the work, because for it a man is the envy of his neighbour. Even this [is] vanity and vexation of spirit.
+
+v5 The fool is clasping his hands, and eating his own flesh:
+
+v6 'Better [is] a handful [with] quietness, than two handfuls [with] labour and vexation of spirit.'
+
+v7 And I have turned, and I see a vain thing under the sun:
+
+v8 There is one, and there is not a second; even son or brother he hath not, and there is no end to all his labour! His eye also is not satisfied with riches, and [he saith not], 'For whom am I labouring and bereaving my soul of good?' This also is vanity, it is a sad travail.
+
+v9 The two [are] better than the one, in that they have a good reward by their labour.
+
+v10 For if they fall, the one raiseth up his companion, but wo to the one who falleth and there is not a second to raise him up!
+
+v11 Also, if two lie down, then they have heat, but how hath one heat?
+
+v12 And if the one strengthen himself, the two stand against him; and the threefold cord is not hastily broken.
+
+v13 Better is a poor and wise youth than an old and foolish king, who hath not known to be warned any more.
+
+v14 For from a house of prisoners he hath come out to reign, for even in his own kingdom he hath been poor.
+
+v15 I have seen all the living, who are walking under the sun, with the second youth who doth stand in his place;
+
+v16 there is no end to all the people, to all who were before them; also, the latter rejoice not in him. Surely this also is vanity and vexation of spirit.
+
+***
+
+[[Bible Versions/YLT/21 - Ecclesiastes/Ecclesiastes 3|← Ecclesiastes 3]] | [[Bible Versions/YLT/21 - Ecclesiastes/Ecclesiastes]] | [[Bible Versions/YLT/21 - Ecclesiastes/Ecclesiastes 5|Ecclesiastes 5 →]]

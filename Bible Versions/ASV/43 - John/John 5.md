@@ -1,0 +1,103 @@
+# John 5 (American Standard Version)
+
+[[Bible Versions/ASV/43 - John/John 4|← John 4]] | [[Bible Versions/ASV/43 - John/John]] | [[Bible Versions/ASV/43 - John/John 6|John 6 →]]
+
+***
+
+v1 After these things there was a feast of the Jews; and Jesus went up to Jerusalem.
+
+v2 Now there is in Jerusalem by the sheep [gate] a pool, which is called in Hebrew Bethesda, having five porches.
+
+v3 In these lay a multitude of them that were sick, blind, halt, withered, [waiting for the moving of the water.]
+
+v4 [for an angel of the Lord went down at certain seasons into the pool, and troubled the water: whosoever then first after the troubling of the waters stepped in was made whole, with whatsoever disease he was holden.]
+
+v5 And a certain man was there, who had been thirty and eight years in his infirmity.
+
+v6 When Jesus saw him lying, and knew that he had been now a long time [in that case], he saith unto him, Wouldest thou be made whole?
+
+v7 The sick man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me.
+
+v8 Jesus saith unto him, Arise, take up thy bed, and walk.
+
+v9 And straightway the man was made whole, and took up his bed and walked. Now it was the sabbath on that day.
+
+v10 So the Jews said unto him that was cured, It is the sabbath, and it is not lawful for thee to take up thy bed.
+
+v11 But he answered them, He that made me whole, the same said unto me, Take up thy bed, and walk.
+
+v12 They asked him, Who is the man that said unto thee, Take up [thy bed], and walk?
+
+v13 But he that was healed knew not who it was; for Jesus had conveyed himself away, a multitude being in the place.
+
+v14 Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing befall thee.
+
+v15 The man went away, and told the Jews that it was Jesus who had made him whole.
+
+v16 And for this cause the Jews persecuted Jesus, because he did these things on the sabbath.
+
+v17 But Jesus answered them, My Father worketh even until now, and I work.
+
+v18 For this cause therefore the Jews sought the more to kill him, because he not only brake the sabbath, but also called God his own Father, making himself equal with God.
+
+v19 Jesus therefore answered and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father doing: for what things soever he doeth, these the Son also doeth in like manner.
+
+v20 For the Father loveth the Son, and showeth him all things that himself doeth: and greater works than these will he show him, that ye may marvel.
+
+v21 For as the Father raiseth the dead and giveth them life, even so the Son also giveth life to whom he will.
+
+v22 For neither doth the Father judge any man, but he hath given all judgment unto the Son;
+
+v23 that all may honor the Son, even as they honor the Father. He that honoreth not the Son honoreth not the Father that sent him.
+
+v24 Verily, verily, I say unto you, He that heareth my word, and believeth him that sent me, hath eternal life, and cometh not into judgment, but hath passed out of death into life.
+
+v25 Verily, verily, I say unto you, The hour cometh, and now is, when the dead shall hear the voice of the Son of God; and they that hear shall live.
+
+v26 For as the Father hath life in himself, even so gave he to the Son also to have life in himself:
+
+v27 and he gave him authority to execute judgment, because he is a son of man.
+
+v28 Marvel not at this: for the hour cometh, in which all that are in the tombs shall hear his voice,
+
+v29 and shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of judgment.
+
+v30 I can of myself do nothing: as I hear, I judge: and my judgment is righteous; because I seek not mine own will, but the will of him that sent me.
+
+v31 If I bear witness of myself, my witness is not true.
+
+v32 It is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.
+
+v33 Ye have sent unto John, and he hath borne witness unto the truth.
+
+v34 But the witness which I receive is not from man: howbeit I say these things, that ye may be saved.
+
+v35 He was the lamp that burneth and shineth; and ye were willing to rejoice for a season in his light.
+
+v36 But the witness which I have is greater than [that of] John; for the works which the Father hath given me to accomplish, the very works that I do, bear witness of me, that the Father hath sent me.
+
+v37 And the Father that sent me, he hath borne witness of me. Ye have neither heard his voice at any time, nor seen his form.
+
+v38 And ye have not his word abook_iding in you: for whom he sent, him ye believe not.
+
+v39 Ye search the scriptures, because ye think that in them ye have eternal life; and these are they which bear witness of me;
+
+v40 and ye will not come to me, that ye may have life.
+
+v41 I receive not glory from men.
+
+v42 But I know you, that ye have not the love of God in yourselves.
+
+v43 I am come in my Father's name, and ye receive me not: if another shall come in his own name, him ye will receive.
+
+v44 How can ye believe, who receive glory one of another, and the glory that [cometh] from the only God ye seek not?
+
+v45 Think not that I will accuse you to the Father: there is one that accuseth you, [even] Moses, on whom ye have set your hope.
+
+v46 For if ye believed Moses, ye would believe me; for he wrote of me.
+
+v47 But if ye believe not his writings, how shall ye believe my words?
+
+***
+
+[[Bible Versions/ASV/43 - John/John 4|← John 4]] | [[Bible Versions/ASV/43 - John/John]] | [[Bible Versions/ASV/43 - John/John 6|John 6 →]]

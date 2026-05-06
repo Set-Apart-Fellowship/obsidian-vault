@@ -1,0 +1,28 @@
+v1 A Psalm for Asaph. How good is God to Israel, to the upright in heart!
+v2 But my feet were almost overthrown; my goings very nearly slipped.
+v3 For I was jealous of the transgressors, beholding the tranquillity of sinners.
+v4 For there is no sign of reluctance in their death: and they have firmness under their affliction.
+v5 They are not in the troubles of other men; and they shall not be scourged with other men.
+v6 Therefore pride has possessed them; they have clothed themselves with their injustice and ungodliness.
+v7 Their injustice shall go forth as out of fatness: they have fulfilled their intention.
+v8 They have taken counsel and spoken in wickedness: they have uttered unrighteousness loftily.
+v9 They have set their mouth against heaven, and their tongue has gone through upon the earth.
+v10 Therefore shall my people return hither: and full days shall be found with them.
+v11 And they said, How does God know? and is there knowledge in the Most High?
+v12 Behold, these are the sinners, and they that prosper always: they have possessed wealth.
+v13 And I said, Verily in vain have I justified my heart, and washed my hands in innocency.
+v14 For I was plagued all the day, and my reproof was every morning.
+v15 If I said, I will speak thus; behold, I should have broken covenant with the generation of thy children.
+v16 And I undertook to understand this, but it is too hard for me,
+v17 until I go into the sanctuary of God; and so understand the latter end.
+v18 Surely thou hast appointed judgments to them because of their crafty dealings: thou hast cast them down when they were lifted up.
+v19 How have they become desolate! suddenly they have failed: they have perished because of their iniquity.
+v20 As the dream of one awakening, O Lord, in thy city thou wilt despise their image.
+v21 For my heart has rejoiced, and my reins have been gladdened.
+v22 But I was vile and knew not: I became brutish before thee.
+v23 Yet I am continually with thee: thou hast holden my right hand.
+v24 Thou hast guided me by thy counsel, and thou hast taken me to thyself with glory.
+v25 For what have I in heaven but thee ? and what have I desired upon the earth beside thee?
+v26 My heart and my flesh have failed: but God is the strength of my heart, and God is my portion for ever.
+v27 For, behold, they that remove themselves far from thee shall perish: thou hast destroyed every one that goes a whoring from thee.
+v28 But it is good for me to cleave close to God, to put my trust in the Lord; that I may proclaim all thy praises in the gates of the daughter of Sion.

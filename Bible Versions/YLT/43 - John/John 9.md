@@ -1,0 +1,91 @@
+# John 9 (Young's Literal Translation)
+
+[[Bible Versions/YLT/43 - John/John 8|← John 8]] | [[Bible Versions/YLT/43 - John/John]] | [[Bible Versions/YLT/43 - John/John 10|John 10 →]]
+
+***
+
+v1 And passing by, he saw a man blind from birth,
+
+v2 and his disciples asked him, saying, 'Rabbi, who did sin, this one or his parents, that he should be born blind?'
+
+v3 Jesus answered, 'Neither did this one sin nor his parents, but that the works of God may be manifested in him;
+
+v4 it behoveth me to be working the works of Him who sent me while it is day; night doth come, when no one is able to work: --
+
+v5 when I am in the world, I am a light of the world.'
+
+v6 These things saying, he spat on the ground, and made clay of the spittle, and rubbed the clay on the eyes of the blind man, and said to him,
+
+v7 'Go away, wash at the pool of Siloam,' which is, interpreted, Sent. He went away, therefore, and did wash, and came seeing;
+
+v8 the neighbours, therefore, and those seeing him before, that he was blind, said, 'Is not this he who is sitting and begging?'
+
+v9 others said -- 'This is he;' and others -- 'He is like to him;' he himself said, -- 'I am [he].'
+
+v10 They said, therefore, to him, 'How were thine eyes opened?'
+
+v11 he answered and said, 'A man called Jesus made clay, and rubbed my eyes, and said to me, Go away to the pool of Siloam, and wash; and having gone away and having washed, I received sight;'
+
+v12 they said, therefore, to him, 'Where is that one?' he saith, 'I have not known.'
+
+v13 They bring him to the Pharisees who once [was] blind,
+
+v14 and it was a sabbath when Jesus made the clay, and opened his eyes.
+
+v15 Again, therefore, the Pharisees also were asking him how he received sight, and he said to them, 'Clay he did put upon my eyes, and I did wash -- and I see.'
+
+v16 Of the Pharisees, therefore, certain said, 'This man is not from God, because the sabbath he doth not keep;' others said, 'How is a man -- a sinful one -- able to do such signs?' and there was a division among them.
+
+v17 They said to the blind man again, 'Thou -- what dost thou say of him -- that he opened thine eyes?'
+
+v18 and he said -- 'He is a prophet.' The Jews, therefore, did not believe concerning him that he was blind and did receive sight, till that they called the parents of him who received sight,
+
+v19 and they asked them, saying, 'Is your son, of whom ye say that he was born blind? how then now doth he see?'
+
+v20 His parents answered them and said, 'We have known that this is our son, and that he was born blind;
+
+v21 and how he now seeth, we have not known; or who opened his eyes, we have not known; himself is of age, ask him; he himself shall speak concerning himself.'
+
+v22 These things said his parents, because they were afraid of the Jews, for already had the Jews agreed together, that if any one may confess him -- Christ, he may be put out of the synagogue;
+
+v23 because of this his parents said -- 'He is of age, ask him.'
+
+v24 They called, therefore, a second time the man who was blind, and they said to him, 'Give glory to God, we have known that this man is a sinner;'
+
+v25 he answered, therefore, and said, 'If he be a sinner -- I have not known, one thing I have known, that, being blind, now I see.'
+
+v26 And they said to him again, 'What did he to thee? how did he open thine eyes?'
+
+v27 He answered them, 'I told you already, and ye did not hear; why again do ye wish to hear? do ye also wish to become his disciples?'
+
+v28 They reviled him, therefore, and said, 'Thou art his disciple, and we are Moses' disciples;
+
+v29 we have known that God hath spoken to Moses, but this one -- we have not known whence he is.'
+
+v30 The man answered and said to them, 'Why, in this is a wonderful thing, that ye have not known whence he is, and he opened my eyes!
+
+v31 and we have known that God doth not hear sinners, but, if any one may be a worshipper of God, and may do His will, him He doth hear;
+
+v32 from the age it was not heard, that any one did open eyes of one who hath been born blind;
+
+v33 if this one were not from God, he were not able to do anything.'
+
+v34 They answered and said to him, 'In sins thou wast born altogether, and thou dost teach us!' and they cast him forth without.
+
+v35 Jesus heard that they cast him forth without, and having found him, he said to him, 'Dost thou believe in the Son of God?'
+
+v36 he answered and said, 'Who is he, sir, that I may believe in him?'
+
+v37 And Jesus said to him, 'Thou hast both seen him, and he who is speaking with thee is he;'
+
+v38 and he said, 'I believe, sir,' and bowed before him.
+
+v39 And Jesus said, 'For judgment I to this world did come, that those not seeing may see, and those seeing may become blind.'
+
+v40 And those of the Pharisees who were with him heard these things, and they said to him, 'Are we also blind?'
+
+v41 Jesus said to them, 'If ye were blind, ye were not having had sin, but now ye say -- We see, therefore doth your sin remain.
+
+***
+
+[[Bible Versions/YLT/43 - John/John 8|← John 8]] | [[Bible Versions/YLT/43 - John/John]] | [[Bible Versions/YLT/43 - John/John 10|John 10 →]]

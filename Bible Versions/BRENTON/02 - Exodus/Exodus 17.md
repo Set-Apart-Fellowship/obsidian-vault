@@ -1,0 +1,16 @@
+v1 And all the congregation of the children of Israel departed from the wilderness of Sin, according to their encampments, by the word of the Lord; and they encamped in Raphidin: and there was no water for the people to drink.
+v2 And the people reviled Moses, saying, Give us water, that we may drink; and Moses said to them, Why do ye revile me, and why tempt ye the Lord?
+v3 And the people thirsted there for water, and there the people murmured against Moses, saying, Why is this? hast thou brought us up out of Egypt to slay us and our children and our cattle with thirst?
+v4 And Moses cried to the Lord, saying, What shall I do to this people? yet a little while and they will stone me.
+v5 And the Lord said to Moses, Go before this people, and take to thyself of the elders of the people; and the rod with which thou smotest the river, take in thine hand, and thou shalt go.
+v6 Behold, I stand there before thou come , on the rock in Choreb, and thou shalt smite the rock, and water shall come out from it, and the people shall drink. And Moses did so before the sons of Israel.
+v7 And he called the name of that place, Temptation, and Reviling, because of the reviling of the children of Israel, and because they tempted the Lord, saying, Is the Lord among us or not?
+v8 And Amalec came and fought with Israel in Raphidin.
+v9 And Moses said to Joshua, Choose out for thyself mighty men, and go forth and set the army in array against Amalec to-morrow; and, behold, I shall stand on the top of the hill, and the rod of God will be in my hand.
+v10 And Joshua did as Moses said to him, and he went out and set the army in array against Amalec, and Moses and Aaron and Or went up to the top of the hill.
+v11 And it came to pass, when Moses lifted up his hands, Israel prevailed; and when he let down his hands, Amalec prevailed.
+v12 But the hands of Moses were heavy, and they took a stone and put it under him, and he sat upon it; and Aaron and Or supported his hands one on this side and the other on that, and the hands of Moses were supported till the going down of the sun.
+v13 And Joshua routed Amalec and all his people with the slaughter of the sword.
+v14 And the Lord said to Moses, Write this for a memorial in a book, and speak this in the ears of Joshua; for I will utterly blot out the memorial of Amalec from under heaven.
+v15 And Moses built an altar to the Lord, and called the name of it, The Lord my Refuge.
+v16 For with a secret hand the Lord wages war upon Amalec to all generations.

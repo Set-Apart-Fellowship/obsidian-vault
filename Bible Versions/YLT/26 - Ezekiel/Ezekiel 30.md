@@ -1,0 +1,61 @@
+# Ezekiel 30 (Young's Literal Translation)
+
+[[Bible Versions/YLT/26 - Ezekiel/Ezekiel 29|← Ezekiel 29]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel 31|Ezekiel 31 →]]
+
+***
+
+v1 And there is a word of Jehovah unto me, saying:
+
+v2 'Son of man, prophesy, and thou hast said: Thus said the Lord Jehovah: Howl ye, ha! for the day!
+
+v3 For near [is] a day, near [is] a day to Jehovah! A day of clouds, the time of nations it is.
+
+v4 And come in hath a sword to Egypt, And there hath been great pain in Cush, In the falling of the wounded in Egypt, And they have taken its store, And broken down have been its foundations.
+
+v5 Cush, and Phut, and Lud, and all the mixture, and Chub, And the sons of the land of the covenant with them by sword do fall,
+
+v6 Thus said Jehovah: And -- fallen have supporters of Egypt, And come down hath the arrogance of her strength, From Migdol to Syene, by sword they fall in her, An affirmation of the Lord Jehovah.
+
+v7 And they have been desolated in the midst of desolate lands, And its cities are in the midst of wasted cities.
+
+v8 And they have known that I [am] Jehovah, In My giving fire against Egypt, And broken have been all her helpers.
+
+v9 In that day go forth do messengers from before Me in ships, To trouble confident Cush, And there hath been great pain among them, As the day of Egypt, for lo, it hath come.
+
+v10 Thus said the Lord Jehovah: I have caused the multitude of Egypt to cease, By the hand of Nebuchadrezzar king of Babylon,
+
+v11 He and his people with him -- the terrible of nations, Are brought in to destroy the land, And they have drawn their swords against Egypt, And have filled the land [with] the wounded.
+
+v12 And I have made floods a dry place, And I have sold the land into the hand of evil doers, And I have made desolate the land, And its fulness, by the hand of strangers, I, Jehovah, have spoken.
+
+v13 Thus said the Lord Jehovah: And -- I have destroyed idols, And caused vain things to cease from Noph, And a prince of the land of Egypt there is no more, And I give fear in the land of Egypt.
+
+v14 And I have made Pathros desolate, And I have given fire against Zoan, And I have done judgments in No,
+
+v15 And I have poured out My fury on Sin, the stronghold of Egypt, And I have cut off the multitude of No.
+
+v16 And I have given fire against Egypt, Greatly pained is Sin, and No is to be rent, And Noph hath daily distresses.
+
+v17 The youths of Aven and Pi-Beseth by sword do fall, And these into captivity do go.
+
+v18 And in Tehaphnehes hath the day been dark, In My breaking there the yokes of Egypt, And ceased in her hath the excellency of her strength, She -- a cloud doth cover her, And her daughters into captivity do go.
+
+v19 And I have done judgments in Egypt, And they have known that I [am] Jehovah.'
+
+v20 And it cometh to pass, in the eleventh year, in the first [month], in the seventh of the month, hath a word of Jehovah been unto me, saying: 'Son of man,
+
+v21 The arm of Pharaoh, king of Egypt, I have broken, And lo, it hath not been bound up to give healing, To put a bandage to bind it, To strengthen it -- to lay hold on the sword.
+
+v22 Therefore, thus said the Lord Jehovah: Lo, I [am] against Pharaoh, king of Egypt, And I have broken his arms, The strong one and the broken one, And have caused the sword to fall out of his hand,
+
+v23 And scattered the Egyptians among nations, And I have spread them through lands,
+
+v24 And strengthened the arms of the king of Babylon, And I have given My sword into his hand, And I have broken the arms of Pharaoh, And he hath groaned the groans of a pierced one -- before him.
+
+v25 And I have strengthened the arms of the king of Babylon, And the arms of Pharaoh do fall down, And they have known that I [am] Jehovah, In My giving My sword into the hand of the king of Babylon, And he hath stretched it out toward the land of Egypt.
+
+v26 And I have scattered the Egyptians among nations, And I have spread them through lands, And they have known that I [am] Jehovah!'
+
+***
+
+[[Bible Versions/YLT/26 - Ezekiel/Ezekiel 29|← Ezekiel 29]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel]] | [[Bible Versions/YLT/26 - Ezekiel/Ezekiel 31|Ezekiel 31 →]]

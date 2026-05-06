@@ -1,0 +1,45 @@
+# Jeremiah 39 (Darby Translation)
+
+[[Bible Versions/DARBY/24 - Jeremiah/Jeremiah 38|← Jeremiah 38]] | [[Bible Versions/DARBY/24 - Jeremiah/Jeremiah]] | [[Bible Versions/DARBY/24 - Jeremiah/Jeremiah 40|Jeremiah 40 →]]
+
+***
+
+v1 And it came to pass when Jerusalem was taken, in the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and they besieged it.
+
+v2 In the eleventh year of Zedekiah, in the fourth month, on the ninth of the month, the city was broken into;
+
+v3 and all the princes of the king of Babylon came in, and sat in the middle gate: Nergal-sharezer, Samgar-nebu, Sarsechim, chief chamberlain, Nergal-sharezer, chief magian, and all the rest of the princes of the king of Babylon.
+
+v4 And it came to pass when Zedekiah the king of Judah and all the men of war saw them, that they fled, and went forth out of the city by night, by the way of the king's garden, by the gate between the two walls; and he went out the way of the plain.
+
+v5 And the army of the Chaldeans pursued after them, and overtook Zedekiah in the plains of Jericho; and they took him, and brought him up to Nebuchadnezzar king of Babylon, unto Riblah in the land of Hamath; and he pronounced judgment upon him.
+
+v6 And the king of Babylon slaughtered the sons of Zedekiah in Riblah before his eyes, and the king of Babylon slaughtered all the nobles of Judah;
+
+v7 and he put out the eyes of Zedekiah, and bound him with chains of brass, to carry him to Babylon.
+
+v8 And the Chaldeans burned the king's house and the houses of the people with fire, and broke down the walls of Jerusalem.
+
+v9 And Nebuzar-adan the captain of the body-guard carried away captive into Babylon the rest of the people that were left in the city, and the deserters that had deserted to him, with the rest of the people that were left.
+
+v10 But Nebuzar-adan the captain of the body-guard left [certain] of the people, the poor who had nothing, in the land of Judah, and gave them vineyards and fields at the same time.
+
+v11 And Nebuchadrezzar king of Babylon had given charge concerning Jeremiah by Nebuzar-adan the captain of the body-guard, saying,
+
+v12 Take him, and keep an eye upon him, and do him no harm; but do unto him even as he shall say unto thee.
+
+v13 So Nebuzar-adan the captain of the body-guard sent, and Nebushazban, chief chamberlain, and Nergal-sharezer, chief magian, and all the king of Babylon's princes,
+
+v14 even they sent, and took Jeremiah out of the court of the guard and committed him to Gedaliah the son of Ahikam the son of Shaphan, that he should conduct him away home. And he dwelt among the people.
+
+v15 And the word of Jehovah came unto Jeremiah, while he was shut up in the court of the guard, saying,
+
+v16 Go and speak to Ebed-melech the Ethiopian, saying, Thus saith Jehovah of hosts, the God of Israel: Behold, I will bring my words upon this city for evil, and not for good, and they shall come to pass before thy face in that day.
+
+v17 And I will deliver thee in that day, saith Jehovah; and thou shalt not be given into the hand of the men of whom thou art afraid;
+
+v18 for I will certainly save thee, and thou shalt not fall by the sword, but thou shalt have thy life for a prey; for thou hast put thy confidence in me, saith Jehovah.
+
+***
+
+[[Bible Versions/DARBY/24 - Jeremiah/Jeremiah 38|← Jeremiah 38]] | [[Bible Versions/DARBY/24 - Jeremiah/Jeremiah]] | [[Bible Versions/DARBY/24 - Jeremiah/Jeremiah 40|Jeremiah 40 →]]

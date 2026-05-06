@@ -1,0 +1,35 @@
+# 2 John 1 (Darby Translation)
+
+[[Bible Versions/DARBY/63 - 2 John/2 John]]
+
+***
+
+v1 The elder to [the] elect lady and her children, whom *I* love in truth, and not *I* only but also all who have known the truth,
+
+v2 for the truth's sake which abook_ides in us and shall be with us to eternity.
+
+v3 Grace shall be with you, mercy, peace from God [the] Father, and from [the] Lord Jesus Christ, the Son of the Father, in truth and love.
+
+v4 I rejoiced greatly that I have found of thy children walking in truth, as we have received commandment from the Father.
+
+v5 And now I beseech thee, lady, not as writing to thee a new commandment, but that which we have had from [the] beginning, that we should love one another.
+
+v6 And this is love, that we should walk according to his commandments. This is the commandment, according as ye have heard from the beginning, that ye might walk in it.
+
+v7 For many deceivers have gone out into the world, they who do not confess Jesus Christ coming in flesh -- this is the deceiver and the antichrist.
+
+v8 See to yourselves, that we may not lose what we have wrought, but may receive full wages.
+
+v9 Whosoever goes forward and abook_ides not in the doctrine of the Christ has not God. He that abook_ides in the doctrine, *he* has both the Father and the Son.
+
+v10 If any one come to you and bring not this doctrine, do not receive him into [the] house, and greet him not;
+
+v11 for he who greets him partakes in his wicked works.
+
+v12 Having many things to write to you, I would not with paper and ink; but hope to come to you, and to speak mouth to mouth, that our joy may be full.
+
+v13 The children of thine elect sister greet thee.
+
+***
+
+[[Bible Versions/DARBY/63 - 2 John/2 John]]

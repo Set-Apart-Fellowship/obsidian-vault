@@ -1,0 +1,63 @@
+# Jeremiah 13 (American Standard Version)
+
+[[Bible Versions/ASV/24 - Jeremiah/Jeremiah 12|← Jeremiah 12]] | [[Bible Versions/ASV/24 - Jeremiah/Jeremiah]] | [[Bible Versions/ASV/24 - Jeremiah/Jeremiah 14|Jeremiah 14 →]]
+
+***
+
+v1 Thus saith Jehovah unto me, Go, and buy thee a linen girdle, and put it upon thy loins, and put it not in water.
+
+v2 So I bought a girdle according to the word of Jehovah, and put it upon my loins.
+
+v3 And the word of Jehovah came unto me the second time, saying,
+
+v4 Take the girdle that thou hast bought, which is upon thy loins, and arise, go to the Euphrates, and hide it there in a cleft of the rock.
+
+v5 So I went, and hid it by the Euphrates, as Jehovah commanded me.
+
+v6 And it came to pass after many days, that Jehovah said unto me, Arise, go to the Euphrates, and take the girdle from thence, which I commanded thee to hide there.
+
+v7 Then I went to the Euphrates, and digged, and took the girdle from the place where I had hid it; and, behold, the girdle was marred, it was profitable for nothing.
+
+v8 Then the word of Jehovah came unto me, saying,
+
+v9 Thus saith Jehovah, After this manner will I mar the pride of Judah, and the great pride of Jerusalem.
+
+v10 This evil people, that refuse to hear my words, that walk in the stubbornness of their heart, and are gone after other gods to serve them, and to worship them, shall even be as this girdle, which is profitable for nothing.
+
+v11 For as the girdle cleaveth to the loins of a man, so have I caused to cleave unto me the whole house of Israel and the whole house of Judah, saith Jehovah; that they may be unto me for a people, and for a name, and for a praise, and for a glory: but they would not hear.
+
+v12 Therefore thou shalt speak unto them this word: Thus saith Jehovah, the God of Israel, Every bottle shall be filled with wine: and they shall say unto thee, Do we not certainly know that every bottle shall be filled with wine?
+
+v13 Then shalt thou say unto them, Thus saith Jehovah, Behold, I will fill all the inhabitants of this land, even the kings that sit upon David's throne, and the priests, and the prophets, and all the inhabitants of Jerusalem, with drunkenness.
+
+v14 And I will dash them one against another, even the fathers and the sons together, saith Jehovah: I will not pity, nor spare, nor have compassion, that I should not destroy them.
+
+v15 Hear ye, and give ear; be not proud; for Jehovah hath spoken.
+
+v16 Give glory to Jehovah your God, before he cause darkness, and before your feet stumble upon the dark mountains, and, while ye look for light, he turn it into the shadow of death, and make it gross darkness.
+
+v17 But if ye will not hear it, my soul shall weep in secret for [your] pride; and mine eye shall weep sore, and run down with tears, because Jehovah's flock is taken captive.
+
+v18 Say thou unto the king and to the queen-mother, Humble yourselves, sit down; for your headtires are come down, even the crown of your glory.
+
+v19 The cities of the South are shut up, and there is none to open them: Judah is carried away captive, all of it; it is wholly carried away captive.
+
+v20 Lift up your eyes, and behold them that come from the north: where is the flock that was given thee, thy beautiful flock?
+
+v21 What wilt thou say, when he shall set over thee as head those whom thou hast thyself taught to be friends to thee? shall not sorrows take hold of thee, as of a woman in travail?
+
+v22 And if thou say in thy heart, Wherefore are these things come upon me? for the greatness of thine iniquity are thy skirts uncovered, and thy heels suffer violence.
+
+v23 Can the Ethiopian change his skin, or the leopard his spots? then may ye also do good, that are accustomed to do evil.
+
+v24 Therefore will I scatter them, as the stubble that passeth away, by the wind of the wilderness.
+
+v25 This is thy lot, the portion measured unto thee from me, saith Jehovah; because thou hast forgotten me, and trusted in falsehood.
+
+v26 Therefore will I also uncover thy skirts upon thy face, and thy shame shall appear.
+
+v27 I have seen thine abominations, even thine adulteries, and thy neighings, the lewdness of thy whoredom, on the hills in the field. Woe unto thee, O Jerusalem! thou wilt not be made clean; how long shall it yet be?
+
+***
+
+[[Bible Versions/ASV/24 - Jeremiah/Jeremiah 12|← Jeremiah 12]] | [[Bible Versions/ASV/24 - Jeremiah/Jeremiah]] | [[Bible Versions/ASV/24 - Jeremiah/Jeremiah 14|Jeremiah 14 →]]

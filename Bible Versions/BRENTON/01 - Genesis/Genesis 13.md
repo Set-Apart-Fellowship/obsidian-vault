@@ -1,0 +1,18 @@
+v1 And Abram went up out of Egypt, he and his wife, and all that he had, and Lot with him, into the wilderness.
+v2 And Abram was very rich in cattle, and silver, and gold.
+v3 And he went to the place whence he came, into the wilderness as far as Bæthel, as far as the place where his tent was before, between Bæthel and Aggai,
+v4 to the place of the altar, which he built there at first, and Abram there called on the name of the Lord.
+v5 And Lot who went out with Abram had sheep, and oxen, and tents.
+v6 And the land was not large enough for them to live together, because their possessions were great; and the land was not large enough for them to live together.
+v7 And there was a strife between the herdmen of Abram's cattle, and the herdmen of Lot's cattle, and the Chananites and the Pherezites then inhabited the land.
+v8 And Abram said to Lot, Let there not be a strife between me and thee, and between my herdmen and thy herdmen, for we are brethren.
+v9 Lo! is not the whole land before thee? Separate thyself from me; if thou goest to the left, I will go to the right, and if thou goest to the right, I will go to the left.
+v10 And Lot having lifted up his eyes, observed all the country round about Jordan, that it was all watered, before God overthrew Sodom and Gomorrha, as the garden of the Lord, and as the land of Egypt, until thou come to Zogora.
+v11 And Lot chose for himself all the country round Jordan, and Lot went from the east, and they were separated each from his brother. And Abram dwelt in the land of Chanaan.
+v12 And Lot dwelt in a city of the neighbouring people, and pitched his tent in Sodom.
+v13 But the men of Sodom were evil, and exceedingly sinful before God.
+v14 And God said to Abram after Lot was separated from him, Look up with thine eyes, and behold from the place where thou now art northward and southward, and eastward and seaward;
+v15 for all the land which thou seest, I will give it to thee and to thy seed for ever.
+v16 And I will make thy seed like the dust of the earth; if any one is able to number the dust of the earth, then shall thy seed be numbered.
+v17 Arise and traverse the land, both in the length of it and in the breadth; for to thee will I give it, and to thy seed for ever.
+v18 And Abram having removed his tent, came and dwelt by the oak of Mambre, which was in Chebrom, and he there built an altar to the Lord.

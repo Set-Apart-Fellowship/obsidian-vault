@@ -1,0 +1,32 @@
+v1 And all the earth was one lip, and there was one language to all.
+v2 And it came to pass as they moved from the east, they found a plain in the land of Senaar, and they dwelt there.
+v3 And a man said to his neighbour, Come, let us make bricks and bake them with fire. And the brick was to them for stone, and their mortar was bitumen.
+v4 And they said, Come, let us build to ourselves a city and tower, whose top shall be to heaven, and let us make to ourselves a name, before we are scattered abroad upon the face of all the earth.
+v5 And the Lord came down to see the city and the tower, which the sons of men built.
+v6 And the Lord said, Behold, there is one race, and one lip of all, and they have begun to do this, and now nothing shall fail from them of all that they may have undertaken to do.
+v7 Come, and having gone down let us there confound their tongue, that they may not understand each the voice of his neighbour.
+v8 And the Lord scattered them thence over the face of all the earth, and they left off building the city and the tower.
+v9 On this account its name was called Confusion, because there the Lord confounded the languages of all the earth, and thence the Lord scattered them upon the face of all the earth.
+v10 And these are the generations of Sem: and Sem was a hundred years old when he begot Arphaxad, the second year after the flood.
+v11 And Sem lived, after he had begotten Arphaxad, five hundred years, and begot sons and daughters, and died.
+v12 And Arphaxad lived a hundred and thirty-five years, and begot Cainan.
+v13 And Arphaxad lived after he had begotten Cainan, four hundred years, and begot sons and daughters, and died. And Cainan lived a hundred and thirty years and begot Sala; and Cainan lived after he had begotten Sala, three hundred and thirty years, and begot sons and daughters, and died.
+v14 And Sala lived an hundred and thirty years, and begot Heber.
+v15 And Sala lived after he had begotten Heber, three hundred and thirty years, and begot sons and daughters, and died.
+v16 And Heber lived an hundred and thirty-four years, and begot Phaleg.
+v17 And Heber lived after he had begotten Phaleg two hundred and seventy years, and begot sons and daughters, and died.
+v18 And Phaleg lived an hundred and thirty years, and begot Ragau.
+v19 And Phaleg lived after he had begotten Ragau, two hundred and nine years, and begot sons and daughters, and died.
+v20 And Ragau lived an hundred thirty and two years, and begot Seruch.
+v21 And Ragau lived after he had begotten Seruch, two hundred and seven years, and begot sons and daughters, and died.
+v22 And Seruch lived a hundred and thirty years, and begot Nachor.
+v23 And Seruch lived after he had begotten Nachor, two hundred years, and begot sons and daughters, and died.
+v24 And Nachor lived a hundred and seventy-nine years, and begot Tharrha.
+v25 And Nachor lived after he had begotten Tharrha, an hundred and twenty-five years, and begot sons and daughters, and he died.
+v26 And Tharrha lived seventy years, and begot Abram, and Nachor, and Arrhan.
+v27 And these are the generations of Tharrha. Tharrha begot Abram and Nachor, and Arrhan; and Arrhan begot Lot.
+v28 And Arrhan died in the presence of Tharrha his father, in the land in which he was born, in the country of the Chaldees.
+v29 And Abram and Nachor took to themselves wives, the name of the wife of Abram was Sara, and the name of the wife of Nachor, Malcha, daughter of Arrhan, and he was the father of Malcha, the father of Jescha.
+v30 And Sara was barren, and did not bear children.
+v31 And Tharrha took Abram his son, and Lot the son of Arrhan, the son of his son, and Sara his daughter-in-law, the wife of Abram his son, and led them forth out of the land of the Chaldees, to go into the land of Chanaan, and they came as far as Charrhan, and he dwelt there.
+v32 And all the days of Tharrha in the land of Charrhan were two hundred and five years, and Tharrha died in Charrhan.

@@ -1,0 +1,59 @@
+# John 2 (American Standard Version)
+
+[[Bible Versions/ASV/43 - John/John 1|← John 1]] | [[Bible Versions/ASV/43 - John/John]] | [[Bible Versions/ASV/43 - John/John 3|John 3 →]]
+
+***
+
+v1 And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
+
+v2 and Jesus also was book_idden, and his disciples, to the marriage.
+
+v3 And when the wine failed, the mother of Jesus saith unto him, They have no wine.
+
+v4 And Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.
+
+v5 His mother saith unto the servants, Whatsoever he saith unto you, do it.
+
+v6 Now there were six waterpots of stone set there after the Jews' manner of purifying, containing two or three firkins apiece.
+
+v7 Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.
+
+v8 And he saith unto them, Draw out now, and bear unto the ruler of the feast. And they bare it.
+
+v9 And when the ruler of the feast tasted the water now become wine, and knew not whence it was (but the servants that had drawn the water knew), the ruler of the feast calleth the bridegroom,
+
+v10 and saith unto him, Every man setteth on first the good wine; and when [men] have drunk freely, [then] that which is worse: thou hast kept the good wine until now.
+
+v11 This beginning of his signs did Jesus in Cana of Galilee, and manifested his glory; and his disciples believed on him.
+
+v12 After this he went down to Capernaum, he, and his mother, and [his] brethren, and his disciples; and there they abode not many days.
+
+v13 And the passover of the Jews was at hand, and Jesus went up to Jerusalem.
+
+v14 And he found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:
+
+v15 and he made a scourge of cords, and cast all out of the temple, both the sheep and the oxen; and he poured out the changers' money, and overthrew their tables;
+
+v16 and to them that sold the doves he said, Take these things hence; make not my Father's house a house of merchandise.
+
+v17 His disciples remembered that it was written, Zeal for thy house shall eat me up.
+
+v18 The Jews therefore answered and said unto him, What sign showest thou unto us, seeing that thou doest these things?
+
+v19 Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.
+
+v20 The Jews therefore said, Forty and six years was this temple in building, and wilt thou raise it up in three days?
+
+v21 But he spake of the temple of his body.
+
+v22 When therefore he was raised from the dead, his disciples remembered that he spake this; and they believed the scripture, and the word which Jesus had said.
+
+v23 Now when he was in Jerusalem at the passover, during the feast, many believed on his name, beholding his signs which he did.
+
+v24 But Jesus did not trust himself unto them, for that he knew all men,
+
+v25 and because he needed not that any one should bear witness concerning man; for he himself knew what was in man.
+
+***
+
+[[Bible Versions/ASV/43 - John/John 1|← John 1]] | [[Bible Versions/ASV/43 - John/John]] | [[Bible Versions/ASV/43 - John/John 3|John 3 →]]

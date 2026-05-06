@@ -1,0 +1,2 @@
+v1 Alleluia. Praise the Lord, all ye nations: praise him, all ye peoples.
+v2 For his mercy has been abundant toward us: and the truth of the Lord endures for ever.

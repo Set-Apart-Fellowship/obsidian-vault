@@ -1,0 +1,35 @@
+# Psalms 96 (King James Version)
+
+[[Bible Versions/KJV/19 - Psalms/Psalms 95|← Psalms 95]] | [[Bible Versions/KJV/19 - Psalms/Psalms]] | [[Bible Versions/KJV/19 - Psalms/Psalms 97|Psalms 97 →]]
+
+***
+
+v1 O sing unto the LORD a new song: sing unto the LORD, all the earth.
+
+v2 Sing unto the LORD, bless his name; show forth his salvation from day to day.
+
+v3 Declare his glory among the heathen, his wonders among all people.
+
+v4 For the LORD is great, and greatly to be praised: he is to be feared above all gods.
+
+v5 For all the gods of the nations are idols: but the LORD made the heavens.
+
+v6 Honour and majesty are before him: strength and beauty are in his sanctuary.
+
+v7 Give unto the LORD, O ye kindreds of the people, give unto the LORD glory and strength.
+
+v8 Give unto the LORD the glory due unto his name: bring an offering, and come into his courts.
+
+v9 O worship the LORD in the beauty of holiness: fear before him, all the earth.
+
+v10 Say among the heathen that the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.
+
+v11 Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.
+
+v12 Let the field be joyful, and all that is therein: then shall all the trees of the wood rejoice
+
+v13 Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.
+
+***
+
+[[Bible Versions/KJV/19 - Psalms/Psalms 95|← Psalms 95]] | [[Bible Versions/KJV/19 - Psalms/Psalms]] | [[Bible Versions/KJV/19 - Psalms/Psalms 97|Psalms 97 →]]

@@ -1,0 +1,33 @@
+# Psalms 143 (Young's Literal Translation)
+
+[[Bible Versions/YLT/19 - Psalms/Psalms 142|← Psalms 142]] | [[Bible Versions/YLT/19 - Psalms/Psalms]] | [[Bible Versions/YLT/19 - Psalms/Psalms 144|Psalms 144 →]]
+
+***
+
+v1 A Psalm of David. O Jehovah, hear my prayer, Give ear unto my supplications, In Thy faithfulness answer me -- in Thy righteousness.
+
+v2 And enter not into judgment with Thy servant, For no one living is justified before Thee.
+
+v3 For an enemy hath pursued my soul, He hath bruised to the earth my life, He hath caused me to dwell in dark places, As the dead of old.
+
+v4 And my spirit in me is become feeble, Within me is my heart become desolate.
+
+v5 I have remembered days of old, I have meditated on all Thine acts, On the work of Thy hand I muse.
+
+v6 I have spread forth my hands unto Thee, My soul [is] as a weary land for Thee. Selah.
+
+v7 Haste, answer me, O Jehovah, My spirit hath been consumed, Hide not Thou Thy face from me, Or I have been compared with those going down [to] the pit.
+
+v8 Cause me to hear in the morning Thy kindness, For in Thee I have trusted, Cause me to know the way that I go, For unto Thee I have lifted up my soul.
+
+v9 Deliver me from mine enemies, O Jehovah, Near Thee I am covered.
+
+v10 Teach me to do Thy good pleasure, For Thou [art] my God -- Thy Spirit [is] good, Lead me into a land of uprightness.
+
+v11 For Thy name's sake O Jehovah, Thou dost quicken me, In Thy righteousness, Thou bringest out from distress my soul,
+
+v12 And in Thy kindness cuttest off mine enemies, And hast destroyed all the adversaries of my soul, For I [am] Thy servant!
+
+***
+
+[[Bible Versions/YLT/19 - Psalms/Psalms 142|← Psalms 142]] | [[Bible Versions/YLT/19 - Psalms/Psalms]] | [[Bible Versions/YLT/19 - Psalms/Psalms 144|Psalms 144 →]]

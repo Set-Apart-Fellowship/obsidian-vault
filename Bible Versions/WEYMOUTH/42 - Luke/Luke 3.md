@@ -1,0 +1,85 @@
+# Luke 3 (Weymouth's New Testament)
+
+[[Bible Versions/WEYMOUTH/42 - Luke/Luke 2|← Luke 2]] | [[Bible Versions/WEYMOUTH/42 - Luke/Luke]] | [[Bible Versions/WEYMOUTH/42 - Luke/Luke 4|Luke 4 →]]
+
+***
+
+v1 Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being Governor of Judaea, Herod Tetrarch of Galilee, his brother Philip Tetrarch of Ituraea and Trachonitis, and Lysanias Tetrarch of Abilene,
+
+v2 during the High-priesthood of Annas and Caiaphas, a message from God came to John, the son of Zechariah, in the Desert.
+
+v3 John went into all the district about the Jordan proclaiming a baptism of the penitent for the forgiveness of sins;
+
+v4 as it is written in the book of the prophet Isaiah, <"The voice of one crying aloud! 'In the Desert prepare ye a road for the Lord: make His highway straight.
+
+v5 Every ravine shall be filled up, and every mountain and hill levelled down, the crooked places shall be turned into straight roads, and the rugged ways into smooth;
+
+v6 and then shall all mankind see God's salvation.'">
+
+v7 Accordingly John used to say to the crowds who came out to be baptized by him, "O vipers' brood, who has warned you to flee from the coming wrath?
+
+v8 Live lives which shall prove your change of heart; and do not begin to say to yourselves, 'We have Abraham as our forefather,' for I tell you that God can raise up descendants for Abraham from these stones.
+
+v9 And even now the axe is lying at the root of the trees, so that every tree which fails to yield good fruit will quickly be hewn down and thrown into the fire."
+
+v10 The crowds repeatedly asked him, "What then are we to do?"
+
+v11 "Let the man who has two coats," he answered, "give one to the man who has none; and let the man who has food share it with others."
+
+v12 There came also a party of tax-gatherers to be baptized, and they asked him, "Rabbi, what are we to do?"
+
+v13 "Do not exact more than the legal amount," he replied.
+
+v14 The soldiers also once and again inquired of him, "And we, what are we to do?" His answer was, "Neither intimidate any one nor lay false charges; and be content with your pay."
+
+v15 And while the people were in suspense and all were debating in their minds whether John might possibly be the Anointed One,
+
+v16 he answered the question by saying to them all, "As for me, I am baptizing you with water, but One mightier than I is coming, whose very sandal-strap I am not worthy to unfasten: He will baptize you in the Holy Spirit and with fire.
+
+v17 His winnowing-shovel is in His hand to clear out His threshing-floor, and to gather the wheat into His storehouse; but the chaff He will burn up in fire unquenchable."
+
+v18 With many exhortations besides these he declared the Good News to the people.
+
+v19 But Herod the Tetrarch, being repeatedly rebuked by him about Herodias his brother's wife, and about all the wicked deeds that he had done,
+
+v20 now added this to crown all the rest, that he threw John into prison.
+
+v21 Now when all the people had been baptized, and Jesus also had been baptized and was praying, the sky opened,
+
+v22 and the Holy Spirit came down in bodily shape, like a dove, upon Him, and a voice came from Heaven, which said, "Thou art My Son, dearly loved: in Thee is My delight."
+
+v23 And He--Jesus--when He began His ministry, was about thirty years old. He was the son (it was supposed) of Joseph, son of Heli,
+
+v24 son of Matthat, son of Levi, son of Melchi, son of Jannai, son of Joseph,
+
+v25 son of Mattathias, son of Amos, son of Nahum, son of Esli, son of Naggai,
+
+v26 son of Mahath, son of Mattathias, son of Semein, son of Josech, son of Joda,
+
+v27 son of Johanan, son of Resa, son of Zerubbabel, son of Shealtiel, son of Neri,
+
+v28 son of Melchi, son of Addi, son of Cosam, son of Elmadam, son of Er,
+
+v29 son of Joshua, son of Eliezar, son of Jorim, son of Maththat, son of Levi,
+
+v30 son of Symeon, son of Judah, son of Joseph, son of Jonam, son of Eliakim, son of
+
+v31 Melea, son of Menna, son of Mattatha, son of Nathan, son of David,
+
+v32 son of Jesse, son of Obed, son of Boaz, son of Salmon, son of Nahshon,
+
+v33 son of Amminadab, son of Admin, son of Arni, son of Hezron, son of Perez, son of Judah,
+
+v34 son of Jacob, son of Isaac, son of Abraham, son of Terah, son of Nahor,
+
+v35 son of Serug, son of Reu, son of Peleg, son of Eber, son of Shelah,
+
+v36 son of Cainan, son of Arpachshad, son of Shem, son of Noah, son of Lamech,
+
+v37 son of Methuselah, son of Enoch, son of Jared, son of Mahalalel, son of Kenan,
+
+v38 son of Enosh, son of Seth, son of Adam, son of God.
+
+***
+
+[[Bible Versions/WEYMOUTH/42 - Luke/Luke 2|← Luke 2]] | [[Bible Versions/WEYMOUTH/42 - Luke/Luke]] | [[Bible Versions/WEYMOUTH/42 - Luke/Luke 4|Luke 4 →]]

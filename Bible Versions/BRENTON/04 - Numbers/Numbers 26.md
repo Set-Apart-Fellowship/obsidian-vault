@@ -1,0 +1,65 @@
+v1 And it came to pass after the plague, that the Lord spoke to Moses and Eleazar the priest, saying,
+v2 Take the sum of all the congregation of the children of Israel, from twenty years old and upward, according to the houses of their lineage, every one that goes forth to battle in Israel.
+v3 And Moses and Eleazar the priest spoke in Araboth of Moab at the Jordan by Jericho, saying,
+v4 This is the numbering from twenty years old and upward as the Lord commanded Moses. And the sons of Israel that came out of Egypt are as follows :
+v5 Ruben was the first-born of Israel: and the sons of Ruben, Enoch, and the family of Enoch; to Phallu belongs the family of the Phalluites.
+v6 To Asron, the family of Asroni: to Charmi, the family of Charmi.
+v7 These are the families of Ruben; and their numbering was forty-three thousand and seven hundred and thirty.
+v8 And the sons of Phallu were Eliab,—
+v9 and the sons of Eliab, Namuel, and Dathan, and Abiron: these are renowned men of the congregation; these are they that rose up against Moses and Aaron in the gathering of Core, in the rebellion against the Lord.
+v10 And the earth opened her mouth, and swallowed up them and Core, when their assembly perished, when the fire devoured the two hundred and fifty, and they were made a sign.
+v11 But the sons of Core died not.
+v12 And the sons of Symeon:—the family of the sons of Symeon: to Namuel, belonged the family of the Namuelites; to Jamin the family of the Jaminites; to Jachin the family of the Jachinites.
+v13 To Zara the family of the Zaraites; to Saul the family of the Saulites.
+v14 These are the families of Symeon according to their numbering, two and twenty thousand and two hundred.
+v15 And the sons of Juda, Er and Aunan; and Er and Aunan died in the land of Chanaan.
+v16 And these were the sons of Juda, according to their families: to Selom belonged the family of the Selonites; to Phares, the family of the Pharesites; to Zara, the family of the Zaraites.
+v17 And the sons of Phares were, to Asron, the family of the Asronites; to Jamun, the family of the Jamunites.
+v18 These are the families of Juda according to their numbering, seventy-six thousand and five hundred.
+v19 And the sons of Issachar according to their families: to Thola, the family of the Tholaites; to Phua, the family of the Phuaites.
+v20 To Jasub, the family of the Jasubites; to Samram, the family of the Samramites.
+v21 These are the families of Issachar according to their numbering, sixty-four thousand and four hundred.
+v22 The sons of Zabulon according to their families: to Sared, the family of the Saredites; to Allon, the family of the Allonites; to Allel, the family of the Allelites.
+v23 These are the families of Zabulon according to their numbering, sixty thousand and five hundred.
+v24 The sons of Gad according to their families: to Saphon, the family of the Saphonites; to Angi, the family of the Angites; to Suni, the family of the Sunites;
+v25 to Azeni, the family of the Azenites; to Addi, the family of the Addites:
+v26 to Aroadi, the family of the Aroadites; to Ariel, the family of the Arielites.
+v27 These are the families of the children of Gad according to their numbering, forty-four thousand and five hundred.
+v28 The sons of Aser according to their families; to Jamin, the family of the Jaminites; to Jesu, the family of the Jesusites; to Baria, the family of the Bariaites.
+v29 To Chober, the family of the Choberites; to Melchiel, the family of the Melchielites.
+v30 And the name of the daughter of Aser, Sara.
+v31 These are the families of Aser according to their numbering, forty-three thousand and four hundred.
+v32 The sons of Joseph according to their families, Manasse and Ephraim.
+v33 The sons of Manasse. To Machir the family of the Machirites; and Machir begot Galaad: to Galaad, the family of the Galaadites.
+v34 And these are the sons of Galaad; to Achiezer, the family of the Achiezerites; to Cheleg, the family of the Chelegites.
+v35 To Esriel, the family of the Esrielites; to Sychem, the family of the Sychemites.
+v36 To Symaer, the family of the Symaerites; and to Opher, the family of the Opherites.
+v37 And to Salpaad the son of Opher there were no sons, but daughters: and these were the names of the daughters of Salpaad; Mala, and Nua, and Egla, and Melcha, and Thersa.
+v38 These are the families of Manasse according to their numbering, fifty-two thousand and seven hundred.
+v39 And these are the children of Ephraim; to Suthala, the family of the Suthalanites; to Tanach, the family of the Tanachites.
+v40 These are the sons of Suthala; to Eden, the family of the Edenites.
+v41 These are the families of Ephraim according to their numbering, thirty-two thousand and five hundred: these are the families of the children of Joseph according to their families.
+v42 The sons of Benjamin according to their families; to Bale, the family of the Balites; to Asyber, the family of the Asyberites; to Jachiran, the family of the Jachiranites.
+v43 To Sophan, the family of the Sophanites.
+v44 And the sons of Bale were Adar and Noeman; to Adar, the family of the Adarites; and to Noeman, the family of the Noemanites.
+v45 These are the sons of Benjamin by their families according to their numbering, thirty-five thousand and five hundred.
+v46 And the sons of Dan according to their families; to Same, the family of the Sameites; these are the families of Dan according to their families.
+v47 All the families of Samei according to their numbering, sixty-four thousand and four hundred.
+v48 The sons of Nephthali according to their families; to Asiel, the family of the Asielites; to Gauni, the family of the Gaunites.
+v49 To Jeser, the family of the Jeserites; to Sellem, the family of the Sellemites.
+v50 These are the families of Nephthali, according to their numbering, forty thousand and three hundred.
+v51 This is the numbering of the children of Israel, six hundred and one thousand and seven hundred and thirty.
+v52 And the Lord spoke to Moses, saying,
+v53 To these the land shall be divided, so that they may inherit according to the number of the names.
+v54 To the greater number thou shalt give the greater inheritance, and to the less number thou shalt give the less inheritance: to each one, as they have been numbered, shall their inheritance be given.
+v55 The land shall be divided to the names by lot, they shall inherit according to the tribes of their families.
+v56 Thou shalt divide their inheritance by lot between the many and the few.
+v57 And the sons of Levi according to their families; to Gedson, the family of the Gedsonites; to Caath, the family of the Caathites; to Merari, the family of the Merarites.
+v58 These are the families of the sons of Levi; the family of the Lobenites, the family of the Chebronites, the family of the Coreites, and the family of the Musites; and Caath begot Amram.
+v59 And the name of his wife was Jochabed, daughter of Levi, who bore these to Levi in Egypt, and she bore to Amram, Aaron and Moses, and Mariam their sister.
+v60 And to Aaron were born both Nadab and Abiud, and Eleazar, and Ithamar.
+v61 And Nadab and Abiud died when they offered strange fire before the Lord in the wilderness of Sina.
+v62 And there were according to their numbering, twenty-three thousand, every male from a month old and upward; for they were not numbered among the children of Israel, because they have no inheritance in the midst of the children of Israel.
+v63 And this is the numbering of Moses and Eleazar the priest, who numbered the children of Israel in Araboth of Moab, at Jordan by Jericho.
+v64 And among these there was not a man numbered by Moses and Aaron, whom, even the children of Israel, they numbered in the wilderness of Sinai.
+v65 For the Lord said to them, They shall surely die in the wilderness; and there was not left even one of them, except Chaleb the son of Jephonne, and Joshua the son of Naue.

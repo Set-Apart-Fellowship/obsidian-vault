@@ -1,0 +1,69 @@
+# Isaiah 5 (World English Bible)
+
+[[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah 4|← Isaiah 4]] | [[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah]] | [[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah 6|Isaiah 6 →]]
+
+***
+
+v1 Let me sing for my well beloved a song of my beloved touching his vineyard. My well beloved had a vineyard in a very fruitful hill:
+
+v2 and he dug it, and gathered out the stones of it, and planted it with the choicest vine, and built a tower in the midst of it, and also hewed out a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.
+
+v3 Now, inhabitants of Jerusalem and men of Judah, please judge between me and my vineyard.
+
+v4 What could have been done more to my vineyard, that I have not done in it? why, when I looked that it should bring forth grapes, brought it forth wild grapes?
+
+v5 Now I will tell you what I will do to my vineyard: I will take away the hedge of it, and it shall be eaten up; I will break down the wall of it, and it shall be trodden down:
+
+v6 and I will lay it waste; it shall not be pruned nor hoed; but there shall come up briers and thorns: I will also command the clouds that they rain no rain on it.
+
+v7 For the vineyard of Yahweh of Hosts is the house of Israel, and the men of Judah his pleasant plant: and he looked for justice, but, behold, oppression; for righteousness, but, behold, a cry.
+
+v8 Woe to those who join house to house, who lay field to field, until there be no room, and you be made to dwell alone in the midst of the land!
+
+v9 In my ears [says] Yahweh of Hosts, Of a truth many houses shall be desolate, even great and beautiful, without inhabitant.
+
+v10 For ten acres of vineyard shall yield one bath, and a homer of seed shall yield [but] an ephah.
+
+v11 Woe to those who rise up early in the morning, that they may follow strong drink; who stay late into the night, until wine inflame them!
+
+v12 The harp and the lute, the tambourine and the pipe, and wine, are [in] their feasts; but they don't regard the work of Yahweh, neither have they considered the operation of his hands.
+
+v13 Therefore my people are gone into captivity for lack of knowledge; and their honorable men are famished, and their multitude are parched with thirst.
+
+v14 Therefore Sheol has enlarged its desire, and opened its mouth without measure; and their glory, and their multitude, and their pomp, and he who rejoices among them, descend [into it].
+
+v15 The mean man is bowed down, and the great man is humbled, and the eyes of the lofty are humbled:
+
+v16 but Yahweh of Hosts is exalted in justice, and God the Holy One is sanctified in righteousness.
+
+v17 Then shall the lambs feed as in their pasture, and the waste places of the fat ones shall wanderers eat.
+
+v18 Woe to those who draw iniquity with cords of falsehood, and sin as it were with a cart rope;
+
+v19 who say, Let him make speed, let him hasten his work, that we may see it; and let the counsel of the Holy One of Israel draw near and come, that we may know it!
+
+v20 Woe to those who call evil good, and good evil; who put darkness for light, and light for darkness; who put bitter for sweet, and sweet for bitter!
+
+v21 Woe to those who are wise in their own eyes, and prudent in their own sight!
+
+v22 Woe to those who are mighty to drink wine, and men of strength to mingle strong drink;
+
+v23 who justify the wicked for a bribe, and take away the righteousness of the righteous from him!
+
+v24 Therefore as the tongue of fire devours the stubble, and as the dry grass sinks down in the flame, so their root shall be as rottenness, and their blossom shall go up as dust; because they have rejected the law of Yahweh of Hosts, and despised the word of the Holy One of Israel.
+
+v25 Therefore is the anger of Yahweh kindled against his people, and he has stretched forth his hand against them, and has struck them; and the mountains tremble, and their dead bodies are as refuse in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still.
+
+v26 He will lift up an ensign to the nations from far, and will hiss for them from the end of the earth; and, behold, they shall come with speed swiftly.
+
+v27 None shall be weary nor stumble among them; none shall slumber nor sleep; neither shall the belt of their loins be loosed, nor the latchet of their shoes be broken:
+
+v28 whose arrows are sharp, and all their bows bent; their horses' hoofs shall be accounted as flint, and their wheels as a whirlwind:
+
+v29 their roaring shall be like a lioness, they shall roar like young lions; yes, they shall roar, and lay hold of the prey, and carry it away safe, and there shall be none to deliver.
+
+v30 They shall roar against them in that day like the roaring of the sea: and if one look to the land, behold, darkness [and] distress; and the light is darkened in the clouds of it.
+
+***
+
+[[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah 4|← Isaiah 4]] | [[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah]] | [[Bible Versions/YLT/WORLDENGLISH/23 - Isaiah/Isaiah 6|Isaiah 6 →]]

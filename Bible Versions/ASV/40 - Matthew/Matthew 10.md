@@ -1,0 +1,93 @@
+# Matthew 10 (American Standard Version)
+
+[[Bible Versions/ASV/40 - Matthew/Matthew 9|← Matthew 9]] | [[Bible Versions/ASV/40 - Matthew/Matthew]] | [[Bible Versions/ASV/40 - Matthew/Matthew 11|Matthew 11 →]]
+
+***
+
+v1 And he called unto him his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal all manner of disease and all manner of sickness.
+
+v2 Now the names of the twelve apostles are these: The first, Simon, who is called Peter, and Andrew his brother; James the [son] of Zebedee, and John his brother;
+
+v3 Philip, and Bartholomew; Thomas, and Matthew the publican; James the [son] of Alphaeus, and Thaddaeus;
+
+v4 Simon the Cananaean, and Judas Iscariot, who also betrayed him.
+
+v5 These twelve Jesus sent forth, and charged them, saying, Go not into [any] way of the Gentiles, and enter not into any city of the Samaritans:
+
+v6 but go rather to the lost sheep of the house of Israel.
+
+v7 And as ye go, preach, saying, The kingdom of heaven is at hand.
+
+v8 Heal the sick, raise the dead, cleanse the lepers, cast out demons: freely ye received, freely give.
+
+v9 Get you no gold, nor silver, nor brass in your purses;
+
+v10 no wallet for [your] journey, neither two coats, nor shoes, nor staff: for the laborer is worthy of his food.
+
+v11 And into whatsoever city or village ye shall enter, search out who in it is worthy; and there abook_ide till ye go forth.
+
+v12 And as ye enter into the house, salute it.
+
+v13 And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you.
+
+v14 And whosoever shall not receive you, nor hear your words, as ye go forth out of that house or that city, shake off the dust of your feet.
+
+v15 Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrah in the day of judgment, than for that city.
+
+v16 Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.
+
+v17 But beware of men: for they will deliver you up to councils, and in theirs synagogues they will scourge you;
+
+v18 yea and before governors and kings shall ye be brought for my sake, for a testimony to them and to the Gentiles.
+
+v19 But when they deliver you up, be not anxious how or what ye shall speak: for it shall be given you in that hour what ye shall speak.
+
+v20 For it is not ye that speak, but the Spirit of your Father that speaketh in you.
+
+v21 And brother shall deliver up brother to death, and the father his child: and children shall rise up against parents, and cause them to be put to death.
+
+v22 And ye shall be hated of all men for my name's sake: but he that endureth to the end, the same shall be saved.
+
+v23 But when they persecute you in this city, flee into the next: for verily I say unto you, Ye shall not have gone through the cities of Israel, till the Son of man be come.
+
+v24 A disciple is not above his teacher, nor a servant above his lord.
+
+v25 It is enough for the disciple that he be as his teacher, and the servant as his lord. If they have called the master of the house Beelzebub, how much more them of his household!
+
+v26 Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.
+
+v27 What I tell you in the darkness, speak ye in the light; and what ye hear in the ear, proclaim upon the house-tops.
+
+v28 And be not afraid of them that kill the body, but are not able to kill the soul: but rather fear him who is able to destroy both soul and body in hell.
+
+v29 Are not two sparrows sold for a penny? and not one of them shall fall on the ground without your Father:
+
+v30 but the very hairs of your head are all numbered.
+
+v31 Fear not therefore: ye are of more value than many sparrows.
+
+v32 Every one therefore who shall confess me before men, him will I also confess before my Father who is in heaven.
+
+v33 But whosoever shall deny me before men, him will I also deny before my Father who is in heaven.
+
+v34 Think not that I came to send peace on the earth: I came not to send peace, but a sword.
+
+v35 For I came to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law:
+
+v36 and a man's foes [shall be] they of his own household.
+
+v37 He that loveth father or mother more than me is not worthy of me; and he that loveth son or daughter more than me is not worthy of me.
+
+v38 And he that doth not take his cross and follow after me, is not worthy of me.
+
+v39 He that findeth his life shall lose it; and he that loseth his life for my sake shall find it.
+
+v40 He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.
+
+v41 He that receiveth a prophet in the name of a prophet shall receive a prophet's reward: and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward.
+
+v42 And whosoever shall give to drink unto one of these little ones a cup of cold water only, in the name of a disciple, verily I say unto you he shall in no wise lose his reward.
+
+***
+
+[[Bible Versions/ASV/40 - Matthew/Matthew 9|← Matthew 9]] | [[Bible Versions/ASV/40 - Matthew/Matthew]] | [[Bible Versions/ASV/40 - Matthew/Matthew 11|Matthew 11 →]]

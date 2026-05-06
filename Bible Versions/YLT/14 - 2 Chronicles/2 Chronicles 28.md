@@ -1,0 +1,63 @@
+# 2 Chronicles 28 (Young's Literal Translation)
+
+[[Bible Versions/YLT/14 - 2 Chronicles/2 Chronicles 27|← 2 Chronicles 27]] | [[Bible Versions/YLT/14 - 2 Chronicles/2 Chronicles]] | [[Bible Versions/YLT/14 - 2 Chronicles/2 Chronicles 29|2 Chronicles 29 →]]
+
+***
+
+v1 A son of twenty years [is] Ahaz in his reigning, and sixteen years he hath reigned in Jerusalem, and he hath not done that which is right in the eyes of Jehovah, as David his father,
+
+v2 and walketh in the ways of the kings of Israel, and also, molten images hath made for Baalim,
+
+v3 and himself hath made perfume in the valley of the son of Hinnom, and burneth his sons with fire according to the abominations of the nations that Jehovah dispossessed from the presence of the sons of Israel,
+
+v4 and sacrificeth and maketh perfume in high places, and on the heights, and under every green tree.
+
+v5 And Jehovah his God giveth him into the hand of the king of Aram, and they smite him, and take captive from him a great captivity, and bring [them] in to Damascus, and also into the hand of the king of Israel he hath been given, and he smiteth him -- a great smiting.
+
+v6 And Pekah son of Remaliah slayeth in Judah a hundred and twenty thousand in one day (the whole [are] sons of valour), because of their forsaking Jehovah, God of their fathers.
+
+v7 And Zichri, a mighty one of Ephraim, slayeth Maaseiah son of the king, and Azrikam leader of the house, and Elkanah second to the king.
+
+v8 And the sons of Israel take captive of their brethren, two hundred thousand, wives, sons and daughters, and also much spoil they have seized from them, and they bring in the spoil to Samaria.
+
+v9 And there hath been there a prophet of Jehovah (Oded [is] his name), and he goeth out before the host that hath come in to Samaria, and saith to them, 'Lo, in the fury of Jehovah God of your fathers against Judah, He hath given them into your hand, and ye slay among them in rage -- unto the heavens it hath come;
+
+v10 and now, sons of Judah and Jerusalem ye are saying to subdue for men-servants and for maid-servants to you; but are there not with you causes of guilt before Jehovah your God?
+
+v11 and now, hear me, and send back the captives whom ye have taken captive of your brethren, for the heat of the anger of Jehovah [is] upon you.'
+
+v12 And certain of the heads of the sons of Ephraim (Azariah son of Johanan, Berechiah son of Meshillemoth, and Jehizkiah son of Shallum, and Amasa son of Hadlai), rise up against those coming in from the host,
+
+v13 and say to them, 'Ye do not bring in the captives hither, for, to guilt against Jehovah on us, ye are saying to add unto our sin and unto our guilt? for abundant [is] the guilt we have, and the fierceness of anger on Israel.'
+
+v14 And the armed men leave the captives and the prey before the heads and all the assembly;
+
+v15 and the men who have been expressed by name rise and take hold on the captives, and all their naked ones they have clothed from the spoil, yea, they clothe them, and shoe them, and cause them to eat and drink, and anoint them, and lead them on asses, even every feeble one, and bring them in to Jericho, the city of palms, near their brethren, and turn back to Samaria.
+
+v16 At that time hath king Ahaz sent unto the king of Asshur to give help to him;
+
+v17 and again the Edomites have come, and smite in Judah, and take captive a captivity.
+
+v18 And the Philistines have rushed against the cities of the low country, and of the south of Judah, and capture Beth-Shemesh, and Aijalon, and Gederoth, and Shocho and its villages, and Timnah and its villages, and Gimzo and its villages, and dwell there,
+
+v19 for Jehovah hath humbled Judah because of Ahaz king of Israel, for he made free with Judah, even to commit a trespass against Jehovah.
+
+v20 And Tilgath-Pilneser king of Asshur cometh in unto him, and doth distress him, and hath not strengthened him,
+
+v21 though Ahaz hath taken a portion [out] of the house of Jehovah, and [out] of the house of the king, and of the princes, and giveth to the king of Asshur, yet it is no help to him.
+
+v22 And in the time of his distress -- he addeth to trespass against Jehovah, (this king Ahaz),
+
+v23 and he sacrificeth to the gods of Damascus -- those smiting him, and saith, 'Because the gods of the kings of Aram are helping them, to them I sacrifice, and they help me,' and they have been to him to cause him to stumble, and to all Israel.
+
+v24 And Ahaz gathereth the vessels of the house of God, and cutteth in pieces the vessels of the house of God, and shutteth the doors of the house of Jehovah, and maketh to himself altars in every corner in Jerusalem.
+
+v25 And in every city and city of Judah he hath made high places to make perfume to other gods, and provoketh Jehovah, God of his fathers.
+
+v26 And the rest of his matters, and all his ways, the first and the last, lo, they are written on the book of the kings of Judah and Israel.
+
+v27 And Ahaz lieth with his fathers, and they bury him in the city, in Jerusalem, but have not brought him in to the graves of the kings of Israel, and reign doth Hezekiah his son in his stead.
+
+***
+
+[[Bible Versions/YLT/14 - 2 Chronicles/2 Chronicles 27|← 2 Chronicles 27]] | [[Bible Versions/YLT/14 - 2 Chronicles/2 Chronicles]] | [[Bible Versions/YLT/14 - 2 Chronicles/2 Chronicles 29|2 Chronicles 29 →]]

@@ -1,0 +1,15 @@
+v1 A Prayer of David. Hearken, O Lord of my righteousness, attend to my petition; give ear to my prayer not uttered with deceitful lips.
+v2 Let my judgment come forth from thy presence; let mine eyes behold righteousness.
+v3 Thou hast proved mine heart; thou hast visited me by night; thou hast tried me as with fire, and unrighteousness has not been found in me: I am purposed that my mouth shall not speak amiss .
+v4 As for the works of men, by the words of thy lips I have guarded myself from hard ways.
+v5 Direct my steps in thy paths, that my steps slip not.
+v6 I have cried, for thou heardest me, O God: incline thine ear to me, and hearken to my words.
+v7 Shew the marvels of thy mercies, thou that savest them that hope in thee.
+v8 Keep me as the apple of the eye from those that resist thy right hand: thou shalt screen me by the covering of thy wings,
+v9 from the face of the ungodly that have afflicted me: mine enemies have compassed about my soul.
+v10 They have enclosed themselves with their own fat: their mouth has spoken pride.
+v11 They have now cast me out and compassed me round about: they have set their eyes so as to bow them down to the ground.
+v12 They laid wait for me as a lion ready for prey, and like a lion's whelp dwelling in secret places .
+v13 Arise, O Lord, prevent them, and cast them down: deliver my soul from the ungodly: draw thy sword,
+v14 because of the enemies of thine hand: O Lord, destroy them from the earth; scatter them in their life, though their belly has been filled with thy hidden treasures : they have been satisfied with uncleanness, and have left the remnant of their possessions to their babes.
+v15 But I shall appear in righteousness before thy face: I shall be satisfied when thy glory appears.

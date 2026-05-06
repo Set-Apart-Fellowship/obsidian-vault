@@ -1,0 +1,10 @@
+v1 And the Lord shewed me Jesus the high priest standing before the angel of the Lord, and the Devil stood on his right hand to resist him. And the Lord said to the Devil,
+v2 The Lord rebuke thee, O Devil, even the Lord that has chosen Jerusalem rebuke thee: behold! is not this as a brand plucked from the fire?
+v3 Now Jesus was clothed in filthy raiment, and stood before the angel.
+v4 And the Lord answered and spoke to those who stood before him, saying, Take away the filthy raiment from him: and he said to him, Behold, I have taken away thine iniquities: and clothe ye him with a long robe,
+v5 and place a pure mitre upon his head. So they placed a pure mitre upon his head, and clothed him with garments: and the angel of the Lord stood by .
+v6 And the angel of the Lord testified to Jesus, saying,
+v7 Thus saith the Lord Almighty; If thou wilt walk in my ways, and take heed to my charges, then shalt thou judge my house: and if thou wilt diligently keep my court, then will I give thee men to walk in the midst of these that stand here .
+v8 Hear now, Jesus the high priest, thou, and thy neighbours that are sitting before thee : for they are diviners, for, behold, I bring forth my servant The Branch.
+v9 For as for the stone which I have set before the face of Jesus, on the one stone are seven eyes: behold, I am digging a trench, saith the Lord Almighty, and I will search out all the iniquity of that land in one day.
+v10 In that day, saith the Lord Almighty, ye shall call together every man his neighbour under the vine and under the fig-tree.

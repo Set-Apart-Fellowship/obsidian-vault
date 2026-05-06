@@ -1,0 +1,45 @@
+v1 And king Roboam goes to Sikima; for all Israel were coming to Sikima to make him king.
+v3 And the people spoke to king Roboam, saying, Thy father made our yoke heavy;
+v4 but do thou now lighten somewhat of the hard service of thy father, and of his heavy yoke which he put upon us, and we will serve thee.
+v5 And he said to them, Depart for three days, and return to me. And they departed.
+v6 And the king referred the matter to the elders, who stood before Solomon his father while he was yet living, saying, How do ye advise that I should answer this people?
+v7 And they spoke to him, saying, If thou wilt this day be a servant to this people, and wilt serve them, and wilt speak to them good words, then will they be thy servants continually.
+v8 But he forsook the counsel of the old men which they gave him, and consulted with the young men who were brought up with him, who stood in his presence.
+v9 And he said to them, What counsel do ye give? And what shall I answer to this people who speak to me, saying, Lighten somewhat of the yoke which thy father has put upon us?
+v10 And the young men who had been brought up with him, who stood before his face, spoke to him, saying, Thus shalt thou say to this people who have spoken to thee, saying, Thy father made our yoke heavy, and do thou now lighten it from off us: thus shalt thou say to them, My little finger shall be thicker than my father's loins.
+v11 And whereas my father did lade you with a heavy yoke, I also will add to your yoke: my father chastised you with whips, but I will chastise you with scorpions.
+v12 And all Israel came to king Roboam on the third day, as the king spoke to them, saying, Return to me on the third day.
+v13 And the king answered the people harshly; and Roboam forsook the counsel of the old men which they counselled him.
+v14 And he spoke to them according to the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father chastised you with whips, but I will chastise you with scorpions.
+v15 And the king hearkened not to the people, because the change was from the Lord, that he might establish his word which he spoke by Achia the Selonite concerning Jeroboam the son of Nabat.
+v16 And all Israel saw that the king did not hearken to them: and the people answered the king, saying, What portion have we in David? neither have we any inheritance in the son of Jessæ. Depart, O Israel, to thy tents: now feed thine own house, David. So Israel departed to his tents.
+v18 And the king sent Adoniram who was over the tribute; and they stoned him with stones, and he died: and king Roboam made haste to rise to flee to Jerusalem.
+v19 So Israel rebelled against the house of David until this day.
+v20 And it came to pass when all Israel heard that Jeroboam had returned out of Egypt, that they sent and called him to the assembly, and they made him king over Israel: and none followed the house of David except the tribe of Juda and Benjamin only.
+v21 And Roboam went into Jerusalem, and he assembled the congregation of Juda, and the tribe of Benjamin, a hundred and twenty thousand young men, warriors, to fight against the house of Israel, to recover the kingdom to Roboam the son of Solomon.
+v22 And the word of the Lord came to Samaia the man of God, saying,
+v23 Speak to Roboam the son of Solomon, king of Juda, and to all the house of Juda and Benjamin, and to the remnant of the people, saying,
+v24 Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
+v25 And Jeroboam built Sikima in mount Ephraim and dwelt in it, and went forth thence and built Phanuel.
+v26 And Jeroboam said in his heart, Behold, now the kingdom will return to the house of David.
+v27 If this people shall go up to offer sacrifice in the house of the Lord at Jerusalem, then the heart of the people will return to the Lord, and to their master, to Roboam king of Juda, and they will slay me.
+v28 And the king took counsel, and went, and made two golden heifers, and said to the people, Let it suffice you to have gone hitherto to Jerusalem: behold thy gods, O Israel, who brought thee up out of the land of Egypt.
+v29 And he put one in Bethel, and he put the other in Dan.
+v30 And this thing became a sin; and the people went before one as far as Dan, and left the house of the Lord.
+v31 And he made houses on the high places, and made priests of any part of the people, who were not of the sons of Levi.
+v32 And Jeroboam appointed a feast in the eighth month, on the fifteenth day of the month, according to the feast in the land of Juda;
+v33 and went up to the altar which he made in Bæthel to sacrifice to the heifers which he made, and he placed in Bæthel the priests of the high places which he had made. And he went up to the altar which he had made, on the fifteenth day in the eighth month, at the feast which he devised out of his own heart; and he made a feast to the children of Israel, and went up to the altar to sacrifice.
+v34 And she arose up from Sarira and went; and it came to pass when she had come into the city to Achia the Selonite, that Achia said to his servant, Go out now to meet Ano the wife of Jeroboam, and thou shalt say to her, Come in, and stand not still : for thus saith the Lord, I send grievous tidings to thee.
+v35 And Ano went in to the man of God; and Achia said to her, Why hast thou brought me bread and grapes, and cakes, and a pot of honey? Thus saith the Lord, Behold, thou shalt depart from me, and it shall come to pass when thou hast entered into the city, even into Sarira, that thy maidens shall come out to meet thee, and shall say to thee, The child is dead:
+v36 for thus saith the Lord, Behold, I will destroy every male of Jeroboam, and there shall be the dead of Jeroboam in the city, them the dogs shall eat, and him that has died in the field shall the birds of the air eat, and he shall lament for the child, saying , Woe is me , Lord! for there has been found in him some good thing touching the Lord.
+v37 And the woman departed, when she heard this: and it came to pass as she entered into Sarira, that the child died; and there came forth a wailing to meet her . And Jeroboam went to Sikima in mount Ephraim, and assembled there the tribes of Israel; and Roboam the son of Solomon went up thither.
+v38 And the word of the Lord came to Samaias son of Enlami, saying, Take to thyself a new garment which has not gone into the water, and rend it into twelve pieces; and thou shalt give some to Jeroboam, and shalt say to him, Thus saith the Lord, Take to thyself ten pieces to cover thee: and Jeroboam took them : and Samaias said, Thus saith the Lord concerning the ten tribes of Israel.
+v39 And the people said to Roboam the son of Solomon, Thy father made his yoke heavy upon us, and made the meat of his table heavy; and now thou shalt lighten them upon us, and we will serve thee.
+v40 And Roboam said to the people, Wait three days, and I will return you an answer: and Roboam said, Bring in to me the elders, and I will take counsel with them what I shall answer to the people on the third day. So Roboam spoke in their ears, as the people sent to him to say : and the elders of the people said, Thus the people have spoken to thee.
+v41 And Roboam rejected their counsel, and it pleased him not: and he sent and brought in those who had been brought up with him; and he said to them, Thus and thus has the people sent to me to say: and they that had been brought up with him said, Thus shalt thou speak to the people, saying, My little finger shall be thicker than my father's loins; my father scourged you with whips, but I will rule you with scorpions.
+v42 And the saying pleased Roboam, and he answered the people as the young men, they that were brought up with him, counselled him:
+v43 and all the people spoke as one man, every one to his neighbour, and they cried out all together, saying, We have no part in David, nor inheritance in the son of Jessæ: to thy tents, O Israel, every one; for this man is not for a prince or a ruler over us.
+v44 And all the people was dispersed from Sikima, and they departed every one to his tent: and Roboam strengthened himself and departed, and mounted his chariot, and entered into Jerusalem: and there follow him the whole tribe of Juda, and the whole tribe of Benjamin.
+v45 And it came to pass at the beginning of the year, that Roboam gathered all the men of Juda and Benjamin, and went up to fight with Jeroboam at Sikima.
+v46 And the word of the Lord came to Samæas the man of God, saying, Speak to Roboam king of Juda, and to all the house of Juda and Benjamin, and to the remnant of the people, saying, Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return every man to his house, for this thing is from me.
+v47 And they hearkened to the word of the Lord, and forbore to go up, according to the word of the Lord.

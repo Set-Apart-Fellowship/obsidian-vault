@@ -1,0 +1,57 @@
+# Galatians 1 (American Standard Version)
+
+[[Bible Versions/ASV/48 - Galatians/Galatians]] | [[Bible Versions/ASV/48 - Galatians/Galatians 2|Galatians 2 →]]
+
+***
+
+v1 Paul, an apostle (not from men, neither through man, but through Jesus Christ, and God the Father, who raised him from the dead),
+
+v2 and all the brethren that are with me, unto the churches of Galatia:
+
+v3 Grace to you and peace from God the Father, and our Lord Jesus Christ,
+
+v4 who gave himself for our sins, that he might deliver us out of this present evil world, according to the will of our God and Father:
+
+v5 to whom [be] the glory for ever and ever. Amen.
+
+v6 I marvel that ye are so quickly removing from him that called you in the grace of Christ unto a different gospel;
+
+v7 which is not another [gospel] only there are some that trouble you, and would pervert the gospel of Christ.
+
+v8 But though we, or an angel from heaven, should preach unto you any gospel other than that which we preached unto you, let him be anathema.
+
+v9 As we have said before, so say I now again, if any man preacheth unto you any gospel other than that which ye received, let him be anathema.
+
+v10 For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.
+
+v11 For I make known to you, brethren, as touching the gospel which was preached by me, that it is not after man.
+
+v12 For neither did I receive it from man, nor was I taught it, but [it came to me] through revelation of Jesus Christ.
+
+v13 For ye have heard of my manner of life in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and made havoc of it:
+
+v14 and I advanced in the Jews' religion beyond many of mine own age among my countrymen, being more exceedingly zealous for the traditions of my fathers.
+
+v15 But when it was the good pleasure of God, who separated me, [even] from my mother's womb, and called me through his grace,
+
+v16 to reveal his Son in me, that I might preach him among the Gentiles; straightway I conferred not with flesh and blood:
+
+v17 neither went I up to Jerusalem to them that were apostles before me: but I went away into Arabia; and again I returned unto Damascus.
+
+v18 Then after three years I went up to Jerusalem to visit Cephas, and tarried with him fifteen days.
+
+v19 But other of the apostles saw I none, save James the Lord's brother.
+
+v20 Now touching the things which I write unto you, behold, before God, I lie not.
+
+v21 Then I came unto the regions of Syria and Cilicia.
+
+v22 And I was still unknown by face unto the churches of Judaea which were in Christ:
+
+v23 but they only heard say, He that once persecuted us now preacheth the faith of which he once made havoc;
+
+v24 and they glorified God in me.
+
+***
+
+[[Bible Versions/ASV/48 - Galatians/Galatians]] | [[Bible Versions/ASV/48 - Galatians/Galatians 2|Galatians 2 →]]

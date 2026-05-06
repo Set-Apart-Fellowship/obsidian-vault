@@ -1,0 +1,35 @@
+# Song of Solomon 7 (American Standard Version)
+
+[[Bible Versions/ASV/22 - Song of Solomon/Song of Solomon 6|← Song of Solomon 6]] | [[Bible Versions/ASV/22 - Song of Solomon/Song of Solomon]] | [[Bible Versions/ASV/22 - Song of Solomon/Song of Solomon 8|Song of Solomon 8 →]]
+
+***
+
+v1 How beautiful are thy feet in sandals, O prince's daughter! Thy rounded thighs are like jewels, The work of the hands of a skilful workman.
+
+v2 Thy body is [like] a round goblet, [Wherein] no mingled wine is wanting: Thy waist is [like] a heap of wheat Set about with lilies.
+
+v3 Thy two breasts are like two fawns That are twins of a roe.
+
+v4 Thy neck is like the tower of ivory; Thine eyes [as] the pools in Heshbon, By the gate of Bath-rabbim; Thy nose is like the tower of Lebanon Which looketh toward Damascus.
+
+v5 Thy head upon thee is like Carmel, And the hair of thy head like purple; The king is held captive in the tresses [thereof].
+
+v6 How fair and how pleasant art thou, O love, for delights!
+
+v7 This thy stature is like to a palm-tree, And thy breasts to its clusters.
+
+v8 I said, I will climb up into the palm-tree, I will take hold of the branches thereof: Let thy breasts be as clusters of the vine, And the smell of thy breath like apples,
+
+v9 And thy mouth like the best wine, That goeth down smoothly for my beloved, Gliding through the lips of those that are asleep.
+
+v10 I am my beloved's; And his desire is toward me.
+
+v11 Come, my beloved, let us go forth into the field; Let us lodge in the villages.
+
+v12 Let us get up early to the vineyards; Let us see whether the vine hath budded, [And] its blossom is open, [And] the pomegranates are in flower: There will I give thee my love.
+
+v13 The mandrakes give forth fragrance; And at our doors are all manner of precious fruits, new and old, Which I have laid up for thee, O my beloved.
+
+***
+
+[[Bible Versions/ASV/22 - Song of Solomon/Song of Solomon 6|← Song of Solomon 6]] | [[Bible Versions/ASV/22 - Song of Solomon/Song of Solomon]] | [[Bible Versions/ASV/22 - Song of Solomon/Song of Solomon 8|Song of Solomon 8 →]]

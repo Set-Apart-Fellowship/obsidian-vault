@@ -1,0 +1,41 @@
+# Exodus 17 (American Standard Version)
+
+[[Bible Versions/ASV/02 - Exodus/Exodus 16|← Exodus 16]] | [[Bible Versions/ASV/02 - Exodus/Exodus]] | [[Bible Versions/ASV/02 - Exodus/Exodus 18|Exodus 18 →]]
+
+***
+
+v1 And all the congregation of the children of Israel journeyed from the wilderness of Sin, by their journeys, according to the commandment of Jehovah, and encamped in Rephidim: and there was no water for the people to drink.
+
+v2 Wherefore the people stove with Moses, and said, Give us water that we may drink. And Moses said unto them, Why strive ye with me? Wherefore do ye tempt Jehovah?
+
+v3 And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore hast thou brought us up out of Egypt, to kill us and our children and our cattle with thirst?
+
+v4 And Moses cried unto Jehovah, saying, What shall I do unto this people? They are almost ready to stone me.
+
+v5 And Jehovah said unto Moses, Pass on before the people, and take with thee of the elders of Israel; and they rod, wherewith thou smotest the river, take in thy hand, and go.
+
+v6 Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.
+
+v7 And he called the name of the place Massah, and Meribah, because of the striving of the children of Israel, and because they tempted Jehovah, saying, Is Jehovah among us, or not?
+
+v8 Then came Amalek, and fought with Israel in Rephidim.
+
+v9 And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to-morrow I will stand on the top of the hill with the rod of God in my hand.
+
+v10 So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.
+
+v11 And it came to pass, when Moses held up his hand, that Israel prevailed; and when he let down his hand, Amalek prevailed.
+
+v12 But Moses' hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; And his hands were steady until the going down of the sun.
+
+v13 And Joshua discomfited Amalek and his people with the edge of the sword.
+
+v14 And Jehovah said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: that I will utterly blot out the remembrance of Amalek from under heaven.
+
+v15 And Moses built an altar, and called the name of it Jehovah-nissi;
+
+v16 And he said, Jehovah hath sworn: Jehovah will have war with Amalek from generation to generation.
+
+***
+
+[[Bible Versions/ASV/02 - Exodus/Exodus 16|← Exodus 16]] | [[Bible Versions/ASV/02 - Exodus/Exodus]] | [[Bible Versions/ASV/02 - Exodus/Exodus 18|Exodus 18 →]]

@@ -1,0 +1,89 @@
+# 1 Corinthians 7 (Young's Literal Translation)
+
+[[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians 6|← 1 Corinthians 6]] | [[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians]] | [[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians 8|1 Corinthians 8 →]]
+
+***
+
+v1 And concerning the things of which ye wrote to me: good [it is] for a man not to touch a woman,
+
+v2 and because of the whoredom let each man have his own wife, and let each woman have her proper husband;
+
+v3 to the wife let the husband the due benevolence render, and in like manner also the wife to the husband;
+
+v4 the wife over her own body hath not authority, but the husband; and, in like manner also, the husband over his own body hath not authority, but the wife.
+
+v5 Defraud not one another, except by consent for a time, that ye may be free for fasting and prayer, and again may come together, that the Adversary may not tempt you because of your incontinence;
+
+v6 and this I say by way of concurrence -- not of command,
+
+v7 for I wish all men to be even as I myself [am]; but each his own gift hath of God, one indeed thus, and one thus.
+
+v8 And I say to the unmarried and to the widows: it is good for them if they may remain even as I [am];
+
+v9 and if they have not continence -- let them marry, for it is better to marry than to burn;
+
+v10 and to the married I announce -- not I, but the Lord -- let not a wife separate from a husband:
+
+v11 but and if she may separate, let her remain unmarried, or to the husband let her be reconciled, and let not a husband send away a wife.
+
+v12 And to the rest I speak -- not the Lord -- if any brother hath a wife unbelieving, and she is pleased to dwell with him, let him not send her away;
+
+v13 and a woman who hath a husband unbelieving, and he is pleased to dwell with her, let her not send him away;
+
+v14 for the unbelieving husband hath been sanctified in the wife, and the unbelieving wife hath been sanctified in the husband; otherwise your children are unclean, but now they are holy.
+
+v15 And, if the unbelieving doth separate himself -- let him separate himself: the brother or the sister is not under servitude in such [cases], and in peace hath God called us;
+
+v16 for what, hast thou known, O wife, whether the husband thou shalt save? or what, hast thou known, O husband, whether the wife thou shalt save?
+
+v17 if not, as God did distribute to each, as the Lord hath called each -- so let him walk; and thus in all the assemblies do I direct:
+
+v18 being circumcised -- was any one called? let him not become uncircumcised; in uncircumcision was any one called? let him not be circumcised;
+
+v19 the circumcision is nothing, and the uncircumcision is nothing -- but a keeping of the commands of God.
+
+v20 Each in the calling in which he was called -- in this let him remain;
+
+v21 a servant -- wast thou called? be not anxious; but if also thou art able to become free -- use [it] rather;
+
+v22 for he who [is] in the Lord -- having been called a servant -- is the Lord's freedman: in like manner also he the freeman, having been called, is servant of Christ:
+
+v23 with a price ye were bought, become not servants of men;
+
+v24 each, in that in which he was called, brethren, in this let him remain with God.
+
+v25 And concerning the virgins, a command of the Lord I have not; and I give judgment as having obtained kindness from the Lord to be faithful:
+
+v26 I suppose, therefore, this to be good because of the present necessity, that [it is] good for a man that the matter be thus: --
+
+v27 Hast thou been bound to a wife? seek not to be loosed; hast thou been loosed from a wife? seek not a wife.
+
+v28 But and if thou mayest marry, thou didst not sin; and if the virgin may marry, she did not sin; and such shall have tribulation in the flesh: and I spare you.
+
+v29 And this I say, brethren, the time henceforth is having been shortened -- that both those having wives may be as not having;
+
+v30 and those weeping, as not weeping; and those rejoicing, as not rejoicing; and those buying, as not possessing;
+
+v31 and those using this world, as not using [it] up; for passing away is the fashion of this world.
+
+v32 And I wish you to be without anxiety; the unmarried is anxious for the things of the Lord, how he shall please the Lord;
+
+v33 and the married is anxious for the things of the world, how he shall please the wife.
+
+v34 The wife and the virgin have been distinguished: the unmarried is anxious for the things of the Lord, that she may be holy both in body and in spirit, and the married is anxious for the things of the world, how she shall please the husband.
+
+v35 And this for your own profit I say: not that I may cast a noose upon you, but for the seemliness and devotedness to the Lord, undistractedly,
+
+v36 and if any one doth think [it] to be unseemly to his virgin, if she may be beyond the bloom of age, and it ought so to be, what he willeth let him do; he doth not sin -- let him marry.
+
+v37 And he who hath stood stedfast in the heart -- not having necessity -- and hath authority over his own will, and this he hath determined in his heart -- to keep his own virgin -- doth well;
+
+v38 so that both he who is giving in marriage doth well, and he who is not giving in marriage doth better.
+
+v39 A wife hath been bound by law as long time as her husband may live, and if her husband may sleep, she is free to be married to whom she will -- only in the Lord;
+
+v40 and she is happier if she may so remain -- according to my judgment; and I think I also have the Spirit of God.
+
+***
+
+[[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians 6|← 1 Corinthians 6]] | [[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians]] | [[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians 8|1 Corinthians 8 →]]

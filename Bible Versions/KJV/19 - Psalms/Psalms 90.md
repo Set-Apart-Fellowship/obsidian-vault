@@ -1,0 +1,43 @@
+# Psalms 90 (King James Version)
+
+[[Bible Versions/KJV/19 - Psalms/Psalms 89|← Psalms 89]] | [[Bible Versions/KJV/19 - Psalms/Psalms]] | [[Bible Versions/KJV/19 - Psalms/Psalms 91|Psalms 91 →]]
+
+***
+
+v1 A Prayer of Moses the man of God. LORD, thou hast been our dwelling place in all generations.
+
+v2 Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.
+
+v3 Thou turnest man to destruction; and sayest, Return, ye children of men.
+
+v4 For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night.
+
+v5 Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.
+
+v6 In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
+
+v7 For we are consumed by thine anger, and by thy wrath are we troubled.
+
+v8 Thou hast set our iniquities before thee, our secret sins in the light of thy countenance.
+
+v9 For all our days are passed away in thy wrath: we spend our years as a tale that is told.
+
+v10 The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.
+
+v11 Who knoweth the power of thine anger? even according to thy fear, so is thy wrath.
+
+v12 So teach us to number our days, that we may apply our hearts unto wisdom.
+
+v13 Return, O LORD, how long? and let it repent thee concerning thy servants.
+
+v14 O satisfy us early with thy mercy; that we may rejoice and be glad all our days.
+
+v15 Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.
+
+v16 Let thy work appear unto thy servants, and thy glory unto their children.
+
+v17 And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.
+
+***
+
+[[Bible Versions/KJV/19 - Psalms/Psalms 89|← Psalms 89]] | [[Bible Versions/KJV/19 - Psalms/Psalms]] | [[Bible Versions/KJV/19 - Psalms/Psalms 91|Psalms 91 →]]

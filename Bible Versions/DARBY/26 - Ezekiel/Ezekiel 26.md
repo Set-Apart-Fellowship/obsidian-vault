@@ -1,0 +1,51 @@
+# Ezekiel 26 (Darby Translation)
+
+[[Bible Versions/DARBY/26 - Ezekiel/Ezekiel 25|← Ezekiel 25]] | [[Bible Versions/DARBY/26 - Ezekiel/Ezekiel]] | [[Bible Versions/DARBY/26 - Ezekiel/Ezekiel 27|Ezekiel 27 →]]
+
+***
+
+v1 And it came to pass in the eleventh year, on the first of the month, [that] the word of Jehovah came unto me, saying,
+
+v2 Son of man, because Tyre hath said against Jerusalem, Aha, she is broken, the gate of the peoples! she is turned unto me: I shall be replenished [now] she is laid waste;
+
+v3 therefore thus saith the Lord Jehovah: Behold, I am against thee, Tyre, and will cause many nations to come up against thee, as the sea causeth its waves to come up.
+
+v4 And they shall destroy the walls of Tyre, and break down her towers. And I will scrape her dust from her, and make her a bare rock.
+
+v5 She shall be [a place] for the spreading of nets in the midst of the sea; for I have spoken [it], saith the Lord Jehovah; and she shall become a spoil for the nations.
+
+v6 And her daughters that are in the field shall be slain by the sword; and they shall know that I [am] Jehovah.
+
+v7 For thus saith the Lord Jehovah: Behold, I will bring from the north, against Tyre, Nebuchadrezzar king of Babylon, the king of kings, with horses, and with chariots, and with horsemen, and an assemblage, and much people.
+
+v8 He shall slay with the sword thy daughters in the field, and he shall make forts against thee, and cast up a mound against thee, and lift up the target against thee;
+
+v9 and he shall set his engines of attack against thy walls, and with his spikes he shall break down thy towers.
+
+v10 By reason of the abundance of his horses their dust shall cover thee; thy walls shall shake at the noise of the horsemen, and of the wheels, and of the chariots, when he shall enter through thy gates, as a city is entered into, wherein is made a breach.
+
+v11 With the hoofs of his horses shall he tread down all thy streets; he shall slay thy people by the sword, and the pillars of thy strength shall go down to the ground.
+
+v12 And they shall make a spoil of thy riches, and make a prey of thy wares; and they shall break down thy walls, and destroy thy pleasant houses; and they shall lay thy stones and thy timber and thy dust in the midst of the waters.
+
+v13 And I will cause the noise of thy songs to cease; and the sound of thy harps shall be no more heard.
+
+v14 And I will make thee a bare rock; thou shalt be [a place] for the spreading of nets; thou shalt be built no more: for I Jehovah have spoken [it], saith the Lord Jehovah.
+
+v15 Thus saith the Lord Jehovah to Tyre: Shall not the isles shake at the sound of thy fall, when the wounded groan, when the slaughter is made in the midst of thee?
+
+v16 And all the princes of the sea shall come down from their thrones, and lay aside their robes, and put off their broidered garments: they shall clothe themselves with trembling, they shall sit upon the ground, and shall tremble [every] moment, and be astonied because of thee.
+
+v17 And they shall take up a lamentation for thee, and say to thee, How hast thou perished, that wast inhabited from the seas, O renowned city, which wast strong in the sea, -- she and her inhabitants, who caused their terror to be on all them that dwell therein!
+
+v18 Now shall the isles tremble in the day of thy fall; and the isles that are in the sea shall be troubled at thy departure.
+
+v19 For thus saith the Lord Jehovah: When I shall make thee a desolate city, like the cities that are not inhabited; when I bring up the deep upon thee, and the great waters cover thee:
+
+v20 then will I bring thee down, with them that go down to the pit, to the people of old time, and will cause thee to dwell in the lower parts of the earth, in places desolate of old, with them that go down to the pit, that thou be not inhabited; and I will set glory in the land of the living.
+
+v21 And I will make thee a terror, and thou shalt be no [more]; and thou shalt be sought for, and shalt never be found again, for ever, saith the Lord Jehovah.
+
+***
+
+[[Bible Versions/DARBY/26 - Ezekiel/Ezekiel 25|← Ezekiel 25]] | [[Bible Versions/DARBY/26 - Ezekiel/Ezekiel]] | [[Bible Versions/DARBY/26 - Ezekiel/Ezekiel 27|Ezekiel 27 →]]

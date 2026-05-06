@@ -1,0 +1,21 @@
+# Jeremiah 20 (Berean Standard Bible)
+[[Bible Versions/BSB/24 - Jeremiah/Jeremiah 19|← Jeremiah 19]] | [[Bible Versions/BSB/24 - Jeremiah/Jeremiah]] | [[Bible Versions/BSB/24 - Jeremiah/Jeremiah 21|Jeremiah 21 →]]
+***
+v1 When Pashhur the priest, the son of Immer and the chief official in the house of the LORD, heard Jeremiah prophesying these things,
+v2 he had Jeremiah the prophet beaten and put in the stocks at the Upper Gate of Benjamin, which was by the house of the LORD.
+v3 The next day, when Pashhur released Jeremiah from the stocks, Jeremiah said to him, “The LORD does not call you Pashhur, but Magor-missabib.
+v4 For this is what the LORD says: ‘I will make you a terror to yourself and to all your friends. They will fall by the sword of their enemies before your very eyes. And I will hand Judah over to the king of Babylon, and he will carry them away to Babylon and put them to the sword.
+v5 I will give away all the wealth of this city—all its products and valuables, and all the treasures of the kings of Judah—to their enemies. They will plunder them, seize them, and carry them off to Babylon.
+v6 And you, Pashhur, and all who live in your house, will go into captivity. You will go to Babylon, and there you will die and be buried—you and all your friends to whom you have prophesied these lies.’”
+v7 You have deceived me, O LORD, and I was deceived. You have overcome me and prevailed. I am a laughingstock all day long; everyone mocks me.
+v8 For whenever I speak, I cry out; I proclaim violence and destruction. For the word of the LORD has become to me a reproach and derision all day long.
+v9 If I say, “I will not mention Him or speak any more in His name,” His message becomes a fire burning in my heart, shut up in my bones, and I become weary of holding it in, and I cannot prevail.
+v10 For I have heard the whispering of many: “Terror is on every side! Report him; let us report him!” All my trusted friends watch for my fall: “Perhaps he will be deceived so that we may prevail against him and take our vengeance upon him.”
+v11 But the LORD is with me like a fearsome warrior. Therefore, my persecutors will stumble and will not prevail. Since they have not succeeded, they will be utterly put to shame, with an everlasting disgrace that will never be forgotten.
+v12 O LORD of Hosts, who examines the righteous, who sees the heart and mind, let me see Your vengeance upon them, for to You I have committed my cause.
+v13 Sing to the LORD! Praise the LORD! For He rescues the life of the needy from the hands of evildoers.
+v14 Cursed be the day I was born! May the day my mother bore me never be blessed.
+v15 Cursed be the man who brought my father the news, saying, “A son is born to you,” bringing him great joy.
+v16 May that man be like the cities that the LORD overthrew without compassion. May he hear an outcry in the morning and a battle cry at noon,
+v17 because he did not kill me in the womb so that my mother might have been my grave, and her womb forever enlarged.
+v18 Why did I come out of the womb to see only trouble and sorrow, and to end my days in shame?

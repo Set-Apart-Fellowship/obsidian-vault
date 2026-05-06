@@ -1,0 +1,43 @@
+# Jeremiah 12 (Young's Literal Translation)
+
+[[Bible Versions/YLT/24 - Jeremiah/Jeremiah 11|← Jeremiah 11]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah 13|Jeremiah 13 →]]
+
+***
+
+v1 Righteous [art] Thou, O Jehovah, When I plead towards thee, Only, judgments do I speak with Thee, Wherefore did the way of the wicked prosper? At rest have been all treacherous dealers.
+
+v2 Thou hast planted them, yea, they have taken root, They go on, yea, they have made fruit, Near [art] Thou in their mouth, And far off from their reins.
+
+v3 And Thou, O Jehovah, Thou hast known me, Thou seest me, and hast tried my heart with Thee, Draw them away as sheep to slaughter, And separate them for a day of slaughter.
+
+v4 Till when doth the earth mourn, And the herb of the whole field wither? For the wickedness of those dwelling in it, Consumed have been beast and fowl, Because they said, 'He doth not see our latter end.'
+
+v5 For -- with footmen thou hast run, And they weary thee, And how dost thou fret thyself with horses! Even in the land of peace, [In which] thou art confident -- And how dost thou in the rising of Jordan!
+
+v6 For even thy brethren and the house of thy father, Even they dealt treacherously against thee, Even they -- they called after thee fully, Trust not in them, when they speak to thee good things.
+
+v7 I have forsaken My house, I have left Mine inheritance, I have given the beloved of My soul Into the hand of her enemies.
+
+v8 Mine inheritance hath been to Me as a lion in a forest, She gave forth against Me with her voice, Therefore I have hated her.
+
+v9 A speckled fowl [is] Mine inheritance to Me? Is the fowl round about against her? Come, assemble, every beast of the field, Come ye for food.
+
+v10 Many shepherds did destroy My vineyard, They have trodden down My portion, They have made My desirable portion Become a wilderness -- a desolation.
+
+v11 He hath made it become a desolation, The desolation hath mourned unto Me, Desolated hath been all the land, But there is no one laying it to heart.
+
+v12 On all high places in the plain have spoilers come in, For the sword of Jehovah is consuming, From the end of the land even unto the end of the land, There is no peace to any flesh.
+
+v13 They sowed wheat, and have thorns reaped, They have become sick -- they profit not, And they have been ashamed of your increases, Because of the fierceness of the anger of Jehovah.
+
+v14 Thus said Jehovah concerning all my evil neighbours, who are striking against the inheritance that I caused my people -- Israel -- to inherit: 'Lo, I am plucking them from off their ground, And the house of Judah I pluck out of their midst.
+
+v15 And it hath been, after My plucking them out, I turn back, and have pitied them, And I have brought them back, Each to his inheritance, and each to his land.
+
+v16 And it hath come to pass, If they learn well the ways of My people, To swear by My name, 'Jehovah liveth,' As they taught My people to swear by Baal, Then they have been built up in the midst of My people.
+
+v17 And if they do not hearken, Then I have plucked up that nation, Plucking up and destroying, An affirmation of Jehovah!'
+
+***
+
+[[Bible Versions/YLT/24 - Jeremiah/Jeremiah 11|← Jeremiah 11]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah]] | [[Bible Versions/YLT/24 - Jeremiah/Jeremiah 13|Jeremiah 13 →]]

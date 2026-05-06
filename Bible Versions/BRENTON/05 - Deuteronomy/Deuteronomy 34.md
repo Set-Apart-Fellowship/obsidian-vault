@@ -1,0 +1,12 @@
+v1 And Moses went up from Araboth Moab to the mount of Nabau, to the top of Phasga, which is before Jericho; and the Lord shewed him all the mount of Galaad to Dan, and all the land of Nephthali,
+v2 and all the land of Ephraim and Manasse, and all the land of Juda to the farthest sea;
+v3 and the wilderness, and the country round about Jericho, the city of palm-trees, to Segor.
+v4 And the Lord said to Moses, This is the land of which I sware to Abraam, and Isaac, and Jacob, saying, To your seed will I give it: and I have shewed it to thine eyes, but thou shalt not go in thither.
+v5 So Moses the servant of the Lord died in the land of Moab by the word of the Lord.
+v6 And they buried him in Gai near the house of Phogor; and no one has seen his sepulchre to this day.
+v7 And Moses was a hundred and twenty years old at his death; his eyes were not dimmed, nor were his natural powers destroyed.
+v8 And the children of Israel wept for Moses in Araboth of Moab at Jordan near Jericho thirty days; and the days of the sad mourning for Moses were completed.
+v9 And Joshua the son of Naue was filled with the spirit of knowledge, for Moses had laid his hands upon him; and the children of Israel hearkened to him; and they did as the Lord commanded Moses.
+v10 And there rose up no more a prophet in Israel like Moses, whom the Lord knew face to face,
+v11 in all the signs and wonders, which the Lord sent him to work in Egypt on Pharao, and his servants, and all his land;
+v12 the great wonders, and the mighty hand which Moses displayed before all Israel.

@@ -1,0 +1,71 @@
+# Proverbs 11 (World English Bible)
+
+[[Bible Versions/YLT/WORLDENGLISH/20 - Proverbs/Proverbs 10|← Proverbs 10]] | [[Bible Versions/YLT/WORLDENGLISH/20 - Proverbs/Proverbs]] | [[Bible Versions/YLT/WORLDENGLISH/20 - Proverbs/Proverbs 12|Proverbs 12 →]]
+
+***
+
+v1 A false balance is an abomination to Yahweh,  But accurate weights are his delight.
+
+v2 When pride comes, then comes shame,  But with humility comes wisdom.
+
+v3 The integrity of the upright shall guide them,  But the perverseness of the treacherous shall destroy them.
+
+v4 Riches don't profit in the day of wrath,  But righteousness delivers from death.
+
+v5 The righteousness of the blameless will direct his way,  But the wicked shall fall by his own wickedness.
+
+v6 The righteousness of the upright shall deliver them,  But the unfaithful will be trapped by evil desires.
+
+v7 When a wicked man dies, hope perishes,  And expectation of power comes to nothing.
+
+v8 The righteous is delivered out of trouble,  And the wicked takes his place.
+
+v9 With his mouth the godless man destroys his neighbor,  But the righteous will be delivered through knowledge.
+
+v10 When it goes well with the righteous, the city rejoices.  When the wicked perish, there is shouting.
+
+v11 By the blessing of the upright, the city is exalted,  But it is overthrown by the mouth of the wicked.
+
+v12 One who despises his neighbor is void of wisdom,  But a man of understanding holds his peace.
+
+v13 One who brings gossip betrays a confidence,  But one who is of a trustworthy spirit is one who keeps a secret.
+
+v14 Where there is no wise guidance, the nation falls,  But in the multitude of counselors there is victory.
+
+v15 He who is collateral for a stranger will suffer for it,  But he who refuses pledges of collateral is secure.
+
+v16 A gracious woman obtains honor,  But violent men obtain riches.
+
+v17 The merciful man does good to his own soul,  But he who is cruel troubles his own flesh.
+
+v18 The wicked earns deceitful wages,  But he who sows righteousness reaps a sure reward.
+
+v19 He who is truly righteous gets life.  He who pursues evil gets death.
+
+v20 Those who are perverse in heart are an abomination to Yahweh,  But those whose ways are blameless are his delight.
+
+v21 Most assuredly, the evil man will not be unpunished,  But the seed of the righteous will be delivered.
+
+v22 Like a gold ring in a pig's snout,  Is a beautiful woman who lacks discretion.
+
+v23 The desire of the righteous is only good.  The expectation of the wicked is wrath.
+
+v24 There is one who scatters, and increases yet more.  There is one who withholds more than is appropriate, but gains    poverty.
+
+v25 The liberal soul shall be made fat.  He who waters shall be watered also himself.
+
+v26 He who withholds grain, the people will curse him,  But blessing will be on the head of him who sells it.
+
+v27 He who diligently seeks good seeks favor,  But he who searches after evil, it shall come to him.
+
+v28 He who trusts in his riches will fall,  But the righteous shall flourish as the green leaf.
+
+v29 He who troubles his own house shall inherit the wind.  The foolish shall be servant to the wise of heart.
+
+v30 The fruit of the righteous is a tree of life.  He who is wise wins souls.
+
+v31 Behold, the righteous shall be repaid in the earth;  How much more the wicked and the sinner!
+
+***
+
+[[Bible Versions/YLT/WORLDENGLISH/20 - Proverbs/Proverbs 10|← Proverbs 10]] | [[Bible Versions/YLT/WORLDENGLISH/20 - Proverbs/Proverbs]] | [[Bible Versions/YLT/WORLDENGLISH/20 - Proverbs/Proverbs 12|Proverbs 12 →]]

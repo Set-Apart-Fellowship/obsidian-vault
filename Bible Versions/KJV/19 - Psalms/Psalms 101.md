@@ -1,0 +1,25 @@
+# Psalms 101 (King James Version)
+
+[[Bible Versions/KJV/19 - Psalms/Psalms 100|← Psalms 100]] | [[Bible Versions/KJV/19 - Psalms/Psalms]] | [[Bible Versions/KJV/19 - Psalms/Psalms 102|Psalms 102 →]]
+
+***
+
+v1 A Psalm of David. I will sing of mercy and judgment: unto thee, O LORD, will I sing.
+
+v2 I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.
+
+v3 I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.
+
+v4 A froward heart shall depart from me: I will not know a wicked person.
+
+v5 Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.
+
+v6 Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.
+
+v7 He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.
+
+v8 I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD.
+
+***
+
+[[Bible Versions/KJV/19 - Psalms/Psalms 100|← Psalms 100]] | [[Bible Versions/KJV/19 - Psalms/Psalms]] | [[Bible Versions/KJV/19 - Psalms/Psalms 102|Psalms 102 →]]

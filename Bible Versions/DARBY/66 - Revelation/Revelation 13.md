@@ -1,0 +1,45 @@
+# Revelation 13 (Darby Translation)
+
+[[Bible Versions/DARBY/66 - Revelation/Revelation 12|← Revelation 12]] | [[Bible Versions/DARBY/66 - Revelation/Revelation]] | [[Bible Versions/DARBY/66 - Revelation/Revelation 14|Revelation 14 →]]
+
+***
+
+v1 And I stood upon the sand of the sea; and I saw a beast rising out of the sea, having ten horns and seven heads, and upon its horns ten diadems, and upon its heads names of blasphemy.
+
+v2 And the beast which I saw was like to a leopardess, and its feet as of a bear, and its mouth as a lion's mouth; and the dragon gave to it his power, and his throne, and great authority;
+
+v3 and one of his heads [was] as slain to death, and his wound of death had been healed: and the whole earth wondered after the beast.
+
+v4 And they did homage to the dragon, because he gave the authority to the beast; and they did homage to the beast, saying, Who [is] like to the beast? and who can make war with it?
+
+v5 And there was given to it a mouth, speaking great things and blasphemies; and there was given to it authority to pursue its career forty-two months.
+
+v6 And it opened its mouth for blasphemies against God, to blaspheme his name and his tabernacle, and those who have their tabernacle in the heaven.
+
+v7 And there was given to it to make war with the saints, and to overcome them; and there was given to it authority over every tribe, and people, and tongue, and nation;
+
+v8 and all that dwell on the earth shall do it homage, [every one] whose name had not been written from [the] founding of [the] world in the book of life of the slain Lamb.
+
+v9 If any one has an ear, let him hear.
+
+v10 If any one [leads] into captivity, he goes into captivity. If any one shall kill with [the] sword, he must with [the] sword be killed. Here is the endurance and the faith of the saints.
+
+v11 And I saw another beast rising out of the earth; and it had two horns like to a lamb, and spake as a dragon;
+
+v12 and it exercises all the authority of the first beast before it, and causes the earth and those that dwell in it to do homage to the first beast, whose wound of death was healed.
+
+v13 And it works great signs, that it should cause even fire to come down from heaven to the earth before men.
+
+v14 And it deceives those that dwell upon the earth by reason of the signs which it was given to it to work before the beast, saying to those that dwell upon the earth to make an image to the beast, which has the wound of the sword, and lived.
+
+v15 And it was given to it to give breath to the image of the beast, that the image of the beast should also speak, and should cause that as many as should not do homage to the image of the beast should be killed.
+
+v16 And it causes all, the small and the great, and the rich and the poor, and the free and the bondmen, that they should give them a mark upon their right hand or upon their forehead;
+
+v17 and that no one should be able to buy or sell save he that had the mark, the name of the beast, or the number of its name.
+
+v18 Here is wisdom. He that has understanding let him count the number of the beast: for it is a man's number; and its number [is] six hundred [and] sixty-six.
+
+***
+
+[[Bible Versions/DARBY/66 - Revelation/Revelation 12|← Revelation 12]] | [[Bible Versions/DARBY/66 - Revelation/Revelation]] | [[Bible Versions/DARBY/66 - Revelation/Revelation 14|Revelation 14 →]]

@@ -1,0 +1,33 @@
+# Psalms 84 (Darby Translation)
+
+[[Bible Versions/DARBY/19 - Psalms/Psalms 83|← Psalms 83]] | [[Bible Versions/DARBY/19 - Psalms/Psalms]] | [[Bible Versions/DARBY/19 - Psalms/Psalms 85|Psalms 85 →]]
+
+***
+
+v1 {To the chief Musician. Upon the Gittith. Of the sons of Korah. A Psalm.} How amiable are thy tabernacles, O Jehovah of hosts!
+
+v2 My soul longeth, yea, even fainteth for the courts of Jehovah; my heart and my flesh cry out for the living Ã¹God.
+
+v3 Yea, the sparrow hath found a house, and the swallow a nest for herself, where she layeth her young, thine altars, O Jehovah of hosts, my King and my God.
+
+v4 Blessed are they that dwell in thy house: they will be constantly praising thee. Selah.
+
+v5 Blessed is the man whose strength is in thee, -- they, in whose heart are the highways.
+
+v6 Passing through the valley of Baca, they make it a well-spring; yea, the early rain covereth it with blessings.
+
+v7 They go from strength to strength: [each one] will appear before God in Zion.
+
+v8 Jehovah, God of hosts, hear my prayer; give ear, O God of Jacob. Selah.
+
+v9 Behold, O God our shield, and look upon the face of thine anointed.
+
+v10 For a day in thy courts is better than a thousand. I had rather stand at the threshold of the house of my God, than dwell in the tents of wickedness.
+
+v11 For Jehovah Elohim is a sun and shield: Jehovah will give grace and glory; no good thing will he withhold from them that walk uprightly.
+
+v12 Jehovah of hosts, blessed is the man that confideth in thee!
+
+***
+
+[[Bible Versions/DARBY/19 - Psalms/Psalms 83|← Psalms 83]] | [[Bible Versions/DARBY/19 - Psalms/Psalms]] | [[Bible Versions/DARBY/19 - Psalms/Psalms 85|Psalms 85 →]]

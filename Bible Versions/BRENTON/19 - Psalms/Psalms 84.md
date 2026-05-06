@@ -1,0 +1,14 @@
+v1 For the end, a Psalm for the sons of Core.
+v2 O Lord, thou hast taken pleasure in thy land: thou hast turned back the captivity of Jacob.
+v3 Thou hast forgiven thy people their transgressions; thou hast covered all their sins. Pause.
+v4 Thou hast caused all thy wrath to cease: thou hast turned from thy fierce anger.
+v5 Turn us, O God of our salvation, and turn thine anger away from us.
+v6 Wouldest thou be angry with us for ever? or wilt thou continue thy wrath from generation to generation?
+v7 O God, thou wilt turn and quicken us; and thy people shall rejoice in thee.
+v8 Shew us thy mercy, O Lord, and grant us thy salvation.
+v9 I will hear what the Lord God will say concerning me: for he shall speak peace to his people, and to his saints, and to those that turn their heart toward him.
+v10 Moreover his salvation is near them that fear him; that glory may dwell in our land.
+v11 Mercy and truth are met together: righteousness and peace have kissed each other .
+v12 Truth has sprung out of the earth; and righteousness has looked down from heaven.
+v13 For the Lord will give goodness; and our land shall yield her fruit.
+v14 Righteousness shall go before him; and shall set his steps in the way.

@@ -1,0 +1,35 @@
+# Nahum 2 (Darby Translation)
+
+[[Bible Versions/DARBY/34 - Nahum/Nahum 1|← Nahum 1]] | [[Bible Versions/DARBY/34 - Nahum/Nahum]] | [[Bible Versions/DARBY/34 - Nahum/Nahum 3|Nahum 3 →]]
+
+***
+
+v1 He that dasheth in pieces is come up against thy face: keep the fortress, watch the way, make [thy] loins strong, fortify [thy] power mightily.
+
+v2 For Jehovah hath brought again the glory of Jacob, as the glory of Israel; for the wasters have wasted them, and marred their vine-branches.
+
+v3 The shield of his mighty men is made red, the valiant men are in scarlet: the chariots [glitter] with the sheen of steel, in the day of his preparation, and the spears are brandished.
+
+v4 The chariots rush madly in the streets, they justle one against another in the broad ways: the appearance of them is like torches, they run like lightnings.
+
+v5 He bethinketh him of his nobles: they stumble in their march; they make haste to the wall thereof, and the shelter is prepared.
+
+v6 The gates of the rivers are opened, and the palace melteth away.
+
+v7 And it is decreed: she shall be uncovered, she shall be led away, and her maids shall moan as with the voice of doves, drumming upon their breasts.
+
+v8 Nineveh hath been like a pool of water, since the day she existed, yet they flee away. ... Stand! Stand! But none looketh back.
+
+v9 Plunder the silver, plunder the gold; for there is no end of the splendid store of all precious vessels.
+
+v10 She is empty, and void, and waste; and the heart melteth, and the knees smite together, and writhing pain is in all loins, and all their faces grow pale.
+
+v11 Where is [now] the den of the lions, and the feeding-place of the young lions, where the lion, the lioness, [and] the lion's whelp walked, and none made them afraid?
+
+v12 The lion tore in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin.
+
+v13 Behold, I am against thee, saith Jehovah of hosts: and I will burn her chariots into smoke; and the sword shall devour thy young lions, and I will cut off thy prey from the earth; and the voice of thy messengers shall no more be heard.
+
+***
+
+[[Bible Versions/DARBY/34 - Nahum/Nahum 1|← Nahum 1]] | [[Bible Versions/DARBY/34 - Nahum/Nahum]] | [[Bible Versions/DARBY/34 - Nahum/Nahum 3|Nahum 3 →]]

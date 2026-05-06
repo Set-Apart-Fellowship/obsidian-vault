@@ -1,0 +1,75 @@
+# Joshua 13 (Young's Literal Translation)
+
+[[Bible Versions/YLT/06 - Joshua/Joshua 12|← Joshua 12]] | [[Bible Versions/YLT/06 - Joshua/Joshua]] | [[Bible Versions/YLT/06 - Joshua/Joshua 14|Joshua 14 →]]
+
+***
+
+v1 And Joshua is old, entering into days, and Jehovah saith unto him, 'Thou hast become aged, thou hast entered into days; as to the land, very much hath been left to possess.
+
+v2 'This [is] the land that is left; all the circuits of the Philistines, and all Geshuri,
+
+v3 from Sihor which [is] on the front of Egypt, and unto the border of Ekron northward, to the Canaanite it is reckoned, five princes of the Philistines, the Gazathite, and the Ashdothite, the Eshkalonite, the Gittite, and the Ekronite, also the Avim.
+
+v4 'From the south, all the land of the Canaanite, and Mearah, which [is] to the Sidonians, unto Aphek, unto the border of the Amorite;
+
+v5 and the land of the Giblite, and all Lebanon, at the sun-rising, from Baal-Gad under mount Hermon, unto the going in to Hamath:
+
+v6 all the inhabitants of the hill-country, from Lebanon unto Misrephoth-Maim, all the Sidonians: I -- I dispossess them before the sons of Israel; only, cause it to fall to Israel for an inheritance, as I have commanded thee.
+
+v7 'And now, apportion this land for an inheritance to the nine tribes, and the half of the tribe of Manasseh,' --
+
+v8 with it the Reubenite, and the Gadite, have received their inheritance, which Moses hath given to them beyond the Jordan eastward, as Moses servant of Jehovah hath given to them;
+
+v9 from Aroer, which [is] on the edge of the brook Arnon, and the city which [is] in the midst of the brook, and all the plain of Medeba unto Dihon,
+
+v10 and all the cities of Sihon king of the Amorite, who reigned in Heshbon, unto the border of the Bene-Ammon,
+
+v11 and Gilead, and the border of the Geshurite, and of the Maachathite, and all mount Hermon, and all Bashan unto Salcah;
+
+v12 all the kingdom of Og in Bashan, who reigned in Ashtaroth and in Edrei; he was left of the remnant of the Rephaim, and Moses doth smite them, and dispossess them;
+
+v13 and the sons of Israel dispossessed not the Geshurite, and the Maachathite; and Geshur and Maachath dwell in the midst of Israel unto this day.
+
+v14 Only, to the tribe of Levi he hath not given an inheritance; fire-offerings of Jehovah, God of Israel, is its inheritance, as He hath spoken to it.
+
+v15 And Moses giveth to the tribe of the sons of Reuben, for their families;
+
+v16 and the border is to them from Aroer, which [is] on the edge of the brook Arnon, and the city which [is] in the midst of the brook, and all the plain by Medeba,
+
+v17 Heshbon, and all its cities which [are] in the plain, Dibon, and Bamoth-Baal, and Beth-Baal-Meon,
+
+v18 and Jahazah, and Kedemoth, and Mephaath,
+
+v19 and Kirjathaim, and Sibmah, and Zareth-Shahar, in the mount of the valley,
+
+v20 and Beth-Peor, and the springs of Pisgah, and Beth-Jeshimoth,
+
+v21 and all the cities of the plain, and all the kingdom of Sihon king of the Amorite, who reigned in Heshbon, whom Moses smote, with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, princes of Sihon, inhabitants of the land.
+
+v22 And Balaam, son of Beor, the diviner, have the sons of Israel slain with the sword, among their wounded ones.
+
+v23 And the border of the sons of Reuben is the Jordan, and [its] border; this [is] the inheritance of the sons of Reuben, for their families, the cities and their villages.
+
+v24 And Moses giveth to the tribe of Gad, to the sons of Gad, for their families;
+
+v25 and the border is to them Jazer, and all the cities of Gilead, and the half of the land of the Bene-Ammon, unto Aroer which [is] on the front of Rabbah,
+
+v26 and from Heshbon unto Ramath-Mispeh, and Betonim, and from Mahanaim unto the border of Debir,
+
+v27 and in the valley, Beth-Aram, and Beth-Nimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, the Jordan and [its] border, unto the extremity of the sea of Chinnereth, beyond the Jordan, eastward.
+
+v28 This [is] the inheritance of the sons of Gad, for their families, the cities and their villages.
+
+v29 And Moses giveth to the half of the tribe of Manasseh; and it is to the half of the tribe of the sons of Manasseh, for their families.
+
+v30 And their border is from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the small towns of Jair, which [are] in Bashan, sixty cities;
+
+v31 and the half of Gilead, and Ashteroth, and Edrei, cities of the kingdom of Og in Bashan, [are] to the sons of Machir, son of Manasseh, to the half of the sons of Machir, for their families.
+
+v32 These [are] they whom Moses caused to inherit in the plains of Moab, beyond the Jordan, [by] Jericho, eastward;
+
+v33 and to the tribe of Levi Moses gave not an inheritance; Jehovah, God of Israel, Himself [is] their inheritance, as He hath spoken to them.
+
+***
+
+[[Bible Versions/YLT/06 - Joshua/Joshua 12|← Joshua 12]] | [[Bible Versions/YLT/06 - Joshua/Joshua]] | [[Bible Versions/YLT/06 - Joshua/Joshua 14|Joshua 14 →]]

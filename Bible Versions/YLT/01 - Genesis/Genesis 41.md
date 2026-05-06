@@ -1,0 +1,123 @@
+# Genesis 41 (Young's Literal Translation)
+
+[[Bible Versions/YLT/01 - Genesis/Genesis 40|← Genesis 40]] | [[Bible Versions/YLT/01 - Genesis/Genesis]] | [[Bible Versions/YLT/01 - Genesis/Genesis 42|Genesis 42 →]]
+
+***
+
+v1 And it cometh to pass, at the end of two years of days that Pharaoh is dreaming, and lo, he is standing by the River,
+
+v2 and lo, from the River coming up are seven kine, of fair appearance, and fat [in] flesh, and they feed among the reeds;
+
+v3 and lo, seven other kine are coming up after them out of the River, of bad appearance, and lean [in] flesh, and they stand near the kine on the edge of the River,
+
+v4 and the kine of bad appearance and lean [in] flesh eat up the seven kine of fair appearance, and fat -- and Pharaoh awaketh.
+
+v5 And he sleepeth, and dreameth a second time, and lo, seven ears are coming up on one stalk, fat and good,
+
+v6 and lo, seven ears, thin, and blasted with an east wind, are springing up after them;
+
+v7 and the thin ears swallow the seven fat and full ears -- and Pharaoh awaketh, and lo, a dream.
+
+v8 And it cometh to pass in the morning, that his spirit is moved, and he sendeth and calleth all the scribes of Egypt, and all its wise men, and Pharaoh recounteth to them his dream, and there is no interpreter of them to Pharaoh.
+
+v9 And the chief of the butlers speaketh with Pharaoh, saying, 'My sin I mention this day:
+
+v10 Pharaoh hath been wroth against his servants, and giveth me into charge in the house of the chief of the executioners, me and the chief of the bakers;
+
+v11 and we dream a dream in one night, I and he, each according to the interpretation of his dream we have dreamed.
+
+v12 And there [is] with us a youth, a Hebrew, servant to the chief of the executioners, and we recount to him, and he interpreteth to us our dreams, [to] each according to his dream hath he interpreted,
+
+v13 and it cometh to pass, as he hath interpreted to us so it hath been, me he put back on my station, and him he hanged.'
+
+v14 And Pharaoh sendeth and calleth Joseph, and they cause him to run out of the pit, and he shaveth, and changeth his garments, and cometh in unto Pharaoh.
+
+v15 And Pharaoh saith unto Joseph, 'A dream I have dreamed, and there is no interpreter of it, and I -- I have heard concerning thee, saying, Thou understandest a dream to interpret it,'
+
+v16 and Joseph answereth Pharaoh, saying, 'Without me -- God doth answer Pharaoh with peace.'
+
+v17 And Pharaoh speaketh unto Joseph: 'In my dream, lo, I am standing by the edge of the River,
+
+v18 and lo, out of the River coming up are seven kine, fat [in] flesh, and of fair form, and they feed among the reeds;
+
+v19 and lo, seven other kine are coming up after them, thin, and of very bad form, and lean [in] flesh; I have not seen like these in all the land of Egypt for badness.
+
+v20 'And the lean and the bad kine eat up the first seven fat kine,
+
+v21 and they come in unto their midst, and it hath not been known that they have come in unto their midst, and their appearance [is] bad as at the commencement; and I awake.
+
+v22 'And I see in my dream, and lo, seven ears are coming up on one stalk, full and good;
+
+v23 and lo, seven ears, withered, thin, blasted with an east wind, are springing up after them;
+
+v24 and the thin ears swallow the seven good ears; and I tell unto the scribes, and there is none declaring to me.'
+
+v25 And Joseph saith unto Pharaoh, 'The dream of Pharaoh is one: that which God is doing he hath declared to Pharaoh;
+
+v26 the seven good kine are seven years, and the seven good ears are seven years, the dream is one;
+
+v27 and the seven thin and bad kine which are coming up after them are seven years, and the seven empty ears, blasted with an east wind, are seven years of famine;
+
+v28 this [is] the thing which I have spoken unto Pharaoh: That which God is doing, he hath shewn Pharaoh.
+
+v29 'Lo, seven years are coming of great abundance in all the land of Egypt,
+
+v30 and seven years of famine have arisen after them, and all the plenty is forgotten in the land of Egypt, and the famine hath finished the land,
+
+v31 and the plenty is not known in the land because of that famine afterwards, for it [is] very grievous.
+
+v32 'And because of the repeating of the dream unto Pharaoh twice, surely the thing is established by God, and God is hastening to do it.
+
+v33 'And now, let Pharaoh provide a man, intelligent and wise, and set him over the land of Egypt;
+
+v34 let Pharaoh make and appoint overseers over the land, and receive a fifth of the land of Egypt in the seven years of plenty,
+
+v35 and they gather all the food of these good years that are coming, and heap up corn under the hand of Pharaoh -- food in the cities; and they have kept [it],
+
+v36 and the food hath been for a store for the land, for the seven years of famine which are in the land of Egypt; and the land is cut off by the famine.'
+
+v37 And the thing is good in the eyes of Pharaoh, and in the eyes of all his servants,
+
+v38 and Pharaoh saith unto his servants, 'Do we find like this, a man in whom the spirit of God [is]?'
+
+v39 and Pharaoh saith unto Joseph, 'After God's causing thee to know all this, there is none intelligent and wise as thou;
+
+v40 thou -- thou art over my house, and at thy mouth do all my people kiss; only in the throne I am greater than thou.'
+
+v41 And Pharaoh saith unto Joseph, 'See, I have put thee over all the land of Egypt.'
+
+v42 And Pharaoh turneth aside his seal-ring from off his hand, and putteth it on the hand of Joseph, and clotheth him [with] garments of fine linen, and placeth a chain of gold on his neck,
+
+v43 and causeth him to ride in the second chariot which he hath, and they proclaim before him, 'Bow the knee!' and -- to put him over all the land of Egypt.
+
+v44 And Pharaoh saith unto Joseph, 'I [am] Pharaoh, and without thee a man doth not lift up his hand and his foot in all the land of Egypt;'
+
+v45 and Pharaoh calleth Joseph's name Zaphnath-Paaneah, and he giveth to him Asenath daughter of Poti-Pherah, priest of On, for a wife, and Joseph goeth out over the land of Egypt.
+
+v46 And Joseph [is] a son of thirty years in his standing before Pharaoh king of Egypt, and Joseph goeth out from the presence of Pharaoh, and passeth over through all the land of Egypt;
+
+v47 and the land maketh in the seven years of plenty by handfuls.
+
+v48 And he gathereth all the food of the seven years which have been in the land of Egypt, and putteth food in the cities; the food of the field which [is] round about [each] city hath he put in its midst;
+
+v49 and Joseph gathereth corn as sand of the sea, multiplying exceedingly, until that he hath ceased to number, for there is no number.
+
+v50 And to Joseph were born two sons before the year of famine cometh, whom Asenath daughter of Poti-Pherah, priest of On, hath borne to him,
+
+v51 and Joseph calleth the name of the first-born Manasseh: 'for, God hath made me to forget all my labour, and all the house of my father;'
+
+v52 and the name of the second he hath called Ephraim: 'for, God hath caused me to be fruitful in the land of mine affliction.'
+
+v53 And the seven years of plenty are completed which have been in the land of Egypt,
+
+v54 and the seven years of famine begin to come, as Joseph said, and famine is in all the lands, but in all the land of Egypt hath been bread;
+
+v55 and all the land of Egypt is famished, and the people crieth unto Pharaoh for bread, and Pharaoh saith to all the Egyptians, 'Go unto Joseph; that which he saith to you -- do.'
+
+v56 And the famine has been over all the face of the land, and Joseph openeth all [places] which have [corn] in them, and selleth to the Egyptians; and the famine is severe in the land of Egypt,
+
+v57 and all the earth hath come to Egypt, to buy, unto Joseph, for the famine was severe in all the earth.
+
+***
+
+[[Bible Versions/YLT/01 - Genesis/Genesis 40|← Genesis 40]] | [[Bible Versions/YLT/01 - Genesis/Genesis]] | [[Bible Versions/YLT/01 - Genesis/Genesis 42|Genesis 42 →]]

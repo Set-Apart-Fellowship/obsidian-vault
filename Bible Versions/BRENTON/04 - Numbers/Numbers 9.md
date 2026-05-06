@@ -1,0 +1,23 @@
+v1 And the Lord spoke to Moses in the wilderness of Sina in the second year after they had gone forth from the land of Egypt, in the first month, saying,
+v2 Speak, and let the children of Israel keep the passover in its season.
+v3 On the fourteenth day of the first month at even, thou shalt keep it in its season; thou shalt keep it according to its law, and according to its ordinance.
+v4 And Moses ordered the children of Israel to sacrifice the passover,
+v5 on the fourteenth day of the first month in the wilderness of Sina, as the Lord appointed Moses, so the children of Israel did.
+v6 And there came men who were unclean by reason of a dead body, and they were not able to keep the passover on that day; and they came before Moses and Aaron on that day.
+v7 And those men said to Moses, We are unclean by reason of the dead body of a man: shall we therefore fail to offer the gift to the Lord in its season in the midst of the children of Israel?
+v8 And Moses said to them, Stand there, and I will hear what charge the Lord will give concerning you.
+v9 And the Lord spoke to Moses, saying,
+v10 Speak to the children of Israel, saying, Whatever man shall be unclean by reason of a dead body, or on a journey far off, among you, or among your posterity; he shall then keep the passover to the Lord,
+v11 in the second month, on the fourteenth day; in the evening they shall offer it, with unleavened bread and bitter herbs shall they eat it.
+v12 They shall not leave of it until the morrow, and they shall not break a bone of it; they shall sacrifice it according to the ordinance of the passover.
+v13 And whatsoever man shall be clean, and is not far off on a journey, and shall fail to keep the passover, that soul shall be cut off from his people, because he has not offered the gift to the Lord in its season: that man shall bear his iniquity.
+v14 And if there should come to you a stranger in your land, and should keep the passover to the Lord, he shall keep it according to the law of the passover and according to its ordinance: there shall be one law for you, both for the stranger, and for the native of the land.
+v15 And in the day in which the tabernacle was pitched the cloud covered the tabernacle, the place of the testimony; and in the evening there was upon the tabernacle as the appearance of fire till the morning.
+v16 So it was continually: the cloud covered it by day, and the appearance of fire by night.
+v17 And when the cloud went up from the tabernacle, then after that the children of Israel departed; and in whatever place the cloud rested, there the children of Israel encamped.
+v18 The children of Israel shall encamp by the command of the Lord, and by the command of the Lord they shall remove: all the days in which the cloud overshadows the tabernacle, the children of Israel shall encamp.
+v19 And whenever the cloud shall be drawn over the tabernacle for many days, then the children of Israel shall keep the charge of God, and they shall not remove.
+v20 And it shall be, whenever the cloud overshadows the tabernacle a number of days, they shall encamp by the word of the Lord, and shall remove by the command of the Lord.
+v21 And it shall come to pass, whenever the cloud shall remain from the evening till the morning, and in the morning the cloud shall go up, then shall they remove by day or by night.
+v22 When the cloud continues a full month overshadowing the tabernacle, the children of Israel shall encamp, and shall not depart.
+v23 For they shall depart by the command of the Lord:—they kept the charge of the Lord by the command of the Lord by the hand of Moses.

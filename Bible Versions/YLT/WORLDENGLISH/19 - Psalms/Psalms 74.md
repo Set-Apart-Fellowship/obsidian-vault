@@ -1,0 +1,55 @@
+# Psalms 74 (World English Bible)
+
+[[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 73|← Psalms 73]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 75|Psalms 75 →]]
+
+***
+
+v1 God, why have you rejected us forever?  Why does your anger smolder against the sheep of your pasture?
+
+v2 Remember your congregation, which you purchased of old,  Which you have redeemed to be the tribe of your inheritance;  Mount Zion, in which you have lived.
+
+v3 Lift up your feet to the perpetual ruins,  All the evil that the enemy has done in the sanctuary.
+
+v4 Your adversaries have roared in the midst of your assembly.  They have set up their standards as signs.
+
+v5 They behaved like men wielding axes,  Cutting through a thicket of trees.
+
+v6 Now all its carved work  They break down with hatchet and hammers.
+
+v7 They have burned your sanctuary to the ground.  They have profaned the dwelling-place of your Name.
+
+v8 They said in their heart, "We will crush them completely."  They have burned up all the places in the land where God was    worshipped.
+
+v9 We see no miraculous signs.  There is no longer any prophet,  Neither is there among us anyone who knows how long.
+
+v10 How long, God, shall the adversary reproach?  Shall the enemy blaspheme your name forever?
+
+v11 Why do you draw back your hand, even your right hand?  Take it out of your pocket and consume them!
+
+v12 Yet God is my King of old,  Working salvation in the midst of the earth.
+
+v13 You divided the sea by your strength.  You broke the heads of the sea monsters in the waters.
+
+v14 You broke the heads of Leviathan in pieces.  You gave him as food to people and desert creatures.
+
+v15 You opened up spring and stream.  You dried up mighty rivers.
+
+v16 The day is yours, the night is also yours.  You have prepared the light and the sun.
+
+v17 You have set all the boundaries of the earth.  You have made summer and winter.
+
+v18 Remember this, that the enemy has mocked you, Yahweh.  Foolish people have blasphemed your name.
+
+v19 Don't deliver the soul of your dove to wild beasts.  Don't forget the life of your poor forever.
+
+v20 Honor your covenant,  For haunts of violence fill the dark places of the earth.
+
+v21 Don't let the oppressed return ashamed.  Let the poor and needy praise your name.
+
+v22 Arise, God! Plead your own cause.  Remember how the foolish man mocks you all day.
+
+v23 Don't forget the voice of your adversaries.  The tumult of those who rise up against you ascends continually.   Psalm 75    For the Chief Musician. To the tune of "Do Not Destroy." A Psalm by Asaph. A song.
+
+***
+
+[[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 73|← Psalms 73]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 75|Psalms 75 →]]

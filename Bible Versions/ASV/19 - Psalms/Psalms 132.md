@@ -1,0 +1,45 @@
+# Psalms 132 (American Standard Version)
+
+[[Bible Versions/ASV/19 - Psalms/Psalms 131|← Psalms 131]] | [[Bible Versions/ASV/19 - Psalms/Psalms]] | [[Bible Versions/ASV/19 - Psalms/Psalms 133|Psalms 133 →]]
+
+***
+
+v1 Jehovah, remember for David All his affliction;
+
+v2 How he sware unto Jehovah, And vowed unto the Mighty One of Jacob:
+
+v3 Surely I will not come into the tabernacle of my house, Nor go up into my bed;
+
+v4 I will not give sleep to mine eyes, Or slumber to mine eyelids;
+
+v5 Until I find out a place for Jehovah, A tabernacle for the Mighty One of Jacob.
+
+v6 Lo, we heard of it in Ephrathah: We found it in the field of the wood.
+
+v7 We will go into his tabernacles; We will worship at his footstool.
+
+v8 Arise, O Jehovah, into thy resting-place; Thou, and the ark of thy strength.
+
+v9 Let thy priest be clothed with righteousness; And let thy saints shout for joy.
+
+v10 For thy servant David's sake Turn not away the face of thine anointed.
+
+v11 Jehovah hath sworn unto David in truth; He will not turn from it: Of the fruit of thy body will I set upon thy throne.
+
+v12 If thy children will keep my covenant And my testimony that I shall teach them, Their children also shall sit upon thy throne for evermore.
+
+v13 For Jehovah hath chosen Zion; He hath desired it for his habitation.
+
+v14 This is my resting-place for ever: Here will I dwell; for I have desired it.
+
+v15 I will abundantly bless her provision: I will satisfy her poor with bread.
+
+v16 Her priests also will I clothe with salvation; And her saints shall shout aloud for joy.
+
+v17 There will I make the horn of David to bud: I have ordained a lamp for mine anointed.
+
+v18 His enemies will I clothe with shame; But upon himself shall his crown flourish.      Psalm 133    A Song of Ascents; of David.
+
+***
+
+[[Bible Versions/ASV/19 - Psalms/Psalms 131|← Psalms 131]] | [[Bible Versions/ASV/19 - Psalms/Psalms]] | [[Bible Versions/ASV/19 - Psalms/Psalms 133|Psalms 133 →]]

@@ -1,0 +1,31 @@
+# Revelation 4 (Young's Literal Translation)
+
+[[Bible Versions/YLT/66 - Revelation/Revelation 3|← Revelation 3]] | [[Bible Versions/YLT/66 - Revelation/Revelation]] | [[Bible Versions/YLT/66 - Revelation/Revelation 5|Revelation 5 →]]
+
+***
+
+v1 After these things I saw, and lo, a door opened in the heaven, and the first voice that I heard [is] as of a trumpet speaking with me, saying, 'Come up hither, and I will shew thee what it behoveth to come to pass after these things;'
+
+v2 and immediately I was in the Spirit, and lo, a throne was set in the heaven, and upon the throne is [one] sitting,
+
+v3 and He who is sitting was in sight like a stone, jasper and sardine: and a rainbow was round the throne in sight like an emerald.
+
+v4 And around the throne [are] thrones twenty and four, and upon the thrones I saw the twenty and four elders sitting, clothed in white garments, and they had upon their heads crowns of gold;
+
+v5 and out of the throne proceed do lightnings, and thunders, and voices; and seven lamps of fire are burning before the throne, which are the Seven Spirits of God,
+
+v6 and before the throne [is] a sea of glass like to crystal, and in the midst of the throne, and round the throne, [are] four living creatures, full of eyes before and behind;
+
+v7 and the first living creature [is] like a lion, and the second living creature [is] like a calf, and the third living creature hath the face as a man, and the fourth living creature [is] like an eagle flying.
+
+v8 And the four living creatures, each by itself severally, had six wings, around and within [are] full of eyes, and rest they have not day and night, saying, 'Holy, holy, holy, Lord God Almighty, who was, and who is, and who is coming;'
+
+v9 and when the living creatures do give glory, and honour, and thanks, to Him who is sitting upon the throne, who is living to the ages of the ages,
+
+v10 fall down do the twenty and four elders before Him who is sitting upon the throne, and bow before Him who is living to the ages of the ages, and they cast their crowns before the throne, saying,
+
+v11 'Worthy art Thou, O Lord, to receive the glory, and the honour, and the power, because Thou -- Thou didst create the all things, and because of Thy will are they, and they were created.'
+
+***
+
+[[Bible Versions/YLT/66 - Revelation/Revelation 3|← Revelation 3]] | [[Bible Versions/YLT/66 - Revelation/Revelation]] | [[Bible Versions/YLT/66 - Revelation/Revelation 5|Revelation 5 →]]

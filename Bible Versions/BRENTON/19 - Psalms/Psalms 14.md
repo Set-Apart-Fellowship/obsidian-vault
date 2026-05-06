@@ -1,0 +1,5 @@
+v1 A Psalm of David. O Lord, who shall sojourn in thy tabernacle? and who shall dwell in thy holy mountain?
+v2 He that walks blameless, and works righteousness, who speaks truth in his heart.
+v3 Who has not spoken craftily with his tongue, neither has done evil to his neighbour, nor taken up a reproach against them that dwelt nearest to him.
+v4 In his sight an evil-worker is set at nought, but he honours them that fear the Lord. He swears to his neighbour, and disappoints him not.
+v5 He has not lent his money on usury, and has not received bribes against the innocent. He that does these things shall never be moved.

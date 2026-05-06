@@ -1,0 +1,35 @@
+v1 And Joshua gathered all the tribes of Israel to Selo, and convoked their elders, and their officers, and their judges, and set them before God.
+v2 And Joshua said to all the people, Thus says the Lord God of Israel, Your fathers at first sojourned beyond the river, even Thara, the father of Abraam and the father of Nachor; and they served other gods.
+v3 And I took your father Abraam from the other side of the river, and I guided him through all the land, and I multiplied his seed;
+v4 and I gave to him Isaac, and to Isaac Jacob and Esau: and I gave to Esau mount Seir for him to inherit: and Jacob and his sons went down to Egypt, and became there a great and populous and mighty nation: and the Egyptians afflicted them.
+v5 And I smote Egypt with the wonders that I wrought among them.
+v6 And afterwards God brought out our fathers from Egypt, and ye entered into the Red Sea; and the Egyptians pursued after our fathers with chariots and horses into the Red Sea.
+v7 And we cried aloud to the Lord; and he put a cloud and darkness between us and the Egyptians, and he brought the sea upon them, and covered them; and your eyes have seen all that the Lord did in the land of Egypt; and ye were in the wilderness many days.
+v8 And he brought us into the land of the Amorites that dwelt beyond Jordan, and the Lord delivered them into our hands; and ye inherited their land, and utterly destroyed them from before you.
+v9 And Balac, king of Moab, son of Sepphor, rose up, and made war against Israel, and sent and called Balaam to curse us.
+v10 But the Lord thy God would not destroy thee; and he greatly blessed us, and rescued us out of their hands, and delivered them to us .
+v11 And ye crossed over Jordan, and came to Jericho; and the inhabitants of Jericho fought against us, the Amorite, and the Chananite, and the Pherezite, and the Evite, and the Jebusite, and the Chettite, and the Gergesite, and the Lord delivered them into our hands.
+v12 And he sent forth the hornet before you; and he drove them out from before you, even twelve kings of the Amorites, not with thy sword, nor with thy bow.
+v13 And he gave you a land on which ye did not labour, and cities which ye did not build, and ye were settled in them; and ye eat of vineyards and oliveyards which ye did not plant.
+v14 And now fear the Lord, and serve him in righteousness and justice; and remove the strange gods, which our fathers served beyond the river, and in Egypt; and serve the Lord.
+v15 But if it seem not good to you to serve the Lord, choose to yourselves this day whom ye will serve, whether the gods of your fathers that were on the other side of the river, or the gods of the Amorites, among whom ye dwell upon their land: but I and my house will serve the Lord, for he is holy.
+v16 And the people answered and said, Far be it from us to forsake the Lord, so as to serve other gods.
+v17 The Lord our God, he is God; he brought up us and our fathers from Egypt, and kept us in all the way wherein we walked, and among all the nations through whom we passed.
+v18 And the Lord cast out the Amorite, and all the nations that inhabited the land from before us: yea, we will serve the Lord, for he is our God.
+v19 And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
+v20 Whensoever ye shall forsake the Lord and serve other gods, then he shall come upon you and afflict you, and consume you, because he has done you good.
+v21 And the people said to Joshua, Nay, but we will serve the Lord.
+v22 And Joshua said to the people, Ye are witnesses against yourselves, that ye have chosen the Lord to serve him.
+v23 And now take away the strange gods that are among you, and set your heart right toward the Lord God of Israel.
+v24 And the people said to Joshua, We will serve the Lord, and we will hearken to his voice.
+v25 So Joshua made a covenant with the people on that day, and gave them a law and an ordinance in Selo before the tabernacle of the God of Israel.
+v26 And he wrote these words in the book of the laws of God: and Joshua took a great stone, and set it up under the oak before the Lord.
+v27 And Joshua said to the people, Behold, this stone shall be among you for a witness, for it has heard all the words that have been spoken to it by the Lord; for he has spoken to you this day; and this stone shall be among you for a witness in the last days, whenever ye shall deal falsely with the Lord my God.
+v28 And Joshua dismissed the people, and they went every man to his place.
+v29 And Israel served the Lord all the days of Joshua, and all the days of the elders that lived as long as Joshua, and all that knew all the works of the Lord which he wrought for Israel.
+v30 And it came to pass after these things that Joshua the son of Naue the servant of the Lord died, at the age of a hundred and ten years.
+v31 And they buried him by the borders of his inheritance in Thamnasarach in the mount of Ephraim, northward of the mount of Galaad:
+v32 And the children of Israel brought up the bones of Joseph out of Egypt, and buried them in Sicima, in the portion of the land which Jacob bought of the Amorites who dwelt in Sicima for a hundred ewe-lambs; and he gave it to Joseph for a portion.
+v33 And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
+v34 In that day the children of Israel took the ark of God, and carried it about among them; and Phinees exercised the priest's office in the room of Eleazar his father till he died, and he was buried in his own place Gabaar:
+v35 but the children of Israel departed every one to their place, and to their own city: and the children of Israel worshipped Astarte, and Astaroth, and the gods of the nations round about them; and the Lord delivered them into the hands of Eglom king of Moab and he ruled over them eighteen years.

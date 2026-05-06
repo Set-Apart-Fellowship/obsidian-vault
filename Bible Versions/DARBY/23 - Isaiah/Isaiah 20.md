@@ -1,0 +1,21 @@
+# Isaiah 20 (Darby Translation)
+
+[[Bible Versions/DARBY/23 - Isaiah/Isaiah 19|← Isaiah 19]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah 21|Isaiah 21 →]]
+
+***
+
+v1 In the year that Tartan came to Ashdod, when Sargon the king of Assyria sent him, (and he fought against Ashdod and took it,)
+
+v2 at that time spoke Jehovah by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy sandal from thy foot. And he did so, walking naked and barefoot.
+
+v3 And Jehovah said, Like as my servant Isaiah hath walked naked and barefoot three years, a sign and a wonder concerning Egypt and concerning Ethiopia,
+
+v4 so shall the king of Assyria lead away the captives of Egypt and the exiles of Ethiopia, young and old, naked and barefoot, and with buttocks uncovered, [to] the shame of Egypt.
+
+v5 And they shall be terrified and ashamed of Ethiopia their confidence, and of Egypt their boast.
+
+v6 And the inhabitants of this coast shall say in that day, Behold, such is our confidence, whither we fled for help to be delivered from the king of Assyria; and how shall we escape?
+
+***
+
+[[Bible Versions/DARBY/23 - Isaiah/Isaiah 19|← Isaiah 19]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah]] | [[Bible Versions/DARBY/23 - Isaiah/Isaiah 21|Isaiah 21 →]]

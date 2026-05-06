@@ -1,0 +1,31 @@
+v1 But now the youngest have laughed me to scorn, now they reprove me in their turn, whose fathers I set at nought; whom I did not deem worthy to be with my shepherd dogs.
+v2 Yea, why had I the strength of their hands? for them the full term of life was lost.
+v3 One is childless in want and famine, such as they that fled but lately the distress and misery of drought.
+v4 Who compass the salt places on the sounding shore , who had salt herbs for their food, and were dishonourable and of no repute, in want of every good thing; who also ate roots of trees by reason of great hunger.
+v5 Thieves have risen up against me,
+v6 whose houses were the caves of the rocks, who lived under the wild shrubs.
+v7 They will cry out among the rustling bushes .
+v8 They are sons of fools and vile men, whose name and glory are quenched from off the earth.
+v9 But now I am their music, and they have me for a by-word.
+v10 And they stood aloof and abhorred me, and spared not to spit in my face.
+v11 For he has opened his quiver and afflicted me: they also have cast off the restraint of my presence.
+v12 They have risen up against me on the right hand of their offspring; they have stretched out their foot, and directed against me the ways of their destruction.
+v13 My paths are ruined; for they have stripped off my raiment: he has shot at me with his weapons.
+v14 And he has pleaded against me as he will: I am overwhelmed with pains.
+v15 My pains return upon me ; my hope is gone like the wind, and my safety as a cloud.
+v16 Even now my life shall be poured forth upon me; and days of anguish seize me.
+v17 And by night my bones are confounded; and my sinews are relaxed.
+v18 With great force my disease has taken hold of my garment: it has compassed me as the collar of my coat.
+v19 And thou hast counted me as clay; my portion is in dust and ashes.
+v20 And I have cried to thee, but thou hearest me not: but they stood still, and observed me.
+v21 They attacked me also without mercy: thou hast scourged me with a strong hand.
+v22 And thou hast put me to grief, and hast cast me away from safety.
+v23 For I know that death will destroy me: for the earth is the house appointed for every mortal.
+v24 Oh then that I might lay hands upon myself, or at least ask another, and he should do this for me.
+v25 Yet I wept over every helpless man; I groaned when I saw a man in distress.
+v26 But I, when I waited for good things, behold, days of evils came the more upon me.
+v27 My belly boiled, and would not cease: the days of poverty prevented me.
+v28 I went mourning without restraint: and I have stood and cried out in the assembly.
+v29 I am become a brother of monsters, and a companion of ostriches.
+v30 And my skin has been greatly blackened, and my bones are burned with heat.
+v31 My harp also has been turned into mourning, and my song into my weeping.

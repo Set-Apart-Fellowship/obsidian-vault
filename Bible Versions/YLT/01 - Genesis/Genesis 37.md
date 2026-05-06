@@ -1,0 +1,81 @@
+# Genesis 37 (Young's Literal Translation)
+
+[[Bible Versions/YLT/01 - Genesis/Genesis 36|← Genesis 36]] | [[Bible Versions/YLT/01 - Genesis/Genesis]] | [[Bible Versions/YLT/01 - Genesis/Genesis 38|Genesis 38 →]]
+
+***
+
+v1 And Jacob dwelleth in the land of his father's sojournings -- in the land of Canaan.
+
+v2 These [are] births of Jacob: Joseph, a son of seventeen years, hath been enjoying himself with his brethren among the flock, (and he [is] a youth,) with the sons of Bilhah, and with the sons of Zilpah, his father's wives, and Joseph bringeth in an account of their evil unto their father.
+
+v3 And Israel hath loved Joseph more than any of his sons, for he [is] a son of his old age, and hath made for him a long coat;
+
+v4 and his brethren see that their father hath loved him more than any of his brethren, and they hate him, and have not been able to speak [to] him peaceably.
+
+v5 And Joseph dreameth a dream, and declareth to his brethren, and they add still more to hate him.
+
+v6 And he saith unto them, 'Hear ye, I pray you, this dream which I have dreamed:
+
+v7 that, lo, we are binding bundles in the midst of the field, and lo, my bundle hath arisen, and hath also stood up, and lo, your bundles are round about, and bow themselves to my bundle.'
+
+v8 And his brethren say to him, 'Dost thou certainly reign over us? dost thou certainly rule over us?' and they add still more to hate him, for his dreams, and for his words.
+
+v9 And he dreameth yet another dream, and recounteth it to his brethren, and saith, 'Lo, I have dreamed a dream again, and lo, the sun and the moon, and eleven stars, are bowing themselves to me.'
+
+v10 And he recounteth unto his father, and unto his brethren; and his father pusheth against him, and saith to him, 'What [is] this dream which thou hast dreamt? do we certainly come -- I, and thy mother, and thy brethren -- to bow ourselves to thee, to the earth?'
+
+v11 and his brethren are zealous against him, and his father hath watched the matter.
+
+v12 And his brethren go to feed the flock of their father in Shechem,
+
+v13 and Israel saith unto Joseph, 'Are not thy brethren feeding in Shechem? come, and I send thee unto them;' and he saith to him, 'Here [am] I;'
+
+v14 and he saith to him, 'Go, I pray thee, see the peace of thy brethren, and the peace of the flock, and bring me back word;' and he sendeth him from the valley of Hebron, and he cometh to Shechem.
+
+v15 And a man findeth him, and lo, he is wandering in the field, and the man asketh him, saying, 'What seekest thou?'
+
+v16 and he saith, 'My brethren I am seeking, declare to me, I pray thee, where they are feeding?'
+
+v17 And the man saith, 'They have journeyed from this, for I have heard some saying, Let us go to Dothan,' and Joseph goeth after his brethren, and findeth them in Dothan.
+
+v18 And they see him from afar, even before he draweth near unto them, and they conspire against him to put him to death.
+
+v19 And they say one unto another, 'Lo, this man of the dreams cometh;
+
+v20 and now, come, and we slay him, and cast him into one of the pits, and have said, An evil beast hath devoured him; and we see what his dreams are.'
+
+v21 And Reuben heareth, and delivereth him out of their hand, and saith, 'Let us not smite the life;'
+
+v22 and Reuben saith unto them, 'Shed no blood; cast him into this pit which [is] in the wilderness, and put not forth a hand upon him,' -- in order to deliver him out of their hand, to bring him back unto his father.
+
+v23 And it cometh to pass, when Joseph hath come unto his brethren, that they strip Joseph of his coat, the long coat which [is] upon him,
+
+v24 and take him and cast him into the pit, and the pit [is] empty, there is no water in it.
+
+v25 And they sit down to eat bread, and they lift up their eyes, and look, and lo, a company of Ishmaelites coming from Gilead, and their camels bearing spices, and balm, and myrrh, going to take [them] down to Egypt.
+
+v26 And Judah saith unto his brethren, 'What gain when we slay our brother, and have concealed his blood?
+
+v27 Come, and we sell him to the Ishmaelites, and our hands are not on him, for he [is] our brother -- our flesh;' and his brethren hearken.
+
+v28 And Midianite merchantmen pass by and they draw out and bring up Joseph out of the pit, and sell Joseph to the Ishmaelites for twenty silverlings, and they bring Joseph into Egypt.
+
+v29 And Reuben returneth unto the pit, and lo, Joseph is not in the pit, and he rendeth his garments,
+
+v30 and he returneth unto his brethren, and saith, 'The lad is not, and I -- whither am I going?'
+
+v31 And they take the coat of Joseph, and slaughter a kid of the goats, and dip the coat in the blood,
+
+v32 and send the long coat, and they bring [it] in unto their father, and say, 'This have we found; discern, we pray thee, whether it [is] thy son's coat or not?'
+
+v33 And he discerneth it, and saith, 'My son's coat! an evil beast hath devoured him; torn -- torn is Joseph!'
+
+v34 And Jacob rendeth his raiment, and putteth sackcloth on his loins, and becometh a mourner for his son many days,
+
+v35 and all his sons and all his daughters rise to comfort him, and he refuseth to comfort himself, and saith, 'For -- I go down mourning unto my son, to Sheol,' and his father weepeth for him.
+
+v36 And the Medanites have sold him unto Egypt, to Potiphar, a eunuch of Pharaoh, head of the executioners.
+
+***
+
+[[Bible Versions/YLT/01 - Genesis/Genesis 36|← Genesis 36]] | [[Bible Versions/YLT/01 - Genesis/Genesis]] | [[Bible Versions/YLT/01 - Genesis/Genesis 38|Genesis 38 →]]

@@ -1,0 +1,45 @@
+# Ezekiel 31 (Darby Translation)
+
+[[Bible Versions/DARBY/26 - Ezekiel/Ezekiel 30|← Ezekiel 30]] | [[Bible Versions/DARBY/26 - Ezekiel/Ezekiel]] | [[Bible Versions/DARBY/26 - Ezekiel/Ezekiel 32|Ezekiel 32 →]]
+
+***
+
+v1 And it came to pass in the eleventh year, in the third [month], on the first of the month, [that] the word of Jehovah came unto me, saying,
+
+v2 Son of man, say unto Pharaoh king of Egypt, and to his multitude: Whom art thou like in thy greatness?
+
+v3 Behold, Assyria was a cedar in Lebanon, with fair branches and a shadowing shroud, and of a high stature: and his top was amidst the thick boughs.
+
+v4 The waters made him great, the deep set him up on high; its streams ran round about his plantation, and it sent out its rivulets unto all the trees of the field.
+
+v5 Therefore his height was exalted above all the trees of the field, and his boughs were multiplied, and his branches became long, because of great waters, when he shot forth.
+
+v6 All the fowl of the heavens made their nests in his boughs, and under his branches did all the beasts of the field bring forth their young, and under his shadow dwelt all the great nations.
+
+v7 Thus was he fair in his greatness, in the length of his branches: because his root was by great waters.
+
+v8 The cedars in the garden of God could not hide him; the cypresses were not like his boughs, and the plane-trees were not as his branches: no tree in the garden of God was like unto him in his beauty.
+
+v9 I had made him fair by the multitude of his branches; and all the trees of Eden, that were in the garden of God, envied him.
+
+v10 Therefore thus saith the Lord Jehovah: Because thou hast lifted up thyself in stature, ... and he hath set his top amidst the thick boughs, and his heart is lifted up in his height,
+
+v11 I have given him into the hand of the mighty one of the nations; he shall surely deal with him: I have driven him out for his wickedness.
+
+v12 And strangers, the terrible of the nations, have cut him off and have left him; upon the mountains and in all the valleys his branches are fallen, and his boughs are broken in all the watercourses of the land; and all the peoples of the earth are gone down from his shadow, and have left him.
+
+v13 Upon his fallen [trunk] do all the fowl of the heavens dwell, and all the beasts of the field are upon his branches:
+
+v14 to the end that none of all the trees by the waters exalt themselves in their stature, nor set their top amidst the thick boughs, and that none of them that drink water stand up in his height by himself; for they are all given over unto death in the lower parts of the earth, in the midst of the children of men, with them that go down to the pit.
+
+v15 Thus saith the Lord Jehovah: In the day when he went down to Sheol, I caused a mourning: I covered the deep for him, and I restrained the floods thereof, and the great waters were stayed; and I made Lebanon black for him, and all the trees of the field fainted for him.
+
+v16 I made the nations to shake at the sound of his fall, when I cast him down to Sheol, with them that go down into the pit; and all the trees of Eden, the choice and best of Lebanon, all that drink water, were comforted in the lower parts of the earth.
+
+v17 They also went down into Sheol with him unto them that were slain with the sword, and [that were] his arm, that dwelt under his shadow in the midst of the nations.
+
+v18 To whom art thou thus like in glory and in greatness among the trees of Eden? Yet shalt thou be brought down with the trees of Eden, unto the lower parts of the earth; thou shalt lie in the midst of the uncircumcised, with them that are slain by the sword. This is Pharaoh and all his multitude, saith the Lord Jehovah.
+
+***
+
+[[Bible Versions/DARBY/26 - Ezekiel/Ezekiel 30|← Ezekiel 30]] | [[Bible Versions/DARBY/26 - Ezekiel/Ezekiel]] | [[Bible Versions/DARBY/26 - Ezekiel/Ezekiel 32|Ezekiel 32 →]]

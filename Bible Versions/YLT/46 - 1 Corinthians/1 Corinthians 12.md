@@ -1,0 +1,71 @@
+# 1 Corinthians 12 (Young's Literal Translation)
+
+[[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians 11|← 1 Corinthians 11]] | [[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians]] | [[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians 13|1 Corinthians 13 →]]
+
+***
+
+v1 And concerning the spiritual things, brethren, I do not wish you to be ignorant;
+
+v2 ye have known that ye were nations, unto the dumb idols -- as ye were led -- being carried away;
+
+v3 wherefore, I give you to understand that no one, in the Spirit of God speaking, saith Jesus [is] anathema, and no one is able to say Jesus [is] Lord, except in the Holy Spirit.
+
+v4 And there are diversities of gifts, and the same Spirit;
+
+v5 and there are diversities of ministrations, and the same Lord;
+
+v6 and there are diversities of workings, and it is the same God -- who is working the all in all.
+
+v7 And to each hath been given the manifestation of the Spirit for profit;
+
+v8 for to one through the Spirit hath been given a word of wisdom, and to another a word of knowledge, according to the same Spirit;
+
+v9 and to another faith in the same Spirit, and to another gifts of healings in the same Spirit;
+
+v10 and to another in-workings of mighty deeds; and to another prophecy; and to another discernings of spirits; and to another [divers] kinds of tongues; and to another interpretation of tongues:
+
+v11 and all these doth work the one and the same Spirit, dividing to each severally as he intendeth.
+
+v12 For, even as the body is one, and hath many members, and all the members of the one body, being many, are one body, so also [is] the Christ,
+
+v13 for also in one Spirit we all to one body were baptized, whether Jews or Greeks, whether servants or freemen, and all into one Spirit were made to drink,
+
+v14 for also the body is not one member, but many;
+
+v15 if the foot may say, 'Because I am not a hand, I am not of the body;' it is not, because of this, not of the body;
+
+v16 and if the ear may say, 'Because I am not an eye, I am not of the body;' it is not, because of this, not of the body?
+
+v17 If the whole body [were] an eye, where the hearing? if the whole hearing, where the smelling?
+
+v18 and now, God did set the members each one of them in the body, according as He willed,
+
+v19 and if all were one member, where the body?
+
+v20 and now, indeed, [are] many members, and one body;
+
+v21 and an eye is not able to say to the hand, 'I have no need of thee;' nor again the head to the feet, 'I have no need of you.'
+
+v22 But much more the members of the body which seem to be more infirm are necessary,
+
+v23 and those that we think to be less honourable of the body, around these we put more abundant honour, and our unseemly things have seemliness more abundant,
+
+v24 and our seemly things have no need; but God did temper the body together, to the lacking part having given more abundant honour,
+
+v25 that there may be no division in the body, but that the members may have the same anxiety for one another,
+
+v26 and whether one member doth suffer, suffer with [it] do all the members, or one member is glorified, rejoice with [it] do all the members;
+
+v27 and ye are the body of Christ, and members in particular.
+
+v28 And some, indeed, did God set in the assembly, first apostles, secondly prophets, thirdly teachers, afterwards powers, afterwards gifts of healings, helpings, governings, divers kinds of tongues;
+
+v29 [are] all apostles? [are] all prophets? [are] all teachers? [are] all powers?
+
+v30 have all gifts of healings? do all speak with tongues? do all interpret?
+
+v31 and desire earnestly the better gifts; and yet a far excelling way do I shew to you:
+
+***
+
+[[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians 11|← 1 Corinthians 11]] | [[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians]] | [[Bible Versions/YLT/46 - 1 Corinthians/1 Corinthians 13|1 Corinthians 13 →]]

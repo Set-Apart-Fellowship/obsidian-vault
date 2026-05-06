@@ -1,0 +1,44 @@
+# Numbers 22 (Berean Standard Bible)
+[[Bible Versions/BSB/04 - Numbers/Numbers 21|← Numbers 21]] | [[Bible Versions/BSB/04 - Numbers/Numbers]] | [[Bible Versions/BSB/04 - Numbers/Numbers 23|Numbers 23 →]]
+***
+v1 Then the Israelites traveled on and camped in the plains of Moab near the Jordan, across from Jericho.
+v2 Now Balak son of Zippor saw all that Israel had done to the Amorites,
+v3 and Moab was terrified of the people because they were numerous. Indeed, Moab dreaded the Israelites.
+v4 So the Moabites said to the elders of Midian, “This horde will devour everything around us, as an ox licks up the grass of the field.” Since Balak son of Zippor was king of Moab at that time,
+v5 he sent messengers to summon Balaam son of Beor at Pethor, which is by the Euphrates in the land of his people. “Behold, a people has come out of Egypt,” said Balak. “They cover the face of the land and have settled next to me.
+v6 So please come now and put a curse on this people, because they are too mighty for me. Perhaps I may be able to defeat them and drive them out of the land; for I know that those you bless are blessed, and those you curse are cursed.”
+v7 The elders of Moab and Midian departed with the fees for divination in hand. They came to Balaam and relayed to him the words of Balak.
+v8 “Spend the night here,” Balaam replied, “and I will give you the answer that the LORD speaks to me.” So the princes of Moab stayed with Balaam.
+v9 Then God came to Balaam and asked, “Who are these men with you?”
+v10 And Balaam said to God, “Balak son of Zippor, king of Moab, sent me this message:
+v11 ‘Behold, a people has come out of Egypt, and they cover the face of the land. Now come and put a curse on them for me. Perhaps I may be able to fight against them and drive them away.’”
+v12 But God said to Balaam, “Do not go with them. You are not to curse this people, for they are blessed.”
+v13 So Balaam got up the next morning and said to Balak’s princes, “Go back to your homeland, because the LORD has refused to let me go with you.”
+v14 And the princes of Moab arose, returned to Balak, and said, “Balaam refused to come with us.”
+v15 Then Balak sent other princes, more numerous and more distinguished than the first messengers.
+v16 They came to Balaam and said, “This is what Balak son of Zippor says: ‘Please let nothing hinder you from coming to me,
+v17 for I will honor you richly and do whatever you say. So please come and put a curse on this people for me!’”
+v18 But Balaam replied to the servants of Balak, “If Balak were to give me his house full of silver and gold, I could not do anything small or great to go beyond the command of the LORD my God.
+v19 So now, please stay here overnight as the others did, that I may find out what else the LORD has to tell me.”
+v20 That night God came to Balaam and said, “Since these men have come to summon you, get up and go with them, but you must only do what I tell you.”
+v21 So in the morning Balaam got up, saddled his donkey, and went with the princes of Moab.
+v22 Then God’s anger was kindled because Balaam was going along, and the angel of the LORD stood in the road to oppose him. Balaam was riding his donkey, and his two servants were with him.
+v23 When the donkey saw the angel of the LORD standing in the road with a drawn sword in his hand, she turned off the path and went into a field. So Balaam beat her to return her to the path.
+v24 Then the angel of the LORD stood in a narrow passage between two vineyards, with walls on either side.
+v25 And the donkey saw the angel of the LORD and pressed herself against the wall, crushing Balaam’s foot against it. So he beat her once again.
+v26 And the angel of the LORD moved on ahead and stood in a narrow place where there was no room to turn to the right or left.
+v27 When the donkey saw the angel of the LORD, she lay down under Balaam, and he became furious and beat her with his staff.
+v28 Then the LORD opened the donkey’s mouth, and she said to Balaam, “What have I done to you that you have beaten me these three times?”
+v29 Balaam answered the donkey, “You have made a fool of me! If I had a sword in my hand, I would kill you right now!”
+v30 But the donkey said to Balaam, “Am I not the donkey you have ridden all your life until today? Have I ever treated you this way before?” “No,” he replied.
+v31 Then the LORD opened Balaam’s eyes, and he saw the angel of the LORD standing in the road with a drawn sword in his hand. And Balaam bowed low and fell facedown.
+v32 The angel of the LORD asked him, “Why have you beaten your donkey these three times? Behold, I have come out to oppose you, because your way is perverse before me.
+v33 The donkey saw me and turned away from me these three times. If she had not turned away, then by now I would surely have killed you and let her live.”
+v34 “I have sinned,” Balaam said to the angel of the LORD, “for I did not realize that you were standing in the road to confront me. And now, if this is displeasing in your sight, I will go back home.”
+v35 But the angel of the LORD said to Balaam, “Go with the men, but you are to speak only what I tell you.” So Balaam went with the princes of Balak.
+v36 When Balak heard that Balaam was coming, he went out to meet him at the Moabite city on the Arnon border, at the edge of his territory.
+v37 And he said to Balaam, “Did I not send you an urgent summons? Why did you not come to me? Am I really not able to reward you richly?”
+v38 “See, I have come to you,” Balaam replied, “but can I say just anything? I must speak only the word that God puts in my mouth.”
+v39 So Balaam accompanied Balak, and they came to Kiriath-huzoth.
+v40 Balak sacrificed cattle and sheep, and he gave portions to Balaam and the princes who were with him.
+v41 The next morning, Balak took Balaam and brought him up to Bamoth-baal. From there he could see the outskirts of the camp of the people.

@@ -1,0 +1,61 @@
+# Ezekiel 28 (American Standard Version)
+
+[[Bible Versions/ASV/26 - Ezekiel/Ezekiel 27|← Ezekiel 27]] | [[Bible Versions/ASV/26 - Ezekiel/Ezekiel]] | [[Bible Versions/ASV/26 - Ezekiel/Ezekiel 29|Ezekiel 29 →]]
+
+***
+
+v1 The word of Jehovah came again unto me, saying,
+
+v2 Son of man, say unto the prince of Tyre, Thus saith the Lord Jehovah: Because thy heart is lifted up, and thou hast said, I am a god, I sit in the seat of God, in the midst of the seas; yet thou art man, and not God, though thou didst set thy heart as the heart of God;-
+
+v3 behold, thou art wiser than Daniel; there is no secret that is hidden from thee;
+
+v4 by thy wisdom and by thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures;
+
+v5 by thy great wisdom [and] by thy traffic hast thou increased thy riches, and thy heart is lifted up because of thy riches;-
+
+v6 therefore thus saith the Lord Jehovah: Because thou hast set thy heart as the heart of God,
+
+v7 therefore, behold, I will bring strangers upon thee, the terrible of the nations; and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy brightness.
+
+v8 They shall bring thee down to the pit; and thou shalt die the death of them that are slain, in the heart of the seas.
+
+v9 Wilt thou yet say before him that slayeth thee, I am God? but thou art man, and not God, in the hand of him that woundeth thee.
+
+v10 Thou shalt die the death of the uncircumcised by the hand of strangers: for I have spoken it, saith the Lord Jehovah.
+
+v11 Moreover the word of Jehovah came unto me, saying,
+
+v12 Son of man, take up a lamentation over the king of Tyre, and say unto him, Thus saith the Lord Jehovah: Thou sealest up the sum, full of wisdom, and perfect in beauty.
+
+v13 Thou wast in Eden, the garden of God; every precious stone was thy covering, the sardius, the topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was in thee; in the day that thou wast created they were prepared.
+
+v14 Thou wast the anointed cherub that covereth: and I set thee, [so that] thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.
+
+v15 Thou wast perfect in thy ways from the day that thou wast created, till unrighteousness was found in thee.
+
+v16 By the abundance of thy traffic they filled the midst of thee with violence, and thou hast sinned: therefore have I cast thee as profane out of the mountain of God; and I have destroyed thee, O covering cherub, from the midst of the stones of fire.
+
+v17 Thy heart was lifted up because of thy beauty; thou hast corrupted thy wisdom by reason of thy brightness: I have cast thee to the ground; I have laid thee before kings, that they may behold thee.
+
+v18 By the multitude of thine iniquities, in the unrighteousness of thy traffic, thou hast profaned thy sanctuaries; therefore have I brought forth a fire from the midst of thee; it hath devoured thee, and I have turned thee to ashes upon the earth in the sight of all them that behold thee.
+
+v19 All they that know thee among the peoples shall be astonished at thee: thou art become a terror, and thou shalt nevermore have any being.
+
+v20 And the word of Jehovah came unto me, saying,
+
+v21 Son of man, set thy face toward Sidon, and prophesy against it,
+
+v22 and say, Thus saith the Lord Jehovah: Behold, I am against thee, O Sidon; and I will be glorified in the midst of thee; and they shall know that I am Jehovah, when I shall have executed judgments in her, and shall be sanctified in her.
+
+v23 For I will send pestilence into her, and blood into her streets; and the wounded shall fall in the midst of her, with the sword upon her on every side; and they shall know that I am Jehovah.
+
+v24 And there shall be no more a pricking brier unto the house of Israel, nor a hurting thorn of any that are round about them, that did despite unto them; and they shall know that I am the Lord Jehovah.
+
+v25 Thus saith the Lord Jehovah: When I shall have gathered the house of Israel from the peoples among whom they are scattered, and shall be sanctified in them in the sight of the nations, then shall they dwell in their own land which I gave to my servant Jacob.
+
+v26 And they shall dwell securely therein; yea, they shall build houses, and plant vineyards, and shall dwell securely, when I have executed judgments upon all those that do them despite round about them; and they shall know that I am Jehovah their God.
+
+***
+
+[[Bible Versions/ASV/26 - Ezekiel/Ezekiel 27|← Ezekiel 27]] | [[Bible Versions/ASV/26 - Ezekiel/Ezekiel]] | [[Bible Versions/ASV/26 - Ezekiel/Ezekiel 29|Ezekiel 29 →]]

@@ -1,0 +1,45 @@
+# Psalms 10 (World English Bible)
+
+[[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 9|← Psalms 9]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 11|Psalms 11 →]]
+
+***
+
+v1 Why do you stand far off, Yahweh?  Why do you hide yourself in times of trouble?
+
+v2 In arrogance, the wicked hunt down the weak;  They are caught in the schemes that they devise.
+
+v3 For the wicked boasts of his heart's cravings,  He blesses the greedy, and condemns Yahweh.
+
+v4 The wicked, in the pride of his face,  Has no room in his thoughts for God.
+
+v5 His ways are prosperous at all times;  He is haughty, and your laws are far from his sight: As for all his adversaries, he sneers at them.
+
+v6 He says in his heart, "I shall not be shaken;  For generations I shall have no trouble."
+
+v7 His mouth is full of cursing, deceit, and oppression.  Under his tongue is mischief and iniquity.
+
+v8 He lies in wait near the villages.  From ambushes, he murders the innocent. His eyes are secretly set against the helpless.
+
+v9 He lurks in secret as a lion in his ambush.  He lies in wait to catch the helpless.  He catches the helpless, when he draws him in his net.
+
+v10 The helpless are crushed, they collapse,  They fall under his strength.
+
+v11 He says in his heart, "God has forgotten.  He hides his face. He will never see it."
+
+v12 Arise, Yahweh! God, lift up your hand!  Don't forget the helpless.
+
+v13 Why does the wicked condemn God,  And say in his heart, "God won't call me into account?"
+
+v14 But you do see trouble and grief;  You consider it to take it into your hand.  You help the victim and the fatherless.
+
+v15 Break the arm of the wicked.  As for the evil man, seek out his wickedness until you find none.
+
+v16 Yahweh is King forever and ever!  The nations will perish out of his land.
+
+v17 Yahweh, you have heard the desire of the humble.  You will prepare their heart. You will cause your ear to hear,
+
+v18 To judge the fatherless and the oppressed,  That man who is of the earth may terrify no more.   Psalm 11 For the Chief Musician. By David.
+
+***
+
+[[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 9|← Psalms 9]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms]] | [[Bible Versions/YLT/WORLDENGLISH/19 - Psalms/Psalms 11|Psalms 11 →]]

@@ -1,0 +1,67 @@
+# Revelation 2 (Young's Literal Translation)
+
+[[Bible Versions/YLT/66 - Revelation/Revelation 1|← Revelation 1]] | [[Bible Versions/YLT/66 - Revelation/Revelation]] | [[Bible Versions/YLT/66 - Revelation/Revelation 3|Revelation 3 →]]
+
+***
+
+v1 'To the messenger of the Ephesian assembly write: These things saith he who is holding the seven stars in his right hand, who is walking in the midst of the seven lamp-stands -- the golden:
+
+v2 I have known thy works, and thy labour, and thy endurance, and that thou art not able to bear evil ones, and that thou hast tried those saying themselves to be apostles and are not, and hast found them liars,
+
+v3 and thou didst bear, and hast endurance, and because of my name hast toiled, and hast not been weary.
+
+v4 'But I have against thee: That thy first love thou didst leave!
+
+v5 remember, then, whence thou hast fallen, and reform, and the first works do; and if not, I come to thee quickly, and will remove thy lamp-stand from its place -- if thou mayest not reform;
+
+v6 but this thou hast, that thou dost hate the works of the Nicolaitans, that I also hate.
+
+v7 He who is having an ear -- let him hear what the Spirit saith to the assemblies: To him who is overcoming -- I will give to him to eat of the tree of life that is in the midst of the paradise of God.
+
+v8 'And to the messenger of the assembly of the Smyrneans write: These things saith the First and the Last, who did become dead and did live;
+
+v9 I have known thy works, and tribulation, and poverty -- yet thou art rich -- and the evil-speaking of those saying themselves to be Jews, and are not, but [are] a synagogue of the Adversary.
+
+v10 'Be not afraid of the things that thou art about to suffer; lo, the devil is about to cast of you to prison, that ye may be tried, and ye shall have tribulation ten days; become thou faithful unto death, and I will give to thee the crown of the life.
+
+v11 He who is having an ear -- let him hear what the Spirit saith to the assemblies: He who is overcoming may not be injured of the second death.
+
+v12 'And to the messenger of the assembly in Pergamos write: These things saith he who is having the sharp two-edged sword:
+
+v13 I have known thy works, and where thou dost dwell -- where the throne of the Adversary [is] -- and thou dost hold fast my name, and thou didst not deny my faith, even in the days in which Antipas [was] my faithful witness, who was put to death beside you, where the Adversary doth dwell.
+
+v14 'But I have against thee a few things: That thou hast there those holding the teaching of Balaam, who did teach Balak to cast a stumbling-block before the sons of Israel, to eat idol-sacrifices, and to commit whoredom;
+
+v15 so hast thou, even thou, those holding the teaching of the Nicolaitans -- which thing I hate.
+
+v16 'Reform! and if not, I come to thee quickly, and will fight against them with the sword of my mouth.
+
+v17 He who is having an ear -- let him hear what the Spirit saith to the assemblies: To him who is overcoming, I will give to him to eat from the hidden manna, and will give to him a white stone, and upon the stone a new name written, that no one knew except him who is receiving [it].
+
+v18 'And to the messenger of the assembly of Thyatira write: These things saith the Son of God, who is having his eyes as a flame of fire, and his feet like to fine brass;
+
+v19 I have known thy works, and love, and ministration, and faith, and thy endurance, and thy works -- and the last [are] more than the first.
+
+v20 'But I have against thee a few things: That thou dost suffer the woman Jezebel, who is calling herself a prophetess, to teach, and to lead astray, my servants to commit whoredom, and idol-sacrifices to eat;
+
+v21 and I did give to her a time that she might reform from her whoredom, and she did not reform;
+
+v22 lo, I will cast her into a couch, and those committing adultery with her into great tribulation -- if they may not repent of their works,
+
+v23 and her children I will kill in death, and know shall all the assemblies that I am he who is searching reins and hearts; and I will give to you -- to each -- according to your works.
+
+v24 'And to you I say, and to the rest who are in Thyatira, as many as have not this teaching, and who did not know the depths of the Adversary, as they say; I will not put upon you other burden;
+
+v25 but that which ye have -- hold ye, till I may come;
+
+v26 and he who is overcoming, and who is keeping unto the end my works, I will give to him authority over the nations,
+
+v27 and he shall rule them with a rod of iron -- as the vessels of the potter they shall be broken -- as I also have received from my Father;
+
+v28 and I will give to him the morning star.
+
+v29 He who is having an ear -- let him hear what the Spirit saith to the assemblies.
+
+***
+
+[[Bible Versions/YLT/66 - Revelation/Revelation 1|← Revelation 1]] | [[Bible Versions/YLT/66 - Revelation/Revelation]] | [[Bible Versions/YLT/66 - Revelation/Revelation 3|Revelation 3 →]]

@@ -1,0 +1,31 @@
+# Psalms 57 (Young's Literal Translation)
+
+[[Bible Versions/YLT/19 - Psalms/Psalms 56|← Psalms 56]] | [[Bible Versions/YLT/19 - Psalms/Psalms]] | [[Bible Versions/YLT/19 - Psalms/Psalms 58|Psalms 58 →]]
+
+***
+
+v1 To the Overseer. -- 'Destroy not.' -- A secret treasure of David, in his fleeing from the face of Saul into a cave. Favour me, O God, favour me, For in Thee is my soul trusting, And in the shadow of Thy wings I trust, Until the calamities pass over.
+
+v2 I call to God Most High, To God [who] is perfecting for me.
+
+v3 He sendeth from the heaven, and saveth me, He reproached -- who is panting after me. Selah. God sendeth forth His kindness and His truth.
+
+v4 My soul [is] in the midst of lions, I lie down [among] flames -- sons of men, Their teeth [are] a spear and arrows, And their tongue a sharp sword.
+
+v5 Be Thou exalted above the heavens, O God, Above all the earth Thine honour.
+
+v6 A net they have prepared for my steps, Bowed down hath my soul, They have digged before me a pit, They have fallen into its midst. Selah.
+
+v7 Prepared is my heart, O God, Prepared is my heart, I sing and praise.
+
+v8 Awake, mine honour, awake, psaltery and harp, I awake the morning dawn.
+
+v9 I thank Thee among the peoples, O Lord, I praise Thee among the nations.
+
+v10 For great unto the heavens [is] Thy kindness, And unto the clouds Thy truth.
+
+v11 Be thou exalted above the heavens, O God. Above all the earth Thine honour!
+
+***
+
+[[Bible Versions/YLT/19 - Psalms/Psalms 56|← Psalms 56]] | [[Bible Versions/YLT/19 - Psalms/Psalms]] | [[Bible Versions/YLT/19 - Psalms/Psalms 58|Psalms 58 →]]

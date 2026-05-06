@@ -1,0 +1,28 @@
+v1 And Saphanias the son of Nathan, and Godolias the son of Paschor, and Joachal the son of Semelias, heard the words which Jeremias spoke to the people, saying,
+v2 Thus saith the Lord; He that remains in this city shall die by the sword, and by the famine: but he that goes out to the Chaldeans shall live; and his soul shall be given him for a found treasure, and he shall live.
+v3 For thus saith the Lord; This city shall certainly be delivered into the hands of the host of the king of Babylon, and they shall take it.
+v4 And they said to the king, Let that man, we pray thee, be slain, for he weakens the hands of the fighting men that are left in the city, and the hands of all the people, speaking to them according to these words: for this man does not prophesy peace to this people, but evil.
+v5 Then the king said, Behold, he is in your hands. For the king could not resist them.
+v6 And they cast him into the dungeon of Melchias the king's son, which was in the court of the prison; and they let him down into the pit: and there was no water in the pit, but mire: and he was in the mire.
+v7 And Abdemelech the Ethiopian heard, (now he was in the king's household,) that they had put Jeremias into the dungeon; and the king was in the gate of Benjamin:
+v8 and he went forth to him, and spoke to the king and said,
+v9 Thou hast done evil in what thou hast done to slay this man with hunger: for there is no more bread in the city.
+v10 And the king commanded Abdemelech, saying, Take with thee hence thirty men, and bring him up out of the dungeon, that he die not.
+v11 So Abdemelech took the men, and went into the underground part of the king's house, and took thence old rags and old ropes, and threw them to Jeremias into the dungeon.
+v12 And he said, Put these under the ropes. And Jeremias did so.
+v13 And they drew him with the ropes, and lifted him out of the dungeon: and Jeremias remained in the court of the prison.
+v14 Then the king sent, and called him to himself into the house of Aselisel, which was in the house of the Lord: and the king said to him, I will ask thee a question, and I pray thee hide nothing from me.
+v15 And Jeremias said to the king, If I tell thee, wilt thou not certainly put me to death? and if I give thee counsel, thou wilt not at all hearken to me.
+v16 And the king swore to him, saying, As the Lord lives who gave us this soul, I will not slay thee, neither will I give thee into the hands of these men.
+v17 And Jeremias said to him, Thus saith the Lord; If thou wilt indeed go forth to the captains of the king of Babylon, thy soul shall live, and this city shall certainly not be burnt with fire; and thou shalt live, and thy house.
+v18 But if thou wilt not go forth, this city shall be delivered into the hands of the Chaldeans, and they shall burn it with fire, and thou shalt by no means escape.
+v19 And the king said to Jeremias, I consider the Jews that have gone over to the Chaldeans, lest they deliver me into their hands, and they mock me.
+v20 And Jeremias said, They shall in no wise deliver thee up. Hear the word of the Lord which I speak to thee; and it shall be better for thee, and thy soul shall live.
+v21 But if thou wilt not go forth, this is the word which the Lord has shewn me.
+v22 And, behold, all the women that are left in the house of the king of Juda were brought forth to the princes of the king of Babylon; and they said, The men who were at peace with thee have deceived thee, and will prevail against thee; and they shall cause thy foot to slide and fail, they have turned back from thee.
+v23 And they shall bring forth thy wives and thy children to the Chaldeans: and thou shalt by no means escape, for thou shalt be taken by the hand of the king of Babylon, and this city shall be burnt.
+v24 Then the king said to him, Let no man know any of these words, and certainly thou shalt not die.
+v25 And if the princes shall hear that I have spoken to thee, and they come to thee, and say to thee, Tell us, what said the king to thee? hide it not from us, and we will in no wise slay thee, and what said the king to thee?
+v26 Then thou shalt say to them, I brought my supplication before the presence of the king, that he would not send me back into the house of Jonathan, that I should die there.
+v27 And all the princes came to Jeremias, and asked him: and he told them according to all these words, which the king had commanded him. And they were silent, because the word of the Lord was not heard.
+v28 And Jeremias remained in the court of the prison, until the time when Jerusalem was taken.

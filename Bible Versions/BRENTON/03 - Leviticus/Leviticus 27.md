@@ -1,0 +1,34 @@
+v1 And the Lord spoke to Moses, saying,
+v2 Speak to the children of Israel, and thou shalt say to them, Whosoever shall vow a vow as the valuation of his soul for the Lord,
+v3 the valuation of a male from twenty years old to sixty years old shall be—his valuation shall be fifty didrachms of silver by the standard of the sanctuary.
+v4 And the valuation of a female shall be thirty didrachms.
+v5 And if it be from five years old to twenty, the valuation of a male shall be twenty didrachms, and of a female ten didrachms.
+v6 And from a month old to five years old, the valuation of a male shall be five didrachms, and of a female, three didrachms of silver.
+v7 And if from sixty years old and upward, if it be a male, his valuation shall be fifteen didrachms of silver, and if a female, ten didrachms.
+v8 And if the man be too poor for the valuation, he shall stand before the priest; and the priest shall value him: according to what the man who has vowed can afford, the priest shall value him.
+v9 And if it be from the cattle that are offered as a gift to the Lord, whoever shall offer one of these to the Lord, it shall be holy.
+v10 He shall not change it, a good for a bad, or a bad for a good; and if he do at all change it, a beast for a beast, it and the substitute shall be holy.
+v11 And if it be any unclean beast, of which none are offered as a gift to the Lord, he shall set the beast before the priest.
+v12 And the priest shall make a valuation between the good and the bad, and accordingly as the priest shall value it, so shall it stand.
+v13 And if the worshipper will at all redeem it, he shall add the fifth part to its value.
+v14 And whatsoever man shall consecrate his house as holy to the Lord, the priest shall make a valuation of it between the good and the bad: as the priest shall value it, so shall it stand.
+v15 And if he that has sanctified it should redeem his house, he shall add to it the fifth part of the money of the valuation, and it shall be his.
+v16 And if a man should hallow to the Lord a part of the field of his possession, then the valuation shall be according to its seed, fifty didrachms of silver for a homer of barley.
+v17 And if he should sanctify his field from the year of release, it shall stand according to his valuation.
+v18 And if he should sanctify his field in the latter time after the release, the priest shall reckon to him the money for the remaining years, until the next year of release, and it shall be deducted as an equivalent from his full valuation.
+v19 And if he that sanctified the field would redeem it, he shall add to its value the fifth part of the money, and it shall be his.
+v20 And if he do not redeem the field, but should sell the field to another man, he shall not after redeem it.
+v21 But the field shall be holy to the Lord after the release, as separated land; the priest shall have possession of it.
+v22 And if he should consecrate to the Lord of a field which he has bought, which is not of the field of his possession,
+v23 the priest shall reckon to him the full valuation from the year of release, and he shall pay the valuation in that day as holy to the Lord.
+v24 And in the year of release the land shall be restored to the man of whom the other bought it, whose the possession of the land was.
+v25 And every valuation shall be by holy weights: the didrachm shall be twenty oboli.
+v26 And every first-born which shall be produced among thy cattle shall be the Lord's, and no man shall sanctify it: whether calf or sheep, it is the Lord's.
+v27 But if he should redeem an unclean beast, according to its valuation, then he shall add the fifth part to it, and it shall be his; and if he redeem it not, it shall be sold according to its valuation.
+v28 And every dedicated thing which a man shall dedicate to the Lord of all that he has, whether man or beast, or of the field of his possession, he shall not sell it, nor redeem it: every devoted thing shall be most holy to the Lord.
+v29 And whatever shall be dedicated of men, shall not be ransomed, but shall be surely put to death.
+v30 Every tithe of the land, both of the seed of the land, and of the fruit of trees, is the Lord's, holy to the Lord.
+v31 And if a man should at all redeem his tithe, he shall add the fifth part to it, and it shall be his.
+v32 And every tithe of oxen, and of sheep, and whatsoever may come in numbering under the rod, the tenth shall be holy to the Lord.
+v33 Thou shalt not change a good for a bad, or a bad for a good; and if thou shouldest at all change it, its equivalent also shall be holy, it shall not be redeemed.
+v34 These are the commandments which the Lord commanded Moses for the sons of Israel in mount Sina.

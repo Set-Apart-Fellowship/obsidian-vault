@@ -1,0 +1,36 @@
+v1 And the word of the Lord came by the hand of Ju son of Anani to Baasa, saying ,
+v2 Forasmuch as I lifted thee up from the earth, and made thee ruler over my people Israel; and thou hast walked in the way of Jeroboam, and hast caused my people Israel to sin, to provoke me with their vanities;
+v3 Behold, I raise up enemies after Baasa, and after his house; and I will make thy house as the house of Jeroboam son of Nabat.
+v4 Him that dies of Baasa in the city the dogs shall devour, and him that dies of his in the field the birds of the sky shall devour.
+v5 Now the rest of the history of Baasa, and all that he did, and his mighty acts, behold, are not these written in the book of the chronicles of the kings of Israel?
+v6 And Baasa slept with his fathers, and they bury him in Thersa; and Ela his son reigns in his stead.
+v7 And the Lord spoke by Ju the son of Anani against Baasa, and against his house, even all the evil which he wrought before the Lord to provoke him to anger by the works of his hands, in being like the house of Jeroboam; and because he smote him.
+v8 And Ela son of Baasa reigned over Israel two years in Thersa.
+v9 And Zambri, captain of half his cavalry, conspired against him, while he was in Thersa, drinking himself drunk in the house of Osa the steward at Thersa.
+v10 And Zambri went in and smote him and slew him, and reigned in his stead.
+v11 And it came to pass when he reigned, when he sat upon his throne,
+v12 that he smote all the house of Baasa, according to the word which the Lord spoke against the house of Baasa, and to Ju the prophet,
+v13 for all the sins of Baasa and Ela his son, as he led Israel astray to sin, to provoke the Lord God of Israel with their vanities.
+v14 And the rest of the deeds of Ela which he did, behold, are not these written in the book of the chronicles of the kings of Israel?
+v15 And Zambri reigned in Thersa seven days: and the army of Israel was encamped against Gabathon of the Philistines.
+v16 And the people heard in the army, saying, Zambri has conspired and smitten the king: and the people of Israel made Ambri the captain of the host king in that day in the camp over Israel.
+v17 And Ambri went up, and all Israel with him, out of Gabathon; and they besieged Thersa.
+v18 And it came to pass when Zambri saw that his city was taken, that he goes into the inner chamber of the house of the king, and burnt the king's house over him, and died.
+v19 Because of his sins which he committed, doing that which was evil in the sight of the Lord, so as to walk in the way of Jeroboam the son of Nabat, and in his sins wherein he caused Israel to sin.
+v20 And the rest of the history of Zambri, and his conspiracies wherein he conspired, behold, are not these written in the book of the chronicles of the kings of Israel?
+v21 Then the people of Israel divides; half the people goes after Thamni the son of Gonath to make him king; and half the people goes after Ambri.
+v22 The people that followed Ambri overpowered the people that followed Thamni son of Gonath: and Thamni died and Joram his brother at that time, and Ambri reigned after Thamni.
+v23 In the thirty-first year of king Asa, Ambri begins to reign over Israel twelve years: he reigns six years in Thersa.
+v24 And Ambri bought the mount Semeron of Semer the lord of the mountain for two talents of silver; and he built upon the mountain, and they called the name of the mountain on which he built, after the name of Semer the lord of the mount, Semeron.
+v25 And Ambri did that which was evil in the sight of the Lord, and wrought wickedly beyond all that were before him.
+v26 And he walked in all the way of Jeroboam the son of Nabat, and in his sins wherewith he caused Israel to sin, to provoke the Lord God of Israel by their vanities.
+v27 And the rest of the acts of Ambri, and all that he did, and all his might, behold, are not these things written in the book of the chronicles of the kings of Israel?
+v28 And Ambri slept with his fathers, and is buried in Samaria; and Achaab his son reigns in his stead.
+v29 In the second year of Josaphat king of Juda, Achaab son of Ambri reigned over Israel in Samaria twenty-two years.
+v30 And Achaab did that which was evil in the sight of the Lord, and did more wickedly than all that were before him.
+v31 And it was not enough for him to walk in the sins of Jeroboam the son of Nabat, but he took to wife Jezabel the daughter of Jethebaal king of the Sidonians; and he went and served Baal, and worshipped him.
+v32 And he set up an altar to Baal in the house of his abominations, which he built in Samaria.
+v33 And Achaab made a grove; and Achaab did yet more abominably, to provoke the Lord God of Israel, and to sin against his own life so that he should be destroyed: he did evil above all the kings of Israel that were before him.
+v34 And in his days Achiel the Bæthelite built Jericho: he laid the foundation of it in Abiron his first-born, and he set up the doors of it in Segub his younger son, according to the word of the Lord which he spoke by Joshua the son of Naue.
+v35 Then the king of Israel said to Josaphat, I will send forth thy servants and my servants in the ship: but Josaphat would not.
+v36 And Josaphat slept with his fathers, and is buried with his fathers in the city of David: and Joram his son reigned in his stead.

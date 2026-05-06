@@ -1,0 +1,59 @@
+# Romans 7 (Darby Translation)
+
+[[Bible Versions/DARBY/45 - Romans/Romans 6|← Romans 6]] | [[Bible Versions/DARBY/45 - Romans/Romans]] | [[Bible Versions/DARBY/45 - Romans/Romans 8|Romans 8 →]]
+
+***
+
+v1 Are ye ignorant, brethren, (for I speak to those knowing law,) that law rules over a man as long as he lives?
+
+v2 For the married woman is bound by law to her husband so long as he is alive; but if the husband should die, she is clear from the law of the husband:
+
+v3 so then, the husband being alive, she shall be called an adulteress if she be to another man; but if the husband should die, she is free from the law, so as not to be an adulteress, though she be to another man.
+
+v4 So that, my brethren, *ye* also have been made dead to the law by the body of the Christ, to be to another, who has been raised up from among [the] dead, in order that we might bear fruit to God.
+
+v5 For when we were in the flesh the passions of sins, which [were] by the law, wrought in our members to bring forth fruit to death;
+
+v6 but now we are clear from the law, having died in that in which we were held, so that we should serve in newness of spirit, and not in oldness of letter.
+
+v7 What shall we say then? [is] the law sin? Far be the thought. But I had not known sin, unless by law: for I had not had conscience also of lust unless the law had said, Thou shalt not lust;
+
+v8 but sin, getting a point of attack by the commandment, wrought in me every lust; for without law sin [was] dead.
+
+v9 But *I* was alive without law once; but the commandment having come, sin revived, but *I* died.
+
+v10 And the commandment, which [was] for life, was found, [as] to me, itself [to be] unto death:
+
+v11 for sin, getting a point of attack by the commandment, deceived me, and by it slew [me].
+
+v12 So that the law indeed [is] holy, and the commandment holy, and just, and good.
+
+v13 Did then that which is good become death to me? Far be the thought. But sin, that it might appear sin, working death to me by that which is good; in order that sin by the commandment might become exceeding sinful.
+
+v14 For we know that the law is spiritual: but *I* am fleshly, sold under sin.
+
+v15 For that which I do, I do not own: for not what I will, this I do; but what I hate, this I practise.
+
+v16 But if what I do not will, this I practise, I consent to the law that [it is] right.
+
+v17 Now then [it is] no longer *I* [that] do it, but the sin that dwells in me.
+
+v18 For I know that in me, that is, in my flesh, good does not dwell: for to will is there with me, but to do right [I find] not.
+
+v19 For I do not practise the good that I will; but the evil I do not will, that I do.
+
+v20 But if what *I* do not will, this I practise, [it is] no longer *I* [that] do it, but the sin that dwells in me.
+
+v21 I find then the law upon *me* who will to practise what is right, that with *me* evil is there.
+
+v22 For I delight in the law of God according to the inward man:
+
+v23 but I see another law in my members, warring in opposition to the law of my mind, and bringing me into captivity to the law of sin which exists in my members.
+
+v24 O wretched man that I [am]! who shall deliver me out of this body of death?
+
+v25 I thank God, through Jesus Christ our Lord. So then *I* *myself* with the mind serve God's law; but with the flesh sin's law.
+
+***
+
+[[Bible Versions/DARBY/45 - Romans/Romans 6|← Romans 6]] | [[Bible Versions/DARBY/45 - Romans/Romans]] | [[Bible Versions/DARBY/45 - Romans/Romans 8|Romans 8 →]]

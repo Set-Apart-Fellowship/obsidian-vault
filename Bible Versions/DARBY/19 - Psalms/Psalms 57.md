@@ -1,0 +1,31 @@
+# Psalms 57 (Darby Translation)
+
+[[Bible Versions/DARBY/19 - Psalms/Psalms 56|← Psalms 56]] | [[Bible Versions/DARBY/19 - Psalms/Psalms]] | [[Bible Versions/DARBY/19 - Psalms/Psalms 58|Psalms 58 →]]
+
+***
+
+v1 {To the chief Musician. 'Destroy not.' Of David. Michtam; when he fled from Saul in the cave.} Be gracious unto me, O God, be gracious unto me; for my soul taketh refuge in thee: yea, in the shadow of thy wings do I take refuge, until the calamities be overpast.
+
+v2 I will call unto God, the Most High; unto Ã¹God that performeth [all] for me.
+
+v3 He will send from the heavens and save me; he hath covered with reproach him that would swallow me up. Selah. God hath sent forth his loving-kindness and his truth.
+
+v4 My soul is in the midst of lions; I lie down [among] them that breathe out flames, the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.
+
+v5 Be exalted above the heavens, O God; let thy glory be above all the earth!
+
+v6 They have prepared a net for my steps; my soul was bowed down: they have digged a pit before me; they are fallen into the midst thereof. Selah.
+
+v7 My heart is fixed, O God, my heart is fixed: I will sing, yea, I will sing psalms.
+
+v8 Awake, my glory; awake, lute and harp: I will wake the dawn.
+
+v9 I will give thee thanks among the peoples, O Lord; of thee will I sing psalms among the nations:
+
+v10 For thy loving-kindness is great unto the heavens, and thy truth unto the clouds.
+
+v11 Be exalted above the heavens, O God; let thy glory be above all the earth!
+
+***
+
+[[Bible Versions/DARBY/19 - Psalms/Psalms 56|← Psalms 56]] | [[Bible Versions/DARBY/19 - Psalms/Psalms]] | [[Bible Versions/DARBY/19 - Psalms/Psalms 58|Psalms 58 →]]

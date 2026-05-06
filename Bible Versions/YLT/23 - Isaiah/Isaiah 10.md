@@ -1,0 +1,77 @@
+# Isaiah 10 (Young's Literal Translation)
+
+[[Bible Versions/YLT/23 - Isaiah/Isaiah 9|← Isaiah 9]] | [[Bible Versions/YLT/23 - Isaiah/Isaiah]] | [[Bible Versions/YLT/23 - Isaiah/Isaiah 11|Isaiah 11 →]]
+
+***
+
+v1 Wo [to] those decreeing decrees of iniquity, And writers who have prescribed perverseness.
+
+v2 To turn aside from judgment the poor, And to take violently away the judgment Of the afflicted of My people, That widows may be their prey, That the fatherless they may spoil.
+
+v3 And what do ye at a day of inspection? And at desolation? -- from afar it cometh. Near whom do ye flee for help? And where do ye leave your honour?
+
+v4 Without Me it hath bowed down In the place of a bound one, And in the place of the slain they fall. With all this not turned back hath His anger, And still His hand is stretched out.
+
+v5 Wo [to] Asshur, a rod of Mine anger, And a staff in their hand [is] Mine indignation.
+
+v6 Against a profane nation I send him, And concerning a people of My wrath I charge him, To spoil spoil, and to seize prey, And to make it a treading-place as the clay of out places.
+
+v7 And he -- he thinketh not so, And his heart reckoneth not so, For -- to destroy [is] in his heart, And to cut off nations not a few.
+
+v8 For he saith, 'Are not my princes altogether kings?
+
+v9 Is not Calno as Carchemish? Is not Hamath as Arpad? Is not Samaria as Damascus?
+
+v10 As my hand hath got to the kingdoms of a worthless thing, and their graven images, [Greater] than Jerusalem and than Samaria,
+
+v11 Do I not -- as I have done to Samaria, And to her worthless things, So do to Jerusalem and to her grievous things?
+
+v12 And it hath come to pass, When the Lord doth fulfil all His work In mount Zion and in Jerusalem, I see concerning the fruit of the greatness Of the heart of the king of Asshur. And concerning the glory of the height of his eyes.
+
+v13 For he hath said, 'By the power of my hand I have wrought, And by my wisdom, for I have been intelligent, And I remove borders of the peoples, And their chief ones I have spoiled, And I put down as a mighty one the inhabitants,
+
+v14 And my hand as to a nest Getteth to the wealth of the peoples, And as a gathering of forsaken eggs All the earth I -- I have gathered, And there hath not been one moving wing, Or opening mouth, or whispering.'
+
+v15 -- Doth the axe glorify itself Against him who is hewing with it? Doth the saw magnify itself Against him who is shaking it? As a rod waving those lifting it up! As a staff lifting up that which is not wood!
+
+v16 Therefore doth the Lord, the Lord of Hosts, Send among his fat ones leanness, And under his honour He kindleth a burning As the burning of a fire.
+
+v17 And the light of Israel hath been for a fire, And his Holy One for a flame, And it hath burned, and devoured his thorn And his brier in one day.
+
+v18 And the honour of his forest, and his fruitful field, From soul even unto flesh He doth consume, And it hath been as the fainting of a standard-bearer.
+
+v19 And the rest of the trees of his forest [are] few, And a youth doth write them.
+
+v20 And it hath come to pass, in that day, The remnant of Israel, And the escaped of the house of Jacob, Do not add any more to lean on its smiter, And have leant on Jehovah, The Holy One of Israel, in truth.
+
+v21 A remnant returneth -- a remnant of Jacob, Unto the Mighty God.
+
+v22 For though thy people Israel be as the sand of the sea, A remnant doth return of it, A consumption determined, Overflowing [with] righteousness.
+
+v23 For a consumption that is determined, The Lord, Jehovah of Hosts, Is making in the midst of all the land.
+
+v24 Therefore, thus said the Lord, Jehovah of Hosts, 'Be not afraid, my people, inhabiting Zion, because of Asshur, With a rod he doth smite thee, And his staff lifteth up against thee, in the way of Egypt.
+
+v25 For yet a very little, And the indignation hath been completed, And Mine anger by their wearing out.
+
+v26 And awaking for him is Jehovah of Hosts, A scourge like the smiting of Midian at the rock Oreb, And his rod [is] over the sea, And he hath lifted it in the way of Egypt.
+
+v27 And it hath come to pass, in that day, Turned is his burden from off thy shoulder, And his yoke from off thy neck, And destroyed hath been the yoke, because of prosperity.
+
+v28 He hath come in against Aiath, He hath passed over into Migron, At Michmash he looketh after his vessels.
+
+v29 They have gone over the passage, Geba they have made a lodging place, Trembled hath Rama, Gibeah of Saul fled.
+
+v30 Cry aloud [with] thy voice, daughter of Gallim, Give attention, Laish! answer her, Anathoth.
+
+v31 Fled away hath Madmenah, The inhabitants of the high places have hardened themselves.
+
+v32 Yet to-day in Nob to remain, Wave its hand doth the mount of the daughter of Zion, The hill of Jerusalem.
+
+v33 Lo, the Lord, Jehovah of Hosts, Is lopping a branch with violence, And the high of stature are cut down, And the lofty are become low,
+
+v34 And He hath gone round the thickets of the forest with iron, And Lebanon by a mighty one falleth!
+
+***
+
+[[Bible Versions/YLT/23 - Isaiah/Isaiah 9|← Isaiah 9]] | [[Bible Versions/YLT/23 - Isaiah/Isaiah]] | [[Bible Versions/YLT/23 - Isaiah/Isaiah 11|Isaiah 11 →]]

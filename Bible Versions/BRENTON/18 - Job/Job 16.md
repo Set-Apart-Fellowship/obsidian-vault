@@ -1,0 +1,22 @@
+v1 But Job answered and said,
+v2 I have heard many such things: poor comforters are ye all.
+v3 What! is there any reason in vain words? or what will hinder thee from answering?
+v4 I also will speak as ye do : if indeed your soul were in my soul's stead, then would I insult you with words, and I would shake my head at you.
+v5 And would there were strength in my mouth, and I would not spare the movement of my lips.
+v6 For if I should speak, I shall not feel the pain of my wound: and if I should be silent, how shall I be wounded the less?
+v7 But now he has made me weary, and a worn-out fool; and thou hast laid hold of me.
+v8 My falsehood has become a testimony, and has risen up against me: it has confronted me to my face.
+v9 In his anger he has cast me down; he has gnashed his teeth upon me: the weapons of his robbers have fallen upon me.
+v10 He has attacked me with the keen glances of his eyes; with his sharp spear he has smitten me down upon my knees; and they have run upon me with one accord.
+v11 For the Lord has delivered me into the hands of unrighteous men, and thrown me upon the ungodly.
+v12 When I was at peace he distracted me: he took me by the hair of the head, and plucked it out: he set me up as a mark.
+v13 They surrounded me with spears, aiming at my reins: without sparing me they poured out my gall upon the ground.
+v14 They overthrew me with fall upon fall: they ran upon me in their might.
+v15 They sewed sackcloth upon my skin, and my strength has been spent on the ground.
+v16 My belly has been parched with wailing, and darkness is on my eyelids.
+v17 Yet there was no injustice in my hands, and my prayer is pure.
+v18 Earth, cover not over the blood of my flesh, and let my cry have no place.
+v19 And now, behold, my witness is in heaven, and my advocate is on high.
+v20 Let my supplication come to the Lord, and let mine eye weep before him.
+v21 Oh that a man might plead before the Lord, even as the son of man with his neighbour!
+v22 But my years are numbered and their end come, and I shall go by the way by which I shall not return.

@@ -1,0 +1,43 @@
+# Habakkuk 1 (Young's Literal Translation)
+
+[[Bible Versions/YLT/35 - Habakkuk/Habakkuk]] | [[Bible Versions/YLT/35 - Habakkuk/Habakkuk 2|Habakkuk 2 →]]
+
+***
+
+v1 The burden that Habakkuk the prophet hath seen:
+
+v2 Till when, O Jehovah, have I cried, And Thou dost not hear? I cry unto Thee -- 'Violence,' and Thou dost not save.
+
+v3 Why dost Thou shew me iniquity, And perversity dost cause to behold? And spoiling and violence [are] before me, And there is strife, and contention doth lift [itself] up,
+
+v4 Therefore doth law cease, And judgment doth not go forth for ever, For the wicked is compassing the righteous, Therefore wrong judgment goeth forth.
+
+v5 Look ye on nations, and behold and marvel greatly. For a work He is working in your days, Ye do not believe though it is declared.
+
+v6 For, lo, I am raising up the Chaldeans, The bitter and hasty nation, That is going to the broad places of earth, To occupy tabernacles not its own.
+
+v7 Terrible and fearful it [is], From itself its judgment and its excellency go forth.
+
+v8 Swifter than leopards have been its horses, And sharper than evening wolves, And increased have its horsemen, Even its horsemen from afar come in, They fly as an eagle, hasting to consume.
+
+v9 Wholly for violence it doth come in, Their faces swallowing up the east wind, And it doth gather as the sand a captivity.
+
+v10 And at kings it doth scoff, And princes [are] a laughter to it, At every fenced place it doth laugh, And it heapeth up dust, and captureth it.
+
+v11 Then passed on hath the spirit, Yea, he doth transgress, And doth ascribe this his power to his god.
+
+v12 Art not Thou of old, O Jehovah, my God, my Holy One? We do not die, O Jehovah, For judgment Thou hast appointed it, And, O Rock, for reproof Thou hast founded it.
+
+v13 Purer of eyes than to behold evil, To look on perverseness Thou art not able, Why dost Thou behold the treacherous? Thou keepest silent when the wicked Doth swallow the more righteous than he,
+
+v14 And Thou makest man as fishes of the sea, As a creeping thing -- none ruling over him.
+
+v15 Each of them with a hook he hath brought up, He doth catch it in his net, and gathereth it in his drag, Therefore he doth joy and rejoice.
+
+v16 Therefore he doth sacrifice to his net, And doth make perfume to his drag, For by them [is] his portion fertile, and his food fat.
+
+v17 Doth he therefore empty his net, And continually to slay nations spare not?
+
+***
+
+[[Bible Versions/YLT/35 - Habakkuk/Habakkuk]] | [[Bible Versions/YLT/35 - Habakkuk/Habakkuk 2|Habakkuk 2 →]]
