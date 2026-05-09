@@ -152,7 +152,7 @@ This takes a few minutes and creates a file at `Utilities/data/lxx-lemma-index.j
 | BRENTON | Brenton's English LXX (1851) |
 | INTERLINEAR | Hebrew/Greek with transliteration, Strong's, and morphology |
 
-> **BASIC (Bible in Basic English)** is not included — it is still under copyright. If you have your own licensed copy, you can add it to `Bible Versions/BASIC/` following the folder structure below.
+> **BASIC (Bible in Basic English)** is not included in this repo. It is public domain in the United States, but its copyright status outside the US is ambiguous due to GATT restoration and UK considerations. Users who want BBE can source it themselves and add it locally.
 
 ---
 
