@@ -1,0 +1,35 @@
+# Isaiah 55 (World English Bible)
+
+[[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 54|← Isaiah 54]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 56|Isaiah 56 →]]
+
+***
+
+v1 Ho, everyone who thirsts, come you to the waters, and he who has no money; come you, buy, and eat; yes, come, buy wine and milk without money and without price.
+
+v2 Why do you spend money for that which is not bread? and your labor for that which doesn't satisfy? listen diligently to me, and eat you that which is good, and let your soul delight itself in fatness.
+
+v3 Turn your ear, and come to me; hear, and your soul shall live: and I will make an everlasting covenant with you, even the sure mercies of David.
+
+v4 Behold, I have given him for a witness to the peoples, a leader and commander to the peoples.
+
+v5 Behold, you shall call a nation that you don't know; and a nation that didn't know you shall run to you, because of Yahweh your God, and for the Holy One of Israel; for he has glorified you.
+
+v6 Seek you Yahweh while he may be found; call you on him while he is near:
+
+v7 let the wicked forsake his way, and the unrighteous man his thoughts; and let him return to Yahweh, and he will have mercy on him; and to our God, for he will abundantly pardon.
+
+v8 For my thoughts are not your thoughts, neither are your ways my ways, says Yahweh.
+
+v9 For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.
+
+v10 For as the rain comes down and the snow from the sky, and doesn't return there, but waters the earth, and makes it bring forth and bud, and gives seed to the sower and bread to the eater;
+
+v11 so shall my word be that goes forth out of my mouth: it shall not return to me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.
+
+v12 For you shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing; and all the trees of the fields shall clap their hands.
+
+v13 Instead of the thorn shall come up the fir-tree; and instead of the brier shall come up the myrtle-tree: and it shall be to Yahweh for a name, for an everlasting sign that shall not be cut off.
+
+***
+
+[[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 54|← Isaiah 54]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 56|Isaiah 56 →]]

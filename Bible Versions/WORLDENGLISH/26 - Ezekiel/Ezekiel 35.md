@@ -1,0 +1,39 @@
+# Ezekiel 35 (World English Bible)
+
+[[Bible Versions/WORLDENGLISH/26 - Ezekiel/Ezekiel 34|← Ezekiel 34]] | [[Bible Versions/WORLDENGLISH/26 - Ezekiel/Ezekiel]] | [[Bible Versions/WORLDENGLISH/26 - Ezekiel/Ezekiel 36|Ezekiel 36 →]]
+
+***
+
+v1 Moreover the word of Yahweh came to me, saying,
+
+v2 Son of man, set your face against Mount Seir, and prophesy against it,
+
+v3 and tell it, Thus says the Lord Yahweh: Behold, I am against you, Mount Seir, and I will stretch out my hand against you, and I will make you a desolation and an astonishment.
+
+v4 I will lay your cities waste, and you shall be desolate; and you shall know that I am Yahweh.
+
+v5 Because you have had a perpetual enmity, and have given over the children of Israel to the power of the sword in the time of their calamity, in the time of the iniquity of the end;
+
+v6 therefore, as I live, says the Lord Yahweh, I will prepare you to blood, and blood shall pursue you: since you have not hated blood, therefore blood shall pursue you.
+
+v7 Thus will I make Mount Seir an astonishment and a desolation; and I will cut off from it him who passes through and him who returns.
+
+v8 I will fill its mountains with its slain: in your hills and in your valleys and in all your watercourses shall they fall who are slain with the sword.
+
+v9 I will make you a perpetual desolation, and your cities shall not be inhabited; and you shall know that I am Yahweh.
+
+v10 Because you have said, These two nations and these two countries shall be mine, and we will possess it; whereas Yahweh was there:
+
+v11 therefore, as I live, says the Lord Yahweh, I will do according to your anger, and according to your envy which you have showed out of your hatred against them; and I will make myself known among them, when I shall judge you.
+
+v12 You shall know that I, Yahweh, have heard all your insults which you have spoken against the mountains of Israel, saying, They are laid desolate, they are given us to devour.
+
+v13 You have magnified yourselves against me with your mouth, and have multiplied your words against me: I have heard it.
+
+v14 Thus says the Lord Yahweh: When the whole earth rejoices, I will make you desolate.
+
+v15 As you did rejoice over the inheritance of the house of Israel, because it was desolate, so will I do to you: you shall be desolate, Mount Seir, and all Edom, even all of it; and they shall know that I am Yahweh.
+
+***
+
+[[Bible Versions/WORLDENGLISH/26 - Ezekiel/Ezekiel 34|← Ezekiel 34]] | [[Bible Versions/WORLDENGLISH/26 - Ezekiel/Ezekiel]] | [[Bible Versions/WORLDENGLISH/26 - Ezekiel/Ezekiel 36|Ezekiel 36 →]]

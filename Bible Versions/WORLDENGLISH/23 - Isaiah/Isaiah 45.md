@@ -1,0 +1,59 @@
+# Isaiah 45 (World English Bible)
+
+[[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 44|← Isaiah 44]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 46|Isaiah 46 →]]
+
+***
+
+v1 Thus says Yahweh to his anointed, to Cyrus, whose right hand I have held, to subdue nations before him, and I will loose the loins of kings; to open the doors before him, and the gates shall not be shut:
+
+v2 I will go before you, and make the rough places smooth; I will break in pieces the doors of brass, and cut in sunder the bars of iron;
+
+v3 and I will give you the treasures of darkness, and hidden riches of secret places, that you may know that it is I, Yahweh, who call you by your name, even the God of Israel.
+
+v4 For Jacob my servant's sake, and Israel my chosen, I have called you by your name: I have surnamed you, though you have not known me.
+
+v5 I am Yahweh, and there is none else; besides me there is no God. I will gird you, though you have not known me;
+
+v6 that they may know from the rising of the sun, and from the west, that there is none besides me: I am Yahweh, and there is no one else.
+
+v7 I form the light, and create darkness; I make peace, and create evil. I am Yahweh, who does all these things.
+
+v8 Distil, you heavens, from above, and let the skies pour down righteousness: let the earth open, that it may bring forth salvation, and let it cause righteousness to spring up together; I, Yahweh, have created it.
+
+v9 Woe to him who strives with his Maker -- a potsherd among the potsherds of the earth! Shall the clay ask him who fashions it, "What are you making?" or your work, "He has no hands?"
+
+v10 Woe to him who says to a father, "What have you become the father of?" or to a woman, "With what do you travail?"
+
+v11 Thus says Yahweh, the Holy One of Israel, and his Maker: Ask me of the things that are to come; concerning my sons, and concerning the work of my hands, command you me.
+
+v12 I have made the earth, and created man on it: I, even my hands, have stretched out the heavens; and all their host have I commanded.
+
+v13 I have raised him up in righteousness, and I will make straight all his ways: he shall build my city, and he shall let my exiles go free, not for price nor reward, says Yahweh of Hosts.
+
+v14 Thus says Yahweh: "The labor of Egypt, and the merchandise of Ethiopia, and the Sabeans, men of stature, shall come over to you, and they shall be yours. They shall go after you. In chains they shall come over; and they shall fall down to you. They shall make supplication to you: 'Surely God is in you; and there is none else, there is no other god.
+
+v15 Most assuredly you are a God who hid yourself, God of Israel, the Savior.'   "
+
+v16 They shall be put to shame, yes, confounded, all of them; they shall go into confusion together who are makers of idols.
+
+v17 [But] Israel shall be saved by Yahweh with an everlasting salvation: you shall not be put to shame nor confounded world without end.
+
+v18 For thus says Yahweh who created the heavens, the God who formed the earth and made it, who established it and didn't create it a waste, who formed it to be inhabited: I am Yahweh; and there is no one else.
+
+v19 I have not spoken in secret, in a place of the land of darkness; I didn't say to the seed of Jacob, Seek you me in vain: I, Yahweh, speak righteousness, I declare things that are right.
+
+v20 Assemble yourselves and come; draw near together, you who have escaped from the nations: they have no knowledge who carry the wood of their engraved image, and pray to a god that can't save.
+
+v21 Declare you, and bring [it] forth; yes, let them take counsel together: who has showed this from ancient time? who has declared it of old? Haven't I, Yahweh? and there is no God else besides me, a just God and a Savior; there is no one besides me.
+
+v22 Look to me, and be you saved, all the ends of the earth; for I am God, and there is none else.
+
+v23 By myself have I sworn, the word is gone forth from my mouth [in] righteousness, and shall not return, that to me every knee shall bow, every tongue shall swear.
+
+v24 Only in Yahweh, it is said of me, is righteousness and strength; even to him shall men come; and all those who were incensed against him shall be put to shame.
+
+v25 In Yahweh shall all the seed of Israel be justified, and shall glory.
+
+***
+
+[[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 44|← Isaiah 44]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 46|Isaiah 46 →]]

@@ -1,0 +1,45 @@
+# James 3 (World English Bible)
+
+[[Bible Versions/WORLDENGLISH/59 - James/James 2|← James 2]] | [[Bible Versions/WORLDENGLISH/59 - James/James]] | [[Bible Versions/WORLDENGLISH/59 - James/James 4|James 4 →]]
+
+***
+
+v1 Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment.
+
+v2 For in many things we all stumble. If anyone doesn't stumble in word, the same is a perfect man, able to bridle the whole body also.
+
+v3 Indeed, we put bits into the horses' mouths so that they may obey us, and we turn about their whole body.
+
+v4 Behold, the ships also, though they are so big and are driven by fierce winds, are yet turned about by a very small rudder, wherever the pilot desires.
+
+v5 So the tongue is also a little member, and boasts great things. Behold, how much wood is kindled by how small a fire!
+
+v6 And the tongue is a fire. The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna.
+
+v7 For every kind of animal, bird, creeping thing, and thing in the sea, is tamed, and has been tamed by mankind.
+
+v8 But nobody can tame the tongue. It is a restless evil, full of deadly poison.
+
+v9 With it we bless our God and Father, and with it we curse men, who are made in the image of God.
+
+v10 Out of the same mouth comes forth blessing and cursing. My brothers, these things ought not to be so.
+
+v11 Does a spring send forth from the same opening fresh and bitter water?
+
+v12 Can a fig tree, my brothers, yield olives, or a vine figs? Thus no spring yields both salt water and fresh water.
+
+v13 Who is wise and understanding among you? Let him show his deeds done in gentleness of wisdom by his good life.
+
+v14 But if you have bitter jealousy and selfish ambition in your heart, don't boast and don't lie against the truth.
+
+v15 This wisdom is not that which comes down from above, but is earthly, sensual, and demonic.
+
+v16 For where jealousy and selfish ambition are, there is confusion and every evil deed.
+
+v17 But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy.
+
+v18 Now the fruit of righteousness is sown in peace by those who make peace.
+
+***
+
+[[Bible Versions/WORLDENGLISH/59 - James/James 2|← James 2]] | [[Bible Versions/WORLDENGLISH/59 - James/James]] | [[Bible Versions/WORLDENGLISH/59 - James/James 4|James 4 →]]

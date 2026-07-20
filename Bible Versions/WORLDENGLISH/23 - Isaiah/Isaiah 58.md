@@ -1,0 +1,37 @@
+# Isaiah 58 (World English Bible)
+
+[[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 57|← Isaiah 57]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 59|Isaiah 59 →]]
+
+***
+
+v1 Cry aloud, don't spare, lift up your voice like a trumpet, and declare to my people their disobedience, and to the house of Jacob their sins.
+
+v2 Yet they seek me daily, and delight to know my ways: as a nation that did righteousness, and didn't forsake the ordinance of their God, they ask of me righteous judgments; they delight to draw near to God.
+
+v3 Why have we fasted, [say they], and you don't see? [why] have we afflicted our soul, and you take no knowledge? Behold, in the day of your fast you find [your own] pleasure, and exact all your labors.
+
+v4 Behold, you fast for strife and contention, and to strike with the fist of wickedness: you don't fast this day so as to make your voice to be heard on high.
+
+v5 Is such the fast that I have chosen? the day for a man to afflict his soul? Is it to bow down his head as a rush, and to spread sackcloth and ashes under him? will you call this a fast, and an acceptable day to Yahweh?
+
+v6 Isn't this the fast that I have chosen: to loose the bonds of wickedness, to undo the bands of the yoke, and to let the oppressed go free, and that you break every yoke?
+
+v7 Isn't it to deal your bread to the hungry, and that you bring the poor who are cast out to your house? when you see the naked, that you cover him; and that you not hide yourself from your own flesh?
+
+v8 Then shall your light break forth as the morning, and your healing shall spring forth speedily; and your righteousness shall go before you; the glory of Yahweh shall by your rearward.
+
+v9 Then shall you call, and Yahweh will answer; you shall cry, and he will say, Here I am. If you take away from the midst of you the yoke, the putting forth of the finger, and speaking wickedly;
+
+v10 and if you draw out your soul to the hungry, and satisfy the afflicted soul: then shall your light rise in darkness, and your obscurity be as the noonday;
+
+v11 and Yahweh will guide you continually, and satisfy your soul in dry places, and make strong your bones; and you shall be like a watered garden, and like a spring of water, whose waters don't fail.
+
+v12 Those who shall be of you shall build the old waste places; you shall raise up the foundations of many generations; and you shall be called The repairer of the breach, The restorer of paths to dwell in.
+
+v13 If you turn away your foot from the Sabbath, from doing your pleasure on my holy day; and call the Sabbath a delight, [and] the holy of Yahweh honorable; and shall honor it, not doing your own ways, nor finding your own pleasure, nor speaking [your own] words:
+
+v14 then shall you delight yourself in Yahweh; and I will make you to ride on the high places of the earth; and I will feed you with the heritage of Jacob your father: for the mouth of Yahweh has spoken it.
+
+***
+
+[[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 57|← Isaiah 57]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah]] | [[Bible Versions/WORLDENGLISH/23 - Isaiah/Isaiah 59|Isaiah 59 →]]

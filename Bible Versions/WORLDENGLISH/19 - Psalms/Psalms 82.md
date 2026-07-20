@@ -1,0 +1,25 @@
+# Psalms 82 (World English Bible)
+
+[[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms 81|← Psalms 81]] | [[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms]] | [[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms 83|Psalms 83 →]]
+
+***
+
+v1 God presides in the great assembly.  He judges among the gods.
+
+v2 "How long will you judge unjustly,  And show partiality to the wicked?" Selah.
+
+v3 "Defend the weak, the poor, and the fatherless.  Maintain the rights of the poor and oppressed.
+
+v4 Rescue the weak and needy.  Deliver them out of the hand of the wicked."
+
+v5 They don't know, neither do they understand.  They walk back and forth in darkness.  All the foundations of the earth are shaken.
+
+v6 I said, "You are gods,  All of you are sons of the Most High.
+
+v7 Nevertheless you shall die like men,  And fall like one of the rulers."
+
+v8 Arise, God, judge the earth,  For you inherit all of the nations.   Psalm 83    A song. A Psalm by Asaph.
+
+***
+
+[[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms 81|← Psalms 81]] | [[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms]] | [[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms 83|Psalms 83 →]]

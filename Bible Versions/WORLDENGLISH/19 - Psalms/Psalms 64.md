@@ -1,0 +1,29 @@
+# Psalms 64 (World English Bible)
+
+[[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms 63|← Psalms 63]] | [[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms]] | [[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms 65|Psalms 65 →]]
+
+***
+
+v1 Hear my voice, God, in my complaint.  Preserve my life from fear of the enemy.
+
+v2 Hide me from the conspiracy of the wicked,  From the noisy crowd of the ones doing evil;
+
+v3 Who sharpen their tongue like a sword,  And aim their arrows, deadly words,
+
+v4 To shoot innocent men from ambushes.  They shoot at him suddenly and fearlessly.
+
+v5 They encourage themselves in evil plans.  They talk about laying snares secretly.  They say, "Who will see them?"
+
+v6 They plot injustice, saying, "We have made a perfect plan!"  Surely man's mind and heart are cunning.
+
+v7 But God will shoot at them.  They will be suddenly struck down with an arrow.
+
+v8 Their own tongues shall ruin them.  All who see them will shake their heads.
+
+v9 All mankind shall be afraid.  They shall declare the work of God,  And shall wisely ponder what he has done.
+
+v10 The righteous shall be glad in Yahweh,  And shall take refuge in him.  All the upright in heart shall praise him!   Psalm 65    For the Chief Musician. A Psalm by David. A song.
+
+***
+
+[[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms 63|← Psalms 63]] | [[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms]] | [[Bible Versions/WORLDENGLISH/19 - Psalms/Psalms 65|Psalms 65 →]]

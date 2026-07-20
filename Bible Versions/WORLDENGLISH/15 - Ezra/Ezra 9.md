@@ -1,0 +1,39 @@
+# Ezra 9 (World English Bible)
+
+[[Bible Versions/WORLDENGLISH/15 - Ezra/Ezra 8|← Ezra 8]] | [[Bible Versions/WORLDENGLISH/15 - Ezra/Ezra]] | [[Bible Versions/WORLDENGLISH/15 - Ezra/Ezra 10|Ezra 10 →]]
+
+***
+
+v1 Now when these things were done, the princes drew near to me, saying, The people of Israel, and the priests and the Levites, have not separated themselves from the peoples of the lands, [doing] according to their abominations, even of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.
+
+v2 For they have taken of their daughters for themselves and for their sons, so that the holy seed have mingled themselves with the peoples of the lands: yes, the hand of the princes and rulers has been chief in this trespass.
+
+v3 When I heard this thing, I tore my garment and my robe, and plucked off the hair of my head and of my beard, and sat down confounded.
+
+v4 Then were assembled to me everyone who trembled at the words of the God of Israel, because of the trespass of them of the captivity; and I sat confounded until the evening offering.
+
+v5 At the evening offering I arose up from my humiliation, even with my garment and my robe torn; and I fell on my knees, and spread out my hands to Yahweh my God;
+
+v6 and I said, my God, I am ashamed and blush to lift up my face to you, my God; for our iniquities are increased over our head, and our guiltiness is grown up to the heavens.
+
+v7 Since the days of our fathers we have been exceeding guilty to this day; and for our iniquities have we, our kings, and our priests, been delivered into the hand of the kings of the lands, to the sword, to captivity, and to plunder, and to confusion of face, as it is this day.
+
+v8 Now for a little moment grace has been showed from Yahweh our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
+
+v9 For we are bondservants; yet our God has not forsaken us in our bondage, but has extended lovingkindness to us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the ruins of it, and to give us a wall in Judah and in Jerusalem.
+
+v10 Now, our God, what shall we say after this? for we have forsaken your commandments,
+
+v11 which you have commanded by your servants the prophets, saying, The land, to which you go to possess it, is an unclean land through the uncleanness of the peoples of the lands, through their abominations, which have filled it from one end to another with their filthiness:
+
+v12 now therefore don't give your daughters to their sons, neither take their daughters to your sons, nor seek their peace or their prosperity forever; that you may be strong, and eat the good of the land, and leave it for an inheritance to your children forever.
+
+v13 After all that is come on us for our evil deeds, and for our great guilt, seeing that you our God have punished us less than our iniquities deserve, and have given us such a remnant,
+
+v14 shall we again break your commandments, and join in affinity with the peoples that do these abominations? would not you be angry with us until you had consumed us, so that there should be no remnant, nor any to escape?
+
+v15 Yahweh, the God of Israel, you are righteous; for we are left a remnant that is escaped, as it is this day: behold, we are before you in our guiltiness; for none can stand before you because of this.
+
+***
+
+[[Bible Versions/WORLDENGLISH/15 - Ezra/Ezra 8|← Ezra 8]] | [[Bible Versions/WORLDENGLISH/15 - Ezra/Ezra]] | [[Bible Versions/WORLDENGLISH/15 - Ezra/Ezra 10|Ezra 10 →]]
