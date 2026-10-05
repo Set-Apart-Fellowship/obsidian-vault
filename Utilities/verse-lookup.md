@@ -100,13 +100,17 @@ function getInterlinearWords(content, verseStart, verseEnd) {
     if (verse < verseStart || verse > verseEnd) continue;
     const parts = match[2].split("|");
     if (parts.length < 5) continue;
+    // Parsing can itself contain pipes (e.g. "Art | N-fs"), so anchor on
+    // the Strong's field and keep everything after it as the parsing.
+    let s = 3;
+    while (s < parts.length - 1 && !/^[HG]\d/.test(parts[s].trim())) s++;
     results.push({
       verse,
       orig:     parts[0],
       translit: parts[1],
-      english:  parts[2],
-      strongs:  parts[3],
-      parsing:  parts[4]
+      english:  parts.slice(2, s).join("|"),
+      strongs:  parts[s],
+      parsing:  parts.slice(s + 1).join("|").trim()
     });
   }
   return results;
@@ -186,9 +190,11 @@ if (showInterlinear && interlinearContent) {
     block += `\n**Interlinear (${lang})**\n\n`;
     block += "| V | Original | Translit | English | Strongs | Parsing |\n";
     block += "|---|----------|----------|---------|---------|--------|\n";
+    // Escape pipes so they don't split table cells
+    const cell = s => s.replace(/\|/g, "\\|");
     for (const w of words) {
       const vnum = verseStart === verseEnd ? "" : w.verse;
-      block += `| ${vnum} | ${w.orig} | ${w.translit} | ${w.english} | ${w.strongs} | ${w.parsing} |\n`;
+      block += `| ${vnum} | ${cell(w.orig)} | ${cell(w.translit)} | ${cell(w.english)} | ${cell(w.strongs)} | ${cell(w.parsing)} |\n`;
     }
   }
 }

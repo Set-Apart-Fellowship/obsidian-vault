@@ -447,7 +447,7 @@ v42 וְשִׁבְיָ֔ה|wə·šiḇ·yāh|and captives|H7633|Conj-w | N-fs
 v42 מֵרֹ֖אשׁ|mê·rōš|the heads|H7218|Prep-m | N-msc
 v42 פַּרְע֥וֹת|par·‘ō·wṯ|leaders|H6545|N-mpc
 v42 אוֹיֵֽב׃|’ō·w·yêḇ|of the enemy|H341|V-Qal-Prtcpl-ms
-v43 הַרְנִ֤ינוּ|har·nî·nū|Rejoice, [O heavens, with Him, <p class=|indent2|>and let all God's angels worship Him.]|H7442|V-Hifil-Imp-mp
+v43 הַרְנִ֤ינוּ|har·nî·nū|Rejoice, [O heavens, with Him, and let all God's angels worship Him.]|H7442|V-Hifil-Imp-mp
 v43 גוֹיִם֙|ḡō·w·yim|[Rejoice,] O nations|H1471|N-mp
 v43 עַמּ֔וֹ|‘am·mōw|[with] His people|H5971|N-msc | 3ms
 v43 כִּ֥י|kî|for|H3588|Conj
@@ -456,7 +456,7 @@ v43 עֲבָדָ֖יו|‘ă·ḇā·ḏāw|of His children|H5650|N-mpc | 3ms
 v43 יִקּ֑וֹם|yiq·qō·wm|He will avenge|H5358|V-Qal-Imperf-3ms
 v43 וְנָקָם֙|wə·nā·qām|vengeance|H5359|Conj-w | N-ms
 v43 יָשִׁ֣יב|yā·šîḇ|He will take|H7725|V-Hifil-Imperf-3ms
-v43 לְצָרָ֔יו|lə·ṣā·rāw|on His adversaries<p class=|indent2|> [and repay those who hate Him]|H6862|Prep-l | N-mpc | 3ms
+v43 לְצָרָ֔יו|lə·ṣā·rāw|on His adversaries [and repay those who hate Him]|H6862|Prep-l | N-mpc | 3ms
 v43 וְכִפֶּ֥ר|wə·ḵip·per|He will cleanse|H3722|Conj-w | V-Piel-ConjPerf-3ms
 v43 אַדְמָת֖וֹ|’aḏ·mā·ṯōw|His land|H127|N-fsc | 3ms
 v43 עַמּֽוֹ׃פ|‘am·mōw|[and] His people|H5971|N-msc | 3ms

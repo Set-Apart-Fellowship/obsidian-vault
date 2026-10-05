@@ -106,6 +106,8 @@ Run the script and type a reference into the prompt:
 
 > If a translation file is missing from your vault, it's silently skipped — no error, just not shown.
 
+> The Greek Septuagint (`LXX`) and Brenton's English Septuagint (`BRENTON`) are not part of verse-lookup. To read those, use **lxx-word-search** or **lxx-lemma-search** below.
+
 **What the interlinear looks like:**
 
 Each word in the original Hebrew or Greek gets its own row showing the original text, how to pronounce it, what it means in English, its Strong's number, and its grammatical parsing.
@@ -126,13 +128,7 @@ Run the script and type any Greek word or partial word into the prompt. Example:
 
 More powerful than word search — this finds every occurrence of a Greek word across all its different grammatical forms. For example, searching for any form of the verb "to say" (εἶπεν, εἶπον, λέγει, etc.) finds them all, because they all share the same underlying lemma.
 
-**One-time setup required:** This script needs an index file to work. You only need to build it once:
-
-1. Open your Terminal (Mac) or Command Prompt (Windows)
-2. Navigate to your vault folder
-3. Run: `python3 import_lxx_morph.py`
-
-This takes a few minutes and creates a file at `Utilities/data/lxx-lemma-index.json`. After that, the script works instantly every time.
+The lemma index it relies on (`Utilities/data/lxx-lemma-index.json`) ships prebuilt with the vault, so the script works out of the box — no setup needed.
 
 ---
 

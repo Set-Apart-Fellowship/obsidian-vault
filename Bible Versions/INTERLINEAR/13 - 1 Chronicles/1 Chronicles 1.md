@@ -108,7 +108,7 @@ v17 עֵילָ֣ם|‘ê·lām|Elam|H5867|N-proper-fs
 v17 וְאַשּׁ֔וּר|wə·’aš·šūr|Asshur|H804|Conj-w | N-proper-ms
 v17 וְאַרְפַּכְשַׁ֖ד|wə·’ar·paḵ·šaḏ|Arphaxad|H775|Conj-w | N-proper-ms
 v17 וְל֣וּד|wə·lūḏ|Lud|H3865|Conj-w | N-proper-ms
-v17 וַאֲרָ֑ם|wa·’ă·rām|and Aram. <p class=|list2|>[The sons of Aram:]|H758|Conj-w | N-proper-ms
+v17 וַאֲרָ֑ם|wa·’ă·rām|and Aram. [The sons of Aram:]|H758|Conj-w | N-proper-ms
 v17 וְע֥וּץ|wə·‘ūṣ|Uz|H5780|Conj-w | N-proper-ms
 v17 וְח֖וּל|wə·ḥūl|Hul|H2343|Conj-w | N-proper-ms
 v17 וְגֶ֥תֶר|wə·ḡe·ṯer|Gether|H1666|Conj-w | N-proper-ms

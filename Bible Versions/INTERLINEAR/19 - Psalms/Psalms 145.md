@@ -83,7 +83,7 @@ v13 עֹֽלָמִ֑ים|‘ō·lā·mîm|is an everlasting|H5769|N-mp
 v13 וּ֝מֶֽמְשֶׁלְתְּךָ֗|ū·mem·šel·tə·ḵā|and Your dominion|H4475|Conj-w | N-fsc | 2ms
 v13 בְּכָל־|bə·ḵāl|[endures] through all|H3605|Prep-b | N-msc
 v13 דּ֥וֹר|dō·wr|generations|H1755|N-ms
-v13 וָדֽוֹר׃|wā·ḏō·wr|The LORD is faithful in all His words <p class=|indent2|>and kind in all His actions|H1755|Conj-w | N-ms
+v13 וָדֽוֹר׃|wā·ḏō·wr|The LORD is faithful in all His words and kind in all His actions|H1755|Conj-w | N-ms
 v14 סוֹמֵ֣ךְ|sō·w·mêḵ|upholds|H5564|V-Qal-Prtcpl-ms
 v14 יְ֭הוָה|Yah·weh|The LORD|H3068|N-proper-ms
 v14 לְכָל־|lə·ḵāl|all|H3605|Prep-l | N-msc
