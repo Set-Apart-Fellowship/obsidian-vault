@@ -128,7 +128,20 @@ Run the script and type any Greek word or partial word into the prompt. Example:
 
 More powerful than word search — this finds every occurrence of a Greek word across all its different grammatical forms. For example, searching for any form of the verb "to say" (εἶπεν, εἶπον, λέγει, etc.) finds them all, because they all share the same underlying lemma.
 
-The lemma index it relies on (`Utilities/data/lxx-lemma-index.json`) ships prebuilt with the vault, so the script works out of the box — no setup needed.
+**One-time setup required:** This script needs a lemma index that you build yourself. The index isn't included in the vault because its lemma and gloss data come from CCAT-derived sources that can't be redistributed here.
+
+**Before you build it — the CCAT user declaration.** The lemma data comes from [eliranwong/LXX-Rahlfs-1935](https://github.com/eliranwong/LXX-Rahlfs-1935), which is derived from the CCAT LXX morphology (University of Pennsylvania) and licensed CC BY-NC-SA 4.0 (non-commercial). That project asks everyone to agree to and send the CCAT user declaration before downloading its data. Read the declaration here and follow its instructions:
+`http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/0-user-declaration.txt`
+
+Running the build script downloads that data, so only run it once you've agreed to those terms. The index you build falls under those same terms.
+
+**To build the index** (needs Python 3 and an internet connection; takes a few minutes):
+
+1. Open your Terminal (Mac) or Command Prompt (Windows)
+2. Navigate to your vault folder
+3. Run: `python3 import_lxx_morph.py` (on Windows you may need `python import_lxx_morph.py` instead)
+
+This creates `Utilities/data/lxx-lemma-index.json`. After that, the script works instantly every time.
 
 ---
 

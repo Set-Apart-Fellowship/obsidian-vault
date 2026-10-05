@@ -3,6 +3,10 @@
 !/.gitignore
 !/README.md
 !/LICENSE
+!/import_lxx_morph.py
 !/Bible Versions
 Bible Versions/BASIC
 **/.DS_Store
+
+# Built locally by import_lxx_morph.py (CCAT terms) — not distributed
+Utilities/data/lxx-lemma-index.json
