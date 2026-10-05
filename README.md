@@ -112,6 +112,8 @@ Run the script and type a reference into the prompt:
 
 Each word in the original Hebrew or Greek gets its own row showing the original text, how to pronounce it, what it means in English, its Strong's number, and its grammatical parsing.
 
+> **H0** in the Strong's column means the word has no Strong's number. It's almost always a one-letter Hebrew preposition (ל "to/for", ב "in", כ "like") carrying a pronoun ending, such as לָנוּ "to us" — Strong's never numbered these.
+
 ---
 
 ### lxx-word-search
