@@ -157,7 +157,7 @@ This creates `Utilities/data/lxx-lemma-index.json`. After that, the script works
 | YLT | Young's Literal Translation |
 | DARBY | Darby Translation |
 | WEYMOUTH | Weymouth New Testament (NT only) |
-| LXX | Swete Greek Septuagint (1909–1930) |
+| LXX | Swete Greek Septuagint (1909–1930), from [eliranwong/LXX-Swete-1930](https://github.com/eliranwong/LXX-Swete-1930) — **GPL-3.0**, see below |
 | BRENTON | Brenton's English LXX (1851) |
 | INTERLINEAR | Hebrew/Greek with transliteration, Strong's, and morphology |
 | INTERLINEAR (NT) | Greek text from bereanbible.com. Not the Textus Receptus: Mark 7:19 reads καθαρίζων (TR: καθαρίζον). |
@@ -199,3 +199,5 @@ That's: `Original | Transliteration | English gloss | Strong's number | Grammati
 ## License
 
 [CC0 1.0 Universal](LICENSE) — dedicated to the public domain. Use it however you like.
+
+**Exception:** `Bible Versions/LXX/` is licensed under the [GNU General Public License v3.0](<Bible Versions/LXX/LICENSE>). The Swete text itself is public domain; this digital edition comes from [eliranwong/LXX-Swete-1930](https://github.com/eliranwong/LXX-Swete-1930) by Eliran Wong, which is released under GPL-3.0. You can redistribute that folder freely, but under GPL-3.0 terms, not CC0.
