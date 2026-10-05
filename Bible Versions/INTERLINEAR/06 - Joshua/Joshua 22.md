@@ -99,7 +99,7 @@ v6 יְהוֹשֻׁ֑עַ|yə·hō·wō·šu·a‘|So Joshua|H3091|N-proper-ms
 v6 וַֽיְשַׁלְּחֵ֔ם|way·šal·lə·ḥêm|and sent them on their way|H7971|Conj-w | V-Piel-ConsecImperf-3ms | 3mp
 v6 וַיֵּלְכ֖וּ|way·yê·lə·ḵū|and they went|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v6 אֶל־|’el-|to|H413|Prep
-v6 אָהֳלֵיהֶֽם׃ס|’ā·ho·lê·hem|their homes|H168|N-mpc | 3mp
+v6 אָהֳלֵיהֶֽם׃|’ā·ho·lê·hem|their homes|H168|N-mpc | 3mp
 v7 וְלַחֲצִ֣י׀|wə·la·ḥă·ṣî|To the half-tribe|H2677|Conj-w, Prep-l, Art | N-msc
 v7 שֵׁ֣בֶט|šê·ḇeṭ|...|H7626|N-msc
 v7 הַֽמְנַשֶּׁ֗ה|ham·naš·šeh|of Manasseh|H4519|Art | N-proper-ms
@@ -143,7 +143,7 @@ v8 חִלְק֥וּ|ḥil·qū|Divide|H2505|V-Qal-Imp-mp
 v8 שְׁלַל־|šə·lal-|the spoil|H7998|N-msc
 v8 אֹיְבֵיכֶ֖ם|’ō·yə·ḇê·ḵem|of your enemies|H341|V-Qal-Prtcpl-mpc | 2mp
 v8 עִם־|‘im-|with|H5973|Prep
-v8 אֲחֵיכֶֽם׃פ|’ă·ḥê·ḵem|your brothers|H251|N-mpc | 2mp
+v8 אֲחֵיכֶֽם׃|’ă·ḥê·ḵem|your brothers|H251|N-mpc | 2mp
 v9 וַיָּשֻׁ֣בוּ|way·yā·šu·ḇū|-|H7725|Conj-w | V-Qal-ConsecImperf-3mp
 v9 וַיֵּלְכ֡וּ|way·yê·lə·ḵū|left|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v9 בְּנֵי־|bə·nê-|So the Reubenites|H1121|N-mpc
@@ -169,7 +169,7 @@ v9 אֶ֤רֶץ|’e·reṣ|...|H776|N-fsc
 v9 אֲחֻזָּתָם֙|’ă·ḥuz·zā·ṯām|...|H272|N-fsc | 3mp
 v9 אֲשֶׁ֣ר|’ă·šer|which|H834|Pro-r
 v9 נֹֽאחֲזוּ־|nō·ḥă·zū-|they had acquired|H270|V-Nifal-Perf-3cp
-v9 בָ֔הּ|ḇāh||H0|Prep | 3fs
+v9 בָ֔הּ|ḇāh|-|H0|Prep | 3fs
 v9 עַל־|‘al-|according to|H5921|Prep
 v9 פִּ֥י|pî|the command|H6310|N-msc
 v9 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -195,7 +195,7 @@ v10 מִזְבֵּ֙חַ֙|miz·bê·aḥ|altar|H4196|N-ms
 v10 עַל־|‘al-|by|H5921|Prep
 v10 הַיַּרְדֵּ֔ן|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
 v10 מִזְבֵּ֥חַ|miz·bê·aḥ|...|H4196|N-ms
-v10 גָּד֖וֹל|gā·ḏō·wl|vvv|H1419|Adj-ms
+v10 גָּד֖וֹל|gā·ḏō·wl|...|H1419|Adj-ms
 v10 לְמַרְאֶֽה׃|lə·mar·’eh|an imposing|H4758|Prep-l | N-ms
 v11 וַיִּשְׁמְע֥וּ|way·yiš·mə·‘ū|received|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v11 בְנֵֽי־|ḇə·nê-|Then the Israelites|H1121|N-mpc
@@ -234,7 +234,7 @@ v12 יִשְׂרָאֵל֙|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v12 שִׁלֹ֔ה|ši·lōh|at Shiloh|H7887|N-proper-fs
 v12 לַעֲל֥וֹת|la·‘ă·lō·wṯ|to go|H5927|Prep-l | V-Qal-Inf
 v12 עֲלֵיהֶ֖ם|‘ă·lê·hem|against them|H5921|Prep | 3mp
-v12 לַצָּבָֽא׃פ|laṣ·ṣā·ḇā|to war|H6635|Prep-l, Art | N-cs
+v12 לַצָּבָֽא׃|laṣ·ṣā·ḇā|to war|H6635|Prep-l, Art | N-cs
 v13 וַיִּשְׁלְח֨וּ|way·yiš·lə·ḥū|sent|H7971|Conj-w | V-Qal-ConsecImperf-3mp
 v13 בְנֵֽי־|ḇə·nê-|The Israelites|H1121|N-mpc
 v13 יִשְׂרָאֵ֜ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -279,7 +279,7 @@ v15 וַיָּבֹ֜אוּ|way·yā·ḇō·’ū|They went|H935|Conj-w | V-Qal-
 v15 אֶל־|’el-|to|H413|Prep
 v15 בְּנֵי־|bə·nê-|the Reubenites|H1121|N-mpc
 v15 רְאוּבֵ֧ן|rə·’ū·ḇên|...|H7205|N-proper-ms
-v15 וְאֶל־|wə·’el-||H413|Conj-w | Prep
+v15 וְאֶל־|wə·’el-|-|H413|Conj-w | Prep
 v15 בְּנֵי־|bə·nê-|the Gadites|H1121|N-mpc
 v15 גָ֛ד|ḡāḏ|...|H1410|N-proper-ms
 v15 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
@@ -352,7 +352,7 @@ v19 טְמֵאָ֜ה|ṭə·mê·’āh|is unclean|H2931|Adj-fs
 v19 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fsc
 v19 אֲחֻזַּתְכֶ֗ם|’ă·ḥuz·zaṯ·ḵem|of your inheritance|H272|N-fsc | 2mp
 v19 עִבְר֨וּ|‘iḇ·rū|[then] cross over|H5674|V-Qal-Imp-mp
-v19 לָכֶ֜ם|lā·ḵem||H0|Prep | 2mp
+v19 לָכֶ֜ם|lā·ḵem|-|H0|Prep | 2mp
 v19 אֶל־|’el-|to|H413|Prep
 v19 אֶ֨רֶץ|’e·reṣ|the land|H776|N-fsc
 v19 אֲחֻזַּ֤ת|’ă·ḥuz·zaṯ|possession|H272|N-fsc
@@ -395,7 +395,7 @@ v20 אִ֣ישׁ|’îš|...|H376|N-ms
 v20 אֶחָ֔ד|’e·ḥāḏ|only|H259|Number-ms
 v20 לֹ֥א|lō|Yet it was not|H3808|Adv-NegPrt
 v20 גָוַ֖ע|ḡā·wa‘|who perished|H1478|V-Qal-Perf-3ms
-v20 בַּעֲוֺנֽוֹ׃פ|ba·‘ă·wō·nōw|because of his sin|H5771|Prep-b | N-csc | 3ms
+v20 בַּעֲוֺנֽוֹ׃|ba·‘ă·wō·nōw|because of his sin|H5771|Prep-b | N-csc | 3ms
 v21 וַֽיַּעֲנוּ֙|way·ya·‘ă·nū|answered|H6030|Conj-w | V-Qal-ConsecImperf-3mp
 v21 בְּנֵי־|bə·nê-|Then the Reubenites|H1121|N-mpc
 v21 רְאוּבֵ֣ן|rə·’ū·ḇên|...|H7205|N-proper-ms
@@ -449,7 +449,7 @@ v23 יְהוָ֖ה|Yah·weh|may the LORD|H3068|N-proper-ms
 v23 ה֥וּא|hū|Himself|H1931|Pro-3ms
 v23 יְבַקֵּֽשׁ׃|yə·ḇaq·qêš|hold us accountable|H1245|V-Piel-Imperf-3ms
 v24 וְאִם־|wə·’im-|But in fact|H518|Conj
-v24 לֹ֤א|lō||H3808|Adv-NegPrt
+v24 לֹ֤א|lō|-|H3808|Adv-NegPrt
 v24 מִדְּאָגָה֙|mid·də·’ā·ḡāh|for fear|H1674|Prep-m | N-fs
 v24 מִדָּבָ֔ר|mid·dā·ḇār|...|H1697|Prep-m | N-ms
 v24 עָשִׂ֥ינוּ|‘ā·śî·nū|we have done|H6213|V-Qal-Perf-1cp
@@ -471,14 +471,14 @@ v25 נָֽתַן־|nā·ṯan-|has made|H5414|V-Qal-Perf-3ms
 v25 יְ֠הוָה|Yah·weh|For the LORD|H3068|N-proper-ms
 v25 בֵּינֵ֨נוּ|bê·nê·nū|between us|H996|Prep | 1cp
 v25 וּבֵינֵיכֶ֜ם|ū·ḇê·nê·ḵem|and you|H996|Conj-w | Prep | 2mp
-v25 בְּנֵי־|bə·nê-|vvv|H1121|N-mpc
+v25 בְּנֵי־|bə·nê-|...|H1121|N-mpc
 v25 רְאוּבֵ֤ן|rə·’ū·ḇên|Reubenites|H7205|N-proper-ms
 v25 וּבְנֵי־|ū·ḇə·nê-|and|H1121|Conj-w | N-mpc
 v25 גָד֙|ḡāḏ|Gadites|H1410|N-proper-ms
 v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 הַיַּרְדֵּ֔ן|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
 v25 אֵין־|’ên-|You have no|H369|Adv
-v25 לָכֶ֥ם|lā·ḵem||H0|Prep | 2mp
+v25 לָכֶ֥ם|lā·ḵem|-|H0|Prep | 2mp
 v25 חֵ֖לֶק|ḥê·leq|share|H2506|N-ms
 v25 בַּֽיהוָ֑ה|Yah·weh|in the LORD|H3068|Prep-b | N-proper-ms
 v25 וְהִשְׁבִּ֤יתוּ|wə·hiš·bî·ṯū|to stop|H7673|Conj-w | V-Hifil-ConjPerf-3cp
@@ -492,7 +492,7 @@ v25 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v26 וַנֹּ֕אמֶר|wan·nō·mer|That is why we said|H559|Conj-w | V-Qal-ConsecImperf-1cp
 v26 נַעֲשֶׂה־|na·‘ă·śeh-|Let us take action|H6213|V-Qal-Imperf.h-1cp
 v26 נָּ֣א|nā|...|H4994|Interjection
-v26 לָ֔נוּ|lā·nū||H0|Prep | 1cp
+v26 לָ֔נוּ|lā·nū|-|H0|Prep | 1cp
 v26 לִבְנ֖וֹת|liḇ·nō·wṯ|and build|H1129|Prep-l | V-Qal-Inf
 v26 אֶת־|’eṯ-|-|H853|DirObjM
 v26 הַמִּזְבֵּ֑חַ|ham·miz·bê·aḥ|an altar for ourselves|H4196|Art | N-ms
@@ -522,7 +522,7 @@ v27 בְנֵיכֶ֤ם|ḇə·nê·ḵem|your descendants|H1121|N-mpc | 2mp
 v27 מָחָר֙|mā·ḥār|Then in the future|H4279|Adv
 v27 לְבָנֵ֔ינוּ|lə·ḇā·nê·nū|to ours|H1121|Prep-l | N-mpc | 1cp
 v27 אֵין־|’ên-|You have no|H369|Adv
-v27 לָכֶ֥ם|lā·ḵem||H0|Prep | 2mp
+v27 לָכֶ֥ם|lā·ḵem|-|H0|Prep | 2mp
 v27 חֵ֖לֶק|ḥê·leq|share|H2506|N-ms
 v27 בַּיהוָֽה׃|Yah·weh|in the LORD|H3068|Prep-b | N-proper-ms
 v28 וַנֹּ֕אמֶר|wan·nō·mer|Therefore we said|H559|Conj-w | V-Qal-ConsecImperf-1cp
@@ -571,7 +571,7 @@ v29 יְהוָ֣ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v29 אֱלֹהֵ֔ינוּ|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
 v29 אֲשֶׁ֖ר|’ă·šer|which [stands]|H834|Pro-r
 v29 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
-v29 מִשְׁכָּנֽוֹ׃פ|miš·kā·nōw|His tabernacle|H4908|N-msc | 3ms
+v29 מִשְׁכָּנֽוֹ׃|miš·kā·nōw|His tabernacle|H4908|N-msc | 3ms
 v30 וַיִּשְׁמַ֞ע|way·yiš·ma‘|heard|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v30 פִּֽינְחָ֣ס|pî·nə·ḥās|When Phinehas|H6372|N-proper-ms
 v30 הַכֹּהֵ֗ן|hak·kō·hên|the priest|H3548|Art | N-ms
@@ -603,10 +603,10 @@ v31 אֶל־|’el-|to|H413|Prep
 v31 בְּנֵי־|bə·nê-|the descendants|H1121|N-mpc
 v31 רְאוּבֵ֨ן|rə·’ū·ḇên|of Reuben|H7205|N-proper-ms
 v31 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
-v31 בְּנֵי־|bə·nê-|vvv|H1121|N-mpc
+v31 בְּנֵי־|bə·nê-|...|H1121|N-mpc
 v31 גָ֜ד|ḡāḏ|Gad|H1410|N-proper-ms
 v31 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
-v31 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v31 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v31 מְנַשֶּׁ֗ה|mə·naš·šeh|and Manasseh|H4519|N-proper-ms
 v31 הַיּ֤וֹם׀|hay·yō·wm|Today|H3117|Art | N-ms
 v31 יָדַ֙עְנוּ֙|yā·ḏa‘·nū|we know|H3045|V-Qal-Perf-1cp
@@ -622,7 +622,7 @@ v31 הַזֶּ֑ה|haz·zeh|this|H2088|Art | Pro-ms
 v31 אָ֗ז|’āz|Consequently|H227|Adv
 v31 הִצַּלְתֶּ֛ם|hiṣ·ṣal·tem|you have delivered|H5337|V-Hifil-Perf-2mp
 v31 אֶת־|’eṯ-|-|H853|DirObjM
-v31 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v31 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v31 יִשְׂרָאֵ֖ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v31 מִיַּ֥ד|mî·yaḏ|from the hand|H3027|Prep-m | N-fsc
 v31 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -672,7 +672,7 @@ v33 רְאוּבֵ֥ן|rə·’ū·ḇên|...|H7205|N-proper-ms
 v33 וּבְנֵי־|ū·ḇə·nê-|and Gadites|H1121|Conj-w | N-mpc
 v33 גָ֖ד|ḡāḏ|...|H1410|N-proper-ms
 v33 יֹשְׁבִ֥ים|yō·šə·ḇîm|lived|H3427|V-Qal-Prtcpl-mp
-v33 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v33 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v34 וַֽיִּקְרְא֛וּ|way·yiq·rə·’ū|named|H7121|Conj-w | V-Qal-ConsecImperf-3mp
 v34 בְּנֵי־|bə·nê-|So the Reubenites|H1121|N-mpc
 v34 רְאוּבֵ֥ן|rə·’ū·ḇên|...|H7205|N-proper-ms
@@ -685,4 +685,4 @@ v34 הוּא֙|hū|It|H1931|Pro-3ms
 v34 בֵּֽינֹתֵ֔ינוּ|bê·nō·ṯê·nū|between us|H996|Prep | 1cp
 v34 כִּ֥י|kî|that|H3588|Conj
 v34 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v34 הָאֱלֹהִֽים׃פ|hā·’ĕ·lō·hîm|is God|H430|Art | N-mp
+v34 הָאֱלֹהִֽים׃|hā·’ĕ·lō·hîm|is God|H430|Art | N-mp

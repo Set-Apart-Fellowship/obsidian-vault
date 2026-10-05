@@ -174,7 +174,7 @@ v22 בַּֽעֱלִ֑י|ba·‘ĕ·lî|a pestle|H5940|Prep-b, Art | N-ms
 v22 לֹא־|lō-|will not|H3808|Adv-NegPrt
 v22 תָס֥וּר|ṯā·sūr|depart|H5493|V-Qal-Imperf-3fs
 v22 מֵ֝עָלָ֗יו|mê·‘ā·lāw|from him|H5921|Prep-m | 3ms
-v22 אִוַּלְתּֽוֹ׃פ|’iw·wal·tōw|[yet] his folly|H200|N-fsc | 3ms
+v22 אִוַּלְתּֽוֹ׃|’iw·wal·tōw|[yet] his folly|H200|N-fsc | 3ms
 v23 יָדֹ֣עַ|yā·ḏō·a‘|Be sure to know|H3045|V-Qal-InfAbs
 v23 תֵּ֭דַע|tê·ḏa‘|...|H3045|V-Qal-Imperf-2ms
 v23 פְּנֵ֣י|pə·nê|the state|H6440|N-cpc

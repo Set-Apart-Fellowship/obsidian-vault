@@ -66,7 +66,7 @@ v5 וְהַזְּקֵנִים֩|wə·haz·zə·qê·nîm|the elders|H2205|Conj-w
 v5 וְהָאֹמְנִ֨ים|wə·hā·’ō·mə·nîm|and the guardians|H539|Conj-w, Art | V-Qal-Prtcpl-mp
 v5 אֶל־|’el-|a message to|H413|Prep
 v5 יֵה֤וּא׀|yê·hū|Jehu|H3058|N-proper-ms
-v5 לֵאמֹר֙|lê·mōr||H559|Prep-l | V-Qal-Inf
+v5 לֵאמֹר֙|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v5 עֲבָדֶ֣יךָ|‘ă·ḇā·ḏe·ḵā|are your servants|H5650|N-mpc | 2ms
 v5 אֲנַ֔חְנוּ|’ă·naḥ·nū|We|H587|Pro-1cp
 v5 וְכֹ֛ל|wə·ḵōl|whatever|H3605|Conj-w | N-ms
@@ -86,7 +86,7 @@ v6 סֵ֨פֶר׀|sê·p̄er|letter|H5612|N-ms
 v6 שֵׁנִ֜ית|šê·nîṯ|a second|H8145|Number-ofs
 v6 לֵאמֹ֗ר|lê·mōr|and said|H559|Prep-l | V-Qal-Inf
 v6 אִם־|’im-|If|H518|Conj
-v6 לִ֨י|lî|vvv|H0|Prep | 1cs
+v6 לִ֨י|lî|...|H0|Prep | 1cs
 v6 אַתֶּ֜ם|’at·tem|you are on my side|H859|Pro-2mp
 v6 וּלְקֹלִ֣י׀|ū·lə·qō·lî|-|H6963|Conj-w, Prep-l | N-msc | 1cs
 v6 אַתֶּ֣ם|’at·tem|and if you|H859|Pro-2mp
@@ -176,9 +176,9 @@ v10 יִפֹּ֜ל|yip·pōl|will fail|H5307|V-Qal-Imperf-3ms
 v10 מִדְּבַ֤ר|mid·də·ḇar|a word|H1697|Prep-m | N-msc
 v10 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v10 אַ֔רְצָה|’ar·ṣāh|...|H776|N-fs | 3fs
-v10 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v10 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v10 דִּבֶּ֥ר|dib·ber|has spoken|H1696|V-Piel-Perf-3ms
-v10 יְהוָ֖ה|Yah·weh||H3068|N-proper-ms
+v10 יְהוָ֖ה|Yah·weh|-|H3068|N-proper-ms
 v10 עַל־|‘al-|against|H5921|Prep
 v10 בֵּ֣ית|bêṯ|the house|H1004|N-msc
 v10 אַחְאָ֑ב|’aḥ·’āḇ|of Ahab|H256|N-proper-ms
@@ -212,7 +212,7 @@ v12 וַיָּבֹ֔א|way·yā·ḇō|...|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v12 וַיֵּ֖לֶךְ|way·yê·leḵ|...|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v12 שֹׁמְר֑וֹן|šō·mə·rō·wn|toward Samaria|H8111|N-proper-fs
 v12 ה֛וּא|hū|...|H1931|Pro-3ms
-v12 בֵּֽית־|bêṯ-|vvv|H1044|N-msc
+v12 בֵּֽית־|bêṯ-|...|H1044|N-msc
 v12 עֵ֥קֶד|‘ê·qeḏ|At Beth-eked|H1044|N-proper-fs
 v12 הָרֹעִ֖ים|hā·rō·‘îm|of the Shepherds|H7462|Verb
 v12 בַּדָּֽרֶךְ׃|bad·dā·reḵ|-|H1870|Prep-b, Art | N-cs
@@ -244,7 +244,7 @@ v14 חַיִּ֑ים|ḥay·yîm|alive|H2416|Adj-mp
 v14 וַֽיִּשְׁחָט֞וּם|way·yiš·ḥā·ṭūm|then slaughtered them|H7819|Conj-w | V-Qal-ConsecImperf-3mp | 3mp
 v14 אֶל־|’el-|at|H413|Prep
 v14 בּ֣וֹר|bō·wr|the well|H953|N-msc
-v14 בֵּֽית־|bêṯ-|vvv|H1044|Prep
+v14 בֵּֽית־|bêṯ-|...|H1044|Prep
 v14 עֵ֗קֶד|‘ê·qeḏ|of Beth-eked|H1044|N-proper-fs
 v14 אַרְבָּעִ֤ים|’ar·bā·‘îm|forty-two|H705|Number-cp
 v14 וּשְׁנַ֙יִם֙|ū·šə·na·yim|...|H8147|Conj-w | Number-md
@@ -252,7 +252,7 @@ v14 אִ֔ישׁ|’îš|men|H376|N-ms
 v14 וְלֹֽא־|wə·lō-|He|H3808|Conj-w | Adv-NegPrt
 v14 הִשְׁאִ֥יר|hiš·’îr|spared|H7604|V-Hifil-Perf-3ms
 v14 אִ֖ישׁ|’îš|none|H376|N-ms
-v14 מֵהֶֽם׃ס|mê·hem|of them|H0|Prep-m | Pro-3mp
+v14 מֵהֶֽם׃|mê·hem|of them|H0|Prep-m | Pro-3mp
 v15 וַיֵּ֣לֶךְ|way·yê·leḵ|When he left|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v15 מִשָּׁ֡ם|miš·šām|there|H8033|Prep-m | Adv
 v15 וַיִּמְצָ֣א|way·yim·ṣā|he found|H4672|Conj-w | V-Qal-ConsecImperf-3ms
@@ -263,7 +263,7 @@ v15 רֵכָ֨ב|rê·ḵāḇ|of Rechab|H7394|N-proper-ms
 v15 לִקְרָאת֜וֹ|liq·rā·ṯōw|who was coming to meet him|H7122|Prep-l | V-Qal-Inf | 3ms
 v15 וַֽיְבָרְכֵ֗הוּ|way·ḇā·rə·ḵê·hū|[Jehu] greeted him|H1288|Conj-w | V-Piel-ConsecImperf-3ms | 3ms
 v15 וַיֹּ֨אמֶר|way·yō·mer|and asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v15 אֵלָ֜יו|’ê·lāw||H413|Prep | 3ms
+v15 אֵלָ֜יו|’ê·lāw|-|H413|Prep | 3ms
 v15 הֲיֵ֧שׁ|hă·yêš|Is|H3426|Adv
 v15 אֶת־|’eṯ-|...|H854|DirObjM
 v15 לְבָבְךָ֣|lə·ḇā·ḇə·ḵā|your heart|H3824|N-msc | 2ms
@@ -309,7 +309,7 @@ v17 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v17 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v17 דִּבֶּ֖ר|dib·ber|had spoken|H1696|V-Piel-Perf-3ms
 v17 אֶל־|’el-|to|H413|Prep
-v17 אֵלִיָּֽהוּ׃פ|’ê·lî·yā·hū|Elijah|H452|N-proper-ms
+v17 אֵלִיָּֽהוּ׃|’ê·lî·yā·hū|Elijah|H452|N-proper-ms
 v18 וַיִּקְבֹּ֤ץ|way·yiq·bōṣ|together|H6908|Conj-w | V-Qal-ConsecImperf-3ms
 v18 יֵהוּא֙|yê·hū|Then Jehu|H3058|N-proper-ms
 v18 אֶת־|’eṯ-|-|H853|DirObjM
@@ -425,7 +425,7 @@ v24 זְבָחִ֣ים|zə·ḇā·ḥîm|sacrifices|H2077|N-mp
 v24 וְעֹל֑וֹת|wə·‘ō·lō·wṯ|and burnt offerings|H5930|Conj-w | N-fp
 v24 וְיֵה֞וּא|wə·yê·hū|Now Jehu|H3058|Conj-w | N-proper-ms
 v24 שָׂם־|śām-|had stationed|H7760|V-Qal-Perf-3ms
-v24 ל֤וֹ|lōw||H0|Prep | 3ms
+v24 ל֤וֹ|lōw|-|H0|Prep | 3ms
 v24 בַחוּץ֙|ḇa·ḥūṣ|outside|H2351|Prep-b, Art | N-ms
 v24 שְׁמֹנִ֣ים|šə·mō·nîm|eighty|H8084|Number-cp
 v24 אִ֔ישׁ|’îš|men|H376|N-ms
@@ -457,7 +457,7 @@ v25 אִ֣ישׁ|’îš|let anyone|H376|N-ms
 v25 אַל־|’al-|Do not|H408|Adv
 v25 יֵצֵ֔א|yê·ṣê|out|H3318|V-Qal-Imperf-3ms
 v25 וַיַּכּ֖וּם|way·yak·kūm|put them|H5221|Conj-w | V-Hifil-ConsecImperf-3mp | 3mp
-v25 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v25 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v25 חָ֑רֶב|ḥā·reḇ|to the sword|H2719|N-fs
 v25 וַיַּשְׁלִ֗כוּ|way·yaš·li·ḵū|threw [the bodies] out|H7993|Conj-w | V-Hifil-ConsecImperf-3mp
 v25 הָֽרָצִים֙|hā·rā·ṣîm|So the guards|H7323|Art | V-Qal-Prtcpl-mp
@@ -506,10 +506,10 @@ v29 מֵאַֽחֲרֵיהֶ֑ם|mê·’a·ḥă·rê·hem|from|H310|Prep-m | 
 v29 עֶגְלֵי֙|‘eḡ·lê|calves|H5695|N-mpc
 v29 הַזָּהָ֔ב|haz·zā·hāḇ|the worship of the golden|H2091|Art | N-ms
 v29 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v29 בֵּֽית־|bêṯ-||H1008|Prep
+v29 בֵּֽית־|bêṯ-|-|H1008|Prep
 v29 אֵ֖ל|’êl|at Bethel|H1008|N-proper-fs
 v29 וַאֲשֶׁ֥ר|wa·’ă·šer|-|H834|Conj-w | Pro-r
-v29 בְּדָֽן׃ס|bə·ḏān|and Dan|H1835|Prep-b | N-proper-ms
+v29 בְּדָֽן׃|bə·ḏān|and Dan|H1835|Prep-b | N-proper-ms
 v30 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v30 יְהוָ֜ה|Yah·weh|Nevertheless, the LORD|H3068|N-proper-ms
 v30 אֶל־|’el-|to|H413|Prep
@@ -529,7 +529,7 @@ v30 אַחְאָ֑ב|’aḥ·’āḇ|of Ahab|H256|N-proper-ms
 v30 בְּנֵ֣י|bə·nê|of your sons|H1121|N-mpc
 v30 רְבִעִ֔ים|rə·ḇi·‘îm|four generations|H7243|Number-omp
 v30 יֵשְׁב֥וּ|yê·šə·ḇū|will sit|H3427|V-Qal-Imperf-3mp
-v30 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v30 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v30 עַל־|‘al-|on|H5921|Prep
 v30 כִּסֵּ֥א|kis·sê|the throne|H3678|N-msc
 v30 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -595,7 +595,7 @@ v34 כְּתוּבִ֗ים|kə·ṯū·ḇîm|are they not written|H3789|V-Qal-Q
 v34 עַל־|‘al-|in|H5921|Prep
 v34 סֵ֛פֶר|sê·p̄er|the Book|H5612|N-msc
 v34 דִּבְרֵ֥י|diḇ·rê|of the Chronicles|H1697|N-mpc
-v34 הַיָּמִ֖ים|hay·yā·mîm||H3117|Art | N-mp
+v34 הַיָּמִ֖ים|hay·yā·mîm|-|H3117|Art | N-mp
 v34 לְמַלְכֵ֥י|lə·mal·ḵê|of the Kings|H4428|Prep-l | N-mpc
 v34 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v35 וַיִּשְׁכַּ֤ב|way·yiš·kaḇ|rested|H7901|Conj-w | V-Qal-ConsecImperf-3ms
@@ -618,4 +618,4 @@ v36 יִשְׂרָאֵ֔ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v36 עֶשְׂרִ֥ים|‘eś·rîm|[was] twenty-eight|H6242|Number-cp
 v36 וּשְׁמֹנֶֽה־|ū·šə·mō·neh-|...|H8083|Conj-w | Number-fs
 v36 שָׁנָ֖ה|šā·nāh|years|H8141|N-fs
-v36 בְּשֹׁמְרֽוֹן׃פ|bə·šō·mə·rō·wn|in Samaria|H8111|Prep-b | N-proper-fs
+v36 בְּשֹׁמְרֽוֹן׃|bə·šō·mə·rō·wn|in Samaria|H8111|Prep-b | N-proper-fs

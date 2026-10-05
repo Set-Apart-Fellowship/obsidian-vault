@@ -29,7 +29,7 @@ v3 שָׁ֤ם|šām|...|H8033|Adv
 v3 אָהֳלֹה|ʾå̄·ho·lōh|his tent|H168|N-msc | 3ms
 v3 בַּתְּחִלָּ֔ה|bat·tə·ḥil·lāh|had formerly|H8462|Prep-b, Art | N-fs
 v3 בֵּ֥ין|bên|between|H996|Prep
-v3 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v3 בֵּֽית־|bêṯ-|...|H1008|Prep
 v3 אֵ֖ל|’êl|Bethel|H1008|N-proper-fs
 v3 וּבֵ֥ין|ū·ḇên|and|H996|Conj-w | Prep
 v3 הָעָֽי׃|hā·‘āy|Ai|H5857|Art | N-proper-fs
@@ -238,4 +238,4 @@ v18 בְּחֶבְר֑וֹן|bə·ḥeḇ·rō·wn|at Hebron|H2275|Prep-b | N-pr
 v18 וַיִּֽבֶן־|way·yi·ḇen-|he built|H1129|Conj-w | V-Qal-ConsecImperf-3ms
 v18 שָׁ֥ם|šām|where|H8033|Adv
 v18 מִזְבֵּ֖חַ|miz·bê·aḥ|an altar|H4196|N-ms
-v18 לַֽיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v18 לַֽיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms

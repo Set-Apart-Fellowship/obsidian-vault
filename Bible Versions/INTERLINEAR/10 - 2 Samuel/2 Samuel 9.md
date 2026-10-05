@@ -63,7 +63,7 @@ v4 בֵּ֛ית|bêṯ|at the house|H1004|N-msc
 v4 מָכִ֥יר|mā·ḵîr|of Machir|H4353|N-proper-ms
 v4 בֶּן־|ben-|son|H1121|N-msc
 v4 עַמִּיאֵ֖ל|‘am·mî·’êl|of Ammiel|H5988|N-proper-ms
-v4 בְּל֥וֹ|bə·lōw|vvv|H3810|Prep
+v4 בְּל֥וֹ|bə·lōw|...|H3810|Prep
 v4 דְבָֽר׃|ḏə·ḇār|in Lo-debar|H3810|Prep | N-proper-fs
 v5 וַיִּשְׁלַ֖ח|way·yiš·laḥ|-|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v5 הַמֶּ֣לֶךְ|ham·me·leḵ|So King|H4428|Art | N-ms
@@ -73,7 +73,7 @@ v5 מִבֵּ֛ית|mib·bêṯ|from the house|H1004|Prep-m | N-msc
 v5 מָכִ֥יר|mā·ḵîr|of Machir|H4353|N-proper-ms
 v5 בֶּן־|ben-|son|H1121|N-msc
 v5 עַמִּיאֵ֖ל|‘am·mî·’êl|of Ammiel|H5988|N-proper-ms
-v5 מִלּ֥וֹ|mil·lōw|vvv|H3810|Prep
+v5 מִלּ֥וֹ|mil·lōw|...|H3810|Prep
 v5 דְבָֽר׃|ḏə·ḇār|in Lo-debar|H3810|Prep | N-proper-fs
 v6 וַ֠יָּבֹא|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v6 מְפִיבֹ֨שֶׁת|mə·p̄î·ḇō·šeṯ|And when Mephibosheth|H4648|N-proper-ms
@@ -94,7 +94,7 @@ v6 וַיֹּ֖אמֶר|way·yō·mer|he replied|H559|Conj-w | V-Qal-ConsecImper
 v6 הִנֵּ֥ה|hin·nêh|...|H2009|Interjection
 v6 עַבְדֶּֽךָ׃|‘aḇ·de·ḵā|I am your servant|H5650|N-msc | 2ms
 v7 וַיֹּאמֶר֩|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v7 ל֨וֹ|lōw||H0|Prep | 3ms
+v7 ל֨וֹ|lōw|-|H0|Prep | 3ms
 v7 דָוִ֜ד|ḏā·wiḏ|David|H1732|N-proper-ms
 v7 אַל־|’al-|Do not|H408|Adv
 v7 תִּירָ֗א|tî·rā|be afraid|H3372|V-Qal-Imperf-2ms
@@ -219,4 +219,4 @@ v13 אֹכֵ֑ל|’ō·ḵêl|ate|H398|V-Qal-Prtcpl-ms
 v13 וְה֥וּא|wə·hū|...|H1931|Conj-w | Pro-3ms
 v13 פִסֵּ֖חַ|pis·sê·aḥ|and he was lame|H6455|Adj-ms
 v13 שְׁתֵּ֥י|šə·tê|in both|H8147|Number-fdc
-v13 רַגְלָֽיו׃פ|raḡ·lāw|feet|H7272|N-fdc | 3ms
+v13 רַגְלָֽיו׃|raḡ·lāw|feet|H7272|N-fdc | 3ms

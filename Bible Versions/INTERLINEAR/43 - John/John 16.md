@@ -2,7 +2,7 @@ v1 Ταῦτα|Tauta|these things|G3778|DPro-ANP
 v1 λελάληκα|lelalēka|I have told|G2980|V-RIA-1S
 v1 ὑμῖν|hymin|you|G4771|PPro-D2P
 v1 ἵνα|hina|so that|G2443|Conj
-v1 μὴ|mē|vvv|G3361|Adv
+v1 μὴ|mē|...|G3361|Adv
 v1 σκανδαλισθῆτε|skandalisthēte|you will not fall away|G4624|V-ASP-2P
 v2 ἀποσυναγώγους|aposynagōgous|out of the synagogues|G656|Adj-AMP
 v2 ποιήσουσιν|poiēsousin|They will put|G4160|V-FIA-3P
@@ -51,7 +51,7 @@ v4 δὲ|de|-|G1161|Conj
 v4 ὑμῖν|hymin|you|G4771|PPro-D2P
 v4 ἐξ|ex|from|G1537|Prep
 v4 ἀρχῆς|archēs|[the] beginning|G746|N-GFS
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 εἶπον|eipon|I did not tell|G2036|V-AIA-1S
 v4 ὅτι|hoti|because|G3754|Conj
 v4 μεθ’|meth’|with|G3326|Prep
@@ -100,8 +100,8 @@ v7 μὴ|mē|...|G3361|Adv
 v7 ἀπέλθω|apelthō|I go away|G565|V-ASA-1S
 v7 ὁ|ho|the|G3588|Art-NMS
 v7 Παράκλητος|Paraklētos|Advocate|G3875|N-NMS
-v7 οὐ|ou|vvv|G3756|Adv
-v7 μὴ|mē|vvv|G3361|Adv
+v7 οὐ|ou|...|G3756|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 ἔλθῃ|elthē|will not come|G2064|V-ASA-3S
 v7 πρὸς|pros|to|G4314|Prep
 v7 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -130,7 +130,7 @@ v9 περὶ|peri|in regard to|G4012|Prep
 v9 ἁμαρτίας|hamartias|sin|G266|N-GFS
 v9 μέν|men|-|G3303|Conj
 v9 ὅτι|hoti|because|G3754|Conj
-v9 οὐ|ou|vvv|G3756|Adv
+v9 οὐ|ou|...|G3756|Adv
 v9 πιστεύουσιν|pisteuousin|they do not believe|G4100|V-PIA-3P
 v9 εἰς|eis|in|G1519|Prep
 v9 ἐμέ|eme|Me|G1473|PPro-A1S
@@ -156,13 +156,13 @@ v11 τοῦ|tou|-|G3588|Art-GMS
 v11 κόσμου|kosmou|world|G2889|N-GMS
 v11 τούτου|toutou|of this|G3778|DPro-GMS
 v11 κέκριται|kekritai|has been condemned|G2919|V-RIM/P-3S
-v12 Ἔτι|Eti|vvv|G2089|Adv
+v12 Ἔτι|Eti|...|G2089|Adv
 v12 πολλὰ|polla|much|G4183|Adj-ANP
 v12 ἔχω|echō|I still have|G2192|V-PIA-1S
 v12 ὑμῖν|hymin|you|G4771|PPro-D2P
 v12 λέγειν|legein|to tell|G3004|V-PNA
 v12 ἀλλ’|all’|but|G235|Conj
-v12 οὐ|ou|vvv|G3756|Adv
+v12 οὐ|ou|...|G3756|Adv
 v12 δύνασθε|dynasthe|you cannot|G1410|V-PIM/P-2P
 v12 βαστάζειν|bastazein|bear [to hear it]|G941|V-PNA
 v12 ἄρτι|arti|yet|G737|Adv
@@ -180,7 +180,7 @@ v13 ἐν*|en|into|G1722|Prep
 v13 τῇ*|tē|-|G3588|Art-DFS
 v13 ἀληθείᾳ*|alētheia|truth|G225|N-DFS
 v13 πάσῃ*|pasē|all|G3956|Adj-DFS
-v13 οὐ|ou|vvv|G3756|Adv
+v13 οὐ|ou|...|G3756|Adv
 v13 γὰρ|gar|For|G1063|Conj
 v13 λαλήσει|lalēsei|He will not speak|G2980|V-FIA-3S
 v13 ἀφ’|aph’|on|G575|Prep
@@ -250,7 +250,7 @@ v17 λέγει|legei|He telling|G3004|V-PIA-3S
 v17 ἡμῖν|hēmin|us|G1473|PPro-D1P
 v17 Μικρὸν|Mikron|In a little [while]|G3398|Adj-ANS
 v17 καὶ|kai|...|G2532|Conj
-v17 οὐ|ou|vvv|G3756|Adv
+v17 οὐ|ou|...|G3756|Adv
 v17 θεωρεῖτέ|theōreite|you will not see|G2334|V-PIA-2P
 v17 με|me|Me|G1473|PPro-A1S
 v17 καὶ|kai|and|G2532|Conj
@@ -274,7 +274,7 @@ v18 ὃ|ho|-|G3739|RelPro-ANS
 v18 λέγει|legei|He saying|G3004|V-PIA-3S
 v18 Τὸ|To|a|G3588|Art-NNS
 v18 μικρόν|mikron|little [while]|G3398|Adj-ANS
-v18 οὐκ|ouk|vvv|G3756|Adv
+v18 οὐκ|ouk|...|G3756|Adv
 v18 οἴδαμεν|oidamen|We do not understand|G1492|V-RIA-1P
 v18 τί|ti|what|G5101|IPro-ANS
 v18 λαλεῖ|lalei|He is saying|G2980|V-PIA-3S
@@ -291,13 +291,13 @@ v19 αὐτοῖς|autois|to them|G846|PPro-DM3P
 v19 Περὶ|Peri|why|G4012|Prep
 v19 τούτου|toutou|...|G3778|DPro-GNS
 v19 ζητεῖτε|zēteite|Are you asking|G2212|V-PIA-2P
-v19 μετ’|met’|vvv|G3326|Prep
+v19 μετ’|met’|...|G3326|Prep
 v19 ἀλλήλων|allēlōn|one another|G240|RecPro-GMP
 v19 ὅτι|hoti|-|G3754|Conj
 v19 εἶπον|eipon|I said|G2036|V-AIA-1S
 v19 Μικρὸν|Mikron|In a little [while]|G3398|Adj-ANS
 v19 καὶ|kai|...|G2532|Conj
-v19 οὐ|ou|vvv|G3756|Adv
+v19 οὐ|ou|...|G3756|Adv
 v19 θεωρεῖτέ|theōreite|you will not see|G2334|V-PIA-2P
 v19 με|me|Me|G1473|PPro-A1S
 v19 καὶ|kai|and|G2532|Conj
@@ -330,7 +330,7 @@ v20 χαρὰν|charan|joy|G5479|N-AFS
 v20 γενήσεται|genēsetai|will turn|G1096|V-FIM-3S
 v21 ἡ|hē|-|G3588|Art-NFS
 v21 γυνὴ|gynē|A woman|G1135|N-NFS
-v21 ὅταν|hotan|vvv|G3752|Conj
+v21 ὅταν|hotan|...|G3752|Conj
 v21 τίκτῃ|tiktē|in childbirth|G5088|V-PSA-3S
 v21 λύπην|lypēn|pain|G3077|N-AFS
 v21 ἔχει|echei|has|G2192|V-PIA-3S
@@ -387,14 +387,14 @@ v23 ἐκείνῃ|ekeinē|that|G1565|DPro-DFS
 v23 τῇ|tē|-|G3588|Art-DFS
 v23 ἡμέρᾳ|hēmera|day|G2250|N-DFS
 v23 ἐμὲ|eme|Me|G1473|PPro-A1S
-v23 οὐκ|ouk|vvv|G3756|Adv
+v23 οὐκ|ouk|...|G3756|Adv
 v23 ἐρωτήσετε|erōtēsete|you will {no longer} ask|G2065|V-FIA-2P
 v23 οὐδέν|ouden|[anything]|G3762|Adj-ANS
 v23 ἀμὴν|amēn|Truly|G281|Heb
 v23 ἀμὴν|amēn|truly|G281|Heb
 v23 λέγω|legō|I tell|G3004|V-PIA-1S
 v23 ὑμῖν|hymin|you|G4771|PPro-D2P
-v23 ἄν|an|vvv|G302|Prtcl
+v23 ἄν|an|...|G302|Prtcl
 v23 τι|ti|whatever|G5100|IPro-ANS
 v23 αἰτήσητε|aitēsēte|you ask|G154|V-ASA-2P
 v23 τὸν|ton|the|G3588|Art-AMS
@@ -407,7 +407,7 @@ v23 ὀνόματί|onomati|name|G3686|N-DNS
 v23 μου»|mou|My|G1473|PPro-G1S
 v24 ἕως|heōs|Until|G2193|Prep
 v24 ἄρτι|arti|now|G737|Adv
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 ᾐτήσατε|ētēsate|you have not asked|G154|V-AIA-2P
 v24 οὐδὲν|ouden|[for anything]|G3762|Adj-ANS
 v24 ἐν|en|in|G1722|Prep
@@ -432,7 +432,7 @@ v25 ἔρχεται|erchetai|is coming|G2064|V-PIM/P-3S
 v25 ὥρα|hōra|An hour|G5610|N-NFS
 v25 ὅτε|hote|when|G3753|Adv
 v25 οὐκέτι|ouketi|...|G3765|Adv
-v25 ἐν|en|vvv|G1722|Prep
+v25 ἐν|en|...|G1722|Prep
 v25 παροιμίαις|paroimiais|[this way]|G3942|N-DFP
 v25 λαλήσω|lalēsō|I will no longer speak|G2980|V-FIA-1S
 v25 ὑμῖν|hymin|to you|G4771|PPro-D2P
@@ -453,7 +453,7 @@ v26 ὀνόματί|onomati|name|G3686|N-DNS
 v26 μου|mou|My|G1473|PPro-G1S
 v26 αἰτήσεσθε|aitēsesthe|you will ask|G154|V-FIM-2P
 v26 καὶ|kai|-|G2532|Conj
-v26 οὐ|ou|vvv|G3756|Adv
+v26 οὐ|ou|...|G3756|Adv
 v26 λέγω|legō|I am not saying|G3004|V-PIA-1S
 v26 ὑμῖν|hymin|-|G4771|PPro-D2P
 v26 ὅτι|hoti|that|G3754|Conj
@@ -505,13 +505,13 @@ v29 μαθηταὶ|mathētai|disciples|G3101|N-NMP
 v29 αὐτοῦ|autou|His|G846|PPro-GM3S
 v29 Ἴδε|Ide|See|G2400|V-AMA-2S
 v29 νῦν|nyn|now|G3568|Adv
-v29 ἐν|en|vvv|G1722|Prep
+v29 ἐν|en|...|G1722|Prep
 v29 παρρησίᾳ|parrēsia|plainly|G3954|N-DFS
 v29 λαλεῖς|laleis|You are speaking|G2980|V-PIA-2S
 v29 καὶ|kai|and|G2532|Conj
 v29 παροιμίαν|paroimian|figures of speech|G3942|N-AFS
 v29 οὐδεμίαν|oudemian|without|G3762|Adj-AFS
-v29 λέγεις|legeis|vvv|G3004|V-PIA-2S
+v29 λέγεις|legeis|...|G3004|V-PIA-2S
 v30 νῦν|nyn|Now|G3568|Adv
 v30 οἴδαμεν|oidamen|we understand|G1492|V-RIA-1P
 v30 ὅτι|hoti|that|G3754|Conj
@@ -535,7 +535,7 @@ v30 ἐξῆλθες|exēlthes|You came|G1831|V-AIA-2S
 v31 Ἀπεκρίθη|Apekrithē|replied|G611|V-AIP-3S
 v31 αὐτοῖς|autois|...|G846|PPro-DM3P
 v31 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
-v31 Ἄρτι|Arti|vvv|G737|Adv
+v31 Ἄρτι|Arti|...|G737|Adv
 v31 πιστεύετε|pisteuete|Do you finally believe|G4100|V-PIA-2P
 v32 ἰδοὺ|idou|Look|G2400|V-AMA-2S
 v32 ἔρχεται|erchetai|is coming|G2064|V-PIM/P-3S

@@ -6,7 +6,7 @@ v1 וּפֶ֤סֶל|ū·p̄e·sel|a carved image|H6459|Conj-w | N-ms
 v1 וּמַצֵּבָה֙|ū·maṣ·ṣê·ḇāh|or sacred pillar|H4676|Conj-w | N-fs
 v1 לֹֽא־|lō-|you must not|H3808|Adv-NegPrt
 v1 תָקִ֣ימוּ|ṯā·qî·mū|or set up|H6965|V-Hifil-Imperf-2mp
-v1 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v1 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v1 וְאֶ֣בֶן|wə·’e·ḇen|stone|H68|Conj-w | N-fsc
 v1 מַשְׂכִּ֗ית|maś·kîṯ|a sculpted|H4906|N-fs
 v1 לֹ֤א|lō|...|H3808|Adv-NegPrt
@@ -24,7 +24,7 @@ v2 תִּשְׁמֹ֔רוּ|tiš·mō·rū|You must keep|H8104|V-Qal-Imperf-2mp
 v2 וּמִקְדָּשִׁ֖י|ū·miq·dā·šî|My sanctuary|H4720|Conj-w | N-msc | 1cs
 v2 תִּירָ֑אוּ|tî·rā·’ū|and have reverence for|H3372|V-Qal-Imperf-2mp
 v2 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
-v2 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v2 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v3 אִם־|’im-|If|H518|Conj
 v3 בְּחֻקֹּתַ֖י|bə·ḥuq·qō·ṯay|My statutes|H2708|Prep-b | N-fpc | 1cs
 v3 תֵּלֵ֑כוּ|tê·lê·ḵū|you follow|H1980|V-Qal-Imperf-2mp
@@ -140,7 +140,7 @@ v13 מֹטֹ֣ת|mō·ṭōṯ|the bars|H4133|N-fpc
 v13 עֻלְּכֶ֔ם|‘ul·lə·ḵem|of your yoke|H5923|N-msc | 2mp
 v13 וָאוֹלֵ֥ךְ|wā·’ō·w·lêḵ|and enabled you to walk|H1980|Conj-w | V-Hifil-ConsecImperf-1cs
 v13 אֶתְכֶ֖ם|’eṯ·ḵem|-|H853|DirObjM | 2mp
-v13 קֽוֹמְמִיּֽוּת׃פ|qō·wm·mî·yūṯ|in uprightness|H6968|Adv
+v13 קֽוֹמְמִיּֽוּת׃|qō·wm·mî·yūṯ|in uprightness|H6968|Adv
 v14 וְאִם־|wə·’im-|If, however|H518|Conj
 v14 לֹ֥א|lō|you fail|H3808|Adv-NegPrt
 v14 תִשְׁמְע֖וּ|ṯiš·mə·‘ū|to obey|H8085|V-Qal-Imperf-2mp
@@ -200,7 +200,7 @@ v17 שֹֽׂנְאֵיכֶ֔ם|śō·nə·’ê·ḵem|Those who hate you|H8130|
 v17 וְנַסְתֶּ֖ם|wə·nas·tem|and you will flee|H5127|Conj-w | V-Qal-ConjPerf-2mp
 v17 וְאֵין־|wə·’ên-|when no one|H369|Conj-w | Adv
 v17 רֹדֵ֥ף|rō·ḏêp̄|pursues|H7291|V-Qal-Prtcpl-ms
-v17 אֶתְכֶֽם׃ס|’eṯ·ḵem|you|H853|DirObjM | 2mp
+v17 אֶתְכֶֽם׃|’eṯ·ḵem|you|H853|DirObjM | 2mp
 v18 וְאִ֨ם־|wə·’im-|And if|H518|Conj
 v18 עַד־|‘aḏ-|after|H5704|Prep
 v18 אֵ֔לֶּה|’êl·leh|all this|H428|Pro-cp
@@ -314,7 +314,7 @@ v26 לַחְמְכֶ֖ם|laḥ·mə·ḵem|your bread|H3899|N-msc | 2mp
 v26 בַּמִּשְׁקָ֑ל|bam·miš·qāl|by weight|H4948|Prep-b, Art | N-ms
 v26 וַאֲכַלְתֶּ֖ם|wa·’ă·ḵal·tem|so that you will eat|H398|Conj-w | V-Qal-ConjPerf-2mp
 v26 וְלֹ֥א|wə·lō|but not|H3808|Conj-w | Adv-NegPrt
-v26 תִשְׂבָּֽעוּ׃ס|ṯiś·bā·‘ū|be satisfied|H7646|V-Qal-Imperf-2mp
+v26 תִשְׂבָּֽעוּ׃|ṯiś·bā·‘ū|be satisfied|H7646|V-Qal-Imperf-2mp
 v27 וְאִ֨ם־|wə·’im-|But if|H518|Conj
 v27 בְּזֹ֔את|bə·zōṯ|in spite of all this|H2063|Prep-b | Pro-fs
 v27 לֹ֥א|lō|you do not|H3808|Adv-NegPrt
@@ -473,7 +473,7 @@ v40 בְּמַעֲלָ֖ם|bə·ma·‘ă·lām|in the unfaithfulness|H4604|Pre
 v40 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v40 מָֽעֲלוּ־|mā·‘ă·lū-|they practiced|H4603|V-Qal-Perf-3cp
 v40 בִ֑י|ḇî|against Me|H0|Prep | 1cs
-v40 וְאַ֕ף|wə·’ap̄|vvv|H637|Conj
+v40 וְאַ֕ף|wə·’ap̄|...|H637|Conj
 v40 אֲשֶׁר־|’ă·šer-|by which|H834|Pro-r
 v40 הָֽלְכ֥וּ|hā·lə·ḵū|they have also walked|H1980|V-Qal-Perf-3cp
 v40 עִמִּ֖י|‘im·mî|toward Me|H5973|Prep | 1cs
@@ -579,4 +579,4 @@ v46 יִשְׂרָאֵ֑ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v46 בְּהַ֥ר|bə·har|on Mount|H2022|Prep-b | N-msc
 v46 סִינַ֖י|sî·nay|Sinai|H5514|N-proper-fs
 v46 בְּיַד־|bə·yaḏ-|through|H3027|Prep-b | N-fsc
-v46 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v46 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms

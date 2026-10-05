@@ -51,7 +51,7 @@ v4 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v4 עַל־|‘al-|on|H5921|Prep
 v4 שְׂפַת־|śə·p̄aṯ-|the seashore|H8193|N-fsc
 v4 הַיָּ֖ם|hay·yām|...|H3220|Art | N-ms
-v4 לָרֹ֑ב|lā·rōḇ||H7230|Prep-l, Art | N-ms
+v4 לָרֹ֑ב|lā·rōḇ|-|H7230|Prep-l, Art | N-ms
 v4 וְס֥וּס|wə·sūs|of horses|H5483|Conj-w | N-ms
 v4 וָרֶ֖כֶב|wā·re·ḵeḇ|and chariots|H7393|Conj-w | N-ms
 v4 רַב־|raḇ-|along with a great number|H7227|Adj-ms
@@ -60,7 +60,7 @@ v5 וַיִּוָּ֣עֲד֔וּ|way·yiw·wā·‘ă·ḏū|joined forces|H32
 v5 כֹּ֖ל|kōl|All|H3605|N-msc
 v5 הַמְּלָכִ֣ים|ham·mə·lā·ḵîm|kings|H4428|Art | N-mp
 v5 הָאֵ֑לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
-v5 וַיָּבֹ֜אוּ|way·yā·ḇō·’ū|vvv|H935|Conj-w | V-Qal-ConsecImperf-3mp
+v5 וַיָּבֹ֜אוּ|way·yā·ḇō·’ū|...|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v5 וַיַּחֲנ֤וּ|way·ya·ḥă·nū|and encamped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
 v5 יַחְדָּו֙|yaḥ·dāw|-|H3162|Adv
 v5 אֶל־|’el-|at|H413|Prep
@@ -68,7 +68,7 @@ v5 מֵ֣י|mê|the waters|H4325|N-mpc
 v5 מֵר֔וֹם|mê·rō·wm|of Merom|H4792|N-proper-fs
 v5 לְהִלָּחֵ֖ם|lə·hil·lā·ḥêm|to fight|H3898|Prep-l | V-Nifal-Inf
 v5 עִם־|‘im-|against|H5973|Prep
-v5 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v5 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v6 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 יְהוָ֣ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v6 אֶל־|’el-|to|H413|Prep
@@ -127,7 +127,7 @@ v8 וַיַּכֻּ֕ם|way·yak·kum|They struck them down|H5221|Conj-w | V-Hif
 v8 עַד־|‘aḏ-|...|H5704|Prep
 v8 בִּלְתִּ֥י|bil·tî|no|H1115|Prep
 v8 הִשְׁאִֽיר־|hiš·’îr-|leaving|H7604|V-Hifil-Perf-3ms
-v8 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v8 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v8 שָׂרִֽיד׃|śā·rîḏ|survivors|H8300|N-ms
 v9 וַיַּ֤עַשׂ|way·ya·‘aś|treated|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v9 לָהֶם֙|lā·hem|them|H0|Prep | 3mp
@@ -142,7 +142,7 @@ v9 עִקֵּ֔ר|‘iq·qêr|he hamstrung|H6131|V-Piel-Perf-3ms
 v9 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v9 מַרְכְּבֹתֵיהֶ֖ם|mar·kə·ḇō·ṯê·hem|their chariots|H4818|N-fpc | 3mp
 v9 שָׂרַ֥ף|śā·rap̄|and burned up|H8313|V-Qal-Perf-3ms
-v9 בָּאֵֽשׁ׃ס|bā·’êš|...|H784|Prep-b, Art | N-cs
+v9 בָּאֵֽשׁ׃|bā·’êš|...|H784|Prep-b, Art | N-cs
 v10 וַיָּ֨שָׁב|way·yā·šāḇ|turned back|H7725|Conj-w | V-Qal-ConsecImperf-3ms
 v10 יְהוֹשֻׁ֜עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v10 בָּעֵ֤ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
@@ -233,9 +233,9 @@ v14 חֶ֗רֶב|ḥe·reḇ|to the sword|H2719|N-fs
 v14 עַד־|‘aḏ-|until|H5704|Prep
 v14 הִשְׁמִדָם֙|hiš·mi·ḏām|they had completely destroyed them|H8045|V-Hifil-Inf | 3mp
 v14 אוֹתָ֔ם|’ō·w·ṯām|-|H853|DirObjM | 3mp
-v14 לֹ֥א|lō||H3808|Adv-NegPrt
+v14 לֹ֥א|lō|-|H3808|Adv-NegPrt
 v14 הִשְׁאִ֖ירוּ|hiš·’î·rū|not sparing anyone|H7604|V-Hifil-Perf-3cp
-v14 כָּל־|kāl-||H3605|N-msc
+v14 כָּל־|kāl-|-|H3605|N-msc
 v14 נְשָׁמָֽה׃|nə·šā·māh|who breathed|H5397|N-fs
 v15 כַּאֲשֶׁ֨ר|ka·’ă·šer|As|H834|Prep-k | Pro-r
 v15 צִוָּ֤ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
@@ -288,7 +288,7 @@ v17 הֶֽחָלָק֙|he·ḥā·lāq|Halak|H2510|Art | Adj-ms
 v17 הָעוֹלֶ֣ה|hā·‘ō·w·leh|which rises|H5927|Art | V-Qal-Prtcpl-ms
 v17 שֵׂעִ֔יר|śê·‘îr|toward Seir|H8165|N-proper-fs
 v17 וְעַד־|wə·‘aḏ-|as far as|H5704|Conj-w | Prep
-v17 בַּ֤עַל|ba·‘al|vvv|H1171|Prep
+v17 בַּ֤עַל|ba·‘al|...|H1171|Prep
 v17 גָּד֙|gāḏ|Baal-gad|H1171|N-proper-fs
 v17 בְּבִקְעַ֣ת|bə·ḇiq·‘aṯ|in the Valley|H1237|Prep-b | N-fsc
 v17 הַלְּבָנ֔וֹן|hal·lə·ḇā·nō·wn|of Lebanon|H3844|Art | N-proper-fs
@@ -350,7 +350,7 @@ v20 כַּאֲשֶׁ֛ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v20 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v20 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
-v20 מֹשֶֽׁה׃ס|mō·šeh|Moses|H4872|N-proper-ms
+v20 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v21 וַיָּבֹ֨א|way·yā·ḇō|proceeded|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v21 יְהוֹשֻׁ֜עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v21 בָּעֵ֣ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
@@ -380,7 +380,7 @@ v22 לֹֽא־|lō-|No|H3808|Adv-NegPrt
 v22 נוֹתַ֣ר|nō·w·ṯar|were left|H3498|V-Nifal-Perf-3ms
 v22 עֲנָקִ֔ים|‘ă·nā·qîm|Anakim|H6062|N-proper-mp
 v22 בְּאֶ֖רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
-v22 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v22 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v22 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v22 רַ֗ק|raq|only|H7535|Adv
 v22 בְּעַזָּ֛ה|bə·‘az·zāh|in Gaza|H5804|Prep-b | N-proper-fs
@@ -406,4 +406,4 @@ v23 כְּמַחְלְקֹתָ֖ם|kə·maḥ·lə·qō·ṯām|according to the
 v23 לְשִׁבְטֵיהֶ֑ם|lə·šiḇ·ṭê·hem|to their tribes|H7626|Prep-l | N-mpc | 3mp
 v23 וְהָאָ֥רֶץ|wə·hā·’ā·reṣ|Then the land|H776|Conj-w, Art | N-fs
 v23 שָׁקְטָ֖ה|šā·qə·ṭāh|had rest|H8252|V-Qal-Perf-3fs
-v23 מִמִּלְחָמָֽה׃פ|mim·mil·ḥā·māh|from war|H4421|Prep-m | N-fs
+v23 מִמִּלְחָמָֽה׃|mim·mil·ḥā·māh|from war|H4421|Prep-m | N-fs

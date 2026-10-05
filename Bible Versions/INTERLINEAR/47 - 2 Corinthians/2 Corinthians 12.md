@@ -1,6 +1,6 @@
 v1 Καυχᾶσθαι|Kauchasthai|go on boasting|G2744|V-PNM/P
 v1 δεῖ|dei|I must|G1163|V-PIA-3S
-v1 οὐ|ou|vvv|G3756|Adv
+v1 οὐ|ou|...|G3756|Adv
 v1 συμφέρον|sympheron|Although there is nothing to gain|G4851|V-PPA-NNS
 v1 μέν|men|...|G3303|Conj
 v1 ἐλεύσομαι|eleusomai|I will go on|G2064|V-FIM-1S
@@ -26,7 +26,7 @@ v2 εἴτε|eite|or|G1535|Conj
 v2 ἐκτὸς|ektos|out of|G1622|Prep
 v2 τοῦ|tou|-|G3588|Art-GNS
 v2 σώματος|sōmatos|[it]|G4983|N-GNS
-v2 οὐκ|ouk|vvv|G3756|Adv
+v2 οὐκ|ouk|...|G3756|Adv
 v2 οἶδα|oida|I do not know|G1492|V-RIA-1S
 v2 ὁ|ho|-|G3588|Art-NMS
 v2 Θεὸς|Theos|[but] God|G2316|N-NMS
@@ -49,7 +49,7 @@ v3 εἴτε|eite|or|G1535|Conj
 v3 χωρὶς|chōris|out of|G5565|Prep
 v3 τοῦ|tou|-|G3588|Art-GNS
 v3 σώματος|sōmatos|[it]|G4983|N-GNS
-v3 οὐκ|ouk|vvv|G3756|Adv
+v3 οὐκ|ouk|...|G3756|Adv
 v3 οἶδα|oida|I do not know|G1492|V-RIA-1S
 v3 ὁ|ho|-|G3588|Art-NMS
 v3 Θεὸς|Theos|[but] God|G2316|N-NMS
@@ -59,12 +59,12 @@ v4 ἡρπάγη|hērpagē|was caught up|G726|V-AIP-3S
 v4 εἰς|eis|to|G1519|Prep
 v4 τὸν|ton|-|G3588|Art-AMS
 v4 Παράδεισον|Paradeison|Paradise|G3857|N-AMS
-v4 καὶ|kai||G2532|Conj
+v4 καὶ|kai|-|G2532|Conj
 v4 ἤκουσεν|ēkousen|[The things] he heard|G191|V-AIA-3S
 v4 ἄρρητα|arrēta|[were] inexpressible|G731|Adj-ANP
 v4 ῥήματα|rhēmata|...|G4487|N-ANP
 v4 ἃ|ha|things that|G3739|RelPro-ANP
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 ἐξὸν|exon|is not permitted|G1832|V-PPA-NNS
 v4 ἀνθρώπῳ|anthrōpō|man|G444|N-DMS
 v4 λαλῆσαι|lalēsai|to tell|G2980|V-ANA
@@ -75,7 +75,7 @@ v5 καυχήσομαι|kauchēsomai|I will boast|G2744|V-FIM-1S
 v5 ὑπὲρ|hyper|about|G5228|Prep
 v5 δὲ|de|but|G1161|Conj
 v5 ἐμαυτοῦ|emautou|myself|G1683|PPro-GM1S
-v5 οὐ|ou|vvv|G3756|Adv
+v5 οὐ|ou|...|G3756|Adv
 v5 καυχήσομαι|kauchēsomai|I will not boast|G2744|V-FIM-1S
 v5 εἰ|ei|except|G1487|Conj
 v5 μὴ|mē|...|G3361|Adv
@@ -86,7 +86,7 @@ v6 ἐὰν|ean|if|G1437|Conj
 v6 γὰρ|gar|Even|G1063|Conj
 v6 θελήσω|thelēsō|I wanted|G2309|V-ASA-1S
 v6 καυχήσασθαι|kauchēsasthai|to boast|G2744|V-ANM
-v6 οὐκ|ouk|vvv|G3756|Adv
+v6 οὐκ|ouk|...|G3756|Adv
 v6 ἔσομαι|esomai|I would not be|G1510|V-FIM-1S
 v6 ἄφρων|aphrōn|a fool|G878|Adj-NMS
 v6 ἀλήθειαν|alētheian|[the] truth|G225|N-AFS
@@ -115,7 +115,7 @@ v7 τῶν|tōn|-|G3588|Art-GFP
 v7 ἀποκαλύψεων|apokalypseōn|revelations|G602|N-GFP
 v7 Διὸ|Dio|So|G1352|Conj
 v7 ἵνα|hina|to|G2443|Conj
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 ὑπεραίρωμαι|hyperairōmai|keep me from becoming conceited|G5229|V-PSM/P-1S
 v7 ἐδόθη|edothē|was given|G1325|V-AIP-3S
 v7 μοι|moi|I|G1473|PPro-D1S
@@ -201,7 +201,7 @@ v11 ὤφειλον|ōpheilon|should|G3784|V-IIA-1S
 v11 ὑφ’|hyph’|-|G5259|Prep
 v11 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v11 συνίστασθαι|synistasthai|have commended|G4921|V-PNM/P
-v11 οὐδὲν|ouden|vvv|G3762|Adj-ANS
+v11 οὐδὲν|ouden|...|G3762|Adj-ANS
 v11 γὰρ|gar|since|G1063|Conj
 v11 ὑστέρησα|hysterēsa|I am in no way inferior|G5302|V-AIA-1S
 v11 τῶν|tōn|to those|G3588|Art-GMP
@@ -242,7 +242,7 @@ v13 μὴ|mē|...|G3361|Adv
 v13 ὅτι|hoti|that|G3754|Conj
 v13 αὐτὸς|autos|-|G846|PPro-NM3S
 v13 ἐγὼ|egō|I|G1473|PPro-N1S
-v13 οὐ|ou|vvv|G3756|Adv
+v13 οὐ|ou|...|G3756|Adv
 v13 κατενάρκησα|katenarkēsa|was not a burden|G2655|V-AIA-1S
 v13 ὑμῶν|hymōn|to you|G4771|PPro-G2P
 v13 χαρίσασθέ|charisasthe|Forgive|G5483|V-AMM-2P
@@ -259,9 +259,9 @@ v14 ἐλθεῖν|elthein|to come|G2064|V-ANA
 v14 πρὸς|pros|to|G4314|Prep
 v14 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v14 καὶ|kai|and|G2532|Conj
-v14 οὐ|ou|vvv|G3756|Adv
+v14 οὐ|ou|...|G3756|Adv
 v14 καταναρκήσω|katanarkēsō|I will not be a burden|G2655|V-FIA-1S
-v14 οὐ|ou|vvv|G3756|Adv
+v14 οὐ|ou|...|G3756|Adv
 v14 γὰρ|gar|because|G1063|Conj
 v14 ζητῶ|zētō|I am not seeking|G2212|V-PIA-1S
 v14 τὰ|ta|[possessions]|G3588|Art-ANP
@@ -300,7 +300,7 @@ v15 ἀγαπῶμαι|agapōmai|will [you] love me|G25|V-PIM/P-1S
 v16 Ἔστω|Estō|Be that as it may|G1510|V-PMA-3S
 v16 δέ|de|-|G1161|Conj
 v16 ἐγὼ|egō|I|G1473|PPro-N1S
-v16 οὐ|ou|vvv|G3756|Adv
+v16 οὐ|ou|...|G3756|Adv
 v16 κατεβάρησα|katebarēsa|was not a burden|G2599|V-AIA-1S
 v16 ὑμᾶς|hymas|to you|G4771|PPro-A2P
 v16 ἀλλὰ|alla|but|G235|Conj
@@ -309,7 +309,7 @@ v16 πανοῦργος|panourgos|crafty|G3835|Adj-NMS
 v16 δόλῳ|dolō|by trickery|G1388|N-DMS
 v16 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v16 ἔλαβον|elabon|I caught|G2983|V-AIA-1S
-v17 μή|mē|vvv|G3361|Adv
+v17 μή|mē|...|G3361|Adv
 v17 τινα|tina|anyone|G5100|IPro-AMS
 v17 ὧν|hōn|-|G3739|RelPro-GMP
 v17 ἀπέσταλκα|apestalka|I sent|G649|V-RIA-1S
@@ -329,7 +329,7 @@ v18 μήτι|mēti|[in any way]|G3385|IntPrtcl
 v18 ἐπλεονέκτησεν|epleonektēsen|exploit|G4122|V-AIA-3S
 v18 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v18 Τίτος|Titos|{Did} Titus|G5103|N-NMS
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 τῷ|tō|in the|G3588|Art-DNS
 v18 αὐτῷ|autō|same|G846|PPro-DN3S
 v18 Πνεύματι|Pneumati|Spirit|G4151|N-DNS
@@ -353,15 +353,15 @@ v19 δὲ|de|and|G1161|Conj
 v19 πάντα|panta|all|G3956|Adj-NNP
 v19 ἀγαπητοί|agapētoi|beloved|G27|Adj-VMP
 v19 ὑπὲρ|hyper|[is]|G5228|Prep
-v19 τῆς|tēs|vvv|G3588|Art-GFS
-v19 ὑμῶν|hymōn|vvv|G4771|PPro-G2P
+v19 τῆς|tēs|...|G3588|Art-GFS
+v19 ὑμῶν|hymōn|...|G4771|PPro-G2P
 v19 οἰκοδομῆς|oikodomēs|to build you up|G3619|N-GFS
 v20 φοβοῦμαι|phoboumai|I am afraid|G5399|V-PIM/P-1S
 v20 γὰρ|gar|For|G1063|Conj
 v20 μή|mē|[that]|G3361|Adv
-v20 πως|pōs|vvv|G4459|Adv
+v20 πως|pōs|...|G4459|Adv
 v20 ἐλθὼν|elthōn|when I come|G2064|V-APA-NMS
-v20 οὐχ|ouch|vvv|G3756|Adv
+v20 οὐχ|ouch|...|G3756|Adv
 v20 οἵους|hoious|as|G3634|RelPro-AMP
 v20 θέλω|thelō|I wish|G2309|V-PIA-1S
 v20 εὕρω|heurō|I may not find|G2147|V-ASA-1S
@@ -385,7 +385,7 @@ v20 ἀκαταστασίαι|akatastasiai|[and] disorder|G181|N-NFP
 v21 μὴ|mē|[I am afraid that]|G3361|Adv
 v21 πάλιν|palin|again|G3825|Adv
 v21 ἐλθόντος|elthontos|when I come|G2064|V-APA-GMS
-v21 μου|mou|vvv|G1473|PPro-G1S
+v21 μου|mou|...|G1473|PPro-G1S
 v21 ταπεινώσῃ|tapeinōsē|will humble|G5013|V-ASA-3S
 v21 με|me|me|G1473|PPro-A1S
 v21 ὁ|ho|-|G3588|Art-NMS
@@ -399,7 +399,7 @@ v21 πολλοὺς|pollous|many|G4183|Adj-AMP
 v21 τῶν|tōn|who|G3588|Art-GMP
 v21 προημαρτηκότων|proēmartēkotōn|have sinned earlier|G4258|V-RPA-GMP
 v21 καὶ|kai|and|G2532|Conj
-v21 μὴ|mē|vvv|G3361|Adv
+v21 μὴ|mē|...|G3361|Adv
 v21 μετανοησάντων|metanoēsantōn|have not repented|G3340|V-APA-GMP
 v21 ἐπὶ|epi|of|G1909|Prep
 v21 τῇ|tē|-|G3588|Art-DFS

@@ -12,7 +12,7 @@ v2 וּשְׁנ֣וֹת|ū·šə·nō·wṯ|years|H8141|Conj-w | N-fpc
 v2 חַיִּ֑ים|ḥay·yîm|to your life|H2416|N-mp
 v2 וְ֝שָׁל֗וֹם|wə·šā·lō·wm|and peace|H7965|Conj-w | N-ms
 v2 יוֹסִ֥יפוּ|yō·w·sî·p̄ū|they will add|H3254|V-Hifil-Imperf-3mp
-v2 לָֽךְ׃|lāḵ||H0|Prep | 2fs
+v2 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs
 v3 חֶ֥סֶד|ḥe·seḏ|let loving devotion|H2617|N-ms
 v3 וֶאֱמֶ֗ת|we·’ĕ·meṯ|or faithfulness|H571|Conj-w | N-fs
 v3 אַֽל־|’al-|Never|H408|Adv
@@ -30,7 +30,7 @@ v4 וְשֵֽׂכֶל־|wə·śê·ḵel-|and high regard|H7922|Conj-w | N-ms
 v4 ט֑וֹב|ṭō·wḇ|...|H2896|Adj-ms
 v4 בְּעֵינֵ֖י|bə·‘ê·nê|in the sight|H5869|Prep-b | N-cdc
 v4 אֱלֹהִ֣ים|’ĕ·lō·hîm|of God|H430|N-mp
-v4 וְאָדָֽם׃פ|wə·’ā·ḏām|and man|H120|Conj-w | N-ms
+v4 וְאָדָֽם׃|wə·’ā·ḏām|and man|H120|Conj-w | N-ms
 v5 בְּטַ֣ח|bə·ṭaḥ|Trust|H982|V-Qal-Imp-ms
 v5 אֶל־|’el-|in|H413|Prep
 v5 יְ֭הוָה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -72,7 +72,7 @@ v10 אֲסָמֶ֣יךָ|’ă·sā·me·ḵā|then your barns|H618|N-mpc | 2ms
 v10 שָׂבָ֑ע|śā·ḇā‘|with plenty|H7647|N-ms
 v10 וְ֝תִיר֗וֹשׁ|wə·ṯî·rō·wōš|with new wine|H8492|Conj-w | N-ms
 v10 יְקָבֶ֥יךָ|yə·qā·ḇe·ḵā|and your vats|H3342|N-mpc | 2ms
-v10 יִפְרֹֽצוּ׃פ|yip̄·rō·ṣū|will overflow|H6555|V-Qal-Imperf-3mp
+v10 יִפְרֹֽצוּ׃|yip̄·rō·ṣū|will overflow|H6555|V-Qal-Imperf-3mp
 v11 מוּסַ֣ר|mū·sar|the discipline|H4148|N-msc
 v11 יְ֭הוָה|Yah·weh|of the LORD|H3068|N-proper-ms
 v11 בְּנִ֣י|bə·nî|My son|H1121|N-msc | 1cs
@@ -131,7 +131,7 @@ v18 הִ֭יא|hî|She|H1931|Pro-3fs
 v18 לַמַּחֲזִיקִ֣ים|lam·ma·ḥă·zî·qîm|to those who embrace|H2388|Prep-l, Art | V-Hifil-Prtcpl-mp
 v18 בָּ֑הּ|bāh|her|H0|Prep | 3fs
 v18 וְֽתֹמְכֶ֥יהָ|wə·ṯō·mə·ḵe·hā|and those who lay hold of her|H8551|Conj-w | V-Qal-Prtcpl-mpc | 3fs
-v18 מְאֻשָּֽׁר׃פ|mə·’uš·šār|are blessed|H833|V-Pual-Prtcpl-ms
+v18 מְאֻשָּֽׁר׃|mə·’uš·šār|are blessed|H833|V-Pual-Prtcpl-ms
 v19 יְֽהוָ֗ה|Yah·weh|The LORD|H3068|N-proper-ms
 v19 בְּחָכְמָ֥ה|bə·ḥā·ḵə·māh|by wisdom|H2451|Prep-b | N-fs
 v19 יָֽסַד־|yā·saḏ-|founded|H3245|V-Qal-Perf-3ms
@@ -255,4 +255,4 @@ v35 חֲכָמִ֣ים|ḥă·ḵā·mîm|The wise|H2450|Adj-mp
 v35 יִנְחָ֑לוּ|yin·ḥā·lū|will inherit|H5157|V-Qal-Imperf-3mp
 v35 וּ֝כְסִילִ֗ים|ū·ḵə·sî·lîm|but fools|H3684|Conj-w | N-mp
 v35 מֵרִ֥ים|mê·rîm|are held up|H7311|V-Hifil-Prtcpl-ms
-v35 קָלֽוֹן׃פ|qā·lō·wn|to shame|H7036|N-ms
+v35 קָלֽוֹן׃|qā·lō·wn|to shame|H7036|N-ms

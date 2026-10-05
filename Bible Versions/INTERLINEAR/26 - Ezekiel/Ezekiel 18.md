@@ -27,7 +27,7 @@ v3 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v3 יְהוִ֑ה|Yah·weh|GOD|H3069|N-proper-ms
 v3 אִם־|’im-|you will no|H518|Conj
 v3 יִֽהְיֶ֨ה|yih·yeh|...|H1961|V-Qal-Imperf-3ms
-v3 לָכֶ֜ם|lā·ḵem||H0|Prep | 2mp
+v3 לָכֶ֜ם|lā·ḵem|-|H0|Prep | 2mp
 v3 ע֗וֹד|‘ō·wḏ|longer|H5750|Adv
 v3 מְשֹׁ֛ל|mə·šōl|quote|H4911|V-Qal-Inf
 v3 הַמָּשָׁ֥ל|ham·mā·šāl|proverb|H4912|Art | N-ms
@@ -37,8 +37,8 @@ v4 הֵ֤ן|hên|Behold|H2005|Interjection
 v4 כָּל־|kāl-|every|H3605|N-msc
 v4 הַנְּפָשׁוֹת֙|han·nə·p̄ā·šō·wṯ|soul|H5315|Art | N-fp
 v4 לִ֣י|lî|belongs to Me|H0|Prep | 1cs
-v4 הֵ֔נָּה|hên·nāh||H2007|Pro-3fp
-v4 כְּנֶ֧פֶשׁ|kə·ne·p̄eš||H5315|Prep-k | N-fsc
+v4 הֵ֔נָּה|hên·nāh|-|H2007|Pro-3fp
+v4 כְּנֶ֧פֶשׁ|kə·ne·p̄eš|-|H5315|Prep-k | N-fsc
 v4 הָאָ֛ב|hā·’āḇ|both father|H1|Art | N-ms
 v4 וּכְנֶ֥פֶשׁ|ū·ḵə·ne·p̄eš|[and]|H5315|Conj-w, Prep-k | N-fsc
 v4 הַבֵּ֖ן|hab·bên|son|H1121|Art | N-ms
@@ -47,7 +47,7 @@ v4 הֵ֑נָּה|hên·nāh|are|H2007|Pro-3fp
 v4 הַנֶּ֥פֶשׁ|han·ne·p̄eš|The soul|H5315|Art | N-fs
 v4 הַחֹטֵ֖את|ha·ḥō·ṭêṯ|who sins|H2398|Art | V-Qal-Prtcpl-fs
 v4 הִ֥יא|hî|is the one who|H1931|Pro-3fs
-v4 תָמֽוּת׃ס|ṯā·mūṯ|will die|H4191|V-Qal-Imperf-3fs
+v4 תָמֽוּת׃|ṯā·mūṯ|will die|H4191|V-Qal-Imperf-3fs
 v5 וְאִ֖ישׁ|wə·’îš|a man|H376|Conj-w | N-ms
 v5 כִּי־|kî-|Now suppose|H3588|Conj
 v5 יִהְיֶ֣ה|yih·yeh|is|H1961|V-Qal-Imperf-3ms
@@ -71,7 +71,7 @@ v6 אֵ֤שֶׁת|’ê·šeṯ|wife|H802|N-fsc
 v6 רֵעֵ֙הוּ֙|rê·‘ê·hū|his neighbor's|H7453|N-msc | 3ms
 v6 לֹ֣א|lō|He does not|H3808|Adv-NegPrt
 v6 טִמֵּ֔א|ṭim·mê|defile|H2930|V-Piel-Perf-3ms
-v6 וְאֶל־|wə·’el-||H413|Conj-w | Prep
+v6 וְאֶל־|wə·’el-|-|H413|Conj-w | Prep
 v6 אִשָּׁ֥ה|’iš·šāh|a woman|H802|N-fs
 v6 נִדָּ֖ה|nid·dāh|during her period|H5079|N-fs
 v6 לֹ֥א|lō|or|H3808|Adv-NegPrt
@@ -293,7 +293,7 @@ v20 תִּֽהְיֶ֔ה|tih·yeh|will fall|H1961|V-Qal-Imperf-3fs
 v20 וְרִשְׁעַ֥ת|wə·riš·‘aṯ|and the wickedness|H7564|Conj-w | N-fsc
 v20 רָשָׁע|rå̄·šå̄ʿ|of the wicked man|H7563|Art | Adj-ms
 v20 עָלָ֥יו|‘ā·lāw|upon him|H5921|Prep | 3ms
-v20 תִּֽהְיֶֽה׃ס|tih·yeh|will fall|H1961|V-Qal-Imperf-3fs
+v20 תִּֽהְיֶֽה׃|tih·yeh|will fall|H1961|V-Qal-Imperf-3fs
 v21 וְהָרָשָׁ֗ע|wə·hā·rā·šā‘|the wicked man|H7563|Conj-w, Art | Adj-ms
 v21 כִּ֤י|kî|But if|H3588|Conj
 v21 יָשׁוּב֙|yā·šūḇ|turns|H7725|V-Qal-Imperf-3ms
@@ -333,13 +333,13 @@ v23 יְהוִ֑ה|Yah·weh|GOD|H3069|N-proper-ms
 v23 הֲל֛וֹא|hă·lō·w|Wouldn't I prefer|H3808|Adv-NegPrt
 v23 בְּשׁוּב֥וֹ|bə·šū·ḇōw|that he turn|H7725|Prep-b | V-Qal-Inf | 3ms
 v23 מִדְּרָכָ֖יו|mid·də·rā·ḵāw|from his ways|H1870|Prep-m | N-cpc | 3ms
-v23 וְחָיָֽה׃ס|wə·ḥā·yāh|and live|H2421|Conj-w | V-Qal-ConjPerf-3ms
+v23 וְחָיָֽה׃|wə·ḥā·yāh|and live|H2421|Conj-w | V-Qal-ConjPerf-3ms
 v24 וּבְשׁ֨וּב|ū·ḇə·šūḇ|turns|H7725|Conj-w, Prep-b | V-Qal-Inf
 v24 צַדִּ֤יק|ṣad·dîq|But if a righteous man|H6662|Adj-ms
 v24 מִצִּדְקָתוֹ֙|miṣ·ṣiḏ·qā·ṯōw|from his righteousness|H6666|Prep-m | N-fsc | 3ms
 v24 וְעָ֣שָׂה|wə·‘ā·śāh|and practices|H6213|Conj-w | V-Qal-ConjPerf-3ms
 v24 עָ֔וֶל|‘ā·wel|iniquity|H5766|N-ms
-v24 כְּכֹ֨ל|kə·ḵōl||H3605|Prep-k | N-msc
+v24 כְּכֹ֨ל|kə·ḵōl|-|H3605|Prep-k | N-msc
 v24 הַתּוֹעֵב֜וֹת|hat·tō·w·‘ê·ḇō·wṯ|the same abominations|H8441|Art | N-fp
 v24 אֲשֶׁר־|’ă·šer-|as|H834|Pro-r
 v24 עָשָׂ֧ה|‘ā·śāh|committing|H6213|V-Qal-Perf-3ms
@@ -358,7 +358,7 @@ v24 מָעַ֛ל|mā·‘al|Because of the unfaithfulness|H4603|V-Qal-Perf-3ms
 v24 וּבְחַטָּאת֥וֹ|ū·ḇə·ḥaṭ·ṭā·ṯōw|and sin|H2403|Conj-w, Prep-b | N-fsc | 3ms
 v24 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v24 חָטָ֖א|ḥā·ṭā|he has committed|H2398|V-Qal-Perf-3ms
-v24 בָּ֥ם|bām||H0|Prep | 3mp
+v24 בָּ֥ם|bām|-|H0|Prep | 3mp
 v24 יָמֽוּת׃|yā·mūṯ|he will die|H4191|V-Qal-Imperf-3ms
 v25 וַאֲמַרְתֶּ֕ם|wa·’ă·mar·tem|Yet you say|H559|Conj-w | V-Qal-ConjPerf-2mp
 v25 לֹ֥א|lō|is not|H3808|Adv-NegPrt
@@ -386,7 +386,7 @@ v26 עֲלֵיהֶ֑ם|‘ă·lê·hem|for this|H5921|Prep | 3mp
 v26 בְּעַוְל֥וֹ|bə·‘aw·lōw|because of the iniquity|H5766|Prep-b | N-msc | 3ms
 v26 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v26 עָשָׂ֖ה|‘ā·śāh|he has committed|H6213|V-Qal-Perf-3ms
-v26 יָמֽוּת׃ס|yā·mūṯ|He will die|H4191|V-Qal-Imperf-3ms
+v26 יָמֽוּת׃|yā·mūṯ|He will die|H4191|V-Qal-Imperf-3ms
 v27 וּבְשׁ֣וּב|ū·ḇə·šūḇ|turns|H7725|Conj-w, Prep-b | V-Qal-Inf
 v27 רָשָׁ֗ע|rā·šā‘|But if a wicked man|H7563|Adj-ms
 v27 מֵֽרִשְׁעָתוֹ֙|mê·riš·‘ā·ṯōw|from the wickedness|H7564|Prep-m | N-fsc | 3ms
@@ -418,7 +418,7 @@ v29 דֶּ֣רֶךְ|de·reḵ|The way|H1870|N-csc
 v29 אֲדֹנָ֑י|’ă·ḏō·nāy|of the Lord|H136|N-proper-ms
 v29 הַדְּרָכַ֞י|had·də·rā·ḵay|Are My ways|H1870|Art | N-cpc | 1cs
 v29 לֹ֤א|lō|unjust|H3808|Adv-NegPrt
-v29 יִתָּֽכְנּוּ֙|yit·tå̄·ḵən·nū||H8505|V-Nifal-Imperf-3mp
+v29 יִתָּֽכְנּוּ֙|yit·tå̄·ḵən·nū|-|H8505|V-Nifal-Imperf-3mp
 v29 בֵּ֣ית|bêṯ|O house|H1004|N-msc
 v29 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v29 הֲלֹ֥א|hă·lō|Is it not|H3808|Adv-NegPrt
@@ -451,7 +451,7 @@ v31 כָּל־|kāl-|all|H3605|N-msc
 v31 פִּשְׁעֵיכֶם֙|piš·‘ê·ḵem|the transgressions|H6588|N-mpc | 2mp
 v31 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v31 פְּשַׁעְתֶּ֣ם|pə·ša‘·tem|you have committed|H6586|V-Qal-Perf-2mp
-v31 בָּ֔ם|bām||H0|Prep | 3mp
+v31 בָּ֔ם|bām|-|H0|Prep | 3mp
 v31 וַעֲשׂ֥וּ|wa·‘ă·śū|and fashion|H6213|Conj-w | V-Qal-Imp-mp
 v31 לָכֶ֛ם|lā·ḵem|for yourselves|H0|Prep | 2mp
 v31 לֵ֥ב|lêḇ|heart|H3820|N-ms
@@ -471,4 +471,4 @@ v32 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v32 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v32 יְהוִ֑ה|Yah·weh|GOD|H3069|N-proper-ms
 v32 וְהָשִׁ֖יבוּ|wə·hā·šî·ḇū|So repent|H7725|Conj-w | V-Hifil-Imp-mp
-v32 וִֽחְיֽוּ׃פ|wiḥ·yū|and live|H2421|Conj-w | V-Qal-Imp-mp
+v32 וִֽחְיֽוּ׃|wiḥ·yū|and live|H2421|Conj-w | V-Qal-Imp-mp

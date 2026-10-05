@@ -4,7 +4,7 @@ v1 תּוֹלָ֧ע|tō·w·lā‘|Tola|H8439|N-proper-ms
 v1 וּפוּאָ֛ה|ū·p̄ū·’āh|Puah|H6312|Conj-w | N-proper-ms
 v1 יָשִׁיב|yå̄·šīḇ|Jashub|H3437|N-proper-ms
 v1 וְשִׁמְר֖וֹן|wə·šim·rō·wn|and Shimron|H8110|Conj-w | N-proper-ms
-v1 אַרְבָּעָֽה׃ס|’ar·bā·‘āh|four [in all]|H702|Number-ms
+v1 אַרְבָּעָֽה׃|’ar·bā·‘āh|four [in all]|H702|Number-ms
 v2 וּבְנֵ֣י|ū·ḇə·nê|The sons|H1121|Conj-w | N-mpc
 v2 תוֹלָ֗ע|ṯō·w·lā‘|of Tola|H8439|N-proper-ms
 v2 עֻזִּ֡י|‘uz·zî|Uzzi|H5813|N-proper-ms
@@ -27,7 +27,7 @@ v2 עֶשְׂרִֽים־|‘eś·rîm-|22,600|H6242|Number-cp
 v2 וּשְׁנַ֥יִם|ū·šə·na·yim|...|H8147|Conj-w | Number-md
 v2 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v2 וְשֵׁ֥שׁ|wə·šêš|...|H8337|Conj-w | Number-fs
-v2 מֵאֽוֹת׃ס|mê·’ō·wṯ|...|H3967|Number-fp
+v2 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v3 וּבְנֵ֥י|ū·ḇə·nê|The son|H1121|Conj-w | N-mpc
 v3 עֻזִּ֖י|‘uz·zî|of Uzzi|H5813|N-proper-ms
 v3 יִֽזְרַֽחְיָ֑ה|yiz·raḥ·yāh|Izrahiah|H3156|N-proper-ms
@@ -60,11 +60,11 @@ v5 מִשְׁפְּח֣וֹת|miš·pə·ḥō·wṯ|the families|H4940|N-fpc
 v5 יִשָׂשכָ֔ר|yi·śā·š·ḵār|of Issachar|H3485|N-proper-ms
 v5 גִּבּוֹרֵ֖י|gib·bō·w·rê|of valor|H1368|Adj-mpc
 v5 חֲיָלִ֑ים|ḥă·yā·lîm|[who were] mighty men|H2428|N-mp
-v5 שְׁמוֹנִ֤ים|šə·mō·w·nîm|87,000 {}|H8084|Number-cp
+v5 שְׁמוֹנִ֤ים|šə·mō·w·nîm|87,000|H8084|Number-cp
 v5 וְשִׁבְעָה֙|wə·šiḇ·‘āh|...|H7651|Conj-w | Number-ms
 v5 אֶ֔לֶף|’e·lep̄|...|H505|Number-ms
 v5 הִתְיַחְשָׂ֖ם|hiṯ·yaḥ·śām|as listed in their genealogies|H3187|V-Hitpael-Inf | 3mp
-v5 לַכֹּֽל׃פ|lak·kōl|totaled|H3605|Prep-l, Art | N-ms
+v5 לַכֹּֽל׃|lak·kōl|totaled|H3605|Prep-l, Art | N-ms
 v6 בִּנְיָמִ֗ן|bin·yā·min|[sons] of Benjamin|H1144|N-proper-ms
 v6 בֶּ֧לַע|be·la‘|Bela|H1106|N-proper-ms
 v6 וָבֶ֛כֶר|wā·ḇe·ḵer|Becher|H1071|Conj-w | N-proper-ms
@@ -88,7 +88,7 @@ v7 עֶשְׂרִ֤ים|‘eś·rîm|There were 22,034|H6242|Number-cp
 v7 וּשְׁנַ֙יִם֙|ū·šə·na·yim|...|H8147|Conj-w | Number-md
 v7 אֶ֔לֶף|’e·lep̄|...|H505|Number-ms
 v7 וּשְׁלֹשִׁ֖ים|ū·šə·lō·šîm|...|H7970|Conj-w | Number-cp
-v7 וְאַרְבָּעָֽה׃ס|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
+v7 וְאַרְבָּעָֽה׃|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
 v8 וּבְנֵ֣י|ū·ḇə·nê|The sons|H1121|Conj-w | N-mpc
 v8 בֶ֗כֶר|ḇe·ḵer|of Becher|H1071|N-proper-ms
 v8 זְמִירָ֡ה|zə·mî·rāh|Zemirah|H2160|N-proper-ms
@@ -113,7 +113,7 @@ v9 גִּבּוֹרֵ֖י|gib·bō·w·rê|mighty men|H1368|Adj-mpc
 v9 חָ֑יִל|ḥā·yil|of valor|H2428|N-ms
 v9 עֶשְׂרִ֥ים|‘eś·rîm|20,200|H6242|Number-cp
 v9 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
-v9 וּמָאתָֽיִם׃ס|ū·mā·ṯā·yim|...|H3967|Conj-w | Number-fd
+v9 וּמָאתָֽיִם׃|ū·mā·ṯā·yim|...|H3967|Conj-w | Number-fd
 v10 וּבְנֵ֥י|ū·ḇə·nê|The son|H1121|Conj-w | N-mpc
 v10 יְדִיעֲאֵ֖ל|yə·ḏî·‘ă·’êl|of Jediael|H3043|N-proper-ms
 v10 בִּלְהָ֑ן|bil·hān|Bilhan|H1092|N-proper-ms
@@ -155,7 +155,7 @@ v13 וְגוּנִ֛י|wə·ḡū·nî|Guni|H1476|Conj-w | N-proper-ms
 v13 וְיֵ֥צֶר|wə·yê·ṣer|Jezer|H3337|Conj-w | N-proper-ms
 v13 וְשַׁלּ֖וּם|wə·šal·lūm|and Shallum|H7967|Conj-w | N-proper-ms
 v13 בְּנֵ֥י|bə·nê|the descendants|H1121|N-mpc
-v13 בִלְהָֽה׃פ|ḇil·hāh|of Bilhah|H1090|N-proper-fs
+v13 בִלְהָֽה׃|ḇil·hāh|of Bilhah|H1090|N-proper-fs
 v14 בְּנֵ֣י|bə·nê|The descendants|H1121|N-mpc
 v14 מְנַשֶּׁ֔ה|mə·naš·šeh|of Manasseh|H4519|N-proper-ms
 v14 אַשְׂרִיאֵ֖ל|’aś·rî·’êl|Asriel|H844|N-proper-ms
@@ -221,7 +221,7 @@ v19 שְׁמִידָ֑ע|šə·mî·ḏā‘|of Shemida|H8061|N-proper-ms
 v19 אַחְיָ֣ן|’aḥ·yān|Ahian|H291|N-proper-ms
 v19 וָשֶׁ֔כֶם|wā·še·ḵem|Shechem|H7928|Conj-w | N-proper-ms
 v19 וְלִקְחִ֖י|wə·liq·ḥî|Likhi|H3949|Conj-w | N-proper-ms
-v19 וַאֲנִיעָֽם׃פ|wa·’ă·nî·‘ām|and Aniam|H593|Conj-w | N-proper-ms
+v19 וַאֲנִיעָֽם׃|wa·’ă·nî·‘ām|and Aniam|H593|Conj-w | N-proper-ms
 v20 וּבְנֵ֥י|ū·ḇə·nê|The descendants|H1121|Conj-w | N-mpc
 v20 אֶפְרַ֖יִם|’ep̄·ra·yim|of Ephraim|H669|N-proper-ms
 v20 שׁוּתָ֑לַח|šū·ṯā·laḥ|Shuthelah|H7803|N-proper-ms
@@ -247,7 +247,7 @@ v21 בָּאָ֔רֶץ|bā·’ā·reṣ|...|H776|Prep-b, Art | N-fs
 v21 כִּ֣י|kî|because|H3588|Conj
 v21 יָרְד֔וּ|yā·rə·ḏū|they went down|H3381|V-Qal-Perf-3cp
 v21 לָקַ֖חַת|lā·qa·ḥaṯ|to steal|H3947|Prep-l | V-Qal-Inf
-v21 אֶת־|’eṯ-||H853|DirObjM
+v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 מִקְנֵיהֶֽם׃|miq·nê·hem|their livestock|H4735|N-mpc | 3mp
 v22 וַיִּתְאַבֵּ֛ל|way·yiṯ·’ab·bêl|mourned|H56|Conj-w | V-Hitpael-ConsecImperf-3ms
 v22 אֶפְרַ֥יִם|’ep̄·ra·yim|Ephraim|H669|N-proper-ms
@@ -275,13 +275,13 @@ v24 וּבִתּ֣וֹ|ū·ḇit·tōw|His daughter|H1323|Conj-w | N-fsc | 3ms
 v24 שֶׁאֱרָ֔ה|še·’ĕ·rāh|was Sheerah|H7609|N-proper-fs
 v24 וַתִּ֧בֶן|wat·ti·ḇen|who built|H1129|Conj-w | V-Qal-ConsecImperf-3fs
 v24 אֶת־|’eṯ-|-|H853|DirObjM
-v24 בֵּית־|bêṯ-|vvv|H1032|Prep
+v24 בֵּית־|bêṯ-|...|H1032|Prep
 v24 חוֹר֛וֹן|ḥō·w·rō·wn|Beth-horon|H1032|N-proper-fs
 v24 הַתַּחְתּ֖וֹן|hat·taḥ·tō·wn|Lower|H8481|Art | Adj-ms
 v24 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v24 הָעֶלְי֑וֹן|hā·‘el·yō·wn|and Upper|H5945|Art | Adj-ms
 v24 וְאֵ֖ת|wə·’êṯ|as well as|H853|Conj-w | DirObjM
-v24 אֻזֵּ֥ן|’uz·zên|vvv|H242|
+v24 אֻזֵּ֥ן|’uz·zên|...|H242|
 v24 שֶׁאֱרָֽה׃|še·’ĕ·rāh|Uzzen-sheerah|H242|N-proper-fs
 v25 וְרֶ֣פַח|wə·re·p̄aḥ|Additionally, Rephah|H7506|Conj-w | N-proper-ms
 v25 בְּנ֗וֹ|bə·nōw|[was] his son|H1121|N-msc | 3ms
@@ -317,9 +317,9 @@ v28 עַיָּ֖ה|‘ay·yāh|Ayyah|H5804|N-proper-fs
 v28 וּבְנֹתֶֽיהָ׃|ū·ḇə·nō·ṯe·hā|and its villages|H1323|Conj-w | N-fpc | 3fs
 v29 וְעַל־|wə·‘al-|And along|H5921|Conj-w | Prep
 v29 יְדֵ֣י|yə·ḏê|the borders|H3027|N-fdc
-v29 בְנֵי־|ḇə·nê-|vvv|H1121|N-mpc
+v29 בְנֵי־|ḇə·nê-|...|H1121|N-mpc
 v29 מְנַשֶּׁ֗ה|mə·naš·šeh|of Manasseh|H4519|N-proper-ms
-v29 בֵּית־|bêṯ-|vvv|H1052|Prep
+v29 בֵּית־|bêṯ-|...|H1052|Prep
 v29 שְׁאָ֤ן|šə·’ān|[were] Beth-shean|H1052|N-proper-fs
 v29 וּבְנֹתֶ֙יהָ֙|ū·ḇə·nō·ṯe·hā|-|H1323|Conj-w | N-fpc | 3fs
 v29 תַּעְנַ֣ךְ|ta‘·naḵ|Taanach|H8590|N-proper-fs
@@ -333,7 +333,7 @@ v29 יָשְׁב֔וּ|yā·šə·ḇū|lived|H3427|V-Qal-Perf-3cp
 v29 בְּנֵ֥י|bə·nê|The descendants|H1121|N-mpc
 v29 יוֹסֵ֖ף|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
 v29 בֶּן־|ben-|son|H1121|N-msc
-v29 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v29 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v30 בְּנֵ֣י|bə·nê|The children|H1121|N-mpc
 v30 אָשֵׁ֗ר|’ā·šêr|of Asher|H836|N-proper-ms
 v30 יִמְנָ֧ה|yim·nāh|Imnah|H3232|N-proper-ms
@@ -423,4 +423,4 @@ v40 מִסְפָּרָ֣ם|mis·pā·rām|The number|H4557|N-msc | 3mp
 v40 אֲנָשִׁ֔ים|’ă·nā·šîm|of men|H582|N-mp
 v40 עֶשְׂרִ֥ים|‘eś·rîm|was 26,000|H6242|Number-cp
 v40 וְשִׁשָּׁ֖ה|wə·šiš·šāh|...|H8337|Conj-w | Number-ms
-v40 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v40 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms

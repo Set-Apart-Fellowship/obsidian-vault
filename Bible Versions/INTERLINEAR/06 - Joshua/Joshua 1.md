@@ -40,8 +40,8 @@ v3 אֲשֶׁ֨ר|’ă·šer|where|H834|Pro-r
 v3 תִּדְרֹ֧ךְ|tiḏ·rōḵ|will tread|H1869|V-Qal-Imperf-3fs
 v3 כַּֽף־|kap̄-|the sole|H3709|N-fsc
 v3 רַגְלְכֶ֛ם|raḡ·lə·ḵem|of your foot|H7272|N-fsc | 2mp
-v3 בּ֖וֹ|bōw||H0|Prep | 3ms
-v3 לָכֶ֣ם|lā·ḵem||H0|Prep | 2mp
+v3 בּ֖וֹ|bōw|-|H0|Prep | 3ms
+v3 לָכֶ֣ם|lā·ḵem|-|H0|Prep | 2mp
 v3 נְתַתִּ֑יו|nə·ṯat·tîw|I have given you|H5414|V-Qal-Perf-1cs | 3ms
 v3 כַּאֲשֶׁ֥ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v3 דִּבַּ֖רְתִּי|dib·bar·tî|I promised|H1696|V-Piel-Perf-1cs
@@ -156,7 +156,7 @@ v9 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v9 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v9 בְּכֹ֖ל|bə·ḵōl|you wherever|H3605|Prep-b | N-ms
 v9 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v9 תֵּלֵֽךְ׃פ|tê·lêḵ|you go|H1980|V-Qal-Imperf-2ms
+v9 תֵּלֵֽךְ׃|tê·lêḵ|you go|H1980|V-Qal-Imperf-2ms
 v10 וַיְצַ֣ו|way·ṣaw|commanded|H6680|Conj-w | V-Piel-ConsecImperf-3ms
 v10 יְהוֹשֻׁ֔עַ|yə·hō·wō·šu·a‘|Then Joshua|H3091|N-proper-ms
 v10 אֶת־|’eṯ-|-|H853|DirObjM
@@ -191,7 +191,7 @@ v11 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v11 אֱלֹֽהֵיכֶ֔ם|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
 v11 נֹתֵ֥ן|nō·ṯên|is giving|H5414|V-Qal-Prtcpl-ms
 v11 לָכֶ֖ם|lā·ḵem|you|H0|Prep | 2mp
-v11 לְרִשְׁתָּֽהּ׃ס|lə·riš·tāh|to possess|H3423|Prep-l | V-Qal-Inf | 3fs
+v11 לְרִשְׁתָּֽהּ׃|lə·riš·tāh|to possess|H3423|Prep-l | V-Qal-Inf | 3fs
 v12 וְלָרֽאוּבֵנִי֙|wə·lā·r·’ū·ḇê·nî|But to the Reubenites|H7206|Conj-w, Prep-l | N-proper-ms
 v12 וְלַגָּדִ֔י|wə·lag·gā·ḏî|the Gadites|H1425|Conj-w, Prep-l, Art | N-proper-ms
 v12 וְלַחֲצִ֖י|wə·la·ḥă·ṣî|and the half-tribe|H2677|Conj-w, Prep-l, Art | N-msc
@@ -213,10 +213,10 @@ v13 לֵאמֹ֑ר|lê·mōr|when he said|H559|Prep-l | V-Qal-Inf
 v13 יְהוָ֤ה|Yah·weh|The LORD|H3068|N-proper-ms
 v13 אֱלֹהֵיכֶם֙|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
 v13 מֵנִ֣יחַ|mê·nî·aḥ|will give you rest|H5117|V-Hifil-Prtcpl-ms
-v13 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v13 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v13 וְנָתַ֥ן|wə·nā·ṯan|and He will give|H5414|Conj-w | V-Qal-ConjPerf-3ms
 v13 לָכֶ֖ם|lā·ḵem|you|H0|Prep | 2mp
-v13 אֶת־|’eṯ-||H853|DirObjM
+v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 הָאָ֥רֶץ|hā·’ā·reṣ|land|H776|Art | N-fs
 v13 הַזֹּֽאת׃|haz·zōṯ|this|H2063|Art | Pro-fs
 v14 נְשֵׁיכֶ֣ם|nə·šê·ḵem|Your wives|H802|N-fpc | 2mp
@@ -276,7 +276,7 @@ v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 יְהוֹשֻׁ֖עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v16 לֵאמֹ֑ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v16 כֹּ֤ל|kōl|Everything|H3605|N-ms
-v16 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v16 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v16 צִוִּיתָ֙נוּ֙|ṣiw·wî·ṯā·nū|you have commanded us|H6680|V-Piel-Perf-2ms | 1cp
 v16 נַֽעֲשֶׂ֔ה|na·‘ă·śeh|we will do|H6213|V-Qal-Imperf-1cp
 v16 וְאֶֽל־|wə·’el-|and everywhere|H413|Conj-w | Prep
@@ -317,4 +317,4 @@ v18 תְּצַוֶּ֖נּוּ|tə·ṣaw·wen·nū|you command him|H6680|V-Piel
 v18 יוּמָ֑ת|yū·māṯ|will be put to death|H4191|V-Hofal-Imperf-3ms
 v18 רַ֖ק|raq|Above all|H7535|Adv
 v18 חֲזַ֥ק|ḥă·zaq|be strong|H2388|V-Qal-Imp-ms
-v18 וֶאֱמָֽץ׃פ|we·’ĕ·māṣ|and courageous|H553|Conj-w | V-Qal-Imp-ms
+v18 וֶאֱמָֽץ׃|we·’ĕ·māṣ|and courageous|H553|Conj-w | V-Qal-Imp-ms

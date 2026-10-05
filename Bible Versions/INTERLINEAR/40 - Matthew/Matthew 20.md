@@ -5,7 +5,7 @@ v1 ἡ|hē|the|G3588|Art-NFS
 v1 βασιλεία|basileia|kingdom|G932|N-NFS
 v1 τῶν|tōn|of|G3588|Art-GMP
 v1 οὐρανῶν|ouranōn|heaven|G3772|N-GMP
-v1 ἀνθρώπῳ|anthrōpō|vvv|G444|N-DMS
+v1 ἀνθρώπῳ|anthrōpō|...|G444|N-DMS
 v1 οἰκοδεσπότῃ|oikodespotē|a landowner|G3617|N-DMS
 v1 ὅστις|hostis|who|G3748|RelPro-NMS
 v1 ἐξῆλθεν|exēlthen|went out|G1831|V-AIA-3S
@@ -190,10 +190,10 @@ v13 ἑνὶ|heni|one|G1520|Adj-DMS
 v13 αὐτῶν|autōn|of them|G846|PPro-GM3P
 v13 εἶπεν|eipen|-|G2036|V-AIA-3S
 v13 Ἑταῖρε|Hetaire|Friend|G2083|N-VMS
-v13 οὐκ|ouk|vvv|G3756|Adv
+v13 οὐκ|ouk|...|G3756|Adv
 v13 ἀδικῶ|adikō|I am not being unfair|G91|V-PIA-1S
 v13 σε|se|to you|G4771|PPro-A2S
-v13 οὐχὶ|ouchi|vvv|G3780|IntPrtcl
+v13 οὐχὶ|ouchi|...|G3780|IntPrtcl
 v13 δηναρίου|dēnariou|on one denarius|G1220|N-GNS
 v13 συνεφώνησάς|synephōnēsas|Did you not agree|G4856|V-AIA-2S
 v13 μοι|moi|with me|G1473|PPro-D1S
@@ -211,8 +211,8 @@ v14 δοῦναι|dounai|to give|G1325|V-ANA
 v14 ὡς|hōs|the same as|G5613|Adv
 v14 καὶ|kai|[I gave]|G2532|Conj
 v14 σοί|soi|you|G4771|PPro-D2S
-v15 [ἢ]|ē|vvv|G2228|Conj
-v15 οὐκ|ouk|vvv|G3756|Adv
+v15 [ἢ]|ē|...|G2228|Conj
+v15 οὐκ|ouk|...|G3756|Adv
 v15 ἔξεστίν|exestin|Do I not have the right|G1832|V-PIA-3S
 v15 μοι|moi|...|G1473|PPro-D1S
 v15 ὃ|ho|as|G3739|RelPro-ANS
@@ -346,7 +346,7 @@ v22 δὲ|de|-|G1161|Conj
 v22 ὁ|ho|-|G3588|Art-NMS
 v22 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v22 εἶπεν|eipen|-|G2036|V-AIA-3S
-v22 Οὐκ|Ouk|vvv|G3756|Adv
+v22 Οὐκ|Ouk|...|G3756|Adv
 v22 οἴδατε|oidate|You do not know|G1492|V-RIA-2P
 v22 τί|ti|what|G5101|IPro-ANS
 v22 αἰτεῖσθε|aiteisthe|you are asking|G154|V-PIM-2P
@@ -364,7 +364,7 @@ v22 Δυνάμεθα|Dynametha|We can|G1410|V-PIM/P-1P
 v23 Λέγει|Legei|[Jesus] said|G3004|V-PIA-3S
 v23 αὐτοῖς|autois|-|G846|PPro-DM3P
 v23 Τὸ|To|-|G3588|Art-ANS
-v23 μὲν|men|vvv|G3303|Conj
+v23 μὲν|men|...|G3303|Conj
 v23 ποτήριόν|potērion|cup|G4221|N-ANS
 v23 μου|mou|My|G1473|PPro-G1S
 v23 πίεσθε|piesthe|You will indeed drink|G4095|V-FIM-2P
@@ -417,7 +417,7 @@ v25 οἱ|hoi|[their]|G3588|Art-NMP
 v25 μεγάλοι|megaloi|superiors|G3173|Adj-NMP
 v25 κατεξουσιάζουσιν|katexousiazousin|exercise authority over|G2715|V-PIA-3P
 v25 αὐτῶν|autōn|them|G846|PPro-GN3P
-v26 οὐχ|ouch|vvv|G3756|Adv
+v26 οὐχ|ouch|...|G3756|Adv
 v26 οὕτως|houtōs|this way|G3779|Adv
 v26 ἔσται*|estai|It shall not be|G1510|V-FIM-3S
 v26 ἐν|en|among|G1722|Prep
@@ -449,7 +449,7 @@ v28 ὁ|ho|the|G3588|Art-NMS
 v28 Υἱὸς|Huios|Son|G5207|N-NMS
 v28 τοῦ|tou|-|G3588|Art-GMS
 v28 ἀνθρώπου|anthrōpou|of Man|G444|N-GMS
-v28 οὐκ|ouk|vvv|G3756|Adv
+v28 οὐκ|ouk|...|G3756|Adv
 v28 ἦλθεν|ēlthen|did not come|G2064|V-AIA-3S
 v28 διακονηθῆναι|diakonēthēnai|to be served|G1247|V-ANP
 v28 ἀλλὰ|alla|but|G235|Conj

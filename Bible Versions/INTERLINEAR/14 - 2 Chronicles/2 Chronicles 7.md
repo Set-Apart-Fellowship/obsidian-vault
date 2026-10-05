@@ -12,7 +12,7 @@ v1 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v1 מָלֵ֥א|mā·lê|filled|H4390|V-Qal-Perf-3ms
 v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 הַבָּֽיִת׃|hab·bā·yiṯ|the temple|H1004|Art | N-ms
-v2 וְלֹ֤א|wə·lō|vvv|H3808|Conj-w | Adv-NegPrt
+v2 וְלֹ֤א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v2 יָֽכְלוּ֙|yā·ḵə·lū|were unable|H3201|V-Qal-Perf-3cp
 v2 הַכֹּ֣הֲנִ֔ים|hak·kō·hă·nîm|The priests|H3548|Art | N-mp
 v2 לָב֖וֹא|lā·ḇō·w|to enter|H935|Prep-l | V-Qal-Inf
@@ -55,7 +55,7 @@ v4 הָעָ֑ם|hā·‘ām|the people|H5971|Art | N-ms
 v4 זֹבְחִ֥ים|zō·ḇə·ḥîm|offered|H2076|V-Qal-Prtcpl-mp
 v4 זֶ֖בַח|ze·ḇaḥ|sacrifices|H2077|N-ms
 v4 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
-v4 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v4 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v5 וַיִּזְבַּ֞ח|way·yiz·baḥ|offered|H2076|Conj-w | V-Qal-ConsecImperf-3ms
 v5 הַמֶּ֣לֶךְ|ham·me·leḵ|And King|H4428|Art | N-ms
 v5 שְׁלֹמֹה֮|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -101,7 +101,7 @@ v6 מַחֲצֹצְרִים|ma·ḥă·ṣō·ṣə·rīm|sounded trumpets|H269
 v6 נֶגְדָּ֔ם|neḡ·dām|Across from the Levites|H5048|Prep | 3mp
 v6 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v6 יִשְׂרָאֵ֖ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
-v6 עֹמְדִֽים׃ס|‘ō·mə·ḏîm|were standing|H5975|V-Qal-Prtcpl-mp
+v6 עֹמְדִֽים׃|‘ō·mə·ḏîm|were standing|H5975|V-Qal-Prtcpl-mp
 v7 וַיְקַדֵּ֣שׁ|way·qad·dêš|consecrated|H6942|Conj-w | V-Piel-ConsecImperf-3ms
 v7 שְׁלֹמֹ֗ה|šə·lō·mōh|Then Solomon|H8010|N-proper-ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
@@ -147,7 +147,7 @@ v8 עִמּ֔וֹ|‘im·mōw|with him|H5973|Prep | 3ms
 v8 קָהָ֖ל|qā·hāl|assembly of people|H6951|N-ms
 v8 גָּד֣וֹל|gā·ḏō·wl|great|H1419|Adj-ms
 v8 מְאֹ֑ד|mə·’ōḏ|a very|H3966|Adv
-v8 מִלְּב֥וֹא|mil·lə·ḇō·w|vvv|H935|Prep-m | V-Qal-Inf
+v8 מִלְּב֥וֹא|mil·lə·ḇō·w|...|H935|Prep-m | V-Qal-Inf
 v8 חֲמָ֖ת|ḥă·māṯ|from Lebo-hamath|H2574|N-proper-fs
 v8 עַד־|‘aḏ-|to|H5704|Prep
 v8 נַ֥חַל|na·ḥal|the Brook|H5158|N-msc
@@ -204,7 +204,7 @@ v11 לַעֲשׂ֧וֹת|la·‘ă·śō·wṯ|to do|H6213|Prep-l | V-Qal-Inf
 v11 בְּבֵית־|bə·ḇêṯ-|for the house|H1004|Prep-b | N-msc
 v11 יְהוָ֛ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v11 וּבְבֵית֖וֹ|ū·ḇə·ḇê·ṯōw|and for his own palace|H1004|Conj-w, Prep-b | N-msc | 3ms
-v11 הִצְלִֽיחַ׃פ|hiṣ·lî·aḥ|successfully|H6743|V-Hifil-Perf-3ms
+v11 הִצְלִֽיחַ׃|hiṣ·lî·aḥ|successfully|H6743|V-Hifil-Perf-3ms
 v12 וַיֵּרָ֧א|way·yê·rā|appeared|H7200|Conj-w | V-Nifal-ConsecImperf-3ms
 v12 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v12 אֶל־|’el-|to|H413|Prep
@@ -267,7 +267,7 @@ v15 קַשֻּׁב֑וֹת|qaš·šu·ḇō·wṯ|attentive|H7183|Adj-fp
 v15 לִתְפִלַּ֖ת|liṯ·p̄il·laṯ|to the prayers offered|H8605|Prep-l | N-fsc
 v15 הַמָּק֥וֹם|ham·mā·qō·wm|place|H4725|Art | N-ms
 v15 הַזֶּֽה׃|haz·zeh|in this|H2088|Art | Pro-ms
-v16 וְעַתָּ֗ה|wə·‘at·tāh|vvv|H6258|Conj-w | Adv
+v16 וְעַתָּ֗ה|wə·‘at·tāh|...|H6258|Conj-w | Adv
 v16 בָּחַ֤רְתִּי|bā·ḥar·tî|For I have now chosen|H977|V-Qal-Perf-1cs
 v16 וְהִקְדַּ֙שְׁתִּי֙|wə·hiq·daš·tî|and consecrated|H6942|Conj-w | V-Hifil-ConjPerf-1cs
 v16 אֶת־|’eṯ-|-|H853|DirObjM
@@ -310,7 +310,7 @@ v18 אָבִ֙יךָ֙|’ā·ḇî·ḵā|with your father|H1|N-msc | 2ms
 v18 לֵאמֹ֔ר|lê·mōr|when I said|H559|Prep-l | V-Qal-Inf
 v18 לֹֽא־|lō-|You will never|H3808|Adv-NegPrt
 v18 יִכָּרֵ֤ת|yik·kā·rêṯ|fail|H3772|V-Nifal-Imperf-3ms
-v18 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v18 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v18 אִ֔ישׁ|’îš|to have a man|H376|N-ms
 v18 מוֹשֵׁ֖ל|mō·wō·šêl|to rule|H4910|V-Qal-Prtcpl-ms
 v18 בְּיִשְׂרָאֵֽל׃|bə·yiś·rā·’êl|over Israel|H3478|Prep-b | N-proper-ms
@@ -328,7 +328,7 @@ v19 וַעֲבַדְתֶּם֙|wa·‘ă·ḇaḏ·tem|to serve|H5647|Conj-w | 
 v19 אֱלֹהִ֣ים|’ĕ·lō·hîm|gods|H430|N-mp
 v19 אֲחֵרִ֔ים|’ă·ḥê·rîm|other|H312|Adj-mp
 v19 וְהִשְׁתַּחֲוִיתֶ֖ם|wə·hiš·ta·ḥă·wî·ṯem|and worship|H7812|Conj-w | V-Hitpael-ConjPerf-2mp
-v19 לָהֶֽם׃|lā·hem||H0|Prep | 3mp
+v19 לָהֶֽם׃|lā·hem|-|H0|Prep | 3mp
 v20 וּנְתַשְׁתִּ֗ים|ū·nə·ṯaš·tîm|then I will uproot Israel|H5428|Conj-w | V-Qal-ConjPerf-1cs | 3mp
 v20 מֵעַ֤ל|mê·‘al|from|H5921|Prep-m
 v20 אַדְמָתִי֙|’aḏ·mā·ṯî|the soil|H127|N-fsc | 1cs
@@ -383,7 +383,7 @@ v22 וַֽיַּחֲזִ֙יקוּ֙|way·ya·ḥă·zî·qū|and have embraced
 v22 בֵּאלֹהִ֣ים|bê·lō·hîm|gods|H430|Prep-b | N-mp
 v22 אֲחֵרִ֔ים|’ă·ḥê·rîm|other|H312|Adj-mp
 v22 וַיִּשְׁתַּחֲו֥וּ|way·yiš·ta·ḥă·wū|worshiping|H7812|Conj-w | V-Hitpael-ConsecImperf-3mp
-v22 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v22 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v22 וַיַּֽעַבְד֑וּם|way·ya·‘aḇ·ḏūm|and serving them|H5647|Conj-w | V-Qal-ConsecImperf-3mp | 3mp
 v22 עַל־|‘al-|because of|H5921|Prep
 v22 כֵּן֙|kên|this|H3651|Adv
@@ -392,4 +392,4 @@ v22 עֲלֵיהֶ֔ם|‘ă·lê·hem|upon them|H5921|Prep | 3mp
 v22 אֵ֥ת|’êṯ|-|H853|DirObjM
 v22 כָּל־|kāl-|all|H3605|N-msc
 v22 הָרָעָ֖ה|hā·rā·‘āh|disaster|H7451|Art | Adj-fs
-v22 הַזֹּֽאת׃פ|haz·zōṯ|this|H2063|Art | Pro-fs
+v22 הַזֹּֽאת׃|haz·zōṯ|this|H2063|Art | Pro-fs

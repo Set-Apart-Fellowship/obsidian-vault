@@ -93,7 +93,7 @@ v8 נֹתֵ֥ן|nō·ṯên|He is giving|H5414|V-Qal-Prtcpl-ms
 v8 לָֽךְ׃|lāḵ|you|H0|Prep | 2ms
 v9 יְקִֽימְךָ֨|yə·qî·mə·ḵā|will establish you|H6965|V-Hifil-Imperf-3ms | 2ms
 v9 יְהוָ֥ה|Yah·weh|The LORD|H3068|N-proper-ms
-v9 לוֹ֙|lōw||H0|Prep | 3ms
+v9 לוֹ֙|lōw|-|H0|Prep | 3ms
 v9 לְעַ֣ם|lə·‘am|people|H5971|Prep-l | N-ms
 v9 קָד֔וֹשׁ|qā·ḏō·wōš|as His holy|H6918|Adj-ms
 v9 כַּאֲשֶׁ֖ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
@@ -115,7 +115,7 @@ v10 כִּ֛י|kî|that|H3588|Conj
 v10 שֵׁ֥ם|šêm|by the name of|H8034|N-msc
 v10 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v10 נִקְרָ֣א|niq·rā|you are called|H7121|V-Nifal-Perf-3ms
-v10 עָלֶ֑יךָ|‘ā·le·ḵā||H5921|Prep | 2ms
+v10 עָלֶ֑יךָ|‘ā·le·ḵā|-|H5921|Prep | 2ms
 v10 וְיָֽרְא֖וּ|wə·yā·rə·’ū|and they will stand in awe|H3372|Conj-w | V-Qal-ConjPerf-3cp
 v10 מִמֶּֽךָּ׃|mim·me·kā|of you|H4480|Prep | 2ms
 v11 וְהוֹתִֽרְךָ֤|wə·hō·w·ṯir·ḵā|will make you prosper|H3498|Conj-w | V-Hifil-ConjPerf-3ms | 2ms
@@ -137,7 +137,7 @@ v11 לָ֥תֶת|lā·ṯeṯ|to give|H5414|Prep-l | V-Qal-Inf
 v11 לָֽךְ׃|lāḵ|you|H0|Prep | 2ms
 v12 יִפְתַּ֣ח|yip̄·taḥ|will open|H6605|V-Qal-Imperf-3ms
 v12 יְהוָ֣ה׀|Yah·weh|The LORD|H3068|N-proper-ms
-v12 לְ֠ךָ|lə·ḵā||H0|Prep | 2ms
+v12 לְ֠ךָ|lə·ḵā|-|H0|Prep | 2ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 אוֹצָר֨וֹ|’ō·w·ṣā·rōw|storehouse|H214|N-msc | 3ms
 v12 הַטּ֜וֹב|haṭ·ṭō·wḇ|His abundant|H2896|Art | Adj-ms
@@ -171,7 +171,7 @@ v13 תִהְיֶ֖ה|ṯih·yeh|...|H1961|V-Qal-Imperf-2ms
 v13 לְמָ֑טָּה|lə·māṭ·ṭāh|downward|H4295|Prep-l | Adv
 v13 כִּֽי־|kî-|if|H3588|Conj
 v13 תִשְׁמַ֞ע|ṯiš·ma‘|you hear|H8085|V-Qal-Imperf-2ms
-v13 אֶל־|’el-||H413|Prep
+v13 אֶל־|’el-|-|H413|Prep
 v13 מִצְוֺ֣ת׀|miṣ·wōṯ|the commandments|H4687|N-fpc
 v13 יְהוָ֣ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v13 אֱלֹהֶ֗יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
@@ -196,7 +196,7 @@ v14 לָלֶ֗כֶת|lā·le·ḵeṯ|and do not go|H1980|Prep-l | V-Qal-Inf
 v14 אַחֲרֵ֛י|’a·ḥă·rê|after|H310|Prep
 v14 אֱלֹהִ֥ים|’ĕ·lō·hîm|gods|H430|N-mp
 v14 אֲחֵרִ֖ים|’ă·ḥê·rîm|other|H312|Adj-mp
-v14 לְעָבְדָֽם׃ס|lə·‘ā·ḇə·ḏām|to serve them|H5647|Prep-l | V-Qal-Inf | 3mp
+v14 לְעָבְדָֽם׃|lə·‘ā·ḇə·ḏām|to serve them|H5647|Prep-l | V-Qal-Inf | 3mp
 v15 וְהָיָ֗ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v15 אִם־|’im-|If, however|H518|Conj
 v15 לֹ֤א|lō|you do not|H3808|Adv-NegPrt
@@ -271,7 +271,7 @@ v20 עֲזַבְתָּֽנִי׃|‘ă·zaḇ·tā·nî|in forsaking Him|H5800|
 v21 יַדְבֵּ֧ק|yaḏ·bêq|cling|H1692|V-Hifil-Imperf.Jus-3ms
 v21 יְהוָ֛ה|Yah·weh|The LORD|H3068|N-proper-ms
 v21 בְּךָ֖|bə·ḵā|to you|H0|Prep | 2ms
-v21 אֶת־|’eṯ-||H853|DirObjM
+v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 הַדָּ֑בֶר|had·dā·ḇer|will make the plague|H1698|Art | N-ms
 v21 עַ֚ד|‘aḏ|until|H5704|Prep
 v21 כַּלֹּת֣וֹ|kal·lō·ṯōw|He has exterminated|H3615|V-Piel-Inf | 3ms
@@ -423,7 +423,7 @@ v32 וְעֵינֶ֣יךָ|wə·‘ê·ne·ḵā|while your eyes|H5869|Conj-w | 
 v32 רֹא֔וֹת|rō·’ō·wṯ|looking|H7200|V-Qal-Prtcpl-fp
 v32 וְכָל֥וֹת|wə·ḵā·lō·wṯ|grow weary|H3616|Conj-w | Adj-fp
 v32 אֲלֵיהֶ֖ם|’ă·lê·hem|for them|H413|Prep | 3mp
-v32 כָּל־|kāl-|vvv|H3605|N-msc
+v32 כָּל־|kāl-|...|H3605|N-msc
 v32 הַיּ֑וֹם|hay·yō·wm|day after day|H3117|Art | N-ms
 v32 וְאֵ֥ין|wə·’ên|with no|H369|Conj-w | Adv
 v32 לְאֵ֖ל|lə·’êl|power in|H410|Prep-l | N-msc
@@ -458,7 +458,7 @@ v35 הַבִּרְכַּ֙יִם֙|hab·bir·ka·yim|your knees|H1290|Art | N-fd
 v35 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v35 הַשֹּׁקַ֔יִם|haš·šō·qa·yim|and thighs|H7785|Art | N-fd
 v35 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v35 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v35 לֹא־|lō-|...|H3808|Adv-NegPrt
 v35 תוּכַ֖ל|ṯū·ḵal|incurable|H3201|V-Qal-Imperf-2ms
 v35 לְהֵרָפֵ֑א|lə·hê·rā·p̄ê|...|H7495|Prep-l | V-Nifal-Inf
 v35 מִכַּ֥ף|mik·kap̄|from the soles|H3709|Prep-m | N-fsc
@@ -470,7 +470,7 @@ v36 יְהוָ֜ה|Yah·weh|The LORD|H3068|N-proper-ms
 v36 אֹֽתְךָ֗|’ō·ṯə·ḵā|you|H853|DirObjM | 2ms
 v36 וְאֶֽת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v36 מַלְכְּךָ֙|mal·kə·ḵā|the king|H4428|N-msc | 2ms
-v36 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v36 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v36 תָּקִ֣ים|tā·qîm|you appoint|H6965|V-Hifil-Imperf-2ms
 v36 עָלֶ֔יךָ|‘ā·le·ḵā|...|H5921|Prep | 2ms
 v36 אֶל־|’el-|to|H413|Prep
@@ -518,7 +518,7 @@ v39 תֹאכְלֶ֖נּוּ|ṯō·ḵə·len·nū|will eat them|H398|V-Qal-Imp
 v39 הַתֹּלָֽעַת׃|hat·tō·lā·‘aṯ|worms|H8438|Art | N-fs
 v40 זֵיתִ֛ים|zê·ṯîm|olive trees|H2132|N-mp
 v40 יִהְי֥וּ|yih·yū|You will have|H1961|V-Qal-Imperf-3mp
-v40 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v40 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v40 בְּכָל־|bə·ḵāl|throughout|H3605|Prep-b | N-msc
 v40 גְּבוּלֶ֑ךָ|gə·ḇū·le·ḵā|your territory|H1366|N-msc | 2ms
 v40 וְשֶׁ֙מֶן֙|wə·še·men|yourself with oil|H8081|Conj-w | N-ms
@@ -682,11 +682,11 @@ v52 וְהַבְּצֻר֔וֹת|wə·hab·bə·ṣu·rō·wṯ|and fortified|H1
 v52 אֲשֶׁ֥ר|’ă·šer|in which|H834|Pro-r
 v52 אַתָּ֛ה|’at·tāh|you|H859|Pro-2ms
 v52 בֹּטֵ֥חַ|bō·ṭê·aḥ|trust|H982|V-Qal-Prtcpl-ms
-v52 בָּהֵ֖ן|bā·hên||H0|Prep | 3fp
+v52 בָּהֵ֖ן|bā·hên|-|H0|Prep | 3fp
 v52 בְּכָל־|bə·ḵāl|throughout|H3605|Prep-b | N-msc
 v52 אַרְצֶ֑ךָ|’ar·ṣe·ḵā|your land|H776|N-fsc | 2ms
 v52 וְהֵצַ֤ר|wə·hê·ṣar|They will besiege|H6887|Conj-w | V-Hifil-ConjPerf-3ms
-v52 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v52 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v52 בְּכָל־|bə·ḵāl|all|H3605|Prep-b | N-msc
 v52 שְׁעָרֶ֔יךָ|šə·‘ā·re·ḵā|your cities|H8179|N-mpc | 2ms
 v52 בְּכָ֨ל־|bə·ḵāl|throughout|H3605|Prep-b | N-msc
@@ -749,7 +749,7 @@ v55 שְׁעָרֶֽיךָ׃|šə·‘ā·re·ḵā|your gates|H8179|N-mpc | 2ms
 v56 הָרַכָּ֨ה|hā·rak·kāh|The most gentle|H7390|Art | Adj-fs
 v56 בְךָ֜|ḇə·ḵā|among you|H0|Prep | 2ms
 v56 וְהָעֲנֻגָּ֗ה|wə·hā·‘ă·nug·gāh|and refined woman|H6028|Conj-w, Art | Adj-fs
-v56 אֲשֶׁ֨ר|’ă·šer||H834|Pro-r
+v56 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v56 לֹא־|lō-|she would not|H3808|Adv-NegPrt
 v56 נִסְּתָ֤ה|nis·sə·ṯāh|venture|H5254|V-Piel-Perf-3fs
 v56 כַף־|ḵap̄-|the sole|H3709|N-fsc
@@ -819,7 +819,7 @@ v59 וָחֳלָיִ֥ם|wā·ḥo·lā·yim|sicknesses|H2483|Conj-w | N-mp
 v59 רָעִ֖ים|rā·‘îm|and terrible|H7451|Adj-mp
 v59 וְנֶאֱמָנִֽים׃|wə·ne·’ĕ·mā·nîm|and chronic|H539|Conj-w | V-Nifal-Prtcpl-mp
 v60 וְהֵשִׁ֣יב|wə·hê·šîḇ|He will afflict you again|H7725|Conj-w | V-Hifil-ConjPerf-3ms
-v60 בְּךָ֗|bə·ḵā||H0|Prep | 2ms
+v60 בְּךָ֗|bə·ḵā|-|H0|Prep | 2ms
 v60 אֵ֚ת|’êṯ|-|H853|DirObjM
 v60 כָּל־|kāl-|with all|H3605|N-msc
 v60 מַדְוֵ֣ה|maḏ·wêh|the diseases|H4064|N-msc
@@ -910,13 +910,13 @@ v65 הָהֵם֙|hā·hêm|Among those|H1992|Art | Pro-3mp
 v65 לֹ֣א|lō|you will find no|H3808|Adv-NegPrt
 v65 תַרְגִּ֔יעַ|ṯar·gî·a‘|repose|H7280|V-Hifil-Imperf-2ms
 v65 וְלֹא־|wə·lō-|not even|H3808|Conj-w | Adv-NegPrt
-v65 יִהְיֶ֥ה|yih·yeh||H1961|V-Qal-Imperf-3ms
+v65 יִהְיֶ֥ה|yih·yeh|-|H1961|V-Qal-Imperf-3ms
 v65 מָנ֖וֹחַ|mā·nō·w·aḥ|a resting place|H4494|N-ms
 v65 לְכַף־|lə·ḵap̄-|for the sole|H3709|Prep-l | N-fsc
 v65 רַגְלֶ֑ךָ|raḡ·le·ḵā|of your foot|H7272|N-fsc | 2ms
 v65 וְנָתַן֩|wə·nā·ṯan|will give|H5414|Conj-w | V-Qal-ConjPerf-3ms
 v65 יְהוָ֨ה|Yah·weh|the LORD|H3068|N-proper-ms
-v65 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v65 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v65 שָׁם֙|šām|There|H8033|Adv
 v65 לֵ֣ב|lêḇ|heart|H3820|N-ms
 v65 רַגָּ֔ז|rag·gāz|you a trembling|H7268|Adj-ms
@@ -927,7 +927,7 @@ v65 נָֽפֶשׁ׃|nā·p̄eš|soul|H5315|N-fs
 v66 וְהָי֣וּ|wə·hā·yū|-|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v66 חַיֶּ֔יךָ|ḥay·ye·ḵā|So your life|H2416|N-mpc | 2ms
 v66 תְּלֻאִ֥ים|tə·lu·’îm|will hang in doubt|H8511|V-Qal-QalPassPrtcpl-mp
-v66 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v66 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v66 מִנֶּ֑גֶד|min·ne·ḡeḏ|before you|H5048|Prep-m
 v66 וּפָֽחַדְתָּ֙|ū·p̄ā·ḥaḏ·tā|and you will be afraid|H6342|Conj-w | V-Qal-ConjPerf-2ms
 v66 לַ֣יְלָה|lay·lāh|night|H3915|N-ms
@@ -971,4 +971,4 @@ v68 לְאֹיְבֶ֛יךָ|lə·’ō·yə·ḇe·ḵā|yourselves to your ene
 v68 לַעֲבָדִ֥ים|la·‘ă·ḇā·ḏîm|as male|H5650|Prep-l | N-mp
 v68 וְלִשְׁפָח֖וֹת|wə·liš·p̄ā·ḥō·wṯ|and female slaves|H8198|Conj-w, Prep-l | N-fp
 v68 וְאֵ֥ין|wə·’ên|but no|H369|Conj-w | Adv
-v68 קֹנֶֽה׃ס|qō·neh|one will buy you|H7069|V-Qal-Prtcpl-ms
+v68 קֹנֶֽה׃|qō·neh|one will buy you|H7069|V-Qal-Prtcpl-ms

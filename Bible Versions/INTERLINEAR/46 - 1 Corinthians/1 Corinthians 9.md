@@ -4,7 +4,7 @@ v1 ἐλεύθερος|eleutheros|free|G1658|Adj-NMS
 v1 οὐκ|ouk|not|G3756|Adv
 v1 εἰμὶ|eimi|Am I|G1510|V-PIA-1S
 v1 ἀπόστολος|apostolos|an apostle|G652|N-NMS
-v1 οὐχὶ|ouchi|vvv|G3780|IntPrtcl
+v1 οὐχὶ|ouchi|...|G3780|IntPrtcl
 v1 Ἰησοῦν|Iēsoun|Jesus|G2424|N-AMS
 v1 τὸν|ton|-|G3588|Art-AMS
 v1 Κύριον|Kyrion|Lord|G2962|N-AMS
@@ -23,7 +23,7 @@ v2 ἄλλοις|allois|to others|G243|Adj-DMP
 v2 οὐκ|ouk|not|G3756|Adv
 v2 εἰμὶ|eimi|I am|G1510|V-PIA-1S
 v2 ἀπόστολος|apostolos|an apostle|G652|N-NMS
-v2 ἀλλά|alla|vvv|G235|Conj
+v2 ἀλλά|alla|...|G235|Conj
 v2 γε|ge|surely|G1065|Prtcl
 v2 ὑμῖν|hymin|to you|G4771|PPro-D2P
 v2 εἰμι|eimi|I am|G1510|V-PIA-1S
@@ -67,7 +67,7 @@ v5 ἀπόστολοι|apostoloi|apostles|G652|N-NMP
 v5 καὶ|kai|and|G2532|Conj
 v5 οἱ|hoi|the|G3588|Art-NMP
 v5 ἀδελφοὶ|adelphoi|brothers|G80|N-NMP
-v5 τοῦ|tou|vvv|G3588|Art-GMS
+v5 τοῦ|tou|...|G3588|Art-GMS
 v5 Κυρίου|Kyriou|Lord's|G2962|N-GMS
 v5 καὶ|kai|and|G2532|Conj
 v5 Κηφᾶς|Kēphas|Cephas|G2786|N-NMS
@@ -93,7 +93,7 @@ v7 καὶ|kai|and|G2532|Conj
 v7 τὸν|ton|-|G3588|Art-AMS
 v7 καρπὸν|karpon|fruit|G2590|N-AMS
 v7 αὐτοῦ|autou|its|G846|PPro-GM3S
-v7 οὐκ|ouk|vvv|G3756|Adv
+v7 οὐκ|ouk|...|G3756|Adv
 v7 ἐσθίει|esthiei|does not eat of|G2068|V-PIA-3S
 v7 ἢ|ē|-|G2228|Conj
 v7 τίς|tis|Who|G5101|IPro-NMS
@@ -103,11 +103,11 @@ v7 καὶ|kai|and|G2532|Conj
 v7 ἐκ|ek|of|G1537|Prep
 v7 τοῦ|tou|-|G3588|Art-GNS
 v7 γάλακτος|galaktos|milk|G1051|N-GNS
-v7 τῆς|tēs|vvv|G3588|Art-GFS
+v7 τῆς|tēs|...|G3588|Art-GFS
 v7 ποίμνης|poimnēs|[its]|G4167|N-GFS
-v7 οὐκ|ouk|vvv|G3756|Adv
+v7 οὐκ|ouk|...|G3756|Adv
 v7 ἐσθίει|esthiei|does not drink|G2068|V-PIA-3S
-v8 Μὴ|Mē|vvv|G3361|Adv
+v8 Μὴ|Mē|...|G3361|Adv
 v8 κατὰ|kata|from a human perspective|G2596|Prep
 v8 ἄνθρωπον|anthrōpon|...|G444|N-AMS
 v8 ταῦτα|tauta|this|G3778|DPro-ANP
@@ -125,7 +125,7 @@ v9 τῷ|tō|the|G3588|Art-DMS
 v9 Μωϋσέως|Mōuseōs|of Moses|G3475|N-GMS
 v9 νόμῳ|nomō|Law|G3551|N-DMS
 v9 γέγραπται|gegraptai|it is written|G1125|V-RIM/P-3S
-v9 Οὐ|Ou|vvv|G3756|Adv
+v9 Οὐ|Ou|...|G3756|Adv
 v9 κημώσεις|kēmōseis|Do not muzzle|G5392|V-FIA-2S
 v9 βοῦν|boun|an ox|G1016|N-AMS
 v9 ἀλοῶντα|aloōnta|[while it is] treading out the grain|G248|V-PPA-AMS
@@ -154,7 +154,7 @@ v10 ἀροτριᾶν|arotrian|plows|G722|V-PNA
 v10 καὶ|kai|and|G2532|Conj
 v10 ὁ|ho|the|G3588|Art-NMS
 v10 ἀλοῶν|aloōn|thresher [ threshes ]|G248|V-PPA-NMS
-v10 ἐπ’|ep’|vvv|G1909|Prep
+v10 ἐπ’|ep’|...|G1909|Prep
 v10 ἐλπίδι|elpidi|[also] expect|G1680|N-DFS
 v10 τοῦ|tou|-|G3588|Art-GNS
 v10 μετέχειν|metechein|to share in the harvest|G3348|V-PNA
@@ -165,7 +165,7 @@ v11 τὰ|ta|-|G3588|Art-ANP
 v11 πνευματικὰ|pneumatika|spiritual [seed]|G4152|Adj-ANP
 v11 ἐσπείραμεν|espeiramen|have sown|G4687|V-AIA-1P
 v11 μέγα|mega|[is it] too much|G3173|Adj-NNS
-v11 εἰ|ei|vvv|G1487|Conj
+v11 εἰ|ei|...|G1487|Conj
 v11 ἡμεῖς|hēmeis|for us|G1473|PPro-N1P
 v11 ὑμῶν|hymōn|from you|G4771|PPro-G2P
 v11 τὰ|ta|-|G3588|Art-ANP
@@ -181,7 +181,7 @@ v12 οὐ|ou|shouldn't|G3756|Adv
 v12 μᾶλλον|mallon|[have it] all the more|G3123|Adv
 v12 ἡμεῖς|hēmeis|we|G1473|PPro-N1P
 v12 ἀλλ’|all’|But|G235|Conj
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 ἐχρησάμεθα|echrēsametha|we did not exercise|G5530|V-AIM-1P
 v12 τῇ|tē|-|G3588|Art-DFS
 v12 ἐξουσίᾳ|exousia|right|G1849|N-DFS
@@ -198,7 +198,7 @@ v12 τῷ|tō|the|G3588|Art-DNS
 v12 εὐαγγελίῳ|euangeliō|gospel|G2098|N-DNS
 v12 τοῦ|tou|of|G3588|Art-GMS
 v12 Χριστοῦ|Christou|Christ|G5547|N-GMS
-v13 Οὐκ|Ouk|vvv|G3756|Adv
+v13 Οὐκ|Ouk|...|G3756|Adv
 v13 οἴδατε|oidate|Do you not know|G1492|V-RIA-2P
 v13 ὅτι|hoti|that|G3754|Conj
 v13 οἱ|hoi|those who|G3588|Art-NMP
@@ -232,11 +232,11 @@ v14 εὐαγγελίου|euangeliou|gospel|G2098|N-GNS
 v14 ζῆν|zēn|should receive their living|G2198|V-PNA
 v15 ἐγὼ|egō|I|G1473|PPro-N1S
 v15 δὲ|de|But|G1161|Conj
-v15 οὐ|ou|vvv|G3756|Adv
+v15 οὐ|ou|...|G3756|Adv
 v15 κέχρημαι|kechrēmai|have not used|G5530|V-RIM/P-1S
 v15 οὐδενὶ|oudeni|[any]|G3762|Adj-DMS
 v15 τούτων|toutōn|of these [rights]|G3778|DPro-GNP
-v15 οὐκ|ouk|vvv|G3756|Adv
+v15 οὐκ|ouk|...|G3756|Adv
 v15 ἔγραψα|egrapsa|I am not writing|G1125|V-AIA-1S
 v15 δὲ|de|And|G1161|Conj
 v15 ταῦτα|tauta|this|G3778|DPro-ANP
@@ -272,7 +272,7 @@ v16 γάρ|gar|-|G1063|Conj
 v16 μοί|moi|to me|G1473|PPro-D1S
 v16 ἐστιν|estin|-|G1510|V-PIA-3S
 v16 ἐὰν|ean|if|G1437|Conj
-v16 μὴ|mē|vvv|G3361|Adv
+v16 μὴ|mē|...|G3361|Adv
 v16 εὐαγγελίσωμαι|euangelisōmai|I do not preach the gospel|G2097|V-ASM-1S
 v17 εἰ|ei|If|G1487|Conj
 v17 γὰρ|gar|-|G1063|Conj
@@ -386,7 +386,7 @@ v23 ἵνα|hina|so that|G2443|Conj
 v23 συνκοινωνὸς|synkoinōnos|...|G4791|N-NMS
 v23 αὐτοῦ|autou|in its [blessings]|G846|PPro-GN3S
 v23 γένωμαι|genōmai|I may share|G1096|V-ASM-1S
-v24 Οὐκ|Ouk|vvv|G3756|Adv
+v24 Οὐκ|Ouk|...|G3756|Adv
 v24 οἴδατε|oidate|Do you not know|G1492|V-RIA-2P
 v24 ὅτι|hoti|that|G3754|Conj
 v24 οἱ|hoi|the|G3588|Art-NMP
@@ -414,7 +414,7 @@ v25 ἐγκρατεύεται|enkrateuetai|trains with strict discipline|G1467|V
 v25 ἐκεῖνοι|ekeinoi|They [do it]|G1565|DPro-NMP
 v25 μὲν|men|-|G3303|Conj
 v25 οὖν|oun|-|G3767|Conj
-v25 ἵνα|hina|vvv|G2443|Conj
+v25 ἵνα|hina|...|G2443|Conj
 v25 φθαρτὸν|phtharton|[that is] perishable|G5349|Adj-AMS
 v25 στέφανον|stephanon|a crown|G4735|N-AMS
 v25 λάβωσιν|labōsin|[for]|G2983|V-ASA-3P
@@ -423,9 +423,9 @@ v25 δὲ|de|but|G1161|Conj
 v25 ἄφθαρτον|aphtharton|[that is] imperishable|G862|Adj-AMS
 v26 ἐγὼ|egō|I|G1473|PPro-N1S
 v26 τοίνυν|toinyn|Therefore|G5106|Conj
-v26 οὕτως|houtōs|vvv|G3779|Adv
+v26 οὕτως|houtōs|...|G3779|Adv
 v26 τρέχω|trechō|do not run|G5143|V-PIA-1S
-v26 ὡς|hōs|vvv|G5613|Adv
+v26 ὡς|hōs|...|G5613|Adv
 v26 οὐκ|ouk|...|G3756|Adv
 v26 ἀδήλως|adēlōs|aimlessly|G84|Adv
 v26 οὕτως|houtōs|like|G3779|Adv
@@ -441,8 +441,8 @@ v27 τὸ|to|-|G3588|Art-ANS
 v27 σῶμα|sōma|body|G4983|N-ANS
 v27 καὶ|kai|and|G2532|Conj
 v27 δουλαγωγῶ|doulagōgō|make it my slave|G1396|V-PIA-1S
-v27 μή|mē|vvv|G3361|Adv
-v27 πως|pōs|vvv|G4459|Adv
+v27 μή|mē|...|G3361|Adv
+v27 πως|pōs|...|G4459|Adv
 v27 ἄλλοις|allois|to others|G243|Adj-DMP
 v27 κηρύξας|kēryxas|[so that] after I have preached|G2784|V-APA-NMS
 v27 αὐτὸς|autos|I myself|G846|PPro-NM3S

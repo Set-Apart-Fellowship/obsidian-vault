@@ -59,7 +59,7 @@ v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 דָּוִ֛ד|dā·wiḏ|[him]|H1732|N-proper-ms
 v3 לְמֶ֖לֶךְ|lə·me·leḵ|king|H4428|Prep-l | N-ms
 v3 עַל־|‘al-|over|H5921|Prep
-v3 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v3 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v4 בֶּן־|ben-|years old|H1121|N-msc
 v4 שְׁלֹשִׁ֥ים|šə·lō·šîm|was thirty|H7970|Number-cp
 v4 שָׁנָ֛ה|šā·nāh|...|H8141|N-fs
@@ -111,7 +111,7 @@ v6 דָוִ֖ד|ḏā·wiḏ|David|H1732|N-proper-ms
 v6 הֵֽנָּה׃|hên·nāh|here|H2008|Adv
 v7 וַיִּלְכֹּ֣ד|way·yil·kōḏ|captured|H3920|Conj-w | V-Qal-ConsecImperf-3ms
 v7 דָּוִ֔ד|dā·wiḏ|Nevertheless, David|H1732|N-proper-ms
-v7 אֵ֖ת|’êṯ||H853|DirObjM
+v7 אֵ֖ת|’êṯ|-|H853|DirObjM
 v7 מְצֻדַ֣ת|mə·ṣu·ḏaṯ|the fortress|H4686|N-fsc
 v7 צִיּ֑וֹן|ṣî·yō·wn|of Zion|H6726|N-proper-fs
 v7 הִ֖יא|hî|that is|H1931|Pro-3fs
@@ -162,7 +162,7 @@ v10 וְגָד֑וֹל|wə·ḡā·ḏō·wl|and greater|H1431|Conj-w | V-Qal-In
 v10 וַיהוָ֛ה|Yah·weh|for the LORD|H3068|Conj-w | N-proper-ms
 v10 אֱלֹהֵ֥י|’ĕ·lō·hê|God|H430|N-mpc
 v10 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
-v10 עִמּֽוֹ׃פ|‘im·mōw|was with him|H5973|Prep | 3ms
+v10 עִמּֽוֹ׃|‘im·mōw|was with him|H5973|Prep | 3ms
 v11 וַ֠יִּשְׁלַח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v11 חִירָ֨ם|ḥî·rām|Now Hiram|H2438|N-proper-ms
 v11 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
@@ -193,7 +193,7 @@ v12 נִשֵּׂ֣א|niś·śê|and had exalted|H5375|V-Piel-Perf-3ms
 v12 מַמְלַכְתּ֔וֹ|mam·laḵ·tōw|his kingdom|H4467|N-fsc | 3ms
 v12 בַּעֲב֖וּר|ba·‘ă·ḇūr|for the sake of|H5668|Prep-b | N-ms
 v12 עַמּ֥וֹ|‘am·mōw|His people|H5971|N-msc | 3ms
-v12 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v12 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v13 וַיִּקַּח֩|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v13 דָּוִ֨ד|dā·wiḏ|David|H1732|N-proper-ms
 v13 ע֜וֹד|‘ō·wḏ|more|H5750|Adv
@@ -223,7 +223,7 @@ v15 וְנֶ֥פֶג|wə·ne·p̄eḡ|Nepheg|H5298|Conj-w | N-proper-ms
 v15 וְיָפִֽיעַ׃|wə·yā·p̄î·a‘|Japhia|H3309|Conj-w | N-proper-ms
 v16 וֶאֱלִישָׁמָ֥ע|we·’ĕ·lî·šā·mā‘|Elishama|H476|Conj-w | N-proper-ms
 v16 וְאֶלְיָדָ֖ע|wə·’el·yā·ḏā‘|Eliada|H450|Conj-w | N-proper-ms
-v16 וֶאֱלִיפָֽלֶט׃פ|we·’ĕ·lî·p̄ā·leṭ|and Eliphelet|H467|Conj-w | N-proper-ms
+v16 וֶאֱלִיפָֽלֶט׃|we·’ĕ·lî·p̄ā·leṭ|and Eliphelet|H467|Conj-w | N-proper-ms
 v17 וַיִּשְׁמְע֣וּ|way·yiš·mə·‘ū|heard|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v17 פְלִשְׁתִּ֗ים|p̄ə·liš·tîm|When the Philistines|H6430|N-proper-mp
 v17 כִּי־|kî-|that|H3588|Conj
@@ -252,7 +252,7 @@ v18 רְפָאִֽים׃|rə·p̄ā·’îm|of Rephaim|H7497|N-proper-mp
 v19 וַיִּשְׁאַ֨ל|way·yiš·’al|inquired|H7592|Conj-w | V-Qal-ConsecImperf-3ms
 v19 דָּוִ֤ד|dā·wiḏ|So David|H1732|N-proper-ms
 v19 בַּֽיהוָה֙|Yah·weh|of the LORD|H3068|Prep-b | N-proper-ms
-v19 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v19 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v19 הַאֶֽעֱלֶה֙|ha·’e·‘ĕ·leh|Should I go up|H5927|V-Qal-Imperf-1cs
 v19 אֶל־|’el-|against|H413|Prep
 v19 פְּלִשְׁתִּ֔ים|pə·liš·tîm|the Philistines|H6430|N-proper-mp
@@ -271,7 +271,7 @@ v19 הַפְּלִשְׁתִּ֖ים|hap·pə·liš·tîm|the Philistines|H6430|
 v19 בְּיָדֶֽךָ׃|bə·yā·ḏe·ḵā|into your hand|H3027|Prep-b | N-fsc | 2ms
 v20 וַיָּבֹ֨א|way·yā·ḇō|went|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v20 דָוִ֥ד|ḏā·wiḏ|So David|H1732|N-proper-ms
-v20 בְּבַֽעַל־|bə·ḇa·‘al-|vvv|H1188|Prep
+v20 בְּבַֽעַל־|bə·ḇa·‘al-|...|H1188|Prep
 v20 פְּרָצִים֮|pə·rā·ṣîm|to Baal-perazim|H1188|Prep | N-proper-fs
 v20 וַיַּכֵּ֣ם|way·yak·kêm|where he defeated [the Philistines]|H5221|Conj-w | V-Hifil-ConsecImperf-3ms | 3mp
 v20 שָׁ֣ם|šām|...|H8033|Adv
@@ -290,7 +290,7 @@ v20 קָרָ֛א|qā·rā|he called|H7121|V-Qal-Perf-3ms
 v20 שֵֽׁם־|šêm-|...|H8034|N-msc
 v20 הַמָּק֥וֹם|ham·mā·qō·wm|place|H4725|Art | N-ms
 v20 הַה֖וּא|ha·hū|that|H1931|Art | Pro-3ms
-v20 בַּ֥עַל|ba·‘al|vvv|H1188|Prep
+v20 בַּ֥עַל|ba·‘al|...|H1188|Prep
 v20 פְּרָצִֽים׃|pə·rā·ṣîm|Baal-perazim|H1188|N-proper-fs
 v21 וַיַּעַזְבוּ־|way·ya·‘az·ḇū-|the Philistines abandoned|H5800|Conj-w | V-Qal-ConsecImperf-3mp
 v21 שָׁ֖ם|šām|There|H8033|Adv
@@ -298,7 +298,7 @@ v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 עֲצַבֵּיהֶ֑ם|‘ă·ṣab·bê·hem|their idols|H6091|N-mpc | 3mp
 v21 וַיִּשָּׂאֵ֥ם|way·yiś·śā·’êm|carried them away|H5375|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
 v21 דָּוִ֖ד|dā·wiḏ|and David|H1732|N-proper-ms
-v21 וַאֲנָשָֽׁיו׃פ|wa·’ă·nā·šāw|and his men|H582|Conj-w | N-mpc | 3ms
+v21 וַאֲנָשָֽׁיו׃|wa·’ă·nā·šāw|and his men|H582|Conj-w | N-mpc | 3ms
 v22 וַיֹּסִ֥פוּ|way·yō·si·p̄ū|Once again|H3254|Conj-w | V-Hifil-ConsecImperf-3mp
 v22 ע֛וֹד|‘ō·wḏ|...|H5750|Adv
 v22 פְּלִשְׁתִּ֖ים|pə·liš·tîm|the Philistines|H6430|N-proper-mp
@@ -348,4 +348,4 @@ v25 פְּלִשְׁתִּ֔ים|pə·liš·tîm|the Philistines|H6430|N-proper-
 v25 מִגֶּ֖בַע|mig·ge·ḇa‘|all the way from Gibeon|H1387|Prep-m | N-proper-fs
 v25 עַד־|‘aḏ-|to|H5704|Prep
 v25 בֹּאֲךָ֥|bō·’ă·ḵā|...|H935|V-Qal-Inf | 2ms
-v25 גָֽזֶר׃פ|ḡā·zer|Gezer|H1507|N-proper-fs
+v25 גָֽזֶר׃|ḡā·zer|Gezer|H1507|N-proper-fs

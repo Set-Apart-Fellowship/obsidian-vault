@@ -7,7 +7,7 @@ v1 יִשְׂרָאֵ֑ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v1 אֵ֥ין|’ên|No one|H369|Adv
 v1 יוֹצֵ֖א|yō·w·ṣê|went out|H3318|V-Qal-Prtcpl-ms
 v1 וְאֵ֥ין|wə·’ên|and no one|H369|Conj-w | Adv
-v1 בָּֽא׃ס|bā|came in|H935|V-Qal-Prtcpl-ms
+v1 בָּֽא׃|bā|came in|H935|V-Qal-Prtcpl-ms
 v2 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 יְהוָה֙|Yah·weh|And the LORD|H3068|N-proper-ms
 v2 אֶל־|’el-|to|H413|Prep
@@ -40,7 +40,7 @@ v4 וְשִׁבְעָ֣ה|wə·šiḇ·‘āh|Have seven|H7651|Conj-w | Number-m
 v4 כֹהֲנִ֡ים|ḵō·hă·nîm|priests|H3548|N-mp
 v4 יִשְׂאוּ֩|yiś·’ū|carry|H5375|V-Qal-Imperf-3mp
 v4 שִׁבְעָ֨ה|šiḇ·‘āh|seven|H7651|Number-ms
-v4 שׁוֹפְר֤וֹת|šō·wp̄·rō·wṯ|vvv|H7782|N-mpc
+v4 שׁוֹפְר֤וֹת|šō·wp̄·rō·wṯ|...|H7782|N-mpc
 v4 הַיּֽוֹבְלִים֙|hay·yō·wḇ·lîm|rams' horns|H3104|Art | N-mp
 v4 לִפְנֵ֣י|lip̄·nê|in front|H6440|Prep-l | N-cpc
 v4 הָאָר֔וֹן|hā·’ā·rō·wn|of the ark|H727|Art | N-cs
@@ -70,7 +70,7 @@ v5 גְדוֹלָ֑ה|ḡə·ḏō·w·lāh|give a mighty|H1419|Adj-fs
 v5 וְנָ֨פְלָ֜ה|wə·nā·p̄ə·lāh|will collapse|H5307|Conj-w | V-Qal-ConjPerf-3fs
 v5 חוֹמַ֤ת|ḥō·w·maṯ|Then the wall|H2346|N-fsc
 v5 הָעִיר֙|hā·‘îr|of the city|H5892|Art | N-fs
-v5 תַּחְתֶּ֔יהָ|taḥ·te·hā|vvv|H8478|Prep | 3fs
+v5 תַּחְתֶּ֔יהָ|taḥ·te·hā|...|H8478|Prep | 3fs
 v5 וְעָל֥וּ|wə·‘ā·lū|will charge|H5927|Conj-w | V-Qal-ConjPerf-3cp
 v5 הָעָ֖ם|hā·‘ām|and all [your] people|H5971|Art | N-ms
 v5 אִ֥ישׁ|’îš|...|H376|N-ms
@@ -91,7 +91,7 @@ v6 וְשִׁבְעָ֣ה|wə·šiḇ·‘āh|and have seven|H7651|Conj-w | Numb
 v6 כֹֽהֲנִ֗ים|ḵō·hă·nîm|priests|H3548|N-mp
 v6 יִשְׂאוּ֙|yiś·’ū|carry|H5375|V-Qal-Imperf-3mp
 v6 שִׁבְעָ֤ה|šiḇ·‘āh|seven|H7651|Number-ms
-v6 שֽׁוֹפְרוֹת֙|šō·wp̄·rō·wṯ|vvv|H7782|N-mpc
+v6 שֽׁוֹפְרוֹת֙|šō·wp̄·rō·wṯ|...|H7782|N-mpc
 v6 יוֹבְלִ֔ים|yō·wḇ·lîm|rams' horns|H3104|N-mp
 v6 לִפְנֵ֖י|lip̄·nê|in front|H6440|Prep-l | N-cpc
 v6 אֲר֥וֹן|’ă·rō·wn|of the ark|H727|N-csc
@@ -117,7 +117,7 @@ v8 וְשִׁבְעָ֣ה|wə·šiḇ·‘āh|seven|H7651|Conj-w | Number-ms
 v8 הַכֹּהֲנִ֡ים|hak·kō·hă·nîm|priests|H3548|Art | N-mp
 v8 נֹשְׂאִים֩|nō·śə·’îm|carrying|H5375|V-Qal-Prtcpl-mp
 v8 שִׁבְעָ֨ה|šiḇ·‘āh|seven|H7651|Number-ms
-v8 שׁוֹפְר֤וֹת|šō·wp̄·rō·wṯ|vvv|H7782|N-mpc
+v8 שׁוֹפְר֤וֹת|šō·wp̄·rō·wṯ|...|H7782|N-mpc
 v8 הַיּֽוֹבְלִים֙|hay·yō·wḇ·lîm|rams' horns|H3104|Art | N-mp
 v8 לִפְנֵ֣י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v8 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -146,7 +146,7 @@ v10 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v10 הָעָם֩|hā·‘ām|the people|H5971|Art | N-ms
 v10 צִוָּ֨ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v10 יְהוֹשֻׁ֜עַ|yə·hō·wō·šu·a‘|But Joshua|H3091|N-proper-ms
-v10 לֵאמֹ֗ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v10 לֵאמֹ֗ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v10 לֹ֤א|lō|Do not|H3808|Adv-NegPrt
 v10 תָרִ֙יעוּ֙|ṯā·rî·‘ū|give a battle cry|H7321|V-Hifil-Imperf-2mp
 v10 וְלֹֽא־|wə·lō-|do not|H3808|Conj-w | Adv-NegPrt
@@ -174,7 +174,7 @@ v11 אֶחָ֑ת|’e·ḥāṯ|...|H259|Number-fs
 v11 וַיָּבֹ֙אוּ֙|way·yā·ḇō·’ū|And [the people] returned|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v11 הַֽמַּחֲנֶ֔ה|ham·ma·ḥă·neh|to the camp|H4264|Art | N-cs
 v11 וַיָּלִ֖ינוּ|way·yā·lî·nū|and spent the night there|H3885|Conj-w | V-Qal-ConsecImperf-3mp
-v11 בַּֽמַּחֲנֶֽה׃פ|bam·ma·ḥă·neh|...|H4264|Prep-b, Art | N-cs
+v11 בַּֽמַּחֲנֶֽה׃|bam·ma·ḥă·neh|...|H4264|Prep-b, Art | N-cs
 v12 וַיַּשְׁכֵּ֥ם|way·yaš·kêm|got up early|H7925|Conj-w | V-Hifil-ConsecImperf-3ms
 v12 יְהוֹשֻׁ֖עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v12 בַּבֹּ֑קֶר|bab·bō·qer|the next morning|H1242|Prep-b, Art | N-ms
@@ -187,7 +187,7 @@ v13 וְשִׁבְעָ֣ה|wə·šiḇ·‘āh|And the seven|H7651|Conj-w | Numb
 v13 הַכֹּהֲנִ֡ים|hak·kō·hă·nîm|priests|H3548|Art | N-mp
 v13 נֹשְׂאִים֩|nō·śə·’îm|carrying|H5375|V-Qal-Prtcpl-mp
 v13 שִׁבְעָ֨ה|šiḇ·‘āh|seven|H7651|Number-ms
-v13 שׁוֹפְר֜וֹת|šō·wp̄·rō·wṯ|vvv|H7782|N-mpc
+v13 שׁוֹפְר֜וֹת|šō·wp̄·rō·wṯ|...|H7782|N-mpc
 v13 הַיֹּבְלִ֗ים|hay·yō·ḇə·lîm|rams' horns|H3104|Art | N-mp
 v13 לִפְנֵי֙|lip̄·nê|ahead|H6440|Prep-l | N-cpc
 v13 אֲר֣וֹן|’ă·rō·wn|of the ark|H727|N-csc
@@ -441,7 +441,7 @@ v25 שָׁלַ֥ח|šā·laḥ|had sent|H7971|V-Qal-Perf-3ms
 v25 יְהוֹשֻׁ֖עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v25 לְרַגֵּ֥ל|lə·rag·gêl|to spy out|H7270|Prep-l | V-Piel-Inf
 v25 אֶת־|’eṯ-|-|H853|DirObjM
-v25 יְרִיחֽוֹ׃פ|yə·rî·ḥōw|Jericho|H3405|N-proper-fs
+v25 יְרִיחֽוֹ׃|yə·rî·ḥōw|Jericho|H3405|N-proper-fs
 v26 וַיַּשְׁבַּ֣ע|way·yaš·ba‘|invoked this solemn oath|H7650|Conj-w | V-Hifil-ConsecImperf-3ms
 v26 יְהוֹשֻׁ֔עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v26 בָּעֵ֥ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs

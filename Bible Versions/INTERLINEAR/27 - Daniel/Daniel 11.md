@@ -104,7 +104,7 @@ v7 בְּמָעוֹז֙|bə·mā·‘ō·wz|his fortress|H4581|Prep-b | N-msc
 v7 מֶ֣לֶךְ|me·leḵ|of the king|H4428|N-msc
 v7 הַצָּפ֔וֹן|haṣ·ṣā·p̄ō·wn|of the North|H6828|Art | N-fs
 v7 וְעָשָׂ֥ה|wə·‘ā·śāh|fighting|H6213|Conj-w | V-Qal-ConjPerf-3ms
-v7 בָהֶ֖ם|ḇā·hem||H0|Prep | 3mp
+v7 בָהֶ֖ם|ḇā·hem|-|H0|Prep | 3mp
 v7 וְהֶחֱזִֽיק׃|wə·he·ḥĕ·zîq|and prevailing|H2388|Conj-w | V-Hifil-ConjPerf-3ms
 v8 וְגַ֣ם|wə·ḡam|even|H1571|Conj
 v8 אֱ|’ĕlō·hê·hem|their gods|H430|N-mpc | 3mp
@@ -239,13 +239,13 @@ v17 וְעָשָׂ֑ה|wə·‘ā·śāh|...|H6213|Conj-w | V-Qal-ConjPerf-3ms
 v17 וּבַ֤ת|ū·ḇaṯ|He will give him a daughter|H1323|Conj-w | N-fsc
 v17 הַנָּשִׁים֙|han·nā·šîm|in marriage|H802|Art | N-fp
 v17 יִתֶּן־|yit·ten-|...|H5414|V-Qal-Imperf-3ms
-v17 ל֣וֹ|lōw||H0|Prep | 3ms
+v17 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v17 לְהַשְׁחִיתָ֔הּ|lə·haš·ḥî·ṯāh|in order to overthrow [the kingdom]|H7843|Prep-l | V-Hifil-Inf | 3fs
 v17 וְלֹ֥א|wə·lō|but [his plan] will not|H3808|Conj-w | Adv-NegPrt
 v17 תַעֲמֹ֖ד|ṯa·‘ă·mōḏ|succeed|H5975|V-Qal-Imperf-3fs
 v17 וְלֹא־|wə·lō-|or help|H3808|Conj-w | Adv-NegPrt
 v17 ל֥וֹ|lōw|him|H0|Prep | 3ms
-v17 תִהְיֶֽה׃|ṯih·yeh||H1961|V-Qal-Imperf-3fs
+v17 תִהְיֶֽה׃|ṯih·yeh|-|H1961|V-Qal-Imperf-3fs
 v18 וְיָשֵׁב|wə·yå̄·šēḇ|Then he will turn|H7725|Conj-w | V-Qal-ConjImperf.Jus-3ms
 v18 פָּנָ֛יו|pā·nāw|his face|H6440|N-cpc | 3ms
 v18 לְאִיִּ֖ים|lə·’î·yîm|to the coastlands|H339|Prep-l | N-mp
@@ -254,9 +254,9 @@ v18 רַבִּ֑ים|rab·bîm|many of them|H7227|Adj-mp
 v18 וְהִשְׁבִּ֨ית|wə·hiš·bîṯ|will put an end|H7673|Conj-w | V-Hifil-ConjPerf-3ms
 v18 קָצִ֤ין|qā·ṣîn|But a commander|H7101|N-ms
 v18 חֶרְפָּתוֹ֙|ḥer·pā·ṯōw|to his reproach|H2781|N-fsc | 3ms
-v18 ל֔וֹ|lōw||H0|Prep | 3ms
-v18 בִּלְתִּ֥י|bil·tî||H1115|Prep
-v18 חֶרְפָּת֖וֹ|ḥer·pā·ṯōw|vvv|H2781|N-fsc | 3ms
+v18 ל֔וֹ|lōw|-|H0|Prep | 3ms
+v18 בִּלְתִּ֥י|bil·tî|-|H1115|Prep
+v18 חֶרְפָּת֖וֹ|ḥer·pā·ṯōw|...|H2781|N-fsc | 3ms
 v18 יָשִׁ֥יב|yā·šîḇ|and will turn it back|H7725|V-Hifil-Imperf-3ms
 v18 לֽוֹ׃|lōw|upon him|H0|Prep | 3ms
 v19 וְיָשֵׁ֣ב|wə·yā·šêḇ|...|H7725|Conj-w | V-Hifil-ConjImperf.Jus-3ms
@@ -358,7 +358,7 @@ v25 יַחְשְׁב֥וּ|yaḥ·šə·ḇū|devised|H2803|V-Qal-Imperf-3mp
 v25 עָלָ֖יו|‘ā·lāw|against him|H5921|Prep | 3ms
 v25 מַחֲשָׁבֽוֹת׃|ma·ḥă·šā·ḇō·wṯ|the plots|H4284|N-fp
 v26 וְאֹכְלֵ֧י|wə·’ō·ḵə·lê|Those who eat|H398|Conj-w | V-Qal-Prtcpl-mpc
-v26 פַת־|p̄aṯ-|vvv|H6598|
+v26 פַת־|p̄aṯ-|...|H6598|
 v26 בָּג֛וֹ|bā·ḡōw|from his provisions|H6598|N-msc | 3ms
 v26 יִשְׁבְּר֖וּהוּ|yiš·bə·rū·hū|will seek to destroy him|H7665|V-Qal-Imperf-3mp | 3ms
 v26 וְחֵיל֣וֹ|wə·ḥê·lōw|his army|H2428|Conj-w | N-msc | 3ms
@@ -459,7 +459,7 @@ v35 וּמִן־|ū·min-|Some of|H4480|Conj-w | Prep
 v35 הַמַּשְׂכִּילִ֣ים|ham·maś·kî·lîm|the wise|H7919|Art | V-Hifil-Prtcpl-mp
 v35 יִכָּֽשְׁל֗וּ|yik·kā·šə·lū|will fall|H3782|V-Nifal-Imperf-3mp
 v35 לִצְר֥וֹף|liṣ·rō·wp̄|so that they may be refined|H6884|Prep-l | V-Qal-Inf
-v35 בָּהֶ֛ם|bā·hem||H0|Prep | 3mp
+v35 בָּהֶ֛ם|bā·hem|-|H0|Prep | 3mp
 v35 וּלְבָרֵ֥ר|ū·lə·ḇā·rêr|purified|H1305|Conj-w, Prep-l | V-Piel-Inf
 v35 וְלַלְבֵּ֖ן|wə·lal·bên|and made spotless|H3835|Conj-w, Prep-l | V-Hifil-Inf
 v35 עַד־|‘aḏ-|until|H5704|Prep
@@ -491,7 +491,7 @@ v36 נֶעֱשָֽׂתָה׃|ne·‘ĕ·śā·ṯāh|must be accomplished|H6213|
 v37 וְעַל־|wə·‘al-|for|H5921|Conj-w | Prep
 v37 אֱלֹהֵ֤י|’ĕ·lō·hê|the gods|H430|N-mpc
 v37 אֲבֹתָיו֙|’ă·ḇō·ṯāw|of his fathers|H1|N-mpc | 3ms
-v37 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v37 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v37 יָבִ֔ין|yā·ḇîn|He will show no regard|H995|V-Qal-Imperf-3ms
 v37 וְעַל־|wə·‘al-|nor|H5921|Conj-w | Prep
 v37 חֶמְדַּ֥ת|ḥem·daṯ|for the one desired|H2532|N-fsc

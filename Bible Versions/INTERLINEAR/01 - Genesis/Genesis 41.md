@@ -519,7 +519,7 @@ v41 וַיֹּ֥אמֶר|way·yō·mer|also told|H559|Conj-w | V-Qal-ConsecImper
 v41 פַּרְעֹ֖ה|par·‘ōh|Pharaoh|H6547|N-proper-ms
 v41 אֶל־|’el-|...|H413|Prep
 v41 יוֹסֵ֑ף|yō·w·sêp̄|Joseph|H3130|N-proper-ms
-v41 רְאֵה֙|rə·’êh|vvv|H7200|V-Qal-Imp-ms
+v41 רְאֵה֙|rə·’êh|...|H7200|V-Qal-Imp-ms
 v41 נָתַ֣תִּי|nā·ṯat·tî|I hereby place|H5414|V-Qal-Perf-1cs
 v41 אֹֽתְךָ֔|’ō·ṯə·ḵā|-|H853|DirObjM | 2ms
 v41 עַ֖ל|‘al|you over|H5921|Prep
@@ -582,14 +582,14 @@ v45 וַיִּקְרָ֨א|way·yiq·rā|gave|H7121|Conj-w | V-Qal-ConsecImperf-
 v45 פַרְעֹ֣ה|p̄ar·‘ōh|Pharaoh|H6547|N-proper-ms
 v45 שֵׁם־|šêm-|the name|H8034|N-msc
 v45 יוֹסֵף֮|yō·w·sêp̄|Joseph|H3130|N-proper-ms
-v45 צָֽפְנַ֣ת|ṣā·p̄ə·naṯ|vvv|H6847|
+v45 צָֽפְנַ֣ת|ṣā·p̄ə·naṯ|...|H6847|
 v45 פַּעְנֵחַ֒|pa‘·nê·aḥ|Zaphenath-paneah|H6847|N-proper-ms
 v45 וַיִּתֶּן־|way·yit·ten-|and he gave|H5414|Conj-w | V-Qal-ConsecImperf-3ms
 v45 ל֣וֹ|lōw|him|H0|Prep | 3ms
 v45 אֶת־|’eṯ-|-|H853|DirObjM
 v45 אָֽסְנַ֗ת|’ā·sə·naṯ|Asenath|H621|N-proper-fs
 v45 בַּת־|baṯ-|daughter|H1323|N-fsc
-v45 פּ֥וֹטִי|pō·w·ṭî|vvv|H6319|
+v45 פּ֥וֹטִי|pō·w·ṭî|...|H6319|
 v45 פֶ֛רַע|p̄e·ra‘|of Potiphera|H6319|N-proper-ms
 v45 כֹּהֵ֥ן|kō·hên|priest|H3548|N-msc
 v45 אֹ֖ן|’ōn|of On|H204|N-proper-ms
@@ -641,7 +641,7 @@ v48 הָעִ֛יר|hā·‘îr|In every city|H5892|Art | N-fs
 v48 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v48 סְבִיבֹתֶ֖יהָ|sə·ḇî·ḇō·ṯe·hā|around it|H5439|Adv | 3fs
 v48 נָתַ֥ן|nā·ṯan|he laid up|H5414|V-Qal-Perf-3ms
-v48 בְּתוֹכָֽהּ׃|bə·ṯō·w·ḵāh||H8432|Prep-b | N-msc | 3fs
+v48 בְּתוֹכָֽהּ׃|bə·ṯō·w·ḵāh|-|H8432|Prep-b | N-msc | 3fs
 v49 וַיִּצְבֹּ֨ר|way·yiṣ·bōr|stored up|H6651|Conj-w | V-Qal-ConsecImperf-3ms
 v49 יוֹסֵ֥ף|yō·w·sêp̄|So Joseph|H3130|N-proper-ms
 v49 בָּ֛ר|bār|grain|H1250|N-ms
@@ -669,7 +669,7 @@ v50 יָֽלְדָה־|yā·lə·ḏāh-|-|H3205|V-Qal-Perf-3fs
 v50 לּוֹ֙|lōw|-|H0|Prep | 3ms
 v50 אָֽסְנַ֔ת|’ā·sə·naṯ|by Asenath|H621|N-proper-fs
 v50 בַּת־|baṯ-|daughter|H1323|N-fsc
-v50 פּ֥וֹטִי|pō·w·ṭî|vvv|H6319|
+v50 פּ֥וֹטִי|pō·w·ṭî|...|H6319|
 v50 פֶ֖רַע|p̄e·ra‘|of Potiphera|H6319|N-proper-ms
 v50 כֹּהֵ֥ן|kō·hên|priest|H3548|N-msc
 v50 אֽוֹן׃|’ō·wn|of On|H204|N-proper-ms
@@ -755,7 +755,7 @@ v56 יוֹסֵ֜ף|yō·w·sêp̄|Joseph|H3130|N-proper-ms
 v56 אֶֽת־|’eṯ-|-|H853|DirObjM
 v56 כָּל־|kāl-|all|H3605|N-msc
 v56 אֲשֶׁ֤ר|’ă·šer|the storehouses|H834|Pro-r
-v56 בָּהֶם֙|bā·hem||H0|Prep | 3mp
+v56 בָּהֶם֙|bā·hem|-|H0|Prep | 3mp
 v56 וַיִּשְׁבֹּ֣ר|way·yiš·bōr|and sold grain|H7666|Conj-w | V-Qal-ConsecImperf-3ms
 v56 לְמִצְרַ֔יִם|lə·miṣ·ra·yim|to the Egyptians|H4714|Prep-l | N-proper-fs
 v56 וַיֶּחֱזַ֥ק|way·ye·ḥĕ·zaq|was severe|H2388|Conj-w | V-Qal-ConsecImperf-3ms

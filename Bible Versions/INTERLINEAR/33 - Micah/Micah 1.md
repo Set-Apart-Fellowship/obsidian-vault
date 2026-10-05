@@ -130,12 +130,12 @@ v10 תַּגִּ֔ידוּ|tag·gî·ḏū|tell it|H5046|V-Hifil-Imperf-2mp
 v10 בָּכ֖וֹ|bā·ḵōw|do not weep|H1058|V-Qal-InfAbs
 v10 אַל־|’al-|...|H408|Adv
 v10 תִּבְכּ֑וּ|tiḇ·kū|at all|H1058|V-Qal-Imperf-2mp
-v10 בְּבֵ֣ית|bə·ḇêṯ||H1036|Prep
+v10 בְּבֵ֣ית|bə·ḇêṯ|-|H1036|Prep
 v10 לְעַפְרָ֔ה|lə·‘ap̄·rāh|in Beth-leaphrah|H1036|Prep | N-proper-fs
 v10 עָפָ֖ר|‘ā·p̄ār|in the dust|H6083|N-ms
 v10 הִתְפַּלָּשְׁתִּי׃|hiṯ·pal·lå̄·šə·tī|Roll|H6428|V-Hitpael-Imp-fs
 v11 עִבְרִ֥י|‘iḇ·rî|Depart|H5674|V-Qal-Imp-fs
-v11 לָכֶ֛ם|lā·ḵem||H0|Prep | 2mp
+v11 לָכֶ֛ם|lā·ḵem|-|H0|Prep | 2mp
 v11 יוֹשֶׁ֥בֶת|yō·wō·še·ḇeṯ|O dwellers|H3427|V-Qal-Prtcpl-fsc
 v11 שָׁפִ֖יר|šā·p̄îr|of Shaphir|H8208|N-proper-fs
 v11 עֶרְיָה־|‘er·yāh-|nakedness|H6181|N-fs
@@ -145,7 +145,7 @@ v11 יָֽצְאָה֙|yā·ṣə·’āh|come out|H3318|V-Qal-Perf-3fs
 v11 יוֹשֶׁ֣בֶת|yō·wō·še·ḇeṯ|The dwellers|H3427|V-Qal-Prtcpl-fsc
 v11 צַֽאֲנָ֔ן|ṣa·’ă·nān|of Zaanan|H6630|N-proper-fs
 v11 מִסְפַּד֙|mis·paḏ|is in mourning|H4553|N-msc
-v11 בֵּ֣ית|bêṯ|vvv|H1018|Prep
+v11 בֵּ֣ית|bêṯ|...|H1018|Prep
 v11 הָאֵ֔צֶל|hā·’ê·ṣel|Beth-ezel|H1018|N-proper-fs
 v11 יִקַּ֥ח|yiq·qaḥ|is taken|H3947|V-Qal-Imperf-3ms
 v11 מִכֶּ֖ם|mik·kem|from you|H0|Prep | 2mp
@@ -181,7 +181,7 @@ v14 לָכֵן֙|lā·ḵên|Therefore|H3651|Adv
 v14 תִּתְּנִ֣י|tit·tə·nî|send|H5414|V-Qal-Imperf-2fs
 v14 שִׁלּוּחִ֔ים|šil·lū·ḥîm|farewell gifts|H7964|N-mp
 v14 עַ֖ל|‘al|to|H5921|Prep
-v14 מוֹרֶ֣שֶׁת|mō·w·re·šeṯ|vvv|H4182|Prep
+v14 מוֹרֶ֣שֶׁת|mō·w·re·šeṯ|...|H4182|Prep
 v14 גַּ֑ת|gaṯ|Moresheth-gath|H4182|N-proper-fs
 v14 בָּתֵּ֤י|bāt·tê|the houses|H1004|N-mpc
 v14 אַכְזִיב֙|’aḵ·zîḇ|of Achzib|H392|N-proper-fs
@@ -209,4 +209,4 @@ v16 קָרְחָתֵךְ֙|qā·rə·ḥā·ṯêḵ|as bald|H7144|N-fsc | 2fs
 v16 כַּנֶּ֔שֶׁר|kan·ne·šer|as an eagle|H5404|Prep-k, Art | N-ms
 v16 כִּ֥י|kî|for|H3588|Conj
 v16 גָל֖וּ|ḡā·lū|into exile|H1540|V-Qal-Perf-3cp
-v16 מִמֵּֽךְ׃ס|mim·mêḵ|they will go from you|H4480|Prep | 2fs
+v16 מִמֵּֽךְ׃|mim·mêḵ|they will go from you|H4480|Prep | 2fs

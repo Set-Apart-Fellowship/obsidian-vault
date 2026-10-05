@@ -91,7 +91,7 @@ v6 וּבְחָב֛וֹר|ū·ḇə·ḥā·ḇō·wr|by the Habor|H2249|Conj-w,
 v6 נְהַ֥ר|nə·har|River|H5104|N-msc
 v6 גּוֹזָ֖ן|gō·w·zān|in Gozan|H1470|N-proper-fs
 v6 וְעָרֵ֥י|wə·‘ā·rê|and in the cities|H5892|Conj-w | N-fpc
-v6 מָדָֽי׃פ|mā·ḏāy|of the Medes|H4074|N-proper-ms
+v6 מָדָֽי׃|mā·ḏāy|of the Medes|H4074|N-proper-ms
 v7 וַיְהִ֗י|way·hî|All this happened|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v7 כִּֽי־|kî-|because|H3588|Conj
 v7 חָטְא֤וּ|ḥā·ṭə·’ū|had sinned|H2398|V-Qal-Perf-3cp
@@ -135,7 +135,7 @@ v9 עַל־|‘al-|things against|H5921|Prep
 v9 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v9 אֱלֹהֵיהֶ֑ם|’ĕ·lō·hê·hem|their God|H430|N-mpc | 3mp
 v9 וַיִּבְנ֨וּ|way·yiḇ·nū|they built|H1129|Conj-w | V-Qal-ConsecImperf-3mp
-v9 לָהֶ֤ם|lā·hem||H0|Prep | 3mp
+v9 לָהֶ֤ם|lā·hem|-|H0|Prep | 3mp
 v9 בָּמוֹת֙|bā·mō·wṯ|high places|H1116|N-fp
 v9 בְּכָל־|bə·ḵāl|in all|H3605|Prep-b | N-msc
 v9 עָ֣רֵיהֶ֔ם|‘ā·rê·hem|their cities|H5892|N-fpc | 3mp
@@ -250,7 +250,7 @@ v15 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v15 אֹתָ֔ם|’ō·ṯām|-|H853|DirObjM | 3mp
 v15 לְבִלְתִּ֖י|lə·ḇil·tî|not|H1115|Prep-l
 v15 עֲשׂ֥וֹת|‘ă·śō·wṯ|to imitate|H6213|V-Qal-Inf
-v15 כָּהֶֽם׃|kā·hem||H0|Prep | 3mp
+v15 כָּהֶֽם׃|kā·hem|-|H0|Prep | 3mp
 v16 וַיַּעַזְב֗וּ|way·ya·‘az·ḇū|They abandoned|H5800|Conj-w | V-Qal-ConsecImperf-3mp
 v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 כָּל־|kāl-|all|H3605|N-msc
@@ -322,7 +322,7 @@ v20 וַֽיִּתְּנֵ֖ם|way·yit·tə·nêm|and delivered them|H5414|Conj
 v20 בְּיַד־|bə·yaḏ-|into the hands|H3027|Prep-b | N-fsc
 v20 שֹׁסִ֑ים|šō·sîm|of plunderers|H8154|V-Qal-Prtcpl-mp
 v20 עַ֛ד|‘aḏ|until|H5704|Prep
-v20 אֲשֶׁ֥ר|’ă·šer||H834|Pro-r
+v20 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v20 הִשְׁלִיכָ֖ם|hiš·lî·ḵām|He had banished them|H7993|V-Hifil-Perf-3ms | 3mp
 v20 מִפָּנָֽיו׃|mip·pā·nāw|from His presence|H6440|Prep-m | N-cpc | 3ms
 v21 כִּֽי־|kî-|When|H3588|Conj
@@ -377,7 +377,7 @@ v23 אַדְמָתוֹ֙|’aḏ·mā·ṯōw|their homeland|H127|N-fsc | 3ms
 v23 אַשּׁ֔וּרָה|’aš·šū·rāh|into Assyria|H804|N-proper-fs | 3fs
 v23 עַ֖ד|‘aḏ|[where they are] to|H5704|Prep
 v23 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v23 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v23 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v24 וַיָּבֵ֣א|way·yā·ḇê|brought|H935|Conj-w | V-Hifil-ConsecImperf-3ms
 v24 מֶֽלֶךְ־|me·leḵ-|Then the king|H4428|N-msc
 v24 אַשּׁ֡וּר|’aš·šūr|of Assyria|H804|N-proper-fs
@@ -408,7 +408,7 @@ v25 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v25 וַיְשַׁלַּ֨ח|way·šal·laḥ|sent|H7971|Conj-w | V-Piel-ConsecImperf-3ms
 v25 יְהוָ֤ה|Yah·weh|so He|H3068|N-proper-ms
 v25 בָּהֶם֙|bā·hem|among them|H0|Prep | 3mp
-v25 אֶת־|’eṯ-||H853|DirObjM
+v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 הָ֣אֲרָי֔וֹת|hā·’ă·rā·yō·wṯ|lions|H738|Art | N-mp
 v25 וַיִּֽהְי֥וּ|way·yih·yū|which|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v25 הֹרְגִ֖ים|hō·rə·ḡîm|killed [some]|H2026|V-Qal-Prtcpl-mp
@@ -448,7 +448,7 @@ v27 מֶֽלֶךְ־|me·leḵ-|Then the king|H4428|N-msc
 v27 אַשּׁ֜וּר|’aš·šūr|of Assyria|H804|N-proper-fs
 v27 לֵאמֹ֗ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v27 הֹלִ֤יכוּ|hō·lî·ḵū|Send back|H1980|V-Hifil-Imp-mp
-v27 שָׁ֙מָּה֙|šām·māh||H8033|Adv | 3fs
+v27 שָׁ֙מָּה֙|šām·māh|-|H8033|Adv | 3fs
 v27 אֶחָ֤ד|’e·ḥāḏ|one|H259|Number-ms
 v27 מֵהַכֹּֽהֲנִים֙|mê·hak·kō·hă·nîm|of the priests|H3548|Prep-m, Art | N-mp
 v27 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
@@ -469,7 +469,7 @@ v28 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v28 הִגְלוּ֙|hiḡ·lū|they had carried away|H1540|V-Hifil-Perf-3cp
 v28 מִשֹּׁ֣מְר֔וֹן|miš·šō·mə·rō·wn|...|H8111|Prep-m | N-proper-fs
 v28 וַיֵּ֖שֶׁב|way·yê·šeḇ|and lived|H3427|Conj-w | V-Qal-ConsecImperf-3ms
-v28 בְּבֵֽית־|bə·ḇêṯ-|vvv|H1008|Prep
+v28 בְּבֵֽית־|bə·ḇêṯ-|...|H1008|Prep
 v28 אֵ֑ל|’êl|in Bethel|H1008|Prep | N-proper-fs
 v28 וַֽיְהִי֙|way·hî|...|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v28 מוֹרֶ֣ה|mō·w·reh|and he began to teach|H3384|V-Hifil-Prtcpl-ms
@@ -490,17 +490,17 @@ v29 אֲשֶׁ֤ר|’ă·šer|that|H834|Pro-r
 v29 עָשׂוּ֙|‘ā·śū|had made|H6213|V-Qal-Perf-3cp
 v29 הַשֹּׁ֣מְרֹנִ֔ים|haš·šō·mə·rō·nîm|of Samaria|H8118|Art | N-proper-mp
 v29 גּ֥וֹי|gō·w|the people|H1471|N-msc
-v29 גּוֹי֙|gō·w||H1471|N-ms
+v29 גּוֹי֙|gō·w|-|H1471|N-ms
 v29 בְּעָ֣רֵיהֶ֔ם|bə·‘ā·rê·hem|in the cities|H5892|Prep-b | N-fpc | 3mp
 v29 אֲשֶׁ֛ר|’ă·šer|where|H834|Pro-r
 v29 הֵ֥ם|hêm|they|H1992|Pro-3mp
 v29 יֹשְׁבִ֖ים|yō·šə·ḇîm|had settled|H3427|V-Qal-Prtcpl-mp
-v29 שָֽׁם׃|šām||H8033|Adv
+v29 שָֽׁם׃|šām|-|H8033|Adv
 v30 וְאַנְשֵׁ֣י|wə·’an·šê|The men|H582|Conj-w | N-mpc
 v30 בָבֶ֗ל|ḇā·ḇel|of Babylon|H894|N-proper-fs
 v30 עָשׂוּ֙|‘ā·śū|made|H6213|V-Qal-Perf-3cp
 v30 אֶת־|’eṯ-|-|H853|DirObjM
-v30 סֻכּ֣וֹת|suk·kō·wṯ|vvv|H5524|
+v30 סֻכּ֣וֹת|suk·kō·wṯ|...|H5524|
 v30 בְּנ֔וֹת|bə·nō·wṯ|Succoth-benoth|H5524|N-proper-ms
 v30 וְאַנְשֵׁי־|wə·’an·šê-|the men|H582|Conj-w | N-mpc
 v30 כ֔וּת|ḵūṯ|of Cuth|H3575|N-proper-ms
@@ -614,7 +614,7 @@ v36 וּבִזְר֥וֹעַ|ū·ḇiz·rō·w·a‘|arm|H2220|Conj-w, Prep-b | 
 v36 נְטוּיָ֖ה|nə·ṭū·yāh|and an outstretched|H5186|V-Qal-QalPassPrtcpl-fs
 v36 אֹת֣וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v36 תִירָ֑אוּ|ṯî·rā·’ū|worship|H3372|V-Qal-Imperf-2mp
-v36 וְל֥וֹ|wə·lōw||H0|Conj-w | Prep | 3ms
+v36 וְל֥וֹ|wə·lōw|-|H0|Conj-w | Prep | 3ms
 v36 תִֽשְׁתַּחֲו֖וּ|ṯiš·ta·ḥă·wū|You are to bow down|H7812|V-Hitpael-Imperf-2mp
 v36 וְל֥וֹ|wə·lōw|to Him|H0|Conj-w | Prep | 3ms
 v36 תִזְבָּֽחוּ׃|ṯiz·bā·ḥū|and offer sacrifices to Him|H2076|V-Qal-Imperf-2mp
@@ -686,4 +686,4 @@ v41 הֵ֣ם|hêm|...|H1992|Pro-3mp
 v41 עֹשִׂ֔ים|‘ō·śîm|did|H6213|V-Qal-Prtcpl-mp
 v41 עַ֖ד|‘aḏ|to|H5704|Prep
 v41 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v41 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v41 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms

@@ -119,7 +119,7 @@ v9 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v9 אֲגַפֶּ֔יךָ|’ă·ḡap·pe·ḵā|your troops|H102|N-mpc | 2ms
 v9 וְעַמִּ֥ים|wə·‘am·mîm|peoples|H5971|Conj-w | N-mp
 v9 רַבִּ֖ים|rab·bîm|and many|H7227|Adj-mp
-v9 אוֹתָֽךְ׃ס|’ō·w·ṯāḵ|with you|H854|Prep | 2ms
+v9 אוֹתָֽךְ׃|’ō·w·ṯāḵ|with you|H854|Prep | 2ms
 v10 כֹּ֥ה|kōh|This is what|H3541|Adv
 v10 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v10 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -150,7 +150,7 @@ v11 חוֹמָ֔ה|ḥō·w·māh|walls|H2346|N-fs
 v11 וּבְרִ֥יחַ|ū·ḇə·rî·aḥ|bars|H1280|Conj-w | N-ms
 v11 וּדְלָתַ֖יִם|ū·ḏə·lā·ṯa·yim|or gates|H1817|Conj-w | N-fd
 v11 אֵ֥ין|’ên|[or]|H369|Adv
-v11 לָהֶֽם׃|lā·hem||H0|Prep | 3mp
+v11 לָהֶֽם׃|lā·hem|-|H0|Prep | 3mp
 v12 לִשְׁלֹ֥ל|liš·lōl|in order to seize|H7997|Prep-l | V-Qal-Inf
 v12 שָׁלָ֖ל|šā·lāl|the spoil|H7998|N-ms
 v12 וְלָבֹ֣ז|wə·lā·ḇōz|and carry off the plunder|H962|Conj-w, Prep-l | V-Qal-Inf
@@ -195,7 +195,7 @@ v13 מִקְנֶ֣ה|miq·neh|cattle|H4735|N-ms
 v13 וְקִנְיָ֔ן|wə·qin·yān|and goods|H7075|Conj-w | N-ms
 v13 לִשְׁלֹ֖ל|liš·lōl|to seize|H7997|Prep-l | V-Qal-Inf
 v13 שָׁלָ֥ל|šā·lāl|spoil|H7998|N-ms
-v13 גָּדֽוֹל׃ס|gā·ḏō·wl|great|H1419|Adj-ms
+v13 גָּדֽוֹל׃|gā·ḏō·wl|great|H1419|Adj-ms
 v14 לָכֵן֙|lā·ḵên|Therefore|H3651|Adv
 v14 הִנָּבֵ֣א|hin·nā·ḇê|prophesy|H5012|V-Nifal-Imp-ms
 v14 בֶן־|ḇen-|son|H1121|N-msc
@@ -249,7 +249,7 @@ v16 אֹתִ֗י|’ō·ṯî|Me|H853|DirObjM | 1cs
 v16 בְּהִקָּדְשִׁ֥י|bə·hiq·qā·ḏə·šî|when I show Myself holy|H6942|Prep-b | V-Nifal-Inf | 1cs
 v16 בְךָ֛|ḇə·ḵā|in you|H0|Prep | 2ms
 v16 לְעֵינֵיהֶ֖ם|lə·‘ê·nê·hem|before their eyes|H5869|Prep-l | N-cdc | 3mp
-v16 גּֽוֹג׃ס|gō·wḡ|O Gog|H1463|N-proper-ms
+v16 גּֽוֹג׃|gō·wḡ|O Gog|H1463|N-proper-ms
 v17 כֹּֽה־|kōh-|This is what|H3541|Adv
 v17 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v17 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -270,7 +270,7 @@ v17 הָהֵ֖ם|hā·hêm|who in those|H1992|Art | Pro-3mp
 v17 שָׁנִ֑ים|šā·nîm|for years|H8141|N-fp
 v17 לְהָבִ֥יא|lə·hā·ḇî|that I would bring|H935|Prep-l | V-Hifil-Inf
 v17 אֹתְךָ֖|’ō·ṯə·ḵā|you|H853|DirObjM | 2ms
-v17 עֲלֵיהֶֽם׃ס|‘ă·lê·hem|against them|H5921|Prep | 3mp
+v17 עֲלֵיהֶֽם׃|‘ă·lê·hem|against them|H5921|Prep | 3mp
 v18 וְהָיָ֣ה׀|wə·hā·yāh|Now|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v18 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v18 הַה֗וּא|ha·hū|on that|H1931|Art | Pro-3ms
@@ -367,4 +367,4 @@ v23 רַבִּ֑ים|rab·bîm|of many|H7227|Adj-mp
 v23 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v23 כִּֽי־|kî-|that|H3588|Conj
 v23 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v23 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v23 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms

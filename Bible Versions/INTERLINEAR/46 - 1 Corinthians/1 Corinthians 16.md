@@ -13,7 +13,7 @@ v1 ἐκκλησίαις|ekklēsiais|churches|G1577|N-DFP
 v1 τῆς|tēs|-|G3588|Art-GFS
 v1 Γαλατίας|Galatias|of Galatia|G1053|N-GFS
 v1 οὕτως|houtōs|-|G3779|Adv
-v1 καὶ|kai|vvv|G2532|Conj
+v1 καὶ|kai|...|G2532|Conj
 v1 ὑμεῖς|hymeis|you|G4771|PPro-N2P
 v1 ποιήσατε|poiēsate|are to do|G4160|V-AMA-2P
 v2 κατὰ|kata|of every|G2596|Prep
@@ -35,11 +35,11 @@ v2 ἔλθω|elthō|I come|G2064|V-ASA-1S
 v2 τότε|tote|-|G5119|Adv
 v2 λογεῖαι*|logeiai|collections|G3048|N-NFP
 v2 γίνωνται|ginōntai|will be needed|G1096|V-PSM/P-3P
-v3 ὅταν|hotan|vvv|G3752|Conj
+v3 ὅταν|hotan|...|G3752|Conj
 v3 δὲ|de|Then|G1161|Conj
 v3 παραγένωμαι|paragenōmai|on my arrival|G3854|V-ASM-1S
 v3 οὓς|hous|...|G3739|RelPro-AMP
-v3 ἐὰν|ean|vvv|G1437|Conj
+v3 ἐὰν|ean|...|G1437|Conj
 v3 δοκιμάσητε|dokimasēte|you recommend|G1381|V-ASA-2P
 v3 δι’|di’|with|G1223|Prep
 v3 ἐπιστολῶν|epistolōn|letters|G1992|N-GFP
@@ -73,7 +73,7 @@ v5 γὰρ|gar|for|G1063|Conj
 v5 διέρχομαι|dierchomai|I will be going through|G1330|V-PIM/P-1S
 v6 πρὸς|pros|with|G4314|Prep
 v6 ὑμᾶς|hymas|you {awhile}|G4771|PPro-A2P
-v6 δὲ|de|vvv|G1161|Conj
+v6 δὲ|de|...|G1161|Conj
 v6 τυχὸν|tychon|Perhaps|G5177|V-APA-ANS
 v6 παραμενῶ*|paramenō|I will stay|G3887|V-FIA-1S
 v6 ἢ|ē|or|G2228|Conj
@@ -84,9 +84,9 @@ v6 ὑμεῖς|hymeis|you|G4771|PPro-N2P
 v6 με|me|me {on my journey}|G1473|PPro-A1S
 v6 προπέμψητε|propempsēte|can help|G4311|V-ASA-2P
 v6 οὗ|hou|wherever|G3757|Adv
-v6 ἐὰν|ean|vvv|G1437|Conj
+v6 ἐὰν|ean|...|G1437|Conj
 v6 πορεύωμαι|poreuōmai|I go|G4198|V-PSM/P-1S
-v7 οὐ|ou|vvv|G3756|Adv
+v7 οὐ|ou|...|G3756|Adv
 v7 θέλω|thelō|I do not want|G2309|V-PIA-1S
 v7 γὰρ|gar|For|G1063|Conj
 v7 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -232,8 +232,8 @@ v16 καὶ|kai|and|G2532|Conj
 v16 κοπιῶντι|kopiōnti|laborer|G2872|V-PPA-DMS
 v17 Χαίρω|Chairō|I am glad that|G5463|V-PIA-1S
 v17 δὲ|de|-|G1161|Conj
-v17 ἐπὶ|epi|vvv|G1909|Prep
-v17 τῇ|tē|vvv|G3588|Art-DFS
+v17 ἐπὶ|epi|...|G1909|Prep
+v17 τῇ|tē|...|G3588|Art-DFS
 v17 παρουσίᾳ|parousia|have arrived|G3952|N-DFS
 v17 Στεφανᾶ|Stephana|Stephanas|G4734|N-GMS
 v17 καὶ|kai|-|G2532|Conj

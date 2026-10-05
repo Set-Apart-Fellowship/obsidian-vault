@@ -27,7 +27,7 @@ v2 οὐδένα|oudena|no one|G3762|Adj-AMS
 v2 ἐπλεονεκτήσαμεν|epleonektēsamen|we have exploited|G4122|V-AIA-1P
 v3 πρὸς|pros|to|G4314|Prep
 v3 κατάκρισιν|katakrisin|condemn [you]|G2633|N-AFS
-v3 οὐ|ou|vvv|G3756|Adv
+v3 οὐ|ou|...|G3756|Adv
 v3 λέγω|legō|I do not say this|G3004|V-PIA-1S
 v3 προείρηκα|proeirēka|I have said before|G4302|V-RIA-1S
 v3 γὰρ|gar|-|G1063|Conj
@@ -108,7 +108,7 @@ v7 καὶ|kai|also|G2532|Conj
 v7 ἐν|en|by|G1722|Prep
 v7 τῇ|tē|the|G3588|Art-DFS
 v7 παρακλήσει|paraklēsei|comfort|G3874|N-DFS
-v7 ᾗ|hē|vvv|G3739|RelPro-DFS
+v7 ᾗ|hē|...|G3739|RelPro-DFS
 v7 παρεκλήθη|pareklēthē|[he had received]|G3870|V-AIP-3S
 v7 ἐφ’|eph’|from|G1909|Prep
 v7 ὑμῖν|hymin|you|G4771|PPro-D2P
@@ -137,7 +137,7 @@ v8 ὑμᾶς|hymas|...|G4771|PPro-A2P
 v8 ἐν|en|by|G1722|Prep
 v8 τῇ|tē|[my]|G3588|Art-DFS
 v8 ἐπιστολῇ|epistolē|letter|G1992|N-DFS
-v8 οὐ|ou|vvv|G3756|Adv
+v8 οὐ|ou|...|G3756|Adv
 v8 μεταμέλομαι|metamelomai|I do not regret [it]|G3338|V-PIM/P-1S
 v8 εἰ|ei|...|G1487|Conj
 v8 καὶ|kai|Although|G2532|Conj
@@ -176,7 +176,7 @@ v9 ἐξ|ex|by|G1537|Prep
 v9 ἡμῶν|hēmōn|us|G1473|PPro-G1P
 v10 ἡ|hē|-|G3588|Art-NFS
 v10 γὰρ|gar|-|G1063|Conj
-v10 κατὰ|kata|vvv|G2596|Prep
+v10 κατὰ|kata|...|G2596|Prep
 v10 Θεὸν|Theon|Godly|G2316|N-AMS
 v10 λύπη|lypē|sorrow|G3077|N-NFS
 v10 μετάνοιαν|metanoian|repentance|G3341|N-AFS
@@ -196,7 +196,7 @@ v11 γὰρ|gar|-|G1063|Conj
 v11 αὐτὸ|auto|this|G846|PPro-NN3S
 v11 τοῦτο|touto|...|G3778|DPro-NNS
 v11 τὸ|to|...|G3588|Art-NNS
-v11 κατὰ|kata|vvv|G2596|Prep
+v11 κατὰ|kata|...|G2596|Prep
 v11 Θεὸν|Theon|godly|G2316|N-AMS
 v11 λυπηθῆναι|lypēthēnai|sorrow|G3076|V-ANP
 v11 πόσην|posēn|what|G4214|IPro-AFS
@@ -275,18 +275,18 @@ v13 ἀπὸ|apo|by|G575|Prep
 v13 πάντων|pantōn|all|G3956|Adj-GMP
 v13 ὑμῶν|hymōn|of you|G4771|PPro-G2P
 v14 ὅτι|hoti|Indeed|G3754|Conj
-v14 εἴ|ei|vvv|G1487|Conj
+v14 εἴ|ei|...|G1487|Conj
 v14 τι|ti|by anything|G5100|IPro-ANS
 v14 αὐτῷ|autō|to him|G846|PPro-DM3S
 v14 ὑπὲρ|hyper|about|G5228|Prep
 v14 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v14 κεκαύχημαι|kekauchēmai|I had boasted|G2744|V-RIM/P-1S
-v14 οὐ|ou|vvv|G3756|Adv
+v14 οὐ|ou|...|G3756|Adv
 v14 κατῃσχύνθην|katēschynthēn|I was not embarrassed|G2617|V-AIP-1S
 v14 ἀλλ’|all’|But|G235|Conj
 v14 ὡς|hōs|just as|G5613|Adv
 v14 πάντα|panta|everything|G3956|Adj-ANP
-v14 ἐν|en|vvv|G1722|Prep
+v14 ἐν|en|...|G1722|Prep
 v14 ἀληθείᾳ|alētheia|[was] true|G225|N-DFS
 v14 ἐλαλήσαμεν|elalēsamen|we said|G2980|V-AIA-1P
 v14 ὑμῖν|hymin|to you|G4771|PPro-D2P
@@ -322,8 +322,8 @@ v15 ἐδέξασθε|edexasthe|[as] you welcomed|G1209|V-AIM-2P
 v15 αὐτόν|auton|him|G846|PPro-AM3S
 v16 χαίρω|chairō|I rejoice|G5463|V-PIA-1S
 v16 ὅτι|hoti|that|G3754|Conj
-v16 ἐν|en|vvv|G1722|Prep
-v16 παντὶ|panti|vvv|G3956|Adj-DNS
+v16 ἐν|en|...|G1722|Prep
+v16 παντὶ|panti|...|G3956|Adj-DNS
 v16 θαρρῶ|tharrō|I can have complete confidence|G2292|V-PIA-1S
 v16 ἐν|en|in|G1722|Prep
 v16 ὑμῖν|hymin|you|G4771|PPro-D2P

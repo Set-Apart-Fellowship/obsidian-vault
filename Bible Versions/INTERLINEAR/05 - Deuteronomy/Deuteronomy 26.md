@@ -141,7 +141,7 @@ v10 וְעַתָּ֗ה|wə·‘at·tāh|And now|H6258|Conj-w | Adv
 v10 הִנֵּ֤ה|hin·nêh|behold|H2009|Interjection
 v10 הֵבֵ֙אתִי֙|hê·ḇê·ṯî|I have brought|H935|V-Hifil-Perf-1cs
 v10 אֶת־|’eṯ-|-|H853|DirObjM
-v10 רֵאשִׁית֙|rê·šîṯ|vvv|H7225|N-fsc
+v10 רֵאשִׁית֙|rê·šîṯ|...|H7225|N-fsc
 v10 פְּרִ֣י|pə·rî|the firstfruits|H6529|N-msc
 v10 הָאֲדָמָ֔ה|hā·’ă·ḏā·māh|of the land|H127|Art | N-fs
 v10 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
@@ -169,7 +169,7 @@ v11 אַתָּה֙|’at·tāh|you|H859|Pro-2ms
 v11 וְהַלֵּוִ֔י|wə·hal·lê·wî|the Levite|H3881|Conj-w, Art | N-proper-ms
 v11 וְהַגֵּ֖ר|wə·hag·gêr|and the foreigner dwelling|H1616|Conj-w, Art | N-ms
 v11 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v11 בְּקִרְבֶּֽךָ׃ס|bə·qir·be·ḵā|among you|H7130|Prep-b | N-msc | 2ms
+v11 בְּקִרְבֶּֽךָ׃|bə·qir·be·ḵā|among you|H7130|Prep-b | N-msc | 2ms
 v12 כִּ֣י|kî|When|H3588|Conj
 v12 תְכַלֶּ֞ה|ṯə·ḵal·leh|you have finished laying aside|H3615|V-Piel-Imperf-2ms
 v12 לַ֠עְשֵׂר|la‘·śêr|...|H6237|Prep-l | V-Piel-Inf
@@ -253,7 +253,7 @@ v15 לַאֲבֹתֵ֔ינוּ|la·’ă·ḇō·ṯê·nū|to our fathers|H1|P
 v15 אֶ֛רֶץ|’e·reṣ|a land|H776|N-fs
 v15 זָבַ֥ת|zā·ḇaṯ|flowing|H2100|V-Qal-Prtcpl-fsc
 v15 חָלָ֖ב|ḥā·lāḇ|with milk|H2461|N-ms
-v15 וּדְבָֽשׁ׃ס|ū·ḏə·ḇāš|and honey|H1706|Conj-w | N-ms
+v15 וּדְבָֽשׁ׃|ū·ḏə·ḇāš|and honey|H1706|Conj-w | N-ms
 v16 הַיּ֣וֹם|hay·yō·wm|day|H3117|Art | N-ms
 v16 הַזֶּ֗ה|haz·zeh|this|H2088|Art | Pro-ms
 v16 יְהוָ֨ה|Yah·weh|The LORD|H3068|N-proper-ms
@@ -296,7 +296,7 @@ v18 לְעַ֣ם|lə·‘am|people|H5971|Prep-l | N-msc
 v18 סְגֻלָּ֔ה|sə·ḡul·lāh|[and] treasured possession|H5459|N-fs
 v18 כַּאֲשֶׁ֖ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v18 דִּבֶּר־|dib·ber-|He promised|H1696|V-Piel-Perf-3ms
-v18 לָ֑ךְ|lāḵ||H0|Prep | 2ms
+v18 לָ֑ךְ|lāḵ|-|H0|Prep | 2ms
 v18 וְלִשְׁמֹ֖ר|wə·liš·mōr|that you are to keep|H8104|Conj-w, Prep-l | V-Qal-Inf
 v18 כָּל־|kāl-|all|H3605|N-msc
 v18 מִצְוֺתָֽיו׃|miṣ·wō·ṯāw|His commandments|H4687|N-fpc | 3ms
@@ -316,4 +316,4 @@ v19 קָדֹ֛שׁ|qā·ḏōš|a holy|H6918|Adj-ms
 v19 לַיהוָ֥ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v19 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v19 כַּאֲשֶׁ֥ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
-v19 דִּבֵּֽר׃ס|dib·bêr|He has promised|H1696|V-Piel-Perf-3ms
+v19 דִּבֵּֽר׃|dib·bêr|He has promised|H1696|V-Piel-Perf-3ms

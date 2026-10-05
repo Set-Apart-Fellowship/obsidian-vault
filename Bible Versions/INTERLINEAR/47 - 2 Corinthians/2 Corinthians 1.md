@@ -138,14 +138,14 @@ v7 εἰδότες|eidotes|[because] we know|G1492|V-RPA-NMP
 v7 ὅτι|hoti|that|G3754|Conj
 v7 ὡς|hōs|just as|G5613|Adv
 v7 κοινωνοί|koinōnoi|you share|G2844|N-NMP
-v7 ἐστε|este|vvv|G1510|V-PIA-2P
+v7 ἐστε|este|...|G1510|V-PIA-2P
 v7 τῶν|tōn|in [our]|G3588|Art-GNP
 v7 παθημάτων|pathēmatōn|sufferings|G3804|N-GNP
 v7 οὕτως|houtōs|so|G3779|Adv
 v7 καὶ|kai|also [you will share]|G2532|Conj
 v7 τῆς|tēs|in [our]|G3588|Art-GFS
 v7 παρακλήσεως|paraklēseōs|comfort|G3874|N-GFS
-v8 Οὐ|Ou|vvv|G3756|Adv
+v8 Οὐ|Ou|...|G3756|Adv
 v8 γὰρ|gar|-|G1063|Conj
 v8 θέλομεν|thelomen|We do not want|G2309|V-PIA-1P
 v8 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -174,7 +174,7 @@ v8 τοῦ|tou|of|G3588|Art-GNS
 v8 ζῆν|zēn|life|G2198|V-PNA
 v9 ἀλλὰ|alla|Indeed|G235|Conj
 v9 αὐτοὶ|autoi|we|G846|PPro-NM3P
-v9 ἐν|en|vvv|G1722|Prep
+v9 ἐν|en|...|G1722|Prep
 v9 ἑαυτοῖς|heautois|we were under|G1438|RefPro-DM3P
 v9 τὸ|to|the|G3588|Art-ANS
 v9 ἀπόκριμα|apokrima|sentence|G610|N-ANS
@@ -182,7 +182,7 @@ v9 τοῦ|tou|-|G3588|Art-GMS
 v9 θανάτου|thanatou|of death|G2288|N-GMS
 v9 ἐσχήκαμεν|eschēkamen|felt|G2192|V-RIA-1P
 v9 ἵνα|hina|in order that|G2443|Conj
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 πεποιθότες|pepoithotes|trust|G3982|V-RPA-NMP
 v9 ὦμεν|ōmen|we would not|G1510|V-PSA-1P
 v9 ἐφ’|eph’|in|G1909|Prep
@@ -280,11 +280,11 @@ v13 ἐπιγινώσκετε|epiginōskete|understand|G1921|V-PIA-2P
 v13 ἐλπίζω|elpizō|I hope|G1679|V-PIA-1S
 v13 δὲ|de|And|G1161|Conj
 v13 ὅτι|hoti|that|G3754|Conj
-v13 ἕως|heōs|vvv|G2193|Prep
+v13 ἕως|heōs|...|G2193|Prep
 v13 τέλους|telous|completely|G5056|N-GNS
 v13 ἐπιγνώσεσθε|epignōsesthe|you will understand [us]|G1921|V-FIM-2P
 v14 καθὼς|kathōs|as|G2531|Adv
-v14 καὶ|kai|vvv|G2532|Conj
+v14 καὶ|kai|...|G2532|Conj
 v14 ἐπέγνωτε|epegnōte|you have already understood|G1921|V-AIA-2P
 v14 ἡμᾶς|hēmas|us|G1473|PPro-A1P
 v14 ἀπὸ|apo|in|G575|Prep
@@ -294,7 +294,7 @@ v14 καύχημα|kauchēma|may boast|G2745|N-NNS
 v14 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v14 ἐσμεν|esmen|of us|G1510|V-PIA-1P
 v14 καθάπερ|kathaper|just as|G2509|Adv
-v14 καὶ|kai|vvv|G2532|Conj
+v14 καὶ|kai|...|G2532|Conj
 v14 ὑμεῖς|hymeis|[ will boast ] of you|G4771|PPro-N2P
 v14 ἡμῶν|hēmōn|we|G1473|PPro-G1P
 v14 ἐν|en|in|G1722|Prep
@@ -318,7 +318,7 @@ v15 δευτέραν|deuteran|a double|G1208|Adj-AFS
 v15 χάριν|charin|blessing|G5485|N-AFS
 v15 σχῆτε|schēte|you might receive|G2192|V-ASA-2P
 v16 καὶ|kai|[I wanted]|G2532|Conj
-v16 δι’|di’|vvv|G1223|Prep
+v16 δι’|di’|...|G1223|Prep
 v16 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v16 διελθεῖν|dielthein|to visit|G1330|V-ANA
 v16 εἰς|eis|on my way to|G1519|Prep
@@ -340,7 +340,7 @@ v16 Ἰουδαίαν|Ioudaian|Judea|G2449|N-AFS
 v17 Τοῦτο|Touto|this|G3778|DPro-ANS
 v17 οὖν|oun|-|G3767|Conj
 v17 βουλόμενος|boulomenos|When I planned|G1014|V-PPM/P-NMS
-v17 μήτι|mēti|vvv|G3385|IntPrtcl
+v17 μήτι|mēti|...|G3385|IntPrtcl
 v17 ἄρα|ara|-|G686|Conj
 v17 τῇ|tē|-|G3588|Art-DFS
 v17 ἐλαφρίᾳ|elaphria|carelessly|G1644|N-DFS
@@ -353,7 +353,7 @@ v17 σάρκα|sarka|human standards|G4561|N-AFS
 v17 βουλεύομαι|bouleuomai|do I make my plans|G1011|V-PIM/P-1S
 v17 ἵνα|hina|so as [to say]|G2443|Conj
 v17 ᾖ|ē|...|G1510|V-PSA-3S
-v17 παρ’|par’|vvv|G3844|Prep
+v17 παρ’|par’|...|G3844|Prep
 v17 ἐμοὶ|emoi|...|G1473|PPro-D1S
 v17 τό|to|...|G3588|Art-NNS
 v17 Ναί|Nai|Yes|G3483|Prtcl
@@ -425,7 +425,7 @@ v20 τῷ|tō|-|G3588|Art-DMS
 v20 Θεῷ|Theō|of God|G2316|N-DMS
 v20 πρὸς|pros|to|G4314|Prep
 v20 δόξαν|doxan|[the] glory|G1391|N-AFS
-v20 δι’|di’|vvv|G1223|Prep
+v20 δι’|di’|...|G1223|Prep
 v20 ἡμῶν|hēmōn|is spoken|G1473|PPro-G1P
 v21 Ὁ|Ho|who|G3588|Art-NMS
 v21 δὲ|de|Now|G1161|Conj

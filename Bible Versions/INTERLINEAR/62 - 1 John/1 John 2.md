@@ -4,7 +4,7 @@ v1 ταῦτα|tauta|these things|G3778|DPro-ANP
 v1 γράφω|graphō|I am writing|G1125|V-PIA-1S
 v1 ὑμῖν|hymin|to you|G4771|PPro-D2P
 v1 ἵνα|hina|so that|G2443|Conj
-v1 μὴ|mē|vvv|G3361|Adv
+v1 μὴ|mē|...|G3361|Adv
 v1 ἁμάρτητε|hamartēte|you will not sin|G264|V-ASA-2P
 v1 καὶ|kai|[But]|G2532|Conj
 v1 ἐάν|ean|if|G1437|Conj
@@ -59,7 +59,7 @@ v4 καὶ|kai|[but]|G2532|Conj
 v4 τὰς|tas|-|G3588|Art-AFP
 v4 ἐντολὰς|entolas|commandments|G1785|N-AFP
 v4 αὐτοῦ|autou|His|G846|PPro-GM3S
-v4 μὴ|mē|vvv|G3361|Adv
+v4 μὴ|mē|...|G3361|Adv
 v4 τηρῶν|tērōn|does not keep|G5083|V-PPA-NMS
 v4 ψεύστης|pseustēs|a liar|G5583|N-NMS
 v4 ἐστίν|estin|he is|G1510|V-PIA-3S
@@ -106,7 +106,7 @@ v6 αὐτὸς|autos|...|G846|PPro-NM3S
 v6 οὕτως|houtōs|...|G3779|Adv
 v6 περιπατεῖν|peripatein|walked|G4043|V-PNA
 v7 Ἀγαπητοί|Agapētoi|Beloved|G27|Adj-VMP
-v7 οὐκ|ouk|vvv|G3756|Adv
+v7 οὐκ|ouk|...|G3756|Adv
 v7 ἐντολὴν|entolēn|commandment|G1785|N-AFS
 v7 καινὴν|kainēn|a new|G2537|Adj-AFS
 v7 γράφω|graphō|I am not writing|G1125|V-PIA-1S
@@ -199,7 +199,7 @@ v11 τῇ|tē|the|G3588|Art-DFS
 v11 σκοτίᾳ|skotia|darkness|G4653|N-DFS
 v11 περιπατεῖ|peripatei|walks|G4043|V-PIA-3S
 v11 καὶ|kai|-|G2532|Conj
-v11 οὐκ|ouk|vvv|G3756|Adv
+v11 οὐκ|ouk|...|G3756|Adv
 v11 οἶδεν|oiden|He does not know|G1492|V-RIA-3S
 v11 ποῦ|pou|where|G4225|Adv
 v11 ὑπάγει|hypagei|he is going|G5217|V-PIA-3S
@@ -338,8 +338,8 @@ v17 θέλημα|thelēma|will|G2307|N-ANS
 v17 τοῦ|tou|-|G3588|Art-GMS
 v17 Θεοῦ|Theou|of God|G2316|N-GMS
 v17 μένει|menei|remains|G3306|V-PIA-3S
-v17 εἰς|eis|vvv|G1519|Prep
-v17 τὸν|ton|vvv|G3588|Art-AMS
+v17 εἰς|eis|...|G1519|Prep
+v17 τὸν|ton|...|G3588|Art-AMS
 v17 αἰῶνα|aiōna|forever|G165|N-AMS
 v18 Παιδία|Paidia|Children|G3813|N-VNP
 v18 ἐσχάτη|eschatē|[the] last|G2078|Adj-NFS
@@ -376,7 +376,7 @@ v19 ἐξ|ex|to|G1537|Prep
 v19 ἡμῶν|hēmōn|us|G1473|PPro-G1P
 v19 ἦσαν|ēsan|they had belonged|G1510|V-IIA-3P
 v19 μεμενήκεισαν|memenēkeisan|they would have remained|G3306|V-LIA-3P
-v19 ἂν|an|vvv|G302|Prtcl
+v19 ἂν|an|...|G302|Prtcl
 v19 μεθ’|meth’|with|G3326|Prep
 v19 ἡμῶν|hēmōn|us|G1473|PPro-G1P
 v19 ἀλλ’|all’|But|G235|Conj
@@ -385,7 +385,7 @@ v19 φανερωθῶσιν|phanerōthōsin|made it clear|G5319|V-ASP-3P
 v19 ὅτι|hoti|that|G3754|Conj
 v19 οὐκ|ouk|none of them|G3756|Adv
 v19 εἰσὶν|eisin|belonged to|G1510|V-PIA-3P
-v19 πάντες|pantes|vvv|G3956|Adj-NMP
+v19 πάντες|pantes|...|G3956|Adj-NMP
 v19 ἐξ|ex|...|G1537|Prep
 v19 ἡμῶν|hēmōn|us|G1473|PPro-G1P
 v20 Καὶ|Kai|however|G2532|Conj
@@ -398,11 +398,11 @@ v20 Ἁγίου|Hagiou|Holy [One]|G40|Adj-GMS
 v20 καὶ|kai|and|G2532|Conj
 v20 οἴδατε|oidate|all of you know the truth|G1492|V-RIA-2P
 v20 πάντες|pantes|...|G3956|Adj-NMP
-v21 οὐκ|ouk|vvv|G3756|Adv
+v21 οὐκ|ouk|...|G3756|Adv
 v21 ἔγραψα|egrapsa|I have not written|G1125|V-AIA-1S
 v21 ὑμῖν|hymin|to you|G4771|PPro-D2P
 v21 ὅτι|hoti|because|G3754|Conj
-v21 οὐκ|ouk|vvv|G3756|Adv
+v21 οὐκ|ouk|...|G3756|Adv
 v21 οἴδατε|oidate|you lack knowledge|G1492|V-RIA-2P
 v21 τὴν|tēn|of the|G3588|Art-AFS
 v21 ἀλήθειαν|alētheian|truth|G225|N-AFS
@@ -449,7 +449,7 @@ v23 ὁ|ho|...|G3588|Art-NMS
 v23 ἀρνούμενος|arnoumenos|denies|G720|V-PPM/P-NMS
 v23 τὸν|ton|the|G3588|Art-AMS
 v23 Υἱὸν|Huion|Son|G5207|N-AMS
-v23 οὐδὲ|oude|vvv|G3761|Adv
+v23 οὐδὲ|oude|...|G3761|Adv
 v23 τὸν|ton|the|G3588|Art-AMS
 v23 Πατέρα|Patera|Father|G3962|N-AMS
 v23 ἔχει|echei|does not have|G2192|V-PIA-3S
@@ -477,7 +477,7 @@ v24 ὃ|ho|[it]|G3739|RelPro-ANS
 v24 ἀπ’|ap’|...|G575|Prep
 v24 ἀρχῆς|archēs|...|G746|N-GFS
 v24 ἠκούσατε|ēkousate|...|G191|V-AIA-2P
-v24 καὶ|kai|vvv|G2532|Conj
+v24 καὶ|kai|...|G2532|Conj
 v24 ὑμεῖς|hymeis|you|G4771|PPro-N2P
 v24 ἐν|en|in|G1722|Prep
 v24 τῷ|tō|the|G3588|Art-DMS
@@ -528,7 +528,7 @@ v27 διδάσκῃ|didaskē|to teach|G1321|V-PSA-3S
 v27 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v27 ἀλλ’|all’|But|G235|Conj
 v27 ὡς|hōs|just as|G5613|Adv
-v27 τὸ|to|vvv|G3588|Art-NNS
+v27 τὸ|to|...|G3588|Art-NNS
 v27 αὐτοῦ|autou|[His]|G846|PPro-GM3S
 v27 χρῖσμα|chrisma|anointing|G5545|N-NNS
 v27 διδάσκει|didaskei|teaches|G1321|V-PIA-3S
@@ -539,7 +539,7 @@ v27 καὶ|kai|-|G2532|Conj
 v27 ἀληθές|alēthes|true|G227|Adj-NNS
 v27 ἐστιν|estin|-|G1510|V-PIA-3S
 v27 καὶ|kai|and|G2532|Conj
-v27 οὐκ|ouk|vvv|G3756|Adv
+v27 οὐκ|ouk|...|G3756|Adv
 v27 ἔστιν|estin|-|G1510|V-PIA-3S
 v27 ψεῦδος|pseudos|genuine|G5579|N-NNS
 v27 καὶ|kai|[so]|G2532|Conj
@@ -561,7 +561,7 @@ v28 φανερωθῇ|phanerōthē|He appears|G5319|V-ASP-3S
 v28 σχῶμεν|schōmen|we may be|G2192|V-ASA-1P
 v28 παρρησίαν|parrēsian|confident|G3954|N-AFS
 v28 καὶ|kai|and|G2532|Conj
-v28 μὴ|mē|vvv|G3361|Adv
+v28 μὴ|mē|...|G3361|Adv
 v28 αἰσχυνθῶμεν|aischynthōmen|unashamed|G153|V-ASP-1P
 v28 ἀπ’|ap’|before|G575|Prep
 v28 αὐτοῦ|autou|Him|G846|PPro-GM3S

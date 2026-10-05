@@ -72,27 +72,27 @@ v4 μακροθυμεῖ|makrothymei|is patient|G3114|V-PIA-3S
 v4 χρηστεύεται|chrēsteuetai|is kind|G5541|V-PIM/P-3S
 v4 ἡ|hē|-|G3588|Art-NFS
 v4 ἀγάπη|agapē|love|G26|N-NFS
-v4 οὐ|ou|vvv|G3756|Adv
+v4 οὐ|ou|...|G3756|Adv
 v4 ζηλοῖ|zēloi|does not envy|G2206|V-PIA-3S
 v4 ἡ|hē|-|G3588|Art-NFS
 v4 ἀγάπη|agapē|[It]|G26|N-NFS
-v4 οὐ|ou|vvv|G3756|Adv
+v4 οὐ|ou|...|G3756|Adv
 v4 περπερεύεται|perpereuetai|it does not boast|G4068|V-PIM/P-3S
-v4 οὐ|ou|vvv|G3756|Adv
+v4 οὐ|ou|...|G3756|Adv
 v4 φυσιοῦται|physioutai|it is not proud|G5448|V-PIM/P-3S
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 ἀσχημονεῖ|aschēmonei|It is not rude|G807|V-PIA-3S
-v5 οὐ|ou|vvv|G3756|Adv
+v5 οὐ|ou|...|G3756|Adv
 v5 ζητεῖ|zētei|it is not self-seeking|G2212|V-PIA-3S
 v5 τὰ|ta|...|G3588|Art-ANP
 v5 ἑαυτῆς|heautēs|...|G1438|RefPro-GF3S
-v5 οὐ|ou|vvv|G3756|Adv
+v5 οὐ|ou|...|G3756|Adv
 v5 παροξύνεται|paroxynetai|it is not easily angered|G3947|V-PIM/P-3S
-v5 οὐ|ou|vvv|G3756|Adv
+v5 οὐ|ou|...|G3756|Adv
 v5 λογίζεται|logizetai|it keeps no account|G3049|V-PIM/P-3S
 v5 τὸ|to|-|G3588|Art-ANS
 v5 κακόν|kakon|of wrongs|G2556|Adj-ANS
-v6 οὐ|ou|vvv|G3756|Adv
+v6 οὐ|ou|...|G3756|Adv
 v6 χαίρει|chairei|[Love] takes no pleasure|G5463|V-PIA-3S
 v6 ἐπὶ|epi|in|G1909|Prep
 v6 τῇ|tē|-|G3588|Art-DFS
@@ -137,7 +137,7 @@ v10 ἔλθῃ|elthē|comes|G2064|V-ASA-3S
 v10 τὸ|to|the|G3588|Art-NNS
 v10 τέλειον|teleion|perfect|G5046|Adj-NNS
 v10 τὸ|to|the|G3588|Art-NNS
-v10 ἐκ|ek|vvv|G1537|Prep
+v10 ἐκ|ek|...|G1537|Prep
 v10 μέρους|merous|partial|G3313|N-GNS
 v10 καταργηθήσεται|katargēthēsetai|passes away|G2673|V-FIP-3S
 v11 Ὅτε|Hote|When|G3753|Adv
@@ -156,15 +156,15 @@ v11 ὅτε|hote|When|G3753|Adv
 v11 γέγονα|gegona|I became|G1096|V-RIA-1S
 v11 ἀνήρ|anēr|a man|G435|N-NMS
 v11 κατήργηκα|katērgēka|I set aside|G2673|V-RIA-1S
-v11 τὰ|ta|vvv|G3588|Art-ANP
-v11 τοῦ|tou|vvv|G3588|Art-GMS
+v11 τὰ|ta|...|G3588|Art-ANP
+v11 τοῦ|tou|...|G3588|Art-GMS
 v11 νηπίου|nēpiou|childish ways|G3516|Adj-GMS
 v12 βλέπομεν|blepomen|we see|G991|V-PIA-1P
 v12 γὰρ|gar|-|G1063|Conj
 v12 ἄρτι|arti|Now|G737|Adv
 v12 δι’|di’|as in|G1223|Prep
 v12 ἐσόπτρου|esoptrou|a mirror|G2072|N-GNS
-v12 ἐν|en|vvv|G1722|Prep
+v12 ἐν|en|...|G1722|Prep
 v12 αἰνίγματι|ainigmati|but a dim reflection|G135|N-DNS
 v12 τότε|tote|then [we shall see]|G5119|Adv
 v12 δὲ|de|-|G1161|Conj

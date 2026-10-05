@@ -61,14 +61,14 @@ v10 גּוֹיִ֥ם|gō·w·yim|the nations|H1471|N-mp
 v10 סְבָב֑וּנִי|sə·ḇā·ḇū·nî|surrounded me|H5437|V-Qal-Perf-3cp | 1cs
 v10 בְּשֵׁ֥ם|bə·šêm|but in the name|H8034|Prep-b | N-msc
 v10 יְ֝הוָ֗ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v10 כִּ֣י|kî|vvv|H3588|Conj
+v10 כִּ֣י|kî|...|H3588|Conj
 v10 אֲמִילַֽם׃|’ă·mî·lam|I cut them off|H4135|V-Hifil-Imperf-1cs | 3mp
 v11 סַבּ֥וּנִי|sab·bū·nî|They surrounded me|H5437|V-Qal-Perf-3cp | 1cs
-v11 גַם־|ḡam-|vvv|H1571|Conj
+v11 גַם־|ḡam-|...|H1571|Conj
 v11 סְבָב֑וּנִי|sə·ḇā·ḇū·nî|on every side|H5437|V-Qal-Perf-3cp | 1cs
 v11 בְּשֵׁ֥ם|bə·šêm|but in the name|H8034|Prep-b | N-msc
 v11 יְ֝הוָ֗ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v11 כִּ֣י|kî|vvv|H3588|Conj
+v11 כִּ֣י|kî|...|H3588|Conj
 v11 אֲמִילַֽם׃|’ă·mî·lam|I cut them off|H4135|V-Hifil-Imperf-1cs | 3mp
 v12 סַבּ֤וּנִי|sab·bū·nî|They swarmed around me|H5437|V-Qal-Perf-3cp | 1cs
 v12 כִדְבוֹרִ֗ים|ḵiḏ·ḇō·w·rîm|like bees|H1682|Prep-k | N-fp
@@ -77,7 +77,7 @@ v12 כְּאֵ֣שׁ|kə·’êš|like burning|H784|Prep-k | N-csc
 v12 קוֹצִ֑ים|qō·w·ṣîm|thorns|H6975|N-mp
 v12 בְּשֵׁ֥ם|bə·šêm|in the name|H8034|Prep-b | N-msc
 v12 יְ֝הוָ֗ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v12 כִּ֣י|kî|vvv|H3588|Conj
+v12 כִּ֣י|kî|...|H3588|Conj
 v12 אֲמִילַֽם׃|’ă·mî·lam|I cut them off|H4135|V-Hifil-Imperf-1cs | 3mp
 v13 דַּחֹ֣ה|da·ḥōh|I was pushed so hard|H1760|V-Qal-InfAbs
 v13 דְחִיתַ֣נִי|ḏə·ḥî·ṯa·nî|...|H1760|V-Qal-Perf-2ms | 1cs

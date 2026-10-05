@@ -42,7 +42,7 @@ v6 וּ֝כְסִ֗יל|ū·ḵə·sîl|and a fool|H3684|Conj-w | N-ms
 v6 לֹא־|lō-|does not|H3808|Adv-NegPrt
 v6 יָבִ֥ין|yā·ḇîn|understand|H995|V-Qal-Imperf-3ms
 v6 אֶת־|’eṯ-|-|H853|DirObjM
-v6 זֹֽאת׃|zōṯ||H2063|Pro-fs
+v6 זֹֽאת׃|zōṯ|-|H2063|Pro-fs
 v7 בִּפְרֹ֤חַ|bip̄·rō·aḥ|sprout|H6524|Prep-b | V-Qal-Inf
 v7 רְשָׁעִ֨ים׀|rə·šā·‘îm|that though the wicked|H7563|Adj-mp
 v7 כְּמ֥וֹ|kə·mōw|like|H3644|Prep
@@ -62,7 +62,7 @@ v9 כִּ֤י|kî|For|H3588|Conj
 v9 הִנֵּ֪ה|hin·nêh|surely|H2009|Interjection
 v9 אֹיְבֶ֡יךָ׀|’ō·yə·ḇe·ḵā|Your enemies|H341|V-Qal-Prtcpl-mpc | 2ms
 v9 יְֽהוָ֗ה|Yah·weh|O LORD|H3068|N-proper-ms
-v9 כִּֽי־|kî-|vvv|H3588|Conj
+v9 כִּֽי־|kî-|...|H3588|Conj
 v9 הִנֵּ֣ה|hin·nêh|surely|H2009|Interjection
 v9 אֹיְבֶ֣יךָ|’ō·yə·ḇe·ḵā|Your enemies|H341|V-Qal-Prtcpl-mpc | 2ms
 v9 יֹאבֵ֑דוּ|yō·ḇê·ḏū|will perish|H6|V-Qal-Imperf-3mp

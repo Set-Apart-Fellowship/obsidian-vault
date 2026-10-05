@@ -3,7 +3,7 @@ v1 γὰρ|gar|-|G1063|Conj
 v1 ἀρχιερεὺς|archiereus|high priest|G749|N-NMS
 v1 ἐξ|ex|from among|G1537|Prep
 v1 ἀνθρώπων|anthrōpōn|men|G444|N-GMP
-v1 λαμβανόμενος|lambanomenos|vvv|G2983|V-PPM/P-NMS
+v1 λαμβανόμενος|lambanomenos|...|G2983|V-PPM/P-NMS
 v1 ὑπὲρ|hyper|to represent|G5228|Prep
 v1 ἀνθρώπων|anthrōpōn|[them]|G444|N-GMP
 v1 καθίσταται|kathistatai|is appointed|G2525|V-PIM/P-3S
@@ -89,8 +89,8 @@ v6 ἑτέρῳ|heterō|another [passage]|G2087|Adj-DMS
 v6 λέγει|legei|[God] says|G3004|V-PIA-3S
 v6 Σὺ|Sy|You [are]|G4771|PPro-N2S
 v6 ἱερεὺς|hiereus|a priest|G2409|N-NMS
-v6 εἰς|eis|vvv|G1519|Prep
-v6 τὸν|ton|vvv|G3588|Art-AMS
+v6 εἰς|eis|...|G1519|Prep
+v6 τὸν|ton|...|G3588|Art-AMS
 v6 αἰῶνα|aiōna|forever|G165|N-AMS
 v6 κατὰ|kata|in|G2596|Prep
 v6 τὴν|tēn|the|G3588|Art-AFS
@@ -191,9 +191,9 @@ v12 λογίων|logiōn|word|G3051|N-GNP
 v12 τοῦ|tou|-|G3588|Art-GMS
 v12 Θεοῦ|Theou|of God's|G2316|N-GMS
 v12 καὶ|kai|-|G2532|Conj
-v12 γεγόνατε|gegonate|vvv|G1096|V-RIA-2P
+v12 γεγόνατε|gegonate|...|G1096|V-RIA-2P
 v12 χρείαν|chreian|You need|G5532|N-AFS
-v12 ἔχοντες|echontes|vvv|G2192|V-PPA-NMP
+v12 ἔχοντες|echontes|...|G2192|V-PPA-NMP
 v12 γάλακτος|galaktos|milk|G1051|N-GNS
 v12 [καὶ]|kai|-|G2532|Conj
 v12 οὐ|ou|not|G3756|Adv

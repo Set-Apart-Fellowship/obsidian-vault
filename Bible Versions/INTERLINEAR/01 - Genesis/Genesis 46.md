@@ -94,7 +94,7 @@ v7 וְכָל־|wə·ḵāl|all|H3605|Conj-w | N-msc
 v7 זַרְע֑וֹ|zar·‘ōw|his offspring|H2233|N-msc | 3ms
 v7 הֵבִ֥יא|hê·ḇî|[Jacob] took|H935|V-Hifil-Perf-3ms
 v7 אִתּ֖וֹ|’it·tōw|with him|H854|Prep | 3ms
-v7 מִצְרָֽיְמָה׃ס|miṣ·rā·yə·māh|to Egypt|H4714|N-proper-fs | 3fs
+v7 מִצְרָֽיְמָה׃|miṣ·rā·yə·māh|to Egypt|H4714|N-proper-fs | 3fs
 v8 וְאֵ֨לֶּה|wə·’êl·leh|Now these|H428|Conj-w | Pro-cp
 v8 שְׁמ֧וֹת|šə·mō·wṯ|are the names|H8034|N-mpc
 v8 בְּנֵֽי־|bə·nê-|of the sons|H1121|N-mpc
@@ -223,7 +223,7 @@ v20 יָֽלְדָה־|yā·lə·ḏāh-|-|H3205|V-Qal-Perf-3fs
 v20 לּוֹ֙|lōw|-|H0|Prep | 3ms
 v20 אָֽסְנַ֔ת|’ā·sə·naṯ|by Asenath|H621|N-proper-fs
 v20 בַּת־|baṯ-|daughter|H1323|N-fsc
-v20 פּ֥וֹטִי|pō·w·ṭî|vvv|H6319|
+v20 פּ֥וֹטִי|pō·w·ṭî|...|H6319|
 v20 פֶ֖רַע|p̄e·ra‘|of Potiphera|H6319|N-proper-ms
 v20 כֹּהֵ֣ן|kō·hên|priest|H3548|N-msc
 v20 אֹ֑ן|’ōn|of On|H204|N-proper-ms
@@ -275,7 +275,7 @@ v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 אֵ֛לֶּה|’êl·leh|-|H428|Pro-cp
 v25 לְיַעֲקֹ֖ב|lə·ya·‘ă·qōḇ|of Jacob|H3290|Prep-l | N-proper-ms
 v25 כָּל־|kāl-|in all|H3605|N-msc
-v25 נֶ֥פֶשׁ|ne·p̄eš||H5315|N-fs
+v25 נֶ֥פֶשׁ|ne·p̄eš|-|H5315|N-fs
 v25 שִׁבְעָֽה׃|šiḇ·‘āh|seven|H7651|Number-ms
 v26 כָּל־|kāl-|All those|H3605|N-msc
 v26 הַ֠נֶּפֶשׁ|han·ne·p̄eš|persons|H5315|Art | N-fs
@@ -306,7 +306,7 @@ v27 לְבֵֽית־|lə·ḇêṯ-|family|H1004|Prep-l | N-msc
 v27 יַעֲקֹ֛ב|ya·‘ă·qōḇ|of Jacob's|H3290|N-proper-ms
 v27 הַבָּ֥אָה|hab·bā·’āh|who went|H935|Art | V-Qal-Perf-3fs
 v27 מִצְרַ֖יְמָה|miṣ·ray·māh|to Egypt [were]|H4714|N-proper-fs | 3fs
-v27 שִׁבְעִֽים׃פ|šiḇ·‘îm|seventy|H7657|Number-cp
+v27 שִׁבְעִֽים׃|šiḇ·‘îm|seventy|H7657|Number-cp
 v28 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v28 יְהוּדָ֞ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v28 שָׁלַ֤ח|šā·laḥ|Now Jacob had sent|H7971|V-Qal-Perf-3ms
@@ -360,7 +360,7 @@ v31 אֶעֱלֶ֖ה|’e·‘ĕ·leh|I will go up|H5927|V-Qal-Imperf.h-1cs
 v31 וְאַגִּ֣ידָה|wə·’ag·gî·ḏāh|and inform|H5046|Conj-w | V-Hifil-ConjImperf.Cohort-1cs
 v31 לְפַרְעֹ֑ה|lə·p̄ar·‘ōh|Pharaoh|H6547|Prep-l | N-proper-ms
 v31 וְאֹֽמְרָ֣ה|wə·’ō·mə·rāh|-|H559|Conj-w | V-Qal-ConjImperf.Cohort-1cs
-v31 אֵלָ֔יו|’ê·lāw||H413|Prep | 3ms
+v31 אֵלָ֔יו|’ê·lāw|-|H413|Prep | 3ms
 v31 אַחַ֧י|’a·ḥay|My brothers|H251|N-mpc | 1cs
 v31 וּבֵית־|ū·ḇêṯ-|household|H1004|Conj-w | N-msc
 v31 אָבִ֛י|’ā·ḇî|and my father's|H1|N-msc | 1cs

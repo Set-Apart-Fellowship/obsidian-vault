@@ -46,7 +46,7 @@ v3 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v3 אִ֥ישׁ|’îš|men|H376|N-ms
 v3 בָּח֖וּר|bā·ḥūr|chosen|H977|V-Qal-QalPassPrtcpl-ms
 v3 גִּבּ֥וֹר|gib·bō·wr|[and] mighty|H1368|Adj-msc
-v3 חָֽיִל׃ס|ḥā·yil|of valor|H2428|N-ms
+v3 חָֽיִל׃|ḥā·yil|of valor|H2428|N-ms
 v4 וַיָּ֣קָם|way·yā·qām|stood|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v4 אֲבִיָּ֗ה|’ă·ḇî·yāh|Then Abijah|H29|N-proper-ms
 v4 מֵעַל֙|mê·‘al|on|H5921|Prep-m
@@ -73,10 +73,10 @@ v5 לְדָוִ֛יד|lə·ḏā·wîḏ|to David|H1732|Prep-l | N-proper-ms
 v5 עַל־|‘al-|of|H5921|Prep
 v5 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v5 לְעוֹלָ֑ם|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
-v5 ל֥וֹ|lōw||H0|Prep | 3ms
+v5 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v5 וּלְבָנָ֖יו|ū·lə·ḇā·nāw|and his descendants|H1121|Conj-w, Prep-l | N-mpc | 3ms
 v5 בְּרִ֥ית|bə·rîṯ|by a covenant|H1285|N-fsc
-v5 מֶֽלַח׃ס|me·laḥ|of salt|H4417|N-ms
+v5 מֶֽלַח׃|me·laḥ|of salt|H4417|N-ms
 v6 וַיָּ֙קָם֙|way·yā·qām|rose up|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v6 יָרָבְעָ֣ם|yā·rā·ḇə·‘ām|Yet Jeroboam|H3379|N-proper-ms
 v6 בֶּן־|ben-|son|H1121|N-msc
@@ -154,7 +154,7 @@ v9 שִׁבְעָ֔ה|šiḇ·‘āh|and seven|H7651|Number-ms
 v9 וְהָיָ֥ה|wə·hā·yāh|can become|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v9 כֹהֵ֖ן|ḵō·hên|a priest|H3548|N-ms
 v9 לְלֹ֥א|lə·lō|of [things that are] not|H3808|Prep-l | Adv-NegPrt
-v9 אֱלֹהִֽים׃ס|’ĕ·lō·hîm|gods|H430|N-mp
+v9 אֱלֹהִֽים׃|’ĕ·lō·hîm|gods|H430|N-mp
 v10 וַאֲנַ֛חְנוּ|wa·’ă·naḥ·nū|But as for us|H587|Conj-w | Pro-1cp
 v10 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v10 אֱלֹהֵ֖ינוּ|’ĕ·lō·hê·nū|is our God|H430|N-mpc | 1cp
@@ -231,7 +231,7 @@ v13 מֵאַחֲרֵיהֶֽם׃|mê·’a·ḥă·rê·hem|was behind them|H31
 v14 וַיִּפְנ֣וּ|way·yip̄·nū|turned|H6437|Conj-w | V-Qal-ConsecImperf-3mp
 v14 יְהוּדָ֗ה|yə·hū·ḏāh|When Judah|H3063|N-proper-ms
 v14 וְהִנֵּ֨ה|wə·hin·nêh|and discovered|H2009|Conj-w | Interjection
-v14 לָהֶ֤ם|lā·hem||H0|Prep | 3mp
+v14 לָהֶ֤ם|lā·hem|-|H0|Prep | 3mp
 v14 הַמִּלְחָמָה֙|ham·mil·ḥā·māh|that the battle|H4421|Art | N-fs
 v14 פָּנִ֣ים|pā·nîm|[was both] before|H6440|N-mp
 v14 וְאָח֔וֹר|wə·’ā·ḥō·wr|and behind them|H268|Conj-w | N-ms
@@ -300,14 +300,14 @@ v19 וַיִּלְכֹּ֤ד|way·yil·kōḏ|and captured|H3920|Conj-w | V-Qal-
 v19 מִמֶּ֙נּוּ֙|mim·men·nū|from him|H4480|Prep | 3ms
 v19 עָרִ֔ים|‘ā·rîm|some cities|H5892|N-fp
 v19 אֶת־|’eṯ-|-|H853|DirObjM
-v19 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v19 בֵּֽית־|bêṯ-|...|H1008|Prep
 v19 אֵל֙|’êl|Bethel|H1008|N-proper-fs
 v19 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v19 בְּנוֹתֶ֔יהָ|bə·nō·w·ṯe·hā||H1323|N-fpc | 3fs
+v19 בְּנוֹתֶ֔יהָ|bə·nō·w·ṯe·hā|-|H1323|N-fpc | 3fs
 v19 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v19 יְשָׁנָ֖ה|yə·šā·nāh|Jeshanah|H3466|N-proper-fs
 v19 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v19 בְּנוֹתֶ֑יהָ|bə·nō·w·ṯe·hā||H1323|N-fpc | 3fs
+v19 בְּנוֹתֶ֑יהָ|bə·nō·w·ṯe·hā|-|H1323|N-fpc | 3fs
 v19 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v19 עֶפְרוֹן|ʿɛp̄·rōn|Ephron|H6085|N-proper-fs
 v19 וּבְנֹתֶֽיהָ׃|ū·ḇə·nō·ṯe·hā|along with their villages|H1323|Conj-w | N-fpc | 3fs
@@ -320,7 +320,7 @@ v20 בִּימֵ֣י|bî·mê|during the days|H3117|Prep-b | N-mpc
 v20 אֲבִיָּ֑הוּ|’ă·ḇî·yā·hū|of Abijah|H29|N-proper-ms
 v20 וַיִּגְּפֵ֥הוּ|way·yig·gə·p̄ê·hū|struck him down|H5062|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
 v20 יְהוָ֖ה|Yah·weh|and the LORD|H3068|N-proper-ms
-v20 וַיָּמֹֽת׃פ|way·yā·mōṯ|and he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v20 וַיָּמֹֽת׃|way·yā·mōṯ|and he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v21 וַיִּתְחַזֵּ֣ק|way·yiṯ·ḥaz·zêq|grew strong|H2388|Conj-w | V-Hitpael-ConsecImperf-3ms
 v21 אֲבִיָּ֔הוּ|’ă·ḇî·yā·hū|But Abijah|H29|N-proper-ms
 v21 וַיִּ֨שָּׂא־|way·yiś·śā-|married|H5375|Conj-w | V-Qal-ConsecImperf-3ms
@@ -334,7 +334,7 @@ v21 וּשְׁנַ֙יִם֙|ū·šə·na·yim|...|H8147|Conj-w | Number-md
 v21 בָּנִ֔ים|bā·nîm|sons|H1121|N-mp
 v21 וְשֵׁ֥שׁ|wə·šêš|and sixteen|H8337|Conj-w | Number-fs
 v21 עֶשְׂרֵ֖ה|‘eś·rêh|...|H6240|Number-fs
-v21 בָּנֽוֹת׃ס|bā·nō·wṯ|daughters|H1323|N-fp
+v21 בָּנֽוֹת׃|bā·nō·wṯ|daughters|H1323|N-fp
 v22 וְיֶ֙תֶר֙|wə·ye·ṯer|Now the rest|H3499|Conj-w | N-msc
 v22 דִּבְרֵ֣י|diḇ·rê|of the acts|H1697|N-mpc
 v22 אֲבִיָּ֔ה|’ă·ḇî·yāh|of Abijah|H29|N-proper-ms

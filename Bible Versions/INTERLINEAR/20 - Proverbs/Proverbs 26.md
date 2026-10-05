@@ -154,7 +154,7 @@ v21 לְאֵ֑שׁ|lə·’êš|for fire|H784|Prep-l | N-cs
 v21 וְאִ֥ישׁ|wə·’îš|man|H376|Conj-w | N-msc
 v21 מְדוֹנִים|mə·ḏō·nīm|so is a quarrelsome|H4066|N-mp
 v21 לְחַרְחַר־|lə·ḥar·ḥar-|for kindling|H2787|Prep-l | V-Piel-Inf
-v21 רִֽיב׃פ|rîḇ|strife|H7379|N-ms
+v21 רִֽיב׃|rîḇ|strife|H7379|N-ms
 v22 דִּבְרֵ֣י|diḇ·rê|The words|H1697|N-mpc
 v22 נִ֭רְגָּן|nir·gān|of a gossip|H7279|V-Nifal-Prtcpl-ms
 v22 כְּמִֽתְלַהֲמִ֑ים|kə·miṯ·la·hă·mîm|are like choice morsels|H3859|Prep-k | V-Hitpael-Prtcpl-mp

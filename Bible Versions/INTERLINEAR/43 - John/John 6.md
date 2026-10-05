@@ -44,7 +44,7 @@ v4 τὸ|to|of the|G3588|Art-NNS
 v4 πάσχα|pascha|Passover|G3957|N-NNS
 v4 ἡ|hē|the|G3588|Art-NFS
 v4 ἑορτὴ|heortē|Feast|G1859|N-NFS
-v4 τῶν|tōn|vvv|G3588|Art-GMP
+v4 τῶν|tōn|...|G3588|Art-GMP
 v4 Ἰουδαίων|Ioudaiōn|Jewish|G2453|Adj-GMP
 v5 ἐπάρας|eparas|looked up|G1869|V-APA-NMS
 v5 οὖν|oun|[When]|G3767|Conj
@@ -87,7 +87,7 @@ v7 Φίλιππος|Philippos|Philip|G5376|N-NMS
 v7 Διακοσίων|Diakosiōn|Two hundred|G1250|Adj-GNP
 v7 δηναρίων|dēnariōn|denarii|G1220|N-GNP
 v7 ἄρτοι|artoi|bread|G740|N-NMP
-v7 οὐκ|ouk|vvv|G3756|Adv
+v7 οὐκ|ouk|...|G3756|Adv
 v7 ἀρκοῦσιν|arkousin|would not [buy] enough|G714|V-PIA-3P
 v7 αὐτοῖς|autois|for|G846|PPro-DM3P
 v7 ἵνα|hina|...|G2443|Conj
@@ -121,7 +121,7 @@ v9 ὀψάρια|opsaria|small fish|G3795|N-ANP
 v9 ἀλλὰ|alla|But|G235|Conj
 v9 ταῦτα|tauta|will these make|G3778|DPro-NNP
 v9 τί|ti|what [ difference ]|G5101|IPro-NNS
-v9 ἐστιν|estin|vvv|G1510|V-PIA-3S
+v9 ἐστιν|estin|...|G1510|V-PIA-3S
 v9 εἰς|eis|among|G1519|Prep
 v9 τοσούτους|tosoutous|so many|G5118|DPro-AMP
 v10 Εἶπεν|Eipen|said|G2036|V-AIA-3S
@@ -176,7 +176,7 @@ v12 τὰ|ta|the|G3588|Art-ANP
 v12 περισσεύσαντα|perisseusanta|that are left over|G4052|V-APA-ANP
 v12 κλάσματα|klasmata|pieces|G2801|N-ANP
 v12 ἵνα|hina|so that|G2443|Conj
-v12 μή|mē|vvv|G3361|Adv
+v12 μή|mē|...|G3361|Adv
 v12 τι|ti|nothing|G5100|IPro-NNS
 v12 ἀπόληται|apolētai|will be wasted|G622|V-ASM-3S
 v13 συνήγαγον|synēgagon|they collected [them]|G4863|V-AIA-3P
@@ -260,7 +260,7 @@ v17 σκοτία|skotia|dark|G4653|N-NFS
 v17 ἤδη|ēdē|already|G2235|Adv
 v17 ἐγεγόνει|egegonei|It was|G1096|V-LIA-3S
 v17 καὶ|kai|and|G2532|Conj
-v17 οὔπω|oupō|vvv|G3768|Adv
+v17 οὔπω|oupō|...|G3768|Adv
 v17 ἐληλύθει|elēlythei|had not yet gone out|G2064|V-LIA-3S
 v17 πρὸς|pros|to|G4314|Prep
 v17 αὐτοὺς|autous|them|G846|PPro-AM3P
@@ -342,7 +342,7 @@ v22 μὴ|mē|...|G3361|Adv
 v22 ἕν|hen|one|G1520|Adj-NNS
 v22 καὶ|kai|and|G2532|Conj
 v22 ὅτι|hoti|that|G3754|Conj
-v22 οὐ|ou|vvv|G3756|Adv
+v22 οὐ|ou|...|G3756|Adv
 v22 συνεισῆλθεν|syneisēlthen|had not boarded|G4897|V-AIA-3S
 v22 τοῖς|tois|-|G3588|Art-DMP
 v22 μαθηταῖς|mathētais|disciples|G3101|N-DMP
@@ -354,9 +354,9 @@ v22 τὸ|to|-|G3588|Art-ANS
 v22 πλοῖον|ploion|[it]|G4143|N-ANS
 v22 ἀλλὰ|alla|but|G235|Conj
 v22 μόνοι|monoi|alone|G3441|Adj-NMP
-v22 οἱ|hoi|vvv|G3588|Art-NMP
+v22 οἱ|hoi|...|G3588|Art-NMP
 v22 μαθηταὶ|mathētai|[they]|G3101|N-NMP
-v22 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v22 αὐτοῦ|autou|...|G846|PPro-GM3S
 v22 ἀπῆλθον|apēlthon|had gone away|G565|V-AIA-3P
 v23 ἀλλὰ|alla|However|G235|Conj
 v23 ἦλθεν|ēlthen|landed|G2064|V-AIA-3S
@@ -599,23 +599,23 @@ v35 ὁ|ho|Whoever|G3588|Art-NMS
 v35 ἐρχόμενος|erchomenos|comes|G2064|V-PPM/P-NMS
 v35 πρὸς|pros|to|G4314|Prep
 v35 ἐμὲ|eme|Me|G1473|PPro-A1S
-v35 οὐ|ou|vvv|G3756|Adv
-v35 μὴ|mē|vvv|G3361|Adv
+v35 οὐ|ou|...|G3756|Adv
+v35 μὴ|mē|...|G3361|Adv
 v35 πεινάσῃ|peinasē|will never hunger|G3983|V-ASA-3S
 v35 καὶ|kai|and|G2532|Conj
 v35 ὁ|ho|whoever|G3588|Art-NMS
 v35 πιστεύων|pisteuōn|believes|G4100|V-PPA-NMS
 v35 εἰς|eis|in|G1519|Prep
 v35 ἐμὲ|eme|Me|G1473|PPro-A1S
-v35 οὐ|ou|vvv|G3756|Adv
-v35 μὴ|mē|vvv|G3361|Adv
+v35 οὐ|ou|...|G3756|Adv
+v35 μὴ|mē|...|G3361|Adv
 v35 διψήσει|dipsēsei|will never thirst|G1372|V-FIA-3S
-v35 πώποτε|pōpote|vvv|G4455|Adv
+v35 πώποτε|pōpote|...|G4455|Adv
 v36 ἀλλ’|all’|But|G235|Conj
 v36 εἶπον|eipon|[as] I stated|G2036|V-AIA-1S
 v36 ὑμῖν|hymin|...|G4771|PPro-D2P
 v36 ὅτι|hoti|-|G3754|Conj
-v36 καὶ|kai|vvv|G2532|Conj
+v36 καὶ|kai|...|G2532|Conj
 v36 ἑωράκατέ|heōrakate|you have seen|G3708|V-RIA-2P
 v36 με|me|Me|G1473|PPro-A1S
 v36 καὶ|kai|and still|G2532|Conj
@@ -635,8 +635,8 @@ v37 τὸν|ton|the [one who]|G3588|Art-AMS
 v37 ἐρχόμενον|erchomenon|comes|G2064|V-PPM/P-AMS
 v37 πρός|pros|to|G4314|Prep
 v37 με|me|Me|G1473|PPro-A1S
-v37 οὐ|ou|vvv|G3756|Adv
-v37 μὴ|mē|vvv|G3361|Adv
+v37 οὐ|ou|...|G3756|Adv
+v37 μὴ|mē|...|G3361|Adv
 v37 ἐκβάλω|ekbalō|I will never drive|G1544|V-ASA-1S
 v37 ἔξω|exō|away|G1854|Adv
 v38 ὅτι|hoti|For|G3754|Conj
@@ -882,8 +882,8 @@ v51 τούτου|toutou|this|G3778|DPro-GMS
 v51 τοῦ|tou|-|G3588|Art-GMS
 v51 ἄρτου|artou|bread|G740|N-GMS
 v51 ζήσει|zēsei|he will live|G2198|V-FIA-3S
-v51 εἰς|eis|vvv|G1519|Prep
-v51 τὸν|ton|vvv|G3588|Art-AMS
+v51 εἰς|eis|...|G1519|Prep
+v51 τὸν|ton|...|G3588|Art-AMS
 v51 αἰῶνα|aiōna|forever|G165|N-AMS
 v51 καὶ|kai|And|G2532|Conj
 v51 ὁ|ho|[this]|G3588|Art-NMS
@@ -1034,8 +1034,8 @@ v58 τοῦτον|touton|this|G3778|DPro-AMS
 v58 τὸν|ton|-|G3588|Art-AMS
 v58 ἄρτον|arton|bread|G740|N-AMS
 v58 ζήσει|zēsei|will live|G2198|V-FIA-3S
-v58 εἰς|eis|vvv|G1519|Prep
-v58 τὸν|ton|vvv|G3588|Art-AMS
+v58 εἰς|eis|...|G1519|Prep
+v58 τὸν|ton|...|G3588|Art-AMS
 v58 αἰῶνα|aiōna|forever|G165|N-AMS
 v59 Ταῦτα|Tauta|this|G3778|DPro-ANP
 v59 εἶπεν|eipen|[Jesus] said|G2036|V-AIA-3S
@@ -1098,7 +1098,7 @@ v63 τὸ|to|-|G3588|Art-NNS
 v63 ζωοποιοῦν|zōopoioun|gives life|G2227|V-PPA-NNS
 v63 ἡ|hē|the|G3588|Art-NFS
 v63 σὰρξ|sarx|flesh|G4561|N-NFS
-v63 οὐκ|ouk|vvv|G3756|Adv
+v63 οὐκ|ouk|...|G3756|Adv
 v63 ὠφελεῖ|ōphelei|profits|G5623|V-PIA-3S
 v63 οὐδέν|ouden|nothing|G3762|Adj-ANS
 v63 τὰ|ta|The|G3588|Art-NNP
@@ -1118,7 +1118,7 @@ v64 ἐξ|ex|of|G1537|Prep
 v64 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v64 τινες|tines|some|G5100|IPro-NMP
 v64 οἳ|hoi|who|G3739|RelPro-NMP
-v64 οὐ|ou|vvv|G3756|Adv
+v64 οὐ|ou|...|G3756|Adv
 v64 πιστεύουσιν|pisteuousin|do not believe|G4100|V-PIA-3P
 v64 ᾔδει|ēdei|had known|G1492|V-LIA-3S
 v64 γὰρ|gar|(For|G1063|Conj
@@ -1129,7 +1129,7 @@ v64 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v64 τίνες|tines|which|G5101|IPro-NMP
 v64 εἰσὶν|eisin|-|G1510|V-PIA-3P
 v64 οἱ|hoi|of them|G3588|Art-NMP
-v64 μὴ|mē|vvv|G3361|Adv
+v64 μὴ|mē|...|G3361|Adv
 v64 πιστεύοντες|pisteuontes|did not believe|G4100|V-PPA-NMP
 v64 καὶ|kai|and|G2532|Conj
 v64 τίς|tis|who|G5101|IPro-NMS
@@ -1151,7 +1151,7 @@ v65 πρός|pros|to|G4314|Prep
 v65 με|me|Me|G1473|PPro-A1S
 v65 ἐὰν|ean|unless|G1437|Conj
 v65 μὴ|mē|...|G3361|Adv
-v65 ᾖ|ē|vvv|G1510|V-PSA-3S
+v65 ᾖ|ē|...|G1510|V-PSA-3S
 v65 δεδομένον|dedomenon|has granted it|G1325|V-RPM/P-NNS
 v65 αὐτῷ|autō|to him|G846|PPro-DM3S
 v65 ἐκ|ek|-|G1537|Prep
@@ -1179,7 +1179,7 @@ v67 ὁ|ho|-|G3588|Art-NMS
 v67 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v67 τοῖς|tois|the|G3588|Art-DMP
 v67 δώδεκα|dōdeka|Twelve|G1427|Adj-DMP
-v67 Μὴ|Mē|vvv|G3361|Adv
+v67 Μὴ|Mē|...|G3361|Adv
 v67 καὶ|kai|too|G2532|Conj
 v67 ὑμεῖς|hymeis|Do you|G4771|PPro-N2P
 v67 θέλετε|thelete|want|G2309|V-PIA-2P

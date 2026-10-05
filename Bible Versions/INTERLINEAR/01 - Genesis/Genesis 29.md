@@ -57,7 +57,7 @@ v4 וַיֹּ֣אמְר֔וּ|way·yō·mə·rū|they answered|H559|Conj-w | V-Q
 v4 מֵחָרָ֖ן|mê·ḥā·rān|from Haran|H2771|Prep-m | N-proper-fs
 v4 אֲנָֽחְנוּ׃|’ă·nā·ḥə·nū|We are|H587|Pro-1cp
 v5 וַיֹּ֣אמֶר|way·yō·mer|Jacob asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v5 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v5 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v5 הַיְדַעְתֶּ֖ם|hay·ḏa‘·tem|Do you know|H3045|V-Qal-Perf-2mp
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 לָבָ֣ן|lā·ḇān|Laban|H3837|N-proper-ms
@@ -66,9 +66,9 @@ v5 נָח֑וֹר|nā·ḥō·wr|of Nahor|H5152|N-proper-ms
 v5 וַיֹּאמְר֖וּ|way·yō·mə·rū|they replied|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v5 יָדָֽעְנוּ׃|yā·ḏā·‘ə·nū|We know him|H3045|V-Qal-Perf-1cp
 v6 וַיֹּ֥אמֶר|way·yō·mer|Jacob inquired|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v6 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v6 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v6 הֲשָׁל֣וֹם|hă·šā·lō·wm|Is he well|H7965|Art | N-ms
-v6 ל֑וֹ|lōw||H0|Prep | 3ms
+v6 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v6 וַיֹּאמְר֣וּ|way·yō·mə·rū|they answered|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v6 שָׁל֔וֹם|šā·lō·wm|Yes|H7965|N-ms
 v6 וְהִנֵּה֙|wə·hin·nêh|and here|H2009|Conj-w | Interjection
@@ -261,7 +261,7 @@ v20 בְּרָחֵ֖ל|bə·rā·ḥêl|for Rachel|H7354|Prep-b | N-proper-fs
 v20 שֶׁ֣בַע|še·ḇa‘|seven|H7651|Number-fs
 v20 שָׁנִ֑ים|šā·nîm|years|H8141|N-fp
 v20 וַיִּהְי֤וּ|way·yih·yū|yet it seemed|H1961|Conj-w | V-Qal-ConsecImperf-3mp
-v20 בְעֵינָיו֙|ḇə·‘ê·nāw||H5869|Prep-b | N-cdc | 3ms
+v20 בְעֵינָיו֙|ḇə·‘ê·nāw|-|H5869|Prep-b | N-cdc | 3ms
 v20 כְּיָמִ֣ים|kə·yā·mîm|days|H3117|Prep-k | N-mp
 v20 אֲחָדִ֔ים|’ă·ḥā·ḏîm|[but] a few|H259|Number-mp
 v20 בְּאַהֲבָת֖וֹ|bə·’a·hă·ḇā·ṯōw|because of his love|H160|Prep-b | N-fsc | 3ms
@@ -299,7 +299,7 @@ v23 וַיָּבֹ֖א|way·yā·ḇō|and he slept with|H935|Conj-w | V-Qal-Con
 v23 אֵלֶֽיהָ׃|’ê·le·hā|her|H413|Prep | 3fs
 v24 וַיִּתֵּ֤ן|way·yit·tên|gave|H5414|Conj-w | V-Qal-ConsecImperf-3ms
 v24 לָבָן֙|lā·ḇān|And Laban|H3837|N-proper-ms
-v24 לָ֔הּ|lāh||H0|Prep | 3fs
+v24 לָ֔הּ|lāh|-|H0|Prep | 3fs
 v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 זִלְפָּ֖ה|zil·pāh|Zilpah|H2153|N-proper-fs
 v24 שִׁפְחָת֑וֹ|šip̄·ḥā·ṯōw|his servant girl|H8198|N-fsc | 3ms
@@ -346,7 +346,7 @@ v27 בַּעֲבֹדָה֙|ba·‘ă·ḇō·ḏāh|of work|H5656|Prep-b | N-fs
 v27 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v27 תַּעֲבֹ֣ד|ta·‘ă·ḇōḏ|in return for|H5647|V-Qal-Imperf-2ms
 v27 עִמָּדִ֔י|‘im·mā·ḏî|-|H5978|Prep | 1cs
-v27 ע֖וֹד|‘ō·wḏ|vvv|H5750|Adv
+v27 ע֖וֹד|‘ō·wḏ|...|H5750|Adv
 v27 שֶֽׁבַע־|še·ḇa‘-|seven|H7651|Number-fs
 v27 שָׁנִ֥ים|šā·nîm|years|H8141|N-fp
 v27 אֲחֵרֽוֹת׃|’ă·ḥê·rō·wṯ|another|H312|Adj-fp

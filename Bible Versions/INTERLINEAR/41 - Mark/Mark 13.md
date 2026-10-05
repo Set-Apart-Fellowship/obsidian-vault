@@ -35,8 +35,8 @@ v2 λίθος|lithos|stone|G3037|N-NMS
 v2 ἐπὶ|epi|on|G1909|Prep
 v2 λίθον|lithon|[another]|G3037|N-AMS
 v2 ὃς|hos|[every one]|G3739|RelPro-NMS
-v2 οὐ|ou|vvv|G3756|Adv
-v2 μὴ|mē|vvv|G3361|Adv
+v2 οὐ|ou|...|G3756|Adv
+v2 μὴ|mē|...|G3361|Adv
 v2 καταλυθῇ|katalythē|will be thrown down|G2647|V-ASP-3S
 v3 Καὶ|Kai|While|G2532|Conj
 v3 καθημένου|kathēmenou|was sitting|G2521|V-PPM/P-GMS
@@ -51,7 +51,7 @@ v3 τοῦ|tou|the|G3588|Art-GNS
 v3 ἱεροῦ|hierou|temple|G2411|N-GNS
 v3 ἐπηρώτα|epērōta|asked|G1905|V-IIA-3S
 v3 αὐτὸν|auton|Him|G846|PPro-AM3S
-v3 κατ’|kat’|vvv|G2596|Prep
+v3 κατ’|kat’|...|G2596|Prep
 v3 ἰδίαν|idian|privately|G2398|Adj-AFS
 v3 Πέτρος|Petros|Peter|G4074|N-NMS
 v3 καὶ|kai|-|G2532|Conj
@@ -73,7 +73,7 @@ v4 ὅταν|hotan|that|G3752|Conj
 v4 μέλλῃ|mellē|are about|G3195|V-PSA-3S
 v4 ταῦτα|tauta|[they]|G3778|DPro-NNP
 v4 συντελεῖσθαι|synteleisthai|to be fulfilled|G4931|V-PNM/P
-v4 πάντα|panta|vvv|G3956|Adj-NNP
+v4 πάντα|panta|...|G3956|Adj-NNP
 v5 Ὁ|Ho|-|G3588|Art-NMS
 v5 δὲ|de|-|G1161|Conj
 v5 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
@@ -211,7 +211,7 @@ v12 ἐπὶ|epi|against|G1909|Prep
 v12 γονεῖς|goneis|[their] parents|G1118|N-AMP
 v12 καὶ|kai|and|G2532|Conj
 v12 θανατώσουσιν|thanatōsousin|have them put to death|G2289|V-FIA-3P
-v12 αὐτούς|autous|vvv|G846|PPro-AM3P
+v12 αὐτούς|autous|...|G846|PPro-AM3P
 v13 καὶ|kai|-|G2532|Conj
 v13 ἔσεσθε|esesthe|You will be|G1510|V-FIM-2P
 v13 μισούμενοι|misoumenoi|hated|G3404|V-PPM/P-NMP
@@ -237,7 +237,7 @@ v14 τῆς|tēs|of|G3588|Art-GFS
 v14 ἐρημώσεως|erēmōseōs|desolation|G2050|N-GFS
 v14 ἑστηκότα|hestēkota|standing|G2476|V-RPA-AMS
 v14 ὅπου|hopou|where|G3699|Adv
-v14 οὐ|ou|vvv|G3756|Adv
+v14 οὐ|ou|...|G3756|Adv
 v14 δεῖ|dei|it should not be|G1163|V-PIA-3S
 v14 ὁ|ho|({let} the|G3588|Art-NMS
 v14 ἀναγινώσκων|anaginōskōn|reader|G314|V-PPA-NMS
@@ -256,7 +256,7 @@ v15 [δὲ]|de|{Let}|G1161|Conj
 v15 ἐπὶ|epi|on|G1909|Prep
 v15 τοῦ|tou|the|G3588|Art-GNS
 v15 δώματος|dōmatos|housetop|G1430|N-GNS
-v15 μὴ|mē|vvv|G3361|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 καταβάτω|katabatō|go back inside|G2597|V-AMA-3S
 v15 μηδὲ|mēde|...|G3366|Conj
 v15 εἰσελθάτω|eiselthatō|...|G1525|V-AMA-3S
@@ -271,7 +271,7 @@ v16 ὁ|ho|[no one]|G3588|Art-NMS
 v16 εἰς|eis|in|G1519|Prep
 v16 τὸν|ton|the|G3588|Art-AMS
 v16 ἀγρὸν|agron|field|G68|N-AMS
-v16 μὴ|mē|vvv|G3361|Adv
+v16 μὴ|mē|...|G3361|Adv
 v16 ἐπιστρεψάτω|epistrepsatō|return for|G1994|V-AMA-3S
 v16 εἰς|eis|...|G1519|Prep
 v16 τὰ|ta|...|G3588|Art-ANP
@@ -296,7 +296,7 @@ v17 ἡμέραις|hēmerais|days [will be]|G2250|N-DFP
 v18 προσεύχεσθε|proseuchesthe|Pray|G4336|V-PMM/P-2P
 v18 δὲ|de|-|G1161|Conj
 v18 ἵνα|hina|that|G2443|Conj
-v18 μὴ|mē|vvv|G3361|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 γένηται|genētai|this will not occur|G1096|V-ASM-3S
 v18 χειμῶνος|cheimōnos|in the winter|G5494|N-GMS
 v19 ἔσονται|esontai|will be|G1510|V-FIM-3P
@@ -325,13 +325,13 @@ v19 μὴ|mē|...|G3361|Adv
 v19 γένηται|genētai|to be [seen again]|G1096|V-ASM-3S
 v20 καὶ|kai|-|G2532|Conj
 v20 εἰ|ei|If|G1487|Conj
-v20 μὴ|mē|vvv|G3361|Adv
+v20 μὴ|mē|...|G3361|Adv
 v20 ἐκολόβωσεν|ekolobōsen|had not cut short|G2856|V-AIA-3S
 v20 Κύριος|Kyrios|[the] Lord|G2962|N-NMS
 v20 τὰς|tas|those|G3588|Art-AFP
 v20 ἡμέρας|hēmeras|days|G2250|N-AFP
 v20 οὐκ|ouk|nobody|G3756|Adv
-v20 ἂν|an|vvv|G302|Prtcl
+v20 ἂν|an|...|G302|Prtcl
 v20 ἐσώθη|esōthē|would be saved|G4982|V-AIP-3S
 v20 πᾶσα|pasa|...|G3956|Adj-NFS
 v20 σάρξ|sarx|...|G4561|N-NFS
@@ -356,7 +356,7 @@ v21 ὁ|ho|the|G3588|Art-NMS
 v21 Χριστός|Christos|Christ|G5547|N-NMS
 v21 Ἴδε|Ide|[He is]|G2400|V-AMA-2S
 v21 ἐκεῖ|ekei|[or] ‘There|G1563|Adv
-v21 μὴ|mē|vvv|G3361|Adv
+v21 μὴ|mē|...|G3361|Adv
 v21 πιστεύετε|pisteuete|do not believe [it]|G4100|V-PMA-2P
 v22 ἐγερθήσονται|egerthēsontai|will appear|G1453|V-FIP-3P
 v22 γὰρ*|gar|For|G1063|Conj
@@ -375,7 +375,7 @@ v22 εἰ|ei|if [that were]|G1487|Conj
 v22 δυνατὸν|dynaton|possible|G1415|Adj-NNS
 v22 τοὺς|tous|[even] the|G3588|Art-AMP
 v22 ἐκλεκτούς|eklektous|elect|G1588|Adj-AMP
-v23 ὑμεῖς|hymeis|vvv|G4771|PPro-N2P
+v23 ὑμεῖς|hymeis|...|G4771|PPro-N2P
 v23 δὲ|de|[So]|G1161|Conj
 v23 βλέπετε|blepete|be on your guard|G991|V-PMA-2P
 v23 προείρηκα|proeirēka|I have told|G4302|V-RIA-1S
@@ -396,7 +396,7 @@ v24 σκοτισθήσεται|skotisthēsetai|will be darkened|G4654|V-FIP-3S
 v24 Καὶ|Kai|and|G2532|Conj
 v24 ἡ|hē|the|G3588|Art-NFS
 v24 σελήνη|selēnē|moon|G4582|N-NFS
-v24 οὐ|ou|vvv|G3756|Adv
+v24 οὐ|ou|...|G3756|Adv
 v24 δώσει|dōsei|will not give|G1325|V-FIA-3S
 v24 τὸ|to|-|G3588|Art-ANS
 v24 φέγγος|phengos|light|G5338|N-ANS
@@ -417,7 +417,7 @@ v25 ἐν|en|of|G1722|Prep
 v25 τοῖς|tois|the|G3588|Art-DMP
 v25 οὐρανοῖς|ouranois|heavens|G3772|N-DMP
 v25 σαλευθήσονται|saleuthēsontai|will be shaken|G4531|V-FIP-3P
-v26 Καὶ|Kai|vvv|G2532|Conj
+v26 Καὶ|Kai|...|G2532|Conj
 v26 τότε|tote|At that time|G5119|Adv
 v26 ὄψονται|opsontai|they will see|G3708|V-FIM-3P
 v26 τὸν|ton|the|G3588|Art-AMS
@@ -493,8 +493,8 @@ v30 ἀμὴν|amēn|Truly|G281|Heb
 v30 λέγω|legō|I tell|G3004|V-PIA-1S
 v30 ὑμῖν|hymin|you|G4771|PPro-D2P
 v30 ὅτι|hoti|-|G3754|Conj
-v30 οὐ|ou|vvv|G3756|Adv
-v30 μὴ|mē|vvv|G3361|Adv
+v30 οὐ|ou|...|G3756|Adv
+v30 μὴ|mē|...|G3361|Adv
 v30 παρέλθῃ|parelthē|will not pass away|G3928|V-ASA-3S
 v30 ἡ|hē|-|G3588|Art-NFS
 v30 γενεὰ|genea|generation|G1074|N-NFS
@@ -514,8 +514,8 @@ v31 οἱ|hoi|-|G3588|Art-NMP
 v31 δὲ|de|but|G1161|Conj
 v31 λόγοι|logoi|words|G3056|N-NMP
 v31 μου|mou|My|G1473|PPro-G1S
-v31 οὐ|ou|vvv|G3756|Adv
-v31 ‹μὴ›|mē|vvv|G3361|Adv
+v31 οὐ|ou|...|G3756|Adv
+v31 ‹μὴ›|mē|...|G3361|Adv
 v31 παρελεύσονται|pareleusontai|will never pass away|G3928|V-FIM-3P
 v32 Περὶ|Peri|about|G4012|Prep
 v32 δὲ|de|-|G1161|Conj
@@ -541,7 +541,7 @@ v32 ὁ|ho|the|G3588|Art-NMS
 v32 Πατήρ|Patēr|Father|G3962|N-NMS
 v33 Βλέπετε|Blepete|Be on your guard|G991|V-PMA-2P
 v33 ἀγρυπνεῖτε|agrypneite|[and] stay alert|G69|V-PMA-2P
-v33 οὐκ|ouk|vvv|G3756|Adv
+v33 οὐκ|ouk|...|G3756|Adv
 v33 οἴδατε|oidate|you do not know|G1492|V-RIA-2P
 v33 γὰρ|gar|For|G1063|Conj
 v33 πότε|pote|when|G4219|Conj
@@ -574,7 +574,7 @@ v34 ἵνα|hina|to|G2443|Conj
 v34 γρηγορῇ|grēgorē|keep watch|G1127|V-PSA-3S
 v35 γρηγορεῖτε|grēgoreite|keep watch|G1127|V-PMA-2P
 v35 οὖν|oun|Therefore|G3767|Conj
-v35 οὐκ|ouk|vvv|G3756|Adv
+v35 οὐκ|ouk|...|G3756|Adv
 v35 οἴδατε|oidate|you do not know|G1492|V-RIA-2P
 v35 γὰρ|gar|because|G1063|Conj
 v35 πότε|pote|when|G4219|Conj

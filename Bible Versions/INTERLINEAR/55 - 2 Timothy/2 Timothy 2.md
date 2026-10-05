@@ -13,7 +13,7 @@ v1 Ἰησοῦ|Iēsou|Jesus|G2424|N-DMS
 v2 καὶ|kai|And|G2532|Conj
 v2 ἃ|ha|the things that|G3739|RelPro-ANP
 v2 ἤκουσας|ēkousas|you have heard|G191|V-AIA-2S
-v2 παρ’|par’|vvv|G3844|Prep
+v2 παρ’|par’|...|G3844|Prep
 v2 ἐμοῦ|emou|me [say]|G1473|PPro-G1S
 v2 διὰ|dia|among|G1223|Prep
 v2 πολλῶν|pollōn|many|G4183|Adj-GMP
@@ -38,19 +38,19 @@ v4 οὐδεὶς|oudeis|refrains from|G3762|Adj-NMS
 v4 στρατευόμενος|strateuomenos|A soldier|G4754|V-PPM-NMS
 v4 ἐμπλέκεται|empleketai|entangling himself|G1707|V-PIM/P-3S
 v4 ταῖς|tais|in|G3588|Art-DFP
-v4 τοῦ|tou|vvv|G3588|Art-GMS
+v4 τοῦ|tou|...|G3588|Art-GMS
 v4 βίου|biou|[civilian]|G979|N-GMS
 v4 πραγματείαις|pragmateiais|affairs|G4230|N-DFP
 v4 ἵνα|hina|in order|G2443|Conj
 v4 τῷ|tō|the [one who]|G3588|Art-DMS
 v4 στρατολογήσαντι|stratologēsanti|enlisted him|G4758|V-APA-DMS
 v4 ἀρέσῃ|aresē|to please|G700|V-ASA-3S
-v5 ἐὰν|ean|vvv|G1437|Conj
+v5 ἐὰν|ean|...|G1437|Conj
 v5 δὲ|de|Likewise|G1161|Conj
 v5 καὶ|kai|...|G2532|Conj
 v5 ἀθλῇ|athlē|competitor|G118|V-PSA-3S
 v5 τις|tis|a|G5100|IPro-NMS
-v5 οὐ|ou|vvv|G3756|Adv
+v5 οὐ|ou|...|G3756|Adv
 v5 στεφανοῦται|stephanoutai|does not receive the crown|G4737|V-PIM/P-3S
 v5 ἐὰν|ean|unless|G1437|Conj
 v5 μὴ|mē|...|G3361|Adv
@@ -81,7 +81,7 @@ v8 Χριστὸν|Christon|Christ|G5547|N-AMS
 v8 ἐγηγερμένον|egēgermenon|raised|G1453|V-RPM/P-AMS
 v8 ἐκ|ek|from|G1537|Prep
 v8 νεκρῶν|nekrōn|[the] dead|G3498|Adj-GMP
-v8 ἐκ|ek|vvv|G1537|Prep
+v8 ἐκ|ek|...|G1537|Prep
 v8 σπέρματος|spermatos|descended|G4690|N-GNS
 v8 Δαυίδ|Dauid|from David|G1138|N-GMS
 v8 κατὰ|kata|as proclaimed by|G2596|Prep
@@ -100,7 +100,7 @@ v9 ὁ|ho|the|G3588|Art-NMS
 v9 λόγος|logos|word|G3056|N-NMS
 v9 τοῦ|tou|-|G3588|Art-GMS
 v9 Θεοῦ|Theou|of God|G2316|N-GMS
-v9 οὐ|ou|vvv|G3756|Adv
+v9 οὐ|ou|...|G3756|Adv
 v9 δέδεται|dedetai|cannot be chained|G1210|V-RIM/P-3S
 v10 διὰ|dia|For this reason|G1223|Prep
 v10 τοῦτο|touto|...|G3778|DPro-ANS
@@ -127,15 +127,15 @@ v11 λόγος|logos|saying|G3056|N-NMS
 v11 Εἰ|Ei|If|G1487|Conj
 v11 γὰρ|gar|-|G1063|Conj
 v11 συναπεθάνομεν|synapethanomen|we died [with Him]|G4880|V-AIA-1P
-v11 καὶ|kai|vvv|G2532|Conj
+v11 καὶ|kai|...|G2532|Conj
 v11 συζήσομεν|syzēsomen|we will also live [with Him]|G4800|V-FIA-1P
 v12 εἰ|ei|if|G1487|Conj
 v12 ὑπομένομεν|hypomenomen|we endure|G5278|V-PIA-1P
-v12 καὶ|kai|vvv|G2532|Conj
+v12 καὶ|kai|...|G2532|Conj
 v12 συμβασιλεύσομεν*|symbasileusomen|we will also reign [with Him]|G4821|V-FIA-1P
 v12 εἰ|ei|if|G1487|Conj
 v12 ἀρνησόμεθα|arnēsometha|we deny [Him]|G720|V-FIM-1P
-v12 κἀκεῖνος|kakeinos|vvv|G2548|DPro-NMS
+v12 κἀκεῖνος|kakeinos|...|G2548|DPro-NMS
 v12 ἀρνήσεται|arnēsetai|He will also deny|G720|V-FIM-3S
 v12 ἡμᾶς|hēmas|us|G1473|PPro-A1P
 v13 εἰ|ei|if|G1487|Conj
@@ -146,7 +146,7 @@ v13 μένει|menei|remains|G3306|V-PIA-3S
 v13 ἀρνήσασθαι|arnēsasthai|deny|G720|V-ANM
 v13 γὰρ|gar|for|G1063|Conj
 v13 ἑαυτὸν|heauton|Himself|G1438|RefPro-AM3S
-v13 οὐ|ou|vvv|G3756|Adv
+v13 οὐ|ou|...|G3756|Adv
 v13 δύναται|dynatai|He cannot|G1410|V-PIM/P-3S
 v14 Ταῦτα|Tauta|of these things|G3778|DPro-ANP
 v14 ὑπομίμνῃσκε|hypomimnēske|Remind [ the believers ]|G5279|V-PMA-2S
@@ -207,7 +207,7 @@ v18 ἠστόχησαν|ēstochēsan|have deviated|G795|V-AIA-3P
 v18 λέγοντες|legontes|They say that|G3004|V-PPA-NMP
 v18 [τὴν]|tēn|the|G3588|Art-AFS
 v18 ἀνάστασιν|anastasin|resurrection|G386|N-AFS
-v18 ἤδη|ēdē|vvv|G2235|Adv
+v18 ἤδη|ēdē|...|G2235|Adv
 v18 γεγονέναι|gegonenai|has already occurred|G1096|V-RNA
 v18 καὶ|kai|and|G2532|Conj
 v18 ἀνατρέπουσιν|anatrepousin|they undermine|G396|V-PIA-3P
@@ -218,7 +218,7 @@ v19 Ὁ|Ho|-|G3588|Art-NMS
 v19 μέντοι|mentoi|Nevertheless|G3305|Conj
 v19 στερεὸς|stereos|firm|G4731|Adj-NMS
 v19 θεμέλιος|themelios|foundation|G2310|N-NMS
-v19 τοῦ|tou|vvv|G3588|Art-GMS
+v19 τοῦ|tou|...|G3588|Art-GMS
 v19 Θεοῦ|Theou|God's|G2316|N-GMS
 v19 ἕστηκεν|hestēken|stands|G2476|V-RIA-3S
 v19 ἔχων|echōn|bearing|G2192|V-PPA-NMS
@@ -328,7 +328,7 @@ v24 πρὸς|pros|to|G4314|Prep
 v24 πάντας|pantas|everyone|G3956|Adj-AMP
 v24 διδακτικόν|didaktikon|able to teach|G1317|Adj-AMS
 v24 ἀνεξίκακον|anexikakon|[and] forbearing|G420|Adj-AMS
-v25 ἐν|en|vvv|G1722|Prep
+v25 ἐν|en|...|G1722|Prep
 v25 πραΰτητι|prautēti|[He must] gently|G4240|N-DFS
 v25 παιδεύοντα|paideuonta|reprove|G3811|V-PPA-AMS
 v25 τοὺς|tous|those who|G3588|Art-AMP

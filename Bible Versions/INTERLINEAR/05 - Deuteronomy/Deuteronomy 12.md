@@ -150,7 +150,7 @@ v10 אֱלֹהֵיכֶ֖ם|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
 v10 מַנְחִ֣יל|man·ḥîl|is giving you as an inheritance|H5157|V-Hifil-Prtcpl-ms
 v10 אֶתְכֶ֑ם|’eṯ·ḵem|-|H853|DirObjM | 2mp
 v10 וְהֵנִ֨יחַ|wə·hê·nî·aḥ|and He gives you rest|H5117|Conj-w | V-Hifil-ConjPerf-3ms
-v10 לָכֶ֧ם|lā·ḵem||H0|Prep | 2mp
+v10 לָכֶ֧ם|lā·ḵem|-|H0|Prep | 2mp
 v10 מִכָּל־|mik·kāl|from all|H3605|Prep-m | N-msc
 v10 אֹיְבֵיכֶ֛ם|’ō·yə·ḇê·ḵem|the enemies|H341|V-Qal-Prtcpl-mpc | 2mp
 v10 מִסָּבִ֖יב|mis·sā·ḇîḇ|around you|H5439|Prep-m | Adv
@@ -162,7 +162,7 @@ v11 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v11 יִבְחַר֩|yiḇ·ḥar|will choose|H977|V-Qal-Imperf-3ms
 v11 יְהוָ֨ה|Yah·weh|then the LORD|H3068|N-proper-ms
 v11 אֱלֹהֵיכֶ֥ם|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
-v11 בּוֹ֙|bōw||H0|Prep | 3ms
+v11 בּוֹ֙|bōw|-|H0|Prep | 3ms
 v11 לְשַׁכֵּ֤ן|lə·šak·kên|a dwelling|H7931|Prep-l | V-Piel-Inf
 v11 שְׁמוֹ֙|šə·mōw|for His Name|H8034|N-msc | 3ms
 v11 שָׁ֔ם|šām|And there|H8033|Adv
@@ -199,12 +199,12 @@ v12 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v12 בְּשַֽׁעֲרֵיכֶ֔ם|bə·ša·‘ă·rê·ḵem|within your gates|H8179|Prep-b | N-mpc | 2mp
 v12 כִּ֣י|kî|since|H3588|Conj
 v12 אֵ֥ין|’ên|he has no|H369|Adv
-v12 ל֛וֹ|lōw||H0|Prep | 3ms
+v12 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v12 חֵ֥לֶק|ḥê·leq|portion|H2506|N-ms
 v12 וְנַחֲלָ֖ה|wə·na·ḥă·lāh|or inheritance|H5159|Conj-w | N-fs
 v12 אִתְּכֶֽם׃|’it·tə·ḵem|among you|H854|Prep | 2mp
 v13 הִשָּׁ֣מֶר|hiš·šā·mer|Be careful|H8104|V-Nifal-Imp-ms
-v13 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v13 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v13 פֶּֽן־|pen-|not|H6435|Conj
 v13 תַּעֲלֶ֖ה|ta·‘ă·leh|to offer|H5927|V-Hifil-Imperf-2ms
 v13 עֹלֹתֶ֑יךָ|‘ō·lō·ṯe·ḵā|your burnt offerings|H5930|N-fpc | 2ms
@@ -286,7 +286,7 @@ v18 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v18 יִבְחַ֜ר|yiḇ·ḥar|will choose|H977|V-Qal-Imperf-3ms
 v18 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v18 אֱלֹהֶיךָ֮|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
-v18 בּוֹ֒|bōw||H0|Prep | 3ms
+v18 בּוֹ֒|bōw|-|H0|Prep | 3ms
 v18 אַתָּ֨ה|’at·tāh|you|H859|Pro-2ms
 v18 וּבִנְךָ֤|ū·ḇin·ḵā|your sons|H1121|Conj-w | N-msc | 2ms
 v18 וּבִתֶּ֙ךָ֙|ū·ḇit·te·ḵā|and daughters|H1323|Conj-w | N-fsc | 2ms
@@ -303,7 +303,7 @@ v18 בְּכֹ֖ל|bə·ḵōl|in all|H3605|Prep-b | N-msc
 v18 מִשְׁלַ֥ח|miš·laḥ|you do|H4916|N-msc
 v18 יָדֶֽךָ׃|yā·ḏe·ḵā|...|H3027|N-fsc | 2ms
 v19 הִשָּׁ֣מֶר|hiš·šā·mer|and be careful|H8104|V-Nifal-Imp-ms
-v19 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v19 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v19 פֶּֽן־|pen-|not|H6435|Conj
 v19 תַּעֲזֹ֖ב|ta·‘ă·zōḇ|to neglect|H5800|V-Qal-Imperf-2ms
 v19 אֶת־|’eṯ-|-|H853|DirObjM
@@ -311,7 +311,7 @@ v19 הַלֵּוִ֑י|hal·lê·wî|the Levites|H3881|Art | N-proper-ms
 v19 כָּל־|kāl-|as|H3605|N-msc
 v19 יָמֶ֖יךָ|yā·me·ḵā|...|H3117|N-mpc | 2ms
 v19 עַל־|‘al-|long as you live in|H5921|Prep
-v19 אַדְמָתֶֽךָ׃ס|’aḏ·mā·ṯe·ḵā|your land|H127|N-fsc | 2ms
+v19 אַדְמָתֶֽךָ׃|’aḏ·mā·ṯe·ḵā|your land|H127|N-fsc | 2ms
 v20 כִּֽי־|kî-|When|H3588|Conj
 v20 יַרְחִיב֩|yar·ḥîḇ|expands|H7337|V-Hifil-Imperf-3ms
 v20 יְהוָ֨ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -386,7 +386,7 @@ v23 תֹאכַ֥ל|ṯō·ḵal|eat|H398|V-Qal-Imperf-2ms
 v23 הַנֶּ֖פֶשׁ|han·ne·p̄eš|the life|H5315|Art | N-fs
 v23 עִם־|‘im-|with|H5973|Prep
 v23 הַבָּשָֽׂר׃|hab·bā·śār|the meat|H1320|Art | N-ms
-v24 לֹ֖א|lō|vvv|H3808|Adv-NegPrt
+v24 לֹ֖א|lō|...|H3808|Adv-NegPrt
 v24 תֹּאכְלֶ֑נּוּ|tō·ḵə·len·nū|You must not eat [the blood]|H398|V-Qal-Imperf-2ms | 3ms
 v24 עַל־|‘al-|it on|H5921|Prep
 v24 הָאָ֥רֶץ|hā·’ā·reṣ|the ground|H776|Art | N-fs
@@ -456,7 +456,7 @@ v28 הַטּ֣וֹב|haṭ·ṭō·wḇ|what is good|H2896|Art | Adj-ms
 v28 וְהַיָּשָׁ֔ר|wə·hay·yā·šār|and right|H3477|Conj-w, Art | Adj-ms
 v28 בְּעֵינֵ֖י|bə·‘ê·nê|in the eyes|H5869|Prep-b | N-cdc
 v28 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v28 אֱלֹהֶֽיךָ׃ס|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
+v28 אֱלֹהֶֽיךָ׃|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v29 כִּֽי־|kî-|When|H3588|Conj
 v29 יַכְרִית֩|yaḵ·rîṯ|cuts off|H3772|V-Hifil-Imperf-3ms
 v29 יְהוָ֨ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -475,7 +475,7 @@ v29 אֹתָ֔ם|’ō·ṯām|-|H853|DirObjM | 3mp
 v29 וְיָשַׁבְתָּ֖|wə·yā·šaḇ·tā|and live|H3427|Conj-w | V-Qal-ConjPerf-2ms
 v29 בְּאַרְצָֽם׃|bə·’ar·ṣām|in their land|H776|Prep-b | N-fsc | 3mp
 v30 הִשָּׁ֣מֶר|hiš·šā·mer|be careful|H8104|V-Nifal-Imp-ms
-v30 לְךָ֗|lə·ḵā||H0|Prep | 2ms
+v30 לְךָ֗|lə·ḵā|-|H0|Prep | 2ms
 v30 פֶּן־|pen-|not|H6435|Conj
 v30 תִּנָּקֵשׁ֙|tin·nā·qêš|to be ensnared|H5367|V-Nifal-Imperf-2ms
 v30 אַחֲרֵיהֶ֔ם|’a·ḥă·rê·hem|by their ways|H310|Prep | 3mp
@@ -493,7 +493,7 @@ v30 הָאֵ֙לֶּה֙|hā·’êl·leh|do these|H428|Art | Pro-cp
 v30 אֶת־|’eṯ-|-|H853|DirObjM
 v30 אֱלֹ֣הֵיהֶ֔ם|’ĕ·lō·hê·hem|their gods|H430|N-mpc | 3mp
 v30 וְאֶעֱשֶׂה־|wə·’e·‘ĕ·śeh-|do|H6213|Conj-w | V-Qal-ConjImperf-1cs
-v30 כֵּ֖ן|kên|vvv|H3651|Adv
+v30 כֵּ֖ן|kên|...|H3651|Adv
 v30 גַּם־|gam-|likewise|H1571|Conj
 v30 אָֽנִי׃|’ā·nî|I will|H589|Pro-1cs
 v31 לֹא־|lō-|You must not|H3808|Adv-NegPrt
@@ -525,7 +525,7 @@ v32 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v32 אָנֹכִי֙|’ā·nō·ḵî|I|H595|Pro-1cs
 v32 מְצַוֶּ֣ה|mə·ṣaw·weh|command you|H6680|V-Piel-Prtcpl-ms
 v32 אֶתְכֶ֔ם|’eṯ·ḵem|-|H853|DirObjM | 2mp
-v32 אֹת֥וֹ|’ō·ṯōw|vvv|H853|DirObjM | 3ms
+v32 אֹת֥וֹ|’ō·ṯōw|...|H853|DirObjM | 3ms
 v32 תִשְׁמְר֖וּ|ṯiš·mə·rū|See that you do|H8104|V-Qal-Imperf-2mp
 v32 לַעֲשׂ֑וֹת|la·‘ă·śō·wṯ|-|H6213|Prep-l | V-Qal-Inf
 v32 לֹא־|lō-|do not|H3808|Adv-NegPrt
@@ -533,4 +533,4 @@ v32 תֹסֵ֣ף|ṯō·sêp̄|add|H3254|V-Hifil-Imperf.Jus-2ms
 v32 עָלָ֔יו|‘ā·lāw|to it|H5921|Prep | 3ms
 v32 וְלֹ֥א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v32 תִגְרַ֖ע|ṯiḡ·ra‘|or subtract|H1639|V-Qal-Imperf-2ms
-v32 מִמֶּֽנּוּ׃פ|mim·men·nū|from it|H4480|Prep | 3ms
+v32 מִמֶּֽנּוּ׃|mim·men·nū|from it|H4480|Prep | 3ms

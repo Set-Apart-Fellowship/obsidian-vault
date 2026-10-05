@@ -6,14 +6,14 @@ v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 פִּ֔יהוּ|pî·hū|his mouth|H6310|N-msc | 3ms
 v1 וַיְקַלֵּ֖ל|way·qal·lêl|and cursed|H7043|Conj-w | V-Piel-ConsecImperf-3ms
 v1 אֶת־|’eṯ-|-|H853|DirObjM
-v1 יוֹמֽוֹ׃פ|yō·w·mōw|the day of his [birth]|H3117|N-msc | 3ms
+v1 יוֹמֽוֹ׃|yō·w·mōw|the day of his [birth]|H3117|N-msc | 3ms
 v2 וַיַּ֥עַן|way·ya·‘an|And [this is what]|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v2 אִיּ֗וֹב|’î·yō·wḇ|[he]|H347|N-proper-ms
 v2 וַיֹּאמַֽר׃|way·yō·mar|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v3 יֹ֣אבַד|yō·ḇaḏ|perish|H6|V-Qal-Imperf-3ms
 v3 י֭וֹם|yō·wm|May the day|H3117|N-ms
 v3 אִוָּ֣לֶד|’iw·wā·leḏ|of my birth|H3205|V-Nifal-Imperf-1cs
-v3 בּ֑וֹ|bōw||H0|Prep | 3ms
+v3 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v3 וְהַלַּ֥יְלָה|wə·hal·lay·lāh|and the night|H3915|Conj-w, Art | N-ms
 v3 אָ֝מַ֗ר|’ā·mar|it was said|H559|V-Qal-Perf-3ms
 v3 הֹ֣רָה|hō·rāh|is conceived|H2029|V-QalPass-Perf-3ms
@@ -22,7 +22,7 @@ v4 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
 v4 הַה֗וּא|ha·hū|If only that|H1931|Art | Pro-3ms
 v4 יְֽהִ֫י|yə·hî|had turned|H1961|V-Qal-Imperf.Jus-3ms
 v4 חֹ֥שֶׁךְ|ḥō·šeḵ|to darkness|H2822|N-ms
-v4 אַֽל־|’al-|vvv|H408|Adv
+v4 אַֽל־|’al-|...|H408|Adv
 v4 יִדְרְשֵׁ֣הוּ|yiḏ·rə·šê·hū|disregard it|H1875|V-Qal-Imperf-3ms | 3ms
 v4 אֱל֣וֹהַּ|’ĕ·lō·w·ah|May God|H433|N-ms
 v4 מִמָּ֑עַל|mim·mā·‘al|above|H4605|Prep-m | Adv
@@ -85,7 +85,7 @@ v10 וַיַּסְתֵּ֥ר|way·yas·têr|to hide|H5641|Conj-w | V-Hifil-Conse
 v10 עָ֝מָ֗ל|‘ā·māl|the sorrow|H5999|N-ms
 v10 מֵעֵינָֽי׃|mê·‘ê·nāy|from my eyes|H5869|Prep-m | N-cdc | 1cs
 v11 לָ֤מָּה|lām·māh|Why|H4100|Interrog
-v11 לֹּ֣א|lō|vvv|H3808|Adv-NegPrt
+v11 לֹּ֣א|lō|...|H3808|Adv-NegPrt
 v11 מֵרֶ֣חֶם|mê·re·ḥem|at birth|H7358|Prep-m | N-ms
 v11 אָמ֑וּת|’ā·mūṯ|did I not perish|H4191|V-Qal-Imperf-1cs
 v11 מִבֶּ֖טֶן|mib·be·ṭen|from the womb|H990|Prep-m | N-fs
@@ -105,7 +105,7 @@ v13 וְאֶשְׁק֑וֹט|wə·’eš·qō·wṭ|in peace|H8252|Conj-w | V-Qa
 v13 יָ֝שַׁ֗נְתִּי|yā·šan·tî|I would be asleep|H3462|V-Qal-Perf-1cs
 v13 אָ֤ז׀|’āz|and|H227|Adv
 v13 יָנ֬וּחַֽ|yā·nū·aḥ|at rest|H5117|V-Qal-Imperf-3ms
-v13 לִֽי׃|lî||H0|Prep | 1cs
+v13 לִֽי׃|lî|-|H0|Prep | 1cs
 v14 עִם־|‘im-|with|H5973|Prep
 v14 מְ֭לָכִים|mə·lā·ḵîm|kings|H4428|N-mp
 v14 וְיֹ֣עֲצֵי|wə·yō·‘ă·ṣê|and counselors|H3289|Conj-w | V-Qal-Prtcpl-mpc
@@ -201,4 +201,4 @@ v26 שָׁקַ֥טְתִּי|šā·qaṭ·tî|or quiet|H8252|V-Qal-Perf-1cs
 v26 וְֽלֹא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v26 נָ֗חְתִּי|nā·ḥə·tî|rest|H5117|V-Qal-Perf-1cs
 v26 וַיָּ֥בֹא|way·yā·ḇō|has come|H935|Conj-w | V-Qal-ConsecImperf-3ms
-v26 רֹֽגֶז׃פ|rō·ḡez|for trouble|H7267|N-ms
+v26 רֹֽגֶז׃|rō·ḡez|for trouble|H7267|N-ms

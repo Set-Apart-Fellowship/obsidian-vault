@@ -20,7 +20,7 @@ v2 כִּדְבַ֣ר|kiḏ·ḇar|in accordance with the word|H1697|Prep-k | N-
 v2 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v2 וָאָשִׂ֖ם|wā·’ā·śim|and I put|H7760|Conj-w | V-Qal-ConsecImperf-1cs
 v2 עַל־|‘al-|it around|H5921|Prep
-v2 מָתְנָֽי׃ס|mā·ṯə·nāy|my waist|H4975|N-mdc | 1cs
+v2 מָתְנָֽי׃|mā·ṯə·nāy|my waist|H4975|N-mdc | 1cs
 v3 וַיְהִ֧י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v3 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v3 יְהוָ֛ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -60,7 +60,7 @@ v6 ק֚וּם|qūm|Arise|H6965|V-Qal-Imp-ms
 v6 לֵ֣ךְ|lêḵ|go|H1980|V-Qal-Imp-ms
 v6 פְּרָ֔תָה|pə·rā·ṯāh|to Perath|H6578|N-proper-fs | 3fs
 v6 וְקַ֤ח|wə·qaḥ|and get|H3947|Conj-w | V-Qal-Imp-ms
-v6 מִשָּׁם֙|miš·šām||H8033|Prep-m | Adv
+v6 מִשָּׁם֙|miš·šām|-|H8033|Prep-m | Adv
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 הָ֣אֵז֔וֹר|hā·’ê·zō·wr|the loincloth|H232|Art | N-ms
 v6 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
@@ -83,7 +83,7 @@ v7 נִשְׁחַ֣ת|niš·ḥaṯ|was ruined|H7843|V-Nifal-Perf-3ms
 v7 הָאֵז֔וֹר|hā·’ê·zō·wr|[it]|H232|Art | N-ms
 v7 לֹ֥א|lō|of no|H3808|Adv-NegPrt
 v7 יִצְלַ֖ח|yiṣ·laḥ|use|H6743|V-Qal-Imperf-3ms
-v7 לַכֹּֽל׃פ|lak·kōl|at all|H3605|Prep-l, Art | N-ms
+v7 לַכֹּֽל׃|lak·kōl|at all|H3605|Prep-l, Art | N-ms
 v8 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v8 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -106,7 +106,7 @@ v10 הַזֶּ֨ה|haz·zeh|These|H2088|Art | Pro-ms
 v10 הָרָ֜ע|hā·rā‘|evil|H7451|Art | Adj-ms
 v10 הַֽמֵּאֲנִ֣ים׀|ham·mê·’ă·nîm|who refuse|H3987|Art | Adj-mp
 v10 לִשְׁמ֣וֹעַ|liš·mō·w·a‘|to listen|H8085|Prep-l | V-Qal-Inf
-v10 אֶת־|’eṯ-||H853|DirObjM
+v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 דְּבָרַ֗י|də·ḇā·ray|to My words|H1697|N-mpc | 1cs
 v10 הַהֹֽלְכִים֙|ha·hō·lə·ḵîm|who follow|H1980|Art | V-Qal-Prtcpl-mp
 v10 בִּשְׁרִר֣וּת|biš·ri·rūṯ|the stubbornness|H8307|Prep-b | N-fsc
@@ -219,7 +219,7 @@ v14 וְלֹֽא־|wə·lō-|[or]|H3808|Conj-w | Adv-NegPrt
 v14 אָח֛וּס|’ā·ḥūs|pity|H2347|V-Qal-Imperf-1cs
 v14 וְלֹ֥א|wə·lō|[or]|H3808|Conj-w | Adv-NegPrt
 v14 אֲרַחֵ֖ם|’ă·ra·ḥêm|compassion|H7355|V-Piel-Imperf-1cs
-v14 מֵהַשְׁחִיתָֽם׃ס|mê·haš·ḥî·ṯām|to keep Me from destroying them|H7843|Prep-m | V-Hifil-Inf | 3mp
+v14 מֵהַשְׁחִיתָֽם׃|mê·haš·ḥî·ṯām|to keep Me from destroying them|H7843|Prep-m | V-Hifil-Inf | 3mp
 v15 שִׁמְע֥וּ|šim·‘ū|Listen|H8085|V-Qal-Imp-mp
 v15 וְהַאֲזִ֖ינוּ|wə·ha·’ă·zî·nū|and give heed|H238|Conj-w | V-Hifil-Imp-mp
 v15 אַל־|’al-|Do not|H408|Adv
@@ -261,7 +261,7 @@ v17 דִּמְעָ֔ה|dim·‘āh|with tears|H1832|N-fs
 v17 כִּ֥י|kî|because|H3588|Conj
 v17 נִשְׁבָּ֖ה|niš·bāh|has been taken captive|H7617|V-Nifal-Perf-3ms
 v17 עֵ֥דֶר|‘ê·ḏer|flock|H5739|N-msc
-v17 יְהוָֽה׃ס|Yah·weh|the LORD's|H3068|N-proper-ms
+v17 יְהוָֽה׃|Yah·weh|the LORD's|H3068|N-proper-ms
 v18 אֱמֹ֥ר|’ĕ·mōr|Say|H559|V-Qal-Imp-ms
 v18 לַמֶּ֛לֶךְ|lam·me·leḵ|to the king|H4428|Prep-l, Art | N-ms
 v18 וְלַגְּבִירָ֖ה|wə·lag·gə·ḇî·rāh|and to the queen mother|H1377|Conj-w, Prep-l, Art | N-fs
@@ -281,7 +281,7 @@ v19 הָגְלָ֧ת|hā·ḡə·lāṯ|has been carried into exile|H1540|V-Hofa
 v19 יְהוּדָ֛ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v19 כֻּלָּ֖הּ|kul·lāh|All|H3605|N-msc | 3fs
 v19 הָגְלָ֥ת|hā·ḡə·lāṯ|taken captive|H1540|V-Hofal-Perf-3fs
-v19 שְׁלוֹמִֽים׃ס|šə·lō·w·mîm|wholly|H7965|N-mp
+v19 שְׁלוֹמִֽים׃|šə·lō·w·mîm|wholly|H7965|N-mp
 v20 שְׂאִי|śə·ʾī|Lift up|H5375|V-Qal-Imp-mp
 v20 עֵֽינֵיכֶם֙|‘ê·nê·ḵem|your eyes|H5869|N-cdc | 2mp
 v20 וּרְאִי|ū·rə·ʾī|and see|H7200|Conj-w | V-Qal-Imp-mp
@@ -374,4 +374,4 @@ v27 לֹ֣א|lō|unclean|H3808|Adv-NegPrt
 v27 תִטְהֲרִ֔י|ṯiṭ·hă·rî|will you remain|H2891|V-Qal-Imperf-2fs
 v27 אַחֲרֵ֥י|’a·ḥă·rê|How long|H310|Prep
 v27 מָתַ֖י|mā·ṯay|...|H4970|Interrog
-v27 עֹֽד׃פ|‘ōḏ|...|H5750|Adv
+v27 עֹֽד׃|‘ōḏ|...|H5750|Adv

@@ -17,7 +17,7 @@ v1 Μαρία|Maria|Mary|G3137|N-NFS
 v1 θεωρῆσαι|theōrēsai|to see|G2334|V-ANA
 v1 τὸν|ton|the|G3588|Art-AMS
 v1 τάφον|taphon|tomb|G5028|N-AMS
-v2 Καὶ|Kai|vvv|G2532|Conj
+v2 Καὶ|Kai|...|G2532|Conj
 v2 ἰδοὺ|idou|Suddenly|G2400|V-AMA-2S
 v2 σεισμὸς|seismos|earthquake|G4578|N-NMS
 v2 ἐγένετο|egeneto|there was|G1096|V-AIM-3S
@@ -63,7 +63,7 @@ v4 καὶ|kai|and|G2532|Conj
 v4 ἐγενήθησαν|egenēthēsan|became|G1096|V-AIP-3P
 v4 ὡς|hōs|like|G5613|Adv
 v4 νεκροί|nekroi|dead [men]|G3498|Adj-NMP
-v5 Ἀποκριθεὶς|Apokritheis|vvv|G611|V-APP-NMS
+v5 Ἀποκριθεὶς|Apokritheis|...|G611|V-APP-NMS
 v5 δὲ|de|But|G1161|Conj
 v5 ὁ|ho|the|G3588|Art-NMS
 v5 ἄγγελος|angelos|angel|G32|N-NMS

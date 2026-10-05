@@ -130,7 +130,7 @@ v10 הַחֻקָּ֥ה|ha·ḥuq·qāh|statute|H2708|Art | N-fs
 v10 הַזֹּ֖את|haz·zōṯ|this|H2063|Art | Pro-fs
 v10 לְמוֹעֲדָ֑הּ|lə·mō·w·‘ă·ḏāh|at the appointed time|H4150|Prep-l | N-msc | 3fs
 v10 מִיָּמִ֖ים|mî·yā·mîm|year|H3117|Prep-m | N-mp
-v10 יָמִֽימָה׃ס|yā·mî·māh|after year|H3117|N-mp | 3fs
+v10 יָמִֽימָה׃|yā·mî·māh|after year|H3117|N-mp | 3fs
 v11 וְהָיָ֞ה|wə·hā·yāh|And|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v11 כִּֽי־|kî-|after|H3588|Conj
 v11 יְבִֽאֲךָ֤|yə·ḇi·’ă·ḵā|brings|H935|V-Hifil-Imperf-3ms | 2ms
@@ -230,7 +230,7 @@ v16 בְּחֹ֣זֶק|bə·ḥō·zeq|with a mighty|H2392|Prep-b | N-msc
 v16 יָ֔ד|yāḏ|hand|H3027|N-fs
 v16 הוֹצִיאָ֥נוּ|hō·w·ṣî·’ā·nū|brought us out|H3318|V-Hifil-Perf-3ms | 1cp
 v16 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v16 מִמִּצְרָֽיִם׃ס|mim·miṣ·rā·yim|of Egypt|H4714|Prep-m | N-proper-fs
+v16 מִמִּצְרָֽיִם׃|mim·miṣ·rā·yim|of Egypt|H4714|Prep-m | N-proper-fs
 v17 וַיְהִ֗י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v17 בְּשַׁלַּ֣ח|bə·šal·laḥ|go|H7971|Prep-b | V-Piel-Inf
 v17 פַּרְעֹה֮|par·‘ōh|When Pharaoh|H6547|N-proper-ms
@@ -322,4 +322,4 @@ v22 וְעַמּ֥וּד|wə·‘am·mūḏ|nor the pillar|H5982|Conj-w | N-msc
 v22 הָאֵ֖שׁ|hā·’êš|of fire|H784|Art | N-cs
 v22 לָ֑יְלָה|lā·yə·lāh|by night|H3915|N-ms
 v22 לִפְנֵ֖י|lip̄·nê|its place before|H6440|Prep-l | N-cpc
-v22 הָעָֽם׃פ|hā·‘ām|the people|H5971|Art | N-ms
+v22 הָעָֽם׃|hā·‘ām|the people|H5971|Art | N-ms

@@ -19,7 +19,7 @@ v2 ἀρχιερεῖς|archiereis|chief priests|G749|N-NMP
 v2 καὶ|kai|and|G2532|Conj
 v2 οἱ|hoi|-|G3588|Art-NMP
 v2 πρῶτοι|prōtoi|leaders|G4413|Adj-NMP
-v2 τῶν|tōn|vvv|G3588|Art-GMP
+v2 τῶν|tōn|...|G3588|Art-GMP
 v2 Ἰουδαίων|Ioudaiōn|Jewish|G2453|Adj-GMP
 v2 κατὰ|kata|against|G2596|Prep
 v2 τοῦ|tou|-|G3588|Art-GMS
@@ -56,7 +56,7 @@ v4 Καισάρειαν|Kaisareian|Caesarea|G2542|N-AFS
 v4 ἑαυτὸν|heauton|[I myself]|G1438|RefPro-AM3S
 v4 δὲ|de|and|G1161|Conj
 v4 μέλλειν|mellein|am|G3195|V-PNA
-v4 ἐν|en|vvv|G1722|Prep
+v4 ἐν|en|...|G1722|Prep
 v4 τάχει|tachei|soon|G5034|N-DNS
 v4 ἐκπορεύεσθαι|ekporeuesthai|going there|G1607|V-PNM/P
 v5 Οἱ|Hoi|{let} some|G3588|Art-NMP
@@ -114,7 +114,7 @@ v7 βαρέα|barea|serious|G926|Adj-ANP
 v7 αἰτιώματα|aitiōmata|charges|G157|N-ANP
 v7 καταφέροντες|katapherontes|bringing|G2702|V-PPA-NMP
 v7 ἃ|ha|that|G3739|RelPro-ANP
-v7 οὐκ|ouk|vvv|G3756|Adv
+v7 οὐκ|ouk|...|G3756|Adv
 v7 ἴσχυον|ischyon|they could not|G2480|V-IIA-3P
 v7 ἀποδεῖξαι|apodeixai|prove|G584|V-ANA
 v8 Τοῦ|Tou|[Then]|G3588|Art-GMS
@@ -189,7 +189,7 @@ v11 ἄξιον|axion|worthy|G514|Adj-ANS
 v11 θανάτου|thanatou|of death|G2288|N-GMS
 v11 πέπραχά|pepracha|[of]|G4238|V-RIA-1S
 v11 τι|ti|anything|G5100|IPro-ANS
-v11 οὐ|ou|vvv|G3756|Adv
+v11 οὐ|ou|...|G3756|Adv
 v11 παραιτοῦμαι|paraitoumai|I do not refuse|G3868|V-PIM/P-1S
 v11 τὸ|to|-|G3588|Art-ANS
 v11 ἀποθανεῖν|apothanein|to die|G599|V-ANA
@@ -247,9 +247,9 @@ v14 Φῆστος|Phēstos|Festus|G5347|N-NMS
 v14 τῷ|tō|before the|G3588|Art-DMS
 v14 βασιλεῖ|basilei|king|G935|N-DMS
 v14 ἀνέθετο|anetheto|laid out|G394|V-AIM-3S
-v14 τὰ|ta|vvv|G3588|Art-ANP
-v14 κατὰ|kata|vvv|G2596|Prep
-v14 τὸν|ton|vvv|G3588|Art-AMS
+v14 τὰ|ta|...|G3588|Art-ANP
+v14 κατὰ|kata|...|G2596|Prep
+v14 τὸν|ton|...|G3588|Art-AMS
 v14 Παῦλον|Paulon|Paul's case|G3972|N-AMS
 v14 λέγων|legōn|-|G3004|V-PPA-NMS
 v14 Ἀνήρ|Anēr|man|G435|N-NMS
@@ -321,20 +321,20 @@ v17 ἐκέλευσα|ekeleusa|[and] ordered that|G2753|V-AIA-1S
 v17 ἀχθῆναι|achthēnai|be brought in|G71|V-ANP
 v17 τὸν|ton|the|G3588|Art-AMS
 v17 ἄνδρα|andra|man|G435|N-AMS
-v18 περὶ|peri|vvv|G4012|Prep
+v18 περὶ|peri|...|G4012|Prep
 v18 οὗ|hou|[But when his]|G3739|RelPro-GMS
 v18 σταθέντες|stathentes|rose to speak|G2476|V-APP-NMP
 v18 οἱ|hoi|-|G3588|Art-NMP
 v18 κατήγοροι|katēgoroi|accusers|G2725|N-NMP
-v18 οὐδεμίαν|oudemian|vvv|G3762|Adj-AFS
+v18 οὐδεμίαν|oudemian|...|G3762|Adj-AFS
 v18 αἰτίαν|aitian|they did not charge [him]|G156|N-AFS
-v18 ἔφερον|epheron|vvv|G5342|V-IIA-3P
+v18 ἔφερον|epheron|...|G5342|V-IIA-3P
 v18 ὧν|hōn|-|G3739|RelPro-GNP
 v18 ἐγὼ|egō|I|G1473|PPro-N1S
 v18 ὑπενόουν|hypenooun|had expected|G5282|V-IIA-1S
 v18 πονηρῶν|ponērōn|with [any of the] crimes|G4190|Adj-GNP
 v19 ζητήματα|zētēmata|contentions|G2213|N-ANP
-v19 δέ|de|vvv|G1161|Conj
+v19 δέ|de|...|G1161|Conj
 v19 τινα|tina|some|G5100|IPro-ANP
 v19 περὶ|peri|regarding|G4012|Prep
 v19 τῆς|tēs|[their]|G3588|Art-GFS
@@ -428,7 +428,7 @@ v23 χιλιάρχοις|chiliarchois|[the] commanders|G5506|N-DMP
 v23 καὶ|kai|and|G2532|Conj
 v23 ἀνδράσιν|andrasin|men|G435|N-DMP
 v23 τοῖς|tois|-|G3588|Art-DMP
-v23 κατ’|kat’|vvv|G2596|Prep
+v23 κατ’|kat’|...|G2596|Prep
 v23 ἐξοχὴν|exochēn|leading|G1851|N-AFS
 v23 τῆς|tēs|of the|G3588|Art-GFS
 v23 πόλεως|poleōs|city|G4172|N-GFS
@@ -458,7 +458,7 @@ v24 οὗ|hou|[him]|G3739|RelPro-GMS
 v24 ἅπαν|hapan|whole|G537|Adj-NNS
 v24 τὸ|to|The|G3588|Art-NNS
 v24 πλῆθος|plēthos|community|G4128|N-NNS
-v24 τῶν|tōn|vvv|G3588|Art-GMP
+v24 τῶν|tōn|...|G3588|Art-GMP
 v24 Ἰουδαίων|Ioudaiōn|Jewish|G2453|Adj-GMP
 v24 ἐνέτυχόν|enetychon|has petitioned|G1793|V-AIA-3P
 v24 μοι|moi|me|G1473|PPro-D1S
@@ -482,7 +482,7 @@ v25 αὐτὸν|auton|he|G846|PPro-AM3S
 v25 θανάτου|thanatou|of death|G2288|N-GMS
 v25 πεπραχέναι|peprachenai|had done|G4238|V-RNA
 v25 αὐτοῦ|autou|...|G846|PPro-GM3S
-v25 δὲ|de|vvv|G1161|Conj
+v25 δὲ|de|...|G1161|Conj
 v25 τούτου|toutou|[and] since he|G3778|DPro-GMS
 v25 ἐπικαλεσαμένου|epikalesamenou|has now appealed to|G1941|V-APM-GMS
 v25 τὸν|ton|the|G3588|Art-AMS

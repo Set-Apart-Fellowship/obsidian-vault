@@ -12,7 +12,7 @@ v1 ἐπιεικείας|epieikeias|gentleness|G1932|N-GFS
 v1 τοῦ|tou|-|G3588|Art-GMS
 v1 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v1 ὃς|hos|who|G3739|RelPro-NMS
-v1 κατὰ|kata|vvv|G2596|Prep
+v1 κατὰ|kata|...|G2596|Prep
 v1 πρόσωπον|prosōpon|when face to face|G4383|N-ANS
 v1 μὲν|men|-|G3303|Conj
 v1 ταπεινὸς|tapeinos|[am] humble|G5011|Adj-NMS
@@ -26,10 +26,10 @@ v1 ὑμᾶς|hymas|-|G4771|PPro-A2P
 v2 δέομαι|deomai|I beg [you]|G1189|V-PIM/P-1S
 v2 δὲ|de|-|G1161|Conj
 v2 τὸ|to|that|G3588|Art-ANS
-v2 μὴ|mē|vvv|G3361|Adv
+v2 μὴ|mē|...|G3361|Adv
 v2 παρὼν|parōn|when I come|G3918|V-PPA-NMS
 v2 θαρρῆσαι|tharrēsai|I may not need to be|G2292|V-ANA
-v2 τῇ|tē|vvv|G3588|Art-DFS
+v2 τῇ|tē|...|G3588|Art-DFS
 v2 πεποιθήσει|pepoithēsei|as bold|G4006|N-DFS
 v2 ᾗ|hē|as|G3739|RelPro-DFS
 v2 λογίζομαι|logizomai|I expect|G3049|V-PIM/P-1S
@@ -47,7 +47,7 @@ v3 Ἐν|En|in|G1722|Prep
 v3 σαρκὶ|sarki|[the] flesh|G4561|N-DFS
 v3 γὰρ|gar|For|G1063|Conj
 v3 περιπατοῦντες|peripatountes|though we live|G4043|V-PPA-NMP
-v3 οὐ|ou|vvv|G3756|Adv
+v3 οὐ|ou|...|G3756|Adv
 v3 κατὰ|kata|according to|G2596|Prep
 v3 σάρκα|sarka|[the] flesh|G4561|N-AFS
 v3 στρατευόμεθα|strateuometha|we do not wage war|G4754|V-PIM-1P
@@ -111,7 +111,7 @@ v7 εἶναι|einai|belongs to|G1510|V-PNA
 v7 τοῦτο|touto|-|G3778|DPro-ANS
 v7 λογιζέσθω|logizesthō|he should remind|G3049|V-PMM/P-3S
 v7 πάλιν|palin|...|G3825|Adv
-v7 ἐφ’|eph’|vvv|G1909|Prep
+v7 ἐφ’|eph’|...|G1909|Prep
 v7 ἑαυτοῦ|heautou|himself|G1438|RefPro-GM3S
 v7 ὅτι|hoti|that|G3754|Conj
 v7 καθὼς|kathōs|as much as|G2531|Adv
@@ -141,10 +141,10 @@ v8 οὐκ|ouk|...|G3756|Adv
 v8 εἰς|eis|-|G1519|Prep
 v8 καθαίρεσιν|kathairesin|tearing you down|G2506|N-AFS
 v8 ὑμῶν|hymōn|...|G4771|PPro-G2P
-v8 οὐκ|ouk|vvv|G3756|Adv
+v8 οὐκ|ouk|...|G3756|Adv
 v8 αἰσχυνθήσομαι|aischynthēsomai|I will not be ashamed|G153|V-FIP-1S
 v9 ἵνα|hina|-|G2443|Conj
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 δόξω|doxō|I do not want to seem|G1380|V-ASA-1S
 v9 ὡς|hōs|to be|G5613|Adv
 v9 ἂν|an|...|G302|Prtcl
@@ -178,8 +178,8 @@ v11 τοιοῦτος|toioutos|Such [people]|G5108|DPro-NMS
 v11 ὅτι|hoti|that|G3754|Conj
 v11 οἷοί|hoioi|what|G3634|RelPro-NMP
 v11 ἐσμεν|esmen|we are|G1510|V-PIA-1P
-v11 τῷ|tō|vvv|G3588|Art-DMS
-v11 λόγῳ|logō|vvv|G3056|N-DMS
+v11 τῷ|tō|...|G3588|Art-DMS
+v11 λόγῳ|logō|...|G3056|N-DMS
 v11 δι’|di’|in|G1223|Prep
 v11 ἐπιστολῶν|epistolōn|[our] letters|G1992|N-GFP
 v11 ἀπόντες|apontes|when absent|G548|V-PPA-NMP
@@ -209,13 +209,13 @@ v12 καὶ|kai|and|G2532|Conj
 v12 συνκρίνοντες|synkrinontes|compare|G4793|V-PPA-NMP
 v12 ἑαυτοὺς|heautous|themselves|G1438|RefPro-AM3P
 v12 ἑαυτοῖς|heautois|with themselves|G1438|RefPro-DM3P
-v12 οὐ|ou|vvv|G3756|Adv
+v12 οὐ|ou|...|G3756|Adv
 v12 συνιᾶσιν|syniasin|they show their ignorance|G4920|V-PIA-3P
 v13 ἡμεῖς|hēmeis|We|G1473|PPro-N1P
 v13 δὲ|de|however|G1161|Conj
-v13 οὐκ|ouk|vvv|G3756|Adv
-v13 εἰς|eis|vvv|G1519|Prep
-v13 τὰ|ta|vvv|G3588|Art-ANP
+v13 οὐκ|ouk|...|G3756|Adv
+v13 εἰς|eis|...|G1519|Prep
+v13 τὰ|ta|...|G3588|Art-ANP
 v13 ἄμετρα|ametra|beyond our limits|G280|Adj-ANP
 v13 καυχησόμεθα|kauchēsometha|will not boast|G2744|V-FIM-1P
 v13 ἀλλὰ|alla|but only|G235|Conj
@@ -234,10 +234,10 @@ v13 ἐφικέσθαι|ephikesthai|that reaches|G2185|V-ANM
 v13 ἄχρι|achri|to|G891|Prep
 v13 καὶ|kai|even|G2532|Conj
 v13 ὑμῶν|hymōn|you|G4771|PPro-G2P
-v14 οὐ|ou|vvv|G3756|Adv
+v14 οὐ|ou|...|G3756|Adv
 v14 γὰρ|gar|-|G1063|Conj
 v14 ὡς|hōs|as if|G5613|Adv
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 ἐφικνούμενοι|ephiknoumenoi|we had not come|G2185|V-PPM/P-NMP
 v14 εἰς|eis|to|G1519|Prep
 v14 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -254,8 +254,8 @@ v14 εὐαγγελίῳ|euangeliō|gospel|G2098|N-DNS
 v14 τοῦ|tou|-|G3588|Art-GMS
 v14 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v15 οὐκ|ouk|Neither|G3756|Adv
-v15 εἰς|eis|vvv|G1519|Prep
-v15 τὰ|ta|vvv|G3588|Art-ANP
+v15 εἰς|eis|...|G1519|Prep
+v15 τὰ|ta|...|G3588|Art-ANP
 v15 ἄμετρα|ametra|beyond our limits|G280|Adj-ANP
 v15 καυχώμενοι|kauchōmenoi|do we boast|G2744|V-PPM/P-NMP
 v15 ἐν|en|in|G1722|Prep
@@ -263,7 +263,7 @@ v15 ἀλλοτρίοις|allotriois|of others|G245|Adj-DMP
 v15 κόποις|kopois|[the] labors|G2873|N-DMP
 v15 ἐλπίδα|elpida|we hope that|G1680|N-AFS
 v15 δὲ|de|But|G1161|Conj
-v15 ἔχοντες|echontes|vvv|G2192|V-PPA-NMP
+v15 ἔχοντες|echontes|...|G2192|V-PPA-NMP
 v15 αὐξανομένης|auxanomenēs|increases|G837|V-PPM/P-GFS
 v15 τῆς|tēs|-|G3588|Art-GFS
 v15 πίστεως|pisteōs|faith|G4102|N-GFS
@@ -282,7 +282,7 @@ v16 τὰ|ta|[in the regions]|G3588|Art-ANP
 v16 ὑπερέκεινα|hyperekeina|beyond|G5238|Prep
 v16 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v16 εὐαγγελίσασθαι|euangelisasthai|we can preach the gospel|G2097|V-ANM
-v16 οὐκ|ouk|vvv|G3756|Adv
+v16 οὐκ|ouk|...|G3756|Adv
 v16 ἐν|en|in|G1722|Prep
 v16 ἀλλοτρίῳ|allotriō|another man's|G245|Adj-DMS
 v16 κανόνι|kanoni|territory|G2583|N-DMS

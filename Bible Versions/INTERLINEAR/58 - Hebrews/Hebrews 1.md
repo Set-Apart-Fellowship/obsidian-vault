@@ -45,7 +45,7 @@ v3 τὰ|ta|-|G3588|Art-ANP
 v3 πάντα|panta|all things|G3956|Adj-ANP
 v3 τῷ|tō|by|G3588|Art-DNS
 v3 ῥήματι|rhēmati|word|G4487|N-DNS
-v3 τῆς|tēs|vvv|G3588|Art-GFS
+v3 τῆς|tēs|...|G3588|Art-GFS
 v3 δυνάμεως|dynameōs|powerful|G1411|N-GFS
 v3 ‹δι’›|di’|[After]|G1223|Prep
 v3 αὐτοῦ|autou|His|G846|PPro-GM3S
@@ -74,7 +74,7 @@ v4 ὄνομα|onoma|[the] name|G3686|N-ANS
 v5 Τίνι|Tini|to which|G5101|IPro-DMS
 v5 γὰρ|gar|For|G1063|Conj
 v5 εἶπέν|eipen|did [God] ever say|G2036|V-AIA-3S
-v5 ποτε|pote|vvv|G4218|Prtcl
+v5 ποτε|pote|...|G4218|Prtcl
 v5 τῶν|tōn|of the|G3588|Art-GMP
 v5 ἀγγέλων|angelōn|angels|G32|N-GMP
 v5 Υἱός|Huios|Son|G5207|N-NMS
@@ -144,7 +144,7 @@ v8 Θεὸς|Theos|God|G2316|N-NMS
 v8 εἰς|eis|[endures] forever|G1519|Prep
 v8 τὸν|ton|...|G3588|Art-AMS
 v8 αἰῶνα|aiōna|...|G165|N-AMS
-v8 τοῦ|tou|vvv|G3588|Art-GMS
+v8 τοῦ|tou|...|G3588|Art-GMS
 v8 αἰῶνος|aiōnos|and ever|G165|N-GMS
 v8 καὶ|kai|and|G2532|Conj
 v8 ἡ|hē|-|G3588|Art-NFS
@@ -197,7 +197,7 @@ v11 σὺ|sy|You|G4771|PPro-N2S
 v11 δὲ|de|but|G1161|Conj
 v11 διαμένεις|diameneis|remain|G1265|V-PIA-2S
 v11 καὶ|kai|-|G2532|Conj
-v11 πάντες|pantes|vvv|G3956|Adj-NMP
+v11 πάντες|pantes|...|G3956|Adj-NMP
 v11 ὡς|hōs|like|G5613|Adv
 v11 ἱμάτιον|himation|a garment|G2440|N-NNS
 v11 παλαιωθήσονται|palaiōthēsontai|they will all wear out|G3822|V-FIP-3P
@@ -219,7 +219,7 @@ v12 καὶ|kai|and|G2532|Conj
 v12 τὰ|ta|-|G3588|Art-NNP
 v12 ἔτη|etē|years|G2094|N-NNP
 v12 σου|sou|Your|G4771|PPro-G2S
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 ἐκλείψουσιν|ekleipsousin|will never end|G1587|V-FIA-3P
 v13 Πρὸς|Pros|to|G4314|Prep
 v13 τίνα|tina|which|G5101|IPro-AMS
@@ -227,7 +227,7 @@ v13 δὲ|de|Yet|G1161|Conj
 v13 τῶν|tōn|of the|G3588|Art-GMP
 v13 ἀγγέλων|angelōn|angels|G32|N-GMP
 v13 εἴρηκέν|eirēken|did [God] ever say|G2046|V-RIA-3S
-v13 ποτε|pote|vvv|G4218|Prtcl
+v13 ποτε|pote|...|G4218|Prtcl
 v13 Κάθου|Kathou|Sit|G2521|V-PMM/P-2S
 v13 ἐκ|ek|at|G1537|Prep
 v13 δεξιῶν|dexiōn|right hand|G1188|Adj-GNP

@@ -3,9 +3,9 @@ v1 δὲ|de|Now|G1161|Conj
 v1 ὧν|hōn|the matters|G3739|RelPro-GNP
 v1 ἐγράψατε|egrapsate|you wrote about|G1125|V-AIA-2P
 v1 καλὸν|kalon|[It is] good|G2570|Adj-NNS
-v1 ἀνθρώπῳ|anthrōpō|vvv|G444|N-DMS
+v1 ἀνθρώπῳ|anthrōpō|...|G444|N-DMS
 v1 γυναικὸς|gynaikos|...|G1135|N-GFS
-v1 μὴ|mē|vvv|G3361|Adv
+v1 μὴ|mē|...|G3361|Adv
 v1 ἅπτεσθαι|haptesthai|to abstain from sexual relations|G680|V-PNM
 v2 διὰ|dia|because|G1223|Prep
 v2 δὲ|de|But|G1161|Conj
@@ -80,7 +80,7 @@ v5 τὸ|to|-|G3588|Art-ANS
 v5 αὐτὸ|auto|-|G846|PPro-AN3S
 v5 ἦτε|ēte|come|G1510|V-PSA-2P
 v5 ἵνα|hina|so that|G2443|Conj
-v5 μὴ|mē|vvv|G3361|Adv
+v5 μὴ|mē|...|G3361|Adv
 v5 πειράζῃ|peirazē|will not tempt|G3985|V-PSA-3S
 v5 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v5 ὁ|ho|-|G3588|Art-NMS
@@ -127,13 +127,13 @@ v8 ταῖς|tais|-|G3588|Art-DFP
 v8 χήραις|chērais|widows|G5503|N-DFP
 v8 καλὸν|kalon|[It is] good|G2570|Adj-NNS
 v8 αὐτοῖς|autois|for them|G846|PPro-DM3P
-v8 ἐὰν|ean|vvv|G1437|Conj
+v8 ἐὰν|ean|...|G1437|Conj
 v8 μείνωσιν|meinōsin|to remain [unmarried]|G3306|V-ASA-3P
 v8 ὡς|hōs|as|G5613|Adv
 v8 κἀγώ|kagō|I am|G2504|PPro-N1S
 v9 εἰ|ei|if|G1487|Conj
 v9 δὲ|de|But|G1161|Conj
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἐγκρατεύονται|enkrateuontai|they cannot control themselves|G1467|V-PIM/P-3P
 v9 γαμησάτωσαν|gamēsatōsan|let them marry|G1060|V-AMA-3P
 v9 κρεῖττον|kreitton|better|G2909|Adj-NNS-C
@@ -154,7 +154,7 @@ v10 Κύριος|Kyrios|Lord)|G2962|N-NMS
 v10 γυναῖκα|gynaika|A wife|G1135|N-AFS
 v10 ἀπὸ|apo|from|G575|Prep
 v10 ἀνδρὸς|andros|[her] husband|G435|N-GMS
-v10 μὴ|mē|vvv|G3361|Adv
+v10 μὴ|mē|...|G3361|Adv
 v10 χωρισθῆναι|chōristhēnai|must not separate|G5563|V-ANP
 v11 ἐὰν|ean|if|G1437|Conj
 v11 δὲ|de|But|G1161|Conj
@@ -169,7 +169,7 @@ v11 καταλλαγήτω|katallagētō|be reconciled|G2644|V-AMP-3S
 v11 καὶ|kai|And|G2532|Conj
 v11 ἄνδρα|andra|a husband|G435|N-AMS
 v11 γυναῖκα|gynaika|[his] wife|G1135|N-AFS
-v11 μὴ|mē|vvv|G3361|Adv
+v11 μὴ|mē|...|G3361|Adv
 v11 ἀφιέναι|aphienai|must not divorce|G863|V-PNA
 v12 Τοῖς|Tois|To the|G3588|Art-DMP
 v12 δὲ|de|-|G1161|Conj
@@ -191,7 +191,7 @@ v12 συνευδοκεῖ|syneudokei|is willing|G4909|V-PIA-3S
 v12 οἰκεῖν|oikein|to live|G3611|V-PNA
 v12 μετ’|met’|with|G3326|Prep
 v12 αὐτοῦ|autou|him|G846|PPro-GM3S
-v12 μὴ|mē|vvv|G3361|Adv
+v12 μὴ|mē|...|G3361|Adv
 v12 ἀφιέτω|aphietō|he must not divorce|G863|V-PMA-3S
 v12 αὐτήν|autēn|her|G846|PPro-AF3S
 v13 καὶ|kai|And|G2532|Conj
@@ -207,7 +207,7 @@ v13 συνευδοκεῖ|syneudokei|is willing|G4909|V-PIA-3S
 v13 οἰκεῖν|oikein|to live|G3611|V-PNA
 v13 μετ’|met’|with|G3326|Prep
 v13 αὐτῆς|autēs|her|G846|PPro-GF3S
-v13 μὴ|mē|vvv|G3361|Adv
+v13 μὴ|mē|...|G3361|Adv
 v13 ἀφιέτω|aphietō|she must not divorce|G863|V-PMA-3S
 v13 τὸν|ton|-|G3588|Art-AMS
 v13 ἄνδρα|andra|[him]|G435|N-AMS
@@ -246,7 +246,7 @@ v15 ὁ|ho|the|G3588|Art-NMS
 v15 ἄπιστος|apistos|unbeliever|G571|Adj-NMS
 v15 χωρίζεται|chōrizetai|leaves|G5563|V-PIP-3S
 v15 χωριζέσθω|chōrizesthō|let him go|G5563|V-PMM/P-3S
-v15 οὐ|ou|vvv|G3756|Adv
+v15 οὐ|ou|...|G3756|Adv
 v15 δεδούλωται|dedoulōtai|is not bound|G1402|V-RIM/P-3S
 v15 ὁ|ho|The [ believing ]|G3588|Art-NMS
 v15 ἀδελφὸς|adelphos|brother|G80|N-NMS
@@ -303,13 +303,13 @@ v17 διατάσσομαι|diatassomai|I prescribe|G1299|V-PIM-1S
 v18 περιτετμημένος|peritetmēmenos|already circumcised|G4059|V-RPM/P-NMS
 v18 τις|tis|{Was} a man|G5100|IPro-NMS
 v18 ἐκλήθη|eklēthē|when he was called|G2564|V-AIP-3S
-v18 μὴ|mē|vvv|G3361|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 ἐπισπάσθω|epispasthō|He should not become uncircumcised|G1986|V-PMM/P-3S
-v18 ἐν|en|vvv|G1722|Prep
+v18 ἐν|en|...|G1722|Prep
 v18 ἀκροβυστίᾳ|akrobystia|still uncircumcised|G203|N-DFS
 v18 κέκληταί|keklētai|when called|G2564|V-RIM/P-3S
 v18 τις|tis|{Was} a man|G5100|IPro-NMS
-v18 μὴ|mē|vvv|G3361|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 περιτεμνέσθω|peritemnesthō|He should not be circumcised|G4059|V-PMM/P-3S
 v19 ἡ|hē|-|G3588|Art-NFS
 v19 περιτομὴ|peritomē|Circumcision|G4061|N-NFS
@@ -335,7 +335,7 @@ v20 ταύτῃ|tautē|-|G3778|DPro-DFS
 v20 μενέτω|menetō|should remain|G3306|V-PMA-3S
 v21 δοῦλος|doulos|Were you a slave|G1401|N-NMS
 v21 ἐκλήθης|eklēthēs|when you were called|G2564|V-AIP-2S
-v21 μή|mē|vvv|G3361|Adv
+v21 μή|mē|...|G3361|Adv
 v21 σοι|soi|you|G4771|PPro-D2S
 v21 μελέτω|meletō|Do not let it concern|G3199|V-PMA-3S
 v21 ἀλλ’|all’|but|G235|Conj
@@ -425,14 +425,14 @@ v28 ἐὰν|ean|if|G1437|Conj
 v28 δὲ|de|But|G1161|Conj
 v28 καὶ|kai|-|G2532|Conj
 v28 γαμήσῃς|gamēsēs|you do marry|G1060|V-ASA-2S
-v28 οὐχ|ouch|vvv|G3756|Adv
+v28 οὐχ|ouch|...|G3756|Adv
 v28 ἥμαρτες|hēmartes|you have not sinned|G264|V-AIA-2S
 v28 καὶ|kai|And|G2532|Conj
 v28 ἐὰν|ean|if|G1437|Conj
 v28 γήμῃ|gēmē|marries|G1060|V-ASA-3S
 v28 ἡ|hē|-|G3588|Art-NFS
 v28 παρθένος|parthenos|a virgin|G3933|N-NFS
-v28 οὐχ|ouch|vvv|G3756|Adv
+v28 οὐχ|ouch|...|G3756|Adv
 v28 ἥμαρτεν|hēmarten|she has not sinned|G264|V-AIA-3S
 v28 θλῖψιν|thlipsin|troubles|G2347|N-AFS
 v28 δὲ|de|But|G1161|Conj
@@ -468,19 +468,19 @@ v30 καὶ|kai|-|G2532|Conj
 v30 οἱ|hoi|those who|G3588|Art-NMP
 v30 κλαίοντες|klaiontes|weep|G2799|V-PPA-NMP
 v30 ὡς|hōs|as if|G5613|Adv
-v30 μὴ|mē|vvv|G3361|Adv
+v30 μὴ|mē|...|G3361|Adv
 v30 κλαίοντες|klaiontes|they [did not]|G2799|V-PPA-NMP
 v30 καὶ|kai|-|G2532|Conj
 v30 οἱ|hoi|those who|G3588|Art-NMP
 v30 χαίροντες|chairontes|are joyful|G5463|V-PPA-NMP
 v30 ὡς|hōs|as if|G5613|Adv
-v30 μὴ|mē|vvv|G3361|Adv
+v30 μὴ|mē|...|G3361|Adv
 v30 χαίροντες|chairontes|they were not|G5463|V-PPA-NMP
 v30 καὶ|kai|-|G2532|Conj
 v30 οἱ|hoi|those who|G3588|Art-NMP
 v30 ἀγοράζοντες|agorazontes|make a purchase|G59|V-PPA-NMP
 v30 ὡς|hōs|as if|G5613|Adv
-v30 μὴ|mē|vvv|G3361|Adv
+v30 μὴ|mē|...|G3361|Adv
 v30 κατέχοντες|katechontes|they had nothing|G2722|V-PPA-NMP
 v31 καὶ|kai|and|G2532|Conj
 v31 οἱ|hoi|those who|G3588|Art-NMP
@@ -488,7 +488,7 @@ v31 χρώμενοι|chrōmenoi|use|G5530|V-PPM/P-NMP
 v31 τὸν|ton|the things of|G3588|Art-AMS
 v31 κόσμον|kosmon|[this] world|G2889|N-AMS
 v31 ὡς|hōs|as if|G5613|Adv
-v31 μὴ|mē|vvv|G3361|Adv
+v31 μὴ|mē|...|G3361|Adv
 v31 καταχρώμενοι|katachrōmenoi|not dependent on them|G2710|V-PPM/P-NMP
 v31 παράγει|paragei|is passing away|G3855|V-PIA-3S
 v31 γὰρ|gar|For|G1063|Conj
@@ -594,11 +594,11 @@ v36 ὑπέρακμος|hyperakmos|beyond [her] youth|G5230|Adj-NFS
 v36 καὶ|kai|and|G2532|Conj
 v36 οὕτως|houtōs|[to marry]|G3779|Adv
 v36 ὀφείλει|opheilei|[they] ought|G3784|V-PIA-3S
-v36 γίνεσθαι|ginesthai|vvv|G1096|V-PNM/P
+v36 γίνεσθαι|ginesthai|...|G1096|V-PNM/P
 v36 ὃ|ho|as|G3739|RelPro-ANS
 v36 θέλει|thelei|he wishes|G2309|V-PIA-3S
 v36 ποιείτω|poieitō|let him do|G4160|V-PMA-3S
-v36 οὐχ|ouch|vvv|G3756|Adv
+v36 οὐχ|ouch|...|G3756|Adv
 v36 ἁμαρτάνει|hamartanei|he is not sinning|G264|V-PIA-3S
 v36 γαμείτωσαν|gameitōsan|they should get married|G1060|V-PMA-3P
 v37 ὃς|hos|the [man who]|G3739|RelPro-NMS

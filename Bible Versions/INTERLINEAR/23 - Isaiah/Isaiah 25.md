@@ -40,7 +40,7 @@ v4 לַדָּ֛ל|lad·dāl|for the poor|H1800|Prep-l, Art | Adj-msc
 v4 מָע֥וֹז|mā·‘ō·wz|a stronghold|H4581|N-ms
 v4 לָאֶבְי֖וֹן|lā·’eḇ·yō·wn|for the needy|H34|Prep-l, Art | Adj-ms
 v4 בַּצַּר־|baṣ·ṣar-|in distress|H6862|Prep-b, Art | Adj-ms
-v4 ל֑וֹ|lōw||H0|Prep | 3ms
+v4 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v4 מַחְסֶ֤ה|maḥ·seh|a refuge|H4268|N-ms
 v4 מִזֶּ֙רֶם֙|miz·ze·rem|from the storm|H2230|Prep-m | N-ms
 v4 צֵ֣ל|ṣêl|a shade|H6738|N-ms
@@ -60,7 +60,7 @@ v5 בְּצֵ֣ל|bə·ṣêl|As the shade|H6738|Prep-b | N-msc
 v5 עָ֔ב|‘āḇ|of a cloud|H5645|N-cs
 v5 זְמִ֥יר|zə·mîr|so the song|H2158|N-msc
 v5 עָֽרִיצִ֖ים|‘ā·rî·ṣîm|of the ruthless|H6184|Adj-mp
-v5 יַעֲנֶֽה׃פ|ya·‘ă·neh|is silenced|H6031|V-Qal-Imperf-3ms
+v5 יַעֲנֶֽה׃|ya·‘ă·neh|is silenced|H6031|V-Qal-Imperf-3ms
 v6 וְעָשָׂה֩|wə·‘ā·śāh|will prepare|H6213|Conj-w | V-Qal-ConjPerf-3ms
 v6 יְהוָ֨ה|Yah·weh|the LORD|H3068|N-proper-ms
 v6 צְבָא֜וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
@@ -108,7 +108,7 @@ v8 כָּל־|kāl-|the whole|H3605|N-msc
 v8 הָאָ֔רֶץ|hā·’ā·reṣ|earth|H776|Art | N-fs
 v8 כִּ֥י|kî|For|H3588|Conj
 v8 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v8 דִּבֵּֽר׃פ|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms
+v8 דִּבֵּֽר׃|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms
 v9 וְאָמַר֙|wə·’ā·mar|it will be said|H559|Conj-w | V-Qal-ConjPerf-3ms
 v9 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v9 הַה֔וּא|ha·hū|And in that|H1931|Art | Pro-3ms
@@ -121,7 +121,7 @@ v9 וְיֽוֹשִׁיעֵ֑נוּ|wə·yō·wō·šî·‘ê·nū|and He has s
 v9 זֶ֤ה|zeh|This|H2088|Pro-ms
 v9 יְהוָה֙|Yah·weh|is the LORD|H3068|N-proper-ms
 v9 קִוִּ֣ינוּ|qiw·wî·nū|for whom we have waited|H6960|V-Piel-Perf-1cp
-v9 ל֔וֹ|lōw||H0|Prep | 3ms
+v9 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v9 נָגִ֥ילָה|nā·ḡî·lāh|Let us rejoice|H1523|V-Qal-Imperf.Cohort-1cp
 v9 וְנִשְׂמְחָ֖ה|wə·niś·mə·ḥāh|and be glad|H8055|Conj-w | V-Qal-ConjImperf.Cohort-1cp
 v9 בִּישׁוּעָתֽוֹ׃|bî·šū·‘ā·ṯōw|in His salvation|H3444|Prep-b | N-fsc | 3ms
@@ -158,4 +158,4 @@ v12 הִשְׁפִּ֛יל|hiš·pîl|...|H8213|V-Hifil-Perf-3ms
 v12 הִגִּ֥יעַ|hig·gî·a‘|cast|H5060|V-Hifil-Perf-3ms
 v12 לָאָ֖רֶץ|lā·’ā·reṣ|to the ground|H776|Prep-l, Art | N-fs
 v12 עַד־|‘aḏ-|into|H5704|Prep
-v12 עָפָֽר׃ס|‘ā·p̄ār|the dust|H6083|N-ms
+v12 עָפָֽר׃|‘ā·p̄ār|the dust|H6083|N-ms

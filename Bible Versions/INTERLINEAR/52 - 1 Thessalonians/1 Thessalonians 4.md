@@ -71,7 +71,7 @@ v5 καὶ|kai|...|G2532|Conj
 v5 τὰ|ta|the|G3588|Art-NNP
 v5 ἔθνη|ethnē|Gentiles|G1484|N-NNP
 v5 τὰ|ta|who|G3588|Art-NNP
-v5 μὴ|mē|vvv|G3361|Adv
+v5 μὴ|mē|...|G3361|Adv
 v5 εἰδότα|eidota|do not know|G1492|V-RPA-NNP
 v5 τὸν|ton|-|G3588|Art-AMS
 v5 Θεόν|Theon|God|G2316|N-AMS
@@ -191,7 +191,7 @@ v12 καὶ|kai|[without]|G2532|Conj
 v12 μηδενὸς|mēdenos|[on anyone]|G3367|Adj-GNS
 v12 χρείαν|chreian|dependent|G5532|N-AFS
 v12 ἔχητε|echēte|being|G2192|V-PSA-2P
-v13 Οὐ|Ou|vvv|G3756|Adv
+v13 Οὐ|Ou|...|G3756|Adv
 v13 θέλομεν|thelomen|we do not want|G2309|V-PIA-1P
 v13 δὲ|de|-|G1161|Conj
 v13 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -201,7 +201,7 @@ v13 περὶ|peri|about|G4012|Prep
 v13 τῶν|tōn|those who|G3588|Art-GMP
 v13 κοιμωμένων|koimōmenōn|sleep [ in death ]|G2837|V-PPM/P-GMP
 v13 ἵνα|hina|so that|G2443|Conj
-v13 μὴ|mē|vvv|G3361|Adv
+v13 μὴ|mē|...|G3361|Adv
 v13 λυπῆσθε|lypēsthe|you will not grieve|G3076|V-PSM/P-2P
 v13 καθὼς|kathōs|like|G2531|Adv
 v13 καὶ|kai|...|G2532|Conj
@@ -220,7 +220,7 @@ v14 ἀπέθανεν|apethanen|died|G599|V-AIA-3S
 v14 καὶ|kai|and|G2532|Conj
 v14 ἀνέστη|anestē|rose again|G450|V-AIA-3S
 v14 οὕτως|houtōs|we also believe that|G3779|Adv
-v14 καὶ|kai|vvv|G2532|Conj
+v14 καὶ|kai|...|G2532|Conj
 v14 ὁ|ho|-|G3588|Art-NMS
 v14 Θεὸς|Theos|God|G2316|N-NMS
 v14 τοὺς|tous|those who|G3588|Art-AMP
@@ -249,8 +249,8 @@ v15 τὴν|tēn|the|G3588|Art-AFS
 v15 παρουσίαν|parousian|coming|G3952|N-AFS
 v15 τοῦ|tou|of the|G3588|Art-GMS
 v15 Κυρίου|Kyriou|Lord|G2962|N-GMS
-v15 οὐ|ou|vvv|G3756|Adv
-v15 μὴ|mē|vvv|G3361|Adv
+v15 οὐ|ou|...|G3756|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 φθάσωμεν|phthasōmen|will by no means precede|G5348|V-ASA-1P
 v15 τοὺς|tous|those who|G3588|Art-AMP
 v15 κοιμηθέντας|koimēthentas|have fallen asleep|G2837|V-APP-AMP

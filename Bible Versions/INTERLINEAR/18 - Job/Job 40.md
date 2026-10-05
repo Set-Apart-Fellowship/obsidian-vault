@@ -1,6 +1,6 @@
 v1 וַיַּ֖עַן|way·ya·‘an|said|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v1 יְהוָ֥ה|Yah·weh|And the LORD|H3068|N-proper-ms
-v1 אֶת־|’eṯ-||H853|DirObjM
+v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 אִיּ֗וֹב|’î·yō·wḇ|to Job|H347|N-proper-ms
 v1 וַיֹּאמַֽר׃|way·yō·mar|...|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 הֲ֭רֹב|hă·rōḇ|contend|H7378|V-Qal-InfAbs
@@ -9,7 +9,7 @@ v2 שַׁדַּ֣י|šad·day|the Almighty|H7706|N-proper-ms
 v2 יִסּ֑וֹר|yis·sō·wr|Will the faultfinder|H3250|N-ms
 v2 מוֹכִ֖יחַ|mō·w·ḵî·aḥ|Let him who argues|H3198|V-Hifil-Prtcpl-ms
 v2 אֱל֣וֹהַּ|’ĕ·lō·w·ah|with God|H433|N-ms
-v2 יַעֲנֶֽנָּה׃פ|ya·‘ă·nen·nāh|give an answer|H6030|V-Qal-Imperf-3ms | 3fs
+v2 יַעֲנֶֽנָּה׃|ya·‘ă·nen·nāh|give an answer|H6030|V-Qal-Imperf-3ms | 3fs
 v3 וַיַּ֖עַן|way·ya·‘an|answered|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v3 אִיּ֥וֹב|’î·yō·wḇ|Then Job|H347|N-proper-ms
 v3 אֶת־|’eṯ-|-|H853|DirObjM
@@ -29,10 +29,10 @@ v5 וְלֹ֣א|wə·lō|but I have no|H3808|Conj-w | Adv-NegPrt
 v5 אֶֽעֱנֶ֑ה|’e·‘ĕ·neh|answer|H6030|V-Qal-Imperf-1cs
 v5 וּ֝שְׁתַּ֗יִם|ū·šə·ta·yim|twice|H8147|Conj-w | Number-fd
 v5 וְלֹ֣א|wə·lō|but I have nothing|H3808|Conj-w | Adv-NegPrt
-v5 אוֹסִֽיף׃פ|’ō·w·sîp̄|to add|H3254|V-Hifil-Imperf-1cs
+v5 אוֹסִֽיף׃|’ō·w·sîp̄|to add|H3254|V-Hifil-Imperf-1cs
 v6 וַיַּֽעַן־|way·ya·‘an-|answered|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v6 יְהוָ֣ה|Yah·weh|Then the LORD|H3068|N-proper-ms
-v6 אֶת־|’eṯ-||H853|DirObjM
+v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 אִ֭יּוֹב|’î·yō·wḇ|Job|H347|N-proper-ms
 v6 מִנ|min|out of|H4480|Prep
 v6 סְעָרָה|sə·ʿå̄·rå̄h|the whirlwind|H5591|N-fs
@@ -52,7 +52,7 @@ v8 תִּצְדָּֽק׃|tiṣ·dāq|justify yourself?|H6663|V-Qal-Imperf-2ms
 v9 וְאִם־|wə·’im-|-|H518|Conj
 v9 זְר֖וֹעַ|zə·rō·w·a‘|Do you have an arm|H2220|N-fs
 v9 כָּאֵ֥ל׀|kā·’êl|like God's|H410|Prep-k, Art | N-ms
-v9 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v9 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v9 וּ֝בְק֗וֹל|ū·ḇə·qō·wl|with a voice|H6963|Conj-w, Prep-b | N-ms
 v9 כָּמֹ֥הוּ|kā·mō·hū|like His|H3644|Prep | 3ms
 v9 תַרְעֵֽם׃|ṯar·‘êm|Can you thunder|H7481|V-Hifil-Imperf.Jus-2ms

@@ -51,7 +51,7 @@ v4 יֶשׁ־|yeš-|he owned|H3426|Adv
 v4 ל֖וֹ|lōw|...|H0|Prep | 3ms
 v4 נָתַ֥ן|nā·ṯan|and entrusted|H5414|V-Qal-Perf-3ms
 v4 בְּיָדֽוֹ׃|bə·yā·ḏōw|him|H3027|Prep-b | N-fsc | 3ms
-v5 וַיְהִ֡י|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v5 וַיְהִ֡י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v5 מֵאָז֩|mê·’āz|From the time|H227|Prep-m | Adv
 v5 הִפְקִ֨יד|hip̄·qîḏ|that he put [Joseph] in charge|H6485|V-Hifil-Perf-3ms
 v5 אֹת֜וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
@@ -202,7 +202,7 @@ v14 וַתִּקְרָ֞א|wat·tiq·rā|she called|H7121|Conj-w | V-Qal-ConsecI
 v14 לְאַנְשֵׁ֣י|lə·’an·šê|servants|H582|Prep-l | N-mpc
 v14 בֵיתָ֗הּ|ḇê·ṯāh|her household|H1004|N-msc | 3fs
 v14 וַתֹּ֤אמֶר|wat·tō·mer|she said|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v14 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v14 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v14 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v14 רְא֗וּ|rə·’ū|Look|H7200|V-Qal-Imp-mp
 v14 הֵ֥בִיא|hê·ḇî|has been brought|H935|V-Hifil-Perf-3ms
@@ -344,4 +344,4 @@ v23 וַֽאֲשֶׁר־|wa·’ă·šer-|in whatever|H834|Conj-w | Pro-r
 v23 ה֥וּא|hū|he|H1931|Pro-3ms
 v23 עֹשֶׂ֖ה|‘ō·śeh|did|H6213|V-Qal-Prtcpl-ms
 v23 יְהוָ֥ה|Yah·weh|-|H3068|N-proper-ms
-v23 מַצְלִֽיחַ׃ס|maṣ·lî·aḥ|and gave him success|H6743|V-Hifil-Prtcpl-ms
+v23 מַצְלִֽיחַ׃|maṣ·lî·aḥ|and gave him success|H6743|V-Hifil-Prtcpl-ms

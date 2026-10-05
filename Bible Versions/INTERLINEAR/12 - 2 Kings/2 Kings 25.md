@@ -64,7 +64,7 @@ v4 הָעֲרָבָֽה׃|hā·‘ă·rā·ḇāh|the Arabah|H6160|Art | N-fs
 v5 וַיִּרְדְּפ֤וּ|way·yir·də·p̄ū|pursued|H7291|Conj-w | V-Qal-ConsecImperf-3mp
 v5 חֵיל־|ḥêl-|but the army|H2428|N-msc
 v5 כַּשְׂדִּים֙|kaś·dîm|of the Chaldeans|H3778|N-proper-mp
-v5 אַחַ֣ר|’a·ḥar||H310|Adv
+v5 אַחַ֣ר|’a·ḥar|-|H310|Adv
 v5 הַמֶּ֔לֶךְ|ham·me·leḵ|[the king]|H4428|Art | N-ms
 v5 וַיַּשִּׂ֥גוּ|way·yaś·śi·ḡū|and overtook|H5381|Conj-w | V-Hifil-ConsecImperf-3mp
 v5 אֹת֖וֹ|’ō·ṯōw|him|H853|DirObjM | 3ms
@@ -98,7 +98,7 @@ v7 עִוֵּ֔ר|‘iw·wêr|they put out|H5786|V-Piel-Perf-3ms
 v7 וַיַּאַסְרֵ֙הוּ֙|way·ya·’as·rê·hū|bound him|H631|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
 v7 בַֽנְחֻשְׁתַּ֔יִם|ḇan·ḥuš·ta·yim|with bronze shackles|H5178|Prep-b, Art | N-fd
 v7 וַיְבִאֵ֖הוּ|way·ḇi·’ê·hū|and took him|H935|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
-v7 בָּבֶֽל׃ס|bā·ḇel|to Babylon|H894|N-proper-fs
+v7 בָּבֶֽל׃|bā·ḇel|to Babylon|H894|N-proper-fs
 v8 וּבַחֹ֤דֶשׁ|ū·ḇa·ḥō·ḏeš|month|H2320|Conj-w, Prep-b, Art | N-ms
 v8 הַֽחֲמִישִׁי֙|ha·ḥă·mî·šî|day of the fifth|H2549|Art | Number-oms
 v8 בְּשִׁבְעָ֣ה|bə·šiḇ·‘āh|On the seventh|H7651|Prep-b | Number-ms
@@ -110,7 +110,7 @@ v8 עֶשְׂרֵ֣ה|‘eś·rêh|...|H6240|Number-fs
 v8 שָׁנָ֔ה|šā·nāh|...|H8141|N-fs
 v8 לַמֶּ֖לֶךְ|lam·me·leḵ|reign|H4428|Prep-l, Art | N-ms
 v8 נְבֻכַדְנֶאצַּ֣ר|nə·ḇu·ḵaḏ·neṣ·ṣar|of Nebuchadnezzar's|H5019|N-proper-ms
-v8 מֶֽלֶךְ־|me·leḵ-||H4428|N-msc
+v8 מֶֽלֶךְ־|me·leḵ-|-|H4428|N-msc
 v8 בָּבֶ֑ל|bā·ḇel|over Babylon|H894|N-proper-fs
 v8 בָּ֞א|bā|entered|H935|V-Qal-Perf-3ms
 v8 נְבוּזַרְאֲדָ֧ן|nə·ḇū·zar·’ă·ḏān|Nebuzaradan|H5018|N-proper-ms
@@ -124,7 +124,7 @@ v9 וַיִּשְׂרֹ֥ף|way·yiś·rōp̄|He burned down|H8313|Conj-w | V-Qa
 v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 בֵּית־|bêṯ-|the house|H1004|N-msc
 v9 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v9 וְאֶת־|wə·’eṯ-||H853|Conj-w | DirObjM
+v9 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v9 בֵּ֣ית|bêṯ|palace|H1004|N-msc
 v9 הַמֶּ֑לֶךְ|ham·me·leḵ|the royal|H4428|Art | N-ms
 v9 וְאֵ֨ת|wə·’êṯ|-|H853|Conj-w | DirObjM
@@ -149,7 +149,7 @@ v10 אֲשֶׁ֖ר|’ă·šer|under|H834|Pro-r
 v10 רַב־|raḇ-|the captain|H7227|N-msc
 v10 טַבָּחִֽים׃|ṭab·bā·ḥîm|of the guard|H2876|N-mp
 v11 וְאֵת֩|wə·’êṯ|-|H853|Conj-w | DirObjM
-v11 יֶ֨תֶר|ye·ṯer|vvv|H3499|N-msc
+v11 יֶ֨תֶר|ye·ṯer|...|H3499|N-msc
 v11 הָעָ֜ם|hā·‘ām|the people|H5971|Art | N-ms
 v11 הַנִּשְׁאָרִ֣ים|han·niš·’ā·rîm|who remained|H7604|Art | V-Nifal-Prtcpl-mp
 v11 בָּעִ֗יר|bā·‘îr|in the city|H5892|Prep-b, Art | N-fs
@@ -208,7 +208,7 @@ v14 כְּלֵ֧י|kə·lê|the articles|H3627|N-mpc
 v14 הַנְּחֹ֛שֶׁת|han·nə·ḥō·šeṯ|of bronze|H5178|Art | N-fs
 v14 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v14 יְשָֽׁרְתוּ־|yə·šā·rə·ṯū-|used in the temple service|H8334|V-Piel-Imperf-3mp
-v14 בָ֖ם|ḇām||H0|Prep | 3mp
+v14 בָ֖ם|ḇām|-|H0|Prep | 3mp
 v14 לָקָֽחוּ׃|lā·qā·ḥū|took away|H3947|V-Qal-Perf-3cp
 v15 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v15 הַמַּחְתּוֹת֙|ham·maḥ·tō·wṯ|the censers|H4289|Art | N-fp
@@ -352,7 +352,7 @@ v22 גְּדַלְיָ֖הוּ|gə·ḏal·yā·hū|Gedaliah|H1436|N-proper-ms
 v22 בֶּן־|ben-|son|H1121|N-msc
 v22 אֲחִיקָ֥ם|’ă·ḥî·qām|of Ahikam|H296|N-proper-ms
 v22 בֶּן־|ben-|the son|H1121|N-msc
-v22 שָׁפָֽן׃פ|šā·p̄ān|of Shaphan|H8227|N-proper-ms
+v22 שָׁפָֽן׃|šā·p̄ān|of Shaphan|H8227|N-proper-ms
 v23 וַיִּשְׁמְעוּ֩|way·yiš·mə·‘ū|heard|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v23 כָל־|ḵāl|When all|H3605|N-msc
 v23 שָׂרֵ֨י|śā·rê|the commanders|H8269|N-mpc
@@ -401,8 +401,8 @@ v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 מֶ֥לֶךְ|me·leḵ|the king|H4428|N-msc
 v24 בָּבֶ֖ל|bā·ḇel|of Babylon|H894|N-proper-fs
 v24 וְיִטַ֥ב|wə·yi·ṭaḇ|and it will be well|H3190|Conj-w | V-Qal-ConjImperf-3ms
-v24 לָכֶֽם׃ס|lā·ḵem|with you|H0|Prep | 2mp
-v25 וַיְהִ֣י׀|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v24 לָכֶֽם׃|lā·ḵem|with you|H0|Prep | 2mp
+v25 וַיְהִ֣י׀|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v25 בַּחֹ֣דֶשׁ|ba·ḥō·ḏeš|month, however|H2320|Prep-b, Art | N-ms
 v25 הַשְּׁבִיעִ֗י|haš·šə·ḇî·‘î|In the seventh|H7637|Art | Number-oms
 v25 בָּ֣א|bā|came|H935|V-Qal-Perf-3ms
@@ -420,7 +420,7 @@ v25 וַיַּכּ֥וּ|way·yak·kū|and struck down|H5221|Conj-w | V-Hifil-Co
 v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 גְּדַלְיָ֖הוּ|gə·ḏal·yā·hū|Gedaliah|H1436|N-proper-ms
 v25 וַיָּמֹ֑ת|way·yā·mōṯ|and killed|H4191|Conj-w | V-Qal-ConsecImperf-3ms
-v25 וְאֶת־|wə·’eṯ-|vvv|H853|Conj-w | DirObjM
+v25 וְאֶת־|wə·’eṯ-|...|H853|Conj-w | DirObjM
 v25 הַיְּהוּדִים֙|hay·yə·hū·ḏîm|along with the Judeans|H3064|Art | N-proper-mp
 v25 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v25 הַכַּשְׂדִּ֔ים|hak·kaś·dîm|and Chaldeans|H3778|Art | N-proper-mp
@@ -441,7 +441,7 @@ v26 מִצְרָ֑יִם|miṣ·rā·yim|to Egypt|H4714|N-proper-fs
 v26 כִּ֥י|kî|for|H3588|Conj
 v26 יָרְא֖וּ|yā·rə·’ū|fear|H3372|V-Qal-Perf-3cp
 v26 מִפְּנֵ֥י|mip·pə·nê|of|H6440|Prep-m | N-cpc
-v26 כַשְׂדִּֽים׃פ|ḵaś·dîm|the Chaldeans|H3778|N-proper-mp
+v26 כַשְׂדִּֽים׃|ḵaś·dîm|the Chaldeans|H3778|N-proper-mp
 v27 וַיְהִי֩|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v27 בִשְׁלֹשִׁ֨ים|ḇiš·lō·šîm|of the thirty-seventh|H7970|Prep-b | Number-cp
 v27 וָשֶׁ֜בַע|wā·še·ḇa‘|...|H7651|Conj-w | Number-fs
@@ -457,7 +457,7 @@ v27 בְּעֶשְׂרִ֥ים|bə·‘eś·rîm|On the twenty-seventh [day]|H62
 v27 וְשִׁבְעָ֖ה|wə·šiḇ·‘āh|...|H7651|Conj-w | Number-ms
 v27 לַחֹ֑דֶשׁ|la·ḥō·ḏeš|...|H2320|Prep-l, Art | N-ms
 v27 נָשָׂ֡א|nā·śā|he released|H5375|V-Qal-Perf-3ms
-v27 אֱוִ֣יל|’ĕ·wîl|vvv|H192|
+v27 אֱוִ֣יל|’ĕ·wîl|...|H192|
 v27 מְרֹדַךְ֩|mə·rō·ḏaḵ|Evil-merodach|H192|N-proper-ms
 v27 מֶ֨לֶךְ|me·leḵ|became king|H4428|N-msc
 v27 בָּבֶ֜ל|bā·ḇel|of Babylon|H894|N-proper-fs
@@ -493,16 +493,16 @@ v29 לְפָנָ֖יו|lə·p̄ā·nāw|at the king's table|H6440|Prep-l | N-cpc
 v29 כָּל־|kāl-|for the rest|H3605|N-msc
 v29 יְמֵ֥י|yə·mê|...|H3117|N-mpc
 v29 חַיָּֽיו׃|ḥay·yāw|of his life|H2416|N-mpc | 3ms
-v30 וַאֲרֻחָת֗וֹ|wa·’ă·ru·ḥā·ṯōw|vvv|H737|Conj-w | N-fsc | 3ms
-v30 אֲרֻחַ֨ת|’ă·ru·ḥaṯ||H737|N-fsc
+v30 וַאֲרֻחָת֗וֹ|wa·’ă·ru·ḥā·ṯōw|...|H737|Conj-w | N-fsc | 3ms
+v30 אֲרֻחַ֨ת|’ă·ru·ḥaṯ|-|H737|N-fsc
 v30 תָּמִ֧יד|tā·mîḏ|portion|H8548|Adv
 v30 נִתְּנָה־|nit·tə·nāh-|provided [Jehoiachin]|H5414|V-Nifal-Perf-3fs
-v30 לּ֛וֹ|lōw||H0|Prep | 3ms
+v30 לּ֛וֹ|lōw|-|H0|Prep | 3ms
 v30 מֵאֵ֥ת|mê·’êṯ|-|H854|Prep-m | DirObjM
 v30 הַמֶּ֖לֶךְ|ham·me·leḵ|And the king|H4428|Art | N-ms
-v30 דְּבַר־|də·ḇar-||H1697|N-msc
+v30 דְּבַר־|də·ḇar-|-|H1697|N-msc
 v30 י֣וֹם|yō·wm|a daily|H3117|N-ms
-v30 בְּיוֹמ֑וֹ|bə·yō·w·mōw||H3117|Prep-b | N-msc | 3ms
+v30 בְּיוֹמ֑וֹ|bə·yō·w·mōw|-|H3117|Prep-b | N-msc | 3ms
 v30 כֹּ֖ל|kōl|for the rest|H3605|N-msc
 v30 יְמֵ֥י|yə·mê|...|H3117|N-mpc
 v30 חַיָּֽו׃|ḥay·yāw|of his life|H2416|N-mpc | 3ms

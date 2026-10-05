@@ -22,7 +22,7 @@ v3 לְדוֹדִי֙|lə·ḏō·w·ḏî|belong to my beloved|H1730|Prep-l | N
 v3 וְדוֹדִ֣י|wə·ḏō·w·ḏî|and [he]|H1730|Conj-w | N-msc | 1cs
 v3 לִ֔י|lî|belongs to me|H0|Prep | 1cs
 v3 הָרֹעֶ֖ה|hā·rō·‘eh|he pastures [his flock]|H7462|Art | V-Qal-Prtcpl-ms
-v3 בַּשׁוֹשַׁנִּֽים׃ס|ba·šō·šan·nīm|among the lilies|H7799|Prep-b, Art | N-cs
+v3 בַּשׁוֹשַׁנִּֽים׃|ba·šō·šan·nīm|among the lilies|H7799|Prep-b, Art | N-cs
 v4 יָפָ֨ה|yā·p̄āh|are as beautiful|H3303|Adj-fs
 v4 אַ֤תְּ|’at|You|H859|Pro-2fs
 v4 רַעְיָתִי֙|ra‘·yā·ṯî|my darling|H7474|N-fsc | 1cs
@@ -81,7 +81,7 @@ v9 בָנוֹת֙|ḇā·nō·wṯ|The maidens|H1323|N-fp
 v9 וַֽיְאַשְּׁר֔וּהָ|way·’aš·šə·rū·hā|and call her blessed|H833|Conj-w | V-Piel-ConsecImperf-3mp | 3fs
 v9 מְלָכ֥וֹת|mə·lā·ḵō·wṯ|the queens|H4436|N-fp
 v9 וּפִֽילַגְשִׁ֖ים|ū·p̄î·laḡ·šîm|and concubines|H6370|Conj-w | N-fp
-v9 וַֽיְהַלְלֽוּהָ׃ס|way·hal·lū·hā|sing her praises|H1984|Conj-w | V-Piel-ConsecImperf-3mp | 3fs
+v9 וַֽיְהַלְלֽוּהָ׃|way·hal·lū·hā|sing her praises|H1984|Conj-w | V-Piel-ConsecImperf-3mp | 3fs
 v10 מִי־|mî-|Who|H4310|Interrog
 v10 זֹ֥את|zōṯ|is this|H2063|Pro-fs
 v10 הַנִּשְׁקָפָ֖ה|han·niš·qā·p̄āh|who shines|H8259|Art | V-Nifal-Prtcpl-fs
@@ -92,7 +92,7 @@ v10 כַלְּבָנָ֗ה|ḵal·lə·ḇā·nāh|as the moon|H3842|Prep-k, Art
 v10 בָּרָה֙|bā·rāh|as bright|H1249|Adj-fs
 v10 כַּֽחַמָּ֔ה|ka·ḥam·māh|as the sun|H2535|Prep-k, Art | N-fs
 v10 אֲיֻמָּ֖ה|’ă·yum·māh|as majestic|H366|Adj-fs
-v10 כַּנִּדְגָּלֽוֹת׃ס|kan·niḏ·gā·lō·wṯ|as the stars in procession|H1713|Prep-k, Art | V-Nifal-Prtcpl-fp
+v10 כַּנִּדְגָּלֽוֹת׃|kan·niḏ·gā·lō·wṯ|as the stars in procession|H1713|Prep-k, Art | V-Nifal-Prtcpl-fp
 v11 אֶל־|’el-|to|H413|Prep
 v11 גִּנַּ֤ת|gin·naṯ|grove|H1594|N-fsc
 v11 אֱגוֹז֙|’ĕ·ḡō·wz|the walnut|H93|N-ms

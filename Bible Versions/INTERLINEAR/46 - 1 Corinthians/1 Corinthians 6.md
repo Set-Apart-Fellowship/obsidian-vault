@@ -16,7 +16,7 @@ v1 ἐπὶ|epi|before|G1909|Prep
 v1 τῶν|tōn|the|G3588|Art-GMP
 v1 ἁγίων|hagiōn|saints|G40|Adj-GMP
 v2 ἢ|ē|-|G2228|Conj
-v2 οὐκ|ouk|vvv|G3756|Adv
+v2 οὐκ|ouk|...|G3756|Adv
 v2 οἴδατε|oidate|Do you not know|G1492|V-RIA-2P
 v2 ὅτι|hoti|that|G3754|Conj
 v2 οἱ|hoi|the|G3588|Art-NMP
@@ -32,10 +32,10 @@ v2 κρίνεται|krinetai|are to judge|G2919|V-PIM/P-3S
 v2 ὁ|ho|the|G3588|Art-NMS
 v2 κόσμος|kosmos|world|G2889|N-NMS
 v2 ἀνάξιοί|anaxioi|are you not competent|G370|Adj-NMP
-v2 ἐστε|este|vvv|G1510|V-PIA-2P
+v2 ἐστε|este|...|G1510|V-PIA-2P
 v2 κριτηρίων|kritēriōn|cases|G2922|N-GNP
 v2 ἐλαχίστων|elachistōn|[ to judge ] trivial|G1646|Adj-GNP-S
-v3 οὐκ|ouk|vvv|G3756|Adv
+v3 οὐκ|ouk|...|G3756|Adv
 v3 οἴδατε|oidate|Do you not know|G1492|V-RIA-2P
 v3 ὅτι|hoti|that|G3754|Conj
 v3 ἀγγέλους|angelous|angels|G32|N-AMP
@@ -55,7 +55,7 @@ v4 τῇ|tē|the|G3588|Art-DFS
 v4 ἐκκλησίᾳ|ekklēsia|church|G1577|N-DFS
 v4 τούτους|toutous|those|G3778|DPro-AMP
 v4 καθίζετε|kathizete|do you appoint [as judges]|G2523|V-PIA-2P
-v5 πρὸς|pros|vvv|G4314|Prep
+v5 πρὸς|pros|...|G4314|Prep
 v5 ἐντροπὴν|entropēn|shame|G1791|N-AFS
 v5 ὑμῖν|hymin|to your|G4771|PPro-D2P
 v5 λέγω|legō|I say this|G3004|V-PIA-1S
@@ -84,7 +84,7 @@ v6 τοῦτο|touto|this|G3778|DPro-NNS
 v6 ἐπὶ|epi|in front of|G1909|Prep
 v6 ἀπίστων|apistōn|unbelievers|G571|Adj-GMP
 v7 ἤδη|Ēdē|already|G2235|Adv
-v7 μὲν|men|vvv|G3303|Conj
+v7 μὲν|men|...|G3303|Conj
 v7 οὖν|oun|-|G3767|Conj
 v7 ὅλως|holōs|{are} thoroughly|G3654|Adv
 v7 ἥττημα|hēttēma|defeated|G2275|N-NNS
@@ -113,14 +113,14 @@ v8 ἀποστερεῖτε|apostereite|cheat|G650|V-PIA-2P
 v8 καὶ|kai|even|G2532|Conj
 v8 τοῦτο|touto|[against your own]|G3778|DPro-NNS
 v8 ἀδελφούς|adelphous|brothers|G80|N-AMP
-v9 Ἢ|Ē|vvv|G2228|Conj
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 Ἢ|Ē|...|G2228|Conj
+v9 οὐκ|ouk|...|G3756|Adv
 v9 οἴδατε|oidate|Do you not know|G1492|V-RIA-2P
 v9 ὅτι|hoti|that|G3754|Conj
 v9 ἄδικοι|adikoi|[the] wicked|G94|Adj-NMP
 v9 Θεοῦ|Theou|of God|G2316|N-GMS
 v9 βασιλείαν|basileian|[the] kingdom|G932|N-AFS
-v9 οὐ|ou|vvv|G3756|Adv
+v9 οὐ|ou|...|G3756|Adv
 v9 κληρονομήσουσιν|klēronomēsousin|will not inherit|G2816|V-FIA-3P
 v9 μὴ|mē|{Do} not|G3361|Adv
 v9 πλανᾶσθε|planasthe|be deceived|G4105|V-PMM/P-2P
@@ -182,7 +182,7 @@ v12 Πάντα|Panta|Everything|G3956|Adj-NNP
 v12 μοι|moi|for me|G1473|PPro-D1S
 v12 ἔξεστιν|exestin|is permissible|G1832|V-PIA-3S
 v12 ἀλλ’|all’|but|G235|Conj
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 ἐγὼ|egō|I|G1473|PPro-N1S
 v12 ἐξουσιασθήσομαι|exousiasthēsomai|will not be mastered|G1850|V-FIP-1S
 v12 ὑπό|hypo|by|G5259|Prep
@@ -232,7 +232,7 @@ v14 διὰ|dia|By|G1223|Prep
 v14 τῆς|tēs|-|G3588|Art-GFS
 v14 δυνάμεως|dynameōs|power|G1411|N-GFS
 v14 αὐτοῦ|autou|His|G846|PPro-GM3S
-v15 Οὐκ|Ouk|vvv|G3756|Adv
+v15 Οὐκ|Ouk|...|G3756|Adv
 v15 οἴδατε|oidate|Do you not know|G1492|V-RIA-2P
 v15 ὅτι|hoti|that|G3754|Conj
 v15 τὰ|ta|-|G3588|Art-NNP
@@ -242,7 +242,7 @@ v15 μέλη|melē|members|G3196|N-NNP
 v15 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v15 ἐστιν|estin|are|G1510|V-PIA-3S
 v15 ἄρας|aras|Shall I then take|G142|V-APA-NMS
-v15 οὖν|oun|vvv|G3767|Conj
+v15 οὖν|oun|...|G3767|Conj
 v15 τὰ|ta|the|G3588|Art-ANP
 v15 μέλη|melē|members|G3196|N-ANP
 v15 τοῦ|tou|-|G3588|Art-GMS
@@ -250,10 +250,10 @@ v15 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v15 ποιήσω|poiēsō|and unite [them]|G4160|V-ASA-1S
 v15 πόρνης|pornēs|with a prostitute|G4204|N-GFS
 v15 μέλη|melē|...|G3196|N-ANP
-v15 μὴ|mē|vvv|G3361|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 γένοιτο|genoito|Never|G1096|V-AOM-3S
 v16 ἢ|ē|Or|G2228|Conj
-v16 οὐκ|ouk|vvv|G3756|Adv
+v16 οὐκ|ouk|...|G3756|Adv
 v16 οἴδατε|oidate|don't you know|G1492|V-RIA-2P
 v16 ὅτι|hoti|that|G3754|Conj
 v16 ὁ|ho|he who|G3588|Art-NMS
@@ -285,7 +285,7 @@ v18 πορνείαν|porneian|sexual immorality|G4202|N-AFS
 v18 πᾶν|pan|Every [other]|G3956|Adj-NNS
 v18 ἁμάρτημα|hamartēma|sin|G265|N-NNS
 v18 ὃ|ho|-|G3739|RelPro-ANS
-v18 ἐὰν|ean|vvv|G1437|Conj
+v18 ἐὰν|ean|...|G1437|Conj
 v18 ποιήσῃ|poiēsē|can commit|G4160|V-ASA-3S
 v18 ἄνθρωπος|anthrōpos|a man|G444|N-NMS
 v18 ἐκτὸς|ektos|outside|G1622|Prep
@@ -301,7 +301,7 @@ v18 ἴδιον|idion|own|G2398|Adj-ANS
 v18 σῶμα|sōma|body|G4983|N-ANS
 v18 ἁμαρτάνει|hamartanei|sins|G264|V-PIA-3S
 v19 ἢ|ē|-|G2228|Conj
-v19 οὐκ|ouk|vvv|G3756|Adv
+v19 οὐκ|ouk|...|G3756|Adv
 v19 οἴδατε|oidate|Do you not know|G1492|V-RIA-2P
 v19 ὅτι|hoti|that|G3754|Conj
 v19 τὸ|to|-|G3588|Art-NNS

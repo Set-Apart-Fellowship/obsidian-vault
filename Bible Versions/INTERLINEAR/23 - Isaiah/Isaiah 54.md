@@ -1,6 +1,6 @@
 v1 רָנִּ֥י|rān·nî|Shout for joy|H7442|V-Qal-Imp-fs
 v1 עֲקָרָ֖ה|‘ă·qā·rāh|O barren woman|H6135|Adj-fs
-v1 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v1 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v1 יָלָ֑דָה|yā·lā·ḏāh|who bears no children|H3205|V-Qal-Perf-3fs
 v1 פִּצְחִ֨י|piṣ·ḥî|break forth|H6476|V-Qal-Imp-fs
 v1 רִנָּ֤ה|rin·nāh|in song|H7440|N-fs
@@ -99,9 +99,9 @@ v8 עוֹלָ֖ם|‘ō·w·lām|but with everlasting|H5769|N-ms
 v8 רִֽחַמְתִּ֑יךְ|ri·ḥam·tîḵ|I will have compassion on you|H7355|V-Piel-Perf-1cs | 2fs
 v8 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v8 גֹּאֲלֵ֖ךְ|gō·’ă·lêḵ|your Redeemer|H1350|V-Qal-Prtcpl-msc | 2fs
-v8 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v8 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v9 כִּי־|kî-|For|H3588|Conj
-v9 מֵ֥י|mê|vvv|H4325|N-mpc
+v9 מֵ֥י|mê|...|H4325|N-mpc
 v9 נֹ֙חַ֙|nō·aḥ|the days of Noah|H5146|N-proper-ms
 v9 זֹ֣את|zōṯ|this is like|H2063|Pro-fs
 v9 לִ֔י|lî|to Me|H0|Prep | 1cs
@@ -111,7 +111,7 @@ v9 מֵעֲבֹ֥ר|mê·‘ă·ḇōr|cover|H5674|Prep-m | V-Qal-Inf
 v9 מֵי־|mê-|that the waters|H4325|N-mpc
 v9 נֹ֛חַ|nō·aḥ|of Noah|H5146|N-proper-ms
 v9 ע֖וֹד|‘ō·wḏ|would never again|H5750|Adv
-v9 עַל־|‘al-||H5921|Prep
+v9 עַל־|‘al-|-|H5921|Prep
 v9 הָאָ֑רֶץ|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v9 כֵּ֥ן|kên|So|H3651|Adv
 v9 נִשְׁבַּ֛עְתִּי|niš·ba‘·tî|I have sworn|H7650|V-Nifal-Perf-1cs
@@ -134,7 +134,7 @@ v10 לֹ֣א|lō|will not|H3808|Adv-NegPrt
 v10 תָמ֔וּט|ṯā·mūṭ|be broken|H4131|V-Qal-Imperf-3fs
 v10 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v10 מְרַחֲמֵ֖ךְ|mə·ra·ḥă·mêḵ|who has compassion on you|H7355|V-Piel-Prtcpl-msc | 2fs
-v10 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v10 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v11 עֲנִיָּ֥ה|‘ă·nî·yāh|O afflicted city|H6041|Adj-fs
 v11 סֹעֲרָ֖ה|sō·‘ă·rāh|lashed by storms|H5590|V-Pual-Perf-3fs
 v11 לֹ֣א|lō|without|H3808|Adv-NegPrt
@@ -199,7 +199,7 @@ v16 וְאָנֹכִ֛י|wə·’ā·nō·ḵî|and I|H595|Conj-w | Pro-1cs
 v16 בָּרָ֥אתִי|bā·rā·ṯî|have created|H1254|V-Qal-Perf-1cs
 v16 מַשְׁחִ֖ית|maš·ḥîṯ|the destroyer|H7843|V-Hifil-Prtcpl-ms
 v16 לְחַבֵּֽל׃|lə·ḥab·bêl|to wreak havoc|H2254|Prep-l | V-Piel-Inf
-v17 כָּל־|kāl-|vvv|H3605|N-msc
+v17 כָּל־|kāl-|...|H3605|N-msc
 v17 כְּלִ֞י|kə·lî|weapon|H3627|N-ms
 v17 יוּצַ֤ר|yū·ṣar|formed|H3335|V-Hofal-Imperf-3ms
 v17 עָלַ֙יִךְ֙|‘ā·la·yiḵ|against you|H5921|Prep | 2fs
@@ -218,4 +218,4 @@ v17 יְהוָ֧ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v17 וְצִדְקָתָ֛ם|wə·ṣiḏ·qā·ṯām|and their vindication|H6666|Conj-w | N-fsc | 3mp
 v17 מֵאִתִּ֖י|mê·’it·tî|[is] from Me|H854|Prep-m | DirObjM | 1cs
 v17 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v17 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v17 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

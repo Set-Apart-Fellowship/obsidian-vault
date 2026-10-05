@@ -2,7 +2,7 @@ v1 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v1 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v1 אֵלַ֔י|’ê·lay|to me|H413|Prep | 1cs
 v1 קַח־|qaḥ-|Take|H3947|V-Qal-Imp-ms
-v1 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v1 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v1 גִּלָּי֣וֹן|gil·lā·yō·wn|scroll|H1549|N-ms
 v1 גָּד֑וֹל|gā·ḏō·wl|a large|H1419|Adj-ms
 v1 וּכְתֹ֤ב|ū·ḵə·ṯōḇ|and write|H3789|Conj-w | V-Qal-Imp-ms
@@ -55,7 +55,7 @@ v4 שְׁלַ֣ל|šə·lal|the plunder|H7998|N-msc
 v4 שֹׁמְר֔וֹן|šō·mə·rō·wn|of Samaria|H8111|N-proper-fs
 v4 לִפְנֵ֖י|lip̄·nê|by|H6440|Prep-l | N-cpc
 v4 מֶ֥לֶךְ|me·leḵ|the king|H4428|N-msc
-v4 אַשּֽׁוּר׃ס|’aš·šūr|of Assyria|H804|N-proper-fs
+v4 אַשּֽׁוּר׃|’aš·šūr|of Assyria|H804|N-proper-fs
 v5 וַיֹּ֣סֶף|way·yō·sep̄|me|H3254|Conj-w | V-Hifil-ConsecImperf-3ms
 v5 יְהוָ֔ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v5 דַּבֵּ֥ר|dab·bêr|spoke|H1696|V-Piel-Inf
@@ -86,8 +86,8 @@ v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 מֵ֣י|mê|floodwaters|H4325|N-mpc
 v7 הַנָּהָ֗ר|han·nā·hār|of the Euphrates|H5104|Art | N-ms
 v7 הָעֲצוּמִים֙|hā·‘ă·ṣū·mîm|the mighty|H6099|Art | Adj-mp
-v7 וְהָ֣רַבִּ֔ים|wə·hā·rab·bîm|vvv|H7227|Conj-w, Art | Adj-mp
-v7 אֶת־|’eṯ-|vvv|H853|DirObjM
+v7 וְהָ֣רַבִּ֔ים|wə·hā·rab·bîm|...|H7227|Conj-w, Art | Adj-mp
+v7 אֶת־|’eṯ-|...|H853|DirObjM
 v7 מֶ֥לֶךְ|me·leḵ|the king|H4428|N-msc
 v7 אַשּׁ֖וּר|’aš·šūr|of Assyria|H804|N-proper-fs
 v7 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -114,8 +114,8 @@ v8 כְּנָפָ֔יו|kə·nā·p̄āw|...|H3671|N-fpc | 3ms
 v8 מְלֹ֥א|mə·lō|will cover|H4393|N-msc
 v8 רֹֽחַב־|rō·ḥaḇ-|your entire|H7341|N-msc
 v8 אַרְצְךָ֖|’ar·ṣə·ḵā|land|H776|N-fsc | 2ms
-v8 עִמָּ֥נוּ|‘im·mā·nū|vvv|H6005|
-v8 אֵֽל׃ס|’êl|O Immanuel|H6005|N-proper-ms
+v8 עִמָּ֥נוּ|‘im·mā·nū|...|H6005|
+v8 אֵֽל׃|’êl|O Immanuel|H6005|N-proper-ms
 v9 רֹ֤עוּ|rō·‘ū|Huddle together|H7489|V-Qal-Imp-mp
 v9 עַמִּים֙|‘am·mîm|O peoples|H5971|N-mp
 v9 וָחֹ֔תּוּ|wā·ḥōt·tū|and be shattered|H2865|Conj-w | V-Qal-Imp-mp
@@ -136,7 +136,7 @@ v10 וְלֹ֣א|wə·lō|but it will not|H3808|Conj-w | Adv-NegPrt
 v10 יָק֔וּם|yā·qūm|happen|H6965|V-Qal-Imperf-3ms
 v10 כִּ֥י|kî|For|H3588|Conj
 v10 עִמָּ֖נוּ|‘im·mā·nū|is with us|H5973|Prep | 1cp
-v10 אֵֽל׃ס|’êl|God|H410|N-ms
+v10 אֵֽל׃|’êl|God|H410|N-ms
 v11 כִּי֩|kî|For|H3588|Conj
 v11 כֹ֨ה|ḵōh|this is what|H3541|Adv
 v11 אָמַ֧ר|’ā·mar|has spoken|H559|V-Qal-Perf-3ms
@@ -193,7 +193,7 @@ v15 רַבִּ֑ים|rab·bîm|Many|H7227|Adj-mp
 v15 וְנָפְל֣וּ|wə·nā·p̄ə·lū|they will fall|H5307|Conj-w | V-Qal-ConjPerf-3cp
 v15 וְנִשְׁבָּ֔רוּ|wə·niš·bā·rū|and be broken|H7665|Conj-w | V-Nifal-ConjPerf-3cp
 v15 וְנוֹקְשׁ֖וּ|wə·nō·wq·šū|they will be ensnared|H3369|Conj-w | V-Nifal-ConjPerf-3cp
-v15 וְנִלְכָּֽדוּ׃ס|wə·nil·kā·ḏū|and captured|H3920|Conj-w | V-Nifal-ConjPerf-3cp
+v15 וְנִלְכָּֽדוּ׃|wə·nil·kā·ḏū|and captured|H3920|Conj-w | V-Nifal-ConjPerf-3cp
 v16 צ֖וֹר|ṣō·wr|Bind up|H6887|V-Qal-Imp-ms
 v16 תְּעוּדָ֑ה|tə·‘ū·ḏāh|the testimony|H8584|N-fs
 v16 חֲת֥וֹם|ḥă·ṯō·wm|[and] seal|H2856|V-Qal-Imp-ms
@@ -222,7 +222,7 @@ v18 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v18 צְבָא֔וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v18 הַשֹּׁכֵ֖ן|haš·šō·ḵên|who dwells|H7931|Art | V-Qal-Prtcpl-ms
 v18 בְּהַ֥ר|bə·har|on Mount|H2022|Prep-b | N-msc
-v18 צִיּֽוֹן׃ס|ṣî·yō·wn|Zion|H6726|N-proper-fs
+v18 צִיּֽוֹן׃|ṣî·yō·wn|Zion|H6726|N-proper-fs
 v19 וְכִֽי־|wə·ḵî-|When|H3588|Conj
 v19 יֹאמְר֣וּ|yō·mə·rū|men tell|H559|V-Qal-Imperf-3mp
 v19 אֲלֵיכֶ֗ם|’ă·lê·ḵem|you|H413|Prep | 2mp
@@ -251,10 +251,10 @@ v20 כַּדָּבָ֣ר|kad·dā·ḇār|word|H1697|Prep-k, Art | N-ms
 v20 הַזֶּ֔ה|haz·zeh|according to this|H2088|Art | Pro-ms
 v20 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v20 אֵֽין־|’ên-|they have no|H369|Adv
-v20 ל֖וֹ|lōw||H0|Prep | 3ms
+v20 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v20 שָֽׁחַר׃|šā·ḥar|light of dawn|H7837|N-ms
 v21 וְעָ֥בַר|wə·‘ā·ḇar|They will roam the land|H5674|Conj-w | V-Qal-ConjPerf-3ms
-v21 בָּ֖הּ|bāh||H0|Prep | 3fs
+v21 בָּ֖הּ|bāh|-|H0|Prep | 3fs
 v21 נִקְשֶׁ֣ה|niq·šeh|dejected|H7185|V-Nifal-Prtcpl-ms
 v21 וְרָעֵ֑ב|wə·rā·‘êḇ|and hungry|H7457|Conj-w | Adj-ms
 v21 וְהָיָ֨ה|wə·hā·yāh|...|H1961|Conj-w | V-Qal-ConjPerf-3ms

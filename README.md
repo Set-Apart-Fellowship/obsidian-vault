@@ -147,6 +147,7 @@ The lemma index it relies on (`Utilities/data/lxx-lemma-index.json`) ships prebu
 | LXX | Swete Greek Septuagint (1909–1930) |
 | BRENTON | Brenton's English LXX (1851) |
 | INTERLINEAR | Hebrew/Greek with transliteration, Strong's, and morphology |
+| INTERLINEAR (NT) | Greek text from bereanbible.com. Not the Textus Receptus: Mark 7:19 reads καθαρίζων (TR: καθαρίζον). |
 
 > **BASIC (Bible in Basic English)** is not included in this repo. It is public domain in the United States, but its copyright status outside the US is ambiguous due to GATT restoration and UK considerations. Users who want BBE can source it themselves and add it locally.
 

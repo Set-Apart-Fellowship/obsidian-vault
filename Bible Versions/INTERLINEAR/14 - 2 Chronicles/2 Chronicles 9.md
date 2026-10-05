@@ -32,7 +32,7 @@ v1 הָיָ֖ה|hā·yāh|was|H1961|V-Qal-Perf-3ms
 v1 עִם־|‘im-|on|H5973|Prep
 v1 לְבָבָֽהּ׃|lə·ḇā·ḇāh|her mind|H3824|N-msc | 3fs
 v2 וַיַּגֶּד־|way·yag·geḏ-|answered|H5046|Conj-w | V-Hifil-ConsecImperf-3ms
-v2 לָ֥הּ|lāh||H0|Prep | 3fs
+v2 לָ֥הּ|lāh|-|H0|Prep | 3fs
 v2 שְׁלֹמֹ֖ה|šə·lō·mōh|And Solomon|H8010|N-proper-ms
 v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 כָּל־|kāl-|all|H3605|N-msc
@@ -71,7 +71,7 @@ v4 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v4 וְלֹא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v4 הָ֥יָה|hā·yāh|...|H1961|V-Qal-Perf-3ms
 v4 ע֛וֹד|‘ō·wḏ|...|H5750|Adv
-v4 בָּ֖הּ|bāh||H0|Prep | 3fs
+v4 בָּ֖הּ|bāh|-|H0|Prep | 3fs
 v4 רֽוּחַ׃|rū·aḥ|it took her breath away|H7307|N-cs
 v5 וַתֹּ֙אמֶר֙|wat·tō·mer|She said|H559|Conj-w | V-Qal-ConsecImperf-3fs
 v5 אֶל־|’el-|to|H413|Prep
@@ -214,7 +214,7 @@ v12 וַֽתַּהֲפֹ֛ךְ|wat·ta·hă·p̄ōḵ|left|H2015|Conj-w | V-Qal
 v12 וַתֵּ֥לֶךְ|wat·tê·leḵ|and returned|H1980|Conj-w | V-Qal-ConsecImperf-3fs
 v12 לְאַרְצָ֖הּ|lə·’ar·ṣāh|to her own country|H776|Prep-l | N-fsc | 3fs
 v12 הִ֥יא|hî|Then she|H1931|Pro-3fs
-v12 וַעֲבָדֶֽיהָ׃פ|wa·‘ă·ḇā·ḏe·hā|along with her servants|H5650|Conj-w | N-mpc | 3fs
+v12 וַעֲבָדֶֽיהָ׃|wa·‘ă·ḇā·ḏe·hā|along with her servants|H5650|Conj-w | N-mpc | 3fs
 v13 וַיְהִי֙|way·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v13 מִשְׁקַ֣ל|miš·qal|The weight|H4948|N-msc
 v13 הַזָּהָ֔ב|haz·zā·hāḇ|of gold|H2091|Art | N-ms
@@ -274,7 +274,7 @@ v16 וַיִּתְּנֵ֣ם|way·yit·tə·nêm|put them|H5414|Conj-w | V-Qal-C
 v16 הַמֶּ֔לֶךְ|ham·me·leḵ|And the king|H4428|Art | N-ms
 v16 בְּבֵ֖ית|bə·ḇêṯ|in the House|H1004|Prep-b | N-msc
 v16 יַ֥עַר|ya·‘ar|of the Forest|H3293|N-msc
-v16 הַלְּבָנֽוֹן׃פ|hal·lə·ḇā·nō·wn|of Lebanon|H3844|Art | N-proper-fs
+v16 הַלְּבָנֽוֹן׃|hal·lə·ḇā·nō·wn|of Lebanon|H3844|Art | N-proper-fs
 v17 וַיַּ֧עַשׂ|way·ya·‘aś|made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v17 הַמֶּ֛לֶךְ|ham·me·leḵ|Additionally, the king|H4428|Art | N-ms
 v17 כִּסֵּא־|kis·sê-|throne|H3678|N-ms
@@ -288,7 +288,7 @@ v18 מַעֲל֣וֹת|ma·‘ă·lō·wṯ|steps|H4609|N-fp
 v18 לַ֠כִּסֵּא|lak·kis·sê|The throne|H3678|Prep-l, Art | N-ms
 v18 וְכֶ֨בֶשׁ|wə·ḵe·ḇeš|and a footstool|H3534|Conj-w | N-ms
 v18 בַּזָּהָ֤ב|baz·zā·hāḇ|of gold|H2091|Prep-b, Art | N-ms
-v18 לַכִּסֵּא֙|lak·kis·sê|vvv|H3678|Prep-l, Art | N-ms
+v18 לַכִּסֵּא֙|lak·kis·sê|...|H3678|Prep-l, Art | N-ms
 v18 מָאֳחָזִ֔ים|mā·’o·ḥā·zîm|was attached to it|H270|V-Hofal-Prtcpl-mp
 v18 וְיָד֛וֹת|wə·yā·ḏō·wṯ|There were armrests|H3027|Conj-w | N-fp
 v18 מִזֶּ֥ה|miz·zeh|on both sides|H2088|Prep-m | Pro-ms
@@ -354,7 +354,7 @@ v21 זָהָ֣ב|zā·hāḇ|gold|H2091|N-ms
 v21 וָכֶ֔סֶף|wā·ḵe·sep̄|silver|H3701|Conj-w | N-ms
 v21 שֶׁנְהַבִּ֥ים|šen·hab·bîm|ivory|H8143|N-mp
 v21 וְקוֹפִ֖ים|wə·qō·w·p̄îm|apes|H6971|Conj-w | N-mp
-v21 וְתוּכִּיִּֽים׃פ|wə·ṯū·kî·yîm|and peacocks|H8500|Conj-w | N-mp
+v21 וְתוּכִּיִּֽים׃|wə·ṯū·kî·yîm|and peacocks|H8500|Conj-w | N-mp
 v22 וַיִּגְדַּל֙|way·yiḡ·dal|surpassed|H1431|Conj-w | V-Qal-ConsecImperf-3ms
 v22 הַמֶּ֣לֶךְ|ham·me·leḵ|So King|H4428|Art | N-ms
 v22 שְׁלֹמֹ֔ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -392,10 +392,10 @@ v24 סוּסִ֖ים|sū·sîm|horses|H5483|N-mp
 v24 וּפְרָדִ֑ים|ū·p̄ə·rā·ḏîm|and mules|H6505|Conj-w | N-mp
 v24 דְּבַר־|də·ḇar-|-|H1697|N-msc
 v24 שָׁנָ֖ה|šā·nāh|Year|H8141|N-fs
-v24 בְּשָׁנָֽה׃פ|bə·šā·nāh|after year|H8141|Prep-b | N-fs
+v24 בְּשָׁנָֽה׃|bə·šā·nāh|after year|H8141|Prep-b | N-fs
 v25 וַיְהִ֨י|way·hî|had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v25 לִשְׁלֹמֹ֜ה|liš·lō·mōh|Solomon|H8010|Prep-l | N-proper-ms
-v25 אַרְבַּעַת֩|’ar·ba·‘aṯ|4,000 {}|H702|Number-msc
+v25 אַרְבַּעַת֩|’ar·ba·‘aṯ|4,000|H702|Number-msc
 v25 אֲלָפִ֨ים|’ă·lā·p̄îm|...|H505|Number-mp
 v25 אֻֽרְי֤וֹת|’ur·yō·wṯ|stalls|H723|N-fpc
 v25 סוּסִים֙|sū·sîm|for horses|H5483|N-mp
@@ -483,4 +483,4 @@ v31 אָבִ֑יו|’ā·ḇîw|of his father|H1|N-msc | 3ms
 v31 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v31 רְחַבְעָ֥ם|rə·ḥaḇ·‘ām|Rehoboam|H7346|N-proper-ms
 v31 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v31 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v31 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

@@ -13,7 +13,7 @@ v2 ἡ|hē|The|G3588|Art-NFS
 v2 βασιλεία|basileia|kingdom|G932|N-NFS
 v2 τῶν|tōn|of|G3588|Art-GMP
 v2 οὐρανῶν|ouranōn|heaven|G3772|N-GMP
-v2 ἀνθρώπῳ|anthrōpō|vvv|G444|N-DMS
+v2 ἀνθρώπῳ|anthrōpō|...|G444|N-DMS
 v2 βασιλεῖ|basilei|a king|G935|N-DMS
 v2 ὅστις|hostis|who|G3748|RelPro-NMS
 v2 ἐποίησεν|epoiēsen|prepared|G4160|V-AIA-3S
@@ -180,7 +180,7 @@ v12 Ἑταῖρε|Hetaire|Friend|G2083|N-VMS
 v12 πῶς|pōs|how|G4459|Adv
 v12 εἰσῆλθες|eisēlthes|did you get in|G1525|V-AIA-2S
 v12 ὧδε|hōde|here|G5602|Adv
-v12 μὴ|mē|vvv|G3361|Adv
+v12 μὴ|mē|...|G3361|Adv
 v12 ἔχων|echōn|without|G2192|V-PPA-NMS
 v12 ἔνδυμα|endyma|clothes|G1742|N-ANS
 v12 γάμου|gamou|wedding|G1062|N-GMS
@@ -256,12 +256,12 @@ v16 ἐν|en|in accordance with|G1722|Prep
 v16 ἀληθείᾳ|alētheia|the truth|G225|N-DFS
 v16 διδάσκεις|didaskeis|You teach|G1321|V-PIA-2S
 v16 καὶ|kai|-|G2532|Conj
-v16 οὐ|ou|vvv|G3756|Adv
+v16 οὐ|ou|...|G3756|Adv
 v16 μέλει|melei|seek favor|G3199|V-PIA-3S
 v16 σοι|soi|You|G4771|PPro-D2S
 v16 περὶ|peri|from|G4012|Prep
 v16 οὐδενός|oudenos|no one|G3762|Adj-GMS
-v16 οὐ|ou|vvv|G3756|Adv
+v16 οὐ|ou|...|G3756|Adv
 v16 γὰρ|gar|because|G1063|Conj
 v16 βλέπεις|blepeis|You pay no attention|G991|V-PIA-2S
 v16 εἰς|eis|to|G1519|Prep
@@ -431,7 +431,7 @@ v29 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v29 εἶπεν|eipen|-|G2036|V-AIA-3S
 v29 αὐτοῖς|autois|-|G846|PPro-DM3P
 v29 Πλανᾶσθε|Planasthe|You are mistaken [because]|G4105|V-PIM/P-2P
-v29 μὴ|mē|vvv|G3361|Adv
+v29 μὴ|mē|...|G3361|Adv
 v29 εἰδότες|eidotes|you do not know|G1492|V-RPA-NMP
 v29 τὰς|tas|the|G3588|Art-AFP
 v29 γραφὰς|graphas|Scriptures|G1124|N-AFP
@@ -444,7 +444,7 @@ v30 ἐν|en|In|G1722|Prep
 v30 γὰρ|gar|-|G1063|Conj
 v30 τῇ|tē|the|G3588|Art-DFS
 v30 ἀναστάσει|anastasei|resurrection|G386|N-DFS
-v30 οὔτε|oute|vvv|G3777|Conj
+v30 οὔτε|oute|...|G3777|Conj
 v30 γαμοῦσιν|gamousin|[people] will neither marry|G1060|V-PIA-3P
 v30 οὔτε|oute|nor|G3777|Conj
 v30 γαμίζονται|gamizontai|be given in marriage|G1061|V-PIM/P-3P
@@ -461,7 +461,7 @@ v31 τῆς|tēs|the|G3588|Art-GFS
 v31 ἀναστάσεως|anastaseōs|resurrection|G386|N-GFS
 v31 τῶν|tōn|of the|G3588|Art-GMP
 v31 νεκρῶν|nekrōn|dead|G3498|Adj-GMP
-v31 οὐκ|ouk|vvv|G3756|Adv
+v31 οὐκ|ouk|...|G3756|Adv
 v31 ἀνέγνωτε|anegnōte|have you not read|G314|V-AIA-2P
 v31 τὸ|to|what|G3588|Art-ANS
 v31 ῥηθὲν|rhēthen|said|G2046|V-APP-ANS

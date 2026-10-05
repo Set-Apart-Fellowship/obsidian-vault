@@ -19,7 +19,7 @@ v2 הַר־|har-|Mount|H2022|N-msc
 v2 צִ֝יּ֗וֹן|ṣî·yō·wn|Zion|H6726|N-proper-fs
 v2 זֶ֤ה׀|zeh|...|H2088|Pro-ms
 v2 שָׁכַ֬נְתָּ|šā·ḵan·tā|where You dwell|H7931|V-Qal-Perf-2ms
-v2 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v2 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v3 הָרִ֣ימָה|hā·rî·māh|Turn|H7311|V-Hifil-Imp-ms | 3fs
 v3 פְ֭עָמֶיךָ|p̄ə·‘ā·me·ḵā|Your steps|H6471|N-fpc | 2ms
 v3 לְמַשֻּׁא֣וֹת|lə·maš·šu·’ō·wṯ|ruins|H4876|Prep-l | N-fpc
@@ -37,7 +37,7 @@ v4 אוֹתֹתָ֣ם|’ō·w·ṯō·ṯām|their banners|H226|N-cpc | 3mp
 v4 אֹתֽוֹת׃|’ō·ṯō·wṯ|as signs|H226|N-cp
 v5 יִ֭וָּדַע|yiw·wā·ḏa‘|like men|H3045|V-Nifal-Imperf-3ms
 v5 כְּמֵבִ֣יא|kə·mê·ḇî|wielding|H935|Prep-k | V-Hifil-Prtcpl-ms
-v5 לְמָ֑עְלָה|lə·mā·‘ə·lāh||H4605|Prep-l | Adv | 3fs
+v5 לְמָ֑עְלָה|lə·mā·‘ə·lāh|-|H4605|Prep-l | Adv | 3fs
 v5 בִּֽסֲבָךְ־|bi·să·ḇāḵ-|in a thicket|H5442|Prep-b | N-msc
 v5 עֵ֝֗ץ|‘êṣ|of trees|H6086|N-ms
 v5 קַרְדֻּמּֽוֹת׃|qar·dum·mō·wṯ|axes|H7134|N-fp
@@ -125,7 +125,7 @@ v15 אֵיתָֽן׃|’ê·ṯān|the ever-flowing|H386|Adj-ms
 v16 לְךָ֣|lə·ḵā|is Yours|H0|Prep | 2ms
 v16 י֭וֹם|yō·wm|The day|H3117|N-ms
 v16 אַף־|’ap̄-|and also|H637|Conj
-v16 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v16 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v16 לָ֑יְלָה|lā·yə·lāh|the night|H3915|N-ms
 v16 אַתָּ֥ה|’at·tāh|You|H859|Pro-2ms
 v16 הֲ֝כִינ֗וֹתָ|hă·ḵî·nō·w·ṯā|established|H3559|V-Hifil-Perf-2ms

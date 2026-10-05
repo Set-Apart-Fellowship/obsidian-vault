@@ -18,7 +18,7 @@ v2 τὴν|tēn|the|G3588|Art-AFS
 v2 παράδοσιν|paradosin|tradition|G3862|N-AFS
 v2 τῶν|tōn|of the|G3588|Art-GMP
 v2 πρεσβυτέρων|presbyterōn|elders|G4245|Adj-GMP
-v2 οὐ|ou|vvv|G3756|Adv
+v2 οὐ|ou|...|G3756|Adv
 v2 γὰρ|gar|-|G1063|Conj
 v2 νίπτονται|niptontai|They do not wash|G3538|V-PIM-3P
 v2 τὰς|tas|-|G3588|Art-AFP
@@ -61,7 +61,7 @@ v4 κακολογῶν|kakologōn|curses|G2551|V-PPA-NMS
 v4 πατέρα|patera|[his] father|G3962|N-AMS
 v4 ἢ|ē|or|G2228|Conj
 v4 μητέρα|mētera|mother|G3384|N-AFS
-v4 θανάτῳ|thanatō|vvv|G2288|N-DMS
+v4 θανάτῳ|thanatō|...|G2288|N-DMS
 v4 τελευτάτω|teleutatō|must be put to death|G5053|V-PMA-3S
 v5 ὑμεῖς|hymeis|you|G4771|PPro-N2P
 v5 δὲ|de|But|G1161|Conj
@@ -76,12 +76,12 @@ v5 τῇ|tē|-|G3588|Art-DFS
 v5 μητρί|mētri|mother|G3384|N-DFS
 v5 Δῶρον|Dōron|is a gift devoted [to God]|G1435|N-NNS
 v5 ὃ|ho|Whatever|G3739|RelPro-ANS
-v5 ἐὰν|ean|vvv|G1437|Conj
+v5 ἐὰν|ean|...|G1437|Conj
 v5 ἐξ|ex|from|G1537|Prep
 v5 ἐμοῦ|emou|me|G1473|PPro-G1S
 v5 ὠφεληθῇς|ōphelēthēs|you would have received|G5623|V-ASP-2S
-v6 οὐ|ou|vvv|G3756|Adv
-v6 μὴ|mē|vvv|G3361|Adv
+v6 οὐ|ou|...|G3756|Adv
+v6 μὴ|mē|...|G3361|Adv
 v6 τιμήσει|timēsei|he need not honor|G5091|V-FIA-3S
 v6 τὸν|ton|-|G3588|Art-AMS
 v6 πατέρα|patera|father|G3962|N-AMS
@@ -179,7 +179,7 @@ v13 εἶπεν|eipen|-|G2036|V-AIA-3S
 v13 Πᾶσα|Pasa|Every|G3956|Adj-NFS
 v13 φυτεία|phyteia|plant|G5451|N-NFS
 v13 ἣν|hēn|that|G3739|RelPro-AFS
-v13 οὐκ|ouk|vvv|G3756|Adv
+v13 οὐκ|ouk|...|G3756|Adv
 v13 ἐφύτευσεν|ephyteusen|has not planted|G5452|V-AIA-3S
 v13 ὁ|ho|-|G3588|Art-NMS
 v13 Πατήρ|Patēr|Father|G3962|N-NMS
@@ -217,11 +217,11 @@ v16 Ὁ|Ho|-|G3588|Art-NMS
 v16 δὲ|de|-|G1161|Conj
 v16 εἶπεν|eipen|[Jesus] asked|G2036|V-AIA-3S
 v16 Ἀκμὴν|Akmēn|still|G188|Adv
-v16 καὶ|kai|vvv|G2532|Conj
+v16 καὶ|kai|...|G2532|Conj
 v16 ὑμεῖς|hymeis|you|G4771|PPro-N2P
 v16 ἀσύνετοί|asynetoi|not understand|G801|Adj-NMP
 v16 ἐστε|este|Do|G1510|V-PIA-2P
-v17 οὐ|ou|vvv|G3756|Adv
+v17 οὐ|ou|...|G3756|Adv
 v17 νοεῖτε|noeite|Do you not yet realize|G3539|V-PIA-2P
 v17 ὅτι|hoti|that|G3754|Conj
 v17 πᾶν|pan|whatever|G3956|Adj-NNS
@@ -276,7 +276,7 @@ v20 δὲ|de|but|G1161|Conj
 v20 ἀνίπτοις|aniptois|with unwashed|G449|Adj-DFP
 v20 χερσὶν|chersin|hands|G5495|N-DFP
 v20 φαγεῖν|phagein|eating|G5315|V-ANA
-v20 οὐ|ou|vvv|G3756|Adv
+v20 οὐ|ou|...|G3756|Adv
 v20 κοινοῖ|koinoi|does not defile|G2840|V-PIA-3S
 v20 τὸν|ton|-|G3588|Art-AMS
 v20 ἄνθρωπον|anthrōpon|[him]|G444|N-AMS
@@ -297,7 +297,7 @@ v22 ἰδοὺ|idou|...|G2400|V-AMA-2S
 v22 γυνὴ|gynē|woman|G1135|N-NFS
 v22 Χαναναία|Chananaia|a Canaanite|G5478|Adj-NFS
 v22 ἀπὸ|apo|from|G575|Prep
-v22 τῶν|tōn|vvv|G3588|Art-GNP
+v22 τῶν|tōn|...|G3588|Art-GNP
 v22 ὁρίων|horiōn|region|G3725|N-GNP
 v22 ἐκείνων|ekeinōn|that|G1565|DPro-GNP
 v22 ἐξελθοῦσα|exelthousa|came [to Him]|G1831|V-APA-NFS
@@ -315,7 +315,7 @@ v22 κακῶς|kakōs|{is} miserably|G2560|Adv
 v22 δαιμονίζεται|daimonizetai|possessed by a demon|G1139|V-PIM/P-3S
 v23 Ὁ|Ho|-|G3588|Art-NMS
 v23 δὲ|de|But|G1161|Conj
-v23 οὐκ|ouk|vvv|G3756|Adv
+v23 οὐκ|ouk|...|G3756|Adv
 v23 ἀπεκρίθη|apekrithē|[Jesus] did not answer|G611|V-AIP-3S
 v23 αὐτῇ|autē|-|G846|PPro-DF3S
 v23 λόγον|logon|a word|G3056|N-AMS
@@ -337,7 +337,7 @@ v24 Ὁ|Ho|-|G3588|Art-NMS
 v24 δὲ|de|-|G1161|Conj
 v24 ἀποκριθεὶς|apokritheis|He answered|G611|V-APP-NMS
 v24 εἶπεν|eipen|...|G2036|V-AIA-3S
-v24 Οὐκ|Ouk|vvv|G3756|Adv
+v24 Οὐκ|Ouk|...|G3756|Adv
 v24 ἀπεστάλην|apestalēn|I was sent|G649|V-AIP-1S
 v24 εἰ|ei|only|G1487|Conj
 v24 μὴ|mē|...|G3361|Adv
@@ -509,9 +509,9 @@ v32 καὶ|kai|-|G2532|Conj
 v32 ἀπολῦσαι|apolysai|to send them away|G630|V-ANA
 v32 αὐτοὺς|autous|...|G846|PPro-AM3P
 v32 νήστεις|nēsteis|hungry|G3523|Adj-AMP
-v32 οὐ|ou|vvv|G3756|Adv
+v32 οὐ|ou|...|G3756|Adv
 v32 θέλω|thelō|I do not want|G2309|V-PIA-1S
-v32 μή‿|mē|vvv|G3361|Adv
+v32 μή‿|mē|...|G3361|Adv
 v32 ποτε|pote|or|G4219|Conj
 v32 ἐκλυθῶσιν|eklythōsin|they may faint|G1590|V-ASP-3P
 v32 ἐν|en|along|G1722|Prep
@@ -528,7 +528,7 @@ v33 ἐν|en|in|G1722|Prep
 v33 ἐρημίᾳ|erēmia|this desolate place|G2047|N-DFS
 v33 ἄρτοι|artoi|bread|G740|N-NMP
 v33 τοσοῦτοι|tosoutoi|enough|G5118|DPro-NMP
-v33 ὥστε|hōste|vvv|G5620|Conj
+v33 ὥστε|hōste|...|G5620|Conj
 v33 χορτάσαι|chortasai|to feed|G5526|V-ANA
 v33 ὄχλον|ochlon|crowd|G3793|N-AMS
 v33 τοσοῦτον|tosouton|such a large|G5118|DPro-AMS

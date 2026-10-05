@@ -42,7 +42,7 @@ v4 יְהוָ֥ה|Yah·weh|am the LORD|H3068|N-proper-ms
 v4 אֱלֹהֵיכֶֽם׃|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
 v5 וְכִ֧י|wə·ḵî|When|H3588|Conj
 v5 תִזְבְּח֛וּ|ṯiz·bə·ḥū|you sacrifice|H2076|V-Qal-Imperf-2mp
-v5 זֶ֥בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v5 זֶ֥בַח|ze·ḇaḥ|...|H2077|N-msc
 v5 שְׁלָמִ֖ים|šə·lā·mîm|a peace offering|H8002|N-mp
 v5 לַיהוָ֑ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v5 לִֽרְצֹנְכֶ֖ם|lir·ṣō·nə·ḵem|for your acceptance|H7522|Prep-l | N-msc | 2mp
@@ -215,7 +215,7 @@ v19 כִּלְאַ֙יִם֙|kil·’a·yim|made of two kinds|H3610|N-md
 v19 שַֽׁעַטְנֵ֔ז|ša·‘aṭ·nêz|of material|H8162|N-ms
 v19 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v19 יַעֲלֶ֖ה|ya·‘ă·leh|of seed|H5927|V-Qal-Imperf-3ms
-v19 עָלֶֽיךָ׃פ|‘ā·le·ḵā|and you shall not wear|H5921|Prep | 2ms
+v19 עָלֶֽיךָ׃|‘ā·le·ḵā|and you shall not wear|H5921|Prep | 2ms
 v20 וְ֠אִישׁ|wə·’îš|a man|H376|Conj-w | N-ms
 v20 כִּֽי־|kî-|If|H3588|Conj
 v20 יִשְׁכַּ֨ב|yiš·kaḇ|lies|H7901|V-Qal-Imperf-3ms
@@ -223,7 +223,7 @@ v20 אֶת־|’eṯ-|-|H853|Prep
 v20 אִשָּׁ֜ה|’iš·šāh|-|H802|N-fs
 v20 שִׁכְבַת־|šiḵ·ḇaṯ-|-|H7902|N-fsc
 v20 זֶ֗רַע|ze·ra‘|carnally|H2233|N-ms
-v20 וְהִ֤וא|wə·hi·w|vvv|H1931|Conj-w | Pro-3fs
+v20 וְהִ֤וא|wə·hi·w|...|H1931|Conj-w | Pro-3fs
 v20 שִׁפְחָה֙|šip̄·ḥāh|with a slave girl|H8198|N-fs
 v20 נֶחֱרֶ֣פֶת|ne·ḥĕ·re·p̄eṯ|promised|H2778|V-Nifal-Prtcpl-fs
 v20 לְאִ֔ישׁ|lə·’îš|to another man|H376|Prep-l | N-ms
@@ -264,10 +264,10 @@ v22 חַטָּאת֖וֹ|ḥaṭ·ṭā·ṯōw|the sin|H2403|N-fsc | 3ms
 v22 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v22 חָטָ֑א|ḥā·ṭā|he has committed|H2398|V-Qal-Perf-3ms
 v22 וְנִסְלַ֣ח|wə·nis·laḥ|and he will be forgiven|H5545|Conj-w | V-Nifal-ConjPerf-3ms
-v22 ל֔וֹ|lōw||H0|Prep | 3ms
+v22 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v22 מֵחַטָּאת֖וֹ|mê·ḥaṭ·ṭā·ṯōw|the sin|H2403|Prep-m | N-fsc | 3ms
 v22 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v22 חָטָֽא׃פ|ḥā·ṭā|he has committed|H2398|V-Qal-Perf-3ms
+v22 חָטָֽא׃|ḥā·ṭā|he has committed|H2398|V-Qal-Perf-3ms
 v23 וְכִי־|wə·ḵî-|When|H3588|Conj
 v23 תָבֹ֣אוּ|ṯā·ḇō·’ū|you enter|H935|V-Qal-Imperf-2mp
 v23 אֶל־|’el-|...|H413|Prep
@@ -375,7 +375,7 @@ v32 זָקֵ֑ן|zā·qên|the aged|H2205|Adj-ms
 v32 וְיָרֵ֥אתָ|wə·yā·rê·ṯā|and fear|H3372|Conj-w | V-Qal-ConjPerf-2ms
 v32 מֵּאֱלֹהֶ֖יךָ|mê·’ĕ·lō·he·ḵā|your God|H430|Prep-m | N-mpc | 2ms
 v32 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v32 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v32 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v33 וְכִֽי־|wə·ḵî-|When|H3588|Conj
 v33 יָג֧וּר|yā·ḡūr|resides|H1481|V-Qal-Imperf-3ms
 v33 אִתְּךָ֛|’it·tə·ḵā|with you|H854|Prep | 2ms
@@ -387,7 +387,7 @@ v33 אֹתֽוֹ׃|’ō·ṯōw|him|H853|DirObjM | 3ms
 v34 כְּאֶזְרָ֣ח|kə·’ez·rāḥ|as native-born|H249|Prep-k | N-ms
 v34 מִכֶּם֩|mik·kem|...|H0|Prep | 2mp
 v34 יִהְיֶ֨ה|yih·yeh|You must treat|H1961|V-Qal-Imperf-3ms
-v34 לָכֶ֜ם|lā·ḵem||H0|Prep | 2mp
+v34 לָכֶ֜ם|lā·ḵem|-|H0|Prep | 2mp
 v34 הַגֵּ֣ר׀|hag·gêr|the foreigner|H1616|Art | N-ms
 v34 הַגָּ֣ר|hag·gār|living|H1481|Art | V-Qal-Prtcpl-ms
 v34 אִתְּכֶ֗ם|’it·tə·ḵem|among you|H854|Prep | 2mp
@@ -418,7 +418,7 @@ v36 צֶ֛דֶק|ṣe·ḏeq|an honest|H6664|N-ms
 v36 וְהִ֥ין|wə·hîn|hin|H1969|Conj-w | N-msc
 v36 צֶ֖דֶק|ṣe·ḏeq|[and] an honest|H6664|N-ms
 v36 יִהְיֶ֣ה|yih·yeh|You shall maintain|H1961|V-Qal-Imperf-3ms
-v36 לָכֶ֑ם|lā·ḵem||H0|Prep | 2mp
+v36 לָכֶ֑ם|lā·ḵem|-|H0|Prep | 2mp
 v36 אֲנִי֙|’ă·nî|I|H589|Pro-1cs
 v36 יְהוָ֣ה|Yah·weh|am the LORD|H3068|N-proper-ms
 v36 אֱלֹֽהֵיכֶ֔ם|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
@@ -437,4 +437,4 @@ v37 מִשְׁפָּטַ֔י|miš·pā·ṭay|My ordinances|H4941|N-mpc | 1cs
 v37 וַעֲשִׂיתֶ֖ם|wa·‘ă·śî·ṯem|and follow|H6213|Conj-w | V-Qal-ConjPerf-2mp
 v37 אֹתָ֑ם|’ō·ṯām|them|H853|DirObjM | 3mp
 v37 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
-v37 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v37 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms

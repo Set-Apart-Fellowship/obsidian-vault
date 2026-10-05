@@ -45,7 +45,7 @@ v3 τοῦ|tou|-|G3588|Art-GMS
 v3 ἀντιδίκου|antidikou|adversary|G476|N-GMS
 v3 μου|mou|my|G1473|PPro-G1S
 v4 Καὶ|Kai|-|G2532|Conj
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 ἤθελεν|ēthelen|he refused|G2309|V-IIA-3S
 v4 ἐπὶ|epi|For|G1909|Prep
 v4 χρόνον|chronon|a while|G5550|N-AMS
@@ -138,7 +138,7 @@ v8 τῆς|tēs|-|G3588|Art-GFS
 v8 γῆς|gēs|earth|G1093|N-GFS
 v9 Εἶπεν|Eipen|He also told|G2036|V-AIA-3S
 v9 δὲ|de|-|G1161|Conj
-v9 καὶ|kai|vvv|G2532|Conj
+v9 καὶ|kai|...|G2532|Conj
 v9 πρός|pros|To|G4314|Prep
 v9 τινας|tinas|some|G5100|IPro-AMP
 v9 τοὺς|tous|who|G3588|Art-AMP
@@ -210,7 +210,7 @@ v13 δὲ|de|But|G1161|Conj
 v13 τελώνης|telōnēs|tax collector|G5057|N-NMS
 v13 μακρόθεν|makrothen|at a distance|G3113|Adv
 v13 ἑστὼς|hestōs|stood|G2476|V-RPA-NMS
-v13 οὐκ|ouk|vvv|G3756|Adv
+v13 οὐκ|ouk|...|G3756|Adv
 v13 ἤθελεν|ēthelen|unwilling even|G2309|V-IIA-3S
 v13 οὐδὲ|oude|...|G3761|Adv
 v13 τοὺς|tous|[his]|G3588|Art-AMP
@@ -297,7 +297,7 @@ v17 λέγω|legō|I tell|G3004|V-PIA-1S
 v17 ὑμῖν|hymin|you|G4771|PPro-D2P
 v17 ὃς|hos|anyone who|G3739|RelPro-NMS
 v17 ἂν|an|-|G302|Prtcl
-v17 μὴ|mē|vvv|G3361|Adv
+v17 μὴ|mē|...|G3361|Adv
 v17 δέξηται|dexētai|does not receive|G1209|V-ASM-3S
 v17 τὴν|tēn|the|G3588|Art-AFS
 v17 βασιλείαν|basileian|kingdom|G932|N-AFS
@@ -305,8 +305,8 @@ v17 τοῦ|tou|-|G3588|Art-GMS
 v17 Θεοῦ|Theou|of God|G2316|N-GMS
 v17 ὡς|hōs|like|G5613|Adv
 v17 παιδίον|paidion|a little child|G3813|N-NNS
-v17 οὐ|ou|vvv|G3756|Adv
-v17 μὴ|mē|vvv|G3361|Adv
+v17 οὐ|ou|...|G3756|Adv
+v17 μὴ|mē|...|G3361|Adv
 v17 εἰσέλθῃ|eiselthē|will never enter|G1525|V-ASA-3S
 v17 εἰς|eis|...|G1519|Prep
 v17 αὐτήν|autēn|it|G846|PPro-AF3S
@@ -342,13 +342,13 @@ v19 Θεός|Theos|God|G2316|N-NMS
 v20 τὰς|tas|the|G3588|Art-AFP
 v20 ἐντολὰς|entolas|commandments|G1785|N-AFP
 v20 οἶδας|oidas|You know|G1492|V-RIA-2S
-v20 Μὴ|Mē|vvv|G3361|Adv
+v20 Μὴ|Mē|...|G3361|Adv
 v20 μοιχεύσῃς|moicheusēs|Do not commit adultery|G3431|V-ASA-2S
-v20 Μὴ|Mē|vvv|G3361|Adv
+v20 Μὴ|Mē|...|G3361|Adv
 v20 φονεύσῃς|phoneusēs|do not murder|G5407|V-ASA-2S
-v20 Μὴ|Mē|vvv|G3361|Adv
+v20 Μὴ|Mē|...|G3361|Adv
 v20 κλέψῃς|klepsēs|do not steal|G2813|V-ASA-2S
-v20 Μὴ|Mē|vvv|G3361|Adv
+v20 Μὴ|Mē|...|G3361|Adv
 v20 ψευδομαρτυρήσῃς|pseudomartyrēsēs|do not bear false witness|G5576|V-ASA-2S
 v20 Τίμα|Tima|honor|G5091|V-PMA-2S
 v20 τὸν|ton|-|G3588|Art-AMS
@@ -409,14 +409,14 @@ v24 αὐτὸν|auton|[the man's]|G846|PPro-AM3S
 v24 ὁ|ho|-|G3588|Art-NMS
 v24 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v24 [περίλυπον|perilypon|sadness|G4036|Adj-AMS
-v24 γενόμενον]|genomenon|vvv|G1096|V-APM-AMS
+v24 γενόμενον]|genomenon|...|G1096|V-APM-AMS
 v24 εἶπεν|eipen|said|G2036|V-AIA-3S
 v24 Πῶς|Pōs|How|G4459|Adv
 v24 δυσκόλως|dyskolōs|hard [it is]|G1423|Adv
 v24 οἱ|hoi|for the|G3588|Art-NMP
 v24 τὰ|ta|-|G3588|Art-ANP
 v24 χρήματα|chrēmata|rich|G5536|N-ANP
-v24 ἔχοντες|echontes|vvv|G2192|V-PPA-NMP
+v24 ἔχοντες|echontes|...|G2192|V-PPA-NMP
 v24 εἰς|eis|...|G1519|Prep
 v24 τὴν|tēn|the|G3588|Art-AFS
 v24 βασιλείαν|basileian|kingdom|G932|N-AFS
@@ -466,7 +466,7 @@ v28 Πέτρος|Petros|Peter|G4074|N-NMS
 v28 Ἰδοὺ|Idou|Look|G2400|V-AMA-2S
 v28 ἡμεῖς|hēmeis|we|G1473|PPro-N1P
 v28 ἀφέντες|aphentes|have left|G863|V-APA-NMP
-v28 τὰ|ta|vvv|G3588|Art-ANP
+v28 τὰ|ta|...|G3588|Art-ANP
 v28 ἴδια|idia|all we had|G2398|Adj-ANP
 v28 ἠκολουθήσαμέν|ēkolouthēsamen|to follow|G190|V-AIA-1P
 v28 σοι|soi|You|G4771|PPro-D2S
@@ -496,9 +496,9 @@ v29 τῆς|tēs|the|G3588|Art-GFS
 v29 βασιλείας|basileias|kingdom|G932|N-GFS
 v29 τοῦ|tou|-|G3588|Art-GMS
 v29 Θεοῦ|Theou|of God|G2316|N-GMS
-v30 ὃς|hos|vvv|G3739|RelPro-NMS
-v30 οὐχὶ|ouchi|vvv|G3780|Adv
-v30 μὴ|mē|vvv|G3361|Adv
+v30 ὃς|hos|...|G3739|RelPro-NMS
+v30 οὐχὶ|ouchi|...|G3780|Adv
+v30 μὴ|mē|...|G3361|Adv
 v30 ἀπολάβῃ*|apolabē|will fail to receive|G618|V-ASA-3S
 v30 πολλαπλασίονα|pollaplasiona|many times more|G4179|Adj-ANP
 v30 ἐν|en|in|G1722|Prep
@@ -570,7 +570,7 @@ v34 κεκρυμμένον|kekrymmenon|hidden|G2928|V-RPM/P-NNS
 v34 ἀπ’|ap’|from|G575|Prep
 v34 αὐτῶν|autōn|them|G846|PPro-GM3P
 v34 καὶ|kai|and|G2532|Conj
-v34 οὐκ|ouk|vvv|G3756|Adv
+v34 οὐκ|ouk|...|G3756|Adv
 v34 ἐγίνωσκον|eginōskon|they did not comprehend|G1097|V-IIA-3P
 v34 τὰ|ta|what|G3588|Art-ANP
 v34 λεγόμενα|legomena|He was saying|G3004|V-PPM/P-ANP
@@ -651,7 +651,7 @@ v41 Ὁ|Ho|-|G3588|Art-NMS
 v41 δὲ|de|-|G1161|Conj
 v41 εἶπεν|eipen|he said|G2036|V-AIA-3S
 v41 Κύριε|Kyrie|Lord|G2962|N-VMS
-v41 ἵνα|hina|vvv|G2443|Conj
+v41 ἵνα|hina|...|G2443|Conj
 v41 ἀναβλέψω|anablepsō|let me see again|G308|V-ASA-1S
 v42 Καὶ|Kai|-|G2532|Conj
 v42 ὁ|ho|-|G3588|Art-NMS

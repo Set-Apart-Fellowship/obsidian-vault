@@ -44,7 +44,7 @@ v6 יֵחָשֵׂ֣ךְ|yê·ḥā·śêḵ|relieved|H2820|V-Nifal-Imperf-3ms
 v6 כְּאֵבִ֑י|kə·’ê·ḇî|my pain|H3511|N-msc | 1cs
 v6 וְ֝אַחְדְּלָ֗ה|wə·’aḥ·də·lāh|and if I hold back|H2308|Conj-w | V-Qal-ConjImperf.Cohort-1cs
 v6 מַה־|mah-|how|H4100|Interrog
-v6 מִנִּ֥י|min·nî||H4480|Prep | 1cs
+v6 מִנִּ֥י|min·nî|-|H4480|Prep | 1cs
 v6 יַהֲלֹֽךְ׃|ya·hă·lōḵ|will it go away|H1980|V-Qal-Imperf-3ms
 v7 אַךְ־|’aḵ-|Surely|H389|Adv
 v7 עַתָּ֥ה|‘at·tāh|He has now|H6258|Adv
@@ -109,7 +109,7 @@ v13 מְרֵרָֽתִי׃|mə·rê·rā·ṯî|my gall|H4845|N-fsc | 1cs
 v14 יִפְרְצֵ֣נִי|yip̄·rə·ṣê·nî|He breaks me|H6555|V-Qal-Imperf-3ms | 1cs
 v14 פֶ֭רֶץ|p̄e·reṣ|with wound|H6556|N-ms
 v14 עַל־|‘al-|upon|H5921|Prep
-v14 פְּנֵי־|pə·nê-||H6440|N-mpc
+v14 פְּנֵי־|pə·nê-|-|H6440|N-mpc
 v14 פָ֑רֶץ|p̄ā·reṣ|wound|H6556|N-ms
 v14 יָרֻ֖ץ|yā·ruṣ|He rushes|H7323|V-Qal-Imperf-3ms
 v14 עָלַ֣י|‘ā·lay|me|H5921|Prep | 1cs

@@ -1,6 +1,6 @@
 v1 Ἔλεγεν|Elegen|[Jesus] also said|G2036|V-IIA-3S
-v1 δὲ|de|vvv|G1161|Conj
-v1 καὶ|kai|vvv|G2532|Conj
+v1 δὲ|de|...|G1161|Conj
+v1 καὶ|kai|...|G2532|Conj
 v1 πρὸς|pros|to|G4314|Prep
 v1 τοὺς|tous|[His]|G3588|Art-AMP
 v1 μαθητάς|mathētas|disciples|G3101|N-AMP
@@ -59,7 +59,7 @@ v3 οἰκονομίαν|oikonomian|[position]|G3622|N-AFS
 v3 ἀπ’|ap’|away|G575|Prep
 v3 ἐμοῦ|emou|my|G1473|PPro-G1S
 v3 σκάπτειν|skaptein|to dig|G4626|V-PNA
-v3 οὐκ|ouk|vvv|G3756|Adv
+v3 οὐκ|ouk|...|G3756|Adv
 v3 ἰσχύω|ischyō|I am too weak|G2480|V-PIA-1S
 v3 ἐπαιτεῖν|epaitein|to beg|G1871|V-PNA
 v3 αἰσχύνομαι|aischynomai|[and] too ashamed|G153|V-PIM/P-1S
@@ -212,7 +212,7 @@ v11 τῷ|tō|-|G3588|Art-DMS
 v11 ἀδίκῳ|adikō|worldly|G94|Adj-DMS
 v11 μαμωνᾷ|mamōna|wealth|G3126|N-DMS
 v11 πιστοὶ|pistoi|faithful|G4103|Adj-NMP
-v11 οὐκ|ouk|vvv|G3756|Adv
+v11 οὐκ|ouk|...|G3756|Adv
 v11 ἐγένεσθε|egenesthe|you have not been|G1096|V-AIM-2P
 v11 τὸ|to|[with]|G3588|Art-ANS
 v11 ἀληθινὸν|alēthinon|true [riches]|G228|Adj-ANS
@@ -225,7 +225,7 @@ v12 ἐν|en|with|G1722|Prep
 v12 τῷ|tō|the [belongings]|G3588|Art-DNS
 v12 ἀλλοτρίῳ|allotriō|of another|G245|Adj-DNS
 v12 πιστοὶ|pistoi|faithful|G4103|Adj-NMP
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 ἐγένεσθε|egenesthe|you have not been|G1096|V-AIM-2P
 v12 τὸ|to|belongings|G3588|Art-ANS
 v12 ὑμέτερον*|hymeteron|of your own|G5212|Adj-ANS
@@ -254,7 +254,7 @@ v13 καὶ|kai|and|G2532|Conj
 v13 τοῦ|tou|the|G3588|Art-GMS
 v13 ἑτέρου|heterou|other|G2087|Adj-GMS
 v13 καταφρονήσει|kataphronēsei|despise|G2706|V-FIA-3S
-v13 οὐ|ou|vvv|G3756|Adv
+v13 οὐ|ou|...|G3756|Adv
 v13 δύνασθε|dynasthe|You cannot|G1410|V-PIM/P-2P
 v13 Θεῷ|Theō|[both] God|G2316|N-DMS
 v13 δουλεύειν|douleuein|serve|G1398|V-PNA
@@ -383,7 +383,7 @@ v21 πιπτόντων|piptontōn|crumbs that fell|G4098|V-PPA-GNP
 v21 ἀπὸ|apo|from|G575|Prep
 v21 τῆς|tēs|the|G3588|Art-GFS
 v21 τραπέζης|trapezēs|table|G5132|N-GFS
-v21 τοῦ|tou|vvv|G3588|Art-GMS
+v21 τοῦ|tou|...|G3588|Art-GMS
 v21 πλουσίου|plousiou|rich man's|G4145|Adj-GMS
 v21 ἀλλὰ|alla|-|G235|Conj
 v21 καὶ|kai|Even|G2532|Conj
@@ -511,7 +511,7 @@ v26 διαβῆναι|diabēnai|cross|G1224|V-ANA
 v26 ἔνθεν|enthen|from here|G1759|Adv
 v26 πρὸς|pros|to|G4314|Prep
 v26 ὑμᾶς|hymas|you|G4771|PPro-A2P
-v26 μὴ|mē|vvv|G3361|Adv
+v26 μὴ|mē|...|G3361|Adv
 v26 δύνωνται|dynōntai|cannot|G1410|V-PSM/P-3P
 v26 μηδὲ|mēde|nor|G3366|Conj
 v26 ἐκεῖθεν|ekeithen|from there|G1564|Adv
@@ -541,8 +541,8 @@ v28 ὅπως|hopōs|-|G3704|Conj
 v28 διαμαρτύρηται|diamartyrētai|Let him warn|G1263|V-PSM/P-3S
 v28 αὐτοῖς|autois|them|G846|PPro-DM3P
 v28 ἵνα|hina|so that|G2443|Conj
-v28 μὴ|mē|vvv|G3361|Adv
-v28 καὶ|kai|vvv|G2532|Conj
+v28 μὴ|mē|...|G3361|Adv
+v28 καὶ|kai|...|G2532|Conj
 v28 αὐτοὶ|autoi|they|G846|PPro-NM3P
 v28 ἔλθωσιν|elthōsin|will not also end up|G2064|V-ASA-3P
 v28 εἰς|eis|in|G1519|Prep
@@ -584,9 +584,9 @@ v31 Μωϋσέως|Mōuseōs|Moses|G3475|N-GMS
 v31 καὶ|kai|and|G2532|Conj
 v31 τῶν|tōn|the|G3588|Art-GMP
 v31 προφητῶν|prophētōn|Prophets|G4396|N-GMP
-v31 οὐκ|ouk|vvv|G3756|Adv
+v31 οὐκ|ouk|...|G3756|Adv
 v31 ἀκούουσιν|akouousin|they do not listen to|G191|V-PIA-3P
-v31 οὐδ’*|oud’|vvv|G3761|Adv
+v31 οὐδ’*|oud’|...|G3761|Adv
 v31 ἐάν|ean|if|G1437|Conj
 v31 τις|tis|someone|G5100|IPro-NMS
 v31 ἐκ|ek|from|G1537|Prep

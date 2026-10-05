@@ -51,7 +51,7 @@ v3 נְבוּכַדְנֶאצַּ֛ר|nə·ḇū·ḵaḏ·neṣ·ṣar|Nebuchad
 v3 מֶ֥לֶךְ|me·leḵ|King|H4428|N-msc
 v3 בָּבֶ֖ל|bā·ḇel|in Babylon|H894|N-proper-fs
 v3 בָּבֶ֥לָה|bā·ḇe·lāh|...|H894|N-proper-fs | 3fs
-v3 לֵאמֹֽר׃ס|lê·mōr|It stated|H559|Prep-l | V-Qal-Inf
+v3 לֵאמֹֽר׃|lê·mōr|It stated|H559|Prep-l | V-Qal-Inf
 v4 כֹּ֥ה|kōh|This is what|H3541|Adv
 v4 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v4 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -107,7 +107,7 @@ v7 כִּ֣י|kî|for|H3588|Conj
 v7 בִשְׁלוֹמָ֔הּ|ḇiš·lō·w·māh|if it prospers|H7965|Prep-b | N-msc | 3fs
 v7 יִהְיֶ֥ה|yih·yeh|...|H1961|V-Qal-Imperf-3ms
 v7 לָכֶ֖ם|lā·ḵem|you too|H0|Prep | 2mp
-v7 שָׁלֽוֹם׃פ|šā·lō·wm|will prosper|H7965|N-ms
+v7 שָׁלֽוֹם׃|šā·lō·wm|will prosper|H7965|N-ms
 v8 כִּי֩|kî|For|H3588|Conj
 v8 כֹ֨ה|ḵōh|this is what|H3541|Adv
 v8 אָמַ֜ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -117,7 +117,7 @@ v8 אֱלֹהֵ֣י|’ĕ·lō·hê|the God|H430|N-mpc
 v8 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v8 אַל־|’al-|Do not|H408|Adv
 v8 יַשִּׁ֧יאוּ|yaš·šî·’ū|be deceived|H5377|V-Hifil-Imperf-3mp
-v8 לָכֶ֛ם|lā·ḵem||H0|Prep | 2mp
+v8 לָכֶ֛ם|lā·ḵem|-|H0|Prep | 2mp
 v8 נְבִֽיאֵיכֶ֥ם|nə·ḇî·’ê·ḵem|by the prophets|H5030|N-mpc | 2mp
 v8 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v8 בְּקִרְבְּכֶ֖ם|bə·qir·bə·ḵem|among you|H7130|Prep-b | N-msc | 2mp
@@ -138,7 +138,7 @@ v9 בִּשְׁמִ֑י|biš·mî|in My name|H8034|Prep-b | N-msc | 1cs
 v9 לֹ֥א|lō|I have not|H3808|Adv-NegPrt
 v9 שְׁלַחְתִּ֖ים|šə·laḥ·tîm|sent them|H7971|V-Qal-Perf-1cs | 3mp
 v9 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v9 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v9 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v10 כִּֽי־|kî-|For|H3588|Conj
 v10 כֹה֙|ḵōh|this is what|H3541|Adv
 v10 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -227,7 +227,7 @@ v15 הֵקִ֨ים|hê·qîm|has raised up|H6965|V-Hifil-Perf-3ms
 v15 לָ֧נוּ|lā·nū|for us|H0|Prep | 1cp
 v15 יְהוָ֛ה|Yah·weh|The LORD|H3068|N-proper-ms
 v15 נְבִאִ֖ים|nə·ḇi·’îm|prophets|H5030|N-mp
-v15 בָּבֶֽלָה׃ס|bā·ḇe·lāh|in Babylon|H894|N-proper-fs | 3fs
+v15 בָּבֶֽלָה׃|bā·ḇe·lāh|in Babylon|H894|N-proper-fs | 3fs
 v16 כִּי־|kî-|-|H3588|Conj
 v16 כֹ֣ה׀|ḵōh|this is what|H3541|Adv
 v16 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -257,7 +257,7 @@ v17 צְבָא֔וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v17 הִנְנִי֙|hin·nî|...|H2005|Interjection | 1cs
 v17 מְשַׁלֵּ֣חַ|mə·šal·lê·aḥ|I will send|H7971|V-Piel-Prtcpl-ms
 v17 בָּ֔ם|bām|against them|H0|Prep | 3mp
-v17 אֶת־|’eṯ-||H853|DirObjM
+v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 הַחֶ֖רֶב|ha·ḥe·reḇ|sword|H2719|Art | N-fs
 v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 הָרָעָ֣ב|hā·rā·‘āḇ|and famine|H7458|Art | N-ms
@@ -319,7 +319,7 @@ v20 הַ֨גּוֹלָ֔ה|hag·gō·w·lāh|you exiles|H1473|Art | N-fs
 v20 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v20 שִׁלַּ֥חְתִּי|šil·laḥ·tî|I have sent away|H7971|V-Piel-Perf-1cs
 v20 מִירוּשָׁלִַ֖ם|mî·rū·šā·lim|from Jerusalem|H3389|Prep-m | N-proper-fs
-v20 בָּבֶֽלָה׃ס|bā·ḇe·lāh|to Babylon|H894|N-proper-fs | 3fs
+v20 בָּבֶֽלָה׃|bā·ḇe·lāh|to Babylon|H894|N-proper-fs | 3fs
 v21 כֹּֽה־|kōh-|This is what|H3541|Adv
 v21 אָמַר֩|’ā·mar|says|H559|V-Qal-Perf-3ms
 v21 יְהוָ֨ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -385,7 +385,7 @@ v23 וְאָנֹכִ֛י|wə·’ā·nō·ḵî|I|H595|Conj-w | Pro-1cs
 v23 הוּיֹדֵעַ|hū·yō·ḏē·aʿ|am He who knows|H1931|Art | V-Qal-Prtcpl-ms
 v23 וָעֵ֖ד|wā·‘êḏ|and I am a witness|H5707|Conj-w | N-ms
 v23 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v23 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v23 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v24 וְאֶל־|wə·’el-|-|H413|Conj-w | Prep
 v24 שְׁמַעְיָ֥הוּ|šə·ma‘·yā·hū|Shemaiah|H8098|N-proper-ms
 v24 הַנֶּחֱלָמִ֖י|han·ne·ḥĕ·lā·mî|the Nehelamite|H5161|Art | N-proper-ms
@@ -461,7 +461,7 @@ v28 וְשֵׁ֔בוּ|wə·šê·ḇū|and settle down|H3427|Conj-w | V-Qal-Imp
 v28 וְנִטְע֣וּ|wə·niṭ·‘ū|plant|H5193|Conj-w | V-Qal-Imp-mp
 v28 גַנּ֔וֹת|ḡan·nō·wṯ|gardens|H1593|N-fp
 v28 וְאִכְל֖וּ|wə·’iḵ·lū|and eat|H398|Conj-w | V-Qal-Imp-mp
-v28 אֶת־|’eṯ-||H853|DirObjM
+v28 אֶת־|’eṯ-|-|H853|DirObjM
 v28 פְּרִיהֶֽן׃|pə·rî·hen|their produce|H6529|N-msc | 3fp
 v29 וַיִּקְרָ֛א|way·yiq·rā|however, had read|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v29 צְפַנְיָ֥ה|ṣə·p̄an·yāh|Zephaniah|H6846|N-proper-ms
@@ -471,7 +471,7 @@ v29 הַסֵּ֣פֶר|has·sê·p̄er|letter|H5612|Art | N-ms
 v29 הַזֶּ֑ה|haz·zeh|this|H2088|Art | Pro-ms
 v29 בְּאָזְנֵ֖י|bə·’ā·zə·nê|[to]|H241|Prep-b | N-fdc
 v29 יִרְמְיָ֥הוּ|yir·mə·yā·hū|Jeremiah|H3414|N-proper-ms
-v29 הַנָּבִֽיא׃פ|han·nā·ḇî|the prophet|H5030|Art | N-ms
+v29 הַנָּבִֽיא׃|han·nā·ḇî|the prophet|H5030|Art | N-ms
 v30 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v30 דְּבַר־|də·ḇar-|Then the word|H1697|N-msc
 v30 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -505,16 +505,16 @@ v32 לָכֵ֞ן|lā·ḵên|-|H3651|Adv
 v32 כֹּֽה־|kōh-|this is what|H3541|Adv
 v32 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v32 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
-v32 הִנְנִ֨י|hin·nî|vvv|H2005|Interjection | 1cs
+v32 הִנְנִ֨י|hin·nî|...|H2005|Interjection | 1cs
 v32 פֹקֵ֜ד|p̄ō·qêḏ|I will surely punish|H6485|V-Qal-Prtcpl-ms
-v32 עַל־|‘al-||H5921|Prep
+v32 עַל־|‘al-|-|H5921|Prep
 v32 שְׁמַעְיָ֣ה|šə·ma‘·yāh|Shemaiah|H8098|N-proper-ms
 v32 הַנֶּחֱלָמִי֮|han·ne·ḥĕ·lā·mî|the Nehelamite|H5161|Art | N-proper-ms
 v32 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v32 זַרְעוֹ֒|zar·‘ōw|and his descendants|H2233|N-msc | 3ms
 v32 לֹא־|lō-|no|H3808|Adv-NegPrt
 v32 יִהְיֶ֨ה|yih·yeh|He will have|H1961|V-Qal-Imperf-3ms
-v32 ל֜וֹ|lōw||H0|Prep | 3ms
+v32 ל֜וֹ|lōw|-|H0|Prep | 3ms
 v32 אִ֣ישׁ׀|’îš|one|H376|N-ms
 v32 יוֹשֵׁ֣ב׀|yō·wō·šêḇ|left|H3427|V-Qal-Prtcpl-ms
 v32 בְּתוֹךְ־|bə·ṯō·wḵ-|among|H8432|Prep-b | N-msc
@@ -533,4 +533,4 @@ v32 כִּֽי־|kî-|for|H3588|Conj
 v32 סָרָ֥ה|sā·rāh|rebellion|H5627|N-fs
 v32 דִבֶּ֖ר|ḏib·ber|he has preached|H1696|V-Piel-Perf-3ms
 v32 עַל־|‘al-|against|H5921|Prep
-v32 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v32 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

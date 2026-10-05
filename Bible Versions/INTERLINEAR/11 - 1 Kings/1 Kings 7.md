@@ -1,5 +1,5 @@
 v1 וְאֶת־|wə·’eṯ-|however|H853|Conj-w | DirObjM
-v1 בֵּיתוֹ֙|bê·ṯōw||H1004|N-msc | 3ms
+v1 בֵּיתוֹ֙|bê·ṯōw|-|H1004|N-msc | 3ms
 v1 בָּנָ֣ה|bā·nāh|the construction|H1129|V-Qal-Perf-3ms
 v1 שְׁלֹמֹ֔ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
 v1 שְׁלֹ֥שׁ|šə·lōš|took thirteen|H7969|Number-fsc
@@ -35,7 +35,7 @@ v2 הָעַמּוּדִֽים׃|hā·‘am·mū·ḏîm|...|H5982|Art | N-mp
 v3 וְסָפֻ֣ן|wə·sā·p̄un|[The house] was roofed|H5603|Conj-w | V-Qal-QalPassPrtcpl-ms
 v3 בָּאֶ֗רֶז|bā·’e·rez|with cedar|H730|Prep-b, Art | N-ms
 v3 מִמַּ֙עַל֙|mim·ma·‘al|above|H4605|Prep-m | Adv
-v3 עַל־|‘al-||H5921|Prep
+v3 עַל־|‘al-|-|H5921|Prep
 v3 הַצְּלָעֹת֙|haṣ·ṣə·lā·‘ōṯ|the beams|H6763|Art | N-fp
 v3 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v3 עַל־|‘al-|rested on|H5921|Prep
@@ -55,7 +55,7 @@ v4 שָׁלֹ֥שׁ|šā·lōš|in three|H7969|Number-fs
 v4 פְּעָמִֽים׃|pə·‘ā·mîm|tiers|H6471|N-fp
 v5 וְכָל־|wə·ḵāl|All|H3605|Conj-w | N-msc
 v5 הַפְּתָחִ֥ים|hap·pə·ṯā·ḥîm|the doorways|H6607|Art | N-mp
-v5 וְהַמְּזוּז֖וֹת|wə·ham·mə·zū·zō·wṯ||H4201|Conj-w, Art | N-fp
+v5 וְהַמְּזוּז֖וֹת|wə·ham·mə·zū·zō·wṯ|-|H4201|Conj-w, Art | N-fp
 v5 רְבֻעִ֣ים|rə·ḇu·‘îm|had rectangular|H7251|V-Qal-QalPassPrtcpl-mp
 v5 שָׁ֑קֶף|šā·qep̄|frames|H8260|N-ms
 v5 וּמ֧וּל|ū·mūl|with|H4136|Conj-w | Prep
@@ -100,7 +100,7 @@ v8 יֵ֨שֶׁב|yê·šeḇ|[Solomon] would live|H3427|V-Qal-Imperf-3ms
 v8 שָׁ֜ם|šām|...|H8033|Adv
 v8 חָצֵ֣ר|ḥā·ṣêr|...|H2691|N-cs
 v8 הָאַחֶ֗רֶת|hā·’a·ḥe·reṯ|set further back|H312|Art | Adj-fs
-v8 מִבֵּית֙|mib·bêṯ||H1004|Prep-m | N-msc
+v8 מִבֵּית֙|mib·bêṯ|-|H1004|Prep-m | N-msc
 v8 לָֽאוּלָ֔ם|lā·’ū·lām|-|H197|Prep-l | N-ms
 v8 כַּמַּֽעֲשֶׂ֥ה|kam·ma·‘ă·śeh|construction|H4639|Prep-k, Art | N-ms
 v8 הַזֶּ֖ה|haz·zeh|of similar|H2088|Art | Pro-ms
@@ -162,7 +162,7 @@ v12 בֵּית־|bêṯ-|of the house of|H1004|N-msc
 v12 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v12 הַפְּנִימִ֖ית|hap·pə·nî·mîṯ|as were the inner|H6442|Art | Adj-fsc
 v12 וּלְאֻלָ֥ם|ū·lə·’u·lām|and portico|H197|Conj-w, Prep-l | N-msc
-v12 הַבָּֽיִת׃פ|hab·bā·yiṯ|-|H1004|Art | N-ms
+v12 הַבָּֽיִת׃|hab·bā·yiṯ|-|H1004|Art | N-ms
 v13 וַיִּשְׁלַח֙|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v13 הַמֶּ֣לֶךְ|ham·me·leḵ|Now King|H4428|Art | N-ms
 v13 שְׁלֹמֹ֔ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -268,7 +268,7 @@ v18 לְכַסּ֤וֹת|lə·ḵas·sō·wṯ|to cover|H3680|Prep-l | V-Piel-In
 v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 הַכֹּֽתָרֹת֙|hak·kō·ṯā·rōṯ|each capital|H3805|Art | N-fp
 v18 אֲשֶׁר֙|’ă·šer|-|H834|Pro-r
-v18 עַל־|‘al-|vvv|H5921|Prep
+v18 עַל־|‘al-|...|H5921|Prep
 v18 רֹ֣אשׁ|rōš|atop [the pillars]|H7218|N-msc
 v18 הָֽרִמֹּנִ֔ים|hā·rim·mō·nîm|of pomegranates|H7416|Art | N-mp
 v18 וְכֵ֣ן|wə·ḵên|-|H3651|Conj-w | Adv
@@ -277,7 +277,7 @@ v18 לַכֹּתֶ֖רֶת|lak·kō·ṯe·reṯ|-|H3805|Prep-l, Art | N-fs
 v18 הַשֵּׁנִֽית׃|haš·šê·nîṯ|-|H8145|Art | Number-ofs
 v19 וְכֹֽתָרֹ֗ת|wə·ḵō·ṯā·rōṯ|And the capitals|H3805|Conj-w | N-fp
 v19 אֲשֶׁר֙|’ă·šer|-|H834|Pro-r
-v19 עַל־|‘al-|vvv|H5921|Prep
+v19 עַל־|‘al-|...|H5921|Prep
 v19 רֹ֣אשׁ|rōš|atop|H7218|N-msc
 v19 הָעַמּוּדִ֔ים|hā·‘am·mū·ḏîm|the pillars|H5982|Art | N-mp
 v19 מַעֲשֵׂ֖ה|ma·‘ă·śêh|were shaped|H4639|N-msc
@@ -402,7 +402,7 @@ v26 פֶּ֣רַח|pe·raḥ|blossom|H6525|N-msc
 v26 שׁוֹשָׁ֑ן|šō·wō·šān|like a lily|H7799|N-cs
 v26 אַלְפַּ֥יִם|’al·pa·yim|two thousand|H505|Number-md
 v26 בַּ֖ת|baṯ|baths|H1324|N-ms
-v26 יָכִֽיל׃פ|yā·ḵîl|It could hold|H3557|V-Hifil-Imperf-3ms
+v26 יָכִֽיל׃|yā·ḵîl|It could hold|H3557|V-Hifil-Imperf-3ms
 v27 וַיַּ֧עַשׂ|way·ya·‘aś|In addition, he made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 הַמְּכֹנ֛וֹת|ham·mə·ḵō·nō·wṯ|movable stands|H4350|Art | N-fp
@@ -453,13 +453,13 @@ v30 הָֽאַחַת֙|hā·’a·ḥaṯ|Each|H259|Art | Number-fs
 v30 וְסַרְנֵ֣י|wə·sar·nê|axles|H5633|Conj-w | N-mpc
 v30 נְחֹ֔שֶׁת|nə·ḥō·šeṯ|with bronze|H5178|N-fs
 v30 וְאַרְבָּעָ֥ה|wə·’ar·bā·‘āh|four|H702|Conj-w | Number-ms
-v30 פַעֲמֹתָ֖יו|p̄a·‘ă·mō·ṯāw|vvv|H6471|N-fpc | 3ms
+v30 פַעֲמֹתָ֖יו|p̄a·‘ă·mō·ṯāw|...|H6471|N-fpc | 3ms
 v30 כְּתֵפֹ֣ת|kə·ṯê·p̄ōṯ|supports|H3802|N-fp
-v30 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
-v30 מִתַּ֤חַת|mit·ta·ḥaṯ||H8478|Prep-m
+v30 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
+v30 מִתַּ֤חַת|mit·ta·ḥaṯ|-|H8478|Prep-m
 v30 לַכִּיֹּר֙|lak·kî·yōr|and a basin|H3595|Prep-l, Art | N-ms
 v30 הַכְּתֵפֹ֣ת|hak·kə·ṯê·p̄ōṯ|resting on|H3802|Art | N-fp
-v30 יְצֻק֔וֹת|yə·ṣu·qō·wṯ||H3333|V-Qal-QalPassPrtcpl-fp
+v30 יְצֻק֔וֹת|yə·ṣu·qō·wṯ|-|H3333|V-Qal-QalPassPrtcpl-fp
 v30 מֵעֵ֥בֶר|mê·‘ê·ḇer|side|H5676|Prep-m | N-msc
 v30 אִ֖ישׁ|’îš|at each|H376|N-ms
 v30 לֹיֽוֹת׃|lō·yō·wṯ|with wreaths|H3914|N-fp
@@ -474,7 +474,7 @@ v31 מַעֲשֵׂה־|ma·‘ă·śêh-|like the design|H4639|N-msc
 v31 כֵ֔ן|ḵên|of a pedestal|H3653|N-ms
 v31 אַמָּ֖ה|’am·māh|a cubit|H520|N-fs
 v31 וַחֲצִ֣י|wa·ḥă·ṣî|and a half [wide]|H2677|Conj-w | N-msc
-v31 הָֽאַמָּ֑ה|hā·’am·māh||H520|Art | N-fs
+v31 הָֽאַמָּ֑ה|hā·’am·māh|-|H520|Art | N-fs
 v31 וְגַם־|wə·ḡam-|And|H1571|Conj
 v31 עַל־|‘al-|around|H5921|Prep
 v31 פִּ֙יהָ֙|pî·hā|its opening|H6310|N-msc | 3fs
@@ -554,7 +554,7 @@ v37 מִדָּ֥ה|mid·dāh|dimensions|H4060|N-fs
 v37 אַחַ֛ת|’a·ḥaṯ|...|H259|Number-fsc
 v37 קֶ֥צֶב|qe·ṣeḇ|and shape|H7095|N-ms
 v37 אֶחָ֖ד|’e·ḥāḏ|with the same|H259|Number-ms
-v37 לְכֻלָּֽהְנָה׃ס|lə·ḵul·lā·hə·nāh|each|H3605|Prep | N-msc | 3fp
+v37 לְכֻלָּֽהְנָה׃|lə·ḵul·lā·hə·nāh|each|H3605|Prep | N-msc | 3fp
 v38 וַיַּ֛עַשׂ|way·ya·‘aś|He also made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v38 עֲשָׂרָ֥ה|‘ă·śā·rāh|ten|H6235|Number-ms
 v38 כִיֹּר֖וֹת|ḵî·yō·rō·wṯ|basins|H3595|N-mp
@@ -568,11 +568,11 @@ v38 אַרְבַּ֤ע|’ar·ba‘|and measuring four|H702|Number-fs
 v38 בָּֽאַמָּה֙|bā·’am·māh|cubits across|H520|Prep-b, Art | N-fs
 v38 הַכִּיּ֣וֹר|hak·kî·yō·wr|basin|H3595|Art | N-ms
 v38 הָאֶחָ֔ד|hā·’e·ḥāḏ|one|H259|Art | Number-ms
-v38 כִּיּ֤וֹר|kî·yō·wr||H3595|N-ms
+v38 כִּיּ֤וֹר|kî·yō·wr|-|H3595|N-ms
 v38 אֶחָד֙|’e·ḥāḏ|for each|H259|Number-ms
-v38 עַל־|‘al-||H5921|Prep
+v38 עַל־|‘al-|-|H5921|Prep
 v38 הַמְּכוֹנָ֣ה|ham·mə·ḵō·w·nāh|stands|H4350|Art | N-fs
-v38 הָאַחַ֔ת|hā·’a·ḥaṯ||H259|Art | Number-fs
+v38 הָאַחַ֔ת|hā·’a·ḥaṯ|-|H259|Art | Number-fs
 v38 לְעֶ֖שֶׂר|lə·‘e·śer|of the ten|H6235|Prep-l | Number-fsc
 v38 הַמְּכֹנֽוֹת׃|ham·mə·ḵō·nō·wṯ|...|H4350|Art | N-fp
 v39 וַיִּתֵּן֙|way·yit·tên|He set|H5414|Conj-w | V-Qal-ConsecImperf-3ms
@@ -596,7 +596,7 @@ v39 הַבַּ֧יִת|hab·ba·yiṯ|of the temple|H1004|Art | N-ms
 v39 הַיְמָנִ֛ית|hay·mā·nîṯ|on the south|H3233|Art | Adj-fs
 v39 קֵ֖דְמָה|qê·ḏə·māh|at the southeast corner|H6924|Adv | 3fs
 v39 מִמּ֥וּל|mim·mūl|...|H4136|Prep-m
-v39 נֶֽגֶב׃ס|ne·ḡeḇ|...|H5045|N-proper-fs
+v39 נֶֽגֶב׃|ne·ḡeḇ|...|H5045|N-proper-fs
 v40 וַיַּ֣עַשׂ|way·ya·‘aś|made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v40 חִיר֔וֹם|ḥî·rō·wm|Additionally, Huram|H2438|N-proper-ms
 v40 אֶת־|’eṯ-|-|H853|DirObjM
@@ -622,7 +622,7 @@ v41 שְׁנַ֔יִם|šə·na·yim|the two|H8147|Number-md
 v41 וְגֻלֹּ֧ת|wə·ḡul·lōṯ|bowl-shaped|H1543|Conj-w | N-fpc
 v41 הַכֹּתָרֹ֛ת|hak·kō·ṯā·rōṯ|capitals|H3805|Art | N-fp
 v41 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v41 עַל־|‘al-|vvv|H5921|Prep
+v41 עַל־|‘al-|...|H5921|Prep
 v41 רֹ֥אשׁ|rōš|atop|H7218|N-msc
 v41 הָֽעַמֻּדִ֖ים|hā·‘am·mu·ḏîm|the pillars|H5982|Art | N-mp
 v41 שְׁתָּ֑יִם|šə·tā·yim|the two|H8147|Number-fd
@@ -654,7 +654,7 @@ v42 שְׁתֵּי֙|šə·tê|both|H8147|Number-fdc
 v42 גֻּלֹּ֣ת|gul·lōṯ|the bowl-shaped|H1543|N-fpc
 v42 הַכֹּֽתָרֹ֔ת|hak·kō·ṯā·rōṯ|capitals|H3805|Art | N-fp
 v42 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
-v42 עַל־|‘al-|vvv|H5921|Prep
+v42 עַל־|‘al-|...|H5921|Prep
 v42 פְּנֵ֥י|pə·nê|atop|H6440|N-cpc
 v42 הָעַמּוּדִֽים׃|hā·‘am·mū·ḏîm|the pillars)|H5982|Art | N-mp
 v43 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -720,7 +720,7 @@ v48 שְׁלֹמֹ֔ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
 v48 אֵ֚ת|’êṯ|-|H853|DirObjM
 v48 כָּל־|kāl-|all|H3605|N-msc
 v48 הַכֵּלִ֔ים|hak·kê·lîm|the furnishings|H3627|Art | N-mp
-v48 אֲשֶׁ֖ר|’ă·šer||H834|Pro-r
+v48 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v48 בֵּ֣ית|bêṯ|for the house|H1004|N-msc
 v48 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v48 אֵ֚ת|’êṯ|-|H853|DirObjM
@@ -763,7 +763,7 @@ v50 הַקֳּדָשִׁ֗ים|haq·qo·ḏā·šîm|...|H6944|Art | N-mp
 v50 לְדַלְתֵ֥י|lə·ḏal·ṯê|as well as for the doors|H1817|Prep-l | N-fdc
 v50 הַבַּ֛יִת|hab·ba·yiṯ|of the main hall|H1004|Art | N-ms
 v50 לַהֵיכָ֖ל|la·hê·ḵāl|of the temple|H1964|Prep-l, Art | N-ms
-v50 זָהָֽב׃פ|zā·hāḇ|and the gold|H2091|N-ms
+v50 זָהָֽב׃|zā·hāḇ|and the gold|H2091|N-ms
 v51 וַתִּשְׁלַם֙|wat·tiš·lam|was completed|H7999|Conj-w | V-Qal-ConsecImperf-3fs
 v51 כָּל־|kāl-|So all|H3605|N-msc
 v51 הַמְּלָאכָ֔ה|ham·mə·lā·ḵāh|the work|H4399|Art | N-fs
@@ -788,4 +788,4 @@ v51 הַכֵּלִ֔ים|hak·kê·lîm|the furnishings|H3627|Art | N-mp
 v51 נָתַ֕ן|nā·ṯan|and he placed them|H5414|V-Qal-Perf-3ms
 v51 בְּאֹצְר֖וֹת|bə·’ō·ṣə·rō·wṯ|in the treasuries|H214|Prep-b | N-mpc
 v51 בֵּ֥ית|bêṯ|of the house|H1004|N-msc
-v51 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v51 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms

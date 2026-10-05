@@ -11,7 +11,7 @@ v1 בֶּן־|ben-|the son|H1121|N-msc
 v1 דּוֹד֖וֹ|dō·w·ḏōw|of Dodo|H1734|N-proper-ms
 v1 אִ֣ישׁ|’îš|a man|H376|N-msc
 v1 יִשָּׂשכָ֑ר|yiś·śā·š·ḵār|of Issachar|H3485|N-proper-ms
-v1 וְהֽוּא־|wə·hū-||H1931|Conj-w | Pro-3ms
+v1 וְהֽוּא־|wə·hū-|-|H1931|Conj-w | Pro-3ms
 v1 יֹשֵׁ֥ב|yō·šêḇ|He lived|H3427|V-Qal-Prtcpl-ms
 v1 בְּשָׁמִ֖יר|bə·šā·mîr|in Shamir|H8069|Prep-b | N-proper-fs
 v1 בְּהַ֥ר|bə·har|in the hill country|H2022|Prep-b | N-msc
@@ -24,7 +24,7 @@ v2 וְשָׁלֹ֖שׁ|wə·šā·lōš|...|H7969|Conj-w | Number-fs
 v2 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
 v2 וַיָּ֖מָת|way·yā·māṯ|and when he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v2 וַיִּקָּבֵ֥ר|way·yiq·qā·ḇêr|he was buried|H6912|Conj-w | V-Nifal-ConsecImperf-3ms
-v2 בְּשָׁמִֽיר׃פ|bə·šā·mîr|in Shamir|H8069|Prep-b | N-proper-fs
+v2 בְּשָׁמִֽיר׃|bə·šā·mîr|in Shamir|H8069|Prep-b | N-proper-fs
 v3 וַיָּ֣קָם|way·yā·qām|was followed by|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v3 אַחֲרָ֔יו|’a·ḥă·rāw|[Tola]|H310|Prep | 3ms
 v3 יָאִ֖יר|yā·’îr|Jair|H2971|N-proper-ms
@@ -36,7 +36,7 @@ v3 עֶשְׂרִ֥ים|‘eś·rîm|twenty-two|H6242|Number-cp
 v3 וּשְׁתַּ֖יִם|ū·šə·ta·yim|...|H8147|Conj-w | Number-fd
 v3 שָׁנָֽה׃|šā·nāh|years|H8141|N-fs
 v4 וַֽיְהִי־|way·hî-|He had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v4 ל֞וֹ|lōw||H0|Prep | 3ms
+v4 ל֞וֹ|lōw|-|H0|Prep | 3ms
 v4 שְׁלֹשִׁ֣ים|šə·lō·šîm|thirty|H7970|Number-cp
 v4 בָּנִ֗ים|bā·nîm|sons|H1121|N-mp
 v4 רֹֽכְבִים֙|rō·ḵə·ḇîm|who rode|H7392|V-Qal-Prtcpl-mp
@@ -48,7 +48,7 @@ v4 עֲיָרִ֖ים|‘ă·yā·rîm|towns|H5892|N-mp
 v4 לָהֶ֑ם|lā·hem|And they had|H0|Prep-l | Pro-3mp
 v4 לָהֶ֞ם|lā·hem|-|H0|Prep-l | Pro-3mp
 v4 יִקְרְא֣וּ׀|yiq·rə·’ū|are called|H7121|V-Qal-Imperf-3mp
-v4 חַוֺּ֣ת|ḥaw·wōṯ|vvv|H2334|N-fpc
+v4 חַוֺּ֣ת|ḥaw·wōṯ|...|H2334|N-fpc
 v4 יָאִ֗יר|yā·’îr|Havvoth-jair|H2334|N-proper-ms
 v4 עַ֚ד|‘aḏ|which to|H5704|Prep
 v4 הַיּ֣וֹם|hay·yō·wm|day|H3117|Art | N-ms
@@ -59,7 +59,7 @@ v4 הַגִּלְעָֽד׃|hag·gil·‘āḏ|of Gilead|H1568|Art | N-proper-fs
 v5 וַיָּ֣מָת|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v5 יָאִ֔יר|yā·’îr|When Jair|H2971|N-proper-ms
 v5 וַיִּקָּבֵ֖ר|way·yiq·qā·ḇêr|he was buried|H6912|Conj-w | V-Nifal-ConsecImperf-3ms
-v5 בְּקָמֽוֹן׃פ|bə·qā·mō·wn|in Kamon|H7056|Prep-b | N-proper-fs
+v5 בְּקָמֽוֹן׃|bə·qā·mō·wn|in Kamon|H7056|Prep-b | N-proper-fs
 v6 וַיֹּסִ֣פוּ׀|way·yō·si·p̄ū|And again|H3254|Conj-w | V-Hifil-ConsecImperf-3mp
 v6 בְּנֵ֣י|bə·nê|the Israelites|H1121|N-mpc
 v6 יִשְׂרָאֵ֗ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -75,8 +75,8 @@ v6 הָעַשְׁתָּר֡וֹת|hā·‘aš·tā·rō·wṯ|the Ashtoreths|H62
 v6 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v6 אֱלֹהֵ֣י|’ĕ·lō·hê|the gods|H430|N-mpc
 v6 אֲרָם֩|’ă·rām|of Aram|H758|N-proper-fs
-v6 וְאֶת־|wə·’eṯ-||H853|Conj-w | DirObjM
-v6 אֱלֹהֵ֨י|’ĕ·lō·hê||H430|N-mpc
+v6 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
+v6 אֱלֹהֵ֨י|’ĕ·lō·hê|-|H430|N-mpc
 v6 צִיד֜וֹן|ṣî·ḏō·wn|Sidon|H6721|N-proper-fs
 v6 וְאֵ֣ת׀|wə·’êṯ|and|H853|Conj-w | DirObjM
 v6 אֱלֹהֵ֣י|’ĕ·lō·hê|...|H430|N-mpc
@@ -152,12 +152,12 @@ v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 אֱלֹהֵ֔ינוּ|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
 v10 וַֽנַּעֲבֹ֖ד|wan·na·‘ă·ḇōḏ|and served|H5647|Conj-w | V-Qal-ConsecImperf-1cp
 v10 אֶת־|’eṯ-|-|H853|DirObjM
-v10 הַבְּעָלִֽים׃פ|hab·bə·‘ā·lîm|the Baals|H1168|Art | N-mp
+v10 הַבְּעָלִֽים׃|hab·bə·‘ā·lîm|the Baals|H1168|Art | N-mp
 v11 וַ֥יֹּאמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 יְהוָ֖ה|Yah·weh|The LORD|H3068|N-proper-ms
-v11 אֶל־|’el-||H413|Prep
-v11 בְּנֵ֣י|bə·nê||H1121|N-mpc
-v11 יִשְׂרָאֵ֑ל|yiś·rā·’êl||H3478|N-proper-ms
+v11 אֶל־|’el-|-|H413|Prep
+v11 בְּנֵ֣י|bə·nê|-|H1121|N-mpc
+v11 יִשְׂרָאֵ֑ל|yiś·rā·’êl|-|H3478|N-proper-ms
 v11 הֲלֹ֤א|hă·lō|-|H3808|Adv-NegPrt
 v11 מִמִּצְרַ֙יִם֙|mim·miṣ·ra·yim|When the Egyptians|H4714|Prep-m | N-proper-fs
 v11 וּמִן־|ū·min-|...|H4480|Conj-w | Prep
@@ -194,7 +194,7 @@ v14 אֶל־|’el-|to|H413|Prep
 v14 הָ֣אֱלֹהִ֔ים|hā·’ĕ·lō·hîm|the gods|H430|Art | N-mp
 v14 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v14 בְּחַרְתֶּ֖ם|bə·ḥar·tem|you have chosen|H977|V-Qal-Perf-2mp
-v14 בָּ֑ם|bām||H0|Prep | 3mp
+v14 בָּ֑ם|bām|-|H0|Prep | 3mp
 v14 הֵ֛מָּה|hêm·māh|Let them|H1992|Pro-3mp
 v14 יוֹשִׁ֥יעוּ|yō·wō·šî·‘ū|save|H3467|V-Hifil-Imperf-3mp
 v14 לָכֶ֖ם|lā·ḵem|you|H0|Prep | 2mp
@@ -228,7 +228,7 @@ v16 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v16 וַתִּקְצַ֥ר|wat·tiq·ṣar|could no longer bear|H7114|Conj-w | V-Qal-ConsecImperf-3fs
 v16 נַפְשׁ֖וֹ|nap̄·šōw|and He|H5315|N-fsc | 3ms
 v16 בַּעֲמַ֥ל|ba·‘ă·mal|the misery|H5999|Prep-b | N-msc
-v16 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v16 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v17 וַיִּצָּֽעֲקוּ֙|way·yiṣ·ṣā·‘ă·qū|were called to arms|H6817|Conj-w | V-Nifal-ConsecImperf-3mp
 v17 בְּנֵ֣י|bə·nê|Then the Ammonites|H1121|N-mpc
 v17 עַמּ֔וֹן|‘am·mō·wn|...|H5983|N-proper-ms
@@ -257,4 +257,4 @@ v18 יִֽהְיֶ֣ה|yih·yeh|will be|H1961|V-Qal-Imperf-3ms
 v18 לְרֹ֔אשׁ|lə·rōš|the head|H7218|Prep-l | N-ms
 v18 לְכֹ֖ל|lə·ḵōl|of all|H3605|Prep-l | N-msc
 v18 יֹשְׁבֵ֥י|yō·šə·ḇê|who live|H3427|V-Qal-Prtcpl-mpc
-v18 גִלְעָֽד׃פ|ḡil·‘āḏ|in Gilead|H1568|N-proper-fs
+v18 גִלְעָֽד׃|ḡil·‘āḏ|in Gilead|H1568|N-proper-fs

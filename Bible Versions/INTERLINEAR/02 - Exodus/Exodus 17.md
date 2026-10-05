@@ -19,13 +19,13 @@ v2 וַיָּ֤רֶב|way·yā·reḇ|contended|H7378|Conj-w | V-Qal-ConsecImper
 v2 הָעָם֙|hā·‘ām|So the people|H5971|Art | N-ms
 v2 עִם־|‘im-|with|H5973|Prep
 v2 מֹשֶׁ֔ה|mō·šeh|Moses|H4872|N-proper-ms
-v2 וַיֹּ֣אמְר֔וּ|way·yō·mə·rū||H559|Conj-w | V-Qal-ConsecImperf-3mp
+v2 וַיֹּ֣אמְר֔וּ|way·yō·mə·rū|-|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v2 תְּנוּ־|tə·nū-|Give|H5414|V-Qal-Imp-mp
 v2 לָ֥נוּ|lā·nū|us|H0|Prep | 1cp
 v2 מַ֖יִם|ma·yim|water|H4325|N-mp
 v2 וְנִשְׁתֶּ֑ה|wə·niš·teh|to drink|H8354|Conj-w | V-Qal-ConjImperf-1cp
 v2 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v2 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v2 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v2 מֹשֶׁ֔ה|mō·šeh|Moses|H4872|N-proper-ms
 v2 מַה־|mah-|Why|H4100|Interrog
 v2 תְּרִיבוּן֙|tə·rî·ḇūn|do you contend|H7378|V-Qal-Imperf-2mp | Pn
@@ -80,7 +80,7 @@ v5 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v5 וּמַטְּךָ֗|ū·maṭ·ṭə·ḵā|the staff|H4294|Conj-w | N-msc | 2ms
 v5 אֲשֶׁ֨ר|’ă·šer|with which|H834|Pro-r
 v5 הִכִּ֤יתָ|hik·kî·ṯā|you struck|H5221|V-Hifil-Perf-2ms
-v5 בּוֹ֙|bōw||H0|Prep | 3ms
+v5 בּוֹ֙|bōw|-|H0|Prep | 3ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 הַיְאֹ֔ר|hay·’ōr|the Nile|H2975|Art | N-proper-fs
 v5 קַ֥ח|qaḥ|Take along|H3947|V-Qal-Imp-ms
@@ -124,7 +124,7 @@ v7 הֲיֵ֧שׁ|hă·yêš|Is|H3426|Adv
 v7 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v7 בְּקִרְבֵּ֖נוּ|bə·qir·bê·nū|among us|H7130|Prep-b | N-msc | 1cp
 v7 אִם־|’im-|or|H518|Conj
-v7 אָֽיִן׃פ|’ā·yin|not|H369|Adv
+v7 אָֽיִן׃|’ā·yin|not|H369|Adv
 v8 וַיָּבֹ֖א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v8 עֲמָלֵ֑ק|‘ă·mā·lêq|After this, the Amalekites|H6002|N-proper-ms
 v8 וַיִּלָּ֥חֶם|way·yil·lā·ḥem|and attacked|H3898|Conj-w | V-Nifal-ConsecImperf-3ms
@@ -136,7 +136,7 @@ v9 מֹשֶׁ֤ה|mō·šeh|So Moses|H4872|N-proper-ms
 v9 אֶל־|’el-|to|H413|Prep
 v9 יְהוֹשֻׁ֙עַ֙|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v9 בְּחַר־|bə·ḥar-|Choose|H977|V-Qal-Imp-ms
-v9 לָ֣נוּ|lā·nū|vvv|H0|Prep | 1cp
+v9 לָ֣נוּ|lā·nū|...|H0|Prep | 1cp
 v9 אֲנָשִׁ֔ים|’ă·nā·šîm|some of our men|H582|N-mp
 v9 וְצֵ֖א|wə·ṣê|and go out|H3318|Conj-w | V-Qal-Imp-ms
 v9 הִלָּחֵ֣ם|hil·lā·ḥêm|to fight|H3898|V-Nifal-Imp-ms
@@ -206,7 +206,7 @@ v13 עֲמָלֵ֥ק|‘ă·mā·lêq|Amalek|H6002|N-proper-ms
 v13 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v13 עַמּ֖וֹ|‘am·mōw|and his army|H5971|N-msc | 3ms
 v13 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
-v13 חָֽרֶב׃פ|ḥā·reḇ|with the sword|H2719|N-fs
+v13 חָֽרֶב׃|ḥā·reḇ|with the sword|H2719|N-fs
 v14 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v14 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v14 אֶל־|’el-|to|H413|Prep
@@ -243,4 +243,4 @@ v16 מִלְחָמָ֥ה|mil·ḥā·māh|will war|H4421|N-fs
 v16 לַיהוָ֖ה|Yah·weh|The LORD|H3068|Prep-l | N-proper-ms
 v16 בַּֽעֲמָלֵ֑ק|ba·‘ă·mā·lêq|against Amalek|H6002|Prep-b | N-proper-ms
 v16 מִדֹּ֖ר|mid·dōr|from generation|H1755|Prep-m | N-ms
-v16 דֹּֽר׃פ|dōr|to generation|H1755|N-ms
+v16 דֹּֽר׃|dōr|to generation|H1755|N-ms

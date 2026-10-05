@@ -6,7 +6,7 @@ v1 מִלְחָמָ֔ה|mil·ḥā·māh|war|H4421|N-fs
 v1 בֵּ֥ין|bên|between|H996|Prep
 v1 אֲרָ֖ם|’ă·rām|Aram|H758|N-proper-fs
 v1 וּבֵ֥ין|ū·ḇên|...|H996|Conj-w | Prep
-v1 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|and Israel|H3478|N-proper-ms
+v1 יִשְׂרָאֵֽל׃|yiś·rā·’êl|and Israel|H3478|N-proper-ms
 v2 וַיְהִ֖י|way·hî|However|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v2 בַּשָּׁנָ֣ה|baš·šā·nāh|year|H8141|Prep-b, Art | N-fs
 v2 הַשְּׁלִישִׁ֑ית|haš·šə·lî·šîṯ|in the third|H7992|Art | Number-ofs
@@ -99,7 +99,7 @@ v7 מֵאוֹתֽוֹ׃|mê·’ō·w·ṯōw|-|H853|Prep-m | DirObjM | 3ms
 v8 וַיֹּ֣אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 מֶֽלֶךְ־|me·leḵ-|The king|H4428|N-msc
 v8 יִשְׂרָאֵ֣ל׀|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v8 אֶֽל־|’el-||H413|Prep
+v8 אֶֽל־|’el-|-|H413|Prep
 v8 יְהוֹשָׁפָ֡ט|yə·hō·wō·šā·p̄āṭ|-|H3092|N-proper-ms
 v8 ע֣וֹד|‘ō·wḏ|There is still|H5750|Adv
 v8 אִישׁ־|’îš-|man|H376|N-ms
@@ -115,7 +115,7 @@ v8 לֹֽא־|lō-|he never|H3808|Adv-NegPrt
 v8 יִתְנַבֵּ֨א|yiṯ·nab·bê|prophesies|H5012|V-Hitpael-Imperf-3ms
 v8 עָלַ֥י|‘ā·lay|for me|H5921|Prep | 1cs
 v8 טוֹב֙|ṭō·wḇ|anything good|H2896|N-ms
-v8 כִּ֣י|kî||H3588|Conj
+v8 כִּ֣י|kî|-|H3588|Conj
 v8 אִם־|’im-|but only|H518|Conj
 v8 רָ֔ע|rā‘|bad|H7451|Adj-ms
 v8 מִיכָ֖יְהוּ|mî·ḵā·yə·hū|He is Micaiah|H4321|N-proper-ms
@@ -144,7 +144,7 @@ v10 וִֽיהוֹשָׁפָ֣ט|wî·hō·wō·šā·p̄āṭ|and Jehoshaphat|H
 v10 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v10 יְהוּדָ֡ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v10 יֹשְׁבִים֩|yō·šə·ḇîm|were sitting|H3427|V-Qal-Prtcpl-mp
-v10 אִ֨ישׁ|’îš|vvv|H376|N-ms
+v10 אִ֨ישׁ|’îš|...|H376|N-ms
 v10 עַל־|‘al-|on|H5921|Prep
 v10 כִּסְא֜וֹ|kis·’ōw|their thrones|H3678|N-msc | 3ms
 v10 מְלֻבָּשִׁ֤ים|mə·lub·bā·šîm|Dressed|H3847|V-Pual-Prtcpl-mp
@@ -480,7 +480,7 @@ v31 אֶת־|’eṯ-|-|H853|DirObjM
 v31 שָׂרֵי֩|śā·rê|commanders|H8269|N-mpc
 v31 הָרֶ֨כֶב|hā·re·ḵeḇ|chariot|H7393|Art | N-ms
 v31 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v31 ל֜וֹ|lōw||H0|Prep | 3ms
+v31 ל֜וֹ|lōw|-|H0|Prep | 3ms
 v31 שְׁלֹשִׁ֤ים|šə·lō·šîm|his thirty-two|H7970|Number-cp
 v31 וּשְׁנַ֙יִם֙|ū·šə·na·yim|...|H8147|Conj-w | Number-md
 v31 לֵאמֹ֔ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
@@ -488,7 +488,7 @@ v31 לֹ֚א|lō|Do not|H3808|Adv-NegPrt
 v31 תִּלָּ֣חֲמ֔וּ|til·lā·ḥă·mū|fight|H3898|V-Nifal-Imperf-2mp
 v31 אֶת־|’eṯ-|with anyone|H854|Prep
 v31 קָטֹ֖ן|qā·ṭōn|small|H6996|Adj-ms
-v31 וְאֶת־|wə·’eṯ-||H854|Conj-w | DirObjM
+v31 וְאֶת־|wə·’eṯ-|-|H854|Conj-w | DirObjM
 v31 גָּד֑וֹל|gā·ḏō·wl|or great|H1419|Adj-ms
 v31 כִּ֛י|kî|except|H3588|Conj
 v31 אִֽם־|’im-|...|H518|Conj
@@ -629,7 +629,7 @@ v40 אֲבֹתָ֑יו|’ă·ḇō·ṯāw|his fathers|H1|N-mpc | 3ms
 v40 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v40 אֲחַזְיָ֥הוּ|’ă·ḥaz·yā·hū|Ahaziah|H274|N-proper-ms
 v40 בְנ֖וֹ|ḇə·nōw|and his son|H1121|N-msc | 3ms
-v40 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v40 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v41 וִיהֽוֹשָׁפָט֙|wî·hō·wō·šā·p̄āṭ|Jehoshaphat|H3092|Conj-w | N-proper-ms
 v41 בֶּן־|ben-|son|H1121|N-msc
 v41 אָסָ֔א|’ā·sā|of Asa|H609|N-proper-ms
@@ -727,7 +727,7 @@ v48 הָלָ֑ךְ|hā·lāḵ|set sail|H1980|V-Qal-Perf-3ms
 v48 כִּֽי־|kî-|because|H3588|Conj
 v48 נִשְׁבְּרָה|niš·bə·rå̄h|were wrecked|H7665|V-Nifal-Perf-3cp
 v48 אֳנִיּ֖וֹת|’o·nî·yō·wṯ|[they]|H591|N-fpc
-v48 בְּעֶצְי֥וֹן|bə·‘eṣ·yō·wn|vvv|H6100|Prep
+v48 בְּעֶצְי֥וֹן|bə·‘eṣ·yō·wn|...|H6100|Prep
 v48 גָּֽבֶר׃|gā·ḇer|at Ezion-geber|H6100|Prep | N-proper-fs
 v49 אָ֠ז|’āz|At that time|H227|Adv
 v49 אָמַ֞ר|’ā·mar|said|H559|V-Qal-Perf-3ms
@@ -757,7 +757,7 @@ v50 אָבִ֑יו|’ā·ḇîw|of his father|H1|N-msc | 3ms
 v50 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v50 יְהוֹרָ֥ם|yə·hō·w·rām|Jehoram|H3088|N-proper-ms
 v50 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v50 תַּחְתָּֽיו׃ס|taḥ·tāw|in his place|H8478|Prep | 3ms
+v50 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v51 אֲחַזְיָ֣הוּ|’ă·ḥaz·yā·hū|Ahaziah|H274|N-proper-ms
 v51 בֶן־|ḇen-|son|H1121|N-msc
 v51 אַחְאָ֗ב|’aḥ·’āḇ|of Ahab|H256|N-proper-ms
@@ -796,7 +796,7 @@ v53 וַֽיַּעֲבֹד֙|way·ya·‘ă·ḇōḏ|[Ahaziah] served|H5647|Co
 v53 אֶת־|’eṯ-|-|H853|DirObjM
 v53 הַבַּ֔עַל|hab·ba·‘al|Baal|H1168|Art | N-proper-ms
 v53 וַיִּֽשְׁתַּחֲוֶ֖ה|way·yiš·ta·ḥă·weh|and worshiped|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
-v53 ל֑וֹ|lōw||H0|Prep | 3ms
+v53 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v53 וַיַּכְעֵ֗ס|way·yaḵ·‘ês|provoking|H3707|Conj-w | V-Hifil-ConsecImperf-3ms
 v53 אֶת־|’eṯ-|-|H853|DirObjM
 v53 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms

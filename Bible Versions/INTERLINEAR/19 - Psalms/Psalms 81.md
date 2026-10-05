@@ -78,7 +78,7 @@ v10 אָנֹכִ֨י׀|’ā·nō·ḵî|I|H595|Pro-1cs
 v10 יְה֘וָ֤ה|Yah·weh|am the LORD|H3068|N-proper-ms
 v10 אֱלֹהֶ֗יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v10 הַֽ֭מַּעַלְךָ|ham·ma·‘al·ḵā|who brought you up|H5927|Art | V-Hifil-Prtcpl-msc | 2ms
-v10 מֵאֶ֣רֶץ|mê·’e·reṣ|vvv|H776|Prep-m | N-fsc
+v10 מֵאֶ֣רֶץ|mê·’e·reṣ|...|H776|Prep-m | N-fsc
 v10 מִצְרָ֑יִם|miṣ·rā·yim|out of Egypt|H4714|N-proper-fs
 v10 הַרְחֶב־|har·ḥeḇ-|...|H7337|V-Hifil-Imp-ms
 v10 פִּ֝֗יךָ|pî·ḵā|Open wide your mouth|H6310|N-msc | 2ms
@@ -113,7 +113,7 @@ v14 יָדִֽי׃|yā·ḏî|My hand|H3027|N-fsc | 1cs
 v15 מְשַׂנְאֵ֣י|mə·śan·’ê|Those who hate|H8130|V-Piel-Prtcpl-mpc
 v15 יְ֭הוָה|Yah·weh|the LORD|H3068|N-proper-ms
 v15 יְכַֽחֲשׁוּ־|yə·ḵa·ḥă·šū-|would feign obedience|H3584|V-Piel-Imperf-3mp
-v15 ל֑וֹ|lōw||H0|Prep | 3ms
+v15 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v15 וִיהִ֖י|wî·hî|would last forever|H1961|Conj-w | V-Qal-ConjImperf.Jus-3ms
 v15 עִתָּ֣ם|‘it·tām|and their doom|H6256|N-csc | 3mp
 v15 לְעוֹלָֽם׃|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms

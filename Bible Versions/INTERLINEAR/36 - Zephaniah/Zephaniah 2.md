@@ -51,7 +51,7 @@ v4 אַשְׁדּ֗וֹד|’aš·dō·wḏ|Ashdod|H795|N-proper-fs
 v4 בַּֽצָּהֳרַ֙יִם֙|baṣ·ṣā·ho·ra·yim|at noon|H6672|Prep-b, Art | N-mp
 v4 יְגָ֣רְשׁ֔וּהָ|yə·ḡā·rə·šū·hā|will be driven out|H1644|V-Piel-Imperf-3mp | 3fs
 v4 וְעֶקְר֖וֹן|wə·‘eq·rō·wn|and Ekron|H6138|Conj-w | N-proper-fs
-v4 תֵּעָקֵֽר׃ס|tê·‘ā·qêr|will be uprooted|H6131|V-Nifal-Imperf-3fs
+v4 תֵּעָקֵֽר׃|tê·‘ā·qêr|will be uprooted|H6131|V-Nifal-Imperf-3fs
 v5 ה֗וֹי|hō·w|Woe|H1945|Interjection
 v5 יֹֽשְׁבֵ֛י|yō·šə·ḇê|to the dwellers|H3427|V-Qal-Prtcpl-mpc
 v5 חֶ֥בֶל|ḥe·ḇel|of|H2256|N-msc
@@ -125,7 +125,7 @@ v9 חָר֛וּל|ḥā·rūl|of weeds|H2738|N-ms
 v9 וּמִכְרֵה־|ū·miḵ·rêh-|and|H4379|Conj-w | N-msc
 v9 מֶ֥לַח|me·laḥ|salt pits|H4417|N-ms
 v9 וּשְׁמָמָ֖ה|ū·šə·mā·māh|wasteland|H8077|Conj-w | N-fs
-v9 עַד־|‘aḏ-|vvv|H5704|Prep
+v9 עַד־|‘aḏ-|...|H5704|Prep
 v9 עוֹלָ֑ם|‘ō·w·lām|a perpetual|H5769|N-ms
 v9 שְׁאֵרִ֤ית|šə·’ê·rîṯ|The remnant|H7611|N-fsc
 v9 עַמִּי֙|‘am·mî|of My people|H5971|N-msc | 1cs
@@ -219,4 +219,4 @@ v15 עוֹבֵ֣ר|‘ō·w·ḇêr|who passes|H5674|V-Qal-Prtcpl-ms
 v15 עָלֶ֔יהָ|‘ā·le·hā|by her|H5921|Prep | 3fs
 v15 יִשְׁרֹ֖ק|yiš·rōq|hisses|H8319|V-Qal-Imperf-3ms
 v15 יָנִ֥יעַ|yā·nî·a‘|and shakes|H5128|V-Hifil-Imperf-3ms
-v15 יָדֽוֹ׃ס|yā·ḏōw|his fist|H3027|N-fsc | 3ms
+v15 יָדֽוֹ׃|yā·ḏōw|his fist|H3027|N-fsc | 3ms

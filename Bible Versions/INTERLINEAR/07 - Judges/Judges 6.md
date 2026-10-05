@@ -29,7 +29,7 @@ v2 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v2 הַמְּעָר֖וֹת|ham·mə·‘ā·rō·wṯ|caves|H4631|Art | N-fp
 v2 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v2 הַמְּצָדֽוֹת׃|ham·mə·ṣā·ḏō·wṯ|and strongholds|H4679|Art | N-fp
-v3 וְהָיָ֖ה|wə·hā·yāh|vvv|H1961|Conj-w | V-Qal-ConjPerf-3ms
+v3 וְהָיָ֖ה|wə·hā·yāh|...|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v3 אִם־|’im-|Whenever|H518|Conj
 v3 זָרַ֣ע|zā·ra‘|planted their crops|H2232|V-Qal-Perf-3ms
 v3 יִשְׂרָאֵ֑ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
@@ -81,7 +81,7 @@ v6 וַיִּזְעֲק֥וּ|way·yiz·‘ă·qū|cried out|H2199|Conj-w | V-Q
 v6 בְנֵֽי־|ḇə·nê-|and the Israelites|H1121|N-mpc
 v6 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v6 אֶל־|’el-|to|H413|Prep
-v6 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v6 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v7 וַיְהִ֕י|way·hî|Now|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v7 כִּֽי־|kî-|when|H3588|Conj
 v7 זָעֲק֥וּ|zā·‘ă·qū|cried out|H2199|V-Qal-Perf-3cp
@@ -96,7 +96,7 @@ v8 וַיִּשְׁלַ֧ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImp
 v8 יְהוָ֛ה|Yah·weh|[He]|H3068|N-proper-ms
 v8 אִ֥ישׁ|’îš|...|H376|N-ms
 v8 נָבִ֖יא|nā·ḇî|a prophet|H5030|N-ms
-v8 אֶל־|’el-||H413|Prep
+v8 אֶל־|’el-|-|H413|Prep
 v8 בְּנֵ֣י|bə·nê|them|H1121|N-mpc
 v8 יִשְׂרָאֵ֑ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v8 וַיֹּ֨אמֶר|way·yō·mer|who told|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -144,7 +144,7 @@ v10 יוֹשְׁבִ֣ים|yō·wō·šə·ḇîm|dwell|H3427|V-Qal-Prtcpl-mp
 v10 בְּאַרְצָ֑ם|bə·’ar·ṣām|land|H776|Prep-b | N-fsc | 3mp
 v10 וְלֹ֥א|wə·lō|But you did not|H3808|Conj-w | Adv-NegPrt
 v10 שְׁמַעְתֶּ֖ם|šə·ma‘·tem|obey Me|H8085|V-Qal-Perf-2mp
-v10 בְּקוֹלִֽי׃פ|bə·qō·w·lî|...|H6963|Prep-b | N-msc | 1cs
+v10 בְּקוֹלִֽי׃|bə·qō·w·lî|...|H6963|Prep-b | N-msc | 1cs
 v11 וַיָּבֹ֞א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v11 מַלְאַ֣ךְ|mal·’aḵ|Then the angel|H4397|N-msc
 v11 יְהוָ֗ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -155,7 +155,7 @@ v11 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v11 בְּעָפְרָ֔ה|bə·‘ā·p̄ə·rāh|in Ophrah|H6084|Prep-b | N-proper-fs
 v11 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v11 לְיוֹאָ֖שׁ|lə·yō·w·’āš|belonged to Joash|H3101|Prep-l | N-proper-ms
-v11 אֲבִ֣י|’ă·ḇî|vvv|H33|
+v11 אֲבִ֣י|’ă·ḇî|...|H33|
 v11 הָֽעֶזְרִ֑י|hā·‘ez·rî|the Abiezrite|H33|N-proper-ms
 v11 וְגִדְע֣וֹן|wə·ḡiḏ·‘ō·wn|Gideon|H1439|Conj-w | N-proper-ms
 v11 בְּנ֗וֹ|bə·nōw|where his son|H1121|N-msc | 3ms
@@ -292,10 +292,10 @@ v19 שָׂ֣ם|śām|...|H7760|V-Qal-Perf-3ms
 v19 בַּפָּר֑וּר|bap·pā·rūr|in a pot|H6517|Prep-b, Art | N-ms
 v19 וַיּוֹצֵ֥א|way·yō·w·ṣê|and brought them out|H3318|Conj-w | V-Hifil-ConsecImperf-3ms
 v19 אֵלָ֛יו|’ê·lāw|to Him|H413|Prep | 3ms
-v19 אֶל־|’el-||H413|Prep
+v19 אֶל־|’el-|-|H413|Prep
 v19 תַּ֥חַת|ta·ḥaṯ|under|H8478|Prep
 v19 הָאֵלָ֖ה|hā·’ê·lāh|the oak|H424|Art | N-fs
-v19 וַיַּגַּֽשׁ׃ס|way·yag·gaš|to present|H5066|Conj-w | V-Hifil-ConsecImperf-3ms
+v19 וַיַּגַּֽשׁ׃|way·yag·gaš|to present|H5066|Conj-w | V-Hifil-ConsecImperf-3ms
 v20 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֵלָ֜יו|’ê·lāw|to him|H413|Prep | 3ms
 v20 מַלְאַ֣ךְ|mal·’aḵ|And the angel|H4397|N-msc
@@ -381,8 +381,8 @@ v24 הַיּ֣וֹם|hay·yō·wm|day|H3117|Art | N-ms
 v24 הַזֶּ֔ה|haz·zeh|this|H2088|Art | Pro-ms
 v24 עוֹדֶ֕נּוּ|‘ō·w·ḏen·nū|it stands|H5750|Adv | 3ms
 v24 בְּעָפְרָ֖ת|bə·‘ā·p̄ə·rāṯ|in Ophrah|H6084|Prep-b | N-proper-fs
-v24 אֲבִ֥י|’ă·ḇî|vvv|H33|
-v24 הָעֶזְרִֽי׃פ|hā·‘ez·rî|of the Abiezrites|H33|N-proper-ms
+v24 אֲבִ֥י|’ă·ḇî|...|H33|
+v24 הָעֶזְרִֽי׃|hā·‘ez·rî|of the Abiezrites|H33|N-proper-ms
 v25 וַיְהִי֮|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v25 בַּלַּ֣יְלָה|bal·lay·lāh|night|H3915|Prep-b, Art | N-ms
 v25 הַהוּא֒|ha·hū|On that very|H1931|Art | Pro-3ms
@@ -432,7 +432,7 @@ v26 תִּכְרֹֽת׃|tiḵ·rōṯ|you cut down|H3772|V-Qal-Imperf-2ms
 v27 וַיִּקַּ֨ח|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v27 גִּדְע֜וֹן|giḏ·‘ō·wn|So Gideon|H1439|N-proper-ms
 v27 עֲשָׂרָ֤ה|‘ă·śā·rāh|ten|H6235|Number-ms
-v27 אֲנָשִׁים֙|’ă·nā·šîm|vvv|H582|N-mp
+v27 אֲנָשִׁים֙|’ă·nā·šîm|...|H582|N-mp
 v27 מֵֽעֲבָדָ֔יו|mê·‘ă·ḇā·ḏāw|of his servants|H5650|Prep-m | N-mpc | 3ms
 v27 וַיַּ֕עַשׂ|way·ya·‘aś|and did|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v27 כַּאֲשֶׁ֛ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
@@ -516,7 +516,7 @@ v31 עָלָ֜יו|‘ā·lāw|against him|H5921|Prep | 3ms
 v31 הַאַתֶּ֣ם׀|ha·’at·tem|Are you|H859|Art | Pro-2mp
 v31 תְּרִיב֣וּן|tə·rî·ḇūn|contending|H7378|V-Qal-Imperf-2mp | Pn
 v31 לַבַּ֗עַל|lab·ba·‘al|for Baal|H1168|Prep-l, Art | N-proper-ms
-v31 אִם־|’im-||H518|Conj
+v31 אִם־|’im-|-|H518|Conj
 v31 אַתֶּם֙|’at·tem|Are you|H859|Pro-2mp
 v31 תּוֹשִׁיע֣וּן|tō·wō·šî·‘ūn|trying to save him|H3467|V-Hifil-Imperf-2mp | Pn
 v31 אוֹת֔וֹ|’ō·w·ṯōw|-|H853|DirObjM | 3ms
@@ -547,7 +547,7 @@ v32 הַבַּ֔עַל|hab·ba·‘al|Let Baal|H1168|Art | N-proper-ms
 v32 כִּ֥י|kî|because|H3588|Conj
 v32 נָתַ֖ץ|nā·ṯaṣ|he had torn down|H5422|V-Qal-Perf-3ms
 v32 אֶֽת־|’eṯ-|-|H853|DirObjM
-v32 מִזְבְּחֽוֹ׃פ|miz·bə·ḥōw|[Baal's] altar|H4196|N-msc | 3ms
+v32 מִזְבְּחֽוֹ׃|miz·bə·ḥōw|[Baal's] altar|H4196|N-msc | 3ms
 v33 וְכָל־|wə·ḵāl|Then all|H3605|Conj-w | N-msc
 v33 מִדְיָ֧ן|miḏ·yān|the Midianites|H4080|N-proper-ms
 v33 וַעֲמָלֵ֛ק|wa·‘ă·mā·lêq|Amalekites|H6002|Conj-w | N-proper-ms
@@ -632,7 +632,7 @@ v38 וַיִּ֤מֶץ|way·yi·meṣ|and wrung|H4680|Conj-w | V-Qal-ConsecImper
 v38 טַל֙|ṭal|the dew|H2919|N-ms
 v38 מִן־|min-|out|H4480|Prep
 v38 הַגִּזָּ֔ה|hag·giz·zāh|...|H1492|Art | N-fs
-v38 מְל֥וֹא|mə·lō·w|vvv|H4393|N-msc
+v38 מְל֥וֹא|mə·lō·w|...|H4393|N-msc
 v38 הַסֵּ֖פֶל|has·sê·p̄el|a bowlful|H5602|Art | N-ms
 v38 מָֽיִם׃|mā·yim|of water|H4325|N-mp
 v39 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -676,4 +676,4 @@ v40 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v40 כָּל־|kāl-|...|H3605|N-msc
 v40 הָאָ֖רֶץ|hā·’ā·reṣ|the ground|H776|Art | N-fs
 v40 הָ֥יָה|hā·yāh|covered|H1961|V-Qal-Perf-3ms
-v40 טָֽל׃פ|ṭāl|and dew|H2919|N-ms
+v40 טָֽל׃|ṭāl|and dew|H2919|N-ms

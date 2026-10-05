@@ -16,9 +16,9 @@ v1 ἐπισυναγωγῆς|episynagōgēs|being gathered together|G1997|N-GFS
 v1 ἐπ’|ep’|to|G1909|Prep
 v1 αὐτόν|auton|Him|G846|PPro-AM3S
 v2 εἰς|eis|-|G1519|Prep
-v2 τὸ|to|vvv|G3588|Art-ANS
+v2 τὸ|to|...|G3588|Art-ANS
 v2 μὴ|mē|not|G3361|Adv
-v2 ταχέως|tacheōs|vvv|G5030|Adv
+v2 ταχέως|tacheōs|...|G5030|Adv
 v2 σαλευθῆναι|saleuthēnai|to be easily disconcerted|G4531|V-ANP
 v2 ὑμᾶς|hymas|-|G4771|PPro-A2P
 v2 ἀπὸ|apo|...|G575|Prep
@@ -58,7 +58,7 @@ v3 μὴ|mē|...|G3361|Adv
 v3 ἔλθῃ|elthē|occurs|G2064|V-ASA-3S
 v3 ἡ|hē|the|G3588|Art-NFS
 v3 ἀποστασία|apostasia|rebellion|G646|N-NFS
-v3 πρῶτον|prōton|vvv|G4412|Adv-S
+v3 πρῶτον|prōton|...|G4412|Adv-S
 v3 καὶ|kai|and|G2532|Conj
 v3 ἀποκαλυφθῇ|apokalyphthē|is revealed|G601|V-ASP-3S
 v3 ὁ|ho|the|G3588|Art-NMS
@@ -92,7 +92,7 @@ v4 ἑαυτὸν|heauton|...|G1438|RefPro-AM3S
 v4 ὅτι|hoti|-|G3754|Conj
 v4 ἔστιν|estin|to be|G1510|V-PIA-3S
 v4 Θεός|Theos|God|G2316|N-NMS
-v5 Οὐ|Ou|vvv|G3756|Adv
+v5 Οὐ|Ou|...|G3756|Adv
 v5 μνημονεύετε|mnēmoneuete|Do you not remember|G3421|V-PIA-2P
 v5 ὅτι|hoti|that|G3754|Conj
 v5 ἔτι|eti|still|G2089|Adv
@@ -103,7 +103,7 @@ v5 ταῦτα|tauta|these things|G3778|DPro-ANP
 v5 ἔλεγον|elegon|I told|G2036|V-IIA-1S
 v5 ὑμῖν|hymin|you|G4771|PPro-D2P
 v6 καὶ|kai|And|G2532|Conj
-v6 νῦν|nyn|vvv|G3568|Adv
+v6 νῦν|nyn|...|G3568|Adv
 v6 τὸ|to|what|G3588|Art-ANS
 v6 κατέχον|katechon|is now restraining [him]|G2722|V-PPA-ANS
 v6 οἴδατε|oidate|you know|G1492|V-RIA-2P
@@ -152,7 +152,7 @@ v8 ἐπιφανείᾳ|epiphaneia|majesty|G2015|N-DFS
 v8 τῆς|tēs|of|G3588|Art-GFS
 v8 παρουσίας|parousias|arrival|G3952|N-GFS
 v8 αὐτοῦ|autou|His|G846|PPro-GM3S
-v9 οὗ|hou|vvv|G3739|RelPro-GMS
+v9 οὗ|hou|...|G3739|RelPro-GMS
 v9 ἐστιν|estin|will be|G1510|V-PIA-3S
 v9 ἡ|hē|The|G3588|Art-NFS
 v9 παρουσία|parousia|coming [of the lawless one]|G3952|N-NFS
@@ -181,7 +181,7 @@ v10 τὴν|tēn|the|G3588|Art-AFS
 v10 ἀγάπην|agapēn|love|G26|N-AFS
 v10 τῆς|tēs|of the|G3588|Art-GFS
 v10 ἀληθείας|alētheias|truth|G225|N-GFS
-v10 οὐκ|ouk|vvv|G3756|Adv
+v10 οὐκ|ouk|...|G3756|Adv
 v10 ἐδέξαντο|edexanto|they refused|G1209|V-AIM-3P
 v10 εἰς|eis|that would have|G1519|Prep
 v10 τὸ|to|-|G3588|Art-ANS
@@ -206,7 +206,7 @@ v12 ἵνα|hina|in order that|G2443|Conj
 v12 κριθῶσιν|krithōsin|judgment may come upon|G2919|V-ASP-3P
 v12 πάντες|pantes|all|G3956|Adj-NMP
 v12 οἱ|hoi|who|G3588|Art-NMP
-v12 μὴ|mē|vvv|G3361|Adv
+v12 μὴ|mē|...|G3361|Adv
 v12 πιστεύσαντες|pisteusantes|have disbelieved|G4100|V-APA-NMP
 v12 τῇ|tē|the|G3588|Art-DFS
 v12 ἀληθείᾳ|alētheia|truth|G225|N-DFS

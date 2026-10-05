@@ -89,7 +89,7 @@ v6 καὶ|kai|Although|G2532|Conj
 v6 ἰδιώτης|idiōtēs|[I am] not a polished|G2399|N-NMS
 v6 τῷ|tō|-|G3588|Art-DMS
 v6 λόγῳ|logō|speaker|G3056|N-DMS
-v6 ἀλλ’|all’|vvv|G235|Conj
+v6 ἀλλ’|all’|...|G235|Conj
 v6 οὐ|ou|I am certainly not lacking|G3756|Adv
 v6 τῇ|tē|-|G3588|Art-DFS
 v6 γνώσει|gnōsei|in knowledge|G1108|N-DFS
@@ -107,7 +107,7 @@ v7 ἐποίησα|epoiēsa|[for me]|G4160|V-AIA-1S
 v7 ἐμαυτὸν|emauton|myself|G1683|PPro-AM1S
 v7 ταπεινῶν|tapeinōn|to humble|G5013|V-PPA-NMS
 v7 ἵνα|hina|in order to|G2443|Conj
-v7 ὑμεῖς|hymeis|vvv|G4771|PPro-N2P
+v7 ὑμεῖς|hymeis|...|G4771|PPro-N2P
 v7 ὑψωθῆτε|hypsōthēte|exalt you|G5312|V-ASP-2P
 v7 ὅτι|hoti|because|G3754|Conj
 v7 δωρεὰν|dōrean|free of charge|G1432|Adv
@@ -132,7 +132,7 @@ v9 πρὸς|pros|with|G4314|Prep
 v9 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v9 καὶ|kai|and|G2532|Conj
 v9 ὑστερηθεὶς|hysterētheis|in need|G5302|V-APP-NMS
-v9 οὐ|ou|vvv|G3756|Adv
+v9 οὐ|ou|...|G3756|Adv
 v9 κατενάρκησα|katenarkēsa|I was not a burden|G2655|V-AIA-1S
 v9 οὐθενός|outhenos|[to anyone]|G3762|Adj-GMS
 v9 τὸ|to|-|G3588|Art-ANS
@@ -163,7 +163,7 @@ v10 ὅτι|hoti|-|G3754|Conj
 v10 ἡ|hē|-|G3588|Art-NFS
 v10 καύχησις|kauchēsis|boasting|G2746|N-NFS
 v10 αὕτη|hautē|this|G3778|DPro-NFS
-v10 οὐ|ou|vvv|G3756|Adv
+v10 οὐ|ou|...|G3756|Adv
 v10 φραγήσεται|phragēsetai|will not be silenced|G5420|V-FIP-3S
 v10 εἰς|eis|of|G1519|Prep
 v10 ἐμὲ|eme|mine|G1473|PPro-A1S
@@ -175,7 +175,7 @@ v10 Ἀχαΐας|Achaias|of Achaia|G882|N-GFS
 v11 διὰ|dia|Why|G1223|Prep
 v11 τί|ti|...|G5101|IPro-ANS
 v11 ὅτι|hoti|Because|G3754|Conj
-v11 οὐκ|ouk|vvv|G3756|Adv
+v11 οὐκ|ouk|...|G3756|Adv
 v11 ἀγαπῶ|agapō|I do not love|G25|V-PIA-1S
 v11 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v11 ὁ|ho|-|G3588|Art-NMS
@@ -184,7 +184,7 @@ v11 οἶδεν|oiden|knows [I do]|G1492|V-RIA-3S
 v12 Ὃ|Ho|what|G3739|RelPro-ANS
 v12 δὲ|de|But|G1161|Conj
 v12 ποιῶ|poiō|I am doing|G4160|V-PIA-1S
-v12 καὶ|kai|vvv|G2532|Conj
+v12 καὶ|kai|...|G2532|Conj
 v12 ποιήσω|poiēsō|I will keep on doing|G4160|V-FIA-1S
 v12 ἵνα|hina|in order|G2443|Conj
 v12 ἐκκόψω|ekkopsō|to undercut|G1581|V-ASA-1S
@@ -242,7 +242,7 @@ v15 κατὰ|kata|...|G2596|Prep
 v15 τὰ|ta|-|G3588|Art-ANP
 v15 ἔργα|erga|actions|G2041|N-ANP
 v15 αὐτῶν|autōn|their|G846|PPro-GM3P
-v16 Πάλιν|Palin|vvv|G3825|Adv
+v16 Πάλιν|Palin|...|G3825|Adv
 v16 λέγω|legō|I repeat|G3004|V-PIA-1S
 v16 μή|mē|{Let} no|G3361|Adv
 v16 τίς|tis|one|G5100|IPro-NMS
@@ -265,7 +265,7 @@ v16 τι|ti|a|G5100|IPro-ANS
 v16 καυχήσωμαι|kauchēsōmai|may boast|G2744|V-ASM-1S
 v17 ὃ|ho|-|G3739|RelPro-ANS
 v17 λαλῶ|lalō|-|G2980|V-PIA-1S
-v17 οὐ|ou|vvv|G3756|Adv
+v17 οὐ|ou|...|G3756|Adv
 v17 κατὰ|kata|as|G2596|Prep
 v17 Κύριον|Kyrion|[the] Lord {would}|G2962|N-AMS
 v17 λαλῶ|lalō|I am not speaking|G2980|V-PIA-1S
@@ -328,7 +328,7 @@ v21 δ’|d’|however|G1161|Conj
 v21 ἄν|an|...|G302|Prtcl
 v21 τις|tis|anyone else|G5100|IPro-NMS
 v21 τολμᾷ|tolma|dares [to boast about]|G5111|V-PSA-3S
-v21 ἐν|en|vvv|G1722|Prep
+v21 ἐν|en|...|G1722|Prep
 v21 ἀφροσύνῃ|aphrosynē|as a fool|G877|N-DFS
 v21 λέγω|legō|Speaking|G3004|V-PIA-1S
 v21 τολμῶ|tolmō|[match]|G5111|V-PIA-1S
@@ -407,14 +407,14 @@ v26 ψευδαδέλφοις|pseudadelphois|false brothers|G5569|N-DMP
 v27 κόπῳ|kopō|in labor|G2873|N-DMS
 v27 καὶ|kai|and|G2532|Conj
 v27 μόχθῳ|mochthō|toil|G3449|N-DMS
-v27 ἐν|en|vvv|G1722|Prep
+v27 ἐν|en|...|G1722|Prep
 v27 ἀγρυπνίαις|agrypniais|without sleep|G70|N-DFP
 v27 πολλάκις|pollakis|[and] often|G4178|Adv
 v27 ἐν|en|in|G1722|Prep
 v27 λιμῷ|limō|hunger|G3042|N-DMS
 v27 καὶ|kai|and|G2532|Conj
 v27 δίψει|dipsei|thirst|G1373|N-DNS
-v27 ἐν|en|vvv|G1722|Prep
+v27 ἐν|en|...|G1722|Prep
 v27 νηστείαις|nēsteiais|without food|G3521|N-DFP
 v27 πολλάκις|pollakis|[and] often|G4178|Adv
 v27 ἐν|en|in|G1722|Prep
@@ -427,8 +427,8 @@ v28 παρεκτὸς|parektos|these external|G3924|Adv
 v28 ἡ|hē|the|G3588|Art-NFS
 v28 ἐπίστασίς|epistasis|pressure|G1999|N-NFS
 v28 μοι|moi|I [face]|G1473|PPro-D1S
-v28 ἡ|hē|vvv|G3588|Art-NFS
-v28 καθ’|kath’|vvv|G2596|Prep
+v28 ἡ|hē|...|G3588|Art-NFS
+v28 καθ’|kath’|...|G2596|Prep
 v28 ἡμέραν|hēmeran|daily|G2250|N-AFS
 v28 ἡ|hē|[of my]|G3588|Art-NFS
 v28 μέριμνα|merimna|concern|G3308|N-NFS
@@ -438,7 +438,7 @@ v28 ἐκκλησιῶν|ekklēsiōn|churches|G1577|N-GFP
 v29 τίς|tis|Who|G5101|IPro-NMS
 v29 ἀσθενεῖ|asthenei|is weak|G770|V-PIA-3S
 v29 καὶ|kai|and|G2532|Conj
-v29 οὐκ|ouk|vvv|G3756|Adv
+v29 οὐκ|ouk|...|G3756|Adv
 v29 ἀσθενῶ|asthenō|I am not weak|G770|V-PIA-1S
 v29 τίς|tis|Who|G5101|IPro-NMS
 v29 σκανδαλίζεται|skandalizetai|is led into sin|G4624|V-PIM/P-3S
@@ -465,11 +465,11 @@ v31 οἶδεν|oiden|knows|G1492|V-RIA-3S
 v31 ὁ|ho|who|G3588|Art-NMS
 v31 ὢν|ōn|is|G1510|V-PPA-NMS
 v31 εὐλογητὸς|eulogētos|worthy of praise|G2128|Adj-NMS
-v31 εἰς|eis|vvv|G1519|Prep
-v31 τοὺς|tous|vvv|G3588|Art-AMP
+v31 εἰς|eis|...|G1519|Prep
+v31 τοὺς|tous|...|G3588|Art-AMP
 v31 αἰῶνας|aiōnas|forever|G165|N-AMP
 v31 ὅτι|hoti|that|G3754|Conj
-v31 οὐ|ou|vvv|G3756|Adv
+v31 οὐ|ou|...|G3756|Adv
 v31 ψεύδομαι|pseudomai|I am not lying|G5574|V-PIM/P-1S
 v32 ἐν|en|In|G1722|Prep
 v32 Δαμασκῷ|Damaskō|Damascus|G1154|N-DFS

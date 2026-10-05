@@ -1,13 +1,13 @@
 v1 Διὰ|Dia|therefore|G1223|Prep
 v1 τοῦτο|touto|...|G3778|DPro-ANS
 v1 δεῖ|dei|must|G1163|V-PIA-3S
-v1 περισσοτέρως|perissoterōs|vvv|G4057|Adv
+v1 περισσοτέρως|perissoterōs|...|G4057|Adv
 v1 προσέχειν|prosechein|pay closer attention|G4337|V-PNA
 v1 ἡμᾶς|hēmas|We|G1473|PPro-A1P
 v1 τοῖς|tois|to what|G3588|Art-DNP
 v1 ἀκουσθεῖσιν|akoustheisin|we have heard|G191|V-APP-DNP
-v1 μή‿|mē|vvv|G3361|Adv
-v1 ποτε|pote|vvv|G4219|Conj
+v1 μή‿|mē|...|G3361|Adv
+v1 ποτε|pote|...|G4219|Conj
 v1 παραρυῶμεν|pararyōmen|so that we do not drift away|G3901|V-ASA-1P
 v2 εἰ|ei|if|G1487|Conj
 v2 γὰρ|gar|For|G1063|Conj
@@ -27,7 +27,7 @@ v2 ἔλαβεν|elaben|received|G2983|V-AIA-3S
 v2 ἔνδικον|endikon|[its] just|G1738|Adj-AFS
 v2 μισθαποδοσίαν|misthapodosian|punishment|G3405|N-AFS
 v3 πῶς|pōs|how|G4459|Adv
-v3 ἡμεῖς|hēmeis|vvv|G1473|PPro-N1P
+v3 ἡμεῖς|hēmeis|...|G1473|PPro-N1P
 v3 ἐκφευξόμεθα|ekpheuxometha|shall we escape|G1628|V-FIM-1P
 v3 τηλικαύτης|tēlikautēs|such a great|G5082|DPro-GFS
 v3 ἀμελήσαντες|amelēsantes|if we neglect|G272|V-APA-NMP
@@ -121,7 +121,7 @@ v8 αὐτῷ|autō|...|G846|PPro-DM3S
 v8 ἀνυπότακτον|anypotakton|outside of his control|G506|Adj-ANS
 v8 νῦν|nyn|at present|G3568|Adv
 v8 δὲ|de|Yet|G1161|Conj
-v8 οὔπω|oupō|vvv|G3768|Adv
+v8 οὔπω|oupō|...|G3768|Adv
 v8 ὁρῶμεν|horōmen|we do not see|G3708|V-PIA-1P
 v8 αὐτῷ|autō|to him|G846|PPro-DM3S
 v8 τὰ|ta|-|G3588|Art-ANP
@@ -129,7 +129,7 @@ v8 πάντα|panta|everything|G3956|Adj-ANP
 v8 ὑποτεταγμένα|hypotetagmena|subject|G5293|V-RPM/P-ANP
 v9 τὸν|ton|who|G3588|Art-AMS
 v9 δὲ|de|But|G1161|Conj
-v9 βραχύ|brachy|vvv|G1024|Adv
+v9 βραχύ|brachy|...|G1024|Adv
 v9 τι|ti|...|G5100|IPro-ANS
 v9 παρ’|par’|than|G3844|Prep
 v9 ἀγγέλους|angelous|[the] angels|G32|N-AMP
@@ -190,7 +190,7 @@ v11 πάντες|pantes|[are]|G3956|Adj-NMP
 v11 δι’|di’|So|G1223|Prep
 v11 ἣν|hēn|...|G3739|RelPro-AFS
 v11 αἰτίαν|aitian|...|G156|N-AFS
-v11 οὐκ|ouk|vvv|G3756|Adv
+v11 οὐκ|ouk|...|G3756|Adv
 v11 ἐπαισχύνεται|epaischynetai|[Jesus] is not ashamed|G1870|V-PIM/P-3S
 v11 ἀδελφοὺς|adelphous|brothers|G80|N-AMP
 v11 αὐτοὺς|autous|them|G846|PPro-AM3P

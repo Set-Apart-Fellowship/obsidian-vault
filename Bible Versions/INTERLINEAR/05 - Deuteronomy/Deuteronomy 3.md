@@ -53,7 +53,7 @@ v3 וַנַּכֵּ֕הוּ|wan·nak·kê·hū|We struck them down|H5221|Conj-w 
 v3 עַד־|‘aḏ-|-|H5704|Prep
 v3 בִּלְתִּ֥י|bil·tî|until no|H1115|Prep
 v3 הִשְׁאִֽיר־|hiš·’îr-|was left|H7604|V-Hifil-Perf-3ms
-v3 ל֖וֹ|lōw||H0|Prep | 3ms
+v3 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v3 שָׂרִֽיד׃|śā·rîḏ|survivor|H8300|N-ms
 v4 וַנִּלְכֹּ֤ד|wan·nil·kōḏ|we captured|H3920|Conj-w | V-Qal-ConsecImperf-1cp
 v4 אֶת־|’eṯ-|-|H853|DirObjM
@@ -227,7 +227,7 @@ v14 עַל־|‘al-|after|H5921|Prep
 v14 שְׁמ֤וֹ|šə·mōw|himself|H8034|N-msc | 3ms
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 הַבָּשָׁן֙|hab·bā·šān|Bashan|H1316|Art | N-proper-fs
-v14 חַוֺּ֣ת|ḥaw·wōṯ|vvv|H2334|N-fpc
+v14 חַוֺּ֣ת|ḥaw·wōṯ|...|H2334|N-fpc
 v14 יָאִ֔יר|yā·’îr|Havvoth-jair|H2334|N-proper-ms
 v14 עַ֖ד|‘aḏ|...|H5704|Prep
 v14 הַיּ֥וֹם|hay·yō·wm|to this day|H3117|Art | N-ms
@@ -359,7 +359,7 @@ v22 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v22 אֱלֹֽהֵיכֶ֔ם|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
 v22 ה֖וּא|hū|Himself|H1931|Pro-3ms
 v22 הַנִּלְחָ֥ם|han·nil·ḥām|will fight|H3898|Art | V-Nifal-Prtcpl-ms
-v22 לָכֶֽם׃ס|lā·ḵem|for you|H0|Prep | 2mp
+v22 לָכֶֽם׃|lā·ḵem|for you|H0|Prep | 2mp
 v23 וָאֶתְחַנַּ֖ן|wā·’eṯ·ḥan·nan|I also pleaded|H2603|Conj-w | V-Hitpael-ConsecImperf-1cs
 v23 אֶל־|’el-|...|H413|Prep
 v23 יְהוָ֑ה|Yah·weh|with the LORD|H3068|N-proper-ms
@@ -411,7 +411,7 @@ v26 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v26 יְהוָ֤ה|Yah·weh|the LORD|H3068|N-proper-ms
 v26 אֵלַי֙|’ê·lay|to me|H413|Prep | 1cs
 v26 רַב־|raḇ-|That is enough|H7227|Adv
-v26 לָ֔ךְ|lāḵ||H0|Prep | 2fs
+v26 לָ֔ךְ|lāḵ|-|H0|Prep | 2fs
 v26 אַל־|’al-|Do not|H408|Adv
 v26 תּ֗וֹסֶף|tō·w·sep̄|Me|H3254|V-Hifil-Imperf.Jus-2ms
 v26 דַּבֵּ֥ר|dab·bêr|speak|H1696|V-Piel-Inf
@@ -457,5 +457,5 @@ v28 תִּרְאֶֽה׃|tir·’eh|you will see|H7200|V-Qal-Imperf-2ms
 v29 וַנֵּ֣שֶׁב|wan·nê·šeḇ|So we stayed|H3427|Conj-w | V-Qal-ConsecImperf-1cp
 v29 בַּגָּ֔יְא|bag·gāy|in the valley|H1516|Prep-b, Art | N-cs
 v29 מ֖וּל|mūl|opposite|H4136|Prep
-v29 בֵּ֥ית|bêṯ|vvv|H1047|Prep
-v29 פְּעֽוֹר׃פ|pə·‘ō·wr|Beth-peor|H1047|N-proper-fs
+v29 בֵּ֥ית|bêṯ|...|H1047|Prep
+v29 פְּעֽוֹר׃|pə·‘ō·wr|Beth-peor|H1047|N-proper-fs

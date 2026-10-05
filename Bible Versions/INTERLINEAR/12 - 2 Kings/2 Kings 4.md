@@ -14,7 +14,7 @@ v1 וְאַתָּ֣ה|wə·’at·tāh|and you|H859|Conj-w | Pro-2ms
 v1 יָדַ֔עְתָּ|yā·ḏa‘·tā|know|H3045|V-Qal-Perf-2ms
 v1 כִּ֣י|kî|that|H3588|Conj
 v1 עַבְדְּךָ֔|‘aḇ·də·ḵā|your servant|H5650|N-msc | 2ms
-v1 הָיָ֥ה|hā·yāh||H1961|V-Qal-Perf-3ms
+v1 הָיָ֥ה|hā·yāh|-|H1961|V-Qal-Perf-3ms
 v1 יָרֵ֖א|yā·rê|feared|H3373|Adj-ms
 v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -43,7 +43,7 @@ v2 אֵ֣ין|’ên|has nothing|H369|Adv
 v2 לְשִׁפְחָתְךָ֥|lə·šip̄·ḥā·ṯə·ḵā|Your servant|H8198|Prep-l | N-fsc | 2ms
 v2 כֹל֙|ḵōl|...|H3605|N-ms
 v2 בַּבַּ֔יִת|bab·ba·yiṯ|in the house|H1004|Prep-b, Art | N-ms
-v2 כִּ֖י|kî|vvv|H3588|Conj
+v2 כִּ֖י|kî|...|H3588|Conj
 v2 אִם־|’im-|but|H518|Conj
 v2 אָס֥וּךְ|’ā·sūḵ|a jar|H610|N-msc
 v2 שָֽׁמֶן׃|šā·men|of oil|H8081|N-ms
@@ -53,8 +53,8 @@ v3 שַׁאֲלִי־|ša·’ă·lî-|borrow|H7592|V-Qal-Imp-fs
 v3 לָ֤ךְ|lāḵ|-|H0|Prep | 2fs
 v3 כֵּלִים֙|kê·lîm|-|H3627|N-mp
 v3 מִן־|min-|from|H4480|Prep
-v3 הַח֔וּץ|ha·ḥūṣ|vvv|H2351|Art | N-ms
-v3 מֵאֵ֖ת|mê·’êṯ|vvv|H854|Prep-m | DirObjM
+v3 הַח֔וּץ|ha·ḥūṣ|...|H2351|Art | N-ms
+v3 מֵאֵ֖ת|mê·’êṯ|...|H854|Prep-m | DirObjM
 v3 כָּל־|kāl-|all|H3605|N-msc
 v3 שִׁכְנָכֵי|šiḵ·nå̄·ḵē|your neighbors|H7934|N-mpc | 2fs
 v3 כֵּלִ֥ים|kê·lîm|jars|H3627|N-mp
@@ -118,7 +118,7 @@ v7 נִשְׁיֵכִי|niš·yē·ḵī|your debt|H5386|N-msc | 2fs
 v7 וְאַ֣תְּ|wə·’at|Then you|H859|Conj-w | Pro-2fs
 v7 בְּנֵיכִי|bə·nē·ḵī|and your sons|H1121|Conj-w | N-mpc | 2fs
 v7 תִֽחְיִ֖י|ṯiḥ·yî|can live|H2421|V-Qal-Imperf-2fs
-v7 בַּנּוֹתָֽר׃פ|ban·nō·w·ṯār|on the remainder|H3498|Prep-b, Art | V-Nifal-Prtcpl-ms
+v7 בַּנּוֹתָֽר׃|ban·nō·w·ṯār|on the remainder|H3498|Prep-b, Art | V-Nifal-Prtcpl-ms
 v8 וַיְהִ֨י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 הַיּ֜וֹם|hay·yō·wm|One day|H3117|Art | N-ms
 v8 וַיַּעֲבֹ֧ר|way·ya·‘ă·ḇōr|went|H5674|Conj-w | V-Qal-ConsecImperf-3ms
@@ -207,7 +207,7 @@ v13 לַעֲשׂ֣וֹת|la·‘ă·śō·wṯ|can we do|H6213|Prep-l | V-Qal-I
 v13 לָ֔ךְ|lāḵ|for you|H0|Prep | 2fs
 v13 הֲיֵ֤שׁ|hă·yêš|...|H3426|Adv
 v13 לְדַבֶּר־|lə·ḏab·ber-|Can we speak|H1696|Prep-l | V-Piel-Inf
-v13 לָךְ֙|lāḵ||H0|Prep | 2fs
+v13 לָךְ֙|lāḵ|-|H0|Prep | 2fs
 v13 אֶל־|’el-|on your behalf to|H413|Prep
 v13 הַמֶּ֔לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v13 א֖וֹ|’ōw|or|H176|Conj
@@ -375,7 +375,7 @@ v26 רֽוּץ־|rūṣ-|run out|H7323|V-Qal-Imp-ms
 v26 נָ֣א|nā|Please|H4994|Interjection
 v26 לִקְרָאתָהּ֒|liq·rā·ṯāh|to meet her|H7122|Prep-l | V-Qal-Inf | 3fs
 v26 וֶאֱמָר־|we·’ĕ·mār-|and ask|H559|Conj-w | V-Qal-Imp-ms
-v26 לָ֗הּ|lāh||H0|Prep | 3fs
+v26 לָ֗הּ|lāh|-|H0|Prep | 3fs
 v26 הֲשָׁל֥וֹם|hă·šā·lō·wm|Are you all right|H7965|Art | N-ms
 v26 לָ֛ךְ|lāḵ|...|H0|Prep | 2fs
 v26 הֲשָׁל֥וֹם|hă·šā·lō·wm|all right|H7965|Art | N-ms
@@ -403,7 +403,7 @@ v27 לָהּ֙|lāh|...|H0|Prep | 3fs
 v27 כִּֽי־|kî-|for|H3588|Conj
 v27 נַפְשָׁ֣הּ|nap̄·šāh|her soul|H5315|N-fsc | 3fs
 v27 מָֽרָה־|mā·rāh-|[is] in deep distress|H4843|V-Qal-Perf-3fs
-v27 לָ֔הּ|lāh||H0|Prep | 3fs
+v27 לָ֔הּ|lāh|-|H0|Prep | 3fs
 v27 וַֽיהוָה֙|Yah·weh|and the LORD|H3068|Conj-w | N-proper-ms
 v27 הֶעְלִ֣ים|he‘·lîm|has hidden|H5956|V-Hifil-Perf-3ms
 v27 מִמֶּ֔נִּי|mim·men·nî|it from me|H4480|Prep | 1cs
@@ -554,7 +554,7 @@ v37 אָ֑רְצָה|’ā·rə·ṣāh|to the ground|H776|N-fs | 3fs
 v37 וַתִּשָּׂ֥א|wat·tiś·śā|Then she picked up|H5375|Conj-w | V-Qal-ConsecImperf-3fs
 v37 אֶת־|’eṯ-|-|H853|DirObjM
 v37 בְּנָ֖הּ|bə·nāh|her son|H1121|N-msc | 3fs
-v37 וַתֵּצֵֽא׃פ|wat·tê·ṣê|and went out|H3318|Conj-w | V-Qal-ConsecImperf-3fs
+v37 וַתֵּצֵֽא׃|wat·tê·ṣê|and went out|H3318|Conj-w | V-Qal-ConsecImperf-3fs
 v38 וֶאֱלִישָׁ֞ע|we·’ĕ·lî·šā‘|When Elisha|H477|Conj-w | N-proper-ms
 v38 שָׁ֤ב|šāḇ|returned|H7725|V-Qal-Perf-3ms
 v38 הַגִּלְגָּ֙לָה֙|hag·gil·gā·lāh|to Gilgal|H1537|Art | N-proper-fs | 3fs
@@ -626,10 +626,10 @@ v41 וְלֹ֥א|wə·lō|nothing|H3808|Conj-w | Adv-NegPrt
 v41 הָיָ֛ה|hā·yāh|And there was|H1961|V-Qal-Perf-3ms
 v41 דָּבָ֥ר|dā·ḇār|...|H1697|N-ms
 v41 רָ֖ע|rā‘|harmful|H7451|Adj-ms
-v41 בַּסִּֽיר׃ס|bas·sîr|in the pot|H5518|Prep-b, Art | N-cs
+v41 בַּסִּֽיר׃|bas·sîr|in the pot|H5518|Prep-b, Art | N-cs
 v42 וְאִ֨ישׁ|wə·’îš|Now a man|H376|Conj-w | N-ms
 v42 בָּ֜א|bā|came|H935|V-Qal-Perf-3ms
-v42 מִבַּ֣עַל|mib·ba·‘al|vvv|H1190|Prep
+v42 מִבַּ֣עַל|mib·ba·‘al|...|H1190|Prep
 v42 שָׁלִ֗שָׁה|šā·li·šāh|from Baal-shalishah|H1190|Prep | N-proper-fs
 v42 וַיָּבֵא֩|way·yā·ḇê|...|H935|Conj-w | V-Hifil-ConsecImperf-3ms
 v42 לְאִ֨ישׁ|lə·’îš|to the man|H376|Prep-l | N-msc
@@ -668,4 +668,4 @@ v44 לִפְנֵיהֶ֛ם|lip̄·nê·hem|before them|H6440|Prep-l | N-mpc | 3m
 v44 וַיֹּאכְל֥וּ|way·yō·ḵə·lū|and they ate|H398|Conj-w | V-Qal-ConsecImperf-3mp
 v44 וַיּוֹתִ֖רוּ|way·yō·w·ṯi·rū|and had [some] left over|H3498|Conj-w | V-Hifil-ConsecImperf-3mp
 v44 כִּדְבַ֥ר|kiḏ·ḇar|according to the word|H1697|Prep-k | N-msc
-v44 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v44 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms

@@ -120,7 +120,7 @@ v7 הִצַּלְתִּ֖יךָ|hiṣ·ṣal·tî·ḵā|delivered you|H5337|V-H
 v7 מִיַּ֥ד|mî·yaḏ|from the hand|H3027|Prep-m | N-fsc
 v7 שָׁאֽוּל׃|šā·’ūl|of Saul|H7586|N-proper-ms
 v8 וָאֶתְּנָ֨ה|wā·’et·tə·nāh|I gave|H5414|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
-v8 לְךָ֜|lə·ḵā||H0|Prep | 2ms
+v8 לְךָ֜|lə·ḵā|-|H0|Prep | 2ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 בֵּ֣ית|bêṯ|house to you|H1004|N-msc
 v8 אֲדֹנֶ֗יךָ|’ă·ḏō·ne·ḵā|your master's|H113|N-mpc | 2ms
@@ -156,7 +156,7 @@ v9 בַחֶ֔רֶב|ḇa·ḥe·reḇ|to the sword|H2719|Prep-b, Art | N-fs
 v9 וְאֶ֨ת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v9 אִשְׁתּ֔וֹ|’iš·tōw|his wife|H802|N-fsc | 3ms
 v9 לָקַ֥חְתָּ|lā·qaḥ·tā|and took|H3947|V-Qal-Perf-2ms
-v9 לְּךָ֖|lə·ḵā||H0|Prep | 2ms
+v9 לְּךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v9 לְאִשָּׁ֑ה|lə·’iš·šāh|as your own|H802|Prep-l | N-fs
 v9 וְאֹת֣וֹ|wə·’ō·ṯōw|-|H853|Conj-w | DirObjM | 3ms
 v9 הָרַ֔גְתָּ|hā·raḡ·tā|You have slain him|H2026|V-Qal-Perf-2ms
@@ -180,7 +180,7 @@ v10 אוּרִיָּ֣ה|’ū·rî·yāh|of Uriah|H223|N-proper-ms
 v10 הַחִתִּ֔י|ha·ḥit·tî|the Hittite|H2850|Art | N-proper-ms
 v10 לִהְי֥וֹת|lih·yō·wṯ|to be|H1961|Prep-l | V-Qal-Inf
 v10 לְךָ֖|lə·ḵā|your|H0|Prep | 2ms
-v10 לְאִשָּֽׁה׃ס|lə·’iš·šāh|own|H802|Prep-l | N-fs
+v10 לְאִשָּֽׁה׃|lə·’iš·šāh|own|H802|Prep-l | N-fs
 v11 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v11 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v11 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -214,7 +214,7 @@ v12 נֶ֥גֶד|ne·ḡeḏ|before|H5048|Prep
 v12 כָּל־|kāl-|all|H3605|N-msc
 v12 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v12 וְנֶ֥גֶד|wə·ne·ḡeḏ|...|H5048|Conj-w | Prep
-v12 הַשָּֽׁמֶשׁ׃ס|haš·šā·meš|in broad daylight|H8121|Art | N-cs
+v12 הַשָּֽׁמֶשׁ׃|haš·šā·meš|in broad daylight|H8121|Art | N-cs
 v13 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 דָּוִד֙|dā·wiḏ|Then David|H1732|N-proper-ms
 v13 אֶל־|’el-|to|H413|Prep
@@ -286,7 +286,7 @@ v17 וְלֹֽא־|wə·lō-|and would not|H3808|Conj-w | Adv-NegPrt
 v17 בָרָ֥א|ḇā·rā|eat|H1254|V-Qal-Perf-3ms
 v17 אִתָּ֖ם|’it·tām|anything with them|H854|Prep | 3mp
 v17 לָֽחֶם׃|lā·ḥem|...|H3899|N-ms
-v18 וַיְהִ֛י|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v18 וַיְהִ֛י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v18 בַּיּ֥וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v18 הַשְּׁבִיעִ֖י|haš·šə·ḇî·‘î|On the seventh|H7637|Art | Number-oms
 v18 וַיָּ֣מָת|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
@@ -358,9 +358,9 @@ v21 וַיֹּאמְר֤וּ|way·yō·mə·rū|asked|H559|Conj-w | V-Qal-Consec
 v21 עֲבָדָיו֙|‘ă·ḇā·ḏāw|his servants|H5650|N-mpc | 3ms
 v21 אֵלָ֔יו|’ê·lāw|...|H413|Prep | 3ms
 v21 מָֽה־|māh-|What [is]|H4100|Interrog
-v21 הַדָּבָ֥ר|had·dā·ḇār||H1697|Art | N-ms
+v21 הַדָּבָ֥ר|had·dā·ḇār|-|H1697|Art | N-ms
 v21 הַזֶּ֖ה|haz·zeh|this|H2088|Art | Pro-ms
-v21 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v21 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v21 עָשִׂ֑יתָה|‘ā·śî·ṯāh|you have done|H6213|V-Qal-Perf-2ms
 v21 בַּעֲב֞וּר|ba·‘ă·ḇūr|While|H5668|Prep-b | N-ms
 v21 הַיֶּ֤לֶד|hay·ye·leḏ|the child|H3206|Art | N-ms
@@ -406,7 +406,7 @@ v23 אֵלָֽי׃|’ê·lāy|to me|H413|Prep | 1cs
 v24 וַיְנַחֵ֣ם|way·na·ḥêm|comforted|H5162|Conj-w | V-Piel-ConsecImperf-3ms
 v24 דָּוִ֗ד|dā·wiḏ|Then David|H1732|N-proper-ms
 v24 אֵ֚ת|’êṯ|-|H853|DirObjM
-v24 בַּת־|baṯ-|vvv|H1339|Prep
+v24 בַּת־|baṯ-|...|H1339|Prep
 v24 שֶׁ֣בַע|še·ḇa‘|Bathsheba|H1339|N-proper-fs
 v24 אִשְׁתּ֔וֹ|’iš·tōw|his wife|H802|N-fsc | 3ms
 v24 וַיָּבֹ֥א|way·yā·ḇō|and he went|H935|Conj-w | V-Qal-ConsecImperf-3ms
@@ -430,7 +430,7 @@ v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 שְׁמ֖וֹ|šə·mōw|-|H8034|N-msc | 3ms
 v25 יְדִ֣ידְיָ֑הּ|yə·ḏî·ḏə·yāh|Jedidiah|H3041|N-proper-ms
 v25 בַּעֲב֖וּר|ba·‘ă·ḇūr|because|H5668|Prep-b | N-ms
-v25 יְהוָֽה׃פ|Yah·weh|the LORD [loved him]|H3068|N-proper-ms
+v25 יְהוָֽה׃|Yah·weh|the LORD [loved him]|H3068|N-proper-ms
 v26 וַיִּלָּ֣חֶם|way·yil·lā·ḥem|fought|H3898|Conj-w | V-Nifal-ConsecImperf-3ms
 v26 יוֹאָ֔ב|yō·w·’āḇ|Meanwhile, Joab|H3097|N-proper-ms
 v26 בְּרַבַּ֖ת|bə·rab·baṯ|against Rabbah|H7237|Prep-b | N-proper-fs
@@ -524,4 +524,4 @@ v31 וַיָּ֧שָׁב|way·yā·šāḇ|returned|H7725|Conj-w | V-Qal-ConsecI
 v31 דָּוִ֛ד|dā·wiḏ|Then [David]|H1732|N-proper-ms
 v31 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v31 הָעָ֖ם|hā·‘ām|his troops|H5971|Art | N-ms
-v31 יְרוּשָׁלִָֽם׃פ|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
+v31 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs

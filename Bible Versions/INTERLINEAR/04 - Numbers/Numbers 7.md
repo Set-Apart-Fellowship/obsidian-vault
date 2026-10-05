@@ -149,7 +149,7 @@ v11 יַקְרִ֙יבוּ֙|yaq·rî·ḇū|is to present|H7126|V-Hifil-Imperf-
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 קָרְבָּנָ֔ם|qā·rə·bā·nām|his offering|H7133|N-msc | 3mp
 v11 לַחֲנֻכַּ֖ת|la·ḥă·nuk·kaṯ|for the dedication|H2598|Prep-l | N-fsc
-v11 הַמִּזְבֵּֽחַ׃ס|ham·miz·bê·aḥ|of the altar|H4196|Art | N-ms
+v11 הַמִּזְבֵּֽחַ׃|ham·miz·bê·aḥ|of the altar|H4196|Art | N-ms
 v12 וַיְהִ֗י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v12 הַמַּקְרִ֛יב|ham·maq·rîḇ|drew near|H7126|Art | V-Hifil-Prtcpl-ms
 v12 בַּיּ֥וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
@@ -218,7 +218,7 @@ v17 זֶ֛ה|zeh|This|H2088|Pro-ms
 v17 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v17 נַחְשׁ֖וֹן|naḥ·šō·wn|of Nahshon|H5177|N-proper-ms
 v17 בֶּן־|ben-|son|H1121|N-msc
-v17 עַמִּינָדָֽב׃פ|‘am·mî·nā·ḏāḇ|of Amminadab|H5992|N-proper-ms
+v17 עַמִּינָדָֽב׃|‘am·mî·nā·ḏāḇ|of Amminadab|H5992|N-proper-ms
 v18 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v18 הַשֵּׁנִ֔י|haš·šê·nî|On the second|H8145|Art | Number-oms
 v18 הִקְרִ֖יב|hiq·rîḇ|drew near|H7126|V-Hifil-Perf-3ms
@@ -286,7 +286,7 @@ v23 זֶ֛ה|zeh|This|H2088|Pro-ms
 v23 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v23 נְתַנְאֵ֖ל|nə·ṯan·’êl|of Nethanel|H5417|N-proper-ms
 v23 בֶּן־|ben-|son|H1121|N-msc
-v23 צוּעָֽר׃פ|ṣū·‘ār|of Zuar|H6686|N-proper-ms
+v23 צוּעָֽר׃|ṣū·‘ār|of Zuar|H6686|N-proper-ms
 v24 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v24 הַשְּׁלִישִׁ֔י|haš·šə·lî·šî|On the third|H7992|Art | Number-oms
 v24 נָשִׂ֖יא|nā·śî|the leader|H5387|N-ms
@@ -352,7 +352,7 @@ v29 זֶ֛ה|zeh|This|H2088|Pro-ms
 v29 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v29 אֱלִיאָ֖ב|’ĕ·lî·’āḇ|of Eliab|H446|N-proper-ms
 v29 בֶּן־|ben-|son|H1121|N-msc
-v29 חֵלֹֽן׃פ|ḥê·lōn|of Helon|H2497|N-proper-ms
+v29 חֵלֹֽן׃|ḥê·lōn|of Helon|H2497|N-proper-ms
 v30 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v30 הָרְבִיעִ֔י|hā·rə·ḇî·‘î|On the fourth|H7243|Art | Number-oms
 v30 נָשִׂ֖יא|nā·śî|the leader|H5387|N-ms
@@ -418,7 +418,7 @@ v35 זֶ֛ה|zeh|This|H2088|Pro-ms
 v35 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v35 אֱלִיצ֖וּר|’ĕ·lî·ṣūr|of Elizur|H468|N-proper-ms
 v35 בֶּן־|ben-|son|H1121|N-msc
-v35 שְׁדֵיאֽוּר׃פ|šə·ḏê·’ūr|of Shedeur|H7707|N-proper-ms
+v35 שְׁדֵיאֽוּר׃|šə·ḏê·’ūr|of Shedeur|H7707|N-proper-ms
 v36 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v36 הַחֲמִישִׁ֔י|ha·ḥă·mî·šî|On the fifth|H2549|Art | Number-oms
 v36 נָשִׂ֖יא|nā·śî|the leader|H5387|N-ms
@@ -484,7 +484,7 @@ v41 זֶ֛ה|zeh|This|H2088|Pro-ms
 v41 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v41 שְׁלֻמִיאֵ֖ל|šə·lu·mî·’êl|of Shelumiel|H8017|N-proper-ms
 v41 בֶּן־|ben-|son|H1121|N-msc
-v41 צוּרִֽישַׁדָּֽי׃פ|ṣū·rî·šad·dāy|of Zurishaddai|H6701|N-proper-ms
+v41 צוּרִֽישַׁדָּֽי׃|ṣū·rî·šad·dāy|of Zurishaddai|H6701|N-proper-ms
 v42 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v42 הַשִּׁשִּׁ֔י|haš·šiš·šî|On the sixth|H8345|Art | Number-oms
 v42 נָשִׂ֖יא|nā·śî|the leader|H5387|N-ms
@@ -550,7 +550,7 @@ v47 זֶ֛ה|zeh|This|H2088|Pro-ms
 v47 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v47 אֶלְיָסָ֖ף|’el·yā·sāp̄|of Eliasaph|H460|N-proper-ms
 v47 בֶּן־|ben-|son|H1121|N-msc
-v47 דְּעוּאֵֽל׃פ|də·‘ū·’êl|of Deuel|H1845|N-proper-ms
+v47 דְּעוּאֵֽל׃|də·‘ū·’êl|of Deuel|H1845|N-proper-ms
 v48 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v48 הַשְּׁבִיעִ֔י|haš·šə·ḇî·‘î|On the seventh|H7637|Art | Number-oms
 v48 נָשִׂ֖יא|nā·śî|the leader|H5387|N-ms
@@ -616,15 +616,15 @@ v53 זֶ֛ה|zeh|This|H2088|Pro-ms
 v53 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v53 אֱלִישָׁמָ֖ע|’ĕ·lî·šā·mā‘|of Elishama|H476|N-proper-ms
 v53 בֶּן־|ben-|son|H1121|N-msc
-v53 עַמִּיהֽוּד׃פ|‘am·mî·hūḏ|of Ammihud|H5989|N-proper-ms
+v53 עַמִּיהֽוּד׃|‘am·mî·hūḏ|of Ammihud|H5989|N-proper-ms
 v54 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v54 הַשְּׁמִינִ֔י|haš·šə·mî·nî|On the eighth|H8066|Art | Number-oms
 v54 נָשִׂ֖יא|nā·śî|the leader|H5387|N-ms
 v54 לִבְנֵ֣י|liḇ·nê|son|H1121|Prep-l | N-mpc
-v54 מְנַשֶּׁ֑ה|mə·naš·šeh|vvv|H4519|N-proper-ms
+v54 מְנַשֶּׁ֑ה|mə·naš·šeh|...|H4519|N-proper-ms
 v54 גַּמְלִיאֵ֖ל|gam·lî·’êl|Gamaliel|H1583|N-proper-ms
 v54 בֶּן־|ben-|of the Manassites, [drew near]|H1121|N-msc
-v54 פְּדָה־|pə·ḏāh-|vvv|H6301|
+v54 פְּדָה־|pə·ḏāh-|...|H6301|
 v54 צֽוּר׃|ṣūr|of Pedahzur|H6301|N-proper-ms
 v55 קָרְבָּנ֞וֹ|qā·rə·bā·nōw|His offering|H7133|N-msc | 3ms
 v55 קַֽעֲרַת־|qa·‘ă·raṯ-|platter|H7086|N-fsc
@@ -683,7 +683,7 @@ v59 זֶ֛ה|zeh|This|H2088|Pro-ms
 v59 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v59 גַּמְלִיאֵ֖ל|gam·lî·’êl|of Gamaliel|H1583|N-proper-ms
 v59 בֶּן־|ben-|son|H1121|N-msc
-v59 פְּדָהצֽוּר׃פ|pə·ḏå̄·h·ṣūr|of Pedahzur|H6301|N-proper-ms
+v59 פְּדָהצֽוּר׃|pə·ḏå̄·h·ṣūr|of Pedahzur|H6301|N-proper-ms
 v60 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v60 הַתְּשִׁיעִ֔י|hat·tə·šî·‘î|On the ninth|H8671|Art | Number-oms
 v60 נָשִׂ֖יא|nā·śî|the leader|H5387|N-ms
@@ -749,7 +749,7 @@ v65 זֶ֛ה|zeh|This|H2088|Pro-ms
 v65 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v65 אֲבִידָ֖ן|’ă·ḇî·ḏān|of Abidan|H27|N-proper-ms
 v65 בֶּן־|ben-|son|H1121|N-msc
-v65 גִּדְעֹנִֽי׃פ|giḏ·‘ō·nî|of Gideoni|H1441|N-proper-ms
+v65 גִּדְעֹנִֽי׃|giḏ·‘ō·nî|of Gideoni|H1441|N-proper-ms
 v66 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v66 הָעֲשִׂירִ֔י|hā·‘ă·śî·rî|On the tenth|H6224|Art | Number-oms
 v66 נָשִׂ֖יא|nā·śî|the leader|H5387|N-ms
@@ -815,7 +815,7 @@ v71 זֶ֛ה|zeh|This|H2088|Pro-ms
 v71 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v71 אֲחִיעֶ֖זֶר|’ă·ḥî·‘e·zer|of Ahiezer|H295|N-proper-ms
 v71 בֶּן־|ben-|son|H1121|N-msc
-v71 עַמִּישַׁדָּֽי׃פ|‘am·mî·šad·dāy|of Ammishaddai|H5996|N-proper-ms
+v71 עַמִּישַׁדָּֽי׃|‘am·mî·šad·dāy|of Ammishaddai|H5996|N-proper-ms
 v72 בְּיוֹם֙|bə·yō·wm|day|H3117|Prep-b | N-msc
 v72 עַשְׁתֵּ֣י|‘aš·tê|On the eleventh|H6249|Number-csc
 v72 עָשָׂ֣ר|‘ā·śār|...|H6240|Number-ms
@@ -883,7 +883,7 @@ v77 זֶ֛ה|zeh|This|H2088|Pro-ms
 v77 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v77 פַּגְעִיאֵ֖ל|paḡ·‘î·’êl|of Pagiel|H6295|N-proper-ms
 v77 בֶּן־|ben-|son|H1121|N-msc
-v77 עָכְרָֽן׃פ|‘ā·ḵə·rān|of Ocran|H5918|N-proper-ms
+v77 עָכְרָֽן׃|‘ā·ḵə·rān|of Ocran|H5918|N-proper-ms
 v78 בְּיוֹם֙|bə·yō·wm|day|H3117|Prep-b | N-msc
 v78 שְׁנֵ֣ים|šə·nêm|On the twelfth|H8147|Number-md
 v78 עָשָׂ֣ר|‘ā·śār|...|H6240|Number-ms
@@ -951,11 +951,11 @@ v83 זֶ֛ה|zeh|This|H2088|Pro-ms
 v83 קָרְבַּ֥ן|qā·rə·ban|was the offering|H7133|N-msc
 v83 אֲחִירַ֖ע|’ă·ḥî·ra‘|of Ahira|H299|N-proper-ms
 v83 בֶּן־|ben-|son|H1121|N-msc
-v83 עֵינָֽן׃פ|‘ê·nān|of Enan|H5881|N-proper-ms
+v83 עֵינָֽן׃|‘ê·nān|of Enan|H5881|N-proper-ms
 v84 זֹ֣את׀|zōṯ|[So] these [were the offerings]|H2063|Pro-fs
 v84 חֲנֻכַּ֣ת|ḥă·nuk·kaṯ|for the dedication|H2598|N-fsc
 v84 הַמִּזְבֵּ֗חַ|ham·miz·bê·aḥ|of the altar|H4196|Art | N-ms
-v84 בְּיוֹם֙|bə·yō·wm|vvv|H3117|Prep-b | N-ms
+v84 בְּיוֹם֙|bə·yō·wm|...|H3117|Prep-b | N-ms
 v84 הִמָּשַׁ֣ח|him·mā·šaḥ|when it was anointed|H4886|V-Nifal-Inf
 v84 אֹת֔וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v84 מֵאֵ֖ת|mê·’êṯ|-|H854|Prep-m | DirObjM
@@ -997,7 +997,7 @@ v86 מְלֵאֹ֣ת|mə·lê·’ōṯ|filled with|H4392|Adj-fp
 v86 קְטֹ֔רֶת|qə·ṭō·reṯ|incense|H7004|N-fs
 v86 עֲשָׂרָ֧ה|‘ă·śā·rāh|[weighed] ten [shekels]|H6235|Number-ms
 v86 עֲשָׂרָ֛ה|‘ă·śā·rāh|each|H6235|Number-ms
-v86 הַכַּ֖ף|hak·kap̄||H3709|Art | N-fs
+v86 הַכַּ֖ף|hak·kap̄|-|H3709|Art | N-fs
 v86 בְּשֶׁ֣קֶל|bə·še·qel|shekel|H8255|Prep-b | N-msc
 v86 הַקֹּ֑דֶשׁ|haq·qō·ḏeš|according to the sanctuary|H6944|Art | N-ms
 v86 כָּל־|kāl-|The total|H3605|N-msc
@@ -1068,4 +1068,4 @@ v89 מִבֵּ֖ין|mib·bên|from between|H996|Prep-m
 v89 שְׁנֵ֣י|šə·nê|the two|H8147|Number-mdc
 v89 הַכְּרֻבִ֑ים|hak·kə·ru·ḇîm|cherubim|H3742|Art | N-mp
 v89 וַיְדַבֵּ֖ר|way·ḏab·bêr|Thus [the LORD] spoke|H1696|Conj-w | V-Piel-ConsecImperf-3ms
-v89 אֵלָֽיו׃פ|’ê·lāw|to him|H413|Prep | 3ms
+v89 אֵלָֽיו׃|’ê·lāw|to him|H413|Prep | 3ms

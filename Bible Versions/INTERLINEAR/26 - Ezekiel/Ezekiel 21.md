@@ -34,7 +34,7 @@ v3 וְרָשָֽׁע׃|wə·rā·šā‘|and the wicked|H7563|Conj-w | Adj-ms
 v4 יַ֛עַן|ya·‘an|Because|H3282|Adv
 v4 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v4 הִכְרַ֥תִּי|hiḵ·rat·tî|I will cut off|H3772|V-Hifil-Perf-1cs
-v4 מִמֵּ֖ךְ|mim·mêḵ||H4480|Prep | 2fs
+v4 מִמֵּ֖ךְ|mim·mêḵ|-|H4480|Prep | 2fs
 v4 צַדִּ֣יק|ṣad·dîq|both the righteous|H6662|Adj-ms
 v4 וְרָשָׁ֑ע|wə·rā·šā‘|and the wicked|H7563|Conj-w | Adj-ms
 v4 לָ֠כֵן|lā·ḵên|-|H3651|Adv
@@ -57,7 +57,7 @@ v5 חַרְבִּ֖י|ḥar·bî|My sword|H2719|N-fsc | 1cs
 v5 מִתַּעְרָ֑הּ|mit·ta‘·rāh|from its sheath|H8593|Prep-m | N-msc | 3fs
 v5 לֹ֥א|lō|not|H3808|Adv-NegPrt
 v5 תָשׁ֖וּב|ṯā·šūḇ|to return it|H7725|V-Qal-Imperf-3fs
-v5 עֽוֹד׃ס|‘ō·wḏ|again|H5750|Adv
+v5 עֽוֹד׃|‘ō·wḏ|again|H5750|Adv
 v6 וְאַתָּ֥ה|wə·’at·tāh|But you|H859|Conj-w | Pro-2ms
 v6 בֶן־|ḇen-|son|H1121|N-msc
 v6 אָדָ֖ם|’ā·ḏām|of man|H120|N-ms
@@ -70,7 +70,7 @@ v6 לְעֵינֵיהֶֽם׃|lə·‘ê·nê·hem|before their eyes|H5869|Prep-
 v7 וְהָיָה֙|wə·hā·yāh|And|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v7 כִּֽי־|kî-|when|H3588|Conj
 v7 יֹאמְר֣וּ|yō·mə·rū|they ask|H559|V-Qal-Imperf-3mp
-v7 אֵלֶ֔יךָ|’ê·le·ḵā||H413|Prep | 2ms
+v7 אֵלֶ֔יךָ|’ê·le·ḵā|-|H413|Prep | 2ms
 v7 עַל־|‘al-|Why|H5921|Prep
 v7 מָ֖ה|māh|...|H4100|Interrog
 v7 אַתָּ֣ה|’at·tāh|are you|H859|Pro-2ms
@@ -98,7 +98,7 @@ v7 בָאָה֙|ḇā·’āh|it is coming|H935|V-Qal-Prtcpl-fs
 v7 וְנִֽהְיָ֔תָה|wə·nih·yā·ṯāh|and it will surely happen|H1961|Conj-w | V-Nifal-ConjPerf-3fs
 v7 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v7 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v7 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v7 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v8 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דְבַר־|ḏə·ḇar-|Again the word|H1697|N-msc
 v8 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -123,7 +123,7 @@ v10 טֶ֙בַח֙|ṭe·ḇaḥ|the slaughter|H2874|N-ms
 v10 הוּחַ֔דָּה|hū·ḥad·dāh|it is sharpened|H2300|V-Hofal-Perf-3fs
 v10 לְמַעַן־|lə·ma·‘an-|...|H4616|Prep
 v10 הֱיֵה־|hĕ·yêh-|...|H1961|V-Qal-Imp-ms
-v10 לָ֥הּ|lāh||H0|Prep | 3fs
+v10 לָ֥הּ|lāh|-|H0|Prep | 3fs
 v10 בָּ֖רָק|bā·rāq|to flash like lightning|H1300|N-ms
 v10 מֹרָ֑טָּה|mō·rāṭ·ṭāh|polished|H4803|V-Pual-Perf-3fs
 v10 א֣וֹ|’ōw|...|H176|Conj
@@ -180,7 +180,7 @@ v13 לֹ֣א|lō|does not|H3808|Adv-NegPrt
 v13 יִֽהְיֶ֑ה|yih·yeh|continue|H1961|V-Qal-Imperf-3ms
 v13 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v13 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v13 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v13 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v14 וְאַתָּ֣ה|wə·’at·tāh|So then|H859|Conj-w | Pro-2ms
 v14 בֶן־|ḇen-|son|H1121|N-msc
 v14 אָדָ֔ם|’ā·ḏām|of man|H120|N-ms
@@ -233,7 +233,7 @@ v17 וַהֲנִחֹתִ֖י|wa·hă·ni·ḥō·ṯî|and I will satisfy|H5117
 v17 חֲמָתִ֑י|ḥă·mā·ṯî|My wrath|H2534|N-fsc | 1cs
 v17 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v17 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v17 דִּבַּֽרְתִּי׃פ|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
+v17 דִּבַּֽרְתִּי׃|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
 v18 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v18 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v18 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -243,7 +243,7 @@ v19 וְאַתָּ֨ה|wə·’at·tāh|Now you|H859|Conj-w | Pro-2ms
 v19 בֶן־|ḇen-|son|H1121|N-msc
 v19 אָדָ֜ם|’ā·ḏām|of man|H120|N-ms
 v19 שִׂים־|śîm-|mark out|H7760|V-Qal-Imp-ms
-v19 לְךָ֣׀|lə·ḵā||H0|Prep | 2ms
+v19 לְךָ֣׀|lə·ḵā|-|H0|Prep | 2ms
 v19 שְׁנַ֣יִם|šə·na·yim|two|H8147|Number-md
 v19 דְּרָכִ֗ים|də·rā·ḵîm|roads|H1870|N-cp
 v19 לָבוֹא֙|lā·ḇō·w|to take|H935|Prep-l | V-Qal-Inf
@@ -321,7 +321,7 @@ v23 לָהֶ֑ם|lā·hem|to him|H0|Prep | 3mp
 v23 וְהֽוּא־|wə·hū-|but it|H1931|Conj-w | Pro-3ms
 v23 מַזְכִּ֥יר|maz·kîr|will draw attention|H2142|V-Hifil-Prtcpl-ms
 v23 עָוֺ֖ן|‘ā·wōn|to their guilt|H5771|N-cs
-v23 לְהִתָּפֵֽשׂ׃פ|lə·hit·tā·p̄êś|and take them captive|H8610|Prep-l | V-Nifal-Inf
+v23 לְהִתָּפֵֽשׂ׃|lə·hit·tā·p̄êś|and take them captive|H8610|Prep-l | V-Nifal-Inf
 v24 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v24 כֹּֽה־|kōh-|this is what|H3541|Adv
 v24 אָמַר֮|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -339,7 +339,7 @@ v24 עֲלִילֽוֹתֵיכֶ֑ם|‘ă·lî·lō·w·ṯê·ḵem|your deed
 v24 יַ֚עַן|ya·‘an|because|H3282|Adv
 v24 הִזָּ֣כֶרְכֶ֔ם|hiz·zā·ḵer·ḵem|you have come to remembrance|H2142|V-Nifal-Inf | 2mp
 v24 בַּכַּ֖ף|bak·kap̄|in hand|H3709|Prep-b, Art | N-fs
-v24 תִּתָּפֵֽשׂוּ׃פ|tit·tā·p̄ê·śū|you shall be taken|H8610|V-Nifal-Imperf-2mp
+v24 תִּתָּפֵֽשׂוּ׃|tit·tā·p̄ê·śū|you shall be taken|H8610|V-Nifal-Imperf-2mp
 v25 וְאַתָּה֙|wə·’at·tāh|And you|H859|Conj-w | Pro-2ms
 v25 חָלָ֣ל|ḥā·lāl|O profane|H2491|Adj-ms
 v25 רָשָׁ֔ע|rā·šā‘|and wicked|H7563|Adj-ms
@@ -350,7 +350,7 @@ v25 בָּ֣א|bā|has come|H935|V-Qal-Perf-3ms
 v25 יוֹמ֔וֹ|yō·w·mōw|the day|H3117|N-msc | 3ms
 v25 בְּעֵ֖ת|bə·‘êṯ|...|H6256|Prep-b | N-csc
 v25 עֲוֺ֥ן|‘ă·wōn|for your final punishment|H5771|N-csc
-v25 קֵֽץ׃ס|qêṣ|...|H7093|N-ms
+v25 קֵֽץ׃|qêṣ|...|H7093|N-ms
 v26 כֹּ֤ה|kōh|This is what|H3541|Adv
 v26 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v26 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -379,7 +379,7 @@ v27 בֹּ֛א|bō|the arrival|H935|V-Qal-Inf
 v27 אֲשֶׁר־|’ă·šer-|of Him to whom|H834|Pro-r
 v27 ל֥וֹ|lōw|it belongs|H0|Prep | 3ms
 v27 הַמִּשְׁפָּ֖ט|ham·miš·pāṭ|the right of judgment|H4941|Art | N-ms
-v27 וּנְתַתִּֽיו׃פ|ū·nə·ṯat·tîw|to whom I have assigned|H5414|Conj-w | V-Qal-ConjPerf-1cs | 3ms
+v27 וּנְתַתִּֽיו׃|ū·nə·ṯat·tîw|to whom I have assigned|H5414|Conj-w | V-Qal-ConjPerf-1cs | 3ms
 v28 וְאַתָּ֣ה|wə·’at·tāh|Now|H859|Conj-w | Pro-2ms
 v28 בֶן־|ḇen-|son|H1121|N-msc
 v28 אָדָ֗ם|’ā·ḏām|of man|H120|N-ms
@@ -456,4 +456,4 @@ v32 תִזָּכֵ֔רִי|ṯiz·zā·ḵê·rî|be remembered|H2142|V-Nifal-Im
 v32 כִּ֛י|kî|for|H3588|Conj
 v32 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v32 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v32 דִּבַּֽרְתִּי׃פ|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
+v32 דִּבַּֽרְתִּי׃|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs

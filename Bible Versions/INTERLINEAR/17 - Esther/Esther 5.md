@@ -45,9 +45,9 @@ v2 וַתִּקְרַ֣ב|wat·tiq·raḇ|approached|H7126|Conj-w | V-Qal-Consec
 v2 אֶסְתֵּ֔ר|’es·têr|and she|H635|N-proper-fs
 v2 וַתִּגַּ֖ע|wat·tig·ga‘|and touched|H5060|Conj-w | V-Qal-ConsecImperf-3fs
 v2 בְּרֹ֥אשׁ|bə·rōš|the tip|H7218|Prep-b | N-msc
-v2 הַשַּׁרְבִֽיט׃ס|haš·šar·ḇîṭ|of the scepter|H8275|Art | N-ms
+v2 הַשַּׁרְבִֽיט׃|haš·šar·ḇîṭ|of the scepter|H8275|Art | N-ms
 v3 וַיֹּ֤אמֶר|way·yō·mer|inquired|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v3 לָהּ֙|lāh||H0|Prep | 3fs
+v3 לָהּ֙|lāh|-|H0|Prep | 3fs
 v3 הַמֶּ֔לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v3 מַה־|mah-|What|H4100|Interrog
 v3 לָּ֖ךְ|lāḵ|is it|H0|Prep | 2fs
@@ -214,7 +214,7 @@ v12 וְגַם־|wə·ḡam-|back|H1571|Conj
 v12 לְמָחָ֛ר|lə·mā·ḥār|tomorrow|H4279|Prep-l | Adv
 v12 אֲנִ֥י|’ă·nî|and I|H589|Pro-1cs
 v12 קָֽרוּא־|qā·rū-|am invited|H7121|V-Qal-QalPassPrtcpl-ms
-v12 לָ֖הּ|lāh||H0|Prep | 3fs
+v12 לָ֖הּ|lāh|-|H0|Prep | 3fs
 v12 עִם־|‘im-|along with|H5973|Prep
 v12 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v13 וְכָל־|wə·ḵāl|Yet none|H3605|Conj-w | N-msc
@@ -262,4 +262,4 @@ v14 הַדָּבָ֛ר|had·dā·ḇār|The advice|H1697|Art | N-ms
 v14 לִפְנֵ֥י|lip̄·nê|...|H6440|Prep-l | N-cpc
 v14 הָמָ֖ן|hā·mān|Haman|H2001|N-proper-ms
 v14 וַיַּ֥עַשׂ|way·ya·‘aś|constructed|H6213|Conj-w | V-Qal-ConsecImperf-3ms
-v14 הָעֵֽץ׃פ|hā·‘êṣ|and he had the gallows|H6086|Art | N-ms
+v14 הָעֵֽץ׃|hā·‘êṣ|and he had the gallows|H6086|Art | N-ms

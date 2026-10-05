@@ -30,7 +30,7 @@ v3 רְשָׁעִ֣ים|rə·šā·‘îm|of the wicked|H7563|Adj-mp
 v3 הוֹפָֽעְתָּ׃|hō·w·p̄ā·‘ə·tā|and favor|H3313|V-Hifil-Perf-2ms
 v4 הַעֵינֵ֣י|ha·‘ê·nê|Do You have eyes|H5869|Art | N-cdc
 v4 בָשָׂ֣ר|ḇā·śār|of flesh|H1320|N-ms
-v4 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v4 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v4 אִם־|’im-|-|H518|Conj
 v4 כִּרְא֖וֹת|kir·’ō·wṯ|Do You see|H7200|Prep-k | V-Qal-Inf
 v4 אֱנ֣וֹשׁ|’ĕ·nō·wōš|as man|H582|N-ms
@@ -148,7 +148,7 @@ v20 יֶחְדָּל|yɛḥ·då̄l|Withdraw|H2308|Conj-w | V-Qal-Imp-ms
 v20 יָשִׁית|yå̄·šīṯ|...|H7896|Conj-w | V-Qal-Imp-ms
 v20 מִ֝מֶּ֗נִּי|mim·men·nî|from me|H4480|Prep | 1cs
 v20 וְאַבְלִ֥יגָה|wə·’aḇ·lî·ḡāh|that I may have a little comfort|H1082|Conj-w | V-Hifil-ConjImperf.Cohort-1cs
-v20 מְּעָֽט׃|mə·‘āṭ||H4592|Adj-ms
+v20 מְּעָֽט׃|mə·‘āṭ|-|H4592|Adj-ms
 v21 בְּטֶ֣רֶם|bə·ṭe·rem|before|H2962|Prep-b | Adv
 v21 אֵ֭לֵךְ|’ê·lêḵ|I go|H1980|V-Qal-Imperf-1cs
 v21 וְלֹ֣א|wə·lō|never|H3808|Conj-w | Adv-NegPrt
@@ -166,4 +166,4 @@ v22 וְלֹ֥א|wə·lō|and disorder|H3808|Conj-w | Adv-NegPrt
 v22 סְדָרִ֗ים|sə·ḏā·rîm|...|H5468|N-mp
 v22 וַתֹּ֥פַע|wat·tō·p̄a‘|where even the light|H3313|Conj-w | V-Hifil-ConsecImperf-3fs
 v22 כְּמוֹ־|kə·mōw-|is like|H3644|Prep
-v22 אֹֽפֶל׃פ|’ō·p̄el|darkness|H652|N-ms
+v22 אֹֽפֶל׃|’ō·p̄el|darkness|H652|N-ms

@@ -87,8 +87,8 @@ v5 חֹנִ֥ים|ḥō·nîm|camped|H2583|V-Qal-Prtcpl-mp
 v5 סְבִיבֹתוֹ׃|sə·ḇī·ḇō·ṯō|around him|H5439|Adv | 3ms
 v6 וַיַּ֨עַן|way·ya·‘an|asked|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v6 דָּוִ֜ד|dā·wiḏ|And David|H1732|N-proper-ms
-v6 וַיֹּ֣אמֶר׀|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
-v6 אֶל־|’el-||H413|Prep
+v6 וַיֹּ֣אמֶר׀|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
+v6 אֶל־|’el-|-|H413|Prep
 v6 אֲחִימֶ֣לֶךְ|’ă·ḥî·me·leḵ|Ahimelech|H288|N-proper-ms
 v6 הַחִתִּ֗י|ha·ḥit·tî|the Hittite|H2850|Art | N-proper-ms
 v6 וְאֶל־|wə·’el-|and|H413|Conj-w | Prep
@@ -128,7 +128,7 @@ v7 מְרַאֲשֹׁתוֹ|mə·ra·ʾă·šō·ṯō|by his head|H4763|N-fpc 
 v7 וְאַבְנֵ֣ר|wə·’aḇ·nêr|And Abner|H74|Conj-w | N-proper-ms
 v7 וְהָעָ֔ם|wə·hā·‘ām|and the troops|H5971|Conj-w, Art | N-ms
 v7 שֹׁכְבִ֖ים|šō·ḵə·ḇîm|were lying|H7901|V-Qal-Prtcpl-mp
-v7 סְבִיבֹתוֹ׃ס|sə·ḇī·ḇō·ṯō|around him|H5439|Adv | 3ms
+v7 סְבִיבֹתוֹ׃|sə·ḇī·ḇō·ṯō|around him|H5439|Adv | 3ms
 v8 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 אֲבִישַׁי֙|’ă·ḇî·šay|Abishai|H52|N-proper-ms
 v8 אֶל־|’el-|to|H413|Prep
@@ -161,7 +161,7 @@ v9 שָׁלַ֥ח|šā·laḥ|can extend|H7971|V-Qal-Perf-3ms
 v9 יָד֛וֹ|yā·ḏōw|a hand|H3027|N-fsc | 3ms
 v9 בִּמְשִׁ֥יחַ|bim·šî·aḥ|anointed|H4899|Prep-b | Adj-msc
 v9 יְהוָ֖ה|Yah·weh|against the LORD's|H3068|N-proper-ms
-v9 וְנִקָּֽה׃פ|wə·niq·qāh|and be guiltless|H5352|Conj-w | V-Nifal-ConjPerf-3ms
+v9 וְנִקָּֽה׃|wə·niq·qāh|and be guiltless|H5352|Conj-w | V-Nifal-ConjPerf-3ms
 v10 וַיֹּ֤אמֶר|way·yō·mer|added|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v10 דָּוִד֙|dā·wiḏ|David|H1732|N-proper-ms
 v10 חַי־|ḥay-|lives|H2416|N-ms
@@ -207,14 +207,14 @@ v12 הַמַּ֙יִם֙|ham·ma·yim|and water|H4325|Art | N-mp
 v12 מֵרַאֲשֹׁתֵ֣י|mê·ra·’ă·šō·ṯê|...|H7226|N-fpc
 v12 שָׁא֔וּל|šā·’ūl|by Saul's head|H7586|N-proper-ms
 v12 וַיֵּלְכ֖וּ|way·yê·lə·ḵū|and they departed|H1980|Conj-w | V-Qal-ConsecImperf-3mp
-v12 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v12 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v12 וְאֵ֣ין|wə·’ên|No|H369|Conj-w | Adv
 v12 רֹאֶה֩|rō·’eh|one saw them|H7200|V-Qal-Prtcpl-ms
 v12 וְאֵ֨ין|wə·’ên|[or]|H369|Conj-w | Adv
 v12 יוֹדֵ֜עַ|yō·w·ḏê·a‘|knew about it|H3045|V-Qal-Prtcpl-ms
 v12 וְאֵ֣ין|wə·’ên|nor did anyone|H369|Conj-w | Adv
 v12 מֵקִ֗יץ|mê·qîṣ|wake up|H6974|V-Hifil-Prtcpl-ms
-v12 כִּ֤י|kî||H3588|Conj
+v12 כִּ֤י|kî|-|H3588|Conj
 v12 כֻלָּם֙|ḵul·lām|they all|H3605|N-msc | 3mp
 v12 יְשֵׁנִ֔ים|yə·šê·nîm|remained asleep|H3463|Adj-mp
 v12 כִּ֚י|kî|because|H3588|Conj
@@ -226,7 +226,7 @@ v13 וַיַּעֲבֹ֤ר|way·ya·‘ă·ḇōr|crossed|H5674|Conj-w | V-Qal-
 v13 דָּוִד֙|dā·wiḏ|Then David|H1732|N-proper-ms
 v13 הָעֵ֔בֶר|hā·‘ê·ḇer|to the other side|H5676|Art | N-ms
 v13 וַיַּעֲמֹ֥ד|way·ya·‘ă·mōḏ|and stood|H5975|Conj-w | V-Qal-ConsecImperf-3ms
-v13 עַל־|‘al-|vvv|H5921|Prep
+v13 עַל־|‘al-|...|H5921|Prep
 v13 רֹאשׁ־|rōš-|atop|H7218|N-msc
 v13 הָהָ֖ר|hā·hār|the mountain|H2022|Art | N-ms
 v13 מֵֽרָחֹ֑ק|mê·rā·ḥōq|at a distance|H7350|Prep-m | Adj-ms
@@ -252,7 +252,7 @@ v14 מִ֥י|mî|Who|H4310|Interrog
 v14 אַתָּ֖ה|’at·tāh|[are] you|H859|Pro-2ms
 v14 קָרָ֥אתָ|qā·rā·ṯā|[who] calls|H7121|V-Qal-Perf-2ms
 v14 אֶל־|’el-|to|H413|Prep
-v14 הַמֶּֽלֶךְ׃פ|ham·me·leḵ|the king|H4428|Art | N-ms
+v14 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v15 וַיֹּאמֶר֩|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 דָּוִ֨ד|dā·wiḏ|So David|H1732|N-proper-ms
 v15 אֶל־|’el-|to|H413|Prep
@@ -289,7 +289,7 @@ v16 כִּ֤י|kî|...|H3588|Conj
 v16 בְנֵי־|ḇə·nê-|all of you|H1121|N-mpc
 v16 מָ֙וֶת֙|mā·weṯ|deserve to die|H4194|N-ms
 v16 אַתֶּ֔ם|’at·tem|since you|H859|Pro-2mp
-v16 אֲשֶׁ֧ר|’ă·šer||H834|Pro-r
+v16 אֲשֶׁ֧ר|’ă·šer|-|H834|Pro-r
 v16 לֹֽא־|lō-|did not|H3808|Adv-NegPrt
 v16 שְׁמַרְתֶּ֛ם|šə·mar·tem|protect|H8104|V-Qal-Perf-2mp
 v16 עַל־|‘al-|...|H5921|Prep
@@ -452,7 +452,7 @@ v24 בְּעֵינֵ֣י|bə·‘ê·nê|value|H5869|Prep-b | N-cdc
 v24 יְהוָ֔ה|Yah·weh|may the LORD|H3068|N-proper-ms
 v24 וְיַצִּלֵ֖נִי|wə·yaṣ·ṣi·lê·nî|and rescue me|H5337|Conj-w | V-Hifil-ConjImperf.Jus-3ms | 1cs
 v24 מִכָּל־|mik·kāl|from all|H3605|Prep-m | N-msc
-v24 צָרָֽה׃פ|ṣā·rāh|trouble|H6869|N-fs
+v24 צָרָֽה׃|ṣā·rāh|trouble|H6869|N-fs
 v25 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v25 שָׁא֜וּל|šā·’ūl|Saul|H7586|N-proper-ms
 v25 אֶל־|’el-|to|H413|Prep
@@ -472,4 +472,4 @@ v25 דָּוִד֙|dā·wiḏ|So David|H1732|N-proper-ms
 v25 לְדַרְכּ֔וֹ|lə·ḏar·kōw|on his way|H1870|Prep-l | N-csc | 3ms
 v25 וְשָׁא֖וּל|wə·šā·’ūl|and Saul|H7586|Conj-w | N-proper-ms
 v25 שָׁ֥ב|šāḇ|returned|H7725|V-Qal-Perf-3ms
-v25 לִמְקוֹמֽוֹ׃פ|lim·qō·w·mōw|home|H4725|Prep-l | N-msc | 3ms
+v25 לִמְקוֹמֽוֹ׃|lim·qō·w·mōw|home|H4725|Prep-l | N-msc | 3ms

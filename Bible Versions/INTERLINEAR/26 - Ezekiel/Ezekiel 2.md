@@ -19,7 +19,7 @@ v2 רַגְלָ֑י|raḡ·lāy|my feet|H7272|N-fdc | 1cs
 v2 וָאֶשְׁמַ֕ע|wā·’eš·ma‘|and I heard|H8085|Conj-w | V-Qal-ConsecImperf-1cs
 v2 אֵ֖ת|’êṯ|-|H853|DirObjM
 v2 מִדַּבֵּ֥ר|mid·dab·bêr|[Him] speaking|H1696|V-Hitpael-Prtcpl-ms
-v2 אֵלָֽי׃פ|’ê·lāy|to me|H413|Prep | 1cs
+v2 אֵלָֽי׃|’ê·lāy|to me|H413|Prep | 1cs
 v3 וַיֹּ֣אמֶר|way·yō·mer|He said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v3 אֵלַ֗י|’ê·lay|to me|H413|Prep | 1cs
 v3 בֶּן־|ben-|Son|H1121|N-msc
@@ -72,7 +72,7 @@ v5 וְיָ֣דְע֔וּ|wə·yā·ḏə·‘ū|they will know|H3045|Conj-w | V
 v5 כִּ֥י|kî|that|H3588|Conj
 v5 נָבִ֖יא|nā·ḇî|a prophet|H5030|N-ms
 v5 הָיָ֥ה|hā·yāh|has been|H1961|V-Qal-Perf-3ms
-v5 בְתוֹכָֽם׃פ|ḇə·ṯō·w·ḵām|among them|H8432|Prep-b | N-msc | 3mp
+v5 בְתוֹכָֽם׃|ḇə·ṯō·w·ḵām|among them|H8432|Prep-b | N-msc | 3mp
 v6 וְאַתָּ֣ה|wə·’at·tāh|But you|H859|Conj-w | Pro-2ms
 v6 בֶן־|ḇen-|son|H1121|N-msc
 v6 אָ֠דָם|’ā·ḏām|of man|H120|N-ms
@@ -110,7 +110,7 @@ v7 וְאִם־|wə·’im-|or|H518|Conj
 v7 יֶחְדָּ֑לוּ|yeḥ·dā·lū|refuse|H2308|V-Qal-Imperf-3mp
 v7 כִּ֥י|kî|to listen|H3588|Conj
 v7 מְרִ֖י|mə·rî|are rebellious|H4805|N-ms
-v7 הֵֽמָּה׃פ|hêm·māh|for they|H1992|Pro-3mp
+v7 הֵֽמָּה׃|hêm·māh|for they|H1992|Pro-3mp
 v8 וְאַתָּ֣ה|wə·’at·tāh|And you|H859|Conj-w | Pro-2ms
 v8 בֶן־|ḇen-|son|H1121|N-msc
 v8 אָדָ֗ם|’ā·ḏām|of man|H120|N-ms
@@ -153,4 +153,4 @@ v10 וְכָת֣וּב|wə·ḵā·ṯūḇ|-|H3789|Conj-w | V-Qal-QalPassPrtcpl
 v10 אֵלֶ֔יהָ|’ê·le·hā|of it|H413|Prep | 3fs
 v10 קִנִ֥ים|qi·nîm|[were] words of lamentation|H7015|N-fp
 v10 וָהֶ֖גֶה|wā·he·ḡeh|mourning|H1899|Conj-w | N-ms
-v10 וָהִֽי׃ס|wā·hî|and woe|H1958|Conj-w | N-ms
+v10 וָהִֽי׃|wā·hî|and woe|H1958|Conj-w | N-ms

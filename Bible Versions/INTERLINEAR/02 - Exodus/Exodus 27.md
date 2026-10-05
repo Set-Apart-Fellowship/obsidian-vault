@@ -93,7 +93,7 @@ v8 הֶרְאָ֥ה|her·’āh|you were shown|H7200|V-Hifil-Perf-3ms
 v8 אֹתְךָ֛|’ō·ṯə·ḵā|-|H853|DirObjM | 2ms
 v8 בָּהָ֖ר|bā·hār|on the mountain|H2022|Prep-b, Art | N-ms
 v8 כֵּ֥ן|kên|...|H3651|Adv
-v8 יַעֲשֽׂוּ׃ס|ya·‘ă·śū|It is to be made|H6213|V-Qal-Imperf-3mp
+v8 יַעֲשֽׂוּ׃|ya·‘ă·śū|It is to be made|H6213|V-Qal-Imperf-3mp
 v9 וְעָשִׂ֕יתָ|wə·‘ā·śî·ṯā|You are also to make|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v9 אֵ֖ת|’êṯ|-|H853|DirObjM
 v9 חֲצַ֣ר|ḥă·ṣar|a courtyard|H2691|N-csc
@@ -222,7 +222,7 @@ v19 יְתֵדֹתָ֛יו|yə·ṯê·ḏō·ṯāw|its tent pegs|H3489|N-fpc |
 v19 וְכָל־|wə·ḵāl|and|H3605|Conj-w | N-msc
 v19 יִתְדֹ֥ת|yiṯ·ḏōṯ|the tent pegs|H3489|N-fpc
 v19 הֶחָצֵ֖ר|he·ḥā·ṣêr|of the courtyard|H2691|Art | N-cs
-v19 נְחֹֽשֶׁת׃ס|nə·ḥō·šeṯ|shall be made of bronze|H5178|N-fs
+v19 נְחֹֽשֶׁת׃|nə·ḥō·šeṯ|shall be made of bronze|H5178|N-fs
 v20 וְאַתָּ֞ה|wə·’at·tāh|And you|H859|Conj-w | Pro-2ms
 v20 תְּצַוֶּ֣ה׀|tə·ṣaw·weh|are to command|H6680|V-Piel-Imperf-2ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
@@ -257,6 +257,6 @@ v21 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v21 חֻקַּ֤ת|ḥuq·qaṯ|statute|H2708|N-fsc
 v21 עוֹלָם֙|‘ō·w·lām|This is to be a permanent|H5769|N-ms
 v21 לְדֹ֣רֹתָ֔ם|lə·ḏō·rō·ṯām|for the generations to come|H1755|Prep-l | N-mpc | 3mp
-v21 מֵאֵ֖ת|mê·’êṯ|vvv|H854|Prep-m
+v21 מֵאֵ֖ת|mê·’êṯ|...|H854|Prep-m
 v21 בְּנֵ֥י|bə·nê|for the Israelites|H1121|N-mpc
-v21 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|...|H3478|N-proper-ms
+v21 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms

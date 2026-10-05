@@ -50,7 +50,7 @@ v4 אָחִיו֙|’ā·ḥîw|Eliakim's brother|H251|N-msc | 3ms
 v4 לָקַ֣ח|lā·qaḥ|took|H3947|V-Qal-Perf-3ms
 v4 נְכ֔וֹ|nə·ḵōw|But Neco|H5224|N-proper-ms
 v4 וַיְבִיאֵ֖הוּ|way·ḇî·’ê·hū|and carried him off|H935|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
-v4 מִצְרָֽיְמָה׃פ|miṣ·rā·yə·māh|to Egypt|H4714|N-proper-fs | 3fs
+v4 מִצְרָֽיְמָה׃|miṣ·rā·yə·māh|to Egypt|H4714|N-proper-fs | 3fs
 v5 בֶּן־|ben-|years old|H1121|N-msc
 v5 עֶשְׂרִ֨ים|‘eś·rîm|was twenty-five|H6242|Number-cp
 v5 וְחָמֵ֤שׁ|wə·ḥā·mêš|...|H2568|Conj-w | Number-fs
@@ -103,7 +103,7 @@ v8 וִֽיהוּדָ֑ה|wî·hū·ḏāh|and Judah|H3063|Conj-w | N-proper-ms
 v8 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v8 יְהוֹיָכִ֥ין|yə·hō·w·yā·ḵîn|Jehoiachin|H3078|N-proper-ms
 v8 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v8 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v8 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v9 בֶּן־|ben-|old|H1121|N-msc
 v9 שְׁמוֹנֶ֤ה|šə·mō·w·neh|was eighteen|H8083|Number-fs
 v9 שָׁנִים֙|šā·nîm|years|H8141|N-fp
@@ -137,7 +137,7 @@ v10 צִדְקִיָּ֣הוּ|ṣiḏ·qî·yā·hū|Zedekiah|H6667|N-proper-ms
 v10 אָחִ֔יו|’ā·ḥîw|And he made Jehoiachin's relative|H251|N-msc | 3ms
 v10 עַל־|‘al-|over|H5921|Prep
 v10 יְהוּדָ֖ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
-v10 וִֽירוּשָׁלִָֽם׃פ|wî·rū·šā·lim|and Jerusalem|H3389|Conj-w | N-proper-fs
+v10 וִֽירוּשָׁלִָֽם׃|wî·rū·šā·lim|and Jerusalem|H3389|Conj-w | N-proper-fs
 v11 בֶּן־|ben-|years old|H1121|N-msc
 v11 עֶשְׂרִ֧ים|‘eś·rîm|was twenty-one|H6242|Number-cp
 v11 וְאַחַ֛ת|wə·’a·ḥaṯ|...|H259|Conj-w | Number-fsc
@@ -169,10 +169,10 @@ v13 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
 v13 הִשְׁבִּיע֖וֹ|hiš·bî·‘ōw|had made him swear|H7650|V-Hifil-Perf-3ms | 3ms
 v13 בֵּֽאלֹהִ֑ים|bê·lō·hîm|by God|H430|Prep-b | N-mp
 v13 וַיֶּ֤קֶשׁ|way·ye·qeš|But [Zedekiah] stiffened|H7185|Conj-w | V-Hifil-ConsecImperf-3ms
-v13 אֶת־|’eṯ-||H853|DirObjM
+v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 עָרְפּוֹ֙|‘ā·rə·pōw|his neck|H6203|N-msc | 3ms
 v13 וַיְאַמֵּ֣ץ|way·’am·mêṣ|and hardened|H553|Conj-w | V-Piel-ConsecImperf-3ms
-v13 אֶת־|’eṯ-||H853|DirObjM
+v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 לְבָב֔וֹ|lə·ḇā·ḇōw|his heart|H3824|N-msc | 3ms
 v13 מִשּׁ֕וּב|miš·šūḇ|against turning|H7725|Prep-m | V-Qal-Inf
 v13 אֶל־|’el-|to|H413|Prep
@@ -236,7 +236,7 @@ v17 כַּשְׂדִּיִּים|kaś·dī·yīm|of the Chaldeans|H3778|N-proper
 v17 וַיַּהֲרֹ֨ג|way·ya·hă·rōḡ|who put|H2026|Conj-w | V-Qal-ConsecImperf-3ms
 v17 בַּחוּרֵיהֶ֤ם|ba·ḥū·rê·hem|their young men|H970|N-mpc | 3mp
 v17 בַּחֶ֙רֶב֙|ba·ḥe·reḇ|to the sword|H2719|Prep-b, Art | N-fs
-v17 בְּבֵ֣ית|bə·ḇêṯ|vvv|H1004|Prep-b | N-msc
+v17 בְּבֵ֣ית|bə·ḇêṯ|...|H1004|Prep-b | N-msc
 v17 מִקְדָּשָׁ֔ם|miq·dā·šām|in the sanctuary|H4720|N-msc | 3mp
 v17 וְלֹ֥א|wə·lō|neither|H3808|Conj-w | Adv-NegPrt
 v17 חָמַ֛ל|ḥā·mal|sparing|H2550|V-Qal-Perf-3ms
@@ -278,7 +278,7 @@ v19 בָאֵ֔שׁ|ḇā·’êš|...|H784|Prep-b, Art | N-cs
 v19 וְכָל־|wə·ḵāl|every|H3605|Conj-w | N-msc
 v19 כְּלֵ֥י|kə·lê|article|H3627|N-mpc
 v19 מַחֲמַדֶּ֖יהָ|ma·ḥă·mad·de·hā|of value|H4261|N-mpc | 3fs
-v19 לְהַשְׁחִֽית׃ס|lə·haš·ḥîṯ|and destroyed|H7843|Prep-l | V-Hifil-Inf
+v19 לְהַשְׁחִֽית׃|lə·haš·ḥîṯ|and destroyed|H7843|Prep-l | V-Hifil-Inf
 v20 וַיֶּ֛גֶל|way·ye·ḡel|were carried by Nebuchadnezzar into exile|H1540|Conj-w | V-Hifil-ConsecImperf-3ms
 v20 הַשְּׁאֵרִ֥ית|haš·šə·’ê·rîṯ|Those who escaped|H7611|Art | N-fs
 v20 מִן־|min-|-|H4480|Prep
@@ -309,7 +309,7 @@ v21 הָשַּׁמָּה֙|hāš·šam·māh|of the desolation|H8074|V-Hofal-Inf
 v21 שָׁבָ֔תָה|šā·ḇā·ṯāh|rest|H7673|V-Qal-Perf-3fs
 v21 לְמַלֹּ֖אות|lə·mal·lō·wṯ|were completed|H4390|Prep-l | V-Piel-Inf
 v21 שִׁבְעִ֥ים|šiḇ·‘îm|seventy|H7657|Number-cp
-v21 שָׁנָֽה׃פ|šā·nāh|years|H8141|N-fs
+v21 שָׁנָֽה׃|šā·nāh|years|H8141|N-fs
 v22 וּבִשְׁנַ֣ת|ū·ḇiš·naṯ|year|H8141|Conj-w, Prep-b | N-fsc
 v22 אַחַ֗ת|’a·ḥaṯ|In the first|H259|Number-fs
 v22 לְכ֙וֹרֶשׁ֙|lə·ḵō·w·reš|of Cyrus|H3566|Prep-l | N-proper-ms
@@ -322,7 +322,7 @@ v22 בְּפִ֣י|bə·p̄î|spoken|H6310|Prep-b | N-msc
 v22 יִרְמְיָ֑הוּ|yir·mə·yā·hū|through Jeremiah|H3414|N-proper-ms
 v22 הֵעִ֣יר|hê·‘îr|stirred|H5782|V-Hifil-Perf-3ms
 v22 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
-v22 אֶת־|’eṯ-||H853|DirObjM
+v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 ר֙וּחַ֙|rū·aḥ|the spirit|H7307|N-csc
 v22 כּ֣וֹרֶשׁ|kō·w·reš|of Cyrus|H3566|N-proper-ms
 v22 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
@@ -333,7 +333,7 @@ v22 בְּכָל־|bə·ḵāl|throughout|H3605|Prep-b | N-msc
 v22 מַלְכוּת֔וֹ|mal·ḵū·ṯōw|his kingdom|H4438|N-fsc | 3ms
 v22 וְגַם־|wə·ḡam-|and|H1571|Conj
 v22 בְּמִכְתָּ֖ב|bə·miḵ·tāḇ|to put it in writing|H4385|Prep-b | N-ms
-v22 לֵאמֹֽר׃ס|lê·mōr|as follows|H559|Prep-l | V-Qal-Inf
+v22 לֵאמֹֽר׃|lê·mōr|as follows|H559|Prep-l | V-Qal-Inf
 v23 כֹּה־|kōh-|This is what|H3541|Adv
 v23 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v23 כּ֣וֹרֶשׁ׀|kō·w·reš|Cyrus|H3566|N-proper-ms

@@ -49,7 +49,7 @@ v4 י֔וֹם|yō·wm|days|H3117|N-ms
 v4 וְנִֽינְוֵ֖ה|wə·nî·nə·wêh|and Nineveh|H5210|Conj-w | N-proper-fs
 v4 נֶהְפָּֽכֶת׃|neh·pā·ḵeṯ|will be overturned|H2015|V-Nifal-Prtcpl-fs
 v5 וַֽיַּאֲמִ֛ינוּ|way·ya·’ă·mî·nū|believed|H539|Conj-w | V-Hifil-ConsecImperf-3mp
-v5 אַנְשֵׁ֥י|’an·šê|vvv|H582|N-mpc
+v5 אַנְשֵׁ֥י|’an·šê|...|H582|N-mpc
 v5 נִֽינְוֵ֖ה|nî·nə·wêh|And the Ninevites|H5210|N-proper-fs
 v5 בֵּֽאלֹהִ֑ים|bê·lō·hîm|God|H430|Prep-b | N-mp
 v5 וַיִּקְרְאוּ־|way·yiq·rə·’ū-|They proclaimed|H7121|Conj-w | V-Qal-ConsecImperf-3mp

@@ -35,7 +35,7 @@ v3 מֵאָ֛ה|mê·’āh|a hundred strong|H3967|Number-fs
 v3 תַּשְׁאִ֥יר|taš·’îr|left|H7604|V-Hifil-Imperf-3fs
 v3 עֲשָׂרָ֖ה|‘ă·śā·rāh|will have but ten|H6235|Number-ms
 v3 לְבֵ֥ית|lə·ḇêṯ|in the house|H1004|Prep-l | N-msc
-v3 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v3 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v4 כִּ֣י|kî|For|H3588|Conj
 v4 כֹ֥ה|ḵōh|this is what|H3541|Adv
 v4 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -46,12 +46,12 @@ v4 דִּרְשׁ֖וּנִי|dir·šū·nî|Seek Me|H1875|V-Qal-Imp-mp | 1cs
 v4 וִֽחְיֽוּ׃|wiḥ·yū|and live|H2421|Conj-w | V-Qal-Imp-mp
 v5 וְאַֽל־|wə·’al-|Do not|H408|Conj-w | Adv
 v5 תִּדְרְשׁוּ֙|tiḏ·rə·šū|seek|H1875|V-Qal-Imperf-2mp
-v5 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v5 בֵּֽית־|bêṯ-|...|H1008|Prep
 v5 אֵ֔ל|’êl|Bethel|H1008|N-proper-fs
 v5 וְהַגִּלְגָּל֙|wə·hag·gil·gāl|to Gilgal|H1537|Conj-w, Art | N-proper-fs
 v5 לֹ֣א|lō|do not|H3808|Adv-NegPrt
 v5 תָבֹ֔אוּ|ṯā·ḇō·’ū|or go|H935|V-Qal-Imperf-2mp
-v5 וּבְאֵ֥ר|ū·ḇə·’êr|vvv|H884|
+v5 וּבְאֵ֥ר|ū·ḇə·’êr|...|H884|
 v5 שֶׁ֖בַע|še·ḇa‘|to Beersheba|H884|Conj-w | N-proper-fs
 v5 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v5 תַעֲבֹ֑רוּ|ṯa·‘ă·ḇō·rū|journey|H5674|V-Qal-Imperf-2mp
@@ -59,7 +59,7 @@ v5 כִּ֤י|kî|for|H3588|Conj
 v5 הַגִּלְגָּל֙|hag·gil·gāl|Gilgal|H1537|Art | N-proper-fs
 v5 גָּלֹ֣ה|gā·lōh|will surely go into exile|H1540|V-Qal-InfAbs
 v5 יִגְלֶ֔ה|yiḡ·leh|...|H1540|V-Qal-Imperf-3ms
-v5 וּבֵֽית־|ū·ḇêṯ-|vvv|H1008|
+v5 וּבֵֽית־|ū·ḇêṯ-|...|H1008|
 v5 אֵ֖ל|’êl|and Bethel|H1008|Conj-w | N-proper-fs
 v5 יִהְיֶ֥ה|yih·yeh|will come|H1961|V-Qal-Imperf-3ms
 v5 לְאָֽוֶן׃|lə·’ā·wen|to nothing|H205|Prep-l | N-ms
@@ -75,7 +75,7 @@ v6 יוֹסֵ֔ף|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
 v6 וְאָכְלָ֥ה|wə·’ā·ḵə·lāh|it will devour everything|H398|Conj-w | V-Qal-ConjPerf-3fs
 v6 וְאֵין־|wə·’ên-|with no one|H369|Conj-w | Adv
 v6 מְכַבֶּ֖ה|mə·ḵab·beh|to extinguish it|H3518|V-Piel-Prtcpl-ms
-v6 לְבֵֽית־|lə·ḇêṯ-|vvv|H1008|Prep
+v6 לְבֵֽית־|lə·ḇêṯ-|...|H1008|Prep
 v6 אֵֽל׃|’êl|at Bethel|H1008|Prep | N-proper-fs
 v7 הַהֹפְכִ֥ים|ha·hō·p̄ə·ḵîm|There are those who turn|H2015|Art | V-Qal-Prtcpl-mp
 v7 לְלַעֲנָ֖ה|lə·la·‘ă·nāh|into wormwood|H3939|Prep-l | N-fs
@@ -100,7 +100,7 @@ v8 עַל־|‘al-|over|H5921|Prep
 v8 פְּנֵ֥י|pə·nê|the face|H6440|N-cpc
 v8 הָאָ֖רֶץ|hā·’ā·reṣ|of the earth|H776|Art | N-fs
 v8 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v8 שְׁמֽוֹ׃ס|šə·mōw|is His name|H8034|N-msc | 3ms
+v8 שְׁמֽוֹ׃|šə·mōw|is His name|H8034|N-msc | 3ms
 v9 הַמַּבְלִ֥יג|ham·maḇ·lîḡ|He flashes|H1082|Art | V-Hifil-Prtcpl-ms
 v9 שֹׁ֖ד|šōḏ|destruction|H7701|N-ms
 v9 עַל־|‘al-|on|H5921|Prep
@@ -129,7 +129,7 @@ v11 גָזִ֛ית|ḡā·zîṯ|...|H1496|N-fs
 v11 בְּנִיתֶ֖ם|bə·nî·ṯem|you have built|H1129|V-Qal-Perf-2mp
 v11 וְלֹא־|wə·lō-|you will never|H3808|Conj-w | Adv-NegPrt
 v11 תֵ֣שְׁבוּ|ṯê·šə·ḇū|live|H3427|V-Qal-Imperf-2mp
-v11 בָ֑ם|ḇām||H0|Prep | 3mp
+v11 בָ֑ם|ḇām|-|H0|Prep | 3mp
 v11 כַּרְמֵי־|kar·mê-|vineyards|H3754|N-mpc
 v11 חֶ֣מֶד|ḥe·meḏ|from the lush|H2531|N-ms
 v11 נְטַעְתֶּ֔ם|nə·ṭa‘·tem|you have planted|H5193|V-Qal-Perf-2mp
@@ -186,7 +186,7 @@ v15 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v15 אֱלֹהֵֽי־|’ĕ·lō·hê-|the God|H430|N-mpc
 v15 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v15 שְׁאֵרִ֥ית|šə·’ê·rîṯ|to the remnant|H7611|N-fsc
-v15 יוֹסֵֽף׃ס|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
+v15 יוֹסֵֽף׃|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
 v16 לָ֠כֵן|lā·ḵên|Therefore|H3651|Adv
 v16 כֹּֽה־|kōh-|this is what|H3541|Adv
 v16 אָמַ֨ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -217,7 +217,7 @@ v17 כִּֽי־|kî-|for|H3588|Conj
 v17 אֶעֱבֹ֥ר|’e·‘ĕ·ḇōr|I will pass|H5674|V-Qal-Imperf-1cs
 v17 בְּקִרְבְּךָ֖|bə·qir·bə·ḵā|through your midst|H7130|Prep-b | N-msc | 2ms
 v17 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v17 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v17 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v18 ה֥וֹי|hō·w|Woe|H1945|Interjection
 v18 הַמִּתְאַוִּ֖ים|ham·miṯ·’aw·wîm|to you who long for|H183|Art | V-Hitpael-Prtcpl-mp
 v18 אֶת־|’eṯ-|-|H853|DirObjM
@@ -318,4 +318,4 @@ v27 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v27 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v27 אֱלֹהֵֽי־|’ĕ·lō·hê-|the God|H430|N-mpc
 v27 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
-v27 שְׁמֽוֹ׃פ|šə·mōw|whose name [is]|H8034|N-msc | 3ms
+v27 שְׁמֽוֹ׃|šə·mōw|whose name [is]|H8034|N-msc | 3ms

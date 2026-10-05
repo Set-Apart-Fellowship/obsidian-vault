@@ -1,5 +1,5 @@
 v1 לַמְנַצֵּ֣חַ|lam·naṣ·ṣê·aḥ|For the choirmaster. [To the tune of]|H5329|Prep-l, Art | V-Piel-Prtcpl-ms
-v1 אַל־|’al-|vvv|H516|Adv
+v1 אַל־|’al-|...|H516|Adv
 v1 תַּ֭שְׁחֵת|taš·ḥêṯ|Do Not Destroy|H516|V-Hifil-Imperf.Jus-2ms
 v1 לְדָוִ֣ד|lə·ḏā·wiḏ|of David|H1732|Prep-l | N-proper-ms
 v1 מִכְתָּ֑ם|miḵ·tām|A Miktam|H4387|N-ms

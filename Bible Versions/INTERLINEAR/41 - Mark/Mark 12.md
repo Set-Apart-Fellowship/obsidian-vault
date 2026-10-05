@@ -72,7 +72,7 @@ v5 δέροντες|derontes|they beat|G1194|V-PPA-NMP
 v5 οὓς|hous|[others]|G3739|RelPro-AMP
 v5 δὲ|de|and|G1161|Conj
 v5 ἀποκτέννοντες|apoktennontes|they killed|G615|V-PPA-NMP
-v6 Ἔτι|Eti|vvv|G2089|Adv
+v6 Ἔτι|Eti|...|G2089|Adv
 v6 ἕνα|hena|one|G1520|Adj-AMS
 v6 εἶχεν|eichen|having|G2192|V-IIA-3S
 v6 υἱὸν|huion|son|G5207|N-AMS
@@ -135,7 +135,7 @@ v9 δώσει|dōsei|give|G1325|V-FIA-3S
 v9 τὸν|ton|the|G3588|Art-AMS
 v9 ἀμπελῶνα|ampelōna|vineyard|G290|N-AMS
 v9 ἄλλοις|allois|to others|G243|Adj-DMP
-v10 οὐδὲ|oude|vvv|G3761|Adv
+v10 οὐδὲ|oude|...|G3761|Adv
 v10 τὴν|tēn|-|G3588|Art-AFS
 v10 γραφὴν|graphēn|Scripture|G1124|N-AFS
 v10 ταύτην|tautēn|this|G3778|DPro-AFS
@@ -148,7 +148,7 @@ v10 οἰκοδομοῦντες|oikodomountes|builders|G3618|V-PPA-NMP
 v10 Οὗτος|Houtos|-|G3778|DPro-NMS
 v10 ἐγενήθη|egenēthē|has become|G1096|V-AIP-3S
 v10 εἰς|eis|the|G1519|Prep
-v10 κεφαλὴν|kephalēn|vvv|G2776|N-AFS
+v10 κεφαλὴν|kephalēn|...|G2776|N-AFS
 v10 γωνίας|gōnias|cornerstone|G1137|N-GFS
 v11 Παρὰ|Para|from|G3844|Prep
 v11 Κυρίου|Kyriou|[the] Lord|G2962|N-GMS
@@ -195,7 +195,7 @@ v13 αὐτὸν|auton|[Jesus]|G846|PPro-AM3S
 v13 ἀγρεύσωσιν|agreusōsin|catch|G64|V-ASA-3P
 v13 λόγῳ|logō|in [His] words|G3056|N-DMS
 v14 καὶ|kai|-|G2532|Conj
-v14 ἐλθόντες|elthontes|vvv|G2064|V-APA-NMP
+v14 ἐλθόντες|elthontes|...|G2064|V-APA-NMP
 v14 λέγουσιν|legousin|they said|G3004|V-PIA-3P
 v14 αὐτῷ|autō|...|G846|PPro-DM3S
 v14 Διδάσκαλε|Didaskale|Teacher|G1320|N-VMS
@@ -204,12 +204,12 @@ v14 ὅτι|hoti|that|G3754|Conj
 v14 ἀληθὴς|alēthēs|honest|G227|Adj-NMS
 v14 εἶ|ei|You are|G1510|V-PIA-2S
 v14 καὶ|kai|and|G2532|Conj
-v14 οὐ|ou|vvv|G3756|Adv
+v14 οὐ|ou|...|G3756|Adv
 v14 μέλει|melei|seek favor|G3199|V-PIA-3S
 v14 σοι|soi|-|G4771|PPro-D2S
 v14 περὶ|peri|from|G4012|Prep
 v14 οὐδενός|oudenos|no one|G3762|Adj-GMS
-v14 οὐ|ou|vvv|G3756|Adv
+v14 οὐ|ou|...|G3756|Adv
 v14 γὰρ|gar|Indeed|G1063|Conj
 v14 βλέπεις|blepeis|You are impartial|G991|V-PIA-2S
 v14 εἰς|eis|...|G1519|Prep
@@ -318,9 +318,9 @@ v19 ἀφῇ|aphē|-|G863|V-ASA-3S
 v19 τέκνον|teknon|children|G5043|N-ANS
 v19 ἵνα|hina|-|G2443|Conj
 v19 λάβῃ|labē|is to marry|G2983|V-ASA-3S
-v19 ὁ|ho|vvv|G3588|Art-NMS
+v19 ὁ|ho|...|G3588|Art-NMS
 v19 ἀδελφὸς|adelphos|[the man]|G80|N-NMS
-v19 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v19 αὐτοῦ|autou|...|G846|PPro-GM3S
 v19 τὴν|tēn|[his brother's]|G3588|Art-AFS
 v19 γυναῖκα|gynaika|widow|G1135|N-AFS
 v19 καὶ|kai|and|G2532|Conj
@@ -389,9 +389,9 @@ v24 ὁ|ho|-|G3588|Art-NMS
 v24 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v24 Οὐ|Ou|...|G3756|Adv
 v24 διὰ|dia|because|G1223|Prep
-v24 τοῦτο|touto|vvv|G3778|DPro-ANS
+v24 τοῦτο|touto|...|G3778|DPro-ANS
 v24 πλανᾶσθε|planasthe|Aren't you mistaken|G4105|V-PIM/P-2P
-v24 μὴ|mē|vvv|G3361|Adv
+v24 μὴ|mē|...|G3361|Adv
 v24 εἰδότες|eidotes|you do not know|G1492|V-RPA-NMP
 v24 τὰς|tas|the|G3588|Art-AFP
 v24 γραφὰς|graphas|Scriptures|G1124|N-AFP
@@ -405,7 +405,7 @@ v25 γὰρ|gar|-|G1063|Conj
 v25 ἐκ|ek|...|G1537|Prep
 v25 νεκρῶν|nekrōn|...|G3498|Adj-GMP
 v25 ἀναστῶσιν|anastōsin|the dead rise|G450|V-ASA-3P
-v25 οὔτε|oute|vvv|G3777|Conj
+v25 οὔτε|oute|...|G3777|Conj
 v25 γαμοῦσιν|gamousin|they will neither marry|G1060|V-PIA-3P
 v25 οὔτε|oute|nor|G3777|Conj
 v25 γαμίζονται|gamizontai|be given in marriage|G1061|V-PIM/P-3P
@@ -422,7 +422,7 @@ v26 τῶν|tōn|the|G3588|Art-GMP
 v26 νεκρῶν|nekrōn|dead|G3498|Adj-GMP
 v26 ὅτι|hoti|-|G3754|Conj
 v26 ἐγείρονται|egeirontai|rising|G1453|V-PIM/P-3P
-v26 οὐκ|ouk|vvv|G3756|Adv
+v26 οὐκ|ouk|...|G3756|Adv
 v26 ἀνέγνωτε|anegnōte|have you not read|G314|V-AIA-2P
 v26 ἐν|en|in|G1722|Prep
 v26 τῇ|tē|the|G3588|Art-DFS
@@ -455,7 +455,7 @@ v27 Θεὸς|Theos|[the] God|G2316|N-NMS
 v27 νεκρῶν|nekrōn|of [the] dead|G3498|Adj-GMP
 v27 ἀλλὰ|alla|but|G235|Conj
 v27 ζώντων|zōntōn|of [the] living|G2198|V-PPA-GMP
-v27 πολὺ|poly|vvv|G4183|Adj-ANS
+v27 πολὺ|poly|...|G4183|Adj-ANS
 v27 πλανᾶσθε|planasthe|You are badly mistaken|G4105|V-PIM/P-2P
 v28 Καὶ|Kai|Now|G2532|Conj
 v28 προσελθὼν|proselthōn|had come up|G4334|V-APA-NMS
@@ -542,7 +542,7 @@ v32 ὁ|ho|the|G3588|Art-NMS
 v32 γραμματεύς|grammateus|scribe|G1122|N-NMS
 v32 Καλῶς|Kalōs|Right|G2573|Adv
 v32 Διδάσκαλε|Didaskale|Teacher|G1320|N-VMS
-v32 ἐπ’|ep’|vvv|G1909|Prep
+v32 ἐπ’|ep’|...|G1909|Prep
 v32 ἀληθείας|alētheias|correctly|G225|N-GFS
 v32 εἶπες|eipes|You have stated|G2036|V-AIA-2S
 v32 ὅτι|hoti|that|G3754|Conj
@@ -673,7 +673,7 @@ v37 ὄχλος|ochlos|crowd|G3793|N-NMS
 v37 ἤκουεν|ēkouen|listened|G191|V-IIA-3S
 v37 αὐτοῦ|autou|to Him|G846|PPro-GM3S
 v37 ἡδέως|hēdeōs|with delight|G2234|Adv
-v38 Καὶ|Kai|vvv|G2532|Conj
+v38 Καὶ|Kai|...|G2532|Conj
 v38 ἐν|en|In|G1722|Prep
 v38 τῇ|tē|-|G3588|Art-DFS
 v38 διδαχῇ|didachē|teaching|G1322|N-DFS
@@ -788,7 +788,7 @@ v44 πάντα|panta|all|G3956|Adj-ANP
 v44 ὅσα|hosa|...|G3745|RelPro-ANP
 v44 εἶχεν|eichen|she had|G2192|V-IIA-3S
 v44 ἔβαλεν|ebalen|has put [in]|G906|V-AIA-3S
-v44 ὅλον|holon|vvv|G3650|Adj-AMS
-v44 τὸν|ton|vvv|G3588|Art-AMS
+v44 ὅλον|holon|...|G3650|Adj-AMS
+v44 τὸν|ton|...|G3588|Art-AMS
 v44 βίον|bion|to live on|G979|N-AMS
-v44 αὐτῆς|autēs|vvv|G846|PPro-GF3S
+v44 αὐτῆς|autēs|...|G846|PPro-GF3S

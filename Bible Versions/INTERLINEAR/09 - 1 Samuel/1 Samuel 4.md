@@ -10,7 +10,7 @@ v1 פְּלִשְׁתִּ֜ים|pə·liš·tîm|the Philistines|H6430|N-proper-m
 v1 לַמִּלְחָמָ֗ה|lam·mil·ḥā·māh|in battle|H4421|Prep-l, Art | N-fs
 v1 וַֽיַּחֲנוּ֙|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
 v1 עַל־|‘al-|at|H5921|Prep
-v1 הָאֶ֣בֶן|hā·’e·ḇen|vvv|H72|
+v1 הָאֶ֣בֶן|hā·’e·ḇen|...|H72|
 v1 הָעֵ֔זֶר|hā·‘ê·zer|Ebenezer|H72|Art | N-proper-fs
 v1 וּפְלִשְׁתִּ֖ים|ū·p̄ə·liš·tîm|while the Philistines|H6430|Conj-w | N-proper-mp
 v1 חָנ֥וּ|ḥā·nū|camped|H2583|V-Qal-Perf-3cp
@@ -207,7 +207,7 @@ v13 יַךְ|yaḵ|beside|H3197|N-fsc
 v13 דֶּ֙רֶךְ֙|de·reḵ|the road|H1870|N-cs
 v13 מְצַפֶּ֔ה|mə·ṣap·peh|[and] watching|H6822|V-Piel-Prtcpl-ms
 v13 כִּֽי־|kî-|because|H3588|Conj
-v13 הָיָ֤ה|hā·yāh|vvv|H1961|V-Qal-Perf-3ms
+v13 הָיָ֤ה|hā·yāh|...|H1961|V-Qal-Perf-3ms
 v13 לִבּוֹ֙|lib·bōw|his heart|H3820|N-msc | 3ms
 v13 חָרֵ֔ד|ḥā·rêḏ|trembled|H2730|Adj-ms
 v13 עַ֖ל|‘al|for|H5921|Prep
@@ -283,7 +283,7 @@ v17 חָפְנִי֙|ḥā·p̄ə·nî|Hophni|H2652|N-proper-ms
 v17 וּפִ֣ינְחָ֔ס|ū·p̄î·nə·ḥās|and Phinehas|H6372|Conj-w | N-proper-ms
 v17 וַאֲר֥וֹן|wa·’ă·rō·wn|and the ark|H727|Conj-w | N-csc
 v17 הָאֱלֹהִ֖ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
-v17 נִלְקָֽחָה׃פ|nil·qā·ḥāh|has been captured|H3947|V-Nifal-Perf-3fs
+v17 נִלְקָֽחָה׃|nil·qā·ḥāh|has been captured|H3947|V-Nifal-Perf-3fs
 v18 וַיְהִ֞י|way·hî|As soon as|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v18 כְּהַזְכִּיר֣וֹ׀|kə·haz·kî·rōw|was mentioned|H2142|Prep-k | V-Hifil-Inf | 3ms
 v18 אֶת־|’eṯ-|-|H853|DirObjM
@@ -347,7 +347,7 @@ v20 שָׁ֥תָה|šā·ṯāh|or pay any heed|H7896|V-Qal-Perf-3fs
 v20 לִבָּֽהּ׃|lib·bāh|...|H3820|N-msc | 3fs
 v21 וַתִּקְרָ֣א|wat·tiq·rā|And she named|H7121|Conj-w | V-Qal-ConsecImperf-3fs
 v21 לַנַּ֗עַר|lan·na·‘ar|the boy|H5288|Prep-l, Art | N-ms
-v21 אִֽי־|’î-|vvv|H350|
+v21 אִֽי־|’î-|...|H350|
 v21 כָבוֹד֙|ḵā·ḇō·wḏ|Ichabod|H350|N-proper-ms
 v21 לֵאמֹ֔ר|lê·mōr|saying|H559|Prep-l | V-Qal-Inf
 v21 גָּלָ֥ה|gā·lāh|has departed|H1540|V-Qal-Perf-3ms
@@ -367,4 +367,4 @@ v22 מִיִּשְׂרָאֵ֑ל|mî·yiś·rā·’êl|from Israel|H3478|Prep-m
 v22 כִּ֥י|kî|for|H3588|Conj
 v22 נִלְקַ֖ח|nil·qaḥ|has been captured|H3947|V-Nifal-Perf-3ms
 v22 אֲר֥וֹן|’ă·rō·wn|the ark|H727|N-csc
-v22 הָאֱלֹהִֽים׃פ|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
+v22 הָאֱלֹהִֽים׃|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp

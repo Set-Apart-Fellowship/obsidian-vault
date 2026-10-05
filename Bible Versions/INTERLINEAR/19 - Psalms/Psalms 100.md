@@ -14,7 +14,7 @@ v2 בִּרְנָנָֽה׃|bir·nā·nāh|with joyful songs|H7445|Prep-b | N-fs
 v3 דְּע֗וּ|də·‘ū|Know|H3045|V-Qal-Imp-mp
 v3 כִּֽי־|kî-|that|H3588|Conj
 v3 יְהוָה֮|Yah·weh|the LORD|H3068|N-proper-ms
-v3 ה֤וּא|hū||H1931|Pro-3ms
+v3 ה֤וּא|hū|-|H1931|Pro-3ms
 v3 אֱלֹ֫הִ֥ים|’ĕ·lō·hîm|is God|H430|N-mp
 v3 הֽוּא־|hū-|[It is] He|H1931|Pro-3ms
 v3 עָ֭שָׂנוּ|‘ā·śā·nū|[who] made us|H6213|V-Qal-Perf-3ms | 1cp

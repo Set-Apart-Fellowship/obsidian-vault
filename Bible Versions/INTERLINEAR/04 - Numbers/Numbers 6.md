@@ -41,8 +41,8 @@ v3 יֹאכֵֽל׃|yō·ḵêl|or eat|H398|V-Qal-Imperf-3ms
 v4 כֹּ֖ל|kōl|All|H3605|N-msc
 v4 יְמֵ֣י|yə·mê|the days|H3117|N-mpc
 v4 נִזְר֑וֹ|niz·rōw|of his separation|H5145|N-msc | 3ms
-v4 מִכֹּל֩|mik·kōl||H3605|Prep-m | N-ms
-v4 אֲשֶׁ֨ר|’ă·šer||H834|Pro-r
+v4 מִכֹּל֩|mik·kōl|-|H3605|Prep-m | N-ms
+v4 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v4 יֵעָשֶׂ֜ה|yê·‘ā·śeh|anything that comes from|H6213|V-Nifal-Imperf-3ms
 v4 מִגֶּ֣פֶן|mig·ge·p̄en|the grapevine|H1612|Prep-m | N-csc
 v4 הַיַּ֗יִן|hay·ya·yin|...|H3196|Art | N-ms
@@ -87,7 +87,7 @@ v7 לְאָחִיו֙|lə·’ā·ḥîw|or brother|H251|Prep-l | N-msc | 3ms
 v7 וּלְאַ֣חֹת֔וֹ|ū·lə·’a·ḥō·ṯōw|or sister|H269|Conj-w, Prep-l | N-fsc | 3ms
 v7 לֹא־|lō-|he is not|H3808|Adv-NegPrt
 v7 יִטַּמָּ֥א|yiṭ·ṭam·mā|to defile himself|H2930|V-Hitpael-Imperf-3ms
-v7 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v7 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v7 בְּמֹתָ֑ם|bə·mō·ṯām|should die|H4194|Prep-b | V-Qal-Inf | 3mp
 v7 כִּ֛י|kî|because|H3588|Conj
 v7 נֵ֥זֶר|nê·zer|the symbol of consecration|H5145|N-msc
@@ -221,7 +221,7 @@ v16 עֹלָתֽוֹ׃|‘ō·lā·ṯōw|the burnt offering|H5930|N-fsc | 3ms
 v17 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v17 הָאַ֜יִל|hā·’a·yil|the ram|H352|Art | N-ms
 v17 יַעֲשֶׂ֨ה|ya·‘ă·śeh|He shall also offer|H6213|V-Qal-Imperf-3ms
-v17 זֶ֤בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v17 זֶ֤בַח|ze·ḇaḥ|...|H2077|N-msc
 v17 שְׁלָמִים֙|šə·lā·mîm|as a peace offering|H8002|N-mp
 v17 לַֽיהוָ֔ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v17 עַ֖ל|‘al|along with|H5921|Prep
@@ -251,7 +251,7 @@ v18 עַל־|‘al-|it on|H5921|Prep
 v18 הָאֵ֔שׁ|hā·’êš|the fire|H784|Art | N-cs
 v18 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v18 תַּ֖חַת|ta·ḥaṯ|under|H8478|Prep
-v18 זֶ֥בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v18 זֶ֥בַח|ze·ḇaḥ|...|H2077|N-msc
 v18 הַשְּׁלָמִֽים׃|haš·šə·lā·mîm|the peace offering|H8002|Art | N-mp
 v19 וְלָקַ֨ח|wə·lā·qaḥ|is to take|H3947|Conj-w | V-Qal-ConjPerf-3ms
 v19 הַכֹּהֵ֜ן|hak·kō·hên|And the priest|H3548|Art | N-ms
@@ -312,11 +312,11 @@ v21 כְּפִ֤י|kə·p̄î|...|H6310|Prep-k | N-msc
 v21 נִדְרוֹ֙|niḏ·rōw|vow|H5088|N-msc | 3ms
 v21 אֲשֶׁ֣ר|’ă·šer|whatever|H834|Pro-r
 v21 יִדֹּ֔ר|yid·dōr|he makes|H5087|V-Qal-Imperf-3ms
-v21 כֵּ֣ן|kên|vvv|H3651|Adv
+v21 כֵּ֣ן|kên|...|H3651|Adv
 v21 יַעֲשֶׂ֔ה|ya·‘ă·śeh|he must fulfill|H6213|V-Qal-Imperf-3ms
 v21 עַ֖ל|‘al|according to|H5921|Prep
 v21 תּוֹרַ֥ת|tō·w·raṯ|the law|H8451|N-fsc
-v21 נִזְרֽוֹ׃פ|niz·rōw|of his separation|H5145|N-msc | 3ms
+v21 נִזְרֽוֹ׃|niz·rōw|of his separation|H5145|N-msc | 3ms
 v22 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v22 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v22 אֶל־|’el-|to|H413|Prep
@@ -327,29 +327,29 @@ v23 אֶֽל־|’el-|...|H413|Prep
 v23 אַהֲרֹן֙|’a·hă·rōn|Aaron|H175|N-proper-ms
 v23 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
 v23 בָּנָ֣יו|bā·nāw|and his sons|H1121|N-mpc | 3ms
-v23 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
-v23 כֹּ֥ה|kōh||H3541|Adv
+v23 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
+v23 כֹּ֥ה|kōh|-|H3541|Adv
 v23 תְבָרֲכ֖וּ|ṯə·ḇā·ră·ḵū|This is how you are to bless|H1288|V-Piel-Imperf-2mp
 v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 בְּנֵ֣י|bə·nê|the Israelites|H1121|N-mpc
 v23 יִשְׂרָאֵ֑ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v23 אָמ֖וֹר|’ā·mō·wr|Say|H559|V-Qal-InfAbs
-v23 לָהֶֽם׃ס|lā·hem|to them|H0|Prep | 3mp
+v23 לָהֶֽם׃|lā·hem|to them|H0|Prep | 3mp
 v24 יְבָרֶכְךָ֥|yə·ḇā·reḵ·ḵā|bless you|H1288|V-Piel-Imperf-3ms | 2ms
 v24 יְהוָ֖ה|Yah·weh|May the LORD|H3068|N-proper-ms
-v24 וְיִשְׁמְרֶֽךָ׃ס|wə·yiš·mə·re·ḵā|and keep you|H8104|Conj-w | V-Qal-ConjImperf-3ms | 2ms
+v24 וְיִשְׁמְרֶֽךָ׃|wə·yiš·mə·re·ḵā|and keep you|H8104|Conj-w | V-Qal-ConjImperf-3ms | 2ms
 v25 יָאֵ֨ר|yā·’êr|to shine|H215|V-Hifil-Imperf.Jus-3ms
 v25 יְהוָ֧ה׀|Yah·weh|may the LORD|H3068|N-proper-ms
 v25 פָּנָ֛יו|pā·nāw|cause His face|H6440|N-cpc | 3ms
 v25 אֵלֶ֖יךָ|’ê·le·ḵā|upon you|H413|Prep | 2ms
-v25 וִֽיחֻנֶּֽךָּ׃ס|wî·ḥun·ne·kā|and be gracious to you|H2603|Conj-w | V-Qal-ConjImperf-3ms | 2ms
+v25 וִֽיחֻנֶּֽךָּ׃|wî·ḥun·ne·kā|and be gracious to you|H2603|Conj-w | V-Qal-ConjImperf-3ms | 2ms
 v26 יִשָּׂ֨א|yiś·śā|lift up|H5375|V-Qal-Imperf-3ms
 v26 יְהוָ֤ה׀|Yah·weh|may the LORD|H3068|N-proper-ms
 v26 פָּנָיו֙|pā·nāw|His countenance|H6440|N-cpc | 3ms
 v26 אֵלֶ֔יךָ|’ê·le·ḵā|toward you|H413|Prep | 2ms
 v26 וְיָשֵׂ֥ם|wə·yā·śêm|and give|H7760|Conj-w | V-Qal-ConjImperf-3ms
 v26 לְךָ֖|lə·ḵā|you|H0|Prep | 2ms
-v26 שָׁלֽוֹם׃ס|šā·lō·wm|peace|H7965|N-ms
+v26 שָׁלֽוֹם׃|šā·lō·wm|peace|H7965|N-ms
 v27 וְשָׂמ֥וּ|wə·śā·mū|So they shall put|H7760|Conj-w | V-Qal-ConjPerf-3cp
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 שְׁמִ֖י|šə·mî|My name|H8034|N-msc | 1cs
@@ -357,4 +357,4 @@ v27 עַל־|‘al-|on|H5921|Prep
 v27 בְּנֵ֣י|bə·nê|the Israelites|H1121|N-mpc
 v27 יִשְׂרָאֵ֑ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v27 וַאֲנִ֖י|wa·’ă·nî|and I|H589|Conj-w | Pro-1cs
-v27 אֲבָרֲכֵֽם׃פ|’ă·ḇā·ră·ḵêm|will bless them|H1288|V-Piel-Imperf-1cs | 3mp
+v27 אֲבָרֲכֵֽם׃|’ă·ḇā·ră·ḵêm|will bless them|H1288|V-Piel-Imperf-1cs | 3mp

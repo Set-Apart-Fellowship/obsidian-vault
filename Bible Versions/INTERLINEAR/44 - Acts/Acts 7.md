@@ -2,14 +2,14 @@ v1 Εἶπεν|Eipen|asked [Stephen]|G2036|V-AIA-3S
 v1 δὲ|de|Then|G1161|Conj
 v1 ὁ|ho|the|G3588|Art-NMS
 v1 ἀρχιερεύς|archiereus|high priest|G749|N-NMS
-v1 Εἰ|Ei|vvv|G1487|Conj
+v1 Εἰ|Ei|...|G1487|Conj
 v1 ταῦτα|tauta|these [charges]|G3778|DPro-NNP
 v1 οὕτως|houtōs|true|G3779|Adv
 v1 ἔχει|echei|Are|G2192|V-PIA-3S
 v2 Ὁ|Ho|-|G3588|Art-NMS
 v2 δὲ|de|And|G1161|Conj
 v2 ἔφη|ephē|[Stephen] declared|G5346|V-IIA-3S
-v2 Ἄνδρες|Andres|vvv|G435|N-VMP
+v2 Ἄνδρες|Andres|...|G435|N-VMP
 v2 ἀδελφοὶ|adelphoi|Brothers|G80|N-VMP
 v2 καὶ|kai|and|G2532|Conj
 v2 πατέρες|pateres|fathers|G3962|N-VMP
@@ -77,7 +77,7 @@ v4 εἰς|eis|[and] into|G1519|Prep
 v4 τὴν|tēn|-|G3588|Art-AFS
 v4 γῆν|gēn|land|G1093|N-AFS
 v4 ταύτην|tautēn|this|G3778|DPro-AFS
-v4 εἰς|eis|vvv|G1519|Prep
+v4 εἰς|eis|...|G1519|Prep
 v4 ἣν|hēn|where|G3739|RelPro-AFS
 v4 ὑμεῖς|hymeis|you|G4771|PPro-N2P
 v4 νῦν|nyn|{are} now|G3568|Adv
@@ -87,7 +87,7 @@ v5 οὐκ|ouk|no|G3756|Adv
 v5 ἔδωκεν|edōken|He gave|G1325|V-AIA-3S
 v5 αὐτῷ|autō|him|G846|PPro-DM3S
 v5 κληρονομίαν|klēronomian|inheritance|G2817|N-AFS
-v5 ἐν|en|vvv|G1722|Prep
+v5 ἐν|en|...|G1722|Prep
 v5 αὐτῇ|autē|[here]|G846|PPro-DF3S
 v5 οὐδὲ|oude|not even|G3761|Conj
 v5 βῆμα|bēma|a foot of ground|G968|N-ANS
@@ -134,7 +134,7 @@ v7 Καὶ|Kai|[But]|G2532|Conj
 v7 τὸ|to|the|G3588|Art-ANS
 v7 ἔθνος|ethnos|nation|G1484|N-ANS
 v7 ᾧ|hō|[that]|G3739|RelPro-DNS
-v7 ἐὰν|ean|vvv|G1437|Conj
+v7 ἐὰν|ean|...|G1437|Conj
 v7 δουλεύσουσιν|douleusousin|enslaves them|G1398|V-FIA-3P
 v7 κρινῶ|krinō|will punish|G2919|V-FIA-1S
 v7 ἐγώ|egō|I|G1473|PPro-N1S
@@ -226,7 +226,7 @@ v10 αὐτοῦ|autou|his|G846|PPro-GM3S
 v11 Ἦλθεν|Ēlthen|swept|G2064|V-AIA-3S
 v11 δὲ|de|Then|G1161|Conj
 v11 λιμὸς|limos|famine|G3042|N-NMS
-v11 ἐφ’|eph’|vvv|G1909|Prep
+v11 ἐφ’|eph’|...|G1909|Prep
 v11 ὅλην|holēn|across|G3650|Adj-AFS
 v11 τὴν|tēn|-|G3588|Art-AFS
 v11 Αἴγυπτον|Aigypton|Egypt|G125|N-AFS
@@ -236,7 +236,7 @@ v11 καὶ|kai|and|G2532|Conj
 v11 θλῖψις|thlipsis|suffering|G2347|N-NFS
 v11 μεγάλη|megalē|great|G3173|Adj-NFS
 v11 καὶ|kai|and|G2532|Conj
-v11 οὐχ|ouch|vvv|G3756|Adv
+v11 οὐχ|ouch|...|G3756|Adv
 v11 ηὕρισκον|hēuriskon|could not find|G2147|V-IIA-3P
 v11 χορτάσματα|chortasmata|food|G5527|N-ANP
 v11 οἱ|hoi|-|G3588|Art-NMP
@@ -369,7 +369,7 @@ v19 ἔκθετα|ektheta|to abandon|G1570|Adj-ANP
 v19 αὐτῶν|autōn|their|G846|PPro-GM3P
 v19 εἰς|eis|so|G1519|Prep
 v19 τὸ|to|...|G3588|Art-ANS
-v19 μὴ|mē|vvv|G3361|Adv
+v19 μὴ|mē|...|G3361|Adv
 v19 ζωογονεῖσθαι|zōogoneisthai|they would die|G2225|V-PNM/P
 v20 Ἐν|En|At|G1722|Prep
 v20 ᾧ|hō|that|G3739|RelPro-DMS
@@ -443,7 +443,7 @@ v24 τινα|tina|one [of them]|G5100|IPro-AMS
 v24 ἀδικούμενον|adikoumenon|being mistreated|G91|V-PPM/P-AMS
 v24 ἠμύνατο|ēmynato|[Moses] went to his defense|G292|V-AIM-3S
 v24 καὶ|kai|and|G2532|Conj
-v24 ἐποίησεν|epoiēsen|vvv|G4160|V-AIA-3S
+v24 ἐποίησεν|epoiēsen|...|G4160|V-AIA-3S
 v24 ἐκδίκησιν|ekdikēsin|avenged [him]|G1557|N-AFS
 v24 τῷ|tō|-|G3588|Art-DMS
 v24 καταπονουμένῳ|kataponoumenō|who was oppressing [him]|G2669|V-PPM/P-DMS
@@ -459,15 +459,15 @@ v25 [αὐτοῦ]|autou|his|G846|PPro-GM3S
 v25 ὅτι|hoti|that|G3754|Conj
 v25 ὁ|ho|-|G3588|Art-NMS
 v25 Θεὸς|Theos|God|G2316|N-NMS
-v25 διὰ|dia|vvv|G1223|Prep
+v25 διὰ|dia|...|G1223|Prep
 v25 χειρὸς|cheiros|was using him|G5495|N-GFS
-v25 αὐτοῦ|autou|vvv|G846|PPro-GM3S
-v25 δίδωσιν|didōsin|vvv|G1325|V-PIA-3S
+v25 αὐτοῦ|autou|...|G846|PPro-GM3S
+v25 δίδωσιν|didōsin|...|G1325|V-PIA-3S
 v25 σωτηρίαν|sōtērian|to deliver them|G4991|N-AFS
-v25 αὐτοῖς|autois|vvv|G846|PPro-DM3P
+v25 αὐτοῖς|autois|...|G846|PPro-DM3P
 v25 οἱ|hoi|-|G3588|Art-NMP
 v25 δὲ|de|but|G1161|Conj
-v25 οὐ|ou|vvv|G3756|Adv
+v25 οὐ|ou|...|G3756|Adv
 v25 συνῆκαν|synēkan|[they did not]|G4920|V-AIA-3P
 v26 Τῇ|Tē|The|G3588|Art-DFS
 v26 τε|te|-|G5037|Conj
@@ -485,7 +485,7 @@ v26 εἰπών|eipōn|saying|G2036|V-APA-NMS
 v26 Ἄνδρες|Andres|Men|G435|N-VMP
 v26 ἀδελφοί|adelphoi|brothers|G80|N-NMP
 v26 ἐστε|este|you are|G1510|V-PIA-2P
-v26 ἱνα‿|hina|vvv|G2443|Conj
+v26 ἱνα‿|hina|...|G2443|Conj
 v26 τί|ti|Why|G5101|IPro-ANS
 v26 ἀδικεῖτε|adikeite|are you mistreating|G91|V-PIA-2P
 v26 ἀλλήλους|allēlous|each other|G240|RecPro-AMP
@@ -505,7 +505,7 @@ v27 καὶ|kai|and|G2532|Conj
 v27 δικαστὴν|dikastēn|judge|G1348|N-AMS
 v27 ἐφ’|eph’|over|G1909|Prep
 v27 ἡμῶν|hēmōn|us|G1473|PPro-G1P
-v28 μὴ|mē|vvv|G3361|Adv
+v28 μὴ|mē|...|G3361|Adv
 v28 ἀνελεῖν|anelein|to kill me|G337|V-ANA
 v28 με|me|...|G1473|PPro-A1S
 v28 σὺ|sy|{Do} you|G4771|PPro-N2S
@@ -579,9 +579,9 @@ v32 καὶ|kai|and|G2532|Conj
 v32 Ἰακώβ|Iakōb|Jacob|G2384|N-GMS
 v32 ἔντρομος|entromos|trembled with fear|G1790|Adj-NMS
 v32 δὲ|de|-|G1161|Conj
-v32 γενόμενος|genomenos|vvv|G1096|V-APM-NMS
+v32 γενόμενος|genomenos|...|G1096|V-APM-NMS
 v32 Μωϋσῆς|Mōusēs|Moses|G3475|N-NMS
-v32 οὐκ|ouk|vvv|G3756|Adv
+v32 οὐκ|ouk|...|G3756|Adv
 v32 ἐτόλμα|etolma|[and] did not dare|G5111|V-IIA-3S
 v32 κατανοῆσαι|katanoēsai|to look|G2657|V-ANA
 v33 Εἶπεν|Eipen|said|G2036|V-AIA-3S
@@ -598,7 +598,7 @@ v33 σου|sou|...|G4771|PPro-G2S
 v33 ὁ|ho|the|G3588|Art-NMS
 v33 γὰρ|gar|for|G1063|Conj
 v33 τόπος|topos|place|G5117|N-NMS
-v33 ἐφ’|eph’|vvv|G1909|Prep
+v33 ἐφ’|eph’|...|G1909|Prep
 v33 ᾧ|hō|where|G3739|RelPro-DMS
 v33 ἕστηκας|hestēkas|you are standing|G2476|V-RIA-2S
 v33 γῆ|gē|ground|G1093|N-NFS
@@ -686,7 +686,7 @@ v37 Μωϋσῆς|Mōusēs|Moses|G3475|N-NMS
 v37 ὁ|ho|who|G3588|Art-NMS
 v37 εἴπας|eipas|told|G2036|V-APA-NMS
 v37 τοῖς|tois|the|G3588|Art-DMP
-v37 υἱοῖς|huiois|vvv|G5207|N-DMP
+v37 υἱοῖς|huiois|...|G5207|N-DMP
 v37 Ἰσραήλ|Israēl|Israelites|G2474|N-GMS
 v37 Προφήτην|Prophētēn|a prophet|G4396|N-AMS
 v37 ὑμῖν|hymin|for you|G4771|PPro-D2P
@@ -766,7 +766,7 @@ v40 ἡμᾶς|hēmas|...|G1473|PPro-A1P
 v40 ἐκ|ek|out of|G1537|Prep
 v40 γῆς|gēs|[the] land|G1093|N-GFS
 v40 Αἰγύπτου|Aigyptou|of Egypt|G125|N-GFS
-v40 οὐκ|ouk|vvv|G3756|Adv
+v40 οὐκ|ouk|...|G3756|Adv
 v40 οἴδαμεν|oidamen|we do not know|G1492|V-RIA-1P
 v40 τί|ti|what|G5101|IPro-NNS
 v40 ἐγένετο|egeneto|has happened|G1096|V-AIM-3S
@@ -808,7 +808,7 @@ v42 ἐν|en|in|G1722|Prep
 v42 βίβλῳ|biblō|[the] book|G976|N-DFS
 v42 τῶν|tōn|of the|G3588|Art-GMP
 v42 προφητῶν|prophētōn|prophets|G4396|N-GMP
-v42 Μὴ|Mē|vvv|G3361|Adv
+v42 Μὴ|Mē|...|G3361|Adv
 v42 σφάγια|sphagia|sacrifices|G4968|N-ANP
 v42 καὶ|kai|and|G2532|Conj
 v42 θυσίας|thysias|offerings|G2378|N-AFP
@@ -891,7 +891,7 @@ v45 ἀπὸ|apo|before|G575|Prep
 v45 προσώπου|prosōpou|...|G4383|N-GNS
 v45 τῶν|tōn|...|G3588|Art-GMP
 v45 πατέρων|paterōn|[them]|G3962|N-GMP
-v45 ἡμῶν|hēmōn|vvv|G1473|PPro-G1P
+v45 ἡμῶν|hēmōn|...|G1473|PPro-G1P
 v45 ἕως|heōs|[It remained] until|G2193|Prep
 v45 τῶν|tōn|the|G3588|Art-GFP
 v45 ἡμερῶν|hēmerōn|time|G2250|N-GFP
@@ -933,9 +933,9 @@ v49 ἡ|hē|the|G3588|Art-NFS
 v49 δὲ|de|and|G1161|Conj
 v49 γῆ|gē|earth|G1093|N-NFS
 v49 ὑποπόδιον|hypopodion|footstool|G5286|N-NNS
-v49 τῶν|tōn|vvv|G3588|Art-GMP
+v49 τῶν|tōn|...|G3588|Art-GMP
 v49 ποδῶν|podōn|[is] My|G4228|N-GMP
-v49 μου|mou|vvv|G1473|PPro-G1S
+v49 μου|mou|...|G1473|PPro-G1S
 v49 ποῖον|poion|What kind of|G4169|IPro-AMS
 v49 οἶκον|oikon|house|G3624|N-AMS
 v49 οἰκοδομήσετέ|oikodomēsete|will you build|G3618|V-FIA-2P
@@ -983,7 +983,7 @@ v52 ἐδίωξαν|ediōxan|to persecute|G1377|V-AIA-3P
 v52 οἱ|hoi|-|G3588|Art-NMP
 v52 πατέρες|pateres|fathers|G3962|N-NMP
 v52 ὑμῶν|hymōn|{did} your|G4771|PPro-G2P
-v52 καὶ|kai|vvv|G2532|Conj
+v52 καὶ|kai|...|G2532|Conj
 v52 ἀπέκτειναν|apekteinan|They even killed|G615|V-AIA-3P
 v52 τοὺς|tous|those who|G3588|Art-AMP
 v52 προκαταγγείλαντας|prokatangeilantas|foretold|G4293|V-APA-AMP
@@ -1007,7 +1007,7 @@ v53 εἰς|eis|by|G1519|Prep
 v53 διαταγὰς|diatagas|ordained|G1296|N-AFP
 v53 ἀγγέλων|angelōn|angels|G32|N-GMP
 v53 καὶ|kai|yet|G2532|Conj
-v53 οὐκ|ouk|vvv|G3756|Adv
+v53 οὐκ|ouk|...|G3756|Adv
 v53 ἐφυλάξατε|ephylaxate|have not kept [it]|G5442|V-AIA-2P
 v54 Ἀκούοντες|Akouontes|On hearing|G191|V-PPA-NMP
 v54 δὲ|de|-|G1161|Conj
@@ -1026,7 +1026,7 @@ v55 ὑπάρχων|hyparchōn|[Stephen]|G5225|V-PPA-NMS
 v55 δὲ|de|But|G1161|Conj
 v55 πλήρης|plērēs|full|G4134|Adj-NMS
 v55 Πνεύματος|Pneumatos|of [the] Holy Spirit|G4151|N-GNS
-v55 Ἁγίου|Hagiou|vvv|G40|Adj-GNS
+v55 Ἁγίου|Hagiou|...|G40|Adj-GNS
 v55 ἀτενίσας|atenisas|looked intently|G816|V-APA-NMS
 v55 εἰς|eis|into|G1519|Prep
 v55 τὸν|ton|-|G3588|Art-AMS
@@ -1061,7 +1061,7 @@ v56 Θεοῦ|Theou|of God|G2316|N-GMS
 v57 Κράξαντες|Kraxantes|cried out|G2896|V-APA-NMP
 v57 δὲ|de|At this|G1161|Conj
 v57 φωνῇ|phōnē|in a loud voice|G5456|N-DFS
-v57 μεγάλῃ|megalē|vvv|G3173|Adj-DFS
+v57 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v57 συνέσχον|syneschon|they covered|G4912|V-AIA-3P
 v57 τὰ|ta|-|G3588|Art-ANP
 v57 ὦτα|ōta|ears|G3775|N-ANP

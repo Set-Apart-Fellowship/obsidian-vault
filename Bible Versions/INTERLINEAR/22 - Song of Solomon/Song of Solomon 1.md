@@ -32,7 +32,7 @@ v4 נַזְכִּ֤ירָה|naz·kî·rāh|we will praise|H2142|V-Hifil-Imperf.C
 v4 דֹדֶ֙יךָ֙|ḏō·ḏe·ḵā|your love|H1730|N-mpc | 2ms
 v4 מִיַּ֔יִן|mî·ya·yin|more than wine|H3196|Prep-m | N-ms
 v4 מֵישָׁרִ֖ים|mê·šā·rîm|It is only right|H4339|N-mp
-v4 אֲהֵבֽוּךָ׃ס|’ă·hê·ḇū·ḵā|that they adore you|H157|V-Qal-Perf-3cp | 2ms
+v4 אֲהֵבֽוּךָ׃|’ă·hê·ḇū·ḵā|that they adore you|H157|V-Qal-Perf-3cp | 2ms
 v5 שְׁחוֹרָ֤ה|šə·ḥō·w·rāh|am dark|H7838|Adj-fs
 v5 אֲנִי֙|’ă·nî|I|H589|Pro-1cs
 v5 וְֽנָאוָ֔ה|wə·nā·wāh|yet lovely|H5000|Conj-w | Adj-fs
@@ -57,7 +57,7 @@ v6 נֹטֵרָ֣ה|nō·ṭê·rāh|a keeper|H5201|V-Qal-Prtcpl-fs
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 הַכְּרָמִ֔ים|hak·kə·rā·mîm|of the vineyards|H3754|Art | N-mp
 v6 כַּרְמִ֥י|kar·mî|[but] my own vineyard|H3754|N-msc | 1cs
-v6 שֶׁלִּ֖י|šel·lî||H0|Pro-r | Prep | 1cs
+v6 שֶׁלִּ֖י|šel·lî|-|H0|Pro-r | Prep | 1cs
 v6 לֹ֥א|lō|I have neglected|H3808|Adv-NegPrt
 v6 נָטָֽרְתִּי׃|nā·ṭā·rə·tî|...|H5201|V-Qal-Perf-1cs
 v7 הַגִּ֣ידָה|hag·gî·ḏāh|Tell me|H5046|V-Hifil-Imp-ms | 3fs
@@ -78,11 +78,11 @@ v7 חֲבֵרֶֽיךָ׃|ḥă·ḇê·re·ḵā|of your companions|H2270|N-mp
 v8 אִם־|’im-|If|H518|Conj
 v8 לֹ֤א|lō|you do not|H3808|Adv-NegPrt
 v8 תֵדְעִי֙|ṯê·ḏə·‘î|know|H3045|V-Qal-Imperf-2fs
-v8 לָ֔ךְ|lāḵ||H0|Prep | 2fs
+v8 לָ֔ךְ|lāḵ|-|H0|Prep | 2fs
 v8 הַיָּפָ֖ה|hay·yā·p̄āh|O fairest|H3303|Art | Adj-fs
 v8 בַּנָּשִׁ֑ים|ban·nā·šîm|of women|H802|Prep-b, Art | N-fp
 v8 צְֽאִי־|ṣə·’î-|follow|H3318|V-Qal-Imp-fs
-v8 לָ֞ךְ|lāḵ||H0|Prep | 2fs
+v8 לָ֞ךְ|lāḵ|-|H0|Prep | 2fs
 v8 בְּעִקְבֵ֣י|bə·‘iq·ḇê|the tracks|H6119|Prep-b | N-mpc
 v8 הַצֹּ֗אן|haṣ·ṣōn|of the flock|H6629|Art | N-cs
 v8 וּרְעִי֙|ū·rə·‘î|and graze|H7462|Conj-w | V-Qal-Imp-fs
@@ -90,7 +90,7 @@ v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 גְּדִיֹּתַ֔יִךְ|gə·ḏî·yō·ṯa·yiḵ|your young goats|H1429|N-fpc | 2fs
 v8 עַ֖ל|‘al|near|H5921|Prep
 v8 מִשְׁכְּנ֥וֹת|miš·kə·nō·wṯ|the tents|H4908|N-mpc
-v8 הָרֹעִֽים׃ס|hā·rō·‘îm|of the shepherds|H7462|Art | V-Qal-Prtcpl-mp
+v8 הָרֹעִֽים׃|hā·rō·‘îm|of the shepherds|H7462|Art | V-Qal-Prtcpl-mp
 v9 לְסֻסָתִי֙|lə·su·sā·ṯî|to a mare|H5484|Prep-l | N-fsc | 1cs
 v9 בְּרִכְבֵ֣י|bə·riḵ·ḇê|chariots|H7393|Prep-b | N-mpc
 v9 פַרְעֹ֔ה|p̄ar·‘ōh|among Pharaoh's|H6547|N-proper-ms
@@ -126,8 +126,8 @@ v14 הַכֹּ֤פֶר׀|hak·kō·p̄er|of henna blossoms|H3724|Art | N-ms
 v14 דּוֹדִי֙|dō·w·ḏî|My beloved|H1730|N-msc | 1cs
 v14 לִ֔י|lî|is to me|H0|Prep | 1cs
 v14 בְּכַרְמֵ֖י|bə·ḵar·mê|in the vineyards|H3754|Prep-b | N-mpc
-v14 עֵ֥ין|‘ên|vvv|H5872|
-v14 גֶּֽדִי׃ס|ge·ḏî|of En-gedi|H5872|N-proper-fs
+v14 עֵ֥ין|‘ên|...|H5872|
+v14 גֶּֽדִי׃|ge·ḏî|of En-gedi|H5872|N-proper-fs
 v15 הִנָּ֤ךְ|hin·nāḵ|How|H2005|Interjection | 2fs
 v15 יָפָה֙|yā·p̄āh|beautiful [you are]|H3303|Adj-fs
 v15 רַעְיָתִ֔י|ra‘·yā·ṯî|my darling|H7474|N-fsc | 1cs

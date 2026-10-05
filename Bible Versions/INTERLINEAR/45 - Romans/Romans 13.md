@@ -48,7 +48,7 @@ v3 τῷ|tō|-|G3588|Art-DNS
 v3 κακῷ|kakō|to bad|G2556|Adj-DNS
 v3 θέλεις|theleis|Do you want|G2309|V-PIA-2S
 v3 δὲ|de|-|G1161|Conj
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 φοβεῖσθαι|phobeisthai|to be unafraid|G5399|V-PNM/P
 v3 τὴν|tēn|of the|G3588|Art-AFS
 v3 ἐξουσίαν|exousian|one in authority|G1849|N-AFS
@@ -58,7 +58,7 @@ v3 ποίει|poiei|[Then] do|G4160|V-PMA-2S
 v3 καὶ|kai|and|G2532|Conj
 v3 ἕξεις|hexeis|you will have|G2192|V-FIA-2S
 v3 ἔπαινον|epainon|approval|G1868|N-AMS
-v3 ἐξ|ex|vvv|G1537|Prep
+v3 ἐξ|ex|...|G1537|Prep
 v3 αὐτῆς|autēs|his|G846|PPro-GF3S
 v4 Θεοῦ|Theou|God's|G2316|N-GMS
 v4 γὰρ|gar|For|G1063|Conj
@@ -74,7 +74,7 @@ v4 τὸ|to|-|G3588|Art-ANS
 v4 κακὸν|kakon|wrong|G2556|Adj-ANS
 v4 ποιῇς|poiēs|you do|G4160|V-PSA-2S
 v4 φοβοῦ|phobou|be afraid|G5399|V-PMM/P-2S
-v4 οὐ|ou|vvv|G3756|Adv
+v4 οὐ|ou|...|G3756|Adv
 v4 γὰρ|gar|for|G1063|Conj
 v4 εἰκῇ|eikē|in vain|G1500|Adv
 v4 τὴν|tēn|the|G3588|Art-AFS
@@ -88,9 +88,9 @@ v4 ἔκδικος|ekdikos|an agent|G1558|Adj-NMS
 v4 εἰς|eis|of|G1519|Prep
 v4 ὀργὴν|orgēn|retribution|G3709|N-AFS
 v4 τῷ|tō|to the|G3588|Art-DMS
-v4 τὸ|to|vvv|G3588|Art-ANS
+v4 τὸ|to|...|G3588|Art-ANS
 v4 κακὸν|kakon|wrongdoer|G2556|Adj-ANS
-v4 πράσσοντι|prassonti|vvv|G4238|V-PPA-DMS
+v4 πράσσοντι|prassonti|...|G4238|V-PPA-DMS
 v5 Διὸ|Dio|Therefore|G1352|Conj
 v5 ἀνάγκη|anankē|[it is] necessary|G318|N-NFS
 v5 ὑποτάσσεσθαι|hypotassesthai|to submit [ to authority ]|G5293|V-PNP
@@ -115,7 +115,7 @@ v6 γὰρ|gar|For|G1063|Conj
 v6 Θεοῦ|Theou|God's|G2316|N-GMS
 v6 εἰσιν|eisin|[the authorities] are|G1510|V-PIA-3P
 v6 εἰς|eis|to|G1519|Prep
-v6 αὐτὸ|auto|vvv|G846|PPro-AN3S
+v6 αὐτὸ|auto|...|G846|PPro-AN3S
 v6 τοῦτο|touto|[their work]|G3778|DPro-ANS
 v6 προσκαρτεροῦντες|proskarterountes|who devote themselves|G4342|V-PPA-NMP
 v7 ἀπόδοτε|apodote|Pay|G591|V-AMA-2P
@@ -159,13 +159,13 @@ v8 νόμον|nomon|[the] law|G3551|N-AMS
 v8 πεπλήρωκεν|peplērōken|has fulfilled|G4137|V-RIA-3S
 v9 τὸ|to|The [commandments]|G3588|Art-NNS
 v9 γάρ|gar|-|G1063|Conj
-v9 Οὐ|Ou|vvv|G3756|Adv
+v9 Οὐ|Ou|...|G3756|Adv
 v9 μοιχεύσεις|moicheuseis|Do not commit adultery|G3431|V-FIA-2S
-v9 Οὐ|Ou|vvv|G3756|Adv
+v9 Οὐ|Ou|...|G3756|Adv
 v9 φονεύσεις|phoneuseis|Do not murder|G5407|V-FIA-2S
-v9 Οὐ|Ou|vvv|G3756|Adv
+v9 Οὐ|Ou|...|G3756|Adv
 v9 κλέψεις|klepseis|Do not steal|G2813|V-FIA-2S
-v9 Οὐκ|Ouk|vvv|G3756|Adv
+v9 Οὐκ|Ouk|...|G3756|Adv
 v9 ἐπιθυμήσεις|epithymēseis|Do not covet|G1937|V-FIA-2S
 v9 καὶ|kai|and|G2532|Conj
 v9 εἴ|ei|-|G1487|Conj
@@ -190,8 +190,8 @@ v10 ἀγάπη|agapē|Love|G26|N-NFS
 v10 τῷ|tō|to [its]|G3588|Art-DMS
 v10 πλησίον|plēsion|neighbor|G4139|Adv
 v10 κακὸν|kakon|does no wrong|G2556|Adj-ANS
-v10 οὐκ|ouk|vvv|G3756|Adv
-v10 ἐργάζεται|ergazetai|vvv|G2038|V-PIM/P-3S
+v10 οὐκ|ouk|...|G3756|Adv
+v10 ἐργάζεται|ergazetai|...|G2038|V-PIM/P-3S
 v10 πλήρωμα|plērōma|[the] fulfillment|G4138|N-NNS
 v10 οὖν|oun|Therefore|G3767|Conj
 v10 νόμου|nomou|of [the] law|G3551|N-GMS

@@ -37,7 +37,7 @@ v3 שַׁבָּ֥ת|šab·bāṯ|is a Sabbath|H7676|N-cs
 v3 הִוא֙|hî|it|H1931|Pro-3fs
 v3 לַֽיהוָ֔ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v3 בְּכֹ֖ל|bə·ḵōl|wherever|H3605|Prep-b | N-msc
-v3 מֽוֹשְׁבֹתֵיכֶֽם׃פ|mō·wō·šə·ḇō·ṯê·ḵem|you live|H4186|N-mpc | 2mp
+v3 מֽוֹשְׁבֹתֵיכֶֽם׃|mō·wō·šə·ḇō·ṯê·ḵem|you live|H4186|N-mpc | 2mp
 v4 אֵ֚לֶּה|’êl·leh|These|H428|Pro-cp
 v4 מוֹעֲדֵ֣י|mō·w·‘ă·ḏê|appointed feasts|H4150|N-mpc
 v4 יְהוָ֔ה|Yah·weh|are the LORD's|H3068|N-proper-ms
@@ -73,7 +73,7 @@ v7 הָֽרִאשׁ֔וֹן|hā·ri·šō·wn|On the first|H7223|Art | Adj-ms
 v7 מִקְרָא־|miq·rā-|assembly|H4744|N-msc
 v7 קֹ֖דֶשׁ|qō·ḏeš|a sacred|H6944|N-ms
 v7 יִהְיֶ֣ה|yih·yeh|you are to hold|H1961|V-Qal-Imperf-3ms
-v7 לָכֶ֑ם|lā·ḵem||H0|Prep | 2mp
+v7 לָכֶ֑ם|lā·ḵem|-|H0|Prep | 2mp
 v7 כָּל־|kāl-|any|H3605|N-msc
 v7 מְלֶ֥אכֶת|mə·le·ḵeṯ|work|H4399|N-fsc
 v7 עֲבֹדָ֖ה|‘ă·ḇō·ḏāh|regular|H5656|N-fs
@@ -92,7 +92,7 @@ v8 כָּל־|kāl-|any|H3605|N-msc
 v8 מְלֶ֥אכֶת|mə·le·ḵeṯ|work|H4399|N-fsc
 v8 עֲבֹדָ֖ה|‘ă·ḇō·ḏāh|regular|H5656|N-fs
 v8 לֹ֥א|lō|you must not|H3808|Adv-NegPrt
-v8 תַעֲשֽׂוּ׃פ|ṯa·‘ă·śū|do|H6213|V-Qal-Imperf-2mp
+v8 תַעֲשֽׂוּ׃|ṯa·‘ă·śū|do|H6213|V-Qal-Imperf-2mp
 v9 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v9 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v9 אֶל־|’el-|to|H413|Prep
@@ -175,9 +175,9 @@ v14 חֻקַּ֤ת|ḥuq·qaṯ|statute|H2708|N-fsc
 v14 עוֹלָם֙|‘ō·w·lām|This is to be a permanent|H5769|N-ms
 v14 לְדֹרֹ֣תֵיכֶ֔ם|lə·ḏō·rō·ṯê·ḵem|for the generations to come|H1755|Prep-l | N-mpc | 2mp
 v14 בְּכֹ֖ל|bə·ḵōl|wherever|H3605|Prep-b | N-msc
-v14 מֹשְׁבֹֽתֵיכֶֽם׃ס|mō·šə·ḇō·ṯê·ḵem|you live|H4186|N-mpc | 2mp
+v14 מֹשְׁבֹֽתֵיכֶֽם׃|mō·šə·ḇō·ṯê·ḵem|you live|H4186|N-mpc | 2mp
 v15 וּסְפַרְתֶּ֤ם|ū·sə·p̄ar·tem|you are to count off|H5608|Conj-w | V-Qal-ConjPerf-2mp
-v15 לָכֶם֙|lā·ḵem||H0|Prep | 2mp
+v15 לָכֶם֙|lā·ḵem|-|H0|Prep | 2mp
 v15 מִמָּחֳרַ֣ת|mim·mā·ḥo·raṯ|From the day after|H4283|Prep-m | N-fsc
 v15 הַשַּׁבָּ֔ת|haš·šab·bāṯ|the Sabbath|H7676|Art | N-cs
 v15 מִיּוֹם֙|mî·yō·wm|the day|H3117|Prep-m | N-msc
@@ -188,7 +188,7 @@ v15 הַתְּנוּפָ֑ה|hat·tə·nū·p̄āh|of the wave offering|H8573|Ar
 v15 שֶׁ֥בַע|še·ḇa‘|seven|H7651|Number-fs
 v15 שַׁבָּת֖וֹת|šab·bā·ṯō·wṯ|weeks|H7676|N-cp
 v15 תְּמִימֹ֥ת|tə·mî·mōṯ|full|H8549|Adj-fp
-v15 תִּהְיֶֽינָה׃|tih·ye·nāh||H1961|V-Qal-Imperf-3fp
+v15 תִּהְיֶֽינָה׃|tih·ye·nāh|-|H1961|V-Qal-Imperf-3fp
 v16 עַ֣ד|‘aḏ|until|H5704|Prep
 v16 מִֽמָּחֳרַ֤ת|mim·mā·ḥo·raṯ|the day after|H4283|Prep-m | N-fsc
 v16 הַשַּׁבָּת֙|haš·šab·bāṯ|Sabbath|H7676|Art | N-cs
@@ -300,7 +300,7 @@ v22 תַּעֲזֹ֣ב|ta·‘ă·zōḇ|Leave|H5800|V-Qal-Imperf-2ms
 v22 אֹתָ֔ם|’ō·ṯām|them|H853|DirObjM | 3mp
 v22 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v22 יְהוָ֥ה|Yah·weh|am the LORD|H3068|N-proper-ms
-v22 אֱלֹהֵיכֶֽם׃ס|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
+v22 אֱלֹהֵיכֶֽם׃|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
 v23 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v23 יְהוָ֖ה|Yah·weh|The LORD also|H3068|N-proper-ms
 v23 אֶל־|’el-|to|H413|Prep
@@ -316,7 +316,7 @@ v24 הַשְּׁבִיעִ֜י|haš·šə·ḇî·‘î|of the seventh|H7637|Art
 v24 בְּאֶחָ֣ד|bə·’e·ḥāḏ|On the first|H259|Prep-b | Number-ms
 v24 לַחֹ֗דֶשׁ|la·ḥō·ḏeš|day|H2320|Prep-l, Art | N-ms
 v24 יִהְיֶ֤ה|yih·yeh|you are to have|H1961|V-Qal-Imperf-3ms
-v24 לָכֶם֙|lā·ḵem||H0|Prep | 2mp
+v24 לָכֶם֙|lā·ḵem|-|H0|Prep | 2mp
 v24 שַׁבָּת֔וֹן|šab·bā·ṯō·wn|a day of rest|H7677|N-ms
 v24 זִכְר֥וֹן|ziḵ·rō·wn|announced|H2146|N-msc
 v24 תְּרוּעָ֖ה|tə·rū·‘āh|by [trumpet] blasts|H8643|N-fs
@@ -329,13 +329,13 @@ v25 לֹ֣א|lō|You must not|H3808|Adv-NegPrt
 v25 תַעֲשׂ֑וּ|ṯa·‘ă·śū|do|H6213|V-Qal-Imperf-2mp
 v25 וְהִקְרַבְתֶּ֥ם|wə·hiq·raḇ·tem|but you are to present|H7126|Conj-w | V-Hifil-ConjPerf-2mp
 v25 אִשֶּׁ֖ה|’iš·šeh|a food offering|H801|N-ms
-v25 לַיהוָֽה׃ס|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v25 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v26 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v26 יְהוָ֖ה|Yah·weh|Again the LORD|H3068|N-proper-ms
 v26 אֶל־|’el-|to|H413|Prep
 v26 מֹשֶׁ֥ה|mō·šeh|Moses|H4872|N-proper-ms
 v26 לֵּאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
-v27 אַ֡ךְ|’aḵ|vvv|H389|Adv
+v27 אַ֡ךְ|’aḵ|...|H389|Adv
 v27 בֶּעָשׂ֣וֹר|be·‘ā·śō·wr|The tenth|H6218|Prep-b, Art | N-ms
 v27 לַחֹדֶשׁ֩|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v27 הַשְּׁבִיעִ֨י|haš·šə·ḇî·‘î|seventh|H7637|Art | Number-oms
@@ -346,7 +346,7 @@ v27 ה֗וּא|hū|...|H1931|Pro-3ms
 v27 מִֽקְרָא־|miq·rā-|assembly|H4744|N-msc
 v27 קֹ֙דֶשׁ֙|qō·ḏeš|a sacred|H6944|N-ms
 v27 יִהְיֶ֣ה|yih·yeh|You shall hold|H1961|V-Qal-Imperf-3ms
-v27 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v27 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v27 וְעִנִּיתֶ֖ם|wə·‘in·nî·ṯem|and humble|H6031|Conj-w | V-Piel-ConjPerf-2mp
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 נַפְשֹׁתֵיכֶ֑ם|nap̄·šō·ṯê·ḵem|yourselves|H5315|N-fpc | 2mp
@@ -418,7 +418,7 @@ v32 מֵעֶ֣רֶב|mê·‘e·reḇ|the following evening|H6153|Prep-m | N-ms
 v32 עַד־|‘aḏ-|until|H5704|Prep
 v32 עֶ֔רֶב|‘e·reḇ|...|H6153|N-ms
 v32 תִּשְׁבְּת֖וּ|tiš·bə·ṯū|you are to keep|H7673|V-Qal-Imperf-2mp
-v32 שַׁבַּתְּכֶֽם׃פ|šab·bat·tə·ḵem|your Sabbath|H7676|N-csc | 2mp
+v32 שַׁבַּתְּכֶֽם׃|šab·bat·tə·ḵem|your Sabbath|H7676|N-csc | 2mp
 v33 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v33 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v33 אֶל־|’el-|to|H413|Prep
@@ -459,7 +459,7 @@ v36 הַשְּׁמִינִ֡י|haš·šə·mî·nî|On the eighth|H8066|Art | Nu
 v36 מִקְרָא־|miq·rā-|assembly|H4744|N-msc
 v36 קֹדֶשׁ֩|qō·ḏeš|a sacred|H6944|N-ms
 v36 יִהְיֶ֨ה|yih·yeh|you are to hold|H1961|V-Qal-Imperf-3ms
-v36 לָכֶ֜ם|lā·ḵem||H0|Prep | 2mp
+v36 לָכֶ֜ם|lā·ḵem|-|H0|Prep | 2mp
 v36 וְהִקְרַבְתֶּ֨ם|wə·hiq·raḇ·tem|and present|H7126|Conj-w | V-Hifil-ConjPerf-2mp
 v36 אִשֶּׁ֤ה|’iš·šeh|a food offering|H801|N-ms
 v36 לַֽיהוָה֙|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
@@ -525,7 +525,7 @@ v39 וּבַיּ֥וֹם|ū·ḇay·yō·wm|day|H3117|Conj-w, Prep-b, Art | N-ms
 v39 הַשְּׁמִינִ֖י|haš·šə·mî·nî|on the eighth|H8066|Art | Number-oms
 v39 שַׁבָּתֽוֹן׃|šab·bā·ṯō·wn|and [also]|H7677|N-ms
 v40 וּלְקַחְתֶּ֨ם|ū·lə·qaḥ·tem|you are to gather|H3947|Conj-w | V-Qal-ConjPerf-2mp
-v40 לָכֶ֜ם|lā·ḵem||H0|Prep | 2mp
+v40 לָכֶ֜ם|lā·ḵem|-|H0|Prep | 2mp
 v40 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v40 הָרִאשׁ֗וֹן|hā·ri·šō·wn|On the first|H7223|Art | Adj-ms
 v40 פְּרִ֨י|pə·rî|the fruit|H6529|N-msc
@@ -590,4 +590,4 @@ v44 מֹעֲדֵ֖י|mō·‘ă·ḏê|the appointed [feasts]|H4150|N-mpc
 v44 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v44 אֶל־|’el-|to|H413|Prep
 v44 בְּנֵ֖י|bə·nê|the Israelites|H1121|N-mpc
-v44 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|...|H3478|N-proper-ms
+v44 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms

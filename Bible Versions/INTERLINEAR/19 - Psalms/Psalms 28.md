@@ -79,11 +79,11 @@ v7 וּֽמִשִּׁירִ֥י|ū·miš·šî·rî|with my song|H7892|Conj-w, P
 v7 אֲהוֹדֶֽנּוּ׃|’ă·hō·w·ḏen·nū|and I give thanks to Him|H3034|V-Hifil-Imperf-1cs | 3ms
 v8 יְהוָ֥ה|Yah·weh|The LORD|H3068|N-proper-ms
 v8 עֹֽז־|‘ōz-|is the strength of His people|H5797|N-ms
-v8 לָ֑מוֹ|lā·mōw||H0|Prep | 3mp
+v8 לָ֑מוֹ|lā·mōw|-|H0|Prep | 3mp
 v8 וּמָ֘ע֤וֹז|ū·mā·‘ō·wz|a stronghold|H4581|Conj-w | N-msc
 v8 יְשׁוּע֖וֹת|yə·šū·‘ō·wṯ|of salvation|H3444|N-fpc
 v8 מְשִׁיח֣וֹ|mə·šî·ḥōw|for His anointed|H4899|Adj-msc | 3ms
-v8 הֽוּא׃|hū||H1931|Pro-3ms
+v8 הֽוּא׃|hū|-|H1931|Pro-3ms
 v9 הוֹשִׁ֤יעָה׀|hō·wō·šî·‘āh|Save|H3467|V-Hifil-Imp-ms | 3fs
 v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 עַמֶּ֗ךָ|‘am·me·ḵā|Your people|H5971|N-msc | 2ms

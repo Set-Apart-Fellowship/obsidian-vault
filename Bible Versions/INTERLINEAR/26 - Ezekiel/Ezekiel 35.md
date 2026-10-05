@@ -40,7 +40,7 @@ v4 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v4 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v5 יַ֗עַן|ya·‘an|Because|H3282|Adv
 v5 הֱי֤וֹת|hĕ·yō·wṯ|you harbored|H1961|V-Qal-Inf
-v5 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v5 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v5 אֵיבַ֣ת|’ê·ḇaṯ|hatred|H342|N-fsc
 v5 עוֹלָ֔ם|‘ō·w·lām|an ancient|H5769|N-ms
 v5 וַתַּגֵּ֥ר|wat·tag·gêr|and delivered|H5064|Conj-w | V-Hifil-ConsecImperf-2ms
@@ -61,7 +61,7 @@ v6 אָ֗נִי|’ā·nî|as surely as I|H589|Pro-1cs
 v6 נְאֻם֙|nə·’um|declares|H5002|N-msc
 v6 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v6 יְהוִ֔ה|Yah·weh|GOD|H3069|N-proper-ms
-v6 כִּֽי־|kî-||H3588|Conj
+v6 כִּֽי־|kî-|-|H3588|Conj
 v6 לְדָ֥ם|lə·ḏām|to bloodshed|H1818|Prep-l | N-ms
 v6 אֶעֶשְׂךָ֖|’e·‘eś·ḵā|I will give you over|H6213|V-Qal-Imperf-1cs | 2ms
 v6 וְדָ֣ם|wə·ḏām|and [it]|H1818|Conj-w | N-ms
@@ -93,7 +93,7 @@ v8 אֲפִיקֶ֔יךָ|’ă·p̄î·qe·ḵā|your ravines|H650|N-mpc | 2ms
 v8 חַלְלֵי־|ḥal·lê-|those killed|H2491|N-mpc
 v8 חֶ֖רֶב|ḥe·reḇ|by the sword|H2719|N-fs
 v8 יִפְּל֥וּ|yip·pə·lū|will fall|H5307|V-Qal-Imperf-3mp
-v8 בָהֶֽם׃|ḇā·hem||H0|Prep | 3mp
+v8 בָהֶֽם׃|ḇā·hem|-|H0|Prep | 3mp
 v9 שִֽׁמְמ֤וֹת|šim·mō·wṯ|desolation|H8077|N-fpc
 v9 עוֹלָם֙|‘ō·w·lām|you a perpetual|H5769|N-ms
 v9 אֶתֶּנְךָ֔|’et·ten·ḵā|I will make|H5414|V-Qal-Imperf-1cs | 2ms
@@ -160,7 +160,7 @@ v13 וְהַעְתַּרְתֶּ֥ם|wə·ha‘·tar·tem|and multiplied|H6280|C
 v13 עָלַ֖י|‘ā·lay|against Me|H5921|Prep | 1cs
 v13 דִּבְרֵיכֶ֑ם|diḇ·rê·ḵem|your words|H1697|N-mpc | 2mp
 v13 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
-v13 שָׁמָֽעְתִּי׃ס|šā·mā·‘ə·tî|heard it Myself|H8085|V-Qal-Perf-1cs
+v13 שָׁמָֽעְתִּי׃|šā·mā·‘ə·tî|heard it Myself|H8085|V-Qal-Perf-1cs
 v14 כֹּ֥ה|kōh|This is what|H3541|Adv
 v14 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v14 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -191,4 +191,4 @@ v15 כֻּלָּ֔הּ|kul·lāh|-|H3605|N-msc | 3fs
 v15 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v15 כִּֽי־|kî-|that|H3588|Conj
 v15 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v15 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v15 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms

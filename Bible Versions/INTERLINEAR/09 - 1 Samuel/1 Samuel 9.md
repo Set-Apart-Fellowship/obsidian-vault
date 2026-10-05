@@ -1,5 +1,5 @@
 v1 וַֽיְהִי־|way·hî-|Now there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v1 אִ֣ישׁ|’îš|vvv|H376|N-ms
+v1 אִ֣ישׁ|’îš|...|H376|N-ms
 v1 מִבִּן־|mib·bin-|a Benjamite|H1144|Prep-m | N-proper-ms
 v1 יָמִין|yå̄·mīn|...|H3225|N-proper-ms
 v1 וּ֠שְׁמוֹ|ū·šə·mōw|whose name|H8034|Conj-w | N-msc | 3ms
@@ -92,7 +92,7 @@ v5 הָאֲתֹנ֖וֹת|hā·’ă·ṯō·nō·wṯ|the donkeys|H860|Art | N
 v5 וְדָ֥אַג|wə·ḏā·’aḡ|and start worrying|H1672|Conj-w | V-Qal-ConjPerf-3ms
 v5 לָֽנוּ׃|lā·nū|about us|H0|Prep | 1cp
 v6 וַיֹּ֣אמֶר|way·yō·mer|said the servant|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v6 ל֗וֹ|lōw||H0|Prep | 3ms
+v6 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v6 הִנֵּה־|hin·nêh-|Look|H2009|Interjection
 v6 נָ֤א|nā|...|H4994|Interjection
 v6 אִישׁ־|’îš-|there is a man|H376|N-msc
@@ -198,7 +198,7 @@ v11 יֹצְא֖וֹת|yō·ṣə·’ō·wṯ|coming out|H3318|V-Qal-Prtcpl-fp
 v11 לִשְׁאֹ֣ב|liš·’ōḇ|to draw|H7579|Prep-l | V-Qal-Inf
 v11 מָ֑יִם|mā·yim|water|H4325|N-mp
 v11 וַיֹּאמְר֣וּ|way·yō·mə·rū|and asked|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v11 לָהֶ֔ן|lā·hen||H0|Prep | 3fp
+v11 לָהֶ֔ן|lā·hen|-|H0|Prep | 3fp
 v11 הֲיֵ֥שׁ|hă·yêš|Is|H3426|Adv
 v11 בָּזֶ֖ה|bā·zeh|...|H2088|Prep-b | Pro-ms
 v11 הָרֹאֶֽה׃|hā·rō·’eh|the seer here|H7203|Art | N-ms
@@ -221,7 +221,7 @@ v12 לָעָ֖ם|lā·‘ām|the people have|H5971|Prep-l, Art | N-ms
 v12 בַּבָּמָֽה׃|bab·bā·māh|on the high place|H1116|Prep-b, Art | N-fs
 v13 כְּבֹאֲכֶ֣ם|kə·ḇō·’ă·ḵem|As soon as you enter|H935|Prep-k | V-Qal-Inf | 2mp
 v13 הָעִ֣יר|hā·‘îr|the city|H5892|Art | N-fs
-v13 כֵּ֣ן|kên|vvv|H3651|Adv
+v13 כֵּ֣ן|kên|...|H3651|Adv
 v13 תִּמְצְא֣וּן|tim·ṣə·’ūn|you will find|H4672|V-Qal-Imperf-2mp | Pn
 v13 אֹת֡וֹ|’ō·ṯōw|him|H853|DirObjM | 3ms
 v13 בְּטֶרֶם֩|bə·ṭe·rem|before|H2962|Prep-b | Adv
@@ -260,7 +260,7 @@ v14 שְׁמוּאֵל֙|šə·mū·’êl|Samuel|H8050|N-proper-ms
 v14 יֹצֵ֣א|yō·ṣê|coming|H3318|V-Qal-Prtcpl-ms
 v14 לִקְרָאתָ֔ם|liq·rā·ṯām|toward them|H7122|Prep-l | V-Qal-Inf | 3mp
 v14 לַעֲל֖וֹת|la·‘ă·lō·wṯ|on his way up|H5927|Prep-l | V-Qal-Inf
-v14 הַבָּמָֽה׃ס|hab·bā·māh|to the high place|H1116|Art | N-fs
+v14 הַבָּמָֽה׃|hab·bā·māh|to the high place|H1116|Art | N-fs
 v15 וַֽיהוָ֔ה|Yah·weh|the LORD|H3068|Conj-w | N-proper-ms
 v15 גָּלָ֖ה|gā·lāh|had revealed|H1540|V-Qal-Perf-3ms
 v15 אֶת־|’eṯ-|-|H853|DirObjM
@@ -366,12 +366,12 @@ v20 הֲל֣וֹא|hă·lō·w|if not|H3808|Adv-NegPrt
 v20 לְךָ֔|lə·ḵā|upon you|H0|Prep | 2ms
 v20 וּלְכֹ֖ל|ū·lə·ḵōl|and all|H3605|Conj-w, Prep-l | N-msc
 v20 בֵּ֥ית|bêṯ|house|H1004|N-msc
-v20 אָבִֽיךָ׃ס|’ā·ḇî·ḵā|your father's|H1|N-msc | 2ms
+v20 אָבִֽיךָ׃|’ā·ḇî·ḵā|your father's|H1|N-msc | 2ms
 v21 וַיַּ֨עַן|way·ya·‘an|replied|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v21 שָׁא֜וּל|šā·’ūl|Saul|H7586|N-proper-ms
 v21 וַיֹּ֗אמֶר|way·yō·mer|...|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v21 הֲל֨וֹא|hă·lō·w|not|H3808|Adv-NegPrt
-v21 בֶן־|ḇen-|vvv|H1145|N-msc
+v21 בֶן־|ḇen-|...|H1145|N-msc
 v21 יְמִינִ֤י|yə·mî·nî|a Benjamite|H1145|N-proper-ms
 v21 אָ֙נֹכִי֙|’ā·nō·ḵî|Am I|H595|Pro-1cs
 v21 מִקַּטַנֵּי֙|miq·qa·ṭan·nē|from the smallest|H6996|Prep-m | Adj-mpc
@@ -387,7 +387,7 @@ v21 וְלָ֙מָּה֙|wə·lām·māh|So why|H4100|Conj-w | Interrog
 v21 דִּבַּ֣רְתָּ|dib·bar·tā|would you say|H1696|V-Piel-Perf-2ms
 v21 אֵלַ֔י|’ê·lay|to me|H413|Prep | 1cs
 v21 כַּדָּבָ֖ר|kad·dā·ḇār|such a thing|H1697|Prep-k, Art | N-ms
-v21 הַזֶּֽה׃ס|haz·zeh|...|H2088|Art | Pro-ms
+v21 הַזֶּֽה׃|haz·zeh|...|H2088|Art | Pro-ms
 v22 וַיִּקַּ֤ח|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v22 שְׁמוּאֵל֙|šə·mū·’êl|Then Samuel|H8050|N-proper-ms
 v22 אֶת־|’eṯ-|-|H853|DirObjM
@@ -492,4 +492,4 @@ v27 כַּיּ֔וֹם|kay·yō·wm|for a while|H3117|Prep-k, Art | N-ms
 v27 וְאַשְׁמִיעֲךָ֖|wə·’aš·mî·‘ă·ḵā|and I will reveal to you|H8085|Conj-w | V-Hifil-ConjImperf.h-1cs | 2ms
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 דְּבַ֥ר|də·ḇar|the word|H1697|N-msc
-v27 אֱלֹהִֽים׃פ|’ĕ·lō·hîm|of God|H430|N-mp
+v27 אֱלֹהִֽים׃|’ĕ·lō·hîm|of God|H430|N-mp

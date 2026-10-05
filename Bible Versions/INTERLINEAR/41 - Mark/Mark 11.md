@@ -38,7 +38,7 @@ v2 δεδεμένον|dedemenon|tied [there]|G1210|V-RPM/P-AMS
 v2 ἐφ’|eph’|on|G1909|Prep
 v2 ὃν|hon|which|G3739|RelPro-AMS
 v2 οὐδεὶς|oudeis|no one|G3762|Adj-NMS
-v2 οὔπω|oupō|vvv|G3768|Adv
+v2 οὔπω|oupō|...|G3768|Adv
 v2 ἀνθρώπων|anthrōpōn|...|G444|N-GMP
 v2 ἐκάθισεν|ekathisen|has ever sat|G2523|V-AIA-3S
 v2 λύσατε|lysate|Untie|G3089|V-AMA-2P
@@ -59,7 +59,7 @@ v3 Ὁ|HO|The|G3588|Art-NMS
 v3 Κύριος|Kyrios|Lord|G2962|N-NMS
 v3 αὐτοῦ|autou|it|G846|PPro-GM3S
 v3 χρείαν|chreian|needs|G5532|N-AFS
-v3 ἔχει|echei|vvv|G2192|V-PIA-3S
+v3 ἔχει|echei|...|G2192|V-PIA-3S
 v3 καὶ|kai|and|G2532|Conj
 v3 εὐθὺς|euthys|shortly|G2112|Adv
 v3 αὐτὸν|auton|it|G846|PPro-AM3S
@@ -222,7 +222,7 @@ v13 οὐκ|ouk|not|G3756|Adv
 v13 ἦν|ēn|it was|G1510|V-IIA-3S
 v13 σύκων|sykōn|for figs|G4810|N-GNP
 v14 καὶ|kai|Then|G2532|Conj
-v14 ἀποκριθεὶς|apokritheis|vvv|G611|V-APP-NMS
+v14 ἀποκριθεὶς|apokritheis|...|G611|V-APP-NMS
 v14 εἶπεν|eipen|He said|G2036|V-AIA-3S
 v14 αὐτῇ|autē|to [the tree]|G846|PPro-DF3S
 v14 Μηκέτι|Mēketi|ever|G3371|Adv
@@ -255,8 +255,8 @@ v15 πωλοῦντας|pōlountas|selling|G4453|V-PPA-AMP
 v15 καὶ|kai|and|G2532|Conj
 v15 τοὺς|tous|those who|G3588|Art-AMP
 v15 ἀγοράζοντας|agorazontas|were buying|G59|V-PPA-AMP
-v15 ἐν|en|vvv|G1722|Prep
-v15 τῷ|tō|vvv|G3588|Art-DNS
+v15 ἐν|en|...|G1722|Prep
+v15 τῷ|tō|...|G3588|Art-DNS
 v15 ἱερῷ|hierō|[there]|G2411|N-DNS
 v15 καὶ|kai|-|G2532|Conj
 v15 τὰς|tas|the|G3588|Art-AFP
@@ -272,7 +272,7 @@ v15 τὰς|tas|-|G3588|Art-AFP
 v15 περιστερὰς|peristeras|doves|G4058|N-AFP
 v15 κατέστρεψεν|katestrepsen|He overturned|G2690|V-AIA-3S
 v16 καὶ|kai|And|G2532|Conj
-v16 οὐκ|ouk|vvv|G3756|Adv
+v16 οὐκ|ouk|...|G3756|Adv
 v16 ἤφιεν|ēphien|He would not allow|G863|V-IIA-3S
 v16 ἵνα|hina|-|G2443|Conj
 v16 τις|tis|anyone|G5100|IPro-NMS
@@ -286,7 +286,7 @@ v17 ἐδίδασκεν|edidasken|[Jesus] began to teach|G1321|V-IIA-3S
 v17 καὶ|kai|and|G2532|Conj
 v17 ἔλεγεν|elegen|He declared|G2036|V-IIA-3S
 v17 αὐτοῖς|autois|them|G846|PPro-DM3P
-v17 Οὐ|Ou|vvv|G3756|Adv
+v17 Οὐ|Ou|...|G3756|Adv
 v17 γέγραπται|gegraptai|Is it not written|G1125|V-RIM/P-3S
 v17 ὅτι|hoti|-|G3754|Conj
 v17 Ὁ|Ho|-|G3588|Art-NMS
@@ -359,7 +359,7 @@ v21 ἣν|hēn|-|G3739|RelPro-AFS
 v21 κατηράσω|katērasō|You cursed|G2672|V-AIM-2S
 v21 ἐξήρανται|exērantai|has withered|G3583|V-RIM/P-3S
 v22 Καὶ|Kai|-|G2532|Conj
-v22 ἀποκριθεὶς|apokritheis|vvv|G611|V-APP-NMS
+v22 ἀποκριθεὶς|apokritheis|...|G611|V-APP-NMS
 v22 ὁ|ho|-|G3588|Art-NMS
 v22 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v22 λέγει|legei|said|G3004|V-PIA-3S
@@ -384,7 +384,7 @@ v23 εἰς|eis|into|G1519|Prep
 v23 τὴν|tēn|the|G3588|Art-AFS
 v23 θάλασσαν|thalassan|sea|G2281|N-AFS
 v23 καὶ|kai|and|G2532|Conj
-v23 μὴ|mē|vvv|G3361|Adv
+v23 μὴ|mē|...|G3361|Adv
 v23 διακριθῇ|diakrithē|has no doubt|G1252|V-ASP-3S
 v23 ἐν|en|in|G1722|Prep
 v23 τῇ|tē|-|G3588|Art-DFS
@@ -393,7 +393,7 @@ v23 αὐτοῦ|autou|his|G846|PPro-GM3S
 v23 ἀλλὰ|alla|but|G235|Conj
 v23 πιστεύῃ|pisteuē|believes|G4100|V-PSA-3S
 v23 ὅτι|hoti|that|G3754|Conj
-v23 ὃ|ho|vvv|G3739|RelPro-ANS
+v23 ὃ|ho|...|G3739|RelPro-ANS
 v23 λαλεῖ|lalei|[it]|G2980|V-PIA-3S
 v23 γίνεται|ginetai|will happen|G1096|V-PIM/P-3S
 v23 ἔσται|estai|it will be done|G1510|V-FIM-3S
@@ -402,7 +402,7 @@ v24 διὰ|dia|Therefore|G1223|Prep
 v24 τοῦτο|touto|...|G3778|DPro-ANS
 v24 λέγω|legō|I tell|G3004|V-PIA-1S
 v24 ὑμῖν|hymin|you|G4771|PPro-D2P
-v24 πάντα|panta|vvv|G3956|Adj-ANP
+v24 πάντα|panta|...|G3956|Adj-ANP
 v24 ὅσα|hosa|whatever|G3745|RelPro-ANP
 v24 προσεύχεσθε|proseuchesthe|in prayer|G4336|V-PIM/P-2P
 v24 καὶ|kai|-|G2532|Conj
@@ -433,7 +433,7 @@ v25 ἐν|en|in|G1722|Prep
 v25 τοῖς|tois|-|G3588|Art-DMP
 v25 οὐρανοῖς|ouranois|heaven|G3772|N-DMP
 v25 ἀφῇ|aphē|will forgive|G863|V-ASA-3S
-v25 ὑμῖν|hymin|vvv|G4771|PPro-D2P
+v25 ὑμῖν|hymin|...|G4771|PPro-D2P
 v25 τὰ|ta|-|G3588|Art-ANP
 v25 παραπτώματα|paraptōmata|trespasses|G3900|N-ANP
 v25 ὑμῶν|hymōn|your|G4771|PPro-G2P
@@ -524,7 +524,7 @@ v31 ἐρεῖ|erei|He will ask|G2046|V-FIA-3S
 v31 Διὰ|Dia|Why|G1223|Prep
 v31 τί|ti|...|G5101|IPro-ANS
 v31 οὖν|oun|then|G3767|Conj
-v31 οὐκ|ouk|vvv|G3756|Adv
+v31 οὐκ|ouk|...|G3756|Adv
 v31 ἐπιστεύσατε|episteusate|did you not believe|G4100|V-AIA-2P
 v31 αὐτῷ|autō|him|G846|PPro-DM3S
 v32 ἀλλὰ|alla|But|G235|Conj
@@ -548,7 +548,7 @@ v33 ἀποκριθέντες|apokrithentes|they answered|G611|V-APP-NMP
 v33 τῷ|tō|-|G3588|Art-DMS
 v33 Ἰησοῦ|Iēsou|-|G2424|N-DMS
 v33 λέγουσιν|legousin|-|G3004|V-PIA-3P
-v33 Οὐκ|Ouk|vvv|G3756|Adv
+v33 Οὐκ|Ouk|...|G3756|Adv
 v33 οἴδαμεν|oidamen|We do not know|G1492|V-RIA-1P
 v33 Καὶ|Kai|And|G2532|Conj
 v33 ὁ|ho|-|G3588|Art-NMS

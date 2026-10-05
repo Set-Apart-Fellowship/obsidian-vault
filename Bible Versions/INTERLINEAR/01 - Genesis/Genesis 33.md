@@ -104,11 +104,11 @@ v8 אֲדֹנִֽי׃|’ă·ḏō·nî|my lord|H113|N-msc | 1cs
 v9 וַיֹּ֥אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 עֵשָׂ֖ו|‘ê·śāw|Esau|H6215|N-proper-ms
 v9 יֶשׁ־|yeš-|I already have|H3426|Adv
-v9 לִ֣י|lî||H0|Prep | 1cs
+v9 לִ֣י|lî|-|H0|Prep | 1cs
 v9 רָ֑ב|rāḇ|plenty|H7227|Adj-ms
 v9 אָחִ֕י|’ā·ḥî|my brother|H251|N-msc | 1cs
 v9 יְהִ֥י|yə·hî|Keep|H1961|V-Qal-Imperf.Jus-3ms
-v9 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v9 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v9 אֲשֶׁר־|’ă·šer-|what belongs|H834|Pro-r
 v9 לָֽךְ׃|lāḵ|to you|H0|Prep | 2fs
 v10 וַיֹּ֣אמֶר|way·yō·mer|insisted|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -227,7 +227,7 @@ v17 כֵּ֛ן|kên|...|H3651|Adv
 v17 קָרָ֥א|qā·rā|was called|H7121|V-Qal-Perf-3ms
 v17 שֵׁם־|šêm-|...|H8034|N-msc
 v17 הַמָּק֖וֹם|ham·mā·qō·wm|the place|H4725|Art | N-ms
-v17 סֻכּֽוֹת׃ס|suk·kō·wṯ|Succoth|H5523|N-proper-fs
+v17 סֻכּֽוֹת׃|suk·kō·wṯ|Succoth|H5523|N-proper-fs
 v18 וַיָּבֹא֩|way·yā·ḇō|had come|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v18 יַעֲקֹ֨ב|ya·‘ă·qōḇ|After Jacob|H3290|N-proper-ms
 v18 שָׁלֵ֜ם|šā·lêm|safely|H8003|Adj-ms
@@ -237,7 +237,7 @@ v18 אֲשֶׁר֙|’ă·šer|-|H834|Pro-r
 v18 בְּאֶ֣רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
 v18 כְּנַ֔עַן|kə·na·‘an|of Canaan|H3667|N-proper-ms
 v18 בְּבֹא֖וֹ|bə·ḇō·’ōw|he arrived|H935|Prep-b | V-Qal-Inf | 3ms
-v18 מִפַּדַּ֣ן|mip·pad·dan|vvv|H6307|Prep
+v18 מִפַּדַּ֣ן|mip·pad·dan|...|H6307|Prep
 v18 אֲרָ֑ם|’ă·rām|from Paddan-aram|H758|Prep | N-proper-fs
 v18 וַיִּ֖חַן|way·yi·ḥan|and he camped|H2583|Conj-w | V-Qal-ConsecImperf-3ms
 v18 אֶת־|’eṯ-|...|H854|DirObjM
@@ -265,4 +265,4 @@ v20 וַיִּ֨קְרָא־|way·yiq·rā-|and called|H7121|Conj-w | V-Qal-Cons
 v20 ל֔וֹ|lōw|it|H0|Prep | 3ms
 v20 אֵ֖ל|’êl|El-Elohe-Israel|H410|N-msc
 v20 אֱלֹהֵ֥י|’ĕ·lō·hê|...|H430|N-mpc
-v20 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|...|H3478|N-proper-ms
+v20 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms

@@ -323,7 +323,7 @@ v55 וָֽ֝אֶשְׁמְרָ֗ה|wā·’eš·mə·rāh|that I may keep|H8104|
 v55 תּוֹרָתֶֽךָ׃|tō·w·rā·ṯe·ḵā|Your law|H8451|N-fsc | 2ms
 v56 זֹ֥את|zōṯ|This|H2063|Pro-fs
 v56 הָֽיְתָה־|hā·yə·ṯāh-|is my practice|H1961|V-Qal-Perf-3fs
-v56 לִּ֑י|lî||H0|Prep | 1cs
+v56 לִּ֑י|lî|-|H0|Prep | 1cs
 v56 כִּ֖י|kî|for|H3588|Conj
 v56 פִקֻּדֶ֣יךָ|p̄iq·qu·ḏe·ḵā|Your precepts|H6490|N-mpc | 2ms
 v56 נָצָֽרְתִּי׃|nā·ṣā·rə·tî|I obey|H5341|V-Qal-Perf-1cs
@@ -359,7 +359,7 @@ v62 חֲצֽוֹת־|ḥă·ṣō·wṯ-|At midnight|H2676|N-fsc
 v62 לַ֗יְלָה|lay·lāh|...|H3915|N-ms
 v62 אָ֭קוּם|’ā·qūm|I rise|H6965|V-Qal-Imperf-1cs
 v62 לְהוֹד֣וֹת|lə·hō·w·ḏō·wṯ|to give You thanks|H3034|Prep-l | V-Hifil-Inf
-v62 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v62 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v62 עַ֝֗ל|‘al|for|H5921|Prep
 v62 מִשְׁפְּטֵ֥י|miš·pə·ṭê|judgments|H4941|N-mpc
 v62 צִדְקֶֽךָ׃|ṣiḏ·qe·ḵā|Your righteous|H6664|N-msc | 2ms
@@ -600,7 +600,7 @@ v99 הִשְׂכַּ֑לְתִּי|hiś·kal·tî|I have more insight|H7919|V-Hi
 v99 כִּ֥י|kî|for|H3588|Conj
 v99 עֵ֝דְוֺתֶ֗יךָ|‘ê·ḏə·wō·ṯe·ḵā|Your testimonies|H5715|N-fpc | 2ms
 v99 שִׂ֣יחָה|śî·ḥāh|are my meditation|H7881|N-fs
-v99 לִֽֿי׃|lī||H0|Prep | 1cs
+v99 לִֽֿי׃|lī|-|H0|Prep | 1cs
 v100 מִזְּקֵנִ֥ים|miz·zə·qê·nîm|more than the elders|H2205|Prep-m | Adj-mp
 v100 אֶתְבּוֹנָ֑ן|’eṯ·bō·w·nān|I discern|H995|V-Hitpael-Imperf-1cs
 v100 כִּ֖י|kî|for|H3588|Conj
@@ -772,7 +772,7 @@ v128 עַל־|‘al-|Therefore|H5921|Prep
 v128 כֵּ֤ן׀|kên|...|H3651|Adv
 v128 כָּל־|kāl-|all|H3605|N-msc
 v128 פִּקּ֣וּדֵי|piq·qū·ḏê|Your precepts|H6490|N-mpc
-v128 כֹ֣ל|ḵōl||H3605|N-ms
+v128 כֹ֣ל|ḵōl|-|H3605|N-ms
 v128 יִשָּׁ֑רְתִּי|yiš·šā·rə·tî|I admire|H3474|V-Piel-Perf-1cs
 v128 כָּל־|kāl-|every|H3605|N-msc
 v128 אֹ֖רַח|’ō·raḥ|way|H734|N-csc
@@ -792,7 +792,7 @@ v130 פְּתָיִֽים׃|pə·ṯā·yîm|the simple|H6612|N-mp
 v131 פִּֽי־|pî-|my mouth|H6310|N-msc | 1cs
 v131 פָ֭עַרְתִּי|p̄ā·‘ar·tî|I open|H6473|V-Qal-Perf-1cs
 v131 וָאֶשְׁאָ֑פָה|wā·’eš·’ā·p̄āh|and pant|H7602|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
-v131 כִּ֖י|kî|vvv|H3588|Conj
+v131 כִּ֖י|kî|...|H3588|Conj
 v131 לְמִצְוֺתֶ֣יךָ|lə·miṣ·wō·ṯe·ḵā|for Your commandments|H4687|Prep-l | N-fpc | 2ms
 v131 יָאָֽבְתִּי׃|yā·’ā·ḇə·tî|longing|H2968|V-Qal-Perf-1cs
 v132 פְּנֵה־|pə·nêh-|Turn|H6437|V-Qal-Imp-ms
@@ -994,7 +994,7 @@ v165 רָ֭ב|rāḇ|Abundant|H7227|Adj-ms
 v165 לְאֹהֲבֵ֣י|lə·’ō·hă·ḇê|to those who love|H157|Prep-l | V-Qal-Prtcpl-mpc
 v165 תוֹרָתֶ֑ךָ|ṯō·w·rā·ṯe·ḵā|Your law|H8451|N-fsc | 2ms
 v165 וְאֵֽין־|wə·’ên-|nothing|H369|Conj-w | Adv
-v165 לָ֥מוֹ|lā·mōw||H0|Prep | 3mp
+v165 לָ֥מוֹ|lā·mōw|-|H0|Prep | 3mp
 v165 מִכְשֽׁוֹל׃|miḵ·šō·wl|can make them stumble|H4383|N-ms
 v166 שִׂבַּ֣רְתִּי|śib·bar·tî|I wait|H7663|V-Piel-Perf-1cs
 v166 לִֽישׁוּעָתְךָ֣|lî·šū·‘ā·ṯə·ḵā|for Your salvation|H3444|Prep-l | N-fsc | 2ms

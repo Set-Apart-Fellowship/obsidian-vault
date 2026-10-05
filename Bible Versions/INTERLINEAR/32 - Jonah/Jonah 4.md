@@ -4,7 +4,7 @@ v1 יוֹנָ֖ה|yō·w·nāh|Jonah, however|H3124|N-proper-ms
 v1 רָעָ֣ה|rā·‘āh|...|H7451|Adj-fs
 v1 גְדוֹלָ֑ה|ḡə·ḏō·w·lāh|was greatly|H1419|Adj-fs
 v1 וַיִּ֖חַר|way·yi·ḥar|and he became angry|H2734|Conj-w | V-Qal-ConsecImperf-3ms
-v1 לֽוֹ׃|lōw||H0|Prep | 3ms
+v1 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v2 וַיִּתְפַּלֵּ֨ל|way·yiṯ·pal·lêl|So he prayed|H6419|Conj-w | V-Hitpael-ConsecImperf-3ms
 v2 אֶל־|’el-|to|H413|Prep
 v2 יְהוָ֜ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -47,7 +47,7 @@ v3 מִמֶּ֑נִּי|mim·men·nî|from me|H4480|Prep | 1cs
 v3 כִּ֛י|kî|for|H3588|Conj
 v3 ט֥וֹב|ṭō·wḇ|it is better|H2896|Adj-ms
 v3 מוֹתִ֖י|mō·w·ṯî|for me to die|H4194|N-msc | 1cs
-v3 מֵחַיָּֽי׃ס|mê·ḥay·yāy|than to live|H2416|Prep-m | N-mpc | 1cs
+v3 מֵחַיָּֽי׃|mê·ḥay·yāy|than to live|H2416|Prep-m | N-mpc | 1cs
 v4 וַיֹּ֣אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 יְהוָ֔ה|Yah·weh|But the LORD|H3068|N-proper-ms
 v4 הַהֵיטֵ֖ב|ha·hê·ṭêḇ|any right|H3190|V-Hifil-InfAbs
@@ -82,7 +82,7 @@ v6 מֵעַ֣ל|mê·‘al|over|H5921|Prep-m
 v6 לְיוֹנָ֗ה|lə·yō·w·nāh|Jonah's|H3124|Prep-l | N-proper-ms
 v6 לִֽהְי֥וֹת|lih·yō·wṯ|to provide|H1961|Prep-l | V-Qal-Inf
 v6 צֵל֙|ṣêl|shade|H6738|N-ms
-v6 עַל־|‘al-||H5921|Prep
+v6 עַל־|‘al-|-|H5921|Prep
 v6 רֹאשׁ֔וֹ|rō·šōw|head|H7218|N-msc | 3ms
 v6 לְהַצִּ֥יל|lə·haṣ·ṣîl|to ease|H5337|Prep-l | V-Hifil-Inf
 v6 ל֖וֹ|lōw|his|H0|Prep | 3ms
@@ -137,7 +137,7 @@ v9 הַקִּֽיקָי֑וֹן|haq·qî·qā·yō·wn|the plant|H7021|Art | N-m
 v9 וַיֹּ֕אמֶר|way·yō·mer|he replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 הֵיטֵ֥ב|hê·ṭêḇ|I do|H3190|V-Hifil-InfAbs
 v9 חָֽרָה־|ḥā·rāh-|I am angry|H2734|V-Qal-Perf-3ms
-v9 לִ֖י|lî||H0|Prep | 1cs
+v9 לִ֖י|lî|-|H0|Prep | 1cs
 v9 עַד־|‘aḏ-|enough to|H5704|Prep
 v9 מָֽוֶת׃|mā·weṯ|die|H4194|N-ms
 v10 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -149,7 +149,7 @@ v10 הַקִּ֣יקָי֔וֹן|haq·qî·qā·yō·wn|the plant|H7021|Art | N-
 v10 אֲשֶׁ֛ר|’ă·šer|which|H834|Pro-r
 v10 לֹא־|lō-|you neither|H3808|Adv-NegPrt
 v10 עָמַ֥לְתָּ|‘ā·mal·tā|tended|H5998|V-Qal-Perf-2ms
-v10 בּ֖וֹ|bōw||H0|Prep | 3ms
+v10 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v10 וְלֹ֣א|wə·lō|nor|H3808|Conj-w | Adv-NegPrt
 v10 גִדַּלְתּ֑וֹ|ḡid·dal·tōw|made grow|H1431|V-Piel-Perf-2ms | 3ms
 v10 שֶׁבִּן־|šeb·bin-|in a night|H1121|Pro-r | N-msc
@@ -167,9 +167,9 @@ v11 הָעִ֣יר|hā·‘îr|city|H5892|Art | N-fs
 v11 הַגְּדוֹלָ֑ה|hag·gə·ḏō·w·lāh|the great|H1419|Art | Adj-fs
 v11 אֲשֶׁ֣ר|’ă·šer|which|H834|Pro-r
 v11 יֶשׁ־|yeš-|has|H3426|Adv
-v11 בָּ֡הּ|bāh||H0|Prep | 3fs
+v11 בָּ֡הּ|bāh|-|H0|Prep | 3fs
 v11 הַרְבֵּה֩|har·bêh|more than|H7235|V-Hifil-InfAbs
-v11 מִֽשְׁתֵּים־|miš·têm-|120,000 {}|H8147|Prep-m | Number-fd
+v11 מִֽשְׁתֵּים־|miš·têm-|120,000|H8147|Prep-m | Number-fd
 v11 עֶשְׂרֵ֨ה|‘eś·rêh|...|H6240|Number-fs
 v11 רִבּ֜וֹ|rib·bōw|...|H7239|Number-fs
 v11 אָדָ֗ם|’ā·ḏām|people|H120|N-ms

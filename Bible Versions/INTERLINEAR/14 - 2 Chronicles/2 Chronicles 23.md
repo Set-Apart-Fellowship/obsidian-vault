@@ -103,7 +103,7 @@ v6 מִשְׁמֶ֥רֶת|miš·me·reṯ|the requirement|H4931|N-fsc
 v6 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v7 וְהִקִּיפוּ֩|wə·hiq·qî·p̄ū|must surround|H5362|Conj-w | V-Hifil-ConjPerf-3cp
 v7 הַלְוִיִּ֨ם|hal·wî·yim|The Levites|H3881|Art | N-proper-mp
-v7 אֶת־|’eṯ-||H853|DirObjM
+v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 הַמֶּ֜לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v7 סָבִ֗יב|sā·ḇîḇ|...|H5439|Adv
 v7 אִ֚ישׁ|’îš|...|H376|N-ms
@@ -154,7 +154,7 @@ v9 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v9 הַמָּגִנּוֹת֙|ham·mā·ḡin·nō·wṯ|and the large|H4043|Art | N-cp
 v9 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v9 הַשְּׁלָטִ֔ים|haš·šə·lā·ṭîm|small shields|H7982|Art | N-mp
-v9 אֲשֶׁ֖ר|’ă·šer||H834|Pro-r
+v9 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v9 לַמֶּ֣לֶךְ|lam·me·leḵ|of King|H4428|Prep-l, Art | N-ms
 v9 דָּוִ֑יד|dā·wîḏ|David|H1732|N-proper-ms
 v9 אֲשֶׁ֖ר|’ă·šer|that|H834|Pro-r
@@ -196,7 +196,7 @@ v11 יְהוֹיָדָ֣ע|yə·hō·w·yā·ḏā‘|[They]|H3077|N-proper-ms
 v11 וּבָנָ֔יו|ū·ḇā·nāw|...|H1121|Conj-w | N-mpc | 3ms
 v11 וַיֹּאמְר֖וּ|way·yō·mə·rū|and shouted|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v11 יְחִ֥י|yə·ḥî|Long live|H2421|V-Qal-Imperf.Jus-3ms
-v11 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|the king|H4428|Art | N-ms
+v11 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v12 וַתִּשְׁמַ֣ע|wat·tiš·ma‘|heard|H8085|Conj-w | V-Qal-ConsecImperf-3fs
 v12 עֲתַלְיָ֗הוּ|‘ă·ṯal·yā·hū|When Athaliah|H6271|N-proper-ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
@@ -239,7 +239,7 @@ v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 בְּגָדֶ֔יהָ|bə·ḡā·ḏe·hā|her clothes|H899|N-mpc | 3fs
 v13 וַתֹּ֖אמֶר|wat·tō·mer|and screamed|H559|Conj-w | V-Qal-ConsecImperf-3fs
 v13 קֶ֥שֶׁר|qe·šer|Treason|H7195|N-ms
-v13 קָֽשֶׁר׃ס|qā·šer|treason|H7195|N-ms
+v13 קָֽשֶׁר׃|qā·šer|treason|H7195|N-ms
 v14 וַיּוֹצֵא֩|way·yō·w·ṣê|sent out|H3318|Conj-w | V-Hifil-ConsecImperf-3ms
 v14 יְהוֹיָדָ֨ע|yə·hō·w·yā·ḏā‘|And Jehoiada|H3077|N-proper-ms
 v14 הַכֹּהֵ֜ן|hak·kō·hên|the priest|H3548|Art | N-ms
@@ -266,7 +266,7 @@ v14 תְמִית֖וּהָ|ṯə·mî·ṯū·hā|be put to death|H4191|V-Hifil-
 v14 בֵּ֥ית|bêṯ|in the house|H1004|N-msc
 v14 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v15 וַיָּשִׂ֤ימוּ|way·yā·śî·mū|So they seized|H7760|Conj-w | V-Qal-ConsecImperf-3mp
-v15 לָהּ֙|lāh||H0|Prep | 3fs
+v15 לָהּ֙|lāh|-|H0|Prep | 3fs
 v15 יָדַ֔יִם|yā·ḏa·yim|[Athaliah]|H3027|N-fd
 v15 וַתָּב֛וֹא|wat·tā·ḇō·w|as she reached|H935|Conj-w | V-Qal-ConsecImperf-3fs
 v15 אֶל־|’el-|...|H413|Prep
@@ -276,7 +276,7 @@ v15 הַסּוּסִ֖ים|has·sū·sîm|of the Horse|H5483|Art | N-mp
 v15 בֵּ֣ית|bêṯ|...|H1004|N-msc
 v15 הַמֶּ֑לֶךְ|ham·me·leḵ|on the palace grounds|H4428|Art | N-ms
 v15 וַיְמִית֖וּהָ|way·mî·ṯū·hā|they put her to death|H4191|Conj-w | V-Hifil-ConsecImperf-3mp | 3fs
-v15 שָֽׁם׃פ|šām|and there|H8033|Adv
+v15 שָֽׁם׃|šām|and there|H8033|Adv
 v16 וַיִּכְרֹ֤ת|way·yiḵ·rōṯ|made|H3772|Conj-w | V-Qal-ConsecImperf-3ms
 v16 יְהוֹיָדָע֙|yə·hō·w·yā·ḏā‘|Then Jehoiada|H3077|N-proper-ms
 v16 בְּרִ֔ית|bə·rîṯ|a covenant|H1285|N-fs
@@ -382,4 +382,4 @@ v21 שָׁקָ֑טָה|šā·qā·ṭāh|was quiet|H8252|V-Qal-Perf-3fs
 v21 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v21 עֲתַלְיָ֖הוּ|‘ă·ṯal·yā·hū|because Athaliah|H6271|N-proper-ms
 v21 הֵמִ֥יתוּ|hê·mî·ṯū|had been put to|H4191|V-Hifil-Perf-3cp
-v21 בֶחָֽרֶב׃ס|ḇe·ḥā·reḇ|the sword|H2719|Prep-b, Art | N-fs
+v21 בֶחָֽרֶב׃|ḇe·ḥā·reḇ|the sword|H2719|Prep-b, Art | N-fs

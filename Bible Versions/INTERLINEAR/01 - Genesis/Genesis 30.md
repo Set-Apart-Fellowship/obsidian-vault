@@ -37,7 +37,7 @@ v3 בִלְהָ֖ה|ḇil·hāh|Bilhah|H1090|N-proper-fs
 v3 בֹּ֣א|bō|Sleep with|H935|V-Qal-Imp-ms
 v3 אֵלֶ֑יהָ|’ê·le·hā|her|H413|Prep | 3fs
 v3 וְתֵלֵד֙|wə·ṯê·lêḏ|that she may bear children|H3205|Conj-w | V-Qal-ConjImperf-3fs
-v3 עַל־|‘al-|vvv|H5921|Prep
+v3 עַל־|‘al-|...|H5921|Prep
 v3 בִּרְכַּ֔י|bir·kay|[for me]|H1290|N-fdc | 1cs
 v3 וְאִבָּנֶ֥ה|wə·’ib·bā·neh|can build a family|H1129|Conj-w | V-Nifal-ConjImperf.h-1cs
 v3 גַם־|ḡam-|too|H1571|Conj
@@ -98,7 +98,7 @@ v9 לֵאָ֔ה|lê·’āh|When Leah|H3812|N-proper-fs
 v9 כִּ֥י|kî|that|H3588|Conj
 v9 עָמְדָ֖ה|‘ā·mə·ḏāh|she had stopped|H5975|V-Qal-Perf-3fs
 v9 מִלֶּ֑דֶת|mil·le·ḏeṯ|having children|H3205|Prep-m | V-Qal-Inf
-v9 וַתִּקַּח֙|wat·tiq·qaḥ|vvv|H3947|Conj-w | V-Qal-ConsecImperf-3fs
+v9 וַתִּקַּח֙|wat·tiq·qaḥ|...|H3947|Conj-w | V-Qal-ConsecImperf-3fs
 v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 זִלְפָּ֣ה|zil·pāh|Zilpah|H2153|N-proper-fs
 v9 שִׁפְחָתָ֔הּ|šip̄·ḥā·ṯāh|her servant|H8198|N-fsc | 3fs
@@ -159,7 +159,7 @@ v14 לִ֔י|lî|some of|H0|Prep | 1cs
 v14 מִדּוּדָאֵ֖י|mid·dū·ḏā·’ê|mandrakes|H1736|Prep-m | N-mpc
 v14 בְּנֵֽךְ׃|bə·nêḵ|your son's|H1121|N-msc | 2fs
 v15 וַתֹּ֣אמֶר|wat·tō·mer|But Leah replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v15 לָ֗הּ|lāh||H0|Prep | 3fs
+v15 לָ֗הּ|lāh|-|H0|Prep | 3fs
 v15 הַמְעַט֙|ham·‘aṭ|Is it not enough|H4592|Art | Adj-ms
 v15 קַחְתֵּ֣ךְ|qaḥ·têḵ|that you have taken away|H3947|V-Qal-Inf | 2fs
 v15 אֶת־|’eṯ-|-|H853|DirObjM
@@ -389,7 +389,7 @@ v32 שֶׂ֣ה׀|śeh|sheep|H7716|N-ms
 v32 נָקֹ֣ד|nā·qōḏ|speckled|H5348|Adj-ms
 v32 וְטָל֗וּא|wə·ṭā·lū|or spotted|H2921|Conj-w | V-Qal-QalPassPrtcpl-ms
 v32 וְכָל־|wə·ḵāl|every|H3605|Conj-w | N-msc
-v32 שֶׂה־|śeh-|vvv|H7716|N-ms
+v32 שֶׂה־|śeh-|...|H7716|N-ms
 v32 חוּם֙|ḥūm|dark-colored|H2345|Adj-ms
 v32 בַּכְּשָׂבִ֔ים|bak·kə·śā·ḇîm|lamb|H3775|Prep-b, Art | N-mp
 v32 וְטָל֥וּא|wə·ṭā·lū|and every spotted|H2921|Conj-w | V-Qal-QalPassPrtcpl-ms
@@ -510,7 +510,7 @@ v40 פְּנֵ֨י|pə·nê|face|H6440|N-cpc
 v40 הַצֹּ֧אן|haṣ·ṣōn|the [rest]|H6629|Art | N-cs
 v40 אֶל־|’el-|...|H413|Prep
 v40 עָקֹ֛ד|‘ā·qōḏ|the streaked|H6124|Adj-ms
-v40 וְכָל־|wə·ḵāl|vvv|H3605|Conj-w | N-msc
+v40 וְכָל־|wə·ḵāl|...|H3605|Conj-w | N-msc
 v40 ח֖וּם|ḥūm|dark-colored|H2345|Adj-ms
 v40 בְּצֹ֣אן|bə·ṣōn|flocks|H6629|Prep-b | N-csc
 v40 לָבָ֑ן|lā·ḇān|sheep in Laban's|H3837|N-proper-ms

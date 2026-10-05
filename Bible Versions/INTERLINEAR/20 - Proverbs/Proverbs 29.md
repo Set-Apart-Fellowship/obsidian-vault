@@ -127,7 +127,7 @@ v17 בִּ֭נְךָ|bin·ḵā|your son|H1121|N-msc | 2ms
 v17 וִֽינִיחֶ֑ךָ|wî·nî·ḥe·ḵā|and he will give you rest|H5117|Conj-w | V-Hifil-ConjImperf-3ms | 2ms
 v17 וְיִתֵּ֖ן|wə·yit·tên|he will bring|H5414|Conj-w | V-Qal-ConjImperf-3ms
 v17 מַעֲדַנִּ֣ים|ma·‘ă·ḏan·nîm|delight|H4574|N-mp
-v17 לְנַפְשֶֽׁךָ׃פ|lə·nap̄·še·ḵā|to your soul|H5315|Prep-l | N-fsc | 2ms
+v17 לְנַפְשֶֽׁךָ׃|lə·nap̄·še·ḵā|to your soul|H5315|Prep-l | N-fsc | 2ms
 v18 בְּאֵ֣ין|bə·’ên|Where [there is] no|H369|Prep-b | Adv
 v18 חָ֭זוֹן|ḥā·zō·wn|vision|H2377|N-ms
 v18 יִפָּ֣רַֽע|yip·pā·ra‘|cast off restraint|H6544|V-Nifal-Imperf-3ms
@@ -201,4 +201,4 @@ v27 עָ֑וֶל|‘ā·wel|An unjust|H5766|N-ms
 v27 וְתוֹעֲבַ֖ת|wə·ṯō·w·‘ă·ḇaṯ|is detestable|H8441|Conj-w | N-fsc
 v27 רָשָׁ֣ע|rā·šā‘|to the wicked|H7563|Adj-ms
 v27 יְשַׁר־|yə·šar-|is upright|H3477|Adj-msc
-v27 דָּֽרֶךְ׃פ|dā·reḵ|and one whose way|H1870|N-cs
+v27 דָּֽרֶךְ׃|dā·reḵ|and one whose way|H1870|N-cs

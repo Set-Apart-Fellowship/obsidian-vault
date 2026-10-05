@@ -3,7 +3,7 @@ v1 יְהוָ֤ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v1 אֶל־|’el-|to|H413|Prep
 v1 מֹשֶׁה֙|mō·šeh|Moses|H4872|N-proper-ms
 v1 לֵ֣ךְ|lêḵ|Leave|H1980|V-Qal-Imp-ms
-v1 עֲלֵ֣ה|‘ă·lêh||H5927|V-Qal-Imp-ms
+v1 עֲלֵ֣ה|‘ă·lêh|-|H5927|V-Qal-Imp-ms
 v1 מִזֶּ֔ה|miz·zeh|this place|H2088|Prep-m | Pro-ms
 v1 אַתָּ֣ה|’at·tāh|you|H859|Pro-2ms
 v1 וְהָעָ֔ם|wə·hā·‘ām|and the people|H5971|Conj-w, Art | N-ms
@@ -188,8 +188,8 @@ v11 נוּן֙|nūn|of Nun|H5126|N-proper-ms
 v11 נַ֔עַר|na·‘ar|but his young|H5288|N-msc
 v11 לֹ֥א|lō|would not|H3808|Adv-NegPrt
 v11 יָמִ֖ישׁ|yā·mîš|leave|H4185|V-Qal-Imperf-3ms
-v11 מִתּ֥וֹךְ|mit·tō·wḵ|vvv|H8432|Prep-m | N-msc
-v11 הָאֹֽהֶל׃ס|hā·’ō·hel|the tent|H168|Art | N-ms
+v11 מִתּ֥וֹךְ|mit·tō·wḵ|...|H8432|Prep-m | N-msc
+v11 הָאֹֽהֶל׃|hā·’ō·hel|the tent|H168|Art | N-ms
 v12 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 מֹשֶׁ֜ה|mō·šeh|Then Moses|H4872|N-proper-ms
 v12 אֶל־|’el-|to|H413|Prep
@@ -241,9 +241,9 @@ v14 וַיֹּאמַ֑ר|way·yō·mar|And [the LORD] answered|H559|Conj-w | V-Q
 v14 פָּנַ֥י|pā·nay|My Presence|H6440|N-mpc | 1cs
 v14 יֵלֵ֖כוּ|yê·lê·ḵū|will go [with you]|H1980|V-Qal-Imperf-3mp
 v14 וַהֲנִחֹ֥תִי|wa·hă·ni·ḥō·ṯî|and I will give you rest|H5117|Conj-w | V-Hifil-ConjPerf-1cs
-v14 לָֽךְ׃|lāḵ||H0|Prep | 2ms
+v14 לָֽךְ׃|lāḵ|-|H0|Prep | 2ms
 v15 וַיֹּ֖אמֶר|way·yō·mer|Moses replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v15 אֵלָ֑יו|’ê·lāw||H413|Prep | 3ms
+v15 אֵלָ֑יו|’ê·lāw|-|H413|Prep | 3ms
 v15 אִם־|’im-|If|H518|Conj
 v15 אֵ֤ין|’ên|does not|H369|Adv
 v15 פָּנֶ֙יךָ֙|pā·ne·ḵā|Your Presence|H6440|N-cpc | 2ms
@@ -271,7 +271,7 @@ v16 הָעָ֔ם|hā·‘ām|the other people|H5971|Art | N-ms
 v16 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v16 עַל־|‘al-|on|H5921|Prep
 v16 פְּנֵ֥י|pə·nê|the face|H6440|N-cpc
-v16 הָאֲדָמָֽה׃פ|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
+v16 הָאֲדָמָֽה׃|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
 v17 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v17 יְהוָה֙|Yah·weh|So the LORD|H3068|N-proper-ms
 v17 אֶל־|’el-|to|H413|Prep
@@ -351,4 +351,4 @@ v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 אֲחֹרָ֑י|’ă·ḥō·rāy|My back|H268|N-mpc | 1cs
 v23 וּפָנַ֖י|ū·p̄ā·nay|but My face|H6440|Conj-w | N-mpc | 1cs
 v23 לֹ֥א|lō|must not|H3808|Adv-NegPrt
-v23 יֵרָאֽוּ׃ס|yê·rā·’ū|be seen|H7200|V-Nifal-Imperf-3mp
+v23 יֵרָאֽוּ׃|yê·rā·’ū|be seen|H7200|V-Nifal-Imperf-3mp

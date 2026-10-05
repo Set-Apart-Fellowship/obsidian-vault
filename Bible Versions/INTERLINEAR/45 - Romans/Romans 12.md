@@ -22,7 +22,7 @@ v1 λογικὴν|logikēn|spiritual|G3050|Adj-AFS
 v1 λατρείαν|latreian|service of worship|G2999|N-AFS
 v1 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v2 καὶ|kai|-|G2532|Conj
-v2 μὴ|mē|vvv|G3361|Adv
+v2 μὴ|mē|...|G3361|Adv
 v2 συσχηματίζεσθε|syschēmatizesthe|Do not be conformed|G4964|V-PMM/P-2P
 v2 τῷ|tō|-|G3588|Art-DMS
 v2 αἰῶνι|aiōni|world|G165|N-DMS
@@ -61,7 +61,7 @@ v3 τῷ|tō|-|G3588|Art-DMS
 v3 ὄντι|onti|-|G1510|V-PPA-DMS
 v3 ἐν|en|of|G1722|Prep
 v3 ὑμῖν|hymin|you|G4771|PPro-D2P
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 ὑπερφρονεῖν|hyperphronein|Do not think of yourself|G5252|V-PNA
 v3 παρ’|par’|more highly|G3844|Prep
 v3 ὃ|ho|...|G3739|RelPro-ANS
@@ -220,7 +220,7 @@ v16 αὐτὸ|auto|...|G846|PPro-AN3S
 v16 εἰς|eis|with|G1519|Prep
 v16 ἀλλήλους|allēlous|one another|G240|RecPro-AMP
 v16 φρονοῦντες|phronountes|Live in harmony|G5426|V-PPA-NMP
-v16 μὴ|mē|vvv|G3361|Adv
+v16 μὴ|mē|...|G3361|Adv
 v16 τὰ|ta|...|G3588|Art-ANP
 v16 ὑψηλὰ|hypsēla|...|G5308|Adj-ANP
 v16 φρονοῦντες|phronountes|Do not be proud|G5426|V-PPA-NMP
@@ -280,7 +280,7 @@ v20 αὐτόν|auton|him|G846|PPro-AM3S
 v20 ἐὰν|ean|if|G1437|Conj
 v20 διψᾷ|dipsa|he is thirsty|G1372|V-PSA-3S
 v20 πότιζε|potize|give him a drink|G4222|V-PMA-2S
-v20 αὐτόν|auton|vvv|G846|PPro-AM3S
+v20 αὐτόν|auton|...|G846|PPro-AM3S
 v20 τοῦτο|touto|...|G3778|DPro-ANS
 v20 γὰρ|gar|For|G1063|Conj
 v20 ποιῶν|poiōn|in so doing|G4160|V-PPA-NMS

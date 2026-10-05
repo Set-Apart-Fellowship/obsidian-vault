@@ -7,7 +7,7 @@ v1 δι’|di’|later|G1223|Prep
 v1 ἡμερῶν|hēmerōn|[A few] days|G2250|N-GFP
 v1 ἠκούσθη|ēkousthē|And when [the people] heard|G191|V-AIP-3S
 v1 ὅτι|hoti|that|G3754|Conj
-v1 ἐν|en|vvv|G1722|Prep
+v1 ἐν|en|...|G1722|Prep
 v1 οἴκῳ|oikō|home|G3624|N-DMS
 v1 ἐστίν|estin|He was|G1510|V-PIA-3S
 v2 καὶ|kai|-|G2532|Conj
@@ -27,7 +27,7 @@ v2 αὐτοῖς|autois|to them|G846|PPro-DM3P
 v2 τὸν|ton|the|G3588|Art-AMS
 v2 λόγον|logon|word|G3056|N-AMS
 v3 Καὶ|Kai|Then|G2532|Conj
-v3 ἔρχονται|erchontai|vvv|G2064|V-PIM/P-3P
+v3 ἔρχονται|erchontai|...|G2064|V-PIM/P-3P
 v3 φέροντες|pherontes|was brought|G5342|V-PPA-NMP
 v3 πρὸς|pros|to|G4314|Prep
 v3 αὐτὸν|auton|Him|G846|PPro-AM3S
@@ -36,7 +36,7 @@ v3 αἰρόμενον|airomenon|carried|G142|V-PPM/P-AMS
 v3 ὑπὸ|hypo|by|G5259|Prep
 v3 τεσσάρων|tessarōn|four [men]|G5064|Adj-GMP
 v4 καὶ|kai|Since|G2532|Conj
-v4 μὴ|mē|vvv|G3361|Adv
+v4 μὴ|mē|...|G3361|Adv
 v4 δυνάμενοι|dynamenoi|they were unable|G1410|V-PPM/P-NMP
 v4 προσενέγκαι|prosenenkai|to get to|G4374|V-ANA
 v4 αὐτῷ|autō|[Jesus]|G846|PPro-DM3S
@@ -168,10 +168,10 @@ v11 κράβαττόν|krabatton|mat|G2895|N-AMS
 v11 σου|sou|your|G4771|PPro-G2S
 v11 καὶ|kai|and|G2532|Conj
 v11 ὕπαγε|hypage|go|G5217|V-PMA-2S
-v11 εἰς|eis|vvv|G1519|Prep
-v11 τὸν|ton|vvv|G3588|Art-AMS
+v11 εἰς|eis|...|G1519|Prep
+v11 τὸν|ton|...|G3588|Art-AMS
 v11 οἶκόν|oikon|home|G3624|N-AMS
-v11 σου|sou|vvv|G4771|PPro-G2S
+v11 σου|sou|...|G4771|PPro-G2S
 v12 Καὶ|Kai|And|G2532|Conj
 v12 ἠγέρθη|ēgerthē|[the man] got up|G1453|V-AIP-3S
 v12 καὶ|kai|-|G2532|Conj
@@ -192,7 +192,7 @@ v12 Θεὸν|Theon|God|G2316|N-AMS
 v12 λέγοντας|legontas|saying|G3004|V-PPA-AMP
 v12 ὅτι|hoti|-|G3754|Conj
 v12 Οὕτως|Houtōs|anything like this|G3779|Adv
-v12 οὐδέποτε|oudepote|vvv|G3763|Adv
+v12 οὐδέποτε|oudepote|...|G3763|Adv
 v12 εἴδομεν*|eidomen|We have never seen|G3708|V-AIA-1P
 v13 Καὶ|Kai|[Once]|G2532|Conj
 v13 ἐξῆλθεν|exēlthen|[Jesus] went out|G1831|V-AIA-3S
@@ -266,8 +266,8 @@ v16 ὅτι|hoti|[Jesus]|G3754|Conj
 v16 ἐσθίει|esthiei|eating|G2068|V-PIA-3S
 v16 μετὰ|meta|with|G3326|Prep
 v16 τῶν|tōn|-|G3588|Art-GMP
-v16 ἁμαρτωλῶν|hamartōlōn|vvv|G268|Adj-GMP
-v16 καὶ|kai|vvv|G2532|Conj
+v16 ἁμαρτωλῶν|hamartōlōn|...|G268|Adj-GMP
+v16 καὶ|kai|...|G2532|Conj
 v16 τελωνῶν|telōnōn|[these people]|G5057|N-GMP
 v16 ἔλεγον|elegon|they asked|G2036|V-IIA-3P
 v16 τοῖς|tois|...|G3588|Art-DMP
@@ -297,7 +297,7 @@ v17 ἀλλ’|all’|but|G235|Conj
 v17 οἱ|hoi|the|G3588|Art-NMP
 v17 κακῶς|kakōs|sick|G2560|Adv
 v17 ἔχοντες|echontes|...|G2192|V-PPA-NMP
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 ἦλθον|ēlthon|I have not come|G2064|V-AIA-1S
 v17 καλέσαι|kalesai|to call|G2564|V-ANA
 v17 δικαίους|dikaious|the righteous|G1342|Adj-AMP
@@ -323,7 +323,7 @@ v18 οἱ|hoi|-|G3588|Art-NMP
 v18 μαθηταὶ|mathētai|disciples|G3101|N-NMP
 v18 Ἰωάννου|Iōannou|John's|G2491|N-GMS
 v18 καὶ|kai|and|G2532|Conj
-v18 οἱ|hoi|vvv|G3588|Art-NMP
+v18 οἱ|hoi|...|G3588|Art-NMP
 v18 μαθηταὶ|mathētai|[those]|G3101|N-NMP
 v18 τῶν|tōn|of the|G3588|Art-GMP
 v18 Φαρισαίων|Pharisaiōn|Pharisees|G5330|N-GMP
@@ -355,12 +355,12 @@ v19 ἐστιν|estin|is|G1510|V-PIA-3S
 v19 νηστεύειν|nēsteuein|fast|G3522|V-PNA
 v19 ὅσον|hoson|As long as|G3745|RelPro-AMS
 v19 χρόνον|chronon|...|G5550|N-AMS
-v19 ἔχουσιν|echousin|vvv|G2192|V-PIA-3P
-v19 τὸν|ton|vvv|G3588|Art-AMS
+v19 ἔχουσιν|echousin|...|G2192|V-PIA-3P
+v19 τὸν|ton|...|G3588|Art-AMS
 v19 νυμφίον|nymphion|[He is]|G3566|N-AMS
 v19 μετ’|met’|with|G3326|Prep
 v19 αὐτῶν|autōn|them|G846|PPro-GM3P
-v19 οὐ|ou|vvv|G3756|Adv
+v19 οὐ|ou|...|G3756|Adv
 v19 δύνανται|dynantai|they cannot|G1410|V-PIM/P-3P
 v19 νηστεύειν|nēsteuein|fast|G3522|V-PNA
 v20 ἐλεύσονται|eleusontai|will come|G2064|V-FIM-3P
@@ -432,8 +432,8 @@ v22 νέον|neon|new|G3501|Adj-AMS
 v22 εἰς|eis|into|G1519|Prep
 v22 ἀσκοὺς|askous|wineskins|G779|N-AMP
 v22 καινούς|kainous|new|G2537|Adj-AMP
-v23 Καὶ|Kai|vvv|G2532|Conj
-v23 ἐγένετο|egeneto|vvv|G1096|V-AIM-3S
+v23 Καὶ|Kai|...|G2532|Conj
+v23 ἐγένετο|egeneto|...|G1096|V-AIM-3S
 v23 αὐτὸν|auton|[Jesus]|G846|PPro-AM3S
 v23 ἐν|en|One|G1722|Prep
 v23 τοῖς|tois|-|G3588|Art-DNP
@@ -463,12 +463,12 @@ v24 ποιοῦσιν|poiousin|are they doing|G4160|V-PIA-3P
 v24 τοῖς|tois|on the|G3588|Art-DNP
 v24 σάββασιν|sabbasin|Sabbath|G4521|N-DNP
 v24 ὃ|ho|what|G3739|RelPro-NNS
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 ἔξεστιν|exestin|is unlawful|G1832|V-PIA-3S
-v25 Καὶ|Kai||G2532|Conj
+v25 Καὶ|Kai|-|G2532|Conj
 v25 λέγει|legei|[Jesus] replied|G3004|V-PIA-3S
 v25 αὐτοῖς|autois|...|G846|PPro-DM3P
-v25 Οὐδέποτε|Oudepote|vvv|G3763|Adv
+v25 Οὐδέποτε|Oudepote|...|G3763|Adv
 v25 ἀνέγνωτε|anegnōte|Have you never read|G314|V-AIA-2P
 v25 τί|ti|what|G5101|IPro-ANS
 v25 ἐποίησεν|epoiēsen|did|G4160|V-AIA-3S
@@ -500,7 +500,7 @@ v26 τῆς|tēs|...|G3588|Art-GFS
 v26 προθέσεως|protheseōs|...|G4286|N-GFS
 v26 ἔφαγεν|ephagen|ate|G5315|V-AIA-3S
 v26 οὓς|hous|which|G3739|RelPro-AMP
-v26 οὐκ|ouk|vvv|G3756|Adv
+v26 οὐκ|ouk|...|G3756|Adv
 v26 ἔξεστιν|exestin|was lawful|G1832|V-PIA-3S
 v26 φαγεῖν|phagein|-|G5315|V-ANA
 v26 εἰ|ei|only|G1487|Conj

@@ -122,7 +122,7 @@ v8 ἔφυγον|ephygon|and ran away|G5343|V-AIA-3P
 v8 ἀπὸ|apo|...|G575|Prep
 v8 τοῦ|tou|the|G3588|Art-GNS
 v8 μνημείου|mnēmeiou|tomb|G3419|N-GNS
-v8 εἶχεν|eichen|vvv|G2192|V-IIA-3S
+v8 εἶχεν|eichen|...|G2192|V-IIA-3S
 v8 γὰρ|gar|-|G1063|Conj
 v8 αὐτὰς|autas|-|G846|PPro-AF3P
 v8 τρόμος|tromos|trembling|G5156|N-NMS
@@ -133,7 +133,7 @@ v8 οὐδενὶ|oudeni|[a word to anyone]|G3762|Adj-DMS
 v8 οὐδὲν|ouden|...|G3762|Adj-ANS
 v8 εἶπαν|eipan|they did not say|G2036|V-AIA-3P
 v8 ἐφοβοῦντο|ephobounto|in their fear|G5399|V-IIM/P-3P
-v8 γάρ|gar|vvv|G1063|Conj
+v8 γάρ|gar|...|G1063|Conj
 v9 «Ἀναστὰς|Anastas|after [Jesus] had risen|G450|V-APA-NMS
 v9 δὲ|de|-|G1161|Conj
 v9 πρωῒ|prōi|Early|G4404|Adv
@@ -209,7 +209,7 @@ v14 τοῖς|tois|those|G3588|Art-DMP
 v14 θεασαμένοις|theasamenois|who had seen|G2300|V-APM-DMP
 v14 αὐτὸν|auton|Him|G846|PPro-AM3S
 v14 ἐγηγερμένον|egēgermenon|after He had risen|G1453|V-RPM/P-AMS
-v14 οὐκ|ouk|vvv|G3756|Adv
+v14 οὐκ|ouk|...|G3756|Adv
 v14 ἐπίστευσαν|episteusan|they did not believe|G4100|V-AIA-3P
 v15 Καὶ|Kai|And|G2532|Conj
 v15 εἶπεν|eipen|He said|G2036|V-AIA-3S
@@ -259,8 +259,8 @@ v18 κἂν|kan|and if|G2579|Conj
 v18 θανάσιμόν|thanasimon|deadly poison|G2286|Adj-ANS
 v18 τι|ti|any|G5100|IPro-ANS
 v18 πίωσιν|piōsin|they drink|G4095|V-ASA-3P
-v18 οὐ|ou|vvv|G3756|Adv
-v18 μὴ|mē|vvv|G3361|Adv
+v18 οὐ|ou|...|G3756|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 αὐτοὺς|autous|them|G846|PPro-AM3P
 v18 βλάψῃ|blapsē|it will not harm|G984|V-ASA-3S
 v18 ἐπὶ|epi|on|G1909|Prep

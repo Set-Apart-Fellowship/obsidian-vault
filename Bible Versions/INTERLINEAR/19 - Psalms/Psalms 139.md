@@ -35,9 +35,9 @@ v6 פִּלְאִיָּה|pil·ʾī·yå̄h|[is] too wonderful|H6383|Adj-fs
 v6 דַ֣עַת|ḏa·‘aṯ|[Such] knowledge|H1847|N-fs
 v6 מִמֶּ֑נִּי|mim·men·nî|for me|H4480|Prep | 1cs
 v6 נִ֝שְׂגְּבָ֗ה|niś·gə·ḇāh|too lofty|H7682|V-Nifal-Perf-3fs
-v6 לֹא־|lō-||H3808|Adv-NegPrt
+v6 לֹא־|lō-|-|H3808|Adv-NegPrt
 v6 א֥וּכַֽל|’ū·ḵal|for me to attain|H3201|V-Qal-Imperf-1cs
-v6 לָֽהּ׃|lāh||H0|Prep | 3fs
+v6 לָֽהּ׃|lāh|-|H0|Prep | 3fs
 v7 אָ֭נָ֥ה|’ā·nāh|Where|H575|Interrog
 v7 אֵלֵ֣ךְ|’ê·lêḵ|can I go|H1980|V-Qal-Imperf-1cs
 v7 מֵרוּחֶ֑ךָ|mê·rū·ḥe·ḵā|to escape Your Spirit|H7307|Prep-m | N-csc | 2ms
@@ -119,8 +119,8 @@ v16 יָמִ֥ים|yā·mîm|my days|H3117|N-mp
 v16 יֻצָּ֑רוּ|yuṣ·ṣā·rū|and ordained for me|H3335|V-Pual-Perf-3cp
 v16 וְלֹא|wə·lō|...|H3808|Conj-w | Prep | 3ms
 v16 אֶחָ֣ד|’e·ḥāḏ|before one of them came to be|H259|Number-ms
-v16 בָּהֶֽם׃|bā·hem||H0|Prep | 3mp
-v17 וְלִ֗י|wə·lî||H0|Conj-w | Prep | 1cs
+v16 בָּהֶֽם׃|bā·hem|-|H0|Prep | 3mp
+v17 וְלִ֗י|wə·lî|-|H0|Conj-w | Prep | 1cs
 v17 מַה־|mah-|How|H4100|Interrog
 v17 יָּקְר֣וּ|yā·qə·rū|precious to me|H3365|V-Qal-Perf-3cp
 v17 רֵעֶ֣יךָ|rê·‘e·ḵā|are Your thoughts|H7454|N-mpc | 2ms
@@ -159,7 +159,7 @@ v22 שִׂנְאָ֣ה|śin·’āh|hatred|H8135|N-fs
 v22 שְׂנֵאתִ֑ים|śə·nê·ṯîm|I hate them|H8130|V-Qal-Perf-1cs | 3mp
 v22 לְ֝אוֹיְבִ֗ים|lə·’ō·wy·ḇîm|as my enemies|H341|Prep-l | V-Qal-Prtcpl-mp
 v22 הָ֣יוּ|hā·yū|I count them|H1961|V-Qal-Perf-3cp
-v22 לִֽי׃|lî||H0|Prep | 1cs
+v22 לִֽי׃|lî|-|H0|Prep | 1cs
 v23 חָקְרֵ֣נִי|ḥā·qə·rê·nî|Search me|H2713|V-Qal-Imp-ms | 1cs
 v23 אֵ֭ל|’êl|O God|H410|N-ms
 v23 וְדַ֣ע|wə·ḏa‘|and know|H3045|Conj-w | V-Qal-Imp-ms

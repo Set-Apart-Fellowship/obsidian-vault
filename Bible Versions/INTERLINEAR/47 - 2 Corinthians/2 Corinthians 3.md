@@ -3,7 +3,7 @@ v1 πάλιν|palin|again|G3825|Adv
 v1 ἑαυτοὺς|heautous|ourselves|G1438|RefPro-AM3P
 v1 συνιστάνειν|synistanein|to commend|G4921|V-PNA
 v1 ἢ|ē|Or|G2228|Conj
-v1 μὴ|mē|vvv|G3361|Adv
+v1 μὴ|mē|...|G3361|Adv
 v1 χρῄζομεν|chrēzomen|do we need|G5535|V-PIA-1P
 v1 ὥς|hōs|like|G5613|Adv
 v1 τινες|tines|some [people]|G5100|IPro-NMP
@@ -119,7 +119,7 @@ v7 μὴ|mē|not|G3361|Adv
 v7 δύνασθαι|dynasthai|could|G1410|V-PNM/P
 v7 ἀτενίσαι|atenisai|gaze|G816|V-ANA
 v7 τοὺς|tous|the|G3588|Art-AMP
-v7 υἱοὺς|huious|vvv|G5207|N-AMP
+v7 υἱοὺς|huious|...|G5207|N-AMP
 v7 Ἰσραὴλ|Israēl|Israelites|G2474|N-GMS
 v7 εἰς|eis|at|G1519|Prep
 v7 τὸ|to|the|G3588|Art-ANS
@@ -128,9 +128,9 @@ v7 Μωϋσέως|Mōuseōs|of Moses|G3475|N-GMS
 v7 διὰ|dia|because of|G1223|Prep
 v7 τὴν|tēn|-|G3588|Art-AFS
 v7 δόξαν|doxan|glory|G1391|N-AFS
-v7 τοῦ|tou|vvv|G3588|Art-GNS
+v7 τοῦ|tou|...|G3588|Art-GNS
 v7 προσώπου|prosōpou|[its]|G4383|N-GNS
-v7 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v7 αὐτοῦ|autou|...|G846|PPro-GM3S
 v7 τὴν|tēn|-|G3588|Art-AFS
 v7 καταργουμένην|katargoumenēn|fleeting|G2673|V-PPM/P-AFS
 v8 πῶς|pōs|-|G4459|Adv
@@ -141,7 +141,7 @@ v8 διακονία|diakonia|ministry|G1248|N-NFS
 v8 τοῦ|tou|of the|G3588|Art-GNS
 v8 πνεύματος|pneumatos|Spirit|G4151|N-GNS
 v8 ἔσται|estai|will|G1510|V-FIM-3S
-v8 ἐν|en|vvv|G1722|Prep
+v8 ἐν|en|...|G1722|Prep
 v8 δόξῃ|doxē|glorious|G1391|N-DFS
 v9 εἰ|ei|if|G1487|Conj
 v9 γὰρ|gar|For|G1063|Conj
@@ -160,7 +160,7 @@ v9 δικαιοσύνης|dikaiosynēs|of righteousness|G1343|N-GFS
 v9 δόξῃ|doxē|glorious|G1391|N-DFS
 v10 καὶ|kai|Indeed|G2532|Conj
 v10 γὰρ|gar|...|G1063|Conj
-v10 οὐ|ou|vvv|G3756|Adv
+v10 οὐ|ou|...|G3756|Adv
 v10 δεδόξασται|dedoxastai|has no glory now|G1392|V-RIM/P-3S
 v10 τὸ|to|what|G3588|Art-NNS
 v10 δεδοξασμένον|dedoxasmenon|was once glorious|G1392|V-RPM/P-NNS
@@ -206,7 +206,7 @@ v13 τὸ|to|-|G3588|Art-ANS
 v13 μὴ|mē|[from]|G3361|Adv
 v13 ἀτενίσαι|atenisai|gazing|G816|V-ANA
 v13 τοὺς|tous|the|G3588|Art-AMP
-v13 υἱοὺς|huious|vvv|G5207|N-AMP
+v13 υἱοὺς|huious|...|G5207|N-AMP
 v13 Ἰσραὴλ|Israēl|Israelites|G2474|N-GMS
 v13 εἰς|eis|at|G1519|Prep
 v13 τὸ|to|the|G3588|Art-ANS
@@ -233,7 +233,7 @@ v14 τῆς|tēs|of the|G3588|Art-GFS
 v14 παλαιᾶς|palaias|old|G3820|Adj-GFS
 v14 διαθήκης|diathēkēs|covenant|G1242|N-GFS
 v14 μένει|menei|remains|G3306|V-PIA-3S
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 ἀνακαλυπτόμενον|anakalyptomenon|It has not been lifted|G343|V-PPM/P-NNS
 v14 ὅτι|hoti|[because] only|G3754|Conj
 v14 ἐν|en|in|G1722|Prep
@@ -286,9 +286,9 @@ v18 τὴν|tēn|-|G3588|Art-AFS
 v18 αὐτὴν|autēn|[His]|G846|PPro-AF3S
 v18 εἰκόνα|eikona|image|G1504|N-AFS
 v18 μεταμορφούμεθα|metamorphoumetha|are being transformed into|G3339|V-PIM/P-1P
-v18 ἀπὸ|apo|vvv|G575|Prep
-v18 δόξης|doxēs|vvv|G1391|N-GFS
-v18 εἰς|eis|vvv|G1519|Prep
+v18 ἀπὸ|apo|...|G575|Prep
+v18 δόξης|doxēs|...|G1391|N-GFS
+v18 εἰς|eis|...|G1519|Prep
 v18 δόξαν|doxan|with intensifying glory|G1391|N-AFS
 v18 καθάπερ|kathaper|which comes|G2509|Adv
 v18 ἀπὸ|apo|from|G575|Prep

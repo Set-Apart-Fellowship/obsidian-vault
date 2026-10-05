@@ -63,7 +63,7 @@ v5 תְּעֽוֹרְר֛וּ|tə·‘ō·wr·rū|awaken|H5782|V-Piel-Imperf-2mp
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 הָאַהֲבָ֖ה|hā·’a·hă·ḇāh|love|H160|Art | N-fs
 v5 עַ֥ד|‘aḏ|until|H5704|Conj-w | V-Qal-ConjImperf-3fs
-v5 שֶׁתֶּחְפָּֽץ׃ס|šet·teḥ·pāṣ|the time is right|H2654|Verb
+v5 שֶׁתֶּחְפָּֽץ׃|šet·teḥ·pāṣ|the time is right|H2654|Verb
 v6 מִ֣י|mî|Who|H4310|Interrog
 v6 זֹ֗את|zōṯ|is this|H2063|Pro-fs
 v6 עֹלָה֙|‘ō·lāh|coming up|H5927|V-Qal-Prtcpl-fs
@@ -83,7 +83,7 @@ v7 שֶׁלִּשְׁלֹמֹ֔ה|šel·liš·lō·mōh|it is Solomon's|H8010|Pr
 v7 שִׁשִּׁ֥ים|šiš·šîm|by sixty|H8346|Number-cp
 v7 גִּבֹּרִ֖ים|gib·bō·rîm|of the mightiest men|H1368|Adj-mp
 v7 סָבִ֣יב|sā·ḇîḇ|escorted|H5439|Adv
-v7 לָ֑הּ|lāh||H0|Prep | 3fs
+v7 לָ֑הּ|lāh|-|H0|Prep | 3fs
 v7 מִגִּבֹּרֵ֖י|mig·gib·bō·rê|...|H1368|Prep-m | Adj-mpc
 v7 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v8 כֻּלָּם֙|kul·lām|All|H3605|N-msc | 3mp
@@ -96,7 +96,7 @@ v8 חַרְבּוֹ֙|ḥar·bōw|has his sword|H2719|N-fsc | 3ms
 v8 עַל־|‘al-|at|H5921|Prep
 v8 יְרֵכ֔וֹ|yə·rê·ḵōw|his side|H3409|N-fsc | 3ms
 v8 מִפַּ֖חַד|mip·pa·ḥaḏ|prepared for the terror|H6343|Prep-m | N-ms
-v8 בַּלֵּילּֽוֹת׃ס|bal·lēl·lōṯ|of the night|H3915|Prep-b, Art | N-mp
+v8 בַּלֵּילּֽוֹת׃|bal·lēl·lōṯ|of the night|H3915|Prep-b, Art | N-mp
 v9 אַפִּרְי֗וֹן|’ap·pir·yō·wn|his carriage|H668|N-ms
 v9 עָ֤שָׂה|‘ā·śāh|has made|H6213|V-Qal-Perf-3ms
 v9 לוֹ֙|lōw|-|H0|Prep | 3ms
@@ -130,4 +130,4 @@ v11 בְּי֣וֹם|bə·yō·wm|on the day|H3117|Prep-b | N-msc
 v11 חֲתֻנָּת֔וֹ|ḥă·ṯun·nā·ṯōw|of his wedding|H2861|N-fsc | 3ms
 v11 וּבְי֖וֹם|ū·ḇə·yō·wm|the day|H3117|Conj-w, Prep-b | N-msc
 v11 שִׂמְחַ֥ת|śim·ḥaṯ|rejoicing|H8057|N-fsc
-v11 לִבּֽוֹ׃ס|lib·bōw|of his heart's|H3820|N-msc | 3ms
+v11 לִבּֽוֹ׃|lib·bōw|of his heart's|H3820|N-msc | 3ms

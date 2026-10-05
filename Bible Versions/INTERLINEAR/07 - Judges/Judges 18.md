@@ -21,7 +21,7 @@ v1 הַה֛וּא|ha·hū|that|H1931|Art | Pro-3ms
 v1 בְּתוֹךְ־|bə·ṯō·wḵ-|among|H8432|Prep-b | N-msc
 v1 שִׁבְטֵ֥י|šiḇ·ṭê|the tribes|H7626|N-mpc
 v1 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v1 בְּנַחֲלָֽה׃ס|bə·na·ḥă·lāh|an inheritance|H5159|Prep-b | N-fs
+v1 בְּנַחֲלָֽה׃|bə·na·ḥă·lāh|an inheritance|H5159|Prep-b | N-fs
 v2 וַיִּשְׁלְח֣וּ|way·yiš·lə·ḥū|sent out|H7971|Conj-w | V-Qal-ConsecImperf-3mp
 v2 בְנֵי־|ḇə·nê-|So the Danites|H1121|N-mpc
 v2 דָ֣ן׀|ḏān|...|H1835|N-proper-ms
@@ -109,7 +109,7 @@ v6 יְהוָ֔ה|Yah·weh|The LORD|H3068|N-proper-ms
 v6 דַּרְכְּכֶ֖ם|dar·kə·ḵem|your journey|H1870|N-csc | 2mp
 v6 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v6 תֵּֽלְכוּ־|tê·lə·ḵū-|-|H1980|V-Qal-Imperf-2mp
-v6 בָֽהּ׃פ|ḇāh|...|H0|Prep | 3fs
+v6 בָֽהּ׃|ḇāh|...|H0|Prep | 3fs
 v7 וַיֵּלְכוּ֙|way·yê·lə·ḵū|departed|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v7 חֲמֵ֣שֶׁת|ḥă·mê·šeṯ|So the five|H2568|Number-msc
 v7 הָאֲנָשִׁ֔ים|hā·’ă·nā·šîm|men|H582|Art | N-mp
@@ -205,7 +205,7 @@ v11 כְּלֵ֥י|kə·lê|with weapons|H3627|N-mpc
 v11 מִלְחָמָֽה׃|mil·ḥā·māh|of war|H4421|N-fs
 v12 וַֽיַּעֲל֗וּ|way·ya·‘ă·lū|They went up|H5927|Conj-w | V-Qal-ConsecImperf-3mp
 v12 וַֽיַּחֲנ֛וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
-v12 בְּקִרְיַ֥ת|bə·qir·yaṯ|vvv|H7157|Prep
+v12 בְּקִרְיַ֥ת|bə·qir·yaṯ|...|H7157|Prep
 v12 יְעָרִ֖ים|yə·‘ā·rîm|at Kiriath-jearim|H7157|Prep | N-proper-fs
 v12 בִּֽיהוּדָ֑ה|bî·hū·ḏāh|in Judah|H3063|Prep-b | N-proper-ms
 v12 עַל־|‘al-|That is why|H5921|Prep
@@ -213,14 +213,14 @@ v12 כֵּ֡ן|kên|...|H3651|Adv
 v12 קָרְאוּ֩|qā·rə·’ū|is called|H7121|V-Qal-Perf-3cp
 v12 לַמָּק֨וֹם|lam·mā·qō·wm|place|H4725|Prep-l, Art | N-ms
 v12 הַה֜וּא|ha·hū|the|H1931|Art | Pro-3ms
-v12 מַחֲנֵה־|ma·ḥă·nêh-|vvv|H4265|Prep
+v12 מַחֲנֵה־|ma·ḥă·nêh-|...|H4265|Prep
 v12 דָ֗ן|ḏān|Mahaneh-dan|H4265|N-proper-fs
 v12 עַ֚ד|‘aḏ|to|H5704|Prep
 v12 הַיּ֣וֹם|hay·yō·wm|day|H3117|Art | N-ms
 v12 הַזֶּ֔ה|haz·zeh|this|H2088|Art | Pro-ms
 v12 הִנֵּ֕ה|hin·nêh|...|H2009|Interjection
 v12 אַחֲרֵ֖י|’a·ḥă·rê|west|H310|Prep
-v12 קִרְיַ֥ת|qir·yaṯ|vvv|H7157|
+v12 קִרְיַ֥ת|qir·yaṯ|...|H7157|
 v12 יְעָרִֽים׃|yə·‘ā·rîm|of Kiriath-jearim|H7157|N-proper-fs
 v13 וַיַּעַבְר֥וּ|way·ya·‘aḇ·rū|they traveled|H5674|Conj-w | V-Qal-ConsecImperf-3mp
 v13 מִשָּׁ֖ם|miš·šām|And from there|H8033|Prep-m | Adv
@@ -311,7 +311,7 @@ v18 בָּ֚אוּ|bā·’ū|entered|H935|V-Qal-Perf-3cp
 v18 בֵּ֣ית|bêṯ|house|H1004|N-msc
 v18 מִיכָ֔ה|mî·ḵāh|Micah's|H4318|N-proper-ms
 v18 וַיִּקְחוּ֙|way·yiq·ḥū|and took|H3947|Conj-w | V-Qal-ConsecImperf-3mp
-v18 אֶת־|’eṯ-||H853|DirObjM
+v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 פֶּ֣סֶל|pe·sel|the graven image|H6459|N-msc
 v18 הָאֵפ֔וֹד|hā·’ê·p̄ō·wḏ|the ephod|H646|Art | N-ms
 v18 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -410,7 +410,7 @@ v24 וְֽאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v24 הַכֹּהֵ֛ן|hak·kō·hên|and my priest|H3548|Art | N-ms
 v24 וַתֵּלְכ֖וּ|wat·tê·lə·ḵū|and went away|H1980|Conj-w | V-Qal-ConsecImperf-2mp
 v24 וּמַה־|ū·mah-|do I have|H4100|Conj-w | Interrog
-v24 לִּ֣י|lî||H0|Prep | 1cs
+v24 לִּ֣י|lî|-|H0|Prep | 1cs
 v24 ע֑וֹד|‘ō·wḏ|What else|H5750|Adv
 v24 וּמַה־|ū·mah-|How|H4100|Conj-w | Interrog
 v24 זֶּ֛ה|zeh|...|H2088|Pro-ms
@@ -490,7 +490,7 @@ v28 אָדָ֔ם|’ā·ḏām|anyone|H120|N-ms
 v28 וְהִ֕יא|wə·hî|it|H1931|Conj-w | Pro-3fs
 v28 בָּעֵ֖מֶק|bā·‘ê·meq|was in a valley|H6010|Prep-b, Art | N-ms
 v28 אֲשֶׁ֣ר|’ă·šer|near|H834|Pro-r
-v28 לְבֵית־|lə·ḇêṯ-|vvv|H1050|Prep
+v28 לְבֵית־|lə·ḇêṯ-|...|H1050|Prep
 v28 רְח֑וֹב|rə·ḥō·wḇ|Beth-rehob|H1050|Prep | N-proper-fs
 v28 וַיִּבְנ֥וּ|way·yiḇ·nū|And the Danites rebuilt|H1129|Conj-w | V-Qal-ConsecImperf-3mp
 v28 אֶת־|’eṯ-|-|H853|DirObjM
@@ -545,4 +545,4 @@ v31 יְמֵ֛י|yə·mê|time|H3117|N-mpc
 v31 הֱי֥וֹת|hĕ·yō·wṯ|was|H1961|V-Qal-Inf
 v31 בֵּית־|bêṯ-|the house|H1004|N-msc
 v31 הָאֱלֹהִ֖ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
-v31 בְּשִׁלֹֽה׃פ|bə·ši·lōh|in Shiloh|H7887|Prep-b | N-proper-fs
+v31 בְּשִׁלֹֽה׃|bə·ši·lōh|in Shiloh|H7887|Prep-b | N-proper-fs

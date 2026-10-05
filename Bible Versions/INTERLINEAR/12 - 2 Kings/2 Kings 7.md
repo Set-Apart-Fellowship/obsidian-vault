@@ -18,7 +18,7 @@ v1 בְּשַׁ֥עַר|bə·ša·‘ar|at the gate|H8179|Prep-b | N-msc
 v1 שֹׁמְרֽוֹן׃|šō·mə·rō·wn|of Samaria|H8111|N-proper-fs
 v2 וַיַּ֣עַן|way·ya·‘an|answered|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v2 הַשָּׁלִ֡ישׁ|haš·šā·lîš|But the officer|H7991|Art | N-ms
-v2 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v2 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v2 לַמֶּלֶךְ֩|lam·me·leḵ|the king|H4428|Prep-l, Art | N-ms
 v2 נִשְׁעָ֨ן|niš·‘ān|leaned|H8172|V-Nifal-Prtcpl-ms
 v2 עַל־|‘al-|on|H5921|Prep
@@ -26,7 +26,7 @@ v2 יָד֜וֹ|yā·ḏōw|whose arm|H3027|N-fsc | 3ms
 v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 אִ֣ישׁ|’îš|the man|H376|N-msc
 v2 הָאֱלֹהִים֮|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
-v2 וַיֹּאמַר֒|way·yō·mar||H559|Conj-w | V-Qal-ConsecImperf-3ms
+v2 וַיֹּאמַר֒|way·yō·mar|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 הִנֵּ֣ה|hin·nêh|Look|H2009|Interjection
 v2 יְהוָ֗ה|Yah·weh|even if the LORD|H3068|N-proper-ms
 v2 עֹשֶׂ֤ה|‘ō·śeh|were to make|H6213|V-Qal-Prtcpl-ms
@@ -40,8 +40,8 @@ v2 הִנְּכָ֤ה|hin·nə·ḵāh|...|H2005|Interjection | 2ms
 v2 רֹאֶה֙|rō·’eh|You will see [it]|H7200|V-Qal-Prtcpl-ms
 v2 בְּעֵינֶ֔יךָ|bə·‘ê·ne·ḵā|with your own eyes|H5869|Prep-b | N-cdc | 2ms
 v2 וּמִשָּׁ֖ם|ū·miš·šām|any of it|H8033|Conj-w, Prep-m | Adv
-v2 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
-v2 תֹאכֵֽל׃ס|ṯō·ḵêl|but you will not eat|H398|V-Qal-Imperf-2ms
+v2 לֹ֥א|lō|...|H3808|Adv-NegPrt
+v2 תֹאכֵֽל׃|ṯō·ḵêl|but you will not eat|H398|V-Qal-Imperf-2ms
 v3 וְאַרְבָּעָ֧ה|wə·’ar·bā·‘āh|four|H702|Conj-w | Number-ms
 v3 אֲנָשִׁ֛ים|’ă·nā·šîm|men|H582|N-mp
 v3 הָי֥וּ|hā·yū|Now there were|H1961|V-Qal-Perf-3cp
@@ -115,7 +115,7 @@ v6 אֶל־|’el-|to|H413|Prep
 v6 אָחִ֗יו|’ā·ḥîw|another|H251|N-msc | 3ms
 v6 הִנֵּ֣ה|hin·nêh|Look|H2009|Interjection
 v6 שָֽׂכַר־|śā·ḵar-|must have hired|H7936|V-Qal-Perf-3ms
-v6 עָלֵינוּ֩|‘ā·lê·nū||H5921|Prep | 1cp
+v6 עָלֵינוּ֩|‘ā·lê·nū|-|H5921|Prep | 1cp
 v6 מֶ֨לֶךְ|me·leḵ|the king|H4428|N-msc
 v6 יִשְׂרָאֵ֜ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v6 אֶת־|’eṯ-|-|H853|DirObjM
@@ -215,7 +215,7 @@ v10 שָׁ֛ם|šām|there|H8033|Adv
 v10 אִ֖ישׁ|’îš|one [was]|H376|N-ms
 v10 וְק֣וֹל|wə·qō·wl|not a trace|H6963|Conj-w | N-msc
 v10 אָדָ֑ם|’ā·ḏām|...|H120|N-ms
-v10 כִּ֣י|kî||H3588|Conj
+v10 כִּ֣י|kî|-|H3588|Conj
 v10 אִם־|’im-|only|H518|Conj
 v10 הַסּ֤וּס|has·sūs|horses|H5483|Art | N-ms
 v10 אָסוּר֙|’ā·sūr|tethered|H631|V-Qal-QalPassPrtcpl-ms
@@ -245,11 +245,11 @@ v12 עָ֥שׂוּ|‘ā·śū|have done|H6213|V-Qal-Perf-3cp
 v12 לָ֖נוּ|lā·nū|to us|H0|Prep | 1cp
 v12 אֲרָ֑ם|’ă·rām|the Arameans|H758|N-proper-fs
 v12 יָדְע֞וּ|yā·ḏə·‘ū|They know|H3045|V-Qal-Perf-3cp
-v12 כִּי־|kî-||H3588|Conj
+v12 כִּי־|kî-|-|H3588|Conj
 v12 רְעֵבִ֣ים|rə·‘ê·ḇîm|are starving|H7457|Adj-mp
 v12 אֲנַ֗חְנוּ|’ă·naḥ·nū|we|H587|Pro-1cp
 v12 וַיֵּצְא֤וּ|way·yê·ṣə·’ū|so they have left|H3318|Conj-w | V-Qal-ConsecImperf-3mp
-v12 מִן־|min-||H4480|Prep
+v12 מִן־|min-|-|H4480|Prep
 v12 הַֽמַּחֲנֶה֙|ham·ma·ḥă·neh|the camp|H4264|Art | N-cs
 v12 לְהֵחָבֵ֤ה|lə·hê·ḥā·ḇêh|to hide|H2247|Prep-l | V-Nifal-Inf
 v12 בְהַשָּׂדֶה|ḇə·haś·śå̄·ḏɛh|in the field|H7704|Prep-b, Art | N-ms
@@ -278,14 +278,14 @@ v13 נִשְׁאֲרוּ־|niš·’ă·rū-|...|H7604|V-Nifal-Perf-3cp
 v13 בָהּ֒|ḇāh|in the city|H0|Prep | 3fs
 v13 הִנָּ֗ם|hin·nām|Their plight|H2009|Interjection | 3mp
 v13 כְּכָל־|kə·ḵāl-|will be no worse than all|H3605|Prep-k | N-msc
-v13 הֶהָמוֹן|hɛ·hå̄·mōn|vvv|H1995|N-msc
+v13 הֶהָמוֹן|hɛ·hå̄·mōn|...|H1995|N-msc
 v13 יִשְׂרָאֵל֙|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v13 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
 v13 נִשְׁאֲרוּ־|niš·’ă·rū-|are left|H7604|V-Nifal-Perf-3cp
 v13 בָ֔הּ|ḇāh|here|H0|Prep | 3fs
 v13 הִנָּ֕ם|hin·nām|You can see|H2005|Interjection | 3mp
 v13 כְּכָל־|kə·ḵāl-|that|H3605|Prep-k | N-msc
-v13 הֲמ֥וֹן|hă·mō·wn|vvv|H1995|N-msc
+v13 הֲמ֥וֹן|hă·mō·wn|...|H1995|N-msc
 v13 יִשְׂרָאֵ֖ל|yiś·rā·’êl|all the Israelites|H3478|N-proper-ms
 v13 אֲשֶׁר־|’ă·šer-|here|H834|Pro-r
 v13 תָּ֑מּוּ|tām·mū|are doomed|H8552|V-Qal-Perf-3cp
@@ -351,7 +351,7 @@ v17 הָעָ֛ם|hā·‘ām|but the people|H5971|Art | N-ms
 v17 בַּשַּׁ֖עַר|baš·ša·‘ar|in the gateway|H8179|Prep-b, Art | N-ms
 v17 וַיָּמֹ֑ת|way·yā·mōṯ|and he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v17 כַּאֲשֶׁ֤ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
-v17 דִּבֶּר֙|dib·ber||H1696|V-Piel-Perf-3ms
+v17 דִּבֶּר֙|dib·ber|-|H1696|V-Piel-Perf-3ms
 v17 אִ֣ישׁ|’îš|the man|H376|N-msc
 v17 הָאֱלֹהִ֔ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v17 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
@@ -382,7 +382,7 @@ v19 הַשָּׁלִ֜ישׁ|haš·šā·lîš|And the officer|H7991|Art | N-ms
 v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 אִ֣ישׁ|’îš|the man|H376|N-msc
 v19 הָאֱלֹהִים֮|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
-v19 וַיֹּאמַר֒|way·yō·mar||H559|Conj-w | V-Qal-ConsecImperf-3ms
+v19 וַיֹּאמַר֒|way·yō·mar|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v19 וְהִנֵּ֣ה|wə·hin·nêh|Look|H2009|Conj-w | Interjection
 v19 יְהוָ֗ה|Yah·weh|even if the LORD|H3068|N-proper-ms
 v19 עֹשֶׂ֤ה|‘ō·śeh|were to make|H6213|V-Qal-Prtcpl-ms
@@ -405,4 +405,4 @@ v20 וַיִּרְמְס֨וּ|way·yir·mə·sū|trampled|H7429|Conj-w | V-Qal-
 v20 אֹת֥וֹ|’ō·ṯōw|him|H853|DirObjM | 3ms
 v20 הָעָ֛ם|hā·‘ām|The people|H5971|Art | N-ms
 v20 בַּשַּׁ֖עַר|baš·ša·‘ar|in the gateway|H8179|Prep-b, Art | N-ms
-v20 וַיָּמֹֽת׃ס|way·yā·mōṯ|and he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v20 וַיָּמֹֽת׃|way·yā·mōṯ|and he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms

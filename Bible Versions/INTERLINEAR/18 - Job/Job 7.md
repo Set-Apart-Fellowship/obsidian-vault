@@ -14,7 +14,7 @@ v2 יְקַוֶּ֥ה|yə·qaw·weh|he waits for|H6960|V-Piel-Imperf-3ms
 v2 פָעֳלֽוֹ׃|p̄ā·‘o·lōw|his wages|H6467|N-msc | 3ms
 v3 כֵּ֤ן|kên|So|H3651|Adv
 v3 הָנְחַ֣לְתִּי|hā·nə·ḥal·tî|I am allotted|H5157|V-Hofal-Perf-1cs
-v3 לִ֭י|lî||H0|Prep | 1cs
+v3 לִ֭י|lî|-|H0|Prep | 1cs
 v3 יַרְחֵי־|yar·ḥê-|months|H3391|N-mpc
 v3 שָׁ֑וְא|šāw|of futility|H7723|N-ms
 v3 וְלֵיל֥וֹת|wə·lê·lō·wṯ|and nights|H3915|Conj-w | N-mpc
@@ -169,4 +169,4 @@ v21 עַ֭תָּה|‘at·tāh|soon|H6258|Adv
 v21 לֶעָפָ֣ר|le·‘ā·p̄ār|in the dust|H6083|Prep-l, Art | N-ms
 v21 אֶשְׁכָּ֑ב|’eš·kāḇ|I will lie down|H7901|V-Qal-Imperf-1cs
 v21 וְשִׁ֖חֲרְתַּ֣נִי|wə·ši·ḥăr·ta·nî|You will seek me|H7836|Conj-w | V-Piel-ConjPerf-2ms | 1cs
-v21 וְאֵינֶֽנִּי׃פ|wə·’ê·nen·nî|but I will be no more|H369|Conj-w | Adv | 1cs
+v21 וְאֵינֶֽנִּי׃|wə·’ê·nen·nî|but I will be no more|H369|Conj-w | Adv | 1cs

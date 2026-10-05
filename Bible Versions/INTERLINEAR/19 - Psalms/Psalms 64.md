@@ -31,7 +31,7 @@ v4 יֹ֝רֻ֗הוּ|yō·ru·hū|shooting|H3384|V-Hifil-Imperf-3mp | 3ms
 v4 וְלֹ֣א|wə·lō|without|H3808|Conj-w | Adv-NegPrt
 v4 יִירָֽאוּ׃|yî·rā·’ū|fear|H3372|V-Qal-Imperf-3mp
 v5 יְחַזְּקוּ־|yə·ḥaz·zə·qū-|They hold fast|H2388|V-Piel-Imperf-3mp
-v5 לָ֨מוֹ׀|lā·mōw||H0|Prep | 3mp
+v5 לָ֨מוֹ׀|lā·mōw|-|H0|Prep | 3mp
 v5 דָּ֘בָ֤ר|dā·ḇār|purpose|H1697|N-ms
 v5 רָ֗ע|rā‘|to their evil|H7451|Adj-ms
 v5 יְֽ֭סַפְּרוּ|yə·sap·pə·rū|they speak|H5608|V-Piel-Imperf-3mp
@@ -62,7 +62,7 @@ v8 לְשׁוֹנָ֑ם|lə·šō·w·nām|their own tongues|H3956|N-csc | 3mp
 v8 יִ֝תְנֹדֲד֗וּ|yiṯ·nō·ḏă·ḏū|will shake their heads|H5074|V-Hitpael-Imperf-3mp
 v8 כָּל־|kāl-|All|H3605|N-msc
 v8 רֹ֥אֵה|rō·’êh|who see|H7200|V-Qal-Prtcpl-msc
-v8 בָֽם׃|ḇām||H0|Prep | 3mp
+v8 בָֽם׃|ḇām|-|H0|Prep | 3mp
 v9 וַיִּֽירְא֗וּ|way·yî·rə·’ū|will fear|H3372|Conj-w | V-Qal-ConsecImperf-3mp
 v9 כָּל־|kāl-|Then all|H3605|N-msc
 v9 אָ֫דָ֥ם|’ā·ḏām|mankind|H120|N-ms

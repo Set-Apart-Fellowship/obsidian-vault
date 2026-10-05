@@ -1,4 +1,4 @@
-v1 וַיְהִ֗י|way·hî|vvv|H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v1 וַיְהִ֗י|way·hî|...|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v1 אַחַר֙|’a·ḥar|Some time after|H310|Adv
 v1 הַדְּבָרִ֣ים|had·də·ḇā·rîm|events|H1697|Art | N-mp
 v1 הָאֵ֔לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
@@ -23,7 +23,7 @@ v2 לִּ֨י|lî|me|H0|Prep | 1cs
 v2 אֶֽת־|’eṯ-|-|H853|DirObjM
 v2 כַּרְמְךָ֜|kar·mə·ḵā|your vineyard|H3754|N-msc | 2ms
 v2 וִֽיהִי־|wî·hî-|to use|H1961|Conj-w | V-Qal-ConjImperf.Jus-3ms
-v2 לִ֣י|lî||H0|Prep | 1cs
+v2 לִ֣י|lî|-|H0|Prep | 1cs
 v2 לְגַן־|lə·ḡan-|garden|H1588|Prep-l | N-csc
 v2 יָרָ֗ק|yā·rāq|as a vegetable|H3419|N-ms
 v2 כִּ֣י|kî|since|H3588|Conj
@@ -133,7 +133,7 @@ v7 אִיזֶ֣בֶל|’î·ze·ḇel|Jezebel|H348|N-proper-fs
 v7 אִשְׁתּ֔וֹ|’iš·tōw|But his wife|H802|N-fsc | 3ms
 v7 אַתָּ֕ה|’at·tāh|...|H859|Pro-2ms
 v7 עַתָּ֛ה|‘at·tāh|Do you not|H6258|Adv
-v7 תַּעֲשֶׂ֥ה|ta·‘ă·śeh|vvv|H6213|V-Qal-Imperf-2ms
+v7 תַּעֲשֶׂ֥ה|ta·‘ă·śeh|...|H6213|V-Qal-Imperf-2ms
 v7 מְלוּכָ֖ה|mə·lū·ḵāh|reign|H4410|N-fs
 v7 עַל־|‘al-|over|H5921|Prep
 v7 יִשְׂרָאֵ֑ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
@@ -288,7 +288,7 @@ v16 אֶל־|’el-|down|H413|Prep
 v16 כֶּ֛רֶם|ke·rem|of the vineyard|H3754|N-msc
 v16 נָב֥וֹת|nā·ḇō·wṯ|of Naboth|H5022|N-proper-ms
 v16 הַיִּזְרְעֵאלִ֖י|hay·yiz·rə·‘ê·lî|the Jezreelite|H3158|Art | N-proper-ms
-v16 לְרִשְׁתּֽוֹ׃ס|lə·riš·tōw|to take possession|H3423|Prep-l | V-Qal-Inf | 3ms
+v16 לְרִשְׁתּֽוֹ׃|lə·riš·tōw|to take possession|H3423|Prep-l | V-Qal-Inf | 3ms
 v17 וַיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v17 דְּבַר־|də·ḇar-|Then the word|H1697|N-msc
 v17 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -315,7 +315,7 @@ v19 וְדִבַּרְתָּ֨|wə·ḏib·bar·tā|Tell|H1696|Conj-w | V-Piel-C
 v19 אֵלָ֜יו|’ê·lāw|him|H413|Prep | 3ms
 v19 לֵאמֹ֗ר|lê·mōr|says|H559|Prep-l | V-Qal-Inf
 v19 כֹּ֚ה|kōh|that this is what|H3541|Adv
-v19 אָמַ֣ר|’ā·mar||H559|V-Qal-Perf-3ms
+v19 אָמַ֣ר|’ā·mar|-|H559|V-Qal-Perf-3ms
 v19 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v19 הֲרָצַ֖חְתָּ|hă·rā·ṣaḥ·tā|Have you not murdered [a man]|H7523|V-Qal-Perf-2ms
 v19 וְגַם־|wə·ḡam-|and|H1571|Conj
@@ -415,7 +415,7 @@ v25 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|to do|H6213|Prep-l | V-Qal-Inf
 v25 הָרַ֖ע|hā·ra‘|evil|H7451|Art | Adj-ms
 v25 בְּעֵינֵ֣י|bə·‘ê·nê|in the sight|H5869|Prep-b | N-cdc
 v25 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v25 אֲשֶׁר־|’ă·šer-|vvv|H834|Pro-r
+v25 אֲשֶׁר־|’ă·šer-|...|H834|Pro-r
 v25 הֵסַ֥תָּה|hê·sat·tāh|incited|H5496|V-Hifil-Perf-3fs
 v25 אֹת֖וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v25 אִיזֶ֥בֶל|’î·ze·ḇel|Jezebel|H348|N-proper-fs
@@ -434,7 +434,7 @@ v26 הוֹרִ֣ישׁ|hō·w·rîš|had driven out|H3423|V-Hifil-Perf-3ms
 v26 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v26 מִפְּנֵ֖י|mip·pə·nê|before|H6440|Prep-m | N-cpc
 v26 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
-v26 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|...|H3478|N-proper-ms
+v26 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v27 וַיְהִי֩|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v27 כִשְׁמֹ֨עַ|ḵiš·mō·a‘|heard|H8085|Prep-k | V-Qal-Inf
 v27 אַחְאָ֜ב|’aḥ·’āḇ|When Ahab|H256|N-proper-ms
@@ -451,7 +451,7 @@ v27 וַיָּצ֑וֹם|way·yā·ṣō·wm|and fasted|H6684|Conj-w | V-Qal-Con
 v27 וַיִּשְׁכַּ֣ב|way·yiš·kaḇ|He lay down|H7901|Conj-w | V-Qal-ConsecImperf-3ms
 v27 בַּשָּׂ֔ק|baś·śāq|in sackcloth|H8242|Prep-b, Art | N-ms
 v27 וַיְהַלֵּ֖ךְ|way·hal·lêḵ|and walked around|H1980|Conj-w | V-Piel-ConsecImperf-3ms
-v27 אַֽט׃ס|’aṭ|meekly|H328|Adv
+v27 אַֽט׃|’aṭ|meekly|H328|Adv
 v28 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v28 דְּבַר־|də·ḇar-|Then the word|H1697|N-msc
 v28 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms

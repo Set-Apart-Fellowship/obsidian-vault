@@ -87,7 +87,7 @@ v6 בְּנֹתָ֑יו|bə·nō·ṯāw|daughters|H1323|N-fpc | 3ms
 v6 וַיִּתְחַזֵּ֣ק|way·yiṯ·ḥaz·zêq|found strength|H2388|Conj-w | V-Hitpael-ConsecImperf-3ms
 v6 דָּוִ֔ד|dā·wiḏ|But David|H1732|N-proper-ms
 v6 בַּיהוָ֖ה|Yah·weh|in the LORD|H3068|Prep-b | N-proper-ms
-v6 אֱלֹהָֽיו׃ס|’ĕ·lō·hāw|his God|H430|N-mpc | 3ms
+v6 אֱלֹהָֽיו׃|’ĕ·lō·hāw|his God|H430|N-mpc | 3ms
 v7 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v7 דָּוִ֗ד|dā·wiḏ|Then David|H1732|N-proper-ms
 v7 אֶל־|’el-|to|H413|Prep
@@ -108,14 +108,14 @@ v7 דָּוִֽד׃|dā·wiḏ|him|H1732|N-proper-ms
 v8 וַיִּשְׁאַ֨ל|way·yiš·’al|inquired|H7592|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דָּוִ֤ד|dā·wiḏ|and David|H1732|N-proper-ms
 v8 בַּֽיהוָה֙|Yah·weh|of the LORD|H3068|Prep-b | N-proper-ms
-v8 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v8 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v8 אֶרְדֹּ֛ף|’er·dōp̄|Should I pursue|H7291|V-Qal-Imperf-1cs
 v8 אַחֲרֵ֥י|’a·ḥă·rê|...|H310|Prep
 v8 הַגְּדוּד־|hag·gə·ḏūḏ-|raiders|H1416|Art | N-ms
 v8 הַזֶּ֖ה|haz·zeh|these|H2088|Art | Pro-ms
 v8 הַֽאַשִּׂגֶ֑נּוּ|ha·’aś·śi·ḡen·nū|Will I overtake them|H5381|V-Hifil-Imperf-1cs | 3ms
 v8 וַיֹּ֤אמֶר|way·yō·mer|[the LORD] replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v8 לוֹ֙|lōw||H0|Prep | 3ms
+v8 לוֹ֙|lōw|-|H0|Prep | 3ms
 v8 רְדֹ֔ף|rə·ḏōp̄|Pursue them|H7291|V-Qal-Imp-ms
 v8 כִּֽי־|kî-|-|H3588|Conj
 v8 הַשֵּׂ֥ג|haś·śêḡ|for you will surely overtake them|H5381|V-Hifil-InfAbs
@@ -185,7 +185,7 @@ v12 מַ֔יִם|ma·yim|water|H4325|N-mp
 v12 שְׁלֹשָׁ֥ה|šə·lō·šāh|for three|H7969|Number-ms
 v12 יָמִ֖ים|yā·mîm|days|H3117|N-mp
 v12 וּשְׁלֹשָׁ֥ה|ū·šə·lō·šāh|and three|H7969|Conj-w | Number-ms
-v12 לֵילֽוֹת׃ס|lê·lō·wṯ|nights|H3915|N-mp
+v12 לֵילֽוֹת׃|lê·lō·wṯ|nights|H3915|N-mp
 v13 וַיֹּ֨אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 ל֤וֹ|lōw|him|H0|Prep | 3ms
 v13 דָוִד֙|ḏā·wiḏ|Then David|H1732|N-proper-ms
@@ -222,7 +222,7 @@ v14 צִקְלַ֖ג|ṣiq·laḡ|Ziklag|H6860|N-proper-fs
 v14 שָׂרַ֥פְנוּ|śā·rap̄·nū|and we burned down|H8313|V-Qal-Perf-1cp
 v14 בָאֵֽשׁ׃|ḇā·’êš|...|H784|Prep-b, Art | N-cs
 v15 וַיֹּ֤אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v15 אֵלָיו֙|’ê·lāw||H413|Prep | 3ms
+v15 אֵלָיו֙|’ê·lāw|-|H413|Prep | 3ms
 v15 דָּוִ֔ד|dā·wiḏ|David|H1732|N-proper-ms
 v15 הֲתוֹרִדֵ֖נִי|hă·ṯō·w·ri·ḏê·nî|Will you lead me|H3381|V-Hifil-Imperf-2ms | 1cs
 v15 אֶל־|’el-|to|H413|Prep
@@ -353,7 +353,7 @@ v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 הָעָ֔ם|hā·‘ām|the men|H5971|Art | N-ms
 v21 וַיִּשְׁאַ֥ל|way·yiš·’al|he greeted them|H7592|Conj-w | V-Qal-ConsecImperf-3ms
 v21 לָהֶ֖ם|lā·hem|...|H0|Prep | 3mp
-v21 לְשָׁלֽוֹם׃ס|lə·šā·lō·wm|...|H7965|Prep-l | N-ms
+v21 לְשָׁלֽוֹם׃|lə·šā·lō·wm|...|H7965|Prep-l | N-ms
 v22 וַיַּ֜עַן|way·ya·‘an|but|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v22 כָּל־|kāl-|all|H3605|N-msc
 v22 אִֽישׁ־|’îš-|men|H376|N-ms
@@ -372,7 +372,7 @@ v22 הָלְכ֣וּ|hā·lə·ḵū|go|H1980|V-Qal-Perf-3cp
 v22 עִמִּ֔י|‘im·mî|with us|H5973|Prep | 1cs
 v22 לֹֽא־|lō-|we will not|H3808|Adv-NegPrt
 v22 נִתֵּ֣ן|nit·tên|share with them|H5414|V-Qal-Imperf-1cp
-v22 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v22 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v22 מֵהַשָּׁלָ֖ל|mê·haš·šā·lāl|the plunder|H7998|Prep-m, Art | N-ms
 v22 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v22 הִצַּ֑לְנוּ|hiṣ·ṣal·nū|we recovered|H5337|V-Hifil-Perf-1cp
@@ -384,7 +384,7 @@ v22 אִשְׁתּוֹ֙|’iš·tōw|man's wife|H802|N-fsc | 3ms
 v22 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v22 בָּנָ֔יו|bā·nāw|and children|H1121|N-mpc | 3ms
 v22 וְיִנְהֲג֖וּ|wə·yin·hă·ḡū|They may take them|H5090|Conj-w | V-Qal-ConjImperf-3mp
-v22 וְיֵלֵֽכוּ׃ס|wə·yê·lê·ḵū|and go|H1980|Conj-w | V-Qal-ConjImperf-3mp
+v22 וְיֵלֵֽכוּ׃|wə·yê·lê·ḵū|and go|H1980|Conj-w | V-Qal-ConjImperf-3mp
 v23 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v23 דָּוִ֔ד|dā·wiḏ|But David|H1732|N-proper-ms
 v23 לֹֽא־|lō-|you must not|H3808|Adv-NegPrt
@@ -418,7 +418,7 @@ v24 הַיֹּשֵׁ֥ב|hay·yō·šêḇ|of the one who stayed|H3427|Art | V-Q
 v24 עַל־|‘al-|with|H5921|Prep
 v24 הַכֵּלִ֖ים|hak·kê·lîm|the supplies|H3627|Art | N-mp
 v24 יַחְדָּ֥ו|yaḥ·dāw|alike|H3162|Adv
-v24 יַחֲלֹֽקוּ׃ס|ya·ḥă·lō·qū|They will share|H2505|V-Qal-Imperf-3mp
+v24 יַחֲלֹֽקוּ׃|ya·ḥă·lō·qū|They will share|H2505|V-Qal-Imperf-3mp
 v25 וַיְהִ֕י|way·hî|And so it has been|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v25 מֵֽהַיּ֥וֹם|mê·hay·yō·wm|day|H3117|Prep-m, Art | N-ms
 v25 הַה֖וּא|ha·hū|from that|H1931|Art | Pro-3ms
@@ -429,7 +429,7 @@ v25 וּלְמִשְׁפָּט֙|ū·lə·miš·pāṭ|and ordinance|H4941|Conj-
 v25 לְיִשְׂרָאֵ֔ל|lə·yiś·rā·’êl|for Israel|H3478|Prep-l | N-proper-ms
 v25 עַ֖ד|‘aḏ|to|H5704|Prep
 v25 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v25 הַזֶּֽה׃פ|haz·zeh|this very|H2088|Art | Pro-ms
+v25 הַזֶּֽה׃|haz·zeh|this very|H2088|Art | Pro-ms
 v26 וַיָּבֹ֤א|way·yā·ḇō|arrived|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v26 דָוִד֙|ḏā·wiḏ|When David|H1732|N-proper-ms
 v26 אֶל־|’el-|in|H413|Prep
@@ -447,7 +447,7 @@ v26 מִשְּׁלַ֖ל|miš·šə·lal|from the plunder|H7998|Prep-m | N-msc
 v26 אֹיְבֵ֥י|’ō·yə·ḇê|enemies|H341|V-Qal-Prtcpl-mpc
 v26 יְהוָֽה׃|Yah·weh|of the LORD's|H3068|N-proper-ms
 v27 לַאֲשֶׁ֧ר|la·’ă·šer|He sent gifts to those|H834|Prep-l | Pro-r
-v27 בְּבֵֽית־|bə·ḇêṯ-|vvv|H1008|Prep
+v27 בְּבֵֽית־|bə·ḇêṯ-|...|H1008|Prep
 v27 אֵ֛ל|’êl|in Bethel|H1008|Prep | N-proper-fs
 v27 וְלַאֲשֶׁ֥ר|wə·la·’ă·šer|-|H834|Conj-w, Prep-l | Pro-r
 v27 בְּרָמֽוֹת־|bə·rā·mō·wṯ-|Ramoth|H7418|Prep
@@ -459,7 +459,7 @@ v28 בַּעֲרֹעֵ֛ר|ba·‘ă·rō·‘êr|in Aroer|H6177|Prep-b | N-pro
 v28 וְלַאֲשֶׁ֥ר|wə·la·’ă·šer|-|H834|Conj-w, Prep-l | Pro-r
 v28 בְּשִֽׂפְמ֖וֹת|bə·śip̄·mō·wṯ|Siphmoth|H8224|Prep-b | N-proper-fs
 v28 וְלַאֲשֶׁ֥ר|wə·la·’ă·šer|-|H834|Conj-w, Prep-l | Pro-r
-v28 בְּאֶשְׁתְּמֹֽעַ׃ס|bə·’eš·tə·mō·a‘|and Eshtemoa|H851|Prep-b | N-proper-fs
+v28 בְּאֶשְׁתְּמֹֽעַ׃|bə·’eš·tə·mō·a‘|and Eshtemoa|H851|Prep-b | N-proper-fs
 v29 וְלַאֲשֶׁ֣ר|wə·la·’ă·šer|to those|H834|Conj-w, Prep-l | Pro-r
 v29 בְּרָכָ֗ל|bə·rā·ḵāl|in Racal|H7403|Prep-b | N-proper-fs
 v29 וְלַֽאֲשֶׁר֙|wə·la·’ă·šer|and|H834|Conj-w, Prep-l | Pro-r
@@ -471,7 +471,7 @@ v29 הַקֵּינִֽי׃|haq·qê·nî|Kenites|H7017|Art | N-proper-ms
 v30 וְלַאֲשֶׁ֧ר|wə·la·’ă·šer|to those|H834|Conj-w, Prep-l | Pro-r
 v30 בְּחָרְמָ֛ה|bə·ḥā·rə·māh|in Hormah|H2767|Prep-b | N-proper-fs
 v30 וְלַאֲשֶׁ֥ר|wə·la·’ă·šer|-|H834|Conj-w, Prep-l | Pro-r
-v30 בְּבוֹר־|bə·ḇō·wr-|vvv|H3565|Prep
+v30 בְּבוֹר־|bə·ḇō·wr-|...|H3565|Prep
 v30 עָשָׁ֖ן|‘ā·šān|Bor-ashan|H3565|Prep | N-proper-fs
 v30 וְלַאֲשֶׁ֥ר|wə·la·’ă·šer|-|H834|Conj-w, Prep-l | Pro-r
 v30 בַּעֲתָֽךְ׃|ba·‘ă·ṯāḵ|and Athach|H6269|Prep-b | N-proper-fs
@@ -484,4 +484,4 @@ v31 הִתְהַלֶּךְ־|hiṯ·hal·leḵ-|had roamed|H1980|V-Hitpael-Perf-
 v31 שָׁ֥ם|šām|...|H8033|Adv
 v31 דָּוִ֖ד|dā·wiḏ|David|H1732|N-proper-ms
 v31 ה֥וּא|hū|...|H1931|Pro-3ms
-v31 וַאֲנָשָֽׁיו׃פ|wa·’ă·nā·šāw|and his men|H582|Conj-w | N-mpc | 3ms
+v31 וַאֲנָשָֽׁיו׃|wa·’ă·nā·šāw|and his men|H582|Conj-w | N-mpc | 3ms

@@ -22,7 +22,7 @@ v2 ὡς|hōs|like|G5613|Adv
 v2 κλέπτης|kleptēs|a thief|G2812|N-NMS
 v2 ἐν|en|in|G1722|Prep
 v2 νυκτὶ|nykti|[the] night|G3571|N-DFS
-v2 οὕτως|houtōs|vvv|G3779|Adv
+v2 οὕτως|houtōs|...|G3779|Adv
 v2 ἔρχεται|erchetai|will come|G2064|V-PIM/P-3S
 v3 ὅταν|hotan|While|G3752|Conj
 v3 λέγωσιν|legōsin|[people] are saying|G3004|V-PSA-3P
@@ -42,8 +42,8 @@ v3 ἐν|en|...|G1722|Prep
 v3 γαστρὶ|gastri|...|G1064|N-DFS
 v3 ἐχούσῃ|echousē|a pregnant woman|G2192|V-PPA-DFS
 v3 καὶ|kai|and|G2532|Conj
-v3 οὐ|ou|vvv|G3756|Adv
-v3 μὴ|mē|vvv|G3361|Adv
+v3 οὐ|ou|...|G3756|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 ἐκφύγωσιν|ekphygōsin|they will not escape|G1628|V-ASA-3P
 v4 Ὑμεῖς|Hymeis|you|G4771|PPro-N2P
 v4 δέ|de|But|G1161|Conj
@@ -75,7 +75,7 @@ v5 οὐδὲ|oude|[or]|G3761|Conj
 v5 σκότους|skotous|to [the] darkness|G4655|N-GNS
 v6 ἄρα|ara|So|G686|Conj
 v6 οὖν|oun|then|G3767|Conj
-v6 μὴ|mē|vvv|G3361|Adv
+v6 μὴ|mē|...|G3361|Adv
 v6 καθεύδωμεν|katheudōmen|let us not sleep|G2518|V-PSA-1P
 v6 ὡς|hōs|as|G5613|Adv
 v6 οἱ|hoi|the|G3588|Art-NMP
@@ -109,7 +109,7 @@ v8 περικεφαλαίαν|perikephalaian|[the] helmet|G4030|N-AFS
 v8 ἐλπίδα|elpida|[of our] hope|G1680|N-AFS
 v8 σωτηρίας|sōtērias|of salvation|G4991|N-GFS
 v9 ὅτι|hoti|For|G3754|Conj
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἔθετο|etheto|has not appointed|G5087|V-AIM-3S
 v9 ἡμᾶς|hēmas|us|G1473|PPro-A1P
 v9 ὁ|ho|-|G3588|Art-NMS
@@ -148,7 +148,7 @@ v11 εἷς|heis|one|G1520|Adj-NMS
 v11 τὸν|ton|-|G3588|Art-AMS
 v11 ἕνα|hena|another {up}|G1520|Adj-AMS
 v11 καθὼς|kathōs|just as|G2531|Adv
-v11 καὶ|kai|vvv|G2532|Conj
+v11 καὶ|kai|...|G2532|Conj
 v11 ποιεῖτε|poieite|you are already doing|G4160|V-PIA-2P
 v12 Ἐρωτῶμεν|Erōtōmen|we ask|G2065|V-PIA-1P
 v12 δὲ|de|But|G1161|Conj
@@ -233,10 +233,10 @@ v18 εἰς|eis|for|G1519|Prep
 v18 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v19 Τὸ|To|the|G3588|Art-ANS
 v19 Πνεῦμα|Pneuma|Spirit|G4151|N-ANS
-v19 μὴ|mē|vvv|G3361|Adv
+v19 μὴ|mē|...|G3361|Adv
 v19 σβέννυτε|sbennyte|Do not extinguish|G4570|V-PMA-2P
 v20 προφητείας|prophēteias|prophecies {with contempt}|G4394|N-AFP
-v20 μὴ|mē|vvv|G3361|Adv
+v20 μὴ|mē|...|G3361|Adv
 v20 ἐξουθενεῖτε|exoutheneite|Do not treat|G1848|V-PMA-2P
 v21 πάντα|panta|all things|G3956|Adj-ANP
 v21 δὲ|de|but|G1161|Conj

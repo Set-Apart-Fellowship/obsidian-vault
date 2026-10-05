@@ -26,10 +26,10 @@ v2 לַבְּעָלִֽים׃|lab·bə·‘ā·lîm|of the Baals|H1168|Prep-l, A
 v3 וְה֥וּא|wə·hū|Moreover, Ahaz|H1931|Conj-w | Pro-3ms
 v3 הִקְטִ֖יר|hiq·ṭîr|burned incense|H6999|V-Hifil-Perf-3ms
 v3 בְּגֵ֣יא|bə·ḡê|in the Valley|H1516|Prep-b | N-proper-fs
-v3 בֶן־|ḇen-|vvv|H1121|N-mpc
+v3 בֶן־|ḇen-|...|H1121|N-mpc
 v3 הִנֹּ֑ם|hin·nōm|of Ben-hinnom|H2011|N-proper
 v3 וַיַּבְעֵ֤ר|way·yaḇ·‘êr|and sacrificed|H1197|Conj-w | V-Hifil-ConsecImperf-3ms
-v3 אֶת־|’eṯ-||H853|DirObjM
+v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 בָּנָיו֙|bā·nāw|[his] sons|H1121|N-mpc | 3ms
 v3 בָּאֵ֔שׁ|bā·’êš|in the fire|H784|Prep-b, Art | N-cs
 v3 כְּתֹֽעֲבוֹת֙|kə·ṯō·‘ă·ḇō·wṯ|according to the abominations|H8441|Prep-k | N-fpc
@@ -71,13 +71,13 @@ v5 נִתָּ֔ן|nit·tān|delivered|H5414|V-Nifal-Perf-3ms
 v5 וַיַּךְ־|way·yaḵ-|who struck|H5221|Conj-w | V-Hifil-ConsecImperf-3ms
 v5 בּ֖וֹ|bōw|him|H0|Prep | 3ms
 v5 מַכָּ֥ה|mak·kāh|force|H4347|N-fs
-v5 גְדוֹלָֽה׃ס|ḡə·ḏō·w·lāh|with great|H1419|Adj-fs
+v5 גְדוֹלָֽה׃|ḡə·ḏō·w·lāh|with great|H1419|Adj-fs
 v6 וַיַּהֲרֹג֩|way·ya·hă·rōḡ|killed|H2026|Conj-w | V-Qal-ConsecImperf-3ms
 v6 פֶּ֨קַח|pe·qaḥ|Pekah|H6492|N-proper-ms
 v6 בֶּן־|ben-|son|H1121|N-msc
 v6 רְמַלְיָ֜הוּ|rə·mal·yā·hū|of Remaliah|H7425|N-proper-ms
 v6 בִּֽיהוּדָ֗ה|bî·hū·ḏāh|in Judah|H3063|Prep-b | N-proper-ms
-v6 מֵאָ֨ה|mê·’āh|120,000 {}|H3967|Number-fs
+v6 מֵאָ֨ה|mê·’āh|120,000|H3967|Number-fs
 v6 וְעֶשְׂרִ֥ים|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
 v6 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v6 בְּי֥וֹם|bə·yō·wm|day|H3117|Prep-b | N-ms
@@ -105,7 +105,7 @@ v7 הַבָּ֑יִת|hab·bā·yiṯ|of the palace|H1004|Art | N-ms
 v7 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v7 אֶלְקָנָ֖ה|’el·qā·nāh|and Elkanah|H511|N-proper-ms
 v7 מִשְׁנֵ֥ה|miš·nêh|the second|H4932|N-msc
-v7 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|to the king|H4428|Art | N-ms
+v7 הַמֶּֽלֶךְ׃|ham·me·leḵ|to the king|H4428|Art | N-ms
 v8 וַיִּשְׁבּוּ֩|way·yiš·bū|captives|H7617|Conj-w | V-Qal-ConsecImperf-3mp
 v8 בְנֵֽי־|ḇə·nê-|Then the Israelites|H1121|N-mpc
 v8 יִשְׂרָאֵ֨ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -123,7 +123,7 @@ v8 מֵהֶ֑ם|mê·hem|-|H0|Prep-m | Pro-3mp
 v8 וַיָּבִ֥יאוּ|way·yā·ḇî·’ū|and brought|H935|Conj-w | V-Hifil-ConsecImperf-3mp
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 הַשָּׁלָ֖ל|haš·šā·lāl|it|H7998|Art | N-ms
-v8 לְשֹׁמְרֽוֹן׃ס|lə·šō·mə·rō·wn|to Samaria|H8111|Prep-l | N-proper-fs
+v8 לְשֹׁמְרֽוֹן׃|lə·šō·mə·rō·wn|to Samaria|H8111|Prep-l | N-proper-fs
 v9 וְ֠שָׁם|wə·šām|there|H8033|Conj-w | Adv
 v9 הָיָ֨ה|hā·yāh|was|H1961|V-Qal-Perf-3ms
 v9 נָבִ֥יא|nā·ḇî|But a prophet|H5030|N-ms
@@ -149,7 +149,7 @@ v9 בְּיֶדְכֶ֑ם|bə·yeḏ·ḵem|into your hand|H3027|Prep-b | N-fsc 
 v9 וַתַּֽהַרְגוּ־|wat·ta·har·ḡū-|But you have slaughtered|H2026|Conj-w | V-Qal-ConsecImperf-2mp
 v9 בָ֣ם|ḇām|them|H0|Prep | 3mp
 v9 בְזַ֔עַף|ḇə·za·‘ap̄|in a rage|H2197|Prep-b | N-ms
-v9 עַ֥ד|‘aḏ||H5704|Prep
+v9 עַ֥ד|‘aḏ|-|H5704|Prep
 v9 לַשָּׁמַ֖יִם|laš·šā·ma·yim|to heaven|H8064|Prep-l, Art | N-mp
 v9 הִגִּֽיעַ׃|hig·gî·a‘|[that] reaches up|H5060|V-Hifil-Perf-3ms
 v10 וְ֠עַתָּה|wə·‘at·tāh|And now|H6258|Conj-w | Adv
@@ -161,7 +161,7 @@ v10 אֹמְרִ֔ים|’ō·mə·rîm|intend|H559|V-Qal-Prtcpl-mp
 v10 לִכְבֹּ֛שׁ|liḵ·bōš|to reduce to slavery|H3533|Prep-l | V-Qal-Inf
 v10 לַעֲבָדִ֥ים|la·‘ă·ḇā·ḏîm|the men|H5650|Prep-l | N-mp
 v10 וְלִשְׁפָח֖וֹת|wə·liš·p̄ā·ḥō·wṯ|and women|H8198|Conj-w, Prep-l | N-fp
-v10 לָכֶ֑ם|lā·ḵem||H0|Prep | 2mp
+v10 לָכֶ֑ם|lā·ḵem|-|H0|Prep | 2mp
 v10 הֲלֹ֤א|hă·lō|not|H3808|Adv-NegPrt
 v10 רַק־|raq-|also|H7535|Adv
 v10 אַתֶּם֙|’at·tem|But are you|H859|Pro-2mp
@@ -180,7 +180,7 @@ v11 כִּ֛י|kî|for|H3588|Conj
 v11 חֲר֥וֹן|ḥă·rō·wn|the fierce anger|H2740|N-msc
 v11 אַף־|’ap̄-|...|H639|N-msc
 v11 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v11 עֲלֵיכֶֽם׃ס|‘ă·lê·ḵem|is upon you|H5921|Prep | 2mp
+v11 עֲלֵיכֶֽם׃|‘ă·lê·ḵem|is upon you|H5921|Prep | 2mp
 v12 וַיָּקֻ֨מוּ|way·yā·qu·mū|stood|H6965|Conj-w | V-Qal-ConsecImperf-3mp
 v12 אֲנָשִׁ֜ים|’ă·nā·šîm|Then some|H582|N-mp
 v12 מֵרָאשֵׁ֣י|mê·rā·šê|of the leaders|H7218|Prep-m | N-mpc
@@ -203,7 +203,7 @@ v12 הַבָּאִ֖ים|hab·bā·’îm|those arriving|H935|Art | V-Qal-Prtcpl
 v12 מִן־|min-|from|H4480|Prep
 v12 הַצָּבָֽא׃|haṣ·ṣā·ḇā|the war|H6635|Art | N-cs
 v13 וַיֹּאמְר֣וּ|way·yō·mə·rū|they said|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v13 לָהֶ֗ם|lā·hem||H0|Prep | 3mp
+v13 לָהֶ֗ם|lā·hem|-|H0|Prep | 3mp
 v13 לֹא־|lō-|You must not|H3808|Adv-NegPrt
 v13 תָבִ֤יאוּ|ṯā·ḇî·’ū|bring|H935|V-Hifil-Imperf-2mp
 v13 אֶת־|’eṯ-|-|H853|DirObjM
@@ -227,7 +227,7 @@ v13 לָ֔נוּ|lā·nū|our|H0|Prep | 1cp
 v13 וַחֲר֥וֹן|wa·ḥă·rō·wn|and fierce anger|H2740|Conj-w | N-msc
 v13 אָ֖ף|’āp̄|...|H639|N-ms
 v13 עַל־|‘al-|is upon|H5921|Prep
-v13 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v13 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v14 וַיַּעֲזֹ֣ב|way·ya·‘ă·zōḇ|left|H5800|Conj-w | V-Qal-ConsecImperf-3ms
 v14 הֶֽחָל֗וּץ|he·ḥā·lūṣ|So the armed men|H2502|Art | V-Qal-QalPassPrtcpl-ms
 v14 אֶת־|’eṯ-|-|H853|DirObjM
@@ -266,7 +266,7 @@ v15 הַתְּמָרִ֖ים|hat·tə·mā·rîm|of Palms|H8558|N-proper-fs
 v15 אֵ֣צֶל|’ê·ṣel|to|H681|Prep
 v15 אֲחֵיהֶ֑ם|’ă·ḥê·hem|their brothers|H251|N-mpc | 3mp
 v15 וַיָּשׁ֖וּבוּ|way·yā·šū·ḇū|Then they returned|H7725|Conj-w | V-Qal-ConsecImperf-3mp
-v15 שֹׁמְרֽוֹן׃פ|šō·mə·rō·wn|to Samaria|H8111|N-proper-fs
+v15 שֹׁמְרֽוֹן׃|šō·mə·rō·wn|to Samaria|H8111|N-proper-fs
 v16 בָּעֵ֣ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
 v16 הַהִ֗יא|ha·hî|At that|H1931|Art | Pro-3fs
 v16 שָׁלַ֞ח|šā·laḥ|sent|H7971|V-Qal-Perf-3ms
@@ -276,7 +276,7 @@ v16 עַל־|‘al-|from|H5921|Prep
 v16 מַלְכֵ֥י|mal·ḵê|the king|H4428|N-mpc
 v16 אַשּׁ֖וּר|’aš·šūr|of Assyria|H804|N-proper-fs
 v16 לַעְזֹ֥ר|la‘·zōr|for help|H5826|Prep-l | V-Qal-Inf
-v16 לֽוֹ׃|lōw||H0|Prep | 3ms
+v16 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v17 וְע֥וֹד|wə·‘ō·wḏ|had again|H5750|Conj-w | Adv
 v17 אֲדוֹמִ֖ים|’ă·ḏō·w·mîm|The Edomites|H130|N-proper-mp
 v17 בָּ֑אוּ|bā·’ū|come|H935|V-Qal-Perf-3cp
@@ -292,7 +292,7 @@ v18 וְהַנֶּגֶב֮|wə·han·ne·ḡeḇ|and the Negev|H5045|Conj-w, Art
 v18 לִֽיהוּדָה֒|lî·hū·ḏāh|of Judah|H3063|Prep-l | N-proper-ms
 v18 וַֽ֠יִּלְכְּדוּ|way·yil·kə·ḏū|capturing|H3920|Conj-w | V-Qal-ConsecImperf-3mp
 v18 אֶת־|’eṯ-|-|H853|DirObjM
-v18 בֵּֽית־|bêṯ-|vvv|H1053|Prep
+v18 בֵּֽית־|bêṯ-|...|H1053|Prep
 v18 שֶׁ֨מֶשׁ|še·meš|Beth-shemesh|H1053|N-proper-fs
 v18 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v18 אַיָּל֜וֹן|’ay·yā·lō·wn|Aijalon|H357|N-proper-fs
@@ -327,7 +327,7 @@ v19 מַ֖עַל|ma·‘al|...|H4604|N-ms
 v19 בַּיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-b | N-proper-ms
 v20 וַיָּבֹ֣א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v20 עָלָ֔יו|‘ā·lāw|to [Ahaz]|H5921|Prep | 3ms
-v20 תִּלְּגַ֥ת|til·lə·ḡaṯ|vvv|H8407|
+v20 תִּלְּגַ֥ת|til·lə·ḡaṯ|...|H8407|
 v20 פִּלְנְאֶ֖סֶר|pil·nə·’e·ser|Then Tiglath-pileser|H8407|N-proper-ms
 v20 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v20 אַשּׁ֑וּר|’aš·šūr|of Assyria|H804|N-proper-fs
@@ -353,7 +353,7 @@ v21 לְעֶזְרָ֖ה|lə·‘ez·rāh|help|H5833|Prep-l | N-fs
 v21 לֽוֹ׃|lōw|him|H0|Prep | 3ms
 v22 וּבְעֵת֙|ū·ḇə·‘êṯ|In the time|H6256|Conj-w, Prep-b | N-cs
 v22 הָצֵ֣ר|hā·ṣêr|of his distress|H6887|V-Hifil-Inf
-v22 ל֔וֹ|lōw||H0|Prep | 3ms
+v22 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v22 וַיּ֖וֹסֶף|way·yō·w·sep̄|became even more|H3254|Conj-w | V-Hifil-ConsecImperf-3ms
 v22 לִמְע֣וֹל|lim·‘ō·wl|unfaithful|H4603|Prep-l | V-Qal-Inf
 v22 בַּיהוָ֑ה|Yah·weh|to the LORD|H3068|Prep-b | N-proper-ms
@@ -370,7 +370,7 @@ v23 כִּ֠י|kî|Because|H3588|Conj
 v23 אֱלֹהֵ֤י|’ĕ·lō·hê|the gods|H430|N-mpc
 v23 מַלְכֵֽי־|mal·ḵê-|of the kings|H4428|N-mpc
 v23 אֲרָם֙|’ă·rām|of Aram|H758|N-proper-fs
-v23 הֵ֚ם|hêm||H1992|Pro-3mp
+v23 הֵ֚ם|hêm|-|H1992|Pro-3mp
 v23 מַעְזְרִ֣ים|ma‘·zə·rîm|have helped|H5826|V-Hifil-Prtcpl-mp
 v23 אוֹתָ֔ם|’ō·w·ṯām|them|H853|DirObjM | 3mp
 v23 לָהֶ֥ם|lā·hem|to them|H0|Prep | 3mp
@@ -447,4 +447,4 @@ v27 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v27 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v27 יְחִזְקִיָּ֥הֽוּ|yə·ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
 v27 בְנ֖וֹ|ḇə·nōw|And his son|H1121|N-msc | 3ms
-v27 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v27 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

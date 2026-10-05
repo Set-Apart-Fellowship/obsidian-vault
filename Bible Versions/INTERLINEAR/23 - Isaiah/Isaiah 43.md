@@ -94,7 +94,7 @@ v8 וְעֵינַ֣יִם|wə·‘ê·na·yim|eyes|H5869|Conj-w | N-cd
 v8 יֵ֑שׁ|yêš|who have|H3426|Adv
 v8 וְחֵרְשִׁ֖ים|wə·ḥê·rə·šîm|but are deaf|H2795|Conj-w | Adj-mp
 v8 וְאָזְנַ֥יִם|wə·’ā·zə·na·yim|and who have ears|H241|Conj-w | N-fd
-v8 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v8 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v9 כָּֽל־|kāl-|All|H3605|N-msc
 v9 הַגּוֹיִ֞ם|hag·gō·w·yim|the nations|H1471|Art | N-mp
 v9 נִקְבְּצ֣וּ|niq·bə·ṣū|gather|H6908|V-Nifal-Perf-3cp
@@ -134,7 +134,7 @@ v10 נ֣וֹצַר|nō·w·ṣar|was formed|H3335|V-Nifal-Perf-3ms
 v10 אֵ֔ל|’êl|god|H410|N-ms
 v10 וְאַחֲרַ֖י|wə·’a·ḥă·ray|and after Me|H310|Conj-w | Prep | 1cs
 v10 לֹ֥א|lō|none|H3808|Adv-NegPrt
-v10 יִהְיֶֽה׃ס|yih·yeh|will come|H1961|V-Qal-Imperf-3ms
+v10 יִהְיֶֽה׃|yih·yeh|will come|H1961|V-Qal-Imperf-3ms
 v11 אָנֹכִ֥י|’ā·nō·ḵî|I|H595|Pro-1cs
 v11 אָנֹכִ֖י|’ā·nō·ḵî|yes I|H595|Pro-1cs
 v11 יְהוָ֑ה|Yah·weh|am the LORD|H3068|N-proper-ms
@@ -163,7 +163,7 @@ v13 מִיָּדִ֖י|mî·yā·ḏî|out of My hand|H3027|Prep-m | N-fsc | 1cs
 v13 מַצִּ֑יל|maṣ·ṣîl|can deliver|H5337|V-Hifil-Prtcpl-ms
 v13 אֶפְעַ֖ל|’ep̄·‘al|When I act|H6466|V-Qal-Imperf-1cs
 v13 וּמִ֥י|ū·mî|who|H4310|Conj-w | Interrog
-v13 יְשִׁיבֶֽנָּה׃ס|yə·šî·ḇen·nāh|can reverse it|H7725|V-Hifil-Imperf-3ms | 3fs
+v13 יְשִׁיבֶֽנָּה׃|yə·šî·ḇen·nāh|can reverse it|H7725|V-Hifil-Imperf-3ms | 3fs
 v14 כֹּֽה־|kōh-|Thus|H3541|Adv
 v14 אָמַ֧ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v14 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -184,7 +184,7 @@ v15 יְהוָ֖ה|Yah·weh|am the LORD|H3068|N-proper-ms
 v15 קְדֽוֹשְׁכֶ֑ם|qə·ḏō·wō·šə·ḵem|your Holy One|H6918|Adj-msc | 2mp
 v15 בּוֹרֵ֥א|bō·w·rê|the Creator|H1254|V-Qal-Prtcpl-msc
 v15 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v15 מַלְכְּכֶֽם׃ס|mal·kə·ḵem|[and] your King|H4428|N-msc | 2mp
+v15 מַלְכְּכֶֽם׃|mal·kə·ḵem|[and] your King|H4428|N-msc | 2mp
 v16 כֹּ֚ה|kōh|Thus|H3541|Adv
 v16 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v16 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -245,7 +245,7 @@ v21 זוּ֙|zū|...|H2098|Pro-r
 v21 יָצַ֣רְתִּי|yā·ṣar·tî|I formed|H3335|V-Qal-Perf-1cs
 v21 לִ֔י|lî|for Myself|H0|Prep | 1cs
 v21 תְּהִלָּתִ֖י|tə·hil·lā·ṯî|My praise|H8416|N-fsc | 1cs
-v21 יְסַפֵּֽרוּ׃ס|yə·sap·pê·rū|will declare|H5608|V-Piel-Imperf-3mp
+v21 יְסַפֵּֽרוּ׃|yə·sap·pê·rū|will declare|H5608|V-Piel-Imperf-3mp
 v22 וְלֹא־|wə·lō-|But you have not|H3808|Conj-w | Adv-NegPrt
 v22 אֹתִ֥י|’ō·ṯî|on Me|H853|DirObjM | 1cs
 v22 קָרָ֖אתָ|qā·rā·ṯā|called|H7121|V-Qal-Perf-2ms
@@ -281,7 +281,7 @@ v24 אַ֗ךְ|’aḵ|But|H389|Adv
 v24 הֶעֱבַדְתַּ֙נִי֙|he·‘ĕ·ḇaḏ·ta·nî|you have burdened Me|H5647|V-Hifil-Perf-2ms | 1cs
 v24 בְּחַטֹּאותֶ֔יךָ|bə·ḥaṭ·ṭō·w·ṯe·ḵā|with your sins|H2403|Prep-b | N-fpc | 2ms
 v24 הוֹגַעְתַּ֖נִי|hō·w·ḡa‘·ta·nî|you have wearied Me|H3021|V-Hifil-Perf-2ms | 1cs
-v24 בַּעֲוֺנֹתֶֽיךָ׃ס|ba·‘ă·wō·nō·ṯe·ḵā|with your iniquities|H5771|Prep-b | N-cpc | 2ms
+v24 בַּעֲוֺנֹתֶֽיךָ׃|ba·‘ă·wō·nō·ṯe·ḵā|with your iniquities|H5771|Prep-b | N-cpc | 2ms
 v25 אָנֹכִ֨י|’ā·nō·ḵî|I|H595|Pro-1cs
 v25 אָנֹכִ֥י|’ā·nō·ḵî|yes I|H595|Pro-1cs
 v25 ה֛וּא|hū|am He|H1931|Pro-3ms
@@ -311,4 +311,4 @@ v28 וְאֶתְּנָ֤ה|wə·’et·tə·nāh|and I will devote|H5414|Conj-w 
 v28 לַחֵ֙רֶם֙|la·ḥê·rem|to destruction|H2764|Prep-l, Art | N-ms
 v28 יַעֲקֹ֔ב|ya·‘ă·qōḇ|Jacob|H3290|N-proper-ms
 v28 וְיִשְׂרָאֵ֖ל|wə·yiś·rā·’êl|and Israel|H3478|Conj-w | N-proper-ms
-v28 לְגִדּוּפִֽים׃ס|lə·ḡid·dū·p̄îm|to reproach|H1421|Prep-l | N-mp
+v28 לְגִדּוּפִֽים׃|lə·ḡid·dū·p̄îm|to reproach|H1421|Prep-l | N-mp

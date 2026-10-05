@@ -32,7 +32,7 @@ v2 וַיַּ֣עַשׂ|way·ya·‘aś|And [Isaiah] did|H6213|Conj-w | V-Qal-Co
 v2 כֵּ֔ן|kên|so|H3651|Adv
 v2 הָלֹ֖ךְ|hā·lōḵ|walking around|H1980|V-Qal-InfAbs
 v2 עָר֥וֹם|‘ā·rō·wm|naked|H6174|Adj-ms
-v2 וְיָחֵֽף׃ס|wə·yā·ḥêp̄|and barefoot|H3182|Conj-w | Adj-ms
+v2 וְיָחֵֽף׃|wə·yā·ḥêp̄|and barefoot|H3182|Conj-w | Adj-ms
 v3 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v3 יְהוָ֔ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v3 כַּאֲשֶׁ֥ר|ka·’ă·šer|Just as|H834|Prep-k | Pro-r
@@ -93,4 +93,4 @@ v6 מֶ֣לֶךְ|me·leḵ|the king|H4428|N-msc
 v6 אַשּׁ֑וּר|’aš·šūr|of Assyria|H804|N-proper-fs
 v6 וְאֵ֖יךְ|wə·’êḵ|How then|H349|Conj-w | Interjection
 v6 נִמָּלֵ֥ט|nim·mā·lêṭ|escape|H4422|V-Nifal-Imperf-1cp
-v6 אֲנָֽחְנוּ׃ס|’ă·nā·ḥə·nū|can we|H587|Pro-1cp
+v6 אֲנָֽחְנוּ׃|’ă·nā·ḥə·nū|can we|H587|Pro-1cp

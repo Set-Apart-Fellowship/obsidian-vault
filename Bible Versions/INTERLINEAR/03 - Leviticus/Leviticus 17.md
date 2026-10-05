@@ -202,7 +202,7 @@ v12 הַגָּ֥ר|hag·gār|living|H1481|Art | V-Qal-Prtcpl-ms
 v12 בְּתוֹכְכֶ֖ם|bə·ṯō·wḵ·ḵem|among you|H8432|Prep-b | N-msc | 2mp
 v12 לֹא־|lō-|nor may|H3808|Adv-NegPrt
 v12 יֹ֥אכַל|yō·ḵal|eat|H398|V-Qal-Imperf-3ms
-v12 דָּֽם׃ס|dām|blood|H1818|N-ms
+v12 דָּֽם׃|dām|blood|H1818|N-ms
 v13 וְאִ֨ישׁ|wə·’îš|And if any|H376|Conj-w | N-ms
 v13 אִ֜ישׁ|’îš|...|H376|N-ms
 v13 מִבְּנֵ֣י|mib·bə·nê|Israelite|H1121|Prep-m | N-mpc
@@ -229,7 +229,7 @@ v14 נֶ֣פֶשׁ|ne·p̄eš|the life|H5315|N-fsc
 v14 כָּל־|kāl-|of all|H3605|N-msc
 v14 בָּשָׂ֗ר|bā·śār|flesh|H1320|N-ms
 v14 דָּמ֣וֹ|dā·mōw|is its blood|H1818|N-msc | 3ms
-v14 בְנַפְשׁוֹ֮|ḇə·nap̄·šōw||H5315|Prep-b | N-fsc | 3ms
+v14 בְנַפְשׁוֹ֮|ḇə·nap̄·šōw|-|H5315|Prep-b | N-fsc | 3ms
 v14 הוּא֒|hū|-|H1931|Pro-3ms
 v14 וָֽאֹמַר֙|wā·’ō·mar|Therefore I have told|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v14 לִבְנֵ֣י|liḇ·nê|the Israelites|H1121|Prep-l | N-mpc
@@ -271,4 +271,4 @@ v16 וּבְשָׂר֖וֹ|ū·ḇə·śā·rōw|himself|H1320|Conj-w | N-msc | 
 v16 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v16 יִרְחָ֑ץ|yir·ḥāṣ|his clothes and bathe|H7364|V-Qal-Imperf-3ms
 v16 וְנָשָׂ֖א|wə·nā·śā|then he shall bear|H5375|Conj-w | V-Qal-ConjPerf-3ms
-v16 עֲוֺנֽוֹ׃פ|‘ă·wō·nōw|his iniquity|H5771|N-csc | 3ms
+v16 עֲוֺנֽוֹ׃|‘ă·wō·nōw|his iniquity|H5771|N-csc | 3ms

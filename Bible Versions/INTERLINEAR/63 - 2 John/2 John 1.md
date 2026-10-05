@@ -33,8 +33,8 @@ v2 καὶ|kai|and|G2532|Conj
 v2 μεθ’|meth’|with|G3326|Prep
 v2 ἡμῶν|hēmōn|us|G1473|PPro-G1P
 v2 ἔσται|estai|will be|G1510|V-FIM-3S
-v2 εἰς|eis|vvv|G1519|Prep
-v2 τὸν|ton|vvv|G3588|Art-AMS
+v2 εἰς|eis|...|G1519|Prep
+v2 τὸν|ton|...|G3588|Art-AMS
 v2 αἰῶνα|aiōna|forever|G165|N-AMS
 v3 Ἔσται|Estai|will be|G1510|V-FIM-3S
 v3 μεθ’|meth’|with|G3326|Prep
@@ -141,7 +141,7 @@ v7 ἀντίχριστος|antichristos|antichrist|G500|N-NMS
 v8 βλέπετε|blepete|Watch|G991|V-PMA-2P
 v8 ἑαυτούς|heautous|yourselves|G1438|RefPro-AM3P
 v8 ἵνα|hina|so that|G2443|Conj
-v8 μὴ|mē|vvv|G3361|Adv
+v8 μὴ|mē|...|G3361|Adv
 v8 ἀπολέσητε|apolesēte|you do not lose|G622|V-ASA-2P
 v8 ἃ|ha|what|G3739|RelPro-ANP
 v8 εἰργασάμεθα*|eirgasametha|we have worked for|G2038|V-AIM-1P
@@ -161,7 +161,7 @@ v9 διδαχῇ|didachē|teaching|G1322|N-DFS
 v9 τοῦ|tou|-|G3588|Art-GMS
 v9 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v9 Θεὸν|Theon|God|G2316|N-AMS
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἔχει|echei|does not have|G2192|V-PIA-3S
 v9 ὁ|ho|Whoever|G3588|Art-NMS
 v9 μένων|menōn|remains|G3306|V-PPA-NMS
@@ -185,7 +185,7 @@ v10 καὶ|kai|[but]|G2532|Conj
 v10 ταύτην|tautēn|this|G3778|DPro-AFS
 v10 τὴν|tēn|-|G3588|Art-AFS
 v10 διδαχὴν|didachēn|teaching|G1322|N-AFS
-v10 οὐ|ou|vvv|G3756|Adv
+v10 οὐ|ou|...|G3756|Adv
 v10 φέρει|pherei|does not bring|G5342|V-PIA-3S
 v10 μὴ|mē|{do} not|G3361|Adv
 v10 λαμβάνετε|lambanete|receive|G2983|V-PMA-2P

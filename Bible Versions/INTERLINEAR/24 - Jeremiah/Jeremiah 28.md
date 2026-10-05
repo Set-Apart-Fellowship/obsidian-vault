@@ -200,7 +200,7 @@ v11 הַגּוֹיִ֑ם|hag·gō·w·yim|the nations|H1471|Art | N-mp
 v11 וַיֵּ֛לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v11 יִרְמְיָ֥ה|yir·mə·yāh|At this, Jeremiah|H3414|N-proper-ms
 v11 הַנָּבִ֖יא|han·nā·ḇî|the prophet|H5030|Art | N-ms
-v11 לְדַרְכּֽוֹ׃פ|lə·ḏar·kōw|on his way|H1870|Prep-l | N-csc | 3ms
+v11 לְדַרְכּֽוֹ׃|lə·ḏar·kōw|on his way|H1870|Prep-l | N-csc | 3ms
 v12 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v12 דְבַר־|ḏə·ḇar-|the word|H1697|N-msc
 v12 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -258,7 +258,7 @@ v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 חַיַּ֥ת|ḥay·yaṯ|of the beasts|H2416|N-fsc
 v14 הַשָּׂדֶ֖ה|haś·śā·ḏeh|of the field|H7704|Art | N-ms
 v14 נָתַ֥תִּי|nā·ṯat·tî|given him control|H5414|V-Qal-Perf-1cs
-v14 לֽוֹ׃|lōw||H0|Prep | 3ms
+v14 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v15 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 יִרְמְיָ֧ה|yir·mə·yāh|Jeremiah|H3414|N-proper-ms
 v15 הַנָּבִ֛יא|han·nā·ḇî|Then the prophet|H5030|Art | N-ms
@@ -301,4 +301,4 @@ v17 הַנָּבִ֖יא|han·nā·ḇî|the prophet|H5030|Art | N-ms
 v17 בַּשָּׁנָ֣ה|baš·šā·nāh|year|H8141|Prep-b, Art | N-fs
 v17 הַהִ֑יא|ha·hî|of that very|H1931|Art | Pro-3fs
 v17 בַּחֹ֖דֶשׁ|ba·ḥō·ḏeš|month|H2320|Prep-b, Art | N-ms
-v17 הַשְּׁבִיעִֽי׃פ|haš·šə·ḇî·‘î|And in the seventh|H7637|Art | Number-oms
+v17 הַשְּׁבִיעִֽי׃|haš·šə·ḇî·‘î|And in the seventh|H7637|Art | Number-oms

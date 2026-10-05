@@ -18,7 +18,7 @@ v1 הַצַּדִּֽיק׃|haṣ·ṣad·dîq|the righteous|H6662|Art | Adj-ms
 v2 יָב֣וֹא|yā·ḇō·w|enter|H935|V-Qal-Imperf-3ms
 v2 שָׁל֔וֹם|šā·lō·wm|into peace|H7965|N-ms
 v2 יָנ֖וּחוּ|yā·nū·ḥū|they find rest|H5117|V-Qal-Imperf-3mp
-v2 עַל־|‘al-|vvv|H5921|Prep
+v2 עַל־|‘al-|...|H5921|Prep
 v2 מִשְׁכְּבוֹתָ֑ם|miš·kə·ḇō·w·ṯām|lying down in death|H4904|N-mpc | 3mp
 v2 הֹלֵ֖ךְ|hō·lêḵ|Those who walk|H1980|V-Qal-Prtcpl-ms
 v2 נְכֹחֽוֹ׃|nə·ḵō·ḥōw|uprightly|H5228|Adj-msc | 3ms
@@ -30,7 +30,7 @@ v3 עֹנְנָ֑ה|‘ō·nə·nāh|of a sorceress|H6049|V-Piel-Prtcpl-fs
 v3 זֶ֥רַע|ze·ra‘|you offspring|H2233|N-ms
 v3 מְנָאֵ֖ף|mə·nā·’êp̄|of adulterers|H5003|V-Piel-Prtcpl-ms
 v3 וַתִּזְנֶֽה׃|wat·tiz·neh|and prostitutes|H2181|Conj-w | V-Qal-ConsecImperf-3fs
-v4 עַל־|‘al-|vvv|H5921|Prep
+v4 עַל־|‘al-|...|H5921|Prep
 v4 מִי֙|mî|Whom|H4310|Interrog
 v4 תִּתְעַנָּ֔גוּ|tiṯ·‘an·nā·ḡū|are you mocking|H6026|V-Hitpael-Imperf-2mp
 v4 עַל־|‘al-|At|H5921|Prep
@@ -96,7 +96,7 @@ v8 הִרְחַ֤בְתְּ|hir·ḥaḇt|and opened it wide|H7337|V-Hifil-Perf-
 v8 מִשְׁכָּבֵךְ֙|miš·kā·ḇêḵ|your bed|H4904|N-msc | 2fs
 v8 וַתִּכְרָת־|wat·tiḵ·rāṯ-|And you have made a pact|H3772|Conj-w | V-Qal-ConsecImperf-2fs
 v8 לָ֣ךְ|lāḵ|with those|H0|Prep | 2fs
-v8 מֵהֶ֔ם|mê·hem||H0|Prep-m | Pro-3mp
+v8 מֵהֶ֔ם|mê·hem|-|H0|Prep-m | Pro-3mp
 v8 אָהַ֥בְתְּ|’ā·haḇt|you have loved|H157|V-Qal-Perf-2fs
 v8 מִשְׁכָּבָ֖ם|miš·kā·ḇām|whose bed|H4904|N-msc | 3mp
 v8 יָ֥ד|yāḏ|upon their nakedness|H3027|N-fs
@@ -177,7 +177,7 @@ v14 דָ֑רֶךְ|ḏā·reḵ|the way|H1870|N-cs
 v14 הָרִ֥ימוּ|hā·rî·mū|take|H7311|V-Hifil-Imp-mp
 v14 מִכְשׁ֖וֹל|miḵ·šō·wl|every obstacle|H4383|N-ms
 v14 מִדֶּ֥רֶךְ|mid·de·reḵ|out of the way|H1870|Prep-m | N-csc
-v14 עַמִּֽי׃ס|‘am·mî|of My people|H5971|N-msc | 1cs
+v14 עַמִּֽי׃|‘am·mî|of My people|H5971|N-msc | 1cs
 v15 כִּי֩|kî|For|H3588|Conj
 v15 כֹ֨ה|ḵōh|thus|H3541|Adv
 v15 אָמַ֜ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -257,4 +257,4 @@ v21 אֵ֣ין|’ên|There is no|H369|Adv
 v21 שָׁל֔וֹם|šā·lō·wm|peace|H7965|N-ms
 v21 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v21 אֱלֹהַ֖י|’ĕ·lō·hay|my God|H430|N-mpc | 1cs
-v21 לָרְשָׁעִֽים׃ס|lā·rə·šā·‘îm|for the wicked|H7563|Prep-l, Art | Adj-mp
+v21 לָרְשָׁעִֽים׃|lā·rə·šā·‘îm|for the wicked|H7563|Prep-l, Art | Adj-mp

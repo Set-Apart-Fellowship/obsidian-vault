@@ -237,4 +237,4 @@ v34 תְּנַחֲמ֣וּנִי|tə·na·ḥă·mū·nî|can you comfort me|H5
 v34 הָ֑בֶל|hā·ḇel|with empty words|H1892|N-ms
 v34 וּ֝תְשֽׁוּבֹתֵיכֶ֗ם|ū·ṯə·šū·ḇō·ṯê·ḵem|For your answers|H8666|Conj-w | N-fpc | 2mp
 v34 נִשְׁאַר־|niš·’ar-|remain|H7604|V-Nifal-Perf-3ms
-v34 מָֽעַל׃ס|mā·‘al|[full of] falsehood|H4604|N-ms
+v34 מָֽעַל׃|mā·‘al|[full of] falsehood|H4604|N-ms

@@ -4,7 +4,7 @@ v1 יוֹסֵ֜ף|yō·w·sêp̄|Then Joseph|H3130|N-proper-ms
 v1 לְהִתְאַפֵּ֗ק|lə·hiṯ·’ap·pêq|control himself|H662|Prep-l | V-Hitpael-Inf
 v1 לְכֹ֤ל|lə·ḵōl|before all|H3605|Prep-l | N-ms
 v1 הַנִּצָּבִים֙|han·niṣ·ṣā·ḇîm|his attendants|H5324|Art | V-Nifal-Prtcpl-mp
-v1 עָלָ֔יו|‘ā·lāw|vvv|H5921|Prep | 3ms
+v1 עָלָ֔יו|‘ā·lāw|...|H5921|Prep | 3ms
 v1 וַיִּקְרָ֕א|way·yiq·rā|and he cried out|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v1 הוֹצִ֥יאוּ|hō·w·ṣî·’ū|away|H3318|V-Hifil-Imp-mp
 v1 כָל־|ḵāl|Send everyone|H3605|N-msc
@@ -150,7 +150,7 @@ v10 וְצֹאנְךָ֥|wə·ṣō·nə·ḵā|your flocks|H6629|Conj-w | N-fsc
 v10 וּבְקָרְךָ֖|ū·ḇə·qā·rə·ḵā|and herds|H1241|Conj-w | N-msc | 2ms
 v10 וְכָל־|wə·ḵāl|and everything you own|H3605|Conj-w | N-msc
 v10 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v10 לָֽךְ׃|lāḵ||H0|Prep | 2fs
+v10 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs
 v11 וְכִלְכַּלְתִּ֤י|wə·ḵil·kal·tî|I will provide|H3557|Conj-w | V-Piel-ConjPerf-1cs
 v11 אֹֽתְךָ֙|’ō·ṯə·ḵā|for you|H853|DirObjM | 2ms
 v11 שָׁ֔ם|šām|And there|H8033|Adv
@@ -169,7 +169,7 @@ v11 לָֽךְ׃|lāḵ|you own|H0|Prep | 2fs
 v12 וְהִנֵּ֤ה|wə·hin·nêh|Behold|H2009|Conj-w | Interjection
 v12 עֵֽינֵיכֶם֙|‘ê·nê·ḵem|You|H5869|N-cdc | 2mp
 v12 רֹא֔וֹת|rō·’ō·wṯ|can see|H7200|V-Qal-Prtcpl-fp
-v12 וְעֵינֵ֖י|wə·‘ê·nê|vvv|H5869|Conj-w | N-cdc
+v12 וְעֵינֵ֖י|wə·‘ê·nê|...|H5869|Conj-w | N-cdc
 v12 אָחִ֣י|’ā·ḥî|and my brother|H251|N-msc | 1cs
 v12 בִנְיָמִ֑ין|ḇin·yā·mîn|Benjamin|H1144|N-proper-ms
 v12 כִּי־|kî-|that|H3588|Conj
@@ -273,7 +273,7 @@ v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 אֲבִיכֶ֖ם|’ă·ḇî·ḵem|your father|H1|N-msc | 2mp
 v19 וּבָאתֶֽם׃|ū·ḇā·ṯem|and come back|H935|Conj-w | V-Qal-ConjPerf-2mp
 v20 וְעֵ֣ינְכֶ֔ם|wə·‘ê·nə·ḵem|But pay no regard|H5869|Conj-w | N-csc | 2mp
-v20 אַל־|’al-|vvv|H408|Adv
+v20 אַל־|’al-|...|H408|Adv
 v20 תָּחֹ֖ס|tā·ḥōs|...|H2347|V-Qal-Imperf.Jus-2ms
 v20 עַל־|‘al-|to|H5921|Prep
 v20 כְּלֵיכֶ֑ם|kə·lê·ḵem|your belongings|H3627|N-mpc | 2mp
@@ -346,7 +346,7 @@ v25 אֶֽל־|’el-|to|H413|Prep
 v25 יַעֲקֹ֖ב|ya·‘ă·qōḇ|Jacob|H3290|N-proper-ms
 v25 אֲבִיהֶֽם׃|’ă·ḇî·hem|their father|H1|N-msc | 3mp
 v26 וַיַּגִּ֨דוּ|way·yag·gi·ḏū|they said|H5046|Conj-w | V-Hifil-ConsecImperf-3mp
-v26 ל֜וֹ|lōw||H0|Prep | 3ms
+v26 ל֜וֹ|lōw|-|H0|Prep | 3ms
 v26 לֵאמֹ֗ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v26 ע֚וֹד|‘ō·wḏ|is still|H5750|Adv
 v26 יוֹסֵ֣ף|yō·w·sêp̄|Joseph|H3130|N-proper-ms
@@ -364,7 +364,7 @@ v26 לֹא־|lō-|he did not|H3808|Adv-NegPrt
 v26 הֶאֱמִ֖ין|he·’ĕ·mîn|believe|H539|V-Hifil-Perf-3ms
 v26 לָהֶֽם׃|lā·hem|them|H0|Prep | 3mp
 v27 וַיְדַבְּר֣וּ|way·ḏab·bə·rū|However, when they relayed|H1696|Conj-w | V-Piel-ConsecImperf-3mp
-v27 אֵלָ֗יו|’ê·lāw||H413|Prep | 3ms
+v27 אֵלָ֗יו|’ê·lāw|-|H413|Prep | 3ms
 v27 אֵ֣ת|’êṯ|-|H853|DirObjM
 v27 כָּל־|kāl-|all|H3605|N-msc
 v27 דִּבְרֵ֤י|diḇ·rê|...|H1697|N-mpc

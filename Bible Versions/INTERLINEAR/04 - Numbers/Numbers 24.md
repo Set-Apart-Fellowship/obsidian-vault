@@ -85,7 +85,7 @@ v8 מוֹצִיא֣וֹ|mō·w·ṣî·’ōw|brought him|H3318|V-Hifil-Prtcpl-m
 v8 מִמִּצְרַ֔יִם|mim·miṣ·ra·yim|out of Egypt|H4714|Prep-m | N-proper-fs
 v8 כְּתוֹעֲפֹ֥ת|kə·ṯō·w·‘ă·p̄ōṯ|with strength|H8443|Prep-k | N-fpc
 v8 רְאֵ֖ם|rə·’êm|like a wild ox|H7214|N-ms
-v8 ל֑וֹ|lōw||H0|Prep | 3ms
+v8 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v8 יֹאכַ֞ל|yō·ḵal|to devour|H398|V-Qal-Imperf-3ms
 v8 גּוֹיִ֣ם|gō·w·yim|nations|H1471|N-mp
 v8 צָרָ֗יו|ṣā·rāw|hostile|H6862|N-mpc | 3ms
@@ -297,10 +297,10 @@ v24 עֲדֵ֥י|‘ă·ḏê|forever|H5704|Prep
 v24 אֹבֵֽד׃|’ō·ḇêḏ|will perish|H8|N-ms
 v25 וַיָּ֣קָם|way·yā·qām|arose|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v25 בִּלְעָ֔ם|bil·‘ām|Then Balaam|H1109|N-proper-ms
-v25 וַיֵּ֖לֶךְ|way·yê·leḵ|vvv|H1980|Conj-w | V-Qal-ConsecImperf-3ms
+v25 וַיֵּ֖לֶךְ|way·yê·leḵ|...|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v25 וַיָּ֣שָׁב|way·yā·šāḇ|and returned|H7725|Conj-w | V-Qal-ConsecImperf-3ms
 v25 לִמְקֹמ֑וֹ|lim·qō·mōw|to his homeland|H4725|Prep-l | N-msc | 3ms
 v25 וְגַם־|wə·ḡam-|also|H1571|Conj
 v25 בָּלָ֖ק|bā·lāq|and Balak|H1111|N-proper-ms
 v25 הָלַ֥ךְ|hā·laḵ|went|H1980|V-Qal-Perf-3ms
-v25 לְדַרְכּֽוֹ׃פ|lə·ḏar·kōw|on his way|H1870|Prep-l | N-csc | 3ms
+v25 לְדַרְכּֽוֹ׃|lə·ḏar·kōw|on his way|H1870|Prep-l | N-csc | 3ms

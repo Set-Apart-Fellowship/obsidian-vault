@@ -18,7 +18,7 @@ v1 וּבִין֙|ū·ḇîn|was given to him|H995|Conj-w | V-Qal-ConjPerf-3ms
 v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 הַדָּבָ֔ר|had·dā·ḇār|of the message|H1697|Art | N-ms
 v1 וּבִ֥ינָה|ū·ḇî·nāh|And the understanding|H998|Conj-w | N-fs
-v1 ל֖וֹ|lōw||H0|Prep | 3ms
+v1 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v1 בַּמַּרְאֶֽה׃|bam·mar·’eh|in a vision|H4758|Prep-b, Art | N-ms
 v2 בַּיָּמִ֖ים|bay·yā·mîm|days|H3117|Prep-b, Art | N-mp
 v2 הָהֵ֑ם|hā·hêm|In those|H1992|Art | Pro-3mp
@@ -46,7 +46,7 @@ v3 עַד־|‘aḏ-|until|H5704|Prep
 v3 מְלֹ֕את|mə·lōṯ|were completed|H4390|V-Qal-Inf
 v3 שְׁלֹ֥שֶׁת|šə·lō·šeṯ|the three|H7969|Number-msc
 v3 שָׁבֻעִ֖ים|šā·ḇu·‘îm|weeks|H7620|N-mp
-v3 יָמִֽים׃פ|yā·mîm|...|H3117|N-mp
+v3 יָמִֽים׃|yā·mîm|...|H3117|N-mp
 v4 וּבְי֛וֹם|ū·ḇə·yō·wm|day|H3117|Conj-w, Prep-b | N-msc
 v4 עֶשְׂרִ֥ים|‘eś·rîm|On the twenty-fourth|H6242|Number-cp
 v4 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
@@ -61,9 +61,9 @@ v4 הַגָּד֖וֹל|hag·gā·ḏō·wl|of the great|H1419|Art | Adj-ms
 v4 ה֥וּא|hū|...|H1931|Pro-3ms
 v4 חִדָּֽקֶל׃|ḥid·dā·qel|the Tigris|H2313|N-proper-fs
 v5 וָאֶשָּׂ֤א|wā·’eś·śā|I lifted up|H5375|Conj-w | V-Qal-ConsecImperf-1cs
-v5 אֶת־|’eṯ-||H853|DirObjM
+v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 עֵינַי֙|‘ê·nay|my eyes|H5869|N-cdc | 1cs
-v5 וָאֵ֔רֶא|wā·’ê·re|vvv|H7200|Conj-w | V-Qal-ConsecImperf-1cs
+v5 וָאֵ֔רֶא|wā·’ê·re|...|H7200|Conj-w | V-Qal-ConsecImperf-1cs
 v5 וְהִנֵּ֥ה|wə·hin·nêh|and behold|H2009|Conj-w | Interjection
 v5 אִישׁ־|’îš-|man|H376|N-ms
 v5 אֶחָ֖ד|’e·ḥāḏ|there was a certain|H259|Number-ms
@@ -244,7 +244,7 @@ v15 אַ֖רְצָה|’ar·ṣāh|toward the ground|H776|N-fs | 3fs
 v15 וְנֶאֱלָֽמְתִּי׃|wə·ne·’ĕ·lā·mə·tî|and became speechless|H481|Conj-w | V-Nifal-ConjPerf-1cs
 v16 וְהִנֵּ֗ה|wə·hin·nêh|And suddenly|H2009|Conj-w | Interjection
 v16 כִּדְמוּת֙|kiḏ·mūṯ|[one] with the likeness|H1823|Prep-k | N-fsc
-v16 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v16 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v16 אָדָ֔ם|’ā·ḏām|of a man|H120|N-ms
 v16 נֹגֵ֖עַ|nō·ḡê·a‘|touched|H5060|V-Qal-Prtcpl-ms
 v16 עַל־|‘al-|...|H5921|Prep
@@ -277,7 +277,7 @@ v17 וַאֲנִ֤י|wa·’ă·nî|I|H589|Conj-w | Pro-1cs
 v17 מֵעַ֙תָּה֙|mê·‘at·tāh|Now|H6258|Prep-m | Adv
 v17 לֹֽא־|lō-|no|H3808|Adv-NegPrt
 v17 יַעֲמָד־|ya·‘ă·māḏ-|have|H5975|V-Qal-Imperf-3ms
-v17 בִּ֣י|bî||H0|Prep | 1cs
+v17 בִּ֣י|bî|-|H0|Prep | 1cs
 v17 כֹ֔חַ|ḵō·aḥ|strength|H3581|N-ms
 v17 וּנְשָׁמָ֖ה|ū·nə·šā·māh|is any breath|H5397|Conj-w | N-fs
 v17 לֹ֥א|lō|nor|H3808|Adv-NegPrt
@@ -339,4 +339,4 @@ v21 אֵ֔לֶּה|’êl·leh|these|H428|Pro-cp
 v21 כִּ֥י|kî|except|H3588|Conj
 v21 אִם־|’im-|...|H518|Conj
 v21 מִיכָאֵ֖ל|mî·ḵā·’êl|Michael|H4317|N-proper-ms
-v21 שַׂרְכֶֽם׃פ|śar·ḵem|your prince|H8269|N-msc | 2mp
+v21 שַׂרְכֶֽם׃|śar·ḵem|your prince|H8269|N-msc | 2mp

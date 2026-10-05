@@ -5,7 +5,7 @@ v1 אִשָּׁ֖ה|’iš·šāh|wife|H802|N-fs
 v1 וּשְׁמָ֥הּ|ū·šə·māh|named|H8034|Conj-w | N-msc | 3fs
 v1 קְטוּרָֽה׃|qə·ṭū·rāh|Keturah|H6989|N-proper-fs
 v2 וַתֵּ֣לֶד|wat·tê·leḏ|and she bore|H3205|Conj-w | V-Qal-ConsecImperf-3fs
-v2 ל֗וֹ|lōw||H0|Prep | 3ms
+v2 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v2 אֶת־|’eṯ-|him|H853|DirObjM
 v2 זִמְרָן֙|zim·rān|Zimran|H2175|N-proper-ms
 v2 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -130,9 +130,9 @@ v11 בְּנ֑וֹ|bə·nōw|his son|H1121|N-msc | 3ms
 v11 וַיֵּ֣שֶׁב|way·yê·šeḇ|lived|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v11 יִצְחָ֔ק|yiṣ·ḥāq|who|H3327|N-proper-ms
 v11 עִם־|‘im-|near|H5973|Prep
-v11 בְּאֵ֥ר|bə·’êr|vvv|H883|Prep
-v11 לַחַ֖י|la·ḥay|vvv|H883|Prep
-v11 רֹאִֽי׃ס|rō·’î|Beer-lahai-roi|H883|N-proper-fs
+v11 בְּאֵ֥ר|bə·’êr|...|H883|Prep
+v11 לַחַ֖י|la·ḥay|...|H883|Prep
+v11 רֹאִֽי׃|rō·’î|Beer-lahai-roi|H883|N-proper-fs
 v12 וְאֵ֛לֶּה|wə·’êl·leh|This|H428|Conj-w | Pro-cp
 v12 תֹּלְדֹ֥ת|tō·lə·ḏōṯ|is the account|H8435|N-fpc
 v12 יִשְׁמָעֵ֖אל|yiš·mā·‘êl|Ishmael|H3458|N-proper-ms
@@ -149,7 +149,7 @@ v13 וְאֵ֗לֶּה|wə·’êl·leh|These|H428|Conj-w | Pro-cp
 v13 שְׁמוֹת֙|šə·mō·wṯ|are the names|H8034|N-mpc
 v13 בְּנֵ֣י|bə·nê|of the sons|H1121|N-mpc
 v13 יִשְׁמָעֵ֔אל|yiš·mā·‘êl|of Ishmael|H3458|N-proper-ms
-v13 בִּשְׁמֹתָ֖ם|biš·mō·ṯām|vvv|H8034|Prep-b | N-mpc | 3mp
+v13 בִּשְׁמֹתָ֖ם|biš·mō·ṯām|...|H8034|Prep-b | N-mpc | 3mp
 v13 לְתוֹלְדֹתָ֑ם|lə·ṯō·wl·ḏō·ṯām|in the order of their birth|H8435|Prep-l | N-fpc | 3mp
 v13 בְּכֹ֤ר|bə·ḵōr|the firstborn|H1060|N-msc
 v13 יִשְׁמָעֵאל֙|yiš·mā·‘êl|of Ishmael|H3458|N-proper-ms
@@ -206,7 +206,7 @@ v18 עַל־|‘al-|in hostility|H5921|Prep
 v18 פְּנֵ֥י|pə·nê|toward|H6440|N-cpc
 v18 כָל־|ḵāl|all|H3605|N-msc
 v18 אֶחָ֖יו|’e·ḥāw|their brothers|H251|N-mpc | 3ms
-v18 נָפָֽל׃פ|nā·p̄āl|And they lived|H5307|V-Qal-Perf-3ms
+v18 נָפָֽל׃|nā·p̄āl|And they lived|H5307|V-Qal-Perf-3ms
 v19 וְאֵ֛לֶּה|wə·’êl·leh|This|H428|Conj-w | Pro-cp
 v19 תּוֹלְדֹ֥ת|tō·wl·ḏōṯ|is the account|H8435|N-fpc
 v19 יִצְחָ֖ק|yiṣ·ḥāq|Isaac|H3327|N-proper-ms
@@ -227,13 +227,13 @@ v20 רִבְקָ֗ה|riḇ·qāh|Rebekah|H7259|N-proper-fs
 v20 בַּת־|baṯ-|the daughter|H1323|N-fsc
 v20 בְּתוּאֵל֙|bə·ṯū·’êl|of Bethuel|H1328|N-proper-ms
 v20 הָֽאֲרַמִּ֔י|hā·’ă·ram·mî|the Aramean|H761|Art | N-proper-ms
-v20 מִפַּדַּ֖ן|mip·pad·dan|vvv|H6307|Prep
+v20 מִפַּדַּ֖ן|mip·pad·dan|...|H6307|Prep
 v20 אֲרָ֑ם|’ă·rām|from Paddan-aram|H758|Prep | N-proper-fs
 v20 אֲח֛וֹת|’ă·ḥō·wṯ|and the sister|H269|N-fsc
 v20 לָבָ֥ן|lā·ḇān|of Laban|H3837|N-proper-ms
 v20 הָאֲרַמִּ֖י|hā·’ă·ram·mî|the Aramean|H761|Art | N-proper-ms
-v20 ל֥וֹ|lōw||H0|Prep | 3ms
-v20 לְאִשָּֽׁה׃|lə·’iš·šāh||H802|Prep-l | N-fs
+v20 ל֥וֹ|lōw|-|H0|Prep | 3ms
+v20 לְאִשָּֽׁה׃|lə·’iš·šāh|-|H802|Prep-l | N-fs
 v21 וַיֶּעְתַּ֨ר|way·ye‘·tar|prayed|H6279|Conj-w | V-Qal-ConsecImperf-3ms
 v21 יִצְחָ֤ק|yiṣ·ḥāq|Later, Isaac|H3327|N-proper-ms
 v21 לַֽיהוָה֙|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
@@ -243,7 +243,7 @@ v21 כִּ֥י|kî|because|H3588|Conj
 v21 עֲקָרָ֖ה|‘ă·qā·rāh|[was] barren|H6135|Adj-fs
 v21 הִ֑וא|hî|she|H1931|Pro-3fs
 v21 וַיֵּעָ֤תֶר|way·yê·‘ā·ṯer|heard his prayer|H6279|Conj-w | V-Nifal-ConsecImperf-3ms
-v21 לוֹ֙|lōw||H0|Prep | 3ms
+v21 לוֹ֙|lōw|-|H0|Prep | 3ms
 v21 יְהוָ֔ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v21 וַתַּ֖הַר|wat·ta·har|conceived|H2029|Conj-w | V-Qal-ConsecImperf-3fs
 v21 רִבְקָ֥ה|riḇ·qāh|Rebekah|H7259|N-proper-fs
@@ -381,7 +381,7 @@ v32 בְּכֹרָֽה׃|bə·ḵō·rāh|is a birthright|H1062|N-fs
 v33 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v33 יַעֲקֹ֗ב|ya·‘ă·qōḇ|Jacob|H3290|N-proper-ms
 v33 הִשָּׁ֤בְעָה|hiš·šā·ḇə·‘āh|Swear to me first|H7650|V-Nifal-Imp-ms | 3fs
-v33 לִּי֙|lî||H0|Prep | 1cs
+v33 לִּי֙|lî|-|H0|Prep | 1cs
 v33 כַּיּ֔וֹם|kay·yō·wm|-|H3117|Prep-k, Art | N-ms
 v33 וַיִּשָּׁבַ֖ע|way·yiš·šā·ḇa‘|So [Esau] swore|H7650|Conj-w | V-Nifal-ConsecImperf-3ms
 v33 ל֑וֹ|lōw|to [Jacob]|H0|Prep | 3ms
@@ -402,4 +402,4 @@ v34 וַיֵּלַ֑ךְ|way·yê·laḵ|and went away|H1980|Conj-w | V-Qal-Cons
 v34 וַיִּ֥בֶז|way·yi·ḇez|despised|H959|Conj-w | V-Qal-ConsecImperf-3ms
 v34 עֵשָׂ֖ו|‘ê·śāw|Thus Esau|H6215|N-proper-ms
 v34 אֶת־|’eṯ-|-|H853|DirObjM
-v34 הַבְּכֹרָֽה׃ס|hab·bə·ḵō·rāh|his birthright|H1062|Art | N-fs
+v34 הַבְּכֹרָֽה׃|hab·bə·ḵō·rāh|his birthright|H1062|Art | N-fs

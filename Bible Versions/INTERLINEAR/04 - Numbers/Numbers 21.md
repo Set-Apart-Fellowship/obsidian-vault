@@ -43,7 +43,7 @@ v3 עָרֵיהֶ֑ם|‘ā·rê·hem|their cities {to destruction}|H5892|N-fpc 
 v3 וַיִּקְרָ֥א|way·yiq·rā|so they named|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v3 שֵׁם־|šêm-|...|H8034|N-msc
 v3 הַמָּק֖וֹם|ham·mā·qō·wm|the place|H4725|Art | N-ms
-v3 חָרְמָֽה׃פ|ḥā·rə·māh|Hormah|H2767|N-proper-fs
+v3 חָרְמָֽה׃|ḥā·rə·māh|Hormah|H2767|N-proper-fs
 v4 וַיִּסְע֞וּ|way·yis·‘ū|Then they set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v4 מֵהֹ֤ר|mê·hōr|Hor|H2023|Prep-m | N-proper-fs
 v4 הָהָר֙|hā·hār|from Mount|H2022|Art | N-ms
@@ -86,7 +86,7 @@ v6 וַֽיְנַשְּׁכ֖וּ|way·naš·šə·ḵū|were bitten|H5391|Conj-
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 הָעָ֑ם|hā·‘ām|-|H5971|Art | N-ms
 v6 וַיָּ֥מָת|way·yā·māṯ|and died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
-v6 עַם־|‘am-|vvv|H5971|N-ms
+v6 עַם־|‘am-|...|H5971|N-ms
 v6 רָ֖ב|rāḇ|and many|H7227|Adj-ms
 v6 מִיִּשְׂרָאֵֽל׃|mî·yiś·rā·’êl|of the Israelites|H3478|Prep-m | N-proper-ms
 v7 וַיָּבֹא֩|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
@@ -115,7 +115,7 @@ v8 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v8 אֶל־|’el-|to|H413|Prep
 v8 מֹשֶׁ֗ה|mō·šeh|Moses|H4872|N-proper-ms
 v8 עֲשֵׂ֤ה|‘ă·śêh|Make|H6213|V-Qal-Imp-ms
-v8 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v8 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v8 שָׂרָ֔ף|śā·rāp̄|a fiery serpent|H8314|N-ms
 v8 וְשִׂ֥ים|wə·śîm|and mount|H7760|Conj-w | V-Qal-Imp-ms
 v8 אֹת֖וֹ|’ō·ṯōw|it|H853|DirObjM | 3ms
@@ -153,12 +153,12 @@ v10 בְּאֹבֹֽת׃|bə·’ō·ḇōṯ|at Oboth|H88|Prep-b | N-proper-fs
 v11 וַיִּסְע֖וּ|way·yis·‘ū|They journeyed|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v11 מֵאֹבֹ֑ת|mê·’ō·ḇōṯ|from Oboth|H88|Prep-m | N-proper-fs
 v11 וַֽיַּחֲנ֞וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
-v11 בְּעִיֵּ֣י|bə·‘î·yê|vvv|H5863|Prep-b | N-proper-fs
+v11 בְּעִיֵּ֣י|bə·‘î·yê|...|H5863|Prep-b | N-proper-fs
 v11 הָֽעֲבָרִ֗ים|hā·‘ă·ḇā·rîm|at Iye-abarim|H5863|Prep, Art | N-ms
 v11 בַּמִּדְבָּר֙|bam·miḏ·bār|in the wilderness|H4057|Pro-r
 v11 אֲשֶׁר֙|’ă·šer|-|H834|Prep
 v11 עַל־|‘al-|opposite|H5921|Prep
-v11 פְּנֵ֣י|pə·nê||H6440|N-cpc
+v11 פְּנֵ֣י|pə·nê|-|H6440|N-cpc
 v11 מוֹאָ֔ב|mō·w·’āḇ|Moab|H4124|N-proper-fs
 v11 מִמִּזְרַ֖ח|mim·miz·raḥ|to the east|H4217|Prep-m | N-msc
 v11 הַשָּֽׁמֶשׁ׃|haš·šā·meš|...|H8121|Art | N-cs
@@ -191,7 +191,7 @@ v14 יֵֽאָמַ֔ר|yê·’ā·mar|it is stated|H559|V-Nifal-Imperf-3ms
 v14 בְּסֵ֖פֶר|bə·sê·p̄er|in the Book|H5612|Prep-b | N-msc
 v14 מִלְחֲמֹ֣ת|mil·ḥă·mōṯ|of the Wars|H4421|N-fpc
 v14 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v14 אֶת־|’eṯ-||H853|DirObjM
+v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 וָהֵ֣ב|wā·hêḇ|Waheb|H2052|N-proper-fs
 v14 בְּסוּפָ֔ה|bə·sū·p̄āh|in Suphah|H5492|Prep-b | N-proper-fs
 v14 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
@@ -219,7 +219,7 @@ v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 הָעָ֔ם|hā·‘ām|the people|H5971|Art | N-ms
 v16 וְאֶתְּנָ֥ה|wə·’et·tə·nāh|so that I may give|H5414|Conj-w | V-Qal-ConjImperf.Cohort-1cs
 v16 לָהֶ֖ם|lā·hem|them|H0|Prep | 3mp
-v16 מָֽיִם׃ס|mā·yim|water|H4325|N-mp
+v16 מָֽיִם׃|mā·yim|water|H4325|N-mp
 v17 אָ֚ז|’āz|Then|H227|Adv
 v17 יָשִׁ֣יר|yā·šîr|sang|H7891|V-Qal-Imperf-3ms
 v17 יִשְׂרָאֵ֔ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
@@ -254,7 +254,7 @@ v20 הַפִּסְגָּ֑ה|hap·pis·gāh|of Pisgah|H6449|Art | N-proper-fs
 v20 וְנִשְׁקָ֖פָה|wə·niš·qā·p̄āh|overlooks|H8259|Conj-w | V-Nifal-ConjPerf-3fs
 v20 עַל־|‘al-|...|H5921|Prep
 v20 פְּנֵ֥י|pə·nê|...|H6440|N-cpc
-v20 הַיְשִׁימֹֽן׃פ|hay·šî·mōn|the wasteland|H3452|Art | N-ms
+v20 הַיְשִׁימֹֽן׃|hay·šî·mōn|the wasteland|H3452|Art | N-ms
 v21 וַיִּשְׁלַ֤ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v21 יִשְׂרָאֵל֙|yiś·rā·’êl|Then Israel|H3478|N-proper-ms
 v21 מַלְאָכִ֔ים|mal·’ā·ḵîm|messengers|H4397|N-mp
@@ -302,7 +302,7 @@ v23 וַיִּלָּ֖חֶם|way·yil·lā·ḥem|he fought|H3898|Conj-w | V-Nif
 v23 בְּיִשְׂרָאֵֽל׃|bə·yiś·rā·’êl|against Israel|H3478|Prep-b | N-proper-ms
 v24 וַיַּכֵּ֥הוּ|way·yak·kê·hū|put him|H5221|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
 v24 יִשְׂרָאֵ֖ל|yiś·rā·’êl|And Israel|H3478|N-proper-ms
-v24 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v24 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v24 חָ֑רֶב|ḥā·reḇ|to the sword|H2719|N-fs
 v24 וַיִּירַ֨שׁ|way·yî·raš|and took possession of|H3423|Conj-w | V-Qal-ConsecImperf-3ms
 v24 אֶת־|’eṯ-|-|H853|DirObjM
@@ -465,7 +465,7 @@ v35 עַמּ֔וֹ|‘am·mōw|army|H5971|N-msc | 3ms
 v35 עַד־|‘aḏ-|until|H5704|Prep
 v35 בִּלְתִּ֥י|bil·tî|no|H1115|Prep
 v35 הִשְׁאִֽיר־|hiš·’îr-|remnant was left|H7604|V-Hifil-Perf-3ms
-v35 ל֖וֹ|lōw||H0|Prep | 3ms
+v35 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v35 שָׂרִ֑יד|śā·rîḏ|-|H8300|N-ms
 v35 וַיִּֽירְשׁ֖וּ|way·yî·rə·šū|And they took possession of|H3423|Conj-w | V-Qal-ConsecImperf-3mp
 v35 אֶת־|’eṯ-|-|H853|DirObjM

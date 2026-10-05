@@ -36,7 +36,7 @@ v3 וְצ֥וּדָה|wə·ṣū·ḏāh|to hunt|H6679|Conj-w | V-Qal-Imp-ms | 3
 v3 לִּ֖י|lî|for me|H0|Prep | 1cs
 v3 צֵידָה׃|ṣē·ḏå̄h|some game|H6718|N-ms
 v4 וַעֲשֵׂה־|wa·‘ă·śêh-|Then prepare|H6213|Conj-w | V-Qal-Imp-ms
-v4 לִ֨י|lî||H0|Prep | 1cs
+v4 לִ֨י|lî|-|H0|Prep | 1cs
 v4 מַטְעַמִּ֜ים|maṭ·‘am·mîm|a tasty dish|H4303|N-mp
 v4 כַּאֲשֶׁ֥ר|ka·’ă·šer|that|H834|Prep-k | Pro-r
 v4 אָהַ֛בְתִּי|’ā·haḇ·tî|I love|H157|V-Qal-Perf-1cs
@@ -146,7 +146,7 @@ v12 קְלָלָ֖ה|qə·lā·lāh|a curse|H7045|N-fs
 v12 וְלֹ֥א|wə·lō|rather than|H3808|Conj-w | Adv-NegPrt
 v12 בְרָכָֽה׃|ḇə·rā·ḵāh|a blessing|H1293|N-fs
 v13 וַתֹּ֤אמֶר|wat·tō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v13 לוֹ֙|lōw||H0|Prep | 3ms
+v13 לוֹ֙|lōw|-|H0|Prep | 3ms
 v13 אִמּ֔וֹ|’im·mōw|His mother|H517|N-fsc | 3ms
 v13 עָלַ֥י|‘ā·lay|be on me|H5921|Prep | 1cs
 v13 קִלְלָתְךָ֖|qil·lā·ṯə·ḵā|Your curse|H7045|N-fsc | 2ms
@@ -183,7 +183,7 @@ v15 אֶֽת־|’eṯ-|-|H853|DirObjM
 v15 יַעֲקֹ֖ב|ya·‘ă·qōḇ|Jacob|H3290|N-proper-ms
 v15 בְּנָ֥הּ|bə·nāh|son|H1121|N-msc | 3fs
 v15 הַקָּטָֽן׃|haq·qā·ṭān|her younger|H6996|Art | Adj-ms
-v16 וְאֵ֗ת|wə·’êṯ|vvv|H853|Conj-w | DirObjM
+v16 וְאֵ֗ת|wə·’êṯ|...|H853|Conj-w | DirObjM
 v16 עֹרֹת֙|‘ō·rōṯ|the skins|H5785|N-mpc
 v16 גְּדָיֵ֣י|gə·ḏā·yê|of the young|H1423|N-mpc
 v16 הָֽעִזִּ֔ים|hā·‘iz·zîm|goats|H5795|Art | N-fp
@@ -321,7 +321,7 @@ v27 וַיִּשַּׁק־|way·yiš·šaq-|and kissed|H5401|Conj-w | V-Qal-Cons
 v27 ל֔וֹ|lōw|him|H0|Prep | 3ms
 v27 וַיָּ֛רַח|way·yā·raḥ|When Isaac smelled|H7306|Conj-w | V-Hifil-ConsecImperf-3ms
 v27 אֶת־|’eṯ-|-|H853|DirObjM
-v27 רֵ֥יחַ|rê·aḥ||H7381|N-msc
+v27 רֵ֥יחַ|rê·aḥ|-|H7381|N-msc
 v27 בְּגָדָ֖יו|bə·ḡā·ḏāw|his clothing|H899|N-mpc | 3ms
 v27 וַֽיְבָרֲכֵ֑הוּ|way·ḇā·ră·ḵê·hū|he blessed him|H1288|Conj-w | V-Piel-ConsecImperf-3ms | 3ms
 v27 וַיֹּ֗אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -396,7 +396,7 @@ v31 בַּעֲב֖וּר|ba·‘ă·ḇūr|so that|H5668|Prep-b | N-ms
 v31 תְּבָרֲכַ֥נִּי|tə·ḇā·ră·ḵan·nî|may bless me|H1288|V-Piel-Imperf-3fs | 1cse
 v31 נַפְשֶֽׁךָ׃|nap̄·še·ḵā|you|H5315|N-fsc | 2ms
 v32 וַיֹּ֥אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v32 ל֛וֹ|lōw||H0|Prep | 3ms
+v32 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v32 יִצְחָ֥ק|yiṣ·ḥāq|Isaac|H3327|N-proper-ms
 v32 אָבִ֖יו|’ā·ḇîw|But his father|H1|N-msc | 3ms
 v32 מִי־|mî-|Who|H4310|Interrog
@@ -500,7 +500,7 @@ v38 אָבִ֗יו|’ā·ḇîw|his father|H1|N-msc | 3ms
 v38 הַֽבְרָכָ֨ה|haḇ·rā·ḵāh|blessing|H1293|Art | N-fs
 v38 אַחַ֤ת|’a·ḥaṯ|Do you have only one|H259|Number-fs
 v38 הִֽוא־|hî|...|H1931|Pro-3fs
-v38 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v38 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v38 אָבִ֔י|’ā·ḇî|my father|H1|N-msc | 1cs
 v38 בָּרֲכֵ֥נִי|bā·ră·ḵê·nî|Bless me|H1288|V-Piel-Imp-ms | 1cs
 v38 גַם־|ḡam-|too|H1571|Conj
@@ -582,7 +582,7 @@ v43 שְׁמַ֣ע|šə·ma‘|obey|H8085|V-Qal-Imp-ms
 v43 בְּקֹלִ֑י|bə·qō·lî|my voice|H6963|Prep-b | N-msc | 1cs
 v43 וְק֧וּם|wə·qūm|at once|H6965|Conj-w | V-Qal-Imp-ms
 v43 בְּרַח־|bə·raḥ-|and flee|H1272|V-Qal-Imp-ms
-v43 לְךָ֛|lə·ḵā||H0|Prep | 2ms
+v43 לְךָ֛|lə·ḵā|-|H0|Prep | 2ms
 v43 אֶל־|’el-|to|H413|Prep
 v43 לָבָ֥ן|lā·ḇān|Laban|H3837|N-proper-ms
 v43 אָחִ֖י|’ā·ḥî|my brother|H251|N-msc | 1cs

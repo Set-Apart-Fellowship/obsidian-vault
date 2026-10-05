@@ -43,14 +43,14 @@ v4 סִינַ֔י|sî·nay|of Sinai|H5514|N-proper-fs
 v4 וּבָנִ֖ים|ū·ḇā·nîm|sons|H1121|Conj-w | N-mp
 v4 לֹא־|lō-|no|H3808|Adv-NegPrt
 v4 הָי֣וּ|hā·yū|And since they had|H1961|V-Qal-Perf-3cp
-v4 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v4 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v4 וַיְכַהֵ֤ן|way·ḵa·hên|served as priests|H3547|Conj-w | V-Piel-ConsecImperf-3ms
 v4 אֶלְעָזָר֙|’el·‘ā·zār|only Eleazar|H499|N-proper-ms
 v4 וְאִ֣יתָמָ֔ר|wə·’î·ṯā·mār|and Ithamar|H385|Conj-w | N-proper-ms
 v4 עַל־|‘al-|during|H5921|Prep
 v4 פְּנֵ֖י|pə·nê|the lifetime|H6440|N-cpc
 v4 אַהֲרֹ֥ן|’a·hă·rōn|Aaron|H175|N-proper-ms
-v4 אֲבִיהֶֽם׃פ|’ă·ḇî·hem|of their father|H1|N-msc | 3mp
+v4 אֲבִיהֶֽם׃|’ă·ḇî·hem|of their father|H1|N-msc | 3mp
 v5 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v5 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v5 אֶל־|’el-|to|H413|Prep
@@ -117,7 +117,7 @@ v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 כְּהֻנָּתָ֑ם|kə·hun·nā·ṯām|the duties of the priesthood|H3550|N-fsc | 3mp
 v10 וְהַזָּ֥ר|wə·haz·zār|but any outsider|H2114|Conj-w, Art | Adj-ms
 v10 הַקָּרֵ֖ב|haq·qā·rêḇ|who approaches [the tabernacle]|H7131|Art | Adj-ms
-v10 יוּמָֽת׃פ|yū·māṯ|must be put to death|H4191|V-Hofal-Imperf-3ms
+v10 יוּמָֽת׃|yū·māṯ|must be put to death|H4191|V-Hofal-Imperf-3ms
 v11 וַיְדַבֵּ֥ר|way·ḏab·bêr|spoke|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v11 יְהוָ֖ה|Yah·weh|Again the LORD|H3068|N-proper-ms
 v11 אֶל־|’el-|to|H413|Prep
@@ -162,7 +162,7 @@ v13 בְּהֵמָ֑ה|bə·hê·māh|beast|H929|N-fs
 v13 לִ֥י|lî|Mine|H0|Prep | 1cs
 v13 יִהְי֖וּ|yih·yū|They are|H1961|V-Qal-Imperf-3mp
 v13 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v13 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v13 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v14 וַיְדַבֵּ֤ר|way·ḏab·bêr|spoke|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v14 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v14 אֶל־|’el-|to|H413|Prep
@@ -289,11 +289,11 @@ v26 עֲבֹדָתֽוֹ׃|‘ă·ḇō·ḏā·ṯōw|the service [for these i
 v27 וְלִקְהָ֗ת|wə·liq·hāṯ|From Kohath came|H6955|Conj-w, Prep-l | N-proper-ms
 v27 מִשְׁפַּ֤חַת|miš·pa·ḥaṯ|the clans|H4940|N-fsc
 v27 הַֽעַמְרָמִי֙|ha·‘am·rā·mî|of the Amramites|H6020|Art | N-proper-ms
-v27 וּמִשְׁפַּ֣חַת|ū·miš·pa·ḥaṯ||H4940|Conj-w | N-fsc
+v27 וּמִשְׁפַּ֣חַת|ū·miš·pa·ḥaṯ|-|H4940|Conj-w | N-fsc
 v27 הַיִּצְהָרִ֔י|hay·yiṣ·hā·rî|the Izharites|H3325|Art | N-proper-ms
-v27 וּמִשְׁפַּ֙חַת֙|ū·miš·pa·ḥaṯ||H4940|Conj-w | N-fsc
+v27 וּמִשְׁפַּ֙חַת֙|ū·miš·pa·ḥaṯ|-|H4940|Conj-w | N-fsc
 v27 הַֽחֶבְרֹנִ֔י|ha·ḥeḇ·rō·nî|the Hebronites|H2276|Art | N-proper-ms
-v27 וּמִשְׁפַּ֖חַת|ū·miš·pa·ḥaṯ||H4940|Conj-w | N-fsc
+v27 וּמִשְׁפַּ֖חַת|ū·miš·pa·ḥaṯ|-|H4940|Conj-w | N-fsc
 v27 הָֽעָזִּיאֵלִ֑י|hā·‘āz·zî·’ê·lî|and the Uzzielites|H5817|Art | N-proper-ms
 v27 אֵ֥לֶּה|’êl·leh|these|H428|Pro-cp
 v27 הֵ֖ם|hêm|...|H1992|Pro-3mp
@@ -323,7 +323,7 @@ v29 תֵּימָֽנָה׃|tê·mā·nāh|the south|H8486|N-fs | 3fs
 v30 וּנְשִׂ֥יא|ū·nə·śî|and the leader|H5387|Conj-w | N-msc
 v30 בֵֽית־|ḇêṯ-|of the families|H1004|N-msc
 v30 אָ֖ב|’āḇ|...|H1|N-ms
-v30 לְמִשְׁפְּחֹ֣ת|lə·miš·pə·ḥōṯ||H4940|Prep-l | N-fpc
+v30 לְמִשְׁפְּחֹ֣ת|lə·miš·pə·ḥōṯ|-|H4940|Prep-l | N-fpc
 v30 הַקְּהָתִ֑י|haq·qə·hā·ṯî|of the Kohathites|H6956|Art | N-proper-ms
 v30 אֶלִיצָפָ֖ן|ʾɛ·lī·ṣå̄·p̄å̄n|was Elizaphan|H469|N-proper-ms
 v30 בֶּן־|ben-|son|H1121|N-msc
@@ -404,7 +404,7 @@ v37 וְאַדְנֵיהֶ֑ם|wə·’aḏ·nê·hem|with their bases|H134|Conj
 v37 וִיתֵדֹתָ֖ם|wî·ṯê·ḏō·ṯām|tent pegs|H3489|Conj-w | N-fpc | 3mp
 v37 וּמֵֽיתְרֵיהֶֽם׃|ū·mê·ṯə·rê·hem|and ropes|H4340|Conj-w | N-mpc | 3mp
 v38 וְהַחֹנִ֣ים|wə·ha·ḥō·nîm|were to camp|H2583|Conj-w, Art | V-Qal-Prtcpl-mp
-v38 לִפְנֵ֣י|lip̄·nê||H6440|Prep-l | N-cpc
+v38 לִפְנֵ֣י|lip̄·nê|-|H6440|Prep-l | N-cpc
 v38 הַמִּשְׁכָּ֡ן|ham·miš·kān|of the tabernacle|H4908|Art | N-ms
 v38 קֵ֣דְמָה|qê·ḏə·māh|to the east|H6924|Adv | 3fs
 v38 לִפְנֵי֩|lip̄·nê|before|H6440|Prep-l | N-cpc
@@ -418,7 +418,7 @@ v38 שֹֽׁמְרִים֙|šō·mə·rîm|They were to perform|H8104|V-Qal-Prtc
 v38 מִשְׁמֶ֣רֶת|miš·me·reṯ|the duties|H4931|N-fsc
 v38 הַמִּקְדָּ֔שׁ|ham·miq·dāš|of the sanctuary|H4720|Art | N-ms
 v38 לְמִשְׁמֶ֖רֶת|lə·miš·me·reṯ|as a service|H4931|Prep-l | N-fsc
-v38 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v38 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v38 יִשְׂרָאֵ֑ל|yiś·rā·’êl|on behalf of the Israelites|H3478|N-proper-ms
 v38 וְהַזָּ֥ר|wə·haz·zār|but any outsider|H2114|Conj-w, Art | Adj-ms
 v38 הַקָּרֵ֖ב|haq·qā·rêḇ|who approached [the sanctuary]|H7131|Art | Adj-ms
@@ -441,7 +441,7 @@ v39 חֹ֣דֶשׁ|ḥō·ḏeš|a month|H2320|N-ms
 v39 וָמַ֔עְלָה|wā·ma‘·lāh|or more|H4605|Conj-w | Adv | 3fs
 v39 שְׁנַ֥יִם|šə·na·yim|was 22,000|H8147|Number-md
 v39 וְעֶשְׂרִ֖ים|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
-v39 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v39 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v40 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v40 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v40 אֶל־|’el-|...|H413|Prep
@@ -450,7 +450,7 @@ v40 פְּקֹ֨ד|pə·qōḏ|Number|H6485|V-Qal-Imp-ms
 v40 כָּל־|kāl-|every|H3605|N-msc
 v40 בְּכֹ֤ר|bə·ḵōr|firstborn|H1060|N-ms
 v40 זָכָר֙|zā·ḵār|male|H2145|N-ms
-v40 לִבְנֵ֣י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v40 לִבְנֵ֣י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v40 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v40 מִבֶּן־|mib·ben-|old|H1121|Prep-m | N-msc
 v40 חֹ֖דֶשׁ|ḥō·ḏeš|a month|H2320|N-ms
@@ -468,7 +468,7 @@ v41 יְהוָ֔ה|Yah·weh|am the LORD|H3068|N-proper-ms
 v41 תַּ֥חַת|ta·ḥaṯ|in place of|H8478|Prep
 v41 כָּל־|kāl-|all|H3605|N-msc
 v41 בְּכֹ֖ר|bə·ḵōr|the firstborn|H1060|N-ms
-v41 בִּבְנֵ֣י|biḇ·nê|vvv|H1121|Prep-b | N-mpc
+v41 בִּבְנֵ֣י|biḇ·nê|...|H1121|Prep-b | N-mpc
 v41 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v41 וְאֵת֙|wə·’êṯ|-|H853|Conj-w | DirObjM
 v41 בֶּהֱמַ֣ת|be·hĕ·maṯ|and the livestock|H929|N-fsc
@@ -477,7 +477,7 @@ v41 תַּ֣חַת|ta·ḥaṯ|in place of|H8478|Prep
 v41 כָּל־|kāl-|all|H3605|N-msc
 v41 בְּכ֔וֹר|bə·ḵō·wr|the firstborn|H1060|N-ms
 v41 בְּבֶהֱמַ֖ת|bə·ḇe·hĕ·maṯ|of the livestock|H929|Prep-b | N-fsc
-v41 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v41 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v41 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v42 וַיִּפְקֹ֣ד|way·yip̄·qōḏ|numbered|H6485|Conj-w | V-Qal-ConsecImperf-3ms
 v42 מֹשֶׁ֔ה|mō·šeh|So Moses|H4872|N-proper-ms
@@ -488,7 +488,7 @@ v42 אֹת֑וֹ|’ō·ṯōw|him|H853|DirObjM | 3ms
 v42 אֶֽת־|’eṯ-|-|H853|DirObjM
 v42 כָּל־|kāl-|all|H3605|N-msc
 v42 בְּכֹ֖ר|bə·ḵōr|the firstborn|H1060|N-ms
-v42 בִּבְנֵ֥י|biḇ·nê|vvv|H1121|Prep-b | N-mpc
+v42 בִּבְנֵ֥י|biḇ·nê|...|H1121|Prep-b | N-mpc
 v42 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v43 וַיְהִי֩|way·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v43 כָל־|ḵāl|The total|H3605|N-msc
@@ -505,7 +505,7 @@ v43 וְעֶשְׂרִים֙|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
 v43 אֶ֔לֶף|’e·lep̄|...|H505|Number-ms
 v43 שְׁלֹשָׁ֥ה|šə·lō·šāh|...|H7969|Number-ms
 v43 וְשִׁבְעִ֖ים|wə·šiḇ·‘îm|...|H7657|Conj-w | Number-cp
-v43 וּמָאתָֽיִם׃פ|ū·mā·ṯā·yim|...|H3967|Conj-w | Number-fd
+v43 וּמָאתָֽיִם׃|ū·mā·ṯā·yim|...|H3967|Conj-w | Number-fd
 v44 וַיְדַבֵּ֥ר|way·ḏab·bêr|spoke|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v44 יְהוָ֖ה|Yah·weh|Again the LORD|H3068|N-proper-ms
 v44 אֶל־|’el-|to|H413|Prep
@@ -517,7 +517,7 @@ v45 הַלְוִיִּ֗ם|hal·wî·yim|the Levites|H3881|Art | N-proper-mp
 v45 תַּ֤חַת|ta·ḥaṯ|in place|H8478|Prep
 v45 כָּל־|kāl-|of all|H3605|N-msc
 v45 בְּכוֹר֙|bə·ḵō·wr|the firstborn|H1060|N-ms
-v45 בִּבְנֵ֣י|biḇ·nê|vvv|H1121|Prep-b | N-mpc
+v45 בִּבְנֵ֣י|biḇ·nê|...|H1121|Prep-b | N-mpc
 v45 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v45 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v45 בֶּהֱמַ֥ת|be·hĕ·maṯ|the livestock|H929|N-fsc
@@ -570,7 +570,7 @@ v49 פְּדוּיֵ֥י|pə·ḏū·yê|the number redeemed|H6302|V-Qal-QalPass
 v49 הַלְוִיִּֽם׃|hal·wî·yim|by the Levites|H3881|Art | N-proper-mp
 v50 מֵאֵ֗ת|mê·’êṯ|-|H854|Prep-m | DirObjM
 v50 בְּכ֛וֹר|bə·ḵō·wr|from the firstborn|H1060|N-msc
-v50 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v50 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v50 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v50 לָקַ֣ח|lā·qaḥ|He collected|H3947|V-Qal-Perf-3ms
 v50 אֶת־|’eṯ-|-|H853|DirObjM
@@ -596,4 +596,4 @@ v51 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v51 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v51 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v51 אֶת־|’eṯ-|-|H853|DirObjM
-v51 מֹשֶֽׁה׃פ|mō·šeh|[him]|H4872|N-proper-ms
+v51 מֹשֶֽׁה׃|mō·šeh|[him]|H4872|N-proper-ms

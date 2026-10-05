@@ -57,12 +57,12 @@ v5 פְּאַת־|pə·’aṯ-|-|H6285|N-fsc
 v5 נֶגֶב֩|ne·ḡeḇ|on the south|H5045|N-proper-fs
 v5 אַלְפַּ֨יִם|’al·pa·yim|two thousand|H505|Number-md
 v5 בָּאַמָּ֜ה|bā·’am·māh|-|H520|Prep-b, Art | N-fs
-v5 וְאֶת־|wə·’eṯ-||H853|Conj-w | DirObjM
+v5 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v5 פְּאַת־|pə·’aṯ-|-|H6285|N-fsc
 v5 יָ֣ם׀|yām|on the west|H3220|N-ms
 v5 אַלְפַּ֣יִם|’al·pa·yim|two thousand|H505|Number-md
 v5 בָּֽאַמָּ֗ה|bā·’am·māh|-|H520|Prep-b, Art | N-fs
-v5 וְאֵ֨ת|wə·’êṯ||H853|Conj-w | DirObjM
+v5 וְאֵ֨ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v5 פְּאַ֥ת|pə·’aṯ|-|H6285|N-fsc
 v5 צָפ֛וֹן|ṣā·p̄ō·wn|on the north|H6828|N-fs
 v5 אַלְפַּ֥יִם|’al·pa·yim|[and] two thousand|H505|Number-md
@@ -71,7 +71,7 @@ v5 וְהָעִ֣יר|wə·hā·‘îr|with the city|H5892|Conj-w, Art | N-fs
 v5 בַּתָּ֑וֶךְ|bat·tā·weḵ|in the center|H8432|Prep-b, Art | N-ms
 v5 זֶ֚ה|zeh|These areas|H2088|Pro-ms
 v5 יִהְיֶ֣ה|yih·yeh|will serve|H1961|V-Qal-Imperf-3ms
-v5 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v5 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v5 מִגְרְשֵׁ֖י|miḡ·rə·šê|as larger pasturelands|H4054|N-mpc
 v5 הֶעָרִֽים׃|he·‘ā·rîm|for the cities|H5892|Art | N-fp
 v6 וְאֵ֣ת|wə·’êṯ|-|H853|Conj-w | DirObjM
@@ -108,7 +108,7 @@ v8 וְהֶֽעָרִ֗ים|wə·he·‘ā·rîm|The cities|H5892|Conj-w, Art | 
 v8 אֲשֶׁ֤ר|’ă·šer|that|H834|Pro-r
 v8 תִּתְּנוּ֙|tit·tə·nū|you apportion|H5414|V-Qal-Imperf-2mp
 v8 מֵאֲחֻזַּ֣ת|mê·’ă·ḥuz·zaṯ|from the territory|H272|Prep-m | N-fsc
-v8 בְּנֵי־|bə·nê-|vvv|H1121|N-mpc
+v8 בְּנֵי־|bə·nê-|...|H1121|N-mpc
 v8 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v8 מֵאֵ֤ת|mê·’êṯ|...|H854|Prep-m | DirObjM
 v8 הָרַב֙|hā·raḇ|a larger [tribe]|H7227|Art | Adj-ms
@@ -123,7 +123,7 @@ v8 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v8 יִנְחָ֔לוּ|yin·ḥā·lū|-|H5157|V-Qal-Imperf-3mp
 v8 יִתֵּ֥ן|yit·tên|should be given|H5414|V-Qal-Imperf-3ms
 v8 מֵעָרָ֖יו|mê·‘ā·rāw|-|H5892|Prep-m | N-fpc | 3ms
-v8 לַלְוִיִּֽם׃פ|lal·wî·yim|to the Levites|H3881|Prep-l | N-proper-mp
+v8 לַלְוִיִּֽם׃|lal·wî·yim|to the Levites|H3881|Prep-l | N-proper-mp
 v9 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v9 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v9 אֶל־|’el-|to|H413|Prep
@@ -143,7 +143,7 @@ v10 הַיַּרְדֵּ֖ן|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
 v10 אַ֥רְצָה|’ar·ṣāh|into the land|H776|N-fs | 3fs
 v10 כְּנָֽעַן׃|kə·nā·‘an|of Canaan|H3667|N-proper-ms
 v11 וְהִקְרִיתֶ֤ם|wə·hiq·rî·ṯem|designate|H7136|Conj-w | V-Hifil-ConjPerf-2mp
-v11 לָכֶם֙|lā·ḵem||H0|Prep | 2mp
+v11 לָכֶם֙|lā·ḵem|-|H0|Prep | 2mp
 v11 עָרִ֔ים|‘ā·rîm|cities|H5892|N-fp
 v11 עָרֵ֥י|‘ā·rê|cities|H5892|N-fpc
 v11 מִקְלָ֖ט|miq·lāṭ|of refuge|H4733|N-ms
@@ -156,7 +156,7 @@ v11 מַכֵּה־|mak·kêh-|who kills|H5221|V-Hifil-Prtcpl-msc
 v11 נֶ֖פֶשׁ|ne·p̄eš|someone|H5315|N-fs
 v11 בִּשְׁגָגָֽה׃|biš·ḡā·ḡāh|unintentionally|H7684|Prep-b | N-fs
 v12 וְהָי֨וּ|wə·hā·yū|You are to have|H1961|Conj-w | V-Qal-ConjPerf-3cp
-v12 לָכֶ֧ם|lā·ḵem||H0|Prep | 2mp
+v12 לָכֶ֧ם|lā·ḵem|-|H0|Prep | 2mp
 v12 הֶעָרִ֛ים|he·‘ā·rîm|these cities|H5892|Art | N-fp
 v12 לְמִקְלָ֖ט|lə·miq·lāṭ|as a refuge|H4733|Prep-l | N-ms
 v12 מִגֹּאֵ֑ל|mig·gō·’êl|from the avenger|H1350|Prep-m | V-Qal-Prtcpl-ms
@@ -222,7 +222,7 @@ v17 בְּאֶ֣בֶן|bə·’e·ḇen|a stone|H68|Prep-b | N-fsc
 v17 יָד֩|yāḏ|anyone has in his hand|H3027|N-fs
 v17 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v17 יָמ֨וּת|yā·mūṯ|of deadly size|H4191|V-Qal-Imperf-3ms
-v17 בָּ֥הּ|bāh||H0|Prep | 3fs
+v17 בָּ֥הּ|bāh|-|H0|Prep | 3fs
 v17 הִכָּ֛הוּ|hik·kā·hū|and he strikes|H5221|V-Hifil-Perf-3ms | 3ms
 v17 וַיָּמֹ֖ת|way·yā·mōṯ|and kills another|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v17 רֹצֵ֣חַֽ|rō·ṣê·aḥ|he is a murderer|H7523|V-Qal-Prtcpl-ms
@@ -236,7 +236,7 @@ v18 עֵֽץ־|‘êṣ-|of wood|H6086|N-ms
 v18 יָד֩|yāḏ|anyone has in his hand|H3027|N-fs
 v18 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v18 יָמ֨וּת|yā·mūṯ|a deadly|H4191|V-Qal-Imperf-3ms
-v18 בּ֥וֹ|bōw||H0|Prep | 3ms
+v18 בּ֥וֹ|bōw|-|H0|Prep | 3ms
 v18 הִכָּ֛הוּ|hik·kā·hū|and he strikes|H5221|V-Hifil-Perf-3ms | 3ms
 v18 וַיָּמֹ֖ת|way·yā·mōṯ|and kills another|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v18 רֹצֵ֣חַֽ|rō·ṣê·aḥ|he is a murderer|H7523|V-Qal-Prtcpl-ms
@@ -278,7 +278,7 @@ v21 יָמִ֛ית|yā·mîṯ|he is to kill|H4191|V-Hifil-Imperf-3ms
 v21 אֶת־|’eṯ-|him|H853|DirObjM
 v21 הָרֹצֵ֖חַ|hā·rō·ṣê·aḥ|the murderer|H7523|Art | V-Qal-Prtcpl-ms
 v21 בְּפִגְעוֹ־|bə·p̄iḡ·‘ōw-|finds|H6293|Prep-b | V-Qal-Inf | 3ms
-v21 בֽוֹ׃|ḇōw||H0|Prep | 3ms
+v21 בֽוֹ׃|ḇōw|-|H0|Prep | 3ms
 v22 וְאִם־|wə·’im-|But if anyone|H518|Conj
 v22 בְּפֶ֥תַע|bə·p̄e·ṯa‘|suddenly|H6621|Prep-b | Adv
 v22 בְּלֹא־|bə·lō-|without|H3808|Prep-b | Adv-NegPrt
@@ -294,9 +294,9 @@ v22 צְדִיָּֽה׃|ṣə·ḏî·yāh|...|H6660|N-fs
 v23 א֣וֹ|’ōw|or|H176|Conj
 v23 בְכָל־|ḇə·ḵāl-|...|H3605|Prep-b | N-msc
 v23 אֶ֜בֶן|’e·ḇen|a heavy stone|H68|N-fs
-v23 אֲשֶׁר־|’ă·šer-||H834|Pro-r
-v23 יָמ֥וּת|yā·mūṯ||H4191|V-Qal-Imperf-3ms
-v23 בָּהּ֙|bāh||H0|Prep | 3fs
+v23 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
+v23 יָמ֥וּת|yā·mūṯ|-|H4191|V-Qal-Imperf-3ms
+v23 בָּהּ֙|bāh|-|H0|Prep | 3fs
 v23 בְּלֹ֣א|bə·lō|without|H3808|Prep-b | Adv-NegPrt
 v23 רְא֔וֹת|rə·’ō·wṯ|looking|H7200|V-Qal-Inf
 v23 וַיַּפֵּ֥ל|way·yap·pêl|drops|H5307|Conj-w | V-Hifil-ConsecImperf-3ms
@@ -305,7 +305,7 @@ v23 וַיָּמֹ֑ת|way·yā·mōṯ|that kills him|H4191|Conj-w | V-Qal-Cons
 v23 וְהוּא֙|wə·hū|but he|H1931|Conj-w | Pro-3ms
 v23 לֹא־|lō-|was not|H3808|Adv-NegPrt
 v23 אוֹיֵ֣ב|’ō·w·yêḇ|an enemy|H341|V-Qal-Prtcpl-ms
-v23 ל֔וֹ|lōw||H0|Prep | 3ms
+v23 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v23 וְלֹ֥א|wə·lō|and did not|H3808|Conj-w | Adv-NegPrt
 v23 מְבַקֵּ֖שׁ|mə·ḇaq·qêš|intend|H1245|V-Piel-Prtcpl-ms
 v23 רָעָתֽוֹ׃|rā·‘ā·ṯōw|to harm him|H7451|N-fsc | 3ms
@@ -371,7 +371,7 @@ v27 הַדָּם֙|had·dām|be guilty of bloodshed|H1818|Art | N-ms
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 הָ֣רֹצֵ֔חַ|hā·rō·ṣê·aḥ|-|H7523|Art | V-Qal-Prtcpl-ms
 v27 אֵ֥ין|’ên|will not|H369|Adv
-v27 ל֖וֹ|lōw||H0|Prep | 3ms
+v27 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v27 דָּֽם׃|dām|-|H1818|N-ms
 v28 כִּ֣י|kî|because|H3588|Conj
 v28 בְעִ֤יר|ḇə·‘îr|in his city|H5892|Prep-b | N-fsc
@@ -456,7 +456,7 @@ v33 יְכֻפַּ֗ר|yə·ḵup·par|atonement can be made|H3722|V-Pual-Imperf
 v33 לַדָּם֙|lad·dām|on which the blood|H1818|Prep-l, Art | N-ms
 v33 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v33 שֻׁפַּךְ־|šup·paḵ-|is shed|H8210|V-QalPass-Perf-3ms
-v33 בָּ֔הּ|bāh||H0|Prep | 3fs
+v33 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v33 כִּי־|kî-|except|H3588|Conj
 v33 אִ֖ם|’im|...|H518|Conj
 v33 בְּדַ֥ם|bə·ḏam|by the blood|H1818|Prep-b | N-msc
@@ -468,15 +468,15 @@ v34 הָאָ֗רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v34 אֲשֶׁ֤ר|’ă·šer|where|H834|Pro-r
 v34 אַתֶּם֙|’at·tem|you|H859|Pro-2mp
 v34 יֹשְׁבִ֣ים|yō·šə·ḇîm|live|H3427|V-Qal-Prtcpl-mp
-v34 בָּ֔הּ|bāh||H0|Prep | 3fs
+v34 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v34 אֲשֶׁ֥ר|’ă·šer|and where|H834|Pro-r
 v34 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v34 שֹׁכֵ֣ן|šō·ḵên|dwell|H7931|V-Qal-Prtcpl-ms
-v34 בְּתוֹכָ֑הּ|bə·ṯō·w·ḵāh||H8432|Prep-b | N-msc | 3fs
+v34 בְּתוֹכָ֑הּ|bə·ṯō·w·ḵāh|-|H8432|Prep-b | N-msc | 3fs
 v34 כִּ֚י|kî|For|H3588|Conj
 v34 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v34 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v34 שֹׁכֵ֕ן|šō·ḵên|dwell|H7931|V-Qal-Prtcpl-ms
 v34 בְּת֖וֹךְ|bə·ṯō·wḵ|among|H8432|Prep-b | N-msc
 v34 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
-v34 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|...|H3478|N-proper-ms
+v34 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms

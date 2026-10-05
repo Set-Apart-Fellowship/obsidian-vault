@@ -8,7 +8,7 @@ v1 אִיּ֑וֹב|’î·yō·wḇ|Job|H347|N-proper-ms
 v1 כִּ֤י|kî|because|H3588|Conj
 v1 ה֖וּא|hū|he|H1931|Pro-3ms
 v1 צַדִּ֣יק|ṣad·dîq|was righteous|H6662|Adj-ms
-v1 בְּעֵינָֽיו׃פ|bə·‘ê·nāw|in his own eyes|H5869|Prep-b | N-cdc | 3ms
+v1 בְּעֵינָֽיו׃|bə·‘ê·nāw|in his own eyes|H5869|Prep-b | N-cdc | 3ms
 v2 וַיִּ֤חַר|way·yi·ḥar|This kindled|H2734|Conj-w | V-Qal-ConsecImperf-3ms
 v2 אַ֨ף׀|’ap̄|the anger|H639|N-msc
 v2 אֱלִיה֣וּא|’ĕ·lî·hū|of Elihu|H453|N-proper-ms
@@ -55,7 +55,7 @@ v5 בְּ֭פִי|bə·p̄î|...|H6310|Prep | N-msc
 v5 שְׁלֹ֥שֶׁת|šə·lō·šeṯ|the three|H7969|Number-msc
 v5 הָאֲנָשִׁ֗ים|hā·’ă·nā·šîm|men|H582|Art | N-mp
 v5 וַיִּ֥חַר|way·yi·ḥar|was kindled|H2734|Conj-w | V-Qal-ConsecImperf-3ms
-v5 אַפּֽוֹ׃פ|’ap·pōw|his anger|H639|N-msc | 3ms
+v5 אַפּֽוֹ׃|’ap·pōw|his anger|H639|N-msc | 3ms
 v6 וַיַּ֤עַן׀|way·ya·‘an|declared|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v6 אֱלִיה֖וּא|’ĕ·lî·hū|So Elihu|H453|N-proper-ms
 v6 בֶן־|ḇen-|son|H1121|N-msc
@@ -168,14 +168,14 @@ v18 בִּטְנִֽי׃|biṭ·nî|within me|H990|N-fsc | 1cs
 v19 הִנֵּֽה־|hin·nêh-|Behold|H2009|Interjection
 v19 בִטְנִ֗י|ḇiṭ·nî|my belly|H990|N-fsc | 1cs
 v19 כְּיַ֥יִן|kə·ya·yin|wine|H3196|Prep-k | N-ms
-v19 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v19 לֹא־|lō-|...|H3808|Adv-NegPrt
 v19 יִפָּתֵ֑חַ|yip·pā·ṯê·aḥ|is like unvented|H6605|V-Nifal-Imperf-3ms
 v19 כְּאֹב֥וֹת|kə·’ō·ḇō·wṯ|wineskin|H178|Prep-k | N-mp
 v19 חֲ֝דָשִׁ֗ים|ḥă·ḏā·šîm|like a new|H2319|Adj-mp
 v19 יִבָּקֵֽעַ׃|yib·bā·qê·a‘|it is about to burst|H1234|V-Nifal-Imperf-3ms
 v20 אֲדַבְּרָ֥ה|’ă·ḏab·bə·rāh|I must speak|H1696|V-Piel-Imperf.Cohort-1cs
 v20 וְיִֽרְוַֽח־|wə·yir·waḥ-|and find relief|H7304|Conj-w | V-Qal-ConjImperf-3ms
-v20 לִ֑י|lî||H0|Prep | 1cs
+v20 לִ֑י|lî|-|H0|Prep | 1cs
 v20 אֶפְתַּ֖ח|’ep̄·taḥ|I must open|H6605|V-Qal-Imperf.h-1cs
 v20 שְׂפָתַ֣י|śə·p̄ā·ṯay|my lips|H8193|N-fdc | 1cs
 v20 וְאֶֽעֱנֶֽה׃|wə·’e·‘ĕ·neh|and respond|H6030|Conj-w | V-Qal-ConjImperf.h-1cs

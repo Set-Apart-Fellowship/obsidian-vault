@@ -40,7 +40,7 @@ v3 δὲ|de|But|G1161|Conj
 v3 τοὺς|tous|the|G3588|Art-AMP
 v3 ἀδελφούς|adelphous|brothers|G80|N-AMP
 v3 ἵνα|hina|in order that|G2443|Conj
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 τὸ|to|-|G3588|Art-NNS
 v3 καύχημα|kauchēma|boasting|G2745|N-NNS
 v3 ἡμῶν|hēmōn|our|G1473|PPro-G1P
@@ -98,11 +98,11 @@ v5 ταύτην|tautēn|[gift]|G3778|DPro-AFS
 v5 ἑτοίμην|hetoimēn|prepared|G2092|Adj-AFS
 v5 εἶναι|einai|will be|G1510|V-PNA
 v5 οὕτως|houtōs|This way|G3779|Adv
-v5 ὡς|hōs|vvv|G5613|Adv
+v5 ὡς|hōs|...|G5613|Adv
 v5 εὐλογίαν|eulogian|generously|G2129|N-AFS
 v5 καὶ|kai|and|G2532|Conj
 v5 μὴ|mē|not|G3361|Adv
-v5 ὡς|hōs|vvv|G5613|Adv
+v5 ὡς|hōs|...|G5613|Adv
 v5 πλεονεξίαν|pleonexian|begrudgingly|G4124|N-AFS
 v6 Τοῦτο|Touto|this|G3778|DPro-ANS
 v6 δέ|de|[Remember]|G1161|Conj
@@ -115,9 +115,9 @@ v6 θερίσει|therisei|reap|G2325|V-FIA-3S
 v6 καὶ|kai|and|G2532|Conj
 v6 ὁ|ho|whoever|G3588|Art-NMS
 v6 σπείρων|speirōn|sows|G4687|V-PPA-NMS
-v6 ἐπ’|ep’|vvv|G1909|Prep
+v6 ἐπ’|ep’|...|G1909|Prep
 v6 εὐλογίαις|eulogiais|generously|G2129|N-DFP
-v6 ἐπ’|ep’|vvv|G1909|Prep
+v6 ἐπ’|ep’|...|G1909|Prep
 v6 εὐλογίαις|eulogiais|generously|G2129|N-DFP
 v6 καὶ|kai|{will} also|G2532|Conj
 v6 θερίσει|therisei|reap|G2325|V-FIA-3S
@@ -223,7 +223,7 @@ v12 ὑστερήματα|hysterēmata|needs|G5303|N-ANP
 v12 τῶν|tōn|of the|G3588|Art-GMP
 v12 ἁγίων|hagiōn|saints|G40|Adj-GMP
 v12 ἀλλὰ|alla|but|G235|Conj
-v12 καὶ|kai|vvv|G2532|Conj
+v12 καὶ|kai|...|G2532|Conj
 v12 περισσεύουσα|perisseuousa|is also overflowing|G4052|V-PPA-NFS
 v12 διὰ|dia|in|G1223|Prep
 v12 πολλῶν|pollōn|many|G4183|Adj-GFP

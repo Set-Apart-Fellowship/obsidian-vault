@@ -131,7 +131,7 @@ v9 עַל־|‘al-|on|H5921|Prep
 v9 הָאֲנָשִׁ֖ים|hā·’ă·nā·šîm|the men|H582|Art | N-mp
 v9 וְיַעֲשׂוּ־|wə·ya·‘ă·śū-|so they will be occupied|H6213|Conj-w | V-Qal-ConjImperf-3mp
 v9 בָ֑הּ|ḇāh|...|H0|Prep | 3fs
-v9 וְאַל־|wə·’al-|vvv|H408|Conj-w | Adv
+v9 וְאַל־|wə·’al-|...|H408|Conj-w | Adv
 v9 יִשְׁע֖וּ|yiš·‘ū|and pay no attention|H8159|V-Qal-Imperf-3mp
 v9 בְּדִבְרֵי־|bə·ḏiḇ·rê-|...|H1697|Prep-b | N-mpc
 v9 שָֽׁקֶר׃|šā·qer|to [these] lies|H8267|N-ms
@@ -161,7 +161,7 @@ v11 כִּ֣י|kî|but|H3588|Conj
 v11 אֵ֥ין|’ên|will in no way|H369|Adv
 v11 נִגְרָ֛ע|niḡ·rā‘|be reduced|H1639|V-Nifal-Prtcpl-ms
 v11 מֵעֲבֹדַתְכֶ֖ם|mê·‘ă·ḇō·ḏaṯ·ḵem|your workload|H5656|Prep-m | N-fsc | 2mp
-v11 דָּבָֽר׃|dā·ḇār||H1697|N-ms
+v11 דָּבָֽר׃|dā·ḇār|-|H1697|N-ms
 v12 וַיָּ֥פֶץ|way·yā·p̄eṣ|scattered|H6327|Conj-w | V-Hifil-ConsecImperf-3ms
 v12 הָעָ֖ם|hā·‘ām|So the people|H5971|Art | N-ms
 v12 בְּכָל־|bə·ḵāl|all over|H3605|Prep-b | N-msc

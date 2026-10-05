@@ -38,10 +38,10 @@ v5 זוֹרֵ֥חַֽ|zō·w·rê·aḥ|rises|H2224|V-Qal-Prtcpl-ms
 v5 ה֖וּא|hū|it|H1931|Pro-3ms
 v5 שָֽׁם׃|šām|where|H8033|Adv
 v6 הוֹלֵךְ֙|hō·w·lêḵ|blows|H1980|V-Qal-Prtcpl-ms
-v6 אֶל־|’el-|vvv|H413|Prep
+v6 אֶל־|’el-|...|H413|Prep
 v6 דָּר֔וֹם|dā·rō·wm|southward|H1864|N-ms
 v6 וְסוֹבֵ֖ב|wə·sō·w·ḇêḇ|then turns|H5437|Conj-w | V-Qal-Prtcpl-ms
-v6 אֶל־|’el-|vvv|H413|Prep
+v6 אֶל־|’el-|...|H413|Prep
 v6 צָפ֑וֹן|ṣā·p̄ō·wn|northward|H6828|N-fs
 v6 סוֹבֵ֤ב׀|sō·w·ḇêḇ|round|H5437|V-Qal-Prtcpl-ms
 v6 סֹבֵב֙|sō·ḇêḇ|[and] round|H5437|V-Qal-Prtcpl-ms
@@ -84,7 +84,7 @@ v8 אֹ֖זֶן|’ō·zen|the ear|H241|N-fs
 v8 מִשְּׁמֹֽעַ׃|miš·šə·mō·a‘|with hearing|H8085|Prep-m | V-Qal-Inf
 v9 מַה־|mah-|What|H4100|Interrog
 v9 שֶּֽׁהָיָה֙|še·hā·yāh|has been|H1961|Pro-r | V-Qal-Perf-3ms
-v9 ה֣וּא|hū|vvv|H1931|Pro-3ms
+v9 ה֣וּא|hū|...|H1931|Pro-3ms
 v9 שֶׁיִּהְיֶ֔ה|še·yih·yeh|will be again|H1961|Pro-r | V-Qal-Imperf-3ms
 v9 וּמַה־|ū·mah-|and what|H4100|Conj-w | Interrog
 v9 שֶׁנַּֽעֲשָׂ֔ה|šen·na·‘ă·śāh|has been done|H6213|Pro-r | V-Nifal-Perf-3ms
@@ -120,7 +120,7 @@ v11 לָהֶם֙|lā·hem|...|H0|Prep-l | Pro-3mp
 v11 זִכָּר֔וֹן|zik·kā·rō·wn|remembered|H2146|N-ms
 v11 עִ֥ם|‘im|by|H5973|Prep
 v11 שֶׁיִּהְי֖וּ|še·yih·yū|those who|H1961|Pro-r | V-Qal-Imperf-3mp
-v11 לָאַחֲרֹנָֽה׃פ|lā·’a·ḥă·rō·nāh|after|H314|Prep-l, Art | Adj-fs
+v11 לָאַחֲרֹנָֽה׃|lā·’a·ḥă·rō·nāh|after|H314|Prep-l, Art | Adj-fs
 v12 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v12 קֹהֶ֗לֶת|qō·he·leṯ|the Teacher|H6953|N-ms
 v12 הָיִ֥יתִי|hā·yî·ṯî|was|H1961|V-Qal-Perf-1cs

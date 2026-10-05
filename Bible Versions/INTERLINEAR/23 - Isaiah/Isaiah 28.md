@@ -18,7 +18,7 @@ v2 הִנֵּ֨ה|hin·nêh|Behold|H2009|Interjection
 v2 חָזָ֤ק|ḥā·zāq|[who is] strong|H2389|Adj-ms
 v2 וְאַמִּץ֙|wə·’am·miṣ|and mighty|H533|Conj-w | Adj-ms
 v2 לַֽאדֹנָ֔י|la·ḏō·nāy|the Lord [has one ]|H136|Prep-l | N-proper-ms
-v2 כְּזֶ֥רֶם|kə·ze·rem|vvv|H2230|Prep-k | N-msc
+v2 כְּזֶ֥רֶם|kə·ze·rem|...|H2230|Prep-k | N-msc
 v2 בָּרָ֖ד|bā·rāḏ|Like a hailstorm|H1259|N-ms
 v2 שַׂ֣עַר|śa·‘ar|tempest|H8178|N-msc
 v2 קָ֑טֶב|qā·ṭeḇ|or destructive|H6986|N-ms
@@ -54,7 +54,7 @@ v4 הָֽרֹאֶה֙|hā·rō·’eh|sees it|H7200|Art | V-Qal-Prtcpl-ms
 v4 אוֹתָ֔הּ|’ō·w·ṯāh|-|H853|DirObjM | 3fs
 v4 בְּעוֹדָ֥הּ|bə·‘ō·w·ḏāh|will take it|H5750|Prep-b | Adv | 3fs
 v4 בְּכַפּ֖וֹ|bə·ḵap·pōw|in his hand|H3709|Prep-b | N-fsc | 3ms
-v4 יִבְלָעֶֽנָּה׃ס|yiḇ·lā·‘en·nāh|[and] swallow it|H1104|V-Qal-Imperf-3ms | 3fs
+v4 יִבְלָעֶֽנָּה׃|yiḇ·lā·‘en·nāh|[and] swallow it|H1104|V-Qal-Imperf-3ms | 3fs
 v5 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v5 הַה֗וּא|ha·hū|On that|H1931|Art | Pro-3ms
 v5 יִֽהְיֶה֙|yih·yeh|will be|H1961|V-Qal-Imperf-3ms
@@ -74,7 +74,7 @@ v6 הַמִּשְׁפָּ֔ט|ham·miš·pāṭ|judgment|H4941|Art | N-ms
 v6 וְלִ֨גְבוּרָ֔ה|wə·liḡ·ḇū·rāh|and a strength|H1369|Conj-w, Prep-l | N-fs
 v6 מְשִׁיבֵ֥י|mə·šî·ḇê|to those who repel|H7725|V-Hifil-Prtcpl-mpc
 v6 מִלְחָמָ֖ה|mil·ḥā·māh|the onslaught|H4421|N-fs
-v6 שָֽׁעְרָה׃ס|šā·‘ə·rāh|at the gate|H8179|N-ms | 3fs
+v6 שָֽׁעְרָה׃|šā·‘ə·rāh|at the gate|H8179|N-ms | 3fs
 v7 וְגַם־|wə·ḡam-|also|H1571|Conj
 v7 אֵ֙לֶּה֙|’êl·leh|These|H428|Pro-cp
 v7 בַּיַּ֣יִן|bay·ya·yin|from wine|H3196|Prep-b, Art | N-ms
@@ -102,7 +102,7 @@ v8 מָלְא֖וּ|mā·lə·’ū|are covered|H4390|V-Qal-Perf-3cp
 v8 קִ֣יא|qî|with vomit|H6892|N-ms
 v8 צֹאָ֑ה|ṣō·’āh|filth|H6675|N-fs
 v8 בְּלִ֖י|bə·lî|without|H1097|Adv
-v8 מָקֽוֹם׃ס|mā·qō·wm|there is not a place|H4725|N-ms
+v8 מָקֽוֹם׃|mā·qō·wm|there is not a place|H4725|N-ms
 v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 מִי֙|mî|Whom|H4310|Interrog
 v9 יוֹרֶ֣ה|yō·w·reh|is He trying to teach|H3384|V-Hifil-Imperf-3ms
@@ -171,7 +171,7 @@ v13 וְכָשְׁל֤וּ|wə·ḵā·šə·lū|stumbling|H3782|Conj-w | V-Qal-
 v13 אָחוֹר֙|’ā·ḥō·wr|backward|H268|N-ms
 v13 וְנִשְׁבָּ֔רוּ|wə·niš·bā·rū|and will be injured|H7665|Conj-w | V-Nifal-ConjPerf-3cp
 v13 וְנוֹקְשׁ֖וּ|wə·nō·wq·šū|ensnared|H3369|Conj-w | V-Nifal-ConjPerf-3cp
-v13 וְנִלְכָּֽדוּ׃פ|wə·nil·kā·ḏū|and captured|H3920|Conj-w | V-Nifal-ConjPerf-3cp
+v13 וְנִלְכָּֽדוּ׃|wə·nil·kā·ḏū|and captured|H3920|Conj-w | V-Nifal-ConjPerf-3cp
 v14 לָכֵ֛ן|lā·ḵên|Therefore|H3651|Adv
 v14 שִׁמְע֥וּ|šim·‘ū|hear|H8085|V-Qal-Imp-mp
 v14 דְבַר־|ḏə·ḇar-|the word|H1697|N-msc
@@ -204,7 +204,7 @@ v15 שַׂ֧מְנוּ|śam·nū|we have made|H7760|V-Qal-Perf-1cp
 v15 כָזָ֛ב|ḵā·zāḇ|lies|H3577|N-ms
 v15 מַחְסֵ֖נוּ|maḥ·sê·nū|our refuge|H4268|N-msc | 1cp
 v15 וּבַשֶּׁ֥קֶר|ū·ḇaš·še·qer|and falsehood|H8267|Conj-w, Prep-b, Art | N-ms
-v15 נִסְתָּֽרְנוּ׃ס|nis·tā·rə·nū|our hiding place|H5641|V-Nifal-Perf-1cp
+v15 נִסְתָּֽרְנוּ׃|nis·tā·rə·nū|our hiding place|H5641|V-Nifal-Perf-1cp
 v16 לָכֵ֗ן|lā·ḵên|So|H3651|Adv
 v16 כֹּ֤ה|kōh|this is what|H3541|Adv
 v16 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -249,7 +249,7 @@ v18 שׁוֹטֵף֙|šō·w·ṭêp̄|the overwhelming|H7857|V-Qal-Prtcpl-ms
 v18 כִּ֣י|kî|When|H3588|Conj
 v18 יַֽעֲבֹ֔ר|ya·‘ă·ḇōr|passes through|H5674|V-Qal-Imperf-3ms
 v18 וִהְיִ֥יתֶם|wih·yî·ṯem|you will be|H1961|Conj-w | V-Qal-ConjPerf-2mp
-v18 ל֖וֹ|lōw||H0|Prep | 3ms
+v18 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v18 לְמִרְמָֽס׃|lə·mir·mās|trampled by it|H4823|Prep-l | N-ms
 v19 מִדֵּ֤י|mid·dê|As often as|H1767|Prep-m | N-msc
 v19 עָבְרוֹ֙|‘ā·ḇə·rōw|it passes through|H5674|V-Qal-Inf | 3ms
@@ -377,4 +377,4 @@ v29 יָצָ֑אָה|yā·ṣā·’āh|comes|H3318|V-Qal-Perf-3fs
 v29 הִפְלִ֣יא|hip̄·lî|[who] is wonderful|H6381|V-Hifil-Perf-3ms
 v29 עֵצָ֔ה|‘ê·ṣāh|in counsel|H6098|N-fs
 v29 הִגְדִּ֖יל|hiḡ·dîl|[and] excellent|H1431|V-Hifil-Perf-3ms
-v29 תּוּשִׁיָּֽה׃ס|tū·šî·yāh|in wisdom|H8454|N-fs
+v29 תּוּשִׁיָּֽה׃|tū·šî·yāh|in wisdom|H8454|N-fs

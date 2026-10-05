@@ -38,11 +38,11 @@ v5 לָ֝הֶ֗ם|lā·hem|...|H0|Prep-l | Pro-3mp
 v5 וְלֹ֣א|wə·lō|but cannot|H3808|Conj-w | Adv-NegPrt
 v5 יִרְאֽוּ׃|yir·’ū|see|H7200|V-Qal-Imperf-3mp
 v6 אָזְנַ֣יִם|’ā·zə·na·yim|they have ears|H241|N-fd
-v6 לָ֭הֶם|lā·hem||H0|Prep | 3mp
+v6 לָ֭הֶם|lā·hem|-|H0|Prep | 3mp
 v6 וְלֹ֣א|wə·lō|but cannot|H3808|Conj-w | Adv-NegPrt
 v6 יִשְׁמָ֑עוּ|yiš·mā·‘ū|hear|H8085|V-Qal-Imperf-3mp
 v6 אַ֥ף|’ap̄|they have noses|H639|N-ms
-v6 לָ֝הֶ֗ם|lā·hem||H0|Prep | 3mp
+v6 לָ֝הֶ֗ם|lā·hem|-|H0|Prep | 3mp
 v6 וְלֹ֣א|wə·lō|but cannot|H3808|Conj-w | Adv-NegPrt
 v6 יְרִיחֽוּן׃|yə·rî·ḥūn|smell|H7306|V-Hifil-Imperf-3mp | Pn
 v7 יְדֵיהֶ֤ם׀|yə·ḏê·hem|they have hands|H3027|N-fdc | 3mp
@@ -115,7 +115,7 @@ v16 שָׁ֭מַיִם|šā·ma·yim|...|H8064|N-mp
 v16 לַיהוָ֑ה|Yah·weh|belong to the LORD|H3068|Prep-l | N-proper-ms
 v16 וְ֝הָאָ֗רֶץ|wə·hā·’ā·reṣ|but the earth|H776|Conj-w, Art | N-fs
 v16 נָתַ֥ן|nā·ṯan|He has given|H5414|V-Qal-Perf-3ms
-v16 לִבְנֵי־|liḇ·nê-|vvv|H1121|Prep-l | N-mpc
+v16 לִבְנֵי־|liḇ·nê-|...|H1121|Prep-l | N-mpc
 v16 אָדָֽם׃|’ā·ḏām|to mankind|H120|N-ms
 v17 לֹ֣א|lō|It is not|H3808|Adv-NegPrt
 v17 הַ֭מֵּתִים|ham·mê·ṯîm|the dead|H4191|Art | V-Qal-Prtcpl-mp

@@ -107,7 +107,7 @@ v9 אָבִ֙יהָ֙|’ā·ḇî·hā|her father|H1|N-msc | 3fs
 v9 הִ֣יא|hî|she|H1931|Pro-3fs
 v9 מְחַלֶּ֔לֶת|mə·ḥal·le·leṯ|profanes|H2490|V-Piel-Prtcpl-fs
 v9 בָּאֵ֖שׁ|bā·’êš|in the fire|H784|Prep-b, Art | N-cs
-v9 תִּשָּׂרֵֽף׃ס|tiś·śā·rêp̄|she must be burned|H8313|V-Nifal-Imperf-3fs
+v9 תִּשָּׂרֵֽף׃|tiś·śā·rêp̄|she must be burned|H8313|V-Nifal-Imperf-3fs
 v10 וְהַכֹּהֵן֩|wə·hak·kō·hên|The priest|H3548|Conj-w, Art | N-ms
 v10 הַגָּד֨וֹל|hag·gā·ḏō·wl|who is highest|H1419|Art | Adj-ms
 v10 מֵאֶחָ֜יו|mê·’e·ḥāw|among his brothers|H251|Prep-m | N-mpc | 3ms
@@ -182,7 +182,7 @@ v15 בְּעַמָּ֑יו|bə·‘am·māw|among his people|H5971|Prep-b | N-mp
 v15 כִּ֛י|kî|for|H3588|Conj
 v15 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v15 יְהוָ֖ה|Yah·weh|am the LORD|H3068|N-proper-ms
-v15 מְקַדְּשֽׁוֹ׃פ|mə·qad·də·šōw|who sanctifies him|H6942|V-Piel-Prtcpl-msc | 3ms
+v15 מְקַדְּשֽׁוֹ׃|mə·qad·də·šōw|who sanctifies him|H6942|V-Piel-Prtcpl-msc | 3ms
 v16 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v16 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v16 אֶל־|’el-|to|H413|Prep
@@ -197,7 +197,7 @@ v17 מִֽזַּרְעֲךָ֞|miz·zar·‘ă·ḵā|of your descendants|H2233
 v17 לְדֹרֹתָ֗ם|lə·ḏō·rō·ṯām|For the generations to come|H1755|Prep-l | N-mpc | 3mp
 v17 אֲשֶׁ֨ר|’ă·šer|who|H834|Pro-r
 v17 יִהְיֶ֥ה|yih·yeh|has|H1961|V-Qal-Imperf-3ms
-v17 בוֹ֙|ḇōw||H0|Prep | 3ms
+v17 בוֹ֙|ḇōw|-|H0|Prep | 3ms
 v17 מ֔וּם|mūm|a physical defect|H3971|N-ms
 v17 לֹ֣א|lō|none|H3808|Adv-NegPrt
 v17 יִקְרַ֔ב|yiq·raḇ|may approach|H7126|V-Qal-Imperf-3ms
@@ -208,7 +208,7 @@ v18 כִּ֥י|kî|-|H3588|Conj
 v18 כָל־|ḵāl|No|H3605|N-msc
 v18 אִ֛ישׁ|’îš|man|H376|N-ms
 v18 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
-v18 בּ֥וֹ|bōw||H0|Prep | 3ms
+v18 בּ֥וֹ|bōw|-|H0|Prep | 3ms
 v18 מ֖וּם|mūm|has any defect|H3971|N-ms
 v18 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v18 יִקְרָ֑ב|yiq·rāḇ|may approach|H7126|V-Qal-Imperf-3ms
@@ -220,11 +220,11 @@ v18 א֥וֹ|’ōw|...|H176|Conj
 v18 חָרֻ֖ם|ḥā·rum|disfigured|H2763|V-Qal-QalPassPrtcpl-ms
 v18 א֥וֹ|’ōw|...|H176|Conj
 v18 שָׂרֽוּעַ׃|śā·rū·a‘|deformed|H8311|V-Qal-QalPassPrtcpl-ms
-v19 א֣וֹ|’ōw||H176|Conj
+v19 א֣וֹ|’ōw|-|H176|Conj
 v19 אִ֔ישׁ|’îš|no man|H376|N-ms
 v19 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
 v19 יִהְיֶ֥ה|yih·yeh|has|H1961|V-Qal-Imperf-3ms
-v19 ב֖וֹ|ḇōw||H0|Prep | 3ms
+v19 ב֖וֹ|ḇōw|-|H0|Prep | 3ms
 v19 שֶׁ֣בֶר|še·ḇer|a broken|H7667|N-msc
 v19 רָ֑גֶל|rā·ḡel|foot|H7272|N-fs
 v19 א֖וֹ|’ōw|or|H176|Conj
@@ -247,7 +247,7 @@ v20 אָֽשֶׁךְ׃|’ā·šeḵ|testicle|H810|N-ms
 v21 כָּל־|kāl-|No|H3605|N-msc
 v21 אִ֞ישׁ|’îš|...|H376|N-ms
 v21 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
-v21 בּ֣וֹ|bōw||H0|Prep | 3ms
+v21 בּ֣וֹ|bōw|-|H0|Prep | 3ms
 v21 מ֗וּם|mūm|has a defect|H3971|N-ms
 v21 מִזֶּ֙רַע֙|miz·ze·ra‘|descendant|H2233|Prep-m | N-msc
 v21 אַהֲרֹ֣ן|’a·hă·rōn|of Aaron|H175|N-proper-ms
@@ -259,7 +259,7 @@ v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 אִשֵּׁ֣י|’iš·šê|the food offerings|H801|N-mpc
 v21 יְהוָ֑ה|Yah·weh|to the LORD|H3068|N-proper-ms
 v21 מ֣וּם|mūm|[Since] he has a defect|H3971|N-ms
-v21 בּ֔וֹ|bōw||H0|Prep | 3ms
+v21 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v21 אֵ֚ת|’êṯ|-|H853|DirObjM
 v21 לֶ֣חֶם|le·ḥem|the food|H3899|N-msc
 v21 אֱלֹהָ֔יו|’ĕ·lō·hāw|of his God|H430|N-mpc | 3ms
@@ -280,11 +280,11 @@ v23 לֹ֣א|lō|he must not|H3808|Adv-NegPrt
 v23 יָבֹ֗א|yā·ḇō|go|H935|V-Qal-Imperf-3ms
 v23 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
 v23 הַמִּזְבֵּ֛חַ|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
-v23 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
+v23 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v23 יִגַּ֖שׁ|yig·gaš|or approach|H5066|V-Qal-Imperf-3ms
 v23 כִּֽי־|kî-|because|H3588|Conj
 v23 מ֣וּם|mūm|he has a defect|H3971|N-ms
-v23 בּ֑וֹ|bōw||H0|Prep | 3ms
+v23 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v23 וְלֹ֤א|wə·lō|-|H3808|Conj-w | Adv-NegPrt
 v23 יְחַלֵּל֙|yə·ḥal·lêl|so as not to desecrate|H2490|V-Piel-Imperf-3ms
 v23 אֶת־|’eṯ-|-|H853|DirObjM
@@ -302,4 +302,4 @@ v24 בָּנָ֑יו|bā·nāw|and his sons|H1121|N-mpc | 3ms
 v24 וְאֶֽל־|wə·’el-|...|H413|Conj-w | Prep
 v24 כָּל־|kāl-|all|H3605|N-msc
 v24 בְּנֵ֖י|bə·nê|the Israelites|H1121|N-mpc
-v24 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|...|H3478|N-proper-ms
+v24 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms

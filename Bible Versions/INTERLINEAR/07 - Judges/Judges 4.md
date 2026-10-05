@@ -41,9 +41,9 @@ v3 בְּנֵ֧י|bə·nê|the Israelites|H1121|N-mpc
 v3 יִשְׂרָאֵ֛ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v3 בְּחָזְקָ֖ה|bə·ḥā·zə·qāh|had harshly|H2394|Prep-b | N-fs
 v3 עֶשְׂרִ֥ים|‘eś·rîm|for twenty|H6242|Number-cp
-v3 שָׁנָֽה׃ס|šā·nāh|years|H8141|N-fs
+v3 שָׁנָֽה׃|šā·nāh|years|H8141|N-fs
 v4 וּדְבוֹרָה֙|ū·ḏə·ḇō·w·rāh|Now Deborah|H1683|Conj-w | N-proper-fs
-v4 אִשָּׁ֣ה|’iš·šāh|vvv|H802|N-fs
+v4 אִשָּׁ֣ה|’iš·šāh|...|H802|N-fs
 v4 נְבִיאָ֔ה|nə·ḇî·’āh|a prophetess|H5031|N-fs
 v4 אֵ֖שֶׁת|’ê·šeṯ|the wife|H802|N-fsc
 v4 לַפִּיד֑וֹת|lap·pî·ḏō·wṯ|of Lappidoth|H3941|N-proper-ms
@@ -61,7 +61,7 @@ v5 דְּבוֹרָ֗ה|də·ḇō·w·rāh|of Deborah|H1683|N-proper-fs
 v5 בֵּ֧ין|bên|between|H996|Prep
 v5 הָרָמָ֛ה|hā·rā·māh|Ramah|H7414|Art | N-proper-fs
 v5 וּבֵ֥ין|ū·ḇên|...|H996|Conj-w | Prep
-v5 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v5 בֵּֽית־|bêṯ-|...|H1008|Prep
 v5 אֵ֖ל|’êl|and Bethel|H1008|N-proper-fs
 v5 בְּהַ֣ר|bə·har|in the hill country|H2022|Prep-b | N-msc
 v5 אֶפְרָ֑יִם|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
@@ -93,9 +93,9 @@ v6 עִמְּךָ֗|‘im·mə·ḵā|with you|H5973|Prep | 2ms
 v6 עֲשֶׂ֤רֶת|‘ă·śe·reṯ|ten|H6235|Number-msc
 v6 אֲלָפִים֙|’ă·lā·p̄îm|thousand|H505|Number-mp
 v6 אִ֔ישׁ|’îš|men|H376|N-ms
-v6 מִבְּנֵ֥י|mib·bə·nê|vvv|H1121|Prep-m | N-mpc
+v6 מִבְּנֵ֥י|mib·bə·nê|...|H1121|Prep-m | N-mpc
 v6 נַפְתָּלִ֖י|nap̄·tā·lî|of Naphtali|H5321|N-proper-ms
-v6 וּמִבְּנֵ֥י|ū·mib·bə·nê|vvv|H1121|Conj-w, Prep-m | N-mpc
+v6 וּמִבְּנֵ֥י|ū·mib·bə·nê|...|H1121|Conj-w, Prep-m | N-mpc
 v6 זְבֻלֽוּן׃|zə·ḇu·lūn|and Zebulun|H2074|N-proper-ms
 v7 וּמָשַׁכְתִּ֨י|ū·mā·šaḵ·tî|And I will draw out|H4900|Conj-w | V-Qal-ConjPerf-1cs
 v7 אֵלֶ֜יךָ|’ê·le·ḵā|-|H413|Prep | 2ms
@@ -192,7 +192,7 @@ v12 בָּרָ֥ק|bā·rāq|Barak|H1301|N-proper-ms
 v12 בֶּן־|ben-|son|H1121|N-msc
 v12 אֲבִינֹ֖עַם|’ă·ḇî·nō·‘am|of Abinoam|H42|N-proper-ms
 v12 הַר־|har-|Mount|H2022|N-msc
-v12 תָּבֽוֹר׃ס|tā·ḇō·wr|Tabor|H8396|N-proper-fs
+v12 תָּבֽוֹר׃|tā·ḇō·wr|Tabor|H8396|N-proper-fs
 v13 וַיַּזְעֵ֨ק|way·yaz·‘êq|summoned|H2199|Conj-w | V-Hifil-ConsecImperf-3ms
 v13 סִֽיסְרָ֜א|sî·sə·rā|[he]|H5516|N-proper-ms
 v13 אֶת־|’eṯ-|-|H853|DirObjM
@@ -248,7 +248,7 @@ v15 הָרֶ֧כֶב|hā·re·ḵeḇ|his charioteers|H7393|Art | N-ms
 v15 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v15 כָּל־|kāl-|and all|H3605|N-msc
 v15 הַֽמַּחֲנֶ֛ה|ham·ma·ḥă·neh|his army|H4264|Art | N-cs
-v15 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v15 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v15 חֶ֖רֶב|ḥe·reḇ|with the sword|H2719|N-fs
 v15 לִפְנֵ֣י|lip̄·nê|And in front of|H6440|Prep-l | N-cpc
 v15 בָרָ֑ק|ḇā·rāq|[him]|H1301|N-proper-ms
@@ -367,7 +367,7 @@ v21 וְהֽוּא־|wə·hū-|But as he|H1931|Conj-w | Pro-3ms
 v21 נִרְדָּ֥ם|nir·dām|lay sleeping|H7290|V-Nifal-Prtcpl-ms
 v21 וַיָּ֖עַף|way·yā·‘ap̄|from exhaustion|H5888|Conj-w | V-Qal-ConsecImperf-3ms
 v21 וַיָּמֹֽת׃|way·yā·mōṯ|and he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
-v22 וְהִנֵּ֣ה|wə·hin·nêh||H2009|Conj-w | Interjection
+v22 וְהִנֵּ֣ה|wə·hin·nêh|-|H2009|Conj-w | Interjection
 v22 בָרָק֮|ḇā·rāq|When Barak|H1301|N-proper-ms
 v22 רֹדֵ֣ף|rō·ḏêp̄|arrived in pursuit of|H7291|V-Qal-Prtcpl-ms
 v22 אֶת־|’eṯ-|-|H853|DirObjM
@@ -405,7 +405,7 @@ v23 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
 v23 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v24 וַתֵּ֜לֶךְ|wat·tê·leḵ|grew stronger|H1980|Conj-w | V-Qal-ConsecImperf-3fs
 v24 יַ֤ד|yaḏ|And the hand|H3027|N-fsc
-v24 בְּנֵֽי־|bə·nê-|vvv|H1121|N-mpc
+v24 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v24 יִשְׂרָאֵל֙|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v24 הָל֣וֹךְ|hā·lō·wḵ|-|H1980|V-Qal-InfAbs
 v24 וְקָשָׁ֔ה|wə·qā·šāh|and stronger|H7186|Conj-w | Adj-fs
@@ -419,4 +419,4 @@ v24 הִכְרִ֔יתוּ|hiḵ·rî·ṯū|they destroyed|H3772|V-Hifil-Perf-3
 v24 אֵ֖ת|’êṯ|-|H853|DirObjM
 v24 יָבִ֥ין|yā·ḇîn|him|H2985|N-proper-ms
 v24 מֶֽלֶךְ־|me·leḵ-|...|H4428|N-msc
-v24 כְּנָֽעַן׃פ|kə·nā·‘an|...|H3667|N-proper-ms
+v24 כְּנָֽעַן׃|kə·nā·‘an|...|H3667|N-proper-ms

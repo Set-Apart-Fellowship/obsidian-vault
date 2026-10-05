@@ -6,7 +6,7 @@ v1 וַיֹּ֗אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-
 v1 הֵאָֽסְפוּ֙|hê·’ā·sə·p̄ū|Gather around|H622|V-Nifal-Imp-mp
 v1 וְאַגִּ֣ידָה|wə·’ag·gî·ḏāh|so that I can tell|H5046|Conj-w | V-Hifil-ConjImperf.Cohort-1cs
 v1 לָכֶ֔ם|lā·ḵem|you|H0|Prep | 2mp
-v1 אֵ֛ת|’êṯ||H853|DirObjM
+v1 אֵ֛ת|’êṯ|-|H853|DirObjM
 v1 אֲשֶׁר־|’ă·šer-|what|H834|Pro-r
 v1 יִקְרָ֥א|yiq·rā|will happen|H7122|V-Qal-Imperf-3ms
 v1 אֶתְכֶ֖ם|’eṯ·ḵem|to you|H853|DirObjM | 2mp
@@ -41,7 +41,7 @@ v4 אָבִ֑יךָ|’ā·ḇî·ḵā|to your father's|H1|N-msc | 2ms
 v4 אָ֥ז|’āz|and|H227|Adv
 v4 חִלַּ֖לְתָּ|ḥil·lal·tā|defiled it|H2490|V-Piel-Perf-2ms
 v4 יְצוּעִ֥י|yə·ṣū·‘î|my couch|H3326|N-msc | 1cs
-v4 עָלָֽה׃פ|‘ā·lāh|onto|H5927|V-Qal-Perf-3ms
+v4 עָלָֽה׃|‘ā·lāh|onto|H5927|V-Qal-Perf-3ms
 v5 שִׁמְע֥וֹן|šim·‘ō·wn|Simeon|H8095|N-proper-ms
 v5 וְלֵוִ֖י|wə·lê·wî|and Levi|H3878|Conj-w | N-proper-ms
 v5 אַחִ֑ים|’a·ḥîm|are brothers|H251|N-mp
@@ -73,7 +73,7 @@ v7 קָשָׁ֑תָה|qā·šā·ṯāh|it is cruel|H7185|V-Qal-Perf-3fs
 v7 אֲחַלְּקֵ֣ם|’ă·ḥal·lə·qêm|I will disperse them|H2505|V-Piel-Imperf-1cs | 3mp
 v7 בְּיַעֲקֹ֔ב|bə·ya·‘ă·qōḇ|in Jacob|H3290|Prep-b | N-proper-ms
 v7 וַאֲפִיצֵ֖ם|wa·’ă·p̄î·ṣêm|and scatter them|H6327|Conj-w | V-Hifil-ConjImperf-1cs | 3mp
-v7 בְּיִשְׂרָאֵֽל׃ס|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | N-proper-ms
+v7 בְּיִשְׂרָאֵֽל׃|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | N-proper-ms
 v8 יְהוּדָ֗ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v8 אַתָּה֙|’at·tāh|...|H859|Pro-2ms
 v8 יוֹד֣וּךָ|yō·w·ḏū·ḵā|shall praise you|H3034|V-Hifil-Imperf-3mp | 2ms
@@ -128,7 +128,7 @@ v12 עֵינַ֖יִם|‘ê·na·yim|His eyes|H5869|N-cd
 v12 מִיָּ֑יִן|mî·yā·yin|than wine|H3196|Prep-m | N-ms
 v12 וּלְבֶן־|ū·lə·ḇen-|are whiter|H3836|Conj-w | Adj-msc
 v12 שִׁנַּ֖יִם|šin·na·yim|and his teeth|H8127|N-cd
-v12 מֵחָלָֽב׃פ|mê·ḥā·lāḇ|than milk|H2461|Prep-m | N-ms
+v12 מֵחָלָֽב׃|mê·ḥā·lāḇ|than milk|H2461|Prep-m | N-ms
 v13 זְבוּלֻ֕ן|zə·ḇū·lun|Zebulun|H2074|N-proper-ms
 v13 לְח֥וֹף|lə·ḥō·wp̄|by the seashore|H2348|Prep-l | N-msc
 v13 יַמִּ֖ים|yam·mîm|...|H3220|N-mp
@@ -138,7 +138,7 @@ v13 לְח֣וֹף|lə·ḥō·wp̄|and become a harbor|H2348|Prep-l | N-msc
 v13 אֳנִיּ֔וֹת|’o·nî·yō·wṯ|for ships|H591|N-fp
 v13 וְיַרְכָת֖וֹ|wə·yar·ḵā·ṯōw|his border|H3411|Conj-w | N-fsc | 3ms
 v13 עַל־|‘al-|shall extend|H5921|Prep
-v13 צִידֹֽן׃ס|ṣî·ḏōn|to Sidon|H6721|N-proper-fs
+v13 צִידֹֽן׃|ṣî·ḏōn|to Sidon|H6721|N-proper-fs
 v14 יִשָּׂשכָ֖ר|yiś·śā·š·ḵār|Issachar|H3485|N-proper-ms
 v14 חֲמֹ֣ר|ḥă·mōr|donkey|H2543|N-msc
 v14 גָּ֑רֶם|gā·rem|[is] a strong|H1634|N-ms
@@ -158,7 +158,7 @@ v15 שִׁכְמוֹ֙|šiḵ·mōw|his shoulder|H7926|N-msc | 3ms
 v15 לִסְבֹּ֔ל|lis·bōl|to the burden|H5445|Prep-l | V-Qal-Inf
 v15 וַיְהִ֖י|way·hî|and submitted|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v15 לְמַס־|lə·mas-|to labor|H4522|Prep-l | N-msc
-v15 עֹבֵֽד׃ס|‘ō·ḇêḏ|as a servant|H5647|V-Qal-Prtcpl-ms
+v15 עֹבֵֽד׃|‘ō·ḇêḏ|as a servant|H5647|V-Qal-Prtcpl-ms
 v16 דָּ֖ן|dān|Dan|H1835|N-proper-ms
 v16 יָדִ֣ין|yā·ḏîn|shall provide justice|H1777|V-Qal-Imperf-3ms
 v16 עַמּ֑וֹ|‘am·mōw|for his people|H5971|N-msc | 3ms
@@ -187,20 +187,20 @@ v19 גְּד֣וּד|gə·ḏūḏ|by raiders|H1416|N-ms
 v19 יְגוּדֶ֑נּוּ|yə·ḡū·ḏen·nū|will be attacked|H1464|V-Qal-Imperf-3ms | 3ms
 v19 וְה֖וּא|wə·hū|but he|H1931|Conj-w | Pro-3ms
 v19 יָגֻ֥ד|yā·ḡuḏ|will attack|H1464|V-Qal-Imperf-3ms
-v19 עָקֵֽב׃ס|‘ā·qêḇ|their heels|H6119|N-ms
+v19 עָקֵֽב׃|‘ā·qêḇ|their heels|H6119|N-ms
 v20 מֵאָשֵׁ֖ר|mê·’ā·šêr|Asher's|H836|Prep-m | N-proper-ms
 v20 שְׁמֵנָ֣ה|šə·mê·nāh|will be rich|H8082|Adj-fs
 v20 לַחְמ֑וֹ|laḥ·mōw|food|H3899|N-msc | 3ms
 v20 וְה֥וּא|wə·hū|he|H1931|Conj-w | Pro-3ms
 v20 יִתֵּ֖ן|yit·tên|shall provide|H5414|V-Qal-Imperf-3ms
 v20 מַֽעֲדַנֵּי־|ma·‘ă·ḏan·nê-|delicacies|H4574|N-mpc
-v20 מֶֽלֶךְ׃ס|me·leḵ|royal|H4428|N-ms
+v20 מֶֽלֶךְ׃|me·leḵ|royal|H4428|N-ms
 v21 נַפְתָּלִ֖י|nap̄·tā·lî|Naphtali|H5321|N-proper-ms
 v21 אַיָּלָ֣ה|’ay·yā·lāh|is a doe|H355|N-fs
 v21 שְׁלֻחָ֑ה|šə·lu·ḥāh|set free|H7971|V-Qal-QalPassPrtcpl-fs
 v21 הַנֹּתֵ֖ן|han·nō·ṯên|that bears|H5414|Art | V-Qal-Prtcpl-ms
 v21 אִמְרֵי־|’im·rê-|fawns|H561|N-mpc
-v21 שָֽׁפֶר׃ס|šā·p̄er|beautiful|H8233|N-ms
+v21 שָֽׁפֶר׃|šā·p̄er|beautiful|H8233|N-ms
 v22 בֵּ֤ן|bên|vine|H1121|N-ms
 v22 פֹּרָת֙|pō·rāṯ|is a fruitful|H6509|V-Qal-Prtcpl-fsc
 v22 יוֹסֵ֔ף|yō·w·sêp̄|Joseph|H3130|N-proper-ms
@@ -241,7 +241,7 @@ v25 שָׁמַ֙יִם֙|šā·ma·yim|of the heavens|H8064|N-mp
 v25 מֵעָ֔ל|mê·‘āl|above|H5921|Prep
 v25 בִּרְכֹ֥ת|bir·ḵōṯ|with blessings|H1293|N-fpc
 v25 תְּה֖וֹם|tə·hō·wm|of the depths|H8415|N-cs
-v25 רֹבֶ֣צֶת|rō·ḇe·ṣeṯ|vvv|H7257|V-Qal-Prtcpl-fs
+v25 רֹבֶ֣צֶת|rō·ḇe·ṣeṯ|...|H7257|V-Qal-Prtcpl-fs
 v25 תָּ֑חַת|tā·ḥaṯ|below|H8478|Prep
 v25 בִּרְכֹ֥ת|bir·ḵōṯ|with blessings|H1293|N-fpc
 v25 שָׁדַ֖יִם|šā·ḏa·yim|of the breasts|H7699|N-md
@@ -261,7 +261,7 @@ v26 לְרֹ֣אשׁ|lə·rōš|on the head|H7218|Prep-l | N-msc
 v26 יוֹסֵ֔ף|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
 v26 וּלְקָדְקֹ֖ד|ū·lə·qā·ḏə·qōḏ|on the brow|H6936|Conj-w, Prep-l | N-msc
 v26 נְזִ֥יר|nə·zîr|of the prince|H5139|N-msc
-v26 אֶחָֽיו׃פ|’e·ḥāw|of his brothers|H251|N-mpc | 3ms
+v26 אֶחָֽיו׃|’e·ḥāw|of his brothers|H251|N-mpc | 3ms
 v27 בִּנְיָמִין֙|bin·yā·mîn|Benjamin|H1144|N-proper-ms
 v27 זְאֵ֣ב|zə·’êḇ|is a ravenous wolf|H2061|N-ms
 v27 יִטְרָ֔ף|yiṭ·rāp̄|...|H2963|V-Qal-Imperf-3ms
@@ -308,7 +308,7 @@ v29 בִּשְׂדֵ֖ה|biś·ḏêh|in the field|H7704|Prep-b | N-msc
 v29 עֶפְר֥וֹן|‘ep̄·rō·wn|of Ephron|H6085|N-proper-ms
 v29 הַֽחִתִּֽי׃|ha·ḥit·tî|the Hittite|H2850|Art | N-proper-ms
 v30 בַּמְּעָרָ֞ה|bam·mə·‘ā·rāh|The cave|H4631|Prep-b, Art | N-fs
-v30 אֲשֶׁ֨ר|’ă·šer||H834|Pro-r
+v30 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v30 בִּשְׂדֵ֧ה|biś·ḏêh|is in the field|H7704|Prep-b | N-msc
 v30 הַמַּכְפֵּלָ֛ה|ham·maḵ·pê·lāh|of Machpelah|H4375|Art | N-proper-fs
 v30 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r

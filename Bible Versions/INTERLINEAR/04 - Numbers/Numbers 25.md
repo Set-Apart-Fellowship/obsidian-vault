@@ -17,7 +17,7 @@ v2 וַיִּֽשְׁתַּחֲוּ֖וּ|way·yiš·ta·ḥăw·wū|and bowed 
 v2 לֵֽאלֹהֵיהֶֽן׃|lê·lō·hê·hen|to these gods|H430|Prep-l | N-mpc | 3fp
 v3 וַיִּצָּ֥מֶד|way·yiṣ·ṣā·meḏ|joined in worshiping|H6775|Conj-w | V-Nifal-ConsecImperf-3ms
 v3 יִשְׂרָאֵ֖ל|yiś·rā·’êl|So Israel|H3478|N-proper-ms
-v3 לְבַ֣עַל|lə·ḇa·‘al||H1187|Prep
+v3 לְבַ֣עַל|lə·ḇa·‘al|-|H1187|Prep
 v3 פְּע֑וֹר|pə·‘ō·wr|Baal of Peor|H1187|Prep | N-proper-fs
 v3 וַיִּֽחַר־|way·yi·ḥar-|burned|H2734|Conj-w | V-Qal-ConsecImperf-3ms
 v3 אַ֥ף|’ap̄|and the anger|H639|N-msc
@@ -51,13 +51,13 @@ v5 הִרְגוּ֙|hir·ḡū|Each of you must kill|H2026|V-Qal-Imp-mp
 v5 אִ֣ישׁ|’îš|all of his men|H376|N-ms
 v5 אֲנָשָׁ֔יו|’ă·nā·šāw|...|H582|N-mpc | 3ms
 v5 הַנִּצְמָדִ֖ים|han·niṣ·mā·ḏîm|who have joined in worshiping|H6775|Art | V-Nifal-Prtcpl-mp
-v5 לְבַ֥עַל|lə·ḇa·‘al|vvv|H1187|Prep
+v5 לְבַ֥עַל|lə·ḇa·‘al|...|H1187|Prep
 v5 פְּעֽוֹר׃|pə·‘ō·wr|Baal of Peor|H1187|Prep | N-proper-fs
 v6 וְהִנֵּ֡ה|wə·hin·nêh|Just then|H2009|Conj-w | Interjection
 v6 אִישׁ֩|’îš|man|H376|N-ms
 v6 מִבְּנֵ֨י|mib·bə·nê|an Israelite|H1121|Prep-m | N-mpc
 v6 יִשְׂרָאֵ֜ל|yiś·rā·’êl|...|H3478|N-proper-ms
-v6 בָּ֗א|bā|vvv|H935|V-Qal-Prtcpl-ms
+v6 בָּ֗א|bā|...|H935|V-Qal-Prtcpl-ms
 v6 וַיַּקְרֵ֤ב|way·yaq·rêḇ|brought|H7126|Conj-w | V-Hifil-ConsecImperf-3ms
 v6 אֶל־|’el-|to|H413|Prep
 v6 אֶחָיו֙|’e·ḥāw|his family|H251|N-mpc | 3ms
@@ -98,7 +98,7 @@ v8 וַיִּדְקֹר֙|way·yiḏ·qōr|and drove [the spear] through|H1856|C
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 שְׁנֵיהֶ֔ם|šə·nê·hem|both of them|H8147|Number-mdc | 3mp
 v8 אֵ֚ת|’êṯ|-|H853|DirObjM
-v8 אִ֣ישׁ|’îš|vvv|H376|N-msc
+v8 אִ֣ישׁ|’îš|...|H376|N-msc
 v8 יִשְׂרָאֵ֔ל|yiś·rā·’êl|through the Israelite|H3478|N-proper-ms
 v8 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v8 הָאִשָּׁ֖ה|hā·’iš·šāh|of the woman|H802|Art | N-fs
@@ -114,7 +114,7 @@ v9 הַמֵּתִ֖ים|ham·mê·ṯîm|but those who died|H4191|Art | V-Qal-Pr
 v9 בַּמַּגֵּפָ֑ה|bam·mag·gê·p̄āh|in the plague|H4046|Prep-b, Art | N-fs
 v9 אַרְבָּעָ֥ה|’ar·bā·‘āh|numbered 24,000|H702|Number-ms
 v9 וְעֶשְׂרִ֖ים|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
-v9 אָֽלֶף׃פ|’ā·lep̄|...|H505|Number-ms
+v9 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v10 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v10 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v10 אֶל־|’el-|to|H413|Prep
@@ -153,7 +153,7 @@ v12 שָׁלֽוֹם׃|šā·lō·wm|of peace|H7965|N-ms
 v13 וְהָ֤יְתָה|wə·hā·yə·ṯāh|It will be|H1961|Conj-w | V-Qal-ConjPerf-3fs
 v13 לּוֹ֙|lōw|for him|H0|Prep | 3ms
 v13 וּלְזַרְע֣וֹ|ū·lə·zar·‘ōw|and his descendants|H2233|Conj-w, Prep-l | N-msc | 3ms
-v13 אַחֲרָ֔יו|’a·ḥă·rāw|vvv|H310|Prep | 3ms
+v13 אַחֲרָ֔יו|’a·ḥă·rāw|...|H310|Prep | 3ms
 v13 בְּרִ֖ית|bə·rîṯ|a covenant|H1285|N-fsc
 v13 כְּהֻנַּ֣ת|kə·hun·naṯ|priesthood|H3550|N-fsc
 v13 עוֹלָ֑ם|‘ō·w·lām|of permanent|H5769|N-ms
@@ -166,7 +166,7 @@ v13 עַל־|‘al-|for|H5921|Prep
 v13 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
 v13 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v14 וְשֵׁם֩|wə·šêm|The name|H8034|Conj-w | N-msc
-v14 אִ֨ישׁ|’îš|vvv|H376|N-msc
+v14 אִ֨ישׁ|’îš|...|H376|N-msc
 v14 יִשְׂרָאֵ֜ל|yiś·rā·’êl|of the Israelite|H3478|N-proper-ms
 v14 הַמֻּכֶּ֗ה|ham·muk·keh|who was slain|H5221|Art | V-Hofal-Prtcpl-ms
 v14 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
@@ -192,7 +192,7 @@ v15 אֻמּ֥וֹת|’um·mō·wṯ|a tribal|H523|N-fp
 v15 בֵּֽית־|bêṯ-|...|H1004|N-msc
 v15 אָ֛ב|’āḇ|family|H1|N-ms
 v15 בְּמִדְיָ֖ן|bə·miḏ·yān|of a Midianite|H4080|Prep-b | N-proper-ms
-v15 הֽוּא׃פ|hū|...|H1931|Pro-3ms
+v15 הֽוּא׃|hū|...|H1931|Pro-3ms
 v16 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v16 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v16 אֶל־|’el-|...|H413|Prep

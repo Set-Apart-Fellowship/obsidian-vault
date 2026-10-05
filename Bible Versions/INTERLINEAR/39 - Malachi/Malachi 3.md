@@ -149,7 +149,7 @@ v10 צְבָא֑וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v10 אִם־|’im-|See if|H518|Conj
 v10 לֹ֧א|lō|I will not|H3808|Adv-NegPrt
 v10 אֶפְתַּ֣ח|’ep̄·taḥ|open|H6605|V-Qal-Imperf-1cs
-v10 לָכֶ֗ם|lā·ḵem||H0|Prep | 2mp
+v10 לָכֶ֗ם|lā·ḵem|-|H0|Prep | 2mp
 v10 אֵ֚ת|’êṯ|-|H853|DirObjM
 v10 אֲרֻבּ֣וֹת|’ă·rub·bō·wṯ|the windows|H699|N-fpc
 v10 הַשָּׁמַ֔יִם|haš·šā·ma·yim|of heaven|H8064|Art | N-mp
@@ -164,13 +164,13 @@ v11 לָכֶם֙|lā·ḵem|for you|H0|Prep | 2mp
 v11 בָּֽאֹכֵ֔ל|bā·’ō·ḵêl|the devourer|H398|Prep-b, Art | V-Qal-Prtcpl-ms
 v11 וְלֹֽא־|wə·lō-|so that it will not|H3808|Conj-w | Adv-NegPrt
 v11 יַשְׁחִ֥ת|yaš·ḥiṯ|destroy|H7843|V-Hifil-Imperf-3ms
-v11 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v11 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 פְּרִ֣י|pə·rî|the fruits|H6529|N-msc
 v11 הָאֲדָמָ֑ה|hā·’ă·ḏā·māh|of your land|H127|Art | N-fs
 v11 וְלֹא־|wə·lō-|will not|H3808|Conj-w | Adv-NegPrt
 v11 תְשַׁכֵּ֨ל|ṯə·šak·kêl|fail to produce fruit|H7921|V-Piel-Imperf-3fs
-v11 לָכֶ֤ם|lā·ḵem||H0|Prep | 2mp
+v11 לָכֶ֤ם|lā·ḵem|-|H0|Prep | 2mp
 v11 הַגֶּ֙פֶן֙|hag·ge·p̄en|and the vine|H1612|Art | N-cs
 v11 בַּשָּׂדֶ֔ה|baś·śā·ḏeh|in your field|H7704|Prep-b, Art | N-ms
 v11 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -187,7 +187,7 @@ v12 אֶ֣רֶץ|’e·reṣ|a land|H776|N-fsc
 v12 חֵ֔פֶץ|ḥê·p̄eṣ|of delight|H2656|N-ms
 v12 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v12 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v12 צְבָאֽוֹת׃ס|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
+v12 צְבָאֽוֹת׃|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v13 חָזְק֥וּ|ḥā·zə·qū|have been harsh|H2388|V-Qal-Perf-3cp
 v13 עָלַ֛י|‘ā·lay|against Me|H5921|Prep | 1cs
 v13 דִּבְרֵיכֶ֖ם|diḇ·rê·ḵem|Your words|H1697|N-mpc | 2mp
@@ -271,4 +271,4 @@ v18 עֹבֵ֣ד|‘ō·ḇêḏ|those who serve|H5647|V-Qal-Prtcpl-msc
 v18 אֱלֹהִ֔ים|’ĕ·lō·hîm|God|H430|N-mp
 v18 לַאֲשֶׁ֖ר|la·’ă·šer|and those who|H834|Prep-l | Pro-r
 v18 לֹ֥א|lō|do not|H3808|Adv-NegPrt
-v18 עֲבָדֽוֹ׃ס|‘ă·ḇā·ḏōw|...|H5647|V-Qal-Perf-3ms | 3ms
+v18 עֲבָדֽוֹ׃|‘ă·ḇā·ḏōw|...|H5647|V-Qal-Perf-3ms | 3ms

@@ -40,7 +40,7 @@ v4 אַרְיֵה֙|’ar·yêh|Does a lion|H738|N-ms
 v4 בַּיַּ֔עַר|bay·ya·‘ar|in the forest|H3293|Prep-b, Art | N-ms
 v4 וְטֶ֖רֶף|wə·ṭe·rep̄|prey|H2964|Conj-w | N-ms
 v4 אֵ֣ין|’ên|when he has no|H369|Adv
-v4 ל֑וֹ|lōw||H0|Prep | 3ms
+v4 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v4 הֲיִתֵּ֨ן|hă·yit·tên|growl|H5414|V-Qal-Imperf-3ms
 v4 כְּפִ֤יר|kə·p̄îr|Does a young lion|H3715|N-ms
 v4 קוֹלוֹ֙|qō·w·lōw|...|H6963|N-msc | 3ms
@@ -129,7 +129,7 @@ v10 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v10 הָאֽוֹצְרִ֛ים|hā·’ō·wṣ·rîm|They store up|H686|Art | V-Qal-Prtcpl-mp
 v10 חָמָ֥ס|ḥā·mās|violence|H2555|N-ms
 v10 וָשֹׁ֖ד|wā·šōḏ|and destruction|H7701|Conj-w | N-ms
-v10 בְּאַרְמְנֽוֹתֵיהֶֽם׃פ|bə·’ar·mə·nō·w·ṯê·hem|in their citadels|H759|Prep-b | N-mpc | 3mp
+v10 בְּאַרְמְנֽוֹתֵיהֶֽם׃|bə·’ar·mə·nō·w·ṯê·hem|in their citadels|H759|Prep-b | N-mpc | 3mp
 v11 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v11 כֹּ֤ה|kōh|this is what|H3541|Adv
 v11 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -180,7 +180,7 @@ v14 בְּי֛וֹם|bə·yō·wm|On the day|H3117|Prep-b | N-msc
 v14 פָּקְדִ֥י|pā·qə·ḏî|I punish|H6485|V-Qal-Inf | 1cs
 v14 פִשְׁעֵֽי־|p̄iš·‘ê-|for their transgressions|H6588|N-mpc
 v14 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v14 עָלָ֑יו|‘ā·lāw||H5921|Prep | 3ms
+v14 עָלָ֑יו|‘ā·lāw|-|H5921|Prep | 3ms
 v14 וּפָֽקַדְתִּי֙|ū·p̄ā·qaḏ·tî|I will visit [destruction]|H6485|Conj-w | V-Qal-ConjPerf-1cs
 v14 עַל־|‘al-|on|H5921|Prep
 v14 מִזְבְּח֣וֹת|miz·bə·ḥō·wṯ|the altars|H4196|N-mpc
@@ -204,4 +204,4 @@ v15 וְסָפ֛וּ|wə·sā·p̄ū|will come to an end|H5595|Conj-w | V-Qal-Co
 v15 בָּתִּ֥ים|bāt·tîm|houses|H1004|N-mp
 v15 רַבִּ֖ים|rab·bîm|and the great|H7227|Adj-mp
 v15 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v15 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v15 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

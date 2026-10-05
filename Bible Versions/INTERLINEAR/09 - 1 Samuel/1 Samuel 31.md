@@ -23,7 +23,7 @@ v2 יְהוֹנָתָ֧ן|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
 v2 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v2 אֲבִינָדָ֛ב|’ă·ḇî·nā·ḏāḇ|Abinadab|H41|N-proper-ms
 v2 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
-v2 מַלְכִּי־|mal·kî-|vvv|H4444|Prep
+v2 מַלְכִּי־|mal·kî-|...|H4444|Prep
 v2 שׁ֖וּעַ|šū·a‘|Malchishua|H4444|N-proper-ms
 v2 בְּנֵ֥י|bə·nê|sons|H1121|N-mpc
 v2 שָׁאֽוּל׃|šā·’ūl|Saul's|H7586|N-proper-ms
@@ -115,7 +115,7 @@ v7 וַיָּנֻ֔סוּ|way·yā·nu·sū|and ran away|H5127|Conj-w | V-Qal-Co
 v7 וַיָּבֹ֣אוּ|way·yā·ḇō·’ū|came|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v7 פְלִשְׁתִּ֔ים|p̄ə·liš·tîm|So the Philistines|H6430|N-proper-mp
 v7 וַיֵּֽשְׁב֖וּ|way·yê·šə·ḇū|and occupied|H3427|Conj-w | V-Qal-ConsecImperf-3mp
-v7 בָּהֶֽן׃ס|bā·hen|[their cities]|H0|Prep | 3fp
+v7 בָּהֶֽן׃|bā·hen|[their cities]|H0|Prep | 3fp
 v8 וַֽיְהִי֙|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 מִֽמָּחֳרָ֔ת|mim·mā·ḥo·rāṯ|The next day|H4283|Prep-m | N-fs
 v8 וַיָּבֹ֣אוּ|way·yā·ḇō·’ū|came|H935|Conj-w | V-Qal-ConsecImperf-3mp
@@ -156,7 +156,7 @@ v10 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v10 גְּוִיָּתוֹ֙|gə·wî·yā·ṯōw|his body|H1472|N-fsc | 3ms
 v10 תָּקְע֔וּ|tā·qə·‘ū|and hung|H8628|V-Qal-Perf-3cp
 v10 בְּחוֹמַ֖ת|bə·ḥō·w·maṯ|on the wall|H2346|Prep-b | N-fsc
-v10 בֵּ֥ית|bêṯ|vvv|H1052|Prep
+v10 בֵּ֥ית|bêṯ|...|H1052|Prep
 v10 שָֽׁן׃|šān|of Beth-shan|H1052|N-proper-fs
 v11 וַיִּשְׁמְע֣וּ|way·yiš·mə·‘ū|heard|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v11 אֵלָ֔יו|’ê·lāw|...|H413|Prep | 3ms
@@ -183,7 +183,7 @@ v12 וְאֵת֙|wə·’êṯ|-|H853|Conj-w | DirObjM
 v12 גְּוִיֹּ֣ת|gə·wî·yōṯ|[and]|H1472|N-fpc
 v12 בָּנָ֔יו|bā·nāw|his sons|H1121|N-mpc | 3ms
 v12 מֵחוֹמַ֖ת|mê·ḥō·w·maṯ|from the wall|H2346|Prep-m | N-fsc
-v12 בֵּ֣ית|bêṯ|vvv|H1052|Prep
+v12 בֵּ֣ית|bêṯ|...|H1052|Prep
 v12 שָׁ֑ן|šān|of Beth-shan|H1052|N-proper-fs
 v12 וַיָּבֹ֣אוּ|way·yā·ḇō·’ū|When they arrived|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v12 יָבֵ֔שָׁה|yā·ḇê·šāh|at Jabesh|H3003|N-proper-fs | 3fs
@@ -199,4 +199,4 @@ v13 הָאֶ֖שֶׁל|hā·’e·šel|the tamarisk tree|H815|Art | N-ms
 v13 בְּיָבֵ֑שָׁה|bə·yā·ḇê·šāh|in Jabesh|H3003|Prep-b | N-proper-fs | 3fs
 v13 וַיָּצֻ֖מוּ|way·yā·ṣu·mū|and they fasted|H6684|Conj-w | V-Qal-ConsecImperf-3mp
 v13 שִׁבְעַ֥ת|šiḇ·‘aṯ|seven|H7651|Number-msc
-v13 יָמִֽים׃פ|yā·mîm|days|H3117|N-mp
+v13 יָמִֽים׃|yā·mîm|days|H3117|N-mp

@@ -109,4 +109,4 @@ v16 אִם־|’im-|-|H518|Conj
 v16 יַ֖חַד|ya·ḥaḏ|together|H3162|Adv
 v16 עַל־|‘al-|into|H5921|Prep
 v16 עָפָ֣ר|‘ā·p̄ār|the dust|H6083|N-ms
-v16 נָֽחַת׃ס|nā·ḥaṯ|Will we go down|H5181|V-Qal-Imperf-1cp
+v16 נָֽחַת׃|nā·ḥaṯ|Will we go down|H5181|V-Qal-Imperf-1cp

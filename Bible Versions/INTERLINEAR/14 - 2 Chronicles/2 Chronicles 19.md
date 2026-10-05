@@ -25,7 +25,7 @@ v2 תֶּאֱהָ֑ב|te·’ĕ·hāḇ|and love|H157|V-Qal-Imperf-2ms
 v2 וּבָזֹאת֙|ū·ḇā·zōṯ|Because of this|H2063|Conj-w, Prep-b | Pro-fs
 v2 עָלֶ֣יךָ|‘ā·le·ḵā|upon you|H5921|Prep | 2ms
 v2 קֶּ֔צֶף|qe·ṣep̄|the wrath|H7110|N-ms
-v2 מִלִּפְנֵ֖י|mil·lip̄·nê|vvv|H6440|Prep-m, Prep-l | N-cpc
+v2 מִלִּפְנֵ֖י|mil·lip̄·nê|...|H6440|Prep-m, Prep-l | N-cpc
 v2 יְהוָֽה׃|Yah·weh|of the LORD [is]|H3068|N-proper-ms
 v3 אֲבָ֕ל|’ă·ḇāl|However|H61|Adv
 v3 דְּבָרִ֥ים|də·ḇā·rîm|some|H1697|N-mp
@@ -47,7 +47,7 @@ v4 בִּירוּשָׁלִָ֑םס|bī·rū·šå̄·lå̄·ms|in Jerusalem|H33
 v4 וַיָּ֜שָׁב|way·yā·šāḇ|and once again|H7725|Conj-w | V-Qal-ConsecImperf-3ms
 v4 וַיֵּצֵ֣א|way·yê·ṣê|he went out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v4 בָעָ֗ם|ḇā·‘ām|among the people|H5971|Prep-b, Art | N-ms
-v4 מִבְּאֵ֥ר|mib·bə·’êr|vvv|H884|Prep
+v4 מִבְּאֵ֥ר|mib·bə·’êr|...|H884|Prep
 v4 שֶׁ֙בַע֙|še·ḇa‘|from Beersheba|H884|Prep | N-proper-fs
 v4 עַד־|‘aḏ-|to|H5704|Prep
 v4 הַ֣ר|har|the hill country|H2022|N-msc
@@ -64,8 +64,8 @@ v5 בְּכָל־|bə·ḵāl|in each of|H3605|Prep-b | N-msc
 v5 עָרֵ֧י|‘ā·rê|cities|H5892|N-fpc
 v5 יְהוּדָ֛ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v5 הַבְּצֻר֖וֹת|hab·bə·ṣu·rō·wṯ|the fortified|H1219|Art | Adj-fp
-v5 לְעִ֥יר|lə·‘îr||H5892|Prep-l | N-fs
-v5 וָעִֽיר׃|wā·‘îr||H5892|Conj-w | N-fs
+v5 לְעִ֥יר|lə·‘îr|-|H5892|Prep-l | N-fs
+v5 וָעִֽיר׃|wā·‘îr|-|H5892|Conj-w | N-fs
 v6 וַיֹּ֣אמֶר|way·yō·mer|Then he said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 אֶל־|’el-|to|H413|Prep
 v6 הַשֹּֽׁפְטִ֗ים|haš·šō·p̄ə·ṭîm|the judges|H8199|Art | V-Qal-Prtcpl-mp
@@ -80,7 +80,7 @@ v6 תִּשְׁפְּט֖וּ|tiš·pə·ṭū|judging|H8199|V-Qal-Imperf-2mp
 v6 כִּ֣י|kî|but|H3588|Conj
 v6 לַיהוָ֑ה|Yah·weh|for the LORD|H3068|Prep-l | N-proper-ms
 v6 וְעִמָּכֶ֖ם|wə·‘im·mā·ḵem|who is with you|H5973|Conj-w | Prep | 2mp
-v6 בִּדְבַ֥ר|biḏ·ḇar|vvv|H1697|Prep-b | N-msc
+v6 בִּדְבַ֥ר|biḏ·ḇar|...|H1697|Prep-b | N-msc
 v6 מִשְׁפָּֽט׃|miš·pāṭ|when you render judgment|H4941|N-ms
 v7 וְעַתָּ֕ה|wə·‘at·tāh|And now|H6258|Conj-w | Adv
 v7 יְהִ֥י|yə·hî|be|H1961|V-Qal-Imperf.Jus-3ms
@@ -179,4 +179,4 @@ v11 וַעֲשׂ֔וּ|wa·‘ă·śū|Act|H6213|Conj-w | V-Qal-Imp-mp
 v11 וִיהִ֥י|wî·hî|be|H1961|Conj-w | V-Qal-ConjImperf.Jus-3ms
 v11 יְהוָ֖ה|Yah·weh|may the LORD|H3068|N-proper-ms
 v11 עִם־|‘im-|with|H5973|Prep
-v11 הַטּֽוֹב׃פ|haṭ·ṭō·wḇ|the upright|H2896|Art | Adj-ms
+v11 הַטּֽוֹב׃|haṭ·ṭō·wḇ|the upright|H2896|Art | Adj-ms

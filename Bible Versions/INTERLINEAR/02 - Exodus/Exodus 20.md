@@ -4,7 +4,7 @@ v1 אֵ֛ת|’êṯ|-|H853|DirObjM
 v1 כָּל־|kāl-|all|H3605|N-msc
 v1 הַדְּבָרִ֥ים|had·də·ḇā·rîm|words|H1697|Art | N-mp
 v1 הָאֵ֖לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
-v1 לֵאמֹֽר׃ס|lê·mōr|...|H559|Prep-l | V-Qal-Inf
+v1 לֵאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v2 אָֽנֹכִ֖י֙|’ā·nō·ḵî|I|H595|Pro-1cs
 v2 יְהוָ֣ה|Yah·weh|am the LORD|H3068|N-proper-ms
 v2 אֱלֹהֶ֑֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
@@ -63,7 +63,7 @@ v6 חֶ֖֙סֶד֙|ḥe·seḏ|loving devotion|H2617|N-ms
 v6 לַאֲלָפִ֑֔ים|la·’ă·lā·p̄îm|to a thousand [generations]|H505|Prep-l | Number-mp
 v6 לְאֹהֲבַ֖י|lə·’ō·hă·ḇay|of those who love Me|H157|Prep-l | V-Qal-Prtcpl-mpc | 1cs
 v6 וּלְשֹׁמְרֵ֥י|ū·lə·šō·mə·rê|and keep|H8104|Conj-w, Prep-l | V-Qal-Prtcpl-mpc
-v6 מִצְוֺתָֽי׃ס|miṣ·wō·ṯāy|My commandments|H4687|N-fpc | 1cs
+v6 מִצְוֺתָֽי׃|miṣ·wō·ṯāy|My commandments|H4687|N-fpc | 1cs
 v7 לֹ֥א|lō|You {shall} not|H3808|Adv-NegPrt
 v7 תִשָּׂ֛א|ṯiś·śā|take|H5375|V-Qal-Imperf-2ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
@@ -80,7 +80,7 @@ v7 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
 v7 יִשָּׂ֥א|yiś·śā|takes|H5375|V-Qal-Imperf-3ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 שְׁמ֖וֹ|šə·mōw|His name|H8034|N-msc | 3ms
-v7 לַשָּֽׁוְא׃פ|laš·šāw|in vain|H7723|Prep-l, Art | N-ms
+v7 לַשָּֽׁוְא׃|laš·šāw|in vain|H7723|Prep-l, Art | N-ms
 v8 זָכ֛וֹר֩|zā·ḵō·wr|Remember|H2142|V-Qal-InfAbs
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 י֥֨וֹם|yō·wm|day|H3117|N-msc
@@ -135,7 +135,7 @@ v11 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 י֥וֹם|yō·wm|day|H3117|N-msc
 v11 הַשַּׁבָּ֖ת|haš·šab·bāṯ|the Sabbath|H7676|Art | N-cs
-v11 וַֽיְקַדְּשֵֽׁהוּ׃ס|way·qad·də·šê·hū|and set it apart as holy|H6942|Conj-w | V-Piel-ConsecImperf-3ms | 3ms
+v11 וַֽיְקַדְּשֵֽׁהוּ׃|way·qad·də·šê·hū|and set it apart as holy|H6942|Conj-w | V-Piel-ConsecImperf-3ms | 3ms
 v12 כַּבֵּ֥ד|kab·bêḏ|Honor|H3513|V-Piel-Imp-ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 אָבִ֖יךָ|’ā·ḇî·ḵā|your father|H1|N-msc | 2ms
@@ -150,18 +150,18 @@ v12 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v12 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v12 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v12 נֹתֵ֥ן|nō·ṯên|is giving|H5414|V-Qal-Prtcpl-ms
-v12 לָֽךְ׃ס|lāḵ|you|H0|Prep | 2ms
+v12 לָֽךְ׃|lāḵ|you|H0|Prep | 2ms
 v13 לֹ֥֖א|lō|You shall not|H3808|Adv-NegPrt
-v13 תִּֿרְצָֽ֖ח׃ס|tir·ṣå̄ḥ|murder|H7523|V-Qal-Imperf-2ms
+v13 תִּֿרְצָֽ֖ח׃|tir·ṣå̄ḥ|murder|H7523|V-Qal-Imperf-2ms
 v14 לֹ֣֖א|lō|You shall not|H3808|Adv-NegPrt
-v14 תִּֿנְאָֽ֑ף׃ס|tin·ʾå̄p̄|commit adultery|H5003|V-Qal-Imperf-2ms
+v14 תִּֿנְאָֽ֑ף׃|tin·ʾå̄p̄|commit adultery|H5003|V-Qal-Imperf-2ms
 v15 לֹ֣֖א|lō|You shall not|H3808|Adv-NegPrt
-v15 תִּֿגְנֹֽ֔ב׃ס|tiḡ·nōḇ|steal|H1589|V-Qal-Imperf-2ms
+v15 תִּֿגְנֹֽ֔ב׃|tiḡ·nōḇ|steal|H1589|V-Qal-Imperf-2ms
 v16 לֹֽא־|lō-|You shall not|H3808|Adv-NegPrt
 v16 תַעֲנֶ֥ה|ṯa·‘ă·neh|bear|H6030|V-Qal-Imperf-2ms
 v16 בְרֵעֲךָ֖|ḇə·rê·‘ă·ḵā|against your neighbor|H7453|Prep-b | N-msc | 2ms
 v16 עֵ֥ד|‘êḏ|witness|H5707|N-msc
-v16 שָֽׁקֶר׃ס|šā·qer|false|H8267|N-ms
+v16 שָֽׁקֶר׃|šā·qer|false|H8267|N-ms
 v17 לֹ֥א|lō|You shall not|H3808|Adv-NegPrt
 v17 תַחְמֹ֖ד|ṯaḥ·mōḏ|covet|H2530|V-Qal-Imperf-2ms
 v17 בֵּ֣ית|bêṯ|house|H1004|N-msc
@@ -176,7 +176,7 @@ v17 וְשׁוֹר֣וֹ|wə·šō·w·rōw|or his ox|H7794|Conj-w | N-msc | 3ms
 v17 וַחֲמֹר֔וֹ|wa·ḥă·mō·rōw|or donkey|H2543|Conj-w | N-msc | 3ms
 v17 וְכֹ֖ל|wə·ḵōl|or anything|H3605|Conj-w | N-ms
 v17 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
-v17 לְרֵעֶֽךָ׃פ|lə·rê·‘e·ḵā|belongs to your neighbor|H7453|Prep-l | N-msc | 2ms
+v17 לְרֵעֶֽךָ׃|lə·rê·‘e·ḵā|belongs to your neighbor|H7453|Prep-l | N-msc | 2ms
 v18 וְכָל־|wə·ḵāl|When all|H3605|Conj-w | N-msc
 v18 הָעָם֩|hā·‘ām|the people|H5971|Art | N-ms
 v18 רֹאִ֨ים|rō·’îm|witnessed|H7200|V-Qal-Prtcpl-mp
@@ -236,7 +236,7 @@ v21 אֶל־|’el-|...|H413|Prep
 v21 הָֽעֲרָפֶ֔ל|hā·‘ă·rā·p̄el|the thick darkness|H6205|Art | N-ms
 v21 אֲשֶׁר־|’ă·šer-|where|H834|Pro-r
 v21 שָׁ֖ם|šām|...|H8033|Adv
-v21 הָאֱלֹהִֽים׃פ|hā·’ĕ·lō·hîm|God was|H430|Art | N-mp
+v21 הָאֱלֹהִֽים׃|hā·’ĕ·lō·hîm|God was|H430|Art | N-mp
 v22 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v22 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v22 אֶל־|’el-|to|H413|Prep
@@ -306,7 +306,7 @@ v26 בְמַעֲלֹ֖ת|ḇə·ma·‘ă·lōṯ|on steps|H4609|Prep-b | N-fp
 v26 עַֽל־|‘al-|to|H5921|Prep
 v26 מִזְבְּחִ֑י|miz·bə·ḥî|My altar|H4196|N-msc | 1cs
 v26 אֲשֶׁ֛ר|’ă·šer|lest|H834|Pro-r
-v26 לֹֽא־|lō-||H3808|Adv-NegPrt
+v26 לֹֽא־|lō-|-|H3808|Adv-NegPrt
 v26 תִגָּלֶ֥ה|ṯig·gā·leh|be exposed|H1540|V-Nifal-Imperf-3fs
 v26 עֶרְוָתְךָ֖|‘er·wā·ṯə·ḵā|your nakedness|H6172|N-fsc | 2ms
-v26 עָלָֽיו׃פ|‘ā·lāw|on it|H5921|Prep | 3ms
+v26 עָלָֽיו׃|‘ā·lāw|on it|H5921|Prep | 3ms

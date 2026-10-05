@@ -61,7 +61,7 @@ v6 וִיהִ֥י|wî·hî|will be|H1961|Conj-w | V-Qal-ConjImperf.Jus-3ms
 v6 כַזַּ֖יִת|ḵaz·za·yiṯ|like the olive tree|H2132|Prep-k, Art | N-ms
 v6 הוֹד֑וֹ|hō·w·ḏōw|and his splendor|H1935|N-msc | 3ms
 v6 וְרֵ֥יחַֽ|wə·rê·aḥ|his fragrance|H7381|Conj-w | N-ms
-v6 ל֖וֹ|lōw||H0|Prep | 3ms
+v6 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v6 כַּלְּבָנֽוֹן׃|kal·lə·ḇā·nō·wn|like [the cedars of] Lebanon|H3844|Prep-k, Art | N-proper-fs
 v7 יָשֻׁ֙בוּ֙|yā·šu·ḇū|They will return|H7725|V-Qal-Imperf-3mp
 v7 יֹשְׁבֵ֣י|yō·šə·ḇê|and dwell|H3427|V-Qal-Prtcpl-mpc
@@ -72,7 +72,7 @@ v7 וְיִפְרְח֣וּ|wə·yip̄·rə·ḥū|and blossom|H6524|Conj-w | V-
 v7 כַגָּ֑פֶן|ḵag·gā·p̄en|like the vine|H1612|Prep-k, Art | N-cs
 v7 זִכְר֖וֹ|ziḵ·rōw|His renown will be|H2143|N-msc | 3ms
 v7 כְּיֵ֥ין|kə·yên|like the wine|H3196|Prep-k | N-msc
-v7 לְבָנֽוֹן׃ס|lə·ḇā·nō·wn|of Lebanon|H3844|N-proper-fs
+v7 לְבָנֽוֹן׃|lə·ḇā·nō·wn|of Lebanon|H3844|N-proper-fs
 v8 אֶפְרַ֕יִם|’ep̄·ra·yim|O Ephraim|H669|N-proper-ms
 v8 מַה־|mah-|what|H4100|Interrog
 v8 לִּ֥י|lî|have I to do|H0|Prep | 1cs

@@ -60,7 +60,7 @@ v6 תִּֽהְיֶה־|tih·yeh-|you be|H1961|V-Qal-Imperf-2ms
 v6 לָּ֑נוּ|lā·nū|our|H0|Prep | 1cp
 v6 וְהַמַּכְשֵׁלָ֥ה|wə·ham·maḵ·šê·lāh|heap of rubble|H4384|Conj-w, Art | N-fs
 v6 הַזֹּ֖את|haz·zōṯ|of this|H2063|Art | Pro-fs
-v6 תַּ֥חַת|ta·ḥaṯ|vvv|H8478|Prep
+v6 תַּ֥חַת|ta·ḥaṯ|...|H8478|Prep
 v6 יָדֶֽךָ׃|yā·ḏe·ḵā|Take charge|H3027|N-fsc | 2ms
 v7 יִשָּׂא֩|yiś·śā|he will cry aloud|H5375|V-Qal-Imperf-3ms
 v7 בַיּ֨וֹם|ḇay·yō·wm|day|H3117|Prep-b, Art | N-ms
@@ -121,7 +121,7 @@ v11 כִּֽי־|kî-|For|H3588|Conj
 v11 גְמ֥וּל|ḡə·mūl|they will be repaid|H1576|N-msc
 v11 יָדָ֖יו|yā·ḏāw|with what their hands|H3027|N-fdc | 3ms
 v11 יֵעָ֥שֶׂה|yê·‘ā·śeh|have done|H6213|V-Nifal-Imperf-3ms
-v11 לּֽוֹ׃|lōw||H0|Prep | 3ms
+v11 לּֽוֹ׃|lōw|-|H0|Prep | 3ms
 v12 עַמִּי֙|‘am·mî|My people|H5971|N-msc | 1cs
 v12 נֹגְשָׂ֣יו|nō·ḡə·śāw|oppress|H5065|V-Qal-Prtcpl-mpc | 3ms
 v12 מְעוֹלֵ֔ל|mə·‘ō·w·lêl|Youths|H5953|V-Piel-Prtcpl-ms
@@ -133,7 +133,7 @@ v12 מְאַשְּׁרֶ֣יךָ|mə·’aš·šə·re·ḵā|your guides|H833|V
 v12 מַתְעִ֔ים|maṯ·‘îm|mislead you|H8582|V-Hifil-Prtcpl-mp
 v12 וְדֶ֥רֶךְ|wə·ḏe·reḵ|...|H1870|Conj-w | N-csc
 v12 אֹֽרְחֹתֶ֖יךָ|’ō·rə·ḥō·ṯe·ḵā|from your paths|H734|N-cpc | 2ms
-v12 בִּלֵּֽעוּ׃ס|bil·lê·‘ū|they turn you|H1104|V-Piel-Perf-3cp
+v12 בִּלֵּֽעוּ׃|bil·lê·‘ū|they turn you|H1104|V-Piel-Perf-3cp
 v13 נִצָּ֥ב|niṣ·ṣāḇ|arises|H5324|V-Nifal-Prtcpl-ms
 v13 לָרִ֖יב|lā·rîḇ|to contend|H7378|Prep-l | V-Qal-Inf
 v13 יְהוָ֑ה|Yah·weh|The LORD|H3068|N-proper-ms
@@ -162,7 +162,7 @@ v15 תִּטְחָ֑נוּ|tiṭ·ḥā·nū|and grind|H2912|V-Qal-Imperf-2mp
 v15 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v15 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v15 יְהוִ֖ה|Yah·weh|GOD|H3069|N-proper-ms
-v15 צְבָאֽוֹת׃ס|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
+v15 צְבָאֽוֹת׃|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v16 וַיֹּ֣אמֶר|way·yō·mer|also says|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 יְהוָ֗ה|Yah·weh|The LORD|H3068|N-proper-ms
 v16 יַ֚עַן|ya·‘an|Because|H3282|Adv
@@ -187,7 +187,7 @@ v17 בְּנ֣וֹת|bə·nō·wṯ|of the daughters|H1323|N-fpc
 v17 צִיּ֑וֹן|ṣî·yō·wn|of Zion|H6726|N-proper-fs
 v17 וַיהוָ֖ה|Yah·weh|and the LORD|H3068|Conj-w | N-proper-ms
 v17 פָּתְהֵ֥ן|pā·ṯə·hên|will make their foreheads|H6596|N-fsc | 3fp
-v17 יְעָרֶֽה׃ס|yə·‘ā·reh|bare|H6168|V-Piel-Imperf-3ms
+v17 יְעָרֶֽה׃|yə·‘ā·reh|bare|H6168|V-Piel-Imperf-3ms
 v18 בַּיּ֨וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v18 הַה֜וּא|ha·hū|In that|H1931|Art | Pro-3ms
 v18 יָסִ֣יר|yā·sîr|will take away|H5493|V-Hifil-Imperf-3ms

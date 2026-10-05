@@ -121,7 +121,7 @@ v10 הָעָֽרֶב׃|hā·‘ā·reḇ|evening|H6153|Art | N-ms
 v11 וְכֹ֨ל|wə·ḵōl|anyone|H3605|Conj-w | N-ms
 v11 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v11 יִגַּע־|yig·ga‘-|touches|H5060|V-Qal-Imperf-3ms
-v11 בּוֹ֙|bōw||H0|Prep | 3ms
+v11 בּוֹ֙|bōw|-|H0|Prep | 3ms
 v11 הַזָּ֔ב|haz·zāḇ|If the man with the discharge|H2100|Art | V-Qal-Prtcpl-ms
 v11 וְיָדָ֖יו|wə·yā·ḏāw|his hands|H3027|Conj-w | N-fdc | 3ms
 v11 לֹא־|lō-|without|H3808|Adv-NegPrt
@@ -138,7 +138,7 @@ v12 וּכְלִי־|ū·ḵə·lî-|pot|H3627|Conj-w | N-msc
 v12 חֶ֛רֶשׂ|ḥe·reś|Any clay|H2789|N-ms
 v12 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v12 יִגַּע־|yig·ga‘-|touches|H5060|V-Qal-Imperf-3ms
-v12 בּ֥וֹ|bōw||H0|Prep | 3ms
+v12 בּ֥וֹ|bōw|-|H0|Prep | 3ms
 v12 הַזָּ֖ב|haz·zāḇ|the man with the discharge|H2100|Art | V-Qal-Prtcpl-ms
 v12 יִשָּׁבֵ֑ר|yiš·šā·ḇêr|must be broken|H7665|V-Nifal-Imperf-3ms
 v12 וְכָל־|wə·ḵāl|and any|H3605|Conj-w | N-msc
@@ -165,7 +165,7 @@ v13 וְטָהֵֽר׃|wə·ṭā·hêr|and he shall be clean|H2891|Conj-w | V-Q
 v14 וּבַיּ֣וֹם|ū·ḇay·yō·wm|day|H3117|Conj-w, Prep-b, Art | N-ms
 v14 הַשְּׁמִינִ֗י|haš·šə·mî·nî|On the eighth|H8066|Art | Number-oms
 v14 יִֽקַּֽח־|yiq·qaḥ-|he is to take|H3947|V-Qal-Imperf-3ms
-v14 לוֹ֙|lōw||H0|Prep | 3ms
+v14 לוֹ֙|lōw|-|H0|Prep | 3ms
 v14 שְׁתֵּ֣י|šə·tê|two|H8147|Number-fdc
 v14 תֹרִ֔ים|ṯō·rîm|turtledoves|H8449|N-fp
 v14 א֥וֹ|’ōw|or|H176|Conj
@@ -194,7 +194,7 @@ v15 עָלָ֧יו|‘ā·lāw|for|H5921|Prep | 3ms
 v15 הַכֹּהֵ֛ן|hak·kō·hên|In this way the priest|H3548|Art | N-ms
 v15 לִפְנֵ֥י|lip̄·nê|[the man] before|H6440|Prep-l | N-cpc
 v15 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v15 מִזּוֹבֽוֹ׃ס|miz·zō·w·ḇōw|because of his discharge|H2101|Prep-m | N-msc | 3ms
+v15 מִזּוֹבֽוֹ׃|miz·zō·w·ḇōw|because of his discharge|H2101|Prep-m | N-msc | 3ms
 v16 וְאִ֕ישׁ|wə·’îš|a man|H376|Conj-w | N-ms
 v16 כִּֽי־|kî-|When|H3588|Conj
 v16 תֵצֵ֥א|ṯê·ṣê|...|H3318|V-Qal-Imperf-3fs
@@ -222,7 +222,7 @@ v17 וְכֻבַּ֥ס|wə·ḵub·bas|must be washed|H3526|Conj-w | V-Pual-Conj
 v17 בַּמַּ֖יִם|bam·ma·yim|with water|H4325|Prep-b, Art | N-mp
 v17 וְטָמֵ֥א|wə·ṭā·mê|and it will remain unclean|H2930|Conj-w | V-Qal-ConjPerf-3ms
 v17 עַד־|‘aḏ-|until|H5704|Prep
-v17 הָעָֽרֶב׃פ|hā·‘ā·reḇ|evening|H6153|Art | N-ms
+v17 הָעָֽרֶב׃|hā·‘ā·reḇ|evening|H6153|Art | N-ms
 v18 וְאִשָּׁ֕ה|wə·’iš·šāh|a woman|H802|Conj-w | N-fs
 v18 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v18 יִשְׁכַּ֥ב|yiš·kaḇ|lies with|H7901|V-Qal-Imperf-3ms
@@ -289,7 +289,7 @@ v22 וְטָמֵ֥א|wə·ṭā·mê|and he will be unclean|H2930|Conj-w | V-Qal
 v22 עַד־|‘aḏ-|until|H5704|Prep
 v22 הָעָֽרֶב׃|hā·‘ā·reḇ|evening|H6153|Art | N-ms
 v23 וְאִ֨ם|wə·’im|And whether|H518|Conj
-v23 עַֽל־|‘al-||H5921|Prep
+v23 עַֽל־|‘al-|-|H5921|Prep
 v23 הַמִּשְׁכָּ֜ב|ham·miš·kāḇ|a bed|H4904|Art | N-ms
 v23 ה֗וּא|hū|it is|H1931|Pro-3ms
 v23 א֧וֹ|’ōw|or|H176|Conj
@@ -320,7 +320,7 @@ v24 הַמִּשְׁכָּ֛ב|ham·miš·kāḇ|bed|H4904|Art | N-ms
 v24 אֲשֶׁר־|’ă·šer-|which|H834|Pro-r
 v24 יִשְׁכַּ֥ב|yiš·kaḇ|he lies|H7901|V-Qal-Imperf-3ms
 v24 עָלָ֖יו|‘ā·lāw|on|H5921|Prep | 3ms
-v24 יִטְמָֽא׃פ|yiṭ·mā|will become unclean|H2930|V-Qal-Imperf-3ms
+v24 יִטְמָֽא׃|yiṭ·mā|will become unclean|H2930|V-Qal-Imperf-3ms
 v25 וְאִשָּׁ֡ה|wə·’iš·šāh|a woman|H802|Conj-w | N-fs
 v25 כִּֽי־|kî-|When|H3588|Conj
 v25 יָזוּב֩|yā·zūḇ|has a discharge|H2100|V-Qal-Imperf-3ms
@@ -356,7 +356,7 @@ v26 זוֹבָ֔הּ|zō·w·ḇāh|of her discharge|H2101|N-msc | 3fs
 v26 כְּמִשְׁכַּ֥ב|kə·miš·kaḇ|like her bed|H4904|Prep-k | N-msc
 v26 נִדָּתָ֖הּ|nid·dā·ṯāh|-|H5079|N-fsc | 3fs
 v26 יִֽהְיֶה־|yih·yeh-|-|H1961|V-Qal-Imperf-3ms
-v26 לָּ֑הּ|lāh||H0|Prep | 3fs
+v26 לָּ֑הּ|lāh|-|H0|Prep | 3fs
 v26 וְכָֽל־|wə·ḵāl|-|H3605|Conj-w | N-msc
 v26 הַכְּלִי֙|hak·kə·lî|furniture|H3627|Art | N-ms
 v26 אֲשֶׁ֣ר|’ă·šer|which|H834|Pro-r
@@ -381,7 +381,7 @@ v28 וְאִֽם־|wə·’im-|When|H518|Conj
 v28 טָהֲרָ֖ה|ṭā·hă·rāh|[a woman] is cleansed|H2891|V-Qal-Perf-3fs
 v28 מִזּוֹבָ֑הּ|miz·zō·w·ḇāh|of her discharge|H2101|Prep-m | N-msc | 3fs
 v28 וְסָ֥פְרָה|wə·sā·p̄ə·rāh|she must count off|H5608|Conj-w | V-Qal-ConjPerf-3fs
-v28 לָּ֛הּ|lāh||H0|Prep | 3fs
+v28 לָּ֛הּ|lāh|-|H0|Prep | 3fs
 v28 שִׁבְעַ֥ת|šiḇ·‘aṯ|seven|H7651|Number-msc
 v28 יָמִ֖ים|yā·mîm|days|H3117|N-mp
 v28 וְאַחַ֥ר|wə·’a·ḥar|and after that|H310|Conj-w | Adv
@@ -389,7 +389,7 @@ v28 תִּטְהָֽר׃|tiṭ·hār|she will be ceremonially clean|H2891|V-Qal-
 v29 וּבַיּ֣וֹם|ū·ḇay·yō·wm|day|H3117|Conj-w, Prep-b, Art | N-ms
 v29 הַשְּׁמִינִ֗י|haš·šə·mî·nî|On the eighth|H8066|Art | Number-oms
 v29 תִּֽקַּֽח־|tiq·qaḥ-|she is to take|H3947|V-Qal-Imperf-3fs
-v29 לָהּ֙|lāh||H0|Prep | 3fs
+v29 לָהּ֙|lāh|-|H0|Prep | 3fs
 v29 שְׁתֵּ֣י|šə·tê|two|H8147|Number-fdc
 v29 תֹרִ֔ים|ṯō·rîm|turtledoves|H8449|N-fp
 v29 א֥וֹ|’ōw|or|H176|Conj
@@ -437,7 +437,7 @@ v32 תּוֹרַ֖ת|tō·w·raṯ|is the law|H8451|N-fsc
 v32 הַזָּ֑ב|haz·zāḇ|of him who has a discharge|H2100|Art | V-Qal-Prtcpl-ms
 v32 וַאֲשֶׁ֨ר|wa·’ă·šer|of the man who|H834|Conj-w | Pro-r
 v32 תֵּצֵ֥א|tê·ṣê|has|H3318|V-Qal-Imperf-3fs
-v32 מִמֶּ֛נּוּ|mim·men·nū|vvv|H4480|Prep | 3ms
+v32 מִמֶּ֛נּוּ|mim·men·nū|...|H4480|Prep | 3ms
 v32 שִׁכְבַת־|šiḵ·ḇaṯ-|an emission|H7902|N-fsc
 v32 זֶ֖רַע|ze·ra‘|of semen|H2233|N-ms
 v32 לְטָמְאָה־|lə·ṭā·mə·’āh-|he is unclean|H2930|Prep-l | V-Qal-Inf | 3fs
@@ -453,4 +453,4 @@ v33 וּלְאִ֕ישׁ|ū·lə·’îš|and of a man|H376|Conj-w, Prep-l | N-m
 v33 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
 v33 יִשְׁכַּ֖ב|yiš·kaḇ|lies|H7901|V-Qal-Imperf-3ms
 v33 עִם־|‘im-|with|H5973|Prep
-v33 טְמֵאָֽה׃פ|ṭə·mê·’āh|an unclean woman|H2931|Adj-fs
+v33 טְמֵאָֽה׃|ṭə·mê·’āh|an unclean woman|H2931|Adj-fs

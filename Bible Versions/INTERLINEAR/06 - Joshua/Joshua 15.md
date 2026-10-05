@@ -1,7 +1,7 @@
 v1 וַיְהִ֣י|way·hî|extended|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v1 הַגּוֹרָ֗ל|hag·gō·w·rāl|Now the allotment|H1486|Art | N-ms
 v1 לְמַטֵּ֛ה|lə·maṭ·ṭêh|of the tribe|H4294|Prep-l | N-msc
-v1 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v1 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v1 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v1 לְמִשְׁפְּחֹתָ֑ם|lə·miš·pə·ḥō·ṯām|for the clans|H4940|Prep-l | N-fpc | 3mp
 v1 אֶל־|’el-|to|H413|Prep
@@ -9,7 +9,7 @@ v1 גְּב֨וּל|gə·ḇūl|the border|H1366|N-msc
 v1 אֱד֧וֹם|’ĕ·ḏō·wm|of Edom|H123|N-proper-ms
 v1 מִדְבַּר־|miḏ·bar-|to the Wilderness|H4057|N-msc
 v1 צִ֛ן|ṣin|of Zin|H6790|N-proper-fs
-v1 נֶ֖גְבָּה|neḡ·bāh|vvv|H5045|N-ms | 3fs
+v1 נֶ֖גְבָּה|neḡ·bāh|...|H5045|N-ms | 3fs
 v1 מִקְצֵ֥ה|miq·ṣêh|at the extreme|H7097|Prep-m | N-msc
 v1 תֵימָֽן׃|ṯê·mān|southern boundary|H8486|N-fs
 v2 וַיְהִ֤י|way·hî|started|H1961|Conj-w | V-Qal-ConsecImperf-3ms
@@ -70,11 +70,11 @@ v5 מִקְצֵ֖ה|miq·ṣêh|at the mouth|H7097|Prep-m | N-msc
 v5 הַיַּרְדֵּֽן׃|hay·yar·dên|of the Jordan|H3383|Art | N-proper-fs
 v6 וְעָלָ֤ה|wə·‘ā·lāh|went up|H5927|Conj-w | V-Qal-ConjPerf-3ms
 v6 הַגְּבוּל֙|hag·gə·ḇūl|-|H1366|Art | N-ms
-v6 בֵּ֣ית|bêṯ|vvv|H1031|Prep
+v6 בֵּ֣ית|bêṯ|...|H1031|Prep
 v6 חָגְלָ֔ה|ḥā·ḡə·lāh|to Beth-hoglah|H1031|N-proper-fs
 v6 וְעָבַ֕ר|wə·‘ā·ḇar|proceeded|H5674|Conj-w | V-Qal-ConjPerf-3ms
 v6 מִצְּפ֖וֹן|miṣ·ṣə·p̄ō·wn|north|H6828|Prep-m | N-fsc
-v6 לְבֵ֣ית|lə·ḇêṯ|vvv|H1026|Prep
+v6 לְבֵ֣ית|lə·ḇêṯ|...|H1026|Prep
 v6 הָעֲרָבָ֑ה|hā·‘ă·rā·ḇāh|of Beth-arabah|H1026|Prep | N-proper-fs
 v6 וְעָלָ֣ה|wə·‘ā·lāh|and went up|H5927|Conj-w | V-Qal-ConjPerf-3ms
 v6 הַגְּב֔וּל|hag·gə·ḇūl|...|H1366|Art | N-ms
@@ -102,12 +102,12 @@ v7 וְעָבַ֤ר|wə·‘ā·ḇar|continued|H5674|Conj-w | V-Qal-ConjPerf-3m
 v7 הַגְּבוּל֙|hag·gə·ḇūl|[It]|H1366|Art | N-ms
 v7 אֶל־|’el-|along|H413|Prep
 v7 מֵי־|mê-|the waters|H4325|N-mpc
-v7 עֵ֣ין|‘ên|vvv|H5885|
+v7 עֵ֣ין|‘ên|...|H5885|
 v7 שֶׁ֔מֶשׁ|še·meš|of En-shemesh|H5885|N-proper-fs
 v7 וְהָי֥וּ|wə·hā·yū|and came out|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v7 תֹצְאֹתָ֖יו|ṯō·ṣə·’ō·ṯāw|...|H8444|N-fpc | 3ms
 v7 אֶל־|’el-|at|H413|Prep
-v7 עֵ֥ין|‘ên|vvv|H5883|
+v7 עֵ֥ין|‘ên|...|H5883|
 v7 רֹגֵֽל׃|rō·ḡêl|En-rogel|H5883|N-proper-fs
 v8 וְעָלָ֨ה|wə·‘ā·lāh|went up|H5927|Conj-w | V-Qal-ConjPerf-3ms
 v8 הַגְּב֜וּל|hag·gə·ḇūl|From there the border|H1366|Art | N-ms
@@ -153,7 +153,7 @@ v9 וְתָאַ֤ר|wə·ṯā·’ar|and then bent around|H8388|Conj-w | V-Qal-
 v9 הַגְּבוּל֙|hag·gə·ḇūl|...|H1366|Art | N-ms
 v9 בַּעֲלָ֔ה|ba·‘ă·lāh|toward Baalah|H1173|N-proper-fs
 v9 הִ֖יא|hî|(that is|H1931|Pro-3fs
-v9 קִרְיַ֥ת|qir·yaṯ|vvv|H7157|
+v9 קִרְיַ֥ת|qir·yaṯ|...|H7157|
 v9 יְעָרִֽים׃|yə·‘ā·rîm|Kiriath-jearim)|H7157|N-proper-fs
 v10 וְנָסַב֩|wə·nā·saḇ|curled|H5437|Conj-w | V-Nifal-ConjPerf-3ms
 v10 הַגְּב֨וּל|hag·gə·ḇūl|The border|H1366|Art | N-ms
@@ -171,7 +171,7 @@ v10 מִצָּפ֖וֹנָה|miṣ·ṣā·p̄ō·w·nāh|the northern|H6828|Pre
 v10 הִ֣יא|hî|(that is|H1931|Pro-3fs
 v10 כְסָל֑וֹן|ḵə·sā·lō·wn|Chesalon|H3693|N-proper-fs
 v10 וְיָרַ֥ד|wə·yā·raḏ|went down|H3381|Conj-w | V-Qal-ConjPerf-3ms
-v10 בֵּֽית־|bêṯ-|vvv|H1053|Prep
+v10 בֵּֽית־|bêṯ-|...|H1053|Prep
 v10 שֶׁ֖מֶשׁ|še·meš|to Beth-shemesh|H1053|N-proper-fs
 v10 וְעָבַ֥ר|wə·‘ā·ḇar|and crossed|H5674|Conj-w | V-Qal-ConjPerf-3ms
 v10 תִּמְנָֽה׃|tim·nāh|to Timnah|H8553|N-proper-fs
@@ -217,7 +217,7 @@ v13 פִּ֥י|pî|command|H6310|N-msc
 v13 יְהוָ֖ה|Yah·weh|to the LORD's|H3068|N-proper-ms
 v13 לִֽיהוֹשֻׁ֑עַ|lî·hō·wō·šu·a‘|to [him]|H3091|Prep-l | N-proper-ms
 v13 אֶת־|’eṯ-|-|H853|DirObjM
-v13 קִרְיַ֥ת|qir·yaṯ|vvv|H7153|
+v13 קִרְיַ֥ת|qir·yaṯ|...|H7153|
 v13 אַרְבַּ֛ע|’ar·ba‘|Kiriath-arba|H7153|N-proper-fs
 v13 אֲבִ֥י|’ă·ḇî|Arba was the forefather|H1|N-msc
 v13 הָעֲנָ֖ק|hā·‘ă·nāq|of Anak|H6061|Art | N-proper-ms
@@ -246,18 +246,18 @@ v15 דְּבִ֑ר|də·ḇir|of Debir|H1688|N-proper-fs
 v15 וְשֵׁם־|wə·šêm-|known as|H8034|Conj-w | N-msc
 v15 דְּבִ֥ר|də·ḇir|-|H1688|N-proper-fs
 v15 לְפָנִ֖ים|lə·p̄ā·nîm|formerly|H6440|Prep-l | N-mp
-v15 קִרְיַת־|qir·yaṯ-|vvv|H7158|
+v15 קִרְיַת־|qir·yaṯ-|...|H7158|
 v15 סֵֽפֶר׃|sê·p̄er|Kiriath-sepher|H7158|N-proper-fs
 v16 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 כָּלֵ֔ב|kā·lêḇ|And Caleb|H3612|N-proper-ms
 v16 אֲשֶׁר־|’ă·šer-|To the man who|H834|Pro-r
 v16 יַכֶּ֥ה|yak·keh|strikes down|H5221|V-Hifil-Imperf-3ms
 v16 אֶת־|’eṯ-|-|H853|DirObjM
-v16 קִרְיַת־|qir·yaṯ-|vvv|H7158|
+v16 קִרְיַת־|qir·yaṯ-|...|H7158|
 v16 סֵ֖פֶר|sê·p̄er|Kiriath-sepher|H7158|N-proper-fs
 v16 וּלְכָדָ֑הּ|ū·lə·ḵā·ḏāh|and captures it|H3920|Conj-w | V-Qal-ConjPerf-3ms | 3fs
 v16 וְנָתַ֥תִּי|wə·nā·ṯat·tî|I will give|H5414|Conj-w | V-Qal-ConjPerf-1cs
-v16 ל֛וֹ|lōw||H0|Prep | 3ms
+v16 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 עַכְסָ֥ה|‘aḵ·sāh|Acsah|H5915|N-proper-fs
 v16 בִתִּ֖י|ḇit·tî|my daughter|H1323|N-fsc | 1cs
@@ -308,18 +308,18 @@ v19 גֻּלֹּ֣ת|gul·lōṯ|springs|H1543|N-fp
 v19 עִלִּיּ֔וֹת|‘il·lî·yō·wṯ|[both] the upper|H5942|Adj-fp
 v19 וְאֵ֖ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v19 גֻּלֹּ֥ת|gul·lōṯ|-|H1543|N-fp
-v19 תַּחְתִּיּֽוֹת׃פ|taḥ·tî·yō·wṯ|and lower|H8482|Adj-fp
+v19 תַּחְתִּיּֽוֹת׃|taḥ·tî·yō·wṯ|and lower|H8482|Adj-fp
 v20 זֹ֗את|zōṯ|This|H2063|Pro-fs
 v20 נַחֲלַ֛ת|na·ḥă·laṯ|is the inheritance|H5159|N-fsc
 v20 מַטֵּ֥ה|maṭ·ṭêh|of the tribe|H4294|N-msc
-v20 בְנֵי־|ḇə·nê-|vvv|H1121|N-mpc
+v20 בְנֵי־|ḇə·nê-|...|H1121|N-mpc
 v20 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v20 לְמִשְׁפְּחֹתָֽם׃|lə·miš·pə·ḥō·ṯām|of the clans|H4940|Prep-l | N-fpc | 3mp
 v21 וַיִּֽהְי֣וּ|way·yih·yū|These were|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v21 הֶעָרִ֗ים|he·‘ā·rîm|cities|H5892|Art | N-fp
 v21 מִקְצֵה֙|miq·ṣêh|the southernmost|H7097|Prep-m | N-msc
 v21 לְמַטֵּ֣ה|lə·maṭ·ṭêh|of the tribe|H4294|Prep-l | N-msc
-v21 בְנֵֽי־|ḇə·nê-|vvv|H1121|N-mpc
+v21 בְנֵֽי־|ḇə·nê-|...|H1121|N-mpc
 v21 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v21 אֶל־|’el-|toward|H413|Prep
 v21 גְּב֥וּל|gə·ḇūl|the border|H1366|N-msc
@@ -337,7 +337,7 @@ v23 וְיִתְנָֽן׃|wə·yiṯ·nān|Ithnan|H3497|Conj-w | N-proper-fs
 v24 זִ֥יף|zîp̄|Ziph|H2128|N-proper-fs
 v24 וָטֶ֖לֶם|wā·ṭe·lem|Telem|H2928|Conj-w | N-proper-fs
 v24 וּבְעָלֽוֹת׃|ū·ḇə·‘ā·lō·wṯ|Bealoth|H1175|Conj-w | N-proper-fs
-v25 וְחָצ֤וֹר׀|wə·ḥā·ṣō·wr|vvv|H2675|
+v25 וְחָצ֤וֹר׀|wə·ḥā·ṣō·wr|...|H2675|
 v25 חֲדַתָּה֙|ḥă·ḏat·tāh|Hazor-hadattah|H2675|Conj-w | N-proper-fs
 v25 וּקְרִיּ֔וֹת|ū·qə·rî·yō·wṯ|Kerioth-hezron|H7152|Conj-w | N-proper-fs
 v25 חֶצְר֖וֹן|ḥeṣ·rō·wn|...|H2696|N-proper-fs
@@ -346,14 +346,14 @@ v25 חָצֽוֹר׃|ḥā·ṣō·wr|Hazor|H2674|N-proper-fs
 v26 אֲמָ֥ם|’ă·mām|Amam|H538|N-proper-fs
 v26 וּשְׁמַ֖ע|ū·šə·ma‘|Shema|H8090|Conj-w | N-proper-fs
 v26 וּמוֹלָדָֽה׃|ū·mō·w·lā·ḏāh|Moladah|H4137|Conj-w | N-proper-fs
-v27 וַחֲצַ֥ר|wa·ḥă·ṣar|vvv|H2693|
+v27 וַחֲצַ֥ר|wa·ḥă·ṣar|...|H2693|
 v27 גַּדָּ֛ה|gad·dāh|Hazar-gaddah|H2693|Conj-w | N-proper-fs
 v27 וְחֶשְׁמ֖וֹן|wə·ḥeš·mō·wn|Heshmon|H2829|Conj-w | N-proper-fs
-v27 וּבֵ֥ית|ū·ḇêṯ|vvv|H1046|
+v27 וּבֵ֥ית|ū·ḇêṯ|...|H1046|
 v27 פָּֽלֶט׃|pā·leṭ|Beth-pelet|H1046|Conj-w | N-proper-fs
-v28 וַחֲצַ֥ר|wa·ḥă·ṣar|vvv|H2705|
+v28 וַחֲצַ֥ר|wa·ḥă·ṣar|...|H2705|
 v28 שׁוּעָ֛ל|šū·‘āl|Hazar-shual|H2705|Conj-w | N-proper-fs
-v28 וּבְאֵ֥ר|ū·ḇə·’êr|vvv|H884|
+v28 וּבְאֵ֥ר|ū·ḇə·’êr|...|H884|
 v28 שֶׁ֖בַע|še·ḇa‘|Beersheba|H884|Conj-w | N-proper-fs
 v28 וּבִזְיוֹתְיָֽה׃|ū·ḇiz·yō·wṯ·yāh|Biziothiah|H964|Conj-w | N-proper-fs
 v29 בַּעֲלָ֥ה|ba·‘ă·lāh|Baalah|H1173|N-proper-fs
@@ -373,13 +373,13 @@ v32 כָּל־|kāl-|in all|H3605|N-msc
 v32 עָרִ֛ים|‘ā·rîm|cities|H5892|N-fp
 v32 עֶשְׂרִ֥ים|‘eś·rîm|twenty-nine|H6242|Number-cp
 v32 וָתֵ֖שַׁע|wā·ṯê·ša‘|...|H8672|Conj-w | Number-fs
-v32 וְחַצְרֵיהֶֽן׃ס|wə·ḥaṣ·rê·hen|along with their villages|H2691|Conj-w | N-cpc | 3fp
+v32 וְחַצְרֵיהֶֽן׃|wə·ḥaṣ·rê·hen|along with their villages|H2691|Conj-w | N-cpc | 3fp
 v33 בַּשְּׁפֵלָ֑ה|baš·šə·p̄ê·lāh|[These were] in the foothills|H8219|Prep-b, Art | N-fs
 v33 אֶשְׁתָּא֥וֹל|’eš·tā·’ō·wl|Eshtaol|H847|N-proper-fs
 v33 וְצָרְעָ֖ה|wə·ṣā·rə·‘āh|Zorah|H6881|Conj-w | N-proper-fs
 v33 וְאַשְׁנָֽה׃|wə·’aš·nāh|Ashnah|H823|Conj-w | N-proper-fs
 v34 וְזָנ֙וֹחַ֙|wə·zā·nō·w·aḥ|Zanoah|H2182|Conj-w | N-proper-fs
-v34 וְעֵ֣ין|wə·‘ên|vvv|H5873|
+v34 וְעֵ֣ין|wə·‘ên|...|H5873|
 v34 גַּנִּ֔ים|gan·nîm|En-gannim|H5873|Conj-w | N-proper-fs
 v34 תַּפּ֖וּחַ|tap·pū·aḥ|Tappuah|H8599|N-proper-fs
 v34 וְהָעֵינָֽם׃|wə·hā·‘ê·nām|Enam|H5879|Conj-w, Art | N-proper-fs
@@ -397,7 +397,7 @@ v36 עֶשְׂרֵ֖ה|‘eś·rêh|...|H6240|Number-fs
 v36 וְחַצְרֵיהֶֽן׃|wə·ḥaṣ·rê·hen|along with their villages|H2691|Conj-w | N-cpc | 3fp
 v37 צְנָ֥ן|ṣə·nān|Zenan|H6799|N-proper-fs
 v37 וַחֲדָשָׁ֖ה|wa·ḥă·ḏā·šāh|Hadashah|H2322|Conj-w | N-proper-fs
-v37 וּמִגְדַּל־|ū·miḡ·dal-|vvv|H4028|
+v37 וּמִגְדַּל־|ū·miḡ·dal-|...|H4028|
 v37 גָּֽד׃|gāḏ|Migdal-gad|H4028|Conj-w | N-proper-fs
 v38 וְדִלְעָ֥ן|wə·ḏil·‘ān|Dilan|H1810|Conj-w | N-proper-fs
 v38 וְהַמִּצְפֶּ֖ה|wə·ham·miṣ·peh|Mizpeh|H4708|Conj-w, Art | N-proper-fs
@@ -409,14 +409,14 @@ v40 וְכַבּ֥וֹן|wə·ḵab·bō·wn|Cabbon|H3522|Conj-w | N-proper-fs
 v40 וְלַחְמָ֖ס|wə·laḥ·mās|Lahmas|H3903|Conj-w | N-proper-fs
 v40 וְכִתְלִֽישׁ׃|wə·ḵiṯ·lîš|Chitlish|H3798|Conj-w | N-proper-fs
 v41 וּגְדֵר֕וֹת|ū·ḡə·ḏê·rō·wṯ|Gederoth|H1450|Conj-w | N-proper-fs
-v41 בֵּית־|bêṯ-|vvv|H1016|Prep
+v41 בֵּית־|bêṯ-|...|H1016|Prep
 v41 דָּג֥וֹן|dā·ḡō·wn|Beth-dagon|H1016|N-proper-fs
 v41 וְנַעֲמָ֖ה|wə·na·‘ă·māh|Naamah|H5279|Conj-w | N-proper-fs
 v41 וּמַקֵּדָ֑ה|ū·maq·qê·ḏāh|and Makkedah|H4719|Conj-w | N-proper-fs
 v41 עָרִ֥ים|‘ā·rîm|cities|H5892|N-fp
 v41 שֵׁשׁ־|šêš-|sixteen|H8337|Number-fs
 v41 עֶשְׂרֵ֖ה|‘eś·rêh|...|H6240|Number-fs
-v41 וְחַצְרֵיהֶֽן׃ס|wə·ḥaṣ·rê·hen|along with their villages|H2691|Conj-w | N-cpc | 3fp
+v41 וְחַצְרֵיהֶֽן׃|wə·ḥaṣ·rê·hen|along with their villages|H2691|Conj-w | N-cpc | 3fp
 v42 לִבְנָ֥ה|liḇ·nāh|Libnah|H3841|N-proper-fs
 v42 וָעֶ֖תֶר|wā·‘e·ṯer|Ether|H6281|Conj-w | N-proper-fs
 v42 וְעָשָֽׁן׃|wə·‘ā·šān|Ashan|H6228|Conj-w | N-proper-fs
@@ -451,13 +451,13 @@ v47 נַ֣חַל|na·ḥal|the Brook|H5158|N-msc
 v47 מִצְרָ֑יִם|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
 v47 וְהַיָּ֥ם|wə·hay·yām|Sea|H3220|Conj-w, Art | N-ms
 v47 הַגָּבוֹל|hag·gå̄·ḇōl|of the Great|H1366|Art | Adj-ms
-v47 וּגְבֽוּל׃ס|ū·ḡə·ḇūl|and the coastline|H1366|Conj-w | N-ms
+v47 וּגְבֽוּל׃|ū·ḡə·ḇūl|and the coastline|H1366|Conj-w | N-ms
 v48 וּבָהָ֑ר|ū·ḇā·hār|[These were] in the hill country|H2022|Conj-w, Prep-b, Art | N-ms
 v48 שָׁמִ֥יר|šā·mîr|Shamir|H8069|N-proper-fs
 v48 וְיַתִּ֖יר|wə·yat·tîr|Jattir|H3492|Conj-w | N-proper-fs
 v48 וְשׂוֹכֹֽה׃|wə·śō·w·ḵōh|Socoh|H7755|Conj-w | N-proper-fs
 v49 וְדַנָּ֥ה|wə·ḏan·nāh|Dannah|H1837|Conj-w | N-proper-fs
-v49 וְקִרְיַת־|wə·qir·yaṯ-|vvv|H7158|
+v49 וְקִרְיַת־|wə·qir·yaṯ-|...|H7158|
 v49 סַנָּ֖ה|san·nāh|Kiriath-sannah|H7158|Conj-w | N-proper-fs
 v49 הִ֥יא|hî|(that is|H1931|Pro-3fs
 v49 דְבִֽר׃|ḏə·ḇir|Debir|H1688|N-proper-fs
@@ -475,18 +475,18 @@ v52 אֲרַ֥ב|’ă·raḇ|Arab|H694|N-proper-fs
 v52 וְרוּמָ֖ה|wə·rū·māh|Dumah|H7316|Conj-w | N-proper-fs
 v52 וְאֶשְׁעָֽן׃|wə·’eš·‘ān|Eshan|H824|Conj-w | N-proper-fs
 v53 וְיָנִים|wə·yå̄·nīm|Janim|H3241|Conj-w | N-proper-fs
-v53 וּבֵית־|ū·ḇêṯ-|vvv|H1054|
+v53 וּבֵית־|ū·ḇêṯ-|...|H1054|
 v53 תַּפּ֖וּחַ|tap·pū·aḥ|Beth-tappuah|H1054|Conj-w | N-proper-fs
 v53 וַאֲפֵֽקָה׃|wa·’ă·p̄ê·qāh|Aphekah|H664|Conj-w | N-proper-fs
 v54 וְחֻמְטָ֗ה|wə·ḥum·ṭāh|Humtah|H2547|Conj-w | N-proper-fs
-v54 וְקִרְיַ֥ת|wə·qir·yaṯ|vvv|H7153|
+v54 וְקִרְיַ֥ת|wə·qir·yaṯ|...|H7153|
 v54 אַרְבַּ֛ע|’ar·ba‘|Kiriath-arba|H7153|Conj-w | N-proper-fs
 v54 הִ֥יא|hî|(that is|H1931|Pro-3fs
 v54 חֶבְר֖וֹן|ḥeḇ·rō·wn|Hebron|H2275|N-proper-fs
 v54 וְצִיעֹ֑ר|wə·ṣî·‘ōr|and Zior|H6730|Conj-w | N-proper-fs
 v54 עָרִ֥ים|‘ā·rîm|cities|H5892|N-fp
 v54 תֵּ֖שַׁע|tê·ša‘|nine|H8672|Number-fs
-v54 וְחַצְרֵיהֶֽן׃ס|wə·ḥaṣ·rê·hen|along with their villages|H2691|Conj-w | N-cpc | 3fp
+v54 וְחַצְרֵיהֶֽן׃|wə·ḥaṣ·rê·hen|along with their villages|H2691|Conj-w | N-cpc | 3fp
 v55 מָע֥וֹן׀|mā·‘ō·wn|Maon|H4584|N-proper-fs
 v55 כַּרְמֶ֖ל|kar·mel|Carmel|H3760|N-proper-fs
 v55 וָזִ֥יף|wā·zîp̄|Ziph|H2128|Conj-w | N-proper-fs
@@ -501,34 +501,34 @@ v57 עָרִ֥ים|‘ā·rîm|cities|H5892|N-fp
 v57 עֶ֖שֶׂר|‘e·śer|ten|H6235|Number-fs
 v57 וְחַצְרֵיהֶֽן׃|wə·ḥaṣ·rê·hen|along with their villages|H2691|Conj-w | N-cpc | 3fp
 v58 חַלְח֥וּל|ḥal·ḥūl|Halhul|H2478|N-proper-fs
-v58 בֵּֽית־|bêṯ-|vvv|H1049|Prep
+v58 בֵּֽית־|bêṯ-|...|H1049|Prep
 v58 צ֖וּר|ṣūr|Beth-zur|H1049|N-proper-fs
 v58 וּגְדֽוֹר׃|ū·ḡə·ḏō·wr|Gedor|H1446|Conj-w | N-proper-fs
 v59 וּמַעֲרָ֥ת|ū·ma·‘ă·rāṯ|Maarath|H4638|Conj-w | N-proper-fs
-v59 וּבֵית־|ū·ḇêṯ-|vvv|H1042|
+v59 וּבֵית־|ū·ḇêṯ-|...|H1042|
 v59 עֲנ֖וֹת|‘ă·nō·wṯ|Beth-anoth|H1042|Conj-w | N-proper-fs
 v59 וְאֶלְתְּקֹ֑ן|wə·’el·tə·qōn|and Eltekon|H515|Conj-w | N-proper-fs
 v59 עָרִ֥ים|‘ā·rîm|cities|H5892|N-fp
 v59 שֵׁ֖שׁ|šêš|six|H8337|Number-fs
 v59 וְחַצְרֵיהֶֽן׃|wə·ḥaṣ·rê·hen|along with their villages|H2691|Conj-w | N-cpc | 3fp
-v60 קִרְיַת־|qir·yaṯ-|vvv|H7154|
+v60 קִרְיַת־|qir·yaṯ-|...|H7154|
 v60 בַּ֗עַל|ba·‘al|Kiriath-baal|H7154|N-proper-fs
 v60 הִ֛יא|hî|(that is|H1931|Pro-3fs
-v60 קִרְיַ֥ת|qir·yaṯ|vvv|H7157|
+v60 קִרְיַ֥ת|qir·yaṯ|...|H7157|
 v60 יְעָרִ֖ים|yə·‘ā·rîm|Kiriath-jearim|H7157|N-proper-fs
 v60 וְהָֽרַבָּ֑ה|wə·hā·rab·bāh|and Rabbah|H7237|Conj-w, Art | N-proper-fs
 v60 עָרִ֥ים|‘ā·rîm|cities|H5892|N-fp
 v60 שְׁתַּ֖יִם|šə·ta·yim|two|H8147|Number-fd
-v60 וְחַצְרֵיהֶֽן׃ס|wə·ḥaṣ·rê·hen|along with their villages|H2691|Conj-w | N-cpc | 3fp
+v60 וְחַצְרֵיהֶֽן׃|wə·ḥaṣ·rê·hen|along with their villages|H2691|Conj-w | N-cpc | 3fp
 v61 בַּמִּדְבָּ֑ר|bam·miḏ·bār|[These were] in the wilderness|H4057|Prep-b, Art | N-ms
-v61 בֵּ֚ית|bêṯ|vvv|H1026|Prep
+v61 בֵּ֚ית|bêṯ|...|H1026|Prep
 v61 הָעֲרָבָ֔ה|hā·‘ă·rā·ḇāh|Beth-arabah|H1026|N-proper-fs
 v61 מִדִּ֖ין|mid·dîn|Middin|H4081|N-proper-fs
 v61 וּסְכָכָֽה׃|ū·sə·ḵā·ḵāh|Secacah|H5527|Conj-w | N-proper-fs
 v62 וְהַנִּבְשָׁ֥ן|wə·han·niḇ·šān|Nibshan|H5044|Conj-w, Art | N-proper-fs
-v62 וְעִיר־|wə·‘îr-|vvv|H5898|
+v62 וְעִיר־|wə·‘îr-|...|H5898|
 v62 הַמֶּ֖לַח|ham·me·laḥ|the City of Salt|H5898|Conj-w | N-proper-fs
-v62 וְעֵ֣ין|wə·‘ên|vvv|H5872|
+v62 וְעֵ֣ין|wə·‘ên|...|H5872|
 v62 גֶּ֑דִי|ge·ḏî|and En-gedi|H5872|Conj-w | N-proper-fs
 v62 עָרִ֥ים|‘ā·rîm|cities|H5892|N-fp
 v62 שֵׁ֖שׁ|šêš|six|H8337|Number-fs
@@ -550,4 +550,4 @@ v63 יְהוּדָה֙|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v63 בִּיר֣וּשָׁלִַ֔ם|bî·rū·šā·lim|[there]|H3389|Prep-b | N-proper-fs
 v63 עַ֖ד|‘aḏ|So to|H5704|Prep
 v63 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v63 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v63 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms

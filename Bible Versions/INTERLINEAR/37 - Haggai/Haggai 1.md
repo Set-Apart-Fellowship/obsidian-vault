@@ -40,7 +40,7 @@ v2 בֹּ֛א|bō|come|H935|V-Qal-Inf
 v2 עֶת־|‘eṯ-|...|H6256|N-csc
 v2 בֵּ֥ית|bêṯ|the house|H1004|N-msc
 v2 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v2 לְהִבָּנֽוֹת׃פ|lə·hib·bā·nō·wṯ|to rebuild|H1129|Prep-l | V-Nifal-Inf
+v2 לְהִבָּנֽוֹת׃|lə·hib·bā·nō·wṯ|to rebuild|H1129|Prep-l | V-Nifal-Inf
 v3 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v3 דְּבַר־|də·ḇar-|Then the word|H1697|N-msc
 v3 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -79,12 +79,12 @@ v6 לְשָׁכְרָ֔ה|lə·šā·ḵə·rāh|have your fill|H7937|Prep-l | V
 v6 לָב֖וֹשׁ|lā·ḇō·wōš|You put on clothes|H3847|V-Qal-InfAbs
 v6 וְאֵין־|wə·’ên-|but never|H369|Conj-w | Adv
 v6 לְחֹ֣ם|lə·ḥōm|get warm|H2552|Prep-l | V-Qal-Inf
-v6 ל֑וֹ|lōw||H0|Prep | 3ms
+v6 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v6 וְהַ֨מִּשְׂתַּכֵּ֔ר|wə·ham·miś·tak·kêr|You earn wages|H7936|Conj-w, Art | V-Hitpael-Prtcpl-ms
 v6 מִשְׂתַּכֵּ֖ר|miś·tak·kêr|...|H7936|V-Hitpael-Prtcpl-ms
 v6 אֶל־|’el-|to put into|H413|Prep
 v6 צְר֥וֹר|ṣə·rō·wr|a bag|H6872|N-ms
-v6 נָקֽוּב׃פ|nā·qūḇ|pierced through|H5344|V-Qal-QalPassPrtcpl-ms
+v6 נָקֽוּב׃|nā·qūḇ|pierced through|H5344|V-Qal-QalPassPrtcpl-ms
 v7 כֹּ֥ה|kōh|This is what|H3541|Adv
 v7 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v7 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -112,7 +112,7 @@ v9 לִמְעָ֔ט|lim·‘āṭ|it amounted to little|H4592|Prep-l | Adv
 v9 וַהֲבֵאתֶ֥ם|wa·hă·ḇê·ṯem|And what you brought|H935|Conj-w | V-Hifil-ConjPerf-2mp
 v9 הַבַּ֖יִת|hab·ba·yiṯ|home|H1004|Art | N-ms
 v9 וְנָפַ֣חְתִּי|wə·nā·p̄aḥ·tî|I blew away|H5301|Conj-w | V-Qal-ConjPerf-1cs
-v9 ב֑וֹ|ḇōw||H0|Prep | 3ms
+v9 ב֑וֹ|ḇōw|-|H0|Prep | 3ms
 v9 יַ֣עַן|ya·‘an|Why|H3282|Adv
 v9 מֶ֗ה|meh|...|H4100|Interrog
 v9 נְאֻם֙|nə·’um|declares|H5002|N-msc
@@ -144,7 +144,7 @@ v11 וְעַל־|wə·‘al-|and on|H5921|Conj-w | Prep
 v11 הֶהָרִ֗ים|he·hā·rîm|the mountains|H2022|Art | N-mp
 v11 וְעַל־|wə·‘al-|on|H5921|Conj-w | Prep
 v11 הַדָּגָן֙|had·dā·ḡān|the grain|H1715|Art | N-ms
-v11 וְעַל־|wə·‘al-||H5921|Conj-w | Prep
+v11 וְעַל־|wə·‘al-|-|H5921|Conj-w | Prep
 v11 הַתִּיר֣וֹשׁ|hat·tî·rō·wōš|new wine|H8492|Art | N-ms
 v11 וְעַל־|wə·‘al-|and|H5921|Conj-w | Prep
 v11 הַיִּצְהָ֔ר|hay·yiṣ·hār|oil|H3323|Art | N-ms
@@ -159,7 +159,7 @@ v11 הַבְּהֵמָ֔ה|hab·bə·hê·māh|and beast|H929|Art | N-fs
 v11 וְעַ֖ל|wə·‘al|and on|H5921|Conj-w | Prep
 v11 כָּל־|kāl-|all|H3605|N-msc
 v11 יְגִ֥יעַ|yə·ḡî·a‘|the labor|H3018|N-msc
-v11 כַּפָּֽיִם׃ס|kap·pā·yim|of [your] hands|H3709|N-fd
+v11 כַּפָּֽיִם׃|kap·pā·yim|of [your] hands|H3709|N-fd
 v12 וַיִּשְׁמַ֣ע|way·yiš·ma‘|obeyed|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v12 זְרֻבָּבֶ֣ל׀|zə·rub·bā·ḇel|Then Zerubbabel|H2216|N-proper-fs
 v12 בֶּֽן־|ben-|son|H1121|N-msc
@@ -226,7 +226,7 @@ v14 מְלָאכָ֔ה|mə·lā·ḵāh|began the work|H4399|N-fs
 v14 בְּבֵית־|bə·ḇêṯ-|on the house|H1004|Prep-b | N-msc
 v14 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v14 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
-v14 אֱלֹהֵיהֶֽם׃פ|’ĕ·lō·hê·hem|their God|H430|N-mpc | 3mp
+v14 אֱלֹהֵיהֶֽם׃|’ĕ·lō·hê·hem|their God|H430|N-mpc | 3mp
 v15 בְּי֨וֹם|bə·yō·wm|day|H3117|Prep-b | N-msc
 v15 עֶשְׂרִ֧ים|‘eś·rîm|on the twenty-fourth|H6242|Number-cp
 v15 וְאַרְבָּעָ֛ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms

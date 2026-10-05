@@ -30,7 +30,7 @@ v5 נִרְדָּ֔פְנוּ|nir·dā·p̄ə·nū|pursued|H7291|V-Nifal-Perf-1c
 v5 יָגַ֖עְנוּ|yā·ḡa‘·nū|we are weary|H3021|V-Qal-Perf-1cp
 v5 לֹא|lō|[and find] no|H3808|Conj-w | Adv-NegPrt
 v5 הֽוּנַ֖ח|hū·naḥ|rest|H5117|V-Hofal-Perf-3ms
-v5 לָֽנוּ׃|lā·nū||H0|Prep | 1cp
+v5 לָֽנוּ׃|lā·nū|-|H0|Prep | 1cp
 v6 מִצְרַ֙יִם֙|miṣ·ra·yim|to Egypt|H4714|N-proper-fs
 v6 נָתַ֣נּוּ|nā·ṯan·nū|We submitted|H5414|V-Qal-Perf-1cp
 v6 יָ֔ד|yāḏ|...|H3027|N-fs
@@ -114,7 +114,7 @@ v18 צִיּוֹן֙|ṣî·yō·wn|Zion|H6726|N-proper-fs
 v18 שֶׁשָּׁמֵ֔ם|šeš·šā·mêm|which lies desolate|H8074|Pro-r | V-Qal-Perf-3ms
 v18 שׁוּעָלִ֖ים|šū·‘ā·lîm|by foxes|H7776|N-mp
 v18 הִלְּכוּ־|hil·lə·ḵū-|patrolled|H1980|V-Piel-Perf-3cp
-v18 בֽוֹ׃פ|ḇōw||H0|Prep | 3ms
+v18 בֽוֹ׃|ḇōw|-|H0|Prep | 3ms
 v19 אַתָּ֤ה|’at·tāh|You|H859|Pro-2ms
 v19 יְהוָה֙|Yah·weh|O LORD|H3068|N-proper-ms
 v19 לְעוֹלָ֣ם|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms

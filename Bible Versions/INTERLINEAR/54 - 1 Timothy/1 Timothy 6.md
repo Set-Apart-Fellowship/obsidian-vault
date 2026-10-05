@@ -11,7 +11,7 @@ v1 τιμῆς|timēs|of honor|G5092|N-GFS
 v1 ἀξίους|axious|worthy|G514|Adj-AMP
 v1 ἡγείσθωσαν|hēgeisthōsan|should regard|G2233|V-PMM/P-3P
 v1 ἵνα|hina|so that|G2443|Conj
-v1 μὴ|mē|vvv|G3361|Adv
+v1 μὴ|mē|...|G3361|Adv
 v1 τὸ|to|-|G3588|Art-NNS
 v1 ὄνομα|onoma|name|G3686|N-NNS
 v1 τοῦ|tou|-|G3588|Art-GMS
@@ -25,7 +25,7 @@ v2 δὲ|de|-|G1161|Conj
 v2 πιστοὺς|pistous|believing|G4103|Adj-AMP
 v2 ἔχοντες|echontes|have|G2192|V-PPA-NMP
 v2 δεσπότας|despotas|masters|G1203|N-AMP
-v2 μὴ|mē|vvv|G3361|Adv
+v2 μὴ|mē|...|G3361|Adv
 v2 καταφρονείτωσαν|kataphroneitōsan|should not show disrespect|G2706|V-PMA-3P
 v2 ὅτι|hoti|because|G3754|Conj
 v2 ἀδελφοί|adelphoi|brothers|G80|N-NMP
@@ -50,7 +50,7 @@ v3 Εἴ|Ei|If|G1487|Conj
 v3 τις|tis|anyone|G5100|IPro-NMS
 v3 ἑτεροδιδασκαλεῖ|heterodidaskalei|teaches another doctrine|G2085|V-PIA-3S
 v3 καὶ|kai|and|G2532|Conj
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 προσέρχεται|proserchetai|disagrees|G4334|V-PIM/P-3S
 v3 ὑγιαίνουσιν|hygiainousin|[with the] sound|G5198|V-PPA-DMP
 v3 λόγοις|logois|words|G3056|N-DMP
@@ -111,7 +111,7 @@ v7 εἰς|eis|into|G1519|Prep
 v7 τὸν|ton|the|G3588|Art-AMS
 v7 κόσμον|kosmon|world|G2889|N-AMS
 v7 ὅτι|hoti|so|G3754|Conj
-v7 οὐδὲ|oude|vvv|G3761|Adv
+v7 οὐδὲ|oude|...|G3761|Adv
 v7 ἐξενεγκεῖν|exenenkein|carry|G1627|V-ANA
 v7 τι|ti|anything {out of it}|G5100|IPro-ANS
 v7 δυνάμεθα|dynametha|we cannot|G1410|V-PIM/P-1P
@@ -193,7 +193,7 @@ v12 ζωῆς|zōēs|life|G2222|N-GFS
 v12 εἰς|eis|to|G1519|Prep
 v12 ἣν|hēn|which|G3739|RelPro-AFS
 v12 ἐκλήθης|eklēthēs|you were called|G2564|V-AIP-2S
-v12 καὶ|kai|vvv|G2532|Conj
+v12 καὶ|kai|...|G2532|Conj
 v12 ὡμολόγησας|hōmologēsas|[when you made]|G3670|V-AIA-2S
 v12 τὴν|tēn|the|G3588|Art-AFS
 v12 καλὴν|kalēn|good|G2570|Adj-AFS

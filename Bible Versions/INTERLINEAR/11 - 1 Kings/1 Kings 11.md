@@ -38,7 +38,7 @@ v2 דָּבַ֥ק|dā·ḇaq|clung|H1692|V-Qal-Perf-3ms
 v2 שְׁלֹמֹ֖ה|šə·lō·mōh|Yet Solomon|H8010|N-proper-ms
 v2 לְאַהֲבָֽה׃|lə·’a·hă·ḇāh|in love|H160|Prep-l | V-Qal-Inf | 3fs
 v3 וַיְהִי־|way·hî-|He had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v3 ל֣וֹ|lōw||H0|Prep | 3ms
+v3 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v3 נָשִׁ֗ים|nā·šîm|wives|H802|N-fp
 v3 שָׂרוֹת֙|śā·rō·wṯ|of royal birth|H8282|N-fp
 v3 שְׁבַ֣ע|šə·ḇa‘|seven|H7651|Number-fsc
@@ -91,7 +91,7 @@ v6 מִלֵּ֛א|mil·lê|completely|H4390|V-Piel-Perf-3ms
 v6 אַחֲרֵ֥י|’a·ḥă·rê|follow|H310|Prep
 v6 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v6 כְּדָוִ֥ד|kə·ḏā·wiḏ|David|H1732|Prep-k | N-proper-ms
-v6 אָבִֽיו׃ס|’ā·ḇîw|unlike his father|H1|N-msc | 3ms
+v6 אָבִֽיו׃|’ā·ḇîw|unlike his father|H1|N-msc | 3ms
 v7 אָז֩|’āz|At that time|H227|Adv
 v7 יִבְנֶ֨ה|yiḇ·neh|built|H1129|V-Qal-Imperf-3ms
 v7 שְׁלֹמֹ֜ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -144,7 +144,7 @@ v10 שָׁמַ֔ר|šā·mar|keep|H8104|V-Qal-Perf-3ms
 v10 אֵ֥ת|’êṯ|-|H853|DirObjM
 v10 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v10 צִוָּ֖ה|ṣiw·wāh|command|H6680|V-Piel-Perf-3ms
-v10 יְהוָֽה׃פ|Yah·weh|the LORD's|H3068|N-proper-ms
+v10 יְהוָֽה׃|Yah·weh|the LORD's|H3068|N-proper-ms
 v11 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v11 לִשְׁלֹמֹ֗ה|liš·lō·mōh|to Solomon|H8010|Prep-l | N-proper-ms
@@ -289,7 +289,7 @@ v20 וַתֵּ֨לֶד|wat·tê·leḏ|bore|H3205|Conj-w | V-Qal-ConsecImperf-3f
 v20 ל֜וֹ|lōw|[Hadad]|H0|Prep | 3ms
 v20 אֲח֣וֹת|’ă·ḥō·wṯ|And the sister|H269|N-fsc
 v20 תַּחְפְּנֵ֗יס|taḥ·pə·nês|of Tahpenes|H8472|N-proper-fs
-v20 אֵ֚ת|’êṯ||H853|DirObjM
+v20 אֵ֚ת|’êṯ|-|H853|DirObjM
 v20 גְּנֻבַ֣ת|gə·nu·ḇaṯ|named Genubath|H1592|N-proper-ms
 v20 בְּנ֔וֹ|bə·nōw|a son|H1121|N-msc | 3ms
 v20 וַתִּגְמְלֵ֣הוּ|wat·tiḡ·mə·lê·hū|weaned him|H1580|Conj-w | V-Qal-ConsecImperf-3fs | 3ms
@@ -370,9 +370,9 @@ v24 אֹתָ֑ם|’ō·ṯām|the Zobaites|H853|DirObjM | 3mp
 v24 וַיֵּלְכ֤וּ|way·yê·lə·ḵū|and went|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v24 דַמֶּ֙שֶׂק֙|ḏam·me·śeq|to Damascus|H1834|N-proper-fs
 v24 וַיֵּ֣שְׁבוּ|way·yê·šə·ḇū|where they settled|H3427|Conj-w | V-Qal-ConsecImperf-3mp
-v24 בָ֔הּ|ḇāh||H0|Prep | 3fs
+v24 בָ֔הּ|ḇāh|-|H0|Prep | 3fs
 v24 וַֽיִּמְלְכ֖וּ|way·yim·lə·ḵū|and gained control|H4427|Conj-w | V-Qal-ConsecImperf-3mp
-v24 בְּדַמָּֽשֶׂק׃|bə·ḏam·mā·śeq||H1834|Prep-b | N-proper-fs
+v24 בְּדַמָּֽשֶׂק׃|bə·ḏam·mā·śeq|-|H1834|Prep-b | N-proper-fs
 v25 וַיְהִ֨י|way·hî|Rezon was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v25 שָׂטָ֤ן|śā·ṭān|enemy|H7854|N-ms
 v25 לְיִשְׂרָאֵל֙|lə·yiś·rā·’êl|Israel's|H3478|Prep-l | N-proper-ms
@@ -387,7 +387,7 @@ v25 וַיָּ֙קָץ֙|way·yā·qāṣ|with hostility|H6973|Conj-w | V-Qal-Co
 v25 בְּיִשְׂרָאֵ֔ל|bə·yiś·rā·’êl|toward Israel|H3478|Prep-b | N-proper-ms
 v25 וַיִּמְלֹ֖ךְ|way·yim·lōḵ|So [Rezon] ruled|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v25 עַל־|‘al-|over|H5921|Prep
-v25 אֲרָֽם׃פ|’ă·rām|Aram|H758|N-proper-fs
+v25 אֲרָֽם׃|’ă·rām|Aram|H758|N-proper-fs
 v26 וְיָרָבְעָם֩|wə·yā·rā·ḇə·‘ām|Now Jeroboam|H3379|Conj-w | N-proper-ms
 v26 בֶּן־|ben-|son|H1121|N-msc
 v26 נְבָ֨ט|nə·ḇāṭ|of Nebat|H5028|N-proper-ms
@@ -437,7 +437,7 @@ v28 אֹת֔וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v28 לְכָל־|lə·ḵāl|of the whole|H3605|Prep-l | N-msc
 v28 סֵ֖בֶל|sê·ḇel|labor force|H5447|N-msc
 v28 בֵּ֥ית|bêṯ|of the house|H1004|N-msc
-v28 יוֹסֵֽף׃ס|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
+v28 יוֹסֵֽף׃|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
 v29 וַֽיְהִי֙|way·hî|During|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v29 בָּעֵ֣ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
 v29 הַהִ֔יא|ha·hî|that|H1931|Art | Pro-3fs
@@ -493,7 +493,7 @@ v31 הַשְּׁבָטִֽים׃|haš·šə·ḇā·ṭîm|tribes|H7626|Art | N-
 v32 וְהַשֵּׁ֥בֶט|wə·haš·šê·ḇeṭ|tribe|H7626|Conj-w, Art | N-ms
 v32 הָאֶחָ֖ד|hā·’e·ḥāḏ|But one|H259|Art | Number-ms
 v32 יִֽהְיֶה־|yih·yeh-|will remain|H1961|V-Qal-Imperf-3ms
-v32 לּ֑וֹ|lōw||H0|Prep | 3ms
+v32 לּ֑וֹ|lōw|-|H0|Prep | 3ms
 v32 לְמַ֣עַן׀|lə·ma·‘an|for the sake|H4616|Prep
 v32 עַבְדִּ֣י|‘aḇ·dî|of My servant|H5650|N-msc | 1cs
 v32 דָוִ֗ד|ḏā·wiḏ|David|H1732|N-proper-ms
@@ -502,7 +502,7 @@ v32 יְר֣וּשָׁלִַ֔ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper
 v32 הָעִיר֙|hā·‘îr|the city|H5892|Art | N-fs
 v32 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v32 בָּחַ֣רְתִּי|bā·ḥar·tî|I have chosen|H977|V-Qal-Perf-1cs
-v32 בָ֔הּ|ḇāh||H0|Prep | 3fs
+v32 בָ֔הּ|ḇāh|-|H0|Prep | 3fs
 v32 מִכֹּ֖ל|mik·kōl|out of all|H3605|Prep-m | N-msc
 v32 שִׁבְטֵ֥י|šiḇ·ṭê|the tribes|H7626|N-mpc
 v32 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -577,7 +577,7 @@ v36 בִּיר֣וּשָׁלִַ֔ם|bî·rū·šā·lim|in Jerusalem|H3389|Prep
 v36 הָעִיר֙|hā·‘îr|the city|H5892|Art | N-fs
 v36 אֲשֶׁ֣ר|’ă·šer|where|H834|Pro-r
 v36 בָּחַ֣רְתִּי|bā·ḥar·tî|I chose|H977|V-Qal-Perf-1cs
-v36 לִ֔י|lî||H0|Prep | 1cs
+v36 לִ֔י|lî|-|H0|Prep | 1cs
 v36 לָשׂ֥וּם|lā·śūm|to put|H7760|Prep-l | V-Qal-Inf
 v36 שְׁמִ֖י|šə·mî|My Name|H8034|N-msc | 1cs
 v36 שָֽׁם׃|šām|-|H8033|Adv
@@ -592,7 +592,7 @@ v37 וְהָיִ֥יתָ|wə·hā·yî·ṯā|and you will be|H1961|Conj-w | V-Q
 v37 מֶּ֖לֶךְ|me·leḵ|king|H4428|N-ms
 v37 עַל־|‘al-|over|H5921|Prep
 v37 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v38 וְהָיָ֗ה|wə·hā·yāh||H1961|Conj-w | V-Qal-ConjPerf-3ms
+v38 וְהָיָ֗ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v38 אִם־|’im-|If|H518|Conj
 v38 תִּשְׁמַע֮|tiš·ma‘|you listen to|H8085|V-Qal-Imperf-2ms
 v38 אֶת־|’eṯ-|-|H853|DirObjM
@@ -633,7 +633,7 @@ v39 זֹ֑את|zōṯ|of this|H2063|Pro-fs
 v39 אַ֖ךְ|’aḵ|but|H389|Adv
 v39 לֹ֥א|lō|not|H3808|Adv-NegPrt
 v39 כָל־|ḵāl|forever|H3605|N-msc
-v39 הַיָּמִֽים׃ס|hay·yā·mîm|...|H3117|Art | N-mp
+v39 הַיָּמִֽים׃|hay·yā·mîm|...|H3117|Art | N-mp
 v40 וַיְבַקֵּ֥שׁ|way·ḇaq·qêš|therefore sought|H1245|Conj-w | V-Piel-ConsecImperf-3ms
 v40 שְׁלֹמֹ֖ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
 v40 לְהָמִ֣ית|lə·hā·mîṯ|to kill|H4191|Prep-l | V-Hifil-Inf
@@ -687,4 +687,4 @@ v43 אָבִ֑יו|’ā·ḇîw|of his father|H1|N-msc | 3ms
 v43 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v43 רְחַבְעָ֥ם|rə·ḥaḇ·‘ām|Rehoboam|H7346|N-proper-ms
 v43 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v43 תַּחְתָּֽיו׃ס|taḥ·tāw|in his place|H8478|Prep | 3ms
+v43 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

@@ -51,7 +51,7 @@ v9 הֵן־|hên-|Surely|H2005|Interjection
 v9 תֹּחַלְתּ֥וֹ|tō·ḥal·tōw|hope of [overcoming] him|H8431|N-fsc | 3ms
 v9 נִכְזָ֑בָה|niḵ·zā·ḇāh|is false|H3576|V-Nifal-Perf-3fs
 v9 הֲגַ֖ם|hă·ḡam|Is not|H1571|Conj
-v9 אֶל־|’el-||H413|Prep
+v9 אֶל־|’el-|-|H413|Prep
 v9 מַרְאָ֣יו|mar·’āw|the sight of him|H4758|N-mpc | 3ms
 v9 יֻטָֽל׃|yu·ṭāl|overwhelming|H2904|V-Hofal-Imperf-3ms
 v10 לֹֽא־|lō-|No one|H3808|Adv-NegPrt
@@ -82,7 +82,7 @@ v13 גִ֭לָּה|ḡil·lāh|can strip off|H1540|V-Piel-Perf-3ms
 v13 פְּנֵ֣י|pə·nê|his outer|H6440|N-cpc
 v13 לְבוּשׁ֑וֹ|lə·ḇū·šōw|coat|H3830|N-msc | 3ms
 v13 בְּכֶ֥פֶל|bə·ḵe·p̄el|with a bridle|H3718|Prep-b | N-msc
-v13 רִ֝סְנ֗וֹ|ris·nōw||H7448|N-msc | 3ms
+v13 רִ֝סְנ֗וֹ|ris·nōw|-|H7448|N-msc | 3ms
 v13 מִ֣י|mî|Who|H4310|Interrog
 v13 יָבֽוֹא׃|yā·ḇō·w|can approach [him]|H935|V-Qal-Imperf-3ms
 v14 דַּלְתֵ֣י|dal·ṯê|his jaws|H1817|N-fdc
@@ -222,5 +222,5 @@ v34 ה֝֗וּא|hū|he|H1931|Pro-3ms
 v34 מֶ֣לֶךְ|me·leḵ|is king|H4428|N-ms
 v34 עַל־|‘al-|over|H5921|Prep
 v34 כָּל־|kāl-|on all|H3605|N-msc
-v34 בְּנֵי־|bə·nê-||H1121|N-mpc
-v34 שָֽׁחַץ׃ס|šā·ḥaṣ|the proud|H7830|N-ms
+v34 בְּנֵי־|bə·nê-|-|H1121|N-mpc
+v34 שָֽׁחַץ׃|šā·ḥaṣ|the proud|H7830|N-ms

@@ -89,7 +89,7 @@ v14 בַּלָּהֽוֹת׃|bal·lā·hō·wṯ|of terrors|H1091|N-fp
 v15 תִּשְׁכּ֣וֹן|tiš·kō·wn|resides|H7931|V-Qal-Imperf-3fs
 v15 בְּ֭אָהֳלוֹ|bə·’ā·ho·lōw|in his tent|H168|Prep-b | N-msc | 3ms
 v15 מִבְּלִי־|mib·bə·lî-|Fire|H1097|Prep-m | Adv
-v15 ל֑וֹ|lōw||H0|Prep | 3ms
+v15 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v15 יְזֹרֶ֖ה|yə·zō·reh|rains down|H2219|V-Pual-Imperf-3ms
 v15 עַל־|‘al-|on|H5921|Prep
 v15 נָוֵ֣הוּ|nā·wê·hū|his dwelling|H5116|N-msc | 3ms
@@ -108,7 +108,7 @@ v17 וְלֹא־|wə·lō-|no|H3808|Conj-w | Adv-NegPrt
 v17 שֵׁ֥ם|šêm|name|H8034|N-ms
 v17 ל֝֗וֹ|lōw|and he has|H0|Prep | 3ms
 v17 עַל־|‘al-|in|H5921|Prep
-v17 פְּנֵי־|pə·nê-||H6440|N-mpc
+v17 פְּנֵי־|pə·nê-|-|H6440|N-mpc
 v17 חֽוּץ׃|ḥūṣ|the land|H2351|N-ms
 v18 יֶ֭הְדְּפֻהוּ|yeh·də·p̄u·hū|He is driven|H1920|V-Qal-Imperf-3mp | 3ms
 v18 מֵא֣וֹר|mê·’ō·wr|from light|H216|Prep-m | N-cs
@@ -118,7 +118,7 @@ v18 וּֽמִתֵּבֵ֥ל|ū·mit·tê·ḇêl|from the inhabited world|H8398
 v18 יְנִדֻּֽהוּ׃|yə·nid·du·hū|and is chased|H5074|V-Hifil-Imperf-3mp | 3ms
 v19 לֹ֘א|lō|He has no|H3808|Adv-NegPrt
 v19 נִ֤ין|nîn|offspring|H5209|N-ms
-v19 ל֣וֹ|lōw||H0|Prep | 3ms
+v19 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v19 וְלֹא־|wə·lō-|-|H3808|Conj-w | Adv-NegPrt
 v19 נֶ֣כֶד|ne·ḵeḏ|or posterity|H5220|N-ms
 v19 בְּעַמּ֑וֹ|bə·‘am·mōw|among his people|H5971|Prep-b | N-msc | 3ms
@@ -140,4 +140,4 @@ v21 וְ֝זֶ֗ה|wə·zeh|[and]|H2088|Conj-w | Pro-ms
 v21 מְק֣וֹם|mə·qō·wm|the place|H4725|N-msc
 v21 לֹא־|lō-|of one who does not|H3808|Adv-NegPrt
 v21 יָדַֽע־|yā·ḏa‘-|know|H3045|V-Qal-Perf-3ms
-v21 אֵֽל׃ס|’êl|God|H410|N-ms
+v21 אֵֽל׃|’êl|God|H410|N-ms

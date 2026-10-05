@@ -36,7 +36,7 @@ v4 פֶ֥תֶן|p̄e·ṯen|a cobra|H6620|N-ms
 v4 חֵ֝רֵ֗שׁ|ḥê·rêš|that shuts|H2795|Adj-ms
 v4 יַאְטֵ֥ם|ya’·ṭêm|...|H331|V-Hifil-Imperf.Jus-3ms
 v4 אָזְנֽוֹ׃|’ā·zə·nōw|its ears|H241|N-fsc | 3ms
-v5 אֲשֶׁ֣ר|’ă·šer|vvv|H834|Pro-r
+v5 אֲשֶׁ֣ר|’ă·šer|...|H834|Pro-r
 v5 לֹא־|lō-|refusing|H3808|Adv-NegPrt
 v5 יִ֭שְׁמַע|yiš·ma‘|to hear|H8085|V-Qal-Imperf-3ms
 v5 לְק֣וֹל|lə·qō·wl|the tune|H6963|Prep-l | N-ms
@@ -56,10 +56,10 @@ v7 יִמָּאֲס֣וּ|yim·mā·’ă·sū|May they vanish|H3988|V-Nifal-Im
 v7 כְמוֹ־|ḵə·mōw-|like|H3644|Prep
 v7 מַ֭יִם|ma·yim|water|H4325|N-mp
 v7 יִתְהַלְּכוּ־|yiṯ·hal·lə·ḵū-|that runs off|H1980|V-Hitpael-Imperf-3mp
-v7 לָ֑מוֹ|lā·mōw||H0|Prep | 3mp
+v7 לָ֑מוֹ|lā·mōw|-|H0|Prep | 3mp
 v7 יִדְרֹ֥ךְ|yiḏ·rōḵ|when they draw the bow|H1869|V-Qal-Imperf-3ms
 v7 חִצּוֹ|ḥiṣ·ṣō|may their arrows|H2671|N-msc | 3ms
-v7 כְּמ֣וֹ|kə·mōw||H3644|Prep
+v7 כְּמ֣וֹ|kə·mōw|-|H3644|Prep
 v7 יִתְמֹלָֽלוּ׃|yiṯ·mō·lā·lū|be blunted|H4135|V-Hitpael-Imperf-3mp
 v8 כְּמ֣וֹ|kə·mōw|Like|H3644|Prep
 v8 שַׁ֭בְּלוּל|šab·bə·lûl|a slug|H7642|N-msc

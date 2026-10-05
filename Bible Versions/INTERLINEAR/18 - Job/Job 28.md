@@ -44,7 +44,7 @@ v6 סַפִּ֥יר|sap·pîr|of sapphires|H5601|N-ms
 v6 אֲבָנֶ֑יהָ|’ă·ḇā·ne·hā|Its rocks|H68|N-fpc | 3fs
 v6 וְעַפְרֹ֖ת|wə·‘ap̄·rōṯ|containing flecks|H6083|Conj-w | N-msc
 v6 זָהָ֣ב|zā·hāḇ|of gold|H2091|N-ms
-v6 לֽוֹ׃|lōw||H0|Prep | 3ms
+v6 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v7 נָ֭תִיב|nā·ṯîḇ|that path|H5410|N-ms
 v7 לֹֽא־|lō-|No|H3808|Adv-NegPrt
 v7 יְדָ֣עוֹ|yə·ḏā·‘ōw|knows|H3045|V-Qal-Perf-3ms | 3ms
@@ -79,7 +79,7 @@ v11 נְהָר֣וֹת|nə·hā·rō·wṯ|of the streams|H5104|N-mp
 v11 חִבֵּ֑שׁ|ḥib·bêš|He stops up|H2280|V-Piel-Perf-3ms
 v11 וְ֝תַעֲלֻמָ֗הּ|wə·ṯa·ʿă·lu·må̄h|what is hidden|H8587|Conj-w | N-fsc
 v11 יֹ֣צִא|yō·ṣi|to bring|H3318|V-Hifil-Imperf-3ms
-v11 אֽוֹר׃פ|’ō·wr|to light|H216|N-cs
+v11 אֽוֹר׃|’ō·wr|to light|H216|N-cs
 v12 וְֽ֭הַחָכְמָה|wə·ha·ḥā·ḵə·māh|can wisdom|H2451|Conj-w, Art | N-fs
 v12 מֵאַ֣יִן|mê·’a·yin|But where|H370|Prep-m | Adv
 v12 תִּמָּצֵ֑א|tim·mā·ṣê|be found|H4672|V-Nifal-Imperf-3fs
@@ -140,7 +140,7 @@ v19 כּ֑וּשׁ|kūš|from Cush|H3568|N-proper-fs
 v19 בְּכֶ֥תֶם|bə·ḵe·ṯem|gold|H3800|Prep-b | N-ms
 v19 טָ֝ה֗וֹר|ṭā·hō·wr|in pure|H2889|Adj-ms
 v19 לֹ֣א|lō|nor can it|H3808|Adv-NegPrt
-v19 תְסֻלֶּֽה׃פ|ṯə·sul·leh|be valued|H5541|V-Pual-Imperf-3fs
+v19 תְסֻלֶּֽה׃|ṯə·sul·leh|be valued|H5541|V-Pual-Imperf-3fs
 v20 וְֽ֭הַחָכְמָה|wə·ha·ḥā·ḵə·māh|then, does wisdom|H2451|Conj-w, Art | N-fs
 v20 מֵאַ֣יִן|mê·’a·yin|From where|H370|Prep-m | Adv
 v20 תָּב֑וֹא|tā·ḇō·w|come|H935|V-Qal-Imperf-3fs
@@ -181,7 +181,7 @@ v25 לַעֲשׂ֣וֹת|la·‘ă·śō·wṯ|When God fixed|H6213|Prep-l | V-
 v25 לָר֣וּחַ|lā·rū·aḥ|of the wind|H7307|Prep-l, Art | N-cs
 v25 מִשְׁקָ֑ל|miš·qāl|the weight|H4948|N-ms
 v25 וּ֝מַ֗יִם|ū·ma·yim|the waters|H4325|Conj-w | N-mp
-v25 תִּכֵּ֥ן|tik·kên|vvv|H8505|V-Piel-Perf-3ms
+v25 תִּכֵּ֥ן|tik·kên|...|H8505|V-Piel-Perf-3ms
 v25 בְּמִדָּֽה׃|bə·mid·dāh|and measured out|H4060|Prep-b | N-fs
 v26 בַּעֲשֹׂת֣וֹ|ba·ʿă·śō·ṯō|when He set|H6213|Prep-b | V-Qal-Inf | 3ms
 v26 לַמָּטָ֣ר|lam·mā·ṭār|for the rain|H4306|Prep-l, Art | N-ms
@@ -204,4 +204,4 @@ v28 הִ֣יא|hî|that [is]|H1931|Pro-3fs
 v28 חָכְמָ֑ה|ḥāḵ·māh|wisdom|H2451|N-fs
 v28 וְס֖וּר|wə·sūr|and to turn away|H5493|Conj-w | V-Qal-Inf
 v28 מֵרָ֣ע|mê·rā‘|from evil|H7451|Prep-m | Adj-ms
-v28 בִּינָֽה׃ס|bî·nāh|[is] understanding|H998|N-fs
+v28 בִּינָֽה׃|bî·nāh|[is] understanding|H998|N-fs

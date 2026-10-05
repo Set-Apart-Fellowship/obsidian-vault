@@ -11,7 +11,7 @@ v1 מִתּ֛וֹךְ|mit·tō·wḵ|from among|H8432|Prep-m | N-msc
 v1 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
 v1 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v1 לְכַהֲנוֹ־|lə·ḵa·hă·nōw-|to serve Me as priests|H3547|Prep-l | V-Piel-Inf | 3ms
-v1 לִ֑י|lî||H0|Prep | 1cs
+v1 לִ֑י|lî|-|H0|Prep | 1cs
 v1 אַהֲרֹ֕ן|’a·hă·rōn|-|H175|N-proper-ms
 v1 נָדָ֧ב|nā·ḏāḇ|Nadab|H5070|N-proper-ms
 v1 וַאֲבִיה֛וּא|wa·’ă·ḇî·hū|Abihu|H30|Conj-w | N-proper-ms
@@ -61,7 +61,7 @@ v4 לְאַהֲרֹ֥ן|lə·’a·hă·rōn|Aaron|H175|Prep-l | N-proper-ms
 v4 אָחִ֛יךָ|’ā·ḥî·ḵā|for your brother|H251|N-msc | 2ms
 v4 וּלְבָנָ֖יו|ū·lə·ḇā·nāw|and his sons|H1121|Conj-w, Prep-l | N-mpc | 3ms
 v4 לְכַהֲנוֹ־|lə·ḵa·hă·nōw-|so that they may serve Me as priests|H3547|Prep-l | V-Piel-Inf | 3ms
-v4 לִֽי׃|lî||H0|Prep | 1cs
+v4 לִֽי׃|lî|-|H0|Prep | 1cs
 v5 וְהֵם֙|wə·hêm|They|H1992|Conj-w | Pro-3mp
 v5 יִקְח֣וּ|yiq·ḥū|shall use|H3947|V-Qal-Imperf-3mp
 v5 אֶת־|’eṯ-|-|H853|DirObjM
@@ -74,7 +74,7 @@ v5 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v5 תּוֹלַ֥עַת|tō·w·la·‘aṯ|and scarlet yarn|H8438|N-fsc
 v5 הַשָּׁנִ֖י|haš·šā·nî|...|H8144|Art | N-ms
 v5 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v5 הַשֵּֽׁשׁ׃פ|haš·šêš|and fine linen|H8336|Art | N-ms
+v5 הַשֵּֽׁשׁ׃|haš·šêš|and fine linen|H8336|Art | N-ms
 v6 וְעָשׂ֖וּ|wə·‘ā·śū|They are to make|H6213|Conj-w | V-Qal-ConjPerf-3cp
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 הָאֵפֹ֑ד|hā·’ê·p̄ōḏ|the ephod|H646|Art | N-ms
@@ -91,7 +91,7 @@ v7 שְׁתֵּ֧י|šə·tê|two|H8147|Number-fdc
 v7 כְתֵפֹ֣ת|ḵə·ṯê·p̄ōṯ|shoulder pieces|H3802|N-fp
 v7 חֹֽבְרֹ֗ת|ḥō·ḇə·rōṯ|attached|H2266|V-Qal-Prtcpl-fp
 v7 יִֽהְיֶה־|yih·yeh-|It shall have|H1961|V-Qal-Imperf-3ms
-v7 לּ֛וֹ|lōw||H0|Prep | 3ms
+v7 לּ֛וֹ|lōw|-|H0|Prep | 3ms
 v7 אֶל־|’el-|at|H413|Prep
 v7 שְׁנֵ֥י|šə·nê|two|H8147|Number-mdc
 v7 קְצוֹתָ֖יו|qə·ṣō·w·ṯāw|of its corners|H7098|N-fpc | 3ms
@@ -149,7 +149,7 @@ v11 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v11 מֻסַבֹּ֛ת|mu·sab·bōṯ|Then mount|H5437|V-Hofal-Prtcpl-fpc
 v11 מִשְׁבְּצ֥וֹת|miš·bə·ṣō·wṯ|filigree settings|H4865|N-fpc
 v11 זָהָ֖ב|zā·hāḇ|in gold|H2091|N-ms
-v11 תַּעֲשֶׂ֥ה|ta·‘ă·śeh||H6213|V-Qal-Imperf-2ms
+v11 תַּעֲשֶׂ֥ה|ta·‘ă·śeh|-|H6213|V-Qal-Imperf-2ms
 v11 אֹתָֽם׃|’ō·ṯām|[the stones]|H853|DirObjM | 3mp
 v12 וְשַׂמְתָּ֞|wə·śam·tā|Fasten|H7760|Conj-w | V-Qal-ConjPerf-2ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
@@ -171,7 +171,7 @@ v12 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v12 עַל־|‘al-|on|H5921|Prep
 v12 שְׁתֵּ֥י|šə·tê|his two|H8147|Number-fdc
 v12 כְתֵפָ֖יו|ḵə·ṯê·p̄āw|shoulders|H3802|N-fpc | 3ms
-v12 לְזִכָּרֹֽן׃ס|lə·zik·kā·rōn|as a memorial|H2146|Prep-l | N-ms
+v12 לְזִכָּרֹֽן׃|lə·zik·kā·rōn|as a memorial|H2146|Prep-l | N-ms
 v13 וְעָשִׂ֥יתָ|wə·‘ā·śî·ṯā|Fashion|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v13 מִשְׁבְּצֹ֖ת|miš·bə·ṣōṯ|filigree settings|H4865|N-fpc
 v13 זָהָֽב׃|zā·hāḇ|gold|H2091|N-ms
@@ -189,7 +189,7 @@ v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 שַׁרְשְׁרֹ֥ת|šar·šə·rōṯ|chains|H8333|N-fp
 v14 הָעֲבֹתֹ֖ת|hā·‘ă·ḇō·ṯōṯ|[these]|H5688|Art | N-cp
 v14 עַל־|‘al-|to|H5921|Prep
-v14 הַֽמִּשְׁבְּצֹֽת׃ס|ham·miš·bə·ṣōṯ|the settings|H4865|Art | N-fp
+v14 הַֽמִּשְׁבְּצֹֽת׃|ham·miš·bə·ṣōṯ|the settings|H4865|Art | N-fp
 v15 וְעָשִׂ֜יתָ|wə·‘ā·śî·ṯā|You are also to make|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v15 חֹ֤שֶׁן|ḥō·šen|a breastpiece|H2833|N-msc
 v15 מִשְׁפָּט֙|miš·pāṭ|of judgment|H4941|N-ms
@@ -410,7 +410,7 @@ v30 עַל־|‘al-|over|H5921|Prep
 v30 לִבּ֛וֹ|lib·bōw|his heart|H3820|N-msc | 3ms
 v30 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v30 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v30 תָּמִֽיד׃ס|tā·mîḏ|will continually|H8548|Adv
+v30 תָּמִֽיד׃|tā·mîḏ|will continually|H8548|Adv
 v31 וְעָשִׂ֛יתָ|wə·‘ā·śî·ṯā|You are to make|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v31 אֶת־|’eṯ-|-|H853|DirObjM
 v31 מְעִ֥יל|mə·‘îl|the robe|H4598|N-msc
@@ -458,7 +458,7 @@ v34 עַל־|‘al-|...|H5921|Prep
 v34 שׁוּלֵ֥י|šū·lê|{around} the lower hem|H7757|N-mpc
 v34 הַמְּעִ֖יל|ham·mə·‘îl|of the robe|H4598|Art | N-ms
 v34 סָבִֽיב׃|sā·ḇîḇ|alternating|H5439|Adv
-v35 וְהָיָ֥ה|wə·hā·yāh||H1961|Conj-w | V-Qal-ConjPerf-3ms
+v35 וְהָיָ֥ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v35 עַֽל־|‘al-|must wear [the robe]|H5921|Prep
 v35 אַהֲרֹ֖ן|’a·hă·rōn|Aaron|H175|N-proper-ms
 v35 לְשָׁרֵ֑ת|lə·šā·rêṯ|whenever he ministers|H8334|Prep-l | V-Piel-Inf
@@ -471,7 +471,7 @@ v35 לִפְנֵ֧י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v35 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v35 וּבְצֵאת֖וֹ|ū·ḇə·ṣê·ṯōw|or exits|H3318|Conj-w, Prep-b | V-Qal-Inf | 3ms
 v35 וְלֹ֥א|wə·lō|so that he will not|H3808|Conj-w | Adv-NegPrt
-v35 יָמֽוּת׃ס|yā·mūṯ|die|H4191|V-Qal-Imperf-3ms
+v35 יָמֽוּת׃|yā·mūṯ|die|H4191|V-Qal-Imperf-3ms
 v36 וְעָשִׂ֥יתָ|wə·‘ā·śî·ṯā|You are to make|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v36 צִּ֖יץ|ṣîṣ|a plate|H6731|N-msc
 v36 זָהָ֣ב|zā·hāḇ|gold|H2091|N-ms
@@ -516,7 +516,7 @@ v38 עַל־|‘al-|on|H5921|Prep
 v38 מִצְחוֹ֙|miṣ·ḥōw|his forehead|H4696|N-msc | 3ms
 v38 תָּמִ֔יד|tā·mîḏ|It shall always|H8548|Adv
 v38 לְרָצ֥וֹן|lə·rā·ṣō·wn|so that they may be acceptable|H7522|Prep-l | N-ms
-v38 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v38 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v38 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v38 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v39 וְשִׁבַּצְתָּ֙|wə·šib·baṣ·tā|You are to weave|H7660|Conj-w | V-Piel-ConjPerf-2ms
@@ -538,7 +538,7 @@ v40 לָהֶ֖ם|lā·hem|them|H0|Prep | 3mp
 v40 אַבְנֵטִ֑ים|’aḇ·nê·ṭîm|sashes|H73|N-mp
 v40 וּמִגְבָּעוֹת֙|ū·miḡ·bā·‘ō·wṯ|and headbands|H4021|Conj-w | N-fp
 v40 תַּעֲשֶׂ֣ה|ta·‘ă·śeh|...|H6213|V-Qal-Imperf-2ms
-v40 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v40 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v40 לְכָב֖וֹד|lə·ḵā·ḇō·wḏ|glory|H3519|Prep-l | N-ms
 v40 וּלְתִפְאָֽרֶת׃|ū·lə·ṯip̄·’ā·reṯ|and splendor|H8597|Conj-w, Prep-l | N-fs
 v41 וְהִלְבַּשְׁתָּ֤|wə·hil·baš·tā|After you put|H3847|Conj-w | V-Hifil-ConjPerf-2ms
@@ -557,7 +557,7 @@ v41 יָדָ֛ם|yā·ḏām|...|H3027|N-fsc | 3mp
 v41 וְקִדַּשְׁתָּ֥|wə·qid·daš·tā|and consecrate|H6942|Conj-w | V-Piel-ConjPerf-2ms
 v41 אֹתָ֖ם|’ō·ṯām|them|H853|DirObjM | 3mp
 v41 וְכִהֲנ֥וּ|wə·ḵi·hă·nū|so that they may serve Me as priests|H3547|Conj-w | V-Piel-ConjPerf-3cp
-v41 לִֽי׃|lî||H0|Prep | 1cs
+v41 לִֽי׃|lî|-|H0|Prep | 1cs
 v42 וַעֲשֵׂ֤ה|wa·‘ă·śêh|Make|H6213|Conj-w | V-Qal-Imp-ms
 v42 לָהֶם֙|lā·hem|their|H0|Prep | 3mp
 v42 מִכְנְסֵי־|miḵ·nə·sê-|undergarments|H4370|N-mdc
@@ -590,6 +590,6 @@ v43 עָוֺ֖ן|‘ā·wōn|guilt|H5771|N-cs
 v43 וָמֵ֑תוּ|wā·mê·ṯū|and die|H4191|Conj-w | V-Qal-ConjPerf-3cp
 v43 חֻקַּ֥ת|ḥuq·qaṯ|statute|H2708|N-fsc
 v43 עוֹלָ֛ם|‘ō·w·lām|This is to be a permanent|H5769|N-ms
-v43 ל֖וֹ|lōw||H0|Prep | 3ms
+v43 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v43 וּלְזַרְע֥וֹ|ū·lə·zar·‘ōw|and his descendants|H2233|Conj-w, Prep-l | N-msc | 3ms
-v43 אַחֲרָֽיו׃ס|’a·ḥă·rāw|for Aaron|H310|Prep | 3ms
+v43 אַחֲרָֽיו׃|’a·ḥă·rāw|for Aaron|H310|Prep | 3ms

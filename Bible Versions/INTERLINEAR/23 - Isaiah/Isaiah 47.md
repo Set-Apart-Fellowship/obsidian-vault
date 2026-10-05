@@ -15,7 +15,7 @@ v1 כִּ֣י|kî|For|H3588|Conj
 v1 לֹ֤א|lō|you will no|H3808|Adv-NegPrt
 v1 תוֹסִ֙יפִי֙|ṯō·w·sî·p̄î|longer|H3254|V-Hifil-Imperf-2fs
 v1 יִקְרְאוּ־|yiq·rə·’ū-|be called|H7121|V-Qal-Imperf-3mp
-v1 לָ֔ךְ|lāḵ||H0|Prep | 2fs
+v1 לָ֔ךְ|lāḵ|-|H0|Prep | 2fs
 v1 רַכָּ֖ה|rak·kāh|tender|H7390|Adj-fs
 v1 וַעֲנֻגָּֽה׃|wa·‘ă·nug·gāh|or delicate|H6028|Conj-w | Adj-fs
 v2 קְחִ֥י|qə·ḥî|Take|H3947|V-Qal-Imp-fs
@@ -39,7 +39,7 @@ v3 נָקָ֣ם|nā·qām|vengeance|H5359|N-ms
 v3 אֶקָּ֔ח|’eq·qāḥ|I will take|H3947|V-Qal-Imperf-1cs
 v3 וְלֹ֥א|wə·lō|no|H3808|Conj-w | Adv-NegPrt
 v3 אֶפְגַּ֖ע|’ep̄·ga‘|I will spare|H6293|V-Qal-Imperf-1cs
-v3 אָדָֽם׃ס|’ā·ḏām|one|H120|N-ms
+v3 אָדָֽם׃|’ā·ḏām|one|H120|N-ms
 v4 גֹּאֲלֵ֕נוּ|gō·’ă·lê·nū|Our Redeemer|H1350|V-Qal-Prtcpl-msc | 1cp
 v4 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v4 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
@@ -56,7 +56,7 @@ v5 כִּ֣י|kî|For|H3588|Conj
 v5 לֹ֤א|lō|you will no|H3808|Adv-NegPrt
 v5 תוֹסִ֙יפִי֙|ṯō·w·sî·p̄î|longer|H3254|V-Hifil-Imperf-2fs
 v5 יִקְרְאוּ־|yiq·rə·’ū-|be called|H7121|V-Qal-Imperf-3mp
-v5 לָ֔ךְ|lāḵ||H0|Prep | 2fs
+v5 לָ֔ךְ|lāḵ|-|H0|Prep | 2fs
 v5 גְּבֶ֖רֶת|gə·ḇe·reṯ|the queen|H1404|N-fsc
 v5 מַמְלָכֽוֹת׃|mam·lā·ḵō·wṯ|of kingdoms|H4467|N-fp
 v6 קָצַ֣פְתִּי|qā·ṣap̄·tî|I was angry|H7107|V-Qal-Perf-1cs
@@ -79,7 +79,7 @@ v7 וַתֹּ֣אמְרִ֔י|wat·tō·mə·rî|You said|H559|Conj-w | V-Qal-Co
 v7 לְעוֹלָ֖ם|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
 v7 אֶהְיֶ֣ה|’eh·yeh|I will be|H1961|V-Qal-Imperf-1cs
 v7 גְבָ֑רֶת|ḡə·ḇā·reṯ|queen|H1404|N-fs
-v7 עַ֣ד|‘aḏ||H5704|Prep
+v7 עַ֣ד|‘aḏ|-|H5704|Prep
 v7 לֹא־|lō-|You did not|H3808|Adv-NegPrt
 v7 שַׂ֥מְתְּ|śamt|take|H7760|V-Qal-Perf-2fs
 v7 אֵ֙לֶּה֙|’êl·leh|these|H428|Pro-cp
@@ -87,7 +87,7 @@ v7 עַל־|‘al-|things to|H5921|Prep
 v7 לִבֵּ֔ךְ|lib·bêḵ|heart|H3820|N-msc | 2fs
 v7 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v7 זָכַ֖רְתְּ|zā·ḵart|or consider|H2142|V-Qal-Perf-2fs
-v7 אַחֲרִיתָֽהּ׃ס|’a·ḥă·rî·ṯāh|their outcome|H319|N-fsc | 3fs
+v7 אַחֲרִיתָֽהּ׃|’a·ḥă·rî·ṯāh|their outcome|H319|N-fsc | 3fs
 v8 וְעַתָּ֞ה|wə·‘at·tāh|So now|H6258|Conj-w | Adv
 v8 שִׁמְעִי־|šim·‘î-|hear|H8085|V-Qal-Imp-fs
 v8 זֹ֤את|zōṯ|this|H2063|Pro-fs
@@ -210,4 +210,4 @@ v15 אִ֤ישׁ|’îš|each one|H376|N-ms
 v15 לְעֶבְרוֹ֙|lə·‘eḇ·rōw|in his own direction|H5676|Prep-l | N-msc | 3ms
 v15 תָּע֔וּ|tā·‘ū|strays|H8582|V-Qal-Perf-3cp
 v15 אֵ֖ין|’ên|not one of them|H369|Adv
-v15 מוֹשִׁיעֵֽךְ׃ס|mō·wō·šî·‘êḵ|can save you|H3467|V-Hifil-Prtcpl-msc | 2fs
+v15 מוֹשִׁיעֵֽךְ׃|mō·wō·šî·‘êḵ|can save you|H3467|V-Hifil-Prtcpl-msc | 2fs

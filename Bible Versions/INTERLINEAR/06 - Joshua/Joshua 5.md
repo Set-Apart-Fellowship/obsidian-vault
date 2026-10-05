@@ -3,8 +3,8 @@ v1 כִשְׁמֹ֣עַ|ḵiš·mō·a‘|heard|H8085|Prep-k | V-Qal-Inf
 v1 כָּל־|kāl-|when all|H3605|N-msc
 v1 מַלְכֵ֣י|mal·ḵê|kings|H4428|N-mpc
 v1 הָאֱמֹרִ֡י|hā·’ĕ·mō·rî|the Amorite|H567|Art | N-proper-ms
-v1 אֲשֶׁר֩|’ă·šer||H834|Pro-r
-v1 בְּעֵ֨בֶר|bə·‘ê·ḇer|vvv|H5676|Prep-b | N-msc
+v1 אֲשֶׁר֩|’ă·šer|-|H834|Pro-r
+v1 בְּעֵ֨בֶר|bə·‘ê·ḇer|...|H5676|Prep-b | N-msc
 v1 הַיַּרְדֵּ֜ן|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
 v1 יָ֗מָּה|yām·māh|west of|H3220|N-ms | 3fs
 v1 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
@@ -29,12 +29,12 @@ v1 וַיִּמַּ֣ס|way·yim·mas|melted|H4549|Conj-w | V-Nifal-ConsecImperf
 v1 לְבָבָ֗ם|lə·ḇā·ḇām|their hearts|H3824|N-msc | 3mp
 v1 וְלֹא־|wə·lō-|failed|H3808|Conj-w | Adv-NegPrt
 v1 הָ֨יָה|hā·yāh|...|H1961|V-Qal-Perf-3ms
-v1 בָ֥ם|ḇām||H0|Prep | 3mp
+v1 בָ֥ם|ḇām|-|H0|Prep | 3mp
 v1 עוֹד֙|‘ō·wḏ|-|H5750|Adv
 v1 ר֔וּחַ|rū·aḥ|and their spirits|H7307|N-cs
 v1 מִפְּנֵ֖י|mip·pə·nê|for fear of|H6440|Prep-m | N-cpc
 v1 בְּנֵֽי־|bə·nê-|the Israelites|H1121|N-mpc
-v1 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|...|H3478|N-proper-ms
+v1 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v2 בָּעֵ֣ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
 v2 הַהִ֗יא|ha·hî|At that|H1931|Art | Pro-3fs
 v2 אָמַ֤ר|’ā·mar|said|H559|V-Qal-Perf-3ms
@@ -42,7 +42,7 @@ v2 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v2 אֶל־|’el-|to|H413|Prep
 v2 יְהוֹשֻׁ֔עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v2 עֲשֵׂ֥ה|‘ă·śêh|Make|H6213|V-Qal-Imp-ms
-v2 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v2 חַֽרְב֣וֹת|ḥar·ḇō·wṯ|knives|H2719|N-fpc
 v2 צֻרִ֑ים|ṣu·rîm|flint|H6697|N-mp
 v2 וְשׁ֛וּב|wə·šūḇ|once again|H7725|Conj-w | V-Qal-Imp-ms
@@ -52,7 +52,7 @@ v2 בְּנֵֽי־|bə·nê-|the sons|H1121|N-mpc
 v2 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 שֵׁנִֽית׃|šê·nîṯ|...|H8145|Number-ofs
 v3 וַיַּעַשׂ־|way·ya·‘aś-|made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
-v3 ל֥וֹ|lōw||H0|Prep | 3ms
+v3 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v3 יְהוֹשֻׁ֖עַ|yə·hō·wō·šu·a‘|So Joshua|H3091|N-proper-ms
 v3 חַֽרְב֣וֹת|ḥar·ḇō·wṯ|knives|H2719|N-fpc
 v3 צֻרִ֑ים|ṣu·rîm|flint|H6697|N-mp
@@ -92,7 +92,7 @@ v5 הָ֠עָם|hā·‘ām|of those|H5971|Art | N-ms
 v5 הַיִּלֹּדִ֨ים|hay·yil·lō·ḏîm|born|H3209|Art | Adj-mp
 v5 בַּמִּדְבָּ֥ר|bam·miḏ·bār|in the wilderness|H4057|Prep-b, Art | N-ms
 v5 בַּדֶּ֛רֶךְ|bad·de·reḵ|on the journey|H1870|Prep-b, Art | N-cs
-v5 בְּצֵאתָ֥ם|bə·ṣê·ṯām|vvv|H3318|Prep-b | V-Qal-Inf | 3mp
+v5 בְּצֵאתָ֥ם|bə·ṣê·ṯām|...|H3318|Prep-b | V-Qal-Inf | 3mp
 v5 מִמִּצְרַ֖יִם|mim·miṣ·ra·yim|from Egypt|H4714|Prep-m | N-proper-fs
 v5 לֹא־|lō-|...|H3808|Adv-NegPrt
 v5 מָֽלוּ׃|mā·lū|had been circumcised|H4135|V-Qal-Perf-3cp
@@ -119,7 +119,7 @@ v6 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v6 אֲשֶׁ֨ר|’ă·šer|So|H834|Pro-r
 v6 נִשְׁבַּ֤ע|niš·ba‘|vowed|H7650|V-Nifal-Perf-3ms
 v6 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
-v6 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v6 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v6 לְבִלְתִּ֞י|lə·ḇil·tî|never|H1115|Prep-l
 v6 הַרְאוֹתָ֣ם|har·’ō·w·ṯām|to let them see|H7200|V-Hifil-Inf | 3mp
 v6 אֶת־|’eṯ-|-|H853|DirObjM
@@ -159,7 +159,7 @@ v8 וַיֵּשְׁב֥וּ|way·yê·šə·ḇū|they stayed|H3427|Conj-w | V-Q
 v8 תַחְתָּ֛ם|ṯaḥ·tām|there|H8478|Prep | 3mp
 v8 בַּֽמַּחֲנֶ֖ה|bam·ma·ḥă·neh|in the camp|H4264|Prep-b, Art | N-cs
 v8 עַ֥ד|‘aḏ|until|H5704|Prep
-v8 חֲיוֹתָֽם׃פ|ḥă·yō·w·ṯām|they were healed|H2421|V-Qal-Inf | 3mp
+v8 חֲיוֹתָֽם׃|ḥă·yō·w·ṯām|they were healed|H2421|V-Qal-Inf | 3mp
 v9 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v9 אֶל־|’el-|to|H413|Prep
@@ -219,7 +219,7 @@ v12 מִתְּבוּאַת֙|mit·tə·ḇū·’aṯ|the crops|H8393|Prep-m | N
 v12 אֶ֣רֶץ|’e·reṣ|of the land|H776|N-fsc
 v12 כְּנַ֔עַן|kə·na·‘an|of Canaan|H3667|N-proper-ms
 v12 בַּשָּׁנָ֖ה|baš·šā·nāh|year|H8141|Prep-b, Art | N-fs
-v12 הַהִֽיא׃ס|ha·hî|so that|H1931|Art | Pro-3fs
+v12 הַהִֽיא׃|ha·hî|so that|H1931|Art | Pro-3fs
 v13 וַיְהִ֗י|way·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v13 בִּֽהְי֣וֹת|bih·yō·wṯ|...|H1961|Prep-b | V-Qal-Inf
 v13 יְהוֹשֻׁעַ֮|yə·hō·wō·šu·a‘|Now when Joshua|H3091|N-proper-ms
@@ -238,7 +238,7 @@ v13 וַיֵּ֨לֶךְ|way·yê·leḵ|approached|H1980|Conj-w | V-Qal-ConsecI
 v13 יְהוֹשֻׁ֤עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v13 אֵלָיו֙|’ê·lāw|Him|H413|Prep | 3ms
 v13 וַיֹּ֣אמֶר|way·yō·mer|and asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v13 ל֔וֹ|lōw||H0|Prep | 3ms
+v13 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v13 הֲלָ֥נוּ|hă·lā·nū|for us|H0|Prep | 1cp
 v13 אַתָּ֖ה|’at·tāh|Are You|H859|Pro-2ms
 v13 אִם־|’im-|or|H518|Conj

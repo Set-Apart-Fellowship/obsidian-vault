@@ -121,7 +121,7 @@ v9 ὕδωρ|hydōr|water|G5204|N-ANS
 v9 οἶνον|oinon|wine|G3631|N-AMS
 v9 γεγενημένον|gegenēmenon|that had been turned into|G1096|V-RPM/P-ANS
 v9 καὶ|kai|-|G2532|Conj
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ᾔδει|ēdei|He did not know|G1492|V-LIA-3S
 v9 πόθεν|pothen|where|G4159|Adv
 v9 ἐστίν|estin|it was {from}|G1510|V-PIA-3S
@@ -204,7 +204,7 @@ v12 αὐτοῦ|autou|His|G846|PPro-GM3S
 v12 καὶ|kai|and|G2532|Conj
 v12 ἐκεῖ|ekei|there|G1563|Adv
 v12 ἔμειναν|emeinan|they stayed|G3306|V-AIA-3P
-v12 οὐ|ou|vvv|G3756|Adv
+v12 οὐ|ou|...|G3756|Adv
 v12 πολλὰς|pollas|a few|G4183|Adj-AFP
 v12 ἡμέρας|hēmeras|days|G2250|N-AFP
 v13 Καὶ|Kai|When|G2532|Conj
@@ -212,7 +212,7 @@ v13 ἐγγὺς|engys|near|G1451|Adv
 v13 ἦν|ēn|was|G1510|V-IIA-3S
 v13 τὸ|to|the|G3588|Art-NNS
 v13 πάσχα|pascha|Passover|G3957|N-NNS
-v13 τῶν|tōn|vvv|G3588|Art-GMP
+v13 τῶν|tōn|...|G3588|Art-GMP
 v13 Ἰουδαίων|Ioudaiōn|Jewish|G2453|Adj-GMP
 v13 καὶ|kai|-|G2532|Conj
 v13 ἀνέβη|anebē|went up|G305|V-AIA-3S

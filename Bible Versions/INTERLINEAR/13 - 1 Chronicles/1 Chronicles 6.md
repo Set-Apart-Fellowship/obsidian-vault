@@ -8,7 +8,7 @@ v2 קְהָ֑ת|qə·hāṯ|of Kohath|H6955|N-proper-ms
 v2 עַמְרָ֣ם|‘am·rām|Amram|H6019|N-proper-ms
 v2 יִצְהָ֔ר|yiṣ·hār|Izhar|H3324|N-proper-ms
 v2 וְחֶבְר֖וֹן|wə·ḥeḇ·rō·wn|Hebron|H2275|Conj-w | N-proper-ms
-v2 וְעֻזִּיאֵֽל׃ס|wə·‘uz·zî·’êl|and Uzziel|H5816|Conj-w | N-proper-ms
+v2 וְעֻזִּיאֵֽל׃|wə·‘uz·zî·’êl|and Uzziel|H5816|Conj-w | N-proper-ms
 v3 וּבְנֵ֣י|ū·ḇə·nê|The children|H1121|Conj-w | N-mpc
 v3 עַמְרָ֔ם|‘am·rām|of Amram|H6019|N-proper-ms
 v3 אַהֲרֹ֥ן|’a·hă·rōn|Aaron|H175|N-proper-ms
@@ -19,7 +19,7 @@ v3 אַהֲרֹ֔ן|’a·hă·rōn|of Aaron|H175|N-proper-ms
 v3 נָדָב֙|nā·ḏāḇ|Nadab|H5070|N-proper-ms
 v3 וַאֲבִיה֔וּא|wa·’ă·ḇî·hū|Abihu|H30|Conj-w | N-proper-ms
 v3 אֶלְעָזָ֖ר|’el·‘ā·zār|Eleazar|H499|N-proper-ms
-v3 וְאִיתָמָֽר׃ס|wə·’î·ṯā·mār|and Ithamar|H385|Conj-w | N-proper-ms
+v3 וְאִיתָמָֽר׃|wə·’î·ṯā·mār|and Ithamar|H385|Conj-w | N-proper-ms
 v4 אֶלְעָזָר֙|’el·‘ā·zār|Eleazar|H499|N-proper-ms
 v4 הוֹלִ֣יד|hō·w·lîḏ|was the father of|H3205|V-Hifil-Perf-3ms
 v4 אֶת־|’eṯ-|-|H853|DirObjM
@@ -120,7 +120,7 @@ v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 יְהוּדָ֖ה|yə·hū·ḏāh|sent Judah|H3063|N-proper-ms
 v15 וִירוּשָׁלִָ֑ם|wî·rū·šā·lim|and Jerusalem|H3389|Conj-w | N-proper-fs
 v15 בְּיַ֖ד|bə·yaḏ|by the hand|H3027|Prep-b | N-fsc
-v15 נְבֻכַדְנֶאצַּֽר׃ס|nə·ḇu·ḵaḏ·neṣ·ṣar|of Nebuchadnezzar|H5019|N-proper-ms
+v15 נְבֻכַדְנֶאצַּֽר׃|nə·ḇu·ḵaḏ·neṣ·ṣar|of Nebuchadnezzar|H5019|N-proper-ms
 v16 בְּנֵ֖י|bə·nê|The sons of|H1121|N-mpc
 v16 לֵוִ֑י|lê·wî|Levi|H3878|N-proper-ms
 v16 גֵּרְשֹׁ֕ם|gê·rə·šōm|Gershom|H1647|N-proper-ms
@@ -204,7 +204,7 @@ v28 וּבְנֵ֧י|ū·ḇə·nê|The sons|H1121|Conj-w | N-mpc
 v28 שְׁמוּאֵ֛ל|šə·mū·’êl|of Samuel|H8050|N-proper-ms
 v28 הַבְּכֹ֥ר|hab·bə·ḵōr|[Joel] his firstborn|H1060|Art | N-ms
 v28 וַשְׁנִ֖י|waš·nî|his second son|H2059|N-proper-ms
-v28 וַאֲבִיָּֽה׃ס|wa·’ă·ḇî·yāh|and Abijah|H29|Conj-w | N-proper-ms
+v28 וַאֲבִיָּֽה׃|wa·’ă·ḇî·yāh|and Abijah|H29|Conj-w | N-proper-ms
 v29 בְּנֵ֥י|bə·nê|The descendants|H1121|N-mpc
 v29 מְרָרִ֖י|mə·rā·rî|of Merari|H4847|N-proper-ms
 v29 מַחְלִ֑י|maḥ·lî|Mahli|H4249|N-proper-ms
@@ -219,7 +219,7 @@ v30 בְנ֛וֹ|ḇə·nōw|his son|H1121|N-msc | 3ms
 v30 חַגִּיָּ֥ה|ḥag·gî·yāh|Haggiah|H2293|N-proper-ms
 v30 בְנ֖וֹ|ḇə·nōw|his son|H1121|N-msc | 3ms
 v30 עֲשָׂיָ֥ה|‘ă·śā·yāh|[and] Asaiah|H6222|N-proper-ms
-v30 בְנֽוֹ׃פ|ḇə·nōw|his son|H1121|N-msc | 3ms
+v30 בְנֽוֹ׃|ḇə·nōw|his son|H1121|N-msc | 3ms
 v31 וְאֵ֗לֶּה|wə·’êl·leh|These|H428|Conj-w | Pro-cp
 v31 אֲשֶׁ֨ר|’ă·šer|are the men|H834|Pro-r
 v31 הֶעֱמִ֥יד|he·‘ĕ·mîḏ|put|H5975|V-Hifil-Perf-3ms
@@ -333,7 +333,7 @@ v43 יַ֥חַת|ya·ḥaṯ|of Jahath|H3189|N-proper-ms
 v43 בֶּן־|ben-|the son|H1121|N-msc
 v43 גֵּרְשֹׁ֖ם|gê·rə·šōm|of Gershom|H1647|N-proper-ms
 v43 בֶּן־|ben-|the son|H1121|N-msc
-v43 לֵוִֽי׃ס|lê·wî|of Levi|H3878|N-proper-ms
+v43 לֵוִֽי׃|lê·wî|of Levi|H3878|N-proper-ms
 v44 וּבְנֵ֧י|ū·ḇə·nê|the sons|H1121|Conj-w | N-mpc
 v44 מְרָרִ֛י|mə·rā·rî|of Merari|H4847|N-proper-ms
 v44 אֲחֵיהֶ֖ם|’ă·ḥê·hem|[were] their kinsmen|H251|N-mpc | 3mp
@@ -365,7 +365,7 @@ v47 מוּשִׁ֔י|mū·šî|of Mushi|H4187|N-proper-ms
 v47 בֶּן־|ben-|the son|H1121|N-msc
 v47 מְרָרִ֖י|mə·rā·rî|of Merari|H4847|N-proper-ms
 v47 בֶּן־|ben-|the son|H1121|N-msc
-v47 לֵוִֽי׃ס|lê·wî|of Levi|H3878|N-proper-ms
+v47 לֵוִֽי׃|lê·wî|of Levi|H3878|N-proper-ms
 v48 וַאֲחֵיהֶ֖ם|wa·’ă·ḥê·hem|Their fellow|H251|Conj-w | N-mpc | 3mp
 v48 הַלְוִיִּ֑ם|hal·wî·yim|Levites|H3881|Art | N-proper-mp
 v48 נְתוּנִ֕ים|nə·ṯū·nîm|were assigned|H5414|V-Qal-QalPassPrtcpl-mp
@@ -395,7 +395,7 @@ v49 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v49 צִוָּ֔ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v49 מֹשֶׁ֖ה|mō·šeh|Moses|H4872|N-proper-ms
 v49 עֶ֥בֶד|‘e·ḇeḏ|the servant|H5650|N-msc
-v49 הָאֱלֹהִֽים׃פ|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
+v49 הָאֱלֹהִֽים׃|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v50 וְאֵ֖לֶּה|wə·’êl·leh|These|H428|Conj-w | Pro-cp
 v50 בְּנֵ֣י|bə·nê|were the descendants|H1121|N-mpc
 v50 אַהֲרֹ֑ן|’a·hă·rōn|of Aaron|H175|N-proper-ms
@@ -420,7 +420,7 @@ v52 בְּנֽוֹ׃|bə·nōw|his son|H1121|N-msc | 3ms
 v53 צָד֥וֹק|ṣā·ḏō·wq|Zadok|H6659|N-proper-ms
 v53 בְּנ֖וֹ|bə·nōw|his son|H1121|N-msc | 3ms
 v53 אֲחִימַ֥עַץ|’ă·ḥî·ma·‘aṣ|[and] Ahimaaz|H290|N-proper-ms
-v53 בְּנֽוֹ׃ס|bə·nōw|his son|H1121|N-msc | 3ms
+v53 בְּנֽוֹ׃|bə·nōw|his son|H1121|N-msc | 3ms
 v54 וְאֵ֙לֶּה֙|wə·’êl·leh|Now these [were]|H428|Conj-w | Pro-cp
 v54 מוֹשְׁבוֹתָ֔ם|mō·wō·šə·ḇō·w·ṯām|for their settlements|H4186|N-mpc | 3mp
 v54 לְטִירוֹתָ֖ם|lə·ṭî·rō·w·ṯām|...|H2918|Prep-l | N-fpc | 3mp
@@ -450,7 +450,7 @@ v56 חֲצֵרֶ֑יהָ|ḥă·ṣê·re·hā|and villages|H2691|N-cpc | 3fs
 v56 נָתְנ֖וּ|nā·ṯə·nū|were given|H5414|V-Qal-Perf-3cp
 v56 לְכָלֵ֥ב|lə·ḵā·lêḇ|to Caleb|H3612|Prep-l | N-proper-ms
 v56 בֶּן־|ben-|son|H1121|N-msc
-v56 יְפֻנֶּֽה׃ס|yə·p̄un·neh|of Jephunneh|H3312|N-proper-ms
+v56 יְפֻנֶּֽה׃|yə·p̄un·neh|of Jephunneh|H3312|N-proper-ms
 v57 וְלִבְנֵ֣י|wə·liḇ·nê|So the descendants|H1121|Conj-w, Prep-l | N-mpc
 v57 אַהֲרֹ֗ן|’a·hă·rōn|of Aaron|H175|N-proper-ms
 v57 נָתְנוּ֙|nā·ṯə·nū|were given|H5414|V-Qal-Perf-3cp
@@ -482,10 +482,10 @@ v59 עָשָׁן֙|‘ā·šān|Ashan|H6228|N-proper-fs
 v59 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v59 מִגְרָשֶׁ֔יהָ|miḡ·rā·še·hā|[Juttah,]|H4054|N-mpc | 3fs
 v59 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v59 בֵּ֥ית|bêṯ|vvv|H1053|Prep
+v59 בֵּ֥ית|bêṯ|...|H1053|Prep
 v59 שֶׁ֖מֶשׁ|še·meš|and Beth-shemesh|H1053|N-proper-fs
 v59 וְאֶת־|wə·’eṯ-|together with|H853|Conj-w | DirObjM
-v59 מִגְרָשֶֽׁיהָ׃ס|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
+v59 מִגְרָשֶֽׁיהָ׃|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
 v60 וּמִמַּטֵּ֣ה|ū·mim·maṭ·ṭêh|And from the tribe|H4294|Conj-w, Prep-m | N-msc
 v60 בִנְיָמִ֗ן|ḇin·yā·min|of Benjamin|H1144|N-proper-ms
 v60 אֶת־|’eṯ-|[they were given Gibeon,]|H853|DirObjM
@@ -505,7 +505,7 @@ v60 עָרֵיהֶ֛ם|‘ā·rê·hem|cities|H5892|N-fpc | 3mp
 v60 שְׁלֹשׁ־|šə·lōš-|So they had thirteen|H7969|Number-fsc
 v60 עֶשְׂרֵ֥ה|‘eś·rêh|...|H6240|Number-fsc
 v60 עִ֖יר|‘îr|...|H5892|N-fs
-v60 בְּמִשְׁפְּחוֹתֵיהֶֽם׃ס|bə·miš·pə·ḥō·w·ṯê·hem|among their families|H4940|Prep-b | N-fpc | 3mp
+v60 בְּמִשְׁפְּחוֹתֵיהֶֽם׃|bə·miš·pə·ḥō·w·ṯê·hem|among their families|H4940|Prep-b | N-fpc | 3mp
 v61 וְלִבְנֵ֨י|wə·liḇ·nê|of the Kohathites|H1121|Conj-w, Prep-l | N-mpc
 v61 קְהָ֜ת|qə·hāṯ|...|H6955|N-proper-ms
 v61 הַנּוֹתָרִ֗ים|han·nō·w·ṯā·rîm|To the rest|H3498|Art | V-Nifal-Prtcpl-mp
@@ -517,7 +517,7 @@ v61 חֲצִ֧י|ḥă·ṣî|...|H2677|N-msc
 v61 מְנַשֶּׁ֛ה|mə·naš·šeh|of Manasseh|H4519|N-proper-ms
 v61 בַּגּוֹרָ֖ל|bag·gō·w·rāl|were allotted|H1486|Prep-b, Art | N-ms
 v61 עָרִ֥ים|‘ā·rîm|cities|H5892|N-fp
-v61 עָֽשֶׂר׃ס|‘ā·śer|ten|H6235|Number-fs
+v61 עָֽשֶׂר׃|‘ā·śer|ten|H6235|Number-fs
 v62 וְלִבְנֵ֨י|wə·liḇ·nê|The Gershomites|H1121|Conj-w, Prep-l | N-mpc
 v62 גֵרְשׁ֜וֹם|ḡê·rə·šō·wm|...|H1647|N-proper-ms
 v62 לְמִשְׁפְּחוֹתָ֗ם|lə·miš·pə·ḥō·w·ṯām|according to their clans|H4940|Prep-l | N-fpc | 3mp
@@ -532,7 +532,7 @@ v62 מְנַשֶּׁה֙|mə·naš·šeh|and Manasseh|H4519|N-proper-ms
 v62 בַּבָּשָׁ֔ן|bab·bā·šān|in Bashan|H1316|Prep-b, Art | N-proper-fs
 v62 עָרִ֖ים|‘ā·rîm|cities|H5892|N-fp
 v62 שְׁלֹ֥שׁ|šə·lōš|[were allotted] thirteen|H7969|Number-fsc
-v62 עֶשְׂרֵֽה׃ס|‘eś·rêh|...|H6240|Number-fs
+v62 עֶשְׂרֵֽה׃|‘eś·rêh|...|H6240|Number-fs
 v63 לִבְנֵ֨י|liḇ·nê|The Merarites|H1121|Prep-l | N-mpc
 v63 מְרָרִ֜י|mə·rā·rî|...|H4847|N-proper-ms
 v63 לְמִשְׁפְּחוֹתָ֗ם|lə·miš·pə·ḥō·w·ṯām|according to their clans|H4940|Prep-l | N-fpc | 3mp
@@ -571,7 +571,7 @@ v65 הָאֵ֔לֶּה|hā·’êl·leh|...|H428|Art | Pro-cp
 v65 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v65 יִקְרְא֥וּ|yiq·rə·’ū|named|H7121|V-Qal-Imperf-3mp
 v65 אֶתְהֶ֖ם|’eṯ·hem|-|H853|DirObjM | 3mp
-v65 בְּשֵׁמֽוֹת׃ס|bə·šê·mō·wṯ|above|H8034|Prep-b | N-mp
+v65 בְּשֵׁמֽוֹת׃|bə·šê·mō·wṯ|above|H8034|Prep-b | N-mp
 v66 וּמִֽמִּשְׁפְּח֖וֹת|ū·mim·miš·pə·ḥō·wṯ|And some of the clans|H4940|Conj-w, Prep-m | N-fpc
 v66 בְּנֵ֣י|bə·nê|of the Kohathites|H1121|N-mpc
 v66 קְהָ֑ת|qə·hāṯ|...|H6955|N-proper-ms
@@ -581,7 +581,7 @@ v66 גְבוּלָ֔ם|ḡə·ḇū·lām|for their territory|H1366|N-msc | 3mp
 v66 מִמַּטֵּ֖ה|mim·maṭ·ṭêh|from the tribe|H4294|Prep-m | N-msc
 v66 אֶפְרָֽיִם׃|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
 v67 וַיִּתְּנ֨וּ|way·yit·tə·nū|They were given|H5414|Conj-w | V-Qal-ConsecImperf-3mp
-v67 לָהֶ֜ם|lā·hem||H0|Prep | 3mp
+v67 לָהֶ֜ם|lā·hem|-|H0|Prep | 3mp
 v67 אֶת־|’eṯ-|-|H853|DirObjM
 v67 עָרֵ֧י|‘ā·rê|(a city|H5892|N-fpc
 v67 הַמִּקְלָ֛ט|ham·miq·lāṭ|of refuge|H4733|Art | N-ms
@@ -600,7 +600,7 @@ v68 יָקְמְעָם֙|yā·qə·mə·‘ām|Jokmeam|H3361|N-proper-fs
 v68 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v68 מִגְרָשֶׁ֔יהָ|miḡ·rā·še·hā|-|H4054|N-mpc | 3fs
 v68 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v68 בֵּ֥ית|bêṯ|vvv|H1032|Prep
+v68 בֵּ֥ית|bêṯ|...|H1032|Prep
 v68 חוֹר֖וֹן|ḥō·w·rō·wn|Beth-horon|H1032|N-proper-fs
 v68 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v68 מִגְרָשֶֽׁיהָ׃|miḡ·rā·še·hā|-|H4054|N-mpc | 3fs
@@ -609,14 +609,14 @@ v69 אַיָּלוֹן֙|’ay·yā·lō·wn|Aijalon|H357|N-proper-fs
 v69 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v69 מִגְרָשֶׁ֔יהָ|miḡ·rā·še·hā|-|H4054|N-mpc | 3fs
 v69 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v69 גַּת־|gaṯ-|vvv|H1667|
+v69 גַּת־|gaṯ-|...|H1667|
 v69 רִמּ֖וֹן|rim·mō·wn|and Gath-rimmon|H1667|N-proper-fs
 v69 וְאֶת־|wə·’eṯ-|together with|H853|Conj-w | DirObjM
-v69 מִגְרָשֶֽׁיהָ׃פ|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
+v69 מִגְרָשֶֽׁיהָ׃|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
 v70 וּמִֽמַּחֲצִית֙|ū·mim·ma·ḥă·ṣîṯ|And from|H4276|Conj-w, Prep-m | N-fsc
 v70 מַטֵּ֣ה|maṭ·ṭêh|the half-tribe|H4294|N-msc
 v70 מְנַשֶּׁ֔ה|mə·naš·šeh|of Manasseh|H4519|N-proper-ms
-v70 אֶת־|’eṯ-||H853|DirObjM
+v70 אֶת־|’eṯ-|-|H853|DirObjM
 v70 עָנֵר֙|‘ā·nêr|[were given] Aner|H6063|N-proper-fs
 v70 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v70 מִגְרָשֶׁ֔יהָ|miḡ·rā·še·hā|-|H4054|N-mpc | 3fs
@@ -627,7 +627,7 @@ v70 מִגְרָשֶׁ֑יהָ|miḡ·rā·še·hā|their pasturelands|H4054|N-m
 v70 לְמִשְׁפַּ֥חַת|lə·miš·pa·ḥaṯ|clans|H4940|Prep-l | N-fsc
 v70 לִבְנֵי־|liḇ·nê-|of the Kohathites|H1121|Prep-l | N-mpc
 v70 קְהָ֖ת|qə·hāṯ|...|H6955|N-proper-ms
-v70 הַנּוֹתָרִֽים׃פ|han·nō·w·ṯā·rîm|the rest of the|H3498|Art | V-Nifal-Prtcpl-mp
+v70 הַנּוֹתָרִֽים׃|han·nō·w·ṯā·rîm|the rest of the|H3498|Art | V-Nifal-Prtcpl-mp
 v71 לִבְנֵי֮|liḇ·nê|The Gershomites [received the following]|H1121|Prep-l | N-mpc
 v71 גֵּרְשׁוֹם֒|gê·rə·šō·wm|...|H1647|N-proper-ms
 v71 מִמִּשְׁפַּ֗חַת|mim·miš·pa·ḥaṯ|From the clan|H4940|Prep-m | N-fsc
@@ -642,7 +642,7 @@ v71 מִגְרָשֶׁ֑יהָ|miḡ·rā·še·hā|-|H4054|N-mpc | 3fs
 v71 וְאֶת־|wə·’eṯ-|and also|H853|Conj-w | DirObjM
 v71 עַשְׁתָּר֖וֹת|‘aš·tā·rō·wṯ|Ashtaroth|H6252|N-proper-fs
 v71 וְאֶת־|wə·’eṯ-|together with|H853|Conj-w | DirObjM
-v71 מִגְרָשֶֽׁיהָ׃ס|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
+v71 מִגְרָשֶֽׁיהָ׃|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
 v72 וּמִמַּטֵּ֣ה|ū·mim·maṭ·ṭêh|From the tribe|H4294|Conj-w, Prep-m | N-msc
 v72 יִשָׂשכָ֔ר|yi·śā·š·ḵār|of Issachar|H3485|N-proper-ms
 v72 אֶת־|’eṯ-|[they were given]|H853|DirObjM
@@ -651,16 +651,16 @@ v72 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v72 מִגְרָשֶׁ֑יהָ|miḡ·rā·še·hā|-|H4054|N-mpc | 3fs
 v72 אֶת־|’eṯ-|-|H853|DirObjM
 v72 דָּבְרַ֖ת|dā·ḇə·raṯ|Daberath|H1705|N-proper-fs
-v72 וְאֶת־|wə·’eṯ-||H853|Conj-w | DirObjM
-v72 מִגְרָשֶֽׁיהָ׃|miḡ·rā·še·hā||H4054|N-mpc | 3fs
+v72 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
+v72 מִגְרָשֶֽׁיהָ׃|miḡ·rā·še·hā|-|H4054|N-mpc | 3fs
 v73 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v73 רָאמוֹת֙|rā·mō·wṯ|Ramoth|H7216|N-proper-fs
 v73 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v73 מִגְרָשֶׁ֔יהָ|miḡ·rā·še·hā||H4054|N-mpc | 3fs
+v73 מִגְרָשֶׁ֔יהָ|miḡ·rā·še·hā|-|H4054|N-mpc | 3fs
 v73 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v73 עָנֵ֖ם|‘ā·nêm|and Anem|H6046|N-proper-fs
 v73 וְאֶת־|wə·’eṯ-|together with|H853|Conj-w | DirObjM
-v73 מִגְרָשֶֽׁיהָ׃ס|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
+v73 מִגְרָשֶֽׁיהָ׃|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
 v74 וּמִמַּטֵּ֣ה|ū·mim·maṭ·ṭêh|From the tribe|H4294|Conj-w, Prep-m | N-msc
 v74 אָשֵׁ֔ר|’ā·šêr|of Asher|H836|N-proper-ms
 v74 אֶת־|’eṯ-|[they were given]|H853|DirObjM
@@ -693,7 +693,7 @@ v76 מִגְרָשֶׁ֑יהָ|miḡ·rā·še·hā|-|H4054|N-mpc | 3fs
 v76 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v76 קִרְיָתַ֖יִם|qir·yā·ṯa·yim|and Kiriathaim|H7156|N-proper-fs
 v76 וְאֶת־|wə·’eṯ-|together with|H853|Conj-w | DirObjM
-v76 מִגְרָשֶֽׁיהָ׃ס|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
+v76 מִגְרָשֶֽׁיהָ׃|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
 v77 לִבְנֵ֣י|liḇ·nê|The Merarites|H1121|Prep-l | N-mpc
 v77 מְרָרִי֮|mə·rā·rî|...|H4847|N-proper-ms
 v77 הַנּוֹתָרִים֒|han·nō·w·ṯā·rîm|the rest [of the Levites]) [received the following]|H3498|Art | V-Nifal-Prtcpl-mp
@@ -707,7 +707,7 @@ v77 אֶת־|’eṯ-|-|H853|DirObjM
 v77 תָּב֖וֹר|tā·ḇō·wr|and Tabor|H8396|N-proper-fs
 v77 וְאֶת־|wə·’eṯ-|together with|H853|Conj-w | DirObjM
 v77 מִגְרָשֶֽׁיהָ׃|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
-v78 וּמֵעֵ֜בֶר|ū·mê·‘ê·ḇer|vvv|H5676|Conj-w, Prep-m | N-msc
+v78 וּמֵעֵ֜בֶר|ū·mê·‘ê·ḇer|...|H5676|Conj-w, Prep-m | N-msc
 v78 לְיַרְדֵּ֣ן|lə·yar·dên|of the Jordan|H3383|Prep-l | N-proper-fs
 v78 יְרֵחוֹ֮|yə·rê·ḥōw|opposite Jericho|H3405|N-proper-fs
 v78 לְמִזְרַ֣ח|lə·miz·raḥ|east|H4217|Prep-l | N-msc
@@ -749,4 +749,4 @@ v81 מִגְרָשֶׁ֔יהָ|miḡ·rā·še·hā|-|H4054|N-mpc | 3fs
 v81 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v81 יַעְזֵ֖יר|ya‘·zêr|and Jazer|H3270|N-proper-fs
 v81 וְאֶת־|wə·’eṯ-|together with|H853|Conj-w | DirObjM
-v81 מִגְרָשֶֽׁיהָ׃ס|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs
+v81 מִגְרָשֶֽׁיהָ׃|miḡ·rā·še·hā|their pasturelands|H4054|N-mpc | 3fs

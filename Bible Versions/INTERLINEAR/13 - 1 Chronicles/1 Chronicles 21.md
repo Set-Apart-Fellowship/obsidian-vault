@@ -74,7 +74,7 @@ v5 דָּוִ֑יד|dā·wîḏ|David|H1732|N-proper-ms
 v5 וַיְהִ֣י|way·hî|there were|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v5 כָֽל־|ḵāl|In all|H3605|N-msc
 v5 יִשְׂרָאֵ֡ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v5 אֶ֣לֶף|’e·lep̄|1,100,000 {}|H505|Number-ms
+v5 אֶ֣לֶף|’e·lep̄|1,100,000|H505|Number-ms
 v5 אֲלָפִים֩|’ă·lā·p̄îm|...|H505|Number-mp
 v5 וּמֵאָ֨ה|ū·mê·’āh|...|H3967|Conj-w | Number-fs
 v5 אֶ֤לֶף|’e·lep̄|...|H505|Number-ms
@@ -108,7 +108,7 @@ v7 הַדָּבָ֖ר|had·dā·ḇār|command|H1697|Art | N-ms
 v7 הַזֶּ֑ה|haz·zeh|This|H2088|Art | Pro-ms
 v7 וַיַּ֖ךְ|way·yaḵ|so He struck|H5221|Conj-w | V-Hifil-ConsecImperf-3ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
-v7 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v7 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v8 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דָּוִיד֙|dā·wîḏ|Then David|H1732|N-proper-ms
 v8 אֶל־|’el-|to|H413|Prep
@@ -128,7 +128,7 @@ v8 עֲו֣וֹן|‘ă·wō·wn|the iniquity|H5771|N-csc
 v8 עַבְדְּךָ֔|‘aḇ·də·ḵā|of Your servant|H5650|N-msc | 2ms
 v8 כִּ֥י|kî|for|H3588|Conj
 v8 נִסְכַּ֖לְתִּי|nis·kal·tî|foolishly|H5528|V-Nifal-Perf-1cs
-v8 מְאֹֽד׃פ|mə·’ōḏ|I have acted very|H3966|Adv
+v8 מְאֹֽד׃|mə·’ōḏ|I have acted very|H3966|Adv
 v9 וַיְדַבֵּ֤ר|way·ḏab·bêr|instructed|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v9 יְהוָה֙|Yah·weh|And the LORD|H3068|N-proper-ms
 v9 אֶל־|’el-|...|H413|Prep
@@ -138,18 +138,18 @@ v9 דָוִ֖יד|ḏā·wîḏ|David's|H1732|N-proper-ms
 v9 לֵאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v10 לֵךְ֩|lêḵ|Go|H1980|V-Qal-Imp-ms
 v10 וְדִבַּרְתָּ֨|wə·ḏib·bar·tā|and tell|H1696|Conj-w | V-Piel-ConjPerf-2ms
-v10 אֶל־|’el-||H413|Prep
+v10 אֶל־|’el-|-|H413|Prep
 v10 דָּוִ֜יד|dā·wîḏ|David|H1732|N-proper-ms
 v10 לֵאמֹ֗ר|lê·mōr|says|H559|Prep-l | V-Qal-Inf
 v10 כֹּ֚ה|kōh|that this is what|H3541|Adv
-v10 אָמַ֣ר|’ā·mar||H559|V-Qal-Perf-3ms
+v10 אָמַ֣ר|’ā·mar|-|H559|V-Qal-Perf-3ms
 v10 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v10 שָׁל֕וֹשׁ|šā·lō·wōš|you three [options]|H7969|Number-fs
 v10 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v10 נֹטֶ֣ה|nō·ṭeh|am offering|H5186|V-Qal-Prtcpl-ms
 v10 עָלֶ֑יךָ|‘ā·le·ḵā|...|H5921|Prep | 2ms
 v10 בְּחַר־|bə·ḥar-|Choose|H977|V-Qal-Imp-ms
-v10 לְךָ֛|lə·ḵā||H0|Prep | 2ms
+v10 לְךָ֛|lə·ḵā|-|H0|Prep | 2ms
 v10 אַחַ֥ת|’a·ḥaṯ|one|H259|Number-fs
 v10 מֵהֵ֖נָּה|mê·hên·nāh|of them|H0|Prep | 3fp
 v10 וְאֶֽעֱשֶׂה־|wə·’e·‘ĕ·śeh-|and I will carry it out|H6213|Conj-w | V-Qal-ConjImperf.h-1cs
@@ -195,9 +195,9 @@ v12 וְעַתָּ֣ה|wə·‘at·tāh|Now then|H6258|Conj-w | Adv
 v12 רְאֵ֔ה|rə·’êh|decide|H7200|V-Qal-Imp-ms
 v12 מָֽה־|māh-|how|H4100|Interrog
 v12 אָשִׁ֥יב|’ā·šîḇ|I should reply|H7725|V-Hifil-Imperf-1cs
-v12 אֶת־|’eṯ-||H853|Prep
+v12 אֶת־|’eṯ-|-|H853|Prep
 v12 שֹׁלְחִ֖י|šō·lə·ḥî|to Him who sent me|H7971|V-Qal-Prtcpl-msc | 1cs
-v12 דָּבָֽר׃פ|dā·ḇār|...|H1697|N-ms
+v12 דָּבָֽר׃|dā·ḇār|...|H1697|N-ms
 v13 וַיֹּ֧אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 דָּוִ֛יד|dā·wîḏ|David|H1732|N-proper-ms
 v13 אֶל־|’el-|...|H413|Prep
@@ -250,7 +250,7 @@ v15 עֹמֵ֔ד|‘ō·mêḏ|was standing|H5975|V-Qal-Prtcpl-ms
 v15 עִם־|‘im-|by|H5973|Prep
 v15 גֹּ֖רֶן|gō·ren|the threshing floor|H1637|N-fsc
 v15 אָרְנָ֥ן|’ā·rə·nān|of Ornan|H771|N-proper-ms
-v15 הַיְבוּסִֽי׃ס|hay·ḇū·sî|the Jebusite|H2983|Art | N-proper-ms
+v15 הַיְבוּסִֽי׃|hay·ḇū·sî|the Jebusite|H2983|Art | N-proper-ms
 v16 וַיִּשָּׂ֨א|way·yiś·śā|lifted up|H5375|Conj-w | V-Qal-ConsecImperf-3ms
 v16 דָוִ֜יד|ḏā·wîḏ|When David|H1732|N-proper-ms
 v16 אֶת־|’eṯ-|-|H853|DirObjM
@@ -275,7 +275,7 @@ v16 דָּוִ֧יד|dā·wîḏ|David|H1732|N-proper-ms
 v16 וְהַזְּקֵנִ֛ים|wə·haz·zə·qê·nîm|and the elders|H2205|Conj-w, Art | Adj-mp
 v16 מְכֻסִּ֥ים|mə·ḵus·sîm|clothed|H3680|V-Pual-Prtcpl-mp
 v16 בַּשַּׂקִּ֖ים|baś·śaq·qîm|in sackcloth|H8242|Prep-b, Art | N-mp
-v16 עַל־|‘al-|vvv|H5921|Prep
+v16 עַל־|‘al-|...|H5921|Prep
 v16 פְּנֵיהֶֽם׃|pə·nê·hem|facedown|H6440|N-mpc | 3mp
 v17 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v17 דָּוִ֣יד|dā·wîḏ|And David|H1732|N-proper-ms
@@ -306,7 +306,7 @@ v17 וּבְבֵ֣ית|ū·ḇə·ḇêṯ|house|H1004|Conj-w, Prep-b | N-msc
 v17 אָבִ֔י|’ā·ḇî|and my father's|H1|N-msc | 1cs
 v17 וּֽבְעַמְּךָ֖|ū·ḇə·‘am·mə·ḵā|remain upon Your people|H5971|Conj-w, Prep-b | N-msc | 2ms
 v17 לֹ֥א|lō|but do not|H3808|Adv-NegPrt
-v17 לְמַגֵּפָֽה׃ס|lə·mag·gê·p̄āh|let this plague|H4046|Prep-l | N-fs
+v17 לְמַגֵּפָֽה׃|lə·mag·gê·p̄āh|let this plague|H4046|Prep-l | N-fs
 v18 וּמַלְאַ֧ךְ|ū·mal·’aḵ|Then the angel|H4397|Conj-w | N-msc
 v18 יְהוָ֛ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v18 אָמַ֥ר|’ā·mar|ordered|H559|V-Qal-Perf-3ms
@@ -368,7 +368,7 @@ v22 לִּי֙|lî|me|H0|Prep | 1cs
 v22 מְק֣וֹם|mə·qō·wm|the site|H4725|N-msc
 v22 הַגֹּ֔רֶן|hag·gō·ren|of this threshing floor|H1637|Art | N-fs
 v22 וְאֶבְנֶה־|wə·’eḇ·neh-|that I may build|H1129|Conj-w | V-Qal-ConjImperf.h-1cs
-v22 בּ֥וֹ|bōw||H0|Prep | 3ms
+v22 בּ֥וֹ|bōw|-|H0|Prep | 3ms
 v22 מִזְבֵּ֖חַ|miz·bê·aḥ|an altar|H4196|N-ms
 v22 לַיהוָ֑ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v22 בְּכֶ֤סֶף|bə·ḵe·sep̄|price|H3701|Prep-b | N-ms
@@ -445,7 +445,7 @@ v26 מִן־|min-|from|H4480|Prep
 v26 הַשָּׁמַ֔יִם|haš·šā·ma·yim|heaven|H8064|Art | N-mp
 v26 עַ֖ל|‘al|on|H5921|Prep
 v26 מִזְבַּ֥ח|miz·baḥ|the altar|H4196|N-msc
-v26 הָעֹלָֽה׃פ|hā·‘ō·lāh|of burnt offering|H5930|Art | N-fs
+v26 הָעֹלָֽה׃|hā·‘ō·lāh|of burnt offering|H5930|Art | N-fs
 v27 וַיֹּ֤אמֶר|way·yō·mer|spoke|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v27 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v27 לַמַּלְאָ֔ךְ|lam·mal·’āḵ|to the angel|H4397|Prep-l, Art | N-ms
@@ -489,4 +489,4 @@ v30 נִבְעַ֔ת|niḇ·‘aṯ|he was afraid|H1204|V-Nifal-Perf-3ms
 v30 מִפְּנֵ֕י|mip·pə·nê|of|H6440|Prep-m | N-cpc
 v30 חֶ֖רֶב|ḥe·reḇ|the sword|H2719|N-fsc
 v30 מַלְאַ֥ךְ|mal·’aḵ|of the angel|H4397|N-msc
-v30 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v30 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms

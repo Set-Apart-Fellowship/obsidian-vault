@@ -53,7 +53,7 @@ v4 הֲל֖וֹא|hă·lō·w|Won't|H3808|Adv-NegPrt
 v4 תַּגִּ֣יד|tag·gîḏ|you tell|H5046|V-Hifil-Imperf-2ms
 v4 לִ֑י|lî|me|H0|Prep | 1cs
 v4 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v4 לוֹ֙|lōw||H0|Prep | 3ms
+v4 לוֹ֙|lōw|-|H0|Prep | 3ms
 v4 אַמְנ֔וֹן|’am·nō·wn|Amnon|H550|N-proper-ms
 v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 תָּמָ֗ר|tā·mār|with Tamar|H8559|N-proper-fs
@@ -181,13 +181,13 @@ v11 לֶֽאֱכֹ֑ל|le·’ĕ·ḵōl|to eat|H398|Prep-l | V-Qal-Inf
 v11 וַיַּֽחֲזֶק־|way·ya·ḥă·zeq-|he took hold|H2388|Conj-w | V-Hifil-ConsecImperf-3ms
 v11 בָּהּ֙|bāh|of her|H0|Prep | 3fs
 v11 וַיֹּ֣אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v11 לָ֔הּ|lāh||H0|Prep | 3fs
+v11 לָ֔הּ|lāh|-|H0|Prep | 3fs
 v11 בּ֛וֹאִי|bō·w·’î|Come|H935|V-Qal-Imp-fs
 v11 שִׁכְבִ֥י|šiḵ·ḇî|lie|H7901|V-Qal-Imp-fs
 v11 עִמִּ֖י|‘im·mî|with me|H5973|Prep | 1cs
 v11 אֲחוֹתִֽי׃|’ă·ḥō·w·ṯî|my sister|H269|N-fsc | 1cs
 v12 וַתֹּ֣אמֶר|wat·tō·mer|she cried|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v12 ל֗וֹ|lōw||H0|Prep | 3ms
+v12 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v12 אַל־|’al-|No|H408|Adv
 v12 אָחִי֙|’ā·ḥî|my brother|H251|N-msc | 1cs
 v12 אַל־|’al-|Do not|H408|Adv
@@ -245,11 +245,11 @@ v15 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v15 אֲהֵבָ֑הּ|’ă·hê·ḇāh|he previously had|H157|V-Qal-Perf-3ms | 3fs
 v15 וַֽיֹּאמֶר־|way·yō·mer-|he said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 לָ֥הּ|lāh|to her|H0|Prep | 3fs
-v15 אַמְנ֖וֹן|’am·nō·wn||H550|N-proper-ms
+v15 אַמְנ֖וֹן|’am·nō·wn|-|H550|N-proper-ms
 v15 ק֥וּמִי|qū·mî|Get up|H6965|V-Qal-Imp-fs
 v15 לֵֽכִי׃|lê·ḵî|Be gone|H1980|V-Qal-Imp-fs
 v16 וַתֹּ֣אמֶר|wat·tō·mer|she replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v16 ל֗וֹ|lōw||H0|Prep | 3ms
+v16 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v16 אַל־|’al-|No|H408|Adv
 v16 אוֹדֹ֞ת|’ō·w·ḏōṯ|...|H182|N-fpc
 v16 הָרָעָ֤ה|hā·rā·‘āh|wrong|H7451|Art | Adj-fs
@@ -366,14 +366,14 @@ v22 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v22 עִנָּ֔ה|‘in·nāh|violating|H6031|V-Piel-Perf-3ms
 v22 אֵ֖ת|’êṯ|-|H853|DirObjM
 v22 תָּמָ֥ר|tā·mār|Tamar|H8559|N-proper-fs
-v22 אֲחֹתֽוֹ׃פ|’ă·ḥō·ṯōw|his sister|H269|N-fsc | 3ms
+v22 אֲחֹתֽוֹ׃|’ă·ḥō·ṯōw|his sister|H269|N-fsc | 3ms
 v23 וַֽיְהִי֙|way·hî|were|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v23 לִשְׁנָתַ֣יִם|liš·nā·ṯa·yim|Two years later|H8141|Prep-l | N-fd
 v23 יָמִ֔ים|yā·mîm|...|H3117|N-mp
 v23 וַיִּהְי֤וּ|way·yih·yū|...|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v23 גֹֽזְזִים֙|ḡō·zə·zîm|sheepshearers|H1494|V-Qal-Prtcpl-mp
 v23 לְאַבְשָׁל֔וֹם|lə·’aḇ·šā·lō·wm|when Absalom's|H53|Prep-l | N-proper-ms
-v23 בְּבַ֥עַל|bə·ḇa·‘al|vvv|H1178|Prep
+v23 בְּבַ֥עַל|bə·ḇa·‘al|...|H1178|Prep
 v23 חָצ֖וֹר|ḥā·ṣō·wr|at Baal-hazor|H1178|Prep | N-proper-fs
 v23 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v23 עִם־|‘im-|near|H5973|Prep
@@ -389,7 +389,7 @@ v24 אֶל־|’el-|to|H413|Prep
 v24 הַמֶּ֔לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v24 וַיֹּ֕אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v24 הִנֵּה־|hin·nêh-|has just|H2009|Interjection
-v24 נָ֥א|nā||H4994|Interjection
+v24 נָ֥א|nā|-|H4994|Interjection
 v24 גֹזְזִ֖ים|ḡō·zə·zîm|hired shearers|H1494|V-Qal-Prtcpl-mp
 v24 לְעַבְדֶּ֑ךָ|lə·‘aḇ·de·ḵā|Your servant|H5650|Prep-l | N-msc | 2ms
 v24 יֵֽלֶךְ־|yê·leḵ-|come|H1980|V-Qal-Imperf-3ms
@@ -426,7 +426,7 @@ v26 אִתָּ֖נוּ|’it·tā·nū|with us|H854|Prep | 1cp
 v26 אַמְנ֣וֹן|’am·nō·wn|Amnon|H550|N-proper-ms
 v26 אָחִ֑י|’ā·ḥî|let my brother|H251|N-msc | 1cs
 v26 וַיֹּ֤אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v26 לוֹ֙|lōw||H0|Prep | 3ms
+v26 לוֹ֙|lōw|-|H0|Prep | 3ms
 v26 הַמֶּ֔לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v26 לָ֥מָּה|lām·māh|Why|H4100|Interrog
 v26 יֵלֵ֖ךְ|yê·lêḵ|should he go|H1980|V-Qal-Imperf-3ms
@@ -441,12 +441,12 @@ v27 אַמְנ֔וֹן|’am·nō·wn|Amnon|H550|N-proper-ms
 v27 וְאֵ֖ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v27 כָּל־|kāl-|and the rest|H3605|N-msc
 v27 בְּנֵ֥י|bə·nê|sons|H1121|N-mpc
-v27 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|of [his]|H4428|Art | N-ms
+v27 הַמֶּֽלֶךְ׃|ham·me·leḵ|of [his]|H4428|Art | N-ms
 v28 וַיְצַו֩|way·ṣaw|had ordered|H6680|Conj-w | V-Piel-ConsecImperf-3ms
 v28 אַבְשָׁל֨וֹם|’aḇ·šā·lō·wm|Now Absalom|H53|N-proper-ms
 v28 אֶת־|’eṯ-|-|H853|DirObjM
 v28 נְעָרָ֜יו|nə·‘ā·rāw|his young men|H5288|N-mpc | 3ms
-v28 לֵאמֹ֗ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v28 לֵאמֹ֗ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v28 רְא֣וּ|rə·’ū|Watch|H7200|V-Qal-Imp-mp
 v28 נָ֠א|nā|until|H4994|Interjection
 v28 כְּט֨וֹב|kə·ṭō·wḇ|is merry|H2895|Prep-k | V-Qal-Inf
@@ -469,7 +469,7 @@ v28 צִוִּ֣יתִי|ṣiw·wî·ṯî|commanded|H6680|V-Piel-Perf-1cs
 v28 אֶתְכֶ֔ם|’eṯ·ḵem|you|H853|DirObjM | 2mp
 v28 חִזְק֖וּ|ḥiz·qū|Be courageous|H2388|V-Qal-Imp-mp
 v28 וִהְי֥וּ|wih·yū|and|H1961|Conj-w | V-Qal-Imp-mp
-v28 לִבְנֵי־|liḇ·nê-||H1121|Prep-l | N-mpc
+v28 לִבְנֵי־|liḇ·nê-|-|H1121|Prep-l | N-mpc
 v28 חָֽיִל׃|ḥā·yil|valiant|H2428|N-ms
 v29 וַֽיַּעֲשׂ֞וּ|way·ya·‘ă·śū|did|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v29 נַעֲרֵ֤י|na·‘ă·rê|young men|H5288|N-mpc
@@ -504,7 +504,7 @@ v30 הַמֶּ֔לֶךְ|ham·me·leḵ|of the king|H4428|Art | N-ms
 v30 וְלֹֽא־|wə·lō-|not|H3808|Conj-w | Adv-NegPrt
 v30 נוֹתַ֥ר|nō·w·ṯar|is left|H3498|V-Nifal-Perf-3ms
 v30 מֵהֶ֖ם|mê·hem|of them|H0|Prep-m | Pro-3mp
-v30 אֶחָֽד׃ס|’e·ḥāḏ|one|H259|Number-ms
+v30 אֶחָֽד׃|’e·ḥāḏ|one|H259|Number-ms
 v31 וַיָּ֧קָם|way·yā·qām|stood up|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v31 הַמֶּ֛לֶךְ|ham·me·leḵ|Then the king|H4428|Art | N-ms
 v31 וַיִּקְרַ֥ע|way·yiq·ra‘|tore|H7167|Conj-w | V-Qal-ConsecImperf-3ms
@@ -516,7 +516,7 @@ v31 וְכָל־|wə·ḵāl|And all|H3605|Conj-w | N-msc
 v31 עֲבָדָ֥יו|‘ă·ḇā·ḏāw|his servants|H5650|N-mpc | 3ms
 v31 נִצָּבִ֖ים|niṣ·ṣā·ḇîm|stood|H5324|V-Nifal-Prtcpl-mp
 v31 קְרֻעֵ֥י|qə·ru·‘ê|torn|H7167|V-Qal-QalPassPrtcpl-mpc
-v31 בְגָדִֽים׃ס|ḇə·ḡā·ḏîm|by with their clothes|H899|N-mp
+v31 בְגָדִֽים׃|ḇə·ḡā·ḏîm|by with their clothes|H899|N-mp
 v32 וַיַּ֡עַן|way·ya·‘an|spoke up|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v32 יוֹנָדָ֣ב׀|yō·w·nā·ḏāḇ|But Jonadab|H3122|N-proper-ms
 v32 בֶּן־|ben-|the son|H1121|N-msc
@@ -538,7 +538,7 @@ v32 אַמְנ֥וֹן|’am·nō·wn|Amnon|H550|N-proper-ms
 v32 לְבַדּ֖וֹ|lə·ḇad·dōw|only|H905|Prep-l | N-msc | 3ms
 v32 מֵ֑ת|mêṯ|is dead|H4191|V-Qal-Perf-3ms
 v32 כִּֽי־|kî-|In fact|H3588|Conj
-v32 עַל־|‘al-||H5921|Prep
+v32 עַל־|‘al-|-|H5921|Prep
 v32 פִּ֤י|pî|-|H6310|N-msc
 v32 אַבְשָׁלוֹם֙|’aḇ·šā·lō·wm|Absalom|H53|N-proper-ms
 v32 הָיְתָ֣ה|hā·yə·ṯāh|-|H1961|V-Qal-Perf-3fs
@@ -565,7 +565,7 @@ v33 כִּֽי־|kî-|...|H3588|Conj
 v33 אִם־|’im-|...|H518|Conj
 v33 אַמְנ֥וֹן|’am·nō·wn|Amnon|H550|N-proper-ms
 v33 לְבַדּ֖וֹ|lə·ḇad·dōw|Only|H905|Prep-l | N-msc | 3ms
-v33 מֵֽת׃פ|mêṯ|is dead|H4191|V-Qal-Perf-3ms
+v33 מֵֽת׃|mêṯ|is dead|H4191|V-Qal-Perf-3ms
 v34 וַיִּבְרַ֖ח|way·yiḇ·raḥ|had fled|H1272|Conj-w | V-Qal-ConsecImperf-3ms
 v34 אַבְשָׁל֑וֹם|’aḇ·šā·lō·wm|Meanwhile, Absalom|H53|N-proper-ms
 v34 וַיִּשָּׂ֞א|way·yiś·śā|looked up|H5375|Conj-w | V-Qal-ConsecImperf-3ms
@@ -645,4 +645,4 @@ v39 נִחַ֥ם|ni·ḥam|he had been consoled|H5162|V-Nifal-Perf-3ms
 v39 עַל־|‘al-|over|H5921|Prep
 v39 אַמְנ֖וֹן|’am·nō·wn|Amnon's|H550|N-proper-ms
 v39 כִּֽי־|kî-|...|H3588|Conj
-v39 מֵֽת׃ס|mêṯ|death|H4191|V-Qal-Perf-3ms
+v39 מֵֽת׃|mêṯ|death|H4191|V-Qal-Perf-3ms

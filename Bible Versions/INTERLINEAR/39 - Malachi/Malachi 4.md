@@ -25,7 +25,7 @@ v1 לָהֶ֖ם|lā·hem|to them|H0|Prep-l | Pro-3mp
 v1 שֹׁ֥רֶשׁ|šō·reš|a root|H8328|N-ms
 v1 וְעָנָֽף׃|wə·‘ā·nāp̄|or branch|H6057|Conj-w | N-ms
 v2 וְזָרְחָ֨ה|wə·zā·rə·ḥāh|will rise|H2224|Conj-w | V-Qal-ConjPerf-3fs
-v2 לָכֶ֜ם|lā·ḵem||H0|Prep | 2mp
+v2 לָכֶ֜ם|lā·ḵem|-|H0|Prep | 2mp
 v2 יִרְאֵ֤י|yir·’ê|But for you who fear|H3373|Adj-mpc
 v2 שְׁמִי֙|šə·mî|My name|H8034|N-msc | 1cs
 v2 שֶׁ֣מֶשׁ|še·meš|the sun|H8121|N-csc
@@ -50,7 +50,7 @@ v3 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v3 עֹשֶׂ֔ה|‘ō·śeh|am preparing|H6213|V-Qal-Prtcpl-ms
 v3 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v3 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v3 צְבָאֽוֹת׃פ|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
+v3 צְבָאֽוֹת׃|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v4 זִכְר֕וּ|ziḵ·rū|Remember|H2142|V-Qal-Imp-mp
 v4 תּוֹרַ֖ת|tō·w·raṯ|the law|H8451|N-fsc
 v4 מֹשֶׁ֣ה|mō·šeh|Moses|H4872|N-proper-ms

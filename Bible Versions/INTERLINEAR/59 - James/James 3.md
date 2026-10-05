@@ -12,7 +12,7 @@ v1 λημψόμεθα|lēmpsometha|we [ who teach ] will be|G2983|V-FIM-1P
 v2 πολλὰ|polla|in many ways|G4183|Adj-ANP
 v2 γὰρ|gar|-|G1063|Conj
 v2 πταίομεν|ptaiomen|We all stumble|G4417|V-PIA-1P
-v2 ἅπαντες|hapantes|vvv|G537|Adj-NMP
+v2 ἅπαντες|hapantes|...|G537|Adj-NMP
 v2 εἴ|ei|If|G1487|Conj
 v2 τις|tis|anyone|G5100|IPro-NMS
 v2 ἐν|en|in|G1722|Prep
@@ -67,7 +67,7 @@ v4 πηδαλίου|pēdaliou|rudder|G4079|N-GNS
 v4 ὅπου|hopou|wherever|G3699|Adv
 v4 ἡ|hē|the|G3588|Art-NFS
 v4 ὁρμὴ|hormē|is inclined|G3730|N-NFS
-v4 τοῦ|tou|vvv|G3588|Art-GMS
+v4 τοῦ|tou|...|G3588|Art-GMS
 v4 εὐθύνοντος|euthynontos|pilot|G2116|V-PPA-GMS
 v4 βούλεται|bouletai|...|G1014|V-PIM/P-3S
 v5 Οὕτως|Houtōs|In the same way|G3779|Adv
@@ -96,7 +96,7 @@ v6 τῆς|tēs|-|G3588|Art-GFS
 v6 ἀδικίας|adikias|of wickedness|G93|N-GFS
 v6 ἡ|hē|-|G3588|Art-NFS
 v6 γλῶσσα|glōssa|-|G1100|N-NFS
-v6 καθίσταται|kathistatai|vvv|G2525|V-PIM/P-3S
+v6 καθίσταται|kathistatai|...|G2525|V-PIM/P-3S
 v6 ἐν|en|among|G1722|Prep
 v6 τοῖς|tois|the|G3588|Art-DNP
 v6 μέλεσιν|melesin|parts|G3196|N-DNP
@@ -193,7 +193,7 @@ v11 γλυκὺ|glyky|[both] fresh [water]|G1099|Adj-ANS
 v11 καὶ|kai|and|G2532|Conj
 v11 τὸ|to|-|G3588|Art-ANS
 v11 πικρόν|pikron|salt [water]|G4089|Adj-ANS
-v12 μὴ|mē|vvv|G3361|Adv
+v12 μὴ|mē|...|G3361|Adv
 v12 δύναται|dynatai|can|G1410|V-PIM/P-3S
 v12 ἀδελφοί|adelphoi|brothers|G80|N-VMP
 v12 μου|mou|My|G1473|PPro-G1S
@@ -290,6 +290,6 @@ v18 δικαιοσύνης|dikaiosynēs|of righteousness|G1343|N-GFS
 v18 ἐν|en|in|G1722|Prep
 v18 εἰρήνῃ|eirēnē|peace|G1515|N-DFS
 v18 σπείρεται|speiretai|[who] sow|G4687|V-PIM/P-3S
-v18 τοῖς|tois|vvv|G3588|Art-DMP
-v18 ποιοῦσιν|poiousin|vvv|G4160|V-PPA-DMP
+v18 τοῖς|tois|...|G3588|Art-DMP
+v18 ποιοῦσιν|poiousin|...|G4160|V-PPA-DMP
 v18 εἰρήνην|eirēnēn|Peacemakers|G1515|N-AFS

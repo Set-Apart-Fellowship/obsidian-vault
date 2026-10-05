@@ -43,7 +43,7 @@ v3 הַגּוֹיִ֔ם|hag·gō·w·yim|of the nations|H1471|Art | N-mp
 v3 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
 v3 הוֹרִ֤ישׁ|hō·w·rîš|had driven out|H3423|V-Hifil-Perf-3ms
 v3 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
-v3 אֹתָ֔ם|’ō·ṯām||H853|DirObjM | 3mp
+v3 אֹתָ֔ם|’ō·ṯām|-|H853|DirObjM | 3mp
 v3 מִפְּנֵ֖י|mip·pə·nê|before|H6440|Prep-m | N-cpc
 v3 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
 v3 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -94,12 +94,12 @@ v6 וַיֵּ֣שְׁבוּ|way·yê·šə·ḇū|they live|H3427|Conj-w | V-Qal
 v6 שָׁ֔ם|šām|where|H8033|Adv
 v6 עַ֖ד|‘aḏ|to|H5704|Prep
 v6 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v6 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v6 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v7 וַיִּשְׁלַ֨ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v7 אָחָ֜ז|’ā·ḥāz|So Ahaz|H271|N-proper-ms
 v7 מַלְאָכִ֗ים|mal·’ā·ḵîm|messengers|H4397|N-mp
 v7 אֶל־|’el-|to|H413|Prep
-v7 תִּ֠גְלַת|tiḡ·laṯ|vvv|H8407|
+v7 תִּ֠גְלַת|tiḡ·laṯ|...|H8407|
 v7 פְּלֶ֤סֶר|pə·le·ser|Tiglath-pileser|H8407|N-proper-ms
 v7 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v7 אַשּׁוּר֙|’aš·šūr|of Assyria|H804|N-proper-fs
@@ -152,7 +152,7 @@ v10 וַיֵּ֣לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-
 v10 הַמֶּ֣לֶךְ|ham·me·leḵ|Then King|H4428|Art | N-ms
 v10 אָחָ֡ז|’ā·ḥāz|Ahaz|H271|N-proper-ms
 v10 לִ֠קְרַאת|liq·raṯ|to meet|H7122|Prep-l | V-Qal-Inf
-v10 תִּגְלַ֨ת|tiḡ·laṯ|vvv|H8407|
+v10 תִּגְלַ֨ת|tiḡ·laṯ|...|H8407|
 v10 פִּלְאֶ֤סֶר|pil·’e·ser|Tiglath-pileser|H8407|N-proper-ms
 v10 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v10 אַשּׁוּר֙|’aš·šūr|of Assyria|H804|N-proper-fs
@@ -168,7 +168,7 @@ v10 אָחָ֜ז|’ā·ḥāz|Ahaz|H271|N-proper-ms
 v10 אֶל־|’el-|...|H413|Prep
 v10 אוּרִיָּ֣ה|’ū·rî·yāh|Uriah|H223|N-proper-ms
 v10 הַכֹּהֵ֗ן|hak·kō·hên|the priest|H3548|Art | N-ms
-v10 אֶת־|’eṯ-||H853|DirObjM
+v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 דְּמ֧וּת|də·mūṯ|a model|H1823|N-fsc
 v10 הַמִּזְבֵּ֛חַ|ham·miz·bê·aḥ|of the altar|H4196|Art | N-ms
 v10 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -221,7 +221,7 @@ v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 דַּֽם־|dam-|the blood|H1818|N-msc
 v13 הַשְּׁלָמִ֥ים|haš·šə·lā·mîm|of his peace offerings|H8002|Art | N-mp
 v13 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v13 ל֖וֹ|lōw||H0|Prep | 3ms
+v13 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v13 עַל־|‘al-|on|H5921|Prep
 v13 הַמִּזְבֵּֽחַ׃|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
 v14 וְאֵ֨ת|wə·’êṯ|-|H853|Conj-w | DirObjM
@@ -360,4 +360,4 @@ v20 דָּוִ֑ד|dā·wiḏ|of David|H1732|N-proper-ms
 v20 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v20 חִזְקִיָּ֥הוּ|ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
 v20 בְנ֖וֹ|ḇə·nōw|and his son|H1121|N-msc | 3ms
-v20 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v20 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

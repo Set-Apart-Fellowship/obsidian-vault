@@ -98,7 +98,7 @@ v7 אֲלֻמֹּ֣תֵיכֶ֔ם|’ă·lum·mō·ṯê·ḵem|while your shea
 v7 וַתִּֽשְׁתַּחֲוֶ֖יןָ|wat·tiš·ta·ḥă·we·nā|and bowed down|H7812|Conj-w | V-Hitpael-ConsecImperf-3fp
 v7 לַאֲלֻמָּתִֽי׃|la·’ă·lum·mā·ṯî|to [mine]|H485|Prep-l | N-fsc | 1cs
 v8 וַיֹּ֤אמְרוּ|way·yō·mə·rū|asked|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v8 לוֹ֙|lōw||H0|Prep | 3ms
+v8 לוֹ֙|lōw|-|H0|Prep | 3ms
 v8 אֶחָ֔יו|’e·ḥāw|his brothers|H251|N-mpc | 3ms
 v8 הֲמָלֹ֤ךְ|hă·mā·lōḵ|Do you intend to reign|H4427|V-Qal-InfAbs
 v8 תִּמְלֹךְ֙|tim·lōḵ|...|H4427|V-Qal-Imperf-2ms
@@ -184,7 +184,7 @@ v13 לְכָ֖ה|lə·ḵāh|Get ready|H1980|V-Qal-Imp-ms | 3fs
 v13 וְאֶשְׁלָחֲךָ֣|wə·’eš·lā·ḥă·ḵā|I am sending|H7971|Conj-w | V-Qal-ConjImperf.h-1cs | 2ms
 v13 אֲלֵיהֶ֑ם|’ă·lê·hem|you to them|H413|Prep | 3mp
 v13 וַיֹּ֥אמֶר|way·yō·mer|Joseph replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v13 ל֖וֹ|lōw||H0|Prep | 3ms
+v13 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v13 הִנֵּֽנִי׃|hin·nê·nî|I am ready|H2009|Interjection | 1cs
 v14 וַיֹּ֣אמֶר|way·yō·mer|Then [Israel] told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v14 ל֗וֹ|lōw|him|H0|Prep | 3ms
@@ -491,4 +491,4 @@ v36 לְפֽוֹטִיפַר֙|lə·p̄ō·w·ṭî·p̄ar|to Potiphar|H6318|Pre
 v36 סְרִ֣יס|sə·rîs|an officer|H5631|N-msc
 v36 פַּרְעֹ֔ה|par·‘ōh|of Pharaoh|H6547|N-proper-ms
 v36 שַׂ֖ר|śar|[and] captain|H8269|N-msc
-v36 הַטַּבָּחִֽים׃פ|haṭ·ṭab·bā·ḥîm|of the guard|H2876|Art | N-mp
+v36 הַטַּבָּחִֽים׃|haṭ·ṭab·bā·ḥîm|of the guard|H2876|Art | N-mp

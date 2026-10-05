@@ -14,7 +14,7 @@ v1 παθημάτων|pathēmatōn|sufferings|G3804|N-GNP
 v1 ὁ|ho|-|G3588|Art-NMS
 v1 καὶ|kai|and|G2532|Conj
 v1 τῆς|tēs|of the|G3588|Art-GFS
-v1 μελλούσης|mellousēs|vvv|G3195|V-PPA-GFS
+v1 μελλούσης|mellousēs|...|G3195|V-PPA-GFS
 v1 ἀποκαλύπτεσθαι|apokalyptesthai|to be revealed|G601|V-PNM/P
 v1 δόξης|doxēs|glory|G1391|N-GFS
 v1 κοινωνός|koinōnos|a partaker|G2844|N-NMS
@@ -37,7 +37,7 @@ v2 αἰσχροκερδῶς|aischrokerdōs|out of greed|G147|Adv
 v2 ἀλλὰ|alla|but|G235|Conj
 v2 προθύμως|prothymōs|out of eagerness|G4290|Adv
 v3 μηδ’|mēd’|not|G3366|Conj
-v3 ὡς|hōs|vvv|G5613|Adv
+v3 ὡς|hōs|...|G5613|Adv
 v3 κατακυριεύοντες|katakyrieuontes|lording it over|G2634|V-PPA-NMP
 v3 τῶν|tōn|-|G3588|Art-GMP
 v3 κλήρων|klērōn|those entrusted to you|G2819|N-GMP
@@ -155,8 +155,8 @@ v10 θεμελιώσει|themeliōsei|[and] establish [you]|G2311|V-FIA-3S
 v11 αὐτῷ|autō|To Him [be]|G846|PPro-DM3S
 v11 τὸ|to|the|G3588|Art-NNS
 v11 κράτος|kratos|power|G2904|N-NNS
-v11 εἰς|eis|vvv|G1519|Prep
-v11 τοὺς|tous|vvv|G3588|Art-AMP
+v11 εἰς|eis|...|G1519|Prep
+v11 τοὺς|tous|...|G3588|Art-AMP
 v11 αἰῶνας|aiōnas|forever|G165|N-AMP
 v11 τῶν|tōn|[and]|G3588|Art-GMP
 v11 αἰώνων|aiōnōn|ever|G165|N-GMP

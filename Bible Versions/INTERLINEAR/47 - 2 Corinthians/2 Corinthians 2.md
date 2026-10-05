@@ -5,7 +5,7 @@ v1 τοῦτο|touto|...|G3778|DPro-ANS
 v1 τὸ|to|-|G3588|Art-ANS
 v1 μὴ|mē|not|G3361|Adv
 v1 πάλιν|palin|another|G3825|Adv
-v1 ἐν|en|vvv|G1722|Prep
+v1 ἐν|en|...|G1722|Prep
 v1 λύπῃ|lypē|painful {visit}|G3077|N-DFS
 v1 πρὸς|pros|to|G4314|Prep
 v1 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -31,7 +31,7 @@ v3 ἔγραψα|egrapsa|I wrote|G1125|V-AIA-1S
 v3 τοῦτο|touto|as I did|G3778|DPro-ANS
 v3 αὐτὸ|auto|...|G846|PPro-AN3S
 v3 ἵνα|hina|so that|G2443|Conj
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 ἐλθὼν|elthōn|on my arrival|G2064|V-APA-NMS
 v3 λύπην|lypēn|grieved|G3077|N-AFS
 v3 σχῶ|schō|I would not be|G2192|V-ASA-1S
@@ -80,7 +80,7 @@ v5 Εἰ|Ei|if|G1487|Conj
 v5 δέ|de|Now|G1161|Conj
 v5 τις|tis|anyone|G5100|IPro-NMS
 v5 λελύπηκεν|lelypēken|has caused grief|G3076|V-RIA-3S
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 ἐμὲ|eme|me|G1473|PPro-A1S
 v5 λελύπηκεν|lelypēken|he has not grieved|G3076|V-RIA-3S
 v5 ἀλλὰ|alla|but|G235|Conj
@@ -108,7 +108,7 @@ v7 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v7 χαρίσασθαι|charisasthai|ought to forgive|G5483|V-ANM
 v7 καὶ|kai|and|G2532|Conj
 v7 παρακαλέσαι|parakalesai|comfort [him]|G3870|V-ANA
-v7 μή|mē|vvv|G3361|Adv
+v7 μή|mē|...|G3361|Adv
 v7 πως|pōs|so that|G4459|Adv
 v7 τῇ|tē|by|G3588|Art-DFS
 v7 περισσοτέρᾳ|perissotera|excessive|G4053|Adj-DFS-C
@@ -124,9 +124,9 @@ v8 εἰς|eis|for|G1519|Prep
 v8 αὐτὸν|auton|him|G846|PPro-AM3S
 v8 ἀγάπην|agapēn|[your] love|G26|N-AFS
 v9 Εἰς|Eis|{My} purpose|G1519|Prep
-v9 τοῦτο|touto|vvv|G3778|DPro-ANS
-v9 γὰρ|gar|vvv|G1063|Conj
-v9 καὶ|kai|vvv|G2532|Conj
+v9 τοῦτο|touto|...|G3778|DPro-ANS
+v9 γὰρ|gar|...|G1063|Conj
+v9 καὶ|kai|...|G2532|Conj
 v9 ἔγραψα|egrapsa|in writing [you]|G1125|V-AIA-1S
 v9 ἵνα|hina|[was] to|G2443|Conj
 v9 γνῶ|gnō|see|G1097|V-ASA-1S
@@ -157,12 +157,12 @@ v10 ἐν|en|in|G1722|Prep
 v10 προσώπῳ|prosōpō|[the] presence|G4383|N-DNS
 v10 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v11 ἵνα|hina|in order that|G2443|Conj
-v11 μὴ|mē|vvv|G3361|Adv
+v11 μὴ|mē|...|G3361|Adv
 v11 πλεονεκτηθῶμεν|pleonektēthōmen|should not outwit us|G4122|V-ASP-1P
 v11 ὑπὸ|hypo|-|G5259|Prep
 v11 τοῦ|tou|-|G3588|Art-GMS
 v11 Σατανᾶ|Satana|Satan|G4567|N-GMS
-v11 οὐ|ou|vvv|G3756|Adv
+v11 οὐ|ou|...|G3756|Adv
 v11 γὰρ|gar|For|G1063|Conj
 v11 αὐτοῦ|autou|of his|G846|PPro-GM3S
 v11 τὰ|ta|-|G3588|Art-ANP
@@ -191,7 +191,7 @@ v13 τῷ|tō|in|G3588|Art-DNS
 v13 πνεύματί|pneumati|spirit|G4151|N-DNS
 v13 μου|mou|my|G1473|PPro-G1S
 v13 τῷ|tō|-|G3588|Art-DNS
-v13 μὴ|mē|vvv|G3361|Adv
+v13 μὴ|mē|...|G3361|Adv
 v13 εὑρεῖν|heurein|did not find|G2147|V-ANA
 v13 με|me|[because] I|G1473|PPro-A1S
 v13 Τίτον|Titon|Titus [there]|G5103|N-AMS
@@ -224,8 +224,8 @@ v14 αὐτοῦ|autou|of Him|G846|PPro-GM3S
 v14 φανεροῦντι|phanerounti|spreads|G5319|V-PPA-DMS
 v14 δι’|di’|through|G1223|Prep
 v14 ἡμῶν|hēmōn|us|G1473|PPro-G1P
-v14 ἐν|en|vvv|G1722|Prep
-v14 παντὶ|panti|vvv|G3956|Adj-DMS
+v14 ἐν|en|...|G1722|Prep
+v14 παντὶ|panti|...|G3956|Adj-DMS
 v14 τόπῳ|topō|everywhere|G5117|N-DMS
 v15 ὅτι|hoti|For|G3754|Conj
 v15 Χριστοῦ|Christou|of Christ|G5547|N-GMS
@@ -250,7 +250,7 @@ v16 θάνατον|thanaton|...|G2288|N-AMS
 v16 οἷς|hois|to the other|G3739|RelPro-DMP
 v16 δὲ|de|-|G1161|Conj
 v16 ὀσμὴ|osmē|a fragrance|G3744|N-NFS
-v16 ἐκ|ek|vvv|G1537|Prep
+v16 ἐκ|ek|...|G1537|Prep
 v16 ζωῆς|zōēs|that brings life|G2222|N-GFS
 v16 εἰς|eis|...|G1519|Prep
 v16 ζωήν|zōēn|...|G2222|N-AFS

@@ -117,12 +117,12 @@ v8 לְב֣וּשׁ|lə·ḇūš|robe|H3830|N-msc
 v8 מַלְכ֔וּת|mal·ḵūṯ|a royal|H4438|N-fs
 v8 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v8 לָֽבַשׁ־|lā·ḇaš-|has worn|H3847|V-Qal-Perf-3ms
-v8 בּ֖וֹ|bōw||H0|Prep | 3ms
+v8 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v8 הַמֶּ֑לֶךְ|ham·me·leḵ|the king himself|H4428|Art | N-ms
 v8 וְס֗וּס|wə·sūs|and a horse|H5483|Conj-w | N-ms
 v8 אֲשֶׁ֨ר|’ă·šer|on which|H834|Pro-r
 v8 רָכַ֤ב|rā·ḵaḇ|has ridden|H7392|V-Qal-Perf-3ms
-v8 עָלָיו֙|‘ā·lāw||H5921|Prep | 3ms
+v8 עָלָיו֙|‘ā·lāw|-|H5921|Prep | 3ms
 v8 הַמֶּ֔לֶךְ|ham·me·leḵ|the king himself|H4428|Art | N-ms
 v8 וַאֲשֶׁ֥ר|wa·’ă·šer|one with|H834|Conj-w | Pro-r
 v8 נִתַּ֛ן|nit·tan|placed|H5414|V-Nifal-Perf-3ms
@@ -239,7 +239,7 @@ v13 אֲשֶׁר֩|’ă·šer|whom|H834|Pro-r
 v13 הַחִלּ֨וֹתָ|ha·ḥil·lō·w·ṯā|has begun|H2490|V-Hifil-Perf-2ms
 v13 לִנְפֹּ֤ל|lin·pōl|your downfall|H5307|Prep-l | V-Qal-Inf
 v13 לְפָנָיו֙|lə·p̄ā·nāw|before|H6440|Prep-l | N-cpc | 3ms
-v13 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v13 לֹא־|lō-|...|H3808|Adv-NegPrt
 v13 תוּכַ֣ל|ṯū·ḵal|you will not prevail|H3201|V-Qal-Imperf-2ms
 v13 ל֔וֹ|lōw|against him|H0|Prep | 3ms
 v13 כִּֽי־|kî-|for|H3588|Conj

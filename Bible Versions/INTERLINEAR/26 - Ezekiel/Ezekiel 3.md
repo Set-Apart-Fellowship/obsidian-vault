@@ -41,7 +41,7 @@ v3 וָאֹ֣כְלָ֔ה|wā·’ō·ḵə·lāh|So I ate|H398|Conj-w | V-Qal-C
 v3 וַתְּהִ֥י|wat·tə·hî|and it was|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v3 בְּפִ֖י|bə·p̄î|in my mouth|H6310|Prep-b | N-msc | 1cs
 v3 כִּדְבַ֥שׁ|kiḏ·ḇaš|as honey|H1706|Prep-k | N-ms
-v3 לְמָתֽוֹק׃פ|lə·mā·ṯō·wq|as sweet|H4966|Prep-l | Adj-ms
+v3 לְמָתֽוֹק׃|lə·mā·ṯō·wq|as sweet|H4966|Prep-l | Adj-ms
 v4 וַיֹּ֖אמֶר|way·yō·mer|Then He said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 אֵלָ֑י|’ê·lāy|to me|H413|Prep | 1cs
 v4 בֶּן־|ben-|Son|H1121|N-msc
@@ -88,12 +88,12 @@ v6 יִשְׁמְע֥וּ|yiš·mə·‘ū|would have listened|H8085|V-Qal-Imper
 v6 אֵלֶֽיךָ׃|’ê·le·ḵā|to you|H413|Prep | 2ms
 v7 וּבֵ֣ית|ū·ḇêṯ|But the house|H1004|Conj-w | N-msc
 v7 יִשְׂרָאֵ֗ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v7 לֹ֤א|lō|vvv|H3808|Adv-NegPrt
+v7 לֹ֤א|lō|...|H3808|Adv-NegPrt
 v7 יֹאבוּ֙|yō·ḇū|will be unwilling|H14|V-Qal-Imperf-3mp
 v7 לִשְׁמֹ֣עַ|liš·mō·a‘|to listen|H8085|Prep-l | V-Qal-Inf
 v7 אֵלֶ֔יךָ|’ê·le·ḵā|to you|H413|Prep | 2ms
 v7 כִּֽי־|kî-|since|H3588|Conj
-v7 אֵינָ֥ם|’ê·nām|vvv|H369|Adv | 3mp
+v7 אֵינָ֥ם|’ê·nām|...|H369|Adv | 3mp
 v7 אֹבִ֖ים|’ō·ḇîm|they are unwilling|H14|V-Qal-Prtcpl-mp
 v7 לִשְׁמֹ֣עַ|liš·mō·a‘|to listen|H8085|Prep-l | V-Qal-Inf
 v7 אֵלָ֑י|’ê·lāy|to Me|H413|Prep | 1cs
@@ -132,7 +132,7 @@ v9 מִפְּנֵיהֶ֔ם|mip·pə·nê·hem|at their presence|H6440|Prep-m | 
 v9 כִּ֛י|kî|even though|H3588|Conj
 v9 בֵּֽית־|bêṯ-|house|H1004|N-msc
 v9 מְרִ֖י|mə·rî|are a rebellious|H4805|N-ms
-v9 הֵֽמָּה׃פ|hêm·māh|they|H1992|Pro-3mp
+v9 הֵֽמָּה׃|hêm·māh|they|H1992|Pro-3mp
 v10 וַיֹּ֖אמֶר|way·yō·mer|He added|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v10 אֵלָ֑י|’ê·lāy|...|H413|Prep | 1cs
 v10 בֶּן־|ben-|Son|H1121|N-msc
@@ -204,7 +204,7 @@ v14 חָזָֽקָה׃|ḥā·zā·qāh|with the strong|H2388|Adj-fs
 v15 וָאָב֨וֹא|wā·’ā·ḇō·w|I came|H935|Conj-w | V-Qal-ConsecImperf-1cs
 v15 אֶל־|’el-|to|H413|Prep
 v15 הַגּוֹלָ֜ה|hag·gō·w·lāh|the exiles|H1473|Art | N-fs
-v15 תֵּ֣ל|têl|vvv|H8512|
+v15 תֵּ֣ל|têl|...|H8512|
 v15 אָ֠בִיב|’ā·ḇîḇ|at Tel-abib|H8512|N-proper-fs
 v15 הַיֹּשְׁבִ֤ים|hay·yō·šə·ḇîm|who dwelt|H3427|Art | V-Qal-Prtcpl-mp
 v15 אֶֽל־|’el-|by|H413|Prep
@@ -276,7 +276,7 @@ v19 יָמ֔וּת|yā·mūṯ|will die|H4191|V-Qal-Imperf-3ms
 v19 וְאַתָּ֖ה|wə·’at·tāh|but you|H859|Conj-w | Pro-2ms
 v19 אֶֽת־|’eṯ-|-|H853|DirObjM
 v19 נַפְשְׁךָ֥|nap̄·šə·ḵā|yourself|H5315|N-fsc | 2ms
-v19 הִצַּֽלְתָּ׃ס|hiṣ·ṣal·tā|will have saved|H5337|V-Hifil-Perf-2ms
+v19 הִצַּֽלְתָּ׃|hiṣ·ṣal·tā|will have saved|H5337|V-Hifil-Perf-2ms
 v20 וּבְשׁ֨וּב|ū·ḇə·šūḇ|turns|H7725|Conj-w, Prep-b | V-Qal-Inf
 v20 צַדִּ֤יק|ṣad·dîq|Now if a righteous man|H6662|Adj-ms
 v20 מִצִּדְקוֹ֙|miṣ·ṣiḏ·qōw|from his righteousness|H6664|Prep-m | N-msc | 3ms
@@ -317,7 +317,7 @@ v21 נִזְהָ֔ר|niz·hār|he heeded your warning|H2094|V-Nifal-Perf-3ms
 v21 וְאַתָּ֖ה|wə·’at·tāh|and you|H859|Conj-w | Pro-2ms
 v21 אֶֽת־|’eṯ-|-|H853|DirObjM
 v21 נַפְשְׁךָ֥|nap̄·šə·ḵā|yourself|H5315|N-fsc | 2ms
-v21 הִצַּֽלְתָּ׃ס|hiṣ·ṣal·tā|will have saved|H5337|V-Hifil-Perf-2ms
+v21 הִצַּֽלְתָּ׃|hiṣ·ṣal·tā|will have saved|H5337|V-Hifil-Perf-2ms
 v22 וַתְּהִ֥י|wat·tə·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v22 עָלַ֛י|‘ā·lay|upon me|H5921|Prep | 1cs
 v22 שָׁ֖ם|šām|And there|H8033|Adv
@@ -372,7 +372,7 @@ v25 נָתְנ֤וּ|nā·ṯə·nū|they will tie|H5414|V-Qal-Perf-3cp
 v25 עָלֶ֙יךָ֙|‘ā·le·ḵā|-|H5921|Prep | 2ms
 v25 עֲבוֹתִ֔ים|‘ă·ḇō·w·ṯîm|with ropes|H5688|N-cp
 v25 וַאֲסָר֖וּךָ|wa·’ă·sā·rū·ḵā|and you will be bound|H631|Conj-w | V-Qal-ConjPerf-3cp | 2ms
-v25 בָּהֶ֑ם|bā·hem||H0|Prep | 3mp
+v25 בָּהֶ֑ם|bā·hem|-|H0|Prep | 3mp
 v25 וְלֹ֥א|wə·lō|so that you cannot|H3808|Conj-w | Adv-NegPrt
 v25 תֵצֵ֖א|ṯê·ṣê|go out|H3318|V-Qal-Imperf-2ms
 v25 בְּתוֹכָֽם׃|bə·ṯō·w·ḵām|among [the people]|H8432|Prep-b | N-msc | 3mp
@@ -383,7 +383,7 @@ v26 חִכֶּ֔ךָ|ḥik·ke·ḵā|the roof of your mouth|H2441|N-msc | 2ms
 v26 וְנֶֽאֱלַ֔מְתָּ|wə·ne·’ĕ·lam·tā|and you will be silent|H481|Conj-w | V-Nifal-ConjPerf-2ms
 v26 וְלֹא־|wə·lō-|and unable|H3808|Conj-w | Adv-NegPrt
 v26 תִֽהְיֶ֥ה|ṯih·yeh|...|H1961|V-Qal-Imperf-2ms
-v26 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v26 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v26 לְאִ֣ישׁ|lə·’îš|-|H376|Prep-l | N-ms
 v26 מוֹכִ֑יחַ|mō·w·ḵî·aḥ|to rebuke them|H3198|V-Hifil-Prtcpl-ms
 v26 כִּ֛י|kî|though|H3588|Conj
@@ -408,4 +408,4 @@ v27 יֶחְדָּ֔ל|yeḥ·dāl|and whoever refuses|H2308|V-Qal-Imperf-3ms
 v27 כִּ֛י|kî|for|H3588|Conj
 v27 בֵּ֥ית|bêṯ|house|H1004|N-msc
 v27 מְרִ֖י|mə·rî|are a rebellious|H4805|N-ms
-v27 הֵֽמָּה׃ס|hêm·māh|they|H1992|Pro-3mp
+v27 הֵֽמָּה׃|hêm·māh|they|H1992|Pro-3mp

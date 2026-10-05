@@ -16,7 +16,7 @@ v1 πέπαυται|pepautai|is done with|G3973|V-RIM/P-3S
 v1 ἁμαρτίας|hamartias|sin|G266|N-GFS
 v2 εἰς|eis|Consequently|G1519|Prep
 v2 τὸ|to|-|G3588|Art-ANS
-v2 μηκέτι|mēketi|vvv|G3371|Adv
+v2 μηκέτι|mēketi|...|G3371|Adv
 v2 ἀνθρώπων|anthrōpōn|for human|G444|N-GMP
 v2 ἐπιθυμίαις|epithymiais|passions|G1939|N-DFP
 v2 ἀλλὰ|alla|but|G235|Conj
@@ -24,7 +24,7 @@ v2 θελήματι|thelēmati|for [the] will|G2307|N-DNS
 v2 Θεοῦ|Theou|of God|G2316|N-GMS
 v2 τὸν|ton|[his]|G3588|Art-AMS
 v2 ἐπίλοιπον|epiloipon|remaining|G1954|Adj-AMS
-v2 ἐν|en|vvv|G1722|Prep
+v2 ἐν|en|...|G1722|Prep
 v2 σαρκὶ|sarki|on earth|G4561|N-DFS
 v2 βιῶσαι|biōsai|he does not live out|G980|V-ANA
 v2 χρόνον|chronon|time|G5550|N-AMS
@@ -71,9 +71,9 @@ v5 κρῖναι|krinai|to judge|G2919|V-ANA
 v5 ζῶντας|zōntas|[the] living|G2198|V-PPA-AMP
 v5 καὶ|kai|and|G2532|Conj
 v5 νεκρούς|nekrous|[the] dead|G3498|Adj-AMP
-v6 εἰς|eis|vvv|G1519|Prep
+v6 εἰς|eis|...|G1519|Prep
 v6 τοῦτο|touto|That is why|G3778|DPro-ANS
-v6 γὰρ|gar|vvv|G1063|Conj
+v6 γὰρ|gar|...|G1063|Conj
 v6 καὶ|kai|even|G2532|Conj
 v6 νεκροῖς|nekrois|to [those who are now] dead|G3498|Adj-DMP
 v6 εὐηγγελίσθη|euēngelisthē|the gospel was preached|G2097|V-AIP-3S
@@ -102,11 +102,11 @@ v7 προσευχάς|proseuchas|you can pray|G4335|N-AFP
 v8 πρὸ|pro|Above|G4253|Prep
 v8 πάντων|pantōn|all|G3956|Adj-GNP
 v8 τὴν|tēn|-|G3588|Art-AFS
-v8 εἰς|eis|vvv|G1519|Prep
+v8 εἰς|eis|...|G1519|Prep
 v8 ἑαυτοὺς|heautous|one another|G1438|RefPro-AM3P
 v8 ἀγάπην|agapēn|love|G26|N-AFS
 v8 ἐκτενῆ|ektenē|deeply|G1618|Adj-AFS
-v8 ἔχοντες|echontes|vvv|G2192|V-PPA-NMP
+v8 ἔχοντες|echontes|...|G2192|V-PPA-NMP
 v8 ὅτι|hoti|because|G3754|Conj
 v8 ἀγάπη|agapē|love|G26|N-NFS
 v8 καλύπτει|kalyptei|covers over|G2572|V-PIA-3S
@@ -136,7 +136,7 @@ v11 τις|tis|anyone|G5100|IPro-NMS
 v11 λαλεῖ|lalei|speaks|G2980|V-PIA-3S
 v11 ὡς|hōs|[he should speak] as|G5613|Adv
 v11 λόγια|logia|one conveying the words of God|G3051|N-ANP
-v11 Θεοῦ|Theou|vvv|G2316|N-GMS
+v11 Θεοῦ|Theou|...|G2316|N-GMS
 v11 εἴ|ei|If|G1487|Conj
 v11 τις|tis|anyone|G5100|IPro-NMS
 v11 διακονεῖ|diakonei|serves|G1247|V-PIA-3S
@@ -163,8 +163,8 @@ v11 δόξα|doxa|glory|G1391|N-NFS
 v11 καὶ|kai|and|G2532|Conj
 v11 τὸ|to|the|G3588|Art-NNS
 v11 κράτος|kratos|power|G2904|N-NNS
-v11 εἰς|eis|vvv|G1519|Prep
-v11 τοὺς|tous|vvv|G3588|Art-AMP
+v11 εἰς|eis|...|G1519|Prep
+v11 τοὺς|tous|...|G3588|Art-AMP
 v11 αἰῶνας|aiōnas|forever|G165|N-AMP
 v11 τῶν|tōn|[and]|G3588|Art-GMP
 v11 αἰώνων|aiōnōn|ever|G165|N-GMP
@@ -220,7 +220,7 @@ v14 Πνεῦμα|Pneuma|Spirit|G4151|N-NNS
 v14 ἐφ’|eph’|on|G1909|Prep
 v14 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v14 ἀναπαύεται|anapauetai|rests|G373|V-PIM-3S
-v15 μὴ|mē|vvv|G3361|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 γάρ|gar|Indeed|G1063|Conj
 v15 τις|tis|[none]|G5100|IPro-NMS
 v15 ὑμῶν|hymōn|of you|G4771|PPro-G2P
@@ -238,7 +238,7 @@ v16 εἰ|ei|if [you suffer]|G1487|Conj
 v16 δὲ|de|But|G1161|Conj
 v16 ὡς|hōs|as|G5613|Adv
 v16 Χριστιανός|Christianos|a Christian|G5546|N-NMS
-v16 μὴ|mē|vvv|G3361|Adv
+v16 μὴ|mē|...|G3361|Adv
 v16 αἰσχυνέσθω|aischynesthō|do not be ashamed|G153|V-PMM/P-3S
 v16 δοξαζέτω|doxazetō|glorify|G1392|V-PMA-3S
 v16 δὲ|de|but|G1161|Conj

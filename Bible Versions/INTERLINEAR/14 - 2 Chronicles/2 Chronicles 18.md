@@ -29,7 +29,7 @@ v3 וַיֹּ֜אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v3 אַחְאָ֣ב|’aḥ·’āḇ|Ahab|H256|N-proper-ms
 v3 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v3 יִשְׂרָאֵ֗ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v3 אֶל־|’el-||H413|Prep
+v3 אֶל־|’el-|-|H413|Prep
 v3 יְהֽוֹשָׁפָט֙|yə·hō·wō·šā·p̄āṭ|Jehoshaphat|H3092|N-proper-ms
 v3 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v3 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
@@ -38,7 +38,7 @@ v3 עִמִּ֖י|‘im·mî|with me|H5973|Prep | 1cs
 v3 רָמֹ֣ת|rā·mōṯ|against Ramoth-gilead|H7418|N-proper-fs
 v3 גִּלְעָ֑ד|gil·‘āḏ|...|H1568|N-proper-fs
 v3 וַיֹּ֣אמֶר|way·yō·mer|And Jehoshaphat replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v3 ל֗וֹ|lōw||H0|Prep | 3ms
+v3 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v3 כָּמ֤וֹנִי|kā·mō·w·nî|I [am]|H3644|Prep | 1cs
 v3 כָמ֙וֹךָ֙|ḵā·mō·w·ḵā|as you [are]|H3644|Prep | 2ms
 v3 וּכְעַמְּךָ֣|ū·ḵə·‘am·mə·ḵā|your people|H5971|Conj-w, Prep-k | N-msc | 2ms
@@ -65,7 +65,7 @@ v5 אַרְבַּ֣ע|’ar·ba‘|four|H702|Number-fsc
 v5 מֵא֣וֹת|mê·’ō·wṯ|hundred|H3967|Number-fp
 v5 אִישׁ֒|’îš|men|H376|N-ms
 v5 וַיֹּ֣אמֶר|way·yō·mer|and asked them|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v5 אֲלֵהֶ֗ם|’ă·lê·hem||H413|Prep | 3mp
+v5 אֲלֵהֶ֗ם|’ă·lê·hem|-|H413|Prep | 3mp
 v5 הֲנֵלֵ֞ךְ|hă·nê·lêḵ|Should we go|H1980|V-Qal-Imperf-1cp
 v5 אֶל־|’el-|against|H413|Prep
 v5 רָמֹ֥ת|rā·mōṯ|Ramoth-gilead|H7418|N-proper-fs
@@ -91,7 +91,7 @@ v6 מֵאֹתֽוֹ׃|mê·’ō·ṯōw|of whom we can inquire|H853|Prep-m | Di
 v7 וַיֹּ֣אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v7 מֶֽלֶךְ־|me·leḵ-|The king|H4428|N-msc
 v7 יִשְׂרָאֵ֣ל׀|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v7 אֶֽל־|’el-||H413|Prep
+v7 אֶֽל־|’el-|-|H413|Prep
 v7 יְהוֹשָׁפָ֡ט|yə·hō·wō·šā·p̄āṭ|-|H3092|N-proper-ms
 v7 ע֣וֹד|‘ō·wḏ|There is still|H5750|Adv
 v7 אִישׁ־|’îš-|man|H376|N-ms
@@ -108,8 +108,8 @@ v7 מִתְנַבֵּ֨א|miṯ·nab·bê|prophesies|H5012|V-Hitpael-Prtcpl-ms
 v7 עָלַ֤י|‘ā·lay|for me|H5921|Prep | 1cs
 v7 לְטוֹבָה֙|lə·ṭō·w·ḇāh|anything good|H2896|Prep-l | N-fs
 v7 כִּ֣י|kî|but only|H3588|Conj
-v7 כָל־|ḵāl||H3605|N-msc
-v7 יָמָ֣יו|yā·māw||H3117|N-mpc | 3ms
+v7 כָל־|ḵāl|-|H3605|N-msc
+v7 יָמָ֣יו|yā·māw|-|H3117|N-mpc | 3ms
 v7 לְרָעָ֔ה|lə·rā·‘āh|bad|H7451|Prep-l | Adj-fs
 v7 ה֖וּא|hū|He|H1931|Pro-3ms
 v7 מִיכָ֣יְהוּ|mî·ḵā·yə·hū|is Micaiah|H4321|N-proper-ms
@@ -138,7 +138,7 @@ v9 וִֽיהוֹשָׁפָ֣ט|wî·hō·wō·šā·p̄āṭ|and Jehoshaphat|H3
 v9 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v9 יְהוּדָ֡ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v9 יוֹשְׁבִים֩|yō·wō·šə·ḇîm|were sitting|H3427|V-Qal-Prtcpl-mp
-v9 אִ֨ישׁ|’îš|vvv|H376|N-ms
+v9 אִ֨ישׁ|’îš|...|H376|N-ms
 v9 עַל־|‘al-|on|H5921|Prep
 v9 כִּסְא֜וֹ|kis·’ōw|their thrones|H3678|N-msc | 3ms
 v9 מְלֻבָּשִׁ֤ים|mə·lub·bā·šîm|Dressed|H3847|V-Pual-Prtcpl-mp
@@ -188,8 +188,8 @@ v12 הָלַ֣ךְ׀|hā·laḵ|had gone|H1980|V-Qal-Perf-3ms
 v12 לִקְרֹ֣א|liq·rō|to call|H7121|Prep-l | V-Qal-Inf
 v12 לְמִיכָ֗יְהוּ|lə·mî·ḵā·yə·hū|Micaiah|H4321|Prep-l | N-proper-ms
 v12 דִּבֶּ֤ר|dib·ber|instructed him|H1696|V-Piel-Perf-3ms
-v12 אֵלָיו֙|’ê·lāw||H413|Prep | 3ms
-v12 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v12 אֵלָיו֙|’ê·lāw|-|H413|Prep | 3ms
+v12 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v12 הִנֵּ֞ה|hin·nêh|Behold|H2009|Interjection
 v12 דִּבְרֵ֧י|diḇ·rê|the words|H1697|N-mpc
 v12 הַנְּבִאִ֛ים|han·nə·ḇi·’îm|of the prophets|H5030|Art | N-mp
@@ -262,7 +262,7 @@ v16 הֶֽהָרִ֔ים|he·hā·rîm|the hills|H2022|Art | N-mp
 v16 כַּצֹּ֕אן|kaṣ·ṣōn|like sheep|H6629|Prep-k, Art | N-cs
 v16 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v16 אֵין־|’ên-|without|H369|Adv
-v16 לָהֶ֖ן|lā·hen||H0|Prep | 3fp
+v16 לָהֶ֖ן|lā·hen|-|H0|Prep | 3fp
 v16 רֹעֶ֑ה|rō·‘eh|a shepherd|H7462|V-Qal-Prtcpl-ms
 v16 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 יְהוָה֙|Yah·weh|And the LORD|H3068|N-proper-ms
@@ -287,7 +287,7 @@ v17 עָלַ֛י|‘ā·lay|for me|H5921|Prep | 1cs
 v17 ט֖וֹב|ṭō·wḇ|good|H2896|N-ms
 v17 כִּ֥י|kî|but only|H3588|Conj
 v17 אִם־|’im-|...|H518|Conj
-v17 לְרָֽע׃ס|lə·rā‘|bad|H7451|Prep-l | Adj-ms
+v17 לְרָֽע׃|lə·rā‘|bad|H7451|Prep-l | Adj-ms
 v18 וַיֹּ֕אמֶר|way·yō·mer|Micaiah continued|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v18 לָכֵ֖ן|lā·ḵên|Therefore|H3651|Adv
 v18 שִׁמְע֣וּ|šim·‘ū|hear|H8085|V-Qal-Imp-mp
@@ -364,7 +364,7 @@ v22 אֵ֑לֶּה|’êl·leh|of these|H428|Pro-cp
 v22 וַֽיהוָ֔ה|Yah·weh|and the LORD|H3068|Conj-w | N-proper-ms
 v22 דִּבֶּ֥ר|dib·ber|has pronounced|H1696|V-Piel-Perf-3ms
 v22 עָלֶ֖יךָ|‘ā·le·ḵā|against you|H5921|Prep | 2ms
-v22 רָעָֽה׃ס|rā·‘āh|disaster|H7451|Adj-fs
+v22 רָעָֽה׃|rā·‘āh|disaster|H7451|Adj-fs
 v23 וַיִּגַּשׁ֙|way·yig·gaš|went up|H5066|Conj-w | V-Qal-ConsecImperf-3ms
 v23 צִדְקִיָּ֣הוּ|ṣiḏ·qî·yā·hū|Then Zedekiah|H6667|N-proper-ms
 v23 בֶֽן־|ḇen-|son|H1121|N-msc
@@ -435,11 +435,11 @@ v27 בְּשָׁל֔וֹם|bə·šā·lō·wm|safely|H7965|Prep-b | N-ms
 v27 לֹא־|lō-|has not|H3808|Adv-NegPrt
 v27 דִבֶּ֥ר|ḏib·ber|spoken through me|H1696|V-Piel-Perf-3ms
 v27 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v27 בִּ֑י|bî||H0|Prep | 1cs
+v27 בִּ֑י|bî|-|H0|Prep | 1cs
 v27 וַיֹּ֕אמֶר|way·yō·mer|Then he added|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v27 שִׁמְע֖וּ|šim·‘ū|Take heed|H8085|V-Qal-Imp-mp
 v27 עַמִּ֥ים|‘am·mîm|you people|H5971|N-mp
-v27 כֻּלָּֽם׃פ|kul·lām|all|H3605|N-msc | 3mp
+v27 כֻּלָּֽם׃|kul·lām|all|H3605|N-msc | 3mp
 v28 וַיַּ֧עַל|way·ya·‘al|went up|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v28 מֶֽלֶךְ־|me·leḵ-|So the king|H4428|N-msc
 v28 יִשְׂרָאֵ֛ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -472,7 +472,7 @@ v30 אֶת־|’eṯ-|-|H853|DirObjM
 v30 שָׂרֵ֨י|śā·rê|commanders|H8269|N-mpc
 v30 הָרֶ֤כֶב|hā·re·ḵeḇ|his chariot|H7393|Art | N-ms
 v30 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v30 לוֹ֙|lōw||H0|Prep | 3ms
+v30 לוֹ֙|lōw|-|H0|Prep | 3ms
 v30 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v30 לֹ֚א|lō|Do not|H3808|Adv-NegPrt
 v30 תִּלָּ֣חֲמ֔וּ|til·lā·ḥă·mū|fight|H3898|V-Nifal-Imperf-2mp

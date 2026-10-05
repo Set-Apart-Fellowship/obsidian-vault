@@ -25,7 +25,7 @@ v2 יָרָבְעָ֖ם|yā·rā·ḇə·‘ām|[he]|H3379|N-proper-ms
 v2 מִמִּצְרָֽיִם׃|mim·miṣ·rā·yim|from Egypt|H4714|Prep-m | N-proper-fs
 v3 וַֽיִּשְׁלְחוּ֙|way·yiš·lə·ḥū|So they sent for|H7971|Conj-w | V-Qal-ConsecImperf-3mp
 v3 וַיִּקְרְאוּ־|way·yiq·rə·’ū-|[Jeroboam]|H7121|Conj-w | V-Qal-ConsecImperf-3mp
-v3 ל֔וֹ|lōw||H0|Prep | 3ms
+v3 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v3 וַיָּבֹ֥א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v3 יָרָבְעָ֖ם|yā·rā·ḇə·‘ām|and [he]|H3379|N-proper-ms
 v3 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
@@ -57,14 +57,14 @@ v5 יָמִ֖ים|yā·mîm|days|H3117|N-mp
 v5 וְשׁ֣וּבוּ|wə·šū·ḇū|Come back|H7725|Conj-w | V-Qal-Imp-mp
 v5 אֵלָ֑י|’ê·lāy|to me|H413|Prep | 1cs
 v5 וַיֵּ֖לֶךְ|way·yê·leḵ|departed|H1980|Conj-w | V-Qal-ConsecImperf-3ms
-v5 הָעָֽם׃ס|hā·‘ām|So the people|H5971|Art | N-ms
+v5 הָעָֽם׃|hā·‘ām|So the people|H5971|Art | N-ms
 v6 וַיִּוָּעַ֞ץ|way·yiw·wā·‘aṣ|consulted|H3289|Conj-w | V-Nifal-ConsecImperf-3ms
 v6 הַמֶּ֣לֶךְ|ham·me·leḵ|Then King|H4428|Art | N-ms
 v6 רְחַבְעָ֗ם|rə·ḥaḇ·‘ām|Rehoboam|H7346|N-proper-ms
 v6 אֶת־|’eṯ-|with|H854|Prep
 v6 הַזְּקֵנִים֙|haz·zə·qê·nîm|the elders|H2205|Art | Adj-mp
 v6 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
-v6 הָי֣וּ|hā·yū|vvv|H1961|V-Qal-Perf-3cp
+v6 הָי֣וּ|hā·yū|...|H1961|V-Qal-Perf-3cp
 v6 עֹֽמְדִ֗ים|‘ō·mə·ḏîm|had served|H5975|V-Qal-Prtcpl-mp
 v6 לִפְנֵי֙|lip̄·nê|...|H6440|Prep-l | N-cpc
 v6 שְׁלֹמֹ֣ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -80,8 +80,8 @@ v6 לָֽעָם־|lā·‘ām-|people|H5971|Prep-l, Art | N-ms
 v6 הַזֶּ֖ה|haz·zeh|to these|H2088|Art | Pro-ms
 v6 דָּבָֽר׃|dā·ḇār|...|H1697|N-ms
 v7 וַיְדַבְּר֨וּ|way·ḏab·bə·rū|They replied|H1696|Conj-w | V-Piel-ConsecImperf-3mp
-v7 אֵלָ֜יו|’ê·lāw||H413|Prep | 3ms
-v7 לֵאמֹ֗ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v7 אֵלָ֜יו|’ê·lāw|-|H413|Prep | 3ms
+v7 לֵאמֹ֗ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v7 אִם־|’im-|If|H518|Conj
 v7 תִּֽהְיֶ֨ה|tih·yeh|you will be|H1961|V-Qal-Imperf-2ms
 v7 לְט֜וֹב|lə·ṭō·wḇ|kind|H2896|Prep-l | Adj-ms
@@ -101,10 +101,10 @@ v8 וַֽיַּעֲזֹ֛ב|way·ya·‘ă·zōḇ|But [Rehoboam] rejected|H580
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 עֲצַ֥ת|‘ă·ṣaṯ|the advice|H6098|N-fsc
 v8 הַזְּקֵנִ֖ים|haz·zə·qê·nîm|of the elders|H2205|Art | Adj-mp
-v8 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
-v8 יְעָצֻ֑הוּ|yə·‘ā·ṣu·hū||H3289|V-Qal-Perf-3cp | 3ms
+v8 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
+v8 יְעָצֻ֑הוּ|yə·‘ā·ṣu·hū|-|H3289|V-Qal-Perf-3cp | 3ms
 v8 וַיִּוָּעַ֗ץ|way·yiw·wā·‘aṣ|instead, he consulted|H3289|Conj-w | V-Nifal-ConsecImperf-3ms
-v8 אֶת־|’eṯ-||H854|Prep
+v8 אֶת־|’eṯ-|-|H854|Prep
 v8 הַיְלָדִים֙|hay·lā·ḏîm|the young men|H3206|Art | N-mp
 v8 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
 v8 גָּדְל֣וּ|gā·ḏə·lū|had grown up|H1431|V-Qal-Perf-3cp
@@ -175,7 +175,7 @@ v11 יִסַּ֤ר|yis·sar|scourged|H3256|V-Piel-Perf-3ms
 v11 אֶתְכֶם֙|’eṯ·ḵem|you|H853|DirObjM | 2mp
 v11 בַּשּׁוֹטִ֔ים|baš·šō·w·ṭîm|with whips|H7752|Prep-b, Art | N-mp
 v11 וַאֲנִ֖י|wa·’ă·nî|I [will scourge you]|H589|Conj-w | Pro-1cs
-v11 בָּֽעֲקְרַבִּֽים׃ס|bā·‘ăq·rab·bîm|with scorpions|H6137|Prep-b, Art | N-mp
+v11 בָּֽעֲקְרַבִּֽים׃|bā·‘ăq·rab·bîm|with scorpions|H6137|Prep-b, Art | N-mp
 v12 וַיָּבֹ֨א|way·yā·ḇō|returned|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יָרָבְעָ֧ם|yā·rā·ḇə·‘ām|Jeroboam|H3379|N-proper-ms
 v12 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
@@ -272,7 +272,7 @@ v16 דָּוִ֑יד|dā·wîḏ|O David|H1732|N-proper-ms
 v16 וַיֵּ֥לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v16 כָּל־|kāl-|So all|H3605|N-msc
 v16 יִשְׂרָאֵ֖ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
-v16 לְאֹהָלָֽיו׃ס|lə·’ō·hā·lāw|home|H168|Prep-l | N-mpc | 3ms
+v16 לְאֹהָלָֽיו׃|lə·’ō·hā·lāw|home|H168|Prep-l | N-mpc | 3ms
 v17 וּבְנֵ֣י|ū·ḇə·nê|the Israelites|H1121|Conj-w | N-mpc
 v17 יִשְׂרָאֵ֔ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v17 הַיֹּֽשְׁבִ֖ים|hay·yō·šə·ḇîm|living|H3427|Art | V-Qal-Prtcpl-mp
@@ -301,11 +301,11 @@ v18 הִתְאַמֵּץ֙|hiṯ·’am·mêṣ|in haste|H553|V-Hitpael-Perf-3ms
 v18 לַֽעֲל֣וֹת|la·‘ă·lō·wṯ|mounted|H5927|Prep-l | V-Qal-Inf
 v18 בַּמֶּרְכָּבָ֔ה|bam·mer·kā·ḇāh|his chariot|H4818|Prep-b, Art | N-fs
 v18 לָנ֖וּס|lā·nūs|and escaped|H5127|Prep-l | V-Qal-Inf
-v18 יְרוּשָׁלִָֽם׃ס|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
+v18 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
 v19 וַיִּפְשְׁע֤וּ|way·yip̄·šə·‘ū|has been in rebellion|H6586|Conj-w | V-Qal-ConsecImperf-3mp
 v19 יִשְׂרָאֵל֙|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v19 בְּבֵ֣ית|bə·ḇêṯ|against the house|H1004|Prep-b | N-msc
 v19 דָּוִ֔יד|dā·wîḏ|of David|H1732|N-proper-ms
 v19 עַ֖ד|‘aḏ|So to|H5704|Prep
 v19 הַיּ֥וֹם|hay·yō·wm|this|H3117|Art | N-ms
-v19 הַזֶּֽה׃ס|haz·zeh|day|H2088|Art | Pro-ms
+v19 הַזֶּֽה׃|haz·zeh|day|H2088|Art | Pro-ms

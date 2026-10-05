@@ -32,7 +32,7 @@ v3 לְשַׁחֵ֣ת|lə·ša·ḥêṯ|to destroy|H7843|Prep-l | V-Piel-Inf
 v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 הָעִ֔יר|hā·‘îr|the city|H5892|Art | N-fs
 v3 וּמַרְא֕וֹת|ū·mar·’ō·wṯ|and like the visions|H4759|Conj-w | N-fp
-v3 כַּמַּרְאֶ֕ה|kam·mar·’eh||H4758|Prep-k, Art | N-ms
+v3 כַּמַּרְאֶ֕ה|kam·mar·’eh|-|H4758|Prep-k, Art | N-ms
 v3 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v3 רָאִ֖יתִי|rā·’î·ṯî|I had seen|H7200|V-Qal-Perf-1cs
 v3 אֶל־|’el-|by|H413|Prep
@@ -131,7 +131,7 @@ v9 מַלְכֵיהֶ֖ם|mal·ḵê·hem|for their kings|H4428|N-mpc | 3mp
 v9 מִמֶּ֑נִּי|mim·men·nî|far from Me|H4480|Prep | 1cs
 v9 וְשָׁכַנְתִּ֥י|wə·šā·ḵan·tî|and I will dwell|H7931|Conj-w | V-Qal-ConjPerf-1cs
 v9 בְתוֹכָ֖ם|ḇə·ṯō·w·ḵām|among them|H8432|Prep-b | N-msc | 3mp
-v9 לְעוֹלָֽם׃ס|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
+v9 לְעוֹלָֽם׃|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
 v10 אַתָּ֣ה|’at·tāh|As for you|H859|Pro-2ms
 v10 בֶן־|ḇen-|son|H1121|N-msc
 v10 אָדָ֗ם|’ā·ḏām|of man|H120|N-ms
@@ -161,7 +161,7 @@ v11 צֽוּרֹתָ֡ו|ṣū·rō·ṯå̄w|design|H6699|N-fsc | 3ms
 v11 וְאֵ֣ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v11 כָּל־|kāl-|along with all|H3605|N-msc
 v11 חֻקֹּתָיו֩|ḥuq·qō·ṯāw|its statutes|H2708|N-fpc | 3ms
-v11 וְכָל־|wə·ḵāl||H3605|Conj-w | N-msc
+v11 וְכָל־|wə·ḵāl|-|H3605|Conj-w | N-msc
 v11 צוּרֹתָי|ṣū·rō·ṯå̄y|forms|H6699|N-fpc | 3ms
 v11 וְכָל־|wə·ḵāl|and|H3605|Conj-w | N-msc
 v11 תּוֹרֹתוֹ|tō·rō·ṯō|laws|H8451|N-fpc | 3ms
@@ -267,7 +267,7 @@ v17 אוֹתָ֜הּ|’ō·w·ṯāh|it|H853|DirObjM | 3fs
 v17 חֲצִ֣י|ḥă·ṣî|of half|H2677|N-msc
 v17 הָאַמָּ֗ה|hā·’am·māh|a cubit|H520|Art | N-fs
 v17 וְהַֽחֵיק־|wə·ha·ḥêq-|and a gutter|H2436|Conj-w, Art | N-ms
-v17 לָ֤הּ|lāh||H0|Prep | 3fs
+v17 לָ֤הּ|lāh|-|H0|Prep | 3fs
 v17 אַמָּה֙|’am·māh|of a cubit|H520|N-fs
 v17 סָבִ֔יב|sā·ḇîḇ|-|H5439|Adv
 v17 וּמַעֲלֹתֵ֖הוּ|ū·ma·‘ă·lō·ṯê·hū|The steps of the altar|H4609|Conj-w | N-fpc | 3ms
@@ -412,4 +412,4 @@ v27 וְרָצִ֣אתִי|wə·rā·ṣi·ṯî|Then I will accept you|H7521|Co
 v27 אֶתְכֶ֔ם|’eṯ·ḵem|-|H853|DirObjM | 2mp
 v27 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v27 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v27 יְהֹוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v27 יְהֹוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

@@ -132,4 +132,4 @@ v12 יְהוָ֑ה|Yah·weh|O LORD|H3068|N-proper-ms
 v12 תֶּחֱשֶׁ֥ה|te·ḥĕ·šeh|Will You keep silent|H2814|V-Qal-Imperf-2ms
 v12 וּתְעַנֵּ֖נוּ|ū·ṯə·‘an·nê·nū|and afflict us|H6031|Conj-w | V-Piel-ConjImperf-2ms | 1cp
 v12 עַד־|‘aḏ-|beyond|H5704|Prep
-v12 מְאֹֽד׃ס|mə·’ōḏ|measure|H3966|Adv
+v12 מְאֹֽד׃|mə·’ōḏ|measure|H3966|Adv

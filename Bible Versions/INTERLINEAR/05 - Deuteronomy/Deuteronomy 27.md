@@ -28,7 +28,7 @@ v2 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v2 נֹתֵ֣ן|nō·ṯên|is giving|H5414|V-Qal-Prtcpl-ms
 v2 לָ֑ךְ|lāḵ|you|H0|Prep | 2ms
 v2 וַהֲקֵמֹתָ֤|wa·hă·qê·mō·ṯā|set up|H6965|Conj-w | V-Hifil-ConjPerf-2ms
-v2 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v2 אֲבָנִ֣ים|’ă·ḇā·nîm|stones|H68|N-fp
 v2 גְּדֹל֔וֹת|gə·ḏō·lō·wṯ|large|H1419|Adj-fp
 v2 וְשַׂדְתָּ֥|wə·śaḏ·tā|and coat|H7874|Conj-w | V-Qal-ConjPerf-2ms
@@ -61,7 +61,7 @@ v3 דִּבֶּ֛ר|dib·ber|has promised you|H1696|V-Piel-Perf-3ms
 v3 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v3 אֱלֹהֵֽי־|’ĕ·lō·hê-|the God|H430|N-mpc
 v3 אֲבֹתֶ֖יךָ|’ă·ḇō·ṯe·ḵā|of your fathers|H1|N-mpc | 2ms
-v3 לָֽךְ׃|lāḵ||H0|Prep | 2ms
+v3 לָֽךְ׃|lāḵ|-|H0|Prep | 2ms
 v4 וְהָיָה֮|wə·hā·yāh|And|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v4 בְּעָבְרְכֶ֣ם|bə·‘ā·ḇə·rə·ḵem|when you have crossed|H5674|Prep-b | V-Qal-Inf | 2mp
 v4 אֶת־|’eṯ-|-|H853|DirObjM
@@ -120,7 +120,7 @@ v8 דִּבְרֵ֛י|diḇ·rê|the words|H1697|N-mpc
 v8 הַתּוֹרָ֥ה|hat·tō·w·rāh|law|H8451|Art | N-fs
 v8 הַזֹּ֖את|haz·zōṯ|of this|H2063|Art | Pro-fs
 v8 בַּאֵ֥ר|ba·’êr|distinctly|H874|V-Piel-InfAbs
-v8 הֵיטֵֽב׃ס|hê·ṭêḇ|...|H3190|V-Hifil-InfAbs
+v8 הֵיטֵֽב׃|hê·ṭêḇ|...|H3190|V-Hifil-InfAbs
 v9 וַיְדַבֵּ֤ר|way·ḏab·bêr|spoke|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v9 מֹשֶׁה֙|mō·šeh|Then Moses|H4872|N-proper-ms
 v9 וְהַכֹּהֲנִ֣ים|wə·hak·kō·hă·nîm|priests|H3548|Conj-w, Art | N-mp
@@ -150,7 +150,7 @@ v10 חֻקָּ֔יו|ḥuq·qāw|and statutes|H2706|N-mpc | 3ms
 v10 אֲשֶׁ֛ר|’ă·šer|-|H834|Pro-r
 v10 אָנֹכִ֥י|’ā·nō·ḵî|I|H595|Pro-1cs
 v10 מְצַוְּךָ֖|mə·ṣaw·wə·ḵā|am giving you today|H6680|V-Piel-Prtcpl-msc | 2ms
-v10 הַיּֽוֹם׃ס|hay·yō·wm|...|H3117|Art | N-ms
+v10 הַיּֽוֹם׃|hay·yō·wm|...|H3117|Art | N-ms
 v11 וַיְצַ֤ו|way·ṣaw|commanded|H6680|Conj-w | V-Piel-ConsecImperf-3ms
 v11 מֹשֶׁה֙|mō·šeh|Moses|H4872|N-proper-ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
@@ -195,7 +195,7 @@ v14 כָּל־|kāl-|every|H3605|N-msc
 v14 אִ֥ישׁ|’îš|Israelite|H376|N-msc
 v14 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v14 ק֥וֹל|qō·wl|voice|H6963|N-ms
-v14 רָֽם׃ס|rām|in a loud|H7311|V-Qal-Prtcpl-ms
+v14 רָֽם׃|rām|in a loud|H7311|V-Qal-Prtcpl-ms
 v15 אָר֣וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v15 הָאִ֡ישׁ|hā·’îš|the man|H376|Art | N-ms
 v15 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
@@ -213,7 +213,7 @@ v15 וְעָנ֧וּ|wə·‘ā·nū|say|H6030|Conj-w | V-Qal-ConjPerf-3cp
 v15 כָל־|ḵāl|And {let} all|H3605|N-msc
 v15 הָעָ֛ם|hā·‘ām|the people|H5971|Art | N-ms
 v15 וְאָמְר֖וּ|wə·’ā·mə·rū|...|H559|Conj-w | V-Qal-ConjPerf-3cp
-v15 אָמֵֽן׃ס|’ā·mên|Amen|H543|Adv
+v15 אָמֵֽן׃|’ā·mên|Amen|H543|Adv
 v16 אָר֕וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v16 מַקְלֶ֥ה|maq·leh|he who dishonors|H7034|V-Hifil-Prtcpl-ms
 v16 אָבִ֖יו|’ā·ḇîw|his father|H1|N-msc | 3ms
@@ -221,7 +221,7 @@ v16 וְאִמּ֑וֹ|wə·’im·mōw|or mother|H517|Conj-w | N-fsc | 3ms
 v16 וְאָמַ֥ר|wə·’ā·mar|say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v16 כָּל־|kāl-|And {let} all|H3605|N-msc
 v16 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v16 אָמֵֽן׃ס|’ā·mên|Amen|H543|Adv
+v16 אָמֵֽן׃|’ā·mên|Amen|H543|Adv
 v17 אָר֕וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v17 מַסִּ֖יג|mas·sîḡ|he who moves|H5253|V-Hifil-Prtcpl-ms
 v17 גְּב֣וּל|gə·ḇūl|boundary stone|H1366|N-msc
@@ -229,7 +229,7 @@ v17 רֵעֵ֑הוּ|rê·‘ê·hū|his neighbor's|H7453|N-msc | 3ms
 v17 וְאָמַ֥ר|wə·’ā·mar|say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v17 כָּל־|kāl-|And {let} all|H3605|N-msc
 v17 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v17 אָמֵֽן׃ס|’ā·mên|Amen|H543|Adv
+v17 אָמֵֽן׃|’ā·mên|Amen|H543|Adv
 v18 אָר֕וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v18 מַשְׁגֶּ֥ה|maš·geh|wander|H7686|V-Hifil-Prtcpl-ms
 v18 עִוֵּ֖ר|‘iw·wêr|he who lets a blind man|H5787|Adj-ms
@@ -237,7 +237,7 @@ v18 בַּדָּ֑רֶךְ|bad·dā·reḵ|in the road|H1870|Prep-b, Art | N-cs
 v18 וְאָמַ֥ר|wə·’ā·mar|say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v18 כָּל־|kāl-|And {let} all|H3605|N-msc
 v18 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v18 אָמֵֽן׃ס|’ā·mên|Amen|H543|Adv
+v18 אָמֵֽן׃|’ā·mên|Amen|H543|Adv
 v19 אָר֗וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v19 מַטֶּ֛ה|maṭ·ṭeh|he who withholds|H5186|V-Hifil-Prtcpl-ms
 v19 מִשְׁפַּ֥ט|miš·paṭ|justice|H4941|N-msc
@@ -247,7 +247,7 @@ v19 וְאַלְמָנָ֑ה|wə·’al·mā·nāh|or the widow|H490|Conj-w | N-
 v19 וְאָמַ֥ר|wə·’ā·mar|say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v19 כָּל־|kāl-|And {let} all|H3605|N-msc
 v19 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v19 אָמֵֽן׃ס|’ā·mên|Amen|H543|Adv
+v19 אָמֵֽן׃|’ā·mên|Amen|H543|Adv
 v20 אָר֗וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v20 שֹׁכֵב֙|šō·ḵêḇ|he who sleeps|H7901|V-Qal-Prtcpl-ms
 v20 עִם־|‘im-|with|H5973|Prep
@@ -260,7 +260,7 @@ v20 אָבִ֑יו|’ā·ḇîw|his father's|H1|N-msc | 3ms
 v20 וְאָמַ֥ר|wə·’ā·mar|say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v20 כָּל־|kāl-|And {let} all|H3605|N-msc
 v20 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v20 אָמֵֽן׃ס|’ā·mên|Amen|H543|Adv
+v20 אָמֵֽן׃|’ā·mên|Amen|H543|Adv
 v21 אָר֕וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v21 שֹׁכֵ֖ב|šō·ḵêḇ|he who lies|H7901|V-Qal-Prtcpl-ms
 v21 עִם־|‘im-|with|H5973|Prep
@@ -269,7 +269,7 @@ v21 בְּהֵמָ֑ה|bə·hê·māh|animal|H929|N-fs
 v21 וְאָמַ֥ר|wə·’ā·mar|say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v21 כָּל־|kāl-|And {let} all|H3605|N-msc
 v21 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v21 אָמֵֽן׃ס|’ā·mên|Amen|H543|Adv
+v21 אָמֵֽן׃|’ā·mên|Amen|H543|Adv
 v22 אָר֗וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v22 שֹׁכֵב֙|šō·ḵêḇ|he who sleeps|H7901|V-Qal-Prtcpl-ms
 v22 עִם־|‘im-|with|H5973|Prep
@@ -282,7 +282,7 @@ v22 אִמּ֑וֹ|’im·mōw|his mother|H517|N-fsc | 3ms
 v22 וְאָמַ֥ר|wə·’ā·mar|say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v22 כָּל־|kāl-|And {let} all|H3605|N-msc
 v22 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v22 אָמֵֽן׃ס|’ā·mên|Amen|H543|Adv
+v22 אָמֵֽן׃|’ā·mên|Amen|H543|Adv
 v23 אָר֕וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v23 שֹׁכֵ֖ב|šō·ḵêḇ|he who sleeps|H7901|V-Qal-Prtcpl-ms
 v23 עִם־|‘im-|with|H5973|Prep
@@ -290,7 +290,7 @@ v23 חֹֽתַנְתּ֑וֹ|ḥō·ṯan·tōw|his mother-in-law|H2859|N-fsc | 
 v23 וְאָמַ֥ר|wə·’ā·mar|say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v23 כָּל־|kāl-|And {let} all|H3605|N-msc
 v23 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v23 אָמֵֽן׃ס|’ā·mên|Amen|H543|Adv
+v23 אָמֵֽן׃|’ā·mên|Amen|H543|Adv
 v24 אָר֕וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v24 מַכֵּ֥ה|mak·kêh|he who strikes down|H5221|V-Hifil-Prtcpl-msc
 v24 רֵעֵ֖הוּ|rê·‘ê·hū|his neighbor|H7453|N-msc | 3ms
@@ -298,7 +298,7 @@ v24 בַּסָּ֑תֶר|bas·sā·ṯer|in secret|H5643|Prep-b, Art | N-ms
 v24 וְאָמַ֥ר|wə·’ā·mar|say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v24 כָּל־|kāl-|And {let} all|H3605|N-msc
 v24 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v24 אָמֵֽן׃ס|’ā·mên|Amen|H543|Adv
+v24 אָמֵֽן׃|’ā·mên|Amen|H543|Adv
 v25 אָרוּר֙|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v25 לֹקֵ֣חַ|lō·qê·aḥ|he who accepts|H3947|V-Qal-Prtcpl-ms
 v25 שֹׁ֔חַד|šō·ḥaḏ|a bribe|H7810|N-ms
@@ -309,7 +309,7 @@ v25 נָקִ֑י|nā·qî|an innocent|H5355|Adj-ms
 v25 וְאָמַ֥ר|wə·’ā·mar|say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v25 כָּל־|kāl-|And {let} all|H3605|N-msc
 v25 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v25 אָמֵֽן׃ס|’ā·mên|Amen|H543|Adv
+v25 אָמֵֽן׃|’ā·mên|Amen|H543|Adv
 v26 אָר֗וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v26 אֲשֶׁ֧ר|’ă·šer|he who|H834|Pro-r
 v26 לֹא־|lō-|does not|H3808|Adv-NegPrt
@@ -323,4 +323,4 @@ v26 אוֹתָ֑ם|’ō·w·ṯām|-|H853|DirObjM | 3mp
 v26 וְאָמַ֥ר|wə·’ā·mar|say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v26 כָּל־|kāl-|And {let} all|H3605|N-msc
 v26 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v26 אָמֵֽן׃פ|’ā·mên|Amen|H543|Adv
+v26 אָמֵֽן׃|’ā·mên|Amen|H543|Adv

@@ -53,7 +53,7 @@ v4 ὡς|hōs|as|G5613|Adv
 v4 δεῖ|dei|should|G1163|V-PIA-3S
 v4 με|me|I|G1473|PPro-A1S
 v4 λαλῆσαι|lalēsai|...|G2980|V-ANA
-v5 Ἐν|En|vvv|G1722|Prep
+v5 Ἐν|En|...|G1722|Prep
 v5 σοφίᾳ|sophia|wisely|G4678|N-DFS
 v5 περιπατεῖτε|peripateite|Act|G4043|V-PMA-2P
 v5 πρὸς|pros|toward|G4314|Prep
@@ -72,8 +72,8 @@ v6 ἅλατι|halati|with salt|G217|N-DNS
 v6 ἠρτυμένος|ērtymenos|seasoned|G741|V-RPM/P-NMS
 v6 εἰδέναι|eidenai|so that you may know|G1492|V-RNA
 v6 πῶς|pōs|how|G4459|Adv
-v6 δεῖ|dei|vvv|G1163|V-PIA-3S
-v6 ὑμᾶς|hymas|vvv|G4771|PPro-A2P
+v6 δεῖ|dei|...|G1163|V-PIA-3S
+v6 ὑμᾶς|hymas|...|G4771|PPro-A2P
 v6 ἑνὶ|heni|...|G1520|Adj-DMS
 v6 ἑκάστῳ|hekastō|everyone|G1538|Adj-DMS
 v6 ἀποκρίνεσθαι|apokrinesthai|to answer|G611|V-PNM/P

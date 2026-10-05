@@ -48,7 +48,7 @@ v5 כֹּ֣ל|kōl|everyone|H3605|N-ms
 v5 הִבְאִישׁ|hiḇ·ʾīš|will be put to shame|H887|V-Hifil-Perf-3ms
 v5 עַל־|‘al-|because of|H5921|Prep
 v5 עַ֖ם|‘am|a people|H5971|N-ms
-v5 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v5 לֹא־|lō-|...|H3808|Adv-NegPrt
 v5 יוֹעִ֣ילוּ|yō·w·‘î·lū|useless|H3276|V-Hifil-Imperf-3mp
 v5 לָ֑מוֹ|lā·mōw|to them|H0|Prep | 3mp
 v5 לֹ֤א|lō|They bring neither|H3808|Adv-NegPrt
@@ -58,7 +58,7 @@ v5 לְהוֹעִ֔יל|lə·hō·w·‘îl|benefit|H3276|Prep-l | V-Hifil-Inf
 v5 כִּ֥י|kî|but|H3588|Conj
 v5 לְבֹ֖שֶׁת|lə·ḇō·šeṯ|only shame|H1322|Prep-l | N-fs
 v5 וְגַם־|wə·ḡam-|and|H1571|Conj
-v5 לְחֶרְפָּֽה׃ס|lə·ḥer·pāh|disgrace|H2781|Prep-l | N-fs
+v5 לְחֶרְפָּֽה׃|lə·ḥer·pāh|disgrace|H2781|Prep-l | N-fs
 v6 מַשָּׂ֖א|maś·śā|[This is] the burden|H4853|N-msc
 v6 בַּהֲמ֣וֹת|ba·hă·mō·wṯ|against the beasts|H929|N-fpc
 v6 נֶ֑גֶב|ne·ḡeḇ|of the Negev|H5045|N-proper-fs
@@ -116,7 +116,7 @@ v9 ה֔וּא|hū|These|H1931|Pro-3ms
 v9 בָּנִ֖ים|bā·nîm|children|H1121|N-mp
 v9 כֶּחָשִׁ֑ים|ke·ḥā·šîm|deceitful|H3586|N-mp
 v9 בָּנִ֕ים|bā·nîm|children|H1121|N-mp
-v9 לֹֽא־|lō-|vvv|H3808|Adv-NegPrt
+v9 לֹֽא־|lō-|...|H3808|Adv-NegPrt
 v9 אָב֥וּ|’ā·ḇū|unwilling|H14|V-Qal-Perf-3cp
 v9 שְׁמ֖וֹעַ|šə·mō·w·a‘|to obey|H8085|V-Qal-Inf
 v9 תּוֹרַ֥ת|tō·w·raṯ|instruction|H8451|N-fsc
@@ -146,7 +146,7 @@ v11 הַשְׁבִּ֥יתוּ|haš·bî·ṯū|Rid us|H7673|V-Hifil-Imp-mp
 v11 מִפָּנֵ֖ינוּ|mip·pā·nê·nū|of|H6440|Prep-m | N-mpc | 1cp
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 קְד֥וֹשׁ|qə·ḏō·wōš|the Holy|H6918|Adj-msc
-v11 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|One of Israel|H3478|N-proper-ms
+v11 יִשְׂרָאֵֽל׃|yiś·rā·’êl|One of Israel|H3478|N-proper-ms
 v12 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v12 כֹּ֤ה|kōh|this is what|H3541|Adv
 v12 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -192,7 +192,7 @@ v14 אֵשׁ֙|’êš|the coals|H784|N-cs
 v14 מִיָּק֔וּד|mî·yā·qūḏ|from a hearth|H3344|Prep-m | N-ms
 v14 וְלַחְשֹׂ֥ף|wə·laḥ·śōp̄|or to skim|H2834|Conj-w, Prep-l | V-Qal-Inf
 v14 מַ֖יִם|ma·yim|the water|H4325|N-mp
-v14 מִגֶּֽבֶא׃פ|mig·ge·ḇe|from a cistern|H1360|Prep-m | N-ms
+v14 מִגֶּֽבֶא׃|mig·ge·ḇe|from a cistern|H1360|Prep-m | N-ms
 v15 כִּ֣י|kî|For|H3588|Conj
 v15 כֹֽה־|ḵōh-|...|H3541|Adv
 v15 אָמַר֩|’ā·mar|has said|H559|V-Qal-Perf-3ms
@@ -258,7 +258,7 @@ v18 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v18 אַשְׁרֵ֖י|’aš·rê|Blessed are|H835|Interjection
 v18 כָּל־|kāl-|all|H3605|N-msc
 v18 ח֥וֹכֵי|ḥō·w·ḵê|who wait|H2442|V-Qal-Prtcpl-mpc
-v18 לֽוֹ׃ס|lōw|for Him|H0|Prep | 3ms
+v18 לֽוֹ׃|lōw|for Him|H0|Prep | 3ms
 v19 כִּי־|kî-|-|H3588|Conj
 v19 עַ֛ם|‘am|O people|H5971|N-ms
 v19 בְּצִיּ֥וֹן|bə·ṣî·yō·wn|in Zion|H6726|Prep-b | N-proper-fs
@@ -384,7 +384,7 @@ v26 שֶׁ֣בֶר|še·ḇer|the brokenness|H7667|N-msc
 v26 עַמּ֔וֹ|‘am·mōw|of His people|H5971|N-msc | 3ms
 v26 וּמַ֥חַץ|ū·ma·ḥaṣ|the wounds|H4273|Conj-w | N-msc
 v26 מַכָּת֖וֹ|mak·kā·ṯōw|He has inflicted|H4347|N-fsc | 3ms
-v26 יִרְפָּֽא׃ס|yir·pā|and heals|H7495|V-Qal-Imperf-3ms
+v26 יִרְפָּֽא׃|yir·pā|and heals|H7495|V-Qal-Imperf-3ms
 v27 הִנֵּ֤ה|hin·nêh|Behold|H2009|Interjection
 v27 שֵׁם־|šêm-|the Name|H8034|N-msc
 v27 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -417,7 +417,7 @@ v28 לְחָיֵ֥י|lə·ḥā·yê|the jaws|H3895|N-fpc
 v28 עַמִּֽים׃|‘am·mîm|of the peoples|H5971|N-mp
 v29 הַשִּׁיר֙|haš·šîr|You will sing|H7892|Art | N-ms
 v29 יִֽהְיֶ֣ה|yih·yeh|...|H1961|V-Qal-Imperf-3ms
-v29 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v29 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v29 כְּלֵ֖יל|kə·lêl|as on the night|H3915|Prep-k | N-msc
 v29 הִתְקַדֶּשׁ־|hiṯ·qad·deš-|of a holy|H6942|V-Hitpael-Inf
 v29 חָ֑ג|ḥāḡ|festival|H2282|N-ms
@@ -469,12 +469,12 @@ v32 וּבְכִנֹּר֑וֹת|ū·ḇə·ḵin·nō·rō·wṯ|and lyres [wil
 v32 וּבְמִלְחֲמ֥וֹת|ū·ḇə·mil·ḥă·mō·wṯ|with weapons|H4421|Conj-w, Prep-b | N-fpc
 v32 תְּנוּפָ֖ה|tə·nū·p̄āh|brandished|H8573|N-fs
 v32 נִלְחַם־|nil·ḥam-|as He battles|H3898|V-Nifal-Perf-3ms
-v32 בָּהּ׃|bå̄h||H0|Prep | 3mp
+v32 בָּהּ׃|bå̄h|-|H0|Prep | 3mp
 v33 כִּֽי־|kî-|For|H3588|Conj
 v33 עָר֤וּךְ|‘ā·rūḵ|been prepared|H6186|V-Qal-QalPassPrtcpl-ms
 v33 מֵֽאֶתְמוּל֙|mê·’eṯ·mūl|has long|H865|Prep-m | Adv
 v33 תָּפְתֶּ֔ה|tā·p̄ə·teh|Topheth|H8613|N-proper-fs
-v33 גַּם־|gam-||H1571|Conj
+v33 גַּם־|gam-|-|H1571|Conj
 v33 הוּא|hū|it|H1931|Pro-3fs
 v33 לַמֶּ֥לֶךְ|lam·me·leḵ|for the king|H4428|Prep-l, Art | N-ms
 v33 הוּכָ֖ן|hū·ḵān|has been made ready|H3559|V-Hofal-Perf-3ms
@@ -489,4 +489,4 @@ v33 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
 v33 כְּנַ֣חַל|kə·na·ḥal|like a torrent|H5158|Prep-k | N-msc
 v33 גָּפְרִ֔ית|gā·p̄ə·rîṯ|of burning sulfur|H1614|N-fs
 v33 בֹּעֲרָ֖ה|bō·‘ă·rāh|sets it ablaze|H1197|V-Qal-Prtcpl-fs
-v33 בָּֽהּ׃ס|bāh||H0|Prep | 3fs
+v33 בָּֽהּ׃|bāh|-|H0|Prep | 3fs

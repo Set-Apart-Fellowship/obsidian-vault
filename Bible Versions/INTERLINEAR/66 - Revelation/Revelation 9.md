@@ -64,7 +64,7 @@ v3 ἐδόθη|edothē|were given|G1325|V-AIP-3S
 v3 αὐταῖς*|autais|they|G846|PPro-DF3P
 v3 ἐξουσία|exousia|power|G1849|N-NFS
 v3 ὡς|hōs|like|G5613|Adv
-v3 ἔχουσιν|echousin|vvv|G2192|V-PIA-3P
+v3 ἔχουσιν|echousin|...|G2192|V-PIA-3P
 v3 ἐξουσίαν|exousian|[that of]|G1849|N-AFS
 v3 οἱ|hoi|the|G3588|Art-NMP
 v3 σκορπίοι|skorpioi|scorpions|G4651|N-NMP
@@ -91,7 +91,7 @@ v4 μὴ|mē|...|G3361|Adv
 v4 τοὺς|tous|those|G3588|Art-AMP
 v4 ἀνθρώπους|anthrōpous|...|G444|N-AMP
 v4 οἵτινες|hoitines|who|G3748|RelPro-NMP
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 ἔχουσι*|echousi|did not have|G2192|V-PIA-3P
 v4 τὴν|tēn|the|G3588|Art-AFS
 v4 σφραγῖδα|sphragida|seal|G4973|N-AFS
@@ -119,7 +119,7 @@ v5 αὐτῶν|autōn|their|G846|PPro-GF3P
 v5 ὡς|hōs|[was] like|G5613|Adv
 v5 βασανισμὸς|basanismos|-|G929|N-NMS
 v5 σκορπίου|skorpiou|of a scorpion|G4651|N-GMS
-v5 ὅταν|hotan|vvv|G3752|Conj
+v5 ὅταν|hotan|...|G3752|Conj
 v5 παίσῃ|paisē|the stinging|G3817|V-ASA-3S
 v5 ἄνθρωπον|anthrōpon|-|G444|N-AMS
 v6 καὶ|kai|-|G2532|Conj
@@ -133,8 +133,8 @@ v6 ἄνθρωποι|anthrōpoi|men|G444|N-NMP
 v6 τὸν|ton|-|G3588|Art-AMS
 v6 θάνατον|thanaton|death|G2288|N-AMS
 v6 καὶ|kai|and|G2532|Conj
-v6 οὐ|ou|vvv|G3756|Adv
-v6 μὴ|mē|vvv|G3361|Adv
+v6 οὐ|ou|...|G3756|Adv
+v6 μὴ|mē|...|G3361|Adv
 v6 εὑρήσουσιν|heurēsousin|will not find|G2147|V-FIA-3P
 v6 αὐτόν|auton|it|G846|PPro-AM3S
 v6 καὶ|kai|-|G2532|Conj
@@ -185,7 +185,7 @@ v8 αὐτῶν|autōn|-|G846|PPro-GF3P
 v8 ὡς|hōs|like [those]|G5613|Adv
 v8 λεόντων|leontōn|of lions|G3023|N-GMP
 v8 ἦσαν|ēsan|-|G1510|V-IIA-3P
-v9 καὶ|kai|vvv|G2532|Conj
+v9 καὶ|kai|...|G2532|Conj
 v9 εἶχον|eichon|They also had|G2192|V-IIA-3P
 v9 θώρακας|thōrakas|breastplates|G2382|N-AMP
 v9 ὡς|hōs|like|G5613|Adv
@@ -213,13 +213,13 @@ v10 σκορπίοις|skorpiois|scorpions|G4651|N-DMP
 v10 καὶ|kai|with|G2532|Conj
 v10 κέντρα|kentra|stingers|G2759|N-ANP
 v10 καὶ|kai|-|G2532|Conj
-v10 ἐν|en|vvv|G1722|Prep
-v10 ταῖς|tais|vvv|G3588|Art-DFP
+v10 ἐν|en|...|G1722|Prep
+v10 ταῖς|tais|...|G3588|Art-DFP
 v10 οὐραῖς|ourais|[which]|G3769|N-DFP
 v10 αὐτῶν|autōn|had|G846|PPro-GF3P
 v10 ἡ|hē|the|G3588|Art-NFS
 v10 ἐξουσία|exousia|power|G1849|N-NFS
-v10 αὐτῶν|autōn|vvv|G846|PPro-GF3P
+v10 αὐτῶν|autōn|...|G846|PPro-GF3P
 v10 ἀδικῆσαι|adikēsai|to injure|G91|V-ANA
 v10 τοὺς|tous|-|G3588|Art-AMP
 v10 ἀνθρώπους|anthrōpous|people|G444|N-AMP
@@ -242,7 +242,7 @@ v11 ἐν|en|in|G1722|Prep
 v11 τῇ|tē|-|G3588|Art-DFS
 v11 Ἑλληνικῇ|Hellēnikē|Greek|G1673|Adj-DFS
 v11 ὄνομα|onoma|[it is]|G3686|N-ANS
-v11 ἔχει|echei|vvv|G2192|V-PIA-3S
+v11 ἔχει|echei|...|G2192|V-PIA-3S
 v11 Ἀπολλύων|Apollyōn|Apollyon|G623|N-NMS
 v12 Ἡ|Hē|-|G3588|Art-NFS
 v12 Οὐαὶ|Ouai|woe|G3759|N
@@ -429,13 +429,13 @@ v20 λοιποὶ|loipoi|rest|G3062|Adj-NMP
 v20 τῶν|tōn|of|G3588|Art-GMP
 v20 ἀνθρώπων|anthrōpōn|mankind|G444|N-GMP
 v20 οἳ|hoi|who|G3739|RelPro-NMP
-v20 οὐκ|ouk|vvv|G3756|Adv
+v20 οὐκ|ouk|...|G3756|Adv
 v20 ἀπεκτάνθησαν|apektanthēsan|were not killed|G615|V-AIP-3P
 v20 ἐν|en|by|G1722|Prep
 v20 ταῖς|tais|-|G3588|Art-DFP
 v20 πληγαῖς|plēgais|plagues|G4127|N-DFP
 v20 ταύταις|tautais|these|G3778|DPro-DFP
-v20 οὐδὲ|oude|vvv|G3761|Conj
+v20 οὐδὲ|oude|...|G3761|Conj
 v20 μετενόησαν|metenoēsan|still did not repent|G3340|V-AIA-3P
 v20 ἐκ|ek|of|G1537|Prep
 v20 τῶν|tōn|the|G3588|Art-GNP
@@ -443,8 +443,8 @@ v20 ἔργων|ergōn|works|G2041|N-GNP
 v20 τῶν|tōn|-|G3588|Art-GFP
 v20 χειρῶν|cheirōn|hands|G5495|N-GFP
 v20 αὐτῶν|autōn|of their|G846|PPro-GM3P
-v20 ἵνα|hina|vvv|G2443|Conj
-v20 μὴ|mē|vvv|G3361|Adv
+v20 ἵνα|hina|...|G2443|Conj
+v20 μὴ|mē|...|G3361|Adv
 v20 προσκυνήσουσιν|proskynēsousin|They did not stop worshiping|G4352|V-FIA-3P
 v20 τὰ|ta|-|G3588|Art-ANP
 v20 δαιμόνια|daimonia|demons|G1140|N-ANP
@@ -474,7 +474,7 @@ v20 ἀκούειν|akouein|hear|G191|V-PNA
 v20 οὔτε|oute|[or]|G3777|Conj
 v20 περιπατεῖν›|peripatein|walk|G4043|V-PNA
 v21 καὶ|kai|Furthermore|G2532|Conj
-v21 οὐ|ou|vvv|G3756|Adv
+v21 οὐ|ou|...|G3756|Adv
 v21 μετενόησαν|metenoēsan|they did not repent|G3340|V-AIA-3P
 v21 ἐκ|ek|of|G1537|Prep
 v21 τῶν|tōn|-|G3588|Art-GMP

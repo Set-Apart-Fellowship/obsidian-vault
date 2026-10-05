@@ -11,8 +11,8 @@ v1 ὧδε|hōde|here|G5602|Adv
 v1 τῶν|tōn|-|G3588|Art-GMP
 v1 ἑστηκότων|hestēkotōn|standing|G2476|V-RPA-GMP
 v1 οἵτινες|hoitines|who|G3748|RelPro-NMP
-v1 οὐ|ou|vvv|G3756|Adv
-v1 μὴ|mē|vvv|G3361|Adv
+v1 οὐ|ou|...|G3756|Adv
+v1 μὴ|mē|...|G3361|Adv
 v1 γεύσωνται|geusōntai|will not taste|G1089|V-ASM-3P
 v1 θανάτου|thanatou|death|G2288|N-GMS
 v1 ἕως|heōs|before|G2193|Conj
@@ -46,7 +46,7 @@ v2 αὐτοὺς|autous|...|G846|PPro-AM3P
 v2 εἰς|eis|...|G1519|Prep
 v2 ὄρος|oros|mountain|G3735|N-ANS
 v2 ὑψηλὸν|hypsēlon|a high|G5308|Adj-ANS
-v2 κατ’|kat’|vvv|G2596|Prep
+v2 κατ’|kat’|...|G2596|Prep
 v2 ἰδίαν|idian|[by] themselves|G2398|Adj-AFS
 v2 μόνους|monous|...|G3441|Adj-AMP
 v2 καὶ|kai|[There]|G2532|Conj
@@ -82,7 +82,7 @@ v4 συλλαλοῦντες*|syllalountes|talking with|G4814|V-PPA-NMP
 v4 τῷ|tō|-|G3588|Art-DMS
 v4 Ἰησοῦ|Iēsou|Jesus|G2424|N-DMS
 v5 Καὶ|Kai|-|G2532|Conj
-v5 ἀποκριθεὶς|apokritheis|vvv|G611|V-APP-NMS
+v5 ἀποκριθεὶς|apokritheis|...|G611|V-APP-NMS
 v5 ὁ|ho|-|G3588|Art-NMS
 v5 Πέτρος|Petros|Peter|G4074|N-NMS
 v5 λέγει|legei|said|G3004|V-PIA-3S
@@ -106,7 +106,7 @@ v5 μίαν|mian|one|G1520|Adj-AFS
 v5 καὶ|kai|and|G2532|Conj
 v5 Ἠλίᾳ|Ēlia|for Elijah|G2243|N-DMS
 v5 μίαν|mian|one|G1520|Adj-AFS
-v6 οὐ|ou|vvv|G3756|Adv
+v6 οὐ|ou|...|G3756|Adv
 v6 γὰρ|gar|For|G1063|Conj
 v6 ᾔδει|ēdei|[Peter] did not know|G1492|V-LIA-3S
 v6 τί|ti|what else|G5101|IPro-ANS
@@ -159,8 +159,8 @@ v9 μηδενὶ|mēdeni|...|G3367|Adj-DMS
 v9 ἃ|ha|what|G3739|RelPro-ANP
 v9 εἶδον|eidon|they had seen|G3708|V-AIA-3P
 v9 διηγήσωνται|diēgēsōntai|not to tell anyone|G1334|V-ASM-3P
-v9 εἰ|ei|vvv|G1487|Conj
-v9 μὴ|mē|vvv|G3361|Adv
+v9 εἰ|ei|...|G1487|Conj
+v9 μὴ|mē|...|G3361|Adv
 v9 ὅταν|hotan|until|G3752|Conj
 v9 ὁ|ho|the|G3588|Art-NMS
 v9 Υἱὸς|Huios|Son|G5207|N-NMS
@@ -222,7 +222,7 @@ v13 ἀλλὰ|alla|But|G235|Conj
 v13 λέγω|legō|I tell|G3004|V-PIA-1S
 v13 ὑμῖν|hymin|you|G4771|PPro-D2P
 v13 ὅτι|hoti|that|G3754|Conj
-v13 καὶ|kai|vvv|G2532|Conj
+v13 καὶ|kai|...|G2532|Conj
 v13 Ἠλίας|Ēlias|Elijah|G2243|N-NMS
 v13 ἐλήλυθεν|elēlythen|has indeed come|G2064|V-RIA-3S
 v13 καὶ|kai|and|G2532|Conj
@@ -309,7 +309,7 @@ v18 ἵνα|hina|to|G2443|Conj
 v18 αὐτὸ|auto|...|G846|PPro-AN3S
 v18 ἐκβάλωσιν|ekbalōsin|drive it out|G1544|V-ASA-3P
 v18 καὶ|kai|but|G2532|Conj
-v18 οὐκ|ouk|vvv|G3756|Adv
+v18 οὐκ|ouk|...|G3756|Adv
 v18 ἴσχυσαν|ischysan|they were unable|G2480|V-AIA-3P
 v19 Ὁ|Ho|-|G3588|Art-NMS
 v19 δὲ|de|-|G1161|Conj
@@ -370,7 +370,7 @@ v21 εἶπεν|eipen|he said|G2036|V-AIA-3S
 v21 Ἐκ|Ek|From|G1537|Prep
 v21 παιδιόθεν|paidiothen|childhood|G3812|Adv
 v22 καὶ|kai|-|G2532|Conj
-v22 πολλάκις|pollakis|vvv|G4178|Adv
+v22 πολλάκις|pollakis|...|G4178|Adv
 v22 καὶ|kai|-|G2532|Conj
 v22 εἰς|eis|into|G1519|Prep
 v22 πῦρ|pyr|[the] fire|G4442|N-ANS
@@ -407,7 +407,7 @@ v24 Εὐθὺς|Euthys|Immediately|G2112|Adv
 v24 κράξας|kraxas|cried out|G2896|V-APA-NMS
 v24 ὁ|ho|the|G3588|Art-NMS
 v24 πατὴρ|patēr|father|G3962|N-NMS
-v24 τοῦ|tou|vvv|G3588|Art-GNS
+v24 τοῦ|tou|...|G3588|Art-GNS
 v24 παιδίου|paidiou|boy's|G3813|N-GNS
 v24 ἔλεγεν|elegen|-|G2036|V-IIA-3S
 v24 Πιστεύω|Pisteuō|I do believe|G4100|V-PIA-1S
@@ -480,7 +480,7 @@ v28 οἶκον|oikon|[the] house|G3624|N-AMS
 v28 οἱ|hoi|-|G3588|Art-NMP
 v28 μαθηταὶ|mathētai|disciples|G3101|N-NMP
 v28 αὐτοῦ|autou|His|G846|PPro-GM3S
-v28 κατ’|kat’|vvv|G2596|Prep
+v28 κατ’|kat’|...|G2596|Prep
 v28 ἰδίαν|idian|privately|G2398|Adj-AFS
 v28 ἐπηρώτων|epērōtōn|asked|G1905|V-IIA-3P
 v28 αὐτόν|auton|Him|G846|PPro-AM3S
@@ -511,7 +511,7 @@ v30 διὰ|dia|through|G1223|Prep
 v30 τῆς|tēs|-|G3588|Art-GFS
 v30 Γαλιλαίας|Galilaias|Galilee|G1056|N-GFS
 v30 καὶ|kai|But|G2532|Conj
-v30 οὐκ|ouk|vvv|G3756|Adv
+v30 οὐκ|ouk|...|G3756|Adv
 v30 ἤθελεν|ēthelen|[Jesus] did not want|G2309|V-IIA-3S
 v30 ἵνα|hina|-|G2443|Conj
 v30 τις|tis|anyone|G5100|IPro-NMS
@@ -599,11 +599,11 @@ v35 καὶ|kai|and|G2532|Conj
 v35 πάντων|pantōn|of all|G3956|Adj-GMP
 v35 διάκονος|diakonos|[the] servant|G1249|N-NMS
 v36 Καὶ|Kai|Then|G2532|Conj
-v36 λαβὼν|labōn|vvv|G2983|V-APA-NMS
+v36 λαβὼν|labōn|...|G2983|V-APA-NMS
 v36 παιδίον|paidion|a little child {stand}|G3813|N-ANS
 v36 ἔστησεν|estēsen|He had|G2476|V-AIA-3S
 v36 αὐτὸ|auto|-|G846|PPro-AN3S
-v36 ἐν|en|vvv|G1722|Prep
+v36 ἐν|en|...|G1722|Prep
 v36 μέσῳ|mesō|among|G3319|Adj-DNS
 v36 αὐτῶν|autōn|them|G846|PPro-GM3P
 v36 καὶ|kai|-|G2532|Conj
@@ -707,8 +707,8 @@ v41 ἀμὴν|amēn|truly|G281|Heb
 v41 λέγω|legō|I tell|G3004|V-PIA-1S
 v41 ὑμῖν|hymin|you|G4771|PPro-D2P
 v41 ὅτι|hoti|-|G3754|Conj
-v41 οὐ|ou|vvv|G3756|Adv
-v41 μὴ|mē|vvv|G3361|Adv
+v41 οὐ|ou|...|G3756|Adv
+v41 μὴ|mē|...|G3361|Adv
 v41 ἀπολέσῃ|apolesē|he will never lose|G622|V-ASA-3S
 v41 τὸν|ton|-|G3588|Art-AMS
 v41 μισθὸν|misthon|reward|G3408|N-AMS
@@ -835,7 +835,7 @@ v48 τελευτᾷ|teleuta|dies|G5053|V-PIA-3S
 v48 καὶ|kai|and|G2532|Conj
 v48 τὸ|to|the|G3588|Art-NNS
 v48 πῦρ|pyr|fire|G4442|N-NNS
-v48 οὐ|ou|vvv|G3756|Adv
+v48 οὐ|ou|...|G3756|Adv
 v48 σβέννυται|sbennytai|is never quenched|G4570|V-PIM/P-3S
 v49 Πᾶς|Pas|everyone|G3956|Adj-NMS
 v49 γὰρ|gar|For|G1063|Conj

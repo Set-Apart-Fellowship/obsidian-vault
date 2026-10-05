@@ -56,7 +56,7 @@ v4 μοιχαλὶς|moichalis|adulterous|G3428|N-NFS
 v4 σημεῖον|sēmeion|a sign|G4592|N-ANS
 v4 ἐπιζητεῖ|epizētei|demands|G1934|V-PIA-3S
 v4 καὶ|kai|but|G2532|Conj
-v4 σημεῖον|sēmeion|vvv|G4592|N-NNS
+v4 σημεῖον|sēmeion|...|G4592|N-NNS
 v4 οὐ|ou|none|G3756|Adv
 v4 δοθήσεται|dothēsetai|will be given|G1325|V-FIP-3S
 v4 αὐτῇ|autē|it|G846|PPro-DF3S
@@ -102,7 +102,7 @@ v7 ἑαυτοῖς|heautois|themselves|G1438|RefPro-DM3P
 v7 λέγοντες|legontes|[and] concluded|G3004|V-PPA-NMP
 v7 Ὅτι|Hoti|[It is] because|G3754|Conj
 v7 Ἄρτους|Artous|[any] bread|G740|N-AMP
-v7 οὐκ|ouk|vvv|G3756|Adv
+v7 οὐκ|ouk|...|G3756|Adv
 v7 ἐλάβομεν|elabomen|we did not bring|G2983|V-AIA-1P
 v8 Γνοὺς|Gnous|Aware [of their conversation]|G1097|V-APA-NMS
 v8 δὲ|de|-|G1161|Conj
@@ -118,9 +118,9 @@ v8 ὅτι|hoti|about|G3754|Conj
 v8 ἄρτους|artous|bread|G740|N-AMP
 v8 οὐκ|ouk|no|G3756|Adv
 v8 ἔχετε|echete|having|G2192|V-PIA-2P
-v9 οὔπω|oupō|vvv|G3768|Adv
+v9 οὔπω|oupō|...|G3768|Adv
 v9 νοεῖτε|noeite|Do you still not understand|G3539|V-PIA-2P
-v9 οὐδὲ|oude|vvv|G3761|Conj
+v9 οὐδὲ|oude|...|G3761|Conj
 v9 μνημονεύετε|mnēmoneuete|Do you not remember|G3421|V-PIA-2P
 v9 τοὺς|tous|the|G3588|Art-AMP
 v9 πέντε|pente|five|G4002|Adj-AMP
@@ -142,10 +142,10 @@ v10 πόσας|posas|how many|G4214|IPro-AFP
 v10 σπυρίδας|spyridas|basketfuls|G4711|N-AFP
 v10 ἐλάβετε|elabete|you gathered|G2983|V-AIA-2P
 v11 πῶς|pōs|How|G4459|Adv
-v11 οὐ|ou|vvv|G3756|Adv
+v11 οὐ|ou|...|G3756|Adv
 v11 νοεῖτε|noeite|do you not understand|G3539|V-PIA-2P
 v11 ὅτι|hoti|that|G3754|Conj
-v11 οὐ|ou|vvv|G3756|Adv
+v11 οὐ|ou|...|G3756|Adv
 v11 περὶ|peri|about|G4012|Prep
 v11 ἄρτων|artōn|bread|G740|N-GMP
 v11 εἶπον|eipon|I was not telling you|G2036|V-AIA-1S
@@ -162,7 +162,7 @@ v11 Σαδδουκαίων|Saddoukaiōn|Sadducees|G4523|N-GMP
 v12 Τότε|Tote|Then|G5119|Adv
 v12 συνῆκαν|synēkan|they understood|G4920|V-AIA-3P
 v12 ὅτι|hoti|that|G3754|Conj
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 εἶπεν|eipen|He was not telling [them]|G2036|V-AIA-3S
 v12 προσέχειν|prosechein|to beware|G4337|V-PNA
 v12 ἀπὸ|apo|of|G575|Prep
@@ -257,7 +257,7 @@ v17 ὅτι|hoti|For [this]|G3754|Conj
 v17 σὰρξ|sarx|{by} flesh|G4561|N-NFS
 v17 καὶ|kai|and|G2532|Conj
 v17 αἷμα|haima|blood|G129|N-NNS
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 ἀπεκάλυψέν|apekalypsen|was not revealed|G601|V-AIA-3S
 v17 σοι|soi|to you|G4771|PPro-D2S
 v17 ἀλλ’|all’|but [by]|G235|Conj
@@ -288,7 +288,7 @@ v18 ἐκκλησίαν|ekklēsian|church|G1577|N-AFS
 v18 καὶ|kai|and|G2532|Conj
 v18 πύλαι|pylai|[the] gates|G4439|N-NFP
 v18 ᾅδου|hadou|of Hades|G86|N-GMS
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 κατισχύσουσιν|katischysousin|will not prevail against|G2729|V-FIA-3P
 v18 αὐτῆς|autēs|it|G846|PPro-GF3S
 v19 δώσω|dōsō|I will give|G1325|V-FIA-1S
@@ -301,7 +301,7 @@ v19 τῶν|tōn|of|G3588|Art-GMP
 v19 οὐρανῶν|ouranōn|heaven|G3772|N-GMP
 v19 καὶ|kai|-|G2532|Conj
 v19 ὃ|ho|Whatever|G3739|RelPro-ANS
-v19 ἐὰν|ean|vvv|G1437|Conj
+v19 ἐὰν|ean|...|G1437|Conj
 v19 δήσῃς|dēsēs|you bind|G1210|V-ASA-2S
 v19 ἐπὶ|epi|on|G1909|Prep
 v19 τῆς|tēs|-|G3588|Art-GFS
@@ -398,7 +398,7 @@ v23 σκάνδαλον|skandalon|a stumbling block|G4625|N-NNS
 v23 εἶ|ei|You are|G1510|V-PIA-2S
 v23 ἐμοῦ|emou|to Me|G1473|PPro-G1S
 v23 ὅτι|hoti|For|G3754|Conj
-v23 οὐ|ou|vvv|G3756|Adv
+v23 οὐ|ou|...|G3756|Adv
 v23 φρονεῖς|phroneis|you do not have in mind|G5426|V-PIA-2S
 v23 τὰ|ta|the things|G3588|Art-ANP
 v23 τοῦ|tou|-|G3588|Art-GMS
@@ -432,7 +432,7 @@ v24 ἀκολουθείτω|akoloutheitō|follow|G190|V-PMA-3S
 v24 μοι|moi|Me|G1473|PPro-D1S
 v25 ὃς|hos|whoever|G3739|RelPro-NMS
 v25 γὰρ|gar|For|G1063|Conj
-v25 ἐὰν|ean|vvv|G1437|Conj
+v25 ἐὰν|ean|...|G1437|Conj
 v25 θέλῃ|thelē|wants|G2309|V-PSA-3S
 v25 τὴν|tēn|-|G3588|Art-AFS
 v25 ψυχὴν|psychēn|life|G5590|N-AFS
@@ -508,8 +508,8 @@ v28 τῶν|tōn|who|G3588|Art-GMP
 v28 ὧδε|hōde|here|G5602|Adv
 v28 ἑστώτων|hestōtōn|standing|G2476|V-RPA-GMP
 v28 οἵτινες|hoitines|-|G3748|RelPro-NMP
-v28 οὐ|ou|vvv|G3756|Adv
-v28 μὴ|mē|vvv|G3361|Adv
+v28 οὐ|ou|...|G3756|Adv
+v28 μὴ|mē|...|G3361|Adv
 v28 γεύσωνται|geusōntai|will not taste|G1089|V-ASM-3P
 v28 θανάτου|thanatou|death|G2288|N-GMS
 v28 ἕως|heōs|before|G2193|Conj

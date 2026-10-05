@@ -45,7 +45,7 @@ v4 עַל־|‘al-|on|H5921|Prep
 v4 הַ֨ר|har|the Mount|H2022|N-msc
 v4 הַזֵּתִ֜ים|haz·zē·ṯīm|of Olives|H2132|Art | N-mp
 v4 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
-v4 עַל־|‘al-||H5921|Prep
+v4 עַל־|‘al-|-|H5921|Prep
 v4 פְּנֵ֥י|pə·nê|-|H6440|N-cpc
 v4 יְרוּשָׁלִַם֮|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v4 מִקֶּדֶם֒|miq·qe·ḏem|east|H6924|Prep-m | N-ms

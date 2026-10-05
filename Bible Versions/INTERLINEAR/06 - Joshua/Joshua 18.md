@@ -13,7 +13,7 @@ v1 וְהָאָ֥רֶץ|wə·hā·’ā·reṣ|And though the land|H776|Conj-w, 
 v1 נִכְבְּשָׁ֖ה|niḵ·bə·šāh|was subdued|H3533|V-Nifal-Perf-3fs
 v1 לִפְנֵיהֶֽם׃|lip̄·nê·hem|before them|H6440|Prep-l | N-mpc | 3mp
 v2 וַיִּוָּֽתְרוּ֙|way·yiw·wā·ṯə·rū|there were still|H3498|Conj-w | V-Nifal-ConsecImperf-3mp
-v2 בִּבְנֵ֣י|biḇ·nê|vvv|H1121|Prep-b | N-mpc
+v2 בִּבְנֵ֣י|biḇ·nê|...|H1121|Prep-b | N-mpc
 v2 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
 v2 לֹֽא־|lō-|had not|H3808|Adv-NegPrt
@@ -42,7 +42,7 @@ v3 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v3 אֱלֹהֵ֥י|’ĕ·lō·hê|the God|H430|N-mpc
 v3 אֲבֽוֹתֵיכֶֽם׃|’ă·ḇō·w·ṯê·ḵem|of your fathers|H1|N-mpc | 2mp
 v4 הָב֥וּ|hā·ḇū|Appoint|H3051|V-Qal-Imp-mp
-v4 לָכֶ֛ם|lā·ḵem||H0|Prep | 2mp
+v4 לָכֶ֛ם|lā·ḵem|-|H0|Prep | 2mp
 v4 שְׁלֹשָׁ֥ה|šə·lō·šāh|three|H7969|Number-ms
 v4 אֲנָשִׁ֖ים|’ă·nā·šîm|men|H582|N-mp
 v4 לַשָּׁ֑בֶט|laš·šā·ḇeṭ|from each tribe|H7626|Prep-l, Art | N-ms
@@ -145,7 +145,7 @@ v9 וַיִּכְתְּב֧וּהָ|way·yiḵ·tə·ḇū·hā|mapping it|H3789
 v9 לֶֽעָרִ֛ים|le·‘ā·rîm|city by city|H5892|Prep-l, Art | N-fp
 v9 לְשִׁבְעָ֥ה|lə·šiḇ·‘āh|into seven|H7651|Prep-l | Number-ms
 v9 חֲלָקִ֖ים|ḥă·lā·qîm|portions|H2506|N-mp
-v9 עַל־|‘al-||H5921|Prep
+v9 עַל־|‘al-|-|H5921|Prep
 v9 סֵ֑פֶר|sê·p̄er|with the document|H5612|N-ms
 v9 וַיָּבֹ֧אוּ|way·yā·ḇō·’ū|Then they returned|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v9 אֶל־|’el-|to|H413|Prep
@@ -167,7 +167,7 @@ v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 הָאָ֛רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v10 לִבְנֵ֥י|liḇ·nê|to the Israelites|H1121|Prep-l | N-mpc
 v10 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
-v10 כְּמַחְלְקֹתָֽם׃פ|kə·maḥ·lə·qō·ṯām|according to their divisions|H4256|Prep-k | N-fpc | 3mp
+v10 כְּמַחְלְקֹתָֽם׃|kə·maḥ·lə·qō·ṯām|according to their divisions|H4256|Prep-k | N-fpc | 3mp
 v11 וַיַּ֗עַל|way·ya·‘al|came up|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v11 גּוֹרַ֛ל|gō·w·ral|The [first] lot|H1486|N-msc
 v11 מַטֵּ֥ה|maṭ·ṭêh|of the tribe|H4294|N-msc
@@ -181,10 +181,10 @@ v11 בֵּ֚ין|bên|between|H996|Prep
 v11 בְּנֵ֣י|bə·nê|the [tribes]|H1121|N-mpc
 v11 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v11 וּבֵ֖ין|ū·ḇên|and|H996|Conj-w | Prep
-v11 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v11 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v11 יוֹסֵֽף׃|yō·w·sêp̄|Joseph|H3130|N-proper-ms
 v12 וַיְהִ֨י|way·hî|began|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v12 לָהֶ֧ם|lā·hem||H0|Prep | 3mp
+v12 לָהֶ֧ם|lā·hem|-|H0|Prep | 3mp
 v12 הַגְּב֛וּל|hag·gə·ḇūl|their border|H1366|Art | N-ms
 v12 לִפְאַ֥ת|lip̄·’aṯ|side|H6285|Prep-l | N-fsc
 v12 צָפ֖וֹנָה|ṣā·p̄ō·w·nāh|On the north|H6828|N-fs | 3fs
@@ -202,7 +202,7 @@ v12 יָ֔מָּה|yām·māh|west|H3220|N-ms | 3fs
 v12 וְהָיָה|wə·hå̄·yå̄h|and came out|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v12 תֹּֽצְאֹתָ֔יו|tō·ṣə·’ō·ṯāw|...|H8444|N-fpc | 3ms
 v12 מִדְבַּ֖רָה|miḏ·ba·rāh|at the wilderness|H4057|N-ms | 3fs
-v12 בֵּ֥ית|bêṯ|vvv|H1007|Prep
+v12 בֵּ֥ית|bêṯ|...|H1007|Prep
 v12 אָֽוֶן׃|’ā·wen|of Beth-aven|H1007|N-proper-fs
 v13 וְעָבַר֩|wə·‘ā·ḇar|crossed over|H5674|Conj-w | V-Qal-ConjPerf-3ms
 v13 מִשָּׁ֨ם|miš·šām|From there|H8033|Prep-m | Adv
@@ -213,11 +213,11 @@ v13 כֶּ֤תֶף|ke·ṯep̄|slope|H3802|N-fsc
 v13 ל֙וּזָה֙|lū·zāh|of Luz|H3870|N-proper-fs | 3fs
 v13 נֶ֔גְבָּה|neḡ·bāh|the southern|H5045|N-ms | 3fs
 v13 הִ֖יא|hî|(that is|H1931|Pro-3fs
-v13 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v13 בֵּֽית־|bêṯ-|...|H1008|Prep
 v13 אֵ֑ל|’êl|Bethel|H1008|N-proper-fs
 v13 וְיָרַ֤ד|wə·yā·raḏ|and went down|H3381|Conj-w | V-Qal-ConjPerf-3ms
 v13 הַגְּבוּל֙|hag·gə·ḇūl|-|H1366|Art | N-ms
-v13 עַטְר֣וֹת|‘aṭ·rō·wṯ|vvv|H5853|
+v13 עַטְר֣וֹת|‘aṭ·rō·wṯ|...|H5853|
 v13 אַדָּ֔ר|’ad·dār|to Ataroth-addar|H5853|N-proper-fs
 v13 עַל־|‘al-|on|H5921|Prep
 v13 הָהָ֕ר|hā·hār|the hill|H2022|Art | N-ms
@@ -228,7 +228,7 @@ v13 חֹר֖וֹן|ḥō·rō·wn|Beth-horon|H1032|Prep | N-proper-fs
 v13 תַּחְתּֽוֹן׃|taḥ·tō·wn|Lower|H8481|Adj-ms
 v14 וְתָאַ֣ר|wə·ṯā·’ar|curved|H8388|Conj-w | V-Qal-ConjPerf-3ms
 v14 הַגְּבוּל֩|hag·gə·ḇūl|the border|H1366|Art | N-ms
-v14 וְנָסַ֨ב|wə·nā·saḇ||H5437|Conj-w | V-Nifal-ConjPerf-3ms
+v14 וְנָסַ֨ב|wə·nā·saḇ|-|H5437|Conj-w | V-Nifal-ConjPerf-3ms
 v14 לִפְאַת־|lip̄·’aṯ-|side|H6285|Prep-l | N-fsc
 v14 יָ֜ם|yām|On the west|H3220|N-ms
 v14 נֶ֗גְבָּה|neḡ·bāh|southward|H5045|N-ms | 3fs
@@ -237,16 +237,16 @@ v14 הָהָר֙|hā·hār|the hill|H2022|Art | N-ms
 v14 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v14 עַל־|‘al-|facing|H5921|Prep
 v14 פְּנֵ֥י|pə·nê|...|H6440|N-cpc
-v14 בֵית־|ḇêṯ-|vvv|H1032|Prep
+v14 בֵית־|ḇêṯ-|...|H1032|Prep
 v14 חֹרוֹן֮|ḥō·rō·wn|Beth-horon|H1032|N-proper-fs
 v14 נֶגְבָּה֒|neḡ·bāh|on the south|H5045|N-ms | 3fs
 v14 וְהָיָה|wə·hå̄·yå̄h|and came out|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v14 תֹֽצְאֹתָ֗יו|ṯō·ṣə·’ō·ṯāw|...|H8444|N-fpc | 3ms
 v14 אֶל־|’el-|at|H413|Prep
-v14 קִרְיַת־|qir·yaṯ-|vvv|H7154|
+v14 קִרְיַת־|qir·yaṯ-|...|H7154|
 v14 בַּ֙עַל֙|ba·‘al|Kiriath-baal|H7154|N-proper-fs
 v14 הִ֚יא|hî|(that is|H1931|Pro-3fs
-v14 קִרְיַ֣ת|qir·yaṯ|vvv|H7157|
+v14 קִרְיַ֣ת|qir·yaṯ|...|H7157|
 v14 יְעָרִ֔ים|yə·‘ā·rîm|Kiriath-jearim|H7157|N-proper-fs
 v14 עִ֖יר|‘îr|a city|H5892|N-fsc
 v14 בְּנֵ֣י|bə·nê|of the sons|H1121|N-mpc
@@ -257,7 +257,7 @@ v14 יָֽם׃|yām|was the western|H3220|N-ms
 v15 וּפְאַת־|ū·p̄ə·’aṯ-|side|H6285|Conj-w | N-fsc
 v15 נֶ֕גְבָּה|neḡ·bāh|On the south|H5045|N-ms | 3fs
 v15 מִקְצֵ֖ה|miq·ṣêh|began at the outskirts|H7097|Prep-m | N-msc
-v15 קִרְיַ֣ת|qir·yaṯ|vvv|H7157|
+v15 קִרְיַ֣ת|qir·yaṯ|...|H7157|
 v15 יְעָרִ֑ים|yə·‘ā·rîm|of Kiriath-jearim|H7157|N-proper-fs
 v15 וְיָצָ֤א|wə·yā·ṣā|and extended|H3318|Conj-w | V-Qal-ConjPerf-3ms
 v15 הַגְּבוּל֙|hag·gə·ḇūl|the border|H1366|Art | N-ms
@@ -290,12 +290,12 @@ v16 כֶּ֤תֶף|ke·ṯep̄|slope|H3802|N-fsc
 v16 הַיְבוּסִי֙|hay·ḇū·sî|of the Jebusites|H2983|Art | N-proper-ms
 v16 נֶ֔גְבָּה|neḡ·bāh|the southern|H5045|N-ms | 3fs
 v16 וְיָרַ֖ד|wə·yā·raḏ|and downward|H3381|Conj-w | V-Qal-ConjPerf-3ms
-v16 עֵ֥ין|‘ên|vvv|H5883|
+v16 עֵ֥ין|‘ên|...|H5883|
 v16 רֹגֵֽל׃|rō·ḡêl|to En-rogel|H5883|N-proper-fs
 v17 וְתָאַ֣ר|wə·ṯā·’ar|From there it curved|H8388|Conj-w | V-Qal-ConjPerf-3ms
 v17 מִצָּפ֗וֹן|miṣ·ṣā·p̄ō·wn|northward|H6828|Prep-m | N-fs
 v17 וְיָצָא֙|wə·yā·ṣā|and proceeded|H3318|Conj-w | V-Qal-ConjPerf-3ms
-v17 עֵ֣ין|‘ên|vvv|H5885|
+v17 עֵ֣ין|‘ên|...|H5885|
 v17 שֶׁ֔מֶשׁ|še·meš|to En-shemesh|H5885|N-proper-fs
 v17 וְיָצָא֙|wə·yā·ṣā|...|H3318|Conj-w | V-Qal-ConjPerf-3ms
 v17 אֶל־|’el-|and on to|H413|Prep
@@ -321,7 +321,7 @@ v19 וְעָבַ֨ר|wə·‘ā·ḇar|continued|H5674|Conj-w | V-Qal-ConjPerf-3
 v19 הַגְּב֜וּל|hag·gə·ḇūl|The border|H1366|Art | N-ms
 v19 אֶל־|’el-|to|H413|Prep
 v19 כֶּ֣תֶף|ke·ṯep̄|slope|H3802|N-fsc
-v19 בֵּית־|bêṯ-|vvv|H1031|Prep
+v19 בֵּית־|bêṯ-|...|H1031|Prep
 v19 חָגְלָה֮|ḥā·ḡə·lāh|of Beth-hoglah|H1031|N-proper-fs
 v19 צָפוֹנָה֒|ṣā·p̄ō·w·nāh|the northern|H6828|N-fs | 3fs
 v19 וְהָיָה|wə·hå̄·yå̄h|and came out|H1961|Conj-w | V-Qal-ConjPerf-3cp
@@ -358,19 +358,19 @@ v21 בְּנֵ֥י|bə·nê|-|H1121|N-mpc
 v21 בִנְיָמִ֖ן|ḇin·yā·min|of Benjamin|H1144|N-proper-ms
 v21 לְמִשְׁפְּחֽוֹתֵיהֶ֑ם|lə·miš·pə·ḥō·w·ṯê·hem|of the clans|H4940|Prep-l | N-fpc | 3mp
 v21 יְרִיח֥וֹ|yə·rî·ḥōw|Jericho|H3405|N-proper-fs
-v21 וּבֵית־|ū·ḇêṯ-|vvv|H1031|
+v21 וּבֵית־|ū·ḇêṯ-|...|H1031|
 v21 חָגְלָ֖ה|ḥā·ḡə·lāh|Beth-hoglah|H1031|Conj-w | N-proper-fs
 v21 וְעֵ֥מֶק|wə·‘ê·meq|...|H6010|N-proper-fs
 v21 קְצִֽיץ׃|qə·ṣîṣ|Emek-keziz|H7104|Conj-w | N-proper-fs
-v22 וּבֵ֧ית|ū·ḇêṯ|vvv|H1026|
+v22 וּבֵ֧ית|ū·ḇêṯ|...|H1026|
 v22 הָֽעֲרָבָ֛ה|hā·‘ă·rā·ḇāh|Beth-arabah|H1026|Conj-w | N-proper-fs
 v22 וּצְמָרַ֖יִם|ū·ṣə·mā·ra·yim|Zemaraim|H6787|Conj-w | N-proper-fs
-v22 וּבֵֽית־|ū·ḇêṯ-|vvv|H1008|
+v22 וּבֵֽית־|ū·ḇêṯ-|...|H1008|
 v22 אֵֽל׃|’êl|Bethel|H1008|Conj-w | N-proper-fs
 v23 וְהָעַוִּ֥ים|wə·hā·‘aw·wîm|Avvim|H5761|Conj-w, Art | N-proper-fs
 v23 וְהַפָּרָ֖ה|wə·hap·pā·rāh|Parah|H6511|Conj-w, Art | N-proper-fs
 v23 וְעָפְרָֽה׃|wə·‘ā·p̄ə·rāh|Ophrah|H6084|Conj-w | N-proper-fs
-v24 וּכְפַ֧ר|ū·ḵə·p̄ar|vvv|H3726|
+v24 וּכְפַ֧ר|ū·ḵə·p̄ar|...|H3726|
 v24 הָעַמֹּנִי|hå̄·ʿam·mō·nī|Chephar-ammoni|H3726|N-proper-fs
 v24 וְהָֽעָפְנִ֖י|wə·hā·‘ā·p̄ə·nî|Ophni|H6078|Conj-w, Art | N-proper-fs
 v24 וָגָ֑בַע|wā·ḡā·ḇa‘|and Geba|H1387|Conj-w | N-proper-fs
@@ -402,4 +402,4 @@ v28 זֹ֛את|zōṯ|This|H2063|Pro-fs
 v28 נַֽחֲלַ֥ת|na·ḥă·laṯ|was the inheritance|H5159|N-fsc
 v28 בְּנֵֽי־|bə·nê-|of the tribe|H1121|N-mpc
 v28 בִנְיָמִ֖ן|ḇin·yā·min|of Benjamin|H1144|N-proper-ms
-v28 לְמִשְׁפְּחֹתָֽם׃פ|lə·miš·pə·ḥō·ṯām|of the clans|H4940|Prep-l | N-fpc | 3mp
+v28 לְמִשְׁפְּחֹתָֽם׃|lə·miš·pə·ḥō·ṯām|of the clans|H4940|Prep-l | N-fpc | 3mp

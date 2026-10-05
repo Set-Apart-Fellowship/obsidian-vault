@@ -99,7 +99,7 @@ v12 תְּבוּנָֽה׃|tə·ḇū·nāh|and understanding|H8394|N-fs
 v13 עִ֭מּוֹ|‘im·mōw|belong to God|H5973|Prep | 3ms
 v13 חָכְמָ֣ה|ḥāḵ·māh|Wisdom|H2451|N-fs
 v13 וּגְבוּרָ֑ה|ū·ḡə·ḇū·rāh|and strength|H1369|Conj-w | N-fs
-v13 ל֝֗וֹ|lōw||H0|Prep | 3ms
+v13 ל֝֗וֹ|lōw|-|H0|Prep | 3ms
 v13 עֵצָ֥ה|‘ê·ṣāh|counsel|H6098|N-fs
 v13 וּתְבוּנָֽה׃|ū·ṯə·ḇū·nāh|and understanding are His|H8394|Conj-w | N-fs
 v14 הֵ֣ן|hên|What|H2005|Interjection
@@ -121,7 +121,7 @@ v15 אָֽרֶץ׃|’ā·reṣ|the land|H776|N-fs
 v16 עִ֭מּוֹ|‘im·mōw|belong to Him|H5973|Prep | 3ms
 v16 עֹ֣ז|‘ōz|and power|H5797|N-ms
 v16 וְתֽוּשִׁיָּ֑ה|wə·ṯū·šī·yå̄h|True wisdom|H8454|Conj-w | N-fs
-v16 ל֝֗וֹ|lōw||H0|Prep | 3ms
+v16 ל֝֗וֹ|lōw|-|H0|Prep | 3ms
 v16 שֹׁגֵ֥ג|šō·ḡêḡ|The deceived|H7683|V-Qal-Prtcpl-ms
 v16 וּמַשְׁגֶּֽה׃|ū·maš·geh|and the deceiver [are His]|H7686|Conj-w | V-Hifil-Prtcpl-ms
 v17 מוֹלִ֣יךְ|mō·w·lîḵ|away|H1980|V-Hifil-Prtcpl-ms
@@ -169,7 +169,7 @@ v23 וַיַּנְחֵֽם׃|way·yan·ḥêm|then disperses them|H5148|Conj-w |
 v24 מֵסִ֗יר|mê·sîr|He deprives|H5493|V-Hifil-Prtcpl-ms
 v24 לֵ֭ב|lêḇ|of reason|H3820|N-msc
 v24 רָאשֵׁ֣י|rā·šê|leaders|H7218|N-mpc
-v24 עַם־|‘am-||H5971|N-msc
+v24 עַם־|‘am-|-|H5971|N-msc
 v24 הָאָ֑רֶץ|hā·’ā·reṣ|the earth's|H776|Art | N-fs
 v24 וַ֝יַּתְעֵ֗ם|way·yaṯ·‘êm|and makes them wander|H8582|Conj-w | V-Hifil-ConsecImperf-3ms | 3mp
 v24 בְּתֹ֣הוּ|bə·ṯō·hū|wasteland|H8414|Prep-b | N-ms

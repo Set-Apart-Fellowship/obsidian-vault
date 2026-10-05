@@ -11,7 +11,7 @@ v1 הָאָדָֽם׃|hā·’ā·ḏām|mankind|H120|Art | N-ms
 v2 אִ֣ישׁ|’îš|a man|H376|N-ms
 v2 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v2 יִתֶּן־|yit·ten-|gives|H5414|V-Qal-Imperf-3ms
-v2 ל֣וֹ|lōw||H0|Prep | 3ms
+v2 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v2 הָאֱלֹהִ֡ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
 v2 עֹשֶׁר֩|‘ō·šer|riches|H6239|N-ms
 v2 וּנְכָסִ֨ים|ū·nə·ḵā·sîm|wealth|H5233|Conj-w | N-mp
@@ -48,7 +48,7 @@ v3 שֶׁיִּהְי֣וּ|še·yih·yū|-|H1961|Pro-r | V-Qal-Imperf-3mp
 v3 יְמֵֽי־|yə·mê-|he lives|H3117|N-mpc
 v3 שָׁנָ֗יו|šā·nāw|...|H8141|N-fpc | 3ms
 v3 וְנַפְשׁוֹ֙|wə·nap̄·šōw|if he|H5315|Conj-w | N-fsc | 3ms
-v3 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v3 לֹא־|lō-|...|H3808|Adv-NegPrt
 v3 תִשְׂבַּ֣ע|ṯiś·ba‘|is unsatisfied|H7646|V-Qal-Imperf-3fs
 v3 מִן־|min-|with|H4480|Prep
 v3 הַטּוֹבָ֔ה|haṭ·ṭō·w·ḇāh|his prosperity|H2896|Art | N-fs
@@ -56,7 +56,7 @@ v3 וְגַם־|wə·ḡam-|even|H1571|Conj
 v3 קְבוּרָ֖ה|qə·ḇū·rāh|receive a proper burial|H6900|N-fs
 v3 לֹא־|lō-|and does not|H3808|Adv-NegPrt
 v3 הָ֣יְתָה|hā·yə·ṯāh|...|H1961|V-Qal-Perf-3fs
-v3 לּ֑וֹ|lōw||H0|Prep | 3ms
+v3 לּ֑וֹ|lōw|-|H0|Prep | 3ms
 v3 אָמַ֕רְתִּי|’ā·mar·tî|I say|H559|V-Qal-Perf-1cs
 v3 ט֥וֹב|ṭō·wḇ|is better off|H2896|Adj-ms
 v3 מִמֶּ֖נּוּ|mim·men·nū|than he|H4480|Prep | 3ms
@@ -138,7 +138,7 @@ v10 עִ֥ם|‘im|with|H5973|Prep
 v10 שֶׁהַתְקִיף|šɛ·haṯ·qīp̄|one stronger|H8630|Pro-r | Adj-ms
 v10 מִמֶּֽנּוּ׃|mim·men·nū|than he|H4480|Prep | 3ms
 v11 כִּ֛י|kî|For|H3588|Conj
-v11 יֵשׁ־|yêš-|vvv|H3426|Adv
+v11 יֵשׁ־|yêš-|...|H3426|Adv
 v11 דְּבָרִ֥ים|də·ḇā·rîm|words|H1697|N-mp
 v11 הַרְבֵּ֖ה|har·bêh|the more|H7235|V-Hifil-InfAbs
 v11 מַרְבִּ֣ים|mar·bîm|the more|H7235|V-Hifil-Prtcpl-mp

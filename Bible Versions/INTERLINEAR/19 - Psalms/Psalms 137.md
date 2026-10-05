@@ -64,7 +64,7 @@ v7 עָ֤רוּ׀|‘ā·rū|Destroy it|H6168|V-Piel-Imp-mp
 v7 עָ֑רוּ|‘ā·rū|tear it down|H6168|V-Piel-Imp-mp
 v7 עַ֝֗ד|‘aḏ|to|H5704|Prep
 v7 הַיְס֥וֹד|hay·sō·wḏ|its foundations|H3247|Art | N-ms
-v7 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v7 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v8 בַּת־|baṯ-|O Daughter|H1323|N-fsc
 v8 בָּבֶ֗ל|bā·ḇel|of Babylon|H894|N-proper-fs
 v8 הַשְּׁד֫וּדָ֥ה|haš·šə·ḏū·ḏāh|doomed to destruction|H7703|Art | V-Qal-QalPassPrtcpl-fs

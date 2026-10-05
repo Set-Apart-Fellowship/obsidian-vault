@@ -40,7 +40,7 @@ v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 אַרְצָהּ֙|’ar·ṣāh|her land|H776|N-fsc | 3fs
 v3 לְשַׁמָּ֔ה|lə·šam·māh|a desolation|H8047|Prep-l | N-fs
 v3 וְלֹֽא־|wə·lō-|No one|H3808|Conj-w | Adv-NegPrt
-v3 יִהְיֶ֥ה|yih·yeh|vvv|H1961|V-Qal-Imperf-3ms
+v3 יִהְיֶ֥ה|yih·yeh|...|H1961|V-Qal-Imperf-3ms
 v3 יוֹשֵׁ֖ב|yō·wō·šêḇ|will live|H3427|V-Qal-Prtcpl-ms
 v3 בָּ֑הּ|bāh|in it|H0|Prep | 3fs
 v3 מֵאָדָ֥ם|mê·’ā·ḏām|both man|H120|Prep-m | N-ms
@@ -80,7 +80,7 @@ v5 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v5 בְּרִ֥ית|bə·rîṯ|covenant|H1285|N-fsc
 v5 עוֹלָ֖ם|‘ō·w·lām|in an everlasting|H5769|N-ms
 v5 לֹ֥א|lō|that will never|H3808|Adv-NegPrt
-v5 תִשָּׁכֵֽחַ׃ס|ṯiš·šā·ḵê·aḥ|be forgotten|H7911|V-Nifal-Imperf-3fs
+v5 תִשָּׁכֵֽחַ׃|ṯiš·šā·ḵê·aḥ|be forgotten|H7911|V-Nifal-Imperf-3fs
 v6 צֹ֤אן|ṣōn|sheep|H6629|N-cs
 v6 אֹֽבְדוֹת֙|’ō·ḇə·ḏō·wṯ|lost|H6|V-Qal-Prtcpl-fp
 v6 הָיָה|hå̄·yå̄h|are|H1961|V-Qal-Perf-3cp
@@ -110,7 +110,7 @@ v7 נְוֵה־|nə·wêh-|pasture|H5116|N-msc
 v7 צֶ֔דֶק|ṣe·ḏeq|their true|H6664|N-ms
 v7 וּמִקְוֵ֥ה|ū·miq·wêh|the hope|H4723|Conj-w | N-msc
 v7 אֲבֽוֹתֵיהֶ֖ם|’ă·ḇō·w·ṯê·hem|of their fathers|H1|N-mpc | 3mp
-v7 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v7 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v8 נֻ֚דוּ|nu·ḏū|Flee|H5110|V-Qal-Imp-mp
 v8 מִתּ֣וֹךְ|mit·tō·wḵ|from the midst|H8432|Prep-m | N-msc
 v8 בָּבֶ֔ל|bā·ḇel|of Babylon|H894|N-proper-fs
@@ -241,7 +241,7 @@ v16 עַמּוֹ֙|‘am·mōw|his own people|H5971|N-msc | 3ms
 v16 יִפְנ֔וּ|yip̄·nū|will turn|H6437|V-Qal-Imperf-3mp
 v16 וְאִ֥ישׁ|wə·’îš|each|H376|Conj-w | N-ms
 v16 לְאַרְצ֖וֹ|lə·’ar·ṣōw|to his own land|H776|Prep-l | N-fsc | 3ms
-v16 יָנֻֽסוּ׃ס|yā·nu·sū|will flee|H5127|V-Qal-Imperf-3mp
+v16 יָנֻֽסוּ׃|yā·nu·sū|will flee|H5127|V-Qal-Imperf-3mp
 v17 שֶׂ֧ה|śeh|flock|H7716|N-ms
 v17 פְזוּרָ֛ה|p̄ə·zū·rāh|is a scattered|H6340|V-Qal-QalPassPrtcpl-fs
 v17 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
@@ -256,7 +256,7 @@ v17 הָאַחֲרוֹן֙|hā·’a·ḥă·rō·wn|the last|H314|Art | Adj-ms
 v17 עִצְּמ֔וֹ|‘iṣ·ṣə·mōw|to crush his bones|H6105|V-Piel-Perf-3ms | 3ms
 v17 נְבוּכַדְרֶאצַּ֖ר|nə·ḇū·ḵaḏ·reṣ·ṣar|was Nebuchadnezzar|H5019|N-proper-ms
 v17 מֶ֥לֶךְ|me·leḵ|king|H4428|N-msc
-v17 בָּבֶֽל׃ס|bā·ḇel|of Babylon|H894|N-proper-fs
+v17 בָּבֶֽל׃|bā·ḇel|of Babylon|H894|N-proper-fs
 v18 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v18 כֹּֽה־|kōh-|this is what|H3541|Adv
 v18 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -307,7 +307,7 @@ v20 וְלֹ֣א|wə·lō|but they will not|H3808|Conj-w | Adv-NegPrt
 v20 תִמָּצֶ֑אינָה|ṯim·mā·ṣe·nāh|be found|H4672|V-Nifal-Imperf-3fp
 v20 כִּ֥י|kî|for|H3588|Conj
 v20 אֶסְלַ֖ח|’es·laḥ|I will forgive|H5545|V-Qal-Imperf-1cs
-v20 לַאֲשֶׁ֥ר|la·’ă·šer|vvv|H834|Prep-l | Pro-r
+v20 לַאֲשֶׁ֥ר|la·’ă·šer|...|H834|Prep-l | Pro-r
 v20 אַשְׁאִֽיר׃|’aš·’îr|the remnant I preserve|H7604|V-Hifil-Imperf-1cs
 v21 עַל־|‘al-|against|H5921|Prep
 v21 הָאָ֤רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
@@ -325,7 +325,7 @@ v21 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v21 וַעֲשֵׂ֕ה|wa·‘ă·śêh|Do|H6213|Conj-w | V-Qal-Imp-ms
 v21 כְּכֹ֖ל|kə·ḵōl|all|H3605|Prep-k | N-ms
 v21 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
-v21 צִוִּיתִֽיךָ׃ס|ṣiw·wî·ṯî·ḵā|I have commanded you|H6680|V-Piel-Perf-1cs | 2ms
+v21 צִוִּיתִֽיךָ׃|ṣiw·wî·ṯî·ḵā|I have commanded you|H6680|V-Piel-Perf-1cs | 2ms
 v22 ק֥וֹל|qō·wl|The noise|H6963|N-msc
 v22 מִלְחָמָ֖ה|mil·ḥā·māh|of battle|H4421|N-fs
 v22 בָּאָ֑רֶץ|bā·’ā·reṣ|is in the land|H776|Prep-b, Art | N-fs
@@ -348,7 +348,7 @@ v24 וְגַם־|wə·ḡam-|and you|H1571|Conj
 v24 נִלְכַּדְתְּ֙|nil·kaḏt|were caught|H3920|V-Nifal-Perf-2fs
 v24 בָּבֶ֔ל|bā·ḇel|O Babylon|H894|N-proper-fs
 v24 וְאַ֖תְּ|wə·’at|before you|H859|Conj-w | Pro-2fs
-v24 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v24 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v24 יָדָ֑עַתְּ|yā·ḏā·‘at|knew it|H3045|V-Qal-Perf-2fs
 v24 נִמְצֵאת֙|nim·ṣêṯ|You were found|H4672|V-Nifal-Perf-2fs
 v24 וְגַם־|wə·ḡam-|...|H1571|Conj
@@ -396,7 +396,7 @@ v27 כִּֽי־|kî-|for|H3588|Conj
 v27 בָ֥א|ḇā|has come|H935|V-Qal-Perf-3ms
 v27 יוֹמָ֖ם|yō·w·mām|their day|H3117|N-msc | 3mp
 v27 עֵ֥ת|‘êṯ|the time|H6256|N-csc
-v27 פְּקֻדָּתָֽם׃ס|pə·qud·dā·ṯām|of their punishment|H6486|N-fsc | 3mp
+v27 פְּקֻדָּתָֽם׃|pə·qud·dā·ṯām|of their punishment|H6486|N-fsc | 3mp
 v28 ק֥וֹל|qō·wl|Listen to|H6963|N-msc
 v28 נָסִ֛ים|nā·sîm|the fugitives|H5127|V-Qal-Prtcpl-mp
 v28 וּפְלֵטִ֖ים|ū·p̄ə·lê·ṭîm|and refugees|H6412|Conj-w | N-mp
@@ -449,7 +449,7 @@ v30 יִדַּ֛מּוּ|yid·dam·mū|will be silenced|H1826|V-Nifal-Imperf-3mp
 v30 בַּיּ֥וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v30 הַה֖וּא|ha·hū|in that|H1931|Art | Pro-3ms
 v30 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v30 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v30 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v31 הִנְנִ֤י|hin·nî|Behold|H2005|Interjection | 1cs
 v31 אֵלֶ֙יךָ֙|’ê·le·ḵā|I am against you|H413|Prep | 2ms
 v31 זָד֔וֹן|zā·ḏō·wn|O arrogant one|H2087|N-ms
@@ -466,14 +466,14 @@ v32 וְכָשַׁ֤ל|wə·ḵā·šal|will stumble|H3782|Conj-w | V-Qal-ConjPe
 v32 זָדוֹן֙|zā·ḏō·wn|The arrogant one|H2087|N-ms
 v32 וְנָפַ֔ל|wə·nā·p̄al|and fall|H5307|Conj-w | V-Qal-ConjPerf-3ms
 v32 וְאֵ֥ין|wə·’ên|with no|H369|Conj-w | Adv
-v32 ל֖וֹ|lōw||H0|Prep | 3ms
+v32 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v32 מֵקִ֑ים|mê·qîm|one to pick him up|H6965|V-Hifil-Prtcpl-ms
 v32 וְהִצַּ֤תִּי|wə·hiṣ·ṣat·tî|And I will kindle|H3341|Conj-w | V-Hifil-ConjPerf-1cs
 v32 אֵשׁ֙|’êš|a fire|H784|N-cs
 v32 בְּעָרָ֔יו|bə·‘ā·rāw|in his cities|H5892|Prep-b | N-fpc | 3ms
 v32 וְאָכְלָ֖ה|wə·’ā·ḵə·lāh|to consume|H398|Conj-w | V-Qal-ConjPerf-3fs
 v32 כָּל־|kāl-|all those|H3605|N-msc
-v32 סְבִיבֹתָֽיו׃ס|sə·ḇî·ḇō·ṯāw|around him|H5439|Adv | 3ms
+v32 סְבִיבֹתָֽיו׃|sə·ḇî·ḇō·ṯāw|around him|H5439|Adv | 3ms
 v33 כֹּ֤ה|kōh|This is what|H3541|Adv
 v33 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v33 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -487,7 +487,7 @@ v33 יַחְדָּ֑ו|yaḥ·dāw|as well|H3162|Adv
 v33 וְכָל־|wə·ḵāl|All|H3605|Conj-w | N-msc
 v33 שֹֽׁבֵיהֶם֙|šō·ḇê·hem|their captors|H7617|V-Qal-Prtcpl-mpc | 3mp
 v33 הֶחֱזִ֣יקוּ|he·ḥĕ·zî·qū|hold them fast|H2388|V-Hifil-Perf-3cp
-v33 בָ֔ם|ḇām||H0|Prep | 3mp
+v33 בָ֔ם|ḇām|-|H0|Prep | 3mp
 v33 מֵאֲנ֖וּ|mê·’ă·nū|refusing|H3985|V-Piel-Perf-3cp
 v33 שַׁלְּחָֽם׃|šal·lə·ḥām|to release them|H7971|V-Piel-Inf | 3mp
 v34 גֹּאֲלָ֣ם׀|gō·’ă·lām|Their Redeemer|H1350|V-Qal-Prtcpl-msc | 3mp
@@ -559,7 +559,7 @@ v39 אֶת־|’eṯ-|and|H854|Prep
 v39 אִיִּ֔ים|’î·yîm|hyenas|H338|N-mp
 v39 וְיָ֥שְׁבוּ|wə·yā·šə·ḇū|will dwell|H3427|Conj-w | V-Qal-ConjPerf-3cp
 v39 בָ֖הּ|ḇāh|there|H0|Prep | 3fs
-v39 בְּנ֣וֹת|bə·nō·wṯ|vvv|H1323|N-fpc
+v39 בְּנ֣וֹת|bə·nō·wṯ|...|H1323|N-fpc
 v39 יַֽעֲנָ֑ה|ya·‘ă·nāh|and ostriches|H3284|N-fs
 v39 וְלֹֽא־|wə·lō-|It will never|H3808|Conj-w | Adv-NegPrt
 v39 תֵשֵׁ֥ב|ṯê·šêḇ|be inhabited|H3427|V-Qal-Imperf-3fs
@@ -605,7 +605,7 @@ v42 וְכִידֹ֞ן|wə·ḵî·ḏōn|and spear|H3591|Conj-w | N-ms
 v42 יַחֲזִ֗יקוּ|ya·ḥă·zî·qū|They grasp|H2388|V-Hifil-Imperf-3mp
 v42 אַכְזָרִ֥י|’aḵ·zā·rî|cruel|H394|Adj-ms
 v42 הֵ֙מָּה֙|hêm·māh|they [are]|H1992|Pro-3mp
-v42 וְלֹ֣א|wə·lō|vvv|H3808|Conj-w | Adv-NegPrt
+v42 וְלֹ֣א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v42 יְרַחֵ֔מוּ|yə·ra·ḥê·mū|and merciless|H7355|V-Piel-Imperf-3mp
 v42 קוֹלָם֙|qō·w·lām|Their voice|H6963|N-msc | 3mp
 v42 כַּיָּ֣ם|kay·yām|like the sea|H3220|Prep-k, Art | N-ms
@@ -688,4 +688,4 @@ v46 נִרְעֲשָׁ֖ה|nir·‘ă·šāh|will quake|H7493|V-Nifal-Perf-3fs
 v46 הָאָ֑רֶץ|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v46 וּזְעָקָ֖ה|ū·zə·‘ā·qāh|a cry|H2201|Conj-w | N-fs
 v46 בַּגּוֹיִ֥ם|bag·gō·w·yim|among the nations|H1471|Prep-b, Art | N-mp
-v46 נִשְׁמָֽע׃ס|niš·mā‘|will be heard|H8085|V-Nifal-Perf-3ms
+v46 נִשְׁמָֽע׃|niš·mā‘|will be heard|H8085|V-Nifal-Perf-3ms

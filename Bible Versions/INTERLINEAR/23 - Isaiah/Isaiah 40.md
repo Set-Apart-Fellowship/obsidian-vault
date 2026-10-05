@@ -21,7 +21,7 @@ v2 מִיַּ֣ד|mî·yaḏ|from the hand|H3027|Prep-m | N-fsc
 v2 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v2 כִּפְלַ֖יִם|kip̄·la·yim|double|H3718|N-md
 v2 בְּכָל־|bə·ḵāl|for all|H3605|Prep-b | N-msc
-v2 חַטֹּאתֶֽיהָ׃ס|ḥaṭ·ṭō·ṯe·hā|her sins|H2403|N-fpc | 3fs
+v2 חַטֹּאתֶֽיהָ׃|ḥaṭ·ṭō·ṯe·hā|her sins|H2403|N-fpc | 3fs
 v3 ק֣וֹל|qō·wl|A voice|H6963|N-ms
 v3 קוֹרֵ֔א|qō·w·rê|of one calling|H7121|V-Qal-Prtcpl-ms
 v3 בַּמִּדְבָּ֕ר|bam·miḏ·bār|in the wilderness|H4057|Prep-b, Art | N-ms
@@ -54,7 +54,7 @@ v5 יַחְדָּ֔ו|yaḥ·dāw|together|H3162|Adv
 v5 כִּ֛י|kî|For|H3588|Conj
 v5 פִּ֥י|pî|the mouth|H6310|N-msc
 v5 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v5 דִּבֵּֽר׃ס|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms
+v5 דִּבֵּֽר׃|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms
 v6 ק֚וֹל|qō·wl|A voice|H6963|N-ms
 v6 אֹמֵ֣ר|’ō·mêr|says|H559|V-Qal-Prtcpl-ms
 v6 קְרָ֔א|qə·rā|Cry out|H7121|V-Qal-Imp-ms
@@ -87,12 +87,12 @@ v8 צִ֑יץ|ṣîṣ|[and] the flowers|H6731|N-ms
 v8 וּדְבַר־|ū·ḏə·ḇar-|but the word|H1697|Conj-w | N-msc
 v8 אֱלֹהֵ֖ינוּ|’ĕ·lō·hê·nū|of our God|H430|N-mpc | 1cp
 v8 יָק֥וּם|yā·qūm|stands|H6965|V-Qal-Imperf-3ms
-v8 לְעוֹלָֽם׃ס|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
+v8 לְעוֹלָֽם׃|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
 v9 עַ֣ל|‘al|on|H5921|Prep
 v9 הַר־|har-|mountain|H2022|N-ms
 v9 גָּבֹ֤הַ|gā·ḇō·ha|a high|H1364|Adj-ms
 v9 עֲלִי־|‘ă·lî-|Go up|H5927|V-Qal-Imp-fs
-v9 לָךְ֙|lāḵ||H0|Prep | 2fs
+v9 לָךְ֙|lāḵ|-|H0|Prep | 2fs
 v9 מְבַשֶּׂ֣רֶת|mə·ḇaś·śe·reṯ|herald of good news|H1319|V-Piel-Prtcpl-fsc
 v9 צִיּ֔וֹן|ṣî·yō·wn|O Zion|H6726|N-proper-fs
 v9 הָרִ֤ימִי|hā·rî·mî|Raise|H7311|V-Hifil-Imp-fs
@@ -116,7 +116,7 @@ v10 יָב֔וֹא|yā·ḇō·w|comes|H935|V-Qal-Imperf-3ms
 v10 וּזְרֹע֖וֹ|ū·zə·rō·‘ōw|and His arm|H2220|Conj-w | N-fsc | 3ms
 v10 מֹ֣שְׁלָה|mō·šə·lāh|establishes His rule|H4910|V-Qal-Prtcpl-fs
 v10 ל֑וֹ|lōw|...|H0|Prep | 3ms
-v10 הִנֵּ֤ה|hin·nêh||H2009|Interjection
+v10 הִנֵּ֤ה|hin·nêh|-|H2009|Interjection
 v10 שְׂכָרוֹ֙|śə·ḵā·rōw|His reward|H7939|N-msc | 3ms
 v10 אִתּ֔וֹ|’it·tōw|is with Him|H854|Prep | 3ms
 v10 וּפְעֻלָּת֖וֹ|ū·p̄ə·‘ul·lā·ṯōw|and His recompense|H6468|Conj-w | N-fsc | 3ms
@@ -130,7 +130,7 @@ v11 טְלָאִ֔ים|ṭə·lā·’îm|the lambs|H2922|N-mp
 v11 וּבְחֵיק֖וֹ|ū·ḇə·ḥê·qōw|close to His heart|H2436|Conj-w, Prep-b | N-msc | 3ms
 v11 יִשָּׂ֑א|yiś·śā|and carries them|H5375|V-Qal-Imperf-3ms
 v11 עָל֖וֹת|‘ā·lō·wṯ|the nursing [ewes]|H5763|V-Qal-Prtcpl-fp
-v11 יְנַהֵֽל׃ס|yə·na·hêl|He gently leads|H5095|V-Piel-Imperf-3ms
+v11 יְנַהֵֽל׃|yə·na·hêl|He gently leads|H5095|V-Piel-Imperf-3ms
 v12 מִֽי־|mî-|Who|H4310|Interrog
 v12 מָדַ֨ד|mā·ḏaḏ|has measured|H4058|V-Qal-Perf-3ms
 v12 בְּשָׁעֳל֜וֹ|bə·šā·‘o·lōw|in the hollow of his hand|H8168|Prep-b | N-msc | 3ms
@@ -185,7 +185,7 @@ v16 בָּעֵ֑ר|bā·‘êr|for fuel|H1197|V-Piel-Inf
 v16 וְחַיָּת֔וֹ|wə·ḥay·yā·ṯōw|nor its animals|H2416|Conj-w | N-fsc | 3ms
 v16 אֵ֥ין|’ên|...|H369|Adv
 v16 דֵּ֖י|dê|enough|H1767|N-msc
-v16 עוֹלָֽה׃ס|‘ō·w·lāh|for a burnt offering|H5930|N-fs
+v16 עוֹלָֽה׃|‘ō·w·lāh|for a burnt offering|H5930|N-fs
 v17 כָּל־|kāl-|All|H3605|N-msc
 v17 הַגּוֹיִ֖ם|hag·gō·w·yim|the nations|H1471|Art | N-mp
 v17 כְּאַ֣יִן|kə·’a·yin|are as nothing|H369|Prep-k | Adv
@@ -193,7 +193,7 @@ v17 נֶגְדּ֑וֹ|neḡ·dōw|before Him|H5048|Prep | 3ms
 v17 מֵאֶ֥פֶס|mê·’e·p̄es|as nothingness|H657|Prep-m | N-ms
 v17 וָתֹ֖הוּ|wā·ṯō·hū|and emptiness|H8414|Conj-w | N-ms
 v17 נֶחְשְׁבוּ־|neḥ·šə·ḇū-|He regards them|H2803|V-Nifal-Perf-3cp
-v17 לֽוֹ׃|lōw||H0|Prep | 3ms
+v17 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v18 וְאֶל־|wə·’el-|-|H413|Conj-w | Prep
 v18 מִ֖י|mî|To whom|H4310|Interrog
 v18 תְּדַמְּי֣וּן|tə·ḏam·mə·yūn|will you liken|H1819|V-Piel-Imperf-2mp | Pn
@@ -220,7 +220,7 @@ v20 יִבְחָ֑ר|yiḇ·ḥār|chooses|H977|V-Qal-Imperf-3ms
 v20 חָרָ֤שׁ|ḥā·rāš|craftsman|H2796|N-ms
 v20 חָכָם֙|ḥā·ḵām|a skilled|H2450|Adj-ms
 v20 יְבַקֶּשׁ־|yə·ḇaq·qeš-|He seeks|H1245|V-Piel-Imperf-3ms
-v20 ל֔וֹ|lōw||H0|Prep | 3ms
+v20 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v20 לְהָכִ֥ין|lə·hā·ḵîn|to set up|H3559|Prep-l | V-Hifil-Inf
 v20 פֶּ֖סֶל|pe·sel|an idol|H6459|N-ms
 v20 לֹ֥א|lō|that will not|H3808|Adv-NegPrt
@@ -232,7 +232,7 @@ v21 תִשְׁמָ֔עוּ|ṯiš·mā·‘ū|heard|H8085|V-Qal-Imperf-2mp
 v21 הֲל֛וֹא|hă·lō·w|Has it not|H3808|Adv-NegPrt
 v21 הֻגַּ֥ד|hug·gaḏ|been declared to you|H5046|V-Hofal-Perf-3ms
 v21 מֵרֹ֖אשׁ|mê·rōš|from the beginning|H7218|Prep-m | N-ms
-v21 לָכֶ֑ם|lā·ḵem||H0|Prep | 2mp
+v21 לָכֶ֑ם|lā·ḵem|-|H0|Prep | 2mp
 v21 הֲלוֹא֙|hă·lō·w|Have you not|H3808|Adv-NegPrt
 v21 הֲבִ֣ינֹתֶ֔ם|hă·ḇî·nō·ṯem|understood|H995|V-Hifil-Perf-2mp
 v21 מוֹסְד֖וֹת|mō·ws·ḏō·wṯ|since the foundation|H4146|N-mpc
@@ -273,7 +273,7 @@ v24 בָּהֶם֙|bā·hem|on them|H0|Prep | 3mp
 v24 וַיִּבָ֔שׁוּ|way·yi·ḇā·šū|and they wither|H3001|Conj-w | V-Qal-ConsecImperf-3mp
 v24 וּסְעָרָ֖ה|ū·sə·‘ā·rāh|and a whirlwind|H5591|Conj-w | N-fs
 v24 כַּקַּ֥שׁ|kaq·qaš|like stubble|H7179|Prep-k, Art | N-ms
-v24 תִּשָּׂאֵֽם׃ס|tiś·śā·’êm|sweeps them away|H5375|V-Qal-Imperf-3fs | 3mp
+v24 תִּשָּׂאֵֽם׃|tiś·śā·’êm|sweeps them away|H5375|V-Qal-Imperf-3fs | 3mp
 v25 וְאֶל־|wə·’el-|To|H413|Conj-w | Prep
 v25 מִ֥י|mî|whom|H4310|Interrog
 v25 תְדַמְּי֖וּנִי|ṯə·ḏam·mə·yū·nî|will you liken Me|H1819|V-Piel-Imperf-2mp | 1cs
@@ -299,7 +299,7 @@ v26 וְאַמִּ֣יץ|wə·’am·mîṣ|and mighty|H533|Conj-w | Adj-msc
 v26 כֹּ֔חַ|kō·aḥ|strength|H3581|N-ms
 v26 אִ֖ישׁ|’îš|one of them|H376|N-ms
 v26 לֹ֥א|lō|not|H3808|Adv-NegPrt
-v26 נֶעְדָּֽר׃ס|ne‘·dār|is missing|H5737|V-Nifal-Perf-3ms
+v26 נֶעְדָּֽר׃|ne‘·dār|is missing|H5737|V-Nifal-Perf-3ms
 v27 לָ֤מָּה|lām·māh|Why|H4100|Interrog
 v27 תֹאמַר֙|ṯō·mar|do you say|H559|V-Qal-Imperf-2ms
 v27 יַֽעֲקֹ֔ב|ya·‘ă·qōḇ|O Jacob|H3290|N-proper-ms
@@ -354,4 +354,4 @@ v31 וְלֹ֣א|wə·lō|and not|H3808|Conj-w | Adv-NegPrt
 v31 יִיגָ֔עוּ|yî·ḡā·‘ū|grow weary|H3021|V-Qal-Imperf-3mp
 v31 יֵלְכ֖וּ|yê·lə·ḵū|they will walk|H1980|V-Qal-Imperf-3mp
 v31 וְלֹ֥א|wə·lō|and not|H3808|Conj-w | Adv-NegPrt
-v31 יִיעָֽפוּ׃פ|yî·‘ā·p̄ū|faint|H3286|V-Qal-Imperf-3mp
+v31 יִיעָֽפוּ׃|yî·‘ā·p̄ū|faint|H3286|V-Qal-Imperf-3mp

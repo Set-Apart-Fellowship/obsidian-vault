@@ -28,7 +28,7 @@ v2 יְהוֹשֻׁ֖עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v2 וְעִם־|wə·‘im-|...|H5973|Conj-w | Prep
 v2 יִשְׂרָאֵ֑ל|yiś·rā·’êl|and Israel|H3478|N-proper-ms
 v2 פֶּ֖ה|peh|...|H6310|N-ms
-v2 אֶחָֽד׃פ|’e·ḥāḏ|...|H259|Number-ms
+v2 אֶחָֽד׃|’e·ḥāḏ|...|H259|Number-ms
 v3 וְיֹשְׁבֵ֨י|wə·yō·šə·ḇê|But the people|H3427|Conj-w | V-Qal-Prtcpl-mpc
 v3 גִבְע֜וֹן|ḡiḇ·‘ō·wn|of Gibeon|H1391|N-proper-fs
 v3 שָׁמְע֗וּ|šā·mə·‘ū|having heard|H8085|V-Qal-Perf-3cp
@@ -134,7 +134,7 @@ v10 עָשָׂ֗ה|‘ā·śāh|He did|H6213|V-Qal-Perf-3ms
 v10 לִשְׁנֵי֙|liš·nê|to the two|H8147|Prep-l | Number-mdc
 v10 מַלְכֵ֣י|mal·ḵê|kings|H4428|N-mpc
 v10 הָאֱמֹרִ֔י|hā·’ĕ·mō·rî|of the Amorites|H567|Art | N-proper-ms
-v10 אֲשֶׁ֖ר|’ă·šer||H834|Pro-r
+v10 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v10 בְּעֵ֣בֶר|bə·‘ê·ḇer|beyond|H5676|Prep-b | N-msc
 v10 הַיַּרְדֵּ֑ן|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
 v10 לְסִיחוֹן֙|lə·sî·ḥō·wn|Sihon|H5511|Prep-l | N-proper-ms
@@ -205,10 +205,10 @@ v14 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v14 לֹ֥א|lō|but did not|H3808|Adv-NegPrt
 v14 שָׁאָֽלוּ׃|šā·’ā·lū|seek|H7592|V-Qal-Perf-3cp
 v15 וַיַּ֨עַשׂ|way·ya·‘aś|made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
-v15 לָהֶ֤ם|lā·hem||H0|Prep | 3mp
+v15 לָהֶ֤ם|lā·hem|-|H0|Prep | 3mp
 v15 יְהוֹשֻׁ֙עַ֙|yə·hō·wō·šu·a‘|And Joshua|H3091|N-proper-ms
 v15 שָׁל֔וֹם|šā·lō·wm|of peace|H7965|N-ms
-v15 וַיִּכְרֹ֥ת|way·yiḵ·rōṯ||H3772|Conj-w | V-Qal-ConsecImperf-3ms
+v15 וַיִּכְרֹ֥ת|way·yiḵ·rōṯ|-|H3772|Conj-w | V-Qal-ConsecImperf-3ms
 v15 לָהֶ֛ם|lā·hem|with them|H0|Prep | 3mp
 v15 בְּרִ֖ית|bə·rîṯ|a treaty|H1285|N-fs
 v15 לְחַיּוֹתָ֑ם|lə·ḥay·yō·w·ṯām|to let them live|H2421|Prep-l | V-Piel-Inf | 3mp
@@ -245,7 +245,7 @@ v17 וְעָרֵיהֶם֙|wə·‘ā·rê·hem|-|H5892|Conj-w | N-fpc | 3mp
 v17 גִּבְע֣וֹן|giḇ·‘ō·wn|Gibeon|H1391|N-proper-fs
 v17 וְהַכְּפִירָ֔ה|wə·hak·kə·p̄î·rāh|Chephirah|H3716|Conj-w, Art | N-proper-fs
 v17 וּבְאֵר֖וֹת|ū·ḇə·’ê·rō·wṯ|Beeroth|H881|Conj-w | N-proper-fs
-v17 וְקִרְיַ֥ת|wə·qir·yaṯ|vvv|H7157|
+v17 וְקִרְיַ֥ת|wə·qir·yaṯ|...|H7157|
 v17 יְעָרִֽים׃|yə·‘ā·rîm|and Kiriath-jearim|H7157|Conj-w | N-proper-fs
 v18 וְלֹ֤א|wə·lō|did not|H3808|Conj-w | Adv-NegPrt
 v18 הִכּוּם֙|hik·kūm|attack them|H5221|V-Hifil-Perf-3cp | 3mp
@@ -385,12 +385,12 @@ v25 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|[to you]|H6213|Prep-l | V-Qal-In
 v25 לָ֖נוּ|lā·nū|to us|H0|Prep | 1cp
 v25 עֲשֵֽׂה׃|‘ă·śêh|Do|H6213|V-Qal-Imp-ms
 v26 וַיַּ֥עַשׂ|way·ya·‘aś|Joshua did this|H6213|Conj-w | V-Qal-ConsecImperf-3ms
-v26 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v26 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v26 כֵּ֑ן|kên|So|H3651|Adv
 v26 וַיַּצֵּ֥ל|way·yaṣ·ṣêl|and delivered|H5337|Conj-w | V-Hifil-ConsecImperf-3ms
 v26 אוֹתָ֛ם|’ō·w·ṯām|them|H853|DirObjM | 3mp
 v26 מִיַּ֥ד|mî·yaḏ|from the hands|H3027|Prep-m | N-fsc
-v26 בְּנֵֽי־|bə·nê-|vvv|H1121|N-mpc
+v26 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v26 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v26 וְלֹ֥א|wə·lō|and they did not|H3808|Conj-w | Adv-NegPrt
 v26 הֲרָגֽוּם׃|hă·rā·ḡūm|kill [the Gibeonites]|H2026|V-Qal-Perf-3cp | 3mp
@@ -411,4 +411,4 @@ v27 הַזֶּ֔ה|haz·zeh|...|H2088|Art | Pro-ms
 v27 אֶל־|’el-|at|H413|Prep
 v27 הַמָּק֖וֹם|ham·mā·qō·wm|the place|H4725|Art | N-ms
 v27 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v27 יִבְחָֽר׃פ|yiḇ·ḥār|He would choose|H977|V-Qal-Imperf-3ms
+v27 יִבְחָֽר׃|yiḇ·ḥār|He would choose|H977|V-Qal-Imperf-3ms

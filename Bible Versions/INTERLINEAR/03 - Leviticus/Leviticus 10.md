@@ -49,7 +49,7 @@ v3 וַיִּדֹּ֖ם|way·yid·dōm|remained silent|H1826|Conj-w | V-Qal-Cons
 v3 אַהֲרֹֽן׃|’a·hă·rōn|But Aaron|H175|N-proper-ms
 v4 וַיִּקְרָ֣א|way·yiq·rā|summoned|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v4 מֹשֶׁ֗ה|mō·šeh|Moses|H4872|N-proper-ms
-v4 אֶל־|’el-||H413|Prep
+v4 אֶל־|’el-|-|H413|Prep
 v4 מִֽישָׁאֵל֙|mî·šā·’êl|Mishael|H4332|N-proper-ms
 v4 וְאֶ֣ל|wə·’el|-|H413|Conj-w | Prep
 v4 אֶלְצָפָ֔ן|’el·ṣā·p̄ān|and Elzaphan|H469|N-proper-ms
@@ -121,7 +121,7 @@ v7 יְהוָ֖ה|Yah·weh|the LORD's|H3068|N-proper-ms
 v7 עֲלֵיכֶ֑ם|‘ă·lê·ḵem|is on you|H5921|Prep | 2mp
 v7 וַֽיַּעֲשׂ֖וּ|way·ya·‘ă·śū|So they did|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v7 כִּדְבַ֥ר|kiḏ·ḇar|instructed|H1697|Prep-k | N-msc
-v7 מֹשֶֽׁה׃פ|mō·šeh|as Moses|H4872|N-proper-ms
+v7 מֹשֶֽׁה׃|mō·šeh|as Moses|H4872|N-proper-ms
 v8 וַיְדַבֵּ֣ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v8 יְהוָ֔ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v8 אֶֽל־|’el-|to|H413|Prep
@@ -164,7 +164,7 @@ v11 דִּבֶּ֧ר|dib·ber|has given|H1696|V-Piel-Perf-3ms
 v11 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v11 אֲלֵיהֶ֖ם|’ă·lê·hem|them|H413|Prep | 3mp
 v11 בְּיַד־|bə·yaḏ-|through|H3027|Prep-b | N-fsc
-v11 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v11 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v12 וַיְדַבֵּ֨ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v12 מֹשֶׁ֜ה|mō·šeh|And Moses|H4872|N-proper-ms
 v12 אֶֽל־|’el-|to|H413|Prep
@@ -221,7 +221,7 @@ v14 חָקְךָ֤|ḥā·qə·ḵā|these portions|H2706|N-msc | 2ms
 v14 וְחָק־|wə·ḥāq-|...|H2706|Conj-w | N-msc
 v14 בָּנֶ֙יךָ֙|bā·ne·ḵā|to you and your children|H1121|N-mpc | 2ms
 v14 נִתְּנ֔וּ|nit·tə·nū|have been assigned|H5414|V-Nifal-Perf-3cp
-v14 מִזִּבְחֵ֥י|miz·ziḇ·ḥê|vvv|H2077|Prep-m | N-mpc
+v14 מִזִּבְחֵ֥י|miz·ziḇ·ḥê|...|H2077|Prep-m | N-mpc
 v14 שַׁלְמֵ֖י|šal·mê|from the peace offerings|H8002|N-mpc
 v14 בְּנֵ֥י|bə·nê|of the sons|H1121|N-mpc
 v14 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -238,7 +238,7 @@ v15 תְּנוּפָ֖ה|tə·nū·p̄āh|as a wave offering|H8573|N-fs
 v15 לִפְנֵ֣י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v15 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v15 וְהָיָ֨ה|wə·hā·yāh|to|H1961|Conj-w | V-Qal-ConjPerf-3ms
-v15 לְךָ֜|lə·ḵā||H0|Prep | 2ms
+v15 לְךָ֜|lə·ḵā|-|H0|Prep | 2ms
 v15 וּלְבָנֶ֤יךָ|ū·lə·ḇā·ne·ḵā|you and your children|H1121|Conj-w, Prep-l | N-mpc | 2ms
 v15 אִתְּךָ֙|’it·tə·ḵā|...|H854|Prep | 2ms
 v15 לְחָק־|lə·ḥāq-|...|H2706|Prep-l | N-msc
@@ -324,4 +324,4 @@ v19 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v20 וַיִּשְׁמַ֣ע|way·yiš·ma‘|heard this [explanation]|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v20 מֹשֶׁ֔ה|mō·šeh|And when Moses|H4872|N-proper-ms
 v20 וַיִּיטַ֖ב|way·yî·ṭaḇ|he was satisfied|H3190|Conj-w | V-Qal-ConsecImperf-3ms
-v20 בְּעֵינָֽיו׃פ|bə·‘ê·nāw|...|H5869|Prep-b | N-cdc | 3ms
+v20 בְּעֵינָֽיו׃|bə·‘ê·nāw|...|H5869|Prep-b | N-cdc | 3ms

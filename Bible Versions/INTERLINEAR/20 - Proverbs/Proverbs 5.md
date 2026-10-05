@@ -36,7 +36,7 @@ v6 תְּפַלֵּ֑ס|tə·p̄al·lês|consider|H6424|V-Piel-Imperf-3fs
 v6 נָע֥וּ|nā·‘ū|are unstable|H5128|V-Qal-Perf-3cp
 v6 מַ֝עְגְּלֹתֶ֗יהָ|ma‘·gə·lō·ṯe·hā|her ways|H4570|N-fpc | 3fs
 v6 לֹ֣א|lō|she does not|H3808|Adv-NegPrt
-v6 תֵדָֽע׃פ|ṯê·ḏā‘|know that|H3045|V-Qal-Imperf-3fs
+v6 תֵדָֽע׃|ṯê·ḏā‘|know that|H3045|V-Qal-Imperf-3fs
 v7 וְעַתָּ֣ה|wə·‘at·tāh|So now|H6258|Conj-w | Adv
 v7 בָ֭נִים|ḇā·nîm|my sons|H1121|N-mp
 v7 שִׁמְעוּ־|šim·‘ū-|listen|H8085|V-Qal-Imp-mp
@@ -157,4 +157,4 @@ v23 בְּאֵ֣ין|bə·’ên|for lack|H369|Prep-b | Adv
 v23 מוּסָ֑ר|mū·sār|of discipline|H4148|N-ms
 v23 וּבְרֹ֖ב|ū·ḇə·rōḇ|by his own great|H7230|Conj-w, Prep-b | N-msc
 v23 אִוַּלְתּ֣וֹ|’iw·wal·tōw|folly|H200|N-fsc | 3ms
-v23 יִשְׁגֶּֽה׃פ|yiš·geh|led astray|H7686|V-Qal-Imperf-3ms
+v23 יִשְׁגֶּֽה׃|yiš·geh|led astray|H7686|V-Qal-Imperf-3ms

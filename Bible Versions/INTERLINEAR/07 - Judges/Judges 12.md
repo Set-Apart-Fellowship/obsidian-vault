@@ -122,7 +122,7 @@ v6 וַיִּפֹּ֞ל|way·yip·pōl|were killed|H5307|Conj-w | V-Qal-ConsecIm
 v6 בָּעֵ֤ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
 v6 הַהִיא֙|ha·hî|So at that|H1931|Art | Pro-3fs
 v6 מֵֽאֶפְרַ֔יִם|mê·’ep̄·ra·yim|Ephraimites|H669|Prep-m | N-proper-ms
-v6 אַרְבָּעִ֥ים|’ar·bā·‘îm|42,000 {}|H705|Number-cp
+v6 אַרְבָּעִ֥ים|’ar·bā·‘îm|42,000|H705|Number-cp
 v6 וּשְׁנַ֖יִם|ū·šə·na·yim|...|H8147|Conj-w | Number-md
 v6 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v7 וַיִּשְׁפֹּ֥ט|way·yiš·pōṭ|judged|H8199|Conj-w | V-Qal-ConsecImperf-3ms
@@ -136,7 +136,7 @@ v7 יִפְתָּח֙|yip̄·tāḥ|and when he|H3316|N-proper-ms
 v7 הַגִּלְעָדִ֔י|hag·gil·‘ā·ḏî|...|H1569|Art | N-proper-ms
 v7 וַיִּקָּבֵ֖ר|way·yiq·qā·ḇêr|he was buried|H6912|Conj-w | V-Nifal-ConsecImperf-3ms
 v7 בְּעָרֵ֥י|bə·‘ā·rê|in one of the cities|H5892|Prep-b | N-fpc
-v7 גִלְעָֽד׃פ|ḡil·‘āḏ|of Gilead|H1568|N-proper-fs
+v7 גִלְעָֽד׃|ḡil·‘āḏ|of Gilead|H1568|N-proper-fs
 v8 וַיִּשְׁפֹּ֤ט|way·yiš·pōṭ|judged|H8199|Conj-w | V-Qal-ConsecImperf-3ms
 v8 אַֽחֲרָיו֙|’a·ḥă·rāw|After Jephthah|H310|Prep | 3ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
@@ -145,7 +145,7 @@ v8 אִבְצָ֖ן|’iḇ·ṣān|Ibzan|H78|N-proper-ms
 v8 מִבֵּ֥ית|mib·bêṯ|of|H1035|Prep
 v8 לָֽחֶם׃|lā·ḥem|Bethlehem|H1035|Prep | N-proper-fs
 v9 וַיְהִי־|way·hî-|He had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v9 ל֞וֹ|lōw||H0|Prep | 3ms
+v9 ל֞וֹ|lōw|-|H0|Prep | 3ms
 v9 שְׁלֹשִׁ֣ים|šə·lō·šîm|thirty|H7970|Number-cp
 v9 בָּנִ֗ים|bā·nîm|sons|H1121|N-mp
 v9 וּשְׁלֹשִׁ֤ים|ū·šə·lō·šîm|as well as thirty|H7970|Conj-w | Number-cp
@@ -166,8 +166,8 @@ v9 שָׁנִֽים׃|šā·nîm|years|H8141|N-fp
 v10 וַיָּ֣מָת|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v10 אִבְצָ֔ן|’iḇ·ṣān|Then Ibzan|H78|N-proper-ms
 v10 וַיִּקָּבֵ֖ר|way·yiq·qā·ḇêr|and he was buried|H6912|Conj-w | V-Nifal-ConsecImperf-3ms
-v10 בְּבֵ֥ית|bə·ḇêṯ|vvv|H1035|Prep
-v10 לָֽחֶם׃פ|lā·ḥem|in Bethlehem|H1035|Prep | N-proper-fs
+v10 בְּבֵ֥ית|bə·ḇêṯ|...|H1035|Prep
+v10 לָֽחֶם׃|lā·ḥem|in Bethlehem|H1035|Prep | N-proper-fs
 v11 וַיִּשְׁפֹּ֤ט|way·yiš·pōṭ|judged|H8199|Conj-w | V-Qal-ConsecImperf-3ms
 v11 אַֽחֲרָיו֙|’a·ḥă·rāw|After Ibzan|H310|Prep | 3ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
@@ -185,7 +185,7 @@ v12 הַזְּבֽוּלֹנִ֑י|haz·zə·ḇū·lō·nî|the Zebulunite|H207
 v12 וַיִּקָּבֵ֥ר|way·yiq·qā·ḇêr|and he was buried|H6912|Conj-w | V-Nifal-ConsecImperf-3ms
 v12 בְּאַיָּל֖וֹן|bə·’ay·yā·lō·wn|in Aijalon|H357|Prep-b | N-proper-fs
 v12 בְּאֶ֥רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
-v12 זְבוּלֻֽן׃פ|zə·ḇū·lun|of Zebulun|H2074|N-proper-ms
+v12 זְבוּלֻֽן׃|zə·ḇū·lun|of Zebulun|H2074|N-proper-ms
 v13 וַיִּשְׁפֹּ֥ט|way·yiš·pōṭ|judged|H8199|Conj-w | V-Qal-ConsecImperf-3ms
 v13 אַחֲרָ֖יו|’a·ḥă·rāw|After Elon|H310|Prep | 3ms
 v13 אֶת־|’eṯ-|-|H853|DirObjM
@@ -195,7 +195,7 @@ v13 בֶּן־|ben-|son|H1121|N-msc
 v13 הִלֵּ֖ל|hil·lêl|of Hillel|H1985|N-proper-ms
 v13 הַפִּרְעָתוֹנִֽי׃|hap·pir·‘ā·ṯō·w·nî|from Pirathon|H6553|Art | N-proper-ms
 v14 וַיְהִי־|way·hî-|He had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v14 ל֞וֹ|lōw||H0|Prep | 3ms
+v14 ל֞וֹ|lōw|-|H0|Prep | 3ms
 v14 אַרְבָּעִ֣ים|’ar·bā·‘îm|forty|H705|Number-cp
 v14 בָּנִ֗ים|bā·nîm|sons|H1121|N-mp
 v14 וּשְׁלֹשִׁים֙|ū·šə·lō·šîm|and thirty|H7970|Conj-w | Number-cp
@@ -220,4 +220,4 @@ v15 בְּפִרְעָתוֹן֙|bə·p̄ir·‘ā·ṯō·wn|at Pirathon|H6552|
 v15 בְּאֶ֣רֶץ|bə·’e·reṣ|in|H776|Prep-b | N-fsc
 v15 אֶפְרַ֔יִם|’ep̄·ra·yim|Ephraim|H669|N-proper-ms
 v15 בְּהַ֖ר|bə·har|in the hill country|H2022|Prep-b | N-msc
-v15 הָעֲמָלֵקִֽי׃פ|hā·‘ă·mā·lê·qî|of the Amalekites|H6003|Art | N-proper-ms
+v15 הָעֲמָלֵקִֽי׃|hā·‘ă·mā·lê·qî|of the Amalekites|H6003|Art | N-proper-ms

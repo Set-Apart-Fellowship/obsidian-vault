@@ -18,7 +18,7 @@ v1 אִכְל֣וּ|’iḵ·lū|Eat|H398|V-Qal-Imp-mp
 v1 רֵעִ֔ים|rê·‘îm|O friends|H7453|N-mp
 v1 שְׁת֥וּ|šə·ṯū|[and] drink|H8354|V-Qal-Imp-mp
 v1 וְשִׁכְר֖וּ|wə·šiḵ·rū|drink freely|H7937|Conj-w | V-Qal-Imp-mp
-v1 דּוֹדִֽים׃ס|dō·w·ḏîm|O beloved|H1730|N-mp
+v1 דּוֹדִֽים׃|dō·w·ḏîm|O beloved|H1730|N-mp
 v2 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v2 יְשֵׁנָ֖ה|yə·šê·nāh|sleep|H3463|Adj-fs
 v2 וְלִבִּ֣י|wə·lib·bî|but my heart|H3820|Conj-w | N-msc | 1cs

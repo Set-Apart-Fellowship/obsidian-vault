@@ -16,7 +16,7 @@ v1 נ֔וּן|nūn|of Nun|H5126|N-proper-ms
 v1 וְרָאשֵׁ֛י|wə·rā·šê|and the heads|H7218|Conj-w | N-mpc
 v1 אֲב֥וֹת|’ă·ḇō·wṯ|of the families|H1|N-mpc
 v1 הַמַּטּ֖וֹת|ham·maṭ·ṭō·wṯ|of the tribes|H4294|Art | N-mp
-v1 לִבְנֵ֥י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v1 לִבְנֵ֥י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v1 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 בְּגוֹרַ֖ל|bə·ḡō·w·ral|was assigned by lot|H1486|Prep-b | N-msc
 v2 נַחֲלָתָ֑ם|na·ḥă·lā·ṯām|Their inheritance|H5159|N-fsc | 3mp
@@ -75,7 +75,7 @@ v5 בְּנֵ֣י|bə·nê|the Israelites|H1121|N-mpc
 v5 יִשְׂרָאֵ֑ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v5 וַֽיַּחְלְק֖וּ|way·yaḥ·lə·qū|and they divided|H2505|Conj-w | V-Qal-ConsecImperf-3mp
 v5 אֶת־|’eṯ-|-|H853|DirObjM
-v5 הָאָֽרֶץ׃פ|hā·’ā·reṣ|the land|H776|Art | N-fs
+v5 הָאָֽרֶץ׃|hā·’ā·reṣ|the land|H776|Art | N-fs
 v6 וַיִּגְּשׁ֨וּ|way·yig·gə·šū|approached|H5066|Conj-w | V-Qal-ConsecImperf-3mp
 v6 בְנֵֽי־|ḇə·nê-|Then the sons|H1121|N-mpc
 v6 יְהוּדָ֤ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
@@ -103,7 +103,7 @@ v6 עַ֧ל|‘al|about|H5921|Prep
 v6 אֹדוֹתַ֛י|’ō·ḏō·w·ṯay|me|H182|N-fpc | 1cs
 v6 וְעַ֥ל|wə·‘al|and|H5921|Conj-w | Prep
 v6 אֹדוֹתֶ֖יךָ|’ō·ḏō·w·ṯe·ḵā|you|H182|N-fpc | 2ms
-v6 בְּקָדֵ֥שׁ|bə·qā·ḏêš||H6947|Prep
+v6 בְּקָדֵ֥שׁ|bə·qā·ḏêš|-|H6947|Prep
 v6 בַּרְנֵֽעַ׃|bar·nê·a‘|at Kadesh-barnea|H6947|Prep | N-proper-fs
 v7 בֶּן־|ben-|years old|H1121|N-msc
 v7 אַרְבָּעִ֨ים|’ar·bā·‘îm|forty|H705|Number-cp
@@ -149,7 +149,7 @@ v9 הָאָ֙רֶץ֙|hā·’ā·reṣ|the land|H776|Art | N-fs
 v9 אֲשֶׁ֨ר|’ă·šer|on which|H834|Pro-r
 v9 דָּרְכָ֤ה|dā·rə·ḵāh|you have set foot|H1869|V-Qal-Perf-3fs
 v9 רַגְלְךָ֙|raḡ·lə·ḵā|...|H7272|N-fsc | 2ms
-v9 בָּ֔הּ|bāh||H0|Prep | 3fs
+v9 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v9 לְךָ֨|lə·ḵā|to you|H0|Prep | 2ms
 v9 תִֽהְיֶ֧ה|ṯih·yeh|will be|H1961|V-Qal-Imperf-3fs
 v9 לְנַחֲלָ֛ה|lə·na·ḥă·lāh|an inheritance|H5159|Prep-l | N-fs
@@ -267,7 +267,7 @@ v14 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v15 וְשֵׁ֨ם|wə·šêm|called|H8034|Conj-w | N-msc
 v15 חֶבְר֤וֹן|ḥeḇ·rō·wn|Hebron|H2275|N-proper-fs
 v15 לְפָנִים֙|lə·p̄ā·nîm|used to be|H6440|Prep-l | N-mp
-v15 קִרְיַ֣ת|qir·yaṯ|vvv|H7153|
+v15 קִרְיַ֣ת|qir·yaṯ|...|H7153|
 v15 אַרְבַּ֔ע|’ar·ba‘|Kiriath-arba|H7153|N-proper-fs
 v15 הָאָדָ֧ם|hā·’ā·ḏām|man|H120|Art | N-ms
 v15 הַגָּד֛וֹל|hag·gā·ḏō·wl|the greatest|H1419|Art | Adj-ms
@@ -275,4 +275,4 @@ v15 בָּעֲנָקִ֖ים|bā·‘ă·nā·qîm|among the Anakim|H6062|Prep-
 v15 ה֑וּא|hū|after Arba|H1931|Pro-3ms
 v15 וְהָאָ֥רֶץ|wə·hā·’ā·reṣ|Then the land|H776|Conj-w, Art | N-fs
 v15 שָׁקְטָ֖ה|šā·qə·ṭāh|had rest|H8252|V-Qal-Perf-3fs
-v15 מִמִּלְחָמָֽה׃פ|mim·mil·ḥā·māh|from war|H4421|Prep-m | N-fs
+v15 מִמִּלְחָמָֽה׃|mim·mil·ḥā·māh|from war|H4421|Prep-m | N-fs

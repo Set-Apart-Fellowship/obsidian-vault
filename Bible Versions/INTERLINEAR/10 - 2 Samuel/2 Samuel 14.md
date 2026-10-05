@@ -45,19 +45,19 @@ v3 יוֹאָ֛ב|yō·w·’āḇ|And Joab|H3097|N-proper-ms
 v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 הַדְּבָרִ֖ים|had·də·ḇā·rîm|the words|H1697|Art | N-mp
 v3 בְּפִֽיהָ׃|bə·p̄î·hā|in her mouth|H6310|Prep-b | N-msc | 3fs
-v4 וַ֠תֹּאמֶר|wat·tō·mer||H559|Conj-w | V-Qal-ConsecImperf-3fs
+v4 וַ֠תֹּאמֶר|wat·tō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3fs
 v4 הָאִשָּׁ֤ה|hā·’iš·šāh|When the woman|H802|Art | N-fs
 v4 הַתְּקֹעִית֙|hat·tə·qō·‘îṯ|from Tekoa|H8621|Art | N-proper-fs
 v4 אֶל־|’el-|[went] to|H413|Prep
 v4 הַמֶּ֔לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v4 וַתִּפֹּ֧ל|wat·tip·pōl|she fell|H5307|Conj-w | V-Qal-ConsecImperf-3fs
-v4 עַל־|‘al-|vvv|H5921|Prep
+v4 עַל־|‘al-|...|H5921|Prep
 v4 אַפֶּ֛יהָ|’ap·pe·hā|facedown|H639|N-mdc | 3fs
 v4 אַ֖רְצָה|’ar·ṣāh|...|H776|N-fs | 3fs
 v4 וַתִּשְׁתָּ֑חוּ|wat·tiš·tā·ḥū|in homage|H7812|Conj-w | V-Hitpael-ConsecImperf-3fs
 v4 וַתֹּ֖אמֶר|wat·tō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3fs
 v4 הוֹשִׁ֥עָה|hō·wō·ši·‘āh|Help me|H3467|V-Hifil-Imp-ms | 3fs
-v4 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|O king|H4428|Art | N-ms
+v4 הַמֶּֽלֶךְ׃|ham·me·leḵ|O king|H4428|Art | N-ms
 v5 וַיֹּֽאמֶר־|way·yō·mer-|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v5 לָ֥הּ|lāh|her|H0|Prep | 3fs
 v5 הַמֶּ֖לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
@@ -65,7 +65,7 @@ v5 מַה־|mah-|What|H4100|Interrog
 v5 לָּ֑ךְ|lāḵ|troubles you|H0|Prep | 2fs
 v5 וַתֹּ֗אמֶר|wat·tō·mer|she said|H559|Conj-w | V-Qal-ConsecImperf-3fs
 v5 אֲבָ֛ל|’ă·ḇāl|Indeed|H61|Adv
-v5 אִשָּֽׁה־|’iš·šāh-|vvv|H802|N-fs
+v5 אִשָּֽׁה־|’iš·šāh-|...|H802|N-fs
 v5 אַלְמָנָ֥ה|’al·mā·nāh|a widow|H490|N-fs
 v5 אָ֖נִי|’ā·nî|I [am]|H589|Pro-1cs
 v5 וַיָּ֥מָת|way·yā·māṯ|is dead|H4191|Conj-w | V-Qal-ConsecImperf-3ms
@@ -117,7 +117,7 @@ v7 שֵׁ֥ם|šêm|name|H8034|N-ms
 v7 וּשְׁאֵרִ֖ית|ū·šə·’ê·rîṯ|or posterity|H7611|Conj-w | N-fs
 v7 עַל־|‘al-|on|H5921|Prep
 v7 פְּנֵ֥י|pə·nê|...|H6440|N-cpc
-v7 הָאֲדָמָֽה׃פ|hā·’ă·ḏā·māh|the earth|H127|Art | N-fs
+v7 הָאֲדָמָֽה׃|hā·’ă·ḏā·māh|the earth|H127|Art | N-fs
 v8 וַיֹּ֧אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 הַמֶּ֛לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v8 אֶל־|’el-|to|H413|Prep
@@ -141,7 +141,7 @@ v9 בֵּ֣ית|bêṯ|house|H1004|N-msc
 v9 אָבִ֑י|’ā·ḇî|my father's|H1|N-msc | 1cs
 v9 וְהַמֶּ֥לֶךְ|wə·ham·me·leḵ|and may the king|H4428|Conj-w, Art | N-ms
 v9 וְכִסְא֖וֹ|wə·ḵis·’ōw|and his throne|H3678|Conj-w | N-msc | 3ms
-v9 נָקִֽי׃ס|nā·qî|[be] guiltless|H5355|Adj-ms
+v9 נָקִֽי׃|nā·qî|[be] guiltless|H5355|Adj-ms
 v10 וַיֹּ֖אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v10 הַמֶּ֑לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v10 הַֽמְדַבֵּ֤ר|ham·ḏab·bêr|If anyone speaks|H1696|Art | V-Piel-Prtcpl-ms
@@ -186,7 +186,7 @@ v12 אֲדֹנִ֥י|’ă·ḏō·nî|my lord|H113|N-msc | 1cs
 v12 הַמֶּ֖לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v12 דָּבָ֑ר|dā·ḇār|a word|H1697|N-ms
 v12 וַיֹּ֖אמֶר|way·yō·mer|he replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v12 דַּבֵּֽרִי׃ס|dab·bê·rî|Speak|H1696|V-Piel-Imp-fs
+v12 דַּבֵּֽרִי׃|dab·bê·rî|Speak|H1696|V-Piel-Imp-fs
 v13 וַתֹּ֙אמֶר֙|wat·tō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3fs
 v13 הָֽאִשָּׁ֔ה|hā·’iš·šāh|The woman|H802|Art | N-fs
 v13 וְלָ֧מָּה|wə·lām·māh|Why|H4100|Conj-w | Interrog
@@ -284,10 +284,10 @@ v17 וְהָרָ֔ע|wə·hā·rā‘|and evil|H7451|Conj-w, Art | Adj-ms
 v17 וַֽיהוָ֥ה|Yah·weh|May the LORD|H3068|Conj-w | N-proper-ms
 v17 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v17 יְהִ֥י|yə·hî|be|H1961|V-Qal-Imperf.Jus-3ms
-v17 עִמָּֽךְ׃פ|‘im·māḵ|with you|H5973|Prep | 2fs
+v17 עִמָּֽךְ׃|‘im·māḵ|with you|H5973|Prep | 2fs
 v18 וַיַּ֣עַן|way·ya·‘an|said|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v18 הַמֶּ֗לֶךְ|ham·me·leḵ|Then the king|H4428|Art | N-ms
-v18 וַיֹּ֙אמֶר֙|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
+v18 וַיֹּ֙אמֶר֙|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v18 אֶל־|’el-|to|H413|Prep
 v18 הָ֣אִשָּׁ֔ה|hā·’iš·šāh|the woman|H802|Art | N-fs
 v18 אַל־|’al-|do not|H408|Adv
@@ -361,7 +361,7 @@ v20 לָדַ֖עַת|lā·ḏa·‘aṯ|to know|H3045|Prep-l | V-Qal-Inf
 v20 אֶֽת־|’eṯ-|-|H853|DirObjM
 v20 כָּל־|kāl-|everything|H3605|N-msc
 v20 אֲשֶׁ֥ר|’ă·šer|that [happens]|H834|Pro-r
-v20 בָּאָֽרֶץ׃ס|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
+v20 בָּאָֽרֶץ׃|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
 v21 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v21 הַמֶּ֙לֶךְ֙|ham·me·leḵ|Then the king|H4428|Art | N-ms
 v21 אֶל־|’el-|to|H413|Prep
@@ -380,7 +380,7 @@ v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 אַבְשָׁלֽוֹם׃|’aḇ·šā·lō·wm|Absalom|H53|N-proper-ms
 v22 וַיִּפֹּל֩|way·yip·pōl|fell|H5307|Conj-w | V-Qal-ConsecImperf-3ms
 v22 יוֹאָ֨ב|yō·w·’āḇ|Joab|H3097|N-proper-ms
-v22 אֶל־|’el-|vvv|H413|Prep
+v22 אֶל־|’el-|...|H413|Prep
 v22 פָּנָ֥יו|pā·nāw|facedown|H6440|N-cpc | 3ms
 v22 אַ֛רְצָה|’ar·ṣāh|...|H776|N-fs | 3fs
 v22 וַיִּשְׁתַּ֖חוּ|way·yiš·ta·ḥū|in homage|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
@@ -411,7 +411,7 @@ v23 גְּשׁ֑וּרָה|gə·šū·rāh|to Geshur|H1650|N-proper-fs | 3fs
 v23 וַיָּבֵ֥א|way·yā·ḇê|and brought|H935|Conj-w | V-Hifil-ConsecImperf-3ms
 v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 אַבְשָׁל֖וֹם|’aḇ·šā·lō·wm|Absalom|H53|N-proper-ms
-v23 יְרוּשָׁלִָֽם׃פ|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
+v23 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
 v24 וַיֹּ֤אמֶר|way·yō·mer|added|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v24 הַמֶּ֙לֶךְ֙|ham·me·leḵ|But the king|H4428|Art | N-ms
 v24 יִסֹּ֣ב|yis·sōḇ|He may return|H5437|V-Qal-Imperf-3ms
@@ -427,7 +427,7 @@ v24 בֵּית֔וֹ|bê·ṯōw|his own house|H1004|N-msc | 3ms
 v24 וּפְנֵ֥י|ū·p̄ə·nê|the face|H6440|Conj-w | N-cpc
 v24 הַמֶּ֖לֶךְ|ham·me·leḵ|of the king|H4428|Art | N-ms
 v24 לֹ֥א|lō|but he did not|H3808|Adv-NegPrt
-v24 רָאָֽה׃ס|rā·’āh|see|H7200|V-Qal-Perf-3ms
+v24 רָאָֽה׃|rā·’āh|see|H7200|V-Qal-Perf-3ms
 v25 וּכְאַבְשָׁל֗וֹם|ū·ḵə·’aḇ·šā·lō·wm|as Absalom|H53|Conj-w, Prep-k | N-proper-ms
 v25 לֹא־|lō-|not|H3808|Adv-NegPrt
 v25 הָיָ֧ה|hā·yāh|Now there was|H1961|V-Qal-Perf-3ms
@@ -443,7 +443,7 @@ v25 וְעַ֣ד|wə·‘aḏ|to|H5704|Conj-w | Prep
 v25 קָדְקֳד֔וֹ|qā·ḏə·qo·ḏōw|the top of his head|H6936|N-msc | 3ms
 v25 לֹא־|lō-|he did not|H3808|Adv-NegPrt
 v25 הָ֥יָה|hā·yāh|have|H1961|V-Qal-Perf-3ms
-v25 ב֖וֹ|ḇōw||H0|Prep | 3ms
+v25 ב֖וֹ|ḇōw|-|H0|Prep | 3ms
 v25 מֽוּם׃|mūm|a single flaw|H3971|N-ms
 v26 וּֽבְגַלְּחוֹ֮|ū·ḇə·ḡal·lə·ḥōw|And when he cut the hair|H1548|Conj-w, Prep-b | V-Piel-Inf | 3ms
 v26 אֶת־|’eṯ-|of|H853|DirObjM
@@ -478,7 +478,7 @@ v27 הִ֣יא|hî|who|H1931|Pro-3fs
 v27 הָיְתָ֔ה|hā·yə·ṯāh|was|H1961|V-Qal-Perf-3fs
 v27 אִשָּׁ֖ה|’iš·šāh|woman|H802|N-fs
 v27 יְפַ֥ת|yə·p̄aṯ|a beautiful|H3303|Adj-fsc
-v27 מַרְאֶֽה׃פ|mar·’eh|...|H4758|N-ms
+v27 מַרְאֶֽה׃|mar·’eh|...|H4758|N-ms
 v28 וַיֵּ֧שֶׁב|way·yê·šeḇ|lived|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v28 אַבְשָׁל֛וֹם|’aḇ·šā·lō·wm|Now Absalom|H53|N-proper-ms
 v28 בִּירוּשָׁלִַ֖ם|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
@@ -501,7 +501,7 @@ v29 אָבָ֖ה|’ā·ḇāh|...|H14|V-Qal-Perf-3ms
 v29 לָב֣וֹא|lā·ḇō·w|to come|H935|Prep-l | V-Qal-Inf
 v29 אֵלָ֑יו|’ê·lāw|to him|H413|Prep | 3ms
 v29 וַיִּשְׁלַ֥ח|way·yiš·laḥ|So [Absalom] sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
-v29 עוֹד֙|‘ō·wḏ|vvv|H5750|Adv
+v29 עוֹד֙|‘ō·wḏ|...|H5750|Adv
 v29 שֵׁנִ֔ית|šê·nîṯ|a second [time]|H8145|Number-ofs
 v29 וְלֹ֥א|wə·lō|but [Joab] still would not|H3808|Conj-w | Adv-NegPrt
 v29 אָבָ֖ה|’ā·ḇāh|...|H14|V-Qal-Perf-3ms
@@ -525,7 +525,7 @@ v30 עַבְדֵ֧י|‘aḇ·ḏê|servants|H5650|N-mpc
 v30 אַבְשָׁל֛וֹם|’aḇ·šā·lō·wm|And Absalom's|H53|N-proper-ms
 v30 אֶת־|’eṯ-|-|H853|DirObjM
 v30 הַחֶלְקָ֖ה|ha·ḥel·qāh|set the field|H2513|Art | N-fs
-v30 בָּאֵֽשׁ׃פ|bā·’êš|...|H784|Prep-b, Art | N-cs
+v30 בָּאֵֽשׁ׃|bā·’êš|...|H784|Prep-b, Art | N-cs
 v31 וַיָּ֣קָם|way·yā·qām|-|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v31 יוֹאָ֔ב|yō·w·’āḇ|Then Joab|H3097|N-proper-ms
 v31 וַיָּבֹ֥א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
@@ -540,7 +540,7 @@ v31 עֲבָדֶ֛ךָ|‘ă·ḇā·ḏe·ḵā|did your servants|H5650|N-mpc 
 v31 אֶת־|’eṯ-|-|H853|DirObjM
 v31 הַחֶלְקָ֥ה|ha·ḥel·qāh|my field|H2513|Art | N-fs
 v31 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v31 לִ֖י|lî||H0|Prep | 1cs
+v31 לִ֖י|lî|-|H0|Prep | 1cs
 v31 בָּאֵֽשׁ׃|bā·’êš|on fire|H784|Prep-b, Art | N-cs
 v32 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v32 אַבְשָׁל֣וֹם|’aḇ·šā·lō·wm|Absalom|H53|N-proper-ms
@@ -587,12 +587,12 @@ v33 וַיָּבֹ֣א|way·yā·ḇō|who came|H935|Conj-w | V-Qal-ConsecImperf
 v33 אֶל־|’el-|...|H413|Prep
 v33 הַמֶּ֔לֶךְ|ham·me·leḵ|[him]|H4428|Art | N-ms
 v33 וַיִּשְׁתַּ֨חוּ|way·yiš·ta·ḥū|and bowed|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
-v33 ל֧וֹ|lōw||H0|Prep | 3ms
-v33 עַל־|‘al-|vvv|H5921|Prep
+v33 ל֧וֹ|lōw|-|H0|Prep | 3ms
+v33 עַל־|‘al-|...|H5921|Prep
 v33 אַפָּ֛יו|’ap·pāw|facedown|H639|N-mdc | 3ms
 v33 אַ֖רְצָה|’ar·ṣāh|...|H776|N-fs | 3fs
 v33 לִפְנֵ֣י|lip̄·nê|before him|H6440|Prep-l | N-cpc
 v33 הַמֶּ֑לֶךְ|ham·me·leḵ|...|H4428|Art | N-ms
 v33 וַיִּשַּׁ֥ק|way·yiš·šaq|kissed|H5401|Conj-w | V-Qal-ConsecImperf-3ms
 v33 הַמֶּ֖לֶךְ|ham·me·leḵ|Then the king|H4428|Art | N-ms
-v33 לְאַבְשָׁלֽוֹם׃פ|lə·’aḇ·šā·lō·wm|Absalom|H53|Prep-l | N-proper-ms
+v33 לְאַבְשָׁלֽוֹם׃|lə·’aḇ·šā·lō·wm|Absalom|H53|Prep-l | N-proper-ms

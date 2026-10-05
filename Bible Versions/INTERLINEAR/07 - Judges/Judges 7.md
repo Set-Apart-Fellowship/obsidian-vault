@@ -8,7 +8,7 @@ v1 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v1 אִתּ֔וֹ|’it·tōw|with him|H854|Prep | 3ms
 v1 וַֽיַּחֲנ֖וּ|way·ya·ḥă·nū|camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
 v1 עַל־|‘al-|beside|H5921|Prep
-v1 עֵ֣ין|‘ên|vvv|H5878|
+v1 עֵ֣ין|‘ên|...|H5878|
 v1 חֲרֹ֑ד|ḥă·rōḏ|the spring of Harod|H5878|N-proper-fs
 v1 וּמַחֲנֵ֤ה|ū·ma·ḥă·nêh|And the camp|H4264|Conj-w | N-csc
 v1 מִדְיָן֙|miḏ·yān|of Midian|H4080|N-proper-ms
@@ -59,7 +59,7 @@ v3 וּשְׁנַ֙יִם֙|ū·šə·na·yim|...|H8147|Conj-w | Number-md
 v3 אֶ֔לֶף|’e·lep̄|thousand|H505|Number-ms
 v3 וַעֲשֶׂ֥רֶת|wa·‘ă·śe·reṯ|but ten|H6235|Conj-w | Number-msc
 v3 אֲלָפִ֖ים|’ă·lā·p̄îm|thousand|H505|Number-mp
-v3 נִשְׁאָֽרוּ׃ס|niš·’ā·rū|remained|H7604|V-Nifal-Perf-3cp
+v3 נִשְׁאָֽרוּ׃|niš·’ā·rū|remained|H7604|V-Nifal-Perf-3cp
 v4 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v4 אֶל־|’el-|to|H413|Prep
@@ -81,7 +81,7 @@ v4 אֵלֶ֜יךָ|’ê·le·ḵā|to you|H413|Prep | 2ms
 v4 זֶ֣ה׀|zeh|This [one]|H2088|Pro-ms
 v4 יֵלֵ֣ךְ|yê·lêḵ|shall go|H1980|V-Qal-Imperf-3ms
 v4 אִתָּ֗ךְ|’it·tāḵ|with you|H854|Prep | 2ms
-v4 ה֚וּא|hū||H1931|Pro-3ms
+v4 ה֚וּא|hū|-|H1931|Pro-3ms
 v4 יֵלֵ֣ךְ|yê·lêḵ|he shall go|H1980|V-Qal-Imperf-3ms
 v4 אִתָּ֔ךְ|’it·tāḵ|...|H854|Prep | 2ms
 v4 וְכֹ֨ל|wə·ḵōl|But|H3605|Conj-w | N-ms
@@ -138,7 +138,7 @@ v6 כָּרְע֥וּ|kā·rə·‘ū|knelt|H3766|V-Qal-Perf-3cp
 v6 עַל־|‘al-|...|H5921|Prep
 v6 בִּרְכֵיהֶ֖ם|bir·ḵê·hem|...|H1290|N-fdc | 3mp
 v6 לִשְׁתּ֥וֹת|liš·tō·wṯ|to drink|H8354|Prep-l | V-Qal-Inf
-v6 מָֽיִם׃ס|mā·yim|...|H4325|N-mp
+v6 מָֽיִם׃|mā·yim|...|H4325|N-mp
 v7 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v7 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v7 אֶל־|’el-|to|H413|Prep
@@ -181,7 +181,7 @@ v8 מִדְיָ֔ן|miḏ·yān|of Midian|H4080|N-proper-ms
 v8 הָ֥יָה|hā·yāh|lay|H1961|V-Qal-Perf-3ms
 v8 ל֖וֹ|lōw|him|H0|Prep | 3ms
 v8 מִתַּ֥חַת|mit·ta·ḥaṯ|below|H8478|Prep-m
-v8 בָּעֵֽמֶק׃פ|bā·‘ê·meq|in the valley|H6010|Prep-b, Art | N-ms
+v8 בָּעֵֽמֶק׃|bā·‘ê·meq|in the valley|H6010|Prep-b, Art | N-ms
 v9 וַֽיְהִי֙|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v9 בַּלַּ֣יְלָה|bal·lay·lāh|night|H3915|Prep-b, Art | N-ms
 v9 הַה֔וּא|ha·hū|That|H1931|Art | Pro-3ms
@@ -240,7 +240,7 @@ v12 הַיָּ֖ם|hay·yām|...|H3220|Art | N-ms
 v12 לָרֹֽב׃|lā·rōḇ|...|H7230|Prep-l, Art | N-ms
 v13 וַיָּבֹ֣א|way·yā·ḇō|arrived|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v13 גִדְע֔וֹן|ḡiḏ·‘ō·wn|And as Gideon|H1439|N-proper-ms
-v13 וְהִ֨נֵּה־|wə·hin·nêh-||H2009|Conj-w | Interjection
+v13 וְהִ֨נֵּה־|wə·hin·nêh-|-|H2009|Conj-w | Interjection
 v13 אִ֔ישׁ|’îš|a man|H376|N-ms
 v13 מְסַפֵּ֥ר|mə·sap·pêr|was telling|H5608|V-Piel-Prtcpl-ms
 v13 לְרֵעֵ֖הוּ|lə·rê·‘ê·hū|his friend|H7453|Prep-l | N-msc | 3ms
@@ -285,12 +285,12 @@ v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 מִדְיָ֖ן|miḏ·yān|Midian|H4080|N-proper-ms
 v14 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v14 כָּל־|kāl-|the whole|H3605|N-msc
-v14 הַֽמַּחֲנֶֽה׃פ|ham·ma·ḥă·neh|camp|H4264|Art | N-cs
+v14 הַֽמַּחֲנֶֽה׃|ham·ma·ḥă·neh|camp|H4264|Art | N-cs
 v15 וַיְהִי֩|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v15 כִשְׁמֹ֨עַ|ḵiš·mō·a‘|heard|H8085|Prep-k | V-Qal-Inf
 v15 גִּדְע֜וֹן|giḏ·‘ō·wn|When Gideon|H1439|N-proper-ms
 v15 אֶת־|’eṯ-|-|H853|DirObjM
-v15 מִסְפַּ֧ר|mis·par|vvv|H4557|N-msc
+v15 מִסְפַּ֧ר|mis·par|...|H4557|N-msc
 v15 הַחֲל֛וֹם|ha·ḥă·lō·wm|the dream|H2472|Art | N-ms
 v15 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v15 שִׁבְר֖וֹ|šiḇ·rōw|and its interpretation|H7667|N-msc | 3ms
@@ -355,7 +355,7 @@ v18 כָּל־|kāl-|from all|H3605|N-msc
 v18 הַֽמַּחֲנֶ֔ה|ham·ma·ḥă·neh|the camp|H4264|Art | N-cs
 v18 וַאֲמַרְתֶּ֖ם|wa·’ă·mar·tem|and shout|H559|Conj-w | V-Qal-ConjPerf-2mp
 v18 לַיהוָ֥ה|Yah·weh|For the LORD|H3068|Prep-l | N-proper-ms
-v18 וּלְגִדְעֽוֹן׃פ|ū·lə·ḡiḏ·‘ō·wn|and for Gideon|H1439|Conj-w, Prep-l | N-proper-ms
+v18 וּלְגִדְעֽוֹן׃|ū·lə·ḡiḏ·‘ō·wn|and for Gideon|H1439|Conj-w, Prep-l | N-proper-ms
 v19 וַיָּבֹ֣א|way·yā·ḇō|reached|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v19 גִ֠דְעוֹן|ḡiḏ·‘ō·wn|Gideon|H1439|N-proper-ms
 v19 וּמֵאָה־|ū·mê·’āh-|and the hundred|H3967|Conj-w | Number-fs
@@ -421,12 +421,12 @@ v22 הַֽמַּחֲנֶ֑ה|ham·ma·ḥă·neh|in the camp|H4264|Art | N-cs
 v22 וַיָּ֨נָס|way·yā·nās|fled|H5127|Conj-w | V-Qal-ConsecImperf-3ms
 v22 הַֽמַּחֲנֶ֜ה|ham·ma·ḥă·neh|The army|H4264|Art | N-cs
 v22 עַד־|‘aḏ-|to|H5704|Prep
-v22 בֵּ֤ית|bêṯ|vvv|H1029|Prep
+v22 בֵּ֤ית|bêṯ|...|H1029|Prep
 v22 הַשִּׁטָּה֙|haš·šiṭ·ṭāh|Beth-shittah|H1029|N-proper-fs
 v22 צְֽרֵרָ֔תָה|ṣə·rê·rā·ṯāh|toward Zererah|H6888|N-proper-fs | 3fs
 v22 עַ֛ד|‘aḏ|as|H5704|Prep
 v22 שְׂפַת־|śə·p̄aṯ-|far as the border|H8193|N-fsc
-v22 אָבֵ֥ל|’ā·ḇêl|vvv|H65|
+v22 אָבֵ֥ל|’ā·ḇêl|...|H65|
 v22 מְחוֹלָ֖ה|mə·ḥō·w·lāh|of Abel-meholah|H65|N-proper-fs
 v22 עַל־|‘al-|near|H5921|Prep
 v22 טַבָּֽת׃|ṭab·bāṯ|Tabbath|H2888|N-proper-fs
@@ -457,7 +457,7 @@ v24 לָהֶם֙|lā·hem|ahead of them|H0|Prep | 3mp
 v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 הַמַּ֔יִם|ham·ma·yim|the waters|H4325|Art | N-mp
 v24 עַ֛ד|‘aḏ|as far as|H5704|Prep
-v24 בֵּ֥ית|bêṯ|vvv|H1012|Prep
+v24 בֵּ֥ית|bêṯ|...|H1012|Prep
 v24 בָּרָ֖ה|bā·rāh|Beth-barah|H1012|N-proper-fs
 v24 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v24 הַיַּרְדֵּ֑ן|hay·yar·dên|of the Jordan|H3383|Art | N-proper-fs
@@ -469,7 +469,7 @@ v24 וַיִּלְכְּד֣וּ|way·yil·kə·ḏū|and they captured|H3920|Co
 v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 הַמַּ֔יִם|ham·ma·yim|the waters|H4325|Art | N-mp
 v24 עַ֛ד|‘aḏ|as far as|H5704|Prep
-v24 בֵּ֥ית|bêṯ|vvv|H1012|Prep
+v24 בֵּ֥ית|bêṯ|...|H1012|Prep
 v24 בָּרָ֖ה|bā·rāh|Beth-barah|H1012|N-proper-fs
 v24 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v24 הַיַּרְדֵּֽן׃|hay·yar·dên|of the Jordan|H3383|Art | N-proper-fs
@@ -492,7 +492,7 @@ v25 הָרְג֣וּ|hā·rə·ḡū|...|H2026|V-Qal-Perf-3cp
 v25 בְיֶֽקֶב־|ḇə·ye·qeḇ-|at the winepress|H3342|Prep-b | N-proper-fs
 v25 זְאֵ֔ב|zə·’êḇ|of Zeeb|H2062|N-proper-ms
 v25 וַֽיִּרְדְּפ֖וּ|way·yir·də·p̄ū|So they pursued|H7291|Conj-w | V-Qal-ConsecImperf-3mp
-v25 אֶל־|’el-||H413|Prep
+v25 אֶל־|’el-|-|H413|Prep
 v25 מִדְיָ֑ן|miḏ·yān|the Midianites|H4080|N-proper-ms
 v25 וְרֹאשׁ־|wə·rōš-|the heads|H7218|Conj-w | N-msc
 v25 עֹרֵ֣ב|‘ō·rêḇ|of Oreb|H6159|N-proper-ms

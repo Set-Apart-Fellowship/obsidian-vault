@@ -5,13 +5,13 @@ v1 שָׁא֔וּל|šā·’ūl|Saul|H7586|N-proper-ms
 v1 מֵאַחֲרֵ֖י|mê·’a·ḥă·rê|from pursuing|H310|Prep-m
 v1 פְּלִשְׁתִּ֑ים|pə·liš·tîm|the Philistines|H6430|N-proper-mp
 v1 וַיַּגִּ֤דוּ|way·yag·gi·ḏū|he was told|H5046|Conj-w | V-Hifil-ConsecImperf-3mp
-v1 לוֹ֙|lōw||H0|Prep | 3ms
+v1 לוֹ֙|lōw|-|H0|Prep | 3ms
 v1 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v1 הִנֵּ֣ה|hin·nêh|-|H2009|Interjection
 v1 דָוִ֔ד|ḏā·wiḏ|David|H1732|N-proper-ms
 v1 בְּמִדְבַּ֖ר|bə·miḏ·bar|is in the wilderness|H4057|Prep-b | N-msc
-v1 עֵ֥ין|‘ên|vvv|H5872|
-v1 גֶּֽדִי׃ס|ge·ḏî|of En-gedi|H5872|N-proper-fs
+v1 עֵ֥ין|‘ên|...|H5872|
+v1 גֶּֽדִי׃|ge·ḏî|of En-gedi|H5872|N-proper-fs
 v2 וַיִּקַּ֣ח|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v2 שָׁא֗וּל|šā·’ūl|So Saul|H7586|N-proper-ms
 v2 שְׁלֹ֧שֶׁת|šə·lō·šeṯ|three|H7969|Number-msc
@@ -90,7 +90,7 @@ v5 כָּרַ֔ת|kā·raṯ|he had cut off|H3772|V-Qal-Perf-3ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 כָּנָ֖ף|kā·nāp̄|the corner|H3671|N-fs
 v5 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v5 לְשָׁאֽוּל׃ס|lə·šā·’ūl|of Saul's robe|H7586|Prep-l | N-proper-ms
+v5 לְשָׁאֽוּל׃|lə·šā·’ūl|of Saul's robe|H7586|Prep-l | N-proper-ms
 v6 וַיֹּ֨אמֶר|way·yō·mer|So he said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 לַאֲנָשָׁ֜יו|la·’ă·nā·šāw|to his men|H582|Prep-l | N-mpc | 3ms
 v6 חָלִ֧ילָה|ḥā·lî·lāh|forbid|H2486|Interjection | 3fs
@@ -125,7 +125,7 @@ v7 וְשָׁא֛וּל|wə·šā·’ūl|Then Saul|H7586|Conj-w | N-proper-ms
 v7 קָ֥ם|qām|left|H6965|V-Qal-Perf-3ms
 v7 מֵהַמְּעָרָ֖ה|mê·ham·mə·‘ā·rāh|the cave|H4631|Prep-m, Art | N-fs
 v7 וַיֵּ֥לֶךְ|way·yê·leḵ|and went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
-v7 בַּדָּֽרֶךְ׃ס|bad·dā·reḵ|on his way|H1870|Prep-b, Art | N-cs
+v7 בַּדָּֽרֶךְ׃|bad·dā·reḵ|on his way|H1870|Prep-b, Art | N-cs
 v8 וַיָּ֨קָם|way·yā·qām|got up|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דָּוִ֜ד|dā·wiḏ|David|H1732|N-proper-ms
 v8 אַחֲרֵי־|’a·ḥă·rê-|After|H310|Prep
@@ -146,7 +146,7 @@ v8 וַיִּקֹּ֨ד|way·yiq·qōḏ|bowed|H6915|Conj-w | V-Qal-ConsecImperf
 v8 דָּוִ֥ד|dā·wiḏ|David|H1732|N-proper-ms
 v8 אַפַּ֛יִם|’ap·pa·yim|facedown|H639|N-md
 v8 אַ֖רְצָה|’ar·ṣāh|...|H776|N-fs | 3fs
-v8 וַיִּשְׁתָּֽחוּ׃ס|way·yiš·tā·ḥū|in reverence|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
+v8 וַיִּשְׁתָּֽחוּ׃|way·yiš·tā·ḥū|in reverence|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
 v9 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 דָּוִד֙|dā·wiḏ|and|H1732|N-proper-ms
 v9 לְשָׁא֔וּל|lə·šā·’ūl|to Saul|H7586|Prep-l | N-proper-ms
@@ -263,7 +263,7 @@ v15 וְיָרֵ֣ב|wə·yā·rêḇ|and plead|H7378|Conj-w | V-Qal-ConjImperf.
 v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 רִיבִ֔י|rî·ḇî|my case|H7379|N-msc | 1cs
 v15 וְיִשְׁפְּטֵ֖נִי|wə·yiš·pə·ṭê·nî|and deliver me|H8199|Conj-w | V-Qal-ConjImperf-3ms | 1cs
-v15 מִיָּדֶֽךָ׃פ|mî·yā·ḏe·ḵā|from your hand|H3027|Prep-m | N-fsc | 2ms
+v15 מִיָּדֶֽךָ׃|mî·yā·ḏe·ḵā|from your hand|H3027|Prep-m | N-fsc | 2ms
 v16 וַיְהִ֣י׀|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v16 כְּכַלּ֣וֹת|kə·ḵal·lō·wṯ|had finished|H3615|Prep-k | V-Piel-Inf
 v16 דָּוִ֗ד|dā·wiḏ|When David|H1732|N-proper-ms
@@ -364,4 +364,4 @@ v22 וְדָוִד֙|wə·ḏā·wiḏ|but David|H1732|Conj-w | N-proper-ms
 v22 וַֽאֲנָשָׁ֔יו|wa·’ă·nā·šāw|and his men|H376|Conj-w | N-mpc | 3ms
 v22 עָל֖וּ|‘ā·lū|went up|H5927|V-Qal-Perf-3cp
 v22 עַל־|‘al-|to|H5921|Prep
-v22 הַמְּצוּדָֽה׃פ|ham·mə·ṣū·ḏāh|the stronghold|H4686|Art | N-fs
+v22 הַמְּצוּדָֽה׃|ham·mə·ṣū·ḏāh|the stronghold|H4686|Art | N-fs

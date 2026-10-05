@@ -2,20 +2,20 @@ v1 וְאַתָּ֨ה|wə·’at·tāh|As for you|H859|Conj-w | Pro-2ms
 v1 בֶן־|ḇen-|son|H1121|N-msc
 v1 אָדָ֜ם|’ā·ḏām|of man|H120|N-ms
 v1 קַח־|qaḥ-|take|H3947|V-Qal-Imp-ms
-v1 לְךָ֣׀|lə·ḵā||H0|Prep | 2ms
+v1 לְךָ֣׀|lə·ḵā|-|H0|Prep | 2ms
 v1 חֶ֣רֶב|ḥe·reḇ|sword|H2719|N-fs
 v1 חַדָּ֗ה|ḥad·dāh|a sharp|H2299|Adj-fs
 v1 תַּ֤עַר|ta·‘ar|razor|H8593|N-msc
 v1 הַגַּלָּבִים֙|hag·gal·lā·ḇîm|as a barber's|H1532|Art | N-mp
 v1 תִּקָּחֶ֣נָּה|tiq·qā·ḥen·nāh|use it|H3947|V-Qal-Imperf-2ms | 3fs
-v1 לָּ֔ךְ|lāḵ||H0|Prep | 2fs
+v1 לָּ֔ךְ|lāḵ|-|H0|Prep | 2fs
 v1 וְהַעֲבַרְתָּ֥|wə·ha·‘ă·ḇar·tā|and shave|H5674|Conj-w | V-Hifil-ConjPerf-2ms
 v1 עַל־|‘al-|...|H5921|Prep
 v1 רֹאשְׁךָ֖|rō·šə·ḵā|your head|H7218|N-msc | 2ms
 v1 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v1 זְקָנֶ֑ךָ|zə·qā·ne·ḵā|and beard|H2206|N-csc | 2ms
 v1 וְלָקַחְתָּ֥|wə·lā·qaḥ·tā|Then take|H3947|Conj-w | V-Qal-ConjPerf-2ms
-v1 לְךָ֛|lə·ḵā||H0|Prep | 2ms
+v1 לְךָ֛|lə·ḵā|-|H0|Prep | 2ms
 v1 מֹאזְנֵ֥י|mō·zə·nê|a set of scales|H3976|N-mdc
 v1 מִשְׁקָ֖ל|miš·qāl|...|H4948|N-ms
 v1 וְחִלַּקְתָּֽם׃|wə·ḥil·laq·tām|and divide the hair|H2505|Conj-w | V-Piel-ConjPerf-2ms | 3mp
@@ -63,7 +63,7 @@ v4 אֵ֖שׁ|’êš|a fire|H784|N-cs
 v4 אֶל־|’el-|to|H413|Prep
 v4 כָּל־|kāl-|the whole|H3605|N-msc
 v4 בֵּ֥ית|bêṯ|house|H1004|N-msc
-v4 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v4 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v5 כֹּ֤ה|kōh|This is what|H3541|Adv
 v5 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v5 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -93,7 +93,7 @@ v6 מָאָ֔סוּ|mā·’ā·sū|[her people] have rejected|H3988|V-Qal-Perf-
 v6 וְחֻקּוֹתַ֖י|wə·ḥuq·qō·w·ṯay|My statutes|H2708|Conj-w | N-fpc | 1cs
 v6 לֹא־|lō-|and have not|H3808|Adv-NegPrt
 v6 הָלְכ֥וּ|hā·lə·ḵū|walked|H1980|V-Qal-Perf-3cp
-v6 בָהֶֽם׃ס|ḇā·hem|in|H0|Prep | 3mp
+v6 בָהֶֽם׃|ḇā·hem|in|H0|Prep | 3mp
 v7 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v7 כֹּֽה־|kōh-|this is what|H3541|Adv
 v7 אָמַ֣ר׀|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -117,7 +117,7 @@ v7 הַגּוֹיִ֛ם|hag·gō·w·yim|of the nations|H1471|Art | N-mp
 v7 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v7 סְבִיבוֹתֵיכֶ֖ם|sə·ḇî·ḇō·w·ṯê·ḵem|around you|H5439|Adv | 2mp
 v7 לֹ֥א|lō|nor|H3808|Adv-NegPrt
-v7 עֲשִׂיתֶֽם׃ס|‘ă·śî·ṯem|have you even conformed|H6213|V-Qal-Perf-2mp
+v7 עֲשִׂיתֶֽם׃|‘ă·śî·ṯem|have you even conformed|H6213|V-Qal-Perf-2mp
 v8 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v8 כֹּ֤ה|kōh|this is what|H3541|Adv
 v8 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -146,7 +146,7 @@ v9 כָמֹ֖הוּ|ḵā·mō·hū|...|H3644|Prep | 3ms
 v9 ע֑וֹד|‘ō·wḏ|again|H5750|Adv
 v9 יַ֖עַן|ya·‘an|Because of|H3282|Adv
 v9 כָּל־|kāl-|all|H3605|N-msc
-v9 תּוֹעֲבֹתָֽיִךְ׃ס|tō·w·‘ă·ḇō·ṯā·yiḵ|your abominations|H8441|N-fpc | 2fs
+v9 תּוֹעֲבֹתָֽיִךְ׃|tō·w·‘ă·ḇō·ṯā·yiḵ|your abominations|H8441|N-fpc | 2fs
 v10 לָכֵ֗ן|lā·ḵên|As a result|H3651|Adv
 v10 אָב֞וֹת|’ā·ḇō·wṯ|fathers|H1|N-mp
 v10 יֹאכְל֤וּ|yō·ḵə·lū|will eat|H398|V-Qal-Imperf-3mp
@@ -163,7 +163,7 @@ v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 כָּל־|kāl-|all|H3605|N-msc
 v10 שְׁאֵרִיתֵ֖ךְ|šə·’ê·rî·ṯêḵ|your remnant|H7611|N-fsc | 2fs
 v10 לְכָל־|lə·ḵāl|to every|H3605|Prep-l | N-msc
-v10 רֽוּחַ׃פ|rū·aḥ|wind|H7307|N-cs
+v10 רֽוּחַ׃|rū·aḥ|wind|H7307|N-cs
 v11 לָכֵ֣ן|lā·ḵên|Therefore|H3651|Adv
 v11 חַי־|ḥay-|live|H2416|N-ms
 v11 אָ֗נִי|’ā·nî|as surely as I|H589|Pro-1cs
@@ -171,7 +171,7 @@ v11 נְאֻם֮|nə·’um|declares|H5002|N-msc
 v11 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v11 יְהוִה֒|Yah·weh|GOD|H3069|N-proper-ms
 v11 אִם־|’im-|...|H518|Conj
-v11 לֹ֗א|lō||H3808|Adv-NegPrt
+v11 לֹ֗א|lō|-|H3808|Adv-NegPrt
 v11 יַ֚עַן|ya·‘an|because|H3282|Adv
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 מִקְדָּשִׁ֣י|miq·dā·šî|My sanctuary|H4720|N-msc | 1cs
@@ -180,7 +180,7 @@ v11 בְּכָל־|bə·ḵāl|with all|H3605|Prep-b | N-msc
 v11 שִׁקּוּצַ֖יִךְ|šiq·qū·ṣa·yiḵ|your detestable idols|H8251|N-mpc | 2fs
 v11 וּבְכָל־|ū·ḇə·ḵāl|...|H3605|Conj-w, Prep-b | N-msc
 v11 תּוֹעֲבֹתָ֑יִךְ|tō·w·‘ă·ḇō·ṯā·yiḵ|and abominations|H8441|N-fpc | 2fs
-v11 וְגַם־|wə·ḡam-|vvv|H1571|Conj
+v11 וְגַם־|wə·ḡam-|...|H1571|Conj
 v11 אֲנִ֤י|’ă·nî|I Myself|H589|Pro-1cs
 v11 אֶגְרַע֙|’eḡ·ra‘|will withdraw My favor|H1639|V-Qal-Imperf-1cs
 v11 וְלֹא־|wə·lō-|-|H3808|Conj-w | Adv-NegPrt
@@ -284,4 +284,4 @@ v17 אָבִ֣יא|’ā·ḇî|and I will bring|H935|V-Hifil-Imperf-1cs
 v17 עָלַ֔יִךְ|‘ā·la·yiḵ|against you|H5921|Prep | 2fs
 v17 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v17 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v17 דִּבַּֽרְתִּי׃פ|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
+v17 דִּבַּֽרְתִּי׃|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs

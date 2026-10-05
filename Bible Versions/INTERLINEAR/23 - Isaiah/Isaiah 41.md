@@ -78,7 +78,7 @@ v7 ה֔וּא|hū|It|H1931|Pro-3ms
 v7 וַיְחַזְּקֵ֥הוּ|way·ḥaz·zə·qê·hū|He nails it down|H2388|Conj-w | V-Piel-ConsecImperf-3ms | 3ms
 v7 בְמַסְמְרִ֖ים|ḇə·mas·mə·rîm|...|H4548|Prep-b | N-mp
 v7 לֹ֥א|lō|so it will not|H3808|Adv-NegPrt
-v7 יִמּֽוֹט׃ס|yim·mō·wṭ|be toppled|H4131|V-Nifal-Imperf-3ms
+v7 יִמּֽוֹט׃|yim·mō·wṭ|be toppled|H4131|V-Nifal-Imperf-3ms
 v8 וְאַתָּה֙|wə·’at·tāh|But you|H859|Conj-w | Pro-2ms
 v8 יִשְׂרָאֵ֣ל|yiś·rā·’êl|O Israel|H3478|N-proper-ms
 v8 עַבְדִּ֔י|‘aḇ·dî|My servant|H5650|N-msc | 1cs
@@ -95,7 +95,7 @@ v9 הָאָ֔רֶץ|hā·’ā·reṣ|of the earth|H776|Art | N-fs
 v9 וּמֵאֲצִילֶ֖יהָ|ū·mê·’ă·ṣî·le·hā|from its farthest corners|H678|Conj-w, Prep-m | N-mpc | 3fs
 v9 קְרָאתִ֑יךָ|qə·rā·ṯî·ḵā|and called you|H7121|V-Qal-Perf-1cs | 2ms
 v9 וָאֹ֤מַר|wā·’ō·mar|I said|H559|Conj-w | V-Qal-ConsecImperf-1cs
-v9 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v9 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v9 עַבְדִּי־|‘aḇ·dî-|are My servant|H5650|N-msc | 1cs
 v9 אַ֔תָּה|’at·tāh|You|H859|Pro-2ms
 v9 בְּחַרְתִּ֖יךָ|bə·ḥar·tî·ḵā|I have chosen|H977|V-Qal-Perf-1cs | 2ms
@@ -112,7 +112,7 @@ v10 כִּֽי־|kî-|for|H3588|Conj
 v10 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v10 אֱלֹהֶ֑יךָ|’ĕ·lō·he·ḵā|am your God|H430|N-mpc | 2ms
 v10 אִמַּצְתִּ֙יךָ֙|’im·maṣ·tî·ḵā|I will strengthen you|H553|V-Piel-Perf-1cs | 2ms
-v10 אַף־|’ap̄-|vvv|H637|Conj
+v10 אַף־|’ap̄-|...|H637|Conj
 v10 עֲזַרְתִּ֔יךָ|‘ă·zar·tî·ḵā|I will surely help you|H5826|V-Qal-Perf-1cs | 2ms
 v10 אַף־|’ap̄-|...|H637|Conj
 v10 תְּמַכְתִּ֖יךָ|tə·maḵ·tî·ḵā|I will uphold you|H8551|V-Qal-Perf-1cs | 2ms
@@ -150,7 +150,7 @@ v13 לְךָ֛|lə·ḵā|you|H0|Prep | 2ms
 v13 אַל־|’al-|Do not|H408|Adv
 v13 תִּירָ֖א|tî·rā|fear|H3372|V-Qal-Imperf-2ms
 v13 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v13 עֲזַרְתִּֽיךָ׃ס|‘ă·zar·tî·ḵā|will help you|H5826|V-Qal-Perf-1cs | 2ms
+v13 עֲזַרְתִּֽיךָ׃|‘ă·zar·tî·ḵā|will help you|H5826|V-Qal-Perf-1cs | 2ms
 v14 אַל־|’al-|Do not|H408|Adv
 v14 תִּֽירְאִי֙|tî·rə·’î|fear|H3372|V-Qal-Imperf-2fs
 v14 תּוֹלַ֣עַת|tō·w·la·‘aṯ|you worm|H8438|N-fsc
@@ -188,7 +188,7 @@ v16 תָּגִ֣יל|tā·ḡîl|will rejoice|H1523|V-Qal-Imperf-2ms
 v16 בַּֽיהוָ֔ה|Yah·weh|in the LORD|H3068|Prep-b | N-proper-ms
 v16 בִּקְד֥וֹשׁ|biq·ḏō·wōš|in the Holy|H6918|Prep-b | Adj-msc
 v16 יִשְׂרָאֵ֖ל|yiś·rā·’êl|One of Israel|H3478|N-proper-ms
-v16 תִּתְהַלָּֽל׃פ|tiṯ·hal·lāl|you will glory|H1984|V-Hitpael-Imperf-2ms
+v16 תִּתְהַלָּֽל׃|tiṯ·hal·lāl|you will glory|H1984|V-Hitpael-Imperf-2ms
 v17 הָעֲנִיִּ֨ים|hā·‘ă·nî·yîm|The poor|H6041|Art | Adj-mp
 v17 וְהָאֶבְיוֹנִ֜ים|wə·hā·’eḇ·yō·w·nîm|and needy|H34|Conj-w, Art | N-mp
 v17 מְבַקְשִׁ֥ים|mə·ḇaq·šîm|seek|H1245|V-Piel-Prtcpl-mp
@@ -245,7 +245,7 @@ v20 עָ֣שְׂתָה|‘ā·śə·ṯāh|has done|H6213|V-Qal-Perf-3fs
 v20 זֹּ֑את|zōṯ|this|H2063|Pro-fs
 v20 וּקְד֥וֹשׁ|ū·qə·ḏō·wōš|and the Holy|H6918|Conj-w | Adj-msc
 v20 יִשְׂרָאֵ֖ל|yiś·rā·’êl|One of Israel|H3478|N-proper-ms
-v20 בְּרָאָֽהּ׃פ|bə·rā·’āh|has created it|H1254|V-Qal-Perf-3ms | 3fs
+v20 בְּרָאָֽהּ׃|bə·rā·’āh|has created it|H1254|V-Qal-Perf-3ms | 3fs
 v21 קָרְב֥וּ|qā·rə·ḇū|Present|H7126|V-Piel-Imp-mp
 v21 רִֽיבְכֶ֖ם|rî·ḇə·ḵem|your case|H7379|N-msc | 2mp
 v21 יֹאמַ֣ר|yō·mar|says|H559|V-Qal-Imperf-3ms
@@ -348,4 +348,4 @@ v29 אֶ֖פֶס|’e·p̄es|amount to nothing|H657|N-ms
 v29 מַעֲשֵׂיהֶ֑ם|ma·‘ă·śê·hem|their works|H4639|N-mpc | 3mp
 v29 ר֥וּחַ|rū·aḥ|as the wind|H7307|N-cs
 v29 וָתֹ֖הוּ|wā·ṯō·hū|are as empty|H8414|Conj-w | N-ms
-v29 נִסְכֵּיהֶֽם׃פ|nis·kê·hem|their images|H5262|N-mpc | 3mp
+v29 נִסְכֵּיהֶֽם׃|nis·kê·hem|their images|H5262|N-mpc | 3mp

@@ -46,7 +46,7 @@ v3 יִפְתָּח֙|yip̄·tāḥ|[him]|H3316|N-proper-ms
 v3 אֲנָשִׁ֣ים|’ă·nā·šîm|...|H582|N-mp
 v3 רֵיקִ֔ים|rê·qîm|where worthless men|H7386|Adj-mp
 v3 וַיֵּצְא֖וּ|way·yê·ṣə·’ū|and traveled|H3318|Conj-w | V-Qal-ConsecImperf-3mp
-v3 עִמּֽוֹ׃פ|‘im·mōw|with him|H5973|Prep | 3ms
+v3 עִמּֽוֹ׃|‘im·mōw|with him|H5973|Prep | 3ms
 v4 וַיְהִ֖י|way·hî|Some time later|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v4 מִיָּמִ֑ים|mî·yā·mîm|...|H3117|Prep-m | N-mp
 v4 וַיִּלָּחֲמ֥וּ|way·yil·lā·ḥă·mū|fought|H3898|Conj-w | V-Nifal-ConsecImperf-3mp
@@ -118,7 +118,7 @@ v8 יֹשְׁבֵ֥י|yō·šə·ḇê|who live|H3427|V-Qal-Prtcpl-mpc
 v8 גִלְעָֽד׃|ḡil·‘āḏ|in Gilead|H1568|N-proper-fs
 v9 וַיֹּ֨אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יִפְתָּ֜ח|yip̄·tāḥ|But Jephthah|H3316|N-proper-ms
-v9 אֶל־|’el-|vvv|H413|Prep
+v9 אֶל־|’el-|...|H413|Prep
 v9 זִקְנֵ֣י|ziq·nê|[them]|H2205|Adj-mpc
 v9 גִלְעָ֗ד|ḡil·‘āḏ|...|H1568|N-proper-fs
 v9 אִם־|’im-|If|H518|Conj
@@ -168,7 +168,7 @@ v11 כָּל־|kāl-|all|H3605|N-msc
 v11 דְּבָרָ֛יו|də·ḇā·rāw|his terms|H1697|N-mpc | 3ms
 v11 לִפְנֵ֥י|lip̄·nê|in the presence|H6440|Prep-l | N-cpc
 v11 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v11 בַּמִּצְפָּֽה׃פ|bam·miṣ·pāh|at Mizpah|H4709|Prep-b, Art | N-proper-fs
+v11 בַּמִּצְפָּֽה׃|bam·miṣ·pāh|at Mizpah|H4709|Prep-b, Art | N-proper-fs
 v12 וַיִּשְׁלַ֤ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יִפְתָּח֙|yip̄·tāḥ|Then Jephthah|H3316|N-proper-ms
 v12 מַלְאָכִ֔ים|mal·’ā·ḵîm|messengers|H4397|N-mp
@@ -189,7 +189,7 @@ v13 וַיֹּאמֶר֩|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf
 v13 מֶ֨לֶךְ|me·leḵ|The king|H4428|N-msc
 v13 בְּנֵי־|bə·nê-|of the Ammonites|H1121|N-mpc
 v13 עַמּ֜וֹן|‘am·mō·wn|...|H5983|N-proper-ms
-v13 אֶל־|’el-||H413|Prep
+v13 אֶל־|’el-|-|H413|Prep
 v13 מַלְאֲכֵ֣י|mal·’ă·ḵê|messengers|H4397|N-mpc
 v13 יִפְתָּ֗ח|yip̄·tāḥ|Jephthah's|H3316|N-proper-ms
 v13 כִּֽי־|kî-|...|H3588|Conj
@@ -274,7 +274,7 @@ v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 אֶ֤רֶץ|’e·reṣ|the lands|H776|N-fsc
 v18 אֱדוֹם֙|’ĕ·ḏō·wm|of Edom|H123|N-proper-ms
 v18 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
-v18 אֶ֣רֶץ|’e·reṣ||H776|N-fsc
+v18 אֶ֣רֶץ|’e·reṣ|-|H776|N-fsc
 v18 מוֹאָ֔ב|mō·w·’āḇ|Moab|H4124|N-proper-fs
 v18 וַיָּבֹ֤א|way·yā·ḇō|They came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v18 מִמִּזְרַח־|mim·miz·raḥ-|to|H4217|Prep-m | N-msc
@@ -453,9 +453,9 @@ v28 עַמּ֑וֹן|‘am·mō·wn|...|H5983|N-proper-ms
 v28 אֶל־|’el-|to|H413|Prep
 v28 דִּבְרֵ֣י|diḇ·rê|the message|H1697|N-mpc
 v28 יִפְתָּ֔ח|yip̄·tāḥ|Jephthah|H3316|N-proper-ms
-v28 אֲשֶׁ֥ר|’ă·šer||H834|Pro-r
+v28 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v28 שָׁלַ֖ח|šā·laḥ|sent|H7971|V-Qal-Perf-3ms
-v28 אֵלָֽיו׃פ|’ê·lāw|him|H413|Prep | 3ms
+v28 אֵלָֽיו׃|’ê·lāw|him|H413|Prep | 3ms
 v29 וַתְּהִ֤י|wat·tə·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v29 עַל־|‘al-|upon|H5921|Prep
 v29 יִפְתָּח֙|yip̄·tāḥ|Jephthah|H3316|N-proper-ms
@@ -501,7 +501,7 @@ v31 עַמּ֑וֹן|‘am·mō·wn|...|H5983|N-proper-ms
 v31 וְהָיָה֙|wə·hā·yāh|will belong to|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v31 לַֽיהוָ֔ה|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
 v31 וְהַעֲלִיתִ֖הוּ|wə·ha·‘ă·lî·ṯi·hū|and I will offer it up|H5927|Conj-w | V-Hifil-ConjPerf-1cs | 3ms
-v31 עוֹלָֽה׃פ|‘ō·w·lāh|as a burnt offering|H5930|N-fs
+v31 עוֹלָֽה׃|‘ō·w·lāh|as a burnt offering|H5930|N-fs
 v32 וַיַּעֲבֹ֥ר|way·ya·‘ă·ḇōr|crossed over|H5674|Conj-w | V-Qal-ConsecImperf-3ms
 v32 יִפְתָּ֛ח|yip̄·tāḥ|So Jephthah|H3316|N-proper-ms
 v32 אֶל־|’el-|to|H413|Prep
@@ -530,11 +530,11 @@ v33 בְּנֵ֣י|bə·nê|So the Ammonites|H1121|N-mpc
 v33 עַמּ֔וֹן|‘am·mō·wn|...|H5983|N-proper-ms
 v33 מִפְּנֵ֖י|mip·pə·nê|before|H6440|Prep-m | N-cpc
 v33 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
-v33 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|...|H3478|N-proper-ms
+v33 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v34 וַיָּבֹ֨א|way·yā·ḇō|returned|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v34 יִפְתָּ֣ח|yip̄·tāḥ|And when Jephthah|H3316|N-proper-ms
 v34 הַמִּצְפָּה֮|ham·miṣ·pāh|to Mizpah|H4709|Art | N-proper-fs
-v34 אֶל־|’el-||H413|Prep
+v34 אֶל־|’el-|-|H413|Prep
 v34 בֵּיתוֹ֒|bê·ṯōw|home|H1004|N-msc | 3ms
 v34 וְהִנֵּ֤ה|wə·hin·nêh|there|H2009|Conj-w | Interjection
 v34 בִתּוֹ֙|ḇit·tōw|was his daughter|H1323|N-fsc | 3ms
@@ -574,7 +574,7 @@ v35 וְלֹ֥א|wə·lō|and cannot|H3808|Conj-w | Adv-NegPrt
 v35 אוּכַ֖ל|’ū·ḵal|...|H3201|V-Qal-Imperf-1cs
 v35 לָשֽׁוּב׃|lā·šūḇ|take it back|H7725|Prep-l | V-Qal-Inf
 v36 וַתֹּ֣אמֶר|wat·tō·mer|she replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v36 אֵלָ֗יו|’ê·lāw||H413|Prep | 3ms
+v36 אֵלָ֗יו|’ê·lāw|-|H413|Prep | 3ms
 v36 אָבִי֙|’ā·ḇî|My father|H1|N-msc | 1cs
 v36 פָּצִ֤יתָה|pā·ṣî·ṯāh|you have given your word|H6475|V-Qal-Perf-2ms
 v36 אֶת־|’eṯ-|-|H853|DirObjM
@@ -625,7 +625,7 @@ v38 וַתֵּ֤לֶךְ|wat·tê·leḵ|left|H1980|Conj-w | V-Qal-ConsecImperf-
 v38 הִיא֙|hî|So she|H1931|Pro-3fs
 v38 וְרֵ֣עוֹתֶ֔יהָ|wə·rê·‘ō·w·ṯe·hā|with her friends|H7464|Conj-w | N-fpc | 3fs
 v38 וַתֵּ֥בְךְּ|wat·tê·ḇək|and mourned|H1058|Conj-w | V-Qal-ConsecImperf-3fs
-v38 עַל־|‘al-||H5921|Prep
+v38 עַל־|‘al-|-|H5921|Prep
 v38 בְּתוּלֶ֖יהָ|bə·ṯū·le·hā|her virginity|H1331|N-mpc | 3fs
 v38 עַל־|‘al-|upon|H5921|Prep
 v38 הֶהָרִֽים׃|he·hā·rîm|the mountains|H2022|Art | N-mp
@@ -639,8 +639,8 @@ v39 אָבִ֔יהָ|’ā·ḇî·hā|her father|H1|N-msc | 3fs
 v39 וַיַּ֣עַשׂ|way·ya·‘aś|and he did|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v39 לָ֔הּ|lāh|to her|H0|Prep | 3fs
 v39 אֶת־|’eṯ-|-|H853|DirObjM
-v39 נִדְר֖וֹ|niḏ·rōw|vvv|H5088|N-msc | 3ms
-v39 אֲשֶׁ֣ר|’ă·šer|vvv|H834|Pro-r
+v39 נִדְר֖וֹ|niḏ·rōw|...|H5088|N-msc | 3ms
+v39 אֲשֶׁ֣ר|’ă·šer|...|H834|Pro-r
 v39 נָדָ֑ר|nā·ḏār|as he had vowed|H5087|V-Qal-Perf-3ms
 v39 וְהִיא֙|wə·hî|And she|H1931|Conj-w | Pro-3fs
 v39 לֹא־|lō-|had never|H3808|Adv-NegPrt
@@ -660,4 +660,4 @@ v40 יִפְתָּ֖ח|yip̄·tāḥ|of Jephthah|H3316|N-proper-ms
 v40 הַגִּלְעָדִ֑י|hag·gil·‘ā·ḏî|the Gileadite|H1569|Art | N-proper-ms
 v40 אַרְבַּ֥עַת|’ar·ba·‘aṯ|for four|H702|Number-msc
 v40 יָמִ֖ים|yā·mîm|days|H3117|N-mp
-v40 בַּשָּׁנָֽה׃ס|baš·šā·nāh|year|H8141|Prep-b, Art | N-fs
+v40 בַּשָּׁנָֽה׃|baš·šā·nāh|year|H8141|Prep-b, Art | N-fs

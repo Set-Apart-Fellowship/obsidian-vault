@@ -54,7 +54,7 @@ v3 מִיּ֥וֹם|mî·yō·wm|the day|H3117|Prep-m | N-msc
 v3 נָפְל֖וֹ|nā·p̄ə·lōw|he defected|H5307|V-Qal-Inf | 3ms
 v3 עַד־|‘aḏ-|until today|H5704|Prep
 v3 הַיּ֥וֹם|hay·yō·wm|...|H3117|Art | N-ms
-v3 הַזֶּֽה׃פ|haz·zeh|...|H2088|Art | Pro-ms
+v3 הַזֶּֽה׃|haz·zeh|...|H2088|Art | Pro-ms
 v4 וַיִּקְצְפ֨וּ|way·yiq·ṣə·p̄ū|were angry|H7107|Conj-w | V-Qal-ConsecImperf-3mp
 v4 עָלָ֜יו|‘ā·lāw|with Achish|H5921|Prep | 3ms
 v4 שָׂרֵ֣י|śā·rê|But the commanders|H8269|N-mpc
@@ -102,10 +102,10 @@ v5 הִכָּ֤ה|hik·kāh|has slain|H5221|V-Hifil-Perf-3ms
 v5 שָׁאוּל֙|šā·’ūl|Saul|H7586|N-proper-ms
 v5 בַּֽאֲלָפָ֔יו|ba·’ă·lā·p̄āw|[his] thousands|H505|Prep-b | Number-mpc | 3ms
 v5 וְדָוִ֖ד|wə·ḏā·wiḏ|and David|H1732|Conj-w | N-proper-ms
-v5 בְּרִבְבֹתוֹ׃ס|bə·ri·ḇə·ḇō·ṯō|his tens of thousands|H7233|Prep-b | Number-fpc | 3ms
+v5 בְּרִבְבֹתוֹ׃|bə·ri·ḇə·ḇō·ṯō|his tens of thousands|H7233|Prep-b | Number-fpc | 3ms
 v6 וַיִּקְרָ֨א|way·yiq·rā|summoned|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v6 אָכִ֜ישׁ|’ā·ḵîš|So Achish|H397|N-proper-ms
-v6 אֶל־|’el-||H413|Prep
+v6 אֶל־|’el-|-|H413|Prep
 v6 דָּוִ֗ד|dā·wiḏ|David|H1732|N-proper-ms
 v6 וַיֹּ֣אמֶר|way·yō·mer|and told him|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 אֵ֠לָיו|’ê·lāw|...|H413|Prep | 3ms
@@ -145,7 +145,7 @@ v7 תַעֲשֶׂ֣ה|ṯa·‘ă·śeh|do anything|H6213|V-Qal-Imperf-2ms
 v7 רָ֔ע|rā‘|...|H7451|Adj-ms
 v7 בְּעֵינֵ֖י|bə·‘ê·nê|to displease|H5869|Prep-b | N-cdc
 v7 סַרְנֵ֥י|sar·nê|the leaders|H5633|N-mpc
-v7 פְלִשְׁתִּֽים׃ס|p̄ə·liš·tîm|of the Philistines|H6430|N-proper-mp
+v7 פְלִשְׁתִּֽים׃|p̄ə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v8 וַיֹּ֨אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דָּוִ֜ד|dā·wiḏ|David|H1732|N-proper-ms
 v8 אֶל־|’el-|-|H413|Prep
@@ -201,7 +201,7 @@ v10 אִתָּ֑ךְ|’it·tāḵ|with you|H854|Prep | 2ms
 v10 וְהִשְׁכַּמְתֶּ֣ם|wə·hiš·kam·tem|as soon as|H7925|Conj-w | V-Hifil-ConjPerf-2mp
 v10 בַּבֹּ֔קֶר|bab·bō·qer|...|H1242|Prep-b, Art | N-ms
 v10 וְא֥וֹר|wə·’ō·wr|it is light|H215|Conj-w | V-Qal-ConjPerf-3ms
-v10 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v10 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v10 וָלֵֽכוּ׃|wā·lê·ḵū|and go|H1980|Conj-w | V-Qal-Imp-mp
 v11 וַיַּשְׁכֵּ֨ם|way·yaš·kêm|got up early|H7925|Conj-w | V-Hifil-ConsecImperf-3ms
 v11 דָּוִ֜ד|dā·wiḏ|So David|H1732|N-proper-ms
@@ -215,4 +215,4 @@ v11 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fsc
 v11 פְּלִשְׁתִּ֑ים|pə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v11 וּפְלִשְׁתִּ֖ים|ū·p̄ə·liš·tîm|And the Philistines|H6430|Conj-w | N-proper-mp
 v11 עָל֥וּ|‘ā·lū|went up|H5927|V-Qal-Perf-3cp
-v11 יִזְרְעֶֽאל׃ס|yiz·rə·‘el|to Jezreel|H3157|N-proper-fs
+v11 יִזְרְעֶֽאל׃|yiz·rə·‘el|to Jezreel|H3157|N-proper-fs

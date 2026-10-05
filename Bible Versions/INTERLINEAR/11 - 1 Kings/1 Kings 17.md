@@ -21,7 +21,7 @@ v1 וּמָטָ֑ר|ū·mā·ṭār|nor rain|H4306|Conj-w | N-ms
 v1 כִּ֖י|kî|except|H3588|Conj
 v1 אִם־|’im-|...|H518|Conj
 v1 לְפִ֥י|lə·p̄î|at|H6310|Prep-l | N-msc
-v1 דְבָרִֽי׃ס|ḏə·ḇā·rî|my word|H1697|N-msc | 1cs
+v1 דְבָרִֽי׃|ḏə·ḇā·rî|my word|H1697|N-msc | 1cs
 v2 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v2 דְבַר־|ḏə·ḇar-|Then a revelation|H1697|N-msc
 v2 יְהוָ֖ה|Yah·weh|from the LORD|H3068|N-proper-ms
@@ -30,7 +30,7 @@ v2 לֵאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v3 לֵ֣ךְ|lêḵ|Leave|H1980|V-Qal-Imp-ms
 v3 מִזֶּ֔ה|miz·zeh|here|H2088|Prep-m | Pro-ms
 v3 וּפָנִ֥יתָ|ū·p̄ā·nî·ṯā|turn|H6437|Conj-w | V-Qal-ConjPerf-2ms
-v3 לְּךָ֖|lə·ḵā||H0|Prep | 2ms
+v3 לְּךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v3 קֵ֑דְמָה|qê·ḏə·māh|eastward|H6924|Adv | 3fs
 v3 וְנִסְתַּרְתָּ֙|wə·nis·tar·tā|and hide yourself|H5641|Conj-w | V-Nifal-ConjPerf-2ms
 v3 בְּנַ֣חַל|bə·na·ḥal|by the Brook|H5158|Prep-b | N-msc
@@ -80,7 +80,7 @@ v7 כִּ֛י|kî|because|H3588|Conj
 v7 לֹֽא־|lō-|no|H3808|Adv-NegPrt
 v7 הָיָ֥ה|hā·yāh|there had been|H1961|V-Qal-Perf-3ms
 v7 גֶ֖שֶׁם|ḡe·šem|rain|H1653|N-ms
-v7 בָּאָֽרֶץ׃ס|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
+v7 בָּאָֽרֶץ׃|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
 v8 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v8 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -96,7 +96,7 @@ v9 שָׁ֑ם|šām|there|H8033|Adv
 v9 הִנֵּ֨ה|hin·nêh|Behold|H2009|Interjection
 v9 צִוִּ֥יתִי|ṣiw·wî·ṯî|I have commanded|H6680|V-Piel-Perf-1cs
 v9 שָׁ֛ם|šām|there|H8033|Adv
-v9 אִשָּׁ֥ה|’iš·šāh|vvv|H802|N-fs
+v9 אִשָּׁ֥ה|’iš·šāh|...|H802|N-fs
 v9 אַלְמָנָ֖ה|’al·mā·nāh|a widow|H490|N-fs
 v9 לְכַלְכְּלֶֽךָ׃|lə·ḵal·kə·le·ḵā|to provide for you|H3557|Prep-l | V-Piel-Inf | 2ms
 v10 וַיָּ֣קָם׀|way·yā·qām|So Elijah got up|H6965|Conj-w | V-Qal-ConsecImperf-3ms
@@ -180,7 +180,7 @@ v13 לִ֔י|lî|to me|H0|Prep | 1cs
 v13 וְלָ֣ךְ|wə·lāḵ|for yourself|H0|Conj-w | Prep | 2fs
 v13 וְלִבְנֵ֔ךְ|wə·liḇ·nêḵ|and your son|H1121|Conj-w, Prep-l | N-msc | 2fs
 v13 תַּעֲשִׂ֖י|ta·‘ă·śî|make [some]|H6213|V-Qal-Imperf-2fs
-v13 בָּאַחֲרֹנָֽה׃ס|bā·’a·ḥă·rō·nāh|Afterward|H314|Prep-b, Art | Adj-fs
+v13 בָּאַחֲרֹנָֽה׃|bā·’a·ḥă·rō·nāh|Afterward|H314|Prep-b, Art | Adj-fs
 v14 כִּ֣י|kî|for|H3588|Conj
 v14 כֹה֩|ḵōh|this is what|H3541|Adv
 v14 אָמַ֨ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -225,8 +225,8 @@ v16 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v16 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v16 דִּבֶּ֖ר|dib·ber|had spoken|H1696|V-Piel-Perf-3ms
 v16 בְּיַ֥ד|bə·yaḏ|through|H3027|Prep-b | N-fsc
-v16 אֵלִיָּֽהוּ׃פ|’ê·lî·yā·hū|Elijah|H452|N-proper-ms
-v17 וַיְהִ֗י|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v16 אֵלִיָּֽהוּ׃|’ê·lî·yā·hū|Elijah|H452|N-proper-ms
+v17 וַיְהִ֗י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v17 אַחַר֙|’a·ḥar|Later|H310|Adv
 v17 הַדְּבָרִ֣ים|had·də·ḇā·rîm|...|H1697|Art | N-mp
 v17 הָאֵ֔לֶּה|hā·’êl·leh|...|H428|Art | Pro-cp
@@ -265,7 +265,7 @@ v19 וַיֹּ֥אמֶר|way·yō·mer|But Elijah said|H559|Conj-w | V-Qal-Conse
 v19 אֵלֶ֖יהָ|’ê·le·hā|to her|H413|Prep | 3fs
 v19 תְּנִֽי־|tə·nî-|Give|H5414|V-Qal-Imp-fs
 v19 לִ֣י|lî|me|H0|Prep | 1cs
-v19 אֶת־|’eṯ-||H853|DirObjM
+v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 בְּנֵ֑ךְ|bə·nêḵ|your son|H1121|N-msc | 2fs
 v19 וַיִּקָּחֵ֣הוּ|way·yiq·qā·ḥê·hū|So he took him|H3947|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
 v19 מֵחֵיקָ֗הּ|mê·ḥê·qāh|from her arms|H2436|Prep-m | N-msc | 3fs
@@ -282,14 +282,14 @@ v19 מִטָּתֽוֹ׃|miṭ·ṭā·ṯōw|his own bed|H4296|N-fsc | 3ms
 v20 וַיִּקְרָ֥א|way·yiq·rā|Then he cried out|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֶל־|’el-|to|H413|Prep
 v20 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v20 וַיֹּאמַ֑ר|way·yō·mar||H559|Conj-w | V-Qal-ConsecImperf-3ms
+v20 וַיֹּאמַ֑ר|way·yō·mar|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 יְהוָ֣ה|Yah·weh|O LORD|H3068|N-proper-ms
 v20 אֱלֹהָ֔י|’ĕ·lō·hāy|my God|H430|N-mpc | 1cs
 v20 הֲ֠גַם|hă·ḡam|have You also|H1571|Conj
 v20 עַל־|‘al-|on|H5921|Prep
 v20 הָאַלְמָנָ֞ה|hā·’al·mā·nāh|this widow|H490|Art | N-fs
 v20 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v20 אֲנִ֨י|’ă·nî|vvv|H589|Pro-1cs
+v20 אֲנִ֨י|’ă·nî|...|H589|Pro-1cs
 v20 מִתְגּוֹרֵ֥ר|miṯ·gō·w·rêr|who has opened her home to me|H1481|V-Hitpael-Prtcpl-ms
 v20 עִמָּ֛הּ|‘im·māh|...|H5973|Prep | 3fs
 v20 הֲרֵע֖וֹתָ|hă·rê·‘ō·w·ṯā|brought tragedy|H7489|V-Hifil-Perf-2ms
@@ -353,4 +353,4 @@ v24 אָ֑תָּה|’āt·tāh|you|H859|Pro-2ms
 v24 וּדְבַר־|ū·ḏə·ḇar-|and that the word|H1697|Conj-w | N-msc
 v24 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v24 בְּפִ֖יךָ|bə·p̄î·ḵā|from your mouth|H6310|Prep-b | N-msc | 2ms
-v24 אֱמֶֽת׃פ|’ĕ·meṯ|is truth|H571|N-fs
+v24 אֱמֶֽת׃|’ĕ·meṯ|is truth|H571|N-fs

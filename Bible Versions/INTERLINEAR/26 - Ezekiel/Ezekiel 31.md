@@ -1,4 +1,4 @@
-v1 וַיְהִ֗י|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v1 וַיְהִ֗י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v1 בְּאַחַ֤ת|bə·’a·ḥaṯ|In the eleventh|H259|Prep-b | Number-fsc
 v1 עֶשְׂרֵה֙|‘eś·rêh|...|H6240|Number-fs
 v1 שָׁנָ֔ה|šā·nāh|year|H8141|N-fs
@@ -125,7 +125,7 @@ v9 עֲצֵי־|‘ă·ṣê-|the trees|H6086|N-mpc
 v9 עֵ֔דֶן|‘ê·ḏen|of Eden|H5731|N-proper-fs
 v9 אֲשֶׁ֖ר|’ă·šer|which|H834|Pro-r
 v9 בְּגַ֥ן|bə·ḡan|were in the garden|H1588|Prep-b | N-csc
-v9 הָאֱלֹהִֽים׃ס|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
+v9 הָאֱלֹהִֽים׃|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v10 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v10 כֹּ֤ה|kōh|this is what|H3541|Adv
 v10 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -198,7 +198,7 @@ v14 וְלֹֽא־|wə·lō-|and|H3808|Conj-w | Adv-NegPrt
 v14 יִתְּנ֤וּ|yit·tə·nū|set|H5414|V-Qal-Imperf-3mp
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 צַמַּרְתָּם֙|ṣam·mar·tām|their tops|H6788|N-fsc | 3mp
-v14 אֶל־|’el-||H413|Prep
+v14 אֶל־|’el-|-|H413|Prep
 v14 בֵּ֣ין|bên|among|H996|Prep
 v14 עֲבֹתִ֔ים|‘ă·ḇō·ṯîm|the clouds|H5688|N-cp
 v14 וְלֹֽא־|wə·lō-|and no other|H3808|Conj-w | Adv-NegPrt
@@ -220,7 +220,7 @@ v14 בְּנֵ֥י|bə·nê|the mortals|H1121|N-mpc
 v14 אָדָ֖ם|’ā·ḏām|...|H120|N-ms
 v14 אֶל־|’el-|...|H413|Prep
 v14 י֥וֹרְדֵי|yō·wr·ḏê|who descend|H3381|V-Qal-Prtcpl-mpc
-v14 בֽוֹר׃ס|ḇō·wr|to the Pit|H953|N-ms
+v14 בֽוֹר׃|ḇō·wr|to the Pit|H953|N-ms
 v15 כֹּֽה־|kōh-|This is what|H3541|Adv
 v15 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v15 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -281,7 +281,7 @@ v17 יָשְׁב֥וּ|yā·šə·ḇū|they had lived|H3427|V-Qal-Perf-3cp
 v17 בְצִלּ֖וֹ|ḇə·ṣil·lōw|in its shade|H6738|Prep-b | N-msc | 3ms
 v17 בְּת֥וֹךְ|bə·ṯō·wḵ|among|H8432|Prep-b | N-msc
 v17 גּוֹיִֽם׃|gō·w·yim|the nations|H1471|N-mp
-v18 אֶל־|’el-||H413|Prep
+v18 אֶל־|’el-|-|H413|Prep
 v18 מִ֨י|mî|Who|H4310|Interrog
 v18 דָמִ֥יתָ|ḏā·mî·ṯā|is like you|H1819|V-Qal-Perf-2ms
 v18 כָּ֛כָה|kā·ḵāh|then|H3602|Adv
@@ -308,4 +308,4 @@ v18 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v18 הֲמוֹנֹ֔ה|hă·mō·nōh|his multitude|H1995|N-msc | 3ms
 v18 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v18 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v18 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v18 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

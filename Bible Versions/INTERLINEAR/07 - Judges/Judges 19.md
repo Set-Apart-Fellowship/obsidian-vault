@@ -13,9 +13,9 @@ v1 הַר־|har-|hill country|H2022|N-msc
 v1 אֶפְרַ֔יִם|’ep̄·ra·yim|of Ephraim|H669|N-proper-ms
 v1 וַיִּֽקַּֽח־|way·yiq·qaḥ-|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v1 לוֹ֙|lōw|for himself|H0|Prep | 3ms
-v1 אִשָּׁ֣ה|’iš·šāh|vvv|H802|N-fs
+v1 אִשָּׁ֣ה|’iš·šāh|...|H802|N-fs
 v1 פִילֶ֔גֶשׁ|p̄î·le·ḡeš|a concubine|H6370|N-fs
-v1 מִבֵּ֥ית|mib·bêṯ|vvv|H1035|Prep
+v1 מִבֵּ֥ית|mib·bêṯ|...|H1035|Prep
 v1 לֶ֖חֶם|le·ḥem|from Bethlehem|H1035|Prep | N-proper-fs
 v1 יְהוּדָֽה׃|yə·hū·ḏāh|in Judah|H3063|N-proper-ms
 v2 וַתִּזְנֶ֤ה|wat·tiz·neh|was unfaithful|H2181|Conj-w | V-Qal-ConsecImperf-3fs
@@ -27,7 +27,7 @@ v2 אֶל־|’el-|to return to|H413|Prep
 v2 בֵּ֣ית|bêṯ|house|H1004|N-msc
 v2 אָבִ֔יהָ|’ā·ḇî·hā|her father's|H1|N-msc | 3fs
 v2 אֶל־|’el-|in|H413|Prep
-v2 בֵּ֥ית|bêṯ|vvv|H1035|Prep
+v2 בֵּ֥ית|bêṯ|...|H1035|Prep
 v2 לֶ֖חֶם|le·ḥem|Bethlehem|H1035|N-proper-fs
 v2 יְהוּדָ֑ה|yə·hū·ḏāh|in Judah|H3063|N-proper-ms
 v2 וַתְּהִי־|wat·tə·hî-|After she had been|H1961|Conj-w | V-Qal-ConsecImperf-3fs
@@ -223,7 +223,7 @@ v13 בָרָמָֽה׃|ḇā·rā·māh|Ramah|H7414|Prep-b, Art | N-proper-fs
 v14 וַיַּעַבְר֖וּ|way·ya·‘aḇ·rū|on their journey|H5674|Conj-w | V-Qal-ConsecImperf-3mp
 v14 וַיֵּלֵ֑כוּ|way·yê·lê·ḵū|So they continued|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v14 וַתָּבֹ֤א|wat·tā·ḇō|set|H935|Conj-w | V-Qal-ConsecImperf-3fs
-v14 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v14 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v14 הַשֶּׁ֔מֶשׁ|haš·še·meš|and the sun|H8121|Art | N-cs
 v14 אֵ֥צֶל|’ê·ṣel|as they neared|H681|Prep
 v14 הַגִּבְעָ֖ה|hag·giḇ·‘āh|Gibeah|H1390|Art | N-proper-fs
@@ -261,13 +261,13 @@ v16 גָ֖ר|ḡār|who was residing|H1481|V-Qal-Prtcpl-ms
 v16 בַּגִּבְעָ֑ה|bag·giḇ·‘āh|in Gibeah|H1390|Prep-b, Art | N-proper-fs
 v16 וְאַנְשֵׁ֥י|wə·’an·šê|the men|H582|Conj-w | N-mpc
 v16 הַמָּק֖וֹם|ham·mā·qō·wm|of that place|H4725|Art | N-ms
-v16 בְּנֵ֥י|bə·nê|vvv|H1145|N-mpc
+v16 בְּנֵ֥י|bə·nê|...|H1145|N-mpc
 v16 יְמִינִֽי׃|yə·mî·nî|were Benjamites|H1145|N-proper-ms
 v17 וַיִּשָּׂ֣א|way·yiś·śā|When he looked up|H5375|Conj-w | V-Qal-ConsecImperf-3ms
 v17 עֵינָ֗יו|‘ê·nāw|...|H5869|N-cdc | 3ms
 v17 וַיַּ֛רְא|way·yar|and saw|H7200|Conj-w | V-Qal-ConsecImperf-3ms
 v17 אֶת־|’eṯ-|-|H853|DirObjM
-v17 הָאִ֥ישׁ|hā·’îš|vvv|H376|Art | N-ms
+v17 הָאִ֥ישׁ|hā·’îš|...|H376|Art | N-ms
 v17 הָאֹרֵ֖חַ|hā·’ō·rê·aḥ|the traveler|H732|Art | V-Qal-Prtcpl-ms
 v17 בִּרְחֹ֣ב|bir·ḥōḇ|square|H7339|Prep-b | N-fsc
 v17 הָעִ֑יר|hā·‘îr|in the city|H5892|Art | N-fs
@@ -282,7 +282,7 @@ v18 וַיֹּ֣אמֶר|way·yō·mer|[The Levite] replied|H559|Conj-w | V-Qal-
 v18 אֵלָ֗יו|’ê·lāw|...|H413|Prep | 3ms
 v18 עֹבְרִ֨ים|‘ō·ḇə·rîm|traveling|H5674|V-Qal-Prtcpl-mp
 v18 אֲנַ֜חְנוּ|’ă·naḥ·nū|We are|H587|Pro-1cp
-v18 מִבֵּֽית־|mib·bêṯ-|vvv|H1035|Prep
+v18 מִבֵּֽית־|mib·bêṯ-|...|H1035|Prep
 v18 לֶ֣חֶם|le·ḥem|from Bethlehem|H1035|Prep | N-proper-fs
 v18 יְהוּדָה֮|yə·hū·ḏāh|in Judah|H3063|N-proper-ms
 v18 עַד־|‘aḏ-|to|H5704|Prep
@@ -293,7 +293,7 @@ v18 מִשָּׁ֣ם|miš·šām|where|H8033|Prep-m | Adv
 v18 אָנֹ֔כִי|’ā·nō·ḵî|I am from|H595|Pro-1cs
 v18 וָאֵלֵ֕ךְ|wā·’ê·lêḵ|I went|H1980|Conj-w | V-Qal-ConsecImperf-1cs
 v18 עַד־|‘aḏ-|to|H5704|Prep
-v18 בֵּ֥ית|bêṯ|vvv|H1035|Prep
+v18 בֵּ֥ית|bêṯ|...|H1035|Prep
 v18 לֶ֖חֶם|le·ḥem|Bethlehem|H1035|N-proper-fs
 v18 יְהוּדָ֑ה|yə·hū·ḏāh|in Judah|H3063|N-proper-ms
 v18 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -379,7 +379,7 @@ v22 בֵּיתְךָ֖|bê·ṯə·ḵā|your house|H1004|N-msc | 2ms
 v22 וְנֵדָעֶֽנּוּ׃|wə·nê·ḏā·‘en·nū|so we can have relations with him|H3045|Conj-w | V-Qal-ConjImperf.h-1cp | 3ms
 v23 וַיֵּצֵ֣א|way·yê·ṣê|went out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v23 אֲלֵיהֶ֗ם|’ă·lê·hem|-|H413|Prep | 3mp
-v23 הָאִישׁ֙|hā·’îš|vvv|H376|Art | N-ms
+v23 הָאִישׁ֙|hā·’îš|...|H376|Art | N-ms
 v23 בַּ֣עַל|ba·‘al|The owner|H1167|N-msc
 v23 הַבַּ֔יִת|hab·ba·yiṯ|of the house|H1004|Art | N-ms
 v23 וַיֹּ֣אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -466,7 +466,7 @@ v27 וַיֵּצֵ֖א|way·yê·ṣê|to go out|H3318|Conj-w | V-Qal-ConsecImpe
 v27 לָלֶ֣כֶת|lā·le·ḵeṯ|...|H1980|Prep-l | V-Qal-Inf
 v27 לְדַרְכּ֑וֹ|lə·ḏar·kōw|on his journey|H1870|Prep-l | N-csc | 3ms
 v27 וְהִנֵּ֧ה|wə·hin·nêh|there was|H2009|Conj-w | Interjection
-v27 הָאִשָּׁ֣ה|hā·’iš·šāh|vvv|H802|Art | N-fs
+v27 הָאִשָּׁ֣ה|hā·’iš·šāh|...|H802|Art | N-fs
 v27 פִֽילַגְשׁ֗וֹ|p̄î·laḡ·šōw|his concubine|H6370|N-fsc | 3ms
 v27 נֹפֶ֙לֶת֙|nō·p̄e·leṯ|collapsed|H5307|V-Qal-Prtcpl-fs
 v27 פֶּ֣תַח|pe·ṯaḥ|in the doorway|H6607|N-msc
@@ -526,4 +526,4 @@ v30 שִֽׂימוּ־|śî·mū-|Think it over|H7760|V-Qal-Imp-mp
 v30 לָכֶ֥ם|lā·ḵem|...|H0|Prep | 2mp
 v30 עָלֶ֖יהָ|‘ā·le·hā|...|H5921|Prep | 3fs
 v30 עֻ֥צוּ|‘u·ṣū|take counsel|H5779|V-Qal-Imp-mp
-v30 וְדַבֵּֽרוּ׃פ|wə·ḏab·bê·rū|and speak up|H1696|Conj-w | V-Piel-Imp-mp
+v30 וְדַבֵּֽרוּ׃|wə·ḏab·bê·rū|and speak up|H1696|Conj-w | V-Piel-Imp-mp

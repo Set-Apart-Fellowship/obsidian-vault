@@ -44,7 +44,7 @@ v3 עַד־|‘aḏ-|when|H5704|Prep
 v3 גְּל֥וֹת|gə·lō·wṯ|went into exile|H1540|V-Qal-Inf
 v3 יְרוּשָׁלִַ֖ם|yə·rū·šā·lim|the people of Jerusalem|H3389|N-proper-fs
 v3 בַּחֹ֥דֶשׁ|ba·ḥō·ḏeš|month|H2320|Prep-b, Art | N-ms
-v3 הַחֲמִישִֽׁי׃ס|ha·ḥă·mî·šî|the fifth|H2549|Art | Number-oms
+v3 הַחֲמִישִֽׁי׃|ha·ḥă·mî·šî|the fifth|H2549|Art | Number-oms
 v4 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v4 דְבַר־|ḏə·ḇar-|The word|H1697|N-msc
 v4 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -71,7 +71,7 @@ v6 יָדַ֖עְתִּי|yā·ḏa‘·tî|know|H3045|V-Qal-Perf-1cs
 v6 דַּבֵּ֑ר|dab·bēr|how to speak|H1696|V-Piel-Inf
 v6 כִּי־|kî-|for|H3588|Conj
 v6 נַ֖עַר|na·‘ar|only a child|H5288|N-ms
-v6 אָנֹֽכִי׃פ|’ā·nō·ḵî|I [am]|H595|Pro-1cs
+v6 אָנֹֽכִי׃|’ā·nō·ḵî|I [am]|H595|Pro-1cs
 v7 וַיֹּ֤אמֶר|way·yō·mer|told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v7 יְהוָה֙|Yah·weh|But the LORD|H3068|N-proper-ms
 v7 אֵלַ֔י|’ê·lay|me|H413|Prep | 1cs
@@ -126,7 +126,7 @@ v10 וְלִנְת֖וֹץ|wə·lin·ṯō·wṣ|and tear down|H5422|Conj-w, Pre
 v10 וּלְהַאֲבִ֣יד|ū·lə·ha·’ă·ḇîḏ|to destroy|H6|Conj-w, Prep-l | V-Hifil-Inf
 v10 וְלַהֲר֑וֹס|wə·la·hă·rō·ws|and overthrow|H2040|Conj-w, Prep-l | V-Qal-Inf
 v10 לִבְנ֖וֹת|liḇ·nō·wṯ|to build|H1129|Prep-l | V-Qal-Inf
-v10 וְלִנְטֽוֹעַ׃פ|wə·lin·ṭō·w·a‘|and plant|H5193|Conj-w, Prep-l | V-Qal-Inf
+v10 וְלִנְטֽוֹעַ׃|wə·lin·ṭō·w·a‘|and plant|H5193|Conj-w, Prep-l | V-Qal-Inf
 v11 וַיְהִ֤י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v11 דְבַר־|ḏə·ḇar-|And the word|H1697|N-msc
 v11 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -151,7 +151,7 @@ v12 שֹׁקֵ֥ד|šō·qêḏ|am watching|H8245|V-Qal-Prtcpl-ms
 v12 אֲנִ֛י|’ă·nî|I|H589|Pro-1cs
 v12 עַל־|‘al-|over|H5921|Prep
 v12 דְּבָרִ֖י|də·ḇā·rî|My word|H1697|N-msc | 1cs
-v12 לַעֲשֹׂתֽוֹ׃פ|la·‘ă·śō·ṯōw|to accomplish it|H6213|Prep-l | V-Qal-Inf | 3ms
+v12 לַעֲשֹׂתֽוֹ׃|la·‘ă·śō·ṯōw|to accomplish it|H6213|Prep-l | V-Qal-Inf | 3ms
 v13 וַיְהִ֨י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v13 דְבַר־|ḏə·ḇar-|the word|H1697|N-msc
 v13 יְהוָ֤ה׀|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -263,4 +263,4 @@ v19 אִתְּךָ֥|’it·tə·ḵā|am with you|H854|Prep | 2ms
 v19 אֲנִ֛י|’ă·nî|I|H589|Pro-1cs
 v19 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v19 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v19 לְהַצִּילֶֽךָ׃פ|lə·haṣ·ṣî·le·ḵā|to deliver you|H5337|Prep-l | V-Hifil-Inf | 2ms
+v19 לְהַצִּילֶֽךָ׃|lə·haṣ·ṣî·le·ḵā|to deliver you|H5337|Prep-l | V-Hifil-Inf | 2ms

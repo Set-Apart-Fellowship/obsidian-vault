@@ -55,7 +55,7 @@ v4 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v4 מִשְׁפַּ֖ט|miš·paṭ|the justice|H4941|N-msc
 v4 אֱלֹהֵיהֶֽם׃|’ĕ·lō·hê·hem|of their God|H430|N-mpc | 3mp
 v5 אֵֽלֲכָה־|’ê·lă·ḵāh-|I will go|H1980|V-Qal-Imperf.Cohort-1cs
-v5 לִּ֤י|lî||H0|Prep | 1cs
+v5 לִּ֤י|lî|-|H0|Prep | 1cs
 v5 אֶל־|’el-|to|H413|Prep
 v5 הַגְּדֹלִים֙|hag·gə·ḏō·lîm|the powerful|H1419|Art | Adj-mp
 v5 וַאֲדַבְּרָ֣ה|wa·’ă·ḏab·bə·rāh|and speak|H1696|Conj-w | V-Piel-ConjImperf.Cohort-1cs
@@ -125,13 +125,13 @@ v9 לוֹא־|lō·w-|Should I not|H3808|Adv-NegPrt
 v9 אֶפְקֹ֖ד|’ep̄·qōḏ|punish them|H6485|V-Qal-Imperf-1cs
 v9 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v9 יְהֹוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
-v9 וְאִם֙|wə·’im||H518|Conj
+v9 וְאִם֙|wə·’im|-|H518|Conj
 v9 בְּג֣וֹי|bə·ḡō·w|on such a nation|H1471|Prep-b | N-ms
 v9 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v9 כָּזֶ֔ה|kā·zeh|as this|H2088|Prep-k | Pro-ms
 v9 לֹ֥א|lō|Should I not|H3808|Adv-NegPrt
 v9 תִתְנַקֵּ֖ם|ṯiṯ·naq·qêm|avenge|H5358|V-Hitpael-Imperf-3fs
-v9 נַפְשִֽׁי׃ס|nap̄·šî|Myself|H5315|N-fsc | 1cs
+v9 נַפְשִֽׁי׃|nap̄·šî|Myself|H5315|N-fsc | 1cs
 v10 עֲל֤וּ|‘ă·lū|Go up|H5927|V-Qal-Imp-mp
 v10 בְשָׁרוֹתֶ֙יהָ֙|ḇə·šā·rō·w·ṯe·hā|through her vineyards|H8284|Prep-b | N-fpc | 3fs
 v10 וְשַׁחֵ֔תוּ|wə·ša·ḥê·ṯū|and ravage them|H7843|Conj-w | V-Piel-Imp-mp
@@ -175,7 +175,7 @@ v13 אֵ֣ין|’ên|[is] not|H369|Adv
 v13 בָּהֶ֑ם|bā·hem|in them|H0|Prep | 3mp
 v13 כֹּ֥ה|kōh|So let [their own predictions]|H3541|Adv
 v13 יֵעָשֶׂ֖ה|yê·‘ā·śeh|befall|H6213|V-Nifal-Imperf-3ms
-v13 לָהֶֽם׃ס|lā·hem|them|H0|Prep | 3mp
+v13 לָהֶֽם׃|lā·hem|them|H0|Prep | 3mp
 v14 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v14 כֹּֽה־|kōh-|this is what|H3541|Adv
 v14 אָמַ֤ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -261,7 +261,7 @@ v19 מֶ֗ה|meh|what|H4100|Interrog
 v19 עָשָׂ֨ה|‘ā·śāh|done|H6213|V-Qal-Perf-3ms
 v19 יְהֹוָ֧ה|Yah·weh|offense has the LORD|H3068|N-proper-ms
 v19 אֱלֹהֵ֛ינוּ|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
-v19 לָ֖נוּ|lā·nū||H0|Prep | 1cp
+v19 לָ֖נוּ|lā·nū|-|H0|Prep | 1cp
 v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 כָּל־|kāl-|all|H3605|N-msc
 v19 אֵ֑לֶּה|’êl·leh|these things to us|H428|Pro-cp
@@ -279,7 +279,7 @@ v19 תַּעַבְד֣וּ|ta·‘aḇ·ḏū|will you serve|H5647|V-Qal-Imperf-
 v19 זָרִ֔ים|zā·rîm|foreigners|H2114|Adj-mp
 v19 בְּאֶ֖רֶץ|bə·’e·reṣ|in a land|H776|Prep-b | N-fs
 v19 לֹ֥א|lō|that is not|H3808|Adv-NegPrt
-v19 לָכֶֽם׃ס|lā·ḵem|your own|H0|Prep | 2mp
+v19 לָכֶֽם׃|lā·ḵem|your own|H0|Prep | 2mp
 v20 הַגִּ֥ידוּ|hag·gî·ḏū|Declare|H5046|V-Hifil-Imp-mp
 v20 זֹ֖את|zōṯ|this|H2063|Pro-fs
 v20 בְּבֵ֣ית|bə·ḇêṯ|in the house|H1004|Prep-b | N-msc
@@ -295,11 +295,11 @@ v21 סָכָ֖ל|sā·ḵāl|O foolish|H5530|N-ms
 v21 וְאֵ֣ין|wə·’ên|and senseless|H369|Conj-w | Adv
 v21 לֵ֑ב|lêḇ|...|H3820|N-ms
 v21 עֵינַ֤יִם|‘ê·na·yim|who have eyes|H5869|N-cd
-v21 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v21 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v21 וְלֹ֣א|wə·lō|but do not|H3808|Conj-w | Adv-NegPrt
 v21 יִרְא֔וּ|yir·’ū|see|H7200|V-Qal-Imperf-3mp
 v21 אָזְנַ֥יִם|’ā·zə·na·yim|who have ears|H241|N-fd
-v21 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v21 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v21 וְלֹ֥א|wə·lō|but do not|H3808|Conj-w | Adv-NegPrt
 v21 יִשְׁמָֽעוּ׃|yiš·mā·‘ū|hear|H8085|V-Qal-Imperf-3mp
 v22 הַאוֹתִ֨י|ha·’ō·w·ṯî|-|H853|DirObjM | 1cs
@@ -307,7 +307,7 @@ v22 לֹא־|lō-|Do you not|H3808|Adv-NegPrt
 v22 תִירָ֜אוּ|ṯî·rā·’ū|fear Me|H3372|V-Qal-Imperf-2mp
 v22 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v22 יְהֹוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
-v22 אִ֤ם|’im||H518|Conj
+v22 אִ֤ם|’im|-|H518|Conj
 v22 מִפָּנַי֙|mip·pā·nay|before Me|H6440|Prep-m | N-mpc | 1cs
 v22 לֹ֣א|lō|Do you not|H3808|Adv-NegPrt
 v22 תָחִ֔ילוּ|ṯā·ḥî·lū|tremble|H2342|V-Qal-Imperf-2mp
@@ -404,13 +404,13 @@ v29 לֹֽא־|lō-|Should I not|H3808|Adv-NegPrt
 v29 אֶפְקֹ֖ד|’ep̄·qōḏ|punish them|H6485|V-Qal-Imperf-1cs
 v29 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v29 יְהֹוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
-v29 אִ֚ם|’im||H518|Conj
+v29 אִ֚ם|’im|-|H518|Conj
 v29 בְּג֣וֹי|bə·ḡō·w|on such a nation|H1471|Prep-b | N-ms
 v29 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v29 כָּזֶ֔ה|kā·zeh|as this|H2088|Prep-k | Pro-ms
 v29 לֹ֥א|lō|Should I not|H3808|Adv-NegPrt
 v29 תִתְנַקֵּ֖ם|ṯiṯ·naq·qêm|avenge|H5358|V-Hitpael-Imperf-3fs
-v29 נַפְשִֽׁי׃ס|nap̄·šî|Myself|H5315|N-fsc | 1cs
+v29 נַפְשִֽׁי׃|nap̄·šî|Myself|H5315|N-fsc | 1cs
 v30 שַׁמָּה֙|šam·māh|A horrible|H8047|N-fs
 v30 וְשַׁ֣עֲרוּרָ֔ה|wə·ša·‘ă·rū·rāh|and shocking thing|H8186|Conj-w | Adj-fs
 v30 נִהְיְתָ֖ה|nih·yə·ṯāh|has happened|H1961|V-Nifal-Perf-3fs

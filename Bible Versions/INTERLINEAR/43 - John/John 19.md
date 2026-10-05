@@ -134,7 +134,7 @@ v8 Πιλᾶτος|Pilatos|Pilate|G4091|N-NMS
 v8 τοῦτον|touton|this|G3778|DPro-AMS
 v8 τὸν|ton|-|G3588|Art-AMS
 v8 λόγον|logon|statement|G3056|N-AMS
-v8 μᾶλλον|mallon|vvv|G3123|Adv
+v8 μᾶλλον|mallon|...|G3123|Adv
 v8 ἐφοβήθη|ephobēthē|he was even more afraid|G5399|V-AIP-3S
 v9 καὶ|kai|and|G2532|Conj
 v9 εἰσῆλθεν|eisēlthen|he went|G1525|V-AIA-3S
@@ -153,7 +153,7 @@ v9 Ὁ|Ho|-|G3588|Art-NMS
 v9 δὲ|de|But|G1161|Conj
 v9 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v9 ἀπόκρισιν|apokrisin|answer|G612|N-AFS
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἔδωκεν|edōken|gave no|G1325|V-AIA-3S
 v9 αὐτῷ|autō|...|G846|PPro-DM3S
 v10 Λέγει|Legei|said|G3004|V-PIA-3S
@@ -162,9 +162,9 @@ v10 αὐτῷ|autō|to Him|G846|PPro-DM3S
 v10 ὁ|ho|-|G3588|Art-NMS
 v10 Πιλᾶτος|Pilatos|Pilate|G4091|N-NMS
 v10 Ἐμοὶ|Emoi|to me|G1473|PPro-D1S
-v10 οὐ|ou|vvv|G3756|Adv
+v10 οὐ|ou|...|G3756|Adv
 v10 λαλεῖς|laleis|Do You refuse to speak|G2980|V-PIA-2S
-v10 οὐκ|ouk|vvv|G3756|Adv
+v10 οὐκ|ouk|...|G3756|Adv
 v10 οἶδας|oidas|Do You not know|G1492|V-RIA-2S
 v10 ὅτι|hoti|that|G3754|Conj
 v10 ἐξουσίαν|exousian|authority|G1849|N-AFS
@@ -173,7 +173,7 @@ v10 ἀπολῦσαί|apolysai|to release|G630|V-ANA
 v10 σε|se|You|G4771|PPro-A2S
 v10 καὶ|kai|and|G2532|Conj
 v10 ἐξουσίαν|exousian|authority|G1849|N-AFS
-v10 ἔχω|echō|vvv|G2192|V-PIA-1S
+v10 ἔχω|echō|...|G2192|V-PIA-1S
 v10 σταυρῶσαί|staurōsai|to crucify|G4717|V-ANA
 v10 σε|se|You|G4771|PPro-A2S
 v11 Ἀπεκρίθη|Apekrithē|answered|G611|V-AIP-3S
@@ -309,8 +309,8 @@ v17 τὸν|ton|-|G3588|Art-AMS
 v17 σταυρὸν|stauron|cross|G4716|N-AMS
 v17 ἐξῆλθεν|exēlthen|He went out|G1831|V-AIA-3S
 v17 εἰς|eis|to|G1519|Prep
-v17 τὸν|ton|vvv|G3588|Art-AMS
-v17 λεγόμενον|legomenon|vvv|G3004|V-PPM/P-AMS
+v17 τὸν|ton|...|G3588|Art-AMS
+v17 λεγόμενον|legomenon|...|G3004|V-PPM/P-AMS
 v17 Κρανίου|Kraniou|of the Skull|G2898|N-GNS
 v17 τόπον|topon|[The] Place|G5117|N-AMS
 v17 ὃ|ho|which|G3739|RelPro-NNS
@@ -332,7 +332,7 @@ v18 μέσον|meson|in the middle|G3319|Adj-ANS
 v18 δὲ|de|[with]|G1161|Conj
 v18 τὸν|ton|-|G3588|Art-AMS
 v18 Ἰησοῦν|Iēsoun|Jesus|G2424|N-AMS
-v19 Ἔγραψεν|Egrapsen|vvv|G1125|V-AIA-3S
+v19 Ἔγραψεν|Egrapsen|...|G1125|V-AIA-3S
 v19 δὲ|de|-|G1161|Conj
 v19 καὶ|kai|also|G2532|Conj
 v19 τίτλον|titlon|had a notice|G5102|N-AMS
@@ -442,7 +442,7 @@ v24 εἶπαν|eipan|they said|G2036|V-AIA-3P
 v24 οὖν|oun|So|G3767|Conj
 v24 πρὸς|pros|to|G4314|Prep
 v24 ἀλλήλους|allēlous|one another|G240|RecPro-AMP
-v24 Μὴ|Mē|vvv|G3361|Adv
+v24 Μὴ|Mē|...|G3361|Adv
 v24 σχίσωμεν|schisōmen|Let us not tear it|G4977|V-ASA-1P
 v24 αὐτόν|auton|...|G846|PPro-AM3S
 v24 ἀλλὰ|alla|Instead|G235|Conj
@@ -470,7 +470,7 @@ v24 μου|mou|My|G1473|PPro-G1S
 v24 ἔβαλον|ebalon|cast|G906|V-AIA-3P
 v24 κλῆρον|klēron|lots|G2819|N-AMS
 v24 Οἱ|Hoi|the|G3588|Art-NMP
-v24 μὲν|men|vvv|G3303|Conj
+v24 μὲν|men|...|G3303|Conj
 v24 οὖν|oun|So|G3767|Conj
 v24 στρατιῶται|stratiōtai|soldiers|G4757|N-NMP
 v24 ταῦτα|tauta|that [is what]|G3778|DPro-ANP
@@ -488,9 +488,9 @@ v25 αὐτοῦ|autou|His|G846|PPro-GM3S
 v25 καὶ|kai|and|G2532|Conj
 v25 ἡ|hē|-|G3588|Art-NFS
 v25 ἀδελφὴ|adelphē|sister|G79|N-NFS
-v25 τῆς|tēs|vvv|G3588|Art-GFS
+v25 τῆς|tēs|...|G3588|Art-GFS
 v25 μητρὸς|mētros|[her]|G3384|N-GFS
-v25 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v25 αὐτοῦ|autou|...|G846|PPro-GM3S
 v25 Μαρία|Maria|[as well as] Mary|G3137|N-NFS
 v25 ἡ|hē|the [wife]|G3588|Art-NFS
 v25 τοῦ|tou|-|G3588|Art-GMS
@@ -544,7 +544,7 @@ v28 εἰδὼς|eidōs|knowing|G1492|V-RPA-NMS
 v28 ὁ|ho|-|G3588|Art-NMS
 v28 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v28 ὅτι|hoti|that|G3754|Conj
-v28 ἤδη|ēdē|vvv|G2235|Adv
+v28 ἤδη|ēdē|...|G2235|Adv
 v28 πάντα|panta|everything|G3956|Adj-NNP
 v28 τετέλεσται|tetelestai|had now been accomplished|G5055|V-RIM/P-3S
 v28 ἵνα|hina|[and] to|G2443|Conj
@@ -591,7 +591,7 @@ v31 ἐπεὶ|epei|-|G1893|Conj
 v31 Παρασκευὴ|Paraskeuē|[the] day of Preparation|G3904|N-NFS
 v31 ἦν|ēn|It was|G1510|V-IIA-3S
 v31 ἵνα|hina|In order that|G2443|Conj
-v31 μὴ|mē|vvv|G3361|Adv
+v31 μὴ|mē|...|G3361|Adv
 v31 μείνῃ|meinē|would not remain|G3306|V-ASA-3S
 v31 ἐπὶ|epi|on|G1909|Prep
 v31 τοῦ|tou|the|G3588|Art-GMS
@@ -646,7 +646,7 @@ v33 εἶδον|eidon|[and] saw that|G3708|V-AIA-3P
 v33 ἤδη|ēdē|was already|G2235|Adv
 v33 αὐτὸν|auton|He|G846|PPro-AM3S
 v33 τεθνηκότα|tethnēkota|dead|G2348|V-RPA-AMS
-v33 οὐ|ou|vvv|G3756|Adv
+v33 οὐ|ou|...|G3756|Adv
 v33 κατέαξαν|kateaxan|they did not break|G2608|V-AIA-3P
 v33 αὐτοῦ|autou|His|G846|PPro-GM3S
 v33 τὰ|ta|-|G3588|Art-ANP
@@ -744,7 +744,7 @@ v38 ἦρεν|ēren|removed|G142|V-AIA-3S
 v38 τὸ|to|-|G3588|Art-ANS
 v38 σῶμα|sōma|body|G4983|N-ANS
 v38 αὐτοῦ|autou|His|G846|PPro-GM3S
-v39 ἦλθεν|ēlthen|vvv|G2064|V-AIA-3S
+v39 ἦλθεν|ēlthen|...|G2064|V-AIA-3S
 v39 δὲ|de|-|G1161|Conj
 v39 καὶ|kai|also|G2532|Conj
 v39 Νικόδημος|Nikodēmos|Nicodemus|G3530|N-NMS
@@ -779,7 +779,7 @@ v40 ἀρωμάτων|arōmatōn|spices|G759|N-GNP
 v40 καθὼς|kathōs|according to|G2531|Adv
 v40 ἔθος|ethos|custom|G1485|N-NNS
 v40 ἐστὶν|estin|...|G1510|V-PIA-3S
-v40 τοῖς|tois|vvv|G3588|Art-DMP
+v40 τοῖς|tois|...|G3588|Art-DMP
 v40 Ἰουδαίοις|Ioudaiois|[the] Jewish|G2453|Adj-DMP
 v40 ἐνταφιάζειν|entaphiazein|burial|G1779|V-PNA
 v41 Ἦν|Ēn|there was|G1510|V-IIA-3S
@@ -807,7 +807,7 @@ v42 οὖν|oun|And|G3767|Conj
 v42 διὰ|dia|because it was|G1223|Prep
 v42 τὴν|tēn|the|G3588|Art-AFS
 v42 Παρασκευὴν|Paraskeuēn|day of Preparation|G3904|N-AFS
-v42 τῶν|tōn|vvv|G3588|Art-GMP
+v42 τῶν|tōn|...|G3588|Art-GMP
 v42 Ἰουδαίων|Ioudaiōn|Jewish|G2453|Adj-GMP
 v42 ὅτι|hoti|[and]|G3754|Conj
 v42 ἐγγὺς|engys|nearby|G1451|Adv

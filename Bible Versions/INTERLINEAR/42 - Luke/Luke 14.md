@@ -1,5 +1,5 @@
-v1 Καὶ|Kai|vvv|G2532|Conj
-v1 ἐγένετο|egeneto|vvv|G1096|V-AIM-3S
+v1 Καὶ|Kai|...|G2532|Conj
+v1 ἐγένετο|egeneto|...|G1096|V-AIM-3S
 v1 ἐν|en|-|G1722|Prep
 v1 τῷ|tō|-|G3588|Art-DNS
 v1 ἐλθεῖν|elthein|went|G2064|V-ANA
@@ -75,7 +75,7 @@ v5 ἡμέρᾳ|hēmera|day|G2250|N-DFS
 v5 τοῦ|tou|the|G3588|Art-GNS
 v5 σαββάτου|sabbatou|Sabbath|G4521|N-GNS
 v6 Καὶ|Kai|And|G2532|Conj
-v6 οὐκ|ouk|vvv|G3756|Adv
+v6 οὐκ|ouk|...|G3756|Adv
 v6 ἴσχυσαν|ischysan|they were unable|G2480|V-AIA-3P
 v6 ἀνταποκριθῆναι|antapokrithēnai|to answer|G470|V-ANP
 v6 πρὸς|pros|-|G4314|Prep
@@ -224,7 +224,7 @@ v14 καὶ|kai|and|G2532|Conj
 v14 μακάριος|makarios|blessed|G3107|Adj-NMS
 v14 ἔσῃ|esē|you will be|G1510|V-FIM-2S
 v14 ὅτι|hoti|Since|G3754|Conj
-v14 οὐκ|ouk|vvv|G3756|Adv
+v14 οὐκ|ouk|...|G3756|Adv
 v14 ἔχουσιν|echousin|they cannot|G2192|V-PIA-3P
 v14 ἀνταποδοῦναί|antapodounai|repay|G467|V-ANA
 v14 σοι|soi|you|G4771|PPro-D2S
@@ -284,7 +284,7 @@ v17 ἕτοιμά|hetoima|ready|G2092|Adj-NNP
 v17 ἐστιν|estin|[everything] is|G1510|V-PIA-3S
 v18 Καὶ|Kai|But|G2532|Conj
 v18 ἤρξαντο|ērxanto|began|G756|V-AIM-3P
-v18 ἀπὸ|apo|vvv|G575|Prep
+v18 ἀπὸ|apo|...|G575|Prep
 v18 μιᾶς|mias|one after another|G1520|Adj-GFS
 v18 πάντες|pantes|they all|G3956|Adj-NMP
 v18 παραιτεῖσθαι|paraiteisthai|to make excuses|G3868|V-PNM/P
@@ -302,7 +302,7 @@ v18 ἰδεῖν|idein|see|G3708|V-ANA
 v18 αὐτόν|auton|it|G846|PPro-AM3S
 v18 ἐρωτῶ|erōtō|Please|G2065|V-PIA-1S
 v18 σε|se|...|G4771|PPro-A2S
-v18 ἔχε|eche|vvv|G2192|V-PMA-2S
+v18 ἔχε|eche|...|G2192|V-PMA-2S
 v18 με|me|me|G1473|PPro-A1S
 v18 παρῃτημένον|parētēmenon|excuse|G3868|V-RPM/P-AMS
 v19 Καὶ|Kai|-|G2532|Conj
@@ -318,7 +318,7 @@ v19 δοκιμάσαι|dokimasai|to try|G1381|V-ANA
 v19 αὐτά|auta|them [out]|G846|PPro-AN3P
 v19 ἐρωτῶ|erōtō|Please|G2065|V-PIA-1S
 v19 σε|se|...|G4771|PPro-A2S
-v19 ἔχε|eche|vvv|G2192|V-PMA-2S
+v19 ἔχε|eche|...|G2192|V-PMA-2S
 v19 με|me|me|G1473|PPro-A1S
 v19 παρῃτημένον|parētēmenon|excuse|G3868|V-RPM/P-AMS
 v20 Καὶ|Kai|Still|G2532|Conj
@@ -329,7 +329,7 @@ v20 ἔγημα|egēma|I have married|G1060|V-AIA-1S
 v20 καὶ|kai|-|G2532|Conj
 v20 διὰ|dia|so|G1223|Prep
 v20 τοῦτο|touto|...|G3778|DPro-ANS
-v20 οὐ|ou|vvv|G3756|Adv
+v20 οὐ|ou|...|G3756|Adv
 v20 δύναμαι|dynamai|I cannot|G1410|V-PIM/P-1S
 v20 ἐλθεῖν|elthein|come|G2064|V-ANA
 v21 Καὶ|Kai|-|G2532|Conj
@@ -458,7 +458,7 @@ v26 καὶ|kai|even|G2532|Conj
 v26 τὴν|tēn|[own]|G3588|Art-AFS
 v26 ψυχὴν|psychēn|life|G5590|N-AFS
 v26 ἑαυτοῦ|heautou|his|G1438|RefPro-GM3S
-v26 οὐ|ou|vvv|G3756|Adv
+v26 οὐ|ou|...|G3756|Adv
 v26 δύναται|dynatai|he cannot|G1410|V-PIM/P-3S
 v26 εἶναί|einai|be|G1510|V-PNA
 v26 μου|mou|My|G1473|PPro-G1S
@@ -473,7 +473,7 @@ v27 καὶ|kai|and|G2532|Conj
 v27 ἔρχεται|erchetai|follow|G2064|V-PIM/P-3S
 v27 ὀπίσω|opisō|...|G3694|Prep
 v27 μου|mou|Me|G1473|PPro-G1S
-v27 οὐ|ou|vvv|G3756|Adv
+v27 οὐ|ou|...|G3756|Adv
 v27 δύναται|dynatai|cannot|G1410|V-PIM/P-3S
 v27 εἶναί|einai|be|G1510|V-PNA
 v27 μου|mou|My|G1473|PPro-G1S
@@ -502,13 +502,13 @@ v29 θέντος|thentos|if he lays|G5087|V-APA-GMS
 v29 αὐτοῦ|autou|[the]|G846|PPro-GM3S
 v29 θεμέλιον|themelion|foundation|G2310|N-ANS
 v29 καὶ|kai|and|G2532|Conj
-v29 μὴ|mē|vvv|G3361|Adv
+v29 μὴ|mē|...|G3361|Adv
 v29 ἰσχύοντος|ischyontos|is unable|G2480|V-PPA-GMS
 v29 ἐκτελέσαι|ektelesai|to finish [the work]|G1615|V-ANA
 v29 πάντες|pantes|everyone|G3956|Adj-NMP
 v29 οἱ|hoi|who|G3588|Art-NMP
 v29 θεωροῦντες|theōrountes|sees [it]|G2334|V-PPA-NMP
-v29 ἄρξωνται|arxōntai|vvv|G756|V-ASM-3P
+v29 ἄρξωνται|arxōntai|...|G756|V-ASM-3P
 v29 αὐτῷ|autō|him|G846|PPro-DM3S
 v29 ἐμπαίζειν|empaizein|will ridicule|G1702|V-PNA
 v30 λέγοντες|legontes|saying|G3004|V-PPA-NMP
@@ -528,10 +528,10 @@ v31 βασιλεὺς|basileus|king|G935|N-NMS
 v31 πορευόμενος|poreuomenos|on his way|G4198|V-PPM/P-NMS
 v31 ἑτέρῳ|heterō|with another|G2087|Adj-DMS
 v31 βασιλεῖ|basilei|king|G935|N-DMS
-v31 συμβαλεῖν|symbalein|vvv|G4820|V-ANA
-v31 εἰς|eis|vvv|G1519|Prep
+v31 συμβαλεῖν|symbalein|...|G4820|V-ANA
+v31 εἰς|eis|...|G1519|Prep
 v31 πόλεμον|polemon|to war|G4171|N-AMS
-v31 οὐχὶ|ouchi|vvv|G3780|IntPrtcl
+v31 οὐχὶ|ouchi|...|G3780|IntPrtcl
 v31 καθίσας|kathisas|will not first sit down|G2523|V-APA-NMS
 v31 πρῶτον|prōton|...|G4412|Adv-S
 v31 βουλεύσεται|bouleusetai|[and] consider|G1011|V-FIM-3S
@@ -568,13 +568,13 @@ v33 πᾶς|pas|any one|G3956|Adj-NMS
 v33 ἐξ|ex|of|G1537|Prep
 v33 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v33 ὃς|hos|who|G3739|RelPro-NMS
-v33 οὐκ|ouk|vvv|G3756|Adv
+v33 οὐκ|ouk|...|G3756|Adv
 v33 ἀποτάσσεται|apotassetai|does not give up|G657|V-PIM-3S
 v33 πᾶσιν|pasin|everything|G3956|Adj-DNP
 v33 τοῖς|tois|-|G3588|Art-DNP
 v33 ἑαυτοῦ|heautou|he|G1438|RefPro-GM3S
 v33 ὑπάρχουσιν|hyparchousin|has|G5225|V-PPA-DNP
-v33 οὐ|ou|vvv|G3756|Adv
+v33 οὐ|ou|...|G3756|Adv
 v33 δύναται|dynatai|cannot|G1410|V-PIM/P-3S
 v33 εἶναί|einai|be|G1510|V-PNA
 v33 μου|mou|My|G1473|PPro-G1S

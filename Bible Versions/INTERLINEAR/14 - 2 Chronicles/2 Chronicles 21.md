@@ -11,7 +11,7 @@ v1 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-Consec
 v1 יְהוֹרָ֥ם|yə·hō·w·rām|Jehoram|H3088|N-proper-ms
 v1 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
 v1 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
-v2 וְלֽוֹ־|wə·lōw-||H0|Conj-w | Prep | 3ms
+v2 וְלֽוֹ־|wə·lōw-|-|H0|Conj-w | Prep | 3ms
 v2 אַחִ֞ים|’a·ḥîm|Jehoram's brothers|H251|N-mp
 v2 בְּנֵ֣י|bə·nê|the sons|H1121|N-mpc
 v2 יְהוֹשָׁפָ֗ט|yə·hō·wō·šā·p̄āṭ|of Jehoshaphat|H3092|N-proper-ms
@@ -45,7 +45,7 @@ v3 נָתַ֥ן|nā·ṯan|he gave|H5414|V-Qal-Perf-3ms
 v3 לִֽיהוֹרָ֖ם|lî·hō·w·rām|to Jehoram|H3088|Prep-l | N-proper-ms
 v3 כִּי־|kî-|because|H3588|Conj
 v3 ה֥וּא|hū|he|H1931|Pro-3ms
-v3 הַבְּכֽוֹר׃פ|hab·bə·ḵō·wr|was the firstborn|H1060|Art | N-ms
+v3 הַבְּכֽוֹר׃|hab·bə·ḵō·wr|was the firstborn|H1060|Art | N-ms
 v4 וַיָּ֨קָם|way·yā·qām|had established himself|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v4 יְהוֹרָ֜ם|yə·hō·w·rām|When Jehoram|H3088|N-proper-ms
 v4 עַל־|‘al-|over|H5921|Prep
@@ -97,7 +97,7 @@ v7 בֵּ֣ית|bêṯ|the house|H1004|N-msc
 v7 דָּוִ֔יד|dā·wîḏ|of David|H1732|N-proper-ms
 v7 לְמַ֣עַן|lə·ma·‘an|because of|H4616|Prep
 v7 הַבְּרִ֔ית|hab·bə·rîṯ|the covenant|H1285|Art | N-fs
-v7 אֲשֶׁ֥ר|’ă·šer||H834|Pro-r
+v7 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v7 כָּרַ֖ת|kā·raṯ|He had made|H3772|V-Qal-Perf-3ms
 v7 לְדָוִ֑יד|lə·ḏā·wîḏ|with David|H1732|Prep-l | N-proper-ms
 v7 וְכַאֲשֶׁ֣ר|wə·ḵa·’ă·šer|and since|H834|Conj-w, Prep-k | Pro-r
@@ -168,7 +168,7 @@ v11 יֹשְׁבֵ֣י|yō·šə·ḇê|he had caused the people|H3427|V-Qal-Prt
 v11 יְרוּשָׁלִַ֔ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v11 וַיַּדַּ֖ח|way·yad·daḥ|astray|H5080|Conj-w | V-Hifil-ConsecImperf-3ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
-v11 יְהוּדָֽה׃פ|yə·hū·ḏāh|and had led Judah|H3063|N-proper-ms
+v11 יְהוּדָֽה׃|yə·hū·ḏāh|and had led Judah|H3063|N-proper-ms
 v12 וַיָּבֹ֤א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v12 אֵלָיו֙|’ê·lāw|to [Jehoram]|H413|Prep | 3ms
 v12 מִכְתָּ֔ב|miḵ·tāḇ|Then a letter|H4385|N-ms

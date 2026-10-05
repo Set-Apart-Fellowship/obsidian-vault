@@ -93,7 +93,7 @@ v7 זָהָ֑ב|zā·hāḇ|with gold|H2091|N-ms
 v7 וּפִתַּ֥ח|ū·p̄it·taḥ|and he carved|H6605|Conj-w | V-Piel-ConjPerf-3ms
 v7 כְּרוּבִ֖ים|kə·rū·ḇîm|cherubim|H3742|N-mp
 v7 עַל־|‘al-|on|H5921|Prep
-v7 הַקִּירֽוֹת׃ס|haq·qî·rō·wṯ|the walls|H7023|Art | N-mp
+v7 הַקִּירֽוֹת׃|haq·qî·rō·wṯ|the walls|H7023|Art | N-mp
 v8 וַיַּ֙עַשׂ֙|way·ya·‘aś|Then he made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 בֵּֽית־|bêṯ-|Place|H1004|N-msc
@@ -181,7 +181,7 @@ v13 עֹמְדִ֥ים|‘ō·mə·ḏîm|stood|H5975|V-Qal-Prtcpl-mp
 v13 עַל־|‘al-|on|H5921|Prep
 v13 רַגְלֵיהֶ֖ם|raḡ·lê·hem|their feet|H7272|N-fdc | 3mp
 v13 וּפְנֵיהֶ֥ם|ū·p̄ə·nê·hem|facing|H6440|Conj-w | N-mpc | 3mp
-v13 לַבָּֽיִת׃ס|lab·bā·yiṯ|the [main] room|H1004|Prep-l, Art | N-ms
+v13 לַבָּֽיִת׃|lab·bā·yiṯ|the [main] room|H1004|Prep-l, Art | N-ms
 v14 וַיַּ֙עַשׂ֙|way·ya·‘aś|He made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 הַפָּרֹ֔כֶת|hap·pā·rō·ḵeṯ|the veil|H6532|Art | N-fs
@@ -191,7 +191,7 @@ v14 וְכַרְמִ֣יל|wə·ḵar·mîl|and crimson yarn|H3758|Conj-w | N-ms
 v14 וּב֑וּץ|ū·ḇūṣ|and fine linen|H948|Conj-w | N-ms
 v14 וַיַּ֥עַל|way·ya·‘al|woven|H5927|Conj-w | V-Hifil-ConsecImperf-3ms
 v14 עָלָ֖יו|‘ā·lāw|into it|H5921|Prep | 3ms
-v14 כְּרוּבִֽים׃ס|kə·rū·ḇîm|with cherubim|H3742|N-mp
+v14 כְּרוּבִֽים׃|kə·rū·ḇîm|with cherubim|H3742|N-mp
 v15 וַיַּ֜עַשׂ|way·ya·‘aś|he made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v15 לִפְנֵ֤י|lip̄·nê|In front|H6440|Prep-l | N-cpc
 v15 הַבַּ֙יִת֙|hab·ba·yiṯ|of the temple|H1004|Art | N-ms
@@ -206,7 +206,7 @@ v15 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v15 עַל־|‘al-|on|H5921|Prep
 v15 רֹאשׁ֖וֹ|rō·šōw|top|H7218|N-msc | 3ms
 v15 אַמּ֥וֹת|’am·mō·wṯ|cubits|H520|N-fp
-v15 חָמֵֽשׁ׃ס|ḥā·mêš|[measuring] five|H2568|Number-fs
+v15 חָמֵֽשׁ׃|ḥā·mêš|[measuring] five|H2568|Number-fs
 v16 וַיַּ֤עַשׂ|way·ya·‘aś|He made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v16 שַׁרְשְׁרוֹת֙|šar·šə·rō·wṯ|chains|H8333|N-fp
 v16 בַּדְּבִ֔יר|bad·də·ḇîr|interwoven|H1687|Prep-b, Art | N-ms
@@ -235,4 +235,4 @@ v17 הַיְמִינִי|hay·mī·nī|[The pillar] on the south|H3227|Art | Adj
 v17 יָכִ֔ין|yā·ḵîn|Jachin|H3199|N-proper-ms
 v17 וְשֵׁ֥ם|wə·šêm|he named|H8034|Conj-w | N-msc
 v17 הַשְּׂמָאלִ֖י|haś·śə·mā·lî|[and the pillar] on the north|H8042|Art | Adj-ms
-v17 בֹּֽעַז׃ס|bō·‘az|Boaz|H1162|N-proper-ms
+v17 בֹּֽעַז׃|bō·‘az|Boaz|H1162|N-proper-ms

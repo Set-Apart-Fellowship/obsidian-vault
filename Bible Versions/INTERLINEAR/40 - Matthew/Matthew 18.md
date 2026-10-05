@@ -22,9 +22,9 @@ v2 προσκαλεσάμενος|proskalesamenos|[Jesus] invited|G4341|V-APM-NM
 v2 παιδίον|paidion|a little child|G3813|N-ANS
 v2 ἔστησεν|estēsen|to stand|G2476|V-AIA-3S
 v2 αὐτὸ|auto|...|G846|PPro-AN3S
-v2 ἐν|en|vvv|G1722|Prep
+v2 ἐν|en|...|G1722|Prep
 v2 μέσῳ|mesō|among them|G3319|Adj-DNS
-v2 αὐτῶν|autōn|vvv|G846|PPro-GM3P
+v2 αὐτῶν|autōn|...|G846|PPro-GM3P
 v3 καὶ|kai|-|G2532|Conj
 v3 εἶπεν|eipen|He said|G2036|V-AIA-3S
 v3 Ἀμὴν|Amēn|Truly|G281|Heb
@@ -38,8 +38,8 @@ v3 γένησθε|genēsthe|become|G1096|V-ASM-2P
 v3 ὡς|hōs|like|G5613|Adv
 v3 τὰ|ta|-|G3588|Art-NNP
 v3 παιδία|paidia|little children|G3813|N-NNP
-v3 οὐ|ou|vvv|G3756|Adv
-v3 μὴ|mē|vvv|G3361|Adv
+v3 οὐ|ou|...|G3756|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 εἰσέλθητε|eiselthēte|you will never enter|G1525|V-ASA-2P
 v3 εἰς|eis|...|G1519|Prep
 v3 τὴν|tēn|the|G3588|Art-AFS
@@ -65,7 +65,7 @@ v4 τῶν|tōn|of|G3588|Art-GMP
 v4 οὐρανῶν|ouranōn|heaven|G3772|N-GMP
 v5 καὶ|kai|And|G2532|Conj
 v5 ὃς|hos|whoever|G3739|RelPro-NMS
-v5 ἐὰν|ean|vvv|G1437|Conj
+v5 ἐὰν|ean|...|G1437|Conj
 v5 δέξηται|dexētai|welcomes|G1209|V-ASM-3S
 v5 ἓν|hen|a|G1520|Adj-ANS
 v5 παιδίον|paidion|little child|G3813|N-ANS
@@ -197,7 +197,7 @@ v9 γέενναν|geennan|hell|G1067|N-AFS
 v9 τοῦ|tou|of|G3588|Art-GNS
 v9 πυρός|pyros|fire|G4442|N-GNS
 v10 Ὁρᾶτε|Horate|See [that]|G3708|V-PMA-2P
-v10 μὴ|mē|vvv|G3361|Adv
+v10 μὴ|mē|...|G3361|Adv
 v10 καταφρονήσητε|kataphronēsēte|you do not look down on|G2706|V-ASA-2P
 v10 ἑνὸς|henos|any|G1520|Adj-GMS
 v10 τῶν|tōn|-|G3588|Art-GMP
@@ -237,7 +237,7 @@ v12 πλανηθῇ|planēthē|goes astray|G4105|V-ASP-3S
 v12 ἓν|hen|one|G1520|Adj-NNS
 v12 ἐξ|ex|of|G1537|Prep
 v12 αὐτῶν|autōn|them|G846|PPro-GN3P
-v12 οὐχὶ|ouchi|vvv|G3780|IntPrtcl
+v12 οὐχὶ|ouchi|...|G3780|IntPrtcl
 v12 ἀφήσει|aphēsei|will he not leave|G863|V-FIA-3S
 v12 τὰ|ta|the|G3588|Art-ANP
 v12 ἐνενήκοντα|enenēkonta|ninety-nine|G1768|Adj-ANP
@@ -269,7 +269,7 @@ v13 τοῖς|tois|the|G3588|Art-DNP
 v13 ἐνενήκοντα|enenēkonta|ninety-nine|G1768|Adj-DNP
 v13 ἐννέα|ennea|...|G1767|Adj-DNP
 v13 τοῖς|tois|-|G3588|Art-DNP
-v13 μὴ|mē|vvv|G3361|Adv
+v13 μὴ|mē|...|G3361|Adv
 v13 πεπλανημένοις|peplanēmenois|that did not go astray|G4105|V-RPM/P-DNP
 v14 οὕτως|houtōs|In the same way|G3779|Adv
 v14 οὐκ|ouk|not|G3756|Adv
@@ -394,7 +394,7 @@ v19 περὶ|peri|about|G4012|Prep
 v19 παντὸς|pantos|anything|G3956|Adj-GNS
 v19 πράγματος|pragmatos|...|G4229|N-GNS
 v19 οὗ|hou|-|G3739|RelPro-GNS
-v19 ἐὰν|ean|vvv|G1437|Conj
+v19 ἐὰν|ean|...|G1437|Conj
 v19 αἰτήσωνται|aitēsōntai|[you] ask for|G154|V-ASM-3P
 v19 γενήσεται|genēsetai|it will be done|G1096|V-FIM-3S
 v19 αὐτοῖς|autois|for [you]|G846|PPro-DM3P
@@ -407,7 +407,7 @@ v19 ἐν|en|in|G1722|Prep
 v19 οὐρανοῖς|ouranois|heaven|G3772|N-DMP
 v20 οὗ|hou|where|G3757|Adv
 v20 γάρ|gar|For|G1063|Conj
-v20 εἰσιν|eisin|vvv|G1510|V-PIA-3P
+v20 εἰσιν|eisin|...|G1510|V-PIA-3P
 v20 δύο|dyo|two|G1417|Adj-NMP
 v20 ἢ|ē|or|G2228|Conj
 v20 τρεῖς|treis|three|G5140|Adj-NMP
@@ -480,7 +480,7 @@ v24 αὐτῷ|autō|to him|G846|PPro-DM3S
 v24 ὀφειλέτης|opheiletēs|debtor|G3781|N-NMS
 v24 μυρίων|myriōn|owing ten thousand|G3463|Adj-GNP
 v24 ταλάντων|talantōn|talents|G5007|N-GNP
-v25 μὴ|mē|vvv|G3361|Adv
+v25 μὴ|mē|...|G3361|Adv
 v25 ἔχοντος|echontos|was unable|G2192|V-PPA-GMS
 v25 δὲ|de|Since|G1161|Conj
 v25 αὐτοῦ|autou|[the man]|G846|PPro-GM3S
@@ -570,7 +570,7 @@ v29 ἀποδώσω|apodōsō|I will pay|G591|V-FIA-1S
 v29 σοι|soi|you {back}|G4771|PPro-D2S
 v30 Ὁ|Ho|-|G3588|Art-NMS
 v30 δὲ|de|But|G1161|Conj
-v30 οὐκ|ouk|vvv|G3756|Adv
+v30 οὐκ|ouk|...|G3756|Adv
 v30 ἤθελεν|ēthelen|he refused|G2309|V-IIA-3S
 v30 ἀλλὰ|alla|Instead|G235|Conj
 v30 ἀπελθὼν|apelthōn|he went|G565|V-APA-NMS
@@ -591,7 +591,7 @@ v31 αὐτοῦ|autou|his|G846|PPro-GM3S
 v31 τὰ|ta|what|G3588|Art-ANP
 v31 γενόμενα|genomena|had happened|G1096|V-APM-ANP
 v31 ἐλυπήθησαν|elypēthēsan|they were greatly distressed|G3076|V-AIP-3P
-v31 σφόδρα|sphodra|vvv|G4970|Adv
+v31 σφόδρα|sphodra|...|G4970|Adv
 v31 καὶ|kai|and|G2532|Conj
 v31 ἐλθόντες|elthontes|they went|G2064|V-APA-NMP
 v31 διεσάφησαν|diesaphēsan|[and] recounted|G1285|V-AIA-3P

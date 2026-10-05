@@ -75,7 +75,7 @@ v4 זְקָנָ֔ם|zə·qā·nām|of each man's beard|H2206|N-csc | 3mp
 v4 וַיִּכְרֹ֧ת|way·yiḵ·rōṯ|cut off|H3772|Conj-w | V-Qal-ConsecImperf-3ms
 v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 מַדְוֵיהֶ֛ם|maḏ·wê·hem|their garments|H4063|N-mpc | 3mp
-v4 בַּחֵ֖צִי|ba·ḥê·ṣî|vvv|H2677|Prep-b, Art | N-ms
+v4 בַּחֵ֖צִי|ba·ḥê·ṣî|...|H2677|Prep-b, Art | N-ms
 v4 עַ֣ד|‘aḏ|at|H5704|Prep
 v4 שְׁתֽוֹתֵיהֶ֑ם|šə·ṯō·w·ṯê·hem|the hips|H8357|N-mpc | 3mp
 v4 וַֽיְשַׁלְּחֵֽם׃|way·šal·lə·ḥêm|and sent them away|H7971|Conj-w | V-Piel-ConsecImperf-3ms | 3mp
@@ -108,7 +108,7 @@ v6 עַמּ֡וֹן|‘am·mō·wn|...|H5983|N-proper-ms
 v6 וַיִּשְׂכְּרוּ֩|way·yiś·kə·rū|hired|H7936|Conj-w | V-Qal-ConsecImperf-3mp
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 אֲרַ֨ם|’ă·ram|Aramean|H758|N-proper-fs
-v6 בֵּית־|bêṯ-|vvv|H1050|Prep
+v6 בֵּית־|bêṯ-|...|H1050|Prep
 v6 רְח֜וֹב|rə·ḥō·wḇ|from Beth-rehob|H1050|N-proper-fs
 v6 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v6 אֲרַ֣ם|’ă·ram|-|H758|N-proper-fs
@@ -153,9 +153,9 @@ v8 לְבַדָּ֖ם|lə·ḇad·dām|were by themselves|H905|Prep-l | N-msc | 
 v8 בַּשָּׂדֶֽה׃|baś·śā·ḏeh|in the open country|H7704|Prep-b, Art | N-ms
 v9 וַיַּ֣רְא|way·yar|saw|H7200|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יוֹאָ֗ב|yō·w·’āḇ|When Joab|H3097|N-proper-ms
-v9 כִּֽי־|kî-|vvv|H3588|Conj
-v9 הָיְתָ֤ה|hā·yə·ṯāh|vvv|H1961|V-Qal-Perf-3fs
-v9 אֵלָיו֙|’ê·lāw|vvv|H413|Prep | 3ms
+v9 כִּֽי־|kî-|...|H3588|Conj
+v9 הָיְתָ֤ה|hā·yə·ṯāh|...|H1961|V-Qal-Perf-3fs
+v9 אֵלָיו֙|’ê·lāw|...|H413|Prep | 3ms
 v9 פְּנֵ֣י|pə·nê|-|H6440|N-cpc
 v9 הַמִּלְחָמָ֔ה|ham·mil·ḥā·māh|the battle lines|H4421|Art | N-fs
 v9 מִפָּנִ֖ים|mip·pā·nîm|before him|H6440|Prep-m | N-mp
@@ -311,4 +311,4 @@ v19 לְהוֹשִׁ֥יעַ|lə·hō·wō·šî·a‘|to help|H3467|Prep-l | V-
 v19 ע֖וֹד|‘ō·wḏ|anymore|H5750|Adv
 v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 בְּנֵ֥י|bə·nê|the Ammonites|H1121|N-mpc
-v19 עַמּֽוֹן׃פ|‘am·mō·wn|...|H5983|N-proper-ms
+v19 עַמּֽוֹן׃|‘am·mō·wn|...|H5983|N-proper-ms

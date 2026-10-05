@@ -2,7 +2,7 @@ v1 Πρὸ|Pro|just before|G4253|Prep
 v1 δὲ|de|[It was] now|G1161|Conj
 v1 τῆς|tēs|the|G3588|Art-GFS
 v1 ἑορτῆς|heortēs|Feast|G1859|N-GFS
-v1 τοῦ|tou|vvv|G3588|Art-GNS
+v1 τοῦ|tou|...|G3588|Art-GNS
 v1 πάσχα|pascha|Passover|G3957|N-GNS
 v1 εἰδὼς|eidōs|knew|G1492|V-RPA-NMS
 v1 ὁ|ho|-|G3588|Art-NMS
@@ -92,7 +92,7 @@ v5 ἤρξατο|ērxato|began|G756|V-AIM-3S
 v5 νίπτειν|niptein|to wash|G3538|V-PNA
 v5 τοὺς|tous|the|G3588|Art-AMP
 v5 πόδας|podas|feet|G4228|N-AMP
-v5 τῶν|tōn|vvv|G3588|Art-GMP
+v5 τῶν|tōn|...|G3588|Art-GMP
 v5 μαθητῶν|mathētōn|disciples'|G3101|N-GMP
 v5 καὶ|kai|and|G2532|Conj
 v5 ἐκμάσσειν|ekmassein|dry [them]|G1591|V-PNA
@@ -109,7 +109,7 @@ v6 Πέτρον|Petron|Peter|G4074|N-AMS
 v6 λέγει|legei|who asked|G3004|V-PIA-3S
 v6 αὐτῷ|autō|Him|G846|PPro-DM3S
 v6 Κύριε|Kyrie|Lord|G2962|N-VMS
-v6 σύ|sy|vvv|G4771|PPro-N2S
+v6 σύ|sy|...|G4771|PPro-N2S
 v6 μου|mou|my|G1473|PPro-G1S
 v6 νίπτεις|nipteis|are You going to wash|G3538|V-PIA-2S
 v6 τοὺς|tous|-|G3588|Art-AMP
@@ -128,7 +128,7 @@ v7 οἶδας|oidas|realize|G1492|V-RIA-2S
 v7 ἄρτι|arti|now|G737|Adv
 v7 γνώσῃ|gnōsē|you will understand|G1097|V-FIM-2S
 v7 δὲ|de|but|G1161|Conj
-v7 μετὰ|meta|vvv|G3326|Prep
+v7 μετὰ|meta|...|G3326|Prep
 v7 ταῦτα|tauta|later|G3778|DPro-ANP
 v8 Λέγει|Legei|told|G3004|V-PIA-3S
 v8 αὐτῷ|autō|Him|G846|PPro-DM3S
@@ -343,7 +343,7 @@ v20 λέγω|legō|I tell|G3004|V-PIA-1S
 v20 ὑμῖν|hymin|you|G4771|PPro-D2P
 v20 ὁ|ho|whoever|G3588|Art-NMS
 v20 λαμβάνων|lambanōn|receives|G2983|V-PPA-NMS
-v20 ἄν|an|vvv|G302|Prtcl
+v20 ἄν|an|...|G302|Prtcl
 v20 τινα|tina|the one|G5100|IPro-AMS
 v20 πέμψω|pempsō|I send|G3992|V-ASA-1S
 v20 ἐμὲ|eme|Me|G1473|PPro-A1S
@@ -446,7 +446,7 @@ v26 βάψας|bapsas|dipped|G911|V-APA-NMS
 v26 οὖν|oun|Then|G3767|Conj
 v26 τὸ|to|the|G3588|Art-ANS
 v26 ψωμίον|psōmion|morsel|G5596|N-ANS
-v26 λαμβάνει|lambanei|vvv|G2983|V-PIA-3S
+v26 λαμβάνει|lambanei|...|G2983|V-PIA-3S
 v26 καὶ|kai|and|G2532|Conj
 v26 δίδωσιν|didōsin|gave [it]|G1325|V-PIA-3S
 v26 Ἰούδᾳ|Iouda|to Judas|G2455|N-DMS
@@ -540,7 +540,7 @@ v32 Θεὸς|Theos|God|G2316|N-NMS
 v32 ἐδοξάσθη|edoxasthē|is glorified|G1392|V-AIP-3S
 v32 ἐν|en|in|G1722|Prep
 v32 αὐτῷ|autō|Him|G846|PPro-DM3S
-v32 καὶ|kai|vvv|G2532|Conj
+v32 καὶ|kai|...|G2532|Conj
 v32 ὁ|ho|-|G3588|Art-NMS
 v32 Θεὸς|Theos|God|G2316|N-NMS
 v32 δοξάσει|doxasei|will also glorify|G1392|V-FIA-3S
@@ -569,7 +569,7 @@ v33 Ὅπου|Hopou|Where|G3699|Adv
 v33 ἐγὼ|egō|I|G1473|PPro-N1S
 v33 ὑπάγω|hypagō|am going|G5217|V-PIA-1S
 v33 ὑμεῖς|hymeis|you|G4771|PPro-N2P
-v33 οὐ|ou|vvv|G3756|Adv
+v33 οὐ|ou|...|G3756|Adv
 v33 δύνασθε|dynasthe|cannot|G1410|V-PIM/P-2P
 v33 ἐλθεῖν|elthein|come|G2064|V-ANA
 v33 καὶ|kai|so|G2532|Conj
@@ -601,7 +601,7 @@ v35 μαθηταί|mathētai|disciples|G3101|N-NMP
 v35 ἐστε|este|you are|G1510|V-PIA-2P
 v35 ἐὰν|ean|if|G1437|Conj
 v35 ἀγάπην|agapēn|you love|G26|N-AFS
-v35 ἔχητε|echēte|vvv|G2192|V-PSA-2P
+v35 ἔχητε|echēte|...|G2192|V-PSA-2P
 v35 ἐν|en|-|G1722|Prep
 v35 ἀλλήλοις|allēlois|one another|G240|RecPro-DMP
 v36 Λέγει|Legei|asked|G3004|V-PIA-3S
@@ -616,7 +616,7 @@ v36 [αὐτῷ]|autō|-|G846|PPro-DM3S
 v36 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v36 Ὅπου|Hopou|Where|G3699|Adv
 v36 ὑπάγω|hypagō|I am going|G5217|V-PIA-1S
-v36 οὐ|ou|vvv|G3756|Adv
+v36 οὐ|ou|...|G3756|Adv
 v36 δύνασαί|dynasai|you cannot|G1410|V-PIM/P-2S
 v36 μοι|moi|Me|G1473|PPro-D1S
 v36 νῦν|nyn|now|G3568|Adv
@@ -631,7 +631,7 @@ v37 Πέτρος|Petros|Peter|G4074|N-NMS
 v37 Κύριε|Kyrie|Lord|G2962|N-VMS
 v37 διὰ|dia|why|G1223|Prep
 v37 τί|ti|...|G5101|IPro-ANS
-v37 οὐ|ou|vvv|G3756|Adv
+v37 οὐ|ou|...|G3756|Adv
 v37 δύναμαί|dynamai|can't I|G1410|V-PIM/P-1S
 v37 σοι|soi|You|G4771|PPro-D2S
 v37 ἀκολουθῆσαι|akolouthēsai|follow|G190|V-ANA

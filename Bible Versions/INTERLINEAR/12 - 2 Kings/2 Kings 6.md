@@ -9,7 +9,7 @@ v1 הַמָּק֗וֹם|ham·mā·qō·wm|that the place|H4725|Art | N-ms
 v1 אֲשֶׁ֨ר|’ă·šer|where|H834|Pro-r
 v1 אֲנַ֜חְנוּ|’ă·naḥ·nū|we|H587|Pro-1cp
 v1 יֹשְׁבִ֥ים|yō·šə·ḇîm|meet|H3427|V-Qal-Prtcpl-mp
-v1 שָׁ֛ם|šām||H8033|Adv
+v1 שָׁ֛ם|šām|-|H8033|Adv
 v1 לְפָנֶ֖יךָ|lə·p̄ā·ne·ḵā|with you|H6440|Prep-l | N-cpc | 2ms
 v1 צַ֥ר|ṣar|is too small|H6862|V-Qal-Perf-3ms
 v1 מִמֶּֽנּוּ׃|mim·men·nū|for us|H4480|Prep | 1cp
@@ -80,7 +80,7 @@ v7 הָ֣רֶם|hā·rem|Lift [it] out|H7311|V-Hifil-Imp-ms
 v7 לָ֑ךְ|lāḵ|...|H0|Prep | 2fs
 v7 וַיִּשְׁלַ֥ח|way·yiš·laḥ|and [the man] reached out|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v7 יָד֖וֹ|yā·ḏōw|his hand|H3027|N-fsc | 3ms
-v7 וַיִּקָּחֵֽהוּ׃פ|way·yiq·qā·ḥê·hū|and took it|H3947|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
+v7 וַיִּקָּחֵֽהוּ׃|way·yiq·qā·ḥê·hū|and took it|H3947|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
 v8 וּמֶ֣לֶךְ|ū·me·leḵ|Now the king|H4428|Conj-w | N-msc
 v8 אֲרָ֔ם|’ă·rām|of Aram|H758|N-proper-fs
 v8 הָיָ֥ה|hā·yāh|was|H1961|V-Qal-Perf-3ms
@@ -123,7 +123,7 @@ v10 הָאֱלֹהִ֛ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v10 וְהִזְהִירָהּ|wə·hiz·hī·rå̄h|[Elisha] warned the king|H2094|Conj-w | V-Hifil-ConjPerf-3ms | 3ms
 v10 וְנִשְׁמַ֣ר|wə·niš·mar|so that he was on his guard|H8104|Conj-w | V-Nifal-ConjPerf-3ms
 v10 שָׁ֑ם|šām|in such places|H8033|Adv
-v10 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
+v10 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v10 אַחַ֖ת|’a·ḥaṯ|Time and again|H259|Number-fs
 v10 וְלֹ֥א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v10 שְׁתָּֽיִם׃|šə·tā·yim|...|H8147|Number-fd
@@ -138,10 +138,10 @@ v11 וַיִּקְרָ֤א|way·yiq·rā|and called|H7121|Conj-w | V-Qal-ConsecI
 v11 אֶל־|’el-|of them|H413|Prep
 v11 עֲבָדָיו֙|‘ă·ḇā·ḏāw|his servants|H5650|N-mpc | 3ms
 v11 וַיֹּ֣אמֶר|way·yō·mer|to demand|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v11 אֲלֵיהֶ֔ם|’ă·lê·hem||H413|Prep | 3mp
-v11 הֲלוֹא֙|hă·lō·w||H3808|Adv-NegPrt
+v11 אֲלֵיהֶ֔ם|’ă·lê·hem|-|H413|Prep | 3mp
+v11 הֲלוֹא֙|hă·lō·w|-|H3808|Adv-NegPrt
 v11 תַּגִּ֣ידוּ|tag·gî·ḏū|Tell me|H5046|V-Hifil-Imperf-2mp
-v11 לִ֔י|lî||H0|Prep | 1cs
+v11 לִ֔י|lî|-|H0|Prep | 1cs
 v11 מִ֥י|mî|which one|H4310|Interrog
 v11 מִשֶּׁלָּ֖נוּ|miš·šel·lā·nū|of us|H0|Prep-m, Pro-r | Prep | 1cp
 v11 אֶל־|’el-|[is] on the side|H413|Prep
@@ -175,7 +175,7 @@ v13 ה֔וּא|hū|he [is]|H1931|Pro-3ms
 v13 וְאֶשְׁלַ֖ח|wə·’eš·laḥ|that I may send|H7971|Conj-w | V-Qal-ConjImperf.h-1cs
 v13 וְאֶקָּחֵ֑הוּ|wə·’eq·qā·ḥê·hū|men to capture him|H3947|Conj-w | V-Qal-ConjImperf.h-1cs | 3ms
 v13 וַיֻּגַּד־|way·yug·gaḏ-|On receiving the report|H5046|Conj-w | V-Hofal-ConsecImperf-3ms
-v13 ל֥וֹ|lōw||H0|Prep | 3ms
+v13 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v13 לֵאמֹ֖ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v13 הִנֵּ֥ה|hin·nêh|-|H2009|Interjection
 v13 בְדֹתָֽן׃|ḇə·ḏō·ṯān|Elisha is in Dothan|H1886|Prep-b | N-proper-fs
@@ -343,12 +343,12 @@ v23 גְּדוּדֵ֣י|gə·ḏū·ḏê|raiders|H1416|N-mpc
 v23 אֲרָ֔ם|’ă·rām|And the Aramean|H758|N-proper-fs
 v23 לָב֖וֹא|lā·ḇō·w|come|H935|Prep-l | V-Qal-Inf
 v23 בְּאֶ֥רֶץ|bə·’e·reṣ|into the land|H776|Prep-b | N-fsc
-v23 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v23 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v24 וַֽיְהִי֙|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v24 אַחֲרֵי־|’a·ḥă·rê-|Some time later|H310|Prep
 v24 כֵ֔ן|ḵên|...|H3651|Adv
 v24 וַיִּקְבֹּ֛ץ|way·yiq·bōṣ|assembled|H6908|Conj-w | V-Qal-ConsecImperf-3ms
-v24 בֶּן־|ben-|vvv|H1130|Prep
+v24 בֶּן־|ben-|...|H1130|Prep
 v24 הֲדַ֥ד|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v24 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v24 אֲרָ֖ם|’ă·rām|of Aram|H758|N-proper-fs
@@ -450,7 +450,7 @@ v30 עַל־|‘al-|on|H5921|Prep
 v30 הַחֹמָ֑ה|ha·ḥō·māh|the wall|H2346|Art | N-fs
 v30 וַיַּ֣רְא|way·yar|saw|H7200|Conj-w | V-Qal-ConsecImperf-3ms
 v30 הָעָ֔ם|hā·‘ām|the people|H5971|Art | N-ms
-v30 וְהִנֵּ֥ה|wə·hin·nêh|vvv|H2009|Conj-w | Interjection
+v30 וְהִנֵּ֥ה|wə·hin·nêh|...|H2009|Conj-w | Interjection
 v30 הַשַּׂ֛ק|haś·śaq|the sackcloth|H8242|Art | N-ms
 v30 עַל־|‘al-|next to|H5921|Prep
 v30 בְּשָׂר֖וֹ|bə·śā·rōw|his skin|H1320|N-msc | 3ms
@@ -525,4 +525,4 @@ v33 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v33 מָֽה־|māh-|Why|H4100|Interrog
 v33 אוֹחִ֥יל|’ō·w·ḥîl|should I wait|H3176|V-Hifil-Imperf-1cs
 v33 לַיהוָ֖ה|Yah·weh|for the LORD|H3068|Prep-l | N-proper-ms
-v33 עֽוֹד׃ס|‘ō·wḏ|any longer|H5750|Adv
+v33 עֽוֹד׃|‘ō·wḏ|any longer|H5750|Adv

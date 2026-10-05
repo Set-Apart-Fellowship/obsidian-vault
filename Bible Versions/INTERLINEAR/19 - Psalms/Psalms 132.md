@@ -34,7 +34,7 @@ v5 לַיהוָ֑ה|Yah·weh|for the LORD|H3068|Prep-l | N-proper-ms
 v5 מִ֝שְׁכָּנ֗וֹת|miš·kā·nō·wṯ|a dwelling|H4908|N-mp
 v5 לַאֲבִ֥יר|la·’ă·ḇîr|for the Mighty|H46|Prep-l | N-msc
 v5 יַעֲקֹֽב׃|ya·‘ă·qōḇ|One of Jacob|H3290|N-proper-ms
-v6 הִנֵּֽה־|hin·nêh-|vvv|H2009|Interjection
+v6 הִנֵּֽה־|hin·nêh-|...|H2009|Interjection
 v6 שְׁמַֽעֲנ֥וּהָ|šə·ma·‘ă·nū·hā|We heard [that the ark was]|H8085|V-Qal-Perf-1cp | 3fs
 v6 בְאֶפְרָ֑תָה|ḇə·’ep̄·rā·ṯāh|in Ephrathah|H672|Prep-b | N-proper-fs
 v6 מְ֝צָאנ֗וּהָ|mə·ṣā·nū·hā|we found|H4672|V-Qal-Perf-1cp | 3fs
@@ -74,7 +74,7 @@ v11 מִפְּרִ֥י|mip·pə·rî|One of your descendants|H6529|Prep-m | N-ms
 v11 בִטְנְךָ֑|ḇiṭ·nə·ḵā|...|H990|N-fsc | 2ms
 v11 אָ֝שִׁ֗ית|’ā·šîṯ|I will place|H7896|V-Qal-Imperf-1cs
 v11 לְכִסֵּא־|lə·ḵis·sê-|on your throne|H3678|Prep-l | N-ms
-v11 לָֽךְ׃|lāḵ||H0|Prep | 2fs
+v11 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs
 v12 אִֽם־|’im-|If|H518|Conj
 v12 יִשְׁמְר֬וּ|yiš·mə·rū|keep|H8104|V-Qal-Imperf-3mp
 v12 בָנֶ֨יךָ׀|ḇā·ne·ḵā|your sons|H1121|N-mpc | 2ms
@@ -88,14 +88,14 @@ v12 עֲדֵי־|‘ă·ḏê-|forever|H5703|Prep
 v12 עַ֑ד|‘aḏ|and ever|H5703|N-ms
 v12 יֵ֝שְׁב֗וּ|yê·šə·ḇū|sit|H3427|V-Qal-Imperf-3mp
 v12 לְכִסֵּא־|lə·ḵis·sê-|on your throne|H3678|Prep-l | N-ms
-v12 לָֽךְ׃|lāḵ||H0|Prep | 2fs
+v12 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs
 v13 כִּֽי־|kî-|For|H3588|Conj
 v13 בָחַ֣ר|ḇā·ḥar|has chosen|H977|V-Qal-Perf-3ms
 v13 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v13 בְּצִיּ֑וֹן|bə·ṣî·yō·wn|Zion|H6726|Prep-b | N-proper-fs
 v13 אִ֝וָּ֗הּ|’iw·wāh|He has desired|H183|V-Piel-Perf-3ms | 3fs
 v13 לְמוֹשָׁ֥ב|lə·mō·wō·šāḇ|it for His home|H4186|Prep-l | N-ms
-v13 לֽוֹ׃|lōw||H0|Prep | 3ms
+v13 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v14 זֹאת־|zōṯ-|This|H2063|Pro-fs
 v14 מְנוּחָתִ֥י|mə·nū·ḥā·ṯî|is My resting place|H4496|N-fsc | 1cs
 v14 עֲדֵי־|‘ă·ḏê-|forever|H5703|Prep

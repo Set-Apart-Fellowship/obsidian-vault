@@ -7,7 +7,7 @@ v1 תַּ֗חַת|ta·ḥaṯ|in place|H8478|Prep
 v1 כָּנְיָ֙הוּ֙|kā·nə·yā·hū|of Coniah|H3659|N-proper-ms
 v1 בֶּן־|ben-|son|H1121|N-msc
 v1 יְה֣וֹיָקִ֔ים|yə·hō·w·yā·qîm|of Jehoiakim|H3079|N-proper-ms
-v1 אֲשֶׁ֥ר|’ă·šer||H834|Pro-r
+v1 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v1 הִמְלִ֛יךְ|him·lîḵ|the king|H4427|V-Hifil-Perf-3ms
 v1 נְבוּכַדְרֶאצַּ֥ר|nə·ḇū·ḵaḏ·reṣ·ṣar|Nebuchadnezzar|H5019|N-proper-ms
 v1 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
@@ -73,7 +73,7 @@ v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 שִׁמְעָ֔ם|šim·‘ām|the report|H8088|N-msc | 3mp
 v5 וַיֵּ֣עָל֔וּ|way·yê·‘ā·lū|they withdrew|H5927|Conj-w | V-Nifal-ConsecImperf-3mp
 v5 מֵעַ֖ל|mê·‘al|from|H5921|Prep-m
-v5 יְרוּשָׁלִָֽם׃פ|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
+v5 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v6 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v6 דְּבַר־|də·ḇar-|Then the word|H1697|N-msc
 v6 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -112,7 +112,7 @@ v8 הָעִ֣יר|hā·‘îr|city|H5892|Art | N-fs
 v8 הַזֹּ֑את|haz·zōṯ|this|H2063|Art | Pro-fs
 v8 וּלְכָדֻ֖הָ|ū·lə·ḵā·ḏu·hā|They will capture|H3920|Conj-w | V-Qal-ConjPerf-3cp | 3fs
 v8 וּשְׂרָפֻ֥הָ|ū·śə·rā·p̄u·hā|it and burn it down|H8313|Conj-w | V-Qal-ConjPerf-3cp | 3fs
-v8 בָאֵֽשׁ׃ס|ḇā·’êš|...|H784|Prep-b, Art | N-cs
+v8 בָאֵֽשׁ׃|ḇā·’êš|...|H784|Prep-b, Art | N-cs
 v9 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v9 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v9 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -139,7 +139,7 @@ v10 וְנִ֨שְׁאֲרוּ|wə·niš·’ă·rū|remained|H7604|Conj-w | V-
 v10 בָ֔ם|ḇām|...|H0|Prep | 3mp
 v10 אֲנָשִׁ֖ים|’ă·nā·šîm|men|H582|N-mp
 v10 מְדֻקָּרִ֑ים|mə·ḏuq·qā·rîm|and only wounded|H1856|V-Pual-Prtcpl-mp
-v10 אִ֤ישׁ|’îš|vvv|H376|N-ms
+v10 אִ֤ישׁ|’îš|...|H376|N-ms
 v10 בְּאָהֳלוֹ֙|bə·’ā·ho·lōw|in their tents|H168|Prep-b | N-msc | 3ms
 v10 יָק֔וּמוּ|yā·qū·mū|they would still get up|H6965|V-Qal-Imperf-3mp
 v10 וְשָֽׂרְפ֛וּ|wə·śā·rə·p̄ū|down|H8313|Conj-w | V-Qal-ConjPerf-3cp
@@ -155,7 +155,7 @@ v11 מֵעַ֖ל|mê·‘al|from|H5921|Prep-m
 v11 יְרֽוּשָׁלִָ֑ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v11 מִפְּנֵ֖י|mip·pə·nê|for fear|H6440|Prep-m | N-cpc
 v11 חֵ֥יל|ḥêl|army|H2428|N-msc
-v11 פַּרְעֹֽה׃ס|par·‘ōh|of Pharaoh's|H6547|N-proper-ms
+v11 פַּרְעֹֽה׃|par·‘ōh|of Pharaoh's|H6547|N-proper-ms
 v12 וַיֵּצֵ֤א|way·yê·ṣê|started to leave|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יִרְמְיָ֙הוּ֙|yir·mə·yā·hū|Jeremiah|H3414|N-proper-ms
 v12 מִיר֣וּשָׁלִַ֔ם|mî·rū·šā·lim|Jerusalem|H3389|Prep-m | N-proper-fs
@@ -234,13 +234,13 @@ v16 וַיֵּֽשֶׁב־|way·yê·šeḇ-|and remained|H3427|Conj-w | V-Qal-C
 v16 שָׁ֥ם|šām|there|H8033|Adv
 v16 יִרְמְיָ֖הוּ|yir·mə·yā·hū|...|H3414|N-proper-ms
 v16 יָמִ֥ים|yā·mîm|...|H3117|N-mp
-v16 רַבִּֽים׃פ|rab·bîm|a long time|H7227|Adj-mp
+v16 רַבִּֽים׃|rab·bîm|a long time|H7227|Adj-mp
 v17 וַיִּשְׁלַח֩|way·yiš·laḥ|sent for [Jeremiah]|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v17 הַמֶּ֨לֶךְ|ham·me·leḵ|Later, King|H4428|Art | N-ms
 v17 צִדְקִיָּ֜הוּ|ṣiḏ·qî·yā·hū|Zedekiah|H6667|N-proper-ms
 v17 וַיִּקָּחֵ֗הוּ|way·yiq·qā·ḥê·hū|and received him|H3947|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
 v17 וַיִּשְׁאָלֵ֨הוּ|way·yiš·’ā·lê·hū|where he asked him|H7592|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
-v17 הַמֶּ֤לֶךְ|ham·me·leḵ||H4428|Art | N-ms
+v17 הַמֶּ֤לֶךְ|ham·me·leḵ|-|H4428|Art | N-ms
 v17 בְּבֵיתוֹ֙|bə·ḇê·ṯōw|in his palace|H1004|Prep-b | N-msc | 3ms
 v17 בַּסֵּ֔תֶר|bas·sê·ṯer|privately|H5643|Prep-b, Art | N-ms
 v17 וַיֹּ֕אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -255,7 +255,7 @@ v17 וַיֹּ֕אמֶר|way·yō·mer|...|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v17 בְּיַ֥ד|bə·yaḏ|into the hand|H3027|Prep-b | N-fsc
 v17 מֶֽלֶךְ־|me·leḵ-|of the king|H4428|N-msc
 v17 בָּבֶ֖ל|bā·ḇel|of Babylon|H894|N-proper-fs
-v17 תִּנָּתֵֽן׃ס|tin·nā·ṯên|You will be delivered|H5414|V-Nifal-Imperf-2ms
+v17 תִּנָּתֵֽן׃|tin·nā·ṯên|You will be delivered|H5414|V-Nifal-Imperf-2ms
 v18 וַיֹּ֣אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v18 יִרְמְיָ֔הוּ|yir·mə·yā·hū|Then Jeremiah|H3414|N-proper-ms
 v18 אֶל־|’el-|...|H413|Prep
@@ -313,7 +313,7 @@ v21 יִרְמְיָהוּ֮|yir·mə·yā·hū|for Jeremiah|H3414|N-proper-ms
 v21 בַּחֲצַ֣ר|ba·ḥă·ṣar|in the courtyard|H2691|Prep-b | N-csc
 v21 הַמַּטָּרָה֒|ham·maṭ·ṭā·rāh|of the guard|H4307|Art | N-fs
 v21 וְנָתֹן֩|wə·nā·ṯōn|and given|H5414|Conj-w | V-Qal-InfAbs
-v21 ל֨וֹ|lōw||H0|Prep | 3ms
+v21 ל֨וֹ|lōw|-|H0|Prep | 3ms
 v21 כִכַּר־|ḵik·kar-|a loaf|H3603|N-fsc
 v21 לֶ֤חֶם|le·ḥem|of bread|H3899|N-ms
 v21 לַיּוֹם֙|lay·yō·wm|daily|H3117|Prep-l, Art | N-ms

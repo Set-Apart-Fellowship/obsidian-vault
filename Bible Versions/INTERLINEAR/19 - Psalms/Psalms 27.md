@@ -17,7 +17,7 @@ v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 בְּשָׂ֫רִ֥י|bə·śā·rî|my flesh|H1320|N-msc | 1cs
 v2 צָרַ֣י|ṣā·ray|my enemies|H6862|N-mpc | 1cs
 v2 וְאֹיְבַ֣י|wə·’ō·yə·ḇay|and foes|H341|Conj-w | V-Qal-Prtcpl-mpc | 1cs
-v2 לִ֑י|lî||H0|Prep | 1cs
+v2 לִ֑י|lî|-|H0|Prep | 1cs
 v2 הֵ֖מָּה|hêm·māh|-|H1992|Pro-3mp
 v2 כָשְׁל֣וּ|ḵā·šə·lū|stumbled|H3782|V-Qal-Perf-3cp
 v2 וְנָפָֽלוּ׃|wə·nā·p̄ā·lū|and fell|H5307|Conj-w | V-Qal-ConjPerf-3cp
@@ -81,7 +81,7 @@ v7 קוֹלִ֥י|qō·w·lî|my voice|H6963|N-msc | 1cs
 v7 אֶקְרָ֗א|’eq·rā|when I call|H7121|V-Qal-Imperf-1cs
 v7 וְחָנֵּ֥נִי|wə·ḥān·nê·nî|be merciful|H2603|Conj-w | V-Qal-Imp-ms | 1cs
 v7 וַעֲנֵֽנִי׃|wa·‘ă·nê·nî|and answer me|H6030|Conj-w | V-Qal-Imp-ms | 1cs
-v8 לְךָ֤׀|lə·ḵā||H0|Prep | 2ms
+v8 לְךָ֤׀|lə·ḵā|-|H0|Prep | 2ms
 v8 אָמַ֣ר|’ā·mar|said|H559|V-Qal-Perf-3ms
 v8 לִ֭בִּי|lib·bî|My heart|H3820|N-msc | 1cs
 v8 בַּקְּשׁ֣וּ|baq·qə·šū|Seek|H1245|V-Piel-Imp-mp

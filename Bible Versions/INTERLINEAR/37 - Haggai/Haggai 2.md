@@ -81,7 +81,7 @@ v5 וְרוּחִ֖י|wə·rū·ḥî|And My Spirit|H7307|Conj-w | N-csc | 1cs
 v5 עֹמֶ֣דֶת|‘ō·me·ḏeṯ|remains|H5975|V-Qal-Prtcpl-fs
 v5 בְּתוֹכְכֶ֑ם|bə·ṯō·wḵ·ḵem|among you|H8432|Prep-b | N-msc | 2mp
 v5 אַל־|’al-|do not|H408|Adv
-v5 תִּירָֽאוּ׃ס|tî·rā·’ū|be afraid|H3372|V-Qal-Imperf-2mp
+v5 תִּירָֽאוּ׃|tî·rā·’ū|be afraid|H3372|V-Qal-Imperf-2mp
 v6 כִּ֣י|kî|For|H3588|Conj
 v6 כֹ֤ה|ḵōh|this is what|H3541|Adv
 v6 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -141,7 +141,7 @@ v9 אֶתֵּ֣ן|’et·tên|I will provide|H5414|V-Qal-Imperf-1cs
 v9 שָׁל֔וֹם|šā·lō·wm|peace|H7965|N-ms
 v9 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v9 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v9 צְבָאֽוֹת׃פ|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
+v9 צְבָאֽוֹת׃|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v10 בְּעֶשְׂרִ֤ים|bə·‘eś·rîm|On the twenty-fourth day|H6242|Prep-b | Number-cp
 v10 וְאַרְבָּעָה֙|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
 v10 לַתְּשִׁיעִ֔י|lat·tə·šî·‘î|of the ninth [month]|H8671|Prep-l, Art | Number-oms
@@ -225,7 +225,7 @@ v14 שָׁ֖ם|šām|there|H8033|Adv
 v14 טָמֵ֥א|ṭā·mê|is defiled|H2931|Adj-ms
 v14 הֽוּא׃|hū|...|H1931|Pro-3ms
 v15 וְעַתָּה֙|wə·‘at·tāh|Now|H6258|Conj-w | Adv
-v15 שִֽׂימוּ־|śî·mū-|vvv|H7760|V-Qal-Imp-mp
+v15 שִֽׂימוּ־|śî·mū-|...|H7760|V-Qal-Imp-mp
 v15 נָ֣א|nā|carefully|H4994|Interjection
 v15 לְבַבְכֶ֔ם|lə·ḇaḇ·ḵem|consider|H3824|N-msc | 2mp
 v15 מִן־|min-|from|H4480|Prep
@@ -301,7 +301,7 @@ v19 נָשָׂ֑א|nā·śā|yielded [fruit]|H5375|V-Qal-Perf-3ms
 v19 מִן־|min-|But from|H4480|Prep
 v19 הַיּ֥וֹם|hay·yō·wm|day on|H3117|Art | N-ms
 v19 הַזֶּ֖ה|haz·zeh|this|H2088|Art | Pro-ms
-v19 אֲבָרֵֽךְ׃ס|’ă·ḇā·rêḵ|I will bless you|H1288|V-Piel-Imperf-1cs
+v19 אֲבָרֵֽךְ׃|’ă·ḇā·rêḵ|I will bless you|H1288|V-Piel-Imperf-1cs
 v20 וַיְהִ֨י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v20 דְבַר־|ḏə·ḇar-|the word|H1697|N-msc
 v20 יְהוָ֤ה׀|Yah·weh|of the LORD|H3068|N-proper-ms

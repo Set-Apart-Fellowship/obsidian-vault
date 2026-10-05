@@ -47,7 +47,7 @@ v4 בְּנִי֙|bə·nî|O my son|H1121|N-msc | 1cs
 v4 אַבְשָׁל֔וֹם|’aḇ·šā·lō·wm|Absalom|H53|N-proper-ms
 v4 אַבְשָׁל֖וֹם|’aḇ·šā·lō·wm|O Absalom|H53|N-proper-ms
 v4 בְּנִ֥י|bə·nî|my son|H1121|N-msc | 1cs
-v4 בְנִֽי׃ס|ḇə·nî|my son|H1121|N-msc | 1cs
+v4 בְנִֽי׃|ḇə·nî|my son|H1121|N-msc | 1cs
 v5 וַיָּבֹ֥א|way·yā·ḇō|went|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v5 יוֹאָ֛ב|yō·w·’āḇ|Then Joab|H3097|N-proper-ms
 v5 אֶל־|’el-|into|H413|Prep
@@ -128,7 +128,7 @@ v7 בָּ֣אָה|bā·’āh|has befallen|H935|V-Qal-Perf-3fs
 v7 עָלֶ֔יךָ|‘ā·le·ḵā|you|H5921|Prep | 2ms
 v7 מִנְּעֻרֶ֖יךָ|min·nə·‘u·re·ḵā|from your youth|H5271|Prep-m | N-mpc | 2ms
 v7 עַד־|‘aḏ-|until|H5704|Prep
-v7 עָֽתָּה׃ס|‘āt·tāh|now|H6258|Adv
+v7 עָֽתָּה׃|‘āt·tāh|now|H6258|Adv
 v8 וַיָּ֥קָם|way·yā·qām|got up|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v8 הַמֶּ֖לֶךְ|ham·me·leḵ|So the king|H4428|Art | N-ms
 v8 וַיֵּ֣שֶׁב|way·yê·šeḇ|and sat|H3427|Conj-w | V-Qal-ConsecImperf-3ms
@@ -149,7 +149,7 @@ v8 הַמֶּ֔לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v8 וְיִשְׂרָאֵ֔ל|wə·yiś·rā·’êl|Meanwhile, the Israelites|H3478|Conj-w | N-proper-ms
 v8 נָ֖ס|nās|had fled|H5127|V-Qal-Perf-3ms
 v8 אִ֥ישׁ|’îš|each man|H376|N-ms
-v8 לְאֹהָלָֽיו׃ס|lə·’ō·hā·lāw|to his home|H168|Prep-l | N-mpc | 3ms
+v8 לְאֹהָלָֽיו׃|lə·’ō·hā·lāw|to his home|H168|Prep-l | N-mpc | 3ms
 v9 וַיְהִ֤י|way·hî|And|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v9 כָל־|ḵāl|all|H3605|N-msc
 v9 הָעָם֙|hā·‘ām|the people|H5971|Art | N-ms
@@ -157,7 +157,7 @@ v9 נָד֔וֹן|nā·ḏō·wn|were arguing|H1777|V-Nifal-Prtcpl-ms
 v9 בְּכָל־|bə·ḵāl|throughout|H3605|Prep-b | N-msc
 v9 שִׁבְטֵ֥י|šiḇ·ṭê|the tribes|H7626|N-mpc
 v9 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v9 לֵאמֹ֑ר|lê·mōr|vvv|H559|Prep-l | V-Qal-Inf
+v9 לֵאמֹ֑ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v9 הַמֶּ֜לֶךְ|ham·me·leḵ|The king|H4428|Art | N-ms
 v9 הִצִּילָ֣נוּ׀|hiṣ·ṣî·lā·nū|rescued us|H5337|V-Hifil-Perf-3ms | 1cp
 v9 מִכַּ֣ף|mik·kap̄|from the hand|H3709|Prep-m | N-fsc
@@ -184,7 +184,7 @@ v10 אַתֶּ֛ם|’at·tem|do you|H859|Pro-2mp
 v10 מַחֲרִשִׁ֖ים|ma·ḥă·ri·šîm|say nothing|H2790|V-Hifil-Prtcpl-mp
 v10 לְהָשִׁ֥יב|lə·hā·šîḇ|about restoring|H7725|Prep-l | V-Hifil-Inf
 v10 אֶת־|’eṯ-|-|H853|DirObjM
-v10 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|the king|H4428|Art | N-ms
+v10 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v11 וְהַמֶּ֣לֶךְ|wə·ham·me·leḵ|Then King|H4428|Conj-w, Art | N-ms
 v11 דָּוִ֗ד|dā·wiḏ|David|H1732|N-proper-ms
 v11 שָׁ֠לַח|šā·laḥ|sent this message|H7971|V-Qal-Perf-3ms
@@ -283,7 +283,7 @@ v16 וַיְמַהֵ֗ר|way·ma·hêr|hurried|H4116|Conj-w | V-Piel-ConsecImper
 v16 שִׁמְעִ֤י|šim·‘î|Then Shimei|H8096|N-proper-ms
 v16 בֶן־|ḇen-|son|H1121|N-msc
 v16 גֵּרָא֙|gê·rā|of Gera|H1617|N-proper-ms
-v16 בֶּן־|ben-|vvv|H1145|N-msc
+v16 בֶּן־|ben-|...|H1145|N-msc
 v16 הַיְמִינִ֔י|hay·mî·nî|a Benjamite|H1145|Art | N-proper-ms
 v16 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v16 מִבַּֽחוּרִ֑ים|mib·ba·ḥū·rîm|from Bahurim|H980|Prep-m | N-proper-fs
@@ -369,7 +369,7 @@ v20 יוֹסֵ֔ף|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
 v20 לָרֶ֕דֶת|lā·re·ḏeṯ|to come down|H3381|Prep-l | V-Qal-Inf
 v20 לִקְרַ֖את|liq·raṯ|to meet|H7122|Prep-l | V-Qal-Inf
 v20 אֲדֹנִ֥י|’ă·ḏō·nî|my lord|H113|N-msc | 1cs
-v20 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|the king|H4428|Art | N-ms
+v20 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v21 וַיַּ֨עַן|way·ya·‘an|said|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v21 אֲבִישַׁ֤י|’ă·ḇî·šay|But Abishai|H52|N-proper-ms
 v21 בֶּן־|ben-|son|H1121|N-msc
@@ -384,7 +384,7 @@ v21 כִּ֥י|kî|because|H3588|Conj
 v21 קִלֵּ֖ל|qil·lêl|he cursed|H7043|V-Piel-Perf-3ms
 v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 מְשִׁ֥יחַ|mə·šî·aḥ|anointed|H4899|Adj-msc
-v21 יְהוָֽה׃ס|Yah·weh|the LORD's|H3068|N-proper-ms
+v21 יְהוָֽה׃|Yah·weh|the LORD's|H3068|N-proper-ms
 v22 וַיֹּ֣אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v22 דָּוִ֗ד|dā·wiḏ|And David|H1732|N-proper-ms
 v22 מַה־|mah-|what|H4100|Interrog
@@ -418,7 +418,7 @@ v23 לֹ֣א|lō|You shall not|H3808|Adv-NegPrt
 v23 תָמ֑וּת|ṯā·mūṯ|die|H4191|V-Qal-Imperf-2ms
 v23 וַיִּשָּׁ֥בַֽע|way·yiš·šā·ḇa‘|swore an oath|H7650|Conj-w | V-Nifal-ConsecImperf-3ms
 v23 ל֖וֹ|lōw|to him|H0|Prep | 3ms
-v23 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|And the king|H4428|Art | N-ms
+v23 הַמֶּֽלֶךְ׃|ham·me·leḵ|And the king|H4428|Art | N-ms
 v24 וּמְפִבֹ֙שֶׁת֙|ū·mə·p̄i·ḇō·šeṯ|Then Mephibosheth|H4648|Conj-w | N-proper-ms
 v24 בֶּן־|ben-|grandson|H1121|N-msc
 v24 שָׁא֔וּל|šā·’ūl|Saul's|H7586|N-proper-ms
@@ -514,14 +514,14 @@ v28 צְדָקָ֔ה|ṣə·ḏā·qāh|right, then|H6666|N-fs
 v28 וְלִזְעֹ֥ק|wə·liz·‘ōq|appealing|H2199|Conj-w, Prep-l | V-Qal-Inf
 v28 ע֖וֹד|‘ō·wḏ|to keep|H5750|Adv
 v28 אֶל־|’el-|to|H413|Prep
-v28 הַמֶּֽלֶךְ׃פ|ham·me·leḵ|the king|H4428|Art | N-ms
+v28 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v29 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v29 לוֹ֙|lōw||H0|Prep | 3ms
+v29 לוֹ֙|lōw|-|H0|Prep | 3ms
 v29 הַמֶּ֔לֶךְ|ham·me·leḵ|The king|H4428|Art | N-ms
 v29 לָ֛מָּה|lām·māh|Why|H4100|Interrog
 v29 תְּדַבֵּ֥ר|tə·ḏab·bêr|say|H1696|V-Piel-Imperf-2ms
 v29 ע֖וֹד|‘ō·wḏ|any more|H5750|Adv
-v29 דְּבָרֶ֑יךָ|də·ḇā·re·ḵā||H1697|N-mpc | 2ms
+v29 דְּבָרֶ֑יךָ|də·ḇā·re·ḵā|-|H1697|N-mpc | 2ms
 v29 אָמַ֕רְתִּי|’ā·mar·tî|I hereby declare|H559|V-Qal-Perf-1cs
 v29 אַתָּ֣ה|’at·tāh|that you|H859|Pro-2ms
 v29 וְצִיבָ֔א|wə·ṣî·ḇā|and Ziba|H6717|Conj-w | N-proper-ms
@@ -543,7 +543,7 @@ v30 אֲדֹנִ֥י|’ă·ḏō·nî|my lord|H113|N-msc | 1cs
 v30 הַמֶּ֛לֶך|ham·mɛ·lɛḵ|the king|H4428|Art | N-ms
 v30 בְּשָׁל֖וֹם|bə·šā·lō·wm|has safely|H7965|Prep-b | N-ms
 v30 אֶל־|’el-|to|H413|Prep
-v30 בֵּיתֽוֹ׃ס|bê·ṯōw|his own house|H1004|N-msc | 3ms
+v30 בֵּיתֽוֹ׃|bê·ṯōw|his own house|H1004|N-msc | 3ms
 v31 וּבַרְזִלַּי֙|ū·ḇar·zil·lay|Now Barzillai|H1271|Conj-w | N-proper-ms
 v31 הַגִּלְעָדִ֔י|hag·gil·‘ā·ḏî|the Gileadite|H1569|Art | N-proper-ms
 v31 יָרַ֖ד|yā·raḏ|had come down|H3381|V-Qal-Perf-3ms
@@ -661,7 +661,7 @@ v37 ל֕וֹ|lōw|for him|H0|Prep | 3ms
 v37 אֵ֥ת|’êṯ|-|H853|DirObjM
 v37 אֲשֶׁר־|’ă·šer-|what|H834|Pro-r
 v37 ט֖וֹב|ṭō·wḇ|is good|H2895|V-Qal-Perf-3ms
-v37 בְּעֵינֶֽיךָ׃ס|bə·‘ê·ne·ḵā|in your sight|H5869|Prep-b | N-cdc | 2ms
+v37 בְּעֵינֶֽיךָ׃|bə·‘ê·ne·ḵā|in your sight|H5869|Prep-b | N-cdc | 2ms
 v38 וַיֹּ֣אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v38 הַמֶּ֗לֶךְ|ham·me·leḵ|The king|H4428|Art | N-ms
 v38 אִתִּי֙|’it·tî|with me|H854|Prep | 1cs
@@ -691,7 +691,7 @@ v39 הַמֶּ֤לֶךְ|ham·me·leḵ|The king|H4428|Art | N-ms
 v39 לְבַרְזִלַּי֙|lə·ḇar·zil·lay|Barzillai|H1271|Prep-l | N-proper-ms
 v39 וַיְבָ֣רֲכֵ֔הוּ|way·ḇā·ră·ḵê·hū|and blessed him|H1288|Conj-w | V-Piel-ConsecImperf-3ms | 3ms
 v39 וַיָּ֖שָׁב|way·yā·šāḇ|and Barzillai returned|H7725|Conj-w | V-Qal-ConsecImperf-3ms
-v39 לִמְקֹמֽוֹ׃ס|lim·qō·mōw|home|H4725|Prep-l | N-msc | 3ms
+v39 לִמְקֹמֽוֹ׃|lim·qō·mōw|home|H4725|Prep-l | N-msc | 3ms
 v40 וַיַּעֲבֹ֤ר|way·ya·‘ă·ḇōr|crossed over|H5674|Conj-w | V-Qal-ConsecImperf-3ms
 v40 הַמֶּ֙לֶךְ֙|ham·me·leḵ|Then the king|H4428|Art | N-ms
 v40 הַגִּלְגָּ֔לָה|hag·gil·gā·lāh|to Gilgal|H1537|Art | N-proper-fs | 3fs
@@ -733,7 +733,7 @@ v41 הַיַּרְדֵּ֔ן|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
 v41 וְכָל־|wə·ḵāl|all|H3605|Conj-w | N-msc
 v41 אַנְשֵׁ֥י|’an·šê|men|H376|N-mpc
 v41 דָוִ֖ד|ḏā·wiḏ|of David's|H1732|N-proper-ms
-v41 עִמּֽוֹ׃ס|‘im·mōw|together with|H5973|Prep | 3ms
+v41 עִמּֽוֹ׃|‘im·mōw|together with|H5973|Prep | 3ms
 v42 וַיַּעַן֩|way·ya·‘an|replied|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v42 כָּל־|kāl-|And all|H3605|N-msc
 v42 אִ֨ישׁ|’îš|the men|H376|N-msc
@@ -759,7 +759,7 @@ v42 הַמֶּ֔לֶךְ|ham·me·leḵ|the king's [expense]|H4428|Art | N-ms
 v42 אִם־|’im-|or|H518|Conj
 v42 נִשֵּׂ֥את|niś·śêṯ|received anything|H5375|V-Nifal-InfAbs
 v42 נִשָּׂ֖א|niś·śā|...|H5375|V-Nifal-Perf-3ms
-v42 לָֽנוּ׃ס|lā·nū|for ourselves|H0|Prep | 1cp
+v42 לָֽנוּ׃|lā·nū|for ourselves|H0|Prep | 1cp
 v43 וַיַּ֣עַן|way·ya·‘an|answered|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v43 אִֽישׁ־|’îš-|the men|H376|N-msc
 v43 יִשְׂרָאֵל֩|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -769,7 +769,7 @@ v43 יְהוּדָ֜ה|yə·hū·ḏāh|-|H3063|N-proper-ms
 v43 וַיֹּ֗אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v43 עֶֽשֶׂר־|‘e·śer-|We have ten|H6235|Number-fsc
 v43 יָד֨וֹת|yā·ḏō·wṯ|shares|H3027|N-fp
-v43 לִ֣י|lî||H0|Prep | 1cs
+v43 לִ֣י|lî|-|H0|Prep | 1cs
 v43 בַמֶּלֶךְ֮|ḇam·me·leḵ|in the king|H4428|Prep-b, Art | N-ms
 v43 וְגַם־|wə·ḡam-|so we have more claim|H1571|Conj
 v43 בְּדָוִד֮|bə·ḏā·wiḏ|to David|H1732|Prep-b | N-proper-ms
@@ -781,7 +781,7 @@ v43 וְלֹא־|wə·lō-|Were we not|H3808|Conj-w | Adv-NegPrt
 v43 הָיָ֨ה|hā·yāh|...|H1961|V-Qal-Perf-3ms
 v43 דְבָרִ֥י|ḏə·ḇā·rî|to speak|H1697|N-msc | 1cs
 v43 רִאשׁ֛וֹן|ri·šō·wn|the first|H7223|Adj-ms
-v43 לִ֖י|lî||H0|Prep | 1cs
+v43 לִ֖י|lî|-|H0|Prep | 1cs
 v43 לְהָשִׁ֣יב|lə·hā·šîḇ|of restoring|H7725|Prep-l | V-Hifil-Inf
 v43 אֶת־|’eṯ-|-|H853|DirObjM
 v43 מַלְכִּ֑י|mal·kî|our king|H4428|N-msc | 1cs
@@ -791,4 +791,4 @@ v43 אִ֣ישׁ|’îš|But the men|H376|N-msc
 v43 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v43 מִדְּבַ֖ר|mid·də·ḇar|[than]|H1697|Prep-m | N-msc
 v43 אִ֥ישׁ|’îš|the men|H376|N-msc
-v43 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v43 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms

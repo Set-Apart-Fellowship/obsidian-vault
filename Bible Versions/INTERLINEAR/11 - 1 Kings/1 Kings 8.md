@@ -10,7 +10,7 @@ v1 רָאשֵׁ֣י|rā·šê|heads|H7218|N-mpc
 v1 הַמַּטּוֹת֩|ham·maṭ·ṭō·wṯ|the tribal|H4294|Art | N-mp
 v1 נְשִׂיאֵ֨י|nə·śî·’ê|and family leaders|H5387|N-mpc
 v1 הָאָב֜וֹת|hā·’ā·ḇō·wṯ|...|H1|Art | N-mp
-v1 לִבְנֵ֧י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v1 לִבְנֵ֧י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v1 יִשְׂרָאֵ֛ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v1 אֶל־|’el-|before|H413|Prep
 v1 הַמֶּ֥לֶךְ|ham·me·leḵ|him|H4428|Art | N-ms
@@ -175,7 +175,7 @@ v11 כְבוֹד־|ḵə·ḇō·wḏ-|the glory|H3519|N-msc
 v11 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 בֵּ֥ית|bêṯ|the house|H1004|N-msc
-v11 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v11 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v12 אָ֖ז|’āz|Then|H227|Adv
 v12 אָמַ֣ר|’ā·mar|declared|H559|V-Qal-Perf-3ms
 v12 שְׁלֹמֹ֑ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -289,7 +289,7 @@ v19 הַבַּ֖יִת|hab·ba·yiṯ|the house|H1004|Art | N-ms
 v19 לִשְׁמִֽי׃|liš·mî|for My Name|H8034|Prep-l | N-msc | 1cs
 v20 וַיָּ֣קֶם|way·yā·qem|has fulfilled|H6965|Conj-w | V-Hifil-ConsecImperf-3ms
 v20 יְהוָ֔ה|Yah·weh|Now the LORD|H3068|N-proper-ms
-v20 אֶת־|’eṯ-||H853|DirObjM
+v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 דְּבָר֖וֹ|də·ḇā·rōw|the word|H1697|N-msc | 3ms
 v20 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v20 דִּבֵּ֑ר|dib·bêr|He spoke|H1696|V-Piel-Perf-3ms
@@ -315,7 +315,7 @@ v21 שָׁ֤ם|šām|...|H8033|Adv
 v21 מָקוֹם֙|mā·qō·wm|a place|H4725|N-ms
 v21 לָֽאָר֔וֹן|lā·’ā·rō·wn|for the ark|H727|Prep-l, Art | N-cs
 v21 אֲשֶׁר־|’ă·šer-|which contains|H834|Pro-r
-v21 שָׁ֖ם|šām||H8033|Adv
+v21 שָׁ֖ם|šām|-|H8033|Adv
 v21 בְּרִ֣ית|bə·rîṯ|the covenant|H1285|N-fsc
 v21 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v21 אֲשֶׁ֤ר|’ă·šer|that|H834|Pro-r
@@ -325,7 +325,7 @@ v21 אֲבֹתֵ֔ינוּ|’ă·ḇō·ṯê·nū|our fathers|H1|N-mpc | 1cp
 v21 בְּהוֹצִיא֥וֹ|bə·hō·w·ṣî·’ōw|when He brought them out|H3318|Prep-b | V-Hifil-Inf | 3ms
 v21 אֹתָ֖ם|’ō·ṯām|-|H853|DirObjM | 3mp
 v21 מֵאֶ֥רֶץ|mê·’e·reṣ|of the land|H776|Prep-m | N-fsc
-v21 מִצְרָֽיִם׃ס|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
+v21 מִצְרָֽיִם׃|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
 v22 וַיַּעֲמֹ֣ד|way·ya·‘ă·mōḏ|stood|H5975|Conj-w | V-Qal-ConsecImperf-3ms
 v22 שְׁלֹמֹ֗ה|šə·lō·mōh|Then Solomon|H8010|N-proper-ms
 v22 לִפְנֵי֙|lip̄·nê|before|H6440|Prep-l | N-cpc
@@ -384,7 +384,7 @@ v25 אָבִי֙|’ā·ḇî|my father|H1|N-msc | 1cs
 v25 אֵת֩|’êṯ|-|H853|DirObjM
 v25 אֲשֶׁ֨ר|’ă·šer|what|H834|Pro-r
 v25 דִּבַּ֤רְתָּ|dib·bar·tā|You promised|H1696|V-Piel-Perf-2ms
-v25 לּוֹ֙|lōw||H0|Prep | 3ms
+v25 לּוֹ֙|lōw|-|H0|Prep | 3ms
 v25 לֵאמֹ֔ר|lê·mōr|when You said|H559|Prep-l | V-Qal-Inf
 v25 לֹא־|lō-|You will never|H3808|Adv-NegPrt
 v25 יִכָּרֵ֨ת|yik·kā·rêṯ|fail|H3772|V-Nifal-Imperf-3ms
@@ -436,7 +436,7 @@ v27 הַזֶּ֖ה|haz·zeh|this|H2088|Art | Pro-ms
 v27 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v27 בָּנִֽיתִי׃|bā·nî·ṯî|I have built|H1129|V-Qal-Perf-1cs
 v28 וּפָנִ֜יתָ|ū·p̄ā·nî·ṯā|Yet regard|H6437|Conj-w | V-Qal-ConjPerf-2ms
-v28 אֶל־|’el-||H413|Prep
+v28 אֶל־|’el-|-|H413|Prep
 v28 תְּפִלַּ֧ת|tə·p̄il·laṯ|the prayer|H8605|N-fsc
 v28 עַבְדְּךָ֛|‘aḇ·də·ḵā|of Your servant|H5650|N-msc | 2ms
 v28 וְאֶל־|wə·’el-|and|H413|Conj-w | Prep
@@ -469,7 +469,7 @@ v29 יִהְיֶ֥ה|yih·yeh|shall be|H1961|V-Qal-Imperf-3ms
 v29 שְׁמִ֖י|šə·mî|My Name|H8034|N-msc | 1cs
 v29 שָׁ֑ם|šām|there|H8033|Adv
 v29 לִשְׁמֹ֙עַ֙|liš·mō·a‘|so that You may hear|H8085|Prep-l | V-Qal-Inf
-v29 אֶל־|’el-||H413|Prep
+v29 אֶל־|’el-|-|H413|Prep
 v29 הַתְּפִלָּ֔ה|hat·tə·p̄il·lāh|the prayer|H8605|Art | N-fs
 v29 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v29 יִתְפַּלֵּ֣ל|yiṯ·pal·lêl|prays|H6419|V-Hitpael-Imperf-3ms
@@ -503,7 +503,7 @@ v31 יֶחֱטָ֥א|ye·ḥĕ·ṭā|sins|H2398|V-Qal-Imperf-3ms
 v31 אִישׁ֙|’îš|a man|H376|N-ms
 v31 לְרֵעֵ֔הוּ|lə·rê·‘ê·hū|against his neighbor|H7453|Prep-l | N-msc | 3ms
 v31 וְנָֽשָׁא־|wə·nā·šā-|and is required|H5378|Conj-w | V-Qal-ConjPerf-3ms
-v31 ב֥וֹ|ḇōw||H0|Prep | 3ms
+v31 ב֥וֹ|ḇōw|-|H0|Prep | 3ms
 v31 אָלָ֖ה|’ā·lāh|to take an oath|H423|N-fs
 v31 לְהַֽאֲלֹת֑וֹ|lə·ha·’ă·lō·ṯōw|...|H422|Prep-l | V-Hifil-Inf | 3ms
 v31 וּבָ֗א|ū·ḇā|and he comes|H935|Conj-w | V-Qal-ConjPerf-3ms
@@ -528,7 +528,7 @@ v32 וּלְהַצְדִּ֣יק|ū·lə·haṣ·dîq|and justifying|H6663|Conj-
 v32 צַדִּ֔יק|ṣad·dîq|the righteous man|H6662|Adj-ms
 v32 לָ֥תֶת|lā·ṯeṯ|by rewarding|H5414|Prep-l | V-Qal-Inf
 v32 ל֖וֹ|lōw|him|H0|Prep | 3ms
-v32 כְּצִדְקָתֽוֹ׃ס|kə·ṣiḏ·qā·ṯōw|according to his righteousness|H6666|Prep-k | N-fsc | 3ms
+v32 כְּצִדְקָתֽוֹ׃|kə·ṣiḏ·qā·ṯōw|according to his righteousness|H6666|Prep-k | N-fsc | 3ms
 v33 בְּֽהִנָּגֵ֞ף|bə·hin·nā·ḡêp̄|are defeated|H5062|Prep-b | V-Nifal-Inf
 v33 עַמְּךָ֧|‘am·mə·ḵā|When Your people|H5971|N-msc | 2ms
 v33 יִשְׂרָאֵ֛ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
@@ -559,7 +559,7 @@ v34 אֶל־|’el-|to|H413|Prep
 v34 הָ֣אֲדָמָ֔ה|hā·’ă·ḏā·māh|the land|H127|Art | N-fs
 v34 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v34 נָתַ֖תָּ|nā·ṯa·tā|You gave|H5414|V-Qal-Perf-2ms
-v34 לַאֲבוֹתָֽם׃ס|la·’ă·ḇō·w·ṯām|to their fathers|H1|Prep-l | N-mpc | 3mp
+v34 לַאֲבוֹתָֽם׃|la·’ă·ḇō·w·ṯām|to their fathers|H1|Prep-l | N-mpc | 3mp
 v35 בְּהֵעָצֵ֥ר|bə·hê·‘ā·ṣêr|are shut|H6113|Prep-b | V-Nifal-Inf
 v35 שָׁמַ֛יִם|šā·ma·yim|When the skies|H8064|N-mp
 v35 וְלֹא־|wə·lō-|no|H3808|Conj-w | Adv-NegPrt
@@ -594,7 +594,7 @@ v36 הַדֶּ֥רֶךְ|had·de·reḵ|way|H1870|Art | N-cs
 v36 הַטּוֹבָ֖ה|haṭ·ṭō·w·ḇāh|the good|H2896|Art | Adj-fs
 v36 אֲשֶׁ֣ר|’ă·šer|in which|H834|Pro-r
 v36 יֵֽלְכוּ־|yê·lə·ḵū-|they should walk|H1980|V-Qal-Imperf-3mp
-v36 בָ֑הּ|ḇāh||H0|Prep | 3fs
+v36 בָ֑הּ|ḇāh|-|H0|Prep | 3fs
 v36 וְנָתַתָּ֤ה|wə·nā·ṯat·tāh|May You send|H5414|Conj-w | V-Qal-ConjPerf-2ms
 v36 מָטָר֙|mā·ṭār|rain|H4306|N-ms
 v36 עַל־|‘al-|on|H5921|Prep
@@ -602,7 +602,7 @@ v36 אַרְצְךָ֔|’ar·ṣə·ḵā|the land|H776|N-fsc | 2ms
 v36 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v36 נָתַ֥תָּה|nā·ṯat·tāh|You gave|H5414|V-Qal-Perf-2ms
 v36 לְעַמְּךָ֖|lə·‘am·mə·ḵā|Your people|H5971|Prep-l | N-msc | 2ms
-v36 לְנַחֲלָֽה׃ס|lə·na·ḥă·lāh|as an inheritance|H5159|Prep-l | N-fs
+v36 לְנַחֲלָֽה׃|lə·na·ḥă·lāh|as an inheritance|H5159|Prep-l | N-fs
 v37 רָעָ֞ב|rā·‘āḇ|famine|H7458|N-ms
 v37 כִּֽי־|kî-|When|H3588|Conj
 v37 יִהְיֶ֣ה|yih·yeh|comes|H1961|V-Qal-Imperf-3ms
@@ -615,7 +615,7 @@ v37 יֵרָק֜וֹן|yê·rā·qō·wn|[or] mildew|H3420|N-ms
 v37 אַרְבֶּ֤ה|’ar·beh|[or] locusts|H697|N-ms
 v37 חָסִיל֙|ḥā·sîl|[or] grasshoppers|H2625|N-ms
 v37 כִּ֣י|kî|[or]|H3588|Conj
-v37 יִהְיֶ֔ה|yih·yeh||H1961|V-Qal-Imperf-3ms
+v37 יִהְיֶ֔ה|yih·yeh|-|H1961|V-Qal-Imperf-3ms
 v37 כִּ֧י|kî|when|H3588|Conj
 v37 יָֽצַר־|yā·ṣar-|besieges|H6887|V-Hifil-Imperf-3ms
 v37 ל֛וֹ|lōw|them|H0|Prep | 3ms
@@ -632,7 +632,7 @@ v38 כָל־|ḵāl|-|H3605|N-msc
 v38 תְּחִנָּ֗ה|tə·ḥin·nāh|or petition|H8467|N-fs
 v38 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v38 תִֽהְיֶה֙|ṯih·yeh|make|H1961|V-Qal-Imperf-3fs
-v38 לְכָל־|lə·ḵāl||H3605|Prep-l | N-msc
+v38 לְכָל־|lə·ḵāl|-|H3605|Prep-l | N-msc
 v38 הָ֣אָדָ֔ם|hā·’ā·ḏām|-|H120|Art | N-ms
 v38 לְכֹ֖ל|lə·ḵōl|...|H3605|Prep-l | N-msc
 v38 עַמְּךָ֣|‘am·mə·ḵā|Your people|H5971|N-msc | 2ms
@@ -669,7 +669,7 @@ v39 לְבַדְּךָ֔|lə·ḇad·də·ḵā|alone|H905|Prep-l | N-msc | 2ms
 v39 אֶת־|’eṯ-|-|H853|DirObjM
 v39 לְבַ֖ב|lə·ḇaḇ|the hearts|H3824|N-msc
 v39 כָּל־|kāl-|of all|H3605|N-msc
-v39 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v39 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v39 הָאָדָֽם׃|hā·’ā·ḏām|men|H120|Art | N-ms
 v40 לְמַ֙עַן֙|lə·ma·‘an|so that|H4616|Conj
 v40 יִֽרָא֔וּךָ|yi·rā·’ū·ḵā|they may fear You|H3372|V-Qal-Imperf-3mp | 2ms
@@ -759,7 +759,7 @@ v44 דֶּ֤רֶךְ|de·reḵ|in the direction|H1870|N-csc
 v44 הָעִיר֙|hā·‘îr|of the city|H5892|Art | N-fs
 v44 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v44 בָּחַ֣רְתָּ|bā·ḥar·tā|You have chosen|H977|V-Qal-Perf-2ms
-v44 בָּ֔הּ|bāh||H0|Prep | 3fs
+v44 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v44 וְהַבַּ֖יִת|wə·hab·ba·yiṯ|and the house|H1004|Conj-w, Art | N-ms
 v44 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v44 בָּנִ֥תִי|bā·ni·ṯî|I have built|H1129|V-Qal-Perf-1cs
@@ -888,7 +888,7 @@ v52 אֵלֶֽיךָ׃|’ê·le·ḵā|to You|H413|Prep | 2ms
 v53 כִּֽי־|kî-|For|H3588|Conj
 v53 אַתָּ֞ה|’at·tāh|You|H859|Pro-2ms
 v53 הִבְדַּלְתָּ֤ם|hiḇ·dal·tām|have set them apart|H914|V-Hifil-Perf-2ms | 3mp
-v53 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v53 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v53 לְֽנַחֲלָ֔ה|lə·na·ḥă·lāh|as Your inheritance|H5159|Prep-l | N-fs
 v53 מִכֹּ֖ל|mik·kōl|from all|H3605|Prep-m | N-msc
 v53 עַמֵּ֣י|‘am·mê|the peoples|H5971|N-mpc
@@ -903,7 +903,7 @@ v53 אֶת־|’eṯ-|-|H853|DirObjM
 v53 אֲבֹתֵ֛ינוּ|’ă·ḇō·ṯê·nū|our fathers|H1|N-mpc | 1cp
 v53 מִמִּצְרַ֖יִם|mim·miṣ·ra·yim|out of Egypt|H4714|Prep-m | N-proper-fs
 v53 אֲדֹנָ֥י|’ă·ḏō·nāy|O Lord|H136|N-proper-ms
-v53 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v53 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v54 וַיְהִ֣י׀|way·hî|Now when|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v54 כְּכַלּ֣וֹת|kə·ḵal·lō·wṯ|had finished|H3615|Prep-k | V-Piel-Inf
 v54 שְׁלֹמֹ֗ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -1038,13 +1038,13 @@ v62 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v63 וַיִּזְבַּ֣ח|way·yiz·baḥ|offered as|H2076|Conj-w | V-Qal-ConsecImperf-3ms
 v63 שְׁלֹמֹ֗ה|šə·lō·mōh|And Solomon|H8010|N-proper-ms
 v63 אֵ֣ת|’êṯ|-|H853|DirObjM
-v63 זֶ֣בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v63 זֶ֣בַח|ze·ḇaḥ|...|H2077|N-msc
 v63 הַשְּׁלָמִים֮|haš·šə·lā·mîm|peace offerings|H8002|Art | N-mp
 v63 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v63 זָבַ֣ח|zā·ḇaḥ|-|H2076|V-Qal-Perf-3ms
 v63 לַיהוָה֒|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v63 בָּקָ֗ר|bā·qār|oxen|H1241|N-ms
-v63 עֶשְׂרִ֤ים|‘eś·rîm|22,000 {}|H6242|Number-cp
+v63 עֶשְׂרִ֤ים|‘eś·rîm|22,000|H6242|Number-cp
 v63 וּשְׁנַ֙יִם֙|ū·šə·na·yim|...|H8147|Conj-w | Number-md
 v63 אֶ֔לֶף|’e·lep̄|...|H505|Number-ms
 v63 וְצֹ֕אן|wə·ṣōn|sheep|H6629|Conj-w | N-cs
@@ -1106,7 +1106,7 @@ v65 יִשְׂרָאֵ֣ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v65 עִמּוֹ֩|‘im·mōw|with him|H5973|Prep | 3ms
 v65 קָהָ֨ל|qā·hāl|assembly of people|H6951|N-ms
 v65 גָּד֜וֹל|gā·ḏō·wl|a great|H1419|Adj-ms
-v65 מִלְּב֥וֹא|mil·lə·ḇō·w|vvv|H935|Prep-m | V-Qal-Inf
+v65 מִלְּב֥וֹא|mil·lə·ḇō·w|...|H935|Prep-m | V-Qal-Inf
 v65 חֲמָ֣ת׀|ḥă·māṯ|from Lebo-hamath|H2574|N-proper-fs
 v65 עַד־|‘aḏ-|to|H5704|Prep
 v65 נַ֣חַל|na·ḥal|the Brook|H5158|N-msc

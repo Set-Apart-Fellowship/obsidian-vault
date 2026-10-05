@@ -47,7 +47,7 @@ v3 אָבִ֑י|’ā·ḇî|-|H1|N-msc | 1cs
 v3 וְרָאִ֥יתִי|wə·rā·’î·ṯî|And if I find out|H7200|Conj-w | V-Qal-ConjPerf-1cs
 v3 מָ֖ה|māh|anything|H4100|Interrog
 v3 וְהִגַּ֥דְתִּי|wə·hig·gaḏ·tî|I will tell|H5046|Conj-w | V-Hifil-ConjPerf-1cs
-v3 לָֽךְ׃ס|lāḵ|you|H0|Prep | 2fs
+v3 לָֽךְ׃|lāḵ|you|H0|Prep | 2fs
 v4 וַיְדַבֵּ֨ר|way·ḏab·bêr|spoke|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v4 יְהוֹנָתָ֤ן|yə·hō·w·nā·ṯān|Then Jonathan|H3083|N-proper-ms
 v4 בְּדָוִד֙|bə·ḏā·wiḏ|of David|H1732|Prep-b | N-proper-ms
@@ -123,7 +123,7 @@ v7 שָׁא֔וּל|šā·’ūl|Saul|H7586|N-proper-ms
 v7 וַיְהִ֥י|way·hî|and [David]|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v7 לְפָנָ֖יו|lə·p̄ā·nāw|was with [Saul]|H6440|Prep-l | N-cpc | 3ms
 v7 כְּאֶתְמ֥וֹל|kə·’eṯ·mō·wl|as before|H865|Prep-k | Adv
-v7 שִׁלְשֽׁוֹם׃ס|šil·šō·wm|...|H8032|Adv
+v7 שִׁלְשֽׁוֹם׃|šil·šō·wm|...|H8032|Adv
 v8 וַתּ֥וֹסֶף|wat·tō·w·sep̄|again|H3254|Conj-w | V-Hifil-ConsecImperf-3fs
 v8 הַמִּלְחָמָ֖ה|ham·mil·ḥā·māh|When war|H4421|Art | N-fs
 v8 לִֽהְי֑וֹת|lih·yō·wṯ|broke out|H1961|Prep-l | V-Qal-Inf
@@ -168,7 +168,7 @@ v10 וְדָוִ֛ד|wə·ḏā·wiḏ|But David|H1732|Conj-w | N-proper-ms
 v10 נָ֥ס|nās|And [David] fled|H5127|V-Qal-Perf-3ms
 v10 וַיִּמָּלֵ֖ט|way·yim·mā·lêṭ|and escaped|H4422|Conj-w | V-Nifal-ConsecImperf-3ms
 v10 בַּלַּ֥יְלָה|bal·lay·lāh|night|H3915|Prep-b, Art | N-ms
-v10 הֽוּא׃פ|hū|that|H1931|Pro-3ms
+v10 הֽוּא׃|hū|that|H1931|Pro-3ms
 v11 וַיִּשְׁלַח֩|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v11 שָׁא֨וּל|šā·’ūl|Then Saul|H7586|N-proper-ms
 v11 מַלְאָכִ֜ים|mal·’ā·ḵîm|messengers|H4397|N-mp
@@ -214,7 +214,7 @@ v13 הָֽעִזִּ֔ים|hā·‘iz·zîm|...|H5795|Art | N-fp
 v13 שָׂ֖מָה|śā·māh|placed|H7760|V-Qal-Perf-3fs
 v13 מְרַֽאֲשֹׁתָ֑יו|mə·ra·’ă·šō·ṯāw|on its head|H4763|N-fpc | 3ms
 v13 וַתְּכַ֖ס|wat·tə·ḵas|and covered|H3680|Conj-w | V-Piel-ConsecImperf-3fs
-v13 בַּבָּֽגֶד׃ס|bab·bā·ḡeḏ|it with a garment|H899|Prep-b, Art | N-ms
+v13 בַּבָּֽגֶד׃|bab·bā·ḡeḏ|it with a garment|H899|Prep-b, Art | N-ms
 v14 וַיִּשְׁלַ֥ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v14 שָׁא֛וּל|šā·’ūl|When Saul|H7586|N-proper-ms
 v14 מַלְאָכִ֖ים|mal·’ā·ḵîm|the messengers|H4397|N-mp
@@ -223,10 +223,10 @@ v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 דָּוִ֑ד|dā·wiḏ|David|H1732|N-proper-ms
 v14 וַתֹּ֖אמֶר|wat·tō·mer|Michal said|H559|Conj-w | V-Qal-ConsecImperf-3fs
 v14 חֹלֶ֥ה|ḥō·leh|[is] ill|H2470|V-Qal-Prtcpl-ms
-v14 הֽוּא׃פ|hū|He|H1931|Pro-3ms
+v14 הֽוּא׃|hū|He|H1931|Pro-3ms
 v15 וַיִּשְׁלַ֤ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v15 שָׁאוּל֙|šā·’ūl|But Saul|H7586|N-proper-ms
-v15 אֶת־|’eṯ-||H853|DirObjM
+v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 הַמַּלְאָכִ֔ים|ham·mal·’ā·ḵîm|the messengers back|H4397|Art | N-mp
 v15 לִרְא֥וֹת|lir·’ō·wṯ|to see|H7200|Prep-l | V-Qal-Inf
 v15 אֶת־|’eṯ-|-|H853|DirObjM
@@ -243,7 +243,7 @@ v16 וְהִנֵּ֥ה|wə·hin·nêh|there was|H2009|Conj-w | Interjection
 v16 הַתְּרָפִ֖ים|hat·tə·rā·p̄îm|the idol|H8655|Art | N-mp
 v16 אֶל־|’el-|in|H413|Prep
 v16 הַמִּטָּ֑ה|ham·miṭ·ṭāh|the bed|H4296|Art | N-fs
-v16 וּכְבִ֥יר|ū·ḵə·ḇîr|vvv|H3523|Conj-w | N-msc
+v16 וּכְבִ֥יר|ū·ḵə·ḇîr|...|H3523|Conj-w | N-msc
 v16 הָעִזִּ֖ים|hā·‘iz·zîm|with the goat [hair]|H5795|Art | N-fp
 v16 מְרַאֲשֹׁתָֽיו׃|mə·ra·’ă·šō·ṯāw|on its head|H4763|N-fpc | 3ms
 v17 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -392,4 +392,4 @@ v24 כֵּן֙|kên|...|H3651|Adv
 v24 יֹֽאמְר֔וּ|yō·mə·rū|it is said|H559|V-Qal-Imperf-3mp
 v24 הֲגַ֥ם|hă·ḡam|also|H1571|Conj
 v24 שָׁא֖וּל|šā·’ūl|Is Saul|H7586|N-proper-ms
-v24 בַּנְּבִיאִֽם׃פ|ban·nə·ḇî·’im|among the prophets|H5030|Prep-b, Art | N-mp
+v24 בַּנְּבִיאִֽם׃|ban·nə·ḇî·’im|among the prophets|H5030|Prep-b, Art | N-mp

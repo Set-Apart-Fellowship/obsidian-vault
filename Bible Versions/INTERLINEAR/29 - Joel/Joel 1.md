@@ -64,7 +64,7 @@ v6 שִׁנֵּ֣י|šin·nê|[are] the teeth|H8127|N-cdc
 v6 אַרְיֵ֔ה|’ar·yêh|of a lion|H738|N-ms
 v6 וּֽמְתַלְּע֥וֹת|ū·mə·ṯal·lə·‘ō·wṯ|and its fangs [are the fangs]|H4973|Conj-w | N-fpc
 v6 לָבִ֖יא|lā·ḇî|of a lioness|H3833|N-ms
-v6 לֽוֹ׃|lōw||H0|Prep | 3ms
+v6 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v7 שָׂ֤ם|śām|It has laid|H7760|V-Qal-Perf-3ms
 v7 גַּפְנִי֙|gap̄·nî|My grapevine|H1612|N-csc | 1cs
 v7 לְשַׁמָּ֔ה|lə·šam·māh|waste|H8047|Prep-l | N-fs
@@ -130,8 +130,8 @@ v12 כִּֽי־|kî-|Surely|H3588|Conj
 v12 הֹבִ֥ישׁ|hō·ḇîš|has dried up|H954|V-Hifil-Perf-3ms
 v12 שָׂשׂ֖וֹן|śā·śō·wn|the joy|H8342|N-ms
 v12 מִן־|min-|of|H4480|Prep
-v12 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
-v12 אָדָֽם׃ס|’ā·ḏām|mankind|H120|N-ms
+v12 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
+v12 אָדָֽם׃|’ā·ḏām|mankind|H120|N-ms
 v13 חִגְר֨וּ|ḥiḡ·rū|Put on [sackcloth]|H2296|V-Qal-Imp-mp
 v13 וְסִפְד֜וּ|wə·sip̄·ḏū|and lament|H5594|Conj-w | V-Qal-Imp-mp
 v13 הַכֹּהֲנִ֗ים|hak·kō·hă·nîm|O priests|H3548|Art | N-mp
@@ -232,4 +232,4 @@ v20 מָ֔יִם|mā·yim|of water|H4325|N-mp
 v20 וְאֵ֕שׁ|wə·’êš|and fire|H784|Conj-w | N-cs
 v20 אָכְלָ֖ה|’ā·ḵə·lāh|has consumed|H398|V-Qal-Perf-3fs
 v20 נְא֥וֹת|nə·’ō·wṯ|pastures|H4999|N-fpc
-v20 הַמִּדְבָּֽר׃פ|ham·miḏ·bār|the open|H4057|Art | N-ms
+v20 הַמִּדְבָּֽר׃|ham·miḏ·bār|the open|H4057|Art | N-ms

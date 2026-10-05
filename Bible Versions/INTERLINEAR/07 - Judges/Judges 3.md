@@ -4,7 +4,7 @@ v1 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v1 הִנִּ֣יחַ|hin·nî·aḥ|left|H5117|V-Hifil-Perf-3ms
 v1 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v1 לְנַסּ֥וֹת|lə·nas·sō·wṯ|to test|H5254|Prep-l | V-Piel-Inf
-v1 בָּ֖ם|bām||H0|Prep | 3mp
+v1 בָּ֖ם|bām|-|H0|Prep | 3mp
 v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 יִשְׂרָאֵ֑ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v1 אֵ֚ת|’êṯ|-|H853|DirObjM
@@ -17,10 +17,10 @@ v1 כָּל־|kāl-|any|H3605|N-msc
 v1 מִלְחֲמ֥וֹת|mil·ḥă·mō·wṯ|of the wars|H4421|N-fpc
 v1 כְּנָֽעַן׃|kə·nā·‘an|in Canaan|H3667|N-proper-ms
 v2 רַ֗ק|raq|if only|H7535|Adv
-v2 לְמַ֙עַן֙|lə·ma·‘an|vvv|H4616|Conj
+v2 לְמַ֙עַן֙|lə·ma·‘an|...|H4616|Conj
 v2 דַּ֚עַת|da·‘aṯ|...|H3045|V-Qal-Inf
 v2 דֹּר֣וֹת|dō·rō·wṯ|to the subsequent generations|H1755|N-mpc
-v2 בְּנֵֽי־|bə·nê-|vvv|H1121|N-mpc
+v2 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v2 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 לְלַמְּדָ֖ם|lə·lam·mə·ḏām|to teach|H3925|Prep-l | V-Piel-Inf | 3mp
 v2 מִלְחָמָ֑ה|mil·ḥā·māh|warfare|H4421|N-fs
@@ -40,10 +40,10 @@ v3 יֹשֵׁ֖ב|yō·šêḇ|who lived|H3427|V-Qal-Prtcpl-msc
 v3 הַ֣ר|har|in the mountains|H2022|N-msc
 v3 הַלְּבָנ֑וֹן|hal·lə·ḇā·nō·wn|of Lebanon|H3844|Art | N-proper-fs
 v3 מֵהַר֙|mê·har|from Mount|H2022|Prep-m | N-msc
-v3 בַּ֣עַל|ba·‘al|vvv|H1179|Prep
+v3 בַּ֣עַל|ba·‘al|...|H1179|Prep
 v3 חֶרְמ֔וֹן|ḥer·mō·wn|Baal-hermon|H1179|N-proper-fs
 v3 עַ֖ד|‘aḏ|to|H5704|Prep
-v3 לְב֥וֹא|lə·ḇō·w|vvv|H935|Prep | V-Qal-Inf
+v3 לְב֥וֹא|lə·ḇō·w|...|H935|Prep | V-Qal-Inf
 v3 חֲמָֽת׃|ḥă·māṯ|Lebo-hamath|H2574|N-proper-fs
 v4 וַֽיִּהְי֕וּ|way·yih·yū|[These nations] were [left]|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v4 לְנַסּ֥וֹת|lə·nas·sō·wṯ|to test|H5254|Prep-l | V-Piel-Inf
@@ -82,7 +82,7 @@ v6 נָתְנ֣וּ|nā·ṯə·nū|gave|H5414|V-Qal-Perf-3cp
 v6 לִבְנֵיהֶ֑ם|liḇ·nê·hem|to their sons|H1121|Prep-l | N-mpc | 3mp
 v6 וַיַּעַבְד֖וּ|way·ya·‘aḇ·ḏū|and served|H5647|Conj-w | V-Qal-ConsecImperf-3mp
 v6 אֶת־|’eṯ-|-|H853|DirObjM
-v6 אֱלֹהֵיהֶֽם׃פ|’ĕ·lō·hê·hem|their gods|H430|N-mpc | 3mp
+v6 אֱלֹהֵיהֶֽם׃|’ĕ·lō·hê·hem|their gods|H430|N-mpc | 3mp
 v7 וַיַּעֲשׂ֨וּ|way·ya·‘ă·śū|did|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v7 בְנֵי־|ḇə·nê-|So the Israelites|H1121|N-mpc
 v7 יִשְׂרָאֵ֤ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -105,16 +105,16 @@ v8 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
 v8 בְּיִשְׂרָאֵ֔ל|bə·yiś·rā·’êl|against Israel|H3478|Prep-b | N-proper-ms
 v8 וַֽיִּמְכְּרֵ֗ם|way·yim·kə·rêm|and He sold them|H4376|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
 v8 בְּיַד֙|bə·yaḏ|into the hand|H3027|Prep-b | N-fsc
-v8 כּוּשַׁ֣ן|kū·šan|vvv|H3573|Prep
+v8 כּוּשַׁ֣ן|kū·šan|...|H3573|Prep
 v8 רִשְׁעָתַ֔יִם|riš·‘ā·ṯa·yim|of Cushan-rishathaim|H3573|N-proper-ms
 v8 מֶ֖לֶךְ|me·leḵ|king|H4428|N-msc
-v8 אֲרַ֣ם|’ă·ram|vvv|H763|
+v8 אֲרַ֣ם|’ă·ram|...|H763|
 v8 נַהֲרָ֑יִם|na·hă·rā·yim|of Aram-naharaim|H763|N-proper-fs
 v8 וַיַּעַבְד֧וּ|way·ya·‘aḇ·ḏū|served|H5647|Conj-w | V-Qal-ConsecImperf-3mp
 v8 בְנֵֽי־|ḇə·nê-|and the Israelites|H1121|N-mpc
 v8 יִשְׂרָאֵ֛ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
-v8 כּוּשַׁ֥ן|kū·šan||H3573|Prep
+v8 כּוּשַׁ֥ן|kū·šan|-|H3573|Prep
 v8 רִשְׁעָתַ֖יִם|riš·‘ā·ṯa·yim|[him]|H3573|N-proper-ms
 v8 שְׁמֹנֶ֥ה|šə·mō·neh|eight|H8083|Number-fs
 v8 שָׁנִֽים׃|šā·nîm|years|H8141|N-fp
@@ -150,14 +150,14 @@ v10 וַיִּתֵּ֤ן|way·yit·tên|delivered|H5414|Conj-w | V-Qal-ConsecImp
 v10 יְהוָה֙|Yah·weh|And the LORD|H3068|N-proper-ms
 v10 בְּיָד֔וֹ|bə·yā·ḏōw|into the hand [of Othniel]|H3027|Prep-b | N-fsc | 3ms
 v10 אֶת־|’eṯ-|-|H853|DirObjM
-v10 כּוּשַׁ֥ן|kū·šan|vvv|H3573|Prep
+v10 כּוּשַׁ֥ן|kū·šan|...|H3573|Prep
 v10 רִשְׁעָתַ֖יִם|riš·‘ā·ṯa·yim|Cushan-rishathaim|H3573|N-proper-ms
 v10 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v10 אֲרָ֑ם|’ă·rām|of Aram|H758|N-proper-fs
 v10 וַתָּ֣עָז|wat·tā·‘āz|who prevailed|H5810|Conj-w | V-Qal-ConsecImperf-3fs
 v10 יָד֔וֹ|yā·ḏōw|...|H3027|N-fsc | 3ms
 v10 עַ֖ל|‘al|against|H5921|Prep
-v10 כּוּשַׁ֥ן|kū·šan|vvv|H3573|Prep
+v10 כּוּשַׁ֥ן|kū·šan|...|H3573|Prep
 v10 רִשְׁעָתָֽיִם׃|riš·‘ā·ṯā·yim|him|H3573|N-proper-ms
 v11 וַתִּשְׁקֹ֥ט|wat·tiš·qōṭ|had rest|H8252|Conj-w | V-Qal-ConsecImperf-3fs
 v11 הָאָ֖רֶץ|hā·’ā·reṣ|So the land|H776|Art | N-fs
@@ -166,7 +166,7 @@ v11 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
 v11 וַיָּ֖מָת|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v11 עָתְנִיאֵ֥ל|‘ā·ṯə·nî·’êl|until Othniel|H6274|N-proper-ms
 v11 בֶּן־|ben-|son|H1121|N-msc
-v11 קְנַֽז׃פ|qə·naz|of Kenaz|H7073|N-proper-ms
+v11 קְנַֽז׃|qə·naz|of Kenaz|H7073|N-proper-ms
 v12 וַיֹּסִ֙פוּ֙|way·yō·si·p̄ū|Once again|H3254|Conj-w | V-Hifil-ConsecImperf-3mp
 v12 בְּנֵ֣י|bə·nê|the Israelites|H1121|N-mpc
 v12 יִשְׂרָאֵ֔ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -212,7 +212,7 @@ v14 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v14 מוֹאָ֔ב|mō·w·’āḇ|of Moab|H4124|N-proper-fs
 v14 שְׁמוֹנֶ֥ה|šə·mō·w·neh|eighteen|H8083|Number-fs
 v14 עֶשְׂרֵ֖ה|‘eś·rêh|...|H6240|Number-fs
-v14 שָׁנָֽה׃ס|šā·nāh|years|H8141|N-fs
+v14 שָׁנָֽה׃|šā·nāh|years|H8141|N-fs
 v15 וַיִּזְעֲק֣וּ|way·yiz·‘ă·qū|cried out|H2199|Conj-w | V-Qal-ConsecImperf-3mp
 v15 בְנֵֽי־|ḇə·nê-|And again [they]|H1121|N-mpc
 v15 יִשְׂרָאֵל֮|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -220,13 +220,13 @@ v15 אֶל־|’el-|to|H413|Prep
 v15 יְהוָה֒|Yah·weh|the LORD|H3068|N-proper-ms
 v15 וַיָּקֶם֩|way·yā·qem|raised up|H6965|Conj-w | V-Hifil-ConsecImperf-3ms
 v15 יְהוָ֨ה|Yah·weh|and He|H3068|N-proper-ms
-v15 לָהֶ֜ם|lā·hem||H0|Prep | 3mp
+v15 לָהֶ֜ם|lā·hem|-|H0|Prep | 3mp
 v15 מוֹשִׁ֗יעַ|mō·wō·šî·a‘|as their deliverer|H3467|V-Hifil-Prtcpl-ms
 v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 אֵה֤וּד|’ê·hūḏ|Ehud|H164|N-proper-ms
 v15 בֶּן־|ben-|son|H1121|N-msc
 v15 גֵּרָא֙|gê·rā|of Gera|H1617|N-proper-ms
-v15 בֶּן־|ben-||H1145|N-msc
+v15 בֶּן־|ben-|-|H1145|N-msc
 v15 הַיְמִינִ֔י|hay·mî·nî|...|H1145|Art | N-proper-ms
 v15 אִ֥ישׁ|’îš|...|H376|N-ms
 v15 אִטֵּ֖ר|’iṭ·ṭêr|a left-handed|H334|Adj-ms
@@ -244,7 +244,7 @@ v16 וַיַּעַשׂ֩|way·ya·‘aś|had made|H6213|Conj-w | V-Qal-ConsecImp
 v16 ל֨וֹ|lōw|for himself|H0|Prep | 3ms
 v16 אֵה֜וּד|’ê·hūḏ|Now Ehud|H164|N-proper-ms
 v16 חֶ֗רֶב|ḥe·reḇ|sword|H2719|N-fs
-v16 וְלָ֛הּ|wə·lāh||H0|Conj-w | Prep | 3fs
+v16 וְלָ֛הּ|wə·lāh|-|H0|Conj-w | Prep | 3fs
 v16 שְׁנֵ֥י|šə·nê|a double-edged|H8147|Number-mdc
 v16 פֵי֖וֹת|p̄ê·yō·wṯ|...|H6366|N-mp
 v16 גֹּ֣מֶד|gō·meḏ|a cubit|H1574|N-ms
@@ -311,7 +311,7 @@ v20 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֵה֔וּד|’ê·hūḏ|Ehud|H164|N-proper-ms
 v20 דְּבַר־|də·ḇar-|I have a word|H1697|N-msc
 v20 אֱלֹהִ֥ים|’ĕ·lō·hîm|from God|H430|N-mp
-v20 לִ֖י|lî||H0|Prep | 1cs
+v20 לִ֖י|lî|-|H0|Prep | 1cs
 v20 אֵלֶ֑יךָ|’ê·le·ḵā|for you|H413|Prep | 2ms
 v20 וַיָּ֖קָם|way·yā·qām|and the king rose|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v20 מֵעַ֥ל|mê·‘al|from|H5921|Prep-m
@@ -460,7 +460,7 @@ v30 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v30 וַתִּשְׁקֹ֥ט|wat·tiš·qōṭ|had rest|H8252|Conj-w | V-Qal-ConsecImperf-3fs
 v30 הָאָ֖רֶץ|hā·’ā·reṣ|and the land|H776|Art | N-fs
 v30 שְׁמוֹנִ֥ים|šə·mō·w·nîm|for eighty|H8084|Number-cp
-v30 שָׁנָֽה׃ס|šā·nāh|years|H8141|N-fs
+v30 שָׁנָֽה׃|šā·nāh|years|H8141|N-fs
 v31 וְאַחֲרָ֤יו|wə·’a·ḥă·rāw|After Ehud|H310|Conj-w | Prep | 3ms
 v31 הָיָה֙|hā·yāh|came|H1961|V-Qal-Perf-3ms
 v31 שַׁמְגַּ֣ר|šam·gar|Shamgar|H8044|N-proper-ms
@@ -478,4 +478,4 @@ v31 וַיֹּ֥שַׁע|way·yō·ša‘|saved|H3467|Conj-w | V-Hifil-ConsecImp
 v31 גַּם־|gam-|...|H1571|Conj
 v31 ה֖וּא|hū|And he too|H1931|Pro-3ms
 v31 אֶת־|’eṯ-|-|H853|DirObjM
-v31 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v31 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms

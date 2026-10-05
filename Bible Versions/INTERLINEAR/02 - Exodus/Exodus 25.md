@@ -36,7 +36,7 @@ v4 וְעִזִּֽים׃|wə·‘iz·zîm|and goat hair|H5795|Conj-w | N-fp
 v5 וְעֹרֹ֨ת|wə·‘ō·rōṯ|skins|H5785|Conj-w | N-mpc
 v5 אֵילִ֧ם|’ê·lim|ram|H352|N-mp
 v5 מְאָדָּמִ֛ים|mə·’ād·dā·mîm|dyed red|H119|V-Pual-Prtcpl-mp
-v5 וְעֹרֹ֥ת|wə·‘ō·rōṯ|vvv|H5785|Conj-w | N-mpc
+v5 וְעֹרֹ֥ת|wə·‘ō·rōṯ|...|H5785|Conj-w | N-mpc
 v5 תְּחָשִׁ֖ים|tə·ḥā·šîm|and fine leather|H8476|N-mp
 v5 וַעֲצֵ֥י|wa·‘ă·ṣê|wood|H6086|Conj-w | N-mpc
 v5 שִׁטִּֽים׃|šiṭ·ṭîm|acacia|H7848|N-fp
@@ -59,7 +59,7 @@ v8 מִקְדָּ֑שׁ|miq·dāš|a sanctuary|H4720|N-ms
 v8 וְשָׁכַנְתִּ֖י|wə·šā·ḵan·tî|so that I may dwell|H7931|Conj-w | V-Qal-ConjPerf-1cs
 v8 בְּתוֹכָֽם׃|bə·ṯō·w·ḵām|among them|H8432|Prep-b | N-msc | 3mp
 v9 כְּכֹ֗ל|kə·ḵōl|according to|H3605|Prep-k | N-ms
-v9 אֲשֶׁ֤ר|’ă·šer||H834|Pro-r
+v9 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v9 אֲנִי֙|’ă·nî|I|H589|Pro-1cs
 v9 מַרְאֶ֣ה|mar·’eh|show|H7200|V-Hifil-Prtcpl-ms
 v9 אוֹתְךָ֔|’ō·wṯ·ḵā|you|H853|DirObjM | 2ms
@@ -71,7 +71,7 @@ v9 תַּבְנִ֣ית|taḇ·nîṯ|design|H8403|N-fsc
 v9 כָּל־|kāl-|all|H3605|N-msc
 v9 כֵּלָ֑יו|kê·lāw|its furnishings|H3627|N-mpc | 3ms
 v9 וְכֵ֖ן|wə·ḵên|...|H3651|Conj-w | Adv
-v9 תַּעֲשֽׂוּ׃ס|ta·‘ă·śū|You must make|H6213|V-Qal-Imperf-2mp
+v9 תַּעֲשֽׂוּ׃|ta·‘ă·śū|You must make|H6213|V-Qal-Imperf-2mp
 v10 וְעָשׂ֥וּ|wə·‘ā·śū|And they are to construct|H6213|Conj-w | V-Qal-ConjPerf-3cp
 v10 אֲר֖וֹן|’ă·rō·wn|an ark|H727|N-csc
 v10 עֲצֵ֣י|‘ă·ṣê|wood|H6086|N-mpc
@@ -178,11 +178,11 @@ v19 וּכְרוּב־|ū·ḵə·rūḇ-|-|H3742|Conj-w | N-ms
 v19 אֶחָ֥ד|’e·ḥāḏ|and one|H259|Number-ms
 v19 מִקָּצָ֖ה|miq·qā·ṣāh|on the other|H7098|Prep-m | N-fs
 v19 מִזֶּ֑ה|miz·zeh|-|H2088|Prep-m | Pro-ms
-v19 מִן־|min-||H4480|Prep
-v19 הַכַּפֹּ֛רֶת|hak·kap·pō·reṯ||H3727|Art | N-fs
+v19 מִן־|min-|-|H4480|Prep
+v19 הַכַּפֹּ֛רֶת|hak·kap·pō·reṯ|-|H3727|Art | N-fs
 v19 תַּעֲשׂ֥וּ|ta·‘ă·śū|[all] made|H6213|V-Qal-Imperf-2mp
 v19 אֶת־|’eṯ-|-|H853|DirObjM
-v19 הַכְּרֻבִ֖ים|hak·kə·ru·ḇîm||H3742|Art | N-mp
+v19 הַכְּרֻבִ֖ים|hak·kə·ru·ḇîm|-|H3742|Art | N-mp
 v19 עַל־|‘al-|-|H5921|Prep
 v19 שְׁנֵ֥י|šə·nê|-|H8147|Number-mdc
 v19 קְצוֹתָֽיו׃|qə·ṣō·w·ṯāw|[from one piece of gold]|H7098|N-fpc | 3ms
@@ -239,7 +239,7 @@ v22 אֲצַוֶּ֛ה|’ă·ṣaw·weh|I command|H6680|V-Piel-Imperf-1cs
 v22 אוֹתְךָ֖|’ō·wṯ·ḵā|you|H853|DirObjM | 2ms
 v22 אֶל־|’el-|regarding|H413|Prep
 v22 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
-v22 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|...|H3478|N-proper-ms
+v22 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v23 וְעָשִׂ֥יתָ|wə·‘ā·śî·ṯā|You are also to make|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v23 שֻׁלְחָ֖ן|šul·ḥān|a table|H7979|N-ms
 v23 עֲצֵ֣י|‘ă·ṣê|wood|H6086|N-mpc
@@ -256,12 +256,12 @@ v24 אֹת֖וֹ|’ō·ṯōw|it|H853|DirObjM | 3ms
 v24 זָהָ֣ב|zā·hāḇ|gold|H2091|N-ms
 v24 טָה֑וֹר|ṭā·hō·wr|with pure|H2889|Adj-ms
 v24 וְעָשִׂ֥יתָ|wə·‘ā·śî·ṯā|and make|H6213|Conj-w | V-Qal-ConjPerf-2ms
-v24 לּ֛וֹ|lōw||H0|Prep | 3ms
+v24 לּ֛וֹ|lōw|-|H0|Prep | 3ms
 v24 זֵ֥ר|zêr|molding|H2213|N-msc
 v24 זָהָ֖ב|zā·hāḇ|a gold|H2091|N-ms
 v24 סָבִֽיב׃|sā·ḇîḇ|around it|H5439|Adv
 v25 וְעָשִׂ֨יתָ|wə·‘ā·śî·ṯā|And make|H6213|Conj-w | V-Qal-ConjPerf-2ms
-v25 לּ֥וֹ|lōw||H0|Prep | 3ms
+v25 לּ֥וֹ|lōw|-|H0|Prep | 3ms
 v25 מִסְגֶּ֛רֶת|mis·ge·reṯ|a rim|H4526|N-fsc
 v25 טֹ֖פַח|ṭō·p̄aḥ|a handbreadth wide|H2948|N-ms
 v25 סָבִ֑יב|sā·ḇîḇ|around it|H5439|Adv
@@ -303,7 +303,7 @@ v28 אֹתָ֖ם|’ō·ṯām|them|H853|DirObjM | 3mp
 v28 זָהָ֑ב|zā·hāḇ|with gold|H2091|N-ms
 v28 וְנִשָּׂא־|wə·niś·śā-|may be carried|H5375|Conj-w | V-Nifal-ConjPerf-3ms
 v28 בָ֖ם|ḇām|with them|H0|Prep | 3mp
-v28 אֶת־|’eṯ-||H853|DirObjM
+v28 אֶת־|’eṯ-|-|H853|DirObjM
 v28 הַשֻּׁלְחָֽן׃|haš·šul·ḥān|so that the table|H7979|Art | N-ms
 v29 וְעָשִׂ֨יתָ|wə·‘ā·śî·ṯā|You are also to make|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v29 קְּעָרֹתָ֜יו|qə·‘ā·rō·ṯāw|the plates|H7086|N-fpc | 3ms
@@ -323,7 +323,7 @@ v30 הַשֻּׁלְחָ֛ן|haš·šul·ḥān|the table|H7979|Art | N-ms
 v30 לֶ֥חֶם|le·ḥem|the Bread|H3899|N-msc
 v30 פָּנִ֖ים|pā·nîm|of the Presence|H6440|N-mp
 v30 לְפָנַ֥י|lə·p̄ā·nay|before Me|H6440|Prep-l | N-mpc | 1cs
-v30 תָּמִֽיד׃פ|tā·mîḏ|at all times|H8548|Adv
+v30 תָּמִֽיד׃|tā·mîḏ|at all times|H8548|Adv
 v31 וְעָשִׂ֥יתָ|wə·‘ā·śî·ṯā|Then you are to make|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v31 מְנֹרַ֖ת|mə·nō·raṯ|a lampstand|H4501|N-fsc
 v31 זָהָ֣ב|zā·hāḇ|gold|H2091|N-ms
@@ -381,8 +381,8 @@ v34 וּפְרָחֶֽיהָ׃|ū·p̄ə·rā·ḥe·hā|and petals|H6525|Conj-w
 v35 וְכַפְתֹּ֡ר|wə·ḵap̄·tōr|a bud|H3730|Conj-w | N-ms
 v35 תַּחַת֩|ta·ḥaṯ|must be under|H8478|Prep
 v35 שְׁנֵ֨י|šə·nê|the first pair|H8147|Number-mdc
-v35 הַקָּנִ֜ים|haq·qā·nîm||H7070|Art | N-mp
-v35 מִמֶּ֗נָּה|mim·men·nāh||H4480|Prep | 3fs
+v35 הַקָּנִ֜ים|haq·qā·nîm|-|H7070|Art | N-mp
+v35 מִמֶּ֗נָּה|mim·men·nāh|-|H4480|Prep | 3fs
 v35 וְכַפְתֹּר֙|wə·ḵap̄·tōr|a bud|H3730|Conj-w | N-ms
 v35 תַּ֣חַת|ta·ḥaṯ|under|H8478|Prep
 v35 שְׁנֵ֤י|šə·nê|the second pair|H8147|Number-mdc
@@ -437,4 +437,4 @@ v40 בְּתַ֨בְנִיתָ֔ם|bə·ṯaḇ·nî·ṯām|according to the pa
 v40 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v40 אַתָּ֥ה|’at·tāh|you|H859|Pro-2ms
 v40 מָרְאֶ֖ה|mā·rə·’eh|shown|H7200|V-Hofal-Prtcpl-ms
-v40 בָּהָֽר׃ס|bā·hār|on the mountain|H2022|Prep-b, Art | N-ms
+v40 בָּהָֽר׃|bā·hār|on the mountain|H2022|Prep-b, Art | N-ms

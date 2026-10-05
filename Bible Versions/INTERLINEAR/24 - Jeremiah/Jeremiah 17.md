@@ -33,7 +33,7 @@ v3 בְּחַטָּ֖את|bə·ḥaṭ·ṭāṯ|because of the sin|H2403|Prep-b
 v3 בְּכָל־|bə·ḵāl|within all|H3605|Prep-b | N-msc
 v3 גְּבוּלֶֽיךָ׃|gə·ḇū·le·ḵā|your borders|H1366|N-mpc | 2ms
 v4 וְשָׁמַטְתָּ֗ה|wə·šā·maṭ·tāh|And you yourself will relinquish|H8058|Conj-w | V-Qal-ConjPerf-2ms
-v4 וּבְךָ֙|ū·ḇə·ḵā||H0|Conj-w | Prep | 2ms
+v4 וּבְךָ֙|ū·ḇə·ḵā|-|H0|Conj-w | Prep | 2ms
 v4 מִנַּחֲלָֽתְךָ֙|min·na·ḥă·lā·ṯə·ḵā|the inheritance|H5159|Prep-m | N-fsc | 2ms
 v4 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v4 נָתַ֣תִּי|nā·ṯat·tî|I gave|H5414|V-Qal-Perf-1cs
@@ -51,7 +51,7 @@ v4 קְדַחְתֶּ֥ם|qə·ḏaḥ·tem|...|H6919|V-Qal-Perf-2mp
 v4 בְּאַפִּ֖י|bə·’ap·pî|My anger|H639|Prep-b | N-msc | 1cs
 v4 עַד־|‘aḏ-|forever|H5704|Prep
 v4 עוֹלָ֥ם|‘ō·w·lām|...|H5769|N-ms
-v4 תּוּקָֽד׃ס|tū·qāḏ|it will burn|H3344|V-Hofal-Imperf-3fs
+v4 תּוּקָֽד׃|tū·qāḏ|it will burn|H3344|V-Hofal-Imperf-3fs
 v5 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v5 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v5 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -81,7 +81,7 @@ v6 בַּמִּדְבָּ֔ר|bam·miḏ·bār|of the desert|H4057|Prep-b, Art |
 v6 אֶ֥רֶץ|’e·reṣ|land|H776|N-fsc
 v6 מְלֵחָ֖ה|mə·lê·ḥāh|in a salt|H4420|N-fs
 v6 וְלֹ֥א|wə·lō|where no|H3808|Conj-w | Adv-NegPrt
-v6 תֵשֵֽׁב׃ס|ṯê·šêḇ|one lives|H3427|V-Qal-Imperf-3fs
+v6 תֵשֵֽׁב׃|ṯê·šêḇ|one lives|H3427|V-Qal-Imperf-3fs
 v7 בָּר֣וּךְ|bā·rūḵ|But blessed|H1288|V-Qal-QalPassPrtcpl-ms
 v7 הַגֶּ֔בֶר|hag·ge·ḇer|[is] the man|H1397|Art | N-ms
 v7 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
@@ -132,10 +132,10 @@ v10 וְלָתֵ֤ת|wə·lā·ṯêṯ|to reward|H5414|Conj-w, Prep-l | V-Qal-I
 v10 לְאִישׁ֙|lə·’îš|a man|H376|Prep-l | N-ms
 v10 כְּדַרְכּוֹ|kə·ḏar·kō|according to his way|H1870|Prep-k | N-cpc | 3ms
 v10 כִּפְרִ֖י|kip̄·rî|deserve|H6529|Prep-k | N-msc
-v10 מַעֲלָלָֽיו׃ס|ma·‘ă·lā·lāw|by what his deeds|H4611|N-mpc | 3ms
+v10 מַעֲלָלָֽיו׃|ma·‘ă·lā·lāw|by what his deeds|H4611|N-mpc | 3ms
 v11 קֹרֵ֤א|qō·rê|Like a partridge|H7124|N-ms
 v11 דָגַר֙|ḏā·ḡar|hatching eggs|H1716|V-Qal-Perf-3ms
-v11 וְלֹ֣א|wə·lō|vvv|H3808|Conj-w | Adv-NegPrt
+v11 וְלֹ֣א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v11 יָלָ֔ד|yā·lāḏ|lay|H3205|V-Qal-Perf-3ms
 v11 עֹ֥שֶׂה|‘ō·śeh|is the man who makes|H6213|V-Qal-Prtcpl-ms
 v11 עֹ֖שֶׁר|‘ō·šer|a fortune|H6239|N-ms
@@ -168,7 +168,7 @@ v13 מְק֥וֹר|mə·qō·wr|the fountain|H4726|N-msc
 v13 מַֽיִם־|ma·yim-|water|H4325|N-mp
 v13 חַיִּ֖ים|ḥay·yîm|of living|H2416|Adj-mp
 v13 אֶת־|’eṯ-|-|H853|DirObjM
-v13 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v13 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v14 רְפָאֵ֤נִי|rə·p̄ā·’ê·nî|Heal me|H7495|V-Qal-Imp-ms | 1cs
 v14 יְהוָה֙|Yah·weh|O LORD|H3068|N-proper-ms
 v14 וְאֵ֣רָפֵ֔א|wə·’ê·rā·p̄ê|and I will be healed|H7495|Conj-w | V-Nifal-ConjImperf.h-1cs
@@ -226,7 +226,7 @@ v18 י֣וֹם|yō·wm|the day|H3117|N-msc
 v18 רָעָ֔ה|rā·‘āh|of disaster|H7451|N-fs
 v18 וּמִשְׁנֶ֥ה|ū·miš·neh|with double|H4932|Conj-w | N-ms
 v18 שִׁבָּר֖וֹן|šib·bā·rō·wn|destruction|H7670|N-ms
-v18 שָׁבְרֵֽם׃ס|šā·ḇə·rêm|and shatter them|H7665|V-Qal-Imp-ms | 3mp
+v18 שָׁבְרֵֽם׃|šā·ḇə·rêm|and shatter them|H7665|V-Qal-Imp-ms | 3mp
 v19 כֹּה־|kōh-|This is what|H3541|Adv
 v19 אָמַ֨ר|’ā·mar|said|H559|V-Qal-Perf-3ms
 v19 יְהוָ֜ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -238,7 +238,7 @@ v19 בְּנֵֽי־|bə·nê-|of the people|H1121|N-mpc
 v19 עָם|ʿå̄m|...|H5971|Art | N-ms
 v19 אֲשֶׁ֨ר|’ă·šer|through which|H834|Pro-r
 v19 יָבֹ֤אוּ|yā·ḇō·’ū|go in|H935|V-Qal-Imperf-3mp
-v19 בוֹ֙|ḇōw||H0|Prep | 3ms
+v19 בוֹ֙|ḇōw|-|H0|Prep | 3ms
 v19 מַלְכֵ֣י|mal·ḵê|the kings|H4428|N-mpc
 v19 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v19 וַאֲשֶׁ֖ר|wa·’ă·šer|-|H834|Conj-w | Pro-r
@@ -261,7 +261,7 @@ v20 יֹשְׁבֵ֣י|yō·šə·ḇê|...|H3427|V-Qal-Prtcpl-mpc
 v20 יְרוּשָׁלִָ֑ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v20 הַבָּאִ֖ים|hab·bā·’îm|who enter|H935|Art | V-Qal-Prtcpl-mp
 v20 בַּשְּׁעָרִ֥ים|baš·šə·‘ā·rîm|gates|H8179|Prep-b, Art | N-mp
-v20 הָאֵֽלֶּה׃ס|hā·’êl·leh|through these|H428|Art | Pro-cp
+v20 הָאֵֽלֶּה׃|hā·’êl·leh|through these|H428|Art | Pro-cp
 v21 כֹּ֚ה|kōh|This is what|H3541|Adv
 v21 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v21 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -363,7 +363,7 @@ v26 וּמֵאֶ֣רֶץ|ū·mê·’e·reṣ|from the land|H776|Conj-w, Prep-m 
 v26 בִּנְיָמִ֗ן|bin·yā·min|of Benjamin|H1144|N-proper-ms
 v26 וּמִן־|ū·min-|and from|H4480|Conj-w | Prep
 v26 הַשְּׁפֵלָ֤ה|haš·šə·p̄ê·lāh|the foothills|H8219|Art | N-fs
-v26 וּמִן־|ū·min-||H4480|Conj-w | Prep
+v26 וּמִן־|ū·min-|-|H4480|Conj-w | Prep
 v26 הָהָר֙|hā·hār|the hill country|H2022|Art | N-ms
 v26 וּמִן־|ū·min-|and|H4480|Conj-w | Prep
 v26 הַנֶּ֔גֶב|han·ne·ḡeḇ|the Negev|H5045|Art | N-proper-fs
@@ -398,5 +398,5 @@ v27 בִּשְׁעָרֶ֗יהָ|biš·‘ā·re·hā|in its gates|H8179|Prep-b 
 v27 וְאָֽכְלָ֛ה|wə·’ā·ḵə·lāh|to consume|H398|Conj-w | V-Qal-ConjPerf-3fs
 v27 אַרְמְנ֥וֹת|’ar·mə·nō·wṯ|the citadels|H759|N-mpc
 v27 יְרוּשָׁלִַ֖ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
-v27 וְלֹ֥א|wə·lō|vvv|H3808|Conj-w | Adv-NegPrt
-v27 תִכְבֶּֽה׃פ|ṯiḵ·beh|an unquenchable|H3518|V-Qal-Imperf-3fs
+v27 וְלֹ֥א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
+v27 תִכְבֶּֽה׃|ṯiḵ·beh|an unquenchable|H3518|V-Qal-Imperf-3fs

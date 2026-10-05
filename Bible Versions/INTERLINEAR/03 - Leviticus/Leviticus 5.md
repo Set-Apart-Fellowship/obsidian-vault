@@ -48,7 +48,7 @@ v3 לְכֹל֙|lə·ḵōl|anything|H3605|Prep-l | N-msc
 v3 טֻמְאָת֔וֹ|ṭum·’ā·ṯōw|-|H2932|N-fsc | 3ms
 v3 אֲשֶׁ֥ר|’ă·šer|by which|H834|Pro-r
 v3 יִטְמָ֖א|yiṭ·mā|one becomes unclean|H2930|V-Qal-Imperf-3ms
-v3 בָּ֑הּ|bāh||H0|Prep | 3fs
+v3 בָּ֑הּ|bāh|-|H0|Prep | 3fs
 v3 וְנֶעְלַ֣ם|wə·ne‘·lam|even if he is unaware|H5956|Conj-w | V-Nifal-ConjPerf-3ms
 v3 מִמֶּ֔נּוּ|mim·men·nū|of it|H4480|Prep | 3ms
 v3 וְה֥וּא|wə·hū|when he|H1931|Conj-w | Pro-3ms
@@ -73,7 +73,7 @@ v4 מִמֶּ֑נּוּ|mim·men·nū|of it|H4480|Prep | 3ms
 v4 וְהוּא־|wə·hū-|when he|H1931|Conj-w | Pro-3ms
 v4 יָדַ֥ע|yā·ḏa‘|realizes it|H3045|V-Qal-Perf-3ms
 v4 וְאָשֵׁ֖ם|wə·’ā·šêm|he is guilty|H816|Conj-w | V-Qal-ConjPerf-3ms
-v4 לְאַחַ֥ת|lə·’a·ḥaṯ|vvv|H259|Prep-l | Number-fs
+v4 לְאַחַ֥ת|lə·’a·ḥaṯ|...|H259|Prep-l | Number-fs
 v4 מֵאֵֽלֶּה׃|mê·’êl·leh|in [the matter]|H428|Prep-m | Pro-cp
 v5 וְהָיָ֥ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v5 כִֽי־|ḵî-|If|H3588|Conj
@@ -168,7 +168,7 @@ v10 מֵחַטָּאת֥וֹ|mê·ḥaṭ·ṭā·ṯōw|for the sin|H2403|Prep-
 v10 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v10 חָטָ֖א|ḥā·ṭā|he has committed|H2398|V-Qal-Perf-3ms
 v10 וְנִסְלַ֥ח|wə·nis·laḥ|and he will be forgiven|H5545|Conj-w | V-Nifal-ConjPerf-3ms
-v10 לֽוֹ׃ס|lōw||H0|Prep | 3ms
+v10 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v11 וְאִם־|wə·’im-|But if|H518|Conj
 v11 לֹא֩|lō|he cannot|H3808|Adv-NegPrt
 v11 תַשִּׂ֨יג|ṯaś·śîḡ|afford|H5381|V-Hifil-Imperf-3fs
@@ -226,10 +226,10 @@ v13 חָטָ֛א|ḥā·ṭā|he has committed|H2398|V-Qal-Perf-3ms
 v13 מֵֽאַחַ֥ת|mê·’a·ḥaṯ|any|H259|Prep-m | Number-fs
 v13 מֵאֵ֖לֶּה|mê·’êl·leh|of these|H428|Prep-m | Pro-cp
 v13 וְנִסְלַ֣ח|wə·nis·laḥ|and he will be forgiven|H5545|Conj-w | V-Nifal-ConjPerf-3ms
-v13 ל֑וֹ|lōw||H0|Prep | 3ms
+v13 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v13 וְהָיְתָ֥ה|wə·hā·yə·ṯāh|The remainder will belong to|H1961|Conj-w | V-Qal-ConjPerf-3fs
 v13 לַכֹּהֵ֖ן|lak·kō·hên|the priest|H3548|Prep-l, Art | N-ms
-v13 כַּמִּנְחָֽה׃ס|kam·min·ḥāh|like the grain offering|H4503|Prep-k, Art | N-fs
+v13 כַּמִּנְחָֽה׃|kam·min·ḥāh|like the grain offering|H4503|Prep-k, Art | N-fs
 v14 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v14 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v14 אֶל־|’el-|to|H413|Prep
@@ -276,7 +276,7 @@ v16 עָלָ֛יו|‘ā·lāw|on his behalf|H5921|Prep | 3ms
 v16 בְּאֵ֥יל|bə·’êl|with the ram|H352|Prep-b | N-msc
 v16 הָאָשָׁ֖ם|hā·’ā·šām|as a guilt offering|H817|Art | N-ms
 v16 וְנִסְלַ֥ח|wə·nis·laḥ|and he will be forgiven|H5545|Conj-w | V-Nifal-ConjPerf-3ms
-v16 לֽוֹ׃פ|lōw||H0|Prep | 3ms
+v16 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v17 וְאִם־|wə·’im-|If|H518|Conj
 v17 נֶ֙פֶשׁ֙|ne·p̄eš|someone|H5315|N-fs
 v17 כִּ֣י|kî|...|H3588|Conj
@@ -314,9 +314,9 @@ v18 וְה֥וּא|wə·hū|...|H1931|Conj-w | Pro-3ms
 v18 לֹֽא־|lō-|in ignorance|H3808|Adv-NegPrt
 v18 יָדַ֖ע|yā·ḏa‘|...|H3045|V-Qal-Perf-3ms
 v18 וְנִסְלַ֥ח|wə·nis·laḥ|and he will be forgiven|H5545|Conj-w | V-Nifal-ConjPerf-3ms
-v18 לֽוֹ׃|lōw||H0|Prep | 3ms
+v18 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v19 אָשָׁ֖ם|’ā·šām|is a guilt offering|H817|N-ms
 v19 ה֑וּא|hū|It|H1931|Pro-3ms
 v19 אָשֹׁ֥ם|’ā·šōm|he was certainly guilty|H816|V-Qal-InfAbs
 v19 אָשַׁ֖ם|’ā·šam|...|H816|V-Qal-Perf-3ms
-v19 לַיהוָֽה׃פ|Yah·weh|before the LORD|H3068|Prep-l | N-proper-ms
+v19 לַיהוָֽה׃|Yah·weh|before the LORD|H3068|Prep-l | N-proper-ms

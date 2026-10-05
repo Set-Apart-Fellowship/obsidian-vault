@@ -46,9 +46,9 @@ v3 καὶ|kai|and|G2532|Conj
 v3 πλεονάζει|pleonazei|is increasing|G4121|V-PIA-3S
 v3 ἡ|hē|-|G3588|Art-NFS
 v3 ἀγάπη|agapē|love|G26|N-NFS
-v3 ἑνὸς|henos|vvv|G1520|Adj-GMS
-v3 ἑκάστου|hekastou|vvv|G1538|Adj-GMS
-v3 πάντων|pantōn|vvv|G3956|Adj-GMP
+v3 ἑνὸς|henos|...|G1520|Adj-GMS
+v3 ἑκάστου|hekastou|...|G1538|Adj-GMS
+v3 πάντων|pantōn|...|G3956|Adj-GMP
 v3 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v3 εἰς|eis|for|G1519|Prep
 v3 ἀλλήλους|allēlous|one another|G240|RecPro-AMP
@@ -131,12 +131,12 @@ v8 φλογός|phlogos|blazing|G5395|N-GFS
 v8 διδόντος|didontos|inflicting|G1325|V-PPA-GMS
 v8 ἐκδίκησιν|ekdikēsin|vengeance|G1557|N-AFS
 v8 τοῖς|tois|on those who|G3588|Art-DMP
-v8 μὴ|mē|vvv|G3361|Adv
+v8 μὴ|mē|...|G3361|Adv
 v8 εἰδόσιν|eidosin|do not know|G1492|V-RPA-DMP
 v8 Θεὸν|Theon|God|G2316|N-AMS
 v8 καὶ|kai|and|G2532|Conj
 v8 τοῖς|tois|-|G3588|Art-DMP
-v8 μὴ|mē|vvv|G3361|Adv
+v8 μὴ|mē|...|G3361|Adv
 v8 ὑπακούουσιν|hypakouousin|do not obey|G5219|V-PPA-DMP
 v8 τῷ|tō|the|G3588|Art-DNS
 v8 εὐαγγελίῳ|euangeliō|gospel|G2098|N-DNS
@@ -192,7 +192,7 @@ v11 πάντοτε|pantote|...|G3842|Adv
 v11 περὶ|peri|for|G4012|Prep
 v11 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v11 ἵνα|hina|that|G2443|Conj
-v11 ὑμᾶς|hymas|vvv|G4771|PPro-A2P
+v11 ὑμᾶς|hymas|...|G4771|PPro-A2P
 v11 ἀξιώσῃ|axiōsē|will count you worthy|G515|V-ASA-3S
 v11 τῆς|tēs|of [His]|G3588|Art-GFS
 v11 κλήσεως|klēseōs|calling|G2821|N-GFS
@@ -207,8 +207,8 @@ v11 ἀγαθωσύνης|agathōsynēs|good|G19|N-GFS
 v11 καὶ|kai|and|G2532|Conj
 v11 ἔργον|ergon|work|G2041|N-ANS
 v11 πίστεως|pisteōs|of faith|G4102|N-GFS
-v11 ἐν|en|vvv|G1722|Prep
-v11 δυνάμει|dynamei|vvv|G1411|N-DFS
+v11 ἐν|en|...|G1722|Prep
+v11 δυνάμει|dynamei|...|G1411|N-DFS
 v12 ὅπως|hopōs|so that|G3704|Conj
 v12 ἐνδοξασθῇ|endoxasthē|will be glorified|G1740|V-ASP-3S
 v12 τὸ|to|the|G3588|Art-NNS

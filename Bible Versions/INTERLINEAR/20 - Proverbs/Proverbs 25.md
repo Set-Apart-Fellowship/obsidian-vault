@@ -88,7 +88,7 @@ v11 בְּמַשְׂכִּיּ֥וֹת|bə·maś·kî·yō·wṯ|in settings|H49
 v11 כָּ֑סֶף|kā·sep̄|of silver|H3701|N-ms
 v11 דָּ֝בָ֗ר|dā·ḇār|A word|H1697|N-ms
 v11 דָּבֻ֥ר|dā·ḇur|spoken|H1696|V-Qal-QalPassPrtcpl-ms
-v11 עַל־|‘al-|vvv|H5921|Prep
+v11 עַל־|‘al-|...|H5921|Prep
 v11 אָפְנָֽיו׃|’ā·p̄ə·nāw|fitly|H655|N-mpc | 3ms
 v12 נֶ֣זֶם|ne·zem|[Like] an earring|H5141|N-msc
 v12 זָ֭הָב|zā·hāḇ|of gold|H2091|N-ms
@@ -108,7 +108,7 @@ v13 נֶ֭אֱמָן|ne·’ĕ·mān|[is] a trustworthy|H539|V-Nifal-Prtcpl-ms
 v13 לְשֹׁלְחָ֑יו|lə·šō·lə·ḥāw|to those who send him|H7971|Prep-l | V-Qal-Prtcpl-mpc | 3ms
 v13 וְנֶ֖פֶשׁ|wə·ne·p̄eš|the soul|H5315|Conj-w | N-fsc
 v13 אֲדֹנָ֣יו|’ă·ḏō·nāw|of his masters|H113|N-mpc | 3ms
-v13 יָשִֽׁיב׃פ|yā·šîḇ|he refreshes|H7725|V-Hifil-Imperf-3ms
+v13 יָשִֽׁיב׃|yā·šîḇ|he refreshes|H7725|V-Hifil-Imperf-3ms
 v14 נְשִׂיאִ֣ים|nə·śî·’îm|[Like] clouds|H5387|N-mp
 v14 וְ֭רוּחַ|wə·rū·aḥ|and wind|H7307|Conj-w | N-cs
 v14 וְגֶ֣שֶׁם|wə·ḡe·šem|rain|H1653|Conj-w | N-ms
@@ -167,7 +167,7 @@ v20 וְשָׁ֥ר|wə·šār|[is] one who sings|H7891|Conj-w | V-Qal-Prtcpl-ms
 v20 בַּ֝שִּׁרִ֗ים|baš·ši·rîm|songs|H7892|Prep-b, Art | N-mp
 v20 עַ֣ל|‘al|to|H5921|Prep
 v20 לֶב־|leḇ-|heart|H3820|N-msc
-v20 רָֽע׃פ|rā‘|a heavy|H7451|Adj-ms
+v20 רָֽע׃|rā‘|a heavy|H7451|Adj-ms
 v21 אִם־|’im-|If|H518|Conj
 v21 רָעֵ֣ב|rā·‘êḇ|is hungry|H7457|Adj-ms
 v21 שֹׂ֭נַאֲךָ|śō·na·ʾă·k̲ā|your enemy|H8130|V-Qal-Prtcpl-msc | 2ms

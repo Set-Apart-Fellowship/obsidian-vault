@@ -21,7 +21,7 @@ v2 הַבַּדִּ֗ים|hab·bad·dîm|in linen|H906|Art | N-mp
 v2 וַיֹּ֡אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 בֹּא֩|bō|Go|H935|V-Qal-Imp-ms
 v2 אֶל־|’el-|inside|H413|Prep
-v2 בֵּינ֨וֹת|bê·nō·wṯ||H996|Prep
+v2 בֵּינ֨וֹת|bê·nō·wṯ|-|H996|Prep
 v2 לַגַּלְגַּ֜ל|lag·gal·gal|the wheelwork|H1534|Prep-l, Art | N-ms
 v2 אֶל־|’el-|...|H413|Prep
 v2 תַּ֣חַת|ta·ḥaṯ|beneath|H8478|Prep
@@ -98,7 +98,7 @@ v7 וַיִּשְׁלַח֩|way·yiš·laḥ|reached out|H7971|Conj-w | V-Qal-Co
 v7 הַכְּר֨וּב|hak·kə·rūḇ|Then one of the cherubim|H3742|Art | N-ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 יָד֜וֹ|yā·ḏōw|his hand|H3027|N-fsc | 3ms
-v7 מִבֵּינ֣וֹת|mib·bê·nō·wṯ||H996|Prep-m
+v7 מִבֵּינ֣וֹת|mib·bê·nō·wṯ|-|H996|Prep-m
 v7 לַכְּרוּבִ֗ים|lak·kə·rū·ḇîm|-|H3742|Prep-l, Art | N-mp
 v7 אֶל־|’el-|-|H413|Prep
 v7 הָאֵשׁ֙|hā·’êš|the fire|H784|Art | N-cs
@@ -131,12 +131,12 @@ v9 אֶחָ֗ד|’e·ḥāḏ|one|H259|Number-ms
 v9 אֵ֚צֶל|’ê·ṣel|beside|H681|Prep
 v9 הַכְּר֣וּב|hak·kə·rūḇ|cherub|H3742|Art | N-ms
 v9 אֶחָ֔ד|’e·ḥāḏ|each|H259|Number-ms
-v9 וְאוֹפַ֣ן|wə·’ō·w·p̄an||H212|Conj-w | N-ms
+v9 וְאוֹפַ֣ן|wə·’ō·w·p̄an|-|H212|Conj-w | N-ms
 v9 אֶחָ֔ד|’e·ḥāḏ|-|H259|Number-ms
 v9 אֵ֖צֶל|’ê·ṣel|-|H681|Prep
 v9 הַכְּר֣וּב|hak·kə·rūḇ|...|H3742|Art | N-ms
 v9 אֶחָ֑ד|’e·ḥāḏ|...|H259|Number-ms
-v9 וּמַרְאֵה֙|ū·mar·’êh||H4758|Conj-w | N-msc
+v9 וּמַרְאֵה֙|ū·mar·’êh|-|H4758|Conj-w | N-msc
 v9 הָא֣וֹפַנִּ֔ים|hā·’ō·w·p̄an·nîm|And the wheels|H212|Art | N-mp
 v9 כְּעֵ֖ין|kə·‘ên|gleamed|H5869|Prep-k | N-csc
 v9 אֶ֥בֶן|’e·ḇen|stone|H68|N-fsc
@@ -180,7 +180,7 @@ v12 סָבִ֔יב|sā·ḇîḇ|all around|H5439|Adv
 v12 לְאַרְבַּעְתָּ֖ם|lə·’ar·ba‘·tām|as were their four|H702|Prep-l | Number-msc | 3mp
 v12 אוֹפַנֵּיהֶֽם׃|’ō·w·p̄an·nê·hem|wheels|H212|N-mpc | 3mp
 v13 לָא֖וֹפַנִּ֑ים|lā·’ō·w·p̄an·nîm|the wheels|H212|Prep, Art | N-mp
-v13 לָהֶ֛ם|lā·hem||H0|Prep | 3mp
+v13 לָהֶ֛ם|lā·hem|-|H0|Prep | 3mp
 v13 קוֹרָ֥א|qō·w·rā|being called|H7121|V-Pual-Perf-3ms
 v13 הַגַּלְגַּ֖ל|hag·gal·gal|the whirling wheels|H1534|Art | N-ms
 v13 בְּאָזְנָֽי׃|bə·’ā·zə·nāy|I heard|H241|Prep-b | N-fdc | 1cs
@@ -224,7 +224,7 @@ v16 הָאָ֔רֶץ|hā·’ā·reṣ|the ground|H776|Art | N-fs
 v16 לֹא־|lō-|did not|H3808|Adv-NegPrt
 v16 יִסַּ֧בּוּ|yis·sab·bū|veer away|H5437|V-Nifal-Imperf-3mp
 v16 הָאוֹפַנִּ֛ים|hā·’ō·w·p̄an·nîm|the wheels|H212|Art | N-mp
-v16 גַּם־|gam-||H1571|Conj
+v16 גַּם־|gam-|-|H1571|Conj
 v16 הֵ֖ם|hêm|-|H1992|Pro-3mp
 v16 מֵאֶצְלָֽם׃|mê·’eṣ·lām|from their side|H681|Prep-m | 3mp
 v17 בְּעָמְדָ֣ם|bə·‘ā·mə·ḏām|When the cherubim stood still|H5975|Prep-b | V-Qal-Inf | 3mp

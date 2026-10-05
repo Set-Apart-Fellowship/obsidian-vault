@@ -40,7 +40,7 @@ v2 וּבְהֶמְתָּ֖הּ|ū·ḇə·hem·tāh|and livestock|H929|Conj-w |
 v2 תָּבֹ֣זּוּ|tā·ḇōz·zū|you may carry off|H962|V-Qal-Imperf-2mp
 v2 לָכֶ֑ם|lā·ḵem|for yourselves|H0|Prep | 2mp
 v2 שִׂים־|śîm-|Set up|H7760|V-Qal-Imp-ms
-v2 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v2 אֹרֵ֛ב|’ō·rêḇ|an ambush|H693|V-Qal-Prtcpl-ms
 v2 לָעִ֖יר|lā·‘îr|the city|H5892|Prep-l, Art | N-fs
 v2 מֵאַחֲרֶֽיהָ׃|mê·’a·ḥă·re·hā|behind|H310|Prep-m | 3fs
@@ -53,7 +53,7 @@ v3 לַעֲל֣וֹת|la·‘ă·lō·wṯ|to attack|H5927|Prep-l | V-Qal-Inf
 v3 הָעָ֑י|hā·‘āy|Ai|H5857|Art | N-proper-fs
 v3 וַיִּבְחַ֣ר|way·yiḇ·ḥar|chose|H977|Conj-w | V-Qal-ConsecImperf-3ms
 v3 יְ֠הוֹשֻׁעַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
-v3 שְׁלֹשִׁ֨ים|šə·lō·šîm|30,000 {}|H7970|Number-cp
+v3 שְׁלֹשִׁ֨ים|šə·lō·šîm|30,000|H7970|Number-cp
 v3 אֶ֤לֶף|’e·lep̄|...|H505|Number-msc
 v3 אִישׁ֙|’îš|...|H376|N-ms
 v3 גִּבּוֹרֵ֣י|gib·bō·w·rê|mighty men|H1368|Adj-mpc
@@ -139,7 +139,7 @@ v9 אֶל־|’el-|to|H413|Prep
 v9 הַמַּאְרָ֔ב|ham·ma’·rāḇ|the place of ambush|H3993|Art | N-ms
 v9 וַיֵּשְׁב֗וּ|way·yê·šə·ḇū|and lay in wait|H3427|Conj-w | V-Qal-ConsecImperf-3mp
 v9 בֵּ֧ין|bên|between|H996|Prep
-v9 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v9 בֵּֽית־|bêṯ-|...|H1008|Prep
 v9 אֵ֛ל|’êl|Bethel|H1008|N-proper-fs
 v9 וּבֵ֥ין|ū·ḇên|and|H996|Conj-w | Prep
 v9 הָעַ֖י|hā·‘ay|Ai|H5857|Art | N-proper-fs
@@ -189,7 +189,7 @@ v12 וַיָּ֨שֶׂם|way·yā·śem|and set up|H7760|Conj-w | V-Qal-ConsecIm
 v12 אוֹתָ֜ם|’ō·w·ṯām|-|H853|DirObjM | 3mp
 v12 אֹרֵ֗ב|’ō·rêḇ|an ambush|H693|V-Qal-Prtcpl-ms
 v12 בֵּ֧ין|bên|between|H996|Prep
-v12 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v12 בֵּֽית־|bêṯ-|...|H1008|Prep
 v12 אֵ֛ל|’êl|Bethel|H1008|N-proper-fs
 v12 וּבֵ֥ין|ū·ḇên|and|H996|Conj-w | Prep
 v12 הָעַ֖י|hā·‘ay|Ai|H5857|Art | N-proper-fs
@@ -264,7 +264,7 @@ v17 וְלֹֽא־|wə·lō-|Not|H3808|Conj-w | Adv-NegPrt
 v17 נִשְׁאַ֣ר|niš·’ar|was left|H7604|V-Nifal-Perf-3ms
 v17 אִ֗ישׁ|’îš|a man|H376|N-ms
 v17 בָּעַי֙|bā·‘ay|in Ai|H5857|Prep-b, Art | N-proper-fs
-v17 וּבֵ֣ית|ū·ḇêṯ|vvv|H1008|
+v17 וּבֵ֣ית|ū·ḇêṯ|...|H1008|
 v17 אֵ֔ל|’êl|or Bethel|H1008|Conj-w | N-proper-fs
 v17 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
 v17 לֹֽא־|lō-|did not|H3808|Adv-NegPrt
@@ -277,7 +277,7 @@ v17 הָעִיר֙|hā·‘îr|the city|H5892|Art | N-fs
 v17 פְּתוּחָ֔ה|pə·ṯū·ḥāh|wide open|H6605|V-Qal-QalPassPrtcpl-fs
 v17 וַֽיִּרְדְּפ֖וּ|way·yir·də·p̄ū|while they pursued|H7291|Conj-w | V-Qal-ConsecImperf-3mp
 v17 אַחֲרֵ֥י|’a·ḥă·rê|...|H310|Prep
-v17 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v17 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v18 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v18 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v18 אֶל־|’el-|to|H413|Prep
@@ -371,7 +371,7 @@ v22 אוֹתָ֔ם|’ō·w·ṯām|-|H853|DirObjM | 3mp
 v22 עַד־|‘aḏ-|until|H5704|Prep
 v22 בִּלְתִּ֥י|bil·tî|no|H1115|Prep
 v22 הִשְׁאִֽיר־|hiš·’îr-|remained|H7604|V-Hifil-Perf-3ms
-v22 ל֖וֹ|lōw||H0|Prep | 3ms
+v22 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v22 שָׂרִ֥יד|śā·rîḏ|survivor|H8300|N-ms
 v22 וּפָלִֽיט׃|ū·p̄ā·lîṭ|or fugitive|H6412|Conj-w | N-ms
 v23 וְאֶת־|wə·’eṯ-|But|H853|Conj-w | DirObjM
@@ -398,7 +398,7 @@ v24 רְדָפ֣וּם|rə·ḏā·p̄ūm|who had pursued|H7291|V-Qal-Perf-3cp |
 v24 בּ֔וֹ|bōw|them|H0|Prep | 3ms
 v24 וַֽיִּפְּל֥וּ|way·yip·pə·lū|last one of them had fallen|H5307|Conj-w | V-Qal-ConsecImperf-3mp
 v24 כֻלָּ֛ם|ḵul·lām|and when every|H3605|N-msc | 3mp
-v24 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v24 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v24 חֶ֖רֶב|ḥe·reḇ|by the sword|H2719|N-fs
 v24 עַד־|‘aḏ-|...|H5704|Prep
 v24 תֻּמָּ֑ם|tum·mām|...|H8552|V-Qal-Inf | 3mp
@@ -408,7 +408,7 @@ v24 יִשְׂרָאֵל֙|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v24 הָעַ֔י|hā·‘ay|to Ai|H5857|Art | N-proper-fs
 v24 וַיַּכּ֥וּ|way·yak·kū|and put|H5221|Conj-w | V-Hifil-ConsecImperf-3mp
 v24 אֹתָ֖הּ|’ō·ṯāh|it|H853|DirObjM | 3fs
-v24 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v24 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v24 חָֽרֶב׃|ḥā·reḇ|to the sword [as well]|H2719|N-fs
 v25 וַיְהִי֩|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v25 כָל־|ḵāl|A total|H3605|N-msc
@@ -446,9 +446,9 @@ v27 הַהִ֔יא|ha·hî|of that|H1931|Art | Pro-3fs
 v27 בָּזְז֥וּ|bā·zə·zū|took|H962|V-Qal-Perf-3cp
 v27 לָהֶ֖ם|lā·hem|for themselves|H0|Prep-l | Pro-3mp
 v27 יִשְׂרָאֵ֑ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v27 כִּדְבַ֣ר|kiḏ·ḇar|vvv|H1697|Prep-k | N-msc
+v27 כִּדְבַ֣ר|kiḏ·ḇar|...|H1697|Prep-k | N-msc
 v27 יְהוָ֔ה|Yah·weh|as the LORD|H3068|N-proper-ms
-v27 אֲשֶׁ֥ר|’ă·šer|vvv|H834|Pro-r
+v27 אֲשֶׁ֥ר|’ă·šer|...|H834|Pro-r
 v27 צִוָּ֖ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 יְהוֹשֻֽׁעַ׃|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
@@ -494,7 +494,7 @@ v29 אֲבָנִ֣ים|’ă·ḇā·nîm|of rocks|H68|N-fp
 v29 גָּד֔וֹל|gā·ḏō·wl|a large|H1419|Adj-ms
 v29 עַ֖ד|‘aḏ|which remains to|H5704|Prep
 v29 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v29 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v29 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v30 אָ֣ז|’āz|At that time|H227|Adv
 v30 יִבְנֶ֤ה|yiḇ·neh|built|H1129|V-Qal-Imperf-3ms
 v30 יְהוֹשֻׁ֙עַ֙|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
@@ -509,7 +509,7 @@ v31 צִוָּה֩|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v31 מֹשֶׁ֨ה|mō·šeh|Moses|H4872|N-proper-ms
 v31 עֶֽבֶד־|‘e·ḇeḏ-|the servant|H5650|N-msc
 v31 יְהוָ֜ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v31 אֶת־|’eṯ-||H853|DirObjM
+v31 אֶת־|’eṯ-|-|H853|DirObjM
 v31 בְּנֵ֣י|bə·nê|the Israelites|H1121|N-mpc
 v31 יִשְׂרָאֵ֗ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v31 כַּכָּתוּב֙|kak·kā·ṯūḇ|He built it according to what is written|H3789|Prep-k, Art | V-Qal-QalPassPrtcpl-ms
@@ -541,7 +541,7 @@ v32 מֹשֶׁ֔ה|mō·šeh|of Moses|H4872|N-proper-ms
 v32 אֲשֶׁ֣ר|’ă·šer|which|H834|Pro-r
 v32 כָּתַ֔ב|kā·ṯaḇ|he had written|H3789|V-Qal-Perf-3ms
 v32 לִפְנֵ֖י|lip̄·nê|in the presence|H6440|Prep-l | N-cpc
-v32 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v32 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v32 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v33 וְכָל־|wə·ḵāl|All|H3605|Conj-w | N-msc
 v33 יִשְׂרָאֵ֡ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
@@ -613,4 +613,4 @@ v35 וְהַנָּשִׁ֣ים|wə·han·nā·šîm|including the women|H802|Con
 v35 וְהַטַּ֔ף|wə·haṭ·ṭap̄|the little ones|H2945|Conj-w, Art | N-ms
 v35 וְהַגֵּ֖ר|wə·hag·gêr|and the foreigners|H1616|Conj-w, Art | N-ms
 v35 הַהֹלֵ֥ךְ|ha·hō·lêḵ|who lived|H1980|Art | V-Qal-Prtcpl-ms
-v35 בְּקִרְבָּֽם׃פ|bə·qir·bām|among them|H7130|Prep-b | N-msc | 3mp
+v35 בְּקִרְבָּֽם׃|bə·qir·bām|among them|H7130|Prep-b | N-msc | 3mp

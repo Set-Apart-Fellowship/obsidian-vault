@@ -44,8 +44,8 @@ v3 מִ֨י|mî|Whose|H4310|Interrog
 v3 לָקַ֜חְתִּי|lā·qaḥ·tî|have I taken|H3947|V-Qal-Perf-1cs
 v3 וַחֲמ֧וֹר|wa·ḥă·mō·wr|or donkey|H2543|Conj-w | N-msc
 v3 מִ֣י|mî|Whom|H4310|Interrog
-v3 לָקַ֗חְתִּי|lā·qaḥ·tî|vvv|H3947|V-Qal-Perf-1cs
-v3 וְאֶת־|wə·’eṯ-|vvv|H853|Conj-w | DirObjM
+v3 לָקַ֗חְתִּי|lā·qaḥ·tî|...|H3947|V-Qal-Perf-1cs
+v3 וְאֶת־|wə·’eṯ-|...|H853|Conj-w | DirObjM
 v3 מִ֤י|mî|From whose|H4310|Interrog
 v3 עָשַׁ֙קְתִּי֙|‘ā·šaq·tî|have I cheated|H6231|V-Qal-Perf-1cs
 v3 אֶת־|’eṯ-|-|H853|DirObjM
@@ -85,7 +85,7 @@ v5 מְצָאתֶ֛ם|mə·ṣā·ṯem|found|H4672|V-Qal-Perf-2mp
 v5 בְּיָדִ֖י|bə·yā·ḏî|in my hand|H3027|Prep-b | N-fsc | 1cs
 v5 מְא֑וּמָה|mə·’ū·māh|anything|H3972|N-ms
 v5 וַיֹּ֖אמֶר|way·yō·mer|they replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v5 עֵֽד׃פ|‘êḏ|He is a witness|H5707|N-ms
+v5 עֵֽד׃|‘êḏ|He is a witness|H5707|N-ms
 v6 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 שְׁמוּאֵ֖ל|šə·mū·’êl|Then Samuel|H8050|N-proper-ms
 v6 אֶל־|’el-|to|H413|Prep
@@ -99,7 +99,7 @@ v6 וְאֶֽת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v6 אַהֲרֹ֔ן|’a·hă·rōn|and Aaron|H175|N-proper-ms
 v6 וַאֲשֶׁ֧ר|wa·’ă·šer|and who|H834|Conj-w | Pro-r
 v6 הֶעֱלָ֛ה|he·‘ĕ·lāh|brought|H5927|V-Hifil-Perf-3ms
-v6 אֶת־|’eṯ-||H853|DirObjM
+v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 אֲבֹתֵיכֶ֖ם|’ă·ḇō·ṯê·ḵem|your fathers up|H1|N-mpc | 2mp
 v6 מֵאֶ֥רֶץ|mê·’e·reṣ|out of the land|H776|Prep-m | N-fsc
 v6 מִצְרָֽיִם׃|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
@@ -294,7 +294,7 @@ v17 בְּעֵינֵ֣י|bə·‘ê·nê|in the sight|H5869|Prep-b | N-cdc
 v17 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v17 לִשְׁא֥וֹל|liš·’ō·wl|by asking|H7592|Prep-l | V-Qal-Inf
 v17 לָכֶ֖ם|lā·ḵem|for|H0|Prep | 2mp
-v17 מֶֽלֶךְ׃ס|me·leḵ|a king|H4428|N-ms
+v17 מֶֽלֶךְ׃|me·leḵ|a king|H4428|N-ms
 v18 וַיִּקְרָ֤א|way·yiq·rā|called|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v18 שְׁמוּאֵל֙|šə·mū·’êl|So Samuel|H8050|N-proper-ms
 v18 אֶל־|’el-|to|H413|Prep
@@ -334,7 +334,7 @@ v19 חַטֹּאתֵ֙ינוּ֙|ḥaṭ·ṭō·ṯê·nū|our sins|H2403|N-fpc
 v19 רָעָ֔ה|rā·‘āh|the evil|H7451|Adj-fs
 v19 לִשְׁאֹ֥ל|liš·’ōl|of asking|H7592|Prep-l | V-Qal-Inf
 v19 לָ֖נוּ|lā·nū|for|H0|Prep | 1cp
-v19 מֶֽלֶךְ׃ס|me·leḵ|a king|H4428|N-ms
+v19 מֶֽלֶךְ׃|me·leḵ|a king|H4428|N-ms
 v20 וַיֹּ֨אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 שְׁמוּאֵ֤ל|šə·mū·’êl|Samuel|H8050|N-proper-ms
 v20 אֶל־|’el-|...|H413|Prep
@@ -422,4 +422,4 @@ v25 גַּם־|gam-|both|H1571|Conj
 v25 אַתֶּ֥ם|’at·tem|you|H859|Pro-2mp
 v25 גַּֽם־|gam-|and|H1571|Conj
 v25 מַלְכְּכֶ֖ם|mal·kə·ḵem|your king|H4428|N-msc | 2mp
-v25 תִּסָּפֽוּ׃פ|tis·sā·p̄ū|will be swept away|H5595|V-Nifal-Imperf-2mp
+v25 תִּסָּפֽוּ׃|tis·sā·p̄ū|will be swept away|H5595|V-Nifal-Imperf-2mp

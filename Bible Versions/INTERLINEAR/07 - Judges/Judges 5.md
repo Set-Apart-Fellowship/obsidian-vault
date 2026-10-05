@@ -33,7 +33,7 @@ v4 מִשְּׂדֵ֣ה|miś·śə·ḏêh|from the land|H7704|Prep-m | N-msc
 v4 אֱד֔וֹם|’ĕ·ḏō·wm|of Edom|H123|N-proper-ms
 v4 אֶ֣רֶץ|’e·reṣ|the earth|H776|N-fs
 v4 רָעָ֔שָׁה|rā·‘ā·šāh|trembled|H7493|V-Qal-Perf-3fs
-v4 גַּם־|gam-||H1571|Conj
+v4 גַּם־|gam-|-|H1571|Conj
 v4 שָׁמַ֖יִם|šā·ma·yim|the heavens|H8064|N-mp
 v4 נָטָ֑פוּ|nā·ṭā·p̄ū|poured [out rain]|H5197|V-Qal-Perf-3cp
 v4 גַּם־|gam-|and|H1571|Conj
@@ -61,7 +61,7 @@ v6 אֳרָח֑וֹת|’o·rā·ḥō·wṯ|the highways|H734|N-cp
 v6 וְהֹלְכֵ֣י|wə·hō·lə·ḵê|and the travelers|H1980|Conj-w | V-Qal-Prtcpl-mpc
 v6 נְתִיב֔וֹת|nə·ṯî·ḇō·wṯ|...|H5410|N-fp
 v6 יֵלְכ֕וּ|yê·lə·ḵū|took|H1980|V-Qal-Imperf-3mp
-v6 אֳרָח֖וֹת|’o·rā·ḥō·wṯ|vvv|H734|N-cp
+v6 אֳרָח֖וֹת|’o·rā·ḥō·wṯ|...|H734|N-cp
 v6 עֲקַלְקַלּֽוֹת׃|‘ă·qal·qal·lō·wṯ|the byways|H6128|Adj-fp
 v7 חָדְל֧וּ|ḥā·ḏə·lū|ceased|H2308|V-Qal-Perf-3cp
 v7 פְרָז֛וֹן|p̄ə·rā·zō·wn|Life in the villages|H6520|N-ms
@@ -361,4 +361,4 @@ v31 בִּגְבֻרָת֑וֹ|biḡ·ḇu·rā·ṯōw|at its brightest|H1369|P
 v31 וַתִּשְׁקֹ֥ט|wat·tiš·qōṭ|had rest|H8252|Conj-w | V-Qal-ConsecImperf-3fs
 v31 הָאָ֖רֶץ|hā·’ā·reṣ|And the land|H776|Art | N-fs
 v31 אַרְבָּעִ֥ים|’ar·bā·‘îm|for forty|H705|Number-cp
-v31 שָׁנָֽה׃פ|šā·nāh|years|H8141|N-fs
+v31 שָׁנָֽה׃|šā·nāh|years|H8141|N-fs

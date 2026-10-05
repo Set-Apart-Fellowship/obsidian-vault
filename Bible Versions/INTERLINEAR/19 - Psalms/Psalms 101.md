@@ -39,7 +39,7 @@ v4 אֵדָֽע׃|’ê·ḏā‘|I will know|H3045|V-Qal-Imperf-1cs
 v5 מְלוֹשְׁנִי|mə·lō·šə·nī|Whoever slanders|H3960|V-Piel-Prtcpl-msc
 v5 בַסֵּ֨תֶר׀|ḇas·sê·ṯer|in secret|H5643|Prep-b, Art | N-ms
 v5 רֵעֵהוּ֮|rê·‘ê·hū|his neighbor|H7453|N-msc | 3ms
-v5 אוֹת֪וֹ|’ō·w·ṯōw|vvv|H853|DirObjM | 3ms
+v5 אוֹת֪וֹ|’ō·w·ṯōw|...|H853|DirObjM | 3ms
 v5 אַ֫צְמִ֥ית|’aṣ·mîṯ|I will put to silence|H6789|V-Hifil-Imperf-1cs
 v5 גְּֽבַהּ־|gə·ḇah-|the one with haughty|H1364|Adj-msc
 v5 עֵ֭ינַיִם|‘ê·na·yim|eyes|H5869|N-cd

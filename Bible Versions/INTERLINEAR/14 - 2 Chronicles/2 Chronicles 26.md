@@ -24,7 +24,7 @@ v2 אַחֲרֵ֥י|’a·ḥă·rê|after|H310|Prep
 v2 שְׁכַֽב־|šə·ḵaḇ-|rested|H7901|V-Qal-Inf
 v2 הַמֶּ֖לֶךְ|ham·me·leḵ|King [Amaziah]|H4428|Art | N-ms
 v2 עִם־|‘im-|with|H5973|Prep
-v2 אֲבֹתָֽיו׃פ|’ă·ḇō·ṯāw|his fathers|H1|N-mpc | 3ms
+v2 אֲבֹתָֽיו׃|’ă·ḇō·ṯāw|his fathers|H1|N-mpc | 3ms
 v3 בֶּן־|ben-|years old|H1121|N-msc
 v3 שֵׁ֨שׁ|šêš|was sixteen|H8337|Number-fs
 v3 עֶשְׂרֵ֤ה|‘eś·rêh|...|H6240|Number-fs
@@ -63,7 +63,7 @@ v5 דָּרְשׁ֣וֹ|dā·rə·šōw|he sought|H1875|V-Qal-Inf | 3ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v5 הִצְלִיח֖וֹ|hiṣ·lî·ḥōw|gave him success|H6743|V-Hifil-Perf-3ms | 3ms
-v5 הָאֱלֹהִֽים׃ס|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
+v5 הָאֱלֹהִֽים׃|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
 v6 וַיֵּצֵא֙|way·yê·ṣê|Uzziah went out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v6 וַיִּלָּ֣חֶם|way·yil·lā·ḥem|to wage war|H3898|Conj-w | V-Nifal-ConsecImperf-3ms
 v6 בַּפְּלִשְׁתִּ֔ים|bap·pə·liš·tîm|against the Philistines|H6430|Prep-b, Art | N-proper-mp
@@ -88,7 +88,7 @@ v7 פְּלִשְׁתִּ֧ים|pə·liš·tîm|the Philistines|H6430|N-proper-m
 v7 וְעַל־|wə·‘al-|against|H5921|Conj-w | Prep
 v7 הָעַרְבִיִּים|hå̄·ʿar·ḇī·yīm|the Arabs|H6163|Art | N-proper-mp
 v7 הַיֹּשְׁבִ֥ים|hay·yō·šə·ḇîm|living|H3427|Art | V-Qal-Prtcpl-mp
-v7 בְּגוּר־|bə·ḡūr-|vvv|H1485|Prep
+v7 בְּגוּר־|bə·ḡūr-|...|H1485|Prep
 v7 בָּ֖עַל|bā·‘al|in Gur-baal|H1485|Prep | N-proper-fs
 v7 וְהַמְּעוּנִֽים׃|wə·ham·mə·‘ū·nîm|and against the Meunites|H4586|Conj-w, Art | N-proper-mp
 v8 וַיִּתְּנ֧וּ|way·yit·tə·nū|brought|H5414|Conj-w | V-Qal-ConsecImperf-3mp
@@ -127,7 +127,7 @@ v10 כִּ֤י|kî|Since|H3588|Conj
 v10 מִקְנֶה־|miq·neh-|livestock|H4735|N-ms
 v10 רַּב֙|raḇ|many|H7227|Adj-ms
 v10 הָ֣יָה|hā·yāh|he had|H1961|V-Qal-Perf-3ms
-v10 ל֔וֹ|lōw||H0|Prep | 3ms
+v10 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v10 וּבַשְּׁפֵלָ֖ה|ū·ḇaš·šə·p̄ê·lāh|in the foothills|H8219|Conj-w, Prep-b, Art | N-fs
 v10 וּבַמִּישׁ֑וֹר|ū·ḇam·mî·šō·wr|and in the plain|H4334|Conj-w, Prep-b, Art | N-ms
 v10 אִכָּרִ֣ים|’ik·kā·rîm|he had farmers|H406|N-mp
@@ -137,7 +137,7 @@ v10 וּבַכַּרְמֶ֔ל|ū·ḇak·kar·mel|and in the fertile fields|H37
 v10 כִּֽי־|kî-|And since|H3588|Conj
 v10 אֹהֵ֥ב|’ō·hêḇ|a lover|H157|V-Qal-Prtcpl-ms
 v10 אֲדָמָ֖ה|’ă·ḏā·māh|of the soil|H127|N-fs
-v10 הָיָֽה׃ס|hā·yāh|he was|H1961|V-Qal-Perf-3ms
+v10 הָיָֽה׃|hā·yāh|he was|H1961|V-Qal-Perf-3ms
 v11 וַיְהִ֣י|way·hî|had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v11 לְעֻזִּיָּ֡הוּ|lə·‘uz·zî·yā·hū|Uzziah|H5818|Prep-l | N-proper-ms
 v11 חַיִל֩|ḥa·yil|an army|H2428|N-ms
@@ -214,7 +214,7 @@ v15 וּבָאֲבָנִ֖ים|ū·ḇā·’ă·ḇā·nîm|stones|H68|Conj-w,
 v15 גְּדֹל֑וֹת|gə·ḏō·lō·wṯ|and catapult large|H1419|Adj-fp
 v15 וַיֵּצֵ֤א|way·yê·ṣê|spread|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v15 שְׁמוֹ֙|šə·mōw|So his fame|H8034|N-msc | 3ms
-v15 עַד־|‘aḏ-||H5704|Prep
+v15 עַד־|‘aḏ-|-|H5704|Prep
 v15 לְמֵ֣רָח֔וֹק|lə·mê·rā·ḥō·wq|far [and wide]|H7350|Prep-l, Prep-m | Adj-ms
 v15 כִּֽי־|kî-|for|H3588|Conj
 v15 הִפְלִ֥יא|hip̄·lî|tremendously|H6381|V-Hifil-Perf-3ms
@@ -253,9 +253,9 @@ v18 עַל־|‘al-|against|H5921|Prep
 v18 עֻזִּיָּ֣הוּ|‘uz·zî·yā·hū|Uzziah|H5818|N-proper-ms
 v18 הַמֶּ֗לֶךְ|ham·me·leḵ|King|H4428|Art | N-ms
 v18 וַיֹּ֤אמְרוּ|way·yō·mə·rū|and said|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v18 לוֹ֙|lōw||H0|Prep | 3ms
+v18 לוֹ֙|lōw|-|H0|Prep | 3ms
 v18 לֹא־|lō-|you have no|H3808|Adv-NegPrt
-v18 לְךָ֣|lə·ḵā||H0|Prep | 2ms
+v18 לְךָ֣|lə·ḵā|-|H0|Prep | 2ms
 v18 עֻזִּיָּ֗הוּ|‘uz·zî·yā·hū|Uzziah|H5818|N-proper-ms
 v18 לְהַקְטִיר֙|lə·haq·ṭîr|right to offer incense|H6999|Prep-l | V-Hifil-Inf
 v18 לַֽיהוָ֔ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
@@ -266,12 +266,12 @@ v18 אַהֲרֹ֛ן|’a·hă·rōn|of Aaron|H175|N-proper-ms
 v18 הַמְקֻדָּשִׁ֖ים|ham·qud·dā·šîm|are consecrated|H6942|Art | V-Pual-Prtcpl-mp
 v18 לְהַקְטִ֑יר|lə·haq·ṭîr|to burn incense|H6999|Prep-l | V-Hifil-Inf
 v18 צֵ֤א|ṣê|Leave|H3318|V-Qal-Imp-ms
-v18 מִן־|min-||H4480|Prep
+v18 מִן־|min-|-|H4480|Prep
 v18 הַמִּקְדָּשׁ֙|ham·miq·dāš|the sanctuary|H4720|Art | N-ms
 v18 כִּ֣י|kî|for|H3588|Conj
 v18 מָעַ֔לְתָּ|mā·‘al·tā|you have acted unfaithfully|H4603|V-Qal-Perf-2ms
 v18 וְלֹֽא־|wə·lō-|you will not|H3808|Conj-w | Adv-NegPrt
-v18 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v18 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v18 לְכָב֖וֹד|lə·ḵā·ḇō·wḏ|receive honor|H3519|Prep-l | N-ms
 v18 מֵיְהוָ֥ה|Yah·weh|from the LORD|H3068|Prep-m | N-proper-ms
 v18 אֱלֹהִֽים׃|’ĕ·lō·hîm|God|H430|N-mp
@@ -321,7 +321,7 @@ v21 עַד־|‘aḏ-|until|H5704|Prep
 v21 י֣וֹם|yō·wm|the day|H3117|N-msc
 v21 מוֹת֗וֹ|mō·w·ṯōw|of his death|H4194|N-msc | 3ms
 v21 וַיֵּ֜שֶׁב|way·yê·šeḇ|He lived|H3427|Conj-w | V-Qal-ConsecImperf-3ms
-v21 בֵּ֤ית|bêṯ|vvv|H1004|N-msc
+v21 בֵּ֤ית|bêṯ|...|H1004|N-msc
 v21 הַחָפְשׁוּת|ha·ḥå̄·p̄ə·šūṯ|in isolation|H2669|Art | N-fs
 v21 מְצֹרָ֔ע|mə·ṣō·rā‘|leprous|H6879|V-Pual-Prtcpl-ms
 v21 כִּ֥י|kî|and|H3588|Conj
@@ -366,4 +366,4 @@ v23 ה֑וּא|hū|He [was]|H1931|Pro-3ms
 v23 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v23 יוֹתָ֥ם|yō·w·ṯām|Jotham|H3147|N-proper-ms
 v23 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v23 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v23 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

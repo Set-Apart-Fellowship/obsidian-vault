@@ -7,7 +7,7 @@ v1 עִמִּ֗י|‘im·mî|with me|H5973|Prep | 1cs
 v1 בְּמַלְכ֛וּת|bə·mal·ḵūṯ|during the reign|H4438|Prep-b | N-fsc
 v1 אַרְתַּחְשַׁ֥סְתְּא|’ar·taḥ·šast|Artaxerxes|H783|N-proper-ms
 v1 הַמֶּ֖לֶךְ|ham·me·leḵ|of King|H4428|Art | N-ms
-v1 מִבָּבֶֽל׃ס|mib·bā·ḇel|from Babylon|H894|Prep-m | N-proper-fs
+v1 מִבָּבֶֽל׃|mib·bā·ḇel|from Babylon|H894|Prep-m | N-proper-fs
 v2 מִבְּנֵ֤י|mib·bə·nê|from the descendants|H1121|Prep-m | N-mpc
 v2 פִֽינְחָס֙|p̄î·nə·ḥās|of Phinehas|H6372|N-proper-ms
 v2 גֵּֽרְשֹׁ֔םס|gē·rə·šō·ms|Gershom|H1647|N-proper-ms
@@ -16,7 +16,7 @@ v2 אִיתָמָ֖ר|’î·ṯā·mār|of Ithamar|H385|N-proper-ms
 v2 דָּנִיֵּ֑אלס|då̄·nī·yē·ls|Daniel|H1841|N-proper-ms
 v2 מִבְּנֵ֥י|mib·bə·nê|from the descendants of|H1121|Prep-m | N-mpc
 v2 דָוִ֖יד|ḏā·wîḏ|David|H1732|N-proper-ms
-v2 חַטּֽוּשׁ׃ס|ḥaṭ·ṭūš|Hattush|H2407|N-proper-ms
+v2 חַטּֽוּשׁ׃|ḥaṭ·ṭūš|Hattush|H2407|N-proper-ms
 v3 מִבְּנֵ֣י|mib·bə·nê|of the descendants|H1121|Prep-m | N-mpc
 v3 שְׁכַנְיָ֔הס|šə·ḵan·yå̄·hs|of Shecaniah|H7935|N-proper-ms
 v3 מִבְּנֵ֥י|mib·bə·nê|from the descendants|H1121|Prep-m | N-mpc
@@ -26,16 +26,16 @@ v3 וְעִמּ֛וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v3 הִתְיַחֵ֥שׂ|hiṯ·ya·ḥêś|[were] registered|H3187|V-Hitpael-Inf
 v3 לִזְכָרִ֖ים|liz·ḵā·rîm|men|H2145|Prep-l | N-mp
 v3 מֵאָ֥ה|mê·’āh|150|H3967|Number-fs
-v3 וַחֲמִשִּֽׁים׃ס|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
+v3 וַחֲמִשִּֽׁים׃|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
 v4 מִבְּנֵי֙|mib·bə·nê|from the descendants|H1121|Prep-m | N-mpc
-v4 פַּחַ֣ת|pa·ḥaṯ|vvv|H6355|
+v4 פַּחַ֣ת|pa·ḥaṯ|...|H6355|
 v4 מוֹאָ֔ב|mō·w·’āḇ|of Pahath-Moab|H6355|N-proper-fs
 v4 אֶלְיְהֽוֹעֵינַ֖י|’el·yə·hō·w·‘ê·nay|Eliehoenai|H454|N-proper-ms
 v4 בֶּן־|ben-|son|H1121|N-msc
 v4 זְרַֽחְיָ֑ה|zə·raḥ·yāh|of Zerahiah|H2228|N-proper-ms
 v4 וְעִמּ֖וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v4 מָאתַ֥יִם|mā·ṯa·yim|200|H3967|Number-fd
-v4 הַזְּכָרִֽים׃ס|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
+v4 הַזְּכָרִֽים׃|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
 v5 מִבְּנֵ֥י|mib·bə·nê|from the descendants [of Zattu]|H1121|Prep-m | N-mpc
 v5 שְׁכַנְיָ֖ה|šə·ḵan·yāh|Shecaniah|H7935|N-proper-ms
 v5 בֶּן־|ben-|son|H1121|N-msc
@@ -43,7 +43,7 @@ v5 יַחֲזִיאֵ֑ל|ya·ḥă·zî·’êl|of Jahaziel|H3166|N-proper-ms
 v5 וְעִמּ֕וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v5 שְׁלֹ֥שׁ|šə·lōš|300|H7969|Number-fsc
 v5 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
-v5 הַזְּכָרִֽים׃ס|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
+v5 הַזְּכָרִֽים׃|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
 v6 וּמִבְּנֵ֣י|ū·mib·bə·nê|from the descendants|H1121|Conj-w, Prep-m | N-mpc
 v6 עָדִ֔ין|‘ā·ḏîn|of Adin|H5720|N-proper-ms
 v6 עֶ֖בֶד|‘e·ḇeḏ|Ebed|H5651|N-proper-ms
@@ -51,7 +51,7 @@ v6 בֶּן־|ben-|son|H1121|N-msc
 v6 יוֹנָתָ֑ן|yō·w·nā·ṯān|of Jonathan|H3129|N-proper-ms
 v6 וְעִמּ֖וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v6 חֲמִשִּׁ֥ים|ḥă·miš·šîm|50|H2572|Number-cp
-v6 הַזְּכָרִֽים׃ס|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
+v6 הַזְּכָרִֽים׃|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
 v7 וּמִבְּנֵ֣י|ū·mib·bə·nê|from the descendants|H1121|Conj-w, Prep-m | N-mpc
 v7 עֵילָ֔ם|‘ê·lām|of Elam|H5867|N-proper-ms
 v7 יְשַֽׁעְיָ֖ה|yə·ša‘·yāh|Jeshaiah|H3470|N-proper-ms
@@ -59,7 +59,7 @@ v7 בֶּן־|ben-|son|H1121|N-msc
 v7 עֲתַלְיָ֑ה|‘ă·ṯal·yāh|of Athaliah|H6271|N-proper-ms
 v7 וְעִמּ֖וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v7 שִׁבְעִ֥ים|šiḇ·‘îm|70|H7657|Number-cp
-v7 הַזְּכָרִֽים׃ס|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
+v7 הַזְּכָרִֽים׃|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
 v8 וּמִבְּנֵ֣י|ū·mib·bə·nê|from the descendants|H1121|Conj-w, Prep-m | N-mpc
 v8 שְׁפַטְיָ֔ה|šə·p̄aṭ·yāh|of Shephatiah|H8203|N-proper-ms
 v8 זְבַדְיָ֖ה|zə·ḇaḏ·yāh|Zebadiah|H2069|N-proper-ms
@@ -67,7 +67,7 @@ v8 בֶּן־|ben-|son|H1121|N-msc
 v8 מִֽיכָאֵ֑ל|mî·ḵā·’êl|of Michael|H4317|N-proper-ms
 v8 וְעִמּ֖וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v8 שְׁמֹנִ֥ים|šə·mō·nîm|80|H8084|Number-cp
-v8 הַזְּכָרִֽים׃ס|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
+v8 הַזְּכָרִֽים׃|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
 v9 מִבְּנֵ֣י|mib·bə·nê|from the descendants|H1121|Prep-m | N-mpc
 v9 יוֹאָ֔ב|yō·w·’āḇ|of Joab|H3097|N-proper-ms
 v9 עֹבַדְיָ֖ה|‘ō·ḇaḏ·yāh|Obadiah|H5662|N-proper-ms
@@ -77,7 +77,7 @@ v9 וְעִמּ֕וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v9 מָאתַ֛יִם|mā·ṯa·yim|218|H3967|Number-fd
 v9 וּשְׁמֹנָ֥ה|ū·šə·mō·nāh|...|H8083|Conj-w | Number-ms
 v9 עָשָׂ֖ר|‘ā·śār|...|H6240|Number-msc
-v9 הַזְּכָרִֽים׃ס|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
+v9 הַזְּכָרִֽים׃|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
 v10 וּמִבְּנֵ֥י|ū·mib·bə·nê|from the descendants [of Bani]|H1121|Conj-w, Prep-m | N-mpc
 v10 שְׁלוֹמִ֖ית|šə·lō·w·mîṯ|Shelomith|H8019|N-proper-ms
 v10 בֶּן־|ben-|son|H1121|N-msc
@@ -85,7 +85,7 @@ v10 יוֹסִפְיָ֑ה|yō·w·sip̄·yāh|of Josiphiah|H3131|N-proper-ms
 v10 וְעִמּ֕וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v10 מֵאָ֥ה|mê·’āh|160|H3967|Number-fs
 v10 וְשִׁשִּׁ֖ים|wə·šiš·šîm|...|H8346|Conj-w | Number-cp
-v10 הַזְּכָרִֽים׃ס|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
+v10 הַזְּכָרִֽים׃|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
 v11 וּמִבְּנֵ֣י|ū·mib·bə·nê|from the descendants|H1121|Conj-w, Prep-m | N-mpc
 v11 בֵבַ֔י|ḇê·ḇay|of Bebai|H893|N-proper-ms
 v11 זְכַרְיָ֖ה|zə·ḵar·yāh|Zechariah|H2148|N-proper-ms
@@ -94,7 +94,7 @@ v11 בֵּבָ֑י|bê·ḇāy|of Bebai|H893|N-proper-ms
 v11 וְעִמּ֕וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v11 עֶשְׂרִ֥ים|‘eś·rîm|28|H6242|Number-cp
 v11 וּשְׁמֹנָ֖ה|ū·šə·mō·nāh|...|H8083|Conj-w | Number-ms
-v11 הַזְּכָרִֽים׃ס|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
+v11 הַזְּכָרִֽים׃|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
 v12 וּמִבְּנֵ֣י|ū·mib·bə·nê|from the descendants|H1121|Conj-w, Prep-m | N-mpc
 v12 עַזְגָּ֔ד|‘az·gāḏ|of Azgad|H5803|N-proper-ms
 v12 יוֹחָנָ֖ן|yō·w·ḥā·nān|Johanan|H3110|N-proper-ms
@@ -103,7 +103,7 @@ v12 הַקָּטָ֑ן|haq·qā·ṭān|of Hakkatan|H6997|Art | N-proper-ms
 v12 וְעִמּ֕וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v12 מֵאָ֥ה|mê·’āh|110|H3967|Number-fs
 v12 וַעֲשָׂרָ֖ה|wa·‘ă·śā·rāh|...|H6235|Conj-w | Number-ms
-v12 הַזְּכָרִֽים׃ס|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
+v12 הַזְּכָרִֽים׃|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
 v13 וּמִבְּנֵ֣י|ū·mib·bə·nê|descendants|H1121|Conj-w, Prep-m | N-mpc
 v13 אֲדֹנִיקָם֮|’ă·ḏō·nî·qām|of Adonikam|H140|N-proper-ms
 v13 אַחֲרֹנִים֒|’a·ḥă·rō·nîm|from the later|H314|Adj-mp
@@ -114,14 +114,14 @@ v13 יְעִיאֵ֣ל|yə·‘î·’êl|Jeiel|H3273|N-proper-ms
 v13 וּֽשְׁמַעְיָ֑ה|ū·šə·ma‘·yāh|and Shemaiah|H8098|Conj-w | N-proper-ms
 v13 וְעִמָּהֶ֖ם|wə·‘im·mā·hem|and with them|H5973|Conj-w | Prep | 3mp
 v13 שִׁשִּׁ֥ים|šiš·šîm|60|H8346|Number-cp
-v13 הַזְּכָרִֽים׃ס|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
+v13 הַזְּכָרִֽים׃|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
 v14 וּמִבְּנֵ֥י|ū·mib·bə·nê|and from the descendants|H1121|Conj-w, Prep-m | N-mpc
 v14 בִגְוַ֖י|ḇiḡ·way|of Bigvai|H902|N-proper-ms
 v14 עוּתַ֣י|‘ū·ṯay|[both] Uthai|H5793|N-proper-ms
 v14 וְזָבוּד|wə·zå̄·ḇūḏ|and Zaccur|H2139|Conj-w | N-proper-ms
 v14 וְעִמּ֖וֹ|wə·‘im·mōw|and with them|H5973|Conj-w | Prep | 3ms
 v14 שִׁבְעִ֥ים|šiḇ·‘îm|70|H7657|Number-cp
-v14 הַזְּכָרִֽים׃פ|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
+v14 הַזְּכָרִֽים׃|haz·zə·ḵā·rîm|men|H2145|Art | N-mp
 v15 וָֽאֶקְבְּצֵ֗ם|wā·’eq·bə·ṣêm|Now I assembled [these exiles]|H6908|Conj-w | V-Qal-ConsecImperf-1cs | 3mp
 v15 אֶל־|’el-|at|H413|Prep
 v15 הַנָּהָר֙|han·nā·hār|the canal|H5104|Art | N-ms
@@ -203,7 +203,7 @@ v19 מִבְּנֵ֣י|mib·bə·nê|from the descendants|H1121|Prep-m | N-mpc
 v19 מְרָרִ֑י|mə·rā·rî|of Merari|H4847|N-proper-ms
 v19 אֶחָ֥יו|’e·ḥāw|and his brothers|H251|N-mpc | 3ms
 v19 וּבְנֵיהֶ֖ם|ū·ḇə·nê·hem|and their sons|H1121|Conj-w | N-mpc | 3mp
-v19 עֶשְׂרִֽים׃ס|‘eś·rîm|20 men|H6242|Number-cp
+v19 עֶשְׂרִֽים׃|‘eś·rîm|20 men|H6242|Number-cp
 v20 וּמִן־|ū·min-|of|H4480|Conj-w | Prep
 v20 הַנְּתִינִ֗ים|han·nə·ṯî·nîm|the temple servants|H5411|Art | N-mp
 v20 שֶׁנָּתַ֨ן|šen·nā·ṯan|had appointed|H5414|Pro-r | V-Qal-Perf-3ms
@@ -265,7 +265,7 @@ v23 מֵאֱלֹהֵ֖ינוּ|mê·’ĕ·lō·hê·nū|our God|H430|Prep-m | N
 v23 עַל־|‘al-|about|H5921|Prep
 v23 זֹ֑את|zōṯ|this|H2063|Pro-fs
 v23 וַיֵּעָתֵ֖ר|way·yê·‘ā·ṯêr|and He granted our request|H6279|Conj-w | V-Nifal-ConsecImperf-3ms
-v23 לָֽנוּ׃|lā·nū||H0|Prep | 1cp
+v23 לָֽנוּ׃|lā·nū|-|H0|Prep | 1cp
 v24 וָאַבְדִּ֛ילָה|wā·’aḇ·dî·lāh|Then I set apart|H914|Conj-w | V-Hifil-ConsecImperf-1cs | 3fs
 v24 מִשָּׂרֵ֥י|miś·śā·rê|of the leading|H8269|Prep-m | N-mpc
 v24 הַכֹּהֲנִ֖ים|hak·kō·hă·nîm|priests|H3548|Art | N-mp
@@ -359,7 +359,7 @@ v30 וְהַכֵּלִ֑ים|wə·hak·kê·lîm|and sacred articles|H3627|Conj-
 v30 לְהָבִ֥יא|lə·hā·ḇî|to be taken|H935|Prep-l | V-Hifil-Inf
 v30 לִירוּשָׁלִַ֖ם|lî·rū·šā·lim|in Jerusalem|H3389|Prep-l | N-proper-fs
 v30 לְבֵ֥ית|lə·ḇêṯ|to the house|H1004|Prep-l | N-msc
-v30 אֱלֹהֵֽינוּ׃פ|’ĕ·lō·hê·nū|of our God|H430|N-mpc | 1cp
+v30 אֱלֹהֵֽינוּ׃|’ĕ·lō·hê·nū|of our God|H430|N-mpc | 1cp
 v31 וַֽנִּסְעָ֞ה|wan·nis·‘āh|we set out|H5265|Conj-w | V-Qal-ConsecImperf-1cp | 3fs
 v31 מִנְּהַ֣ר|min·nə·har|Canal|H5104|Prep-m | N-msc
 v31 אַֽהֲוָ֗א|’a·hă·wā|from the Ahava|H163|N-proper-fs
@@ -418,7 +418,7 @@ v34 וַיִּכָּתֵ֥ב|way·yik·kā·ṯêḇ|was recorded|H3789|Conj-w |
 v34 כָּֽל־|kāl-|and the total|H3605|N-msc
 v34 הַמִּשְׁקָ֖ל|ham·miš·qāl|weight|H4948|Art | N-ms
 v34 בָּעֵ֥ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
-v34 הַהִֽיא׃פ|ha·hî|at that|H1931|Art | Pro-3fs
+v34 הַהִֽיא׃|ha·hî|at that|H1931|Art | Pro-3fs
 v35 הַ֠בָּאִים|hab·bā·’îm|who had returned|H935|Art | V-Qal-Prtcpl-mp
 v35 מֵֽהַשְּׁבִ֨י|mê·haš·šə·ḇî|from captivity|H7628|Prep-m, Art | N-ms
 v35 בְנֵֽי־|ḇə·nê-|Then the exiles|H1121|N-mpc
@@ -445,7 +445,7 @@ v35 שְׁנֵ֣ים|šə·nêm|of 12|H8147|Number-md
 v35 עָשָׂ֑ר|‘ā·śār|...|H6240|Number-ms
 v35 הַכֹּ֖ל|hak·kōl|All [this was]|H3605|Art | N-ms
 v35 עוֹלָ֥ה|‘ō·w·lāh|a burnt offering|H5930|N-fs
-v35 לַיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v35 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v36 וַֽיִּתְּנ֣וּ׀|way·yit·tə·nū|They also delivered|H5414|Conj-w | V-Qal-ConsecImperf-3mp
 v36 אֶת־|’eṯ-|-|H853|DirObjM
 v36 דָּתֵ֣י|dā·ṯê|edicts|H1881|N-fpc
@@ -460,4 +460,4 @@ v36 אֶת־|’eṯ-|-|H853|DirObjM
 v36 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
 v36 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v36 בֵּֽית־|bêṯ-|and the house|H1004|N-msc
-v36 הָאֱלֹהִֽים׃ס|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
+v36 הָאֱלֹהִֽים׃|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp

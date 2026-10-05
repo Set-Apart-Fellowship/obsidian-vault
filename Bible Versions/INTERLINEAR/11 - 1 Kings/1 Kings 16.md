@@ -29,9 +29,9 @@ v2 לְהַכְעִיסֵ֖נִי|lə·haḵ·‘î·sê·nî|and to provoke Me 
 v2 בְּחַטֹּאתָֽם׃|bə·ḥaṭ·ṭō·ṯām|by their sins|H2403|Prep-b | N-fpc | 3mp
 v3 הִנְנִ֥י|hin·nî|So now|H2005|Interjection | 1cs
 v3 מַבְעִ֛יר|maḇ·‘îr|I will consume|H1197|V-Hifil-Prtcpl-ms
-v3 אַחֲרֵ֥י|’a·ḥă·rê||H310|Prep
+v3 אַחֲרֵ֥י|’a·ḥă·rê|-|H310|Prep
 v3 בַעְשָׁ֖א|ḇa‘·šā|Baasha|H1201|N-proper-ms
-v3 וְאַחֲרֵ֣י|wə·’a·ḥă·rê||H310|Conj-w | Prep
+v3 וְאַחֲרֵ֣י|wə·’a·ḥă·rê|-|H310|Conj-w | Prep
 v3 בֵית֑וֹ|ḇê·ṯōw|and his house|H1004|N-msc | 3ms
 v3 וְנָֽתַתִּי֙|wə·nā·ṯat·tî|and I will make|H5414|Conj-w | V-Qal-ConjPerf-1cs
 v3 אֶת־|’eṯ-|-|H853|DirObjM
@@ -46,7 +46,7 @@ v4 בָּעִ֔יר|bā·‘îr|in the city|H5892|Prep-b, Art | N-fs
 v4 יֹֽאכְל֖וּ|yō·ḵə·lū|will be eaten|H398|V-Qal-Imperf-3mp
 v4 הַכְּלָבִ֑ים|hak·kə·lā·ḇîm|by dogs|H3611|Art | N-mp
 v4 וְהַמֵּ֥ת|wə·ham·mêṯ|and anyone who dies|H4191|Conj-w, Art | V-Qal-Prtcpl-ms
-v4 לוֹ֙|lōw||H0|Prep | 3ms
+v4 לוֹ֙|lōw|-|H0|Prep | 3ms
 v4 בַּשָּׂדֶ֔ה|baś·śā·ḏeh|in the field|H7704|Prep-b, Art | N-ms
 v4 יֹאכְל֖וּ|yō·ḵə·lū|will be eaten|H398|V-Qal-Imperf-3mp
 v4 ע֥וֹף|‘ō·wp̄|by the birds|H5775|N-msc
@@ -105,11 +105,11 @@ v7 יָרָבְעָ֑ם|yā·rā·ḇə·‘ām|of Jeroboam|H3379|N-proper-ms
 v7 וְעַ֥ל|wə·‘al|and also|H5921|Conj-w | Prep
 v7 אֲשֶׁר־|’ă·šer-|because|H834|Pro-r
 v7 הִכָּ֖ה|hik·kāh|Baasha had struck down|H5221|V-Hifil-Perf-3ms
-v7 אֹתֽוֹ׃פ|’ō·ṯōw|[the house of Jeroboam]|H853|DirObjM | 3ms
+v7 אֹתֽוֹ׃|’ō·ṯōw|[the house of Jeroboam]|H853|DirObjM | 3ms
 v8 בִּשְׁנַ֨ת|biš·naṯ|year|H8141|Prep-b | N-fsc
 v8 עֶשְׂרִ֤ים|‘eś·rîm|In the twenty-sixth|H6242|Number-cp
 v8 וָשֵׁשׁ֙|wā·šêš|...|H8337|Conj-w | Number-fs
-v8 שָׁנָ֔ה|šā·nāh||H8141|N-fs
+v8 שָׁנָ֔ה|šā·nāh|-|H8141|N-fs
 v8 לְאָסָ֖א|lə·’ā·sā|of Asa's|H609|Prep-l | N-proper-ms
 v8 מֶ֣לֶךְ|me·leḵ|reign|H4428|N-msc
 v8 יְהוּדָ֑ה|yə·hū·ḏāh|over Judah|H3063|N-proper-ms
@@ -134,7 +134,7 @@ v9 שֹׁתֶ֣ה|šō·ṯeh|getting drunk|H8354|V-Qal-Prtcpl-ms
 v9 שִׁכּ֔וֹר|šik·kō·wr|...|H7910|Adj-ms
 v9 בֵּ֣ית|bêṯ|in the house|H1004|N-msc
 v9 אַרְצָ֔א|’ar·ṣā|of Arza|H777|N-proper-ms
-v9 אֲשֶׁ֥ר|’ă·šer||H834|Pro-r
+v9 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v9 עַל־|‘al-|the steward|H5921|Prep
 v9 הַבַּ֖יִת|hab·ba·yiṯ|of [his] household|H1004|Art | N-ms
 v9 בְּתִרְצָֽה׃|bə·ṯir·ṣāh|[there]|H8656|Prep-b | N-proper-fs
@@ -162,7 +162,7 @@ v11 בֵּ֣ית|bêṯ|household|H1004|N-msc
 v11 בַּעְשָׁ֔א|ba‘·šā|of Baasha|H1201|N-proper-ms
 v11 לֹֽא־|lō-|He did not|H3808|Adv-NegPrt
 v11 הִשְׁאִ֥יר|hiš·’îr|leave|H7604|V-Hifil-Perf-3ms
-v11 ל֖וֹ|lōw||H0|Prep | 3ms
+v11 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v11 מַשְׁתִּ֣ין|maš·tîn|a single male|H8366|V-Qal-Prtcpl-ms
 v11 בְּקִ֑יר|bə·qîr|...|H7023|Prep-b | N-ms
 v11 וְגֹאֲלָ֖יו|wə·ḡō·’ă·lāw|whether a kinsman|H1350|Conj-w | V-Qal-Prtcpl-mpc | 3ms
@@ -215,7 +215,7 @@ v14 סֵ֛פֶר|sê·p̄er|the Book|H5612|N-msc
 v14 דִּבְרֵ֥י|diḇ·rê|of the Chronicles|H1697|N-mpc
 v14 הַיָּמִ֖ים|hay·yā·mîm|...|H3117|Art | N-mp
 v14 לְמַלְכֵ֥י|lə·mal·ḵê|of the Kings|H4428|Prep-l | N-mpc
-v14 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v14 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v15 בִּשְׁנַת֩|biš·naṯ|year|H8141|Prep-b | N-fsc
 v15 עֶשְׂרִ֨ים|‘eś·rîm|In the twenty-seventh|H6242|Number-cp
 v15 וָשֶׁ֜בַע|wā·še·ḇa‘|...|H7651|Conj-w | Number-fs
@@ -279,7 +279,7 @@ v18 הַמֶּ֑לֶךְ|ham·me·leḵ|of the royal|H4428|Art | N-ms
 v18 וַיִּשְׂרֹ֨ף|way·yiś·rōp̄|and burned it down|H8313|Conj-w | V-Qal-ConsecImperf-3ms
 v18 עָלָ֧יו|‘ā·lāw|upon himself|H5921|Prep | 3ms
 v18 אֶת־|’eṯ-|-|H853|DirObjM
-v18 בֵּֽית־|bêṯ-||H1004|N-msc
+v18 בֵּֽית־|bêṯ-|-|H1004|N-msc
 v18 מֶ֛לֶךְ|me·leḵ|-|H4428|N-ms
 v18 בָּאֵ֖שׁ|bā·’êš|...|H784|Prep-b, Art | N-cs
 v18 וַיָּמֹֽת׃|way·yā·mōṯ|So he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
@@ -304,7 +304,7 @@ v20 וְיֶ֙תֶר֙|wə·ye·ṯer|As for the rest|H3499|Conj-w | N-msc
 v20 דִּבְרֵ֣י|diḇ·rê|of the acts|H1697|N-mpc
 v20 זִמְרִ֔י|zim·rî|of Zimri|H2174|N-proper-ms
 v20 וְקִשְׁר֖וֹ|wə·qiš·rōw|and the treason|H7195|Conj-w | N-msc | 3ms
-v20 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v20 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v20 קָשָׁ֑ר|qā·šār|he committed|H7194|V-Qal-Perf-3ms
 v20 הֲלֹֽא־|hă·lō-|not|H3808|Adv-NegPrt
 v20 הֵ֣ם|hêm|[are] they|H1992|Pro-3mp
@@ -314,7 +314,7 @@ v20 סֵ֛פֶר|sê·p̄er|the Book|H5612|N-msc
 v20 דִּבְרֵ֥י|diḇ·rê|of the Chronicles|H1697|N-mpc
 v20 הַיָּמִ֖ים|hay·yā·mîm|...|H3117|Art | N-mp
 v20 לְמַלְכֵ֥י|lə·mal·ḵê|of the Kings|H4428|Prep-l | N-mpc
-v20 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v20 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v21 אָ֧ז|’āz|At that time|H227|Adv
 v21 יֵחָלֵ֛ק|yê·ḥā·lêq|were divided|H2505|V-Nifal-Imperf-3ms
 v21 הָעָ֥ם|hā·‘ām|the people|H5971|Art | N-ms
@@ -346,11 +346,11 @@ v22 גִּינַ֑ת|gî·naṯ|of Ginath|H1527|N-proper-ms
 v22 וַיָּ֣מָת|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v22 תִּבְנִ֔י|tiḇ·nî|So Tibni|H8402|N-proper-ms
 v22 וַיִּמְלֹ֖ךְ|way·yim·lōḵ|became king|H4427|Conj-w | V-Qal-ConsecImperf-3ms
-v22 עָמְרִֽי׃פ|‘ā·mə·rî|and Omri|H6018|N-proper-ms
+v22 עָמְרִֽי׃|‘ā·mə·rî|and Omri|H6018|N-proper-ms
 v23 בִּשְׁנַת֩|biš·naṯ|year|H8141|Prep-b | N-fsc
 v23 שְׁלֹשִׁ֨ים|šə·lō·šîm|In the thirty-first|H7970|Number-cp
 v23 וְאַחַ֜ת|wə·’a·ḥaṯ|...|H259|Conj-w | Number-fsc
-v23 שָׁנָ֗ה|šā·nāh||H8141|N-fs
+v23 שָׁנָ֗ה|šā·nāh|-|H8141|N-fs
 v23 לְאָסָא֙|lə·’ā·sā|of Asa's|H609|Prep-l | N-proper-ms
 v23 מֶ֣לֶךְ|me·leḵ|reign|H4428|N-msc
 v23 יְהוּדָ֔ה|yə·hū·ḏāh|over Judah|H3063|N-proper-ms
@@ -366,7 +366,7 @@ v23 מָלַ֥ךְ|mā·laḵ|-|H4427|V-Qal-Perf-3ms
 v23 שֵׁשׁ־|šêš-|six|H8337|Number-fsc
 v23 שָׁנִֽים׃|šā·nîm|[of them]|H8141|N-fp
 v24 וַיִּ֜קֶן|way·yi·qen|He bought|H7069|Conj-w | V-Qal-ConsecImperf-3ms
-v24 אֶת־|’eṯ-||H853|DirObjM
+v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 הָהָ֥ר|hā·hār|the hill|H2022|Art | N-ms
 v24 שֹׁמְר֛וֹן|šō·mə·rō·wn|of Samaria|H8111|N-proper-fs
 v24 מֵ֥אֶת|mê·’eṯ|from|H854|Prep | DirObjM
@@ -440,7 +440,7 @@ v28 בְּשֹׁמְר֑וֹן|bə·šō·mə·rō·wn|in Samaria|H8111|Prep-b |
 v28 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v28 אַחְאָ֥ב|’aḥ·’āḇ|Ahab|H256|N-proper-ms
 v28 בְּנ֖וֹ|bə·nōw|and his son|H1121|N-msc | 3ms
-v28 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v28 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v29 וְאַחְאָ֣ב|wə·’aḥ·’āḇ|Ahab|H256|Conj-w | N-proper-ms
 v29 בֶּן־|ben-|son|H1121|N-msc
 v29 עָמְרִ֗י|‘ā·mə·rî|of Omri|H6018|N-proper-ms
@@ -450,7 +450,7 @@ v29 יִשְׂרָאֵ֔ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v29 בִּשְׁנַ֨ת|biš·naṯ|year|H8141|Prep-b | N-fsc
 v29 שְׁלֹשִׁ֤ים|šə·lō·šîm|In the thirty-eighth|H7970|Number-cp
 v29 וּשְׁמֹנֶה֙|ū·šə·mō·neh|...|H8083|Conj-w | Number-fs
-v29 שָׁנָ֔ה|šā·nāh||H8141|N-fs
+v29 שָׁנָ֔ה|šā·nāh|-|H8141|N-fs
 v29 לְאָסָ֖א|lə·’ā·sā|of Asa's|H609|Prep-l | N-proper-ms
 v29 מֶ֣לֶךְ|me·leḵ|reign|H4428|N-msc
 v29 יְהוּדָ֑ה|yə·hū·ḏāh|over Judah|H3063|N-proper-ms
@@ -524,7 +524,7 @@ v33 לְפָנָֽיו׃|lə·p̄ā·nāw|before him|H6440|Prep-l | N-cpc | 3ms
 v34 בְּיָמָ֞יו|bə·yā·māw|In [Ahab's] days|H3117|Prep-b | N-mpc | 3ms
 v34 בָּנָ֥ה|bā·nāh|rebuilt|H1129|V-Qal-Perf-3ms
 v34 חִיאֵ֛ל|ḥî·’êl|Hiel|H2419|N-proper-fs
-v34 בֵּ֥ית|bêṯ|vvv|H1017|Prep
+v34 בֵּ֥ית|bêṯ|...|H1017|Prep
 v34 הָאֱלִ֖י|hā·’ĕ·lî|the Bethelite|H1017|N-proper-fs
 v34 אֶת־|’eṯ-|-|H853|DirObjM
 v34 יְרִיחֹ֑ה|yə·rî·ḥōh|Jericho|H3405|N-proper-fs
@@ -542,4 +542,4 @@ v34 דִּבֶּ֔ר|dib·ber|had spoken|H1696|V-Piel-Perf-3ms
 v34 בְּיַ֖ד|bə·yaḏ|through|H3027|Prep-b | N-fsc
 v34 יְהוֹשֻׁ֥עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v34 בִּן־|bin-|son|H1121|N-msc
-v34 נֽוּן׃ס|nūn|of Nun|H5126|N-proper-ms
+v34 נֽוּן׃|nūn|of Nun|H5126|N-proper-ms

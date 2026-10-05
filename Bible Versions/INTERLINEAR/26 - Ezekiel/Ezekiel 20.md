@@ -12,7 +12,7 @@ v1 לִדְרֹ֣שׁ|liḏ·rōš|to inquire|H1875|Prep-l | V-Qal-Inf
 v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v1 וַיֵּשְׁב֖וּ|way·yê·šə·ḇū|and they sat down|H3427|Conj-w | V-Qal-ConsecImperf-3mp
-v1 לְפָנָֽי׃ס|lə·p̄ā·nāy|before me|H6440|Prep-l | N-mpc | 1cs
+v1 לְפָנָֽי׃|lə·p̄ā·nāy|before me|H6440|Prep-l | N-mpc | 1cs
 v2 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v2 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v2 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -178,7 +178,7 @@ v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 שַׁבְּתוֹתַי֙|šab·bə·ṯō·w·ṯay|My Sabbaths|H7676|N-cpc | 1cs
 v12 נָתַ֣תִּי|nā·ṯat·tî|gave|H5414|V-Qal-Perf-1cs
 v12 לָהֶ֔ם|lā·hem|them|H0|Prep | 3mp
-v12 לִהְי֣וֹת|lih·yō·wṯ|vvv|H1961|Prep-l | V-Qal-Inf
+v12 לִהְי֣וֹת|lih·yō·wṯ|...|H1961|Prep-l | V-Qal-Inf
 v12 לְא֔וֹת|lə·’ō·wṯ|as a sign|H226|Prep | N-cs
 v12 בֵּינִ֖י|bê·nî|between us|H996|Prep | 1cs
 v12 וּבֵֽינֵיהֶ֑ם|ū·ḇê·nê·hem|...|H996|Conj-w | Prep | 3mp
@@ -350,7 +350,7 @@ v22 הוֹצֵ֥אתִי|hō·w·ṣê·ṯî|I had brought them out|H3318|V-Hif
 v22 אוֹתָ֖ם|’ō·w·ṯām|-|H853|DirObjM | 3mp
 v22 לְעֵינֵיהֶֽם׃|lə·‘ê·nê·hem|sight|H5869|Prep-l | N-cdc | 3mp
 v23 גַּם־|gam-|However|H1571|Conj
-v23 אֲנִ֗י|’ă·nî|vvv|H589|Pro-1cs
+v23 אֲנִ֗י|’ă·nî|...|H589|Pro-1cs
 v23 נָשָׂ֧אתִי|nā·śā·ṯî|with an uplifted hand I swore|H5375|V-Qal-Perf-1cs
 v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 יָדִ֛י|yā·ḏî|-|H3027|N-fsc | 1cs
@@ -401,7 +401,7 @@ v26 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v26 יֵֽדְע֔וּ|yê·ḏə·‘ū|they would know|H3045|V-Qal-Imperf-3mp
 v26 אֲשֶׁ֖ר|’ă·šer|that|H834|Pro-r
 v26 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v26 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v26 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v27 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v27 דַּבֵּ֨ר|dab·bêr|speak|H1696|V-Piel-Imp-ms
 v27 אֶל־|’el-|to|H413|Prep
@@ -514,7 +514,7 @@ v31 לָכֶֽם׃|lā·ḵem|by you|H0|Prep | 2mp
 v32 וְהָֽעֹלָה֙|wə·hā·‘ō·lāh|...|H5927|Conj-w, Art | V-Qal-Prtcpl-fs
 v32 עַל־|‘al-|what you have in|H5921|Prep
 v32 ר֣וּחֲכֶ֔ם|rū·ḥă·ḵem|mind|H7307|N-msc | 2mp
-v32 הָי֖וֹ|hā·yōw||H1961|V-Qal-InfAbs
+v32 הָי֖וֹ|hā·yōw|-|H1961|V-Qal-InfAbs
 v32 לֹ֣א|lō|will never|H3808|Adv-NegPrt
 v32 תִֽהְיֶ֑ה|ṯih·yeh|come to pass|H1961|V-Qal-Imperf-3fs
 v32 אֲשֶׁ֣ר׀|’ă·šer|When|H834|Pro-r
@@ -552,7 +552,7 @@ v34 מִן־|min-|from|H4480|Prep
 v34 הָ֣אֲרָצ֔וֹת|hā·’ă·rā·ṣō·wṯ|the lands|H776|Art | N-fp
 v34 אֲשֶׁ֥ר|’ă·šer|to which|H834|Pro-r
 v34 נְפוֹצֹתֶ֖ם|nə·p̄ō·w·ṣō·ṯem|you have been scattered|H6327|V-Nifal-Perf-2mp
-v34 בָּ֑ם|bām||H0|Prep | 3mp
+v34 בָּ֑ם|bām|-|H0|Prep | 3mp
 v34 בְּיָ֤ד|bə·yāḏ|hand|H3027|Prep-b | N-fs
 v34 חֲזָקָה֙|ḥă·zā·qāh|With a strong|H2389|Adj-fs
 v34 וּבִזְר֣וֹעַ|ū·ḇiz·rō·w·a‘|arm|H2220|Conj-w, Prep-b | N-fs
@@ -674,7 +674,7 @@ v41 מִן־|min-|you from|H4480|Prep
 v41 הָ֣אֲרָצ֔וֹת|hā·’ă·rā·ṣō·wṯ|the lands|H776|Art | N-fp
 v41 אֲשֶׁ֥ר|’ă·šer|to which|H834|Pro-r
 v41 נְפֹצֹתֶ֖ם|nə·p̄ō·ṣō·ṯem|you have been scattered|H6327|V-Nifal-Perf-2mp
-v41 בָּ֑ם|bām||H0|Prep | 3mp
+v41 בָּ֑ם|bām|-|H0|Prep | 3mp
 v41 וְנִקְדַּשְׁתִּ֥י|wə·niq·daš·tî|And I will show My holiness|H6942|Conj-w | V-Nifal-ConjPerf-1cs
 v41 בָכֶ֖ם|ḇā·ḵem|through you|H0|Prep | 2mp
 v41 לְעֵינֵ֥י|lə·‘ê·nê|in the sight|H5869|Prep-l | N-cdc
@@ -706,7 +706,7 @@ v43 כָּל־|kāl-|and all|H3605|N-msc
 v43 עֲלִיל֣וֹתֵיכֶ֔ם|‘ă·lî·lō·w·ṯê·ḵem|the deeds|H5949|N-fpc | 2mp
 v43 אֲשֶׁ֥ר|’ă·šer|with which|H834|Pro-r
 v43 נִטְמֵאתֶ֖ם|niṭ·mê·ṯem|you have defiled yourselves|H2930|V-Nifal-Perf-2mp
-v43 בָּ֑ם|bām||H0|Prep | 3mp
+v43 בָּ֑ם|bām|-|H0|Prep | 3mp
 v43 וּנְקֹֽטֹתֶם֙|ū·nə·qō·ṭō·ṯem|and you will loathe|H6962|Conj-w | V-Nifal-ConjPerf-2mp
 v43 בִּפְנֵיכֶ֔ם|bip̄·nê·ḵem|yourselves|H6440|Prep-b | N-mpc | 2mp
 v43 בְּכָל־|bə·ḵāl|for all|H3605|Prep-b | N-msc
@@ -730,7 +730,7 @@ v44 בֵּ֣ית|bêṯ|O house|H1004|N-msc
 v44 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v44 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v44 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v44 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v44 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v45 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v45 דְבַר־|ḏə·ḇar-|Now the word|H1697|N-msc
 v45 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -748,7 +748,7 @@ v46 דָּר֑וֹם|dā·rō·wm|it|H1864|N-ms
 v46 וְהִנָּבֵ֛א|wə·hin·nā·ḇê|and prophesy|H5012|Conj-w | V-Nifal-Imp-ms
 v46 אֶל־|’el-|against|H413|Prep
 v46 יַ֥עַר|ya·‘ar|the forest|H3293|N-msc
-v46 הַשָּׂדֶ֖ה|haś·śā·ḏeh|vvv|H7704|Art | N-ms
+v46 הַשָּׂדֶ֖ה|haś·śā·ḏeh|...|H7704|Art | N-ms
 v46 נֶֽגֶב׃|ne·ḡeḇ|of the Negev|H5045|N-proper-fs
 v47 וְאָֽמַרְתָּ֙|wə·’ā·mar·tā|Say|H559|Conj-w | V-Qal-ConjPerf-2ms
 v47 לְיַ֣עַר|lə·ya·‘ar|to the forest|H3293|Prep-l | N-msc
@@ -801,4 +801,4 @@ v49 לִ֔י|lî|of me|H0|Prep | 1cs
 v49 הֲלֹ֛א|hă·lō|not|H3808|Adv-NegPrt
 v49 מְמַשֵּׁ֥ל|mə·maš·šêl|[just] telling|H4911|V-Piel-Prtcpl-ms
 v49 מְשָׁלִ֖ים|mə·šā·lîm|parables|H4912|N-mp
-v49 הֽוּא׃פ|hū|Is he|H1931|Pro-3ms
+v49 הֽוּא׃|hū|Is he|H1931|Pro-3ms

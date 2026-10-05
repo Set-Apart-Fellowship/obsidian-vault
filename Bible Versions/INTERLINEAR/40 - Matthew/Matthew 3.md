@@ -155,8 +155,8 @@ v9 ἐγεῖραι|egeirai|raise up|G1453|V-ANA
 v9 τέκνα|tekna|children|G5043|N-ANP
 v9 τῷ|tō|for|G3588|Art-DMS
 v9 Ἀβραάμ|Abraam|Abraham|G11|N-DMS
-v10 ἤδη|ēdē|vvv|G2235|Adv
-v10 δὲ|de|vvv|G1161|Conj
+v10 ἤδη|ēdē|...|G2235|Adv
+v10 δὲ|de|...|G1161|Conj
 v10 ἡ|hē|The|G3588|Art-NFS
 v10 ἀξίνη|axinē|axe|G513|N-NFS
 v10 πρὸς|pros|at|G4314|Prep
@@ -168,7 +168,7 @@ v10 κεῖται|keitai|lies ready|G2749|V-PIM/P-3S
 v10 πᾶν|pan|every|G3956|Adj-NNS
 v10 οὖν|oun|and|G3767|Conj
 v10 δένδρον|dendron|tree|G1186|N-NNS
-v10 μὴ|mē|vvv|G3361|Adv
+v10 μὴ|mē|...|G3361|Adv
 v10 ποιοῦν|poioun|that does not produce|G4160|V-PPA-NNS
 v10 καρπὸν|karpon|fruit|G2590|N-AMS
 v10 καλὸν|kalon|good|G2570|Adj-AMS
@@ -259,7 +259,7 @@ v14 αὐτὸν|auton|Him|G846|PPro-AM3S
 v14 λέγων|legōn|saying|G3004|V-PPA-NMS
 v14 Ἐγὼ|Egō|I|G1473|PPro-N1S
 v14 χρείαν|chreian|need|G5532|N-AFS
-v14 ἔχω|echō|vvv|G2192|V-PIA-1S
+v14 ἔχω|echō|...|G2192|V-PIA-1S
 v14 ὑπὸ|hypo|by|G5259|Prep
 v14 σοῦ|sou|You|G4771|PPro-G2S
 v14 βαπτισθῆναι|baptisthēnai|to be baptized|G907|V-ANP

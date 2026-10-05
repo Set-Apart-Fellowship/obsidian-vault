@@ -86,7 +86,7 @@ v6 נִלְקָ֔ח|nil·qāḥ|will be taken away|H3947|V-Nifal-Perf-3ms
 v6 וְדָמ֖וֹ|wə·ḏā·mōw|for his blood|H1818|Conj-w | N-msc | 3ms
 v6 מִיַּֽד־|mî·yaḏ-|...|H3027|Prep-m | N-fsc
 v6 הַצֹּפֶ֥ה|haṣ·ṣō·p̄eh|but I will hold the watchman|H6822|Art | V-Qal-Prtcpl-ms
-v6 אֶדְרֹֽשׁ׃ס|’eḏ·rōš|accountable|H1875|V-Qal-Imperf-1cs
+v6 אֶדְרֹֽשׁ׃|’eḏ·rōš|accountable|H1875|V-Qal-Imperf-1cs
 v7 וְאַתָּ֣ה|wə·’at·tāh|As for you|H859|Conj-w | Pro-2ms
 v7 בֶן־|ḇen-|O son|H1121|N-msc
 v7 אָדָ֔ם|’ā·ḏām|of man|H120|N-ms
@@ -98,7 +98,7 @@ v7 וְשָׁמַעְתָּ֤|wə·šā·ma‘·tā|so hear|H8085|Conj-w | V-Qal
 v7 מִפִּי֙|mip·pî|My mouth|H6310|Prep-m | N-msc | 1cs
 v7 דָּבָ֔ר|dā·ḇār|the word|H1697|N-ms
 v7 וְהִזְהַרְתָּ֥|wə·hiz·har·tā|and give them the warning from Me|H2094|Conj-w | V-Hifil-ConjPerf-2ms
-v7 אֹתָ֖ם|’ō·ṯām||H853|DirObjM | 3mp
+v7 אֹתָ֖ם|’ō·ṯām|-|H853|DirObjM | 3mp
 v7 מִמֶּֽנִּי׃|mim·men·nî|from|H4480|Prep | 1cs
 v8 בְּאָמְרִ֣י|bə·’ā·mə·rî|If I say|H559|Prep-b | V-Qal-Inf | 1cs
 v8 לָרָשָׁ֗ע|lā·rā·šā‘|to the wicked|H7563|Prep-l, Art | Adj-ms
@@ -123,7 +123,7 @@ v9 הִזְהַ֨רְתָּ|hiz·har·tā|warn|H2094|V-Hifil-Perf-2ms
 v9 רָשָׁ֤ע|rā·šā‘|the wicked [man]|H7563|Adj-ms
 v9 מִדַּרְכּוֹ֙|mid·dar·kōw|from his way|H1870|Prep-m | N-csc | 3ms
 v9 לָשׁ֣וּב|lā·šūḇ|to turn|H7725|Prep-l | V-Qal-Inf
-v9 מִמֶּ֔נָּה|mim·men·nāh||H4480|Prep | 3fs
+v9 מִמֶּ֔נָּה|mim·men·nāh|-|H4480|Prep | 3fs
 v9 וְלֹא־|wə·lō-|and he does not|H3808|Conj-w | Adv-NegPrt
 v9 שָׁ֖ב|šāḇ|turn|H7725|V-Qal-Perf-3ms
 v9 מִדַּרְכּ֑וֹ|mid·dar·kōw|from it|H1870|Prep-m | N-csc | 3ms
@@ -132,7 +132,7 @@ v9 בַּעֲוֺנ֣וֹ|ba·‘ă·wō·nōw|in his iniquity|H5771|Prep-b | N
 v9 יָמ֔וּת|yā·mūṯ|will die|H4191|V-Qal-Imperf-3ms
 v9 וְאַתָּ֖ה|wə·’at·tāh|but you|H859|Conj-w | Pro-2ms
 v9 נַפְשְׁךָ֥|nap̄·šə·ḵā|your life|H5315|N-fsc | 2ms
-v9 הִצַּֽלְתָּ׃ס|hiṣ·ṣal·tā|will have saved|H5337|V-Hifil-Perf-2ms
+v9 הִצַּֽלְתָּ׃|hiṣ·ṣal·tā|will have saved|H5337|V-Hifil-Perf-2ms
 v10 וְאַתָּ֣ה|wə·’at·tāh|Now as for you|H859|Conj-w | Pro-2ms
 v10 בֶן־|ḇen-|son|H1121|N-msc
 v10 אָדָ֗ם|’ā·ḏām|of man|H120|N-ms
@@ -176,7 +176,7 @@ v11 הָרָעִ֛ים|hā·rā·‘îm|from your evil|H7451|Art | Adj-mp
 v11 וְלָ֥מָּה|wə·lām·māh|For why|H4100|Conj-w | Interrog
 v11 תָמ֖וּתוּ|ṯā·mū·ṯū|should you die|H4191|V-Qal-Imperf-2mp
 v11 בֵּ֥ית|bêṯ|O house|H1004|N-msc
-v11 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v11 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v12 וְאַתָּ֣ה|wə·’at·tāh|Therefore|H859|Conj-w | Pro-2ms
 v12 בֶן־|ḇen-|son|H1121|N-msc
 v12 אָדָ֗ם|’ā·ḏām|of man|H120|N-ms
@@ -194,7 +194,7 @@ v12 וְרִשְׁעַ֤ת|wə·riš·‘aṯ|will the wickedness|H7564|Conj-w |
 v12 הָֽרָשָׁע֙|hā·rā·šā‘|of the wicked man|H7563|Art | Adj-ms
 v12 לֹֽא־|lō-|neither|H3808|Adv-NegPrt
 v12 יִכָּ֣שֶׁל|yik·kā·šel|cause him to stumble|H3782|V-Nifal-Imperf-3ms
-v12 בָּ֔הּ|bāh||H0|Prep | 3fs
+v12 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v12 בְּי֖וֹם|bə·yō·wm|on the day|H3117|Prep-b | N-msc
 v12 שׁוּב֣וֹ|šū·ḇōw|he turns|H7725|V-Qal-Inf | 3ms
 v12 מֵֽרִשְׁע֑וֹ|mê·riš·‘ōw|from his wickedness|H7562|Prep-m | N-msc | 3ms
@@ -222,7 +222,7 @@ v13 תִזָּכַ֔רְנָה|ṯiz·zā·ḵar·nāh|will be remembered|H2142|
 v13 וּבְעַוְל֥וֹ|ū·ḇə·‘aw·lōw|because of the iniquity|H5766|Conj-w, Prep-b | N-msc | 3ms
 v13 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v13 עָשָׂ֖ה|‘ā·śāh|he has committed|H6213|V-Qal-Perf-3ms
-v13 בּ֥וֹ|bōw||H0|Prep | 3ms
+v13 בּ֥וֹ|bōw|-|H0|Prep | 3ms
 v13 יָמֽוּת׃|yā·mūṯ|he will die|H4191|V-Qal-Imperf-3ms
 v14 וּבְאָמְרִ֥י|ū·ḇə·’ā·mə·rî|But if I tell|H559|Conj-w, Prep-b | V-Qal-Inf | 1cs
 v14 לָֽרָשָׁ֖ע|lā·rā·šā‘|the wicked man|H7563|Prep-l, Art | Adj-ms
@@ -332,7 +332,7 @@ v22 וַיִּפָּ֣תַח|way·yip·pā·ṯaḥ|was opened|H6605|Conj-w | V-
 v22 פִּ֔י|pî|So my mouth|H6310|N-msc | 1cs
 v22 וְלֹ֥א|wə·lō|and I was no|H3808|Conj-w | Adv-NegPrt
 v22 נֶאֱלַ֖מְתִּי|ne·’ĕ·lam·tî|mute|H481|V-Nifal-Perf-1cs
-v22 עֽוֹד׃פ|‘ō·wḏ|longer|H5750|Adv
+v22 עֽוֹד׃|‘ō·wḏ|longer|H5750|Adv
 v23 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v23 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v23 יְהֹוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -352,14 +352,14 @@ v24 אֶחָד֙|’e·ḥāḏ|only one man|H259|Number-ms
 v24 הָיָ֣ה|hā·yāh|was|H1961|V-Qal-Perf-3ms
 v24 אַבְרָהָ֔ם|’aḇ·rā·hām|Abraham|H85|N-proper-ms
 v24 וַיִּירַ֖שׁ|way·yî·raš|yet he possessed|H3423|Conj-w | V-Qal-ConsecImperf-3ms
-v24 אֶת־|’eṯ-||H853|DirObjM
+v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 הָאָ֑רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v24 וַאֲנַ֣חְנוּ|wa·’ă·naḥ·nū|But we|H587|Conj-w | Pro-1cp
 v24 רַבִּ֔ים|rab·bîm|are many|H7227|Adj-mp
 v24 לָ֛נוּ|lā·nū|to us|H0|Prep | 1cp
 v24 נִתְּנָ֥ה|nit·tə·nāh|has been given|H5414|V-Nifal-Perf-3fs
 v24 הָאָ֖רֶץ|hā·’ā·reṣ|[surely] the land|H776|Art | N-fs
-v24 לְמוֹרָשָֽׁה׃ס|lə·mō·w·rā·šāh|as a possession|H4181|Prep-l | N-fs
+v24 לְמוֹרָשָֽׁה׃|lə·mō·w·rā·šāh|as a possession|H4181|Prep-l | N-fs
 v25 לָכֵן֩|lā·ḵên|Therefore|H3651|Adv
 v25 אֱמֹ֨ר|’ĕ·mōr|tell|H559|V-Qal-Imp-ms
 v25 אֲלֵיהֶ֜ם|’ă·lê·hem|them|H413|Prep | 3mp
@@ -389,7 +389,7 @@ v26 אֵ֥שֶׁת|’ê·šeṯ|wife|H802|N-fsc
 v26 רֵעֵ֖הוּ|rê·‘ê·hū|his neighbor's|H7453|N-msc | 3ms
 v26 טִמֵּאתֶ֑ם|ṭim·mê·ṯem|of you has defiled|H2930|V-Piel-Perf-2mp
 v26 וְהָאָ֖רֶץ|wə·hā·’ā·reṣ|the land|H776|Conj-w, Art | N-fs
-v26 תִּירָֽשׁוּ׃ס|tî·rā·šū|Should you then possess|H3423|V-Qal-Imperf-2mp
+v26 תִּירָֽשׁוּ׃|tî·rā·šū|Should you then possess|H3423|V-Qal-Imperf-2mp
 v27 כֹּֽה־|kōh-|that this|H3541|Adv
 v27 תֹאמַ֨ר|ṯō·mar|Tell|H559|V-Qal-Imperf-2ms
 v27 אֲלֵהֶ֜ם|’ă·lê·hem|them|H413|Prep | 3mp
@@ -443,7 +443,7 @@ v29 עַ֥ל|‘al|because of|H5921|Prep
 v29 כָּל־|kāl-|all|H3605|N-msc
 v29 תּוֹעֲבֹתָ֖ם|tō·w·‘ă·ḇō·ṯām|the abominations|H8441|N-fpc | 3mp
 v29 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v29 עָשֽׂוּ׃ס|‘ā·śū|they have committed|H6213|V-Qal-Perf-3cp
+v29 עָשֽׂוּ׃|‘ā·śū|they have committed|H6213|V-Qal-Perf-3cp
 v30 וְאַתָּ֣ה|wə·’at·tāh|As for you|H859|Conj-w | Pro-2ms
 v30 בֶן־|ḇen-|son|H1121|N-msc
 v30 אָדָ֔ם|’ā·ḏām|of man|H120|N-ms
@@ -514,4 +514,4 @@ v33 וְיָ֣דְע֔וּ|wə·yā·ḏə·‘ū|then they will know|H3045|Conj
 v33 כִּ֥י|kî|that|H3588|Conj
 v33 נָבִ֖יא|nā·ḇî|a prophet|H5030|N-ms
 v33 הָיָ֥ה|hā·yāh|has been|H1961|V-Qal-Perf-3ms
-v33 בְתוֹכָֽם׃ס|ḇə·ṯō·w·ḵām|among them|H8432|Prep-b | N-msc | 3mp
+v33 בְתוֹכָֽם׃|ḇə·ṯō·w·ḵām|among them|H8432|Prep-b | N-msc | 3mp

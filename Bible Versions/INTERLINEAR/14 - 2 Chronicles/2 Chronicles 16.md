@@ -12,7 +12,7 @@ v1 יְהוּדָ֔ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v1 וַיִּ֖בֶן|way·yi·ḇen|and fortified|H1129|Conj-w | V-Qal-ConsecImperf-3ms
 v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 הָרָמָ֑ה|hā·rā·māh|Ramah|H7414|Art | N-proper-fs
-v1 לְבִלְתִּ֗י|lə·ḇil·tî|vvv|H1115|Prep-l
+v1 לְבִלְתִּ֗י|lə·ḇil·tî|...|H1115|Prep-l
 v1 תֵּ֚ת|têṯ|to prevent|H5414|V-Qal-Inf
 v1 יוֹצֵ֣א|yō·w·ṣê|[anyone] from leaving|H3318|V-Qal-Prtcpl-ms
 v1 וָבָ֔א|wā·ḇā|or entering the territory|H935|Conj-w | V-Qal-Prtcpl-ms
@@ -30,7 +30,7 @@ v2 וּבֵ֣ית|ū·ḇêṯ|palace|H1004|Conj-w | N-msc
 v2 הַמֶּ֑לֶךְ|ham·me·leḵ|and the royal|H4428|Art | N-ms
 v2 וַיִּשְׁלַ֗ח|way·yiš·laḥ|and he sent it|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v2 אֶל־|’el-|to|H413|Prep
-v2 בֶּן־|ben-|vvv|H1130|Prep
+v2 בֶּן־|ben-|...|H1130|Prep
 v2 הֲדַד֙|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v2 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v2 אֲרָ֔ם|’ă·rām|of Aram|H758|N-proper-fs
@@ -59,7 +59,7 @@ v3 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v3 וְיַעֲלֶ֖ה|wə·ya·‘ă·leh|so that he will withdraw|H5927|Conj-w | V-Qal-ConjImperf-3ms
 v3 מֵעָלָֽי׃|mê·‘ā·lāy|from me|H5921|Prep-m | 1cs
 v4 וַיִּשְׁמַ֨ע|way·yiš·ma‘|listened|H8085|Conj-w | V-Qal-ConsecImperf-3ms
-v4 בֶּן|bɛn||H1130|Prep
+v4 בֶּן|bɛn|-|H1130|Prep
 v4 הֲדַ֜ד|hă·ḏaḏ|And Ben-hadad|H1130|N-proper-ms
 v4 אֶל־|’el-|to|H413|Prep
 v4 הַמֶּ֣לֶךְ|ham·me·leḵ|King|H4428|Art | N-ms
@@ -69,7 +69,7 @@ v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 שָׂרֵ֨י|śā·rê|the commanders|H8269|N-mpc
 v4 הַחֲיָלִ֤ים|ha·ḥă·yā·lîm|of his armies|H2428|Art | N-mp
 v4 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v4 לוֹ֙|lōw||H0|Prep | 3ms
+v4 לוֹ֙|lōw|-|H0|Prep | 3ms
 v4 אֶל־|’el-|against|H413|Prep
 v4 עָרֵ֣י|‘ā·rê|the cities|H5892|N-fpc
 v4 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -79,7 +79,7 @@ v4 עִיּ֣וֹן|‘î·yō·wn|Ijon|H5859|N-proper-fs
 v4 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v4 דָּ֔ן|dān|Dan|H1835|N-proper-ms
 v4 וְאֵ֖ת|wə·’êṯ|-|H853|Conj-w | DirObjM
-v4 אָבֵ֣ל|’ā·ḇêl|vvv|H66|
+v4 אָבֵ֣ל|’ā·ḇêl|...|H66|
 v4 מָ֑יִם|mā·yim|Abel-maim|H66|N-proper-fs
 v4 וְאֵ֥ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v4 כָּֽל־|kāl-|and all|H3605|N-msc
@@ -95,7 +95,7 @@ v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 הָרָמָ֑ה|hā·rā·māh|Ramah|H7414|Art | N-proper-fs
 v5 וַיַּשְׁבֵּ֖ת|way·yaš·bêṯ|and abandoned|H7673|Conj-w | V-Hifil-ConsecImperf-3ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
-v5 מְלַאכְתּֽוֹ׃ס|mə·laḵ·tōw|his work|H4399|N-fsc | 3ms
+v5 מְלַאכְתּֽוֹ׃|mə·laḵ·tōw|his work|H4399|N-fsc | 3ms
 v6 וְאָסָ֣א|wə·’ā·sā|Asa|H609|Conj-w | N-proper-ms
 v6 הַמֶּ֗לֶךְ|ham·me·leḵ|Then King|H4428|Art | N-ms
 v6 לָקַח֙|lā·qaḥ|brought|H3947|V-Qal-Perf-3ms
@@ -116,7 +116,7 @@ v6 בָּהֶ֔ם|bā·hem|And with [these materials]|H0|Prep | 3mp
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 גֶּ֖בַע|ge·ḇa‘|Geba|H1387|N-proper-fs
 v6 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v6 הַמִּצְפָּֽה׃ס|ham·miṣ·pāh|and Mizpah|H4709|Art | N-proper-fs
+v6 הַמִּצְפָּֽה׃|ham·miṣ·pāh|and Mizpah|H4709|Art | N-proper-fs
 v7 וּבָעֵ֣ת|ū·ḇā·‘êṯ|time|H6256|Conj-w, Prep-b, Art | N-cs
 v7 הַהִ֗יא|ha·hî|At that|H1931|Art | Pro-3fs
 v7 בָּ֚א|bā|came|H935|V-Qal-Perf-3ms
@@ -252,8 +252,8 @@ v14 מְרֻקָּחִ֖ים|mə·ruq·qā·ḥîm|perfumes|H7543|V-Pual-Prtcpl-
 v14 בְּמִרְקַ֣חַת|bə·mir·qa·ḥaṯ|...|H4842|Prep-b | N-fsc
 v14 מַעֲשֶׂ֑ה|ma·‘ă·śeh|blended|H4639|N-ms
 v14 וַיִּשְׂרְפוּ־|way·yiś·rə·p̄ū-|fire|H8313|Conj-w | V-Qal-ConsecImperf-3mp
-v14 ל֥וֹ|lōw||H0|Prep | 3ms
+v14 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v14 שְׂרֵפָ֖ה|śə·rê·p̄āh|in his honor|H8316|N-fs
 v14 גְּדוֹלָ֥ה|gə·ḏō·w·lāh|then they made a great|H1419|Adj-fs
 v14 עַד־|‘aḏ-|...|H5704|Prep
-v14 לִמְאֹֽד׃פ|lim·’ōḏ|...|H3966|Prep-l | Adv
+v14 לִמְאֹֽד׃|lim·’ōḏ|...|H3966|Prep-l | Adv

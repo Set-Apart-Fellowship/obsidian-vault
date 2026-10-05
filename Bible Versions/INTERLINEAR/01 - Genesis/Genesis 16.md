@@ -42,7 +42,7 @@ v3 עֶ֣שֶׂר|‘e·śer|for ten|H6235|Number-fs
 v3 שָׁנִ֔ים|šā·nîm|years|H8141|N-fp
 v3 לְשֶׁ֥בֶת|lə·še·ḇeṯ|had lived|H3427|Prep-l | V-Qal-Inf
 v3 אַבְרָ֖ם|’aḇ·rām|[he]|H87|N-proper-ms
-v3 בְּאֶ֣רֶץ|bə·’e·reṣ|vvv|H776|Prep-b | N-fsc
+v3 בְּאֶ֣רֶץ|bə·’e·reṣ|...|H776|Prep-b | N-fsc
 v3 כְּנָ֑עַן|kə·nā·‘an|in Canaan|H3667|N-proper-ms
 v3 וַתִּתֵּ֥ן|wat·tit·tên|and gave|H5414|Conj-w | V-Qal-ConsecImperf-3fs
 v3 אֹתָ֛הּ|’ō·ṯāh|her|H853|DirObjM | 3fs
@@ -89,7 +89,7 @@ v6 בְּיָדֵ֔ךְ|bə·yā·ḏêḵ|is in your hands|H3027|Prep-b | N-fsc
 v6 עֲשִׂי־|‘ă·śî-|Do|H6213|V-Qal-Imp-fs
 v6 לָ֖הּ|lāh|with her|H0|Prep | 3fs
 v6 הַטּ֣וֹב|haṭ·ṭō·wḇ|whatever you want|H2896|Art | Adj-ms
-v6 בְּעֵינָ֑יִךְ|bə·‘ê·nā·yiḵ||H5869|Prep-b | N-cdc | 2fs
+v6 בְּעֵינָ֑יִךְ|bə·‘ê·nā·yiḵ|-|H5869|Prep-b | N-cdc | 2fs
 v6 וַתְּעַנֶּ֣הָ|wat·tə·‘an·ne·hā|treated|H6031|Conj-w | V-Piel-ConsecImperf-3fs | 3fs
 v6 שָׂרַ֔י|śā·ray|Then Sarai|H8297|N-proper-fs
 v6 וַתִּבְרַ֖ח|wat·tiḇ·raḥ|[Hagar] so harshly that she fled|H1272|Conj-w | V-Qal-ConsecImperf-3fs
@@ -131,7 +131,7 @@ v9 וְהִתְעַנִּ֖י|wə·hiṯ·‘an·nî|and submit|H6031|Conj-w | V
 v9 תַּ֥חַת|ta·ḥaṯ|to her authority|H8478|Prep
 v9 יָדֶֽיהָ׃|yā·ḏe·hā|...|H3027|N-fdc | 3fs
 v10 וַיֹּ֤אמֶר|way·yō·mer|added|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v10 לָהּ֙|lāh||H0|Prep | 3fs
+v10 לָהּ֙|lāh|-|H0|Prep | 3fs
 v10 מַלְאַ֣ךְ|mal·’aḵ|Then the angel|H4397|N-msc
 v10 יְהוָ֔ה|Yah·weh|...|H3068|N-proper-ms
 v10 הַרְבָּ֥ה|har·bāh|I will greatly multiply|H7235|V-Hifil-InfAbs
@@ -190,8 +190,8 @@ v14 עַל־|‘al-|Therefore|H5921|Prep
 v14 כֵּן֙|kên|...|H3651|Adv
 v14 קָרָ֣א|qā·rā|was called|H7121|V-Qal-Perf-3ms
 v14 לַבְּאֵ֔ר|lab·bə·’êr|the well|H875|Prep-l, Art | N-fs
-v14 בְּאֵ֥ר|bə·’êr|vvv|H883|Prep
-v14 לַחַ֖י|la·ḥay|vvv|H883|Prep
+v14 בְּאֵ֥ר|bə·’êr|...|H883|Prep
+v14 לַחַ֖י|la·ḥay|...|H883|Prep
 v14 רֹאִ֑י|rō·’î|Beer-lahai-roi|H883|N-proper-fs
 v14 הִנֵּ֥ה|hin·nêh|It is located|H2009|Interjection
 v14 בֵין־|ḇên-|between|H996|Prep
@@ -220,4 +220,4 @@ v16 בְּלֶֽדֶת־|bə·le·ḏeṯ-|bore|H3205|Prep-b | V-Qal-Inf
 v16 הָגָ֥ר|hā·ḡār|when Hagar|H1904|N-proper-fs
 v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 יִשְׁמָעֵ֖אל|yiš·mā·‘êl|Ishmael|H3458|N-proper-ms
-v16 לְאַבְרָֽם׃ס|lə·’aḇ·rām|to him|H87|Prep-l | N-proper-ms
+v16 לְאַבְרָֽם׃|lə·’aḇ·rām|to him|H87|Prep-l | N-proper-ms

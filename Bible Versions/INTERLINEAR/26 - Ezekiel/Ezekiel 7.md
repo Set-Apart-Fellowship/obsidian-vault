@@ -48,7 +48,7 @@ v4 תִּֽהְיֶ֔יןָ|tih·ye·nā|-|H1961|V-Qal-Imperf-3fp
 v4 וִידַעְתֶּ֖ם|wî·ḏa‘·tem|Then you will know|H3045|Conj-w | V-Qal-ConjPerf-2mp
 v4 כִּֽי־|kî-|that|H3588|Conj
 v4 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v4 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v4 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v5 כֹּ֥ה|kōh|This is what|H3541|Adv
 v5 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v5 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -132,7 +132,7 @@ v11 וְלֹ֥א|wə·lō|none|H3808|Conj-w | Adv-NegPrt
 v11 מֶהֱמֵהֶ֖ם|me·hĕ·mê·hem|of their wealth|H1991|Prep-m | Adv | 3mp
 v11 וְלֹא־|wə·lō-|and nothing|H3808|Conj-w | Adv-NegPrt
 v11 נֹ֥הַּ|nō·ah|of value|H5089|N-ms
-v11 בָּהֶֽם׃|bā·hem||H0|Prep | 3mp
+v11 בָּהֶֽם׃|bā·hem|-|H0|Prep | 3mp
 v12 בָּ֤א|bā|has come|H935|V-Qal-Perf-3ms
 v12 הָעֵת֙|hā·‘êṯ|The time|H6256|Art | N-cs
 v12 הִגִּ֣יעַ|hig·gî·a‘|has arrived|H5060|V-Hifil-Perf-3ms
@@ -280,7 +280,7 @@ v22 צְפוּנִ֑י|ṣə·p̄ū·nî|My treasured place|H6845|V-Qal-QalPassP
 v22 וּבָאוּ־|ū·ḇā·’ū-|will enter|H935|Conj-w | V-Qal-ConjPerf-3cp
 v22 בָ֥הּ|ḇāh|it|H0|Prep | 3fs
 v22 פָּרִיצִ֖ים|pā·rî·ṣîm|Violent men|H6530|N-mp
-v22 וְחִלְּלֽוּהָ׃פ|wə·ḥil·lə·lū·hā|and they will defile it|H2490|Conj-w | V-Piel-ConjPerf-3cp | 3fs
+v22 וְחִלְּלֽוּהָ׃|wə·ḥil·lə·lū·hā|and they will defile it|H2490|Conj-w | V-Piel-ConjPerf-3cp | 3fs
 v23 עֲשֵׂ֖ה|‘ă·śêh|Forge|H6213|V-Qal-Imp-ms
 v23 הָֽרַתּ֑וֹק|hā·rat·tō·wq|the chain|H7569|Art | N-ms
 v23 כִּ֣י|kî|for|H3588|Conj
@@ -340,4 +340,4 @@ v27 אֶשְׁפְּטֵ֔ם|’eš·pə·ṭêm|and I will judge them|H8199|V-Q
 v27 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v27 כִּֽי־|kî-|that|H3588|Conj
 v27 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v27 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v27 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms

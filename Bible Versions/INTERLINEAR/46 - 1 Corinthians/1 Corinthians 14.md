@@ -13,7 +13,7 @@ v2 ὁ|ho|he who|G3588|Art-NMS
 v2 γὰρ|gar|For|G1063|Conj
 v2 λαλῶν|lalōn|speaks|G2980|V-PPA-NMS
 v2 γλώσσῃ|glōssē|in a tongue|G1100|N-DFS
-v2 οὐκ|ouk|vvv|G3756|Adv
+v2 οὐκ|ouk|...|G3756|Adv
 v2 ἀνθρώποις|anthrōpois|to men|G444|N-DMP
 v2 λαλεῖ|lalei|does not speak|G2980|V-PIA-3S
 v2 ἀλλὰ|alla|but|G235|Conj
@@ -149,12 +149,12 @@ v9 γνωσθήσεται|gnōsthēsetai|will [anyone] know|G1097|V-FIP-3S
 v9 τὸ|to|what|G3588|Art-NNS
 v9 λαλούμενον|laloumenon|you are saying|G2980|V-PPM/P-NNS
 v9 ἔσεσθε|esesthe|You will [ just ] be|G1510|V-FIM-2P
-v9 γὰρ|gar|vvv|G1063|Conj
+v9 γὰρ|gar|...|G1063|Conj
 v9 εἰς|eis|into|G1519|Prep
 v9 ἀέρα|aera|[the] air|G109|N-AMS
 v9 λαλοῦντες|lalountes|speaking|G2980|V-PPA-NMP
 v10 Τοσαῦτα|Tosauta|many|G5118|DPro-NNP
-v10 εἰ|ei|vvv|G1487|Conj
+v10 εἰ|ei|...|G1487|Conj
 v10 τύχοι|tychoi|Assuredly|G5177|V-AOA-3S
 v10 γένη|genē|different|G1085|N-NNP
 v10 φωνῶν|phōnōn|languages|G5456|N-GFP
@@ -166,7 +166,7 @@ v10 οὐδὲν|ouden|none [of them is]|G3762|Adj-NNS
 v10 ἄφωνον|aphōnon|without meaning|G880|Adj-NNS
 v11 ἐὰν|ean|If|G1437|Conj
 v11 οὖν|oun|then|G3767|Conj
-v11 μὴ|mē|vvv|G3361|Adv
+v11 μὴ|mē|...|G3361|Adv
 v11 εἰδῶ|eidō|I do not know|G1492|V-RSA-1S
 v11 τὴν|tēn|the|G3588|Art-AFS
 v11 δύναμιν|dynamin|meaning|G1411|N-AFS
@@ -177,7 +177,7 @@ v11 τῷ|tō|to the|G3588|Art-DMS
 v11 λαλοῦντι|lalounti|speaker|G2980|V-PPA-DMS
 v11 βάρβαρος|barbaros|a foreigner|G915|Adj-NMS
 v11 καὶ|kai|and|G2532|Conj
-v11 ὁ|ho|vvv|G3588|Art-NMS
+v11 ὁ|ho|...|G3588|Art-NMS
 v11 λαλῶν|lalōn|[he is]|G2980|V-PPA-NMS
 v11 ἐν|en|to|G1722|Prep
 v11 ἐμοὶ|emoi|me|G1473|PPro-D1S
@@ -226,7 +226,7 @@ v15 τῷ|tō|with [my]|G3588|Art-DNS
 v15 πνεύματι|pneumati|spirit|G4151|N-DNS
 v15 προσεύξομαι|proseuxomai|I will also pray|G4336|V-FIM-1S
 v15 δὲ|de|but|G1161|Conj
-v15 καὶ|kai|vvv|G2532|Conj
+v15 καὶ|kai|...|G2532|Conj
 v15 τῷ|tō|with [my]|G3588|Art-DMS
 v15 νοΐ|noi|mind|G3563|N-DMS
 v15 ψαλῶ|psalō|I will sing|G5567|V-FIA-1S
@@ -234,7 +234,7 @@ v15 τῷ|tō|with [my]|G3588|Art-DNS
 v15 πνεύματι|pneumati|spirit|G4151|N-DNS
 v15 ψαλῶ|psalō|I will also sing|G5567|V-FIA-1S
 v15 δὲ|de|but|G1161|Conj
-v15 καὶ|kai|vvv|G2532|Conj
+v15 καὶ|kai|...|G2532|Conj
 v15 τῷ|tō|with [my]|G3588|Art-DMS
 v15 νοΐ|noi|mind|G3563|N-DMS
 v16 ἐπεὶ|epei|Otherwise|G1893|Conj
@@ -243,10 +243,10 @@ v16 εὐλογῇς|eulogēs|you speak a blessing|G2127|V-PSA-2S
 v16 [ἐν]|en|in|G1722|Prep
 v16 πνεύματι|pneumati|spirit|G4151|N-DNS
 v16 ὁ|ho|{can} [someone]|G3588|Art-NMS
-v16 ἀναπληρῶν|anaplērōn|vvv|G378|V-PPA-NMS
-v16 τὸν|ton|vvv|G3588|Art-AMS
-v16 τόπον|topon|vvv|G5117|N-AMS
-v16 τοῦ|tou|vvv|G3588|Art-GMS
+v16 ἀναπληρῶν|anaplērōn|...|G378|V-PPA-NMS
+v16 τὸν|ton|...|G3588|Art-AMS
+v16 τόπον|topon|...|G5117|N-AMS
+v16 τοῦ|tou|...|G3588|Art-GMS
 v16 ἰδιώτου|idiōtou|who is uninstructed|G2399|N-GMS
 v16 πῶς|pōs|how|G4459|Adv
 v16 ἐρεῖ|erei|say|G2046|V-FIA-3S
@@ -262,14 +262,14 @@ v16 λέγεις|legeis|you are saying|G3004|V-PIA-2S
 v16 οὐκ|ouk|...|G3756|Adv
 v16 οἶδεν|oiden|he does not know|G1492|V-RIA-3S
 v17 σὺ|sy|You {may}|G4771|PPro-N2S
-v17 μὲν|men|vvv|G3303|Conj
-v17 γὰρ|gar|vvv|G1063|Conj
+v17 μὲν|men|...|G3303|Conj
+v17 γὰρ|gar|...|G1063|Conj
 v17 καλῶς|kalōs|well enough|G2573|Adv
 v17 εὐχαριστεῖς|eucharisteis|be giving thanks|G2168|V-PIA-2S
 v17 ἀλλ’|all’|but|G235|Conj
 v17 ὁ|ho|the|G3588|Art-NMS
 v17 ἕτερος|heteros|other one|G2087|Adj-NMS
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 οἰκοδομεῖται|oikodomeitai|is not edified|G3618|V-PIM/P-3S
 v18 Εὐχαριστῶ|Eucharistō|I thank|G2168|V-PIA-1S
 v18 τῷ|tō|-|G3588|Art-DMS
@@ -285,9 +285,9 @@ v19 ἐκκλησίᾳ|ekklēsia|[the] church|G1577|N-DFS
 v19 θέλω|thelō|I would rather|G2309|V-PIA-1S
 v19 πέντε|pente|five|G4002|Adj-AMP
 v19 λόγους|logous|words|G3056|N-AMP
-v19 τῷ|tō|vvv|G3588|Art-DMS
+v19 τῷ|tō|...|G3588|Art-DMS
 v19 νοΐ|noi|coherent|G3563|N-DMS
-v19 μου|mou|vvv|G1473|PPro-G1S
+v19 μου|mou|...|G1473|PPro-G1S
 v19 λαλῆσαι|lalēsai|speak|G2980|V-ANA
 v19 ἵνα|hina|to|G2443|Conj
 v19 καὶ|kai|-|G2532|Conj
@@ -301,7 +301,7 @@ v19 γλώσσῃ|glōssē|a tongue|G1100|N-DFS
 v20 Ἀδελφοί|Adelphoi|Brothers|G80|N-VMP
 v20 μὴ|mē|stop|G3361|Adv
 v20 παιδία|paidia|like children|G3813|N-NNP
-v20 γίνεσθε|ginesthe|vvv|G1096|V-PMM/P-2P
+v20 γίνεσθε|ginesthe|...|G1096|V-PMM/P-2P
 v20 ταῖς|tais|-|G3588|Art-DFP
 v20 φρεσίν|phresin|thinking|G5424|N-DFP
 v20 ἀλλὰ|alla|-|G235|Conj
@@ -374,7 +374,7 @@ v23 δὲ|de|and|G1161|Conj
 v23 ἰδιῶται|idiōtai|some who are uninstructed|G2399|N-NMP
 v23 ἢ|ē|or|G2228|Conj
 v23 ἄπιστοι|apistoi|some unbelievers|G571|Adj-NMP
-v23 οὐκ|ouk|vvv|G3756|Adv
+v23 οὐκ|ouk|...|G3756|Adv
 v23 ἐροῦσιν|erousin|will they not say|G2046|V-FIA-3P
 v23 ὅτι|hoti|that|G3754|Conj
 v23 μαίνεσθε|mainesthe|you are out of your minds|G3105|V-PIM/P-2P
@@ -404,7 +404,7 @@ v25 γίνεται|ginetai|will be|G1096|V-PIM/P-3S
 v25 καὶ|kai|So|G2532|Conj
 v25 οὕτως|houtōs|...|G3779|Adv
 v25 πεσὼν|pesōn|he will fall|G4098|V-APA-NMS
-v25 ἐπὶ|epi|vvv|G1909|Prep
+v25 ἐπὶ|epi|...|G1909|Prep
 v25 πρόσωπον|prosōpon|facedown|G4383|N-ANS
 v25 προσκυνήσει|proskynēsei|[and] worship|G4352|V-FIA-3S
 v25 τῷ|tō|-|G3588|Art-DMS
@@ -524,7 +524,7 @@ v34 ἐν|en|in|G1722|Prep
 v34 ταῖς|tais|the|G3588|Art-DFP
 v34 ἐκκλησίαις|ekklēsiais|churches|G1577|N-DFP
 v34 σιγάτωσαν|sigatōsan|are to be silent|G4601|V-PMA-3P
-v34 οὐ|ou|vvv|G3756|Adv
+v34 οὐ|ou|...|G3756|Adv
 v34 γὰρ|gar|-|G1063|Conj
 v34 ἐπιτρέπεται|epitrepetai|are not permitted|G2010|V-PIM/P-3S
 v34 αὐταῖς|autais|They|G846|PPro-DF3P
@@ -603,6 +603,6 @@ v40 πάντα|panta|everything|G3956|Adj-NNP
 v40 δὲ|de|But|G1161|Conj
 v40 εὐσχημόνως|euschēmonōs|in a proper|G2156|Adv
 v40 καὶ|kai|and|G2532|Conj
-v40 κατὰ|kata|vvv|G2596|Prep
+v40 κατὰ|kata|...|G2596|Prep
 v40 τάξιν|taxin|orderly [manner]|G5010|N-AFS
 v40 γινέσθω|ginesthō|must be done|G1096|V-PMM/P-3S

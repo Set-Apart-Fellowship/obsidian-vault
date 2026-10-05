@@ -132,10 +132,10 @@ v11 עַל־|‘al-|So|H5921|Prep
 v11 כֵּ֗ן|kên|...|H3651|Adv
 v11 עָמַ֤ד|‘ā·maḏ|has remained the same|H5975|V-Qal-Perf-3ms
 v11 טַעְמוֹ֙|ṭa‘·mōw|his flavor|H2940|N-msc | 3ms
-v11 בּ֔וֹ|bōw||H0|Prep | 3ms
+v11 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v11 וְרֵיח֖וֹ|wə·rê·ḥōw|and his aroma|H7381|Conj-w | N-msc | 3ms
-v11 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
-v11 נָמָֽר׃ס|nā·mār|is unchanged|H4171|V-Nifal-Perf-3ms
+v11 לֹ֥א|lō|...|H3808|Adv-NegPrt
+v11 נָמָֽר׃|nā·mār|is unchanged|H4171|V-Nifal-Perf-3ms
 v12 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v12 הִנֵּ֖ה־|hin·nêh-|behold|H2009|Interjection
 v12 יָמִ֤ים|yā·mîm|the days|H3117|N-mp
@@ -157,7 +157,7 @@ v13 כַּאֲשֶׁר־|ka·’ă·šer-|just as|H834|Prep-k | Pro-r
 v13 בֹּ֙שׁוּ֙|bō·šū|was ashamed|H954|V-Qal-Perf-3cp
 v13 בֵּ֣ית|bêṯ|the house|H1004|N-msc
 v13 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v13 מִבֵּ֥ית|mib·bêṯ||H1008|Prep
+v13 מִבֵּ֥ית|mib·bêṯ|-|H1008|Prep
 v13 אֵ֖ל|’êl|Bethel|H1008|Prep | N-proper-fs
 v13 מִבְטֶחָֽם׃|miḇ·ṭe·ḥām|when they trusted in|H4009|N-msc | 3mp
 v14 אֵ֚יךְ|’êḵ|How|H349|Interjection
@@ -241,7 +241,7 @@ v20 מוֹאָֽב׃|mō·w·’āḇ|Moab|H4124|N-proper-fs
 v21 וּמִשְׁפָּ֥ט|ū·miš·pāṭ|Judgment|H4941|Conj-w | N-ms
 v21 בָּ֖א|bā|has come|H935|V-Qal-Perf-3ms
 v21 אֶל־|’el-|upon|H413|Prep
-v21 אֶ֣רֶץ|’e·reṣ|vvv|H776|N-fsc
+v21 אֶ֣רֶץ|’e·reṣ|...|H776|N-fsc
 v21 הַמִּישֹׁ֑ר|ham·mî·šōr|the high plain|H4334|Art | N-ms
 v21 אֶל־|’el-|upon|H413|Prep
 v21 חֹל֥וֹן|ḥō·lō·wn|Holon|H2473|N-proper-fs
@@ -254,15 +254,15 @@ v22 דִּיב֣וֹן|dî·ḇō·wn|Dibon|H1769|N-proper-fs
 v22 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v22 נְב֔וֹ|nə·ḇōw|Nebo|H5015|N-proper-fs
 v22 וְעַל־|wə·‘al-|and|H5921|Conj-w | Prep
-v22 בֵּ֖ית|bêṯ|vvv|H1015|Prep
+v22 בֵּ֖ית|bêṯ|...|H1015|Prep
 v22 דִּבְלָתָֽיִם׃|diḇ·lā·ṯā·yim|Beth-diblathaim|H1015|N-proper-fs
 v23 וְעַ֧ל|wə·‘al|upon|H5921|Conj-w | Prep
 v23 קִרְיָתַ֛יִם|qir·yā·ṯa·yim|Kiriathaim|H7156|N-proper-fs
 v23 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
-v23 בֵּ֥ית|bêṯ|vvv|H1014|Prep
+v23 בֵּ֥ית|bêṯ|...|H1014|Prep
 v23 גָּמ֖וּל|gā·mūl|Beth-gamul|H1014|N-proper-fs
 v23 וְעַל־|wə·‘al-|and|H5921|Conj-w | Prep
-v23 בֵּ֥ית|bêṯ|vvv|H1010|Prep
+v23 בֵּ֥ית|bêṯ|...|H1010|Prep
 v23 מְעֽוֹן׃|mə·‘ō·wn|Beth-meon|H1010|N-proper-fs
 v24 וְעַל־|wə·‘al-|upon|H5921|Conj-w | Prep
 v24 קְרִיּ֖וֹת|qə·rî·yō·wṯ|Kerioth|H7152|N-proper-fs
@@ -271,7 +271,7 @@ v24 בָּצְרָ֑ה|bāṣ·rāh|Bozrah|H1224|N-proper-fs
 v24 וְעַ֗ל|wə·‘al|...|H5921|Conj-w | Prep
 v24 כָּל־|kāl-|and all|H3605|N-msc
 v24 עָרֵי֙|‘ā·rê|the towns|H5892|N-fpc
-v24 אֶ֣רֶץ|’e·reṣ|vvv|H776|N-fsc
+v24 אֶ֣רֶץ|’e·reṣ|...|H776|N-fsc
 v24 מוֹאָ֔ב|mō·w·’āḇ|of Moab|H4124|N-proper-fs
 v24 הָרְחֹק֖וֹת|hā·rə·ḥō·qō·wṯ|those far|H7350|Art | Adj-fp
 v24 וְהַקְּרֹבֽוֹת׃|wə·haq·qə·rō·ḇō·wṯ|and near|H7138|Conj-w, Art | Adj-fp
@@ -300,13 +300,13 @@ v27 הַשְּׂחֹ֗ק|haś·śə·ḥōq|object of ridicule|H7814|Art | N-ms
 v27 הָיָ֤ה|hā·yāh|Was|H1961|V-Qal-Perf-3ms
 v27 לְךָ֙|lə·ḵā|your|H0|Prep | 2ms
 v27 יִשְׂרָאֵ֔ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v27 אִם־|’im-||H518|Conj
+v27 אִם־|’im-|-|H518|Conj
 v27 בְּגַנָּבִ֖ים|bə·ḡan·nā·ḇîm|-|H1590|Prep-b | N-mp
 v27 נִמְצָאָה|nim·ṣå̄·ʾå̄h|Was he ever found [among thieves]|H4672|V-Nifal-Perf-3ms
 v27 כִּֽי־|kî-|For|H3588|Conj
 v27 מִדֵּ֧י|mid·dê|whenever|H1767|Prep-m | N-msc
 v27 דְבָרֶ֥יךָ|ḏə·ḇā·re·ḵā|you speak of him|H1697|N-mpc | 2ms
-v27 בּ֖וֹ|bōw||H0|Prep | 3ms
+v27 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v27 תִּתְנוֹדָֽד׃|tiṯ·nō·w·ḏāḏ|you shake your head|H5110|V-Hitpael-Imperf-2ms
 v28 עִזְב֤וּ|‘iz·ḇū|Abandon|H5800|V-Qal-Imp-mp
 v28 עָרִים֙|‘ā·rîm|the towns|H5892|N-fp
@@ -351,7 +351,7 @@ v31 כֻּלֹּ֖ה|kul·lōh|for all|H3605|N-msc | 3ms
 v31 אֶזְעָ֑ק|’ez·‘āq|I will cry out|H2199|V-Qal-Imperf-1cs
 v31 אֶל־|’el-|for|H413|Prep
 v31 אַנְשֵׁ֥י|’an·šê|the men|H582|N-mpc
-v31 קִֽיר־|qîr-|vvv|H7025|
+v31 קִֽיר־|qîr-|...|H7025|
 v31 חֶ֖רֶשׂ|ḥe·reś|of Kir-heres|H7025|N-proper-fs
 v31 יֶהְגֶּֽה׃|yeh·geh|I will moan|H1897|V-Qal-Imperf-3ms
 v32 מִבְּכִ֨י|mib·bə·ḵî|more than I weep|H1065|Prep-m | N-msc
@@ -406,7 +406,7 @@ v34 גַּם־|gam-|even|H1571|Conj
 v34 מֵ֣י|mê|the waters|H4325|N-mpc
 v34 נִמְרִ֔ים|nim·rîm|of Nimrim|H5249|N-proper-fs
 v34 לִמְשַׁמּ֖וֹת|lim·šam·mō·wṯ|have dried up|H4923|Prep-l | N-fp
-v34 יִהְיֽוּ׃|yih·yū|vvv|H1961|V-Qal-Imperf-3mp
+v34 יִהְיֽוּ׃|yih·yū|...|H1961|V-Qal-Imperf-3mp
 v35 וְהִשְׁבַּתִּ֥י|wə·hiš·bat·tî|I will bring an end|H7673|Conj-w | V-Hifil-ConjPerf-1cs
 v35 לְמוֹאָ֖ב|lə·mō·w·’āḇ|In Moab|H4124|Prep-l | N-proper-fs
 v35 נְאֻם־|nə·’um-|declares|H5002|N-msc
@@ -424,7 +424,7 @@ v36 יֶהֱמֶ֔ה|ye·hĕ·meh|laments|H1993|V-Qal-Imperf-3ms
 v36 וְלִבִּי֙|wə·lib·bî|[it]|H3820|Conj-w | N-msc | 1cs
 v36 אֶל־|’el-|for|H413|Prep
 v36 אַנְשֵׁ֣י|’an·šê|the men|H582|N-mpc
-v36 קִֽיר־|qîr-|vvv|H7025|
+v36 קִֽיר־|qîr-|...|H7025|
 v36 חֶ֔רֶשׂ|ḥe·reś|of Kir-heres|H7025|N-proper-fs
 v36 כַּחֲלִילִ֖ים|ka·ḥă·lî·lîm|like a flute|H2485|Prep-k, Art | N-mp
 v36 יֶהֱמֶ֑ה|ye·hĕ·meh|laments|H1993|V-Qal-Imperf-3ms
@@ -459,9 +459,9 @@ v38 שָׁבַ֣רְתִּי|šā·ḇar·tî|I have shattered|H7665|V-Qal-Perf-
 v38 אֶת־|’eṯ-|-|H853|DirObjM
 v38 מוֹאָ֗ב|mō·w·’āḇ|Moab|H4124|N-proper-fs
 v38 כִּכְלִ֛י|kiḵ·lî|jar|H3627|Prep-k | N-ms
-v38 אֵֽין־|’ên-|vvv|H369|Adv
+v38 אֵֽין־|’ên-|...|H369|Adv
 v38 חֵ֥פֶץ|ḥê·p̄eṣ|like an unwanted|H2656|N-ms
-v38 בּ֖וֹ|bōw||H0|Prep | 3ms
+v38 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v38 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v38 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v39 אֵ֥יךְ|’êḵ|How|H349|Interjection
@@ -477,7 +477,7 @@ v39 מוֹאָ֛ב|mō·w·’āḇ|Moab|H4124|N-proper-fs
 v39 לִשְׂחֹ֥ק|liś·ḥōq|an object of ridicule|H7814|Prep-l | N-ms
 v39 וְלִמְחִתָּ֖ה|wə·lim·ḥit·tāh|and horror|H4288|Conj-w, Prep-l | N-fs
 v39 לְכָל־|lə·ḵāl|to all those|H3605|Prep-l | N-msc
-v39 סְבִיבָֽיו׃ס|sə·ḇî·ḇāw|around him|H5439|Adv | 3ms
+v39 סְבִיבָֽיו׃|sə·ḇî·ḇāw|around him|H5439|Adv | 3ms
 v40 כִּי־|kî-|For|H3588|Conj
 v40 כֹה֙|ḵōh|this is what|H3541|Adv
 v40 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -577,4 +577,4 @@ v47 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v47 עַד־|‘aḏ-|ends|H5704|Prep
 v47 הֵ֖נָּה|hên·nāh|Here|H2008|Adv
 v47 מִשְׁפַּ֥ט|miš·paṭ|the judgment|H4941|N-msc
-v47 מוֹאָֽב׃ס|mō·w·’āḇ|on Moab|H4124|N-proper-fs
+v47 מוֹאָֽב׃|mō·w·’āḇ|on Moab|H4124|N-proper-fs

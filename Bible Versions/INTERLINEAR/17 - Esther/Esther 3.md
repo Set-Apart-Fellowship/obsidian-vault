@@ -77,7 +77,7 @@ v5 אֵ֣ין|’ên|would not|H369|Adv
 v5 מָרְדֳּכַ֔י|mā·rə·do·ḵay|Mordecai|H4782|N-proper-ms
 v5 כֹּרֵ֥עַ|kō·rê·a‘|bow down|H3766|V-Qal-Prtcpl-ms
 v5 וּמִֽשְׁתַּחֲוֶ֖ה|ū·miš·ta·ḥă·weh|or pay him homage|H7812|Conj-w | V-Hitpael-Prtcpl-ms
-v5 ל֑וֹ|lōw||H0|Prep | 3ms
+v5 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v5 וַיִּמָּלֵ֥א|way·yim·mā·lê|was filled|H4390|Conj-w | V-Nifal-ConsecImperf-3ms
 v5 הָמָ֖ן|hā·mān|he|H2001|N-proper-ms
 v5 חֵמָֽה׃|ḥê·māh|with rage|H2534|N-fs
@@ -89,14 +89,14 @@ v6 בְּמָרְדֳּכַ֣י|bə·mā·rə·do·ḵay|on Mordecai|H4782|Prep-
 v6 לְבַדּ֔וֹ|lə·ḇad·dōw|alone|H905|Prep-l | N-msc | 3ms
 v6 כִּֽי־|kî-|And when|H3588|Conj
 v6 הִגִּ֥ידוּ|hig·gî·ḏū|he learned the identity|H5046|V-Hifil-Perf-3cp
-v6 ל֖וֹ|lōw||H0|Prep | 3ms
-v6 אֶת־|’eṯ-||H853|DirObjM
+v6 ל֖וֹ|lōw|-|H0|Prep | 3ms
+v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 עַ֣ם|‘am|people|H5971|N-msc
 v6 מָרְדֳּכָ֑י|mā·rə·do·ḵāy|of Mordecai's|H4782|N-proper-ms
 v6 וַיְבַקֵּ֣שׁ|way·ḇaq·qêš|sought|H1245|Conj-w | V-Piel-ConsecImperf-3ms
 v6 הָמָ֗ן|hā·mān|Instead, he|H2001|N-proper-ms
 v6 לְהַשְׁמִ֧יד|lə·haš·mîḏ|to destroy|H8045|Prep-l | V-Hifil-Inf
-v6 אֶת־|’eṯ-||H853|DirObjM
+v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 כָּל־|kāl-|all|H3605|N-msc
 v6 הַיְּהוּדִ֛ים|hay·yə·hū·ḏîm|the Jews|H3064|Art | N-proper-mp
 v6 אֲשֶׁ֛ר|’ă·šer|-|H834|Pro-r
@@ -107,7 +107,7 @@ v6 עַ֥ם|‘am|people|H5971|N-msc
 v6 מָרְדֳּכָֽי׃|mā·rə·do·ḵāy|of Mordecai's|H4782|N-proper-ms
 v7 בַּחֹ֤דֶשׁ|ba·ḥō·ḏeš|month|H2320|Prep-b, Art | N-ms
 v7 הָרִאשׁוֹן֙|hā·ri·šō·wn|in the first|H7223|Art | Adj-ms
-v7 הוּא־|hū-||H1931|Pro-3ms
+v7 הוּא־|hū-|-|H1931|Pro-3ms
 v7 חֹ֣דֶשׁ|ḥō·ḏeš|the month|H2320|N-msc
 v7 נִיסָ֔ן|nî·sān|of Nisan|H5212|N-proper-fs
 v7 בִּשְׁנַת֙|biš·naṯ|year|H8141|Prep-b | N-fsc
@@ -129,7 +129,7 @@ v7 שְׁנֵים־|šə·nêm-|[And the lot fell on] the twelfth|H8147|Number-m
 v7 עָשָׂ֖ר|‘ā·śār|...|H6240|Number-ms
 v7 הוּא־|hū-|...|H1931|Pro-3ms
 v7 חֹ֥דֶשׁ|ḥō·ḏeš|month|H2320|N-msc
-v7 אֲדָֽר׃ס|’ă·ḏār|the month of Adar|H143|N-proper-fs
+v7 אֲדָֽר׃|’ă·ḏār|the month of Adar|H143|N-proper-fs
 v8 וַיֹּ֤אמֶר|way·yō·mer|informed|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 הָמָן֙|hā·mān|Then Haman|H2001|N-proper-ms
 v8 לַמֶּ֣לֶךְ|lam·me·leḵ|King|H4428|Prep-l, Art | N-ms
@@ -208,7 +208,7 @@ v12 הָרִאשׁ֗וֹן|hā·ri·šō·wn|of the first|H7223|Art | Adj-ms
 v12 בִּשְׁלוֹשָׁ֨ה|biš·lō·wō·šāh|On the thirteenth|H7969|Prep-b | Number-ms
 v12 עָשָׂ֣ר|‘ā·śār|...|H6240|Number-ms
 v12 יוֹם֮|yō·wm|day|H3117|N-ms
-v12 בּוֹ֒|bōw||H0|Prep | 3ms
+v12 בּוֹ֒|bōw|-|H0|Prep | 3ms
 v12 וַיִּכָּתֵ֣ב|way·yik·kā·ṯêḇ|and the order was written|H3789|Conj-w | V-Nifal-ConsecImperf-3ms
 v12 כְּֽכָל־|kə·ḵāl-|exactly as|H3605|Prep-k | N-msc
 v12 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
@@ -227,10 +227,10 @@ v12 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
 v12 שָׂ֤רֵי|śā·rê|and the officials|H8269|N-mpc
 v12 עַם֙|‘am|of each|H5971|N-ms
 v12 וָעָ֔ם|wā·‘ām|people|H5971|Conj-w | N-ms
-v12 מְדִינָ֤ה|mə·ḏî·nāh||H4082|N-fs
+v12 מְדִינָ֤ה|mə·ḏî·nāh|-|H4082|N-fs
 v12 וּמְדִינָה֙|ū·mə·ḏî·nāh|of each province|H4082|Conj-w | N-fs
 v12 כִּכְתָבָ֔הּ|kiḵ·ṯā·ḇāh|in the script|H3791|Prep-k | N-msc | 3fs
-v12 וְעַ֥ם|wə·‘am|vvv|H5971|Conj-w | N-ms
+v12 וְעַ֥ם|wə·‘am|...|H5971|Conj-w | N-ms
 v12 וָעָ֖ם|wā·‘ām|of every people|H5971|Conj-w | N-ms
 v12 כִּלְשׁוֹנ֑וֹ|kil·šō·w·nōw|and the language|H3956|Prep-k | N-csc | 3ms
 v12 בְּשֵׁ֨ם|bə·šêm|in the name|H8034|Prep-b | N-msc
@@ -263,7 +263,7 @@ v13 בְּי֣וֹם|bə·yō·wm|day|H3117|Prep-b | N-ms
 v13 אֶחָ֔ד|’e·ḥāḏ|on a single|H259|Number-ms
 v13 בִּשְׁלוֹשָׁ֥ה|biš·lō·wō·šāh|the thirteenth|H7969|Prep-b | Number-ms
 v13 עָשָׂ֛ר|‘ā·śār|...|H6240|Number-ms
-v13 לְחֹ֥דֶשׁ|lə·ḥō·ḏeš||H2320|Prep-l | N-ms
+v13 לְחֹ֥דֶשׁ|lə·ḥō·ḏeš|-|H2320|Prep-l | N-ms
 v13 שְׁנֵים־|šə·nêm-|the twelfth|H8147|Number-md
 v13 עָשָׂ֖ר|‘ā·śār|...|H6240|Number-ms
 v13 הוּא־|hū-|...|H1931|Pro-3ms
@@ -300,4 +300,4 @@ v15 יָשְׁב֣וּ|yā·šə·ḇū|sat down|H3427|V-Qal-Perf-3cp
 v15 לִשְׁתּ֔וֹת|liš·tō·wṯ|to drink|H8354|Prep-l | V-Qal-Inf
 v15 וְהָעִ֥יר|wə·hā·‘îr|but the city|H5892|Conj-w, Art | N-fs
 v15 שׁוּשָׁ֖ן|šū·šān|of Susa|H7800|N-proper-ms
-v15 נָבֽוֹכָה׃פ|nā·ḇō·w·ḵāh|was in confusion|H943|V-Nifal-Perf-3fs
+v15 נָבֽוֹכָה׃|nā·ḇō·w·ḵāh|was in confusion|H943|V-Nifal-Perf-3fs

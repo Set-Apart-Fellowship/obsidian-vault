@@ -27,8 +27,8 @@ v2 στενάζομεν|stenazomen|we groan|G4727|V-PIA-1P
 v2 τὸ|to|-|G3588|Art-ANS
 v2 οἰκητήριον|oikētērion|dwelling|G3613|N-ANS
 v2 ἡμῶν|hēmōn|our|G1473|PPro-G1P
-v2 τὸ|to|vvv|G3588|Art-ANS
-v2 ἐξ|ex|vvv|G1537|Prep
+v2 τὸ|to|...|G3588|Art-ANS
+v2 ἐξ|ex|...|G1537|Prep
 v2 οὐρανοῦ|ouranou|heavenly|G3772|N-GMS
 v2 ἐπενδύσασθαι|ependysasthai|to be clothed with|G1902|V-ANM
 v2 ἐπιποθοῦντες|epipothountes|longing|G1971|V-PPA-NMP
@@ -36,7 +36,7 @@ v3 εἴ|ei|because|G1487|Conj
 v3 γε|ge|...|G1065|Prtcl
 v3 καὶ|kai|...|G2532|Conj
 v3 ἐνδυσάμενοι|endysamenoi|when we are clothed|G1746|V-APM-NMP
-v3 οὐ|ou|vvv|G3756|Adv
+v3 οὐ|ou|...|G3756|Adv
 v3 γυμνοὶ|gymnoi|naked|G1131|Adj-NMP
 v3 εὑρεθησόμεθα|heurethēsometha|we will not be found|G2147|V-FIP-1P
 v4 καὶ|kai|For|G2532|Conj
@@ -50,7 +50,7 @@ v4 στενάζομεν|stenazomen|we groan|G4727|V-PIA-1P
 v4 βαρούμενοι|baroumenoi|under our burdens|G916|V-PPM/P-NMP
 v4 ἐφ’|eph’|because|G1909|Prep
 v4 ᾧ|hō|...|G3739|RelPro-DNS
-v4 οὐ|ou|vvv|G3756|Adv
+v4 οὐ|ou|...|G3756|Adv
 v4 θέλομεν|thelomen|we do not wish|G2309|V-PIA-1P
 v4 ἐκδύσασθαι|ekdysasthai|to be unclothed|G1562|V-ANM
 v4 ἀλλ’|all’|but|G235|Conj
@@ -79,7 +79,7 @@ v5 τοῦ|tou|the|G3588|Art-GNS
 v5 Πνεύματος|Pneumatos|Spirit|G4151|N-GNS
 v6 Θαρροῦντες|Tharrountes|we are always confident|G2292|V-PPA-NMP
 v6 οὖν|oun|Therefore|G3767|Conj
-v6 πάντοτε|pantote|vvv|G3842|Adv
+v6 πάντοτε|pantote|...|G3842|Adv
 v6 καὶ|kai|although|G2532|Conj
 v6 εἰδότες|eidotes|we know|G1492|V-RPA-NMP
 v6 ὅτι|hoti|that|G3754|Conj
@@ -166,7 +166,7 @@ v11 ταῖς|tais|-|G3588|Art-DFP
 v11 συνειδήσεσιν|syneidēsesin|conscience|G4893|N-DFP
 v11 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v11 πεφανερῶσθαι|pephanerōsthai|it is clear|G5319|V-RNM/P
-v12 οὐ|ou|vvv|G3756|Adv
+v12 οὐ|ou|...|G3756|Adv
 v12 πάλιν|palin|again|G3825|Adv
 v12 ἑαυτοὺς|heautous|ourselves|G1438|RefPro-AM3P
 v12 συνιστάνομεν|synistanomen|We are not commending|G4921|V-PIA-1P
@@ -241,7 +241,7 @@ v16 οἴδαμεν|oidamen|regard|G1492|V-RIA-1P
 v16 κατὰ|kata|according to|G2596|Prep
 v16 σάρκα|sarka|[the] flesh|G4561|N-AFS
 v16 εἰ|ei|Although|G1487|Conj
-v16 καὶ|kai|vvv|G2532|Conj
+v16 καὶ|kai|...|G2532|Conj
 v16 ἐγνώκαμεν|egnōkamen|we once regarded|G1097|V-RIA-1P
 v16 κατὰ|kata|[in this way]|G2596|Prep
 v16 σάρκα|sarka|...|G4561|N-AFS
@@ -325,7 +325,7 @@ v21 τὸν|ton|Him who|G3588|Art-AMS
 v21 μὴ|mē|no|G3361|Adv
 v21 γνόντα|gnonta|knew|G1097|V-APA-AMS
 v21 ἁμαρτίαν|hamartian|sin|G266|N-AFS
-v21 ὑπὲρ|hyper|vvv|G5228|Prep
+v21 ὑπὲρ|hyper|...|G5228|Prep
 v21 ἡμῶν|hēmōn|on our behalf|G1473|PPro-G1P
 v21 ἁμαρτίαν|hamartian|[to be] sin|G266|N-AFS
 v21 ἐποίησεν|epoiēsen|[God] made|G4160|V-AIA-3S

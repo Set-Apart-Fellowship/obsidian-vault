@@ -42,7 +42,7 @@ v5 לְנָבָ֖ל|lə·nā·ḇāl|a fool|H5036|Prep-l | Adj-ms
 v5 נָדִ֑יב|nā·ḏîḇ|noble|H5081|Adj-ms
 v5 וּלְכִילַ֕י|ū·lə·ḵî·lay|a scoundrel|H3596|Conj-w, Prep-l | N-ms
 v5 לֹ֥א|lō|nor|H3808|Adv-NegPrt
-v5 יֵֽאָמֵ֖ר|yê·’ā·mêr|vvv|H559|V-Nifal-Imperf-3ms
+v5 יֵֽאָמֵ֖ר|yê·’ā·mêr|...|H559|V-Nifal-Imperf-3ms
 v5 שֽׁוֹעַ׃|šō·w·a‘|be respected|H7771|N-ms
 v6 כִּ֤י|kî|For|H3588|Conj
 v6 נָבָל֙|nā·ḇāl|a fool|H5036|Adj-ms
@@ -82,7 +82,7 @@ v8 יָעָ֑ץ|yā·‘āṣ|makes|H3289|V-Qal-Perf-3ms
 v8 וְה֖וּא|wə·hū|he|H1931|Conj-w | Pro-3ms
 v8 עַל־|‘al-|for|H5921|Prep
 v8 נְדִיב֥וֹת|nə·ḏî·ḇō·wṯ|worthy causes|H5081|N-fp
-v8 יָקֽוּם׃פ|yā·qūm|stands up|H6965|V-Qal-Imperf-3ms
+v8 יָקֽוּם׃|yā·qūm|stands up|H6965|V-Qal-Imperf-3ms
 v9 נָשִׁים֙|nā·šîm|women|H802|N-fp
 v9 שַֽׁאֲנַנּ֔וֹת|ša·’ă·nan·nō·wṯ|you complacent|H7600|Adj-mp
 v9 קֹ֖מְנָה|qō·mə·nāh|Stand up|H6965|V-Qal-Imp-fp
@@ -200,4 +200,4 @@ v20 מָ֑יִם|mā·yim|waters|H4325|N-mp
 v20 מְשַׁלְּחֵ֥י|mə·šal·lə·ḥê|range freely|H7971|V-Piel-Prtcpl-mpc
 v20 רֶֽגֶל־|re·ḡel-|...|H7272|N-fsc
 v20 הַשּׁ֖וֹר|haš·šō·wr|who let the ox|H7794|Art | N-ms
-v20 וְהַחֲמֽוֹר׃ס|wə·ha·ḥă·mō·wr|and donkey|H2543|Conj-w, Art | N-ms
+v20 וְהַחֲמֽוֹר׃|wə·ha·ḥă·mō·wr|and donkey|H2543|Conj-w, Art | N-ms

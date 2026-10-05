@@ -82,7 +82,7 @@ v6 ἐπιγνώσει|epignōsei|you fully acknowledge|G1922|N-DFS
 v6 παντὸς|pantos|every|G3956|Adj-GNS
 v6 ἀγαθοῦ|agathou|good [thing]|G18|Adj-GNS
 v6 τοῦ|tou|that [is]|G3588|Art-GNS
-v6 ἐν|en|vvv|G1722|Prep
+v6 ἐν|en|...|G1722|Prep
 v6 ἡμῖν|hēmin|ours|G1473|PPro-D1P
 v6 εἰς|eis|in|G1519|Prep
 v6 Χριστόν|Christon|Christ|G5547|N-AMS
@@ -118,7 +118,7 @@ v8 ἀνῆκον|anēkon|proper|G433|V-PPA-ANS
 v9 διὰ|dia|on the basis of|G1223|Prep
 v9 τὴν|tēn|-|G3588|Art-AFS
 v9 ἀγάπην|agapēn|love|G26|N-AFS
-v9 μᾶλλον|mallon|vvv|G3123|Adv
+v9 μᾶλλον|mallon|...|G3123|Adv
 v9 παρακαλῶ|parakalō|I prefer to appeal|G3870|V-PIA-1S
 v9 τοιοῦτος|toioutos|I|G5108|DPro-NMS
 v9 ὢν|ōn|am|G1510|V-PPA-NMS
@@ -154,7 +154,7 @@ v11 σοὶ|soi|to you|G4771|PPro-D2S
 v11 καὶ|kai|and|G2532|Conj
 v11 ἐμοὶ|emoi|to me|G1473|PPro-D1S
 v11 εὔχρηστον|euchrēston|[he has become] useful|G2173|Adj-AMS
-v12 ὃν|hon|vvv|G3739|RelPro-AMS
+v12 ὃν|hon|...|G3739|RelPro-AMS
 v12 ἀνέπεμψά|anepempsa|I am sending back|G375|V-AIA-1S
 v12 σοι|soi|to you|G4771|PPro-D2S
 v12 αὐτόν|auton|him|G846|PPro-AM3S
@@ -170,7 +170,7 @@ v13 πρὸς|pros|with|G4314|Prep
 v13 ἐμαυτὸν|emauton|me|G1683|PPro-AM1S
 v13 κατέχειν|katechein|to keep|G2722|V-PNA
 v13 ἵνα|hina|so that|G2443|Conj
-v13 ὑπὲρ|hyper|vvv|G5228|Prep
+v13 ὑπὲρ|hyper|...|G5228|Prep
 v13 σοῦ|sou|on your behalf|G4771|PPro-G2S
 v13 μοι|moi|me|G1473|PPro-D1S
 v13 διακονῇ|diakonē|he could minister to|G1247|V-PSA-3S
@@ -189,7 +189,7 @@ v14 ἠθέλησα|ēthelēsa|I did [not] want|G2309|V-AIA-1S
 v14 ποιῆσαι|poiēsai|to do|G4160|V-ANA
 v14 ἵνα|hina|so that|G2443|Conj
 v14 μὴ|mē|...|G3361|Adv
-v14 ὡς|hōs|vvv|G5613|Adv
+v14 ὡς|hōs|...|G5613|Adv
 v14 κατὰ|kata|out of|G2596|Prep
 v14 ἀνάγκην|anankēn|compulsion|G318|N-AFS
 v14 τὸ|to|-|G3588|Art-NNS
@@ -246,8 +246,8 @@ v18 ἠδίκησέν|ēdikēsen|he has wronged|G91|V-AIA-3S
 v18 σε|se|you|G4771|PPro-A2S
 v18 ἢ|ē|or|G2228|Conj
 v18 ὀφείλει|opheilei|owes [you anything]|G3784|V-PIA-3S
-v18 τοῦτο|touto|vvv|G3778|DPro-ANS
-v18 ἐμοὶ|emoi|vvv|G1473|PPro-D1S
+v18 τοῦτο|touto|...|G3778|DPro-ANS
+v18 ἐμοὶ|emoi|...|G1473|PPro-D1S
 v18 ἐλλόγα|elloga|charge it to my account|G1677|V-PMA-2S
 v19 ἐγὼ|egō|I|G1473|PPro-N1S
 v19 Παῦλος|Paulos|Paul|G3972|N-NMS
@@ -262,13 +262,13 @@ v19 μὴ|mē|not|G3361|Adv
 v19 λέγω|legō|mention|G3004|V-PSA-1S
 v19 σοι|soi|-|G4771|PPro-D2S
 v19 ὅτι|hoti|that|G3754|Conj
-v19 καὶ|kai|vvv|G2532|Conj
+v19 καὶ|kai|...|G2532|Conj
 v19 σεαυτόν|seauton|your very self|G4572|PPro-AM2S
 v19 μοι|moi|me|G1473|PPro-D1S
 v19 προσοφείλεις|prosopheileis|you owe|G4359|V-PIA-2S
 v20 Ναί|Nai|Yes|G3483|Prtcl
 v20 ἀδελφέ|adelphe|brother|G80|N-VMS
-v20 ἐγώ|egō|vvv|G1473|PPro-N1S
+v20 ἐγώ|egō|...|G1473|PPro-N1S
 v20 σου|sou|from you|G4771|PPro-G2S
 v20 ὀναίμην|onaimēn|let me have some benefit|G3685|V-AOM-1S
 v20 ἐν|en|in|G1722|Prep

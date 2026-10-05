@@ -8,7 +8,7 @@ v1 כְּאִ֣ישׁ|kə·’îš|man|H376|Prep-k | N-ms
 v1 אֶחָ֗ד|’e·ḥāḏ|as one|H259|Number-ms
 v1 לְמִדָּן֙|lə·mid·dān|from Dan|H1835|Prep-l, Prep-m | N-proper-ms
 v1 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
-v1 בְּאֵ֣ר|bə·’êr|vvv|H884|Prep
+v1 בְּאֵ֣ר|bə·’êr|...|H884|Prep
 v1 שֶׁ֔בַע|še·ḇa‘|Beersheba|H884|N-proper-fs
 v1 וְאֶ֖רֶץ|wə·’e·reṣ|and from the land|H776|Conj-w | N-fsc
 v1 הַגִּלְעָ֑ד|hag·gil·‘āḏ|of Gilead|H1568|Art | N-proper-fs
@@ -25,13 +25,13 @@ v2 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 בִּקְהַ֖ל|biq·hal|in the assembly|H6951|Prep-b | N-msc
 v2 עַ֣ם|‘am|people|H5971|N-msc
 v2 הָאֱלֹהִ֑ים|hā·’ĕ·lō·hîm|of God's|H430|Art | N-mp
-v2 אַרְבַּ֨ע|’ar·ba‘|400,000 {}|H702|Number-fs
+v2 אַרְבַּ֨ע|’ar·ba‘|400,000|H702|Number-fs
 v2 מֵא֥וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v2 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v2 אִ֥ישׁ|’îš|men|H376|N-ms
 v2 רַגְלִ֖י|raḡ·lî|on foot|H7273|Adj-ms
 v2 שֹׁ֥לֵֽף|šō·lêp̄|armed|H8025|V-Qal-Prtcpl-ms
-v2 חָֽרֶב׃פ|ḥā·reḇ|with swords|H2719|N-fs
+v2 חָֽרֶב׃|ḥā·reḇ|with swords|H2719|N-fs
 v3 וַֽיִּשְׁמְעוּ֙|way·yiš·mə·‘ū|heard|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v3 בְּנֵ֣י|bə·nê|Meanwhile the Benjamites|H1121|N-mpc
 v3 בִנְיָמִ֔ן|ḇin·yā·min|...|H1144|N-proper-ms
@@ -140,7 +140,7 @@ v10 לַעֲשׂ֗וֹת|la·‘ă·śō·wṯ|to punish them|H6213|Prep-l | V-
 v10 לְבוֹאָם֙|lə·ḇō·w·’ām|when they go|H935|Prep-l | V-Qal-Inf | 3mp
 v10 לְגֶ֣בַע|lə·ḡe·ḇa‘|to Gibeah|H1387|Prep-l | N-proper-fs
 v10 בִּנְיָמִ֔ן|bin·yā·min|in Benjamin|H1144|N-proper-ms
-v10 כְּכָל־|kə·ḵāl-|vvv|H3605|Prep-k | N-msc
+v10 כְּכָל־|kə·ḵāl-|...|H3605|Prep-k | N-msc
 v10 הַ֨נְּבָלָ֔ה|han·nə·ḇā·lāh|for the atrocity|H5039|Art | N-fs
 v10 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v10 עָשָׂ֖ה|‘ā·śāh|they have committed|H6213|V-Qal-Perf-3ms
@@ -153,7 +153,7 @@ v11 אֶל־|’el-|against|H413|Prep
 v11 הָעִ֔יר|hā·‘îr|the city|H5892|Art | N-fs
 v11 כְּאִ֥ישׁ|kə·’îš|man|H376|Prep-k | N-ms
 v11 אֶחָ֖ד|’e·ḥāḏ|as one|H259|Number-ms
-v11 חֲבֵרִֽים׃פ|ḥă·ḇê·rîm|united|H2270|N-mp
+v11 חֲבֵרִֽים׃|ḥă·ḇê·rîm|united|H2270|N-mp
 v12 וַֽיִּשְׁלְח֞וּ|way·yiš·lə·ḥū|sent|H7971|Conj-w | V-Qal-ConsecImperf-3mp
 v12 שִׁבְטֵ֤י|šiḇ·ṭê|And the tribes|H7626|N-mpc
 v12 יִשְׂרָאֵל֙|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -186,7 +186,7 @@ v13 בִּנְיָמִ֔ן|bin·yā·min|But the Benjamites|H1144|N-proper-ms
 v13 לִשְׁמֹ֕עַ|liš·mō·a‘|to heed|H8085|Prep-l | V-Qal-Inf
 v13 בְּק֖וֹל|bə·qō·wl|the voice|H6963|Prep-b | N-msc
 v13 אֲחֵיהֶ֥ם|’ă·ḥê·hem|of their fellow|H251|N-mpc | 3mp
-v13 בְּנֵֽי־|bə·nê-|vvv|H1121|N-mpc
+v13 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v13 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israelites|H3478|N-proper-ms
 v14 וַיֵּאָסְפ֧וּ|way·yê·’ā·sə·p̄ū|came together|H622|Conj-w | V-Nifal-ConsecImperf-3mp
 v14 בְנֵֽי־|ḇə·nê-|[they]|H1121|N-mpc
@@ -205,11 +205,11 @@ v15 בִנְיָמִ֜ן|ḇin·yā·min|...|H1144|N-proper-ms
 v15 בַּיּ֤וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v15 הַהוּא֙|ha·hū|On that|H1931|Art | Pro-3ms
 v15 מֵהֶ֣עָרִ֔ים|mê·he·‘ā·rîm|from their cities|H5892|Prep-m, Art | N-fp
-v15 עֶשְׂרִ֨ים|‘eś·rîm|26,000 {}|H6242|Number-cp
+v15 עֶשְׂרִ֨ים|‘eś·rîm|26,000|H6242|Number-cp
 v15 וְשִׁשָּׁ֥ה|wə·šiš·šāh|...|H8337|Conj-w | Number-ms
 v15 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v15 אִ֖ישׁ|’îš|...|H376|N-ms
-v15 שֹׁ֣לֵֽף|šō·lêp̄|vvv|H8025|V-Qal-Prtcpl-ms
+v15 שֹׁ֣לֵֽף|šō·lêp̄|...|H8025|V-Qal-Prtcpl-ms
 v15 חָ֑רֶב|ḥā·reḇ|swordsmen|H2719|N-fs
 v15 לְ֠בַד|lə·ḇaḏ|in addition to|H905|Prep | N-msc
 v15 מִיֹּשְׁבֵ֤י|mî·yō·šə·ḇê|-|H3427|Prep-m | V-Qal-Prtcpl-mpc
@@ -236,13 +236,13 @@ v16 בָּאֶ֛בֶן|bā·’e·ḇen|a stone|H68|Prep-b, Art | N-fs
 v16 אֶל־|’el-|at|H413|Prep
 v16 הַֽשַּׂעֲרָ֖ה|haś·śa·‘ă·rāh|a hair|H8185|Art | N-fs
 v16 וְלֹ֥א|wə·lō|without|H3808|Conj-w | Adv-NegPrt
-v16 יַחֲטִֽא׃פ|ya·ḥă·ṭi|missing|H2398|V-Hifil-Imperf-3ms
+v16 יַחֲטִֽא׃|ya·ḥă·ṭi|missing|H2398|V-Hifil-Imperf-3ms
 v17 וְאִ֨ישׁ|wə·’îš|The Israelites|H376|Conj-w | N-msc
 v17 יִשְׂרָאֵ֜ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v17 הִתְפָּֽקְד֗וּ|hiṯ·pā·qə·ḏū|mobilized|H6485|V-Hitpael-Perf-3cp
 v17 לְבַד֙|lə·ḇaḏ|apart from|H905|Prep-l | N-msc
 v17 מִבִּנְיָמִ֔ן|mib·bin·yā·min|Benjamin|H1144|Prep-m | N-proper-ms
-v17 אַרְבַּ֨ע|’ar·ba‘|400,000 {}|H702|Number-fsc
+v17 אַרְבַּ֨ע|’ar·ba‘|400,000|H702|Number-fsc
 v17 מֵא֥וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v17 אֶ֛לֶף|’e·lep̄|...|H505|Number-msc
 v17 אִ֖ישׁ|’îš|...|H376|N-ms
@@ -254,7 +254,7 @@ v17 אִ֥ישׁ|’îš|an experienced warrior|H376|N-msc
 v17 מִלְחָמָֽה׃|mil·ḥā·māh|...|H4421|N-fs
 v18 וַיָּקֻ֜מוּ|way·yā·qu·mū|set out|H6965|Conj-w | V-Qal-ConsecImperf-3mp
 v18 וַיַּעֲל֣וּ|way·ya·‘ă·lū|went up|H5927|Conj-w | V-Qal-ConsecImperf-3mp
-v18 בֵֽית־|ḇêṯ-|vvv|H1008|Prep
+v18 בֵֽית־|ḇêṯ-|...|H1008|Prep
 v18 אֵל֮|’êl|to Bethel|H1008|N-proper-fs
 v18 וַיִּשְׁאֲל֣וּ|way·yiš·’ă·lū|and inquired|H7592|Conj-w | V-Qal-ConsecImperf-3mp
 v18 בֵאלֹהִים֒|ḇê·lō·hîm|of God|H430|Prep-b | N-mp
@@ -279,7 +279,7 @@ v19 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v19 בַּבֹּ֑קֶר|bab·bō·qer|The next morning|H1242|Prep-b, Art | N-ms
 v19 וַיַּֽחֲנ֖וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
 v19 עַל־|‘al-|near|H5921|Prep
-v19 הַגִּבְעָֽה׃פ|hag·giḇ·‘āh|Gibeah|H1390|Art | N-proper-fs
+v19 הַגִּבְעָֽה׃|hag·giḇ·‘āh|Gibeah|H1390|Art | N-proper-fs
 v20 וַיֵּצֵא֙|way·yê·ṣê|went out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אִ֣ישׁ|’îš|And the men|H376|N-msc
 v20 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -302,10 +302,10 @@ v21 וַיַּשְׁחִ֨יתוּ|way·yaš·ḥî·ṯū|and cut down|H7843|Co
 v21 בְיִשְׂרָאֵ֜ל|ḇə·yiś·rā·’êl|Israelites|H3478|Prep-b | N-proper-ms
 v21 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v21 הַה֗וּא|ha·hū|that|H1931|Art | Pro-3ms
-v21 שְׁנַ֨יִם|šə·na·yim|22,000 {}|H8147|Number-md
+v21 שְׁנַ֨יִם|šə·na·yim|22,000|H8147|Number-md
 v21 וְעֶשְׂרִ֥ים|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
 v21 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
-v21 אִ֖ישׁ|’îš|vvv|H376|N-ms
+v21 אִ֖ישׁ|’îš|...|H376|N-ms
 v21 אָֽרְצָה׃|’ā·rə·ṣāh|on the battlefield|H776|N-fs | 3fs
 v22 וַיִּתְחַזֵּ֥ק|way·yiṯ·ḥaz·zêq|took courage|H2388|Conj-w | V-Hitpael-ConsecImperf-3ms
 v22 הָעָ֖ם|hā·‘ām|army|H5971|Art | N-ms
@@ -341,7 +341,7 @@ v23 אָחִ֑י|’ā·ḥî|our brothers|H251|N-msc | 1cs
 v23 וַיֹּ֥אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v23 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v23 עֲל֥וּ|‘ă·lū|Go up|H5927|V-Qal-Imp-mp
-v23 אֵלָֽיו׃פ|’ê·lāw|against them|H413|Prep | 3ms
+v23 אֵלָֽיו׃|’ê·lāw|against them|H413|Prep | 3ms
 v24 וַיִּקְרְב֧וּ|way·yiq·rə·ḇū|advanced|H7126|Conj-w | V-Qal-ConsecImperf-3mp
 v24 בְנֵֽי־|ḇə·nê-|the Israelites|H1121|N-mpc
 v24 יִשְׂרָאֵ֛ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -361,7 +361,7 @@ v25 וַיַּשְׁחִיתוּ֩|way·yaš·ḥî·ṯū|and cut down|H7843|Co
 v25 בִבְנֵ֨י|ḇiḇ·nê|Israelites|H1121|Prep-b | N-mpc
 v25 יִשְׂרָאֵ֜ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v25 ע֗וֹד|‘ō·wḏ|another|H5750|Adv
-v25 שְׁמֹנַ֨ת|šə·mō·naṯ|18,000 {}|H8083|Number-msc
+v25 שְׁמֹנַ֨ת|šə·mō·naṯ|18,000|H8083|Number-msc
 v25 עָשָׂ֥ר|‘ā·śār|...|H6240|Number-ms
 v25 אֶ֛לֶף|’e·lep̄|...|H505|Number-msc
 v25 אִ֖ישׁ|’îš|...|H376|N-ms
@@ -372,12 +372,12 @@ v25 שֹׁ֥לְפֵי|šō·lə·p̄ê|armed|H8025|V-Qal-Prtcpl-mpc
 v25 חָֽרֶב׃|ḥā·reḇ|with swords|H2719|N-fs
 v26 וַיַּעֲל֣וּ|way·ya·‘ă·lū|went up|H5927|Conj-w | V-Qal-ConsecImperf-3mp
 v26 כָל־|ḵāl|Then|H3605|N-msc
-v26 בְּנֵי֩|bə·nê|vvv|H1121|N-mpc
+v26 בְּנֵי֩|bə·nê|...|H1121|N-mpc
 v26 יִשְׂרָאֵ֨ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v26 וְכָל־|wə·ḵāl|all|H3605|Conj-w | N-msc
 v26 הָעָ֜ם|hā·‘ām|the people|H5971|Art | N-ms
 v26 וַיָּבֹ֣אוּ|way·yā·ḇō·’ū|...|H935|Conj-w | V-Qal-ConsecImperf-3mp
-v26 בֵֽית־|ḇêṯ-|vvv|H1008|Prep
+v26 בֵֽית־|ḇêṯ-|...|H1008|Prep
 v26 אֵ֗ל|’êl|to Bethel|H1008|N-proper-fs
 v26 וַיִּבְכּוּ֙|way·yiḇ·kū|weeping|H1058|Conj-w | V-Qal-ConsecImperf-3mp
 v26 וַיֵּ֤שְׁבוּ|way·yê·šə·ḇū|they sat|H3427|Conj-w | V-Qal-ConsecImperf-3mp
@@ -436,7 +436,7 @@ v29 יִשְׂרָאֵל֙|yiś·rā·’êl|So Israel|H3478|N-proper-ms
 v29 אֹֽרְבִ֔ים|’ō·rə·ḇîm|an ambush|H693|V-Qal-Prtcpl-mp
 v29 אֶל־|’el-|...|H413|Prep
 v29 הַגִּבְעָ֖ה|hag·giḇ·‘āh|Gibeah|H1390|Art | N-proper-fs
-v29 סָבִֽיב׃פ|sā·ḇîḇ|around|H5439|Adv
+v29 סָבִֽיב׃|sā·ḇîḇ|around|H5439|Adv
 v30 וַיַּעֲל֧וּ|way·ya·‘ă·lū|went up|H5927|Conj-w | V-Qal-ConsecImperf-3mp
 v30 בְנֵֽי־|ḇə·nê-|the Israelites|H1121|N-mpc
 v30 יִשְׂרָאֵ֛ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -498,7 +498,7 @@ v33 יִשְׂרָאֵ֗ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v33 קָ֚מוּ|qā·mū|got up|H6965|V-Qal-Perf-3cp
 v33 מִמְּקוֹמ֔וֹ|mim·mə·qō·w·mōw|from their places|H4725|Prep-m | N-msc | 3ms
 v33 וַיַּעַרְכ֖וּ|way·ya·‘ar·ḵū|and arrayed themselves|H6186|Conj-w | V-Qal-ConsecImperf-3mp
-v33 בְּבַ֣עַל|bə·ḇa·‘al|vvv|H1193|Prep
+v33 בְּבַ֣עַל|bə·ḇa·‘al|...|H1193|Prep
 v33 תָּמָ֑ר|tā·mār|at Baal-tamar|H1193|Prep | N-proper-fs
 v33 וְאֹרֵ֧ב|wə·’ō·rêḇ|in ambush|H693|Conj-w | V-Qal-Prtcpl-msc
 v33 יִשְׂרָאֵ֛ל|yiś·rā·’êl|and the Israelites|H3478|N-proper-ms
@@ -523,7 +523,7 @@ v34 יָדְע֔וּ|yā·ḏə·‘ū|realize|H3045|V-Qal-Perf-3cp
 v34 כִּֽי־|kî-|that|H3588|Conj
 v34 נֹגַ֥עַת|nō·ḡa·‘aṯ|upon|H5060|V-Qal-Prtcpl-fs
 v34 עֲלֵיהֶ֖ם|‘ă·lê·hem|them|H5921|Prep | 3mp
-v34 הָרָעָֽה׃פ|hā·rā·‘āh|disaster [was]|H7451|Art | Adj-fs
+v34 הָרָעָֽה׃|hā·rā·‘āh|disaster [was]|H7451|Art | Adj-fs
 v35 וַיִּגֹּ֨ף|way·yig·gōp̄|defeated|H5062|Conj-w | V-Qal-ConsecImperf-3ms
 v35 יְהוָ֥ה׀|Yah·weh|The LORD|H3068|N-proper-ms
 v35 אֶֽת־|’eṯ-|-|H853|DirObjM
@@ -540,7 +540,7 @@ v35 עֶשְׂרִ֨ים|‘eś·rîm|25,100|H6242|Number-cp
 v35 וַחֲמִשָּׁ֥ה|wa·ḥă·miš·šāh|...|H2568|Conj-w | Number-ms
 v35 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v35 וּמֵאָ֖ה|ū·mê·’āh|...|H3967|Conj-w | Number-fs
-v35 אִ֑ישׁ|’îš|vvv|H376|N-ms
+v35 אִ֑ישׁ|’îš|...|H376|N-ms
 v35 כָּל־|kāl-|all|H3605|N-msc
 v35 אֵ֖לֶּה|’êl·leh|...|H428|Pro-cp
 v35 שֹׁ֥לֵף|šō·lêp̄|armed|H8025|V-Qal-Prtcpl-ms
@@ -574,7 +574,7 @@ v37 וַיַּ֥ךְ|way·yaḵ|and put|H5221|Conj-w | V-Hifil-ConsecImperf-3ms
 v37 אֶת־|’eṯ-|-|H853|DirObjM
 v37 כָּל־|kāl-|the whole|H3605|N-msc
 v37 הָעִ֖יר|hā·‘îr|city|H5892|Art | N-fs
-v37 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v37 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v37 חָֽרֶב׃|ḥā·reḇ|to the sword|H2719|N-fs
 v38 וְהַמּוֹעֵ֗ד|wə·ham·mō·w·‘êḏ|a signal|H4150|Conj-w, Art | N-ms
 v38 הָיָ֛ה|hā·yāh|had arranged|H1961|V-Qal-Perf-3ms
@@ -659,7 +659,7 @@ v43 הִדְרִיכֻ֑הוּ|hiḏ·rî·ḵu·hū|overtook them|H1869|V-Hifil
 v43 עַ֛ד|‘aḏ|in the vicinity|H5704|Prep
 v43 נֹ֥כַח|nō·ḵaḥ|...|H5227|Prep
 v43 הַגִּבְעָ֖ה|hag·giḇ·‘āh|of Gibeah|H1390|Art | N-proper-fs
-v43 מִמִּזְרַח־|mim·miz·raḥ-|vvv|H4217|Prep-m | N-msc
+v43 מִמִּזְרַח־|mim·miz·raḥ-|...|H4217|Prep-m | N-msc
 v43 שָֽׁמֶשׁ׃|šā·meš|on the east|H8121|N-cs
 v44 וַֽיִּפְּלוּ֙|way·yip·pə·lū|fell|H5307|Conj-w | V-Qal-ConsecImperf-3mp
 v44 מִבִּנְיָמִ֔ן|mib·bin·yā·min|Benjamites|H1144|Prep-m | N-proper-ms
@@ -680,7 +680,7 @@ v45 סֶ֣לַע|se·la‘|the rock|H5553|N-msc
 v45 הָֽרִמּ֔וֹן|hā·rim·mō·wn|of Rimmon|H7417|Art | N-proper-fs
 v45 וַיְעֹֽלְלֻ֙הוּ֙|way·‘ō·lə·lu·hū|and Israel cut down|H5953|Conj-w | V-Piel-ConsecImperf-3mp | 3ms
 v45 בַּֽמְסִלּ֔וֹת|bam·sil·lō·wṯ|on the roads|H4546|Prep-b, Art | N-fp
-v45 חֲמֵ֥שֶׁת|ḥă·mê·šeṯ|5,000 {}|H2568|Number-msc
+v45 חֲמֵ֥שֶׁת|ḥă·mê·šeṯ|5,000|H2568|Number-msc
 v45 אֲלָפִ֖ים|’ă·lā·p̄îm|...|H505|Number-mp
 v45 אִ֑ישׁ|’îš|men|H376|N-ms
 v45 וַיַּדְבִּ֤יקוּ|way·yaḏ·bî·qū|And they overtook them|H1692|Conj-w | V-Hifil-ConsecImperf-3mp
@@ -695,11 +695,11 @@ v46 וַיְהִי֩|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v46 כָל־|ḵāl|-|H3605|N-msc
 v46 הַנֹּ֨פְלִ֜ים|han·nō·p̄ə·lîm|fell|H5307|Art | V-Qal-Prtcpl-mp
 v46 מִבִּנְיָמִ֗ן|mib·bin·yā·min|Benjamite|H1144|Prep-m | N-proper-ms
-v46 עֶשְׂרִים֩|‘eś·rîm|25,000 {}|H6242|Number-cp
+v46 עֶשְׂרִים֩|‘eś·rîm|25,000|H6242|Number-cp
 v46 וַחֲמִשָּׁ֨ה|wa·ḥă·miš·šāh|...|H2568|Conj-w | Number-ms
 v46 אֶ֥לֶף|’e·lep̄|...|H505|Number-ms
 v46 אִ֛ישׁ|’îš|...|H376|N-ms
-v46 שֹׁ֥לֵֽף|šō·lêp̄|vvv|H8025|V-Qal-Prtcpl-ms
+v46 שֹׁ֥לֵֽף|šō·lêp̄|...|H8025|V-Qal-Prtcpl-ms
 v46 חֶ֖רֶב|ḥe·reḇ|swordsmen|H2719|N-fs
 v46 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v46 הַה֑וּא|ha·hū|That|H1931|Art | Pro-3ms
@@ -729,7 +729,7 @@ v48 אֶל־|’el-|against|H413|Prep
 v48 בְּנֵ֤י|bə·nê|the other Benjamites|H1121|N-mpc
 v48 בִנְיָמִן֙|ḇin·yā·min|...|H1144|N-proper-ms
 v48 וַיַּכּ֣וּם|way·yak·kūm|and put|H5221|Conj-w | V-Hifil-ConsecImperf-3mp | 3mp
-v48 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v48 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v48 חֶ֔רֶב|ḥe·reḇ|to the sword|H2719|N-fs
 v48 מֵעִ֤יר|mê·‘îr|the cities|H5892|Prep-m | N-fsc
 v48 מְתֹם֙|mə·ṯōm|all|H4974|N-ms
@@ -743,4 +743,4 @@ v48 כָּל־|kāl-|all|H3605|N-msc
 v48 הֶעָרִ֥ים|he·‘ā·rîm|the cities|H5892|Art | N-fp
 v48 הַנִּמְצָא֖וֹת|han·nim·ṣā·’ō·wṯ|in their path|H4672|Art | V-Nifal-Prtcpl-fp
 v48 שִׁלְּח֥וּ|šil·lə·ḥū|burned down|H7971|V-Piel-Perf-3cp
-v48 בָאֵֽשׁ׃פ|ḇā·’êš|...|H784|Prep-b, Art | N-cs
+v48 בָאֵֽשׁ׃|ḇā·’êš|...|H784|Prep-b, Art | N-cs

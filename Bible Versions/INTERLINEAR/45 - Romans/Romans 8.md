@@ -115,10 +115,10 @@ v7 γὰρ|gar|-|G1063|Conj
 v7 νόμῳ|nomō|law|G3551|N-DMS
 v7 τοῦ|tou|-|G3588|Art-GMS
 v7 Θεοῦ|Theou|God's|G2316|N-GMS
-v7 οὐχ|ouch|vvv|G3756|Adv
+v7 οὐχ|ouch|...|G3756|Adv
 v7 ὑποτάσσεται|hypotassetai|It does not submit|G5293|V-PIM/P-3S
 v7 οὐδὲ|oude|nor|G3761|Adv
-v7 γὰρ|gar|vvv|G1063|Conj
+v7 γὰρ|gar|...|G1063|Conj
 v7 δύναται|dynatai|can it [do so]|G1410|V-PIM/P-3S
 v8 οἱ|hoi|Those|G3588|Art-NMP
 v8 δὲ|de|-|G1161|Conj
@@ -127,11 +127,11 @@ v8 σαρκὶ|sarki|[the] flesh|G4561|N-DFS
 v8 ὄντες|ontes|-|G1510|V-PPA-NMP
 v8 Θεῷ|Theō|God|G2316|N-DMS
 v8 ἀρέσαι|aresai|please|G700|V-ANA
-v8 οὐ|ou|vvv|G3756|Adv
+v8 οὐ|ou|...|G3756|Adv
 v8 δύνανται|dynantai|cannot|G1410|V-PIM/P-3P
 v9 Ὑμεῖς|Hymeis|You|G4771|PPro-N2P
 v9 δὲ|de|however|G1161|Conj
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἐστὲ|este|are|G1510|V-PIA-2P
 v9 ἐν|en|controlled not by|G1722|Prep
 v9 σαρκὶ|sarki|[the] flesh|G4561|N-DFS
@@ -192,7 +192,7 @@ v11 νεκρῶν»|nekrōn|[the] dead|G3498|Adj-GMP
 v11 Χριστὸν|Christon|Christ|G5547|N-AMS
 v11 Ἰησοῦν|Iēsoun|Jesus|G2424|N-AMS
 v11 ζωοποιήσει|zōopoiēsei|will also give life|G2227|V-FIA-3S
-v11 καὶ|kai|vvv|G2532|Conj
+v11 καὶ|kai|...|G2532|Conj
 v11 τὰ|ta|-|G3588|Art-ANP
 v11 θνητὰ|thnēta|mortal|G2349|Adj-ANP
 v11 σώματα|sōmata|bodies|G4983|N-ANP
@@ -241,7 +241,7 @@ v14 οὗτοι|houtoi|-|G3778|DPro-NMP
 v14 υἱοί|huioi|sons|G5207|N-NMP
 v14 εἰσιν|eisin|are|G1510|V-PIA-3P
 v14 Θεοῦ|Theou|of God|G2316|N-GMS
-v15 Οὐ|Ou|vvv|G3756|Adv
+v15 Οὐ|Ou|...|G3756|Adv
 v15 γὰρ|gar|For|G1063|Conj
 v15 ἐλάβετε|elabete|you did not receive|G2983|V-AIA-2P
 v15 πνεῦμα|pneuma|a spirit|G4151|N-ANS
@@ -284,7 +284,7 @@ v17 Χριστοῦ|Christou|with Christ|G5547|N-GMS
 v17 εἴπερ|eiper|if indeed|G1512|Conj
 v17 συμπάσχομεν|sympaschomen|we suffer with [Him]|G4841|V-PIA-1P
 v17 ἵνα|hina|so that|G2443|Conj
-v17 καὶ|kai|vvv|G2532|Conj
+v17 καὶ|kai|...|G2532|Conj
 v17 συνδοξασθῶμεν|syndoxasthōmen|we may also be glorified with [Him]|G4888|V-ASP-1P
 v18 Λογίζομαι|Logizomai|I consider|G3049|V-PIM/P-1S
 v18 γὰρ|gar|-|G1063|Conj
@@ -343,7 +343,7 @@ v21 φθορᾶς|phthoras|to decay|G5356|N-GFS
 v21 εἰς|eis|[and brought] into|G1519|Prep
 v21 τὴν|tēn|the|G3588|Art-AFS
 v21 ἐλευθερίαν|eleutherian|freedom|G1657|N-AFS
-v21 τῆς|tēs|vvv|G3588|Art-GFS
+v21 τῆς|tēs|...|G3588|Art-GFS
 v21 δόξης|doxēs|glorious|G1391|N-GFS
 v21 τῶν|tōn|of the|G3588|Art-GNP
 v21 τέκνων|teknōn|children|G5043|N-GNP
@@ -404,10 +404,10 @@ v24 ἐλπίζει|elpizei|hopes for|G1679|V-PIA-3S
 v25 εἰ|ei|if|G1487|Conj
 v25 δὲ|de|But|G1161|Conj
 v25 ὃ|ho|what|G3739|RelPro-ANS
-v25 οὐ|ou|vvv|G3756|Adv
+v25 οὐ|ou|...|G3756|Adv
 v25 βλέπομεν|blepomen|we do not yet see|G991|V-PIA-1P
 v25 ἐλπίζομεν|elpizomen|we hope for|G1679|V-PIA-1P
-v25 δι’|di’|vvv|G1223|Prep
+v25 δι’|di’|...|G1223|Prep
 v25 ὑπομονῆς|hypomonēs|patiently|G5281|N-GFS
 v25 ἀπεκδεχόμεθα|apekdechometha|we wait for [it]|G553|V-PIM/P-1P
 v26 Ὡσαύτως|Hōsautōs|In the same way|G5615|Adv
@@ -423,9 +423,9 @@ v26 τὸ|to|-|G3588|Art-ANS
 v26 γὰρ|gar|For|G1063|Conj
 v26 τί|ti|how|G5101|IPro-ANS
 v26 προσευξώμεθα|proseuxōmetha|to pray|G4336|V-ASM-1P
-v26 καθὸ|katho|vvv|G2526|Adv
+v26 καθὸ|katho|...|G2526|Adv
 v26 δεῖ|dei|we ought|G1163|V-PIA-3S
-v26 οὐκ|ouk|vvv|G3756|Adv
+v26 οὐκ|ouk|...|G3756|Adv
 v26 οἴδαμεν|oidamen|we do not know|G1492|V-RIA-1P
 v26 ἀλλὰ|alla|but|G235|Conj
 v26 αὐτὸ|auto|Himself|G846|PPro-NN3S
@@ -472,7 +472,7 @@ v28 οὖσιν|ousin|are|G1510|V-PPA-DMP
 v29 ὅτι|hoti|For|G3754|Conj
 v29 οὓς|hous|those|G3739|RelPro-AMP
 v29 προέγνω|proegnō|[God] foreknew|G4267|V-AIA-3S
-v29 καὶ|kai|vvv|G2532|Conj
+v29 καὶ|kai|...|G2532|Conj
 v29 προώρισεν|proōrisen|He also predestined [to be]|G4309|V-AIA-3S
 v29 συμμόρφους|symmorphous|conformed to|G4832|Adj-AMP
 v29 τῆς|tēs|the|G3588|Art-GFS
@@ -492,19 +492,19 @@ v30 οὓς|hous|those|G3739|RelPro-AMP
 v30 δὲ|de|And|G1161|Conj
 v30 προώρισεν|proōrisen|He predestined|G4309|V-AIA-3S
 v30 τούτους|toutous|-|G3778|DPro-AMP
-v30 καὶ|kai|vvv|G2532|Conj
+v30 καὶ|kai|...|G2532|Conj
 v30 ἐκάλεσεν|ekalesen|He also called|G2564|V-AIA-3S
 v30 καὶ|kai|-|G2532|Conj
 v30 οὓς|hous|[those]|G3739|RelPro-AMP
 v30 ἐκάλεσεν|ekalesen|He called|G2564|V-AIA-3S
 v30 τούτους|toutous|-|G3778|DPro-AMP
-v30 καὶ|kai|vvv|G2532|Conj
+v30 καὶ|kai|...|G2532|Conj
 v30 ἐδικαίωσεν|edikaiōsen|He [also] justified|G1344|V-AIA-3S
 v30 οὓς|hous|[those]|G3739|RelPro-AMP
 v30 δὲ|de|-|G1161|Conj
 v30 ἐδικαίωσεν|edikaiōsen|He justified|G1344|V-AIA-3S
 v30 τούτους|toutous|-|G3778|DPro-AMP
-v30 καὶ|kai|vvv|G2532|Conj
+v30 καὶ|kai|...|G2532|Conj
 v30 ἐδόξασεν|edoxasen|He also glorified|G1392|V-AIA-3S
 v31 Τί|Ti|What|G5101|IPro-ANS
 v31 οὖν|oun|then|G3767|Conj

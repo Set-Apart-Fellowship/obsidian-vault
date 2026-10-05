@@ -73,8 +73,8 @@ v9 לֹ֣א|lō|will not|H3808|Adv-NegPrt
 v9 יִנָּקֶ֑ה|yin·nā·qeh|go unpunished|H5352|V-Nifal-Imperf-3ms
 v9 וְיָפִ֖יחַ|wə·yā·p̄î·aḥ|and one who pours out|H6315|Conj-w | V-Hifil-ConjImperf-3ms
 v9 כְּזָבִ֣ים|kə·zā·ḇîm|lies|H3577|N-mp
-v9 יֹאבֵֽד׃פ|yō·ḇêḏ|will perish|H6|V-Qal-Imperf-3ms
-v10 לֹֽא־|lō-|vvv|H3808|Adv-NegPrt
+v9 יֹאבֵֽד׃|yō·ḇêḏ|will perish|H6|V-Qal-Imperf-3ms
+v10 לֹֽא־|lō-|...|H3808|Adv-NegPrt
 v10 נָאוֶ֣ה|nā·weh|is unseemly|H5000|Adj-ms
 v10 לִכְסִ֣יל|liḵ·sîl|for a fool|H3684|Prep-l | N-ms
 v10 תַּעֲנ֑וּג|ta·‘ă·nūḡ|Luxury|H8588|N-ms
@@ -151,7 +151,7 @@ v19 עֹ֑נֶשׁ|‘ō·neš|the penalty|H6066|N-ms
 v19 כִּ֥י|kî|...|H3588|Conj
 v19 אִם־|’im-|if|H518|Conj
 v19 תַּ֝צִּ֗יל|taṣ·ṣîl|you rescue [him]|H5337|V-Hifil-Imperf-2ms
-v19 וְע֣וֹד|wə·‘ō·wḏ|vvv|H5750|Conj-w | Adv
+v19 וְע֣וֹד|wə·‘ō·wḏ|...|H5750|Conj-w | Adv
 v19 תּוֹסִֽף׃|tō·w·sip̄|you will have to do so again|H3254|V-Hifil-Imperf-2ms
 v20 שְׁמַ֣ע|šə·ma‘|Listen|H8085|V-Qal-Imp-ms
 v20 עֵ֭צָה|‘ê·ṣāh|to counsel|H6098|N-fs

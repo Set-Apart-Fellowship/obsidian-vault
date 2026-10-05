@@ -51,7 +51,7 @@ v4 אַבְשָׁלֹ֑ם|’aḇ·šā·lōm|to Absalom|H53|N-proper-ms
 v4 וּבְעֵינֵ֖י|ū·ḇə·‘ê·nê|...|H5869|Conj-w, Prep-b | N-cdc
 v4 כָּל־|kāl-|and all|H3605|N-msc
 v4 זִקְנֵ֥י|ziq·nê|the elders|H2205|Adj-mpc
-v4 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v4 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v5 וַיֹּ֙אמֶר֙|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v5 אַבְשָׁל֔וֹם|’aḇ·šā·lō·wm|Then Absalom|H53|N-proper-ms
 v5 קְרָ֣א|qə·rā|Summon|H7121|V-Qal-Imp-ms
@@ -82,7 +82,7 @@ v6 דְּבָר֑וֹ|də·ḇā·rōw|-|H1697|N-msc | 3ms
 v6 אִם־|’im-|If|H518|Conj
 v6 אַ֖יִן|’a·yin|not|H369|Adv
 v6 אַתָּ֥ה|’at·tāh|what do you|H859|Pro-2ms
-v6 דַבֵּֽר׃ס|ḏab·bêr|say|H1696|V-Piel-Imp-ms
+v6 דַבֵּֽר׃|ḏab·bêr|say|H1696|V-Piel-Imp-ms
 v7 וַיֹּ֥אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v7 חוּשַׁ֖י|ḥū·šay|Hushai|H2365|N-proper-ms
 v7 אֶל־|’el-|-|H413|Prep
@@ -130,7 +130,7 @@ v9 בְּאַחַ֣ד|bə·’a·ḥaḏ|some other|H259|Prep-b | Number-msc
 v9 הַמְּקוֹמֹ֑ת|ham·mə·qō·w·mōṯ|location|H4725|Art | N-mp
 v9 וְהָיָ֗ה|wə·hā·yāh|has been|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v9 כִּנְפֹ֤ל|kin·p̄ōl|If some of your troops fall|H5307|Prep-k | V-Qal-Inf
-v9 בָּהֶם֙|bā·hem||H0|Prep | 3mp
+v9 בָּהֶם֙|bā·hem|-|H0|Prep | 3mp
 v9 בַּתְּחִלָּ֔ה|bat·tə·ḥil·lāh|first|H8462|Prep-b, Art | N-fs
 v9 וְשָׁמַ֤ע|wə·šā·ma‘|whoever hears [of it]|H8085|Conj-w | V-Qal-ConjPerf-3ms
 v9 הַשֹּׁמֵ֙עַ֙|haš·šō·mê·a‘|...|H8085|Art | V-Qal-Prtcpl-ms
@@ -171,7 +171,7 @@ v11 כָל־|ḵāl|that all|H3605|N-msc
 v11 יִשְׂרָאֵל֙|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v11 מִדָּן֙|mid·dān|from Dan|H1835|Prep-m | N-proper-ms
 v11 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
-v11 בְּאֵ֣ר|bə·’êr|vvv|H884|Prep
+v11 בְּאֵ֣ר|bə·’êr|...|H884|Prep
 v11 שֶׁ֔בַע|še·ḇa‘|Beersheba|H884|N-proper-fs
 v11 כַּח֥וֹל|ka·ḥō·wl|like the sand|H2344|Prep-k, Art | N-ms
 v11 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
@@ -183,7 +183,7 @@ v11 הֹלְכִ֖ים|hō·lə·ḵîm|lead them|H1980|V-Qal-Prtcpl-mp
 v11 בַּקְרָֽב׃|baq·rāḇ|into battle|H7128|Prep-b, Art | N-ms
 v12 וּבָ֣אנוּ|ū·ḇā·nū|Then we will attack|H935|Conj-w | V-Qal-ConjPerf-1cp
 v12 אֵלָ֗יו|’ê·lāw|[David]|H413|Prep | 3ms
-v12 בְּאַחַת|bə·ʾa·ḥaṯ|vvv|H259|Prep-b | Number-msc
+v12 בְּאַחַת|bə·ʾa·ḥaṯ|...|H259|Prep-b | Number-msc
 v12 הַמְּקוֹמֹת֙|ham·mə·qō·w·mōṯ|wherever|H4725|Art | N-mp
 v12 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v12 נִמְצָ֣א|nim·ṣā|we find him|H4672|V-Nifal-Perf-3ms
@@ -197,7 +197,7 @@ v12 עַל־|‘al-|on|H5921|Prep
 v12 הָאֲדָמָ֑ה|hā·’ă·ḏā·māh|the ground|H127|Art | N-fs
 v12 וְלֹֽא־|wə·lō-|not|H3808|Conj-w | Adv-NegPrt
 v12 נ֥וֹתַר|nō·w·ṯar|will remain|H3498|V-Hifil-Imperf-3ms
-v12 בּ֛וֹ|bōw||H0|Prep | 3ms
+v12 בּ֛וֹ|bōw|-|H0|Prep | 3ms
 v12 וּבְכָל־|ū·ḇə·ḵāl|And of all|H3605|Conj-w, Prep-b | N-msc
 v12 הָאֲנָשִׁ֥ים|hā·’ă·nā·šîm|the men|H582|Art | N-mp
 v12 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
@@ -225,7 +225,7 @@ v13 לֹא־|lō-|not|H3808|Adv-NegPrt
 v13 נִמְצָ֥א|nim·ṣā|can be found|H4672|V-Nifal-Perf-3ms
 v13 שָׁ֖ם|šām|there|H8033|Adv
 v13 גַּם־|gam-|even|H1571|Conj
-v13 צְרֽוֹר׃פ|ṣə·rō·wr|a pebble|H6872|N-ms
+v13 צְרֽוֹר׃|ṣə·rō·wr|a pebble|H6872|N-ms
 v14 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v14 אַבְשָׁלוֹם֙|’aḇ·šā·lō·wm|Then Absalom|H53|N-proper-ms
 v14 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
@@ -250,7 +250,7 @@ v14 יְהוָ֛ה|Yah·weh|...|H3068|N-proper-ms
 v14 אֶל־|’el-|on|H413|Prep
 v14 אַבְשָׁל֖וֹם|’aḇ·šā·lō·wm|Absalom|H53|N-proper-ms
 v14 אֶת־|’eṯ-|-|H853|DirObjM
-v14 הָרָעָֽה׃ס|hā·rā·‘āh|disaster|H7451|Art | Adj-fs
+v14 הָרָעָֽה׃|hā·rā·‘āh|disaster|H7451|Art | Adj-fs
 v15 וַיֹּ֣אמֶר|way·yō·mer|told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 חוּשַׁ֗י|ḥū·šay|So Hushai|H2365|N-proper-ms
 v15 אֶל־|’el-|...|H413|Prep
@@ -295,7 +295,7 @@ v16 אִתּֽוֹ׃|’it·tōw|with him|H854|Prep | 3ms
 v17 וִיהוֹנָתָ֨ן|wî·hō·w·nā·ṯān|Now Jonathan|H3083|Conj-w | N-proper-ms
 v17 וַאֲחִימַ֜עַץ|wa·’ă·ḥî·ma·‘aṣ|and Ahimaaz|H290|Conj-w | N-proper-ms
 v17 עֹמְדִ֣ים|‘ō·mə·ḏîm|were staying|H5975|V-Qal-Prtcpl-mp
-v17 בְּעֵין־|bə·‘ên-|vvv|H5883|Prep
+v17 בְּעֵין־|bə·‘ên-|...|H5883|Prep
 v17 רֹגֵ֗ל|rō·ḡêl|at En-rogel|H5883|Prep | N-proper-fs
 v17 וְהָלְכָ֤ה|wə·hā·lə·ḵāh|would come|H1980|Conj-w | V-Qal-ConjPerf-3fs
 v17 הַשִּׁפְחָה֙|haš·šip̄·ḥāh|where a servant girl|H8198|Art | N-fs
@@ -355,7 +355,7 @@ v20 אַיֵּ֗ה|’ay·yêh|Where|H346|Interrog
 v20 אֲחִימַ֙עַץ֙|’ă·ḥî·ma·‘aṣ|are Ahimaaz|H290|N-proper-ms
 v20 וִיה֣וֹנָתָ֔ן|wî·hō·w·nā·ṯān|and Jonathan|H3083|Conj-w | N-proper-ms
 v20 וַתֹּ֤אמֶר|wat·tō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v20 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v20 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v20 הָֽאִשָּׁ֔ה|hā·’iš·šāh|she|H802|Art | N-fs
 v20 עָבְר֖וּ|‘ā·ḇə·rū|They have crossed over|H5674|V-Qal-Perf-3cp
 v20 מִיכַ֣ל|mî·ḵal|the brook|H4323|N-msc
@@ -364,7 +364,7 @@ v20 וַיְבַקְשׁוּ֙|way·ḇaq·šū|The men searched|H1245|Conj-w | 
 v20 וְלֹ֣א|wə·lō|but did not|H3808|Conj-w | Adv-NegPrt
 v20 מָצָ֔אוּ|mā·ṣā·’ū|find [them]|H4672|V-Qal-Perf-3cp
 v20 וַיָּשֻׁ֖בוּ|way·yā·šu·ḇū|so they returned|H7725|Conj-w | V-Qal-ConsecImperf-3mp
-v20 יְרוּשָׁלִָֽם׃ס|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
+v20 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
 v21 וַיְהִ֣י׀|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v21 אַחֲרֵ֣י|’a·ḥă·rê|After|H310|Prep
 v21 לֶכְתָּ֗ם|leḵ·tām|[the men] had gone|H1980|V-Qal-Inf | 3mp
@@ -391,7 +391,7 @@ v22 וַיָּ֣קָם|way·yā·qām|got up|H6965|Conj-w | V-Qal-ConsecImperf-3
 v22 דָּוִ֗ד|dā·wiḏ|So David|H1732|N-proper-ms
 v22 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v22 הָעָם֙|hā·‘ām|the people|H5971|Art | N-ms
-v22 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v22 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v22 אִתּ֔וֹ|’it·tōw|with him|H854|Prep | 3ms
 v22 וַיַּעַבְר֖וּ|way·ya·‘aḇ·rū|and crossed|H5674|Conj-w | V-Qal-ConsecImperf-3mp
 v22 אֶת־|’eṯ-|-|H853|DirObjM
@@ -430,7 +430,7 @@ v23 וַיֵּחָנַ֑ק|way·yê·ḥā·naq|and hanged himself|H2614|Conj-w 
 v23 וַיָּ֕מָת|way·yā·māṯ|So he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v23 וַיִּקָּבֵ֖ר|way·yiq·qā·ḇêr|and was buried|H6912|Conj-w | V-Nifal-ConsecImperf-3ms
 v23 בְּקֶ֥בֶר|bə·qe·ḇer|tomb|H6913|Prep-b | N-msc
-v23 אָבִֽיו׃ס|’ā·ḇîw|in his father's|H1|N-msc | 3ms
+v23 אָבִֽיו׃|’ā·ḇîw|in his father's|H1|N-msc | 3ms
 v24 וְדָוִ֖ד|wə·ḏā·wiḏ|Then David|H1732|Conj-w | N-proper-ms
 v24 בָּ֣א|bā|went|H935|V-Qal-Perf-3ms
 v24 מַחֲנָ֑יְמָה|ma·ḥă·nā·yə·māh|to Mahanaim|H4266|N-proper-fs | 3fs
@@ -471,7 +471,7 @@ v26 וַיִּ֤חַן|way·yi·ḥan|camped|H2583|Conj-w | V-Qal-ConsecImperf-3
 v26 יִשְׂרָאֵל֙|yiś·rā·’êl|So the Israelites|H3478|N-proper-ms
 v26 וְאַבְשָׁלֹ֔ם|wə·’aḇ·šā·lōm|and Absalom|H53|Conj-w | N-proper-ms
 v26 אֶ֖רֶץ|’e·reṣ|in the land|H776|N-fsc
-v26 הַגִּלְעָֽד׃ס|hag·gil·‘āḏ|of Gilead|H1568|Art | N-proper-fs
+v26 הַגִּלְעָֽד׃|hag·gil·‘āḏ|of Gilead|H1568|Art | N-proper-fs
 v27 וַיְהִ֕י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v27 כְּב֥וֹא|kə·ḇō·w|came|H935|Prep-k | V-Qal-Inf
 v27 דָוִ֖ד|ḏā·wiḏ|When David|H1732|N-proper-ms
@@ -485,7 +485,7 @@ v27 עַמּ֗וֹן|‘am·mō·wn|...|H5983|N-proper-ms
 v27 וּמָכִ֤יר|ū·mā·ḵîr|Machir|H4353|Conj-w | N-proper-ms
 v27 בֶּן־|ben-|son|H1121|N-msc
 v27 עַמִּיאֵל֙|‘am·mî·’êl|of Ammiel|H5988|N-proper-ms
-v27 מִלֹּ֣א|mil·lō|vvv|H3810|Prep
+v27 מִלֹּ֣א|mil·lō|...|H3810|Prep
 v27 דְבָ֔ר|ḏə·ḇār|from Lo-debar|H3810|Prep | N-proper-fs
 v27 וּבַרְזִלַּ֥י|ū·ḇar·zil·lay|and Barzillai|H1271|Conj-w | N-proper-ms
 v27 הַגִּלְעָדִ֖י|hag·gil·‘ā·ḏî|the Gileadite|H1569|Art | N-proper-ms

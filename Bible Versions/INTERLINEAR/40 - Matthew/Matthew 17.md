@@ -53,7 +53,7 @@ v3 Ἠλίας|Ēlias|Elijah|G2243|N-NMS
 v3 συλλαλοῦντες*|syllalountes|talking|G4814|V-PPA-NMP
 v3 μετ’|met’|with|G3326|Prep
 v3 αὐτοῦ|autou|[Jesus]|G846|PPro-GM3S
-v4 ἀποκριθεὶς|apokritheis|vvv|G611|V-APP-NMS
+v4 ἀποκριθεὶς|apokritheis|...|G611|V-APP-NMS
 v4 δὲ|de|-|G1161|Conj
 v4 ὁ|ho|-|G3588|Art-NMS
 v4 Πέτρος|Petros|Peter|G4074|N-NMS
@@ -117,7 +117,7 @@ v6 πρόσωπον|prosōpon|...|G4383|N-ANS
 v6 αὐτῶν|autōn|...|G846|PPro-GM3P
 v6 καὶ|kai|-|G2532|Conj
 v6 ἐφοβήθησαν|ephobēthēsan|in terror|G5399|V-AIP-3P
-v6 σφόδρα|sphodra|vvv|G4970|Adv
+v6 σφόδρα|sphodra|...|G4970|Adv
 v7 Καὶ|Kai|Then|G2532|Conj
 v7 προσῆλθεν|prosēlthen|came over|G4334|V-AIA-3S
 v7 ὁ|ho|-|G3588|Art-NMS
@@ -128,7 +128,7 @@ v7 αὐτῶν|autōn|them|G846|PPro-GM3P
 v7 εἶπεν|eipen|He said|G2036|V-AIA-3S
 v7 Ἐγέρθητε|Egerthēte|Get up|G1453|V-AMP-2P
 v7 καὶ|kai|-|G2532|Conj
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 φοβεῖσθε|phobeisthe|Do not be afraid|G5399|V-PMM/P-2P
 v8 ἐπάραντες|eparantes|they looked up|G1869|V-APA-NMP
 v8 δὲ|de|And when|G1161|Conj
@@ -184,7 +184,7 @@ v10 ἐλθεῖν|elthein|come|G2064|V-ANA
 v10 πρῶτον|prōton|first|G4412|Adv-S
 v11 Ὁ|Ho|-|G3588|Art-NMS
 v11 δὲ|de|-|G1161|Conj
-v11 ἀποκριθεὶς|apokritheis|vvv|G611|V-APP-NMS
+v11 ἀποκριθεὶς|apokritheis|...|G611|V-APP-NMS
 v11 εἶπεν|eipen|[Jesus] replied|G2036|V-AIA-3S
 v11 Ἠλίας|Ēlias|Elijah|G2243|N-NMS
 v11 μὲν|men|{does} indeed|G3303|Conj
@@ -200,7 +200,7 @@ v12 Ἠλίας|Ēlias|Elijah|G2243|N-NMS
 v12 ἤδη|ēdē|{has} already|G2235|Adv
 v12 ἦλθεν|ēlthen|come|G2064|V-AIA-3S
 v12 καὶ|kai|and|G2532|Conj
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 ἐπέγνωσαν|epegnōsan|they did not recognize|G1921|V-AIA-3P
 v12 αὐτὸν|auton|him|G846|PPro-AM3S
 v12 ἀλλὰ*|alla|but|G235|Conj
@@ -252,7 +252,7 @@ v15 σεληνιάζεται|selēniazetai|He has seizures|G4583|V-PIM/P-3S
 v15 καὶ|kai|and|G2532|Conj
 v15 κακῶς|kakōs|terribly|G2560|Adv
 v15 πάσχει*|paschei|is suffering|G3958|V-PIA-3S
-v15 πολλάκις|pollakis|vvv|G4178|Adv
+v15 πολλάκις|pollakis|...|G4178|Adv
 v15 γὰρ|gar|-|G1063|Conj
 v15 πίπτει|piptei|He often falls|G4098|V-PIA-3S
 v15 εἰς|eis|into|G1519|Prep
@@ -322,13 +322,13 @@ v19 οἱ|hoi|the|G3588|Art-NMP
 v19 μαθηταὶ|mathētai|disciples|G3101|N-NMP
 v19 τῷ|tō|-|G3588|Art-DMS
 v19 Ἰησοῦ|Iēsou|to Jesus|G2424|N-DMS
-v19 κατ’|kat’|vvv|G2596|Prep
+v19 κατ’|kat’|...|G2596|Prep
 v19 ἰδίαν|idian|privately|G2398|Adj-AFS
 v19 εἶπον|eipon|[and] asked|G2036|V-AIA-3P
 v19 Διὰ|Dia|Why|G1223|Prep
-v19 τί|ti|vvv|G5101|IPro-ANS
+v19 τί|ti|...|G5101|IPro-ANS
 v19 ἡμεῖς|hēmeis|we|G1473|PPro-N1P
-v19 οὐκ|ouk|vvv|G3756|Adv
+v19 οὐκ|ouk|...|G3756|Adv
 v19 ἠδυνήθημεν|ēdynēthēmen|couldn't|G1410|V-AIP-1P
 v19 ἐκβαλεῖν|ekbalein|drive it out|G1544|V-ANA
 v19 αὐτό|auto|...|G846|PPro-AN3S
@@ -392,7 +392,7 @@ v23 ἡμέρᾳ|hēmera|day|G2250|N-DFS
 v23 ἐγερθήσεται|egerthēsetai|He will be raised [to life]|G1453|V-FIP-3S
 v23 καὶ|kai|And|G2532|Conj
 v23 ἐλυπήθησαν|elypēthēsan|[the disciples] were deeply grieved|G3076|V-AIP-3P
-v23 σφόδρα|sphodra|vvv|G4970|Adv
+v23 σφόδρα|sphodra|...|G4970|Adv
 v24 Ἐλθόντων|Elthontōn|had arrived|G2064|V-APA-GMP
 v24 δὲ|de|After|G1161|Conj
 v24 αὐτῶν|autōn|they|G846|PPro-GM3P
@@ -410,7 +410,7 @@ v24 εἶπαν|eipan|asked|G2036|V-AIA-3P
 v24 Ὁ|Ho|-|G3588|Art-NMS
 v24 διδάσκαλος|didaskalos|Teacher|G1320|N-NMS
 v24 ὑμῶν|hymōn|{Does} your|G4771|PPro-G2P
-v24 οὐ|ou|vvv|G3756|Adv
+v24 οὐ|ou|...|G3756|Adv
 v24 τελεῖ|telei|pay|G5055|V-PIA-3S
 v24 ‹τὰ›|ta|the|G3588|Art-ANP
 v24 δίδραχμα|didrachma|two drachmas|G1323|N-ANP
@@ -427,7 +427,7 @@ v25 ὁ|ho|-|G3588|Art-NMS
 v25 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v25 λέγων|legōn|He asked|G3004|V-PPA-NMS
 v25 Τί|Ti|What|G5101|IPro-NNS
-v25 σοι|soi|vvv|G4771|PPro-D2S
+v25 σοι|soi|...|G4771|PPro-D2S
 v25 δοκεῖ|dokei|do you think|G1380|V-PIA-3S
 v25 Σίμων|Simōn|Simon|G4613|N-VMS
 v25 οἱ|hoi|{do} the|G3588|Art-NMP
@@ -449,7 +449,7 @@ v25 ἀπὸ|apo|from|G575|Prep
 v25 τῶν|tōn|-|G3588|Art-GMP
 v25 ἀλλοτρίων|allotriōn|others|G245|Adj-GMP
 v26 Εἰπόντος|Eipontos|[Peter] answered|G2036|V-APA-GMS
-v26 δέ|de|vvv|G1161|Conj
+v26 δέ|de|...|G1161|Conj
 v26 Ἀπὸ|Apo|From|G575|Prep
 v26 τῶν|tōn|-|G3588|Art-GMP
 v26 ἀλλοτρίων|allotriōn|others|G245|Adj-GMP
@@ -464,7 +464,7 @@ v26 οἱ|hoi|the|G3588|Art-NMP
 v26 υἱοί|huioi|sons|G5207|N-NMP
 v27 ἵνα|hina|so that|G2443|Conj
 v27 δὲ|de|But|G1161|Conj
-v27 μὴ|mē|vvv|G3361|Adv
+v27 μὴ|mē|...|G3361|Adv
 v27 σκανδαλίσωμεν|skandalisōmen|we may not offend|G4624|V-ASA-1P
 v27 αὐτούς|autous|them|G846|PPro-AM3P
 v27 πορευθεὶς|poreutheis|go|G4198|V-APP-NMS

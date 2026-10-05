@@ -21,17 +21,17 @@ v2 ἐσθίει|esthiei|eats|G2068|V-PIA-3S
 v3 ὁ|ho|The [one who]|G3588|Art-NMS
 v3 ἐσθίων|esthiōn|eats [everything]|G2068|V-PPA-NMS
 v3 τὸν|ton|the [one who]|G3588|Art-AMS
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 ἐσθίοντα|esthionta|[does not]|G2068|V-PPA-AMS
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 ἐξουθενείτω|exoutheneitō|must not belittle|G1848|V-PMA-3S
 v3 ὁ|ho|the [one who]|G3588|Art-NMS
 v3 δὲ|de|and|G1161|Conj
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 ἐσθίων|esthiōn|does not eat [everything]|G2068|V-PPA-NMS
 v3 τὸν|ton|the [one who]|G3588|Art-AMS
 v3 ἐσθίοντα|esthionta|[does]|G2068|V-PPA-AMS
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 κρινέτω|krinetō|must not judge|G2919|V-PMA-3S
 v3 ὁ|ho|-|G3588|Art-NMS
 v3 Θεὸς|Theos|God|G2316|N-NMS
@@ -58,7 +58,7 @@ v4 γὰρ|gar|for|G1063|Conj
 v4 ὁ|ho|the|G3588|Art-NMS
 v4 Κύριος|Kyrios|Lord|G2962|N-NMS
 v4 στῆσαι|stēsai|to make him stand|G2476|V-ANA
-v4 αὐτόν|auton|vvv|G846|PPro-AM3S
+v4 αὐτόν|auton|...|G846|PPro-AM3S
 v5 Ὃς|Hos|One [person]|G3739|RelPro-NMS
 v5 μὲν|men|-|G3303|Conj
 v5 γὰρ|gar|-|G1063|Conj
@@ -93,10 +93,10 @@ v6 τῷ|tō|-|G3588|Art-DMS
 v6 Θεῷ|Theō|to God|G2316|N-DMS
 v6 καὶ|kai|and|G2532|Conj
 v6 ὁ|ho|he who|G3588|Art-NMS
-v6 μὴ|mē|vvv|G3361|Adv
+v6 μὴ|mē|...|G3361|Adv
 v6 ἐσθίων|esthiōn|abstains|G2068|V-PPA-NMS
 v6 Κυρίῳ|Kyriō|to [the] Lord|G2962|N-DMS
-v6 οὐκ|ouk|vvv|G3756|Adv
+v6 οὐκ|ouk|...|G3756|Adv
 v6 ἐσθίει|esthiei|[does so]|G2068|V-PIA-3S
 v6 καὶ|kai|and|G2532|Conj
 v6 εὐχαριστεῖ|eucharistei|gives thanks|G2168|V-PIA-3S
@@ -162,12 +162,12 @@ v10 ἐξουθενεῖς|exoutheneis|belittle|G1848|V-PIA-2S
 v10 τὸν|ton|-|G3588|Art-AMS
 v10 ἀδελφόν|adelphon|brother|G80|N-AMS
 v10 σου|sou|your|G4771|PPro-G2S
-v10 πάντες|pantes|vvv|G3956|Adj-NMP
+v10 πάντες|pantes|...|G3956|Adj-NMP
 v10 γὰρ|gar|For|G1063|Conj
 v10 παραστησόμεθα|parastēsometha|we will all stand before|G3936|V-FIM-1P
 v10 τῷ|tō|-|G3588|Art-DNS
 v10 βήματι|bēmati|judgment seat|G968|N-DNS
-v10 τοῦ|tou|vvv|G3588|Art-GMS
+v10 τοῦ|tou|...|G3588|Art-GMS
 v10 Θεοῦ|Theou|God's|G2316|N-GMS
 v11 γέγραπται|gegraptai|It is written|G1125|V-RIM/P-3S
 v11 γάρ|gar|-|G1063|Conj
@@ -196,7 +196,7 @@ v12 λόγον|logon|an account|G3056|N-AMS
 v12 δώσει|dōsei|will give|G1325|V-FIA-3S
 v12 τῷ|tō|-|G3588|Art-DMS
 v12 Θεῷ|Theō|to God|G2316|N-DMS
-v13 Μηκέτι|Mēketi|vvv|G3371|Adv
+v13 Μηκέτι|Mēketi|...|G3371|Adv
 v13 οὖν|oun|Therefore|G3767|Conj
 v13 ἀλλήλους|allēlous|one another|G240|RecPro-AMP
 v13 κρίνωμεν|krinōmen|let us stop judging|G2919|V-PSA-1P
@@ -208,7 +208,7 @@ v13 τὸ|to|-|G3588|Art-ANS
 v13 μὴ|mē|not|G3361|Adv
 v13 τιθέναι|tithenai|to put|G5087|V-PNA
 v13 πρόσκομμα|proskomma|[any] stumbling block|G4348|N-ANS
-v13 τῷ|tō|vvv|G3588|Art-DMS
+v13 τῷ|tō|...|G3588|Art-DMS
 v13 ἀδελφῷ|adelphō|in your brother's way|G80|N-DMS
 v13 ἢ|ē|or|G2228|Conj
 v13 σκάνδαλον|skandalon|obstacle|G4625|N-ANS
@@ -240,7 +240,7 @@ v15 ὁ|ho|-|G3588|Art-NMS
 v15 ἀδελφός|adelphos|brother|G80|N-NMS
 v15 σου|sou|your|G4771|PPro-G2S
 v15 λυπεῖται|lypeitai|is distressed|G3076|V-PIM/P-3S
-v15 οὐκέτι|ouketi|vvv|G3765|Adv
+v15 οὐκέτι|ouketi|...|G3765|Adv
 v15 κατὰ|kata|in|G2596|Prep
 v15 ἀγάπην|agapēn|love|G26|N-AFS
 v15 περιπατεῖς|peripateis|you are no longer acting|G4043|V-PIA-2S
@@ -304,7 +304,7 @@ v19 τὰ|ta|to|G3588|Art-ANP
 v19 τῆς|tēs|-|G3588|Art-GFS
 v19 οἰκοδομῆς|oikodomēs|edification|G3619|N-GFS
 v19 τῆς|tēs|-|G3588|Art-GFS
-v19 εἰς|eis|vvv|G1519|Prep
+v19 εἰς|eis|...|G1519|Prep
 v19 ἀλλήλους|allēlous|mutual|G240|RecPro-AMP
 v20 μὴ|mē|{Do} not|G3361|Adv
 v20 ἕνεκεν|heneken|for the sake of|G1752|Prep
@@ -322,7 +322,7 @@ v20 κακὸν|kakon|[it is] wrong|G2556|Adj-ANS
 v20 τῷ|tō|-|G3588|Art-DMS
 v20 ἀνθρώπῳ|anthrōpō|for a man|G444|N-DMS
 v20 τῷ|tō|-|G3588|Art-DMS
-v20 διὰ|dia|vvv|G1223|Prep
+v20 διὰ|dia|...|G1223|Prep
 v20 προσκόμματος|proskommatos|a stumbling block|G4348|N-GNS
 v20 ἐσθίοντι|esthionti|to let his eating be|G2068|V-PPA-DMS
 v21 καλὸν|kalon|[It is] better|G2570|Adj-NNS
@@ -334,7 +334,7 @@ v21 μηδὲ|mēde|[or]|G3366|Conj
 v21 πιεῖν|piein|drink|G4095|V-ANA
 v21 οἶνον|oinon|wine|G3631|N-AMS
 v21 μηδὲ|mēde|[or to do anything]|G3366|Conj
-v21 ἐν|en|vvv|G1722|Prep
+v21 ἐν|en|...|G1722|Prep
 v21 ᾧ|hō|[to cause]|G3739|RelPro-DNS
 v21 ὁ|ho|-|G3588|Art-NMS
 v21 ἀδελφός|adelphos|brother|G80|N-NMS
@@ -352,7 +352,7 @@ v22 τοῦ|tou|-|G3588|Art-GMS
 v22 Θεοῦ|Theou|God|G2316|N-GMS
 v22 μακάριος|makarios|Blessed [is]|G3107|Adj-NMS
 v22 ὁ|ho|the [one who]|G3588|Art-NMS
-v22 μὴ|mē|vvv|G3361|Adv
+v22 μὴ|mē|...|G3361|Adv
 v22 κρίνων|krinōn|does not condemn|G2919|V-PPA-NMS
 v22 ἑαυτὸν|heauton|himself|G1438|RefPro-AM3S
 v22 ἐν|en|by|G1722|Prep

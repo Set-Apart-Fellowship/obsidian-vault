@@ -16,7 +16,7 @@ v1 לִקְרֹ֤א|liq·rō|to proclaim|H7121|Prep-l | V-Qal-Inf
 v1 לִשְׁבוּיִם֙|liš·ḇū·yim|to the captives|H7617|Prep-l | V-Qal-QalPassPrtcpl-mp
 v1 דְּר֔וֹר|də·rō·wr|liberty|H1865|N-ms
 v1 וְלַאֲסוּרִ֖ים|wə·la·’ă·sū·rîm|to the prisoners|H631|Conj-w, Prep-l | V-Qal-QalPassPrtcpl-mp
-v1 פְּקַח־|pə·qaḥ-|vvv|H6495|
+v1 פְּקַח־|pə·qaḥ-|...|H6495|
 v1 קֽוֹחַ׃|qō·w·aḥ|and freedom|H6495|N-ms
 v2 לִקְרֹ֤א|liq·rō|to proclaim|H7121|Prep-l | V-Qal-Inf
 v2 שְׁנַת־|šə·naṯ-|the year|H8141|N-fsc
@@ -127,7 +127,7 @@ v9 כִּ֛י|kî|that|H3588|Conj
 v9 הֵ֥ם|hêm|they|H1992|Pro-3mp
 v9 זֶ֖רַע|ze·ra‘|are a people|H2233|N-ms
 v9 בֵּרַ֥ךְ|bê·raḵ|has blessed|H1288|V-Piel-Perf-3ms
-v9 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v9 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v10 שׂ֧וֹשׂ|śō·wś|I will rejoice greatly|H7797|V-Qal-InfAbs
 v10 אָשִׂ֣ישׂ|’ā·śîś|...|H7797|V-Qal-Imperf-1cs
 v10 בַּֽיהוָ֗ה|Yah·weh|in the LORD|H3068|Prep-b | N-proper-ms

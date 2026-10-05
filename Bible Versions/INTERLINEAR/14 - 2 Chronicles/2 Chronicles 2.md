@@ -8,11 +8,11 @@ v1 וּבַ֖יִת|ū·ḇa·yiṯ|palace for himself|H1004|Conj-w | N-ms
 v1 לְמַלְכוּתֽוֹ׃|lə·mal·ḵū·ṯōw|and a royal|H4438|Prep-l | N-fsc | 3ms
 v2 וַיִּסְפֹּ֨ר|way·yis·pōr|So he conscripted|H5608|Conj-w | V-Qal-ConsecImperf-3ms
 v2 שְׁלֹמֹ֜ה|šə·lō·mōh|...|H8010|N-proper-ms
-v2 שִׁבְעִ֥ים|šiḇ·‘îm|70,000 {}|H7657|Number-cp
+v2 שִׁבְעִ֥ים|šiḇ·‘îm|70,000|H7657|Number-cp
 v2 אֶ֙לֶף֙|’e·lep̄|...|H505|Number-ms
 v2 אִ֣ישׁ|’îš|...|H376|N-ms
 v2 סַבָּ֔ל|sab·bāl|porters|H5449|N-ms
-v2 וּשְׁמוֹנִ֥ים|ū·šə·mō·w·nîm|80,000 {}|H8084|Conj-w | Number-cp
+v2 וּשְׁמוֹנִ֥ים|ū·šə·mō·w·nîm|80,000|H8084|Conj-w | Number-cp
 v2 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v2 אִ֖ישׁ|’îš|...|H376|N-ms
 v2 חֹצֵ֣ב|ḥō·ṣêḇ|stonecutters|H2672|N-ms
@@ -22,7 +22,7 @@ v2 עֲלֵיהֶ֔ם|‘ă·lê·hem|...|H5921|Prep | 3mp
 v2 שְׁלֹ֥שֶׁת|šə·lō·šeṯ|and 3,600|H7969|Number-msc
 v2 אֲלָפִ֖ים|’ă·lā·p̄îm|...|H505|Number-mp
 v2 וְשֵׁ֥שׁ|wə·šêš|...|H8337|Conj-w | Number-fs
-v2 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v2 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v3 וַיִּשְׁלַ֣ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v3 שְׁלֹמֹ֔ה|šə·lō·mōh|Then Solomon|H8010|N-proper-ms
 v3 אֶל־|’el-|word to|H413|Prep
@@ -168,20 +168,20 @@ v10 חִטִּ֨ים׀|ḥiṭ·ṭîm|wheat|H2406|N-fp
 v10 מַכּ֜וֹת|mak·kō·wṯ|of ground|H4347|N-fpc
 v10 לַעֲבָדֶ֗יךָ|la·‘ă·ḇā·ḏe·ḵā|your servants|H5650|Prep-l | N-mpc | 2ms
 v10 כֹּרִים֙|kō·rîm|cors|H3734|N-mp
-v10 עֶשְׂרִ֣ים|‘eś·rîm|20,000 {}|H6242|Number-cp
+v10 עֶשְׂרִ֣ים|‘eś·rîm|20,000|H6242|Number-cp
 v10 אֶ֔לֶף|’e·lep̄|...|H505|Number-ms
 v10 וּשְׂעֹרִ֕ים|ū·śə·‘ō·rîm|of barley|H8184|Conj-w | N-fp
 v10 כֹּרִ֖ים|kō·rîm|cors|H3734|N-mp
-v10 עֶשְׂרִ֣ים|‘eś·rîm|20,000 {}|H6242|Number-cp
+v10 עֶשְׂרִ֣ים|‘eś·rîm|20,000|H6242|Number-cp
 v10 אָ֑לֶף|’ā·lep̄|...|H505|Number-ms
 v10 וְיַ֗יִן|wə·ya·yin|of wine|H3196|Conj-w | N-ms
 v10 בַּתִּים֙|bat·tîm|baths|H1324|N-fp
-v10 עֶשְׂרִ֣ים|‘eś·rîm|20,000 {}|H6242|Number-cp
+v10 עֶשְׂרִ֣ים|‘eś·rîm|20,000|H6242|Number-cp
 v10 אֶ֔לֶף|’e·lep̄|...|H505|Number-ms
 v10 וְשֶׁ֕מֶן|wə·še·men|of olive oil|H8081|Conj-w | N-ms
 v10 בַּתִּ֖ים|bat·tîm|baths|H1324|N-fp
-v10 עֶשְׂרִ֥ים|‘eś·rîm|and 20,000 {}|H6242|Number-cp
-v10 אָֽלֶף׃פ|’ā·lep̄|...|H505|Number-ms
+v10 עֶשְׂרִ֥ים|‘eś·rîm|and 20,000|H6242|Number-cp
+v10 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v11 וַיֹּ֨אמֶר|way·yō·mer|Then|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 חוּרָ֤ם|ḥū·rām|Hiram|H2361|N-proper-ms
 v11 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
@@ -293,7 +293,7 @@ v16 יָפ֑וֹ|yā·p̄ōw|down to Joppa|H3305|N-proper-fs
 v16 וְאַתָּ֛ה|wə·’at·tāh|Then you|H859|Conj-w | Pro-2ms
 v16 תַּעֲלֶ֥ה|ta·‘ă·leh|can take them up|H5927|V-Hifil-Imperf-2ms
 v16 אֹתָ֖ם|’ō·ṯām|-|H853|DirObjM | 3mp
-v16 יְרוּשָׁלִָֽם׃פ|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
+v16 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
 v17 וַיִּסְפֹּ֣ר|way·yis·pōr|numbered|H5608|Conj-w | V-Qal-ConsecImperf-3ms
 v17 שְׁלֹמֹ֗ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
 v17 כָּל־|kāl-|all|H3605|N-msc
@@ -321,7 +321,7 @@ v18 מֵהֶ֜ם|mê·hem|...|H0|Prep-m | Pro-3mp
 v18 שִׁבְעִ֥ים|šiḇ·‘îm|70,000 of them|H7657|Number-cp
 v18 אֶ֙לֶף֙|’e·lep̄|...|H505|Number-ms
 v18 סַבָּ֔ל|sab·bāl|porters|H5449|N-ms
-v18 וּשְׁמֹנִ֥ים|ū·šə·mō·nîm|80,000 {}|H8084|Conj-w | Number-cp
+v18 וּשְׁמֹנִ֥ים|ū·šə·mō·nîm|80,000|H8084|Conj-w | Number-cp
 v18 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v18 חֹצֵ֣ב|ḥō·ṣêḇ|stonecutters|H2672|N-ms
 v18 בָּהָ֑ר|bā·hār|in the mountains|H2022|Prep-b, Art | N-ms

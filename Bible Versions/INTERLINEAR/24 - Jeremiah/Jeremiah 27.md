@@ -28,7 +28,7 @@ v3 וְשִׁלַּחְתָּם֩|wə·šil·laḥ·tām|Send|H7971|Conj-w | V-P
 v3 אֶל־|’el-|word to|H413|Prep
 v3 מֶ֨לֶךְ|me·leḵ|the kings|H4428|N-msc
 v3 אֱד֜וֹם|’ĕ·ḏō·wm|of Edom|H123|N-proper-ms
-v3 וְאֶל־|wə·’el-||H413|Conj-w | Prep
+v3 וְאֶל־|wə·’el-|-|H413|Conj-w | Prep
 v3 מֶ֣לֶךְ|me·leḵ|-|H4428|N-msc
 v3 מוֹאָ֗ב|mō·w·’āḇ|Moab|H4124|N-proper-fs
 v3 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
@@ -162,13 +162,13 @@ v9 אַל־|’al-|do not|H408|Adv
 v9 תִּשְׁמְע֨וּ|tiš·mə·‘ū|listen|H8085|V-Qal-Imperf-2mp
 v9 אֶל־|’el-|to|H413|Prep
 v9 נְבִיאֵיכֶ֜ם|nə·ḇî·’ê·ḵem|your prophets|H5030|N-mpc | 2mp
-v9 וְאֶל־|wə·’el-||H413|Conj-w | Prep
+v9 וְאֶל־|wə·’el-|-|H413|Conj-w | Prep
 v9 קֹֽסְמֵיכֶ֗ם|qō·sə·mê·ḵem|your diviners|H7080|V-Qal-Prtcpl-mpc | 2mp
-v9 וְאֶל֙|wə·’el||H413|Conj-w | Prep
+v9 וְאֶל֙|wə·’el|-|H413|Conj-w | Prep
 v9 חֲלֹמֹ֣תֵיכֶ֔ם|ḥă·lō·mō·ṯê·ḵem|your interpreters of dreams|H2472|N-mpc | 2mp
-v9 וְאֶל־|wə·’el-||H413|Conj-w | Prep
+v9 וְאֶל־|wə·’el-|-|H413|Conj-w | Prep
 v9 עֹֽנְנֵיכֶ֖ם|‘ō·nə·nê·ḵem|your mediums|H6049|V-Piel-Prtcpl-mpc | 2mp
-v9 וְאֶל־|wə·’el-||H413|Conj-w | Prep
+v9 וְאֶל־|wə·’el-|-|H413|Conj-w | Prep
 v9 כַּשָּׁפֵיכֶ֑ם|kaš·šā·p̄ê·ḵem|or your sorcerers|H3786|N-mpc | 2mp
 v9 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
 v9 הֵ֞ם|hêm|...|H1992|Pro-3mp
@@ -349,7 +349,7 @@ v18 וּבֵ֨ית|ū·ḇêṯ|in the palace|H1004|Conj-w | N-msc
 v18 מֶ֧לֶךְ|me·leḵ|of the king|H4428|N-msc
 v18 יְהוּדָ֛ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v18 וּבִירוּשָׁלִַ֖ם|ū·ḇî·rū·šā·lim|and in Jerusalem|H3389|Conj-w, Prep-b | N-proper-fs
-v18 בָּבֶֽלָה׃פ|bā·ḇe·lāh|to Babylon|H894|N-proper-fs | 3fs
+v18 בָּבֶֽלָה׃|bā·ḇe·lāh|to Babylon|H894|N-proper-fs | 3fs
 v19 כִּ֣י|kî|For|H3588|Conj
 v19 כֹ֤ה|ḵōh|this is what|H3541|Adv
 v19 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -386,7 +386,7 @@ v20 וְאֵ֛ת|wə·’êṯ|along with|H853|Conj-w | DirObjM
 v20 כָּל־|kāl-|all|H3605|N-msc
 v20 חֹרֵ֥י|ḥō·rê|the nobles|H2715|N-mpc
 v20 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
-v20 וִירוּשָׁלִָֽם׃ס|wî·rū·šā·lim|and Jerusalem|H3389|Conj-w | N-proper-fs
+v20 וִירוּשָׁלִָֽם׃|wî·rū·šā·lim|and Jerusalem|H3389|Conj-w | N-proper-fs
 v21 כִּ֣י|kî|Yes|H3588|Conj
 v21 כֹ֥ה|ḵōh|this is what|H3541|Adv
 v21 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -417,4 +417,4 @@ v22 וְהַֽעֲלִיתִים֙|wə·ha·‘ă·lî·ṯîm|Then I will brin
 v22 וַהֲשִׁ֣יבֹתִ֔ים|wa·hă·šî·ḇō·ṯîm|and restore them|H7725|Conj-w | V-Hifil-ConjPerf-1cs | 3mp
 v22 אֶל־|’el-|to|H413|Prep
 v22 הַמָּק֖וֹם|ham·mā·qō·wm|place|H4725|Art | N-ms
-v22 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v22 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms

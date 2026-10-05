@@ -28,7 +28,7 @@ v3 עָרְלָתֽוֹ׃|‘ā·rə·lā·ṯōw|of [the boy's] foreskin|H6190|
 v4 וּשְׁלֹשִׁ֥ים|ū·šə·lō·šîm|for thirty-three|H7970|Conj-w | Number-cp
 v4 יוֹם֙|yō·wm|days|H3117|N-ms
 v4 וּשְׁלֹ֣שֶׁת|ū·šə·lō·šeṯ|...|H7969|Conj-w | Number-msc
-v4 יָמִ֔ים|yā·mîm||H3117|N-mp
+v4 יָמִ֔ים|yā·mîm|-|H3117|N-mp
 v4 תֵּשֵׁ֖ב|tê·šêḇ|The woman shall continue|H3427|V-Qal-Imperf-3fs
 v4 בִּדְמֵ֣י|biḏ·mê|from her bleeding|H1818|Prep-b | N-mpc
 v4 טָהֳרָ֑ה|ṭā·ho·rāh|in purification|H2893|N-fs
@@ -114,4 +114,4 @@ v8 לְחַטָּ֑את|lə·ḥaṭ·ṭāṯ|for a sin offering|H2403|Prep-l |
 v8 וְכִפֶּ֥ר|wə·ḵip·per|will make atonement|H3722|Conj-w | V-Piel-ConjPerf-3ms
 v8 עָלֶ֛יהָ|‘ā·le·hā|for her|H5921|Prep | 3fs
 v8 הַכֹּהֵ֖ן|hak·kō·hên|Then the priest|H3548|Art | N-ms
-v8 וְטָהֵֽרָה׃פ|wə·ṭā·hê·rāh|and she will be clean|H2891|Conj-w | V-Qal-ConjPerf-3fs
+v8 וְטָהֵֽרָה׃|wə·ṭā·hê·rāh|and she will be clean|H2891|Conj-w | V-Qal-ConjPerf-3fs

@@ -52,7 +52,7 @@ v3 τόποις|topois|area|G5117|N-DMP
 v3 ἐκείνοις|ekeinois|that|G1565|DPro-DMP
 v3 ᾔδεισαν|ēdeisan|they all knew|G1492|V-LIA-3P
 v3 γὰρ|gar|for|G1063|Conj
-v3 ἅπαντες|hapantes|vvv|G537|Adj-NMP
+v3 ἅπαντες|hapantes|...|G537|Adj-NMP
 v3 ὅτι|hoti|that|G3754|Conj
 v3 Ἕλλην|Hellēn|a Greek|G1672|N-NMS
 v3 ὁ|ho|-|G3588|Art-NMS
@@ -90,7 +90,7 @@ v5 καὶ|kai|and|G2532|Conj
 v5 ἐπερίσσευον|eperisseuon|grew|G4052|V-IIA-3P
 v5 τῷ|tō|-|G3588|Art-DMS
 v5 ἀριθμῷ|arithmō|in numbers|G706|N-DMS
-v5 καθ’|kath’|vvv|G2596|Prep
+v5 καθ’|kath’|...|G2596|Prep
 v5 ἡμέραν|hēmeran|daily|G2250|N-AFS
 v6 Διῆλθον|Diēlthon|they traveled through|G1330|V-AIA-3P
 v6 δὲ|de|-|G1161|Conj
@@ -121,7 +121,7 @@ v7 τὴν|tēn|-|G3588|Art-AFS
 v7 Βιθυνίαν|Bithynian|Bithynia|G978|N-AFS
 v7 πορευθῆναι|poreuthēnai|to enter|G4198|V-ANP
 v7 καὶ|kai|[but]|G2532|Conj
-v7 οὐκ|ouk|vvv|G3756|Adv
+v7 οὐκ|ouk|...|G3756|Adv
 v7 εἴασεν|eiasen|would not permit|G1439|V-AIA-3S
 v7 αὐτοὺς|autous|them|G846|PPro-AM3P
 v7 τὸ|to|the|G3588|Art-NNS
@@ -199,11 +199,11 @@ v12 μερίδος|meridos|district|G3310|N-GFS
 v12 Μακεδονίας|Makedonias|of Macedonia|G3109|N-GFS
 v12 πόλις|polis|city|G4172|N-NFS
 v12 κολωνία|kolōnia|[the Roman] colony|G2862|N-NFS
-v12 Ἦμεν|Ēmen|vvv|G1510|V-IIA-1P
+v12 Ἦμεν|Ēmen|...|G1510|V-IIA-1P
 v12 δὲ|de|And|G1161|Conj
-v12 ἐν|en|vvv|G1722|Prep
-v12 ταύτῃ|tautē|vvv|G3778|DPro-DFS
-v12 τῇ|tē|vvv|G3588|Art-DFS
+v12 ἐν|en|...|G1722|Prep
+v12 ταύτῃ|tautē|...|G3778|DPro-DFS
+v12 τῇ|tē|...|G3588|Art-DFS
 v12 πόλει|polei|[there]|G4172|N-DFS
 v12 διατρίβοντες|diatribontes|we stayed|G1304|V-PPA-NMP
 v12 ἡμέρας|hēmeras|days|G2250|N-AFP
@@ -268,7 +268,7 @@ v15 με|me|me|G1473|PPro-A1S
 v15 πιστὴν|pistēn|a believer|G4103|Adj-AFS
 v15 τῷ|tō|in the|G3588|Art-DMS
 v15 Κυρίῳ|Kyriō|Lord|G2962|N-DMS
-v15 εἶναι|einai|vvv|G1510|V-PNA
+v15 εἶναι|einai|...|G1510|V-PNA
 v15 εἰσελθόντες|eiselthontes|come|G1525|V-APA-NMP
 v15 εἰς|eis|at|G1519|Prep
 v15 τὸν|ton|-|G3588|Art-AMS
@@ -394,7 +394,7 @@ v21 καὶ|kai|[by]|G2532|Conj
 v21 καταγγέλλουσιν|katangellousin|promoting|G2605|V-PIA-3P
 v21 ἔθη|ethē|customs|G1485|N-ANP
 v21 ἃ|ha|that|G3739|RelPro-ANP
-v21 οὐκ|ouk|vvv|G3756|Adv
+v21 οὐκ|ouk|...|G3756|Adv
 v21 ἔξεστιν|exestin|are unlawful|G1832|V-PIA-3S
 v21 ἡμῖν|hēmin|for us|G1473|PPro-D1P
 v21 παραδέχεσθαι|paradechesthai|to adopt|G3858|V-PNM/P
@@ -466,7 +466,7 @@ v25 αὐτῶν|autōn|to them|G846|PPro-GM3P
 v25 οἱ|hoi|the|G3588|Art-NMP
 v25 δέσμιοι|desmioi|[other] prisoners|G1198|N-NMP
 v26 ἄφνω|aphnō|Suddenly|G869|Adv
-v26 δὲ|de|vvv|G1161|Conj
+v26 δὲ|de|...|G1161|Conj
 v26 σεισμὸς|seismos|earthquake|G4578|N-NMS
 v26 ἐγένετο|egeneto|-|G1096|V-AIM-3S
 v26 μέγας|megas|a strong|G3173|Adj-NMS
@@ -489,7 +489,7 @@ v26 δεσμὰ|desma|chains|G1199|N-NNP
 v26 ἀνέθη|anethē|came loose|G447|V-AIP-3S
 v27 Ἔξυπνος|Exypnos|woke up|G1853|Adj-NMS
 v27 δὲ|de|[When]|G1161|Conj
-v27 γενόμενος|genomenos|vvv|G1096|V-APM-NMS
+v27 γενόμενος|genomenos|...|G1096|V-APM-NMS
 v27 ὁ|ho|the|G3588|Art-NMS
 v27 δεσμοφύλαξ|desmophylax|jailer|G1200|N-NMS
 v27 καὶ|kai|and|G2532|Conj
@@ -530,7 +530,7 @@ v29 φῶτα|phōta|lights|G5457|N-ANP
 v29 εἰσεπήδησεν|eisepēdēsen|[the jailer] rushed in|G1530|V-AIA-3S
 v29 καὶ|kai|and|G2532|Conj
 v29 ἔντρομος|entromos|trembling {before}|G1790|Adj-NMS
-v29 γενόμενος|genomenos|vvv|G1096|V-APM-NMS
+v29 γενόμενος|genomenos|...|G1096|V-APM-NMS
 v29 προσέπεσεν|prosepesen|fell|G4363|V-AIA-3S
 v29 τῷ|tō|-|G3588|Art-DMS
 v29 Παύλῳ|Paulō|Paul|G3972|N-DMS
@@ -644,7 +644,7 @@ v36 ἵνα|hina|to|G2443|Conj
 v36 ἀπολυθῆτε|apolythēte|release you|G630|V-ASP-2P
 v36 νῦν|nyn|Now|G3568|Adv
 v36 οὖν|oun|-|G3767|Conj
-v36 ἐξελθόντες|exelthontes|vvv|G1831|V-APA-NMP
+v36 ἐξελθόντες|exelthontes|...|G1831|V-APA-NMP
 v36 πορεύεσθε|poreuesthe|you may go on your way|G4198|V-PMM/P-2P
 v36 ἐν|en|in|G1722|Prep
 v36 εἰρήνῃ|eirēnē|peace|G1515|N-DFS
@@ -709,7 +709,7 @@ v40 τῆς|tēs|the|G3588|Art-GFS
 v40 φυλακῆς|phylakēs|prison|G5438|N-GFS
 v40 εἰσῆλθον|eisēlthon|they went|G1525|V-AIA-3P
 v40 πρὸς|pros|to|G4314|Prep
-v40 τὴν|tēn|vvv|G3588|Art-AFS
+v40 τὴν|tēn|...|G3588|Art-AFS
 v40 Λυδίαν|Lydian|Lydia's house|G3070|N-AFS
 v40 καὶ|kai|-|G2532|Conj
 v40 ἰδόντες|idontes|to see|G3708|V-APA-NMP

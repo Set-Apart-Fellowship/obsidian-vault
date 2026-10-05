@@ -40,7 +40,7 @@ v4 וַיִּקָּבְצ֣וּ|way·yiq·qā·ḇə·ṣū|assembled|H6908|Conj
 v4 עַם־|‘am-|people|H5971|N-ms
 v4 רָ֔ב|rāḇ|Many|H7227|Adj-ms
 v4 וַֽיִּסְתְּמוּ֙|way·yis·tə·mū|and stopped|H5640|Conj-w | V-Qal-ConsecImperf-3mp
-v4 אֶת־|’eṯ-||H853|DirObjM
+v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 כָּל־|kāl-|up all|H3605|N-msc
 v4 הַמַּעְיָנ֔וֹת|ham·ma‘·yā·nō·wṯ|the springs|H4599|Art | N-mp
 v4 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -125,7 +125,7 @@ v8 עַל־|‘al-|by|H5921|Prep
 v8 דִּבְרֵ֖י|diḇ·rê|the words|H1697|N-mpc
 v8 יְחִזְקִיָּ֥הוּ|yə·ḥiz·qî·yā·hū|of Hezekiah|H2396|N-proper-ms
 v8 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
-v8 יְהוּדָֽה׃פ|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
+v8 יְהוּדָֽה׃|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v9 אַ֣חַר|’a·ḥar|Later|H310|Adv
 v9 זֶ֗ה|zeh|...|H2088|Pro-ms
 v9 שָׁ֠לַח|šā·laḥ|he sent|H7971|V-Qal-Perf-3ms
@@ -209,7 +209,7 @@ v13 הֲיָכ֣וֹל|hă·yā·ḵō·wl|ever been able|H3201|V-Qal-InfAbs
 v13 יָֽכְל֗וּ|yā·ḵə·lū|...|H3201|V-Qal-Perf-3cp
 v13 אֱלֹהֵי֙|’ĕ·lō·hê|Have the gods|H430|N-mpc
 v13 גּוֹיֵ֣|gō·w·yê|of these nations|H1471|N-mpc
-v13 הָאֲרָצ֔וֹת|hā·’ă·rā·ṣō·wṯ|vvv|H776|Art | N-fp
+v13 הָאֲרָצ֔וֹת|hā·’ă·rā·ṣō·wṯ|...|H776|Art | N-fp
 v13 לְהַצִּ֥יל|lə·haṣ·ṣîl|to deliver|H5337|Prep-l | V-Hifil-Inf
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 אַרְצָ֖ם|’ar·ṣām|their land|H776|N-fsc | 3mp
@@ -325,7 +325,7 @@ v19 עַמֵּ֣י|‘am·mê|of the peoples|H5971|N-mpc
 v19 הָאָ֔רֶץ|hā·’ā·reṣ|of the earth|H776|Art | N-fs
 v19 מַעֲשֵׂ֖ה|ma·‘ă·śêh|the work|H4639|N-msc
 v19 יְדֵ֥י|yə·ḏê|hands|H3027|N-fdc
-v19 הָאָדָֽם׃ס|hā·’ā·ḏām|of human|H120|Art | N-ms
+v19 הָאָדָֽם׃|hā·’ā·ḏām|of human|H120|Art | N-ms
 v20 וַיִּתְפַּלֵּ֞ל|way·yiṯ·pal·lêl|in prayer|H6419|Conj-w | V-Hitpael-ConsecImperf-3ms
 v20 יְחִזְקִיָּ֣הוּ|yə·ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
 v20 הַמֶּ֗לֶךְ|ham·me·leḵ|King|H4428|Art | N-ms
@@ -336,7 +336,7 @@ v20 הַנָּבִ֖יא|han·nā·ḇî|and the prophet|H5030|Art | N-ms
 v20 עַל־|‘al-|In response|H5921|Prep
 v20 זֹ֑את|zōṯ|...|H2063|Pro-fs
 v20 וַֽיִּזְעֲק֖וּ|way·yiz·‘ă·qū|cried out|H2199|Conj-w | V-Qal-ConsecImperf-3mp
-v20 הַשָּׁמָֽיִם׃פ|haš·šā·mā·yim|to heaven|H8064|Art | N-mp
+v20 הַשָּׁמָֽיִם׃|haš·šā·mā·yim|to heaven|H8064|Art | N-mp
 v21 וַיִּשְׁלַ֤ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v21 יְהוָה֙|Yah·weh|and the LORD|H3068|N-proper-ms
 v21 מַלְאָ֔ךְ|mal·’āḵ|an angel|H4397|N-ms
@@ -356,7 +356,7 @@ v21 לְאַרְצ֗וֹ|lə·’ar·ṣōw|to his own land|H776|Prep-l | N-fsc 
 v21 וַיָּבֹא֙|way·yā·ḇō|And when he entered|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v21 בֵּ֣ית|bêṯ|the temple|H1004|N-msc
 v21 אֱלֹהָ֔יו|’ĕ·lō·hāw|of his god|H430|N-mpc | 3ms
-v21 וּמִיצִיאוֹ|ū·mī·ṣī·ʾō||H3329|Conj-w, Prep-m | N-mpc
+v21 וּמִיצִיאוֹ|ū·mī·ṣī·ʾō|-|H3329|Conj-w, Prep-m | N-mpc
 v21 מֵעָ֔יו|mê·‘āw|some of his own [sons]|H4578|N-mpc | 3ms
 v21 שָׁ֖ם|šām|-|H8033|Adv
 v21 הִפִּילֻ֥הוּ|hip·pî·lu·hū|struck him down|H5307|V-Hifil-Perf-3cp | 3ms
@@ -390,7 +390,7 @@ v23 לְעֵינֵ֥י|lə·‘ê·nê|in the eyes|H5869|Prep-l | N-cdc
 v23 כָל־|ḵāl|of all|H3605|N-msc
 v23 הַגּוֹיִ֖ם|hag·gō·w·yim|nations|H1471|Art | N-mp
 v23 מֵאַֽחֲרֵי־|mê·’a·ḥă·rê-|and from|H310|Prep-m
-v23 כֵֽן׃ס|ḵên|then on|H3651|Adv
+v23 כֵֽן׃|ḵên|then on|H3651|Adv
 v24 בַּיָּמִ֣ים|bay·yā·mîm|days|H3117|Prep-b, Art | N-mp
 v24 הָהֵ֔ם|hā·hêm|In those|H1992|Art | Pro-3mp
 v24 חָלָ֥ה|ḥā·lāh|ill|H2470|V-Qal-Perf-3ms
@@ -546,4 +546,4 @@ v33 יְרוּשָׁלִָ֑ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-f
 v33 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v33 מְנַשֶּׁ֥ה|mə·naš·šeh|Manasseh|H4519|N-proper-ms
 v33 בְנ֖וֹ|ḇə·nōw|And his son|H1121|N-msc | 3ms
-v33 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v33 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

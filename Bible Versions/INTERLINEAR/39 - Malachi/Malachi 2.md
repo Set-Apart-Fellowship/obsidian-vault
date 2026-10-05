@@ -129,7 +129,7 @@ v9 אֶת־|’eṯ-|-|H853|Prep
 v9 דְּרָכַ֔י|də·rā·ḵay|My ways|H1870|N-cpc | 1cs
 v9 וְנֹשְׂאִ֥ים|wə·nō·śə·’îm|but have shown partiality|H5375|Conj-w | V-Qal-Prtcpl-mp
 v9 פָּנִ֖ים|pā·nîm|...|H6440|N-mp
-v9 בַּתּוֹרָֽה׃פ|bat·tō·w·rāh|in matters of the law|H8451|Prep-b, Art | N-fs
+v9 בַּתּוֹרָֽה׃|bat·tō·w·rāh|in matters of the law|H8451|Prep-b, Art | N-fs
 v10 הֲל֨וֹא|hă·lō·w|Do we not|H3808|Adv-NegPrt
 v10 אָ֤ב|’āḇ|Father|H1|N-ms
 v10 אֶחָד֙|’e·ḥāḏ|have one|H259|Number-ms
@@ -156,7 +156,7 @@ v11 חִלֵּ֣ל|ḥil·lêl|has profaned|H2490|V-Piel-Perf-3ms
 v11 יְהוּדָ֗ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v11 קֹ֤דֶשׁ|qō·ḏeš|sanctuary|H6944|N-msc
 v11 יְהוָה֙|Yah·weh|the LORD's|H3068|N-proper-ms
-v11 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v11 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v11 אָהֵ֔ב|’ā·hêḇ|beloved|H157|V-Qal-Perf-3ms
 v11 וּבָעַ֖ל|ū·ḇā·‘al|by marrying|H1166|Conj-w | V-Qal-ConjPerf-3ms
 v11 בַּת־|baṯ-|the daughter|H1323|N-fsc
@@ -174,7 +174,7 @@ v12 יַֽעֲקֹ֑ב|ya·‘ă·qōḇ|of Jacob|H3290|N-proper-ms
 v12 וּמַגִּ֣ישׁ|ū·mag·gîš|even if he brings|H5066|Conj-w | V-Hifil-Prtcpl-ms
 v12 מִנְחָ֔ה|min·ḥāh|an offering|H4503|N-fs
 v12 לַֽיהוָ֖ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
-v12 צְבָאֽוֹת׃פ|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
+v12 צְבָאֽוֹת׃|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v13 וְזֹאת֙|wə·zōṯ|And this|H2063|Conj-w | Pro-fs
 v13 שֵׁנִ֣ית|šê·nîṯ|is another|H8145|Number-ofs
 v13 תַּֽעֲשׂ֔וּ|ta·‘ă·śū|thing you do|H6213|V-Qal-Imperf-2mp
@@ -207,7 +207,7 @@ v14 נְעוּרֶ֗יךָ|nə·‘ū·re·ḵā|of your youth|H5271|N-mpc | 2ms
 v14 אֲשֶׁ֤ר|’ă·šer|against whom|H834|Pro-r
 v14 אַתָּה֙|’at·tāh|you|H859|Pro-2ms
 v14 בָּגַ֣דְתָּה|bā·ḡaḏ·tāh|have broken faith|H898|V-Qal-Perf-2ms
-v14 בָּ֔הּ|bāh||H0|Prep | 3fs
+v14 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v14 וְהִ֥יא|wə·hî|though she is|H1931|Conj-w | Pro-3fs
 v14 חֲבֶרְתְּךָ֖|ḥă·ḇer·tə·ḵā|your companion|H2278|N-fsc | 2ms
 v14 וְאֵ֥שֶׁת|wə·’ê·šeṯ|and your wife|H802|Conj-w | N-fsc
@@ -217,7 +217,7 @@ v15 אֶחָ֣ד|’e·ḥāḏ|one|H259|Number-ms
 v15 עָשָׂ֗ה|‘ā·śāh|made them|H6213|V-Qal-Perf-3ms
 v15 וּשְׁאָ֥ר|ū·šə·’ār|having a portion|H7605|Conj-w | N-msc
 v15 ר֙וּחַ֙|rū·aḥ|of the Spirit|H7307|N-cs
-v15 ל֔וֹ|lōw||H0|Prep | 3ms
+v15 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v15 וּמָה֙|ū·māh|And why|H4100|Conj-w | Interrog
 v15 הָֽאֶחָ֔ד|hā·’e·ḥāḏ|one|H259|Art | Number-ms
 v15 מְבַקֵּ֖שׁ|mə·ḇaq·qêš|Because He seeks|H1245|V-Piel-Prtcpl-ms
@@ -246,7 +246,7 @@ v16 צְבָא֑וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v16 וְנִשְׁמַרְתֶּ֥ם|wə·niš·mar·tem|So guard yourselves|H8104|Conj-w | V-Nifal-ConjPerf-2mp
 v16 בְּרוּחֲכֶ֖ם|bə·rū·ḥă·ḵem|in your spirit|H7307|Prep-b | N-msc | 2mp
 v16 וְלֹ֥א|wə·lō|and do not|H3808|Conj-w | Adv-NegPrt
-v16 תִבְגֹּֽדוּ׃ס|ṯiḇ·gō·ḏū|break faith|H898|V-Qal-Imperf-2mp
+v16 תִבְגֹּֽדוּ׃|ṯiḇ·gō·ḏū|break faith|H898|V-Qal-Imperf-2mp
 v17 הוֹגַעְתֶּ֤ם|hō·w·ḡa‘·tem|You have wearied|H3021|V-Hifil-Perf-2mp
 v17 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v17 בְּדִבְרֵיכֶ֔ם|bə·ḏiḇ·rê·ḵem|with your words|H1697|Prep-b | N-mpc | 2mp

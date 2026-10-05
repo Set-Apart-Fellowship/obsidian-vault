@@ -210,7 +210,7 @@ v15 יְשׁוּפְךָ֣|yə·šū·p̄ə·ḵā|{will} crush|H7779|V-Qal-Impe
 v15 רֹ֔אשׁ|rōš|your head|H7218|N-ms
 v15 וְאַתָּ֖ה|wə·’at·tāh|and you|H859|Conj-w | Pro-2ms
 v15 תְּשׁוּפֶ֥נּוּ|tə·šū·p̄en·nū|{will} strike|H7779|V-Qal-Imperf-2ms | 3ms
-v15 עָקֵֽב׃ס|‘ā·qêḇ|his heel|H6119|N-ms
+v15 עָקֵֽב׃|‘ā·qêḇ|his heel|H6119|N-ms
 v16 אֶֽל־|’el-|To|H413|Prep
 v16 הָאִשָּׁ֣ה|hā·’iš·šāh|the woman|H802|Art | N-fs
 v16 אָמַ֗ר|’ā·mar|He said|H559|V-Qal-Perf-3ms
@@ -226,7 +226,7 @@ v16 אִישֵׁךְ֙|’î·šêḵ|your husband|H376|N-msc | 2fs
 v16 תְּשׁ֣וּקָתֵ֔ךְ|tə·šū·qā·ṯêḵ|Your desire|H8669|N-fsc | 2fs
 v16 וְה֖וּא|wə·hū|and he|H1931|Conj-w | Pro-3ms
 v16 יִמְשָׁל־|yim·šāl-|will rule|H4910|V-Qal-Imperf-3ms
-v16 בָּֽךְ׃ס|bāḵ|over you|H0|Prep | 2fs
+v16 בָּֽךְ׃|bāḵ|over you|H0|Prep | 2fs
 v17 וּלְאָדָ֣ם|ū·lə·’ā·ḏām|And to Adam|H121|Conj-w, Prep-l | N-proper-ms
 v17 אָמַ֗ר|’ā·mar|He said|H559|V-Qal-Perf-3ms
 v17 כִּֽי־|kî-|Because|H3588|Conj
@@ -275,7 +275,7 @@ v19 אַ֔תָּה|’at·tāh|you [are]|H859|Pro-2ms
 v19 וְאֶל־|wə·’el-|and to|H413|Conj-w | Prep
 v19 עָפָ֖ר|‘ā·p̄ār|dust|H6083|N-ms
 v19 תָּשֽׁוּב׃|tā·šūḇ|you {shall} return|H7725|V-Qal-Imperf-2ms
-v20 וַיִּקְרָ֧א|way·yiq·rā|vvv|H7121|Conj-w | V-Qal-ConsecImperf-3ms
+v20 וַיִּקְרָ֧א|way·yiq·rā|...|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v20 הָֽאָדָ֛ם|hā·’ā·ḏām|And Adam|H120|Art | N-ms
 v20 שֵׁ֥ם|šêm|named|H8034|N-msc
 v20 אִשְׁתּ֖וֹ|’iš·tōw|his wife|H802|N-fsc | 3ms
@@ -293,7 +293,7 @@ v21 לְאָדָ֧ם|lə·’ā·ḏām|for Adam|H121|Prep-l | N-proper-ms
 v21 וּלְאִשְׁתּ֛וֹ|ū·lə·’iš·tōw|and his wife|H802|Conj-w, Prep-l | N-fsc | 3ms
 v21 כָּתְנ֥וֹת|kā·ṯə·nō·wṯ|garments|H3801|N-fpc
 v21 ע֖וֹר|‘ō·wr|of skin|H5785|N-ms
-v21 וַיַּלְבִּשֵֽׁם׃פ|way·yal·bi·šêm|and He clothed them|H3847|Conj-w | V-Hifil-ConsecImperf-3ms | 3mp
+v21 וַיַּלְבִּשֵֽׁם׃|way·yal·bi·šêm|and He clothed them|H3847|Conj-w | V-Hifil-ConsecImperf-3ms | 3mp
 v22 וַיֹּ֣אמֶר׀|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v22 יְהוָ֣ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v22 אֱלֹהִ֗ים|’ĕ·lō·hîm|God|H430|N-mp
@@ -344,4 +344,4 @@ v24 לִשְׁמֹ֕ר|liš·mōr|to guard|H8104|Prep-l | V-Qal-Inf
 v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 דֶּ֖רֶךְ|de·reḵ|the way|H1870|N-csc
 v24 עֵ֥ץ|‘êṣ|to the tree|H6086|N-msc
-v24 הַֽחַיִּֽים׃ס|ha·ḥay·yîm|of life|H2416|Art | N-mp
+v24 הַֽחַיִּֽים׃|ha·ḥay·yîm|of life|H2416|Art | N-mp

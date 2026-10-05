@@ -6,7 +6,7 @@ v1 אִיּ֣וֹב|’î·yō·wḇ|Job|H347|N-proper-ms
 v1 שְׁמ֑וֹ|šə·mōw|whose name [was]|H8034|N-msc | 3ms
 v1 וְהָיָ֣ה׀|wə·hā·yāh|was|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v1 הָאִ֣ישׁ|hā·’îš|And this man|H376|Art | N-ms
-v1 הַה֗וּא|ha·hū||H1931|Art | Pro-3ms
+v1 הַה֗וּא|ha·hū|-|H1931|Art | Pro-3ms
 v1 תָּ֧ם|tām|blameless|H8535|Adj-ms
 v1 וְיָשָׁ֛ר|wə·yā·šār|and upright|H3477|Conj-w | Adj-ms
 v1 וִירֵ֥א|wî·rê|fearing|H3373|Conj-w | Adj-msc
@@ -14,17 +14,17 @@ v1 אֱלֹהִ֖ים|’ĕ·lō·hîm|God|H430|N-mp
 v1 וְסָ֥ר|wə·sār|and shunning|H5493|Conj-w | V-Qal-Prtcpl-ms
 v1 מֵרָֽע׃|mê·rā‘|evil|H7451|Prep-m | Adj-ms
 v2 וַיִּוָּ֥לְדוּ|way·yiw·wā·lə·ḏū|-|H3205|Conj-w | V-Nifal-ConsecImperf-3mp
-v2 ל֛וֹ|lōw||H0|Prep | 3ms
+v2 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v2 שִׁבְעָ֥ה|šiḇ·‘āh|He had seven|H7651|Number-ms
 v2 בָנִ֖ים|ḇā·nîm|sons|H1121|N-mp
 v2 וְשָׁל֥וֹשׁ|wə·šā·lō·wōš|and three|H7969|Conj-w | Number-fs
 v2 בָּנֽוֹת׃|bā·nō·wṯ|daughters|H1323|N-fp
 v3 וַיְהִ֣י|way·hî|and he owned|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v3 מִ֠קְנֵהוּ|miq·nê·hū|...|H4735|N-msc | 3ms
-v3 שִֽׁבְעַ֨ת|šiḇ·‘aṯ|7,000 {}|H7651|Number-msc
+v3 שִֽׁבְעַ֨ת|šiḇ·‘aṯ|7,000|H7651|Number-msc
 v3 אַלְפֵי־|’al·p̄ê-|...|H505|Number-mpc
 v3 צֹ֜אן|ṣōn|sheep|H6629|N-cs
-v3 וּשְׁלֹ֧שֶׁת|ū·šə·lō·šeṯ|3,000 {}|H7969|Conj-w | Number-msc
+v3 וּשְׁלֹ֧שֶׁת|ū·šə·lō·šeṯ|3,000|H7969|Conj-w | Number-msc
 v3 אַלְפֵ֣י|’al·p̄ê|...|H505|Number-mpc
 v3 גְמַלִּ֗ים|ḡə·mal·lîm|camels|H1581|N-mp
 v3 וַחֲמֵ֨שׁ|wa·ḥă·mêš|500|H2568|Conj-w | Number-fsc
@@ -85,7 +85,7 @@ v5 כָּ֛כָה|kā·ḵāh|This|H3602|Adv
 v5 יַעֲשֶׂ֥ה|ya·‘ă·śeh|practice|H6213|V-Qal-Imperf-3ms
 v5 אִיּ֖וֹב|’î·yō·wḇ|was Job's|H347|N-proper-ms
 v5 כָּל־|kāl-|regular|H3605|N-msc
-v5 הַיָּמִֽים׃פ|hay·yā·mîm|...|H3117|Art | N-mp
+v5 הַיָּמִֽים׃|hay·yā·mîm|...|H3117|Art | N-mp
 v6 וַיְהִ֣י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v6 הַיּ֔וֹם|hay·yō·wm|One day|H3117|Art | N-ms
 v6 וַיָּבֹ֙אוּ֙|way·yā·ḇō·’ū|came|H935|Conj-w | V-Qal-ConsecImperf-3mp
@@ -219,7 +219,7 @@ v15 וַתִּקָּחֵ֔ם|wat·tiq·qā·ḥêm|and took them away|H3947|Conj
 v15 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v15 הַנְּעָרִ֖ים|han·nə·‘ā·rîm|the servants|H5288|Art | N-mp
 v15 הִכּ֣וּ|hik·kū|They put|H5221|V-Hifil-Perf-3cp
-v15 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v15 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v15 חָ֑רֶב|ḥā·reḇ|to the sword|H2719|N-fs
 v15 וָֽאִמָּ֨לְטָ֧ה|wā·’im·mā·lə·ṭāh|have escaped|H4422|Conj-w | V-Nifal-ConsecImperf-1cs | 3fs
 v15 רַק־|raq-|...|H7535|Adv
@@ -259,13 +259,13 @@ v17 שָׂ֣מוּ׀|śā·mū|formed|H7760|V-Qal-Perf-3cp
 v17 שְׁלֹשָׁ֣ה|šə·lō·šāh|three|H7969|Number-ms
 v17 רָאשִׁ֗ים|rā·šîm|bands|H7218|N-mp
 v17 וַֽיִּפְשְׁט֤וּ|way·yip̄·šə·ṭū|raided|H6584|Conj-w | V-Qal-ConsecImperf-3mp
-v17 עַל־|‘al-||H5921|Prep
+v17 עַל־|‘al-|-|H5921|Prep
 v17 הַגְּמַלִּים֙|hag·gə·mal·lîm|the camels|H1581|Art | N-mp
 v17 וַיִּקָּח֔וּם|way·yiq·qā·ḥūm|and took them away|H3947|Conj-w | V-Qal-ConsecImperf-3mp | 3mp
 v17 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v17 הַנְּעָרִ֖ים|han·nə·‘ā·rîm|the servants|H5288|Art | N-mp
 v17 הִכּ֣וּ|hik·kū|They put|H5221|V-Hifil-Perf-3cp
-v17 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v17 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v17 חָ֑רֶב|ḥā·reḇ|to the sword|H2719|N-fs
 v17 וָאִמָּ֨לְטָ֧ה|wā·’im·mā·lə·ṭāh|have escaped|H4422|Conj-w | V-Nifal-ConsecImperf-1cs | 3fs
 v17 רַק־|raq-|...|H7535|Adv
@@ -342,4 +342,4 @@ v22 אִיּ֑וֹב|’î·yō·wḇ|Job|H347|N-proper-ms
 v22 וְלֹא־|wə·lō-|or|H3808|Conj-w | Adv-NegPrt
 v22 נָתַ֥ן|nā·ṯan|charge|H5414|V-Qal-Perf-3ms
 v22 תִּפְלָ֖ה|tip̄·lāh|with wrongdoing|H8604|N-fs
-v22 לֵאלֹהִֽים׃פ|lê·lō·hîm|God|H430|Prep-l | N-mp
+v22 לֵאלֹהִֽים׃|lê·lō·hîm|God|H430|Prep-l | N-mp

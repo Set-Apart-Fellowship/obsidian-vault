@@ -15,7 +15,7 @@ v1 וּבְתַחְפַּנְחֵ֣ס|ū·ḇə·ṯaḥ·pan·ḥês|Tahpanhes|
 v1 וּבְנֹ֔ף|ū·ḇə·nōp̄|and Memphis|H5297|Conj-w, Prep-b | N-proper-fs
 v1 וּבְאֶ֥רֶץ|ū·ḇə·’e·reṣ|and in the land|H776|Conj-w, Prep-b | N-fsc
 v1 פַּתְר֖וֹס|paṯ·rō·ws|of Pathros|H6624|N-proper-fs
-v1 לֵאמֹֽר׃ס|lê·mōr|...|H559|Prep-l | V-Qal-Inf
+v1 לֵאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v2 כֹּה־|kōh-|This is what|H3541|Adv
 v2 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v2 יְהוָ֤ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -80,7 +80,7 @@ v5 וְלֹ֤א|wə·lō|But they did not|H3808|Conj-w | Adv-NegPrt
 v5 שָֽׁמְעוּ֙|šā·mə·‘ū|listen|H8085|V-Qal-Perf-3cp
 v5 וְלֹא־|wə·lō-|they did not|H3808|Conj-w | Adv-NegPrt
 v5 הִטּ֣וּ|hiṭ·ṭū|or incline|H5186|V-Hifil-Perf-3cp
-v5 אֶת־|’eṯ-||H853|DirObjM
+v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 אָזְנָ֔ם|’ā·zə·nām|their ears|H241|N-fsc | 3mp
 v5 לָשׁ֖וּב|lā·šūḇ|turn|H7725|Prep-l | V-Qal-Inf
 v5 מֵרָֽעָתָ֑ם|mê·rā·‘ā·ṯām|from their wickedness|H7451|Prep-m | N-fsc | 3mp
@@ -100,7 +100,7 @@ v6 וַתִּהְיֶ֛ינָה|wat·tih·ye·nāh|so that they have become|H196
 v6 לְחָרְבָּ֥ה|lə·ḥā·rə·bāh|the desolate|H2723|Prep-l | N-fs
 v6 לִשְׁמָמָ֖ה|liš·mā·māh|ruin|H8077|Prep-l | N-fs
 v6 כַּיּ֥וֹם|kay·yō·wm|they are today|H3117|Prep-k, Art | N-ms
-v6 הַזֶּֽה׃ס|haz·zeh|...|H2088|Art | Pro-ms
+v6 הַזֶּֽה׃|haz·zeh|...|H2088|Art | Pro-ms
 v7 וְעַתָּ֡ה|wə·‘at·tāh|So now|H6258|Conj-w | Adv
 v7 כֹּֽה־|kōh-|this is what|H3541|Adv
 v7 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -117,7 +117,7 @@ v7 גְדוֹלָה֙|ḡə·ḏō·w·lāh|such great|H1419|Adj-fs
 v7 אֶל־|’el-|to|H413|Prep
 v7 נַפְשֹׁ֣תֵכֶ֔ם|nap̄·šō·ṯê·ḵem|yourselves|H5315|N-fpc | 2mp
 v7 לְהַכְרִ֨ית|lə·haḵ·rîṯ|by cutting off|H3772|Prep-l | V-Hifil-Inf
-v7 לָכֶ֧ם|lā·ḵem||H0|Prep | 2mp
+v7 לָכֶ֧ם|lā·ḵem|-|H0|Prep | 2mp
 v7 אִישׁ־|’îš-|man|H376|N-ms
 v7 וְאִשָּׁ֛ה|wə·’iš·šāh|and woman|H802|Conj-w | N-fs
 v7 עוֹלֵ֥ל|‘ō·w·lêl|child|H5768|N-ms
@@ -143,7 +143,7 @@ v8 לָג֣וּר|lā·ḡūr|to reside|H1481|Prep-l | V-Qal-Inf
 v8 שָׁ֑ם|šām|...|H8033|Adv
 v8 לְמַ֙עַן֙|lə·ma·‘an|As a result|H4616|Conj
 v8 הַכְרִ֣ית|haḵ·rîṯ|you will be cut off|H3772|V-Hifil-Inf
-v8 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v8 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v8 וּלְמַ֤עַן|ū·lə·ma·‘an|and|H4616|Conj
 v8 הֱיֽוֹתְכֶם֙|hĕ·yō·wṯ·ḵem|will become|H1961|V-Qal-Inf | 2mp
 v8 לִקְלָלָ֣ה|liq·lā·lāh|an object of cursing|H7045|Prep-l | N-fs
@@ -188,7 +188,7 @@ v10 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v10 נָתַ֥תִּי|nā·ṯat·tî|I set|H5414|V-Qal-Perf-1cs
 v10 לִפְנֵיכֶ֖ם|lip̄·nê·ḵem|before you|H6440|Prep-l | N-mpc | 2mp
 v10 וְלִפְנֵ֥י|wə·lip̄·nê|and|H6440|Conj-w, Prep-l | N-cpc
-v10 אֲבוֹתֵיכֶֽם׃ס|’ă·ḇō·w·ṯê·ḵem|your fathers|H1|N-mpc | 2mp
+v10 אֲבוֹתֵיכֶֽם׃|’ă·ḇō·w·ṯê·ḵem|your fathers|H1|N-mpc | 2mp
 v11 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v11 כֹּֽה־|kōh-|this is what|H3541|Adv
 v11 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -199,7 +199,7 @@ v11 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v11 הִנְנִ֨י|hin·nî|...|H2005|Interjection | 1cs
 v11 שָׂ֥ם|śām|I will set|H7760|V-Qal-Prtcpl-ms
 v11 פָּנַ֛י|pā·nay|My face|H6440|N-mpc | 1cs
-v11 בָּכֶ֖ם|bā·ḵem||H0|Prep | 2mp
+v11 בָּכֶ֖ם|bā·ḵem|-|H0|Prep | 2mp
 v11 לְרָעָ֑ה|lə·rā·‘āh|to bring disaster|H7451|Prep-l | Adj-fs
 v11 וּלְהַכְרִ֖ית|ū·lə·haḵ·rîṯ|and to cut off|H3772|Conj-w, Prep-l | V-Hifil-Inf
 v11 אֶת־|’eṯ-|-|H853|DirObjM
@@ -275,7 +275,7 @@ v14 לֹֽא־|lō-|none|H3808|Adv-NegPrt
 v14 יָשׁ֖וּבוּ|yā·šū·ḇū|will return|H7725|V-Qal-Imperf-3mp
 v14 כִּ֥י|kî|except|H3588|Conj
 v14 אִם־|’im-|...|H518|Conj
-v14 פְּלֵטִֽים׃ס|pə·lê·ṭîm|a few fugitives|H6412|N-mp
+v14 פְּלֵטִֽים׃|pə·lê·ṭîm|a few fugitives|H6412|N-mp
 v15 וַיַּעֲנ֣וּ|way·ya·‘ă·nū|said|H6030|Conj-w | V-Qal-ConsecImperf-3mp
 v15 אֶֽת־|’eṯ-|-|H853|DirObjM
 v15 יִרְמְיָ֗הוּ|yir·mə·yā·hū|to Jeremiah|H3414|N-proper-ms
@@ -314,7 +314,7 @@ v17 נַעֲשֶׂ֜ה|na·‘ă·śeh|...|H6213|V-Qal-Imperf-1cp
 v17 אֶֽת־|’eṯ-|-|H853|DirObjM
 v17 כָּל־|kāl-|everything|H3605|N-msc
 v17 הַדָּבָ֣ר׀|had·dā·ḇār|we vowed|H1697|Art | N-ms
-v17 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v17 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v17 יָצָ֣א|yā·ṣā|to do|H3318|V-Qal-Perf-3ms
 v17 מִפִּ֗ינוּ|mip·pî·nū|...|H6310|Prep-m | N-msc | 1cp
 v17 לְקַטֵּ֞ר|lə·qaṭ·ṭêr|We will burn incense|H6999|Prep-l | V-Piel-Inf
@@ -365,12 +365,12 @@ v19 נְסָכִ֑ים|nə·sā·ḵîm|drink offerings|H5262|N-mp
 v19 הֲמִֽבַּלְעֲדֵ֣י|hă·mib·bal·‘ă·ḏê|was it without|H1107|Prep | Prep
 v19 אֲנָשֵׁ֗ינוּ|’ă·nā·šê·nū|our husbands' {knowledge}|H582|N-mpc | 1cp
 v19 עָשִׂ֨ינוּ|‘ā·śî·nū|that we made|H6213|V-Qal-Perf-1cp
-v19 לָ֤הּ|lāh||H0|Prep | 3fs
+v19 לָ֤הּ|lāh|-|H0|Prep | 3fs
 v19 כַּוָּנִים֙|kaw·wā·nîm|sacrificial cakes|H3561|N-mp
 v19 לְהַ֣עֲצִבָ֔ה|lə·ha·‘ă·ṣi·ḇāh|in her image|H6087|Prep-l | V-Hifil-Inf | 3fs
 v19 וְהַסֵּ֥ךְ|wə·has·sêḵ|and poured out|H5258|Conj-w | V-Hifil-InfAbs
 v19 לָ֖הּ|lāh|to her|H0|Prep | 3fs
-v19 נְסָכִֽים׃פ|nə·sā·ḵîm|drink offerings|H5262|N-mp
+v19 נְסָכִֽים׃|nə·sā·ḵîm|drink offerings|H5262|N-mp
 v20 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 יִרְמְיָ֖הוּ|yir·mə·yā·hū|Then Jeremiah|H3414|N-proper-ms
 v20 אֶל־|’el-|to|H413|Prep
@@ -451,7 +451,7 @@ v23 אֶתְכֶ֛ם|’eṯ·ḵem|-|H853|DirObjM | 2mp
 v23 הָרָעָ֥ה|hā·rā·‘āh|disaster|H7451|Art | Adj-fs
 v23 הַזֹּ֖את|haz·zōṯ|this|H2063|Art | Pro-fs
 v23 כַּיּ֥וֹם|kay·yō·wm|as you see today|H3117|Prep-k, Art | N-ms
-v23 הַזֶּֽה׃ס|haz·zeh|...|H2088|Art | Pro-ms
+v23 הַזֶּֽה׃|haz·zeh|...|H2088|Art | Pro-ms
 v24 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v24 יִרְמְיָ֙הוּ֙|yir·mə·yā·hū|Then Jeremiah|H3414|N-proper-ms
 v24 אֶל־|’el-|to|H413|Prep
@@ -467,7 +467,7 @@ v24 כָּל־|kāl-|all those|H3605|N-msc
 v24 יְהוּדָ֕ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v24 אֲשֶׁ֖ר|’ă·šer|who|H834|Pro-r
 v24 בְּאֶ֥רֶץ|bə·’e·reṣ|are in the land|H776|Prep-b | N-fsc
-v24 מִצְרָֽיִם׃ס|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
+v24 מִצְרָֽיִם׃|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
 v25 כֹּֽה־|kōh-|This is what|H3541|Adv
 v25 אָמַ֣ר|’ā·mar|-|H559|V-Qal-Perf-3ms
 v25 יְהוָֽה־|Yah·weh-|the LORD|H3068|N-proper-ms
@@ -501,7 +501,7 @@ v25 נִדְרֵיכֶ֔ם|niḏ·rê·ḵem|what you have promised|H5088|N-mpc 
 v25 וְעָשֹׂ֥ה|wə·‘ā·śōh|...|H6213|Conj-w | V-Qal-InfAbs
 v25 תַעֲשֶׂ֖ינָה|ṯa·‘ă·śe·nāh|Keep|H6213|V-Qal-Imperf-2fp
 v25 אֶת־|’eṯ-|-|H853|DirObjM
-v25 נִדְרֵיכֶֽם׃פ|niḏ·rê·ḵem|your vows|H5088|N-mpc | 2mp
+v25 נִדְרֵיכֶֽם׃|niḏ·rê·ḵem|your vows|H5088|N-mpc | 2mp
 v26 לָכֵן֙|lā·ḵên|Nevertheless|H3651|Adv
 v26 שִׁמְע֣וּ|šim·‘ū|hear|H8085|V-Qal-Imp-mp
 v26 דְבַר־|ḏə·ḇar-|the word|H1697|N-msc
@@ -592,7 +592,7 @@ v29 ק֨וֹם|qō·wm|will surely stand|H6965|V-Qal-InfAbs
 v29 יָק֧וּמוּ|yā·qū·mū|...|H6965|V-Qal-Imperf-3mp
 v29 דְבָרַ֛י|ḏə·ḇā·ray|My threats|H1697|N-mpc | 1cs
 v29 עֲלֵיכֶ֖ם|‘ă·lê·ḵem|against you|H5921|Prep | 2mp
-v29 לְרָעָֽה׃ס|lə·rā·‘āh|of harm|H7451|Prep-l | Adj-fs
+v29 לְרָעָֽה׃|lə·rā·‘āh|of harm|H7451|Prep-l | Adj-fs
 v30 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v30 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v30 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -620,4 +620,4 @@ v30 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v30 בָּבֶ֛ל|bā·ḇel|of Babylon|H894|N-proper-fs
 v30 אֹיְב֖וֹ|’ō·yə·ḇōw|the enemy|H341|V-Qal-Prtcpl-msc | 3ms
 v30 וּמְבַקֵּ֥שׁ|ū·mə·ḇaq·qêš|who was seeking|H1245|Conj-w | V-Piel-Prtcpl-ms
-v30 נַפְשֽׁוֹ׃ס|nap̄·šōw|his life|H5315|N-fsc | 3ms
+v30 נַפְשֽׁוֹ׃|nap̄·šōw|his life|H5315|N-fsc | 3ms

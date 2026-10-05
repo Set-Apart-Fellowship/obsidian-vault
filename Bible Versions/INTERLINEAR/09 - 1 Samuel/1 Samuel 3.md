@@ -13,7 +13,7 @@ v1 בַּיָּמִ֣ים|bay·yā·mîm|days|H3117|Prep-b, Art | N-mp
 v1 הָהֵ֔ם|hā·hêm|Now in those|H1992|Art | Pro-3mp
 v1 אֵ֥ין|’ên|were|H369|Adv
 v1 חָז֖וֹן|ḥā·zō·wn|and visions|H2377|N-ms
-v1 נִפְרָֽץ׃ס|nip̄·rāṣ|scarce|H6555|V-Nifal-Prtcpl-ms
+v1 נִפְרָֽץ׃|nip̄·rāṣ|scarce|H6555|V-Nifal-Prtcpl-ms
 v2 וַֽיְהִי֙|way·hî|And|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v2 בַּיּ֣וֹם|bay·yō·wm|at that time|H3117|Prep-b, Art | N-ms
 v2 הַה֔וּא|ha·hū|...|H1931|Art | Pro-3ms
@@ -21,7 +21,7 @@ v2 וְעֵלִ֖י|wə·‘ê·lî|Eli|H5941|Conj-w | N-proper-ms
 v2 שֹׁכֵ֣ב|šō·ḵêḇ|was lying|H7901|V-Qal-Prtcpl-ms
 v2 בִּמְקֹמ֑וֹ|bim·qō·mō|in his room|H4725|Prep-b | N-msc | 3ms
 v2 וְעֵינוֹ|wə·ʿē·nō|whose eyesight|H5869|Conj-w | N-cdc | 3ms
-v2 הֵחֵ֣לּוּ|hê·ḥêl·lū|vvv|H2490|V-Hifil-Perf-3cp
+v2 הֵחֵ֣לּוּ|hê·ḥêl·lū|...|H2490|V-Hifil-Perf-3cp
 v2 כֵה֔וֹת|ḵê·hō·wṯ|had grown so dim|H3544|Adj-fp
 v2 לֹ֥א|lō|not|H3808|Adv-NegPrt
 v2 יוּכַ֖ל|yū·ḵal|that he could|H3201|V-Qal-Imperf-3ms
@@ -37,7 +37,7 @@ v3 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v3 אֲשֶׁר־|’ă·šer-|where|H834|Pro-r
 v3 שָׁ֖ם|šām|was located|H8033|Adv
 v3 אֲר֥וֹן|’ă·rō·wn|the ark|H727|N-csc
-v3 אֱלֹהִֽים׃פ|’ĕ·lō·hîm|of God|H430|N-mp
+v3 אֱלֹהִֽים׃|’ĕ·lō·hîm|of God|H430|N-mp
 v4 וַיִּקְרָ֧א|way·yiq·rā|called|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v4 יְהוָ֛ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v4 אֶל־|’el-|...|H413|Prep
@@ -58,7 +58,7 @@ v5 קָרָ֖אתִי|qā·rā·ṯî|call|H7121|V-Qal-Perf-1cs
 v5 שׁ֣וּב|šūḇ|Go back|H7725|V-Qal-Imp-ms
 v5 שְׁכָ֑ב|šə·ḵāḇ|and lie down|H7901|V-Qal-Imp-ms
 v5 וַיֵּ֖לֶךְ|way·yê·leḵ|So he went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
-v5 וַיִּשְׁכָּֽב׃ס|way·yiš·kāḇ|and lay down|H7901|Conj-w | V-Qal-ConsecImperf-3ms
+v5 וַיִּשְׁכָּֽב׃|way·yiš·kāḇ|and lay down|H7901|Conj-w | V-Qal-ConsecImperf-3ms
 v6 וַיֹּ֣סֶף|way·yō·sep̄|Once again|H3254|Conj-w | V-Hifil-ConsecImperf-3ms
 v6 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
 v6 קְרֹ֣א|qə·rō|called|H7121|V-Qal-Inf
@@ -142,7 +142,7 @@ v10 שְׁמוּאֵל֙|šə·mū·’êl|And Samuel|H8050|N-proper-ms
 v10 דַּבֵּ֔ר|dab·bêr|Speak|H1696|V-Piel-Imp-ms
 v10 כִּ֥י|kî|for|H3588|Conj
 v10 שֹׁמֵ֖עַ|šō·mê·a‘|is listening|H8085|V-Qal-Prtcpl-ms
-v10 עַבְדֶּֽךָ׃פ|‘aḇ·de·ḵā|Your servant|H5650|N-msc | 2ms
+v10 עַבְדֶּֽךָ׃|‘aḇ·de·ḵā|Your servant|H5650|N-msc | 2ms
 v11 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v11 אֶל־|’el-|to|H413|Prep
@@ -156,7 +156,7 @@ v11 אֲשֶׁר֙|’ă·šer|at which|H834|Pro-r
 v11 כָּל־|kāl-|of all|H3605|N-msc
 v11 שֹׁ֣מְע֔וֹ|šō·mə·‘ōw|who hear it|H8085|V-Qal-Prtcpl-msc | 3ms
 v11 תְּצִלֶּ֖ינָה|tə·ṣil·le·nāh|will tingle|H6750|V-Qal-Imperf-3fp
-v11 שְׁתֵּ֥י|šə·tê|vvv|H8147|Number-fdc
+v11 שְׁתֵּ֥י|šə·tê|...|H8147|Number-fdc
 v11 אָזְנָֽיו׃|’ā·zə·nāw|the ears|H241|N-fdc | 3ms
 v12 בַּיּ֤וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v12 הַהוּא֙|ha·hū|On that|H1931|Art | Pro-3ms
@@ -178,7 +178,7 @@ v13 שֹׁפֵ֥ט|šō·p̄êṭ|would judge|H8199|V-Qal-Prtcpl-ms
 v13 אֲנִ֛י|’ă·nî|I|H589|Pro-1cs
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 בֵּית֖וֹ|bê·ṯōw|his house|H1004|N-msc | 3ms
-v13 עַד־|‘aḏ-|vvv|H5704|Prep
+v13 עַד־|‘aḏ-|...|H5704|Prep
 v13 עוֹלָ֑ם|‘ō·w·lām|forever|H5769|N-ms
 v13 בַּעֲוֺ֣ן|ba·‘ă·wōn|for the iniquity|H5771|Prep-b | N-csc
 v13 אֲשֶׁר־|’ă·šer-|of which|H834|Pro-r
@@ -267,7 +267,7 @@ v18 יְהוָ֣ה|Yah·weh|is the LORD|H3068|N-proper-ms
 v18 ה֔וּא|hū|He|H1931|Pro-3ms
 v18 הַטּ֥וֹב|haṭ·ṭō·wḇ|what is good|H2896|Art | Adj-ms
 v18 בְּעֵינָ֖ו|bə·ʿē·nå̄w|in His eyes|H5869|Prep-b | N-cdc | 3ms
-v18 יַעֲשֶֽׂה׃פ|ya·‘ă·śeh|Let Him do|H6213|V-Qal-Imperf-3ms
+v18 יַעֲשֶֽׂה׃|ya·‘ă·śeh|Let Him do|H6213|V-Qal-Imperf-3ms
 v19 וַיִּגְדַּ֖ל|way·yiḡ·dal|grew|H1431|Conj-w | V-Qal-ConsecImperf-3ms
 v19 שְׁמוּאֵ֑ל|šə·mū·’êl|And Samuel|H8050|N-proper-ms
 v19 וַֽיהוָה֙|Yah·weh|and the LORD|H3068|Conj-w | N-proper-ms
@@ -283,7 +283,7 @@ v20 כָּל־|kāl-|So all|H3605|N-msc
 v20 יִשְׂרָאֵ֔ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v20 מִדָּ֖ן|mid·dān|from Dan|H1835|Prep-m | N-proper-ms
 v20 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
-v20 בְּאֵ֣ר|bə·’êr|vvv|H884|Prep
+v20 בְּאֵ֣ר|bə·’êr|...|H884|Prep
 v20 שָׁ֑בַע|šā·ḇa‘|Beersheba|H884|N-proper-fs
 v20 כִּ֚י|kî|that|H3588|Conj
 v20 נֶאֱמָ֣ן|ne·’ĕ·mān|was confirmed|H539|V-Nifal-Prtcpl-ms
@@ -301,4 +301,4 @@ v21 אֶל־|’el-|to|H413|Prep
 v21 שְׁמוּאֵ֛ל|šə·mū·’êl|Samuel|H8050|N-proper-ms
 v21 בְּשִׁל֖וֹ|bə·ši·lōw|there|H7887|Prep-b | N-proper-fs
 v21 בִּדְבַ֥ר|biḏ·ḇar|word|H1697|Prep-b | N-msc
-v21 יְהוָֽה׃פ|Yah·weh|by His|H3068|N-proper-ms
+v21 יְהוָֽה׃|Yah·weh|by His|H3068|N-proper-ms

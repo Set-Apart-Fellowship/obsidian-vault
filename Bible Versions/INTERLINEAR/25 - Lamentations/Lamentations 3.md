@@ -16,7 +16,7 @@ v3 יָשֻׁ֛ב|yā·šuḇ|He keeps turning|H7725|V-Qal-Imperf-3ms
 v3 יַהֲפֹ֥ךְ|ya·hă·p̄ōḵ|...|H2015|V-Qal-Imperf-3ms
 v3 יָד֖וֹ|yā·ḏōw|His hand|H3027|N-fsc | 3ms
 v3 כָּל־|kāl-|all day long|H3605|N-msc
-v3 הַיּֽוֹם׃ס|hay·yō·wm|...|H3117|Art | N-ms
+v3 הַיּֽוֹם׃|hay·yō·wm|...|H3117|Art | N-ms
 v4 בִּלָּ֤ה|bil·lāh|He has worn away|H1086|V-Piel-Perf-3ms
 v4 בְשָׂרִי֙|ḇə·śā·rî|my flesh|H1320|N-msc | 1cs
 v4 וְעוֹרִ֔י|wə·‘ō·w·rî|and skin|H5785|Conj-w | N-msc | 1cs
@@ -30,7 +30,7 @@ v5 וּתְלָאָֽה׃|ū·ṯə·lā·’āh|and hardship|H8513|Conj-w | N-f
 v6 בְּמַחֲשַׁכִּ֥ים|bə·ma·ḥă·šak·kîm|in darkness|H4285|Prep-b | N-mp
 v6 הוֹשִׁיבַ֖נִי|hō·wō·šî·ḇa·nî|He has made me dwell|H3427|V-Hifil-Perf-3ms | 1cs
 v6 כְּמֵתֵ֥י|kə·mê·ṯê|like those dead|H4191|Prep-k | V-Qal-Prtcpl-mpc
-v6 עוֹלָֽם׃ס|‘ō·w·lām|for ages|H5769|N-ms
+v6 עוֹלָֽם׃|‘ō·w·lām|for ages|H5769|N-ms
 v7 גָּדַ֧ר|gā·ḏar|He has walled me in|H1443|V-Qal-Perf-3ms
 v7 בַּעֲדִ֛י|ba·‘ă·ḏî|...|H1157|Prep | 1cs
 v7 וְלֹ֥א|wə·lō|so I cannot|H3808|Conj-w | Adv-NegPrt
@@ -47,11 +47,11 @@ v9 גָּדַ֤ר|gā·ḏar|He has barred|H1443|V-Qal-Perf-3ms
 v9 דְּרָכַי֙|də·rā·ḵay|my ways|H1870|N-cpc | 1cs
 v9 בְּגָזִ֔ית|bə·ḡā·zîṯ|with cut stones|H1496|Prep-b | N-fs
 v9 נְתִיבֹתַ֖י|nə·ṯî·ḇō·ṯay|He has made my paths|H5410|N-fpc | 1cs
-v9 עִוָּֽה׃ס|‘iw·wāh|crooked|H5753|V-Piel-Perf-3ms
+v9 עִוָּֽה׃|‘iw·wāh|crooked|H5753|V-Piel-Perf-3ms
 v10 דֹּ֣ב|dōḇ|is a bear|H1677|N-ms
 v10 אֹרֵ֥ב|’ō·rêḇ|lying in wait|H693|V-Qal-Prtcpl-ms
 v10 הוּא֙|hū|He|H1931|Pro-3ms
-v10 לִ֔י|lî||H0|Prep | 1cs
+v10 לִ֔י|lî|-|H0|Prep | 1cs
 v10 אַרְיֵה|ʾar·yēh|a lion|H738|N-ms
 v10 בְּמִסְתָּרִֽים׃|bə·mis·tā·rîm|hiding in ambush|H4565|Prep-b | N-mp
 v11 דְּרָכַ֥י|də·rā·ḵay|my path|H1870|N-cpc | 1cs
@@ -63,7 +63,7 @@ v12 דָּרַ֤ךְ|dā·raḵ|He bent|H1869|V-Qal-Perf-3ms
 v12 קַשְׁתוֹ֙|qaš·ṯō|His bow|H7198|N-fsc | 3ms
 v12 וַיַּצִּיבֵ֔נִי|way·yaṣ·ṣî·ḇê·nî|and set me|H5324|Conj-w | V-Hifil-ConsecImperf-3ms | 1cs
 v12 כַּמַּטָּרָ֖א|kam·maṭ·ṭā·rā|as the target|H4307|Prep-k, Art | N-fs
-v12 לַחֵֽץ׃ס|la·ḥêṣ|for His arrow|H2671|Prep-l, Art | N-ms
+v12 לַחֵֽץ׃|la·ḥêṣ|for His arrow|H2671|Prep-l, Art | N-ms
 v13 הֵבִיא֙|hê·ḇî|He pierced|H935|V-Hifil-Perf-3ms
 v13 בְּכִלְיוֹתָ֔י|bə·ḵil·yō·w·ṯāy|my kidneys|H3629|Prep-b | N-fpc | 1cs
 v13 בְּנֵ֖י|bə·nê|with His arrows|H1121|N-mpc
@@ -78,7 +78,7 @@ v14 הַיּֽוֹם׃|hay·yō·wm|...|H3117|Art | N-ms
 v15 הִשְׂבִּיעַ֥נִי|hiś·bî·‘a·nî|He has filled me|H7646|V-Hifil-Perf-3ms | 1cs
 v15 בַמְּרוֹרִ֖ים|ḇam·mə·rō·w·rîm|with bitterness|H4844|Prep-b, Art | N-mp
 v15 הִרְוַ֥נִי|hir·wa·nî|He has intoxicated me|H7301|V-Hifil-Perf-3ms | 1cs
-v15 לַעֲנָֽה׃ס|la·‘ă·nāh|with wormwood|H3939|N-fs
+v15 לַעֲנָֽה׃|la·‘ă·nāh|with wormwood|H3939|N-fs
 v16 וַיַּגְרֵ֤ס|way·yaḡ·rês|He has ground|H1638|Conj-w | V-Hifil-ConsecImperf-3ms
 v16 בֶּֽחָצָץ֙|be·ḥā·ṣāṣ|with gravel|H2687|Prep-b, Art | N-ms
 v16 שִׁנָּ֔י|šin·nāy|my teeth|H8127|N-cdc | 1cs
@@ -93,7 +93,7 @@ v18 וָאֹמַר֙|wā·’ō·mar|So I say|H559|Conj-w | V-Qal-ConsecImperf-1
 v18 אָבַ֣ד|’ā·ḇaḏ|has perished|H6|V-Qal-Perf-3ms
 v18 נִצְחִ֔י|niṣ·ḥî|My strength|H5331|N-msc | 1cs
 v18 וְתוֹחַלְתִּ֖י|wə·ṯō·w·ḥal·tî|along with my hope|H8431|Conj-w | N-fsc | 1cs
-v18 מֵיְהוָֽה׃ס|Yah·weh|from the LORD|H3068|Prep-m | N-proper-ms
+v18 מֵיְהוָֽה׃|Yah·weh|from the LORD|H3068|Prep-m | N-proper-ms
 v19 זְכָר־|zə·ḵār-|Remember|H2142|V-Qal-Imp-ms
 v19 עָנְיִ֥י|‘ā·nə·yî|my affliction|H6040|N-msc | 1cs
 v19 וּמְרוּדִ֖י|ū·mə·rū·ḏî|and wandering|H4788|Conj-w | N-msc | 1cs
@@ -110,7 +110,7 @@ v21 אֶל־|’el-|to|H413|Prep
 v21 לִבִּ֖י|lib·bî|mind|H3820|N-msc | 1cs
 v21 עַל־|‘al-|and therefore|H5921|Prep
 v21 כֵּ֥ן|kên|...|H3651|Adv
-v21 אוֹחִֽיל׃ס|’ō·w·ḥîl|I have hope|H3176|V-Hifil-Imperf-1cs
+v21 אוֹחִֽיל׃|’ō·w·ḥîl|I have hope|H3176|V-Hifil-Imperf-1cs
 v22 חַֽסְדֵ֤י|ḥas·ḏê|the loving devotion|H2617|N-mpc
 v22 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
 v22 כִּ֣י|kî|Because of|H3588|Conj
@@ -131,7 +131,7 @@ v24 נַפְשִׁ֔י|nap̄·šî|my soul|H5315|N-fsc | 1cs
 v24 עַל־|‘al-|therefore|H5921|Prep
 v24 כֵּ֖ן|kên|...|H3651|Adv
 v24 אוֹחִ֥יל|’ō·w·ḥîl|I will hope|H3176|V-Hifil-Imperf-1cs
-v24 לֽוֹ׃ס|lōw|in Him|H0|Prep | 3ms
+v24 לֽוֹ׃|lōw|in Him|H0|Prep | 3ms
 v25 ט֤וֹב|ṭō·wḇ|is good|H2896|Adj-ms
 v25 יְהוָה֙|Yah·weh|The LORD|H3068|N-proper-ms
 v25 לְקוָֹ֔ו|lə·qōw|to those who wait for Him|H6960|Prep-l | V-Qal-Prtcpl-msc | 3ms
@@ -147,7 +147,7 @@ v27 לַגֶּ֔בֶר|lag·ge·ḇer|for a man|H1397|Prep-l, Art | N-ms
 v27 כִּֽי־|kî-|...|H3588|Conj
 v27 יִשָּׂ֥א|yiś·śā|to bear|H5375|V-Qal-Imperf-3ms
 v27 עֹ֖ל|‘ōl|the yoke|H5923|N-ms
-v27 בִּנְעוּרָֽיו׃ס|bin·‘ū·rāw|while he is still young|H5271|Prep-b | N-mpc | 3ms
+v27 בִּנְעוּרָֽיו׃|bin·‘ū·rāw|while he is still young|H5271|Prep-b | N-mpc | 3ms
 v28 יֵשֵׁ֤ב|yê·šêḇ|Let him sit|H3427|V-Qal-Imperf-3ms
 v28 בָּדָד֙|bā·ḏāḏ|alone|H910|N-ms
 v28 וְיִדֹּ֔ם|wə·yid·dōm|in silence|H1826|Conj-w | V-Qal-ConjImperf-3ms
@@ -164,7 +164,7 @@ v30 יִתֵּ֧ן|yit·tên|Let him offer|H5414|V-Qal-Imperf-3ms
 v30 לְמַכֵּ֛הוּ|lə·mak·kê·hū|to the one who would strike him|H5221|Prep-l | V-Hifil-Prtcpl-msc | 3ms
 v30 לֶ֖חִי|le·ḥî|his cheek|H3895|N-fs
 v30 יִשְׂבַּ֥ע|yiś·ba‘|let him be filled|H7646|V-Qal-Imperf-3ms
-v30 בְּחֶרְפָּֽה׃ס|bə·ḥer·pāh|with reproach|H2781|Prep-b | N-fs
+v30 בְּחֶרְפָּֽה׃|bə·ḥer·pāh|with reproach|H2781|Prep-b | N-fs
 v31 כִּ֣י|kî|For|H3588|Conj
 v31 לֹ֥א|lō|will not|H3808|Adv-NegPrt
 v31 יִזְנַ֛ח|yiz·naḥ|cast us off|H2186|V-Qal-Imperf-3ms
@@ -182,7 +182,7 @@ v33 עִנָּה֙|‘in·nāh|afflict|H6031|V-Piel-Perf-3ms
 v33 מִלִּבּ֔וֹ|mil·lib·bōw|willingly|H3820|Prep-m | N-msc | 3ms
 v33 וַיַּגֶּ֖ה|way·yag·geh|or grieve|H3013|Conj-w | V-Piel-ConsecImperf-3ms
 v33 בְנֵי־|bə·nê-|the sons|H1121|N-mpc
-v33 אִֽישׁ׃ס|ʾīš|of men|H376|N-ms
+v33 אִֽישׁ׃|ʾīš|of men|H376|N-ms
 v34 לְדַכֵּא֙|lə·ḏak·kê|To crush|H1792|Prep-l | V-Piel-Inf
 v34 תַּ֣חַת|ta·ḥaṯ|underfoot|H8478|Prep
 v34 רַגְלָ֔יו|raḡ·lāw|...|H7272|N-fdc | 3ms
@@ -200,7 +200,7 @@ v36 אָדָם֙|’ā·ḏām|a man|H120|N-ms
 v36 בְּרִיב֔וֹ|bə·rî·ḇōw|in his lawsuit|H7379|Prep-b | N-msc | 3ms
 v36 אֲדֹנָ֖י|’ă·ḏō·nāy|of these the Lord|H136|N-proper-ms
 v36 לֹ֥א|lō|does not|H3808|Adv-NegPrt
-v36 רָאָֽה׃ס|rā·’āh|approve|H7200|V-Qal-Perf-3ms
+v36 רָאָֽה׃|rā·’āh|approve|H7200|V-Qal-Perf-3ms
 v37 מִ֣י|mî|Who|H4310|Interrog
 v37 זֶ֤ה|zeh|...|H2088|Pro-ms
 v37 אָמַר֙|’ā·mar|has spoken|H559|V-Qal-Perf-3ms
@@ -220,7 +220,7 @@ v39 אָדָ֣ם|’ā·ḏām|man|H120|N-ms
 v39 חָ֔י|ḥāy|should any mortal|H2416|Adj-ms
 v39 גֶּ֖בֶר|ge·ḇer|[his]|H1397|N-ms
 v39 עַל־|‘al-|in view of|H5921|Prep
-v39 חֶטְאוֹ׃ס|ḥɛṭ·ʾō|sins|H2399|N-mpc | 3ms
+v39 חֶטְאוֹ׃|ḥɛṭ·ʾō|sins|H2399|N-mpc | 3ms
 v40 נַחְפְּשָׂ֤ה|naḥ·pə·śāh|Let us examine|H2664|V-Qal-Imperf.Cohort-1cp
 v40 דְרָכֵ֙ינוּ֙|ḏə·rā·ḵê·nū|our ways|H1870|N-cpc | 1cp
 v40 וְֽנַחְקֹ֔רָה|wə·naḥ·qō·rāh|and test|H2713|Conj-w | V-Qal-ConjImperf.Cohort-1cp
@@ -239,7 +239,7 @@ v42 פָשַׁ֙עְנוּ֙|p̄ā·ša‘·nū|have sinned|H6586|V-Qal-Perf-1cp
 v42 וּמָרִ֔ינוּ|ū·mā·rî·nū|and rebelled|H4784|Conj-w | V-Qal-ConjPerf-1cp
 v42 אַתָּ֖ה|’at·tāh|You|H859|Pro-2ms
 v42 לֹ֥א|lō|have not|H3808|Adv-NegPrt
-v42 סָלָֽחְתָּ׃ס|sā·lā·ḥə·tā|forgiven|H5545|V-Qal-Perf-2ms
+v42 סָלָֽחְתָּ׃|sā·lā·ḥə·tā|forgiven|H5545|V-Qal-Perf-2ms
 v43 סַכֹּ֤תָה|sak·kō·ṯāh|You have covered|H5526|V-Qal-Perf-2ms
 v43 בָאַף֙|ḇā·’ap̄|Yourself in anger|H639|Prep-b, Art | N-ms
 v43 וַֽתִּרְדְּפֵ֔נוּ|wat·tir·də·p̄ê·nū|and pursued us|H7291|Conj-w | V-Qal-ConsecImperf-2ms | 1cp
@@ -255,7 +255,7 @@ v45 סְחִ֧י|sə·ḥî|scum|H5501|N-ms
 v45 וּמָא֛וֹס|ū·mā·’ō·ws|and refuse|H3973|Conj-w | N-ms
 v45 תְּשִׂימֵ֖נוּ|tə·śî·mê·nū|You have made us|H7760|V-Qal-Imperf-2ms | 1cp
 v45 בְּקֶ֥רֶב|bə·qe·reḇ|among|H7130|Prep-b | N-msc
-v45 הָעַמִּֽים׃ס|hā·‘am·mîm|the nations|H5971|Art | N-mp
+v45 הָעַמִּֽים׃|hā·‘am·mîm|the nations|H5971|Art | N-mp
 v46 פָּצ֥וּ|pā·ṣū|open|H6475|V-Qal-Perf-3cp
 v46 עָלֵ֛ינוּ|‘ā·lê·nū|against us|H5921|Prep | 1cp
 v46 פִּיהֶ֖ם|pî·hem|their mouths|H6310|N-msc | 3mp
@@ -274,7 +274,7 @@ v48 עֵינִ֔י|‘ê·nî|from my eyes|H5869|N-csc | 1cs
 v48 עַל־|‘al-|over|H5921|Prep
 v48 שֶׁ֖בֶר|še·ḇer|the destruction|H7667|N-msc
 v48 בַּת־|baṯ-|of the daughter|H1323|N-fsc
-v48 עַמִּֽי׃ס|‘am·mî|of my people|H5971|N-msc | 1cs
+v48 עַמִּֽי׃|‘am·mî|of my people|H5971|N-msc | 1cs
 v49 עֵינִ֧י|‘ê·nî|My eyes|H5869|N-csc | 1cs
 v49 נִגְּרָ֛ה|nig·gə·rāh|overflow|H5064|V-Nifal-Perf-3fs
 v49 וְלֹ֥א|wə·lō|unceasingly|H3808|Conj-w | Adv-NegPrt
@@ -291,7 +291,7 @@ v51 עֽוֹלְלָ֣ה|‘ō·wl·lāh|bring grief|H5953|V-Piel-Perf-3fs
 v51 לְנַפְשִׁ֔י|lə·nap̄·šî|to my soul|H5315|Prep-l | N-fsc | 1cs
 v51 מִכֹּ֖ל|mik·kōl|because of all|H3605|Prep-m | N-msc
 v51 בְּנ֥וֹת|bə·nō·wṯ|the daughters|H1323|N-fpc
-v51 עִירִֽי׃ס|‘î·rî|of my city|H5892|N-fsc | 1cs
+v51 עִירִֽי׃|‘î·rî|of my city|H5892|N-fsc | 1cs
 v52 צ֥וֹד|ṣō·wḏ|hunted me|H6679|V-Qal-InfAbs
 v52 צָד֛וּנִי|ṣā·ḏū·nî|...|H6679|V-Qal-Perf-3cp | 1cs
 v52 כַּצִּפּ֖וֹר|kaṣ·ṣip·pō·wr|like a bird|H6833|Prep-k, Art | N-cs
@@ -308,7 +308,7 @@ v54 מַ֥יִם|ma·yim|The waters|H4325|N-mp
 v54 עַל־|‘al-|over|H5921|Prep
 v54 רֹאשִׁ֖י|rō·šî|my head|H7218|N-msc | 1cs
 v54 אָמַ֥רְתִּי|’ā·mar·tî|and I thought|H559|V-Qal-Perf-1cs
-v54 נִגְזָֽרְתִּי׃ס|niḡ·zā·rə·tî|I was going to die|H1504|V-Nifal-Perf-1cs
+v54 נִגְזָֽרְתִּי׃|niḡ·zā·rə·tî|I was going to die|H1504|V-Nifal-Perf-1cs
 v55 קָרָ֤אתִי|qā·rā·ṯî|I called on|H7121|V-Qal-Perf-1cs
 v55 שִׁמְךָ֙|šim·ḵā|Your name|H8034|N-msc | 2ms
 v55 יְהוָ֔ה|Yah·weh|O LORD|H3068|N-proper-ms
@@ -326,7 +326,7 @@ v57 בְּי֣וֹם|bə·yō·wm|when|H3117|Prep-b | N-ms
 v57 אֶקְרָאֶ֔ךָּ|’eq·rā·’e·kā|I called on You|H7121|V-Qal-Imperf-1cs | 2ms
 v57 אָמַ֖רְתָּ|’ā·mar·tā|You said|H559|V-Qal-Perf-2ms
 v57 אַל־|’al-|Do not|H408|Adv
-v57 תִּירָֽא׃ס|tî·rā|be afraid|H3372|V-Qal-Imperf-2ms
+v57 תִּירָֽא׃|tî·rā|be afraid|H3372|V-Qal-Imperf-2ms
 v58 רַ֧בְתָּ|raḇ·tā|You defend|H7378|V-Qal-Perf-2ms
 v58 אֲדֹנָ֛י|’ă·ḏō·nāy|O Lord|H136|N-proper-ms
 v58 רִיבֵ֥י|rî·ḇê|cause|H7379|N-mpc
@@ -343,7 +343,7 @@ v60 כָּל־|kāl-|all|H3605|N-msc
 v60 נִקְמָתָ֔ם|niq·mā·ṯām|their malice|H5360|N-fsc | 3mp
 v60 כָּל־|kāl-|all|H3605|N-msc
 v60 מַחְשְׁבֹתָ֖ם|maḥ·šə·ḇō·ṯām|their plots|H4284|N-fpc | 3mp
-v60 לִֽי׃ס|lî|against me|H0|Prep | 1cs
+v60 לִֽי׃|lî|against me|H0|Prep | 1cs
 v61 שָׁמַ֤עְתָּ|šā·ma‘·tā|You have heard|H8085|V-Qal-Perf-2ms
 v61 חֶרְפָּתָם֙|ḥer·pā·ṯām|their insults|H2781|N-fsc | 3mp
 v61 יְהוָ֔ה|Yah·weh|O LORD|H3068|N-proper-ms
@@ -359,10 +359,10 @@ v62 הַיּֽוֹם׃|hay·yō·wm|day long|H3117|Art | N-ms
 v63 שִׁבְתָּ֤ם|šiḇ·tām|When they sit|H7675|N-msc | 3mp
 v63 וְקִֽימָתָם֙|wə·qî·mā·ṯām|and when they rise|H7012|Conj-w | N-fsc | 3mp
 v63 הַבִּ֔יטָה|hab·bî·ṭāh|see how|H5027|V-Hifil-Imp-ms | 3fs
-v63 אֲנִ֖י|’ă·nî|vvv|H589|Pro-1cs
-v63 מַנְגִּינָתָֽם׃ס|man·gî·nā·ṯām|they mock me in song|H4485|N-fsc | 3mp
+v63 אֲנִ֖י|’ă·nî|...|H589|Pro-1cs
+v63 מַנְגִּינָתָֽם׃|man·gî·nā·ṯām|they mock me in song|H4485|N-fsc | 3mp
 v64 תָּשִׁ֨יב|tā·šîḇ|You will pay them back|H7725|V-Hifil-Imperf-2ms
-v64 לָהֶ֥ם|lā·hem||H0|Prep | 3mp
+v64 לָהֶ֥ם|lā·hem|-|H0|Prep | 3mp
 v64 גְּמ֛וּל|gə·mūl|what they deserve|H1576|N-ms
 v64 יְהוָ֖ה|Yah·weh|O LORD|H3068|N-proper-ms
 v64 כְּמַעֲשֵׂ֥ה|kə·ma·‘ă·śêh|according to the work|H4639|Prep-k | N-msc
@@ -378,4 +378,4 @@ v66 בְּאַף֙|bə·’ap̄|in anger|H639|Prep-b | N-ms
 v66 וְתַשְׁמִידֵ֔ם|wə·ṯaš·mî·ḏêm|and exterminate them|H8045|Conj-w | V-Hifil-ConjImperf-2ms | 3mp
 v66 מִתַּ֖חַת|mit·ta·ḥaṯ|from under|H8478|Prep-m
 v66 שְׁמֵ֥י|šə·mê|[Your] heavens|H8064|N-mpc
-v66 יְהוָֽה׃פ|Yah·weh|O LORD|H3068|N-proper-ms
+v66 יְהוָֽה׃|Yah·weh|O LORD|H3068|N-proper-ms

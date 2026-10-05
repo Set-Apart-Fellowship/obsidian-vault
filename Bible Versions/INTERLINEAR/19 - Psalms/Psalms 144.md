@@ -11,9 +11,9 @@ v2 חַסְדִּ֥י|ḥas·dî|He is my steadfast love|H2617|N-msc | 1cs
 v2 וּמְצוּדָתִי֮|ū·mə·ṣū·ḏā·ṯî|and my fortress|H4686|Conj-w | N-fsc | 1cs
 v2 מִשְׂגַּבִּ֪י|miś·gab·bî|my stronghold|H4869|N-msc | 1cs
 v2 וּֽמְפַלְטִ֫י|ū·mə·p̄al·ṭî|and my deliverer|H6403|Conj-w | V-Piel-Prtcpl-msc | 1cs
-v2 לִ֥י|lî||H0|Prep | 1cs
+v2 לִ֥י|lî|-|H0|Prep | 1cs
 v2 מָ֭גִנִּי|mā·ḡin·nî|He is my shield|H4043|N-csc | 1cs
-v2 וּב֣וֹ|ū·ḇōw||H0|Conj-w | Prep | 3ms
+v2 וּב֣וֹ|ū·ḇōw|-|H0|Conj-w | Prep | 3ms
 v2 חָסִ֑יתִי|ḥā·sî·ṯî|in whom I take refuge|H2620|V-Qal-Perf-1cs
 v2 הָרוֹדֵ֖ד|hā·rō·w·ḏêḏ|who subdues|H7286|Art | V-Qal-Prtcpl-ms
 v2 עַמִּ֣י|‘am·mî|peoples|H5971|N-msc | 1cs
@@ -52,7 +52,7 @@ v7 וְ֭הַצִּילֵנִי|wə·haṣ·ṣî·lê·nî|and rescue me|H5337|
 v7 מִמַּ֣יִם|mim·ma·yim|waters|H4325|Prep-m | N-mp
 v7 רַבִּ֑ים|rab·bîm|from the deep|H7227|Adj-mp
 v7 מִ֝יַּ֗ד|mî·yaḏ|...|H3027|Prep-m | N-fsc
-v7 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v7 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v7 נֵכָֽר׃|nê·ḵār|of foreigners|H5236|N-ms
 v8 אֲשֶׁ֣ר|’ă·šer|whose|H834|Pro-r
 v8 פִּ֭יהֶם|pî·hem|mouths|H6310|N-msc | 3mp
@@ -123,7 +123,7 @@ v14 בִּרְחֹבֹתֵֽינוּ׃|bir·ḥō·ḇō·ṯê·nū|in our stre
 v15 אַשְׁרֵ֣י|’aš·rê|Blessed|H835|Interjection
 v15 הָ֭עָם|hā·‘ām|are the people|H5971|Art | N-ms
 v15 שֶׁכָּ֣כָה|šek·kā·ḵāh|of whom this is so|H3602|Pro-r | Adv
-v15 לּ֑וֹ|lōw||H0|Prep | 3ms
+v15 לּ֑וֹ|lōw|-|H0|Prep | 3ms
 v15 אַֽשְׁרֵ֥י|’aš·rê|blessed|H835|Interjection
 v15 הָ֝עָ֗ם|hā·‘ām|are the people|H5971|Art | N-ms
 v15 שֶׁיֲהוָ֥ה|še·Yah·weh|is the LORD|H3068|Pro-r | N-proper-ms

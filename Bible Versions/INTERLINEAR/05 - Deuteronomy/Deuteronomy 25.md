@@ -38,11 +38,11 @@ v3 מַכָּ֣ה|mak·kāh|...|H4347|N-fs
 v3 רַבָּ֔ה|rab·bāh|...|H7227|Adj-fs
 v3 וְנִקְלָ֥ה|wə·niq·lāh|and be degraded|H7034|Conj-w | V-Nifal-ConjPerf-3ms
 v3 אָחִ֖יךָ|’ā·ḥî·ḵā|your brother|H251|N-msc | 2ms
-v3 לְעֵינֶֽיךָ׃ס|lə·‘ê·ne·ḵā|in your sight|H5869|Prep-l | N-cdc | 2ms
+v3 לְעֵינֶֽיךָ׃|lə·‘ê·ne·ḵā|in your sight|H5869|Prep-l | N-cdc | 2ms
 v4 לֹא־|lō-|Do not|H3808|Adv-NegPrt
 v4 תַחְסֹ֥ם|ṯaḥ·sōm|muzzle|H2629|V-Qal-Imperf-2ms
 v4 שׁ֖וֹר|šō·wr|an ox|H7794|N-ms
-v4 בְּדִישֽׁוֹ׃ס|bə·ḏî·šōw|while it is treading out the grain|H1758|Prep-b | V-Qal-Inf | 3ms
+v4 בְּדִישֽׁוֹ׃|bə·ḏî·šōw|while it is treading out the grain|H1758|Prep-b | V-Qal-Inf | 3ms
 v5 כִּֽי־|kî-|When|H3588|Conj
 v5 יֵשְׁב֨וּ|yê·šə·ḇū|dwell|H3427|V-Qal-Imperf-3mp
 v5 אַחִ֜ים|’a·ḥîm|brothers|H251|N-mp
@@ -52,17 +52,17 @@ v5 אַחַ֤ד|’a·ḥaḏ|and one|H259|Number-ms
 v5 מֵהֶם֙|mê·hem|of them|H0|Prep-m | Pro-3mp
 v5 וּבֵ֣ן|ū·ḇên|a son|H1121|Conj-w | N-ms
 v5 אֵֽין־|’ên-|without|H369|Adv
-v5 ל֔וֹ|lōw||H0|Prep | 3ms
+v5 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v5 לֹֽא־|lō-|must not|H3808|Adv-NegPrt
 v5 תִהְיֶ֧ה|ṯih·yeh|marry|H1961|V-Qal-Imperf-3fs
 v5 אֵֽשֶׁת־|’ê·šeṯ-|the widow|H802|N-fsc
 v5 הַמֵּ֛ת|ham·mêṯ|...|H4191|Art | V-Qal-Prtcpl-ms
 v5 הַח֖וּצָה|ha·ḥū·ṣāh|outside [the family]|H2351|Art | N-ms | 3fs
 v5 לְאִ֣ישׁ|lə·’îš|...|H376|Prep-l | N-ms
-v5 זָ֑ר|zār|vvv|H2114|Adj-ms
+v5 זָ֑ר|zār|...|H2114|Adj-ms
 v5 יְבָמָהּ֙|yə·ḇā·māh|Her husband's brother|H2993|N-msc | 3fs
-v5 יָבֹ֣א|yā·ḇō|vvv|H935|V-Qal-Imperf-3ms
-v5 עָלֶ֔יהָ|‘ā·le·hā|vvv|H5921|Prep | 3fs
+v5 יָבֹ֣א|yā·ḇō|...|H935|V-Qal-Imperf-3ms
+v5 עָלֶ֔יהָ|‘ā·le·hā|...|H5921|Prep | 3fs
 v5 וּלְקָחָ֥הּ|ū·lə·qā·ḥāh|is to take her|H3947|Conj-w | V-Qal-ConjPerf-3ms | 3fs
 v5 ל֛וֹ|lōw|as his|H0|Prep | 3ms
 v5 לְאִשָּׁ֖ה|lə·’iš·šāh|wife|H802|Prep-l | N-fs
@@ -140,7 +140,7 @@ v10 שְׁמ֖וֹ|šə·mōw|And his family name|H8034|N-msc | 3ms
 v10 בְּיִשְׂרָאֵ֑ל|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | N-proper-ms
 v10 בֵּ֖ית|bêṯ|The House|H1004|N-msc
 v10 חֲל֥וּץ|ḥă·lūṣ|...|H2502|V-Qal-QalPassPrtcpl-msc
-v10 הַנָּֽעַל׃ס|han·nā·‘al|of the Unsandaled|H5275|Art | N-fs
+v10 הַנָּֽעַל׃|han·nā·‘al|of the Unsandaled|H5275|Art | N-fs
 v11 כִּֽי־|kî-|If|H3588|Conj
 v11 יִנָּצ֨וּ|yin·nā·ṣū|are fighting|H5327|V-Nifal-Imperf-3mp
 v11 אֲנָשִׁ֤ים|’ă·nā·šîm|two men|H582|N-mp
@@ -162,20 +162,20 @@ v11 בִּמְבֻשָֽׁיו׃|bim·ḇu·šāw|his genitals|H4016|Prep-b | N-
 v12 וְקַצֹּתָ֖ה|wə·qaṣ·ṣō·ṯāh|you are to cut off|H7112|Conj-w | V-Qal-ConjPerf-2ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 כַּפָּ֑הּ|kap·pāh|her hand|H3709|N-fsc | 3fs
-v12 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
+v12 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v12 תָח֖וֹס|ṯā·ḥō·ws|You must show her no pity|H2347|V-Qal-Imperf-3fs
-v12 עֵינֶֽךָ׃ס|‘ê·ne·ḵā|...|H5869|N-csc | 2ms
+v12 עֵינֶֽךָ׃|‘ê·ne·ḵā|...|H5869|N-csc | 2ms
 v13 לֹֽא־|lō-|You shall not|H3808|Adv-NegPrt
 v13 יִהְיֶ֥ה|yih·yeh|have|H1961|V-Qal-Imperf-3ms
-v13 לְךָ֛|lə·ḵā||H0|Prep | 2ms
+v13 לְךָ֛|lə·ḵā|-|H0|Prep | 2ms
 v13 בְּכִֽיסְךָ֖|bə·ḵî·sə·ḵā|in your bag|H3599|Prep-b | N-msc | 2ms
 v13 אֶ֣בֶן|’e·ḇen|two differing weights|H68|N-fs
 v13 וָאָ֑בֶן|wā·’ā·ḇen|...|H68|Conj-w | N-fs
 v13 גְּדוֹלָ֖ה|gə·ḏō·w·lāh|one heavy|H1419|Adj-fs
-v13 וּקְטַנָּֽה׃ס|ū·qə·ṭan·nāh|and one light|H6996|Conj-w | Adj-fs
+v13 וּקְטַנָּֽה׃|ū·qə·ṭan·nāh|and one light|H6996|Conj-w | Adj-fs
 v14 לֹא־|lō-|You shall not|H3808|Adv-NegPrt
 v14 יִהְיֶ֥ה|yih·yeh|have|H1961|V-Qal-Imperf-3ms
-v14 לְךָ֛|lə·ḵā||H0|Prep | 2ms
+v14 לְךָ֛|lə·ḵā|-|H0|Prep | 2ms
 v14 בְּבֵיתְךָ֖|bə·ḇê·ṯə·ḵā|in your house|H1004|Prep-b | N-msc | 2ms
 v14 אֵיפָ֣ה|’ê·p̄āh|two differing measures|H374|N-fs
 v14 וְאֵיפָ֑ה|wə·’ê·p̄āh|...|H374|Conj-w | N-fs
@@ -185,12 +185,12 @@ v15 אֶ֣בֶן|’e·ḇen|weights|H68|N-fs
 v15 שְׁלֵמָ֤ה|šə·lê·māh|accurate|H8003|Adj-fs
 v15 וָצֶ֙דֶק֙|wā·ṣe·ḏeq|and honest|H6664|Conj-w | N-ms
 v15 יִֽהְיֶה־|yih·yeh-|You must maintain|H1961|V-Qal-Imperf-3ms
-v15 לָּ֔ךְ|lāḵ||H0|Prep | 2ms
+v15 לָּ֔ךְ|lāḵ|-|H0|Prep | 2ms
 v15 אֵיפָ֧ה|’ê·p̄āh|measures|H374|N-fs
-v15 שְׁלֵמָ֛ה|šə·lê·māh||H8003|Adj-fs
+v15 שְׁלֵמָ֛ה|šə·lê·māh|-|H8003|Adj-fs
 v15 וָצֶ֖דֶק|wā·ṣe·ḏeq|[and]|H6664|Conj-w | N-ms
 v15 יִֽהְיֶה־|yih·yeh-|...|H1961|V-Qal-Imperf-3ms
-v15 לָּ֑ךְ|lāḵ||H0|Prep | 2ms
+v15 לָּ֑ךְ|lāḵ|-|H0|Prep | 2ms
 v15 לְמַ֙עַן֙|lə·ma·‘an|so that|H4616|Conj
 v15 יַאֲרִ֣יכוּ|ya·’ă·rî·ḵū|you may live long|H748|V-Hifil-Imperf-3mp
 v15 יָמֶ֔יךָ|yā·me·ḵā|...|H3117|N-mpc | 2ms
@@ -210,7 +210,7 @@ v16 עֹ֣שֵׂה|‘ō·śêh|-|H6213|V-Qal-Prtcpl-msc
 v16 אֵ֑לֶּה|’êl·leh|in regard to these things|H428|Pro-cp
 v16 כֹּ֖ל|kōl|-|H3605|N-msc
 v16 עֹ֥שֵׂה|‘ō·śêh|who behaves|H6213|V-Qal-Prtcpl-msc
-v16 עָֽוֶל׃פ|‘ā·wel|dishonestly|H5766|N-ms
+v16 עָֽוֶל׃|‘ā·wel|dishonestly|H5766|N-ms
 v17 זָכ֕וֹר|zā·ḵō·wr|Remember|H2142|V-Qal-InfAbs
 v17 אֵ֛ת|’êṯ|-|H853|DirObjM
 v17 אֲשֶׁר־|’ă·šer-|what|H834|Pro-r
@@ -238,7 +238,7 @@ v19 וְהָיָ֡ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v19 בְּהָנִ֣יחַ|bə·hā·nî·aḥ|gives you rest|H5117|Prep-b | V-Hifil-Inf
 v19 יְהוָ֣ה|Yah·weh|When the LORD|H3068|N-proper-ms
 v19 אֱלֹהֶ֣יךָ׀|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
-v19 לְ֠ךָ|lə·ḵā||H0|Prep | 2ms
+v19 לְ֠ךָ|lə·ḵā|-|H0|Prep | 2ms
 v19 מִכָּל־|mik·kāl|from|H3605|Prep-m | N-msc
 v19 אֹ֨יְבֶ֜יךָ|’ō·yə·ḇe·ḵā|the enemies|H341|V-Qal-Prtcpl-mpc | 2ms
 v19 מִסָּבִ֗יב|mis·sā·ḇîḇ|around you|H5439|Prep-m | Adv
@@ -257,4 +257,4 @@ v19 עֲמָלֵ֔ק|‘ă·mā·lêq|of Amalek|H6002|N-proper-ms
 v19 מִתַּ֖חַת|mit·ta·ḥaṯ|from under|H8478|Prep-m
 v19 הַשָּׁמָ֑יִם|haš·šā·mā·yim|heaven|H8064|Art | N-mp
 v19 לֹ֖א|lō|Do not|H3808|Adv-NegPrt
-v19 תִּשְׁכָּֽח׃פ|tiš·kāḥ|forget|H7911|V-Qal-Imperf-2ms
+v19 תִּשְׁכָּֽח׃|tiš·kāḥ|forget|H7911|V-Qal-Imperf-2ms

@@ -49,7 +49,7 @@ v3 נָא֙|nā|...|H4994|Interjection
 v3 לִקְרַ֣את|liq·raṯ|to meet|H7122|Prep-l | V-Qal-Inf
 v3 אָחָ֔ז|’ā·ḥāz|Ahaz|H271|N-proper-ms
 v3 אַתָּ֕ה|’at·tāh|...|H859|Pro-2ms
-v3 וּשְׁאָ֖ר|ū·šə·’ār|vvv|H7610|
+v3 וּשְׁאָ֖ר|ū·šə·’ār|...|H7610|
 v3 יָשׁ֣וּב|yā·šūḇ|Shear-jashub|H7610|Conj-w | N-proper-ms
 v3 בְּנֶ֑ךָ|bə·ne·ḵā|with your son|H1121|N-msc | 2ms
 v3 אֶל־|’el-|at|H413|Prep
@@ -101,7 +101,7 @@ v6 מֶ֙לֶךְ֙|me·leḵ|Then we can install|H4428|N-ms
 v6 בְּתוֹכָ֔הּ|bə·ṯō·w·ḵāh|over it|H8432|Prep-b | N-msc | 3fs
 v6 אֵ֖ת|’êṯ|-|H853|DirObjM
 v6 בֶּן־|ben-|the son|H1121|N-msc
-v6 טָֽבְאַֽל׃ס|ṭā·ḇə·’al|of Tabeal|H2870|N-proper-ms
+v6 טָֽבְאַֽל׃|ṭā·ḇə·’al|of Tabeal|H2870|N-proper-ms
 v7 כֹּ֥ה|kōh|But this is what|H3541|Adv
 v7 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v7 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -136,7 +136,7 @@ v9 לֹ֣א|lō|you do not|H3808|Adv-NegPrt
 v9 תַאֲמִ֔ינוּ|ṯa·’ă·mî·nū|stand firm in your faith|H539|V-Hifil-Imperf-2mp
 v9 כִּ֖י|kî|then|H3588|Conj
 v9 לֹ֥א|lō|you will not|H3808|Adv-NegPrt
-v9 תֵאָמֵֽנוּ׃ס|ṯê·’ā·mê·nū|stand at all|H539|V-Nifal-Imperf-2mp
+v9 תֵאָמֵֽנוּ׃|ṯê·’ā·mê·nū|stand at all|H539|V-Nifal-Imperf-2mp
 v10 וַיּ֣וֹסֶף|way·yō·w·sep̄|Again|H3254|Conj-w | V-Hifil-ConsecImperf-3ms
 v10 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v10 דַּבֵּ֥ר|dab·bêr|spoke|H1696|V-Piel-Inf
@@ -189,7 +189,7 @@ v14 וְיֹלֶ֣דֶת|wə·yō·le·ḏeṯ|and give birth|H3205|Conj-w | V-Q
 v14 בֵּ֔ן|bên|to a son|H1121|N-ms
 v14 וְקָרָ֥את|wə·qā·rāṯ|and will call|H7121|Conj-w | V-Qal-ConjPerf-3fs
 v14 שְׁמ֖וֹ|šə·mōw|Him|H8034|N-msc | 3ms
-v14 עִמָּ֥נוּ|‘im·mā·nū|vvv|H6005|
+v14 עִמָּ֥נוּ|‘im·mā·nū|...|H6005|
 v14 אֵֽל׃|’êl|Immanuel|H6005|N-proper-ms
 v15 חֶמְאָ֥ה|ḥem·’āh|curds|H2529|N-fs
 v15 וּדְבַ֖שׁ|ū·ḏə·ḇaš|and honey|H1706|Conj-w | N-ms
@@ -234,7 +234,7 @@ v17 מֵעַ֣ל|mê·‘al|...|H5921|Prep-m
 v17 יְהוּדָ֑ה|yə·hū·ḏāh|from Judah|H3063|N-proper-ms
 v17 אֵ֖ת|’êṯ|-|H853|DirObjM
 v17 מֶ֥לֶךְ|me·leḵ|[He will bring] the king|H4428|N-msc
-v17 אַשּֽׁוּר׃פ|’aš·šūr|of Assyria|H804|N-proper-fs
+v17 אַשּֽׁוּר׃|’aš·šūr|of Assyria|H804|N-proper-fs
 v18 וְהָיָ֣ה׀|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v18 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v18 הַה֗וּא|ha·hū|On that|H1931|Art | Pro-3ms
@@ -277,7 +277,7 @@ v20 הָרַגְלָ֑יִם|hā·raḡ·lā·yim|of your legs|H7272|Art | N-fd
 v20 וְגַ֥ם|wə·ḡam|as well|H1571|Conj
 v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 הַזָּקָ֖ן|haz·zā·qān|your beard|H2206|Art | N-cs
-v20 תִּסְפֶּֽה׃ס|tis·peh|and to remove|H5595|V-Qal-Imperf-3fs
+v20 תִּסְפֶּֽה׃|tis·peh|and to remove|H5595|V-Qal-Imperf-3fs
 v21 וְהָיָ֖ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v21 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v21 הַה֑וּא|ha·hū|On that|H1931|Art | Pro-3ms
@@ -342,4 +342,4 @@ v25 וְהָיָה֙|wə·hā·yāh|they will become|H1961|Conj-w | V-Qal-ConjPe
 v25 לְמִשְׁלַ֣ח|lə·miš·laḥ|to graze|H4916|Prep-l | N-msc
 v25 שׁ֔וֹר|šō·wr|[places] for oxen|H7794|N-ms
 v25 וּלְמִרְמַ֖ס|ū·lə·mir·mas|to trample|H4823|Conj-w, Prep-l | N-msc
-v25 שֶֽׂה׃פ|śeh|and sheep|H7716|N-ms
+v25 שֶֽׂה׃|śeh|and sheep|H7716|N-ms

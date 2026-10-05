@@ -47,8 +47,8 @@ v3 עָשִׂ֑יתִי|‘ā·śî·ṯî|I have done|H6213|V-Qal-Perf-1cs
 v3 וַיֵּ֥בְךְּ|way·yê·ḇək|wept|H1058|Conj-w | V-Qal-ConsecImperf-3ms
 v3 חִזְקִיָּ֖הוּ|ḥiz·qî·yā·hū|And Hezekiah|H2396|N-proper-ms
 v3 בְּכִ֥י|bə·ḵî|...|H1065|N-ms
-v3 גָדֽוֹל׃ס|ḡā·ḏō·wl|bitterly|H1419|Adj-ms
-v4 וַיְהִ֣י|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v3 גָדֽוֹל׃|ḡā·ḏō·wl|bitterly|H1419|Adj-ms
+v4 וַיְהִ֣י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v4 יְשַׁעְיָ֔הוּ|yə·ša‘·yā·hū|Isaiah|H3470|N-proper-ms
 v4 לֹ֣א|lō|Before|H3808|Adv-NegPrt
 v4 יָצָ֔א|yā·ṣā|had left|H3318|V-Qal-Perf-3ms
@@ -77,7 +77,7 @@ v5 תְּפִלָּתֶ֔ךָ|tə·p̄il·lā·ṯe·ḵā|your prayer|H8605|N-f
 v5 רָאִ֖יתִי|rā·’î·ṯî|I have seen|H7200|V-Qal-Perf-1cs
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 דִּמְעָתֶ֑ךָ|dim·‘ā·ṯe·ḵā|your tears|H1832|N-fsc | 2ms
-v5 הִנְנִי֙|hin·nî|vvv|H2005|Interjection | 1cs
+v5 הִנְנִי֙|hin·nî|...|H2005|Interjection | 1cs
 v5 רֹ֣פֶא|rō·p̄e|I will surely heal|H7495|V-Qal-Prtcpl-ms
 v5 לָ֔ךְ|lāḵ|you|H0|Prep | 2fs
 v5 בַּיּוֹם֙|bay·yō·wm|day from now|H3117|Prep-b, Art | N-ms
@@ -182,11 +182,11 @@ v11 בְּמַעֲל֥וֹת|bə·ma·‘ă·lō·wṯ|steps|H4609|Prep-b | N-f
 v11 אָחָ֛ז|’ā·ḥāz|of Ahaz|H271|N-proper-ms
 v11 אֲחֹֽרַנִּ֖ית|’ă·ḥō·ran·nîṯ|back|H322|Adv
 v11 עֶ֥שֶׂר|‘e·śer|the ten|H6235|Number-fsc
-v11 מַעֲלֽוֹת׃פ|ma·‘ă·lō·wṯ|on the stairway|H4609|N-fp
+v11 מַעֲלֽוֹת׃|ma·‘ă·lō·wṯ|on the stairway|H4609|N-fp
 v12 בָּעֵ֣ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
 v12 הַהִ֡יא|ha·hî|At that|H1931|Art | Pro-3fs
 v12 שָׁלַ֡ח|šā·laḥ|sent|H7971|V-Qal-Perf-3ms
-v12 בְּרֹאדַ֣ךְ|bə·rō·ḏaḵ|vvv|H1255|Prep
+v12 בְּרֹאדַ֣ךְ|bə·rō·ḏaḵ|...|H1255|Prep
 v12 בַּ֠לְאֲדָן|bal·’ă·ḏān|Merodach-baladan|H1255|N-proper-ms
 v12 בֶּֽן־|ben-|son|H1121|N-msc
 v12 בַּלְאֲדָ֧ן|bal·’ă·ḏān|of Baladan|H1081|N-proper-ms
@@ -265,12 +265,12 @@ v15 וַיֹּ֣אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf
 v15 חִזְקִיָּ֗הוּ|ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
 v15 אֵ֣ת|’êṯ|-|H853|DirObjM
 v15 כָּל־|kāl-|everything|H3605|N-msc
-v15 אֲשֶׁ֤ר|’ă·šer||H834|Pro-r
+v15 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v15 בְּבֵיתִי֙|bə·ḇê·ṯî|in my palace|H1004|Prep-b | N-msc | 1cs
 v15 רָא֔וּ|rā·’ū|They have seen|H7200|V-Qal-Perf-3cp
 v15 לֹא־|lō-|There is nothing|H3808|Adv-NegPrt
 v15 הָיָ֥ה|hā·yāh|...|H1961|V-Qal-Perf-3ms
-v15 דָבָ֛ר|ḏā·ḇār||H1697|N-ms
+v15 דָבָ֛ר|ḏā·ḇār|-|H1697|N-ms
 v15 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v15 לֹֽא־|lō-|I did not|H3808|Adv-NegPrt
 v15 הִרְאִיתִ֖ם|hir·’î·ṯim|show them|H7200|V-Hifil-Perf-1cs | 3mp
@@ -360,4 +360,4 @@ v21 אֲבֹתָ֑יו|’ă·ḇō·ṯāw|his fathers|H1|N-mpc | 3ms
 v21 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v21 מְנַשֶּׁ֥ה|mə·naš·šeh|Manasseh|H4519|N-proper-ms
 v21 בְנ֖וֹ|ḇə·nōw|and his son|H1121|N-msc | 3ms
-v21 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v21 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

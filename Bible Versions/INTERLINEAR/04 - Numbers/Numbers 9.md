@@ -110,7 +110,7 @@ v8 וְאֶשְׁמְעָ֔ה|wə·’eš·mə·‘āh|until I find out|H8085|Co
 v8 מַה־|mah-|what|H4100|Interrog
 v8 יְצַוֶּ֥ה|yə·ṣaw·weh|commands|H6680|V-Piel-Imperf-3ms
 v8 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v8 לָכֶֽם׃פ|lā·ḵem|concerning you|H0|Prep | 2mp
+v8 לָכֶֽם׃|lā·ḵem|concerning you|H0|Prep | 2mp
 v9 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v9 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v9 אֶל־|’el-|to|H413|Prep
@@ -130,7 +130,7 @@ v10 לָנֶ֡פֶשׁ|lā·ne·p̄eš|because of a dead body|H5315|Prep-l | N-f
 v10 אוֹ֩|’ōw|of you or|H176|Conj
 v10 בְדֶ֨רֶךְ|ḇə·ḏe·reḵ|on a journey|H1870|Prep-b | N-cs
 v10 רְחֹקָ֜הׄ|rə·ḥō·qå̄h|is away|H7350|Adj-fs
-v10 לָכֶ֗ם|lā·ḵem||H0|Prep | 2mp
+v10 לָכֶ֗ם|lā·ḵem|-|H0|Prep | 2mp
 v10 א֚וֹ|’ōw|or|H176|Conj
 v10 לְדֹרֹ֣תֵיכֶ֔ם|lə·ḏō·rō·ṯê·ḵem|your descendants|H1755|Prep-l | N-mpc | 2mp
 v10 וְעָ֥שָׂה|wə·‘ā·śāh|he may still observe|H6213|Conj-w | V-Qal-ConjPerf-3ms
@@ -202,10 +202,10 @@ v14 יַעֲשֶׂ֑ה|ya·‘ă·śeh|he is to do|H6213|V-Qal-Imperf-3ms
 v14 חֻקָּ֤ה|ḥuq·qāh|statute|H2708|N-fs
 v14 אַחַת֙|’a·ḥaṯ|the same|H259|Number-fs
 v14 יִהְיֶ֣ה|yih·yeh|You are to apply|H1961|V-Qal-Imperf-3ms
-v14 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v14 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v14 וְלַגֵּ֖ר|wə·lag·gêr|to both the foreigner|H1616|Conj-w, Prep-l, Art | N-ms
 v14 וּלְאֶזְרַ֥ח|ū·lə·’ez·raḥ|and the native|H249|Conj-w, Prep-l | N-msc
-v14 הָאָֽרֶץ׃פ|hā·’ā·reṣ|of the land|H776|Art | N-fs
+v14 הָאָֽרֶץ׃|hā·’ā·reṣ|of the land|H776|Art | N-fs
 v15 וּבְיוֹם֙|ū·ḇə·yō·wm|On the day that|H3117|Conj-w, Prep-b | N-ms
 v15 הָקִ֣ים|hā·qîm|was set up|H6965|V-Hifil-Inf
 v15 אֶת־|’eṯ-|-|H853|DirObjM
@@ -351,4 +351,4 @@ v23 עַל־|‘al-|according to|H5921|Prep
 v23 פִּ֥י|pî|command|H6310|N-msc
 v23 יְהוָ֖ה|Yah·weh|His|H3068|N-proper-ms
 v23 בְּיַד־|bə·yaḏ-|through|H3027|Prep-b | N-fsc
-v23 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v23 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms

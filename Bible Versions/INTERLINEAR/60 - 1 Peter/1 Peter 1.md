@@ -47,7 +47,7 @@ v3 πολὺ|poly|great|G4183|Adj-ANS
 v3 αὐτοῦ|autou|His|G846|PPro-GM3S
 v3 ἔλεος|eleos|mercy|G1656|N-ANS
 v3 ἀναγεννήσας|anagennēsas|has given us new birth|G313|V-APA-NMS
-v3 ἡμᾶς|hēmas|vvv|G1473|PPro-A1P
+v3 ἡμᾶς|hēmas|...|G1473|PPro-A1P
 v3 εἰς|eis|into|G1519|Prep
 v3 ἐλπίδα|elpida|hope|G1680|N-AFS
 v3 ζῶσαν|zōsan|a living|G2198|V-PPA-AFS
@@ -121,13 +121,13 @@ v7 ἀποκαλύψει|apokalypsei|[the] revelation|G602|N-DFS
 v7 Ἰησοῦ|Iēsou|of Jesus|G2424|N-GMS
 v7 Χριστοῦ|Christou|Christ|G5547|N-GMS
 v8 ὃν|hon|[Him]|G3739|RelPro-AMS
-v8 οὐκ|ouk|vvv|G3756|Adv
+v8 οὐκ|ouk|...|G3756|Adv
 v8 ἰδόντες|idontes|[Though] you have not seen|G3708|V-APA-NMP
 v8 ἀγαπᾶτε|agapate|you love [Him]|G25|V-PIA-2P
 v8 εἰς|eis|in [Him]|G1519|Prep
 v8 ὃν|hon|[Him]|G3739|RelPro-AMS
 v8 ἄρτι|arti|now|G737|Adv
-v8 μὴ|mē|vvv|G3361|Adv
+v8 μὴ|mē|...|G3361|Adv
 v8 ὁρῶντες|horōntes|[and though] you do not see|G3708|V-PPA-NMP
 v8 πιστεύοντες|pisteuontes|you believe|G4100|V-PPA-NMP
 v8 δὲ|de|and|G1161|Conj
@@ -177,20 +177,20 @@ v11 Χριστὸν|Christon|Christ|G5547|N-AMS
 v11 παθήματα|pathēmata|sufferings|G3804|N-ANP
 v11 καὶ|kai|and|G2532|Conj
 v11 τὰς|tas|the|G3588|Art-AFP
-v11 μετὰ|meta|vvv|G3326|Prep
+v11 μετὰ|meta|...|G3326|Prep
 v11 ταῦτα|tauta|to follow|G3778|DPro-ANP
 v11 δόξας|doxas|glories|G1391|N-AFP
 v12 οἷς|hois|to [them]|G3739|RelPro-DMP
 v12 ἀπεκαλύφθη|apekalyphthē|It was revealed|G601|V-AIP-3S
 v12 ὅτι|hoti|that|G3754|Conj
-v12 οὐχ|ouch|vvv|G3756|Adv
+v12 οὐχ|ouch|...|G3756|Adv
 v12 ἑαυτοῖς|heautois|themselves|G1438|RefPro-DM3P
 v12 ὑμῖν|hymin|you|G4771|PPro-D2P
 v12 δὲ|de|but|G1161|Conj
 v12 διηκόνουν|diēkonoun|they were not serving|G1247|V-IIA-3P
 v12 αὐτά|auta|[when they foretold] the things|G846|PPro-AN3P
 v12 ἃ|ha|-|G3739|RelPro-NNP
-v12 νῦν|nyn|vvv|G3568|Adv
+v12 νῦν|nyn|...|G3568|Adv
 v12 ἀνηγγέλη|anēngelē|now announced|G312|V-AIP-3S
 v12 ὑμῖν|hymin|-|G4771|PPro-D2P
 v12 διὰ|dia|by|G1223|Prep
@@ -230,7 +230,7 @@ v13 Χριστοῦ|Christou|Christ|G5547|N-GMS
 v14 ὡς|hōs|As|G5613|Adv
 v14 τέκνα|tekna|children|G5043|N-NNP
 v14 ὑπακοῆς|hypakoēs|obedient|G5218|N-GFS
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 συσχηματιζόμενοι|syschēmatizomenoi|do not conform|G4964|V-PPM/P-NMP
 v14 ταῖς|tais|to the|G3588|Art-DFP
 v14 πρότερον|proteron|former|G4386|Adj-ANS-C
@@ -282,7 +282,7 @@ v17 χρόνον|chronon|stay|G5550|N-AMS
 v17 ἀναστράφητε|anastraphēte|conduct yourselves|G390|V-AMP-2P
 v18 εἰδότες|eidotes|[For] you know|G1492|V-RPA-NMP
 v18 ὅτι|hoti|that|G3754|Conj
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 φθαρτοῖς|phthartois|it was not with perishable things|G5349|Adj-DNP
 v18 ἀργυρίῳ|argyriō|[such as] silver|G694|N-DNS
 v18 ἢ|ē|or|G2228|Conj
@@ -330,7 +330,7 @@ v21 νεκρῶν|nekrōn|[the] dead|G3498|Adj-GMP
 v21 καὶ|kai|and|G2532|Conj
 v21 δόξαν|doxan|glorified|G1391|N-AFS
 v21 αὐτῷ|autō|Him|G846|PPro-DM3S
-v21 δόντα|donta|vvv|G1325|V-APA-AMS
+v21 δόντα|donta|...|G1325|V-APA-AMS
 v21 ὥστε|hōste|and so|G5620|Conj
 v21 τὴν|tēn|-|G3588|Art-AFS
 v21 πίστιν|pistin|faith|G4102|N-AFS
@@ -395,8 +395,8 @@ v25 δὲ|de|but|G1161|Conj
 v25 ῥῆμα|rhēma|word|G4487|N-NNS
 v25 Κυρίου|Kyriou|of [the] Lord|G2962|N-GMS
 v25 μένει|menei|stands|G3306|V-PIA-3S
-v25 εἰς|eis|vvv|G1519|Prep
-v25 τὸν|ton|vvv|G3588|Art-AMS
+v25 εἰς|eis|...|G1519|Prep
+v25 τὸν|ton|...|G3588|Art-AMS
 v25 αἰῶνα|aiōna|forever|G165|N-AMS
 v25 Τοῦτο|Touto|this|G3778|DPro-NNS
 v25 δέ|de|And|G1161|Conj

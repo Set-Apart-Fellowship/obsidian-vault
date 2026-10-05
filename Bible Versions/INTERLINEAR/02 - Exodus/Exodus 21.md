@@ -73,7 +73,7 @@ v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 אָזְנוֹ֙|’ā·zə·nōw|his ear|H241|N-fsc | 3ms
 v6 בַּמַּרְצֵ֔עַ|bam·mar·ṣê·a‘|with an awl|H4836|Prep-b, Art | N-ms
 v6 וַעֲבָד֖וֹ|wa·‘ă·ḇā·ḏōw|Then he shall serve his master|H5647|Conj-w | V-Qal-ConjPerf-3ms | 3ms
-v6 לְעֹלָֽם׃ס|lə·‘ō·lām|for life|H5769|Prep-l | N-ms
+v6 לְעֹלָֽם׃|lə·‘ō·lām|for life|H5769|Prep-l | N-ms
 v7 וְכִֽי־|wə·ḵî-|And if|H3588|Conj
 v7 יִמְכֹּ֥ר|yim·kōr|sells|H4376|V-Qal-Imperf-3ms
 v7 אִ֛ישׁ|’îš|a man|H376|N-ms
@@ -109,7 +109,7 @@ v9 לָּֽהּ׃|lāh|with her|H0|Prep | 3fs
 v10 אִם־|’im-|If|H518|Conj
 v10 אַחֶ֖רֶת|’a·ḥe·reṯ|another wife|H312|Adj-fsc
 v10 יִֽקַּֽח־|yiq·qaḥ-|he takes|H3947|V-Qal-Imperf-3ms
-v10 ל֑וֹ|lōw||H0|Prep | 3ms
+v10 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v10 שְׁאֵרָ֛הּ|šə·’ê·rāh|the food|H7607|N-msc | 3fs
 v10 כְּסוּתָ֥הּ|kə·sū·ṯāh|clothing|H3682|N-fsc | 3fs
 v10 וְעֹנָתָ֖הּ|wə·‘ō·nā·ṯāh|or marital rights [of his first wife]|H5772|Conj-w | N-fsc | 3fs
@@ -124,7 +124,7 @@ v11 לָ֑הּ|lāh|her|H0|Prep | 3fs
 v11 וְיָצְאָ֥ה|wə·yā·ṣə·’āh|she is free to go|H3318|Conj-w | V-Qal-ConjPerf-3fs
 v11 חִנָּ֖ם|ḥin·nām|...|H2600|Adv
 v11 אֵ֥ין|’ên|without|H369|Adv
-v11 כָּֽסֶף׃ס|kā·sep̄|monetary payment|H3701|N-ms
+v11 כָּֽסֶף׃|kā·sep̄|monetary payment|H3701|N-ms
 v12 מַכֵּ֥ה|mak·kêh|Whoever strikes|H5221|V-Hifil-Prtcpl-msc
 v12 אִ֛ישׁ|’îš|a man|H376|N-ms
 v12 וָמֵ֖ת|wā·mêṯ|and kills|H4191|Conj-w | V-Qal-ConjPerf-3ms
@@ -141,7 +141,7 @@ v13 לְךָ֙|lə·ḵā|for you|H0|Prep | 2ms
 v13 מָק֔וֹם|mā·qō·wm|a place|H4725|N-ms
 v13 אֲשֶׁ֥ר|’ă·šer|where|H834|Pro-r
 v13 יָנ֖וּס|yā·nūs|he may flee|H5127|V-Qal-Imperf-3ms
-v13 שָֽׁמָּה׃ס|šām·māh|...|H8033|Adv | 3fs
+v13 שָֽׁמָּה׃|šām·māh|...|H8033|Adv | 3fs
 v14 וְכִֽי־|wə·ḵî-|But if|H3588|Conj
 v14 יָזִ֥ד|yā·ziḏ|and acts willfully|H2102|V-Hifil-Imperf-3ms
 v14 אִ֛ישׁ|’îš|a man|H376|N-ms
@@ -152,7 +152,7 @@ v14 בְעָרְמָ֑ה|ḇə·‘ā·rə·māh|schemes|H6195|Prep-b | N-fs
 v14 מֵעִ֣ם|mê·‘im|away from|H5973|Prep-m
 v14 מִזְבְּחִ֔י|miz·bə·ḥî|My altar|H4196|N-msc | 1cs
 v14 תִּקָּחֶ֖נּוּ|tiq·qā·ḥen·nū|you must take him|H3947|V-Qal-Imperf-2ms | 3ms
-v14 לָמֽוּת׃ס|lā·mūṯ|to be put to death|H4191|Prep-l | V-Qal-Inf
+v14 לָמֽוּת׃|lā·mūṯ|to be put to death|H4191|Prep-l | V-Qal-Inf
 v15 וּמַכֵּ֥ה|ū·mak·kêh|Whoever strikes|H5221|Conj-w | V-Hifil-Prtcpl-msc
 v15 אָבִ֛יו|’ā·ḇîw|his father|H1|N-msc | 3ms
 v15 וְאִמּ֖וֹ|wə·’im·mōw|or mother|H517|Conj-w | N-fsc | 3ms
@@ -164,12 +164,12 @@ v16 וּמְכָר֛וֹ|ū·mə·ḵā·rōw|whether he sells him|H4376|Conj-w 
 v16 וְנִמְצָ֥א|wə·nim·ṣā|or the man is found|H4672|Conj-w | V-Nifal-ConjPerf-3ms
 v16 בְיָד֖וֹ|ḇə·yā·ḏōw|in his possession|H3027|Prep-b | N-fsc | 3ms
 v16 מ֥וֹת|mō·wṯ|must be put to death|H4191|V-Qal-InfAbs
-v16 יוּמָֽת׃ס|yū·māṯ|...|H4191|V-Hofal-Imperf-3ms
+v16 יוּמָֽת׃|yū·māṯ|...|H4191|V-Hofal-Imperf-3ms
 v17 וּמְקַלֵּ֥ל|ū·mə·qal·lêl|Anyone who curses|H7043|Conj-w | V-Piel-Prtcpl-ms
 v17 אָבִ֛יו|’ā·ḇîw|his father|H1|N-msc | 3ms
 v17 וְאִמּ֖וֹ|wə·’im·mōw|or mother|H517|Conj-w | N-fsc | 3ms
 v17 מ֥וֹת|mō·wṯ|must surely be put to death|H4191|V-Qal-InfAbs
-v17 יוּמָֽת׃ס|yū·māṯ|...|H4191|V-Hofal-Imperf-3ms
+v17 יוּמָֽת׃|yū·māṯ|...|H4191|V-Hofal-Imperf-3ms
 v18 וְכִֽי־|wə·ḵî-|If|H3588|Conj
 v18 יְרִיבֻ֣ן|yə·rî·ḇun|are quarreling|H7378|V-Qal-Imperf-3mp | Pn
 v18 אֲנָשִׁ֔ים|’ă·nā·šîm|men|H582|N-mp
@@ -196,7 +196,7 @@ v19 רַ֥ק|raq|Nevertheless|H7535|Adv
 v19 שִׁבְתּ֛וֹ|šiḇ·tōw|the man for his lost work|H7674|Adj-fsc | 3ms
 v19 יִתֵּ֖ן|yit·tên|he must compensate|H5414|V-Qal-Imperf-3ms
 v19 וְרַפֹּ֥א|wə·rap·pō|and see that he is completely healed|H7495|Conj-w | V-Piel-InfAbs
-v19 יְרַפֵּֽא׃ס|yə·rap·pê|...|H7495|V-Piel-Imperf-3ms
+v19 יְרַפֵּֽא׃|yə·rap·pê|...|H7495|V-Piel-Imperf-3ms
 v20 וְכִֽי־|wə·ḵî-|If|H3588|Conj
 v20 יַכֶּה֩|yak·keh|strikes|H5221|V-Hifil-Imperf-3ms
 v20 אִ֨ישׁ|’îš|a man|H376|N-ms
@@ -221,7 +221,7 @@ v21 לֹ֣א|lō|the owner shall not|H3808|Adv-NegPrt
 v21 יֻקַּ֔ם|yuq·qam|be punished|H5358|V-QalPass-Imperf-3ms
 v21 כִּ֥י|kî|since|H3588|Conj
 v21 כַסְפּ֖וֹ|ḵas·pōw|his property|H3701|N-msc | 3ms
-v21 הֽוּא׃ס|hū|[the servant is]|H1931|Pro-3ms
+v21 הֽוּא׃|hū|[the servant is]|H1931|Pro-3ms
 v22 וְכִֽי־|wə·ḵî-|If|H3588|Conj
 v22 יִנָּצ֣וּ|yin·nā·ṣū|who are fighting|H5327|V-Nifal-Imperf-3mp
 v22 אֲנָשִׁ֗ים|’ă·nā·šîm|men|H582|N-mp
@@ -269,7 +269,7 @@ v25 תַּ֣חַת|ta·ḥaṯ|for|H8478|Prep
 v25 פָּ֑צַע|pā·ṣa‘|wound|H6482|N-ms
 v25 חַבּוּרָ֕ה|ḥab·bū·rāh|[and] stripe|H2250|N-fs
 v25 תַּ֖חַת|ta·ḥaṯ|for|H8478|Prep
-v25 חַבּוּרָֽה׃ס|ḥab·bū·rāh|stripe|H2250|N-fs
+v25 חַבּוּרָֽה׃|ḥab·bū·rāh|stripe|H2250|N-fs
 v26 וְכִֽי־|wə·ḵî-|If|H3588|Conj
 v26 יַכֶּ֨ה|yak·keh|strikes|H5221|V-Hifil-Imperf-3ms
 v26 אִ֜ישׁ|’îš|a man|H376|N-ms
@@ -284,7 +284,7 @@ v26 וְשִֽׁחֲתָ֑הּ|wə·ši·ḥă·ṯāh|and blinds|H7843|Conj-w 
 v26 לַֽחָפְשִׁ֥י|la·ḥā·p̄ə·šî|free|H2670|Prep-l, Art | Adj-ms
 v26 יְשַׁלְּחֶ֖נּוּ|yə·šal·lə·ḥen·nū|he must let the servant go|H7971|V-Piel-Imperf-3ms | 3ms
 v26 תַּ֥חַת|ta·ḥaṯ|as compensation for|H8478|Prep
-v26 עֵינֽוֹ׃ס|‘ê·nōw|...|H5869|N-csc | 3ms
+v26 עֵינֽוֹ׃|‘ê·nōw|...|H5869|N-csc | 3ms
 v27 וְאִם־|wə·’im-|And if|H518|Conj
 v27 שֵׁ֥ן|šên|the tooth|H8127|N-csc
 v27 עַבְדּ֛וֹ|‘aḇ·dōw|of his manservant|H5650|N-msc | 3ms
@@ -295,7 +295,7 @@ v27 יַפִּ֑יל|yap·pîl|he knocks out|H5307|V-Hifil-Imperf-3ms
 v27 לַֽחָפְשִׁ֥י|la·ḥā·p̄ə·šî|free|H2670|Prep-l, Art | Adj-ms
 v27 יְשַׁלְּחֶ֖נּוּ|yə·šal·lə·ḥen·nū|he must let the servant go|H7971|V-Piel-Imperf-3ms | 3ms
 v27 תַּ֥חַת|ta·ḥaṯ|as compensation for|H8478|Prep
-v27 שִׁנּֽוֹ׃פ|šin·nōw|...|H8127|N-csc | 3ms
+v27 שִׁנּֽוֹ׃|šin·nōw|...|H8127|N-csc | 3ms
 v28 וְכִֽי־|wə·ḵî-|If|H3588|Conj
 v28 יִגַּ֨ח|yig·gaḥ|gores|H5055|V-Qal-Imperf-3ms
 v28 שׁ֥וֹר|šō·wr|an ox|H7794|N-ms
@@ -367,7 +367,7 @@ v32 שְׁקָלִ֗ים|šə·qā·lîm|shekels|H8255|N-mp
 v32 יִתֵּן֙|yit·tên|[the owner] must pay|H5414|V-Qal-Imperf-3ms
 v32 לַֽאדֹנָ֔יו|la·ḏō·nāw|to the master of that servant|H113|Prep-l | N-mpc | 3ms
 v32 וְהַשּׁ֖וֹר|wə·haš·šō·wr|and the ox|H7794|Conj-w, Art | N-ms
-v32 יִסָּקֵֽל׃ס|yis·sā·qêl|must be stoned|H5619|V-Nifal-Imperf-3ms
+v32 יִסָּקֵֽל׃|yis·sā·qêl|must be stoned|H5619|V-Nifal-Imperf-3ms
 v33 וְכִֽי־|wə·ḵî-|If|H3588|Conj
 v33 יִפְתַּ֨ח|yip̄·taḥ|opens|H6605|V-Qal-Imperf-3ms
 v33 אִ֜ישׁ|’îš|a man|H376|N-ms
@@ -392,7 +392,7 @@ v34 יָשִׁ֣יב|yā·šîḇ|he must pay|H7725|V-Hifil-Imperf-3ms
 v34 לִבְעָלָ֑יו|liḇ·‘ā·lāw|its owner|H1167|Prep-l | N-mpc | 3ms
 v34 וְהַמֵּ֖ת|wə·ham·mêṯ|and the dead [animal]|H4191|Conj-w, Art | V-Qal-Prtcpl-ms
 v34 יִֽהְיֶה־|yih·yeh-|will be|H1961|V-Qal-Imperf-3ms
-v34 לּֽוֹ׃ס|lōw|his|H0|Prep | 3ms
+v34 לּֽוֹ׃|lōw|his|H0|Prep | 3ms
 v35 וְכִֽי־|wə·ḵî-|If|H3588|Conj
 v35 יִגֹּ֧ף|yig·gōp̄|injures|H5062|V-Qal-Imperf-3ms
 v35 שֽׁוֹר־|šō·wr-|ox|H7794|N-msc
@@ -430,4 +430,4 @@ v36 תַּ֣חַת|ta·ḥaṯ|for|H8478|Prep
 v36 הַשּׁ֔וֹר|haš·šō·wr|ox|H7794|Art | N-ms
 v36 וְהַמֵּ֖ת|wə·ham·mêṯ|and the dead [animal]|H4191|Conj-w, Art | V-Qal-Prtcpl-ms
 v36 יִֽהְיֶה־|yih·yeh-|will be|H1961|V-Qal-Imperf-3ms
-v36 לּֽוֹ׃ס|lōw|his|H0|Prep | 3ms
+v36 לּֽוֹ׃|lōw|his|H0|Prep | 3ms

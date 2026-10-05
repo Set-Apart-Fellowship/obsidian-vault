@@ -51,7 +51,7 @@ v3 ἁλιεύειν|halieuein|fishing|G232|V-PNA
 v3 Λέγουσιν|Legousin|they said|G3004|V-PIA-3P
 v3 αὐτῷ|autō|-|G846|PPro-DM3S
 v3 Ἐρχόμεθα|Erchometha|will go|G2064|V-PIM/P-1P
-v3 καὶ|kai|vvv|G2532|Conj
+v3 καὶ|kai|...|G2532|Conj
 v3 ἡμεῖς|hēmeis|We|G1473|PPro-N1P
 v3 σὺν|syn|with|G4862|Prep
 v3 σοί|soi|you|G4771|PPro-D2S
@@ -91,7 +91,7 @@ v5 αὐτοῖς|autois|to them|G846|PPro-DM3P
 v5 ‹ὁ›|ho|-|G3588|Art-NMS
 v5 Ἰησοῦς|Iēsous|[He]|G2424|N-NMS
 v5 Παιδία|Paidia|Children|G3813|N-VNP
-v5 μή|mē|vvv|G3361|Adv
+v5 μή|mē|...|G3361|Adv
 v5 τι|ti|any|G5100|IPro-ANS
 v5 προσφάγιον|prosphagion|fish|G4371|N-ANS
 v5 ἔχετε|echete|do you have|G2192|V-PIA-2P
@@ -116,7 +116,7 @@ v6 εὑρήσετε|heurēsete|you will find [some]|G2147|V-FIA-2P
 v6 ἔβαλον|ebalon|they cast [it there]|G906|V-AIA-3P
 v6 οὖν|oun|So|G3767|Conj
 v6 καὶ|kai|and|G2532|Conj
-v6 οὐκέτι|ouketi|vvv|G3765|Adv
+v6 οὐκέτι|ouketi|...|G3765|Adv
 v6 αὐτὸ|auto|...|G846|PPro-AN3S
 v6 ἑλκύσαι|helkysai|to haul it in|G1670|V-ANA
 v6 ἴσχυον|ischyon|they were unable|G2480|V-IIA-3P
@@ -207,7 +207,7 @@ v10 τῶν|tōn|the|G3588|Art-GNP
 v10 ὀψαρίων|opsariōn|fish|G3795|N-GNP
 v10 ὧν|hōn|-|G3739|RelPro-GNP
 v10 ἐπιάσατε|epiasate|you have just caught|G4084|V-AIA-2P
-v10 νῦν|nyn|vvv|G3568|Adv
+v10 νῦν|nyn|...|G3568|Adv
 v11 ἀνέβη|anebē|went aboard|G305|V-AIA-3S
 v11 ‹οὖν›|oun|So|G3767|Conj
 v11 Σίμων|Simōn|Simon|G4613|N-NMS
@@ -216,19 +216,19 @@ v11 καὶ|kai|and|G2532|Conj
 v11 εἵλκυσεν|heilkysen|dragged|G1670|V-AIA-3S
 v11 τὸ|to|the|G3588|Art-ANS
 v11 δίκτυον|diktyon|net|G1350|N-ANS
-v11 εἰς|eis|vvv|G1519|Prep
-v11 τὴν|tēn|vvv|G3588|Art-AFS
+v11 εἰς|eis|...|G1519|Prep
+v11 τὴν|tēn|...|G3588|Art-AFS
 v11 γῆν|gēn|ashore|G1093|N-AFS
 v11 μεστὸν|meston|[It was] full|G3324|Adj-ANS
 v11 ἰχθύων|ichthyōn|fish|G2486|N-GMP
 v11 μεγάλων|megalōn|of large|G3173|Adj-GMP
-v11 ἑκατὸν|hekaton|153 {}|G1540|Adj-GMP
+v11 ἑκατὸν|hekaton|153|G1540|Adj-GMP
 v11 πεντήκοντα|pentēkonta|...|G4004|Adj-GMP
 v11 τριῶν|triōn|...|G5140|Adj-GMP
 v11 καὶ|kai|but even|G2532|Conj
 v11 τοσούτων|tosoutōn|so many|G5118|DPro-GMP
 v11 ὄντων|ontōn|with|G1510|V-PPA-GMP
-v11 οὐκ|ouk|vvv|G3756|Adv
+v11 οὐκ|ouk|...|G3756|Adv
 v11 ἐσχίσθη|eschisthē|was not torn|G4977|V-AIP-3S
 v11 τὸ|to|the|G3588|Art-NNS
 v11 δίκτυον|diktyon|net|G1350|N-NNS
@@ -279,7 +279,7 @@ v14 ἐγερθεὶς|egertheis|after He was raised|G1453|V-APP-NMS
 v14 ἐκ|ek|from|G1537|Prep
 v14 νεκρῶν|nekrōn|[the] dead|G3498|Adj-GMP
 v15 Ὅτε|Hote|When|G3753|Adv
-v15 οὖν|oun|vvv|G3767|Conj
+v15 οὖν|oun|...|G3767|Conj
 v15 ἠρίστησαν|ēristēsan|they had finished eating|G709|V-AIA-3P
 v15 λέγει|legei|asked|G3004|V-PIA-3S
 v15 τῷ|tō|-|G3588|Art-DMS
@@ -310,7 +310,7 @@ v15 ἀρνία|arnia|lambs|G721|N-ANP
 v15 μου|mou|My|G1473|PPro-G1S
 v16 Λέγει|Legei|[Jesus] asked|G3004|V-PIA-3S
 v16 αὐτῷ|autō|-|G846|PPro-DM3S
-v16 πάλιν|palin|vvv|G3825|Adv
+v16 πάλιν|palin|...|G3825|Adv
 v16 δεύτερον|deuteron|a second time|G1208|Adv
 v16 Σίμων|Simōn|Simon|G4613|N-VMS
 v16 Ἰωάννου|Iōannou|[son] of John|G2491|N-GMS
@@ -396,7 +396,7 @@ v18 σε|se|you|G4771|PPro-A2S
 v18 καὶ|kai|and|G2532|Conj
 v18 οἴσει|oisei|lead [you]|G5342|V-FIA-3S
 v18 ὅπου|hopou|where|G3699|Adv
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 θέλεις|theleis|you do not want to go|G2309|V-PIA-2S
 v19 τοῦτο|touto|this|G3778|DPro-ANS
 v19 δὲ|de|-|G1161|Conj
@@ -431,10 +431,10 @@ v20 ἀνέπεσεν|anepesen|had leaned back|G377|V-AIA-3S
 v20 ἐν|en|at|G1722|Prep
 v20 τῷ|tō|the|G3588|Art-DNS
 v20 δείπνῳ|deipnō|supper|G1173|N-DNS
-v20 ἐπὶ|epi|vvv|G1909|Prep
-v20 τὸ|to|vvv|G3588|Art-ANS
+v20 ἐπὶ|epi|...|G1909|Prep
+v20 τὸ|to|...|G3588|Art-ANS
 v20 στῆθος|stēthos|[against Jesus]|G4738|N-ANS
-v20 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v20 αὐτοῦ|autou|...|G846|PPro-GM3S
 v20 καὶ|kai|-|G2532|Conj
 v20 εἶπεν|eipen|to ask|G2036|V-AIA-3S
 v20 Κύριε|Kyrie|Lord|G2962|N-VMS
@@ -485,14 +485,14 @@ v23 μαθητὴς|mathētēs|disciple|G3101|N-NMS
 v23 ἐκεῖνος|ekeinos|this|G1565|DPro-NMS
 v23 οὐκ|ouk|{would} not|G3756|Adv
 v23 ἀποθνήσκει|apothnēskei|die|G599|V-PIA-3S
-v23 οὐκ|ouk|vvv|G3756|Adv
+v23 οὐκ|ouk|...|G3756|Adv
 v23 εἶπεν|eipen|did not say|G2036|V-AIA-3S
 v23 δὲ|de|However|G1161|Conj
 v23 αὐτῷ|autō|...|G846|PPro-DM3S
 v23 ὁ|ho|-|G3588|Art-NMS
 v23 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v23 ὅτι|hoti|that|G3754|Conj
-v23 οὐκ|ouk|vvv|G3756|Adv
+v23 οὐκ|ouk|...|G3756|Adv
 v23 ἀποθνήσκει|apothnēskei|he would not die|G599|V-PIA-3S
 v23 ἀλλ’|all’|but only|G235|Conj
 v23 Ἐὰν|Ean|If|G1437|Conj

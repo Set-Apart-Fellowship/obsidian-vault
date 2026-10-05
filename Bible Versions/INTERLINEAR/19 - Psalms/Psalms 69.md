@@ -88,7 +88,7 @@ v10 בַצּ֣וֹם|ḇaṣ·ṣō·wm|and fasted|H6685|Prep-b, Art | N-ms
 v10 נַפְשִׁ֑י|nap̄·šî|I|H5315|N-fsc | 1cs
 v10 וַתְּהִ֖י|wat·tə·hî|but it brought me|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v10 לַחֲרָפ֣וֹת|la·ḥă·rā·p̄ō·wṯ|reproach|H2781|Prep-l, Art | N-fp
-v10 לִֽי׃|lî||H0|Prep | 1cs
+v10 לִֽי׃|lî|-|H0|Prep | 1cs
 v11 וָאֶתְּנָ֣ה|wā·’et·tə·nāh|I made|H5414|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
 v11 לְבוּשִׁ֣י|lə·ḇū·šî|my clothing|H3830|N-msc | 1cs
 v11 שָׂ֑ק|śāq|sackcloth|H8242|N-ms

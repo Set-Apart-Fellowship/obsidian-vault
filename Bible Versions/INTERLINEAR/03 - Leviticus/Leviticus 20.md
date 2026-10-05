@@ -82,7 +82,7 @@ v5 הַמֹּ֖לֶךְ|ham·mō·leḵ|Molech|H4432|Art | N-proper-ms
 v5 מִקֶּ֥רֶב|miq·qe·reḇ|from among|H7130|Prep-m | N-msc
 v5 עַמָּֽם׃|‘am·mām|their people|H5971|N-msc | 3mp
 v6 וְהַנֶּ֗פֶשׁ|wə·han·ne·p̄eš|Whoever|H5315|Conj-w, Art | N-fs
-v6 אֲשֶׁ֨ר|’ă·šer||H834|Pro-r
+v6 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v6 תִּפְנֶ֤ה|tip̄·neh|turns|H6437|V-Qal-Imperf-3fs
 v6 אֶל־|’el-|to|H413|Prep
 v6 הָֽאֹבֹת֙|hā·’ō·ḇōṯ|mediums|H178|Art | N-mp
@@ -91,7 +91,7 @@ v6 הַיִּדְּעֹנִ֔ים|hay·yid·də·‘ō·nîm|or spiritists|H3049
 v6 לִזְנ֖וֹת|liz·nō·wṯ|to prostitute himself|H2181|Prep-l | V-Qal-Inf
 v6 אַחֲרֵיהֶ֑ם|’a·ḥă·rê·hem|with them|H310|Prep | 3mp
 v6 וְנָתַתִּ֤י|wə·nā·ṯat·tî|I will also set|H5414|Conj-w | V-Qal-ConjPerf-1cs
-v6 אֶת־|’eṯ-||H853|DirObjM
+v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 פָּנַי֙|pā·nay|My face|H6440|N-mpc | 1cs
 v6 בַּנֶּ֣פֶשׁ|ban·ne·p̄eš|against that person|H5315|Prep-b, Art | N-fs
 v6 הַהִ֔וא|ha·hi·w|...|H1931|Art | Pro-3fs
@@ -335,7 +335,7 @@ v22 מֵבִ֥יא|mê·ḇî|am bringing|H935|V-Hifil-Prtcpl-ms
 v22 אֶתְכֶ֛ם|’eṯ·ḵem|-|H853|DirObjM | 2mp
 v22 שָׁ֖מָּה|šām·māh|-|H8033|Adv | 3fs
 v22 לָשֶׁ֥בֶת|lā·še·ḇeṯ|you to live|H3427|Prep-l | V-Qal-Inf
-v22 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v22 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v23 וְלֹ֤א|wə·lō|You must not|H3808|Conj-w | Adv-NegPrt
 v23 תֵֽלְכוּ֙|ṯê·lə·ḵū|follow|H1980|V-Qal-Imperf-2mp
 v23 בְּחֻקֹּ֣ת|bə·ḥuq·qōṯ|the statutes|H2708|Prep-b | N-fpc
@@ -415,14 +415,14 @@ v27 אֽוֹ־|’ōw-|or|H176|Conj
 v27 אִשָּׁ֗ה|’iš·šāh|a woman|H802|N-fs
 v27 כִּֽי־|kî-|...|H3588|Conj
 v27 יִהְיֶ֨ה|yih·yeh|who is|H1961|V-Qal-Imperf-3ms
-v27 בָהֶ֥ם|ḇā·hem||H0|Prep | 3mp
+v27 בָהֶ֥ם|ḇā·hem|-|H0|Prep | 3mp
 v27 א֛וֹב|’ō·wḇ|a medium|H178|N-ms
 v27 א֥וֹ|’ōw|or|H176|Conj
 v27 יִדְּעֹנִ֖י|yid·də·‘ō·nî|spiritist|H3049|N-ms
 v27 מ֣וֹת|mō·wṯ|must surely be put to death|H4191|V-Qal-InfAbs
 v27 יוּמָ֑תוּ|yū·mā·ṯū|...|H4191|V-Hofal-Imperf-3mp
-v27 בָּאֶ֛בֶן|bā·’e·ḇen|vvv|H68|Prep-b, Art | N-fs
+v27 בָּאֶ֛בֶן|bā·’e·ḇen|...|H68|Prep-b, Art | N-fs
 v27 יִרְגְּמ֥וּ|yir·gə·mū|They shall be stoned|H7275|V-Qal-Imperf-3mp
 v27 אֹתָ֖ם|’ō·ṯām|-|H853|DirObjM | 3mp
 v27 דְּמֵיהֶ֥ם|də·mê·hem|their blood|H1818|N-mpc | 3mp
-v27 בָּֽם׃פ|bām|[is] upon them|H0|Prep | 3mp
+v27 בָּֽם׃|bām|[is] upon them|H0|Prep | 3mp

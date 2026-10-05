@@ -9,12 +9,12 @@ v1 וְצֹאנָ֤ם|wə·ṣō·nām|with their flocks|H6629|Conj-w | N-fsc | 
 v1 וּבְקָרָם֙|ū·ḇə·qā·rām|and herds|H1241|Conj-w | N-msc | 3mp
 v1 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v1 אֲשֶׁ֣ר|’ă·šer|they own|H834|Pro-r
-v1 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v1 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v1 בָּ֖אוּ|bā·’ū|have come|H935|V-Qal-Perf-3cp
 v1 מֵאֶ֣רֶץ|mê·’e·reṣ|from the land|H776|Prep-m | N-fsc
 v1 כְּנָ֑עַן|kə·nā·‘an|of Canaan|H3667|N-proper-ms
 v1 וְהִנָּ֖ם|wə·hin·nām|and are now|H2005|Conj-w | Interjection | 3mp
-v1 בְּאֶ֥רֶץ|bə·’e·reṣ|vvv|H776|Prep-b | N-fsc
+v1 בְּאֶ֥רֶץ|bə·’e·reṣ|...|H776|Prep-b | N-fsc
 v1 גֹּֽשֶׁן׃|gō·šen|in Goshen|H1657|N-proper-fs
 v2 וּמִקְצֵ֣ה|ū·miq·ṣêh|-|H7097|Conj-w, Prep-m | N-msc
 v2 אֶחָ֔יו|’e·ḥāw|his brothers|H251|N-mpc | 3ms
@@ -89,7 +89,7 @@ v6 גֹּ֔שֶׁן|gō·šen|of Goshen|H1657|N-proper-fs
 v6 וְאִם־|wə·’im-|And if|H518|Conj
 v6 יָדַ֗עְתָּ|yā·ḏa‘·tā|you know of|H3045|V-Qal-Perf-2ms
 v6 וְיֶשׁ־|wə·yeš-|...|H3426|Conj-w | Adv
-v6 בָּם֙|bām||H0|Prep | 3mp
+v6 בָּם֙|bām|-|H0|Prep | 3mp
 v6 אַנְשֵׁי־|’an·šê-|men among them|H582|N-mpc
 v6 חַ֔יִל|ḥa·yil|any talented|H2428|N-ms
 v6 וְשַׂמְתָּ֛ם|wə·śam·tām|put them|H7760|Conj-w | V-Qal-ConjPerf-2ms | 3mp
@@ -97,7 +97,7 @@ v6 שָׂרֵ֥י|śā·rê|in charge of|H8269|N-mpc
 v6 מִקְנֶ֖ה|miq·neh|my own livestock|H4735|N-ms
 v6 עַל־|‘al-|...|H5921|Prep
 v6 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v6 לִֽי׃|lî||H0|Prep | 1cs
+v6 לִֽי׃|lî|-|H0|Prep | 1cs
 v7 וַיָּבֵ֤א|way·yā·ḇê|brought in|H935|Conj-w | V-Hifil-ConsecImperf-3ms
 v7 יוֹסֵף֙|yō·w·sêp̄|Then Joseph|H3130|N-proper-ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
@@ -257,7 +257,7 @@ v17 לָהֶם֩|lā·hem|them|H0|Prep | 3mp
 v17 יוֹסֵ֨ף|yō·w·sêp̄|and he|H3130|N-proper-ms
 v17 לֶ֜חֶם|le·ḥem|food|H3899|N-ms
 v17 בַּסּוּסִ֗ים|bas·sū·sîm|in exchange for their horses|H5483|Prep-b, Art | N-mp
-v17 וּבְמִקְנֵ֥ה|ū·ḇə·miq·nêh|vvv|H4735|Conj-w, Prep-b | N-msc
+v17 וּבְמִקְנֵ֥ה|ū·ḇə·miq·nêh|...|H4735|Conj-w, Prep-b | N-msc
 v17 הַצֹּ֛אן|haṣ·ṣōn|their flocks|H6629|Art | N-cs
 v17 וּבְמִקְנֵ֥ה|ū·ḇə·miq·nêh|-|H4735|Conj-w, Prep-b | N-msc
 v17 הַבָּקָ֖ר|hab·bā·qār|and herds|H1241|Art | N-ms
@@ -276,7 +276,7 @@ v18 אֵלָ֜יו|’ê·lāw|to him|H413|Prep | 3ms
 v18 בַּשָּׁנָ֣ה|baš·šā·nāh|year|H8141|Prep-b, Art | N-fs
 v18 הַשֵּׁנִ֗ית|haš·šê·nîṯ|the second|H8145|Art | Number-ofs
 v18 וַיֹּ֤אמְרוּ|way·yō·mə·rū|and said|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v18 לוֹ֙|lōw||H0|Prep | 3ms
+v18 לוֹ֙|lōw|-|H0|Prep | 3ms
 v18 לֹֽא־|lō-|We cannot|H3808|Adv-NegPrt
 v18 נְכַחֵ֣ד|nə·ḵa·ḥêḏ|hide|H3582|V-Piel-Imperf-1cp
 v18 מֵֽאֲדֹנִ֔י|mê·’ă·ḏō·nî|from our lord|H113|Prep-m | N-msc | 1cs
@@ -365,7 +365,7 @@ v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 חֻקָּם֙|ḥuq·qām|the rations that|H2706|N-msc | 3mp
 v22 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v22 נָתַ֤ן|nā·ṯan|supplied|H5414|V-Qal-Perf-3ms
-v22 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v22 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v22 פַּרְעֹ֔ה|par·‘ōh|Pharaoh|H6547|N-proper-ms
 v22 עַל־|‘al-|so|H5921|Prep
 v22 כֵּ֕ן|kên|...|H3651|Adv
@@ -390,7 +390,7 @@ v23 זֶ֔רַע|ze·ra‘|is seed|H2233|N-ms
 v23 וּזְרַעְתֶּ֖ם|ū·zə·ra‘·tem|to sow|H2232|Conj-w | V-Qal-ConjPerf-2mp
 v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 הָאֲדָמָֽה׃|hā·’ă·ḏā·māh|in the land|H127|Art | N-fs
-v24 וְהָיָה֙|wə·hā·yāh||H1961|Conj-w | V-Qal-ConjPerf-3ms
+v24 וְהָיָה֙|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v24 בַּתְּבוּאֹ֔ת|bat·tə·ḇū·’ōṯ|At harvest time|H8393|Prep-b, Art | N-fp
 v24 וּנְתַתֶּ֥ם|ū·nə·ṯat·tem|you are to give|H5414|Conj-w | V-Qal-ConjPerf-2mp
 v24 חֲמִישִׁ֖ית|ḥă·mî·šîṯ|a fifth|H2549|Number-ofs
@@ -449,7 +449,7 @@ v28 וַיְחִ֤י|way·ḥî|lived|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v28 יַעֲקֹב֙|ya·‘ă·qōḇ|And Jacob|H3290|N-proper-ms
 v28 בְּאֶ֣רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
 v28 מִצְרַ֔יִם|miṣ·ra·yim|of Egypt|H4714|N-proper-fs
-v28 שְׁבַ֥ע|šə·ḇa‘|vvv|H7651|Number-fsc
+v28 שְׁבַ֥ע|šə·ḇa‘|...|H7651|Number-fsc
 v28 עֶשְׂרֵ֖ה|‘eś·rêh|seventeen|H6240|Number-fsc
 v28 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
 v28 וַיְהִ֤י|way·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
@@ -461,7 +461,7 @@ v28 שֶׁ֣בַע|še·ḇa‘|...|H7651|Number-fs
 v28 שָׁנִ֔ים|šā·nîm|years|H8141|N-fp
 v28 וְאַרְבָּעִ֥ים|wə·’ar·bā·‘îm|...|H705|Conj-w | Number-cp
 v28 וּמְאַ֖ת|ū·mə·’aṯ|147|H3967|Conj-w | Number-fsc
-v28 שָׁנָֽה׃|šā·nāh|vvv|H8141|N-fs
+v28 שָׁנָֽה׃|šā·nāh|...|H8141|N-fs
 v29 וַיִּקְרְב֣וּ|way·yiq·rə·ḇū|drew near|H7126|Conj-w | V-Qal-ConsecImperf-3mp
 v29 יְמֵֽי־|yə·mê-|When the time|H3117|N-mpc
 v29 יִשְׂרָאֵ֘ל|yiś·rå̄·ʾēl|for Israel|H3478|N-proper-ms
@@ -509,4 +509,4 @@ v31 וַיִּשְׁתַּ֥חוּ|way·yiš·ta·ḥū|bowed [in worship]|H7812
 v31 יִשְׂרָאֵ֖ל|yiś·rā·’êl|and Israel|H3478|N-proper-ms
 v31 עַל־|‘al-|at|H5921|Prep
 v31 רֹ֥אשׁ|rōš|the head|H7218|N-msc
-v31 הַמִּטָּֽה׃פ|ham·miṭ·ṭāh|of his bed|H4296|Art | N-fs
+v31 הַמִּטָּֽה׃|ham·miṭ·ṭāh|of his bed|H4296|Art | N-fs

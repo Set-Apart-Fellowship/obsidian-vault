@@ -1,4 +1,4 @@
-v1 Καὶ|Kai|vvv|G2532|Conj
+v1 Καὶ|Kai|...|G2532|Conj
 v1 εἰσῆλθεν|eisēlthen|[Jesus] entered|G1525|V-AIA-3S
 v1 πάλιν|palin|Once again|G3825|Adv
 v1 εἰς|eis|...|G1519|Prep
@@ -33,8 +33,8 @@ v3 «χεῖρα|cheira|hand|G5495|N-AFS
 v3 ἔχοντι»|echonti|with|G2192|V-PPA-DMS
 v3 ξηράν|xēran|withered|G3584|Adj-AFS
 v3 Ἔγειρε|Egeire|Stand up|G1453|V-PMA-2S
-v3 εἰς|eis|vvv|G1519|Prep
-v3 τὸ|to|vvv|G3588|Art-ANS
+v3 εἰς|eis|...|G1519|Prep
+v3 τὸ|to|...|G3588|Art-ANS
 v3 μέσον|meson|among [us]|G3319|Adj-ANS
 v4 καὶ|kai|And|G2532|Conj
 v4 λέγει|legei|He asked|G3004|V-PIA-3S
@@ -75,9 +75,9 @@ v5 καὶ|kai|Then|G2532|Conj
 v5 ἐξέτεινεν|exeteinen|So he stretched [it] out|G1614|V-AIA-3S
 v5 καὶ|kai|and|G2532|Conj
 v5 ἀπεκατεστάθη|apekatestathē|was restored|G600|V-AIP-3S
-v5 ἡ|hē|vvv|G3588|Art-NFS
+v5 ἡ|hē|...|G3588|Art-NFS
 v5 χεὶρ|cheir|[it]|G5495|N-NFS
-v5 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v5 αὐτοῦ|autou|...|G846|PPro-GM3S
 v6 Καὶ|Kai|At this|G2532|Conj
 v6 ἐξελθόντες|exelthontes|went out|G1831|V-APA-NMP
 v6 οἱ|hoi|the|G3588|Art-NMP
@@ -152,7 +152,7 @@ v9 διὰ|dia|-|G1223|Prep
 v9 τὸν|ton|the|G3588|Art-AMS
 v9 ὄχλον|ochlon|crowd|G3793|N-AMS
 v9 ἵνα|hina|so that|G2443|Conj
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 θλίβωσιν|thlibōsin|would not crush|G2346|V-PSA-3P
 v9 αὐτόν|auton|Him|G846|PPro-AM3S
 v10 πολλοὺς|pollous|so many|G4183|Adj-AMP
@@ -254,7 +254,7 @@ v17 ἀδελφὸν|adelphon|brother|G80|N-AMS
 v17 τοῦ|tou|-|G3588|Art-GMS
 v17 Ἰακώβου|Iakōbou|his|G2385|N-GMS
 v17 καὶ|kai|-|G2532|Conj
-v17 ἐπέθηκεν|epethēken|vvv|G2007|V-AIA-3S
+v17 ἐπέθηκεν|epethēken|...|G2007|V-AIA-3S
 v17 αὐτοῖς|autois|( [whom]|G846|PPro-DM3P
 v17 ὀνόματα*|onomata|He named|G3686|N-ANP
 v17 Βοανηργές|Boanērges|Boanerges|G993|N-AMP
@@ -302,13 +302,13 @@ v20 ὄχλος|ochlos|crowd|G3793|N-NMS
 v20 ὥστε|hōste|so that|G5620|Conj
 v20 μὴ|mē|not|G3361|Adv
 v20 δύνασθαι|dynasthai|[He and His disciples] could|G1410|V-PNM/P
-v20 αὐτοὺς|autous|vvv|G846|PPro-AM3P
+v20 αὐτοὺς|autous|...|G846|PPro-AM3P
 v20 μηδὲ|mēde|even|G3366|Conj
 v20 ἄρτον|arton|-|G740|N-AMS
 v20 φαγεῖν|phagein|eat|G5315|V-ANA
 v21 καὶ|kai|[When]|G2532|Conj
 v21 ἀκούσαντες|akousantes|heard [about this]|G191|V-APA-NMP
-v21 οἱ|hoi|vvv|G3588|Art-NMP
+v21 οἱ|hoi|...|G3588|Art-NMP
 v21 παρ’|par’|His family|G3844|Prep
 v21 αὐτοῦ|autou|...|G846|PPro-GM3S
 v21 ἐξῆλθον|exēlthon|they went out|G1831|V-AIA-3P
@@ -357,23 +357,23 @@ v24 βασιλεία|basileia|a kingdom|G932|N-NFS
 v24 ἐφ’|eph’|against|G1909|Prep
 v24 ἑαυτὴν|heautēn|itself|G1438|RefPro-AF3S
 v24 μερισθῇ|meristhē|is divided|G3307|V-ASP-3S
-v24 οὐ|ou|vvv|G3756|Adv
+v24 οὐ|ou|...|G3756|Adv
 v24 δύναται|dynatai|cannot|G1410|V-PIM/P-3S
 v24 σταθῆναι|stathēnai|stand|G2476|V-ANP
-v24 ἡ|hē|vvv|G3588|Art-NFS
+v24 ἡ|hē|...|G3588|Art-NFS
 v24 βασιλεία|basileia|[it]|G932|N-NFS
-v24 ἐκείνη|ekeinē|vvv|G1565|DPro-NFS
+v24 ἐκείνη|ekeinē|...|G1565|DPro-NFS
 v25 καὶ|kai|-|G2532|Conj
 v25 ἐὰν|ean|If|G1437|Conj
 v25 οἰκία|oikia|a house|G3614|N-NFS
 v25 ἐφ’|eph’|against|G1909|Prep
 v25 ἑαυτὴν|heautēn|itself|G1438|RefPro-AF3S
 v25 μερισθῇ|meristhē|is divided|G3307|V-ASP-3S
-v25 οὐ|ou|vvv|G3756|Adv
+v25 οὐ|ou|...|G3756|Adv
 v25 δυνήσεται|dynēsetai|cannot|G1410|V-FIM-3S
-v25 ἡ|hē|vvv|G3588|Art-NFS
+v25 ἡ|hē|...|G3588|Art-NFS
 v25 οἰκία|oikia|[it]|G3614|N-NFS
-v25 ἐκείνη|ekeinē|vvv|G1565|DPro-NFS
+v25 ἐκείνη|ekeinē|...|G1565|DPro-NFS
 v25 σταθῆναι*|stathēnai|stand|G2476|V-ANP
 v26 καὶ|kai|And|G2532|Conj
 v26 εἰ|ei|if|G1487|Conj
@@ -384,7 +384,7 @@ v26 ἐφ’|eph’|against|G1909|Prep
 v26 ἑαυτὸν|heauton|himself|G1438|RefPro-AM3S
 v26 καὶ|kai|and|G2532|Conj
 v26 ἐμερίσθη|emeristhē|is divided|G3307|V-AIP-3S
-v26 οὐ|ou|vvv|G3756|Adv
+v26 οὐ|ou|...|G3756|Adv
 v26 δύναται|dynatai|he cannot|G1410|V-PIM/P-3S
 v26 στῆναι|stēnai|stand|G2476|V-ANA
 v26 ἀλλὰ|alla|-|G235|Conj
@@ -397,7 +397,7 @@ v27 οὐδεὶς|oudeis|no one|G3762|Adj-NMS
 v27 εἰς|eis|...|G1519|Prep
 v27 τὴν|tēn|-|G3588|Art-AFS
 v27 οἰκίαν|oikian|house|G3614|N-AFS
-v27 τοῦ|tou|vvv|G3588|Art-GMS
+v27 τοῦ|tou|...|G3588|Art-GMS
 v27 ἰσχυροῦ|ischyrou|a strong man's|G2478|Adj-GMS
 v27 εἰσελθὼν|eiselthōn|enter|G1525|V-APA-NMS
 v27 τὰ|ta|-|G3588|Art-ANP
@@ -406,7 +406,7 @@ v27 αὐτοῦ|autou|his|G846|PPro-GM3S
 v27 διαρπάσαι|diarpasai|to steal|G1283|V-ANA
 v27 ἐὰν|ean|unless|G1437|Conj
 v27 μὴ|mē|...|G3361|Adv
-v27 πρῶτον|prōton|vvv|G4412|Adv-S
+v27 πρῶτον|prōton|...|G4412|Adv-S
 v27 τὸν|ton|the|G3588|Art-AMS
 v27 ἰσχυρὸν|ischyron|strong man|G2478|Adj-AMS
 v27 δήσῃ|dēsē|he first ties up|G1210|V-ASA-3S
@@ -432,7 +432,7 @@ v28 καὶ|kai|and|G2532|Conj
 v28 αἱ|hai|-|G3588|Art-NFP
 v28 βλασφημίαι|blasphēmiai|blasphemies|G988|N-NFP
 v28 ὅσα|hosa|as many as|G3745|RelPro-ANP
-v28 ἐὰν|ean|vvv|G1437|Conj
+v28 ἐὰν|ean|...|G1437|Conj
 v28 βλασφημήσωσιν|blasphēmēsōsin|they utter|G987|V-ASA-3P
 v29 ὃς|hos|whoever|G3739|RelPro-NMS
 v29 δ’|d’|But|G1161|Conj

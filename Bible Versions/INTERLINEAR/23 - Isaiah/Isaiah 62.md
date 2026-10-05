@@ -38,7 +38,7 @@ v3 בְּכַף־|bə·ḵap̄-|in the palm|H3709|Prep-b | N-fsc
 v3 אֱלֹהָֽיִךְ׃|’ĕ·lō·hā·yiḵ|of your God|H430|N-mpc | 2fs
 v4 לֹֽא־|lō-|No|H3808|Adv-NegPrt
 v4 יֵאָמֵר֩|yê·’ā·mêr|will you be called|H559|V-Nifal-Imperf-3ms
-v4 לָ֨ךְ|lāḵ||H0|Prep | 2fs
+v4 לָ֨ךְ|lāḵ|-|H0|Prep | 2fs
 v4 ע֜וֹד|‘ō·wḏ|longer|H5750|Adv
 v4 עֲזוּבָ֗ה|‘ă·zū·ḇāh|Forsaken|H5800|V-Qal-QalPassPrtcpl-fs
 v4 וּלְאַרְצֵךְ֙|ū·lə·’ar·ṣêḵ|nor your land|H776|Conj-w, Prep-l | N-fsc | 2fs
@@ -49,7 +49,7 @@ v4 שְׁמָמָ֔ה|šə·mā·māh|Desolate|H8077|N-fs
 v4 כִּ֣י|kî|but|H3588|Conj
 v4 לָ֗ךְ|lāḵ|you|H0|Prep | 2fs
 v4 יִקָּרֵא֙|yiq·qā·rê|will be called|H7121|V-Nifal-Imperf-3ms
-v4 חֶפְצִי־|ḥep̄·ṣî-|vvv|H2657|
+v4 חֶפְצִי־|ḥep̄·ṣî-|...|H2657|
 v4 בָ֔הּ|ḇāh|Hephzibah|H2657|N-proper-fs
 v4 וּלְאַרְצֵ֖ךְ|ū·lə·’ar·ṣêḵ|and your land|H776|Conj-w, Prep-l | N-fsc | 2fs
 v4 בְּעוּלָ֑ה|bə·‘ū·lāh|Beulah|H1166|V-Qal-QalPassPrtcpl-fs
@@ -121,7 +121,7 @@ v8 נֵכָר֙|nê·ḵār|...|H5236|N-ms
 v8 תִּֽירוֹשֵׁ֔ךְ|tî·rō·wō·šêḵ|the new wine|H8492|N-msc | 2fs
 v8 אֲשֶׁ֥ר|’ă·šer|for which|H834|Pro-r
 v8 יָגַ֖עַתְּ|yā·ḡa·‘at|you have toiled|H3021|V-Qal-Perf-2fs
-v8 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v8 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v9 כִּ֤י|kî|For|H3588|Conj
 v9 מְאַסְפָיו֙|mə·’as·p̄āw|those who harvest [grain]|H622|V-Piel-Prtcpl-mpc | 3ms
 v9 יֹאכְלֻ֔הוּ|yō·ḵə·lu·hū|will eat it|H398|V-Qal-Imperf-3mp | 3ms
@@ -131,7 +131,7 @@ v9 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v9 וּֽמְקַבְּצָ֥יו|ū·mə·qab·bə·ṣāw|and those who gather [grapes]|H6908|Conj-w | V-Piel-Prtcpl-mpc | 3ms
 v9 יִשְׁתֻּ֖הוּ|yiš·tu·hū|will drink the wine|H8354|V-Qal-Imperf-3mp | 3ms
 v9 בְּחַצְר֥וֹת|bə·ḥaṣ·rō·wṯ|courts|H2691|Prep-b | N-cpc
-v9 קָדְשִֽׁי׃ס|qāḏ·šî|in My holy|H6944|N-msc | 1cs
+v9 קָדְשִֽׁי׃|qāḏ·šî|in My holy|H6944|N-msc | 1cs
 v10 עִבְר֤וּ|‘iḇ·rū|Go out|H5674|V-Qal-Imp-mp
 v10 עִבְרוּ֙|‘iḇ·rū|go out|H5674|V-Qal-Imp-mp
 v10 בַּשְּׁעָרִ֔ים|baš·šə·‘ā·rîm|through the gates|H8179|Prep-b, Art | N-mp
@@ -175,4 +175,4 @@ v12 יִקָּרֵ֣א|yiq·qā·rê|will be called|H7121|V-Nifal-Imperf-3ms
 v12 דְרוּשָׁ֔ה|ḏə·rū·šāh|Sought Out|H1875|V-Qal-QalPassPrtcpl-fs
 v12 עִ֖יר|‘îr|A City|H5892|N-fs
 v12 לֹ֥א|lō|Not|H3808|Adv-NegPrt
-v12 נֶעֱזָֽבָה׃ס|ne·‘ĕ·zā·ḇāh|Forsaken|H5800|V-Nifal-Perf-3fs
+v12 נֶעֱזָֽבָה׃|ne·‘ĕ·zā·ḇāh|Forsaken|H5800|V-Nifal-Perf-3fs

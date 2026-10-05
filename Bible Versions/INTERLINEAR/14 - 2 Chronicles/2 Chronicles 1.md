@@ -48,7 +48,7 @@ v4 אֲר֤וֹן|’ă·rō·wn|the ark|H727|N-csc
 v4 הָאֱלֹהִים֙|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v4 הֶעֱלָ֤ה|he·‘ĕ·lāh|had brought|H5927|V-Hifil-Perf-3ms
 v4 דָוִיד֙|ḏā·wîḏ|David|H1732|N-proper-ms
-v4 מִקִּרְיַ֣ת|miq·qir·yaṯ||H7157|Prep
+v4 מִקִּרְיַ֣ת|miq·qir·yaṯ|-|H7157|Prep
 v4 יְעָרִ֔ים|yə·‘ā·rîm|from Kiriath-jearim|H7157|Prep | N-proper-fs
 v4 בַּֽהֵכִ֥ין|ba·hê·ḵîn|he had prepared|H3559|Prep-b, Art | V-Hifil-Perf-3ms
 v4 ל֖וֹ|lōw|for it|H0|Prep | 3ms
@@ -144,7 +144,7 @@ v10 יִשְׁפֹּ֔ט|yiš·pōṭ|is able to govern|H8199|V-Qal-Imperf-3ms
 v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 עַמְּךָ֥|‘am·mə·ḵā|people of Yours|H5971|N-msc | 2ms
 v10 הַזֶּ֖ה|haz·zeh|this|H2088|Art | Pro-ms
-v10 הַגָּדֽוֹל׃ס|hag·gā·ḏō·wl|great|H1419|Art | Adj-ms
+v10 הַגָּדֽוֹל׃|hag·gā·ḏō·wl|great|H1419|Art | Adj-ms
 v11 וַיֹּ֣אמֶר־|way·yō·mer-|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 אֱלֹהִ֣ים׀|’ĕ·lō·hîm|God|H430|N-mp
 v11 לִשְׁלֹמֹ֡ה|liš·lō·mōh|to Solomon|H8010|Prep-l | N-proper-ms
@@ -168,7 +168,7 @@ v11 רַבִּ֖ים|rab·bîm|long|H7227|Adj-mp
 v11 לֹ֣א|lō|and since you have not|H3808|Adv-NegPrt
 v11 שָׁאָ֑לְתָּ|šā·’ā·lə·tā|requested|H7592|V-Qal-Perf-2ms
 v11 וַתִּֽשְׁאַל־|wat·tiš·’al-|but have asked|H7592|Conj-w | V-Qal-ConsecImperf-2ms
-v11 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v11 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v11 חָכְמָ֣ה|ḥāḵ·māh|for wisdom|H2451|N-fs
 v11 וּמַדָּ֔ע|ū·mad·dā‘|and knowledge|H4093|Conj-w | N-ms
 v11 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
@@ -209,7 +209,7 @@ v13 אֹ֣הֶל|’ō·hel|the Tent|H168|N-msc
 v13 מוֹעֵ֑ד|mō·w·‘êḏ|of Meeting|H4150|N-ms
 v13 וַיִּמְלֹ֖ךְ|way·yim·lōḵ|and he reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v13 עַל־|‘al-|over|H5921|Prep
-v13 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v13 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v14 וַיֶּאֱסֹ֣ף|way·ye·’ĕ·sōp̄|accumulated|H622|Conj-w | V-Qal-ConsecImperf-3ms
 v14 שְׁלֹמֹה֮|šə·lō·mōh|Solomon|H8010|N-proper-ms
 v14 רֶ֣כֶב|re·ḵeḇ|-|H7393|N-ms

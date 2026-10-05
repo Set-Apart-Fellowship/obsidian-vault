@@ -201,7 +201,7 @@ v8 ἐπὶ|epi|on|G1909|Prep
 v8 τῆς|tēs|the|G3588|Art-GFS
 v8 γῆς|gēs|earth|G1093|N-GFS
 v8 ὧν|hōn|whose|G3739|RelPro-GMP
-v8 οὐ|ou|vvv|G3756|Adv
+v8 οὐ|ou|...|G3756|Adv
 v8 γέγραπται|gegraptai|were not written|G1125|V-RIM/P-3S
 v8 τὸ|to|-|G3588|Art-NNS
 v8 ὄνομα|onoma|names|G3686|N-NNS
@@ -406,8 +406,8 @@ v17 τὴν|tēn|-|G3588|Art-AFS
 v17 γνώμην|gnōmēn|purpose|G1106|N-AFS
 v17 αὐτοῦ|autou|His|G846|PPro-GM3S
 v17 καὶ|kai|by|G2532|Conj
-v17 ποιῆσαι|poiēsai|vvv|G4160|V-ANA
-v17 μίαν|mian|vvv|G1520|Adj-AFS
+v17 ποιῆσαι|poiēsai|...|G4160|V-ANA
+v17 μίαν|mian|...|G1520|Adj-AFS
 v17 γνώμην|gnōmēn|uniting|G1106|N-AFS
 v17 καὶ|kai|-|G2532|Conj
 v17 δοῦναι|dounai|to give|G1325|V-ANA
@@ -433,7 +433,7 @@ v18 πόλις|polis|city|G4172|N-NFS
 v18 ἡ|hē|-|G3588|Art-NFS
 v18 μεγάλη|megalē|great|G3173|Adj-NFS
 v18 ἡ|hē|that|G3588|Art-NFS
-v18 ἔχουσα|echousa|vvv|G2192|V-PPA-NFS
+v18 ἔχουσα|echousa|...|G2192|V-PPA-NFS
 v18 βασιλείαν|basileian|rules|G932|N-AFS
 v18 ἐπὶ|epi|over|G1909|Prep
 v18 τῶν|tōn|the|G3588|Art-GMP

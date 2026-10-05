@@ -9,7 +9,7 @@ v1 עִם־|‘im-|...|H5973|Prep
 v1 רָשָׁ֔ע|rā·šā‘|the wicked|H7563|Adj-ms
 v1 לִהְיֹ֖ת|lih·yōṯ|by being|H1961|Prep-l | V-Qal-Inf
 v1 עֵ֥ד|‘êḏ|witness|H5707|N-msc
-v1 חָמָֽס׃ס|ḥā·mās|a malicious|H2555|N-ms
+v1 חָמָֽס׃|ḥā·mās|a malicious|H2555|N-ms
 v2 לֹֽא־|lō-|You shall not|H3808|Adv-NegPrt
 v2 תִהְיֶ֥ה|ṯih·yeh|follow|H1961|V-Qal-Imperf-2ms
 v2 אַחֲרֵֽי־|’a·ḥă·rê-|...|H310|Prep
@@ -26,7 +26,7 @@ v2 לְהַטֹּֽת׃|lə·haṭ·ṭōṯ|pervert justice|H5186|Prep-l | V-Hi
 v3 וְדָ֕ל|wə·ḏāl|to a poor man|H1800|Conj-w | Adj-msc
 v3 לֹ֥א|lō|And do not|H3808|Adv-NegPrt
 v3 תֶהְדַּ֖ר|ṯeh·dar|show favoritism|H1921|V-Qal-Imperf-2ms
-v3 בְּרִיבֽוֹ׃ס|bə·rî·ḇōw|in his lawsuit|H7379|Prep-b | N-msc | 3ms
+v3 בְּרִיבֽוֹ׃|bə·rî·ḇōw|in his lawsuit|H7379|Prep-b | N-msc | 3ms
 v4 כִּ֣י|kî|If|H3588|Conj
 v4 תִפְגַּ֞ע|ṯip̄·ga‘|you encounter|H6293|V-Qal-Imperf-2ms
 v4 שׁ֧וֹר|šō·wr|ox|H7794|N-msc
@@ -36,7 +36,7 @@ v4 חֲמֹר֖וֹ|ḥă·mō·rōw|donkey|H2543|N-msc | 3ms
 v4 תֹּעֶ֑ה|tō·‘eh|stray|H8582|V-Qal-Prtcpl-ms
 v4 הָשֵׁ֥ב|hā·šêḇ|you must return it|H7725|V-Hifil-InfAbs
 v4 תְּשִׁיבֶ֖נּוּ|tə·šî·ḇen·nū|...|H7725|V-Hifil-Imperf-2ms | 3ms
-v4 לֽוֹ׃ס|lōw|to him|H0|Prep | 3ms
+v4 לֽוֹ׃|lōw|to him|H0|Prep | 3ms
 v5 כִּֽי־|kî-|If|H3588|Conj
 v5 תִרְאֶ֞ה|ṯir·’eh|you see|H7200|V-Qal-Imperf-2ms
 v5 חֲמ֣וֹר|ḥă·mō·wr|the donkey|H2543|N-msc
@@ -49,7 +49,7 @@ v5 מֵעֲזֹ֣ב|mê·‘ă·zōḇ|leave|H5800|Prep-m | V-Qal-Inf
 v5 ל֑וֹ|lōw|it there|H0|Prep | 3ms
 v5 עָזֹ֥ב|‘ā·zōḇ|you must help him|H5800|V-Qal-InfAbs
 v5 תַּעֲזֹ֖ב|ta·‘ă·zōḇ|...|H5800|V-Qal-Imperf-2ms
-v5 עִמּֽוֹ׃ס|‘im·mōw|with it|H5973|Prep | 3ms
+v5 עִמּֽוֹ׃|‘im·mōw|with it|H5973|Prep | 3ms
 v6 לֹ֥א|lō|You shall not|H3808|Adv-NegPrt
 v6 תַטֶּ֛ה|ṯaṭ·ṭeh|deny|H5186|V-Hifil-Imperf-2ms
 v6 מִשְׁפַּ֥ט|miš·paṭ|justice|H4941|N-msc
@@ -215,7 +215,7 @@ v19 לֹֽא־|lō-|You must not|H3808|Adv-NegPrt
 v19 תְבַשֵּׁ֥ל|ṯə·ḇaš·šêl|cook|H1310|V-Piel-Imperf-2ms
 v19 גְּדִ֖י|gə·ḏî|a young goat|H1423|N-ms
 v19 בַּחֲלֵ֥ב|ba·ḥă·lêḇ|milk|H2461|Prep-b | N-msc
-v19 אִמּֽוֹ׃ס|’im·mōw|in its mother's|H517|N-fsc | 3ms
+v19 אִמּֽוֹ׃|’im·mōw|in its mother's|H517|N-fsc | 3ms
 v20 הִנֵּ֨ה|hin·nêh|Behold|H2009|Interjection
 v20 אָנֹכִ֜י|’ā·nō·ḵî|I|H595|Pro-1cs
 v20 שֹׁלֵ֤חַ|šō·lê·aḥ|am sending|H7971|V-Qal-Prtcpl-ms
@@ -315,7 +315,7 @@ v27 כָּל־|kāl-|every|H3605|N-msc
 v27 הָעָ֔ם|hā·‘ām|nation|H5971|Art | N-ms
 v27 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v27 תָּבֹ֖א|tā·ḇō|you encounter|H935|V-Qal-Imperf-2ms
-v27 בָּהֶ֑ם|bā·hem||H0|Prep | 3mp
+v27 בָּהֶ֑ם|bā·hem|-|H0|Prep | 3mp
 v27 וְנָתַתִּ֧י|wə·nā·ṯat·tî|turn|H5414|Conj-w | V-Qal-ConjPerf-1cs
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 כָּל־|kāl-|I will make all|H3605|N-msc
@@ -395,4 +395,4 @@ v33 אֱלֹ֣הֵיהֶ֔ם|’ĕ·lō·hê·hem|their gods|H430|N-mpc | 3mp
 v33 כִּֽי־|kî-|it will surely|H3588|Conj
 v33 יִהְיֶ֥ה|yih·yeh|be|H1961|V-Qal-Imperf-3ms
 v33 לְךָ֖|lə·ḵā|to you|H0|Prep | 2ms
-v33 לְמוֹקֵֽשׁ׃פ|lə·mō·w·qêš|a snare|H4170|Prep-l | N-ms
+v33 לְמוֹקֵֽשׁ׃|lə·mō·w·qêš|a snare|H4170|Prep-l | N-ms

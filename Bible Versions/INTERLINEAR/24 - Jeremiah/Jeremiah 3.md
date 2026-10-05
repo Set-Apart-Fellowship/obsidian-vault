@@ -52,7 +52,7 @@ v3 וּמֵ֨צַח|ū·mê·ṣaḥ|the brazen look|H4696|Conj-w | N-msc
 v3 אִשָּׁ֤ה|’iš·šāh|of a prostitute|H802|N-fs
 v3 זוֹנָה֙|zō·w·nāh|...|H2181|N-fs
 v3 הָ֣יָה|hā·yāh|Yet you have|H1961|V-Qal-Perf-3ms
-v3 לָ֔ךְ|lāḵ||H0|Prep | 2fs
+v3 לָ֔ךְ|lāḵ|-|H0|Prep | 2fs
 v3 מֵאַ֖נְתְּ|mê·’ant|you refuse|H3985|V-Piel-Perf-2fs
 v3 הִכָּלֵֽם׃|hik·kā·lêm|to be ashamed|H3637|V-Nifal-Inf
 v4 הֲל֣וֹא|hă·lō·w|Have you not|H3808|Adv-NegPrt
@@ -72,7 +72,7 @@ v5 הִנֵּ֥ה|hin·nêh|This|H2009|Interjection
 v5 דִבַּרְתִּי|ḏib·bar·tī|you have spoken|H1696|V-Piel-Perf-2fs
 v5 וַתַּעֲשִׂ֥י|wat·ta·‘ă·śî|but you keep doing|H6213|Conj-w | V-Qal-ConsecImperf-2fs
 v5 הָרָע֖וֹת|hā·rā·‘ō·wṯ|all the evil|H7451|Art | N-fp
-v5 וַתּוּכָֽל׃פ|wat·tū·ḵāl|you can|H3201|Conj-w | V-Qal-ConsecImperf-2ms
+v5 וַתּוּכָֽל׃|wat·tū·ḵāl|you can|H3201|Conj-w | V-Qal-ConsecImperf-2ms
 v6 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 יְהוָ֜ה|Yah·weh|the LORD|H3068|N-proper-ms
 v6 אֵלַ֗י|’ê·lay|to me|H413|Prep | 1cs
@@ -161,7 +161,7 @@ v10 כִּ֥י|kî|but only|H3588|Conj
 v10 אִם־|’im-|...|H518|Conj
 v10 בְּשֶׁ֖קֶר|bə·še·qer|in pretense|H8267|Prep-b | N-ms
 v10 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v10 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v10 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v11 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 יְהוָה֙|Yah·weh|And the LORD|H3068|N-proper-ms
 v11 אֵלַ֔י|’ê·lay|to me|H413|Prep | 1cs
@@ -186,7 +186,7 @@ v12 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v12 לֽוֹא־|lō·w-|I will no longer|H3808|Adv-NegPrt
 v12 אַפִּ֥יל|’ap·pîl|look on you with anger|H5307|V-Hifil-Imperf-1cs
 v12 פָּנַ֖י|pā·nay|...|H6440|N-mpc | 1cs
-v12 בָּכֶ֑ם|bā·ḵem||H0|Prep | 2mp
+v12 בָּכֶ֑ם|bā·ḵem|-|H0|Prep | 2mp
 v12 כִּֽי־|kî-|for|H3588|Conj
 v12 חָסִ֤יד|ḥā·sîḏ|merciful|H2623|Adj-ms
 v12 אֲנִי֙|’ă·nî|I [am]|H589|Pro-1cs
@@ -223,7 +223,7 @@ v14 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v14 כִּ֥י|kî|for|H3588|Conj
 v14 אָנֹכִ֖י|’ā·nō·ḵî|I|H595|Pro-1cs
 v14 בָּעַ֣לְתִּי|bā·‘al·tî|am your master|H1166|V-Qal-Perf-1cs
-v14 בָכֶ֑ם|ḇā·ḵem||H0|Prep | 2mp
+v14 בָכֶ֑ם|ḇā·ḵem|-|H0|Prep | 2mp
 v14 וְלָקַחְתִּ֨י|wə·lā·qaḥ·tî|and I will take|H3947|Conj-w | V-Qal-ConjPerf-1cs
 v14 אֶתְכֶ֜ם|’eṯ·ḵem|you|H853|DirObjM | 2mp
 v14 אֶחָ֣ד|’e·ḥāḏ|one|H259|Number-ms
@@ -275,7 +275,7 @@ v17 לִירוּשָׁלִַ֙ם֙|lî·rū·šā·lim|Jerusalem|H3389|Prep-l | 
 v17 כִּסֵּ֣א|kis·sê|The Throne|H3678|N-msc
 v17 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v17 וְנִקְוּ֨וּ|wə·niqw·wū|will be gathered|H6960|Conj-w | V-Nifal-ConjPerf-3cp
-v17 אֵלֶ֧יהָ|’ê·le·hā||H413|Prep | 3fs
+v17 אֵלֶ֧יהָ|’ê·le·hā|-|H413|Prep | 3fs
 v17 כָֽל־|ḵāl|and all|H3605|N-msc
 v17 הַגּוֹיִ֛ם|hag·gō·w·yim|the nations|H1471|Art | N-mp
 v17 לְשֵׁ֥ם|lə·šêm|to [honor] the name|H8034|Prep-l | N-msc
@@ -287,7 +287,7 @@ v17 ע֔וֹד|‘ō·wḏ|...|H5750|Adv
 v17 אַחֲרֵ֕י|’a·ḥă·rê|...|H310|Prep
 v17 שְׁרִר֖וּת|šə·ri·rūṯ|the stubbornness|H8307|N-fsc
 v17 לִבָּ֥ם|lib·bām|hearts|H3820|N-msc | 3mp
-v17 הָרָֽע׃ס|hā·rā‘|of their evil|H7451|Art | Adj-ms
+v17 הָרָֽע׃|hā·rā‘|of their evil|H7451|Art | Adj-ms
 v18 בַּיָּמִ֣ים|bay·yā·mîm|days|H3117|Prep-b, Art | N-mp
 v18 הָהֵ֔מָּה|hā·hêm·māh|In those|H1992|Art | Pro-3mp
 v18 יֵלְכ֥וּ|yê·lə·ḵū|will walk|H1980|V-Qal-Imperf-3mp
@@ -407,4 +407,4 @@ v25 וְלֹ֣א|wə·lō|we have not|H3808|Conj-w | Adv-NegPrt
 v25 שָׁמַ֔עְנוּ|šā·ma‘·nū|obeyed|H8085|V-Qal-Perf-1cp
 v25 בְּק֖וֹל|bə·qō·wl|the voice|H6963|Prep-b | N-msc
 v25 יְהֹוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v25 אֱלֹהֵֽינוּ׃ס|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
+v25 אֱלֹהֵֽינוּ׃|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp

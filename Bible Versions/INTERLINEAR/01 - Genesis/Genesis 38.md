@@ -265,7 +265,7 @@ v21 וַיִּשְׁאַ֞ל|way·yiš·’al|He asked|H7592|Conj-w | V-Qal-Cons
 v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 אַנְשֵׁ֤י|’an·šê|the men|H582|N-mpc
 v21 מְקֹמָהּ֙|mə·qō·māh|of that place|H4725|N-msc | 3fs
-v21 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v21 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v21 אַיֵּ֧ה|’ay·yêh|Where|H346|Interrog
 v21 הַקְּדֵשָׁ֛ה|haq·qə·ḏê·šāh|is the shrine prostitute|H6948|Art | Adj-fs
 v21 הִ֥וא|hî|who|H1931|Pro-3fs
@@ -310,7 +310,7 @@ v24 כְּמִשְׁלֹ֣שׁ|kə·miš·lōš|three|H7969|Prep-k, Prep-m | Num
 v24 חֳדָשִׁ֗ים|ḥo·ḏā·šîm|months later|H2320|N-mp
 v24 וַיֻּגַּ֨ד|way·yug·gaḏ|was told|H5046|Conj-w | V-Hofal-ConsecImperf-3ms
 v24 לִֽיהוּדָ֤ה|lî·hū·ḏāh|Judah|H3063|Prep-l | N-proper-ms
-v24 לֵֽאמֹר֙|lê·mōr||H559|Prep-l | V-Qal-Inf
+v24 לֵֽאמֹר֙|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v24 זָֽנְתָה֙|zā·nə·ṯāh|has prostituted herself|H2181|V-Qal-Perf-3fs
 v24 תָּמָ֣ר|tā·mār|Tamar|H8559|N-proper-fs
 v24 כַּלָּתֶ֔ךָ|kal·lā·ṯe·ḵā|Your daughter-in-law|H3618|N-fsc | 2ms
@@ -329,7 +329,7 @@ v25 שָׁלְחָ֤ה|šā·lə·ḥāh|sent|H7971|V-Qal-Perf-3fs
 v25 אֶל־|’el-|to her|H413|Prep
 v25 חָמִ֙יהָ֙|ḥā·mî·hā|father-in-law|H2524|N-msc | 3fs
 v25 לֵאמֹ֔ר|lê·mōr|a message|H559|Prep-l | V-Qal-Inf
-v25 לְאִישׁ֙|lə·’îš||H376|Prep-l | N-ms
+v25 לְאִישׁ֙|lə·’îš|-|H376|Prep-l | N-ms
 v25 אֲשֶׁר־|’ă·šer-|by the man to whom|H834|Pro-r
 v25 אֵ֣לֶּה|’êl·leh|these items|H428|Pro-cp
 v25 לּ֔וֹ|lōw|belong|H0|Prep | 3ms
@@ -402,4 +402,4 @@ v30 יָד֖וֹ|yā·ḏōw|his wrist|H3027|N-fsc | 3ms
 v30 הַשָּׁנִ֑י|haš·šā·nî|the scarlet thread|H8144|Art | N-ms
 v30 וַיִּקְרָ֥א|way·yiq·rā|and he was named|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v30 שְׁמ֖וֹ|šə·mōw|...|H8034|N-msc | 3ms
-v30 זָֽרַח׃ס|zā·raḥ|Zerah|H2226|N-proper-ms
+v30 זָֽרַח׃|zā·raḥ|Zerah|H2226|N-proper-ms

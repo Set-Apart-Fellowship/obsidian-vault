@@ -106,7 +106,7 @@ v11 לְךָ֥|lə·ḵā|you|H0|Prep | 2ms
 v11 מֶ֙לֶךְ֙|me·leḵ|a king|H4428|N-ms
 v11 בְּאַפִּ֔י|bə·’ap·pî|So in My anger|H639|Prep-b | N-msc | 1cs
 v11 וְאֶקַּ֖ח|wə·’eq·qaḥ|I took [him] away|H3947|Conj-w | V-Qal-ConjImperf-1cs
-v11 בְּעֶבְרָתִֽי׃ס|bə·‘eḇ·rā·ṯî|and in My wrath|H5678|Prep-b | N-fsc | 1cs
+v11 בְּעֶבְרָתִֽי׃|bə·‘eḇ·rā·ṯî|and in My wrath|H5678|Prep-b | N-fsc | 1cs
 v12 צָרוּר֙|ṣā·rūr|[is] bound up|H6887|V-Qal-QalPassPrtcpl-ms
 v12 עֲוֺ֣ן|‘ă·wōn|The iniquity|H5771|N-csc
 v12 אֶפְרָ֔יִם|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
@@ -118,7 +118,7 @@ v13 יָבֹ֣אוּ|yā·ḇō·’ū|come|H935|V-Qal-Imperf-3mp
 v13 ל֑וֹ|lōw|upon him|H0|Prep | 3ms
 v13 הוּא־|hū-|but he is|H1931|Pro-3ms
 v13 בֵן֙|ḇên|son|H1121|N-ms
-v13 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v13 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v13 חָכָ֔ם|ḥā·ḵām|an unwise|H2450|Adj-ms
 v13 כִּֽי־|kî-|When|H3588|Conj
 v13 עֵ֥ת|‘êṯ|the time arrives|H6256|N-cs
@@ -171,4 +171,4 @@ v16 יִפֹּ֔לוּ|yip·pō·lū|They will fall|H5307|V-Qal-Imperf-3mp
 v16 עֹלְלֵיהֶ֣ם|‘ō·lə·lê·hem|their little ones|H5768|N-mpc | 3mp
 v16 יְרֻטָּ֔שׁוּ|yə·ruṭ·ṭā·šū|will be dashed to pieces|H7376|V-Pual-Imperf-3mp
 v16 וְהָרִיּוֹתָ֖יו|wə·hā·rî·yō·w·ṯāw|and their pregnant|H2030|Conj-w | N-fpc | 3ms
-v16 יְבֻקָּֽעוּ׃פ|yə·ḇuq·qā·‘ū|women ripped open|H1234|V-Pual-Imperf-3mp
+v16 יְבֻקָּֽעוּ׃|yə·ḇuq·qā·‘ū|women ripped open|H1234|V-Pual-Imperf-3mp

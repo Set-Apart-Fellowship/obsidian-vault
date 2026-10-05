@@ -27,7 +27,7 @@ v4 וְתוֹעֲפ֖וֹת|wə·ṯō·w·‘ă·p̄ō·wṯ|peaks|H8443|Conj-
 v4 הָרִ֣ים|hā·rîm|and the mountain|H2022|N-mp
 v4 לֽוֹ׃|lōw|belong to Him|H0|Prep | 3ms
 v5 אֲשֶׁר־|’ă·šer-|is His|H834|Pro-r
-v5 ל֣וֹ|lōw||H0|Prep | 3ms
+v5 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v5 הַ֭יָּם|hay·yām|The sea|H3220|Art | N-ms
 v5 וְה֣וּא|wə·hū|for He|H1931|Conj-w | Pro-3ms
 v5 עָשָׂ֑הוּ|‘ā·śā·hū|made it|H6213|V-Qal-Perf-3ms | 3ms

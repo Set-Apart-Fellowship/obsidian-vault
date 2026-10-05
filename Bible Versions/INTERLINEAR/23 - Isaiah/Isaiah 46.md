@@ -13,13 +13,13 @@ v1 לַעֲיֵפָֽה׃|la·‘ă·yê·p̄āh|to the weary [animal]|H5889|Pr
 v2 קָרְס֤וּ|qā·rə·sū|The gods cower|H7164|V-Qal-Perf-3cp
 v2 כָֽרְעוּ֙|ḵā·rə·‘ū|they crouch|H3766|V-Qal-Perf-3cp
 v2 יַחְדָּ֔ו|yaḥ·dāw|together|H3162|Adv
-v2 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
+v2 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v2 יָכְל֖וּ|yā·ḵə·lū|unable|H3201|V-Qal-Perf-3cp
 v2 מַלֵּ֣ט|mal·lêṭ|to relieve|H4422|V-Piel-Inf
 v2 מַשָּׂ֑א|maś·śā|the burden|H4853|N-ms
 v2 וְנַפְשָׁ֖ם|wə·nap̄·šām|but they|H5315|Conj-w | N-fsc | 3mp
 v2 בַּשְּׁבִ֥י|baš·šə·ḇî|into captivity|H7628|Prep-b, Art | N-ms
-v2 הָלָֽכָה׃ס|hā·lā·ḵāh|themselves go|H1980|V-Qal-Perf-3fs
+v2 הָלָֽכָה׃|hā·lā·ḵāh|themselves go|H1980|V-Qal-Perf-3fs
 v3 שִׁמְע֤וּ|šim·‘ū|Listen|H8085|V-Qal-Imp-mp
 v3 אֵלַי֙|’ê·lay|to Me|H413|Prep | 1cs
 v3 בֵּ֣ית|bêṯ|O house|H1004|N-msc
@@ -48,7 +48,7 @@ v4 וַאֲנִ֣י|wa·’ă·nî|and I|H589|Conj-w | Pro-1cs
 v4 אֶשָּׂ֔א|’eś·śā|will carry you|H5375|V-Qal-Imperf-1cs
 v4 וַאֲנִ֥י|wa·’ă·nî|I|H589|Conj-w | Pro-1cs
 v4 אֶסְבֹּ֖ל|’es·bōl|will sustain you|H5445|V-Qal-Imperf-1cs
-v4 וַאֲמַלֵּֽט׃ס|wa·’ă·mal·lêṭ|and deliver you|H4422|Conj-w | V-Piel-ConjImperf-1cs
+v4 וַאֲמַלֵּֽט׃|wa·’ă·mal·lêṭ|and deliver you|H4422|Conj-w | V-Piel-ConjImperf-1cs
 v5 לְמִ֥י|lə·mî|To whom|H4310|Prep-l | Interrog
 v5 תְדַמְי֖וּנִי|ṯə·ḏam·yū·nî|will you liken Me|H1819|V-Piel-Imperf-2mp | 1cs
 v5 וְתַשְׁו֑וּ|wə·ṯaš·wū|or count Me equal|H7737|Conj-w | V-Hifil-ConjImperf-2mp
@@ -84,7 +84,7 @@ v7 וְלֹ֣א|wə·lō|but it does not|H3808|Conj-w | Adv-NegPrt
 v7 יַעֲנֶ֔ה|ya·‘ă·neh|answer|H6030|V-Qal-Imperf-3ms
 v7 מִצָּרָת֖וֹ|miṣ·ṣā·rā·ṯōw|from his troubles|H6869|Prep-m | N-fsc | 3ms
 v7 לֹ֥א|lō|no one|H3808|Adv-NegPrt
-v7 יוֹשִׁיעֶֽנּוּ׃ס|yō·wō·šî·‘en·nū|it saves|H3467|V-Hifil-Imperf-3ms | 3ms
+v7 יוֹשִׁיעֶֽנּוּ׃|yō·wō·šî·‘en·nū|it saves|H3467|V-Hifil-Imperf-3ms | 3ms
 v8 זִכְרוּ־|ziḵ·rū-|Remember|H2142|V-Qal-Imp-mp
 v8 זֹ֖את|zōṯ|this|H2063|Pro-fs
 v8 וְהִתְאֹשָׁ֑שׁוּ|wə·hiṯ·’ō·šā·šū|and be brave|H377|Conj-w | V-Hitpael-Imp-mp
@@ -129,7 +129,7 @@ v11 אַף־|’ap̄-|and truly|H637|Conj
 v11 אֲבִיאֶ֔נָּה|’ă·ḇî·’en·nāh|I will bring it to pass|H935|V-Hifil-Imperf-1cs | 3fs
 v11 יָצַ֖רְתִּי|yā·ṣar·tî|I have planned it|H3335|V-Qal-Perf-1cs
 v11 אַף־|’ap̄-|and I will surely|H637|Conj
-v11 אֶעֱשֶֽׂנָּה׃ס|’e·‘ĕ·śen·nāh|do it|H6213|V-Qal-Imperf-1cs | 3fs
+v11 אֶעֱשֶֽׂנָּה׃|’e·‘ĕ·śen·nāh|do it|H6213|V-Qal-Imperf-1cs | 3fs
 v12 שִׁמְע֥וּ|šim·‘ū|Listen|H8085|V-Qal-Imp-mp
 v12 אֵלַ֖י|’ê·lay|to Me|H413|Prep | 1cs
 v12 אַבִּ֣ירֵי|’ab·bî·rê|you stubborn|H47|Adj-mpc
@@ -147,4 +147,4 @@ v13 וְנָתַתִּ֤י|wə·nā·ṯat·tî|I will grant|H5414|Conj-w | V-Qa
 v13 בְצִיּוֹן֙|ḇə·ṣî·yō·wn|to Zion|H6726|Prep-b | N-proper-fs
 v13 תְּשׁוּעָ֔ה|tə·šū·‘āh|salvation|H8668|N-fs
 v13 לְיִשְׂרָאֵ֖ל|lə·yiś·rā·’êl|[and adorn] Israel|H3478|Prep-l | N-proper-ms
-v13 תִּפְאַרְתִּֽי׃ס|tip̄·’ar·tî|with My splendor|H8597|N-fsc | 1cs
+v13 תִּפְאַרְתִּֽי׃|tip̄·’ar·tî|with My splendor|H8597|N-fsc | 1cs

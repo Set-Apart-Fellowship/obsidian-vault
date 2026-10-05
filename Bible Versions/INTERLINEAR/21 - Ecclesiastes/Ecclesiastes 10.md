@@ -78,12 +78,12 @@ v9 בָּהֶ֑ם|bā·hem|by them|H0|Prep | 3mp
 v9 בּוֹקֵ֥עַ|bō·w·qê·a‘|and he who splits|H1234|V-Qal-Prtcpl-ms
 v9 עֵצִ֖ים|‘ê·ṣîm|logs|H6086|N-mp
 v9 יִסָּ֥כֶן|yis·sā·ḵen|endangers himself|H5533|V-Nifal-Imperf-3ms
-v9 בָּֽם׃|bām||H0|Prep | 3mp
+v9 בָּֽם׃|bām|-|H0|Prep | 3mp
 v10 אִם־|’im-|If|H518|Conj
 v10 קֵהָ֣ה|qê·hāh|is dull|H6949|V-Piel-Perf-3ms
 v10 הַבַּרְזֶ֗ל|hab·bar·zel|the axe|H1270|Art | N-ms
 v10 וְהוּא֙|wə·hū|and|H1931|Conj-w | Pro-3ms
-v10 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v10 לֹא־|lō-|...|H3808|Adv-NegPrt
 v10 פָנִ֣ים|p̄ā·nîm|the blade|H6440|N-mp
 v10 קִלְקַ֔ל|qil·qal|unsharpened|H7043|V-Piel-Perf-3ms
 v10 וַחֲיָלִ֖ים|wa·ḥă·yā·lîm|more strength|H2428|Conj-w | N-mp

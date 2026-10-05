@@ -11,7 +11,7 @@ v1 ὑπὲρ|hyper|for the sake of|G5228|Prep
 v1 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v1 τῶν|tōn|-|G3588|Art-GNP
 v1 ἐθνῶν|ethnōn|Gentiles|G1484|N-GNP
-v2 Εἴ|Ei|vvv|G1487|Conj
+v2 Εἴ|Ei|...|G1487|Conj
 v2 γε|ge|Surely|G1065|Prtcl
 v2 ἠκούσατε|ēkousate|you have heard about|G191|V-AIA-2P
 v2 τὴν|tēn|the|G3588|Art-AFS
@@ -34,7 +34,7 @@ v3 τὸ|to|the|G3588|Art-NNS
 v3 μυστήριον|mystērion|mystery|G3466|N-NNS
 v3 καθὼς|kathōs|as|G2531|Adv
 v3 προέγραψα|proegrapsa|I have already written|G4270|V-AIA-1S
-v3 ἐν|en|vvv|G1722|Prep
+v3 ἐν|en|...|G1722|Prep
 v3 ὀλίγῳ|oligō|briefly|G3641|Adj-DNS
 v4 πρὸς|pros|In|G4314|Prep
 v4 ὃ|ho|this, then|G3739|RelPro-ANS
@@ -52,14 +52,14 @@ v4 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v5 ὃ|ho|which|G3739|RelPro-NNS
 v5 ἑτέραις|heterais|in other|G2087|Adj-DFP
 v5 γενεαῖς|geneais|generations|G1074|N-DFP
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 ἐγνωρίσθη|egnōristhē|was not made known|G1107|V-AIP-3S
-v5 τοῖς|tois|vvv|G3588|Art-DMP
-v5 υἱοῖς|huiois|vvv|G5207|N-DMP
-v5 τῶν|tōn|vvv|G3588|Art-GMP
+v5 τοῖς|tois|...|G3588|Art-DMP
+v5 υἱοῖς|huiois|...|G5207|N-DMP
+v5 τῶν|tōn|...|G3588|Art-GMP
 v5 ἀνθρώπων|anthrōpōn|to men|G444|N-GMP
 v5 ὡς|hōs|as|G5613|Adv
-v5 νῦν|nyn|vvv|G3568|Adv
+v5 νῦν|nyn|...|G3568|Adv
 v5 ἀπεκαλύφθη|apekalyphthē|it has now been revealed|G601|V-AIP-3S
 v5 τοῖς|tois|to|G3588|Art-DMP
 v5 ἁγίοις|hagiois|holy|G40|Adj-DMP
@@ -162,7 +162,7 @@ v10 τοῦ|tou|-|G3588|Art-GMS
 v10 Θεοῦ|Theou|of God|G2316|N-GMS
 v11 κατὰ|kata|according to|G2596|Prep
 v11 πρόθεσιν|prothesin|purpose|G4286|N-AFS
-v11 τῶν|tōn|vvv|G3588|Art-GMP
+v11 τῶν|tōn|...|G3588|Art-GMP
 v11 αἰώνων|aiōnōn|[the] eternal|G165|N-GMP
 v11 ἣν|hēn|that|G3739|RelPro-AFS
 v11 ἐποίησεν|epoiēsen|He accomplished|G4160|V-AIA-3S

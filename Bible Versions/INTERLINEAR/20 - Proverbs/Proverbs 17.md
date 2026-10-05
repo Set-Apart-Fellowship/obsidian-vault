@@ -2,7 +2,7 @@ v1 ט֤וֹב|ṭō·wḇ|Better|H2896|Adj-ms
 v1 פַּ֣ת|paṯ|morsel|H6595|N-fs
 v1 חֲ֭רֵבָה|ḥă·rê·ḇāh|a dry|H2720|Adj-fs
 v1 וְשַׁלְוָה־|wə·šal·wāh-|in quietness|H7962|Conj-w | N-fs
-v1 בָ֑הּ|ḇāh||H0|Prep | 3fs
+v1 בָ֑הּ|ḇāh|-|H0|Prep | 3fs
 v1 מִ֝בַּ֗יִת|mib·ba·yiṯ|than a house|H1004|Prep-m | N-ms
 v1 מָלֵ֥א|mā·lê|full of|H4392|Adj-ms
 v1 זִבְחֵי־|ziḇ·ḥê-|feasting|H2077|N-mpc
@@ -89,7 +89,7 @@ v11 רָ֑ע|rā‘|An evil [man]|H7451|Adj-ms
 v11 וּמַלְאָ֥ךְ|ū·mal·’āḵ|messenger|H4397|Conj-w | N-ms
 v11 אַ֝כְזָרִ֗י|’aḵ·zā·rî|a cruel|H394|Adj-ms
 v11 יְשֻׁלַּח־|yə·šul·laḥ-|will be sent against him|H7971|V-Pual-Imperf-3ms
-v11 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v11 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v12 פָּג֬וֹשׁ|pā·ḡō·wōš|to meet|H6298|V-Qal-InfAbs
 v12 דֹּ֣ב|dōḇ|a bear|H1677|N-fs
 v12 שַׁכּ֣וּל|šak·kūl|robbed of her cubs|H7909|Adj-ms
@@ -166,7 +166,7 @@ v20 בְּרָעָֽה׃|bə·rā·‘āh|into trouble|H7451|Prep-b | Adj-fs
 v21 יֹלֵ֣ד|yō·lêḏ|A man fathers|H3205|V-Qal-Prtcpl-ms
 v21 כְּ֭סִיל|kə·sîl|a fool|H3684|N-ms
 v21 לְת֣וּגָה|lə·ṯū·ḡāh|to his own grief|H8424|Prep-l | N-fs
-v21 ל֑וֹ|lōw||H0|Prep | 3ms
+v21 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v21 וְלֹֽא־|wə·lō-|has no|H3808|Conj-w | Adv-NegPrt
 v21 יִ֝שְׂמַ֗ח|yiś·maḥ|joy|H8055|V-Qal-Imperf-3ms
 v21 אֲבִ֣י|’ă·ḇî|the father|H1|N-msc
@@ -186,7 +186,7 @@ v23 יִקָּ֑ח|yiq·qāḥ|takes|H3947|V-Qal-Imperf-3ms
 v23 לְ֝הַטּ֗וֹת|lə·haṭ·ṭō·wṯ|to subvert|H5186|Prep-l | V-Hifil-Inf
 v23 אָרְח֥וֹת|’ā·rə·ḥō·wṯ|the course|H734|N-cpc
 v23 מִשְׁפָּֽט׃|miš·pāṭ|of justice|H4941|N-ms
-v24 אֶת־|’eṯ-|vvv|H854|Prep
+v24 אֶת־|’eṯ-|...|H854|Prep
 v24 פְּנֵ֣י|pə·nê|is the focus|H6440|N-cpc
 v24 מֵבִ֣ין|mê·ḇîn|of the discerning|H995|V-Hifil-Prtcpl-ms
 v24 חָכְמָ֑ה|ḥāḵ·māh|Wisdom|H2451|N-fs

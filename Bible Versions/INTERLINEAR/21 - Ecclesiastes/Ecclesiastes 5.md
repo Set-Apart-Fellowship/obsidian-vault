@@ -210,7 +210,7 @@ v16 כֵּ֣ן|kên|so|H3651|Adv
 v16 יֵלֵ֑ךְ|yê·lêḵ|he will depart|H1980|V-Qal-Imperf-3ms
 v16 וּמַה־|ū·mah-|What|H4100|Conj-w | Interrog
 v16 יִּתְר֣וֹן|yiṯ·rō·wn|does he gain|H3504|N-ms
-v16 ל֔וֹ|lōw||H0|Prep | 3ms
+v16 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v16 שֶֽׁיַּעֲמֹ֖ל|še·ya·‘ă·mōl|as he toils|H5998|Pro-r | V-Qal-Imperf-3ms
 v16 לָרֽוּחַ׃|lā·rū·aḥ|for the wind|H7307|Prep-l, Art | N-cs
 v17 גַּ֥ם|gam|Moreover|H1571|Conj

@@ -2,7 +2,7 @@ v1 וְאַתָּ֤ה|wə·’at·tāh|Now you|H859|Conj-w | Pro-2ms
 v1 בֶן־|ḇen-|son|H1121|N-msc
 v1 אָדָם֙|’ā·ḏām|of man|H120|N-ms
 v1 קַח־|qaḥ-|take|H3947|V-Qal-Imp-ms
-v1 לְךָ֣|lə·ḵā||H0|Prep | 2ms
+v1 לְךָ֣|lə·ḵā|-|H0|Prep | 2ms
 v1 לְבֵנָ֔ה|lə·ḇê·nāh|a brick|H3843|N-fs
 v1 וְנָתַתָּ֥ה|wə·nā·ṯat·tāh|place|H5414|Conj-w | V-Qal-ConjPerf-2ms
 v1 אוֹתָ֖הּ|’ō·w·ṯāh|it|H853|DirObjM | 3fs
@@ -16,7 +16,7 @@ v2 וְנָתַתָּ֨ה|wə·nā·ṯat·tāh|Then lay|H5414|Conj-w | V-Qal-Co
 v2 עָלֶ֜יהָ|‘ā·le·hā|against it|H5921|Prep | 3fs
 v2 מָצ֗וֹר|mā·ṣō·wr|siege|H4692|N-ms
 v2 וּבָנִ֤יתָ|ū·ḇā·nî·ṯā|Construct|H1129|Conj-w | V-Qal-ConjPerf-2ms
-v2 עָלֶ֙יהָ֙|‘ā·le·hā||H5921|Prep | 3fs
+v2 עָלֶ֙יהָ֙|‘ā·le·hā|-|H5921|Prep | 3fs
 v2 דָּיֵ֔ק|dā·yêq|a siege wall|H1785|N-ms
 v2 וְשָׁפַכְתָּ֥|wə·šā·p̄aḵ·tā|build|H8210|Conj-w | V-Qal-ConjPerf-2ms
 v2 עָלֶ֖יהָ|‘ā·le·hā|to it|H5921|Prep | 3fs
@@ -30,7 +30,7 @@ v2 כָּרִ֖ים|kā·rîm|battering rams|H3733|N-mp
 v2 סָבִֽיב׃|sā·ḇîḇ|on all sides|H5439|Adv
 v3 וְאַתָּ֤ה|wə·’at·tāh|Then|H859|Conj-w | Pro-2ms
 v3 קַח־|qaḥ-|take|H3947|V-Qal-Imp-ms
-v3 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v3 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v3 מַחֲבַ֣ת|ma·ḥă·ḇaṯ|plate|H4227|N-fsc
 v3 בַּרְזֶ֔ל|bar·zel|an iron|H1270|N-ms
 v3 וְנָתַתָּ֤ה|wə·nā·ṯat·tāh|and set it up|H5414|Conj-w | V-Qal-ConjPerf-2ms
@@ -51,7 +51,7 @@ v3 עָלֶ֔יהָ|‘ā·le·hā|...|H5921|Prep | 3fs
 v3 א֥וֹת|’ō·wṯ|will be a sign|H226|N-cs
 v3 הִ֖יא|hî|This|H1931|Pro-3fs
 v3 לְבֵ֥ית|lə·ḇêṯ|to the house|H1004|Prep-l | N-msc
-v3 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v3 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v4 וְאַתָּ֤ה|wə·’at·tāh|Then|H859|Conj-w | Pro-2ms
 v4 שְׁכַב֙|šə·ḵaḇ|lie down|H7901|V-Qal-Imp-ms
 v4 עַל־|‘al-|on|H5921|Prep
@@ -74,7 +74,7 @@ v4 עֲוֺנָֽם׃|‘ă·wō·nām|their iniquity|H5771|N-csc | 3mp
 v5 וַאֲנִ֗י|wa·’ă·nî|For I|H589|Conj-w | Pro-1cs
 v5 נָתַ֤תִּֽי|nā·ṯat·tî|have assigned|H5414|V-Qal-Perf-1cs
 v5 לְךָ֙|lə·ḵā|to you|H0|Prep | 2ms
-v5 אֶת־|’eṯ-||H853|DirObjM
+v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 שְׁנֵ֣י|šə·nê|of years|H8141|N-fpc
 v5 עֲוֺנָ֔ם|‘ă·wō·nām|of their iniquity|H5771|N-csc | 3mp
 v5 לְמִסְפַּ֣ר|lə·mis·par|according to the number|H4557|Prep-l | N-msc
@@ -130,9 +130,9 @@ v8 עַד־|‘aḏ-|until|H5704|Prep
 v8 כַּלּוֹתְךָ֖|kal·lō·wṯ·ḵā|you have finished|H3615|V-Piel-Inf | 2ms
 v8 יְמֵ֥י|yə·mê|the days|H3117|N-mpc
 v8 מְצוּרֶֽךָ׃|mə·ṣū·re·ḵā|of your siege|H4692|N-msc | 2ms
-v9 וְאַתָּ֣ה|wə·’at·tāh|vvv|H859|Conj-w | Pro-2ms
+v9 וְאַתָּ֣ה|wə·’at·tāh|...|H859|Conj-w | Pro-2ms
 v9 קַח־|qaḥ-|But take|H3947|V-Qal-Imp-ms
-v9 לְךָ֡|lə·ḵā||H0|Prep | 2ms
+v9 לְךָ֡|lə·ḵā|-|H0|Prep | 2ms
 v9 חִטִּ֡ין|ḥiṭ·ṭîn|wheat|H2406|N-fp
 v9 וּ֠שְׂעֹרִים|ū·śə·‘ō·rîm|barley|H8184|Conj-w | N-fp
 v9 וּפ֨וֹל|ū·p̄ō·wl|beans|H6321|Conj-w | N-ms
@@ -187,7 +187,7 @@ v12 בְּגֶֽלְלֵי֙|bə·ḡel·lê|excrement|H1561|Prep-b | N-mpc
 v12 צֵאַ֣ת|ṣê·’aṯ|...|H6627|N-fsc
 v12 הָֽאָדָ֔ם|hā·’ā·ḏām|it over dried human|H120|Art | N-ms
 v12 תְּעֻגֶ֖נָה|tə·‘u·ḡe·nāh|after you bake|H5746|V-Qal-Imperf-2ms | 3fs
-v12 לְעֵינֵיהֶֽם׃ס|lə·‘ê·nê·hem|in the sight [of the people]|H5869|Prep-l | N-cdc | 3mp
+v12 לְעֵינֵיהֶֽם׃|lə·‘ê·nê·hem|in the sight [of the people]|H5869|Prep-l | N-cdc | 3mp
 v13 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 יְהוָ֔ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v13 כָּ֣כָה|kā·ḵāh|This is how|H3602|Adv
@@ -220,13 +220,13 @@ v14 וְלֹא־|wə·lō-|No|H3808|Conj-w | Adv-NegPrt
 v14 בָ֥א|ḇā|has ever entered|H935|V-Qal-Perf-3ms
 v14 בְּפִ֖י|bə·p̄î|my mouth|H6310|Prep-b | N-msc | 1cs
 v14 בְּשַׂ֥ר|bə·śar|meat|H1320|N-msc
-v14 פִּגּֽוּל׃ס|pig·gūl|unclean|H6292|N-ms
+v14 פִּגּֽוּל׃|pig·gūl|unclean|H6292|N-ms
 v15 וַיֹּ֣אמֶר|way·yō·mer|He replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 אֵלַ֔י|’ê·lay|...|H413|Prep | 1cs
 v15 רְאֵ֗ה|rə·’êh|Look|H7200|V-Qal-Imp-ms
 v15 נָתַ֤תִּֽי|nā·ṯat·tî|I will let|H5414|V-Qal-Perf-1cs
 v15 לְךָ֙|lə·ḵā|you|H0|Prep | 2ms
-v15 אֶת־|’eṯ-||H853|DirObjM
+v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 צְפוּעֵי|ṣə·p̄ū·ʿē|dung|H6832|N-mpc
 v15 הַבָּקָ֔ר|hab·bā·qār|use cow|H1241|Art | N-ms
 v15 תַּ֖חַת|ta·ḥaṯ|instead of|H8478|Prep
@@ -235,7 +235,7 @@ v15 הָֽאָדָ֑ם|hā·’ā·ḏām|human|H120|Art | N-ms
 v15 וְעָשִׂ֥יתָ|wə·‘ā·śî·ṯā|and you may bake|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v15 אֶֽת־|’eṯ-|-|H853|DirObjM
 v15 לַחְמְךָ֖|laḥ·mə·ḵā|your bread|H3899|N-msc | 2ms
-v15 עֲלֵיהֶֽם׃ס|‘ă·lê·hem|over that|H5921|Prep | 3mp
+v15 עֲלֵיהֶֽם׃|‘ă·lê·hem|over that|H5921|Prep | 3mp
 v16 וַיֹּ֣אמֶר|way·yō·mer|Then He told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 אֵלַ֗י|’ê·lay|me|H413|Prep | 1cs
 v16 בֶּן־|ben-|Son|H1121|N-msc
@@ -261,4 +261,4 @@ v17 וְנָשַׁ֙מּוּ֙|wə·nā·šam·mū|they will be appalled|H8074|C
 v17 אִ֣ישׁ|’îš|[at the sight of] one|H376|N-ms
 v17 וְאָחִ֔יו|wə·’ā·ḥîw|another|H251|Conj-w | N-msc | 3ms
 v17 וְנָמַ֖קּוּ|wə·nā·maq·qū|wasting away|H4743|Conj-w | V-Nifal-ConjPerf-3cp
-v17 בַּעֲוֺנָֽם׃פ|ba·‘ă·wō·nām|in their iniquity|H5771|Prep-b | N-csc | 3mp
+v17 בַּעֲוֺנָֽם׃|ba·‘ă·wō·nām|in their iniquity|H5771|Prep-b | N-csc | 3mp

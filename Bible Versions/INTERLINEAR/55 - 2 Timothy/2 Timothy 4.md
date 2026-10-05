@@ -40,7 +40,7 @@ v3 ὅτε|hote|when|G3753|Adv
 v3 τῆς|tēs|-|G3588|Art-GFS
 v3 ὑγιαινούσης|hygiainousēs|sound|G5198|V-PPA-GFS
 v3 διδασκαλίας|didaskalias|doctrine|G1319|N-GFS
-v3 οὐκ|ouk|vvv|G3756|Adv
+v3 οὐκ|ouk|...|G3756|Adv
 v3 ἀνέξονται|anexontai|men will not tolerate|G430|V-FIM-3P
 v3 ἀλλὰ|alla|but|G235|Conj
 v3 κατὰ|kata|to suit|G2596|Prep
@@ -210,7 +210,7 @@ v15 ὃν|hon|[him]|G3739|RelPro-AMS
 v15 καὶ|kai|too|G2532|Conj
 v15 σὺ|sy|You|G4771|PPro-N2S
 v15 φυλάσσου|phylassou|should beware of|G5442|V-PMM-2S
-v15 λίαν|lian|vvv|G3029|Adv
+v15 λίαν|lian|...|G3029|Adv
 v15 γὰρ|gar|for|G1063|Conj
 v15 ἀντέστη|antestē|he has vigorously opposed|G436|V-AIA-3S
 v15 τοῖς|tois|-|G3588|Art-DMP
@@ -228,7 +228,7 @@ v16 ἀλλὰ|alla|but|G235|Conj
 v16 πάντες|pantes|everyone|G3956|Adj-NMP
 v16 με|me|me|G1473|PPro-A1S
 v16 ἐγκατέλιπον|enkatelipon|deserted|G1459|V-AIA-3P
-v16 μὴ|mē|vvv|G3361|Adv
+v16 μὴ|mē|...|G3361|Adv
 v16 αὐτοῖς|autois|against them|G846|PPro-DM3P
 v16 λογισθείη|logistheiē|May it not be charged|G3049|V-AOP-3S
 v17 ὁ|ho|the|G3588|Art-NMS
@@ -274,8 +274,8 @@ v18 ἐπουράνιον|epouranion|heavenly|G2032|Adj-AFS
 v18 ᾧ|hō|To Him [be]|G3739|RelPro-DMS
 v18 ἡ|hē|the|G3588|Art-NFS
 v18 δόξα|doxa|glory|G1391|N-NFS
-v18 εἰς|eis|vvv|G1519|Prep
-v18 τοὺς|tous|vvv|G3588|Art-AMP
+v18 εἰς|eis|...|G1519|Prep
+v18 τοὺς|tous|...|G3588|Art-AMP
 v18 αἰῶνας|aiōnas|forever|G165|N-AMP
 v18 τῶν|tōn|[and]|G3588|Art-GMP
 v18 αἰώνων|aiōnōn|ever|G165|N-GMP

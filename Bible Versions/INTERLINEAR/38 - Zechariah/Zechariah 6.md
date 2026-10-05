@@ -95,7 +95,7 @@ v8 הֵנִ֥יחוּ|hê·nî·ḥū|have given rest|H5117|V-Hifil-Perf-3cp
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 רוּחִ֖י|rū·ḥî|to My Spirit|H7307|N-csc | 1cs
 v8 בְּאֶ֥רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
-v8 צָפֽוֹן׃ס|ṣā·p̄ō·wn|of the north|H6828|N-fs
+v8 צָפֽוֹן׃|ṣā·p̄ō·wn|of the north|H6828|N-fs
 v9 וַיְהִ֥י|way·hî|also came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v9 דְבַר־|ḏə·ḇar-|The word|H1697|N-msc
 v9 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -110,10 +110,10 @@ v10 טוֹבִיָּ֖ה|ṭō·w·ḇî·yāh|Tobijah|H2900|N-proper-ms
 v10 וּמֵאֵ֣ת|ū·mê·’êṯ|...|H854|Conj-w, Prep-m | DirObjM
 v10 יְדַֽעְיָ֑ה|yə·ḏa‘·yāh|and Jedaiah|H3048|N-proper-ms
 v10 וּבָאתָ֤|ū·ḇā·ṯā|and go|H935|Conj-w | V-Qal-ConjPerf-2ms
-v10 אַתָּה֙|’at·tāh||H859|Pro-2ms
+v10 אַתָּה֙|’at·tāh|-|H859|Pro-2ms
 v10 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v10 הַה֔וּא|ha·hū|that same|H1931|Art | Pro-3ms
-v10 וּבָ֗אתָ|ū·ḇā·ṯā||H935|Conj-w | V-Qal-ConjPerf-2ms
+v10 וּבָ֗אתָ|ū·ḇā·ṯā|-|H935|Conj-w | V-Qal-ConjPerf-2ms
 v10 בֵּ֚ית|bêṯ|to the house|H1004|N-msc
 v10 יֹאשִׁיָּ֣ה|yō·šî·yāh|of Josiah|H2977|N-proper-ms
 v10 בֶן־|ḇen-|son|H1121|N-msc
@@ -135,7 +135,7 @@ v11 הַכֹּהֵ֥ן|hak·kō·hên|priest|H3548|Art | N-ms
 v11 הַגָּדֽוֹל׃|hag·gā·ḏō·wl|of the high|H1419|Art | Adj-ms
 v12 וְאָמַרְתָּ֤|wə·’ā·mar·tā|And you are to tell him|H559|Conj-w | V-Qal-ConjPerf-2ms
 v12 אֵלָיו֙|’ê·lāw|...|H413|Prep | 3ms
-v12 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v12 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v12 כֹּ֥ה|kōh|that this is what|H3541|Adv
 v12 אָמַ֛ר|’ā·mar|...|H559|V-Qal-Perf-3ms
 v12 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -200,4 +200,4 @@ v15 שָׁמ֣וֹעַ|šā·mō·w·a‘|you diligently obey|H8085|V-Qal-InfAbs
 v15 תִּשְׁמְע֔וּן|tiš·mə·‘ūn|...|H8085|V-Qal-Imperf-2mp | Pn
 v15 בְּק֖וֹל|bə·qō·wl|the voice|H6963|Prep-b | N-msc
 v15 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v15 אֱלֹהֵיכֶֽם׃ס|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
+v15 אֱלֹהֵיכֶֽם׃|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp

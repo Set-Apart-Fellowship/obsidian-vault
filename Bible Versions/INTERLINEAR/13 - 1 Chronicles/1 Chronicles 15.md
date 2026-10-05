@@ -22,7 +22,7 @@ v2 כִּ֖י|kî|one but|H3588|Conj
 v2 אִם־|’im-|...|H518|Conj
 v2 הַלְוִיִּ֑ם|hal·wî·yim|the Levites|H3881|Art | N-proper-mp
 v2 כִּי־|kî-|because|H3588|Conj
-v2 בָ֣ם׀|ḇām||H0|Prep | 3mp
+v2 בָ֣ם׀|ḇām|-|H0|Prep | 3mp
 v2 בָּחַ֣ר|bā·ḥar|has chosen them|H977|V-Qal-Perf-3ms
 v2 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
 v2 לָשֵׂ֞את|lā·śêṯ|to carry|H5375|Prep-l | V-Qal-Inf
@@ -31,7 +31,7 @@ v2 אֲר֧וֹן|’ă·rō·wn|the ark|H727|N-csc
 v2 יְהוָ֛ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v2 וּֽלְשָׁרְת֖וֹ|ū·lə·šā·rə·ṯōw|and to minister|H8334|Conj-w, Prep-l | V-Piel-Inf | 3ms
 v2 עַד־|‘aḏ-|before Him|H5704|Prep
-v2 עוֹלָֽם׃ס|‘ō·w·lām|forever|H5769|N-ms
+v2 עוֹלָֽם׃|‘ō·w·lām|forever|H5769|N-ms
 v3 וַיַּקְהֵ֥ל|way·yaq·hêl|assembled|H6950|Conj-w | V-Hifil-ConsecImperf-3ms
 v3 דָּוִ֛יד|dā·wîḏ|And David|H1732|N-proper-ms
 v3 אֶת־|’eṯ-|-|H853|DirObjM
@@ -61,33 +61,33 @@ v5 אוּרִיאֵ֣ל|’ū·rî·’êl|Uriel|H222|N-proper-ms
 v5 הַשָּׂ֔ר|haś·śār|the chief|H8269|Art | N-ms
 v5 וְאֶחָ֖יו|wə·’e·ḥāw|of his relatives|H251|Conj-w | N-mpc | 3ms
 v5 מֵאָ֥ה|mê·’āh|and 120|H3967|Number-fs
-v5 וְעֶשְׂרִֽים׃ס|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
+v5 וְעֶשְׂרִֽים׃|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
 v6 לִבְנֵ֖י|liḇ·nê|from the Merarites|H1121|Prep-l | N-mpc
 v6 מְרָרִ֑י|mə·rā·rî|...|H4847|N-proper-ms
 v6 עֲשָׂיָ֣ה|‘ă·śā·yāh|Asaiah|H6222|N-proper-ms
 v6 הַשָּׂ֔ר|haś·śār|the chief|H8269|Art | N-ms
 v6 וְאֶחָ֖יו|wə·’e·ḥāw|of his relatives|H251|Conj-w | N-mpc | 3ms
 v6 מָאתַ֥יִם|mā·ṯa·yim|and 220|H3967|Number-fd
-v6 וְעֶשְׂרִֽים׃ס|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
+v6 וְעֶשְׂרִֽים׃|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
 v7 לִבְנֵ֖י|liḇ·nê|from the Gershomites|H1121|Prep-l | N-mpc
 v7 גֵּרְשׁ֑וֹם|gê·rə·šō·wm|...|H1648|N-proper-ms
 v7 יוֹאֵ֣ל|yō·w·’êl|Joel|H3100|N-proper-ms
 v7 הַשָּׂ֔ר|haś·śār|the chief|H8269|Art | N-ms
 v7 וְאֶחָ֖יו|wə·’e·ḥāw|of his relatives|H251|Conj-w | N-mpc | 3ms
 v7 מֵאָ֥ה|mê·’āh|and 130|H3967|Number-fs
-v7 וּשְׁלֹשִֽׁים׃ס|ū·šə·lō·šîm|...|H7970|Conj-w | Number-cp
+v7 וּשְׁלֹשִֽׁים׃|ū·šə·lō·šîm|...|H7970|Conj-w | Number-cp
 v8 לִבְנֵ֖י|liḇ·nê|from the Elizaphanites|H1121|Prep-l | N-mpc
 v8 אֱלִֽיצָפָ֑ן|’ĕ·lî·ṣā·p̄ān|...|H469|N-proper-ms
 v8 שְׁמַֽעְיָ֥ה|šə·ma‘·yāh|Shemaiah|H8098|N-proper-ms
 v8 הַשָּׂ֖ר|haś·śār|the chief|H8269|Art | N-ms
 v8 וְאֶחָ֥יו|wə·’e·ḥāw|of his relatives|H251|Conj-w | N-mpc | 3ms
-v8 מָאתָֽיִם׃ס|mā·ṯā·yim|and 200|H3967|Number-fd
+v8 מָאתָֽיִם׃|mā·ṯā·yim|and 200|H3967|Number-fd
 v9 לִבְנֵ֖י|liḇ·nê|from the Hebronites|H1121|Prep-l | N-mpc
 v9 חֶבְר֑וֹן|ḥeḇ·rō·wn|...|H2275|N-proper-ms
 v9 אֱלִיאֵ֥ל|’ĕ·lî·’êl|Eliel|H447|N-proper-ms
 v9 הַשָּׂ֖ר|haś·śār|the chief|H8269|Art | N-ms
 v9 וְאֶחָ֥יו|wə·’e·ḥāw|of his relatives|H251|Conj-w | N-mpc | 3ms
-v9 שְׁמוֹנִֽים׃ס|šə·mō·w·nîm|and 80|H8084|Number-cp
+v9 שְׁמוֹנִֽים׃|šə·mō·w·nîm|and 80|H8084|Number-cp
 v10 לִבְנֵ֖י|liḇ·nê|[and] from the Uzzielites|H1121|Prep-l | N-mpc
 v10 עֻזִּיאֵ֑ל|‘uz·zî·’êl|...|H5816|N-proper-ms
 v10 עַמִּינָדָ֣ב|‘am·mî·nā·ḏāḇ|Amminadab|H5992|N-proper-ms
@@ -95,7 +95,7 @@ v10 הַשָּׂ֔ר|haś·śār|the chief|H8269|Art | N-ms
 v10 וְאֶחָ֕יו|wə·’e·ḥāw|of his relatives|H251|Conj-w | N-mpc | 3ms
 v10 מֵאָ֖ה|mê·’āh|and 112|H3967|Number-fs
 v10 וּשְׁנֵ֥ים|ū·šə·nêm|...|H8147|Conj-w | Number-md
-v10 עָשָֽׂר׃ס|‘ā·śār|...|H6240|Number-ms
+v10 עָשָֽׂר׃|‘ā·śār|...|H6240|Number-ms
 v11 וַיִּקְרָ֣א|way·yiq·rā|summoned|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v11 דָוִ֔יד|ḏā·wîḏ|David|H1732|N-proper-ms
 v11 לְצָד֥וֹק|lə·ṣā·ḏō·wq|Zadok|H6659|Prep-l | N-proper-ms
@@ -160,7 +160,7 @@ v15 כִּדְבַ֣ר|kiḏ·ḇar|in accordance with the word|H1697|Prep-k | N
 v15 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v15 בִּכְתֵפָ֥ם|biḵ·ṯê·p̄ām|on their shoulders|H3802|Prep-b | N-fsc | 3mp
 v15 בַּמֹּט֖וֹת|bam·mō·ṭō·wṯ|with the poles|H4133|Prep-b, Art | N-fp
-v15 עֲלֵיהֶֽם׃פ|‘ă·lê·hem|...|H5921|Prep | 3mp
+v15 עֲלֵיהֶֽם׃|‘ă·lê·hem|...|H5921|Prep | 3mp
 v16 וַיֹּ֣אמֶר|way·yō·mer|told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 דָּוִיד֮|dā·wîḏ|David also|H1732|N-proper-ms
 v16 לְשָׂרֵ֣י|lə·śā·rê|the leaders|H8269|Prep-l | N-mpc
@@ -177,7 +177,7 @@ v16 וּמְצִלְתָּ֑יִם|ū·mə·ṣil·tā·yim|and cymbals|H4700|Co
 v16 מַשְׁמִיעִ֥ים|maš·mî·‘îm|...|H8085|V-Hifil-Prtcpl-mp
 v16 לְהָרִֽים־|lə·hā·rîm-|to lift up|H7311|Prep-l | V-Hifil-Inf
 v16 בְּק֖וֹל|bə·qō·wl|their voices|H6963|Prep-b | N-ms
-v16 לְשִׂמְחָֽה׃פ|lə·śim·ḥāh|with joy|H8057|Prep-l | N-fs
+v16 לְשִׂמְחָֽה׃|lə·śim·ḥāh|with joy|H8057|Prep-l | N-fs
 v17 וַיַּעֲמִ֣ידוּ|way·ya·‘ă·mî·ḏū|appointed|H5975|Conj-w | V-Hifil-ConsecImperf-3mp
 v17 הַלְוִיִּ֗ם|hal·wî·yim|So the Levites|H3881|Art | N-proper-mp
 v17 אֵ֚ת|’êṯ|-|H853|DirObjM
@@ -211,7 +211,7 @@ v18 וּמַֽעֲשֵׂיָ֡הוּ|ū·ma·‘ă·śê·yā·hū|Maaseiah|H46
 v18 וּמַתִּתְיָהוּ֩|ū·mat·tiṯ·yā·hū|Mattithiah|H4993|Conj-w | N-proper-ms
 v18 וֶאֱלִ֨יפְלֵ֜הוּ|we·’ĕ·lî·p̄ə·lê·hū|Eliphelehu|H466|Conj-w | N-proper-ms
 v18 וּמִקְנֵיָ֨הוּ|ū·miq·nê·yā·hū|Mikneiah|H4737|Conj-w | N-proper-ms
-v18 וְעֹבֵ֥ד|wə·‘ō·ḇêḏ|vvv|H5654|
+v18 וְעֹבֵ֥ד|wə·‘ō·ḇêḏ|...|H5654|
 v18 אֱדֹ֛ם|’ĕ·ḏōm|Obed-edom|H5654|Conj-w | N-proper-ms
 v18 וִֽיעִיאֵ֖ל|wî·‘î·’êl|and Jeiel|H3273|Conj-w | N-proper-ms
 v18 הַשֹּׁעֲרִֽים׃|haš·šō·‘ă·rîm|and the gatekeepers|H7778|Art | N-mp
@@ -236,7 +236,7 @@ v20 עֲלָמֽוֹת׃|‘ă·lā·mō·wṯ|Alamoth|H5961|N-fp
 v21 וּמַתִּתְיָ֣הוּ|ū·mat·tiṯ·yā·hū|And Mattithiah|H4993|Conj-w | N-proper-ms
 v21 וֶאֱלִֽיפְלֵ֗הוּ|we·’ĕ·lî·p̄ə·lê·hū|Eliphelehu|H466|Conj-w | N-proper-ms
 v21 וּמִקְנֵיָ֙הוּ֙|ū·miq·nê·yā·hū|Mikneiah|H4737|Conj-w | N-proper-ms
-v21 וְעֹבֵ֣ד|wə·‘ō·ḇêḏ|vvv|H5654|
+v21 וְעֹבֵ֣ד|wə·‘ō·ḇêḏ|...|H5654|
 v21 אֱדֹ֔ם|’ĕ·ḏōm|Obed-edom|H5654|Conj-w | N-proper-ms
 v21 וִֽיעִיאֵ֖ל|wî·‘î·’êl|Jeiel|H3273|Conj-w | N-proper-ms
 v21 וַעֲזַזְיָ֑הוּ|wa·‘ă·zaz·yā·hū|and Azaziah|H5812|Conj-w | N-proper-ms
@@ -270,7 +270,7 @@ v24 בַּחֲצֹ֣צְר֔וֹת|ba·ḥă·ṣō·ṣə·rō·wṯ|the trump
 v24 לִפְנֵ֖י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v24 אֲר֣וֹן|’ă·rō·wn|the ark|H727|N-csc
 v24 הָֽאֱלֹהִ֑ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
-v24 וְעֹבֵ֤ד|wə·‘ō·ḇêḏ|vvv|H5654|
+v24 וְעֹבֵ֤ד|wə·‘ō·ḇêḏ|...|H5654|
 v24 אֱדֹם֙|’ĕ·ḏōm|Obed-edom|H5654|Conj-w | N-proper-ms
 v24 וִֽיחִיָּ֔ה|wî·ḥî·yāh|and Jehiah|H3174|Conj-w | N-proper-ms
 v24 שֹׁעֲרִ֖ים|šō·‘ă·rîm|were also to be guardians|H7778|N-mp
@@ -289,9 +289,9 @@ v25 בְּרִית־|bə·rîṯ-|of the covenant|H1285|N-fsc
 v25 יְהוָ֛ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v25 מִן־|min-|from|H4480|Prep
 v25 בֵּ֥ית|bêṯ|the house|H1004|N-msc
-v25 עֹבֵֽד־|‘ō·ḇêḏ-|vvv|H5654|
+v25 עֹבֵֽד־|‘ō·ḇêḏ-|...|H5654|
 v25 אֱדֹ֖ם|’ĕ·ḏōm|of Obed-edom|H5654|N-proper-ms
-v25 בְּשִׂמְחָֽה׃ס|bə·śim·ḥāh|with rejoicing|H8057|Prep-b | N-fs
+v25 בְּשִׂמְחָֽה׃|bə·śim·ḥāh|with rejoicing|H8057|Prep-b | N-fs
 v26 וַֽיְהִי֙|way·hî|...|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v26 בֶּעְזֹ֣ר|be‘·zōr|helped|H5826|Prep-b | V-Qal-Inf
 v26 הָֽאֱלֹהִ֔ים|hā·’ĕ·lō·hîm|And because God|H430|Art | N-mp
@@ -361,4 +361,4 @@ v29 מְרַקֵּ֣ד|mə·raq·qêḏ|dancing|H7540|V-Piel-Prtcpl-ms
 v29 וּמְשַׂחֵ֔ק|ū·mə·śa·ḥêq|and celebrating|H7832|Conj-w | V-Piel-Prtcpl-ms
 v29 וַתִּ֥בֶז|wat·ti·ḇez|and she despised|H959|Conj-w | V-Qal-ConsecImperf-3fs
 v29 ל֖וֹ|lōw|him|H0|Prep | 3ms
-v29 בְּלִבָּֽהּ׃פ|bə·lib·bāh|in her heart|H3820|Prep-b | N-msc | 3fs
+v29 בְּלִבָּֽהּ׃|bə·lib·bāh|in her heart|H3820|Prep-b | N-msc | 3fs

@@ -4,7 +4,7 @@ v1 אָמַ֧ר|’ā·mar|said|H559|V-Qal-Perf-3ms
 v1 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v1 אֵלַ֗י|’ê·lay|to me|H413|Prep | 1cs
 v1 פְּסָל־|pə·sāl-|Chisel out|H6458|V-Qal-Imp-ms
-v1 לְךָ֞|lə·ḵā||H0|Prep | 2ms
+v1 לְךָ֞|lə·ḵā|-|H0|Prep | 2ms
 v1 שְׁנֵֽי־|šə·nê-|two|H8147|Number-mdc
 v1 לֻוחֹ֤ת|lu·w·ḥōṯ|tablets|H3871|N-mpc
 v1 אֲבָנִים֙|’ă·ḇā·nîm|stone|H68|N-fp
@@ -13,7 +13,7 @@ v1 וַעֲלֵ֥ה|wa·‘ă·lêh|come up|H5927|Conj-w | V-Qal-Imp-ms
 v1 אֵלַ֖י|’ê·lay|to Me|H413|Prep | 1cs
 v1 הָהָ֑רָה|hā·hā·rāh|on the mountain|H2022|Art | N-ms | 3fs
 v1 וְעָשִׂ֥יתָ|wə·‘ā·śî·ṯā|and make|H6213|Conj-w | V-Qal-ConjPerf-2ms
-v1 לְּךָ֖|lə·ḵā||H0|Prep | 2ms
+v1 לְּךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v1 אֲר֥וֹן|’ă·rō·wn|an ark|H727|N-csc
 v1 עֵֽץ׃|‘êṣ|of wood|H6086|N-ms
 v2 וְאֶכְתֹּב֙|wə·’eḵ·tōḇ|And I will write|H3789|Conj-w | V-Qal-ConjImperf-1cs
@@ -83,7 +83,7 @@ v6 וּבְנֵ֣י|ū·ḇə·nê|The Israelites|H1121|Conj-w | N-mpc
 v6 יִשְׂרָאֵ֗ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v6 נָֽסְע֛וּ|nā·sə·‘ū|traveled|H5265|V-Qal-Perf-3cp
 v6 מִבְּאֵרֹ֥ת|mib·bə·’ê·rōṯ|from|H881|Prep
-v6 בְּנֵי־|bə·nê-|vvv|H1142|Prep
+v6 בְּנֵי־|bə·nê-|...|H1142|Prep
 v6 יַעֲקָ֖ן|ya·‘ă·qān|Beeroth Bene-jaakan|H1142|Prep | N-proper-fs
 v6 מוֹסֵרָ֑ה|mō·w·sê·rāh|to Moserah|H4149|N-proper-fs
 v6 שָׁ֣ם|šām|where|H8033|Adv
@@ -177,7 +177,7 @@ v11 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v11 נִשְׁבַּ֥עְתִּי|niš·ba‘·tî|I swore|H7650|V-Nifal-Perf-1cs
 v11 לַאֲבֹתָ֖ם|la·’ă·ḇō·ṯām|their fathers|H1|Prep-l | N-mpc | 3mp
 v11 לָתֵ֥ת|lā·ṯêṯ|to give them|H5414|Prep-l | V-Qal-Inf
-v11 לָהֶֽם׃פ|lā·hem|to|H0|Prep | 3mp
+v11 לָהֶֽם׃|lā·hem|to|H0|Prep | 3mp
 v12 וְעַתָּה֙|wə·‘at·tāh|And now|H6258|Conj-w | Adv
 v12 יִשְׂרָאֵ֔ל|yiś·rā·’êl|O Israel|H3478|N-proper-ms
 v12 מָ֚ה|māh|what|H4100|Interrog
@@ -215,7 +215,7 @@ v13 אָנֹכִ֥י|’ā·nō·ḵî|I|H595|Pro-1cs
 v13 מְצַוְּךָ֖|mə·ṣaw·wə·ḵā|am giving you|H6680|V-Piel-Prtcpl-msc | 2ms
 v13 הַיּ֑וֹם|hay·yō·wm|this day|H3117|Art | N-ms
 v13 לְט֖וֹב|lə·ṭō·wḇ|for your own good|H2896|Prep-l | Adj-ms
-v13 לָֽךְ׃|lāḵ||H0|Prep | 2ms
+v13 לָֽךְ׃|lāḵ|-|H0|Prep | 2ms
 v14 הֵ֚ן|hên|Behold|H2005|Interjection
 v14 לַיהוָ֣ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v14 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms

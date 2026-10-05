@@ -76,7 +76,7 @@ v4 Ἰησοῦν|Iēsoun|Jesus|G2424|N-AMS
 v4 Χριστὸν|Christon|Christ|G5547|N-AMS
 v4 ἀρνούμενοι|arnoumenoi|they deny|G720|V-PPM/P-NMP
 v5 Ὑπομνῆσαι|Hypomnēsai|to remind|G5279|V-ANA
-v5 δὲ|de|vvv|G1161|Conj
+v5 δὲ|de|...|G1161|Conj
 v5 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v5 βούλομαι|boulomai|I want|G1014|V-PIM/P-1S
 v5 εἰδότας|eidotas|Although you are fully aware of this|G1492|V-RPA-AMP
@@ -93,13 +93,13 @@ v5 σώσας|sōsas|had delivered|G4982|V-APA-NMS
 v5 τὸ|to|-|G3588|Art-ANS
 v5 δεύτερον|deuteron|after|G1208|Adj-ANS
 v5 τοὺς|tous|those who|G3588|Art-AMP
-v5 μὴ|mē|vvv|G3361|Adv
+v5 μὴ|mē|...|G3361|Adv
 v5 πιστεύσαντας|pisteusantas|did not believe|G4100|V-APA-AMP
 v5 ἀπώλεσεν|apōlesen|He destroyed|G622|V-AIA-3S
 v6 ἀγγέλους|angelous|[the] angels|G32|N-AMP
 v6 τε|te|And|G5037|Conj
 v6 τοὺς|tous|who|G3588|Art-AMP
-v6 μὴ|mē|vvv|G3361|Adv
+v6 μὴ|mē|...|G3361|Adv
 v6 τηρήσαντας|tērēsantas|did not stay within|G5083|V-APA-AMP
 v6 τὴν|tēn|[own]|G3588|Art-AFS
 v6 ἑαυτῶν|heautōn|their|G1438|RefPro-GM3P
@@ -166,12 +166,12 @@ v9 ὅτε|hote|when|G3753|Adv
 v9 τῷ|tō|with the|G3588|Art-DMS
 v9 διαβόλῳ|diabolō|devil|G1228|Adj-DMS
 v9 διακρινόμενος|diakrinomenos|he disputed|G1252|V-PPM-NMS
-v9 διελέγετο|dielegeto|vvv|G1256|V-IIM/P-3S
+v9 διελέγετο|dielegeto|...|G1256|V-IIM/P-3S
 v9 περὶ|peri|over|G4012|Prep
 v9 τοῦ|tou|the|G3588|Art-GNS
 v9 Μωϋσέως|Mōuseōs|of Moses|G3475|N-GMS
 v9 σώματος|sōmatos|body|G4983|N-GNS
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἐτόλμησεν|etolmēsen|did not presume|G5111|V-AIA-3S
 v9 κρίσιν|krisin|charge {against him}|G2920|N-AFS
 v9 ἐπενεγκεῖν|epenenkein|to bring|G2018|V-ANA
@@ -185,7 +185,7 @@ v10 οὗτοι|houtoi|These [men]|G3778|DPro-NMP
 v10 δὲ|de|however|G1161|Conj
 v10 ὅσα|hosa|-|G3745|RelPro-ANP
 v10 μὲν|men|-|G3303|Conj
-v10 οὐκ|ouk|vvv|G3756|Adv
+v10 οὐκ|ouk|...|G3756|Adv
 v10 οἴδασιν|oidasin|they do not understand|G1492|V-RIA-3P
 v10 βλασφημοῦσιν|blasphēmousin|slander|G987|V-PIA-3P
 v10 ὅσα|hosa|what|G3745|RelPro-ANP
@@ -257,7 +257,7 @@ v13 ὁ|ho|-|G3588|Art-NMS
 v13 ζόφος|zophos|blackest|G2217|N-NMS
 v13 τοῦ|tou|-|G3588|Art-GNS
 v13 σκότους|skotous|darkness|G4655|N-GNS
-v13 εἰς|eis|vvv|G1519|Prep
+v13 εἰς|eis|...|G1519|Prep
 v13 αἰῶνα|aiōna|forever|G165|N-AMS
 v13 τετήρηται|tetērētai|has been reserved|G5083|V-RIM/P-3S
 v14 Προεφήτευσεν*|Proephēteusen|prophesied|G4395|V-AIA-3S
@@ -328,8 +328,8 @@ v17 δέ|de|But|G1161|Conj
 v17 ἀγαπητοί|agapētoi|beloved|G27|Adj-VMP
 v17 μνήσθητε|mnēsthēte|remember|G3403|V-AMP-2P
 v17 τῶν|tōn|what|G3588|Art-GNP
-v17 ῥημάτων|rhēmatōn|vvv|G4487|N-GNP
-v17 τῶν|tōn|vvv|G3588|Art-GNP
+v17 ῥημάτων|rhēmatōn|...|G4487|N-GNP
+v17 τῶν|tōn|...|G3588|Art-GNP
 v17 προειρημένων|proeirēmenōn|was foretold|G4302|V-RPM/P-GNP
 v17 ὑπὸ|hypo|by|G5259|Prep
 v17 τῶν|tōn|the|G3588|Art-GMP
@@ -353,7 +353,7 @@ v18 τὰς|tas|-|G3588|Art-AFP
 v18 ἑαυτῶν|heautōn|their own|G1438|RefPro-GM3P
 v18 ἐπιθυμίας|epithymias|desires|G1939|N-AFP
 v18 πορευόμενοι|poreuomenoi|who will follow|G4198|V-PPM/P-NMP
-v18 τῶν|tōn|vvv|G3588|Art-GFP
+v18 τῶν|tōn|...|G3588|Art-GFP
 v18 ἀσεβειῶν|asebeiōn|ungodly|G763|N-GFP
 v19 Οὗτοί|Houtoi|These|G3778|DPro-NMP
 v19 εἰσιν|eisin|are|G1510|V-PIA-3P
@@ -361,7 +361,7 @@ v19 οἱ|hoi|the [ones who]|G3588|Art-NMP
 v19 ἀποδιορίζοντες|apodiorizontes|cause divisions|G592|V-PPA-NMP
 v19 ψυχικοί|psychikoi|[who are] worldly|G5591|Adj-NMP
 v19 Πνεῦμα|Pneuma|[the] Spirit|G4151|N-ANS
-v19 μὴ|mē|vvv|G3361|Adv
+v19 μὴ|mē|...|G3361|Adv
 v19 ἔχοντες|echontes|[and] devoid of|G2192|V-PPA-NMP
 v20 Ὑμεῖς|Hymeis|you|G4771|PPro-N2P
 v20 δέ|de|But|G1161|Conj

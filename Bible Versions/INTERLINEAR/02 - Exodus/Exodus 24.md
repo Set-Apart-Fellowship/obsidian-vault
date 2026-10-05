@@ -153,7 +153,7 @@ v11 וַֽיֶּחֱזוּ֙|way·ye·ḥĕ·zū|they saw|H2372|Conj-w | V-Qal-C
 v11 אֶת־|’eṯ-|Him|H853|DirObjM
 v11 הָ֣אֱלֹהִ֔ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
 v11 וַיֹּאכְל֖וּ|way·yō·ḵə·lū|and they ate|H398|Conj-w | V-Qal-ConsecImperf-3mp
-v11 וַיִּשְׁתּֽוּ׃ס|way·yiš·tū|and drank|H8354|Conj-w | V-Qal-ConsecImperf-3mp
+v11 וַיִּשְׁתּֽוּ׃|way·yiš·tū|and drank|H8354|Conj-w | V-Qal-ConsecImperf-3mp
 v12 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v12 אֶל־|’el-|to|H413|Prep
@@ -234,7 +234,7 @@ v17 אֹכֶ֖לֶת|’ō·ḵe·leṯ|was like a consuming|H398|V-Qal-Prtcpl-f
 v17 בְּרֹ֣אשׁ|bə·rōš|on the mountaintop|H7218|Prep-b | N-msc
 v17 הָהָ֑ר|hā·hār|...|H2022|Art | N-ms
 v17 לְעֵינֵ֖י|lə·‘ê·nê|in the eyes|H5869|Prep-l | N-cdc
-v17 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v17 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v17 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v18 וַיָּבֹ֥א|way·yā·ḇō|entered|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v18 מֹשֶׁ֛ה|mō·šeh|Moses|H4872|N-proper-ms
@@ -249,4 +249,4 @@ v18 בָּהָ֔ר|bā·hār|on the mountain|H2022|Prep-b, Art | N-ms
 v18 אַרְבָּעִ֣ים|’ar·bā·‘îm|forty|H705|Number-cp
 v18 י֔וֹם|yō·wm|days|H3117|N-ms
 v18 וְאַרְבָּעִ֖ים|wə·’ar·bā·‘îm|and forty|H705|Conj-w | Number-cp
-v18 לָֽיְלָה׃פ|lā·yə·lāh|nights|H3915|N-ms
+v18 לָֽיְלָה׃|lā·yə·lāh|nights|H3915|N-ms

@@ -44,7 +44,7 @@ v4 אֵ֚ת|’êṯ|-|H853|DirObjM
 v4 נֶ֣שֶׁף|ne·šep̄|The twilight|H5399|N-msc
 v4 חִשְׁקִ֔י|ḥiš·qî|I desired|H2837|N-msc | 1cs
 v4 שָׂ֥ם|śām|has turned|H7760|V-Qal-Perf-3ms
-v4 לִ֖י|lî||H0|Prep | 1cs
+v4 לִ֖י|lî|-|H0|Prep | 1cs
 v4 לַחֲרָדָֽה׃|la·ḥă·rā·ḏāh|to horror|H2731|Prep-l, Art | N-fs
 v5 עָרֹ֧ךְ|‘ā·rōḵ|They prepare|H6186|V-Qal-InfAbs
 v5 הַשֻּׁלְחָ֛ן|haš·šul·ḥān|a table|H7979|Art | N-ms
@@ -55,7 +55,7 @@ v5 שָׁתֹ֑ה|šā·ṯōh|they drink|H8354|V-Qal-InfAbs
 v5 ק֥וּמוּ|qū·mū|Rise up|H6965|V-Qal-Imp-mp
 v5 הַשָּׂרִ֖ים|haś·śā·rîm|O princes|H8269|Art | N-mp
 v5 מִשְׁח֥וּ|miš·ḥū|oil|H4886|V-Qal-Imp-mp
-v5 מָגֵֽן׃פ|mā·ḡên|the shields|H4043|N-cs
+v5 מָגֵֽן׃|mā·ḡên|the shields|H4043|N-cs
 v6 כִּ֣י|kî|For|H3588|Conj
 v6 כֹ֥ה|ḵōh|this [is what]|H3541|Adv
 v6 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -122,7 +122,7 @@ v10 צְבָא֛וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v10 אֱלֹהֵ֥י|’ĕ·lō·hê|the God|H430|N-mpc
 v10 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v10 הִגַּ֥דְתִּי|hig·gaḏ·tî|I tell|H5046|V-Hifil-Perf-1cs
-v10 לָכֶֽם׃ס|lā·ḵem|you|H0|Prep | 2mp
+v10 לָכֶֽם׃|lā·ḵem|you|H0|Prep | 2mp
 v11 מַשָּׂ֖א|maś·śā|[This is] the burden|H4853|N-msc
 v11 דּוּמָ֑ה|dū·māh|against Dumah|H1746|N-proper-fs
 v11 אֵלַי֙|’ê·lay|to me|H413|Prep | 1cs
@@ -144,7 +144,7 @@ v12 אִם־|’im-|If|H518|Conj
 v12 תִּבְעָי֥וּן|tiḇ·‘ā·yūn|you would inquire|H1158|V-Qal-Imperf-2mp | Pn
 v12 בְּעָ֖יוּ|bə·‘ā·yū|then inquire|H1158|V-Qal-Imp-mp
 v12 שֻׁ֥בוּ|šu·ḇū|yet again|H7725|V-Qal-Imp-mp
-v12 אֵתָֽיוּ׃ס|’ê·ṯā·yū|Come back|H857|V-Qal-Imp-mp
+v12 אֵתָֽיוּ׃|’ê·ṯā·yū|Come back|H857|V-Qal-Imp-mp
 v13 מַשָּׂ֖א|maś·śā|[This is] the burden|H4853|N-ms
 v13 בַּעְרָ֑ב|ba‘·rāḇ|against Arabia|H6152|Prep-b | N-ms
 v13 בַּיַּ֤עַר|bay·ya·‘ar|In the thickets|H3293|Prep-b, Art | N-ms
@@ -157,7 +157,7 @@ v14 צָמֵ֖א|ṣā·mê|for the thirsty|H6771|Adj-ms
 v14 הֵתָ֣יוּ|hê·ṯā·yū|Bring|H857|V-Hifil-Imp-mp
 v14 מָ֑יִם|mā·yim|water|H4325|N-mp
 v14 יֹשְׁבֵי֙|yō·šə·ḇê|O dwellers|H3427|V-Qal-Prtcpl-mpc
-v14 אֶ֣רֶץ|’e·reṣ|vvv|H776|N-fsc
+v14 אֶ֣רֶץ|’e·reṣ|...|H776|N-fsc
 v14 תֵּימָ֔א|tê·mā|of Tema|H8485|N-proper-fs
 v14 בְּלַחְמ֖וֹ|bə·laḥ·mōw|with food|H3899|Prep-b | N-msc | 3ms
 v14 קִדְּמ֥וּ|qid·də·mū|meet|H6923|V-Piel-Perf-3cp
@@ -174,7 +174,7 @@ v15 קֶ֣שֶׁת|qe·šeṯ|the bow|H7198|N-fs
 v15 דְּרוּכָ֔ה|də·rū·ḵāh|that is bent|H1869|V-Qal-QalPassPrtcpl-fs
 v15 וּמִפְּנֵ֖י|ū·mip·pə·nê|and from|H6440|Conj-w, Prep-m | N-cpc
 v15 כֹּ֥בֶד|kō·ḇeḏ|the stress|H3514|N-msc
-v15 מִלְחָמָֽה׃ס|mil·ḥā·māh|of battle|H4421|N-fs
+v15 מִלְחָמָֽה׃|mil·ḥā·māh|of battle|H4421|N-fs
 v16 כִּי־|kî-|For|H3588|Conj
 v16 כֹ֛ה|ḵōh|this [is what]|H3541|Adv
 v16 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -199,4 +199,4 @@ v17 כִּ֛י|kî|For|H3588|Conj
 v17 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v17 אֱלֹהֵֽי־|’ĕ·lō·hê-|the God|H430|N-mpc
 v17 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v17 דִּבֵּֽר׃ס|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms
+v17 דִּבֵּֽר׃|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms

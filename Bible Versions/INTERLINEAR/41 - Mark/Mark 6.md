@@ -104,7 +104,7 @@ v4 τῇ|tē|[own]|G3588|Art-DFS
 v4 οἰκίᾳ|oikia|household|G3614|N-DFS
 v4 αὐτοῦ|autou|his|G846|PPro-GM3S
 v5 καὶ|kai|[So]|G2532|Conj
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 ἐδύνατο|edynato|He could not|G1410|V-IIM/P-3S
 v5 ἐκεῖ|ekei|there|G1563|Adv
 v5 ποιῆσαι|poiēsai|perform|G4160|V-ANA
@@ -195,7 +195,7 @@ v11 καὶ|kai|-|G2532|Conj
 v11 ὃς|hos|If|G3739|RelPro-NMS
 v11 ἂν|an|anyone|G302|Prtcl
 v11 τόπος|topos|place|G5117|N-NMS
-v11 μὴ|mē|vvv|G3361|Adv
+v11 μὴ|mē|...|G3361|Adv
 v11 δέξηται|dexētai|will not welcome|G1209|V-ASM-3S
 v11 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v11 μηδὲ|mēde|or|G3366|Conj
@@ -219,7 +219,7 @@ v12 ἐξελθόντες|exelthontes|they set out|G1831|V-APA-NMP
 v12 ἐκήρυξαν|ekēryxan|[and] preached|G2784|V-AIA-3P
 v12 ἵνα|hina|that|G2443|Conj
 v12 μετανοῶσιν|metanoōsin|[the people] should repent|G3340|V-PSA-3P
-v13 καὶ|kai|vvv|G2532|Conj
+v13 καὶ|kai|...|G2532|Conj
 v13 δαιμόνια|daimonia|demons|G1140|N-ANP
 v13 πολλὰ|polla|many|G4183|Adj-ANP
 v13 ἐξέβαλλον|exeballon|They also drove out|G1544|V-IIA-3P
@@ -295,7 +295,7 @@ v17 Ἰωάννην|Iōannēn|John|G2491|N-AMS
 v17 καὶ|kai|and|G2532|Conj
 v17 ἔδησεν|edēsen|bound|G1210|V-AIA-3S
 v17 αὐτὸν|auton|...|G846|PPro-AM3S
-v17 ἐν|en|vvv|G1722|Prep
+v17 ἐν|en|...|G1722|Prep
 v17 φυλακῇ|phylakē|[and] imprisoned|G5438|N-DFS
 v17 διὰ|dia|on account of|G1223|Prep
 v17 Ἡρῳδιάδα|Hērōdiada|Herodias|G2266|N-AFS
@@ -315,7 +315,7 @@ v18 Ἰωάννης|Iōannēs|John|G2491|N-NMS
 v18 τῷ|tō|-|G3588|Art-DMS
 v18 Ἡρῴδῃ|Hērōdē|Herod|G2264|N-DMS
 v18 ὅτι|hoti|-|G3754|Conj
-v18 Οὐκ|Ouk|vvv|G3756|Adv
+v18 Οὐκ|Ouk|...|G3756|Adv
 v18 ἔξεστίν|exestin|It is not lawful|G1832|V-PIA-3S
 v18 σοι|soi|for you|G4771|PPro-D2S
 v18 ἔχειν|echein|to have|G2192|V-PNA
@@ -334,7 +334,7 @@ v19 ἤθελεν|ēthelen|wanted|G2309|V-IIA-3S
 v19 αὐτὸν|auton|him|G846|PPro-AM3S
 v19 ἀποκτεῖναι|apokteinai|to kill|G615|V-ANA
 v19 καὶ|kai|But|G2532|Conj
-v19 οὐκ|ouk|vvv|G3756|Adv
+v19 οὐκ|ouk|...|G3756|Adv
 v19 ἠδύνατο|ēdynato|she had been unable|G1410|V-IIM/P-3S
 v20 ὁ|ho|-|G3588|Art-NMS
 v20 γὰρ|gar|because|G1063|Conj
@@ -354,7 +354,7 @@ v20 αὐτόν|auton|him|G846|PPro-AM3S
 v20 καὶ|kai|When|G2532|Conj
 v20 ἀκούσας|akousas|he heard|G191|V-APA-NMS
 v20 αὐτοῦ|autou|[John's words]|G846|PPro-GM3S
-v20 πολλὰ|polla|vvv|G4183|Adj-ANP
+v20 πολλὰ|polla|...|G4183|Adj-ANP
 v20 ἠπόρει|ēporei|he was greatly perplexed|G639|V-IIA-3S
 v20 καὶ|kai|yet|G2532|Conj
 v20 ἡδέως|hēdeōs|gladly|G2234|Adv
@@ -395,7 +395,7 @@ v22 ἤρεσεν|ēresen|she pleased|G700|V-AIA-3S
 v22 τῷ|tō|-|G3588|Art-DMS
 v22 Ἡρῴδῃ|Hērōdē|Herod|G2264|N-DMS
 v22 καὶ|kai|and|G2532|Conj
-v22 τοῖς|tois|vvv|G3588|Art-DMP
+v22 τοῖς|tois|...|G3588|Art-DMP
 v22 συνανακειμένοις|synanakeimenois|his guests|G4873|V-PPM/P-DMP
 v22 «ὁ|ho|the|G3588|Art-NMS
 v22 〈δὲ〉|de|and|G1161|Conj
@@ -406,7 +406,7 @@ v22 κορασίῳ|korasiō|girl|G2877|N-DNS
 v22 Αἴτησόν|Aitēson|Ask|G154|V-AMA-2S
 v22 με|me|me|G1473|PPro-A1S
 v22 ὃ|ho|for whatever|G3739|RelPro-ANS
-v22 ἐὰν|ean|vvv|G1437|Conj
+v22 ἐὰν|ean|...|G1437|Conj
 v22 θέλῃς|thelēs|you wish|G2309|V-PSA-2S
 v22 καὶ|kai|and|G2532|Conj
 v22 δώσω|dōsō|I will give [it]|G1325|V-FIA-1S
@@ -416,7 +416,7 @@ v23 ὤμοσεν|ōmosen|he swore|G3660|V-AIA-3S
 v23 αὐτῇ|autē|to her|G846|PPro-DF3S
 v23 [Πολλά]|Polla|Whatever|G4183|Adj-ANP
 v23 Ὅ¦τι|HO¦ti|-|G3754|Conj
-v23 ἐάν|ean|vvv|G1437|Conj
+v23 ἐάν|ean|...|G1437|Conj
 v23 με|me|of me|G1473|PPro-A1S
 v23 αἰτήσῃς|aitēsēs|you ask|G154|V-ASA-2S
 v23 δώσω|dōsō|I will give|G1325|V-FIA-1S
@@ -442,7 +442,7 @@ v24 κεφαλὴν|kephalēn|head|G2776|N-AFS
 v24 Ἰωάννου|Iōannou|of John|G2491|N-GMS
 v24 τοῦ|tou|the|G3588|Art-GMS
 v24 Βαπτίζοντος|Baptizontos|Baptist|G907|V-PPA-GMS
-v25 Καὶ|Kai|vvv|G2532|Conj
+v25 Καὶ|Kai|...|G2532|Conj
 v25 εἰσελθοῦσα|eiselthousa|[the girl] hurried back|G1525|V-APA-NFS
 v25 εὐθὺς|euthys|At once|G2112|Adv
 v25 μετὰ|meta|...|G3326|Prep
@@ -473,9 +473,9 @@ v26 διὰ|dia|but because of|G1223|Prep
 v26 τοὺς|tous|[his]|G3588|Art-AMP
 v26 ὅρκους|horkous|oaths|G3727|N-AMP
 v26 καὶ|kai|and|G2532|Conj
-v26 τοὺς|tous|vvv|G3588|Art-AMP
+v26 τοὺς|tous|...|G3588|Art-AMP
 v26 ἀνακειμένους|anakeimenous|his guests|G345|V-PPM/P-AMP
-v26 οὐκ|ouk|vvv|G3756|Adv
+v26 οὐκ|ouk|...|G3756|Adv
 v26 ἠθέλησεν|ēthelēsen|he did not want|G2309|V-AIA-3S
 v26 ἀθετῆσαι|athetēsai|to refuse|G114|V-ANA
 v26 αὐτήν|autēn|her|G846|PPro-AF3S
@@ -553,7 +553,7 @@ v31 καὶ|kai|And|G2532|Conj
 v31 λέγει|legei|He said|G3004|V-PIA-3S
 v31 αὐτοῖς|autois|to them|G846|PPro-DM3P
 v31 Δεῦτε|Deute|Come|G1205|V-M-2P
-v31 ὑμεῖς|hymeis|vvv|G4771|PPro-N2P
+v31 ὑμεῖς|hymeis|...|G4771|PPro-N2P
 v31 αὐτοὶ|autoi|privately|G846|PPro-NM3P
 v31 κατ’|kat’|with Me|G2596|Prep
 v31 ἰδίαν|idian|...|G2398|Adj-AFS
@@ -572,7 +572,7 @@ v31 οἱ|hoi|-|G3588|Art-NMP
 v31 ὑπάγοντες|hypagontes|going|G5217|V-PPA-NMP
 v31 πολλοί|polloi|many [people]|G4183|Adj-NMP
 v31 καὶ|kai|and|G2532|Conj
-v31 οὐδὲ|oude|vvv|G3761|Adv
+v31 οὐδὲ|oude|...|G3761|Adv
 v31 φαγεῖν|phagein|to eat|G5315|V-ANA
 v31 εὐκαίρουν|eukairoun|they did not even have time|G2119|V-IIA-3P
 v32 Καὶ|Kai|So|G2532|Conj
@@ -616,7 +616,7 @@ v34 ὅτι|hoti|because|G3754|Conj
 v34 ἦσαν|ēsan|they were|G1510|V-IIA-3P
 v34 ὡς|hōs|like|G5613|Adv
 v34 πρόβατα|probata|sheep|G4263|N-NNP
-v34 μὴ|mē|vvv|G3361|Adv
+v34 μὴ|mē|...|G3361|Adv
 v34 ἔχοντα|echonta|without|G2192|V-PPA-NNP
 v34 ποιμένα|poimena|a shepherd|G4166|N-AMS
 v34 καὶ|kai|And|G2532|Conj
@@ -699,8 +699,8 @@ v39 Καὶ|Kai|Then|G2532|Conj
 v39 ἐπέταξεν|epetaxen|[Jesus] directed|G2004|V-AIA-3S
 v39 αὐτοῖς|autois|them|G846|PPro-DM3P
 v39 ἀνακλῖναι*|anaklinai|to have [the people] sit|G347|V-ANA
-v39 πάντας|pantas|vvv|G3956|Adj-AMP
-v39 συμπόσια|symposia|vvv|G4849|N-ANP
+v39 πάντας|pantas|...|G3956|Adj-AMP
+v39 συμπόσια|symposia|...|G4849|N-ANP
 v39 συμπόσια|symposia|in groups|G4849|N-ANP
 v39 ἐπὶ|epi|on|G1909|Prep
 v39 τῷ|tō|the|G3588|Art-DMS
@@ -708,7 +708,7 @@ v39 χλωρῷ|chlōrō|green|G5515|Adj-DMS
 v39 χόρτῳ|chortō|grass|G5528|N-DMS
 v40 καὶ|kai|So|G2532|Conj
 v40 ἀνέπεσαν|anepesan|they sat down|G377|V-AIA-3P
-v40 πρασιαὶ|prasiai|vvv|G4237|N-NFP
+v40 πρασιαὶ|prasiai|...|G4237|N-NFP
 v40 πρασιαὶ|prasiai|in groups|G4237|N-NFP
 v40 κατὰ|kata|of|G2596|Prep
 v40 ἑκατὸν|hekaton|hundreds|G1540|Adj-AMP
@@ -820,8 +820,8 @@ v48 καὶ|kai|-|G2532|Conj
 v48 ἰδὼν|idōn|He could see that|G3708|V-APA-NMS
 v48 αὐτοὺς|autous|[the disciples]|G846|PPro-AM3P
 v48 βασανιζομένους|basanizomenous|were straining|G928|V-PPM/P-AMP
-v48 ἐν|en|vvv|G1722|Prep
-v48 τῷ|tō|vvv|G3588|Art-DNS
+v48 ἐν|en|...|G1722|Prep
+v48 τῷ|tō|...|G3588|Art-DNS
 v48 ἐλαύνειν|elaunein|to row|G1643|V-PNA
 v48 ἦν|ēn|was|G1510|V-IIA-3S
 v48 γὰρ|gar|because|G1063|Conj
@@ -897,7 +897,7 @@ v51 περισσοῦ|perissou|...|G4053|Adj-GNS
 v51 ἐν|en|-|G1722|Prep
 v51 ἑαυτοῖς|heautois|-|G1438|RefPro-DM3P
 v51 ἐξίσταντο|existanto|astounded|G1839|V-IIM-3P
-v52 οὐ|ou|vvv|G3756|Adv
+v52 οὐ|ou|...|G3756|Adv
 v52 γὰρ|gar|for|G1063|Conj
 v52 συνῆκαν|synēkan|they had not understood|G4920|V-AIA-3P
 v52 ἐπὶ|epi|about|G1909|Prep
@@ -934,7 +934,7 @@ v55 τὴν|tēn|-|G3588|Art-AFS
 v55 χώραν|chōran|region|G5561|N-AFS
 v55 ἐκείνην|ekeinēn|that|G1565|DPro-AFS
 v55 καὶ|kai|-|G2532|Conj
-v55 ἤρξαντο|ērxanto|vvv|G756|V-AIM-3P
+v55 ἤρξαντο|ērxanto|...|G756|V-AIM-3P
 v55 ἐπὶ|epi|on|G1909|Prep
 v55 τοῖς|tois|-|G3588|Art-DMP
 v55 κραβάττοις|krabattois|mats|G2895|N-DMP

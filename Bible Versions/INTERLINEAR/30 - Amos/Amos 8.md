@@ -39,7 +39,7 @@ v3 הַפֶּ֔גֶר|hap·pe·ḡer|[will be] the corpses|H6297|Art | N-ms
 v3 בְּכָל־|bə·ḵāl|everywhere|H3605|Prep-b | N-msc
 v3 מָק֖וֹם|mā·qō·wm|...|H4725|N-ms
 v3 הִשְׁלִ֥יךְ|hiš·lîḵ|strewn|H7993|V-Hifil-Perf-3ms
-v3 הָֽס׃פ|hās|in silence|H2013|Interjection
+v3 הָֽס׃|hās|in silence|H2013|Interjection
 v4 שִׁמְעוּ־|šim·‘ū-|Hear|H8085|V-Qal-Imp-mp
 v4 זֹ֕את|zōṯ|this|H2063|Pro-fs
 v4 הַשֹּׁאֲפִ֖ים|haš·šō·’ă·p̄îm|you who trample|H7602|Art | V-Qal-Prtcpl-mp
@@ -89,14 +89,14 @@ v8 הָאָ֔רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v8 וְאָבַ֖ל|wə·’ā·ḇal|mourn|H56|Conj-w | V-Qal-ConjPerf-3ms
 v8 כָּל־|kāl-|and all|H3605|N-msc
 v8 יוֹשֵׁ֣ב|yō·wō·šêḇ|its dwellers|H3427|V-Qal-Prtcpl-ms
-v8 בָּ֑הּ|bāh||H0|Prep | 3fs
+v8 בָּ֑הּ|bāh|-|H0|Prep | 3fs
 v8 וְעָלְתָ֤ה|wə·‘ā·lə·ṯāh|will swell|H5927|Conj-w | V-Qal-ConjPerf-3fs
 v8 כָאֹר֙|ḵā·’ōr|like the Nile|H2975|Prep-k, Art | N-proper-fs
 v8 כֻּלָּ֔הּ|kul·lāh|All of it|H3605|N-msc | 3fs
 v8 וְנִגְרְשָׁ֥ה|wə·niḡ·rə·šāh|it will surge|H1644|Conj-w | V-Nifal-ConjPerf-3fs
 v8 וְנִשְׁקָה|wə·niš·qå̄h|and then subside|H8248|Conj-w | V-Nifal-ConjPerf-3fs
 v8 כִּיא֥וֹר|kî·’ō·wr|like the Nile|H2975|Prep-k | N-proper-fs
-v8 מִצְרָֽיִם׃ס|miṣ·rā·yim|in Egypt|H4714|N-proper-fs
+v8 מִצְרָֽיִם׃|miṣ·rā·yim|in Egypt|H4714|N-proper-fs
 v9 וְהָיָ֣ה׀|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v9 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v9 הַה֗וּא|ha·hū|And in that|H1931|Art | Pro-3ms
@@ -182,9 +182,9 @@ v14 אֱלֹהֶ֙יךָ֙|’ĕ·lō·he·ḵā|As surely as your god|H430|N-mp
 v14 דָּ֔ן|dān|O Dan|H1835|N-proper-ms
 v14 וְחֵ֖י|wə·ḥê|lives|H2416|Conj-w | N-msc
 v14 דֶּ֣רֶךְ|de·reḵ|or, ‘As surely as the way|H1870|N-csc
-v14 בְּאֵֽר־|bə·’êr-|vvv|H884|Prep
+v14 בְּאֵֽר־|bə·’êr-|...|H884|Prep
 v14 שָׁ֑בַע|šā·ḇa‘|of Beersheba|H884|N-proper-fs
 v14 וְנָפְל֖וּ|wə·nā·p̄ə·lū|they will fall|H5307|Conj-w | V-Qal-ConjPerf-3cp
 v14 וְלֹא־|wə·lō-|never|H3808|Conj-w | Adv-NegPrt
 v14 יָק֥וּמוּ|yā·qū·mū|to rise|H6965|V-Qal-Imperf-3mp
-v14 עֽוֹד׃ס|‘ō·wḏ|again|H5750|Adv
+v14 עֽוֹד׃|‘ō·wḏ|again|H5750|Adv

@@ -22,7 +22,7 @@ v2 מֵעֵ֥בֶר|mê·‘ê·ḇer|from beyond|H5676|Prep-m | N-ms
 v2 לַיָּ֖ם|lay·yām|the Sea|H3220|Prep-l, Art | N-ms
 v2 מֵאֲרָ֑ם|mê·’ă·rām|from Edom|H758|Prep-m | N-proper-fs
 v2 וְהִנָּם֙|wə·hin·nām|they are already|H2009|Conj-w | Interjection | 3mp
-v2 בְּחַֽצְצ֣וֹן|bə·ḥaṣ·ṣō·wn|vvv|H2688|Prep
+v2 בְּחַֽצְצ֣וֹן|bə·ḥaṣ·ṣō·wn|...|H2688|Prep
 v2 תָּמָ֔ר|tā·mār|in Hazazon-tamar|H2688|Prep | N-proper-fs
 v2 הִ֖יא|hî|(that is|H1931|Pro-3fs
 v2 עֵ֥ין|‘ên|En-gedi|H5872|
@@ -100,7 +100,7 @@ v7 לְעוֹלָֽם׃|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
 v8 וַיֵּשְׁב֖וּ־|way·yê·šə·ḇū-|They have lived|H3427|Conj-w | V-Qal-ConsecImperf-3mp
 v8 בָ֑הּ|ḇāh|in the land|H0|Prep | 3fs
 v8 וַיִּבְנ֨וּ|way·yiḇ·nū|and have built|H1129|Conj-w | V-Qal-ConsecImperf-3mp
-v8 לְךָ֧׀|lə·ḵā||H0|Prep | 2ms
+v8 לְךָ֧׀|lə·ḵā|-|H0|Prep | 2ms
 v8 בָּ֛הּ|bāh|in it|H0|Prep | 3fs
 v8 מִקְדָּ֖שׁ|miq·dāš|a sanctuary|H4720|N-ms
 v8 לְשִׁמְךָ֥|lə·šim·ḵā|for Your Name|H8034|Prep-l | N-msc | 2ms
@@ -139,7 +139,7 @@ v10 לֹֽא־|lō-|You did not|H3808|Adv-NegPrt
 v10 נָתַ֤תָּה|nā·ṯat·tāh|let|H5414|V-Qal-Perf-2ms
 v10 לְיִשְׂרָאֵל֙|lə·yiś·rā·’êl|Israel|H3478|Prep-l | N-proper-ms
 v10 לָב֣וֹא|lā·ḇō·w|invade|H935|Prep-l | V-Qal-Inf
-v10 בָהֶ֔ם|ḇā·hem||H0|Prep | 3mp
+v10 בָהֶ֔ם|ḇā·hem|-|H0|Prep | 3mp
 v10 בְּבֹאָ֖ם|bə·ḇō·’ām|when they came|H935|Prep-b | V-Qal-Inf | 3mp
 v10 מֵאֶ֣רֶץ|mê·’e·reṣ|out of the land|H776|Prep-m | N-fsc
 v10 מִצְרָ֑יִם|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
@@ -162,8 +162,8 @@ v12 הֲלֹ֣א|hă·lō|will You not|H3808|Adv-NegPrt
 v12 תִשְׁפָּט־|ṯiš·pāṭ-|judge|H8199|V-Qal-Imperf-2ms
 v12 בָּ֔ם|bām|them|H0|Prep | 3mp
 v12 כִּ֣י|kî|For|H3588|Conj
-v12 אֵ֥ין|’ên|vvv|H369|Adv
-v12 בָּ֙נוּ֙|bā·nū|vvv|H0|Prep | 1cp
+v12 אֵ֥ין|’ên|...|H369|Adv
+v12 בָּ֙נוּ֙|bā·nū|...|H0|Prep | 1cp
 v12 כֹּ֔חַ|kō·aḥ|we are powerless|H3581|N-ms
 v12 לִ֠פְנֵי|lip̄·nê|before|H6440|Prep-l | N-cpc
 v12 הֶהָמ֥וֹן|he·hā·mō·wn|army|H1995|Art | N-ms
@@ -187,7 +187,7 @@ v13 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v13 גַּם־|gam-|with|H1571|Conj
 v13 טַפָּ֖ם|ṭap·pām|and little ones|H2945|N-msc | 3mp
 v13 נְשֵׁיהֶ֥ם|nə·šê·hem|their wives|H802|N-fpc | 3mp
-v13 וּבְנֵיהֶֽם׃פ|ū·ḇə·nê·hem|and children|H1121|Conj-w | N-mpc | 3mp
+v13 וּבְנֵיהֶֽם׃|ū·ḇə·nê·hem|and children|H1121|Conj-w | N-mpc | 3mp
 v14 וְיַחֲזִיאֵ֡ל|wə·ya·ḥă·zî·’êl|Jahaziel|H3166|Conj-w | N-proper-ms
 v14 בֶּן־|ben-|son|H1121|N-msc
 v14 זְכַרְיָ֡הוּ|zə·ḵar·yā·hū|of Zechariah|H2148|N-proper-ms
@@ -218,7 +218,7 @@ v15 יְהוֹשָׁפָ֑ט|yə·hō·wō·šā·p̄āṭ|Jehoshaphat|H3092|N-p
 v15 כֹּֽה־|kōh-|This is what|H3541|Adv
 v15 אָמַ֨ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v15 יְהוָ֜ה|Yah·weh|the LORD|H3068|N-proper-ms
-v15 לָכֶ֗ם|lā·ḵem||H0|Prep | 2mp
+v15 לָכֶ֗ם|lā·ḵem|-|H0|Prep | 2mp
 v15 אַ֠תֶּם|’at·tem|-|H859|Pro-2mp
 v15 אַל־|’al-|Do not|H408|Adv
 v15 תִּֽירְא֤וּ|tî·rə·’ū|be afraid|H3372|V-Qal-Imperf-2mp
@@ -286,7 +286,7 @@ v18 לַיהוָֽה׃|Yah·weh|Him|H3068|Prep-l | N-proper-ms
 v19 וַיָּקֻ֧מוּ|way·yā·qu·mū|stood up|H6965|Conj-w | V-Qal-ConsecImperf-3mp
 v19 הַלְוִיִּ֛ם|hal·wî·yim|And the Levites|H3881|Art | N-proper-mp
 v19 מִן־|min-|from|H4480|Prep
-v19 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v19 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v19 הַקְּהָתִ֖ים|haq·qə·hā·ṯîm|the Kohathites|H6956|Art | N-proper-mp
 v19 וּמִן־|ū·min-|...|H4480|Conj-w | Prep
 v19 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
@@ -397,7 +397,7 @@ v25 וּפְגָרִים֙|ū·p̄ə·ḡā·rîm|on the bodies|H6297|Conj-w | N
 v25 וּכְלֵ֣י|ū·ḵə·lê|...|H3627|Conj-w | N-mpc
 v25 חֲמֻד֔וֹת|ḥă·mu·ḏō·wṯ|and valuables|H2532|N-fp
 v25 וַיְנַצְּל֥וּ|way·naṣ·ṣə·lū|-|H5337|Conj-w | V-Piel-ConsecImperf-3mp
-v25 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v25 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v25 לְאֵ֣ין|lə·’ên|more than|H369|Prep-l | Adv
 v25 מַשָּׂ֑א|maś·śā|they could carry away|H4853|N-ms
 v25 וַיִּֽהְי֞וּ|way·yih·yū|They were|H1961|Conj-w | V-Qal-ConsecImperf-3mp
@@ -417,7 +417,7 @@ v26 בְּרָכָ֔ה|bə·rā·ḵāh|of Beracah|H1294|N-proper-fs
 v26 כִּי־|kî-|-|H3588|Conj
 v26 שָׁ֖ם|šām|where|H8033|Adv
 v26 בֵּרֲכ֣וּ|bê·ră·ḵū|they blessed|H1288|V-Piel-Perf-3cp
-v26 אֶת־|’eṯ-||H853|DirObjM
+v26 אֶת־|’eṯ-|-|H853|DirObjM
 v26 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v26 עַל־|‘al-|Therefore|H5921|Prep
 v26 כֵּ֡ן|kên|...|H3651|Adv
@@ -471,9 +471,9 @@ v30 וַתִּשְׁקֹ֖ט|wat·tiš·qōṭ|was at peace|H8252|Conj-w | V-Qal
 v30 מַלְכ֣וּת|mal·ḵūṯ|kingdom|H4438|N-fsc
 v30 יְהוֹשָׁפָ֑ט|yə·hō·wō·šā·p̄āṭ|Then Jehoshaphat's|H3092|N-proper-ms
 v30 וַיָּ֧נַֽח|way·yā·naḥ|had given him rest|H5117|Conj-w | V-Hifil-ConsecImperf-3ms
-v30 ל֦וֹ|lōw||H0|Prep | 3ms
+v30 ל֦וֹ|lōw|-|H0|Prep | 3ms
 v30 אֱלֹהָ֖יו|’ĕ·lō·hāw|for his God|H430|N-mpc | 3ms
-v30 מִסָּבִֽיב׃פ|mis·sā·ḇîḇ|on every side|H5439|Prep-m | Adv
+v30 מִסָּבִֽיב׃|mis·sā·ḇîḇ|on every side|H5439|Prep-m | Adv
 v31 וַיִּמְלֹ֥ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v31 יְהוֹשָׁפָ֖ט|yə·hō·wō·šā·p̄āṭ|So Jehoshaphat|H3092|N-proper-ms
 v31 עַל־|‘al-|over|H5921|Prep
@@ -552,7 +552,7 @@ v36 לָלֶ֣כֶת|lā·le·ḵeṯ|to go|H1980|Prep-l | V-Qal-Inf
 v36 תַּרְשִׁ֑ישׁ|tar·šîš|to Tarshish|H8659|N-proper-ms
 v36 וַיַּעֲשׂ֥וּ|way·ya·‘ă·śū|and these were built|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v36 אֳנִיּ֖וֹת|’o·nî·yō·wṯ|...|H591|N-fp
-v36 בְּעֶצְי֥וֹן|bə·‘eṣ·yō·wn|vvv|H6100|Prep
+v36 בְּעֶצְי֥וֹן|bə·‘eṣ·yō·wn|...|H6100|Prep
 v36 גָּֽבֶר׃|gā·ḇer|in Ezion-geber|H6100|Prep | N-proper-fs
 v37 וַיִּתְנַבֵּ֞א|way·yiṯ·nab·bê|prophesied|H5012|Conj-w | V-Hitpael-ConsecImperf-3ms
 v37 אֱלִיעֶ֤זֶר|’ĕ·lî·‘e·zer|Then Eliezer|H461|N-proper-ms
@@ -571,7 +571,7 @@ v37 אֶֽת־|’eṯ-|-|H853|DirObjM
 v37 מַעֲשֶׂ֔יךָ|ma·‘ă·śe·ḵā|your works|H4639|N-mpc | 2ms
 v37 וַיִּשָּׁבְר֣וּ|way·yiš·šā·ḇə·rū|were wrecked|H7665|Conj-w | V-Nifal-ConsecImperf-3mp
 v37 אֳנִיּ֔וֹת|’o·nî·yō·wṯ|So the ships|H591|N-fp
-v37 וְלֹ֥א|wə·lō|vvv|H3808|Conj-w | Adv-NegPrt
+v37 וְלֹ֥א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v37 עָצְר֖וּ|‘ā·ṣə·rū|and were unable|H6113|V-Qal-Perf-3cp
 v37 לָלֶ֥כֶת|lā·le·ḵeṯ|to sail|H1980|Prep-l | V-Qal-Inf
 v37 אֶל־|’el-|to|H413|Prep

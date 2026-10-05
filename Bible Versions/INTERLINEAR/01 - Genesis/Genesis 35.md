@@ -105,8 +105,8 @@ v7 שָׁם֙|šām|There|H8033|Adv
 v7 מִזְבֵּ֔חַ|miz·bê·aḥ|an altar|H4196|N-ms
 v7 וַיִּקְרָא֙|way·yiq·rā|and he called|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v7 לַמָּק֔וֹם|lam·mā·qō·wm|that place|H4725|Prep-l, Art | N-ms
-v7 אֵ֖ל|’êl|vvv|H416|N-msc
-v7 בֵּֽית־|bêṯ-|vvv|H416|Prep
+v7 אֵ֖ל|’êl|...|H416|N-msc
+v7 בֵּֽית־|bêṯ-|...|H416|Prep
 v7 אֵ֑ל|’êl|El-bethel|H416|N-proper-fs
 v7 כִּ֣י|kî|because|H3588|Conj
 v7 שָׁ֗ם|šām|it was there|H8033|Adv
@@ -122,14 +122,14 @@ v8 מֵינֶ֣קֶת|mê·ne·qeṯ|nurse|H3243|V-Hifil-Prtcpl-fsc
 v8 רִבְקָ֔ה|riḇ·qāh|Rebekah's|H7259|N-proper-fs
 v8 וַתִּקָּבֵ֛ר|wat·tiq·qā·ḇêr|and was buried|H6912|Conj-w | V-Nifal-ConsecImperf-3fs
 v8 מִתַּ֥חַת|mit·ta·ḥaṯ|under|H8478|Prep-m
-v8 לְבֵֽית־|lə·ḇêṯ-|vvv|H1008|Prep
+v8 לְבֵֽית־|lə·ḇêṯ-|...|H1008|Prep
 v8 אֵ֖ל|’êl|Bethel|H1008|Prep | N-proper-fs
 v8 תַּ֣חַת|ta·ḥaṯ|below|H8478|Prep
 v8 הָֽאַלּ֑וֹן|hā·’al·lō·wn|the oak|H437|Art | N-ms
 v8 וַיִּקְרָ֥א|way·yiq·rā|So [Jacob] named|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v8 שְׁמ֖וֹ|šə·mōw|[it]|H8034|N-msc | 3ms
-v8 אַלּ֥וֹן|’al·lō·wn|vvv|H439|N-msc
-v8 בָּכֽוּת׃פ|bā·ḵūṯ|Allon-bacuth|H439|N-fs
+v8 אַלּ֥וֹן|’al·lō·wn|...|H439|N-msc
+v8 בָּכֽוּת׃|bā·ḵūṯ|Allon-bacuth|H439|N-fs
 v9 וַיֵּרָ֨א|way·yê·rā|appeared|H7200|Conj-w | V-Nifal-ConsecImperf-3ms
 v9 אֱלֹהִ֤ים|’ĕ·lō·hîm|God|H430|N-mp
 v9 אֶֽל־|’el-|to|H413|Prep
@@ -218,9 +218,9 @@ v15 הַמָּק֗וֹם|ham·mā·qō·wm|the place|H4725|Art | N-ms
 v15 אֲשֶׁר֩|’ă·šer|where|H834|Pro-r
 v15 דִּבֶּ֨ר|dib·ber|had spoken|H1696|V-Piel-Perf-3ms
 v15 אִתּ֥וֹ|’it·tōw|with him|H854|Prep | 3ms
-v15 שָׁ֛ם|šām|vvv|H8033|Adv
+v15 שָׁ֛ם|šām|...|H8033|Adv
 v15 אֱלֹהִ֖ים|’ĕ·lō·hîm|God|H430|N-mp
-v15 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v15 בֵּֽית־|bêṯ-|...|H1008|Prep
 v15 אֵֽל׃|’êl|Bethel|H1008|N-proper-fs
 v16 וַיִּסְעוּ֙|way·yis·‘ū|Later, they set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v16 מִבֵּ֣ית|mib·bêṯ|from|H1008|Prep
@@ -255,7 +255,7 @@ v18 כִּ֣י|kî|for|H3588|Conj
 v18 מֵ֔תָה|mê·ṯāh|she was dying|H4191|V-Qal-Perf-3fs
 v18 וַתִּקְרָ֥א|wat·tiq·rā|she named|H7121|Conj-w | V-Qal-ConsecImperf-3fs
 v18 שְׁמ֖וֹ|šə·mōw|...|H8034|N-msc | 3ms
-v18 בֶּן־|ben-|vvv him|H1126|Prep
+v18 בֶּן־|ben-|... him|H1126|Prep
 v18 אוֹנִ֑י|’ō·w·nî|Ben-oni|H1126|N-proper-ms
 v18 וְאָבִ֖יו|wə·’ā·ḇîw|But his father|H1|Conj-w | N-msc | 3ms
 v18 קָֽרָא־|qā·rā-|called|H7121|V-Qal-Perf-3ms
@@ -346,7 +346,7 @@ v27 אֶל־|’el-|to|H413|Prep
 v27 יִצְחָ֣ק|yiṣ·ḥāq|Isaac|H3327|N-proper-ms
 v27 אָבִ֔יו|’ā·ḇîw|his father|H1|N-msc | 3ms
 v27 מַמְרֵ֖א|mam·rê|at Mamre|H4471|N-proper-fs
-v27 קִרְיַ֣ת|qir·yaṯ|vvv|H7153|
+v27 קִרְיַ֣ת|qir·yaṯ|...|H7153|
 v27 הָֽאַרְבַּ֑ע|hā·’ar·ba‘|near Kiriath-arba|H7153|N-proper-fs
 v27 הִ֣וא|hî|(that is|H1931|Pro-3fs
 v27 חֶבְר֔וֹן|ḥeḇ·rō·wn|Hebron)|H2275|N-proper-fs
@@ -375,4 +375,4 @@ v29 וַיִּקְבְּר֣וּ|way·yiq·bə·rū|buried him|H6912|Conj-w | V-
 v29 אֹת֔וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v29 עֵשָׂ֥ו|‘ê·śāw|Esau|H6215|N-proper-ms
 v29 וְיַעֲקֹ֖ב|wə·ya·‘ă·qōḇ|and Jacob|H3290|Conj-w | N-proper-ms
-v29 בָּנָֽיו׃פ|bā·nāw|And his sons|H1121|N-mpc | 3ms
+v29 בָּנָֽיו׃|bā·nāw|And his sons|H1121|N-mpc | 3ms

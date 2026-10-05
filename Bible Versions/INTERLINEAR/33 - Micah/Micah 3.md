@@ -51,7 +51,7 @@ v4 בָּעֵ֣ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
 v4 הַהִ֔יא|ha·hî|At that|H1931|Art | Pro-3fs
 v4 כַּאֲשֶׁ֥ר|ka·’ă·šer|because of|H834|Prep-k | Pro-r
 v4 הֵרֵ֖עוּ|hê·rê·‘ū|the evil|H7489|V-Hifil-Perf-3cp
-v4 מַעַלְלֵיהֶֽם׃פ|ma·‘al·lê·hem|they have done|H4611|N-mpc | 3mp
+v4 מַעַלְלֵיהֶֽם׃|ma·‘al·lê·hem|they have done|H4611|N-mpc | 3mp
 v5 כֹּ֚ה|kōh|This is what|H3541|Adv
 v5 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v5 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -77,7 +77,7 @@ v6 לַ֤יְלָה|lay·lāh|night|H3915|N-ms
 v6 לָכֶם֙|lā·ḵem|will come over you|H0|Prep | 2mp
 v6 מֵֽחָז֔וֹן|mê·ḥā·zō·wn|without visions|H2377|Prep-m | N-ms
 v6 וְחָשְׁכָ֥ה|wə·ḥā·šə·ḵāh|and darkness|H2821|Conj-w | V-Qal-ConjPerf-3fs
-v6 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v6 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v6 מִקְּסֹ֑ם|miq·qə·sōm|without divination|H7080|Prep-m | V-Qal-Inf
 v6 וּבָ֤אָה|ū·ḇā·’āh|will set|H935|Conj-w | V-Qal-ConjPerf-3fs
 v6 הַשֶּׁ֙מֶשׁ֙|haš·še·meš|The sun|H8121|Art | N-cs
@@ -111,7 +111,7 @@ v8 לְהַגִּ֤יד|lə·hag·gîḏ|to declare|H5046|Prep-l | V-Hifil-Inf
 v8 לְיַֽעֲקֹב֙|lə·ya·‘ă·qōḇ|to Jacob|H3290|Prep-l | N-proper-ms
 v8 פִּשְׁע֔וֹ|piš·‘ōw|his transgression|H6588|N-msc | 3ms
 v8 וּלְיִשְׂרָאֵ֖ל|ū·lə·yiś·rā·’êl|and to Israel|H3478|Conj-w, Prep-l | N-proper-ms
-v8 חַטָּאתֽוֹ׃ס|ḥaṭ·ṭā·ṯōw|his sin|H2403|N-fsc | 3ms
+v8 חַטָּאתֽוֹ׃|ḥaṭ·ṭā·ṯōw|his sin|H2403|N-fsc | 3ms
 v9 שִׁמְעוּ־|šim·‘ū-|hear|H8085|V-Qal-Imp-mp
 v9 נָ֣א|nā|Now|H4994|Interjection
 v9 זֹ֗את|zōṯ|this|H2063|Pro-fs
@@ -163,4 +163,4 @@ v12 תִּֽהְיֶ֔ה|tih·yeh|will become|H1961|V-Qal-Imperf-3fs
 v12 וְהַ֥ר|wə·har|mount|H2022|Conj-w | N-msc
 v12 הַבַּ֖יִת|hab·ba·yiṯ|and the temple|H1004|Art | N-ms
 v12 לְבָמ֥וֹת|lə·ḇā·mō·wṯ|ridge|H1116|Prep-l | N-fp
-v12 יָֽעַר׃פ|yā·‘ar|a wooded|H3293|N-ms
+v12 יָֽעַר׃|yā·‘ar|a wooded|H3293|N-ms

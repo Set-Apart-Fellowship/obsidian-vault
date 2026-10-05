@@ -88,8 +88,8 @@ v7 γὰρ|gar|-|G1063|Conj
 v7 ἐὰν|ean|...|G1437|Conj
 v7 σπείρῃ|speirē|sows|G4687|V-PSA-3S
 v7 ἄνθρωπος|anthrōpos|a man|G444|N-NMS
-v7 τοῦτο|touto|vvv|G3778|DPro-ANS
-v7 καὶ|kai|vvv|G2532|Conj
+v7 τοῦτο|touto|...|G3778|DPro-ANS
+v7 καὶ|kai|...|G2532|Conj
 v7 θερίσει|therisei|he will reap in return|G2325|V-FIA-3S
 v8 ὅτι|hoti|-|G3754|Conj
 v8 ὁ|ho|The [one]|G3588|Art-NMS
@@ -119,15 +119,15 @@ v9 Τὸ|To|-|G3588|Art-ANS
 v9 δὲ|de|-|G1161|Conj
 v9 καλὸν|kalon|[in] well-doing|G2570|Adj-ANS
 v9 ποιοῦντες|poiountes|...|G4160|V-PPA-NMP
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 ἐνκακῶμεν|enkakōmen|Let us not grow weary|G1573|V-PSA-1P
 v9 καιρῷ|kairō|time|G2540|N-DMS
 v9 γὰρ|gar|for|G1063|Conj
 v9 ἰδίῳ|idiō|in due|G2398|Adj-DMS
 v9 θερίσομεν|therisomen|we will reap a harvest|G2325|V-FIA-1P
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 ἐκλυόμενοι|eklyomenoi|if we do not give up|G1590|V-PPM/P-NMP
-v10 Ἄρα|Ara|vvv|G686|Conj
+v10 Ἄρα|Ara|...|G686|Conj
 v10 οὖν|oun|Therefore|G3767|Conj
 v10 ὡς|hōs|as|G5613|Adv
 v10 καιρὸν|kairon|opportunity|G2540|N-AMS
@@ -155,7 +155,7 @@ v11 χειρί|cheiri|hand|G5495|N-DFS
 v12 Ὅσοι|Hosoi|Those who|G3745|RelPro-NMP
 v12 θέλουσιν|thelousin|want|G2309|V-PIA-3P
 v12 εὐπροσωπῆσαι|euprosōpēsai|to make a good impression|G2146|V-ANA
-v12 ἐν|en|vvv|G1722|Prep
+v12 ἐν|en|...|G1722|Prep
 v12 σαρκί|sarki|outwardly|G4561|N-DFS
 v12 οὗτοι|houtoi|-|G3778|DPro-NMP
 v12 ἀναγκάζουσιν|anankazousin|are trying to compel|G315|V-PIA-3P

@@ -40,7 +40,7 @@ v3 כְּצֹ֣אן|kə·ṣōn|like sheep|H6629|Prep-k | N-cs
 v3 לְטִבְחָ֔ה|lə·ṭiḇ·ḥāh|to the slaughter|H2878|Prep-l | N-fs
 v3 וְהַקְדִּשֵׁ֖ם|wə·haq·di·šêm|and set them apart|H6942|Conj-w | V-Hifil-Imp-ms | 3mp
 v3 לְי֥וֹם|lə·yō·wm|for the day|H3117|Prep-l | N-msc
-v3 הֲרֵגָֽה׃ס|hă·rê·ḡāh|of carnage|H2028|N-fs
+v3 הֲרֵגָֽה׃|hă·rê·ḡāh|of carnage|H2028|N-fs
 v4 עַד־|‘aḏ-|How long|H5704|Prep
 v4 מָתַי֙|mā·ṯay|...|H4970|Interrog
 v4 תֶּאֱבַ֣ל|te·’ĕ·ḇal|mourn|H56|V-Qal-Imperf-3fs
@@ -51,7 +51,7 @@ v4 הַשָּׂדֶ֖ה|haś·śā·ḏeh|field|H7704|Art | N-ms
 v4 יִיבָ֑שׁ|yî·ḇāš|be withered|H3001|V-Qal-Imperf-3ms
 v4 מֵרָעַ֣ת|mê·rā·‘aṯ|Because of the evil|H7451|Prep-m | N-fsc
 v4 יֹֽשְׁבֵי־|yō·šə·ḇê-|of its residents|H3427|V-Qal-Prtcpl-mpc
-v4 בָ֗הּ|ḇāh||H0|Prep | 3fs
+v4 בָ֗הּ|ḇāh|-|H0|Prep | 3fs
 v4 סָפְתָ֤ה|sā·p̄ə·ṯāh|have been swept away|H5595|V-Qal-Perf-3fs
 v4 בְהֵמוֹת֙|ḇə·hê·mō·wṯ|the animals|H929|N-fp
 v4 וָע֔וֹף|wā·‘ō·wp̄|and birds|H5775|Conj-w | N-ms
@@ -98,7 +98,7 @@ v6 בָּ֔ם|bām|them|H0|Prep | 3mp
 v6 כִּֽי־|kî-|though|H3588|Conj
 v6 יְדַבְּר֥וּ|yə·ḏab·bə·rū|they speak|H1696|V-Piel-Imperf-3mp
 v6 אֵלֶ֖יךָ|’ê·le·ḵā|of you|H413|Prep | 2ms
-v6 טוֹבֽוֹת׃ס|ṭō·w·ḇō·wṯ|well|H2896|N-fp
+v6 טוֹבֽוֹת׃|ṭō·w·ḇō·wṯ|well|H2896|N-fp
 v7 עָזַ֙בְתִּי֙|‘ā·zaḇ·tî|I have forsaken|H5800|V-Qal-Perf-1cs
 v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 בֵּיתִ֔י|bê·ṯî|My house|H1004|N-msc | 1cs
@@ -181,7 +181,7 @@ v12 הָאָ֑רֶץ|hā·’ā·reṣ|...|H776|Adv
 v12 אֵ֥ין|’ên|No|H369|Art | N-fs
 v12 שָׁל֖וֹם|šā·lō·wm|has peace|H7965|N-ms
 v12 לְכָל־|lə·ḵāl|...|H3605|Prep-l | N-msc
-v12 בָּשָֽׂר׃ס|bā·śār|flesh|H1320|N-ms
+v12 בָּשָֽׂר׃|bā·śār|flesh|H1320|N-ms
 v13 זָרְע֤וּ|zā·rə·‘ū|They have sown|H2232|V-Qal-Perf-3cp
 v13 חִטִּים֙|ḥiṭ·ṭîm|wheat|H2406|N-fp
 v13 וְקֹצִ֣ים|wə·qō·ṣîm|thorns|H6975|Conj-w | N-mp
@@ -193,7 +193,7 @@ v13 וּבֹ֙שׁוּ֙|ū·ḇō·šū|Bear the shame|H954|Conj-w | V-Qal-Imp-
 v13 מִתְּבוּאֹ֣תֵיכֶ֔ם|mit·tə·ḇū·’ō·ṯê·ḵem|of your harvest|H8393|Prep-m | N-fpc | 2mp
 v13 מֵחֲר֖וֹן|mê·ḥă·rō·wn|because of the fierce|H2740|Prep-m | N-msc
 v13 אַף־|’ap̄-|anger|H639|N-msc
-v13 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v13 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v14 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v14 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v14 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -259,4 +259,4 @@ v17 הַה֛וּא|ha·hū|that|H1931|Art | Pro-3ms
 v17 נָת֥וֹשׁ|nā·ṯō·wōš|I will uproot it|H5428|V-Qal-InfAbs
 v17 וְאַבֵּ֖ד|wə·’ab·bêḏ|and destroy it|H6|Conj-w | V-Piel-InfAbs
 v17 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v17 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v17 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

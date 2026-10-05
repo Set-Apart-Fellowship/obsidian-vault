@@ -74,7 +74,7 @@ v6 ἃ|ha|-|G3739|RelPro-ANP
 v6 θεωρεῖτε|theōreite|you see here|G2334|V-PIA-2P
 v6 ἐλεύσονται|eleusontai|will come|G2064|V-FIM-3P
 v6 ἡμέραι|hēmerai|[the] time|G2250|N-NFP
-v6 ἐν|en|vvv|G1722|Prep
+v6 ἐν|en|...|G1722|Prep
 v6 αἷς|hais|[when]|G3739|RelPro-DFP
 v6 οὐκ|ouk|not one|G3756|Adv
 v6 ἀφεθήσεται|aphethēsetai|will be left|G863|V-FIP-3S
@@ -105,7 +105,7 @@ v8 Ὁ|Ho|-|G3588|Art-NMS
 v8 δὲ|de|-|G1161|Conj
 v8 εἶπεν|eipen|[Jesus] answered|G2036|V-AIA-3S
 v8 Βλέπετε|Blepete|See to it|G991|V-PMA-2P
-v8 μὴ|mē|vvv|G3361|Adv
+v8 μὴ|mē|...|G3361|Adv
 v8 πλανηθῆτε|planēthēte|that you are not deceived|G4105|V-ASP-2P
 v8 πολλοὶ|polloi|many|G4183|Adj-NMP
 v8 γὰρ|gar|For|G1063|Conj
@@ -226,7 +226,7 @@ v15 ἀντιστῆναι|antistēnai|resist|G436|V-ANA
 v15 ἢ|ē|[or]|G2228|Conj
 v15 ἀντειπεῖν|anteipein|contradict|G483|V-ANA
 v15 ἅπαντες|hapantes|...|G537|Adj-NMP
-v15 οἱ|hoi|vvv|G3588|Art-NMP
+v15 οἱ|hoi|...|G3588|Art-NMP
 v15 ἀντικείμενοι|antikeimenoi|your adversaries|G480|V-PPM/P-NMP
 v15 ὑμῖν|hymin|...|G4771|PPro-D2P
 v16 Παραδοθήσεσθε|Paradothēsesthe|You will be betrayed|G3860|V-FIP-2P
@@ -259,7 +259,7 @@ v18 ἐκ|ek|of|G1537|Prep
 v18 τῆς|tēs|-|G3588|Art-GFS
 v18 κεφαλῆς|kephalēs|head|G2776|N-GFS
 v18 ὑμῶν|hymōn|your|G4771|PPro-G2P
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 μὴ|mē|not even|G3361|Adv
 v18 ἀπόληται|apolētai|will perish|G622|V-ASM-3S
 v19 ἐν|en|By|G1722|Prep
@@ -297,16 +297,16 @@ v21 καὶ|kai|{let}|G2532|Conj
 v21 οἱ|hoi|those|G3588|Art-NMP
 v21 ἐν|en|in|G1722|Prep
 v21 μέσῳ|mesō|[the city]|G3319|Adj-DNS
-v21 αὐτῆς|autēs|vvv|G846|PPro-GF3S
+v21 αὐτῆς|autēs|...|G846|PPro-GF3S
 v21 ἐκχωρείτωσαν|ekchōreitōsan|get out|G1633|V-PMA-3P
 v21 καὶ|kai|and {let}|G2532|Conj
 v21 οἱ|hoi|those|G3588|Art-NMP
 v21 ἐν|en|in|G1722|Prep
 v21 ταῖς|tais|the|G3588|Art-DFP
 v21 χώραις|chōrais|country|G5561|N-DFP
-v21 μὴ|mē|vvv|G3361|Adv
+v21 μὴ|mē|...|G3361|Adv
 v21 εἰσερχέσθωσαν|eiserchesthōsan|stay out of|G1525|V-PMM/P-3P
-v21 εἰς|eis|vvv|G1519|Prep
+v21 εἰς|eis|...|G1519|Prep
 v21 αὐτήν|autēn|[the city]|G846|PPro-AF3S
 v22 ὅτι|hoti|For|G3754|Conj
 v22 ἡμέραι|hēmerai|[the] days|G2250|N-NFP
@@ -400,7 +400,7 @@ v26 δυνάμεις|dynameis|powers|G1411|N-NFP
 v26 τῶν|tōn|of the|G3588|Art-GMP
 v26 οὐρανῶν|ouranōn|heavens|G3772|N-GMP
 v26 σαλευθήσονται|saleuthēsontai|will be shaken|G4531|V-FIP-3P
-v27 καὶ|kai|vvv|G2532|Conj
+v27 καὶ|kai|...|G2532|Conj
 v27 τότε|tote|At that time|G5119|Adv
 v27 ὄψονται|opsontai|they will see|G3708|V-FIM-3P
 v27 τὸν|ton|the|G3588|Art-AMS
@@ -473,8 +473,8 @@ v32 ἀμὴν|amēn|Truly|G281|Heb
 v32 λέγω|legō|I tell|G3004|V-PIA-1S
 v32 ὑμῖν|hymin|you|G4771|PPro-D2P
 v32 ὅτι|hoti|-|G3754|Conj
-v32 οὐ|ou|vvv|G3756|Adv
-v32 μὴ|mē|vvv|G3361|Adv
+v32 οὐ|ou|...|G3756|Adv
+v32 μὴ|mē|...|G3361|Adv
 v32 παρέλθῃ|parelthē|will not pass away|G3928|V-ASA-3S
 v32 ἡ|hē|-|G3588|Art-NFS
 v32 γενεὰ|genea|generation|G1074|N-NFS
@@ -493,14 +493,14 @@ v33 οἱ|hoi|-|G3588|Art-NMP
 v33 δὲ|de|but|G1161|Conj
 v33 λόγοι|logoi|words|G3056|N-NMP
 v33 μου|mou|My|G1473|PPro-G1S
-v33 οὐ|ou|vvv|G3756|Adv
-v33 μὴ|mē|vvv|G3361|Adv
+v33 οὐ|ou|...|G3756|Adv
+v33 μὴ|mē|...|G3361|Adv
 v33 παρελεύσονται|pareleusontai|will never pass away|G3928|V-FIM-3P
 v34 Προσέχετε|Prosechete|watch|G4337|V-PMA-2P
 v34 δὲ|de|But|G1161|Conj
 v34 ἑαυτοῖς|heautois|yourselves|G1438|RefPro-DM3P
 v34 μή‿|mē|or|G3361|Adv
-v34 ποτε|pote|vvv|G4219|Conj
+v34 ποτε|pote|...|G4219|Conj
 v34 βαρηθῶσιν|barēthōsin|will be weighed down|G916|V-ASP-3P
 v34 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v34 αἱ|hai|...|G3588|Art-NFP

@@ -66,7 +66,7 @@ v6 וַאֲשַׁכְּרֵ֖ם|wa·’ă·šak·kə·rêm|I made them drunk|H7
 v6 בַּחֲמָתִ֑י|ba·ḥă·mā·ṯî|in My wrath|H2534|Prep-b | N-fsc | 1cs
 v6 וְאוֹרִ֥יד|wə·’ō·w·rîḏ|and poured out|H3381|Conj-w | V-Hifil-ConjImperf-1cs
 v6 לָאָ֖רֶץ|lā·’ā·reṣ|on the ground|H776|Prep-l, Art | N-fs
-v6 נִצְחָֽם׃ס|niṣ·ḥām|their blood|H5332|N-msc | 3mp
+v6 נִצְחָֽם׃|niṣ·ḥām|their blood|H5332|N-msc | 3mp
 v7 חַֽסְדֵ֨י|ḥas·ḏê|loving devotion|H2617|N-mpc
 v7 יְהוָ֤ה׀|Yah·weh|the LORD's|H3068|N-proper-ms
 v7 אַזְכִּיר֙|’az·kîr|I will make known|H2142|V-Hifil-Imperf-1cs
@@ -225,7 +225,7 @@ v19 הָיִ֗ינוּ|hā·yî·nū|We have become|H1961|V-Qal-Perf-1cp
 v19 מֵֽעוֹלָם֙|mê·‘ō·w·lām|like those You never|H5769|Prep-m | N-ms
 v19 לֹֽא־|lō-|...|H3808|Adv-NegPrt
 v19 מָשַׁ֣לְתָּ|mā·šal·tā|ruled|H4910|V-Qal-Perf-2ms
-v19 בָּ֔ם|bām||H0|Prep | 3mp
+v19 בָּ֔ם|bām|-|H0|Prep | 3mp
 v19 לֹֽא־|lō-|like those not|H3808|Adv-NegPrt
 v19 נִקְרָ֥א|niq·rā|called|H7121|V-Nifal-Perf-3ms
 v19 שִׁמְךָ֖|šim·ḵā|by Your name|H8034|N-msc | 2ms

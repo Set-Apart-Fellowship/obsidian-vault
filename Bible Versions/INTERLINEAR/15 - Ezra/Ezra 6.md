@@ -18,11 +18,11 @@ v2 דִּ֛י|dî|...|H1768|Pro-r
 v2 בְּמָדַ֥י|bə·mā·ḏay|of Media|H4076|Prep-b | N-proper-fs
 v2 מְדִינְתָּ֖ה|mə·ḏî·nə·tāh|in the province|H4083|N-fsd
 v2 מְגִלָּ֣ה|mə·ḡil·lāh|And a scroll|H4040|N-fs
-v2 חֲדָ֑ה|ḥă·ḏāh||H2298|Number-fs
+v2 חֲדָ֑ה|ḥă·ḏāh|-|H2298|Number-fs
 v2 וְכֵן־|wə·ḵên-|with the following|H3652|Conj-w | Adv
 v2 כְּתִ֥יב|kə·ṯîḇ|written|H3790|V-Nifal-Perf-3ms
 v2 בְּגַוַּ֖הּ|bə·ḡaw·wah|on it|H1459|Prep-b | N-msc | 3fs
-v2 דִּכְרוֹנָֽה׃פ|diḵ·rō·w·nāh|Memorandum|H1799|N-msd
+v2 דִּכְרוֹנָֽה׃|diḵ·rō·w·nāh|Memorandum|H1799|N-msd
 v3 בִּשְׁנַ֨ת|biš·naṯ|year|H8140|Prep-b | N-fsc
 v3 חֲדָ֜ה|ḥă·ḏāh|In the first|H2298|Number-fs
 v3 לְכ֣וֹרֶשׁ|lə·ḵō·w·reš|Cyrus|H3567|Prep-l | N-proper-ms
@@ -86,13 +86,13 @@ v5 בִירֽוּשְׁלֶם֙|ḇî·rū·šə·lem|in Jerusalem|H3390|Prep-b 
 v5 לְאַתְרֵ֔הּ|lə·’aṯ·rêh|...|H870|Prep-l | N-msc | 3ms
 v5 וְתַחֵ֖ת|wə·ṯa·ḥêṯ|and deposited|H5182|Conj-w | V-Hifil-ConjImperf-2ms
 v5 בְּבֵ֥ית|bə·ḇêṯ|in the house|H1005|Prep-b | N-msc
-v5 אֱלָהָֽא׃ס|’ĕ·lā·hā|of God|H426|N-msd
+v5 אֱלָהָֽא׃|’ĕ·lā·hā|of God|H426|N-msd
 v6 כְּעַ֡ן|kə·‘an|Therefore [Darius decreed]|H3705|Adv
 v6 תַּ֠תְּנַי|tat·tə·nay|To Tattenai|H8674|N-proper-ms
 v6 פַּחַ֨ת|pa·ḥaṯ|governor|H6347|N-msc
 v6 עֲבַֽר־|‘ă·ḇar-|of the region west|H5675|N-msc
 v6 נַהֲרָ֜ה|na·hă·rāh|of the Euphrates|H5103|N-msd
-v6 שְׁתַ֤ר|šə·ṯar|vvv|H8370|N-proper-ms
+v6 שְׁתַ֤ר|šə·ṯar|...|H8370|N-proper-ms
 v6 בּוֹזְנַי֙|bō·wz·nay|Shethar-bozenai|H8370|N-proper-ms
 v6 וּכְנָוָ֣תְה֔וֹן|ū·ḵə·nā·wā·ṯə·hō·wn|and your associates|H3675|Conj-w | N-mpc | 3mp
 v6 אֲפַרְסְכָיֵ֔א|’ă·p̄ar·sə·ḵā·yê|and officials|H671|N-proper-mpd
@@ -119,7 +119,7 @@ v7 יִבְנ֥וֹן|yiḇ·nō·wn|rebuild|H1124|V-Qal-Imperf-3mp
 v7 עַל־|‘al-|on|H5922|Prep
 v7 אַתְרֵֽהּ׃|’aṯ·rêh|its original site|H870|N-msc | 3ms
 v8 וּמִנִּי֮|ū·min·nî|I hereby|H4481|Conj-w | Prep | 1cs
-v8 שִׂ֣ים|śîm|vvv|H7761|V-Nifal-Perf-3ms
+v8 שִׂ֣ים|śîm|...|H7761|V-Nifal-Perf-3ms
 v8 טְעֵם֒|ṭə·‘êm|decree|H2942|N-ms
 v8 לְמָ֣א|lə·mā|what|H3964|Prep-l | Interrog
 v8 דִֽי־|ḏî-|...|H1768|Pro-r
@@ -169,7 +169,7 @@ v9 מִתְיְהֵ֥ב|miṯ·yə·hêḇ|given|H3052|V-Hitpael-Prtcpl-ms
 v9 לְהֹ֛ם|lə·hōm|to them|H0|Prep | 3mp
 v9 י֥וֹם׀|yō·wm|daily|H3118|N-ms
 v9 בְּי֖וֹם|bə·yō·wm|...|H3118|Prep-b | N-ms
-v9 דִּי־|dî-|vvv|H1768|Pro-r
+v9 דִּי־|dî-|...|H1768|Pro-r
 v9 לָ֥א|lā|without|H3809|Adv-NegPrt
 v9 שָׁלֽוּ׃|šā·lū|fail|H7960|N-fs
 v10 דִּֽי־|dî-|Then|H1768|Pro-r
@@ -228,13 +228,13 @@ v12 דָרְיָ֙וֶשׁ֙|ḏā·rə·yā·weš|Darius|H1868|N-proper-ms
 v12 שָׂ֣מֶת|śā·meṯ|have issued|H7761|V-Qal-Perf-1cs
 v12 טְעֵ֔ם|ṭə·‘êm|the decree|H2942|N-ms
 v12 אָסְפַּ֖רְנָא|’ā·sə·par·nā|with diligence|H629|Adv
-v12 יִתְעֲבִֽד׃פ|yiṯ·‘ă·ḇiḏ|Let it be carried out|H5648|V-Hitpael-Imperf-3ms
+v12 יִתְעֲבִֽד׃|yiṯ·‘ă·ḇiḏ|Let it be carried out|H5648|V-Hitpael-Imperf-3ms
 v13 אֱ֠דַיִן|’ĕ·ḏa·yin|In response|H116|Adv
 v13 תַּתְּנַ֞י|tat·tə·nay|Tattenai|H8674|N-proper-ms
 v13 פַּחַ֧ת|pa·ḥaṯ|the governor|H6347|N-msc
 v13 עֲבַֽר־|‘ă·ḇar-|of the region west|H5675|N-msc
 v13 נַהֲרָ֛ה|na·hă·rāh|of the Euphrates|H5103|N-msd
-v13 שְׁתַ֥ר|šə·ṯar|vvv|H8370|N-proper-ms
+v13 שְׁתַ֥ר|šə·ṯar|...|H8370|N-proper-ms
 v13 בּוֹזְנַ֖י|bō·wz·nay|Shethar-bozenai|H8370|N-proper-ms
 v13 וּכְנָוָתְה֑וֹן|ū·ḵə·nā·wā·ṯə·hō·wn|and their associates|H3675|Conj-w | N-mpc | 3mp
 v13 לָקֳבֵ֗ל|lā·qo·ḇêl|...|H6903|Prep-l
@@ -281,7 +281,7 @@ v15 שְׁנַת־|šə·naṯ-|year|H8140|N-fsc
 v15 שֵׁ֔ת|šêṯ|in the sixth|H8353|Number-fs
 v15 לְמַלְכ֖וּת|lə·mal·ḵūṯ|of the reign|H4437|Prep-l | N-fsc
 v15 דָּרְיָ֥וֶשׁ|dā·rə·yā·weš|Darius|H1868|N-proper-ms
-v15 מַלְכָּֽא׃פ|mal·kā|of King|H4430|N-msd
+v15 מַלְכָּֽא׃|mal·kā|of King|H4430|N-msd
 v16 וַעֲבַ֣דוּ|wa·‘ă·ḇa·ḏū|celebrated|H5648|Conj-w | V-Qal-ConjPerf-3mp
 v16 בְנֵֽי־|ḇə·nê-|Then the people|H1123|N-mpc
 v16 יִ֠שְׂרָאֵל|yiś·rā·’êl|of Israel|H3479|N-proper-ms
@@ -330,7 +330,7 @@ v18 דִּ֣י|dî|...|H1768|Pro-r
 v18 בִירוּשְׁלֶ֑ם|ḇî·rū·šə·lem|in Jerusalem|H3390|Prep-b | N-proper-fs
 v18 כִּכְתָ֖ב|kiḵ·ṯāḇ|according to what is written|H3792|Prep-k | N-msc
 v18 סְפַ֥ר|sə·p̄ar|in the Book|H5609|N-msc
-v18 מֹשֶֽׁה׃פ|mō·šeh|of Moses|H4873|N-proper-ms
+v18 מֹשֶֽׁה׃|mō·šeh|of Moses|H4873|N-proper-ms
 v19 וַיַּעֲשׂ֥וּ|way·ya·‘ă·śū|kept|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v19 בְנֵי־|ḇə·nê-|the exiles|H1121|N-mpc
 v19 הַגּוֹלָ֖ה|hag·gō·w·lāh|...|H1473|Art | N-fs
@@ -365,7 +365,7 @@ v21 הַנִּבְדָּ֛ל|han·niḇ·dāl|who had separated themselves|H914|
 v21 מִטֻּמְאַ֥ת|miṭ·ṭum·’aṯ|from the uncleanness|H2932|Prep-m | N-fsc
 v21 גּוֹיֵֽ־|gō·w·yê-|of the peoples|H1471|N-mpc
 v21 הָאָ֖רֶץ|hā·’ā·reṣ|of the land|H776|Art | N-fs
-v21 אֲלֵהֶ֑ם|’ă·lê·hem|vvv|H413|Prep | 3mp
+v21 אֲלֵהֶ֑ם|’ă·lê·hem|...|H413|Prep | 3mp
 v21 לִדְרֹ֕שׁ|liḏ·rōš|to seek|H1875|Prep-l | V-Qal-Inf
 v21 לַֽיהוָ֖ה|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
 v21 אֱלֹהֵ֥י|’ĕ·lō·hê|the God|H430|N-mpc
@@ -390,4 +390,4 @@ v22 בִּמְלֶ֥אכֶת|bim·le·ḵeṯ|in the work|H4399|Prep-b | N-fsc
 v22 בֵּית־|bêṯ-|on the house|H1004|N-msc
 v22 הָאֱלֹהִ֖ים|hā·’ĕ·lō·hîm|of the God|H430|Art | N-mp
 v22 אֱלֹהֵ֥י|’ĕ·lō·hê|...|H430|N-mpc
-v22 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-fs
+v22 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-fs

@@ -81,7 +81,7 @@ v6 פְּנֵיהֶ֑ם|pə·nê·hem|...|H6440|N-mpc | 3mp
 v6 וַיֵּרָ֥א|way·yê·rā|appeared|H7200|Conj-w | V-Nifal-ConsecImperf-3ms
 v6 כְבוֹד־|ḵə·ḇō·wḏ-|and the glory|H3519|N-msc
 v6 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v6 אֲלֵיהֶֽם׃פ|’ă·lê·hem|to them|H413|Prep | 3mp
+v6 אֲלֵיהֶֽם׃|’ă·lê·hem|to them|H413|Prep | 3mp
 v7 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v7 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v7 אֶל־|’el-|to|H413|Prep
@@ -103,7 +103,7 @@ v8 לְעֵינֵיהֶ֖ם|lə·‘ê·nê·hem|while they watch|H5869|Prep-l |
 v8 וְנָתַ֣ן|wə·nā·ṯan|and it will pour out|H5414|Conj-w | V-Qal-ConjPerf-3ms
 v8 מֵימָ֑יו|mê·māw|its water|H4325|N-mpc | 3ms
 v8 וְהוֹצֵאתָ֨|wə·hō·w·ṣê·ṯā|You will bring out|H3318|Conj-w | V-Hifil-ConjPerf-2ms
-v8 לָהֶ֥ם|lā·hem||H0|Prep | 3mp
+v8 לָהֶ֥ם|lā·hem|-|H0|Prep | 3mp
 v8 מַ֙יִם֙|ma·yim|water|H4325|N-mp
 v8 מִן־|min-|from|H4480|Prep
 v8 הַסֶּ֔לַע|has·se·la‘|the rock|H5553|Art | N-ms
@@ -137,7 +137,7 @@ v10 הֲמִן־|hă·min-|of|H4480|Prep
 v10 הַסֶּ֣לַע|has·se·la‘|rock|H5553|Art | N-ms
 v10 הַזֶּ֔ה|haz·zeh|this|H2088|Art | Pro-ms
 v10 נוֹצִ֥יא|nō·w·ṣî|out|H3318|V-Hifil-Imperf-1cp
-v10 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v10 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v10 מָֽיִם׃|mā·yim|must we bring you water|H4325|N-mp
 v11 וַיָּ֨רֶם|way·yā·rem|raised|H7311|Conj-w | V-Hifil-ConsecImperf-3ms
 v11 מֹשֶׁ֜ה|mō·šeh|Then Moses|H4872|N-proper-ms
@@ -153,7 +153,7 @@ v11 מַ֣יִם|ma·yim|water|H4325|N-mp
 v11 רַבִּ֔ים|rab·bîm|so that a great amount of|H7227|Adj-mp
 v11 וַתֵּ֥שְׁתְּ|wat·tê·šət|were able to drink|H8354|Conj-w | V-Qal-ConsecImperf-3fs
 v11 הָעֵדָ֖ה|hā·‘ê·ḏāh|and the congregation|H5712|Art | N-fs
-v11 וּבְעִירָֽם׃ס|ū·ḇə·‘î·rām|and their livestock|H1165|Conj-w | N-msc | 3mp
+v11 וּבְעִירָֽם׃|ū·ḇə·‘î·rām|and their livestock|H1165|Conj-w | N-msc | 3mp
 v12 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יְהוָה֮|Yah·weh|But the LORD|H3068|N-proper-ms
 v12 אֶל־|’el-|to|H413|Prep
@@ -166,7 +166,7 @@ v12 הֶאֱמַנְתֶּ֣ם|he·’ĕ·man·tem|trust|H539|V-Hifil-Perf-2mp
 v12 בִּ֔י|bî|Me|H0|Prep | 1cs
 v12 לְהַ֨קְדִּישֵׁ֔נִי|lə·haq·dî·šê·nî|to show My holiness|H6942|Prep-l | V-Hifil-Inf | 1cs
 v12 לְעֵינֵ֖י|lə·‘ê·nê|in the sight|H5869|Prep-l | N-cdc
-v12 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v12 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v12 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v12 לָכֵ֗ן|lā·ḵên|...|H3651|Adv
 v12 לֹ֤א|lō|you will not|H3808|Adv-NegPrt
@@ -189,7 +189,7 @@ v13 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v13 אֶת־|’eṯ-|with|H854|Prep
 v13 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v13 וַיִּקָּדֵ֖שׁ|way·yiq·qā·ḏêš|and He showed His holiness|H6942|Conj-w | V-Nifal-ConsecImperf-3ms
-v13 בָּֽם׃ס|bām|among them|H0|Prep | 3mp
+v13 בָּֽם׃|bām|among them|H0|Prep | 3mp
 v14 וַיִּשְׁלַ֨ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v14 מֹשֶׁ֧ה|mō·šeh|Moses|H4872|N-proper-ms
 v14 מַלְאָכִ֛ים|mal·’ā·ḵîm|messengers|H4397|N-mp
@@ -262,7 +262,7 @@ v18 אֱד֔וֹם|’ĕ·ḏō·wm|But Edom|H123|N-proper-ms
 v18 לֹ֥א|lō|You may not|H3808|Adv-NegPrt
 v18 תַעֲבֹ֖ר|ṯa·‘ă·ḇōr|travel|H5674|V-Qal-Imperf-2ms
 v18 בִּ֑י|bî|through our land|H0|Prep | 1cs
-v18 פֶּן־|pen-||H6435|Conj
+v18 פֶּן־|pen-|-|H6435|Conj
 v18 בַּחֶ֖רֶב|ba·ḥe·reḇ|with the sword|H2719|Prep-b, Art | N-fs
 v18 אֵצֵ֥א|’ê·ṣê|or we will come out|H3318|V-Qal-Imperf-1cs
 v18 לִקְרָאתֶֽךָ׃|liq·rā·ṯe·ḵā|and confront you|H7122|Prep-l | V-Qal-Inf | 2ms
@@ -303,7 +303,7 @@ v21 עֲבֹ֖ר|‘ă·ḇōr|to pass|H5674|V-Qal-Inf
 v21 בִּגְבֻל֑וֹ|biḡ·ḇu·lōw|through their territory|H1366|Prep-b | N-msc | 3ms
 v21 וַיֵּ֥ט|way·yêṭ|turned away|H5186|Conj-w | V-Qal-ConsecImperf-3ms
 v21 יִשְׂרָאֵ֖ל|yiś·rā·’êl|and Israel|H3478|N-proper-ms
-v21 מֵעָלָֽיו׃פ|mê·‘ā·lāw|from them|H5921|Prep-m | 3ms
+v21 מֵעָלָֽיו׃|mê·‘ā·lāw|from them|H5921|Prep-m | 3ms
 v22 וַיִּסְע֖וּ|way·yis·‘ū|After they had set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v22 מִקָּדֵ֑שׁ|miq·qā·ḏêš|from Kadesh|H6946|Prep-m | N-proper-fs
 v22 וַיָּבֹ֧אוּ|way·yā·ḇō·’ū|came|H935|Conj-w | V-Qal-ConsecImperf-3mp
@@ -415,4 +415,4 @@ v29 שְׁלֹשִׁ֣ים|šə·lō·šîm|thirty|H7970|Number-cp
 v29 י֔וֹם|yō·wm|days|H3117|N-ms
 v29 כֹּ֖ל|kōl|the entire|H3605|N-msc
 v29 בֵּ֥ית|bêṯ|house|H1004|N-msc
-v29 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v29 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms

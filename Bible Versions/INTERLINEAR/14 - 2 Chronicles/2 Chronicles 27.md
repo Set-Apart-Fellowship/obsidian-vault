@@ -126,4 +126,4 @@ v9 דָּוִ֑יד|dā·wîḏ|of David|H1732|N-proper-ms
 v9 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v9 אָחָ֥ז|’ā·ḥāz|Ahaz|H271|N-proper-ms
 v9 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v9 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v9 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

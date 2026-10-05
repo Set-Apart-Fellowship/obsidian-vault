@@ -126,7 +126,7 @@ v12 גַּם־|gam-|even|H1571|Conj
 v12 שָׁ֖ם|šām|there|H8033|Adv
 v12 לֹא־|lō-|you will find no|H3808|Adv-NegPrt
 v12 יָנ֥וּחַֽ|yā·nū·aḥ|rest|H5117|V-Qal-Imperf-3ms
-v12 לָֽךְ׃|lāḵ||H0|Prep | 2fs
+v12 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs
 v13 הֵ֣ן׀|hên|Look at|H2005|Interjection
 v13 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fsc
 v13 כַּשְׂדִּ֗ים|kaś·dîm|Chaldeans|H3778|N-proper-mp
@@ -148,7 +148,7 @@ v14 אֳנִיּ֣וֹת|’o·nî·yō·wṯ|O ships|H591|N-fpc
 v14 תַּרְשִׁ֑ישׁ|tar·šîš|of Tarshish|H8659|N-proper-ms
 v14 כִּ֥י|kî|for|H3588|Conj
 v14 שֻׁדַּ֖ד|šud·daḏ|has been destroyed|H7703|V-Pual-Perf-3ms
-v14 מָעֻזְּכֶֽן׃ס|mā·‘uz·zə·ḵen|your harbor|H4581|N-msc | 2fp
+v14 מָעֻזְּכֶֽן׃|mā·‘uz·zə·ḵen|your harbor|H4581|N-msc | 2fp
 v15 וְהָיָה֙|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v15 בַּיּ֣וֹם|bay·yō·wm|time|H3117|Prep-b, Art | N-ms
 v15 הַה֔וּא|ha·hū|At that|H1931|Art | Pro-3ms
@@ -214,4 +214,4 @@ v18 סַחְרָ֔הּ|saḥ·rāh|profit|H5504|N-msc | 3fs
 v18 לֶאֱכֹ֥ל|le·’ĕ·ḵōl|food|H398|Prep-l | V-Qal-Inf
 v18 לְשָׂבְעָ֖ה|lə·śā·ḇə·‘āh|for abundant|H7654|Prep-l | N-fs
 v18 וְלִמְכַסֶּ֥ה|wə·lim·ḵas·seh|clothing|H4374|Conj-w, Prep-l | N-ms
-v18 עָתִֽיק׃פ|‘ā·ṯîq|and fine|H6266|Adj-ms
+v18 עָתִֽיק׃|‘ā·ṯîq|and fine|H6266|Adj-ms

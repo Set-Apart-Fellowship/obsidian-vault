@@ -192,7 +192,7 @@ v10 μαρτυρίαν|martyrian|testimony|G3141|N-AFS
 v10 ἐν|en|within|G1722|Prep
 v10 αὑτῷ|hautō|him|G848|PPro-DM3S
 v10 ὁ|ho|whoever|G3588|Art-NMS
-v10 μὴ|mē|vvv|G3361|Adv
+v10 μὴ|mē|...|G3361|Adv
 v10 πιστεύων|pisteuōn|does not believe|G4100|V-PPA-NMS
 v10 τῷ|tō|-|G3588|Art-DMS
 v10 Θεῷ|Theō|God|G2316|N-DMS
@@ -200,7 +200,7 @@ v10 ψεύστην|pseustēn|a liar|G5583|N-AMS
 v10 πεποίηκεν|pepoiēken|has made|G4160|V-RIA-3S
 v10 αὐτόν|auton|Him [out to be]|G846|PPro-AM3S
 v10 ὅτι|hoti|because|G3754|Conj
-v10 οὐ|ou|vvv|G3756|Adv
+v10 οὐ|ou|...|G3756|Adv
 v10 πεπίστευκεν|pepisteuken|he has not believed|G4100|V-RIA-3S
 v10 εἰς|eis|in|G1519|Prep
 v10 τὴν|tēn|the|G3588|Art-AFS
@@ -242,7 +242,7 @@ v12 ἔχει|echei|has|G2192|V-PIA-3S
 v12 τὴν|tēn|-|G3588|Art-AFS
 v12 ζωήν|zōēn|life|G2222|N-AFS
 v12 ὁ|ho|whoever|G3588|Art-NMS
-v12 μὴ|mē|vvv|G3361|Adv
+v12 μὴ|mē|...|G3361|Adv
 v12 ἔχων|echōn|does not have|G2192|V-PPA-NMS
 v12 τὸν|ton|the|G3588|Art-AMS
 v12 Υἱὸν|Huion|Son|G5207|N-AMS
@@ -250,7 +250,7 @@ v12 τοῦ|tou|-|G3588|Art-GMS
 v12 Θεοῦ|Theou|of God|G2316|N-GMS
 v12 τὴν|tēn|-|G3588|Art-AFS
 v12 ζωὴν|zōēn|life|G2222|N-AFS
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 ἔχει|echei|does not have|G2192|V-PIA-3S
 v13 Ταῦτα|Tauta|these things|G3778|DPro-ANP
 v13 ἔγραψα|egrapsa|I have written|G1125|V-AIA-1S
@@ -302,8 +302,8 @@ v15 οἴδαμεν|oidamen|we know|G1492|V-RIA-1P
 v15 ὅτι|hoti|that|G3754|Conj
 v15 ἔχομεν|echomen|we already possess|G2192|V-PIA-1P
 v15 τὰ|ta|what|G3588|Art-ANP
-v15 αἰτήματα|aitēmata|vvv|G155|N-ANP
-v15 ἃ|ha|vvv|G3739|RelPro-ANP
+v15 αἰτήματα|aitēmata|...|G155|N-ANP
+v15 ἃ|ha|...|G3739|RelPro-ANP
 v15 ᾐτήκαμεν|ētēkamen|we have asked|G154|V-RIA-1P
 v15 ἀπ’|ap’|of|G575|Prep
 v15 αὐτοῦ|autou|Him|G846|PPro-GM3S
@@ -332,7 +332,7 @@ v16 ἔστιν|estin|There is|G1510|V-PIA-3S
 v16 ἁμαρτία|hamartia|a sin|G266|N-NFS
 v16 πρὸς|pros|that leads to|G4314|Prep
 v16 θάνατον|thanaton|death|G2288|N-AMS
-v16 οὐ|ou|vvv|G3756|Adv
+v16 οὐ|ou|...|G3756|Adv
 v16 περὶ|peri|regarding|G4012|Prep
 v16 ἐκείνης|ekeinēs|that [sin]|G1565|DPro-GFS
 v16 λέγω|legō|I am not saying|G3004|V-PIA-1S
@@ -345,7 +345,7 @@ v17 ἐστίν|estin|is|G1510|V-PIA-3S
 v17 καὶ|kai|yet|G2532|Conj
 v17 ἔστιν|estin|there is|G1510|V-PIA-3S
 v17 ἁμαρτία|hamartia|sin|G266|N-NFS
-v17 οὐ|ou|vvv|G3756|Adv
+v17 οὐ|ou|...|G3756|Adv
 v17 πρὸς|pros|that does not lead to|G4314|Prep
 v17 θάνατον|thanaton|death|G2288|N-AMS
 v18 Οἴδαμεν|Oidamen|We know|G1492|V-RIA-1P
@@ -356,7 +356,7 @@ v18 γεγεννημένος|gegennēmenos|born|G1080|V-RPM/P-NMS
 v18 ἐκ|ek|of|G1537|Prep
 v18 τοῦ|tou|-|G3588|Art-GMS
 v18 Θεοῦ|Theou|God|G2316|N-GMS
-v18 οὐχ|ouch|vvv|G3756|Adv
+v18 οὐχ|ouch|...|G3756|Adv
 v18 ἁμαρτάνει|hamartanei|does not keep on sinning|G264|V-PIA-3S
 v18 ἀλλ’|all’|-|G235|Conj
 v18 ὁ|ho|the [One who]|G3588|Art-NMS
@@ -369,7 +369,7 @@ v18 αὐτόν|auton|him|G846|PPro-AM3S
 v18 καὶ|kai|and|G2532|Conj
 v18 ὁ|ho|the|G3588|Art-NMS
 v18 πονηρὸς|ponēros|evil [one]|G4190|Adj-NMS
-v18 οὐχ|ouch|vvv|G3756|Adv
+v18 οὐχ|ouch|...|G3756|Adv
 v18 ἅπτεται|haptetai|cannot touch|G680|V-PIM-3S
 v18 αὐτοῦ|autou|him|G846|PPro-GM3S
 v19 οἴδαμεν|oidamen|We know|G1492|V-RIA-1P

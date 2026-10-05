@@ -27,15 +27,15 @@ v2 אֶל־|’el-|a section for|H413|Prep
 v2 הַקֹּ֔דֶשׁ|haq·qō·ḏeš|the sanctuary|H6944|Art | N-ms
 v2 חֲמֵ֥שׁ|ḥă·mêš|500 [cubits]|H2568|Number-fsc
 v2 מֵא֛וֹת|mê·’ō·wṯ|...|H3967|Number-fp
-v2 בַּחֲמֵ֥שׁ|ba·ḥă·mêš||H2568|Prep-b, Art | Number-fsc
-v2 מֵא֖וֹת|mê·’ō·wṯ||H3967|Number-fp
+v2 בַּחֲמֵ֥שׁ|ba·ḥă·mêš|-|H2568|Prep-b, Art | Number-fsc
+v2 מֵא֖וֹת|mê·’ō·wṯ|-|H3967|Number-fp
 v2 מְרֻבָּ֣ע|mə·rub·bā‘|square|H7251|V-Pual-Prtcpl-ms
 v2 סָבִ֑יב|sā·ḇîḇ|around it|H5439|Adv
 v2 וַחֲמִשִּׁ֣ים|wa·ḥă·miš·šîm|with 50|H2572|Conj-w | Number-cp
 v2 אַמָּ֔ה|’am·māh|cubits|H520|N-fs
 v2 מִגְרָ֥שׁ|miḡ·rāš|for open land|H4054|N-ms
-v2 ל֖וֹ|lōw||H0|Prep | 3ms
-v2 סָבִֽיב׃|sā·ḇîḇ||H5439|Adv
+v2 ל֖וֹ|lōw|-|H0|Prep | 3ms
+v2 סָבִֽיב׃|sā·ḇîḇ|-|H5439|Adv
 v3 וּמִן־|ū·min-|From|H4480|Conj-w | Prep
 v3 הַמִּדָּ֤ה|ham·mid·dāh|holy portion|H4060|Art | N-fs
 v3 הַזֹּאת֙|haz·zōṯ|this|H2063|Art | Pro-fs
@@ -106,7 +106,7 @@ v7 וְלַנָּשִׂ֡יא|wə·lan·nā·śî|Now the prince|H5387|Conj-w, P
 v7 מִזֶּ֣ה|miz·zeh|will have the area|H2088|Prep-m | Pro-ms
 v7 וּמִזֶּה֩|ū·miz·zeh|each side of the area formed by|H2088|Conj-w, Prep-m | Pro-ms
 v7 לִתְרוּמַ֨ת|liṯ·rū·maṯ|-|H8641|Prep-l | N-fsc
-v7 הַקֹּ֜דֶשׁ|haq·qō·ḏeš||H6944|Art | N-ms
+v7 הַקֹּ֜דֶשׁ|haq·qō·ḏeš|-|H6944|Art | N-ms
 v7 וְלַאֲחֻזַּ֣ת|wə·la·’ă·ḥuz·zaṯ|-|H272|Conj-w, Prep-l | N-fsc
 v7 הָעִ֗יר|hā·‘îr|...|H5892|Art | N-fs
 v7 אֶל־|’el-|-|H413|Prep
@@ -147,13 +147,13 @@ v8 וְהָאָ֛רֶץ|wə·hā·’ā·reṣ|the rest of the land|H776|Conj-w,
 v8 יִתְּנ֥וּ|yit·tə·nū|but will give|H5414|V-Qal-Imperf-3mp
 v8 לְבֵֽית־|lə·ḇêṯ-|to the house|H1004|Prep-l | N-msc
 v8 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v8 לְשִׁבְטֵיהֶֽם׃ס|lə·šiḇ·ṭê·hem|according to their tribes|H7626|Prep-l | N-mpc | 3mp
+v8 לְשִׁבְטֵיהֶֽם׃|lə·šiḇ·ṭê·hem|according to their tribes|H7626|Prep-l | N-mpc | 3mp
 v9 כֹּֽה־|kōh-|For this is what|H3541|Adv
 v9 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v9 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v9 יְהוִ֗ה|Yah·weh|GOD|H3069|N-proper-ms
 v9 רַב־|raḇ-|Enough|H7227|Adv
-v9 לָכֶם֙|lā·ḵem||H0|Prep | 2mp
+v9 לָכֶם֙|lā·ḵem|-|H0|Prep | 2mp
 v9 נְשִׂיאֵ֣י|nə·śî·’ê|O princes|H5387|N-mpc
 v9 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v9 חָמָ֤ס|ḥā·mās|your violence|H2555|N-ms
@@ -176,7 +176,7 @@ v10 צֶ֛דֶק|ṣe·ḏeq|a just|H6664|N-ms
 v10 וּבַת־|ū·ḇaṯ-|bath|H1324|Conj-w | N-fsc
 v10 צֶ֖דֶק|ṣe·ḏeq|and a just|H6664|N-ms
 v10 יְהִ֥י|yə·hî|You must use|H1961|V-Qal-Imperf.Jus-3ms
-v10 לָכֶֽם׃|lā·ḵem||H0|Prep | 2mp
+v10 לָכֶֽם׃|lā·ḵem|-|H0|Prep | 2mp
 v11 הָאֵיפָ֣ה|hā·’ê·p̄āh|The ephah|H374|Art | N-fs
 v11 וְהַבַּ֗ת|wə·hab·baṯ|and the bath|H1324|Conj-w, Art | N-ms
 v11 תֹּ֤כֶן|tō·ḵen|quantity|H8506|N-ms
@@ -206,7 +206,7 @@ v12 וַחֲמִשָּׁה֙|wa·ḥă·miš·šāh|...|H2568|Conj-w | Number-m
 v12 שֶׁ֔קֶל|še·qel|shekels|H8255|N-ms
 v12 הַמָּנֶ֖ה|ham·mā·neh|one mina|H4488|Art | N-ms
 v12 יִֽהְיֶ֥ה|yih·yeh|will equal|H1961|V-Qal-Imperf-3ms
-v12 לָכֶֽם׃|lā·ḵem||H0|Prep | 2mp
+v12 לָכֶֽם׃|lā·ḵem|-|H0|Prep | 2mp
 v13 זֹ֥את|zōṯ|This|H2063|Pro-fs
 v13 הַתְּרוּמָ֖ה|hat·tə·rū·māh|is the contribution|H8641|Art | N-fs
 v13 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
@@ -285,7 +285,7 @@ v17 הַשְּׁלָמִ֔ים|haš·šə·lā·mîm|and peace offerings|H8002|A
 v17 לְכַפֵּ֖ר|lə·ḵap·pêr|to make atonement|H3722|Prep-l | V-Piel-Inf
 v17 בְּעַ֥ד|bə·‘aḏ|for|H1157|Prep
 v17 בֵּֽית־|bêṯ-|the house|H1004|N-msc
-v17 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v17 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v18 כֹּה־|kōh-|This is what|H3541|Adv
 v18 אָמַר֮|’ā·mar|says|H559|V-Qal-Perf-3ms
 v18 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -335,7 +335,7 @@ v21 עָשָׂ֥ר|‘ā·śār|...|H6240|Number-ms
 v21 יוֹם֙|yō·wm|day|H3117|N-ms
 v21 לַחֹ֔דֶשׁ|la·ḥō·ḏeš|-|H2320|Prep-l, Art | N-ms
 v21 יִהְיֶ֥ה|yih·yeh|you are to observe|H1961|V-Qal-Imperf-3ms
-v21 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v21 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v21 הַפָּ֑סַח|hap·pā·saḥ|the Passover|H6453|Art | N-ms
 v21 חָ֕ג|ḥāḡ|a feast|H2282|N-ms
 v21 שְׁבֻע֣וֹת|šə·ḇu·‘ō·wṯ|of seven|H7620|N-mpc
@@ -393,4 +393,4 @@ v25 הַיָּמִ֑ים|hay·yā·mîm|days|H3117|Art | N-mp
 v25 כַּֽחַטָּאת֙|ka·ḥaṭ·ṭāṯ|for sin offerings|H2403|Prep-k, Art | N-fs
 v25 כָּעֹלָ֔ה|kā·‘ō·lāh|burnt offerings|H5930|Prep-k, Art | N-fs
 v25 וְכַמִּנְחָ֖ה|wə·ḵam·min·ḥāh|grain offerings|H4503|Conj-w, Prep-k, Art | N-fs
-v25 וְכַשָּֽׁמֶן׃ס|wə·ḵaš·šā·men|and oil|H8081|Conj-w, Prep-k, Art | N-ms
+v25 וְכַשָּֽׁמֶן׃|wə·ḵaš·šā·men|and oil|H8081|Conj-w, Prep-k, Art | N-ms

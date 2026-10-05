@@ -66,7 +66,7 @@ v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 בָּנָ֤יו|bā·nāw|his sons|H1121|N-mpc | 3ms
 v6 בָּאֵשׁ֙|bā·’êš|in the fire|H784|Prep-b, Art | N-cs
 v6 בְּגֵ֣י|bə·ḡê|in the Valley|H1516|Prep-b | N-proper-fs
-v6 בֶן־|ḇen-|vvv|H1121|N-msc
+v6 בֶן־|ḇen-|...|H1121|N-msc
 v6 הִנֹּ֔ם|hin·nōm|of Ben-hinnom|H2011|N-proper
 v6 וְעוֹנֵ֤ן|wə·‘ō·w·nên|He practiced sorcery|H6049|Conj-w | V-Piel-ConjPerf-3ms
 v6 וְנִחֵשׁ֙|wə·ni·ḥêš|divination|H5172|Conj-w | V-Piel-ConjPerf-3ms
@@ -148,7 +148,7 @@ v9 הִשְׁמִ֣יד|hiš·mîḏ|had destroyed|H8045|V-Hifil-Perf-3ms
 v9 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v9 מִפְּנֵ֖י|mip·pə·nê|before|H6440|Prep-m | N-cpc
 v9 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
-v9 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|...|H3478|N-proper-ms
+v9 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v10 וַיְדַבֵּ֧ר|way·ḏab·bêr|spoke|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v10 יְהוָ֛ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v10 אֶל־|’el-|to|H413|Prep
@@ -175,7 +175,7 @@ v11 בַּֽנְחֻשְׁתַּ֔יִם|ban·ḥuš·ta·yim|with bronze shackl
 v11 וַיּוֹלִיכֻ֖הוּ|way·yō·w·lî·ḵu·hū|and took him|H1980|Conj-w | V-Hifil-ConsecImperf-3mp | 3ms
 v11 בָּבֶֽלָה׃|bā·ḇe·lāh|to Babylon|H894|N-proper-fs | 3fs
 v12 וּכְהָצֵ֣ר|ū·ḵə·hā·ṣêr|And in his distress|H6887|Conj-w, Prep-k | V-Hifil-Inf
-v12 ל֔וֹ|lōw||H0|Prep | 3ms
+v12 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v12 חִלָּ֕ה|ḥil·lāh|[Manasseh] sought|H2470|V-Piel-Perf-3ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 פְּנֵ֖י|pə·nê|the favor|H6440|N-cpc
@@ -189,7 +189,7 @@ v12 אֲבֹתָֽיו׃|’ă·ḇō·ṯāw|of his fathers|H1|N-mpc | 3ms
 v13 וַיִּתְפַּלֵּ֣ל|way·yiṯ·pal·lêl|And when he prayed|H6419|Conj-w | V-Hitpael-ConsecImperf-3ms
 v13 אֵלָ֗יו|’ê·lāw|to Him|H413|Prep | 3ms
 v13 וַיֵּעָ֤תֶר|way·yê·‘ā·ṯer|the LORD received his plea|H6279|Conj-w | V-Nifal-ConsecImperf-3ms
-v13 לוֹ֙|lōw||H0|Prep | 3ms
+v13 לוֹ֙|lōw|-|H0|Prep | 3ms
 v13 וַיִּשְׁמַ֣ע|way·yiš·ma‘|and heard|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v13 תְּחִנָּת֔וֹ|tə·ḥin·nā·ṯōw|his petition|H8467|N-fsc | 3ms
 v13 וַיְשִׁיבֵ֥הוּ|way·šî·ḇê·hū|So He brought him back|H7725|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
@@ -289,14 +289,14 @@ v18 מַלְכֵ֥י|mal·ḵê|of the Kings|H4428|N-mpc
 v18 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v19 וּתְפִלָּת֣וֹ|ū·ṯə·p̄il·lā·ṯōw|His prayer|H8605|Conj-w | N-fsc | 3ms
 v19 וְהֵֽעָתֶר־|wə·hê·‘ā·ṯer-|and [how God] received his plea|H6279|Conj-w | V-Nifal-Inf
-v19 לוֹ֮|lōw||H0|Prep | 3ms
+v19 לוֹ֮|lōw|-|H0|Prep | 3ms
 v19 וְכָל־|wə·ḵāl|as well as all|H3605|Conj-w | N-msc
 v19 חַטָּאת֣וֹ|ḥaṭ·ṭā·ṯōw|his sin|H2403|N-fsc | 3ms
 v19 וּמַעְלוֹ֒|ū·ma‘·lōw|and unfaithfulness|H4604|Conj-w | N-msc | 3ms
 v19 וְהַמְּקֹמ֗וֹת|wə·ham·mə·qō·mō·wṯ|and the sites|H4725|Conj-w, Art | N-mp
 v19 אֲשֶׁר֩|’ă·šer|where|H834|Pro-r
 v19 בָּנָ֨ה|bā·nāh|he built|H1129|V-Qal-Perf-3ms
-v19 בָהֶ֤ם|ḇā·hem||H0|Prep | 3mp
+v19 בָהֶ֤ם|ḇā·hem|-|H0|Prep | 3mp
 v19 בָּמוֹת֙|bā·mō·wṯ|high places|H1116|N-fpc
 v19 וְהֶעֱמִיד֙|wə·he·‘ĕ·mîḏ|and set up|H5975|Conj-w | V-Hifil-ConjPerf-3ms
 v19 הָאֲשֵׁרִ֣ים|hā·’ă·šê·rîm|Asherah poles|H842|Art | N-fp
@@ -317,7 +317,7 @@ v20 בֵּית֑וֹ|bê·ṯōw|at his palace|H1004|N-msc | 3ms
 v20 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אָמ֥וֹן|’ā·mō·wn|Amon|H526|N-proper-ms
 v20 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v20 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v20 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v21 בֶּן־|ben-|years old|H1121|N-msc
 v21 עֶשְׂרִ֧ים|‘eś·rîm|was twenty-two|H6242|Number-cp
 v21 וּשְׁתַּ֛יִם|ū·šə·ta·yim|...|H8147|Conj-w | Number-fd
@@ -365,7 +365,7 @@ v24 בְּבֵיתֽוֹ׃|bə·ḇê·ṯōw|in his palace|H1004|Prep-b | N-msc
 v25 וַיַּכּוּ֙|way·yak·kū|killed|H5221|Conj-w | V-Hifil-ConsecImperf-3mp
 v25 עַם־|‘am-|But the people|H5971|N-msc
 v25 הָאָ֔רֶץ|hā·’ā·reṣ|of the land|H776|Art | N-fs
-v25 אֵ֥ת|’êṯ||H853|DirObjM
+v25 אֵ֥ת|’êṯ|-|H853|DirObjM
 v25 כָּל־|kāl-|all [those]|H3605|N-msc
 v25 הַקֹּֽשְׁרִ֖ים|haq·qō·šə·rîm|who had conspired|H7194|Art | V-Qal-Prtcpl-mp
 v25 עַל־|‘al-|against|H5921|Prep
@@ -377,4 +377,4 @@ v25 הָאָ֛רֶץ|hā·’ā·reṣ|...|H776|Art | N-fs
 v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 יֹאשִׁיָּ֥הוּ|yō·šî·yā·hū|Josiah|H2977|N-proper-ms
 v25 בְנ֖וֹ|ḇə·nōw|and they made his son|H1121|N-msc | 3ms
-v25 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v25 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

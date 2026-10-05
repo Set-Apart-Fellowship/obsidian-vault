@@ -167,7 +167,7 @@ v26 עַבְדּ֑וֹ|‘aḇ·dōw|His servant|H5650|N-msc | 3ms
 v26 אַ֝הֲרֹ֗ן|’a·hă·rōn|and Aaron|H175|N-proper-ms
 v26 אֲשֶׁ֣ר|’ă·šer|whom|H834|Pro-r
 v26 בָּֽחַר־|bā·ḥar-|He had chosen|H977|V-Qal-Perf-3ms
-v26 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v26 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v27 שָֽׂמוּ־|śā·mū-|They performed|H7760|V-Qal-Perf-3cp
 v27 בָ֭ם|ḇām|among them|H0|Prep | 3mp
 v27 דִּבְרֵ֣י|diḇ·rê|signs|H1697|N-mpc

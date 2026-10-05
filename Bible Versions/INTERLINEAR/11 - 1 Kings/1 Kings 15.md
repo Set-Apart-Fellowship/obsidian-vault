@@ -111,7 +111,7 @@ v8 דָּוִ֑ד|dā·wiḏ|of David|H1732|N-proper-ms
 v8 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v8 אָסָ֥א|’ā·sā|Asa|H609|N-proper-ms
 v8 בְנ֖וֹ|ḇə·nōw|and his son|H1121|N-msc | 3ms
-v8 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v8 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v9 וּבִשְׁנַ֣ת|ū·ḇiš·naṯ|year|H8141|Conj-w, Prep-b | N-fsc
 v9 עֶשְׂרִ֔ים|‘eś·rîm|In the twentieth|H6242|Number-cp
 v9 לְיָרָבְעָ֖ם|lə·yā·rā·ḇə·‘ām|of Jeroboam's|H3379|Prep-l | N-proper-ms
@@ -205,9 +205,9 @@ v17 יִשְׂרָאֵל֙|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v17 עַל־|‘al-|against|H5921|Prep
 v17 יְהוּדָ֔ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v17 וַיִּ֖בֶן|way·yi·ḇen|and fortified|H1129|Conj-w | V-Qal-ConsecImperf-3ms
-v17 אֶת־|’eṯ-||H853|DirObjM
+v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 הָרָמָ֑ה|hā·rā·māh|Ramah|H7414|Art | N-proper-fs
-v17 לְבִלְתִּ֗י|lə·ḇil·tî|vvv|H1115|Prep-l
+v17 לְבִלְתִּ֗י|lə·ḇil·tî|...|H1115|Prep-l
 v17 תֵּ֚ת|têṯ|to prevent|H5414|V-Qal-Inf
 v17 יֹצֵ֣א|yō·ṣê|[anyone] from leaving|H3318|V-Qal-Prtcpl-ms
 v17 וָבָ֔א|wā·ḇā|or entering the territory of|H935|Conj-w | V-Qal-Prtcpl-ms
@@ -235,7 +235,7 @@ v18 וַיִּשְׁלָחֵ֞ם|way·yiš·lā·ḥêm|and sent them|H7971|Conj
 v18 הַמֶּ֣לֶךְ|ham·me·leḵ|-|H4428|Art | N-ms
 v18 אָסָ֗א|’ā·sā|-|H609|N-proper-ms
 v18 אֶל־|’el-|to|H413|Prep
-v18 בֶּן־|ben-|vvv|H1130|Prep
+v18 בֶּן־|ben-|...|H1130|Prep
 v18 הֲ֠דַד|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v18 בֶּן־|ben-|son|H1121|N-msc
 v18 טַבְרִמֹּ֤ן|ṭaḇ·rim·mōn|of Tabrimmon|H2886|N-proper-ms
@@ -270,7 +270,7 @@ v19 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v19 וְיַעֲלֶ֖ה|wə·ya·‘ă·leh|so that he will withdraw|H5927|Conj-w | V-Qal-ConjImperf-3ms
 v19 מֵעָלָֽי׃|mê·‘ā·lāy|from me|H5921|Prep-m | 1cs
 v20 וַיִּשְׁמַ֨ע|way·yiš·ma‘|listened|H8085|Conj-w | V-Qal-ConsecImperf-3ms
-v20 בֶּן־|ben-|vvv|H1130|N-proper-ms
+v20 בֶּן־|ben-|...|H1130|N-proper-ms
 v20 הֲדַ֜ד|hă·ḏaḏ|And Ben-hadad|H1130|N-proper-ms
 v20 אֶל־|’el-|to|H413|Prep
 v20 הַמֶּ֣לֶךְ|ham·me·leḵ|King|H4428|Art | N-ms
@@ -280,7 +280,7 @@ v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 שָׂרֵ֨י|śā·rê|the commanders|H8269|N-mpc
 v20 הַחֲיָלִ֤ים|ha·ḥă·yā·lîm|of his armies|H2428|Art | N-mp
 v20 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v20 לוֹ֙|lōw||H0|Prep | 3ms
+v20 לוֹ֙|lōw|-|H0|Prep | 3ms
 v20 עַל־|‘al-|against|H5921|Prep
 v20 עָרֵ֣י|‘ā·rê|the cities|H5892|Prep
 v20 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -290,8 +290,8 @@ v20 עִיּ֣וֹן|‘î·yō·wn|Ijon|H5859|N-proper-fs
 v20 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v20 דָּ֔ן|dān|Dan|H1835|N-proper-ms
 v20 וְאֵ֖ת|wə·’êṯ|-|H853|Conj-w | DirObjM
-v20 אָבֵ֣ל|’ā·ḇêl|vvv|H59|DirObjM
-v20 בֵּֽית־|bêṯ-|vvv|H1038|Prep
+v20 אָבֵ֣ל|’ā·ḇêl|...|H59|DirObjM
+v20 בֵּֽית־|bêṯ-|...|H1038|Prep
 v20 מַעֲכָ֑ה|ma·‘ă·ḵāh|Abel-beth-maacah|H1038|N-proper-fs
 v20 וְאֵת֙|wə·’êṯ|including|H853|Conj-w | DirObjM
 v20 כָּל־|kāl-|the region|H3605|N-msc
@@ -312,7 +312,7 @@ v21 בְּתִרְצָֽה׃|bə·ṯir·ṣāh|to Tirzah|H8656|Prep-b | N-prope
 v22 וְהַמֶּ֨לֶךְ|wə·ham·me·leḵ|Then King|H4428|Conj-w, Art | N-ms
 v22 אָסָ֜א|’ā·sā|Asa|H609|N-proper-ms
 v22 הִשְׁמִ֤יעַ|hiš·mî·a‘|summoned|H8085|V-Hifil-Perf-3ms
-v22 אֶת־|’eṯ-||H853|DirObjM
+v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 כָּל־|kāl-|all [the men]|H3605|N-msc
 v22 יְהוּדָה֙|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v22 אֵ֣ין|’ên|with no|H369|Adv
@@ -357,7 +357,7 @@ v23 הַיָּמִ֖ים|hay·yā·mîm|...|H3117|Art | N-mp
 v23 לְמַלְכֵ֣י|lə·mal·ḵê|of the Kings|H4428|Prep-l | N-mpc
 v23 יְהוּדָ֑ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v23 רַ֚ק|raq|however|H7535|Adv
-v23 לְעֵ֣ת|lə·‘êṯ|vvv|H6256|Prep-l | N-csc
+v23 לְעֵ֣ת|lə·‘êṯ|...|H6256|Prep-l | N-csc
 v23 זִקְנָת֔וֹ|ziq·nā·ṯōw|In his old age|H2209|N-fsc | 3ms
 v23 חָלָ֖ה|ḥā·lāh|he became diseased|H2470|V-Qal-Perf-3ms
 v23 אֶת־|’eṯ-|-|H853|Prep
@@ -375,7 +375,7 @@ v24 אָבִ֑יו|’ā·ḇîw|of his father|H1|N-msc | 3ms
 v24 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v24 יְהוֹשָׁפָ֥ט|yə·hō·wō·šā·p̄āṭ|Jehoshaphat|H3092|N-proper-ms
 v24 בְּנ֖וֹ|bə·nōw|and his son|H1121|N-msc | 3ms
-v24 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v24 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v25 וְנָדָ֣ב|wə·nā·ḏāḇ|Nadab|H5070|Conj-w | N-proper-ms
 v25 בֶּן־|ben-|son|H1121|N-msc
 v25 יָרָבְעָ֗ם|yā·rā·ḇə·‘ām|of Jeroboam|H3379|N-proper-ms
@@ -492,7 +492,7 @@ v32 בַּעְשָׁ֥א|ba‘·šā|and Baasha|H1201|N-proper-ms
 v32 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v32 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v32 כָּל־|kāl-|throughout|H3605|N-msc
-v32 יְמֵיהֶֽם׃פ|yə·mê·hem|their days|H3117|N-mpc | 3mp
+v32 יְמֵיהֶֽם׃|yə·mê·hem|their days|H3117|N-mpc | 3mp
 v33 בִּשְׁנַ֣ת|biš·naṯ|year|H8141|Prep-b | N-fsc
 v33 שָׁלֹ֔שׁ|šā·lōš|In the third|H7969|Number-fs
 v33 לְאָסָ֖א|lə·’ā·sā|of Asa's|H609|Prep-l | N-proper-ms
@@ -520,4 +520,4 @@ v34 וּ֨בְחַטָּאת֔וֹ|ū·ḇə·ḥaṭ·ṭā·ṯōw|and in his 
 v34 אֲשֶׁ֥ר|’ă·šer|which|H834|Pro-r
 v34 הֶחֱטִ֖יא|he·ḥĕ·ṭî|to commit|H2398|V-Hifil-Perf-3ms
 v34 אֶת־|’eṯ-|-|H853|DirObjM
-v34 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|he had caused Israel|H3478|N-proper-ms
+v34 יִשְׂרָאֵֽל׃|yiś·rā·’êl|he had caused Israel|H3478|N-proper-ms

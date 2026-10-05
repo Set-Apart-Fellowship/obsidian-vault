@@ -1,4 +1,4 @@
-v1 וּבְנֵ֣י|ū·ḇə·nê|vvv|H1121|Conj-w | N-mpc
+v1 וּבְנֵ֣י|ū·ḇə·nê|...|H1121|Conj-w | N-mpc
 v1 יִשְׂרָאֵ֣ל׀|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v1 לְֽמִסְפָּרָ֡ם|lə·mis·pā·rām|This is the list|H4557|Prep-l | N-msc | 3mp
 v1 רָאשֵׁ֣י|rā·šê|the heads|H7218|N-mpc
@@ -24,7 +24,7 @@ v1 הַֽמַּחֲלֹ֙קֶת֙|ham·ma·ḥă·lō·qeṯ|division|H4256|Art
 v1 הָֽאַחַ֔ת|hā·’a·ḥaṯ|in each|H259|Art | Number-fs
 v1 עֶשְׂרִ֥ים|‘eś·rîm|There were 24,000 men|H6242|Number-cp
 v1 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
-v1 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v1 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v2 עַ֞ל|‘al|was in charge of|H5921|Prep
 v2 הַמַּחֲלֹ֤קֶת|ham·ma·ḥă·lō·qeṯ|division|H4256|Art | N-fs
 v2 הָרִֽאשׁוֹנָה֙|hā·ri·šō·w·nāh|the first|H7223|Art | Adj-fs
@@ -60,7 +60,7 @@ v4 וְעַל֙|wə·‘al|[men] in|H5921|Conj-w | Prep
 v4 מַחֲלֻקְתּ֔וֹ|ma·ḥă·luq·tōw|...|H4256|N-fsc | 3ms
 v4 עֶשְׂרִ֥ים|‘eś·rîm|[There were] 24,000|H6242|Number-cp
 v4 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
-v4 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v4 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v5 שַׂ֣ר|śar|commander|H8269|N-msc
 v5 הַצָּבָ֤א|haṣ·ṣā·ḇā|army|H6635|Art | N-cs
 v5 הַשְּׁלִישִׁי֙|haš·šə·lî·šî|The third|H7992|Art | Number-oms
@@ -84,11 +84,11 @@ v6 וְעַל־|wə·‘al-|and was over|H5921|Conj-w | Prep
 v6 הַשְּׁלֹשִׁ֑ים|haš·šə·lō·šîm|the Thirty|H7970|Art | Number-cp
 v6 וּמַ֣חֲלֻקְתּ֔וֹ|ū·ma·ḥă·luq·tōw|was in charge of his division|H4256|Conj-w | N-fsc | 3ms
 v6 עַמִּיזָבָ֖ד|‘am·mî·zā·ḇāḏ|Ammizabad|H5990|N-proper-ms
-v6 בְּנֽוֹ׃ס|bə·nōw|and his son|H1121|N-msc | 3ms
+v6 בְּנֽוֹ׃|bə·nōw|and his son|H1121|N-msc | 3ms
 v7 הָֽרְבִיעִ֞י|hā·rə·ḇî·‘î|The fourth|H7243|Art | Number-oms
 v7 לַחֹ֣דֶשׁ|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v7 הָרְבִיעִ֗י|hā·rə·ḇî·‘î|for the fourth|H7243|Art | Number-oms
-v7 עֲשָׂה־|‘ă·śāh-|vvv|H6214|
+v7 עֲשָׂה־|‘ă·śāh-|...|H6214|
 v7 אֵל֙|’êl|Asahel|H6214|N-proper-ms
 v7 אֲחִ֣י|’ă·ḥî|brother|H251|N-msc
 v7 יוֹאָ֔ב|yō·w·’āḇ|was Joab's|H3097|N-proper-ms
@@ -99,7 +99,7 @@ v7 וְעַל֙|wə·‘al|[men] in|H5921|Conj-w | Prep
 v7 מַחֲלֻקְתּ֔וֹ|ma·ḥă·luq·tōw|his division|H4256|N-fsc | 3ms
 v7 עֶשְׂרִ֥ים|‘eś·rîm|[There were] 24,000|H6242|Number-cp
 v7 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
-v7 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v7 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v8 הַחַמִישִׁי֙|ha·ḥa·mî·šî|The fifth|H2549|Art | Number-oms
 v8 לַחֹ֣דֶשׁ|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v8 הַחֲמִישִׁ֔י|ha·ḥă·mî·šî|for the fifth|H2549|Art | Number-oms
@@ -110,7 +110,7 @@ v8 וְעַל֙|wə·‘al|[men] in|H5921|Conj-w | Prep
 v8 מַחֲלֻקְתּ֔וֹ|ma·ḥă·luq·tōw|his division|H4256|N-fsc | 3ms
 v8 עֶשְׂרִ֥ים|‘eś·rîm|[There were] 24,000|H6242|Number-cp
 v8 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
-v8 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v8 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v9 הַשִּׁשִּׁי֙|haš·šiš·šî|The sixth|H8345|Art | Number-oms
 v9 לַחֹ֣דֶשׁ|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v9 הַשִּׁשִּׁ֔י|haš·šiš·šî|for the sixth|H8345|Art | Number-oms
@@ -122,20 +122,20 @@ v9 וְעַל֙|wə·‘al|[men] in|H5921|Conj-w | Prep
 v9 מַחֲלֻקְתּ֔וֹ|ma·ḥă·luq·tōw|his division|H4256|N-fsc | 3ms
 v9 עֶשְׂרִ֥ים|‘eś·rîm|[There were] 24,000|H6242|Number-cp
 v9 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
-v9 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v9 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v10 הַשְּׁבִיעִי֙|haš·šə·ḇî·‘î|The seventh|H7637|Art | Number-oms
 v10 לַחֹ֣דֶשׁ|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v10 הַשְּׁבִיעִ֔י|haš·šə·ḇî·‘î|for the seventh|H7637|Art | Number-oms
 v10 חֶ֥לֶץ|ḥe·leṣ|was Helez|H2503|N-proper-ms
 v10 הַפְּלוֹנִ֖י|hap·pə·lō·w·nî|the Pelonite|H6397|Art | N-proper-ms
-v10 מִן־|min-|vvv|H4480|Prep
-v10 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v10 מִן־|min-|...|H4480|Prep
+v10 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v10 אֶפְרָ֑יִם|’ep̄·rā·yim|an Ephraimite|H669|N-proper-ms
 v10 וְעַל֙|wə·‘al|[men] in|H5921|Conj-w | Prep
 v10 מַחֲלֻקְתּ֔וֹ|ma·ḥă·luq·tōw|his division|H4256|N-fsc | 3ms
 v10 עֶשְׂרִ֥ים|‘eś·rîm|[There were] 24,000|H6242|Number-cp
 v10 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
-v10 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v10 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v11 הַשְּׁמִינִי֙|haš·šə·mî·nî|The eighth|H8066|Art | Number-oms
 v11 לַחֹ֣דֶשׁ|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v11 הַשְּׁמִינִ֔י|haš·šə·mî·nî|for the eighth|H8066|Art | Number-oms
@@ -146,7 +146,7 @@ v11 וְעַל֙|wə·‘al|[men] in|H5921|Conj-w | Prep
 v11 מַחֲלֻקְתּ֔וֹ|ma·ḥă·luq·tōw|his division|H4256|N-fsc | 3ms
 v11 עֶשְׂרִ֥ים|‘eś·rîm|[There were] 24,000|H6242|Number-cp
 v11 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
-v11 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v11 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v12 הַתְּשִׁיעִי֙|hat·tə·šî·‘î|The ninth|H8671|Art | Number-oms
 v12 לַחֹ֣דֶשׁ|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v12 הַתְּשִׁיעִ֔י|hat·tə·šî·‘î|for the ninth|H8671|Art | Number-oms
@@ -157,7 +157,7 @@ v12 וְעַל֙|wə·‘al|[men] in|H5921|Conj-w | Prep
 v12 מַחֲלֻקְתּ֔וֹ|ma·ḥă·luq·tōw|his division|H4256|N-fsc | 3ms
 v12 עֶשְׂרִ֥ים|‘eś·rîm|[There were] 24,000|H6242|Number-cp
 v12 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
-v12 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v12 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v13 הָעֲשִׂירִי֙|hā·‘ă·śî·rî|The tenth|H6224|Art | Number-oms
 v13 לַחֹ֣דֶשׁ|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v13 הָעֲשִׂירִ֔י|hā·‘ă·śî·rî|for the tenth|H6224|Art | Number-oms
@@ -168,7 +168,7 @@ v13 וְעַל֙|wə·‘al|[men] in|H5921|Conj-w | Prep
 v13 מַֽחֲלֻקְתּ֔וֹ|ma·ḥă·luq·tōw|his division|H4256|N-fsc | 3ms
 v13 עֶשְׂרִ֥ים|‘eś·rîm|[There were] 24,000|H6242|Number-cp
 v13 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
-v13 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v13 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v14 עַשְׁתֵּֽי־|‘aš·tê-|The eleventh|H6249|Number-csc
 v14 עָשָׂר֙|‘ā·śār|...|H6240|Number-ms
 v14 לְעַשְׁתֵּ֣י־|lə·‘aš·tê-|for the eleventh|H6249|Prep-l | Number-csc
@@ -176,14 +176,14 @@ v14 עָשָׂ֣ר|‘ā·śār|...|H6240|Number-msc
 v14 הַחֹ֔דֶשׁ|ha·ḥō·ḏeš|month|H2320|Art | N-ms
 v14 בְּנָיָ֥ה|bə·nā·yāh|was Benaiah|H1141|N-proper-ms
 v14 הַפִּרְעָתוֹנִ֖י|hap·pir·‘ā·ṯō·w·nî|the Pirathonite|H6553|Art | N-proper-ms
-v14 מִן־|min-|vvv|H4480|Prep
-v14 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v14 מִן־|min-|...|H4480|Prep
+v14 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v14 אֶפְרָ֑יִם|’ep̄·rā·yim|an Ephraimite|H669|N-proper-ms
 v14 וְעַל֙|wə·‘al|[men] in|H5921|Conj-w | Prep
 v14 מַחֲלֻקְתּ֔וֹ|ma·ḥă·luq·tōw|his division|H4256|N-fsc | 3ms
 v14 עֶשְׂרִ֥ים|‘eś·rîm|[There were] 24,000|H6242|Number-cp
 v14 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
-v14 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v14 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v15 הַשְּׁנֵ֤ים|haš·šə·nêm|The twelfth|H8147|Art | Number-mdc
 v15 עָשָׂר֙|‘ā·śār|...|H6240|Number-ms
 v15 לִשְׁנֵ֣ים|liš·nêm|for the twelfth|H8147|Prep-l | Number-md
@@ -196,7 +196,7 @@ v15 וְעַל֙|wə·‘al|[men] in|H5921|Conj-w | Prep
 v15 מַחֲלֻקְתּ֔וֹ|ma·ḥă·luq·tōw|his division|H4256|N-fsc | 3ms
 v15 עֶשְׂרִ֥ים|‘eś·rîm|[There were] 24,000|H6242|Number-cp
 v15 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
-v15 אָֽלֶף׃פ|’ā·lep̄|...|H505|Number-ms
+v15 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v16 וְעַל֙|wə·‘al|These officers were in charge of|H5921|Conj-w | Prep
 v16 שִׁבְטֵ֣י|šiḇ·ṭê|the tribes|H7626|N-mpc
 v16 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -208,13 +208,13 @@ v16 זִכְרִ֑יס|ziḵ·rīs|of Zichri|H2147|N-proper-ms
 v16 לַשִּׁ֨מְעוֹנִ֔י|laš·šim·‘ō·w·nî|over the Simeonites|H8099|Prep-l, Art | N-proper-ms
 v16 שְׁפַטְיָ֖הוּ|šə·p̄aṭ·yā·hū|[was] Shephatiah|H8203|N-proper-ms
 v16 בֶּֽן־|ben-|son|H1121|N-msc
-v16 מַעֲכָֽה׃ס|ma·‘ă·ḵāh|of Maacah|H4601|N-proper-ms
+v16 מַעֲכָֽה׃|ma·‘ă·ḵāh|of Maacah|H4601|N-proper-ms
 v17 לְלֵוִ֛י|lə·lê·wî|over Levi|H3878|Prep-l | N-proper-ms
 v17 חֲשַׁבְיָ֥ה|ḥă·šaḇ·yāh|[was] Hashabiah|H2811|N-proper-ms
 v17 בֶן־|ḇen-|son|H1121|N-msc
 v17 קְמוּאֵ֖ל|qə·mū·’êl|of Kemuel|H7055|N-proper-ms
 v17 לְאַהֲרֹ֥ן|lə·’a·hă·rōn|over Aaron|H175|Prep-l | N-proper-ms
-v17 צָדֽוֹק׃ס|ṣā·ḏō·wq|[was] Zadok|H6659|N-proper-ms
+v17 צָדֽוֹק׃|ṣā·ḏō·wq|[was] Zadok|H6659|N-proper-ms
 v18 לִֽיהוּדָ֕ה|lî·hū·ḏāh|over Judah|H3063|Prep-l | N-proper-ms
 v18 אֱלִיה֖וּ|’ĕ·lî·hū|[was] Elihu|H453|N-proper-ms
 v18 מֵאֲחֵ֣י|mê·’ă·ḥê|brothers|H251|Prep-m | N-mpc
@@ -222,7 +222,7 @@ v18 דָוִ֑יד|ḏā·wîḏ|one of David's|H1732|N-proper-ms
 v18 לְיִ֨שָׂשכָ֔ר|lə·yi·śā·š·ḵār|over Issachar|H3485|Prep-l | N-proper-ms
 v18 עָמְרִ֖י|‘ā·mə·rî|[was] Omri|H6018|N-proper-ms
 v18 בֶּן־|ben-|son|H1121|N-msc
-v18 מִיכָאֵֽל׃ס|mî·ḵā·’êl|of Michael|H4317|N-proper-ms
+v18 מִיכָאֵֽל׃|mî·ḵā·’êl|of Michael|H4317|N-proper-ms
 v19 לִזְבוּלֻ֕ן|liz·ḇū·lun|over Zebulun|H2074|Prep-l | N-proper-ms
 v19 יִֽשְׁמַֽעְיָ֖הוּ|yiš·ma‘·yā·hū|[was] Ishmaiah|H3460|N-proper-ms
 v19 בֶּן־|ben-|son|H1121|N-msc
@@ -230,7 +230,7 @@ v19 עֹבַדְיָ֑הוּ|‘ō·ḇaḏ·yā·hū|of Obadiah|H5662|N-proper-
 v19 לְנַ֨פְתָּלִ֔י|lə·nap̄·tā·lî|over Naphtali|H5321|Prep-l | N-proper-ms
 v19 יְרִימ֖וֹת|yə·rî·mō·wṯ|[was] Jerimoth|H3406|N-proper-ms
 v19 בֶּן־|ben-|son|H1121|N-msc
-v19 עַזְרִיאֵֽל׃ס|‘az·rî·’êl|of Azriel|H5837|N-proper-ms
+v19 עַזְרִיאֵֽל׃|‘az·rî·’êl|of Azriel|H5837|N-proper-ms
 v20 לִבְנֵ֣י|liḇ·nê|over the Ephraimites|H1121|Prep-l | N-mpc
 v20 אֶפְרַ֔יִם|’ep̄·ra·yim|...|H669|N-proper-ms
 v20 הוֹשֵׁ֖עַ|hō·wō·šê·a‘|[was] Hoshea|H1954|N-proper-ms
@@ -241,7 +241,7 @@ v20 שֵׁ֣בֶט|šê·ḇeṭ|...|H7626|N-msc
 v20 מְנַשֶּׁ֔ה|mə·naš·šeh|of Manasseh|H4519|N-proper-ms
 v20 יוֹאֵ֖ל|yō·w·’êl|[was] Joel|H3100|N-proper-ms
 v20 בֶּן־|ben-|son|H1121|N-msc
-v20 פְּדָיָֽהוּ׃ס|pə·ḏā·yā·hū|of Pedaiah|H6305|N-proper-ms
+v20 פְּדָיָֽהוּ׃|pə·ḏā·yā·hū|of Pedaiah|H6305|N-proper-ms
 v21 לַחֲצִ֤י|la·ḥă·ṣî|over [the] half-tribe|H2677|Prep-l, Art | N-msc
 v21 הַֽמְנַשֶּׁה֙|ham·naš·šeh|of Manasseh|H4519|Art | N-proper-ms
 v21 גִּלְעָ֔דָה|gil·‘ā·ḏāh|in Gilead|H1568|N-proper-fs | 3fs
@@ -251,7 +251,7 @@ v21 זְכַרְיָ֑הוּס|zə·ḵar·yå̄·hūs|of Zechariah|H2148|N-prop
 v21 לְבִנְיָמִ֔ן|lə·ḇin·yā·min|over Benjamin|H1144|Prep-l | N-proper-ms
 v21 יַעֲשִׂיאֵ֖ל|ya·‘ă·śî·’êl|[was] Jaasiel|H3300|N-proper-ms
 v21 בֶּן־|ben-|son|H1121|N-msc
-v21 אַבְנֵֽר׃ס|’aḇ·nêr|of Abner|H74|N-proper-ms
+v21 אַבְנֵֽר׃|’aḇ·nêr|of Abner|H74|N-proper-ms
 v22 לְדָ֕ן|lə·ḏān|[and] over Dan|H1835|Prep-l | N-proper-ms
 v22 עֲזַרְאֵ֖ל|‘ă·zar·’êl|[was] Azarel|H5832|N-proper-ms
 v22 בֶּן־|ben-|son|H1121|N-msc
@@ -295,7 +295,7 @@ v24 בְּמִסְפַּ֥ר|bə·mis·par|...|H4557|Prep-b | N-msc
 v24 דִּבְרֵֽי־|diḇ·rê-|in the Book|H1697|N-mpc
 v24 הַיָּמִ֖ים|hay·yā·mîm|of the Chronicles|H3117|Art | N-mp
 v24 לַמֶּ֥לֶךְ|lam·me·leḵ|of King|H4428|Prep-l, Art | N-ms
-v24 דָּוִֽיד׃ס|dā·wîḏ|David|H1732|N-proper-ms
+v24 דָּוִֽיד׃|dā·wîḏ|David|H1732|N-proper-ms
 v25 וְעַל֙|wə·‘al|was in charge of|H5921|Conj-w | Prep
 v25 אֹצְר֣וֹת|’ō·ṣə·rō·wṯ|storehouses|H214|N-mpc
 v25 הַמֶּ֔לֶךְ|ham·me·leḵ|the royal|H4428|Art | N-ms
@@ -310,7 +310,7 @@ v25 וּבַכְּפָרִים֙|ū·ḇak·kə·p̄ā·rîm|in the villages|H37
 v25 וּבַמִּגְדָּל֔וֹת|ū·ḇam·miḡ·dā·lō·wṯ|and in the fortresses|H4026|Conj-w, Prep-b, Art | N-mp
 v25 יְהוֹנָתָ֖ן|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
 v25 בֶּן־|ben-|son|H1121|N-msc
-v25 עֻזִּיָּֽהוּ׃ס|‘uz·zî·yā·hū|of Uzziah|H5818|N-proper-ms
+v25 עֻזִּיָּֽהוּ׃|‘uz·zî·yā·hū|of Uzziah|H5818|N-proper-ms
 v26 וְעַ֗ל|wə·‘al|was in charge of|H5921|Conj-w | Prep
 v26 עֹשֵׂי֙|‘ō·śê|the workers|H6213|V-Qal-Prtcpl-mpc
 v26 מְלֶ֣אכֶת|mə·le·ḵeṯ|...|H4399|N-fsc
@@ -329,19 +329,19 @@ v27 שֶׁבַּכְּרָמִים֙|šeb·bak·kə·rā·mîm|the produce of th
 v27 לְאֹצְר֣וֹת|lə·’ō·ṣə·rō·wṯ|vats|H214|Prep-l | N-mpc
 v27 הַיַּ֔יִן|hay·ya·yin|for the wine|H3196|Art | N-ms
 v27 זַבְדִּ֖י|zaḇ·dî|Zabdi|H2067|N-proper-ms
-v27 הַשִּׁפְמִֽי׃ס|haš·šip̄·mî|the Shiphmite|H8225|Art | N-proper-ms
+v27 הַשִּׁפְמִֽי׃|haš·šip̄·mî|the Shiphmite|H8225|Art | N-proper-ms
 v28 וְעַל־|wə·‘al-|was in charge of|H5921|Conj-w | Prep
 v28 הַזֵּיתִ֤ים|haz·zê·ṯîm|the olive|H2132|Art | N-mp
 v28 וְהַשִּׁקְמִים֙|wə·haš·šiq·mîm|and sycamore trees|H8256|Conj-w, Art | N-fp
 v28 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v28 בַּשְּׁפֵלָ֔ה|baš·šə·p̄ê·lāh|in the foothills|H8219|Prep-b, Art | N-fs
-v28 בַּ֥עַל|ba·‘al||H1177|Prep
+v28 בַּ֥עַל|ba·‘al|-|H1177|Prep
 v28 חָנָ֖ן|ḥā·nān|Baal-hanan|H1177|N-proper-ms
 v28 הַגְּדֵרִ֑יס|hag·gə·ḏē·rīs|the Gederite|H1451|Art | N-proper-ms
 v28 וְעַל־|wə·‘al-|was in charge of|H5921|Conj-w | Prep
 v28 אֹצְר֥וֹת|’ō·ṣə·rō·wṯ|the stores|H214|N-mpc
 v28 הַשֶּׁ֖מֶן|haš·še·men|of olive oil|H8081|Art | N-ms
-v28 יוֹעָֽשׁ׃ס|yō·w·‘āš|Joash|H3135|N-proper-ms
+v28 יוֹעָֽשׁ׃|yō·w·‘āš|Joash|H3135|N-proper-ms
 v29 וְעַל־|wə·‘al-|was in charge of|H5921|Conj-w | Prep
 v29 הַבָּקָר֙|hab·bā·qār|the herds|H1241|Art | N-ms
 v29 הָרֹעִ֣ים|hā·rō·‘îm|grazing|H7462|Art | V-Qal-Prtcpl-mp
@@ -353,7 +353,7 @@ v29 הַבָּקָר֙|hab·bā·qār|the herds|H1241|Art | N-ms
 v29 בָּֽעֲמָקִ֔ים|bā·‘ă·mā·qîm|in the valleys|H6010|Prep-b, Art | N-mp
 v29 שָׁפָ֖ט|šā·p̄āṭ|Shaphat|H8202|N-proper-ms
 v29 בֶּן־|ben-|son|H1121|N-msc
-v29 עַדְלָֽי׃ס|‘aḏ·lāy|of Adlai|H5724|N-proper-ms
+v29 עַדְלָֽי׃|‘aḏ·lāy|of Adlai|H5724|N-proper-ms
 v30 וְעַל־|wə·‘al-|was in charge of|H5921|Conj-w | Prep
 v30 הַ֨גְּמַלִּ֔ים|hag·gə·mal·lîm|the camels|H1581|Art | N-mp
 v30 אוֹבִ֖יל|’ō·w·ḇîl|Obil|H179|N-proper-ms
@@ -361,7 +361,7 @@ v30 הַיִּשְׁמְעֵלִ֑י|hay·yiš·mə·‘ê·lî|the Ishmaelite|H
 v30 וְעַל־|wə·‘al-|was in charge of|H5921|Conj-w | Prep
 v30 הָ֣אֲתֹנ֔וֹת|hā·’ă·ṯō·nō·wṯ|the donkeys|H860|Art | N-fp
 v30 יֶחְדְּיָ֖הוּ|yeḥ·də·yā·hū|Jehdeiah|H3165|N-proper-ms
-v30 הַמֵּרֹנֹתִֽי׃ס|ham·mê·rō·nō·ṯî|the Meronothite|H4824|Art | N-proper-ms
+v30 הַמֵּרֹנֹתִֽי׃|ham·mê·rō·nō·ṯî|the Meronothite|H4824|Art | N-proper-ms
 v31 וְעַל־|wə·‘al-|was in charge of|H5921|Conj-w | Prep
 v31 הַצֹּ֖אן|haṣ·ṣōn|the flocks|H6629|Art | N-cs
 v31 יָזִ֣יז|yā·zîz|Jaziz|H3151|N-proper-ms
@@ -403,4 +403,4 @@ v34 וְאֶבְיָתָ֔ר|wə·’eḇ·yā·ṯār|then by Abiathar|H54|Conj
 v34 וְשַׂר־|wə·śar-|was the commander|H8269|Conj-w | N-msc
 v34 צָבָ֥א|ṣā·ḇā|army|H6635|N-cs
 v34 לַמֶּ֖לֶךְ|lam·me·leḵ|of the king's|H4428|Prep-l, Art | N-ms
-v34 יוֹאָֽב׃פ|yō·w·’āḇ|Joab|H3097|N-proper-ms
+v34 יוֹאָֽב׃|yō·w·’āḇ|Joab|H3097|N-proper-ms

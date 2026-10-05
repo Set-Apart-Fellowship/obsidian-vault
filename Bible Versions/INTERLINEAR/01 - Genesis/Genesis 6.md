@@ -21,7 +21,7 @@ v2 הֵ֑נָּה|hên·nāh|-|H2007|Pro-3fp
 v2 וַיִּקְח֤וּ|way·yiq·ḥū|and they took|H3947|Conj-w | V-Qal-ConsecImperf-3mp
 v2 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v2 נָשִׁ֔ים|nā·šîm|as wives|H802|N-fp
-v2 מִכֹּ֖ל|mik·kōl|vvv|H3605|Prep-m | N-ms
+v2 מִכֹּ֖ל|mik·kōl|...|H3605|Prep-m | N-ms
 v2 אֲשֶׁ֥ר|’ă·šer|whomever|H834|Pro-r
 v2 בָּחָֽרוּ׃|bā·ḥā·rū|they chose|H977|V-Qal-Perf-3cp
 v3 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -61,7 +61,7 @@ v4 הַגִּבֹּרִ֛ים|hag·gib·bō·rîm|[became] the mighty men|H1368|
 v4 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v4 מֵעוֹלָ֖ם|mê·‘ō·w·lām|of old|H5769|Prep-m | N-ms
 v4 אַנְשֵׁ֥י|’an·šê|men|H582|N-mpc
-v4 הַשֵּֽׁם׃פ|haš·šêm|of renown|H8034|Art | N-ms
+v4 הַשֵּֽׁם׃|haš·šêm|of renown|H8034|Art | N-ms
 v5 וַיַּ֣רְא|way·yar|saw|H7200|Conj-w | V-Qal-ConsecImperf-3ms
 v5 יְהוָ֔ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v5 כִּ֥י|kî|that|H3588|Conj
@@ -113,7 +113,7 @@ v8 וְנֹ֕חַ|wə·nō·aḥ|Noah, however,|H5146|Conj-w | N-proper-ms
 v8 מָ֥צָא|mā·ṣā|found|H4672|V-Qal-Perf-3ms
 v8 חֵ֖ן|ḥên|favor|H2580|N-ms
 v8 בְּעֵינֵ֥י|bə·‘ê·nê|in the eyes|H5869|Prep-b | N-cdc
-v8 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v8 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v9 אֵ֚לֶּה|’êl·leh|This [is]|H428|Pro-cp
 v9 תּוֹלְדֹ֣ת|tō·wl·ḏōṯ|the account|H8435|N-fpc
 v9 נֹ֔חַ|nō·aḥ|of Noah|H5146|N-proper-ms
@@ -157,7 +157,7 @@ v12 בָּשָׂ֛ר|bā·śār|living creatures|H1320|N-ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 דַּרְכּ֖וֹ|dar·kōw|their ways|H1870|N-csc | 3ms
 v12 עַל־|‘al-|on|H5921|Prep
-v12 הָאָֽרֶץ׃ס|hā·’ā·reṣ|the earth|H776|Art | N-fs
+v12 הָאָֽרֶץ׃|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v13 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 אֱלֹהִ֜ים|’ĕ·lō·hîm|Then God|H430|N-mp
 v13 לְנֹ֗חַ|lə·nō·aḥ|to Noah|H5146|Prep-l | N-proper-ms
@@ -302,4 +302,4 @@ v22 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v22 אֹת֛וֹ|’ō·ṯōw|him|H853|DirObjM | 3ms
 v22 אֱלֹהִ֖ים|’ĕ·lō·hîm|God|H430|N-mp
 v22 כֵּ֥ן|kên|precisely as|H3651|Adv
-v22 עָשָֽׂה׃ס|‘ā·śāh|...|H6213|V-Qal-Perf-3ms
+v22 עָשָֽׂה׃|‘ā·śāh|...|H6213|V-Qal-Perf-3ms

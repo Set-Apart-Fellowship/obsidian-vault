@@ -333,7 +333,7 @@ v26 הַמָּק֖וֹם|ham·mā·qō·wm|place|H4725|Art | N-ms
 v26 בַּעֲבוּרָֽם׃|ba·‘ă·ḇū·rām|on their account|H5668|Prep-b | N-msc | 3mp
 v27 וַיַּ֥עַן|way·ya·‘an|answered|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v27 אַבְרָהָ֖ם|’aḇ·rā·hām|Then Abraham|H85|N-proper-ms
-v27 וַיֹּאמַ֑ר|way·yō·mar|vvv|H559|Conj-w | V-Qal-ConsecImperf-3ms
+v27 וַיֹּאמַ֑ר|way·yō·mar|...|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v27 הִנֵּה־|hin·nêh-|Now that|H2009|Interjection
 v27 נָ֤א|nā|...|H4994|Interjection
 v27 הוֹאַ֙לְתִּי֙|hō·w·’al·tî|I have ventured|H2974|V-Hifil-Perf-1cs

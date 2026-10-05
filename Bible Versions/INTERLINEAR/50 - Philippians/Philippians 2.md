@@ -22,17 +22,17 @@ v2 μου|mou|[then] {make} my|G1473|PPro-G1S
 v2 τὴν|tēn|-|G3588|Art-AFS
 v2 χαρὰν|charan|joy|G5479|N-AFS
 v2 ἵνα|hina|-|G2443|Conj
-v2 τὸ|to|vvv|G3588|Art-ANS
-v2 αὐτὸ|auto|vvv|G846|PPro-AN3S
+v2 τὸ|to|...|G3588|Art-ANS
+v2 αὐτὸ|auto|...|G846|PPro-AN3S
 v2 φρονῆτε|phronēte|by being like-minded|G5426|V-PSA-2P
 v2 τὴν|tēn|the|G3588|Art-AFS
 v2 αὐτὴν|autēn|same|G846|PPro-AF3S
 v2 ἀγάπην|agapēn|love|G26|N-AFS
 v2 ἔχοντες|echontes|having|G2192|V-PPA-NMP
 v2 σύμψυχοι|sympsychoi|being united in spirit [and]|G4861|Adj-NMP
-v2 τὸ|to|vvv|G3588|Art-ANS
+v2 τὸ|to|...|G3588|Art-ANS
 v2 ἓν|hen|purpose|G1520|Adj-ANS
-v2 φρονοῦντες|phronountes|vvv|G5426|V-PPA-NMP
+v2 φρονοῦντες|phronountes|...|G5426|V-PPA-NMP
 v3 μηδὲν|mēden|[Do] nothing|G3367|Adj-ANS
 v3 κατ’|kat’|out of|G2596|Prep
 v3 ἐριθείαν|eritheian|selfish ambition|G2052|N-AFS
@@ -74,7 +74,7 @@ v6 οὐχ|ouch|{did} not|G3756|Adv
 v6 ἁρπαγμὸν|harpagmon|something to be grasped|G725|N-AMS
 v6 ἡγήσατο|hēgēsato|consider|G2233|V-AIM-3S
 v6 τὸ|to|-|G3588|Art-ANS
-v6 εἶναι|einai|vvv|G1510|V-PNA
+v6 εἶναι|einai|...|G1510|V-PNA
 v6 ἴσα|isa|equality|G2470|Adj-ANP
 v6 Θεῷ|Theō|with God|G2316|N-DMS
 v7 ἀλλὰ|alla|but|G235|Conj
@@ -145,7 +145,7 @@ v12 Ὥστε|Hōste|Therefore|G5620|Conj
 v12 ἀγαπητοί|agapētoi|beloved|G27|Adj-VMP
 v12 μου|mou|my|G1473|PPro-G1S
 v12 καθὼς|kathōs|just as|G2531|Adv
-v12 πάντοτε|pantote|vvv|G3842|Adv
+v12 πάντοτε|pantote|...|G3842|Adv
 v12 ὑπηκούσατε|hypēkousate|you have always obeyed|G5219|V-AIA-2P
 v12 μὴ|mē|not|G3361|Adv
 v12 ὡς|hōs|-|G5613|Adv
@@ -222,7 +222,7 @@ v16 εἰς|eis|on|G1519|Prep
 v16 ἡμέραν|hēmeran|[the] day|G2250|N-AFS
 v16 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v16 ὅτι|hoti|that|G3754|Conj
-v16 οὐκ|ouk|vvv|G3756|Adv
+v16 οὐκ|ouk|...|G3756|Adv
 v16 εἰς|eis|-|G1519|Prep
 v16 κενὸν|kenon|-|G2756|Adj-ANS
 v16 ἔδραμον|edramon|I did not run|G5143|V-AIA-1S
@@ -362,7 +362,7 @@ v26 ἠκούσατε|ēkousate|you heard|G191|V-AIA-2P
 v26 ὅτι|hoti|-|G3754|Conj
 v26 ἠσθένησεν|ēsthenēsen|he was ill|G770|V-AIA-3S
 v27 καὶ|kai|indeed|G2532|Conj
-v27 γὰρ|gar|vvv|G1063|Conj
+v27 γὰρ|gar|...|G1063|Conj
 v27 ἠσθένησεν|ēsthenēsen|He was sick|G770|V-AIA-3S
 v27 παραπλήσιον|paraplēsion|nearly|G3897|Adv
 v27 θανάτῳ|thanatō|unto death|G2288|N-DMS
@@ -379,7 +379,7 @@ v27 ἀλλὰ|alla|but|G235|Conj
 v27 καὶ|kai|also|G2532|Conj
 v27 ἐμέ|eme|on me|G1473|PPro-A1S
 v27 ἵνα|hina|to|G2443|Conj
-v27 μὴ|mē|vvv|G3361|Adv
+v27 μὴ|mē|...|G3361|Adv
 v27 λύπην|lypēn|sorrow|G3077|N-AFS
 v27 ἐπὶ|epi|upon|G1909|Prep
 v27 λύπην|lypēn|sorrow|G3077|N-AFS
@@ -408,7 +408,7 @@ v29 καὶ|kai|and|G2532|Conj
 v29 τοὺς|tous|-|G3588|Art-AMP
 v29 τοιούτους|toioutous|men [like him]|G5108|DPro-AMP
 v29 ἐντίμους|entimous|honor|G1784|Adj-AMP
-v29 ἔχετε|echete|vvv|G2192|V-PMA-2P
+v29 ἔχετε|echete|...|G2192|V-PMA-2P
 v30 ὅτι|hoti|because|G3754|Conj
 v30 διὰ|dia|for|G1223|Prep
 v30 τὸ|to|the|G3588|Art-ANS

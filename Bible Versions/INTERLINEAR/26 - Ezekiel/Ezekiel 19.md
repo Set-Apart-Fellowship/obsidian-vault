@@ -90,7 +90,7 @@ v9 קוֹל֛וֹ|qō·w·lōw|his roar|H6963|N-msc | 3ms
 v9 ע֖וֹד|‘ō·wḏ|longer|H5750|Adv
 v9 אֶל־|’el-|on|H413|Prep
 v9 הָרֵ֥י|hā·rê|the mountains|H2022|N-mpc
-v9 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v9 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v10 אִמְּךָ֥|’im·mə·ḵā|Your mother|H517|N-fsc | 2ms
 v10 כַגֶּ֛פֶן|ḵag·ge·p̄en|was like a vine|H1612|Prep-k, Art | N-cs
 v10 בְּדָמְךָ֖|bə·ḏā·mə·ḵā|in your vineyard|H1818|Prep-b | N-msc | 2ms
@@ -103,7 +103,7 @@ v10 הָיְתָ֖ה|hā·yə·ṯāh|it was|H1961|V-Qal-Perf-3fs
 v10 מִמַּ֥יִם|mim·ma·yim|waters|H4325|Prep-m | N-mp
 v10 רַבִּֽים׃|rab·bîm|because of the abundant|H7227|Adj-mp
 v11 וַיִּֽהְיוּ־|way·yih·yū-|It had|H1961|Conj-w | V-Qal-ConsecImperf-3mp
-v11 לָ֞הּ|lāh||H0|Prep | 3fs
+v11 לָ֞הּ|lāh|-|H0|Prep | 3fs
 v11 מַטּ֣וֹת|maṭ·ṭō·wṯ|branches|H4294|N-mpc
 v11 עֹ֗ז|‘ōz|strong|H5797|N-ms
 v11 אֶל־|’el-|fit for|H413|Prep
@@ -154,4 +154,4 @@ v14 לִמְשׁ֑וֹל|lim·šō·wl|fit for a ruler's|H4910|Prep-l | V-Qal-In
 v14 קִ֥ינָה|qî·nāh|is a lament|H7015|N-fs
 v14 הִ֖יא|hî|This|H1931|Pro-3fs
 v14 וַתְּהִ֥י|wat·tə·hî|and shall be used|H1961|Conj-w | V-Qal-ConsecImperf-3fs
-v14 לְקִינָֽה׃פ|lə·qî·nāh|as a lament|H7015|Prep-l | N-fs
+v14 לְקִינָֽה׃|lə·qî·nāh|as a lament|H7015|Prep-l | N-fs

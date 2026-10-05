@@ -143,10 +143,10 @@ v12 אֲשֶׁ֣ר|’ă·šer|which|H834|Pro-r
 v12 אָמְרָ֗ה|’ā·mə·rāh|she thinks|H559|V-Qal-Perf-3fs
 v12 אֶתְנָ֥ה|’eṯ·nāh|are the wages|H866|N-fs
 v12 הֵ֙מָּה֙|hêm·māh|-|H1992|Pro-3mp
-v12 לִ֔י|lî||H0|Prep | 1cs
+v12 לִ֔י|lî|-|H0|Prep | 1cs
 v12 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v12 נָֽתְנוּ־|nā·ṯə·nū-|paid|H5414|V-Qal-Perf-3cp
-v12 לִ֖י|lî||H0|Prep | 1cs
+v12 לִ֖י|lî|-|H0|Prep | 1cs
 v12 מְאַֽהֲבָ֑י|mə·’a·hă·ḇāy|by her lovers|H157|V-Piel-Prtcpl-mpc | 1cs
 v12 וְשַׂמְתִּ֣ים|wə·śam·tîm|So I will make them|H7760|Conj-w | V-Qal-ConjPerf-1cs | 3mp
 v12 לְיַ֔עַר|lə·ya·‘ar|into a thicket|H3293|Prep-l | N-ms
@@ -170,7 +170,7 @@ v13 מְאַהֲבֶ֑יהָ|mə·’a·hă·ḇe·hā|her lovers|H157|V-Piel-P
 v13 וְאֹתִ֥י|wə·’ō·ṯî|But Me|H853|Conj-w | DirObjM | 1cs
 v13 שָׁכְחָ֖ה|šā·ḵə·ḥāh|she forgot|H7911|V-Qal-Perf-3fs
 v13 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v13 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v13 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v14 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v14 הִנֵּ֤ה|hin·nêh|behold|H2009|Interjection
 v14 אָֽנֹכִי֙|’ā·nō·ḵî|I|H595|Pro-1cs
@@ -181,7 +181,7 @@ v14 וְדִבַּרְתִּ֖י|wə·ḏib·bar·tî|and speak|H1696|Conj-w | V
 v14 עַל|ʿal|to her|H5921|Prep
 v14 לִבָּֽהּ׃|lib·bāh|tenderly|H3820|N-msc | 3fs
 v15 וְנָתַ֨תִּי|wə·nā·ṯat·tî|I will give back|H5414|Conj-w | V-Qal-ConjPerf-1cs
-v15 לָ֤הּ|lāh||H0|Prep | 3fs
+v15 לָ֤הּ|lāh|-|H0|Prep | 3fs
 v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 כְּרָמֶ֙יהָ֙|kə·rā·me·hā|her vineyards|H3754|N-mpc | 3fs
 v15 מִשָּׁ֔ם|miš·šām|There|H8033|Prep-m | Adv
@@ -197,7 +197,7 @@ v15 נְעוּרֶ֔יהָ|nə·‘ū·re·hā|of her youth|H5271|N-mpc | 3fs
 v15 וִּכְי֖וֹם|wiḵ·yōm|as in the day|H3117|Conj-w, Prep-k | N-msc
 v15 עֲלֹתָ֥הּ|‘ă·lō·ṯāh|she came up|H5927|V-Qal-Inf | 3fs
 v15 מֵאֶֽרֶץ־|mê·’e·reṣ-|out|H776|Prep-m | N-fsc
-v15 מִצְרָֽיִם׃ס|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
+v15 מִצְרָֽיִם׃|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
 v16 וְהָיָ֤ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v16 בַיּוֹם־|ḇay·yō·wm-|day|H3117|Prep-b, Art | N-ms
 v16 הַהוּא֙|ha·hū|In that|H1931|Art | Pro-3ms
@@ -254,7 +254,7 @@ v20 לִ֖י|lî|-|H0|Prep | 1cs
 v20 בֶּאֱמוּנָ֑ה|be·’ĕ·mū·nāh|in faithfulness|H530|Prep-b | N-fs
 v20 וְיָדַ֖עַתְּ|wə·yā·ḏa·‘at|and you will know|H3045|Conj-w | V-Qal-ConjPerf-2fs
 v20 אֶת־|’eṯ-|-|H853|DirObjM
-v20 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v20 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v21 וְהָיָ֣ה׀|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v21 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v21 הַה֗וּא|ha·hū|On that|H1931|Art | Pro-3ms
@@ -262,11 +262,11 @@ v21 אֶֽעֱנֶה֙|’e·‘ĕ·neh|I will respond|H6030|V-Qal-Imperf-1cs
 v21 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v21 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v21 אֶעֱנֶ֖ה|’e·‘ĕ·neh|I will respond|H6030|V-Qal-Imperf-1cs
-v21 אֶת־|’eṯ-||H853|DirObjM
+v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 הַשָּׁמָ֑יִם|haš·šā·mā·yim|to the heavens|H8064|Art | N-mp
 v21 וְהֵ֖ם|wə·hêm|and they|H1992|Conj-w | Pro-3mp
 v21 יַעֲנ֥וּ|ya·‘ă·nū|will respond|H6030|V-Qal-Imperf-3mp
-v21 אֶת־|’eṯ-||H853|DirObjM
+v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 הָאָֽרֶץ׃|hā·’ā·reṣ|to the earth|H776|Art | N-fs
 v22 וְהָאָ֣רֶץ|wə·hā·’ā·reṣ|And the earth|H776|Conj-w, Art | N-fs
 v22 תַּעֲנֶ֔ה|ta·‘ă·neh|will respond|H6030|V-Qal-Imperf-3fs
@@ -284,7 +284,7 @@ v23 וּזְרַעְתִּ֤יהָ|ū·zə·ra‘·tî·hā|And I will sow her|H
 v23 לִּי֙|lî|as My own|H0|Prep | 1cs
 v23 בָּאָ֔רֶץ|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
 v23 וְרִֽחַמְתִּ֖י|wə·ri·ḥam·tî|and I will have compassion on|H7355|Conj-w | V-Piel-ConjPerf-1cs
-v23 אֶת־|’eṯ-||H853|DirObjM
+v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 לֹ֣א|lō|No|H3808|Adv-NegPrt
 v23 רֻחָ֑מָה|ru·ḥā·māh|Compassion|H7355|V-Pual-Perf-3fs
 v23 וְאָמַרְתִּ֤י|wə·’ā·mar·tî|I will say to those [called]|H559|Conj-w | V-Qal-ConjPerf-1cs
@@ -294,4 +294,4 @@ v23 עַמִּי־|‘am·mî-|My People|H5971|N-msc | 1cs
 v23 אַ֔תָּה|’at·tāh|You|H859|Pro-2ms
 v23 וְה֖וּא|wə·hū|and they|H1931|Conj-w | Pro-3ms
 v23 יֹאמַ֥ר|yō·mar|will say|H559|V-Qal-Imperf-3ms
-v23 אֱלֹהָֽי׃פ|’ĕ·lō·hāy|You are my God|H430|N-mpc | 1cs
+v23 אֱלֹהָֽי׃|’ĕ·lō·hāy|You are my God|H430|N-mpc | 1cs

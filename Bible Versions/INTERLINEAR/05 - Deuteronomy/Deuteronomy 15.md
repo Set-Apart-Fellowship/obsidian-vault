@@ -1,7 +1,7 @@
 v1 מִקֵּ֥ץ|miq·qêṣ|At the end|H7093|Prep-m | N-msc
 v1 שֶֽׁבַע־|še·ḇa‘-|of every seven|H7651|Number-fs
 v1 שָׁנִ֖ים|šā·nîm|years|H8141|N-fp
-v1 תַּעֲשֶׂ֥ה|ta·‘ă·śeh|vvv|H6213|V-Qal-Imperf-2ms
+v1 תַּעֲשֶׂ֥ה|ta·‘ă·śeh|...|H6213|V-Qal-Imperf-2ms
 v1 שְׁמִטָּֽה׃|šə·miṭ·ṭāh|you must cancel debts|H8059|N-fs
 v2 וְזֶה֮|wə·zeh|This|H2088|Conj-w | Pro-ms
 v2 דְּבַ֣ר|də·ḇar|is the manner|H1697|N-msc
@@ -75,7 +75,7 @@ v6 אֱלֹהֶ֙יךָ֙|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v6 בֵּֽרַכְךָ֔|bê·raḵ·ḵā|blesses you|H1288|V-Piel-Perf-3ms | 2ms
 v6 כַּאֲשֶׁ֖ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v6 דִּבֶּר־|dib·ber-|He has promised|H1696|V-Piel-Perf-3ms
-v6 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v6 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v6 וְהַֽעֲבַטְתָּ֞|wə·ha·‘ă·ḇaṭ·tā|you will lend|H5670|Conj-w | V-Hifil-ConjPerf-2ms
 v6 גּוֹיִ֣ם|gō·w·yim|nations|H1471|N-mp
 v6 רַבִּ֗ים|rab·bîm|to many|H7227|Adj-mp
@@ -85,9 +85,9 @@ v6 תַעֲבֹ֔ט|ṯa·‘ă·ḇōṭ|but borrow|H5670|V-Qal-Imperf-2ms
 v6 וּמָֽשַׁלְתָּ֙|ū·mā·šal·tā|you will rule|H4910|Conj-w | V-Qal-ConjPerf-2ms
 v6 בְּגוֹיִ֣ם|bə·ḡō·w·yim|nations|H1471|Prep-b | N-mp
 v6 רַבִּ֔ים|rab·bîm|over many|H7227|Adj-mp
-v6 וּבְךָ֖|ū·ḇə·ḵā||H0|Conj-w | Prep | 2ms
+v6 וּבְךָ֖|ū·ḇə·ḵā|-|H0|Conj-w | Prep | 2ms
 v6 לֹ֥א|lō|by none|H3808|Adv-NegPrt
-v6 יִמְשֹֽׁלוּ׃ס|yim·šō·lū|but be ruled|H4910|V-Qal-Imperf-3mp
+v6 יִמְשֹֽׁלוּ׃|yim·šō·lū|but be ruled|H4910|V-Qal-Imperf-3mp
 v7 כִּֽי־|kî-|If|H3588|Conj
 v7 יִהְיֶה֩|yih·yeh|there is|H1961|V-Qal-Imperf-3ms
 v7 בְךָ֨|ḇə·ḵā|among|H0|Prep | 2ms
@@ -119,14 +119,14 @@ v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 יָדְךָ֖|yā·ḏə·ḵā|your hand|H3027|N-fsc | 2ms
 v8 ל֑וֹ|lōw|to him|H0|Prep | 3ms
 v8 וְהַעֲבֵט֙|wə·ha·‘ă·ḇêṭ|and freely loan him|H5670|Conj-w | V-Hifil-InfAbs
-v8 תַּעֲבִיטֶ֔נּוּ|ta·‘ă·ḇî·ṭen·nū||H5670|V-Hifil-Imperf-2ms | 3ms
+v8 תַּעֲבִיטֶ֔נּוּ|ta·‘ă·ḇî·ṭen·nū|-|H5670|V-Hifil-Imperf-2ms | 3ms
 v8 דֵּ֚י|dê|whatever|H1767|N-msc
 v8 מַחְסֹר֔וֹ|maḥ·sō·rōw|he needs|H4270|N-msc | 3ms
 v8 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v8 יֶחְסַ֖ר|yeḥ·sar|-|H2637|V-Qal-Imperf-3ms
 v8 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v9 הִשָּׁ֣מֶר|hiš·šā·mer|Be careful|H8104|V-Nifal-Imp-ms
-v9 לְךָ֡|lə·ḵā||H0|Prep | 2ms
+v9 לְךָ֡|lə·ḵā|-|H0|Prep | 2ms
 v9 פֶּן־|pen-|not to harbor|H6435|Conj
 v9 יִהְיֶ֣ה|yih·yeh|...|H1961|V-Qal-Imperf-3ms
 v9 דָבָר֩|ḏā·ḇār|thought|H1697|N-ms
@@ -145,13 +145,13 @@ v9 בְּאָחִ֙יךָ֙|bə·’ā·ḥî·ḵā|brother|H251|Prep-b | N-msc
 v9 הָֽאֶבְי֔וֹן|hā·’eḇ·yō·wn|your poor|H34|Art | Adj-ms
 v9 וְלֹ֥א|wə·lō|nothing|H3808|Conj-w | Adv-NegPrt
 v9 תִתֵּ֖ן|ṯit·tên|and give him|H5414|V-Qal-Imperf-2ms
-v9 ל֑וֹ|lōw||H0|Prep | 3ms
+v9 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v9 וְקָרָ֤א|wə·qā·rā|He will cry out|H7121|Conj-w | V-Qal-ConjPerf-3ms
 v9 עָלֶ֙יךָ֙|‘ā·le·ḵā|against you|H5921|Prep | 2ms
 v9 אֶל־|’el-|to|H413|Prep
 v9 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v9 וְהָיָ֥ה|wə·hā·yāh|and you will be|H1961|Conj-w | V-Qal-ConjPerf-3ms
-v9 בְךָ֖|ḇə·ḵā||H0|Prep | 2ms
+v9 בְךָ֖|ḇə·ḵā|-|H0|Prep | 2ms
 v9 חֵֽטְא׃|ḥêṭ|guilty of sin|H2399|N-ms
 v10 נָת֤וֹן|nā·ṯō·wn|Give generously|H5414|V-Qal-InfAbs
 v10 תִּתֵּן֙|tit·tên|...|H5414|V-Qal-Imperf-2ms
@@ -191,7 +191,7 @@ v11 יָדְךָ֜|yā·ḏə·ḵā|your hand|H3027|N-fsc | 2ms
 v11 לְאָחִ֧יךָ|lə·’ā·ḥî·ḵā|to your brother|H251|Prep-l | N-msc | 2ms
 v11 לַעֲנִיֶּ֛ךָ|la·‘ă·nî·ye·ḵā|and to the poor|H6041|Prep-l | Adj-msc | 2ms
 v11 וּלְאֶבְיֹנְךָ֖|ū·lə·’eḇ·yō·nə·ḵā|and needy|H34|Conj-w, Prep-l | N-msc | 2ms
-v11 בְּאַרְצֶֽךָ׃ס|bə·’ar·ṣe·ḵā|in your land|H776|Prep-b | N-fsc | 2ms
+v11 בְּאַרְצֶֽךָ׃|bə·’ar·ṣe·ḵā|in your land|H776|Prep-b | N-fsc | 2ms
 v12 כִּֽי־|kî-|If|H3588|Conj
 v12 יִמָּכֵ֨ר|yim·mā·ḵêr|is sold|H4376|V-Nifal-Imperf-3ms
 v12 לְךָ֜|lə·ḵā|to you|H0|Prep | 2ms
@@ -216,7 +216,7 @@ v13 תְשַׁלְּחֶ֖נּוּ|ṯə·šal·lə·ḥen·nū|send him away|H7
 v13 רֵיקָֽם׃|rê·qām|empty-handed|H7387|Adv
 v14 הַעֲנֵ֤יק|ha·‘ă·nêq|You are to furnish him liberally|H6059|V-Hifil-InfAbs
 v14 תַּעֲנִיק֙|ta·‘ă·nîq|...|H6059|V-Hifil-Imperf-2ms
-v14 ל֔וֹ|lōw||H0|Prep | 3ms
+v14 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v14 מִצֹּ֣אנְךָ֔|miṣ·ṣō·nə·ḵā|from your flock|H6629|Prep-m | N-fsc | 2ms
 v14 וּמִֽגָּרְנְךָ֖|ū·mig·gā·rə·nə·ḵā|your threshing floor|H1637|Conj-w, Prep-m | N-fsc | 2ms
 v14 וּמִיִּקְבֶ֑ךָ|ū·mî·yiq·ḇe·ḵā|and your winepress|H3342|Conj-w, Prep-m | N-msc | 2ms
@@ -256,7 +256,7 @@ v16 וְאֶת־|wə·’eṯ-|you|H853|Conj-w | DirObjM
 v16 בֵּיתֶ֔ךָ|bê·ṯe·ḵā|and your household|H1004|N-msc | 2ms
 v16 כִּי־|kî-|and|H3588|Conj
 v16 ט֥וֹב|ṭō·wḇ|is well off|H2895|V-Qal-Perf-3ms
-v16 ל֖וֹ|lōw||H0|Prep | 3ms
+v16 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v16 עִמָּֽךְ׃|‘im·māḵ|with you|H5973|Prep | 2ms
 v17 וְלָקַחְתָּ֣|wə·lā·qaḥ·tā|then take|H3947|Conj-w | V-Qal-ConjPerf-2ms
 v17 אֶת־|’eṯ-|-|H853|DirObjM
@@ -291,7 +291,7 @@ v18 יְהוָ֣ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v18 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v18 בְּכֹ֖ל|bə·ḵōl|in all|H3605|Prep-b | N-ms
 v18 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v18 תַּעֲשֶֽׂה׃פ|ta·‘ă·śeh|you do|H6213|V-Qal-Imperf-2ms
+v18 תַּעֲשֶֽׂה׃|ta·‘ă·śeh|you do|H6213|V-Qal-Imperf-2ms
 v19 כָּֽל־|kāl-|every|H3605|N-msc
 v19 הַבְּכ֡וֹר|hab·bə·ḵō·wr|firstborn|H1060|Art | N-ms
 v19 אֲשֶׁר֩|’ă·šer|-|H834|Pro-r
@@ -324,7 +324,7 @@ v20 אַתָּ֖ה|’at·tāh|you|H859|Pro-2ms
 v20 וּבֵיתֶֽךָ׃|ū·ḇê·ṯe·ḵā|and your household|H1004|Conj-w | N-msc | 2ms
 v21 וְכִֽי־|wə·ḵî-|But if|H3588|Conj
 v21 יִהְיֶ֨ה|yih·yeh|[an animal] has|H1961|V-Qal-Imperf-3ms
-v21 ב֜וֹ|ḇōw||H0|Prep | 3ms
+v21 ב֜וֹ|ḇōw|-|H0|Prep | 3ms
 v21 מ֗וּם|mūm|a defect|H3971|N-ms
 v21 פִּסֵּ֙חַ֙|pis·sê·aḥ|is lame|H6455|Adj-ms
 v21 א֣וֹ|’ōw|or|H176|Conj
@@ -351,4 +351,4 @@ v23 תֹאכֵ֑ל|ṯō·ḵêl|eat|H398|V-Qal-Imperf-2ms
 v23 עַל־|‘al-|it on|H5921|Prep
 v23 הָאָ֥רֶץ|hā·’ā·reṣ|the ground|H776|Art | N-fs
 v23 תִּשְׁפְּכֶ֖נּוּ|tiš·pə·ḵen·nū|pour|H8210|V-Qal-Imperf-2ms | 3ms
-v23 כַּמָּֽיִם׃פ|kam·mā·yim|like water|H4325|Prep-k, Art | N-mp
+v23 כַּמָּֽיִם׃|kam·mā·yim|like water|H4325|Prep-k, Art | N-mp

@@ -4,15 +4,15 @@ v1 שְׁלֹמֹ֔ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
 v1 מֶ֖לֶךְ|me·leḵ|ruled|H4428|N-ms
 v1 עַל־|‘al-|over|H5921|Prep
 v1 כָּל־|kāl-|...|H3605|N-msc
-v1 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v1 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v2 וְאֵ֥לֶּה|wə·’êl·leh|and these|H428|Conj-w | Pro-cp
 v2 הַשָּׂרִ֖ים|haś·śā·rîm|were his chief officials|H8269|Art | N-mp
 v2 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v2 ל֑וֹ|lōw||H0|Prep | 3ms
+v2 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v2 עֲזַרְיָ֥הוּ|‘ă·zar·yā·hū|Azariah|H5838|N-proper-ms
 v2 בֶן־|ḇen-|son|H1121|N-msc
 v2 צָד֖וֹק|ṣā·ḏō·wq|of Zadok|H6659|N-proper-ms
-v2 הַכֹּהֵֽן׃ס|hak·kō·hên|[was] the priest|H3548|Art | N-ms
+v2 הַכֹּהֵֽן׃|hak·kō·hên|[was] the priest|H3548|Art | N-ms
 v3 אֱלִיחֹ֧רֶף|’ĕ·lî·ḥō·rep̄|Elihoreph|H456|N-proper-ms
 v3 וַאֲחִיָּ֛ה|wa·’ă·ḥî·yāh|and Ahijah|H281|Conj-w | N-proper-ms
 v3 בְּנֵ֥י|bə·nê|the sons|H1121|N-mpc
@@ -29,7 +29,7 @@ v4 עַל־|‘al-|[was] in charge of|H5921|Prep
 v4 הַצָּבָ֑א|haṣ·ṣā·ḇā|the army|H6635|Art | N-cs
 v4 וְצָד֥וֹק|wə·ṣā·ḏō·wq|Zadok|H6659|Conj-w | N-proper-ms
 v4 וְאֶבְיָתָ֖ר|wə·’eḇ·yā·ṯār|and Abiathar|H54|Conj-w | N-proper-ms
-v4 כֹּהֲנִֽים׃ס|kō·hă·nîm|[were] priests|H3548|N-mp
+v4 כֹּהֲנִֽים׃|kō·hă·nîm|[were] priests|H3548|N-mp
 v5 וַעֲזַרְיָ֥הוּ|wa·‘ă·zar·yā·hū|Azariah|H5838|Conj-w | N-proper-ms
 v5 בֶן־|ḇen-|son|H1121|N-msc
 v5 נָתָ֖ן|nā·ṯān|of Nathan|H5416|N-proper-ms
@@ -48,7 +48,7 @@ v6 וַאֲדֹנִירָ֥ם|wa·’ă·ḏō·nî·rām|and Adoniram|H141|Con
 v6 בֶּן־|ben-|son|H1121|N-msc
 v6 עַבְדָּ֖א|‘aḇ·dā|of Abda|H5653|N-proper-ms
 v6 עַל־|‘al-|[was] in charge of|H5921|Prep
-v6 הַמַּֽס׃ס|ham·mas|the forced labor|H4522|Art | N-ms
+v6 הַמַּֽס׃|ham·mas|the forced labor|H4522|Art | N-ms
 v7 וְלִשְׁלֹמֹ֞ה|wə·liš·lō·mōh|Solomon|H8010|Conj-w, Prep-l | N-proper-ms
 v7 שְׁנֵים־|šə·nêm-|had twelve|H8147|Number-md
 v7 עָשָׂ֤ר|‘ā·śār|...|H6240|Number-ms
@@ -66,48 +66,48 @@ v7 בַּשָּׁנָ֛ה|baš·šā·nāh|of the year|H8141|Prep-b, Art | N-fs
 v7 יִהְיֶ֥ה|yih·yeh|...|H1961|V-Qal-Imperf-3ms
 v7 עַל־|‘al-|...|H5921|Prep
 v7 אֶחָד|ʾɛ·ḥå̄ḏ|[Each] one|H259|Art | Number-ms
-v7 לְכַלְכֵּֽל׃ס|lə·ḵal·kêl|would arrange provisions|H3557|Prep-l | V-Piel-Inf
+v7 לְכַלְכֵּֽל׃|lə·ḵal·kêl|would arrange provisions|H3557|Prep-l | V-Piel-Inf
 v8 וְאֵ֣לֶּה|wə·’êl·leh|and these|H428|Conj-w | Pro-cp
 v8 שְׁמוֹתָ֔ם|šə·mō·w·ṯām|were their names|H8034|N-mpc | 3mp
-v8 בֶּן־|ben-|vvv|H1133|N-msc
+v8 בֶּן־|ben-|...|H1133|N-msc
 v8 ח֖וּר|ḥūr|Ben-hur|H1133|N-proper-ms
 v8 בְּהַ֥ר|bə·har|in the hill country|H2022|Prep-b | N-msc
-v8 אֶפְרָֽיִם׃ס|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
-v9 בֶּן־|ben-|vvv|H1128|N-msc
+v8 אֶפְרָֽיִם׃|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
+v9 בֶּן־|ben-|...|H1128|N-msc
 v9 דֶּ֛קֶר|de·qer|Ben-deker|H1128|N-proper-ms
 v9 בְּמָקַ֥ץ|bə·mā·qaṣ|in Makaz|H4739|Prep-b | N-proper-fs
 v9 וּבְשַֽׁעַלְבִ֖ים|ū·ḇə·ša·‘al·ḇîm|in Shaalbim|H8169|Conj-w, Prep-b | N-proper-fs
-v9 וּבֵ֣ית|ū·ḇêṯ|vvv|H1053|
+v9 וּבֵ֣ית|ū·ḇêṯ|...|H1053|
 v9 שָׁ֑מֶשׁ|šā·meš|in Beth-shemesh|H1053|Conj-w | N-proper-fs
-v9 וְאֵיל֖וֹן|wə·’ê·lō·wn|vvv|H358|
-v9 בֵּ֥ית|bêṯ|vvv|H358|Prep
-v9 חָנָֽן׃ס|ḥā·nān|and in Elon-beth-hanan|H358|Conj-w | N-proper-fs
-v10 בֶּן־|ben-|vvv|H1121|N-msc
+v9 וְאֵיל֖וֹן|wə·’ê·lō·wn|...|H358|
+v9 בֵּ֥ית|bêṯ|...|H358|Prep
+v9 חָנָֽן׃|ḥā·nān|and in Elon-beth-hanan|H358|Conj-w | N-proper-fs
+v10 בֶּן־|ben-|...|H1121|N-msc
 v10 חֶ֖סֶד|ḥe·seḏ|Ben-hesed|H2618|N-proper-ms
 v10 בָּֽאֲרֻבּ֑וֹת|bā·’ă·rub·bō·wṯ|in Arubboth|H700|Prep-b, Art | N-proper-fs
 v10 ל֥וֹ|lōw|belonged to him|H0|Prep | 3ms
 v10 שֹׂכֹ֖ה|śō·ḵōh|Socoh|H7755|N-proper-fs
 v10 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v10 אֶ֥רֶץ|’e·reṣ|the land|H776|N-fsc
-v10 חֵֽפֶר׃ס|ḥê·p̄er|of Hepher|H2660|N-proper-fs
-v11 בֶּן־|ben-|vvv|H1125|N-msc
+v10 חֵֽפֶר׃|ḥê·p̄er|of Hepher|H2660|N-proper-fs
+v11 בֶּן־|ben-|...|H1125|N-msc
 v11 אֲבִֽינָדָ֖ב|’ă·ḇî·nā·ḏāḇ|Ben-abinadab|H1125|N-proper-ms
-v11 כָּל־|kāl-|vvv|H3605|N-msc
-v11 נָ֣פַת|nā·p̄aṯ|vvv|H5316|N-fsc
+v11 כָּל־|kāl-|...|H3605|N-msc
+v11 נָ֣פַת|nā·p̄aṯ|...|H5316|N-fsc
 v11 דֹּ֑אר|dōr|in Naphath-dor|H1756|N-proper-fs
 v11 טָפַת֙|ṭā·p̄aṯ|(Taphath|H2955|N-proper-fs
 v11 בַּת־|baṯ-|a daughter|H1323|N-fsc
 v11 שְׁלֹמֹ֔ה|šə·lō·mōh|of Solomon|H8010|N-proper-ms
 v11 הָ֥יְתָה|hā·yə·ṯāh|was|H1961|V-Qal-Perf-3fs
 v11 לּ֖וֹ|lōw|his|H0|Prep | 3ms
-v11 לְאִשָּֽׁה׃ס|lə·’iš·šāh|wife|H802|Prep-l | N-fs
+v11 לְאִשָּֽׁה׃|lə·’iš·šāh|wife|H802|Prep-l | N-fs
 v12 בַּֽעֲנָא֙|ba·‘ă·nā|Baana|H1195|N-proper-ms
 v12 בֶּן־|ben-|son|H1121|N-msc
 v12 אֲחִיל֔וּד|’ă·ḥî·lūḏ|of Ahilud|H286|N-proper-ms
 v12 תַּעְנַ֖ךְ|ta‘·naḵ|in Taanach|H8590|N-proper-fs
 v12 וּמְגִדּ֑וֹ|ū·mə·ḡid·dōw|in Megiddo|H4023|Conj-w | N-proper-fs
 v12 וְכָל־|wə·ḵāl|and in all|H3605|Conj-w | N-msc
-v12 בֵּ֣ית|bêṯ|vvv|H1052|Prep
+v12 בֵּ֣ית|bêṯ|...|H1052|Prep
 v12 שְׁאָ֡ן|šə·’ān|of Beth-shean|H1052|N-proper-fs
 v12 אֲשֶׁר֩|’ă·šer|-|H834|Pro-r
 v12 אֵ֨צֶל|’ê·ṣel|next to|H681|Prep
@@ -117,12 +117,12 @@ v12 לְיִזְרְעֶ֗אל|lə·yiz·rə·‘el|Jezreel|H3157|Prep-l | N-pro
 v12 מִבֵּ֤ית|mib·bêṯ|from|H1052|Prep
 v12 שְׁאָן֙|šə·’ān|Beth-shean|H1052|Prep | N-proper-fs
 v12 עַ֚ד|‘aḏ|to|H5704|Prep
-v12 אָבֵ֣ל|’ā·ḇêl|vvv|H65|
+v12 אָבֵ֣ל|’ā·ḇêl|...|H65|
 v12 מְחוֹלָ֔ה|mə·ḥō·w·lāh|Abel-meholah|H65|N-proper-fs
-v12 עַ֖ד|‘aḏ||H5704|Prep
+v12 עַ֖ד|‘aḏ|-|H5704|Prep
 v12 מֵעֵ֥בֶר|mê·‘ê·ḇer|and on past|H5676|Prep-m | N-ms
-v12 לְיָקְמֳעָֽם׃ס|lə·yā·qə·mo·‘ām|Jokmeam|H3361|Prep-l | N-proper-fs
-v13 בֶּן־|ben-|vvv|H1127|N-msc
+v12 לְיָקְמֳעָֽם׃|lə·yā·qə·mo·‘ām|Jokmeam|H3361|Prep-l | N-proper-fs
+v13 בֶּן־|ben-|...|H1127|N-msc
 v13 גֶּ֖בֶר|ge·ḇer|Ben-geber|H1127|N-proper-ms
 v13 בְּרָמֹ֣ת|bə·rā·mōṯ|in Ramoth-gilead|H7418|N-proper-fs
 v13 גִּלְעָ֑ד|gil·‘āḏ|in Gilead|H1568|Prep | N-proper-fs
@@ -133,7 +133,7 @@ v13 בֶּן־|ben-|son of|H1121|N-msc
 v13 מְנַשֶּׁ֜ה|mə·naš·šeh|Manasseh|H4519|N-proper-ms
 v13 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v13 בַּגִּלְעָ֗ד|bag·gil·‘āḏ|-|H1568|Prep-b, Art | N-proper-fs
-v13 ל֚וֹ|lōw||H0|Prep | 3ms
+v13 ל֚וֹ|lōw|-|H0|Prep | 3ms
 v13 חֶ֤בֶל|ḥe·ḇel|as well as the region|H2256|N-msc
 v13 אַרְגֹּב֙|’ar·gōḇ|of Argob|H709|N-proper-fs
 v13 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
@@ -143,7 +143,7 @@ v13 עָרִ֣ים|‘ā·rîm|cities|H5892|N-fp
 v13 גְּדֹל֔וֹת|gə·ḏō·lō·wṯ|great|H1419|Adj-fp
 v13 חוֹמָ֖ה|ḥō·w·māh|with walls|H2346|N-fs
 v13 וּבְרִ֥יחַ|ū·ḇə·rî·aḥ|bars|H1280|Conj-w | N-msc
-v13 נְחֹֽשֶׁת׃ס|nə·ḥō·šeṯ|and bronze|H5178|N-fs
+v13 נְחֹֽשֶׁת׃|nə·ḥō·šeṯ|and bronze|H5178|N-fs
 v14 אֲחִֽינָדָ֥ב|’ă·ḥî·nā·ḏāḇ|Ahinadab|H292|N-proper-ms
 v14 בֶּן־|ben-|son|H1121|N-msc
 v14 עִדֹּ֖א|‘id·dō|of Iddo|H5714|N-proper-ms
@@ -162,15 +162,15 @@ v16 בַּֽעֲנָא֙|ba·‘ă·nā|Baana|H1195|N-proper-ms
 v16 בֶּן־|ben-|son|H1121|N-msc
 v16 חוּשָׁ֔י|ḥū·šāy|of Hushai|H2365|N-proper-ms
 v16 בְּאָשֵׁ֖ר|bə·’ā·šêr|in Asher|H836|Prep-b | N-proper-ms
-v16 וּבְעָלֽוֹת׃ס|ū·ḇə·‘ā·lō·wṯ|and in Aloth|H1175|Conj-w | N-proper-ms
+v16 וּבְעָלֽוֹת׃|ū·ḇə·‘ā·lō·wṯ|and in Aloth|H1175|Conj-w | N-proper-ms
 v17 יְהוֹשָׁפָ֥ט|yə·hō·wō·šā·p̄āṭ|Jehoshaphat|H3092|N-proper-ms
 v17 בֶּן־|ben-|son|H1121|N-msc
 v17 פָּר֖וּחַ|pā·rū·aḥ|of Paruah|H6515|N-proper-ms
-v17 בְּיִשָׂשכָֽר׃ס|bə·yi·śā·š·ḵār|in Issachar|H3485|Prep-b | N-proper-ms
+v17 בְּיִשָׂשכָֽר׃|bə·yi·śā·š·ḵār|in Issachar|H3485|Prep-b | N-proper-ms
 v18 שִׁמְעִ֥י|šim·‘î|Shimei|H8096|N-proper-ms
 v18 בֶן־|ḇen-|son|H1121|N-msc
 v18 אֵלָ֖א|’ê·lā|of Ela|H414|N-proper-ms
-v18 בְּבִנְיָמִֽן׃ס|bə·ḇin·yā·min|in Benjamin|H1144|Prep-b | N-proper-ms
+v18 בְּבִנְיָמִֽן׃|bə·ḇin·yā·min|in Benjamin|H1144|Prep-b | N-proper-ms
 v19 גֶּ֥בֶר|ge·ḇer|Geber|H1398|N-proper-ms
 v19 בֶּן־|ben-|son|H1121|N-msc
 v19 אֻרִ֖י|’u·rî|of Uri|H221|N-proper-ms
@@ -217,7 +217,7 @@ v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 שְׁלֹמֹ֖ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
 v21 כָּל־|kāl-|all|H3605|N-msc
 v21 יְמֵ֥י|yə·mê|the days|H3117|N-mpc
-v21 חַיָּֽיו׃פ|ḥay·yāw|of his life|H2416|N-mpc | 3ms
+v21 חַיָּֽיו׃|ḥay·yāw|of his life|H2416|N-mpc | 3ms
 v22 וַיְהִ֥י|way·hî|were|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v22 לֶֽחֶם־|le·ḥem-|provisions|H3899|N-msc
 v22 שְׁלֹמֹ֖ה|šə·lō·mōh|Solomon's|H8010|N-proper-ms
@@ -258,7 +258,7 @@ v24 עֵ֣בֶר|‘ê·ḇer|-|H5676|N-msc
 v24 הַנָּהָ֑ר|han·nā·hār|-|H5104|Art | N-ms
 v24 וְשָׁל֗וֹם|wə·šā·lō·wm|peace|H7965|Conj-w | N-ms
 v24 הָ֥יָה|hā·yāh|and he had|H1961|V-Qal-Perf-3ms
-v24 ל֛וֹ|lōw||H0|Prep | 3ms
+v24 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v24 מִכָּל־|mik·kāl|on all|H3605|Prep-m | N-msc
 v24 עֲבָרָ֖יו|‘ă·ḇā·rāw|sides|H5676|N-mpc | 3ms
 v24 מִסָּבִֽיב׃|mis·sā·ḇîḇ|...|H5439|Prep-m | Adv
@@ -273,14 +273,14 @@ v25 וְתַ֣חַת|wə·ṯa·ḥaṯ|and|H8478|Conj-w | Prep
 v25 תְּאֵֽנָת֔וֹ|tə·’ê·nā·ṯōw|his own fig tree|H8384|N-fsc | 3ms
 v25 מִדָּ֖ן|mid·dān|from Dan|H1835|Prep-m | N-proper-ms
 v25 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
-v25 בְּאֵ֣ר|bə·’êr|vvv|H884|Prep
+v25 בְּאֵ֣ר|bə·’êr|...|H884|Prep
 v25 שָׁ֑בַע|šā·ḇa‘|Beersheba|H884|N-proper-fs
 v25 כֹּ֖ל|kōl|Throughout|H3605|N-msc
 v25 יְמֵ֥י|yə·mê|the days|H3117|N-mpc
-v25 שְׁלֹמֹֽה׃ס|šə·lō·mōh|of Solomon|H8010|N-proper-ms
+v25 שְׁלֹמֹֽה׃|šə·lō·mōh|of Solomon|H8010|N-proper-ms
 v26 וַיְהִ֣י|way·hî|had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v26 לִשְׁלֹמֹ֗ה|liš·lō·mōh|Solomon|H8010|Prep-l | N-proper-ms
-v26 אַרְבָּעִ֥ים|’ar·bā·‘îm|4,000 {}|H705|Number-cp
+v26 אַרְבָּעִ֥ים|’ar·bā·‘îm|4,000|H705|Number-cp
 v26 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v26 אֻרְוֺ֥ת|’ur·wōṯ|stalls|H723|N-fpc
 v26 סוּסִ֖ים|sū·sîm|horses|H5483|N-mp
@@ -318,7 +318,7 @@ v28 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v28 יִֽהְיֶה־|yih·yeh-|-|H1961|V-Qal-Imperf-3ms
 v28 שָּׁ֔ם|šām|...|H8033|Adv
 v28 אִ֖ישׁ|’îš|Each one|H376|N-ms
-v28 כְּמִשְׁפָּטֽוֹ׃ס|kə·miš·pā·ṭōw|their quotas|H4941|Prep-k | N-msc | 3ms
+v28 כְּמִשְׁפָּטֽוֹ׃|kə·miš·pā·ṭōw|their quotas|H4941|Prep-k | N-msc | 3ms
 v29 וַיִּתֵּן֩|way·yit·tên|gave|H5414|Conj-w | V-Qal-ConsecImperf-3ms
 v29 אֱלֹהִ֨ים|’ĕ·lō·hîm|And God|H430|N-mp
 v29 חָכְמָ֧ה|ḥāḵ·māh|wisdom|H2451|N-fs
@@ -401,4 +401,4 @@ v34 הָאָ֔רֶץ|hā·’ā·reṣ|of the earth|H776|Art | N-fs
 v34 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
 v34 שָׁמְע֖וּ|šā·mə·‘ū|to listen|H8085|V-Qal-Perf-3cp
 v34 אֶת־|’eṯ-|-|H853|DirObjM
-v34 חָכְמָתֽוֹ׃ס|ḥā·ḵə·mā·ṯōw|wisdom|H2451|N-fsc | 3ms
+v34 חָכְמָתֽוֹ׃|ḥā·ḵə·mā·ṯōw|wisdom|H2451|N-fsc | 3ms

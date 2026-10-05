@@ -33,13 +33,13 @@ v3 הָֽאָדָ֔ם|hā·’ā·ḏām|man|H120|Art | N-ms
 v3 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v3 עַל־|‘al-|on|H5921|Prep
 v3 פְּנֵ֥י|pə·nê|the face|H6440|N-cpc
-v3 הָאֲדָמָֽה׃ס|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
+v3 הָאֲדָמָֽה׃|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
 v4 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 יְהוָ֜ה|Yah·weh|the LORD|H3068|N-proper-ms
 v4 פִּתְאֹ֗ם|piṯ·’ōm|And suddenly|H6597|Adv
 v4 אֶל־|’el-|to|H413|Prep
 v4 מֹשֶׁ֤ה|mō·šeh|Moses|H4872|N-proper-ms
-v4 וְאֶֽל־|wə·’el-||H413|Conj-w | Prep
+v4 וְאֶֽל־|wə·’el-|-|H413|Conj-w | Prep
 v4 אַהֲרֹן֙|’a·hă·rōn|Aaron|H175|N-proper-ms
 v4 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
 v4 מִרְיָ֔ם|mir·yām|and Miriam|H4813|N-proper-fs
@@ -96,7 +96,7 @@ v8 וּתְמֻנַ֥ת|ū·ṯə·mu·naṯ|the form|H8544|Conj-w | N-fsc
 v8 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v8 יַבִּ֑יט|yab·bîṭ|he sees|H5027|V-Hifil-Imperf-3ms
 v8 וּמַדּ֙וּעַ֙|ū·mad·dū·a‘|Why then|H4069|Conj-w | Interrog
-v8 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v8 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v8 יְרֵאתֶ֔ם|yə·rê·ṯem|were you unafraid|H3372|V-Qal-Perf-2mp
 v8 לְדַבֵּ֖ר|lə·ḏab·bêr|to speak|H1696|Prep-l | V-Piel-Inf
 v8 בְּעַבְדִּ֥י|bə·‘aḇ·dî|against My servant|H5650|Prep-b | N-msc | 1cs
@@ -155,7 +155,7 @@ v13 אֵ֕ל|’êl|O God|H410|N-ms
 v13 נָ֛א|nā|please|H4994|Interjection
 v13 רְפָ֥א|rə·p̄ā|heal|H7495|V-Qal-Imp-ms
 v13 נָ֖א|nā|-|H4994|Interjection
-v13 לָֽהּ׃פ|lāh|her|H0|Prep | 3fs
+v13 לָֽהּ׃|lāh|her|H0|Prep | 3fs
 v14 וַיֹּ֨אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v14 יְהוָ֜ה|Yah·weh|But the LORD|H3068|N-proper-ms
 v14 אֶל־|’el-|...|H413|Prep
@@ -193,4 +193,4 @@ v16 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
 v16 מֵחֲצֵר֑וֹת|mê·ḥă·ṣê·rō·wṯ|from Hazeroth|H2698|Prep-m | N-proper-fs
 v16 וַֽיַּחֲנ֖וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
 v16 בְּמִדְבַּ֥ר|bə·miḏ·bar|in the Wilderness|H4057|Prep-b | N-msc
-v16 פָּארָֽן׃פ|pā·rān|of Paran|H6290|N-proper-fs
+v16 פָּארָֽן׃|pā·rān|of Paran|H6290|N-proper-fs

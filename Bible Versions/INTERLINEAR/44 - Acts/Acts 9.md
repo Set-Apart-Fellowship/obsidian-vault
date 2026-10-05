@@ -138,7 +138,7 @@ v9 τρεῖς|treis|[For] three|G5140|Adj-AFP
 v9 μὴ|mē|without|G3361|Adv
 v9 βλέπων|blepōn|sight|G991|V-PPA-NMS
 v9 καὶ|kai|and|G2532|Conj
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἔφαγεν|ephagen|he did not eat|G5315|V-AIA-3S
 v9 οὐδὲ|oude|[or]|G3761|Conj
 v9 ἔπιεν|epien|drink [anything]|G4095|V-AIA-3S
@@ -209,7 +209,7 @@ v13 δὲ|de|But|G1161|Conj
 v13 Ἁνανίας|Hananias|Ananias|G367|N-NMS
 v13 Κύριε|Kyrie|Lord|G2962|N-VMS
 v13 ἤκουσα|ēkousa|have told me|G191|V-AIA-1S
-v13 ἀπὸ|apo|vvv|G575|Prep
+v13 ἀπὸ|apo|...|G575|Prep
 v13 πολλῶν|pollōn|many [people]|G4183|Adj-GMP
 v13 περὶ|peri|about|G4012|Prep
 v13 τοῦ|tou|-|G3588|Art-GMS
@@ -340,7 +340,7 @@ v19 μαθητῶν|mathētōn|disciples|G3101|N-GMP
 v19 ἡμέρας|hēmeras|days|G2250|N-AFP
 v19 τινὰς|tinas|several|G5100|IPro-AFP
 v20 Καὶ|Kai|-|G2532|Conj
-v20 εὐθέως|eutheōs|vvv|G2112|Adv
+v20 εὐθέως|eutheōs|...|G2112|Adv
 v20 ἐν|en|in|G1722|Prep
 v20 ταῖς|tais|the|G3588|Art-DFP
 v20 συναγωγαῖς|synagōgais|synagogues|G4864|N-DFP
@@ -427,7 +427,7 @@ v24 τὰς|tas|the|G3588|Art-AFP
 v24 πύλας|pylas|[city] gates|G4439|N-AFP
 v24 ἡμέρας|hēmeras|Day|G2250|N-GFS
 v24 τε|te|and|G5037|Conj
-v24 καὶ|kai|vvv|G2532|Conj
+v24 καὶ|kai|...|G2532|Conj
 v24 νυκτὸς|nyktos|night|G3571|N-GFS
 v24 ὅπως|hopōs|in order|G3704|Conj
 v24 αὐτὸν|auton|him|G846|PPro-AM3S
@@ -455,7 +455,7 @@ v26 κολλᾶσθαι|kollasthai|to join|G2853|V-PNM/P
 v26 τοῖς|tois|the|G3588|Art-DMP
 v26 μαθηταῖς|mathētais|disciples|G3101|N-DMP
 v26 καὶ|kai|[but]|G2532|Conj
-v26 πάντες|pantes|vvv|G3956|Adj-NMP
+v26 πάντες|pantes|...|G3956|Adj-NMP
 v26 ἐφοβοῦντο|ephobounto|they were all afraid of|G5399|V-IIM/P-3P
 v26 αὐτόν|auton|him|G846|PPro-AM3S
 v26 μὴ|mē|not|G3361|Adv
@@ -465,8 +465,8 @@ v26 ἐστὶν|estin|he was|G1510|V-PIA-3S
 v26 μαθητής|mathētēs|a disciple|G3101|N-NMS
 v27 Βαρνάβας|Barnabas|Barnabas|G921|N-NMS
 v27 δὲ|de|Then|G1161|Conj
-v27 ἐπιλαβόμενος|epilabomenos|vvv|G1949|V-APM-NMS
-v27 αὐτὸν|auton|vvv|G846|PPro-AM3S
+v27 ἐπιλαβόμενος|epilabomenos|...|G1949|V-APM-NMS
+v27 αὐτὸν|auton|...|G846|PPro-AM3S
 v27 ἤγαγεν|ēgagen|brought [him]|G71|V-AIA-3S
 v27 πρὸς|pros|to|G4314|Prep
 v27 τοὺς|tous|the|G3588|Art-AMP
@@ -570,7 +570,7 @@ v32 διερχόμενον|dierchomenon|traveled|G1330|V-PPM/P-AMS
 v32 διὰ|dia|throughout|G1223|Prep
 v32 πάντων|pantōn|[the area]|G3956|Adj-GNP
 v32 κατελθεῖν|katelthein|he went to [visit]|G2718|V-ANA
-v32 καὶ|kai|vvv|G2532|Conj
+v32 καὶ|kai|...|G2532|Conj
 v32 πρὸς|pros|...|G4314|Prep
 v32 τοὺς|tous|the|G3588|Art-AMP
 v32 ἁγίους|hagious|saints|G40|Adj-AMP
@@ -646,7 +646,7 @@ v36 καὶ|kai|and|G2532|Conj
 v36 ἐλεημοσυνῶν|eleēmosynōn|charity|G1654|N-GFP
 v36 ὧν|hōn|-|G3739|RelPro-GFP
 v36 ἐποίει|epoiei|always|G4160|V-IIA-3S
-v37 ἐγένετο|egeneto|vvv|G1096|V-AIM-3S
+v37 ἐγένετο|egeneto|...|G1096|V-AIM-3S
 v37 δὲ|de|however|G1161|Conj
 v37 ἐν|en|At|G1722|Prep
 v37 ταῖς|tais|-|G3588|Art-DFP
@@ -673,7 +673,7 @@ v38 ἀκούσαντες|akousantes|hearing|G191|V-APA-NMP
 v38 ὅτι|hoti|that|G3754|Conj
 v38 Πέτρος|Petros|Peter|G4074|N-NMS
 v38 ἐστὶν|estin|was|G1510|V-PIA-3S
-v38 ἐν|en|vvv|G1722|Prep
+v38 ἐν|en|...|G1722|Prep
 v38 αὐτῇ|autē|[there]|G846|PPro-DF3S
 v38 ἀπέστειλαν|apesteilan|sent|G649|V-AIA-3P
 v38 δύο|dyo|two|G1417|Adj-AMP
@@ -691,7 +691,7 @@ v39 δὲ|de|[So]|G1161|Conj
 v39 Πέτρος|Petros|Peter|G4074|N-NMS
 v39 συνῆλθεν|synēlthen|[and] went with|G4905|V-AIA-3S
 v39 αὐτοῖς|autois|them|G846|PPro-DM3P
-v39 ὃν|hon|vvv|G3739|RelPro-AMS
+v39 ὃν|hon|...|G3739|RelPro-AMS
 v39 παραγενόμενον|paragenomenon|On his arrival|G3854|V-APM-AMS
 v39 ἀνήγαγον|anēgagon|they took [him]|G321|V-AIA-3P
 v39 εἰς|eis|to|G1519|Prep

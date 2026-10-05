@@ -24,7 +24,7 @@ v2 καὶ|kai|-|G2532|Conj
 v2 εἶδεν|eiden|He saw|G3708|V-AIA-3S
 v2 πλοῖα|ploia|boats|G4143|N-ANP
 v2 δύο|dyo|two|G1417|Adj-ANP
-v2 ἑστῶτα|hestōta|vvv|G2476|V-RPA-ANP
+v2 ἑστῶτα|hestōta|...|G2476|V-RPA-ANP
 v2 παρὰ|para|at the edge|G3844|Prep
 v2 τὴν|tēn|of the|G3588|Art-AFS
 v2 λίμνην|limnēn|lake|G3041|N-AFS
@@ -85,7 +85,7 @@ v5 ἀποκριθεὶς|apokritheis|replied|G611|V-APP-NMS
 v5 Σίμων|Simōn|Simon|G4613|N-NMS
 v5 εἶπεν|eipen|-|G2036|V-AIA-3S
 v5 Ἐπιστάτα|Epistata|Master|G1988|N-VMS
-v5 δι’|di’|vvv|G1223|Prep
+v5 δι’|di’|...|G1223|Prep
 v5 ὅλης|holēs|all|G3650|Adj-GFS
 v5 νυκτὸς|nyktos|night|G3571|N-GFS
 v5 κοπιάσαντες|kopiasantes|we have worked hard|G2872|V-APA-NMP
@@ -152,7 +152,7 @@ v8 εἰμι|eimi|I am|G1510|V-PIA-1S
 v8 Κύριε|Kyrie|Lord|G2962|N-VMS
 v9 θάμβος|thambos|were astonished|G2285|N-NNS
 v9 γὰρ|gar|For|G1063|Conj
-v9 περιέσχεν|perieschen|vvv|G4023|V-AIA-3S
+v9 περιέσχεν|perieschen|...|G4023|V-AIA-3S
 v9 αὐτὸν|auton|he|G846|PPro-AM3S
 v9 καὶ|kai|and|G2532|Conj
 v9 πάντας|pantas|-|G3956|Adj-AMP
@@ -198,8 +198,8 @@ v11 καὶ|kai|And when|G2532|Conj
 v11 καταγαγόντες|katagagontes|they had brought|G2609|V-APA-NMP
 v11 τὰ|ta|[their]|G3588|Art-ANP
 v11 πλοῖα|ploia|boats|G4143|N-ANP
-v11 ἐπὶ|epi|vvv|G1909|Prep
-v11 τὴν|tēn|vvv|G3588|Art-AFS
+v11 ἐπὶ|epi|...|G1909|Prep
+v11 τὴν|tēn|...|G3588|Art-AFS
 v11 γῆν|gēn|ashore|G1093|N-AFS
 v11 ἀφέντες|aphentes|they left|G863|V-APA-NMP
 v11 πάντα|panta|everything|G3956|Adj-ANP
@@ -225,7 +225,7 @@ v12 δὲ|de|-|G1161|Conj
 v12 τὸν|ton|-|G3588|Art-AMS
 v12 Ἰησοῦν|Iēsoun|Jesus|G2424|N-AMS
 v12 πεσὼν|pesōn|he fell|G4098|V-APA-NMS
-v12 ἐπὶ|epi|vvv|G1909|Prep
+v12 ἐπὶ|epi|...|G1909|Prep
 v12 πρόσωπον|prosōpon|facedown|G4383|N-ANS
 v12 ἐδεήθη|edeēthē|[and] begged|G1189|V-AIP-3S
 v12 αὐτοῦ|autou|Him|G846|PPro-GM3S
@@ -303,9 +303,9 @@ v16 ταῖς|tais|the|G3588|Art-DFP
 v16 ἐρήμοις|erēmois|wilderness|G2048|Adj-DFP
 v16 καὶ|kai|to|G2532|Conj
 v16 προσευχόμενος|proseuchomenos|pray|G4336|V-PPM/P-NMS
-v17 Καὶ|Kai|vvv|G2532|Conj
-v17 ἐγένετο|egeneto|vvv|G1096|V-AIM-3S
-v17 ἐν|en|vvv|G1722|Prep
+v17 Καὶ|Kai|...|G2532|Conj
+v17 ἐγένετο|egeneto|...|G1096|V-AIM-3S
+v17 ἐν|en|...|G1722|Prep
 v17 μιᾷ|mia|One|G1520|Adj-DFS
 v17 τῶν|tōn|-|G3588|Art-GFP
 v17 ἡμερῶν|hēmerōn|day|G2250|N-GFP
@@ -346,8 +346,8 @@ v18 φέροντες|pherontes|[came] carrying|G5342|V-PPA-NMP
 v18 ἐπὶ|epi|on|G1909|Prep
 v18 κλίνης|klinēs|a mat|G2825|N-GFS
 v18 ἄνθρωπον|anthrōpon|man|G444|N-AMS
-v18 ὃς|hos|vvv|G3739|RelPro-NMS
-v18 ἦν|ēn|vvv|G1510|V-IIA-3S
+v18 ὃς|hos|...|G3739|RelPro-NMS
+v18 ἦν|ēn|...|G1510|V-IIA-3S
 v18 παραλελυμένος|paralelymenos|a paralyzed|G3886|V-RPM/P-NMS
 v18 καὶ|kai|-|G2532|Conj
 v18 ἐζήτουν|ezētoun|They tried|G2212|V-IIA-3P
@@ -359,7 +359,7 @@ v18 [αὐτὸν]|auton|him|G846|PPro-AM3S
 v18 ἐνώπιον|enōpion|before|G1799|Prep
 v18 αὐτοῦ|autou|[Jesus]|G846|PPro-GM3S
 v19 καὶ|kai|but|G2532|Conj
-v19 μὴ|mē|vvv|G3361|Adv
+v19 μὴ|mē|...|G3361|Adv
 v19 εὑρόντες|heurontes|they could not find|G2147|V-APA-NMP
 v19 ποίας|poias|a way|G4169|IPro-GFS
 v19 εἰσενέγκωσιν|eisenenkōsin|-|G1533|V-ASA-3P
@@ -479,10 +479,10 @@ v24 τὸ|to|-|G3588|Art-ANS
 v24 κλινίδιόν|klinidion|mat|G2826|N-ANS
 v24 σου|sou|your|G4771|PPro-G2S
 v24 πορεύου|poreuou|[and] go|G4198|V-PMM/P-2S
-v24 εἰς|eis|vvv|G1519|Prep
-v24 τὸν|ton|vvv|G3588|Art-AMS
+v24 εἰς|eis|...|G1519|Prep
+v24 τὸν|ton|...|G3588|Art-AMS
 v24 οἶκόν|oikon|home|G3624|N-AMS
-v24 σου|sou|vvv|G4771|PPro-G2S
+v24 σου|sou|...|G4771|PPro-G2S
 v25 Καὶ|Kai|And|G2532|Conj
 v25 παραχρῆμα|parachrēma|immediately|G3916|Adv
 v25 ἀναστὰς|anastas|[the man] stood up|G450|V-APA-NMS
@@ -493,10 +493,10 @@ v25 ἐφ’|eph’|on|G1909|Prep
 v25 ὃ|ho|what|G3739|RelPro-ANS
 v25 κατέκειτο|katekeito|he had been lying|G2621|V-IIM/P-3S
 v25 ἀπῆλθεν|apēlthen|and went|G565|V-AIA-3S
-v25 εἰς|eis|vvv|G1519|Prep
-v25 τὸν|ton|vvv|G3588|Art-AMS
+v25 εἰς|eis|...|G1519|Prep
+v25 τὸν|ton|...|G3588|Art-AMS
 v25 οἶκον|oikon|home|G3624|N-AMS
-v25 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v25 αὐτοῦ|autou|...|G846|PPro-GM3S
 v25 δοξάζων|doxazōn|glorifying|G1392|V-PPA-NMS
 v25 τὸν|ton|-|G3588|Art-AMS
 v25 Θεόν|Theon|God|G2316|N-AMS
@@ -602,7 +602,7 @@ v31 ἀλλὰ|alla|but|G235|Conj
 v31 οἱ|hoi|the|G3588|Art-NMP
 v31 κακῶς|kakōs|sick|G2560|Adv
 v31 ἔχοντες|echontes|...|G2192|V-PPA-NMP
-v32 οὐκ|ouk|vvv|G3756|Adv
+v32 οὐκ|ouk|...|G3756|Adv
 v32 ἐλήλυθα|elēlytha|I have not come|G2064|V-RIA-1S
 v32 καλέσαι|kalesai|to call|G2564|V-ANA
 v32 δικαίους|dikaious|[the] righteous|G1342|Adj-AMP
@@ -622,8 +622,8 @@ v33 νηστεύουσιν|nēsteuousin|fast|G3522|V-PIA-3P
 v33 πυκνὰ|pykna|frequently|G4437|Adj-ANP
 v33 καὶ|kai|and|G2532|Conj
 v33 δεήσεις|deēseis|pray|G1162|N-AFP
-v33 ποιοῦνται|poiountai|vvv|G4160|V-PIM-3P
-v33 ὁμοίως|homoiōs|vvv|G3668|Adv
+v33 ποιοῦνται|poiountai|...|G4160|V-PIM-3P
+v33 ὁμοίως|homoiōs|...|G3668|Adv
 v33 καὶ|kai|and|G2532|Conj
 v33 οἱ|hoi|those|G3588|Art-NMP
 v33 τῶν|tōn|of the|G3588|Art-GMP
@@ -640,13 +640,13 @@ v34 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v34 εἶπεν|eipen|replied|G2036|V-AIA-3S
 v34 πρὸς|pros|...|G4314|Prep
 v34 αὐτούς|autous|...|G846|PPro-AM3P
-v34 Μὴ|Mē|vvv|G3361|Adv
+v34 Μὴ|Mē|...|G3361|Adv
 v34 δύνασθε|dynasthe|Can you|G1410|V-PIM/P-2P
 v34 τοὺς|tous|the|G3588|Art-AMP
 v34 υἱοὺς|huious|guests|G5207|N-AMP
 v34 τοῦ|tou|of the|G3588|Art-GMS
 v34 νυμφῶνος|nymphōnos|bridegroom|G3567|N-GMS
-v34 ἐν|en|vvv|G1722|Prep
+v34 ἐν|en|...|G1722|Prep
 v34 ᾧ|hō|while|G3739|RelPro-DMS
 v34 ὁ|ho|-|G3588|Art-NMS
 v34 νυμφίος|nymphios|[He]|G3566|N-NMS
@@ -698,7 +698,7 @@ v36 σχίσει|schisei|he will tear|G4977|V-FIA-3S
 v36 καὶ|kai|and|G2532|Conj
 v36 τῷ|tō|the|G3588|Art-DNS
 v36 παλαιῷ|palaiō|old|G3820|Adj-DNS
-v36 οὐ|ou|vvv|G3756|Adv
+v36 οὐ|ou|...|G3756|Adv
 v36 συμφωνήσει|symphōnēsei|will not match|G4856|V-FIA-3S
 v36 τὸ|to|-|G3588|Art-NNS
 v36 ἐπίβλημα|epiblēma|[the] patch|G1915|N-NNS
@@ -714,8 +714,8 @@ v37 νέον|neon|new|G3501|Adj-AMS
 v37 εἰς|eis|into|G1519|Prep
 v37 ἀσκοὺς|askous|wineskins|G779|N-AMP
 v37 παλαιούς|palaious|old|G3820|Adj-AMP
-v37 εἰ|ei|vvv|G1487|Conj
-v37 δὲ|de|vvv|G1161|Conj
+v37 εἰ|ei|...|G1487|Conj
+v37 δὲ|de|...|G1161|Conj
 v37 μή¦γε|mē¦ge|If he does|G1490|Prtcl
 v37 ῥήξει|rhēxei|will burst|G4486|V-FIA-3S
 v37 ὁ|ho|the|G3588|Art-NMS

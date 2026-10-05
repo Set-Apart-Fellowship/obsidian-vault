@@ -33,7 +33,7 @@ v2 μαθηταί|mathētai|disciples|G3101|N-NMP
 v2 σου|sou|Your|G4771|PPro-G2S
 v2 ποιοῦσιν|poiousin|are doing|G4160|V-PIA-3P
 v2 ὃ|ho|what|G3739|RelPro-ANS
-v2 οὐκ|ouk|vvv|G3756|Adv
+v2 οὐκ|ouk|...|G3756|Adv
 v2 ἔξεστιν|exestin|is unlawful|G1832|V-PIA-3S
 v2 ποιεῖν|poiein|...|G4160|V-PNA
 v2 ἐν|en|on|G1722|Prep
@@ -42,7 +42,7 @@ v3 Ὁ|Ho|-|G3588|Art-NMS
 v3 δὲ|de|-|G1161|Conj
 v3 εἶπεν|eipen|[Jesus] replied|G2036|V-AIA-3S
 v3 αὐτοῖς|autois|-|G846|PPro-DM3P
-v3 Οὐκ|Ouk|vvv|G3756|Adv
+v3 Οὐκ|Ouk|...|G3756|Adv
 v3 ἀνέγνωτε|anegnōte|Have you not read|G314|V-AIA-2P
 v3 τί|ti|what|G5101|IPro-ANS
 v3 ἐποίησεν|epoiēsen|did|G4160|V-AIA-3S
@@ -82,7 +82,7 @@ v4 τοῖς|tois|for the|G3588|Art-DMP
 v4 ἱερεῦσιν|hiereusin|priests|G2409|N-DMP
 v4 μόνοις|monois|only|G3441|Adj-DMP
 v5 Ἢ|Ē|Or|G2228|Conj
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 ἀνέγνωτε|anegnōte|haven't you read|G314|V-AIA-2P
 v5 ἐν|en|in|G1722|Prep
 v5 τῷ|tō|the|G3588|Art-DMS
@@ -113,15 +113,15 @@ v6 ὧδε|hōde|here|G5602|Adv
 v7 Εἰ|Ei|If|G1487|Conj
 v7 δὲ|de|only|G1161|Conj
 v7 ἐγνώκειτε|egnōkeite|you had known|G1097|V-LIA-2P
-v7 τί|ti|vvv|G5101|IPro-NNS
+v7 τί|ti|...|G5101|IPro-NNS
 v7 ἐστιν|estin|the meaning of|G1510|V-PIA-3S
 v7 Ἔλεος|Eleos|mercy|G1656|N-ANS
 v7 θέλω|thelō|I desire|G2309|V-PIA-1S
 v7 καὶ|kai|-|G2532|Conj
 v7 οὐ|ou|not|G3756|Adv
 v7 θυσίαν|thysian|sacrifice|G2378|N-AFS
-v7 οὐκ|ouk|vvv|G3756|Adv
-v7 ἂν|an|vvv|G302|Prtcl
+v7 οὐκ|ouk|...|G3756|Adv
+v7 ἂν|an|...|G302|Prtcl
 v7 κατεδικάσατε|katedikasate|you would not have condemned|G2613|V-AIA-2P
 v7 τοὺς|tous|the|G3588|Art-AMP
 v7 ἀναιτίους|anaitious|innocent|G338|Adj-AMP
@@ -152,7 +152,7 @@ v10 καὶ|kai|-|G2532|Conj
 v10 ἐπηρώτησαν|epērōtēsan|they asked|G1905|V-AIA-3P
 v10 αὐτὸν|auton|Him|G846|PPro-AM3S
 v10 λέγοντες|legontes|-|G3004|V-PPA-NMP
-v10 Εἰ|Ei|vvv|G1487|Conj
+v10 Εἰ|Ei|...|G1487|Conj
 v10 ἔξεστιν|exestin|Is it lawful|G1832|V-PIA-3S
 v10 τοῖς|tois|on the|G3588|Art-DNP
 v10 σάββασιν|sabbasin|Sabbath|G4521|N-DNP
@@ -164,7 +164,7 @@ v11 Ὁ|Ho|-|G3588|Art-NMS
 v11 δὲ|de|-|G1161|Conj
 v11 εἶπεν|eipen|He replied|G2036|V-AIA-3S
 v11 αὐτοῖς|autois|...|G846|PPro-DM3P
-v11 Τίς|Tis|vvv|G5101|IPro-NMS
+v11 Τίς|Tis|...|G5101|IPro-NMS
 v11 ἔσται|estai|-|G1510|V-FIM-3S
 v11 ἐξ|ex|of|G1537|Prep
 v11 ὑμῶν|hymōn|you|G4771|PPro-G2P
@@ -181,7 +181,7 @@ v11 τοῖς|tois|on the|G3588|Art-DNP
 v11 σάββασιν|sabbasin|Sabbath|G4521|N-DNP
 v11 εἰς|eis|into|G1519|Prep
 v11 βόθυνον|bothynon|a pit|G999|N-AMS
-v11 οὐχὶ|ouchi|vvv|G3780|IntPrtcl
+v11 οὐχὶ|ouchi|...|G3780|IntPrtcl
 v11 κρατήσει|kratēsei|will he not take hold of|G2902|V-FIA-3S
 v11 αὐτὸ|auto|it|G846|PPro-AN3S
 v11 καὶ|kai|and|G2532|Conj
@@ -282,7 +282,7 @@ v18 κρίσιν|krisin|justice|G2920|N-AFS
 v18 τοῖς|tois|to the|G3588|Art-DNP
 v18 ἔθνεσιν|ethnesin|nations|G1484|N-DNP
 v18 ἀπαγγελεῖ|apangelei|He will proclaim|G518|V-FIA-3S
-v19 οὐκ|ouk|vvv|G3756|Adv
+v19 οὐκ|ouk|...|G3756|Adv
 v19 ἐρίσει|erisei|He will not quarrel|G2051|V-FIA-3S
 v19 οὐδὲ|oude|or|G3761|Conj
 v19 κραυγάσει|kraugasei|cry out|G2905|V-FIA-3S
@@ -297,12 +297,12 @@ v19 φωνὴν|phōnēn|voice|G5456|N-AFS
 v19 αὐτοῦ|autou|His|G846|PPro-GM3S
 v20 κάλαμον|kalamon|reed|G2563|N-AMS
 v20 συντετριμμένον|syntetrimmenon|A bruised|G4937|V-RPM/P-AMS
-v20 οὐ|ou|vvv|G3756|Adv
+v20 οὐ|ou|...|G3756|Adv
 v20 κατεάξει|kateaxei|He will not break|G2608|V-FIA-3S
 v20 καὶ|kai|and|G2532|Conj
 v20 λίνον|linon|wick|G3043|N-ANS
 v20 τυφόμενον|typhomenon|a smoldering|G5188|V-PPM/P-ANS
-v20 οὐ|ou|vvv|G3756|Adv
+v20 οὐ|ou|...|G3756|Adv
 v20 σβέσει|sbesei|He will not extinguish|G4570|V-FIA-3S
 v20 ἕως|heōs|till|G2193|Conj
 v20 ἂν|an|...|G302|Prtcl
@@ -335,7 +335,7 @@ v22 καὶ|kai|and|G2532|Conj
 v22 βλέπειν|blepein|see|G991|V-PNA
 v23 καὶ|kai|-|G2532|Conj
 v23 ἐξίσταντο|existanto|were astounded|G1839|V-IIM-3P
-v23 πάντες|pantes|vvv|G3956|Adj-NMP
+v23 πάντες|pantes|...|G3956|Adj-NMP
 v23 οἱ|hoi|The|G3588|Art-NMP
 v23 ὄχλοι|ochloi|crowds|G3793|N-NMP
 v23 καὶ|kai|and|G2532|Conj
@@ -352,7 +352,7 @@ v24 Φαρισαῖοι|Pharisaioi|[the] Pharisees|G5330|N-NMP
 v24 ἀκούσαντες|akousantes|heard this|G191|V-APA-NMP
 v24 εἶπον|eipon|they said|G2036|V-AIA-3P
 v24 Οὗτος|Houtos|{does} this [man]|G3778|DPro-NMS
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 ἐκβάλλει|ekballei|drive out|G1544|V-PIA-3S
 v24 τὰ|ta|-|G3588|Art-ANP
 v24 δαιμόνια|daimonia|demons|G1140|N-ANP
@@ -385,7 +385,7 @@ v25 οἰκία|oikia|household|G3614|N-NFS
 v25 μερισθεῖσα|meristheisa|divided|G3307|V-APP-NFS
 v25 καθ’|kath’|against|G2596|Prep
 v25 ἑαυτῆς|heautēs|itself|G1438|RefPro-GF3S
-v25 οὐ|ou|vvv|G3756|Adv
+v25 οὐ|ou|...|G3756|Adv
 v25 σταθήσεται|stathēsetai|will not stand|G2476|V-FIP-3S
 v26 καὶ|kai|-|G2532|Conj
 v26 εἰ|ei|If|G1487|Conj
@@ -502,7 +502,7 @@ v31 οὐκ|ouk|{will} not|G3756|Adv
 v31 ἀφεθήσεται|aphethēsetai|be forgiven|G863|V-FIP-3S
 v32 καὶ|kai|-|G2532|Conj
 v32 ὃς|hos|Whoever|G3739|RelPro-NMS
-v32 ἐὰν|ean|vvv|G1437|Conj
+v32 ἐὰν|ean|...|G1437|Conj
 v32 εἴπῃ|eipē|speaks|G2036|V-ASA-3S
 v32 λόγον|logon|a word|G3056|N-AMS
 v32 κατὰ|kata|against|G2596|Prep
@@ -514,14 +514,14 @@ v32 ἀφεθήσεται|aphethēsetai|will be forgiven|G863|V-FIP-3S
 v32 αὐτῷ|autō|...|G846|PPro-DM3S
 v32 ὃς|hos|whoever|G3739|RelPro-NMS
 v32 δ’|d’|but|G1161|Conj
-v32 ἂν|an|vvv|G302|Prtcl
+v32 ἂν|an|...|G302|Prtcl
 v32 εἴπῃ|eipē|speaks|G2036|V-ASA-3S
 v32 κατὰ|kata|against|G2596|Prep
 v32 τοῦ|tou|-|G3588|Art-GNS
 v32 Πνεύματος|Pneumatos|Spirit|G4151|N-GNS
 v32 τοῦ|tou|the|G3588|Art-GNS
 v32 Ἁγίου|Hagiou|Holy|G40|Adj-GNS
-v32 οὐκ|ouk|vvv|G3756|Adv
+v32 οὐκ|ouk|...|G3756|Adv
 v32 ἀφεθήσεται|aphethēsetai|will not be forgiven|G863|V-FIP-3S
 v32 αὐτῷ|autō|...|G846|PPro-DM3S
 v32 οὔτε|oute|[either]|G3777|Conj
@@ -763,7 +763,7 @@ v43 τόπων|topōn|places|G5117|N-GMP
 v43 ζητοῦν|zētoun|seeking|G2212|V-PPA-NNS
 v43 ἀνάπαυσιν|anapausin|rest|G372|N-AFS
 v43 καὶ|kai|and|G2532|Conj
-v43 οὐχ|ouch|vvv|G3756|Adv
+v43 οὐχ|ouch|...|G3756|Adv
 v43 εὑρίσκει|heuriskei|does not find [it]|G2147|V-PIA-3S
 v44 τότε|tote|Then|G5119|Adv
 v44 λέγει|legei|it says|G3004|V-PIA-3S
@@ -772,7 +772,7 @@ v44 τὸν|ton|the|G3588|Art-AMS
 v44 οἶκόν|oikon|house|G3624|N-AMS
 v44 μου|mou|-|G1473|PPro-G1S
 v44 ἐπιστρέψω|epistrepsō|I will return|G1994|V-FIA-1S
-v44 ὅθεν|hothen|vvv|G3606|Adv
+v44 ὅθεν|hothen|...|G3606|Adv
 v44 ἐξῆλθον|exēlthon|I left|G1831|V-AIA-1S
 v44 καὶ|kai|-|G2532|Conj
 v44 ἐλθὸν|elthon|On its return|G2064|V-APA-NNS
@@ -852,7 +852,7 @@ v47 σοι|soi|to You|G4771|PPro-D2S
 v47 λαλῆσαι|lalēsai|to speak|G2980|V-ANA
 v48 Ὁ|Ho|-|G3588|Art-NMS
 v48 δὲ|de|But|G1161|Conj
-v48 ἀποκριθεὶς|apokritheis|vvv|G611|V-APP-NMS
+v48 ἀποκριθεὶς|apokritheis|...|G611|V-APP-NMS
 v48 εἶπεν|eipen|[Jesus] replied|G2036|V-AIA-3S
 v48 τῷ|tō|...|G3588|Art-DMS
 v48 λέγοντι|legonti|...|G3004|V-PPA-DMS

@@ -74,7 +74,7 @@ v6 תֵּהָרַ֑גְנָה|tê·hā·raḡ·nāh|will be slain|H2026|V-Nifal-
 v6 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v6 כִּי־|kî-|that|H3588|Conj
 v6 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v6 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v6 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v7 כִּ֣י|kî|For|H3588|Conj
 v7 כֹ֤ה|ḵōh|this is what|H3541|Adv
 v7 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -182,7 +182,7 @@ v14 יְהוָה֙|Yah·weh|GOD|H3068|N-proper-ms
 v14 דִּבַּ֔רְתִּי|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
 v14 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v14 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v14 יְהוִֽה׃ס|Yah·weh|the LORD|H3069|N-proper-ms
+v14 יְהוִֽה׃|Yah·weh|the LORD|H3069|N-proper-ms
 v15 כֹּ֥ה|kōh|This is what|H3541|Adv
 v15 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v15 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -251,7 +251,7 @@ v18 וְנִבְהֲל֛וּ|wə·niḇ·hă·lū|are dismayed|H926|Conj-w | V-
 v18 הָאִיִּ֥ים|hā·’î·yîm|the islands|H339|Art | N-mp
 v18 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v18 בַּיָּ֖ם|bay·yām|in the sea|H3220|Prep-b, Art | N-ms
-v18 מִצֵּאתֵֽךְ׃ס|miṣ·ṣê·ṯêḵ|by your demise|H3318|Prep-m | V-Qal-Inf | 2fs
+v18 מִצֵּאתֵֽךְ׃|miṣ·ṣê·ṯêḵ|by your demise|H3318|Prep-m | V-Qal-Inf | 2fs
 v19 כִּ֣י|kî|For|H3588|Conj
 v19 כֹ֤ה|ḵōh|this is what|H3541|Adv
 v19 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -304,4 +304,4 @@ v21 עוֹד֙|‘ō·wḏ|-|H5750|Adv
 v21 לְעוֹלָ֔ם|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms
 v21 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v21 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v21 יְהֹוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v21 יְהֹוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

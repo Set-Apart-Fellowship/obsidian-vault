@@ -16,7 +16,7 @@ v2 בֵּית֔וֹ|bê·ṯōw|of his household|H1004|N-msc | 3ms
 v2 הַמֹּשֵׁ֖ל|ham·mō·šêl|who managed|H4910|Art | V-Qal-Prtcpl-ms
 v2 בְּכָל־|bə·ḵāl|all he owned|H3605|Prep-b | N-msc
 v2 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v2 ל֑וֹ|lōw||H0|Prep | 3ms
+v2 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v2 שִֽׂים־|śîm-|Place|H7760|V-Qal-Imp-ms
 v2 נָ֥א|nā|...|H4994|Interjection
 v2 יָדְךָ֖|yā·ḏə·ḵā|your hand|H3027|N-fsc | 2ms
@@ -74,7 +74,7 @@ v6 וַיֹּ֥אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3
 v6 אֵלָ֖יו|’ê·lāw|...|H413|Prep | 3ms
 v6 אַבְרָהָ֑ם|’aḇ·rā·hām|Abraham|H85|N-proper-ms
 v6 הִשָּׁ֣מֶר|hiš·šā·mer|Make sure|H8104|V-Nifal-Imp-ms
-v6 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v6 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v6 פֶּן־|pen-|that you do not|H6435|Conj
 v6 תָּשִׁ֥יב|tā·šîḇ|back|H7725|V-Hifil-Imperf-2ms
 v6 אֶת־|’eṯ-|-|H853|DirObjM
@@ -151,7 +151,7 @@ v10 בְּיָד֑וֹ|bə·yā·ḏōw|in hand|H3027|Prep-b | N-fsc | 3ms
 v10 וַיָּ֗קָם|way·yā·qām|And he set out|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v10 וַיֵּ֛לֶךְ|way·yê·leḵ|...|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v10 אֶל־|’el-|for|H413|Prep
-v10 אֲרַ֥ם|’ă·ram|vvv|H763|
+v10 אֲרַ֥ם|’ă·ram|...|H763|
 v10 נַֽהֲרַ֖יִם|na·hă·ra·yim|in Aram-naharaim|H763|N-proper-fs
 v10 אֶל־|’el-|-|H413|Prep
 v10 עִ֥יר|‘îr|hometown|H5892|N-fsc
@@ -498,7 +498,7 @@ v36 לּ֖וֹ|lō|him|H0|Prep | 3ms
 v36 אֶת־|’eṯ-|-|H853|DirObjM
 v36 כָּל־|kāl-|everything he owns|H3605|N-msc
 v36 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v36 לֽוֹ׃|lōw||H0|Prep | 3ms
+v36 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v37 וַיַּשְׁבִּעֵ֥נִי|way·yaš·bi·‘ê·nî|made me swear an oath|H7650|Conj-w | V-Hifil-ConsecImperf-3ms | 1cs
 v37 אֲדֹנִ֖י|’ă·ḏō·nî|My master|H113|N-msc | 1cs
 v37 לֵאמֹ֑ר|lê·mōr|and said|H559|Prep-l | V-Qal-Inf
@@ -847,8 +847,8 @@ v61 וַיֵּלַֽךְ׃|way·yê·laḵ|and left|H1980|Conj-w | V-Qal-ConsecI
 v62 וְיִצְחָק֙|wə·yiṣ·ḥāq|Now Isaac|H3327|Conj-w | N-proper-ms
 v62 בָּ֣א|bā|had just returned|H935|V-Qal-Perf-3ms
 v62 מִבּ֔וֹא|mib·bō·w|from|H935|Prep-m | V-Qal-Inf
-v62 בְּאֵ֥ר|bə·’êr|vvv|H883|Prep
-v62 לַחַ֖י|la·ḥay|vvv|H883|Prep
+v62 בְּאֵ֥ר|bə·’êr|...|H883|Prep
+v62 לַחַ֖י|la·ḥay|...|H883|Prep
 v62 רֹאִ֑י|rō·’î|Beer-lahai-roi|H883|N-proper-fs
 v62 וְה֥וּא|wə·hū|for he|H1931|Conj-w | Pro-3ms
 v62 יוֹשֵׁ֖ב|yō·wō·šêḇ|was living|H3427|V-Qal-Prtcpl-ms
@@ -915,4 +915,4 @@ v67 וַיֶּאֱהָבֶ֑הָ|way·ye·’ĕ·hā·ḇe·hā|loved her|H157|C
 v67 וַיִּנָּחֵ֥ם|way·yin·nā·ḥêm|and was comforted|H5162|Conj-w | V-Nifal-ConsecImperf-3ms
 v67 יִצְחָ֖ק|yiṣ·ḥāq|And Isaac|H3327|N-proper-ms
 v67 אַחֲרֵ֥י|’a·ḥă·rê|after|H310|Prep
-v67 אִמּֽוֹ׃פ|’im·mōw|his mother's death|H517|N-fsc | 3ms
+v67 אִמּֽוֹ׃|’im·mōw|his mother's death|H517|N-fsc | 3ms

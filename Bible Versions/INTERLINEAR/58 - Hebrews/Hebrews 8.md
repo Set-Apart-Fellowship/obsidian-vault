@@ -56,8 +56,8 @@ v4 οὖν|oun|Now|G3767|Conj
 v4 ἦν|ēn|He were|G1510|V-IIA-3S
 v4 ἐπὶ|epi|on|G1909|Prep
 v4 γῆς|gēs|earth|G1093|N-GFS
-v4 οὐδ’|oud’|vvv|G3761|Adv
-v4 ἂν|an|vvv|G302|Prtcl
+v4 οὐδ’|oud’|...|G3761|Adv
+v4 ἂν|an|...|G302|Prtcl
 v4 ἦν|ēn|He would not be|G1510|V-IIA-3S
 v4 ἱερεύς|hiereus|a priest|G2409|N-NMS
 v4 ὄντων|ontōn|since there are already|G1510|V-PPA-GMP
@@ -103,7 +103,7 @@ v6 λειτουργίας|leitourgias|ministry|G3009|N-GFS
 v6 ὅσῳ|hosō|a much|G3745|RelPro-DNS
 v6 καὶ|kai|just as|G2532|Conj
 v6 κρείττονός|kreittonos|is better|G2909|Adj-GFS-C
-v6 ἐστιν|estin|vvv|G1510|V-PIA-3S
+v6 ἐστιν|estin|...|G1510|V-PIA-3S
 v6 διαθήκης|diathēkēs|the covenant|G1242|N-GFS
 v6 μεσίτης|mesitēs|He mediates|G3316|N-NMS
 v6 ἥτις|hētis|[and]|G3748|RelPro-NFS
@@ -119,7 +119,7 @@ v7 ἐκείνη|ekeinē|that|G1565|DPro-NFS
 v7 ἦν|ēn|had been|G1510|V-IIA-3S
 v7 ἄμεμπτος|amemptos|without fault|G273|Adj-NFS
 v7 οὐκ|ouk|no|G3756|Adv
-v7 ἂν|an|vvv|G302|Prtcl
+v7 ἂν|an|...|G302|Prtcl
 v7 δευτέρας|deuteras|for a second|G1208|Adj-GFS
 v7 ἐζητεῖτο|ezēteito|would have been sought|G2212|V-IIM/P-3S
 v7 τόπος|topos|place|G5117|N-NMS
@@ -154,7 +154,7 @@ v9 ἐποίησα|epoiēsa|I made|G4160|V-AIA-1S
 v9 τοῖς|tois|with|G3588|Art-DMP
 v9 πατράσιν|patrasin|fathers|G3962|N-DMP
 v9 αὐτῶν|autōn|their|G846|PPro-GM3P
-v9 ἐν|en|vvv|G1722|Prep
+v9 ἐν|en|...|G1722|Prep
 v9 ἡμέρᾳ|hēmera|when|G2250|N-DFS
 v9 ἐπιλαβομένου|epilabomenou|took|G1949|V-APM-GMS
 v9 μου|mou|I|G1473|PPro-G1S
@@ -168,7 +168,7 @@ v9 γῆς|gēs|[the] land|G1093|N-GFS
 v9 Αἰγύπτου|Aigyptou|of Egypt|G125|N-GFS
 v9 ὅτι|hoti|because|G3754|Conj
 v9 αὐτοὶ|autoi|they|G846|PPro-NM3P
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἐνέμειναν|enemeinan|did not abide|G1696|V-AIA-3P
 v9 ἐν|en|by|G1722|Prep
 v9 τῇ|tē|-|G3588|Art-DFS
@@ -210,7 +210,7 @@ v10 αὐτούς|autous|them|G846|PPro-AM3P
 v10 καὶ|kai|And|G2532|Conj
 v10 ἔσομαι|esomai|I will be|G1510|V-FIM-1S
 v10 αὐτοῖς|autois|their|G846|PPro-DM3P
-v10 εἰς|eis|vvv|G1519|Prep
+v10 εἰς|eis|...|G1519|Prep
 v10 Θεόν|Theon|God|G2316|N-AMS
 v10 καὶ|kai|and|G2532|Conj
 v10 αὐτοὶ|autoi|they|G846|PPro-NM3P
@@ -236,7 +236,7 @@ v11 Γνῶθι|Gnōthi|Know|G1097|V-AMA-2S
 v11 τὸν|ton|the|G3588|Art-AMS
 v11 Κύριον|Kyrion|Lord|G2962|N-AMS
 v11 ὅτι|hoti|because|G3754|Conj
-v11 πάντες|pantes|vvv|G3956|Adj-NMP
+v11 πάντες|pantes|...|G3956|Adj-NMP
 v11 εἰδήσουσίν|eidēsousin|they will all know|G1492|V-FIA-3P
 v11 με|me|Me|G1473|PPro-A1S
 v11 ἀπὸ|apo|from|G575|Prep
@@ -247,7 +247,7 @@ v11 αὐτῶν|autōn|of them|G846|PPro-GM3P
 v12 ὅτι|hoti|For|G3754|Conj
 v12 ἵλεως|hileōs|forgive|G2436|Adj-NMS
 v12 ἔσομαι|esomai|I will|G1510|V-FIM-1S
-v12 ταῖς|tais|vvv|G3588|Art-DFP
+v12 ταῖς|tais|...|G3588|Art-DFP
 v12 ἀδικίαις|adikiais|iniquities|G93|N-DFP
 v12 αὐτῶν|autōn|their|G846|PPro-GM3P
 v12 καὶ|kai|and|G2532|Conj

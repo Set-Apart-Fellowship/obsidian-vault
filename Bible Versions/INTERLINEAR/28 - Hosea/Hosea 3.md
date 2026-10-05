@@ -78,4 +78,4 @@ v5 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v5 וְאֶל־|wə·’el-|and to|H413|Conj-w | Prep
 v5 טוּב֖וֹ|ṭū·ḇōw|His goodness|H2898|N-msc | 3ms
 v5 בְּאַחֲרִ֥ית|bə·’a·ḥă·rîṯ|in the last|H319|Prep-b | N-fsc
-v5 הַיָּמִֽים׃פ|hay·yā·mîm|days|H3117|Art | N-mp
+v5 הַיָּמִֽים׃|hay·yā·mîm|days|H3117|Art | N-mp

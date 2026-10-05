@@ -10,7 +10,7 @@ v2 יִשְׂרָאֵ֔ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v2 וְאָמַרְתָּ֖|wə·’ā·mar·tā|and say|H559|Conj-w | V-Qal-ConjPerf-2ms
 v2 אֲלֵהֶ֑ם|’ă·lê·hem|to them|H413|Prep | 3mp
 v2 אֶת־|’eṯ-|-|H853|DirObjM
-v2 קָרְבָּנִ֨י|qā·rə·bā·nî|vvv|H7133|N-msc | 1cs
+v2 קָרְבָּנִ֨י|qā·rə·bā·nî|...|H7133|N-msc | 1cs
 v2 לַחְמִ֜י|laḥ·mî|the food|H3899|N-msc | 1cs
 v2 לְאִשַּׁ֗י|lə·’iš·šay|for My food offerings|H801|Prep-l | N-mpc | 1cs
 v2 רֵ֚יחַ|rê·aḥ|aroma to Me|H7381|N-msc
@@ -86,7 +86,7 @@ v8 תַּעֲשֶׂ֔ה|ta·‘ă·śeh|...|H6213|V-Qal-Imperf-2ms
 v8 אִשֵּׁ֛ה|’iš·šêh|It is a food offering|H801|N-msc
 v8 רֵ֥יחַ|rê·aḥ|aroma|H7381|N-msc
 v8 נִיחֹ֖חַ|nî·ḥō·aḥ|a pleasing|H5207|N-ms
-v8 לַיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v8 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v9 וּבְיוֹם֙|ū·ḇə·yō·wm|day|H3117|Conj-w, Prep-b | N-msc
 v9 הַשַּׁבָּ֔ת|haš·šab·bāṯ|On the Sabbath|H7676|Art | N-cs
 v9 שְׁנֵֽי־|šə·nê-|present two|H8147|Number-mdc
@@ -107,7 +107,7 @@ v10 בְּשַׁבַּתּ֑וֹ|bə·šab·bat·tōw|...|H7676|Prep-b | N-csc |
 v10 עַל־|‘al-|in addition to|H5921|Prep
 v10 עֹלַ֥ת|‘ō·laṯ|burnt offering|H5930|N-fsc
 v10 הַתָּמִ֖יד|hat·tā·mîḏ|the regular|H8548|Art | Adv
-v10 וְנִסְכָּֽהּ׃ס|wə·nis·kāh|and its drink offering|H5262|Conj-w | N-msc | 3fs
+v10 וְנִסְכָּֽהּ׃|wə·nis·kāh|and its drink offering|H5262|Conj-w | N-msc | 3fs
 v11 וּבְרָאשֵׁי֙|ū·ḇə·rā·šê|At the beginning|H7218|Conj-w, Prep-b | N-mpc
 v11 חָדְשֵׁיכֶ֔ם|ḥā·ḏə·šê·ḵem|of every month|H2320|N-mpc | 2mp
 v11 תַּקְרִ֥יבוּ|taq·rî·ḇū|you are to present|H7126|V-Hifil-Imperf-2mp
@@ -180,7 +180,7 @@ v15 עַל־|‘al-|In addition to|H5921|Prep
 v15 עֹלַ֧ת|‘ō·laṯ|burnt offering|H5930|N-fsc
 v15 הַתָּמִ֛יד|hat·tā·mîḏ|the regular|H8548|Art | Adv
 v15 יֵעָשֶׂ֖ה|yê·‘ā·śeh|is to be presented|H6213|V-Nifal-Imperf-3ms
-v15 וְנִסְכּֽוֹ׃ס|wə·nis·kōw|with its drink offering|H5262|Conj-w | N-msc | 3ms
+v15 וְנִסְכּֽוֹ׃|wə·nis·kōw|with its drink offering|H5262|Conj-w | N-msc | 3ms
 v16 וּבַחֹ֣דֶשׁ|ū·ḇa·ḥō·ḏeš|month|H2320|Conj-w, Prep-b, Art | N-ms
 v16 הָרִאשׁ֗וֹן|hā·ri·šō·wn|of the first|H7223|Art | Adj-ms
 v16 בְּאַרְבָּעָ֥ה|bə·’ar·bā·‘āh|The fourteenth|H702|Prep-b | Number-ms
@@ -224,7 +224,7 @@ v19 בְּנֵ֣י|bə·nê|a year old|H1121|N-mpc
 v19 שָׁנָ֔ה|šā·nāh|...|H8141|N-fs
 v19 תְּמִימִ֖ם|tə·mî·mim|unblemished|H8549|Adj-mp
 v19 יִהְי֥וּ|yih·yū|all|H1961|V-Qal-Imperf-3mp
-v19 לָכֶֽם׃|lā·ḵem||H0|Prep | 2mp
+v19 לָכֶֽם׃|lā·ḵem|-|H0|Prep | 2mp
 v20 וּמִ֨נְחָתָ֔ם|ū·min·ḥā·ṯām|The grain offering|H4503|Conj-w | N-fsc | 3mp
 v20 סֹ֖לֶת|sō·leṯ|shall consist of fine flour|H5560|N-fs
 v20 בְּלוּלָ֣ה|bə·lū·lāh|mixed|H1101|V-Qal-QalPassPrtcpl-fs
@@ -277,12 +277,12 @@ v25 הַשְּׁבִיעִ֔י|haš·šə·ḇî·‘î|On the seventh|H7637|Art
 v25 מִקְרָא־|miq·rā-|assembly|H4744|N-msc
 v25 קֹ֖דֶשׁ|qō·ḏeš|a sacred|H6944|N-ms
 v25 יִהְיֶ֣ה|yih·yeh|you shall hold|H1961|V-Qal-Imperf-3ms
-v25 לָכֶ֑ם|lā·ḵem||H0|Prep | 2mp
+v25 לָכֶ֑ם|lā·ḵem|-|H0|Prep | 2mp
 v25 כָּל־|kāl-|any|H3605|N-msc
 v25 מְלֶ֥אכֶת|mə·le·ḵeṯ|regular work|H4399|N-fsc
 v25 עֲבֹדָ֖ה|‘ă·ḇō·ḏāh|...|H5656|N-fs
 v25 לֹ֥א|lō|you must not|H3808|Adv-NegPrt
-v25 תַעֲשֽׂוּ׃ס|ṯa·‘ă·śū|do|H6213|V-Qal-Imperf-2mp
+v25 תַעֲשֽׂוּ׃|ṯa·‘ă·śū|do|H6213|V-Qal-Imperf-2mp
 v26 וּבְי֣וֹם|ū·ḇə·yō·wm|On the day|H3117|Conj-w, Prep-b | N-msc
 v26 הַבִּכּוּרִ֗ים|hab·bik·kū·rîm|of firstfruits|H1061|Art | N-mp
 v26 בְּהַקְרִ֨יבְכֶ֜ם|bə·haq·rî·ḇə·ḵem|when you present|H7126|Prep-b | V-Hifil-Inf | 2mp
@@ -293,7 +293,7 @@ v26 בְּשָׁבֻעֹ֖תֵיכֶ֑ם|bə·šā·ḇu·‘ō·ṯê·ḵem|du
 v26 מִֽקְרָא־|miq·rā-|assembly|H4744|N-msc
 v26 קֹ֙דֶשׁ֙|qō·ḏeš|a sacred|H6944|N-ms
 v26 יִהְיֶ֣ה|yih·yeh|you are to hold|H1961|V-Qal-Imperf-3ms
-v26 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v26 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v26 כָּל־|kāl-|any|H3605|N-msc
 v26 מְלֶ֥אכֶת|mə·le·ḵeṯ|regular work|H4399|N-fsc
 v26 עֲבֹדָ֖ה|‘ă·ḇō·ḏāh|...|H5656|N-fs
@@ -344,5 +344,5 @@ v31 וּמִנְחָת֖וֹ|ū·min·ḥā·ṯōw|and its grain offering|H4503
 v31 תַּעֲשׂ֑וּ|ta·‘ă·śū|Offer them|H6213|V-Qal-Imperf-2mp
 v31 תְּמִימִ֥ם|tə·mî·mim|unblemished|H8549|Adj-mp
 v31 יִהְיוּ־|yih·yū-|The animals must be|H1961|V-Qal-Imperf-3mp
-v31 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
-v31 וְנִסְכֵּיהֶֽם׃פ|wə·nis·kê·hem|with their drink offerings|H5262|Conj-w | N-mpc | 3mp
+v31 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
+v31 וְנִסְכֵּיהֶֽם׃|wə·nis·kê·hem|with their drink offerings|H5262|Conj-w | N-mpc | 3mp

@@ -97,4 +97,4 @@ v14 בּ֑וֹ|bōw|of Him|H0|Prep | 3ms
 v14 וְרַ֥עַם|wə·ra·‘am|the thunder|H7482|Conj-w | N-msc
 v14 גְּבוּרָתוֹ|gə·ḇū·rå̄·ṯō|of His power|H1369|N-fpc | 3ms
 v14 מִ֣י|mî|Who then|H4310|Interrog
-v14 יִתְבּוֹנָֽן׃ס|yiṯ·bō·w·nān|can understand|H995|V-Hitpael-Imperf-3ms
+v14 יִתְבּוֹנָֽן׃|yiṯ·bō·w·nān|can understand|H995|V-Hitpael-Imperf-3ms

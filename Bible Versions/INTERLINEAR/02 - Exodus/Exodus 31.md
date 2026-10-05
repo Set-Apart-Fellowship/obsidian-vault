@@ -116,7 +116,7 @@ v11 לַקֹּ֑דֶשׁ|laq·qō·ḏeš|for the Holy Place|H6944|Prep-l, Art |
 v11 כְּכֹ֥ל|kə·ḵōl|according to all|H3605|Prep-k | N-ms
 v11 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v11 צִוִּיתִ֖ךָ|ṣiw·wî·ṯi·ḵā|I have commanded you|H6680|V-Piel-Perf-1cs | 2ms
-v11 יַעֲשֽׂוּ׃פ|ya·‘ă·śū|They are to make them|H6213|V-Qal-Imperf-3mp
+v11 יַעֲשֽׂוּ׃|ya·‘ă·śū|They are to make them|H6213|V-Qal-Imperf-3mp
 v12 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v12 אֶל־|’el-|to|H413|Prep
@@ -210,7 +210,7 @@ v17 הָאָ֔רֶץ|hā·’ā·reṣ|and the earth|H776|Art | N-fs
 v17 וּבַיּוֹם֙|ū·ḇay·yō·wm|day|H3117|Conj-w, Prep-b, Art | N-ms
 v17 הַשְּׁבִיעִ֔י|haš·šə·ḇî·‘î|but on the seventh|H7637|Art | Number-oms
 v17 שָׁבַ֖ת|šā·ḇaṯ|He rested|H7673|V-Qal-Perf-3ms
-v17 וַיִּנָּפַֽשׁ׃ס|way·yin·nā·p̄aš|and was refreshed|H5314|Conj-w | V-Nifal-ConsecImperf-3ms
+v17 וַיִּנָּפַֽשׁ׃|way·yin·nā·p̄aš|and was refreshed|H5314|Conj-w | V-Nifal-ConsecImperf-3ms
 v18 וַיִּתֵּ֣ן|way·yit·tên|He gave|H5414|Conj-w | V-Qal-ConsecImperf-3ms
 v18 אֶל־|’el-|...|H413|Prep
 v18 מֹשֶׁ֗ה|mō·šeh|[him]|H4872|N-proper-ms

@@ -67,14 +67,14 @@ v4 ἡμῶν|hēmōn|of our|G1473|PPro-G1P
 v5 ᾧ|hō|to whom [be]|G3739|RelPro-DMS
 v5 ἡ|hē|-|G3588|Art-NFS
 v5 δόξα|doxa|glory|G1391|N-NFS
-v5 εἰς|eis|vvv|G1519|Prep
-v5 τοὺς|tous|vvv|G3588|Art-AMP
+v5 εἰς|eis|...|G1519|Prep
+v5 τοὺς|tous|...|G3588|Art-AMP
 v5 αἰῶνας|aiōnas|forever|G165|N-AMP
 v5 τῶν|tōn|[and]|G3588|Art-GMP
 v5 αἰώνων|aiōnōn|ever|G165|N-GMP
 v5 ἀμήν|amēn|Amen|G281|Heb
 v6 Θαυμάζω|Thaumazō|I am amazed|G2296|V-PIA-1S
-v6 ὅτι|hoti|vvv|G3754|Conj
+v6 ὅτι|hoti|...|G3754|Conj
 v6 οὕτως|houtōs|how|G3779|Adv
 v6 ταχέως|tacheōs|quickly|G5030|Adv
 v6 μετατίθεσθε|metatithesthe|you are deserting|G3346|V-PIM/P-2P
@@ -154,8 +154,8 @@ v10 ἀνθρώποις|anthrōpois|men|G444|N-DMP
 v10 ἤρεσκον|ēreskon|I were still trying to please|G700|V-IIA-1S
 v10 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v10 δοῦλος|doulos|a servant|G1401|N-NMS
-v10 οὐκ|ouk|vvv|G3756|Adv
-v10 ἂν|an|vvv|G302|Prtcl
+v10 οὐκ|ouk|...|G3756|Adv
+v10 ἂν|an|...|G302|Prtcl
 v10 ἤμην|ēmēn|I would not be|G1510|V-IIM-1S
 v11 γνωρίζω|gnōrizō|I want you to know|G1107|V-PIA-1S
 v11 γὰρ|gar|For|G1063|Conj
@@ -308,7 +308,7 @@ v19 ἀδελφὸν|adelphon|brother|G80|N-AMS
 v19 τοῦ|tou|-|G3588|Art-GMS
 v19 Κυρίου|Kyriou|Lord's|G2962|N-GMS
 v20 ἃ|ha|what|G3739|RelPro-ANP
-v20 δὲ|de|vvv|G1161|Conj
+v20 δὲ|de|...|G1161|Conj
 v20 γράφω|graphō|I am writing|G1125|V-PIA-1S
 v20 ὑμῖν|hymin|to you|G4771|PPro-D2P
 v20 ἰδοὺ|idou|I assure you|G2400|V-AMA-2S
@@ -316,7 +316,7 @@ v20 ἐνώπιον|enōpion|before|G1799|Prep
 v20 τοῦ|tou|-|G3588|Art-GMS
 v20 Θεοῦ|Theou|God|G2316|N-GMS
 v20 ὅτι|hoti|that|G3754|Conj
-v20 οὐ|ou|vvv|G3756|Adv
+v20 οὐ|ou|...|G3756|Adv
 v20 ψεύδομαι|pseudomai|is no lie|G5574|V-PIM/P-1S
 v21 Ἔπειτα|Epeita|Later|G1899|Adv
 v21 ἦλθον|ēlthon|I went|G2064|V-AIA-1S

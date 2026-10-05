@@ -30,7 +30,7 @@ v4 חַיִּ֤ים׀|ḥay·yîm|life|H2416|N-mp
 v4 שָׁאַ֣ל|šā·’al|He asked You for|H7592|V-Qal-Perf-3ms
 v4 מִ֭מְּךָ|mim·mə·ḵā|...|H4480|Prep | 2ms
 v4 נָתַ֣תָּה|nā·ṯat·tāh|and You granted it|H5414|V-Qal-Perf-2ms
-v4 לּ֑וֹ|lōw||H0|Prep | 3ms
+v4 לּ֑וֹ|lōw|-|H0|Prep | 3ms
 v4 אֹ֥רֶךְ|’ō·reḵ|length|H753|N-msc
 v4 יָ֝מִ֗ים|yā·mîm|of days|H3117|N-mp
 v4 עוֹלָ֥ם|‘ō·w·lām|forever|H5769|N-ms

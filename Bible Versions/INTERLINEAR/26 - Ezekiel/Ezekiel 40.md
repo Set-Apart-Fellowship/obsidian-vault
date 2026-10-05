@@ -85,7 +85,7 @@ v4 לְבֵ֥ית|lə·ḇêṯ|to the house|H1004|Prep-l | N-msc
 v4 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v5 וְהִנֵּ֥ה|wə·hin·nêh|And I saw|H2009|Conj-w | Interjection
 v5 חוֹמָ֛ה|ḥō·w·māh|a wall|H2346|N-fs
-v5 מִח֥וּץ|mi·ḥūṣ|vvv|H2351|Prep-m | N-ms
+v5 מִח֥וּץ|mi·ḥūṣ|...|H2351|Prep-m | N-ms
 v5 לַבַּ֖יִת|lab·ba·yiṯ|the temple area|H1004|Prep-l, Art | N-ms
 v5 סָבִ֣יב׀|sā·ḇîḇ|surrounding|H5439|Adv
 v5 סָבִ֑יב|sā·ḇîḇ|...|H5439|Adv
@@ -109,7 +109,7 @@ v5 אֶחָֽד׃|’e·ḥāḏ|[and] one|H259|Number-ms
 v6 וַיָּב֗וֹא|way·yā·ḇō·w|Then he came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v6 אֶל־|’el-|to|H413|Prep
 v6 שַׁ֙עַר֙|ša·‘ar|the gate|H8179|N-ms
-v6 אֲשֶׁ֤ר|’ă·šer|vvv|H834|Pro-r
+v6 אֲשֶׁ֤ר|’ă·šer|...|H834|Pro-r
 v6 פָּנָיו֙|pā·nāw|facing|H6440|N-cpc | 3ms
 v6 דֶּ֣רֶךְ|de·reḵ|...|H1870|N-cs
 v6 הַקָּדִ֔ימָה|haq·qā·ḏî·māh|east|H6921|Art | N-ms | 3fs
@@ -148,14 +148,14 @@ v7 מֵֽהַבַּ֖יִת|mê·hab·ba·yiṯ|facing inward|H1004|Prep-m, Art 
 v7 קָנֶ֥ה|qā·neh|rod [deep]|H7070|N-ms
 v7 אֶחָֽד׃|’e·ḥāḏ|[was] one|H259|Number-ms
 v8 וַיָּ֜מָד|way·yā·māḏ|Then he measured|H4058|Conj-w | V-Qal-ConsecImperf-3ms
-v8 אֶת־|’eṯ-||H853|DirObjM
+v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 אֻלָ֥ם|’u·lām|the portico|H197|N-msc
 v8 הַשַּׁ֛עַר|haš·ša·‘ar|of the gateway|H8179|Art | N-ms
 v8 מֵהַבַּ֖יִת|mê·hab·ba·yiṯ|inside|H1004|Prep-m, Art | N-ms
-v8 קָנֶ֥ה|qā·neh||H7070|N-ms
-v8 אֶחָֽד׃|’e·ḥāḏ||H259|Number-ms
+v8 קָנֶ֥ה|qā·neh|-|H7070|N-ms
+v8 אֶחָֽד׃|’e·ḥāḏ|-|H259|Number-ms
 v9 וַיָּ֜מָד|way·yā·māḏ|[it was]|H4058|Conj-w | V-Qal-ConsecImperf-3ms
-v9 אֶת־|’eṯ-||H853|DirObjM
+v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 אֻלָ֤ם|’u·lām|-|H197|N-msc
 v9 הַשַּׁ֙עַר֙|haš·ša·‘ar|-|H8179|Art | N-ms
 v9 שְׁמֹנֶ֣ה|šə·mō·neh|eight|H8083|Number-fs
@@ -183,7 +183,7 @@ v10 לָאֵילִ֖ם|lā·’ê·lim|and the gateposts|H352|Prep-l, Art | N-mp
 v10 מִפֹּ֥ה|mip·pōh|on either side|H6311|Prep-m | Adv
 v10 וּמִפּֽוֹ׃|ū·mip·pōw|...|H6311|Conj-w, Prep-m | Adv
 v11 וַיָּ֛מָד|way·yā·māḏ|And he measured|H4058|Conj-w | V-Qal-ConsecImperf-3ms
-v11 אֶת־|’eṯ-||H853|DirObjM
+v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 רֹ֥חַב|rō·ḥaḇ|the width|H7341|N-msc
 v11 פֶּֽתַח־|pe·ṯaḥ-|entrance|H6607|N-msc
 v11 הַשַּׁ֖עַר|haš·ša·‘ar|of the gateway|H8179|Art | N-ms
@@ -202,13 +202,13 @@ v12 אֶחָ֔ת|’e·ḥāṯ|one|H259|Number-fs
 v12 וְאַמָּה־|wə·’am·māh-|cubits|H520|Conj-w | N-fs
 v12 אַחַ֥ת|’a·ḥaṯ|...|H259|Number-fs
 v12 גְּב֖וּל|gə·ḇūl|...|H1366|N-ms
-v12 מִפֹּ֑ה|mip·pōh||H6311|Prep-m | Adv
+v12 מִפֹּ֑ה|mip·pōh|-|H6311|Prep-m | Adv
 v12 וְהַתָּ֕א|wə·hat·tā|and the gate chambers|H8372|Conj-w, Art | N-ms
 v12 שֵׁשׁ־|šêš-|[were] six|H8337|Number-fsc
-v12 אַמּ֣וֹת|’am·mō·wṯ|vvv|H520|N-fp
-v12 מִפּ֔וֹ|mip·pōw||H6311|Prep-m | Adv
-v12 וְשֵׁ֥שׁ|wə·šêš||H8337|Conj-w | Number-fsc
-v12 אַמּ֖וֹת|’am·mō·wṯ||H520|N-fp
+v12 אַמּ֣וֹת|’am·mō·wṯ|...|H520|N-fp
+v12 מִפּ֔וֹ|mip·pōw|-|H6311|Prep-m | Adv
+v12 וְשֵׁ֥שׁ|wə·šêš|-|H8337|Conj-w | Number-fsc
+v12 אַמּ֖וֹת|’am·mō·wṯ|-|H520|N-fp
 v12 מִפּֽוֹ׃|mip·pōw|square|H6311|Prep-m | Adv
 v13 וַיָּ֣מָד|way·yā·māḏ|Then he measured|H4058|Conj-w | V-Qal-ConsecImperf-3ms
 v13 אֶת־|’eṯ-|-|H853|DirObjM
@@ -232,10 +232,10 @@ v14 וְאֶל־|wə·’el-|to|H413|Conj-w | Prep
 v14 אֵיל֙|’êl|the gatepost|H352|N-msc
 v14 הֶֽחָצֵ֔ר|he·ḥā·ṣêr|of the courtyard|H2691|Art | N-cs
 v14 הַשַּׁ֖עַר|haš·ša·‘ar|The gateway [extended]|H8179|Art | N-ms
-v14 סָבִ֥יב׀|sā·ḇîḇ|vvv|H5439|Adv
+v14 סָבִ֥יב׀|sā·ḇîḇ|...|H5439|Adv
 v14 סָבִֽיב׃|sā·ḇîḇ|around|H5439|Adv
 v15 וְעַ֗ל|wə·‘al|And the distance from|H5921|Conj-w | Prep
-v15 פְּנֵי֙|pə·nê|vvv|H6440|N-cpc
+v15 פְּנֵי֙|pə·nê|...|H6440|N-cpc
 v15 הַשַּׁ֣עַר|haš·ša·‘ar|of the gateway|H8179|Art | N-msc
 v15 הַיֹּאתוֹן|hay·yō·ṯōn|the entrance|H2978|Art | N-ms
 v15 עַל־|‘al-|to|H5921|Prep
@@ -326,7 +326,7 @@ v21 חֲמִשִּׁ֤ים|ḥă·miš·šîm|fifty|H2572|Number-cp
 v21 אַמָּה֙|’am·māh|cubits|H520|N-fs
 v21 אָרְכּ֔וֹ|’ā·rə·kōw|long|H753|N-msc | 3ms
 v21 וְרֹ֕חַב|wə·rō·ḥaḇ|wide|H7341|Conj-w | N-ms
-v21 חָמֵ֥שׁ|ḥā·mêš|vvv|H2568|Number-fs
+v21 חָמֵ֥שׁ|ḥā·mêš|...|H2568|Number-fs
 v21 וְעֶשְׂרִ֖ים|wə·‘eś·rîm|and twenty-five|H6242|Conj-w | Number-cp
 v21 בָּאַמָּֽה׃|bā·’am·māh|cubits|H520|Prep-b, Art | N-fs
 v22 וְחַלּוֹנוֹ|wə·ḥal·lō·nō|Its windows|H2474|Conj-w | N-cpc | 3ms
@@ -370,7 +370,7 @@ v24 וְאֵילַמּוֹ|wə·ʾē·lam·mō|and portico|H361|Conj-w | N-mpc |
 v24 כַּמִּדּ֖וֹת|kam·mid·dō·wṯ|and they had the same measurements|H4060|Prep-k, Art | N-fp
 v24 הָאֵֽלֶּה׃|hā·’êl·leh|as the others|H428|Art | Pro-cp
 v25 וְחַלּוֹנִ֨ים|wə·ḥal·lō·w·nîm|had windows|H2474|Conj-w | N-cp
-v25 ל֤וֹ|lōw||H0|Prep | 3ms
+v25 ל֤וֹ|lōw|-|H0|Prep | 3ms
 v25 וּלְאֵילַמּוֹ|ū·lə·ʾē·lam·mō|Both the gateway and its portico|H361|Conj-w, Prep-l | N-mpc | 3ms
 v25 סָבִ֣יב׀|sā·ḇîḇ|all around|H5439|Adv
 v25 סָבִ֔יב|sā·ḇîḇ|...|H5439|Adv
@@ -380,7 +380,7 @@ v25 חֲמִשִּׁ֤ים|ḥă·miš·šîm|[It was] fifty|H2572|Number-cp
 v25 אַמָּה֙|’am·māh|cubits|H520|N-fs
 v25 אֹ֔רֶךְ|’ō·reḵ|long|H753|N-ms
 v25 וְרֹ֕חַב|wə·rō·ḥaḇ|wide|H7341|Conj-w | N-ms
-v25 חָמֵ֥שׁ|ḥā·mêš|vvv|H2568|Number-fs
+v25 חָמֵ֥שׁ|ḥā·mêš|...|H2568|Number-fs
 v25 וְעֶשְׂרִ֖ים|wə·‘eś·rîm|and twenty-five|H6242|Conj-w | Number-cp
 v25 אַמָּֽה׃|’am·māh|cubits|H520|N-fs
 v26 וּמַעֲל֤וֹת|ū·ma·‘ă·lō·wṯ|steps|H4609|Conj-w | N-fp
@@ -389,7 +389,7 @@ v26 עֹלוֹתוֹ|ʿō·lō·ṯō|led up to it|H5930|N-fpc | 3ms
 v26 וְאֵלַמּוֹ|wə·ʾē·lam·mō|and its portico|H361|Conj-w | N-mpc | 3ms
 v26 לִפְנֵיהֶ֑ם|lip̄·nê·hem|was opposite them|H6440|Prep-l | N-mpc | 3mp
 v26 וְתִמֹרִ֣ים|wə·ṯi·mō·rîm|it had palm trees|H8561|Conj-w | N-fp
-v26 ל֗וֹ|lōw||H0|Prep | 3ms
+v26 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v26 אֶחָ֥ד|’e·ḥāḏ|one|H259|Number-ms
 v26 מִפּ֛וֹ|mip·pōw|on each side|H6311|Prep-m | Adv
 v26 וְאֶחָ֥ד|wə·’e·ḥāḏ|...|H259|Conj-w | Number-ms
@@ -427,7 +427,7 @@ v29 וְאֵלַמּוֹ|wə·ʾē·lam·mō|and portico|H361|Conj-w | N-mpc | 3
 v29 כַּמִּדּ֣וֹת|kam·mid·dō·wṯ|had the same measurements|H4060|Prep-k, Art | N-fp
 v29 הָאֵ֔לֶּה|hā·’êl·leh|as the others|H428|Art | Pro-cp
 v29 וְחַלּוֹנ֥וֹת|wə·ḥal·lō·w·nō·wṯ|had windows|H2474|Conj-w | N-cp
-v29 ל֛וֹ|lōw||H0|Prep | 3ms
+v29 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v29 וּלְאֵלַמּוֹ|ū·lə·ʾē·lam·mō|Both the gateway and its portico|H361|Conj-w, Prep-l | N-mpc | 3ms
 v29 סָבִ֣יב׀|sā·ḇîḇ|all around|H5439|Adv
 v29 סָבִ֑יב|sā·ḇîḇ|...|H5439|Adv
@@ -439,7 +439,7 @@ v29 עֶשְׂרִ֥ים|‘eś·rîm|and twenty-five|H6242|Number-cp
 v29 וְחָמֵ֖שׁ|wə·ḥā·mêš|...|H2568|Conj-w | Number-fs
 v29 אַמּֽוֹת׃|’am·mō·wṯ|cubits|H520|N-fp
 v30 וְאֵֽלַמּ֖וֹת|wə·’ê·lam·mō·wṯ|The porticoes|H361|Conj-w | N-mp
-v30 סָבִ֣יב׀|sā·ḇîḇ|vvv|H5439|Adv
+v30 סָבִ֣יב׀|sā·ḇîḇ|...|H5439|Adv
 v30 סָבִ֑יב|sā·ḇîḇ|around [the inner court]|H5439|Adv
 v30 אֹ֗רֶךְ|’ō·reḵ|long|H753|N-ms
 v30 חָמֵ֤שׁ|ḥā·mêš|...|H2568|Number-fs
@@ -475,7 +475,7 @@ v33 וְאֵלַמּוֹ|wə·ʾē·lam·mō|and portico|H361|Conj-w | N-mpc | 3
 v33 כַּמִּדּ֣וֹת|kam·mid·dō·wṯ|had the same measurements|H4060|Prep-k, Art | N-fp
 v33 הָאֵ֔לֶּה|hā·’êl·leh|as the others|H428|Art | Pro-cp
 v33 וְחַלּוֹנ֥וֹת|wə·ḥal·lō·w·nō·wṯ|had windows|H2474|Conj-w | N-cp
-v33 ל֛וֹ|lōw||H0|Prep | 3ms
+v33 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v33 וּלְאֵלַמּוֹ|ū·lə·ʾē·lam·mō|Both [the gateway] and its portico|H361|Conj-w, Prep-l | N-mpc | 3ms
 v33 סָבִ֣יב׀|sā·ḇîḇ|all around|H5439|Adv
 v33 סָבִ֑יב|sā·ḇîḇ|...|H5439|Adv
@@ -508,7 +508,7 @@ v36 תָּאוֹ|tå̄·ʾō|as did its gate chambers|H8372|N-mpc | 3ms
 v36 אֵלוֹ|ʾē·lō|side pillars|H413|N-mpc | 3ms
 v36 וְאֵלַמּוֹ|wə·ʾē·lam·mō|and portico|H361|Conj-w | N-mpc | 3ms
 v36 וְחַלּוֹנ֥וֹת|wə·ḥal·lō·w·nō·wṯ|It also had windows|H2474|Conj-w | N-cp
-v36 ל֖וֹ|lōw||H0|Prep | 3ms
+v36 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v36 סָבִ֣יב׀|sā·ḇîḇ|all around|H5439|Adv
 v36 סָבִ֑יב|sā·ḇîḇ|...|H5439|Adv
 v36 אֹ֚רֶךְ|’ō·reḵ|long|H753|N-ms
@@ -571,9 +571,9 @@ v41 אַרְבָּעָ֨ה|’ar·bā·‘āh|So there were four|H702|Number-ms
 v41 שֻׁלְחָנ֜וֹת|šul·ḥā·nō·wṯ|tables|H7979|N-mp
 v41 מִפֹּ֗ה|mip·pōh|inside|H6311|Prep-m | Adv
 v41 וְאַרְבָּעָ֧ה|wə·’ar·bā·‘āh|and four|H702|Conj-w | Number-ms
-v41 שֻׁלְחָנ֛וֹת|šul·ḥā·nō·wṯ||H7979|N-mp
+v41 שֻׁלְחָנ֛וֹת|šul·ḥā·nō·wṯ|-|H7979|N-mp
 v41 מִפֹּ֖ה|mip·pōh|outside|H6311|Prep-m | Adv
-v41 לְכֶ֣תֶף|lə·ḵe·ṯep̄||H3802|Prep-l | N-fsc
+v41 לְכֶ֣תֶף|lə·ḵe·ṯep̄|-|H3802|Prep-l | N-fsc
 v41 הַשָּׁ֑עַר|haš·šā·‘ar|the gateway|H8179|Art | N-ms
 v41 שְׁמוֹנָ֥ה|šə·mō·w·nāh|eight|H8083|Number-ms
 v41 שֻׁלְחָנ֖וֹת|šul·ḥā·nō·wṯ|tables|H7979|N-mp
@@ -603,7 +603,7 @@ v42 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v42 יִשְׁחֲט֧וּ|yiš·ḥă·ṭū|used to slaughter|H7819|V-Qal-Imperf-3mp
 v42 אֶת־|’eṯ-|-|H853|DirObjM
 v42 הָעוֹלָ֛ה|hā·‘ō·w·lāh|the burnt offerings|H5930|Art | N-fs
-v42 בָּ֖ם|bām||H0|Prep | 3mp
+v42 בָּ֖ם|bām|-|H0|Prep | 3mp
 v42 וְהַזָּֽבַח׃|wə·haz·zā·ḇaḥ|and the other sacrifices|H2077|Conj-w, Art | N-ms
 v43 וְהַֽשְׁפַתַּ֗יִם|wə·haš·p̄at·ta·yim|The double-pronged hooks|H8240|Conj-w, Art | N-md
 v43 טֹ֧פַח|ṭō·p̄aḥ|handbreadth [long]|H2948|N-ms
@@ -620,7 +620,7 @@ v44 וּמִחוּצָה֩|ū·mi·ḥū·ṣāh|Outside|H2351|Conj-w, Prep-m | 
 v44 לַשַּׁ֨עַר|laš·ša·‘ar|gate|H8179|Prep-l, Art | N-ms
 v44 הַפְּנִימִ֜י|hap·pə·nî·mî|the inner|H6442|Art | Adj-ms
 v44 לִֽשְׁכ֣וֹת|liš·ḵō·wṯ|were two chambers|H3957|N-fpc
-v44 שָׁרִ֗ים|šā·rîm||H7891|V-Qal-Prtcpl-mp
+v44 שָׁרִ֗ים|šā·rîm|-|H7891|V-Qal-Prtcpl-mp
 v44 בֶּחָצֵ֤ר|be·ḥā·ṣêr|court|H2691|Prep-b, Art | N-cs
 v44 הַפְּנִימִי֙|hap·pə·nî·mî|within the inner|H6442|Art | Adj-ms
 v44 אֲשֶׁ֗ר|’ă·šer|-|H834|Pro-r
@@ -664,7 +664,7 @@ v46 הֵ֣מָּה|hêm·māh|These|H1992|Pro-3mp
 v46 בְנֵֽי־|ḇə·nê-|are the sons|H1121|N-mpc
 v46 צָד֗וֹק|ṣā·ḏō·wq|of Zadok|H6659|N-proper-ms
 v46 הַקְּרֵבִ֧ים|haq·qə·rê·ḇîm|who may approach|H7131|Art | Adj-mp
-v46 מִבְּנֵֽי־|mib·bə·nê-|vvv|H1121|Prep-m | N-mpc
+v46 מִבְּנֵֽי־|mib·bə·nê-|...|H1121|Prep-m | N-mpc
 v46 לֵוִ֛י|lê·wî|the [only] Levites|H3878|N-proper-ms
 v46 אֶל־|’el-|...|H413|Prep
 v46 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -692,8 +692,8 @@ v48 אֻלָ֔ם|’u·lām|of the portico|H197|N-msc
 v48 חָמֵ֤שׁ|ḥā·mêš|[to be] five|H2568|Number-fs
 v48 אַמּוֹת֙|’am·mō·wṯ|cubits|H520|N-fp
 v48 מִפֹּ֔ה|mip·pōh|on each|H6311|Prep-m | Adv
-v48 וְחָמֵ֥שׁ|wə·ḥā·mêš||H2568|Conj-w | Number-fs
-v48 אַמּ֖וֹת|’am·mō·wṯ||H520|N-fp
+v48 וְחָמֵ֥שׁ|wə·ḥā·mêš|-|H2568|Conj-w | Number-fs
+v48 אַמּ֖וֹת|’am·mō·wṯ|-|H520|N-fp
 v48 מִפֹּ֑ה|mip·pōh|side|H6311|Prep-m | Adv
 v48 וְרֹ֣חַב|wə·rō·ḥaḇ|The width|H7341|Conj-w | N-msc
 v48 הַשַּׁ֔עַר|haš·ša·‘ar|of the gateway was [fourteen cubits and its sidewalls were]|H8179|Art | N-ms

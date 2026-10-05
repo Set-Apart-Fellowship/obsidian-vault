@@ -1,4 +1,4 @@
-v1 וַיְהִ֣י|way·hî|vvv|H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v1 וַיְהִ֣י|way·hî|...|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v1 הַיּ֗וֹם|hay·yō·wm|One day|H3117|Art | N-ms
 v1 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v1 יוֹנָתָ֤ן|yō·w·nā·ṯān|Jonathan|H3129|N-proper-ms
@@ -85,7 +85,7 @@ v5 מִכְמָ֑שׂ|miḵ·māś|Michmash|H4363|N-proper-fs
 v5 וְהָאֶחָ֥ד|wə·hā·’e·ḥāḏ|and the other|H259|Conj-w, Art | Number-ms
 v5 מִנֶּ֖גֶב|min·ne·ḡeḇ|to the south|H5045|Prep-m | N-fs
 v5 מ֥וּל|mūl|toward|H4136|Prep
-v5 גָּֽבַע׃ס|gā·ḇa‘|Geba|H1387|N-proper-fs
+v5 גָּֽבַע׃|gā·ḇa‘|Geba|H1387|N-proper-fs
 v6 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 יְהוֹנָתָ֜ן|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
 v6 אֶל־|’el-|to|H413|Prep
@@ -111,7 +111,7 @@ v6 בְּרַ֖ב|bə·raḇ|whether by many|H7227|Prep-b | Adj-ms
 v6 א֥וֹ|’ōw|or|H176|Conj
 v6 בִמְעָֽט׃|ḇim·‘āṭ|by few|H4592|Prep-b | Adj-ms
 v7 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v7 לוֹ֙|lōw||H0|Prep | 3ms
+v7 לוֹ֙|lōw|-|H0|Prep | 3ms
 v7 נֹשֵׂ֣א|nō·śê|His armor-bearer|H5375|V-Qal-Prtcpl-msc
 v7 כֵלָ֔יו|ḵê·lāw|...|H3627|N-mpc | 3ms
 v7 עֲשֵׂ֖ה|‘ă·śêh|Do|H6213|V-Qal-Imp-ms
@@ -119,10 +119,10 @@ v7 כָּל־|kāl-|all|H3605|N-msc
 v7 אֲשֶׁ֣ר|’ă·šer|that is|H834|Pro-r
 v7 בִּלְבָבֶ֑ךָ|bil·ḇā·ḇe·ḵā|in your heart|H3824|Prep-b | N-msc | 2ms
 v7 נְטֵ֣ה|nə·ṭêh|Go ahead|H5186|V-Qal-Imp-ms
-v7 לָ֔ךְ|lāḵ||H0|Prep | 2fs
+v7 לָ֔ךְ|lāḵ|-|H0|Prep | 2fs
 v7 הִנְנִ֥י|hin·nî|I am|H2005|Interjection | 1cs
 v7 עִמְּךָ֖|‘im·mə·ḵā|with you|H5973|Prep | 2ms
-v7 כִּלְבָבֶֽךָ׃ס|kil·ḇā·ḇe·ḵā|heart and soul|H3824|Prep-k | N-msc | 2ms
+v7 כִּלְבָבֶֽךָ׃|kil·ḇā·ḇe·ḵā|heart and soul|H3824|Prep-k | N-msc | 2ms
 v8 וַיֹּ֙אמֶר֙|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 יְה֣וֹנָתָ֔ן|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
 v8 הִנֵּ֛ה|hin·nêh|Very well|H2009|Interjection
@@ -135,7 +135,7 @@ v8 אֲלֵיהֶֽם׃|’ă·lê·hem|to them|H413|Prep | 3mp
 v9 אִם־|’im-|If|H518|Conj
 v9 כֹּ֤ה|kōh|...|H3541|Adv
 v9 יֹֽאמְרוּ֙|yō·mə·rū|they say|H559|V-Qal-Imperf-3mp
-v9 אֵלֵ֔ינוּ|’ê·lê·nū||H413|Prep | 1cp
+v9 אֵלֵ֔ינוּ|’ê·lê·nū|-|H413|Prep | 1cp
 v9 דֹּ֕מּוּ|dōm·mū|Wait|H1826|V-Qal-Imp-mp
 v9 עַד־|‘aḏ-|until|H5704|Prep
 v9 הַגִּיעֵ֖נוּ|hag·gî·‘ê·nū|we come|H5060|V-Hifil-Inf | 1cp
@@ -156,7 +156,7 @@ v10 נְתָנָ֥ם|nə·ṯā·nām|has delivered them|H5414|V-Qal-Perf-3ms | 
 v10 יְהוָ֖ה|Yah·weh|that the LORD|H3068|N-proper-ms
 v10 בְּיָדֵ֑נוּ|bə·yā·ḏê·nū|into our hands|H3027|Prep-b | N-fsc | 1cp
 v10 וְזֶה־|wə·zeh-|this|H2088|Conj-w | Pro-ms
-v10 לָּ֖נוּ|lā·nū|vvv|H0|Prep | 1cp
+v10 לָּ֖נוּ|lā·nū|...|H0|Prep | 1cp
 v10 הָאֽוֹת׃|hā·’ō·wṯ|will be our sign|H226|Art | N-cs
 v11 וַיִּגָּל֣וּ|way·yig·gā·lū|showed themselves|H1540|Conj-w | V-Nifal-ConsecImperf-3mp
 v11 שְׁנֵיהֶ֔ם|šə·nê·hem|So the two of them|H8147|Number-mdc | 3mp
@@ -254,7 +254,7 @@ v16 וְהִנֵּ֧ה|wə·hin·nêh|and saw|H2009|Conj-w | Interjection
 v16 הֶהָמ֛וֹן|he·hā·mō·wn|the troops|H1995|Art | N-ms
 v16 נָמ֖וֹג|nā·mō·wḡ|melting away|H4127|V-Nifal-Perf-3ms
 v16 וַיֵּ֥לֶךְ|way·yê·leḵ|and scattering|H1980|Conj-w | V-Qal-ConsecImperf-3ms
-v16 וַהֲלֹֽם׃פ|wa·hă·lōm|in every direction|H1988|Conj-w | Adv
+v16 וַהֲלֹֽם׃|wa·hă·lōm|in every direction|H1988|Conj-w | Adv
 v17 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v17 שָׁא֗וּל|šā·’ūl|Saul|H7586|N-proper-ms
 v17 לָעָם֙|lā·‘ām|to the troops|H5971|Prep-l, Art | N-ms
@@ -329,7 +329,7 @@ v21 כְּאֶתְמ֣וֹל|kə·’eṯ·mō·wl|previously|H865|Prep-k | Adv
 v21 שִׁלְשׁ֔וֹם|šil·šō·wm|...|H8032|Adv
 v21 אֲשֶׁ֨ר|’ă·šer|who had|H834|Pro-r
 v21 עָל֥וּ|‘ā·lū|gone up|H5927|V-Qal-Perf-3cp
-v21 עִמָּ֛ם|‘im·mām||H5973|Prep | 3mp
+v21 עִמָּ֛ם|‘im·mām|-|H5973|Prep | 3mp
 v21 בַּֽמַּחֲנֶ֖ה|bam·ma·ḥă·neh|into the surrounding camps|H4264|Prep-b, Art | N-cs
 v21 סָבִ֑יב|sā·ḇîḇ|went over to|H5439|Adv
 v21 וְגַם־|wə·ḡam-|now|H1571|Conj
@@ -365,7 +365,7 @@ v23 יִשְׂרָאֵ֑ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v23 וְהַ֨מִּלְחָמָ֔ה|wə·ham·mil·ḥā·māh|and the battle|H4421|Conj-w, Art | N-fs
 v23 עָבְרָ֖ה|‘ā·ḇə·rāh|moved on|H5674|V-Qal-Perf-3fs
 v23 אֶת־|’eṯ-|-|H853|DirObjM
-v23 בֵּ֥ית|bêṯ|vvv|H1007|Prep
+v23 בֵּ֥ית|bêṯ|...|H1007|Prep
 v23 אָֽוֶן׃|’ā·wen|beyond Beth-aven|H1007|N-proper-fs
 v24 וְאִֽישׁ־|wə·’îš-|Now the men|H376|Conj-w | N-msc
 v24 יִשְׂרָאֵ֥ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -390,7 +390,7 @@ v24 וְלֹֽא|wə·lō|So none|H3808|Conj-w | Adv-NegPrt
 v24 טָעַ֥ם|ṭā·‘am|tasted|H2938|V-Qal-Perf-3ms
 v24 כָּל־|kāl-|...|H3605|N-msc
 v24 הָעָ֖ם|hā·‘ām|of the troops|H5971|Art | N-ms
-v24 לָֽחֶם׃ס|lā·ḥem|any food|H3899|N-ms
+v24 לָֽחֶם׃|lā·ḥem|any food|H3899|N-ms
 v25 וְכָל־|wə·ḵāl|Then all [the troops]|H3605|Conj-w | N-msc
 v25 הָאָ֖רֶץ|hā·’ā·reṣ|...|H776|Art | N-fs
 v25 בָּ֣אוּ|bā·’ū|entered|H935|V-Qal-Perf-3cp
@@ -517,7 +517,7 @@ v32 עַל־|‘al-|meat with|H5921|Prep
 v32 הַדָּֽם׃|had·dām|the blood still in it|H1818|Art | N-ms
 v33 וַיַּגִּ֤ידוּ|way·yag·gî·ḏū|Then someone reported|H5046|Conj-w | V-Hifil-ConsecImperf-3mp
 v33 לְשָׁאוּל֙|lə·šā·’ūl|to Saul|H7586|Prep-l | N-proper-ms
-v33 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v33 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v33 הִנֵּ֥ה|hin·nêh|Look|H2009|Interjection
 v33 הָעָ֛ם|hā·‘ām|the troops|H5971|Art | N-ms
 v33 חֹטִ֥אים|ḥō·ṭim|are sinning|H2398|V-Qal-Prtcpl-mp
@@ -570,7 +570,7 @@ v35 אֹת֣וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v35 הֵחֵ֔ל|hê·ḥêl|it was the first|H2490|V-Hifil-Perf-3ms
 v35 לִבְנ֥וֹת|liḇ·nō·wṯ|time he had built|H1129|Prep-l | V-Qal-Inf
 v35 מִזְבֵּ֖חַ|miz·bê·aḥ|an altar|H4196|N-ms
-v35 לַֽיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v35 לַֽיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v36 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v36 שָׁא֡וּל|šā·’ūl|And Saul|H7586|N-proper-ms
 v36 נֵרְדָ֣ה|nê·rə·ḏāh|Let us go down|H3381|V-Qal-Imperf.Cohort-1cp
@@ -584,7 +584,7 @@ v36 א֣וֹר|’ō·wr|dawn|H216|N-csc
 v36 הַבֹּ֗קֶר|hab·bō·qer|...|H1242|Art | N-ms
 v36 וְלֹֽא־|wə·lō-|no|H3808|Conj-w | Adv-NegPrt
 v36 נַשְׁאֵ֤ר|naš·’êr|leaving|H7604|V-Hifil-Imperf.Jus-1cp
-v36 בָּהֶם֙|bā·hem||H0|Prep | 3mp
+v36 בָּהֶם֙|bā·hem|-|H0|Prep | 3mp
 v36 אִ֔ישׁ|’îš|man [alive]|H376|N-ms
 v36 וַיֹּ֣אמְר֔וּ|way·yō·mə·rū|the troops replied|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v36 כָּל־|kāl-|what|H3605|N-msc
@@ -662,7 +662,7 @@ v40 אֶל־|’el-|...|H413|Prep
 v40 שָׁא֔וּל|šā·’ūl|...|H7586|N-proper-ms
 v40 הַטּ֥וֹב|haṭ·ṭō·wḇ|what seems good|H2896|Art | Adj-ms
 v40 בְּעֵינֶ֖יךָ|bə·‘ê·ne·ḵā|to you|H5869|Prep-b | N-cdc | 2ms
-v40 עֲשֵֽׂה׃ס|‘ă·śêh|Do|H6213|V-Qal-Imp-ms
+v40 עֲשֵֽׂה׃|‘ă·śêh|Do|H6213|V-Qal-Imp-ms
 v41 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v41 שָׁא֗וּל|šā·’ūl|So Saul|H7586|N-proper-ms
 v41 אֶל־|’el-|to|H413|Prep
@@ -709,7 +709,7 @@ v43 הִנְנִ֥י|hin·nî|And now|H2005|Interjection | 1cs
 v43 אָמֽוּת׃|’ā·mūṯ|I must die|H4191|V-Qal-Imperf-1cs
 v44 וַיֹּ֣אמֶר|way·yō·mer|declared|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v44 שָׁא֔וּל|šā·’ūl|And Saul|H7586|N-proper-ms
-v44 כֹּֽה־|kōh-|vvv|H3541|Adv
+v44 כֹּֽה־|kōh-|...|H3541|Adv
 v44 יַעֲשֶׂ֥ה|ya·‘ă·śeh|punish me|H6213|V-Qal-Imperf-3ms
 v44 אֱלֹהִ֖ים|’ĕ·lō·hîm|May God|H430|N-mp
 v44 וְכֹ֣ה|wə·ḵōh|and ever so|H3541|Conj-w | Adv
@@ -749,7 +749,7 @@ v45 הָעָ֛ם|hā·‘ām|So the people|H5971|Art | N-ms
 v45 אֶת־|’eṯ-|-|H853|DirObjM
 v45 יוֹנָתָ֖ן|yō·w·nā·ṯān|Jonathan|H3129|N-proper-ms
 v45 וְלֹא־|wə·lō-|and he did not|H3808|Conj-w | Adv-NegPrt
-v45 מֵֽת׃ס|mêṯ|die|H4191|V-Qal-Perf-3ms
+v45 מֵֽת׃|mêṯ|die|H4191|V-Qal-Perf-3ms
 v46 וַיַּ֣עַל|way·ya·‘al|gave up|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v46 שָׁא֔וּל|šā·’ūl|Then Saul|H7586|N-proper-ms
 v46 מֵאַחֲרֵ֖י|mê·’a·ḥă·rê|his pursuit|H310|Prep-m
@@ -786,13 +786,13 @@ v48 וַיַּצֵּ֥ל|way·yaṣ·ṣêl|delivering|H5337|Conj-w | V-Hifil-Co
 v48 אֶת־|’eṯ-|-|H853|DirObjM
 v48 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v48 מִיַּ֥ד|mî·yaḏ|from the hands|H3027|Prep-m | N-fsc
-v48 שֹׁסֵֽהוּ׃ס|šō·sê·hū|of its plunderers|H8154|V-Qal-Prtcpl-msc | 3ms
+v48 שֹׁסֵֽהוּ׃|šō·sê·hū|of its plunderers|H8154|V-Qal-Prtcpl-msc | 3ms
 v49 וַיִּֽהְיוּ֙|way·yih·yū|were|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v49 בְּנֵ֣י|bə·nê|Now the sons|H1121|N-mpc
 v49 שָׁא֔וּל|šā·’ūl|of Saul|H7586|N-proper-ms
 v49 יוֹנָתָ֥ן|yō·w·nā·ṯān|Jonathan|H3129|N-proper-ms
 v49 וְיִשְׁוִ֖י|wə·yiš·wî|Ishvi|H3440|Conj-w | N-proper-ms
-v49 וּמַלְכִּי־|ū·mal·kî-|vvv|H4444|
+v49 וּמַלְכִּי־|ū·mal·kî-|...|H4444|
 v49 שׁ֑וּעַ|šū·a‘|and Malchishua|H4444|Conj-w | N-proper-ms
 v49 וְשֵׁם֙|wə·šêm|-|H8034|Conj-w | N-msc
 v49 שְׁתֵּ֣י|šə·tê|His two|H8147|Number-fdc
@@ -824,7 +824,7 @@ v51 וְנֵ֥ר|wə·nêr|Ner|H5369|Conj-w | N-proper-ms
 v51 אֲבִֽי־|’ă·ḇî-|father|H1|N-msc
 v51 אַבְנֵ֖ר|’aḇ·nêr|and Abner's|H74|N-proper-ms
 v51 בֶּן־|ben-|were sons|H1121|N-msc
-v51 אֲבִיאֵֽל׃ס|’ă·ḇî·’êl|of Abiel|H22|N-proper-ms
+v51 אֲבִיאֵֽל׃|’ă·ḇî·’êl|of Abiel|H22|N-proper-ms
 v52 וַתְּהִ֤י|wat·tə·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v52 הַמִּלְחָמָה֙|ham·mil·ḥā·māh|And the war|H4421|Art | N-fs
 v52 חֲזָקָ֣ה|ḥă·zā·qāh|fierce|H2389|Adj-fs
@@ -842,4 +842,4 @@ v52 וְכָל־|wə·ḵāl|...|H3605|Conj-w | N-msc
 v52 בֶּן־|ben-|man|H1121|N-msc
 v52 חַ֔יִל|ḥa·yil|or brave|H2428|N-ms
 v52 וַיַּאַסְפֵ֖הוּ|way·ya·’as·p̄ê·hū|[Saul] would enlist him|H622|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
-v52 אֵלָֽיו׃ס|’ê·lāw|...|H413|Prep | 3ms
+v52 אֵלָֽיו׃|’ê·lāw|...|H413|Prep | 3ms

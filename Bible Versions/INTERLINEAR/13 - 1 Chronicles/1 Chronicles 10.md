@@ -23,7 +23,7 @@ v2 יוֹנָתָ֧ן|yō·w·nā·ṯān|Jonathan|H3129|N-proper-ms
 v2 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v2 אֲבִינָדָ֛ב|’ă·ḇî·nā·ḏāḇ|Abinadab|H41|N-proper-ms
 v2 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v2 מַלְכִּי־|mal·kî-|vvv|H4444|Prep
+v2 מַלְכִּי־|mal·kî-|...|H4444|Prep
 v2 שׁ֖וּעַ|šū·a‘|and Malchishua|H4444|N-proper-ms
 v2 בְּנֵ֥י|bə·nê|sons|H1121|N-mpc
 v2 שָׁאֽוּל׃|šā·’ūl|Saul's|H7586|N-proper-ms
@@ -76,7 +76,7 @@ v5 גַּם־|gam-|too|H1571|Conj
 v5 ה֛וּא|hū|he|H1931|Pro-3ms
 v5 עַל־|‘al-|on|H5921|Prep
 v5 הַחֶ֖רֶב|ha·ḥe·reḇ|his own sword|H2719|Art | N-fs
-v5 וַיָּמֹֽת׃ס|way·yā·mōṯ|and died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v5 וַיָּמֹֽת׃|way·yā·mōṯ|and died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v6 וַיָּ֤מָת|way·yā·māṯ|-|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v6 שָׁאוּל֙|šā·’ūl|So Saul|H7586|N-proper-ms
 v6 וּשְׁלֹ֣שֶׁת|ū·šə·lō·šeṯ|with his three|H7969|Conj-w | Number-msc
@@ -103,7 +103,7 @@ v7 וַיָּנֻ֔סוּ|way·yā·nu·sū|and ran away|H5127|Conj-w | V-Qal-Co
 v7 וַיָּבֹ֣אוּ|way·yā·ḇō·’ū|came|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v7 פְלִשְׁתִּ֔ים|p̄ə·liš·tîm|So the Philistines|H6430|N-proper-mp
 v7 וַיֵּשְׁב֖וּ|way·yê·šə·ḇū|and occupied|H3427|Conj-w | V-Qal-ConsecImperf-3mp
-v7 בָּהֶֽם׃ס|bā·hem|[their cities]|H0|Prep | 3mp
+v7 בָּהֶֽם׃|bā·hem|[their cities]|H0|Prep | 3mp
 v8 וַיְהִי֙|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 מִֽמָּחֳרָ֔ת|mim·mā·ḥo·rāṯ|The next day|H4283|Prep-m | N-fs
 v8 וַיָּבֹ֣אוּ|way·yā·ḇō·’ū|came|H935|Conj-w | V-Qal-ConsecImperf-3mp
@@ -143,7 +143,7 @@ v10 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v10 גֻּלְגָּלְתּ֥וֹ|gul·gā·lə·tōw|his head|H1538|N-fsc | 3ms
 v10 תָקְע֖וּ|ṯā·qə·‘ū|and hung|H8628|V-Qal-Perf-3cp
 v10 בֵּ֥ית|bêṯ|in the temple|H1004|N-msc
-v10 דָּגֽוֹן׃ס|dā·ḡō·wn|of Dagon|H1712|N-proper-ms
+v10 דָּגֽוֹן׃|dā·ḡō·wn|of Dagon|H1712|N-proper-ms
 v11 וַֽיִּשְׁמְע֔וּ|way·yiš·mə·‘ū|heard about|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v11 כֹּ֖ל|kōl|When all [the people of]|H3605|N-msc
 v11 יָבֵ֣ישׁ|yā·ḇêš|Jabesh-gilead|H3003|N-proper-fs
@@ -201,4 +201,4 @@ v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 הַמְּלוּכָ֔ה|ham·mə·lū·ḵāh|and turned the kingdom|H4410|Art | N-fs
 v14 לְדָוִ֖יד|lə·ḏā·wîḏ|to David|H1732|Prep-l | N-proper-ms
 v14 בֶּן־|ben-|son|H1121|N-msc
-v14 יִשָֽׁי׃פ|yi·šāy|of Jesse|H3448|N-proper-ms
+v14 יִשָֽׁי׃|yi·šāy|of Jesse|H3448|N-proper-ms

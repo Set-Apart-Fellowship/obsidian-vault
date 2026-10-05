@@ -12,7 +12,7 @@ v1 חַיֵּ֥י|ḥay·yê|...|H2416|N-mpc
 v1 שָׂרָֽה׃|śā·rāh|...|H8283|N-proper-fs
 v2 וַתָּ֣מָת|wat·tā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3fs
 v2 שָׂרָ֗ה|śā·rāh|[She]|H8283|N-proper-fs
-v2 בְּקִרְיַ֥ת|bə·qir·yaṯ|vvv|H7153|Prep
+v2 בְּקִרְיַ֥ת|bə·qir·yaṯ|...|H7153|Prep
 v2 אַרְבַּ֛ע|’ar·ba‘|in Kiriath-arba|H7153|Prep | N-proper-fs
 v2 הִ֥וא|hî|(that is|H1931|Pro-3fs
 v2 חֶבְר֖וֹן|ḥeḇ·rō·wn|Hebron)|H2275|N-proper-fs
@@ -51,7 +51,7 @@ v5 חֵ֛ת|ḥêṯ|...|H2845|N-proper-ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 אַבְרָהָ֖ם|’aḇ·rā·hām|to Abraham|H85|N-proper-ms
 v5 לֵאמֹ֥ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
-v5 לֽוֹ׃|lōw||H0|Prep | 3ms
+v5 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v6 שְׁמָעֵ֣נוּ׀|šə·mā·‘ê·nū|Listen to us|H8085|V-Qal-Imp-ms | 1cp
 v6 אֲדֹנִ֗י|’ă·ḏō·nî|sir|H113|N-msc | 1cs
 v6 נְשִׂ֨יא|nə·śî|chosen one|H5387|N-msc
@@ -146,7 +146,7 @@ v11 לְעֵינֵ֧י|lə·‘ê·nê|in the presence|H5869|Prep-l | N-cdc
 v11 בְנֵי־|ḇə·nê-|of my people|H1121|N-mpc
 v11 עַמִּ֛י|‘am·mî|...|H5971|N-msc | 1cs
 v11 נְתַתִּ֥יהָ|nə·ṯat·tî·hā|I give it|H5414|V-Qal-Perf-1cs | 3fs
-v11 לָּ֖ךְ|lāḵ||H0|Prep | 2fs
+v11 לָּ֖ךְ|lāḵ|-|H0|Prep | 2fs
 v11 קְבֹ֥ר|qə·ḇōr|Bury|H6912|V-Qal-Imp-ms
 v11 מֵתֶֽךָ׃|mê·ṯe·ḵā|your dead|H4191|V-Qal-Prtcpl-msc | 2ms
 v12 וַיִּשְׁתַּ֙חוּ֙|way·yiš·ta·ḥū|bowed down|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
@@ -180,7 +180,7 @@ v14 עֶפְר֛וֹן|‘ep̄·rō·wn|Ephron|H6085|N-proper-ms
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 אַבְרָהָ֖ם|’aḇ·rā·hām|Abraham|H85|N-proper-ms
 v14 לֵאמֹ֥ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
-v14 לֽוֹ׃|lōw||H0|Prep | 3ms
+v14 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v15 אֲדֹנִ֣י|’ă·ḏō·nî|my lord|H113|N-msc | 1cs
 v15 שְׁמָעֵ֔נִי|šə·mā·‘ê·nî|Listen to me|H8085|V-Qal-Imp-ms | 1cs
 v15 אֶרֶץ֩|’e·reṣ|The land|H776|N-fsc
@@ -266,10 +266,10 @@ v20 וַיָּ֨קָם|way·yā·qām|were deeded|H6965|Conj-w | V-Qal-ConsecImp
 v20 הַשָּׂדֶ֜ה|haś·śā·ḏeh|So the field|H7704|Art | N-ms
 v20 וְהַמְּעָרָ֧ה|wə·ham·mə·‘ā·rāh|cave|H4631|Conj-w, Art | N-fs
 v20 אֲשֶׁר־|’ă·šer-|and its|H834|Pro-r
-v20 בּ֛וֹ|bōw||H0|Prep | 3ms
+v20 בּ֛וֹ|bōw|-|H0|Prep | 3ms
 v20 לְאַבְרָהָ֖ם|lə·’aḇ·rā·hām|to Abraham|H85|Prep-l | N-proper-ms
 v20 לַאֲחֻזַּת־|la·’ă·ḥuz·zaṯ-|site|H272|Prep-l | N-fsc
 v20 קָ֑בֶר|qā·ḇer|as a burial|H6913|N-ms
 v20 מֵאֵ֖ת|mê·’êṯ|...|H854|Prep-m | DirObjM
 v20 בְּנֵי־|bə·nê-|by the Hittites|H1121|N-mpc
-v20 חֵֽת׃ס|ḥêṯ|...|H2845|N-proper-ms
+v20 חֵֽת׃|ḥêṯ|...|H2845|N-proper-ms

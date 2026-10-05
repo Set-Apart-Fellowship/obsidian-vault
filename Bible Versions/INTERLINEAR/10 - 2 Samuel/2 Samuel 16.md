@@ -26,7 +26,7 @@ v2 אֶל־|’el-|-|H413|Prep
 v2 צִיבָ֖א|ṣî·ḇā|-|H6717|N-proper-ms
 v2 מָה־|māh-|Why|H4100|Interrog
 v2 אֵ֣לֶּה|’êl·leh|do you have these|H428|Pro-cp
-v2 לָּ֑ךְ|lāḵ||H0|Prep | 2fs
+v2 לָּ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v2 וַיֹּ֣אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 צִ֠יבָא|ṣî·ḇā|Ziba|H6717|N-proper-ms
 v2 הַחֲמוֹרִ֨ים|ha·ḥă·mō·w·rîm|The donkeys|H2543|Art | N-mp
@@ -67,10 +67,10 @@ v4 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 הַמֶּ֙לֶךְ֙|ham·me·leḵ|So the king|H4428|Art | N-ms
 v4 לְצִבָ֔א|lə·ṣi·ḇā|to Ziba|H6717|Prep-l | N-proper-ms
 v4 הִנֵּ֣ה|hin·nêh|is now yours|H2009|Interjection
-v4 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v4 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v4 כֹּ֖ל|kōl|All|H3605|N-ms
 v4 אֲשֶׁ֣ר|’ă·šer|that [belongs]|H834|Pro-r
-v4 לִמְפִי־|lim·p̄î-|vvv|H4648|Prep
+v4 לִמְפִי־|lim·p̄î-|...|H4648|Prep
 v4 בֹ֑שֶׁת|ḇō·šeṯ|to Mephibosheth|H4648|Prep | N-proper-ms
 v4 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 צִיבָא֙|ṣî·ḇā|Ziba|H6717|N-proper-ms
@@ -165,7 +165,7 @@ v9 אֶעְבְּרָה־|’e‘·bə·rāh-|Let me go over|H5674|V-Qal-Imperf.
 v9 נָּ֖א|nā|...|H4994|Interjection
 v9 וְאָסִ֥ירָה|wə·’ā·sî·rāh|...|H5493|Conj-w | V-Hifil-ConjImperf.Cohort-1cs
 v9 אֶת־|’eṯ-|-|H853|DirObjM
-v9 רֹאשֽׁוֹ׃ס|rō·šōw|and cut off his head|H7218|N-msc | 3ms
+v9 רֹאשֽׁוֹ׃|rō·šōw|and cut off his head|H7218|N-msc | 3ms
 v10 וַיֹּ֣אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v10 הַמֶּ֔לֶךְ|ham·me·leḵ|But the king|H4428|Art | N-ms
 v10 מַה־|mah-|What|H4100|Interrog
@@ -186,7 +186,7 @@ v10 וּמִ֣י|ū·mî|who|H4310|Conj-w | Interrog
 v10 יֹאמַ֔ר|yō·mar|can ask|H559|V-Qal-Imperf-3ms
 v10 מַדּ֖וּעַ|mad·dū·a‘|Why|H4069|Interrog
 v10 עָשִׂ֥יתָה|‘ā·śî·ṯāh|did you do|H6213|V-Qal-Perf-2ms
-v10 כֵּֽן׃ס|kên|this|H3651|Adv
+v10 כֵּֽן׃|kên|this|H3651|Adv
 v11 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 דָּוִ֤ד|dā·wiḏ|Then David|H1732|N-proper-ms
 v11 אֶל־|’el-|to|H413|Prep
@@ -205,7 +205,7 @@ v11 נַפְשִׁ֑י|nap̄·šî|my life|H5315|N-fsc | 1cs
 v11 וְאַ֨ף|wə·’ap̄|-|H637|Conj
 v11 כִּֽי־|kî-|How much more|H3588|Conj
 v11 עַתָּ֜ה|‘at·tāh|then|H6258|Adv
-v11 בֶּן־|ben-|vvv|H1145|N-msc
+v11 בֶּן־|ben-|...|H1145|N-msc
 v11 הַיְמִינִ֗י|hay·mî·nî|[this] Benjamite|H1145|Art | N-proper-ms
 v11 הַנִּ֤חוּ|han·ni·ḥū|Leave him alone|H5117|V-Hifil-Imp-mp
 v11 לוֹ֙|lōw|...|H0|Prep | 3ms
@@ -241,7 +241,7 @@ v13 וַיְסַקֵּ֤ל|way·saq·qêl|threw stones|H5619|Conj-w | V-Piel-Con
 v13 בָּֽאֲבָנִים֙|bā·’ă·ḇā·nîm|...|H68|Prep-b, Art | N-fp
 v13 לְעֻמָּת֔וֹ|lə·‘um·mā·ṯōw|at [David]|H5980|Prep-l | 3ms
 v13 וְעִפַּ֖ר|wə·‘ip·par|and flung|H6080|Conj-w | V-Piel-ConjPerf-3ms
-v13 בֶּעָפָֽר׃פ|be·‘ā·p̄ār|dust|H6083|Prep-b, Art | N-ms
+v13 בֶּעָפָֽר׃|be·‘ā·p̄ār|dust|H6083|Prep-b, Art | N-ms
 v14 וַיָּבֹ֥א|way·yā·ḇō|arrived|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v14 הַמֶּ֛לֶךְ|ham·me·leḵ|Finally, the king|H4428|Art | N-ms
 v14 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
@@ -321,13 +321,13 @@ v19 לִפְנֵ֣י|lip̄·nê|in yours|H6440|Prep-l | N-cpc
 v19 אָבִ֔יךָ|’ā·ḇî·ḵā|in your father's|H1|N-msc | 2ms
 v19 כֵּ֖ן|kên|so also|H3651|Adv
 v19 אֶהְיֶ֥ה|’eh·yeh|I will serve|H1961|V-Qal-Imperf-1cs
-v19 לְפָנֶֽיךָ׃פ|li·p̄ā·ne·ḵā|...|H6440|Prep-l | N-cpc | 2ms
+v19 לְפָנֶֽיךָ׃|li·p̄ā·ne·ḵā|...|H6440|Prep-l | N-cpc | 2ms
 v20 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אַבְשָׁל֖וֹם|’aḇ·šā·lō·wm|Then Absalom|H53|N-proper-ms
 v20 אֶל־|’el-|to|H413|Prep
 v20 אֲחִיתֹ֑פֶל|’ă·ḥî·ṯō·p̄el|Ahithophel|H302|N-proper-ms
 v20 הָב֥וּ|hā·ḇū|Give me|H3051|V-Qal-Imp-mp
-v20 לָכֶ֛ם|lā·ḵem||H0|Prep | 2mp
+v20 לָכֶ֛ם|lā·ḵem|-|H0|Prep | 2mp
 v20 עֵצָ֖ה|‘ê·ṣāh|counsel|H6098|N-fs
 v20 מַֽה־|mah-|What|H4100|Interrog
 v20 נַּעֲשֶֽׂה׃|na·‘ă·śeh|should we do|H6213|V-Qal-Imperf-1cp
@@ -385,4 +385,4 @@ v23 אֲחִיתֹ֔פֶל|’ă·ḥî·ṯō·p̄el|had for Ahithophel's|H302
 v23 גַּם־|gam-|that both|H1571|Conj
 v23 לְדָוִ֖ד|lə·ḏā·wiḏ|David|H1732|Prep-l | N-proper-ms
 v23 גַּ֥ם|gam|and|H1571|Conj
-v23 לְאַבְשָׁלֹֽם׃ס|lə·’aḇ·šā·lōm|Absalom|H53|Prep-l | N-proper-ms
+v23 לְאַבְשָׁלֹֽם׃|lə·’aḇ·šā·lōm|Absalom|H53|Prep-l | N-proper-ms

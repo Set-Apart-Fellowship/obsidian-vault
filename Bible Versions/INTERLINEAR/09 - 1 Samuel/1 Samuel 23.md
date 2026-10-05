@@ -42,7 +42,7 @@ v3 נֵלֵ֣ךְ|nê·lêḵ|we go|H1980|V-Qal-Imperf-1cp
 v3 קְעִלָ֔ה|qə·‘i·lāh|to Keilah|H7084|N-proper-fs
 v3 אֶל־|’el-|against|H413|Prep
 v3 מַֽעַרְכ֖וֹת|ma·‘ar·ḵō·wṯ|the armies of|H4634|N-fpc
-v3 פְּלִשְׁתִּֽים׃ס|pə·liš·tîm|the Philistines|H6430|N-proper-mp
+v3 פְּלִשְׁתִּֽים׃|pə·liš·tîm|the Philistines|H6430|N-proper-mp
 v4 וַיּ֨וֹסֶף|way·yō·w·sep̄|Once again|H3254|Conj-w | V-Hifil-ConsecImperf-3ms
 v4 ע֤וֹד|‘ō·wḏ|...|H5750|Adv
 v4 דָּוִד֙|dā·wiḏ|David|H1732|N-proper-ms
@@ -77,7 +77,7 @@ v5 וַיֹּ֣שַׁע|way·yō·ša‘|saved|H3467|Conj-w | V-Hifil-ConsecImpe
 v5 דָּוִ֔ד|dā·wiḏ|So David|H1732|N-proper-ms
 v5 אֵ֖ת|’êṯ|-|H853|DirObjM
 v5 יֹשְׁבֵ֥י|yō·šə·ḇê|the people|H3427|V-Qal-Prtcpl-mpc
-v5 קְעִילָֽה׃ס|qə·‘î·lāh|of Keilah|H7084|N-proper-fs
+v5 קְעִילָֽה׃|qə·‘î·lāh|of Keilah|H7084|N-proper-fs
 v6 וַיְהִ֗י|way·hî|Now|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v6 בִּ֠בְרֹחַ|biḇ·rō·aḥ|when he fled|H1272|Prep-b | V-Qal-Inf
 v6 אֶבְיָתָ֧ר|’eḇ·yā·ṯār|Abiathar|H54|N-proper-ms
@@ -132,7 +132,7 @@ v9 אֶל־|’el-|to|H413|Prep
 v9 אֶבְיָתָ֣ר|’eḇ·yā·ṯār|Abiathar|H54|N-proper-ms
 v9 הַכֹּהֵ֔ן|hak·kō·hên|the priest|H3548|Art | N-ms
 v9 הַגִּ֖ישָׁה|hag·gî·šāh|Bring|H5066|V-Hifil-Imp-ms | 3fs
-v9 הָאֵפֽוֹד׃ס|hā·’ê·p̄ō·wḏ|the ephod|H646|Art | N-ms
+v9 הָאֵפֽוֹד׃|hā·’ê·p̄ō·wḏ|the ephod|H646|Art | N-ms
 v10 וַיֹּאמֶר֮|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v10 דָּוִד֒|dā·wiḏ|And David|H1732|N-proper-ms
 v10 יְהוָה֙|Yah·weh|O LORD|H3068|N-proper-ms
@@ -180,7 +180,7 @@ v12 בְּיַד־|bə·yaḏ-|into the hand|H3027|Prep-b | N-fsc
 v12 שָׁא֑וּל|šā·’ūl|of Saul|H7586|N-proper-ms
 v12 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v12 יַסְגִּֽירוּ׃ס|yas·gî·rū|They will|H5462|V-Hifil-Imperf-3mp
+v12 יַסְגִּֽירוּ׃|yas·gî·rū|They will|H5462|V-Hifil-Imperf-3mp
 v13 וַיָּקָם֩|way·yā·qām|set out|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v13 דָּוִ֨ד|dā·wiḏ|Then David|H1732|N-proper-ms
 v13 וַאֲנָשָׁ֜יו|wa·’ă·nā·šāw|and his men|H582|Conj-w | N-mpc | 3ms
@@ -227,7 +227,7 @@ v15 נַפְשׁ֑וֹ|nap̄·šōw|his life|H5315|N-fsc | 3ms
 v15 וְדָוִ֥ד|wə·ḏā·wiḏ|he|H1732|Conj-w | N-proper-ms
 v15 בְּמִדְבַּר־|bə·miḏ·bar-|in the Wilderness|H4057|Prep-b | N-msc
 v15 זִ֖יף|zîp̄|of Ziph|H2128|N-proper-fs
-v15 בַּחֹֽרְשָׁה׃ס|ba·ḥō·rə·šāh|was in Horesh|H2793|Prep-b, Art | N-fs
+v15 בַּחֹֽרְשָׁה׃|ba·ḥō·rə·šāh|was in Horesh|H2793|Prep-b, Art | N-fs
 v16 וַיָּ֙קָם֙|way·yā·qām|And|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v16 יְהוֹנָתָ֣ן|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
 v16 בֶּן־|ben-|son|H1121|N-msc
@@ -273,7 +273,7 @@ v18 דָּוִד֙|dā·wiḏ|And David|H1732|N-proper-ms
 v18 בַּחֹ֔רְשָׁה|ba·ḥō·rə·šāh|in Horesh|H2793|Prep-b, Art | N-fs
 v18 וִיהוֹנָתָ֖ן|wî·hō·w·nā·ṯān|while Jonathan|H3083|Conj-w | N-proper-ms
 v18 הָלַ֥ךְ|hā·laḵ|went|H1980|V-Qal-Perf-3ms
-v18 לְבֵיתֽוֹ׃ס|lə·ḇê·ṯōw|home|H1004|Prep-l | N-msc | 3ms
+v18 לְבֵיתֽוֹ׃|lə·ḇê·ṯōw|home|H1004|Prep-l | N-msc | 3ms
 v19 וַיַּעֲל֤וּ|way·ya·‘ă·lū|came up|H5927|Conj-w | V-Qal-ConsecImperf-3mp
 v19 זִפִים֙|zi·p̄îm|Then the Ziphites|H2130|N-proper-mp
 v19 אֶל־|’el-|to|H413|Prep
@@ -326,7 +326,7 @@ v22 רָאָ֖הוּ|rā·’ā·hū|has seen him|H7200|V-Qal-Perf-3ms | 3ms
 v22 שָׁ֑ם|šām|there|H8033|Adv
 v22 כִּ֚י|kî|for|H3588|Conj
 v22 אָמַ֣ר|’ā·mar|I am told that|H559|V-Qal-Perf-3ms
-v22 אֵלַ֔י|’ê·lay||H413|Prep | 1cs
+v22 אֵלַ֔י|’ê·lay|-|H413|Prep | 1cs
 v22 עָר֥וֹם|‘ā·rō·wm|is extremely cunning|H6191|V-Qal-InfAbs
 v22 יַעְרִ֖ם|ya‘·rim|...|H6191|V-Hifil-Imperf-3ms
 v22 הֽוּא׃|hū|he|H1931|Pro-3ms
@@ -432,12 +432,12 @@ v28 כֵּ֗ן|kên|...|H3651|Adv
 v28 קָֽרְאוּ֙|qā·rə·’ū|is called|H7121|V-Qal-Perf-3cp
 v28 לַמָּק֣וֹם|lam·mā·qō·wm|place|H4725|Prep-l, Art | N-ms
 v28 הַה֔וּא|ha·hū|that|H1931|Art | Pro-3ms
-v28 סֶ֖לַע|se·la‘|vvv|H5555|
+v28 סֶ֖לַע|se·la‘|...|H5555|
 v28 הַֽמַּחְלְקֽוֹת׃|ham·maḥ·lə·qō·wṯ|Sela-hammahlekoth|H5555|N-proper-fs
 v29 וַיַּ֥עַל|way·ya·‘al|went up|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v29 דָּוִ֖ד|dā·wiḏ|And David|H1732|N-proper-ms
 v29 מִשָּׁ֑ם|miš·šām|from there|H8033|Prep-m | Adv
 v29 וַיֵּ֖שֶׁב|way·yê·šeḇ|and lived|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v29 בִּמְצָד֥וֹת|bim·ṣā·ḏō·wṯ|in the strongholds|H4679|Prep-b | N-fpc
-v29 עֵֽין־|‘ên-|vvv|H5872|
+v29 עֵֽין־|‘ên-|...|H5872|
 v29 גֶּֽדִי׃|ge·ḏî|of En-gedi|H5872|N-proper-fs

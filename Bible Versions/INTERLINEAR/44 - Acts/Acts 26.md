@@ -18,7 +18,7 @@ v1 χεῖρα|cheira|hand|G5495|N-AFS
 v1 ἀπελογεῖτο|apelogeito|[and] began his defense|G626|V-IIM/P-3S
 v2 Περὶ|Peri|against|G4012|Prep
 v2 πάντων|pantōn|all|G3956|Adj-GNP
-v2 ὧν|hōn|vvv|G3739|RelPro-GNP
+v2 ὧν|hōn|...|G3739|RelPro-GNP
 v2 ἐγκαλοῦμαι|enkaloumai|the accusations|G1458|V-PIM/P-1S
 v2 ὑπὸ|hypo|of|G5259|Prep
 v2 Ἰουδαίων|Ioudaiōn|[the] Jews|G2453|Adj-GMP
@@ -38,7 +38,7 @@ v3 ὄντα|onta|are|G1510|V-PPA-AMS
 v3 σε|se|[since] you|G4771|PPro-A2S
 v3 πάντων|pantōn|with all|G3956|Adj-GNP
 v3 τῶν|tōn|the|G3588|Art-GNP
-v3 κατὰ|kata|vvv|G2596|Prep
+v3 κατὰ|kata|...|G2596|Prep
 v3 Ἰουδαίους|Ioudaious|Jewish|G2453|Adj-AMP
 v3 ἐθῶν|ethōn|customs|G1485|N-GNP
 v3 τε|te|and|G5037|Conj
@@ -49,11 +49,11 @@ v3 δέομαι|deomai|I beg [you]|G1189|V-PIM/P-1S
 v3 μακροθύμως|makrothymōs|patiently|G3116|Adv
 v3 ἀκοῦσαί|akousai|to listen to|G191|V-ANA
 v3 μου|mou|me|G1473|PPro-G1S
-v4 Τὴν|Tēn|vvv|G3588|Art-AFS
+v4 Τὴν|Tēn|...|G3588|Art-AFS
 v4 μὲν|men|...|G3303|Conj
 v4 οὖν|oun|Surely|G3767|Conj
 v4 βίωσίν|biōsin|how I have lived|G981|N-AFS
-v4 μου|mou|vvv|G1473|PPro-G1S
+v4 μου|mou|...|G1473|PPro-G1S
 v4 ‹τὴν›|tēn|-|G3588|Art-AFS
 v4 ἐκ|ek|-|G1537|Prep
 v4 νεότητος|neotētos|childhood|G3503|N-GFS
@@ -179,9 +179,9 @@ v11 κατὰ|kata|in|G2596|Prep
 v11 πάσας|pasas|-|G3956|Adj-AFP
 v11 τὰς|tas|the|G3588|Art-AFP
 v11 συναγωγὰς|synagōgas|synagogues|G4864|N-AFP
-v11 πολλάκις|pollakis|vvv|G4178|Adv
+v11 πολλάκις|pollakis|...|G4178|Adv
 v11 τιμωρῶν|timōrōn|I frequently had them punished|G5097|V-PPA-NMS
-v11 αὐτοὺς|autous|vvv|G846|PPro-AM3P
+v11 αὐτοὺς|autous|...|G846|PPro-AM3P
 v11 ἠνάγκαζον|ēnankazon|[and] I tried to make [them]|G315|V-IIA-1S
 v11 βλασφημεῖν|blasphēmein|blaspheme|G987|V-PNA
 v11 περισσῶς|perissōs|...|G4057|Adv
@@ -279,7 +279,7 @@ v16 τοὺς|tous|-|G3588|Art-AMP
 v16 πόδας|podas|feet|G4228|N-AMP
 v16 σου|sou|your|G4771|PPro-G2S
 v16 εἰς|eis|to|G1519|Prep
-v16 τοῦτο|touto|vvv|G3778|DPro-ANS
+v16 τοῦτο|touto|...|G3778|DPro-ANS
 v16 γὰρ|gar|For|G1063|Conj
 v16 ὤφθην|ōphthēn|I have appeared|G3708|V-AIP-1S
 v16 σοι|soi|to you|G4771|PPro-D2S
@@ -394,8 +394,8 @@ v22 Ἐπικουρίας|Epikourias|help|G1947|N-GFS
 v22 οὖν|oun|[But]|G3767|Conj
 v22 τυχὼν|tychōn|I have had|G5177|V-APA-NMS
 v22 τῆς|tēs|-|G3588|Art-GFS
-v22 ἀπὸ|apo|vvv|G575|Prep
-v22 τοῦ|tou|vvv|G3588|Art-GMS
+v22 ἀπὸ|apo|...|G575|Prep
+v22 τοῦ|tou|...|G3588|Art-GMS
 v22 Θεοῦ|Theou|God's|G2316|N-GMS
 v22 ἄχρι|achri|to|G891|Prep
 v22 τῆς|tēs|-|G3588|Art-GFS
@@ -459,7 +459,7 @@ v24 περιτρέπει|peritrepei|is driving|G4062|V-PIA-3S
 v25 Ὁ|Ho|-|G3588|Art-NMS
 v25 δὲ|de|But|G1161|Conj
 v25 Παῦλος|Paulos|Paul|G3972|N-NMS
-v25 Οὐ|Ou|vvv|G3756|Adv
+v25 Οὐ|Ou|...|G3756|Adv
 v25 μαίνομαι|mainomai|I am not insane|G3105|V-PIM/P-1S
 v25 φησίν|phēsin|answered|G5346|V-PIA-3S
 v25 Κράτιστε|Kratiste|most excellent|G2903|Adj-VMS-S
@@ -482,11 +482,11 @@ v26 καὶ|kai|and|G2532|Conj
 v26 παρρησιαζόμενος|parrēsiazomenos|freely|G3955|V-PPM/P-NMS
 v26 λαλῶ|lalō|I can speak|G2980|V-PIA-1S
 v26 λανθάνειν|lanthanein|has escaped|G2990|V-PNA
-v26 γὰρ|gar|vvv|G1063|Conj
+v26 γὰρ|gar|...|G1063|Conj
 v26 αὐτὸν|auton|his [notice]|G846|PPro-AM3S
 v26 [τι]|ti|...|G5100|IPro-ANS
 v26 τούτων|toutōn|of this|G3778|DPro-GNP
-v26 οὐ|ou|vvv|G3756|Adv
+v26 οὐ|ou|...|G3756|Adv
 v26 πείθομαι|peithomai|I am confident that|G3982|V-PIM/P-1S
 v26 οὐθέν|outhen|none|G3762|Adj-ANS
 v26 οὐ|ou|not|G3756|Adv
@@ -523,11 +523,11 @@ v29 Εὐξαίμην|Euxaimēn|I wish|G2172|V-AOM-1S
 v29 ἂν|an|that|G302|Prtcl
 v29 τῷ|tō|-|G3588|Art-DMS
 v29 Θεῷ|Theō|to God|G2316|N-DMS
-v29 καὶ|kai|vvv|G2532|Conj
-v29 ἐν|en|vvv|G1722|Prep
+v29 καὶ|kai|...|G2532|Conj
+v29 ἐν|en|...|G1722|Prep
 v29 ὀλίγῳ|oligō|Short [time]|G3641|Adj-DNS
 v29 καὶ|kai|[or]|G2532|Conj
-v29 ἐν|en|vvv|G1722|Prep
+v29 ἐν|en|...|G1722|Prep
 v29 μεγάλῳ|megalō|long|G3173|Adj-DNS
 v29 οὐ|ou|not|G3756|Adv
 v29 μόνον|monon|only|G3440|Adv
@@ -591,6 +591,6 @@ v32 ὁ|ho|-|G3588|Art-NMS
 v32 ἄνθρωπος|anthrōpos|man|G444|N-NMS
 v32 οὗτος|houtos|This|G3778|DPro-NMS
 v32 εἰ|ei|if|G1487|Conj
-v32 μὴ|mē|vvv|G3361|Adv
+v32 μὴ|mē|...|G3361|Adv
 v32 ἐπεκέκλητο|epekeklēto|he had not appealed|G1941|V-LIM-3S
 v32 Καίσαρα|Kaisara|to Caesar|G2541|N-AMS

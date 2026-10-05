@@ -49,7 +49,7 @@ v5 עֶ֥רֶב|‘e·reḇ|evening|H6153|N-ms
 v5 וַֽיְהִי־|way·hî-|and there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v5 בֹ֖קֶר|ḇō·qer|morning|H1242|N-ms
 v5 י֥וֹם|yō·wm|day|H3117|N-ms
-v5 אֶחָֽד׃פ|’e·ḥāḏ|the first|H259|Number-ms
+v5 אֶחָֽד׃|’e·ḥāḏ|the first|H259|Number-ms
 v6 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 אֱלֹהִ֔ים|’ĕ·lō·hîm|And God|H430|N-mp
 v6 יְהִ֥י|yə·hî|Let there be|H1961|V-Qal-Imperf.Jus-3ms
@@ -87,7 +87,7 @@ v8 עֶ֥רֶב|‘e·reḇ|evening|H6153|N-ms
 v8 וַֽיְהִי־|way·hî-|and there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 בֹ֖קֶר|ḇō·qer|morning|H1242|N-ms
 v8 י֥וֹם|yō·wm|day|H3117|N-ms
-v8 שֵׁנִֽי׃פ|šê·nî|the second|H8145|Number-oms
+v8 שֵׁנִֽי׃|šê·nî|the second|H8145|Number-oms
 v9 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 אֱלֹהִ֗ים|’ĕ·lō·hîm|And God|H430|N-mp
 v9 יִקָּו֨וּ|yiq·qā·wū|be gathered|H6960|V-Nifal-Imperf-3mp
@@ -156,7 +156,7 @@ v13 עֶ֥רֶב|‘e·reḇ|evening|H6153|N-ms
 v13 וַֽיְהִי־|way·hî-|and there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v13 בֹ֖קֶר|ḇō·qer|morning|H1242|N-ms
 v13 י֥וֹם|yō·wm|day|H3117|N-ms
-v13 שְׁלִישִֽׁי׃פ|šə·lî·šî|the third|H7992|Number-oms
+v13 שְׁלִישִֽׁי׃|šə·lî·šî|the third|H7992|Number-oms
 v14 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v14 אֱלֹהִ֗ים|’ĕ·lō·hîm|And God|H430|N-mp
 v14 יְהִ֤י|yə·hî|Let there be|H1961|V-Qal-Imperf.Jus-3ms
@@ -225,7 +225,7 @@ v19 עֶ֥רֶב|‘e·reḇ|evening|H6153|N-ms
 v19 וַֽיְהִי־|way·hî-|and there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v19 בֹ֖קֶר|ḇō·qer|morning|H1242|N-ms
 v19 י֥וֹם|yō·wm|day|H3117|N-ms
-v19 רְבִיעִֽי׃פ|rə·ḇî·‘î|the fourth|H7243|Number-oms
+v19 רְבִיעִֽי׃|rə·ḇî·‘î|the fourth|H7243|Number-oms
 v20 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֱלֹהִ֔ים|’ĕ·lō·hîm|And God|H430|N-mp
 v20 יִשְׁרְצ֣וּ|yiš·rə·ṣū|teem|H8317|V-Qal-Imperf-3mp
@@ -282,7 +282,7 @@ v23 עֶ֥רֶב|‘e·reḇ|evening|H6153|N-ms
 v23 וַֽיְהִי־|way·hî-|and there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v23 בֹ֖קֶר|ḇō·qer|morning|H1242|N-ms
 v23 י֥וֹם|yō·wm|day|H3117|N-ms
-v23 חֲמִישִֽׁי׃פ|ḥă·mî·šî|the fifth|H2549|Number-oms
+v23 חֲמִישִֽׁי׃|ḥă·mî·šî|the fifth|H2549|Number-oms
 v24 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v24 אֱלֹהִ֗ים|’ĕ·lō·hîm|And God|H430|N-mp
 v24 תּוֹצֵ֨א|tō·w·ṣê|bring forth|H3318|V-Hifil-Imperf.Jus-3fs
@@ -377,7 +377,7 @@ v29 לָכֶ֜ם|lā·ḵem|you|H0|Prep | 2mp
 v29 אֶת־|’eṯ-|-|H853|DirObjM
 v29 כָּל־|kāl-|every|H3605|N-msc
 v29 עֵ֣שֶׂב׀|‘ê·śeḇ|plant|H6212|N-ms
-v29 זֹרֵ֣עַ|zō·rê·a‘|vvv|H2232|V-Qal-Prtcpl-ms
+v29 זֹרֵ֣עַ|zō·rê·a‘|...|H2232|V-Qal-Prtcpl-ms
 v29 זֶ֗רַע|ze·ra‘|seed-bearing|H2233|N-ms
 v29 אֲשֶׁר֙|’ă·šer|-|H834|Pro-r
 v29 עַל־|‘al-|on|H5921|Prep
@@ -431,4 +431,4 @@ v31 עֶ֥רֶב|‘e·reḇ|evening|H6153|N-ms
 v31 וַֽיְהִי־|way·hî-|and there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v31 בֹ֖קֶר|ḇō·qer|morning|H1242|N-ms
 v31 י֥וֹם|yō·wm|day|H3117|N-msc
-v31 הַשִּׁשִּֽׁי׃פ|haš·šiš·šî|the sixth|H8345|Art | Number-oms
+v31 הַשִּׁשִּֽׁי׃|haš·šiš·šî|the sixth|H8345|Art | Number-oms

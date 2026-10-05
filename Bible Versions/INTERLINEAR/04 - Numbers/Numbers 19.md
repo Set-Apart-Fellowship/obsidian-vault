@@ -23,12 +23,12 @@ v2 אֲדֻמָּ֜ה|’ă·ḏum·māh|red|H122|Adj-fs
 v2 תְּמִימָ֗ה|tə·mî·māh|an unblemished|H8549|Adj-fs
 v2 אֲשֶׁ֤ר|’ă·šer|that|H834|Pro-r
 v2 אֵֽין־|’ên-|has no|H369|Adv
-v2 בָּהּ֙|bāh||H0|Prep | 3fs
+v2 בָּהּ֙|bāh|-|H0|Prep | 3fs
 v2 מ֔וּם|mūm|defect|H3971|N-ms
 v2 אֲשֶׁ֛ר|’ă·šer|-|H834|Pro-r
 v2 לֹא־|lō-|and has never|H3808|Adv-NegPrt
 v2 עָלָ֥ה|‘ā·lāh|been placed|H5927|V-Qal-Perf-3ms
-v2 עָלֶ֖יהָ|‘ā·le·hā||H5921|Prep | 3fs
+v2 עָלֶ֖יהָ|‘ā·le·hā|-|H5921|Prep | 3fs
 v2 עֹֽל׃|‘ōl|under a yoke|H5923|N-ms
 v3 וּנְתַתֶּ֣ם|ū·nə·ṯat·tem|Give|H5414|Conj-w | V-Qal-ConjPerf-2mp
 v3 אֹתָ֔הּ|’ō·ṯāh|-|H853|DirObjM | 3fs
@@ -149,7 +149,7 @@ v11 הַנֹּגֵ֥עַ|han·nō·ḡê·a‘|Whoever touches|H5060|Art | V-Qal
 v11 בְּמֵ֖ת|bə·mêṯ|dead|H4191|Prep-b | V-Qal-Prtcpl-ms
 v11 לְכָל־|lə·ḵāl|any|H3605|Prep-l | N-msc
 v11 נֶ֣פֶשׁ|ne·p̄eš|body|H5315|N-fs
-v11 אָדָ֑ם|’ā·ḏām|vvv|H120|N-ms
+v11 אָדָ֑ם|’ā·ḏām|...|H120|N-ms
 v11 וְטָמֵ֖א|wə·ṭā·mê|will be unclean|H2930|Conj-w | V-Qal-ConjPerf-3ms
 v11 שִׁבְעַ֥ת|šiḇ·‘aṯ|for seven|H7651|Number-msc
 v11 יָמִֽים׃|yā·mîm|days|H3117|N-mp
@@ -197,7 +197,7 @@ v13 טָמֵ֣א|ṭā·mê|unclean|H2931|Adj-ms
 v13 יִהְיֶ֔ה|yih·yeh|He remains|H1961|V-Qal-Imperf-3ms
 v13 ע֖וֹד|‘ō·wḏ|is still on him|H5750|Adv
 v13 טֻמְאָת֥וֹ|ṭum·’ā·ṯōw|and his uncleanness|H2932|N-fsc | 3ms
-v13 בֽוֹ׃|ḇōw||H0|Prep | 3ms
+v13 בֽוֹ׃|ḇōw|-|H0|Prep | 3ms
 v14 זֹ֚את|zōṯ|This|H2063|Pro-fs
 v14 הַתּוֹרָ֔ה|hat·tō·w·rāh|is the law|H8451|Art | N-fs
 v14 אָדָ֖ם|’ā·ḏām|a person|H120|N-ms
@@ -336,11 +336,11 @@ v21 הָעָֽרֶב׃|hā·‘ā·reḇ|evening|H6153|Art | N-ms
 v22 וְכֹ֛ל|wə·ḵōl|Anything|H3605|Conj-w | N-ms
 v22 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v22 יִגַּע־|yig·ga‘-|person touches|H5060|V-Qal-Imperf-3ms
-v22 בּ֥וֹ|bōw||H0|Prep | 3ms
+v22 בּ֥וֹ|bōw|-|H0|Prep | 3ms
 v22 הַטָּמֵ֖א|haṭ·ṭā·mê|the unclean|H2931|Art | Adj-ms
 v22 יִטְמָ֑א|yiṭ·mā|will become unclean|H2930|V-Qal-Imperf-3ms
 v22 וְהַנֶּ֥פֶשׁ|wə·han·ne·p̄eš|and anyone|H5315|Conj-w, Art | N-fs
 v22 הַנֹּגַ֖עַת|han·nō·ḡa·‘aṯ|who touches it|H5060|Art | V-Qal-Prtcpl-fs
 v22 תִּטְמָ֥א|tiṭ·mā|will be unclean|H2930|V-Qal-Imperf-3fs
 v22 עַד־|‘aḏ-|until|H5704|Prep
-v22 הָעָֽרֶב׃פ|hā·‘ā·reḇ|evening|H6153|Art | N-ms
+v22 הָעָֽרֶב׃|hā·‘ā·reḇ|evening|H6153|Art | N-ms

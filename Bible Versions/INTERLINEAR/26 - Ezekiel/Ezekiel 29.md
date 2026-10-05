@@ -40,7 +40,7 @@ v3 בְּת֣וֹךְ|bə·ṯō·wḵ|among|H8432|Prep-b | N-msc
 v3 יְאֹרָ֑יו|yə·’ō·rāw|his rivers|H2975|N-mpc | 3ms
 v3 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
 v3 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v3 לִ֥י|lî||H0|Prep | 1cs
+v3 לִ֥י|lî|-|H0|Prep | 1cs
 v3 יְאֹרִ֖י|yə·’ō·rî|The Nile is mine|H2975|N-msc | 1cs
 v3 וַאֲנִ֥י|wa·’ă·nî|I|H589|Conj-w | Pro-1cs
 v3 עֲשִׂיתִֽנִי׃|‘ă·śî·ṯi·nî|made it myself|H6213|V-Qal-Perf-1cs | 1cs
@@ -106,9 +106,9 @@ v7 וּבְהִֽשָּׁעֲנָ֤ם|ū·ḇə·hiš·šā·‘ă·nām|when t
 v7 עָלֶ֙יךָ֙|‘ā·le·ḵā|on you|H5921|Prep | 2ms
 v7 תִּשָּׁבֵ֔ר|tiš·šā·ḇêr|you broke|H7665|V-Nifal-Imperf-2ms
 v7 וְהַעֲמַדְתָּ֥|wə·ha·‘ă·maḏ·tā|were wrenched|H5975|Conj-w | V-Hifil-ConjPerf-2ms
-v7 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v7 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v7 כָּל־|kāl-|-|H3605|N-msc
-v7 מָתְנָֽיִם׃ס|mā·ṯə·nā·yim|and their backs|H4975|N-md
+v7 מָתְנָֽיִם׃|mā·ṯə·nā·yim|and their backs|H4975|N-md
 v8 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v8 כֹּ֤ה|kōh|this is what|H3541|Adv
 v8 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -163,7 +163,7 @@ v11 וְרֶ֥גֶל|wə·re·ḡel|-|H7272|Conj-w | N-fsc
 v11 בְּהֵמָ֖ה|bə·hê·māh|beast|H929|N-fs
 v11 לֹ֣א|lō|[or]|H3808|Adv-NegPrt
 v11 תַעֲבָר־|ṯa·‘ă·ḇār-|-|H5674|V-Qal-Imperf-3fs
-v11 בָּ֑הּ|bāh||H0|Prep | 3fs
+v11 בָּ֑הּ|bāh|-|H0|Prep | 3fs
 v11 וְלֹ֥א|wə·lō|and|H3808|Conj-w | Adv-NegPrt
 v11 תֵשֵׁ֖ב|ṯê·šêḇ|it will be uninhabited|H3427|V-Qal-Imperf-3fs
 v11 אַרְבָּעִ֥ים|’ar·bā·‘îm|for forty|H705|Number-cp
@@ -189,7 +189,7 @@ v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 מִצְרַ֙יִם֙|miṣ·ra·yim|the Egyptians|H4714|N-proper-fs
 v12 בַּגּוֹיִ֔ם|bag·gō·w·yim|among the nations|H1471|Prep-b, Art | N-mp
 v12 וְֽזֵרִיתִ֖ים|wə·zê·rî·ṯîm|and scatter them|H2219|Conj-w | V-Piel-ConjPerf-1cs | 3mp
-v12 בָּאֲרָצֽוֹת׃פ|bā·’ă·rā·ṣō·wṯ|throughout the countries|H776|Prep-b, Art | N-fp
+v12 בָּאֲרָצֽוֹת׃|bā·’ă·rā·ṣō·wṯ|throughout the countries|H776|Prep-b, Art | N-fp
 v13 כִּ֛י|kî|For|H3588|Conj
 v13 כֹּ֥ה|kōh|this is what|H3541|Adv
 v13 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -248,8 +248,8 @@ v16 וְיָ֣דְע֔וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj
 v16 כִּ֥י|kî|that|H3588|Conj
 v16 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v16 אֲדֹנָ֥י|’ă·ḏō·nāy|am the Lord|H136|N-proper-ms
-v16 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
-v17 וַיְהִ֗י|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v16 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
+v17 וַיְהִ֗י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v17 בְּעֶשְׂרִ֤ים|bə·‘eś·rîm|In the twenty-seventh|H6242|Prep-b | Number-cp
 v17 וָשֶׁ֙בַע֙|wā·še·ḇa‘|...|H7651|Conj-w | Number-fs
 v17 שָׁנָ֔ה|šā·nāh|year|H8141|N-fs
@@ -289,7 +289,7 @@ v18 עַל־|‘al-|for|H5921|Prep
 v18 הָעֲבֹדָ֖ה|hā·‘ă·ḇō·ḏāh|the labor|H5656|Art | N-fs
 v18 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v18 עָבַ֥ד|‘ā·ḇaḏ|they expended|H5647|V-Qal-Perf-3ms
-v18 עָלֶֽיהָ׃ס|‘ā·le·hā|on it|H5921|Prep | 3fs
+v18 עָלֶֽיהָ׃|‘ā·le·hā|on it|H5921|Prep | 3fs
 v19 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v19 כֹּ֤ה|kōh|this is what|H3541|Adv
 v19 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -313,12 +313,12 @@ v19 וְהָיְתָ֥ה|wə·hā·yə·ṯāh|This will be|H1961|Conj-w | V-Qal
 v19 שָׂכָ֖ר|śā·ḵār|the wages|H7939|N-ms
 v19 לְחֵילֽוֹ׃|lə·ḥê·lōw|for his army|H2426|Prep-l | N-msc | 3ms
 v20 פְּעֻלָּתוֹ֙|pə·‘ul·lā·ṯōw|as the reward|H6468|N-fsc | 3ms
-v20 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v20 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v20 עָ֣בַד|‘ā·ḇaḏ|for his labor|H5647|V-Qal-Perf-3ms
-v20 בָּ֔הּ|bāh||H0|Prep | 3fs
+v20 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v20 נָתַ֥תִּי|nā·ṯat·tî|I have given|H5414|V-Qal-Perf-1cs
 v20 ל֖וֹ|lōw|him|H0|Prep | 3ms
-v20 אֶת־|’eṯ-||H853|DirObjM
+v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fsc
 v20 מִצְרָ֑יִם|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
 v20 אֲשֶׁר֙|’ă·šer|because|H834|Pro-r
@@ -326,7 +326,7 @@ v20 עָ֣שׂוּ|‘ā·śū|it was done|H6213|V-Qal-Perf-3cp
 v20 לִ֔י|lî|for Me|H0|Prep | 1cs
 v20 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v20 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v20 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v20 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v21 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v21 הַה֗וּא|ha·hū|In that|H1931|Art | Pro-3ms
 v21 אַצְמִ֤יחַ|’aṣ·mî·aḥ|to sprout|H6779|V-Hifil-Imperf-1cs
@@ -341,4 +341,4 @@ v21 בְּתוֹכָ֑ם|bə·ṯō·w·ḵām|among them|H8432|Prep-b | N-msc |
 v21 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v21 כִּי־|kî-|that|H3588|Conj
 v21 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v21 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v21 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms

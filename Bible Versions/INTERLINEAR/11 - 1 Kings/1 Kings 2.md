@@ -112,7 +112,7 @@ v6 וְלֹֽא־|wə·lō-|and do not|H3808|Conj-w | Adv-NegPrt
 v6 תוֹרֵ֧ד|ṯō·w·rêḏ|go down|H3381|V-Hifil-Imperf.Jus-2ms
 v6 שֵׂיבָת֛וֹ|śê·ḇā·ṯōw|let his gray head|H7872|N-fsc | 3ms
 v6 בְּשָׁלֹ֖ם|bə·šā·lōm|in peace|H7965|Prep-b | N-ms
-v6 שְׁאֹֽל׃ס|šə·’ōl|to Sheol|H7585|N-cs
+v6 שְׁאֹֽל׃|šə·’ōl|to Sheol|H7585|N-cs
 v7 וְלִבְנֵ֨י|wə·liḇ·nê|to the sons|H1121|Conj-w, Prep-l | N-mpc
 v7 בַרְזִלַּ֤י|ḇar·zil·lay|of Barzillai|H1271|N-proper-ms
 v7 הַגִּלְעָדִי֙|hag·gil·‘ā·ḏî|the Gileadite|H1569|Art | N-proper-ms
@@ -134,7 +134,7 @@ v8 עִ֠מְּךָ|‘im·mə·ḵā|[who is] with you|H5973|Prep | 2ms
 v8 שִֽׁמְעִ֨י|šim·‘î|Shimei|H8096|N-proper-ms
 v8 בֶן־|ḇen-|the son|H1121|N-msc
 v8 גֵּרָ֥א|gê·rā|of Gera|H1617|N-proper-ms
-v8 בֶן־|ḇen-|vvv|H1145|N-msc
+v8 בֶן־|ḇen-|...|H1145|N-msc
 v8 הַיְמִינִי֮|hay·mî·nî|the Benjamite|H1145|Art | N-proper-ms
 v8 מִבַּחֻרִים֒|mib·ba·ḥu·rîm|from Bahurim|H980|Prep-m | N-proper-ms
 v8 וְה֤וּא|wə·hū|He|H1931|Conj-w | Pro-3ms
@@ -178,7 +178,7 @@ v10 עִם־|‘im-|with|H5973|Prep
 v10 אֲבֹתָ֑יו|’ă·ḇō·ṯāw|his fathers|H1|N-mpc | 3ms
 v10 וַיִּקָּבֵ֖ר|way·yiq·qā·ḇêr|and was buried|H6912|Conj-w | V-Nifal-ConsecImperf-3ms
 v10 בְּעִ֥יר|bə·‘îr|in the City|H5892|Prep-b | N-fsc
-v10 דָּוִֽד׃פ|dā·wiḏ|of David|H1732|N-proper-ms
+v10 דָּוִֽד׃|dā·wiḏ|of David|H1732|N-proper-ms
 v11 וְהַיָּמִ֗ים|wə·hay·yā·mîm|The length|H3117|Conj-w, Art | N-mp
 v11 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v11 מָלַ֤ךְ|mā·laḵ|reign|H4427|V-Qal-Perf-3ms
@@ -210,7 +210,7 @@ v13 אֲדֹנִיָּ֣הוּ|’ă·ḏō·nî·yā·hū|Now Adonijah|H138|N-
 v13 בֶן־|ḇen-|son|H1121|N-msc
 v13 חַגֵּ֗ית|ḥag·gēṯ|of Haggith|H2294|N-proper-fs
 v13 אֶל־|’el-|to|H413|Prep
-v13 בַּת־|baṯ-|vvv|H1339|Prep
+v13 בַּת־|baṯ-|...|H1339|Prep
 v13 שֶׁ֙בַע֙|še·ḇa‘|Bathsheba|H1339|N-proper-fs
 v13 אֵם־|’êm-|the mother|H517|N-fsc
 v13 שְׁלֹמֹ֔ה|šə·lō·mōh|of Solomon|H8010|N-proper-ms
@@ -229,7 +229,7 @@ v15 וַיֹּ֗אמֶר|way·yō·mer|he said|H559|Conj-w | V-Qal-ConsecImperf-
 v15 אַ֤תְּ|’at|You|H859|Pro-2fs
 v15 יָדַ֙עַתְּ֙|yā·ḏa·‘at|know|H3045|V-Qal-Perf-2fs
 v15 כִּי־|kî-|that|H3588|Conj
-v15 לִי֙|lî|vvv|H0|Prep | 1cs
+v15 לִי֙|lî|...|H0|Prep | 1cs
 v15 הָיְתָ֣ה|hā·yə·ṯāh|was mine|H1961|V-Qal-Perf-3fs
 v15 הַמְּלוּכָ֔ה|ham·mə·lū·ḵāh|the kingship|H4410|Art | N-fs
 v15 וְעָלַ֞י|wə·‘ā·lay|expected|H5921|Conj-w | Prep | 1cs
@@ -240,7 +240,7 @@ v15 פְּנֵיהֶ֖ם|pə·nê·hem|...|H6440|N-mpc | 3mp
 v15 לִמְלֹ֑ךְ|lim·lōḵ|that I should reign|H4427|Prep-l | V-Qal-Inf
 v15 וַתִּסֹּ֤ב|wat·tis·sōḇ|has turned|H5437|Conj-w | V-Qal-ConsecImperf-3fs
 v15 הַמְּלוּכָה֙|ham·mə·lū·ḵāh|but the kingship|H4410|Art | N-fs
-v15 וַתְּהִ֣י|wat·tə·hî||H1961|Conj-w | V-Qal-ConsecImperf-3fs
+v15 וַתְּהִ֣י|wat·tə·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v15 לְאָחִ֔י|lə·’ā·ḥî|to my brother|H251|Prep-l | N-msc | 1cs
 v15 כִּ֥י|kî|for|H3588|Conj
 v15 מֵיְהוָ֖ה|Yah·weh|from the LORD|H3068|Prep-m | N-proper-ms
@@ -276,7 +276,7 @@ v17 אֲבִישַׁ֥ג|’ă·ḇî·šaḡ|Abishag|H49|N-proper-fs
 v17 הַשּׁוּנַמִּ֖ית|haš·šū·nam·mîṯ|the Shunammite|H7767|Art | N-proper-fs
 v17 לְאִשָּֽׁה׃|lə·’iš·šāh|as my wife|H802|Prep-l | N-fs
 v18 וַתֹּ֥אמֶר|wat·tō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v18 בַּת־|baṯ-|vvv|H1339|Prep
+v18 בַּת־|baṯ-|...|H1339|Prep
 v18 שֶׁ֖בַע|še·ḇa‘|Bathsheba|H1339|N-proper-fs
 v18 ט֑וֹב|ṭō·wḇ|Very well|H2896|Adj-ms
 v18 אָנֹכִ֕י|’ā·nō·ḵî|I|H595|Pro-1cs
@@ -285,7 +285,7 @@ v18 עָלֶ֖יךָ|‘ā·le·ḵā|for you|H5921|Prep | 2ms
 v18 אֶל־|’el-|to|H413|Prep
 v18 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v19 וַתָּבֹ֤א|wat·tā·ḇō|went|H935|Conj-w | V-Qal-ConsecImperf-3fs
-v19 בַת־|ḇaṯ-|vvv|H1339|Prep
+v19 בַת־|ḇaṯ-|...|H1339|Prep
 v19 שֶׁ֙בַע֙|še·ḇa‘|So Bathsheba|H1339|N-proper-fs
 v19 אֶל־|’el-|to|H413|Prep
 v19 הַמֶּ֣לֶךְ|ham·me·leḵ|King|H4428|Art | N-ms
@@ -320,7 +320,7 @@ v20 תָּ֖שֶׁב|tā·šeḇ|deny|H7725|V-Hifil-Imperf.Jus-2ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 פָּנָ֑י|pā·nāy|me|H6440|N-mpc | 1cs
 v20 וַיֹּֽאמֶר־|way·yō·mer-|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v20 לָ֤הּ|lāh||H0|Prep | 3fs
+v20 לָ֤הּ|lāh|-|H0|Prep | 3fs
 v20 הַמֶּ֙לֶךְ֙|ham·me·leḵ|the king|H4428|Art | N-ms
 v20 שַׁאֲלִ֣י|ša·’ă·lî|...|H7592|V-Qal-Imp-fs
 v20 אִמִּ֔י|’im·mî|my mother|H517|N-fsc | 1cs
@@ -358,12 +358,12 @@ v22 ה֥וּא|hū|he|H1931|Pro-3ms
 v22 אָחִ֖י|’ā·ḥî|brother|H251|N-msc | 1cs
 v22 הַגָּד֣וֹל|hag·gā·ḏō·wl|is my older|H1419|Art | Adj-ms
 v22 מִמֶּ֑נִּי|mim·men·nî|...|H4480|Prep | 1cs
-v22 וְלוֹ֙|wə·lōw||H0|Conj-w | Prep | 3ms
+v22 וְלוֹ֙|wə·lōw|-|H0|Conj-w | Prep | 3ms
 v22 וּלְאֶבְיָתָ֣ר|ū·lə·’eḇ·yā·ṯār|and for Abiathar|H54|Conj-w, Prep-l | N-proper-ms
 v22 הַכֹּהֵ֔ן|hak·kō·hên|the priest|H3548|Art | N-ms
 v22 וּלְיוֹאָ֖ב|ū·lə·yō·w·’āḇ|and for Joab|H3097|Conj-w, Prep-l | N-proper-ms
 v22 בֶּן־|ben-|son|H1121|N-msc
-v22 צְרוּיָֽה׃פ|ṣə·rū·yāh|of Zeruiah|H6870|N-proper-ms
+v22 צְרוּיָֽה׃|ṣə·rū·yāh|of Zeruiah|H6870|N-proper-ms
 v23 וַיִּשָּׁבַע֙|way·yiš·šā·ḇa‘|swore|H7650|Conj-w | V-Nifal-ConsecImperf-3ms
 v23 הַמֶּ֣לֶךְ|ham·me·leḵ|Then King|H4428|Art | N-ms
 v23 שְׁלֹמֹ֔ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -411,7 +411,7 @@ v25 בֶן־|ḇen-|son|H1121|N-msc
 v25 יְהוֹיָדָ֑ע|yə·hō·w·yā·ḏā‘|of Jehoiada|H3077|N-proper-ms
 v25 וַיִּפְגַּע־|way·yip̄·ga‘-|and he struck down|H6293|Conj-w | V-Qal-ConsecImperf-3ms
 v25 בּ֖וֹ|bōw|Adonijah|H0|Prep | 3ms
-v25 וַיָּמֹֽת׃ס|way·yā·mōṯ|and he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v25 וַיָּמֹֽת׃|way·yā·mōṯ|and he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v26 וּלְאֶבְיָתָ֨ר|ū·lə·’eḇ·yā·ṯār|to Abiathar|H54|Conj-w, Prep-l | N-proper-ms
 v26 הַכֹּהֵ֜ן|hak·kō·hên|the priest|H3548|Art | N-ms
 v26 אָמַ֣ר|’ā·mar|said|H559|V-Qal-Perf-3ms
@@ -459,7 +459,7 @@ v27 דִּבֶּ֛ר|dib·ber|had spoken|H1696|V-Piel-Perf-3ms
 v27 עַל־|‘al-|against|H5921|Prep
 v27 בֵּ֥ית|bêṯ|the house|H1004|N-msc
 v27 עֵלִ֖י|‘ê·lî|of Eli|H5941|N-proper-ms
-v27 בְּשִׁלֹֽה׃פ|bə·ši·lōh|at Shiloh|H7887|Prep-b | N-proper-fs
+v27 בְּשִׁלֹֽה׃|bə·ši·lōh|at Shiloh|H7887|Prep-b | N-proper-fs
 v28 וְהַשְּׁמֻעָה֙|wə·haš·šə·mu·‘āh|When the news|H8052|Conj-w, Art | N-fs
 v28 בָּ֣אָה|bā·’āh|reached|H935|V-Qal-Perf-3fs
 v28 עַד־|‘aḏ-|...|H5704|Prep
@@ -510,7 +510,7 @@ v30 אֹ֣הֶל|’ō·hel|the tent|H168|N-msc
 v30 יְהוָ֗ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v30 וַיֹּ֨אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v30 אֵלָ֜יו|’ê·lāw|to Joab|H413|Prep | 3ms
-v30 כֹּֽה־|kōh-|vvv|H3541|Adv
+v30 כֹּֽה־|kōh-|...|H3541|Adv
 v30 אָמַ֤ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v30 הַמֶּ֙לֶךְ֙|ham·me·leḵ|The king|H4428|Art | N-ms
 v30 צֵ֔א|ṣê|Come out|H3318|V-Qal-Imp-ms
@@ -604,7 +604,7 @@ v34 בְּנָיָ֙הוּ֙|bə·nā·yā·hū|So Benaiah|H1141|N-proper-ms
 v34 בֶּן־|ben-|son|H1121|N-msc
 v34 יְה֣וֹיָדָ֔ע|yə·hō·w·yā·ḏā‘|of Jehoiada|H3077|N-proper-ms
 v34 וַיִּפְגַּע־|way·yip̄·ga‘-|struck down Joab|H6293|Conj-w | V-Qal-ConsecImperf-3ms
-v34 בּ֖וֹ|bōw||H0|Prep | 3ms
+v34 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v34 וַיְמִתֵ֑הוּ|way·mi·ṯê·hū|and killed him|H4191|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
 v34 וַיִּקָּבֵ֥ר|way·yiq·qā·ḇêr|He was buried|H6912|Conj-w | V-Nifal-ConsecImperf-3ms
 v34 בְּבֵית֖וֹ|bə·ḇê·ṯōw|at his own home|H1004|Prep-b | N-msc | 3ms
@@ -642,7 +642,7 @@ v36 תֵצֵ֥א|ṯê·ṣê|go|H3318|V-Qal-Imperf-2ms
 v36 מִשָּׁ֖ם|miš·šām|-|H8033|Prep-m | Adv
 v36 אָ֥נֶה|’ā·neh|anywhere else|H575|Adv
 v36 וָאָֽנָה׃|wā·’ā·nāh|...|H575|Conj-w | Adv
-v37 וְהָיָ֣ה׀|wə·hā·yāh||H1961|Conj-w | V-Qal-ConjPerf-3ms
+v37 וְהָיָ֣ה׀|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v37 בְּי֣וֹם|bə·yō·wm|On the day|H3117|Prep-b | N-ms
 v37 צֵאתְךָ֗|ṣê·ṯə·ḵā|you go out|H3318|V-Qal-Inf | 2ms
 v37 וְעָֽבַרְתָּ֙|wə·‘ā·ḇar·tā|and cross|H5674|Conj-w | V-Qal-ConjPerf-2ms
@@ -673,7 +673,7 @@ v38 וַיֵּ֧שֶׁב|way·yê·šeḇ|lived|H3427|Conj-w | V-Qal-ConsecImper
 v38 שִׁמְעִ֛י|šim·‘î|And Shimei|H8096|N-proper-ms
 v38 בִּירוּשָׁלִַ֖ם|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v38 יָמִ֥ים|yā·mîm|time|H3117|N-mp
-v38 רַבִּֽים׃ס|rab·bîm|for a long|H7227|Adj-mp
+v38 רַבִּֽים׃|rab·bîm|for a long|H7227|Adj-mp
 v39 וַיְהִ֗י|way·hî|however|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v39 מִקֵּץ֙|miq·qêṣ|After|H7093|Prep-m | N-msc
 v39 שָׁלֹ֣שׁ|šā·lōš|three|H7969|Number-fs
@@ -731,7 +731,7 @@ v42 הִשְׁבַּעְתִּ֣יךָ|hiš·ba‘·tî·ḵā|make you swear|H7
 v42 בַֽיהוָ֗ה|Yah·weh|by the LORD|H3068|Prep-b | N-proper-ms
 v42 וָאָעִ֤ד|wā·’ā·‘iḏ|and warn|H5749|Conj-w | V-Hifil-ConsecImperf-1cs
 v42 בְּךָ֙|bə·ḵā|you|H0|Prep | 2ms
-v42 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v42 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v42 בְּי֣וֹם|bə·yō·wm|On the day|H3117|Prep-b | N-msc
 v42 צֵאתְךָ֗|ṣê·ṯə·ḵā|you leave|H3318|V-Qal-Inf | 2ms
 v42 וְהָֽלַכְתָּ֙|wə·hā·laḵ·tā|and go|H1980|Conj-w | V-Qal-ConjPerf-2ms

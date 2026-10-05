@@ -23,7 +23,7 @@ v2 בְּזֹאת֙|bə·zōṯ|on one [condition]|H2063|Prep-b | Pro-fs
 v2 אֶכְרֹ֣ת|’eḵ·rōṯ|I will make [a treaty]|H3772|V-Qal-Imperf-1cs
 v2 לָכֶ֔ם|lā·ḵem|with you|H0|Prep | 2mp
 v2 בִּנְק֥וֹר|bin·qō·wr|that I may put out|H5365|Prep-b | V-Qal-Inf
-v2 לָכֶ֖ם|lā·ḵem|vvv|H0|Prep | 2mp
+v2 לָכֶ֖ם|lā·ḵem|...|H0|Prep | 2mp
 v2 כָּל־|kāl-|everyone's|H3605|N-msc
 v2 עֵ֣ין|‘ên|eye|H5869|N-csc
 v2 יָמִ֑ין|yā·mîn|right|H3225|N-fs
@@ -130,7 +130,7 @@ v8 בְּבָ֑זֶק|bə·ḇā·zeq|at Bezek|H966|Prep-b | N-proper-fs
 v8 וַיִּהְי֤וּ|way·yih·yū|there were|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v8 בְנֵֽי־|ḇə·nê-|Israelites|H1121|N-mpc
 v8 יִשְׂרָאֵל֙|yiś·rā·’êl|...|H3478|N-proper-ms
-v8 שְׁלֹ֣שׁ|šə·lōš|300,000 {}|H7969|Number-fsc
+v8 שְׁלֹ֣שׁ|šə·lōš|300,000|H7969|Number-fsc
 v8 מֵא֣וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v8 אֶ֔לֶף|’e·lep̄|...|H505|Number-ms
 v8 וְאִ֥ישׁ|wə·’îš|men|H376|Conj-w | N-msc
@@ -167,7 +167,7 @@ v10 וַעֲשִׂיתֶ֣ם|wa·‘ă·śî·ṯem|and you can do|H6213|Conj-w
 v10 לָּ֔נוּ|lā·nū|with us|H0|Prep | 1cp
 v10 כְּכָל־|kə·ḵāl-|whatever|H3605|Prep-k | N-msc
 v10 הַטּ֖וֹב|haṭ·ṭō·wḇ|seems good|H2896|Art | Adj-ms
-v10 בְּעֵינֵיכֶֽם׃ס|bə·‘ê·nê·ḵem|to you|H5869|Prep-b | N-cdc | 2mp
+v10 בְּעֵינֵיכֶֽם׃|bə·‘ê·nê·ḵem|to you|H5869|Prep-b | N-cdc | 2mp
 v11 וַיְהִ֣י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v11 מִֽמָּחֳרָ֗ת|mim·mā·ḥo·rāṯ|The next day|H4283|Prep-m | N-fs
 v11 וַיָּ֨שֶׂם|way·yā·śem|organized|H7760|Conj-w | V-Qal-ConsecImperf-3ms
@@ -219,7 +219,7 @@ v13 הַיּ֛וֹם|hay·yō·wm|today|H3117|Art | N-ms
 v13 עָשָֽׂה־|‘ā·śāh-|has worked|H6213|V-Qal-Perf-3ms
 v13 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v13 תְּשׁוּעָ֖ה|tə·šū·‘āh|salvation|H8668|N-fs
-v13 בְּיִשְׂרָאֵֽל׃ס|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | N-proper-ms
+v13 בְּיִשְׂרָאֵֽל׃|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | N-proper-ms
 v14 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v14 שְׁמוּאֵל֙|šə·mū·’êl|Then Samuel|H8050|N-proper-ms
 v14 אֶל־|’el-|to|H413|Prep
@@ -251,7 +251,7 @@ v15 וַיִּשְׂמַ֨ח|way·yiś·maḥ|rejoiced|H8055|Conj-w | V-Qal-Cons
 v15 שָׁ֥ם|šām|...|H8033|Adv
 v15 שָׁא֛וּל|šā·’ūl|and Saul|H7586|N-proper-ms
 v15 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
-v15 אַנְשֵׁ֥י|’an·šê|vvv|H582|N-mpc
+v15 אַנְשֵׁ֥י|’an·šê|...|H582|N-mpc
 v15 יִשְׂרָאֵ֖ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v15 עַד־|‘aḏ-|greatly|H5704|Prep
-v15 מְאֹֽד׃פ|mə·’ōḏ|...|H3966|Adv
+v15 מְאֹֽד׃|mə·’ōḏ|...|H3966|Adv

@@ -162,7 +162,7 @@ v11 ἐν|en|In|G1722|Prep
 v11 αὐτῷ|autō|Him|G846|PPro-DM3S
 v11 ἐν|en|-|G1722|Prep
 v11 ᾧ|hō|-|G3739|RelPro-DMS
-v11 καὶ|kai|vvv|G2532|Conj
+v11 καὶ|kai|...|G2532|Conj
 v11 ἐκληρώθημεν|eklērōthēmen|we were also chosen as God's own|G2820|V-AIP-1P
 v11 προορισθέντες|prooristhentes|having been predestined|G4309|V-APP-NMP
 v11 κατὰ|kata|according to|G2596|Prep
@@ -235,7 +235,7 @@ v15 τοῦτο|touto|...|G3778|DPro-ANS
 v15 κἀγώ|kagō|ever since|G2504|PPro-N1S
 v15 ἀκούσας|akousas|I heard about|G191|V-APA-NMS
 v15 τὴν|tēn|-|G3588|Art-AFS
-v15 καθ’|kath’|vvv|G2596|Prep
+v15 καθ’|kath’|...|G2596|Prep
 v15 ὑμᾶς|hymas|your|G4771|PPro-A2P
 v15 πίστιν|pistin|faith|G4102|N-AFS
 v15 ἐν|en|in|G1722|Prep
@@ -256,7 +256,7 @@ v16 εὐχαριστῶν|eucharistōn|giving thanks|G2168|V-PPA-NMS
 v16 ὑπὲρ|hyper|for|G5228|Prep
 v16 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v16 μνείαν|mneian|remembering you|G3417|N-AFS
-v16 ποιούμενος|poioumenos|vvv|G4160|V-PPM-NMS
+v16 ποιούμενος|poioumenos|...|G4160|V-PPM-NMS
 v16 ἐπὶ|epi|in|G1909|Prep
 v16 τῶν|tōn|-|G3588|Art-GFP
 v16 προσευχῶν|proseuchōn|prayers|G4335|N-GFP
@@ -302,7 +302,7 @@ v18 αὐτοῦ|autou|His|G846|PPro-GM3S
 v18 τίς|tis|-|G5101|IPro-NMS
 v18 ὁ|ho|the|G3588|Art-NMS
 v18 πλοῦτος|ploutos|riches|G4149|N-NMS
-v18 τῆς|tēs|vvv|G3588|Art-GFS
+v18 τῆς|tēs|...|G3588|Art-GFS
 v18 δόξης|doxēs|glorious|G1391|N-GFS
 v18 τῆς|tēs|of|G3588|Art-GFS
 v18 κληρονομίας|klēronomias|inheritance|G2817|N-GFS

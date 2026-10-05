@@ -15,7 +15,7 @@ v2 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v2 נֹתֵ֖ן|nō·ṯên|am giving|H5414|V-Qal-Prtcpl-ms
 v2 לִבְנֵ֣י|liḇ·nê|to the Israelites|H1121|Prep-l | N-mpc
 v2 יִשְׂרָאֵ֑ל|yiś·rā·’êl|...|H3478|N-proper-ms
-v2 אִ֣ישׁ|’îš||H376|N-ms
+v2 אִ֣ישׁ|’îš|-|H376|N-ms
 v2 אֶחָד֩|’e·ḥāḏ|one|H259|Number-ms
 v2 אִ֨ישׁ|’îš|man|H376|N-ms
 v2 אֶחָ֜ד|’e·ḥāḏ|...|H259|Number-ms
@@ -36,7 +36,7 @@ v3 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v3 כֻּלָּ֣ם|kul·lām|All|H3605|N-msc | 3mp
 v3 אֲנָשִׁ֔ים|’ă·nā·šîm|the men|H582|N-mp
 v3 רָאשֵׁ֥י|rā·šê|were leaders|H7218|N-mpc
-v3 בְנֵֽי־|ḇə·nê-|vvv|H1121|N-mpc
+v3 בְנֵֽי־|ḇə·nê-|...|H1121|N-mpc
 v3 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v3 הֵֽמָּה׃|hêm·māh|-|H1992|Pro-3mp
 v4 וְאֵ֖לֶּה|wə·’êl·leh|and these|H428|Conj-w | Pro-cp
@@ -140,8 +140,8 @@ v18 מַה־|mah-|what|H4100|Interrog
 v18 הִ֑וא|hî|is like|H1931|Pro-3fs
 v18 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v18 הָעָם֙|hā·‘ām|whether its people|H5971|Art | N-ms
-v18 הַיֹּשֵׁ֣ב|hay·yō·šêḇ||H3427|Art | V-Qal-Prtcpl-ms
-v18 עָלֶ֔יהָ|‘ā·le·hā||H5921|Prep | 3fs
+v18 הַיֹּשֵׁ֣ב|hay·yō·šêḇ|-|H3427|Art | V-Qal-Prtcpl-ms
+v18 עָלֶ֔יהָ|‘ā·le·hā|-|H5921|Prep | 3fs
 v18 הֶחָזָ֥ק|he·ḥā·zāq|are strong|H2389|Art | Adj-ms
 v18 הוּא֙|hū|...|H1931|Pro-3ms
 v18 הֲרָפֶ֔ה|hă·rā·p̄eh|or weak|H7504|Art | Adj-ms
@@ -154,9 +154,9 @@ v19 הָאָ֗רֶץ|hā·’ā·reṣ|Is the land|H776|Art | N-fs
 v19 אֲשֶׁר־|’ă·šer-|where|H834|Pro-r
 v19 הוּא֙|hū|they|H1931|Pro-3ms
 v19 יֹשֵׁ֣ב|yō·šêḇ|live|H3427|V-Qal-Prtcpl-ms
-v19 בָּ֔הּ|bāh||H0|Prep | 3fs
+v19 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v19 הֲטוֹבָ֥ה|hă·ṭō·w·ḇāh|good|H2896|Art | Adj-fs
-v19 הִ֖וא|hî||H1931|Pro-3fs
+v19 הִ֖וא|hî|-|H1931|Pro-3fs
 v19 אִם־|’im-|or|H518|Conj
 v19 רָעָ֑ה|rā·‘āh|bad|H7451|Adj-fs
 v19 וּמָ֣ה|ū·māh|...|H4100|Conj-w | Interrog
@@ -195,7 +195,7 @@ v21 מִמִּדְבַּר־|mim·miḏ·bar-|from the Wilderness|H4057|Prep-m |
 v21 צִ֥ן|ṣin|of Zin|H6790|N-proper-fs
 v21 עַד־|‘aḏ-|as|H5704|Prep
 v21 רְחֹ֖ב|rə·ḥōḇ|far as Rehob|H7340|N-proper-fs
-v21 לְבֹ֥א|lə·ḇō|vvv|H935|Prep | V-Qal-Inf
+v21 לְבֹ֥א|lə·ḇō|...|H935|Prep | V-Qal-Inf
 v21 חֲמָֽת׃|ḥă·māṯ|toward Lebo-hamath|H2574|N-proper-fs
 v22 וַיַּעֲל֣וּ|way·ya·‘ă·lū|They went up|H5927|Conj-w | V-Qal-ConsecImperf-3mp
 v22 בַנֶּגֶב֮|ḇan·ne·ḡeḇ|through the Negev|H5045|Prep-b, Art | N-proper-fs
@@ -376,7 +376,7 @@ v32 הָעָ֛ם|hā·‘ām|the people|H5971|Art | N-ms
 v32 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v32 רָאִ֥ינוּ|rā·’î·nū|we saw|H7200|V-Qal-Perf-1cp
 v32 בְתוֹכָ֖הּ|ḇə·ṯō·w·ḵāh|there|H8432|Prep-b | N-msc | 3fs
-v32 אַנְשֵׁ֥י|’an·šê|vvv|H582|N-mpc
+v32 אַנְשֵׁ֥י|’an·šê|...|H582|N-mpc
 v32 מִדּֽוֹת׃|mid·dō·wṯ|are great in stature|H4060|N-fp
 v33 וְשָׁ֣ם|wə·šām|there|H8033|Conj-w | Adv
 v33 רָאִ֗ינוּ|rā·’î·nū|We even saw|H7200|V-Qal-Perf-1cp

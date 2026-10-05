@@ -9,7 +9,7 @@ v1 הָעָ֛ם|hā·‘ām|and the people|H5971|Art | N-ms
 v1 כְּאִ֥ישׁ|kə·’îš|man|H376|Prep-k | N-ms
 v1 אֶחָ֖ד|’e·ḥāḏ|as one|H259|Number-ms
 v1 אֶל־|’el-|in|H413|Prep
-v1 יְרוּשָׁלִָֽם׃ס|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
+v1 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v2 וַיָּקָם֩|way·yā·qām|began|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v2 יֵשׁ֨וּעַ|yê·šū·a‘|Then Jeshua|H3442|N-proper-ms
 v2 בֶּן־|ben-|son|H1121|N-msc
@@ -84,7 +84,7 @@ v6 עֹל֖וֹת|‘ō·lō·wṯ|burnt offerings|H5930|N-fp
 v6 לַיהוָ֑ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v6 וְהֵיכַ֥ל|wə·hê·ḵal|{although the foundation} of the temple|H1964|Conj-w | N-msc
 v6 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v6 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
+v6 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v6 יֻסָּֽד׃|yus·sāḏ|had not been laid|H3245|V-Pual-Perf-3ms
 v7 וַיִּ֨תְּנוּ־|way·yit·tə·nū-|They gave|H5414|Conj-w | V-Qal-ConsecImperf-3mp
 v7 כֶ֔סֶף|ḵe·sep̄|money|H3701|N-ms
@@ -107,7 +107,7 @@ v7 כְּרִשְׁי֛וֹן|kə·riš·yō·wn|as authorized|H7558|Prep-k | N-
 v7 כּ֥וֹרֶשׁ|kō·w·reš|by Cyrus|H3566|N-proper-ms
 v7 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v7 פָּרַ֖ס|pā·ras|of Persia|H6539|N-proper-fs
-v7 עֲלֵיהֶֽם׃פ|‘ă·lê·hem|...|H5921|Prep | 3mp
+v7 עֲלֵיהֶֽם׃|‘ă·lê·hem|...|H5921|Prep | 3mp
 v8 וּבַשָּׁנָ֣ה|ū·ḇaš·šā·nāh|year|H8141|Conj-w, Prep-b, Art | N-fs
 v8 הַשֵּׁנִ֗ית|haš·šê·nîṯ|of the second|H8145|Art | Number-ofs
 v8 לְבוֹאָ֞ם|lə·ḇō·w·’ām|after they had arrived|H935|Prep-l | V-Qal-Inf | 3mp
@@ -143,7 +143,7 @@ v8 לְנַצֵּ֖חַ|lə·naṣ·ṣê·aḥ|to supervise|H5329|Prep-l | V-Pi
 v8 עַל־|‘al-|...|H5921|Prep
 v8 מְלֶ֥אכֶת|mə·le·ḵeṯ|the construction|H4399|N-fsc
 v8 בֵּית־|bêṯ-|of the house|H1004|N-msc
-v8 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v8 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v9 וַיַּעֲמֹ֣ד|way·ya·‘ă·mōḏ|joined|H5975|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יֵשׁ֡וּעַ|yê·šū·a‘|So Jeshua|H3442|N-proper-ms
 v9 בָּנָ֣יו|bā·nāw|and his sons|H1121|N-mpc | 3ms
@@ -206,7 +206,7 @@ v11 לַֽיהוָ֔ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v11 עַ֖ל|‘al|because {the foundation}|H5921|Prep
 v11 הוּסַ֥ד|hū·saḏ|had been laid|H3245|V-Hofal-Perf-3ms
 v11 בֵּית־|bêṯ-|of the house|H1004|N-msc
-v11 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v11 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v12 וְרַבִּ֡ים|wə·rab·bîm|But many|H7227|Conj-w | Adj-mp
 v12 מֵהַכֹּהֲנִ֣ים|mê·hak·kō·hă·nîm|priests|H3548|Prep-m, Art | N-mp
 v12 וְהַלְוִיִּם֩|wə·hal·wî·yim|Levites|H3881|Conj-w, Art | N-proper-mp
@@ -233,7 +233,7 @@ v12 קֽוֹל׃|qō·wl|joyfully|H6963|N-ms
 v13 וְאֵ֣ין|wə·’ên|could not|H369|Conj-w | Adv
 v13 הָעָ֗ם|hā·‘ām|The people|H5971|Art | N-ms
 v13 מַכִּירִים֙|mak·kî·rîm|distinguish|H5234|V-Hifil-Prtcpl-mp
-v13 ק֚וֹל|qō·wl|vvv|H6963|N-msc
+v13 ק֚וֹל|qō·wl|...|H6963|N-msc
 v13 תְּרוּעַ֣ת|tə·rū·‘aṯ|the shouts|H8643|N-fsc
 v13 הַשִּׂמְחָ֔ה|haś·śim·ḥāh|of joy|H8057|Art | N-fs
 v13 לְק֖וֹל|lə·qō·wl|from the sound|H6963|Prep-l | N-msc
@@ -247,4 +247,4 @@ v13 גְדוֹלָ֔ה|ḡə·ḏō·w·lāh|...|H1419|Adj-fs
 v13 וְהַקּ֥וֹל|wə·haq·qō·wl|And the sound|H6963|Conj-w, Art | N-ms
 v13 נִשְׁמַ֖ע|niš·ma‘|was heard|H8085|V-Nifal-Perf-3ms
 v13 עַד־|‘aḏ-|from|H5704|Prep
-v13 לְמֵרָחֽוֹק׃פ|lə·mê·rā·ḥō·wq|afar|H7350|Prep-l, Prep-m | Adj-ms
+v13 לְמֵרָחֽוֹק׃|lə·mê·rā·ḥō·wq|afar|H7350|Prep-l, Prep-m | Adj-ms

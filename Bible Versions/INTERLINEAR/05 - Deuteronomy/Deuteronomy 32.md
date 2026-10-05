@@ -46,7 +46,7 @@ v5 מוּמָ֑ם|mū·mām|the blemish [on them is]|H3971|N-msc | 3mp
 v5 דּ֥וֹר|dō·wr|generation|H1755|N-ms
 v5 עִקֵּ֖שׁ|‘iq·qêš|but of a perverse|H6141|Adj-ms
 v5 וּפְתַלְתֹּֽל׃|ū·p̄ə·ṯal·tōl|and crooked|H6618|Conj-w | Adj-ms
-v6 הֲ־|hă-||H0|Interrog
+v6 הֲ־|hă-|-|H0|Interrog
 v6 לַיְהוָה֙|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
 v6 תִּגְמְלוּ־|tiḡ·mə·lū-|how you repay|H1580|V-Qal-Imperf-2mp
 v6 זֹ֔את|zōṯ|Is this|H2063|Pro-fs
@@ -208,9 +208,9 @@ v20 ד֤וֹר|ḏō·wr|generation|H1755|N-msc
 v20 תַּהְפֻּכֹת֙|tah·pu·ḵōṯ|they are a perverse|H8419|N-fp
 v20 הֵ֔מָּה|hêm·māh|...|H1992|Pro-3mp
 v20 בָּנִ֖ים|bā·nîm|children|H1121|N-mp
-v20 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v20 לֹא־|lō-|...|H3808|Adv-NegPrt
 v20 אֵמֻ֥ן|’ê·mun|of unfaithfulness|H529|N-ms
-v20 בָּֽם׃|bām||H0|Prep | 3mp
+v20 בָּֽם׃|bām|-|H0|Prep | 3mp
 v21 הֵ֚ם|hêm|They|H1992|Pro-3mp
 v21 קִנְא֣וּנִי|qin·’ū·nî|have provoked My jealousy|H7065|V-Piel-Perf-3cp | 1cs
 v21 בְלֹא־|ḇə·lō-|by [that which is] not|H3808|Prep-b | Adv-NegPrt
@@ -362,7 +362,7 @@ v35 י֣וֹם|yō·wm|their day|H3117|N-msc
 v35 אֵידָ֔ם|’ê·ḏām|of disaster|H343|N-msc | 3mp
 v35 וְחָ֖שׁ|wə·ḥāš|is coming quickly|H2363|Conj-w | V-Qal-ConjPerf-3ms
 v35 עֲתִדֹ֥ת|‘ă·ṯi·ḏōṯ|and their doom|H6264|Adj-fp
-v35 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v35 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v36 כִּֽי־|kî-|For|H3588|Conj
 v36 יָדִ֤ין|yā·ḏîn|will vindicate|H1777|V-Qal-Imperf-3ms
 v36 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
@@ -459,7 +459,7 @@ v43 יָשִׁ֣יב|yā·šîḇ|He will take|H7725|V-Hifil-Imperf-3ms
 v43 לְצָרָ֔יו|lə·ṣā·rāw|on His adversaries [and repay those who hate Him]|H6862|Prep-l | N-mpc | 3ms
 v43 וְכִפֶּ֥ר|wə·ḵip·per|He will cleanse|H3722|Conj-w | V-Piel-ConjPerf-3ms
 v43 אַדְמָת֖וֹ|’aḏ·mā·ṯōw|His land|H127|N-fsc | 3ms
-v43 עַמּֽוֹ׃פ|‘am·mōw|[and] His people|H5971|N-msc | 3ms
+v43 עַמּֽוֹ׃|‘am·mōw|[and] His people|H5971|N-msc | 3ms
 v44 וַיָּבֹ֣א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v44 מֹשֶׁ֗ה|mō·šeh|Then Moses|H4872|N-proper-ms
 v44 וַיְדַבֵּ֛ר|way·ḏab·bêr|and recited|H1696|Conj-w | V-Piel-ConsecImperf-3ms
@@ -527,7 +527,7 @@ v47 עֹבְרִ֧ים|‘ō·ḇə·rîm|are crossing|H5674|V-Qal-Prtcpl-mp
 v47 אֶת־|’eṯ-|-|H853|DirObjM
 v47 הַיַּרְדֵּ֛ן|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
 v47 שָׁ֖מָּה|šām·māh|...|H8033|Adv | 3fs
-v47 לְרִשְׁתָּֽהּ׃פ|lə·riš·tāh|to possess|H3423|Prep-l | V-Qal-Inf | 3fs
+v47 לְרִשְׁתָּֽהּ׃|lə·riš·tāh|to possess|H3423|Prep-l | V-Qal-Inf | 3fs
 v48 וַיְדַבֵּ֤ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v48 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v48 אֶל־|’el-|to|H413|Prep
@@ -612,4 +612,4 @@ v52 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v52 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v52 נֹתֵ֖ן|nō·ṯên|am giving|H5414|V-Qal-Prtcpl-ms
 v52 לִבְנֵ֥י|liḇ·nê|the Israelites|H1121|Prep-l | N-mpc
-v52 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|...|H3478|N-proper-ms
+v52 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms

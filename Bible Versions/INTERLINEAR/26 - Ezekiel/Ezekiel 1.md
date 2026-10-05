@@ -76,7 +76,7 @@ v6 לְאֶחָ֑ת|lə·’e·ḥāṯ|but each|H259|Prep-l | Number-fs
 v6 וְאַרְבַּ֥ע|wə·’ar·ba‘|and four|H702|Conj-w | Number-fs
 v6 כְּנָפַ֖יִם|kə·nā·p̄a·yim|wings|H3671|N-fd
 v6 לְאַחַ֥ת|lə·’a·ḥaṯ|...|H259|Prep-l | Number-fs
-v6 לָהֶֽם׃|lā·hem||H0|Prep | 3mp
+v6 לָהֶֽם׃|lā·hem|-|H0|Prep | 3mp
 v7 וְרַגְלֵיהֶ֖ם|wə·raḡ·lê·hem|Their legs|H7272|Conj-w | N-fdc | 3mp
 v7 רֶ֣גֶל|re·ḡel|of their feet|H7272|N-fs
 v7 יְשָׁרָ֑ה|yə·šā·rāh|were straight|H3477|Adj-fs
@@ -213,7 +213,7 @@ v17 יִסַּ֖בּוּ|yis·sab·bū|pivoting|H5437|V-Nifal-Imperf-3mp
 v17 בְּלֶכְתָּֽן׃|bə·leḵ·tān|as they moved|H1980|Prep-b | V-Qal-Inf | 3fp
 v18 וְגַ֨בֵּיהֶ֔ן|wə·ḡab·bê·hen|Their rims|H1354|Conj-w | N-cpc | 3fp
 v18 וְגֹ֥בַהּ|wə·ḡō·ḇah|were high|H1363|Conj-w | N-ms
-v18 לָהֶ֖ם|lā·hem||H0|Prep-l | Pro-3mp
+v18 לָהֶ֖ם|lā·hem|-|H0|Prep-l | Pro-3mp
 v18 וְיִרְאָ֣ה|wə·yir·’āh|and awesome|H3374|Conj-w | N-fs
 v18 לָהֶ֑ם|lā·hem|...|H0|Prep-l | Pro-3mp
 v18 וְגַבֹּתָ֗ם|wə·ḡab·bō·ṯām|rims|H1354|Conj-w | N-cpc | 3mp
@@ -264,8 +264,8 @@ v21 ר֥וּחַ|rū·aḥ|the spirit|H7307|N-csc
 v21 הַחַיָּ֖ה|ha·ḥay·yāh|of the living creatures|H2416|Art | N-fs
 v21 בָּאוֹפַנִּֽים׃|bā·’ō·w·p̄an·nîm|was in the wheels|H212|Prep-b, Art | N-mp
 v22 וּדְמ֞וּת|ū·ḏə·mūṯ|[was] the likeness|H1823|Conj-w | N-fs
-v22 עַל־|‘al-||H5921|Prep
-v22 רָאשֵׁ֤י|rā·šê||H7218|N-mpc
+v22 עַל־|‘al-|-|H5921|Prep
+v22 רָאשֵׁ֤י|rā·šê|-|H7218|N-mpc
 v22 הַחַיָּה֙|ha·ḥay·yāh|of the living creatures|H2416|Art | N-fs
 v22 רָקִ֔יעַ|rā·qî·a‘|expanse|H7549|N-ms
 v22 כְּעֵ֖ין|kə·‘ên|gleaming|H5869|Prep-k | N-csc
@@ -282,15 +282,15 @@ v23 יְשָׁר֔וֹת|yə·šā·rō·wṯ|stretched out|H3477|Adj-fp
 v23 אִשָּׁ֖ה|’iš·šāh|one|H802|N-fs
 v23 אֶל־|’el-|toward|H413|Prep
 v23 אֲחוֹתָ֑הּ|’ă·ḥō·w·ṯāh|another|H269|N-fsc | 3fs
-v23 לְאִ֗ישׁ|lə·’îš||H376|Prep-l | N-ms
-v23 שְׁתַּ֤יִם|šə·ta·yim||H8147|Number-fd
-v23 מְכַסּוֹת֙|mə·ḵas·sō·wṯ||H3680|V-Piel-Prtcpl-fp
-v23 לָהֵ֔נָּה|lā·hên·nāh||H0|Prep-l | Pro-3fp
+v23 לְאִ֗ישׁ|lə·’îš|-|H376|Prep-l | N-ms
+v23 שְׁתַּ֤יִם|šə·ta·yim|-|H8147|Number-fd
+v23 מְכַסּוֹת֙|mə·ḵas·sō·wṯ|-|H3680|V-Piel-Prtcpl-fp
+v23 לָהֵ֔נָּה|lā·hên·nāh|-|H0|Prep-l | Pro-3fp
 v23 וּלְאִ֗ישׁ|ū·lə·’îš|Each one|H376|Conj-w, Prep-l | N-ms
 v23 שְׁתַּ֤יִם|šə·ta·yim|also had two [wings]|H8147|Number-fd
 v23 מְכַסּוֹת֙|mə·ḵas·sō·wṯ|covering|H3680|V-Piel-Prtcpl-fp
-v23 לָהֵ֔נָּה|lā·hên·nāh||H0|Prep-l | Pro-3fp
-v23 אֵ֖ת|’êṯ||H853|DirObjM
+v23 לָהֵ֔נָּה|lā·hên·nāh|-|H0|Prep-l | Pro-3fp
+v23 אֵ֖ת|’êṯ|-|H853|DirObjM
 v23 גְּוִיֹּתֵיהֶֽם׃|gə·wî·yō·ṯê·hem|its body|H1472|N-fpc | 3mp
 v24 וָאֶשְׁמַ֣ע|wā·’eš·ma‘|I heard|H8085|Conj-w | V-Qal-ConsecImperf-1cs
 v24 אֶת־|’eṯ-|-|H853|DirObjM
@@ -355,16 +355,16 @@ v27 רָאִ֙יתִי֙|rā·’î·ṯî|I saw|H7200|V-Qal-Perf-1cs
 v27 כְּמַרְאֵה־|kə·mar·’êh-|what looked|H4758|Prep-k | N-msc
 v27 אֵ֔שׁ|’êš|like fire|H784|N-cs
 v27 וְנֹ֥גַֽהּ|wə·nō·ḡah|and brilliant light|H5051|Conj-w | N-fs
-v27 ל֖וֹ|lōw||H0|Prep | 3ms
+v27 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v27 סָבִֽיב׃|sā·ḇîḇ|surrounded Him|H5439|Adv
 v28 כְּמַרְאֵ֣ה|kə·mar·’êh|The appearance|H4758|Prep-k | N-msc
 v28 הַקֶּ֡שֶׁת|haq·qe·šeṯ|of a rainbow|H7198|Art | N-fs
-v28 אֲשֶׁר֩|’ă·šer||H834|Pro-r
-v28 יִֽהְיֶ֨ה|yih·yeh||H1961|V-Qal-Imperf-3ms
+v28 אֲשֶׁר֩|’ă·šer|-|H834|Pro-r
+v28 יִֽהְיֶ֨ה|yih·yeh|-|H1961|V-Qal-Imperf-3ms
 v28 בֶעָנָ֜ן|ḇe·‘ā·nān|in a cloud|H6051|Prep-b, Art | N-ms
 v28 בְּי֣וֹם|bə·yō·wm|day|H3117|Prep-b | N-msc
 v28 הַגֶּ֗שֶׁם|hag·ge·šem|on a rainy|H1653|Art | N-ms
-v28 כֵּ֣ן|kên||H3651|Adv
+v28 כֵּ֣ן|kên|-|H3651|Adv
 v28 מַרְאֵ֤ה|mar·’êh|was like that|H4758|N-msc
 v28 הַנֹּ֙גַהּ֙|han·nō·ḡah|of the brilliant light|H5051|Art | N-fs
 v28 סָבִ֔יב|sā·ḇîḇ|all around Him|H5439|Adv
@@ -379,4 +379,4 @@ v28 עַל־|‘al-|facedown|H5921|Prep
 v28 פָּנַ֔י|pā·nay|...|H6440|N-mpc | 1cs
 v28 וָאֶשְׁמַ֖ע|wā·’eš·ma‘|and heard|H8085|Conj-w | V-Qal-ConsecImperf-1cs
 v28 ק֥וֹל|qō·wl|a voice|H6963|N-ms
-v28 מְדַבֵּֽר׃ס|mə·ḏab·bêr|speaking|H1696|V-Piel-Prtcpl-ms
+v28 מְדַבֵּֽר׃|mə·ḏab·bêr|speaking|H1696|V-Piel-Prtcpl-ms

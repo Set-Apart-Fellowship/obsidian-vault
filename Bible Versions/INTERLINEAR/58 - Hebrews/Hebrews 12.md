@@ -60,13 +60,13 @@ v3 εἰς|eis|...|G1519|Prep
 v3 ἑαυτὸν|heauton|...|G1438|RefPro-AM3S
 v3 ἀντιλογίαν|antilogian|hostility|G485|N-AFS
 v3 ἵνα|hina|so that|G2443|Conj
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 κάμητε|kamēte|you will not grow weary|G2577|V-ASA-2P
 v3 ταῖς|tais|...|G3588|Art-DFP
 v3 ψυχαῖς|psychais|...|G5590|N-DFP
 v3 ὑμῶν|hymōn|...|G4771|PPro-G2P
 v3 ἐκλυόμενοι|eklyomenoi|[and] lose heart|G1590|V-PPM/P-NMP
-v4 Οὔπω|Oupō|vvv|G3768|Adv
+v4 Οὔπω|Oupō|...|G3768|Adv
 v4 μέχρις|mechris|to the point of|G3360|Prep
 v4 αἵματος|haimatos|shedding your blood|G129|N-GNS
 v4 ἀντικατέστητε|antikatestēte|you have not yet resisted|G478|V-AIA-2P
@@ -118,7 +118,7 @@ v7 τίς|tis|what|G5101|IPro-NMS
 v7 γὰρ|gar|For|G1063|Conj
 v7 υἱὸς|huios|son|G5207|N-NMS
 v7 ὃν|hon|-|G3739|RelPro-AMS
-v7 οὐ|ou|vvv|G3756|Adv
+v7 οὐ|ou|...|G3756|Adv
 v7 παιδεύει|paideuei|is not disciplined|G3811|V-PIA-3S
 v7 πατήρ|patēr|[by his] father|G3962|N-NMS
 v8 εἰ|ei|If|G1487|Conj
@@ -128,7 +128,7 @@ v8 ἐστε|este|you do not experience|G1510|V-PIA-2P
 v8 παιδείας|paideias|discipline|G3809|N-GFS
 v8 ἧς|hēs|like|G3739|RelPro-GFS
 v8 μέτοχοι|metochoi|else|G3353|Adj-NMP
-v8 γεγόνασιν|gegonasin|vvv|G1096|V-RIA-3P
+v8 γεγόνασιν|gegonasin|...|G1096|V-RIA-3P
 v8 πάντες|pantes|everyone|G3956|Adj-NMP
 v8 ἄρα|ara|then|G686|Conj
 v8 νόθοι|nothoi|illegitimate children|G3541|Adj-NMP
@@ -139,9 +139,9 @@ v8 ἐστε|este|you are|G1510|V-PIA-2P
 v9 εἶτα|eita|Furthermore|G1534|Adv
 v9 τοὺς|tous|-|G3588|Art-AMP
 v9 μὲν|men|...|G3303|Conj
-v9 τῆς|tēs|vvv|G3588|Art-GFS
+v9 τῆς|tēs|...|G3588|Art-GFS
 v9 σαρκὸς|sarkos|earthly|G4561|N-GFS
-v9 ἡμῶν|hēmōn|vvv|G1473|PPro-G1P
+v9 ἡμῶν|hēmōn|...|G1473|PPro-G1P
 v9 πατέρας|pateras|fathers|G3962|N-AMP
 v9 εἴχομεν|eichomen|we have all had|G2192|V-IIA-1P
 v9 παιδευτὰς|paideutas|who disciplined [us]|G3810|N-AMP
@@ -158,8 +158,8 @@ v9 τῶν|tōn|of [our]|G3588|Art-GNP
 v9 πνευμάτων|pneumatōn|spirits|G4151|N-GNP
 v9 καὶ|kai|and|G2532|Conj
 v9 ζήσομεν|zēsomen|live|G2198|V-FIA-1P
-v10 Οἱ|Hoi|vvv|G3588|Art-NMP
-v10 μὲν|men|vvv|G3303|Conj
+v10 Οἱ|Hoi|...|G3588|Art-NMP
+v10 μὲν|men|...|G3303|Conj
 v10 γὰρ|gar|-|G1063|Conj
 v10 πρὸς|pros|for|G4314|Prep
 v10 ὀλίγας|oligas|a short|G3641|Adj-AFP
@@ -180,7 +180,7 @@ v10 μεταλαβεῖν|metalabein|we may share|G3335|V-ANA
 v10 τῆς|tēs|-|G3588|Art-GFS
 v10 ἁγιότητος|hagiotētos|holiness|G41|N-GFS
 v10 αὐτοῦ|autou|in His|G846|PPro-GM3S
-v11 πᾶσα|pasa|vvv|G3956|Adj-NFS
+v11 πᾶσα|pasa|...|G3956|Adj-NFS
 v11 δὲ*|de|-|G1161|Conj
 v11 παιδεία|paideia|discipline|G3809|N-NFS
 v11 πρὸς|pros|at|G4314|Prep
@@ -190,7 +190,7 @@ v11 παρὸν|paron|time|G3918|V-PPA-ANS
 v11 οὐ|ou|No|G3756|Adv
 v11 δοκεῖ|dokei|seems|G1380|V-PIA-3S
 v11 χαρᾶς|charas|enjoyable|G5479|N-GFS
-v11 εἶναι|einai|vvv|G1510|V-PNA
+v11 εἶναι|einai|...|G1510|V-PNA
 v11 ἀλλὰ|alla|but|G235|Conj
 v11 λύπης|lypēs|painful|G3077|N-GFS
 v11 ὕστερον|hysteron|Later on|G5305|Adv
@@ -288,7 +288,7 @@ v17 τὴν|tēn|the|G3588|Art-AFS
 v17 εὐλογίαν|eulogian|blessing|G2129|N-AFS
 v17 ἀπεδοκιμάσθη|apedokimasthē|he was rejected|G593|V-AIP-3S
 v17 μετανοίας|metanoias|for repentance|G3341|N-GFS
-v17 γὰρ|gar|vvv|G1063|Conj
+v17 γὰρ|gar|...|G1063|Conj
 v17 τόπον|topon|ground|G5117|N-AMS
 v17 οὐχ|ouch|no|G3756|Adv
 v17 εὗρεν|heuren|He could find|G2147|V-AIA-3S
@@ -297,7 +297,7 @@ v17 μετὰ|meta|with|G3326|Prep
 v17 δακρύων|dakryōn|tears|G1144|N-GNP
 v17 ἐκζητήσας|ekzētēsas|he sought|G1567|V-APA-NMS
 v17 αὐτήν|autēn|[the blessing]|G846|PPro-AF3S
-v18 Οὐ|Ou|vvv|G3756|Adv
+v18 Οὐ|Ou|...|G3756|Adv
 v18 γὰρ|gar|For|G1063|Conj
 v18 προσεληλύθατε|proselēlythate|you have not come to|G4334|V-RIA-2P
 v18 ψηλαφωμένῳ|psēlaphōmenō|[ a mountain that ] can be touched|G5584|V-PPM/P-DNS
@@ -324,7 +324,7 @@ v19 μὴ|mē|no further|G3361|Adv
 v19 προστεθῆναι|prostethēnai|be spoken|G4369|V-ANP
 v19 αὐτοῖς|autois|-|G846|PPro-DM3P
 v19 λόγον|logon|word|G3056|N-AMS
-v20 οὐκ|ouk|vvv|G3756|Adv
+v20 οὐκ|ouk|...|G3756|Adv
 v20 ἔφερον|epheron|they could not bear|G5342|V-IIA-3P
 v20 γὰρ|gar|For|G1063|Conj
 v20 τὸ|to|what|G3588|Art-ANS
@@ -389,7 +389,7 @@ v24 παρὰ|para|than|G3844|Prep
 v24 τὸν|ton|[the blood] of|G3588|Art-AMS
 v24 Ἅβελ|Habel|Abel|G6|N-AMS
 v25 Βλέπετε|Blepete|See to it that|G991|V-PMA-2P
-v25 μὴ|mē|vvv|G3361|Adv
+v25 μὴ|mē|...|G3361|Adv
 v25 παραιτήσησθε|paraitēsēsthe|you do not refuse|G3868|V-ASM-2P
 v25 τὸν|ton|Him who|G3588|Art-AMS
 v25 λαλοῦντα|lalounta|speaks|G2980|V-PPA-AMS
@@ -422,7 +422,7 @@ v26 νῦν|nyn|now|G3568|Adv
 v26 δὲ|de|but|G1161|Conj
 v26 ἐπήγγελται|epēngeltai|He has promised|G1861|V-RIM/P-3S
 v26 λέγων|legōn|-|G3004|V-PPA-NMS
-v26 Ἔτι|Eti|vvv|G2089|Adv
+v26 Ἔτι|Eti|...|G2089|Adv
 v26 ἅπαξ|hapax|Once more|G530|Adv
 v26 ἐγὼ|egō|I|G1473|PPro-N1S
 v26 σείσω|seisō|will shake|G4579|V-FIA-1S
@@ -436,7 +436,7 @@ v26 τὸν|ton|-|G3588|Art-AMS
 v26 οὐρανόν|ouranon|heaven|G3772|N-AMS
 v27 τὸ|to|The [words]|G3588|Art-NNS
 v27 δὲ|de|-|G1161|Conj
-v27 Ἔτι|Eti|vvv|G2089|Adv
+v27 Ἔτι|Eti|...|G2089|Adv
 v27 ἅπαξ|hapax|Once more|G530|Adv
 v27 δηλοῖ|dēloi|signify|G1213|V-PIA-3S
 v27 τὴν|tēn|the|G3588|Art-AFS
@@ -448,7 +448,7 @@ v27 πεποιημένων|pepoiēmenōn|created things|G4160|V-RPM/P-GNP
 v27 ἵνα|hina|so that|G2443|Conj
 v27 μείνῃ|meinē|may remain|G3306|V-ASA-3S
 v27 τὰ|ta|the|G3588|Art-NNP
-v27 μὴ|mē|vvv|G3361|Adv
+v27 μὴ|mē|...|G3361|Adv
 v27 σαλευόμενα|saleuomena|unshakable|G4531|V-PPM/P-NNP
 v28 Διὸ|Dio|Therefore|G1352|Conj
 v28 βασιλείαν|basileian|kingdom|G932|N-AFS

@@ -19,7 +19,7 @@ v1 מְבַקֵּ֖שׁ|mə·ḇaq·qêš|he wants to take|H1245|V-Piel-Prtcpl-m
 v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 נַפְשִֽׁי׃|nap̄·šî|my life|H5315|N-fsc | 1cs
 v2 וַיֹּ֨אמֶר|way·yō·mer|Jonathan replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v2 ל֣וֹ|lōw||H0|Prep | 3ms
+v2 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v2 חָלִילָה֮|ḥā·lî·lāh|Far from it|H2486|Interjection | 3fs
 v2 לֹ֣א|lō|You will not|H3808|Adv-NegPrt
 v2 תָמוּת֒|ṯā·mūṯ|die|H4191|V-Qal-Imperf-2ms
@@ -81,7 +81,7 @@ v4 מַה־|mah-|Whatever|H4100|Interrog
 v4 תֹּאמַ֥ר|tō·mar|desire|H559|V-Qal-Imperf-3fs
 v4 נַפְשְׁךָ֖|nap̄·šə·ḵā|you|H5315|N-fsc | 2ms
 v4 וְאֶֽעֱשֶׂה־|wə·’e·‘ĕ·śeh-|I will do|H6213|Conj-w | V-Qal-ConjImperf.h-1cs
-v4 לָּֽךְ׃פ|lāḵ|for you|H0|Prep | 2fs
+v4 לָּֽךְ׃|lāḵ|for you|H0|Prep | 2fs
 v5 וַיֹּ֨אמֶר|way·yō·mer|told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v5 דָּוִ֜ד|dā·wiḏ|So David|H1732|N-proper-ms
 v5 אֶל־|’el-|...|H413|Prep
@@ -111,7 +111,7 @@ v6 נִשְׁאַ֨ל|niš·’al|...|H7592|V-Nifal-Perf-3ms
 v6 מִמֶּ֤נִּי|mim·men·nî|my [permission]|H4480|Prep | 1cs
 v6 דָוִד֙|ḏā·wiḏ|David|H1732|N-proper-ms
 v6 לָרוּץ֙|lā·rūṣ|to hurry|H7323|Prep-l | V-Qal-Inf
-v6 בֵּֽית־|bêṯ-|vvv|H1035|Prep
+v6 בֵּֽית־|bêṯ-|...|H1035|Prep
 v6 לֶ֣חֶם|le·ḥem|to Bethlehem|H1035|N-proper-fs
 v6 עִיר֔וֹ|‘î·rōw|his hometown|H5892|N-fsc | 3ms
 v6 כִּ֣י|kî|because|H3588|Conj
@@ -156,7 +156,7 @@ v8 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
 v8 אָבִ֖יךָ|’ā·ḇî·ḵā|your father|H1|N-msc | 2ms
 v8 לָמָּה־|lām·māh-|why|H4100|Interrog
 v8 זֶּ֥ה|zeh|...|H2088|Pro-ms
-v8 תְבִיאֵֽנִי׃פ|ṯə·ḇî·’ê·nî|should you bring me|H935|V-Hifil-Imperf-2ms | 1cs
+v8 תְבִיאֵֽנִי׃|ṯə·ḇî·’ê·nî|should you bring me|H935|V-Hifil-Imperf-2ms | 1cs
 v9 וַיֹּ֥אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יְהוֹנָתָ֖ן|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
 v9 חָלִ֣ילָה|ḥā·lî·lāh|Never|H2486|Interjection | 3fs
@@ -175,7 +175,7 @@ v9 עָלֶ֔יךָ|‘ā·le·ḵā|against you|H5921|Prep | 2ms
 v9 וְלֹ֥א|wə·lō|would I not|H3808|Conj-w | Adv-NegPrt
 v9 אֹתָ֖הּ|’ō·ṯāh|-|H853|DirObjM | 3fs
 v9 אַגִּ֥יד|’ag·gîḏ|tell|H5046|V-Hifil-Imperf-1cs
-v9 לָֽךְ׃ס|lāḵ|you|H0|Prep | 2fs
+v9 לָֽךְ׃|lāḵ|you|H0|Prep | 2fs
 v10 וַיֹּ֤אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v10 דָּוִד֙|dā·wiḏ|Then David|H1732|N-proper-ms
 v10 אֶל־|’el-|...|H413|Prep
@@ -187,7 +187,7 @@ v10 א֛וֹ|’ōw|if|H176|Conj
 v10 מַה־|mah-|...|H4100|Interrog
 v10 יַּעַנְךָ֥|ya·‘an·ḵā|answers|H6030|V-Qal-Imperf-3ms | 2ms
 v10 אָבִ֖יךָ|’ā·ḇî·ḵā|your father|H1|N-msc | 2ms
-v10 קָשָֽׁה׃ס|qā·šāh|you harshly|H7186|Adj-fs
+v10 קָשָֽׁה׃|qā·šāh|you harshly|H7186|Adj-fs
 v11 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 יְהֽוֹנָתָן֙|yə·hō·w·nā·ṯān|he|H3083|N-proper-ms
 v11 אֶל־|’el-|...|H413|Prep
@@ -197,7 +197,7 @@ v11 וְנֵצֵ֣א|wə·nê·ṣê|let us go out|H3318|Conj-w | V-Qal-ConjImpe
 v11 הַשָּׂדֶ֑ה|haś·śā·ḏeh|to the field|H7704|Art | N-ms
 v11 וַיֵּצְא֥וּ|way·yê·ṣə·’ū|of them went out|H3318|Conj-w | V-Qal-ConsecImperf-3mp
 v11 שְׁנֵיהֶ֖ם|šə·nê·hem|So the two|H8147|Number-mdc | 3mp
-v11 הַשָּׂדֶֽה׃ס|haś·śā·ḏeh|into the field|H7704|Art | N-ms
+v11 הַשָּׂדֶֽה׃|haś·śā·ḏeh|into the field|H7704|Art | N-ms
 v12 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יְהוֹנָתָ֜ן|yə·hō·w·nā·ṯān|and Jonathan|H3083|N-proper-ms
 v12 אֶל־|’el-|-|H413|Prep
@@ -298,7 +298,7 @@ v17 אֹת֑וֹ|’ō·ṯōw|for him|H853|DirObjM | 3ms
 v17 כִּֽי־|kî-|for|H3588|Conj
 v17 אַהֲבַ֥ת|’a·hă·ḇaṯ|as he loved|H160|N-fsc
 v17 נַפְשׁ֖וֹ|nap̄·šōw|himself|H5315|N-fsc | 3ms
-v17 אֲהֵבֽוֹ׃ס|’ă·hê·ḇōw|[Jonathan] loved [David]|H157|V-Qal-Perf-3ms | 3ms
+v17 אֲהֵבֽוֹ׃|’ă·hê·ḇōw|[Jonathan] loved [David]|H157|V-Qal-Perf-3ms | 3ms
 v18 וַיֹּֽאמֶר־|way·yō·mer-|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v18 ל֥וֹ|lōw|to David|H0|Prep | 3ms
 v18 יְהוֹנָתָ֖ן|yə·hō·w·nā·ṯān|Then Jonathan|H3083|N-proper-ms
@@ -329,7 +329,7 @@ v20 הַחִצִּ֖ים|ha·ḥiṣ·ṣîm|arrows|H2671|Art | N-mp
 v20 צִדָּ֣ה|ṣid·dāh|to the side of it|H6654|N-msc | 3fs
 v20 אוֹרֶ֑ה|’ō·w·reh|will shoot|H3384|V-Hifil-Imperf-1cs
 v20 לְשַֽׁלַּֽח־|lə·šal·laḥ-|as if I were aiming|H7971|Prep-l | V-Piel-Inf
-v20 לִ֖י|lî||H0|Prep | 1cs
+v20 לִ֖י|lî|-|H0|Prep | 1cs
 v20 לְמַטָּרָֽה׃|lə·maṭ·ṭā·rāh|at a target|H4307|Prep-l | N-fs
 v21 וְהִנֵּה֙|wə·hin·nêh|Then|H2009|Conj-w | Interjection
 v21 אֶשְׁלַ֣ח|’eš·laḥ|I will send|H7971|V-Qal-Imperf-1cs
@@ -378,7 +378,7 @@ v23 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v23 בֵּינִ֥י|bê·nî|is a witness between|H996|Prep | 1cs
 v23 וּבֵינְךָ֖|ū·ḇê·nə·ḵā|you and me|H996|Conj-w | Prep | 2ms
 v23 עַד־|‘aḏ-|forever|H5704|Prep
-v23 עוֹלָֽם׃ס|‘ō·w·lām|...|H5769|N-ms
+v23 עוֹלָֽם׃|‘ō·w·lām|...|H5769|N-ms
 v24 וַיִּסָּתֵ֥ר|way·yis·sā·ṯêr|hid|H5641|Conj-w | V-Nifal-ConsecImperf-3ms
 v24 דָּוִ֖ד|dā·wiḏ|So David|H1732|N-proper-ms
 v24 בַּשָּׂדֶ֑ה|baś·śā·ḏeh|in the field|H7704|Prep-b, Art | N-ms
@@ -422,7 +422,7 @@ v26 טָה֛וֹר|ṭā·hō·wr|...|H2889|Adj-ms
 v26 ה֖וּא|hū|he [is]|H1931|Pro-3ms
 v26 כִּֽי־|kî-|surely|H3588|Conj
 v26 לֹ֥א|lō|unclean|H3808|Adv-NegPrt
-v26 טָהֽוֹר׃ס|ṭā·hō·wr|...|H2889|Adj-ms
+v26 טָהֽוֹר׃|ṭā·hō·wr|...|H2889|Adj-ms
 v27 וַיְהִ֗י|way·hî|But|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v27 מִֽמָּחֳרַ֤ת|mim·mā·ḥo·raṯ|on the day after|H4283|Prep-m | N-fsc
 v27 הַחֹ֙דֶשׁ֙|ha·ḥō·ḏeš|the New Moon|H2320|Art | N-ms
@@ -455,7 +455,7 @@ v28 נִשְׁאַ֥ל|niš·’al|...|H7592|V-Nifal-Perf-3ms
 v28 דָּוִ֛ד|dā·wiḏ|David|H1732|N-proper-ms
 v28 מֵעִמָּדִ֖י|mê·‘im·mā·ḏî|...|H5978|Prep-m | 1cs
 v28 עַד־|‘aḏ-|my permission to|H5704|Prep
-v28 בֵּ֥ית|bêṯ|vvv|H1035|Prep
+v28 בֵּ֥ית|bêṯ|...|H1035|Prep
 v28 לָֽחֶם׃|lā·ḥem|go to Bethlehem|H1035|N-proper-fs
 v29 וַיֹּ֡אמֶר|way·yō·mer|saying|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v29 שַׁלְּחֵ֣נִי|šal·lə·ḥê·nî|let me go|H7971|V-Piel-Imp-ms | 1cs
@@ -485,7 +485,7 @@ v29 לֹא־|lō-|he has not|H3808|Adv-NegPrt
 v29 בָ֔א|ḇā|come|H935|V-Qal-Perf-3ms
 v29 אֶל־|’el-|to|H413|Prep
 v29 שֻׁלְחַ֖ן|šul·ḥan|table|H7979|N-msc
-v29 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|the king's|H4428|Art | N-ms
+v29 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king's|H4428|Art | N-ms
 v30 וַיִּֽחַר־|way·yi·ḥar-|burned|H2734|Conj-w | V-Qal-ConsecImperf-3ms
 v30 אַ֤ף|’ap̄|anger|H639|N-msc
 v30 שָׁאוּל֙|šā·’ūl|Then Saul's|H7586|N-proper-ms
@@ -507,7 +507,7 @@ v30 וּלְבֹ֖שֶׁת|ū·lə·ḇō·šeṯ|and to the shame|H1322|Conj-w,
 v30 עֶרְוַ֥ת|‘er·waṯ|who bore you|H6172|N-fsc
 v30 אִמֶּֽךָ׃|’im·me·ḵā|of the mother|H517|N-fsc | 2ms
 v31 כִּ֣י|kî|For|H3588|Conj
-v31 כָל־|ḵāl|vvv|H3605|N-msc
+v31 כָל־|ḵāl|...|H3605|N-msc
 v31 הַיָּמִ֗ים|hay·yā·mîm|as long as|H3117|Art | N-mp
 v31 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v31 בֶּן־|ben-|the son|H1121|N-msc
@@ -525,9 +525,9 @@ v31 וְקַ֤ח|wə·qaḥ|and bring|H3947|Conj-w | V-Qal-Imp-ms
 v31 אֹתוֹ֙|’ō·ṯōw|him|H853|DirObjM | 3ms
 v31 אֵלַ֔י|’ê·lay|to me|H413|Prep | 1cs
 v31 כִּ֥י|kî|for|H3588|Conj
-v31 בֶן־|ḇen-||H1121|N-msc
+v31 בֶן־|ḇen-|-|H1121|N-msc
 v31 מָ֖וֶת|mā·weṯ|must surely die|H4194|N-ms
-v31 הֽוּא׃ס|hū|he|H1931|Pro-3ms
+v31 הֽוּא׃|hū|he|H1931|Pro-3ms
 v32 וַיַּ֙עַן֙|way·ya·‘an|replied|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v32 יְה֣וֹנָתָ֔ן|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
 v32 אֶת־|’eṯ-|-|H853|DirObjM
@@ -554,7 +554,7 @@ v33 מֵעִ֥ם|mê·‘im|...|H5973|Prep-m
 v33 אָבִ֖יו|’ā·ḇîw|his father|H1|N-msc | 3ms
 v33 לְהָמִ֥ית|lə·hā·mîṯ|to kill|H4191|Prep-l | V-Hifil-Inf
 v33 אֶת־|’eṯ-|-|H853|DirObjM
-v33 דָּוִֽד׃ס|dā·wiḏ|David|H1732|N-proper-ms
+v33 דָּוִֽד׃|dā·wiḏ|David|H1732|N-proper-ms
 v34 וַיָּ֧קָם|way·yā·qām|got up|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v34 יְהוֹנָתָ֛ן|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
 v34 מֵעִ֥ם|mê·‘im|from|H5973|Prep-m
@@ -573,7 +573,7 @@ v34 אֶל־|’el-|of|H413|Prep
 v34 דָּוִ֔ד|dā·wiḏ|David|H1732|N-proper-ms
 v34 כִּ֥י|kî|by|H3588|Conj
 v34 הִכְלִמ֖וֹ|hiḵ·li·mōw|shameful treatment|H3637|V-Hifil-Perf-3ms | 3ms
-v34 אָבִֽיו׃ס|’ā·ḇîw|his father's|H1|N-msc | 3ms
+v34 אָבִֽיו׃|’ā·ḇîw|his father's|H1|N-msc | 3ms
 v35 וַיְהִ֣י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v35 בַבֹּ֔קֶר|ḇab·bō·qer|In the morning|H1242|Prep-b, Art | N-ms
 v35 וַיֵּצֵ֧א|way·yê·ṣê|went out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
@@ -650,9 +650,9 @@ v40 כֵּלָ֔יו|kê·lāw|his equipment|H3627|N-mpc | 3ms
 v40 אֶל־|’el-|to|H413|Prep
 v40 הַנַּ֖עַר|han·na·‘ar|the boy|H5288|Art | N-ms
 v40 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v40 ל֑וֹ|lōw||H0|Prep | 3ms
+v40 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v40 וַיֹּ֣אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v40 ל֔וֹ|lōw||H0|Prep | 3ms
+v40 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v40 לֵ֖ךְ|lêḵ|Go|H1980|V-Qal-Imp-ms
 v40 הָבֵ֥יא|hā·ḇê|take it back|H935|V-Hifil-Imp-ms
 v40 הָעִֽיר׃|hā·‘îr|to the city|H5892|Art | N-fs
@@ -700,7 +700,7 @@ v42 זַרְעִ֛י|zar·‘î|mine|H2233|N-msc | 1cs
 v42 וּבֵ֥ין|ū·ḇên|and|H996|Conj-w | Prep
 v42 זַרְעֲךָ֖|zar·‘ă·ḵā|your descendants|H2233|N-msc | 2ms
 v42 עַד־|‘aḏ-|forever|H5704|Prep
-v42 עוֹלָֽם׃פ|‘ō·w·lām|...|H5769|N-ms
+v42 עוֹלָֽם׃|‘ō·w·lām|...|H5769|N-ms
 v42 וַיָּ֖קָם|way·yā·qām|Then David got up|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v42 וַיֵּלַ֑ךְ|way·yê·laḵ|and departed|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v42 וִיהוֹנָתָ֖ן|wî·hō·w·nā·ṯān|and Jonathan|H3083|Conj-w | N-proper-ms

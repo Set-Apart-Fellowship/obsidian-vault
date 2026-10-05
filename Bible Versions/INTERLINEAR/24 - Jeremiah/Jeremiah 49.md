@@ -9,7 +9,7 @@ v1 לְיִשְׂרָאֵ֔ל|lə·yiś·rā·’êl|Has Israel|H3478|Prep-l | N
 v1 אִם־|’im-|...|H518|Conj
 v1 יוֹרֵ֖שׁ|yō·w·rêš|heir|H3423|V-Qal-Prtcpl-ms
 v1 אֵ֣ין|’ên|Is he without|H369|Adv
-v1 ל֑וֹ|lōw||H0|Prep | 3ms
+v1 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v1 מַדּ֗וּעַ|mad·dū·a‘|Why then|H4069|Interrog
 v1 יָרַ֤שׁ|yā·raš|taken possession|H3423|V-Qal-Perf-3ms
 v1 מַלְכָּם֙|mal·kām|has Milcom|H4428|N-msc | 3mp
@@ -35,7 +35,7 @@ v2 וְהָֽיְתָה֙|wə·hā·yə·ṯāh|It will become|H1961|Conj-w | V-
 v2 לְתֵ֣ל|lə·ṯêl|a heap|H8510|Prep-l | N-msc
 v2 שְׁמָמָ֔ה|šə·mā·māh|of ruins|H8077|N-fs
 v2 וּבְנֹתֶ֖יהָ|ū·ḇə·nō·ṯe·hā|and its villages|H1323|Conj-w | N-fpc | 3fs
-v2 בָּאֵ֣שׁ|bā·’êš|vvv|H784|Prep-b, Art | N-cs
+v2 בָּאֵ֣שׁ|bā·’êš|...|H784|Prep-b, Art | N-cs
 v2 תִּצַּ֑תְנָה|tiṣ·ṣaṯ·nāh|will be burned|H3341|V-Qal-Imperf-3fp
 v2 וְיָרַ֧שׁ|wə·yā·raš|will drive out|H3423|Conj-w | V-Qal-ConjPerf-3ms
 v2 יִשְׂרָאֵ֛ל|yiś·rā·’êl|Then Israel|H3478|N-proper-ms
@@ -99,7 +99,7 @@ v6 שְׁב֥וּת|šə·ḇūṯ|from captivity|H7622|N-fsc
 v6 בְּנֵֽי־|bə·nê-|the Ammonites|H1121|N-mpc
 v6 עַמּ֖וֹן|‘am·mō·wn|...|H5983|N-proper-ms
 v6 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v6 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v6 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v7 לֶאֱד֗וֹם|le·’ĕ·ḏō·wm|Concerning Edom|H123|Prep-l | N-proper-ms
 v7 כֹּ֤ה|kōh|this is what|H3541|Adv
 v7 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -161,7 +161,7 @@ v11 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v11 אֲחַיֶּ֑ה|’ă·ḥay·yeh|will preserve their lives|H2421|V-Piel-Imperf-1cs
 v11 וְאַלְמְנֹתֶ֖יךָ|wə·’al·mə·nō·ṯe·ḵā|Let your widows|H490|Conj-w | N-fpc | 2ms
 v11 עָלַ֥י|‘ā·lay|in Me|H5921|Prep | 1cs
-v11 תִּבְטָֽחוּ׃ס|tiḇ·ṭā·ḥū|trust|H982|V-Qal-Imperf-3fp
+v11 תִּבְטָֽחוּ׃|tiḇ·ṭā·ḥū|trust|H982|V-Qal-Imperf-3fp
 v12 כִּי־|kî-|For|H3588|Conj
 v12 כֹ֣ה׀|ḵōh|this is what|H3541|Adv
 v12 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -290,7 +290,7 @@ v19 זֶ֣ה|zeh|...|H2088|Pro-ms
 v19 רֹעֶ֔ה|rō·‘eh|shepherd|H7462|V-Qal-Prtcpl-ms
 v19 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v19 יַעֲמֹ֖ד|ya·‘ă·mōḏ|can stand|H5975|V-Qal-Imperf-3ms
-v19 לְפָנָֽי׃ס|lə·p̄ā·nāy|against Me|H6440|Prep-l | N-mpc | 1cs
+v19 לְפָנָֽי׃|lə·p̄ā·nāy|against Me|H6440|Prep-l | N-mpc | 1cs
 v20 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v20 שִׁמְע֣וּ|šim·‘ū|hear|H8085|V-Qal-Imp-mp
 v20 עֲצַת־|‘ă·ṣaṯ-|the plans|H6098|N-fsc
@@ -340,7 +340,7 @@ v22 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v22 הַה֔וּא|ha·hū|In that|H1931|Art | Pro-3ms
 v22 כְּלֵ֖ב|kə·lêḇ|like the heart|H3820|Prep-k | N-msc
 v22 אִשָּׁ֥ה|’iš·šāh|of a woman|H802|N-fs
-v22 מְצֵרָֽה׃ס|mə·ṣê·rāh|in labor|H6887|V-Hifil-Prtcpl-fs
+v22 מְצֵרָֽה׃|mə·ṣê·rāh|in labor|H6887|V-Hifil-Prtcpl-fs
 v23 לְדַמֶּ֗שֶׂק|lə·ḏam·me·śeq|Concerning Damascus|H1834|Prep-l | N-proper-fs
 v23 בּ֤וֹשָֽׁה|bō·wō·šāh|are put to shame|H954|V-Qal-Perf-3fs
 v23 חֲמָת֙|ḥă·māṯ|Hamath|H2574|N-proper-fs
@@ -391,8 +391,8 @@ v27 בְּחוֹמַ֣ת|bə·ḥō·w·maṯ|to the walls|H2346|Prep-b | N-fsc
 v27 דַּמָּ֑שֶׂק|dam·mā·śeq|of Damascus|H1834|N-proper-fs
 v27 וְאָכְלָ֖ה|wə·’ā·ḵə·lāh|it will consume|H398|Conj-w | V-Qal-ConjPerf-3fs
 v27 אַרְמְנ֥וֹת|’ar·mə·nō·wṯ|the fortresses|H759|N-mpc
-v27 בֶּן־|ben-|vvv|H1130|Prep
-v27 הֲדָֽד׃ס|hă·ḏāḏ|of Ben-hadad|H1130|N-proper-ms
+v27 בֶּן־|ben-|...|H1130|Prep
+v27 הֲדָֽד׃|hă·ḏāḏ|of Ben-hadad|H1130|N-proper-ms
 v28 לְקֵדָ֣ר׀|lə·qê·ḏār|Concerning Kedar|H6938|Prep-l | N-proper-fs
 v28 וּֽלְמַמְלְכ֣וֹת|ū·lə·mam·lə·ḵō·wṯ|and the kingdoms|H4467|Conj-w, Prep-l | N-fpc
 v28 חָצ֗וֹר|ḥā·ṣō·wr|of Hazor|H2674|N-proper-fs
@@ -457,7 +457,7 @@ v31 לֹא־|lō-|They have no|H3808|Adv-NegPrt
 v31 דְלָתַ֧יִם|ḏə·lā·ṯa·yim|gates|H1817|N-fd
 v31 וְלֹֽא־|wə·lō-|[or]|H3808|Conj-w | Adv-NegPrt
 v31 בְרִ֛יחַ|ḇə·rî·aḥ|bars|H1280|N-ms
-v31 ל֖וֹ|lōw||H0|Prep | 3ms
+v31 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v31 בָּדָ֥ד|bā·ḏāḏ|alone|H910|N-ms
 v31 יִשְׁכֹּֽנוּ׃|yiš·kō·nū|they live|H7931|V-Qal-Imperf-3mp
 v32 וְהָי֨וּ|wə·hā·yū|will become|H1961|Conj-w | V-Qal-ConjPerf-3cp
@@ -493,7 +493,7 @@ v33 וְלֹֽא־|wə·lō-|no|H3808|Conj-w | Adv-NegPrt
 v33 יָג֥וּר|yā·ḡūr|will abide|H1481|V-Qal-Imperf-3ms
 v33 בָּ֖הּ|bāh|there|H0|Prep | 3fs
 v33 בֶּן־|ben-|man|H1121|N-msc
-v33 אָדָֽם׃ס|’ā·ḏām|...|H120|N-ms
+v33 אָדָֽם׃|’ā·ḏām|...|H120|N-ms
 v34 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
 v34 הָיָ֧ה|hā·yāh|came|H1961|V-Qal-Perf-3ms
 v34 דְבַר־|ḏə·ḇar-|This is the word|H1697|N-msc
@@ -581,4 +581,4 @@ v39 אֶת־|’eṯ-|-|H853|DirObjM
 v39 שְׁבִית|šə·ḇīṯ|from captivity|H7622|N-fsc
 v39 עֵילָ֖ם|‘ê·lām|Elam|H5867|N-proper-fs
 v39 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v39 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v39 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

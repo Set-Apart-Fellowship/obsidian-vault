@@ -64,7 +64,7 @@ v7 הָעֹ֖שֶׁק|hā·‘ō·šeq|extortion|H6233|Art | N-ms
 v7 יְהוֹלֵ֣ל|yə·hō·w·lêl|into a fool|H1984|V-Piel-Imperf-3ms
 v7 חָכָ֑ם|ḥā·ḵām|turns a wise man|H2450|Adj-ms
 v7 וִֽיאַבֵּ֥ד|wî·’ab·bêḏ|corrupts|H6|Conj-w | V-Piel-ConjImperf-3ms
-v7 אֶת־|’eṯ-||H853|DirObjM
+v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 לֵ֖ב|lêḇ|the heart|H3820|N-ms
 v7 מַתָּנָֽה׃|mat·tā·nāh|and a bribe|H4979|N-fs
 v8 ט֛וֹב|ṭō·wḇ|is better|H2896|Adj-ms
@@ -95,7 +95,7 @@ v10 הָי֥וּ|hā·yū|...|H1961|V-Qal-Perf-3cp
 v10 טוֹבִ֖ים|ṭō·w·ḇîm|better|H2896|Adj-mp
 v10 מֵאֵ֑לֶּה|mê·’êl·leh|than these|H428|Prep-m | Pro-cp
 v10 כִּ֛י|kî|For|H3588|Conj
-v10 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
+v10 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v10 מֵחָכְמָ֖ה|mê·ḥā·ḵə·māh|it is unwise|H2451|Prep-m | N-fs
 v10 שָׁאַ֥לְתָּ|šā·’al·tā|of you to ask|H7592|V-Qal-Perf-2ms
 v10 עַל־|‘al-|about|H5921|Prep
@@ -289,7 +289,7 @@ v26 יִמָּלֵ֣ט|yim·mā·lêṭ|escapes|H4422|V-Nifal-Imperf-3ms
 v26 מִמֶּ֔נָּה|mim·men·nāh|her|H4480|Prep | 3fs
 v26 וְחוֹטֵ֖א|wə·ḥō·w·ṭê|but the sinner|H2398|Conj-w | V-Qal-Prtcpl-ms
 v26 יִלָּ֥כֶד|yil·lā·ḵeḏ|is ensnared|H3920|V-Nifal-Imperf-3ms
-v26 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v26 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v27 רְאֵה֙|rə·’êh|Behold|H7200|V-Qal-Imp-ms
 v27 זֶ֣ה|zeh|this|H2088|Pro-ms
 v27 מָצָ֔אתִי|mā·ṣā·ṯî|I have discovered|H4672|V-Qal-Perf-1cs

@@ -86,10 +86,10 @@ v6 Εἰ|Ei|If|G1487|Conj
 v6 ἔχετε|echete|you have|G2192|V-PIA-2P
 v6 πίστιν|pistin|faith|G4102|N-AFS
 v6 ὡς|hōs|the size|G5613|Adv
-v6 κόκκον|kokkon|vvv|G2848|N-AMS
+v6 κόκκον|kokkon|...|G2848|N-AMS
 v6 σινάπεως|sinapeōs|of a mustard seed|G4615|N-GNS
 v6 ἐλέγετε|elegete|you can say|G2036|V-IIA-2P
-v6 ἂν|an|vvv|G302|Prtcl
+v6 ἂν|an|...|G302|Prtcl
 v6 τῇ|tē|-|G3588|Art-DFS
 v6 συκαμίνῳ|sykaminō|mulberry tree|G4807|N-DFS
 v6 ταύτῃ|tautē|to this|G3778|DPro-DFS
@@ -101,7 +101,7 @@ v6 τῇ|tē|the|G3588|Art-DFS
 v6 θαλάσσῃ|thalassē|sea|G2281|N-DFS
 v6 καὶ|kai|and|G2532|Conj
 v6 ὑπήκουσεν|hypēkousen|it will obey|G5219|V-AIA-3S
-v6 ἂν|an|vvv|G302|Prtcl
+v6 ἂν|an|...|G302|Prtcl
 v6 ὑμῖν|hymin|you|G4771|PPro-D2P
 v7 Τίς|Tis|Which|G5101|IPro-NMS
 v7 δὲ|de|-|G1161|Conj
@@ -123,11 +123,11 @@ v7 Εὐθέως|Eutheōs|at once|G2112|Adv
 v7 παρελθὼν|parelthōn|Come|G3928|V-APA-NMS
 v7 ἀνάπεσε|anapese|[and] sit down to eat|G377|V-AMA-2S
 v8 ἀλλ’|all’|Instead|G235|Conj
-v8 οὐχὶ|ouchi|vvv|G3780|IntPrtcl
+v8 οὐχὶ|ouchi|...|G3780|IntPrtcl
 v8 ἐρεῖ|erei|won't he tell|G2046|V-FIA-3S
 v8 αὐτῷ|autō|him|G846|PPro-DM3S
 v8 Ἑτοίμασον|Hetoimason|Prepare|G2090|V-AMA-2S
-v8 τί|ti|vvv|G5101|IPro-ANS
+v8 τί|ti|...|G5101|IPro-ANS
 v8 δειπνήσω|deipnēsō|my meal|G1172|V-ASA-1S
 v8 καὶ|kai|and|G2532|Conj
 v8 περιζωσάμενος|perizōsamenos|dress yourself|G4024|V-APM-NMS
@@ -167,21 +167,21 @@ v10 ὅτι|hoti|-|G3754|Conj
 v10 Δοῦλοι|Douloi|servants|G1401|N-NMP
 v10 ἀχρεῖοί|achreioi|unworthy|G888|Adj-NMP
 v10 ἐσμεν|esmen|We are|G1510|V-PIA-1P
-v10 ὃ|ho|vvv|G3739|RelPro-ANS
+v10 ὃ|ho|...|G3739|RelPro-ANS
 v10 ὠφείλομεν|ōpheilomen|our duty|G3784|V-IIA-1P
 v10 ποιῆσαι|poiēsai|...|G4160|V-ANA
 v10 πεποιήκαμεν|pepoiēkamen|we have only done|G4160|V-RIA-1P
 v11 Καὶ|Kai|While|G2532|Conj
 v11 ἐγένετο|egeneto|...|G1096|V-AIM-3S
-v11 ἐν|en|vvv|G1722|Prep
-v11 τῷ|tō|vvv|G3588|Art-DNS
+v11 ἐν|en|...|G1722|Prep
+v11 τῷ|tō|...|G3588|Art-DNS
 v11 πορεύεσθαι|poreuesthai|[Jesus] was on His way|G4198|V-PNM/P
 v11 εἰς|eis|to|G1519|Prep
 v11 Ἰερουσαλὴμ|Ierousalēm|Jerusalem|G2419|N-AFS
 v11 καὶ|kai|-|G2532|Conj
 v11 αὐτὸς|autos|He|G846|PPro-NM3S
 v11 διήρχετο|diērcheto|was passing|G1330|V-IIM/P-3S
-v11 διὰ|dia|vvv|G1223|Prep
+v11 διὰ|dia|...|G1223|Prep
 v11 μέσον|meson|between|G3319|Adj-ANS
 v11 Σαμαρείας|Samareias|Samaria|G4540|N-GFS
 v11 καὶ|kai|and|G2532|Conj
@@ -209,7 +209,7 @@ v13 Ἰησοῦ|Iēsou|Jesus|G2424|N-VMS
 v13 Ἐπιστάτα|Epistata|Master|G1988|N-VMS
 v13 ἐλέησον|eleēson|have mercy on|G1653|V-AMA-2S
 v13 ἡμᾶς|hēmas|us|G1473|PPro-A1P
-v14 Καὶ|Kai|vvv|G2532|Conj
+v14 Καὶ|Kai|...|G2532|Conj
 v14 ἰδὼν|idōn|When [Jesus] saw [them]|G3708|V-APA-NMS
 v14 εἶπεν|eipen|He said|G2036|V-AIA-3S
 v14 αὐτοῖς|autois|...|G846|PPro-DM3P
@@ -241,7 +241,7 @@ v15 τὸν|ton|-|G3588|Art-AMS
 v15 Θεόν|Theon|God|G2316|N-AMS
 v16 καὶ|kai|-|G2532|Conj
 v16 ἔπεσεν|epesen|He fell|G4098|V-AIA-3S
-v16 ἐπὶ|epi|vvv|G1909|Prep
+v16 ἐπὶ|epi|...|G1909|Prep
 v16 πρόσωπον|prosōpon|facedown|G4383|N-ANS
 v16 παρὰ|para|at|G3844|Prep
 v16 τοὺς|tous|-|G3588|Art-AMP
@@ -344,7 +344,7 @@ v22 τοῦ|tou|-|G3588|Art-GMS
 v22 ἀνθρώπου|anthrōpou|of Man|G444|N-GMS
 v22 ἰδεῖν|idein|to see|G3708|V-ANA
 v22 καὶ|kai|but|G2532|Conj
-v22 οὐκ|ouk|vvv|G3756|Adv
+v22 οὐκ|ouk|...|G3756|Adv
 v22 ὄψεσθε|opsesthe|you will not see [it]|G3708|V-FIM-2P
 v23 καὶ|kai|-|G2532|Conj
 v23 ἐροῦσιν|erousin|[People] will tell|G2046|V-FIA-3P
@@ -480,7 +480,7 @@ v31 ἔσται|estai|-|G1510|V-FIM-3S
 v31 ἐπὶ|epi|on|G1909|Prep
 v31 τοῦ|tou|the|G3588|Art-GNS
 v31 δώματος|dōmatos|housetop|G1430|N-GNS
-v31 καὶ|kai||G2532|Conj
+v31 καὶ|kai|-|G2532|Conj
 v31 τὰ|ta|-|G3588|Art-NNP
 v31 σκεύη|skeuē|possessions|G4632|N-NNP
 v31 αὐτοῦ|autou|his|G846|PPro-GM3S
@@ -540,8 +540,8 @@ v34 ἀφεθήσεται|aphethēsetai|left|G863|V-FIP-3S
 v35 ἔσονται|esontai|will be|G1510|V-FIM-3P
 v35 δύο|dyo|Two [women]|G1417|Adj-NFP
 v35 ἀλήθουσαι|alēthousai|grinding grain|G229|V-PPA-NFP
-v35 ἐπὶ|epi|vvv|G1909|Prep
-v35 τὸ|to|vvv|G3588|Art-ANS
+v35 ἐπὶ|epi|...|G1909|Prep
+v35 τὸ|to|...|G3588|Art-ANS
 v35 αὐτό|auto|together|G846|PPro-AN3S
 v35 ἡ|hē|-|G3588|Art-NFS
 v35 μία|mia|one|G1520|Adj-NFS

@@ -109,7 +109,7 @@ v7 δεῖ|dei|you ought|G1163|V-PIA-3S
 v7 μιμεῖσθαι|mimeisthai|to imitate|G3401|V-PNM/P
 v7 ἡμᾶς|hēmas|us|G1473|PPro-A1P
 v7 ὅτι|hoti|because|G3754|Conj
-v7 οὐκ|ouk|vvv|G3756|Adv
+v7 οὐκ|ouk|...|G3756|Adv
 v7 ἠτακτήσαμεν|ētaktēsamen|we were not undisciplined|G812|V-AIA-1P
 v7 ἐν|en|among|G1722|Prep
 v7 ὑμῖν|hymin|you|G4771|PPro-D2P
@@ -117,7 +117,7 @@ v8 οὐδὲ|oude|nor|G3761|Conj
 v8 δωρεὰν|dōrean|without paying for it|G1432|Adv
 v8 ἄρτον|arton|food|G740|N-AMS
 v8 ἐφάγομεν|ephagomen|did we eat|G5315|V-AIA-1P
-v8 παρά|para|vvv|G3844|Prep
+v8 παρά|para|...|G3844|Prep
 v8 τινος|tinos|anyone's|G5100|IPro-GMS
 v8 ἀλλ’|all’|Instead|G235|Conj
 v8 ἐν|en|in|G1722|Prep
@@ -129,14 +129,14 @@ v8 καὶ|kai|and|G2532|Conj
 v8 ἡμέρας|hēmeras|day|G2250|N-GFS
 v8 ἐργαζόμενοι|ergazomenoi|we worked|G2038|V-PPM/P-NMP
 v8 πρὸς|pros|so that|G4314|Prep
-v8 τὸ|to|vvv|G3588|Art-ANS
-v8 μὴ|mē|vvv|G3361|Adv
+v8 τὸ|to|...|G3588|Art-ANS
+v8 μὴ|mē|...|G3361|Adv
 v8 ἐπιβαρῆσαί|epibarēsai|we would not be a burden|G1912|V-ANA
 v8 τινα|tina|to any|G5100|IPro-AMS
 v8 ὑμῶν|hymōn|of you|G4771|PPro-G2P
 v9 οὐχ|ouch|Not|G3756|Adv
 v9 ὅτι|hoti|that|G3754|Conj
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἔχομεν|echomen|we lack|G2192|V-PIA-1P
 v9 ἐξουσίαν|exousian|[this] right|G1849|N-AFS
 v9 ἀλλ’|all’|but|G235|Conj
@@ -161,10 +161,10 @@ v10 ὑμῖν|hymin|...|G4771|PPro-D2P
 v10 ὅτι|hoti|-|G3754|Conj
 v10 Εἴ|Ei|If|G1487|Conj
 v10 τις|tis|anyone|G5100|IPro-NMS
-v10 οὐ|ou|vvv|G3756|Adv
+v10 οὐ|ou|...|G3756|Adv
 v10 θέλει|thelei|is unwilling|G2309|V-PIA-3S
 v10 ἐργάζεσθαι|ergazesthai|to work|G2038|V-PNM/P
-v10 μηδὲ|mēde|vvv|G3366|Conj
+v10 μηδὲ|mēde|...|G3366|Conj
 v10 ἐσθιέτω|esthietō|he shall not eat|G2068|V-PMA-3S
 v11 Ἀκούομεν|Akouomen|we hear that|G191|V-PIA-1P
 v11 γάρ|gar|For|G1063|Conj
@@ -188,7 +188,7 @@ v12 Κυρίῳ|Kyriō|our Lord|G2962|N-DMS
 v12 Ἰησοῦ|Iēsou|Jesus|G2424|N-DMS
 v12 Χριστῷ|Christō|Christ|G5547|N-DMS
 v12 ἵνα|hina|to|G2443|Conj
-v12 μετὰ|meta|vvv|G3326|Prep
+v12 μετὰ|meta|...|G3326|Prep
 v12 ἡσυχίας|hēsychias|quietly|G2271|N-GFS
 v12 ἐργαζόμενοι|ergazomenoi|begin working|G2038|V-PPM/P-NMP
 v12 τὸν|ton|...|G3588|Art-AMS

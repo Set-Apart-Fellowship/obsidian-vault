@@ -30,7 +30,7 @@ v2 אֱלֹהָ֑יו|’ĕ·lō·hāw|of his god|H430|N-mpc | 3ms
 v2 וְאֶת־|wə·’eṯ-|[where]|H853|Conj-w | DirObjM
 v2 הַכֵּלִ֣ים|hak·kê·lîm|[them]|H3627|Art | N-mp
 v2 הֵבִ֔יא|hê·ḇî|he put|H935|V-Hifil-Perf-3ms
-v2 בֵּ֖ית|bêṯ|vvv|H1004|N-msc
+v2 בֵּ֖ית|bêṯ|...|H1004|N-msc
 v2 אוֹצַ֥ר|’ō·w·ṣar|in the treasury|H214|N-msc
 v2 אֱלֹהָֽיו׃|’ĕ·lō·hāw|of his god|H430|N-mpc | 3ms
 v3 וַיֹּ֣אמֶר|way·yō·mer|ordered|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -48,7 +48,7 @@ v3 הַֽפַּרְתְּמִֽים׃|hap·par·tə·mîm|and the nobility|H6579
 v4 יְלָדִ֣ים|yə·lā·ḏîm|young men|H3206|N-mp
 v4 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v4 אֵֽין־|’ên-|without|H369|Adv
-v4 בָּהֶ֣ם|bā·hem||H0|Prep | 3mp
+v4 בָּהֶ֣ם|bā·hem|-|H0|Prep | 3mp
 v4 כָּל־|kāl-|-|H3605|N-msc
 v4 מְאוּם|mə·ʾūm|blemish|H3971|N-ms
 v4 וְטוֹבֵ֨י|wə·ṭō·w·ḇê|handsome|H2896|Conj-w | Adj-mpc
@@ -62,7 +62,7 @@ v4 וּמְבִינֵ֣י|ū·mə·ḇî·nê|to understand|H995|Conj-w | V-Hifi
 v4 מַדָּ֔ע|mad·dā‘|quick|H4093|N-ms
 v4 וַאֲשֶׁר֙|wa·’ă·šer|-|H834|Conj-w | Pro-r
 v4 כֹּ֣חַ|kō·aḥ|and qualified|H3581|N-ms
-v4 בָּהֶ֔ם|bā·hem||H0|Prep | 3mp
+v4 בָּהֶ֔ם|bā·hem|-|H0|Prep | 3mp
 v4 לַעֲמֹ֖ד|la·‘ă·mōḏ|to serve|H5975|Prep-l | V-Qal-Inf
 v4 בְּהֵיכַ֣ל|bə·hê·ḵal|palace|H1964|Prep-b | N-msc
 v4 הַמֶּ֑לֶךְ|ham·me·leḵ|in the king's|H4428|Art | N-ms
@@ -74,9 +74,9 @@ v5 וַיְמַן֩|way·man|assigned|H4487|Conj-w | V-Piel-ConsecImperf-3ms
 v5 לָהֶ֨ם|lā·hem|them|H0|Prep | 3mp
 v5 הַמֶּ֜לֶךְ|ham·me·leḵ|The king|H4428|Art | N-ms
 v5 דְּבַר־|də·ḇar-|provisions|H1697|N-msc
-v5 י֣וֹם|yō·wm|vvv|H3117|N-ms
+v5 י֣וֹם|yō·wm|...|H3117|N-ms
 v5 בְּיוֹמ֗וֹ|bə·yō·w·mōw|daily|H3117|Prep-b | N-msc | 3ms
-v5 מִפַּת־|mip·paṯ-||H6598|Prep
+v5 מִפַּת־|mip·paṯ-|-|H6598|Prep
 v5 בַּ֤ג|baḡ|food|H6598|Prep | N-msc
 v5 הַמֶּ֙לֶךְ֙|ham·me·leḵ|of the royal|H4428|Art | N-ms
 v5 וּמִיֵּ֣ין|ū·mî·yên|and wine|H3196|Conj-w, Prep-m | N-msc
@@ -109,7 +109,7 @@ v7 שַׁדְרַ֔ךְ|šaḏ·raḵ|Shadrach|H7714|N-proper-ms
 v7 וּלְמִֽישָׁאֵ֣ל|ū·lə·mî·šā·’êl|to Mishael|H4332|Conj-w, Prep-l | N-proper-ms
 v7 מֵישַׁ֔ךְ|mê·šaḵ|Meshach|H4335|N-proper-ms
 v7 וְלַעֲזַרְיָ֖ה|wə·la·‘ă·zar·yāh|and to Azariah|H5838|Conj-w, Prep-l | N-proper-ms
-v7 עֲבֵ֥ד|‘ă·ḇêḏ|vvv|H5664|
+v7 עֲבֵ֥ד|‘ă·ḇêḏ|...|H5664|
 v7 נְגֽוֹ׃|nə·ḡōw|Abednego|H5664|N-proper-ms
 v8 וַיָּ֤שֶׂם|way·yā·śem|made|H7760|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דָּנִיֵּאל֙|dā·nî·yêl|But Daniel|H1841|N-proper-ms
@@ -186,7 +186,7 @@ v12 עֲבָדֶ֖יךָ|‘ă·ḇā·ḏe·ḵā|your servants|H5650|N-mpc | 
 v12 יָמִ֣ים|yā·mîm|days|H3117|N-mp
 v12 עֲשָׂרָ֑ה|‘ă·śā·rāh|for ten|H6235|Number-ms
 v12 וְיִתְּנוּ־|wə·yit·tə·nū-|Let us be given|H5414|Conj-w | V-Qal-ConjImperf-3mp
-v12 לָ֜נוּ|lā·nū||H0|Prep | 1cp
+v12 לָ֜נוּ|lā·nū|-|H0|Prep | 1cp
 v12 מִן־|min-|only|H4480|Prep
 v12 הַזֵּרֹעִ֛ים|haz·zê·rō·‘îm|vegetables|H2235|Art | N-mp
 v12 וְנֹאכְלָ֖ה|wə·nō·ḵə·lāh|to eat|H398|Conj-w | V-Qal-ConjImperf.Cohort-1cp
@@ -207,8 +207,8 @@ v13 עֲשֵׂ֖ה|‘ă·śêh|and deal|H6213|V-Qal-Imp-ms
 v13 עִם־|‘im-|with|H5973|Prep
 v13 עֲבָדֶֽיךָ׃|‘ă·ḇā·ḏe·ḵā|your servants|H5650|N-mpc | 2ms
 v14 וַיִּשְׁמַ֥ע|way·yiš·ma‘|So he consented|H8085|Conj-w | V-Qal-ConsecImperf-3ms
-v14 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
-v14 לַדָּבָ֣ר|lad·dā·ḇār|vvv|H1697|Prep-l, Art | N-ms
+v14 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
+v14 לַדָּבָ֣ר|lad·dā·ḇār|...|H1697|Prep-l, Art | N-ms
 v14 הַזֶּ֑ה|haz·zeh|to this|H2088|Art | Pro-ms
 v14 וַיְנַסֵּ֖ם|way·nas·sêm|and tested them|H5254|Conj-w | V-Piel-ConsecImperf-3ms | 3mp
 v14 יָמִ֥ים|yā·mîm|days|H3117|N-mp
@@ -242,7 +242,7 @@ v17 וְהַיְלָדִ֤ים|wə·hay·lā·ḏîm|young men|H3206|Conj-w, Art
 v17 הָאֵ֙לֶּה֙|hā·’êl·leh|To these|H428|Art | Pro-cp
 v17 אַרְבַּעְתָּ֔ם|’ar·ba‘·tām|four|H702|Number-msc | 3mp
 v17 נָתַ֨ן|nā·ṯan|gave|H5414|V-Qal-Perf-3ms
-v17 לָהֶ֧ם|lā·hem||H0|Prep | 3mp
+v17 לָהֶ֧ם|lā·hem|-|H0|Prep | 3mp
 v17 הָֽאֱלֹהִ֛ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
 v17 מַדָּ֥ע|mad·dā‘|knowledge|H4093|N-ms
 v17 וְהַשְׂכֵּ֖ל|wə·haś·kêl|and understanding|H7919|Conj-w | V-Hifil-InfAbs
@@ -302,4 +302,4 @@ v21 עַד־|‘aḏ-|there until|H5704|Prep
 v21 שְׁנַ֥ת|šə·naṯ|year|H8141|N-fsc
 v21 אַחַ֖ת|’a·ḥaṯ|the first|H259|Number-fs
 v21 לְכ֥וֹרֶשׁ|lə·ḵō·w·reš|Cyrus|H3566|Prep-l | N-proper-ms
-v21 הַמֶּֽלֶךְ׃פ|ham·me·leḵ|of King|H4428|Art | N-ms
+v21 הַמֶּֽלֶךְ׃|ham·me·leḵ|of King|H4428|Art | N-ms

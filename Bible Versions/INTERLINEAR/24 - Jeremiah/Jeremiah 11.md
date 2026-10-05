@@ -79,7 +79,7 @@ v5 הַזֶּ֑ה|haz·zeh|...|H2088|Art | Pro-ms
 v5 וָאַ֥עַן|wā·’a·‘an|I answered|H6030|Conj-w | V-Qal-ConsecImperf-1cs
 v5 וָאֹמַ֖ר|wā·’ō·mar|...|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v5 אָמֵ֥ן׀|’ā·mên|Amen|H543|Adv
-v5 יְהוָֽה׃ס|Yah·weh|LORD|H3068|N-proper-ms
+v5 יְהוָֽה׃|Yah·weh|LORD|H3068|N-proper-ms
 v6 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v6 אֵלַ֔י|’ê·lay|to me|H413|Prep | 1cs
@@ -121,7 +121,7 @@ v8 וְלֹ֤א|wə·lō|Yet they would|H3808|Conj-w | Adv-NegPrt
 v8 שָֽׁמְעוּ֙|šā·mə·‘ū|obey|H8085|V-Qal-Perf-3cp
 v8 וְלֹֽא־|wə·lō-|not|H3808|Conj-w | Adv-NegPrt
 v8 הִטּ֣וּ|hiṭ·ṭū|or incline|H5186|V-Hifil-Perf-3cp
-v8 אֶת־|’eṯ-||H853|DirObjM
+v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 אָזְנָ֔ם|’ā·zə·nām|their ears|H241|N-fsc | 3mp
 v8 וַיֵּ֣לְכ֔וּ|way·yê·lə·ḵū|followed|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v8 אִ֕ישׁ|’îš|but each one|H376|N-ms
@@ -139,7 +139,7 @@ v8 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v8 צִוִּ֥יתִי|ṣiw·wî·ṯî|I had commanded them|H6680|V-Piel-Perf-1cs
 v8 לַעֲשׂ֖וֹת|la·‘ă·śō·wṯ|but they did not keep|H6213|Prep-l | V-Qal-Inf
 v8 וְלֹ֥א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
-v8 עָשֽׂוּ׃ס|‘ā·śū|to follow|H6213|V-Qal-Perf-3cp
+v8 עָשֽׂוּ׃|‘ā·śū|to follow|H6213|V-Qal-Perf-3cp
 v9 וַיֹּ֥אמֶר|way·yō·mer|told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v9 אֵלָ֑י|’ê·lāy|me|H413|Prep | 1cs
@@ -175,7 +175,7 @@ v10 בְּרִיתִ֕י|bə·rî·ṯî|the covenant|H1285|N-fsc | 1cs
 v10 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v10 כָּרַ֖תִּי|kā·rat·tî|I made|H3772|V-Qal-Perf-1cs
 v10 אֶת־|’eṯ-|with|H854|Prep
-v10 אֲבוֹתָֽם׃ס|’ă·ḇō·w·ṯām|their fathers|H1|N-mpc | 3mp
+v10 אֲבוֹתָֽם׃|’ă·ḇō·w·ṯām|their fathers|H1|N-mpc | 3mp
 v11 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v11 כֹּ֚ה|kōh|this is what|H3541|Adv
 v11 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -205,7 +205,7 @@ v12 הָ֣אֱלֹהִ֔ים|hā·’ĕ·lō·hîm|the gods|H430|Art | N-mp
 v12 אֲשֶׁ֛ר|’ă·šer|to which|H834|Pro-r
 v12 הֵ֥ם|hêm|they|H1992|Pro-3mp
 v12 מְקַטְּרִ֖ים|mə·qaṭ·ṭə·rîm|have been burning incense|H6999|V-Piel-Prtcpl-mp
-v12 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v12 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v12 וְהוֹשֵׁ֛עַ|wə·hō·wō·šê·a‘|save|H3467|Conj-w | V-Hifil-InfAbs
 v12 לֹֽא־|lō-|but [these gods] certainly will not|H3808|Adv-NegPrt
 v12 יוֹשִׁ֥יעוּ|yō·wō·šî·‘ū|...|H3467|V-Hifil-Imperf-3mp
@@ -226,7 +226,7 @@ v13 מִזְבְּחוֹת֙|miz·bə·ḥō·wṯ|the altars|H4196|N-mp
 v13 לַבֹּ֔שֶׁת|lab·bō·šeṯ|of shame|H1322|Prep-l, Art | N-fs
 v13 מִזְבְּח֖וֹת|miz·bə·ḥō·wṯ|the altars|H4196|N-mp
 v13 לְקַטֵּ֥ר|lə·qaṭ·ṭêr|to burn incense|H6999|Prep-l | V-Piel-Inf
-v13 לַבָּֽעַל׃ס|lab·bā·‘al|to Baal|H1168|Prep-l, Art | N-proper-ms
+v13 לַבָּֽעַל׃|lab·bā·‘al|to Baal|H1168|Prep-l, Art | N-proper-ms
 v14 וְאַתָּ֗ה|wə·’at·tāh|As for you|H859|Conj-w | Pro-2ms
 v14 אַל־|’al-|do not|H408|Adv
 v14 תִּתְפַּלֵּל֙|tiṯ·pal·lêl|pray|H6419|V-Hitpael-Imperf-2ms
@@ -245,7 +245,7 @@ v14 בְּעֵ֛ת|bə·‘êṯ|in their time|H6256|Prep-b | N-csc
 v14 קָרְאָ֥ם|qā·rə·’ām|when they call out|H7121|V-Qal-Inf | 3mp
 v14 אֵלַ֖י|’ê·lay|to Me|H413|Prep | 1cs
 v14 בְּעַ֥ד|bə·‘aḏ|...|H1157|Prep
-v14 רָעָתָֽם׃ס|rā·‘ā·ṯām|of disaster|H7451|N-fsc | 3mp
+v14 רָעָתָֽם׃|rā·‘ā·ṯām|of disaster|H7451|N-fsc | 3mp
 v15 מֶ֣ה|meh|What right|H4100|Interrog
 v15 לִֽידִידִ֞י|lî·ḏî·ḏî|has My beloved|H3039|Prep-l | N-msc | 1cs
 v15 בְּבֵיתִ֗י|bə·ḇê·ṯî|in My house|H1004|Prep-b | N-msc | 1cs
@@ -294,7 +294,7 @@ v17 עָשׂ֥וּ|‘ā·śū|have brought upon themselves|H6213|V-Qal-Perf-3cp
 v17 לָהֶ֛ם|lā·hem|...|H0|Prep-l | Pro-3mp
 v17 לְהַכְעִסֵ֖נִי|lə·haḵ·‘i·sê·nî|provoking Me to anger|H3707|Prep-l | V-Hifil-Inf | 1cs
 v17 לְקַטֵּ֥ר|lə·qaṭ·ṭêr|by burning incense|H6999|Prep-l | V-Piel-Inf
-v17 לַבָּֽעַל׃ס|lab·bā·‘al|to Baal|H1168|Prep-l, Art | N-proper-ms
+v17 לַבָּֽעַל׃|lab·bā·‘al|to Baal|H1168|Prep-l, Art | N-proper-ms
 v18 וַֽיהוָ֥ה|Yah·weh|And the LORD|H3068|Conj-w | N-proper-ms
 v18 הֽוֹדִיעַ֖נִי|hō·w·ḏî·‘a·nî|informed me|H3045|V-Hifil-Perf-3ms | 1cs
 v18 וָֽאֵדָ֑עָה|wā·’ê·ḏā·‘āh|so I knew|H3045|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
@@ -336,7 +336,7 @@ v20 כִּ֥י|kî|for|H3588|Conj
 v20 אֵלֶ֖יךָ|’ê·le·ḵā|to You|H413|Prep | 2ms
 v20 גִּלִּ֥יתִי|gil·lî·ṯî|I have committed|H1540|V-Piel-Perf-1cs
 v20 אֶת־|’eṯ-|-|H853|DirObjM
-v20 רִיבִֽי׃ס|rî·ḇî|my cause|H7379|N-msc | 1cs
+v20 רִיבִֽי׃|rî·ḇî|my cause|H7379|N-msc | 1cs
 v21 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v21 כֹּֽה־|kōh-|this is what|H3541|Adv
 v21 אָמַ֤ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -354,7 +354,7 @@ v21 בְּשֵׁ֣ם|bə·šêm|in the name|H8034|Prep-b | N-msc
 v21 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v21 וְלֹ֥א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v21 תָמ֖וּת|ṯā·mūṯ|or you will die|H4191|V-Qal-Imperf-2ms
-v21 בְּיָדֵֽנוּ׃ס|bə·yā·ḏê·nū|by our hand|H3027|Prep-b | N-fsc | 1cp
+v21 בְּיָדֵֽנוּ׃|bə·yā·ḏê·nū|by our hand|H3027|Prep-b | N-fsc | 1cp
 v22 לָכֵ֗ן|lā·ḵên|So|H3651|Adv
 v22 כֹּ֤ה|kōh|this is what|H3541|Adv
 v22 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -373,7 +373,7 @@ v22 בָּרָעָֽב׃|bā·rā·‘āḇ|by famine|H7458|Prep-b, Art | N-ms
 v23 וּשְׁאֵרִ֕ית|ū·šə·’ê·rîṯ|remnant|H7611|Conj-w | N-fs
 v23 לֹ֥א|lō|no|H3808|Adv-NegPrt
 v23 תִֽהְיֶ֖ה|ṯih·yeh|There will be|H1961|V-Qal-Imperf-3fs
-v23 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v23 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v23 כִּֽי־|kî-|for|H3588|Conj
 v23 אָבִ֥יא|’ā·ḇî|I will bring|H935|V-Hifil-Imperf-1cs
 v23 רָעָ֛ה|rā·‘āh|disaster|H7451|Adj-fs
@@ -381,4 +381,4 @@ v23 אֶל־|’el-|on|H413|Prep
 v23 אַנְשֵׁ֥י|’an·šê|the people|H582|N-mpc
 v23 עֲנָת֖וֹת|‘ă·nā·ṯō·wṯ|of Anathoth|H6068|N-proper-fs
 v23 שְׁנַ֥ת|šə·naṯ|in the year|H8141|N-fsc
-v23 פְּקֻדָּתָֽם׃ס|pə·qud·dā·ṯām|of their punishment|H6486|N-fsc | 3mp
+v23 פְּקֻדָּתָֽם׃|pə·qud·dā·ṯām|of their punishment|H6486|N-fsc | 3mp

@@ -33,7 +33,7 @@ v3 ὑπὸ|hypo|by|G5259|Prep
 v3 ἀνθρωπίνης|anthrōpinēs|any human|G442|Adj-GFS
 v3 ἡμέρας|hēmeras|court|G2250|N-GFS
 v3 ἀλλ’|all’|In fact|G235|Conj
-v3 οὐδὲ|oude|vvv|G3761|Adv
+v3 οὐδὲ|oude|...|G3761|Adv
 v3 ἐμαυτὸν|emauton|myself|G1683|PPro-AM1S
 v3 ἀνακρίνω|anakrinō|I do not even judge|G350|V-PIA-1S
 v4 οὐδὲν|ouden|...|G3762|Adj-ANS
@@ -41,7 +41,7 @@ v4 γὰρ|gar|-|G1063|Conj
 v4 ἐμαυτῷ|emautō|...|G1683|PPro-DM1S
 v4 σύνοιδα|synoida|My conscience is clear|G4894|V-RIA-1S
 v4 ἀλλ’|all’|but|G235|Conj
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 ἐν|en|-|G1722|Prep
 v4 τούτῳ|toutō|that|G3778|DPro-DNS
 v4 δεδικαίωμαι|dedikaiōmai|does not vindicate me|G1344|V-RIM/P-1S
@@ -52,7 +52,7 @@ v4 με|me|me|G1473|PPro-A1S
 v4 Κύριός|Kyrios|[the] Lord|G2962|N-NMS
 v4 ἐστιν|estin|It is|G1510|V-PIA-3S
 v5 Ὥστε|Hōste|Therefore|G5620|Conj
-v5 μὴ|mē|vvv|G3361|Adv
+v5 μὴ|mē|...|G3361|Adv
 v5 πρὸ|pro|before|G4253|Prep
 v5 καιροῦ|kairou|[the] appointed time|G2540|N-GMS
 v5 τι|ti|nothing|G5100|IPro-ANS
@@ -104,14 +104,14 @@ v6 ὑπὲρ|hyper|[to go] beyond|G5228|Prep
 v6 ἃ|ha|what|G3739|RelPro-ANP
 v6 γέγραπται|gegraptai|is written|G1125|V-RIM/P-3S
 v6 ἵνα|hina|Then|G2443|Conj
-v6 μὴ|mē|vvv|G3361|Adv
-v6 εἷς|heis|vvv|G1520|Adj-NMS
+v6 μὴ|mē|...|G3361|Adv
+v6 εἷς|heis|...|G1520|Adj-NMS
 v6 ὑπὲρ|hyper|in|G5228|Prep
 v6 τοῦ|tou|-|G3588|Art-GMS
 v6 ἑνὸς|henos|one [man]|G1520|Adj-GMS
 v6 φυσιοῦσθε|physiousthe|you will not take pride|G5448|V-PIM/P-2P
 v6 κατὰ|kata|over|G2596|Prep
-v6 τοῦ|tou|vvv|G3588|Art-GMS
+v6 τοῦ|tou|...|G3588|Art-GMS
 v6 ἑτέρου|heterou|another|G2087|Adj-GMS
 v7 τίς|tis|who|G5101|IPro-NMS
 v7 γάρ|gar|For|G1063|Conj
@@ -121,20 +121,20 @@ v7 τί|ti|What|G5101|IPro-ANS
 v7 δὲ|de|-|G1161|Conj
 v7 ἔχεις|echeis|do you have|G2192|V-PIA-2S
 v7 ὃ|ho|that|G3739|RelPro-ANS
-v7 οὐκ|ouk|vvv|G3756|Adv
+v7 οὐκ|ouk|...|G3756|Adv
 v7 ἔλαβες|elabes|you did not receive|G2983|V-AIA-2S
 v7 εἰ|ei|if|G1487|Conj
 v7 δὲ|de|And|G1161|Conj
-v7 καὶ|kai|vvv|G2532|Conj
+v7 καὶ|kai|...|G2532|Conj
 v7 ἔλαβες|elabes|you did receive [it]|G2983|V-AIA-2S
 v7 τί|ti|why|G5101|IPro-ANS
 v7 καυχᾶσαι|kauchasai|do you boast|G2744|V-PIM/P-2S
 v7 ὡς|hōs|as though|G5613|Adv
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 λαβών|labōn|[you did not]|G2983|V-APA-NMS
 v8 ἤδη|Ēdē|Already|G2235|Adv
 v8 κεκορεσμένοι|kekoresmenoi|you have all you want|G2880|V-RPM/P-NMP
-v8 ἐστέ|este|vvv|G1510|V-PIA-2P
+v8 ἐστέ|este|...|G1510|V-PIA-2P
 v8 ἤδη|ēdē|Already|G2235|Adv
 v8 ἐπλουτήσατε|eploutēsate|you have become rich|G4147|V-AIA-2P
 v8 χωρὶς|chōris|Without|G5565|Prep
@@ -142,7 +142,7 @@ v8 ἡμῶν|hēmōn|us|G1473|PPro-G1P
 v8 ἐβασιλεύσατε|ebasileusate|you have become kings|G936|V-AIA-2P
 v8 καὶ|kai|-|G2532|Conj
 v8 ὄφελόν|ophelon|How I wish|G3785|I
-v8 γε|ge|vvv|G1065|Prtcl
+v8 γε|ge|...|G1065|Prtcl
 v8 ἐβασιλεύσατε|ebasileusate|you really were kings|G936|V-AIA-2P
 v8 ἵνα|hina|so that|G2443|Conj
 v8 καὶ|kai|-|G2532|Conj
@@ -223,7 +223,7 @@ v13 πάντων|pantōn|of [the world]|G3956|Adj-GNP
 v13 περίψημα|peripsēma|[the] refuse|G4067|N-NNS
 v13 ἕως|heōs|Up to|G2193|Prep
 v13 ἄρτι|arti|this moment|G737|Adv
-v14 Οὐκ|Ouk|vvv|G3756|Adv
+v14 Οὐκ|Ouk|...|G3756|Adv
 v14 ἐντρέπων|entrepōn|to shame|G1788|V-PPA-NMS
 v14 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v14 γράφω|graphō|I am not writing|G1125|V-PIA-1S
@@ -260,7 +260,7 @@ v16 οὖν|oun|Therefore|G3767|Conj
 v16 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v16 μιμηταί|mimētai|to imitate|G3402|N-NMP
 v16 μου|mou|me|G1473|PPro-G1S
-v16 γίνεσθε|ginesthe|vvv|G1096|V-PMM/P-2P
+v16 γίνεσθε|ginesthe|...|G1096|V-PMM/P-2P
 v17 Διὰ|Dia|That is why|G1223|Prep
 v17 τοῦτο|touto|...|G3778|DPro-ANS
 v17 〈αὐτὸ〉|auto|...|G846|Adj-ANS
@@ -293,7 +293,7 @@ v17 πάσῃ|pasē|every|G3956|Adj-DFS
 v17 ἐκκλησίᾳ|ekklēsia|church|G1577|N-DFS
 v17 διδάσκω|didaskō|I teach|G1321|V-PIA-1S
 v18 Ὡς|Hōs|as if|G5613|Adv
-v18 μὴ|mē|vvv|G3361|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 ἐρχομένου|erchomenou|were not coming|G2064|V-PPM/P-GMS
 v18 δέ|de|-|G1161|Conj
 v18 μου|mou|I|G1473|PPro-G1S

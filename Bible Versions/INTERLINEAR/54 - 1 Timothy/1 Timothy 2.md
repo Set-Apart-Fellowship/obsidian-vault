@@ -69,7 +69,7 @@ v6 πάντων|pantōn|all|G3956|Adj-GMP
 v6 τὸ|to|the|G3588|Art-NNS
 v6 μαρτύριον|martyrion|testimony that was given|G3142|N-NNS
 v6 καιροῖς|kairois|at just the right time|G2540|N-DMP
-v6 ἰδίοις|idiois|vvv|G2398|Adj-DMP
+v6 ἰδίοις|idiois|...|G2398|Adj-DMP
 v7 εἰς|eis|For|G1519|Prep
 v7 ὃ|ho|[this reason]|G3739|RelPro-ANS
 v7 ἐτέθην|etethēn|was appointed as|G5087|V-AIP-1S
@@ -92,8 +92,8 @@ v8 οὖν|oun|Therefore|G3767|Conj
 v8 προσεύχεσθαι|proseuchesthai|to pray|G4336|V-PNM/P
 v8 τοὺς|tous|the|G3588|Art-AMP
 v8 ἄνδρας|andras|men|G435|N-AMP
-v8 ἐν|en|vvv|G1722|Prep
-v8 παντὶ|panti|vvv|G3956|Adj-DMS
+v8 ἐν|en|...|G1722|Prep
+v8 παντὶ|panti|...|G3956|Adj-DMS
 v8 τόπῳ|topō|everywhere|G5117|N-DMS
 v8 ἐπαίροντας|epairontas|lifting up|G1869|V-PPA-AMP
 v8 ὁσίους|hosious|holy|G3741|Adj-AFP
@@ -143,7 +143,7 @@ v11 ὑποταγῇ|hypotagē|submissiveness|G5292|N-DFS
 v12 διδάσκειν|didaskein|to teach|G1321|V-PNA
 v12 δὲ|de|-|G1161|Conj
 v12 γυναικὶ|gynaiki|a woman|G1135|N-DFS
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 ἐπιτρέπω|epitrepō|I do not permit|G2010|V-PIA-1S
 v12 οὐδὲ|oude|[or]|G3761|Conj
 v12 αὐθεντεῖν|authentein|to exercise authority over|G831|V-PNA
@@ -170,7 +170,7 @@ v14 ἐν|en|into|G1722|Prep
 v14 παραβάσει|parabasei|transgression|G3847|N-DFS
 v14 γέγονεν|gegonen|[and] fell|G1096|V-RIA-3S
 v15 σωθήσεται|sōthēsetai|Women, however, will be saved|G4982|V-FIP-3S
-v15 δὲ|de|vvv|G1161|Conj
+v15 δὲ|de|...|G1161|Conj
 v15 διὰ|dia|through|G1223|Prep
 v15 τῆς|tēs|-|G3588|Art-GFS
 v15 τεκνογονίας|teknogonias|childbearing|G5042|N-GFS

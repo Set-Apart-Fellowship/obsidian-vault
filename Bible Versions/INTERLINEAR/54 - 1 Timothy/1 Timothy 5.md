@@ -86,7 +86,7 @@ v8 ἰδίων|idiōn|own|G2398|Adj-GMP
 v8 καὶ|kai|and|G2532|Conj
 v8 μάλιστα|malista|especially [his own]|G3122|Adv
 v8 οἰκείων|oikeiōn|household|G3609|Adj-GMP
-v8 οὐ|ou|vvv|G3756|Adv
+v8 οὐ|ou|...|G3756|Adv
 v8 προνοεῖ|pronoei|does not provide for|G4306|V-PIA-3S
 v8 τὴν|tēn|the|G3588|Art-AFS
 v8 πίστιν|pistin|faith|G4102|N-AFS
@@ -97,7 +97,7 @@ v8 ἀπίστου|apistou|an unbeliever|G571|Adj-GMS
 v8 χείρων|cheirōn|worse than|G5501|Adj-NMS-C
 v9 Χήρα|Chēra|A widow|G5503|N-NFS
 v9 καταλεγέσθω|katalegesthō|should be enrolled|G2639|V-PMM/P-3S
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 ἔλαττον|elatton|[at least]|G1640|Adj-ANS-C
 v9 ἐτῶν|etōn|years [old]|G2094|N-GNP
 v9 ἑξήκοντα|hexēkonta|sixty|G1835|Adj-GNP
@@ -145,7 +145,7 @@ v12 πίστιν|pistin|faith|G4102|N-AFS
 v12 ἠθέτησαν|ēthetēsan|they are setting aside|G114|V-AIA-3P
 v13 ἅμα|hama|At the same time|G260|Adv
 v13 δὲ|de|-|G1161|Conj
-v13 καὶ|kai|vvv|G2532|Conj
+v13 καὶ|kai|...|G2532|Conj
 v13 ἀργαὶ|argai|[to be] idle|G692|Adj-NFP
 v13 μανθάνουσιν|manthanousin|they will also learn|G3129|V-PIA-3P
 v13 περιερχόμεναι|perierchomenai|going from|G4022|V-PPM/P-NFP
@@ -177,7 +177,7 @@ v14 τῷ|tō|the|G3588|Art-DMS
 v14 ἀντικειμένῳ|antikeimenō|adversary|G480|V-PPM/P-DMS
 v14 λοιδορίας|loidorias|slander|G3059|N-GFS
 v14 χάριν|charin|for|G5484|Prep
-v15 ἤδη|ēdē|vvv|G2235|Adv
+v15 ἤδη|ēdē|...|G2235|Adv
 v15 γάρ|gar|For|G1063|Conj
 v15 τινες|tines|some|G5100|IPro-NFP
 v15 ἐξετράπησαν|exetrapēsan|have already turned aside|G1624|V-AIP-3P
@@ -221,7 +221,7 @@ v18 ἡ|hē|the|G3588|Art-NFS
 v18 γραφή|graphē|Scripture|G1124|N-NFS
 v18 Βοῦν|Boun|an ox|G1016|N-AMS
 v18 ἀλοῶντα|aloōnta|while it is treading out the grain|G248|V-PPA-AMS
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 φιμώσεις|phimōseis|Do not muzzle|G5392|V-FIA-2S
 v18 καί|kai|and|G2532|Conj
 v18 Ἄξιος|Axios|[is] worthy|G514|Adj-NMS
@@ -286,7 +286,7 @@ v22 ἀλλοτρίαις|allotriais|of others|G245|Adj-DFP
 v22 σεαυτὸν|seauton|yourself|G4572|PPro-AM2S
 v22 ἁγνὸν|hagnon|pure|G53|Adj-AMS
 v22 τήρει|tērei|Keep|G5083|V-PMA-2S
-v23 Μηκέτι|Mēketi|vvv|G3371|Adv
+v23 Μηκέτι|Mēketi|...|G3371|Adv
 v23 ὑδροπότει|hydropotei|Stop drinking [only] water|G5202|V-PMA-2S
 v23 ἀλλὰ|alla|instead|G235|Conj
 v23 οἴνῳ|oinō|wine|G3631|N-DMS
@@ -311,7 +311,7 @@ v24 εἰς|eis|to|G1519|Prep
 v24 κρίσιν|krisin|judgment|G2920|N-AFS
 v24 τισὶν|tisin|[the sins] of others|G5100|IPro-DMP
 v24 δὲ|de|but|G1161|Conj
-v24 καὶ|kai|vvv|G2532|Conj
+v24 καὶ|kai|...|G2532|Conj
 v24 ἐπακολουθοῦσιν|epakolouthousin|do [not] surface until later|G1872|V-PIA-3P
 v25 ὡσαύτως|hōsautōs|In the same way|G5615|Adv
 v25 καὶ|kai|...|G2532|Conj
@@ -325,5 +325,5 @@ v25 τὰ|ta|the [ones that]|G3588|Art-NNP
 v25 ἄλλως|allōs|[inconspicuous]|G247|Adv
 v25 ἔχοντα|echonta|are|G2192|V-PPA-NNP
 v25 κρυβῆναι|krybēnai|remain hidden|G2928|V-ANP
-v25 οὐ|ou|vvv|G3756|Adv
+v25 οὐ|ou|...|G3756|Adv
 v25 δύνανται|dynantai|cannot|G1410|V-PIM/P-3P

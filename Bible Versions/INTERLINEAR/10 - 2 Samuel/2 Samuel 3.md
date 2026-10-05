@@ -13,7 +13,7 @@ v1 וְחָזֵ֔ק|wə·ḥā·zêq|and stronger|H2390|Conj-w | Adj-ms
 v1 וּבֵ֥ית|ū·ḇêṯ|while the house|H1004|Conj-w | N-msc
 v1 שָׁא֖וּל|šā·’ūl|of Saul|H7586|N-proper-ms
 v1 הֹלְכִ֥ים|hō·lə·ḵîm|grew [weaker]|H1980|V-Qal-Prtcpl-mp
-v1 וְדַלִּֽים׃ס|wə·ḏal·lîm|and weaker|H1800|Conj-w | Adj-mp
+v1 וְדַלִּֽים׃|wə·ḏal·lîm|and weaker|H1800|Conj-w | Adj-mp
 v2 וַיֵּלְדוּ|way·yē·lə·ḏū|were born|H3205|Conj-w | V-Nifal-ConsecImperf-3mp
 v2 לְדָוִ֛ד|lə·ḏā·wiḏ|to David|H1732|Prep-l | N-proper-ms
 v2 בָּנִ֖ים|bā·nîm|And sons|H1121|N-mp
@@ -53,7 +53,7 @@ v5 דָּוִ֑ד|dā·wiḏ|by David's|H1732|N-proper-ms
 v5 אֵ֛לֶּה|’êl·leh|These [sons]|H428|Pro-cp
 v5 יֻלְּד֥וּ|yul·lə·ḏū|were born|H3205|V-QalPass-Perf-3cp
 v5 לְדָוִ֖ד|lə·ḏā·wiḏ|to David|H1732|Prep-l | N-proper-ms
-v5 בְּחֶבְרֽוֹן׃פ|bə·ḥeḇ·rō·wn|in Hebron|H2275|Prep-b | N-proper-fs
+v5 בְּחֶבְרֽוֹן׃|bə·ḥeḇ·rō·wn|in Hebron|H2275|Prep-b | N-proper-fs
 v6 וַיְהִ֗י|way·hî|During|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v6 בִּֽהְיוֹת֙|bih·yō·wṯ|...|H1961|Prep-b | V-Qal-Inf
 v6 הַמִּלְחָמָ֔ה|ham·mil·ḥā·māh|the war|H4421|Art | N-fs
@@ -75,7 +75,7 @@ v7 רִצְפָּ֣ה|riṣ·pāh|Rizpah|H7532|N-proper-fs
 v7 בַת־|ḇaṯ-|the daughter|H1323|N-fsc
 v7 אַיָּ֑ה|’ay·yāh|of Aiah|H345|N-proper-ms
 v7 וַיֹּ֙אמֶר֙|way·yō·mer|So Ish-bosheth questioned|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v7 אֶל־|’el-||H413|Prep
+v7 אֶל־|’el-|-|H413|Prep
 v7 אַבְנֵ֔ר|’aḇ·nêr|Abner|H74|N-proper-ms
 v7 מַדּ֥וּעַ|mad·dū·a‘|Why|H4069|Interrog
 v7 בָּ֖אתָה|bā·ṯāh|did you sleep with|H935|V-Qal-Perf-2ms
@@ -84,10 +84,10 @@ v7 פִּילֶ֥גֶשׁ|pî·le·ḡeš|concubine|H6370|N-fsc
 v7 אָבִֽי׃|’ā·ḇî|my father's|H1|N-msc | 1cs
 v8 וַיִּחַר֩|way·yi·ḥar|was furious|H2734|Conj-w | V-Qal-ConsecImperf-3ms
 v8 לְאַבְנֵ֨ר|lə·’aḇ·nêr|Abner|H74|Prep-l | N-proper-ms
-v8 מְאֹ֜ד|mə·’ōḏ|vvv|H3966|Adv
+v8 מְאֹ֜ד|mə·’ōḏ|...|H3966|Adv
 v8 עַל־|‘al-|over|H5921|Prep
 v8 דִּבְרֵ֣י|diḇ·rê|accusation|H1697|N-mpc
-v8 אִֽישׁ־|’îš-|vvv|H378|
+v8 אִֽישׁ־|’îš-|...|H378|
 v8 בֹּ֗שֶׁת|bō·šeṯ|Ish-bosheth's|H378|N-proper-ms
 v8 וַיֹּ֙אמֶר֙|way·yō·mer|he asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 הֲרֹ֨אשׁ|hă·rōš|the head|H7218|Art | N-msc
@@ -96,7 +96,7 @@ v8 אָנֹ֘כִי֮|’ā·nō·ḵî|Am I|H595|Pro-1cs
 v8 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v8 לִֽיהוּדָה֒|lî·hū·ḏāh|belongs to Judah|H3063|Prep-l | N-proper-ms
 v8 הַיּ֨וֹם|hay·yō·wm|All this time|H3117|Art | N-ms
-v8 אֶֽעֱשֶׂה־|’e·‘ĕ·śeh-|vvv|H6213|V-Qal-Imperf-1cs
+v8 אֶֽעֱשֶׂה־|’e·‘ĕ·śeh-|...|H6213|V-Qal-Imperf-1cs
 v8 חֶ֜סֶד|ḥe·seḏ|I have been loyal|H2617|N-ms
 v8 עִם־|‘im-|to|H5973|Prep
 v8 בֵּ֣ית׀|bêṯ|the house|H1004|N-msc
@@ -121,7 +121,7 @@ v9 אֱלֹהִים֙|’ĕ·lō·hîm|May God|H430|N-mp
 v9 לְאַבְנֵ֔ר|lə·’aḇ·nêr|Abner|H74|Prep-l | N-proper-ms
 v9 וְכֹ֖ה|wə·ḵōh|and ever so|H3541|Conj-w | Adv
 v9 יֹסִ֣יף|yō·sîp̄|severely|H3254|V-Hifil-Imperf-3ms
-v9 ל֑וֹ|lōw||H0|Prep | 3ms
+v9 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v9 כִּ֗י|kî|if|H3588|Conj
 v9 כַּאֲשֶׁ֨ר|ka·’ă·šer|what|H834|Prep-k | Pro-r
 v9 נִשְׁבַּ֤ע|niš·ba‘|has sworn to him|H7650|V-Nifal-Perf-3ms
@@ -130,7 +130,7 @@ v9 לְדָוִ֔ד|lə·ḏā·wiḏ|for David|H1732|Prep-l | N-proper-ms
 v9 כִּֽי־|kî-|...|H3588|Conj
 v9 כֵ֖ן|ḵên|...|H3651|Adv
 v9 אֶֽעֱשֶׂה־|’e·‘ĕ·śeh-|I do not do|H6213|V-Qal-Imperf-1cs
-v9 לּֽוֹ׃|lōw||H0|Prep | 3ms
+v9 לּֽוֹ׃|lōw|-|H0|Prep | 3ms
 v10 לְהַֽעֲבִ֥יר|lə·ha·‘ă·ḇîr|to transfer|H5674|Prep-l | V-Hifil-Inf
 v10 הַמַּמְלָכָ֖ה|ham·mam·lā·ḵāh|the kingdom|H4467|Art | N-fs
 v10 מִבֵּ֣ית|mib·bêṯ|from the house|H1004|Prep-m | N-msc
@@ -145,7 +145,7 @@ v10 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v10 יְהוּדָ֔ה|yə·hū·ḏāh|and Judah|H3063|N-proper-ms
 v10 מִדָּ֖ן|mid·dān|from Dan|H1835|Prep-m | N-proper-ms
 v10 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
-v10 בְּאֵ֥ר|bə·’êr|vvv|H884|Prep
+v10 בְּאֵ֥ר|bə·’êr|...|H884|Prep
 v10 שָֽׁבַע׃|šā·ḇa‘|Beersheba|H884|N-proper-fs
 v11 וְלֹֽא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v11 יָכֹ֣ל|yā·ḵōl|Ish-bosheth did not dare|H3201|V-Qal-Perf-3ms
@@ -155,7 +155,7 @@ v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 אַבְנֵ֖ר|’aḇ·nêr|to [him]|H74|N-proper-ms
 v11 דָּבָ֑ר|dā·ḇār|another word|H1697|N-ms
 v11 מִיִּרְאָת֖וֹ|mî·yir·’ā·ṯōw|And for fear|H3372|Prep-m | V-Qal-Inf | 3ms
-v11 אֹתֽוֹ׃ס|’ō·ṯōw|[of Abner]|H853|DirObjM | 3ms
+v11 אֹתֽוֹ׃|’ō·ṯōw|[of Abner]|H853|DirObjM | 3ms
 v12 וַיִּשְׁלַח֩|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v12 אַבְנֵ֨ר|’aḇ·nêr|Then Abner|H74|N-proper-ms
 v12 מַלְאָכִ֧ים׀|mal·’ā·ḵîm|messengers|H4397|N-mp
@@ -194,7 +194,7 @@ v13 לֹא־|lō-|Do not|H3808|Adv-NegPrt
 v13 תִרְאֶ֣ה|ṯir·’eh|appear|H7200|V-Qal-Imperf-2ms
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 פָּנַ֔י|pā·nay|before me|H6440|N-mpc | 1cs
-v13 כִּ֣י׀|kî||H3588|Conj
+v13 כִּ֣י׀|kî|-|H3588|Conj
 v13 אִם־|’im-|unless|H518|Conj
 v13 לִפְנֵ֣י|lip̄·nê|...|H6440|Prep-l | N-cpc
 v13 הֱבִיאֲךָ֗|hĕ·ḇî·’ă·ḵā|you bring|H935|V-Hifil-Inf | 2ms
@@ -205,12 +205,12 @@ v13 שָׁא֔וּל|šā·’ūl|Saul's|H7586|N-proper-ms
 v13 בְּבֹאֲךָ֖|bə·ḇō·’ă·ḵā|when you come|H935|Prep-b | V-Qal-Inf | 2ms
 v13 לִרְא֥וֹת|lir·’ō·wṯ|to see me|H7200|Prep-l | V-Qal-Inf
 v13 אֶת־|’eṯ-|-|H853|DirObjM
-v13 פָּנָֽי׃ס|pā·nāy|-|H6440|N-mpc | 1cs
+v13 פָּנָֽי׃|pā·nāy|-|H6440|N-mpc | 1cs
 v14 וַיִּשְׁלַ֤ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v14 דָּוִד֙|dā·wiḏ|Then David|H1732|N-proper-ms
 v14 מַלְאָכִ֔ים|mal·’ā·ḵîm|messengers|H4397|N-mp
 v14 אֶל־|’el-|to|H413|Prep
-v14 אִֽישׁ־|’îš-|vvv|H378|
+v14 אִֽישׁ־|’îš-|...|H378|
 v14 בֹּ֥שֶׁת|bō·šeṯ|Ish-bosheth|H378|N-proper-ms
 v14 בֶּן־|ben-|son|H1121|N-msc
 v14 שָׁא֖וּל|šā·’ūl|of Saul|H7586|N-proper-ms
@@ -227,7 +227,7 @@ v14 בְּמֵאָ֖ה|bə·mê·’āh|for a hundred|H3967|Prep-b | Number-fs
 v14 עָרְל֥וֹת|‘ā·rə·lō·wṯ|foreskins|H6190|N-fpc
 v14 פְּלִשְׁתִּֽים׃|pə·liš·tîm|Philistine|H6430|N-proper-mp
 v15 וַיִּשְׁלַח֙|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
-v15 אִ֣ישׁ|’îš|vvv|H378|
+v15 אִ֣ישׁ|’îš|...|H378|
 v15 בֹּ֔שֶׁת|bō·šeṯ|So Ish-bosheth|H378|N-proper-ms
 v15 וַיִּקָּחֶ֖הָ|way·yiq·qā·ḥe·hā|and took [Michal]|H3947|Conj-w | V-Qal-ConsecImperf-3ms | 3fs
 v15 מֵ֣עִֽם|mê·‘im|from|H5973|Prep-m
@@ -454,7 +454,7 @@ v27 שָׁם֙|šām|and there|H8033|Adv
 v27 הַחֹ֔מֶשׁ|ha·ḥō·meš|in the stomach|H2570|Art | N-ms
 v27 וַיָּ֕מָת|way·yā·māṯ|So Abner died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v27 בְּדַ֖ם|bə·ḏam|on account of the blood|H1818|Prep-b | N-msc
-v27 עֲשָׂה־|‘ă·śāh-|vvv|H6214|
+v27 עֲשָׂה־|‘ă·śāh-|...|H6214|
 v27 אֵ֥ל|’êl|Asahel|H6214|N-proper-ms
 v27 אָחִֽיו׃|’ā·ḥîw|of Joab's brother|H251|N-msc | 3ms
 v28 וַיִּשְׁמַ֤ע|way·yiš·ma‘|heard|H8085|Conj-w | V-Qal-ConsecImperf-3ms
@@ -467,7 +467,7 @@ v28 אָנֹכִ֧י|’ā·nō·ḵî|I|H595|Pro-1cs
 v28 וּמַמְלַכְתִּ֛י|ū·mam·laḵ·tî|and my kingdom|H4467|Conj-w | N-fsc | 1cs
 v28 מֵעִ֥ם|mê·‘im|before|H5973|Prep-m
 v28 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v28 עַד־|‘aḏ-|vvv|H5704|Prep
+v28 עַד־|‘aḏ-|...|H5704|Prep
 v28 עוֹלָ֑ם|‘ō·w·lām|are forever|H5769|N-ms
 v28 מִדְּמֵ֖י|mid·də·mê|concerning the blood|H1818|Prep-m | N-mpc
 v28 אַבְנֵ֥ר|’aḇ·nêr|of Abner|H74|N-proper-ms
@@ -505,7 +505,7 @@ v30 אֶת־|’eṯ-|-|H853|DirObjM
 v30 עֲשָׂהאֵ֧ל|‘ă·śā·h·’êl|Asahel|H6214|N-proper-ms
 v30 אֲחִיהֶ֛ם|’ă·ḥî·hem|their brother|H251|N-msc | 3mp
 v30 בְּגִבְע֖וֹן|bə·ḡiḇ·‘ō·wn|at Gibeon|H1391|Prep-b | N-proper-fs
-v30 בַּמִּלְחָמָֽה׃פ|bam·mil·ḥā·māh|in the battle|H4421|Prep-b, Art | N-fs
+v30 בַּמִּלְחָמָֽה׃|bam·mil·ḥā·māh|in the battle|H4421|Prep-b, Art | N-fs
 v31 וַיֹּאמֶר֩|way·yō·mer|ordered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v31 דָּוִ֨ד|dā·wiḏ|Then David|H1732|N-proper-ms
 v31 אֶל־|’el-|...|H413|Prep
@@ -541,7 +541,7 @@ v32 קֶ֣בֶר|qe·ḇer|tomb|H6913|N-msc
 v32 אַבְנֵ֔ר|’aḇ·nêr|Abner's|H74|N-proper-ms
 v32 וַיִּבְכּ֖וּ|way·yiḇ·kū|wept|H1058|Conj-w | V-Qal-ConsecImperf-3mp
 v32 כָּל־|kāl-|and all|H3605|N-msc
-v32 הָעָֽם׃פ|hā·‘ām|the people|H5971|Art | N-ms
+v32 הָעָֽם׃|hā·‘ām|the people|H5971|Art | N-ms
 v33 וַיְקֹנֵ֥ן|way·qō·nên|sang this lament|H6969|Conj-w | V-Piel-ConsecImperf-3ms
 v33 הַמֶּ֛לֶךְ|ham·me·leḵ|And the king|H4428|Art | N-ms
 v33 אֶל־|’el-|for|H413|Prep
@@ -560,7 +560,7 @@ v34 לִנְחֻשְׁתַּ֣יִם|lin·ḥuš·ta·yim|fettered|H5178|Prep-l 
 v34 הֻגָּ֔שׁוּ|hug·gā·šū|...|H5066|V-Hofal-Perf-3cp
 v34 כִּנְפ֛וֹל|kin·p̄ō·wl|As a man falls|H5307|Prep-k | V-Qal-Inf
 v34 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
-v34 בְנֵֽי־|ḇə·nê-|vvv|H1121|N-mpc
+v34 בְנֵֽי־|ḇə·nê-|...|H1121|N-mpc
 v34 עַוְלָ֖ה|‘aw·lāh|the wicked|H5766|N-fs
 v34 נָפָ֑לְתָּ|nā·p̄ā·lə·tā|[so also] you fell|H5307|V-Qal-Perf-2ms
 v34 וַיֹּסִ֥פוּ|way·yō·si·p̄ū|even more|H3254|Conj-w | V-Hifil-ConsecImperf-3mp
@@ -624,7 +624,7 @@ v37 לְהָמִ֖ית|lə·hā·mîṯ|in the murder|H4191|Prep-l | V-Hifil-Inf
 v37 אֶת־|’eṯ-|-|H853|DirObjM
 v37 אַבְנֵ֥ר|’aḇ·nêr|of Abner|H74|N-proper-ms
 v37 בֶּן־|ben-|son|H1121|N-msc
-v37 נֵֽר׃פ|nêr|of Ner|H5369|N-proper-ms
+v37 נֵֽר׃|nêr|of Ner|H5369|N-proper-ms
 v38 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v38 הַמֶּ֖לֶךְ|ham·me·leḵ|Then the king|H4428|Art | N-ms
 v38 אֶל־|’el-|to|H413|Prep
@@ -653,4 +653,4 @@ v39 יְשַׁלֵּ֧ם|yə·šal·lêm|repay|H7999|V-Piel-Imperf-3ms
 v39 יְהוָ֛ה|Yah·weh|May the LORD|H3068|N-proper-ms
 v39 לְעֹשֵׂ֥ה|lə·‘ō·śêh|the evildoer|H6213|Prep-l | V-Qal-Prtcpl-msc
 v39 הָרָעָ֖ה|hā·rā·‘āh|...|H7451|Art | Adj-fs
-v39 כְּרָעָתֽוֹ׃פ|kə·rā·‘ā·ṯōw|according to his evil|H7451|Prep-k | N-fsc | 3ms
+v39 כְּרָעָתֽוֹ׃|kə·rā·‘ā·ṯōw|according to his evil|H7451|Prep-k | N-fsc | 3ms

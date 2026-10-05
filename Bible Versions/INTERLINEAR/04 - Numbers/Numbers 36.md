@@ -43,7 +43,7 @@ v2 אָחִ֖ינוּ|’ā·ḥî·nū|of our brother|H251|N-msc | 1cp
 v2 לִבְנֹתָֽיו׃|liḇ·nō·ṯāw|to his daughters|H1323|Prep-l | N-fpc | 3ms
 v3 וְ֠הָיוּ|wə·hā·yū|But if they marry|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v3 לְאֶחָ֞ד|lə·’e·ḥāḏ|any of the men|H259|Prep-l | Number-ms
-v3 מִבְּנֵ֨י|mib·bə·nê|vvv|H1121|Prep-m | N-mpc
+v3 מִבְּנֵ֨י|mib·bə·nê|...|H1121|Prep-m | N-mpc
 v3 שִׁבְטֵ֥י|šiḇ·ṭê|from the [other] tribes|H7626|N-mpc
 v3 בְנֵֽי־|ḇə·nê-|...|H1121|N-mpc
 v3 יִשְׂרָאֵל֮|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -74,7 +74,7 @@ v4 נַחֲלַ֣ת|na·ḥă·laṯ|-|H5159|N-fsc
 v4 הַמַּטֶּ֔ה|ham·maṭ·ṭeh|the tribe|H4294|Art | N-ms
 v4 אֲשֶׁ֥ר|’ă·šer|into which|H834|Pro-r
 v4 תִּהְיֶ֖ינָה|tih·ye·nāh|they marry|H1961|V-Qal-Imperf-3fp
-v4 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v4 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v4 וּמִֽנַּחֲלַת֙|ū·min·na·ḥă·laṯ|[and]|H5159|Conj-w, Prep-m | N-fsc
 v4 מַטֵּ֣ה|maṭ·ṭêh|from the tribe|H4294|N-msc
 v4 אֲבֹתֵ֔ינוּ|’ă·ḇō·ṯê·nū|of our fathers|H1|N-mpc | 1cp
@@ -126,14 +126,14 @@ v7 בְּנַחֲלַת֙|bə·na·ḥă·laṯ|the inheritance|H5159|Prep-b | 
 v7 מַטֵּ֣ה|maṭ·ṭêh|of the tribe|H4294|N-msc
 v7 אֲבֹתָ֔יו|’ă·ḇō·ṯāw|of his fathers|H1|N-mpc | 3ms
 v7 יִדְבְּק֖וּ|yiḏ·bə·qū|is to retain|H1692|V-Qal-Imperf-3mp
-v7 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v7 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v7 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v8 וְכָל־|wə·ḵāl|Every|H3605|Conj-w | N-msc
 v8 בַּ֞ת|baṯ|daughter|H1323|N-fs
 v8 יֹרֶ֣שֶׁת|yō·re·šeṯ|who possesses|H3423|V-Qal-Prtcpl-fs
 v8 נַחֲלָ֗ה|na·ḥă·lāh|an inheritance|H5159|N-fs
 v8 מִמַּטּוֹת֮|mim·maṭ·ṭō·wṯ|tribe|H4294|Prep-m | N-mpc
-v8 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v8 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v8 יִשְׂרָאֵל֒|yiś·rā·’êl|from any Israelite|H3478|N-proper-ms
 v8 לְאֶחָ֗ד|lə·’e·ḥāḏ|...|H259|Prep-l | Number-ms
 v8 מִמִּשְׁפַּ֛חַת|mim·miš·pa·ḥaṯ|within a clan|H4940|Prep-m | N-fsc
@@ -159,7 +159,7 @@ v9 אִישׁ֙|’îš|each|H376|N-ms
 v9 בְּנַ֣חֲלָת֔וֹ|bə·na·ḥă·lā·ṯōw|its inheritance|H5159|Prep-b | N-fsc | 3ms
 v9 יִדְבְּק֕וּ|yiḏ·bə·qū|must retain|H1692|V-Qal-Imperf-3mp
 v9 מַטּ֖וֹת|maṭ·ṭō·wṯ|tribe|H4294|N-mpc
-v9 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v9 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v9 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v10 כַּאֲשֶׁ֛ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v10 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms

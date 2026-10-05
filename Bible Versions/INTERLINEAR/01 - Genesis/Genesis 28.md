@@ -6,7 +6,7 @@ v1 וַיְבָ֣רֶךְ|way·ḇā·reḵ|and blessed|H1288|Conj-w | V-Piel-Co
 v1 אֹת֑וֹ|’ō·ṯōw|him|H853|DirObjM | 3ms
 v1 וַיְצַוֵּ֙הוּ֙|way·ṣaw·wê·hū|he commanded|H6680|Conj-w | V-Piel-ConsecImperf-3ms | 3ms
 v1 וַיֹּ֣אמֶר|way·yō·mer|...|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v1 ל֔וֹ|lōw||H0|Prep | 3ms
+v1 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v1 לֹֽא־|lō-|Do not|H3808|Adv-NegPrt
 v1 תִקַּ֥ח|ṯiq·qaḥ|take|H3947|V-Qal-Imperf-2ms
 v1 אִשָּׁ֖ה|’iš·šāh|a wife|H802|N-fs
@@ -14,14 +14,14 @@ v1 מִבְּנ֥וֹת|mib·bə·nō·wṯ|women|H1323|Prep-m | N-fpc
 v1 כְּנָֽעַן׃|kə·nā·‘an|from the Canaanite|H3667|N-proper-ms
 v2 ק֥וּם|qūm|at once|H6965|V-Qal-Imp-ms
 v2 לֵךְ֙|lêḵ|Go|H1980|V-Qal-Imp-ms
-v2 פַּדֶּ֣נָֽה|pad·de·nāh|vvv|H6307|
+v2 פַּדֶּ֣נָֽה|pad·de·nāh|...|H6307|
 v2 אֲרָ֔ם|’ă·rām|to Paddan-aram|H758|N-proper-fs | 3fs
 v2 בֵּ֥יתָה|bê·ṯāh|to the house|H1004|N-ms | 3fs
 v2 בְתוּאֵ֖ל|ḇə·ṯū·’êl|Bethuel|H1328|N-proper-ms
 v2 אֲבִ֣י|’ă·ḇî|father|H1|N-msc
 v2 אִמֶּ֑ךָ|’im·me·ḵā|of your mother's|H517|N-fsc | 2ms
 v2 וְקַח־|wə·qaḥ-|and take|H3947|Conj-w | V-Qal-Imp-ms
-v2 לְךָ֤|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֤|lə·ḵā|-|H0|Prep | 2ms
 v2 מִשָּׁם֙|miš·šām|-|H8033|Prep-m | Adv
 v2 אִשָּׁ֔ה|’iš·šāh|a wife|H802|N-fs
 v2 מִבְּנ֥וֹת|mib·bə·nō·wṯ|from among the daughters|H1323|Prep-m | N-fpc
@@ -38,7 +38,7 @@ v3 וְהָיִ֖יתָ|wə·hā·yî·ṯā|so that you may become|H1961|Conj-w
 v3 לִקְהַ֥ל|liq·hal|a company|H6951|Prep-l | N-msc
 v3 עַמִּֽים׃|‘am·mîm|of peoples|H5971|N-mp
 v4 וְיִֽתֶּן־|wə·yit·ten-|And may He give|H5414|Conj-w | V-Qal-ConjImperf-3ms
-v4 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v4 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 בִּרְכַּ֣ת|bir·kaṯ|the blessing|H1293|N-fsc
 v4 אַבְרָהָ֔ם|’aḇ·rā·hām|of Abraham|H85|N-proper-ms
@@ -58,7 +58,7 @@ v5 יִצְחָק֙|yiṣ·ḥāq|So Isaac|H3327|N-proper-ms
 v5 אֶֽת־|’eṯ-|-|H853|DirObjM
 v5 יַעֲקֹ֔ב|ya·‘ă·qōḇ|Jacob|H3290|N-proper-ms
 v5 וַיֵּ֖לֶךְ|way·yê·leḵ|...|H1980|Conj-w | V-Qal-ConsecImperf-3ms
-v5 פַּדֶּ֣נָֽה|pad·de·nāh|vvv|H6307|
+v5 פַּדֶּ֣נָֽה|pad·de·nāh|...|H6307|
 v5 אֲרָ֑ם|’ă·rām|to Paddan-aram|H758|N-proper-fs | 3fs
 v5 אֶל־|’el-|to|H413|Prep
 v5 לָבָ֤ן|lā·ḇān|Laban|H3837|N-proper-ms
@@ -79,14 +79,14 @@ v6 אֶֽת־|’eṯ-|-|H853|DirObjM
 v6 יַעֲקֹב֒|ya·‘ă·qōḇ|Jacob|H3290|N-proper-ms
 v6 וְשִׁלַּ֤ח|wə·šil·laḥ|and sent|H7971|Conj-w | V-Piel-ConjPerf-3ms
 v6 אֹתוֹ֙|’ō·ṯōw|him|H853|DirObjM | 3ms
-v6 פַּדֶּ֣נָֽה|pad·de·nāh|vvv|H6307|
+v6 פַּדֶּ֣נָֽה|pad·de·nāh|...|H6307|
 v6 אֲרָ֔ם|’ă·rām|to Paddan-aram|H758|N-proper-fs | 3fs
 v6 לָקַֽחַת־|lā·qa·ḥaṯ-|to take|H3947|Prep-l | V-Qal-Inf
-v6 ל֥וֹ|lōw||H0|Prep | 3ms
+v6 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v6 מִשָּׁ֖ם|miš·šām|there|H8033|Prep-m | Adv
 v6 אִשָּׁ֑ה|’iš·šāh|a wife|H802|N-fs
-v6 בְּבָרֲכ֣וֹ|bə·ḇā·ră·ḵōw|vvv|H1288|Prep-b | V-Piel-Inf | 3ms
-v6 אֹת֔וֹ|’ō·ṯōw|vvv|H853|DirObjM | 3ms
+v6 בְּבָרֲכ֣וֹ|bə·ḇā·ră·ḵōw|...|H1288|Prep-b | V-Piel-Inf | 3ms
+v6 אֹת֔וֹ|’ō·ṯōw|...|H853|DirObjM | 3ms
 v6 וַיְצַ֤ו|way·ṣaw|commanding|H6680|Conj-w | V-Piel-ConsecImperf-3ms
 v6 עָלָיו֙|‘ā·lāw|him|H5921|Prep | 3ms
 v6 לֵאמֹ֔ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
@@ -102,7 +102,7 @@ v7 אָבִ֖יו|’ā·ḇîw|his father|H1|N-msc | 3ms
 v7 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
 v7 אִמּ֑וֹ|’im·mōw|and mother|H517|N-fsc | 3ms
 v7 וַיֵּ֖לֶךְ|way·yê·leḵ|and gone|H1980|Conj-w | V-Qal-ConsecImperf-3ms
-v7 פַּדֶּ֥נָֽה|pad·de·nāh|vvv|H6307|
+v7 פַּדֶּ֥נָֽה|pad·de·nāh|...|H6307|
 v7 אֲרָֽם׃|’ă·rām|to Paddan-aram|H758|N-proper-fs | 3fs
 v8 וַיַּ֣רְא|way·yar|seeing|H7200|Conj-w | V-Qal-ConsecImperf-3ms
 v8 עֵשָׂ֔ו|‘ê·śāw|And|H6215|N-proper-ms
@@ -129,10 +129,10 @@ v9 נְבָי֛וֹת|nə·ḇā·yō·wṯ|of Nebaioth|H5032|N-proper-ms
 v9 עַל־|‘al-|in addition to|H5921|Prep
 v9 נָשָׁ֖יו|nā·šāw|...|H802|N-fpc | 3ms
 v9 ל֥וֹ|lōw|he already had|H0|Prep | 3ms
-v9 לְאִשָּֽׁה׃ס|lə·’iš·šāh|the wives|H802|Prep-l | N-fs
+v9 לְאִשָּֽׁה׃|lə·’iš·šāh|the wives|H802|Prep-l | N-fs
 v10 וַיֵּצֵ֥א|way·yê·ṣê|left|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v10 יַעֲקֹ֖ב|ya·‘ă·qōḇ|Meanwhile Jacob|H3290|N-proper-ms
-v10 מִבְּאֵ֣ר|mib·bə·’êr||H884|Prep
+v10 מִבְּאֵ֣ר|mib·bə·’êr|-|H884|Prep
 v10 שָׁ֑בַע|šā·ḇa‘|Beersheba|H884|Prep | N-proper-fs
 v10 וַיֵּ֖לֶךְ|way·yê·leḵ|and set out for|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v10 חָרָֽנָה׃|ḥā·rā·nāh|Haran|H2771|N-proper-fs | 3fs
@@ -150,7 +150,7 @@ v11 וַיָּ֖שֶׂם|way·yā·śem|he put|H7760|Conj-w | V-Qal-ConsecImperf
 v11 מְרַֽאֲשֹׁתָ֑יו|mə·ra·’ă·šō·ṯāw|it under his head|H4763|N-fpc | 3ms
 v11 וַיִּשְׁכַּ֖ב|way·yiš·kaḇ|and lay down|H7901|Conj-w | V-Qal-ConsecImperf-3ms
 v11 בַּמָּק֥וֹם|bam·mā·qō·wm|to sleep|H4725|Prep-b, Art | N-ms
-v11 הַהֽוּא׃|ha·hū|vvv|H1931|Art | Pro-3ms
+v11 הַהֽוּא׃|ha·hū|...|H1931|Art | Pro-3ms
 v12 וַֽיַּחֲלֹ֗ם|way·ya·ḥă·lōm|And [Jacob] had a dream|H2492|Conj-w | V-Qal-ConsecImperf-3ms
 v12 וְהִנֵּ֤ה|wə·hin·nêh|about|H2009|Conj-w | Interjection
 v12 סֻלָּם֙|sul·lām|a ladder|H5551|N-ms
@@ -232,7 +232,7 @@ v16 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v16 בַּמָּק֖וֹם|bam·mā·qō·wm|place|H4725|Prep-b, Art | N-ms
 v16 הַזֶּ֑ה|haz·zeh|in this|H2088|Art | Pro-ms
 v16 וְאָנֹכִ֖י|wə·’ā·nō·ḵî|and I|H595|Conj-w | Pro-1cs
-v16 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
+v16 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v16 יָדָֽעְתִּי׃|yā·ḏā·‘ə·tî|was unaware of it|H3045|V-Qal-Perf-1cs
 v17 וַיִּירָא֙|way·yî·rā|And he was afraid|H3372|Conj-w | V-Qal-ConsecImperf-3ms
 v17 וַיֹּאמַ֔ר|way·yō·mar|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -270,7 +270,7 @@ v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 שֵֽׁם־|šêm-|-|H8034|N-msc
 v19 הַמָּק֥וֹם|ham·mā·qō·wm|place|H4725|Art | N-ms
 v19 הַה֖וּא|ha·hū|that|H1931|Art | Pro-3ms
-v19 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v19 בֵּֽית־|bêṯ-|...|H1008|Prep
 v19 אֵ֑ל|’êl|Bethel|H1008|N-proper-fs
 v19 וְאוּלָ֛ם|wə·’ū·lām|though|H199|Conj
 v19 ל֥וּז|lūz|Luz|H3870|N-proper-fs

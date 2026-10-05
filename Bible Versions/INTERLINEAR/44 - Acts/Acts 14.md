@@ -10,7 +10,7 @@ v1 αὐτοὺς|autous|[Paul and Barnabas]|G846|PPro-AM3P
 v1 εἰς|eis|into|G1519|Prep
 v1 τὴν|tēn|the|G3588|Art-AFS
 v1 συναγωγὴν|synagōgēn|synagogue|G4864|N-AFS
-v1 τῶν|tōn|vvv|G3588|Art-GMP
+v1 τῶν|tōn|...|G3588|Art-GMP
 v1 Ἰουδαίων|Ioudaiōn|Jewish|G2453|Adj-GMP
 v1 καὶ|kai|[where]|G2532|Conj
 v1 λαλῆσαι|lalēsai|they spoke|G2980|V-ANA
@@ -59,10 +59,10 @@ v3 σημεῖα|sēmeia|signs|G4592|N-ANP
 v3 καὶ|kai|and|G2532|Conj
 v3 τέρατα|terata|wonders|G5059|N-ANP
 v3 γίνεσθαι|ginesthai|to perform|G1096|V-PNM/P
-v3 διὰ|dia|vvv|G1223|Prep
-v3 τῶν|tōn|vvv|G3588|Art-GFP
+v3 διὰ|dia|...|G1223|Prep
+v3 τῶν|tōn|...|G3588|Art-GFP
 v3 χειρῶν|cheirōn|them|G5495|N-GFP
-v3 αὐτῶν|autōn|vvv|G846|PPro-GM3P
+v3 αὐτῶν|autōn|...|G846|PPro-GM3P
 v4 Ἐσχίσθη|Eschisthē|were divided|G4977|V-AIP-3S
 v4 δὲ|de|-|G1161|Conj
 v4 τὸ|to|The|G3588|Art-NNS
@@ -83,7 +83,7 @@ v4 τοῖς|tois|the|G3588|Art-DMP
 v4 ἀποστόλοις|apostolois|apostles|G652|N-DMP
 v5 ὡς|hōs|when|G5613|Adv
 v5 δὲ|de|But|G1161|Conj
-v5 ἐγένετο|egeneto|vvv|G1096|V-AIM-3S
+v5 ἐγένετο|egeneto|...|G1096|V-AIM-3S
 v5 ὁρμὴ|hormē|set out|G3730|N-NFS
 v5 τῶν|tōn|the|G3588|Art-GNP
 v5 ἐθνῶν|ethnōn|Gentiles|G1484|N-GNP
@@ -266,7 +266,7 @@ v15 καὶ|kai|and|G2532|Conj
 v15 τὴν|tēn|-|G3588|Art-AFS
 v15 θάλασσαν|thalassan|sea|G2281|N-AFS
 v15 καὶ|kai|and|G2532|Conj
-v15 πάντα|panta|vvv|G3956|Adj-ANP
+v15 πάντα|panta|...|G3956|Adj-ANP
 v15 τὰ|ta|everything|G3588|Art-ANP
 v15 ἐν|en|in|G1722|Prep
 v15 αὐτοῖς|autois|them|G846|PPro-DN3P
@@ -284,7 +284,7 @@ v16 ταῖς|tais|[own]|G3588|Art-DFP
 v16 ὁδοῖς|hodois|way|G3598|N-DFP
 v16 αὐτῶν|autōn|their|G846|PPro-GN3P
 v17 καίτοι|kaitoi|Yet|G2543|Conj
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 ἀμάρτυρον|amartyron|without testimony|G267|Adj-AMS
 v17 αὑτὸν|hauton|Himself|G848|PPro-AM3S
 v17 ἀφῆκεν|aphēken|He has not left|G863|V-AIA-3S
@@ -306,12 +306,12 @@ v17 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v18 Καὶ|Kai|Even|G2532|Conj
 v18 ταῦτα|tauta|with these|G3778|DPro-ANP
 v18 λέγοντες|legontes|words|G3004|V-PPA-NMP
-v18 μόλις|molis|vvv|G3433|Adv
+v18 μόλις|molis|...|G3433|Adv
 v18 κατέπαυσαν|katepausan|[Paul and Barnabas] could hardly stop|G2664|V-AIA-3P
 v18 τοὺς|tous|the|G3588|Art-AMP
 v18 ὄχλους|ochlous|crowds|G3793|N-AMP
 v18 τοῦ|tou|from|G3588|Art-GNS
-v18 μὴ|mē|vvv|G3361|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 θύειν|thyein|sacrificing|G2380|V-PNA
 v18 αὐτοῖς|autois|to them|G846|PPro-DM3P
 v19 Ἐπῆλθαν|Epēlthan|arrived|G1904|V-AIA-3P
@@ -467,7 +467,7 @@ v27 πίστεως|pisteōs|of faith|G4102|N-GFS
 v28 διέτριβον|dietribon|they spent|G1304|V-IIA-3P
 v28 δὲ|de|And|G1161|Conj
 v28 χρόνον|chronon|time [there]|G5550|N-AMS
-v28 οὐκ|ouk|vvv|G3756|Adv
+v28 οὐκ|ouk|...|G3756|Adv
 v28 ὀλίγον|oligon|a long|G3641|Adj-AMS
 v28 σὺν|syn|with|G4862|Prep
 v28 τοῖς|tois|the|G3588|Art-DMP

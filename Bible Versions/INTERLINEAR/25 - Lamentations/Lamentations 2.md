@@ -15,7 +15,7 @@ v1 זָכַ֥ר|zā·ḵar|...|H2142|V-Qal-Perf-3ms
 v1 הֲדֹם־|hă·ḏōm-|His footstool|H1916|N-msc
 v1 רַגְלָ֖יו|raḡ·lāw|...|H7272|N-fdc | 3ms
 v1 בְּי֥וֹם|bə·yō·wm|in the day|H3117|Prep-b | N-msc
-v1 אַפּֽוֹ׃ס|’ap·pōw|of His anger|H639|N-msc | 3ms
+v1 אַפּֽוֹ׃|’ap·pōw|of His anger|H639|N-msc | 3ms
 v2 בִּלַּ֨ע|bil·la‘|has swallowed up|H1104|V-Piel-Perf-3ms
 v2 אֲדֹנָ֜י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v2 לֹא|lō|Without|H3808|Conj-w | Adv-NegPrt
@@ -33,7 +33,7 @@ v2 הִגִּ֣יעַ|hig·gî·a‘|He brought|H5060|V-Hifil-Perf-3ms
 v2 לָאָ֑רֶץ|lā·’ā·reṣ|to the ground|H776|Prep-l, Art | N-fs
 v2 חִלֵּ֥ל|ḥil·lêl|and defiled|H2490|V-Piel-Perf-3ms
 v2 מַמְלָכָ֖ה|mam·lā·ḵāh|her kingdom|H4467|N-fs
-v2 וְשָׂרֶֽיהָ׃ס|wə·śā·re·hā|and its princes|H8269|Conj-w | N-mpc | 3fs
+v2 וְשָׂרֶֽיהָ׃|wə·śā·re·hā|and its princes|H8269|Conj-w | N-mpc | 3fs
 v3 גָּדַ֣ע|gā·ḏa‘|He has cut off|H1438|V-Qal-Perf-3ms
 v3 בָּֽחֳרִי|bå̄·ḥo·rī|In fierce|H2750|Prep-b | N-msc
 v3 אַ֗ף|’ap̄|anger|H639|N-ms
@@ -50,7 +50,7 @@ v3 בְּיַעֲקֹב֙|bə·ya·‘ă·qōḇ|in Jacob|H3290|Prep-b | N-prop
 v3 כְּאֵ֣שׁ|kə·’êš|fire|H784|Prep-k | N-csc
 v3 לֶֽהָבָ֔ה|le·hā·ḇāh|like a flaming|H3852|N-fs
 v3 אָכְלָ֖ה|’ā·ḵə·lāh|that consumes|H398|V-Qal-Perf-3fs
-v3 סָבִֽיב׃ס|sā·ḇîḇ|everything around it|H5439|Adv
+v3 סָבִֽיב׃|sā·ḇîḇ|everything around it|H5439|Adv
 v4 דָּרַ֨ךְ|dā·raḵ|He has bent|H1869|V-Qal-Perf-3ms
 v4 קַשְׁתּ֜וֹ|qaš·tōw|His bow|H7198|N-fsc | 3ms
 v4 כְּאוֹיֵ֗ב|kə·’ō·w·yêḇ|like an enemy|H341|Prep-k | V-Qal-Prtcpl-ms
@@ -66,7 +66,7 @@ v4 בַּת־|baṯ-|of the Daughter|H1323|N-fsc
 v4 צִיּ֔וֹן|ṣî·yō·wn|of Zion|H6726|N-proper-fs
 v4 שָׁפַ֥ךְ|šā·p̄aḵ|He has poured out|H8210|V-Qal-Perf-3ms
 v4 כָּאֵ֖שׁ|kā·’êš|like fire|H784|Prep-k, Art | N-cs
-v4 חֲמָתֽוֹ׃ס|ḥă·mā·ṯōw|His wrath|H2534|N-fsc | 3ms
+v4 חֲמָתֽוֹ׃|ḥă·mā·ṯōw|His wrath|H2534|N-fsc | 3ms
 v5 הָיָ֨ה|hā·yāh|is|H1961|V-Qal-Perf-3ms
 v5 אֲדֹנָ֤י׀|’ă·ḏō·nāy|The Lord|H136|N-proper-ms
 v5 כְּאוֹיֵב֙|kə·’ō·w·yêḇ|like an enemy|H341|Prep-k | V-Qal-Prtcpl-ms
@@ -81,7 +81,7 @@ v5 וַיֶּ֙רֶב֙|way·ye·reḇ|He has multiplied|H7235|Conj-w | V-Hifil-
 v5 בְּבַת־|bə·ḇaṯ-|for the Daughter|H1323|Prep-b | N-fsc
 v5 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v5 תַּאֲנִיָּ֖ה|ta·’ă·nî·yāh|mourning|H8386|N-fs
-v5 וַאֲנִיָּֽה׃ס|wa·’ă·nî·yāh|and lamentation|H592|Conj-w | N-fs
+v5 וַאֲנִיָּֽה׃|wa·’ă·nî·yāh|and lamentation|H592|Conj-w | N-fs
 v6 וַיַּחְמֹ֤ס|way·yaḥ·mōs|He has laid waste|H2554|Conj-w | V-Qal-ConsecImperf-3ms
 v6 כַּגַּן֙|kag·gan|like a garden booth|H1588|Prep-k, Art | N-cs
 v6 שֻׂכּ֔וֹ|śuk·kōw|His tabernacle|H7900|N-msc | 3ms
@@ -96,7 +96,7 @@ v6 וַיִּנְאַ֥ץ|way·yin·’aṣ|He has despised|H5006|Conj-w | V-Qal
 v6 בְּזַֽעַם־|bə·za·‘am-|In His fierce anger|H2195|Prep-b | N-msc
 v6 אַפּ֖וֹ|’ap·pōw|...|H639|N-msc | 3ms
 v6 מֶ֥לֶךְ|me·leḵ|[both] king|H4428|N-ms
-v6 וְכֹהֵֽן׃ס|wə·ḵō·hên|and priest|H3548|Conj-w | N-ms
+v6 וְכֹהֵֽן׃|wə·ḵō·hên|and priest|H3548|Conj-w | N-ms
 v7 זָנַ֨ח|zā·naḥ|has rejected|H2186|V-Qal-Perf-3ms
 v7 אֲדֹנָ֤י׀|’ă·ḏō·nāy|The Lord|H136|N-proper-ms
 v7 מִזְבְּחוֹ֙|miz·bə·ḥōw|His altar|H4196|N-msc | 3ms
@@ -112,7 +112,7 @@ v7 נָתְנ֥וּ|nā·ṯə·nū|They have raised|H5414|V-Qal-Perf-3cp
 v7 בְּבֵית־|bə·ḇêṯ-|in the house|H1004|Prep-b | N-msc
 v7 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v7 כְּי֥וֹם|kə·yō·wm|as on the day|H3117|Prep-k | N-msc
-v7 מוֹעֵֽד׃ס|mō·w·‘êḏ|of an appointed feast|H4150|N-ms
+v7 מוֹעֵֽד׃|mō·w·‘êḏ|of an appointed feast|H4150|N-ms
 v8 חָשַׁ֨ב|ḥā·šaḇ|determined|H2803|V-Qal-Perf-3ms
 v8 יְהוָ֤ה׀|Yah·weh|The LORD|H3068|N-proper-ms
 v8 לְהַשְׁחִית֙|lə·haš·ḥîṯ|to destroy|H7843|Prep-l | V-Hifil-Inf
@@ -129,7 +129,7 @@ v8 וַיַּֽאֲבֶל־|way·ya·’ă·ḇel-|lament|H56|Conj-w | V-Hifil-
 v8 חֵ֥ל|ḥêl|He made the ramparts|H2426|N-ms
 v8 וְחוֹמָ֖ה|wə·ḥō·w·māh|and walls|H2346|Conj-w | N-fs
 v8 יַחְדָּ֥ו|yaḥ·dāw|together|H3162|Adv
-v8 אֻמְלָֽלוּ׃ס|’um·lā·lū|they waste away|H535|V-Pual-Perf-3cp
+v8 אֻמְלָֽלוּ׃|’um·lā·lū|they waste away|H535|V-Pual-Perf-3cp
 v9 טָבְע֤וּ|ṭā·ḇə·‘ū|have sunk|H2883|V-Qal-Perf-3cp
 v9 בָאָ֙רֶץ֙|ḇā·’ā·reṣ|into the ground|H776|Prep-b, Art | N-fs
 v9 שְׁעָרֶ֔יהָ|šə·‘ā·re·hā|Her gates|H8179|N-mpc | 3fs
@@ -146,7 +146,7 @@ v9 נְבִיאֶ֕יהָ|nə·ḇî·’e·hā|her prophets|H5030|N-mpc | 3fs
 v9 לֹא־|lō-|no|H3808|Adv-NegPrt
 v9 מָצְא֥וּ|mā·ṣə·’ū|find|H4672|V-Qal-Perf-3cp
 v9 חָז֖וֹן|ḥā·zō·wn|vision|H2377|N-ms
-v9 מֵיְהוָֽה׃ס|Yah·weh|from the LORD|H3068|Prep-m | N-proper-ms
+v9 מֵיְהוָֽה׃|Yah·weh|from the LORD|H3068|Prep-m | N-proper-ms
 v10 יֵשְׁב֨וּ|yê·šə·ḇū|sit|H3427|V-Qal-Imperf-3mp
 v10 לָאָ֤רֶץ|lā·’ā·reṣ|on the ground|H776|Prep-l, Art | N-fs
 v10 יִדְּמוּ֙|yid·də·mū|in silence|H1826|V-Qal-Imperf-3mp
@@ -163,7 +163,7 @@ v10 הוֹרִ֤ידוּ|hō·w·rî·ḏū|have bowed|H3381|V-Hifil-Perf-3cp
 v10 לָאָ֙רֶץ֙|lā·’ā·reṣ|to the ground|H776|Prep-l, Art | N-fs
 v10 רֹאשָׁ֔ן|rō·šān|their heads|H7218|N-msc | 3fp
 v10 בְּתוּלֹ֖ת|bə·ṯū·lōṯ|The young women|H1330|N-fpc
-v10 יְרוּשָׁלִָֽם׃ס|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
+v10 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v11 כָּל֨וּ|kā·lū|fail|H3615|V-Qal-Perf-3cp
 v11 בַדְּמָע֤וֹת|ḇad·də·mā·‘ō·wṯ|from weeping|H1832|Prep-b, Art | N-fp
 v11 עֵינַי֙|‘ê·nay|My eyes|H5869|N-cdc | 1cs
@@ -180,7 +180,7 @@ v11 בֵּֽעָטֵ֤ף|bê·‘ā·ṭêp̄|faint|H5848|Prep-b | V-Nifal-Inf
 v11 עוֹלֵל֙|‘ō·w·lêl|because children|H5768|N-ms
 v11 וְיוֹנֵ֔ק|wə·yō·w·nêq|and infants|H3243|Conj-w | V-Qal-Prtcpl-ms
 v11 בִּרְחֹב֖וֹת|bir·ḥō·ḇō·wṯ|in the streets|H7339|Prep-b | N-mpc
-v11 קִרְיָֽה׃ס|qir·yāh|of the city|H7151|N-fs
+v11 קִרְיָֽה׃|qir·yāh|of the city|H7151|N-fs
 v12 לְאִמֹּתָם֙|lə·’im·mō·ṯām|to their mothers|H517|Prep-l | N-fpc | 3mp
 v12 יֹֽאמְר֔וּ|yō·mə·rū|They cry out|H559|V-Qal-Imperf-3mp
 v12 אַיֵּ֖ה|’ay·yêh|Where|H346|Interrog
@@ -194,7 +194,7 @@ v12 בְּהִשְׁתַּפֵּ֣ךְ|bə·hiš·tap·pêḵ|fade away|H8210|Pr
 v12 נַפְשָׁ֔ם|nap̄·šām|as their lives|H5315|N-fsc | 3mp
 v12 אֶל־|’el-|in|H413|Prep
 v12 חֵ֖יק|ḥêq|the arms|H2436|N-msc
-v12 אִמֹּתָֽם׃ס|’im·mō·ṯām|of their mothers|H517|N-fpc | 3mp
+v12 אִמֹּתָֽם׃|’im·mō·ṯām|of their mothers|H517|N-fpc | 3mp
 v13 מָֽה־|māh-|What|H4100|Interrog
 v13 אֲעִידֵ֞ךְ|’ă·‘î·ḏêḵ|can I say for you|H5749|V-Hifil-Imperf-1cs | 2fs
 v13 מָ֣ה|māh|what|H4100|Interrog
@@ -215,10 +215,10 @@ v13 כַּיָּ֛ם|kay·yām|as the sea|H3220|Prep-k, Art | N-ms
 v13 שִׁבְרֵ֖ךְ|šiḇ·rêḵ|your wound|H7667|N-msc | 2fs
 v13 מִ֥י|mî|Who|H4310|Interrog
 v13 יִרְפָּא־|yir·pā-|can ever heal|H7495|V-Qal-Imperf-3ms
-v13 לָֽךְ׃ס|lāḵ|you|H0|Prep | 2fs
+v13 לָֽךְ׃|lāḵ|you|H0|Prep | 2fs
 v14 נְבִיאַ֗יִךְ|nə·ḇî·’a·yiḵ|of your prophets|H5030|N-mpc | 2fs
 v14 חָ֤זוּ|ḥā·zū|The visions|H2372|V-Qal-Perf-3cp
-v14 לָךְ֙|lāḵ||H0|Prep | 2fs
+v14 לָךְ֙|lāḵ|-|H0|Prep | 2fs
 v14 שָׁ֣וְא|šāw|were empty|H7723|N-ms
 v14 וְתָפֵ֔ל|wə·ṯā·p̄êl|and deceptive|H8602|Conj-w | Adj-ms
 v14 וְלֹֽא־|wə·lō-|they did not|H3808|Conj-w | Adv-NegPrt
@@ -231,7 +231,7 @@ v14 וַיֶּ֣חֱזוּ|way·ye·ḥĕ·zū|they envisioned|H2372|Conj-w | V-
 v14 לָ֔ךְ|lāḵ|for you|H0|Prep | 2fs
 v14 מַשְׂא֥וֹת|maś·’ō·wṯ|The burdens|H4853|N-mpc
 v14 שָׁ֖וְא|šāw|were empty|H7723|N-ms
-v14 וּמַדּוּחִֽים׃ס|ū·mad·dū·ḥîm|and misleading|H4065|Conj-w | N-mp
+v14 וּמַדּוּחִֽים׃|ū·mad·dū·ḥîm|and misleading|H4065|Conj-w | N-mp
 v15 סָֽפְק֨וּ|sā·p̄ə·qū|clap|H5606|V-Qal-Perf-3cp
 v15 עָלַ֤יִךְ|‘ā·la·yiḵ|at you [in scorn]|H5921|Prep | 2fs
 v15 כַּפַּ֙יִם֙|kap·pa·yim|their hands|H3709|N-fd
@@ -251,7 +251,7 @@ v15 כְּלִ֣ילַת|kə·lî·laṯ|the perfection|H3632|Adj-fsc
 v15 יֹ֔פִי|yō·p̄î|of beauty|H3308|N-ms
 v15 מָשׂ֖וֹשׂ|mā·śō·wś|the joy|H4885|N-ms
 v15 לְכָל־|lə·ḵāl|of all|H3605|Prep-l | N-msc
-v15 הָאָֽרֶץ׃ס|hā·’ā·reṣ|the earth|H776|Art | N-fs
+v15 הָאָֽרֶץ׃|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v16 פָּצ֨וּ|pā·ṣū|open|H6475|V-Qal-Perf-3cp
 v16 עָלַ֤יִךְ|‘ā·la·yiḵ|against you|H5921|Prep | 2fs
 v16 פִּיהֶם֙|pî·hem|their mouths|H6310|N-msc | 3mp
@@ -267,7 +267,7 @@ v16 זֶ֥ה|zeh|This|H2088|Pro-ms
 v16 הַיּ֛וֹם|hay·yō·wm|is the day|H3117|Art | N-ms
 v16 שֶׁקִּוִּינֻ֖הוּ|šeq·qiw·wî·nu·hū|for which we have waited|H6960|Pro-r | V-Piel-Perf-1cp | 3ms
 v16 מָצָ֥אנוּ|mā·ṣā·nū|We have lived|H4672|V-Qal-Perf-1cp
-v16 רָאִֽינוּ׃ס|rā·’î·nū|to see it|H7200|V-Qal-Perf-1cp
+v16 רָאִֽינוּ׃|rā·’î·nū|to see it|H7200|V-Qal-Perf-1cp
 v17 עָשָׂ֨ה|‘ā·śāh|has done|H6213|V-Qal-Perf-3ms
 v17 יְהוָ֜ה|Yah·weh|The LORD|H3068|N-proper-ms
 v17 אֲשֶׁ֣ר|’ă·šer|what|H834|Pro-r
@@ -286,7 +286,7 @@ v17 עָלַ֙יִךְ֙|‘ā·la·yiḵ|over you|H5921|Prep | 2fs
 v17 אוֹיֵ֔ב|’ō·w·yêḇ|He has let the enemy|H341|V-Qal-Prtcpl-ms
 v17 הֵרִ֖ים|hê·rîm|and exalted|H7311|V-Hifil-Perf-3ms
 v17 קֶ֥רֶן|qe·ren|the horn|H7161|N-fsc
-v17 צָרָֽיִךְ׃ס|ṣā·rā·yiḵ|of your foes|H6862|N-mpc | 2fs
+v17 צָרָֽיִךְ׃|ṣā·rā·yiḵ|of your foes|H6862|N-mpc | 2fs
 v18 צָעַ֥ק|ṣā·‘aq|cry out|H6817|V-Qal-Perf-3ms
 v18 לִבָּ֖ם|lib·bām|The hearts [of the people]|H3820|N-msc | 3mp
 v18 אֶל־|’el-|to|H413|Prep
@@ -306,7 +306,7 @@ v18 לָ֔ךְ|lāḵ|yourself|H0|Prep | 2fs
 v18 אַל־|’al-|no|H408|Adv
 v18 תִּדֹּ֖ם|tid·dōm|rest|H1826|V-Qal-Imperf-3fs
 v18 בַּת־|baṯ-|...|H1323|N-fsc
-v18 עֵינֵֽךְ׃ס|‘ê·nêḵ|and your eyes|H5869|N-csc | 2fs
+v18 עֵינֵֽךְ׃|‘ê·nêḵ|and your eyes|H5869|N-csc | 2fs
 v19 ק֣וּמִי׀|qū·mî|Arise|H6965|V-Qal-Imp-fs
 v19 רֹ֣נִּי|rōn·nî|cry out|H7442|V-Qal-Imp-fs
 v19 בַלַּיִל|ḇal·la·yil|in the night|H3915|Prep-b, Art | N-ms
@@ -328,7 +328,7 @@ v19 הָעֲטוּפִ֥ים|hā·‘ă·ṭū·p̄îm|who are fainting|H5848|A
 v19 בְּרָעָ֖ב|bə·rā·‘āḇ|from hunger|H7458|Prep-b | N-ms
 v19 בְּרֹ֥אשׁ|bə·rōš|on the corner|H7218|Prep-b | N-msc
 v19 כָּל־|kāl-|of every|H3605|N-msc
-v19 חוּצֽוֹת׃ס|ḥū·ṣō·wṯ|street|H2351|N-mp
+v19 חוּצֽוֹת׃|ḥū·ṣō·wṯ|street|H2351|N-mp
 v20 רְאֵ֤ה|rə·’êh|Look|H7200|V-Qal-Imp-ms
 v20 יְהוָה֙|Yah·weh|O LORD|H3068|N-proper-ms
 v20 וְֽהַבִּ֔יטָה|wə·hab·bî·ṭāh|and consider|H5027|Conj-w | V-Hifil-Imp-ms | 3fs
@@ -346,7 +346,7 @@ v20 יֵהָרֵ֛ג|yê·hā·rêḡ|be killed|H2026|V-Nifal-Imperf-3ms
 v20 בְּמִקְדַּ֥שׁ|bə·miq·daš|in the sanctuary|H4720|Prep-b | N-msc
 v20 אֲדֹנָ֖י|’ă·ḏō·nāy|of the Lord|H136|N-proper-ms
 v20 כֹּהֵ֥ן|kō·hên|Should priests|H3548|N-ms
-v20 וְנָבִֽיא׃ס|wə·nā·ḇî|and prophets|H5030|Conj-w | N-ms
+v20 וְנָבִֽיא׃|wə·nā·ḇî|and prophets|H5030|Conj-w | N-ms
 v21 שָׁכְב֨וּ|šā·ḵə·ḇū|lie together|H7901|V-Qal-Perf-3cp
 v21 לָאָ֤רֶץ|lā·’ā·reṣ|in the dust|H776|Prep-l, Art | N-fs
 v21 חוּצוֹת֙|ḥū·ṣō·wṯ|of the streets|H2351|N-mp
@@ -361,7 +361,7 @@ v21 בְּי֣וֹם|bə·yō·wm|in the day|H3117|Prep-b | N-msc
 v21 אַפֶּ֔ךָ|’ap·pe·ḵā|of Your anger|H639|N-msc | 2ms
 v21 טָבַ֖חְתָּ|ṭā·ḇaḥ·tā|You have slaughtered [them]|H2873|V-Qal-Perf-2ms
 v21 לֹ֥א|lō|without|H3808|Adv-NegPrt
-v21 חָמָֽלְתָּ׃ס|ḥā·mā·lə·tā|compassion|H2550|V-Qal-Perf-2ms
+v21 חָמָֽלְתָּ׃|ḥā·mā·lə·tā|compassion|H2550|V-Qal-Perf-2ms
 v22 תִּקְרָא֩|tiq·rā|You summoned|H7121|V-Qal-Imperf-2ms
 v22 כְי֨וֹם|ḵə·yō·wm|as for the day|H3117|Prep-k | N-msc
 v22 מוֹעֵ֤ד|mō·w·‘êḏ|of an appointed feast|H4150|N-ms
@@ -378,4 +378,4 @@ v22 אֲשֶׁר־|’ă·šer-|those|H834|Pro-r
 v22 טִפַּ֥חְתִּי|ṭip·paḥ·tî|I nurtured|H2946|V-Piel-Perf-1cs
 v22 וְרִבִּ֖יתִי|wə·rib·bî·ṯî|and reared|H7235|Conj-w | V-Piel-ConjPerf-1cs
 v22 אֹיְבִ֥י|’ō·yə·ḇî|my enemy|H341|V-Qal-Prtcpl-msc | 1cs
-v22 כִלָּֽם׃פ|ḵil·lām|has destroyed|H3615|V-Piel-Perf-3ms | 3mp
+v22 כִלָּֽם׃|ḵil·lām|has destroyed|H3615|V-Piel-Perf-3ms | 3mp

@@ -206,7 +206,7 @@ v13 ἐπιστραφήτω|epistraphētō|return|G1994|V-AMP-3S
 v14 καὶ|kai|And|G2532|Conj
 v14 ὃς|hos|if anyone|G3739|RelPro-NMS
 v14 ἂν|an|...|G302|Prtcl
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 δέξηται|dexētai|will not welcome|G1209|V-ASM-3S
 v14 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v14 μηδὲ|mēde|or|G3366|Conj
@@ -441,7 +441,7 @@ v26 γάρ|gar|For|G1063|Conj
 v26 ἐστιν|estin|there is|G1510|V-PIA-3S
 v26 κεκαλυμμένον|kekalymmenon|concealed|G2572|V-RPM/P-NNS
 v26 ὃ|ho|that|G3739|RelPro-NNS
-v26 οὐκ|ouk|vvv|G3756|Adv
+v26 οὐκ|ouk|...|G3756|Adv
 v26 ἀποκαλυφθήσεται|apokalyphthēsetai|will not be disclosed|G601|V-FIP-3S
 v26 καὶ|kai|and [nothing]|G2532|Conj
 v26 κρυπτὸν|krypton|hidden|G2927|Adj-NNS
@@ -483,7 +483,7 @@ v28 μὴ|mē|...|G3361|Adv
 v28 δυναμένων|dynamenōn|cannot|G1410|V-PPM/P-GMP
 v28 ἀποκτεῖναι|apokteinai|kill|G615|V-ANA
 v28 φοβεῖσθε|phobeisthe|fear|G5399|V-PMM/P-2P
-v28 δὲ|de|vvv|G1161|Conj
+v28 δὲ|de|...|G1161|Conj
 v28 μᾶλλον|mallon|Instead|G3123|Adv
 v28 τὸν|ton|the [One who]|G3588|Art-AMS
 v28 δυνάμενον|dynamenon|can|G1410|V-PPM/P-AMS
@@ -539,7 +539,7 @@ v32 ἔμπροσθεν|emprosthen|before|G1715|Prep
 v32 τῶν|tōn|-|G3588|Art-GMP
 v32 ἀνθρώπων|anthrōpōn|men|G444|N-GMP
 v32 ὁμολογήσω|homologēsō|I will also confess|G3670|V-FIA-1S
-v32 κἀγὼ|kagō|vvv|G2504|PPro-N1S
+v32 κἀγὼ|kagō|...|G2504|PPro-N1S
 v32 ἐν|en|...|G1722|Prep
 v32 αὐτῷ|autō|him|G846|PPro-DM3S
 v32 ἔμπροσθεν|emprosthen|before|G1715|Prep
@@ -559,7 +559,7 @@ v33 ἔμπροσθεν|emprosthen|before|G1715|Prep
 v33 τῶν|tōn|-|G3588|Art-GMP
 v33 ἀνθρώπων|anthrōpōn|men|G444|N-GMP
 v33 ἀρνήσομαι|arnēsomai|I will also deny|G720|V-FIM-1S
-v33 κἀγὼ|kagō|vvv|G2504|PPro-N1S
+v33 κἀγὼ|kagō|...|G2504|PPro-N1S
 v33 αὐτὸν|auton|him|G846|PPro-AM3S
 v33 ἔμπροσθεν|emprosthen|before|G1715|Prep
 v33 τοῦ|tou|-|G3588|Art-GMS
@@ -606,7 +606,7 @@ v35 πενθερᾶς|pentheras|mother-in-law|G3994|N-GFS
 v35 αὐτῆς|autēs|her|G846|PPro-GF3S
 v36 Καὶ|Kai|-|G2532|Conj
 v36 ἐχθροὶ|echthroi|enemies [will be]|G2190|Adj-NMP
-v36 τοῦ|tou|vvv|G3588|Art-GMS
+v36 τοῦ|tou|...|G3588|Art-GMS
 v36 ἀνθρώπου|anthrōpou|A man's|G444|N-GMS
 v36 οἱ|hoi|the [members]|G3588|Art-NMP
 v36 οἰκιακοὶ|oikiakoi|household|G3615|N-NMP

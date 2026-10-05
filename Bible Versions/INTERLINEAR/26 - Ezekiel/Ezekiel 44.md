@@ -104,7 +104,7 @@ v6 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v6 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v6 יְהוִ֑ה|Yah·weh|GOD|H3069|N-proper-ms
 v6 רַב־|raḇ-|I have had enough|H7227|Adv
-v6 לָכֶ֛ם|lā·ḵem||H0|Prep | 2mp
+v6 לָכֶ֛ם|lā·ḵem|-|H0|Prep | 2mp
 v6 מִֽכָּל־|mik·kāl|of all|H3605|Prep-m | N-msc
 v6 תּוֹעֲבֽוֹתֵיכֶ֖ם|tō·w·‘ă·ḇō·w·ṯê·ḵem|your abominations|H8441|N-fpc | 2mp
 v6 בֵּ֥ית|bêṯ|O house|H1004|N-msc
@@ -224,7 +224,7 @@ v13 וְלֹֽא־|wə·lō-|They must not|H3808|Conj-w | Adv-NegPrt
 v13 יִגְּשׁ֤וּ|yig·gə·šū|approach|H5066|V-Qal-Imperf-3mp
 v13 אֵלַי֙|’ê·lay|Me|H413|Prep | 1cs
 v13 לְכַהֵ֣ן|lə·ḵa·hên|to serve Me as priests|H3547|Prep-l | V-Piel-Inf
-v13 לִ֔י|lî||H0|Prep | 1cs
+v13 לִ֔י|lî|-|H0|Prep | 1cs
 v13 וְלָגֶ֙שֶׁת֙|wə·lā·ḡe·šeṯ|or come near|H5066|Conj-w, Prep-l | V-Qal-Inf
 v13 עַל־|‘al-|...|H5921|Prep
 v13 כָּל־|kāl-|any|H3605|N-msc
@@ -247,7 +247,7 @@ v14 עֲבֹ֣דָת֔וֹ|‘ă·ḇō·ḏā·ṯōw|the work|H5656|N-fsc | 3
 v14 וּלְכֹ֛ל|ū·lə·ḵōl|and everything|H3605|Conj-w, Prep-l | N-ms
 v14 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v14 יֵעָשֶׂ֖ה|yê·‘ā·śeh|to be done|H6213|V-Nifal-Imperf-3ms
-v14 בּֽוֹ׃פ|bōw|in it|H0|Prep | 3ms
+v14 בּֽוֹ׃|bōw|in it|H0|Prep | 3ms
 v15 וְהַכֹּהֲנִ֨ים|wə·hak·kō·hă·nîm|priests|H3548|Conj-w, Art | N-mp
 v15 הַלְוִיִּ֜ם|hal·wî·yim|But the Levitical|H3881|Art | N-proper-mp
 v15 בְּנֵ֣י|bə·nê|who are descended|H1121|N-mpc
@@ -297,7 +297,7 @@ v17 פִשְׁתִּ֖ים|p̄iš·tîm|linen|H6593|N-fp
 v17 יִלְבָּ֑שׁוּ|yil·bā·šū|they are to wear|H3847|V-Qal-Imperf-3mp
 v17 וְלֹֽא־|wə·lō-|they must not|H3808|Conj-w | Adv-NegPrt
 v17 יַעֲלֶ֤ה|ya·‘ă·leh|wear|H5927|V-Qal-Imperf-3ms
-v17 עֲלֵיהֶם֙|‘ă·lê·hem||H5921|Prep | 3mp
+v17 עֲלֵיהֶם֙|‘ă·lê·hem|-|H5921|Prep | 3mp
 v17 צֶ֔מֶר|ṣe·mer|anything made of wool|H6785|N-ms
 v17 בְּשָֽׁרְתָ֗ם|bə·šā·rə·ṯām|when they minister|H8334|Prep-b | V-Piel-Inf | 3mp
 v17 בְּשַׁעֲרֵ֛י|bə·ša·‘ă·rê|at the gates|H8179|Prep-b | N-mpc
@@ -332,7 +332,7 @@ v19 בִּגְדֵיהֶ֗ם|biḡ·ḏê·hem|the garments|H899|N-mpc | 3mp
 v19 אֲשֶׁר־|’ă·šer-|in which|H834|Pro-r
 v19 הֵ֙מָּה֙|hêm·māh|they|H1992|Pro-3mp
 v19 מְשָׁרְתִ֣ם|mə·šā·rə·ṯim|have ministered|H8334|V-Piel-Prtcpl-mp
-v19 בָּ֔ם|bām||H0|Prep | 3mp
+v19 בָּ֔ם|bām|-|H0|Prep | 3mp
 v19 וְהִנִּ֥יחוּ|wə·hin·nî·ḥū|leave|H5117|Conj-w | V-Hifil-ConjPerf-3cp
 v19 אוֹתָ֖ם|’ō·w·ṯām|them|H853|DirObjM | 3mp
 v19 בְּלִֽשְׁכֹ֣ת|bə·liš·ḵōṯ|chambers|H3957|Prep-b | N-fpc
@@ -368,9 +368,9 @@ v22 וְאַלְמָנָה֙|wə·’al·mā·nāh|a widow|H490|Conj-w | N-fs
 v22 וּגְרוּשָׁ֔ה|ū·ḡə·rū·šāh|or a divorced woman|H1644|Conj-w | V-Qal-QalPassPrtcpl-fs
 v22 לֹֽא־|lō-|And they shall not|H3808|Adv-NegPrt
 v22 יִקְח֥וּ|yiq·ḥū|marry|H3947|V-Qal-Imperf-3mp
-v22 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v22 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v22 לְנָשִׁ֑ים|lə·nā·šîm|...|H802|Prep-l | N-fp
-v22 כִּ֣י|kî||H3588|Conj
+v22 כִּ֣י|kî|-|H3588|Conj
 v22 אִם־|’im-|but|H518|Conj
 v22 בְּתוּלֹ֗ת|bə·ṯū·lōṯ|a virgin|H1330|N-fp
 v22 מִזֶּ֙רַע֙|miz·ze·ra‘|of the descendants|H2233|Prep-m | N-msc
@@ -399,7 +399,7 @@ v24 יַעַמְד֣וּ|ya·‘am·ḏū|shall officiate|H5975|V-Qal-Imperf-3mp
 v24 לִשְׁפֹּט|liš·pōṭ|as judges|H8199|Prep-l | N-ms
 v24 בְּמִשְׁפָּטַ֖י|bə·miš·pā·ṭay|according to My ordinances|H4941|Prep-b | N-mpc | 1cs
 v24 וְשָׁפְטֻהוּ|wə·šå̄·p̄ə·ṭu·hū|[and] judge|H8199|V-Qal-Imperf-3mp | 3ms
-v24 וְאֶת־|wə·’eṯ-||H853|Conj-w | DirObjM
+v24 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v24 תּוֹרֹתַ֤י|tō·w·rō·ṯay|My laws|H8451|N-fpc | 1cs
 v24 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v24 חֻקֹּתַי֙|ḥuq·qō·ṯay|statutes|H2708|N-fpc | 1cs
@@ -498,4 +498,4 @@ v31 וּמִן־|ū·min-|...|H4480|Conj-w | Prep
 v31 הַבְּהֵמָ֑ה|hab·bə·hê·māh|or animal|H929|Art | N-fs
 v31 לֹ֥א|lō|may not|H3808|Adv-NegPrt
 v31 יֹאכְל֖וּ|yō·ḵə·lū|eat|H398|V-Qal-Imperf-3mp
-v31 הַכֹּהֲנִֽים׃פ|hak·kō·hă·nîm|The priests|H3548|Art | N-mp
+v31 הַכֹּהֲנִֽים׃|hak·kō·hă·nîm|The priests|H3548|Art | N-mp

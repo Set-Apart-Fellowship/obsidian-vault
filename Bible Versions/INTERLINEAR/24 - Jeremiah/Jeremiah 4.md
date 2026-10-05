@@ -21,7 +21,7 @@ v2 וְהִתְבָּ֥רְכוּ|wə·hiṯ·bā·rə·ḵū|will be blessed|H1
 v2 ב֛וֹ|ḇōw|and in Him|H0|Prep | 3ms
 v2 גּוֹיִ֖ם|gō·w·yim|then the nations|H1471|N-mp
 v2 וּב֥וֹ|ū·ḇōw|by Him|H0|Conj-w | Prep | 3ms
-v2 יִתְהַלָּֽלוּ׃ס|yiṯ·hal·lā·lū|they will glory|H1984|V-Hitpael-Imperf-3mp
+v2 יִתְהַלָּֽלוּ׃|yiṯ·hal·lā·lū|they will glory|H1984|V-Hitpael-Imperf-3mp
 v3 כִּי־|kî-|For|H3588|Conj
 v3 כֹ֣ה׀|ḵōh|this is what|H3541|Adv
 v3 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -111,7 +111,7 @@ v8 שָׁ֛ב|šāḇ|turned away|H7725|V-Qal-Perf-3ms
 v8 חֲר֥וֹן|ḥă·rō·wn|the fierce|H2740|N-msc
 v8 אַף־|’ap̄-|anger|H639|N-msc
 v8 יְהֹוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v8 מִמֶּֽנּוּ׃פ|mim·men·nū|from us|H4480|Prep | 1cp
+v8 מִמֶּֽנּוּ׃|mim·men·nū|from us|H4480|Prep | 1cp
 v9 וְהָיָ֤ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v9 בַיּוֹם־|ḇay·yō·wm-|day|H3117|Prep-b, Art | N-ms
 v9 הַהוּא֙|ha·hū|In that|H1931|Art | Pro-3ms
@@ -139,7 +139,7 @@ v10 וְלִירוּשָׁלִַ֣ם|wə·lî·rū·šā·lim|and Jerusalem|H338
 v10 לֵאמֹ֔ר|lê·mōr|by saying|H559|Prep-l | V-Qal-Inf
 v10 שָׁל֖וֹם|šā·lō·wm|peace|H7965|N-ms
 v10 יִהְיֶ֣ה|yih·yeh|You will have|H1961|V-Qal-Imperf-3ms
-v10 לָכֶ֑ם|lā·ḵem||H0|Prep | 2mp
+v10 לָכֶ֑ם|lā·ḵem|-|H0|Prep | 2mp
 v10 וְנָגְעָ֥ה|wə·nā·ḡə·‘āh|-|H5060|Conj-w | V-Qal-ConjPerf-3fs
 v10 חֶ֖רֶב|ḥe·reḇ|while a sword|H2719|N-fs
 v10 עַד־|‘aḏ-|is at|H5704|Prep
@@ -241,7 +241,7 @@ v18 מָ֔ר|mār|how bitter it is|H4751|Adj-ms
 v18 כִּ֥י|kî|...|H3588|Conj
 v18 נָגַ֖ע|nā·ḡa‘|it pierces|H5060|V-Qal-Perf-3ms
 v18 עַד־|‘aḏ-|to the|H5704|Prep
-v18 לִבֵּֽךְ׃ס|lib·bêḵ|heart|H3820|N-msc | 2fs
+v18 לִבֵּֽךְ׃|lib·bêḵ|heart|H3820|N-msc | 2fs
 v19 מֵעַ֣י׀|mê·‘ay|My anguish|H4578|N-mpc | 1cs
 v19 מֵעַ֨י׀|mê·‘ay|my anguish|H4578|N-mpc | 1cs
 v19 אָחוּלָה|ʾå̄·ḥū·lå̄h|I writhe in pain|H2342|V-Hifil-Imperf.Cohort-1cs
@@ -278,7 +278,7 @@ v21 אֶרְאֶה־|’er·’eh-|must I see|H7200|V-Qal-Imperf.h-1cs
 v21 נֵּ֑ס|nês|the signal flag|H5251|N-ms
 v21 אֶשְׁמְעָ֖ה|’eš·mə·‘āh|and hear|H8085|V-Qal-Imperf.Cohort-1cs
 v21 ק֥וֹל|qō·wl|the sound|H6963|N-msc
-v21 שׁוֹפָֽר׃ס|šō·w·p̄ār|of the horn|H7782|N-ms
+v21 שׁוֹפָֽר׃|šō·w·p̄ār|of the horn|H7782|N-ms
 v22 כִּ֣י׀|kî|For|H3588|Conj
 v22 אֱוִ֣יל|’ĕ·wîl|are fools|H191|Adj-ms
 v22 עַמִּ֗י|‘am·mî|My people|H5971|N-msc | 1cs
@@ -333,7 +333,7 @@ v26 מִפְּנֵ֣י|mip·pə·nê|before|H6440|Prep-m | N-cpc
 v26 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v26 מִפְּנֵ֖י|mip·pə·nê|before|H6440|Prep-m | N-cpc
 v26 חֲר֥וֹן|ḥă·rō·wn|His fierce|H2740|N-msc
-v26 אַפּֽוֹ׃ס|’ap·pōw|anger|H639|N-msc | 3ms
+v26 אַפּֽוֹ׃|’ap·pōw|anger|H639|N-msc | 3ms
 v27 כִּי־|kî-|For|H3588|Conj
 v27 כֹה֙|ḵōh|this is what|H3541|Adv
 v27 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -415,8 +415,8 @@ v31 תְּפָרֵ֣שׂ|tə·p̄ā·rêś|stretching out|H6566|V-Piel-Imperf-3f
 v31 כַּפֶּ֑יהָ|kap·pe·hā|her hands [to say]|H3709|N-fdc | 3fs
 v31 אֽוֹי־|’ō·w-|Woe is me|H188|Interjection
 v31 נָ֣א|nā|...|H4994|Interjection
-v31 לִ֔י|lî||H0|Prep | 1cs
+v31 לִ֔י|lî|-|H0|Prep | 1cs
 v31 כִּֽי־|kî-|for|H3588|Conj
 v31 עָיְפָ֥ה|‘ā·yə·p̄āh|faints|H5888|V-Qal-Perf-3fs
 v31 נַפְשִׁ֖י|nap̄·šî|my soul|H5315|N-fsc | 1cs
-v31 לְהֹרְגִֽים׃פ|lə·hō·rə·ḡîm|before the murderers|H2026|Prep-l | V-Qal-Prtcpl-mp
+v31 לְהֹרְגִֽים׃|lə·hō·rə·ḡîm|before the murderers|H2026|Prep-l | V-Qal-Prtcpl-mp

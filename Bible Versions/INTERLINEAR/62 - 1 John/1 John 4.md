@@ -1,5 +1,5 @@
 v1 Ἀγαπητοί|Agapētoi|Beloved|G27|Adj-VMP
-v1 μὴ|mē|vvv|G3361|Adv
+v1 μὴ|mē|...|G3361|Adv
 v1 παντὶ|panti|every|G3956|Adj-DNS
 v1 πνεύματι|pneumati|spirit|G4151|N-DNS
 v1 πιστεύετε|pisteuete|do not believe|G4100|V-PMA-2P
@@ -43,7 +43,7 @@ v3 καὶ|kai|and|G2532|Conj
 v3 πᾶν|pan|every|G3956|Adj-NNS
 v3 πνεῦμα|pneuma|spirit|G4151|N-NNS
 v3 ὃ|ho|that|G3739|RelPro-NNS
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 ὁμολογεῖ|homologei|does not confess|G3670|V-PIA-3S
 v3 τὸν|ton|-|G3588|Art-AMS
 v3 Ἰησοῦν|Iēsoun|Jesus|G2424|N-AMS
@@ -122,7 +122,7 @@ v6 ἔστιν|estin|is|G1510|V-PIA-3S
 v6 ἐκ|ek|from|G1537|Prep
 v6 τοῦ|tou|-|G3588|Art-GMS
 v6 Θεοῦ|Theou|God|G2316|N-GMS
-v6 οὐκ|ouk|vvv|G3756|Adv
+v6 οὐκ|ouk|...|G3756|Adv
 v6 ἀκούει|akouei|does not listen to|G191|V-PIA-3S
 v6 ἡμῶν|hēmōn|us|G1473|PPro-G1P
 v6 ἐκ|ek|That is how|G1537|Prep
@@ -160,9 +160,9 @@ v7 γινώσκει|ginōskei|knows|G1097|V-PIA-3S
 v7 τὸν|ton|-|G3588|Art-AMS
 v7 Θεόν|Theon|God|G2316|N-AMS
 v8 ὁ|ho|Whoever|G3588|Art-NMS
-v8 μὴ|mē|vvv|G3361|Adv
+v8 μὴ|mē|...|G3361|Adv
 v8 ἀγαπῶν|agapōn|does not love|G25|V-PPA-NMS
-v8 οὐκ|ouk|vvv|G3756|Adv
+v8 οὐκ|ouk|...|G3756|Adv
 v8 ἔγνω|egnō|does not know|G1097|V-AIA-3S
 v8 τὸν|ton|-|G3588|Art-AMS
 v8 Θεόν|Theon|God|G2316|N-AMS
@@ -387,7 +387,7 @@ v18 ἔχει|echei|involves|G2192|V-PIA-3S
 v18 ὁ|ho|The [one who]|G3588|Art-NMS
 v18 δὲ|de|-|G1161|Conj
 v18 φοβούμενος|phoboumenos|fears|G5399|V-PPM/P-NMS
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 τετελείωται|teteleiōtai|has not been perfected|G5048|V-RIM/P-3S
 v18 ἐν|en|in|G1722|Prep
 v18 τῇ|tē|-|G3588|Art-DFS
@@ -415,7 +415,7 @@ v20 ψεύστης|pseustēs|a liar|G5583|N-NMS
 v20 ἐστίν|estin|he is|G1510|V-PIA-3S
 v20 ὁ|ho|anyone who|G3588|Art-NMS
 v20 γὰρ|gar|For|G1063|Conj
-v20 μὴ|mē|vvv|G3361|Adv
+v20 μὴ|mē|...|G3361|Adv
 v20 ἀγαπῶν|agapōn|does not love|G25|V-PPA-NMS
 v20 τὸν|ton|-|G3588|Art-AMS
 v20 ἀδελφὸν|adelphon|brother|G80|N-AMS
@@ -425,9 +425,9 @@ v20 ἑώρακεν|heōraken|he has seen|G3708|V-RIA-3S
 v20 τὸν|ton|-|G3588|Art-AMS
 v20 Θεὸν|Theon|God|G2316|N-AMS
 v20 ὃν|hon|whom|G3739|RelPro-AMS
-v20 οὐχ|ouch|vvv|G3756|Adv
+v20 οὐχ|ouch|...|G3756|Adv
 v20 ἑώρακεν|heōraken|he has not seen|G3708|V-RIA-3S
-v20 οὐ|ou|vvv|G3756|Adv
+v20 οὐ|ou|...|G3756|Adv
 v20 δύναται|dynatai|cannot|G1410|V-PIM/P-3S
 v20 ἀγαπᾶν|agapan|love|G25|V-PNA
 v21 καὶ|kai|And|G2532|Conj

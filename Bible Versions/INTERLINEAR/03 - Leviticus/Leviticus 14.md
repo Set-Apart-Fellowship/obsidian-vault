@@ -67,7 +67,7 @@ v6 וְטָבַ֨ל|wə·ṭā·ḇal|and dip|H2881|Conj-w | V-Qal-ConjPerf-3ms
 v6 אוֹתָ֜ם|’ō·w·ṯām|-|H853|DirObjM | 3mp
 v6 וְאֵ֣ת׀|wə·’êṯ|them|H853|Conj-w | DirObjM
 v6 הַצִּפֹּ֣ר|haṣ·ṣip·pōr|of the bird|H6833|Art | N-cs
-v6 הַֽחַיָּ֗ה|ha·ḥay·yāh||H2416|Art | Adj-fs
+v6 הַֽחַיָּ֗ה|ha·ḥay·yāh|-|H2416|Art | Adj-fs
 v6 בְּדַם֙|bə·ḏam|into the blood|H1818|Prep-b | N-msc
 v6 הַצִּפֹּ֣ר|haṣ·ṣip·pōr|...|H6833|Art | N-cs
 v6 הַשְּׁחֻטָ֔ה|haš·šə·ḥu·ṭāh|that was slaughtered|H7819|Art | V-Qal-QalPassPrtcpl-fs
@@ -186,7 +186,7 @@ v12 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v13 וְשָׁחַ֣ט|wə·šā·ḥaṭ|Then he is to slaughter|H7819|Conj-w | V-Qal-ConjPerf-3ms
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 הַכֶּ֗בֶשׂ|hak·ke·ḇeś|the lamb|H3532|Art | N-ms
-v13 בִּ֠מְקוֹם|bim·qō·wm||H4725|Prep-b | N-msc
+v13 בִּ֠מְקוֹם|bim·qō·wm|-|H4725|Prep-b | N-msc
 v13 אֲשֶׁ֨ר|’ă·šer|where|H834|Pro-r
 v13 יִשְׁחַ֧ט|yiš·ḥaṭ|are slaughtered|H7819|V-Qal-Imperf-3ms
 v13 אֶת־|’eṯ-|-|H853|DirObjM
@@ -310,7 +310,7 @@ v20 הַמִּזְבֵּ֑חָה|ham·miz·bê·ḥāh|on the altar|H4196|Art | 
 v20 וְכִפֶּ֥ר|wə·ḵip·per|to make atonement|H3722|Conj-w | V-Piel-ConjPerf-3ms
 v20 עָלָ֛יו|‘ā·lāw|for him|H5921|Prep | 3ms
 v20 הַכֹּהֵ֖ן|hak·kō·hên|-|H3548|Art | N-ms
-v20 וְטָהֵֽר׃ס|wə·ṭā·hêr|and he will be clean|H2891|Conj-w | V-Qal-ConjPerf-3ms
+v20 וְטָהֵֽר׃|wə·ṭā·hêr|and he will be clean|H2891|Conj-w | V-Qal-ConjPerf-3ms
 v21 וְאִם־|wə·’im-|If, however|H518|Conj
 v21 דַּ֣ל|dal|is poor|H1800|Adj-msc
 v21 ה֗וּא|hū|[the person]|H1931|Pro-3ms
@@ -496,7 +496,7 @@ v32 אֲשֶׁ֛ר|’ă·šer|-|H834|Pro-r
 v32 לֹֽא־|lō-|and cannot|H3808|Adv-NegPrt
 v32 תַשִּׂ֥יג|ṯaś·śîḡ|afford|H5381|V-Hifil-Imperf-3fs
 v32 יָד֖וֹ|yā·ḏōw|...|H3027|N-fsc | 3ms
-v32 בְּטָהֳרָתֽוֹ׃פ|bə·ṭā·ho·rā·ṯōw|the cost of his cleansing|H2893|Prep-b | N-fsc | 3ms
+v32 בְּטָהֳרָתֽוֹ׃|bə·ṭā·ho·rā·ṯōw|the cost of his cleansing|H2893|Prep-b | N-fsc | 3ms
 v33 וַיְדַבֵּ֣ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v33 יְהוָ֔ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v33 אֶל־|’el-|to|H413|Prep
@@ -522,7 +522,7 @@ v34 אֶ֥רֶץ|’e·reṣ|in that land|H776|N-fsc
 v34 אֲחֻזַּתְכֶֽם׃|’ă·ḥuz·zaṯ·ḵem|-|H272|N-fsc | 2mp
 v35 וּבָא֙|ū·ḇā|shall come|H935|Conj-w | V-Qal-ConjPerf-3ms
 v35 אֲשֶׁר־|’ă·šer-|the owner|H834|Pro-r
-v35 ל֣וֹ|lōw||H0|Prep | 3ms
+v35 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v35 הַבַּ֔יִת|hab·ba·yiṯ|of the house|H1004|Art | N-ms
 v35 וְהִגִּ֥יד|wə·hig·gîḏ|and tell|H5046|Conj-w | V-Hifil-ConjPerf-3ms
 v35 לַכֹּהֵ֖ן|lak·kō·hên|the priest|H3548|Prep-l, Art | N-ms
@@ -815,4 +815,4 @@ v57 וּבְי֣וֹם|ū·ḇə·yō·wm|...|H3117|Conj-w, Prep-b | N-msc
 v57 הַטָּהֹ֑ר|haṭ·ṭā·hōr|something is clean|H2889|Art | Adj-ms
 v57 זֹ֥את|zōṯ|This|H2063|Pro-fs
 v57 תּוֹרַ֖ת|tō·w·raṯ|is the law|H8451|N-fsc
-v57 הַצָּרָֽעַת׃ס|haṣ·ṣā·rā·‘aṯ|regarding skin diseases and mildew|H6883|Art | N-fs
+v57 הַצָּרָֽעַת׃|haṣ·ṣā·rā·‘aṯ|regarding skin diseases and mildew|H6883|Art | N-fs

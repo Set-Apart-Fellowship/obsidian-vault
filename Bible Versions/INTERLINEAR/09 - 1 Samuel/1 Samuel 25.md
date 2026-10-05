@@ -13,7 +13,7 @@ v1 דָּוִ֔ד|dā·wiḏ|Then David|H1732|N-proper-ms
 v1 וַיֵּ֖רֶד|way·yê·reḏ|and went down|H3381|Conj-w | V-Qal-ConsecImperf-3ms
 v1 אֶל־|’el-|to|H413|Prep
 v1 מִדְבַּ֥ר|miḏ·bar|the Wilderness|H4057|N-msc
-v1 פָּארָֽן׃ס|pā·rān|of Paran|H6290|N-proper-fs
+v1 פָּארָֽן׃|pā·rān|of Paran|H6290|N-proper-fs
 v2 וְאִ֨ישׁ|wə·’îš|Now [there was] a man|H376|Conj-w | N-ms
 v2 בְּמָע֜וֹן|bə·mā·‘ō·wn|in Maon|H4584|Prep-b | N-proper-fs
 v2 וּמַעֲשֵׂ֣הוּ|ū·ma·‘ă·śê·hū|whose business|H4639|Conj-w | N-msc | 3ms
@@ -88,11 +88,11 @@ v7 וְעַתָּ֣ה|wə·‘at·tāh|Now|H6258|Conj-w | Adv
 v7 שָׁמַ֔עְתִּי|šā·ma‘·tî|I hear|H8085|V-Qal-Perf-1cs
 v7 כִּ֥י|kî|that|H3588|Conj
 v7 גֹזְזִ֖ים|ḡō·zə·zîm|it is time for shearing|H1494|V-Qal-Prtcpl-mp
-v7 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v7 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v7 עַתָּ֗ה|‘at·tāh|-|H6258|Adv
 v7 הָרֹעִ֤ים|hā·rō·‘îm|When your shepherds|H7462|Art | V-Qal-Prtcpl-mp
 v7 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v7 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v7 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v7 הָי֣וּ|hā·yū|were|H1961|V-Qal-Perf-3cp
 v7 עִמָּ֔נוּ|‘im·mā·nū|with us|H5973|Prep | 1cp
 v7 לֹ֣א|lō|we did not|H3808|Adv-NegPrt
@@ -273,7 +273,7 @@ v17 וְעַ֣ל|wə·‘al|and|H5921|Conj-w | Prep
 v17 כָּל־|kāl-|all|H3605|N-msc
 v17 בֵּית֑וֹ|bê·ṯōw|his household|H1004|N-msc | 3ms
 v17 וְהוּא֙|wə·hū|For he [is such]|H1931|Conj-w | Pro-3ms
-v17 בֶּן־|ben-|vvv|H1121|N-msc
+v17 בֶּן־|ben-|...|H1121|N-msc
 v17 בְּלִיַּ֔עַל|bə·lî·ya·‘al|a scoundrel|H1100|N-ms
 v17 מִדַּבֵּ֖ר|mid·dab·bêr|that nobody can speak|H1696|Prep-m | V-Piel-Inf
 v17 אֵלָֽיו׃|’ê·lāw|to him|H413|Prep | 3ms
@@ -314,7 +314,7 @@ v20 הִ֣יא׀|hî|As [Abigail]|H1931|Pro-3fs
 v20 רֹכֶ֣בֶת|rō·ḵe·ḇeṯ|came riding|H7392|V-Qal-Prtcpl-fs
 v20 עַֽל־|‘al-|...|H5921|Prep
 v20 הַחֲמ֗וֹר|ha·ḥă·mō·wr|her donkey|H2543|Art | N-ms
-v20 וְיֹרֶ֙דֶת֙|wə·yō·re·ḏeṯ|vvv|H3381|Conj-w | V-Qal-Prtcpl-fs
+v20 וְיֹרֶ֙דֶת֙|wə·yō·re·ḏeṯ|...|H3381|Conj-w | V-Qal-Prtcpl-fs
 v20 בְּסֵ֣תֶר|bə·sê·ṯer|ravine|H5643|Prep-b | N-msc
 v20 הָהָ֔ר|hā·hār|into a mountain|H2022|Art | N-ms
 v20 וְהִנֵּ֤ה|wə·hin·nêh|she saw|H2009|Conj-w | Interjection
@@ -367,7 +367,7 @@ v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 דָּוִ֔ד|dā·wiḏ|David|H1732|N-proper-ms
 v23 וַתְּמַהֵ֕ר|wat·tə·ma·hêr|she quickly|H4116|Conj-w | V-Piel-ConsecImperf-3fs
 v23 וַתֵּ֖רֶד|wat·tê·reḏ|got off|H3381|Conj-w | V-Qal-ConsecImperf-3fs
-v23 מֵעַ֣ל|mê·‘al|vvv|H5921|Prep-m
+v23 מֵעַ֣ל|mê·‘al|...|H5921|Prep-m
 v23 הַחֲמ֑וֹר|ha·ḥă·mō·wr|the donkey|H2543|Art | N-ms
 v23 וַתִּפֹּ֞ל|wat·tip·pōl|fell|H5307|Conj-w | V-Qal-ConsecImperf-3fs
 v23 לְאַפֵּ֤י|lə·’ap·pê|before|H639|Prep-l | N-mdc
@@ -516,7 +516,7 @@ v30 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v31 וְלֹ֣א|wə·lō|no|H3808|Conj-w | Adv-NegPrt
 v31 תִהְיֶ֣ה|ṯih·yeh|will have|H1961|V-Qal-Imperf-3fs
 v31 זֹ֣את׀|zōṯ|...|H2063|Pro-fs
-v31 לְךָ֡|lə·ḵā||H0|Prep | 2ms
+v31 לְךָ֡|lə·ḵā|-|H0|Prep | 2ms
 v31 לְפוּקָה֩|lə·p̄ū·qāh|remorse|H6330|Prep-l | N-fs
 v31 וּלְמִכְשׁ֨וֹל|ū·lə·miḵ·šō·wl|or guilt|H4383|Conj-w, Prep-l | N-msc
 v31 לֵ֜ב|lêḇ|of conscience|H3820|N-ms
@@ -532,7 +532,7 @@ v31 יְהוָה֙|Yah·weh|And when the LORD|H3068|N-proper-ms
 v31 לַֽאדֹנִ֔י|la·ḏō·nî|with my lord|H113|Prep-l | N-msc | 1cs
 v31 וְזָכַרְתָּ֖|wə·zā·ḵar·tā|may you remember|H2142|Conj-w | V-Qal-ConjPerf-2ms
 v31 אֶת־|’eṯ-|-|H853|DirObjM
-v31 אֲמָתֶֽךָ׃ס|’ă·mā·ṯe·ḵā|your servant|H519|N-fsc | 2ms
+v31 אֲמָתֶֽךָ׃|’ă·mā·ṯe·ḵā|your servant|H519|N-fsc | 2ms
 v32 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v32 דָּוִ֖ד|dā·wiḏ|Then David|H1732|N-proper-ms
 v32 לַאֲבִיגַ֑ל|la·’ă·ḇî·ḡal|to Abigail|H26|Prep-l | N-proper-fs
@@ -693,7 +693,7 @@ v40 אֵלֶ֙יהָ֙|’ê·le·hā|-|H413|Prep | 3fs
 v40 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v40 דָּוִד֙|dā·wiḏ|David|H1732|N-proper-ms
 v40 שְׁלָחָ֣נוּ|šə·lā·ḥā·nū|has sent us|H7971|V-Qal-Perf-3ms | 1cp
-v40 אֵלַ֔יִךְ|’ê·la·yiḵ|vvv|H413|Prep | 2fs
+v40 אֵלַ֔יִךְ|’ê·la·yiḵ|...|H413|Prep | 2fs
 v40 לְקַחְתֵּ֥ךְ|lə·qaḥ·têḵ|to take you|H3947|Prep-l | V-Qal-Inf | 2fs
 v40 ל֖וֹ|lōw|as his|H0|Prep | 3ms
 v40 לְאִשָּֽׁה׃|lə·’iš·šāh|wife|H802|Prep-l | N-fs
@@ -735,7 +735,7 @@ v43 וַתִּהְיֶ֛יןָ|wat·tih·ye·nā|...|H1961|Conj-w | V-Qal-Consec
 v43 גַּֽם־|gam-|...|H1571|Conj
 v43 שְׁתֵּיהֶ֥ן|šə·tê·hen|So [she and Abigail] were both|H8147|Number-fdc | 3fp
 v43 ל֖וֹ|lōw|his|H0|Prep | 3ms
-v43 לְנָשִֽׁים׃ס|lə·nā·šîm|wives|H802|Prep-l | N-fp
+v43 לְנָשִֽׁים׃|lə·nā·šîm|wives|H802|Prep-l | N-fp
 v44 וְשָׁא֗וּל|wə·šā·’ūl|But Saul|H7586|Conj-w | N-proper-ms
 v44 נָתַ֛ן|nā·ṯan|had given|H5414|V-Qal-Perf-3ms
 v44 אֶת־|’eṯ-|-|H853|DirObjM

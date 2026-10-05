@@ -8,10 +8,10 @@ v1 לֵאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v2 נָשֹׂ֗א|nā·śō|Take|H5375|V-Qal-InfAbs
 v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 רֹאשׁ֙|rōš|a census|H7218|N-msc
-v2 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v2 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v2 קְהָ֔ת|qə·hāṯ|of the Kohathites|H6955|N-proper-ms
 v2 מִתּ֖וֹךְ|mit·tō·wḵ|among|H8432|Prep-m | N-msc
-v2 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v2 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v2 לֵוִ֑י|lê·wî|the Levites|H3878|N-proper-ms
 v2 לְמִשְׁפְּחֹתָ֖ם|lə·miš·pə·ḥō·ṯām|by their clans|H4940|Prep-l | N-fpc | 3mp
 v2 לְבֵ֥ית|lə·ḇêṯ|...|H1004|Prep-l | N-msc
@@ -27,7 +27,7 @@ v3 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
 v3 כָּל־|kāl-|everyone|H3605|N-msc
 v3 בָּא֙|bā|who is qualified|H935|V-Qal-Prtcpl-ms
 v3 לַצָּבָ֔א|laṣ·ṣā·ḇā|to serve|H6635|Prep-l, Art | N-cs
-v3 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|vvv|H6213|Prep-l | V-Qal-Inf
+v3 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|...|H6213|Prep-l | V-Qal-Inf
 v3 מְלָאכָ֖ה|mə·lā·ḵāh|in the work|H4399|N-fs
 v3 בְּאֹ֥הֶל|bə·’ō·hel|at the Tent|H168|Prep-b | N-msc
 v3 מוֹעֵֽד׃|mō·w·‘êḏ|of Meeting|H4150|N-ms
@@ -56,7 +56,7 @@ v5 הָעֵדֻֽת׃|hā·‘ê·ḏuṯ|of the Testimony|H5715|Art | N-fs
 v6 וְנָתְנ֣וּ|wə·nā·ṯə·nū|They are to place|H5414|Conj-w | V-Qal-ConjPerf-3cp
 v6 עָלָ֗יו|‘ā·lāw|over|H5921|Prep | 3ms
 v6 כְּסוּי֙|kə·sui|this a covering|H3681|N-msc
-v6 ע֣וֹר|‘ō·wr|vvv|H5785|N-msc
+v6 ע֣וֹר|‘ō·wr|...|H5785|N-msc
 v6 תַּ֔חַשׁ|ta·ḥaš|of fine leather|H8476|N-ms
 v6 וּפָרְשׂ֧וּ|ū·p̄ā·rə·śū|spread|H6566|Conj-w | V-Qal-ConjPerf-3cp
 v6 בֶֽגֶד־|ḇe·ḡeḏ-|cloth|H899|N-msc
@@ -182,7 +182,7 @@ v14 כֵּלָ֞יו|kê·lāw|the vessels|H3627|N-mpc | 3ms
 v14 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v14 יְֽשָׁרְת֧וּ|yə·šā·rə·ṯū|used to serve|H8334|V-Piel-Imperf-3mp
 v14 עָלָ֣יו|‘ā·lāw|there|H5921|Prep | 3ms
-v14 בָּהֶ֗ם|bā·hem||H0|Prep | 3mp
+v14 בָּהֶ֗ם|bā·hem|-|H0|Prep | 3mp
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 הַמַּחְתֹּ֤ת|ham·maḥ·tōṯ|the firepans|H4289|Art | N-fp
 v14 אֶת־|’eṯ-|-|H853|DirObjM
@@ -210,7 +210,7 @@ v15 הַקֹּ֜דֶשׁ|haq·qō·ḏeš|the holy objects|H6944|Art | N-ms
 v15 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v15 כָּל־|kāl-|and all|H3605|N-msc
 v15 כְּלֵ֣י|kə·lê|their equipment|H3627|N-mpc
-v15 הַקֹּדֶשׁ֮|haq·qō·ḏeš||H6944|Art | N-ms
+v15 הַקֹּדֶשׁ֮|haq·qō·ḏeš|-|H6944|Art | N-ms
 v15 בִּנְסֹ֣עַ|bin·sō·a‘|is ready to move|H5265|Prep-b | V-Qal-Inf
 v15 הַֽמַּחֲנֶה֒|ham·ma·ḥă·neh|as soon as the camp|H4264|Art | N-cs
 v15 וְאַחֲרֵי־|wə·’a·ḥă·rê-|...|H310|Conj-w | Prep
@@ -250,7 +250,7 @@ v16 וְכָל־|wə·ḵāl|and everything|H3605|Conj-w | N-msc
 v16 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v16 בּ֔וֹ|bōw|in it|H0|Prep | 3ms
 v16 בְּקֹ֖דֶשׁ|bə·qō·ḏeš|including the holy objects|H6944|Prep-b | N-ms
-v16 וּבְכֵלָֽיו׃ס|ū·ḇə·ḵê·lāw|and their utensils|H3627|Conj-w, Prep-b | N-mpc | 3ms
+v16 וּבְכֵלָֽיו׃|ū·ḇə·ḵê·lāw|and their utensils|H3627|Conj-w, Prep-b | N-mpc | 3ms
 v17 וַיְדַבֵּ֣ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v17 יְהוָ֔ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v17 אֶל־|’el-|to|H413|Prep
@@ -293,7 +293,7 @@ v20 לִרְא֛וֹת|lir·’ō·wṯ|and look|H7200|Prep-l | V-Qal-Inf
 v20 כְּבַלַּ֥ע|kə·ḇal·la‘|even for a moment|H1104|Prep-k | V-Piel-Inf
 v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 הַקֹּ֖דֶשׁ|haq·qō·ḏeš|at the holy objects|H6944|Art | N-ms
-v20 וָמֵֽתוּ׃פ|wā·mê·ṯū|or they will die|H4191|Conj-w | V-Qal-ConjPerf-3cp
+v20 וָמֵֽתוּ׃|wā·mê·ṯū|or they will die|H4191|Conj-w | V-Qal-ConjPerf-3cp
 v21 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v21 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v21 אֶל־|’el-|to|H413|Prep
@@ -322,8 +322,8 @@ v23 אוֹתָ֑ם|’ō·w·ṯām|-|H853|DirObjM | 3mp
 v23 כָּל־|kāl-|everyone|H3605|N-msc
 v23 הַבָּא֙|hab·bā|who comes|H935|Art | V-Qal-Prtcpl-ms
 v23 לִצְבֹ֣א|liṣ·ḇō|to serve|H6633|Prep-l | V-Qal-Inf
-v23 צָבָ֔א|ṣā·ḇā||H6635|N-cs
-v23 לַעֲבֹ֥ד|la·‘ă·ḇōḏ||H5647|Prep-l | V-Qal-Inf
+v23 צָבָ֔א|ṣā·ḇā|-|H6635|N-cs
+v23 לַעֲבֹ֥ד|la·‘ă·ḇōḏ|-|H5647|Prep-l | V-Qal-Inf
 v23 עֲבֹדָ֖ה|‘ă·ḇō·ḏāh|in the work|H5656|N-fs
 v23 בְּאֹ֥הֶל|bə·’ō·hel|at the Tent|H168|Prep-b | N-msc
 v23 מוֹעֵֽד׃|mō·w·‘êḏ|of Meeting|H4150|N-ms
@@ -408,7 +408,7 @@ v28 בְּיַד֙|bə·yaḏ|shall be under the direction|H3027|Prep-b | N-fsc
 v28 אִֽיתָמָ֔ר|’î·ṯā·mār|of Ithamar|H385|N-proper-ms
 v28 בֶּֽן־|ben-|son|H1121|N-msc
 v28 אַהֲרֹ֖ן|’a·hă·rōn|of Aaron|H175|N-proper-ms
-v28 הַכֹּהֵֽן׃פ|hak·kō·hên|the priest|H3548|Art | N-ms
+v28 הַכֹּהֵֽן׃|hak·kō·hên|the priest|H3548|Art | N-ms
 v29 בְּנֵ֖י|bə·nê|As for the sons|H1121|N-mpc
 v29 מְרָרִ֑י|mə·rā·rî|of Merari|H4847|N-proper-ms
 v29 לְמִשְׁפְּחֹתָ֥ם|lə·miš·pə·ḥō·ṯām|by their clans|H4940|Prep-l | N-fpc | 3mp
@@ -523,7 +523,7 @@ v37 עַל־|‘al-|according to|H5921|Prep
 v37 פִּ֥י|pî|the command|H6310|N-msc
 v37 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v37 בְּיַד־|bə·yaḏ-|through|H3027|Prep-b | N-fsc
-v37 מֹשֶֽׁה׃ס|mō·šeh|Moses|H4872|N-proper-ms
+v37 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v38 וּפְקוּדֵ֖י|ū·p̄ə·qū·ḏê|were numbered|H6485|Conj-w | V-Qal-QalPassPrtcpl-mpc
 v38 בְּנֵ֣י|bə·nê|Then the Gershonites|H1121|N-mpc
 v38 גֵרְשׁ֑וֹן|ḡê·rə·šō·wn|...|H1648|N-proper-ms
@@ -556,7 +556,7 @@ v40 וּשְׁלֹשִֽׁים׃|ū·šə·lō·šîm|...|H7970|Conj-w | Number-
 v41 אֵ֣לֶּה|’êl·leh|These|H428|Pro-cp
 v41 פְקוּדֵ֗י|p̄ə·qū·ḏê|were counted|H6485|V-Qal-QalPassPrtcpl-mpc
 v41 מִשְׁפְּחֹת֙|miš·pə·ḥōṯ|clans|H4940|N-fpc
-v41 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v41 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v41 גֵרְשׁ֔וֹן|ḡê·rə·šō·wn|from the Gershonite|H1648|N-proper-ms
 v41 כָּל־|kāl-|...|H3605|N-msc
 v41 הָעֹבֵ֖ד|hā·‘ō·ḇêḏ|who served|H5647|Art | V-Qal-Prtcpl-ms
@@ -571,7 +571,7 @@ v41 פִּ֥י|pî|command|H6310|N-msc
 v41 יְהוָֽה׃|Yah·weh|the LORD's|H3068|N-proper-ms
 v42 וּפְקוּדֵ֕י|ū·p̄ə·qū·ḏê|were numbered|H6485|Conj-w | V-Qal-QalPassPrtcpl-mpc
 v42 מִשְׁפְּחֹ֖ת|miš·pə·ḥōṯ|...|H4940|N-fpc
-v42 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v42 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v42 מְרָרִ֑י|mə·rā·rî|And the Merarites|H4847|N-proper-ms
 v42 לְמִשְׁפְּחֹתָ֖ם|lə·miš·pə·ḥō·ṯām|by their clans|H4940|Prep-l | N-fpc | 3mp
 v42 לְבֵ֥ית|lə·ḇêṯ|...|H1004|Prep-l | N-msc
@@ -665,4 +665,4 @@ v49 אֲשֶׁר־|’ă·šer-|as|H834|Pro-r
 v49 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v49 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v49 אֶת־|’eṯ-|-|H853|DirObjM
-v49 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v49 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms

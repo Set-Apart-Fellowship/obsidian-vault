@@ -18,14 +18,14 @@ v2 וַיֹּ֤אמֶר|way·yō·mer|and instructed them|H559|Conj-w | V-Qal-Co
 v2 אֲלֵהֶם֙|’ă·lê·hem|...|H413|Prep | 3mp
 v2 לְכ֣וּ|lə·ḵū|Go|H1980|V-Qal-Imp-mp
 v2 דִרְשׁ֗וּ|ḏir·šū|inquire|H1875|V-Qal-Imp-mp
-v2 בְּבַ֤עַל|bə·ḇa·‘al|vvv|H1176|Prep
+v2 בְּבַ֤עַל|bə·ḇa·‘al|...|H1176|Prep
 v2 זְבוּב֙|zə·ḇūḇ|of Baal-zebub|H1176|Prep | N-proper-ms
 v2 אֱלֹהֵ֣י|’ĕ·lō·hê|the god|H430|N-mpc
 v2 עֶקְר֔וֹן|‘eq·rō·wn|of Ekron|H6138|N-proper-fs
 v2 אִם־|’im-|whether|H518|Conj
 v2 אֶחְיֶ֖ה|’eḥ·yeh|I will recover|H2421|V-Qal-Imperf-1cs
 v2 מֵחֳלִ֥י|mê·ḥo·lî|injury|H2483|Prep-m | N-ms
-v2 זֶֽה׃ס|zeh|from this|H2088|Pro-ms
+v2 זֶֽה׃|zeh|from this|H2088|Pro-ms
 v3 וּמַלְאַ֣ךְ|ū·mal·’aḵ|But the angel|H4397|Conj-w | N-msc
 v3 יְהוָ֗ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v3 דִּבֶּר֙|dib·ber|said|H1696|V-Piel-Perf-3ms
@@ -47,7 +47,7 @@ v3 בְּיִשְׂרָאֵ֔ל|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | 
 v3 אַתֶּם֙|’at·tem|that you|H859|Pro-2mp
 v3 הֹֽלְכִ֔ים|hō·lə·ḵîm|are on your way|H1980|V-Qal-Prtcpl-mp
 v3 לִדְרֹ֕שׁ|liḏ·rōš|to inquire|H1875|Prep-l | V-Qal-Inf
-v3 בְּבַ֥עַל|bə·ḇa·‘al|vvv|H1176|Prep
+v3 בְּבַ֥עַל|bə·ḇa·‘al|...|H1176|Prep
 v3 זְב֖וּב|zə·ḇūḇ|of Baal-zebub|H1176|Prep | N-proper-ms
 v3 אֱלֹהֵ֥י|’ĕ·lō·hê|the god|H430|N-mpc
 v3 עֶקְרֽוֹן׃|‘eq·rō·wn|of Ekron|H6138|N-proper-fs
@@ -76,7 +76,7 @@ v5 מַה־|mah-|Why|H4100|Interrog
 v5 זֶּ֥ה|zeh|...|H2088|Pro-ms
 v5 שַׁבְתֶּֽם׃|šaḇ·tem|have you returned|H7725|V-Qal-Perf-2mp
 v6 וַיֹּאמְר֨וּ|way·yō·mə·rū|They replied|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v6 אֵלָ֜יו|’ê·lāw||H413|Prep | 3ms
+v6 אֵלָ֜יו|’ê·lāw|-|H413|Prep | 3ms
 v6 אִ֣ישׁ׀|’îš|A man|H376|N-ms
 v6 עָלָ֣ה|‘ā·lāh|came up|H5927|V-Qal-Perf-3ms
 v6 לִקְרָאתֵ֗נוּ|liq·rā·ṯê·nū|to meet us|H7122|Prep-l | V-Qal-Inf | 1cp
@@ -101,7 +101,7 @@ v6 בְּיִשְׂרָאֵ֔ל|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | 
 v6 אַתָּ֣ה|’at·tāh|that you are|H859|Pro-2ms
 v6 שֹׁלֵ֔חַ|šō·lê·aḥ|sending|H7971|V-Qal-Prtcpl-ms
 v6 לִדְרֹ֕שׁ|liḏ·rōš|these men to inquire|H1875|Prep-l | V-Qal-Inf
-v6 בְּבַ֥עַל|bə·ḇa·‘al|vvv|H1176|Prep
+v6 בְּבַ֥עַל|bə·ḇa·‘al|...|H1176|Prep
 v6 זְב֖וּב|zə·ḇūḇ|of Baal-zebub|H1176|Prep | N-proper-ms
 v6 אֱלֹהֵ֣י|’ĕ·lō·hê|the god|H430|N-mpc
 v6 עֶקְר֑וֹן|‘eq·rō·wn|of Ekron|H6138|N-proper-fs
@@ -145,7 +145,7 @@ v8 הֽוּא׃|hū|It [was]|H1931|Pro-3ms
 v9 וַיִּשְׁלַ֥ח|way·yiš·laḥ|Then King Ahaziah sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v9 אֵלָ֛יו|’ê·lāw|to Elijah|H413|Prep | 3ms
 v9 שַׂר־|śar-|a captain|H8269|N-msc
-v9 חֲמִשִּׁ֖ים|ḥă·miš·šîm|vvv|H2572|Number-cp
+v9 חֲמִשִּׁ֖ים|ḥă·miš·šîm|...|H2572|Number-cp
 v9 וַחֲמִשָּׁ֑יו|wa·ḥă·miš·šāw|with his company of fifty men|H2572|Conj-w | Number-cpc | 3ms
 v9 וַיַּ֣עַל|way·ya·‘al|So the captain went up|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v9 אֵלָ֗יו|’ê·lāw|to [Elijah]|H413|Prep | 3ms
@@ -238,7 +238,7 @@ v13 וַחֲמִשָּׁ֑יו|wa·ḥă·miš·šāw|-|H2572|Conj-w | Number-c
 v13 וַיַּ֡עַל|way·ya·‘al|went up|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v13 וַיָּבֹא֩|way·yā·ḇō|...|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v13 שַׂר־|śar-|captain|H8269|N-msc
-v13 הַחֲמִשִּׁ֨ים|ha·ḥă·miš·šîm||H2572|Art | Number-cp
+v13 הַחֲמִשִּׁ֨ים|ha·ḥă·miš·šîm|-|H2572|Art | Number-cp
 v13 הַשְּׁלִישִׁ֜י|haš·šə·lî·šî|And the third|H7992|Art | Number-oms
 v13 וַיִּכְרַ֥ע|way·yiḵ·ra‘|fell|H3766|Conj-w | V-Qal-ConsecImperf-3ms
 v13 עַל־|‘al-|on|H5921|Prep
@@ -275,7 +275,7 @@ v14 חֲמִשֵּׁיהֶ֑ם|ḥă·miš·šê·hem|with all their men|H2572|
 v14 וְעַתָּ֕ה|wə·‘at·tāh|But now|H6258|Conj-w | Adv
 v14 תִּיקַ֥ר|tî·qar|be precious|H3365|V-Qal-Imperf-3fs
 v14 נַפְשִׁ֖י|nap̄·šî|may my life|H5315|N-fsc | 1cs
-v14 בְּעֵינֶֽיךָ׃ס|bə·‘ê·ne·ḵā|in your sight|H5869|Prep-b | N-cdc | 2ms
+v14 בְּעֵינֶֽיךָ׃|bə·‘ê·ne·ḵā|in your sight|H5869|Prep-b | N-cdc | 2ms
 v15 וַיְדַבֵּ֞ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v15 מַלְאַ֤ךְ|mal·’aḵ|Then the angel|H4397|N-msc
 v15 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -301,7 +301,7 @@ v16 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v16 שָׁלַ֣חְתָּ|šā·laḥ·tā|you have sent|H7971|V-Qal-Perf-2ms
 v16 מַלְאָכִים֮|mal·’ā·ḵîm|messengers|H4397|N-mp
 v16 לִדְרֹשׁ֮|liḏ·rōš|to inquire|H1875|Prep-l | V-Qal-Inf
-v16 בְּבַ֣עַל|bə·ḇa·‘al|vvv|H1176|Prep
+v16 בְּבַ֣עַל|bə·ḇa·‘al|...|H1176|Prep
 v16 זְבוּב֮|zə·ḇūḇ|of Baal-zebub|H1176|Prep | N-proper-ms
 v16 אֱלֹהֵ֣י|’ĕ·lō·hê|the god|H430|N-mpc
 v16 עֶקְרוֹן֒|‘eq·rō·wn|of Ekron|H6138|N-proper-fs
@@ -330,7 +330,7 @@ v17 דִּבֶּ֣ר|dib·ber|had spoken|H1696|V-Piel-Perf-3ms
 v17 אֵלִיָּ֗הוּ|’ê·lî·yā·hū|Elijah|H452|N-proper-ms
 v17 וַיִּמְלֹ֤ךְ|way·yim·lōḵ|succeeded him|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v17 יְהוֹרָם֙|yə·hō·w·rām|Jehoram|H3088|N-proper-ms
-v17 תַּחְתָּ֔יו פ|taḥ·tå̄w p̄||H8478|Prep | 3ms
+v17 תַּחְתָּ֔יו פ|taḥ·tå̄w p̄|-|H8478|Prep | 3ms
 v17 בִּשְׁנַ֣ת|biš·naṯ|year|H8141|Prep-b | N-fsc
 v17 שְׁתַּ֔יִם|šə·ta·yim|in the second|H8147|Number-fd
 v17 לִיהוֹרָ֥ם|lî·hō·w·rām|of Jehoram|H3088|Prep-l | N-proper-ms
@@ -341,7 +341,7 @@ v17 יְהוּדָ֑ה|yə·hū·ḏāh|over Judah|H3063|N-proper-ms
 v17 כִּ֛י|kî|And since|H3588|Conj
 v17 לֹֽא־|lō-|no|H3808|Adv-NegPrt
 v17 הָ֥יָה|hā·yāh|he had|H1961|V-Qal-Perf-3ms
-v17 ל֖וֹ|lōw||H0|Prep | 3ms
+v17 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v17 בֵּֽן׃|bên|son|H1121|N-ms
 v18 וְיֶ֛תֶר|wə·ye·ṯer|As for the rest|H3499|Conj-w | N-msc
 v18 דִּבְרֵ֥י|diḇ·rê|of the acts|H1697|N-mpc
@@ -356,4 +356,4 @@ v18 סֵ֛פֶר|sê·p̄er|the Book|H5612|N-msc
 v18 דִּבְרֵ֥י|diḇ·rê|of the Chronicles|H1697|N-mpc
 v18 הַיָּמִ֖ים|hay·yā·mîm|...|H3117|Art | N-mp
 v18 לְמַלְכֵ֥י|lə·mal·ḵê|of the Kings|H4428|Prep-l | N-mpc
-v18 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v18 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms

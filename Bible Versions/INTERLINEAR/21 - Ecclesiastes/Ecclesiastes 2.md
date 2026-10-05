@@ -76,14 +76,14 @@ v7 וּשְׁפָח֔וֹת|ū·šə·p̄ā·ḥō·wṯ|and maidservants|H8198|
 v7 וּבְנֵי־|ū·ḇə·nê-|and servants were born|H1121|Conj-w | N-mpc
 v7 בַ֖יִת|ḇa·yiṯ|in my house|H1004|N-ms
 v7 הָ֣יָה|hā·yāh|owned|H1961|V-Qal-Perf-3ms
-v7 לִ֑י|lî||H0|Prep | 1cs
+v7 לִ֑י|lî|-|H0|Prep | 1cs
 v7 גַּ֣ם|gam|I also|H1571|Conj
 v7 מִקְנֶה֩|miq·neh|...|H4735|N-ms
 v7 בָקָ֨ר|ḇā·qār|herds|H1241|N-ms
 v7 וָצֹ֤אן|wā·ṣōn|and flocks|H6629|Conj-w | N-cs
 v7 הַרְבֵּה֙|har·bêh|more|H7235|V-Hifil-InfAbs
 v7 הָ֣יָה|hā·yāh|...|H1961|V-Qal-Perf-3ms
-v7 לִ֔י|lî||H0|Prep | 1cs
+v7 לִ֔י|lî|-|H0|Prep | 1cs
 v7 מִכֹּ֛ל|mik·kōl|than anyone|H3605|Prep-m | N-ms
 v7 שֶֽׁהָי֥וּ|še·hā·yū|...|H1961|Pro-r | V-Qal-Perf-3cp
 v7 לְפָנַ֖י|lə·p̄ā·nay|before me|H6440|Prep-l | N-mpc | 1cs
@@ -164,7 +164,7 @@ v12 וְהוֹלֵל֖וֹת|wə·hō·w·lê·lō·wṯ|and madness|H1947|Conj-
 v12 וְסִכְל֑וּת|wə·siḵ·lūṯ|and folly|H5531|Conj-w | N-fs
 v12 כִּ֣י׀|kî|for|H3588|Conj
 v12 מֶ֣ה|meh|what [more]|H4100|Interrog
-v12 הָאָדָ֗ם|hā·’ā·ḏām|vvv|H120|Art | N-ms
+v12 הָאָדָ֗ם|hā·’ā·ḏām|...|H120|Art | N-ms
 v12 שֶׁיָּבוֹא֙|še·yā·ḇō·w|successor|H935|Pro-r | V-Qal-Imperf-3ms
 v12 אַחֲרֵ֣י|’a·ḥă·rê|...|H310|Prep
 v12 הַמֶּ֔לֶךְ|ham·me·leḵ|can the king's|H4428|Art | N-ms

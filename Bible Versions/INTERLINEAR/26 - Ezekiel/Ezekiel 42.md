@@ -2,8 +2,8 @@ v1 וַיּוֹצִאֵ֗נִי|way·yō·w·ṣi·’ê·nî|Then the man led m
 v1 אֶל־|’el-|into|H413|Prep
 v1 הֶֽחָצֵר֙|he·ḥā·ṣêr|court|H2691|Art | N-cs
 v1 הַחִ֣יצוֹנָ֔ה|ha·ḥî·ṣō·w·nāh|the outer|H2435|Art | Adj-fs
-v1 הַדֶּ֖רֶךְ|had·de·reḵ|vvv|H1870|Art | N-cs
-v1 דֶּ֣רֶךְ|de·reḵ|vvv|H1870|N-csc
+v1 הַדֶּ֖רֶךְ|had·de·reḵ|...|H1870|Art | N-cs
+v1 דֶּ֣רֶךְ|de·reḵ|...|H1870|N-csc
 v1 הַצָּפ֑וֹן|haṣ·ṣā·p̄ō·wn|northward|H6828|Art | N-fs
 v1 וַיְבִאֵ֣נִי|way·ḇi·’ê·nî|and he brought me|H935|Conj-w | V-Hifil-ConsecImperf-3ms | 1cs
 v1 אֶל־|’el-|to|H413|Prep
@@ -16,8 +16,8 @@ v1 נֶ֥גֶד|ne·ḡeḏ|and|H5048|Prep
 v1 הַבִּנְיָ֖ן|hab·bin·yān|the [outer wall]|H1146|Art | N-ms
 v1 אֶל־|’el-|on|H413|Prep
 v1 הַצָּפֽוֹן׃|haṣ·ṣā·p̄ō·wn|the north side|H6828|Art | N-fs
-v2 אֶל־|’el-||H413|Prep
-v2 פְּנֵי־|pə·nê-||H6440|N-mpc
+v2 אֶל־|’el-|-|H413|Prep
+v2 פְּנֵי־|pə·nê-|-|H6440|N-mpc
 v2 אֹ֙רֶךְ֙|’ō·reḵ|The building|H753|N-ms
 v2 אַמּ֣וֹת|’am·mō·wṯ|cubits|H520|N-fp
 v2 הַמֵּאָ֔ה|ham·mê·’āh|[was] a hundred|H3967|Art | Number-fs
@@ -37,7 +37,7 @@ v3 אֲשֶׁ֖ר|’ă·šer|that|H834|Pro-r
 v3 לֶחָצֵ֣ר|le·ḥā·ṣêr|court|H2691|Prep-l, Art | N-cs
 v3 הַחִֽיצוֹנָ֑ה|ha·ḥî·ṣō·w·nāh|belonged to the outer|H2435|Art | Adj-fs
 v3 אַתִּ֥יק|’at·tîq|Gallery|H862|N-ms
-v3 אֶל־|’el-|vvv|H413|Prep
+v3 אֶל־|’el-|...|H413|Prep
 v3 פְּנֵֽי־|pə·nê-|faced|H6440|N-mpc
 v3 אַתִּ֖יק|’at·tîq|gallery|H862|N-ms
 v3 בַּשְּׁלִשִֽׁים׃|baš·šə·li·šîm|in three levels|H7992|Prep-b, Art | Number-omp
@@ -77,7 +77,7 @@ v6 כֵּ֣ן|kên|...|H3651|Adv
 v6 נֶאֱצַ֗ל|ne·’ĕ·ṣal|[the upper chambers] were set back further|H680|V-Nifal-Perf-3ms
 v6 מֵהַתַּחְתּוֹנ֛וֹת|mê·hat·taḥ·tō·w·nō·wṯ|than the lower|H8481|Prep-m, Art | Adj-fp
 v6 וּמֵהַתִּֽיכֹנ֖וֹת|ū·mê·hat·tî·ḵō·nō·wṯ|and middle floors|H8484|Conj-w, Prep-m, Art | Adj-fp
-v6 מֵהָאָֽרֶץ׃|mê·hā·’ā·reṣ||H776|Prep-m, Art | N-fs
+v6 מֵהָאָֽרֶץ׃|mê·hā·’ā·reṣ|-|H776|Prep-m, Art | N-fs
 v7 וְגָדֵ֤ר|wə·ḡā·ḏêr|wall|H1447|Conj-w | N-ms
 v7 אֲשֶׁר־|’ă·šer-|[was]|H834|Pro-r
 v7 לַחוּץ֙|la·ḥūṣ|An outer|H2351|Prep-l, Art | N-ms
@@ -120,7 +120,7 @@ v10 גֶּ֣דֶר|ge·ḏer|of the wall|H1444|N-fsc
 v10 הֶחָצֵ֗ר|he·ḥā·ṣêr|of the outer court|H2691|Art | N-cs
 v10 דֶּ֧רֶךְ|de·reḵ|On the|H1870|N-csc
 v10 הַקָּדִ֛ים|haq·qā·ḏîm|south side|H6921|Art | N-ms
-v10 אֶל־|’el-||H413|Prep
+v10 אֶל־|’el-|-|H413|Prep
 v10 פְּנֵ֧י|pə·nê|adjoining|H6440|N-cpc
 v10 הַגִּזְרָ֛ה|hag·giz·rāh|the courtyard|H1508|Art | N-fs
 v10 וְאֶל־|wə·’el-|and|H413|Conj-w | Prep
@@ -160,9 +160,9 @@ v13 וַיֹּ֣אמֶר|way·yō·mer|Then the man said|H559|Conj-w | V-Qal-Con
 v13 אֵלַ֗י|’ê·lay|to me|H413|Prep | 1cs
 v13 לִֽשְׁכ֨וֹת|liš·ḵō·wṯ|chambers|H3957|N-fpc
 v13 הַצָּפ֜וֹן|haṣ·ṣā·p̄ō·wn|The north|H6828|Art | N-fs
-v13 לִֽשְׁכ֣וֹת|liš·ḵō·wṯ||H3957|N-fpc
+v13 לִֽשְׁכ֣וֹת|liš·ḵō·wṯ|-|H3957|N-fpc
 v13 הַדָּרוֹם֮|had·dā·rō·wm|[and] south|H1864|Art | N-ms
-v13 אֲשֶׁ֣ר|’ă·šer|vvv|H834|Pro-r
+v13 אֲשֶׁ֣ר|’ă·šer|...|H834|Pro-r
 v13 אֶל־|’el-|facing|H413|Prep
 v13 פְּנֵ֣י|pə·nê|...|H6440|N-cpc
 v13 הַגִּזְרָה֒|hag·giz·rāh|the temple courtyard|H1508|Art | N-fs
@@ -171,7 +171,7 @@ v13 לִֽשְׁכ֣וֹת|liš·ḵō·wṯ|chambers|H3957|N-fpc
 v13 הַקֹּ֗דֶשׁ|haq·qō·ḏeš|are the holy|H6944|Art | N-ms
 v13 אֲשֶׁ֨ר|’ă·šer|where|H834|Pro-r
 v13 יֹאכְלוּ־|yō·ḵə·lū-|will eat|H398|V-Qal-Imperf-3mp
-v13 שָׁ֧ם|šām||H8033|Adv
+v13 שָׁ֧ם|šām|-|H8033|Adv
 v13 הַכֹּהֲנִ֛ים|hak·kō·hă·nîm|the priests|H3548|Art | N-mp
 v13 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
 v13 קְרוֹבִ֥ים|qə·rō·w·ḇîm|approach|H7138|Adj-mp
@@ -201,7 +201,7 @@ v14 יַנִּ֧יחוּ|yan·nî·ḥū|until they have left behind|H5117|V-Hif
 v14 בִגְדֵיהֶ֛ם|ḇiḡ·ḏê·hem|the garments|H899|N-mpc | 3mp
 v14 אֲשֶׁר־|’ă·šer-|in which|H834|Pro-r
 v14 יְשָׁרְת֥וּ|yə·šā·rə·ṯū|they minister|H8334|V-Piel-Imperf-3mp
-v14 בָהֶ֖ן|ḇā·hen||H0|Prep | 3fp
+v14 בָהֶ֖ן|ḇā·hen|-|H0|Prep | 3fp
 v14 כִּֽי־|kî-|for|H3588|Conj
 v14 קֹ֣דֶשׁ|qō·ḏeš|are holy|H6944|N-ms
 v14 הֵ֑נָּה|hên·nāh|these|H2007|Pro-3fp
@@ -235,8 +235,8 @@ v16 הַמִּדָּ֑ה|ham·mid·dāh|With a measuring|H4060|Art | N-fs
 v16 חֲמֵשׁ־|ḥă·mêš-|[to be] five|H2568|Number-fsc
 v16 אֵמוֹת|ʾē·mōṯ|hundred|H520|Number-fpc
 v16 קָנִ֛ים|qā·nîm|[cubits]|H7070|N-mp
-v16 בִּקְנֵ֥ה|biq·nêh||H7070|Prep-b | N-msc
-v16 הַמִּדָּ֖ה|ham·mid·dāh||H4060|Art | N-fs
+v16 בִּקְנֵ֥ה|biq·nêh|-|H7070|Prep-b | N-msc
+v16 הַמִּדָּ֖ה|ham·mid·dāh|-|H4060|Art | N-fs
 v16 סָבִֽיב׃|sā·ḇîḇ|[long]|H5439|Adv
 v17 מָדַ֖ד|mā·ḏaḏ|He measured|H4058|V-Qal-Perf-3ms
 v17 ר֣וּחַ|rū·aḥ|side|H7307|N-csc
@@ -254,7 +254,7 @@ v18 מָדָ֑ד|mā·ḏāḏ|He measured|H4058|V-Qal-Perf-3ms
 v18 חֲמֵשׁ־|ḥă·mêš-|[to be] five|H2568|Number-fsc
 v18 מֵא֥וֹת|mê·’ō·wṯ|hundred|H3967|Number-fpc
 v18 קָנִ֖ים|qā·nîm|cubits|H7070|N-mp
-v18 בִּקְנֵ֥ה|biq·nêh||H7070|Prep-b | N-msc
+v18 בִּקְנֵ֥ה|biq·nêh|-|H7070|Prep-b | N-msc
 v18 הַמִּדָּֽה׃|ham·mid·dāh|[long]|H4060|Art | N-fs
 v19 סָבַ֖ב|sā·ḇaḇ|And he came around|H5437|V-Qal-Perf-3ms
 v19 אֶל־|’el-|-|H413|Prep
@@ -264,13 +264,13 @@ v19 מָדַ֛ד|mā·ḏaḏ|and measured|H4058|V-Qal-Perf-3ms
 v19 חֲמֵשׁ־|ḥă·mêš-|[to be] five|H2568|Number-fsc
 v19 מֵא֥וֹת|mê·’ō·wṯ|hundred|H3967|Number-fpc
 v19 קָנִ֖ים|qā·nîm|cubits|H7070|N-mp
-v19 בִּקְנֵ֥ה|biq·nêh||H7070|Prep-b | N-msc
+v19 בִּקְנֵ֥ה|biq·nêh|-|H7070|Prep-b | N-msc
 v19 הַמִּדָּֽה׃|ham·mid·dāh|[long]|H4060|Art | N-fs
 v20 לְאַרְבַּ֨ע|lə·’ar·ba‘|the area on all four|H702|Prep-l | Number-fsc
 v20 רוּח֜וֹת|rū·ḥō·wṯ|sides|H7307|N-cp
 v20 מְדָד֗וֹ|mə·ḏā·ḏōw|So he measured|H4058|V-Qal-Perf-3ms | 3ms
 v20 ח֤וֹמָה|ḥō·w·māh|It had a wall|H2346|N-fs
-v20 לוֹ֙|lōw||H0|Prep | 3ms
+v20 לוֹ֙|lōw|-|H0|Prep | 3ms
 v20 סָבִ֣יב׀|sā·ḇîḇ|all|H5439|Adv
 v20 סָבִ֔יב|sā·ḇîḇ|around|H5439|Adv
 v20 אֹ֚רֶךְ|’ō·reḵ|long|H753|N-ms

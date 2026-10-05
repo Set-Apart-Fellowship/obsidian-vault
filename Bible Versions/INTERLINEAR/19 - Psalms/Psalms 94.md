@@ -40,7 +40,7 @@ v7 וַ֭יֹּ֣אמְרוּ|way·yō·mə·rū|They say|H559|Conj-w | V-Qal-Co
 v7 לֹ֣א|lō|does not|H3808|Adv-NegPrt
 v7 יִרְאֶה־|yir·’eh-|see|H7200|V-Qal-Imperf-3ms
 v7 יָּ֑הּ|yāh|The LORD|H3050|N-proper-ms
-v7 וְלֹא־|wə·lō-|vvv|H3808|Conj-w | Adv-NegPrt
+v7 וְלֹא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v7 יָ֝בִ֗ין|yā·ḇîn|pays no heed|H995|V-Qal-Imperf-3ms
 v7 אֱלֹהֵ֥י|’ĕ·lō·hê|the God|H430|N-mpc
 v7 יַעֲקֹֽב׃|ya·‘ă·qōḇ|of Jacob|H3290|N-proper-ms
@@ -81,7 +81,7 @@ v12 יָּ֑הּ|yāh|O LORD|H3050|N-proper-ms
 v12 וּֽמִתּוֹרָתְךָ֥|ū·mit·tō·w·rā·ṯə·ḵā|from Your law|H8451|Conj-w, Prep-m | N-fsc | 2ms
 v12 תְלַמְּדֶֽנּוּ׃|ṯə·lam·mə·ḏen·nū|and teach|H3925|V-Piel-Imperf-2ms | 3ms
 v13 לְהַשְׁקִ֣יט|lə·haš·qîṭ|to grant him relief|H8252|Prep-l | V-Hifil-Inf
-v13 ל֭וֹ|lōw||H0|Prep | 3ms
+v13 ל֭וֹ|lōw|-|H0|Prep | 3ms
 v13 מִ֣ימֵי|mî·mê|from days|H3117|Prep-m | N-mpc
 v13 רָ֑ע|rā‘|of trouble|H7451|Adj-ms
 v13 עַ֤ד|‘aḏ|until|H5704|Prep
@@ -119,7 +119,7 @@ v16 אָֽוֶן׃|’ā·wen|of iniquity|H205|N-ms
 v17 לוּלֵ֣י|lū·lê|Unless|H3884|Conj
 v17 יְ֭הוָה|Yah·weh|the LORD|H3068|N-proper-ms
 v17 עֶזְרָ֣תָה|‘ez·rā·ṯāh|had been my helper|H5833|N-fs | 3fs
-v17 לִּ֑י|lî||H0|Prep | 1cs
+v17 לִּ֑י|lî|-|H0|Prep | 1cs
 v17 כִּמְעַ֓ט׀|kim·‘aṭ|would soon|H4592|Prep-k | Adj-ms
 v17 שָֽׁכְנָ֖ה|šā·ḵə·nāh|have dwelt in the abode|H7931|V-Qal-Perf-3fs
 v17 דוּמָ֣ה|ḏū·māh|of silence|H1745|N-fs
@@ -146,7 +146,7 @@ v20 עֲלֵי־|‘ă·lê-|by|H5921|Prep
 v20 חֹֽק׃|ḥōq|decree|H2706|N-ms
 v21 יָ֭גוֹדּוּ|yā·ḡō·w·dū|They band together|H1413|V-Qal-Imperf-3mp
 v21 עַל־|‘al-|against|H5921|Prep
-v21 נֶ֣פֶשׁ|ne·p̄eš|vvv|H5315|N-fs
+v21 נֶ֣פֶשׁ|ne·p̄eš|...|H5315|N-fs
 v21 צַדִּ֑יק|ṣad·dîq|the righteous|H6662|Adj-ms
 v21 וְדָ֖ם|wə·ḏām|to death|H1818|Conj-w | N-ms
 v21 נָקִ֣י|nā·qî|the innocent|H5355|Adj-ms

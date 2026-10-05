@@ -17,11 +17,11 @@ v1 בַּחֶ֣רֶב|ba·ḥe·reḇ|with the sword|H2719|Prep-b, Art | N-fs
 v1 אֶהֱרֹ֑ג|’e·hĕ·rōḡ|and I will kill|H2026|V-Qal-Imperf-1cs
 v1 לֹֽא־|lō-|None|H3808|Adv-NegPrt
 v1 יָנ֤וּס|yā·nūs|of those who flee|H5127|V-Qal-Imperf-3ms
-v1 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v1 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v1 נָ֔ס|nās|will get away|H5127|V-Qal-Prtcpl-ms
 v1 וְלֹֽא־|wə·lō-|none|H3808|Conj-w | Adv-NegPrt
 v1 יִמָּלֵ֥ט|yim·mā·lêṭ|will escape|H4422|V-Nifal-Imperf-3ms
-v1 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v1 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v1 פָּלִֽיט׃|pā·lîṭ|of the fugitives|H6412|N-ms
 v2 אִם־|’im-|Though|H518|Conj
 v2 יַחְתְּר֣וּ|yaḥ·tə·rū|they dig down|H2864|V-Qal-Imperf-3mp
@@ -77,7 +77,7 @@ v5 וַתָּמ֔וֹג|wat·tā·mō·wḡ|and it melts|H4127|Conj-w | V-Qal-Co
 v5 וְאָבְל֖וּ|wə·’ā·ḇə·lū|mourn|H56|Conj-w | V-Qal-ConjPerf-3cp
 v5 כָּל־|kāl-|and all|H3605|N-msc
 v5 י֣וֹשְׁבֵי|yō·wō·šə·ḇê|its dwellers|H3427|V-Qal-Prtcpl-mpc
-v5 בָ֑הּ|ḇāh||H0|Prep | 3fs
+v5 בָ֑הּ|ḇāh|-|H0|Prep | 3fs
 v5 וְעָלְתָ֤ה|wə·‘ā·lə·ṯāh|rises|H5927|Conj-w | V-Qal-ConjPerf-3fs
 v5 כַיְאֹר֙|ḵay·’ōr|like the Nile|H2975|Prep-k, Art | N-proper-fs
 v5 כֻּלָּ֔הּ|kul·lāh|all [the land]|H3605|N-msc | 3fs
@@ -101,7 +101,7 @@ v6 הָאָ֖רֶץ|hā·’ā·reṣ|of the earth|H776|Art | N-fs
 v6 יְהוָ֥ה|Yah·weh|The LORD|H3068|N-proper-ms
 v6 שְׁמֽוֹ׃|šə·mōw|is His name|H8034|N-msc | 3ms
 v7 הֲל֣וֹא|hă·lō·w|Are you not|H3808|Adv-NegPrt
-v7 כִבְנֵי֩|ḵiḇ·nê|vvv|H1121|Prep-k | N-mpc
+v7 כִבְנֵי֩|ḵiḇ·nê|...|H1121|Prep-k | N-mpc
 v7 כֻשִׁיִּ֨ים|ḵu·šî·yîm|like the Cushites|H3569|N-proper-mp
 v7 אַתֶּ֥ם|’at·tem|...|H859|Pro-2mp
 v7 לִ֛י|lî|to Me|H0|Prep | 1cs
@@ -130,7 +130,7 @@ v8 אֹתָ֔הּ|’ō·ṯāh|it|H853|DirObjM | 3fs
 v8 מֵעַ֖ל|mê·‘al|from|H5921|Prep-m
 v8 פְּנֵ֣י|pə·nê|the face|H6440|N-cpc
 v8 הָאֲדָמָ֑ה|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
-v8 אֶ֗פֶס|’e·p̄es||H657|Adv
+v8 אֶ֗פֶס|’e·p̄es|-|H657|Adv
 v8 כִּ֠י|kî|Yet|H3588|Conj
 v8 לֹ֣א|lō|I will not|H3808|Adv-NegPrt
 v8 הַשְׁמֵ֥יד|haš·mêḏ|utterly destroy|H8045|V-Hifil-InfAbs
@@ -197,7 +197,7 @@ v12 עֲלֵיהֶ֑ם|‘ă·lê·hem|...|H5921|Prep | 3mp
 v12 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v12 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v12 עֹ֥שֶׂה|‘ō·śeh|who will do|H6213|V-Qal-Prtcpl-ms
-v12 זֹּֽאת׃פ|zōṯ|this|H2063|Pro-fs
+v12 זֹּֽאת׃|zōṯ|this|H2063|Pro-fs
 v13 הִנֵּ֨ה|hin·nêh|Behold|H2009|Interjection
 v13 יָמִ֤ים|yā·mîm|the days|H3117|N-mp
 v13 בָּאִים֙|bā·’îm|are coming|H935|V-Qal-Prtcpl-mp

@@ -72,7 +72,7 @@ v7 נְאֻם־|nə·’um-|Thus declares|H5002|N-msc
 v7 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v7 וַאֲנִ֖י|wa·’ă·nî|even though I|H589|Conj-w | Pro-1cs
 v7 לֹ֥א|lō|have not|H3808|Adv-NegPrt
-v7 דִבַּֽרְתִּי׃ס|ḏib·bar·tî|spoken|H1696|V-Piel-Perf-1cs
+v7 דִבַּֽרְתִּי׃|ḏib·bar·tî|spoken|H1696|V-Piel-Perf-1cs
 v8 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v8 כֹּ֤ה|kōh|this is what|H3541|Adv
 v8 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -156,7 +156,7 @@ v12 אֲלֵיכֶ֔ם|’ă·lê·ḵem|...|H413|Prep | 2mp
 v12 אַיֵּ֥ה|’ay·yêh|Where|H346|Interrog
 v12 הַטִּ֖יחַ|haṭ·ṭî·aḥ|is the whitewash|H2915|Art | N-ms
 v12 אֲשֶׁ֥ר|’ă·šer|with which|H834|Pro-r
-v12 טַחְתֶּֽם׃ס|ṭaḥ·tem|you covered it|H2902|V-Qal-Perf-2mp
+v12 טַחְתֶּֽם׃|ṭaḥ·tem|you covered it|H2902|V-Qal-Perf-2mp
 v13 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v13 כֹּ֤ה|kōh|this is what|H3541|Adv
 v13 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -219,7 +219,7 @@ v16 וְאֵ֣ין|wə·’ên|when there was no|H369|Conj-w | Adv
 v16 שָׁלֹ֔ם|šā·lōm|peace|H7965|N-ms
 v16 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v16 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v16 יְהֹוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v16 יְהֹוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v17 וְאַתָּ֣ה|wə·’at·tāh|Now|H859|Conj-w | Pro-2ms
 v17 בֶן־|ḇen-|O son|H1121|N-msc
 v17 אָדָ֗ם|’ā·ḏām|of man|H120|N-ms
@@ -241,7 +241,7 @@ v18 הוֹי֩|hō·w|Woe|H1945|Interjection
 v18 לִֽמְתַפְּר֨וֹת|lim·ṯap·pə·rō·wṯ|to the women who sew|H8609|Prep-l | V-Piel-Prtcpl-fp
 v18 כְּסָת֜וֹת|kə·sā·ṯō·wṯ|magic charms|H3704|N-fp
 v18 עַ֣ל׀|‘al|on|H5921|Prep
-v18 כָּל־|kāl-|vvv|H3605|N-msc
+v18 כָּל־|kāl-|...|H3605|N-msc
 v18 אַצִּילֵ֣י|’aṣ·ṣî·lê|their wrists|H679|N-cpc
 v18 יָדַ֗י|yā·ḏay|...|H3027|N-fdc | 1cs
 v18 וְעֹשׂ֧וֹת|wə·‘ō·śō·wṯ|and make|H6213|Conj-w | V-Qal-Prtcpl-fp
@@ -279,7 +279,7 @@ v19 תִֽחְיֶ֑ינָה|ṯiḥ·ye·nāh|have lived|H2421|V-Qal-Imperf-3fp
 v19 בְּכַ֨זֶּבְכֶ֔ם|bə·ḵaz·zeḇ·ḵem|By lying|H3576|Prep-b | V-Piel-Inf | 2mp
 v19 לְעַמִּ֖י|lə·‘am·mî|to My people|H5971|Prep-l | N-msc | 1cs
 v19 שֹׁמְעֵ֥י|šō·mə·‘ê|who would listen|H8085|V-Qal-Prtcpl-mpc
-v19 כָזָֽב׃ס|ḵā·zāḇ|...|H3577|N-ms
+v19 כָזָֽב׃|ḵā·zāḇ|...|H3577|N-ms
 v20 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v20 כֹּה־|kōh-|this is what|H3541|Adv
 v20 אָמַ֣ר׀|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -330,7 +330,7 @@ v22 לֵב־|lêḇ-|...|H3820|N-ms
 v22 צַדִּיק֙|ṣad·dîq|the righteous|H6662|Adj-ms
 v22 שֶׁ֔קֶר|še·qer|with your lies|H8267|N-ms
 v22 וַאֲנִ֖י|wa·’ă·nî|even though I|H589|Conj-w | Pro-1cs
-v22 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v22 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v22 הִכְאַבְתִּ֑יו|hiḵ·’aḇ·tîw|have caused them no grief|H3510|V-Hifil-Perf-1cs | 3ms
 v22 וּלְחַזֵּק֙|ū·lə·ḥaz·zêq|and because you have encouraged|H2388|Conj-w, Prep-l | V-Piel-Inf
 v22 יְדֵ֣י|yə·ḏê|...|H3027|N-fdc

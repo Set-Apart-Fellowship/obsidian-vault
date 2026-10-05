@@ -60,18 +60,18 @@ v4 אֲלֵהֶ֔ם|’ă·lê·hem|...|H413|Prep | 3mp
 v4 לָ֛מָּה|lām·māh|Why|H4100|Interrog
 v4 שִׁלַּמְתֶּ֥ם|šil·lam·tem|have you repaid|H7999|V-Piel-Perf-2mp
 v4 רָעָ֖ה|rā·‘āh|with evil|H7451|Adj-fs
-v4 תַּ֥חַת|ta·ḥaṯ|vvv|H8478|Prep
+v4 תַּ֥חַת|ta·ḥaṯ|...|H8478|Prep
 v4 טוֹבָֽה׃|ṭō·w·ḇāh|good|H2896|N-fs
 v5 הֲל֣וֹא|hă·lō·w|Is this not [the cup]|H3808|Adv-NegPrt
 v5 זֶ֗ה|zeh|...|H2088|Pro-ms
 v5 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v5 יִשְׁתֶּ֤ה|yiš·teh|drinks from|H8354|V-Qal-Imperf-3ms
 v5 אֲדֹנִי֙|’ă·ḏō·nî|my master|H113|N-msc | 1cs
-v5 בּ֔וֹ|bōw||H0|Prep | 3ms
+v5 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v5 וְה֕וּא|wə·hū|-|H1931|Conj-w | Pro-3ms
 v5 נַחֵ֥שׁ|na·ḥêš|and uses for divination|H5172|V-Piel-InfAbs
 v5 יְנַחֵ֖שׁ|yə·na·ḥêš|...|H5172|V-Piel-Imperf-3ms
-v5 בּ֑וֹ|bōw||H0|Prep | 3ms
+v5 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v5 הֲרֵעֹתֶ֖ם|hă·rê·‘ō·ṯem|is wicked|H7489|V-Hifil-Perf-2mp
 v5 אֲשֶׁ֥ר|’ă·šer|What|H834|Pro-r
 v5 עֲשִׂיתֶֽם׃|‘ă·śî·ṯem|you have done|H6213|V-Qal-Perf-2mp
@@ -93,7 +93,7 @@ v7 לַעֲבָדֶ֔יךָ|la·‘ă·ḇā·ḏe·ḵā|Your servants|H5650|P
 v7 מֵעֲשׂ֖וֹת|mê·‘ă·śō·wṯ|do|H6213|Prep-m | V-Qal-Inf
 v7 כַּדָּבָ֥ר|kad·dā·ḇār|a thing|H1697|Prep-k, Art | N-ms
 v7 הַזֶּֽה׃|haz·zeh|such|H2088|Art | Pro-ms
-v8 הֵ֣ן|hên|vvv|H2005|Interjection
+v8 הֵ֣ן|hên|...|H2005|Interjection
 v8 כֶּ֗סֶף|ke·sep̄|the silver|H3701|N-ms
 v8 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v8 מָצָ֙אנוּ֙|mā·ṣā·nū|we found|H4672|V-Qal-Perf-1cp
@@ -121,8 +121,8 @@ v9 נִֽהְיֶ֥ה|nih·yeh|will become|H1961|V-Qal-Imperf-1cp
 v9 לַֽאדֹנִ֖י|la·ḏō·nî|of my lord|H113|Prep-l | N-msc | 1cs
 v9 לַעֲבָדִֽים׃|la·‘ă·ḇā·ḏîm|slaves|H5650|Prep-l | N-mp
 v10 וַיֹּ֕אמֶר|way·yō·mer|replied the steward|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v10 גַּם־|gam-|vvv|H1571|Conj
-v10 עַתָּ֥ה|‘at·tāh|vvv|H6258|Adv
+v10 גַּם־|gam-|...|H1571|Conj
+v10 עַתָּ֥ה|‘at·tāh|...|H6258|Adv
 v10 כְדִבְרֵיכֶ֖ם|ḵə·ḏiḇ·rê·ḵem|As you say|H1697|Prep-k | N-mpc | 2mp
 v10 כֶּן־|ken-|...|H3651|Adv
 v10 ה֑וּא|hū|But only the one|H1931|Pro-3ms
@@ -173,7 +173,7 @@ v14 וַיִּפְּל֥וּ|way·yip·pə·lū|and they fell|H5307|Conj-w | V-Q
 v14 לְפָנָ֖יו|lə·p̄ā·nāw|before him|H6440|Prep-l | N-cpc | 3ms
 v14 אָֽרְצָה׃|’ā·rə·ṣāh|to the ground|H776|N-fs | 3fs
 v15 וַיֹּ֤אמֶר|way·yō·mer|declared|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v15 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v15 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v15 יוֹסֵ֔ף|yō·w·sêp̄|Joseph|H3130|N-proper-ms
 v15 מָֽה־|māh-|What|H4100|Interrog
 v15 הַמַּעֲשֶׂ֥ה|ham·ma·‘ă·śeh|deed|H4639|Art | N-ms
@@ -230,7 +230,7 @@ v17 וְאַתֶּ֕ם|wə·’at·tem|The rest of you|H859|Conj-w | Pro-2mp
 v17 עֲל֥וּ|‘ă·lū|may return|H5927|V-Qal-Imp-mp
 v17 לְשָׁל֖וֹם|lə·šā·lō·wm|in peace|H7965|Prep-l | N-ms
 v17 אֶל־|’el-|to|H413|Prep
-v17 אֲבִיכֶֽם׃פ|’ă·ḇî·ḵem|your father|H1|N-msc | 2mp
+v17 אֲבִיכֶֽם׃|’ă·ḇî·ḵem|your father|H1|N-msc | 2mp
 v18 וַיִּגַּ֨שׁ|way·yig·gaš|approached|H5066|Conj-w | V-Qal-ConsecImperf-3ms
 v18 אֵלָ֜יו|’ê·lāw|[Joseph]|H413|Prep | 3ms
 v18 יְהוּדָ֗ה|yə·hū·ḏāh|Then Judah|H3063|N-proper-ms
@@ -302,7 +302,7 @@ v22 וָמֵֽת׃|wā·mêṯ|would die|H4191|Conj-w | V-Qal-ConjPerf-3ms
 v23 וַתֹּ֙אמֶר֙|wat·tō·mer|But you said|H559|Conj-w | V-Qal-ConsecImperf-2ms
 v23 אֶל־|’el-|to|H413|Prep
 v23 עֲבָדֶ֔יךָ|‘ă·ḇā·ḏe·ḵā|your servants|H5650|N-mpc | 2ms
-v23 אִם־|’im-|vvv|H518|Conj
+v23 אִם־|’im-|...|H518|Conj
 v23 לֹ֥א|lō|Unless|H3808|Adv-NegPrt
 v23 יֵרֵ֛ד|yê·rêḏ|comes down|H3381|V-Qal-Imperf-3ms
 v23 אֲחִיכֶ֥ם|’ă·ḥî·ḵem|brother|H251|N-msc | 2mp

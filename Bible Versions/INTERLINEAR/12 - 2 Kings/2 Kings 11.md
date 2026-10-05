@@ -49,7 +49,7 @@ v3 שָׁנִ֑ים|šā·nîm|years|H8141|N-fp
 v3 וַעֲתַלְיָ֖ה|wa·‘ă·ṯal·yāh|while Athaliah|H6271|Conj-w | N-proper-fs
 v3 מֹלֶ֥כֶת|mō·le·ḵeṯ|ruled|H4427|V-Qal-Prtcpl-fs
 v3 עַל־|‘al-|...|H5921|Prep
-v3 הָאָֽרֶץ׃פ|hā·’ā·reṣ|the land|H776|Art | N-fs
+v3 הָאָֽרֶץ׃|hā·’ā·reṣ|the land|H776|Art | N-fs
 v4 וּבַשָּׁנָ֣ה|ū·ḇaš·šā·nāh|year|H8141|Conj-w, Prep-b, Art | N-fs
 v4 הַ֠שְּׁבִיעִית|haš·šə·ḇî·‘îṯ|Then in the seventh|H7637|Art | Number-ofs
 v4 שָׁלַ֨ח|šā·laḥ|sent for|H7971|V-Qal-Perf-3ms
@@ -105,7 +105,7 @@ v6 הַבַּ֖יִת|hab·ba·yiṯ|the temple|H1004|Art | N-ms
 v6 מַסָּֽח׃|mas·sāḥ|You are to take turns|H4535|Adv
 v7 וּשְׁתֵּ֤י|ū·šə·tê|the two|H8147|Conj-w | Number-fdc
 v7 הַיָּדוֹת֙|hay·yā·ḏō·wṯ|divisions|H3027|Art | N-fp
-v7 בָּכֶ֔ם|bā·ḵem||H0|Prep | 2mp
+v7 בָּכֶ֔ם|bā·ḵem|-|H0|Prep | 2mp
 v7 כֹּ֖ל|kōl|-|H3605|N-msc
 v7 יֹצְאֵ֣י|yō·ṣə·’ê|that would go off duty|H3318|V-Qal-Prtcpl-mpc
 v7 הַשַּׁבָּ֑ת|haš·šab·bāṯ|on the Sabbath|H7676|Art | N-cs
@@ -181,7 +181,7 @@ v11 הַבַּ֙יִת֙|hab·ba·yiṯ|of the temple|H1004|Art | N-ms
 v11 הַשְּׂמָאלִ֔ית|haś·śə·mā·lîṯ|the north|H8042|Art | Adj-fs
 v11 לַמִּזְבֵּ֖חַ|lam·miz·bê·aḥ|by the altar|H4196|Prep-l, Art | N-ms
 v11 וְלַבָּ֑יִת|wə·lab·bā·yiṯ|and the temple|H1004|Conj-w, Prep-l, Art | N-ms
-v11 עַל־|‘al-|vvv|H5921|Prep
+v11 עַל־|‘al-|...|H5921|Prep
 v11 הַמֶּ֖לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v11 סָבִֽיב׃|sā·ḇîḇ|surrounding|H5439|Adv
 v12 וַיּוֹצִ֣א|way·yō·w·ṣi|Then [Jehoiada] brought out|H3318|Conj-w | V-Hifil-ConsecImperf-3ms
@@ -201,7 +201,7 @@ v12 וַיַּכּוּ־|way·yak·kū-|and [the people] clapped|H5221|Conj-w | 
 v12 כָ֔ף|ḵāp̄|their hands|H3709|N-fs
 v12 וַיֹּאמְר֖וּ|way·yō·mə·rū|and declared|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v12 יְחִ֥י|yə·ḥî|Long live|H2421|V-Qal-Imperf.Jus-3ms
-v12 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|the king|H4428|Art | N-ms
+v12 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v13 וַתִּשְׁמַ֣ע|wat·tiš·ma‘|heard|H8085|Conj-w | V-Qal-ConsecImperf-3fs
 v13 עֲתַלְיָ֔ה|‘ă·ṯal·yāh|When Athaliah|H6271|N-proper-fs
 v13 אֶת־|’eṯ-|-|H853|DirObjM
@@ -236,7 +236,7 @@ v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 בְּגָדֶ֔יהָ|bə·ḡā·ḏe·hā|her clothes|H899|N-mpc | 3fs
 v14 וַתִּקְרָ֖א|wat·tiq·rā|and screamed|H7121|Conj-w | V-Qal-ConsecImperf-3fs
 v14 קֶ֥שֶׁר|qe·šer|Treason|H7195|N-ms
-v14 קָֽשֶׁר׃ס|qā·šer|Treason|H7195|N-ms
+v14 קָֽשֶׁר׃|qā·šer|Treason|H7195|N-ms
 v15 וַיְצַו֩|way·ṣaw|ordered|H6680|Conj-w | V-Piel-ConsecImperf-3ms
 v15 יְהוֹיָדָ֨ע|yə·hō·w·yā·ḏā‘|And Jehoiada|H3077|N-proper-ms
 v15 הַכֹּהֵ֜ן|hak·kō·hên|the priest|H3548|Art | N-ms
@@ -245,8 +245,8 @@ v15 שָׂרֵ֥י|śā·rê|the commanders|H8269|N-mpc
 v15 הַמֵּיאוֹת|ham·mē·ʾōṯ|of hundreds|H3967|Art | Number-fp
 v15 פְּקֻדֵ֣י|pə·qu·ḏê|in charge of|H6485|V-Qal-QalPassPrtcpl-mpc
 v15 הַחַ֗יִל|ha·ḥa·yil|the army|H2428|Art | N-ms
-v15 וַיֹּ֤אמֶר|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
-v15 אֲלֵיהֶם֙|’ă·lê·hem||H413|Prep | 3mp
+v15 וַיֹּ֤אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
+v15 אֲלֵיהֶם֙|’ă·lê·hem|-|H413|Prep | 3mp
 v15 הוֹצִ֤יאוּ|hō·w·ṣî·’ū|Bring her out|H3318|V-Hifil-Imp-mp
 v15 אֹתָהּ֙|’ō·ṯāh|-|H853|DirObjM | 3fs
 v15 אֶל־|’el-|-|H413|Prep
@@ -264,7 +264,7 @@ v15 תּוּמַ֖ת|tū·maṯ|be put to death|H4191|V-Hofal-Imperf-3fs
 v15 בֵּ֥ית|bêṯ|in the house|H1004|N-msc
 v15 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v16 וַיָּשִׂ֤מוּ|way·yā·śi·mū|So they seized|H7760|Conj-w | V-Qal-ConsecImperf-3mp
-v16 לָהּ֙|lāh|vvv|H0|Prep | 3fs
+v16 לָהּ֙|lāh|...|H0|Prep | 3fs
 v16 יָדַ֔יִם|yā·ḏa·yim|[Athaliah]|H3027|N-fd
 v16 וַתָּב֛וֹא|wat·tā·ḇō·w|as she reached|H935|Conj-w | V-Qal-ConsecImperf-3fs
 v16 דֶּֽרֶךְ־|de·reḵ-|...|H1870|N-csc
@@ -273,7 +273,7 @@ v16 הַסּוּסִ֖ים|has·sū·sîm|the horses'|H5483|Art | N-mp
 v16 בֵּ֣ית|bêṯ|...|H1004|N-msc
 v16 הַמֶּ֑לֶךְ|ham·me·leḵ|to the palace grounds|H4428|Art | N-ms
 v16 וַתּוּמַ֖ת|wat·tū·maṯ|she was put to death|H4191|Conj-w | V-Hofal-ConsecImperf-3fs
-v16 שָֽׁם׃ס|šām|and there|H8033|Adv
+v16 שָֽׁם׃|šām|and there|H8033|Adv
 v17 וַיִּכְרֹ֨ת|way·yiḵ·rōṯ|made|H3772|Conj-w | V-Qal-ConsecImperf-3ms
 v17 יְהוֹיָדָ֜ע|yə·hō·w·yā·ḏā‘|Then Jehoiada|H3077|N-proper-ms
 v17 אֶֽת־|’eṯ-|-|H853|DirObjM
@@ -355,9 +355,9 @@ v20 עֲתַלְיָ֛הוּ|‘ă·ṯal·yā·hū|because Athaliah|H6271|N-pr
 v20 הֵמִ֥יתוּ|hê·mî·ṯū|had been put to|H4191|V-Hifil-Perf-3cp
 v20 בַחֶ֖רֶב|ḇa·ḥe·reḇ|the sword|H2719|Prep-b, Art | N-fs
 v20 בֵּ֥ית|bêṯ|palace|H1004|N-msc
-v20 מֶלֶךְ׃ס|mɛ·lɛḵ|at the royal|H4428|Art | N-ms
+v20 מֶלֶךְ׃|mɛ·lɛḵ|at the royal|H4428|Art | N-ms
 v21 בֶּן־|ben-|years old|H1121|N-msc
 v21 שֶׁ֥בַע|še·ḇa‘|[was] seven|H7651|Number-fs
 v21 שָׁנִ֖ים|šā·nîm|...|H8141|N-fp
 v21 יְהוֹאָ֥שׁ|yə·hō·w·’āš|Joash|H3060|N-proper-ms
-v21 בְּמָלְכֽוֹ׃פ|bə·mā·lə·ḵōw|when he became king|H4427|Prep-b | V-Qal-Inf | 3ms
+v21 בְּמָלְכֽוֹ׃|bə·mā·lə·ḵōw|when he became king|H4427|Prep-b | V-Qal-Inf | 3ms

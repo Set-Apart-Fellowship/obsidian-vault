@@ -184,7 +184,7 @@ v17 יַחְשֹׁ֔בוּ|yaḥ·šō·ḇū|regard|H2803|V-Qal-Imperf-3mp
 v17 וְזָהָ֖ב|wə·zā·hāḇ|for gold|H2091|Conj-w | N-ms
 v17 לֹ֥א|lō|and no|H3808|Adv-NegPrt
 v17 יַחְפְּצוּ־|yaḥ·pə·ṣū-|desire|H2654|V-Qal-Imperf-3mp
-v17 בֽוֹ׃|ḇōw||H0|Prep | 3ms
+v17 בֽוֹ׃|ḇōw|-|H0|Prep | 3ms
 v18 וּקְשָׁת֖וֹת|ū·qə·šā·ṯō·wṯ|Their bows|H7198|Conj-w | N-fp
 v18 נְעָרִ֣ים|nə·‘ā·rîm|{will dash} young men|H5288|N-mp
 v18 תְּרַטַּ֑שְׁנָה|tə·raṭ·ṭaš·nāh|to pieces|H7376|V-Piel-Imperf-3fp
@@ -234,7 +234,7 @@ v21 בָתֵּיהֶ֖ם|ḇāt·tê·hem|her houses|H1004|N-mpc | 3mp
 v21 אֹחִ֑ים|’ō·ḥîm|and howling creatures|H255|N-mp
 v21 וְשָׁ֤כְנוּ|wə·šā·ḵə·nū|will dwell|H7931|Conj-w | V-Qal-ConjPerf-3cp
 v21 שָׁם֙|šām|there|H8033|Adv
-v21 בְּנ֣וֹת|bə·nō·wṯ|vvv|H1323|N-fpc
+v21 בְּנ֣וֹת|bə·nō·wṯ|...|H1323|N-fpc
 v21 יַֽעֲנָ֔ה|ya·‘ă·nāh|Ostriches|H3284|N-fs
 v21 וּשְׂעִירִ֖ים|ū·śə·‘î·rîm|and wild goats|H8163|Conj-w | N-mp
 v21 יְרַקְּדוּ־|yə·raq·qə·ḏū-|will leap about|H7540|V-Piel-Imperf-3mp

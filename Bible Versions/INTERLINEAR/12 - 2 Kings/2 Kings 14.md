@@ -85,8 +85,8 @@ v6 לֹא־|lō-|must not|H3808|Adv-NegPrt
 v6 יוּמְת֣וּ|yū·mə·ṯū|be put to death|H4191|V-Hofal-Imperf-3mp
 v6 עַל־|‘al-|for|H5921|Prep
 v6 אָב֔וֹת|’ā·ḇō·wṯ|their fathers|H1|N-mp
-v6 כִּ֛י|kî||H3588|Conj
-v6 אִם־|’im-||H518|Conj
+v6 כִּ֛י|kî|-|H3588|Conj
+v6 אִם־|’im-|-|H518|Conj
 v6 אִ֥ישׁ|’îš|each|H376|N-ms
 v6 בְּחֶטְא֖וֹ|bə·ḥeṭ·’ōw|for his own sin|H2399|Prep-b | N-msc | 3ms
 v6 יָמוּת׃|yå̄·mūṯ|is to die|H4191|V-Hofal-Imperf-3ms
@@ -96,7 +96,7 @@ v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 אֱד֤וֹם|’ĕ·ḏō·wm|Edomites|H123|N-proper-ms
 v7 בְּגֵיא־|bə·ḡê-|in the Valley|H1516|Prep-b | N-proper-fs
 v7 הַמֶּלַח|ham·mɛ·laḥ|of Salt|H4417|N-proper-fs
-v7 עֲשֶׂ֣רֶת|‘ă·śe·reṯ|10,000 {}|H6235|Number-msc
+v7 עֲשֶׂ֣רֶת|‘ă·śe·reṯ|10,000|H6235|Number-msc
 v7 אֲלָפִ֔ים|’ă·lā·p̄îm|...|H505|Number-mp
 v7 וְתָפַ֥שׂ|wə·ṯā·p̄aś|He took|H8610|Conj-w | V-Qal-ConjPerf-3ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
@@ -108,7 +108,7 @@ v7 שְׁמָהּ֙|šə·māh|[which is] its name|H8034|N-msc | 3fs
 v7 יָקְתְאֵ֔ל|yā·qə·ṯə·’êl|it Joktheel|H3371|N-proper-fs
 v7 עַ֖ד|‘aḏ|to|H5704|Prep
 v7 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v7 הַזֶּֽה׃פ|haz·zeh|this very|H2088|Art | Pro-ms
+v7 הַזֶּֽה׃|haz·zeh|this very|H2088|Art | Pro-ms
 v8 אָ֣ז|’āz|Then|H227|Adv
 v8 שָׁלַ֤ח|šā·laḥ|sent|H7971|V-Qal-Perf-3ms
 v8 אֲמַצְיָה֙|’ă·maṣ·yāh|Amaziah|H558|N-proper-ms
@@ -185,7 +185,7 @@ v11 ה֖וּא|hū|He|H1931|Pro-3ms
 v11 וַאֲמַצְיָ֣הוּ|wa·’ă·maṣ·yā·hū|Amaziah|H558|Conj-w | N-proper-ms
 v11 מֶֽלֶךְ־|me·leḵ-|and King|H4428|N-msc
 v11 יְהוּדָ֑ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
-v11 בְּבֵ֥ית|bə·ḇêṯ|vvv|H1053|Prep
+v11 בְּבֵ֥ית|bə·ḇêṯ|...|H1053|Prep
 v11 שֶׁ֖מֶשׁ|še·meš|at Beth-shemesh|H1053|Prep | N-proper-fs
 v11 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v11 לִיהוּדָֽה׃|lî·hū·ḏāh|in Judah|H3063|Prep-l | N-proper-ms
@@ -208,7 +208,7 @@ v13 תָּפַ֛שׂ|tā·p̄aś|captured|H8610|V-Qal-Perf-3ms
 v13 יְהוֹאָ֥שׁ|yə·hō·w·’āš|of Joash|H3060|N-proper-ms
 v13 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v13 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v13 בְּבֵ֣ית|bə·ḇêṯ|vvv|H1053|Prep
+v13 בְּבֵ֣ית|bə·ḇêṯ|...|H1053|Prep
 v13 שָׁ֑מֶשׁ|šā·meš|There at Beth-shemesh|H1053|Prep | N-proper-fs
 v13 וַיָּבֹאוּ|way·yå̄·ḇō·ʾū|Then Jehoash went|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v13 יְר֣וּשָׁלִַ֔ם|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
@@ -275,7 +275,7 @@ v16 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v16 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v16 יָרָבְעָ֥ם|yā·rā·ḇə·‘ām|Jeroboam|H3379|N-proper-ms
 v16 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v16 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v16 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v17 וַיְחִ֨י|way·ḥî|lived|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v17 אֲמַצְיָ֤הוּ|’ă·maṣ·yā·hū|Amaziah|H558|N-proper-ms
 v17 בֶן־|ḇen-|son|H1121|N-msc
@@ -351,11 +351,11 @@ v22 אַחֲרֵ֥י|’a·ḥă·rê|after|H310|Prep
 v22 שְׁכַֽב־|šə·ḵaḇ-|rested|H7901|V-Qal-Inf
 v22 הַמֶּ֖לֶךְ|ham·me·leḵ|King [Amaziah]|H4428|Art | N-ms
 v22 עִם־|‘im-|with|H5973|Prep
-v22 אֲבֹתָֽיו׃פ|’ă·ḇō·ṯāw|his fathers|H1|N-mpc | 3ms
+v22 אֲבֹתָֽיו׃|’ă·ḇō·ṯāw|his fathers|H1|N-mpc | 3ms
 v23 בִּשְׁנַת֙|biš·naṯ|year|H8141|Prep-b | N-fsc
 v23 חֲמֵשׁ־|ḥă·mêš-|In the fifteenth|H2568|Number-fsc
 v23 עֶשְׂרֵ֣ה|‘eś·rêh|...|H6240|Number-fs
-v23 שָׁנָ֔ה|šā·nāh||H8141|N-fs
+v23 שָׁנָ֔ה|šā·nāh|-|H8141|N-fs
 v23 לַאֲמַצְיָ֥הוּ|la·’ă·maṣ·yā·hū|of Amaziah|H558|Prep-l | N-proper-ms
 v23 בֶן־|ḇen-|son|H1121|N-msc
 v23 יוֹאָ֖שׁ|yō·w·’āš|of Joash|H3101|N-proper-ms
@@ -391,7 +391,7 @@ v25 הֵשִׁיב֙|hê·šîḇ|restored|H7725|V-Hifil-Perf-3ms
 v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 גְּב֣וּל|gə·ḇūl|the boundary|H1366|N-msc
 v25 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v25 מִלְּב֥וֹא|mil·lə·ḇō·w|vvv|H935|Prep-m | V-Qal-Inf
+v25 מִלְּב֥וֹא|mil·lə·ḇō·w|...|H935|Prep-m | V-Qal-Inf
 v25 חֲמָ֖ת|ḥă·māṯ|from Lebo-hamath|H2574|N-proper-fs
 v25 עַד־|‘aḏ-|to|H5704|Prep
 v25 יָ֣ם|yām|the Sea|H3220|N-msc
@@ -409,7 +409,7 @@ v25 בֶן־|ḇen-|son|H1121|N-msc
 v25 אֲמִתַּי֙|’ă·mit·tay|of Amittai|H573|N-proper-ms
 v25 הַנָּבִ֔יא|han·nā·ḇî|the prophet|H5030|Art | N-ms
 v25 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
-v25 מִגַּ֥ת|mig·gaṯ|vvv|H1662|Prep
+v25 מִגַּ֥ת|mig·gaṯ|...|H1662|Prep
 v25 הַחֵֽפֶר׃|ha·ḥê·p̄er|from Gath-hepher|H1662|Prep | N-proper-fs
 v26 כִּי־|kî-|For|H3588|Conj
 v26 רָאָ֧ה|rā·’āh|saw|H7200|V-Qal-Perf-3ms
@@ -426,7 +426,7 @@ v26 עָז֔וּב|‘ā·zūḇ|free|H5800|V-Qal-QalPassPrtcpl-ms
 v26 וְאֵ֥ין|wə·’ên|There was no|H369|Conj-w | Adv
 v26 עֹזֵ֖ר|‘ō·zêr|one to help|H5826|V-Qal-Prtcpl-ms
 v26 לְיִשְׂרָאֵֽל׃|lə·yiś·rā·’êl|Israel|H3478|Prep-l | N-proper-ms
-v27 וְלֹא־|wə·lō-|vvv|H3808|Conj-w | Adv-NegPrt
+v27 וְלֹא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v27 דִבֶּ֣ר|ḏib·ber|had said|H1696|V-Piel-Perf-3ms
 v27 יְהוָ֔ה|Yah·weh|and since the LORD|H3068|N-proper-ms
 v27 לִמְחוֹת֙|lim·ḥō·wṯ|that He would not blot out|H4229|Prep-l | V-Qal-Inf
@@ -476,4 +476,4 @@ v29 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v29 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v29 זְכַרְיָ֥ה|zə·ḵar·yāh|Zechariah|H2148|N-proper-ms
 v29 בְנ֖וֹ|ḇə·nōw|And his son|H1121|N-msc | 3ms
-v29 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v29 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

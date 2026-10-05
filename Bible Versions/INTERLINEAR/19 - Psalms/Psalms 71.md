@@ -189,7 +189,7 @@ v23 לָּ֑ךְ|lāḵ|to You|H0|Prep | 2fs
 v23 וְ֝נַפְשִׁ֗י|wə·nap̄·šî|along with my soul|H5315|Conj-w | N-fsc | 1cs
 v23 אֲשֶׁ֣ר|’ă·šer|which|H834|Pro-r
 v23 פָּדִֽיתָ׃|pā·ḏî·ṯā|You have redeemed|H6299|V-Qal-Perf-2ms
-v24 גַּם־|gam-||H1571|Conj
+v24 גַּם־|gam-|-|H1571|Conj
 v24 לְשׁוֹנִ֗י|lə·šō·w·nî|My tongue|H3956|N-csc | 1cs
 v24 כָּל־|kāl-|all day long|H3605|N-msc
 v24 הַ֭יּוֹם|hay·yō·wm|...|H3117|Art | N-ms

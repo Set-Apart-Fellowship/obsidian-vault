@@ -106,7 +106,7 @@ v9 ἐλάχιστος|elachistos|least|G1646|Adj-NMS-S
 v9 τῶν|tōn|of the|G3588|Art-GMP
 v9 ἀποστόλων|apostolōn|apostles|G652|N-GMP
 v9 ὃς|hos|[and]|G3739|RelPro-NMS
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 εἰμὶ|eimi|am|G1510|V-PIA-1S
 v9 ἱκανὸς|hikanos|unworthy|G2425|Adj-NMS
 v9 καλεῖσθαι|kaleisthai|to be called|G2564|V-PNM/P
@@ -130,13 +130,13 @@ v10 αὐτοῦ|autou|His|G846|PPro-GM3S
 v10 ἡ|hē|-|G3588|Art-NFS
 v10 εἰς|eis|to|G1519|Prep
 v10 ἐμὲ|eme|me|G1473|PPro-A1S
-v10 οὐ|ou|vvv|G3756|Adv
+v10 οὐ|ou|...|G3756|Adv
 v10 κενὴ|kenē|in vain|G2756|Adj-NFS
 v10 ἐγενήθη|egenēthē|was not|G1096|V-AIP-3S
 v10 ἀλλὰ|alla|No|G235|Conj
 v10 περισσότερον|perissoteron|harder|G4053|Adj-ANS-C
 v10 αὐτῶν|autōn|than all of them|G846|PPro-GM3P
-v10 πάντων|pantōn|vvv|G3956|Adj-GMP
+v10 πάντων|pantōn|...|G3956|Adj-GMP
 v10 ἐκοπίασα|ekopiasa|I worked|G2872|V-AIA-1S
 v10 οὐκ|ouk|not|G3756|Adv
 v10 ἐγὼ|egō|I|G1473|PPro-N1S
@@ -189,7 +189,7 @@ v13 ἐγήγερται|egēgertai|has been raised|G1453|V-RIM/P-3S
 v14 εἰ|ei|if|G1487|Conj
 v14 δὲ|de|And|G1161|Conj
 v14 Χριστὸς|Christos|Christ|G5547|N-NMS
-v14 οὐκ|ouk|vvv|G3756|Adv
+v14 οὐκ|ouk|...|G3756|Adv
 v14 ἐγήγερται|egēgertai|has not been raised|G1453|V-RIM/P-3S
 v14 κενὸν|kenon|[is] worthless|G2756|Adj-NNS
 v14 ἄρα|ara|-|G686|Conj
@@ -204,7 +204,7 @@ v14 πίστις|pistis|faith|G4102|N-NFS
 v14 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v15 εὑρισκόμεθα|heuriskometha|we are also exposed as|G2147|V-PIM/P-1P
 v15 δὲ|de|In that case|G1161|Conj
-v15 καὶ|kai|vvv|G2532|Conj
+v15 καὶ|kai|...|G2532|Conj
 v15 ψευδομάρτυρες|pseudomartyres|false witnesses|G5575|N-NMP
 v15 τοῦ|tou|-|G3588|Art-GMS
 v15 Θεοῦ|Theou|about God|G2316|N-GMS
@@ -218,17 +218,17 @@ v15 ἤγειρεν|ēgeiren|He raised|G1453|V-AIA-3S
 v15 τὸν|ton|-|G3588|Art-AMS
 v15 Χριστόν|Christon|Christ {from the dead}|G5547|N-AMS
 v15 ὃν|hon|[Him]|G3739|RelPro-AMS
-v15 οὐκ|ouk|vvv|G3756|Adv
+v15 οὐκ|ouk|...|G3756|Adv
 v15 ἤγειρεν|ēgeiren|[but] He did not raise|G1453|V-AIA-3S
 v15 εἴπερ|eiper|if|G1512|Conj
 v15 ἄρα|ara|in fact|G686|Conj
 v15 νεκροὶ|nekroi|[the] dead|G3498|Adj-NMP
-v15 οὐκ|ouk|vvv|G3756|Adv
+v15 οὐκ|ouk|...|G3756|Adv
 v15 ἐγείρονται|egeirontai|are not raised|G1453|V-PIM/P-3P
 v16 Εἰ|Ei|if|G1487|Conj
 v16 γὰρ|gar|For|G1063|Conj
 v16 νεκροὶ|nekroi|[the] dead|G3498|Adj-NMP
-v16 οὐκ|ouk|vvv|G3756|Adv
+v16 οὐκ|ouk|...|G3756|Adv
 v16 ἐγείρονται|egeirontai|are not raised|G1453|V-PIM/P-3P
 v16 οὐδὲ|oude|then not even|G3761|Adv
 v16 Χριστὸς|Christos|Christ|G5547|N-NMS
@@ -236,7 +236,7 @@ v16 ἐγήγερται|egēgertai|has been raised|G1453|V-RIM/P-3S
 v17 εἰ|ei|if|G1487|Conj
 v17 δὲ|de|And|G1161|Conj
 v17 Χριστὸς|Christos|Christ|G5547|N-NMS
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 ἐγήγερται|egēgertai|has not been raised|G1453|V-RIM/P-3S
 v17 ματαία|mataia|futile|G3152|Adj-NFS
 v17 ἡ|hē|-|G3588|Art-NFS
@@ -415,7 +415,7 @@ v29 νεκρῶν|nekrōn|dead|G3498|Adj-GMP
 v29 εἰ|ei|If|G1487|Conj
 v29 ὅλως|holōs|at all|G3654|Adv
 v29 νεκροὶ|nekroi|[the] dead|G3498|Adj-NMP
-v29 οὐκ|ouk|vvv|G3756|Adv
+v29 οὐκ|ouk|...|G3756|Adv
 v29 ἐγείρονται|egeirontai|are not raised|G1453|V-PIM/P-3P
 v29 τί|ti|why|G5101|IPro-ANS
 v29 καὶ|kai|-|G2532|Conj
@@ -437,7 +437,7 @@ v31 ὑμετέραν|hymeteran|about you|G5212|PPro-AF2P
 v31 καύχησιν|kauchēsin|I boast|G2746|N-AFS
 v31 ἀδελφοί|adelphoi|brothers|G80|N-VMP
 v31 ἣν|hēn|-|G3739|RelPro-AFS
-v31 ἔχω|echō|vvv|G2192|V-PIA-1S
+v31 ἔχω|echō|...|G2192|V-PIA-1S
 v31 ἐν|en|in|G1722|Prep
 v31 Χριστῷ|Christō|Christ|G5547|N-DMS
 v31 Ἰησοῦ|Iēsou|Jesus|G2424|N-DMS
@@ -456,7 +456,7 @@ v32 τὸ|to|-|G3588|Art-NNS
 v32 ὄφελος|ophelos|did I gain|G3786|N-NNS
 v32 εἰ|ei|If|G1487|Conj
 v32 νεκροὶ|nekroi|[the] dead|G3498|Adj-NMP
-v32 οὐκ|ouk|vvv|G3756|Adv
+v32 οὐκ|ouk|...|G3756|Adv
 v32 ἐγείρονται|egeirontai|are not raised|G1453|V-PIM/P-3P
 v32 Φάγωμεν|Phagōmen|Let us eat|G5315|V-ASA-1P
 v32 καὶ|kai|and|G2532|Conj
@@ -474,13 +474,13 @@ v33 κακαί|kakai|Bad|G2556|Adj-NFP
 v34 ἐκνήψατε|eknēpsate|Sober up|G1594|V-AMA-2P
 v34 δικαίως|dikaiōs|as you ought|G1346|Adv
 v34 καὶ|kai|and|G2532|Conj
-v34 μὴ|mē|vvv|G3361|Adv
+v34 μὴ|mē|...|G3361|Adv
 v34 ἁμαρτάνετε|hamartanete|stop sinning|G264|V-PMA-2P
 v34 ἀγνωσίαν|agnōsian|are ignorant|G56|N-AFS
 v34 γὰρ|gar|for|G1063|Conj
 v34 Θεοῦ|Theou|of God|G2316|N-GMS
 v34 τινες|tines|some [ of you ]|G5100|IPro-NMP
-v34 ἔχουσιν|echousin|vvv|G2192|V-PIA-3P
+v34 ἔχουσιν|echousin|...|G2192|V-PIA-3P
 v34 πρὸς|pros|to|G4314|Prep
 v34 ἐντροπὴν|entropēn|shame|G1791|N-AFS
 v34 ὑμῖν|hymin|your|G4771|PPro-D2P
@@ -500,7 +500,7 @@ v36 ἄφρων|aphrōn|fool|G878|Adj-VMS
 v36 σὺ|sy|You|G4771|PPro-N2S
 v36 ὃ|ho|What|G3739|RelPro-ANS
 v36 σπείρεις|speireis|you sow|G4687|V-PIA-2S
-v36 οὐ|ou|vvv|G3756|Adv
+v36 οὐ|ou|...|G3756|Adv
 v36 ζωοποιεῖται|zōopoieitai|does not come to life|G2227|V-PIM/P-3S
 v36 ἐὰν|ean|unless|G1437|Conj
 v36 μὴ|mē|...|G3361|Adv
@@ -515,7 +515,7 @@ v37 τὸ|to|that|G3588|Art-ANS
 v37 γενησόμενον|genēsomenon|will be|G1096|V-FPM-ANS
 v37 σπείρεις|speireis|[just]|G4687|V-PIA-2S
 v37 ἀλλὰ|alla|but|G235|Conj
-v37 γυμνὸν|gymnon|vvv|G1131|Adj-AMS
+v37 γυμνὸν|gymnon|...|G1131|Adj-AMS
 v37 κόκκον|kokkon|a seed|G2848|N-AMS
 v37 εἰ|ei|perhaps|G1487|Conj
 v37 τύχοι|tychoi|...|G5177|V-AOA-3S
@@ -601,10 +601,10 @@ v42 ἀνάστασις|anastasis|resurrection|G386|N-NFS
 v42 τῶν|tōn|of the|G3588|Art-GMP
 v42 νεκρῶν|nekrōn|dead|G3498|Adj-GMP
 v42 σπείρεται|speiretai|What is sown [is]|G4687|V-PIM/P-3S
-v42 ἐν|en|vvv|G1722|Prep
+v42 ἐν|en|...|G1722|Prep
 v42 φθορᾷ|phthora|perishable|G5356|N-DFS
 v42 ἐγείρεται|egeiretai|it is raised|G1453|V-PIM/P-3S
-v42 ἐν|en|vvv|G1722|Prep
+v42 ἐν|en|...|G1722|Prep
 v42 ἀφθαρσίᾳ|aphtharsia|imperishable|G861|N-DFS
 v43 σπείρεται|speiretai|It is sown|G4687|V-PIM/P-3S
 v43 ἐν|en|in|G1722|Prep
@@ -709,7 +709,7 @@ v50 αἷμα|haima|blood|G129|N-NNS
 v50 βασιλείαν|basileian|[the] kingdom|G932|N-AFS
 v50 Θεοῦ|Theou|of God|G2316|N-GMS
 v50 κληρονομῆσαι|klēronomēsai|inherit|G2816|V-ANA
-v50 οὐ|ou|vvv|G3756|Adv
+v50 οὐ|ou|...|G3756|Adv
 v50 δύναται|dynatai|cannot|G1410|V-PIM/P-3S
 v50 οὐδὲ|oude|nor|G3761|Conj
 v50 ἡ|hē|{does} the|G3588|Art-NFS
@@ -724,7 +724,7 @@ v51 λέγω|legō|I tell|G3004|V-PIA-1S
 v51 πάντες|pantes|all|G3956|Adj-NMP
 v51 οὐ|ou|{We will} not|G3756|Adv
 v51 κοιμηθησόμεθα|koimēthēsometha|sleep|G2837|V-FIP-1P
-v51 πάντες|pantes|vvv|G3956|Adj-NMP
+v51 πάντες|pantes|...|G3956|Adj-NMP
 v51 δὲ|de|but|G1161|Conj
 v51 ἀλλαγησόμεθα|allagēsometha|we will all be changed|G236|V-FIP-1P
 v52 ἐν|en|in|G1722|Prep

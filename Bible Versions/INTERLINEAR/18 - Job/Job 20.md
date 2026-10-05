@@ -29,7 +29,7 @@ v5 רְ֭שָׁעִים|rə·šā·‘îm|of the wicked|H7563|Adj-mp
 v5 מִקָּר֑וֹב|miq·qā·rō·wḇ|has been brief|H7138|Prep-m | Adj-ms
 v5 וְשִׂמְחַ֖ת|wə·śim·ḥaṯ|and the joy|H8057|Conj-w | N-fsc
 v5 חָנֵ֣ף|ḥā·nêp̄|of the godless|H2611|N-ms
-v5 עֲדֵי־|‘ă·ḏê-|vvv|H5704|Prep
+v5 עֲדֵי־|‘ă·ḏê-|...|H5704|Prep
 v5 רָֽגַע׃|rā·ḡa‘|momentary|H7281|N-ms
 v6 אִם־|’im-|Though|H518|Conj
 v6 יַעֲלֶ֣ה|ya·‘ă·leh|reaches|H5927|V-Qal-Imperf-3ms
@@ -146,7 +146,7 @@ v21 טוּבֽוֹ׃|ṭū·ḇōw|his prosperity|H2898|N-msc | 3ms
 v22 בִּמְלֹ֣אות|bim·lō·wṯ|In the midst|H4390|Prep-b | V-Qal-Inf
 v22 שִׂ֭פְקוֹ|śip̲·qô|of his plenty|H5607|N-msc | 3ms
 v22 יֵ֣צֶר|yê·ṣer|he will be distressed|H3334|V-Qal-Imperf-3ms
-v22 ל֑וֹ|lōw||H0|Prep | 3ms
+v22 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v22 כָּל־|kāl-|the full|H3605|N-msc
 v22 יַ֖ד|yaḏ|force|H3027|N-fsc
 v22 עָמֵ֣ל|‘ā·mêl|of misery|H6001|N-ms
@@ -205,4 +205,4 @@ v29 רָ֭שָׁע|rā·šā‘|is the wicked|H7563|Adj-ms
 v29 מֵאֱלֹהִ֑ים|mê·’ĕ·lō·hîm|from God|H430|Prep-m | N-mp
 v29 וְנַחֲלַ֖ת|wə·na·ḥă·laṯ|the inheritance|H5159|Conj-w | N-fsc
 v29 אִמְר֣וֹ|’im·rōw|has appointed him|H561|N-msc | 3ms
-v29 מֵאֵֽל׃פ|mê·’êl|God|H410|Prep-m | N-ms
+v29 מֵאֵֽל׃|mê·’êl|God|H410|Prep-m | N-ms

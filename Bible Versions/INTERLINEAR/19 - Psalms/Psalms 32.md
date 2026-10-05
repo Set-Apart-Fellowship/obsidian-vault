@@ -65,7 +65,7 @@ v6 לֹ֣א|lō|they will not|H3808|Adv-NegPrt
 v6 יַגִּֽיעוּ׃|yag·gî·‘ū|come near|H5060|V-Hifil-Imperf-3mp
 v7 אַתָּ֤ה׀|’at·tāh|You|H859|Pro-2ms
 v7 סֵ֥תֶר|sê·ṯer|are my hiding place|H5643|N-ms
-v7 לִי֮|lî||H0|Prep | 1cs
+v7 לִי֮|lî|-|H0|Prep | 1cs
 v7 מִצַּ֪ר|miṣ·ṣar|from trouble|H6862|Prep-m | Adj-ms
 v7 תִּ֫צְּרֵ֥נִי|tiṣ·ṣə·rê·nî|You protect me|H5341|V-Qal-Imperf-2ms | 1cs
 v7 רָנֵּ֥י|rān·nê|with songs|H7438|N-mpc

@@ -73,7 +73,7 @@ v4 פִּ֣יו|pîw|face|H6310|N-msc | 3ms
 v4 עִם־|‘im-|to|H5973|Prep
 v4 פִּ֔יו|pîw|face|H6310|N-msc | 3ms
 v4 וְעֵינָ֖יו|wə·‘ê·nāw|eye|H5869|Conj-w | N-cdc | 3ms
-v4 אֶת־|’eṯ-||H853|DirObjM
+v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 עֵינוֹ|ʿē·nō|to eye|H5869|N-cdc | 3ms
 v4 תִּרְאֶֽינָה׃|tir·’e·nāh|and see him|H7200|V-Qal-Imperf-3fp
 v5 וּבָבֶ֞ל|ū·ḇā·ḇel|to Babylon|H894|Conj-w | N-proper-fs
@@ -92,7 +92,7 @@ v5 תִֽלָּחֲמ֛וּ|ṯil·lā·ḥă·mū|you fight|H3898|V-Nifal-Impe
 v5 אֶת־|’eṯ-|against|H854|Prep
 v5 הַכַּשְׂדִּ֖ים|hak·kaś·dîm|the Chaldeans|H3778|Art | N-proper-mp
 v5 לֹ֥א|lō|you will not|H3808|Adv-NegPrt
-v5 תַצְלִֽיחוּ׃פ|ṯaṣ·lî·ḥū|succeed|H6743|V-Hifil-Imperf-2mp
+v5 תַצְלִֽיחוּ׃|ṯaṣ·lî·ḥū|succeed|H6743|V-Hifil-Imperf-2mp
 v6 וַיֹּ֖אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 יִרְמְיָ֑הוּ|yir·mə·yā·hū|Jeremiah|H3414|N-proper-ms
 v6 הָיָ֥ה|hā·yāh|came|H1961|V-Qal-Perf-3ms
@@ -163,9 +163,9 @@ v9 דֹּדִ֖י|dō·ḏî|...|H1730|N-msc | 1cs
 v9 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v9 בַּעֲנָת֑וֹת|ba·‘ă·nā·ṯō·wṯ|in Anathoth|H6068|Prep-b | N-proper-fs
 v9 וָֽאֶשְׁקֲלָה־|wā·’eš·qă·lāh-|and I weighed out|H8254|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
-v9 לּוֹ֙|lōw||H0|Prep | 3ms
+v9 לּוֹ֙|lōw|-|H0|Prep | 3ms
 v9 אֶת־|’eṯ-|-|H853|DirObjM
-v9 הַכֶּ֔סֶף|hak·ke·sep̄|vvv|H3701|Art | N-ms
+v9 הַכֶּ֔סֶף|hak·ke·sep̄|...|H3701|Art | N-ms
 v9 שִׁבְעָ֥ה|šiḇ·‘āh|seventeen|H7651|Number-ms
 v9 שְׁקָלִ֖ים|šə·qā·lîm|shekels|H8255|N-mp
 v9 וַעֲשָׂרָ֥ה|wa·‘ă·śā·rāh|...|H6235|Conj-w | Number-ms
@@ -182,7 +182,7 @@ v11 וָאֶקַּ֖ח|wā·’eq·qaḥ|Then I took|H3947|Conj-w | V-Qal-Consec
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 סֵ֣פֶר|sê·p̄er|the deed|H5612|N-msc
 v11 הַמִּקְנָ֑ה|ham·miq·nāh|of purchase|H4736|Art | N-fs
-v11 אֶת־|’eṯ-||H853|DirObjM
+v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 הֶֽחָת֛וּם|he·ḥā·ṯūm|the sealed|H2856|Art | V-Qal-QalPassPrtcpl-ms
 v11 הַמִּצְוָ֥ה|ham·miṣ·wāh|copy with its terms|H4687|Art | N-fs
 v11 וְהַחֻקִּ֖ים|wə·ha·ḥuq·qîm|and conditions|H2706|Conj-w, Art | N-mp
@@ -243,7 +243,7 @@ v14 חָ֑רֶשׂ|ḥā·reś|in a clay|H2789|N-ms
 v14 לְמַ֥עַן|lə·ma·‘an|to|H4616|Conj
 v14 יַעַמְד֖וּ|ya·‘am·ḏū|preserve them|H5975|V-Qal-Imperf-3mp
 v14 יָמִ֥ים|yā·mîm|time|H3117|N-mp
-v14 רַבִּֽים׃ס|rab·bîm|for a long|H7227|Adj-mp
+v14 רַבִּֽים׃|rab·bîm|for a long|H7227|Adj-mp
 v15 כִּ֣י|kî|For|H3588|Conj
 v15 כֹ֥ה|ḵōh|this is what|H3541|Adv
 v15 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -257,7 +257,7 @@ v15 בָתִּ֛ים|ḇāt·tîm|Houses|H1004|N-mp
 v15 וְשָׂד֥וֹת|wə·śā·ḏō·wṯ|fields|H7704|Conj-w | N-mp
 v15 וּכְרָמִ֖ים|ū·ḵə·rā·mîm|and vineyards|H3754|Conj-w | N-mp
 v15 בָּאָ֥רֶץ|bā·’ā·reṣ|land|H776|Prep-b, Art | N-fs
-v15 הַזֹּֽאת׃פ|haz·zōṯ|in this|H2063|Art | Pro-fs
+v15 הַזֹּֽאת׃|haz·zōṯ|in this|H2063|Art | Pro-fs
 v16 וָאֶתְפַּלֵּ֖ל|wā·’eṯ·pal·lêl|I prayed|H6419|Conj-w | V-Hitpael-ConsecImperf-1cs
 v16 אֶל־|’el-|to|H413|Prep
 v16 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -363,7 +363,7 @@ v22 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v22 נִשְׁבַּ֥עְתָּ|niš·ba‘·tā|You had sworn|H7650|V-Nifal-Perf-2ms
 v22 לַאֲבוֹתָ֖ם|la·’ă·ḇō·w·ṯām|their fathers|H1|Prep-l | N-mpc | 3mp
 v22 לָתֵ֣ת|lā·ṯêṯ|to give|H5414|Prep-l | V-Qal-Inf
-v22 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v22 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v22 אֶ֛רֶץ|’e·reṣ|a land|H776|N-fs
 v22 זָבַ֥ת|zā·ḇaṯ|flowing|H2100|V-Qal-Prtcpl-fsc
 v22 חָלָ֖ב|ḥā·lāḇ|with milk|H2461|N-ms
@@ -387,7 +387,7 @@ v23 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v23 עָשׂ֑וּ|‘ā·śū|to do|H6213|V-Qal-Perf-3cp
 v23 וַתַּקְרֵ֣א|wat·taq·rê|and so You have brought|H7122|Conj-w | V-Hifil-ConsecImperf-2ms
 v23 אֹתָ֔ם|’ō·ṯām|upon them|H853|DirObjM | 3mp
-v23 אֵ֥ת|’êṯ||H853|DirObjM
+v23 אֵ֥ת|’êṯ|-|H853|DirObjM
 v23 כָּל־|kāl-|all|H3605|N-msc
 v23 הָרָעָ֖ה|hā·rā·‘āh|disaster|H7451|Art | Adj-fs
 v23 הַזֹּֽאת׃|haz·zōṯ|this|H2063|Art | Pro-fs
@@ -510,7 +510,7 @@ v31 אַפִּ֣י|’ap·pî|My wrath|H639|N-msc | 1cs
 v31 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v31 חֲמָתִ֗י|ḥă·mā·ṯî|and fury|H2534|N-fsc | 1cs
 v31 הָ֤יְתָה|hā·yə·ṯāh|...|H1961|V-Qal-Perf-3fs
-v31 לִּי֙|lî||H0|Prep | 1cs
+v31 לִּי֙|lî|-|H0|Prep | 1cs
 v31 הָעִ֣יר|hā·‘îr|city|H5892|Art | N-fs
 v31 הַזֹּ֔את|haz·zōṯ|this|H2063|Art | Pro-fs
 v31 לְמִן־|lə·min-|from|H4480|Prep-l
@@ -568,7 +568,7 @@ v35 וַיִּבְנוּ֩|way·yiḇ·nū|They have built|H1129|Conj-w | V-Qal-
 v35 אֶת־|’eṯ-|-|H853|DirObjM
 v35 בָּמ֨וֹת|bā·mō·wṯ|the high places|H1116|N-fpc
 v35 הַבַּ֜עַל|hab·ba·‘al|of Baal|H1168|Art | N-proper-ms
-v35 אֲשֶׁ֣ר׀|’ă·šer||H834|Pro-r
+v35 אֲשֶׁ֣ר׀|’ă·šer|-|H834|Pro-r
 v35 בְּגֵ֣יא|bə·ḡê|in the Valley of Ben-hinnom|H1516|Prep-b | N-proper-fs
 v35 בֶן־|ḇen-|to make their sons|H1121|N-mpc
 v35 הִנֹּ֗ם|hin·nōm|...|H2011|N-proper
@@ -591,7 +591,7 @@ v35 הַזֹּ֑את|haz·zōṯ|such|H2063|Art | Pro-fs
 v35 לְמַ֖עַן|lə·ma·‘an|...|H4616|Conj
 v35 הַחֲטִי|ha·ḥă·ṭī|to sin|H2398|V-Hifil-Inf
 v35 אֶת־|’eṯ-|-|H853|DirObjM
-v35 יְהוּדָֽה׃ס|yə·hū·ḏāh|and cause Judah|H3063|N-proper-ms
+v35 יְהוּדָֽה׃|yə·hū·ḏāh|and cause Judah|H3063|N-proper-ms
 v36 וְעַתָּ֕ה|wə·‘at·tāh|Now|H6258|Conj-w | Adv
 v36 לָכֵ֛ן|lā·ḵên|therefore|H3651|Adv
 v36 כֹּֽה־|kōh-|this is what|H3541|Adv
@@ -612,7 +612,7 @@ v36 בָּבֶ֔ל|bā·ḇel|of Babylon|H894|N-proper-fs
 v36 בַּחֶ֖רֶב|ba·ḥe·reḇ|by sword|H2719|Prep-b, Art | N-fs
 v36 וּבָרָעָ֥ב|ū·ḇā·rā·‘āḇ|and famine|H7458|Conj-w, Prep-b, Art | N-ms
 v36 וּבַדָּֽבֶר׃|ū·ḇad·dā·ḇer|and plague|H1698|Conj-w, Prep-b, Art | N-ms
-v37 הִנְנִ֤י|hin·nî|vvv|H2005|Interjection | 1cs
+v37 הִנְנִ֤י|hin·nî|...|H2005|Interjection | 1cs
 v37 מְקַבְּצָם֙|mə·qab·bə·ṣām|I will surely gather [My people]|H6908|V-Piel-Prtcpl-msc | 3mp
 v37 מִכָּל־|mik·kāl|from all|H3605|Prep-m | N-msc
 v37 הָ֣אֲרָצ֔וֹת|hā·’ă·rā·ṣō·wṯ|the lands|H776|Art | N-fp
@@ -647,7 +647,7 @@ v39 אוֹתִ֖י|’ō·w·ṯî|-|H853|DirObjM | 1cs
 v39 כָּל־|kāl-|-|H3605|N-msc
 v39 הַיָּמִ֑ים|hay·yā·mîm|...|H3117|Art | N-mp
 v39 לְט֣וֹב|lə·ṭō·wḇ|for their own good|H2896|Prep-l | Adj-ms
-v39 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v39 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v39 וְלִבְנֵיהֶ֖ם|wə·liḇ·nê·hem|and for the good of their children|H1121|Conj-w, Prep-l | N-mpc | 3mp
 v39 אַחֲרֵיהֶֽם׃|’a·ḥă·rê·hem|after them|H310|Prep | 3mp
 v40 וְכָרַתִּ֤י|wə·ḵā·rat·tî|I will make|H3772|Conj-w | V-Qal-ConjPerf-1cs
@@ -678,7 +678,7 @@ v41 בֶּאֱמֶ֔ת|be·’ĕ·meṯ|and I will faithfully|H571|Prep-b | N-fs
 v41 בְּכָל־|bə·ḵāl|with all|H3605|Prep-b | N-msc
 v41 לִבִּ֖י|lib·bî|My heart|H3820|N-msc | 1cs
 v41 וּבְכָל־|ū·ḇə·ḵāl|and with all|H3605|Conj-w, Prep-b | N-msc
-v41 נַפְשִֽׁי׃ס|nap̄·šî|My soul|H5315|N-fsc | 1cs
+v41 נַפְשִֽׁי׃|nap̄·šî|My soul|H5315|N-fsc | 1cs
 v42 כִּֽי־|kî-|For|H3588|Conj
 v42 כֹה֙|ḵōh|this is what|H3541|Adv
 v42 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -725,7 +725,7 @@ v44 יִקְנ֗וּ|yiq·nū|will be purchased|H7069|V-Qal-Imperf-3mp
 v44 וְכָת֨וֹב|wə·ḵā·ṯō·wḇ|will be signed|H3789|Conj-w | V-Qal-InfAbs
 v44 בַּסֵּ֥פֶר׀|bas·sê·p̄er|and deeds|H5612|Prep-b, Art | N-ms
 v44 וְחָתוֹם֮|wə·ḥā·ṯō·wm|sealed|H2856|Conj-w | V-Qal-InfAbs
-v44 וְהָעֵ֣ד|wə·hā·‘êḏ|vvv|H5749|Conj-w | V-Hifil-InfAbs
+v44 וְהָעֵ֣ד|wə·hā·‘êḏ|...|H5749|Conj-w | V-Hifil-InfAbs
 v44 עֵדִים֒|‘ê·ḏîm|and witnessed|H5707|N-mp
 v44 בְּאֶ֨רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
 v44 בִּנְיָמִ֜ן|bin·yā·min|of Benjamin|H1144|N-proper-ms
@@ -744,4 +744,4 @@ v44 אָשִׁ֥יב|’ā·šîḇ|I will restore them|H7725|V-Hifil-Imperf-1cs
 v44 אֶת־|’eṯ-|-|H853|DirObjM
 v44 שְׁבוּתָ֖ם|šə·ḇū·ṯām|from captivity|H7622|N-fsc | 3mp
 v44 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v44 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v44 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

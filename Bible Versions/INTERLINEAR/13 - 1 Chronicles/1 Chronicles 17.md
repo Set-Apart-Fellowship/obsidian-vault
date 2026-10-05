@@ -28,7 +28,7 @@ v2 בִּֽלְבָבְךָ֖|bil·ḇā·ḇə·ḵā|in your heart|H3824|Prep-
 v2 עֲשֵׂ֑ה|‘ă·śêh|Do|H6213|V-Qal-Imp-ms
 v2 כִּ֥י|kî|for|H3588|Conj
 v2 הָאֱלֹהִ֖ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
-v2 עִמָּֽךְ׃ס|‘im·māḵ|is with you|H5973|Prep | 2fs
+v2 עִמָּֽךְ׃|‘im·māḵ|is with you|H5973|Prep | 2fs
 v3 וַֽיְהִ֖י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v3 בַּלַּ֣יְלָה|bal·lay·lāh|night|H3915|Prep-b, Art | N-ms
 v3 הַה֑וּא|ha·hū|But that|H1931|Art | Pro-3ms
@@ -228,7 +228,7 @@ v15 כֵּ֛ן|kên|So|H3651|Adv
 v15 דִּבֶּ֥ר|dib·ber|relayed|H1696|V-Piel-Perf-3ms
 v15 נָתָ֖ן|nā·ṯān|Nathan|H5416|N-proper-ms
 v15 אֶל־|’el-|to|H413|Prep
-v15 דָּוִֽיד׃פ|dā·wîḏ|David|H1732|N-proper-ms
+v15 דָּוִֽיד׃|dā·wîḏ|David|H1732|N-proper-ms
 v16 וַיָּבֹא֙|way·yā·ḇō|went in|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v16 הַמֶּ֣לֶךְ|ham·me·leḵ|Then King|H4428|Art | N-ms
 v16 דָּוִ֔יד|dā·wîḏ|David|H1732|N-proper-ms
@@ -279,7 +279,7 @@ v19 עַבְדְּךָ֙|‘aḇ·də·ḵā|of Your servant|H5650|N-msc | 2ms
 v19 וּֽכְלִבְּךָ֔|ū·ḵə·lib·bə·ḵā|and according to Your own heart|H3820|Conj-w, Prep-k | N-msc | 2ms
 v19 עָשִׂ֕יתָ|‘ā·śî·ṯā|You have accomplished|H6213|V-Qal-Perf-2ms
 v19 אֵ֥ת|’êṯ|-|H853|DirObjM
-v19 כָּל־|kāl-|vvv|H3605|N-msc
+v19 כָּל־|kāl-|...|H3605|N-msc
 v19 הַגְּדוּלָּ֖ה|hag·gə·ḏūl·lāh|great thing|H1420|Art | N-fs
 v19 הַזֹּ֑את|haz·zōṯ|this|H2063|Art | Pro-fs
 v19 לְהֹדִ֖יעַ|lə·hō·ḏî·a‘|and made known|H3045|Prep-l | V-Hifil-Inf
@@ -405,4 +405,4 @@ v27 אַתָּ֤ה|’at·tāh|You|H859|Pro-2ms
 v27 יְהוָה֙|Yah·weh|O LORD|H3068|N-proper-ms
 v27 בֵּרַ֔כְתָּ|bê·raḵ·tā|have blessed it|H1288|V-Piel-Perf-2ms
 v27 וּמְבֹרָ֖ךְ|ū·mə·ḇō·rāḵ|and [it will be] blessed|H1288|Conj-w | V-Pual-Prtcpl-ms
-v27 לְעוֹלָֽם׃פ|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
+v27 לְעוֹלָֽם׃|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms

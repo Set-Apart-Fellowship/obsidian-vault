@@ -23,15 +23,15 @@ v2 τοῦ|tou|the|G3588|Art-GNS
 v2 μνημείου|mnēmeiou|tomb|G3419|N-GNS
 v3 εἰσελθοῦσαι|eiselthousai|when they entered|G1525|V-APA-NFP
 v3 δὲ|de|but|G1161|Conj
-v3 οὐχ|ouch|vvv|G3756|Adv
+v3 οὐχ|ouch|...|G3756|Adv
 v3 εὗρον|heuron|they did not find|G2147|V-AIA-3P
 v3 τὸ|to|the|G3588|Art-ANS
 v3 σῶμα|sōma|body|G4983|N-ANS
 v3 τοῦ|tou|of the|G3588|Art-GMS
 v3 Κυρίου|Kyriou|Lord|G2962|N-GMS
 v3 Ἰησοῦ|Iēsou|Jesus|G2424|N-GMS
-v4 καὶ|kai|vvv|G2532|Conj
-v4 ἐγένετο|egeneto|vvv|G1096|V-AIM-3S
+v4 καὶ|kai|...|G2532|Conj
+v4 ἐγένετο|egeneto|...|G1096|V-AIM-3S
 v4 ἐν|en|While|G1722|Prep
 v4 τῷ|tō|-|G3588|Art-DNS
 v4 ἀπορεῖσθαι|aporeisthai|were puzzling|G639|V-PNM
@@ -49,7 +49,7 @@ v4 ἐσθῆτι|esthēti|apparel|G2066|N-DFS
 v4 ἀστραπτούσῃ|astraptousē|radiant|G797|V-PPA-DFS
 v5 ἐμφόβων|emphobōn|in terror|G1719|Adj-GFP
 v5 δὲ|de|As|G1161|Conj
-v5 γενομένων|genomenōn|vvv|G1096|V-APM-GFP
+v5 γενομένων|genomenōn|...|G1096|V-APM-GFP
 v5 αὐτῶν|autōn|[the women]|G846|PPro-GF3P
 v5 καὶ|kai|-|G2532|Conj
 v5 κλινουσῶν|klinousōn|bowed|G2827|V-PPA-GFP
@@ -174,12 +174,12 @@ v12 αὑτὸν|hauton|himself|G848|PPro-AM3S
 v12 θαυμάζων|thaumazōn|wondering|G2296|V-PPA-NMS
 v12 τὸ|to|what|G3588|Art-ANS
 v12 γεγονός|gegonos|had happened|G1096|V-RPA-ANS
-v13 Καὶ|Kai|vvv|G2532|Conj
-v13 ἰδοὺ|idou|vvv|G2400|V-AMA-2S
+v13 Καὶ|Kai|...|G2532|Conj
+v13 ἰδοὺ|idou|...|G2400|V-AMA-2S
 v13 δύο|dyo|two|G1417|Adj-NMP
 v13 ἐξ|ex|of|G1537|Prep
 v13 αὐτῶν|autōn|them|G846|PPro-GM3P
-v13 ἐν|en|vvv|G1722|Prep
+v13 ἐν|en|...|G1722|Prep
 v13 αὐτῇ|autē|same|G846|PPro-DF3S
 v13 τῇ|tē|That|G3588|Art-DFS
 v13 ἡμέρᾳ|hēmera|day|G2250|N-DFS
@@ -192,7 +192,7 @@ v13 σταδίους|stadious|...|G4712|N-AMP
 v13 ἑξήκοντα|hexēkonta|about seven miles|G1835|Adj-AMP
 v13 ἀπὸ|apo|from|G575|Prep
 v13 Ἰερουσαλήμ|Ierousalēm|Jerusalem|G2419|N-GFS
-v13 ᾗ|hē|vvv|G3739|RelPro-DFS
+v13 ᾗ|hē|...|G3739|RelPro-DFS
 v13 ὄνομα|onoma|called|G3686|N-NNS
 v13 Ἐμμαοῦς|Emmaous|Emmaus|G1695|N-NFS
 v14 καὶ|kai|-|G2532|Conj
@@ -233,10 +233,10 @@ v17 δὲ|de|-|G1161|Conj
 v17 πρὸς|pros|-|G4314|Prep
 v17 αὐτούς|autous|them|G846|PPro-AM3P
 v17 Τίνες|Tines|What|G5101|IPro-NMP
-v17 οἱ|hoi|vvv|G3588|Art-NMP
-v17 λόγοι|logoi|vvv|G3056|N-NMP
-v17 οὗτοι|houtoi|vvv|G3778|DPro-NMP
-v17 οὓς|hous|vvv|G3739|RelPro-AMP
+v17 οἱ|hoi|...|G3588|Art-NMP
+v17 λόγοι|logoi|...|G3056|N-NMP
+v17 οὗτοι|houtoi|...|G3778|DPro-NMP
+v17 οὓς|hous|...|G3739|RelPro-AMP
 v17 ἀντιβάλλετε|antiballete|are you discussing so intently|G474|V-PIA-2P
 v17 πρὸς|pros|...|G4314|Prep
 v17 ἀλλήλους|allēlous|...|G240|RecPro-AMP
@@ -261,7 +261,7 @@ v18 οὐκ|ouk|{does} not|G3756|Adv
 v18 ἔγνως|egnōs|know|G1097|V-AIA-2S
 v18 τὰ|ta|the things|G3588|Art-ANP
 v18 γενόμενα|genomena|that have happened|G1096|V-APM-ANP
-v18 ἐν|en|vvv|G1722|Prep
+v18 ἐν|en|...|G1722|Prep
 v18 αὐτῇ|autē|[there]|G846|PPro-DF3S
 v18 ἐν|en|in|G1722|Prep
 v18 ταῖς|tais|-|G3588|Art-DFP
@@ -351,7 +351,7 @@ v22 ἐπὶ|epi|at|G1909|Prep
 v22 τὸ|to|the|G3588|Art-ANS
 v22 μνημεῖον|mnēmeion|tomb|G3419|N-ANS
 v23 καὶ|kai|but|G2532|Conj
-v23 μὴ|mē|vvv|G3361|Adv
+v23 μὴ|mē|...|G3361|Adv
 v23 εὑροῦσαι|heurousai|they did not find|G2147|V-APA-NFP
 v23 τὸ|to|-|G3588|Art-ANS
 v23 σῶμα|sōma|body|G4983|N-ANS
@@ -385,7 +385,7 @@ v24 γυναῖκες|gynaikes|women|G1135|N-NFP
 v24 εἶπον|eipon|had described|G2036|V-AIA-3P
 v24 αὐτὸν|auton|Him|G846|PPro-AM3S
 v24 δὲ|de|But|G1161|Conj
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 εἶδον|eidon|they did not see|G3708|V-AIA-3P
 v25 Καὶ|Kai|Then|G2532|Conj
 v25 αὐτὸς|autos|[Jesus]|G846|PPro-NM3S
@@ -406,7 +406,7 @@ v25 οἷς|hois|that|G3739|RelPro-DNP
 v25 ἐλάλησαν|elalēsan|have spoken|G2980|V-AIA-3P
 v25 οἱ|hoi|the|G3588|Art-NMP
 v25 προφῆται|prophētai|prophets|G4396|N-NMP
-v26 οὐχὶ|ouchi|vvv|G3780|IntPrtcl
+v26 οὐχὶ|ouchi|...|G3780|IntPrtcl
 v26 ταῦτα|tauta|these things|G3778|DPro-ANP
 v26 ἔδει|edei|Was it not necessary for|G1163|V-IIA-3S
 v26 παθεῖν|pathein|to suffer|G3958|V-ANA
@@ -497,7 +497,7 @@ v31 αὐτόν|auton|[Jesus]|G846|PPro-AM3S
 v31 καὶ|kai|and|G2532|Conj
 v31 αὐτὸς|autos|He|G846|PPro-NM3S
 v31 ἄφαντος|aphantos|disappeared|G855|Adj-NMS
-v31 ἐγένετο|egeneto|vvv|G1096|V-AIM-3S
+v31 ἐγένετο|egeneto|...|G1096|V-AIM-3S
 v31 ἀπ’|ap’|from|G575|Prep
 v31 αὐτῶν|autōn|[their sight]|G846|PPro-GM3P
 v32 Καὶ|Kai|-|G2532|Conj
@@ -542,7 +542,7 @@ v33 σὺν|syn|with|G4862|Prep
 v33 αὐτοῖς|autois|them|G846|PPro-DM3P
 v34 λέγοντας|legontas|[and] saying|G3004|V-PPA-AMP
 v34 ὅτι|hoti|-|G3754|Conj
-v34 Ὄντως|Ontōs|vvv|G3689|Adv
+v34 Ὄντως|Ontōs|...|G3689|Adv
 v34 ἠγέρθη|ēgerthē|has indeed risen|G1453|V-AIP-3S
 v34 ὁ|ho|The|G3588|Art-NMS
 v34 Κύριος|Kyrios|Lord|G2962|N-NMS
@@ -571,7 +571,7 @@ v36 αὐτῶν|autōn|they|G846|PPro-GM3P
 v36 λαλούντων|lalountōn|were describing|G2980|V-PPA-GMP
 v36 αὐτὸς|autos|[Jesus] Himself|G846|PPro-NM3S
 v36 ἔστη|estē|stood|G2476|V-AIA-3S
-v36 ἐν|en|vvv|G1722|Prep
+v36 ἐν|en|...|G1722|Prep
 v36 μέσῳ|mesō|among|G3319|Adj-DNS
 v36 αὐτῶν|autōn|them|G846|PPro-GM3P
 v36 καὶ|kai|and|G2532|Conj
@@ -583,7 +583,7 @@ v37 πτοηθέντες|ptoēthentes|they were startled|G4422|V-APP-NMP
 v37 δὲ|de|But|G1161|Conj
 v37 καὶ|kai|and|G2532|Conj
 v37 ἔμφοβοι|emphoboi|frightened|G1719|Adj-NMP
-v37 γενόμενοι|genomenoi|vvv|G1096|V-APM-NMP
+v37 γενόμενοι|genomenoi|...|G1096|V-APM-NMP
 v37 ἐδόκουν|edokoun|thinking|G1380|V-IIA-3P
 v37 πνεῦμα|pneuma|a spirit|G4151|N-ANS
 v37 θεωρεῖν|theōrein|they had seen|G2334|V-PNA
@@ -639,7 +639,7 @@ v40 χεῖρας|cheiras|hands|G5495|N-AFP
 v40 καὶ|kai|and|G2532|Conj
 v40 τοὺς|tous|-|G3588|Art-AMP
 v40 πόδας|podas|feet|G4228|N-AMP
-v41 Ἔτι|Eti|vvv|G2089|Adv
+v41 Ἔτι|Eti|...|G2089|Adv
 v41 δὲ|de|While|G1161|Conj
 v41 ἀπιστούντων|apistountōn|were still in disbelief|G569|V-PPA-GMP
 v41 αὐτῶν|autōn|they|G846|PPro-GM3P
@@ -756,7 +756,7 @@ v49 Πατρός|Patros|Father|G3962|N-GMS
 v49 μου|mou|My|G1473|PPro-G1S
 v49 ἐφ’|eph’|upon|G1909|Prep
 v49 ὑμᾶς|hymas|you|G4771|PPro-A2P
-v49 ὑμεῖς|hymeis|vvv|G4771|PPro-N2P
+v49 ὑμεῖς|hymeis|...|G4771|PPro-N2P
 v49 δὲ|de|But|G1161|Conj
 v49 καθίσατε|kathisate|remain|G2523|V-AMA-2P
 v49 ἐν|en|in|G1722|Prep
@@ -808,7 +808,7 @@ v52 μετὰ|meta|with|G3326|Prep
 v52 χαρᾶς|charas|joy|G5479|N-GFS
 v52 μεγάλης|megalēs|great|G3173|Adj-GFS
 v53 καὶ|kai|-|G2532|Conj
-v53 ἦσαν|ēsan|vvv|G1510|V-IIA-3P
+v53 ἦσαν|ēsan|...|G1510|V-IIA-3P
 v53 διὰ|dia|continually|G1223|Prep
 v53 παντὸς|pantos|...|G3956|Adj-GMS
 v53 ἐν|en|in|G1722|Prep

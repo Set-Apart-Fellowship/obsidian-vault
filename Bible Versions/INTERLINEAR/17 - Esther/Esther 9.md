@@ -7,7 +7,7 @@ v1 אֲדָ֗ר|’ă·ḏār|of Adar|H143|N-proper-fs
 v1 בִּשְׁלוֹשָׁ֨ה|biš·lō·wō·šāh|On the thirteenth|H7969|Prep-b | Number-ms
 v1 עָשָׂ֥ר|‘ā·śār|...|H6240|Number-ms
 v1 יוֹם֙|yō·wm|day|H3117|N-ms
-v1 בּ֔וֹ|bōw||H0|Prep | 3ms
+v1 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v1 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v1 הִגִּ֧יעַ|hig·gî·a‘|-|H5060|V-Hifil-Perf-3ms
 v1 דְּבַר־|də·ḇar-|command|H1697|N-msc
@@ -79,7 +79,7 @@ v4 כִּֽי־|kî-|as|H3588|Conj
 v4 הָאִ֥ישׁ|hā·’îš|...|H376|Art | N-ms
 v4 מָרְדֳּכַ֖י|mā·rə·do·ḵay|he|H4782|N-proper-ms
 v4 הוֹלֵ֥ךְ|hō·w·lêḵ|became|H1980|V-Qal-Prtcpl-ms
-v4 וְגָדֽוֹל׃פ|wə·ḡā·ḏō·wl|more and more powerful|H1431|Conj-w | V-Qal-InfAbs
+v4 וְגָדֽוֹל׃|wə·ḡā·ḏō·wl|more and more powerful|H1431|Conj-w | V-Qal-InfAbs
 v5 וַיַּכּ֤וּ|way·yak·kū|put|H5221|Conj-w | V-Hifil-ConsecImperf-3mp
 v5 הַיְּהוּדִים֙|hay·yə·hū·ḏîm|The Jews|H3064|Art | N-proper-mp
 v5 בְּכָל־|bə·ḵāl|all|H3605|Prep-b | N-msc
@@ -130,7 +130,7 @@ v10 הָרָ֑גוּ|hā·rā·ḡū|They killed|H2026|V-Qal-Perf-3cp
 v10 וּבַ֨בִּזָּ֔ה|ū·ḇab·biz·zāh|on the plunder|H961|Conj-w, Prep-b, Art | N-fs
 v10 לֹ֥א|lō|but they did not|H3808|Adv-NegPrt
 v10 שָׁלְח֖וּ|šā·lə·ḥū|lay|H7971|V-Qal-Perf-3cp
-v10 אֶת־|’eṯ-||H853|DirObjM
+v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 יָדָֽם׃|yā·ḏām|a hand|H3027|N-fsc | 3mp
 v11 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v11 הַה֗וּא|ha·hū|On that|H1931|Art | Pro-3ms
@@ -140,7 +140,7 @@ v11 הַֽהֲרוּגִ֛ים|ha·hă·rū·ḡîm|of those killed|H2026|Art |
 v11 בְּשׁוּשַׁ֥ן|bə·šū·šan|of Susa|H7800|Prep-b | N-proper-ms
 v11 הַבִּירָ֖ה|hab·bî·rāh|in the citadel|H1002|Art | N-fs
 v11 לִפְנֵ֥י|lip̄·nê|was reported to|H6440|Prep-l | N-cpc
-v11 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|the king|H4428|Art | N-ms
+v11 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v12 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 הַמֶּ֜לֶךְ|ham·me·leḵ|who|H4428|Art | N-ms
 v12 לְאֶסְתֵּ֣ר|lə·’es·têr|Esther|H635|Prep-l | N-proper-fs
@@ -237,7 +237,7 @@ v16 וְנ֙וֹחַ֙|wə·nō·w·aḥ|and rid themselves|H5118|Conj-w | V-Qal
 v16 מֵאֹ֣יְבֵיהֶ֔ם|mê·’ō·yə·ḇê·hem|of their enemies|H341|Prep-m | V-Qal-Prtcpl-mpc | 3mp
 v16 וְהָרֹג֙|wə·hā·rōḡ|They killed|H2026|Conj-w | V-Qal-InfAbs
 v16 בְּשֹׂ֣נְאֵיהֶ֔ם|bə·śō·nə·’ê·hem|who hated them|H8130|Prep-b | V-Qal-Prtcpl-mpc | 3mp
-v16 חֲמִשָּׁ֥ה|ḥă·miš·šāh|75,000 {}|H2568|Number-ms
+v16 חֲמִשָּׁ֥ה|ḥă·miš·šāh|75,000|H2568|Number-ms
 v16 וְשִׁבְעִ֖ים|wə·šiḇ·‘îm|...|H7657|Conj-w | Number-cp
 v16 אָ֑לֶף|’ā·lep̄|...|H505|Number-ms
 v16 וּבַ֨בִּזָּ֔ה|ū·ḇab·biz·zāh|on the plunder|H961|Conj-w, Prep-b, Art | N-fs
@@ -253,7 +253,7 @@ v17 אֲדָ֑ר|’ă·ḏār|of Adar|H143|N-proper-fs
 v17 וְנ֗וֹחַ|wə·nō·w·aḥ|they rested|H5117|Conj-w | V-Qal-InfAbs
 v17 בְּאַרְבָּעָ֤ה|bə·’ar·bā·‘āh|and on the fourteenth day|H702|Prep-b | Number-ms
 v17 עָשָׂר֙|‘ā·śār|...|H6240|Number-ms
-v17 בּ֔וֹ|bōw||H0|Prep | 3ms
+v17 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v17 וְעָשֹׂ֣ה|wə·‘ā·śōh|making it|H6213|Conj-w | V-Qal-InfAbs
 v17 אֹת֔וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v17 י֖וֹם|yō·wm|a day|H3117|N-msc
@@ -265,14 +265,14 @@ v18 בְּשׁוּשָׁ֗ן|bə·šū·šān|in Susa, however|H7800|Prep-b | N-
 v18 נִקְהֲלוּ֙|niq·hă·lū|had assembled|H6950|V-Nifal-Perf-3cp
 v18 בִּשְׁלֹשָׁ֤ה|biš·lō·šāh|on the thirteenth|H7969|Prep-b | Number-ms
 v18 עָשָׂר֙|‘ā·śār|...|H6240|Number-ms
-v18 בּ֔וֹ|bōw||H0|Prep | 3ms
+v18 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v18 וּבְאַרְבָּעָ֥ה|ū·ḇə·’ar·bā·‘āh|and the fourteenth|H702|Conj-w, Prep-b | Number-ms
 v18 עָשָׂ֖ר|‘ā·śār|days of the month|H6240|Number-ms
-v18 בּ֑וֹ|bōw||H0|Prep | 3ms
+v18 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v18 וְנ֗וֹחַ|wə·nō·w·aḥ|So they rested|H5117|Conj-w | V-Qal-InfAbs
 v18 בַּחֲמִשָּׁ֤ה|ba·ḥă·miš·šāh|on the fifteenth|H2568|Prep-b, Art | Number-ms
 v18 עָשָׂר֙|‘ā·śār|day|H6240|Number-ms
-v18 בּ֔וֹ|bōw||H0|Prep | 3ms
+v18 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v18 וְעָשֹׂ֣ה|wə·‘ā·śōh|making|H6213|Conj-w | V-Qal-InfAbs
 v18 אֹת֔וֹ|’ō·ṯōw|it|H853|DirObjM | 3ms
 v18 י֖וֹם|yō·wm|a day|H3117|N-msc
@@ -299,7 +299,7 @@ v19 ט֑וֹב|ṭō·wḇ|...|H2896|Adj-ms
 v19 וּמִשְׁל֥וֹחַ|ū·miš·lō·w·aḥ|for sending|H4916|Conj-w | N-msc
 v19 מָנ֖וֹת|mā·nō·wṯ|gifts|H4490|N-fp
 v19 אִ֥ישׁ|’îš|to one|H376|N-ms
-v19 לְרֵעֵֽהוּ׃פ|lə·rê·‘ê·hū|another|H7453|Prep-l | N-msc | 3ms
+v19 לְרֵעֵֽהוּ׃|lə·rê·‘ê·hū|another|H7453|Prep-l | N-msc | 3ms
 v20 וַיִּכְתֹּ֣ב|way·yiḵ·tōḇ|recorded|H3789|Conj-w | V-Qal-ConsecImperf-3ms
 v20 מָרְדֳּכַ֔י|mā·rə·do·ḵay|Mordecai|H4782|N-proper-ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
@@ -319,7 +319,7 @@ v20 הַקְּרוֹבִ֖ים|haq·qə·rō·w·ḇîm|both near|H7138|Art | Ad
 v20 וְהָרְחוֹקִֽים׃|wə·hā·rə·ḥō·w·qîm|and far|H7350|Conj-w, Art | Adj-mp
 v21 לְקַיֵּם֮|lə·qay·yêm|to establish|H6965|Prep-l | V-Piel-Inf
 v21 עֲלֵיהֶם֒|‘ă·lê·hem|among them|H5921|Prep | 3mp
-v21 לִהְי֣וֹת|lih·yō·wṯ|vvv|H1961|Prep-l | V-Qal-Inf
+v21 לִהְי֣וֹת|lih·yō·wṯ|...|H1961|Prep-l | V-Qal-Inf
 v21 עֹשִׂ֗ים|‘ō·śîm|celebration|H6213|V-Qal-Prtcpl-mp
 v21 אֵ֠ת|’êṯ|-|H853|DirObjM
 v21 י֣וֹם|yō·wm|days|H3117|N-msc
@@ -331,14 +331,14 @@ v21 וְאֵ֛ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v21 יוֹם־|yō·wm-|-|H3117|N-msc
 v21 חֲמִשָּׁ֥ה|ḥă·miš·šāh|and fifteenth|H2568|Number-ms
 v21 עָשָׂ֖ר|‘ā·śār|...|H6240|Number-ms
-v21 בּ֑וֹ|bōw||H0|Prep | 3ms
+v21 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v21 בְּכָל־|bə·ḵāl|an annual|H3605|Prep-b | N-msc
 v21 שָׁנָ֖ה|šā·nāh|...|H8141|N-fs
 v21 וְשָׁנָֽה׃|wə·šā·nāh|...|H8141|Conj-w | N-fs
 v22 כַּיָּמִ֗ים|kay·yā·mîm|as the days|H3117|Prep-k, Art | N-mp
 v22 אֲשֶׁר־|’ă·šer-|on which|H834|Pro-r
 v22 נָ֨חוּ|nā·ḥū|gained rest|H5117|V-Qal-Perf-3cp
-v22 בָהֶ֤ם|ḇā·hem||H0|Prep | 3mp
+v22 בָהֶ֤ם|ḇā·hem|-|H0|Prep | 3mp
 v22 הַיְּהוּדִים֙|hay·yə·hū·ḏîm|the Jews|H3064|Art | N-proper-mp
 v22 מֵא֣וֹיְבֵיהֶ֔ם|mê·’ō·wy·ḇê·hem|from their enemies|H341|Prep-m | V-Qal-Prtcpl-mpc | 3mp
 v22 וְהַחֹ֗דֶשׁ|wə·ha·ḥō·ḏeš|and the month|H2320|Conj-w, Art | N-ms
@@ -363,11 +363,11 @@ v22 וּמַתָּנ֖וֹת|ū·mat·tā·nō·wṯ|[and]|H4979|Conj-w | N-fp
 v22 לָֽאֶבְיוֹנִֽים׃|lā·’eḇ·yō·w·nîm|to the poor|H34|Prep-l, Art | N-mp
 v23 וְקִבֵּל֙|wə·qib·bêl|agreed to continue|H6901|Conj-w | V-Piel-ConjPerf-3ms
 v23 הַיְּהוּדִ֔ים|hay·yə·hū·ḏîm|So the Jews|H3064|Art | N-proper-mp
-v23 אֵ֥ת|’êṯ||H853|DirObjM
+v23 אֵ֥ת|’êṯ|-|H853|DirObjM
 v23 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v23 הֵחֵ֖לּוּ|hê·ḥêl·lū|they had started|H2490|V-Hifil-Perf-3cp
 v23 לַעֲשׂ֑וֹת|la·‘ă·śō·wṯ|the custom|H6213|Prep-l | V-Qal-Inf
-v23 וְאֵ֛ת|wə·’êṯ||H853|Conj-w | DirObjM
+v23 וְאֵ֛ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v23 אֲשֶׁר־|’ă·šer-|as|H834|Pro-r
 v23 כָּתַ֥ב|kā·ṯaḇ|had written|H3789|V-Qal-Perf-3ms
 v23 מָרְדֳּכַ֖י|mā·rə·do·ḵay|Mordecai|H4782|N-proper-ms
@@ -480,7 +480,7 @@ v28 הַיְּהוּדִ֔ים|hay·yə·hū·ḏîm|the Jews|H3064|Art | N-prop
 v28 וְזִכְרָ֖ם|wə·ziḵ·rām|nor should the memory of them|H2143|Conj-w | N-msc | 3mp
 v28 לֹא־|lō-|...|H3808|Adv-NegPrt
 v28 יָס֥וּף|yā·sūp̄|fade|H5486|V-Qal-Imperf-3ms
-v28 מִזַּרְעָֽם׃ס|miz·zar·‘ām|from their descendants|H2233|Prep-m | N-msc | 3mp
+v28 מִזַּרְעָֽם׃|miz·zar·‘ām|from their descendants|H2233|Prep-m | N-msc | 3mp
 v29 וַ֠תִּכְתֹּב|wat·tiḵ·tōḇ|wrote|H3789|Conj-w | V-Qal-ConsecImperf-3fs
 v29 אֶסְתֵּ֨ר|’es·têr|Esther|H635|N-proper-fs
 v29 הַמַּלְכָּ֧ה|ham·mal·kāh|So Queen|H4436|Art | N-fs
@@ -541,4 +541,4 @@ v32 דִּבְרֵ֥י|diḇ·rê|regulations|H1697|N-mpc
 v32 הַפֻּרִ֖ים|hap·pu·rîm|about Purim|H6332|Art | N-mp
 v32 הָאֵ֑לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
 v32 וְנִכְתָּ֖ב|wə·niḵ·tāḇ|which were written|H3789|Conj-w | V-Nifal-Prtcpl-ms
-v32 בַּסֵּֽפֶר׃פ|bas·sê·p̄er|into the record|H5612|Prep-b, Art | N-ms
+v32 בַּסֵּֽפֶר׃|bas·sê·p̄er|into the record|H5612|Prep-b, Art | N-ms

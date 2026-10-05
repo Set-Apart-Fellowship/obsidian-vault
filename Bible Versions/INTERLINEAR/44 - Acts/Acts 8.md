@@ -39,9 +39,9 @@ v2 Στέφανον|Stephanon|Stephen|G4736|N-AMS
 v2 ἄνδρες|andres|men|G435|N-NMP
 v2 εὐλαβεῖς|eulabeis|God-fearing|G2126|Adj-NMP
 v2 καὶ|kai|and|G2532|Conj
-v2 ἐποίησαν|epoiēsan|vvv|G4160|V-AIA-3P
+v2 ἐποίησαν|epoiēsan|...|G4160|V-AIA-3P
 v2 κοπετὸν|kopeton|mourned deeply|G2870|N-AMS
-v2 μέγαν|megan|vvv|G3173|Adj-AMS
+v2 μέγαν|megan|...|G3173|Adj-AMS
 v2 ἐπ’|ep’|over|G1909|Prep
 v2 αὐτῷ|autō|him|G846|PPro-DM3S
 v3 Σαῦλος|Saulos|Saul|G4569|N-NMS
@@ -87,11 +87,11 @@ v6 οἱ|hoi|The|G3588|Art-NMP
 v6 ὄχλοι|ochloi|crowds|G3793|N-NMP
 v6 τοῖς|tois|-|G3588|Art-DNP
 v6 λεγομένοις|legomenois|message|G3004|V-PPM/P-DNP
-v6 ὑπὸ|hypo|vvv|G5259|Prep
-v6 τοῦ|tou|vvv|G3588|Art-GMS
+v6 ὑπὸ|hypo|...|G5259|Prep
+v6 τοῦ|tou|...|G3588|Art-GMS
 v6 Φιλίππου|Philippou|to Philip's|G5376|N-GMS
 v6 ὁμοθυμαδὸν|homothymadon|all|G3661|Adv
-v6 ἐν|en|vvv|G1722|Prep
+v6 ἐν|en|...|G1722|Prep
 v6 τῷ|tō|...|G3588|Art-DNS
 v6 ἀκούειν|akouein|...|G191|V-PNA
 v6 αὐτοὺς|autous|...|G846|PPro-AM3P
@@ -107,9 +107,9 @@ v7 τῶν|tōn|who|G3588|Art-GMP
 v7 ἐχόντων|echontōn|were possessed|G2192|V-PPA-GMP
 v7 πνεύματα|pneumata|spirits|G4151|N-ANP
 v7 ἀκάθαρτα|akatharta|unclean|G169|Adj-ANP
-v7 βοῶντα|boōnta|vvv|G994|V-PPA-ANP
+v7 βοῶντα|boōnta|...|G994|V-PPA-ANP
 v7 φωνῇ|phōnē|With loud shrieks|G5456|N-DFS
-v7 μεγάλῃ|megalē|vvv|G3173|Adj-DFS
+v7 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v7 ἐξήρχοντο|exērchonto|came out of|G1831|V-IIM/P-3P
 v7 πολλοὶ|polloi|many|G4183|Adj-NMP
 v7 δὲ|de|and|G1161|Conj
@@ -203,7 +203,7 @@ v13 αὐτὸς|autos|himself|G846|PPro-NM3S
 v13 ἐπίστευσεν|episteusen|believed|G4100|V-AIA-3S
 v13 καὶ|kai|and|G2532|Conj
 v13 βαπτισθεὶς|baptistheis|was baptized|G907|V-APP-NMS
-v13 ἦν|ēn|vvv|G1510|V-IIA-3S
+v13 ἦν|ēn|...|G1510|V-IIA-3S
 v13 προσκαρτερῶν|proskarterōn|He followed|G4342|V-PPA-NMS
 v13 τῷ|tō|-|G3588|Art-DMS
 v13 Φιλίππῳ|Philippō|Philip {closely}|G5376|N-DMS
@@ -235,7 +235,7 @@ v14 αὐτοὺς|autous|them|G846|PPro-AM3P
 v14 Πέτρον|Petron|Peter|G4074|N-AMS
 v14 καὶ|kai|and|G2532|Conj
 v14 Ἰωάννην|Iōannēn|John|G2491|N-AMS
-v15 οἵτινες|hoitines|vvv|G3748|RelPro-NMP
+v15 οἵτινες|hoitines|...|G3748|RelPro-NMP
 v15 καταβάντες|katabantes|On their arrival|G2597|V-APA-NMP
 v15 προσηύξαντο|prosēuxanto|they prayed|G4336|V-AIM-3P
 v15 περὶ|peri|for|G4012|Prep
@@ -357,7 +357,7 @@ v22 καὶ|kai|and|G2532|Conj
 v22 δεήθητι|deēthēti|pray to|G1189|V-AMP-2S
 v22 τοῦ|tou|the|G3588|Art-GMS
 v22 Κυρίου|Kyriou|Lord|G2962|N-GMS
-v22 εἰ|ei|vvv|G1487|Conj
+v22 εἰ|ei|...|G1487|Conj
 v22 ἄρα|ara|Perhaps|G687|Conj
 v22 ἀφεθήσεταί|aphethēsetai|He will forgive|G863|V-FIP-3S
 v22 σοι|soi|you|G4771|PPro-D2S
@@ -443,7 +443,7 @@ v27 ἀναστὰς|anastas|he started out|G450|V-APA-NMS
 v27 ἐπορεύθη|eporeuthē|on his way|G4198|V-AIP-3S
 v27 καὶ|kai|and|G2532|Conj
 v27 ἰδοὺ|idou|[he met]|G2400|V-AMA-2S
-v27 ἀνὴρ|anēr|vvv|G435|N-NMS
+v27 ἀνὴρ|anēr|...|G435|N-NMS
 v27 Αἰθίοψ|Aithiops|an Ethiopian|G128|N-NMS
 v27 εὐνοῦχος|eunouchos|eunuch|G2135|N-NMS
 v27 δυνάστης|dynastēs|a court official|G1413|N-NMS
@@ -510,7 +510,7 @@ v31 δὲ|de|-|G1161|Conj
 v31 εἶπεν|eipen|he said|G2036|V-AIA-3S
 v31 Πῶς|Pōs|How|G4459|Adv
 v31 γὰρ|gar|-|G1063|Conj
-v31 ἂν|an|vvv|G302|Prtcl
+v31 ἂν|an|...|G302|Prtcl
 v31 δυναίμην|dynaimēn|can I|G1410|V-POM/P-1S
 v31 ἐὰν|ean|unless|G1437|Conj
 v31 μή|mē|...|G3361|Adv
@@ -548,7 +548,7 @@ v32 κείραντος*|keirantos|shearer|G2751|V-APA-GMS
 v32 αὐτὸν|auton|...|G846|PPro-AM3S
 v32 ἄφωνος|aphōnos|[is] silent|G880|Adj-NMS
 v32 οὕτως|houtōs|so|G3779|Adv
-v32 οὐκ|ouk|vvv|G3756|Adv
+v32 οὐκ|ouk|...|G3756|Adv
 v32 ἀνοίγει|anoigei|He did not open|G455|V-PIA-3S
 v32 τὸ|to|-|G3588|Art-ANS
 v32 στόμα|stoma|mouth|G4750|N-ANS
@@ -595,7 +595,7 @@ v34 ἢ|ē|or|G2228|Conj
 v34 περὶ|peri|-|G4012|Prep
 v34 ἑτέρου|heterou|else|G2087|Adj-GMS
 v34 τινός|tinos|someone|G5100|IPro-GMS
-v35 Ἀνοίξας|Anoixas|vvv|G455|V-APA-NMS
+v35 Ἀνοίξας|Anoixas|...|G455|V-APA-NMS
 v35 δὲ|de|Then|G1161|Conj
 v35 ὁ|ho|-|G3588|Art-NMS
 v35 Φίλιππος|Philippos|Philip|G5376|N-NMS
@@ -664,7 +664,7 @@ v39 ἥρπασεν|hērpasen|carried|G726|V-AIA-3S
 v39 τὸν|ton|-|G3588|Art-AMS
 v39 Φίλιππον|Philippon|Philip {away}|G5376|N-AMS
 v39 καὶ|kai|and|G2532|Conj
-v39 οὐκ|ouk|vvv|G3756|Adv
+v39 οὐκ|ouk|...|G3756|Adv
 v39 εἶδεν|eiden|saw|G3708|V-AIA-3S
 v39 αὐτὸν|auton|him|G846|PPro-AM3S
 v39 οὐκέτι|ouketi|no more|G3765|Adv

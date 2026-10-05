@@ -72,7 +72,7 @@ v4 וְלֹ֣א|wə·lō|but you have not|H3808|Conj-w | Adv-NegPrt
 v4 שְׁמַעְתֶּ֑ם|šə·ma‘·tem|listened|H8085|V-Qal-Perf-2mp
 v4 וְלֹֽא־|wə·lō-|[or]|H3808|Conj-w | Adv-NegPrt
 v4 הִטִּיתֶ֥ם|hiṭ·ṭî·ṯem|inclined|H5186|V-Hifil-Perf-2mp
-v4 אֶֽת־|’eṯ-||H853|DirObjM
+v4 אֶֽת־|’eṯ-|-|H853|DirObjM
 v4 אָזְנְכֶ֖ם|’ā·zə·nə·ḵem|your ear|H241|N-fsc | 2mp
 v4 לִשְׁמֹֽעַ׃|liš·mō·a‘|to hear|H8085|Prep-l | V-Qal-Inf
 v5 לֵאמֹ֗ר|lê·mōr|[The prophets] told [you]|H559|Prep-l | V-Qal-Inf
@@ -91,7 +91,7 @@ v5 נָתַ֧ן|nā·ṯan|the LORD has given|H5414|V-Qal-Perf-3ms
 v5 יְהוָ֛ה|Yah·weh|...|H3068|N-proper-ms
 v5 לָכֶ֖ם|lā·ḵem|to you|H0|Prep | 2mp
 v5 וְלַאֲבֽוֹתֵיכֶ֑ם|wə·la·’ă·ḇō·w·ṯê·ḵem|and your fathers|H1|Conj-w, Prep-l | N-mpc | 2mp
-v5 לְמִן־|lə·min-|vvv|H4480|Prep-l
+v5 לְמִן־|lə·min-|...|H4480|Prep-l
 v5 עוֹלָ֖ם|‘ō·w·lām|forever|H5769|N-ms
 v5 וְעַד־|wə·‘aḏ-|and|H5704|Conj-w | Prep
 v5 עוֹלָֽם׃|‘ō·w·lām|ever|H5769|N-ms
@@ -110,7 +110,7 @@ v6 בְּמַעֲשֵׂ֣ה|bə·ma·‘ă·śêh|with the works|H4639|Prep-b |
 v6 יְדֵיכֶ֔ם|yə·ḏê·ḵem|of your hands|H3027|N-fdc | 2mp
 v6 וְלֹ֥א|wə·lō|Then I will do you no|H3808|Conj-w | Adv-NegPrt
 v6 אָרַ֖ע|’ā·ra‘|harm|H7489|V-Hifil-Imperf-1cs
-v6 לָכֶֽם׃|lā·ḵem||H0|Prep | 2mp
+v6 לָכֶֽם׃|lā·ḵem|-|H0|Prep | 2mp
 v7 וְלֹֽא־|wə·lō-|you have not|H3808|Conj-w | Adv-NegPrt
 v7 שְׁמַעְתֶּ֥ם|šə·ma‘·tem|listened|H8085|V-Qal-Perf-2mp
 v7 אֵלַ֖י|’ê·lay|to Me|H413|Prep | 1cs
@@ -121,7 +121,7 @@ v7 הִכְעִסוּנִי|hiḵ·ʿi·sū·nī|you have provoked Me to anger|H
 v7 בְּמַעֲשֵׂ֥ה|bə·ma·‘ă·śêh|with the works|H4639|Prep-b | N-msc
 v7 יְדֵיכֶ֖ם|yə·ḏê·ḵem|of your hands|H3027|N-fdc | 2mp
 v7 לְרַ֥ע|lə·ra‘|But to your own harm|H7451|Prep-l | Adj-ms
-v7 לָכֶֽם׃ס|lā·ḵem||H0|Prep | 2mp
+v7 לָכֶֽם׃|lā·ḵem|-|H0|Prep | 2mp
 v8 לָכֵ֕ן|lā·ḵên|Therefore|H3651|Adv
 v8 כֹּ֥ה|kōh|this is what|H3541|Adv
 v8 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -205,7 +205,7 @@ v12 הַגּ֨וֹי|hag·gō·w|nation|H1471|Art | N-ms
 v12 הַה֧וּא|ha·hū|and that|H1931|Art | Pro-3ms
 v12 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v12 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
-v12 אֶת־|’eṯ-||H853|DirObjM
+v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 עֲוֺנָ֖ם|‘ă·wō·nām|for their guilt|H5771|N-csc | 3mp
 v12 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v12 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fsc
@@ -221,7 +221,7 @@ v13 הַהִ֔יא|ha·hî|that|H1931|Art | Pro-3fs
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 כָּל־|kāl-|all|H3605|N-msc
 v13 דְּבָרַ֖י|də·ḇā·ray|the words|H1697|N-mpc | 1cs
-v13 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v13 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v13 דִּבַּ֣רְתִּי|dib·bar·tî|I have pronounced|H1696|V-Piel-Perf-1cs
 v13 עָלֶ֑יהָ|‘ā·le·hā|against it|H5921|Prep | 3fs
 v13 אֵ֤ת|’êṯ|-|H853|DirObjM
@@ -237,8 +237,8 @@ v13 כָּל־|kāl-|all|H3605|N-msc
 v13 הַגּוֹיִֽם׃|hag·gō·w·yim|the nations|H1471|Art | N-mp
 v14 כִּ֣י|kî|For|H3588|Conj
 v14 עָֽבְדוּ־|‘ā·ḇə·ḏū-|will enslave|H5647|V-Qal-Perf-3cp
-v14 בָ֤ם|ḇām||H0|Prep | 3mp
-v14 גַּם־|gam-||H1571|Conj
+v14 בָ֤ם|ḇām|-|H0|Prep | 3mp
+v14 גַּם־|gam-|-|H1571|Conj
 v14 הֵ֙מָּה֙|hêm·māh|them|H1992|Pro-3mp
 v14 גּוֹיִ֣ם|gō·w·yim|nations|H1471|N-mp
 v14 רַבִּ֔ים|rab·bîm|many|H7227|Adj-mp
@@ -248,7 +248,7 @@ v14 וְשִׁלַּמְתִּ֥י|wə·šil·lam·tî|and I will repay|H7999|Co
 v14 לָהֶ֛ם|lā·hem|them|H0|Prep | 3mp
 v14 כְּפָעֳלָ֖ם|kə·p̄ā·‘o·lām|according to their deeds|H6467|Prep-k | N-msc | 3mp
 v14 וּכְמַעֲשֵׂ֥ה|ū·ḵə·ma·‘ă·śêh|and according to the work|H4639|Conj-w, Prep-k | N-msc
-v14 יְדֵיהֶֽם׃ס|yə·ḏê·hem|of their hands|H3027|N-fdc | 3mp
+v14 יְדֵיהֶֽם׃|yə·ḏê·hem|of their hands|H3027|N-fdc | 3mp
 v15 כִּ֣י|kî|-|H3588|Conj
 v15 כֹה֩|ḵōh|This is what|H3541|Adv
 v15 אָמַ֨ר|’ā·mar|said|H559|V-Qal-Perf-3ms
@@ -329,12 +329,12 @@ v20 הָעֶ֔רֶב|hā·‘e·reḇ|the mixed tribes|H6154|Art | N-ms
 v20 וְאֵ֕ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v20 כָּל־|kāl-|all|H3605|N-msc
 v20 מַלְכֵ֖י|mal·ḵê|the kings|H4428|N-mpc
-v20 אֶ֣רֶץ|’e·reṣ|vvv|H776|N-fsc
+v20 אֶ֣רֶץ|’e·reṣ|...|H776|N-fsc
 v20 הָע֑וּץ|hā·‘ūṣ|of Uz|H5780|Art | N-proper-fs
 v20 וְאֵ֗ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v20 כָּל־|kāl-|all|H3605|N-msc
 v20 מַלְכֵי֙|mal·ḵê|the kings|H4428|N-mpc
-v20 אֶ֣רֶץ|’e·reṣ|vvv|H776|N-fsc
+v20 אֶ֣רֶץ|’e·reṣ|...|H776|N-fsc
 v20 פְּלִשְׁתִּ֔ים|pə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v20 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v20 אַשְׁקְל֤וֹן|’aš·qə·lō·wn|Ashkelon|H831|N-proper-ms
@@ -460,7 +460,7 @@ v29 בָעִ֜יר|ḇā·‘îr|on the city|H5892|Prep-b, Art | N-fs
 v29 אֲשֶׁ֧ר|’ă·šer|that|H834|Pro-r
 v29 נִֽקְרָא־|niq·rā-|bears|H7121|V-Nifal-Perf-3ms
 v29 שְׁמִ֣י|šə·mî|My Name|H8034|N-msc | 1cs
-v29 עָלֶ֗יהָ|‘ā·le·hā||H5921|Prep | 3fs
+v29 עָלֶ֗יהָ|‘ā·le·hā|-|H5921|Prep | 3fs
 v29 אָֽנֹכִי֙|’ā·nō·ḵî|I|H595|Pro-1cs
 v29 מֵחֵ֣ל|mê·ḥêl|am beginning|H2490|V-Hifil-Prtcpl-ms
 v29 לְהָרַ֔ע|lə·hā·ra‘|to bring disaster|H7489|Prep-l | V-Hifil-Inf
@@ -524,7 +524,7 @@ v31 הָרְשָׁעִ֛ים|hā·rə·šā·‘îm|the wicked|H7563|Art | Adj-m
 v31 נְתָנָ֥ם|nə·ṯā·nām|and puts|H5414|V-Qal-Perf-3ms | 3mp
 v31 לַחֶ֖רֶב|la·ḥe·reḇ|to the sword|H2719|Prep-l, Art | N-fs
 v31 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v31 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v31 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v32 כֹּ֤ה|kōh|This is what|H3541|Adv
 v32 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v32 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -612,4 +612,4 @@ v38 חֲר֣וֹן|ḥă·rō·wn|the sword|H2740|N-msc
 v38 הַיּוֹנָ֔ה|hay·yō·w·nāh|of the oppressor|H3238|Art | V-Qal-Prtcpl-fs
 v38 וּמִפְּנֵ֖י|ū·mip·pə·nê|and because|H6440|Conj-w, Prep-m | N-cpc
 v38 חֲר֥וֹן|ḥă·rō·wn|of the fierce|H2740|N-msc
-v38 אַפּֽוֹ׃פ|’ap·pōw|anger [of the LORD]|H639|N-msc | 3ms
+v38 אַפּֽוֹ׃|’ap·pōw|anger [of the LORD]|H639|N-msc | 3ms

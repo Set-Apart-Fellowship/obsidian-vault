@@ -114,7 +114,7 @@ v8 κατηγοροῦμεν|katēgoroumen|charges|G2723|V-PIA-1P
 v8 αὐτοῦ|autou|[against] him|G846|PPro-GM3S
 v9 Συνεπέθεντο|Synepethento|concurred|G4934|V-AIM-3P
 v9 δὲ|de|-|G1161|Conj
-v9 καὶ|kai|vvv|G2532|Conj
+v9 καὶ|kai|...|G2532|Conj
 v9 οἱ|hoi|The|G3588|Art-NMP
 v9 Ἰουδαῖοι|Ioudaioi|Jews|G2453|Adj-NMP
 v9 φάσκοντες|phaskontes|asserting that|G5335|V-PPA-NMP
@@ -188,8 +188,8 @@ v13 παραστῆσαι|parastēsai|prove|G3936|V-ANA
 v13 δύνανταί|dynantai|can they|G1410|V-PIM/P-3P
 v13 σοι|soi|to you|G4771|PPro-D2S
 v13 περὶ|peri|[any of]|G4012|Prep
-v13 ὧν|hōn|vvv|G3739|RelPro-GNP
-v13 νυνὶ|nyni|vvv|G3570|Adv
+v13 ὧν|hōn|...|G3739|RelPro-GNP
+v13 νυνὶ|nyni|...|G3570|Adv
 v13 κατηγοροῦσίν|katēgorousin|their charges against|G2723|V-PIA-3P
 v13 μου|mou|me|G1473|PPro-G1S
 v14 Ὁμολογῶ|Homologō|I do confess|G3670|V-PIA-1S
@@ -239,7 +239,7 @@ v15 καὶ|kai|and|G2532|Conj
 v15 ἀδίκων|adikōn|[the] wicked|G94|Adj-GMP
 v16 ἐν|en|In|G1722|Prep
 v16 τούτῳ|toutō|this [hope]|G3778|DPro-DNS
-v16 καὶ|kai|vvv|G2532|Conj
+v16 καὶ|kai|...|G2532|Conj
 v16 αὐτὸς|autos|I|G846|PPro-NM3S
 v16 ἀσκῶ|askō|strive|G778|V-PIA-1S
 v16 ἀπρόσκοπον|aproskopon|a clear|G677|Adj-AFS
@@ -274,11 +274,11 @@ v18 ἡγνισμένον|hēgnismenon|I was ceremonially clean|G48|V-RPM/P-AMS
 v18 ἐν|en|in|G1722|Prep
 v18 τῷ|tō|the|G3588|Art-DNS
 v18 ἱερῷ|hierō|temple|G2411|N-DNS
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 μετὰ|meta|[and] was not {inciting}|G3326|Prep
 v18 ὄχλου|ochlou|[a] crowd|G3793|N-GMS
 v18 οὐδὲ|oude|[or]|G3761|Conj
-v18 μετὰ|meta|vvv|G3326|Prep
+v18 μετὰ|meta|...|G3326|Prep
 v18 θορύβου|thorybou|an uproar|G2351|N-GMS
 v18 τινὲς|tines|some|G5101|IPro-NMP
 v18 δὲ|de|But [there are]|G1161|Conj
@@ -334,7 +334,7 @@ v22 δὲ|de|Then|G1161|Conj
 v22 αὐτοὺς|autous|...|G846|PPro-AM3P
 v22 ὁ|ho|-|G3588|Art-NMS
 v22 Φῆλιξ|Phēlix|Felix|G5344|N-NMS
-v22 ἀκριβέστερον|akribesteron|vvv|G199|Adj-ANS-C
+v22 ἀκριβέστερον|akribesteron|...|G199|Adj-ANS-C
 v22 εἰδὼς|eidōs|who was well informed|G1492|V-RPA-NMS
 v22 τὰ|ta|-|G3588|Art-ANP
 v22 περὶ|peri|about|G4012|Prep
@@ -347,8 +347,8 @@ v22 ὁ|ho|the|G3588|Art-NMS
 v22 χιλίαρχος|chiliarchos|commander|G5506|N-NMS
 v22 καταβῇ|katabē|comes|G2597|V-ASA-3S
 v22 διαγνώσομαι|diagnōsomai|I will decide|G1231|V-FIM-1S
-v22 τὰ|ta|vvv|G3588|Art-ANP
-v22 καθ’|kath’|vvv|G2596|Prep
+v22 τὰ|ta|...|G3588|Art-ANP
+v22 καθ’|kath’|...|G2596|Prep
 v22 ὑμᾶς|hymas|your case|G4771|PPro-A2P
 v23 διαταξάμενος|diataxamenos|He ordered|G1299|V-APM-NMS
 v23 τῷ|tō|the|G3588|Art-DMS
@@ -359,7 +359,7 @@ v23 ἔχειν|echein|to allow him|G2192|V-PNA
 v23 τε|te|[but]|G5037|Conj
 v23 ἄνεσιν|anesin|some freedom|G425|N-AFS
 v23 καὶ|kai|and|G2532|Conj
-v23 μηδένα|mēdena|vvv|G3367|Adj-AMS
+v23 μηδένα|mēdena|...|G3367|Adj-AMS
 v23 κωλύειν|kōlyein|permit|G2967|V-PNA
 v23 τῶν|tōn|-|G3588|Art-GMP
 v23 ἰδίων|idiōn|[friends]|G2398|Adj-GMP
@@ -367,7 +367,7 @@ v23 αὐτοῦ|autou|his|G846|PPro-GM3S
 v23 ὑπηρετεῖν|hypēretein|to minister|G5256|V-PNA
 v23 αὐτῷ|autō|to his [needs]|G846|PPro-DM3S
 v24 Μετὰ|Meta|After|G3326|Prep
-v24 δὲ|de|vvv|G1161|Conj
+v24 δὲ|de|...|G1161|Conj
 v24 ἡμέρας|hēmeras|days|G2250|N-AFP
 v24 τινὰς|tinas|several|G5100|IPro-AFP
 v24 παραγενόμενος|paragenomenos|returned|G3854|V-APM-NMS
@@ -438,7 +438,7 @@ v26 αὐτῷ|autō|with him|G846|PPro-DM3S
 v27 Διετίας|Dietias|two years|G1333|N-GFS
 v27 δὲ|de|[After]|G1161|Conj
 v27 πληρωθείσης|plērōtheisēs|had passed|G4137|V-APP-GFS
-v27 ἔλαβεν|elaben|vvv|G2983|V-AIA-3S
+v27 ἔλαβεν|elaben|...|G2983|V-AIA-3S
 v27 διάδοχον|diadochon|was succeeded by|G1240|N-AMS
 v27 ὁ|ho|-|G3588|Art-NMS
 v27 Φῆλιξ|Phēlix|Felix|G5344|N-NMS

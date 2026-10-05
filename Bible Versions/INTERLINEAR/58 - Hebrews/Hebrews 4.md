@@ -21,14 +21,14 @@ v2 εὐηγγελισμένοι|euēngelismenoi|received the good news|G2097|V-
 v2 καθάπερ|kathaper|just as|G2509|Adv
 v2 κἀκεῖνοι|kakeinoi|they [did]|G2548|DPro-NMP
 v2 ἀλλ’|all’|but|G235|Conj
-v2 οὐκ|ouk|vvv|G3756|Adv
+v2 οὐκ|ouk|...|G3756|Adv
 v2 ὠφέλησεν|ōphelēsen|was of no value|G5623|V-AIA-3S
 v2 ὁ|ho|the|G3588|Art-NMS
 v2 λόγος|logos|message|G3056|N-NMS
 v2 τῆς|tēs|-|G3588|Art-GFS
 v2 ἀκοῆς|akoēs|they heard|G189|N-GFS
 v2 ἐκείνους|ekeinous|to them|G1565|DPro-AMP
-v2 μὴ|mē|vvv|G3361|Adv
+v2 μὴ|mē|...|G3361|Adv
 v2 συγκεκερασμένους*|synkekerasmenous|since they did not share|G4786|V-RPM/P-AMP
 v2 τῇ|tē|the|G3588|Art-DFS
 v2 πίστει|pistei|faith|G4102|N-DFS
@@ -49,7 +49,7 @@ v3 ἐν|en|in|G1722|Prep
 v3 τῇ|tē|-|G3588|Art-DFS
 v3 ὀργῇ|orgē|anger|G3709|N-DFS
 v3 μου|mou|My|G1473|PPro-G1S
-v3 Εἰ|Ei|vvv|G1487|Conj
+v3 Εἰ|Ei|...|G1487|Conj
 v3 εἰσελεύσονται|eiseleusontai|They shall never enter|G1525|V-FIM-3P
 v3 εἰς|eis|...|G1519|Prep
 v3 τὴν|tēn|-|G3588|Art-AFS
@@ -87,7 +87,7 @@ v5 καὶ|kai|And|G2532|Conj
 v5 ἐν|en|[as He says] in|G1722|Prep
 v5 τούτῳ|toutō|[the passage above]|G3778|DPro-DMS
 v5 πάλιν|palin|again|G3825|Adv
-v5 Εἰ|Ei|vvv|G1487|Conj
+v5 Εἰ|Ei|...|G1487|Conj
 v5 εἰσελεύσονται|eiseleusontai|They shall never enter|G1525|V-FIM-3P
 v5 εἰς|eis|...|G1519|Prep
 v5 τὴν|tēn|-|G3588|Art-AFS
@@ -104,11 +104,11 @@ v6 καὶ|kai|and [since]|G2532|Conj
 v6 οἱ|hoi|those who|G3588|Art-NMP
 v6 πρότερον|proteron|formerly|G4386|Adv-C
 v6 εὐαγγελισθέντες|euangelisthentes|heard the good news|G2097|V-APP-NMP
-v6 οὐκ|ouk|vvv|G3756|Adv
+v6 οὐκ|ouk|...|G3756|Adv
 v6 εἰσῆλθον|eisēlthon|did not enter|G1525|V-AIA-3P
 v6 δι’|di’|because of|G1223|Prep
 v6 ἀπείθειαν|apeitheian|[their] disobedience|G543|N-AFS
-v7 πάλιν|palin|vvv|G3825|Adv
+v7 πάλιν|palin|...|G3825|Adv
 v7 τινὰ|tina|a certain|G5100|IPro-AFS
 v7 ὁρίζει|horizei|[God] again designated|G3724|V-PIA-3S
 v7 ἡμέραν|hēmeran|day [as]|G2250|N-AFS
@@ -137,8 +137,8 @@ v8 γὰρ|gar|For|G1063|Conj
 v8 αὐτοὺς|autous|...|G846|PPro-AM3P
 v8 Ἰησοῦς|Iēsous|Joshua|G2424|N-NMS
 v8 κατέπαυσεν|katepausen|had given them rest|G2664|V-AIA-3S
-v8 οὐκ|ouk|vvv|G3756|Adv
-v8 ἂν|an|vvv|G302|Prtcl
+v8 οὐκ|ouk|...|G3756|Adv
+v8 ἂν|an|...|G302|Prtcl
 v8 περὶ|peri|about|G4012|Prep
 v8 ἄλλης|allēs|another|G243|Adj-GFS
 v8 ἐλάλει|elalei|[God] would not have spoken|G2980|V-IIA-3S
@@ -255,11 +255,11 @@ v14 Θεοῦ|Theou|of God|G2316|N-GMS
 v14 κρατῶμεν|kratōmen|let us hold firmly to|G2902|V-PSA-1P
 v14 τῆς|tēs|what|G3588|Art-GFS
 v14 ὁμολογίας|homologias|we profess|G3671|N-GFS
-v15 οὐ|ou|vvv|G3756|Adv
+v15 οὐ|ou|...|G3756|Adv
 v15 γὰρ|gar|For|G1063|Conj
 v15 ἔχομεν|echomen|we do not have|G2192|V-PIA-1P
 v15 ἀρχιερέα|archierea|a high priest|G749|N-AMS
-v15 μὴ|mē|vvv|G3361|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 δυνάμενον|dynamenon|who is unable|G1410|V-PPM/P-AMS
 v15 συμπαθῆσαι|sympathēsai|to sympathize|G4834|V-ANA
 v15 ταῖς|tais|with|G3588|Art-DFP
@@ -274,7 +274,7 @@ v15 ὁμοιότητα|homoiotēta|[we are]|G3665|N-AFS
 v15 χωρὶς|chōris|[yet was] without|G5565|Prep
 v15 ἁμαρτίας|hamartias|sin|G266|N-GFS
 v16 προσερχώμεθα|proserchōmetha|Let us then approach|G4334|V-PSM/P-1P
-v16 οὖν|oun|vvv|G3767|Conj
+v16 οὖν|oun|...|G3767|Conj
 v16 μετὰ|meta|with|G3326|Prep
 v16 παρρησίας|parrēsias|confidence|G3954|N-GFS
 v16 τῷ|tō|the|G3588|Art-DMS

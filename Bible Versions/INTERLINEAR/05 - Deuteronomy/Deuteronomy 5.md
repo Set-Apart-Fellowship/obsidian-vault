@@ -69,7 +69,7 @@ v5 הָאֵ֔שׁ|hā·’êš|the fire|H784|Art | N-cs
 v5 וְלֹֽא־|wə·lō-|and would not|H3808|Conj-w | Adv-NegPrt
 v5 עֲלִיתֶ֥ם|‘ă·lî·ṯem|go up|H5927|V-Qal-Perf-2mp
 v5 בָּהָ֖ר|bā·hār|the mountain|H2022|Prep-b, Art | N-ms
-v5 לֵאמֹֽר׃ס|lê·mōr|And He said|H559|Prep-l | V-Qal-Inf
+v5 לֵאמֹֽר׃|lê·mōr|And He said|H559|Prep-l | V-Qal-Inf
 v6 אָֽנֹכִי֙|’ā·nō·ḵî|I|H595|Pro-1cs
 v6 יְהוָ֣ה|Yah·weh|am the LORD|H3068|N-proper-ms
 v6 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
@@ -128,7 +128,7 @@ v10 חֶ֖֙סֶד֙|ḥe·seḏ|loving devotion|H2617|N-ms
 v10 לַֽאֲלָפִ֑֔ים|la·’ă·lā·p̄îm|to a thousand [generations]|H505|Prep-l | Number-mp
 v10 לְאֹהֲבַ֖י|lə·’ō·hă·ḇay|of those who love Me|H157|Prep-l | V-Qal-Prtcpl-mpc | 1cs
 v10 וּלְשֹׁמְרֵ֥י|ū·lə·šō·mə·rê|and keep|H8104|Conj-w, Prep-l | V-Qal-Prtcpl-mpc
-v10 מִצְוֹתוֹ׃ס|miṣ·wō·ṯō|My commandments|H4687|N-fpc | 1cs
+v10 מִצְוֹתוֹ׃|miṣ·wō·ṯō|My commandments|H4687|N-fpc | 1cs
 v11 לֹ֥א|lō|You shall not|H3808|Adv-NegPrt
 v11 תִשָּׂ֛א|ṯiś·śā|take|H5375|V-Qal-Imperf-2ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
@@ -145,7 +145,7 @@ v11 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
 v11 יִשָּׂ֥א|yiś·śā|takes|H5375|V-Qal-Imperf-3ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 שְׁמ֖וֹ|šə·mōw|His name|H8034|N-msc | 3ms
-v11 לַשָּֽׁוְא׃ס|laš·šāw|in vain|H7723|Prep-l, Art | N-ms
+v11 לַשָּֽׁוְא׃|laš·šāw|in vain|H7723|Prep-l, Art | N-ms
 v12 שָׁמ֣֛וֹר|šā·mō·wr|Observe|H8104|V-Qal-InfAbs
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 י֥וֹם֩|yō·wm|day|H3117|N-msc
@@ -209,7 +209,7 @@ v15 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v15 לַעֲשׂ֖וֹת|la·‘ă·śō·wṯ|you to keep|H6213|Prep-l | V-Qal-Inf
 v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 י֥וֹם|yō·wm|day|H3117|N-msc
-v15 הַשַׁבָּֽת׃ס|ha·šab·bå̄ṯ|the Sabbath|H7676|Art | N-cs
+v15 הַשַׁבָּֽת׃|ha·šab·bå̄ṯ|the Sabbath|H7676|Art | N-cs
 v16 כַּבֵּ֤ד|kab·bêḏ|Honor|H3513|V-Piel-Imp-ms
 v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 אָבִ֙יךָ֙|’ā·ḇî·ḵā|your father|H1|N-msc | 2ms
@@ -231,18 +231,18 @@ v16 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v16 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v16 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v16 נֹתֵ֥ן|nō·ṯên|is giving|H5414|V-Qal-Prtcpl-ms
-v16 לָֽךְ׃ס|lāḵ|you|H0|Prep | 2ms
+v16 לָֽךְ׃|lāḵ|you|H0|Prep | 2ms
 v17 לֹ֥֖א|lō|You shall not|H3808|Adv-NegPrt
-v17 תִּֿרְצָֽח׃ס|tir·ṣå̄ḥ|murder|H7523|V-Qal-Imperf-2ms
+v17 תִּֿרְצָֽח׃|tir·ṣå̄ḥ|murder|H7523|V-Qal-Imperf-2ms
 v18 וְלֹ֖֣א|wə·lō|You shall not|H3808|Conj-w | Adv-NegPrt
-v18 תִּֿנְאָֽ֑ף׃ס|tin·ʾå̄p̄|commit adultery|H5003|V-Qal-Imperf-2ms
+v18 תִּֿנְאָֽ֑ף׃|tin·ʾå̄p̄|commit adultery|H5003|V-Qal-Imperf-2ms
 v19 וְלֹ֖֣א|wə·lō|You shall not|H3808|Conj-w | Adv-NegPrt
-v19 תִּֿגְנֹֽ֔ב׃ס|tiḡ·nōḇ|steal|H1589|V-Qal-Imperf-2ms
+v19 תִּֿגְנֹֽ֔ב׃|tiḡ·nōḇ|steal|H1589|V-Qal-Imperf-2ms
 v20 וְלֹֽא־|wə·lō-|You shall not|H3808|Conj-w | Adv-NegPrt
 v20 תַעֲנֶ֥ה|ṯa·‘ă·neh|bear|H6030|V-Qal-Imperf-2ms
 v20 בְרֵֽעֲךָ֖|ḇə·rê·‘ă·ḵā|against your neighbor|H7453|Prep-b | N-msc | 2ms
 v20 עֵ֥ד|‘êḏ|witness|H5707|N-msc
-v20 שָֽׁוְא׃ס|šāw|false|H7723|N-ms
+v20 שָֽׁוְא׃|šāw|false|H7723|N-ms
 v21 וְלֹ֥א|wə·lō|You shall not|H3808|Conj-w | Adv-NegPrt
 v21 תַחְמֹ֖ד|ṯaḥ·mōḏ|covet|H2530|V-Qal-Imperf-2ms
 v21 אֵ֣שֶׁת|’ê·šeṯ|wife|H802|N-fsc
@@ -258,7 +258,7 @@ v21 שׁוֹר֣וֹ|šō·w·rōw|or his ox|H7794|N-msc | 3ms
 v21 וַחֲמֹר֔וֹ|wa·ḥă·mō·rōw|or donkey|H2543|Conj-w | N-msc | 3ms
 v21 וְכֹ֖ל|wə·ḵōl|or anything|H3605|Conj-w | N-ms
 v21 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
-v21 לְרֵעֶֽךָ׃ס|lə·rê·‘e·ḵā|belongs to your neighbor|H7453|Prep-l | N-msc | 2ms
+v21 לְרֵעֶֽךָ׃|lə·rê·‘e·ḵā|belongs to your neighbor|H7453|Prep-l | N-msc | 2ms
 v22 אֶֽת־|’eṯ-|-|H853|DirObjM
 v22 הַדְּבָרִ֣ים|had·də·ḇā·rîm|commandments|H1697|Art | N-mp
 v22 הָאֵ֡לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
@@ -354,7 +354,7 @@ v26 הָאֵ֛שׁ|hā·’êš|the fire|H784|Art | N-cs
 v26 כָּמֹ֖נוּ|kā·mō·nū|as we [have]|H3644|Prep | 1cp
 v26 וַיֶּֽחִי׃|way·ye·ḥî|and survived|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v27 קְרַ֤ב|qə·raḇ|Go near|H7126|V-Qal-Imp-ms
-v27 אַתָּה֙|’at·tāh||H859|Pro-2ms
+v27 אַתָּה֙|’at·tāh|-|H859|Pro-2ms
 v27 וּֽשֲׁמָ֔ע|ū·šă·mā‘|and listen|H8085|Conj-w | V-Qal-Imp-ms
 v27 אֵ֛ת|’êṯ|-|H853|DirObjM
 v27 כָּל־|kāl-|to all|H3605|N-msc
@@ -464,7 +464,7 @@ v33 תֵּלֵ֑כוּ|tê·lê·ḵū|You must walk|H1980|V-Qal-Imperf-2mp
 v33 לְמַ֤עַן|lə·ma·‘an|so that|H4616|Conj
 v33 תִּֽחְיוּן֙|tiḥ·yūn|you may live|H2421|V-Qal-Imperf-2mp | Pn
 v33 וְט֣וֹב|wə·ṭō·wḇ|and prosper|H2895|Conj-w | V-Qal-ConjPerf-3ms
-v33 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v33 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v33 וְהַאֲרַכְתֶּ֣ם|wə·ha·’ă·raḵ·tem|and prolong|H748|Conj-w | V-Hifil-ConjPerf-2mp
 v33 יָמִ֔ים|yā·mîm|[your] days|H3117|N-mp
 v33 בָּאָ֖רֶץ|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs

@@ -51,7 +51,7 @@ v3 ἠργάζετο*|ērgazeto|worked|G2038|V-IIM/P-3S
 v3 ἦσαν|ēsan|they were|G1510|V-IIA-3P
 v3 γὰρ|gar|-|G1063|Conj
 v3 σκηνοποιοὶ|skēnopoioi|tentmakers|G4635|N-NMP
-v3 τῇ|tē|vvv|G3588|Art-DFS
+v3 τῇ|tē|...|G3588|Art-DFS
 v3 τέχνῃ|technē|by trade|G5078|N-DFS
 v4 Διελέγετο|Dielegeto|he reasoned|G1256|V-IIM/P-3S
 v4 δὲ|de|-|G1161|Conj
@@ -261,9 +261,9 @@ v14 ῥᾳδιούργημα|rhadiourgēma|crime|G4467|N-NNS
 v14 πονηρόν|ponēron|vicious|G4190|Adj-NNS
 v14 ὦ|ō|O|G5599|I
 v14 Ἰουδαῖοι|Ioudaioi|Jews|G2453|Adj-VMP
-v14 κατὰ|kata|vvv|G2596|Prep
+v14 κατὰ|kata|...|G2596|Prep
 v14 λόγον|logon|it would be reasonable|G3056|N-AMS
-v14 ἂν|an|vvv|G302|Prtcl
+v14 ἂν|an|...|G302|Prtcl
 v14 ἀνεσχόμην|aneschomēn|for me to hear|G430|V-AIM-1S
 v14 ὑμῶν|hymōn|your [ complaint ]|G4771|PPro-G2P
 v15 εἰ|ei|since|G1487|Conj
@@ -276,8 +276,8 @@ v15 καὶ|kai|and|G2532|Conj
 v15 ὀνομάτων|onomatōn|names|G3686|N-GNP
 v15 καὶ|kai|and|G2532|Conj
 v15 νόμου|nomou|law|G3551|N-GMS
-v15 τοῦ|tou|vvv|G3588|Art-GMS
-v15 καθ’|kath’|vvv|G2596|Prep
+v15 τοῦ|tou|...|G3588|Art-GMS
+v15 καθ’|kath’|...|G2596|Prep
 v15 ὑμᾶς|hymas|your own|G4771|PPro-A2P
 v15 ὄψεσθε|opsesthe|settle [it]|G3708|V-FIM-2P
 v15 αὐτοί|autoi|yourselves|G846|PPro-NM3P
@@ -323,7 +323,7 @@ v18 ἐξέπλει|exeplei|[and then] he sailed|G1602|V-IIA-3S
 v18 εἰς|eis|for|G1519|Prep
 v18 τὴν|tēn|-|G3588|Art-AFS
 v18 Συρίαν|Syrian|Syria|G4947|N-AFS
-v18 καὶ|kai|vvv|G2532|Conj
+v18 καὶ|kai|...|G2532|Conj
 v18 σὺν|syn|accompanied by|G4862|Prep
 v18 αὐτῷ|autō|-|G846|PPro-DM3S
 v18 Πρίσκιλλα|Priskilla|Priscilla|G4252|N-NFS
@@ -360,13 +360,13 @@ v20 ἐπὶ|epi|for|G1909|Prep
 v20 πλείονα|pleiona|a while longer|G4119|Adj-AMS-C
 v20 χρόνον|chronon|...|G5550|N-AMS
 v20 μεῖναι|meinai|to stay|G3306|V-ANA
-v20 οὐκ|ouk|vvv|G3756|Adv
+v20 οὐκ|ouk|...|G3756|Adv
 v20 ἐπένευσεν|epeneusen|he declined|G1962|V-AIA-3S
 v21 ἀλλὰ|alla|But|G235|Conj
 v21 ἀποταξάμενος|apotaxamenos|as he left|G657|V-APM-NMS
 v21 καὶ|kai|-|G2532|Conj
 v21 εἰπών|eipōn|he said|G2036|V-APA-NMS
-v21 Πάλιν|Palin|vvv|G3825|Adv
+v21 Πάλιν|Palin|...|G3825|Adv
 v21 ἀνακάμψω|anakampsō|I will come back|G344|V-FIA-1S
 v21 πρὸς|pros|to|G4314|Prep
 v21 ὑμᾶς|hymas|you|G4771|PPro-A2P

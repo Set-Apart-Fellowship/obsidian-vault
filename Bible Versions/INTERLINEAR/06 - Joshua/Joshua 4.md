@@ -12,7 +12,7 @@ v1 אֶל־|’el-|to|H413|Prep
 v1 יְהוֹשֻׁ֖עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v1 לֵאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v2 קְח֤וּ|qə·ḥū|Choose|H3947|V-Qal-Imp-mp
-v2 לָכֶם֙|lā·ḵem||H0|Prep | 2mp
+v2 לָכֶם֙|lā·ḵem|-|H0|Prep | 2mp
 v2 מִן־|min-|from among|H4480|Prep
 v2 הָעָ֔ם|hā·‘ām|the people|H5971|Art | N-ms
 v2 שְׁנֵ֥ים|šə·nêm|twelve|H8147|Number-md
@@ -46,8 +46,8 @@ v3 אוֹתָ֔ם|’ō·w·ṯām|-|H853|DirObjM | 3mp
 v3 בַּמָּל֕וֹן|bam·mā·lō·wn|in the place|H4411|Prep-b, Art | N-ms
 v3 אֲשֶׁר־|’ă·šer-|where|H834|Pro-r
 v3 תָּלִ֥ינוּ|tā·lî·nū|you spend|H3885|V-Qal-Imperf-2mp
-v3 ב֖וֹ|ḇōw||H0|Prep | 3ms
-v3 הַלָּֽיְלָה׃ס|hal·lā·yə·lāh|the night|H3915|Art | N-ms
+v3 ב֖וֹ|ḇōw|-|H0|Prep | 3ms
+v3 הַלָּֽיְלָה׃|hal·lā·yə·lāh|the night|H3915|Art | N-ms
 v4 וַיִּקְרָ֣א|way·yiq·rā|summoned|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v4 יְהוֹשֻׁ֗עַ|yə·hō·wō·šu·a‘|So Joshua|H3091|N-proper-ms
 v4 אֶל־|’el-|...|H413|Prep
@@ -75,7 +75,7 @@ v5 אֶל־|’el-|into|H413|Prep
 v5 תּ֣וֹךְ|tō·wḵ|the middle|H8432|N-msc
 v5 הַיַּרְדֵּ֑ן|hay·yar·dên|of the Jordan|H3383|Art | N-proper-fs
 v5 וְהָרִ֨ימוּ|wə·hā·rî·mū|of you is to take|H7311|Conj-w | V-Hifil-Imp-mp
-v5 לָכֶ֜ם|lā·ḵem||H0|Prep | 2mp
+v5 לָכֶ֜ם|lā·ḵem|-|H0|Prep | 2mp
 v5 אִ֣ישׁ|’îš|Each|H376|N-ms
 v5 אֶ֤בֶן|’e·ḇen|stone|H68|N-fs
 v5 אַחַת֙|’a·ḥaṯ|a|H259|Number-fs
@@ -83,7 +83,7 @@ v5 עַל־|‘al-|upon|H5921|Prep
 v5 שִׁכְמ֔וֹ|šiḵ·mōw|his shoulder|H7926|N-msc | 3ms
 v5 לְמִסְפַּ֖ר|lə·mis·par|according to the number|H4557|Prep-l | N-msc
 v5 שִׁבְטֵ֥י|šiḇ·ṭê|of the tribes|H7626|N-mpc
-v5 בְנֵי־|ḇə·nê-|vvv|H1121|N-mpc
+v5 בְנֵי־|ḇə·nê-|...|H1121|N-mpc
 v5 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v6 לְמַ֗עַן|lə·ma·‘an|to|H4616|Conj
 v6 תִּֽהְיֶ֛ה|tih·yeh|serve as|H1961|V-Qal-Imperf-3fs
@@ -120,7 +120,7 @@ v7 הָאֵ֧לֶּה|hā·’êl·leh|Therefore these|H428|Art | Pro-cp
 v7 לְזִכָּר֛וֹן|lə·zik·kā·rō·wn|a memorial|H2146|Prep-l | N-ms
 v7 לִבְנֵ֥י|liḇ·nê|to the Israelites|H1121|Prep-l | N-mpc
 v7 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
-v7 עַד־|‘aḏ-|vvv|H5704|Prep
+v7 עַד־|‘aḏ-|...|H5704|Prep
 v7 עוֹלָֽם׃|‘ō·w·lām|forever|H5769|N-ms
 v8 וַיַּעֲשׂוּ־|way·ya·‘ă·śū-|did|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v8 כֵ֣ן|ḵên|...|H3651|Adv
@@ -138,11 +138,11 @@ v8 הַיַּרְדֵּ֗ן|hay·yar·dên|of the Jordan|H3383|Art | N-proper-fs
 v8 כַּאֲשֶׁ֨ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v8 דִּבֶּ֤ר|dib·ber|had told|H1696|V-Piel-Perf-3ms
 v8 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
-v8 אֶל־|’el-||H413|Prep
+v8 אֶל־|’el-|-|H413|Prep
 v8 יְהוֹשֻׁ֔עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v8 לְמִסְפַּ֖ר|lə·mis·par|one for each|H4557|Prep-l | N-msc
 v8 שִׁבְטֵ֣י|šiḇ·ṭê|tribe|H7626|N-mpc
-v8 בְנֵֽי־|ḇə·nê-|vvv|H1121|N-mpc
+v8 בְנֵֽי־|ḇə·nê-|...|H1121|N-mpc
 v8 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v8 וַיַּעֲבִר֤וּם|way·ya·‘ă·ḇi·rūm|and they carried|H5674|Conj-w | V-Hifil-ConsecImperf-3mp | 3mp
 v8 עִמָּם֙|‘im·mām|them|H5973|Prep | 3mp
@@ -234,7 +234,7 @@ v13 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v13 לַמִּלְחָמָ֔ה|lam·mil·ḥā·māh|for battle|H4421|Prep-l, Art | N-fs
 v13 אֶ֖ל|’el|into|H413|Prep
 v13 עַֽרְב֥וֹת|‘ar·ḇō·wṯ|the plains|H6160|N-fpc
-v13 יְרִיחֽוֹ׃ס|yə·rî·ḥōw|of Jericho|H3405|N-proper-fs
+v13 יְרִיחֽוֹ׃|yə·rî·ḥōw|of Jericho|H3405|N-proper-fs
 v14 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v14 הַה֗וּא|ha·hū|On that|H1931|Art | Pro-3ms
 v14 גִּדַּ֤ל|gid·dal|exalted|H1431|V-Piel-Perf-3ms
@@ -252,7 +252,7 @@ v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 מֹשֶׁ֖ה|mō·šeh|Moses|H4872|N-proper-ms
 v14 כָּל־|kāl-|all|H3605|N-msc
 v14 יְמֵ֥י|yə·mê|the days|H3117|N-mpc
-v14 חַיָּֽיו׃פ|ḥay·yāw|of his life|H2416|N-mpc | 3ms
+v14 חַיָּֽיו׃|ḥay·yāw|of his life|H2416|N-mpc | 3ms
 v15 וַיֹּ֣אמֶר|way·yō·mer|said to|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 יְהוָ֔ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v15 אֶל־|’el-|...|H413|Prep
@@ -288,7 +288,7 @@ v18 נִתְּק֗וּ|nit·tə·qū|touched|H5423|V-Nifal-Perf-3cp
 v18 כַּפּוֹת֙|kap·pō·wṯ|feet|H3709|N-fpc
 v18 רַגְלֵ֣י|raḡ·lê|...|H7272|N-fdc
 v18 הַכֹּהֲנִ֔ים|hak·kō·hă·nîm|and their|H3548|Art | N-mp
-v18 אֶ֖ל|’el||H413|Prep
+v18 אֶ֖ל|’el|-|H413|Prep
 v18 הֶחָרָבָ֑ה|he·ḥā·rā·ḇāh|the dry land|H2724|Art | N-fs
 v18 וַיָּשֻׁ֤בוּ|way·yā·šu·ḇū|returned|H7725|Conj-w | V-Qal-ConsecImperf-3mp
 v18 מֵֽי־|mê-|the waters|H4325|N-mpc
@@ -297,7 +297,7 @@ v18 לִמְקוֹמָ֔ם|lim·qō·w·mām|to their course|H4725|Prep-l | N-ms
 v18 וַיֵּלְכ֥וּ|way·yê·lə·ḵū|and overflowed|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v18 כִתְמוֹל־|ḵiṯ·mō·wl-|as before|H8543|Prep-k | Adv
 v18 שִׁלְשׁ֖וֹם|šil·šō·wm|...|H8032|Adv
-v18 עַל־|‘al-||H5921|Prep
+v18 עַל־|‘al-|-|H5921|Prep
 v18 כָּל־|kāl-|all|H3605|N-msc
 v18 גְּדוֹתָֽיו׃|gə·ḏō·w·ṯāw|the banks|H1415|N-fpc | 3ms
 v19 וְהָעָ֗ם|wə·hā·‘ām|the people|H5971|Conj-w, Art | N-ms
@@ -375,7 +375,7 @@ v24 דַּ֜עַת|da·‘aṯ|may know|H3045|V-Qal-Inf
 v24 כָּל־|kāl-|all|H3605|N-msc
 v24 עַמֵּ֤י|‘am·mê|the peoples|H5971|N-mpc
 v24 הָאָ֙רֶץ֙|hā·’ā·reṣ|of the earth|H776|Art | N-fs
-v24 אֶת־|’eṯ-||H853|DirObjM
+v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 יַ֣ד|yaḏ|the hand|H3027|N-fsc
 v24 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v24 כִּ֥י|kî|that|H3588|Conj
@@ -387,4 +387,4 @@ v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v24 אֱלֹהֵיכֶ֖ם|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
 v24 כָּל־|kāl-|you may always|H3605|N-msc
-v24 הַיָּמִֽים׃ס|hay·yā·mîm|...|H3117|Art | N-mp
+v24 הַיָּמִֽים׃|hay·yā·mîm|...|H3117|Art | N-mp

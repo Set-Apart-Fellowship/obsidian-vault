@@ -36,7 +36,7 @@ v3 וּרְבִעִית֙|ū·rə·ḇi·‘îṯ|and they spent another quarter
 v3 מִתְוַדִּ֣ים|miṯ·wad·dîm|in confession|H3034|V-Hitpael-Prtcpl-mp
 v3 וּמִֽשְׁתַּחֲוִ֔ים|ū·miš·ta·ḥă·wîm|and worship|H7812|Conj-w | V-Hitpael-Prtcpl-mp
 v3 לַיהוָ֖ה|Yah·weh|of the LORD|H3068|Prep-l | N-proper-ms
-v3 אֱלֹהֵיהֶֽם׃פ|’ĕ·lō·hê·hem|their God|H430|N-mpc | 3mp
+v3 אֱלֹהֵיהֶֽם׃|’ĕ·lō·hê·hem|their God|H430|N-mpc | 3mp
 v4 וַיָּ֜קָם|way·yā·qām|stood|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v4 עַֽל־|‘al-|on|H5921|Prep
 v4 מַֽעֲלֵ֣ה|ma·‘ă·lêh|the raised platform|H4608|N-msc
@@ -202,11 +202,11 @@ v12 אֵשׁ֙|’êš|of fire|H784|N-cs
 v12 לַ֔יְלָה|lay·lāh|by night|H3915|N-ms
 v12 לְהָאִ֣יר|lə·hā·’îr|to light|H215|Prep-l | V-Hifil-Inf
 v12 לָהֶ֔ם|lā·hem|for them|H0|Prep-l | Pro-3mp
-v12 אֶת־|’eṯ-||H853|DirObjM
+v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 הַדֶּ֖רֶךְ|had·de·reḵ|the way|H1870|Art | N-cs
 v12 אֲשֶׁ֥ר|’ă·šer|in which|H834|Pro-r
 v12 יֵֽלְכוּ־|yê·lə·ḵū-|they should travel|H1980|V-Qal-Imperf-3mp
-v12 בָֽהּ׃|ḇāh||H0|Prep | 3fs
+v12 בָֽהּ׃|ḇāh|-|H0|Prep | 3fs
 v13 וְעַ֤ל|wə·‘al|on|H5921|Conj-w | Prep
 v13 הַר־|har-|Mount|H2022|N-msc
 v13 סִינַי֙|sî·nay|Sinai|H5514|N-proper-fs
@@ -321,7 +321,7 @@ v19 עַמּ֣וּד|‘am·mūḏ|the pillar|H5982|N-msc
 v19 הֶ֠עָנָן|he·‘ā·nān|of cloud|H6051|Art | N-ms
 v19 לֹא־|lō-|never|H3808|Adv-NegPrt
 v19 סָ֨ר|sār|turned away|H5493|V-Qal-Perf-3ms
-v19 מֵעֲלֵיהֶ֤ם|mê·‘ă·lê·hem|vvv|H5921|Prep-m | 3mp
+v19 מֵעֲלֵיהֶ֤ם|mê·‘ă·lê·hem|...|H5921|Prep-m | 3mp
 v19 בְּיוֹמָם֙|bə·yō·w·mām|By day|H3119|Prep-b | Adv
 v19 לְהַנְחֹתָ֣ם|lə·han·ḥō·ṯām|from guiding them|H5148|Prep-l | V-Hifil-Inf | 3mp
 v19 בְּהַדֶּ֔רֶךְ|bə·had·de·reḵ|on their path|H1870|Prep-b, Art | N-cs
@@ -330,12 +330,12 @@ v19 עַמּ֨וּד|‘am·mūḏ|the pillar|H5982|N-msc
 v19 הָאֵ֤שׁ|hā·’êš|of fire|H784|Art | N-cs
 v19 בְּלַ֙יְלָה֙|bə·lay·lāh|and by the night|H3915|Prep-b | N-ms
 v19 לְהָאִ֣יר|lə·hā·’îr|illuminated|H215|Prep-l | V-Hifil-Inf
-v19 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v19 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v19 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v19 הַדֶּ֖רֶךְ|had·de·reḵ|the way|H1870|Art | N-cs
 v19 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v19 יֵֽלְכוּ־|yê·lə·ḵū-|they should go|H1980|V-Qal-Imperf-3mp
-v19 בָֽהּ׃|ḇāh||H0|Prep | 3fs
+v19 בָֽהּ׃|ḇāh|-|H0|Prep | 3fs
 v20 וְרוּחֲךָ֨|wə·rū·ḥă·ḵā|Spirit|H7307|Conj-w | N-csc | 2ms
 v20 הַטּוֹבָ֔ה|haṭ·ṭō·w·ḇāh|Your good|H2896|Art | Adj-fs
 v20 נָתַ֖תָּ|nā·ṯa·tā|You gave|H5414|V-Qal-Perf-2ms
@@ -371,7 +371,7 @@ v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fsc
 v22 סִיח֗וֹן|sî·ḥō·wn|of Sihon|H5511|N-proper-ms
 v22 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v22 אֶ֙רֶץ֙|’e·reṣ||H776|N-fsc
+v22 אֶ֙רֶץ֙|’e·reṣ|-|H776|N-fsc
 v22 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v22 חֶשְׁבּ֔וֹן|ḥeš·bō·wn|of Heshbon|H2809|N-proper-fs
 v22 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -475,7 +475,7 @@ v27 וְיוֹשִׁיע֖וּם|wə·yō·wō·šî·‘ūm|who saved them|H346
 v27 מִיַּ֥ד|mî·yaḏ|from the hands|H3027|Prep-m | N-fsc
 v27 צָרֵיהֶֽם׃|ṣā·rê·hem|of their enemies|H6862|N-mpc | 3mp
 v28 וּכְנ֣וֹחַ|ū·ḵə·nō·w·aḥ|But as soon as they had rest|H5117|Conj-w, Prep-k | V-Qal-Inf
-v28 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v28 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v28 יָשׁ֕וּבוּ|yā·šū·ḇū|they again|H7725|V-Qal-Imperf-3mp
 v28 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|did|H6213|Prep-l | V-Qal-Inf
 v28 רַ֖ע|ra‘|evil|H7451|Adj-ms
@@ -501,7 +501,7 @@ v29 אֶל־|’el-|to|H413|Prep
 v29 תּוֹרָתֶ֗ךָ|tō·w·rā·ṯe·ḵā|Your law|H8451|N-fsc | 2ms
 v29 וְהֵ֨מָּה|wə·hêm·māh|but they|H1992|Conj-w | Pro-3mp
 v29 הֵזִ֜ידוּ|hê·zî·ḏū|were arrogant|H2102|V-Hifil-Perf-3cp
-v29 וְלֹא־|wə·lō-|vvv|H3808|Conj-w | Adv-NegPrt
+v29 וְלֹא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v29 שָׁמְע֤וּ|šā·mə·‘ū|and disobeyed|H8085|V-Qal-Perf-3cp
 v29 לְמִצְוֺתֶ֙יךָ֙|lə·miṣ·wō·ṯe·ḵā|Your commandments|H4687|Prep-l | N-fpc | 2ms
 v29 וּבְמִשְׁפָּטֶ֣יךָ|ū·ḇə·miš·pā·ṭe·ḵā|Your ordinances|H4941|Conj-w, Prep-b | N-mpc | 2ms
@@ -511,7 +511,7 @@ v29 אֲשֶׁר־|’ă·šer-|them|H834|Pro-r
 v29 יַעֲשֶׂ֥ה|ya·‘ă·śeh|if he practices|H6213|V-Qal-Imperf-3ms
 v29 אָדָ֖ם|’ā·ḏām|by which a man|H120|N-ms
 v29 וְחָיָ֣ה|wə·ḥā·yāh|will live|H2421|Conj-w | V-Qal-ConjPerf-3ms
-v29 בָהֶ֑ם|ḇā·hem||H0|Prep | 3mp
+v29 בָהֶ֑ם|ḇā·hem|-|H0|Prep | 3mp
 v29 וַיִּתְּנ֤וּ|way·yit·tə·nū|They turned|H5414|Conj-w | V-Qal-ConsecImperf-3mp
 v29 כָתֵף֙|ḵā·ṯêp̄|shoulder|H3802|N-fs
 v29 סוֹרֶ֔רֶת|sō·w·re·reṯ|a stubborn|H5637|V-Qal-Prtcpl-fs
@@ -653,7 +653,7 @@ v37 וּבִבְהֶמְתֵּ֙נוּ֙|ū·ḇiḇ·hem·tê·nū|and our live
 v37 כִּרְצוֹנָ֔ם|kir·ṣō·w·nām|as they please|H7522|Prep-k | N-msc | 3mp
 v37 וּבְצָרָ֥ה|ū·ḇə·ṣā·rāh|distress|H6869|Conj-w, Prep-b | N-fs
 v37 גְדוֹלָ֖ה|ḡə·ḏō·w·lāh|are in great|H1419|Adj-fs
-v37 אֲנָֽחְנוּ׃פ|’ă·nā·ḥə·nū|We|H587|Pro-1cp
+v37 אֲנָֽחְנוּ׃|’ă·nā·ḥə·nū|We|H587|Pro-1cp
 v38 וּבְכָל־|ū·ḇə·ḵāl|In view of all|H3605|Conj-w, Prep-b | N-msc
 v38 זֹ֕את|zōṯ|this|H2063|Pro-fs
 v38 אֲנַ֛חְנוּ|’ă·naḥ·nū|we|H587|Pro-1cp

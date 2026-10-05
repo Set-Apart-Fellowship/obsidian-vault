@@ -7,10 +7,10 @@ v1 לְדָוִ֣ד|lə·ḏā·wiḏ|of David|H1732|Prep-l | N-proper-ms
 v1 לְלַמֵּֽד׃|lə·lam·mêḏ|for instruction|H3925|Prep-l | V-Piel-Inf
 v1 בְּהַצּוֹת֨וֹ׀|bə·haṣ·ṣō·w·ṯōw|When he fought|H5327|Prep-b | V-Hifil-Inf | 3ms
 v1 אֶ֥ת|’eṯ|-|H853|Prep
-v1 אֲרַ֣ם|’ă·ram|vvv|H763|
+v1 אֲרַ֣ם|’ă·ram|...|H763|
 v1 נַהֲרַיִם֮|na·hă·ra·yim|Aram-naharaim|H763|N-proper-fs
 v1 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | Prep
-v1 אֲרַ֪ם|’ă·ram|vvv|H760|
+v1 אֲרַ֪ם|’ă·ram|...|H760|
 v1 צ֫וֹבָ֥ה|ṣō·w·ḇāh|and Aram-zobah|H760|N-proper-fs
 v1 וַיָּ֤שָׁב|way·yā·šāḇ|returned|H7725|Conj-w | V-Qal-ConsecImperf-3ms
 v1 יוֹאָ֗ב|yō·w·’āḇ|and Joab|H3097|N-proper-ms
@@ -19,7 +19,7 @@ v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 אֱד֣וֹם|’ĕ·ḏō·wm|Edomites|H123|N-proper-ms
 v1 בְּגֵיא־|bə·ḡê-|in the Valley|H1516|Prep-b | N-proper-fs
 v1 מֶ֑לַח|me·laḥ|of Salt|H4417|N-ms
-v1 שְׁנֵ֖ים|šə·nêm|12,000 {}|H8147|Number-md
+v1 שְׁנֵ֖ים|šə·nêm|12,000|H8147|Number-md
 v1 עָשָׂ֣ר|‘ā·śār|...|H6240|Number-ms
 v1 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v1 אֱ֭לֹהִים|’ĕ·lō·hîm|O God|H430|N-mp

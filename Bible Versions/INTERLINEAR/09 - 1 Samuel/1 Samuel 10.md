@@ -60,7 +60,7 @@ v3 אֲנָשִׁ֔ים|’ă·nā·šîm|men|H582|N-mp
 v3 עֹלִ֥ים|‘ō·lîm|going up|H5927|V-Qal-Prtcpl-mp
 v3 אֶל־|’el-|to|H413|Prep
 v3 הָאֱלֹהִ֖ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
-v3 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v3 בֵּֽית־|bêṯ-|...|H1008|Prep
 v3 אֵ֑ל|’êl|at Bethel|H1008|N-proper-fs
 v3 אֶחָ֞ד|’e·ḥāḏ|one|H259|Number-ms
 v3 נֹשֵׂ֣א׀|nō·śê|carrying|H5375|V-Qal-Prtcpl-ms
@@ -123,9 +123,9 @@ v7 כִּ֥י|kî|When|H3588|Conj
 v7 תְבֹאֶינָה|ṯə·ḇō·ʾɛ·nå̄h|have come|H935|V-Qal-Imperf-3fp
 v7 הָאֹת֥וֹת|hā·’ō·ṯō·wṯ|signs|H226|Art | N-cp
 v7 הָאֵ֖לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
-v7 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v7 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v7 עֲשֵׂ֤ה|‘ă·śêh|do|H6213|V-Qal-Imp-ms
-v7 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v7 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v7 אֲשֶׁ֣ר|’ă·šer|as the occasion|H834|Pro-r
 v7 תִּמְצָ֣א|tim·ṣā|demands|H4672|V-Qal-Imperf-3fs
 v7 יָדֶ֔ךָ|yā·ḏe·ḵā|...|H3027|N-fsc | 2ms
@@ -171,7 +171,7 @@ v9 כָּל־|kāl-|and all|H3605|N-msc
 v9 הָאֹת֥וֹת|hā·’ō·ṯō·wṯ|the signs|H226|Art | N-cp
 v9 הָאֵ֖לֶּה|hā·’êl·leh|...|H428|Art | Pro-cp
 v9 בַּיּ֥וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
-v9 הַהֽוּא׃ס|ha·hū|that|H1931|Art | Pro-3ms
+v9 הַהֽוּא׃|ha·hū|that|H1931|Art | Pro-3ms
 v10 וַיָּבֹ֤אוּ|way·yā·ḇō·’ū|When Saul and his servant arrived|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v10 שָׁם֙|šām|...|H8033|Adv
 v10 הַגִּבְעָ֔תָה|hag·giḇ·‘ā·ṯāh|at Gibeah|H1389|Art | N-proper-fs | 3fs
@@ -198,7 +198,7 @@ v11 נִבָּ֑א|nib·bā|prophesying|H5012|V-Nifal-Prtcpl-ms
 v11 וַיֹּ֨אמֶר|way·yō·mer|they asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 הָעָ֜ם|hā·‘ām|...|H5971|Art | N-ms
 v11 אִ֣ישׁ|’îš|one|H376|N-ms
-v11 אֶל־|’el-|vvv|H413|Prep
+v11 אֶל־|’el-|...|H413|Prep
 v11 רֵעֵ֗הוּ|rê·‘ê·hū|another|H7453|N-msc | 3ms
 v11 מַה־|mah-|What|H4100|Interrog
 v11 זֶּה֙|zeh|...|H2088|Pro-ms
@@ -251,7 +251,7 @@ v15 נָּ֣א|nā|-|H4994|Interjection
 v15 לִ֔י|lî|me|H0|Prep | 1cs
 v15 מָֽה־|māh-|what|H4100|Interrog
 v15 אָמַ֥ר|’ā·mar|say to you|H559|V-Qal-Perf-3ms
-v15 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v15 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v15 שְׁמוּאֵֽל׃|šə·mū·’êl|did Samuel|H8050|N-proper-ms
 v16 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 שָׁאוּל֙|šā·’ūl|And Saul|H7586|N-proper-ms
@@ -271,7 +271,7 @@ v16 הִגִּ֣יד|hig·gîḏ|tell|H5046|V-Hifil-Perf-3ms
 v16 ל֔וֹ|lōw|[his uncle]|H0|Prep | 3ms
 v16 אֲשֶׁ֖ר|’ă·šer|what|H834|Pro-r
 v16 אָמַ֥ר|’ā·mar|had said|H559|V-Qal-Perf-3ms
-v16 שְׁמוּאֵֽל׃פ|šə·mū·’êl|Samuel|H8050|N-proper-ms
+v16 שְׁמוּאֵֽל׃|šə·mū·’êl|Samuel|H8050|N-proper-ms
 v17 וַיַּצְעֵ֤ק|way·yaṣ·‘êq|summoned|H6817|Conj-w | V-Hifil-ConsecImperf-3ms
 v17 שְׁמוּאֵל֙|šə·mū·’êl|After this, Samuel|H8050|N-proper-ms
 v17 אֶת־|’eṯ-|-|H853|DirObjM
@@ -383,7 +383,7 @@ v24 הָעָ֗ם|hā·‘ām|the people|H5971|Art | N-ms
 v24 הַרְּאִיתֶם֙|har·rə·’î·ṯem|Do you see|H7200|V-Qal-Perf-2mp
 v24 אֲשֶׁ֣ר|’ă·šer|the one|H834|Pro-r
 v24 בָּֽחַר־|bā·ḥar-|has chosen|H977|V-Qal-Perf-3ms
-v24 בּ֣וֹ|bōw||H0|Prep | 3ms
+v24 בּ֣וֹ|bōw|-|H0|Prep | 3ms
 v24 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v24 כִּ֛י|kî|...|H3588|Conj
 v24 אֵ֥ין|’ên|[There is] no one|H369|Adv
@@ -395,7 +395,7 @@ v24 כָל־|ḵāl|And all|H3605|N-msc
 v24 הָעָ֛ם|hā·‘ām|the people|H5971|Art | N-ms
 v24 וַיֹּאמְר֖וּ|way·yō·mə·rū|...|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v24 יְחִ֥י|yə·ḥî|Long live|H2421|V-Qal-Imperf.Jus-3ms
-v24 הַמֶּֽלֶךְ׃פ|ham·me·leḵ|the king|H4428|Art | N-ms
+v24 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v25 וַיְדַבֵּ֨ר|way·ḏab·bêr|explained|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v25 שְׁמוּאֵ֜ל|šə·mū·’êl|Then Samuel|H8050|N-proper-ms
 v25 אֶל־|’el-|to|H413|Prep
@@ -439,4 +439,4 @@ v27 הֵבִ֥יאוּ|hê·ḇî·’ū|and brought|H935|V-Hifil-Perf-3cp
 v27 ל֖וֹ|lōw|him|H0|Prep | 3ms
 v27 מִנְחָ֑ה|min·ḥāh|gifts|H4503|N-fs
 v27 וַיְהִ֖י|way·hî|but [Saul] remained|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v27 כְּמַחֲרִֽישׁ׃פ|kə·ma·ḥă·rîš|silent [about it]|H2790|Prep-k | V-Hifil-Prtcpl-ms
+v27 כְּמַחֲרִֽישׁ׃|kə·ma·ḥă·rîš|silent [about it]|H2790|Prep-k | V-Hifil-Prtcpl-ms

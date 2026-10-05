@@ -156,7 +156,7 @@ v21 אֱמֶ֑ת|’ĕ·meṯ|and reliable|H571|N-fs
 v21 לְהָשִׁ֥יב|lə·hā·šîḇ|that you may|H7725|Prep-l | V-Hifil-Inf
 v21 אֲמָרִ֥ים|’ă·mā·rîm|answer|H561|N-mp
 v21 אֱ֝מֶ֗ת|’ĕ·meṯ|soundly|H571|N-fs
-v21 לְשֹׁלְחֶֽיךָ׃פ|lə·šō·lə·ḥe·ḵā|those who sent you|H7971|Prep-l | V-Qal-Prtcpl-mpc | 2ms
+v21 לְשֹׁלְחֶֽיךָ׃|lə·šō·lə·ḥe·ḵā|those who sent you|H7971|Prep-l | V-Qal-Prtcpl-mpc | 2ms
 v22 אַֽל־|’al-|Do not|H408|Adv
 v22 תִּגְזָל־|tiḡ·zāl-|rob|H1497|V-Qal-Imperf-2ms
 v22 דָּ֭ל|dāl|a poor|H1800|Adj-msc
@@ -222,4 +222,4 @@ v29 יִתְיַצָּ֑ב|yiṯ·yaṣ·ṣāḇ|He will be stationed|H3320|V-H
 v29 בַּל־|bal-|he will not|H1077|Adv
 v29 יִ֝תְיַצֵּב|yiṯ·yaṣ·ṣêḇ|stand|H3320|V-Hitpael-Imperf-3ms
 v29 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
-v29 חֲשֻׁכִּֽים׃פ|ḥă·šuk·kîm|obscure men|H2823|Adj-mp
+v29 חֲשֻׁכִּֽים׃|ḥă·šuk·kîm|obscure men|H2823|Adj-mp

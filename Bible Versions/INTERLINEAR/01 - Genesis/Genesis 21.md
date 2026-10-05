@@ -117,7 +117,7 @@ v11 הַדָּבָ֛ר|had·dā·ḇār|Now this matter|H1697|Art | N-ms
 v11 מְאֹ֖ד|mə·’ōḏ|greatly|H3966|Adv
 v11 בְּעֵינֵ֣י|bə·‘ê·nê|...|H5869|Prep-b | N-cdc
 v11 אַבְרָהָ֑ם|’aḇ·rā·hām|Abraham|H85|N-proper-ms
-v11 עַ֖ל|‘al|vvv|H5921|Prep
+v11 עַ֖ל|‘al|...|H5921|Prep
 v11 אוֹדֹ֥ת|’ō·w·ḏōṯ|because it concerned|H182|N-fpc
 v11 בְּנֽוֹ׃|bə·nōw|his son [Ishmael]|H1121|N-msc | 3ms
 v12 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -185,7 +185,7 @@ v15 אַחַ֥ד|’a·ḥaḏ|one|H259|Number-msc
 v15 הַשִּׂיחִֽם׃|haś·śî·ḥim|of the bushes|H7880|Art | N-mp
 v16 וַתֵּלֶךְ֩|wat·tê·leḵ|Then she went off|H1980|Conj-w | V-Qal-ConsecImperf-3fs
 v16 וַתֵּ֨שֶׁב|wat·tê·šeḇ|and sat down|H3427|Conj-w | V-Qal-ConsecImperf-3fs
-v16 לָ֜הּ|lāh||H0|Prep | 3fs
+v16 לָ֜הּ|lāh|-|H0|Prep | 3fs
 v16 מִנֶּ֗גֶד|min·ne·ḡeḏ|nearby|H5048|Prep-m
 v16 הַרְחֵק֙|har·ḥêq|away|H7368|V-Hifil-InfAbs
 v16 כִּמְטַחֲוֵ֣י|kim·ṭa·ḥă·wê|about a bowshot|H2909|Prep-k | V-Piel-Prtcpl-mpc
@@ -215,9 +215,9 @@ v17 הָגָר֙|hā·ḡār|Hagar|H1904|N-proper-fs
 v17 מִן־|min-|from|H4480|Prep
 v17 הַשָּׁמַ֔יִם|haš·šā·ma·yim|heaven|H8064|Art | N-mp
 v17 וַיֹּ֥אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v17 לָ֖הּ|lāh||H0|Prep | 3fs
+v17 לָ֖הּ|lāh|-|H0|Prep | 3fs
 v17 מַה־|mah-|What is wrong|H4100|Interrog
-v17 לָּ֣ךְ|lāḵ||H0|Prep | 2fs
+v17 לָּ֣ךְ|lāḵ|-|H0|Prep | 2fs
 v17 הָגָ֑ר|hā·ḡār|Hagar|H1904|N-proper-fs
 v17 אַל־|’al-|Do not|H408|Adv
 v17 תִּ֣ירְאִ֔י|tî·rə·’î|be afraid|H3372|V-Qal-Imperf-2fs
@@ -275,7 +275,7 @@ v21 ל֥וֹ|lōw|for him|H0|Prep | 3ms
 v21 אִמּ֛וֹ|’im·mōw|his mother|H517|N-fsc | 3ms
 v21 אִשָּׁ֖ה|’iš·šāh|a wife|H802|N-fs
 v21 מֵאֶ֥רֶץ|mê·’e·reṣ|from the land|H776|Prep-m | N-fsc
-v21 מִצְרָֽיִם׃פ|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
+v21 מִצְרָֽיִם׃|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
 v22 וַֽיְהִי֙|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v22 בָּעֵ֣ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
 v22 הַהִ֔וא|ha·hi·w|At that|H1931|Art | Pro-3fs
@@ -379,15 +379,15 @@ v29 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v29 הִצַּ֖בְתָּ|hiṣ·ṣaḇ·tā|have you set apart|H5324|V-Hifil-Perf-2ms
 v29 לְבַדָּֽנָה׃|lə·ḇad·dā·nāh|...|H905|Prep-l | N-msc | 3fp
 v30 וַיֹּ֕אמֶר|way·yō·mer|He replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v30 כִּ֚י|kî||H3588|Conj
-v30 אֶת־|’eṯ-||H853|DirObjM
+v30 כִּ֚י|kî|-|H3588|Conj
+v30 אֶת־|’eṯ-|-|H853|DirObjM
 v30 שֶׁ֣בַע|še·ḇa‘|the seven|H7651|Number-fs
 v30 כְּבָשֹׂ֔ת|kə·ḇā·śōṯ|ewe lambs|H3535|N-fp
 v30 תִּקַּ֖ח|tiq·qaḥ|You are to accept|H3947|V-Qal-Imperf-2ms
 v30 מִיָּדִ֑י|mî·yā·ḏî|from my hand|H3027|Prep-m | N-fsc | 1cs
-v30 בַּעֲבוּר֙|ba·‘ă·ḇūr|vvv|H5668|Prep-b | N-ms
-v30 תִּֽהְיֶה־|tih·yeh-|vvv|H1961|V-Qal-Imperf-2ms
-v30 לִּ֣י|lî|vvv|H0|Prep | 1cs
+v30 בַּעֲבוּר֙|ba·‘ă·ḇūr|...|H5668|Prep-b | N-ms
+v30 תִּֽהְיֶה־|tih·yeh-|...|H1961|V-Qal-Imperf-2ms
+v30 לִּ֣י|lî|...|H0|Prep | 1cs
 v30 לְעֵדָ֔ה|lə·‘ê·ḏāh|as my witness|H5713|Prep-l | N-fs
 v30 כִּ֥י|kî|that|H3588|Conj
 v30 חָפַ֖רְתִּי|ḥā·p̄ar·tî|I dug|H2658|V-Qal-Perf-1cs
@@ -399,7 +399,7 @@ v31 כֵּ֗ן|kên|...|H3651|Adv
 v31 קָרָ֛א|qā·rā|was called|H7121|V-Qal-Perf-3ms
 v31 לַמָּק֥וֹם|lam·mā·qō·wm|place|H4725|Prep-l, Art | N-ms
 v31 הַה֖וּא|ha·hū|that|H1931|Art | Pro-3ms
-v31 בְּאֵ֣ר|bə·’êr||H884|Prep
+v31 בְּאֵ֣ר|bə·’êr|-|H884|Prep
 v31 שָׁ֑בַע|šā·ḇa‘|Beersheba|H884|N-proper-fs
 v31 כִּ֛י|kî|because|H3588|Conj
 v31 שָׁ֥ם|šām|it was there|H8033|Adv
@@ -407,7 +407,7 @@ v31 נִשְׁבְּע֖וּ|niš·bə·‘ū|of them swore an oath|H7650|V-Nifa
 v31 שְׁנֵיהֶֽם׃|šə·nê·hem|that the two|H8147|Number-mdc | 3mp
 v32 וַיִּכְרְת֥וּ|way·yiḵ·rə·ṯū|After they had made|H3772|Conj-w | V-Qal-ConsecImperf-3mp
 v32 בְרִ֖ית|ḇə·rîṯ|the covenant|H1285|N-fs
-v32 בִּבְאֵ֣ר|biḇ·’êr|vvv|H884|Prep
+v32 בִּבְאֵ֣ר|biḇ·’êr|...|H884|Prep
 v32 שָׁ֑בַע|šā·ḇa‘|at Beersheba|H884|Prep | N-proper-fs
 v32 וַיָּ֣קָם|way·yā·qām|got up|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v32 אֲבִימֶ֗לֶךְ|’ă·ḇî·me·leḵ|Abimelech|H40|N-proper-ms
@@ -420,7 +420,7 @@ v32 אֶ֥רֶץ|’e·reṣ|the land|H776|N-fsc
 v32 פְּלִשְׁתִּֽים׃|pə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v33 וַיִּטַּ֥ע|way·yiṭ·ṭa‘|And [Abraham] planted|H5193|Conj-w | V-Qal-ConsecImperf-3ms
 v33 אֶ֖שֶׁל|’e·šel|a tamarisk tree|H815|N-ms
-v33 בִּבְאֵ֣ר|biḇ·’êr|vvv|H884|Prep
+v33 בִּבְאֵ֣ר|biḇ·’êr|...|H884|Prep
 v33 שָׁ֑בַע|šā·ḇa‘|in Beersheba|H884|Prep | N-proper-fs
 v33 וַיִּ֨קְרָא־|way·yiq·rā-|he called|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v33 שָׁ֔ם|šām|and there|H8033|Adv
@@ -433,4 +433,4 @@ v34 אַבְרָהָ֛ם|’aḇ·rā·hām|And Abraham|H85|N-proper-ms
 v34 בְּאֶ֥רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
 v34 פְּלִשְׁתִּ֖ים|pə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v34 יָמִ֥ים|yā·mîm|time|H3117|N-mp
-v34 רַבִּֽים׃פ|rab·bîm|for a long|H7227|Adj-mp
+v34 רַבִּֽים׃|rab·bîm|for a long|H7227|Adj-mp

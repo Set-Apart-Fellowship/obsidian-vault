@@ -20,7 +20,7 @@ v2 מַלְאָ֔ךְ|mal·’āḵ|a messenger|H4397|N-ms
 v2 אֶל־|’el-|to|H413|Prep
 v2 אֵלִיָּ֖הוּ|’ê·lî·yā·hū|Elijah|H452|N-proper-ms
 v2 לֵאמֹ֑ר|lê·mōr|saying|H559|Prep-l | V-Qal-Inf
-v2 כֹּֽה־|kōh-||H3541|Adv
+v2 כֹּֽה־|kōh-|-|H3541|Adv
 v2 יַעֲשׂ֤וּן|ya·‘ă·śūn|deal with me|H6213|V-Qal-Imperf-3mp | Pn
 v2 אֱלֹהִים֙|’ĕ·lō·hîm|May the gods|H430|N-mp
 v2 וְכֹ֣ה|wə·ḵōh|and ever so|H3541|Conj-w | Adv
@@ -40,7 +40,7 @@ v3 וַיֵּ֣לֶךְ|way·yê·leḵ|and ran|H1980|Conj-w | V-Qal-ConsecImper
 v3 אֶל־|’el-|for|H413|Prep
 v3 נַפְשׁ֔וֹ|nap̄·šōw|his life|H5315|N-fsc | 3ms
 v3 וַיָּבֹ֕א|way·yā·ḇō|When he came|H935|Conj-w | V-Qal-ConsecImperf-3ms
-v3 בְּאֵ֥ר|bə·’êr|vvv|H884|Prep
+v3 בְּאֵ֥ר|bə·’êr|...|H884|Prep
 v3 שֶׁ֖בַע|še·ḇa‘|to Beersheba|H884|N-proper-fs
 v3 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v3 לִֽיהוּדָ֑ה|lî·hū·ḏāh|in Judah|H3063|Prep-l | N-proper-ms
@@ -84,7 +84,7 @@ v5 מַלְאָךְ֙|mal·’āḵ|an angel|H4397|N-ms
 v5 נֹגֵ֣עַ|nō·ḡê·a‘|touched|H5060|V-Qal-Prtcpl-ms
 v5 בּ֔וֹ|bōw|him|H0|Prep | 3ms
 v5 וַיֹּ֥אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v5 ל֖וֹ|lōw||H0|Prep | 3ms
+v5 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v5 ק֥וּם|qūm|Get up|H6965|V-Qal-Imp-ms
 v5 אֱכֽוֹל׃|’ĕ·ḵō·wl|and eat|H398|V-Qal-Imp-ms
 v6 וַיַּבֵּ֕ט|way·yab·bêṭ|And he looked around|H5027|Conj-w | V-Hifil-ConsecImperf-3ms
@@ -247,7 +247,7 @@ v14 לְבַדִּ֔י|lə·ḇad·dî|am the only one|H905|Prep-l | N-msc | 1cs
 v14 וַיְבַקְשׁ֥וּ|way·ḇaq·šū|and they are seeking|H1245|Conj-w | V-Piel-ConsecImperf-3mp
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 נַפְשִׁ֖י|nap̄·šî|my life {as well}|H5315|N-fsc | 1cs
-v14 לְקַחְתָּֽהּ׃ס|lə·qaḥ·tāh|-|H3947|Prep-l | V-Qal-Inf | 3fs
+v14 לְקַחְתָּֽהּ׃|lə·qaḥ·tāh|-|H3947|Prep-l | V-Qal-Inf | 3fs
 v15 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v15 אֵלָ֔יו|’ê·lāw|to him|H413|Prep | 3ms
@@ -263,7 +263,7 @@ v15 חֲזָאֵ֛ל|ḥă·zā·’êl|Hazael|H2371|N-proper-ms
 v15 לְמֶ֖לֶךְ|lə·me·leḵ|as king|H4428|Prep-l | N-ms
 v15 עַל־|‘al-|over|H5921|Prep
 v15 אֲרָֽם׃|’ă·rām|Aram|H758|N-proper-fs
-v16 וְאֵת֙|wə·’êṯ|vvv|H853|Conj-w | DirObjM
+v16 וְאֵת֙|wə·’êṯ|...|H853|Conj-w | DirObjM
 v16 יֵה֣וּא|yê·hū|Jehu|H3058|N-proper-ms
 v16 בֶן־|ḇen-|son|H1121|N-msc
 v16 נִמְשִׁ֔י|nim·šî|of Nimshi|H5250|N-proper-ms
@@ -275,7 +275,7 @@ v16 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v16 אֱלִישָׁ֤ע|’ĕ·lî·šā‘|and Elisha|H477|N-proper-ms
 v16 בֶּן־|ben-|son|H1121|N-msc
 v16 שָׁפָט֙|šā·p̄āṭ|of Shaphat|H8202|N-proper-ms
-v16 מֵאָבֵ֣ל|mê·’ā·ḇêl|vvv|H65|Prep
+v16 מֵאָבֵ֣ל|mê·’ā·ḇêl|...|H65|Prep
 v16 מְחוֹלָ֔ה|mə·ḥō·w·lāh|from Abel-meholah|H65|Prep | N-proper-fs
 v16 תִּמְשַׁ֥ח|tim·šaḥ|...|H4886|V-Qal-Imperf-2ms
 v16 לְנָבִ֖יא|lə·nā·ḇî|as prophet|H5030|Prep-l | N-ms
@@ -343,7 +343,7 @@ v20 וּלְאִמִּ֔י|ū·lə·’im·mî|and mother [goodbye]|H517|Conj-w,
 v20 וְאֵלְכָ֖ה|wə·’ê·lə·ḵāh|and then I will follow|H1980|Conj-w | V-Qal-ConjImperf.Cohort-1cs
 v20 אַחֲרֶ֑יךָ|’a·ḥă·re·ḵā|you|H310|Prep | 2ms
 v20 וַיֹּ֤אמֶר|way·yō·mer|[Elijah] replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v20 לוֹ֙|lōw||H0|Prep | 3ms
+v20 לוֹ֙|lōw|-|H0|Prep | 3ms
 v20 לֵ֣ךְ|lêḵ|Go on|H1980|V-Qal-Imp-ms
 v20 שׁ֔וּב|šūḇ|back|H7725|V-Qal-Imp-ms
 v20 כִּ֥י|kî|for|H3588|Conj
@@ -368,4 +368,4 @@ v21 וַיָּ֗קָם|way·yā·qām|Then he set out|H6965|Conj-w | V-Qal-Conse
 v21 וַיֵּ֛לֶךְ|way·yê·leḵ|to follow|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v21 אַחֲרֵ֥י|’a·ḥă·rê|...|H310|Prep
 v21 אֵלִיָּ֖הוּ|’ê·lî·yā·hū|Elijah|H452|N-proper-ms
-v21 וַיְשָׁרְתֵֽהוּ׃פ|way·šā·rə·ṯê·hū|and serve|H8334|Conj-w | V-Piel-ConsecImperf-3ms | 3ms
+v21 וַיְשָׁרְתֵֽהוּ׃|way·šā·rə·ṯê·hū|and serve|H8334|Conj-w | V-Piel-ConsecImperf-3ms | 3ms

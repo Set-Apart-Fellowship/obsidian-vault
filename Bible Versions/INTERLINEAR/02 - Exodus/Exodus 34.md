@@ -3,7 +3,7 @@ v1 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v1 אֶל־|’el-|to|H413|Prep
 v1 מֹשֶׁ֔ה|mō·šeh|Moses|H4872|N-proper-ms
 v1 פְּסָל־|pə·sāl-|Chisel out|H6458|V-Qal-Imp-ms
-v1 לְךָ֛|lə·ḵā||H0|Prep | 2ms
+v1 לְךָ֛|lə·ḵā|-|H0|Prep | 2ms
 v1 שְׁנֵֽי־|šə·nê-|two|H8147|Number-mdc
 v1 לֻחֹ֥ת|lu·ḥōṯ|tablets|H3871|N-mpc
 v1 אֲבָנִ֖ים|’ă·ḇā·nîm|stone|H68|N-fp
@@ -105,7 +105,7 @@ v7 נֹשֵׂ֥א|nō·śê|forgiving|H5375|V-Qal-Prtcpl-ms
 v7 עָוֺ֛ן|‘ā·wōn|iniquity|H5771|N-cs
 v7 וָפֶ֖שַׁע|wā·p̄e·ša‘|transgression|H6588|Conj-w | N-ms
 v7 וְחַטָּאָ֑ה|wə·ḥaṭ·ṭā·’āh|and sin|H2403|Conj-w | N-fs
-v7 וְנַקֵּה֙|wə·naq·qêh|vvv|H5352|Conj-w | V-Piel-InfAbs
+v7 וְנַקֵּה֙|wə·naq·qêh|...|H5352|Conj-w | V-Piel-InfAbs
 v7 לֹ֣א|lō|Yet He will by no means|H3808|Adv-NegPrt
 v7 יְנַקֶּ֔ה|yə·naq·qeh|leave [the guilty] unpunished|H5352|V-Piel-Imperf-3ms
 v7 פֹּקֵ֣ד׀|pō·qêḏ|He will visit|H6485|V-Qal-Prtcpl-ms
@@ -166,7 +166,7 @@ v10 וְרָאָ֣ה|wə·rā·’āh|will see|H7200|Conj-w | V-Qal-ConjPerf-3ms
 v10 כָל־|ḵāl|All|H3605|N-msc
 v10 הָ֠עָם|hā·‘ām|the people|H5971|Art | N-ms
 v10 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v10 אַתָּ֨ה|’at·tāh|vvv|H859|Pro-2ms
+v10 אַתָּ֨ה|’at·tāh|...|H859|Pro-2ms
 v10 בְקִרְבּ֜וֹ|ḇə·qir·bōw|among whom you live|H7130|Prep-b | N-msc | 3ms
 v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 מַעֲשֵׂ֤ה|ma·‘ă·śêh|work|H4639|N-msc
@@ -179,7 +179,7 @@ v10 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v10 עֹשֶׂ֥ה|‘ō·śeh|am doing|H6213|V-Qal-Prtcpl-ms
 v10 עִמָּֽךְ׃|‘im·māḵ|with you|H5973|Prep | 2ms
 v11 שְׁמָ֨ר־|šə·mār-|Observe|H8104|V-Qal-Imp-ms
-v11 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v11 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v11 אֵ֛ת|’êṯ|-|H853|DirObjM
 v11 אֲשֶׁ֥ר|’ă·šer|what|H834|Pro-r
 v11 אָנֹכִ֖י|’ā·nō·ḵî|I|H595|Pro-1cs
@@ -196,7 +196,7 @@ v11 וְהַפְּרִזִּ֔י|wə·hap·pə·riz·zî|Perizzites|H6522|Conj-w
 v11 וְהַחִוִּ֖י|wə·ha·ḥiw·wî|Hivites|H2340|Conj-w, Art | N-proper-ms
 v11 וְהַיְבוּסִֽי׃|wə·hay·ḇū·sî|and Jebusites|H2983|Conj-w, Art | N-proper-ms
 v12 הִשָּׁ֣מֶר|hiš·šā·mer|Be careful|H8104|V-Nifal-Imp-ms
-v12 לְךָ֗|lə·ḵā||H0|Prep | 2ms
+v12 לְךָ֗|lə·ḵā|-|H0|Prep | 2ms
 v12 פֶּן־|pen-|not|H6435|Conj
 v12 תִּכְרֹ֤ת|tiḵ·rōṯ|to make|H3772|V-Qal-Imperf-2ms
 v12 בְּרִית֙|bə·rîṯ|a treaty|H1285|N-fs
@@ -383,13 +383,13 @@ v26 לֹא־|lō-|You must not|H3808|Adv-NegPrt
 v26 תְבַשֵּׁ֥ל|ṯə·ḇaš·šêl|cook|H1310|V-Piel-Imperf-2ms
 v26 גְּדִ֖י|gə·ḏî|a young goat|H1423|N-ms
 v26 בַּחֲלֵ֥ב|ba·ḥă·lêḇ|milk|H2461|Prep-b | N-msc
-v26 אִמּֽוֹ׃פ|’im·mōw|in its mother's|H517|N-fsc | 3ms
+v26 אִמּֽוֹ׃|’im·mōw|in its mother's|H517|N-fsc | 3ms
 v27 וַיֹּ֤אמֶר|way·yō·mer|also said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v27 יְהוָה֙|Yah·weh|The LORD|H3068|N-proper-ms
 v27 אֶל־|’el-|to|H413|Prep
 v27 מֹשֶׁ֔ה|mō·šeh|Moses|H4872|N-proper-ms
 v27 כְּתָב־|kə·ṯāḇ-|Write down|H3789|V-Qal-Imp-ms
-v27 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v27 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 הַדְּבָרִ֣ים|had·də·ḇā·rîm|words|H1697|Art | N-mp
 v27 הָאֵ֑לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
@@ -439,11 +439,11 @@ v29 בְּרִדְתּ֖וֹ|bə·riḏ·tōw|-|H3381|Prep-b | V-Qal-Inf | 3ms
 v29 מִן־|min-|-|H4480|Prep
 v29 הָהָ֑ר|hā·hār|-|H2022|Art | N-ms
 v29 וּמֹשֶׁ֣ה|ū·mō·šeh|he|H4872|Conj-w | N-proper-ms
-v29 לֹֽא־|lō-|vvv|H3808|Adv-NegPrt
+v29 לֹֽא־|lō-|...|H3808|Adv-NegPrt
 v29 יָדַ֗ע|yā·ḏa‘|was unaware|H3045|V-Qal-Perf-3ms
 v29 כִּ֥י|kî|that|H3588|Conj
 v29 קָרַ֛ן|qā·ran|had become radiant|H7160|V-Qal-Perf-3ms
-v29 ע֥וֹר|‘ō·wr|vvv|H5785|N-msc
+v29 ע֥וֹר|‘ō·wr|...|H5785|N-msc
 v29 פָּנָ֖יו|pā·nāw|his face|H6440|N-cpc | 3ms
 v29 בְּדַבְּר֥וֹ|bə·ḏab·bə·rōw|from speaking|H1696|Prep-b | V-Piel-Inf | 3ms
 v29 אִתּֽוֹ׃|’it·tōw|with [the LORD]|H854|Prep | 3ms
@@ -456,7 +456,7 @@ v30 אֶת־|’eṯ-|-|H853|DirObjM
 v30 מֹשֶׁ֔ה|mō·šeh|Moses|H4872|N-proper-ms
 v30 וְהִנֵּ֥ה|wə·hin·nêh|and behold|H2009|Conj-w | Interjection
 v30 קָרַ֖ן|qā·ran|was radiant|H7160|V-Qal-Perf-3ms
-v30 ע֣וֹר|‘ō·wr|vvv|H5785|N-msc
+v30 ע֣וֹר|‘ō·wr|...|H5785|N-msc
 v30 פָּנָ֑יו|pā·nāw|his face|H6440|N-cpc | 3ms
 v30 וַיִּֽירְא֖וּ|way·yî·rə·’ū|And they were afraid|H3372|Conj-w | V-Qal-ConsecImperf-3mp
 v30 מִגֶּ֥שֶׁת|mig·ge·šeṯ|to approach|H5066|Prep-m | V-Qal-Inf
@@ -535,4 +535,4 @@ v35 פָּנָ֔יו|pā·nāw|...|H6440|N-cpc | 3ms
 v35 עַד־|‘aḏ-|until|H5704|Prep
 v35 בֹּא֖וֹ|bō·’ōw|he went in|H935|V-Qal-Inf | 3ms
 v35 לְדַבֵּ֥ר|lə·ḏab·bêr|to speak|H1696|Prep-l | V-Piel-Inf
-v35 אִתּֽוֹ׃ס|’it·tōw|with [the LORD]|H854|Prep | 3ms
+v35 אִתּֽוֹ׃|’it·tōw|with [the LORD]|H854|Prep | 3ms

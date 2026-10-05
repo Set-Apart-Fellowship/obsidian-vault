@@ -4,7 +4,7 @@ v1 וְעֵ֥ת|wə·‘êṯ|and a time|H6256|Conj-w | N-cs
 v1 לְכָל־|lə·ḵāl|for every|H3605|Prep-l | N-msc
 v1 חֵ֖פֶץ|ḥê·p̄eṣ|purpose|H2656|N-ms
 v1 תַּ֥חַת|ta·ḥaṯ|under|H8478|Prep
-v1 הַשָּׁמָֽיִם׃ס|haš·šā·mā·yim|heaven|H8064|Art | N-mp
+v1 הַשָּׁמָֽיִם׃|haš·šā·mā·yim|heaven|H8064|Art | N-mp
 v2 עֵ֥ת|‘êṯ|a time|H6256|N-cs
 v2 לָלֶ֖דֶת|lā·le·ḏeṯ|to be born|H3205|Prep-l | V-Qal-Inf
 v2 וְעֵ֣ת|wə·‘êṯ|and a time|H6256|Conj-w | N-cs
@@ -64,7 +64,7 @@ v8 לִשְׂנֹ֔א|liś·nō|to hate|H8130|Prep-l | V-Qal-Inf
 v8 עֵ֥ת|‘êṯ|a time|H6256|N-csc
 v8 מִלְחָמָ֖ה|mil·ḥā·māh|for war|H4421|N-fs
 v8 וְעֵ֥ת|wə·‘êṯ|and a time|H6256|Conj-w | N-csc
-v8 שָׁלֽוֹם׃ס|šā·lō·wm|for peace|H7965|N-ms
+v8 שָׁלֽוֹם׃|šā·lō·wm|for peace|H7965|N-ms
 v9 מַה־|mah-|What|H4100|Interrog
 v9 יִּתְרוֹן֙|yiṯ·rō·wn|gain|H3504|N-msc
 v9 הָֽעוֹשֶׂ֔ה|hā·‘ō·w·śeh|does the worker|H6213|Art | V-Qal-Prtcpl-ms
@@ -203,13 +203,13 @@ v18 הֵ֖מָּה|hêm·māh|that they|H1992|Pro-3mp
 v18 לָהֶֽם׃|lā·hem|...|H0|Prep-l | Pro-3mp
 v19 כִּי֩|kî|For|H3588|Conj
 v19 מִקְרֶ֨ה|miq·reh|the fates|H4745|N-ms
-v19 בְֽנֵי־|ḇə·nê-|vvv|H1121|N-mpc
+v19 בְֽנֵי־|ḇə·nê-|...|H1121|N-mpc
 v19 הָאָדָ֜ם|hā·’ā·ḏām|of [both] men|H120|Art | N-ms
 v19 וּמִקְרֶ֣ה|ū·miq·reh|[and]|H4745|Conj-w | N-ms
 v19 הַבְּהֵמָ֗ה|hab·bə·hê·māh|beasts|H929|Art | N-fs
 v19 וּמִקְרֶ֤ה|ū·miq·reh|...|H4745|Conj-w | N-ms
 v19 אֶחָד֙|’e·ḥāḏ|are the same|H259|Number-ms
-v19 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v19 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v19 כְּמ֥וֹת|kə·mō·wṯ|dies|H4194|Prep-k | N-msc
 v19 זֶה֙|zeh|As one|H2088|Pro-ms
 v19 כֵּ֣ן|kên|so|H3651|Adv

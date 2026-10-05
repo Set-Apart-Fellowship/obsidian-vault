@@ -88,7 +88,7 @@ v5 בְּשֵׁם־|bə·šêm-|in the name|H8034|Prep-b | N-msc
 v5 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v5 אֱלֹהֵ֖ינוּ|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
 v5 לְעוֹלָ֥ם|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
-v5 וָעֶֽד׃פ|wā·‘eḏ|and ever|H5703|Conj-w | N-ms
+v5 וָעֶֽד׃|wā·‘eḏ|and ever|H5703|Conj-w | N-ms
 v6 בַּיּ֨וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v6 הַה֜וּא|ha·hū|On that|H1931|Art | Pro-3ms
 v6 נְאֻם־|nə·’um-|declares|H5002|N-msc
@@ -113,7 +113,7 @@ v7 בְּהַ֣ר|bə·har|in Mount|H2022|Prep-b | N-msc
 v7 צִיּ֔וֹן|ṣî·yō·wn|Zion|H6726|N-proper-fs
 v7 מֵעַתָּ֖ה|mê·‘at·tāh|from that day|H6258|Prep-m | Adv
 v7 וְעַד־|wə·‘aḏ-|and forever|H5704|Conj-w | Prep
-v7 עוֹלָֽם׃פ|‘ō·w·lām|...|H5769|N-ms
+v7 עוֹלָֽם׃|‘ō·w·lām|...|H5769|N-ms
 v8 וְאַתָּ֣ה|wə·’at·tāh|And you|H859|Conj-w | Pro-2ms
 v8 מִגְדַּל־|miḡ·dal-|O watchtower|H4029|N-proper-fs
 v8 עֵ֗דֶר|‘ê·ḏer|of the flock|H4029|Noun
@@ -170,7 +170,7 @@ v11 גּוֹיִ֣ם|gō·w·yim|nations|H1471|N-mp
 v11 רַבִּ֑ים|rab·bîm|many|H7227|Adj-mp
 v11 הָאֹמְרִ֣ים|hā·’ō·mə·rîm|saying|H559|Art | V-Qal-Prtcpl-mp
 v11 תֶּחֱנָ֔ף|te·ḥĕ·nāp̄|Let her be defiled|H2610|V-Qal-Imperf-3fs
-v11 וְתַ֥חַז|wə·ṯa·ḥaz|vvv|H2372|Conj-w | V-Qal-Imperf.Jus-3fs
+v11 וְתַ֥חַז|wə·ṯa·ḥaz|...|H2372|Conj-w | V-Qal-Imperf.Jus-3fs
 v11 בְּצִיּ֖וֹן|bə·ṣî·yō·wn|on Zion|H6726|Prep-b | N-proper-fs
 v11 עֵינֵֽינוּ׃|‘ê·nê·nū|and let us feast our eyes|H5869|N-cdc | 1cp
 v12 וְהֵ֗מָּה|wə·hêm·māh|But they|H1992|Conj-w | Pro-3mp

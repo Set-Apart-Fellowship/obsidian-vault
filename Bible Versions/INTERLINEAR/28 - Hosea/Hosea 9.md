@@ -20,7 +20,7 @@ v2 לֹ֣א|lō|will not|H3808|Adv-NegPrt
 v2 יִרְעֵ֑ם|yir·‘êm|feed them|H7462|V-Qal-Imperf-3ms | 3mp
 v2 וְתִיר֖וֹשׁ|wə·ṯî·rō·wōš|and the new wine|H8492|Conj-w | N-ms
 v2 יְכַ֥חֶשׁ|yə·ḵa·ḥeš|will fail them|H3584|V-Piel-Imperf-3ms
-v2 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v2 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v3 לֹ֥א|lō|They will not|H3808|Adv-NegPrt
 v3 יֵשְׁב֖וּ|yê·šə·ḇū|remain|H3427|V-Qal-Imperf-3mp
 v3 בְּאֶ֣רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
@@ -111,7 +111,7 @@ v9 הַגִּבְעָ֑ה|hag·giḇ·‘āh|of Gibeah|H1390|Art | N-proper-fs
 v9 יִזְכּ֣וֹר|yiz·kō·wr|He will remember|H2142|V-Qal-Imperf-3ms
 v9 עֲוֺנָ֔ם|‘ă·wō·nām|their guilt|H5771|N-csc | 3mp
 v9 יִפְק֖וֹד|yip̄·qō·wḏ|He will punish|H6485|V-Qal-Imperf-3ms
-v9 חַטֹּאותָֽם׃ס|ḥaṭ·ṭō·w·ṯām|their sins|H2403|N-fpc | 3mp
+v9 חַטֹּאותָֽם׃|ḥaṭ·ṭō·w·ṯām|their sins|H2403|N-fpc | 3mp
 v10 כַּעֲנָבִ֣ים|ka·‘ă·nā·ḇîm|like grapes|H6025|Prep-k | N-mp
 v10 בַּמִּדְבָּ֗ר|bam·miḏ·bār|in the wilderness|H4057|Prep-b, Art | N-ms
 v10 מָצָ֙אתִי֙|mā·ṣā·ṯî|I found|H4672|V-Qal-Perf-1cs
@@ -123,7 +123,7 @@ v10 רָאִ֖יתִי|rā·’î·ṯî|I saw|H7200|V-Qal-Perf-1cs
 v10 אֲבֽוֹתֵיכֶ֑ם|’ă·ḇō·w·ṯê·ḵem|your fathers|H1|N-mpc | 2mp
 v10 הֵ֜מָּה|hêm·māh|But they|H1992|Pro-3mp
 v10 בָּ֣אוּ|bā·’ū|went|H935|V-Qal-Perf-3cp
-v10 בַֽעַל־|ḇa·‘al-|vvv|H1187|Prep
+v10 בַֽעַל־|ḇa·‘al-|...|H1187|Prep
 v10 פְּע֗וֹר|pə·‘ō·wr|to Baal-peor|H1187|N-proper-fs
 v10 וַיִּנָּֽזְרוּ֙|way·yin·nā·zə·rū|and consecrated|H5144|Conj-w | V-Nifal-ConsecImperf-3mp
 v10 לַבֹּ֔שֶׁת|lab·bō·šeṯ|themselves to Shame|H1322|Prep-l, Art | N-fs
@@ -158,7 +158,7 @@ v13 שְׁתוּלָ֣ה|šə·ṯū·lāh|planted|H8362|V-Qal-QalPassPrtcpl-fs
 v13 בְנָוֶ֑ה|ḇə·nā·weh|in a meadow|H5116|Prep-b | N-ms
 v13 וְאֶפְרַ֕יִם|wə·’ep̄·ra·yim|But Ephraim|H669|Conj-w | N-proper-ms
 v13 לְהוֹצִ֥יא|lə·hō·w·ṣî|will bring out|H3318|Prep-l | V-Hifil-Inf
-v13 אֶל־|’el-||H413|Prep
+v13 אֶל־|’el-|-|H413|Prep
 v13 הֹרֵ֖ג|hō·rêḡ|for slaughter|H2026|V-Qal-Prtcpl-ms
 v13 בָּנָֽיו׃|bā·nāw|his children|H1121|N-mpc | 3ms
 v14 תֵּן־|tên-|Give|H5414|V-Qal-Imp-ms
@@ -201,7 +201,7 @@ v16 כִּ֣י|kî|if|H3588|Conj
 v16 יֵֽלֵד֔וּן|yê·lê·ḏūn|they bear children|H3205|V-Qal-Imperf-3mp | Pn
 v16 וְהֵמַתִּ֖י|wə·hê·mat·tî|I will slay|H4191|Conj-w | V-Hifil-ConjPerf-1cs
 v16 מַחֲמַדֵּ֥י|ma·ḥă·mad·dê|the darlings|H4261|N-mpc
-v16 בִטְנָֽם׃ס|ḇiṭ·nām|of their wombs|H990|N-fsc | 3mp
+v16 בִטְנָֽם׃|ḇiṭ·nām|of their wombs|H990|N-fsc | 3mp
 v17 יִמְאָסֵ֣ם|yim·’ā·sêm|will reject them|H3988|V-Qal-Imperf-3ms | 3mp
 v17 אֱלֹהַ֔י|’ĕ·lō·hay|My God|H430|N-mpc | 1cs
 v17 כִּ֛י|kî|because|H3588|Conj
@@ -210,4 +210,4 @@ v17 שָׁמְע֖וּ|šā·mə·‘ū|obeyed|H8085|V-Qal-Perf-3cp
 v17 ל֑וֹ|lōw|Him|H0|Prep | 3ms
 v17 וְיִהְי֥וּ|wə·yih·yū|and they shall be|H1961|Conj-w | V-Qal-ConjImperf-3mp
 v17 נֹדְדִ֖ים|nō·ḏə·ḏîm|wanderers|H5074|V-Qal-Prtcpl-mp
-v17 בַּגּוֹיִֽם׃ס|bag·gō·w·yim|among the nations|H1471|Prep-b, Art | N-mp
+v17 בַּגּוֹיִֽם׃|bag·gō·w·yim|among the nations|H1471|Prep-b, Art | N-mp

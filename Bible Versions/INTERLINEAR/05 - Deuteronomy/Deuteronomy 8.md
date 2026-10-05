@@ -129,7 +129,7 @@ v9 אֲשֶׁ֨ר|’ă·šer|where|H834|Pro-r
 v9 לֹ֤א|lō|without|H3808|Adv-NegPrt
 v9 בְמִסְכֵּנֻת֙|ḇə·mis·kê·nuṯ|scarcity|H4544|Prep-b | N-fs
 v9 תֹּֽאכַל־|tō·ḵal-|you will eat|H398|V-Qal-Imperf-2ms
-v9 בָּ֣הּ|bāh||H0|Prep | 3fs
+v9 בָּ֣הּ|bāh|-|H0|Prep | 3fs
 v9 לֶ֔חֶם|le·ḥem|food|H3899|N-ms
 v9 לֹֽא־|lō-|nothing|H3808|Adv-NegPrt
 v9 תֶחְסַ֥ר|ṯeḥ·sar|where you will lack|H2637|V-Qal-Imperf-2ms
@@ -155,7 +155,7 @@ v10 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v10 נָֽתַן־|nā·ṯan-|He has given|H5414|V-Qal-Perf-3ms
 v10 לָֽךְ׃|lāḵ|you|H0|Prep | 2ms
 v11 הִשָּׁ֣מֶר|hiš·šā·mer|Be careful|H8104|V-Nifal-Imp-ms
-v11 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v11 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v11 פֶּן־|pen-|not|H6435|Conj
 v11 תִּשְׁכַּ֖ח|tiš·kaḥ|to forget|H7911|V-Qal-Imperf-2ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
@@ -183,7 +183,7 @@ v13 יִרְבְּיֻ֔ן|yir·bə·yun|grow large|H7235|V-Qal-Imperf-3mp | Pn
 v13 וְכֶ֥סֶף|wə·ḵe·sep̄|and your silver|H3701|Conj-w | N-ms
 v13 וְזָהָ֖ב|wə·zā·hāḇ|and gold|H2091|Conj-w | N-ms
 v13 יִרְבֶּה־|yir·beh-|increase|H7235|V-Qal-Imperf-3ms
-v13 לָּ֑ךְ|lāḵ||H0|Prep | 2ms
+v13 לָּ֑ךְ|lāḵ|-|H0|Prep | 2ms
 v13 וְכֹ֥ל|wə·ḵōl|and all|H3605|Conj-w | N-ms
 v13 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v13 לְךָ֖|lə·ḵā|you have|H0|Prep | 2ms
@@ -208,7 +208,7 @@ v15 שָׂרָף֙|śā·rāp̄|with its venomous|H8314|Adj-ms
 v15 וְעַקְרָ֔ב|wə·‘aq·rāḇ|and scorpions|H6137|Conj-w | N-ms
 v15 וְצִמָּא֖וֹן|wə·ṣim·mā·’ō·wn|a thirsty|H6774|Conj-w | N-ms
 v15 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
-v15 אֵֽין־|’ên-|vvv|H369|Adv
+v15 אֵֽין־|’ên-|...|H369|Adv
 v15 מָ֑יִם|mā·yim|and waterless [land]|H4325|N-mp
 v15 הַמּוֹצִ֤יא|ham·mō·w·ṣî|He brought|H3318|Art | V-Hifil-Prtcpl-ms
 v15 לְךָ֙|lə·ḵā|you|H0|Prep | 2ms
@@ -257,7 +257,7 @@ v18 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v18 נִשְׁבַּ֥ע|niš·ba‘|He swore|H7650|V-Nifal-Perf-3ms
 v18 לַאֲבֹתֶ֖יךָ|la·’ă·ḇō·ṯe·ḵā|to your fathers|H1|Prep-l | N-mpc | 2ms
 v18 כַּיּ֥וֹם|kay·yō·wm|day|H3117|Prep-k, Art | N-ms
-v18 הַזֶּֽה׃פ|haz·zeh|even to this|H2088|Art | Pro-ms
+v18 הַזֶּֽה׃|haz·zeh|even to this|H2088|Art | Pro-ms
 v19 וְהָיָ֗ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v19 אִם־|’im-|If|H518|Conj
 v19 שָׁכֹ֤חַ|šā·ḵō·aḥ|you ever forget|H7911|V-Qal-InfAbs
@@ -290,4 +290,4 @@ v20 לֹ֣א|lō|if you do not|H3808|Adv-NegPrt
 v20 תִשְׁמְע֔וּן|ṯiš·mə·‘ūn|obey|H8085|V-Qal-Imperf-2mp | Pn
 v20 בְּק֖וֹל|bə·qō·wl|...|H6963|Prep-b | N-msc
 v20 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v20 אֱלֹהֵיכֶֽם׃פ|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
+v20 אֱלֹהֵיכֶֽם׃|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp

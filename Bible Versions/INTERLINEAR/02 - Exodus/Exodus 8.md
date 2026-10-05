@@ -22,14 +22,14 @@ v2 הִנֵּ֣ה|hin·nêh|-|H2009|Interjection
 v2 אָנֹכִ֗י|’ā·nō·ḵî|I|H595|Pro-1cs
 v2 נֹגֵ֛ף|nō·ḡêp̄|will plague|H5062|V-Qal-Prtcpl-ms
 v2 אֶת־|’eṯ-|-|H853|DirObjM
-v2 כָּל־|kāl-|vvv|H3605|N-msc
+v2 כָּל־|kāl-|...|H3605|N-msc
 v2 גְּבוּלְךָ֖|gə·ḇū·lə·ḵā|your whole country|H1366|N-msc | 2ms
 v2 בַּֽצְפַרְדְּעִֽים׃|baṣ·p̄ar·də·‘îm|with frogs|H6854|Prep-b, Art | N-fp
 v3 וְשָׁרַ֣ץ|wə·šā·raṣ|will teem|H8317|Conj-w | V-Qal-ConjPerf-3ms
 v3 הַיְאֹר֮|hay·’ōr|The Nile|H2975|Art | N-proper-fs
 v3 צְפַרְדְּעִים֒|ṣə·p̄ar·də·‘îm|with frogs|H6854|N-fp
 v3 וְעָלוּ֙|wə·‘ā·lū|and they will come|H5927|Conj-w | V-Qal-ConjPerf-3cp
-v3 וּבָ֣אוּ|ū·ḇā·’ū|vvv|H935|Conj-w | V-Qal-ConjPerf-3cp
+v3 וּבָ֣אוּ|ū·ḇā·’ū|...|H935|Conj-w | V-Qal-ConjPerf-3cp
 v3 בְּבֵיתֶ֔ךָ|bə·ḇê·ṯe·ḵā|into your palace|H1004|Prep-b | N-msc | 2ms
 v3 וּבַחֲדַ֥ר|ū·ḇa·ḥă·ḏar|and up to your bedroom|H2315|Conj-w, Prep-b | N-msc
 v3 מִשְׁכָּבְךָ֖|miš·kā·ḇə·ḵā|...|H4904|N-msc | 2ms
@@ -154,7 +154,7 @@ v12 וַיִּצְעַ֤ק|way·yiṣ·‘aq|for help|H6817|Conj-w | V-Qal-Conse
 v12 מֹשֶׁה֙|mō·šeh|Moses|H4872|N-proper-ms
 v12 אֶל־|’el-|cried out to|H413|Prep
 v12 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
-v12 עַל־|‘al-||H5921|Prep
+v12 עַל־|‘al-|-|H5921|Prep
 v12 דְּבַ֥ר|də·ḇar|with|H1697|N-msc
 v12 הַֽצְפַרְדְּעִ֖ים|haṣ·p̄ar·də·‘îm|the frogs|H6854|Art | N-fp
 v12 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
@@ -191,7 +191,7 @@ v15 שָׁמַ֖ע|šā·ma‘|listen|H8085|V-Qal-Perf-3ms
 v15 אֲלֵהֶ֑ם|’ă·lê·hem|to [Moses and Aaron]|H413|Prep | 3mp
 v15 כַּאֲשֶׁ֖ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v15 דִּבֶּ֥ר|dib·ber|had said|H1696|V-Piel-Perf-3ms
-v15 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v15 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v16 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 יְהוָה֮|Yah·weh|Then the LORD|H3068|N-proper-ms
 v16 אֶל־|’el-|to|H413|Prep
@@ -262,7 +262,7 @@ v19 שָׁמַ֣ע|šā·ma‘|listen|H8085|V-Qal-Perf-3ms
 v19 אֲלֵהֶ֔ם|’ă·lê·hem|to them|H413|Prep | 3mp
 v19 כַּאֲשֶׁ֖ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v19 דִּבֶּ֥ר|dib·ber|had said|H1696|V-Piel-Perf-3ms
-v19 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v19 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v20 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v20 אֶל־|’el-|to|H413|Prep
@@ -272,7 +272,7 @@ v20 בַּבֹּ֙קֶר֙|bab·bō·qer|in the morning|H1242|Prep-b, Art | N-ms
 v20 וְהִתְיַצֵּב֙|wə·hiṯ·yaṣ·ṣêḇ|stand|H3320|Conj-w | V-Hitpael-Imp-ms
 v20 לִפְנֵ֣י|lip̄·nê|before him|H6440|Prep-l | N-cpc
 v20 פַרְעֹ֔ה|p̄ar·‘ōh|and when Pharaoh|H6547|N-proper-ms
-v20 הִנֵּ֖ה|hin·nêh|vvv|H2009|Interjection
+v20 הִנֵּ֖ה|hin·nêh|...|H2009|Interjection
 v20 יוֹצֵ֣א|yō·w·ṣê|goes out|H3318|V-Qal-Prtcpl-ms
 v20 הַמָּ֑יְמָה|ham·mā·yə·māh|to the water|H4325|Art | N-mp | 3fs
 v20 וְאָמַרְתָּ֣|wə·’ā·mar·tā|and tell him|H559|Conj-w | V-Qal-ConjPerf-2ms
@@ -467,4 +467,4 @@ v32 הַזֹּ֑את|haz·zōṯ|this|H2063|Art | Pro-fs
 v32 וְלֹ֥א|wə·lō|and he would not|H3808|Conj-w | Adv-NegPrt
 v32 שִׁלַּ֖ח|šil·laḥ|go|H7971|V-Piel-Perf-3ms
 v32 אֶת־|’eṯ-|-|H853|DirObjM
-v32 הָעָֽם׃פ|hā·‘ām|let the people|H5971|Art | N-ms
+v32 הָעָֽם׃|hā·‘ām|let the people|H5971|Art | N-ms

@@ -96,7 +96,7 @@ v8 אֵשֵׁ֣ב|’ê·šêḇ|I sit|H3427|V-Qal-Imperf-1cs
 v8 בַּחֹ֔שֶׁךְ|ba·ḥō·šeḵ|in darkness|H2822|Prep-b, Art | N-ms
 v8 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v8 א֥וֹר|’ō·wr|will be my light|H216|N-cs
-v8 לִֽי׃ס|lî||H0|Prep | 1cs
+v8 לִֽי׃|lî|-|H0|Prep | 1cs
 v9 זַ֤עַף|za·‘ap̄|the rage|H2197|N-msc
 v9 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
 v9 אֶשָּׂ֔א|’eś·śā|I must endure|H5375|V-Qal-Imperf-1cs
@@ -159,7 +159,7 @@ v13 לִשְׁמָמָ֖ה|liš·mā·māh|desolate|H8077|Prep-l | N-fs
 v13 עַל־|‘al-|because of|H5921|Prep
 v13 יֹֽשְׁבֶ֑יהָ|yō·šə·ḇe·hā|its inhabitants|H3427|V-Qal-Prtcpl-mpc | 3fs
 v13 מִפְּרִ֖י|mip·pə·rî|as the fruit|H6529|Prep-m | N-msc
-v13 מַֽעַלְלֵיהֶֽם׃ס|ma·‘al·lê·hem|of their deeds|H4611|N-mpc | 3mp
+v13 מַֽעַלְלֵיהֶֽם׃|ma·‘al·lê·hem|of their deeds|H4611|N-mpc | 3mp
 v14 רְעֵ֧ה|rə·‘êh|Shepherd|H7462|V-Qal-Imp-ms
 v14 עַמְּךָ֣|‘am·mə·ḵā|Your people|H5971|N-msc | 2ms
 v14 בְשִׁבְטֶ֗ךָ|ḇə·šiḇ·ṭe·ḵā|with Your staff|H7626|Prep-b | N-msc | 2ms
@@ -177,7 +177,7 @@ v14 כִּימֵ֥י|kî·mê|as in the days|H3117|Prep-k | N-mpc
 v14 עוֹלָֽם׃|‘ō·w·lām|of old|H5769|N-ms
 v15 כִּימֵ֥י|kî·mê|As in the days when|H3117|Prep-k | N-mpc
 v15 צֵאתְךָ֖|ṣê·ṯə·ḵā|you came out|H3318|V-Qal-Inf | 2ms
-v15 מֵאֶ֣רֶץ|mê·’e·reṣ|vvv|H776|Prep-m | N-fsc
+v15 מֵאֶ֣רֶץ|mê·’e·reṣ|...|H776|Prep-m | N-fsc
 v15 מִצְרָ֑יִם|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
 v15 אַרְאֶ֖נּוּ|’ar·’en·nū|I will show|H7200|V-Hifil-Imperf-1cs | 3ms
 v15 נִפְלָאֽוֹת׃|nip̄·lā·’ō·wṯ|My wonders|H6381|V-Nifal-Prtcpl-fp

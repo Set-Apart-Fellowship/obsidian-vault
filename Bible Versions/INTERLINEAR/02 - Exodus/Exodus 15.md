@@ -86,7 +86,7 @@ v9 אַשִּׂ֖יג|’aś·śîḡ|I will overtake|H5381|V-Hifil-Imperf-1cs
 v9 אֲחַלֵּ֣ק|’ă·ḥal·lêq|I will divide|H2505|V-Piel-Imperf-1cs
 v9 שָׁלָ֑ל|šā·lāl|the spoils|H7998|N-ms
 v9 תִּמְלָאֵ֣מוֹ|tim·lā·’ê·mōw|I will gorge myself on them|H4390|V-Qal-Imperf-3fs | 3mp
-v9 נַפְשִׁ֔י|nap̄·šî||H5315|N-fsc | 1cs
+v9 נַפְשִׁ֔י|nap̄·šî|-|H5315|N-fsc | 1cs
 v9 אָרִ֣יק|’ā·rîq|I will draw|H7324|V-Hifil-Imperf-1cs
 v9 חַרְבִּ֔י|ḥar·bî|my sword|H2719|N-fsc | 1cs
 v9 תּוֹרִישֵׁ֖מוֹ|tō·w·rî·šê·mōw|will destroy them|H3423|V-Hifil-Imperf-3fs | 3mp
@@ -195,7 +195,7 @@ v19 יִשְׂרָאֵ֛ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v19 הָלְכ֥וּ|hā·lə·ḵū|walked|H1980|V-Qal-Perf-3cp
 v19 בַיַּבָּשָׁ֖ה|ḇay·yab·bā·šāh|on dry ground|H3004|Prep-b, Art | N-fs
 v19 בְּת֥וֹךְ|bə·ṯō·wḵ|through|H8432|Prep-b | N-msc
-v19 הַיָּֽם׃פ|hay·yām|the sea|H3220|Art | N-ms
+v19 הַיָּֽם׃|hay·yām|the sea|H3220|Art | N-ms
 v20 וַתִּקַּח֩|wat·tiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3fs
 v20 מִרְיָ֨ם|mir·yām|Then Miriam|H4813|N-proper-fs
 v20 הַנְּבִיאָ֜ה|han·nə·ḇî·’āh|the prophetess|H5031|Art | N-fs
@@ -221,7 +221,7 @@ v21 גָּאָ֔ה|gā·’āh|...|H1342|V-Qal-Perf-3ms
 v21 ס֥וּס|sūs|the horse|H5483|N-ms
 v21 וְרֹכְב֖וֹ|wə·rō·ḵə·ḇōw|and rider|H7392|Conj-w | V-Qal-Prtcpl-msc | 3ms
 v21 רָמָ֥ה|rā·māh|He has thrown|H7411|V-Qal-Perf-3ms
-v21 בַיָּֽם׃ס|ḇay·yām|into the sea|H3220|Prep-b, Art | N-ms
+v21 בַיָּֽם׃|ḇay·yām|into the sea|H3220|Prep-b, Art | N-ms
 v22 וַיַּסַּ֨ע|way·yas·sa‘|led|H5265|Conj-w | V-Hifil-ConsecImperf-3ms
 v22 מֹשֶׁ֤ה|mō·šeh|Then Moses|H4872|N-proper-ms
 v22 אֶת־|’eṯ-|-|H853|DirObjM
@@ -305,7 +305,7 @@ v26 עָלֶ֔יךָ|‘ā·le·ḵā|on you|H5921|Prep | 2ms
 v26 כִּ֛י|kî|For|H3588|Conj
 v26 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v26 יְהוָ֖ה|Yah·weh|am the LORD|H3068|N-proper-ms
-v26 רֹפְאֶֽךָ׃ס|rō·p̄ə·’e·ḵā|who heals you|H7495|V-Qal-Prtcpl-msc | 2ms
+v26 רֹפְאֶֽךָ׃|rō·p̄ə·’e·ḵā|who heals you|H7495|V-Qal-Prtcpl-msc | 2ms
 v27 וַיָּבֹ֣אוּ|way·yā·ḇō·’ū|Then they came|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v27 אֵילִ֔מָה|’ê·li·māh|to Elim|H362|N-proper-fs | 3fs
 v27 וְשָׁ֗ם|wə·šām|where|H8033|Conj-w | Adv

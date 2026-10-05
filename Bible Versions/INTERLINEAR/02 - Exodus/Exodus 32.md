@@ -94,7 +94,7 @@ v6 הָעָם֙|hā·‘ām|And the people|H5971|Art | N-ms
 v6 לֶֽאֱכֹ֣ל|le·’ĕ·ḵōl|to eat|H398|Prep-l | V-Qal-Inf
 v6 וְשָׁת֔וֹ|wə·šā·ṯōw|and drink|H8354|Conj-w | V-Qal-InfAbs
 v6 וַיָּקֻ֖מוּ|way·yā·qu·mū|and got up|H6965|Conj-w | V-Qal-ConsecImperf-3mp
-v6 לְצַחֵֽק׃פ|lə·ṣa·ḥêq|to indulge in revelry|H6711|Prep-l | V-Piel-Inf
+v6 לְצַחֵֽק׃|lə·ṣa·ḥêq|to indulge in revelry|H6711|Prep-l | V-Piel-Inf
 v7 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v7 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v7 אֶל־|’el-|to|H413|Prep
@@ -226,11 +226,11 @@ v14 הָ֣רָעָ֔ה|hā·rā·‘āh|the calamity|H7451|Art | Adj-fs
 v14 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v14 דִּבֶּ֖ר|dib·ber|He had threatened|H1696|V-Piel-Perf-3ms
 v14 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|to bring|H6213|Prep-l | V-Qal-Inf
-v14 לְעַמּֽוֹ׃פ|lə·‘am·mōw|on His people|H5971|Prep-l | N-msc | 3ms
+v14 לְעַמּֽוֹ׃|lə·‘am·mōw|on His people|H5971|Prep-l | N-msc | 3ms
 v15 וַיִּ֜פֶן|way·yi·p̄en|turned|H6437|Conj-w | V-Qal-ConsecImperf-3ms
 v15 וַיֵּ֤רֶד|way·yê·reḏ|and went down|H3381|Conj-w | V-Qal-ConsecImperf-3ms
 v15 מֹשֶׁה֙|mō·šeh|Then Moses|H4872|N-proper-ms
-v15 מִן־|min-||H4480|Prep
+v15 מִן־|min-|-|H4480|Prep
 v15 הָהָ֔ר|hā·hār|the mountain|H2022|Art | N-ms
 v15 וּשְׁנֵ֛י|ū·šə·nê|with the two|H8147|Conj-w | Number-mdc
 v15 לֻחֹ֥ת|lu·ḥōṯ|tablets|H3871|N-mpc
@@ -242,7 +242,7 @@ v15 מִשְּׁנֵ֣י|miš·šə·nê|on both|H8147|Prep-m | Number-mdc
 v15 עֶבְרֵיהֶ֔ם|‘eḇ·rê·hem|sides|H5676|N-mpc | 3mp
 v15 מִזֶּ֥ה|miz·zeh|front|H2088|Prep-m | Pro-ms
 v15 וּמִזֶּ֖ה|ū·miz·zeh|and back|H2088|Conj-w, Prep-m | Pro-ms
-v15 הֵ֥ם|hêm||H1992|Pro-3mp
+v15 הֵ֥ם|hêm|-|H1992|Pro-3mp
 v15 כְּתֻבִֽים׃|kə·ṯu·ḇîm|-|H3789|V-Qal-QalPassPrtcpl-mp
 v16 וְהַ֨לֻּחֹ֔ת|wə·hal·lu·ḥōṯ|The tablets|H3871|Conj-w, Art | N-mp
 v16 מַעֲשֵׂ֥ה|ma·‘ă·śêh|were the work|H4639|N-msc
@@ -303,7 +303,7 @@ v19 הָהָֽר׃|hā·hār|the mountain|H2022|Art | N-ms
 v20 וַיִּקַּ֞ח|way·yiq·qaḥ|Then he took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 הָעֵ֨גֶל|hā·‘ê·ḡel|the calf|H5695|Art | N-ms
-v20 אֲשֶׁ֤ר|’ă·šer||H834|Pro-r
+v20 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v20 עָשׂוּ֙|‘ā·śū|they had made|H6213|V-Qal-Perf-3cp
 v20 וַיִּשְׂרֹ֣ף|way·yiś·rōp̄|burned it|H8313|Conj-w | V-Qal-ConsecImperf-3ms
 v20 בָּאֵ֔שׁ|bā·’êš|in the fire|H784|Prep-b, Art | N-cs
@@ -541,4 +541,4 @@ v35 אֶת־|’eṯ-|-|H853|DirObjM
 v35 הָעֵ֔גֶל|hā·‘ê·ḡel|with the calf|H5695|Art | N-ms
 v35 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v35 עָשָׂ֖ה|‘ā·śāh|had made|H6213|V-Qal-Perf-3ms
-v35 אַהֲרֹֽן׃ס|’a·hă·rōn|Aaron|H175|N-proper-ms
+v35 אַהֲרֹֽן׃|’a·hă·rōn|Aaron|H175|N-proper-ms

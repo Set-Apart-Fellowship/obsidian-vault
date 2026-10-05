@@ -19,7 +19,7 @@ v3 אֵ֣לֶךְ|’ê·leḵ|I walked|H1980|V-Qal-Imperf-1cs
 v3 חֹֽשֶׁךְ׃|ḥō·šeḵ|through the darkness|H2822|N-ms
 v4 כַּאֲשֶׁ֣ר|ka·’ă·šer|when|H834|Prep-k | Pro-r
 v4 הָ֭יִיתִי|hā·yî·ṯî|I was|H1961|V-Qal-Perf-1cs
-v4 בִּימֵ֣י|bî·mê|vvv|H3117|Prep-b | N-mpc
+v4 בִּימֵ֣י|bî·mê|...|H3117|Prep-b | N-mpc
 v4 חָרְפִּ֑י|ḥā·rə·pî|in my prime|H2779|N-msc | 1cs
 v4 בְּס֥וֹד|bə·sō·wḏ|when the friendship|H5475|Prep-b | N-msc
 v4 אֱ֝ל֗וֹהַּ|’ĕ·lō·w·ah|of God|H433|N-ms
@@ -77,7 +77,7 @@ v12 מְשַׁוֵּ֑עַ|mə·šaw·wê·a‘|who cried out|H7768|V-Piel-Prtcp
 v12 וְ֝יָת֗וֹם|wə·yā·ṯō·wm|and the fatherless|H3490|Conj-w | N-ms
 v12 וְֽלֹא־|wə·lō-|who had no|H3808|Conj-w | Adv-NegPrt
 v12 עֹזֵ֥ר|‘ō·zêr|helper|H5826|V-Qal-Prtcpl-ms
-v12 לֽוֹ׃|lōw||H0|Prep | 3ms
+v12 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v13 בִּרְכַּ֣ת|bir·kaṯ|blessed me|H1293|N-fsc
 v13 אֹ֭בֵד|’ō·ḇêḏ|The dying man|H6|V-Qal-Prtcpl-ms
 v13 עָלַ֣י|‘ā·lay|...|H5921|Prep | 1cs
@@ -145,7 +145,7 @@ v22 תִּטֹּ֥ף|tiṭ·ṭōp̄|settled|H5197|V-Qal-Imperf-3fs
 v22 מִלָּתִֽי׃|mil·lā·ṯî|my speech|H4405|N-fsc | 1cs
 v23 וְיִֽחֲל֣וּ|wə·yi·ḥă·lū|They waited|H3176|Conj-w | V-Piel-ConjPerf-3cp
 v23 כַמָּטָ֣ר|ḵam·mā·ṭār|for me as for rain|H4306|Prep-k, Art | N-ms
-v23 לִ֑י|lî||H0|Prep | 1cs
+v23 לִ֑י|lî|-|H0|Prep | 1cs
 v23 וּ֝פִיהֶ֗ם|ū·p̄î·hem|...|H6310|Conj-w | N-msc | 3mp
 v23 פָּעֲר֥וּ|pā·‘ă·rū|and drank in my words|H6473|V-Qal-Perf-3cp
 v23 לְמַלְקֽוֹשׁ׃|lə·mal·qō·wōš|like spring showers|H4456|Prep-l | N-ms
@@ -155,7 +155,7 @@ v24 לֹ֣א|lō|they did not|H3808|Adv-NegPrt
 v24 יַאֲמִ֑ינוּ|ya·’ă·mî·nū|believe it|H539|V-Hifil-Imperf-3mp
 v24 וְא֥וֹר|wə·’ō·wr|the light|H216|Conj-w | N-csc
 v24 פָּ֝נַ֗י|pā·nay|of my countenance|H6440|N-mpc | 1cs
-v24 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v24 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v24 יַפִּילֽוּן׃|yap·pî·lūn|was precious|H5307|V-Hifil-Imperf-3mp | Pn
 v25 אֶֽבֲחַ֣ר|’e·ḇă·ḥar|I chose|H977|V-Qal-Imperf-1cs
 v25 דַּרְכָּם֮|dar·kām|their course|H1870|N-csc | 3mp

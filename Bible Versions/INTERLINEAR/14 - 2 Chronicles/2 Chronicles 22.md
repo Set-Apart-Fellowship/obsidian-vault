@@ -19,7 +19,7 @@ v1 אֲחַזְיָ֥הוּ|’ă·ḥaz·yā·hū|So Ahaziah|H274|N-proper-ms
 v1 בֶן־|ḇen-|son|H1121|N-msc
 v1 יְהוֹרָ֖ם|yə·hō·w·rām|of Jehoram|H3088|N-proper-ms
 v1 מֶ֥לֶךְ|me·leḵ|...|H4428|N-msc
-v1 יְהוּדָֽה׃פ|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
+v1 יְהוּדָֽה׃|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v2 בֶּן־|ben-|years old|H1121|N-msc
 v2 אַרְבָּעִ֨ים|’ar·bā·‘îm|[was] twenty-two|H705|Number-cp
 v2 וּשְׁתַּ֤יִם|ū·šə·ta·yim|...|H8147|Conj-w | Number-fd
@@ -221,8 +221,8 @@ v11 יְהוֹרָ֡ם|yə·hō·w·rām|Jehoram|H3088|N-proper-ms
 v11 אֵשֶׁת֩|’ê·šeṯ|and the wife|H802|N-fsc
 v11 יְהוֹיָדָ֨ע|yə·hō·w·yā·ḏā‘|of Jehoiada|H3077|N-proper-ms
 v11 הַכֹּהֵ֜ן|hak·kō·hên|the priest|H3548|Art | N-ms
-v11 כִּ֣י|kî||H3588|Conj
-v11 הִיא֩|hî||H1931|Pro-3fs
+v11 כִּ֣י|kî|-|H3588|Conj
+v11 הִיא֩|hî|-|H1931|Pro-3fs
 v11 הָיְתָ֨ה|hā·yə·ṯāh|was|H1961|V-Qal-Perf-3fs
 v11 אֲח֧וֹת|’ă·ḥō·wṯ|sister|H269|N-fsc
 v11 אֲחַזְיָ֛הוּ|’ă·ḥaz·yā·hū|Ahaziah's|H274|N-proper-ms
@@ -240,4 +240,4 @@ v12 שָׁנִ֖ים|šā·nîm|years|H8141|N-fp
 v12 וַעֲתַלְיָ֖ה|wa·‘ă·ṯal·yāh|while Athaliah|H6271|Conj-w | N-proper-fs
 v12 מֹלֶ֥כֶת|mō·le·ḵeṯ|ruled|H4427|V-Qal-Prtcpl-fs
 v12 עַל־|‘al-|...|H5921|Prep
-v12 הָאָֽרֶץ׃פ|hā·’ā·reṣ|the land|H776|Art | N-fs
+v12 הָאָֽרֶץ׃|hā·’ā·reṣ|the land|H776|Art | N-fs

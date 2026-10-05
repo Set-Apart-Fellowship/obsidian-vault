@@ -46,7 +46,7 @@ v5 τοῖς|tois|to [their]|G3588|Art-DMP
 v5 ἰδίοις|idiois|own|G2398|Adj-DMP
 v5 ἀνδράσιν|andrasin|husbands|G435|N-DMP
 v5 ἵνα|hina|so that|G2443|Conj
-v5 μὴ|mē|vvv|G3361|Adv
+v5 μὴ|mē|...|G3361|Adv
 v5 ὁ|ho|the|G3588|Art-NMS
 v5 λόγος|logos|word|G3056|N-NMS
 v5 τοῦ|tou|-|G3588|Art-GMS

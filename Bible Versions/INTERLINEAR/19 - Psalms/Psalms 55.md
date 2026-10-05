@@ -146,7 +146,7 @@ v19 סֶ֥לָה|se·lāh|Selah|H5542|Interjection
 v19 אֲשֶׁ֤ר|’ă·šer|because|H834|Pro-r
 v19 אֵ֣ין|’ên|they do not|H369|Adv
 v19 חֲלִיפ֣וֹת|ḥă·lî·p̄ō·wṯ|change|H2487|N-fp
-v19 לָ֑מוֹ|lā·mōw||H0|Prep | 3mp
+v19 לָ֑מוֹ|lā·mōw|-|H0|Prep | 3mp
 v19 וְלֹ֖א|wə·lō|and they have no|H3808|Conj-w | Adv-NegPrt
 v19 יָרְא֣וּ|yā·rə·’ū|fear|H3372|V-Qal-Perf-3cp
 v19 אֱלֹהִֽים׃|’ĕ·lō·hîm|of God|H430|N-mp

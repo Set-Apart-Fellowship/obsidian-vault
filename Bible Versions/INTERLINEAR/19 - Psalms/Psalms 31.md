@@ -74,7 +74,7 @@ v9 חָנֵּ֥נִי|ḥān·nê·nî|Be merciful to me|H2603|V-Qal-Imp-ms | 1c
 v9 יְהוָה֮|Yah·weh|O LORD|H3068|N-proper-ms
 v9 כִּ֤י|kî|for|H3588|Conj
 v9 צַ֫ר־|ṣar-|I am in distress|H6887|V-Qal-Perf-3ms
-v9 לִ֥י|lî||H0|Prep | 1cs
+v9 לִ֥י|lî|-|H0|Prep | 1cs
 v9 עָשְׁשָׁ֖ה|‘ā·šə·šāh|fail|H6244|V-Qal-Perf-3fs
 v9 בְכַ֥עַס|ḇə·ḵa·‘as|from sorrow|H3708|Prep-b | N-ms
 v9 עֵינִ֗י|‘ê·nî|my eyes|H5869|N-csc | 1cs

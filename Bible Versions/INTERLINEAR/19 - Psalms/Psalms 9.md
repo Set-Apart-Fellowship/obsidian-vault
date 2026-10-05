@@ -1,5 +1,5 @@
 v1 לַ֭מְנַצֵּחַ|lam·naṣ·ṣê·aḥ|For the choirmaster|H5329|Prep-l, Art | V-Piel-Prtcpl-ms
-v1 עַלְמ֥וּת|‘al·mūṯ||H5961|Adv
+v1 עַלְמ֥וּת|‘al·mūṯ|-|H5961|Adv
 v1 לַבֵּ֗ן|lab·bên|To [the tune of] “The Death of the Son|H4192|Adv
 v1 מִזְמ֥וֹר|miz·mō·wr|A Psalm|H4210|N-ms
 v1 לְדָוִֽד׃|lə·ḏā·wiḏ|of David|H1732|Prep-l | N-proper-ms

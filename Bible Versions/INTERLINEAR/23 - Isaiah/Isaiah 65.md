@@ -89,7 +89,7 @@ v7 וּמַדֹּתִ֧י|ū·mad·dō·ṯî|I will measure|H4058|Conj-w | V-Qa
 v7 פְעֻלָּתָ֛ם|p̄ə·‘ul·lā·ṯām|deeds|H6468|N-fsc | 3mp
 v7 רִֽאשֹׁנָ֖ה|ri·šō·nāh|full payment for their former|H7223|Adj-fs
 v7 עַל|ʿal|...|H5921|Prep
-v7 חֵיקָֽם׃ס|ḥê·qām|into their laps|H2436|N-msc | 3mp
+v7 חֵיקָֽם׃|ḥê·qām|into their laps|H2436|N-msc | 3mp
 v8 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v8 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v8 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -164,7 +164,7 @@ v12 בְּעֵינַ֔י|bə·‘ê·nay|in My sight|H5869|Prep-b | N-cdc | 1cs
 v12 וּבַאֲשֶׁ֥ר|ū·ḇa·’ă·šer|that in which|H834|Conj-w, Prep-b | Pro-r
 v12 לֹֽא־|lō-|I did not|H3808|Adv-NegPrt
 v12 חָפַ֖צְתִּי|ḥā·p̄aṣ·tî|delight|H2654|V-Qal-Perf-1cs
-v12 בְּחַרְתֶּֽם׃פ|bə·ḥar·tem|and chose|H977|V-Qal-Perf-2mp
+v12 בְּחַרְתֶּֽם׃|bə·ḥar·tem|and chose|H977|V-Qal-Perf-2mp
 v13 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v13 כֹּה־|kōh-|this is what|H3541|Adv
 v13 אָמַ֣ר׀|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -240,7 +240,7 @@ v17 וְלֹ֥א|wə·lō|nor|H3808|Conj-w | Adv-NegPrt
 v17 תַעֲלֶ֖ינָה|ṯa·‘ă·le·nāh|will they come|H5927|V-Qal-Imperf-3fp
 v17 עַל־|‘al-|to|H5921|Prep
 v17 לֵֽב׃|lêḇ|mind|H3820|N-ms
-v18 כִּֽי־|kî-||H3588|Conj
+v18 כִּֽי־|kî-|-|H3588|Conj
 v18 אִם־|’im-|...|H518|Conj
 v18 שִׂ֤ישׂוּ|śî·śū|But be glad|H7797|V-Qal-Imp-mp
 v18 וְגִ֙ילוּ֙|wə·ḡî·lū|and rejoice|H1523|Conj-w | V-Qal-Imp-mp
@@ -358,4 +358,4 @@ v25 בְּכָל־|bə·ḵāl|on all My|H3605|Prep-b | N-msc
 v25 הַ֥ר|har|mountain|H2022|N-msc
 v25 קָדְשִׁ֖י|qāḏ·šî|holy|H6944|N-msc | 1cs
 v25 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v25 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v25 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

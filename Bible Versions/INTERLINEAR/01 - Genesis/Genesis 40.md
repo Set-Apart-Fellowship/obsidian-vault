@@ -102,7 +102,7 @@ v8 לֵֽאלֹהִים֙|lê·lō·hîm|belong to God|H430|Prep-l | N-mp
 v8 פִּתְרֹנִ֔ים|piṯ·rō·nîm|interpretations|H6623|N-mp
 v8 סַפְּרוּ־|sap·pə·rū-|Tell me your dreams|H5608|V-Piel-Imp-mp
 v8 נָ֖א|nā|...|H4994|Interjection
-v8 לִֽי׃|lî||H0|Prep | 1cs
+v8 לִֽי׃|lî|-|H0|Prep | 1cs
 v9 וַיְסַפֵּ֧ר|way·sap·pêr|told|H5608|Conj-w | V-Piel-ConsecImperf-3ms
 v9 שַֽׂר־|śar-|So the chief|H8269|N-msc
 v9 הַמַּשְׁקִ֛ים|ham·maš·qîm|cupbearer|H4945|Art | N-mp
@@ -110,7 +110,7 @@ v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 חֲלֹמ֖וֹ|ḥă·lō·mōw|his dream|H2472|N-msc | 3ms
 v9 לְיוֹסֵ֑ף|lə·yō·w·sêp̄|Joseph|H3130|Prep-l | N-proper-ms
 v9 וַיֹּ֣אמֶר|way·yō·mer|...|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v9 ל֔וֹ|lōw||H0|Prep | 3ms
+v9 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v9 בַּחֲלוֹמִ֕י|ba·ḥă·lō·w·mî|In my dream|H2472|Prep-b | N-msc | 1cs
 v9 וְהִנֵּה־|wə·hin·nêh-|there|H2009|Conj-w | Interjection
 v9 גֶ֖פֶן|ḡe·p̄en|was a vine|H1612|N-cs
@@ -309,4 +309,4 @@ v23 שַֽׂר־|śar-|The chief|H8269|N-msc
 v23 הַמַּשְׁקִ֛ים|ham·maš·qîm|cupbearer|H4945|Art | N-mp
 v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 יוֹסֵ֖ף|yō·w·sêp̄|Joseph|H3130|N-proper-ms
-v23 וַיִּשְׁכָּחֵֽהוּ׃פ|way·yiš·kā·ḥê·hū|he forgot all about him|H7911|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
+v23 וַיִּשְׁכָּחֵֽהוּ׃|way·yiš·kā·ḥê·hū|he forgot all about him|H7911|Conj-w | V-Qal-ConsecImperf-3ms | 3ms

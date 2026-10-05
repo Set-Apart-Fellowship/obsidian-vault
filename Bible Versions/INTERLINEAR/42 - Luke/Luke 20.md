@@ -50,7 +50,7 @@ v3 πρὸς|pros|-|G4314|Prep
 v3 αὐτούς|autous|-|G846|PPro-AM3P
 v3 Ἐρωτήσω|Erōtēsō|I will also ask|G2065|V-FIA-1S
 v3 ὑμᾶς|hymas|you|G4771|PPro-A2P
-v3 κἀγὼ|kagō|vvv|G2504|PPro-N1S
+v3 κἀγὼ|kagō|...|G2504|PPro-N1S
 v3 λόγον|logon|a question|G3056|N-AMS
 v3 καὶ|kai|-|G2532|Conj
 v3 εἴπατέ|eipate|Tell|G2036|V-AMA-2P
@@ -78,7 +78,7 @@ v5 οὐρανοῦ|ouranou|heaven|G3772|N-GMS
 v5 ἐρεῖ|erei|He will ask|G2046|V-FIA-3S
 v5 Διὰ|Dia|Why|G1223|Prep
 v5 τί|ti|...|G5101|IPro-ANS
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 ἐπιστεύσατε|episteusate|did you not believe|G4100|V-AIA-2P
 v5 αὐτῷ|autō|him|G846|PPro-DM3S
 v6 ἐὰν|ean|if|G1437|Conj
@@ -99,7 +99,7 @@ v6 προφήτην|prophētēn|a prophet|G4396|N-AMS
 v6 εἶναι|einai|was|G1510|V-PNA
 v7 Καὶ|Kai|So|G2532|Conj
 v7 ἀπεκρίθησαν|apekrithēsan|they answered [that]|G611|V-AIP-3P
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 εἰδέναι|eidenai|they did not know|G1492|V-RNA
 v7 πόθεν|pothen|where [it was] from|G4159|Adv
 v8 Καὶ|Kai|And|G2532|Conj
@@ -160,7 +160,7 @@ v10 αὐτὸν|auton|...|G846|PPro-AM3S
 v10 δείραντες|deirantes|beat [the servant]|G1194|V-APA-NMP
 v10 κενόν|kenon|empty-handed|G2756|Adj-AMS
 v11 Καὶ|Kai|[So]|G2532|Conj
-v11 προσέθετο|prosetheto|vvv|G4369|V-AIM-3S
+v11 προσέθετο|prosetheto|...|G4369|V-AIM-3S
 v11 ἕτερον|heteron|another|G2087|Adj-AMS
 v11 πέμψαι|pempsai|he sent|G3992|V-ANA
 v11 δοῦλον|doulon|servant|G1401|N-AMS
@@ -173,7 +173,7 @@ v11 ἀτιμάσαντες|atimasantes|treated him shamefully|G818|V-APA-NMP
 v11 ἐξαπέστειλαν|exapesteilan|sending [him] away|G1821|V-AIA-3P
 v11 κενόν|kenon|empty-handed|G2756|Adj-AMS
 v12 Καὶ|Kai|Then|G2532|Conj
-v12 προσέθετο|prosetheto|vvv|G4369|V-AIM-3S
+v12 προσέθετο|prosetheto|...|G4369|V-AIM-3S
 v12 τρίτον|triton|a third|G5154|Adv
 v12 πέμψαι|pempsai|he sent|G3992|V-ANA
 v12 οἱ|hoi|-|G3588|Art-NMP
@@ -248,7 +248,7 @@ v16 ἄλλοις|allois|to others|G243|Adj-DMP
 v16 Ἀκούσαντες|Akousantes|[when the people] heard [this]|G191|V-APA-NMP
 v16 δὲ|de|And|G1161|Conj
 v16 εἶπαν|eipan|they said|G2036|V-AIA-3P
-v16 Μὴ|Mē|vvv|G3361|Adv
+v16 Μὴ|Mē|...|G3361|Adv
 v16 γένοιτο|genoito|May such a thing never happen|G1096|V-AOM-3S
 v17 Ὁ|Ho|-|G3588|Art-NMS
 v17 δὲ|de|But|G1161|Conj
@@ -279,7 +279,7 @@ v18 ἐκεῖνον|ekeinon|this|G1565|DPro-AMS
 v18 τὸν|ton|-|G3588|Art-AMS
 v18 λίθον|lithon|stone|G3037|N-AMS
 v18 συνθλασθήσεται|synthlasthēsetai|will be broken to pieces|G4917|V-FIP-3S
-v18 ἐφ’|eph’|vvv|G1909|Prep
+v18 ἐφ’|eph’|...|G1909|Prep
 v18 ὃν|hon|he on whom|G3739|RelPro-AMS
 v18 δ’|d’|but|G1161|Conj
 v18 ἂν|an|...|G302|Prtcl
@@ -298,7 +298,7 @@ v19 ἐπ’|ep’|...|G1909|Prep
 v19 αὐτὸν|auton|Him|G846|PPro-AM3S
 v19 τὰς|tas|...|G3588|Art-AFP
 v19 χεῖρας|cheiras|...|G5495|N-AFP
-v19 ἐν|en|vvv|G1722|Prep
+v19 ἐν|en|...|G1722|Prep
 v19 αὐτῇ|autē|that very|G846|PPro-DF3S
 v19 τῇ|tē|-|G3588|Art-DFS
 v19 ὥρᾳ|hōra|hour|G5610|N-DFS
@@ -404,7 +404,7 @@ v25 Θεοῦ|Theou|God's|G2316|N-GMS
 v25 τῷ|tō|-|G3588|Art-DMS
 v25 Θεῷ|Theō|to God|G2316|N-DMS
 v26 Καὶ|Kai|And|G2532|Conj
-v26 οὐκ|ouk|vvv|G3756|Adv
+v26 οὐκ|ouk|...|G3756|Adv
 v26 ἴσχυσαν|ischysan|they were unable|G2480|V-AIA-3P
 v26 ἐπιλαβέσθαι|epilabesthai|to trap Him in|G1949|V-ANM
 v26 αὐτοῦ|autou|His|G846|PPro-GM3S
@@ -443,14 +443,14 @@ v28 ἀποθάνῃ|apothanē|dies|G599|V-ASA-3S
 v28 ἔχων|echōn|[and] leaves|G2192|V-PPA-NMS
 v28 γυναῖκα|gynaika|a wife|G1135|N-AFS
 v28 καὶ|kai|but|G2532|Conj
-v28 οὗτος|houtos|vvv|G3778|DPro-NMS
+v28 οὗτος|houtos|...|G3778|DPro-NMS
 v28 ἄτεκνος|ateknos|no children|G815|Adj-NMS
-v28 ᾖ|ē|vvv|G1510|V-PSA-3S
+v28 ᾖ|ē|...|G1510|V-PSA-3S
 v28 ἵνα|hina|-|G2443|Conj
 v28 λάβῃ|labē|is to marry|G2983|V-ASA-3S
-v28 ὁ|ho|vvv|G3588|Art-NMS
+v28 ὁ|ho|...|G3588|Art-NMS
 v28 ἀδελφὸς|adelphos|[the man]|G80|N-NMS
-v28 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v28 αὐτοῦ|autou|...|G846|PPro-GM3S
 v28 τὴν|tēn|[his brother's]|G3588|Art-AFS
 v28 γυναῖκα|gynaika|[widow]|G1135|N-AFS
 v28 καὶ|kai|and|G2532|Conj
@@ -458,7 +458,7 @@ v28 ἐξαναστήσῃ|exanastēsē|raise up|G1817|V-ASA-3S
 v28 σπέρμα|sperma|offspring|G4690|N-ANS
 v28 τῷ|tō|for|G3588|Art-DMS
 v28 ἀδελφῷ|adelphō|[him]|G80|N-DMS
-v28 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v28 αὐτοῦ|autou|...|G846|PPro-GM3S
 v29 ἑπτὰ|hepta|seven|G2033|Adj-NMP
 v29 οὖν|oun|Now|G3767|Conj
 v29 ἀδελφοὶ|adelphoi|brothers|G80|N-NMP
@@ -506,7 +506,7 @@ v33 γυνή|gynē|wife|G1135|N-NFS
 v33 οἱ|hoi|[all]|G3588|Art-NMP
 v33 γὰρ|gar|For|G1063|Conj
 v33 ἑπτὰ|hepta|seven|G2033|Adj-NMP
-v33 ἔσχον|eschon|vvv|G2192|V-AIA-3P
+v33 ἔσχον|eschon|...|G2192|V-AIA-3P
 v33 αὐτὴν|autēn|to her|G846|PPro-AF3S
 v33 γυναῖκα|gynaika|were married|G1135|N-AFS
 v34 Καὶ|Kai|-|G2532|Conj
@@ -556,7 +556,7 @@ v36 ἀναστάσεως|anastaseōs|resurrection|G386|N-GFS
 v36 υἱοὶ|huioi|sons|G5207|N-NMP
 v36 ὄντες|ontes|since they are|G1510|V-PPA-NMP
 v37 Ὅτι|Hoti|that|G3754|Conj
-v37 δὲ|de|vvv|G1161|Conj
+v37 δὲ|de|...|G1161|Conj
 v37 ἐγείρονται|egeirontai|are raised|G1453|V-PIM/P-3P
 v37 οἱ|hoi|the|G3588|Art-NMP
 v37 νεκροὶ|nekroi|dead|G3498|Adj-NMP
@@ -598,7 +598,7 @@ v39 εἶπαν|eipan|...|G2036|V-AIA-3P
 v39 Διδάσκαλε|Didaskale|Teacher|G1320|N-VMS
 v39 καλῶς|kalōs|well|G2573|Adv
 v39 εἶπας|eipas|You have spoken|G2036|V-AIA-2S
-v40 οὐκέτι|ouketi|vvv|G3765|Adv
+v40 οὐκέτι|ouketi|...|G3765|Adv
 v40 γὰρ|gar|And|G1063|Conj
 v40 ἐτόλμων|etolmōn|they did not dare|G5111|V-IIA-3P
 v40 ἐπερωτᾶν|eperōtan|to question|G1905|V-PNA
@@ -694,7 +694,7 @@ v47 χηρῶν|chērōn|widows|G5503|N-GFP
 v47 καὶ|kai|and|G2532|Conj
 v47 προφάσει|prophasei|for a show|G4392|N-DFS
 v47 μακρὰ|makra|make lengthy prayers|G3117|Adj-ANP
-v47 προσεύχονται|proseuchontai|vvv|G4336|V-PIM/P-3P
+v47 προσεύχονται|proseuchontai|...|G4336|V-PIM/P-3P
 v47 οὗτοι|houtoi|These [men]|G3778|DPro-NMP
 v47 λήμψονται|lēmpsontai|will receive|G2983|V-FIM-3P
 v47 περισσότερον|perissoteron|greater|G4053|Adj-ANS-C

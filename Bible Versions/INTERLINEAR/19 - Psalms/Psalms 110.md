@@ -38,7 +38,7 @@ v4 כֹהֵ֥ן|ḵō·hên|are a priest|H3548|N-ms
 v4 לְעוֹלָ֑ם|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
 v4 עַל־|‘al-|in|H5921|Prep
 v4 דִּ֝בְרָתִ֗י|diḇ·rā·ṯî|the order|H1700|N-fsc
-v4 מַלְכִּי־|mal·kî-|vvv|H4442|Prep
+v4 מַלְכִּי־|mal·kî-|...|H4442|Prep
 v4 צֶֽדֶק׃|ṣe·ḏeq|of Melchizedek|H4442|N-proper-ms
 v5 אֲדֹנָ֥י|’ă·ḏō·nāy|The Lord|H136|N-proper-ms
 v5 עַל־|‘al-|is at|H5921|Prep

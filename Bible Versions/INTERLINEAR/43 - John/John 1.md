@@ -246,7 +246,7 @@ v18 ὢν|ōn|is|G1510|V-PPA-NMS
 v18 εἰς|eis|at|G1519|Prep
 v18 τὸν|ton|the|G3588|Art-AMS
 v18 κόλπον|kolpon|side|G2859|N-AMS
-v18 τοῦ|tou|vvv|G3588|Art-GMS
+v18 τοῦ|tou|...|G3588|Art-GMS
 v18 Πατρὸς|Patros|Father's|G3962|N-GMS
 v18 ἐκεῖνος|ekeinos|-|G1565|DPro-NMS
 v18 ἐξηγήσατο|exēgēsato|has made [Him] known|G1834|V-AIM-3S
@@ -255,7 +255,7 @@ v19 αὕτη|hautē|this|G3778|DPro-NFS
 v19 ἐστὶν|estin|was|G1510|V-PIA-3S
 v19 ἡ|hē|-|G3588|Art-NFS
 v19 μαρτυρία|martyria|testimony|G3141|N-NFS
-v19 τοῦ|tou|vvv|G3588|Art-GMS
+v19 τοῦ|tou|...|G3588|Art-GMS
 v19 Ἰωάννου|Iōannou|John's|G2491|N-GMS
 v19 ὅτε|hote|when|G3753|Adv
 v19 ἀπέστειλαν|apesteilan|sent|G649|V-AIA-3P
@@ -311,7 +311,7 @@ v22 οὖν|oun|So|G3767|Conj
 v22 αὐτῷ|autō|to him|G846|PPro-DM3S
 v22 Τίς|Tis|Who|G5101|IPro-NMS
 v22 εἶ|ei|are you|G1510|V-PIA-2S
-v22 ἵνα|hina|vvv|G2443|Conj
+v22 ἵνα|hina|...|G2443|Conj
 v22 ἀπόκρισιν|apokrisin|an answer|G612|N-AFS
 v22 δῶμεν|dōmen|We need|G1325|V-ASA-1P
 v22 τοῖς|tois|for those|G3588|Art-DMP
@@ -718,7 +718,7 @@ v46 Ναθαναήλ|Nathanaēl|Nathanael|G3482|N-NMS
 v46 Ἐκ|Ek|from|G1537|Prep
 v46 Ναζαρὲτ|Nazaret|Nazareth|G3478|N-GFS
 v46 δύναταί|dynatai|Can|G1410|V-PIM/P-3S
-v46 τι|ti|vvv|G5100|IPro-NNS
+v46 τι|ti|...|G5100|IPro-NNS
 v46 ἀγαθὸν|agathon|anything good|G18|Adj-NNS
 v46 εἶναι|einai|come|G1510|V-PNA
 v46 Λέγει|Legei|said|G3004|V-PIA-3S

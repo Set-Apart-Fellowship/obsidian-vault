@@ -35,7 +35,7 @@ v5 כִּצְבִ֣י|kiṣ·ḇî|like a gazelle|H6643|Prep-k | N-ms
 v5 מִיָּ֑ד|mî·yāḏ|from the hand [of the hunter]|H3027|Prep-m | N-fs
 v5 וּ֝כְצִפּ֗וֹר|ū·ḵə·ṣip·pō·wr|like a bird|H6833|Conj-w, Prep-k | N-cs
 v5 מִיַּ֥ד|mî·yaḏ|from the snare|H3027|Prep-m | N-fsc
-v5 יָקֽוּשׁ׃פ|yā·qūš|of the fowler|H3353|N-ms
+v5 יָקֽוּשׁ׃|yā·qūš|of the fowler|H3353|N-ms
 v6 לֵֽךְ־|lêḵ-|Walk in the manner of|H1980|V-Qal-Imp-ms
 v6 אֶל־|’el-|...|H413|Prep
 v6 נְמָלָ֥ה|nə·mā·lāh|the ant|H5244|N-fs
@@ -45,7 +45,7 @@ v6 דְרָכֶ֣יהָ|ḏə·rā·ḵe·hā|its ways|H1870|N-cpc | 3fs
 v6 וַחֲכָֽם׃|wa·ḥă·ḵām|and become wise|H2449|Conj-w | V-Qal-Imp-ms
 v7 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v7 אֵֽין־|’ên-|Without|H369|Adv
-v7 לָ֥הּ|lāh||H0|Prep | 3fs
+v7 לָ֥הּ|lāh|-|H0|Prep | 3fs
 v7 קָצִ֗ין|qā·ṣîn|a commander|H7101|N-ms
 v7 שֹׁטֵ֥ר|šō·ṭêr|without an overseer|H7860|N-ms
 v7 וּמֹשֵֽׁל׃|ū·mō·šêl|or ruler|H4910|Conj-w | V-Qal-Prtcpl-ms
@@ -75,7 +75,7 @@ v11 כִמְהַלֵּ֥ךְ|ḵim·hal·lêḵ|like a robber|H1980|Prep-k | V-P
 v11 רֵאשֶׁ֑ךָ|rê·še·ḵā|and poverty|H7389|N-msc | 2ms
 v11 וּ֝מַחְסֹֽרְךָ֗|ū·maḥ·sō·rə·ḵā|and need|H4270|Conj-w | N-msc | 2ms
 v11 כְּאִ֣ישׁ|kə·’îš|like a bandit|H376|Prep-k | N-ms
-v11 מָגֵֽן׃פ|mā·ḡên|...|H4043|N-ms
+v11 מָגֵֽן׃|mā·ḡên|...|H4043|N-ms
 v12 אָדָ֣ם|’ā·ḏām|person|H120|N-msc
 v12 בְּ֭לִיַּעַל|bə·lî·ya·‘al|A worthless|H1100|N-ms
 v12 אִ֣ישׁ|’îš|man|H376|N-msc
@@ -105,7 +105,7 @@ v15 אֵיד֑וֹ|’ê·ḏōw|calamity|H343|N-msc | 3ms
 v15 פֶּ֥תַע|pe·ṯa‘|in an instant|H6621|Adv
 v15 יִ֝שָּׁבֵ֗ר|yiš·šā·ḇêr|he will be shattered|H7665|V-Nifal-Imperf-3ms
 v15 וְאֵ֣ין|wə·’ên|beyond|H369|Conj-w | Adv
-v15 מַרְפֵּֽא׃פ|mar·pê|recovery|H4832|N-ms
+v15 מַרְפֵּֽא׃|mar·pê|recovery|H4832|N-ms
 v16 שֶׁשׁ־|šeš-|six [things that]|H8337|Number-fsc
 v16 הֵ֭נָּה|hên·nāh|There are|H2007|Pro-3fp
 v16 שָׂנֵ֣א|śā·nê|hates|H8130|V-Qal-Perf-3ms
@@ -136,7 +136,7 @@ v19 שָׁ֑קֶר|šā·qer|a false|H8267|N-ms
 v19 וּמְשַׁלֵּ֥חַ|ū·mə·šal·lê·aḥ|and one who stirs up|H7971|Conj-w | V-Piel-Prtcpl-ms
 v19 מְ֝דָנִ֗ים|mə·ḏā·nîm|discord|H4090|N-mp
 v19 בֵּ֣ין|bên|among|H996|Prep
-v19 אַחִֽים׃פ|’a·ḥîm|brothers|H251|N-mp
+v19 אַחִֽים׃|’a·ḥîm|brothers|H251|N-mp
 v20 נְצֹ֣ר|nə·ṣōr|keep|H5341|V-Qal-Imp-ms
 v20 בְּ֭נִי|bə·nî|My son|H1121|N-msc | 1cs
 v20 מִצְוַ֣ת|miṣ·waṯ|commandment|H4687|N-fsc
@@ -185,7 +185,7 @@ v25 תִּ֝קָּֽחֲךָ֗|tiq·qā·ḥă·ḵā|or let her captivate you|
 v25 בְּעַפְעַפֶּֽיהָ׃|bə·‘ap̄·‘ap·pe·hā|with her eyes|H6079|Prep-b | N-mdc | 3fs
 v26 כִּ֤י|kî|For|H3588|Conj
 v26 בְעַד־|ḇə·‘aḏ-|the levy|H1157|Prep
-v26 אִשָּׁ֥ה|’iš·šāh|vvv|H802|N-fs
+v26 אִשָּׁ֥ה|’iš·šāh|...|H802|N-fs
 v26 זוֹנָ֗ה|zō·w·nāh|of the prostitute|H2181|N-fs
 v26 עַֽד־|‘aḏ-|...|H5704|Prep
 v26 כִּכַּ֫ר|kik·kar|is poverty|H3603|N-fsc
@@ -194,7 +194,7 @@ v26 וְאֵ֥שֶׁת|wə·’ê·šeṯ|and the adulteress|H802|Conj-w | N-fsc
 v26 אִ֑ישׁ|’îš|...|H376|N-ms
 v26 נֶ֖פֶשׁ|ne·p̄eš|life|H5315|N-fs
 v26 יְקָרָ֣ה|yə·qā·rāh|your very|H3368|Adj-fs
-v26 תָצֽוּד׃פ|ṯā·ṣūḏ|preys upon|H6679|V-Qal-Imperf-3fs
+v26 תָצֽוּד׃|ṯā·ṣūḏ|preys upon|H6679|V-Qal-Imperf-3fs
 v27 הֲיַחְתֶּ֤ה|hă·yaḥ·teh|embrace|H2846|V-Qal-Imperf-3ms
 v27 אִ֓ישׁ|’îš|Can a man|H376|N-ms
 v27 אֵ֬שׁ|’êš|fire|H784|N-cs
@@ -227,7 +227,7 @@ v30 כִּ֣י|kî|if|H3588|Conj
 v30 יִגְנ֑וֹב|yiḡ·nō·wḇ|he steals|H1589|V-Qal-Imperf-3ms
 v30 לְמַלֵּ֥א|lə·mal·lê|to satisfy|H4390|Prep-l | V-Piel-Inf
 v30 נַ֝פְשׁ֗וֹ|nap̄·šōw|his|H5315|N-fsc | 3ms
-v30 כִּ֣י|kî|vvv|H3588|Conj
+v30 כִּ֣י|kî|...|H3588|Conj
 v30 יִרְעָֽב׃|yir·‘āḇ|hunger|H7456|V-Qal-Imperf-3ms
 v31 וְ֭נִמְצָא|wə·nim·ṣā|Yet if caught|H4672|Conj-w | V-Nifal-ConjPerf-3ms
 v31 יְשַׁלֵּ֣ם|yə·šal·lêm|he must pay|H7999|V-Piel-Imperf-3ms
@@ -268,4 +268,4 @@ v35 וְלֹֽא־|wə·lō-|[or]|H3808|Conj-w | Adv-NegPrt
 v35 יֹ֝אבֶ֗ה|yō·ḇeh|persuaded|H14|V-Qal-Imperf-3ms
 v35 כִּ֣י|kî|...|H3588|Conj
 v35 תַרְבֶּה־|ṯar·beh-|by lavish|H7235|V-Hifil-Imperf-2ms
-v35 שֹֽׁחַד׃פ|šō·ḥaḏ|gifts|H7810|N-ms
+v35 שֹֽׁחַד׃|šō·ḥaḏ|gifts|H7810|N-ms

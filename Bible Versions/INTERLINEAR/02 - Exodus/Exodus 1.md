@@ -48,7 +48,7 @@ v7 בִּמְאֹ֣ד|bim·’ōḏ|and became exceedingly|H3966|Prep-b | Adv
 v7 מְאֹ֑ד|mə·’ōḏ|...|H3966|Adv
 v7 וַתִּמָּלֵ֥א|wat·tim·mā·lê|was filled with them|H4390|Conj-w | V-Nifal-ConsecImperf-3fs
 v7 הָאָ֖רֶץ|hā·’ā·reṣ|so that the land|H776|Art | N-fs
-v7 אֹתָֽם׃פ|’ō·ṯām|...|H854|Prep | 3mp
+v7 אֹתָֽם׃|’ō·ṯām|...|H854|Prep | 3mp
 v8 וַיָּ֥קָם|way·yā·qām|came to power|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v8 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-ms
 v8 חָדָ֖שׁ|ḥā·ḏāš|Then a new|H2319|Adj-ms
@@ -135,7 +135,7 @@ v14 כָּל־|kāl-|Every|H3605|N-msc
 v14 עֲבֹ֣דָתָ֔ם|‘ă·ḇō·ḏā·ṯām|service|H5656|N-fsc | 3mp
 v14 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v14 עָבְד֥וּ|‘ā·ḇə·ḏū|they imposed|H5647|V-Qal-Perf-3cp
-v14 בָהֶ֖ם|ḇā·hem||H0|Prep | 3mp
+v14 בָהֶ֖ם|ḇā·hem|-|H0|Prep | 3mp
 v14 בְּפָֽרֶךְ׃|bə·p̄ā·reḵ|was harsh|H6531|Prep-b | N-ms
 v15 וַיֹּ֙אמֶר֙|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 מֶ֣לֶךְ|me·leḵ|Then the king|H4428|N-msc
@@ -144,7 +144,7 @@ v15 לַֽמְיַלְּדֹ֖ת|lam·yal·lə·ḏōṯ|midwives|H3205|Prep-l, 
 v15 הָֽעִבְרִיֹּ֑ת|hā·‘iḇ·rî·yōṯ|to the Hebrew|H5680|Art | N-proper-fp
 v15 אֲשֶׁ֨ר|’ă·šer|whose|H834|Pro-r
 v15 שֵׁ֤ם|šêm|names were|H8034|N-msc
-v15 הָֽאַחַת֙|hā·’a·ḥaṯ|vvv|H259|Art | Number-fs
+v15 הָֽאַחַת֙|hā·’a·ḥaṯ|...|H259|Art | Number-fs
 v15 שִׁפְרָ֔ה|šip̄·rāh|Shiphrah|H8236|N-proper-fs
 v15 וְשֵׁ֥ם|wə·šêm|...|H8034|Conj-w | N-msc
 v15 הַשֵּׁנִ֖ית|haš·šê·nîṯ|and|H8145|Art | Number-ofs
@@ -237,4 +237,4 @@ v22 הַיְאֹ֙רָה֙|hay·’ō·rāh|into the Nile|H2975|Art | N-ms | 3fs
 v22 תַּשְׁלִיכֻ֔הוּ|taš·lî·ḵu·hū|you must throw|H7993|V-Hifil-Imperf-2mp | 3ms
 v22 וְכָל־|wə·ḵāl|but every|H3605|Conj-w | N-msc
 v22 הַבַּ֖ת|hab·baṯ|daughter|H1323|Art | N-fs
-v22 תְּחַיּֽוּן׃ס|tə·ḥay·yūn|you may allow to live|H2421|V-Piel-Imperf-2mp | Pn
+v22 תְּחַיּֽוּן׃|tə·ḥay·yūn|you may allow to live|H2421|V-Piel-Imperf-2mp | Pn

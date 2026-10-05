@@ -46,7 +46,7 @@ v5 חָ֨סָה|ḥā·sāh|one cared enough|H2347|V-Qal-Perf-3fs
 v5 עָלַ֜יִךְ|‘ā·la·yiḵ|for you|H5921|Prep | 2fs
 v5 עַ֗יִן|‘a·yin|...|H5869|N-cs
 v5 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|to do|H6213|Prep-l | V-Qal-Inf
-v5 לָ֛ךְ|lāḵ||H0|Prep | 2fs
+v5 לָ֛ךְ|lāḵ|-|H0|Prep | 2fs
 v5 אַחַ֥ת|’a·ḥaṯ|even one|H259|Number-fs
 v5 מֵאֵ֖לֶּה|mê·’êl·leh|of these things|H428|Prep-m | Pro-cp
 v5 לְחֻמְלָ֣ה|lə·ḥum·lāh|out of compassion|H2550|Prep-l | V-Qal-Inf | 3fs
@@ -187,7 +187,7 @@ v15 תַּזְנוּתַ֛יִךְ|taz·nū·ṯa·yiḵ|your favors|H8457|N-fpc
 v15 עַל־|‘al-|on|H5921|Prep
 v15 כָּל־|kāl-|everyone|H3605|N-msc
 v15 עוֹבֵ֖ר|‘ō·w·ḇêr|who passed by|H5674|V-Qal-Prtcpl-ms
-v15 לוֹ־|lōw-||H0|Prep | 3ms
+v15 לוֹ־|lōw-|-|H0|Prep | 3ms
 v15 יֶֽהִי׃|ye·hî|and your beauty was theirs for the asking|H1961|V-Qal-Imperf.Jus-3ms
 v16 וַתִּקְחִ֣י|wat·tiq·ḥî|You took|H3947|Conj-w | V-Qal-ConsecImperf-2fs
 v16 מִבְּגָדַ֗יִךְ|mib·bə·ḡā·ḏa·yiḵ|some of your garments|H899|Prep-m | N-mpc | 2fs
@@ -210,7 +210,7 @@ v17 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v17 נָתַ֣תִּי|nā·ṯat·tî|I had given|H5414|V-Qal-Perf-1cs
 v17 לָ֔ךְ|lāḵ|you|H0|Prep | 2fs
 v17 וַתַּעֲשִׂי־|wat·ta·‘ă·śî-|and you made|H6213|Conj-w | V-Qal-ConsecImperf-2fs
-v17 לָ֖ךְ|lāḵ||H0|Prep | 2fs
+v17 לָ֖ךְ|lāḵ|-|H0|Prep | 2fs
 v17 צַלְמֵ֣י|ṣal·mê|idols|H6754|N-mpc
 v17 זָכָ֑ר|zā·ḵār|male|H2145|N-ms
 v17 וַתִּזְנִי־|wat·tiz·nî-|to prostitute yourself|H2181|Conj-w | V-Qal-ConsecImperf-2fs
@@ -227,7 +227,7 @@ v18 לִפְנֵיהֶֽם׃|lip̄·nê·hem|before them|H6440|Prep-l | N-mpc | 
 v19 וְלַחְמִי֩|wə·laḥ·mî|the food|H3899|Conj-w | N-msc | 1cs
 v19 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v19 נָתַ֨תִּי|nā·ṯat·tî|And you set|H5414|V-Qal-Perf-1cs
-v19 לָ֜ךְ|lāḵ||H0|Prep | 2fs
+v19 לָ֜ךְ|lāḵ|-|H0|Prep | 2fs
 v19 סֹ֣לֶת|sō·leṯ|the fine flour|H5560|N-fs
 v19 וָשֶׁ֤מֶן|wā·še·men|oil|H8081|Conj-w | N-ms
 v19 וּדְבַשׁ֙|ū·ḏə·ḇaš|and honey|H1706|Conj-w | N-ms
@@ -312,7 +312,7 @@ v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 תַּזְנֻתֵךְ׃|taz·nu·ṯēḵ|promiscuity|H8457|N-fpc | 2fs
 v26 וַתִּזְנִ֧י|wat·tiz·nî|You prostituted yourself|H2181|Conj-w | V-Qal-ConsecImperf-2fs
 v26 אֶל־|’el-|with|H413|Prep
-v26 בְּנֵֽי־|bə·nê-||H1121|N-mpc
+v26 בְּנֵֽי־|bə·nê-|-|H1121|N-mpc
 v26 מִצְרַ֛יִם|miṣ·ra·yim|the Egyptians|H4714|N-proper-fs
 v26 שְׁכֵנַ֖יִךְ|šə·ḵê·na·yiḵ|neighbors|H7934|N-mpc | 2fs
 v26 גִּדְלֵ֣י|giḏ·lê|your lustful|H1432|V-Qal-Prtcpl-mpc
@@ -428,7 +428,7 @@ v35 לָכֵ֣ן|lā·ḵên|Therefore|H3651|Adv
 v35 זוֹנָ֔ה|zō·w·nāh|O prostitute|H2181|N-fs
 v35 שִׁמְעִ֖י|šim·‘î|hear|H8085|V-Qal-Imp-fs
 v35 דְּבַר־|də·ḇar-|the word|H1697|N-msc
-v35 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v35 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v36 כֹּֽה־|kōh-|This is what|H3541|Adv
 v36 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v36 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -458,8 +458,8 @@ v37 כָּל־|kāl-|all|H3605|N-msc
 v37 מְאַהֲבַ֙יִךְ֙|mə·’a·hă·ḇa·yiḵ|the lovers|H157|V-Piel-Prtcpl-mpc | 2fs
 v37 אֲשֶׁ֣ר|’ă·šer|with whom|H834|Pro-r
 v37 עָרַ֣בְתְּ|‘ā·raḇt|you found pleasure|H6149|V-Qal-Perf-2fs
-v37 עֲלֵיהֶ֔ם|‘ă·lê·hem||H5921|Prep | 3mp
-v37 וְאֵת֙|wə·’êṯ||H853|Conj-w | DirObjM
+v37 עֲלֵיהֶ֔ם|‘ă·lê·hem|-|H5921|Prep | 3mp
+v37 וְאֵת֙|wə·’êṯ|-|H853|Conj-w | DirObjM
 v37 כָּל־|kāl-|all|H3605|N-msc
 v37 אֲשֶׁ֣ר|’ă·šer|those|H834|Pro-r
 v37 אָהַ֔בְתְּ|’ā·haḇt|you loved|H157|V-Qal-Perf-2fs
@@ -656,7 +656,7 @@ v50 לְפָנָ֑י|lə·p̄ā·nāy|before Me|H6440|Prep-l | N-mpc | 1cs
 v50 וָאָסִ֥יר|wā·’ā·sîr|Therefore I removed|H5493|Conj-w | V-Hifil-ConsecImperf-1cs
 v50 אֶתְהֶ֖ן|’eṯ·hen|them|H853|DirObjM | 3fp
 v50 כַּאֲשֶׁ֥ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
-v50 רָאִֽיתִי׃ס|rā·’î·ṯî|you have seen|H7200|V-Qal-Perf-1cs
+v50 רָאִֽיתִי׃|rā·’î·ṯî|you have seen|H7200|V-Qal-Perf-1cs
 v51 וְשֹׁ֣מְר֔וֹן|wə·šō·mə·rō·wn|Furthermore, Samaria|H8111|Conj-w | N-proper-fs
 v51 כַּחֲצִ֥י|ka·ḥă·ṣî|half|H2677|Prep-k, Art | N-msc
 v51 חַטֹּאתַ֖יִךְ|ḥaṭ·ṭō·ṯa·yiḵ|the sins you did|H2403|N-fpc | 2fs
@@ -759,7 +759,7 @@ v58 תּוֹעֲבוֹתַ֖יִךְ|tō·w·‘ă·ḇō·w·ṯa·yiḵ|your 
 v58 אַ֣תְּ|’at|You|H859|Pro-2fs
 v58 נְשָׂאתִ֑ים|nə·śā·ṯîm|will bear the consequences|H5375|V-Qal-Perf-2fs | 3mp
 v58 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
-v58 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v58 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v59 כִּ֣י|kî|For|H3588|Conj
 v59 כֹ֤ה|ḵōh|this is what|H3541|Adv
 v59 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -793,7 +793,7 @@ v61 בְּקַחְתֵּ֗ךְ|bə·qaḥ·têḵ|when you receive|H3947|Prep-b 
 v61 אֶת־|’eṯ-|-|H853|DirObjM
 v61 אֲחוֹתַ֙יִךְ֙|’ă·ḥō·w·ṯa·yiḵ|sisters|H269|N-fpc | 2fs
 v61 הַגְּדֹל֣וֹת|hag·gə·ḏō·lō·wṯ|your older|H1419|Art | Adj-fp
-v61 מִמֵּ֔ךְ|mim·mêḵ||H4480|Prep | 2fs
+v61 מִמֵּ֔ךְ|mim·mêḵ|-|H4480|Prep | 2fs
 v61 אֶל־|’el-|and|H413|Prep
 v61 הַקְּטַנּ֖וֹת|haq·qə·ṭan·nō·wṯ|younger|H6996|Art | Adj-fp
 v61 מִמֵּ֑ךְ|mim·mêḵ|...|H4480|Prep | 2fs
@@ -817,17 +817,17 @@ v63 תִּזְכְּרִי֙|tiz·kə·rî|you will remember|H2142|V-Qal-Imperf-
 v63 וָבֹ֔שְׁתְּ|wā·ḇō·šət|and be ashamed|H954|Conj-w | V-Qal-ConjPerf-2fs
 v63 וְלֹ֨א|wə·lō|and never|H3808|Conj-w | Adv-NegPrt
 v63 יִֽהְיֶה־|yih·yeh-|...|H1961|V-Qal-Imperf-3ms
-v63 לָּ֥ךְ|lāḵ||H0|Prep | 2fs
+v63 לָּ֥ךְ|lāḵ|-|H0|Prep | 2fs
 v63 עוֹד֙|‘ō·wḏ|again|H5750|Adv
 v63 פִּתְח֣וֹן|piṯ·ḥō·wn|open|H6610|N-msc
 v63 פֶּ֔ה|peh|your mouth|H6310|N-ms
 v63 מִפְּנֵ֖י|mip·pə·nê|because of|H6440|Prep-m | N-cpc
 v63 כְּלִמָּתֵ֑ךְ|kə·lim·mā·ṯêḵ|your disgrace|H3639|N-fsc | 2fs
 v63 בְּכַפְּרִי־|bə·ḵap·pə·rî-|when I make atonement|H3722|Prep-b | V-Piel-Inf | 1cs
-v63 לָךְ֙|lāḵ||H0|Prep | 2fs
+v63 לָךְ֙|lāḵ|-|H0|Prep | 2fs
 v63 לְכָל־|lə·ḵāl|for|H3605|Prep-l | N-msc
 v63 אֲשֶׁ֣ר|’ă·šer|all|H834|Pro-r
 v63 עָשִׂ֔ית|‘ā·śîṯ|you have done|H6213|V-Qal-Perf-2fs
 v63 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v63 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v63 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v63 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

@@ -45,7 +45,7 @@ v7 תִּֽמְנַֽע־|tim·na‘-|and withheld|H4513|V-Qal-Imperf-2ms
 v7 לָֽחֶם׃|lā·ḥem|food|H3899|N-ms
 v8 וְאִ֣ישׁ|wə·’îš|man|H376|Conj-w | N-msc
 v8 זְ֭רוֹעַ|zə·rō·w·a‘|belonged to a mighty|H2220|N-fs
-v8 ל֣וֹ|lōw||H0|Prep | 3ms
+v8 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v8 הָאָ֑רֶץ|hā·’ā·reṣ|while the land|H776|Art | N-fs
 v8 וּנְשׂ֥וּא|ū·nə·śū|and a man|H5375|Conj-w | V-Qal-QalPassPrtcpl-msc
 v8 פָ֝נִ֗ים|p̄ā·nîm|of honor|H6440|N-mp
@@ -190,7 +190,7 @@ v27 תְשַׁלֵּֽם׃|ṯə·šal·lêm|and you will fulfill|H7999|V-Piel-I
 v28 וְֽתִגְזַר־|wə·ṯiḡ·zar-|Your decisions|H1504|Conj-w | V-Qal-ConjImperf-2ms
 v28 א֭וֹמֶר|’ō·w·mer|...|H562|N-ms
 v28 וְיָ֣קָם|wə·yā·qām|will be carried out|H6965|Conj-w | V-Qal-ConjImperf.Jus-3ms
-v28 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v28 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v28 וְעַל־|wə·‘al-|on|H5921|Conj-w | Prep
 v28 דְּ֝רָכֶ֗יךָ|də·rā·ḵe·ḵā|your ways|H1870|N-cpc | 2ms
 v28 נָ֣גַֽהּ|nā·ḡah|will shine|H5050|V-Qal-Perf-3ms
@@ -207,4 +207,4 @@ v30 אִֽי־|’î-|[one who is] not|H336|Adv-NegPrt
 v30 נָקִ֑י|nā·qî|innocent|H5355|Adj-ms
 v30 וְ֝נִמְלַ֗ט|wə·nim·laṭ|rescuing him|H4422|Conj-w | V-Nifal-ConjPerf-3ms
 v30 בְּבֹ֣ר|bə·ḇōr|through the cleanness|H1252|Prep-b | N-msc
-v30 כַּפֶּֽיךָ׃פ|kap·pe·ḵā|of your hands|H3709|N-fdc | 2ms
+v30 כַּפֶּֽיךָ׃|kap·pe·ḵā|of your hands|H3709|N-fdc | 2ms

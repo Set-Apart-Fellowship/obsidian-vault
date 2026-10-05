@@ -48,7 +48,7 @@ v3 אֵ֛ת|’êṯ|-|H853|DirObjM
 v3 אֲשֶׁר־|’ă·šer-|what|H834|Pro-r
 v3 עָשָׂ֥ה|‘ā·śāh|did|H6213|V-Qal-Perf-3ms
 v3 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v3 בְּבַ֣עַל|bə·ḇa·‘al|vvv|H1187|Prep-b | N-proper-fs
+v3 בְּבַ֣עַל|bə·ḇa·‘al|...|H1187|Prep-b | N-proper-fs
 v3 פְּע֑וֹר|pə·‘ō·wr|at Baal-peor|H1187|Conj
 v3 כִּ֣י|kî|for|H3588|N-msc
 v3 כָל־|ḵāl|all|H3605|Art | N-ms
@@ -56,7 +56,7 @@ v3 הָאִ֗ישׁ|hā·’îš|...|H376|Pro-r
 v3 אֲשֶׁ֤ר|’ă·šer|who|H834|V-Qal-Perf-3ms
 v3 הָלַךְ֙|hā·laḵ|followed|H1980|Prep
 v3 אַחֲרֵ֣י|’a·ḥă·rê|...|H310|Prep
-v3 בַֽעַל־|ḇa·‘al-|vvv|H1187|Prep
+v3 בַֽעַל־|ḇa·‘al-|...|H1187|Prep
 v3 פְּע֔וֹר|pə·‘ō·wr|Baal of Peor|H1187|N-proper-fs
 v3 הִשְׁמִיד֛וֹ|hiš·mî·ḏōw|destroyed|H8045|V-Hifil-Perf-3ms | 3ms
 v3 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -141,7 +141,7 @@ v8 לִפְנֵיכֶ֖ם|lip̄·nê·ḵem|before you|H6440|Prep-l | N-mpc | 2m
 v8 הַיּֽוֹם׃|hay·yō·wm|today|H3117|Art | N-ms
 v9 רַ֡ק|raq|Only|H7535|Adv
 v9 הִשָּׁ֣מֶר|hiš·šā·mer|be on your guard|H8104|V-Nifal-Imp-ms
-v9 לְךָ֩|lə·ḵā||H0|Prep | 2ms
+v9 לְךָ֩|lə·ḵā|-|H0|Prep | 2ms
 v9 וּשְׁמֹ֨ר|ū·šə·mōr|watch|H8104|Conj-w | V-Qal-Imp-ms
 v9 נַפְשְׁךָ֜|nap̄·šə·ḵā|yourselves|H5315|N-fsc | 2ms
 v9 מְאֹ֗ד|mə·’ōḏ|and diligently|H3966|Adv
@@ -163,7 +163,7 @@ v9 לְבָנֶ֖יךָ|lə·ḇā·ne·ḵā|to your children|H1121|Prep-l | N-
 v9 וְלִבְנֵ֥י|wə·liḇ·nê|and grandchildren|H1121|Conj-w, Prep-l | N-mpc
 v9 בָנֶֽיךָ׃|ḇā·ne·ḵā|...|H1121|N-mpc | 2ms
 v10 י֗וֹם|yō·wm|The day|H3117|N-ms
-v10 אֲשֶׁ֨ר|’ă·šer||H834|Pro-r
+v10 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v10 עָמַ֜דְתָּ|‘ā·maḏ·tā|you stood|H5975|V-Qal-Perf-2ms
 v10 לִפְנֵ֨י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v10 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -173,7 +173,7 @@ v10 בֶּאֱמֹ֨ר|be·’ĕ·mōr|said|H559|Prep-b | V-Qal-Inf
 v10 יְהוָ֜ה|Yah·weh|the LORD|H3068|N-proper-ms
 v10 אֵלַ֗י|’ê·lay|to me|H413|Prep | 1cs
 v10 הַקְהֶל־|haq·hel-|Gather|H6950|V-Hifil-Imp-ms
-v10 לִי֙|lî||H0|Prep | 1cs
+v10 לִי֙|lî|-|H0|Prep | 1cs
 v10 אֶת־|’eṯ-|before Me|H853|DirObjM
 v10 הָעָ֔ם|hā·‘ām|the people|H5971|Art | N-ms
 v10 וְאַשְׁמִעֵ֖ם|wə·’aš·mi·‘êm|to hear|H8085|Conj-w | V-Hifil-ConjImperf-1cs | 3mp
@@ -222,7 +222,7 @@ v12 זוּלָתִ֥י|zū·lā·ṯî|there was only|H2108|Prep
 v12 קֽוֹל׃|qō·wl|a voice|H6963|N-ms
 v13 וַיַּגֵּ֨ד|way·yag·gêḏ|He declared|H5046|Conj-w | V-Hifil-ConsecImperf-3ms
 v13 לָכֶ֜ם|lā·ḵem|to you|H0|Prep | 2mp
-v13 אֶת־|’eṯ-||H853|DirObjM
+v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 בְּרִית֗וֹ|bə·rî·ṯōw|His covenant|H1285|N-fsc | 3ms
 v13 אֲשֶׁ֨ר|’ă·šer|which|H834|Pro-r
 v13 צִוָּ֤ה|ṣiw·wāh|He commanded|H6680|V-Piel-Perf-3ms
@@ -318,7 +318,7 @@ v19 צְבָ֣א|ṣə·ḇā|the host|H6635|N-csc
 v19 הַשָּׁמַ֔יִם|haš·šā·ma·yim|of heaven|H8064|Art | N-mp
 v19 וְנִדַּחְתָּ֛|wə·nid·daḥ·tā|enticed|H5080|Conj-w | V-Nifal-ConjPerf-2ms
 v19 וְהִשְׁתַּחֲוִ֥יתָ|wə·hiš·ta·ḥă·wî·ṯā|to bow down|H7812|Conj-w | V-Hitpael-ConjPerf-2ms
-v19 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v19 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v19 וַעֲבַדְתָּ֑ם|wa·‘ă·ḇaḏ·tām|and worship|H5647|Conj-w | V-Qal-ConjPerf-2ms | 3mp
 v19 אֲשֶׁ֨ר|’ă·šer|what|H834|Pro-r
 v19 חָלַ֜ק|ḥā·laq|has apportioned|H2505|V-Qal-Perf-3ms
@@ -408,7 +408,7 @@ v24 אֵ֥שׁ|’êš|fire|H784|N-cs
 v24 אֹכְלָ֖ה|’ō·ḵə·lāh|is a consuming|H398|V-Qal-Prtcpl-fs
 v24 ה֑וּא|hū|...|H1931|Pro-3ms
 v24 אֵ֖ל|’êl|God|H410|N-ms
-v24 קַנָּֽא׃פ|qan·nā|a jealous|H7067|Adj-ms
+v24 קַנָּֽא׃|qan·nā|a jealous|H7067|Adj-ms
 v25 כִּֽי־|kî-|After|H3588|Conj
 v25 תוֹלִ֤יד|ṯō·w·lîḏ|you have|H3205|V-Hifil-Imperf-2ms
 v25 בָּנִים֙|bā·nîm|children|H1121|N-mp
@@ -497,7 +497,7 @@ v29 לְבָבְךָ֖|lə·ḇā·ḇə·ḵā|your heart|H3824|N-msc | 2ms
 v29 וּבְכָל־|ū·ḇə·ḵāl|and with all|H3605|Conj-w, Prep-b | N-msc
 v29 נַפְשֶֽׁךָ׃|nap̄·še·ḵā|your soul|H5315|N-fsc | 2ms
 v30 בַּצַּ֣ר|baṣ·ṣar|When you are in distress|H6862|Prep-b, Art | Adj-ms
-v30 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v30 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v30 וּמְצָא֕וּךָ|ū·mə·ṣā·’ū·ḵā|have happened to you|H4672|Conj-w | V-Qal-ConjPerf-3cp | 2ms
 v30 כֹּ֖ל|kōl|and all|H3605|N-msc
 v30 הַדְּבָרִ֣ים|had·də·ḇā·rîm|things|H1697|Art | N-mp
@@ -526,7 +526,7 @@ v31 בְּרִ֣ית|bə·rîṯ|the covenant|H1285|N-fsc
 v31 אֲבֹתֶ֔יךָ|’ă·ḇō·ṯe·ḵā|with your fathers|H1|N-mpc | 2ms
 v31 אֲשֶׁ֥ר|’ă·šer|which|H834|Pro-r
 v31 נִשְׁבַּ֖ע|niš·ba‘|He swore to them by oath|H7650|V-Nifal-Perf-3ms
-v31 לָהֶֽם׃|lā·hem||H0|Prep | 3mp
+v31 לָהֶֽם׃|lā·hem|-|H0|Prep | 3mp
 v32 כִּ֣י|kî|Indeed|H3588|Conj
 v32 שְׁאַל־|šə·’al-|ask|H7592|V-Qal-Imp-ms
 v32 נָא֩|nā|now|H4994|Interjection
@@ -673,7 +673,7 @@ v40 מְצַוְּךָ֙|mə·ṣaw·wə·ḵā|am giving you today|H6680|V-Piel
 v40 הַיּ֔וֹם|hay·yō·wm|...|H3117|Art | N-ms
 v40 אֲשֶׁר֙|’ă·šer|so that|H834|Pro-r
 v40 יִיטַ֣ב|yî·ṭaḇ|may prosper|H3190|V-Qal-Imperf-3ms
-v40 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v40 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v40 וּלְבָנֶ֖יךָ|ū·lə·ḇā·ne·ḵā|you and your children|H1121|Conj-w, Prep-l | N-mpc | 2ms
 v40 אַחֲרֶ֑יךָ|’a·ḥă·re·ḵā|after you|H310|Prep | 2ms
 v40 וּלְמַ֨עַן|ū·lə·ma·‘an|and that|H4616|Conj
@@ -687,7 +687,7 @@ v40 אֱלֹהֶ֛יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v40 נֹתֵ֥ן|nō·ṯên|is giving|H5414|V-Qal-Prtcpl-ms
 v40 לְךָ֖|lə·ḵā|you|H0|Prep | 2ms
 v40 כָּל־|kāl-|for all|H3605|N-msc
-v40 הַיָּמִֽים׃פ|hay·yā·mîm|time|H3117|Art | N-mp
+v40 הַיָּמִֽים׃|hay·yā·mîm|time|H3117|Art | N-mp
 v41 אָ֣ז|’āz|Then|H227|Adv
 v41 יַבְדִּ֤יל|yaḇ·dîl|set aside|H914|V-Hifil-Imperf-3ms
 v41 מֹשֶׁה֙|mō·šeh|Moses|H4872|N-proper-ms
@@ -757,7 +757,7 @@ v46 בְּעֵ֨בֶר|bə·‘ê·ḇer|across|H5676|Prep-b | N-msc
 v46 הַיַּרְדֵּ֜ן|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
 v46 בַּגַּ֗יְא|bag·gay|while they were in the valley|H1516|Prep-b, Art | N-cs
 v46 מ֚וּל|mūl|facing|H4136|Prep
-v46 בֵּ֣ית|bêṯ|vvv|H1047|Prep
+v46 בֵּ֣ית|bêṯ|...|H1047|Prep
 v46 פְּע֔וֹר|pə·‘ō·wr|Beth-peor|H1047|N-proper-fs
 v46 בְּאֶ֗רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
 v46 סִיחֹן֙|sî·ḥōn|of Sihon|H5511|N-proper-ms
@@ -810,4 +810,4 @@ v49 יָ֣ם|yām|the Sea|H3220|N-msc
 v49 הָעֲרָבָ֑ה|hā·‘ă·rā·ḇāh|of the Arabah|H6160|Art | N-fs
 v49 תַּ֖חַת|ta·ḥaṯ|below|H8478|Prep
 v49 אַשְׁדֹּ֥ת|’aš·dōṯ|the slopes|H794|N-cpc
-v49 הַפִּסְגָּֽה׃פ|hap·pis·gāh|of Pisgah|H6449|Art | N-proper-fs
+v49 הַפִּסְגָּֽה׃|hap·pis·gāh|of Pisgah|H6449|Art | N-proper-fs

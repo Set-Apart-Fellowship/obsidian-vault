@@ -78,7 +78,7 @@ v7 כְּשָׁמְעָ֔ם|kə·šā·mə·‘ām|heard what had happened|H8085
 v7 וַיִּֽתְעַצְּבוּ֙|way·yiṯ·‘aṣ·ṣə·ḇū|grief|H6087|Conj-w | V-Hitpael-ConsecImperf-3mp
 v7 הָֽאֲנָשִׁ֔ים|hā·’ă·nā·šîm|...|H582|Art | N-mp
 v7 וַיִּ֥חַר|way·yi·ḥar|and fury|H2734|Conj-w | V-Qal-ConsecImperf-3ms
-v7 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v7 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v7 מְאֹ֑ד|mə·’ōḏ|They were filled with|H3966|Adv
 v7 כִּֽי־|kî-|because|H3588|Conj
 v7 נְבָלָ֞ה|nə·ḇā·lāh|an outrage|H5039|N-fs
@@ -122,7 +122,7 @@ v10 לִפְנֵיכֶ֔ם|lip̄·nê·ḵem|open to you|H6440|Prep-l | N-mpc | 
 v10 שְׁבוּ֙|šə·ḇū|Live here|H3427|V-Qal-Imp-mp
 v10 וּסְחָר֔וּהָ|ū·sə·ḥā·rū·hā|move about freely|H5503|Conj-w | V-Qal-Imp-mp | 3fs
 v10 וְהֵֽאָחֲז֖וּ|wə·hê·’ā·ḥă·zū|and acquire your own property|H270|Conj-w | V-Nifal-Imp-mp
-v10 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v10 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v11 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 שְׁכֶם֙|šə·ḵem|Then Shechem|H7927|N-proper-ms
 v11 אֶל־|’el-|to|H413|Prep
@@ -191,7 +191,7 @@ v15 אִ֚ם|’im|condition|H518|Conj
 v15 תִּהְי֣וּ|tih·yū|that you become|H1961|V-Qal-Imperf-2mp
 v15 כָמֹ֔נוּ|ḵā·mō·nū|like us|H3644|Prep | 1cp
 v15 לְהִמֹּ֥ל|lə·him·mōl|circumcised|H4135|Prep-l | V-Nifal-Inf
-v15 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v15 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v15 כָּל־|kāl-|every one of|H3605|N-msc
 v15 זָכָֽר׃|zā·ḵār|your males|H2145|N-ms
 v16 וְנָתַ֤נּוּ|wə·nā·ṯan·nū|Then we will give|H5414|Conj-w | V-Qal-ConjPerf-1cp
@@ -295,7 +295,7 @@ v23 וְקִנְיָנָם֙|wə·qin·yā·nām|their possessions|H7075|Conj-w 
 v23 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v23 בְּהֶמְתָּ֔ם|bə·hem·tām|animals [become ours]|H929|N-fsc | 3mp
 v23 הֲל֥וֹא|hă·lō·w|Will not|H3808|Adv-NegPrt
-v23 לָ֖נוּ|lā·nū|vvv|H0|Prep | 1cp
+v23 לָ֖נוּ|lā·nū|...|H0|Prep | 1cp
 v23 הֵ֑ם|hêm|their|H1992|Pro-3mp
 v23 אַ֚ךְ|’aḵ|Only|H389|Adv
 v23 נֵא֣וֹתָה|nê·’ō·w·ṯāh|let us consent|H225|V-Nifal-Imperf.Cohort-1cp
@@ -316,8 +316,8 @@ v24 וַיִּמֹּ֙לוּ֙|way·yim·mō·lū|was circumcised|H4135|Conj-w |
 v24 כָּל־|kāl-|and every|H3605|N-msc
 v24 זָכָ֔ר|zā·ḵār|male|H2145|N-ms
 v24 כָּל־|kāl-|...|H3605|N-msc
-v24 יֹצְאֵ֖י|yō·ṣə·’ê|vvv|H3318|V-Qal-Prtcpl-mpc
-v24 שַׁ֥עַר|ša·‘ar|vvv|H8179|N-msc
+v24 יֹצְאֵ֖י|yō·ṣə·’ê|...|H3318|V-Qal-Prtcpl-mpc
+v24 שַׁ֥עַר|ša·‘ar|...|H8179|N-msc
 v24 עִירֽוֹ׃|‘î·rōw|of the city|H5892|N-fsc | 3ms
 v25 וַיְהִי֩|way·hî|they were|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v25 בַיּ֨וֹם|ḇay·yō·wm|days later|H3117|Prep-b, Art | N-ms
@@ -418,4 +418,4 @@ v31 וַיֹּאמְר֑וּ|way·yō·mə·rū|But they replied|H559|Conj-w | V
 v31 הַכְזוֹנָ֕ה|haḵ·zō·w·nāh|like a prostitute|H2181|Art, Prep-k | N-fs
 v31 יַעֲשֶׂ֖ה|ya·‘ă·śeh|Should he have treated|H6213|V-Qal-Imperf-3ms
 v31 אֶת־|’eṯ-|-|H853|DirObjM
-v31 אֲחוֹתֵֽנוּ׃פ|’ă·ḥō·w·ṯê·nū|our sister|H269|N-fsc | 1cp
+v31 אֲחוֹתֵֽנוּ׃|’ă·ḥō·w·ṯê·nū|our sister|H269|N-fsc | 1cp

@@ -12,12 +12,12 @@ v2 אַתָּ֣ה|’at·tāh|you|H859|Pro-2ms
 v2 יֹשֵׁ֑ב|yō·šêḇ|are living|H3427|V-Qal-Prtcpl-ms
 v2 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v2 עֵינַיִם֩|‘ê·na·yim|They have eyes|H5869|N-cd
-v2 לָהֶ֨ם|lā·hem||H0|Prep | 3mp
+v2 לָהֶ֨ם|lā·hem|-|H0|Prep | 3mp
 v2 לִרְא֜וֹת|lir·’ō·wṯ|to see|H7200|Prep-l | V-Qal-Inf
 v2 וְלֹ֣א|wə·lō|but do not|H3808|Conj-w | Adv-NegPrt
 v2 רָא֗וּ|rā·’ū|see|H7200|V-Qal-Perf-3cp
 v2 אָזְנַ֨יִם|’ā·zə·na·yim|and ears|H241|N-fd
-v2 לָהֶ֤ם|lā·hem||H0|Prep | 3mp
+v2 לָהֶ֤ם|lā·hem|-|H0|Prep | 3mp
 v2 לִשְׁמֹ֙עַ֙|liš·mō·a‘|to hear|H8085|Prep-l | V-Qal-Inf
 v2 וְלֹ֣א|wə·lō|but do not|H3808|Conj-w | Adv-NegPrt
 v2 שָׁמֵ֔עוּ|šā·mê·‘ū|hear|H8085|V-Qal-Perf-3cp
@@ -29,7 +29,7 @@ v3 וְאַתָּ֣ה|wə·’at·tāh|Therefore|H859|Conj-w | Pro-2ms
 v3 בֶן־|ḇen-|son|H1121|N-msc
 v3 אָדָ֗ם|’ā·ḏām|of man|H120|N-ms
 v3 עֲשֵׂ֤ה|‘ă·śêh|pack|H6213|V-Qal-Imp-ms
-v3 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v3 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v3 כְּלֵ֣י|kə·lê|your bags|H3627|N-mpc
 v3 גוֹלָ֔ה|ḡō·w·lāh|for exile|H1473|N-fs
 v3 וּגְלֵ֥ה|ū·ḡə·lêh|...|H1540|Conj-w | V-Qal-Imp-ms
@@ -61,7 +61,7 @@ v4 כְּמוֹצָאֵ֖י|kə·mō·w·ṣā·’ê|like those who go|H4161|Pr
 v4 גּוֹלָֽה׃|gō·w·lāh|into exile|H1473|N-fs
 v5 לְעֵינֵיהֶ֖ם|lə·‘ê·nê·hem|As they watch|H5869|Prep-l | N-cdc | 3mp
 v5 חֲתָר־|ḥă·ṯār-|dig|H2864|V-Qal-Imp-ms
-v5 לְךָ֣|lə·ḵā||H0|Prep | 2ms
+v5 לְךָ֣|lə·ḵā|-|H0|Prep | 2ms
 v5 בַקִּ֑יר|ḇaq·qîr|through the wall|H7023|Prep-b, Art | N-ms
 v5 וְהוֹצֵאתָ֖|wə·hō·w·ṣê·ṯā|and carry [your belongings]|H3318|Conj-w | V-Hifil-ConjPerf-2ms
 v5 בּֽוֹ׃|bōw|out through it|H0|Prep | 3ms
@@ -93,7 +93,7 @@ v7 גוֹלָה֙|ḡō·w·lāh|for exile|H1473|N-fs
 v7 יוֹמָ֔ם|yō·w·mām|by day|H3119|Adv
 v7 וּבָעֶ֛רֶב|ū·ḇā·‘e·reḇ|and in the evening|H6153|Conj-w, Prep-b, Art | N-ms
 v7 חָתַֽרְתִּי־|ḥā·ṯar·tî-|I dug|H2864|V-Qal-Perf-1cs
-v7 לִ֥י|lî||H0|Prep | 1cs
+v7 לִ֥י|lî|-|H0|Prep | 1cs
 v7 בַקִּ֖יר|ḇaq·qîr|through the wall|H7023|Prep-b, Art | N-ms
 v7 בְּיָ֑ד|bə·yāḏ|by hand|H3027|Prep-b | N-fs
 v7 בָּעֲלָטָ֥ה|bā·‘ă·lā·ṭāh|at dusk|H5939|Prep-b, Art | N-fs
@@ -101,7 +101,7 @@ v7 הוֹצֵ֛אתִי|hō·w·ṣê·ṯî|I took [my belongings] out|H3318|V-
 v7 עַל־|‘al-|on|H5921|Prep
 v7 כָּתֵ֥ף|kā·ṯêp̄|my shoulder|H3802|N-fs
 v7 נָשָׂ֖אתִי|nā·śā·ṯî|carrying them|H5375|V-Qal-Perf-1cs
-v7 לְעֵינֵיהֶֽם׃פ|lə·‘ê·nê·hem|as they watched|H5869|Prep-l | N-cdc | 3mp
+v7 לְעֵינֵיהֶֽם׃|lə·‘ê·nê·hem|as they watched|H5869|Prep-l | N-cdc | 3mp
 v8 וַיְהִ֧י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דְבַר־|ḏə·ḇar-|the word|H1697|N-msc
 v8 יְהוָ֛ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -158,7 +158,7 @@ v12 וְיֵצֵ֔א|wə·yê·ṣê|and go out|H3318|Conj-w | V-Qal-ConjImperf-
 v12 בַּקִּ֥יר|baq·qîr|through the wall|H7023|Prep-b, Art | N-ms
 v12 יַחְתְּר֖וּ|yaḥ·tə·rū|They will dig|H2864|V-Qal-Imperf-3mp
 v12 לְה֣וֹצִיא|lə·hō·w·ṣî|to bring him out|H3318|Prep-l | V-Hifil-Inf
-v12 ב֑וֹ|ḇōw||H0|Prep | 3ms
+v12 ב֑וֹ|ḇōw|-|H0|Prep | 3ms
 v12 פָּנָ֣יו|pā·nāw|his face|H6440|N-cpc | 3ms
 v12 יְכַסֶּ֔ה|yə·ḵas·seh|He will cover|H3680|V-Piel-Imperf-3ms
 v12 יַ֗עַן|ya·‘an|so|H3282|Adv
@@ -186,7 +186,7 @@ v13 יִרְאֶ֖ה|yir·’eh|see it|H7200|V-Qal-Imperf-3ms
 v13 וְשָׁ֥ם|wə·šām|and there|H8033|Conj-w | Adv
 v13 יָמֽוּת׃|yā·mūṯ|he will die|H4191|V-Qal-Imperf-3ms
 v14 וְכֹל֩|wə·ḵōl|all|H3605|Conj-w | N-msc
-v14 אֲשֶׁ֨ר|’ă·šer|vvv|H834|Pro-r
+v14 אֲשֶׁ֨ר|’ă·šer|...|H834|Pro-r
 v14 סְבִיבֹתָ֥יו|sə·ḇî·ḇō·ṯāw|around him|H5439|Adv | 3ms
 v14 עֶזְרֹה|ʿɛz·rōh|the attendants|H5828|N-msc | 3ms
 v14 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
@@ -226,7 +226,7 @@ v16 שָׁ֔ם|šām|...|H8033|Adv
 v16 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v16 כִּֽי־|kî-|that|H3588|Conj
 v16 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v16 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v16 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v17 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v17 דְבַר־|ḏə·ḇar-|Moreover, the word|H1697|N-msc
 v17 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -277,7 +277,7 @@ v20 תִֽהְיֶ֑ה|ṯih·yeh|will become|H1961|V-Qal-Imperf-3fs
 v20 וִֽידַעְתֶּ֖ם|wî·ḏa‘·tem|Then you will know|H3045|Conj-w | V-Qal-ConjPerf-2mp
 v20 כִּֽי־|kî-|that|H3588|Conj
 v20 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v20 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v20 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v21 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v21 דְבַר־|ḏə·ḇar-|Again the word|H1697|N-msc
 v21 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -288,7 +288,7 @@ v22 אָדָ֗ם|’ā·ḏām|of man|H120|N-ms
 v22 מָֽה־|māh-|what|H4100|Interrog
 v22 הַמָּשָׁ֤ל|ham·mā·šāl|proverb|H4912|Art | N-ms
 v22 הַזֶּה֙|haz·zeh|is this|H2088|Art | Pro-ms
-v22 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v22 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v22 עַל־|‘al-|[that] you have in|H5921|Prep
 v22 אַדְמַ֥ת|’aḏ·maṯ|the land|H127|N-fsc
 v22 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -327,7 +327,7 @@ v24 כִּ֠י|kî|For|H3588|Conj
 v24 לֹ֣א|lō|no|H3808|Adv-NegPrt
 v24 יִֽהְיֶ֥ה|yih·yeh|there will be|H1961|V-Qal-Imperf-3ms
 v24 ע֛וֹד|‘ō·wḏ|more|H5750|Adv
-v24 כָּל־|kāl-||H3605|N-msc
+v24 כָּל־|kāl-|-|H3605|N-msc
 v24 חֲז֥וֹן|ḥă·zō·wn|visions|H2377|N-msc
 v24 שָׁ֖וְא|šāw|false|H7723|N-ms
 v24 וּמִקְסַ֣ם|ū·miq·sam|divinations|H4738|Conj-w | N-msc
@@ -346,7 +346,7 @@ v25 דָּבָר֙|dā·ḇār|word|H1697|N-ms
 v25 וְיֵ֣עָשֶׂ֔ה|wə·yê·‘ā·śeh|and it will be fulfilled|H6213|Conj-w | V-Nifal-ConjImperf-3ms
 v25 לֹ֥א|lō|without|H3808|Adv-NegPrt
 v25 תִמָּשֵׁ֖ךְ|ṯim·mā·šêḵ|delay|H4900|V-Nifal-Imperf-3fs
-v25 ע֑וֹד|‘ō·wḏ||H5750|Adv
+v25 ע֑וֹד|‘ō·wḏ|-|H5750|Adv
 v25 כִּ֣י|kî|For|H3588|Conj
 v25 בִֽימֵיכֶ֞ם|ḇî·mê·ḵem|in your days|H3117|Prep-b | N-mpc | 2mp
 v25 בֵּ֣ית|bêṯ|house|H1004|N-msc
@@ -356,7 +356,7 @@ v25 דָּבָר֙|dā·ḇār|a message|H1697|N-ms
 v25 וַעֲשִׂיתִ֔יו|wa·‘ă·śî·ṯîw|and bring it to pass|H6213|Conj-w | V-Qal-ConjPerf-1cs | 3ms
 v25 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v25 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v25 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v25 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v26 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v26 דְבַר־|ḏə·ḇar-|Furthermore, the word|H1697|N-msc
 v26 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -396,4 +396,4 @@ v28 דָּבָר֙|dā·ḇār|The message|H1697|N-ms
 v28 וְיֵ֣עָשֶׂ֔ה|wə·yê·‘ā·śeh|will be fulfilled|H6213|Conj-w | V-Nifal-ConjImperf-3ms
 v28 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v28 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v28 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v28 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

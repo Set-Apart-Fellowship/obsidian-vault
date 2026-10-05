@@ -50,7 +50,7 @@ v8 כָּל־|kāl-|All|H3605|N-msc
 v8 אִמְרֵי־|’im·rê-|the words|H561|N-mpc
 v8 פִ֑י|p̄î|of my mouth|H6310|N-msc | 1cs
 v8 אֵ֥ין|’ên|none|H369|Adv
-v8 בָּ֝הֶ֗ם|bā·hem||H0|Prep | 3mp
+v8 בָּ֝הֶ֗ם|bā·hem|-|H0|Prep | 3mp
 v8 נִפְתָּ֥ל|nip̄·tāl|are crooked|H6617|V-Nifal-Prtcpl-ms
 v8 וְעִקֵּֽשׁ׃|wə·‘iq·qêš|or perverse|H6141|Conj-w | Adj-ms
 v9 כֻּלָּ֣ם|kul·lām|They [are]|H3605|N-msc | 3mp
@@ -98,7 +98,7 @@ v14 עֵ֭צָה|‘ê·ṣāh|Counsel|H6098|N-fs
 v14 וְתוּשִׁיָּ֑ה|wə·ṯū·šî·yāh|and sound judgment|H8454|Conj-w | N-fs
 v14 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v14 בִ֝ינָ֗ה|ḇî·nāh|have insight|H998|N-fs
-v14 לִ֣י|lî||H0|Prep | 1cs
+v14 לִ֣י|lî|-|H0|Prep | 1cs
 v14 גְבוּרָֽה׃|ḡə·ḇū·rāh|and strength|H1369|N-fs
 v15 בִּ֭י|bî|By me|H0|Prep | 1cs
 v15 מְלָכִ֣ים|mə·lā·ḵîm|kings|H4428|N-mp
@@ -141,7 +141,7 @@ v21 לְהַנְחִ֖יל|lə·han·ḥîl|bestowing|H5157|Prep-l | V-Hifil-Inf
 v21 אֹהֲבַ֥י׀|’ō·hă·ḇay|on those who love me|H157|V-Qal-Prtcpl-mpc | 1cs
 v21 יֵ֑שׁ|yêš|wealth|H3426|Adv
 v21 וְאֹצְרֹ֖תֵיהֶ֣ם|wə·’ō·ṣə·rō·ṯê·hem|their treasuries {full}|H214|Conj-w | N-mpc | 3mp
-v21 אֲמַלֵּֽא׃פ|’ă·mal·lê|and making|H4390|V-Piel-Imperf-1cs
+v21 אֲמַלֵּֽא׃|’ă·mal·lê|and making|H4390|V-Piel-Imperf-1cs
 v22 יְֽהוָ֗ה|Yah·weh|The LORD|H3068|N-proper-ms
 v22 קָ֭נָנִי|qā·nā·nî|created me|H7069|V-Qal-Perf-3ms | 1cs
 v22 רֵאשִׁ֣ית|rê·šîṯ|as His first|H7225|N-fsc
@@ -217,7 +217,7 @@ v31 אַרְצ֑וֹ|’ar·ṣōw|...|H776|N-fsc | 3ms
 v31 וְ֝שַׁעֲשֻׁעַ֗י|wə·ša·‘ă·šu·‘ay|delighting|H8191|Conj-w | N-mpc | 1cs
 v31 אֶת־|’eṯ-|together|H854|Prep
 v31 בְּנֵ֥י|bə·nê|in the sons|H1121|N-mpc
-v31 אָדָֽם׃פ|’ā·ḏām|of men|H120|N-ms
+v31 אָדָֽם׃|’ā·ḏām|of men|H120|N-ms
 v32 וְעַתָּ֣ה|wə·‘at·tāh|Now therefore|H6258|Conj-w | Adv
 v32 בָ֭נִים|ḇā·nîm|my sons|H1121|N-mp
 v32 שִׁמְעוּ־|šim·‘ū-|listen|H8085|V-Qal-Imp-mp
@@ -255,4 +255,4 @@ v36 נַפְשׁ֑וֹ|nap̄·šōw|himself|H5315|N-fsc | 3ms
 v36 כָּל־|kāl-|all|H3605|N-msc
 v36 מְ֝שַׂנְאַ֗י|mə·śan·’ay|who hate me|H8130|V-Piel-Prtcpl-mpc | 1cs
 v36 אָ֣הֲבוּ|’ā·hă·ḇū|love|H157|V-Qal-Perf-3cp
-v36 מָֽוֶת׃פ|mā·weṯ|death|H4194|N-ms
+v36 מָֽוֶת׃|mā·weṯ|death|H4194|N-ms

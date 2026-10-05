@@ -37,7 +37,7 @@ v2 וְהַסְּגָנִ֗ים|wə·has·sə·ḡā·nîm|and officials|H5461|C
 v2 הָֽיְתָ֛ה|hā·yə·ṯāh|...|H1961|V-Qal-Perf-3fs
 v2 בַּמַּ֥עַל|bam·ma·‘al|unfaithfulness|H4604|Prep-b, Art | N-ms
 v2 הַזֶּ֖ה|haz·zeh|in this|H2088|Art | Pro-ms
-v2 רִאשׁוֹנָֽה׃ס|ri·šō·w·nāh|...|H7223|Adj-fs
+v2 רִאשׁוֹנָֽה׃|ri·šō·w·nāh|...|H7223|Adj-fs
 v3 וּכְשָׁמְעִי֙|ū·ḵə·šā·mə·‘î|When I heard|H8085|Conj-w, Prep-k | V-Qal-Inf | 1cs
 v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 הַדָּבָ֣ר|had·dā·ḇār|report|H1697|Art | N-ms
@@ -102,7 +102,7 @@ v6 עַ֥ד|‘aḏ|...|H5704|Prep
 v6 לַשָּׁמָֽיִם׃|laš·šā·mā·yim|the heavens|H8064|Prep-l, Art | N-mp
 v7 מִימֵ֣י|mî·mê|From the days|H3117|Prep-m | N-mpc
 v7 אֲבֹתֵ֗ינוּ|’ă·ḇō·ṯê·nū|of our fathers|H1|N-mpc | 1cp
-v7 אֲנַ֙חְנוּ֙|’ă·naḥ·nū||H587|Pro-1cp
+v7 אֲנַ֙חְנוּ֙|’ă·naḥ·nū|-|H587|Pro-1cp
 v7 בְּאַשְׁמָ֣ה|bə·’aš·māh|our guilt|H819|Prep-b | N-fs
 v7 גְדֹלָ֔ה|ḡə·ḏō·lāh|has been great|H1419|Adj-fs
 v7 עַ֖ד|‘aḏ|to|H5704|Prep
@@ -173,7 +173,7 @@ v9 וְלָֽתֶת־|wə·lā·ṯeṯ-|and giving|H5414|Conj-w, Prep-l | V-Qal
 v9 לָ֣נוּ|lā·nū|us|H0|Prep | 1cp
 v9 גָדֵ֔ר|ḡā·ḏêr|a wall of protection|H1447|N-ms
 v9 בִּֽיהוּדָ֖ה|bî·hū·ḏāh|in Judah|H3063|Prep-b | N-proper-fs
-v9 וּבִירוּשָׁלִָֽם׃ס|ū·ḇî·rū·šā·lim|and Jerusalem|H3389|Conj-w, Prep-b | N-proper-fs
+v9 וּבִירוּשָׁלִָֽם׃|ū·ḇî·rū·šā·lim|and Jerusalem|H3389|Conj-w, Prep-b | N-proper-fs
 v10 וְעַתָּ֛ה|wə·‘at·tāh|And now|H6258|Conj-w | Adv
 v10 מַה־|mah-|what|H4100|Interrog
 v10 נֹּאמַ֥ר|nō·mar|can we say|H559|V-Qal-Imperf-1cp
@@ -264,7 +264,7 @@ v14 עַד־|‘aḏ-|as to|H5704|Prep
 v14 כַּלֵּ֔ה|kal·lêh|wipe us out|H3615|V-Piel-Inf
 v14 לְאֵ֥ין|lə·’ên|leaving no|H369|Prep-l | Adv
 v14 שְׁאֵרִ֖ית|šə·’ê·rîṯ|remnant|H7611|N-fs
-v14 וּפְלֵיטָֽה׃פ|ū·p̄ə·lê·ṭāh|or survivor|H6413|Conj-w | N-fs
+v14 וּפְלֵיטָֽה׃|ū·p̄ə·lê·ṭāh|or survivor|H6413|Conj-w | N-fs
 v15 יְהוָ֞ה|Yah·weh|O LORD|H3068|N-proper-ms
 v15 אֱלֹהֵ֤י|’ĕ·lō·hê|God|H430|N-mpc
 v15 יִשְׂרָאֵל֙|yiś·rā·’êl|of Israel|H3478|N-proper-fs
@@ -283,4 +283,4 @@ v15 אֵ֥ין|’ên|no one|H369|Adv
 v15 לַעֲמ֛וֹד|la·‘ă·mō·wḏ|can stand|H5975|Prep-l | V-Qal-Inf
 v15 לְפָנֶ֖יךָ|lə·p̄ā·ne·ḵā|before You|H6440|Prep-l | N-cpc | 2ms
 v15 עַל־|‘al-|because|H5921|Prep
-v15 זֹֽאת׃פ|zōṯ|of it|H2063|Pro-fs
+v15 זֹֽאת׃|zōṯ|of it|H2063|Pro-fs

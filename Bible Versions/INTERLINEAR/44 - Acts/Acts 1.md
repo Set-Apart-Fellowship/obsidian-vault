@@ -58,7 +58,7 @@ v4 παρήγγειλεν|parēngeilen|He commanded|G3853|V-AIA-3S
 v4 αὐτοῖς|autois|them|G846|PPro-DM3P
 v4 ἀπὸ|apo|...|G575|Prep
 v4 Ἱεροσολύμων|Hierosolymōn|Jerusalem|G2414|N-GNP
-v4 μὴ|mē|vvv|G3361|Adv
+v4 μὴ|mē|...|G3361|Adv
 v4 χωρίζεσθαι|chōrizesthai|Do not leave|G5563|V-PNM/P
 v4 ἀλλὰ|alla|but|G235|Conj
 v4 περιμένειν|perimenein|wait for|G4037|V-PNA
@@ -80,7 +80,7 @@ v5 ἐν|en|with|G1722|Prep
 v5 Πνεύματι|Pneumati|Spirit|G4151|N-DNS
 v5 βαπτισθήσεσθε|baptisthēsesthe|will be baptized|G907|V-FIP-2P
 v5 Ἁγίῳ|Hagiō|[the] Holy|G40|Adj-DNS
-v5 οὐ|ou|vvv|G3756|Adv
+v5 οὐ|ou|...|G3756|Adv
 v5 μετὰ|meta|-|G3326|Prep
 v5 πολλὰς|pollas|in a few|G4183|Adj-AFP
 v5 ταύτας|tautas|-|G3778|DPro-AFP
@@ -93,7 +93,7 @@ v6 ἠρώτων|ērōtōn|they asked|G2065|V-IIA-3P
 v6 αὐτὸν|auton|Him|G846|PPro-AM3S
 v6 λέγοντες|legontes|-|G3004|V-PPA-NMP
 v6 Κύριε|Kyrie|Lord|G2962|N-VMS
-v6 εἰ|ei|vvv|G1487|Conj
+v6 εἰ|ei|...|G1487|Conj
 v6 ἐν|en|{will You} at|G1722|Prep
 v6 τῷ|tō|-|G3588|Art-DMS
 v6 χρόνῳ|chronō|time|G5550|N-DMS
@@ -290,7 +290,7 @@ v15 ἡμέραις|hēmerais|days|G2250|N-DFP
 v15 ταύταις|tautais|those|G3778|DPro-DFP
 v15 ἀναστὰς|anastas|stood up|G450|V-APA-NMS
 v15 Πέτρος|Petros|Peter|G4074|N-NMS
-v15 ἐν|en|vvv|G1722|Prep
+v15 ἐν|en|...|G1722|Prep
 v15 μέσῳ|mesō|among|G3319|Adj-DNS
 v15 τῶν|tōn|the|G3588|Art-GMP
 v15 ἀδελφῶν|adelphōn|brothers|G80|N-GMP
@@ -305,7 +305,7 @@ v15 αὐτὸ|auto|-|G846|PPro-AN3S
 v15 ὡσεὶ|hōsei|about|G5616|Adv
 v15 ἑκατὸν|hekaton|a hundred|G1540|Adj-NMP
 v15 εἴκοσι|eikosi|[and] twenty )|G1501|Adj-NMP
-v16 Ἄνδρες|Andres|vvv|G435|N-VMP
+v16 Ἄνδρες|Andres|...|G435|N-VMP
 v16 ἀδελφοί|adelphoi|Brothers|G80|N-VMP
 v16 ἔδει|edei|had to|G1163|V-IIA-3S
 v16 πληρωθῆναι|plērōthēnai|be fulfilled|G4137|V-ANP
@@ -410,7 +410,7 @@ v21 τῶν|tōn|one of the|G3588|Art-GMP
 v21 συνελθόντων|synelthontōn|who have accompanied|G4905|V-APA-GMP
 v21 ἡμῖν|hēmin|us|G1473|PPro-D1P
 v21 ἀνδρῶν|andrōn|men|G435|N-GMP
-v21 ἐν|en|vvv|G1722|Prep
+v21 ἐν|en|...|G1722|Prep
 v21 παντὶ|panti|[the] whole|G3956|Adj-DMS
 v21 χρόνῳ|chronō|time|G5550|N-DMS
 v21 ᾧ|hō|-|G3739|RelPro-DMS

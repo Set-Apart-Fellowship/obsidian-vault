@@ -129,7 +129,7 @@ v9 הַֽמְמַלְאִ֛ים|ham·mal·’îm|who fill|H4390|Art | V-Piel-Prt
 v9 בֵּ֥ית|bêṯ|the house|H1004|N-msc
 v9 אֲדֹנֵיהֶ֖ם|’ă·ḏō·nê·hem|of their master|H113|N-mpc | 3mp
 v9 חָמָ֥ס|ḥā·mās|with violence|H2555|N-ms
-v9 וּמִרְמָֽה׃ס|ū·mir·māh|and deceit|H4820|Conj-w | N-fs
+v9 וּמִרְמָֽה׃|ū·mir·māh|and deceit|H4820|Conj-w | N-fs
 v10 וְהָיָה֩|wə·hā·yāh|will go up|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v10 בַיּ֨וֹם|ḇay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v10 הַה֜וּא|ha·hū|On that|H1931|Art | Pro-3ms
@@ -266,4 +266,4 @@ v18 יַֽעֲשֶׂ֔ה|ya·‘ă·śeh|He will make|H6213|V-Qal-Imperf-3ms
 v18 אֵ֥ת|’êṯ|of|H854|DirObjM
 v18 כָּל־|kāl-|all|H3605|N-msc
 v18 יֹשְׁבֵ֖י|yō·šə·ḇê|who dwell|H3427|V-Qal-Prtcpl-mpc
-v18 הָאָֽרֶץ׃ס|hā·’ā·reṣ|on the earth|H776|Art | N-fs
+v18 הָאָֽרֶץ׃|hā·’ā·reṣ|on the earth|H776|Art | N-fs

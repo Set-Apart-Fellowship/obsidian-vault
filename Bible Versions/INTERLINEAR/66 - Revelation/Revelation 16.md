@@ -185,7 +185,7 @@ v9 τὰς|tas|-|G3588|Art-AFP
 v9 πληγὰς|plēgas|plagues|G4127|N-AFP
 v9 ταύτας|tautas|these|G3778|DPro-AFP
 v9 καὶ|kai|Yet|G2532|Conj
-v9 οὐ|ou|vvv|G3756|Adv
+v9 οὐ|ou|...|G3756|Adv
 v9 μετενόησαν|metenoēsan|they did not repent|G3340|V-AIA-3P
 v9 δοῦναι|dounai|[and] give|G1325|V-ANA
 v9 αὐτῷ|autō|Him|G846|PPro-DM3S
@@ -232,7 +232,7 @@ v11 τῶν|tōn|-|G3588|Art-GNP
 v11 ἑλκῶν|helkōn|sores|G1668|N-GNP
 v11 αὐτῶν|autōn|-|G846|PPro-GM3P
 v11 καὶ|kai|Yet|G2532|Conj
-v11 οὐ|ou|vvv|G3756|Adv
+v11 οὐ|ou|...|G3756|Adv
 v11 μετενόησαν|metenoēsan|they did not repent|G3340|V-AIA-3P
 v11 ἐκ|ek|of|G1537|Prep
 v11 τῶν|tōn|-|G3588|Art-GNP
@@ -331,7 +331,7 @@ v15 τὰ|ta|-|G3588|Art-ANP
 v15 ἱμάτια|himatia|clothed|G2440|N-ANP
 v15 αὐτοῦ|autou|-|G846|PPro-GM3S
 v15 ἵνα|hina|so that|G2443|Conj
-v15 μὴ|mē|vvv|G3361|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 γυμνὸς|gymnos|naked|G1131|Adj-NMS
 v15 περιπατῇ|peripatē|he will not go|G4043|V-PSA-3S
 v15 καὶ|kai|and|G2532|Conj
@@ -383,7 +383,7 @@ v18 σεισμὸς|seismos|earthquake|G4578|N-NMS
 v18 ἐγένετο|egeneto|-|G1096|V-AIM-3S
 v18 μέγας|megas|a great|G3173|Adj-NMS
 v18 οἷος|hoios|the likes of which|G3634|RelPro-NMS
-v18 οὐκ|ouk|vvv|G3756|Adv
+v18 οὐκ|ouk|...|G3756|Adv
 v18 ἐγένετο|egeneto|had not occurred|G1096|V-AIM-3S
 v18 ἀφ’|aph’|since|G575|Prep
 v18 οὗ|hou|-|G3739|RelPro-GMS
@@ -467,4 +467,4 @@ v21 ἐστὶν|estin|was|G1510|V-PIA-3S
 v21 ἡ|hē|-|G3588|Art-NFS
 v21 πληγὴ|plēgē|[it]|G4127|N-NFS
 v21 αὐτῆς|autēs|-|G846|PPro-GF3S
-v21 σφόδρα|sphodra|vvv|G4970|Adv
+v21 σφόδρα|sphodra|...|G4970|Adv

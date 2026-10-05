@@ -78,7 +78,7 @@ v5 עֹבֵ֤ד|‘ō·ḇêḏ|work|H5647|V-Qal-Prtcpl-ms
 v5 אֲדָמָה֙|’ă·ḏā·māh|the land|H127|N-fs
 v5 אָנֹ֔כִי|’ā·nō·ḵî|I|H595|Pro-1cs
 v5 כִּ֥י|kî|for|H3588|Conj
-v5 אָדָ֖ם|’ā·ḏām|vvv|H120|N-ms
+v5 אָדָ֖ם|’ā·ḏām|...|H120|N-ms
 v5 הִקְנַ֥נִי|hiq·na·nî|I was purchased as a servant|H7069|V-Hifil-Perf-3ms | 1cs
 v5 מִנְּעוּרָֽי׃|min·nə·‘ū·rāy|in my youth|H5271|Prep-m | N-mpc | 1cs
 v6 וְאָמַ֣ר|wə·’ā·mar|If someone asks|H559|Conj-w | V-Qal-ConjPerf-3ms
@@ -92,7 +92,7 @@ v6 וְאָמַ֕ר|wə·’ā·mar|he will answer|H559|Conj-w | V-Qal-ConjPerf-
 v6 אֲשֶׁ֥ר|’ă·šer|These are|H834|Pro-r
 v6 הֻכֵּ֖יתִי|huk·kê·ṯî|the wounds I received|H5221|V-Hofal-Perf-1cs
 v6 בֵּ֥ית|bêṯ|in the house|H1004|N-msc
-v6 מְאַהֲבָֽי׃ס|mə·’a·hă·ḇāy|of my friends|H157|V-Piel-Prtcpl-mpc | 1cs
+v6 מְאַהֲבָֽי׃|mə·’a·hă·ḇāy|of my friends|H157|V-Piel-Prtcpl-mpc | 1cs
 v7 חֶ֗רֶב|ḥe·reḇ|O sword|H2719|N-fs
 v7 עוּרִ֤י|‘ū·rî|Awake|H5782|V-Qal-Imp-fs
 v7 עַל־|‘al-|against|H5921|Prep
@@ -119,14 +119,14 @@ v8 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v8 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v8 פִּֽי־|pî-|two-thirds|H6310|N-msc
 v8 שְׁנַ֣יִם|šə·na·yim|...|H8147|Number-md
-v8 בָּ֔הּ|bāh||H0|Prep | 3fs
+v8 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v8 יִכָּרְת֖וּ|yik·kā·rə·ṯū|will be cut off|H3772|V-Nifal-Imperf-3mp
 v8 יִגְוָ֑עוּ|yiḡ·wā·‘ū|[and] perish|H1478|V-Qal-Imperf-3mp
 v8 וְהַשְּׁלִשִׁ֖ית|wə·haš·šə·li·šîṯ|but a third|H7992|Conj-w, Art | Number-ofs
 v8 יִוָּ֥תֶר|yiw·wā·ṯer|will be left|H3498|V-Nifal-Imperf-3ms
 v8 בָּֽהּ׃|bāh|in it|H0|Prep | 3fs
 v9 וְהֵבֵאתִ֤י|wə·hê·ḇê·ṯî|I will bring|H935|Conj-w | V-Hifil-ConjPerf-1cs
-v9 אֶת־|’eṯ-||H853|DirObjM
+v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 הַשְּׁלִשִׁית֙|haš·šə·li·šîṯ|This third|H7992|Art | Number-ofs
 v9 בָּאֵ֔שׁ|bā·’êš|through the fire|H784|Prep-b, Art | N-cs
 v9 וּצְרַפְתִּים֙|ū·ṣə·rap̄·tîm|I will refine them|H6884|Conj-w | V-Qal-ConjPerf-1cs | 3mp
@@ -137,7 +137,7 @@ v9 וּבְחַנְתִּ֖ים|ū·ḇə·ḥan·tîm|and test them|H974|Conj-w
 v9 כִּבְחֹ֣ן|kiḇ·ḥōn|-|H974|Prep-k | V-Qal-Inf
 v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 הַזָּהָ֑ב|haz·zā·hāḇ|like gold|H2091|Art | N-ms
-v9 ה֣וּא׀|hū||H1931|Pro-3ms
+v9 ה֣וּא׀|hū|-|H1931|Pro-3ms
 v9 יִקְרָ֣א|yiq·rā|They will call|H7121|V-Qal-Imperf-3ms
 v9 בִשְׁמִ֗י|ḇiš·mî|on My name|H8034|Prep-b | N-msc | 1cs
 v9 וַֽאֲנִי֙|wa·’ă·nî|and I|H589|Conj-w | Pro-1cs
@@ -149,4 +149,4 @@ v9 ה֔וּא|hū|and they|H1931|Pro-3ms
 v9 וְה֥וּא|wə·hū|...|H1931|Conj-w | Pro-3ms
 v9 יֹאמַ֖ר|yō·mar|will say|H559|V-Qal-Imperf-3ms
 v9 יְהוָ֥ה|Yah·weh|The LORD [is]|H3068|N-proper-ms
-v9 אֱלֹהָֽי׃ס|’ĕ·lō·hāy|our God|H430|N-mpc | 1cs
+v9 אֱלֹהָֽי׃|’ĕ·lō·hāy|our God|H430|N-mpc | 1cs

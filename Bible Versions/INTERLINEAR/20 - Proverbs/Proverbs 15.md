@@ -79,13 +79,13 @@ v11 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v11 אַ֝֗ף|’ap̄|how much more|H637|Conj
 v11 כִּֽי־|kî-|...|H3588|Conj
 v11 לִבּ֥וֹת|lib·bō·wṯ|the hearts|H3826|N-mpc
-v11 בְּֽנֵי־|bə·nê-|vvv|H1121|N-mpc
+v11 בְּֽנֵי־|bə·nê-|...|H1121|N-mpc
 v11 אָדָֽם׃|’ā·ḏām|of men|H120|N-ms
 v12 לֹ֣א|lō|does not|H3808|Adv-NegPrt
 v12 יֶאֱהַב־|ye·’ĕ·haḇ-|love|H157|V-Qal-Imperf-3ms
 v12 לֵ֭ץ|lêṣ|A mocker|H3887|V-Qal-Prtcpl-ms
 v12 הוֹכֵ֣חַֽ|hō·w·ḵê·aḥ|to be reproved|H3198|V-Hifil-InfAbs
-v12 ל֑וֹ|lōw|vvv|H0|Prep | 3ms
+v12 ל֑וֹ|lōw|...|H0|Prep | 3ms
 v12 אֶל־|’el-|consult|H413|Prep
 v12 חֲ֝כָמִ֗ים|ḥă·ḵā·mîm|the wise|H2450|Adj-mp
 v12 לֹ֣א|lō|nor will he|H3808|Adv-NegPrt
@@ -121,7 +121,7 @@ v16 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v16 מֵאוֹצָ֥ר|mê·’ō·w·ṣār|treasure|H214|Prep-m | N-ms
 v16 רָ֝֗ב|rāḇ|than great|H7227|Adj-ms
 v16 וּמְה֥וּמָה|ū·mə·hū·māh|with turmoil|H4103|Conj-w | N-fs
-v16 בֽוֹ׃|ḇōw||H0|Prep | 3ms
+v16 בֽוֹ׃|ḇōw|-|H0|Prep | 3ms
 v17 ט֤וֹב|ṭō·wḇ|Better|H2896|Adj-ms
 v17 אֲרֻחַ֣ת|’ă·ru·ḥaṯ|a dish|H737|N-fsc
 v17 יָ֭רָק|yā·rāq|of vegetables|H3419|N-ms
@@ -130,7 +130,7 @@ v17 שָׁ֑ם|šām|where|H8033|Adv
 v17 מִשּׁ֥וֹר|miš·šō·wr|ox|H7794|Prep-m | N-ms
 v17 אָ֝ב֗וּס|’ā·ḇūs|than a fattened|H75|V-Qal-QalPassPrtcpl-ms
 v17 וְשִׂנְאָה־|wə·śin·’āh-|with hatred|H8135|Conj-w | N-fs
-v17 בֽוֹ׃|ḇōw||H0|Prep | 3ms
+v17 בֽוֹ׃|ḇōw|-|H0|Prep | 3ms
 v18 אִ֣ישׁ|’îš|man|H376|N-msc
 v18 חֵ֭מָה|ḥê·māh|A hot-tempered|H2534|N-fs
 v18 יְגָרֶ֣ה|yə·ḡā·reh|stirs up|H1624|V-Piel-Imperf-3ms
@@ -228,7 +228,7 @@ v30 שְׁמוּעָ֥ה|šə·mū·‘āh|news|H8052|N-fs
 v30 ט֝וֹבָ֗ה|ṭō·w·ḇāh|[and] good|H2896|Adj-fs
 v30 תְּדַשֶּׁן־|tə·ḏaš·šen-|nourishes|H1878|V-Piel-Imperf-3fs
 v30 עָֽצֶם׃|‘ā·ṣem|the bones|H6106|N-fs
-v31 אֹ֗זֶן|’ō·zen|vvv|H241|N-fs
+v31 אֹ֗זֶן|’ō·zen|...|H241|N-fs
 v31 שֹׁ֭מַעַת|šō·ma·ʿaṯ|He who listens to|H8085|V-Qal-Prtcpl-fsc
 v31 תּוֹכַ֣חַת|tō·w·ḵa·ḥaṯ|reproof|H8433|N-fsc
 v31 חַיִּ֑ים|ḥay·yîm|life-giving|H2416|N-mp

@@ -140,12 +140,12 @@ v6 אִתּוֹ֙|’it·tōw|with him|H854|Prep | 3ms
 v6 בְּת֣וֹךְ|bə·ṯō·wḵ|among|H8432|Prep-b | N-msc
 v6 הָעָ֔ם|hā·‘ām|the people|H5971|Art | N-ms
 v6 הַנִּשְׁאָרִ֖ים|han·niš·’ā·rîm|who were left|H7604|Art | V-Nifal-Prtcpl-mp
-v6 בָּאָֽרֶץ׃ס|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
+v6 בָּאָֽרֶץ׃|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
 v7 וַיִּשְׁמְעוּ֩|way·yiš·mə·‘ū|heard|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v7 כָל־|ḵāl|When all|H3605|N-msc
 v7 שָׂרֵ֨י|śā·rê|the commanders|H8269|N-mpc
 v7 הַחֲיָלִ֜ים|ha·ḥă·yā·lîm|of the armies|H2428|Art | N-mp
-v7 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v7 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v7 בַּשָּׂדֶ֗ה|baś·śā·ḏeh|in the field|H7704|Prep-b, Art | N-ms
 v7 הֵ֚מָּה|hêm·māh|-|H1992|Pro-3mp
 v7 וְאַנְשֵׁיהֶ֔ם|wə·’an·šê·hem|and men|H582|Conj-w | N-mpc | 3mp
@@ -279,7 +279,7 @@ v12 וַיַּאַסְפ֛וּ|way·ya·’as·p̄ū|And they gathered|H622|Conj
 v12 יַ֥יִן|ya·yin|of wine [grapes]|H3196|N-ms
 v12 וָקַ֖יִץ|wā·qa·yiṣ|and summer fruit|H7019|Conj-w | N-ms
 v12 הַרְבֵּ֥ה|har·bêh|an abundance|H7235|V-Hifil-InfAbs
-v12 מְאֹֽד׃פ|mə·’ōḏ|...|H3966|Adv
+v12 מְאֹֽד׃|mə·’ōḏ|...|H3966|Adv
 v13 וְיֽוֹחָנָן֙|wə·yō·w·ḥā·nān|Meanwhile, Johanan|H3110|Conj-w | N-proper-ms
 v13 בֶּן־|ben-|son|H1121|N-msc
 v13 קָרֵ֔חַ|qā·rê·aḥ|of Kareah|H7143|N-proper-ms
@@ -362,4 +362,4 @@ v16 שֶׁ֛קֶר|še·qer|is a lie|H8267|N-ms
 v16 אַתָּ֥ה|’at·tāh|What you are|H859|Pro-2ms
 v16 דֹבֵ֖ר|ḏō·ḇêr|saying|H1696|V-Qal-Prtcpl-ms
 v16 אֶל־|’el-|about|H413|Prep
-v16 יִשְׁמָעֵֽאל׃ס|yiš·mā·‘êl|Ishmael|H3458|N-proper-ms
+v16 יִשְׁמָעֵֽאל׃|yiš·mā·‘êl|Ishmael|H3458|N-proper-ms

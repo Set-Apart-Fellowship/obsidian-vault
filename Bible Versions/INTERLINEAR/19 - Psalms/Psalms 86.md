@@ -27,7 +27,7 @@ v3 אֶ֝קְרָ֗א|’eq·rā|I call|H7121|V-Qal-Imperf-1cs
 v3 כָּל־|kāl-|all|H3605|N-msc
 v3 הַיּֽוֹם׃|hay·yō·wm|day long|H3117|Art | N-ms
 v4 שַׂ֭מֵּחַ|śam·mē·aḥ|Bring joy|H8055|V-Piel-Imp-ms
-v4 נֶ֣פֶשׁ|ne·p̄eš|vvv|H5315|N-fsc
+v4 נֶ֣פֶשׁ|ne·p̄eš|...|H5315|N-fsc
 v4 עַבְדֶּ֑ךָ|‘aḇ·de·ḵā|to Your servant|H5650|N-msc | 2ms
 v4 כִּ֥י|kî|for|H3588|Conj
 v4 אֵלֶ֥יךָ|’ê·le·ḵā|to You|H413|Prep | 2ms

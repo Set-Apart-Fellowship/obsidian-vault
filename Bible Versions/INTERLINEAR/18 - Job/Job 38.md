@@ -1,6 +1,6 @@
 v1 וַיַּֽעַן־|way·ya·‘an-|answered|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v1 יְהוָ֣ה|Yah·weh|Then the LORD|H3068|N-proper-ms
-v1 אֶת־|’eṯ-||H853|DirObjM
+v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 אִ֭יּוֹב|’î·yō·wḇ|Job|H347|N-proper-ms
 v1 מִנ|min|out of|H4480|Prep
 v1 הַסְּעָרָה|has·sə·ʿå̄·rå̄h|the whirlwind|H5591|Art | N-fs
@@ -43,7 +43,7 @@ v6 הָטְבָּ֑עוּ|hā·ṭə·bā·‘ū|set|H2883|V-Hofal-Perf-3cp
 v6 א֥וֹ|’ōw|or|H176|Conj
 v6 מִֽי־|mî-|who|H4310|Interrog
 v6 יָ֝רָ֗ה|yā·rāh|laid|H3384|V-Qal-Perf-3ms
-v6 אֶ֣בֶן|’e·ḇen|vvv|H68|N-fsc
+v6 אֶ֣בֶן|’e·ḇen|...|H68|N-fsc
 v6 פִּנָּתָֽהּ׃|pin·nā·ṯāh|its cornerstone|H6438|N-fsc | 3fs
 v7 בְּרָן־|bə·rān-|sang|H7442|Prep-b | V-Qal-Inf
 v7 יַ֭חַד|ya·ḥaḏ|together|H3162|Adv
@@ -188,7 +188,7 @@ v26 אִ֑ישׁ|’îš|...|H376|N-ms
 v26 מִ֝דְבָּ֗ר|miḏ·bār|on a desert|H4057|N-ms
 v26 לֹא־|lō-|where no|H3808|Adv-NegPrt
 v26 אָדָ֥ם|’ā·ḏām|man [lives]|H120|N-ms
-v26 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v26 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v27 לְהַשְׂבִּ֣יעַ|lə·haś·bî·a‘|to satisfy|H7646|Prep-l | V-Hifil-Inf
 v27 שֹׁ֭אָה|šō·’āh|the parched|H7722|N-fs
 v27 וּמְשֹׁאָ֑ה|ū·mə·šō·’āh|wasteland|H4875|Conj-w | N-fs

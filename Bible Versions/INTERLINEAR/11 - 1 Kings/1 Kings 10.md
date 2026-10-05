@@ -34,7 +34,7 @@ v2 הָיָ֖ה|hā·yāh|was|H1961|V-Qal-Perf-3ms
 v2 עִם־|‘im-|on|H5973|Prep
 v2 לְבָבָֽהּ׃|lə·ḇā·ḇāh|her mind|H3824|N-msc | 3fs
 v3 וַיַּגֶּד־|way·yag·geḏ-|answered|H5046|Conj-w | V-Hifil-ConsecImperf-3ms
-v3 לָ֥הּ|lāh||H0|Prep | 3fs
+v3 לָ֥הּ|lāh|-|H0|Prep | 3fs
 v3 שְׁלֹמֹ֖ה|šə·lō·mōh|And Solomon|H8010|N-proper-ms
 v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 כָּל־|kāl-|all|H3605|N-msc
@@ -74,7 +74,7 @@ v5 בֵּ֣ית|bêṯ|at the house|H1004|N-msc
 v5 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v5 וְלֹא־|wə·lō-|away|H3808|Conj-w | Adv-NegPrt
 v5 הָ֥יָה|hā·yāh|...|H1961|V-Qal-Perf-3ms
-v5 בָ֛הּ|ḇāh||H0|Prep | 3fs
+v5 בָ֛הּ|ḇāh|-|H0|Prep | 3fs
 v5 ע֖וֹד|‘ō·wḏ|-|H5750|Adv
 v5 רֽוּחַ׃|rū·aḥ|it took her breath|H7307|N-cs
 v6 וַתֹּ֙אמֶר֙|wat·tō·mer|She said|H559|Conj-w | V-Qal-ConsecImperf-3fs
@@ -223,8 +223,8 @@ v13 שְׁלֹמֹ֑ה|šə·lō·mōh|out of [his]|H8010|N-proper-ms
 v13 וַתֵּ֛פֶן|wat·tê·p̄en|Then she left|H6437|Conj-w | V-Qal-ConsecImperf-3fs
 v13 וַתֵּ֥לֶךְ|wat·tê·leḵ|and returned|H1980|Conj-w | V-Qal-ConsecImperf-3fs
 v13 לְאַרְצָ֖הּ|lə·’ar·ṣāh|to her own country|H776|Prep-l | N-fsc | 3fs
-v13 הִ֥יא|hî||H1931|Pro-3fs
-v13 וַעֲבָדֶֽיהָ׃ס|wa·‘ă·ḇā·ḏe·hā|along with her servants|H5650|Conj-w | N-mpc | 3fs
+v13 הִ֥יא|hî|-|H1931|Pro-3fs
+v13 וַעֲבָדֶֽיהָ׃|wa·‘ă·ḇā·ḏe·hā|along with her servants|H5650|Conj-w | N-mpc | 3fs
 v14 וַֽיְהִי֙|way·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v14 מִשְׁקַ֣ל|miš·qal|The weight|H4948|N-msc
 v14 הַזָּהָ֔ב|haz·zā·hāḇ|of gold|H2091|Art | N-ms
@@ -279,7 +279,7 @@ v17 וַיִּתְּנֵ֣ם|way·yit·tə·nêm|put them|H5414|Conj-w | V-Qal-C
 v17 הַמֶּ֔לֶךְ|ham·me·leḵ|And the king|H4428|Art | N-ms
 v17 בֵּ֖ית|bêṯ|in the House|H1004|N-msc
 v17 יַ֥עַר|ya·‘ar|of the Forest|H3293|N-msc
-v17 הַלְּבָנֽוֹן׃פ|hal·lə·ḇā·nō·wn|of Lebanon|H3844|Art | N-proper-fs
+v17 הַלְּבָנֽוֹן׃|hal·lə·ḇā·nō·wn|of Lebanon|H3844|Art | N-proper-fs
 v18 וַיַּ֧עַשׂ|way·ya·‘aś|made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v18 הַמֶּ֛לֶךְ|ham·me·leḵ|Additionally, the king|H4428|Art | N-ms
 v18 כִּסֵּא־|kis·sê-|throne|H3678|N-ms
@@ -397,14 +397,14 @@ v25 סוּסִ֖ים|sū·sîm|horses|H5483|N-mp
 v25 וּפְרָדִ֑ים|ū·p̄ə·rā·ḏîm|and mules|H6505|Conj-w | N-mp
 v25 דְּבַר־|də·ḇar-|-|H1697|N-msc
 v25 שָׁנָ֖ה|šā·nāh|Year|H8141|N-fs
-v25 בְּשָׁנָֽה׃ס|bə·šā·nāh|after year|H8141|Prep-b | N-fs
+v25 בְּשָׁנָֽה׃|bə·šā·nāh|after year|H8141|Prep-b | N-fs
 v26 וַיֶּאֱסֹ֣ף|way·ye·’ĕ·sōp̄|accumulated|H622|Conj-w | V-Qal-ConsecImperf-3ms
 v26 שְׁלֹמֹה֮|šə·lō·mōh|Solomon|H8010|N-proper-ms
 v26 רֶ֣כֶב|re·ḵeḇ|-|H7393|N-ms
 v26 וּפָרָשִׁים֒|ū·p̄ā·rā·šîm|-|H6571|Conj-w | N-mp
 v26 וַיְהִי־|way·hî-|...|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v26 ל֗וֹ|lōw||H0|Prep | 3ms
-v26 אֶ֤לֶף|’e·lep̄|1,400 {}|H505|Number-ms
+v26 ל֗וֹ|lōw|-|H0|Prep | 3ms
+v26 אֶ֤לֶף|’e·lep̄|1,400|H505|Number-ms
 v26 וְאַרְבַּע־|wə·’ar·ba‘-|...|H702|Conj-w | Number-fs
 v26 מֵאוֹת֙|mê·’ō·wṯ|...|H3967|Number-fp
 v26 רֶ֔כֶב|re·ḵeḇ|chariots|H7393|N-ms
@@ -459,4 +459,4 @@ v29 הַחִתִּ֛ים|ha·ḥit·tîm|of the Hittites|H2850|Art | N-proper-mp
 v29 וּלְמַלְכֵ֥י|ū·lə·mal·ḵê|and to the kings|H4428|Conj-w, Prep-l | N-mpc
 v29 אֲרָ֖ם|’ă·rām|of Aram|H758|N-proper-fs
 v29 בְּיָדָ֥ם|bə·yā·ḏām|[they]|H3027|Prep-b | N-fsc | 3mp
-v29 יֹצִֽאוּ׃פ|yō·ṣi·’ū|exported them|H3318|V-Hifil-Imperf-3mp
+v29 יֹצִֽאוּ׃|yō·ṣi·’ū|exported them|H3318|V-Hifil-Imperf-3mp

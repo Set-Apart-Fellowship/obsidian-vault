@@ -1,6 +1,6 @@
 v1 Κἀγώ|Kagō|I|G2504|PPro-N1S
 v1 ἀδελφοί|adelphoi|Brothers|G80|N-VMP
-v1 οὐκ|ouk|vvv|G3756|Adv
+v1 οὐκ|ouk|...|G3756|Adv
 v1 ἠδυνήθην|ēdynēthēn|could not|G1410|V-AIP-1S
 v1 λαλῆσαι|lalēsai|address|G2980|V-ANA
 v1 ὑμῖν|hymin|you|G4771|PPro-D2P
@@ -14,17 +14,17 @@ v1 νηπίοις|nēpiois|infants|G3516|Adj-DMP
 v1 ἐν|en|in|G1722|Prep
 v1 Χριστῷ|Christō|Christ|G5547|N-DMS
 v2 γάλα|gala|milk|G1051|N-ANS
-v2 ὑμᾶς|hymas|vvv|G4771|PPro-A2P
+v2 ὑμᾶς|hymas|...|G4771|PPro-A2P
 v2 ἐπότισα|epotisa|I gave you|G4222|V-AIA-1S
 v2 οὐ|ou|not|G3756|Adv
 v2 βρῶμα|brōma|solid food|G1033|N-ANS
-v2 οὔπω|oupō|vvv|G3768|Adv
+v2 οὔπω|oupō|...|G3768|Adv
 v2 γὰρ|gar|for|G1063|Conj
 v2 ἐδύνασθε|edynasthe|you were not yet ready [for solid food]|G1410|V-IIM/P-2P
 v2 Ἀλλ’|All’|In fact|G235|Conj
-v2 οὐδὲ|oude|vvv|G3761|Adv
-v2 ἔτι|eti|vvv|G2089|Adv
-v2 νῦν|nyn|vvv|G3568|Adv
+v2 οὐδὲ|oude|...|G3761|Adv
+v2 ἔτι|eti|...|G2089|Adv
+v2 νῦν|nyn|...|G3568|Adv
 v2 δύνασθε|dynasthe|you are still not ready|G1410|V-PIM/P-2P
 v3 ἔτι|eti|still|G2089|Adv
 v3 γὰρ|gar|for|G1063|Conj
@@ -197,18 +197,18 @@ v13 πῦρ|pyr|fire|G4442|N-NNS
 v13 αὐτὸ|auto|-|G846|PPro-NN3S
 v13 δοκιμάσει|dokimasei|will prove|G1381|V-FIA-3S
 v14 εἴ|ei|If|G1487|Conj
-v14 τινος|tinos|vvv|G5100|IPro-GMS
+v14 τινος|tinos|...|G5100|IPro-GMS
 v14 τὸ|to|-|G3588|Art-NNS
-v14 ἔργον|ergon|vvv|G2041|N-NNS
+v14 ἔργον|ergon|...|G2041|N-NNS
 v14 μενεῖ|menei|survives|G3306|V-FIA-3S
-v14 ὃ|ho|vvv|G3739|RelPro-ANS
+v14 ὃ|ho|...|G3739|RelPro-ANS
 v14 ἐποικοδόμησεν|epoikodomēsen|what he has built|G2026|V-AIA-3S
 v14 μισθὸν|misthon|a reward|G3408|N-AMS
 v14 λήμψεται|lēmpsetai|he will receive|G2983|V-FIM-3S
 v15 εἴ|ei|If|G1487|Conj
 v15 τινος|tinos|[it]|G5100|IPro-GMS
-v15 τὸ|to|vvv|G3588|Art-NNS
-v15 ἔργον|ergon|vvv|G2041|N-NNS
+v15 τὸ|to|...|G3588|Art-NNS
+v15 ἔργον|ergon|...|G2041|N-NNS
 v15 κατακαήσεται|katakaēsetai|is burned up|G2618|V-FIP-3S
 v15 ζημιωθήσεται|zēmiōthēsetai|he will suffer loss|G2210|V-FIP-3S
 v15 αὐτὸς|autos|He himself|G846|PPro-NM3S
@@ -219,7 +219,7 @@ v15 δὲ|de|but only|G1161|Conj
 v15 ὡς|hōs|as if|G5613|Adv
 v15 διὰ|dia|through|G1223|Prep
 v15 πυρός|pyros|[the] flames|G4442|N-GNS
-v16 Οὐκ|Ouk|vvv|G3756|Adv
+v16 Οὐκ|Ouk|...|G3756|Adv
 v16 οἴδατε|oidate|Do you not know|G1492|V-RIA-2P
 v16 ὅτι|hoti|that|G3754|Conj
 v16 ναὸς|naos|temple|G3485|N-NMS

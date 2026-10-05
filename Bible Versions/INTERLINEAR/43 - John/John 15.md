@@ -15,7 +15,7 @@ v2 πᾶν|pan|every|G3956|Adj-ANS
 v2 κλῆμα|klēma|branch|G2814|N-ANS
 v2 ἐν|en|in|G1722|Prep
 v2 ἐμοὶ|emoi|Me|G1473|PPro-D1S
-v2 μὴ|mē|vvv|G3361|Adv
+v2 μὴ|mē|...|G3361|Adv
 v2 φέρον|pheron|that bears no|G5342|V-PPA-ANS
 v2 καρπὸν|karpon|fruit|G2590|N-AMS
 v2 αἴρει|airei|He cuts off|G142|V-PIA-3S
@@ -54,7 +54,7 @@ v4 οὐ|ou|no|G3756|Adv
 v4 δύναται|dynatai|can|G1410|V-PIM/P-3S
 v4 καρπὸν|karpon|fruit|G2590|N-AMS
 v4 φέρειν|pherein|bear|G5342|V-PNA
-v4 ἀφ’|aph’|vvv|G575|Prep
+v4 ἀφ’|aph’|...|G575|Prep
 v4 ἑαυτοῦ|heautou|by itself|G1438|RefPro-GN3S
 v4 ἐὰν|ean|unless|G1437|Conj
 v4 μὴ|mē|...|G3361|Adv
@@ -91,7 +91,7 @@ v5 πολύν|polyn|much|G4183|Adj-AMS
 v5 ὅτι|hoti|For|G3754|Conj
 v5 χωρὶς|chōris|apart from|G5565|Prep
 v5 ἐμοῦ|emou|Me|G1473|PPro-G1S
-v5 οὐ|ou|vvv|G3756|Adv
+v5 οὐ|ou|...|G3756|Adv
 v5 δύνασθε|dynasthe|you can|G1410|V-PIM/P-2P
 v5 ποιεῖν|poiein|do|G4160|V-PNA
 v5 οὐδέν|ouden|nothing|G3762|Adj-ANS
@@ -130,7 +130,7 @@ v7 ἐν|en|in|G1722|Prep
 v7 ὑμῖν|hymin|you|G4771|PPro-D2P
 v7 μείνῃ|meinē|remain|G3306|V-ASA-3S
 v7 ὃ|ho|whatever|G3739|RelPro-ANS
-v7 ἐὰν|ean|vvv|G1437|Conj
+v7 ἐὰν|ean|...|G1437|Conj
 v7 θέλητε|thelēte|you wish|G2309|V-PSA-2P
 v7 αἰτήσασθε|aitēsasthe|ask|G154|V-AMM-2P
 v7 καὶ|kai|and|G2532|Conj
@@ -146,7 +146,7 @@ v8 ἵνα|hina|that|G2443|Conj
 v8 καρπὸν|karpon|fruit|G2590|N-AMS
 v8 πολὺν|polyn|much|G4183|Adj-AMS
 v8 φέρητε|pherēte|you bear|G5342|V-PSA-2P
-v8 καὶ|kai|vvv|G2532|Conj
+v8 καὶ|kai|...|G2532|Conj
 v8 γένησθε*|genēsthe|[proving] yourselves to be|G1096|V-ASM-2P
 v8 ἐμοὶ|emoi|My|G1699|PPro-D1S
 v8 μαθηταί|mathētai|disciples|G3101|N-NMP
@@ -327,7 +327,7 @@ v19 κόσμου|kosmou|world|G2889|N-GMS
 v19 ἦτε|ēte|you were|G1510|V-IIA-2P
 v19 ὁ|ho|-|G3588|Art-NMS
 v19 κόσμος|kosmos|[it]|G2889|N-NMS
-v19 ἂν|an|vvv|G302|Prtcl
+v19 ἂν|an|...|G302|Prtcl
 v19 τὸ|to|[as] its|G3588|Art-ANS
 v19 ἴδιον|idion|own|G2398|Adj-ANS
 v19 ἐφίλει|ephilei|would love [you]|G5368|V-IIA-3S
@@ -391,19 +391,19 @@ v21 τὸ|to|-|G3588|Art-ANS
 v21 ὄνομά|onoma|name|G3686|N-ANS
 v21 μου|mou|My|G1473|PPro-G1S
 v21 ὅτι|hoti|since|G3754|Conj
-v21 οὐκ|ouk|vvv|G3756|Adv
+v21 οὐκ|ouk|...|G3756|Adv
 v21 οἴδασιν|oidasin|they do not know|G1492|V-RIA-3P
 v21 τὸν|ton|the [One who]|G3588|Art-AMS
 v21 πέμψαντά|pempsanta|sent|G3992|V-APA-AMS
 v21 με|me|Me|G1473|PPro-A1S
 v22 εἰ|ei|If|G1487|Conj
-v22 μὴ|mē|vvv|G3361|Adv
+v22 μὴ|mē|...|G3361|Adv
 v22 ἦλθον|ēlthon|I had not come|G2064|V-AIA-1S
 v22 καὶ|kai|and|G2532|Conj
 v22 ἐλάλησα|elalēsa|spoken|G2980|V-AIA-1S
 v22 αὐτοῖς|autois|to them|G846|PPro-DM3P
 v22 ἁμαρτίαν|hamartian|...|G266|N-AFS
-v22 οὐκ|ouk|vvv|G3756|Adv
+v22 οὐκ|ouk|...|G3756|Adv
 v22 εἴχοσαν|eichosan|they would not be guilty of sin|G2192|V-IIA-3P
 v22 νῦν|nyn|Now|G3568|Adv
 v22 δὲ|de|however|G1161|Conj
@@ -425,7 +425,7 @@ v23 μισεῖ|misei|hates|G3404|V-PIA-3S
 v24 εἰ|ei|If|G1487|Conj
 v24 τὰ|ta|the|G3588|Art-ANP
 v24 ἔργα|erga|works|G2041|N-ANP
-v24 μὴ|mē|vvv|G3361|Adv
+v24 μὴ|mē|...|G3361|Adv
 v24 ἐποίησα|epoiēsa|I had not done|G4160|V-AIA-1S
 v24 ἐν|en|among|G1722|Prep
 v24 αὐτοῖς|autois|them|G846|PPro-DM3P
@@ -434,7 +434,7 @@ v24 οὐδεὶς|oudeis|no one|G3762|Adj-NMS
 v24 ἄλλος|allos|else|G243|Adj-NMS
 v24 ἐποίησεν|epoiēsen|did|G4160|V-AIA-3S
 v24 ἁμαρτίαν|hamartian|...|G266|N-AFS
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 εἴχοσαν|eichosan|they would not be guilty of sin|G2192|V-IIA-3P
 v24 νῦν|nyn|now|G3568|Adv
 v24 δὲ|de|but|G1161|Conj

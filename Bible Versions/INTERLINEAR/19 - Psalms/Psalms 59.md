@@ -20,7 +20,7 @@ v2 אָ֑וֶן|’ā·wen|of iniquity|H205|N-ms
 v2 וּֽמֵאַנְשֵׁ֥י|ū·mê·’an·šê|...|H376|Conj-w, Prep-m | N-mpc
 v2 דָ֝מִ֗ים|ḏā·mîm|from men of bloodshed|H1818|N-mp
 v2 הוֹשִׁיעֵֽנִי׃|hō·wō·šî·‘ê·nî|and save me|H3467|V-Hifil-Imp-ms | 1cs
-v3 כִּ֤י|kî|vvv|H3588|Conj
+v3 כִּ֤י|kî|...|H3588|Conj
 v3 הִנֵּ֪ה|hin·nêh|See|H2009|Interjection
 v3 אָֽרְב֡וּ|’ā·rə·ḇū|how they lie in wait|H693|V-Qal-Perf-3cp
 v3 לְנַפְשִׁ֗י|lə·nap̄·šî|for me|H5315|Prep-l | N-fsc | 1cs
@@ -39,7 +39,7 @@ v4 וְיִכּוֹנָ֑נוּ|wə·yik·kō·w·nā·nū|to attack me|H3559|Co
 v4 ע֖וּרָה|‘ū·rāh|Arise|H5782|V-Qal-Imp-ms | 3fs
 v4 לִקְרָאתִ֣י|liq·rā·ṯî|to help me|H7122|Prep-l | V-Qal-Inf | 1cs
 v4 וּרְאֵה׃|ū·rə·ʾēh|and take notice|H7200|Conj-w | V-Qal-Imp-ms
-v5 וְאַתָּ֤ה|wə·’at·tāh|vvv|H859|Conj-w | Pro-2ms
+v5 וְאַתָּ֤ה|wə·’at·tāh|...|H859|Conj-w | Pro-2ms
 v5 יְהוָֽה־|Yah·weh-|O LORD|H3068|N-proper-ms
 v5 אֱלֹהִ֥ים׀|’ĕ·lō·hîm|God|H430|N-mp
 v5 צְבָא֡וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
@@ -141,11 +141,11 @@ v16 חַ֫סְדֶּ֥ךָ|ḥas·de·ḵā|Your loving devotion|H2617|N-msc | 2
 v16 כִּֽי־|kî-|For|H3588|Conj
 v16 הָיִ֣יתָ|hā·yî·ṯā|You are|H1961|V-Qal-Perf-2ms
 v16 מִשְׂגָּ֣ב|miś·gāḇ|my fortress|H4869|N-ms
-v16 לִ֑י|lî||H0|Prep | 1cs
+v16 לִ֑י|lî|-|H0|Prep | 1cs
 v16 וּ֝מָנ֗וֹס|ū·mā·nō·ws|my refuge|H4498|Conj-w | N-ms
 v16 בְּי֣וֹם|bə·yō·wm|in times|H3117|Prep-b | N-ms
 v16 צַר־|ṣar-|of trouble|H6887|V-Qal-Perf-3ms
-v16 לִֽי׃|lî||H0|Prep | 1cs
+v16 לִֽי׃|lî|-|H0|Prep | 1cs
 v17 עֻ֭זִּי|‘uz·zî|O my strength|H5797|N-msc | 1cs
 v17 אֵלֶ֣יךָ|’ê·le·ḵā|To You|H413|Prep | 2ms
 v17 אֲזַמֵּ֑רָה|’ă·zam·mê·rāh|I sing praises|H2167|V-Piel-Imperf.Cohort-1cs

@@ -2,7 +2,7 @@ v1 מַשָּׂ֖א|maś·śā|[This is] the burden|H4853|N-msc
 v1 גֵּ֣יא|gê|against the Valley|H1516|N-csc
 v1 חִזָּי֑וֹן|ḥiz·zā·yō·wn|of Vision|H2384|N-ms
 v1 מַה־|mah-|What|H4100|Interrog
-v1 לָּ֣ךְ|lāḵ||H0|Prep | 2fs
+v1 לָּ֣ךְ|lāḵ|-|H0|Prep | 2fs
 v1 אֵפ֔וֹא|’ê·p̄ō·w|ails you now|H645|Conj
 v1 כִּֽי־|kî-|that|H3588|Conj
 v1 עָלִ֥ית|‘ā·lîṯ|gone up|H5927|V-Qal-Perf-2fs
@@ -11,7 +11,7 @@ v1 לַגַּגּֽוֹת׃|lag·gag·gō·wṯ|to the rooftops|H1406|Prep-l, Ar
 v2 תְּשֻׁא֣וֹת׀|tə·šu·’ō·wṯ|of commotion|H8663|N-fp
 v2 מְלֵאָ֗ה|mə·lê·’āh|...|H4392|Adj-fs
 v2 עִ֚יר|‘îr|O city|H5892|N-fsc
-v2 הֽוֹמִיָּ֔ה|hō·w·mî·yāh|vvv|H1993|V-Qal-Prtcpl-fs
+v2 הֽוֹמִיָּ֔ה|hō·w·mî·yāh|...|H1993|V-Qal-Prtcpl-fs
 v2 קִרְיָ֖ה|qir·yāh|O town|H7151|N-fs
 v2 עַלִּיזָ֑ה|‘al·lî·zāh|of revelry|H5947|Adj-fs
 v2 חֲלָלַ֙יִךְ֙|ḥă·lā·la·yiḵ|Your slain|H2491|N-mpc | 2fs
@@ -167,7 +167,7 @@ v14 תְּמֻת֔וּן|tə·mu·ṯūn|dying day|H4191|V-Qal-Imperf-2mp | Pn
 v14 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v14 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v14 יְהוִ֖ה|Yah·weh|GOD|H3069|N-proper-ms
-v14 צְבָאֽוֹת׃פ|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
+v14 צְבָאֽוֹת׃|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v15 כֹּ֥ה|kōh|This is what|H3541|Adv
 v15 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v15 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -187,7 +187,7 @@ v16 מַה־|mah-|What|H4100|Interrog
 v16 לְּךָ֥|lə·ḵā|are you|H0|Prep | 2ms
 v16 פֹה֙|p̄ōh|doing here|H6311|Adv
 v16 וּמִ֣י|ū·mî|and who|H4310|Conj-w | Interrog
-v16 לְךָ֣|lə·ḵā||H0|Prep | 2ms
+v16 לְךָ֣|lə·ḵā|-|H0|Prep | 2ms
 v16 פֹ֔ה|p̄ōh|[authorized] you|H6311|Adv
 v16 כִּֽי־|kî-|...|H3588|Conj
 v16 חָצַ֧בְתָּ|ḥā·ṣaḇ·tā|to carve out|H2672|V-Qal-Perf-2ms
@@ -200,7 +200,7 @@ v16 קִבְר֔וֹ|qiḇ·rōw|your tomb|H6913|N-msc | 3ms
 v16 חֹקְקִ֥י|ḥō·qə·qî|and cut|H2710|V-Qal-Prtcpl-msc
 v16 בַסֶּ֖לַע|ḇas·se·la‘|in the rock|H5553|Prep-b, Art | N-ms
 v16 מִשְׁכָּ֥ן|miš·kān|your resting place|H4908|N-ms
-v16 לֽוֹ׃|lōw||H0|Prep | 3ms
+v16 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v17 הִנֵּ֤ה|hin·nêh|Look|H2009|Interjection
 v17 יְהוָה֙|Yah·weh|The LORD|H3068|N-proper-ms
 v17 מְטַלְטֶלְךָ֔|mə·ṭal·ṭel·ḵā|is about to shake you violently|H2904|V-Piel-Prtcpl-msc | 2ms
@@ -305,4 +305,4 @@ v25 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v25 עָלֶ֔יהָ|‘ā·le·hā|upon it|H5921|Prep | 3fs
 v25 כִּ֥י|kî|Indeed|H3588|Conj
 v25 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v25 דִּבֵּֽר׃ס|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms
+v25 דִּבֵּֽר׃|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms

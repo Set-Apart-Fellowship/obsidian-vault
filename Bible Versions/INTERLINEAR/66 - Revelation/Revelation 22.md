@@ -107,8 +107,8 @@ v5 ἐπ’|ep’|on|G1909|Prep
 v5 αὐτούς|autous|them|G846|PPro-AM3P
 v5 καὶ|kai|and|G2532|Conj
 v5 βασιλεύσουσιν|basileusousin|they will reign|G936|V-FIA-3P
-v5 εἰς|eis|vvv|G1519|Prep
-v5 τοὺς|tous|vvv|G3588|Art-AMP
+v5 εἰς|eis|...|G1519|Prep
+v5 τοὺς|tous|...|G3588|Art-AMP
 v5 αἰῶνας|aiōnas|forever|G165|N-AMP
 v5 τῶν|tōn|[and]|G3588|Art-GMP
 v5 αἰώνων|aiōnōn|ever|G165|N-GMP
@@ -141,7 +141,7 @@ v6 αὐτοῦ|autou|His|G846|PPro-GM3S
 v6 ἃ|ha|what|G3739|RelPro-ANP
 v6 δεῖ|dei|must|G1163|V-PIA-3S
 v6 γενέσθαι|genesthai|take place|G1096|V-ANM
-v6 ἐν|en|vvv|G1722|Prep
+v6 ἐν|en|...|G1722|Prep
 v6 τάχει|tachei|soon|G5034|N-DNS
 v7 Καὶ|Kai|-|G2532|Conj
 v7 ἰδοὺ|idou|Behold|G2400|V-AMA-2S
@@ -208,7 +208,7 @@ v9 προσκύνησον|proskynēson|Worship|G4352|V-AMA-2S
 v10 Καὶ|Kai|Then|G2532|Conj
 v10 λέγει|legei|he told|G3004|V-PIA-3S
 v10 μοι|moi|me|G1473|PPro-D1S
-v10 Μὴ|Mē|vvv|G3361|Adv
+v10 Μὴ|Mē|...|G3361|Adv
 v10 σφραγίσῃς|sphragisēs|Do not seal up|G4972|V-ASA-2S
 v10 τοὺς|tous|the|G3588|Art-AMP
 v10 λόγους|logous|words|G3056|N-AMP

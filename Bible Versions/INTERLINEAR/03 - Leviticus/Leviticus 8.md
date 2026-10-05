@@ -83,7 +83,7 @@ v7 בְּחֵ֙שֶׁב֙|bə·ḥê·šeḇ|He tied the woven band|H2805|Prep-b
 v7 הָֽאֵפֹ֔ד|hā·’ê·p̄ōḏ|of the ephod|H646|Art | N-ms
 v7 וַיֶּאְפֹּ֥ד|way·ye’·pōḏ|and fastened it|H640|Conj-w | V-Qal-ConsecImperf-3ms
 v7 ל֖וֹ|lōw|to him|H0|Prep | 3ms
-v7 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v7 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v8 וַיָּ֥שֶׂם|way·yā·śem|Then he put|H7760|Conj-w | V-Qal-ConsecImperf-3ms
 v8 עָלָ֖יו|‘ā·lāw|on|H5921|Prep | 3ms
 v8 אֶת־|’eṯ-|him|H853|DirObjM
@@ -567,4 +567,4 @@ v36 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v36 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v36 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v36 בְּיַד־|bə·yaḏ-|through|H3027|Prep-b | N-fsc
-v36 מֹשֶֽׁה׃ס|mō·šeh|Moses|H4872|N-proper-ms
+v36 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms

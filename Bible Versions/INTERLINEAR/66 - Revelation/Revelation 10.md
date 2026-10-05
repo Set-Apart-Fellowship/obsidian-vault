@@ -57,7 +57,7 @@ v2 γῆς|gēs|land|G1093|N-GFS
 v3 καὶ|kai|Then|G2532|Conj
 v3 ἔκραξεν|ekraxen|he cried out|G2896|V-AIA-3S
 v3 φωνῇ|phōnē|in a loud voice|G5456|N-DFS
-v3 μεγάλῃ|megalē|vvv|G3173|Adj-DFS
+v3 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v3 ὥσπερ|hōsper|like|G5618|Adv
 v3 λέων|leōn|of a lion|G3023|N-NMS
 v3 μυκᾶται|mykatai|the roar|G3455|V-PIM/P-3S
@@ -123,8 +123,8 @@ v6 ὤμοσεν|ōmosen|he swore|G3660|V-AIA-3S
 v6 ἐν|en|by|G1722|Prep
 v6 τῷ|tō|Him who|G3588|Art-DMS
 v6 ζῶντι|zōnti|lives|G2198|V-PPA-DMS
-v6 εἰς|eis|vvv|G1519|Prep
-v6 τοὺς|tous|vvv|G3588|Art-AMP
+v6 εἰς|eis|...|G1519|Prep
+v6 τοὺς|tous|...|G3588|Art-AMP
 v6 αἰῶνας|aiōnas|forever|G165|N-AMP
 v6 τῶν|tōn|[and]|G3588|Art-GMP
 v6 αἰώνων|aiōnōn|ever|G165|N-GMP

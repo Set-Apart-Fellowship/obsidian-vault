@@ -19,7 +19,7 @@ v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 עֲוֺ֥ן|‘ă·wōn|the iniquity [involving]|H5771|N-csc
 v1 כְּהֻנַּתְכֶֽם׃|kə·hun·naṯ·ḵem|your priesthood|H3550|N-fsc | 2mp
 v2 וְגַ֣ם|wə·ḡam|also|H1571|Conj
-v2 אֶת־|’eṯ-||H853|DirObjM
+v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 אַחֶיךָ֩|’a·ḥe·ḵā|your brothers|H251|N-mpc | 2ms
 v2 מַטֵּ֨ה|maṭ·ṭêh|from the tribe|H4294|N-msc
 v2 לֵוִ֜י|lê·wî|of Levi|H3878|N-proper-ms
@@ -58,7 +58,7 @@ v3 אַתֶּֽם׃|’at·tem|you|H859|Pro-2mp
 v4 וְנִלְו֣וּ|wə·nil·wū|They are to join|H3867|Conj-w | V-Nifal-ConjPerf-3cp
 v4 עָלֶ֔יךָ|‘ā·le·ḵā|you|H5921|Prep | 2ms
 v4 וְשָֽׁמְר֗וּ|wə·šā·mə·rū|and attend|H8104|Conj-w | V-Qal-ConjPerf-3cp
-v4 אֶת־|’eṯ-||H853|DirObjM
+v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 מִשְׁמֶ֙רֶת֙|miš·me·reṯ|to the duties|H4931|N-fsc
 v4 אֹ֣הֶל|’ō·hel|of the Tent|H168|N-ms
 v4 מוֹעֵ֔ד|mō·w·‘êḏ|of Meeting|H4150|N-ms
@@ -70,11 +70,11 @@ v4 לֹא־|lō-|but no|H3808|Adv-NegPrt
 v4 יִקְרַ֥ב|yiq·raḇ|may come near|H7126|V-Qal-Imperf-3ms
 v4 אֲלֵיכֶֽם׃|’ă·lê·ḵem|you|H413|Prep | 2mp
 v5 וּשְׁמַרְתֶּ֗ם|ū·šə·mar·tem|And you shall attend|H8104|Conj-w | V-Qal-ConjPerf-2mp
-v5 אֵ֚ת|’êṯ||H853|DirObjM
+v5 אֵ֚ת|’êṯ|-|H853|DirObjM
 v5 מִשְׁמֶ֣רֶת|miš·me·reṯ|to the duties|H4931|N-fsc
 v5 הַקֹּ֔דֶשׁ|haq·qō·ḏeš|of the sanctuary|H6944|Art | N-ms
 v5 וְאֵ֖ת|wə·’êṯ|[and]|H853|Conj-w | DirObjM
-v5 מִשְׁמֶ֣רֶת|miš·me·reṯ||H4931|N-fsc
+v5 מִשְׁמֶ֣רֶת|miš·me·reṯ|-|H4931|N-fsc
 v5 הַמִּזְבֵּ֑חַ|ham·miz·bê·aḥ|of the altar|H4196|Art | N-ms
 v5 וְלֹֽא־|wə·lō-|may not|H3808|Conj-w | Adv-NegPrt
 v5 יִהְיֶ֥ה|yih·yeh|fall|H1961|V-Qal-Imperf-3ms
@@ -97,7 +97,7 @@ v6 מַתָּנָ֤ה|mat·tā·nāh|as a gift|H4979|N-fs
 v6 נְתֻנִים֙|nə·ṯu·nîm|dedicated|H5414|V-Qal-QalPassPrtcpl-mp
 v6 לַֽיהוָ֔ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v6 לַעֲבֹ֕ד|la·‘ă·ḇōḏ|to perform|H5647|Prep-l | V-Qal-Inf
-v6 אֶת־|’eṯ-||H853|DirObjM
+v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 עֲבֹדַ֖ת|‘ă·ḇō·ḏaṯ|the service|H5656|N-fsc
 v6 אֹ֥הֶל|’ō·hel|for the Tent|H168|N-msc
 v6 מוֹעֵֽד׃|mō·w·‘êḏ|of Meeting|H4150|N-ms
@@ -120,7 +120,7 @@ v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 כְּהֻנַּתְכֶ֔ם|kə·hun·naṯ·ḵem|of the priesthood|H3550|N-fsc | 2mp
 v7 וְהַזָּ֥ר|wə·haz·zār|but any outsider|H2114|Conj-w, Art | Adj-ms
 v7 הַקָּרֵ֖ב|haq·qā·rêḇ|who comes near [the sanctuary]|H7131|Art | Adj-ms
-v7 יוּמָֽת׃ס|yū·māṯ|must be put to death|H4191|V-Hofal-Imperf-3ms
+v7 יוּמָֽת׃|yū·māṯ|must be put to death|H4191|V-Hofal-Imperf-3ms
 v8 וַיְדַבֵּ֣ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v8 יְהוָה֮|Yah·weh|Then the LORD|H3068|N-proper-ms
 v8 אֶֽל־|’el-|to|H413|Prep
@@ -134,7 +134,7 @@ v8 מִשְׁמֶ֖רֶת|miš·me·reṯ|in charge|H4931|N-fsc
 v8 תְּרוּמֹתָ֑י|tə·rū·mō·ṯāy|of My offerings|H8641|N-fpc | 1cs
 v8 לְכָל־|lə·ḵāl|As for all|H3605|Prep-l | N-msc
 v8 קָדְשֵׁ֣י|qā·ḏə·šê|the sacred offerings|H6944|N-mpc
-v8 בְנֵֽי־|ḇə·nê-|vvv|H1121|N-mpc
+v8 בְנֵֽי־|ḇə·nê-|...|H1121|N-mpc
 v8 יִ֠שְׂרָאֵל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v8 לְךָ֨|lə·ḵā|to you|H0|Prep | 2ms
 v8 נְתַתִּ֧ים|nə·ṯat·tîm|I have given them|H5414|V-Qal-Perf-1cs | 3mp
@@ -181,7 +181,7 @@ v11 תְּרוּמַ֣ת|tə·rū·maṯ|the offering|H8641|N-fsc
 v11 מַתָּנָ֗ם|mat·tā·nām|of their gifts|H4976|N-msc | 3mp
 v11 לְכָל־|lə·ḵāl|along with all|H3605|Prep-l | N-msc
 v11 תְּנוּפֹת֮|tə·nū·p̄ōṯ|the wave offerings|H8573|N-fpc
-v11 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v11 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v11 יִשְׂרָאֵל֒|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v11 לְךָ֣|lə·ḵā|to you|H0|Prep | 2ms
 v11 נְתַתִּ֗ים|nə·ṯat·tîm|I have given this|H5414|V-Qal-Perf-1cs | 3mp
@@ -206,7 +206,7 @@ v12 רֵאשִׁיתָ֛ם|rê·šî·ṯām|as their firstfruits|H7225|N-fsc | 
 v12 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v12 יִתְּנ֥וּ|yit·tə·nū|I give you|H5414|V-Qal-Imperf-3mp
 v12 לַֽיהוָ֖ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
-v12 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v12 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v12 נְתַתִּֽים׃|nə·ṯat·tîm|the Israelites give|H5414|V-Qal-Perf-1cs | 3mp
 v13 בִּכּוּרֵ֞י|bik·kū·rê|The firstfruits|H1061|N-mpc
 v13 כָּל־|kāl-|of everything|H3605|N-msc
@@ -224,7 +224,7 @@ v13 יֹאכֲלֶֽנּוּ׃|yō·ḵă·len·nū|may eat them|H398|V-Qal-Imp
 v14 כָּל־|kāl-|Every|H3605|N-msc
 v14 חֵ֥רֶם|ḥê·rem|devoted thing|H2764|N-ms
 v14 בְּיִשְׂרָאֵ֖ל|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | N-proper-ms
-v14 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v14 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v14 יִהְיֶֽה׃|yih·yeh|belongs to you|H1961|V-Qal-Imperf-3ms
 v15 כָּל־|kāl-|of every|H3605|N-msc
 v15 פֶּ֣טֶר|pe·ṭer|The firstborn|H6363|N-msc
@@ -301,7 +301,7 @@ v19 תְּרוּמֹ֣ת|tə·rū·mōṯ|offerings|H8641|N-fpc
 v19 הַקֳּדָשִׁ֗ים|haq·qo·ḏā·šîm|the holy|H6944|Art | N-mp
 v19 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
 v19 יָרִ֥ימוּ|yā·rî·mū|present|H7311|V-Hifil-Imperf-3mp
-v19 בְנֵֽי־|ḇə·nê-|vvv|H1121|N-mpc
+v19 בְנֵֽי־|ḇə·nê-|...|H1121|N-mpc
 v19 יִשְׂרָאֵל֮|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v19 לַֽיהוָה֒|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v19 נָתַ֣תִּֽי|nā·ṯat·tî|I give|H5414|V-Qal-Perf-1cs
@@ -330,14 +330,14 @@ v20 תִנְחָ֔ל|ṯin·ḥāl|inheritance|H5157|V-Qal-Imperf-2ms
 v20 וְחֵ֕לֶק|wə·ḥê·leq|any portion|H2506|Conj-w | N-ms
 v20 לֹא־|lō-|nor|H3808|Adv-NegPrt
 v20 יִהְיֶ֥ה|yih·yeh|will you have|H1961|V-Qal-Imperf-3ms
-v20 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v20 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v20 בְּתוֹכָ֑ם|bə·ṯō·w·ḵām|among them|H8432|Prep-b | N-msc | 3mp
 v20 אֲנִ֤י|’ă·nî|I|H589|Pro-1cs
 v20 חֶלְקְךָ֙|ḥel·qə·ḵā|am your portion|H2506|N-msc | 2ms
 v20 וְנַחֲלָ֣תְךָ֔|wə·na·ḥă·lā·ṯə·ḵā|and your inheritance|H5159|Conj-w | N-fsc | 2ms
 v20 בְּת֖וֹךְ|bə·ṯō·wḵ|among|H8432|Prep-b | N-msc
 v20 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
-v20 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|...|H3478|N-proper-ms
+v20 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v21 וְלִבְנֵ֣י|wə·liḇ·nê|to the Levites|H1121|Conj-w, Prep-l | N-mpc
 v21 לֵוִ֔י|lê·wî|...|H3878|N-proper-ms
 v21 הִנֵּ֥ה|hin·nêh|Behold|H2009|Interjection
@@ -406,7 +406,7 @@ v24 בְּנֵ֣י|bə·nê|the Israelites|H1121|N-mpc
 v24 יִשְׂרָאֵ֔ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v24 לֹ֥א|lō|that they would not|H3808|Adv-NegPrt
 v24 יִנְחֲל֖וּ|yin·ḥă·lū|receive an inheritance|H5157|V-Qal-Imperf-3mp
-v24 נַחֲלָֽה׃פ|na·ḥă·lāh|...|H5159|N-fs
+v24 נַחֲלָֽה׃|na·ḥă·lāh|...|H5159|N-fs
 v25 וַיְדַבֵּ֥ר|way·ḏab·bêr|instructed|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v25 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v25 אֶל־|’el-|...|H413|Prep
@@ -487,7 +487,7 @@ v30 וְנֶחְשַׁב֙|wə·neḥ·šaḇ|it will be reckoned|H2803|Conj-w |
 v30 לַלְוִיִּ֔ם|lal·wî·yim|[to you]|H3881|Prep-l | N-proper-mp
 v30 כִּתְבוּאַ֥ת|kiṯ·ḇū·’aṯ|as the produce|H8393|Prep-k | N-fsc
 v30 גֹּ֖רֶן|gō·ren|of the threshing floor|H1637|N-fs
-v30 וְכִתְבוּאַ֥ת|wə·ḵiṯ·ḇū·’aṯ|vvv|H8393|Conj-w, Prep-k | N-fsc
+v30 וְכִתְבוּאַ֥ת|wə·ḵiṯ·ḇū·’aṯ|...|H8393|Conj-w, Prep-k | N-fsc
 v30 יָֽקֶב׃|yā·qeḇ|or winepress|H3342|N-ms
 v31 וַאֲכַלְתֶּ֤ם|wa·’ă·ḵal·tem|may eat [the rest of it] anywhere|H398|Conj-w | V-Qal-ConjPerf-2mp
 v31 אֹתוֹ֙|’ō·ṯōw|-|H853|DirObjM | 3ms
@@ -498,7 +498,7 @@ v31 וּבֵֽיתְכֶ֑ם|ū·ḇê·ṯə·ḵem|and your households|H1004|C
 v31 כִּֽי־|kî-|...|H3588|Conj
 v31 שָׂכָ֥ר|śā·ḵār|is the compensation|H7939|N-ms
 v31 הוּא֙|hū|it|H1931|Pro-3ms
-v31 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v31 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v31 חֵ֥לֶף|ḥê·lep̄|for|H2500|Prep
 v31 עֲבֹֽדַתְכֶ֖ם|‘ă·ḇō·ḏaṯ·ḵem|your work|H5656|N-fsc | 2mp
 v31 בְּאֹ֥הֶל|bə·’ō·hel|at the Tent|H168|Prep-b | N-msc
@@ -513,9 +513,9 @@ v32 חֶלְבּ֖וֹ|ḥel·bōw|the best part|H2459|N-msc | 3ms
 v32 מִמֶּ֑נּוּ|mim·men·nū|of it|H4480|Prep | 3ms
 v32 וְאֶת־|wə·’eṯ-|But|H853|Conj-w | DirObjM
 v32 קָדְשֵׁ֧י|qā·ḏə·šê|the sacred offerings|H6944|N-mpc
-v32 בְנֵי־|ḇə·nê-|vvv|H1121|N-mpc
+v32 בְנֵי־|ḇə·nê-|...|H1121|N-mpc
 v32 יִשְׂרָאֵ֛ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v32 לֹ֥א|lō|you must not|H3808|Adv-NegPrt
 v32 תְחַלְּל֖וּ|ṯə·ḥal·lə·lū|defile|H2490|V-Piel-Imperf-2mp
 v32 וְלֹ֥א|wə·lō|or else|H3808|Conj-w | Adv-NegPrt
-v32 תָמֽוּתוּ׃פ|ṯā·mū·ṯū|you will die|H4191|V-Qal-Imperf-2mp
+v32 תָמֽוּתוּ׃|ṯā·mū·ṯū|you will die|H4191|V-Qal-Imperf-2mp

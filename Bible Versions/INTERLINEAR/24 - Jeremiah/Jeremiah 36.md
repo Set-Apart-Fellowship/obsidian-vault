@@ -13,9 +13,9 @@ v1 אֶֽל־|’el-|to|H413|Prep
 v1 יִרְמְיָ֔הוּ|yir·mə·yā·hū|Jeremiah|H3414|N-proper-ms
 v1 מֵאֵ֥ת|mê·’êṯ|-|H854|Prep-m | DirObjM
 v1 יְהוָ֖ה|Yah·weh|from the LORD|H3068|N-proper-ms
-v1 לֵאמֹֽר׃|lê·mōr||H559|Prep-l | V-Qal-Inf
+v1 לֵאמֹֽר׃|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v2 קַח־|qaḥ-|Take|H3947|V-Qal-Imp-ms
-v2 לְךָ֮|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֮|lə·ḵā|-|H0|Prep | 2ms
 v2 מְגִלַּת־|mə·ḡil·laṯ-|a scroll|H4039|N-fsc
 v2 סֵפֶר֒|sê·p̄er|...|H5612|N-ms
 v2 וְכָתַבְתָּ֣|wə·ḵā·ṯaḇ·tā|and write|H3789|Conj-w | V-Qal-ConjPerf-2ms
@@ -60,7 +60,7 @@ v3 מִדַּרְכּ֣וֹ|mid·dar·kōw|way|H1870|Prep-m | N-csc | 3ms
 v3 הָרָעָ֔ה|hā·rā·‘āh|from his wicked|H7451|Art | Adj-fs
 v3 וְסָלַחְתִּ֥י|wə·sā·laḥ·tî|Then I will forgive|H5545|Conj-w | V-Qal-ConjPerf-1cs
 v3 לַעֲוֺנָ֖ם|la·‘ă·wō·nām|their iniquity|H5771|Prep-l | N-csc | 3mp
-v3 וּלְחַטָּאתָֽם׃ס|ū·lə·ḥaṭ·ṭā·ṯām|and their sin|H2403|Conj-w, Prep-l | N-fsc | 3mp
+v3 וּלְחַטָּאתָֽם׃|ū·lə·ḥaṭ·ṭā·ṯām|and their sin|H2403|Conj-w, Prep-l | N-fsc | 3mp
 v4 וַיִּקְרָ֣א|way·yiq·rā|called|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v4 יִרְמְיָ֔הוּ|yir·mə·yā·hū|So Jeremiah|H3414|N-proper-ms
 v4 אֶת־|’eṯ-|-|H853|DirObjM
@@ -149,7 +149,7 @@ v8 בַסֵּ֛פֶר|ḇas·sê·p̄er|from the scroll|H5612|Prep-b, Art | N-ms
 v8 דִּבְרֵ֥י|diḇ·rê|the words|H1697|N-mpc
 v8 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v8 בֵּ֥ית|bêṯ|In the house|H1004|N-msc
-v8 יְהֹוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v8 יְהֹוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v9 וַיְהִ֣י|way·hî|Now|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v9 בַשָּׁנָ֣ה|ḇaš·šā·nāh|year|H8141|Prep-b, Art | N-fs
 v9 הַ֠חֲמִשִׁית|ha·ḥă·mi·šîṯ|of the fifth|H2549|Art | Number-ofs
@@ -336,7 +336,7 @@ v18 וַאֲנִ֛י|wa·’ă·nî|and I|H589|Conj-w | Pro-1cs
 v18 כֹּתֵ֥ב|kō·ṯêḇ|wrote [them]|H3789|V-Qal-Prtcpl-ms
 v18 עַל־|‘al-|on|H5921|Prep
 v18 הַסֵּ֖פֶר|has·sê·p̄er|the scroll|H5612|Art | N-ms
-v18 בַּדְּיֽוֹ׃פ|bad·də·yōw|in ink|H1773|Prep-b, Art | N-fs
+v18 בַּדְּיֽוֹ׃|bad·də·yōw|in ink|H1773|Prep-b, Art | N-fs
 v19 וַיֹּאמְר֤וּ|way·yō·mə·rū|said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v19 הַשָּׂרִים֙|haś·śā·rîm|Then the officials|H8269|Art | N-mp
 v19 אֶל־|’el-|to|H413|Prep
@@ -470,7 +470,7 @@ v26 וְאֵ֖ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v26 יִרְמְיָ֣הוּ|yir·mə·yā·hū|and Jeremiah|H3414|N-proper-ms
 v26 הַנָּבִ֑יא|han·nā·ḇî|the prophet|H5030|Art | N-ms
 v26 וַיַּסְתִּרֵ֖ם|way·yas·ti·rêm|had hidden them|H5641|Conj-w | V-Hifil-ConsecImperf-3ms | 3mp
-v26 יְהוָֽה׃ס|Yah·weh|But the LORD|H3068|N-proper-ms
+v26 יְהוָֽה׃|Yah·weh|But the LORD|H3068|N-proper-ms
 v27 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v27 דְבַר־|ḏə·ḇar-|the word|H1697|N-msc
 v27 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -491,15 +491,15 @@ v27 יִרְמְיָ֖הוּ|yir·mə·yā·hū|at Jeremiah's|H3414|N-proper-ms
 v27 לֵאמֹֽר׃|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v28 שׁ֥וּב|šūḇ|and|H7725|V-Qal-Imp-ms
 v28 קַח־|qaḥ-|Take|H3947|V-Qal-Imp-ms
-v28 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v28 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v28 מְגִלָּ֣ה|mə·ḡil·lāh|scroll|H4039|N-fs
 v28 אַחֶ֑רֶת|’a·ḥe·reṯ|another|H312|Adj-fs
 v28 וּכְתֹ֣ב|ū·ḵə·ṯōḇ|rewrite|H3789|Conj-w | V-Qal-Imp-ms
 v28 עָלֶ֗יהָ|‘ā·le·hā|on it|H5921|Prep | 3fs
 v28 אֵ֤ת|’êṯ|-|H853|DirObjM
-v28 כָּל־|kāl-|vvv|H3605|N-msc
+v28 כָּל־|kāl-|...|H3605|N-msc
 v28 הַדְּבָרִים֙|had·də·ḇā·rîm|the very words|H1697|Art | N-mp
-v28 הָרִ֣אשֹׁנִ֔ים|hā·ri·šō·nîm||H7223|Art | Adj-mp
+v28 הָרִ֣אשֹׁנִ֔ים|hā·ri·šō·nîm|-|H7223|Art | Adj-mp
 v28 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v28 הָי֗וּ|hā·yū|were|H1961|V-Qal-Perf-3cp
 v28 עַל־|‘al-|on|H5921|Prep
@@ -539,7 +539,7 @@ v29 הַזֹּ֔את|haz·zōṯ|this|H2063|Art | Pro-fs
 v29 וְהִשְׁבִּ֥ית|wə·hiš·bîṯ|and deprive it|H7673|Conj-w | V-Hifil-ConjPerf-3ms
 v29 מִמֶּ֖נָּה|mim·men·nāh|of|H4480|Prep | 3fs
 v29 אָדָ֥ם|’ā·ḏām|man|H120|N-ms
-v29 וּבְהֵמָֽה׃ס|ū·ḇə·hê·māh|and beast|H929|Conj-w | N-fs
+v29 וּבְהֵמָֽה׃|ū·ḇə·hê·māh|and beast|H929|Conj-w | N-fs
 v30 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v30 כֹּֽה־|kōh-|this is what|H3541|Adv
 v30 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -550,7 +550,7 @@ v30 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v30 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v30 לֹא־|lō-|no|H3808|Adv-NegPrt
 v30 יִֽהְיֶה־|yih·yeh-|He will have|H1961|V-Qal-Imperf-3ms
-v30 לּ֥וֹ|lōw||H0|Prep | 3ms
+v30 לּ֥וֹ|lōw|-|H0|Prep | 3ms
 v30 יוֹשֵׁ֖ב|yō·wō·šêḇ|one to sit|H3427|V-Qal-Prtcpl-ms
 v30 עַל־|‘al-|on|H5921|Prep
 v30 כִּסֵּ֣א|kis·sê|throne|H3678|N-msc
@@ -585,7 +585,7 @@ v31 אֲשֶׁר־|’ă·šer-|about which|H834|Pro-r
 v31 דִּבַּ֥רְתִּי|dib·bar·tî|I warned them|H1696|V-Piel-Perf-1cs
 v31 אֲלֵיהֶ֖ם|’ă·lê·hem|...|H413|Prep | 3mp
 v31 וְלֹ֥א|wə·lō|but they did not|H3808|Conj-w | Adv-NegPrt
-v31 שָׁמֵֽעוּ׃ס|šā·mê·‘ū|listen|H8085|V-Qal-Perf-3cp
+v31 שָׁמֵֽעוּ׃|šā·mê·‘ū|listen|H8085|V-Qal-Perf-3cp
 v32 וְיִרְמְיָ֜הוּ|wə·yir·mə·yā·hū|Then Jeremiah|H3414|Conj-w | N-proper-ms
 v32 לָקַ֣ח׀|lā·qaḥ|took|H3947|V-Qal-Perf-3ms
 v32 מְגִלָּ֣ה|mə·ḡil·lāh|scroll|H4039|N-fs
@@ -615,4 +615,4 @@ v32 נוֹסַ֧ף|nō·w·sap̄|were added|H3254|V-Nifal-Perf-3ms
 v32 עֲלֵיהֶ֛ם|‘ă·lê·hem|to them|H5921|Prep | 3mp
 v32 דְּבָרִ֥ים|də·ḇā·rîm|words|H1697|N-mp
 v32 רַבִּ֖ים|rab·bîm|And many|H7227|Adj-mp
-v32 כָּהֵֽמָּה׃ס|kā·hêm·māh|...|H0|Prep-k | Pro-3mp
+v32 כָּהֵֽמָּה׃|kā·hêm·māh|...|H0|Prep-k | Pro-3mp

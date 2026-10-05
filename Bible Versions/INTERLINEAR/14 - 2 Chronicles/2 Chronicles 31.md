@@ -2,7 +2,7 @@ v1 וּכְכַלּ֣וֹת|ū·ḵə·ḵal·lō·wṯ|had ended|H3615|Conj-w, 
 v1 כָּל־|kāl-|When all|H3605|N-msc
 v1 זֹ֗את|zōṯ|this|H2063|Pro-fs
 v1 יָצְא֨וּ|yā·ṣə·’ū|went out|H3318|V-Qal-Perf-3cp
-v1 כָּל־|kāl-|vvv|H3605|N-msc
+v1 כָּל־|kāl-|...|H3605|N-msc
 v1 יִשְׂרָאֵ֥ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v1 הַֽנִּמְצְאִים֮|han·nim·ṣə·’îm|in attendance|H4672|Art | V-Nifal-Prtcpl-mp
 v1 לְעָרֵ֣י|lə·‘ā·rê|to the cities|H5892|Prep-l | N-fpc
@@ -29,7 +29,7 @@ v1 בְּנֵ֧י|bə·nê|the Israelites|H1121|N-mpc
 v1 יִשְׂרָאֵ֛ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v1 אִ֥ישׁ|’îš|each|H376|N-ms
 v1 לַאֲחֻזָּת֖וֹ|la·’ă·ḥuz·zā·ṯōw|to his own property|H272|Prep-l | N-fsc | 3ms
-v1 לְעָרֵיהֶֽם׃ס|lə·‘ā·rê·hem|to their cities|H5892|Prep-l | N-fpc | 3mp
+v1 לְעָרֵיהֶֽם׃|lə·‘ā·rê·hem|to their cities|H5892|Prep-l | N-fpc | 3mp
 v2 וַיַּעֲמֵ֣ד|way·ya·‘ă·mêḏ|reestablished|H5975|Conj-w | V-Hifil-ConsecImperf-3ms
 v2 יְחִזְקִיָּ֡הוּ|yə·ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
 v2 אֶת־|’eṯ-|-|H853|DirObjM
@@ -50,7 +50,7 @@ v2 וּלְהֹד֣וֹת|ū·lə·hō·ḏō·wṯ|for giving thanks|H3034|Conj
 v2 וּלְהַלֵּ֔ל|ū·lə·hal·lêl|and for singing praises|H1984|Conj-w, Prep-l | V-Piel-Inf
 v2 בְּשַׁעֲרֵ֖י|bə·ša·‘ă·rê|at the gates|H8179|Prep-b | N-mpc
 v2 מַחֲנ֥וֹת|ma·ḥă·nō·wṯ|dwelling|H4264|N-cpc
-v2 יְהוָֽה׃ס|Yah·weh|of the LORD's|H3068|N-proper-ms
+v2 יְהוָֽה׃|Yah·weh|of the LORD's|H3068|N-proper-ms
 v3 וּמְנָת֩|ū·mə·nāṯ|contributed|H4521|Conj-w | N-fsc
 v3 הַמֶּ֨לֶךְ|ham·me·leḵ|The king|H4428|Art | N-ms
 v3 מִן־|min-|from|H4480|Prep
@@ -114,7 +114,7 @@ v6 אֱלֹהֵיהֶ֑ם|’ĕ·lō·hê·hem|their God|H430|N-mpc | 3mp
 v6 הֵבִ֕יאוּ|hê·ḇî·’ū|brought|H935|V-Hifil-Perf-3cp
 v6 וַֽיִּתְּנ֖וּ|way·yit·tə·nū|and they laid them|H5414|Conj-w | V-Qal-ConsecImperf-3mp
 v6 עֲרֵמ֥וֹת|‘ă·rê·mō·wṯ|in large heaps|H6194|N-fp
-v6 עֲרֵמֽוֹת׃ס|‘ă·rê·mō·wṯ|...|H6194|N-fp
+v6 עֲרֵמֽוֹת׃|‘ă·rê·mō·wṯ|...|H6194|N-fp
 v7 בַּחֹ֙דֶשׁ֙|ba·ḥō·ḏeš|month|H2320|Prep-b, Art | N-ms
 v7 הַשְּׁלִשִׁ֔י|haš·šə·li·šî|In the third|H7992|Art | Number-oms
 v7 הֵחֵ֥לּוּ|hê·ḥêl·lū|they began|H2490|V-Hifil-Perf-3cp
@@ -122,7 +122,7 @@ v7 הָעֲרֵמ֖וֹת|hā·‘ă·rê·mō·wṯ|the heaps|H6194|Art | N-fp
 v7 לְיִסּ֑וֹד|lə·yis·sō·wḏ|building up|H3245|Prep-l | V-Qal-Inf
 v7 וּבַחֹ֥דֶשׁ|ū·ḇa·ḥō·ḏeš|month|H2320|Conj-w, Prep-b, Art | N-ms
 v7 הַשְּׁבִיעִ֖י|haš·šə·ḇî·‘î|in the seventh|H7637|Art | Number-oms
-v7 כִּלּֽוּ׃ס|kil·lū|and they finished|H3615|V-Piel-Perf-3cp
+v7 כִּלּֽוּ׃|kil·lū|and they finished|H3615|V-Piel-Perf-3cp
 v8 וַיָּבֹ֙אוּ֙|way·yā·ḇō·’ū|came|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v8 יְחִזְקִיָּ֣הוּ|yə·ḥiz·qî·yā·hū|When Hezekiah|H2396|N-proper-ms
 v8 וְהַשָּׂרִ֔ים|wə·haś·śā·rîm|and his officials|H8269|Conj-w, Art | N-mp
@@ -134,7 +134,7 @@ v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v8 וְאֵ֖ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v8 עַמּ֥וֹ|‘am·mōw|and His people|H5971|N-msc | 3ms
-v8 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v8 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v9 וַיִּדְרֹ֣שׁ|way·yiḏ·rōš|questioned|H1875|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יְחִזְקִיָּ֗הוּ|yə·ḥiz·qî·yā·hū|Then Hezekiah|H2396|N-proper-ms
 v9 עַל־|‘al-|about|H5921|Prep
@@ -168,7 +168,7 @@ v10 עַמּ֔וֹ|‘am·mōw|His people|H5971|N-msc | 3ms
 v10 וְהַנּוֹתָ֖ר|wə·han·nō·w·ṯār|is what is left over|H3498|Conj-w, Art | V-Nifal-Prtcpl-ms
 v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 הֶהָמ֥וֹן|he·hā·mō·wn|great abundance|H1995|Art | N-ms
-v10 הַזֶּֽה׃ס|haz·zeh|this|H2088|Art | Pro-ms
+v10 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v11 וַיֹּ֣אמֶר|way·yō·mer|commanded them|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 יְחִזְקִיָּ֗הוּ|yə·ḥiz·qî·yā·hū|Then Hezekiah|H2396|N-proper-ms
 v11 לְהָכִ֧ין|lə·hā·ḵîn|to prepare|H3559|Prep-l | V-Hifil-Inf
@@ -223,7 +223,7 @@ v14 הָאֱלֹהִ֑ים|hā·’ĕ·lō·hîm|given to God|H430|Art | N-mp
 v14 לָתֵת֙|lā·ṯêṯ|distributing|H5414|Prep-l | V-Qal-Inf
 v14 תְּרוּמַ֣ת|tə·rū·maṯ|the contributions|H8641|N-fsc
 v14 יְהוָ֔ה|Yah·weh|to the LORD|H3068|N-proper-ms
-v14 וְקָדְשֵׁ֖י|wə·qā·ḏə·šê|vvv|H6944|Conj-w | N-mpc
+v14 וְקָדְשֵׁ֖י|wə·qā·ḏə·šê|...|H6944|Conj-w | N-mpc
 v14 הַקֳּדָשִֽׁים׃|haq·qo·ḏā·šîm|and the consecrated gifts|H6944|Art | N-mp
 v15 וְעַל־|wə·‘al-|Under|H5921|Conj-w | Prep
 v15 יָד֡וֹ|yā·ḏōw|his authority|H3027|N-fsc | 3ms
@@ -329,4 +329,4 @@ v21 לֵֽאלֹהָ֑יו|lê·lō·hāw|his God|H430|Prep-l | N-mpc | 3ms
 v21 בְּכָל־|bə·ḵāl|in every|H3605|Prep-b | N-msc
 v21 לְבָב֥וֹ|lə·ḇā·ḇōw|his heart|H3824|N-msc | 3ms
 v21 עָשָׂ֖ה|‘ā·śāh|He acted|H6213|V-Qal-Perf-3ms
-v21 וְהִצְלִֽיחַ׃פ|wə·hiṣ·lî·aḥ|And so he prospered|H6743|Conj-w | V-Hifil-ConjPerf-3ms
+v21 וְהִצְלִֽיחַ׃|wə·hiṣ·lî·aḥ|And so he prospered|H6743|Conj-w | V-Hifil-ConjPerf-3ms

@@ -164,7 +164,7 @@ v8 וְהִנְחַלְתֶּ֛ם|wə·hin·ḥal·tem|and leave it as an inheri
 v8 לִבְנֵיכֶ֥ם|liḇ·nê·ḵem|to your descendants|H1121|Prep-l | N-mpc | 2mp
 v8 אַחֲרֵיכֶ֖ם|’a·ḥă·rê·ḵem|...|H310|Prep | 2mp
 v8 עַד־|‘aḏ-|forever|H5704|Prep
-v8 עוֹלָֽם׃פ|‘ō·w·lām|...|H5769|N-ms
+v8 עוֹלָֽם׃|‘ō·w·lām|...|H5769|N-ms
 v9 וְאַתָּ֣ה|wə·’at·tāh|As for you|H859|Conj-w | Pro-2ms
 v9 שְׁלֹמֹֽה־|šə·lō·mōh-|Solomon|H8010|N-proper-ms
 v9 בְנִ֡י|ḇə·nî|my son|H1121|N-msc | 1cs
@@ -204,7 +204,7 @@ v10 לִבְנֽוֹת־|liḇ·nō·wṯ-|to build|H1129|Prep-l | V-Qal-Inf
 v10 בַּ֥יִת|ba·yiṯ|a house|H1004|N-ms
 v10 לַמִּקְדָּ֖שׁ|lam·miq·dāš|for the sanctuary|H4720|Prep-l, Art | N-ms
 v10 חֲזַ֥ק|ḥă·zaq|Be strong|H2388|V-Qal-Imp-ms
-v10 וַעֲשֵֽׂה׃פ|wa·‘ă·śêh|and do it|H6213|Conj-w | V-Qal-Imp-ms
+v10 וַעֲשֵֽׂה׃|wa·‘ă·śêh|and do it|H6213|Conj-w | V-Qal-Imp-ms
 v11 וַיִּתֵּ֣ן|way·yit·tên|gave|H5414|Conj-w | V-Qal-ConsecImperf-3ms
 v11 דָּוִ֣יד|dā·wîḏ|Then David|H1732|N-proper-ms
 v11 לִשְׁלֹמֹ֣ה|liš·lō·mōh|Solomon|H8010|Prep-l | N-proper-ms
@@ -330,7 +330,7 @@ v19 עָלַ֣י|‘ā·lay|upon me|H5921|Prep | 1cs
 v19 הִשְׂכִּ֑יל|hiś·kîl|has made clear to me|H7919|V-Hifil-Perf-3ms
 v19 כֹּ֖ל|kōl|all|H3605|N-msc
 v19 מַלְאֲכ֥וֹת|mal·’ă·ḵō·wṯ|the details|H4399|N-fpc
-v19 הַתַּבְנִֽית׃פ|hat·taḇ·nîṯ|of this plan|H8403|Art | N-fs
+v19 הַתַּבְנִֽית׃|hat·taḇ·nîṯ|of this plan|H8403|Art | N-fs
 v20 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 דָּוִ֜יד|dā·wîḏ|David also|H1732|N-proper-ms
 v20 לִשְׁלֹמֹ֣ה|liš·lō·mōh|to Solomon|H8010|Prep-l | N-proper-ms
@@ -378,4 +378,4 @@ v21 וְהַשָּׂרִ֥ים|wə·haś·śā·rîm|The officials|H8269|Conj-w,
 v21 וְכָל־|wə·ḵāl|are fully at your|H3605|Conj-w | N-msc
 v21 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
 v21 לְכָל־|lə·ḵāl|...|H3605|Prep-l | N-msc
-v21 דְּבָרֶֽיךָ׃פ|də·ḇā·re·ḵā|command|H1697|N-mpc | 2ms
+v21 דְּבָרֶֽיךָ׃|də·ḇā·re·ḵā|command|H1697|N-mpc | 2ms

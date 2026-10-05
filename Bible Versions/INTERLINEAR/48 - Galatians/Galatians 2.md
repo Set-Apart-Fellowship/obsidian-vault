@@ -1,4 +1,4 @@
-v1 Ἔπειτα|Epeita|vvv|G1899|Adv
+v1 Ἔπειτα|Epeita|...|G1899|Adv
 v1 διὰ|dia|later|G1223|Prep
 v1 δεκατεσσάρων|dekatessarōn|Fourteen|G1180|Adj-GNP
 v1 ἐτῶν|etōn|years|G2094|N-GNP
@@ -25,12 +25,12 @@ v2 κηρύσσω|kēryssō|I preach|G2784|V-PIA-1S
 v2 ἐν|en|among|G1722|Prep
 v2 τοῖς|tois|the|G3588|Art-DNP
 v2 ἔθνεσιν|ethnesin|Gentiles|G1484|N-DNP
-v2 κατ’|kat’|vvv|G2596|Prep
+v2 κατ’|kat’|...|G2596|Prep
 v2 ἰδίαν|idian|[I spoke] privately|G2398|Adj-AFS
 v2 δὲ|de|But|G1161|Conj
 v2 τοῖς|tois|to those|G3588|Art-DMP
 v2 δοκοῦσιν|dokousin|recognized as leaders|G1380|V-PPA-DMP
-v2 μή|mē|vvv|G3361|Adv
+v2 μή|mē|...|G3361|Adv
 v2 πως|pōs|[for fear that]|G4459|Adv
 v2 εἰς|eis|in|G1519|Prep
 v2 κενὸν|kenon|vain|G2756|Adj-ANS
@@ -67,7 +67,7 @@ v4 ἵνα|hina|in order|G2443|Conj
 v4 ἡμᾶς|hēmas|us|G1473|PPro-A1P
 v4 καταδουλώσουσιν|katadoulōsousin|to enslave|G2615|V-FIA-3P
 v5 οἷς|hois|to [them]|G3739|RelPro-DMP
-v5 οὐδὲ|oude|vvv|G3761|Adv
+v5 οὐδὲ|oude|...|G3761|Adv
 v5 πρὸς|pros|for|G4314|Prep
 v5 ὥραν|hōran|a moment|G5610|N-AFS
 v5 εἴξαμεν|eixamen|We did {not} give in|G1502|V-AIA-1P
@@ -90,14 +90,14 @@ v6 τι|ti|...|G5100|IPro-ANS
 v6 ὁποῖοί|hopoioi|whatever|G3697|Adj-NMP
 v6 ποτε|pote|...|G4218|Prtcl
 v6 ἦσαν|ēsan|they were|G1510|V-IIA-3P
-v6 οὐδέν|ouden|vvv|G3762|Adj-ANS
+v6 οὐδέν|ouden|...|G3762|Adj-ANS
 v6 μοι|moi|to me|G1473|PPro-D1S
 v6 διαφέρει|diapherei|makes no difference|G1308|V-PIA-3S
 v6 πρόσωπον|prosōpon|...|G4383|N-ANS
 v6 ὁ|ho|...|G3588|Art-NMS
 v6 Θεὸς|Theos|God|G2316|N-NMS
 v6 ἀνθρώπου|anthrōpou|...|G444|N-GMS
-v6 οὐ|ou|vvv|G3756|Adv
+v6 οὐ|ou|...|G3756|Adv
 v6 λαμβάνει|lambanei|does not show favoritism|G2983|V-PIA-3S
 v6 ἐμοὶ|emoi|to me|G1473|PPro-D1S
 v6 γὰρ|gar|-|G1063|Conj
@@ -105,7 +105,7 @@ v6 οἱ|hoi|those|G3588|Art-NMP
 v6 δοκοῦντες|dokountes|leaders|G1380|V-PPA-NMP
 v6 οὐδὲν|ouden|nothing|G3762|Adj-ANS
 v6 προσανέθεντο|prosanethento|added|G4323|V-AIM-3P
-v7 ἀλλὰ|alla|vvv|G235|Conj
+v7 ἀλλὰ|alla|...|G235|Conj
 v7 τοὐναντίον|tounantion|On the contrary|G5121|Adv-C
 v7 ἰδόντες|idontes|they saw|G3708|V-APA-NMP
 v7 ὅτι|hoti|that|G3754|Conj
@@ -213,7 +213,7 @@ v12 περιτομῆς|peritomēs|[the] circumcision [ group ]|G4061|N-GFS
 v13 καὶ|kai|-|G2532|Conj
 v13 συνυπεκρίθησαν|synypekrithēsan|joined him in his hypocrisy|G4942|V-AIP-3P
 v13 αὐτῷ|autō|...|G846|PPro-DM3S
-v13 καὶ|kai|vvv|G2532|Conj
+v13 καὶ|kai|...|G2532|Conj
 v13 οἱ|hoi|The|G3588|Art-NMP
 v13 λοιποὶ|loipoi|other|G3062|Adj-NMP
 v13 Ἰουδαῖοι|Ioudaioi|Jews|G2453|Adj-NMP
@@ -228,7 +228,7 @@ v14 Ἀλλ’|All’|-|G235|Conj
 v14 ὅτε|hote|When|G3753|Adv
 v14 εἶδον|eidon|I saw|G3708|V-AIA-1S
 v14 ὅτι|hoti|that|G3754|Conj
-v14 οὐκ|ouk|vvv|G3756|Adv
+v14 οὐκ|ouk|...|G3756|Adv
 v14 ὀρθοποδοῦσιν|orthopodousin|they were not walking in line|G3716|V-PIA-3P
 v14 πρὸς|pros|with|G4314|Prep
 v14 τὴν|tēn|the|G3588|Art-AFS
@@ -259,13 +259,13 @@ v15 φύσει|physei|by birth|G5449|N-DFS
 v15 Ἰουδαῖοι|Ioudaioi|Jews|G2453|Adj-NMP
 v15 καὶ|kai|and|G2532|Conj
 v15 οὐκ|ouk|not|G3756|Adv
-v15 ἐξ|ex|vvv|G1537|Prep
+v15 ἐξ|ex|...|G1537|Prep
 v15 ἐθνῶν|ethnōn|Gentile|G1484|N-GNP
 v15 Ἁμαρτωλοί|Hamartōloi|sinners|G268|Adj-NMP
 v16 εἰδότες|eidotes|know|G1492|V-RPA-NMP
 v16 δὲ|de|-|G1161|Conj
 v16 ὅτι|hoti|that|G3754|Conj
-v16 οὐ|ou|vvv|G3756|Adv
+v16 οὐ|ou|...|G3756|Adv
 v16 δικαιοῦται|dikaioutai|is not justified|G1344|V-PIM/P-3S
 v16 ἄνθρωπος|anthrōpos|a man|G444|N-NMS
 v16 ἐξ|ex|by|G1537|Prep
@@ -315,7 +315,7 @@ v17 ἆρα|ara|does that make|G686|Conj
 v17 Χριστὸς|Christos|Christ|G5547|N-NMS
 v17 ἁμαρτίας|hamartias|of sin|G266|N-GFS
 v17 διάκονος|diakonos|a minister|G1249|N-NMS
-v17 μὴ|mē|vvv|G3361|Adv
+v17 μὴ|mē|...|G3361|Adv
 v17 γένοιτο|genoito|Certainly not|G1096|V-AOM-3S
 v18 εἰ|ei|If|G1487|Conj
 v18 γὰρ|gar|-|G1063|Conj
@@ -349,7 +349,7 @@ v20 ἐμοὶ|emoi|me|G1473|PPro-D1S
 v20 Χριστός|Christos|Christ|G5547|N-NMS
 v20 ὃ|ho|The [life]|G3739|RelPro-ANS
 v20 δὲ|de|-|G1161|Conj
-v20 νῦν|nyn|vvv|G3568|Adv
+v20 νῦν|nyn|...|G3568|Adv
 v20 ζῶ|zō|I live|G2198|V-PIA-1S
 v20 ἐν|en|in|G1722|Prep
 v20 σαρκί|sarki|[the] body|G4561|N-DFS
@@ -369,7 +369,7 @@ v20 παραδόντος|paradontos|gave Himself up|G3860|V-APA-GMS
 v20 ἑαυτὸν|heauton|...|G1438|RefPro-AM3S
 v20 ὑπὲρ|hyper|for|G5228|Prep
 v20 ἐμοῦ|emou|me|G1473|PPro-G1S
-v21 Οὐκ|Ouk|vvv|G3756|Adv
+v21 Οὐκ|Ouk|...|G3756|Adv
 v21 ἀθετῶ|athetō|I do not set aside|G114|V-PIA-1S
 v21 τὴν|tēn|the|G3588|Art-AFS
 v21 χάριν|charin|grace|G5485|N-AFS

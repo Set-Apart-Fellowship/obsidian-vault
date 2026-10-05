@@ -18,7 +18,7 @@ v2 לְפָנָֽיו׃|lə·p̄ā·nāw|in His presence|H6440|Prep-l | N-cpc | 
 v3 וְנֵדְעָ֣ה|wə·nê·ḏə·‘āh|So let us know|H3045|Conj-w | V-Qal-Imperf.Cohort-1cp
 v3 נִרְדְּפָ֗ה|nir·də·p̄āh|let us press on|H7291|V-Qal-Imperf.Cohort-1cp
 v3 לָדַ֙עַת֙|lā·ḏa·‘aṯ|to know|H3045|Prep-l | V-Qal-Inf
-v3 אֶת־|’eṯ-||H853|DirObjM
+v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v3 כְּשַׁ֖חַר|kə·ša·ḥar|the sun rises|H7837|Prep-k | N-ms
 v3 נָכ֣וֹן|nā·ḵō·wn|As surely as|H3559|V-Nifal-Prtcpl-ms
@@ -101,4 +101,4 @@ v11 קָצִ֖יר|qā·ṣîr|a harvest|H7105|N-ms
 v11 לָ֑ךְ|lāḵ|for you|H0|Prep | 2fs
 v11 בְּשׁוּבִ֖י|bə·šū·ḇî|when I restore|H7725|Prep-b | V-Qal-Inf | 1cs
 v11 שְׁב֥וּת|šə·ḇūṯ|from captivity|H7622|N-fsc
-v11 עַמִּֽי׃פ|‘am·mî|My people|H5971|N-msc | 1cs
+v11 עַמִּֽי׃|‘am·mî|My people|H5971|N-msc | 1cs

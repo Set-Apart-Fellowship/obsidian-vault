@@ -239,7 +239,7 @@ v18 וּשְׁעָרַ֖יִךְ|ū·šə·‘ā·ra·yiḵ|and your gates|H8179
 v18 תְּהִלָּֽה׃|tə·hil·lāh|Praise|H8416|N-fs
 v19 לֹא־|lō-|No|H3808|Adv-NegPrt
 v19 יִֽהְיֶה־|yih·yeh-|be|H1961|V-Qal-Imperf-3ms
-v19 לָּ֨ךְ|lāḵ||H0|Prep | 2fs
+v19 לָּ֨ךְ|lāḵ|-|H0|Prep | 2fs
 v19 ע֤וֹד|‘ō·wḏ|longer|H5750|Adv
 v19 הַשֶּׁ֙מֶשׁ֙|haš·še·meš|will the sun|H8121|Art | N-cs
 v19 לְא֣וֹר|lə·’ō·wr|your light|H216|Prep-l | N-cs
@@ -292,4 +292,4 @@ v22 עָצ֑וּם|‘ā·ṣūm|a mighty|H6099|Adj-ms
 v22 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v22 יְהוָ֖ה|Yah·weh|am the LORD|H3068|N-proper-ms
 v22 בְּעִתָּ֥הּ|bə·‘it·tāh|in its time|H6256|Prep-b | N-csc | 3fs
-v22 אֲחִישֶֽׁנָּה׃ס|’ă·ḥî·šen·nāh|I will accomplish it quickly|H2363|V-Hifil-Imperf-1cs | 3fs
+v22 אֲחִישֶֽׁנָּה׃|’ă·ḥî·šen·nāh|I will accomplish it quickly|H2363|V-Hifil-Imperf-1cs | 3fs

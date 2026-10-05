@@ -35,7 +35,7 @@ v7 רָאשֵׁ֧י|rā·šê|were the leaders|H7218|N-mpc
 v7 הַכֹּהֲנִ֛ים|hak·kō·hă·nîm|of the priests|H3548|Art | N-mp
 v7 וַאֲחֵיהֶ֖ם|wa·’ă·ḥê·hem|and their associates|H251|Conj-w | N-mpc | 3mp
 v7 בִּימֵ֥י|bî·mê|in the days|H3117|Prep-b | N-mpc
-v7 יֵשֽׁוּעַ׃פ|yê·šū·a‘|of Jeshua|H3442|N-proper-ms
+v7 יֵשֽׁוּעַ׃|yê·šū·a‘|of Jeshua|H3442|N-proper-ms
 v8 וְהַלְוִיִּ֗ם|wə·hal·wî·yim|The Levites [were]|H3881|Conj-w, Art | N-proper-mp
 v8 יֵשׁ֧וּעַ|yê·šū·a‘|Jeshua|H3442|N-proper-ms
 v8 בִּנּ֛וּי|bin·nui|Binnui|H1131|N-proper-ms
@@ -131,7 +131,7 @@ v22 וְהַכֹּ֣הֲנִ֔ים|wə·hak·kō·hă·nîm|and priests|H3548|C
 v22 עַל־|‘al-|during|H5921|Prep
 v22 מַלְכ֖וּת|mal·ḵūṯ|the reign of|H4438|N-fsc
 v22 דָּרְיָ֥וֶשׁ|dā·rə·yā·weš|Darius|H1867|N-proper-ms
-v22 הַפָּֽרְסִֽי׃פ|hap·pā·rə·sî|the Persian|H6542|Art | N-proper-ms
+v22 הַפָּֽרְסִֽי׃|hap·pā·rə·sî|the Persian|H6542|Art | N-proper-ms
 v23 בְּנֵ֤י|bə·nê|As for the descendants|H1121|N-mpc
 v23 לֵוִי֙|lê·wî|of Levi|H3878|N-proper-ms
 v23 רָאשֵׁ֣י|rā·šê|heads|H7218|N-mpc
@@ -187,7 +187,7 @@ v26 נְחֶמְיָ֣ה|nə·ḥem·yāh|of Nehemiah|H5166|N-proper-ms
 v26 הַפֶּחָ֔ה|hap·pe·ḥāh|the governor|H6346|Art | N-ms
 v26 וְעֶזְרָ֥א|wə·‘ez·rā|and Ezra|H5830|Conj-w | N-proper-ms
 v26 הַכֹּהֵ֖ן|hak·kō·hên|the priest|H3548|Art | N-ms
-v26 הַסּוֹפֵֽר׃פ|has·sō·w·p̄êr|and scribe|H5608|Art | N-ms
+v26 הַסּוֹפֵֽר׃|has·sō·w·p̄êr|and scribe|H5608|Art | N-ms
 v27 וּבַחֲנֻכַּ֞ת|ū·ḇa·ḥă·nuk·kaṯ|At the dedication|H2598|Conj-w, Prep-b | N-fsc
 v27 חוֹמַ֣ת|ḥō·w·maṯ|of the wall|H2346|N-fsc
 v27 יְרוּשָׁלִַ֗ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
@@ -207,7 +207,7 @@ v27 מְצִלְתַּ֖יִם|mə·ṣil·ta·yim|accompanied by cymbals|H4700|
 v27 נְבָלִ֥ים|nə·ḇā·lîm|harps|H5035|N-mp
 v27 וּבְכִנֹּרֽוֹת׃|ū·ḇə·ḵin·nō·rō·wṯ|and lyres|H3658|Conj-w, Prep-b | N-mp
 v28 וַיֵּאָ֣סְפ֔וּ|way·yê·’ā·sə·p̄ū|assembled|H622|Conj-w | V-Nifal-ConsecImperf-3mp
-v28 בְּנֵ֖י|bə·nê|vvv|H1121|N-mpc
+v28 בְּנֵ֖י|bə·nê|...|H1121|N-mpc
 v28 הַמְשֹׁרְרִ֑ים|ham·šō·rə·rîm|The singers were also|H7891|Art | V-Piel-Prtcpl-mp
 v28 וּמִן־|ū·min-|from|H4480|Conj-w | Prep
 v28 הַכִּכָּר֙|hak·kik·kār|the region|H3603|Art | N-fs
@@ -266,7 +266,7 @@ v33 וּמְשֻׁלָּֽם׃|ū·mə·šul·lām|Meshullam|H4918|Conj-w | N-pr
 v34 יְהוּדָה֙|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v34 וּבִנְיָמִ֔ן|ū·ḇin·yā·min|Benjamin|H1144|Conj-w | N-proper-ms
 v34 וּֽשְׁמַֽעְיָ֖ה|ū·šə·ma‘·yāh|Shemaiah|H8098|Conj-w | N-proper-ms
-v34 וְיִרְמְיָֽה׃ס|wə·yir·mə·yāh|Jeremiah|H3414|Conj-w | N-proper-ms
+v34 וְיִרְמְיָֽה׃|wə·yir·mə·yāh|Jeremiah|H3414|Conj-w | N-proper-ms
 v35 וּמִבְּנֵ֥י|ū·mib·bə·nê|...|H1121|Conj-w, Prep-m | N-mpc
 v35 הַכֹּהֲנִ֖ים|hak·kō·hă·nîm|and some of the priests|H3548|Art | N-mp
 v35 בַּחֲצֹצְר֑וֹת|ba·ḥă·ṣō·ṣə·rō·wṯ|with trumpets|H2689|Prep-b, Art | N-fp
@@ -468,4 +468,4 @@ v47 לַלְוִיִּ֔ם|lal·wî·yim|for the Levites|H3881|Prep-l | N-proper
 v47 וְהַלְוִיִּ֔ם|wə·hal·wî·yim|and the Levites|H3881|Conj-w, Art | N-proper-mp
 v47 מַקְדִּשִׁ֖ים|maq·di·šîm|set aside|H6942|V-Hifil-Prtcpl-mp
 v47 לִבְנֵ֥י|liḇ·nê|daily portions for the descendants|H1121|Prep-l | N-mpc
-v47 אַהֲרֹֽן׃פ|’a·hă·rōn|of Aaron|H175|N-proper-ms
+v47 אַהֲרֹֽן׃|’a·hă·rōn|of Aaron|H175|N-proper-ms

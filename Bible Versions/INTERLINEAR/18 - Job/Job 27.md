@@ -27,7 +27,7 @@ v4 אִם־|’im-|will not|H518|Conj
 v4 יֶהְגֶּ֥ה|yeh·geh|utter|H1897|V-Qal-Imperf-3ms
 v4 רְמִיָּֽה׃|rə·mî·yāh|deceit|H7423|N-fs
 v5 חָלִ֣ילָה|ḥā·lî·lāh|I will never|H2486|Interjection | 3fs
-v5 לִּי֮|lî||H0|Prep | 1cs
+v5 לִּי֮|lî|-|H0|Prep | 1cs
 v5 אִם־|’im-|-|H518|Conj
 v5 אַצְדִּ֪יק|’aṣ·dîq|say that you are right|H6663|V-Hifil-Imperf-1cs
 v5 אֶ֫תְכֶ֥ם|’eṯ·ḵem|-|H853|DirObjM | 2mp

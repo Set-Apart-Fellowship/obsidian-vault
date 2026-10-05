@@ -66,7 +66,7 @@ v4 הַדָּבָ֛ר|had·dā·ḇār|This suggestion|H1697|Art | N-ms
 v4 בְּעֵינֵ֥י|bə·‘ê·nê|...|H5869|Prep-b | N-cdc
 v4 הַמֶּ֖לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v4 וַיַּ֥עַשׂ|way·ya·‘aś|and he acted|H6213|Conj-w | V-Qal-ConsecImperf-3ms
-v4 כֵּֽן׃ס|kên|accordingly|H3651|Adv
+v4 כֵּֽן׃|kên|accordingly|H3651|Adv
 v5 אִ֣ישׁ|’îš|man|H376|N-ms
 v5 יְהוּדִ֔י|yə·hū·ḏî|a Jewish|H3064|N-proper-ms
 v5 הָיָ֖ה|hā·yāh|[Now] there was|H1961|V-Qal-Perf-3ms
@@ -80,7 +80,7 @@ v5 בֶּן־|ben-|the son|H1121|N-msc
 v5 שִׁמְעִ֛י|šim·‘î|of Shimei|H8096|N-proper-ms
 v5 בֶּן־|ben-|the son|H1121|N-msc
 v5 קִ֖ישׁ|qîš|of Kish|H7027|N-proper-ms
-v5 אִ֥ישׁ|’îš||H376|N-ms
+v5 אִ֥ישׁ|’îš|-|H376|N-ms
 v5 יְמִינִֽי׃|yə·mî·nî|from the tribe of Benjamin|H1145|N-proper-ms
 v6 אֲשֶׁ֤ר|’ă·šer|He|H834|Pro-r
 v6 הָגְלָה֙|hā·ḡə·lāh|had been carried into exile|H1540|V-Hofal-Perf-3ms
@@ -154,7 +154,7 @@ v9 וַתִּשָּׂ֣א|wat·tiś·śā|and obtained|H5375|Conj-w | V-Qal-Cons
 v9 חֶ֣סֶד|ḥe·seḏ|favor|H2617|N-ms
 v9 לְפָנָיו֒|lə·p̄ā·nāw|his|H6440|Prep-l | N-cpc | 3ms
 v9 וַ֠יְבַהֵל|way·ḇa·hêl|so he quickly|H926|Conj-w | V-Piel-ConsecImperf-3ms
-v9 אֶת־|’eṯ-||H853|DirObjM
+v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 תַּמְרוּקֶ֤יהָ|tam·rū·qe·hā|with beauty treatments|H8562|N-mpc | 3fs
 v9 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v9 מָנוֹתֶ֙הָ֙|mā·nō·w·ṯe·hā|and the special diet|H4490|N-fpc | 3fs
@@ -185,7 +185,7 @@ v10 כִּ֧י|kî|because|H3588|Conj
 v10 מָרְדֳּכַ֛י|mā·rə·do·ḵay|Mordecai|H4782|N-proper-ms
 v10 צִוָּ֥ה|ṣiw·wāh|had instructed|H6680|V-Piel-Perf-3ms
 v10 עָלֶ֖יהָ|‘ā·le·hā|her|H5921|Prep | 3fs
-v10 אֲשֶׁ֥ר|’ă·šer||H834|Pro-r
+v10 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v10 לֹא־|lō-|not|H3808|Adv-NegPrt
 v10 תַגִּֽיד׃|ṯag·gîḏ|to do so|H5046|V-Hifil-Imperf-3fs
 v11 וּבְכָל־|ū·ḇə·ḵāl|And every day|H3605|Conj-w, Prep-b | N-msc
@@ -214,7 +214,7 @@ v12 הַמֶּ֣לֶךְ|ham·me·leḵ|King|H4428|Art | N-ms
 v12 אֲחַשְׁוֵר֗וֹשׁ|’ă·ḥaš·wê·rō·wōš|Xerxes|H325|N-proper-ms
 v12 מִקֵּץ֩|miq·qêṣ|...|H7093|Prep-m | N-ms
 v12 הֱי֨וֹת|hĕ·yō·wṯ|...|H1961|V-Qal-Inf
-v12 לָ֜הּ|lāh||H0|Prep | 3fs
+v12 לָ֜הּ|lāh|-|H0|Prep | 3fs
 v12 כְּדָ֤ת|kə·ḏāṯ|regulation required|H1881|Prep-k | N-fsc
 v12 הַנָּשִׁים֙|han·nā·šîm|the harem|H802|Art | N-fp
 v12 שְׁנֵ֣ים|šə·nêm|In the twelve|H8147|Number-md
@@ -244,7 +244,7 @@ v13 כָּל־|kāl-|whatever|H3605|N-msc
 v13 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v13 תֹּאמַ֜ר|tō·mar|she requested|H559|V-Qal-Imperf-3fs
 v13 יִנָּ֤תֵֽן|yin·nā·ṯên|she was given|H5414|V-Nifal-Imperf-3ms
-v13 לָהּ֙|lāh||H0|Prep | 3fs
+v13 לָהּ֙|lāh|-|H0|Prep | 3fs
 v13 לָב֣וֹא|lā·ḇō·w|to take|H935|Prep-l | V-Qal-Inf
 v13 עִמָּ֔הּ|‘im·māh|with her|H5973|Prep | 3fs
 v13 מִבֵּ֥ית|mib·bêṯ|from the harem|H1004|Prep-m | N-msc
@@ -378,7 +378,7 @@ v20 אֵ֣ין|’ên|still had not|H369|Adv
 v20 אֶסְתֵּ֗ר|’es·têr|Esther|H635|N-proper-fs
 v20 מַגֶּ֤דֶת|mag·ge·ḏeṯ|revealed|H5046|V-Hifil-Prtcpl-fs
 v20 מֽוֹלַדְתָּהּ֙|mō·w·laḏ·tāh|her lineage|H4138|N-fsc | 3fs
-v20 וְאֶת־|wə·’eṯ-||H853|Conj-w | DirObjM
+v20 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v20 עַמָּ֔הּ|‘am·māh|or her people|H5971|N-msc | 3fs
 v20 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v20 צִוָּ֥ה|ṣiw·wāh|had instructed|H6680|V-Piel-Perf-3ms
@@ -392,7 +392,7 @@ v20 עֹשָׂ֔ה|‘ō·śāh|obeyed|H6213|V-Qal-Prtcpl-fs
 v20 כַּאֲשֶׁ֛ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v20 הָיְתָ֥ה|hā·yə·ṯāh|she had done|H1961|V-Qal-Perf-3fs
 v20 בְאָמְנָ֖ה|ḇə·’ā·mə·nāh|under his care|H545|Prep-b | N-fs
-v20 אִתּֽוֹ׃ס|’it·tōw|...|H854|Prep | 3ms
+v20 אִתּֽוֹ׃|’it·tōw|...|H854|Prep | 3ms
 v21 בַּיָּמִ֣ים|bay·yā·mîm|days|H3117|Prep-b, Art | N-mp
 v21 הָהֵ֔ם|hā·hêm|In those|H1992|Art | Pro-3mp
 v21 וּמָרְדֳּכַ֖י|ū·mā·rə·do·ḵay|while Mordecai|H4782|Conj-w | N-proper-ms
@@ -435,4 +435,4 @@ v23 בְּסֵ֛פֶר|bə·sê·p̄er|in the Book|H5612|Prep-b | N-msc
 v23 דִּבְרֵ֥י|diḇ·rê|of the Chronicles|H1697|N-mpc
 v23 הַיָּמִ֖ים|hay·yā·mîm|...|H3117|Art | N-mp
 v23 לִפְנֵ֥י|lip̄·nê|in the presence|H6440|Prep-l | N-cpc
-v23 הַמֶּֽלֶךְ׃פ|ham·me·leḵ|of the king|H4428|Art | N-ms
+v23 הַמֶּֽלֶךְ׃|ham·me·leḵ|of the king|H4428|Art | N-ms

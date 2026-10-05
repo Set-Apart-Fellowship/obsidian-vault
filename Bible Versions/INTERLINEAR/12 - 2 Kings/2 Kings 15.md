@@ -93,7 +93,7 @@ v7 דָּוִ֑ד|dā·wiḏ|of David|H1732|N-proper-ms
 v7 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v7 יוֹתָ֥ם|yō·w·ṯām|Jotham|H3147|N-proper-ms
 v7 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v7 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v7 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v8 בִּשְׁנַ֨ת|biš·naṯ|year|H8141|Prep-b | N-fsc
 v8 שְׁלֹשִׁ֤ים|šə·lō·šîm|In the thirty-eighth|H7970|Number-cp
 v8 וּשְׁמֹנֶה֙|ū·šə·mō·neh|...|H8083|Conj-w | Number-fs
@@ -160,12 +160,12 @@ v12 לֵאמֹ֔ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v12 בְּנֵ֣י|bə·nê|of your sons|H1121|N-mpc
 v12 רְבִיעִ֔ים|rə·ḇî·‘îm|Four generations|H7243|Number-omp
 v12 יֵשְׁב֥וּ|yê·šə·ḇū|will sit|H3427|V-Qal-Imperf-3mp
-v12 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v12 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v12 עַל־|‘al-|on|H5921|Prep
 v12 כִּסֵּ֣א|kis·sê|the throne|H3678|N-msc
 v12 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v12 וַֽיְהִי־|way·hî-|was fulfilled|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v12 כֵֽן׃פ|ḵên||H3651|Adv
+v12 כֵֽן׃|ḵên|-|H3651|Adv
 v13 שַׁלּ֤וּם|šal·lūm|Shallum|H7967|N-proper-ms
 v13 בֶּן־|ben-|son|H1121|N-msc
 v13 יָבֵישׁ֙|yā·ḇêš|of Jabesh|H3003|N-proper-ms
@@ -210,7 +210,7 @@ v15 סֵ֛פֶר|sê·p̄er|the Book|H5612|N-msc
 v15 דִּבְרֵ֥י|diḇ·rê|of the Chronicles|H1697|N-mpc
 v15 הַיָּמִ֖ים|hay·yā·mîm|...|H3117|Art | N-mp
 v15 לְמַלְכֵ֥י|lə·mal·ḵê|of the Kings|H4428|Prep-l | N-mpc
-v15 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v15 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v16 אָ֣ז|’āz|At that time|H227|Adv
 v16 יַכֶּֽה־|yak·keh-|attacked|H5221|V-Hifil-Imperf-3ms
 v16 מְ֠נַחֵם|mə·na·ḥêm|Menahem|H4505|N-proper-ms
@@ -219,7 +219,7 @@ v16 תִּפְסַ֨ח|tip̄·saḥ|Tiphsah|H8607|N-proper-ms
 v16 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v16 כָּל־|kāl-|everyone|H3605|N-msc
 v16 אֲשֶׁר־|’ă·šer-|in its|H834|Pro-r
-v16 בָּ֤הּ|bāh||H0|Prep | 3fs
+v16 בָּ֤הּ|bāh|-|H0|Prep | 3fs
 v16 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v16 גְּבוּלֶ֙יהָ֙|gə·ḇū·le·hā|vicinity|H1366|N-mpc | 3fs
 v16 מִתִּרְצָ֔ה|mit·tir·ṣāh|starting from Tirzah|H8656|Prep-m | N-proper-fs
@@ -230,11 +230,11 @@ v16 וַיַּ֑ךְ|way·yaḵ|So he attacked [Tiphsah]|H5221|Conj-w | V-Hifil-
 v16 אֵ֛ת|’êṯ|-|H853|DirObjM
 v16 כָּל־|kāl-|all|H3605|N-msc
 v16 הֶהָ֥רוֹתֶ֖יהָ|he·hā·rō·w·ṯe·hā|the pregnant women|H2030|Art | Adj-fpc | 3fs
-v16 בִּקֵּֽעַ׃פ|biq·qê·a‘|and ripped open|H1234|V-Piel-Perf-3ms
+v16 בִּקֵּֽעַ׃|biq·qê·a‘|and ripped open|H1234|V-Piel-Perf-3ms
 v17 בִּשְׁנַ֨ת|biš·naṯ|year|H8141|Prep-b | N-fsc
 v17 שְׁלֹשִׁ֤ים|šə·lō·šîm|In the thirty-ninth|H7970|Number-cp
 v17 וָתֵ֙שַׁע֙|wā·ṯê·ša‘|...|H8672|Conj-w | Number-fs
-v17 שָׁנָ֔ה|šā·nāh||H8141|N-fs
+v17 שָׁנָ֔ה|šā·nāh|-|H8141|N-fs
 v17 לַעֲזַרְיָ֖ה|la·‘ă·zar·yāh|of Azariah's|H5838|Prep-l | N-proper-ms
 v17 מֶ֣לֶךְ|me·leḵ|reign|H4428|N-msc
 v17 יְהוּדָ֑ה|yə·hū·ḏāh|over Judah|H3063|N-proper-ms
@@ -284,7 +284,7 @@ v19 הַמַּמְלָכָ֖ה|ham·mam·lā·ḵāh|on the kingdom|H4467|Art | 
 v19 בְּיָדֽוֹ׃|bə·yā·ḏōw|his own grip|H3027|Prep-b | N-fsc | 3ms
 v20 וַיֹּצֵא֩|way·yō·ṣê|exacted|H3318|Conj-w | V-Hifil-ConsecImperf-3ms
 v20 מְנַחֵ֨ם|mə·na·ḥêm|Menahem|H4505|N-proper-ms
-v20 אֶת־|’eṯ-||H853|DirObjM
+v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 הַכֶּ֜סֶף|hak·ke·sep̄|this money|H3701|Art | N-ms
 v20 עַל־|‘al-|from|H5921|Prep
 v20 יִשְׂרָאֵ֗ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -329,10 +329,10 @@ v22 אֲבֹתָ֑יו|’ă·ḇō·ṯāw|his fathers|H1|N-mpc | 3ms
 v22 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v22 פְּקַחְיָ֥ה|pə·qaḥ·yāh|Pekahiah|H6494|N-proper-ms
 v22 בְנ֖וֹ|ḇə·nōw|and his son|H1121|N-msc | 3ms
-v22 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v22 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v23 בִּשְׁנַת֙|biš·naṯ|year|H8141|Prep-b | N-fsc
 v23 חֲמִשִּׁ֣ים|ḥă·miš·šîm|In the fiftieth|H2572|Number-cp
-v23 שָׁנָ֔ה|šā·nāh||H8141|N-fs
+v23 שָׁנָ֔ה|šā·nāh|-|H8141|N-fs
 v23 לַעֲזַרְיָ֖ה|la·‘ă·zar·yāh|of Azariah's|H5838|Prep-l | N-proper-ms
 v23 מֶ֣לֶךְ|me·leḵ|reign|H4428|N-msc
 v23 יְהוּדָ֑ה|yə·hū·ḏāh|over Judah|H3063|N-proper-ms
@@ -394,11 +394,11 @@ v26 סֵ֛פֶר|sê·p̄er|the Book|H5612|N-msc
 v26 דִּבְרֵ֥י|diḇ·rê|of the Chronicles|H1697|N-mpc
 v26 הַיָּמִ֖ים|hay·yā·mîm|...|H3117|Art | N-mp
 v26 לְמַלְכֵ֥י|lə·mal·ḵê|of the Kings|H4428|Prep-l | N-mpc
-v26 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v26 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v27 בִּשְׁנַ֨ת|biš·naṯ|year|H8141|Prep-b | N-fsc
 v27 חֲמִשִּׁ֤ים|ḥă·miš·šîm|In the fifty-second|H2572|Number-cp
 v27 וּשְׁתַּ֙יִם֙|ū·šə·ta·yim|...|H8147|Conj-w | Number-fd
-v27 שָׁנָ֔ה|šā·nāh||H8141|N-fs
+v27 שָׁנָ֔ה|šā·nāh|-|H8141|N-fs
 v27 לַעֲזַרְיָ֖ה|la·‘ă·zar·yāh|of Azariah's|H5838|Prep-l | N-proper-ms
 v27 מֶ֣לֶךְ|me·leḵ|reign|H4428|N-msc
 v27 יְהוּדָ֑ה|yə·hū·ḏāh|over Judah|H3063|N-proper-ms
@@ -431,7 +431,7 @@ v29 פֶּ֣קַח|pe·qaḥ|of Pekah|H6492|N-proper-ms
 v29 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v29 יִשְׂרָאֵ֗ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v29 בָּא֮|bā|came|H935|V-Qal-Perf-3ms
-v29 תִּגְלַ֣ת|tiḡ·laṯ|vvv|H8407|N-proper-ms
+v29 תִּגְלַ֣ת|tiḡ·laṯ|...|H8407|N-proper-ms
 v29 פִּלְאֶסֶר֮|pil·’e·ser|Tiglath-pileser|H8407|N-msc
 v29 מֶ֣לֶךְ|me·leḵ|king|H4428|N-proper-fs
 v29 אַשּׁוּר֒|’aš·šūr|of Assyria|H804|N-proper-ms
@@ -439,8 +439,8 @@ v29 וַיִּקַּ֣ח|way·yiq·qaḥ|and captured|H3947|Conj-w | V-Qal-Conse
 v29 אֶת־|’eṯ-|-|H853|DirObjM
 v29 עִיּ֡וֹן|‘î·yō·wn|Ijon|H5859|N-proper-fs
 v29 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v29 אָבֵ֣ל|’ā·ḇêl|vvv|H59|N-proper-ms
-v29 בֵּֽית־|bêṯ-|vvv|H1038|N-proper-ms
+v29 אָבֵ֣ל|’ā·ḇêl|...|H59|N-proper-ms
+v29 בֵּֽית־|bêṯ-|...|H1038|N-proper-ms
 v29 מַעֲכָ֡ה|ma·‘ă·ḵāh|Abel-beth-maacah|H1038|N-proper-fs
 v29 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v29 יָ֠נוֹחַ|yā·nō·w·aḥ|Janoah|H3239|N-proper-fs
@@ -488,7 +488,7 @@ v31 סֵ֛פֶר|sê·p̄er|the Book|H5612|N-msc
 v31 דִּבְרֵ֥י|diḇ·rê|of the Chronicles|H1697|N-mpc
 v31 הַיָּמִ֖ים|hay·yā·mîm|...|H3117|Art | N-mp
 v31 לְמַלְכֵ֥י|lə·mal·ḵê|of the Kings|H4428|Prep-l | N-mpc
-v31 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v31 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v32 בִּשְׁנַ֣ת|biš·naṯ|year|H8141|Prep-b | N-fsc
 v32 שְׁתַּ֔יִם|šə·ta·yim|In the second|H8147|Number-fd
 v32 לְפֶ֥קַח|lə·p̄e·qaḥ|of Pekah|H6492|Prep-l | N-proper-ms
@@ -584,4 +584,4 @@ v38 אָבִ֑יו|’ā·ḇîw|his father|H1|N-msc | 3ms
 v38 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v38 אָחָ֥ז|’ā·ḥāz|Ahaz|H271|N-proper-ms
 v38 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v38 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v38 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

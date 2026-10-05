@@ -38,7 +38,7 @@ v2 וַאֲשֶׁ֣ר|wa·’ă·šer|-|H834|Conj-w | Pro-r
 v2 דְּרָשׁ֔וּם|də·rā·šūm|consulted|H1875|V-Qal-Perf-3cp | 3mp
 v2 וַאֲשֶׁ֥ר|wa·’ă·šer|-|H834|Conj-w | Pro-r
 v2 הִֽשְׁתַּחֲו֖וּ|hiš·ta·ḥă·wū|and worshiped|H7812|V-Hitpael-Perf-3cp
-v2 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v2 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v2 לֹ֤א|lō|Their bones will not|H3808|Adv-NegPrt
 v2 יֵאָֽסְפוּ֙|yê·’ā·sə·p̄ū|be gathered up|H622|V-Nifal-Imperf-3mp
 v2 וְלֹ֣א|wə·lō|[or]|H3808|Conj-w | Adv-NegPrt
@@ -66,7 +66,7 @@ v3 הִדַּחְתִּ֣ים|hid·daḥ·tîm|I have banished them|H5080|V-Hifi
 v3 שָׁ֔ם|šām|...|H8033|Adv
 v3 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v3 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v3 צְבָאֽוֹת׃ס|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
+v3 צְבָאֽוֹת׃|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v4 וְאָמַרְתָּ֣|wə·’ā·mar·tā|So you are to tell|H559|Conj-w | V-Qal-ConjPerf-2ms
 v4 אֲלֵיהֶ֗ם|’ă·lê·hem|them|H413|Prep | 3mp
 v4 כֹּ֚ה|kōh|this is what|H3541|Adv
@@ -151,7 +151,7 @@ v9 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
 v9 מָאָ֔סוּ|mā·’ā·sū|they have rejected|H3988|V-Qal-Perf-3cp
 v9 וְחָכְמַֽת־|wə·ḥā·ḵə·maṯ-|wisdom|H2451|Conj-w | N-fsc
 v9 מֶ֖ה|meh|what|H4100|Interrog
-v9 לָהֶֽם׃ס|lā·hem|do they really have|H0|Prep | 3mp
+v9 לָהֶֽם׃|lā·hem|do they really have|H0|Prep | 3mp
 v10 לָכֵן֩|lā·ḵên|Therefore|H3651|Adv
 v10 אֶתֵּ֨ן|’et·tên|I will give|H5414|V-Qal-Imperf-1cs
 v10 אֶת־|’eṯ-|-|H853|DirObjM
@@ -202,7 +202,7 @@ v12 בְּעֵ֧ת|bə·‘êṯ|when|H6256|Prep-b | N-csc
 v12 פְּקֻדָּתָ֛ם|pə·qud·dā·ṯām|I punish them|H6486|N-fsc | 3mp
 v12 יִכָּשְׁל֖וּ|yik·kā·šə·lū|they will collapse|H3782|V-Nifal-Imperf-3mp
 v12 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v12 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v12 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v13 אָסֹ֥ף|’ā·sōp̄|I will take away their harvest|H622|V-Qal-InfAbs
 v13 אֲסִיפֵ֖ם|’ă·sî·p̄êm|...|H5486|V-Hifil-Imperf-1cs | 3mp
 v13 נְאֻם־|nə·’um-|declares|H5002|N-msc
@@ -263,7 +263,7 @@ v16 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fs
 v16 וּמְלוֹאָ֔הּ|ū·mə·lō·w·’āh|and everything in it|H4393|Conj-w | N-msc | 3fs
 v16 עִ֖יר|‘îr|the city|H5892|N-fs
 v16 וְיֹ֥שְׁבֵי|wə·yō·šə·ḇê|and all who dwell|H3427|Conj-w | V-Qal-Prtcpl-mpc
-v16 בָֽהּ׃ס|ḇāh|in it|H0|Prep | 3fs
+v16 בָֽהּ׃|ḇāh|in it|H0|Prep | 3fs
 v17 כִּי֩|kî|For|H3588|Conj
 v17 הִנְנִ֨י|hin·nî|behold|H2005|Interjection | 1cs
 v17 מְשַׁלֵּ֜חַ|mə·šal·lê·aḥ|I will send|H7971|V-Piel-Prtcpl-ms
@@ -272,12 +272,12 @@ v17 נְחָשִׁים֙|nə·ḥā·šîm|snakes|H5175|N-mp
 v17 צִפְעֹנִ֔ים|ṣip̄·‘ō·nîm|vipers|H6848|N-mp
 v17 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v17 אֵין־|’ên-|cannot|H369|Adv
-v17 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v17 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v17 לָ֑חַשׁ|lā·ḥaš|be charmed|H3908|N-ms
 v17 וְנִשְּׁכ֥וּ|wə·niš·šə·ḵū|and they will bite|H5391|Conj-w | V-Piel-ConjPerf-3cp
 v17 אֶתְכֶ֖ם|’eṯ·ḵem|you|H853|DirObjM | 2mp
 v17 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v17 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v17 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v18 מַבְלִ֥יגִיתִ֖י|maḇ·lî·ḡî·ṯî|healing|H4010|N-fsc | 1cs
 v18 עֲלֵ֣י|‘ă·lê|is beyond|H5921|Prep
 v18 יָג֑וֹן|yā·ḡō·wn|My sorrow|H3015|N-ms

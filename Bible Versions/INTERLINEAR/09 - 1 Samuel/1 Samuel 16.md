@@ -20,7 +20,7 @@ v1 וְלֵ֤ךְ|wə·lêḵ|and go|H1980|Conj-w | V-Qal-Imp-ms
 v1 אֶֽשְׁלָחֲךָ֙|’eš·lā·ḥă·ḵā|I am sending|H7971|V-Qal-Imperf-1cs | 2ms
 v1 אֶל־|’el-|you to|H413|Prep
 v1 יִשַׁ֣י|yi·šay|Jesse|H3448|N-proper-ms
-v1 בֵּֽית־|bêṯ-|vvv|H1022|Prep
+v1 בֵּֽית־|bêṯ-|...|H1022|Prep
 v1 הַלַּחְמִ֔י|hal·laḥ·mî|of Bethlehem|H1022|N-proper-ms
 v1 כִּֽי־|kî-|for|H3588|Conj
 v1 רָאִ֧יתִי|rā·’î·ṯî|I have selected|H7200|V-Qal-Perf-1cs
@@ -36,7 +36,7 @@ v2 שָׁא֖וּל|šā·’ūl|Saul|H7586|N-proper-ms
 v2 וַהֲרָגָ֑נִיס|wa·hă·rå̄·ḡå̄·nīs|and kill me|H2026|Conj-w | V-Qal-ConjPerf-3ms | 1cs
 v2 וַיֹּ֣אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 יְהוָ֗ה|Yah·weh|The LORD|H3068|N-proper-ms
-v2 עֶגְלַ֤ת|‘eḡ·laṯ|vvv|H5697|N-fsc
+v2 עֶגְלַ֤ת|‘eḡ·laṯ|...|H5697|N-fsc
 v2 בָּקָר֙|bā·qār|a heifer|H1241|N-ms
 v2 תִּקַּ֣ח|tiq·qaḥ|Take|H3947|V-Qal-Imperf-2ms
 v2 בְּיָדֶ֔ךָ|bə·yā·ḏe·ḵā|with you|H3027|Prep-b | N-fsc | 2ms
@@ -65,7 +65,7 @@ v4 אֲשֶׁ֣ר|’ă·šer|what|H834|Pro-r
 v4 דִּבֶּ֣ר|dib·ber|had said|H1696|V-Piel-Perf-3ms
 v4 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v4 וַיָּבֹ֖א|way·yā·ḇō|and went|H935|Conj-w | V-Qal-ConsecImperf-3ms
-v4 בֵּ֣ית|bêṯ|vvv|H1035|Prep
+v4 בֵּ֣ית|bêṯ|...|H1035|Prep
 v4 לָ֑חֶם|lā·ḥem|to Bethlehem|H1035|N-proper-fs
 v4 וַיֶּחֶרְד֞וּ|way·ye·ḥer·ḏū|they trembled|H2729|Conj-w | V-Qal-ConsecImperf-3mp
 v4 זִקְנֵ֤י|ziq·nê|When the elders|H2205|Adj-mpc
@@ -223,7 +223,7 @@ v13 וָמָ֑עְלָה|wā·mā·‘ə·lāh|forward|H4605|Conj-w | Adv | 3fs
 v13 וַיָּ֣קָם|way·yā·qām|set out|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v13 שְׁמוּאֵ֔ל|šə·mū·’êl|Then Samuel|H8050|N-proper-ms
 v13 וַיֵּ֖לֶךְ|way·yê·leḵ|and went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
-v13 הָרָמָֽתָה׃ס|hā·rā·mā·ṯāh|to Ramah|H7414|Art | N-proper-fs | 3fs
+v13 הָרָמָֽתָה׃|hā·rā·mā·ṯāh|to Ramah|H7414|Art | N-proper-fs | 3fs
 v14 וְר֧וּחַ|wə·rū·aḥ|Now the Spirit|H7307|Conj-w | N-csc
 v14 יְהוָ֛ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v14 סָ֖רָה|sā·rāh|departed|H5493|V-Qal-Perf-3fs
@@ -263,7 +263,7 @@ v16 רָעָ֔ה|rā·‘āh|of distress|H7451|Adj-fs
 v16 וְנִגֵּ֥ן|wə·nig·gên|he is to play it|H5059|Conj-w | V-Piel-ConjPerf-3ms
 v16 בְּיָד֖וֹ|bə·yā·ḏōw|...|H3027|Prep-b | N-fsc | 3ms
 v16 וְט֥וֹב|wə·ṭō·wḇ|[will be] well|H2896|Conj-w | Adj-ms
-v16 לָֽךְ׃פ|lāḵ|and you|H0|Prep | 2fs
+v16 לָֽךְ׃|lāḵ|and you|H0|Prep | 2fs
 v17 וַיֹּ֥אמֶר|way·yō·mer|commanded|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v17 שָׁא֖וּל|šā·’ūl|And Saul|H7586|N-proper-ms
 v17 אֶל־|’el-|his|H413|Prep
@@ -284,7 +284,7 @@ v18 הִנֵּ֨ה|hin·nêh|...|H2009|Interjection
 v18 רָאִ֜יתִי|rā·’î·ṯî|I have seen|H7200|V-Qal-Perf-1cs
 v18 בֵּ֣ן|bên|a son|H1121|N-ms
 v18 לְיִשַׁי֮|lə·yi·šay|of Jesse|H3448|Prep-l | N-proper-ms
-v18 בֵּ֣ית|bêṯ|vvv|H1022|Prep
+v18 בֵּ֣ית|bêṯ|...|H1022|Prep
 v18 הַלַּחְמִי֒|hal·laḥ·mî|of Bethlehem|H1022|N-proper-ms
 v18 יֹדֵ֣עַ|yō·ḏê·a‘|who knows|H3045|V-Qal-Prtcpl-ms
 v18 נַ֠גֵּן|nag·gên|how to play [the harp]|H5059|V-Piel-Inf
@@ -370,4 +370,4 @@ v23 ל֔וֹ|lōw|...|H0|Prep | 3ms
 v23 וְסָ֥רָה|wə·sā·rāh|would depart|H5493|Conj-w | V-Qal-ConjPerf-3fs
 v23 מֵעָלָ֖יו|mê·‘ā·lāw|from him|H5921|Prep-m | 3ms
 v23 ר֥וּחַ|rū·aḥ|and the spirit|H7307|N-csc
-v23 הָרָעָֽה׃פ|hā·rā·‘āh|of distress|H7451|Art | Adj-fs
+v23 הָרָעָֽה׃|hā·rā·‘āh|of distress|H7451|Art | Adj-fs

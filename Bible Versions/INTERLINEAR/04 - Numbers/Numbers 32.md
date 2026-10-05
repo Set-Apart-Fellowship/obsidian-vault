@@ -53,7 +53,7 @@ v4 אֶ֥רֶץ|’e·reṣ|are suitable|H776|N-fsc
 v4 מִקְנֶ֖ה|miq·neh|for livestock|H4735|N-ms
 v4 הִ֑וא|hî|...|H1931|Pro-3fs
 v4 וְלַֽעֲבָדֶ֖יךָ|wə·la·‘ă·ḇā·ḏe·ḵā|and your servants|H5650|Conj-w, Prep-l | N-mpc | 2ms
-v4 מִקְנֶֽה׃ס|miq·neh|have livestock|H4735|N-ms
+v4 מִקְנֶֽה׃|miq·neh|have livestock|H4735|N-ms
 v5 וַיֹּאמְר֗וּ|way·yō·mə·rū|they said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v5 אִם־|’im-|If|H518|Conj
 v5 מָצָ֤אנוּ|mā·ṣā·nū|we have found|H4672|V-Qal-Perf-1cp
@@ -184,7 +184,7 @@ v14 קַמְתֶּ֗ם|qam·tem|have risen up|H6965|V-Qal-Perf-2mp
 v14 תַּ֚חַת|ta·ḥaṯ|in place|H8478|Prep
 v14 אֲבֹ֣תֵיכֶ֔ם|’ă·ḇō·ṯê·ḵem|of your fathers|H1|N-mpc | 2mp
 v14 תַּרְבּ֖וּת|tar·būṯ|you, a brood|H8635|N-fsc
-v14 אֲנָשִׁ֣ים|’ă·nā·šîm||H582|N-mp
+v14 אֲנָשִׁ֣ים|’ă·nā·šîm|-|H582|N-mp
 v14 חַטָּאִ֑ים|ḥaṭ·ṭā·’îm|of sinners|H2400|Adj-mp
 v14 לִסְפּ֣וֹת|lis·pō·wṯ|stoke|H5595|Prep-l | V-Qal-Inf
 v14 ע֗וֹד|‘ō·wḏ|to further|H5750|Adv
@@ -204,7 +204,7 @@ v15 בַּמִּדְבָּ֑ר|bam·miḏ·bār|in the wilderness|H4057|Prep-b, 
 v15 וְשִֽׁחַתֶּ֖ם|wə·ši·ḥat·tem|and you will be the cause of their destruction|H7843|Conj-w | V-Piel-ConjPerf-2mp
 v15 לְכָל־|lə·ḵāl|...|H3605|Prep-l | N-msc
 v15 הָעָ֥ם|hā·‘ām|people|H5971|Art | N-ms
-v15 הַזֶּֽה׃ס|haz·zeh|this|H2088|Art | Pro-ms
+v15 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v16 וַיִּגְּשׁ֤וּ|way·yig·gə·šū|Then [the Gadites and Reubenites] approached|H5066|Conj-w | V-Qal-ConsecImperf-3mp
 v16 אֵלָיו֙|’ê·lāw|[Moses]|H413|Prep | 3ms
 v16 וַ֣יֹּאמְר֔וּ|way·yō·mə·rū|and said|H559|Conj-w | V-Qal-ConsecImperf-3mp
@@ -257,7 +257,7 @@ v19 נַחֲלָתֵ֙נוּ֙|na·ḥă·lā·ṯê·nū|our inheritance|H5159
 v19 אֵלֵ֔ינוּ|’ê·lê·nū|has come to us|H413|Prep | 1cp
 v19 מֵעֵ֥בֶר|mê·‘ê·ḇer|side|H5676|Prep-m | N-msc
 v19 הַיַּרְדֵּ֖ן|hay·yar·dên|of the Jordan|H3383|Art | N-proper-fs
-v19 מִזְרָֽחָה׃פ|miz·rā·ḥāh|on the east|H4217|N-ms | 3fs
+v19 מִזְרָֽחָה׃|miz·rā·ḥāh|on the east|H4217|N-ms | 3fs
 v20 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֲלֵיהֶם֙|’ă·lê·hem|-|H413|Prep | 3mp
 v20 מֹשֶׁ֔ה|mō·šeh|Moses|H4872|N-proper-ms
@@ -272,7 +272,7 @@ v20 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v20 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v20 לַמִּלְחָמָֽה׃|lam·mil·ḥā·māh|for battle|H4421|Prep-l, Art | N-fs
 v21 וְעָבַ֨ר|wə·‘ā·ḇar|crosses|H5674|Conj-w | V-Qal-ConjPerf-3ms
-v21 לָכֶ֧ם|lā·ḵem||H0|Prep | 2mp
+v21 לָכֶ֧ם|lā·ḵem|-|H0|Prep | 2mp
 v21 כָּל־|kāl-|and if every one|H3605|N-msc
 v21 חָל֛וּץ|ḥā·lūṣ|of your armed men|H2502|V-Qal-QalPassPrtcpl-ms
 v21 אֶת־|’eṯ-|-|H853|DirObjM
@@ -369,7 +369,7 @@ v28 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v28 רָאשֵׁ֛י|rā·šê|leaders|H7218|N-mpc
 v28 אֲב֥וֹת|’ă·ḇō·wṯ|and to the family|H1|N-mpc
 v28 הַמַּטּ֖וֹת|ham·maṭ·ṭō·wṯ|of the tribes|H4294|Art | N-mp
-v28 לִבְנֵ֥י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v28 לִבְנֵ֥י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v28 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v29 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v29 מֹשֶׁ֜ה|mō·šeh|And Moses|H4872|N-proper-ms
@@ -470,16 +470,16 @@ v34 עֲטָרֹ֑ת|‘ă·ṭā·rōṯ|Ataroth|H5852|N-proper-fs
 v34 וְאֵ֖ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v34 עֲרֹעֵֽר׃|‘ă·rō·‘êr|Aroer|H6177|N-proper-fs
 v35 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v35 עַטְרֹ֥ת|‘aṭ·rōṯ|vvv|H5855|
+v35 עַטְרֹ֥ת|‘aṭ·rōṯ|...|H5855|
 v35 שׁוֹפָ֛ן|šō·w·p̄ān|Atroth-shophan|H5855|N-proper-fs
 v35 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v35 יַעְזֵ֖ר|ya‘·zêr|Jazer|H3270|N-proper-fs
 v35 וְיָגְבֳּהָֽה׃|wə·yā·ḡə·bo·hāh|Jogbehah|H3011|Conj-w | N-proper-fs
 v36 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v36 בֵּ֥ית|bêṯ|vvv|H1039|Prep
+v36 בֵּ֥ית|bêṯ|...|H1039|Prep
 v36 נִמְרָ֖ה|nim·rāh|Beth-nimrah|H1039|N-proper-fs
 v36 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v36 בֵּ֣ית|bêṯ|vvv|H1028|Prep
+v36 בֵּ֣ית|bêṯ|...|H1028|Prep
 v36 הָרָ֑ן|hā·rān|and Beth-haran|H1028|N-proper-fs
 v36 עָרֵ֥י|‘ā·rê|cities|H5892|N-fpc
 v36 מִבְצָ֖ר|miḇ·ṣār|as fortified|H4013|N-ms
@@ -497,7 +497,7 @@ v37 קִרְיָתָֽיִם׃|qir·yā·ṯā·yim|Kiriathaim|H7156|N-proper-fs
 v38 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v38 נְב֞וֹ|nə·ḇōw|as well as Nebo|H5015|N-proper-fs
 v38 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v38 בַּ֧עַל|ba·‘al|vvv|H1186|Prep
+v38 בַּ֧עַל|ba·‘al|...|H1186|Prep
 v38 מְע֛וֹן|mə·‘ō·wn|and Baal-meon|H1186|N-proper-fs
 v38 מֽוּסַבֹּ֥ת|mū·sab·bōṯ|were changed|H5437|V-Hofal-Prtcpl-fp
 v38 שֵׁ֖ם|šêm|(whose names|H8034|N-ms
@@ -552,4 +552,4 @@ v42 בְּנֹתֶ֑יהָ|bə·nō·ṯe·hā|and its villages|H1323|N-fpc | 3f
 v42 וַיִּקְרָ֧א|way·yiq·rā|and called|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v42 לָ֦ה|lāh|it|H0|Prep | 3fs
 v42 נֹ֖בַח|nō·ḇaḥ|Nobah|H5025|N-proper-fs
-v42 בִּשְׁמֽוֹ׃פ|biš·mōw|after his own name|H8034|Prep-b | N-msc | 3ms
+v42 בִּשְׁמֽוֹ׃|biš·mōw|after his own name|H8034|Prep-b | N-msc | 3ms

@@ -5,7 +5,7 @@ v1 Παῦλος|Paulos|Paul|G3972|N-NMS
 v1 τῷ|tō|at the|G3588|Art-DNS
 v1 συνεδρίῳ|synedriō|Sanhedrin|G4892|N-DNS
 v1 εἶπεν|eipen|[and] said|G2036|V-AIA-3S
-v1 Ἄνδρες|Andres|vvv|G435|N-VMP
+v1 Ἄνδρες|Andres|...|G435|N-VMP
 v1 ἀδελφοί|adelphoi|Brothers|G80|N-VMP
 v1 ἐγὼ|egō|I|G1473|PPro-N1S
 v1 πάσῃ|pasē|in all|G3956|Adj-DFS
@@ -69,7 +69,7 @@ v5 Ἔφη|Ephē|replied|G5346|V-IIA-3S
 v5 τε|te|-|G5037|Conj
 v5 ὁ|ho|-|G3588|Art-NMS
 v5 Παῦλος|Paulos|Paul|G3972|N-NMS
-v5 Οὐκ|Ouk|vvv|G3756|Adv
+v5 Οὐκ|Ouk|...|G3756|Adv
 v5 ᾔδειν|ēdein|I was not aware|G1492|V-LIA-1S
 v5 ἀδελφοί|adelphoi|Brothers|G80|N-VMP
 v5 ὅτι|hoti|that|G3754|Conj
@@ -82,7 +82,7 @@ v5 Ἄρχοντα|Archonta|[about the] ruler|G758|N-AMS
 v5 τοῦ|tou|of|G3588|Art-GMS
 v5 λαοῦ|laou|people|G2992|N-GMS
 v5 σου|sou|your|G4771|PPro-G2S
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 ἐρεῖς|ereis|Do not speak|G2046|V-FIA-2S
 v5 κακῶς|kakōs|evil|G2560|Adv
 v6 Γνοὺς|Gnous|knowing|G1097|V-APA-NMS
@@ -91,7 +91,7 @@ v6 ὁ|ho|-|G3588|Art-NMS
 v6 Παῦλος|Paulos|Paul|G3972|N-NMS
 v6 ὅτι|hoti|that|G3754|Conj
 v6 τὸ|to|-|G3588|Art-NNS
-v6 ἓν|hen|vvv|G1520|Adj-NNS
+v6 ἓν|hen|...|G1520|Adj-NNS
 v6 μέρος|meros|some of them|G3313|N-NNS
 v6 ἐστὶν|estin|were|G1510|V-PIA-3S
 v6 Σαδδουκαίων|Saddoukaiōn|Sadducees|G4523|N-GMP
@@ -103,7 +103,7 @@ v6 ἔκραζεν|ekrazen|called out|G2896|V-IIA-3S
 v6 ἐν|en|in|G1722|Prep
 v6 τῷ|tō|the|G3588|Art-DNS
 v6 συνεδρίῳ|synedriō|Sanhedrin|G4892|N-DNS
-v6 Ἄνδρες|Andres|vvv|G435|N-VMP
+v6 Ἄνδρες|Andres|...|G435|N-VMP
 v6 ἀδελφοί|adelphoi|Brothers|G80|N-VMP
 v6 ἐγὼ|egō|I|G1473|PPro-N1S
 v6 Φαρισαῖός|Pharisaios|a Pharisee|G5330|N-NMS
@@ -187,7 +187,7 @@ v10 μὴ|mē|...|G3361|Adv
 v10 διασπασθῇ|diaspasthē|would tear Paul to pieces|G1288|V-ASP-3S
 v10 ὁ|ho|...|G3588|Art-NMS
 v10 Παῦλος|Paulos|...|G3972|N-NMS
-v10 ὑπ’|hyp’|vvv|G5259|Prep
+v10 ὑπ’|hyp’|...|G5259|Prep
 v10 αὐτῶν|autōn|they|G846|PPro-GM3P
 v10 ἐκέλευσεν|ekeleusen|He ordered|G2753|V-AIA-3S
 v10 τὸ|to|the|G3588|Art-ANS
@@ -380,12 +380,12 @@ v19 ὁ|ho|The|G3588|Art-NMS
 v19 χιλίαρχος|chiliarchos|commander|G5506|N-NMS
 v19 καὶ|kai|-|G2532|Conj
 v19 ἀναχωρήσας|anachōrēsas|drew [him]|G402|V-APA-NMS
-v19 κατ’|kat’|vvv|G2596|Prep
+v19 κατ’|kat’|...|G2596|Prep
 v19 ἰδίαν|idian|aside|G2398|Adj-AFS
 v19 ἐπυνθάνετο|epynthaneto|and asked|G4441|V-IIM/P-3S
 v19 Τί|Ti|What|G5101|IPro-NNS
-v19 ἐστιν|estin|vvv|G1510|V-PIA-3S
-v19 ὃ|ho|vvv|G3739|RelPro-ANS
+v19 ἐστιν|estin|...|G1510|V-PIA-3S
+v19 ὃ|ho|...|G3739|RelPro-ANS
 v19 ἔχεις|echeis|do you need|G2192|V-PIA-2S
 v19 ἀπαγγεῖλαί|apangeilai|to tell|G518|V-ANA
 v19 μοι|moi|me|G1473|PPro-D1S
@@ -443,7 +443,7 @@ v21 εἰσιν|eisin|they are|G1510|V-PIA-3P
 v21 ἕτοιμοι|hetoimoi|ready|G2092|Adj-NMP
 v21 προσδεχόμενοι|prosdechomenoi|awaiting|G4327|V-PPM/P-NMP
 v21 τὴν|tēn|-|G3588|Art-AFS
-v21 ἀπὸ|apo|vvv|G575|Prep
+v21 ἀπὸ|apo|...|G575|Prep
 v21 σοῦ|sou|your|G4771|PPro-G2S
 v21 ἐπαγγελίαν|epangelian|consent|G1860|N-AFS
 v22 Ὁ|Ho|the|G3588|Art-NMS
@@ -575,7 +575,7 @@ v30 ἔπεμψα|epempsa|I sent [him]|G3992|V-AIA-1S
 v30 πρὸς|pros|to|G4314|Prep
 v30 σέ|se|you|G4771|PPro-A2S
 v30 παραγγείλας|parangeilas|I also instructed|G3853|V-APA-NMS
-v30 καὶ|kai|vvv|G2532|Conj
+v30 καὶ|kai|...|G2532|Conj
 v30 τοῖς|tois|[his]|G3588|Art-DMP
 v30 κατηγόροις|katēgorois|accusers|G2725|N-DMP
 v30 λέγειν|legein|to present|G3004|V-PNA
@@ -588,8 +588,8 @@ v31 Οἱ|Hoi|the|G3588|Art-NMP
 v31 μὲν|men|-|G3303|Conj
 v31 οὖν|oun|So|G3767|Conj
 v31 στρατιῶται|stratiōtai|soldiers|G4757|N-NMP
-v31 κατὰ|kata|vvv|G2596|Prep
-v31 τὸ|to|vvv|G3588|Art-ANS
+v31 κατὰ|kata|...|G2596|Prep
+v31 τὸ|to|...|G3588|Art-ANS
 v31 διατεταγμένον|diatetagmenon|followed their orders|G1299|V-RPM/P-ANS
 v31 αὐτοῖς|autois|...|G846|PPro-DM3P
 v31 ἀναλαβόντες|analabontes|[and] brought|G353|V-APA-NMP

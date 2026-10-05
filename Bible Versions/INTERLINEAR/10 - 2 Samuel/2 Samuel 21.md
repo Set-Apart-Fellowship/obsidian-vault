@@ -19,7 +19,7 @@ v1 שָׁאוּל֙|šā·’ūl|shed by Saul|H7586|N-proper-ms
 v1 וְאֶל־|wə·’el-|and|H413|Conj-w | Prep
 v1 בֵּ֣ית|bêṯ|his family|H1004|N-msc
 v1 הַדָּמִ֔ים|had·dā·mîm|the blood|H1818|Art | N-mp
-v1 עַל־|‘al-||H5921|Prep
+v1 עַל־|‘al-|-|H5921|Prep
 v1 אֲשֶׁר־|’ă·šer-|because|H834|Pro-r
 v1 הֵמִ֖ית|hê·mîṯ|he killed|H4191|V-Hifil-Perf-3ms
 v1 אֶת־|’eṯ-|-|H853|DirObjM
@@ -59,14 +59,14 @@ v3 לָכֶ֑ם|lā·ḵem|for you|H0|Prep | 2mp
 v3 וּבַמָּ֣ה|ū·ḇam·māh|How|H4100|Conj-w, Prep-b | Interrog
 v3 אֲכַפֵּ֔ר|’ă·ḵap·pêr|can I make amends|H3722|V-Piel-Imperf-1cs
 v3 וּבָרְכ֖וּ|ū·ḇā·rə·ḵū|so that you may bless|H1288|Conj-w | V-Piel-Imp-mp
-v3 אֶת־|’eṯ-||H853|DirObjM
+v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 נַחֲלַ֥ת|na·ḥă·laṯ|the inheritance|H5159|N-fsc
 v3 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v4 וַיֹּ֧אמְרוּ|way·yō·mə·rū|said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v4 ל֣וֹ|lōw|to him|H0|Prep | 3ms
 v4 הַגִּבְעֹנִ֗ים|hag·giḇ·‘ō·nîm|The Gibeonites|H1393|Art | N-proper-mp
 v4 אֵֽין־|’ên-|We need no|H369|Adv
-v4 לִי|lī||H0|Prep | 1cp
+v4 לִי|lī|-|H0|Prep | 1cp
 v4 כֶּ֤סֶף|ke·sep̄|silver|H3701|N-ms
 v4 וְזָהָב֙|wə·zā·hāḇ|or gold|H2091|Conj-w | N-ms
 v4 עִם־|‘im-|from|H5973|Prep
@@ -182,7 +182,7 @@ v10 וַתִּקַּ֣ח|wat·tiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-
 v10 רִצְפָּה֩|riṣ·pāh|And Rizpah|H7532|N-proper-fs
 v10 בַת־|ḇaṯ-|the daughter|H1323|N-fsc
 v10 אַיָּ֨ה|’ay·yāh|of Aiah|H345|N-proper-ms
-v10 אֶת־|’eṯ-||H853|DirObjM
+v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 הַשַּׂ֜ק|haś·śaq|sackcloth|H8242|Art | N-ms
 v10 וַתַּטֵּ֨הוּ|wat·taṭ·ṭê·hū|and spread it out|H5186|Conj-w | V-Hifil-ConsecImperf-3fs | 3ms
 v10 לָ֤הּ|lāh|for herself|H0|Prep | 3fs
@@ -194,7 +194,7 @@ v10 עַ֛ד|‘aḏ|until|H5704|Prep
 v10 נִתַּךְ־|nit·taḵ-|poured down|H5413|V-Nifal-Perf-3ms
 v10 מַ֥יִם|ma·yim|the rain|H4325|N-mp
 v10 עֲלֵיהֶ֖ם|‘ă·lê·hem|on the bodies|H5921|Prep | 3mp
-v10 מִן־|min-||H4480|Prep
+v10 מִן־|min-|-|H4480|Prep
 v10 הַשָּׁמָ֑יִם|haš·šā·mā·yim|from heaven|H8064|Art | N-mp
 v10 וְלֹֽא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v10 נָתְנָה֩|nā·ṯə·nāh|she did not allow|H5414|V-Qal-Perf-3fs
@@ -261,7 +261,7 @@ v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 עַצְמ֖וֹת|‘aṣ·mō·wṯ|the bones|H6106|N-fpc
 v13 הַמּוּקָעִֽים׃|ham·mū·qā·‘îm|of those who had been hanged|H3363|Art | V-Hofal-Prtcpl-mp
 v14 וַיִּקְבְּר֣וּ|way·yiq·bə·rū|And they buried|H6912|Conj-w | V-Qal-ConsecImperf-3mp
-v14 אֶת־|’eṯ-||H853|DirObjM
+v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 עַצְמוֹת־|‘aṣ·mō·wṯ-|the bones|H6106|N-fpc
 v14 שָׁא֣וּל|šā·’ūl|of Saul|H7586|N-proper-ms
 v14 וִיהוֹנָֽתָן־|wî·hō·w·nā·ṯān-|Jonathan|H3083|Conj-w | N-proper-ms
@@ -281,7 +281,7 @@ v14 וַיֵּעָתֵ֧ר|way·yê·‘ā·ṯêr|answered their prayers|H6279|
 v14 אֱלֹהִ֛ים|’ĕ·lō·hîm|God|H430|N-mp
 v14 לָאָ֖רֶץ|lā·’ā·reṣ|for the land|H776|Prep-l, Art | N-fs
 v14 אַֽחֲרֵי־|’a·ḥă·rê-|After|H310|Prep
-v14 כֵֽן׃פ|ḵên|-|H3651|Adv
+v14 כֵֽן׃|ḵên|-|H3651|Adv
 v15 וַתְּהִי־|wat·tə·hî-|...|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v15 ע֧וֹד|‘ō·wḏ|Once again|H5750|Adv
 v15 מִלְחָמָ֛ה|mil·ḥā·māh|waged war|H4421|N-fs
@@ -297,7 +297,7 @@ v15 אֶת־|’eṯ-|against|H854|Prep
 v15 פְּלִשְׁתִּ֖ים|pə·liš·tîm|the Philistines|H6430|N-proper-mp
 v15 וַיָּ֥עַף|way·yā·‘ap̄|became exhausted|H5888|Conj-w | V-Qal-ConsecImperf-3ms
 v15 דָּוִֽד׃|dā·wiḏ|But David|H1732|N-proper-ms
-v16 וְיִשְׁבּוֹ|wə·yiš·bō|vvv|H3430|
+v16 וְיִשְׁבּוֹ|wə·yiš·bō|...|H3430|
 v16 בְּנֹ֜ב|bə·nōḇ|Then Ishbi-benob|H3430|Conj-w | N-proper-ms
 v16 אֲשֶׁ֣ר׀|’ă·šer|-|H834|Pro-r
 v16 בִּילִידֵ֣י|bî·lî·ḏê|a descendant|H3211|Prep-b | N-mpc
@@ -339,7 +339,7 @@ v17 וְלֹ֥א|wə·lō|may not|H3808|Conj-w | Adv-NegPrt
 v17 תְכַבֶּ֖ה|ṯə·ḵab·beh|be extinguished|H3518|V-Piel-Imperf-2ms
 v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 נֵ֥ר|nêr|so that the lamp|H5216|N-msc
-v17 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v17 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v18 וַֽיְהִי֙|way·hî|there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v18 אַֽחֲרֵי־|’a·ḥă·rê-|Some time later|H310|Prep
 v18 כֵ֔ן|ḵên|...|H3651|Adv
@@ -357,7 +357,7 @@ v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 סַ֕ף|sap̄|Saph|H5593|N-proper-ms
 v18 אֲשֶׁ֖ר|’ă·šer|a|H834|Pro-r
 v18 בִּילִדֵ֥י|bî·li·ḏê|descendant|H3211|Prep-b | N-mpc
-v18 הָרָפָֽה׃פ|hā·rā·p̄āh|of Rapha|H7497|Art | N-proper-ms
+v18 הָרָפָֽה׃|hā·rā·p̄āh|of Rapha|H7497|Art | N-proper-ms
 v19 וַתְּהִי־|wat·tə·hî-|there was|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v19 ע֧וֹד|‘ō·wḏ|Once again|H5750|Adv
 v19 הַמִּלְחָמָ֛ה|ham·mil·ḥā·māh|a battle|H4421|Art | N-fs
@@ -367,9 +367,9 @@ v19 פְּלִשְׁתִּ֑ים|pə·liš·tîm|the Philistines|H6430|N-proper-
 v19 וַיַּ֡ךְ|way·yaḵ|killed|H5221|Conj-w | V-Hifil-ConsecImperf-3ms
 v19 אֶלְחָנָן֩|’el·ḥā·nān|and Elhanan|H445|N-proper-ms
 v19 בֶּן־|ben-|son|H1121|N-msc
-v19 יַעְרֵ֨י|ya‘·rê|vvv|H3296|
+v19 יַעְרֵ֨י|ya‘·rê|...|H3296|
 v19 אֹרְגִ֜ים|’ō·rə·ḡîm|of Jair|H3296|N-proper-ms
-v19 בֵּ֣ית|bêṯ|vvv|H1022|Prep
+v19 בֵּ֣ית|bêṯ|...|H1022|Prep
 v19 הַלַּחְמִ֗י|hal·laḥ·mî|the Bethlehemite|H1022|N-proper-ms
 v19 אֵ֚ת|’êṯ|-|H853|DirObjM
 v19 גָּלְיָ֣ת|gā·lə·yāṯ|[the brother of] Goliath|H1555|N-proper-ms
@@ -377,7 +377,7 @@ v19 הַגִּתִּ֔י|hag·git·tî|the Gittite|H1663|Art | N-proper-ms
 v19 וְעֵ֣ץ|wə·‘êṣ|the shaft|H6086|Conj-w | N-msc
 v19 חֲנִית֔וֹ|ḥă·nî·ṯōw|of whose spear|H2595|N-fsc | 3ms
 v19 כִּמְנ֖וֹר|kim·nō·wr|beam|H4500|Prep-k | N-msc
-v19 אֹרְגִֽים׃ס|’ō·rə·ḡîm|was like a weaver's|H707|V-Qal-Prtcpl-mp
+v19 אֹרְגִֽים׃|’ō·rə·ḡîm|was like a weaver's|H707|V-Qal-Prtcpl-mp
 v20 וַתְּהִי־|wat·tə·hî-|And there was|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v20 ע֥וֹד|‘ō·wḏ|also|H5750|Adv
 v20 מִלְחָמָ֖ה|mil·ḥā·māh|a battle|H4421|N-fs
@@ -417,4 +417,4 @@ v22 וַיִּפְּל֥וּ|way·yip·pə·lū|fell|H5307|Conj-w | V-Qal-Consec
 v22 בְיַד־|ḇə·yaḏ-|at the hands|H3027|Prep-b | N-fsc
 v22 דָּוִ֖ד|dā·wiḏ|of David|H1732|N-proper-ms
 v22 וּבְיַ֥ד|ū·ḇə·yaḏ|...|H3027|Conj-w, Prep-b | N-fsc
-v22 עֲבָדָֽיו׃פ|‘ă·ḇā·ḏāw|and his servants|H5650|N-mpc | 3ms
+v22 עֲבָדָֽיו׃|‘ă·ḇā·ḏāw|and his servants|H5650|N-mpc | 3ms

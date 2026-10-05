@@ -16,12 +16,12 @@ v1 שָֽׁמָּה׃|šām·māh|there|H8033|Adv | 3fs
 v2 וַיִּֽתְקַבְּצ֣וּ|way·yiṯ·qab·bə·ṣū|rallied|H6908|Conj-w | V-Hitpael-ConsecImperf-3mp
 v2 אֵ֠לָיו|’ê·lāw|around him|H413|Prep | 3ms
 v2 כָּל־|kāl-|And all|H3605|N-msc
-v2 אִ֨ישׁ|’îš||H376|N-ms
+v2 אִ֨ישׁ|’îš|-|H376|N-ms
 v2 מָצ֜וֹק|mā·ṣō·wq|who were distressed|H4689|N-ms
 v2 וְכָל־|wə·ḵāl|[or]|H3605|Conj-w | N-msc
 v2 אִ֨ישׁ|’îš|-|H376|N-ms
 v2 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v2 ל֤וֹ|lōw||H0|Prep | 3ms
+v2 ל֤וֹ|lōw|-|H0|Prep | 3ms
 v2 נֹשֶׁא֙|nō·še|indebted|H5378|V-Qal-Prtcpl-ms
 v2 וְכָל־|wə·ḵāl|...|H3605|Conj-w | N-msc
 v2 אִ֣ישׁ|’îš|...|H376|N-ms
@@ -67,7 +67,7 @@ v4 כָּל־|kāl-|the whole|H3605|N-msc
 v4 יְמֵ֥י|yə·mê|time|H3117|N-mpc
 v4 הֱיוֹת־|hĕ·yō·wṯ-|was|H1961|V-Qal-Inf
 v4 דָּוִ֖ד|dā·wiḏ|David|H1732|N-proper-ms
-v4 בַּמְּצוּדָֽה׃ס|bam·mə·ṣū·ḏāh|in the stronghold|H4686|Prep-b, Art | N-fs
+v4 בַּמְּצוּדָֽה׃|bam·mə·ṣū·ḏāh|in the stronghold|H4686|Prep-b, Art | N-fs
 v5 וַיֹּאמֶר֩|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v5 גָּ֨ד|gāḏ|Gad|H1410|N-proper-ms
 v5 הַנָּבִ֜יא|han·nā·ḇî|Then the prophet|H5030|Art | N-ms
@@ -85,7 +85,7 @@ v5 וַיֵּ֣לֶךְ|way·yê·leḵ|left|H1980|Conj-w | V-Qal-ConsecImperf-3
 v5 דָּוִ֔ד|dā·wiḏ|So David|H1732|N-proper-ms
 v5 וַיָּבֹ֖א|way·yā·ḇō|and went|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v5 יַ֥עַר|ya·‘ar|to the forest|H3293|N-msc
-v5 חָֽרֶת׃ס|ḥā·reṯ|of Hereth|H2802|N-proper-fs
+v5 חָֽרֶת׃|ḥā·reṯ|of Hereth|H2802|N-proper-fs
 v6 וַיִּשְׁמַ֣ע|way·yiš·ma‘|learned|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v6 שָׁא֔וּל|šā·’ūl|Soon Saul|H7586|N-proper-ms
 v6 כִּ֚י|kî|that|H3588|Conj
@@ -156,7 +156,7 @@ v8 עַבְדִּ֥י|‘aḇ·dî|my own servant|H5650|N-msc | 1cs
 v8 עָלַ֛י|‘ā·lay|against me|H5921|Prep | 1cs
 v8 לְאֹרֵ֖ב|lə·’ō·rêḇ|to lie in wait|H693|Prep-l | V-Qal-Prtcpl-ms
 v8 כַּיּ֥וֹם|kay·yō·wm|as is the case today|H3117|Prep-k, Art | N-ms
-v8 הַזֶּֽה׃ס|haz·zeh|...|H2088|Art | Pro-ms
+v8 הַזֶּֽה׃|haz·zeh|...|H2088|Art | Pro-ms
 v9 וַיַּ֜עַן|way·ya·‘an|answered|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v9 דֹּאֵ֣ג|dō·’êḡ|But Doeg|H1673|N-proper-ms
 v9 הָאֲדֹמִ֗י|hā·’ă·ḏō·mî|the Edomite|H130|Art | N-proper-ms
@@ -206,7 +206,7 @@ v11 בְּנֹ֑ב|bə·nōḇ|at Nob|H5011|Prep-b | N-proper-fs
 v11 וַיָּבֹ֥אוּ|way·yā·ḇō·’ū|of them came|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v11 כֻלָּ֖ם|ḵul·lām|And all|H3605|N-msc | 3mp
 v11 אֶל־|’el-|to|H413|Prep
-v11 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|the king|H4428|Art | N-ms
+v11 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v12 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 שָׁא֔וּל|šā·’ūl|Saul|H7586|N-proper-ms
 v12 שְֽׁמַֽע־|šə·ma‘-|Listen|H8085|V-Qal-Imp-ms
@@ -236,7 +236,7 @@ v13 לָק֥וּם|lā·qūm|so that he could rise up|H6965|Prep-l | V-Qal-Inf
 v13 אֵלַ֛י|’ê·lay|against me|H413|Prep | 1cs
 v13 לְאֹרֵ֖ב|lə·’ō·rêḇ|to lie in wait|H693|Prep-l | V-Qal-Prtcpl-ms
 v13 כַּיּ֥וֹם|kay·yō·wm|as he is doing today|H3117|Prep-k, Art | N-ms
-v13 הַזֶּֽה׃ס|haz·zeh|...|H2088|Art | Pro-ms
+v13 הַזֶּֽה׃|haz·zeh|...|H2088|Art | Pro-ms
 v14 וַיַּ֧עַן|way·ya·‘an|answered|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v14 אֲחִימֶ֛לֶךְ|’ă·ḥî·me·leḵ|Ahimelech|H288|N-proper-ms
 v14 אֶת־|’eṯ-|-|H853|DirObjM
@@ -299,7 +299,7 @@ v17 כֹּהֲנֵ֣י|kō·hă·nê|the priests|H3548|N-mpc
 v17 יְהוָ֗ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v17 כִּ֤י|kî|because|H3588|Conj
 v17 גַם־|ḡam-|they too|H1571|Conj
-v17 יָדָם֙|yā·ḏām|vvv|H3027|N-fsc | 3mp
+v17 יָדָם֙|yā·ḏām|...|H3027|N-fsc | 3mp
 v17 עִם־|‘im-|sided with|H5973|Prep
 v17 דָּוִ֔ד|dā·wiḏ|David|H1732|N-proper-ms
 v17 וְכִ֤י|wə·ḵî|For|H3588|Conj
@@ -320,7 +320,7 @@ v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 יָדָ֔ם|yā·ḏām|a hand|H3027|N-fsc | 3mp
 v17 לִפְגֹ֖עַ|lip̄·ḡō·a‘|to strike|H6293|Prep-l | V-Qal-Inf
 v17 בְּכֹהֲנֵ֥י|bə·ḵō·hă·nê|the priests|H3548|Prep-b | N-mpc
-v17 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v17 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v18 וַיֹּ֤אמֶר|way·yō·mer|ordered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v18 הַמֶּ֙לֶךְ֙|ham·me·leḵ|So the king|H4428|Art | N-ms
 v18 לְדוֹיֵג|lə·ḏō·yēḡ|Doeg|H1673|Prep-l | N-proper-ms
@@ -348,7 +348,7 @@ v19 נֹ֤ב|nōḇ|Nob|H5011|N-proper-fs
 v19 עִיר־|‘îr-|the city|H5892|N-fsc
 v19 הַכֹּֽהֲנִים֙|hak·kō·hă·nîm|of the priests|H3548|Art | N-mp
 v19 הִכָּ֣ה|hik·kāh|He also put|H5221|V-Hifil-Perf-3ms
-v19 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v19 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v19 חֶ֔רֶב|ḥe·reḇ|to the sword|H2719|N-fs
 v19 מֵאִישׁ֙|mê·’îš|with its men|H376|Prep-m | N-ms
 v19 וְעַד־|wə·‘aḏ-|and|H5704|Conj-w | Prep

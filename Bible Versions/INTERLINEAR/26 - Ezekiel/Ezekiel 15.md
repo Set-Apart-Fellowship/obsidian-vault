@@ -27,7 +27,7 @@ v3 מִמֶּ֙נּוּ֙|mim·men·nū|from it|H4480|Prep | 3ms
 v3 יָתֵ֔ד|yā·ṯêḏ|a peg|H3489|N-fs
 v3 לִתְל֥וֹת|liṯ·lō·wṯ|to hang|H8518|Prep-l | V-Qal-Inf
 v3 עָלָ֖יו|‘ā·lāw|on which|H5921|Prep | 3ms
-v3 כָּל־|kāl-|vvv|H3605|N-msc
+v3 כָּל־|kāl-|...|H3605|N-msc
 v3 כֶּֽלִי׃|ke·lî|utensils|H3627|N-ms
 v4 הִנֵּ֥ה|hin·nêh|No|H2009|Interjection
 v4 לָאֵ֖שׁ|lā·’êš|into the fire|H784|Prep-l, Art | N-cs
@@ -55,7 +55,7 @@ v5 אֲכָלַ֙תְהוּ֙|’ă·ḵā·laṯ·hū|has consumed it|H398|V-Q
 v5 וַיֵּחָ֔ר|way·yê·ḥār|and charred it|H2787|Conj-w | V-Nifal-ConsecImperf-3ms
 v5 וְנַעֲשָׂ֥ה|wə·na·‘ă·śāh|be|H6213|Conj-w | V-Nifal-ConjPerf-3ms
 v5 ע֖וֹד|‘ō·wḏ|can it ever|H5750|Adv
-v5 לִמְלָאכָֽה׃ס|lim·lā·ḵāh|useful|H4399|Prep-l | N-fs
+v5 לִמְלָאכָֽה׃|lim·lā·ḵāh|useful|H4399|Prep-l | N-fs
 v6 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v6 כֹּ֤ה|kōh|this is what|H3541|Adv
 v6 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -76,7 +76,7 @@ v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 יֹשְׁבֵ֖י|yō·šə·ḇê|the people|H3427|V-Qal-Prtcpl-mpc
 v6 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v7 וְנָתַתִּ֤י|wə·nā·ṯat·tî|And I will set|H5414|Conj-w | V-Qal-ConjPerf-1cs
-v7 אֶת־|’eṯ-||H853|DirObjM
+v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 פָּנַי֙|pā·nay|My face|H6440|N-mpc | 1cs
 v7 בָּהֶ֔ם|bā·hem|against them|H0|Prep | 3mp
 v7 מֵהָאֵ֣שׁ|mê·hā·’êš|the fire|H784|Prep-m, Art | N-cs
@@ -88,7 +88,7 @@ v7 כִּֽי־|kî-|that|H3588|Conj
 v7 אֲנִ֣י|’ă·nî|I [am]|H589|Pro-1cs
 v7 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v7 בְּשׂוּמִ֥י|bə·śū·mî|And when I set|H7760|Prep-b | V-Qal-Inf | 1cs
-v7 אֶת־|’eṯ-||H853|DirObjM
+v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 פָּנַ֖י|pā·nay|My face|H6440|N-mpc | 1cs
 v7 בָּהֶֽם׃|bā·hem|against them|H0|Prep | 3mp
 v8 וְנָתַתִּ֥י|wə·nā·ṯat·tî|Thus I will make|H5414|Conj-w | V-Qal-ConjPerf-1cs
@@ -100,4 +100,4 @@ v8 מָ֣עֲלוּ|mā·‘ă·lū|they have acted unfaithfully|H4603|V-Qal-Pe
 v8 מַ֔עַל|ma·‘al|...|H4604|N-ms
 v8 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v8 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v8 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v8 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

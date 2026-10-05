@@ -35,8 +35,8 @@ v2 Κυρίου|Kyriou|Lord|G2962|N-GMS
 v2 ἡμῶν|hēmōn|of our|G1473|PPro-G1P
 v2 Ἰησοῦ|Iēsou|Jesus|G2424|N-GMS
 v2 Χριστοῦ|Christou|Christ|G5547|N-GMS
-v2 ἐν|en|vvv|G1722|Prep
-v2 παντὶ|panti|vvv|G3956|Adj-DMS
+v2 ἐν|en|...|G1722|Prep
+v2 παντὶ|panti|...|G3956|Adj-DMS
 v2 τόπῳ|topō|everywhere|G5117|N-DMS
 v2 αὐτῶν|autōn|their [Lord]|G846|PPro-GM3P
 v2 καὶ|kai|and|G2532|Conj
@@ -93,7 +93,7 @@ v6 ἐν|en|in|G1722|Prep
 v6 ὑμῖν|hymin|you|G4771|PPro-D2P
 v7 ὥστε|hōste|Therefore|G5620|Conj
 v7 ὑμᾶς|hymas|you|G4771|PPro-A2P
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 ὑστερεῖσθαι|hystereisthai|do not lack|G5302|V-PNM/P
 v7 ἐν|en|...|G1722|Prep
 v7 μηδενὶ|mēdeni|[any]|G3367|Adj-DNS
@@ -210,7 +210,7 @@ v12 Χριστοῦ|Christou|[follow] Christ|G5547|N-GMS
 v13 Μεμέρισται|Memeristai|divided|G3307|V-RIM/P-3S
 v13 ὁ|ho|-|G3588|Art-NMS
 v13 Χριστός|Christos|{Is} Christ|G5547|N-NMS
-v13 μὴ|mē|vvv|G3361|Adv
+v13 μὴ|mē|...|G3361|Adv
 v13 Παῦλος|Paulos|{Was} Paul|G3972|N-NMS
 v13 ἐσταυρώθη|estaurōthē|crucified|G4717|V-AIP-3S
 v13 ὑπὲρ|hyper|for|G5228|Prep
@@ -245,12 +245,12 @@ v15 ὄνομα|onoma|name|G3686|N-ANS
 v15 ἐβαπτίσθητε|ebaptisthēte|you were baptized|G907|V-AIP-2P
 v16 ἐβάπτισα|ebaptisa|I also baptized|G907|V-AIA-1S
 v16 δὲ|de|Yes|G1161|Conj
-v16 καὶ|kai|vvv|G2532|Conj
+v16 καὶ|kai|...|G2532|Conj
 v16 τὸν|ton|the|G3588|Art-AMS
 v16 Στεφανᾶ|Stephana|of Stephanas|G4734|N-GMS
 v16 οἶκον|oikon|household|G3624|N-AMS
 v16 λοιπὸν|loipon|beyond that|G3063|Adj-ANS
-v16 οὐκ|ouk|vvv|G3756|Adv
+v16 οὐκ|ouk|...|G3756|Adv
 v16 οἶδα|oida|I do not remember|G1492|V-RIA-1S
 v16 εἴ|ei|if|G1487|Conj
 v16 τινα|tina|anyone|G5100|IPro-AMS
@@ -465,7 +465,7 @@ v28 καταργήσῃ|katargēsē|nullify|G2673|V-ASA-3S
 v29 ὅπως|hopōs|so that|G3704|Conj
 v29 μὴ|mē|no|G3361|Adv
 v29 καυχήσηται|kauchēsētai|may boast|G2744|V-ASM-3S
-v29 πᾶσα|pasa|vvv|G3956|Adj-NFS
+v29 πᾶσα|pasa|...|G3956|Adj-NFS
 v29 σὰρξ|sarx|[one]|G4561|N-NFS
 v29 ἐνώπιον|enōpion|in [His] presence|G1799|Prep
 v29 τοῦ|tou|...|G3588|Art-GMS

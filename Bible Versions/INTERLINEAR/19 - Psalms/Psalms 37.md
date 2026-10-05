@@ -74,7 +74,7 @@ v10 וְאֵ֣ין|wə·’ên|will be no more|H369|Conj-w | Adv
 v10 רָשָׁ֑ע|rā·šā‘|and the wicked|H7563|Adj-ms
 v10 וְהִתְבּוֹנַ֖נְתָּ|wə·hiṯ·bō·w·nan·tā|though you look|H995|Conj-w | V-Hitpael-ConjPerf-2ms
 v10 עַל־|‘al-|for them|H5921|Prep
-v10 מְקוֹמ֣וֹ|mə·qō·w·mōw|vvv|H4725|N-msc | 3ms
+v10 מְקוֹמ֣וֹ|mə·qō·w·mōw|...|H4725|N-msc | 3ms
 v10 וְאֵינֶֽנּוּ׃|wə·’ê·nen·nū|they will not be found|H369|Conj-w | Adv | 3ms
 v11 וַעֲנָוִ֥ים|wa·‘ă·nā·wîm|But the meek|H6035|Conj-w | Adj-mp
 v11 יִֽירְשׁוּ־|yî·rə·šū-|will inherit|H3423|V-Qal-Imperf-3mp
@@ -91,7 +91,7 @@ v12 עָלָ֣יו|‘ā·lāw|at them|H5921|Prep | 3ms
 v12 שִׁנָּֽיו׃|šin·nāw|their teeth|H8127|N-cdc | 3ms
 v13 אֲדֹנָ֥י|’ă·ḏō·nāy|but the Lord|H136|N-proper-ms
 v13 יִשְׂחַק־|yiś·ḥaq-|laughs|H7832|V-Qal-Imperf-3ms
-v13 ל֑וֹ|lōw||H0|Prep | 3ms
+v13 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v13 כִּֽי־|kî-|-|H3588|Conj
 v13 רָ֝אָ֗ה|rā·’āh|seeing|H7200|V-Qal-Perf-3ms
 v13 כִּֽי־|kî-|that|H3588|Conj

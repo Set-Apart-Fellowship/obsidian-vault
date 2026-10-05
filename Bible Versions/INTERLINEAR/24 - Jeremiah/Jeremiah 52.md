@@ -143,7 +143,7 @@ v10 בְּנֵ֥י|bə·nê|the sons|H1121|N-mpc
 v10 צִדְקִיָּ֖הוּ|ṣiḏ·qî·yā·hū|of Zedekiah|H6667|N-proper-ms
 v10 לְעֵינָ֑יו|lə·‘ê·nāw|before his eyes|H5869|Prep-l | N-cdc | 3ms
 v10 וְגַ֛ם|wə·ḡam|and he also|H1571|Conj
-v10 אֶת־|’eṯ-||H853|DirObjM
+v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 כָּל־|kāl-|all|H3605|N-msc
 v10 שָׂרֵ֥י|śā·rê|the officials|H8269|N-mpc
 v10 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
@@ -283,7 +283,7 @@ v18 כְּלֵ֧י|kə·lê|the articles|H3627|N-mpc
 v18 הַנְּחֹ֛שֶׁת|han·nə·ḥō·šeṯ|of bronze|H5178|Art | N-fs
 v18 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v18 יְשָׁרְת֥וּ|yə·šā·rə·ṯū|used in the temple service|H8334|V-Piel-Imperf-3mp
-v18 בָהֶ֖ם|ḇā·hem||H0|Prep | 3mp
+v18 בָהֶ֖ם|ḇā·hem|-|H0|Prep | 3mp
 v18 לָקָֽחוּ׃|lā·qā·ḥū|took away|H3947|V-Qal-Perf-3cp
 v19 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v19 הַ֠סִּפִּים|has·sip·pîm|the basins|H5592|Art | N-mp
@@ -339,7 +339,7 @@ v21 אַמָּה֙|’am·māh|cubits|H520|N-fs
 v21 קוֹמָה|qō·må̄h|tall|H6967|N-fsc
 v21 הָעַמֻּ֣ד|hā·‘am·muḏ|...|H5982|Art | N-ms
 v21 הָאֶחָ֔ד|hā·’e·ḥāḏ|Each|H259|Art | Number-ms
-v21 וְח֛וּט|wə·ḥūṭ||H2339|Conj-w | N-msc
+v21 וְח֛וּט|wə·ḥūṭ|-|H2339|Conj-w | N-msc
 v21 שְׁתֵּים־|šə·têm-|and twelve|H8147|Number-fd
 v21 עֶשְׂרֵ֥ה|‘eś·rêh|...|H6240|Number-fs
 v21 אַמָּ֖ה|’am·māh|cubits|H520|N-fs
@@ -352,7 +352,7 @@ v22 וְכֹתֶ֨רֶת|wə·ḵō·ṯe·reṯ|capital|H3805|Conj-w | N-fs
 v22 עָלָ֜יו|‘ā·lāw|atop|H5921|Prep | 3ms
 v22 נְחֹ֗שֶׁת|nə·ḥō·šeṯ|The bronze|H5178|N-fs
 v22 וְקוֹמַ֨ת|wə·qō·w·maṯ|high|H6967|Conj-w | N-fsc
-v22 הַכֹּתֶ֥רֶת|hak·kō·ṯe·reṯ||H3805|Art | N-fs
+v22 הַכֹּתֶ֥רֶת|hak·kō·ṯe·reṯ|-|H3805|Art | N-fs
 v22 הָאַחַת֮|hā·’a·ḥaṯ|one [pillar]|H259|Art | Number-fs
 v22 חָמֵ֣שׁ|ḥā·mêš|[was] five|H2568|Number-fs
 v22 אַמּוֹת֒|’am·mō·wṯ|cubits|H520|N-fp
@@ -458,7 +458,7 @@ v28 נְבֽוּכַדְרֶאצַּ֑ר|nə·ḇū·ḵaḏ·reṣ·ṣar|Nebuc
 v28 בִּשְׁנַת־|biš·naṯ-|year|H8141|Prep-b | N-fsc
 v28 שֶׁ֕בַע|še·ḇa‘|in the seventh|H7651|Number-fs
 v28 יְהוּדִ֕ים|yə·hū·ḏîm|Jews|H3064|N-proper-mp
-v28 שְׁלֹ֥שֶׁת|šə·lō·šeṯ|3,023 {}|H7969|Number-msc
+v28 שְׁלֹ֥שֶׁת|šə·lō·šeṯ|3,023|H7969|Number-msc
 v28 אֲלָפִ֖ים|’ă·lā·p̄îm|...|H505|Number-mp
 v28 וְעֶשְׂרִ֥ים|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
 v28 וּשְׁלֹשָֽׁה׃|ū·šə·lō·šāh|...|H7969|Conj-w | Number-ms
@@ -491,7 +491,7 @@ v30 נֶ֕פֶשׁ|ne·p̄eš|...|H5315|N-fs
 v30 אַרְבַּ֥עַת|’ar·ba·‘aṯ|4,600|H702|Number-msc
 v30 אֲלָפִ֖ים|’ă·lā·p̄îm|...|H505|Number-mp
 v30 וְשֵׁ֥שׁ|wə·šêš|...|H8337|Conj-w | Number-fs
-v30 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v30 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v31 וַיְהִי֩|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v31 בִשְׁלֹשִׁ֨ים|ḇiš·lō·šîm|of the thirty-seventh|H7970|Prep-b | Number-cp
 v31 וָשֶׁ֜בַע|wā·še·ḇa‘|...|H7651|Conj-w | Number-fs
@@ -507,7 +507,7 @@ v31 בְּעֶשְׂרִ֥ים|bə·‘eś·rîm|On the twenty-fifth|H6242|Prep-
 v31 וַחֲמִשָּׁ֖ה|wa·ḥă·miš·šāh|...|H2568|Conj-w | Number-ms
 v31 לַחֹ֑דֶשׁ|la·ḥō·ḏeš|...|H2320|Prep-l, Art | N-ms
 v31 נָשָׂ֡א|nā·śā|he pardoned|H5375|V-Qal-Perf-3ms
-v31 אֱוִ֣יל|’ĕ·wîl|vvv|H192|N-proper-ms
+v31 אֱוִ֣יל|’ĕ·wîl|...|H192|N-proper-ms
 v31 מְרֹדַךְ֩|mə·rō·ḏaḵ|of Evil-merodach|H192|N-msc
 v31 מֶ֨לֶךְ|me·leḵ|king|H4428|N-proper-fs
 v31 בָּבֶ֜ל|bā·ḇel|of Babylon|H894|Prep | N-fsc

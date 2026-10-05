@@ -55,7 +55,7 @@ v5 הִרְבִּ֣יתָ|hir·bî·ṯā|you have increased|H7235|V-Hifil-Perf-
 v5 חֵילֶ֑ךָ|ḥê·le·ḵā|your wealth|H2428|N-msc | 2ms
 v5 וַיִּגְבַּ֥הּ|way·yiḡ·bah|has grown proud|H1361|Conj-w | V-Qal-ConsecImperf-3ms
 v5 לְבָבְךָ֖|lə·ḇā·ḇə·ḵā|but your heart|H3824|N-msc | 2ms
-v5 בְּחֵילֶֽךָ׃ס|bə·ḥê·le·ḵā|because of [it]|H2428|Prep-b | N-msc | 2ms
+v5 בְּחֵילֶֽךָ׃|bə·ḥê·le·ḵā|because of [it]|H2428|Prep-b | N-msc | 2ms
 v6 לָכֵ֕ן|lā·ḵên|Therefore|H3651|Adv
 v6 כֹּ֥ה|kōh|this is what|H3541|Adv
 v6 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -110,7 +110,7 @@ v10 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v10 דִבַּ֔רְתִּי|ḏib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
 v10 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v10 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v10 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v10 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v11 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v11 דְבַר־|ḏə·ḇar-|Again the word|H1697|N-msc
 v11 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -157,7 +157,7 @@ v13 וְזָהָ֑ב|wə·zā·hāḇ|in gold|H2091|Conj-w | N-ms
 v13 מְלֶ֨אכֶת|mə·le·ḵeṯ|were crafted|H4399|N-fsc
 v13 תֻּפֶּ֤יךָ|tup·pe·ḵā|and settings|H8596|N-mpc | 2ms
 v13 וּנְקָבֶ֙יךָ֙|ū·nə·qā·ḇe·ḵā|Your mountings|H5345|Conj-w | N-mpc | 2ms
-v13 בָּ֔ךְ|bāḵ||H0|Prep | 2ms
+v13 בָּ֔ךְ|bāḵ|-|H0|Prep | 2ms
 v13 בְּי֥וֹם|bə·yō·wm|on the day|H3117|Prep-b | N-msc
 v13 הִבָּרַאֲךָ֖|hib·bā·ra·’ă·ḵā|of your creation|H1254|V-Nifal-Inf | 2ms
 v13 כּוֹנָֽנוּ׃|kō·w·nā·nū|prepared|H3559|V-Pual-Perf-3cp
@@ -212,7 +212,7 @@ v17 לִפְנֵ֧י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v17 מְלָכִ֛ים|mə·lā·ḵîm|kings|H4428|N-mp
 v17 נְתַתִּ֖יךָ|nə·ṯat·tî·ḵā|I made you|H5414|V-Qal-Perf-1cs | 2ms
 v17 לְרַ֥אֲוָה|lə·ra·’ă·wāh|a spectacle|H7200|Prep-l | V-Qal-Inf
-v17 בָֽךְ׃|ḇāḵ||H0|Prep | 2ms
+v17 בָֽךְ׃|ḇāḵ|-|H0|Prep | 2ms
 v18 מֵרֹ֣ב|mê·rōḇ|By the multitude|H7230|Prep-m | N-msc
 v18 עֲוֺנֶ֗יךָ|‘ă·wō·ne·ḵā|of your iniquities|H5771|N-cpc | 2ms
 v18 בְּעֶ֙וֶל֙|bə·‘e·wel|and the dishonesty|H5766|Prep-b | N-msc
@@ -240,7 +240,7 @@ v19 בַּלָּה֣וֹת|bal·lā·hō·wṯ|to a horrible end|H1091|N-fp
 v19 הָיִ֔יתָ|hā·yî·ṯā|You have come|H1961|V-Qal-Perf-2ms
 v19 וְאֵינְךָ֖|wə·’ê·nə·ḵā|and [will] [be] no more|H369|Conj-w | Adv | 2ms
 v19 עַד־|‘aḏ-|...|H5704|Prep
-v19 עוֹלָֽם׃פ|‘ō·w·lām|...|H5769|N-ms
+v19 עוֹלָֽם׃|‘ō·w·lām|...|H5769|N-ms
 v20 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v20 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v20 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -305,7 +305,7 @@ v24 וְיָ֣דְע֔וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj
 v24 כִּ֥י|kî|that|H3588|Conj
 v24 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v24 אֲדֹנָ֥י|’ă·ḏō·nāy|am the Lord|H136|N-proper-ms
-v24 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v24 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v25 כֹּֽה־|kōh-|This is what|H3541|Adv
 v25 אָמַר֮|’ā·mar|says|H559|V-Qal-Perf-3ms
 v25 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -318,7 +318,7 @@ v25 מִן־|min-|from|H4480|Prep
 v25 הָֽעַמִּים֙|hā·‘am·mîm|the peoples|H5971|Art | N-mp
 v25 אֲשֶׁ֣ר|’ă·šer|among whom|H834|Pro-r
 v25 נָפֹ֣צוּ|nā·p̄ō·ṣū|they have been scattered|H6327|V-Nifal-Perf-3cp
-v25 בָ֔ם|ḇām||H0|Prep | 3mp
+v25 בָ֔ם|ḇām|-|H0|Prep | 3mp
 v25 וְנִקְדַּ֥שְׁתִּי|wə·niq·daš·tî|I will show Myself holy|H6942|Conj-w | V-Nifal-ConjPerf-1cs
 v25 בָ֖ם|ḇām|among them|H0|Prep | 3mp
 v25 לְעֵינֵ֣י|lə·‘ê·nê|in the sight|H5869|Prep-l | N-cdc
@@ -349,4 +349,4 @@ v26 וְיָ֣דְע֔וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj
 v26 כִּ֛י|kî|that|H3588|Conj
 v26 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v26 יְהוָ֖ה|Yah·weh|am the LORD|H3068|N-proper-ms
-v26 אֱלֹהֵיהֶֽם׃ס|’ĕ·lō·hê·hem|their God|H430|N-mpc | 3mp
+v26 אֱלֹהֵיהֶֽם׃|’ĕ·lō·hê·hem|their God|H430|N-mpc | 3mp

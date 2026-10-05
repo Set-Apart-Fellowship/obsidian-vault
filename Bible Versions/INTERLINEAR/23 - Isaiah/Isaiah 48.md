@@ -28,7 +28,7 @@ v2 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 נִסְמָ֑כוּ|nis·mā·ḵū|and lean|H5564|V-Nifal-Perf-3cp
 v2 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v2 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
-v2 שְׁמֽוֹ׃ס|šə·mōw|[is] His name|H8034|N-msc | 3ms
+v2 שְׁמֽוֹ׃|šə·mōw|[is] His name|H8034|N-msc | 3ms
 v3 הָרִֽאשֹׁנוֹת֙|hā·ri·šō·nō·wṯ|the former things|H7223|Art | Adj-fp
 v3 מֵאָ֣ז|mê·’āz|long ago|H227|Prep-m | Adv
 v3 הִגַּ֔דְתִּי|hig·gaḏ·tî|I foretold|H5046|V-Hifil-Perf-1cs
@@ -102,14 +102,14 @@ v8 תִּבְגּ֔וֹד|tiḇ·gō·wḏ|...|H898|V-Qal-Imperf-2ms
 v8 וּפֹשֵׁ֥עַ|ū·p̄ō·šê·a‘|a rebel|H6586|Conj-w | V-Qal-Prtcpl-ms
 v8 מִבֶּ֖טֶן|mib·be·ṭen|from birth|H990|Prep-m | N-fs
 v8 קֹ֥רָא|qō·rā|you have been called|H7121|V-Pual-Perf-3ms
-v8 לָֽךְ׃|lāḵ||H0|Prep | 2fs
+v8 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs
 v9 לְמַ֤עַן|lə·ma·‘an|For the sake|H4616|Prep
 v9 שְׁמִי֙|šə·mî|of My name|H8034|N-msc | 1cs
 v9 אַאֲרִ֣יךְ|’a·’ă·rîḵ|I will delay|H748|V-Hifil-Imperf-1cs
 v9 אַפִּ֔י|’ap·pî|My wrath|H639|N-msc | 1cs
 v9 וּתְהִלָּתִ֖י|ū·ṯə·hil·lā·ṯî|for the sake of My praise|H8416|Conj-w | N-fsc | 1cs
 v9 אֶחֱטָם־|’e·ḥĕ·ṭām-|I will restrain it|H2413|V-Qal-Imperf-1cs
-v9 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v9 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v9 לְבִלְתִּ֖י|lə·ḇil·tî|so that you will not|H1115|Prep-l
 v9 הַכְרִיתֶֽךָ׃|haḵ·rî·ṯe·ḵā|be cut off|H3772|V-Hifil-Inf | 2ms
 v10 הִנֵּ֥ה|hin·nêh|See|H2009|Interjection
@@ -128,7 +128,7 @@ v11 יֵחָ֑ל|yê·ḥāl|can I let Myself be defamed|H2490|V-Nifal-Imperf-3m
 v11 וּכְבוֹדִ֖י|ū·ḵə·ḇō·w·ḏî|My glory|H3519|Conj-w | N-msc | 1cs
 v11 לְאַחֵ֥ר|lə·’a·ḥêr|to another|H312|Prep-l | Adj-ms
 v11 לֹֽא־|lō-|I will not|H3808|Adv-NegPrt
-v11 אֶתֵּֽן׃ס|’et·tên|yield|H5414|V-Qal-Imperf-1cs
+v11 אֶתֵּֽן׃|’et·tên|yield|H5414|V-Qal-Imperf-1cs
 v12 שְׁמַ֤ע|šə·ma‘|Listen|H8085|V-Qal-Imp-ms
 v12 אֵלַי֙|’ê·lay|to Me|H413|Prep | 1cs
 v12 יַֽעֲקֹ֔ב|ya·‘ă·qōḇ|O Jacob|H3290|N-proper-ms
@@ -192,7 +192,7 @@ v16 וְעַתָּ֗ה|wə·‘at·tāh|And now|H6258|Conj-w | Adv
 v16 אֲדֹנָ֧י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v16 יְהוִ֛ה|Yah·weh|GOD|H3069|N-proper-ms
 v16 שְׁלָחַ֖נִי|šə·lā·ḥa·nî|has sent me|H7971|V-Qal-Perf-3ms | 1cs
-v16 וְרוּחֽוֹ׃פ|wə·rū·ḥōw|accompanied by His Spirit|H7307|Conj-w | N-csc | 3ms
+v16 וְרוּחֽוֹ׃|wə·rū·ḥōw|accompanied by His Spirit|H7307|Conj-w | N-csc | 3ms
 v17 כֹּֽה־|kōh-|Thus|H3541|Adv
 v17 אָמַ֧ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v17 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -262,4 +262,4 @@ v22 אֵ֣ין|’ên|There is no|H369|Adv
 v22 שָׁל֔וֹם|šā·lō·wm|peace|H7965|N-ms
 v22 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v22 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v22 לָרְשָׁעִֽים׃ס|lā·rə·šā·‘îm|for the wicked|H7563|Prep-l, Art | Adj-mp
+v22 לָרְשָׁעִֽים׃|lā·rə·šā·‘îm|for the wicked|H7563|Prep-l, Art | Adj-mp

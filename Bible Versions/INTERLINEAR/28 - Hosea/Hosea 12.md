@@ -40,8 +40,8 @@ v4 מַלְאָךְ֙|mal·’āḵ|the angel|H4397|N-ms
 v4 וַיֻּכָ֔ל|way·yu·ḵāl|and prevailed|H3201|Conj-w | V-Qal-ConsecImperf-3ms
 v4 בָּכָ֖ה|bā·ḵāh|he wept|H1058|V-Qal-Perf-3ms
 v4 וַיִּתְחַנֶּן־|way·yiṯ·ḥan·nen-|and sought His favor|H2603|Conj-w | V-Hitpael-ConsecImperf-3ms
-v4 ל֑וֹ|lōw||H0|Prep | 3ms
-v4 בֵּֽית־|bêṯ-||H1008|Prep
+v4 ל֑וֹ|lōw|-|H0|Prep | 3ms
+v4 בֵּֽית־|bêṯ-|-|H1008|Prep
 v4 אֵל֙|’êl|at Bethel|H1008|N-proper-fs
 v4 יִמְצָאֶ֔נּוּ|yim·ṣā·’en·nū|he found Him|H4672|V-Qal-Imperf-3ms | 3ms
 v4 וְשָׁ֖ם|wə·šām|there|H8033|Conj-w | Adv

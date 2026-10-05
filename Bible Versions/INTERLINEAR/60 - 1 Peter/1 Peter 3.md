@@ -22,7 +22,7 @@ v1 λόγου|logou|words|G3056|N-GMS
 v1 κερδηθήσονται|kerdēthēsontai|they will be won over|G2770|V-FIP-3P
 v2 ἐποπτεύσαντες|epopteusantes|when they see|G2029|V-APA-NMP
 v2 τὴν|tēn|-|G3588|Art-AFS
-v2 ἐν|en|vvv|G1722|Prep
+v2 ἐν|en|...|G1722|Prep
 v2 φόβῳ|phobō|[and] reverent|G5401|N-DMS
 v2 ἁγνὴν|hagnēn|pure|G53|Adj-AFS
 v2 ἀναστροφὴν|anastrophēn|demeanor|G391|N-AFS
@@ -115,13 +115,13 @@ v7 χάριτος|charitos|of [the] gracious gift|G5485|N-GFS
 v7 ζωῆς|zōēs|of life|G2222|N-GFS
 v7 εἰς|eis|so that|G1519|Prep
 v7 τὸ|to|-|G3588|Art-ANS
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 ἐνκόπτεσθαι|enkoptesthai|will not be hindered|G1465|V-PNM/P
 v7 τὰς|tas|-|G3588|Art-AFP
 v7 προσευχὰς|proseuchas|prayers|G4335|N-AFP
 v7 ὑμῶν|hymōn|your|G4771|PPro-G2P
-v8 Τὸ|To|vvv|G3588|Art-ANS
-v8 δὲ|de|vvv|G1161|Conj
+v8 Τὸ|To|...|G3588|Art-ANS
+v8 δὲ|de|...|G1161|Conj
 v8 τέλος|telos|Finally|G5056|N-ANS
 v8 πάντες|pantes|all [of you]|G3956|Adj-VMP
 v8 ὁμόφρονες|homophrones|[be] like-minded|G3675|Adj-NMP
@@ -129,7 +129,7 @@ v8 συμπαθεῖς|sympatheis|[and] sympathetic|G4835|Adj-NMP
 v8 φιλάδελφοι|philadelphoi|love as brothers|G5361|Adj-NMP
 v8 εὔσπλαγχνοι|eusplanchnoi|[be] tenderhearted|G2155|Adj-NMP
 v8 ταπεινόφρονες|tapeinophrones|[and] humble|G5012|Adj-NMP
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 ἀποδιδόντες|apodidontes|Do not repay|G591|V-PPA-NMP
 v9 κακὸν|kakon|evil|G2556|Adj-ANS
 v9 ἀντὶ|anti|with|G473|Prep
@@ -218,9 +218,9 @@ v14 Τὸν|Ton|-|G3588|Art-AMS
 v14 δὲ|de|-|G1161|Conj
 v14 φόβον|phobon|they fear|G5401|N-AMS
 v14 αὐτῶν|autōn|what|G846|PPro-GM3P
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 φοβηθῆτε|phobēthēte|Do not fear|G5399|V-ASP-2P
-v14 μηδὲ|mēde|vvv|G3366|Conj
+v14 μηδὲ|mēde|...|G3366|Conj
 v14 ταραχθῆτε|tarachthēte|do not be shaken|G5015|V-ASP-2P
 v15 Κύριον|Kyrion|[as] Lord|G2962|N-AMS
 v15 δὲ|de|But|G1161|Conj
@@ -254,8 +254,8 @@ v16 συνείδησιν|syneidēsin|conscience|G4893|N-AFS
 v16 ἔχοντες|echontes|keeping|G2192|V-PPA-NMP
 v16 ἀγαθήν|agathēn|a clear|G18|Adj-AFS
 v16 ἵνα|hina|so that|G2443|Conj
-v16 ἐν|en|vvv|G1722|Prep
-v16 ᾧ|hō|vvv|G3739|RelPro-DNS
+v16 ἐν|en|...|G1722|Prep
+v16 ᾧ|hō|...|G3739|RelPro-DNS
 v16 καταλαλεῖσθε|katalaleisthe|those who slander you|G2635|V-PIM/P-2P
 v16 καταισχυνθῶσιν|kataischynthōsin|may be put to shame|G2617|V-ASP-3P
 v16 οἱ|hoi|...|G3588|Art-NMP
@@ -301,7 +301,7 @@ v18 δὲ|de|but|G1161|Conj
 v18 πνεύματι|pneumati|in [the] Spirit|G4151|N-DNS
 v19 ἐν|en|in|G1722|Prep
 v19 ᾧ|hō|whom|G3739|RelPro-DNS
-v19 καὶ|kai|vvv|G2532|Conj
+v19 καὶ|kai|...|G2532|Conj
 v19 τοῖς|tois|to the|G3588|Art-DNP
 v19 ἐν|en|in|G1722|Prep
 v19 φυλακῇ|phylakē|prison|G5438|N-DFS

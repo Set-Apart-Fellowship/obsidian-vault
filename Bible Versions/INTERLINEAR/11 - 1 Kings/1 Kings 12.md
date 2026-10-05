@@ -53,7 +53,7 @@ v4 נָתַ֥ן|nā·ṯan|he put|H5414|V-Qal-Perf-3ms
 v4 עָלֵ֖ינוּ|‘ā·lê·nū|on us|H5921|Prep | 1cp
 v4 וְנַעַבְדֶֽךָּ׃|wə·na·‘aḇ·ḏe·kā|and we will serve you|H5647|Conj-w | V-Qal-ConjImperf.h-1cp | 2ms
 v5 וַיֹּ֣אמֶר|way·yō·mer|Rehoboam answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v5 אֲלֵיהֶ֗ם|’ă·lê·hem||H413|Prep | 3mp
+v5 אֲלֵיהֶ֗ם|’ă·lê·hem|-|H413|Prep | 3mp
 v5 לְכ֥וּ|lə·ḵū|Go away|H1980|V-Qal-Imp-mp
 v5 עֹ֛ד|‘ōḏ|for|H5750|Adv
 v5 שְׁלֹשָׁ֥ה|šə·lō·šāh|three|H7969|Number-ms
@@ -68,7 +68,7 @@ v6 רְחַבְעָ֗ם|rə·ḥaḇ·‘ām|Rehoboam|H7346|N-proper-ms
 v6 אֶת־|’eṯ-|with|H854|Prep
 v6 הַזְּקֵנִים֙|haz·zə·qê·nîm|the elders|H2205|Art | Adj-mp
 v6 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
-v6 הָי֣וּ|hā·yū|vvv|H1961|V-Qal-Perf-3cp
+v6 הָי֣וּ|hā·yū|...|H1961|V-Qal-Perf-3cp
 v6 עֹמְדִ֗ים|‘ō·mə·ḏîm|had served|H5975|V-Qal-Prtcpl-mp
 v6 אֶת־|’eṯ-|...|H854|DirObjM
 v6 פְּנֵי֙|pə·nê|...|H6440|N-cpc
@@ -86,7 +86,7 @@ v6 הָֽעָם־|hā·‘ām-|people|H5971|Art | N-ms
 v6 הַזֶּ֖ה|haz·zeh|to these|H2088|Art | Pro-ms
 v6 דָּבָֽר׃|dā·ḇār|-|H1697|N-ms
 v7 וַיְדַבֵּר|way·ḏab·bēr|They replied|H1696|Conj-w | V-Piel-ConsecImperf-3mp
-v7 אֵלָ֜יו|’ê·lāw||H413|Prep | 3ms
+v7 אֵלָ֜יו|’ê·lāw|-|H413|Prep | 3ms
 v7 לֵאמֹ֗ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v7 אִם־|’im-|If|H518|Conj
 v7 הַ֠יּוֹם|hay·yō·wm|this day|H3117|Art | N-ms
@@ -109,8 +109,8 @@ v8 וַֽיַּעֲזֹ֛ב|way·ya·‘ă·zōḇ|But [Rehoboam] rejected|H580
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 עֲצַ֥ת|‘ă·ṣaṯ|the advice|H6098|N-fsc
 v8 הַזְּקֵנִ֖ים|haz·zə·qê·nîm|of the elders|H2205|Art | Adj-mp
-v8 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
-v8 יְעָצֻ֑הוּ|yə·‘ā·ṣu·hū|vvv|H3289|V-Qal-Perf-3cp | 3ms
+v8 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
+v8 יְעָצֻ֑הוּ|yə·‘ā·ṣu·hū|...|H3289|V-Qal-Perf-3cp | 3ms
 v8 וַיִּוָּעַ֗ץ|way·yiw·wā·‘aṣ|instead, he consulted|H3289|Conj-w | V-Nifal-ConsecImperf-3ms
 v8 אֶת־|’eṯ-|...|H854|DirObjM
 v8 הַיְלָדִים֙|hay·lā·ḏîm|the young men|H3206|Art | N-mp
@@ -142,12 +142,12 @@ v9 נָתַ֥ן|nā·ṯan|put|H5414|V-Qal-Perf-3ms
 v9 אָבִ֖יךָ|’ā·ḇî·ḵā|your father|H1|N-msc | 2ms
 v9 עָלֵֽינוּ׃|‘ā·lê·nū|on us|H5921|Prep | 1cp
 v10 וַיְדַבְּר֣וּ|way·ḏab·bə·rū|replied|H1696|Conj-w | V-Piel-ConsecImperf-3mp
-v10 אֵלָ֗יו|’ê·lāw||H413|Prep | 3ms
+v10 אֵלָ֗יו|’ê·lāw|-|H413|Prep | 3ms
 v10 הַיְלָדִים֙|hay·lā·ḏîm|The young men|H3206|Art | N-mp
 v10 אֲשֶׁ֨ר|’ă·šer|who|H834|Pro-r
 v10 גָּדְל֣וּ|gā·ḏə·lū|had grown up|H1431|V-Qal-Perf-3cp
 v10 אִתּוֹ֮|’it·tōw|with him|H854|Prep | 3ms
-v10 לֵאמֹר֒|lê·mōr||H559|Prep-l | V-Qal-Inf
+v10 לֵאמֹר֒|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v10 כֹּֽה־|kōh-|This is how|H3541|Adv
 v10 תֹאמַ֣ר|ṯō·mar|you should answer|H559|V-Qal-Imperf-2ms
 v10 לָעָ֣ם|lā·‘ām|people|H5971|Prep-l, Art | N-ms
@@ -268,7 +268,7 @@ v16 לֹֽא־|lō-|had refused|H3808|Adv-NegPrt
 v16 שָׁמַ֣ע|šā·ma‘|to listen|H8085|V-Qal-Perf-3ms
 v16 הַמֶּלֶךְ֮|ham·me·leḵ|the king|H4428|Art | N-ms
 v16 אֲלֵיהֶם֒|’ă·lê·hem|to them|H413|Prep | 3mp
-v16 וַיָּשִׁ֣בוּ|way·yā·ši·ḇū||H7725|Conj-w | V-Hifil-ConsecImperf-3mp
+v16 וַיָּשִׁ֣בוּ|way·yā·ši·ḇū|-|H7725|Conj-w | V-Hifil-ConsecImperf-3mp
 v16 הָעָ֣ם|hā·‘ām|[they]|H5971|Art | N-ms
 v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 הַמֶּ֣לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
@@ -298,7 +298,7 @@ v17 בְּעָרֵ֣י|bə·‘ā·rê|in the cities|H5892|Prep-b | N-fpc
 v17 יְהוּדָ֑ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v17 וַיִּמְלֹ֥ךְ|way·yim·lōḵ|still reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v17 עֲלֵיהֶ֖ם|‘ă·lê·hem|over|H5921|Prep | 3mp
-v17 רְחַבְעָֽם׃פ|rə·ḥaḇ·‘ām|but Rehoboam|H7346|N-proper-ms
+v17 רְחַבְעָֽם׃|rə·ḥaḇ·‘ām|but Rehoboam|H7346|N-proper-ms
 v18 וַיִּשְׁלַ֞ח|way·yiš·laḥ|sent out|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v18 הַמֶּ֣לֶךְ|ham·me·leḵ|Then King|H4428|Art | N-ms
 v18 רְחַבְעָ֗ם|rə·ḥaḇ·‘ām|Rehoboam|H7346|N-proper-ms
@@ -326,8 +326,8 @@ v19 בְּבֵ֣ית|bə·ḇêṯ|against the house|H1004|Prep-b | N-msc
 v19 דָּוִ֔ד|dā·wiḏ|of David|H1732|N-proper-ms
 v19 עַ֖ד|‘aḏ|So to|H5704|Prep
 v19 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v19 הַזֶּֽה׃ס|haz·zeh|this|H2088|Art | Pro-ms
-v20 וַיְהִ֞י|way·hî|vvv|H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v19 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
+v20 וַיְהִ֞י|way·hî|...|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v20 כִּשְׁמֹ֤עַ|kiš·mō·a‘|heard|H8085|Prep-k | V-Qal-Inf
 v20 כָּל־|kāl-|When all|H3605|N-msc
 v20 יִשְׂרָאֵל֙|yiś·rā·’êl|Israel|H3478|N-proper-ms
@@ -364,7 +364,7 @@ v21 יְהוּדָ֜ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v21 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v21 שֵׁ֣בֶט|šê·ḇeṭ|and the tribe|H7626|N-msc
 v21 בִּנְיָמִ֗ן|bin·yā·min|of Benjamin|H1144|N-proper-ms
-v21 מֵאָ֨ה|mê·’āh|180,000 {}|H3967|Number-fs
+v21 מֵאָ֨ה|mê·’āh|180,000|H3967|Number-fs
 v21 וּשְׁמֹנִ֥ים|ū·šə·mō·nîm|...|H8084|Conj-w | Number-cp
 v21 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v21 בָּח֖וּר|bā·ḥūr|chosen|H977|V-Qal-QalPassPrtcpl-ms
@@ -379,7 +379,7 @@ v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 הַמְּלוּכָ֔ה|ham·mə·lū·ḵāh|the kingdom|H4410|Art | N-fs
 v21 לִרְחַבְעָ֖ם|lir·ḥaḇ·‘ām|to Rehoboam|H7346|Prep-l | N-proper-ms
 v21 בֶּן־|ben-|son|H1121|N-msc
-v21 שְׁלֹמֹֽה׃פ|šə·lō·mōh|of Solomon|H8010|N-proper-ms
+v21 שְׁלֹמֹֽה׃|šə·lō·mōh|of Solomon|H8010|N-proper-ms
 v22 וַיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v22 דְּבַ֣ר|də·ḇar|But the word|H1697|N-msc
 v22 הָֽאֱלֹהִ֔ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
@@ -429,7 +429,7 @@ v24 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v24 וַיָּשֻׁ֥בוּ|way·yā·šu·ḇū|and turned back|H7725|Conj-w | V-Qal-ConsecImperf-3mp
 v24 לָלֶ֖כֶת|lā·le·ḵeṯ|...|H1980|Prep-l | V-Qal-Inf
 v24 כִּדְבַ֥ר|kiḏ·ḇar|according to the word|H1697|Prep-k | N-msc
-v24 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v24 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v25 וַיִּ֨בֶן|way·yi·ḇen|built|H1129|Conj-w | V-Qal-ConsecImperf-3ms
 v25 יָרָבְעָ֧ם|yā·rā·ḇə·‘ām|Then Jeroboam|H3379|N-proper-ms
 v25 אֶת־|’eṯ-|-|H853|DirObjM
@@ -466,7 +466,7 @@ v27 הָעָ֤ם|hā·‘ām|...|H5971|Art | N-ms
 v27 הַזֶּה֙|haz·zeh|...|H2088|Art | Pro-ms
 v27 אֶל־|’el-|to|H413|Prep
 v27 אֲדֹ֣נֵיהֶ֔ם|’ă·ḏō·nê·hem|their lord|H113|N-mpc | 3mp
-v27 אֶל־|’el-||H413|Prep
+v27 אֶל־|’el-|-|H413|Prep
 v27 רְחַבְעָ֖ם|rə·ḥaḇ·‘ām|Rehoboam|H7346|N-proper-ms
 v27 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v27 יְהוּדָ֑ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
@@ -498,7 +498,7 @@ v28 מִצְרָֽיִם׃|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
 v29 וַיָּ֥שֶׂם|way·yā·śem|he set up|H7760|Conj-w | V-Qal-ConsecImperf-3ms
 v29 אֶת־|’eṯ-|-|H853|DirObjM
 v29 הָאֶחָ֖ד|hā·’e·ḥāḏ|One [calf]|H259|Art | Number-ms
-v29 בְּבֵֽית־|bə·ḇêṯ-|vvv|H1008|Prep
+v29 בְּבֵֽית־|bə·ḇêṯ-|...|H1008|Prep
 v29 אֵ֑ל|’êl|in Bethel|H1008|Prep | N-proper-fs
 v29 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v29 הָאֶחָ֖ד|hā·’e·ḥāḏ|the other|H259|Art | Number-ms
@@ -544,14 +544,14 @@ v32 עַל־|‘al-|on|H5921|Prep
 v32 הַמִּזְבֵּ֔חַ|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
 v32 כֵּ֤ן|kên|this|H3651|Adv
 v32 עָשָׂה֙|‘ā·śāh|he made|H6213|V-Qal-Perf-3ms
-v32 בְּבֵֽית־|bə·ḇêṯ-||H1008|Prep
+v32 בְּבֵֽית־|bə·ḇêṯ-|-|H1008|Prep
 v32 אֵ֔ל|’êl|offering in Bethel|H1008|Prep | N-proper-fs
 v32 לְזַבֵּ֖חַ|lə·zab·bê·aḥ|to sacrifice|H2076|Prep-l | V-Piel-Inf
 v32 לָעֲגָלִ֣ים|lā·‘ă·ḡā·lîm|to the calves|H5695|Prep-l, Art | N-mp
 v32 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v32 עָשָׂ֑ה|‘ā·śāh|he had set up|H6213|V-Qal-Perf-3ms
 v32 וְהֶעֱמִיד֙|wə·he·‘ĕ·mîḏ|and he installed|H5975|Conj-w | V-Hifil-ConjPerf-3ms
-v32 בְּבֵ֣ית|bə·ḇêṯ|vvv|H1008|Prep
+v32 בְּבֵ֣ית|bə·ḇêṯ|...|H1008|Prep
 v32 אֵ֔ל|’êl|in Bethel|H1008|Prep | N-proper-fs
 v32 אֶת־|’eṯ-|-|H853|DirObjM
 v32 כֹּהֲנֵ֥י|kō·hă·nê|priests|H3548|N-mpc
@@ -563,7 +563,7 @@ v33 עַֽל־|‘al-|on|H5921|Prep
 v33 הַמִּזְבֵּ֣חַ׀|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
 v33 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v33 עָשָׂ֣ה|‘ā·śāh|he had set up|H6213|V-Qal-Perf-3ms
-v33 בְּבֵֽית־|bə·ḇêṯ-|vvv|H1008|Prep
+v33 בְּבֵֽית־|bə·ḇêṯ-|...|H1008|Prep
 v33 אֵ֗ל|’êl|in Bethel|H1008|Prep | N-proper-fs
 v33 בַּחֲמִשָּׁ֨ה|ba·ḥă·miš·šāh|On the fifteenth|H2568|Prep-b, Art | Number-ms
 v33 עָשָׂ֥ר|‘ā·śār|...|H6240|Number-ms
@@ -581,4 +581,4 @@ v33 יִשְׂרָאֵ֔ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v33 וַיַּ֥עַל|way·ya·‘al|offered sacrifices|H5927|Conj-w | V-Hifil-ConsecImperf-3ms
 v33 עַל־|‘al-|on|H5921|Prep
 v33 הַמִּזְבֵּ֖חַ|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
-v33 לְהַקְטִֽיר׃פ|lə·haq·ṭîr|and burned incense|H6999|Prep-l | V-Hifil-Inf
+v33 לְהַקְטִֽיר׃|lə·haq·ṭîr|and burned incense|H6999|Prep-l | V-Hifil-Inf

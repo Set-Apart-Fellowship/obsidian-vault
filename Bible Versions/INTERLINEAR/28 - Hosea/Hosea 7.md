@@ -81,12 +81,12 @@ v7 בָהֶ֖ם|ḇā·hem|of them|H0|Prep | 3mp
 v7 אֵלָֽי׃|’ê·lāy|upon Me|H413|Prep | 1cs
 v8 אֶפְרַ֕יִם|’ep̄·ra·yim|Ephraim|H669|N-proper-ms
 v8 בָּעַמִּ֖ים|bā·‘am·mîm|with the nations|H5971|Prep-b, Art | N-mp
-v8 ה֣וּא|hū|vvv|H1931|Pro-3ms
+v8 ה֣וּא|hū|...|H1931|Pro-3ms
 v8 יִתְבּוֹלָ֑ל|yiṯ·bō·w·lāl|mixes|H1101|V-Hitpael-Imperf-3ms
 v8 אֶפְרַ֛יִם|’ep̄·ra·yim|Ephraim|H669|N-proper-ms
 v8 הָיָ֥ה|hā·yāh|is|H1961|V-Qal-Perf-3ms
 v8 עֻגָ֖ה|‘u·ḡāh|cake|H5692|N-fs
-v8 בְּלִ֥י|bə·lî|vvv|H1097|Adv
+v8 בְּלִ֥י|bə·lî|...|H1097|Adv
 v8 הֲפוּכָֽה׃|hă·p̄ū·ḵāh|an unturned|H2015|V-Qal-QalPassPrtcpl-fs
 v9 אָכְל֤וּ|’ā·ḵə·lū|consume|H398|V-Qal-Perf-3cp
 v9 זָרִים֙|zā·rîm|Foreigners|H2114|Adj-mp
@@ -97,7 +97,7 @@ v9 יָדָ֑ע|yā·ḏā‘|notice|H3045|V-Qal-Perf-3ms
 v9 גַּם־|gam-|Even|H1571|Conj
 v9 שֵׂיבָה֙|śê·ḇāh|with gray|H7872|N-fs
 v9 זָ֣רְקָה|zā·rə·qāh|his hair is streaked|H2236|V-Qal-Perf-3fs
-v9 בּ֔וֹ|bōw||H0|Prep | 3ms
+v9 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v9 וְה֖וּא|wə·hū|but he|H1931|Conj-w | Pro-3ms
 v9 לֹ֥א|lō|does not|H3808|Adv-NegPrt
 v9 יָדָֽע׃|yā·ḏā‘|know|H3045|V-Qal-Perf-3ms
@@ -134,7 +134,7 @@ v12 הַשָּׁמַ֖יִם|haš·šā·ma·yim|of the air|H8064|Art | N-mp
 v12 אֽוֹרִידֵ֑ם|’ō·w·rî·ḏêm|I will bring them down|H3381|V-Hifil-Imperf-1cs | 3mp
 v12 אַיְסִרֵ֕ם|’ay·si·rêm|I will chastise them|H3256|V-Hifil-Imperf-1cs | 3mp
 v12 כְּשֵׁ֖מַע|kə·šê·ma‘|when I hear them|H8088|Prep-k | N-ms
-v12 לַעֲדָתָֽם׃ס|la·‘ă·ḏā·ṯām|flocking together|H5712|Prep-l | N-fsc | 3mp
+v12 לַעֲדָתָֽם׃|la·‘ă·ḏā·ṯām|flocking together|H5712|Prep-l | N-fsc | 3mp
 v13 א֤וֹי|’ō·w|Woe|H188|Interjection
 v13 לָהֶם֙|lā·hem|to them|H0|Prep-l | Pro-3mp
 v13 כִּֽי־|kî-|for|H3588|Conj

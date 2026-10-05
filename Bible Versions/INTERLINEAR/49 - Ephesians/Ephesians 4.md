@@ -10,7 +10,7 @@ v1 ἀξίως|axiōs|in a manner worthy|G516|Adv
 v1 περιπατῆσαι|peripatēsai|to walk|G4043|V-ANA
 v1 τῆς|tēs|of the|G3588|Art-GFS
 v1 κλήσεως|klēseōs|calling|G2821|N-GFS
-v1 ἧς|hēs|vvv|G3739|RelPro-GFS
+v1 ἧς|hēs|...|G3739|RelPro-GFS
 v1 ἐκλήθητε|eklēthēte|you have received|G2564|V-AIP-2P
 v2 μετὰ|meta|with|G3326|Prep
 v2 πάσης|pasēs|all|G3956|Adj-GFS
@@ -102,7 +102,7 @@ v9 ἐστιν|estin|[does]|G1510|V-PIA-3S
 v9 εἰ|ei|except|G1487|Conj
 v9 μὴ|mē|...|G3361|Adv
 v9 ὅτι|hoti|that|G3754|Conj
-v9 καὶ|kai|vvv|G2532|Conj
+v9 καὶ|kai|...|G2532|Conj
 v9 κατέβη|katebē|He also descended|G2597|V-AIA-3S
 v9 εἰς|eis|to|G1519|Prep
 v9 τὰ|ta|the|G3588|Art-ANP
@@ -114,7 +114,7 @@ v10 ὁ|ho|He who|G3588|Art-NMS
 v10 καταβὰς|katabas|descended|G2597|V-APA-NMS
 v10 αὐτός|autos|the very|G846|PPro-NM3S
 v10 ἐστιν|estin|is|G1510|V-PIA-3S
-v10 καὶ|kai|vvv|G2532|Conj
+v10 καὶ|kai|...|G2532|Conj
 v10 ὁ|ho|[One]|G3588|Art-NMS
 v10 ἀναβὰς|anabas|who ascended|G305|V-APA-NMS
 v10 ὑπεράνω|hyperanō|above|G5231|Prep
@@ -142,8 +142,8 @@ v11 δὲ|de|and|G1161|Conj
 v11 ποιμένας|poimenas|[to be] pastors|G4166|N-AMP
 v11 καὶ|kai|and|G2532|Conj
 v11 διδασκάλους|didaskalous|teachers|G1320|N-AMP
-v12 πρὸς|pros|vvv|G4314|Prep
-v12 τὸν|ton|vvv|G3588|Art-AMS
+v12 πρὸς|pros|...|G4314|Prep
+v12 τὸν|ton|...|G3588|Art-AMS
 v12 καταρτισμὸν|katartismon|to equip|G2677|N-AMS
 v12 τῶν|tōn|the|G3588|Art-GMP
 v12 ἁγίων|hagiōn|saints|G40|Adj-GMP
@@ -159,7 +159,7 @@ v12 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v13 μέχρι|mechri|until|G3360|Adv
 v13 καταντήσωμεν|katantēsōmen|we all reach|G2658|V-ASA-1P
 v13 οἱ|hoi|-|G3588|Art-NMP
-v13 πάντες|pantes|vvv|G3956|Adj-NMP
+v13 πάντες|pantes|...|G3956|Adj-NMP
 v13 εἰς|eis|...|G1519|Prep
 v13 τὴν|tēn|-|G3588|Art-AFS
 v13 ἑνότητα|henotēta|unity|G1775|N-AFS
@@ -172,8 +172,8 @@ v13 τοῦ|tou|of the|G3588|Art-GMS
 v13 Υἱοῦ|Huiou|Son|G5207|N-GMS
 v13 τοῦ|tou|-|G3588|Art-GMS
 v13 Θεοῦ|Theou|of God|G2316|N-GMS
-v13 εἰς|eis|vvv|G1519|Prep
-v13 ἄνδρα|andra|vvv|G435|N-AMS
+v13 εἰς|eis|...|G1519|Prep
+v13 ἄνδρα|andra|...|G435|N-AMS
 v13 τέλειον|teleion|[as we] mature|G5046|Adj-AMS
 v13 εἰς|eis|to|G1519|Prep
 v13 μέτρον|metron|measure|G3358|N-ANS
@@ -198,12 +198,12 @@ v14 τῇ|tē|the|G3588|Art-DFS
 v14 κυβείᾳ*|kybeia|cunning|G2940|N-DFS
 v14 τῶν|tōn|-|G3588|Art-GMP
 v14 ἀνθρώπων|anthrōpōn|of men|G444|N-GMP
-v14 ἐν|en|vvv|G1722|Prep
+v14 ἐν|en|...|G1722|Prep
 v14 πανουργίᾳ|panourgia|clever|G3834|N-DFS
 v14 πρὸς|pros|in|G4314|Prep
 v14 τὴν|tēn|[their]|G3588|Art-AFS
 v14 μεθοδείαν|methodeian|scheming|G3180|N-AFS
-v14 τῆς|tēs|vvv|G3588|Art-GFS
+v14 τῆς|tēs|...|G3588|Art-GFS
 v14 πλάνης|planēs|deceitful|G4106|N-GFS
 v15 ἀληθεύοντες|alētheuontes|speaking the truth|G226|V-PPA-NMP
 v15 δὲ|de|Instead|G1161|Conj
@@ -230,12 +230,12 @@ v16 συμβιβαζόμενον|symbibazomenon|held together|G4822|V-PPM/P-NNS
 v16 διὰ|dia|by|G1223|Prep
 v16 πάσης|pasēs|every|G3956|Adj-GFS
 v16 ἁφῆς|haphēs|ligament|G860|N-GFS
-v16 τῆς|tēs|vvv|G3588|Art-GFS
+v16 τῆς|tēs|...|G3588|Art-GFS
 v16 ἐπιχορηγίας|epichorēgias|supporting|G2024|N-GFS
 v16 κατ’|kat’|through|G2596|Prep
 v16 ἐνέργειαν|energeian|[the] work|G1753|N-AFS
-v16 ἐν|en|vvv|G1722|Prep
-v16 μέτρῳ|metrō|vvv|G3358|N-DNS
+v16 ἐν|en|...|G1722|Prep
+v16 μέτρῳ|metrō|...|G3358|N-DNS
 v16 ἑνὸς|henos|individual|G1520|Adj-GNS
 v16 ἑκάστου|hekastou|of each|G1538|Adj-GNS
 v16 μέρους|merous|part|G3313|N-GNS

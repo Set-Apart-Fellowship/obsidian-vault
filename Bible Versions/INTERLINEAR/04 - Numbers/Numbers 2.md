@@ -27,7 +27,7 @@ v3 מַחֲנֵ֥ה|ma·ḥă·nêh|...|H4264|N-csc
 v3 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v3 לְצִבְאֹתָ֑ם|lə·ṣiḇ·’ō·ṯām|the divisions|H6635|Prep-l | N-cpc | 3mp
 v3 וְנָשִׂיא֙|wə·nā·śî|The leader|H5387|Conj-w | N-ms
-v3 לִבְנֵ֣י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v3 לִבְנֵ֣י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v3 יְהוּדָ֔ה|yə·hū·ḏāh|of the Judahites|H3063|N-proper-ms
 v3 נַחְשׁ֖וֹן|naḥ·šō·wn|is Nahshon|H5177|N-proper-ms
 v3 בֶּן־|ben-|son|H1121|N-msc
@@ -55,7 +55,7 @@ v6 אַרְבָּעָ֧ה|’ar·bā·‘āh|54,400|H702|Number-ms
 v6 וַחֲמִשִּׁ֛ים|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
 v6 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v6 וְאַרְבַּ֥ע|wə·’ar·ba‘|...|H702|Conj-w | Number-fsc
-v6 מֵאֽוֹת׃ס|mê·’ō·wṯ|...|H3967|Number-fp
+v6 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v7 מַטֵּ֖ה|maṭ·ṭêh|[Next will be] the tribe|H4294|N-msc
 v7 זְבוּלֻ֑ן|zə·ḇū·lun|of Zebulun|H2074|N-proper-ms
 v7 וְנָשִׂיא֙|wə·nā·śî|The leader|H5387|Conj-w | N-ms
@@ -85,7 +85,7 @@ v9 וְאַרְבַּע־|wə·’ar·ba‘-|...|H702|Conj-w | Number-fsc
 v9 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v9 לְצִבְאֹתָ֑ם|lə·ṣiḇ·’ō·ṯām|in the divisions|H6635|Prep-l | N-cpc | 3mp
 v9 רִאשֹׁנָ֖ה|ri·šō·nāh|first|H7223|Adj-fs
-v9 יִסָּֽעוּ׃ס|yis·sā·‘ū|they shall set out|H5265|V-Qal-Imperf-3mp
+v9 יִסָּֽעוּ׃|yis·sā·‘ū|they shall set out|H5265|V-Qal-Imperf-3mp
 v10 דֶּ֣גֶל|de·ḡel|under their standard|H1714|N-msc
 v10 מַחֲנֵ֧ה|ma·ḥă·nêh|are to camp|H4264|N-csc
 v10 רְאוּבֵ֛ן|rə·’ū·ḇên|of Reuben|H7205|N-proper-ms
@@ -113,7 +113,7 @@ v12 לִבְנֵ֣י|liḇ·nê|of the Simeonites|H1121|Prep-l | N-mpc
 v12 שִׁמְע֔וֹן|šim·‘ō·wn|...|H8095|N-proper-ms
 v12 שְׁלֻמִיאֵ֖ל|šə·lu·mî·’êl|is Shelumiel|H8017|N-proper-ms
 v12 בֶּן־|ben-|son|H1121|N-msc
-v12 צוּרִֽי־|ṣū·rî-|vvv|H6701|
+v12 צוּרִֽי־|ṣū·rî-|...|H6701|
 v12 שַׁדָּֽי׃|šad·dāy|of Zurishaddai|H6701|N-proper-ms
 v13 וּצְבָא֖וֹ|ū·ṣə·ḇā·’ōw|and his division|H6635|Conj-w | N-csc | 3ms
 v13 וּפְקֻדֵיהֶ֑ם|ū·p̄ə·qu·ḏê·hem|numbers|H6485|Conj-w | V-Qal-QalPassPrtcpl-mpc | 3mp
@@ -152,7 +152,7 @@ v16 מֵא֥וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v16 וַחֲמִשִּׁ֖ים|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
 v16 לְצִבְאֹתָ֑ם|lə·ṣiḇ·’ō·ṯām|in the divisions|H6635|Prep-l | N-cpc | 3mp
 v16 וּשְׁנִיִּ֖ם|ū·šə·nî·yim|second|H8145|Conj-w | Number-omp
-v16 יִסָּֽעוּ׃ס|yis·sā·‘ū|they shall set out|H5265|V-Qal-Imperf-3mp
+v16 יִסָּֽעוּ׃|yis·sā·‘ū|they shall set out|H5265|V-Qal-Imperf-3mp
 v17 וְנָסַ֧ע|wə·nā·sa‘|is to travel|H5265|Conj-w | V-Qal-ConjPerf-3ms
 v17 אֹֽהֶל־|’ō·hel-|the Tent|H168|N-msc
 v17 מוֹעֵ֛ד|mō·w·‘êḏ|of Meeting|H4150|N-ms
@@ -167,7 +167,7 @@ v17 יִסָּ֔עוּ|yis·sā·‘ū|They are to set out|H5265|V-Qal-Imperf-3m
 v17 אִ֥ישׁ|’îš|each|H376|N-ms
 v17 עַל־|‘al-|in|H5921|Prep
 v17 יָד֖וֹ|yā·ḏōw|his own place|H3027|N-fsc | 3ms
-v17 לְדִגְלֵיהֶֽם׃ס|lə·ḏiḡ·lê·hem|under his standard|H1714|Prep-l | N-mpc | 3mp
+v17 לְדִגְלֵיהֶֽם׃|lə·ḏiḡ·lê·hem|under his standard|H1714|Prep-l | N-mpc | 3mp
 v18 דֶּ֣גֶל|de·ḡel|under their standard|H1714|N-msc
 v18 מַחֲנֵ֥ה|ma·ḥă·nêh|are to camp|H4264|N-csc
 v18 אֶפְרַ֛יִם|’ep̄·ra·yim|of Ephraim|H669|N-proper-ms
@@ -226,7 +226,7 @@ v24 אֲלָפִ֥ים|’ă·lā·p̄îm|...|H505|Number-mp
 v24 וּמֵאָ֖ה|ū·mê·’āh|...|H3967|Conj-w | Number-fs
 v24 לְצִבְאֹתָ֑ם|lə·ṣiḇ·’ō·ṯām|in the divisions|H6635|Prep-l | N-cpc | 3mp
 v24 וּשְׁלִשִׁ֖ים|ū·šə·li·šîm|third|H7992|Conj-w | Number-omp
-v24 יִסָּֽעוּ׃ס|yis·sā·‘ū|they shall set out|H5265|V-Qal-Imperf-3mp
+v24 יִסָּֽעוּ׃|yis·sā·‘ū|they shall set out|H5265|V-Qal-Imperf-3mp
 v25 דֶּ֣גֶל|de·ḡel|under their standard|H1714|N-msc
 v25 מַחֲנֵ֥ה|ma·ḥă·nêh|are to camp|H4264|N-csc
 v25 דָ֛ן|ḏān|of Dan|H1835|N-proper-ms
@@ -290,7 +290,7 @@ v31 וְשֵׁ֣שׁ|wə·šêš|...|H8337|Conj-w | Number-fsc
 v31 מֵא֑וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v31 לָאַחֲרֹנָ֥ה|lā·’a·ḥă·rō·nāh|last|H314|Prep-l, Art | Adj-fs
 v31 יִסְע֖וּ|yis·‘ū|they shall set out|H5265|V-Qal-Imperf-3mp
-v31 לְדִגְלֵיהֶֽם׃פ|lə·ḏiḡ·lê·hem|under their standards|H1714|Prep-l | N-mpc | 3mp
+v31 לְדִגְלֵיהֶֽם׃|lə·ḏiḡ·lê·hem|under their standards|H1714|Prep-l | N-mpc | 3mp
 v32 אֵ֛לֶּה|’êl·leh|These|H428|Pro-cp
 v32 פְּקוּדֵ֥י|pə·qū·ḏê|numbered|H6485|V-Qal-QalPassPrtcpl-mpc
 v32 בְנֵֽי־|ḇə·nê-|are the Israelites|H1121|N-mpc

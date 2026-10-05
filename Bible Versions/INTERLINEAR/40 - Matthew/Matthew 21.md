@@ -50,7 +50,7 @@ v3 Ὁ|HO|the|G3588|Art-NMS
 v3 Κύριος|Kyrios|Lord|G2962|N-NMS
 v3 αὐτῶν|autōn|them|G846|PPro-GM3P
 v3 χρείαν|chreian|needs|G5532|N-AFS
-v3 ἔχει|echei|vvv|G2192|V-PIA-3S
+v3 ἔχει|echei|...|G2192|V-PIA-3S
 v3 εὐθὺς|euthys|right away|G2112|Adv
 v3 δὲ|de|and|G1161|Conj
 v3 ἀποστελεῖ|apostelei|he will send|G649|V-FIA-3S
@@ -259,13 +259,13 @@ v15 ἐποίησεν|epoiēsen|He performed|G4160|V-AIA-3S
 v15 καὶ|kai|and|G2532|Conj
 v15 τοὺς|tous|the|G3588|Art-AMP
 v15 παῖδας|paidas|children|G3816|N-AMP
-v15 τοὺς|tous|vvv|G3588|Art-AMP
+v15 τοὺς|tous|...|G3588|Art-AMP
 v15 κράζοντας|krazontas|shouting|G2896|V-PPA-AMP
 v15 ἐν|en|in|G1722|Prep
 v15 τῷ|tō|the|G3588|Art-DNS
 v15 ἱερῷ|hierō|temple [courts]|G2411|N-DNS
-v15 καὶ|kai|vvv|G2532|Conj
-v15 λέγοντας|legontas|vvv|G3004|V-PPA-AMP
+v15 καὶ|kai|...|G2532|Conj
+v15 λέγοντας|legontas|...|G3004|V-PPA-AMP
 v15 Ὡσαννὰ|Hōsanna|Hosanna|G5614|Heb
 v15 τῷ|tō|to the|G3588|Art-DMS
 v15 υἱῷ|huiō|Son|G5207|N-DMS
@@ -284,7 +284,7 @@ v16 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v16 λέγει|legei|answered|G3004|V-PIA-3S
 v16 αὐτοῖς|autois|-|G846|PPro-DM3P
 v16 Ναί|Nai|Yes|G3483|Prtcl
-v16 οὐδέποτε|oudepote|vvv|G3763|Adv
+v16 οὐδέποτε|oudepote|...|G3763|Adv
 v16 ἀνέγνωτε|anegnōte|Have you never read|G314|V-AIA-2P
 v16 ὅτι|hoti|-|G3754|Conj
 v16 Ἐκ|Ek|From|G1537|Prep
@@ -335,7 +335,7 @@ v19 μόνον|monon|...|G3440|Adv
 v19 καὶ|kai|-|G2532|Conj
 v19 λέγει|legei|He said|G3004|V-PIA-3S
 v19 αὐτῇ|autē|-|G846|PPro-DF3S
-v19 〈Οὐ〉|Ou|vvv|G3756|Adv
+v19 〈Οὐ〉|Ou|...|G3756|Adv
 v19 μηκέτι|mēketi|again|G3371|Adv
 v19 ἐκ|ek|...|G1537|Prep
 v19 σοῦ|sou|...|G4771|PPro-G2S
@@ -441,7 +441,7 @@ v24 εἶπεν|eipen|-|G2036|V-AIA-3S
 v24 αὐτοῖς|autois|-|G846|PPro-DM3P
 v24 Ἐρωτήσω|Erōtēsō|I will also ask|G2065|V-FIA-1S
 v24 ὑμᾶς|hymas|you|G4771|PPro-A2P
-v24 κἀγὼ|kagō|vvv|G2504|PPro-N1S
+v24 κἀγὼ|kagō|...|G2504|PPro-N1S
 v24 λόγον|logon|question|G3056|N-AMS
 v24 ἕνα|hena|one|G1520|Adj-AMS
 v24 ὃν|hon|-|G3739|RelPro-AMS
@@ -482,7 +482,7 @@ v25 ἡμῖν|hēmin|-|G1473|PPro-D1P
 v25 Διὰ|Dia|Why|G1223|Prep
 v25 τί|ti|...|G5101|IPro-ANS
 v25 οὖν|oun|then|G3767|Conj
-v25 οὐκ|ouk|vvv|G3756|Adv
+v25 οὐκ|ouk|...|G3756|Adv
 v25 ἐπιστεύσατε|episteusate|did you not believe|G4100|V-AIA-2P
 v25 αὐτῷ|autō|him|G846|PPro-DM3S
 v26 ἐὰν|ean|if|G1437|Conj
@@ -505,7 +505,7 @@ v27 ἀποκριθέντες|apokrithentes|they answered|G611|V-APP-NMP
 v27 τῷ|tō|-|G3588|Art-DMS
 v27 Ἰησοῦ|Iēsou|-|G2424|N-DMS
 v27 εἶπαν|eipan|-|G2036|V-AIA-3P
-v27 Οὐκ|Ouk|vvv|G3756|Adv
+v27 Οὐκ|Ouk|...|G3756|Adv
 v27 οἴδαμεν|oidamen|We do not know|G1492|V-RIA-1P
 v27 Ἔφη|Ephē|replied|G5346|V-IIA-3S
 v27 αὐτοῖς|autois|-|G846|PPro-DM3P
@@ -544,7 +544,7 @@ v29 Ὁ|Ho|-|G3588|Art-NMS
 v29 δὲ|de|-|G1161|Conj
 v29 ἀποκριθεὶς|apokritheis|he replied|G611|V-APP-NMS
 v29 εἶπεν|eipen|-|G2036|V-AIA-3S
-v29 ‹Οὐ|Ou|vvv|G3756|Adv
+v29 ‹Οὐ|Ou|...|G3756|Adv
 v29 θέλω|thelō|I will not|G2309|V-PIA-1S
 v29 ὕστερον|hysteron|later|G5305|Adv
 v29 δὲ|de|But|G1161|Conj
@@ -563,7 +563,7 @@ v30 εἶπεν|eipen|-|G2036|V-AIA-3S
 v30 Ἐγώ*|Egō|I [will]|G1473|PPro-N1S
 v30 κύριε*|kyrie|sir|G2962|N-VMS
 v30 καὶ*|kai|But|G2532|Conj
-v30 οὐκ*|ouk|vvv|G3756|Adv
+v30 οὐκ*|ouk|...|G3756|Adv
 v30 ἀπῆλθεν|apēlthen|he did not go|G565|V-AIA-3S
 v31 Τίς|Tis|Which|G5101|IPro-NMS
 v31 ἐκ|ek|of|G1537|Prep
@@ -606,7 +606,7 @@ v32 ἐν|en|in|G1722|Prep
 v32 ὁδῷ|hodō|[the] way|G3598|N-DFS
 v32 δικαιοσύνης|dikaiosynēs|of righteousness|G1343|N-GFS
 v32 καὶ|kai|and|G2532|Conj
-v32 οὐκ|ouk|vvv|G3756|Adv
+v32 οὐκ|ouk|...|G3756|Adv
 v32 ἐπιστεύσατε|episteusate|you did not believe|G4100|V-AIA-2P
 v32 αὐτῷ|autō|him|G846|PPro-DM3S
 v32 οἱ|hoi|the|G3588|Art-NMP
@@ -699,7 +699,7 @@ v36 ἐποίησαν|epoiēsan|[the tenants] did|G4160|V-AIA-3P
 v36 αὐτοῖς|autois|to them|G846|PPro-DM3P
 v36 ὡσαύτως|hōsautōs|the same|G5615|Adv
 v37 Ὕστερον|Hysteron|Finally|G5305|Adv
-v37 δὲ|de|vvv|G1161|Conj
+v37 δὲ|de|...|G1161|Conj
 v37 ἀπέστειλεν|apesteilen|he sent|G649|V-AIA-3S
 v37 πρὸς|pros|to|G4314|Prep
 v37 αὐτοὺς|autous|them|G846|PPro-AM3P
@@ -778,7 +778,7 @@ v42 Λέγει|Legei|said|G3004|V-PIA-3S
 v42 αὐτοῖς|autois|to them|G846|PPro-DM3P
 v42 ὁ|ho|-|G3588|Art-NMS
 v42 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
-v42 Οὐδέποτε|Oudepote|vvv|G3763|Adv
+v42 Οὐδέποτε|Oudepote|...|G3763|Adv
 v42 ἀνέγνωτε|anegnōte|Have you never read|G314|V-AIA-2P
 v42 ἐν|en|in|G1722|Prep
 v42 ταῖς|tais|the|G3588|Art-DFP
@@ -791,7 +791,7 @@ v42 οἰκοδομοῦντες|oikodomountes|builders|G3618|V-PPA-NMP
 v42 Οὗτος|Houtos|-|G3778|DPro-NMS
 v42 ἐγενήθη|egenēthē|has become|G1096|V-AIP-3S
 v42 εἰς|eis|the|G1519|Prep
-v42 κεφαλὴν|kephalēn|vvv|G2776|N-AFS
+v42 κεφαλὴν|kephalēn|...|G2776|N-AFS
 v42 γωνίας|gōnias|cornerstone|G1137|N-GFS
 v42 Παρὰ|Para|from|G3844|Prep
 v42 Κυρίου|Kyriou|[the] Lord|G2962|N-GMS

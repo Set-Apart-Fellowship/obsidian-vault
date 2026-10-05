@@ -307,9 +307,9 @@ v19 αὐτῆς|autēs|her|G846|PPro-GF3S
 v19 δίκαιος|dikaios|a righteous man|G1342|Adj-NMS
 v19 ὢν|ōn|was|G1510|V-PPA-NMS
 v19 καὶ|kai|and|G2532|Conj
-v19 μὴ|mē|vvv|G3361|Adv
+v19 μὴ|mē|...|G3361|Adv
 v19 θέλων|thelōn|was unwilling|G2309|V-PPA-NMS
-v19 αὐτὴν|autēn|vvv|G846|PPro-AF3S
+v19 αὐτὴν|autēn|...|G846|PPro-AF3S
 v19 δειγματίσαι|deigmatisai|to disgrace her publicly|G1165|V-ANA
 v19 ἐβουλήθη|eboulēthē|he resolved|G1014|V-AIP-3S
 v19 λάθρᾳ|lathra|quietly|G2977|Adv

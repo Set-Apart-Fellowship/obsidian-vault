@@ -8,7 +8,7 @@ v1 בוֹנִים֙|ḇō·w·nîm|were rebuilding|H1129|V-Qal-Prtcpl-mp
 v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 הַ֣חוֹמָ֔ה|ha·ḥō·w·māh|the wall|H2346|Art | N-fs
 v1 וַיִּ֣חַר|way·yi·ḥar|he was furious|H2734|Conj-w | V-Qal-ConsecImperf-3ms
-v1 ל֔וֹ|lōw||H0|Prep | 3ms
+v1 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v1 וַיִּכְעַ֖ס|way·yiḵ·‘as|and filled with indignation|H3707|Conj-w | V-Qal-ConsecImperf-3ms
 v1 הַרְבֵּ֑ה|har·bêh|...|H7235|V-Hifil-InfAbs
 v1 וַיַּלְעֵ֖ג|way·yal·‘êḡ|He ridiculed|H3932|Conj-w | V-Hifil-ConsecImperf-3ms
@@ -49,7 +49,7 @@ v3 יַעֲלֶ֣ה|ya·‘ă·leh|were to climb up on|H5927|V-Qal-Imperf-3ms
 v3 שׁוּעָ֔ל|šū·‘āl|a fox|H7776|N-ms
 v3 וּפָרַ֖ץ|ū·p̄ā·raṣ|it would break down|H6555|Conj-w | V-Qal-ConjPerf-3ms
 v3 חוֹמַ֥ת|ḥō·w·maṯ|their wall|H2346|N-fsc
-v3 אַבְנֵיהֶֽם׃פ|’aḇ·nê·hem|of stones|H68|N-fpc | 3mp
+v3 אַבְנֵיהֶֽם׃|’aḇ·nê·hem|of stones|H68|N-fpc | 3mp
 v4 שְׁמַ֤ע|šə·ma‘|Hear us|H8085|V-Qal-Imp-ms
 v4 אֱלֹהֵ֙ינוּ֙|’ĕ·lō·hê·nū|O God|H430|N-mpc | 1cp
 v4 כִּֽי־|kî-|for|H3588|Conj
@@ -86,7 +86,7 @@ v6 חֶצְיָ֑הּ|ḥeṣ·yāh|half its [height]|H2677|N-msc | 3fs
 v6 וַיְהִ֧י|way·hî|had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v6 לֵ֦ב|lêḇ|a mind|H3820|N-ms
 v6 לָעָ֖ם|lā·‘ām|for the people|H5971|Prep-l, Art | N-ms
-v6 לַעֲשֽׂוֹת׃פ|la·‘ă·śō·wṯ|to work|H6213|Prep-l | V-Qal-Inf
+v6 לַעֲשֽׂוֹת׃|la·‘ă·śō·wṯ|to work|H6213|Prep-l | V-Qal-Inf
 v7 וַיְהִ֣י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v7 כַאֲשֶׁ֣ר|ḵa·’ă·šer|When|H834|Prep-k | Pro-r
 v7 שָׁמַ֣ע|šā·ma‘|heard|H8085|V-Qal-Perf-3ms
@@ -105,7 +105,7 @@ v7 הֵחֵ֥לּוּ|hê·ḥêl·lū|...|H2490|V-Hifil-Perf-3cp
 v7 הַפְּרֻצִ֖ים|hap·pə·ru·ṣîm|the gaps|H6555|Art | V-Qal-QalPassPrtcpl-mp
 v7 לְהִסָּתֵ֑ם|lə·his·sā·ṯêm|were being closed|H5640|Prep-l | V-Nifal-Inf
 v7 וַיִּ֥חַר|way·yi·ḥar|they were furious|H2734|Conj-w | V-Qal-ConsecImperf-3ms
-v7 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v7 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v7 מְאֹֽד׃|mə·’ōḏ|-|H3966|Adv
 v8 וַיִּקְשְׁר֤וּ|way·yiq·šə·rū|conspired|H7194|Conj-w | V-Qal-ConsecImperf-3mp
 v8 כֻלָּם֙|ḵul·lām|and all of them|H3605|N-msc | 3mp
@@ -114,7 +114,7 @@ v8 לָב֖וֹא|lā·ḇō·w|to come|H935|Prep-l | V-Qal-Inf
 v8 לְהִלָּחֵ֣ם|lə·hil·lā·ḥêm|and fight|H3898|Prep-l | V-Nifal-Inf
 v8 בִּירוּשָׁלִָ֑ם|bî·rū·šā·lim|against Jerusalem|H3389|Prep-b | N-proper-fs
 v8 וְלַעֲשׂ֥וֹת|wə·la·‘ă·śō·wṯ|and create|H6213|Conj-w, Prep-l | V-Qal-Inf
-v8 ל֖וֹ|lōw||H0|Prep | 3ms
+v8 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v8 תּוֹעָֽה׃|tō·w·‘āh|a hindrance|H8442|N-fs
 v9 וַנִּתְפַּלֵּ֖ל|wan·niṯ·pal·lêl|So we prayed|H6419|Conj-w | V-Hitpael-ConsecImperf-1cp
 v9 אֶל־|’el-|to|H413|Prep
@@ -205,14 +205,14 @@ v14 אֲחֵיכֶם֙|’ă·ḥê·ḵem|your brothers|H251|N-mpc | 2mp
 v14 בְּנֵיכֶ֣ם|bə·nê·ḵem|your sons|H1121|N-mpc | 2mp
 v14 וּבְנֹתֵיכֶ֔ם|ū·ḇə·nō·ṯê·ḵem|and your daughters|H1323|Conj-w | N-fpc | 2mp
 v14 נְשֵׁיכֶ֖ם|nə·šê·ḵem|your wives|H802|N-fpc | 2mp
-v14 וּבָתֵּיכֶֽם׃פ|ū·ḇāt·tê·ḵem|and your homes|H1004|Conj-w | N-mpc | 2mp
+v14 וּבָתֵּיכֶֽם׃|ū·ḇāt·tê·ḵem|and your homes|H1004|Conj-w | N-mpc | 2mp
 v15 וַיְהִ֞י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v15 כַּֽאֲשֶׁר־|ka·’ă·šer-|When|H834|Prep-k | Pro-r
 v15 שָׁמְע֤וּ|šā·mə·‘ū|heard|H8085|V-Qal-Perf-3cp
 v15 אוֹיְבֵ֙ינוּ֙|’ō·wy·ḇê·nū|our enemies|H341|V-Qal-Prtcpl-mpc | 1cp
 v15 כִּי־|kî-|that|H3588|Conj
 v15 נ֣וֹדַֽע|nō·w·ḏa‘|we were aware|H3045|V-Nifal-Perf-3ms
-v15 לָ֔נוּ|lā·nū||H0|Prep | 1cp
+v15 לָ֔נוּ|lā·nū|-|H0|Prep | 1cp
 v15 וַיָּ֥פֶר|way·yā·p̄er|had frustrated it|H6565|Conj-w | V-Hifil-ConsecImperf-3ms
 v15 הָאֱלֹהִ֖ים|hā·’ĕ·lō·hîm|and that God|H430|Art | N-mp
 v15 אֶת־|’eṯ-|-|H853|DirObjM
@@ -317,7 +317,7 @@ v22 יָלִ֖ינוּ|yā·lî·nū|spend the night|H3885|V-Qal-Imperf-3mp
 v22 בְּת֣וֹךְ|bə·ṯō·wḵ|inside|H8432|Prep-b | N-msc
 v22 יְרוּשָׁלִָ֑ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v22 וְהָֽיוּ־|wə·hā·yū-|so that they can stand|H1961|Conj-w | V-Qal-ConjPerf-3cp
-v22 לָ֧נוּ|lā·nū||H0|Prep | 1cp
+v22 לָ֧נוּ|lā·nū|-|H0|Prep | 1cp
 v22 הַלַּ֛יְלָה|hal·lay·lāh|by night|H3915|Art | N-ms
 v22 מִשְׁמָ֖ר|miš·mār|guard|H4929|N-ms
 v22 וְהַיּ֥וֹם|wə·hay·yō·wm|by day|H3117|Conj-w, Art | N-ms
@@ -336,4 +336,4 @@ v23 פֹשְׁטִ֖ים|p̄ō·šə·ṭîm|changed out of|H6584|V-Qal-Prtcpl-m
 v23 בְּגָדֵ֑ינוּ|bə·ḡā·ḏê·nū|our clothes|H899|N-mpc | 1cp
 v23 אִ֖ישׁ|’îš|each|H376|N-ms
 v23 שִׁלְח֥וֹ|šil·ḥōw|carried his weapon|H7973|N-msc | 3ms
-v23 הַמָּֽיִם׃ס|ham·mā·yim|[even to go] for water|H4325|Art | N-mp
+v23 הַמָּֽיִם׃|ham·mā·yim|[even to go] for water|H4325|Art | N-mp

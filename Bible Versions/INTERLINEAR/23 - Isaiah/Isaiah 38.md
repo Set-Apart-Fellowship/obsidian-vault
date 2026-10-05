@@ -47,7 +47,7 @@ v3 עָשִׂ֑יתִי|‘ā·śî·ṯî|I have done|H6213|V-Qal-Perf-1cs
 v3 וַיֵּ֥בְךְּ|way·yê·ḇək|wept|H1058|Conj-w | V-Qal-ConsecImperf-3ms
 v3 חִזְקִיָּ֖הוּ|ḥiz·qî·yā·hū|And Hezekiah|H2396|N-proper-ms
 v3 בְּכִ֥י|bə·ḵî|...|H1065|N-ms
-v3 גָדֽוֹל׃ס|ḡā·ḏō·wl|bitterly|H1419|Adj-ms
+v3 גָדֽוֹל׃|ḡā·ḏō·wl|bitterly|H1419|Adj-ms
 v4 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v4 דְּבַר־|də·ḇar-|And the word|H1697|N-msc
 v4 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -108,7 +108,7 @@ v8 צֵ֣ל|ṣêl|shadow|H6738|N-msc
 v8 הַֽמַּעֲל֡וֹת|ham·ma·‘ă·lō·wṯ|on the stairway|H4609|Art | N-fp
 v8 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v8 יָרְדָה֩|yā·rə·ḏāh|falls|H3381|V-Qal-Perf-3fs
-v8 בְמַעֲל֨וֹת|ḇə·ma·‘ă·lō·wṯ||H4609|Prep-b | N-fpc
+v8 בְמַעֲל֨וֹת|ḇə·ma·‘ă·lō·wṯ|-|H4609|Prep-b | N-fpc
 v8 אָחָ֥ז|’ā·ḥāz|of Ahaz|H271|N-proper-ms
 v8 בַּשֶּׁ֛מֶשׁ|baš·še·meš|the sun's|H8121|Prep-b, Art | N-cs
 v8 אֲחֹרַנִּ֖ית|’ă·ḥō·ran·nîṯ|go back|H322|Adv
@@ -120,7 +120,7 @@ v8 עֶ֣שֶׂר|‘e·śer|the ten|H6235|Number-fsc
 v8 מַעֲל֔וֹת|ma·‘ă·lō·wṯ|...|H4609|N-fp
 v8 בַּֽמַּעֲל֖וֹת|bam·ma·‘ă·lō·wṯ|steps|H4609|Prep-b, Art | N-fp
 v8 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v8 יָרָֽדָה׃ס|yā·rā·ḏāh|it had descended|H3381|V-Qal-Perf-3fs
+v8 יָרָֽדָה׃|yā·rā·ḏāh|it had descended|H3381|V-Qal-Perf-3fs
 v9 מִכְתָּ֖ב|miḵ·tāḇ|[This is] a writing|H4385|N-ms
 v9 לְחִזְקִיָּ֣הוּ|lə·ḥiz·qî·yā·hū|by Hezekiah|H2396|Prep-l | N-proper-ms
 v9 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
@@ -190,7 +190,7 @@ v14 עֵינַי֙|‘ê·nay|My eyes|H5869|N-cdc | 1cs
 v14 לַמָּר֔וֹם|lam·mā·rō·wm|[as I look] upward|H4791|Prep-l, Art | N-ms
 v14 אֲדֹנָ֖י|’ă·ḏō·nāy|O Lord|H136|N-proper-ms
 v14 עָֽשְׁקָה־|‘ā·šə·qāh-|I am oppressed|H6234|N-fs
-v14 לִּ֥י|lî||H0|Prep | 1cs
+v14 לִּ֥י|lî|-|H0|Prep | 1cs
 v14 עָרְבֵֽנִי׃|‘ā·rə·ḇê·nî|be my security|H6148|V-Qal-Imp-ms | 1cs
 v15 מָֽה־|māh-|What|H4100|Interrog
 v15 אֲדַבֵּ֥ר|’ă·ḏab·bêr|can I say|H1696|V-Piel-Imperf-1cs
@@ -216,7 +216,7 @@ v16 וְהַחֲיֵֽנִי׃|wə·ha·ḥă·yê·nî|and have let me live|H2
 v17 הִנֵּ֥ה|hin·nêh|Surely|H2009|Interjection
 v17 לְשָׁל֖וֹם|lə·šā·lō·wm|for my own welfare|H7965|Prep-l | N-ms
 v17 מַר־|mar-|I had such great|H4751|Adj-ms
-v17 לִ֣י|lî||H0|Prep | 1cs
+v17 לִ֣י|lî|-|H0|Prep | 1cs
 v17 מָ֑ר|mār|anguish|H4843|V-Qal-Perf-3ms
 v17 וְאַתָּ֞ה|wə·’at·tāh|but Your|H859|Conj-w | Pro-2ms
 v17 חָשַׁ֤קְתָּ|ḥā·šaq·tā|love|H2836|V-Qal-Perf-2ms
@@ -278,4 +278,4 @@ v22 א֑וֹת|’ō·wṯ|will be the sign|H226|N-cs
 v22 כִּ֥י|kî|that|H3588|Conj
 v22 אֶעֱלֶ֖ה|’e·‘ĕ·leh|I will go up|H5927|V-Qal-Imperf-1cs
 v22 בֵּ֥ית|bêṯ|to the house|H1004|N-msc
-v22 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v22 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms

@@ -86,7 +86,7 @@ v12 אֱלֹהָ֑יו|’ĕ·lō·hāw|God|H430|N-mpc | 3ms
 v12 הָעָ֓ם׀|hā·‘ām|the people|H5971|Art | N-ms
 v12 בָּחַ֖ר|bā·ḥar|He has chosen|H977|V-Qal-Perf-3ms
 v12 לְנַחֲלָ֣ה|lə·na·ḥă·lāh|as His inheritance|H5159|Prep-l | N-fs
-v12 לֽוֹ׃|lōw||H0|Prep | 3ms
+v12 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v13 מִ֭שָּׁמַיִם|miš·šā·ma·yim|from heaven|H8064|Prep-m | N-mp
 v13 הִבִּ֣יט|hib·bîṭ|looks down|H5027|V-Hifil-Perf-3ms
 v13 יְהוָ֑ה|Yah·weh|The LORD|H3068|N-proper-ms

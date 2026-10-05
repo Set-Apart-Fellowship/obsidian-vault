@@ -28,7 +28,7 @@ v2 מִן־|min-|widely|H4480|Prep
 v2 ה֣וּא|hū|...|H1931|Pro-3ms
 v2 וָהָ֑לְאָה|wā·hā·lə·’āh|...|H1973|Conj-w | Adv
 v2 גּ֚וֹי|gō·w|nation|H1471|N-ms
-v2 קַו־|qaw-||H6957|N-ms
+v2 קַו־|qaw-|-|H6957|N-ms
 v2 קָ֣ו|qāw|to a powerful|H6957|N-ms
 v2 וּמְבוּסָ֔ה|ū·mə·ḇū·sāh|of strange speech|H4001|Conj-w | N-fs
 v2 אֲשֶׁר־|’ă·šer-|whose|H834|Pro-r
@@ -46,7 +46,7 @@ v3 הָרִים֙|hā·rîm|on the mountains|H2022|N-mp
 v3 תִּרְא֔וּ|tir·’ū|you will see it|H7200|V-Qal-Imperf-2mp
 v3 וְכִתְקֹ֥עַ|wə·ḵiṯ·qō·a‘|sounds|H8628|Conj-w, Prep-k | V-Qal-Inf
 v3 שׁוֹפָ֖ר|šō·w·p̄ār|when a ram's horn|H7782|N-ms
-v3 תִּשְׁמָֽעוּ׃ס|tiš·mā·‘ū|you will hear it|H8085|V-Qal-Imperf-2mp
+v3 תִּשְׁמָֽעוּ׃|tiš·mā·‘ū|you will hear it|H8085|V-Qal-Imperf-2mp
 v4 כִּי֩|kî|For|H3588|Conj
 v4 כֹ֨ה|ḵōh|this is what|H3541|Adv
 v4 אָמַ֤ר|’ā·mar|has told|H559|V-Qal-Perf-3ms
@@ -108,7 +108,7 @@ v7 מִן־|min-|widely|H4480|Prep
 v7 ה֣וּא|hū|...|H1931|Pro-3ms
 v7 וָהָ֑לְאָה|wā·hā·lə·’āh|...|H1973|Conj-w | Adv
 v7 גּ֣וֹי׀|gō·w|nation|H1471|N-ms
-v7 קַו־|qaw-||H6957|N-ms
+v7 קַו־|qaw-|-|H6957|N-ms
 v7 קָ֣ו|qāw|from a powerful|H6957|N-ms
 v7 וּמְבוּסָ֗ה|ū·mə·ḇū·sāh|of strange speech|H4001|Conj-w | N-fs
 v7 אֲשֶׁ֨ר|’ă·šer|whose|H834|Pro-r
@@ -121,4 +121,4 @@ v7 שֵׁם־|šêm-|of the Name|H8034|N-msc
 v7 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v7 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v7 הַר־|har-|Mount|H2022|N-msc
-v7 צִיּֽוֹן׃ס|ṣî·yō·wn|Zion|H6726|N-proper-fs
+v7 צִיּֽוֹן׃|ṣî·yō·wn|Zion|H6726|N-proper-fs

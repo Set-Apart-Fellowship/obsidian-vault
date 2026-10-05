@@ -10,7 +10,7 @@ v1 תְיַסְּרֵֽנִי׃|ṯə·yas·sə·rê·nî|or discipline me|H3256
 v2 כִּֽי־|kî-|For|H3588|Conj
 v2 חִ֭צֶּיךָ|ḥiṣ·ṣe·ḵā|Your arrows|H2671|N-mpc | 2ms
 v2 נִ֣חֲתוּ|ni·ḥă·ṯū|have pierced me deeply|H5181|V-Nifal-Perf-3cp
-v2 בִ֑י|ḇî||H0|Prep | 1cs
+v2 בִ֑י|ḇî|-|H0|Prep | 1cs
 v2 וַתִּנְחַ֖ת|wat·tin·ḥaṯ|has pressed down|H5181|Conj-w | V-Qal-ConsecImperf-3fs
 v2 עָלַ֣י|‘ā·lay|on me|H5921|Prep | 1cs
 v2 יָדֶֽךָ׃|yā·ḏe·ḵā|and Your hand|H3027|N-fsc | 2ms
@@ -112,7 +112,7 @@ v14 שֹׁמֵ֑עַ|šō·mê·a‘|hear|H8085|V-Qal-Prtcpl-ms
 v14 וְאֵ֥ין|wə·’ên|...|H369|Conj-w | Adv
 v14 בְּ֝פִ֗יו|bə·p̄îw|whose mouth|H6310|Prep-b | N-msc | 3ms
 v14 תּוֹכָחֽוֹת׃|tō·w·ḵā·ḥō·wṯ|offers no reply|H8433|N-fp
-v15 כִּֽי־|kî-||H3588|Conj
+v15 כִּֽי־|kî-|-|H3588|Conj
 v15 לְךָ֣|lə·ḵā|for You|H0|Prep | 2ms
 v15 יְהוָ֣ה|Yah·weh|O LORD|H3068|N-proper-ms
 v15 הוֹחָ֑לְתִּי|hō·w·ḥā·lə·tî|I wait|H3176|V-Hifil-Perf-1cs

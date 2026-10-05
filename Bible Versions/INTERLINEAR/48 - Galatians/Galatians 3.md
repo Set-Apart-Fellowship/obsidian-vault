@@ -32,7 +32,7 @@ v3 ἀνόητοί|anoētoi|foolish|G453|Adj-NMP
 v3 ἐστε|este|Are you|G1510|V-PIA-2P
 v3 ἐναρξάμενοι|enarxamenoi|After starting|G1728|V-APM-NMP
 v3 Πνεύματι|Pneumati|in [the] Spirit|G4151|N-DNS
-v3 νῦν|nyn|vvv|G3568|Adv
+v3 νῦν|nyn|...|G3568|Adv
 v3 σαρκὶ|sarki|in [the] flesh|G4561|N-DFS
 v3 ἐπιτελεῖσθε|epiteleisthe|are you now finishing|G2005|V-PIM/P-2P
 v4 τοσαῦτα|tosauta|so much|G5118|DPro-ANP
@@ -126,7 +126,7 @@ v10 ὅτι|hoti|-|G3754|Conj
 v10 Ἐπικατάρατος|Epikataratos|Cursed is|G1944|Adj-NMS
 v10 πᾶς|pas|everyone|G3956|Adj-NMS
 v10 ὃς|hos|who|G3739|RelPro-NMS
-v10 οὐκ|ouk|vvv|G3756|Adv
+v10 οὐκ|ouk|...|G3756|Adv
 v10 ἐμμένει|emmenei|does not continue|G1696|V-PIA-3S
 v10 πᾶσιν|pasin|everything|G3956|Adj-DNP
 v10 τοῖς|tois|-|G3588|Art-DNP
@@ -138,7 +138,7 @@ v10 τοῦ|tou|of the|G3588|Art-GMS
 v10 νόμου|nomou|Law|G3551|N-GMS
 v10 τοῦ|tou|-|G3588|Art-GNS
 v10 ποιῆσαι|poiēsai|to do|G4160|V-ANA
-v10 αὐτά|auta|vvv|G846|PPro-AN3P
+v10 αὐτά|auta|...|G846|PPro-AN3P
 v11 ὅτι|hoti|that|G3754|Conj
 v11 δὲ|de|Now|G1161|Conj
 v11 ἐν|en|by|G1722|Prep
@@ -232,16 +232,16 @@ v16 καὶ|kai|and|G2532|Conj
 v16 τῷ|tō|to|G3588|Art-DNS
 v16 σπέρματι|spermati|seed|G4690|N-DNS
 v16 αὐτοῦ|autou|his|G846|PPro-GM3S
-v16 οὐ|ou|vvv|G3756|Adv
+v16 οὐ|ou|...|G3756|Adv
 v16 λέγει|legei|[The Scripture ] does not say|G3004|V-PIA-3S
 v16 Καὶ|Kai|and|G2532|Conj
 v16 τοῖς|tois|-|G3588|Art-DNP
 v16 σπέρμασιν|spermasin|to seeds|G4690|N-DNP
-v16 ὡς|hōs|vvv|G5613|Adv
+v16 ὡς|hōs|...|G5613|Adv
 v16 ἐπὶ|epi|meaning|G1909|Prep
 v16 πολλῶν|pollōn|many|G4183|Adj-GNP
 v16 ἀλλ’|all’|but|G235|Conj
-v16 ὡς|hōs|vvv|G5613|Adv
+v16 ὡς|hōs|...|G5613|Adv
 v16 ἐφ’|eph’|meaning|G1909|Prep
 v16 ἑνός|henos|One|G1520|Adj-GNS
 v16 Καὶ|Kai|and|G2532|Conj
@@ -261,13 +261,13 @@ v17 τοῦ|tou|-|G3588|Art-GMS
 v17 Θεοῦ|Theou|God|G2316|N-GMS
 v17 ὁ|ho|-|G3588|Art-NMS
 v17 μετὰ|meta|later|G3326|Prep
-v17 τετρακόσια|tetrakosia|430 {}|G5071|Adj-ANP
+v17 τετρακόσια|tetrakosia|430|G5071|Adj-ANP
 v17 καὶ|kai|...|G2532|Conj
 v17 τριάκοντα|triakonta|...|G5144|Adj-ANP
 v17 ἔτη|etē|years|G2094|N-ANP
 v17 γεγονὼς|gegonōs|that came|G1096|V-RPA-NMS
 v17 νόμος|nomos|[The] law|G3551|N-NMS
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 ἀκυροῖ|akyroi|does not revoke|G208|V-PIA-3S
 v17 εἰς|eis|so as|G1519|Prep
 v17 τὸ|to|-|G3588|Art-ANS
@@ -300,7 +300,7 @@ v19 παραβάσεων|parabaseōn|transgressions|G3847|N-GFP
 v19 χάριν|charin|because of|G5484|Prep
 v19 προσετέθη|prosetethē|It was added|G4369|V-AIP-3S
 v19 ἄχρις|achris|until|G891|Prep
-v19 οὗ*|hou|vvv|G3739|RelPro-GMS
+v19 οὗ*|hou|...|G3739|RelPro-GMS
 v19 ἔλθῃ|elthē|[the] arrival|G2064|V-ASA-3S
 v19 τὸ|to|of the|G3588|Art-NNS
 v19 σπέρμα|sperma|seed|G4690|N-NNS
@@ -310,7 +310,7 @@ v19 διαταγεὶς|diatageis|It was administered|G1299|V-APP-NMS
 v19 δι’|di’|through|G1223|Prep
 v19 ἀγγέλων|angelōn|angels|G32|N-GMP
 v19 ἐν|en|by|G1722|Prep
-v19 χειρὶ|cheiri|vvv|G5495|N-DFS
+v19 χειρὶ|cheiri|...|G5495|N-DFS
 v19 μεσίτου|mesitou|a mediator|G3316|N-GMS
 v20 ὁ|ho|-|G3588|Art-NMS
 v20 δὲ|de|however|G1161|Conj
@@ -331,7 +331,7 @@ v21 τῶν|tōn|the|G3588|Art-GFP
 v21 ἐπαγγελιῶν|epangeliōn|promises|G1860|N-GFP
 v21 τοῦ|tou|-|G3588|Art-GMS
 v21 Θεοῦ|Theou|of God|G2316|N-GMS
-v21 μὴ|mē|vvv|G3361|Adv
+v21 μὴ|mē|...|G3361|Adv
 v21 γένοιτο|genoito|Certainly not|G1096|V-AOM-3S
 v21 εἰ|ei|if|G1487|Conj
 v21 γὰρ|gar|For|G1063|Conj

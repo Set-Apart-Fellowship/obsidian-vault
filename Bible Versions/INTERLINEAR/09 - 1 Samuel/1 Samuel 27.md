@@ -69,7 +69,7 @@ v4 גַּ֑ת|gaṯ|to Gath|H1661|N-proper-fs
 v4 וְלֹֽא־|wə·lō-|he no|H3808|Conj-w | Adv-NegPrt
 v4 יוֹסַף|yō·sap̄|longer|H3254|V-Qal-Perf-3ms
 v4 ע֖וֹד|‘ō·wḏ|...|H5750|Adv
-v4 לְבַקְשֽׁוֹ׃ס|lə·ḇaq·šōw|searched for him|H1245|Prep-l | V-Piel-Inf | 3ms
+v4 לְבַקְשֽׁוֹ׃|lə·ḇaq·šōw|searched for him|H1245|Prep-l | V-Piel-Inf | 3ms
 v5 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v5 דָּוִ֜ד|dā·wiḏ|Then David|H1732|N-proper-ms
 v5 אֶל־|’el-|to|H413|Prep
@@ -107,7 +107,7 @@ v6 לְמַלְכֵ֣י|lə·mal·ḵê|the kings|H4428|Prep-l | N-mpc
 v6 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v6 עַ֖ד|‘aḏ|to|H5704|Prep
 v6 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v6 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v6 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v7 וַֽיְהִי֙|way·hî|amounted to|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v7 מִסְפַּ֣ר|mis·par|...|H4557|N-msc
 v7 הַיָּמִ֔ים|hay·yā·mîm|And the time|H3117|Art | N-mp
@@ -206,4 +206,4 @@ v12 בְיִשְׂרָאֵ֔ל|ḇə·yiś·rā·’êl|Israel|H3478|Prep-b | N-
 v12 וְהָ֥יָה|wə·hā·yāh|he will be|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v12 לִ֖י|lî|my|H0|Prep | 1cs
 v12 לְעֶ֥בֶד|lə·‘e·ḇeḏ|servant|H5650|Prep-l | N-msc
-v12 עוֹלָֽם׃פ|‘ō·w·lām|forever|H5769|N-ms
+v12 עוֹלָֽם׃|‘ō·w·lām|forever|H5769|N-ms

@@ -63,7 +63,7 @@ v4 הֳקִימַ֔ת|ho·qî·maṯ|and made to stand|H6966|V-Hofal-Perf-3fs
 v4 וּלְבַ֥ב|ū·lə·ḇaḇ|the mind|H3825|Conj-w | N-msc
 v4 אֱנָ֖שׁ|’ĕ·nāš|of a man|H606|N-ms
 v4 יְהִ֥יב|yə·hîḇ|and given|H3052|V-Nifal-Perf-3ms
-v4 לַֽהּ׃|lah||H0|Prep | 3fs
+v4 לַֽהּ׃|lah|-|H0|Prep | 3fs
 v5 וַאֲר֣וּ|wa·’ă·rū|Suddenly|H718|Conj-w | Interjection
 v5 חֵיוָה֩|ḥê·wāh|beast {appeared}|H2423|N-fs
 v5 אָחֳרִ֨י|’ā·ḥo·rî|another|H317|Adj-fs
@@ -80,7 +80,7 @@ v5 בֵּ֣ין|bên|between|H997|Prep
 v5 שִׁנַּיַּהּ|šin·nay·yah|its teeth|H8128|N-fsc | 3fs
 v5 וְכֵן֙|wə·ḵên|So|H3652|Conj-w | Adv
 v5 אָמְרִ֣ין|’ā·mə·rîn|it was told|H560|V-Qal-Prtcpl-mp
-v5 לַ֔הּ|lah||H0|Prep | 3fs
+v5 לַ֔הּ|lah|-|H0|Prep | 3fs
 v5 ק֥וּמִֽי|qū·mî|Get up|H6966|V-Qal-Imp-fs
 v5 אֲכֻ֖לִי|’ă·ḵu·lî|[and] gorge yourself|H399|V-Qal-Imp-fs
 v5 בְּשַׂ֥ר|bə·śar|on flesh|H1321|N-ms
@@ -104,7 +104,7 @@ v6 רֵאשִׁין֙|rê·šîn|heads|H7217|N-mp
 v6 לְחֵ֣יוְתָ֔א|lə·ḥê·wə·ṯā|The beast also|H2423|Prep-l | N-fsd
 v6 וְשָׁלְטָ֖ן|wə·šā·lə·ṭān|authority to rule|H7985|Conj-w | N-ms
 v6 יְהִ֥יב|yə·hîḇ|and it was given|H3052|V-Nifal-Perf-3ms
-v6 לַֽהּ׃|lah||H0|Prep | 3fs
+v6 לַֽהּ׃|lah|-|H0|Prep | 3fs
 v7 בָּאתַ֣ר|bā·ṯar|After|H870|Prep
 v7 דְּנָה֩|də·nāh|this|H1836|Pro-ms
 v7 חָזֵ֨ה|ḥā·zêh|watched|H2370|V-Qal-Prtcpl-ms
@@ -137,7 +137,7 @@ v7 דִּ֣י|dî|...|H1768|Pro-r
 v7 קָֽדָמַ֔יהּ|qā·ḏā·mayh|before it|H6925|Prep | 3fs
 v7 וְקַרְנַ֥יִן|wə·qar·na·yin|horns|H7162|Conj-w | N-fd
 v7 עֲשַׂ֖ר|‘ă·śar|and it had ten|H6236|Number-fs
-v7 לַֽהּ׃|lah||H0|Prep | 3fs
+v7 לַֽהּ׃|lah|-|H0|Prep | 3fs
 v8 מִשְׂתַּכַּ֨ל|miś·tak·kal|contemplating|H7920|V-Hitpael-Prtcpl-ms
 v8 הֲוֵ֜ית|hă·wêṯ|While I was|H1934|V-Qal-Perf-1cs
 v8 בְּקַרְנַיָּ֗א|bə·qar·nay·yā|the horns|H7162|Prep-b | N-fpd
@@ -274,7 +274,7 @@ v14 יֶעְדֵּ֔ה|ye‘·dêh|pass away|H5709|V-Qal-Imperf-3ms
 v14 וּמַלְכוּתֵ֖הּ|ū·mal·ḵū·ṯêh|and His kingdom is one|H4437|Conj-w | N-fsc | 3ms
 v14 דִּי־|dî-|that|H1768|Pro-r
 v14 לָ֥א|lā|will never|H3809|Adv-NegPrt
-v14 תִתְחַבַּֽל׃פ|ṯiṯ·ḥab·bal|be destroyed|H2255|V-Hitpael-Imperf-3fs
+v14 תִתְחַבַּֽל׃|ṯiṯ·ḥab·bal|be destroyed|H2255|V-Hitpael-Imperf-3fs
 v15 אֶתְכְּרִיַּ֥ת|’eṯ·kə·rî·yaṯ|was grieved|H3735|V-Hitpael-Perf-3fs
 v15 רוּחִ֛י|rū·ḥî|my spirit|H7308|N-csc | 1cs
 v15 אֲנָ֥ה|’ă·nāh|I|H576|Pro-1cs
@@ -285,7 +285,7 @@ v15 וְחֶזְוֵ֥י|wə·ḥez·wê|and the visions|H2376|Conj-w | N-mpc
 v15 רֵאשִׁ֖י|rê·šî|in my mind|H7217|N-msc | 1cs
 v15 יְבַהֲלֻנַּֽנִי׃|yə·ḇa·hă·lun·na·nî|alarmed me|H927|V-Piel-Imperf-3mp | 1cse
 v16 קִרְבֵ֗ת|qir·ḇêṯ|I approached|H7127|V-Qal-Perf-1cs
-v16 עַל־|‘al-||H5922|Prep
+v16 עַל־|‘al-|-|H5922|Prep
 v16 חַד֙|ḥaḏ|one|H2298|Number-ms
 v16 מִן־|min-|of|H4481|Prep
 v16 קָ֣אֲמַיָּ֔א|qā·’ă·may·yā|those who were standing there|H6966|V-Qal-Prtcpl-mpd
@@ -355,7 +355,7 @@ v20 וְאָחֳרִי֙|wə·’ā·ḥo·rî|and the other|H317|Conj-w | Adj-f
 v20 דִּ֣י|dî|...|H1768|Pro-r
 v20 סִלְקַ֔ת|sil·qaṯ|came up|H5559|V-Qal-Perf-3fs
 v20 וּנְפַלוּ|ū·nə·p̄a·lū|fell|H5308|Conj-w | V-Qal-ConjPerf-3fp
-v20 מִן־|min-||H4481|Prep
+v20 מִן־|min-|-|H4481|Prep
 v20 קֳדָמַיַּהּ|qo·ḏå̄·may·yah|before which|H6925|Prep | 3fs
 v20 תְּלָ֑ת|tə·lāṯ|three of them|H8532|Number-fs
 v20 וְקַרְנָ֨א|wə·qar·nā|the horn|H7162|Conj-w | N-fsd
@@ -477,7 +477,7 @@ v27 וְיִֽשְׁתַּמְּעֽוּן׃|wə·yiš·tam·mə·‘ūn|and obe
 v28 עַד־|‘aḏ-|-|H5705|Prep
 v28 כָּ֖ה|kāh|Thus|H3542|Adv
 v28 סוֹפָ֣א|sō·w·p̄ā|ends|H5491|N-msd
-v28 דִֽי־|ḏî-||H1768|Pro-r
+v28 דִֽי־|ḏî-|-|H1768|Pro-r
 v28 מִלְּתָ֑א|mil·lə·ṯā|the matter|H4406|N-fsd
 v28 אֲנָ֨ה|’ă·nāh|As for me|H576|Pro-1cs
 v28 דָֽנִיֵּ֜אל|ḏā·nî·yêl|Daniel|H1841|N-proper-ms
@@ -489,4 +489,4 @@ v28 יִשְׁתַּנּ֣וֹן|yiš·tan·nō·wn|turned pale|H8133|V-Hitpael-
 v28 עֲלַ֔י|‘ă·lay|...|H5922|Prep | 1cs
 v28 וּמִלְּתָ֖א|ū·mil·lə·ṯā|the matter|H4406|Conj-w | N-fsd
 v28 בְּלִבִּ֥י|bə·lib·bî|to myself|H3821|Prep-b | N-msc | 1cs
-v28 נִטְרֵֽת׃פ|niṭ·rêṯ|But I kept|H5202|V-Qal-Perf-1cs
+v28 נִטְרֵֽת׃|niṭ·rêṯ|But I kept|H5202|V-Qal-Perf-1cs

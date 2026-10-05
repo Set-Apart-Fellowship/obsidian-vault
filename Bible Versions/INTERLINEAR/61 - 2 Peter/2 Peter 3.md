@@ -9,7 +9,7 @@ v1 ἐν|en|[Both]|G1722|Prep
 v1 αἷς|hais|of [them]|G3739|RelPro-DFP
 v1 διεγείρω|diegeirō|to stir|G1326|V-PIA-1S
 v1 ὑμῶν|hymōn|you|G4771|PPro-G2P
-v1 ἐν|en|vvv|G1722|Prep
+v1 ἐν|en|...|G1722|Prep
 v1 ὑπομνήσει|hypomnēsei|[are] reminders|G5280|N-DFS
 v1 τὴν|tēn|-|G3588|Art-AFS
 v1 εἰλικρινῆ|eilikrinē|to wholesome|G1506|Adj-AFS
@@ -17,7 +17,7 @@ v1 διάνοιαν|dianoian|thinking|G1271|N-AFS
 v2 μνησθῆναι|mnēsthēnai|by recalling|G3403|V-ANP
 v2 τῶν|tōn|what|G3588|Art-GNP
 v2 προειρημένων|proeirēmenōn|was foretold|G4302|V-RPM/P-GNP
-v2 ῥημάτων|rhēmatōn|vvv|G4487|N-GNP
+v2 ῥημάτων|rhēmatōn|...|G4487|N-GNP
 v2 ὑπὸ|hypo|by|G5259|Prep
 v2 τῶν|tōn|the|G3588|Art-GMP
 v2 ἁγίων|hagiōn|holy|G40|Adj-GMP
@@ -41,7 +41,7 @@ v3 ἐπ’|ep’|in|G1909|Prep
 v3 ἐσχάτων|eschatōn|last|G2078|Adj-GFP
 v3 τῶν|tōn|the|G3588|Art-GFP
 v3 ἡμερῶν|hēmerōn|days|G2250|N-GFP
-v3 ἐν|en|vvv|G1722|Prep
+v3 ἐν|en|...|G1722|Prep
 v3 ἐμπαιγμονῇ|empaigmonē|scoffing|G1701|N-DFS
 v3 ἐμπαῖκται|empaiktai|scoffers|G1703|N-NMP
 v3 κατὰ|kata|-|G2596|Prep
@@ -61,7 +61,7 @@ v4 παρουσίας|parousias|coming|G3952|N-GFS
 v4 αὐτοῦ|autou|His|G846|PPro-GM3S
 v4 ἀφ’|aph’|Ever|G575|Prep
 v4 ἧς|hēs|since|G3739|RelPro-GFS
-v4 γὰρ|gar|vvv|G1063|Conj
+v4 γὰρ|gar|...|G1063|Conj
 v4 οἱ|hoi|[our]|G3588|Art-NMP
 v4 πατέρες|pateres|fathers|G3962|N-NMP
 v4 ἐκοιμήθησαν|ekoimēthēsan|fell asleep|G2837|V-AIP-3P
@@ -143,7 +143,7 @@ v8 ἔτη|etē|years|G2094|N-NNP
 v8 ὡς|hōs|[are] like|G5613|Adv
 v8 ἡμέρα|hēmera|day|G2250|N-NFS
 v8 μία|mia|a|G1520|Adj-NFS
-v9 οὐ|ou|vvv|G3756|Adv
+v9 οὐ|ou|...|G3756|Adv
 v9 βραδύνει|bradynei|is not slow [in keeping]|G1019|V-PIA-3S
 v9 Κύριος|Kyrios|The Lord|G2962|N-NMS
 v9 τῆς|tēs|[His]|G3588|Art-GFS
@@ -188,7 +188,7 @@ v10 τὰ|ta|-|G3588|Art-NNP
 v10 ἐν|en|-|G1722|Prep
 v10 αὐτῇ|autē|[its]|G846|PPro-DF3S
 v10 ἔργα|erga|works|G2041|N-NNP
-v10 [οὐχ]|ouch|vvv|G3756|Adv
+v10 [οὐχ]|ouch|...|G3756|Adv
 v10 εὑρεθήσεται|heurethēsetai|will be laid bare|G2147|V-FIP-3S
 v11 Τούτων|Toutōn|...|G3778|DPro-GNP
 v11 οὕτως|houtōs|in this way|G3779|Adv
@@ -212,7 +212,7 @@ v12 τῆς|tēs|of the|G3588|Art-GFS
 v12 τοῦ|tou|-|G3588|Art-GMS
 v12 Θεοῦ|Theou|of God|G2316|N-GMS
 v12 ἡμέρας|hēmeras|day|G2250|N-GFS
-v12 δι’|di’|vvv|G1223|Prep
+v12 δι’|di’|...|G1223|Prep
 v12 ἣν|hēn|when|G3739|RelPro-AFS
 v12 οὐρανοὶ|ouranoi|[the] heavens|G3772|N-NMP
 v12 πυρούμενοι|pyroumenoi|by fire|G4448|V-PPM/P-NMP
@@ -232,7 +232,7 @@ v13 τὸ|to|-|G3588|Art-ANS
 v13 ἐπάγγελμα|epangelma|promise|G1862|N-ANS
 v13 αὐτοῦ|autou|[God's]|G846|PPro-GM3S
 v13 προσδοκῶμεν|prosdokōmen|we are looking forward to|G4328|V-PIA-1P
-v13 ἐν|en|vvv|G1722|Prep
+v13 ἐν|en|...|G1722|Prep
 v13 οἷς|hois|where|G3739|RelPro-DMP
 v13 δικαιοσύνη|dikaiosynē|righteousness|G1343|N-NFS
 v13 κατοικεῖ|katoikei|dwells|G2730|V-PIA-3S
@@ -248,7 +248,7 @@ v14 αὐτῷ|autō|in His [sight]|G846|PPro-DM3S
 v14 εὑρεθῆναι|heurethēnai|to be found|G2147|V-ANP
 v14 ἐν|en|at|G1722|Prep
 v14 εἰρήνῃ|eirēnē|peace|G1515|N-DFS
-v15 Καὶ|Kai|vvv|G2532|Conj
+v15 Καὶ|Kai|...|G2532|Conj
 v15 τὴν|tēn|-|G3588|Art-AFS
 v15 τοῦ|tou|-|G3588|Art-GMS
 v15 Κυρίου|Kyriou|Lord's|G2962|N-GMS

@@ -4,7 +4,7 @@ v1 τῶν|tōn|[food]|G3588|Art-GNP
 v1 εἰδωλοθύτων|eidōlothytōn|sacrificed to idols|G1494|Adj-GNP
 v1 οἴδαμεν|oidamen|We know|G1492|V-RIA-1P
 v1 ὅτι|hoti|that|G3754|Conj
-v1 πάντες|pantes|vvv|G3956|Adj-NMP
+v1 πάντες|pantes|...|G3956|Adj-NMP
 v1 γνῶσιν|gnōsin|knowledge|G1108|N-AFS
 v1 ἔχομεν|echomen|we all have|G2192|V-PIA-1P
 v1 ἡ|hē|-|G3588|Art-NFS
@@ -19,7 +19,7 @@ v2 τις|tis|The one who|G5100|IPro-NMS
 v2 δοκεῖ|dokei|thinks|G1380|V-PIA-3S
 v2 ἐγνωκέναι|egnōkenai|he knows|G1097|V-RNA
 v2 τι|ti|something|G5100|IPro-ANS
-v2 οὔπω|oupō|vvv|G3768|Adv
+v2 οὔπω|oupō|...|G3768|Adv
 v2 ἔγνω|egnō|does not yet know|G1097|V-AIA-3S
 v2 καθὼς|kathōs|as|G2531|Adv
 v2 δεῖ|dei|he ought|G1163|V-PIA-3S
@@ -126,13 +126,13 @@ v7 μολύνεται|molynetai|it is defiled|G3435|V-PIM/P-3S
 v8 βρῶμα|brōma|food|G1033|N-NNS
 v8 δὲ|de|But|G1161|Conj
 v8 ἡμᾶς|hēmas|...|G1473|PPro-A1P
-v8 οὐ|ou|vvv|G3756|Adv
+v8 οὐ|ou|...|G3756|Adv
 v8 παραστήσει|parastēsei|does not bring us closer|G3936|V-FIA-3S
 v8 τῷ|tō|to|G3588|Art-DMS
 v8 Θεῷ|Theō|God|G2316|N-DMS
 v8 οὔτε|oute|-|G3777|Conj
 v8 ἐὰν|ean|if|G1437|Conj
-v8 μὴ|mē|vvv|G3361|Adv
+v8 μὴ|mē|...|G3361|Adv
 v8 φάγωμεν|phagōmen|we do not eat|G5315|V-ASA-1P
 v8 ὑστερούμεθα|hysteroumetha|We are no worse|G5302|V-PIM/P-1P
 v8 οὔτε|oute|[and]|G3777|Conj
@@ -142,8 +142,8 @@ v8 φάγωμεν|phagōmen|we do|G5315|V-ASA-1P
 v8 περισσεύομεν|perisseuomen|[better]|G4052|V-PIA-1P
 v9 Βλέπετε|Blepete|Be careful|G991|V-PMA-2P
 v9 δὲ|de|however|G1161|Conj
-v9 μή|mē|vvv|G3361|Adv
-v9 πως|pōs|vvv|G4459|Adv
+v9 μή|mē|...|G3361|Adv
+v9 πως|pōs|...|G4459|Adv
 v9 ἡ|hē|-|G3588|Art-NFS
 v9 ἐξουσία|exousia|freedom|G1849|N-NFS
 v9 ὑμῶν|hymōn|your|G4771|PPro-G2P
@@ -158,7 +158,7 @@ v10 τις|tis|someone|G5100|IPro-NMS
 v10 ἴδῃ|idē|sees|G3708|V-ASA-3S
 v10 σὲ|se|you|G4771|PPro-A2S
 v10 τὸν|ton|who|G3588|Art-AMS
-v10 ἔχοντα|echonta|vvv|G2192|V-PPA-AMS
+v10 ἔχοντα|echonta|...|G2192|V-PPA-AMS
 v10 γνῶσιν|gnōsin|are well informed|G1108|N-AFS
 v10 ἐν|en|in|G1722|Prep
 v10 εἰδωλείῳ|eidōleiō|an idol's temple|G1493|N-DNS
@@ -211,16 +211,16 @@ v13 σκανδαλίζει|skandalizei|causes|G4624|V-PIA-3S
 v13 τὸν|ton|-|G3588|Art-AMS
 v13 ἀδελφόν|adelphon|brother {to stumble}|G80|N-AMS
 v13 μου|mou|my|G1473|PPro-G1S
-v13 οὐ|ou|vvv|G3756|Adv
-v13 μὴ|mē|vvv|G3361|Adv
+v13 οὐ|ou|...|G3756|Adv
+v13 μὴ|mē|...|G3361|Adv
 v13 φάγω|phagō|I will never eat|G5315|V-ASA-1S
 v13 κρέα|krea|meat|G2907|N-ANP
-v13 εἰς|eis|vvv|G1519|Prep
-v13 τὸν|ton|vvv|G3588|Art-AMS
+v13 εἰς|eis|...|G1519|Prep
+v13 τὸν|ton|...|G3588|Art-AMS
 v13 αἰῶνα|aiōna|[again]|G165|N-AMS
 v13 ἵνα|hina|so that|G2443|Conj
-v13 μὴ|mē|vvv|G3361|Adv
+v13 μὴ|mē|...|G3361|Adv
 v13 τὸν|ton|-|G3588|Art-AMS
 v13 ἀδελφόν|adelphon|[him] {to stumble}|G80|N-AMS
-v13 μου|mou|vvv|G1473|PPro-G1S
+v13 μου|mou|...|G1473|PPro-G1S
 v13 σκανδαλίσω|skandalisō|I will not cause|G4624|V-ASA-1S

@@ -2,7 +2,7 @@ v1 Ἀλήθειαν|Alētheian|[the] truth|G225|N-AFS
 v1 λέγω|legō|I speak|G3004|V-PIA-1S
 v1 ἐν|en|in|G1722|Prep
 v1 Χριστῷ|Christō|Christ|G5547|N-DMS
-v1 οὐ|ou|vvv|G3756|Adv
+v1 οὐ|ou|...|G3756|Adv
 v1 ψεύδομαι|pseudomai|I am not lying|G5574|V-PIM/P-1S
 v1 συμμαρτυρούσης|symmartyrousēs|as confirmed|G4828|V-PPA-GFS
 v1 μοι|moi|...|G1473|PPro-D1S
@@ -71,7 +71,7 @@ v5 ὧν|hōn|them [ proceeds ]|G3739|RelPro-GMP
 v5 ὁ|ho|-|G3588|Art-NMS
 v5 Χριστὸς|Christos|of Christ|G5547|N-NMS
 v5 τὸ|to|-|G3588|Art-ANS
-v5 κατὰ|kata|vvv|G2596|Prep
+v5 κατὰ|kata|...|G2596|Prep
 v5 σάρκα|sarka|[the] human [descent]|G4561|N-AFS
 v5 ὁ|ho|who|G3588|Art-NMS
 v5 ὢν|ōn|is|G1510|V-PPA-NMS
@@ -79,8 +79,8 @@ v5 ἐπὶ|epi|over|G1909|Prep
 v5 πάντων|pantōn|all|G3956|Adj-GNP
 v5 Θεὸς|Theos|God|G2316|N-NMS
 v5 εὐλογητὸς|eulogētos|worthy of praise|G2128|Adj-NMS
-v5 εἰς|eis|vvv|G1519|Prep
-v5 τοὺς|tous|vvv|G3588|Art-AMP
+v5 εἰς|eis|...|G1519|Prep
+v5 τοὺς|tous|...|G3588|Art-AMP
 v5 αἰῶνας|aiōnas|forever|G165|N-AMP
 v5 ἀμήν|amēn|Amen|G281|Heb
 v6 Οὐχ|Ouch|[It is] not|G3756|Adv
@@ -210,7 +210,7 @@ v14 ἀδικία|adikia|unjust|G93|N-NFS
 v14 παρὰ|para|-|G3844|Prep
 v14 τῷ|tō|-|G3588|Art-DMS
 v14 θεῷ|theō|God|G2316|N-DMS
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 γένοιτο|genoito|Certainly not|G1096|V-AOM-3S
 v15 τῷ|tō|to|G3588|Art-DMS
 v15 Μωϋσεῖ|Mōusei|Moses|G3475|N-DMS
@@ -218,12 +218,12 @@ v15 γὰρ|gar|For|G1063|Conj
 v15 λέγει|legei|He says|G3004|V-PIA-3S
 v15 Ἐλεήσω|Eleēsō|I will have mercy on|G1653|V-FIA-1S
 v15 ὃν|hon|whom|G3739|RelPro-AMS
-v15 ἂν|an|vvv|G302|Prtcl
+v15 ἂν|an|...|G302|Prtcl
 v15 ἐλεῶ|eleō|I have mercy|G1653|V-PSA-1S
 v15 καὶ|kai|and|G2532|Conj
 v15 οἰκτιρήσω*|oiktirēsō|I will have compassion on|G3627|V-FIA-1S
 v15 ὃν|hon|whom|G3739|RelPro-AMS
-v15 ἂν|an|vvv|G302|Prtcl
+v15 ἂν|an|...|G302|Prtcl
 v15 οἰκτίρω*|oiktirō|I have compassion|G3627|V-PSA-1S
 v16 Ἄρα|Ara|So|G686|Conj
 v16 οὖν|oun|then|G3767|Conj
@@ -280,7 +280,7 @@ v19 μοι|moi|to me|G1473|PPro-D1S
 v19 οὖν|oun|-|G3767|Conj
 v19 Τί|Ti|why|G5101|IPro-ANS
 v19 ‹οὖν›|oun|Then|G3767|Conj
-v19 ἔτι|eti|vvv|G2089|Adv
+v19 ἔτι|eti|...|G2089|Adv
 v19 μέμφεται|memphetai|does [God] still find fault|G3201|V-PIM/P-3S
 v19 τῷ|tō|-|G3588|Art-DNS
 v19 γὰρ|gar|For|G1063|Conj
@@ -425,7 +425,7 @@ v27 ᾖ|ē|is|G1510|V-PSA-3S
 v27 ὁ|ho|the|G3588|Art-NMS
 v27 ἀριθμὸς|arithmos|number|G706|N-NMS
 v27 τῶν|tōn|of the|G3588|Art-GMP
-v27 υἱῶν|huiōn|vvv|G5207|N-GMP
+v27 υἱῶν|huiōn|...|G5207|N-GMP
 v27 Ἰσραὴλ|Israēl|Israelites|G2474|N-GMS
 v27 ὡς|hōs|like|G5613|Adv
 v27 ἡ|hē|the|G3588|Art-NFS
@@ -458,12 +458,12 @@ v29 ἡμῖν|hēmin|us|G1473|PPro-D1P
 v29 σπέρμα|sperma|descendants|G4690|N-ANS
 v29 ὡς|hōs|like|G5613|Adv
 v29 Σόδομα|Sodoma|Sodom|G4670|N-NNP
-v29 ἂν|an|vvv|G302|Prtcl
+v29 ἂν|an|...|G302|Prtcl
 v29 ἐγενήθημεν|egenēthēmen|we would have become|G1096|V-AIP-1P
 v29 καὶ|kai|-|G2532|Conj
 v29 ὡς|hōs|...|G5613|Adv
 v29 Γόμορρα|Gomorra|Gomorrah|G1116|N-NFS
-v29 ἂν|an|vvv|G302|Prtcl
+v29 ἂν|an|...|G302|Prtcl
 v29 ὡμοιώθημεν|hōmoiōthēmen|we would have resembled|G3666|V-AIP-1P
 v30 Τί|Ti|What|G5101|IPro-ANS
 v30 οὖν|oun|then|G3767|Conj
@@ -471,7 +471,7 @@ v30 ἐροῦμεν|eroumen|will we say|G2046|V-FIA-1P
 v30 ὅτι|hoti|That|G3754|Conj
 v30 ἔθνη|ethnē|[the] Gentiles|G1484|N-NNP
 v30 τὰ|ta|who|G3588|Art-NNP
-v30 μὴ|mē|vvv|G3361|Adv
+v30 μὴ|mē|...|G3361|Adv
 v30 διώκοντα|diōkonta|did not pursue|G1377|V-PPA-NNP
 v30 δικαιοσύνην|dikaiosynēn|righteousness|G1343|N-AFS
 v30 κατέλαβεν|katelaben|have obtained|G2638|V-AIA-3S
@@ -486,9 +486,9 @@ v31 δὲ|de|but|G1161|Conj
 v31 διώκων|diōkōn|who pursued|G1377|V-PPA-NMS
 v31 νόμον|nomon|a law|G3551|N-AMS
 v31 δικαιοσύνης|dikaiosynēs|of righteousness|G1343|N-GFS
-v31 εἰς|eis|vvv|G1519|Prep
+v31 εἰς|eis|...|G1519|Prep
 v31 νόμον|nomon|[it]|G3551|N-AMS
-v31 οὐκ|ouk|vvv|G3756|Adv
+v31 οὐκ|ouk|...|G3756|Adv
 v31 ἔφθασεν|ephthasen|has not attained|G5348|V-AIA-3S
 v32 διὰ|dia|Why [not]|G1223|Prep
 v32 τί|ti|...|G5101|IPro-ANS
@@ -503,7 +503,7 @@ v32 ἔργων|ergōn|works|G2041|N-GNP
 v32 προσέκοψαν|prosekopsan|They stumbled|G4350|V-AIA-3P
 v32 τῷ|tō|over the|G3588|Art-DMS
 v32 λίθῳ|lithō|stone|G3037|N-DMS
-v32 τοῦ|tou|vvv|G3588|Art-GNS
+v32 τοῦ|tou|...|G3588|Art-GNS
 v32 προσκόμματος|proskommatos|stumbling|G4348|N-GNS
 v33 καθὼς|kathōs|as|G2531|Adv
 v33 γέγραπται|gegraptai|it is written|G1125|V-RIM/P-3S
@@ -521,5 +521,5 @@ v33 ὁ|ho|the [one who]|G3588|Art-NMS
 v33 πιστεύων|pisteuōn|believes|G4100|V-PPA-NMS
 v33 ἐπ’|ep’|in|G1909|Prep
 v33 αὐτῷ|autō|Him|G846|PPro-DM3S
-v33 οὐ|ou|vvv|G3756|Adv
+v33 οὐ|ou|...|G3756|Adv
 v33 καταισχυνθήσεται|kataischynthēsetai|will never be put to shame|G2617|V-FIP-3S

@@ -121,7 +121,7 @@ v8 מִמֶּ֑נּוּ|mim·men·nū|from|H4480|Prep | 3ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 הַחֵ֙לֶב֙|ha·ḥê·leḇ|the fat|H2459|Art | N-ms
 v8 הַֽמְכַסֶּ֣ה|ham·ḵas·seh|that covers|H3680|Art | V-Piel-Prtcpl-ms
-v8 עַל־|‘al-||H5921|Prep
+v8 עַל־|‘al-|-|H5921|Prep
 v8 הַקֶּ֔רֶב|haq·qe·reḇ|the entrails|H7130|Art | N-ms
 v8 וְאֵת֙|wə·’êṯ|-|H853|Conj-w | DirObjM
 v8 כָּל־|kāl-|all|H3605|N-msc
@@ -149,7 +149,7 @@ v9 יְסִירֶֽנָּה׃|yə·sî·ren·nāh|which he is to remove|H5493|V-
 v10 כַּאֲשֶׁ֣ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v10 יוּרַ֔ם|yū·ram|the fat is removed|H7311|V-Hofal-Imperf-3ms
 v10 מִשּׁ֖וֹר|miš·šō·wr|from the ox|H7794|Prep-m | N-msc
-v10 זֶ֣בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v10 זֶ֣בַח|ze·ḇaḥ|...|H2077|N-msc
 v10 הַשְּׁלָמִ֑ים|haš·šə·lā·mîm|of the peace offering|H8002|Art | N-mp
 v10 וְהִקְטִירָם֙|wə·hiq·ṭî·rām|shall burn them|H6999|Conj-w | V-Hifil-ConjPerf-3ms | 3mp
 v10 הַכֹּהֵ֔ן|hak·kō·hên|Then the priest|H3548|Art | N-ms
@@ -189,7 +189,7 @@ v12 בָּאֵ֑שׁ|bā·’êš|fire|H784|Prep-b, Art | N-cs
 v12 עַל־|‘al-|on|H5921|Prep
 v12 שֶׁ֥פֶךְ|še·p̄eḵ|heap|H8211|N-msc
 v12 הַדֶּ֖שֶׁן|had·de·šen|the ash|H1880|Art | N-ms
-v12 יִשָּׂרֵֽף׃פ|yiś·śā·rêp̄|-|H8313|V-Nifal-Imperf-3ms
+v12 יִשָּׂרֵֽף׃|yiś·śā·rêp̄|-|H8313|V-Nifal-Imperf-3ms
 v13 וְאִ֨ם|wə·’im|Now if|H518|Conj
 v13 כָּל־|kāl-|the whole|H3605|N-msc
 v13 עֲדַ֤ת|‘ă·ḏaṯ|congregation|H5712|N-fsc
@@ -299,7 +299,7 @@ v20 לְפַ֣ר|lə·p̄ar|the bull|H6499|Prep-l | N-msc
 v20 הַֽחַטָּ֔את|ha·ḥaṭ·ṭāṯ|for the sin offering|H2403|Art | N-fs
 v20 כֵּ֖ן|kên|in this way|H3651|Adv
 v20 יַעֲשֶׂה־|ya·‘ă·śeh-|-|H6213|V-Qal-Imperf-3ms
-v20 לּ֑וֹ|lōw||H0|Prep | 3ms
+v20 לּ֑וֹ|lōw|-|H0|Prep | 3ms
 v20 וְכִפֶּ֧ר|wə·ḵip·per|will make atonement|H3722|Conj-w | V-Piel-ConjPerf-3ms
 v20 עֲלֵהֶ֛ם|‘ă·lê·hem|on their behalf|H5921|Prep | 3mp
 v20 הַכֹּהֵ֖ן|hak·kō·hên|the priest|H3548|Art | N-ms
@@ -308,7 +308,7 @@ v20 לָהֶֽם׃|lā·hem|...|H0|Prep-l | Pro-3mp
 v21 וְהוֹצִ֣יא|wə·hō·w·ṣî|Then he is to take|H3318|Conj-w | V-Hifil-ConjPerf-3ms
 v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 הַפָּ֗ר|hap·pār|the bull|H6499|Art | N-ms
-v21 אֶל־|’el-|vvv|H413|Prep
+v21 אֶל־|’el-|...|H413|Prep
 v21 מִחוּץ֙|mi·ḥūṣ|outside|H2351|Prep-m | N-ms
 v21 לַֽמַּחֲנֶ֔ה|lam·ma·ḥă·neh|the camp|H4264|Prep-l, Art | N-cs
 v21 וְשָׂרַ֣ף|wə·śā·rap̄|and burn|H8313|Conj-w | V-Qal-ConjPerf-3ms
@@ -320,7 +320,7 @@ v21 הַפָּ֣ר|hap·pār|bull|H6499|Art | N-ms
 v21 הָרִאשׁ֑וֹן|hā·ri·šō·wn|the first|H7223|Art | Adj-ms
 v21 חַטַּ֥את|ḥaṭ·ṭaṯ|is the sin offering|H2403|N-fsc
 v21 הַקָּהָ֖ל|haq·qā·hāl|for the assembly|H6951|Art | N-ms
-v21 הֽוּא׃פ|hū|It|H1931|Pro-3ms
+v21 הֽוּא׃|hū|It|H1931|Pro-3ms
 v22 אֲשֶׁ֥ר|’ă·šer|When|H834|Pro-r
 v22 נָשִׂ֖יא|nā·śî|a leader|H5387|N-ms
 v22 יֶֽחֱטָ֑א|ye·ḥĕ·ṭā|sins|H2398|V-Qal-Imperf-3ms
@@ -341,7 +341,7 @@ v23 אֵלָיו֙|’ê·lāw|...|H413|Prep | 3ms
 v23 חַטָּאת֔וֹ|ḥaṭ·ṭā·ṯōw|of the sin|H2403|N-fsc | 3ms
 v23 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v23 חָטָ֖א|ḥā·ṭā|he has committed|H2398|V-Qal-Perf-3ms
-v23 בָּ֑הּ|bāh||H0|Prep | 3fs
+v23 בָּ֑הּ|bāh|-|H0|Prep | 3fs
 v23 וְהֵבִ֧יא|wə·hê·ḇî|he must bring|H935|Conj-w | V-Hifil-ConjPerf-3ms
 v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 קָרְבָּנ֛וֹ|qā·rə·bā·nōw|as his offering|H7133|N-msc | 3ms
@@ -388,14 +388,14 @@ v26 חֶלְבּוֹ֙|ḥel·bōw|its fat|H2459|N-msc | 3ms
 v26 יַקְטִ֣יר|yaq·ṭîr|He must burn|H6999|V-Hifil-Imperf-3ms
 v26 הַמִּזְבֵּ֔חָה|ham·miz·bê·ḥāh|on the altar|H4196|Art | N-ms | 3fs
 v26 כְּחֵ֖לֶב|kə·ḥê·leḇ|like the fat|H2459|Prep-k | N-msc
-v26 זֶ֣בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v26 זֶ֣בַח|ze·ḇaḥ|...|H2077|N-msc
 v26 הַשְּׁלָמִ֑ים|haš·šə·lā·mîm|of the peace offerings|H8002|Art | N-mp
 v26 וְכִפֶּ֨ר|wə·ḵip·per|will make atonement|H3722|Conj-w | V-Piel-ConjPerf-3ms
 v26 עָלָ֧יו|‘ā·lāw|for|H5921|Prep | 3ms
 v26 הַכֹּהֵ֛ן|hak·kō·hên|thus the priest|H3548|Art | N-ms
 v26 מֵחַטָּאת֖וֹ|mê·ḥaṭ·ṭā·ṯōw|that man's sin|H2403|Prep-m | N-fsc | 3ms
 v26 וְנִסְלַ֥ח|wə·nis·laḥ|and he will be forgiven|H5545|Conj-w | V-Nifal-ConjPerf-3ms
-v26 לֽוֹ׃פ|lōw||H0|Prep | 3ms
+v26 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v27 וְאִם־|wə·’im-|And if|H518|Conj
 v27 נֶ֧פֶשׁ|ne·p̄eš|one|H5315|N-fsc
 v27 אַחַ֛ת|’a·ḥaṯ|...|H259|Number-fs
@@ -415,7 +415,7 @@ v28 א֚וֹ|’ōw|-|H176|Conj
 v28 הוֹדַ֣ע|hō·w·ḏa‘|When he becomes aware|H3045|V-Hofal-Perf-3ms
 v28 אֵלָ֔יו|’ê·lāw|...|H413|Prep | 3ms
 v28 חַטָּאת֖וֹ|ḥaṭ·ṭā·ṯōw|of the sin|H2403|N-fsc | 3ms
-v28 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v28 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v28 חָטָ֑א|ḥā·ṭā|he has committed|H2398|V-Qal-Perf-3ms
 v28 וְהֵבִ֨יא|wə·hê·ḇî|he must bring|H935|Conj-w | V-Hifil-ConjPerf-3ms
 v28 קָרְבָּנ֜וֹ|qā·rə·bā·nōw|as his offering|H7133|N-msc | 3ms
@@ -462,7 +462,7 @@ v31 כַּאֲשֶׁ֨ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v31 הוּסַ֣ר|hū·sar|is removed|H5493|V-Hofal-Perf-3ms
 v31 חֵלֶב֮|ḥê·leḇ|[it]|H2459|N-ms
 v31 מֵעַ֣ל|mê·‘al|from|H5921|Prep-m
-v31 זֶ֣בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v31 זֶ֣בַח|ze·ḇaḥ|...|H2077|N-msc
 v31 הַשְּׁלָמִים֒|haš·šə·lā·mîm|the peace offering|H8002|Art | N-mp
 v31 וְהִקְטִ֤יר|wə·hiq·ṭîr|is to burn|H6999|Conj-w | V-Hifil-ConjPerf-3ms
 v31 הַכֹּהֵן֙|hak·kō·hên|and the priest|H3548|Art | N-ms
@@ -474,7 +474,7 @@ v31 וְכִפֶּ֥ר|wə·ḵip·per|will make atonement|H3722|Conj-w | V-Piel
 v31 עָלָ֛יו|‘ā·lāw|for him|H5921|Prep | 3ms
 v31 הַכֹּהֵ֖ן|hak·kō·hên|In this way the priest|H3548|Art | N-ms
 v31 וְנִסְלַ֥ח|wə·nis·laḥ|and he will be forgiven|H5545|Conj-w | V-Nifal-ConjPerf-3ms
-v31 לֽוֹ׃פ|lōw||H0|Prep | 3ms
+v31 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v32 וְאִם־|wə·’im-|If, however|H518|Conj
 v32 כֶּ֛בֶשׂ|ke·ḇeś|a lamb|H3532|N-ms
 v32 יָבִ֥יא|yā·ḇî|he brings|H935|V-Hifil-Imperf-3ms
@@ -522,7 +522,7 @@ v35 כַּאֲשֶׁ֨ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v35 יוּסַ֥ר|yū·sar|is removed|H5493|V-Hofal-Imperf-3ms
 v35 חֵֽלֶב־|ḥê·leḇ-|the fat|H2459|N-msc
 v35 הַכֶּשֶׂב֮|hak·ke·śeḇ|of the lamb|H3775|Art | N-ms
-v35 מִזֶּ֣בַח|miz·ze·ḇaḥ|vvv|H2077|Prep-m | N-msc
+v35 מִזֶּ֣בַח|miz·ze·ḇaḥ|...|H2077|Prep-m | N-msc
 v35 הַשְּׁלָמִים֒|haš·šə·lā·mîm|from the peace offerings|H8002|Art | N-mp
 v35 וְהִקְטִ֨יר|wə·hiq·ṭîr|shall burn|H6999|Conj-w | V-Hifil-ConjPerf-3ms
 v35 הַכֹּהֵ֤ן|hak·kō·hên|and [he]|H3548|Art | N-ms
@@ -539,4 +539,4 @@ v35 חַטָּאת֥וֹ|ḥaṭ·ṭā·ṯōw|the sin|H2403|N-fsc | 3ms
 v35 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v35 חָטָ֖א|ḥā·ṭā|he has committed|H2398|V-Qal-Perf-3ms
 v35 וְנִסְלַ֥ח|wə·nis·laḥ|and he will be forgiven|H5545|Conj-w | V-Nifal-ConjPerf-3ms
-v35 לֽוֹ׃פ|lōw||H0|Prep | 3ms
+v35 לֽוֹ׃|lōw|-|H0|Prep | 3ms

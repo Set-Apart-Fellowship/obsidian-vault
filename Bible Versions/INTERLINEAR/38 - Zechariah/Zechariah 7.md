@@ -13,11 +13,11 @@ v1 לַחֹ֥דֶשׁ|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v1 הַתְּשִׁעִ֖י|hat·tə·ši·‘î|day of the ninth|H8671|Art | Number-oms
 v1 בְּכִסְלֵֽו׃|bə·ḵis·lêw|the month of Chislev|H3691|Prep-b | N-proper-fs
 v2 וַיִּשְׁלַח֙|way·yiš·laḥ|had sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
-v2 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v2 בֵּֽית־|bêṯ-|...|H1008|Prep
 v2 אֵ֔ל|’êl|Now the people of Bethel|H1008|N-proper-fs
-v2 שַׂר־|śar-|vvv|H8272|
+v2 שַׂר־|śar-|...|H8272|
 v2 אֶ֕צֶר|’e·ṣer|Sharezer|H8272|N-proper-ms
-v2 וְרֶ֥גֶם|wə·re·ḡem|vvv|H7278|
+v2 וְרֶ֥גֶם|wə·re·ḡem|...|H7278|
 v2 מֶ֖לֶךְ|me·leḵ|and Regem-melech|H7278|Conj-w | N-proper-ms
 v2 וַֽאֲנָשָׁ֑יו|wa·’ă·nā·šāw|along with their men|H582|Conj-w | N-mpc | 3ms
 v2 לְחַלּ֖וֹת|lə·ḥal·lō·wṯ|to plead|H2470|Prep-l | V-Piel-Inf
@@ -42,7 +42,7 @@ v3 כַּאֲשֶׁ֣ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v3 עָשִׂ֔יתִי|‘ā·śî·ṯî|I have done|H6213|V-Qal-Perf-1cs
 v3 זֶ֖ה|zeh|these|H2088|Pro-ms
 v3 כַּמֶּ֥ה|kam·meh|many|H4100|Interrog
-v3 שָׁנִֽים׃פ|šā·nîm|years|H8141|N-fp
+v3 שָׁנִֽים׃|šā·nîm|years|H8141|N-fp
 v4 וַיְהִ֛י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v4 דְּבַר־|də·ḇar-|Then the word|H1697|N-msc
 v4 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -94,7 +94,7 @@ v7 וְעָרֶ֖יהָ|wə·‘ā·re·hā|towns|H5892|Conj-w | N-fpc | 3fs
 v7 סְבִיבֹתֶ֑יהָ|sə·ḇî·ḇō·ṯe·hā|and its surrounding|H5439|Adv | 3fs
 v7 וְהַנֶּ֥גֶב|wə·han·ne·ḡeḇ|and the Negev|H5045|Conj-w, Art | N-proper-fs
 v7 וְהַשְּׁפֵלָ֖ה|wə·haš·šə·p̄ê·lāh|and the foothills|H8219|Conj-w, Art | N-fs
-v7 יֹשֵֽׁב׃פ|yō·šêḇ|were inhabited|H3427|V-Qal-Prtcpl-ms
+v7 יֹשֵֽׁב׃|yō·šêḇ|were inhabited|H3427|V-Qal-Prtcpl-ms
 v8 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דְּבַר־|də·ḇar-|Then the word|H1697|N-msc
 v8 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -184,4 +184,4 @@ v14 וּמִשָּׁ֑ב|ū·miš·šāḇ|or go|H7725|Conj-w, Prep-m | V-Qal-Pr
 v14 וַיָּשִׂ֥ימוּ|way·yā·śî·mū|Thus they turned|H7760|Conj-w | V-Qal-ConsecImperf-3mp
 v14 אֶֽרֶץ־|’e·reṣ-|land|H776|N-fsc
 v14 חֶמְדָּ֖ה|ḥem·dāh|the pleasant|H2532|N-fs
-v14 לְשַׁמָּֽה׃פ|lə·šam·māh|into a desolation|H8047|Prep-l | N-fs
+v14 לְשַׁמָּֽה׃|lə·šam·māh|into a desolation|H8047|Prep-l | N-fs

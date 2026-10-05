@@ -52,7 +52,7 @@ v4 מֹשֶׁ֔ה|mō·šeh|Moses|H4872|N-proper-ms
 v4 כֵּ֥ן|kên|...|H3651|Adv
 v4 עָשָׂ֖ה|‘ā·śāh|fashioned|H6213|V-Qal-Perf-3ms
 v4 אֶת־|’eṯ-|-|H853|DirObjM
-v4 הַמְּנֹרָֽה׃פ|ham·mə·nō·rāh|-|H4501|Art | N-fs
+v4 הַמְּנֹרָֽה׃|ham·mə·nō·rāh|-|H4501|Art | N-fs
 v5 וַיְדַבֵּ֥ר|way·ḏab·bêr|spoke|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v5 יְהוָ֖ה|Yah·weh|Again the LORD|H3068|N-proper-ms
 v5 אֶל־|’el-|to|H413|Prep
@@ -68,7 +68,7 @@ v6 וְטִהַרְתָּ֖|wə·ṭi·har·tā|and make them ceremonially clean
 v6 אֹתָֽם׃|’ō·ṯām|-|H853|DirObjM | 3mp
 v7 וְכֹֽה־|wə·ḵōh-|This is what|H3541|Conj-w | Adv
 v7 תַעֲשֶׂ֤ה|ṯa·‘ă·śeh|you must do|H6213|V-Qal-Imperf-2ms
-v7 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v7 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v7 לְטַֽהֲרָ֔ם|lə·ṭa·hă·rām|to cleanse them|H2891|Prep-l | V-Piel-Inf | 3mp
 v7 הַזֵּ֥ה|haz·zêh|Sprinkle|H5137|V-Hifil-Imp-ms
 v7 עֲלֵיהֶ֖ם|‘ă·lê·hem|them|H5921|Prep | 3mp
@@ -168,7 +168,7 @@ v14 וְהִבְדַּלְתָּ֙|wə·hiḇ·dal·tā|In this way you shall se
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 הַלְוִיִּ֔ם|hal·wî·yim|the Levites|H3881|Art | N-proper-mp
 v14 מִתּ֖וֹךְ|mit·tō·wḵ|from|H8432|Prep-m | N-msc
-v14 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v14 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v14 יִשְׂרָאֵ֑ל|yiś·rā·’êl|the rest of the Israelites|H3478|N-proper-ms
 v14 וְהָ֥יוּ|wə·hā·yū|will belong|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v14 לִ֖י|lî|to Me|H0|Prep | 1cs
@@ -231,11 +231,11 @@ v18 בְּכ֖וֹר|bə·ḵō·wr|the firstborn|H1060|N-ms
 v18 בִּבְנֵ֥י|biḇ·nê|among the sons|H1121|Prep-b | N-mpc
 v18 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v19 וָאֶתְּנָ֨ה|wā·’et·tə·nāh|And I have given|H5414|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
-v19 אֶת־|’eṯ-||H853|DirObjM
+v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 הַלְוִיִּ֜ם|hal·wî·yim|the Levites|H3881|Art | N-proper-mp
 v19 נְתֻנִ֣ים׀|nə·ṯu·nîm|as a gift|H5414|V-Qal-QalPassPrtcpl-mp
 v19 לְאַהֲרֹ֣ן|lə·’a·hă·rōn|to Aaron|H175|Prep-l | N-proper-ms
-v19 וּלְבָנָ֗יו|ū·lə·ḇā·nāw|vvv|H1121|Conj-w, Prep-l | N-mpc | 3ms
+v19 וּלְבָנָ֗יו|ū·lə·ḇā·nāw|...|H1121|Conj-w, Prep-l | N-mpc | 3ms
 v19 מִתּוֹךְ֮|mit·tō·wḵ|from among|H8432|Prep-m | N-msc
 v19 בְּנֵ֣י|bə·nê|[and] his sons|H1121|N-mpc
 v19 יִשְׂרָאֵל֒|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
@@ -299,7 +299,7 @@ v22 כֵ֞ן|ḵên|that|H3651|Adv
 v22 בָּ֣אוּ|bā·’ū|came|H935|V-Qal-Perf-3cp
 v22 הַלְוִיִּ֗ם|hal·wî·yim|the Levites|H3881|Art | N-proper-mp
 v22 לַעֲבֹ֤ד|la·‘ă·ḇōḏ|to perform|H5647|Prep-l | V-Qal-Inf
-v22 אֶת־|’eṯ-||H853|DirObjM
+v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 עֲבֹֽדָתָם֙|‘ă·ḇō·ḏā·ṯām|their service|H5656|N-fsc | 3mp
 v22 בְּאֹ֣הֶל|bə·’ō·hel|at the Tent|H168|Prep-b | N-msc
 v22 מוֹעֵ֔ד|mō·w·‘êḏ|of Meeting|H4150|N-ms
@@ -316,7 +316,7 @@ v22 עַל־|‘al-|-|H5921|Prep
 v22 הַלְוִיִּ֔ם|hal·wî·yim|with the Levites|H3881|Art | N-proper-mp
 v22 כֵּ֖ן|kên|Thus|H3651|Adv
 v22 עָשׂ֥וּ|‘ā·śū|they did|H6213|V-Qal-Perf-3cp
-v22 לָהֶֽם׃ס|lā·hem||H0|Prep | 3mp
+v22 לָהֶֽם׃|lā·hem|-|H0|Prep | 3mp
 v23 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v23 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v23 אֶל־|’el-|to|H413|Prep
@@ -358,4 +358,4 @@ v26 יַעֲבֹ֑ד|ya·‘ă·ḇōḏ|to do|H5647|V-Qal-Imperf-3ms
 v26 כָּ֛כָה|kā·ḵāh|This is how|H3602|Adv
 v26 תַּעֲשֶׂ֥ה|ta·‘ă·śeh|you are to assign|H6213|V-Qal-Imperf-2ms
 v26 לַלְוִיִּ֖ם|lal·wî·yim|to the Levites|H3881|Prep-l | N-proper-mp
-v26 בְּמִשְׁמְרֹתָֽם׃פ|bə·miš·mə·rō·ṯām|responsibilities|H4931|Prep-b | N-fpc | 3mp
+v26 בְּמִשְׁמְרֹתָֽם׃|bə·miš·mə·rō·ṯām|responsibilities|H4931|Prep-b | N-fpc | 3mp

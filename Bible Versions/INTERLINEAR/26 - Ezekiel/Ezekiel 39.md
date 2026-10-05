@@ -115,8 +115,8 @@ v9 וּבְחִצִּ֔ים|ū·ḇə·ḥiṣ·ṣîm|and arrows|H2671|Conj-w, 
 v9 וּבְמַקֵּ֥ל|ū·ḇə·maq·qêl|the clubs|H4731|Conj-w, Prep-b | N-msc
 v9 יָ֖ד|yāḏ|...|H3027|N-fs
 v9 וּבְרֹ֑מַח|ū·ḇə·rō·maḥ|and spears|H7420|Conj-w, Prep-b | N-ms
-v9 וּבִעֲר֥וּ|ū·ḇi·‘ă·rū|vvv|H1197|Conj-w | V-Piel-ConjPerf-3cp
-v9 בָהֶ֛ם|ḇā·hem|vvv|H0|Prep | 3mp
+v9 וּבִעֲר֥וּ|ū·ḇi·‘ă·rū|...|H1197|Conj-w | V-Piel-ConjPerf-3cp
+v9 בָהֶ֛ם|ḇā·hem|...|H0|Prep | 3mp
 v9 אֵ֖שׁ|’êš|they will use them for fuel|H784|N-cs
 v9 שֶׁ֥בַע|še·ḇa‘|For seven|H7651|Number-fs
 v9 שָׁנִֽים׃|šā·nîm|years|H8141|N-fp
@@ -141,7 +141,7 @@ v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 בֹּ֣זְזֵיהֶ֔ם|bō·zə·zê·hem|those who plundered them|H962|V-Qal-Prtcpl-mpc | 3mp
 v10 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v10 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v10 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v10 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v11 וְהָיָ֣ה|wə·hā·yāh|And|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v11 בַיּ֣וֹם|ḇay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v11 הַה֡וּא|ha·hū|on that|H1931|Art | Pro-3ms
@@ -168,14 +168,14 @@ v11 כָּל־|kāl-|and all|H3605|N-msc
 v11 הֲמוֹנֹ֔ה|hă·mō·nōh|his hordes|H1995|N-msc | 3ms
 v11 וְקָ֣רְא֔וּ|wə·qā·rə·’ū|So it will be called|H7121|Conj-w | V-Qal-ConjPerf-3cp
 v11 גֵּ֖יא|gê|...|H1516|N-proper-fs
-v11 הֲמ֥וֹן|hă·mō·wn|vvv|H1996|
+v11 הֲמ֥וֹן|hă·mō·wn|...|H1996|
 v11 גּֽוֹג׃|gō·wḡ|the Valley of Hamon-gog|H1996|N-proper
 v12 וּקְבָרוּם֙|ū·qə·ḇā·rūm|will be burying them|H6912|Conj-w | V-Qal-ConjPerf-3cp | 3mp
 v12 בֵּ֣ית|bêṯ|the house|H1004|N-msc
 v12 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v12 לְמַ֖עַן|lə·ma·‘an|in order|H4616|Conj
 v12 טַהֵ֣ר|ṭa·hêr|to cleanse|H2891|V-Piel-Inf
-v12 אֶת־|’eṯ-||H853|DirObjM
+v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 הָאָ֑רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v12 שִׁבְעָ֖ה|šiḇ·‘āh|For seven|H7651|Number-ms
 v12 חֳדָשִֽׁים׃|ḥo·ḏā·šîm|months|H2320|N-mp
@@ -202,7 +202,7 @@ v14 הָעֹבְרִ֗ים|hā·‘ō·ḇə·rîm|the invaders|H5674|Art | V-Qa
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 הַנּוֹתָרִ֛ים|han·nō·w·ṯā·rîm|who remain|H3498|Art | V-Nifal-Prtcpl-mp
 v14 עַל־|‘al-|on|H5921|Prep
-v14 פְּנֵ֥י|pə·nê|vvv|H6440|N-cpc
+v14 פְּנֵ֥י|pə·nê|...|H6440|N-cpc
 v14 הָאָ֖רֶץ|hā·’ā·reṣ|the ground|H776|Art | N-fs
 v14 לְטַֽהֲרָ֑הּ|lə·ṭa·hă·rāh|to cleanse it|H2891|Prep-l | V-Piel-Inf | 3fs
 v14 מִקְצֵ֥ה|miq·ṣêh|At the end|H7097|Prep-m | N-msc
@@ -224,14 +224,14 @@ v15 אֹתוֹ֙|’ō·ṯōw|-|H853|DirObjM | 3ms
 v15 הַֽמְקַבְּרִ֔ים|ham·qab·bə·rîm|have buried|H6912|Art | V-Piel-Prtcpl-mp
 v15 אֶל־|’el-|it in|H413|Prep
 v15 גֵּ֖יא|gê|...|H1516|N-proper-fs
-v15 הֲמ֥וֹן|hă·mō·wn|vvv|H1996|
+v15 הֲמ֥וֹן|hă·mō·wn|...|H1996|
 v15 גּֽוֹג׃|gō·wḡ|the Valley of Hamon-gog|H1996|N-proper
 v16 וְגַ֥ם|wə·ḡam|will be|H1571|Conj
 v16 שֶׁם־|šem-|named|H8034|N-msc
 v16 עִ֛יר|‘îr|Even the city|H5892|N-fs
 v16 הֲמוֹנָ֖ה|hă·mō·w·nāh|Hamonah|H1997|N-proper-fs
 v16 וְטִהֲר֥וּ|wə·ṭi·hă·rū|And so they will cleanse|H2891|Conj-w | V-Piel-ConjPerf-3cp
-v16 הָאָֽרֶץ׃ס|hā·’ā·reṣ|the land|H776|Art | N-fs
+v16 הָאָֽרֶץ׃|hā·’ā·reṣ|the land|H776|Art | N-fs
 v17 וְאַתָּ֨ה|wə·’at·tāh|And as for you|H859|Conj-w | Pro-2ms
 v17 בֶן־|ḇen-|son|H1121|N-msc
 v17 אָדָ֜ם|’ā·ḏām|of man|H120|N-ms
@@ -286,7 +286,7 @@ v19 וּשְׁתִ֥יתֶם|ū·šə·ṯî·ṯem|and drink|H8354|Conj-w | V-Q
 v19 דָּ֖ם|dām|blood|H1818|N-ms
 v19 לְשִׁכָּר֑וֹן|lə·šik·kā·rō·wn|until you are drunk|H7943|Prep-l | N-ms
 v19 מִזִּבְחִ֖י|miz·ziḇ·ḥî|At the sacrifice|H2077|Prep-m | N-msc | 1cs
-v19 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v19 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v19 זָבַ֥חְתִּי|zā·ḇaḥ·tî|I am preparing|H2076|V-Qal-Perf-1cs
 v19 לָכֶֽם׃|lā·ḵem|-|H0|Prep | 2mp
 v20 וּשְׂבַעְתֶּ֤ם|ū·śə·ḇa‘·tem|you will eat your fill|H7646|Conj-w | V-Qal-ConjPerf-2mp
@@ -354,7 +354,7 @@ v24 עָשִׂ֣יתִי|‘ā·śî·ṯî|I dealt|H6213|V-Qal-Perf-1cs
 v24 אֹתָ֑ם|’ō·ṯām|with them|H853|DirObjM | 3mp
 v24 וָאַסְתִּ֥ר|wā·’as·tir|and I hid|H5641|Conj-w | V-Hifil-ConsecImperf-1cs
 v24 פָּנַ֖י|pā·nay|My face|H6440|N-mpc | 1cs
-v24 מֵהֶֽם׃ס|mê·hem|from them|H0|Prep-m | Pro-3mp
+v24 מֵהֶֽם׃|mê·hem|from them|H0|Prep-m | Pro-3mp
 v25 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v25 כֹּ֤ה|kōh|this is what|H3541|Adv
 v25 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -373,7 +373,7 @@ v25 וְקִנֵּאתִ֖י|wə·qin·nê·ṯî|and I will be jealous|H7065|Co
 v25 לְשֵׁ֥ם|lə·šêm|name|H8034|Prep-l | N-msc
 v25 קָדְשִֽׁי׃|qāḏ·šî|for My holy|H6944|N-msc | 1cs
 v26 וְנָשׂוּ֙|wə·nā·śū|They will forget|H5375|Conj-w | V-Qal-ConjPerf-3cp
-v26 אֶת־|’eṯ-||H853|DirObjM
+v26 אֶת־|’eṯ-|-|H853|DirObjM
 v26 כְּלִמָּתָ֔ם|kə·lim·mā·ṯām|their disgrace|H3639|N-fsc | 3mp
 v26 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v26 כָּל־|kāl-|all|H3605|N-msc
@@ -431,4 +431,4 @@ v29 בֵּ֣ית|bêṯ|the house|H1004|N-msc
 v29 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v29 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v29 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v29 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v29 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

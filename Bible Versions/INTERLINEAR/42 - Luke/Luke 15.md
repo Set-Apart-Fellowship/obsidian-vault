@@ -72,8 +72,8 @@ v5 αὐτοῦ|autou|his|G846|PPro-GM3S
 v5 χαίρων|chairōn|...|G5463|V-PPA-NMS
 v6 καὶ|kai|-|G2532|Conj
 v6 ἐλθὼν|elthōn|comes|G2064|V-APA-NMS
-v6 εἰς|eis|vvv|G1519|Prep
-v6 τὸν|ton|vvv|G3588|Art-AMS
+v6 εἰς|eis|...|G1519|Prep
+v6 τὸν|ton|...|G3588|Art-AMS
 v6 οἶκον|oikon|home|G3624|N-AMS
 v6 συνκαλεῖ|synkalei|[and] calls together|G4779|V-PIA-3S
 v6 τοὺς|tous|[his]|G3588|Art-AMP
@@ -198,7 +198,7 @@ v12 τὸν|ton|[his]|G3588|Art-AMS
 v12 βίον|bion|property|G979|N-AMS
 v13 Καὶ|Kai|-|G2532|Conj
 v13 μετ’|met’|After|G3326|Prep
-v13 οὐ|ou|vvv|G3756|Adv
+v13 οὐ|ou|...|G3756|Adv
 v13 πολλὰς|pollas|a few|G4183|Adj-AFP
 v13 ἡμέρας|hēmeras|days|G2250|N-AFP
 v13 συναγαγὼν|synagagōn|got everything together|G4863|V-APA-NMS
@@ -325,7 +325,7 @@ v20 ἑαυτοῦ|heautou|his|G1438|RefPro-GM3S
 v20 ἔτι|eti|still|G2089|Adv
 v20 δὲ|de|But while|G1161|Conj
 v20 αὐτοῦ|autou|he {was}|G846|PPro-GM3S
-v20 μακρὰν|makran|vvv|G3112|Adj-AFS
+v20 μακρὰν|makran|...|G3112|Adj-AFS
 v20 ἀπέχοντος|apechontos|in the distance|G568|V-PPA-GMS
 v20 εἶδεν|eiden|saw|G3708|V-AIA-3S
 v20 αὐτὸν|auton|him|G846|PPro-AM3S
@@ -471,7 +471,7 @@ v27 ἀπέλαβεν|apelaben|he has him back|G618|V-AIA-3S
 v28 Ὠργίσθη|Ōrgisthē|[The older son] became angry|G3710|V-AIP-3S
 v28 δὲ|de|-|G1161|Conj
 v28 καὶ|kai|and|G2532|Conj
-v28 οὐκ|ouk|vvv|G3756|Adv
+v28 οὐκ|ouk|...|G3756|Adv
 v28 ἤθελεν|ēthelen|refused|G2309|V-IIA-3S
 v28 εἰσελθεῖν|eiselthein|to go in|G1525|V-ANA
 v28 ὁ|ho|-|G3588|Art-NMS
@@ -500,7 +500,7 @@ v29 σου|sou|of yours|G4771|PPro-G2S
 v29 παρῆλθον|parēlthon|disobeyed|G3928|V-AIA-1S
 v29 καὶ|kai|Yet|G2532|Conj
 v29 ἐμοὶ|emoi|me|G1473|PPro-D1S
-v29 οὐδέποτε|oudepote|vvv|G3763|Adv
+v29 οὐδέποτε|oudepote|...|G3763|Adv
 v29 ἔδωκας|edōkas|you never gave|G1325|V-AIA-2S
 v29 ἔριφον|eriphon|[even] a young goat|G2056|N-AMS
 v29 ἵνα|hina|so|G2443|Conj

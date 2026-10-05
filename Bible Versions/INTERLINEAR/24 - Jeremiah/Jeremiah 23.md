@@ -63,7 +63,7 @@ v4 יֵחַ֛תּוּ|yê·ḥat·tū|or dismayed|H2865|V-Nifal-Imperf-3mp
 v4 וְלֹ֥א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v4 יִפָּקֵ֖דוּ|yip·pā·qê·ḏū|will any go missing|H6485|V-Nifal-Imperf-3mp
 v4 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v4 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v4 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v5 הִנֵּ֨ה|hin·nêh|Behold|H2009|Interjection
 v5 יָמִ֤ים|yā·mîm|the days|H3117|N-mp
 v5 בָּאִים֙|bā·’îm|are coming|H935|V-Qal-Prtcpl-mp
@@ -91,7 +91,7 @@ v6 שְּׁמ֥וֹ|šə·mōw|is His name|H8034|N-msc | 3ms
 v6 אֲ|’ăšer-|by which|H834|Pro-r
 v6 יִקְרְא֖וֹ|yiq·rə·’ōw|He will be called|H7121|V-Qal-Imperf-3ms | 3ms
 v6 יְהוָ֥ה׀|Yah·weh|The LORD|H3068|N-proper-ms
-v6 צִדְקֵֽנוּ׃ס|ṣiḏ·qê·nū|Our Righteousness|H6664|N-msc | 1cp
+v6 צִדְקֵֽנוּ׃|ṣiḏ·qê·nū|Our Righteousness|H6664|N-msc | 1cp
 v7 לָכֵ֛ן|lā·ḵên|So|H3651|Adv
 v7 הִנֵּֽה־|hin·nêh-|behold|H2009|Interjection
 v7 יָמִ֥ים|yā·mîm|[the] days|H3117|N-mp
@@ -116,7 +116,7 @@ v8 חַי־|ḥay-|lives|H2416|N-msc
 v8 יְהוָ֗ה|Yah·weh|As surely as the LORD|H3068|N-proper-ms
 v8 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
 v8 הֶעֱלָה֩|he·‘ĕ·lāh|brought|H5927|V-Hifil-Perf-3ms
-v8 וַאֲשֶׁ֨ר|wa·’ă·šer||H834|Conj-w | Pro-r
+v8 וַאֲשֶׁ֨ר|wa·’ă·šer|-|H834|Conj-w | Pro-r
 v8 הֵבִ֜יא|hê·ḇî|and led|H935|V-Hifil-Perf-3ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 זֶ֨רַע|ze·ra‘|the descendants|H2233|N-msc
@@ -131,7 +131,7 @@ v8 הִדַּחְתִּ֖ים|hid·daḥ·tîm|He had banished them|H5080|V-Hifi
 v8 שָׁ֑ם|šām|...|H8033|Adv
 v8 וְיָשְׁב֖וּ|wə·yā·šə·ḇū|Then they will dwell|H3427|Conj-w | V-Qal-ConjPerf-3cp
 v8 עַל־|‘al-|once more in|H5921|Prep
-v8 אַדְמָתָֽם׃ס|’aḏ·mā·ṯām|their own land|H127|N-fsc | 3mp
+v8 אַדְמָתָֽם׃|’aḏ·mā·ṯām|their own land|H127|N-fsc | 3mp
 v9 לַנְּבִאִ֞ים|lan·nə·ḇi·’îm|As for the prophets|H5030|Prep-l, Art | N-mp
 v9 נִשְׁבַּ֧ר|niš·bar|is broken|H7665|V-Nifal-Perf-3ms
 v9 לִבִּ֣י|lib·bî|My heart|H3820|N-msc | 1cs
@@ -207,7 +207,7 @@ v13 וַיַּתְע֥וּ|way·yaṯ·‘ū|astray|H8582|Conj-w | V-Hifil-Conse
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 עַמִּ֖י|‘am·mî|and led My people|H5971|N-msc | 1cs
 v13 אֶת־|’eṯ-|-|H853|DirObjM
-v13 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v13 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v14 וּבִנְבִאֵ֨י|ū·ḇin·ḇi·’ê|And among the prophets|H5030|Conj-w, Prep-b | N-mpc
 v14 יְרוּשָׁלִַ֜ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v14 רָאִ֣יתִי|rā·’î·ṯî|I have seen|H7200|V-Qal-Perf-1cs
@@ -227,7 +227,7 @@ v14 לִ֤י|lî|to Me|H0|Prep | 1cs
 v14 כֻלָּם֙|ḵul·lām|all|H3605|N-msc | 3mp
 v14 כִּסְדֹ֔ם|kis·ḏōm|like Sodom|H5467|Prep-k | N-proper-fs
 v14 וְיֹשְׁבֶ֖יהָ|wə·yō·šə·ḇe·hā|the people of Jerusalem|H3427|Conj-w | V-Qal-Prtcpl-mpc | 3fs
-v14 כַּעֲמֹרָֽה׃ס|ka·‘ă·mō·rāh|are like Gomorrah|H6017|Prep-k | N-proper-fs
+v14 כַּעֲמֹרָֽה׃|ka·‘ă·mō·rāh|are like Gomorrah|H6017|Prep-k | N-proper-fs
 v15 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v15 כֹּֽה־|kōh-|this is what|H3541|Adv
 v15 אָמַ֨ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -249,7 +249,7 @@ v15 יְרוּשָׁלִַ֔ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-f
 v15 יָצְאָ֥ה|yā·ṣə·’āh|has spread|H3318|V-Qal-Perf-3fs
 v15 חֲנֻפָּ֖ה|ḥă·nup·pāh|ungodliness|H2613|N-fs
 v15 לְכָל־|lə·ḵāl|...|H3605|Prep-l | N-msc
-v15 הָאָֽרֶץ׃פ|hā·’ā·reṣ|throughout the land|H776|Art | N-fs
+v15 הָאָֽרֶץ׃|hā·’ā·reṣ|throughout the land|H776|Art | N-fs
 v16 כֹּֽה־|kōh-|This is what|H3541|Adv
 v16 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v16 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -277,7 +277,7 @@ v17 דִּבֶּ֣ר|dib·ber|says that|H1696|V-Piel-Perf-3ms
 v17 יְהוָ֔ה|Yah·weh|The LORD|H3068|N-proper-ms
 v17 שָׁל֖וֹם|šā·lō·wm|peace|H7965|N-ms
 v17 יִֽהְיֶ֣ה|yih·yeh|you will have|H1961|V-Qal-Imperf-3ms
-v17 לָכֶ֑ם|lā·ḵem||H0|Prep | 2mp
+v17 לָכֶ֑ם|lā·ḵem|-|H0|Prep | 2mp
 v17 וְ֠כֹל|wə·ḵōl|to everyone|H3605|Conj-w | N-msc
 v17 הֹלֵ֞ךְ|hō·lêḵ|who walks|H1980|V-Qal-Prtcpl-ms
 v17 בִּשְׁרִר֤וּת|biš·ri·rūṯ|in the stubbornness|H8307|Prep-b | N-fsc
@@ -299,7 +299,7 @@ v18 דְּבָר֑וֹ|də·ḇā·rōw|His word|H1697|N-msc | 3ms
 v18 מִֽי־|mî-|Who|H4310|Interrog
 v18 הִקְשִׁ֥יב|hiq·šîḇ|has given heed|H7181|V-Hifil-Perf-3ms
 v18 דְּבָרִי|də·ḇå̄·rī|to His word|H1697|N-msc | 3ms
-v18 וַיִּשְׁמָֽע׃ס|way·yiš·mā‘|and obeyed it|H8085|Conj-w | V-Qal-ConsecImperf-3ms
+v18 וַיִּשְׁמָֽע׃|way·yiš·mā‘|and obeyed it|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v19 הִנֵּ֣ה׀|hin·nêh|Behold|H2009|Interjection
 v19 סַעֲרַ֣ת|sa·‘ă·raṯ|the storm|H5591|N-fsc
 v19 יְהוָ֗ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -348,7 +348,7 @@ v22 וִֽישִׁבוּם֙|wî·ši·ḇūm|and turned them back|H7725|Conj-w 
 v22 מִדַּרְכָּ֣ם|mid·dar·kām|ways|H1870|Prep-m | N-csc | 3mp
 v22 הָרָ֔ע|hā·rā‘|from their evil|H7451|Art | Adj-ms
 v22 וּמֵרֹ֖עַ|ū·mê·rō·a‘|and|H7455|Conj-w, Prep-m | N-msc
-v22 מַֽעַלְלֵיהֶֽם׃ס|ma·‘al·lê·hem|deeds|H4611|N-mpc | 3mp
+v22 מַֽעַלְלֵיהֶֽם׃|ma·‘al·lê·hem|deeds|H4611|N-mpc | 3mp
 v23 הַאֱלֹהֵ֧י|ha·’ĕ·lō·hê|a God|H430|Art | N-mpc
 v23 מִקָּרֹ֛ב|miq·qā·rōḇ|nearby|H7138|Prep-m | Adj-ms
 v23 אָ֖נִי|’ā·nî|Am I [only]|H589|Pro-1cs
@@ -438,7 +438,7 @@ v29 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v29 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v29 וּכְפַטִּ֖ישׁ|ū·ḵə·p̄aṭ·ṭîš|and like a hammer|H6360|Conj-w, Prep-k | N-ms
 v29 יְפֹ֥צֵֽץ|yə·p̄ō·ṣêṣ|that smashes|H6327|V-Piel-Imperf-3ms
-v29 סָֽלַע׃ס|sā·la‘|a rock|H5553|N-ms
+v29 סָֽלַע׃|sā·la‘|a rock|H5553|N-ms
 v30 לָכֵ֛ן|lā·ḵên|Therefore|H3651|Adv
 v30 הִנְנִ֥י|hin·nî|behold|H2005|Interjection | 1cs
 v30 עַל־|‘al-|I am against|H5921|Prep
@@ -586,7 +586,7 @@ v39 לָכֵ֣ן|lā·ḵên|therefore|H3651|Adv
 v39 הִנְנִ֔י|hin·nî|I will surely|H2005|Interjection | 1cs
 v39 וְנָשִׁ֥יתִי|wə·nā·šî·ṯî|forget|H5382|Conj-w | V-Qal-ConjPerf-1cs
 v39 אֶתְכֶ֖ם|’eṯ·ḵem|you|H853|DirObjM | 2mp
-v39 נָשֹׁ֑א|nā·šō|vvv|H5377|V-Qal-InfAbs
+v39 נָשֹׁ֑א|nā·šō|...|H5377|V-Qal-InfAbs
 v39 וְנָטַשְׁתִּ֣י|wə·nā·ṭaš·tî|and will cast you|H5203|Conj-w | V-Qal-ConjPerf-1cs
 v39 אֶתְכֶ֗ם|’eṯ·ḵem|both you|H853|DirObjM | 2mp
 v39 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
@@ -605,4 +605,4 @@ v40 וּכְלִמּ֣וּת|ū·ḵə·lim·mūṯ|humiliation|H3640|Conj-w | N
 v40 עוֹלָ֔ם|‘ō·w·lām|and perpetual|H5769|N-ms
 v40 אֲשֶׁ֖ר|’ă·šer|that|H834|Pro-r
 v40 לֹ֥א|lō|will never|H3808|Adv-NegPrt
-v40 תִשָּׁכֵֽחַ׃ס|ṯiš·šā·ḵê·aḥ|be forgotten|H7911|V-Nifal-Imperf-3fs
+v40 תִשָּׁכֵֽחַ׃|ṯiš·šā·ḵê·aḥ|be forgotten|H7911|V-Nifal-Imperf-3fs

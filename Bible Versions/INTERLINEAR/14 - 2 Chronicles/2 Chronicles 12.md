@@ -9,7 +9,7 @@ v1 תּוֹרַ֣ת|tō·w·raṯ|the Law|H8451|N-fsc
 v1 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v1 וְכָל־|wə·ḵāl|he and all|H3605|Conj-w | N-msc
 v1 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v1 עִמּֽוֹ׃פ|‘im·mōw|with him|H5973|Prep | 3ms
+v1 עִמּֽוֹ׃|‘im·mōw|with him|H5973|Prep | 3ms
 v2 וַיְהִ֞י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v2 בַּשָּׁנָ֤ה|baš·šā·nāh|year|H8141|Prep-b, Art | N-fs
 v2 הַֽחֲמִישִׁית֙|ha·ḥă·mî·šîṯ|In the fifth|H2549|Art | Number-ofs
@@ -27,7 +27,7 @@ v2 בַּיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-b | N-proper-ms
 v3 בְּאֶ֤לֶף|bə·’e·lep̄|with 1,200|H505|Prep-b | Number-ms
 v3 וּמָאתַ֙יִם֙|ū·mā·ṯa·yim|...|H3967|Conj-w | Number-fd
 v3 רֶ֔כֶב|re·ḵeḇ|chariots|H7393|N-ms
-v3 וּבְשִׁשִּׁ֥ים|ū·ḇə·šiš·šîm|60,000 {}|H8346|Conj-w, Prep-b | Number-cp
+v3 וּבְשִׁשִּׁ֥ים|ū·ḇə·šiš·šîm|60,000|H8346|Conj-w, Prep-b | Number-cp
 v3 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v3 פָּרָשִׁ֑ים|pā·rā·šîm|horsemen|H6571|N-mp
 v3 וְאֵ֣ין|wə·’ên|and countless|H369|Conj-w | Adv
@@ -48,7 +48,7 @@ v4 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v4 לִֽיהוּדָ֑ה|lî·hū·ḏāh|of Judah|H3063|Prep-l | N-proper-ms
 v4 וַיָּבֹ֖א|way·yā·ḇō|and came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v4 עַד־|‘aḏ-|as far as|H5704|Prep
-v4 יְרוּשָׁלִָֽם׃ס|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
+v4 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v5 וּֽשְׁמַֽעְיָ֤ה|ū·šə·ma‘·yāh|Then Shemaiah|H8098|Conj-w | N-proper-ms
 v5 הַנָּבִיא֙|han·nā·ḇî|the prophet|H5030|Art | N-ms
 v5 בָּ֣א|bā|came|H935|V-Qal-Perf-3ms
@@ -114,7 +114,7 @@ v8 וְיֵדְעוּ֙|wə·yê·ḏə·‘ū|so that they may learn|H3045|Conj
 v8 עֲב֣וֹדָתִ֔י|‘ă·ḇō·w·ḏā·ṯî|the difference between serving Me|H5656|N-fsc | 1cs
 v8 וַעֲבוֹדַ֖ת|wa·‘ă·ḇō·w·ḏaṯ|and serving|H5656|Conj-w | N-fsc
 v8 מַמְלְכ֥וֹת|mam·lə·ḵō·wṯ|the kings|H4467|N-fpc
-v8 הָאֲרָצֽוֹת׃ס|hā·’ă·rā·ṣō·wṯ|of other lands|H776|Art | N-fp
+v8 הָאֲרָצֽוֹת׃|hā·’ă·rā·ṣō·wṯ|of other lands|H776|Art | N-fp
 v9 וַיַּ֨עַל|way·ya·‘al|attacked|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v9 שִׁישַׁ֥ק|šî·šaq|Shishak|H7895|N-proper-ms
 v9 מֶֽלֶךְ־|me·leḵ-|So King|H4428|N-msc
@@ -180,7 +180,7 @@ v12 וְגַם֙|wə·ḡam|Indeed|H1571|Conj
 v12 בִּֽיהוּדָ֔ה|bî·hū·ḏāh|in Judah|H3063|Prep-b | N-proper-ms
 v12 הָיָ֖ה|hā·yāh|were|H1961|V-Qal-Perf-3ms
 v12 דְּבָרִ֥ים|də·ḇā·rîm|conditions|H1697|N-mp
-v12 טוֹבִֽים׃ס|ṭō·w·ḇîm|good|H2896|Adj-mp
+v12 טוֹבִֽים׃|ṭō·w·ḇîm|good|H2896|Adj-mp
 v13 וַיִּתְחַזֵּ֞ק|way·yiṯ·ḥaz·zêq|established himself|H2388|Conj-w | V-Hitpael-ConsecImperf-3ms
 v13 הַמֶּ֧לֶךְ|ham·me·leḵ|Thus King|H4428|Art | N-ms
 v13 רְחַבְעָ֛ם|rə·ḥaḇ·‘ām|Rehoboam|H7346|N-proper-ms
@@ -221,7 +221,7 @@ v14 הֵכִין֙|hê·ḵîn|set|H3559|V-Hifil-Perf-3ms
 v14 לִבּ֔וֹ|lib·bōw|his heart|H3820|N-msc | 3ms
 v14 לִדְר֖וֹשׁ|liḏ·rō·wōš|to seek|H1875|Prep-l | V-Qal-Inf
 v14 אֶת־|’eṯ-|-|H853|DirObjM
-v14 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v14 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v15 וְדִבְרֵ֣י|wə·ḏiḇ·rê|Now the acts|H1697|Conj-w | N-mpc
 v15 רְחַבְעָ֗ם|rə·ḥaḇ·‘ām|of Rehoboam|H7346|N-proper-ms
 v15 הָרִאשֹׁנִים֙|hā·ri·šō·nîm|from first|H7223|Art | Adj-mp
@@ -250,4 +250,4 @@ v16 דָּוִ֑יד|dā·wîḏ|of David|H1732|N-proper-ms
 v16 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v16 אֲבִיָּ֥ה|’ă·ḇî·yāh|Abijah|H29|N-proper-ms
 v16 בְנ֖וֹ|ḇə·nōw|And his son|H1121|N-msc | 3ms
-v16 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v16 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

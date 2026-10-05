@@ -197,7 +197,7 @@ v27 וְיָשָׁ֥ר|wə·yā·šār|what was right|H3477|Conj-w | Adj-ms
 v27 הֶעֱוֵ֗יתִי|he·‘ĕ·wê·ṯî|and perverted|H5753|V-Hifil-Perf-1cs
 v27 וְלֹא־|wə·lō-|yet I did not|H3808|Conj-w | Adv-NegPrt
 v27 שָׁ֥וָה|šā·wāh|get what I deserved|H7737|V-Qal-Perf-3ms
-v27 לִֽי׃|lî||H0|Prep | 1cs
+v27 לִֽי׃|lî|-|H0|Prep | 1cs
 v28 פָּדָ֣ה|pā·ḏāh|He redeemed|H6299|V-Qal-Perf-3ms
 v28 נַפְשִׁי|nap̄·šī|my soul|H5315|N-fsc | 3ms
 v28 מֵעֲבֹ֣ר|mê·‘ă·ḇōr|from going down|H5674|Prep-m | V-Qal-Inf
@@ -243,4 +243,4 @@ v33 שְֽׁמַֽע־|šə·ma‘-|then listen|H8085|V-Qal-Imp-ms
 v33 לִ֑י|lî|to me|H0|Prep | 1cs
 v33 הַ֝חֲרֵ֗שׁ|ha·ḥă·rêš|be quiet|H2790|V-Hifil-Imp-ms
 v33 וַאֲאַלֶּפְךָ֥|wa·’ă·’al·lep̄·ḵā|and I will teach|H502|Conj-w | V-Piel-ConjImperf.h-1cs | 2ms
-v33 חָכְמָֽה׃ס|ḥāḵ·māh|you wisdom|H2451|N-fs
+v33 חָכְמָֽה׃|ḥāḵ·māh|you wisdom|H2451|N-fs

@@ -35,7 +35,7 @@ v3 בִּגְוִיָּתָֽם׃|biḡ·wî·yā·ṯām|over their dead|H1472|
 v4 מֵרֹב֙|mê·rōḇ|because of the many|H7230|Prep-m | N-msc
 v4 זְנוּנֵ֣י|zə·nū·nê|harlotries|H2183|N-mpc
 v4 זוֹנָ֔ה|zō·w·nāh|of the harlot|H2181|N-fs
-v4 ט֥וֹבַת|ṭō·w·ḇaṯ|vvv|H2896|Adj-fsc
+v4 ט֥וֹבַת|ṭō·w·ḇaṯ|...|H2896|Adj-fsc
 v4 חֵ֖ן|ḥên|the seductive|H2580|N-ms
 v4 בַּעֲלַ֣ת|ba·‘ă·laṯ|mistress|H1172|N-fsc
 v4 כְּשָׁפִ֑ים|kə·šā·p̄îm|of sorcery|H3785|N-mp

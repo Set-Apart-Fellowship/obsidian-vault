@@ -58,7 +58,7 @@ v3 וְנָפַ֣ל|wə·nā·p̄al|will fall|H5307|Conj-w | V-Qal-ConjPerf-3ms
 v3 עָזֻ֔ר|‘ā·zur|and the one he helps|H5826|V-Qal-QalPassPrtcpl-ms
 v3 וְיַחְדָּ֖ו|wə·yaḥ·dāw|together|H3162|Conj-w | Adv
 v3 כֻּלָּ֥ם|kul·lām|both|H3605|N-msc | 3mp
-v3 יִכְלָיֽוּן׃ס|yiḵ·lā·yūn|will perish|H3615|V-Qal-Imperf-3mp | Pn
+v3 יִכְלָיֽוּן׃|yiḵ·lā·yūn|will perish|H3615|V-Qal-Imperf-3mp | Pn
 v4 כִּ֣י|kî|For|H3588|Conj
 v4 כֹ֣ה|ḵōh|this is what|H3541|Adv
 v4 אָֽמַר־|’ā·mar-|has said|H559|V-Qal-Perf-3ms
@@ -133,7 +133,7 @@ v8 לֹֽא־|lō-|but not|H3808|Adv-NegPrt
 v8 אָדָ֖ם|’ā·ḏām|one made by mortals|H120|N-ms
 v8 תֹּֽאכֲלֶ֑נּוּ|tō·ḵă·len·nū|will devour them|H398|V-Qal-Imperf-3fs | 3ms
 v8 וְנָ֥ס|wə·nās|They will flee|H5127|Conj-w | V-Qal-ConjPerf-3ms
-v8 לוֹ֙|lōw||H0|Prep | 3ms
+v8 לוֹ֙|lōw|-|H0|Prep | 3ms
 v8 מִפְּנֵי־|mip·pə·nê-|before|H6440|Prep-m | N-mpc
 v8 חֶ֔רֶב|ḥe·reḇ|the sword|H2719|N-fs
 v8 וּבַחוּרָ֖יו|ū·ḇa·ḥū·rāw|and their young men|H970|Conj-w | N-mpc | 3ms
@@ -149,8 +149,8 @@ v9 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v9 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
 v9 אֲשֶׁר־|’ă·šer-|whose|H834|Pro-r
 v9 א֥וּר|’ūr|fire|H217|N-ms
-v9 לוֹ֙|lōw||H0|Prep | 3ms
+v9 לוֹ֙|lōw|-|H0|Prep | 3ms
 v9 בְּצִיּ֔וֹן|bə·ṣî·yō·wn|is in Zion|H6726|Prep-b | N-proper-fs
 v9 וְתַנּ֥וּר|wə·ṯan·nūr|whose furnace|H8574|Conj-w | N-cs
-v9 ל֖וֹ|lōw||H0|Prep | 3ms
-v9 בִּירוּשָׁלִָֽם׃ס|bî·rū·šā·lim|is in Jerusalem|H3389|Prep-b | N-proper-fs
+v9 ל֖וֹ|lōw|-|H0|Prep | 3ms
+v9 בִּירוּשָׁלִָֽם׃|bî·rū·šā·lim|is in Jerusalem|H3389|Prep-b | N-proper-fs

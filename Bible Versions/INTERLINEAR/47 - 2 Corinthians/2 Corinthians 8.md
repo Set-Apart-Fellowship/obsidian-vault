@@ -44,8 +44,8 @@ v3 καὶ|kai|and even|G2532|Conj
 v3 παρὰ|para|beyond|G3844|Prep
 v3 δύναμιν|dynamin|[it]|G1411|N-AFS
 v3 αὐθαίρετοι|authairetoi|Of their own accord|G830|Adj-NMP
-v4 μετὰ|meta|vvv|G3326|Prep
-v4 πολλῆς|pollēs|vvv|G4183|Adj-GFS
+v4 μετὰ|meta|...|G3326|Prep
+v4 πολλῆς|pollēs|...|G4183|Adj-GFS
 v4 παρακλήσεως|paraklēseōs|they earnestly|G3874|N-GFS
 v4 δεόμενοι|deomenoi|pleaded|G1189|V-PPM/P-NMP
 v4 ἡμῶν|hēmōn|with us|G1473|PPro-G1P
@@ -84,9 +84,9 @@ v6 ἵνα|hina|-|G2443|Conj
 v6 καθὼς|kathōs|just as|G2531|Adv
 v6 προενήρξατο|proenērxato|he had started [it]|G4278|V-AIM-3S
 v6 οὕτως|houtōs|-|G3779|Adv
-v6 καὶ|kai|vvv|G2532|Conj
+v6 καὶ|kai|...|G2532|Conj
 v6 ἐπιτελέσῃ|epitelesē|to help complete|G2005|V-ASA-3S
-v6 εἰς|eis|vvv|G1519|Prep
+v6 εἰς|eis|...|G1519|Prep
 v6 ὑμᾶς|hymas|your|G4771|PPro-A2P
 v6 καὶ|kai|-|G2532|Conj
 v6 τὴν|tēn|[act of]|G3588|Art-AFS
@@ -119,7 +119,7 @@ v7 ταύτῃ|tautē|this|G3778|DPro-DFS
 v7 τῇ|tē|-|G3588|Art-DFS
 v7 χάριτι|chariti|grace of giving|G5485|N-DFS
 v7 περισσεύητε|perisseuēte|you also excel|G4052|V-PSA-2P
-v8 Οὐ|Ou|vvv|G3756|Adv
+v8 Οὐ|Ou|...|G3756|Adv
 v8 κατ’|kat’|-|G2596|Prep
 v8 ἐπιταγὴν|epitagēn|a command|G2003|N-AFS
 v8 λέγω|legō|I am not giving|G3004|V-PIA-1S
@@ -175,7 +175,7 @@ v10 καὶ|kai|even|G2532|Conj
 v10 τὸ|to|-|G3588|Art-ANS
 v10 θέλειν|thelein|to have such a desire|G2309|V-PNA
 v10 προενήρξασθε|proenērxasthe|the first|G4278|V-AIM-2P
-v10 ἀπὸ|apo|vvv|G575|Prep
+v10 ἀπὸ|apo|...|G575|Prep
 v10 πέρυσι|perysi|Last year|G4070|Adv
 v11 νυνὶ|nyni|Now|G3570|Adv
 v11 δὲ|de|...|G1161|Conj
@@ -207,7 +207,7 @@ v12 ἔχῃ|echē|one has|G2192|V-PSA-3S
 v12 εὐπρόσδεκτος|euprosdektos|[the gift] is acceptable|G2144|Adj-NFS
 v12 οὐ|ou|not|G3756|Adv
 v12 καθὸ|katho|according to|G2526|Adv
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 ἔχει|echei|[what] he does not have|G2192|V-PIA-3S
 v13 Οὐ|Ou|...|G3756|Adv
 v13 γὰρ|gar|[It is not our intention]|G1063|Conj
@@ -248,13 +248,13 @@ v15 γέγραπται|gegraptai|it is written|G1125|V-RIM/P-3S
 v15 Ὁ|Ho|He who [gathered]|G3588|Art-NMS
 v15 τὸ|to|-|G3588|Art-ANS
 v15 πολὺ|poly|much|G4183|Adj-ANS
-v15 οὐκ|ouk|vvv|G3756|Adv
+v15 οὐκ|ouk|...|G3756|Adv
 v15 ἐπλεόνασεν|epleonasen|had no excess|G4121|V-AIA-3S
 v15 καὶ|kai|and|G2532|Conj
 v15 ὁ|ho|he who [gathered]|G3588|Art-NMS
 v15 τὸ|to|-|G3588|Art-ANS
 v15 ὀλίγον|oligon|little|G3641|Adj-ANS
-v15 οὐκ|ouk|vvv|G3756|Adv
+v15 οὐκ|ouk|...|G3756|Adv
 v15 ἠλαττόνησεν|ēlattonēsen|had no shortfall|G1641|V-AIA-3S
 v16 Χάρις|Charis|thanks [be]|G5485|N-NFS
 v16 δὲ|de|But|G1161|Conj
@@ -397,7 +397,7 @@ v24 τῆς|tēs|of|G3588|Art-GFS
 v24 ἀγάπης|agapēs|love|G26|N-GFS
 v24 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v24 καὶ|kai|and|G2532|Conj
-v24 ἡμῶν|hēmōn|vvv|G1473|PPro-G1P
+v24 ἡμῶν|hēmōn|...|G1473|PPro-G1P
 v24 καυχήσεως|kauchēseōs|the reason for our boasting|G2746|N-GFS
 v24 ὑπὲρ|hyper|about|G5228|Prep
 v24 ὑμῶν|hymōn|you|G4771|PPro-G2P

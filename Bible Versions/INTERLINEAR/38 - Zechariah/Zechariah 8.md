@@ -32,7 +32,7 @@ v3 וְהַר־|wə·har-|and the mountain|H2022|Conj-w | N-msc
 v3 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v3 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v3 הַ֥ר|har|Mountain|H2022|N-msc
-v3 הַקֹּֽדֶשׁ׃ס|haq·qō·ḏeš|[will be called] the Holy|H6944|Art | N-ms
+v3 הַקֹּֽדֶשׁ׃|haq·qō·ḏeš|[will be called] the Holy|H6944|Art | N-ms
 v4 כֹּ֤ה|kōh|This is what|H3541|Adv
 v4 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v4 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -54,7 +54,7 @@ v5 יִמָּ֣לְא֔וּ|yim·mā·lə·’ū|will be filled|H4390|V-Nifal-Im
 v5 יְלָדִ֖ים|yə·lā·ḏîm|with boys|H3206|N-mp
 v5 וִֽילָד֑וֹת|wî·lā·ḏō·wṯ|and girls|H3207|Conj-w | N-fp
 v5 מְשַׂחֲקִ֖ים|mə·śa·ḥă·qîm|playing|H7832|V-Piel-Prtcpl-mp
-v5 בִּרְחֹֽבֹתֶֽיהָ׃ס|bir·ḥō·ḇō·ṯe·hā|there|H7339|Prep-b | N-mpc | 3fs
+v5 בִּרְחֹֽבֹתֶֽיהָ׃|bir·ḥō·ḇō·ṯe·hā|there|H7339|Prep-b | N-mpc | 3fs
 v6 כֹּ֤ה|kōh|This is what|H3541|Adv
 v6 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v6 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -72,7 +72,7 @@ v6 בְּעֵינַי֙|bə·‘ê·nay|in My eyes|H5869|Prep-b | N-cdc | 1cs
 v6 יִפָּלֵ֔א|yip·pā·lê|be impossible|H6381|V-Nifal-Imperf-3ms
 v6 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v6 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v6 צְבָאֽוֹת׃פ|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
+v6 צְבָאֽוֹת׃|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v7 כֹּ֤ה|kōh|This is what|H3541|Adv
 v7 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v7 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -99,7 +99,7 @@ v8 אֶהְיֶ֤ה|’eh·yeh|will be|H1961|V-Qal-Imperf-1cs
 v8 לָהֶם֙|lā·hem|their|H0|Prep | 3mp
 v8 לֵֽאלֹהִ֔ים|lê·lō·hîm|God|H430|Prep-l | N-mp
 v8 בֶּאֱמֶ֖ת|be·’ĕ·meṯ|faithful|H571|Prep-b | N-fs
-v8 וּבִצְדָקָֽה׃ס|ū·ḇiṣ·ḏā·qāh|and righteous|H6666|Conj-w, Prep-b | N-fs
+v8 וּבִצְדָקָֽה׃|ū·ḇiṣ·ḏā·qāh|and righteous|H6666|Conj-w, Prep-b | N-fs
 v9 כֹּֽה־|kōh-|This is what|H3541|Adv
 v9 אָמַר֮|’ā·mar|says|H559|V-Qal-Perf-3ms
 v9 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -177,7 +177,7 @@ v12 הַזֶּ֖ה|haz·zeh|of this|H2088|Art | Pro-ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 כָּל־|kāl-|{I will give} all|H3605|N-msc
 v12 אֵֽלֶּה׃|’êl·leh|these things|H428|Pro-cp
-v13 וְהָיָ֡ה|wə·hā·yāh|vvv|H1961|Conj-w | V-Qal-ConjPerf-3ms
+v13 וְהָיָ֡ה|wə·hā·yāh|...|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v13 כַּאֲשֶׁר֩|ka·’ă·šer|As|H834|Prep-k | Pro-r
 v13 הֱיִיתֶ֨ם|hĕ·yî·ṯem|you have been|H1961|V-Qal-Perf-2mp
 v13 קְלָלָ֜ה|qə·lā·lāh|a curse|H7045|N-fs
@@ -194,7 +194,7 @@ v13 בְּרָכָ֑ה|bə·rā·ḵāh|a blessing|H1293|N-fs
 v13 אַל־|’al-|Do not|H408|Adv
 v13 תִּירָ֖אוּ|tî·rā·’ū|be afraid|H3372|V-Qal-Imperf-2mp
 v13 תֶּחֱזַ֥קְנָה|te·ḥĕ·zaq·nāh|be strong|H2388|V-Qal-Imperf-3fp
-v13 יְדֵיכֶֽם׃ס|yə·ḏê·ḵem|let your hands|H3027|N-fdc | 2mp
+v13 יְדֵיכֶֽם׃|yə·ḏê·ḵem|let your hands|H3027|N-fdc | 2mp
 v14 כִּ֣י|kî|For|H3588|Conj
 v14 כֹ֣ה|ḵōh|this is what|H3541|Adv
 v14 אָמַר֮|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -218,10 +218,10 @@ v15 זָמַ֙מְתִּי֙|zā·mam·tî|I have resolved|H2161|V-Qal-Perf-1cs
 v15 בַּיָּמִ֣ים|bay·yā·mîm|...|H3117|Prep-b, Art | N-mp
 v15 הָאֵ֔לֶּה|hā·’êl·leh|now|H428|Art | Pro-cp
 v15 לְהֵיטִ֥יב|lə·hê·ṭîḇ|to do good|H3190|Prep-l | V-Hifil-Inf
-v15 אֶת־|’eṯ-||H853|DirObjM
+v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 יְרוּשָׁלִַ֖ם|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
 v15 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
-v15 בֵּ֣ית|bêṯ|vvv|H1004|N-msc
+v15 בֵּ֣ית|bêṯ|...|H1004|N-msc
 v15 יְהוּדָ֑ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v15 אַל־|’al-|Do not|H408|Adv
 v15 תִּירָֽאוּ׃|tî·rā·’ū|be afraid|H3372|V-Qal-Imperf-2mp
@@ -257,7 +257,7 @@ v17 אֵ֛לֶּה|’êl·leh|these things|H428|Pro-cp
 v17 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v17 שָׂנֵ֖אתִי|śā·nê·ṯî|I hate|H8130|V-Qal-Perf-1cs
 v17 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v17 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v17 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v18 וַיְהִ֛י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v18 דְּבַר־|də·ḇar-|Then the word|H1697|N-msc
 v18 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -285,7 +285,7 @@ v19 וּֽלְמֹעֲדִ֖ים|ū·lə·mō·‘ă·ḏîm|feasts|H4150|Conj-
 v19 טוֹבִ֑ים|ṭō·w·ḇîm|cheerful|H2896|Adj-mp
 v19 וְהָאֱמֶ֥ת|wə·hā·’ĕ·meṯ|[both] truth|H571|Conj-w, Art | N-fs
 v19 וְהַשָּׁל֖וֹם|wə·haš·šā·lō·wm|and peace|H7965|Conj-w, Art | N-ms
-v19 אֱהָֽבוּ׃פ|’ĕ·hā·ḇū|Therefore you are to love|H157|V-Qal-Imp-mp
+v19 אֱהָֽבוּ׃|’ĕ·hā·ḇū|Therefore you are to love|H157|V-Qal-Imp-mp
 v20 כֹּ֥ה|kōh|This is what|H3541|Adv
 v20 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v20 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -329,7 +329,7 @@ v22 בִּירוּשָׁלִָ֑ם|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b
 v22 וּלְחַלּ֖וֹת|ū·lə·ḥal·lō·wṯ|and to plead|H2470|Conj-w, Prep-l | V-Piel-Inf
 v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 פְּנֵ֥י|pə·nê|before|H6440|N-cpc
-v22 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v22 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v23 כֹּ֥ה|kōh|This is what|H3541|Adv
 v23 אָמַר֮|’ā·mar|says|H559|V-Qal-Perf-3ms
 v23 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -353,4 +353,4 @@ v23 עִמָּכֶ֔ם|‘im·mā·ḵem|with you|H5973|Prep | 2mp
 v23 כִּ֥י|kî|for|H3588|Conj
 v23 שָׁמַ֖עְנוּ|šā·ma‘·nū|we have heard|H8085|V-Qal-Perf-1cp
 v23 אֱלֹהִ֥ים|’ĕ·lō·hîm|that God|H430|N-mp
-v23 עִמָּכֶֽם׃ס|‘im·mā·ḵem|is with you|H5973|Prep | 2mp
+v23 עִמָּכֶֽם׃|‘im·mā·ḵem|is with you|H5973|Prep | 2mp

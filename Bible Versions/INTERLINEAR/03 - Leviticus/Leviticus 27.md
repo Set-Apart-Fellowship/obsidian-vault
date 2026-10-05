@@ -106,7 +106,7 @@ v8 תַּשִּׂיג֙|taś·śîḡ|can afford|H5381|V-Hifil-Imperf-3fs
 v8 יַ֣ד|yaḏ|...|H3027|N-fsc
 v8 הַנֹּדֵ֔ר|han·nō·ḏêr|the one making the vow|H5087|Art | V-Qal-Prtcpl-ms
 v8 יַעֲרִיכֶ֖נּוּ|ya·‘ă·rî·ḵen·nū|-|H6186|V-Hifil-Imperf-3ms | 3ms
-v8 הַכֹּהֵֽן׃ס|hak·kō·hên|-|H3548|Art | N-ms
+v8 הַכֹּהֵֽן׃|hak·kō·hên|-|H3548|Art | N-ms
 v9 וְאִם־|wə·’im-|If [he vows]|H518|Conj
 v9 בְּהֵמָ֔ה|bə·hê·māh|animal|H929|N-fs
 v9 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
@@ -234,7 +234,7 @@ v18 הַיֹּבֵל֮|hay·yō·ḇêl|the Jubilee|H3104|Art | N-ms
 v18 יַקְדִּ֣ישׁ|yaq·dîš|he consecrates|H6942|V-Hifil-Imperf-3ms
 v18 שָׂדֵהוּ֒|śā·ḏê·hū|his field|H7704|N-msc | 3ms
 v18 וְחִשַּׁב־|wə·ḥiš·šaḇ-|is to calculate|H2803|Conj-w | V-Piel-ConjPerf-3ms
-v18 ל֨וֹ|lōw||H0|Prep | 3ms
+v18 ל֨וֹ|lōw|-|H0|Prep | 3ms
 v18 הַכֹּהֵ֜ן|hak·kō·hên|the priest|H3548|Art | N-ms
 v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 הַכֶּ֗סֶף|hak·ke·sep̄|the price|H3701|Art | N-ms
@@ -287,7 +287,7 @@ v21 לַכֹּהֵ֖ן|lak·kō·hên|of the priests|H3548|Prep-l, Art | N-ms
 v21 תִּהְיֶ֥ה|tih·yeh|it becomes|H1961|V-Qal-Imperf-3fs
 v21 אֲחֻזָּתֽוֹ׃|’ă·ḥuz·zā·ṯōw|the property|H272|N-fsc | 3ms
 v22 וְאִם֙|wə·’im|Now if|H518|Conj
-v22 אֶת־|’eṯ-||H853|DirObjM
+v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 שְׂדֵ֣ה|śə·ḏêh|a field|H7704|N-msc
 v22 מִקְנָת֔וֹ|miq·nā·ṯōw|he has purchased|H4736|N-fsc | 3ms
 v22 אֲשֶׁ֕ר|’ă·šer|which|H834|Pro-r
@@ -297,7 +297,7 @@ v22 אֲחֻזָּת֑וֹ|’ă·ḥuz·zā·ṯōw|of his own property|H272|N
 v22 יַקְדִּ֖ישׁ|yaq·dîš|[a man] consecrates|H6942|V-Hifil-Imperf-3ms
 v22 לַֽיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v23 וְחִשַּׁב־|wə·ḥiš·šaḇ-|shall calculate|H2803|Conj-w | V-Piel-ConjPerf-3ms
-v23 ל֣וֹ|lōw||H0|Prep | 3ms
+v23 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v23 הַכֹּהֵ֗ן|hak·kō·hên|then the priest|H3548|Art | N-ms
 v23 אֵ֚ת|’êṯ|-|H853|DirObjM
 v23 מִכְסַ֣ת|miḵ·saṯ|for him the value|H4373|N-fsc
@@ -331,7 +331,7 @@ v25 הַקֹּ֑דֶשׁ|haq·qō·ḏeš|according to the sanctuary|H6944|Art |
 v25 עֶשְׂרִ֥ים|‘eś·rîm|twenty|H6242|Number-cp
 v25 גֵּרָ֖ה|gê·rāh|gerahs|H1626|N-fs
 v25 יִהְיֶ֥ה|yih·yeh|...|H1961|V-Qal-Imperf-3ms
-v25 הַשָּֽׁקֶל׃ס|haš·šā·qel|to the shekel|H8255|Art | N-ms
+v25 הַשָּֽׁקֶל׃|haš·šā·qel|to the shekel|H8255|Art | N-ms
 v26 אַךְ־|’aḵ-|But|H389|Adv
 v26 בְּכ֞וֹר|bə·ḵō·wr|a firstborn|H1060|N-ms
 v26 אֲשֶׁר־|’ă·šer-|because|H834|Pro-r
@@ -370,7 +370,7 @@ v28 אִ֨ישׁ|’îš|a man|H376|N-ms
 v28 לַֽיהוָ֜ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v28 מִכָּל־|mik·kāl|from all he owns|H3605|Prep-m | N-msc
 v28 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v28 ל֗וֹ|lōw||H0|Prep | 3ms
+v28 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v28 מֵאָדָ֤ם|mê·’ā·ḏām|whether a man|H120|Prep-m | N-ms
 v28 וּבְהֵמָה֙|ū·ḇə·hê·māh|an animal|H929|Conj-w | N-fs
 v28 וּמִשְּׂדֵ֣ה|ū·miś·śə·ḏêh|or his inherited land|H7704|Conj-w, Prep-m | N-msc

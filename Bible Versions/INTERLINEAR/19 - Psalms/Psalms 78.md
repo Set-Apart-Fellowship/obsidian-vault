@@ -77,7 +77,7 @@ v8 נֶאֶמְנָ֖ה|ne·’em·nāh|faithful|H539|V-Nifal-Perf-3fs
 v8 אֶת־|’eṯ-|to|H854|Prep
 v8 אֵ֣ל|’êl|God|H410|N-ms
 v8 רוּחֽוֹ׃|rū·ḥōw|whose spirit|H7307|N-csc | 3ms
-v9 בְּֽנֵי־|bə·nê-|vvv|H1121|N-mpc
+v9 בְּֽנֵי־|bə·nê-|...|H1121|N-mpc
 v9 אֶפְרַ֗יִם|’ep̄·ra·yim|of Ephraim|H669|N-proper-ms
 v9 נוֹשְׁקֵ֥י|nō·wō·šə·qê|The archers|H5401|V-Qal-Prtcpl-mpc
 v9 רוֹמֵי־|rō·w·mê-|...|H7411|V-Qal-Prtcpl-mpc
@@ -295,7 +295,7 @@ v38 לְהָשִׁ֣יב|lə·hā·šîḇ|...|H7725|Prep-l | V-Hifil-Inf
 v38 אַפּ֑וֹ|’ap·pōw|restrained His anger|H639|N-msc | 3ms
 v38 וְלֹֽא־|wə·lō-|and did not|H3808|Conj-w | Adv-NegPrt
 v38 יָ֝עִיר|yā·‘îr|unleash|H5782|V-Hifil-Imperf-3ms
-v38 כָּל־|kāl-|vvv|H3605|N-msc
+v38 כָּל־|kāl-|...|H3605|N-msc
 v38 חֲמָתֽוֹ׃|ḥă·mā·ṯōw|His full wrath|H2534|N-fsc | 3ms
 v39 וַ֭יִּזְכֹּר|way·yiz·kōr|He remembered|H2142|Conj-w | V-Qal-ConsecImperf-3ms
 v39 כִּי־|kî-|that|H3588|Conj
@@ -383,7 +383,7 @@ v51 וַיַּ֣ךְ|way·yaḵ|He struck|H5221|Conj-w | V-Hifil-ConsecImperf-3m
 v51 כָּל־|kāl-|all|H3605|N-msc
 v51 בְּכ֣וֹר|bə·ḵō·wr|the firstborn|H1060|N-ms
 v51 בְּמִצְרָ֑יִם|bə·miṣ·rā·yim|of Egypt|H4714|Prep-b | N-proper-fs
-v51 רֵאשִׁ֥ית|rê·šîṯ|vvv|H7225|N-fsc
+v51 רֵאשִׁ֥ית|rê·šîṯ|...|H7225|N-fsc
 v51 א֝וֹנִ֗ים|’ō·w·nîm|the virility|H202|N-mp
 v51 בְּאָהֳלֵי־|bə·’ā·ho·lê-|in the tents|H168|Prep-b | N-mpc
 v51 חָֽם׃|ḥām|of Ham|H2526|N-proper-ms

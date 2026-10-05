@@ -17,7 +17,7 @@ v1 הָיָה֙|hā·yāh|was|H1961|V-Qal-Perf-3ms
 v1 אִ֣ישׁ|’îš|a man|H376|N-msc
 v1 מִלְחָמָ֔ה|mil·ḥā·māh|of war|H4421|N-fs
 v1 וַֽיְהִי־|way·hî-|who had received|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v1 ל֖וֹ|lōw||H0|Prep | 3ms
+v1 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v1 הַגִּלְעָ֥ד|hag·gil·‘āḏ|Gilead|H1568|Art | N-proper-fs
 v1 וְהַבָּשָֽׁן׃|wə·hab·bā·šān|and Bashan|H1316|Conj-w, Art | N-proper-fs
 v2 וַ֠יְהִי|way·hî|So this allotment was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
@@ -136,7 +136,7 @@ v7 אֶל־|’el-|southward|H413|Prep
 v7 הַיָּמִ֔ין|hay·yā·mîn|...|H3225|Art | N-fs
 v7 אֶל־|’el-|to include|H413|Prep
 v7 יֹשְׁבֵ֖י|yō·šə·ḇê|the inhabitants|H3427|V-Qal-Prtcpl-mpc
-v7 עֵ֥ין|‘ên|vvv|H5887|
+v7 עֵ֥ין|‘ên|...|H5887|
 v7 תַּפּֽוּחַ׃|tap·pū·aḥ|of En-tappuah|H5887|N-proper-fs
 v8 לִמְנַשֶּׁ֕ה|lim·naš·šeh|Manasseh|H4519|Prep-l | N-proper-ms
 v8 הָיְתָ֖ה|hā·yə·ṯāh|belonged to|H1961|V-Qal-Perf-3fs
@@ -193,7 +193,7 @@ v11 יֹשְׁבֵ֧י|yō·šə·ḇê|-|H3427|V-Qal-Prtcpl-mpc
 v11 דֹ֣אר|ḏōr|Dor|H1756|N-proper-fs
 v11 וּבְנוֹתֶ֗יהָ|ū·ḇə·nō·w·ṯe·hā|-|H1323|Conj-w | N-fpc | 3fs
 v11 וְיֹשְׁבֵ֤י|wə·yō·šə·ḇê|-|H3427|Conj-w | V-Qal-Prtcpl-mpc
-v11 עֵֽין־|‘ên-|vvv|H5874|
+v11 עֵֽין־|‘ên-|...|H5874|
 v11 דֹּר֙|dōr|Endor|H5874|N-proper-fs
 v11 וּבְנֹתֶ֔יהָ|ū·ḇə·nō·ṯe·hā|-|H1323|Conj-w | N-fpc | 3fs
 v11 וְיֹשְׁבֵ֤י|wə·yō·šə·ḇê|-|H3427|Conj-w | V-Qal-Prtcpl-mpc
@@ -228,7 +228,7 @@ v13 הַֽכְּנַעֲנִ֖י|hak·kə·na·‘ă·nî|the Canaanites|H3669|
 v13 לָמַ֑ס|lā·mas|to forced labor|H4522|Prep-l | N-ms
 v13 וְהוֹרֵ֖שׁ|wə·hō·w·rêš|to drive them out|H3423|Conj-w | V-Hifil-InfAbs
 v13 לֹ֥א|lō|but they failed|H3808|Adv-NegPrt
-v13 הוֹרִישֽׁוֹ׃ס|hō·w·rî·šōw|completely|H3423|V-Hifil-Perf-3ms | 3ms
+v13 הוֹרִישֽׁוֹ׃|hō·w·rî·šōw|completely|H3423|V-Hifil-Perf-3ms | 3ms
 v14 וַֽיְדַבְּרוּ֙|way·ḏab·bə·rū|said|H1696|Conj-w | V-Piel-ConsecImperf-3mp
 v14 בְּנֵ֣י|bə·nê|Then the sons|H1121|N-mpc
 v14 יוֹסֵ֔ף|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
@@ -248,8 +248,8 @@ v14 עַם־|‘am-|people|H5971|N-ms
 v14 רָ֔ב|rāḇ|have many|H7227|Adj-ms
 v14 עַ֥ד|‘aḏ|because|H5704|Prep
 v14 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v14 עַד־|‘aḏ-|vvv|H5704|Prep
-v14 כֹּ֖ה|kōh|vvv|H3541|Adv
+v14 עַד־|‘aḏ-|...|H5704|Prep
+v14 כֹּ֖ה|kōh|...|H3541|Adv
 v14 בֵּֽרְכַ֥נִי|bê·rə·ḵa·nî|has blessed us abundantly|H1288|V-Piel-Perf-3ms | 1cs
 v14 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v15 וַיֹּ֨אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -285,10 +285,10 @@ v16 בַּרְזֶ֗ל|bar·zel|have iron|H1270|N-ms
 v16 בְּכָל־|bə·ḵāl|and all|H3605|Prep-b | N-msc
 v16 הַֽכְּנַעֲנִי֙|hak·kə·na·‘ă·nî|the Canaanites|H3669|Art | N-proper-ms
 v16 הַיֹּשֵׁ֣ב|hay·yō·šêḇ|who live|H3427|Art | V-Qal-Prtcpl-ms
-v16 בְּאֶֽרֶץ־|bə·’e·reṣ-||H776|Prep-b | N-fsc
+v16 בְּאֶֽרֶץ־|bə·’e·reṣ-|-|H776|Prep-b | N-fsc
 v16 הָעֵ֔מֶק|hā·‘ê·meq|in the valley|H6010|Art | N-ms
 v16 לַֽאֲשֶׁ֤ר|la·’ă·šer|-|H834|Prep-l | Pro-r
-v16 בְּבֵית־|bə·ḇêṯ-||H1052|Prep
+v16 בְּבֵית־|bə·ḇêṯ-|-|H1052|Prep
 v16 שְׁאָן֙|šə·’ān|both in Beth-shean|H1052|Prep | N-proper-fs
 v16 וּבְנוֹתֶ֔יהָ|ū·ḇə·nō·w·ṯe·hā|with its towns|H1323|Conj-w | N-fpc | 3fs
 v16 וְלַֽאֲשֶׁ֖ר|wə·la·’ă·šer|-|H834|Conj-w, Prep-l | Pro-r
@@ -324,14 +324,14 @@ v18 וּבֵ֣רֵאת֔וֹ|ū·ḇê·rê·ṯōw|clear it|H1254|Conj-w | V-Pi
 v18 וְהָיָ֥ה|wə·hā·yāh|will be|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v18 לְךָ֖|lə·ḵā|yours|H0|Prep | 2ms
 v18 תֹּֽצְאֹתָ֑יו|tō·ṣə·’ō·ṯāw|and its farthest limits|H8444|N-fpc | 3ms
-v18 כִּֽי־|kî-||H3588|Conj
+v18 כִּֽי־|kî-|-|H3588|Conj
 v18 תוֹרִ֣ישׁ|ṯō·w·rîš|drive [them] out|H3423|V-Hifil-Imperf-2ms
 v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 הַֽכְּנַעֲנִ֗י|hak·kə·na·‘ă·nî|-|H3669|Art | N-proper-ms
 v18 כִּ֣י|kî|Although|H3588|Conj
 v18 רֶ֤כֶב|re·ḵeḇ|chariots|H7393|N-msc
 v18 בַּרְזֶל֙|bar·zel|[the Canaanites] have iron|H1270|N-ms
-v18 ל֔וֹ|lōw||H0|Prep | 3ms
+v18 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v18 כִּ֥י|kî|and although|H3588|Conj
 v18 חָזָ֖ק|ḥā·zāq|they are strong|H2389|Adj-ms
-v18 הֽוּא׃פ|hū|you can|H1931|Pro-3ms
+v18 הֽוּא׃|hū|you can|H1931|Pro-3ms

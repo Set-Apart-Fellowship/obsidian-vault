@@ -84,7 +84,7 @@ v7 אַחֲרֶֽיךָ׃|’a·ḥă·re·ḵā|after you|H310|Prep | 2ms
 v8 וְנָתַתִּ֣י|wə·nā·ṯat·tî|I will give|H5414|Conj-w | V-Qal-ConjPerf-1cs
 v8 לְ֠ךָ|lə·ḵā|And to you|H0|Prep | 2ms
 v8 וּלְזַרְעֲךָ֨|ū·lə·zar·‘ă·ḵā|and your descendants|H2233|Conj-w, Prep-l | N-msc | 2ms
-v8 אַחֲרֶ֜יךָ|’a·ḥă·re·ḵā||H310|Prep | 2ms
+v8 אַחֲרֶ֜יךָ|’a·ḥă·re·ḵā|-|H310|Prep | 2ms
 v8 אֵ֣ת׀|’êṯ|-|H853|DirObjM
 v8 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fsc
 v8 מְגֻרֶ֗יךָ|mə·ḡu·re·ḵā|where you are residing|H4033|N-mpc | 2ms
@@ -119,7 +119,7 @@ v10 וּבֵ֥ין|ū·ḇên|...|H996|Conj-w | Prep
 v10 זַרְעֲךָ֖|zar·‘ă·ḵā|you and your descendants|H2233|N-msc | 2ms
 v10 אַחֲרֶ֑יךָ|’a·ḥă·re·ḵā|after you|H310|Prep | 2ms
 v10 הִמּ֥וֹל|him·mō·wl|must be circumcised|H4135|V-Nifal-InfAbs
-v10 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v10 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v10 כָּל־|kāl-|Every|H3605|N-msc
 v10 זָכָֽר׃|zā·ḵār|male among you|H2145|N-ms
 v11 וּנְמַלְתֶּ֕ם|ū·nə·mal·tem|You are to circumcise|H4135|Conj-w | V-Nifal-ConjPerf-2mp
@@ -175,7 +175,7 @@ v14 הַהִ֖וא|ha·hi·w|[he]|H1931|Art | Pro-3fs
 v14 מֵעַמֶּ֑יהָ|mê·‘am·me·hā|from his people|H5971|Prep-m | N-mpc | 3fs
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 בְּרִיתִ֖י|bə·rî·ṯî|My covenant|H1285|N-fsc | 1cs
-v14 הֵפַֽר׃ס|hê·p̄ar|he has broken|H6565|V-Hifil-Perf-3ms
+v14 הֵפַֽר׃|hê·p̄ar|he has broken|H6565|V-Hifil-Perf-3ms
 v15 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 אֱלֹהִים֙|’ĕ·lō·hîm|Then God|H430|N-mp
 v15 אֶל־|’el-|to|H413|Prep
@@ -322,8 +322,8 @@ v24 תִּשְׁעִ֥ים|tiš·‘îm|was ninety-nine|H8673|Number-cp
 v24 וָתֵ֖שַׁע|wā·ṯê·ša‘|...|H8672|Conj-w | Number-fs
 v24 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
 v24 בְּהִמֹּל֖וֹ|bə·him·mō·lōw|when he was circumcised|H4135|Prep-b | V-Nifal-Inf | 3ms
-v24 בְּשַׂ֥ר|bə·śar|vvv|H1320|N-msc
-v24 עָרְלָתֽוֹ׃|‘ā·rə·lā·ṯōw|vvv|H6190|N-fsc | 3ms
+v24 בְּשַׂ֥ר|bə·śar|...|H1320|N-msc
+v24 עָרְלָתֽוֹ׃|‘ā·rə·lā·ṯōw|...|H6190|N-fsc | 3ms
 v25 וְיִשְׁמָעֵ֣אל|wə·yiš·mā·‘êl|Ishmael|H3458|Conj-w | N-proper-ms
 v25 בְּנ֔וֹ|bə·nōw|and his son|H1121|N-msc | 3ms
 v25 בֶּן־|ben-|...|H1121|N-msc
@@ -352,4 +352,4 @@ v27 מֵאֵ֣ת|mê·’êṯ|...|H854|Prep-m | DirObjM
 v27 בֶּן־|ben-|from foreigners|H1121|N-msc
 v27 נֵכָ֑ר|nê·ḵār|...|H5236|N-ms
 v27 נִמֹּ֖לוּ|nim·mō·lū|were circumcised with him|H4135|V-Nifal-Perf-3cp
-v27 אִתּֽוֹ׃פ|’it·tōw|...|H854|Prep | 3ms
+v27 אִתּֽוֹ׃|’it·tōw|...|H854|Prep | 3ms

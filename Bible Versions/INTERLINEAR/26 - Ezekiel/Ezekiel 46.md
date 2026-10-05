@@ -160,7 +160,7 @@ v11 מַתַּ֣ת|mat·taṯ|to give|H4991|N-fsc
 v11 יָד֑וֹ|yā·ḏōw|and as much as one is able|H3027|N-fsc | 3ms
 v11 וְשֶׁ֖מֶן|wə·še·men|of oil|H8081|Conj-w | N-ms
 v11 הִ֥ין|hîn|along with a hin|H1969|N-ms
-v11 לָאֵיפָֽה׃ס|lā·’ê·p̄āh|per ephah|H374|Prep-l, Art | N-fs
+v11 לָאֵיפָֽה׃|lā·’ê·p̄āh|per ephah|H374|Prep-l, Art | N-fs
 v12 וְכִֽי־|wə·ḵî-|When|H3588|Conj
 v12 יַעֲשֶׂה֩|ya·‘ă·śeh|makes|H6213|V-Qal-Imperf-3ms
 v12 הַנָּשִׂ֨יא|han·nā·śî|the prince|H5387|Art | N-ms
@@ -231,7 +231,7 @@ v15 הַשֶּׁ֖מֶן|haš·še·men|and the oil|H8081|Art | N-ms
 v15 בַּבֹּ֣קֶר|bab·bō·qer|every morning|H1242|Prep-b, Art | N-ms
 v15 בַּבֹּ֑קֶר|bab·bō·qer|...|H1242|Prep-b, Art | N-ms
 v15 עוֹלַ֖ת|‘ō·w·laṯ|burnt offering|H5930|N-fsc
-v15 תָּמִֽיד׃פ|tā·mîḏ|as a regular|H8548|Adv
+v15 תָּמִֽיד׃|tā·mîḏ|as a regular|H8548|Adv
 v16 כֹּה־|kōh-|This is what|H3541|Adv
 v16 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v16 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -256,7 +256,7 @@ v17 מִנַּחֲלָת֗וֹ|min·na·ḥă·lā·ṯōw|from his inheritance
 v17 לְאַחַד֙|lə·’a·ḥaḏ|to one|H259|Prep-l | Number-ms
 v17 מֵֽעֲבָדָ֔יו|mê·‘ă·ḇā·ḏāw|of his servants|H5650|Prep-m | N-mpc | 3ms
 v17 וְהָ֤יְתָה|wə·hā·yə·ṯāh|it will belong to|H1961|Conj-w | V-Qal-ConjPerf-3fs
-v17 לּוֹ֙|lōw||H0|Prep | 3ms
+v17 לּוֹ֙|lōw|-|H0|Prep | 3ms
 v17 עַד־|‘aḏ-|that servant until|H5704|Prep
 v17 שְׁנַ֣ת|šə·naṯ|the year|H8141|N-fsc
 v17 הַדְּר֔וֹר|had·də·rō·wr|of freedom|H1865|Art | N-ms
@@ -302,7 +302,7 @@ v19 וְהִנֵּה־|wə·hin·nêh-|and he showed me|H2009|Conj-w | Interject
 v19 שָׁ֣ם|šām|there|H8033|Adv
 v19 מָק֔וֹם|mā·qō·wm|a place|H4725|N-ms
 v19 בַּיַּרְכֹתִם|bay·yar·ḵō·ṯim|end|H3411|Prep-b, Art | N-fd
-v19 יָֽמָּה׃ס|yām·māh|at the far western|H3220|N-ms | 3fs
+v19 יָֽמָּה׃|yām·māh|at the far western|H3220|N-ms | 3fs
 v20 וַיֹּ֣אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֵלַ֔י|’ê·lay|to me|H413|Prep | 1cs
 v20 זֶ֣ה|zeh|This|H2088|Pro-ms

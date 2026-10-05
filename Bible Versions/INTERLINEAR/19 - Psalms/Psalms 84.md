@@ -46,7 +46,7 @@ v4 סֶּֽלָה׃|se·lāh|Selah|H5542|Interjection
 v5 אַשְׁרֵ֣י|’aš·rê|Blessed|H835|Interjection
 v5 אָ֭דָם|’ā·ḏām|are those|H120|N-ms
 v5 עֽוֹז־|‘ō·wz-|whose strength|H5797|N-ms
-v5 ל֥וֹ|lōw||H0|Prep | 3ms
+v5 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v5 בָ֑ךְ|ḇāḵ|is in You|H0|Prep | 2ms
 v5 מְ֝סִלּ֗וֹת|mə·sil·lō·wṯ|are set on pilgrimage|H4546|N-fp
 v5 בִּלְבָבָֽם׃|bil·ḇā·ḇām|whose hearts|H3824|Prep-b | N-msc | 3mp

@@ -62,7 +62,7 @@ v6 יְהוָ֤ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v6 אֱלֹהָיו֙|’ĕ·lō·hāw|his God|H430|N-mpc | 3ms
 v6 עָלָ֔יו|‘ā·lāw|was upon him|H5921|Prep | 3ms
 v6 כֹּ֖ל|kōl|all|H3605|N-msc
-v6 בַּקָּשָׁתֽוֹ׃פ|baq·qā·šā·ṯōw|his requests|H1246|N-fsc | 3ms
+v6 בַּקָּשָׁתֽוֹ׃|baq·qā·šā·ṯōw|his requests|H1246|N-fsc | 3ms
 v7 וַיַּֽעֲל֣וּ|way·ya·‘ă·lū|he went up|H5927|Conj-w | V-Qal-ConsecImperf-3mp
 v7 מִבְּנֵֽי־|mib·bə·nê-|the Israelites|H1121|Prep-m | N-mpc
 v7 יִ֠שְׂרָאֵל|yiś·rā·’êl|...|H3478|N-proper-fs
@@ -116,7 +116,7 @@ v10 וְלַעֲשֹׂ֑ת|wə·la·‘ă·śōṯ|to practice it|H6213|Conj-w,
 v10 וּלְלַמֵּ֥ד|ū·lə·lam·mêḏ|and to teach|H3925|Conj-w, Prep-l | V-Piel-Inf
 v10 בְּיִשְׂרָאֵ֖ל|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | N-proper-fs
 v10 חֹ֥ק|ḥōq|its statutes|H2706|N-ms
-v10 וּמִשְׁפָּֽט׃ס|ū·miš·pāṭ|and ordinances|H4941|Conj-w | N-ms
+v10 וּמִשְׁפָּֽט׃|ū·miš·pāṭ|and ordinances|H4941|Conj-w | N-ms
 v11 וְזֶ֣ה׀|wə·zeh|This|H2088|Conj-w | Pro-ms
 v11 פַּרְשֶׁ֣גֶן|par·še·ḡen|is the text|H6572|N-msc
 v11 הַֽנִּשְׁתְּוָ֗ן|han·niš·tə·wān|of the letter|H5406|Art | N-ms
@@ -128,12 +128,12 @@ v11 לְעֶזְרָ֥א|lə·‘ez·rā|to Ezra|H5830|Prep-l | N-proper-ms
 v11 הַכֹּהֵ֖ן|hak·kō·hên|the priest|H3548|Art | N-ms
 v11 הַסֹּפֵ֑ר|has·sō·p̄êr|[and] scribe|H5608|Art | N-ms
 v11 סֹפֵ֞ר|sō·p̄êr|an expert|H5608|N-msc
-v11 דִּבְרֵ֧י|diḇ·rê|vvv|H1697|N-mpc
+v11 דִּבְרֵ֧י|diḇ·rê|...|H1697|N-mpc
 v11 מִצְוֺת־|miṣ·wōṯ-|in the commandments|H4687|N-fpc
 v11 יְהוָ֛ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v11 וְחֻקָּ֖יו|wə·ḥuq·qāw|and statutes|H2706|Conj-w | N-mpc | 3ms
 v11 עַל־|‘al-|to|H5921|Prep
-v11 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|Israel|H3478|N-proper-fs
+v11 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-fs
 v12 אַ֨רְתַּחְשַׁ֔סְתְּא|’ar·taḥ·šast|Artaxerxes|H783|N-proper-ms
 v12 מֶ֖לֶךְ|me·leḵ|king|H4430|N-msc
 v12 מַלְכַיָּ֑א|mal·ḵay·yā|of kings|H4430|N-mpd
@@ -164,7 +164,7 @@ v13 עִמָּ֖ךְ|‘im·māḵ|with you|H5974|Prep | 2ms
 v13 יְהָֽךְ׃|yə·hāḵ|may go up|H1946|V-Qal-Imperf-3ms
 v14 כָּל־|kāl-|-|H3606|N-msc
 v14 קֳבֵ֗ל|qo·ḇêl|-|H6903|Prep
-v14 דִּי֩|dî||H1768|Pro-r
+v14 דִּי֩|dî|-|H1768|Pro-r
 v14 מִן־|min-|by|H4481|Prep
 v14 קֳדָ֨ם|qo·ḏām|...|H6925|Prep
 v14 מַלְכָּ֜א|mal·kā|the king|H4430|N-msd
@@ -209,7 +209,7 @@ v16 אֱלָהֲהֹ֖ם|’ĕ·lā·hă·hōm|of their God|H426|N-msc | 3mp
 v16 דִּ֥י|dî|...|H1768|Pro-r
 v16 בִירוּשְׁלֶֽם׃|ḇî·rū·šə·lem|in Jerusalem|H3390|Prep-b | N-proper-fs
 v17 כָּל־|kāl-|...|H3606|N-msc
-v17 קֳבֵ֣ל|qo·ḇêl||H6903|Prep
+v17 קֳבֵ֣ל|qo·ḇêl|-|H6903|Prep
 v17 דְּנָה֩|də·nāh|therefore|H1836|Pro-ms
 v17 אָסְפַּ֨רְנָא|’ā·sə·par·nā|as needed|H629|Adv
 v17 תִקְנֵ֜א|ṯiq·nê|you are to buy|H7066|V-Qal-Imperf-2ms
@@ -263,21 +263,21 @@ v20 לָ֖ךְ|lāḵ|you|H0|Prep | 2ms
 v20 לְמִנְתַּ֑ן|lə·min·tan|to supply|H5415|Prep-l | V-Qal-Inf
 v20 תִּנְתֵּ֕ן|tin·tên|you may pay [for it]|H5415|V-Qal-Imperf-2ms
 v20 מִן־|min-|from|H4481|Prep
-v20 בֵּ֖ית|bêṯ|vvv|H1005|N-msc
+v20 בֵּ֖ית|bêṯ|...|H1005|N-msc
 v20 גִּנְזֵ֥י|gin·zê|treasury|H1596|N-mpc
 v20 מַלְכָּֽא׃|mal·kā|the royal|H4430|N-msd
 v21 וּ֠מִנִּי|ū·min·nî|-|H4481|Conj-w | Prep | 1cs
 v21 אֲנָ֞ה|’ă·nāh|I|H576|Pro-1cs
 v21 אַרְתַּחְשַׁ֤סְתְּא|’ar·taḥ·šast|Artaxerxes|H783|N-proper-ms
 v21 מַלְכָּא֙|mal·kā|King|H4430|N-msd
-v21 שִׂ֣ים|śîm|vvv|H7761|V-Nifal-Perf-3ms
+v21 שִׂ֣ים|śîm|...|H7761|V-Nifal-Perf-3ms
 v21 טְעֵ֔ם|ṭə·‘êm|decree|H2942|N-ms
 v21 לְכֹל֙|lə·ḵōl|to all|H3606|Prep-l | N-msc
 v21 גִּזַּֽבְרַיָּ֔א|giz·zaḇ·ray·yā|the treasurers|H1490|N-mpd
 v21 דִּ֖י|dî|-|H1768|Pro-r
 v21 בַּעֲבַ֣ר|ba·‘ă·ḇar|west|H5675|Prep-b | N-msc
 v21 נַהֲרָ֑ה|na·hă·rāh|of the Euphrates|H5103|N-msd
-v21 דִּ֣י|dî||H1768|Pro-r
+v21 דִּ֣י|dî|-|H1768|Pro-r
 v21 כָל־|ḵāl|Whatever|H3606|N-msc
 v21 דִּ֣י|dî|...|H1768|Pro-r
 v21 יִ֠שְׁאֲלֶנְכוֹן|yiš·’ă·len·ḵō·wn|may require of you|H7593|V-Qal-Imperf-3ms | 2mp
@@ -285,7 +285,7 @@ v21 עֶזְרָ֨א|‘ez·rā|Ezra|H5831|N-proper-ms
 v21 כָהֲנָ֜ה|ḵā·hă·nāh|the priest|H3549|N-msd
 v21 סָפַ֤ר|sā·p̄ar|the scribe|H5613|N-msc
 v21 דָּתָא֙|dā·ṯā|of the Law|H1882|N-fsd
-v21 דִּֽי־|dî-||H1768|Pro-r
+v21 דִּֽי־|dî-|-|H1768|Pro-r
 v21 אֱלָ֣הּ|’ĕ·lāh|of the God|H426|N-msc
 v21 שְׁמַיָּ֔א|šə·may·yā|of heaven|H8065|N-mpd
 v21 אָסְפַּ֖רְנָא|’ā·sə·par·nā|promptly|H629|Adv
@@ -358,8 +358,8 @@ v25 בִידָךְ֙|ḇî·ḏāḵ|...|H3028|Prep-b | N-fsc | 2ms
 v25 מֶ֣נִּי|men·nî|are to appoint|H4483|V-Piel-Imp-ms
 v25 שָׁפְטִ֞ין|šā·p̄ə·ṭîn|magistrates|H8200|V-Qal-Prtcpl-mp
 v25 וְדַיָּנִ֗ין|wə·ḏay·yā·nîn|and judges|H1782|Conj-w | N-mp
-v25 דִּי־|dî-||H1768|Pro-r
-v25 לֶהֱוֺ֤ן|le·hĕ·wōn||H1934|V-Qal-Imperf-3mp
+v25 דִּי־|dî-|-|H1768|Pro-r
+v25 לֶהֱוֺ֤ן|le·hĕ·wōn|-|H1934|V-Qal-Imperf-3mp
 v25 דָּאֲנִין|då̄·ʾă·nīn|to judge|H1778|V-Qal-Prtcpl-mp
 v25 לְכָל־|lə·ḵāl|all|H3606|Prep-l | N-msc
 v25 עַמָּה֙|‘am·māh|the people|H5972|N-msd
@@ -397,7 +397,7 @@ v26 לִשְׁרֹשׁוּ|liš·rō·šū|banishment|H8332|Prep-l | N-ms
 v26 הֵן־|hên-|...|H2006|Conj
 v26 לַעֲנָ֥שׁ|la·‘ă·nāš|confiscation|H6065|Prep-l | N-msc
 v26 נִכְסִ֖ין|niḵ·sîn|of property|H5232|N-mp
-v26 וְלֶאֱסוּרִֽין׃פ|wə·le·’ĕ·sū·rîn|or imprisonment|H613|Conj-w, Prep-l | N-mp
+v26 וְלֶאֱסוּרִֽין׃|wə·le·’ĕ·sū·rîn|or imprisonment|H613|Conj-w, Prep-l | N-mp
 v27 בָּר֥וּךְ|bā·rūḵ|Blessed [be]|H1288|V-Qal-QalPassPrtcpl-ms
 v27 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v27 אֱלֹהֵ֣י|’ĕ·lō·hê|the God|H430|N-mpc
@@ -433,4 +433,4 @@ v28 וָאֶקְבְּצָ֧ה|wā·’eq·bə·ṣāh|and gathered|H6908|Conj-w
 v28 מִיִּשְׂרָאֵ֛ל|mî·yiś·rā·’êl|of Israel|H3478|Prep-m | N-proper-fs
 v28 רָאשִׁ֖ים|rā·šîm|the leaders|H7218|N-mp
 v28 לַעֲל֥וֹת|la·‘ă·lō·wṯ|to return|H5927|Prep-l | V-Qal-Inf
-v28 עִמִּֽי׃פ|‘im·mî|with me|H5973|Prep | 1cs
+v28 עִמִּֽי׃|‘im·mî|with me|H5973|Prep | 1cs

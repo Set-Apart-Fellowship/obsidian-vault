@@ -176,7 +176,7 @@ v15 יַעֲשֶׂ֛ה|ya·‘ă·śeh|can do|H6213|V-Qal-Imperf-3ms
 v15 רֹ֥אשׁ|rōš|head|H7218|N-ms
 v15 וְזָנָ֖ב|wə·zā·nāḇ|or tail|H2180|Conj-w | N-ms
 v15 כִּפָּ֥ה|kip·pāh|palm|H3712|N-fs
-v15 וְאַגְמֽוֹן׃ס|wə·’aḡ·mō·wn|or reed|H100|Conj-w | N-ms
+v15 וְאַגְמֽוֹן׃|wə·’aḡ·mō·wn|or reed|H100|Conj-w | N-ms
 v16 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v16 הַה֔וּא|ha·hū|In that|H1931|Art | Pro-3ms
 v16 יִֽהְיֶ֥ה|yih·yeh|will be|H1961|V-Qal-Imperf-3ms
@@ -211,7 +211,7 @@ v17 צְבָא֔וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v17 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v17 ה֖וּא|hū|-|H1931|Pro-3ms
 v17 יוֹעֵ֥ץ|yō·w·‘êṣ|...|H3289|V-Qal-Prtcpl-ms
-v17 עָלָֽיו׃ס|‘ā·lāw|against it|H5921|Prep | 3ms
+v17 עָלָֽיו׃|‘ā·lāw|against it|H5921|Prep | 3ms
 v18 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v18 הַה֡וּא|ha·hū|In that|H1931|Art | Pro-3ms
 v18 יִהְיוּ֩|yih·yū|...|H1961|V-Qal-Imperf-3mp
@@ -228,7 +228,7 @@ v18 צְבָא֑וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v18 עִ֣יר|‘îr|the City|H5892|N-proper-fs
 v18 הַהֶ֔רֶס|ha·he·res|of the Sun|H2041|Art | N-ms
 v18 יֵאָמֵ֖ר|yê·’ā·mêr|will be called|H559|V-Nifal-Imperf-3ms
-v18 לְאֶחָֽת׃ס|lə·’e·ḥāṯ|One of them|H259|Prep-l | Number-fs
+v18 לְאֶחָֽת׃|lə·’e·ḥāṯ|One of them|H259|Prep-l | Number-fs
 v19 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v19 הַה֗וּא|ha·hū|In that|H1931|Art | Pro-3ms
 v19 יִֽהְיֶ֤ה|yih·yeh|there will be|H1961|V-Qal-Imperf-3ms
@@ -300,8 +300,8 @@ v23 וּמִצְרַ֣יִם|ū·miṣ·ra·yim|and the Egyptians|H4714|Conj-w |
 v23 בְּאַשּׁ֑וּר|bə·’aš·šūr|to Assyria|H804|Prep-b | N-proper-fs
 v23 וְעָבְד֥וּ|wə·‘ā·ḇə·ḏū|will worship together|H5647|Conj-w | V-Qal-ConjPerf-3cp
 v23 מִצְרַ֖יִם|miṣ·ra·yim|The Egyptians|H4714|N-proper-fs
-v23 אֶת־|’eṯ-||H853|DirObjM
-v23 אַשּֽׁוּר׃ס|’aš·šūr|and Assyrians|H804|N-proper-fs
+v23 אֶת־|’eṯ-|-|H853|DirObjM
+v23 אַשּֽׁוּר׃|’aš·šūr|and Assyrians|H804|N-proper-fs
 v24 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v24 הַה֗וּא|ha·hū|In that|H1931|Art | Pro-3ms
 v24 יִהְיֶ֤ה|yih·yeh|will join|H1961|V-Qal-Imperf-3ms
@@ -324,4 +324,4 @@ v25 וּמַעֲשֵׂ֤ה|ū·ma·‘ă·śêh|My handiwork|H4639|Conj-w | N-m
 v25 יָדַי֙|yā·ḏay|...|H3027|N-fdc | 1cs
 v25 אַשּׁ֔וּר|’aš·šūr|Assyria|H804|N-proper-fs
 v25 וְנַחֲלָתִ֖י|wə·na·ḥă·lā·ṯî|My inheritance|H5159|Conj-w | N-fsc | 1cs
-v25 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|and Israel|H3478|N-proper-ms
+v25 יִשְׂרָאֵֽל׃|yiś·rā·’êl|and Israel|H3478|N-proper-ms

@@ -53,14 +53,14 @@ v3 שָׁלַ֥ח|šā·laḥ|David has sent|H7971|V-Qal-Perf-3ms
 v3 לְךָ֖|lə·ḵā|you|H0|Prep | 2ms
 v3 מְנַחֲמִ֑ים|mə·na·ḥă·mîm|comforters|H5162|V-Piel-Prtcpl-mp
 v3 הֲלֹ֡א|hă·lō|Have not|H3808|Adv-NegPrt
-v3 בַּ֠עֲבוּר|ba·‘ă·ḇūr|vvv|H5668|Prep-b | N-ms
+v3 בַּ֠עֲבוּר|ba·‘ă·ḇūr|...|H5668|Prep-b | N-ms
 v3 לַחְקֹ֨ר|laḥ·qōr|to explore|H2713|Prep-l | V-Qal-Inf
 v3 וְלַהֲפֹ֤ךְ|wə·la·hă·p̄ōḵ|and overthrow it|H2015|Conj-w, Prep-l | V-Qal-Inf
 v3 וּלְרַגֵּל֙|ū·lə·rag·gêl|spy it out|H7270|Conj-w, Prep-l | V-Piel-Inf
 v3 הָאָ֔רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v3 בָּ֥אוּ|bā·’ū|come|H935|V-Qal-Perf-3cp
 v3 עֲבָדָ֖יו|‘ă·ḇā·ḏāw|his servants|H5650|N-mpc | 3ms
-v3 אֵלֶֽיךָ׃פ|’ê·le·ḵā|to you|H413|Prep | 2ms
+v3 אֵלֶֽיךָ׃|’ê·le·ḵā|to you|H413|Prep | 2ms
 v4 וַיִּקַּ֨ח|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v4 חָנ֜וּן|ḥā·nūn|So Hanun|H2586|N-proper-ms
 v4 אֶת־|’eṯ-|-|H853|DirObjM
@@ -70,7 +70,7 @@ v4 וַֽיְגַלְּחֵ֔ם|way·ḡal·lə·ḥêm|shaved [their beards]|H1
 v4 וַיִּכְרֹ֧ת|way·yiḵ·rōṯ|cut off|H3772|Conj-w | V-Qal-ConsecImperf-3ms
 v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 מַדְוֵיהֶ֛ם|maḏ·wê·hem|their garments|H4063|N-mpc | 3mp
-v4 בַּחֵ֖צִי|ba·ḥê·ṣî|vvv|H2677|Prep-b, Art | N-ms
+v4 בַּחֵ֖צִי|ba·ḥê·ṣî|...|H2677|Prep-b, Art | N-ms
 v4 עַד־|‘aḏ-|at|H5704|Prep
 v4 הַמִּפְשָׂעָ֑ה|ham·mip̄·śā·‘āh|the hips|H4667|Art | N-fs
 v4 וַֽיְשַׁלְּחֵֽם׃|way·šal·lə·ḥêm|and sent them away|H7971|Conj-w | V-Piel-ConsecImperf-3ms | 3mp
@@ -112,7 +112,7 @@ v6 כֶּ֗סֶף|ke·sep̄|of silver|H3701|N-ms
 v6 לִשְׂכֹּ֣ר|liś·kōr|to hire|H7936|Prep-l | V-Qal-Inf
 v6 לָ֠הֶם|lā·hem|for themselves|H0|Prep | 3mp
 v6 מִן־|min-|from|H4480|Prep
-v6 אֲרַ֨ם|’ă·ram|vvv|H763|
+v6 אֲרַ֨ם|’ă·ram|...|H763|
 v6 נַהֲרַ֜יִם|na·hă·ra·yim|Aram-naharaim|H763|N-proper-fs
 v6 וּמִן־|ū·min-|...|H4480|Conj-w | Prep
 v6 אֲרַ֤ם|’ă·ram|...|H758|N-proper-fs
@@ -140,7 +140,7 @@ v7 עַמּ֗וֹן|‘am·mō·wn|...|H5983|N-proper-ms
 v7 נֶאֶסְפוּ֙|ne·’es·p̄ū|and marched out|H622|V-Nifal-Perf-3cp
 v7 מֵעָ֣רֵיהֶ֔ם|mê·‘ā·rê·hem|were mustered from their cities|H5892|Prep-m | N-fpc | 3mp
 v7 וַיָּבֹ֖אוּ|way·yā·ḇō·’ū|...|H935|Conj-w | V-Qal-ConsecImperf-3mp
-v7 לַמִּלְחָמָֽה׃פ|lam·mil·ḥå̄·må̄h|for battle|H4421|Prep-l, Art | N-fs
+v7 לַמִּלְחָמָֽה׃|lam·mil·ḥå̄·må̄h|for battle|H4421|Prep-l, Art | N-fs
 v8 וַיִּשְׁמַ֖ע|way·yiš·ma‘|On hearing this|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דָּוִ֑יד|dā·wîḏ|David|H1732|N-proper-ms
 v8 וַיִּשְׁלַח֙|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
@@ -166,9 +166,9 @@ v10 וַיַּ֣רְא|way·yar|saw|H7200|Conj-w | V-Qal-ConsecImperf-3ms
 v10 יוֹאָ֗ב|yō·w·’āḇ|When Joab|H3097|N-proper-ms
 v10 כִּֽי־|kî-|-|H3588|Conj
 v10 הָיְתָ֧ה|hā·yə·ṯāh|-|H1961|V-Qal-Perf-3fs
-v10 פְנֵי־|p̄ə·nê-||H6440|N-mpc
+v10 פְנֵי־|p̄ə·nê-|-|H6440|N-mpc
 v10 הַמִּלְחָמָ֛ה|ham·mil·ḥā·māh|the battle lines|H4421|Art | N-fs
-v10 אֵלָ֖יו|’ê·lāw||H413|Prep | 3ms
+v10 אֵלָ֖יו|’ê·lāw|-|H413|Prep | 3ms
 v10 פָּנִ֣ים|pā·nîm|before him|H6440|N-mp
 v10 וְאָח֑וֹר|wə·’ā·ḥō·wr|and behind him|H268|Conj-w | N-ms
 v10 וַיִּבְחַ֗ר|way·yiḇ·ḥar|he selected|H977|Conj-w | V-Qal-ConsecImperf-3ms
@@ -240,7 +240,7 @@ v15 וַיָּבֹ֖אוּ|way·yā·ḇō·’ū|and they entered|H935|Conj-w |
 v15 הָעִ֑ירָה|hā·‘î·rāh|the city|H5892|Art | N-fs | 3fs
 v15 וַיָּבֹ֥א|way·yā·ḇō|went back|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v15 יוֹאָ֖ב|yō·w·’āḇ|So Joab|H3097|N-proper-ms
-v15 יְרוּשָׁלִָֽם׃פ|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
+v15 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
 v16 וַיַּ֣רְא|way·yar|saw|H7200|Conj-w | V-Qal-ConsecImperf-3ms
 v16 אֲרָ֗ם|’ă·rām|When the Arameans|H758|N-proper-fs
 v16 כִּ֣י|kî|that|H3588|Conj
@@ -252,7 +252,7 @@ v16 מַלְאָכִ֔ים|mal·’ā·ḵîm|messengers|H4397|N-mp
 v16 וַיּוֹצִ֣יאוּ|way·yō·w·ṣî·’ū|to bring|H3318|Conj-w | V-Hifil-ConsecImperf-3mp
 v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 אֲרָ֔ם|’ă·rām|[more] Arameans|H758|N-proper-fs
-v16 אֲשֶׁ֖ר|’ă·šer||H834|Pro-r
+v16 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v16 מֵעֵ֣בֶר|mê·‘ê·ḇer|from beyond|H5676|Prep-m | N-msc
 v16 הַנָּהָ֑ר|han·nā·hār|the Euphrates|H5104|Art | N-ms
 v16 וְשׁוֹפַ֛ךְ|wə·šō·w·p̄aḵ|with Shophach|H7780|Conj-w | N-proper-ms
@@ -316,4 +316,4 @@ v19 לְהוֹשִׁ֥יעַ|lə·hō·wō·šî·a‘|to help|H3467|Prep-l | V-
 v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 בְּנֵי־|bə·nê-|the Ammonites|H1121|N-mpc
 v19 עַמּ֖וֹן|‘am·mō·wn|...|H5983|N-proper-ms
-v19 עֽוֹד׃פ|‘ō·wḏ|anymore|H5750|Adv
+v19 עֽוֹד׃|‘ō·wḏ|anymore|H5750|Adv

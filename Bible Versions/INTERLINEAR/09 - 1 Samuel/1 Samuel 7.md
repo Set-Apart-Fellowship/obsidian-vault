@@ -1,6 +1,6 @@
 v1 וַיָּבֹ֜אוּ|way·yā·ḇō·’ū|came|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v1 אַנְשֵׁ֣י׀|’an·šê|Then the men|H582|N-mpc
-v1 קִרְיַ֣ת|qir·yaṯ|vvv|H7157|
+v1 קִרְיַ֣ת|qir·yaṯ|...|H7157|
 v1 יְעָרִ֗ים|yə·‘ā·rîm|of Kiriath-jearim|H7157|N-proper-fs
 v1 וַֽיַּעֲלוּ֙|way·ya·‘ă·lū|and took|H5927|Conj-w | V-Hifil-ConsecImperf-3mp
 v1 אֶת־|’eṯ-|-|H853|DirObjM
@@ -19,12 +19,12 @@ v1 קִדְּשׁ֔וּ|qid·də·šū|they consecrated|H6942|V-Piel-Perf-3cp
 v1 לִשְׁמֹ֖ר|liš·mōr|to guard|H8104|Prep-l | V-Qal-Inf
 v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 אֲר֥וֹן|’ă·rō·wn|the ark|H727|N-csc
-v1 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v1 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v2 וַיְהִ֗י|way·hî|passed|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v2 מִיּ֞וֹם|mî·yō·wm|And from that day|H3117|Prep-m | N-msc
 v2 שֶׁ֤בֶת|še·ḇeṯ|remained|H3427|V-Qal-Inf
 v2 הָֽאָרוֹן֙|hā·’ā·rō·wn|as the ark|H727|Art | N-cs
-v2 בְּקִרְיַ֣ת|bə·qir·yaṯ|vvv|H7157|Prep
+v2 בְּקִרְיַ֣ת|bə·qir·yaṯ|...|H7157|Prep
 v2 יְעָרִ֔ים|yə·‘ā·rîm|at Kiriath-jearim|H7157|Prep | N-proper-fs
 v2 וַיִּרְבּוּ֙|way·yir·bū|a long|H7235|Conj-w | V-Qal-ConsecImperf-3mp
 v2 הַיָּמִ֔ים|hay·yā·mîm|time|H3117|Art | N-mp
@@ -36,7 +36,7 @@ v2 כָּל־|kāl-|And all|H3605|N-msc
 v2 בֵּ֥ית|bêṯ|the house|H1004|N-msc
 v2 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 אַחֲרֵ֥י|’a·ḥă·rê|sought|H310|Prep
-v2 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v2 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v3 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v3 שְׁמוּאֵ֗ל|šə·mū·’êl|Then Samuel|H8050|N-proper-ms
 v3 אֶל־|’el-|to|H413|Prep
@@ -77,7 +77,7 @@ v4 הָעַשְׁתָּרֹ֑ת|hā·‘aš·tā·rōṯ|Ashtoreths|H6252|Art | 
 v4 וַיַּעַבְד֥וּ|way·ya·‘aḇ·ḏū|and served|H5647|Conj-w | V-Qal-ConsecImperf-3mp
 v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v4 לְבַדּֽוֹ׃פ|lə·ḇad·dōw|only|H905|Prep-l | N-msc | 3ms
+v4 לְבַדּֽוֹ׃|lə·ḇad·dōw|only|H905|Prep-l | N-msc | 3ms
 v5 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v5 שְׁמוּאֵ֔ל|šə·mū·’êl|Then Samuel|H8050|N-proper-ms
 v5 קִבְצ֥וּ|qiḇ·ṣū|Gather|H6908|V-Qal-Imp-mp
@@ -188,9 +188,9 @@ v11 וַֽיִּרְדְּפ֖וּ|way·yir·də·p̄ū|and pursued|H7291|Conj-w
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 פְּלִשְׁתִּ֑ים|pə·liš·tîm|the Philistines|H6430|N-proper-mp
 v11 וַיַּכּ֕וּם|way·yak·kūm|striking them down|H5221|Conj-w | V-Hifil-ConsecImperf-3mp | 3mp
-v11 עַד־|‘aḏ-|vvv|H5704|Prep
+v11 עַד־|‘aḏ-|...|H5704|Prep
 v11 מִתַּ֖חַת|mit·ta·ḥaṯ|all the way to|H8478|Prep-m
-v11 לְבֵ֥ית|lə·ḇêṯ|vvv|H1033|Prep
+v11 לְבֵ֥ית|lə·ḇêṯ|...|H1033|Prep
 v11 כָּֽר׃|kār|an area below Beth-car|H1033|Prep | N-proper-fs
 v12 וַיִּקַּ֨ח|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v12 שְׁמוּאֵ֜ל|šə·mū·’êl|Afterward, Samuel|H8050|N-proper-ms
@@ -204,7 +204,7 @@ v12 הַשֵּׁ֔ן|haš·šên|and Shen|H8129|Art | N-proper-fs
 v12 וַיִּקְרָ֥א|way·yiq·rā|He named|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 שְׁמָ֖הּ|šə·māh|-|H8034|N-msc | 3fs
-v12 אֶ֣בֶן|’e·ḇen|vvv|H72|
+v12 אֶ֣בֶן|’e·ḇen|...|H72|
 v12 הָעָ֑זֶר|hā·‘ā·zer|it Ebenezer|H72|N-proper-fs
 v12 וַיֹּאמַ֕ר|way·yō·mar|saying|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 עַד־|‘aḏ-|far|H5704|Prep
@@ -261,7 +261,7 @@ v16 מִדֵּ֤י|mid·dê|from|H1767|Prep-m | N-msc
 v16 שָׁנָה֙|šā·nāh|Every year|H8141|N-fs
 v16 בְּשָׁנָ֔ה|bə·šā·nāh|...|H8141|Prep-b | N-fs
 v16 וְסָבַב֙|wə·sā·ḇaḇ|on a circuit|H5437|Conj-w | V-Qal-ConjPerf-3ms
-v16 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v16 בֵּֽית־|bêṯ-|...|H1008|Prep
 v16 אֵ֔ל|’êl|Bethel|H1008|N-proper-fs
 v16 וְהַגִּלְגָּ֖ל|wə·hag·gil·gāl|to Gilgal|H1537|Conj-w, Art | N-proper-fs
 v16 וְהַמִּצְפָּ֑ה|wə·ham·miṣ·pāh|to Mizpah|H4709|Conj-w, Art | N-proper-fs
@@ -284,4 +284,4 @@ v17 יִשְׂרָאֵ֑ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v17 וַיִּֽבֶן־|way·yi·ḇen-|and built|H1129|Conj-w | V-Qal-ConsecImperf-3ms
 v17 שָׁ֥ם|šām|-|H8033|Adv
 v17 מִזְבֵּ֖חַ|miz·bê·aḥ|an altar|H4196|N-ms
-v17 לַֽיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v17 לַֽיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms

@@ -67,7 +67,7 @@ v4 חֶ֔רֶב|ḥe·reḇ|the sword|H2719|N-fs
 v4 וְלֹא־|wə·lō-|nor|H3808|Conj-w | Adv-NegPrt
 v4 יִלְמְד֥וּ|yil·mə·ḏū|train|H3925|V-Qal-Imperf-3mp
 v4 ע֖וֹד|‘ō·wḏ|anymore|H5750|Adv
-v4 מִלְחָמָֽה׃פ|mil·ḥā·māh|for war|H4421|N-fs
+v4 מִלְחָמָֽה׃|mil·ḥā·māh|for war|H4421|N-fs
 v5 בֵּ֖ית|bêṯ|O house|H1004|N-msc
 v5 יַעֲקֹ֑ב|ya·‘ă·qōḇ|of Jacob|H3290|N-proper-ms
 v5 לְכ֥וּ|lə·ḵū|Come|H1980|V-Qal-Imp-mp
@@ -136,7 +136,7 @@ v11 וְנִשְׂגַּ֧ב|wə·niś·gaḇ|will be exalted|H7682|Conj-w | V-N
 v11 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v11 לְבַדּ֖וֹ|lə·ḇad·dōw|alone|H905|Prep-l | N-msc | 3ms
 v11 בַּיּ֥וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
-v11 הַהֽוּא׃ס|ha·hū|in that|H1931|Art | Pro-3ms
+v11 הַהֽוּא׃|ha·hū|in that|H1931|Art | Pro-3ms
 v12 כִּ֣י|kî|For|H3588|Conj
 v12 י֞וֹם|yō·wm|the Day|H3117|N-ms
 v12 לַיהוָ֧ה|Yah·weh|of the LORD|H3068|Prep-l | N-proper-ms
@@ -222,7 +222,7 @@ v20 אֱלִילֵ֣י|’ĕ·lî·lê|...|H457|N-mpc
 v20 זְהָב֑וֹ|zə·hā·ḇōw|gold|H2091|N-msc | 3ms
 v20 אֲשֶׁ֤ר|’ă·šer|[the idols]|H834|Pro-r
 v20 עָֽשׂוּ־|‘ā·śū-|they made|H6213|V-Qal-Perf-3cp
-v20 לוֹ֙|lōw||H0|Prep | 3ms
+v20 לוֹ֙|lōw|-|H0|Prep | 3ms
 v20 לְהִֽשְׁתַּחֲוֺ֔ת|lə·hiš·ta·ḥă·wōṯ|to worship|H7812|Prep-l | V-Hitpael-Inf
 v20 לַחְפֹּ֥ר|laḥ·pōr|to the moles|H2661|Prep-l | V-Qal-Inf
 v20 פֵּר֖וֹת|pê·rō·wṯ|...|H6512|N-fp
@@ -241,7 +241,7 @@ v21 בְּקוּמ֖וֹ|bə·qū·mōw|when He rises|H6965|Prep-b | V-Qal-Inf |
 v21 לַעֲרֹ֥ץ|la·‘ă·rōṣ|to shake|H6206|Prep-l | V-Qal-Inf
 v21 הָאָֽרֶץ׃|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v22 חִדְל֤וּ|ḥiḏ·lū|Put no more trust|H2308|V-Qal-Imp-mp
-v22 לָכֶם֙|lā·ḵem||H0|Prep | 2mp
+v22 לָכֶם֙|lā·ḵem|-|H0|Prep | 2mp
 v22 מִן־|min-|in|H4480|Prep
 v22 הָ֣אָדָ֔ם|hā·’ā·ḏām|man|H120|Art | N-ms
 v22 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
@@ -250,4 +250,4 @@ v22 בְּאַפּ֑וֹ|bə·’ap·pōw|in his nostrils|H639|Prep-b | N-msc | 
 v22 כִּֽי־|kî-|...|H3588|Conj
 v22 בַמֶּ֥ה|ḇam·meh|Of what|H4100|Prep-b | Interrog
 v22 נֶחְשָׁ֖ב|neḥ·šāḇ|account|H2803|V-Nifal-Prtcpl-ms
-v22 הֽוּא׃פ|hū|is he|H1931|Pro-3ms
+v22 הֽוּא׃|hū|is he|H1931|Pro-3ms

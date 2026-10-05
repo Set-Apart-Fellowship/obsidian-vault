@@ -16,7 +16,7 @@ v3 בִנְדִיבִ֑ים|ḇin·ḏî·ḇîm|in princes|H5081|Prep-b | Adj-m
 v3 בְּבֶן־|bə·ḇen-|in mortal|H1121|Prep-b | N-msc
 v3 אָדָ֓ם׀|’ā·ḏām|man|H120|N-ms
 v3 שֶׁ֤אֵֽין|še·’ên|who cannot|H369|Pro-r | Adv
-v3 ל֥וֹ|lōw||H0|Prep | 3ms
+v3 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v3 תְשׁוּעָֽה׃|ṯə·šū·‘āh|save|H8668|N-fs
 v4 תֵּצֵ֣א|tê·ṣê|departs|H3318|V-Qal-Imperf-3fs
 v4 ר֭וּחוֹ|rū·ḥōw|When his spirit|H7307|N-csc | 3ms

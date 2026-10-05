@@ -85,7 +85,7 @@ v12 מְשַׁוֵּ֑עַ|mə·šaw·wê·a‘|who cry out|H7768|V-Piel-Prtcpl-
 v12 וְ֝עָנִ֗י|wə·‘ā·nî|and the afflicted|H6041|Conj-w | Adj-ms
 v12 וְֽאֵין־|wə·’ên-|who have no|H369|Conj-w | Adv
 v12 עֹזֵ֥ר|‘ō·zêr|helper|H5826|V-Qal-Prtcpl-ms
-v12 לֽוֹ׃|lōw||H0|Prep | 3ms
+v12 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v13 יָ֭חֹס|yā·ḥōs|He will take pity|H2347|V-Qal-Imperf-3ms
 v13 עַל־|‘al-|on|H5921|Prep
 v13 דַּ֣ל|dal|the poor|H1800|Adj-msc

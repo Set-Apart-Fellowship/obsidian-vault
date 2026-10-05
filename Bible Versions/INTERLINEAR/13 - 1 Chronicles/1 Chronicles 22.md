@@ -8,7 +8,7 @@ v1 הָאֱלֹהִ֑ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
 v1 וְזֶה־|wə·zeh-|as well as|H2088|Conj-w | Pro-ms
 v1 מִּזְבֵּ֥חַ|miz·bê·aḥ|the altar|H4196|N-ms
 v1 לְעֹלָ֖ה|lə·‘ō·lāh|of burnt offering|H5930|Prep-l | N-fs
-v1 לְיִשְׂרָאֵֽל׃ס|lə·yiś·rā·’êl|for Israel|H3478|Prep-l | N-proper-ms
+v1 לְיִשְׂרָאֵֽל׃|lə·yiś·rā·’êl|for Israel|H3478|Prep-l | N-proper-ms
 v2 וַיֹּ֣אמֶר|way·yō·mer|gave orders|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 דָּוִ֔יד|dā·wîḏ|So David|H1732|N-proper-ms
 v2 לִכְנוֹס֙|liḵ·nō·ws|to gather|H3664|Prep-l | V-Qal-Inf
@@ -48,7 +48,7 @@ v4 וְהַצֹּרִ֜ים|wə·haṣ·ṣō·rîm|and Tyrians|H6876|Conj-w, Ar
 v4 עֲצֵ֧י|‘ă·ṣê|logs|H6086|N-mpc
 v4 אֲרָזִ֛ים|’ă·rā·zîm|cedar|H730|N-mp
 v4 לָרֹ֖ב|lā·rōḇ|a large quantity of|H7230|Prep-l, Art | N-ms
-v4 לְדָוִֽיד׃פ|lə·ḏā·wîḏ|to David|H1732|Prep-l | N-proper-ms
+v4 לְדָוִֽיד׃|lə·ḏā·wîḏ|to David|H1732|Prep-l | N-proper-ms
 v5 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v5 דָּוִ֗יד|dā·wîḏ|And David|H1732|N-proper-ms
 v5 שְׁלֹמֹ֣ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -80,7 +80,7 @@ v6 לִבְנ֣וֹת|liḇ·nō·wṯ|to build|H1129|Prep-l | V-Qal-Inf
 v6 בַּ֔יִת|ba·yiṯ|a house|H1004|N-ms
 v6 לַיהוָ֖ה|Yah·weh|for the LORD|H3068|Prep-l | N-proper-ms
 v6 אֱלֹהֵ֥י|’ĕ·lō·hê|the God|H430|N-mpc
-v6 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v6 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v7 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v7 דָּוִ֖יד|dā·wîḏ|David|H1732|N-proper-ms
 v7 לִשְׁלֹמֹ֑ה|liš·lō·mōh|to Solomon|H8010|Prep-l | N-proper-ms
@@ -212,10 +212,10 @@ v14 לְבֵית־|lə·ḇêṯ-|for the house|H1004|Prep-l | N-msc
 v14 יְהוָ֗ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v14 זָהָ֞ב|zā·hāḇ|of gold|H2091|N-ms
 v14 כִּכָּרִ֤ים|kik·kā·rîm|talents|H3603|N-fp
-v14 מֵֽאָה־|mê·’āh-|100,000 {}|H3967|Number-fs
+v14 מֵֽאָה־|mê·’āh-|100,000|H3967|Number-fs
 v14 אֶ֙לֶף֙|’e·lep̄|...|H505|Number-ms
 v14 וְכֶ֗סֶף|wə·ḵe·sep̄|of silver|H3701|Conj-w | N-ms
-v14 אֶ֤לֶף|’e·lep̄|1,000,000 {}|H505|Number-ms
+v14 אֶ֤לֶף|’e·lep̄|1,000,000|H505|Number-ms
 v14 אֲלָפִים֙|’ă·lā·p̄îm|...|H505|Number-mp
 v14 כִּכָּרִ֔ים|kik·kā·rîm|talents|H3603|N-fp
 v14 וְלַנְּחֹ֤שֶׁת|wə·lan·nə·ḥō·šeṯ|and bronze|H5178|Conj-w, Prep-l, Art | N-fs
@@ -304,4 +304,4 @@ v19 הָֽאֱלֹהִ֔ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v19 לַבַּ֖יִת|lab·ba·yiṯ|into the temple|H1004|Prep-l, Art | N-ms
 v19 הַנִּבְנֶ֥ה|han·niḇ·neh|that will be built|H1129|Art | V-Nifal-Prtcpl-ms
 v19 לְשֵׁם־|lə·šêm-|for the Name|H8034|Prep-l | N-msc
-v19 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v19 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms

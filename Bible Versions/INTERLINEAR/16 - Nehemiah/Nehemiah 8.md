@@ -72,7 +72,7 @@ v4 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v4 עָשׂ֣וּ|‘ā·śū|built|H6213|V-Qal-Perf-3cp
 v4 לַדָּבָר֒|lad·dā·ḇār|for this occasion|H1697|Prep-l, Art | N-ms
 v4 וַיַּֽעֲמֹ֣ד|way·ya·‘ă·mōḏ|stood|H5975|Conj-w | V-Qal-ConsecImperf-3ms
-v4 אֶצְל֡וֹ|’eṣ·lōw||H681|Prep | 3ms
+v4 אֶצְל֡וֹ|’eṣ·lōw|-|H681|Prep | 3ms
 v4 מַתִּתְיָ֡ה|mat·tiṯ·yāh|Mattithiah|H4993|N-proper-ms
 v4 וְשֶׁ֡מַע|wə·še·ma‘|Shema|H8087|Conj-w | N-proper-ms
 v4 וַ֠עֲנָיָה|wa·‘ă·nā·yāh|Anaiah|H6043|Conj-w | N-proper-ms
@@ -88,7 +88,7 @@ v4 וּמַלְכִּיָּ֛ה|ū·mal·kî·yāh|Malchijah|H4441|Conj-w | N-pr
 v4 וְחָשֻׁ֥ם|wə·ḥā·šum|Hashum|H2828|Conj-w | N-proper-ms
 v4 וְחַשְׁבַּדָּ֖נָה|wə·ḥaš·bad·dā·nāh|Hash-baddanah|H2806|Conj-w | N-proper-ms
 v4 זְכַרְיָ֥ה|zə·ḵar·yāh|Zechariah|H2148|N-proper-ms
-v4 מְשֻׁלָּֽם׃פ|mə·šul·lām|and Meshullam|H4918|N-proper-ms
+v4 מְשֻׁלָּֽם׃|mə·šul·lām|and Meshullam|H4918|N-proper-ms
 v5 וַיִּפְתַּ֨ח|way·yip̄·taḥ|opened|H6605|Conj-w | V-Qal-ConsecImperf-3ms
 v5 עֶזְרָ֤א|‘ez·rā|Ezra|H5830|N-proper-ms
 v5 הַסֵּ֙פֶר֙|has·sê·p̄er|the book|H5612|Art | N-ms
@@ -106,7 +106,7 @@ v5 כָל־|ḵāl|all|H3605|N-msc
 v5 הָעָֽם׃|hā·‘ām|the people|H5971|Art | N-ms
 v6 וַיְבָ֣רֶךְ|way·ḇā·reḵ|blessed|H1288|Conj-w | V-Piel-ConsecImperf-3ms
 v6 עֶזְרָ֔א|‘ez·rā|Then Ezra|H5830|N-proper-ms
-v6 אֶת־|’eṯ-||H853|DirObjM
+v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v6 הָאֱלֹהִ֖ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
 v6 הַגָּד֑וֹל|hag·gā·ḏō·wl|the great|H1419|Art | Adj-ms
@@ -151,10 +151,10 @@ v8 מְפֹרָ֑שׁ|mə·p̄ō·rāš|explaining it|H6567|V-Pual-Prtcpl-ms
 v8 וְשׂ֣וֹם|wə·śō·wm|and giving|H7760|Conj-w | V-Qal-InfAbs
 v8 שֶׂ֔כֶל|śe·ḵel|insight|H7922|N-ms
 v8 וַיָּבִ֖ינוּ|way·yā·ḇî·nū|so that the people could understand|H995|Conj-w | V-Qal-ConsecImperf-3mp
-v8 בַּמִּקְרָֽא׃ס|bam·miq·rā|what was being read|H4744|Prep-b, Art | N-ms
+v8 בַּמִּקְרָֽא׃|bam·miq·rā|what was being read|H4744|Prep-b, Art | N-ms
 v9 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 נְחֶמְיָ֣ה|nə·ḥem·yāh|Nehemiah|H5166|N-proper-ms
-v9 ה֣וּא|hū||H1931|Pro-3ms
+v9 ה֣וּא|hū|-|H1931|Pro-3ms
 v9 הַתִּרְשָׁ֡תָא|hat·tir·šā·ṯā|the governor|H8660|Art | Adj-ms
 v9 וְעֶזְרָ֣א|wə·‘ez·rā|Ezra|H5830|Conj-w | N-proper-ms
 v9 הַכֹּהֵ֣ן׀|hak·kō·hên|the priest|H3548|Art | N-ms
@@ -193,7 +193,7 @@ v10 וְשִׁלְח֤וּ|wə·šil·ḥū|and send out|H7971|Conj-w | V-Qal-Im
 v10 מָנוֹת֙|mā·nō·wṯ|portions|H4490|N-fp
 v10 לְאֵ֣ין|lə·’ên|to those who have nothing|H369|Prep-l | Adv
 v10 נָכ֣וֹן|nā·ḵō·wn|prepared|H3559|V-Nifal-Prtcpl-ms
-v10 ל֔וֹ|lōw||H0|Prep | 3ms
+v10 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v10 כִּֽי־|kî-|since|H3588|Conj
 v10 קָד֥וֹשׁ|qā·ḏō·wōš|is holy|H6918|Adj-ms
 v10 הַיּ֖וֹם|hay·yō·wm|today|H3117|Art | N-ms
@@ -231,7 +231,7 @@ v12 הֵבִ֙ינוּ֙|hê·ḇî·nū|they understood|H995|V-Hifil-Perf-3cp
 v12 בַּדְּבָרִ֔ים|bad·də·ḇā·rîm|the words|H1697|Prep-b, Art | N-mp
 v12 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v12 הוֹדִ֖יעוּ|hō·w·ḏî·‘ū|had been made known|H3045|V-Hifil-Perf-3cp
-v12 לָהֶֽם׃ס|lā·hem|to them|H0|Prep | 3mp
+v12 לָהֶֽם׃|lā·hem|to them|H0|Prep | 3mp
 v13 וּבַיּ֣וֹם|ū·ḇay·yō·wm|day [of the month]|H3117|Conj-w, Prep-b, Art | N-ms
 v13 הַשֵּׁנִ֡י|haš·šê·nî|On the second|H8145|Art | Number-oms
 v13 נֶאֶסְפוּ֩|ne·’es·p̄ū|gathered|H622|V-Nifal-Perf-3cp
@@ -278,7 +278,7 @@ v15 וְהָבִ֙יאוּ֙|wə·hā·ḇî·’ū|and bring back|H935|Conj-w |
 v15 עֲלֵי־|‘ă·lê-|branches|H5929|N-mpc
 v15 זַ֙יִת֙|za·yiṯ|of olive|H2132|N-ms
 v15 וַעֲלֵי־|wa·‘ă·lê-|...|H5929|Conj-w | N-mpc
-v15 עֵ֣ץ|‘êṣ||H6086|N-msc
+v15 עֵ֣ץ|‘êṣ|-|H6086|N-msc
 v15 שֶׁ֔מֶן|še·men|wild olive|H8081|N-ms
 v15 וַעֲלֵ֤י|wa·‘ă·lê|...|H5929|Conj-w | N-mpc
 v15 הֲדַס֙|hă·ḏas|myrtle|H1918|N-ms
@@ -289,7 +289,7 @@ v15 עֵ֣ץ|‘êṣ|trees|H6086|N-msc
 v15 עָבֹ֑ת|‘ā·ḇōṯ|and [other] leafy|H5687|Adj-ms
 v15 לַעֲשֹׂ֥ת|la·‘ă·śōṯ|to make|H6213|Prep-l | V-Qal-Inf
 v15 סֻכֹּ֖ת|suk·kōṯ|booths|H5521|N-fp
-v15 כַּכָּתֽוּב׃פ|kak·kā·ṯūḇ|as it is written|H3789|Prep-k, Art | V-Qal-QalPassPrtcpl-ms
+v15 כַּכָּתֽוּב׃|kak·kā·ṯūḇ|as it is written|H3789|Prep-k, Art | V-Qal-QalPassPrtcpl-ms
 v16 וַיֵּצְא֣וּ|way·yê·ṣə·’ū|went out|H3318|Conj-w | V-Qal-ConsecImperf-3mp
 v16 הָעָם֮|hā·‘ām|And the people|H5971|Art | N-ms
 v16 וַיָּבִיאוּ֒|way·yā·ḇî·’ū|brought back [branches]|H935|Conj-w | V-Hifil-ConsecImperf-3mp
@@ -334,7 +334,7 @@ v17 הַה֑וּא|ha·hū|that|H1931|Art | Pro-3ms
 v17 וַתְּהִ֥י|wat·tə·hî|And there was|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v17 שִׂמְחָ֖ה|śim·ḥāh|rejoicing|H8057|N-fs
 v17 גְּדוֹלָ֥ה|gə·ḏō·w·lāh|great|H1419|Adj-fs
-v17 מְאֹֽד׃|mə·’ōḏ||H3966|Adv
+v17 מְאֹֽד׃|mə·’ōḏ|-|H3966|Adv
 v18 וַ֠יִּקְרָא|way·yiq·rā|Ezra read|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v18 בְּסֵ֨פֶר|bə·sê·p̄er|from the Book|H5612|Prep-b | N-msc
 v18 תּוֹרַ֤ת|tō·w·raṯ|of the Law|H8451|N-fsc
@@ -354,4 +354,4 @@ v18 יָמִ֔ים|yā·mîm|day|H3117|N-mp
 v18 וּבַיּ֧וֹם|ū·ḇay·yō·wm|...|H3117|Conj-w, Prep-b, Art | N-ms
 v18 הַשְּׁמִינִ֛י|haš·šə·mî·nî|and on the eighth|H8066|Art | Number-oms
 v18 עֲצֶ֖רֶת|‘ă·ṣe·reṯ|they held an assembly|H6116|N-fsc
-v18 כַּמִּשְׁפָּֽט׃פ|kam·miš·pāṭ|according to the ordinance|H4941|Prep-k, Art | N-ms
+v18 כַּמִּשְׁפָּֽט׃|kam·miš·pāṭ|according to the ordinance|H4941|Prep-k, Art | N-ms

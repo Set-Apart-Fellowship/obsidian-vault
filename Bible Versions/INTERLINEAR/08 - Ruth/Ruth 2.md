@@ -24,7 +24,7 @@ v2 אֶמְצָא־|’em·ṣā-|I may find|H4672|V-Qal-Imperf-1cs
 v2 חֵ֖ן|ḥên|favor|H2580|N-ms
 v2 בְּעֵינָ֑יו|bə·‘ê·nāw|sight|H5869|Prep-b | N-cdc | 3ms
 v2 וַתֹּ֥אמֶר|wat·tō·mer|Naomi replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v2 לָ֖הּ|lāh||H0|Prep | 3fs
+v2 לָ֖הּ|lāh|-|H0|Prep | 3fs
 v2 לְכִ֥י|lə·ḵî|Go ahead|H1980|V-Qal-Imp-fs
 v2 בִתִּֽי׃|ḇit·tî|my daughter|H1323|N-fsc | 1cs
 v3 וַתֵּ֤לֶךְ|wat·tê·leḵ|So Ruth departed|H1980|Conj-w | V-Qal-ConsecImperf-3fs
@@ -51,7 +51,7 @@ v4 לַקּוֹצְרִ֖ים|laq·qō·wṣ·rîm|to the harvesters|H7114|Prep-
 v4 יְהוָ֣ה|Yah·weh|The LORD|H3068|N-proper-ms
 v4 עִמָּכֶ֑ם|‘im·mā·ḵem|be with you|H5973|Prep | 2mp
 v4 וַיֹּ֥אמְרוּ|way·yō·mə·rū|they replied|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v4 ל֖וֹ|lōw||H0|Prep | 3ms
+v4 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v4 יְבָרֶכְךָ֥|yə·ḇā·reḵ·ḵā|bless you|H1288|V-Piel-Imperf-3ms | 2ms
 v4 יְהוָֽה׃|Yah·weh|The LORD|H3068|N-proper-ms
 v5 וַיֹּ֤אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -320,7 +320,7 @@ v20 הַחַיִּ֖ים|ha·ḥay·yîm|the living|H2416|Art | Adj-mp
 v20 וְאֶת־|wə·’eṯ-|...|H854|Conj-w | Prep
 v20 הַמֵּתִ֑ים|ham·mê·ṯîm|or the dead|H4191|Art | V-Qal-Prtcpl-mp
 v20 וַתֹּ֧אמֶר|wat·tō·mer|continued|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v20 לָ֣הּ|lāh||H0|Prep | 3fs
+v20 לָ֣הּ|lāh|-|H0|Prep | 3fs
 v20 נָעֳמִ֗י|nā·‘o·mî|Naomi|H5281|N-proper-fs
 v20 קָר֥וֹב|qā·rō·wḇ|is a close relative|H7138|Adj-ms
 v20 לָ֙נוּ֙|lā·nū|[is] one of our|H0|Prep | 1cp

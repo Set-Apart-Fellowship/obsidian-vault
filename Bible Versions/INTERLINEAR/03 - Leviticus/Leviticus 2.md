@@ -44,7 +44,7 @@ v3 וּלְבָנָ֑יו|ū·lə·ḇā·nāw|and his sons|H1121|Conj-w, Prep-l
 v3 קֹ֥דֶשׁ|qō·ḏeš|it is a most|H6944|N-msc
 v3 קָֽדָשִׁ֖ים|qā·ḏā·šîm|holy part|H6944|N-mp
 v3 מֵאִשֵּׁ֥י|mê·’iš·šê|of the food offerings|H801|Prep-m | N-mpc
-v3 יְהוָֽה׃ס|Yah·weh|to the LORD|H3068|N-proper-ms
+v3 יְהוָֽה׃|Yah·weh|to the LORD|H3068|N-proper-ms
 v4 וְכִ֥י|wə·ḵî|Now if|H3588|Conj
 v4 תַקְרִ֛ב|ṯaq·riḇ|you bring|H7126|V-Hifil-Imperf-2ms
 v4 קָרְבַּ֥ן|qā·rə·ban|an offering of grain|H7133|N-msc
@@ -59,7 +59,7 @@ v4 בַּשֶּׁ֔מֶן|baš·še·men|with oil|H8081|Prep-b, Art | N-ms
 v4 וּרְקִיקֵ֥י|ū·rə·qî·qê|wafers|H7550|Conj-w | N-mpc
 v4 מַצּ֖וֹת|maṣ·ṣō·wṯ|or unleavened|H4682|N-fp
 v4 מְשֻׁחִ֥ים|mə·šu·ḥîm|coated|H4886|V-Qal-QalPassPrtcpl-mp
-v4 בַּשָּֽׁמֶן׃ס|baš·šā·men|with oil|H8081|Prep-b, Art | N-ms
+v4 בַּשָּֽׁמֶן׃|baš·šā·men|with oil|H8081|Prep-b, Art | N-ms
 v5 וְאִם־|wə·’im-|If|H518|Conj
 v5 מִנְחָ֥ה|min·ḥāh|is a grain offering|H4503|N-fs
 v5 עַל־|‘al-|prepared on|H5921|Prep
@@ -77,7 +77,7 @@ v6 וְיָצַקְתָּ֥|wə·yā·ṣaq·tā|and pour|H3332|Conj-w | V-Qal-C
 v6 עָלֶ֖יהָ|‘ā·le·hā|on it|H5921|Prep | 3fs
 v6 שָׁ֑מֶן|šā·men|oil|H8081|N-ms
 v6 מִנְחָ֖ה|min·ḥāh|is a grain offering|H4503|N-fs
-v6 הִֽוא׃ס|hî|it|H1931|Pro-3fs
+v6 הִֽוא׃|hî|it|H1931|Pro-3fs
 v7 וְאִם־|wə·’im-|If|H518|Conj
 v7 מִנְחַ֥ת|min·ḥaṯ|is a grain offering|H4503|N-fsc
 v7 מַרְחֶ֖שֶׁת|mar·ḥe·šeṯ|[cooked] in a pan|H4802|N-fs
@@ -164,7 +164,7 @@ v13 עַ֥ל|‘al|to|H5921|Prep
 v13 כָּל־|kāl-|each|H3605|N-msc
 v13 קָרְבָּנְךָ֖|qā·rə·bā·nə·ḵā|of your offerings|H7133|N-msc | 2ms
 v13 תַּקְרִ֥יב|taq·rîḇ|you are to add|H7126|V-Hifil-Imperf-2ms
-v13 מֶֽלַח׃ס|me·laḥ|salt|H4417|N-ms
+v13 מֶֽלַח׃|me·laḥ|salt|H4417|N-ms
 v14 וְאִם־|wə·’im-|If|H518|Conj
 v14 תַּקְרִ֛יב|taq·rîḇ|you bring|H7126|V-Hifil-Imperf-2ms
 v14 מִנְחַ֥ת|min·ḥaṯ|a grain offering|H4503|N-fsc
@@ -197,4 +197,4 @@ v16 עַ֖ל|‘al|together with|H5921|Prep
 v16 כָּל־|kāl-|all|H3605|N-msc
 v16 לְבֹנָתָ֑הּ|lə·ḇō·nā·ṯāh|its frankincense|H3828|N-fsc | 3fs
 v16 אִשֶּׁ֖ה|’iš·šeh|as a food offering|H801|N-ms
-v16 לַיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v16 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms

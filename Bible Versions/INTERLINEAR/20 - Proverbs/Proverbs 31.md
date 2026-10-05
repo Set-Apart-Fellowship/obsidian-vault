@@ -66,7 +66,7 @@ v9 שְׁפָט־|šə·p̄āṭ-|judge|H8199|V-Qal-Imp-ms
 v9 צֶ֑דֶק|ṣe·ḏeq|righteously|H6664|N-ms
 v9 וְ֝דִ֗ין|wə·ḏîn|and defend the cause|H1777|Conj-w | V-Qal-Imp-ms
 v9 עָנִ֥י|‘ā·nî|of the poor|H6041|Adj-ms
-v9 וְאֶבְיֽוֹן׃פ|wə·’eḇ·yō·wn|and needy|H34|Conj-w | Adj-ms
+v9 וְאֶבְיֽוֹן׃|wə·’eḇ·yō·wn|and needy|H34|Conj-w | Adj-ms
 v10 אֵֽשֶׁת־|’ê·šeṯ-|A wife|H802|N-fsc
 v10 חַ֭יִל|ḥa·yil|of noble character|H2428|N-ms
 v10 מִ֣י|mî|who|H4310|Interrog
@@ -151,7 +151,7 @@ v21 לָבֻ֥שׁ|lā·ḇuš|clothed|H3847|V-Qal-QalPassPrtcpl-ms
 v21 שָׁנִֽים׃|šā·nîm|in scarlet|H8144|N-mp
 v22 מַרְבַדִּ֥ים|mar·ḇad·dîm|coverings for her bed|H4765|N-mp
 v22 עָֽשְׂתָה־|‘ā·śə·ṯāh-|She makes|H6213|V-Qal-Perf-3fs
-v22 לָּ֑הּ|lāh||H0|Prep | 3fs
+v22 לָּ֑הּ|lāh|-|H0|Prep | 3fs
 v22 שֵׁ֖שׁ|šêš|is fine linen|H8336|N-ms
 v22 וְאַרְגָּמָ֣ן|wə·’ar·gā·mān|and purple|H713|Conj-w | N-ms
 v22 לְבוּשָֽׁהּ׃|lə·ḇū·šāh|her clothing|H3830|N-msc | 3fs

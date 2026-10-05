@@ -132,9 +132,9 @@ v8 בָּע֑וֹר|bā·‘ō·wr|on the skin|H5785|Prep-b, Art | N-ms
 v8 וְטִמְּא֥וֹ|wə·ṭim·mə·’ōw|must pronounce him unclean|H2930|Conj-w | V-Piel-ConjPerf-3ms | 3ms
 v8 הַכֹּהֵ֖ן|hak·kō·hên|the priest|H3548|Art | N-ms
 v8 צָרַ֥עַת|ṣā·ra·‘aṯ|[is] a skin disease|H6883|N-fs
-v8 הִֽוא׃פ|hî|it|H1931|Pro-3fs
+v8 הִֽוא׃|hî|it|H1931|Pro-3fs
 v9 נֶ֣גַע|ne·ḡa‘|a skin disease|H5061|N-msc
-v9 צָרַ֔עַת|ṣā·ra·‘aṯ||H6883|N-fs
+v9 צָרַ֔עַת|ṣā·ra·‘aṯ|-|H6883|N-fs
 v9 כִּ֥י|kî|When|H3588|Conj
 v9 תִהְיֶ֖ה|ṯih·yeh|develops|H1961|V-Qal-Imperf-3fs
 v9 בְּאָדָ֑ם|bə·’ā·ḏām|anyone|H120|Prep-b | N-ms
@@ -240,11 +240,11 @@ v17 הַכֹּהֵ֛ן|hak·kō·hên|the priest|H3548|Art | N-ms
 v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 הַנֶּ֖גַע|han·ne·ḡa‘|is to pronounce the infected person|H5061|Art | N-ms
 v17 טָה֥וֹר|ṭā·hō·wr|is clean|H2889|Adj-ms
-v17 הֽוּא׃פ|hū|then he|H1931|Pro-3ms
+v17 הֽוּא׃|hū|then he|H1931|Pro-3ms
 v18 וּבָשָׂ֕ר|ū·ḇā·śār|...|H1320|Conj-w | N-ms
 v18 כִּֽי־|kî-|When|H3588|Conj
 v18 יִהְיֶ֥ה|yih·yeh|appears|H1961|V-Qal-Imperf-3ms
-v18 בֽוֹ־|ḇōw-||H0|Prep | 3ms
+v18 בֽוֹ־|ḇōw-|-|H0|Prep | 3ms
 v18 בְעֹר֖וֹ|ḇə·‘ō·rōw|on someone's skin|H5785|Prep-b | N-msc | 3ms
 v18 שְׁחִ֑ין|šə·ḥîn|a boil|H7822|N-ms
 v18 וְנִרְפָּֽא׃|wə·nir·pā|and it heals|H7495|Conj-w | V-Nifal-ConjPerf-3ms
@@ -314,8 +314,8 @@ v23 צָרֶ֥בֶת|ṣā·re·ḇeṯ|is only the scar|H6867|N-fsc
 v23 הַשְּׁחִ֖ין|haš·šə·ḥîn|from the boil|H7822|Art | N-ms
 v23 הִ֑וא|hî|it|H1931|Pro-3fs
 v23 וְטִהֲר֖וֹ|wə·ṭi·hă·rōw|shall pronounce him clean|H2891|Conj-w | V-Piel-ConjPerf-3ms | 3ms
-v23 הַכֹּהֵֽן׃ס|hak·kō·hên|and the priest|H3548|Art | N-ms
-v24 א֣וֹ|’ōw||H176|Conj
+v23 הַכֹּהֵֽן׃|hak·kō·hên|and the priest|H3548|Art | N-ms
+v24 א֣וֹ|’ōw|-|H176|Conj
 v24 בָשָׂ֔ר|ḇā·śār|-|H1320|N-ms
 v24 כִּֽי־|kî-|When|H3588|Conj
 v24 יִהְיֶ֥ה|yih·yeh|there is|H1961|V-Qal-Imperf-3ms
@@ -401,13 +401,13 @@ v28 הַכֹּהֵ֔ן|hak·kō·hên|and the priest|H3548|Art | N-ms
 v28 כִּֽי־|kî-|for|H3588|Conj
 v28 צָרֶ֥בֶת|ṣā·re·ḇeṯ|is only the scar|H6867|N-fsc
 v28 הַמִּכְוָ֖ה|ham·miḵ·wāh|from the burn|H4348|Art | N-fs
-v28 הִֽוא׃פ|hî|...|H1931|Pro-3fs
+v28 הִֽוא׃|hî|...|H1931|Pro-3fs
 v29 וְאִישׁ֙|wə·’îš|a man|H376|Conj-w | N-ms
 v29 א֣וֹ|’ōw|or|H176|Conj
 v29 אִשָּׁ֔ה|’iš·šāh|woman|H802|N-fs
 v29 כִּֽי־|kî-|If|H3588|Conj
 v29 יִהְיֶ֥ה|yih·yeh|has|H1961|V-Qal-Imperf-3ms
-v29 ב֖וֹ|ḇōw||H0|Prep | 3ms
+v29 ב֖וֹ|ḇōw|-|H0|Prep | 3ms
 v29 נָ֑גַע|nā·ḡa‘|an infection|H5061|N-ms
 v29 בְּרֹ֖אשׁ|bə·rōš|on the head|H7218|Prep-b | N-ms
 v29 א֥וֹ|’ōw|or|H176|Conj
@@ -546,7 +546,7 @@ v37 הַנֶּ֖תֶק|han·ne·ṯeq|then it|H5424|Art | N-ms
 v37 טָה֣וֹר|ṭā·hō·wr|is clean|H2889|Adj-ms
 v37 ה֑וּא|hū|He|H1931|Pro-3ms
 v37 וְטִהֲר֖וֹ|wə·ṭi·hă·rōw|is to pronounce him [clean]|H2891|Conj-w | V-Piel-ConjPerf-3ms | 3ms
-v37 הַכֹּהֵֽן׃ס|hak·kō·hên|and the priest|H3548|Art | N-ms
+v37 הַכֹּהֵֽן׃|hak·kō·hên|and the priest|H3548|Art | N-ms
 v38 וְאִישׁ֙|wə·’îš|a man|H376|Conj-w | N-ms
 v38 אֽוֹ־|’ōw-|or|H176|Conj
 v38 אִשָּׁ֔ה|’iš·šāh|a woman|H802|N-fs
@@ -570,7 +570,7 @@ v39 ה֛וּא|hū|it|H1931|Pro-3ms
 v39 פָּרַ֥ח|pā·raḥ|that has broken out|H6524|V-Qal-Perf-3ms
 v39 בָּע֖וֹר|bā·‘ō·wr|on the skin|H5785|Prep-b, Art | N-ms
 v39 טָה֥וֹר|ṭā·hō·wr|is clean|H2889|Adj-ms
-v39 הֽוּא׃ס|hū|the person|H1931|Pro-3ms
+v39 הֽוּא׃|hū|the person|H1931|Pro-3ms
 v40 וְאִ֕ישׁ|wə·’îš|a man|H376|Conj-w | N-ms
 v40 כִּ֥י|kî|Now if|H3588|Conj
 v40 יִמָּרֵ֖ט|yim·mā·rêṭ|loses his hair|H4803|V-Nifal-Imperf-3ms
@@ -655,11 +655,11 @@ v46 בָּדָ֣ד|bā·ḏāḏ|...|H910|N-ms
 v46 יֵשֵׁ֔ב|yê·šêḇ|He must live alone|H3427|V-Qal-Imperf-3ms
 v46 מִח֥וּץ|mi·ḥūṣ|outside|H2351|Prep-m | N-msc
 v46 לַֽמַּחֲנֶ֖ה|lam·ma·ḥă·neh|the camp|H4264|Prep-l, Art | N-cs
-v46 מוֹשָׁבֽוֹ׃ס|mō·wō·šā·ḇōw|in a place|H4186|N-msc | 3ms
+v46 מוֹשָׁבֽוֹ׃|mō·wō·šā·ḇōw|in a place|H4186|N-msc | 3ms
 v47 וְהַבֶּ֕גֶד|wə·hab·be·ḡeḏ|any fabric|H899|Conj-w, Art | N-ms
 v47 כִּֽי־|kî-|If|H3588|Conj
 v47 יִהְיֶ֥ה|yih·yeh|is|H1961|V-Qal-Imperf-3ms
-v47 ב֖וֹ|ḇōw|vvv|H0|Prep | 3ms
+v47 ב֖וֹ|ḇōw|...|H0|Prep | 3ms
 v47 נֶ֣גַע|ne·ḡa‘|contaminated|H5061|N-msc
 v47 צָרָ֑עַת|ṣā·rā·‘aṯ|with mildew|H6883|N-fs
 v47 בְּבֶ֣גֶד|bə·ḇe·ḡeḏ|garment|H899|Prep-b | N-msc
@@ -685,7 +685,7 @@ v49 יְרַקְרַ֣ק׀|yə·raq·raq|green|H3422|Adj-ms
 v49 א֣וֹ|’ōw|or|H176|Conj
 v49 אֲדַמְדָּ֗ם|’ă·ḏam·dām|red|H125|Adj-ms
 v49 בַּבֶּגֶד֩|bab·be·ḡeḏ|in the fabric|H899|Prep-b, Art | N-ms
-v49 א֨וֹ|’ōw||H176|Conj
+v49 א֨וֹ|’ōw|-|H176|Conj
 v49 בָע֜וֹר|ḇā·‘ō·wr|leather|H5785|Prep-b, Art | N-ms
 v49 אֽוֹ־|’ōw-|-|H176|Conj
 v49 בַשְּׁתִ֤י|ḇaš·šə·ṯî|weave|H8359|Prep-b, Art | N-ms
@@ -752,9 +752,9 @@ v52 אֶת־|’eṯ-|-|H853|DirObjM
 v52 כָּל־|kāl-|-|H3605|N-msc
 v52 כְּלִ֣י|kə·lî|-|H3627|N-msc
 v52 הָע֔וֹר|hā·‘ō·wr|leather|H5785|Art | N-ms
-v52 אֲשֶׁר־|’ă·šer-|vvv|H834|Pro-r
-v52 יִהְיֶ֥ה|yih·yeh|vvv|H1961|V-Qal-Imperf-3ms
-v52 ב֖וֹ|ḇōw|vvv|H0|Prep | 3ms
+v52 אֲשֶׁר־|’ă·šer-|...|H834|Pro-r
+v52 יִהְיֶ֥ה|yih·yeh|...|H1961|V-Qal-Imperf-3ms
+v52 ב֖וֹ|ḇōw|...|H0|Prep | 3ms
 v52 הַנָּ֑גַע|han·nā·ḡa‘|the contaminated item [is]|H5061|Art | N-ms
 v52 כִּֽי־|kî-|Since|H3588|Conj
 v52 צָרַ֤עַת|ṣā·ra·‘aṯ|the mildew|H6883|N-fs
@@ -783,7 +783,7 @@ v54 הַכֹּהֵ֔ן|hak·kō·hên|the priest|H3548|Art | N-ms
 v54 וְכִ֨בְּס֔וּ|wə·ḵib·bə·sū|to be washed|H3526|Conj-w | V-Piel-ConjPerf-3cp
 v54 אֵ֥ת|’êṯ|-|H853|DirObjM
 v54 אֲשֶׁר־|’ă·šer-|the|H834|Pro-r
-v54 בּ֖וֹ|bōw|vvv|H0|Prep | 3ms
+v54 בּ֖וֹ|bōw|...|H0|Prep | 3ms
 v54 הַנָּ֑גַע|han·nā·ḡa‘|contaminated [article]|H5061|Art | N-ms
 v54 וְהִסְגִּיר֥וֹ|wə·his·gî·rōw|and isolated|H5462|Conj-w | V-Hifil-ConjPerf-3ms | 3ms
 v54 שִׁבְעַת־|šiḇ·‘aṯ-|seven|H7651|Number-msc
@@ -853,7 +853,7 @@ v57 בָּאֵ֣שׁ|bā·’êš|...|H784|Prep-b, Art | N-cs
 v57 תִּשְׂרְפֶ֔נּוּ|tiś·rə·p̄en·nū|You must burn|H8313|V-Qal-Imperf-2ms | 3ms
 v57 אֵ֥ת|’êṯ|-|H853|DirObjM
 v57 אֲשֶׁר־|’ă·šer-|article|H834|Pro-r
-v57 בּ֖וֹ|bōw|vvv|H0|Prep | 3ms
+v57 בּ֖וֹ|bōw|...|H0|Prep | 3ms
 v57 הַנָּֽגַע׃|han·nā·ḡa‘|the contaminated|H5061|Art | N-ms
 v58 וְהַבֶּ֡גֶד|wə·hab·be·ḡeḏ|the fabric|H899|Conj-w, Art | N-ms
 v58 אֽוֹ־|’ōw-|or|H176|Conj
@@ -890,4 +890,4 @@ v59 כְּלִי־|kə·lî-|article|H3627|N-msc
 v59 ע֑וֹר|‘ō·wr|leather|H5785|N-ms
 v59 לְטַהֲר֖וֹ|lə·ṭa·hă·rōw|for pronouncing it clean|H2891|Prep-l | V-Piel-Inf | 3ms
 v59 א֥וֹ|’ōw|or|H176|Conj
-v59 לְטַמְּאֽוֹ׃פ|lə·ṭam·mə·’ōw|unclean|H2930|Prep-l | V-Piel-Inf | 3ms
+v59 לְטַמְּאֽוֹ׃|lə·ṭam·mə·’ōw|unclean|H2930|Prep-l | V-Piel-Inf | 3ms

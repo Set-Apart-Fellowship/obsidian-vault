@@ -12,13 +12,13 @@ v1 שָׁנִ֔י|šā·nî|...|H8144|N-ms
 v1 כְּרֻבִ֛ים|kə·ru·ḇîm|[and] cherubim|H3742|N-mp
 v1 מַעֲשֵׂ֥ה|ma·‘ă·śêh|worked|H4639|N-msc
 v1 חֹשֵׁ֖ב|ḥō·šêḇ|skillfully|H2803|V-Qal-Prtcpl-ms
-v1 תַּעֲשֶׂ֥ה|ta·‘ă·śeh||H6213|V-Qal-Imperf-2ms
+v1 תַּעֲשֶׂ֥ה|ta·‘ă·śeh|-|H6213|V-Qal-Imperf-2ms
 v1 אֹתָֽם׃|’ō·ṯām|into them|H853|DirObjM | 3mp
 v2 אֹ֣רֶךְ׀|’ō·reḵ|long|H753|N-msc
 v2 הַיְרִיעָ֣ה|hay·rî·‘āh|curtain|H3407|Art | N-fs
 v2 הָֽאַחַ֗ת|hā·’a·ḥaṯ|Each|H259|Art | Number-fs
 v2 שְׁמֹנֶ֤ה|šə·mō·neh|shall be twenty-eight|H8083|Number-fs
-v2 וְעֶשְׂרִים֙|wə·‘eś·rîm||H6242|Conj-w | Number-cp
+v2 וְעֶשְׂרִים֙|wə·‘eś·rîm|-|H6242|Conj-w | Number-cp
 v2 בָּֽאַמָּ֔ה|bā·’am·māh|cubits|H520|Prep-b, Art | N-fs
 v2 וְרֹ֙חַב֙|wə·rō·ḥaḇ|wide|H7341|Conj-w | N-ms
 v2 אַרְבַּ֣ע|’ar·ba‘|and four|H702|Number-fs
@@ -53,7 +53,7 @@ v4 מִקָּצָ֖ה|miq·qā·ṣāh|of the end|H7098|Prep-m | N-fs
 v4 בַּחֹבָ֑רֶת|ba·ḥō·ḇā·reṯ|set|H2279|Prep-b, Art | N-fs
 v4 וְכֵ֤ן|wə·ḵên|the same|H3651|Conj-w | Adv
 v4 תַּעֲשֶׂה֙|ta·‘ă·śeh|and do|H6213|V-Qal-Imperf-2ms
-v4 בִּשְׂפַ֣ת|biś·p̄aṯ|vvv|H8193|Prep-b | N-fsc
+v4 בִּשְׂפַ֣ת|biś·p̄aṯ|...|H8193|Prep-b | N-fsc
 v4 הַיְרִיעָ֔ה|hay·rî·‘āh|curtain|H3407|Art | N-fs
 v4 הַקִּ֣יצוֹנָ֔ה|haq·qî·ṣō·w·nāh|for the end|H7020|Art | Adj-fs
 v4 בַּמַּחְבֶּ֖רֶת|bam·maḥ·be·reṯ|set|H4225|Prep-b, Art | N-fs
@@ -89,7 +89,7 @@ v6 אֲחֹתָהּ֙|’ă·ḥō·ṯāh|...|H269|N-fsc | 3fs
 v6 בַּקְּרָסִ֔ים|baq·qə·rā·sîm|with the clasps|H7165|Prep-b, Art | N-mp
 v6 וְהָיָ֥ה|wə·hā·yāh|will be|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v6 הַמִּשְׁכָּ֖ן|ham·miš·kān|so that the tabernacle|H4908|Art | N-ms
-v6 אֶחָֽד׃פ|’e·ḥāḏ|a unit|H259|Number-ms
+v6 אֶחָֽד׃|’e·ḥāḏ|a unit|H259|Number-ms
 v7 וְעָשִׂ֙יתָ֙|wə·‘ā·śî·ṯā|You are to make|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v7 יְרִיעֹ֣ת|yə·rî·‘ōṯ|curtains|H3407|N-fpc
 v7 עִזִּ֔ים|‘iz·zîm|of goat hair|H5795|N-fp
@@ -175,8 +175,8 @@ v12 אֲחֹרֵ֥י|’ă·ḥō·rê|the back|H268|N-mpc
 v12 הַמִּשְׁכָּֽן׃|ham·miš·kān|of the tabernacle|H4908|Art | N-ms
 v13 וְהָאַמָּ֨ה|wə·hā·’am·māh|a cubit|H520|Conj-w, Art | N-fs
 v13 מִזֶּ֜ה|miz·zeh|on either side|H2088|Prep-m | Pro-ms
-v13 וְהָאַמָּ֤ה|wə·hā·’am·māh||H520|Conj-w, Art | N-fs
-v13 מִזֶּה֙|miz·zeh||H2088|Prep-m | Pro-ms
+v13 וְהָאַמָּ֤ה|wə·hā·’am·māh|-|H520|Conj-w, Art | N-fs
+v13 מִזֶּה֙|miz·zeh|-|H2088|Prep-m | Pro-ms
 v13 בָּעֹדֵ֔ף|bā·‘ō·ḏêp̄|and the excess|H5736|Prep-b, Art | V-Qal-Prtcpl-ms
 v13 בְּאֹ֖רֶךְ|bə·’ō·reḵ|longer|H753|Prep-b | N-msc
 v13 יְרִיעֹ֣ת|yə·rî·‘ōṯ|curtains [will be]|H3407|N-fpc
@@ -198,7 +198,7 @@ v14 מְאָדָּמִ֑ים|mə·’ād·dā·mîm|dyed red|H119|V-Pual-Prtcpl-
 v14 וּמִכְסֵ֛ה|ū·miḵ·sêh|a covering|H4372|Conj-w | N-msc
 v14 עֹרֹ֥ת|‘ō·rōṯ|...|H5785|N-mpc
 v14 תְּחָשִׁ֖ים|tə·ḥā·šîm|of fine leather|H8476|N-mp
-v14 מִלְמָֽעְלָה׃פ|mil·mā·‘ə·lāh|and over that|H4605|Prep-m, Prep-l | Adv | 3fs
+v14 מִלְמָֽעְלָה׃|mil·mā·‘ə·lāh|and over that|H4605|Prep-m, Prep-l | Adv | 3fs
 v15 וְעָשִׂ֥יתָ|wə·‘ā·śî·ṯā|You are to construct|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 הַקְּרָשִׁ֖ים|haq·qə·rā·šîm|frames|H7175|Art | N-mp
@@ -252,11 +252,11 @@ v19 הַקֶּ֤רֶשׁ|haq·qe·reš|frame|H7175|Art | N-ms
 v19 הָאֶחָד֙|hā·’e·ḥāḏ|[for each]|H259|Art | Number-ms
 v19 לִשְׁתֵּ֣י|liš·tê|one under each|H8147|Prep-l | Number-fdc
 v19 יְדֹתָ֔יו|yə·ḏō·ṯāw|tenon|H3027|N-fpc | 3ms
-v19 וּשְׁנֵ֧י|ū·šə·nê||H8147|Conj-w | Number-mdc
-v19 אֲדָנִ֛ים|’ă·ḏā·nîm||H134|N-mp
-v19 תַּֽחַת־|ta·ḥaṯ-||H8478|Prep
-v19 הַקֶּ֥רֶשׁ|haq·qe·reš||H7175|Art | N-ms
-v19 הָאֶחָ֖ד|hā·’e·ḥāḏ||H259|Art | Number-ms
+v19 וּשְׁנֵ֧י|ū·šə·nê|-|H8147|Conj-w | Number-mdc
+v19 אֲדָנִ֛ים|’ă·ḏā·nîm|-|H134|N-mp
+v19 תַּֽחַת־|ta·ḥaṯ-|-|H8478|Prep
+v19 הַקֶּ֥רֶשׁ|haq·qe·reš|-|H7175|Art | N-ms
+v19 הָאֶחָ֖ד|hā·’e·ḥāḏ|-|H259|Art | Number-ms
 v19 לִשְׁתֵּ֥י|liš·tê|-|H8147|Prep-l | Number-fdc
 v19 יְדֹתָֽיו׃|yə·ḏō·ṯāw|-|H3027|N-fpc | 3ms
 v20 וּלְצֶ֧לַע|ū·lə·ṣe·la‘|side|H6763|Conj-w, Prep-l | N-fsc
@@ -274,11 +274,11 @@ v21 אֲדָנִ֗ים|’ă·ḏā·nîm|bases|H134|N-mp
 v21 תַּ֚חַת|ta·ḥaṯ|under|H8478|Prep
 v21 הַקֶּ֣רֶשׁ|haq·qe·reš|frame|H7175|Art | N-ms
 v21 הָֽאֶחָ֔ד|hā·’e·ḥāḏ|each|H259|Art | Number-ms
-v21 וּשְׁנֵ֣י|ū·šə·nê||H8147|Conj-w | Number-mdc
-v21 אֲדָנִ֔ים|’ă·ḏā·nîm||H134|N-mp
-v21 תַּ֖חַת|ta·ḥaṯ||H8478|Prep
-v21 הַקֶּ֥רֶשׁ|haq·qe·reš||H7175|Art | N-ms
-v21 הָאֶחָֽד׃|hā·’e·ḥāḏ||H259|Art | Number-ms
+v21 וּשְׁנֵ֣י|ū·šə·nê|-|H8147|Conj-w | Number-mdc
+v21 אֲדָנִ֔ים|’ă·ḏā·nîm|-|H134|N-mp
+v21 תַּ֖חַת|ta·ḥaṯ|-|H8478|Prep
+v21 הַקֶּ֥רֶשׁ|haq·qe·reš|-|H7175|Art | N-ms
+v21 הָאֶחָֽד׃|hā·’e·ḥāḏ|-|H259|Art | Number-ms
 v22 וּֽלְיַרְכְּתֵ֥י|ū·lə·yar·kə·ṯê|for the rear|H3411|Conj-w, Prep-l | N-fdc
 v22 הַמִּשְׁכָּ֖ן|ham·miš·kān|of the tabernacle|H4908|Art | N-ms
 v22 יָ֑מָּה|yām·māh|the west side|H3220|N-ms | 3fs
@@ -321,11 +321,11 @@ v25 אֲדָנִ֗ים|’ă·ḏā·nîm|-|H134|N-mp
 v25 תַּ֚חַת|ta·ḥaṯ|under|H8478|Prep
 v25 הַקֶּ֣רֶשׁ|haq·qe·reš|frame|H7175|Art | N-ms
 v25 הָאֶחָ֔ד|hā·’e·ḥāḏ|each|H259|Art | Number-ms
-v25 וּשְׁנֵ֣י|ū·šə·nê||H8147|Conj-w | Number-mdc
-v25 אֲדָנִ֔ים|’ă·ḏā·nîm||H134|N-mp
-v25 תַּ֖חַת|ta·ḥaṯ||H8478|Prep
-v25 הַקֶּ֥רֶשׁ|haq·qe·reš||H7175|Art | N-ms
-v25 הָאֶחָֽד׃|hā·’e·ḥāḏ||H259|Art | Number-ms
+v25 וּשְׁנֵ֣י|ū·šə·nê|-|H8147|Conj-w | Number-mdc
+v25 אֲדָנִ֔ים|’ă·ḏā·nîm|-|H134|N-mp
+v25 תַּ֖חַת|ta·ḥaṯ|-|H8478|Prep
+v25 הַקֶּ֥רֶשׁ|haq·qe·reš|-|H7175|Art | N-ms
+v25 הָאֶחָֽד׃|hā·’e·ḥāḏ|-|H259|Art | Number-ms
 v26 וְעָשִׂ֥יתָ|wə·‘ā·śî·ṯā|You are also to make|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v26 בְרִיחִ֖ם|ḇə·rî·ḥim|crossbars|H1280|N-mp
 v26 עֲצֵ֣י|‘ă·ṣê|wood|H6086|N-mpc
@@ -377,7 +377,7 @@ v30 הַמִּשְׁכָּ֑ן|ham·miš·kān|the tabernacle|H4908|Art | N-ms
 v30 כְּמִ֨שְׁפָּט֔וֹ|kə·miš·pā·ṭōw|according to the pattern|H4941|Prep-k | N-msc | 3ms
 v30 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v30 הָרְאֵ֖יתָ|hā·rə·’ê·ṯā|shown you|H7200|V-Hofal-Perf-2ms
-v30 בָּהָֽר׃ס|bā·hār|on the mountain|H2022|Prep-b, Art | N-ms
+v30 בָּהָֽר׃|bā·hār|on the mountain|H2022|Prep-b, Art | N-ms
 v31 וְעָשִׂ֣יתָ|wə·‘ā·śî·ṯā|Make|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v31 פָרֹ֗כֶת|p̄ā·rō·ḵeṯ|a veil|H6532|N-fs
 v31 תְּכֵ֧לֶת|tə·ḵê·leṯ|of blue|H8504|N-fs
@@ -419,8 +419,8 @@ v33 אֲר֣וֹן|’ă·rō·wn|the ark|H727|N-csc
 v33 הָעֵד֑וּת|hā·‘ê·ḏūṯ|of the Testimony|H5715|Art | N-fs
 v33 וְהִבְדִּילָ֤ה|wə·hiḇ·dî·lāh|will separate|H914|Conj-w | V-Hifil-ConjPerf-3fs
 v33 הַפָּרֹ֙כֶת֙|hap·pā·rō·ḵeṯ|So the veil|H6532|Art | N-fs
-v33 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
-v33 בֵּ֣ין|bên||H996|Prep
+v33 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
+v33 בֵּ֣ין|bên|-|H996|Prep
 v33 הַקֹּ֔דֶשׁ|haq·qō·ḏeš|the Holy Place|H6944|Art | N-ms
 v33 וּבֵ֖ין|ū·ḇên|...|H996|Conj-w | Prep
 v33 קֹ֥דֶשׁ|qō·ḏeš|from the Most Holy Place|H6944|N-msc
@@ -477,4 +477,4 @@ v37 וְיָצַקְתָּ֣|wə·yā·ṣaq·tā|and cast|H3332|Conj-w | V-Qal-
 v37 לָהֶ֔ם|lā·hem|for them|H0|Prep | 3mp
 v37 חֲמִשָּׁ֖ה|ḥă·miš·šāh|five|H2568|Number-ms
 v37 אַדְנֵ֥י|’aḏ·nê|bases|H134|N-mpc
-v37 נְחֹֽשֶׁת׃ס|nə·ḥō·šeṯ|bronze|H5178|N-fs
+v37 נְחֹֽשֶׁת׃|nə·ḥō·šeṯ|bronze|H5178|N-fs

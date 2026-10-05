@@ -23,7 +23,7 @@ v2 תָּבֹ֑א|tā·ḇō|have you come from|H935|V-Qal-Imperf-2ms
 v2 וַיַּ֨עַן|way·ya·‘an|replied|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v2 הַשָּׂטָ֤ן|haś·śā·ṭān|[he]|H7854|Art | N-ms
 v2 אֶת־|’eṯ-|-|H853|DirObjM
-v2 יְהוָה֙|Yah·weh||H3068|N-proper-ms
+v2 יְהוָה֙|Yah·weh|-|H3068|N-proper-ms
 v2 וַיֹּאמַ֔ר|way·yō·mar|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 מִשֻּׁ֣ט|miš·šuṭ|From roaming|H7751|Prep-m | V-Qal-Inf
 v2 בָּאָ֔רֶץ|bā·’ā·reṣ|through the earth|H776|Prep-b, Art | N-fs
@@ -75,7 +75,7 @@ v5 שְֽׁלַֽח־|šə·laḥ-|stretch out|H7971|V-Qal-Imp-ms
 v5 נָ֣א|nā|...|H4994|Interjection
 v5 יָֽדְךָ֔|yā·ḏə·ḵā|Your hand|H3027|N-fsc | 2ms
 v5 וְגַ֥ע|wə·ḡa‘|and strike|H5060|Conj-w | V-Qal-Imp-ms
-v5 אֶל־|’el-||H413|Prep
+v5 אֶל־|’el-|-|H413|Prep
 v5 עַצְמ֖וֹ|‘aṣ·mōw|and bones|H6106|N-fsc | 3ms
 v5 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
 v5 בְּשָׂר֑וֹ|bə·śā·rōw|his flesh|H1320|N-msc | 3ms
@@ -109,7 +109,7 @@ v7 רַגְל֖וֹ|raḡ·lōw|of his feet|H7272|N-fsc | 3ms
 v7 עַד|ʿaḏ|to|H5704|Conj-w | Prep
 v7 קָדְקֳדֽוֹ׃|qā·ḏə·qo·ḏōw|the crown of his head|H6936|N-msc | 3ms
 v8 וַיִּֽקַּֽח־|way·yiq·qaḥ-|And Job took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
-v8 ל֣וֹ|lōw||H0|Prep | 3ms
+v8 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v8 חֶ֔רֶשׂ|ḥe·reś|a piece of broken pottery|H2789|N-ms
 v8 לְהִתְגָּרֵ֖ד|lə·hiṯ·gā·rêḏ|to scrape|H1623|Prep-l | V-Hitpael-Inf
 v8 בּ֑וֹ|bōw|himself|H0|Prep | 3ms
@@ -147,7 +147,7 @@ v10 זֹ֛את|zōṯ|this|H2063|Pro-fs
 v10 לֹא־|lō-|did not|H3808|Adv-NegPrt
 v10 חָטָ֥א|ḥā·ṭā|sin|H2398|V-Qal-Perf-3ms
 v10 אִיּ֖וֹב|’î·yō·wḇ|Job|H347|N-proper-ms
-v10 בִּשְׂפָתָֽיו׃פ|biś·p̄ā·ṯāw|in what he said|H8193|Prep-b | N-fdc | 3ms
+v10 בִּשְׂפָתָֽיו׃|biś·p̄ā·ṯāw|in what he said|H8193|Prep-b | N-fdc | 3ms
 v11 וַֽיִּשְׁמְע֞וּ|way·yiš·mə·‘ū|heard|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v11 שְׁלֹ֣שֶׁת׀|šə·lō·šeṯ|three|H7969|Number-msc
 v11 רֵעֵ֣י|rê·‘ê|friends|H7453|N-mpc
@@ -174,7 +174,7 @@ v11 לָנֽוּד־|lā·nūḏ-|and sympathize|H5110|Prep-l | V-Qal-Inf
 v11 ל֖וֹ|lōw|with [Job]|H0|Prep | 3ms
 v11 וּֽלְנַחֲמֽוֹ׃|ū·lə·na·ḥă·mōw|and comfort him|H5162|Conj-w, Prep-l | V-Piel-Inf | 3ms
 v12 וַיִּשְׂא֨וּ|way·yiś·’ū|When they lifted up|H5375|Conj-w | V-Qal-ConsecImperf-3mp
-v12 אֶת־|’eṯ-||H853|DirObjM
+v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 עֵינֵיהֶ֤ם|‘ê·nê·hem|their eyes|H5869|N-cdc | 3mp
 v12 מֵרָחוֹק֙|mê·rā·ḥō·wq|from afar|H7350|Prep-m | Adj-ms
 v12 וְלֹ֣א|wə·lō|they could barely|H3808|Conj-w | Adv-NegPrt

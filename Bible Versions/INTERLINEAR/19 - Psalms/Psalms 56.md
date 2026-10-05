@@ -62,7 +62,7 @@ v6 נַפְשִֽׁי׃|nap̄·šî|to take my life|H5315|N-fsc | 1cs
 v7 עַל־|‘al-|In spite of|H5921|Prep
 v7 אָ֥וֶן|’ā·wen|such sin|H205|N-ms
 v7 פַּלֶּט־|pal·leṭ-|{will} they escape|H6403|V-Piel-Imp-ms
-v7 לָ֑מוֹ|lā·mōw||H0|Prep | 3mp
+v7 לָ֑מוֹ|lā·mōw|-|H0|Prep | 3mp
 v7 בְּ֝אַ֗ף|bə·’ap̄|In Your anger|H639|Prep-b | N-ms
 v7 עַמִּ֤ים׀|‘am·mîm|the nations|H5971|N-mp
 v7 הוֹרֵ֬ד|hō·w·rêḏ|cast down|H3381|V-Hifil-Imp-ms

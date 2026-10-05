@@ -12,7 +12,7 @@ v1 πειρασθῆναι|peirasthēnai|to be tempted|G3985|V-ANP
 v1 ὑπὸ|hypo|by|G5259|Prep
 v1 τοῦ|tou|the|G3588|Art-GMS
 v1 διαβόλου|diabolou|devil|G1228|Adj-GMS
-v2 καὶ|kai|vvv|G2532|Conj
+v2 καὶ|kai|...|G2532|Conj
 v2 νηστεύσας|nēsteusas|After fasting|G3522|V-APA-NMS
 v2 ἡμέρας|hēmeras|days|G2250|N-AFP
 v2 τεσσεράκοντα|tesserakonta|forty|G5062|Adj-AFP
@@ -100,9 +100,9 @@ v6 καὶ|kai|and|G2532|Conj
 v6 ἐπὶ|epi|in|G1909|Prep
 v6 χειρῶν|cheirōn|[their] hands|G5495|N-GFP
 v6 ἀροῦσίν|arousin|they will lift You up|G142|V-FIA-3P
-v6 σε|se|vvv|G4771|PPro-A2S
-v6 μή‿|mē|vvv|G3361|Adv
-v6 ποτε|pote|vvv|G4219|Conj
+v6 σε|se|...|G4771|PPro-A2S
+v6 μή‿|mē|...|G3361|Adv
+v6 ποτε|pote|...|G4219|Conj
 v6 προσκόψῃς|proskopsēs|so that You will not strike|G4350|V-ASA-2S
 v6 πρὸς|pros|against|G4314|Prep
 v6 λίθον|lithon|a stone|G3037|N-AMS
@@ -113,7 +113,7 @@ v7 Ἔφη|Ephē|replied|G5346|V-IIA-3S
 v7 αὐτῷ|autō|-|G846|PPro-DM3S
 v7 ὁ|ho|-|G3588|Art-NMS
 v7 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
-v7 Πάλιν|Palin|vvv|G3825|Adv
+v7 Πάλιν|Palin|...|G3825|Adv
 v7 γέγραπται|gegraptai|It is also written|G1125|V-RIM/P-3S
 v7 Οὐκ|Ouk|...|G3756|Adv
 v7 ἐκπειράσεις|ekpeiraseis|Do not put|G1598|V-FIA-2S

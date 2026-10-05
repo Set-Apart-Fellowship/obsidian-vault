@@ -13,7 +13,7 @@ v2 אֱלֹהֵ֥י|’ĕ·lō·hê|the God|H430|N-mpc
 v2 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 לֵאמֹ֑ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v2 כְּתָב־|kə·ṯāḇ-|Write|H3789|V-Qal-Imp-ms
-v2 לְךָ֗|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֗|lə·ḵā|-|H0|Prep | 2ms
 v2 אֵ֧ת|’êṯ|-|H853|DirObjM
 v2 כָּל־|kāl-|all|H3605|N-msc
 v2 הַדְּבָרִ֛ים|had·də·ḇā·rîm|the words|H1697|Art | N-mp
@@ -42,7 +42,7 @@ v3 הָאָ֛רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v3 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v3 נָתַ֥תִּי|nā·ṯat·tî|I gave|H5414|V-Qal-Perf-1cs
 v3 לַאֲבוֹתָ֖ם|la·’ă·ḇō·w·ṯām|to their fathers|H1|Prep-l | N-mpc | 3mp
-v3 וִֽירֵשֽׁוּהָ׃פ|wî·rê·šū·hā|and they will possess it|H3423|Conj-w | V-Qal-ConjPerf-3cp | 3fs
+v3 וִֽירֵשֽׁוּהָ׃|wî·rê·šū·hā|and they will possess it|H3423|Conj-w | V-Qal-ConjPerf-3cp | 3fs
 v4 וְאֵ֣לֶּה|wə·’êl·leh|These|H428|Conj-w | Pro-cp
 v4 הַדְּבָרִ֗ים|had·də·ḇā·rîm|are the words|H1697|Art | N-mp
 v4 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
@@ -119,7 +119,7 @@ v9 דָּוִ֣ד|dā·wiḏ|David|H1732|N-proper-ms
 v9 מַלְכָּ֔ם|mal·kām|their king|H4428|N-msc | 3mp
 v9 אֲשֶׁ֥ר|’ă·šer|whom|H834|Pro-r
 v9 אָקִ֖ים|’ā·qîm|I will raise up|H6965|V-Hifil-Imperf-1cs
-v9 לָהֶֽם׃ס|lā·hem|for them|H0|Prep-l | Pro-3mp
+v9 לָהֶֽם׃|lā·hem|for them|H0|Prep-l | Pro-3mp
 v10 וְאַתָּ֡ה|wə·’at·tāh|As for you|H859|Conj-w | Pro-2ms
 v10 אַל־|’al-|do not|H408|Adv
 v10 תִּירָא֩|tî·rā|be afraid|H3372|V-Qal-Imperf-2ms
@@ -131,7 +131,7 @@ v10 וְאַל־|wə·’al-|and do not|H408|Conj-w | Adv
 v10 תֵּחַ֣ת|tê·ḥaṯ|be dismayed|H2865|V-Nifal-Imperf-2ms
 v10 יִשְׂרָאֵ֔ל|yiś·rā·’êl|O Israel|H3478|N-proper-ms
 v10 כִּ֠י|kî|For|H3588|Conj
-v10 הִנְנִ֤י|hin·nî|vvv|H2005|Interjection | 1cs
+v10 הִנְנִ֤י|hin·nî|...|H2005|Interjection | 1cs
 v10 מוֹשִֽׁיעֲךָ֙|mō·wō·šî·‘ă·ḵā|I will surely save you|H3467|V-Hifil-Prtcpl-msc | 2ms
 v10 מֵֽרָח֔וֹק|mê·rā·ḥō·wq|out of a distant place|H7350|Prep-m | Adj-ms
 v10 וְאֶֽת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -167,7 +167,7 @@ v11 וְיִסַּרְתִּ֙יךָ֙|wə·yis·sar·tî·ḵā|Yet I will disc
 v11 לַמִּשְׁפָּ֔ט|lam·miš·pāṭ|justly|H4941|Prep-l, Art | N-ms
 v11 וְנַקֵּ֖ה|wə·naq·qêh|leave you unpunished|H5352|Conj-w | V-Piel-InfAbs
 v11 לֹ֥א|lō|and will by no means|H3808|Adv-NegPrt
-v11 אֲנַקֶּֽךָּ׃פ|’ă·naq·qe·kā|...|H5352|V-Piel-Imperf-1cs | 2ms
+v11 אֲנַקֶּֽךָּ׃|’ă·naq·qe·kā|...|H5352|V-Piel-Imperf-1cs | 2ms
 v12 כִּ֣י|kî|For|H3588|Conj
 v12 כֹ֥ה|ḵōh|this is what|H3541|Adv
 v12 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -234,7 +234,7 @@ v16 לָבַֽז׃|lā·ḇaz|...|H957|Prep-l | N-ms
 v17 כִּי֩|kî|But|H3588|Conj
 v17 אַעֲלֶ֨ה|’a·‘ă·leh|I will restore|H5927|V-Hifil-Imperf-1cs
 v17 אֲרֻכָ֥ה|’ă·ru·ḵāh|your health|H724|N-fs
-v17 לָ֛ךְ|lāḵ||H0|Prep | 2fs
+v17 לָ֛ךְ|lāḵ|-|H0|Prep | 2fs
 v17 וּמִמַּכּוֹתַ֥יִךְ|ū·mim·mak·kō·w·ṯa·yiḵ|your wounds|H4347|Conj-w, Prep-m | N-fpc | 2fs
 v17 אֶרְפָּאֵ֖ךְ|’er·pā·’êḵ|and heal|H7495|V-Qal-Imperf-1cs | 2fs
 v17 נְאֻם־|nə·’um-|declares|H5002|N-msc
@@ -247,7 +247,7 @@ v17 צִיּ֣וֹן|ṣî·yō·wn|Zion|H6726|N-proper-fs
 v17 הִ֔יא|hî|for whom|H1931|Pro-3fs
 v17 דֹּרֵ֖שׁ|dō·rêš|cares|H1875|V-Qal-Prtcpl-ms
 v17 אֵ֥ין|’ên|no one|H369|Adv
-v17 לָֽהּ׃ס|lāh||H0|Prep | 3fs
+v17 לָֽהּ׃|lāh|-|H0|Prep | 3fs
 v18 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v18 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v18 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -313,7 +313,7 @@ v22 לְעָ֑ם|lə·‘ām|people|H5971|Prep-l | N-ms
 v22 וְאָ֣נֹכִ֔י|wə·’ā·nō·ḵî|and I|H595|Conj-w | Pro-1cs
 v22 אֶהְיֶ֥ה|’eh·yeh|will be|H1961|V-Qal-Imperf-1cs
 v22 לָכֶ֖ם|lā·ḵem|your|H0|Prep | 2mp
-v22 לֵאלֹהִֽים׃ס|lê·lō·hîm|God|H430|Prep-l | N-mp
+v22 לֵאלֹהִֽים׃|lê·lō·hîm|God|H430|Prep-l | N-mp
 v23 הִנֵּ֣ה׀|hin·nêh|Behold|H2009|Interjection
 v23 סַעֲרַ֣ת|sa·‘ă·raṯ|the storm|H5591|N-fsc
 v23 יְהוָ֗ה|Yah·weh|of the LORD|H3068|N-proper-ms

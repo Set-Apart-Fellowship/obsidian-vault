@@ -32,7 +32,7 @@ v2 πλῆθος|plēthos|all|G4128|N-ANS
 v2 τῶν|tōn|the|G3588|Art-GMP
 v2 μαθητῶν|mathētōn|disciples|G3101|N-GMP
 v2 εἶπαν|eipan|[and] said|G2036|V-AIA-3P
-v2 Οὐκ|Ouk|vvv|G3756|Adv
+v2 Οὐκ|Ouk|...|G3756|Adv
 v2 ἀρεστόν|areston|unacceptable|G701|Adj-NNS
 v2 ἐστιν|estin|It is|G1510|V-PIA-3S
 v2 ἡμᾶς|hēmas|[for] us|G1473|PPro-A1P
@@ -174,7 +174,7 @@ v9 συζητοῦντες|syzētountes|They disputed|G4802|V-PPA-NMP
 v9 τῷ|tō|with|G3588|Art-DMS
 v9 Στεφάνῳ|Stephanō|Stephen|G4736|N-DMS
 v10 καὶ|kai|[but]|G2532|Conj
-v10 οὐκ|ouk|vvv|G3756|Adv
+v10 οὐκ|ouk|...|G3756|Adv
 v10 ἴσχυον|ischyon|they could not|G2480|V-IIA-3P
 v10 ἀντιστῆναι|antistēnai|stand up to|G436|V-ANA
 v10 τῇ|tē|[his]|G3588|Art-DFS
@@ -226,7 +226,7 @@ v13 λέγοντας|legontas|[who] said|G3004|V-PPA-AMP
 v13 Ὁ|Ho|-|G3588|Art-NMS
 v13 ἄνθρωπος|anthrōpos|man|G444|N-NMS
 v13 οὗτος|houtos|This|G3778|DPro-NMS
-v13 οὐ|ou|vvv|G3756|Adv
+v13 οὐ|ou|...|G3756|Adv
 v13 παύεται|pauetai|never stops|G3973|V-PIM-3S
 v13 λαλῶν|lalōn|speaking|G2980|V-PPA-NMS
 v13 ῥήματα|rhēmata|...|G4487|N-ANP

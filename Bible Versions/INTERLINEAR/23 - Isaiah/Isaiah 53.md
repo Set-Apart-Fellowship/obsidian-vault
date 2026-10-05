@@ -14,7 +14,7 @@ v2 מֵאֶ֣רֶץ|mê·’e·reṣ|ground|H776|Prep-m | N-fsc
 v2 צִיָּ֔ה|ṣî·yāh|out of dry|H6723|Adj-fs
 v2 לֹא־|lō-|He had no|H3808|Adv-NegPrt
 v2 תֹ֥אַר|ṯō·’ar|[stately] form|H8389|N-ms
-v2 ל֖וֹ|lōw||H0|Prep | 3ms
+v2 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v2 וְלֹ֣א|wə·lō|-|H3808|Conj-w | Adv-NegPrt
 v2 הָדָ֑ר|hā·ḏār|or majesty|H1926|N-ms
 v2 וְנִרְאֵ֥הוּ|wə·nir·’ê·hū|to attract us|H7200|Conj-w | V-Qal-ConjImperf.h-1cp | 3ms
@@ -56,7 +56,7 @@ v5 שְׁלוֹמֵ֙נוּ֙|šə·lō·w·mê·nū|that brought us peace|H7965
 v5 עָלָ֔יו|‘ā·lāw|was upon Him|H5921|Prep | 3ms
 v5 וּבַחֲבֻרָת֖וֹ|ū·ḇa·ḥă·ḇu·rā·ṯōw|and by His stripes|H2250|Conj-w, Prep-b | N-fsc | 3ms
 v5 נִרְפָּא־|nir·pā-|we are healed|H7495|V-Nifal-Perf-3ms
-v5 לָֽנוּ׃|lā·nū||H0|Prep | 1cp
+v5 לָֽנוּ׃|lā·nū|-|H0|Prep | 1cp
 v6 כֻּלָּ֙נוּ֙|kul·lā·nū|We all|H3605|N-msc | 1cp
 v6 כַּצֹּ֣אן|kaṣ·ṣōn|like sheep|H6629|Prep-k, Art | N-cs
 v6 תָּעִ֔ינוּ|tā·‘î·nū|have gone astray|H8582|V-Qal-Perf-1cp
@@ -65,7 +65,7 @@ v6 לְדַרְכּ֖וֹ|lə·ḏar·kōw|to his own way|H1870|Prep-l | N-csc |
 v6 פָּנִ֑ינוּ|pā·nî·nū|has turned|H6437|V-Qal-Perf-1cp
 v6 וַֽיהוָה֙|Yah·weh|and the LORD|H3068|Conj-w | N-proper-ms
 v6 הִפְגִּ֣יעַ|hip̄·gî·a‘|has laid|H6293|V-Hifil-Perf-3ms
-v6 בּ֔וֹ|bōw||H0|Prep | 3ms
+v6 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v6 אֵ֖ת|’êṯ|upon Him|H853|DirObjM
 v6 עֲוֺ֥ן|‘ă·wōn|the iniquity|H5771|N-csc
 v6 כֻּלָּֽנוּ׃|kul·lā·nū|of us all|H3605|N-msc | 1cp
@@ -99,7 +99,7 @@ v8 חַיִּ֔ים|ḥay·yîm|of the living|H2416|Adj-mp
 v8 מִפֶּ֥שַׁע|mip·pe·ša‘|for the transgression|H6588|Prep-m | N-msc
 v8 עַמִּ֖י|‘am·mî|of My people|H5971|N-msc | 1cs
 v8 נֶ֥גַע|ne·ḡa‘|He was stricken|H5061|N-ms
-v8 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v8 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v9 וַיִּתֵּ֤ן|way·yit·tên|He was assigned|H5414|Conj-w | V-Qal-ConsecImperf-3ms
 v9 אֶת־|’eṯ-|with|H854|Prep
 v9 רְשָׁעִים֙|rə·šā·‘îm|the wicked|H7563|Adj-mp
@@ -163,4 +163,4 @@ v12 חֵטְא־|ḥêṭ-|the sin|H2399|N-msc
 v12 רַבִּ֣ים|rab·bîm|of many|H7227|Adj-mp
 v12 נָשָׂ֔א|nā·śā|bore|H5375|V-Qal-Perf-3ms
 v12 וְלַפֹּשְׁעִ֖ים|wə·lap·pō·šə·‘îm|for the transgressors|H6586|Conj-w, Prep-l, Art | V-Qal-Prtcpl-mp
-v12 יַפְגִּֽיעַ׃ס|yap̄·gî·a‘|and made intercession|H6293|V-Hifil-Imperf-3ms
+v12 יַפְגִּֽיעַ׃|yap̄·gî·a‘|and made intercession|H6293|V-Hifil-Imperf-3ms

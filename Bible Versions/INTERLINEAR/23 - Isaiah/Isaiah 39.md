@@ -1,7 +1,7 @@
 v1 בָּעֵ֣ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
 v1 הַהִ֡וא|ha·hi·w|At that|H1931|Art | Pro-3fs
 v1 שָׁלַ֡ח|šā·laḥ|sent|H7971|V-Qal-Perf-3ms
-v1 מְרֹדַ֣ךְ|mə·rō·ḏaḵ||H4757|Prep
+v1 מְרֹדַ֣ךְ|mə·rō·ḏaḵ|-|H4757|Prep
 v1 בַּ֠לְאֲדָן|bal·’ă·ḏān|Merodach-baladan|H4757|N-proper-ms
 v1 בֶּֽן־|ben-|son|H1121|N-msc
 v1 בַּלְאֲדָ֧ן|bal·’ă·ḏān|of Baladan|H1081|N-proper-ms
@@ -80,7 +80,7 @@ v4 וַיֹּ֣אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-
 v4 חִזְקִיָּ֗הוּ|ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
 v4 אֵ֣ת|’êṯ|-|H853|DirObjM
 v4 כָּל־|kāl-|everything|H3605|N-msc
-v4 אֲשֶׁ֤ר|’ă·šer||H834|Pro-r
+v4 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v4 בְּבֵיתִי֙|bə·ḇê·ṯî|in my palace|H1004|Prep-b | N-msc | 1cs
 v4 רָא֔וּ|rā·’ū|They have seen|H7200|V-Qal-Perf-3cp
 v4 לֹֽא־|lō-|There is nothing|H3808|Adv-NegPrt
@@ -143,4 +143,4 @@ v8 כִּ֥י|kî|At least|H3588|Conj
 v8 יִהְיֶ֛ה|yih·yeh|there will be|H1961|V-Qal-Imperf-3ms
 v8 שָׁל֥וֹם|šā·lō·wm|peace|H7965|N-ms
 v8 וֶאֱמֶ֖ת|we·’ĕ·meṯ|and security|H571|Conj-w | N-fs
-v8 בְּיָמָֽי׃פ|bə·yā·māy|in my lifetime|H3117|Prep-b | N-mpc | 1cs
+v8 בְּיָמָֽי׃|bə·yā·māy|in my lifetime|H3117|Prep-b | N-mpc | 1cs

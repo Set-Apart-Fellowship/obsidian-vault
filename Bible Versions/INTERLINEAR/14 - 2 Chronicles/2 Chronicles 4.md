@@ -9,7 +9,7 @@ v1 אַמָּ֖ה|’am·māh|cubits|H520|N-fs
 v1 רָחְבּ֑וֹ|rā·ḥə·bōw|wide|H7341|N-msc | 3ms
 v1 וְעֶ֥שֶׂר|wə·‘e·śer|and ten|H6235|Conj-w | Number-fsc
 v1 אַמּ֖וֹת|’am·mō·wṯ|cubits|H520|N-fp
-v1 קוֹמָתֽוֹ׃ס|qō·w·mā·ṯōw|high|H6967|N-fsc | 3ms
+v1 קוֹמָתֽוֹ׃|qō·w·mā·ṯōw|high|H6967|N-fsc | 3ms
 v2 וַיַּ֥עַשׂ|way·ya·‘aś|He also made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 הַיָּ֖ם|hay·yām|the Sea|H3220|Art | N-ms
@@ -33,7 +33,7 @@ v2 סָבִֽיב׃|sā·ḇîḇ|-|H5439|Adv
 v3 וּדְמ֣וּת|ū·ḏə·mūṯ|figures|H1823|Conj-w | N-fsc
 v3 בְּקָרִים֩|bə·qā·rîm|of oxen|H1241|N-mp
 v3 תַּ֨חַת|ta·ḥaṯ|Below [the rim]|H8478|Prep
-v3 ל֜וֹ|lōw||H0|Prep | 3ms
+v3 ל֜וֹ|lōw|-|H0|Prep | 3ms
 v3 סָבִ֤יב׀|sā·ḇîḇ|encircled|H5439|Adv
 v3 סָבִיב֙|sā·ḇîḇ|...|H5439|Adv
 v3 סוֹבְבִ֣ים|sō·wḇ·ḇîm|...|H5437|V-Qal-Prtcpl-mp
@@ -41,7 +41,7 @@ v3 אֹת֔וֹ|’ō·ṯōw|it|H853|DirObjM | 3ms
 v3 עֶ֚שֶׂר|‘e·śer|ten|H6235|Number-fs
 v3 בָּֽאַמָּ֔ה|bā·’am·māh|per cubit|H520|Prep-b, Art | N-fs
 v3 מַקִּיפִ֥ים|maq·qî·p̄îm|all the way|H5362|V-Hifil-Prtcpl-mp
-v3 אֶת־|’eṯ-||H853|DirObjM
+v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 הַיָּ֖ם|hay·yām|the Sea|H3220|Art | N-ms
 v3 סָבִ֑יב|sā·ḇîḇ|around|H5439|Adv
 v3 שְׁנַ֤יִם|šə·na·yim|in two|H8147|Number-md
@@ -84,7 +84,7 @@ v5 מַחֲזִ֣יק|ma·ḥă·zîq|...|H2388|V-Hifil-Prtcpl-ms
 v5 בַּתִּ֔ים|bat·tîm|baths|H1324|N-fp
 v5 שְׁלֹ֥שֶׁת|šə·lō·šeṯ|three|H7969|Number-msc
 v5 אֲלָפִ֖ים|’ă·lā·p̄îm|thousand|H505|Number-mp
-v5 יָכִֽיל׃ס|yā·ḵîl|It could hold|H3557|V-Hifil-Imperf-3ms
+v5 יָכִֽיל׃|yā·ḵîl|It could hold|H3557|V-Hifil-Imperf-3ms
 v6 וַיַּ֣עַשׂ|way·ya·‘aś|He also made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v6 כִּיּוֹרִים֮|kî·yō·w·rîm|basins|H3595|N-mp
 v6 עֲשָׂרָה֒|‘ă·śā·rāh|ten|H6235|Number-ms
@@ -94,8 +94,8 @@ v6 מִיָּמִ֜ין|mî·yā·mîn|on the south side|H3225|Prep-m | N-fs
 v6 וַחֲמִשָּׁ֤ה|wa·ḥă·miš·šāh|and five|H2568|Conj-w | Number-ms
 v6 מִשְּׂמֹאול֙|miś·śə·mō·wl|on the north|H8040|Prep-m | N-ms
 v6 לְרָחְצָ֣ה|lə·rā·ḥə·ṣāh|for washing|H7364|Prep-l | V-Qal-Inf | 3fs
-v6 בָהֶ֔ם|ḇā·hem||H0|Prep | 3mp
-v6 אֶת־|’eṯ-||H853|DirObjM
+v6 בָהֶ֔ם|ḇā·hem|-|H0|Prep | 3mp
+v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 מַעֲשֵׂ֥ה|ma·‘ă·śêh|The parts|H4639|N-msc
 v6 הָעוֹלָ֖ה|hā·‘ō·w·lāh|of the burnt offering|H5930|Art | N-fs
 v6 יָדִ֣יחוּ|yā·ḏî·ḥū|were rinsed|H1740|V-Hifil-Imperf-3mp
@@ -103,7 +103,7 @@ v6 בָ֑ם|ḇām|in them|H0|Prep | 3mp
 v6 וְהַיָּ֕ם|wə·hay·yām|the Sea|H3220|Conj-w, Art | N-ms
 v6 לְרָחְצָ֥ה|lə·rā·ḥə·ṣāh|for washing|H7364|Prep-l | V-Qal-Inf | 3fs
 v6 לַכֹּהֲנִ֖ים|lak·kō·hă·nîm|but the priests [used]|H3548|Prep-l, Art | N-mp
-v6 בּֽוֹ׃ס|bōw||H0|Prep | 3ms
+v6 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v7 וַ֠יַּעַשׂ|way·ya·‘aś|He made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 מְנֹר֧וֹת|mə·nō·rō·wṯ|lampstands|H4501|N-fpc
@@ -115,7 +115,7 @@ v7 בַּֽהֵיכָ֔ל|ba·hê·ḵāl|in the temple|H1964|Prep-b, Art | N-ms
 v7 חָמֵ֥שׁ|ḥā·mêš|five|H2568|Number-fs
 v7 מִיָּמִ֖ין|mî·yā·mîn|on the south side|H3225|Prep-m | N-fs
 v7 וְחָמֵ֥שׁ|wə·ḥā·mêš|and five|H2568|Conj-w | Number-fs
-v7 מִשְּׂמֹֽאול׃ס|miś·śə·mō·wl|on the north|H8040|Prep-m | N-ms
+v7 מִשְּׂמֹֽאול׃|miś·śə·mō·wl|on the north|H8040|Prep-m | N-ms
 v8 וַיַּ֣עַשׂ|way·ya·‘aś|Additionally, he made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v8 שֻׁלְחָנוֹת֮|šul·ḥā·nō·wṯ|tables|H7979|N-mp
 v8 עֲשָׂרָה֒|‘ă·śā·rāh|ten|H6235|Number-ms
@@ -157,7 +157,7 @@ v11 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v11 הַמִּזְרָק֑וֹתס|ham·miz·rå̄·qō·ṯs|and sprinkling bowls|H4219|Art | N-mp
 v11 וַיְכַ֣ל|way·ḵal|finished|H3615|Conj-w | V-Piel-ConsecImperf-3ms
 v11 חִירָם|ḥī·rå̄m|So Huram|H2438|N-proper-ms
-v11 לַעֲשׂוֹת֙|la·‘ă·śō·wṯ||H6213|Prep-l | V-Qal-Inf
+v11 לַעֲשׂוֹת֙|la·‘ă·śō·wṯ|-|H6213|Prep-l | V-Qal-Inf
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 הַמְּלָאכָ֔ה|ham·mə·lā·ḵāh|the work|H4399|Art | N-fs
 v11 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
@@ -170,7 +170,7 @@ v12 עַמּוּדִ֣ים|‘am·mū·ḏîm|pillars|H5982|N-mp
 v12 שְׁנַ֔יִם|šə·na·yim|the two|H8147|Number-md
 v12 וְהַגֻּלּ֧וֹת|wə·hag·gul·lō·wṯ|bowl-shaped|H1543|Conj-w, Art | N-fp
 v12 וְהַכֹּתָר֛וֹת|wə·hak·kō·ṯā·rō·wṯ|capitals|H3805|Conj-w, Art | N-fp
-v12 עַל־|‘al-|vvv|H5921|Prep
+v12 עַל־|‘al-|...|H5921|Prep
 v12 רֹ֥אשׁ|rōš|atop|H7218|N-msc
 v12 הָעַמּוּדִ֖ים|hā·‘am·mū·ḏîm|the pillars|H5982|Art | N-mp
 v12 שְׁתָּ֑יִם|šə·tā·yim|the two|H8147|Number-fd
@@ -202,7 +202,7 @@ v13 שְׁתֵּי֙|šə·tê|both|H8147|Number-fdc
 v13 גֻּלּ֣וֹת|gul·lō·wṯ|the bowl-shaped|H1543|N-fpc
 v13 הַכֹּֽתָר֔וֹת|hak·kō·ṯā·rō·wṯ|capitals|H3805|Art | N-fp
 v13 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
-v13 עַל־|‘al-|vvv|H5921|Prep
+v13 עַל־|‘al-|...|H5921|Prep
 v13 פְּנֵ֥י|pə·nê|atop|H6440|N-cpc
 v13 הָעַמּוּדִֽים׃|hā·‘am·mū·ḏîm|the pillars)|H5982|Art | N-mp
 v14 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -260,7 +260,7 @@ v18 כִּ֛י|kî|that|H3588|Conj
 v18 לֹ֥א|lō|could not|H3808|Adv-NegPrt
 v18 נֶחְקַ֖ר|neḥ·qar|be determined|H2713|V-Nifal-Perf-3ms
 v18 מִשְׁקַ֥ל|miš·qal|the weight|H4948|N-msc
-v18 הַנְּחֹֽשֶׁת׃פ|han·nə·ḥō·šeṯ|of the bronze|H5178|Art | N-fs
+v18 הַנְּחֹֽשֶׁת׃|han·nə·ḥō·šeṯ|of the bronze|H5178|Art | N-fs
 v19 וַיַּ֣עַשׂ|way·ya·‘aś|also made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v19 שְׁלֹמֹ֔ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
 v19 אֵ֚ת|’êṯ|-|H853|DirObjM

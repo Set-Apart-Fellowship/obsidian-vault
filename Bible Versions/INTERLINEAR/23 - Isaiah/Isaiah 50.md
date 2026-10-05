@@ -14,7 +14,7 @@ v1 מִנּוֹשַׁ֔י|min·nō·wō·šay|of My creditors|H5383|Prep-m | V-Q
 v1 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v1 מָכַ֥רְתִּי|mā·ḵar·tî|did I sell you|H4376|V-Qal-Perf-1cs
 v1 אֶתְכֶ֖ם|’eṯ·ḵem|-|H853|DirObjM | 2mp
-v1 ל֑וֹ|lōw||H0|Prep | 3ms
+v1 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v1 הֵ֤ן|hên|Look|H2005|Interjection
 v1 בַּעֲוֺנֹֽתֵיכֶם֙|ba·‘ă·wō·nō·ṯê·ḵem|for your iniquities|H5771|Prep-b | N-cpc | 2mp
 v1 נִמְכַּרְתֶּ֔ם|nim·kar·tem|you were sold|H4376|V-Nifal-Perf-2mp
@@ -34,7 +34,7 @@ v2 יָדִי֙|yā·ḏî|Is My hand|H3027|N-fsc | 1cs
 v2 מִפְּד֔וּת|mip·pə·ḏūṯ|to redeem you|H6304|Prep-m | N-fs
 v2 וְאִם־|wə·’im-|Or|H518|Conj
 v2 אֵֽין־|’ên-|do I lack|H369|Adv
-v2 בִּ֥י|bî||H0|Prep | 1cs
+v2 בִּ֥י|bî|-|H0|Prep | 1cs
 v2 כֹ֖חַ|ḵō·aḥ|the strength|H3581|N-ms
 v2 לְהַצִּ֑יל|lə·haṣ·ṣîl|to deliver you|H5337|Prep-l | V-Hifil-Inf
 v2 הֵ֣ן|hên|Behold|H2005|Interjection
@@ -55,14 +55,14 @@ v3 שָׁמַ֖יִם|šā·ma·yim|the heavens|H8064|N-mp
 v3 קַדְר֑וּת|qaḏ·rūṯ|in black|H6940|N-fs
 v3 וְשַׂ֖ק|wə·śaq|sackcloth|H8242|Conj-w | N-ms
 v3 אָשִׂ֥ים|’ā·śîm|and make|H7760|V-Qal-Imperf-1cs
-v3 כְּסוּתָֽם׃ס|kə·sū·ṯām|their covering|H3682|N-fsc | 3mp
+v3 כְּסוּתָֽם׃|kə·sū·ṯām|their covering|H3682|N-fsc | 3mp
 v4 אֲדֹנָ֣י|’ă·ḏō·nāy|The Lord|H136|N-proper-ms
 v4 יְהֹוִ֗ה|Yah·weh|GOD|H3069|N-proper-ms
 v4 נָ֤תַן|nā·ṯan|has given|H5414|V-Qal-Perf-3ms
 v4 לִי֙|lî|Me|H0|Prep | 1cs
 v4 לְשׁ֣וֹן|lə·šō·wn|the tongue|H3956|N-csc
 v4 לִמּוּדִ֔ים|lim·mū·ḏîm|of discipleship|H3928|Adj-mp
-v4 לָדַ֛עַת|lā·ḏa·‘aṯ|vvv|H3045|Prep-l | V-Qal-Inf
+v4 לָדַ֛עַת|lā·ḏa·‘aṯ|...|H3045|Prep-l | V-Qal-Inf
 v4 לָע֥וּת|lā·‘ūṯ|to sustain|H5790|Prep-l | V-Qal-Inf
 v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 יָעֵ֖ף|yā·‘êp̄|the weary|H3287|Adj-ms
@@ -151,7 +151,7 @@ v10 הָלַ֣ךְ|hā·laḵ|among you walks|H1980|V-Qal-Perf-3ms
 v10 חֲשֵׁכִ֗ים|ḥă·šê·ḵîm|in darkness|H2825|N-fp
 v10 וְאֵ֥ין|wə·’ên|and has no|H369|Conj-w | Adv
 v10 נֹ֙גַהּ֙|nō·ḡah|light|H5051|N-fs
-v10 ל֔וֹ|lōw||H0|Prep | 3ms
+v10 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v10 יִבְטַח֙|yiḇ·ṭaḥ|Let him trust|H982|V-Qal-Imperf-3ms
 v10 בְּשֵׁ֣ם|bə·šêm|in the name|H8034|Prep-b | N-msc
 v10 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -173,4 +173,4 @@ v11 הָיְתָה־|hā·yə·ṯāh-|will receive|H1961|V-Qal-Perf-3fs
 v11 זֹּ֣את|zōṯ|This is what|H2063|Pro-fs
 v11 לָכֶ֔ם|lā·ḵem|you|H0|Prep | 2mp
 v11 לְמַעֲצֵבָ֖ה|lə·ma·‘ă·ṣê·ḇāh|in a place of torment|H4620|Prep-l | N-fs
-v11 תִּשְׁכָּבֽוּן׃פ|tiš·kā·ḇūn|You will lie down|H7901|V-Qal-Imperf-2mp | Pn
+v11 תִּשְׁכָּבֽוּן׃|tiš·kā·ḇūn|You will lie down|H7901|V-Qal-Imperf-2mp | Pn

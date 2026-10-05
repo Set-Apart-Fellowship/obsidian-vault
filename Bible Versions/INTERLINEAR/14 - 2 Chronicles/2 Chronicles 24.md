@@ -10,7 +10,7 @@ v1 בִּֽירוּשָׁלִָ֑ם|bî·rū·šā·lim|in Jerusalem|H3389|Prep-
 v1 וְשֵׁ֣ם|wə·šêm|name|H8034|Conj-w | N-msc
 v1 אִמּ֔וֹ|’im·mōw|His mother's|H517|N-fsc | 3ms
 v1 צִבְיָ֖ה|ṣiḇ·yāh|was Zibiah|H6645|N-proper-fs
-v1 מִבְּאֵ֥ר|mib·bə·’êr|vvv|H884|Prep
+v1 מִבְּאֵ֥ר|mib·bə·’êr|...|H884|Prep
 v1 שָֽׁבַע׃|šā·ḇa‘|she was from Beersheba|H884|Prep | N-proper-fs
 v2 וַיַּ֧עַשׂ|way·ya·‘aś|did|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v2 יוֹאָ֛שׁ|yō·w·’āš|And Joash|H3101|N-proper-ms
@@ -44,7 +44,7 @@ v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 הַכֹּהֲנִ֣ים|hak·kō·hă·nîm|the priests|H3548|Art | N-mp
 v5 וְהַלְוִיִּם֒|wə·hal·wî·yim|and Levites|H3881|Conj-w, Art | N-proper-mp
 v5 וַיֹּ֣אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v5 לָהֶ֡ם|lā·hem||H0|Prep | 3mp
+v5 לָהֶ֡ם|lā·hem|-|H0|Prep | 3mp
 v5 צְא֣וּ|ṣə·’ū|Go out|H3318|V-Qal-Imp-mp
 v5 לְעָרֵ֪י|lə·‘ā·rê|to the cities|H5892|Prep-l | N-fpc
 v5 יְהוּדָ֟ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
@@ -70,7 +70,7 @@ v6 הַמֶּלֶךְ֮|ham·me·leḵ|So the king|H4428|Art | N-ms
 v6 לִֽיהוֹיָדָ֣ע|lî·hō·w·yā·ḏā‘|Jehoiada|H3077|Prep-l | N-proper-ms
 v6 הָרֹאשׁ֒|hā·rōš|the high|H7218|Art | N-ms
 v6 וַיֹּ֣אמֶר|way·yō·mer|priest and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v6 ל֗וֹ|lōw||H0|Prep | 3ms
+v6 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v6 מַדּ֙וּעַ֙|mad·dū·a‘|Why|H4069|Interrog
 v6 לֹֽא־|lō-|have you not|H3808|Adv-NegPrt
 v6 דָרַ֣שְׁתָּ|ḏā·raš·tā|required|H1875|V-Qal-Perf-2ms
@@ -191,7 +191,7 @@ v12 לְחָרָשֵׁ֤י|lə·ḥā·rā·šê|workers|H2796|Prep-l | N-mpc
 v12 בַרְזֶל֙|ḇar·zel|in iron|H1270|N-ms
 v12 וּנְחֹ֔שֶׁת|ū·nə·ḥō·šeṯ|and bronze|H5178|Conj-w | N-fs
 v12 לְחַזֵּ֖ק|lə·ḥaz·zêq|to repair|H2388|Prep-l | V-Piel-Inf
-v12 אֶת־|’eṯ-||H853|DirObjM
+v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 בֵּ֥ית|bêṯ|the house|H1004|N-msc
 v12 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v13 וַֽיַּעֲשׂוּ֙|way·ya·‘ă·śū|So the workmen|H6213|Conj-w | V-Qal-ConsecImperf-3mp
@@ -235,7 +235,7 @@ v14 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
 v14 תָּמִ֔יד|tā·mîḏ|regularly|H8548|Adv
 v14 כֹּ֖ל|kōl|Throughout|H3605|N-msc
 v14 יְמֵ֥י|yə·mê|the days|H3117|N-mpc
-v14 יְהוֹיָדָֽע׃פ|yə·hō·w·yā·ḏā‘|of Jehoiada|H3077|N-proper-ms
+v14 יְהוֹיָדָֽע׃|yə·hō·w·yā·ḏā‘|of Jehoiada|H3077|N-proper-ms
 v15 וַיִּזְקַ֧ן|way·yiz·qan|When Jehoiada was old|H2204|Conj-w | V-Qal-ConsecImperf-3ms
 v15 יְהוֹיָדָ֛ע|yə·hō·w·yā·ḏā‘|[he]|H3077|N-proper-ms
 v15 וַיִּשְׂבַּ֥ע|way·yiś·ba‘|and full of|H7646|Conj-w | V-Qal-ConsecImperf-3ms
@@ -257,7 +257,7 @@ v16 טוֹבָה֙|ṭō·w·ḇāh|what was good|H2896|N-fs
 v16 בְּיִשְׂרָאֵ֔ל|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | N-proper-ms
 v16 וְעִ֥ם|wə·‘im|for|H5973|Conj-w | Prep
 v16 הָאֱלֹהִ֖ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
-v16 וּבֵיתֽוֹ׃ס|ū·ḇê·ṯōw|and His temple|H1004|Conj-w | N-msc | 3ms
+v16 וּבֵיתֽוֹ׃|ū·ḇê·ṯōw|and His temple|H1004|Conj-w | N-msc | 3ms
 v17 וְאַֽחֲרֵ֥י|wə·’a·ḥă·rê|After|H310|Conj-w | Prep
 v17 מוֹת֙|mō·wṯ|the death|H4194|N-msc
 v17 יְה֣וֹיָדָ֔ע|yə·hō·w·yā·ḏā‘|of Jehoiada, however|H3077|N-proper-ms
@@ -271,7 +271,7 @@ v17 שָׁמַ֥ע|šā·ma‘|listened|H8085|V-Qal-Perf-3ms
 v17 הַמֶּ֖לֶךְ|ham·me·leḵ|[he]|H4428|Art | N-ms
 v17 אֲלֵיהֶֽם׃|’ă·lê·hem|to them|H413|Prep | 3mp
 v18 וַיַּֽעַזְב֗וּ|way·ya·‘az·ḇū|They abandoned|H5800|Conj-w | V-Qal-ConsecImperf-3mp
-v18 אֶת־|’eṯ-||H853|DirObjM
+v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 בֵּ֤ית|bêṯ|the house|H1004|N-msc
 v18 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
 v18 אֱלֹהֵ֣י|’ĕ·lō·hê|the God|H430|N-mpc
@@ -297,7 +297,7 @@ v19 יְהוָ֑ה|Yah·weh|[Him]|H3068|N-proper-ms
 v19 וַיָּעִ֥ידוּ|way·yā·‘î·ḏū|and to testify|H5749|Conj-w | V-Hifil-ConsecImperf-3mp
 v19 בָ֖ם|ḇām|against them|H0|Prep | 3mp
 v19 וְלֹ֥א|wə·lō|but they would not|H3808|Conj-w | Adv-NegPrt
-v19 הֶאֱזִֽינוּ׃ס|he·’ĕ·zî·nū|listen|H238|V-Hifil-Perf-3cp
+v19 הֶאֱזִֽינוּ׃|he·’ĕ·zî·nū|listen|H238|V-Hifil-Perf-3cp
 v20 וְר֣וּחַ|wə·rū·aḥ|Then the Spirit|H7307|Conj-w | N-csc
 v20 אֱלֹהִ֗ים|’ĕ·lō·hîm|of God|H430|N-mp
 v20 לָֽבְשָׁה֙|lā·ḇə·šāh|came upon|H3847|V-Qal-Perf-3fs
@@ -317,7 +317,7 @@ v20 הָאֱלֹהִ֗ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
 v20 לָמָה֩|lā·māh|Why|H4100|Interrog
 v20 אַתֶּ֨ם|’at·tem|do you|H859|Pro-2mp
 v20 עֹבְרִ֜ים|‘ō·ḇə·rîm|transgress|H5674|V-Qal-Prtcpl-mp
-v20 אֶת־|’eṯ-||H853|DirObjM
+v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 מִצְוֺ֤ת|miṣ·wōṯ|the commandments|H4687|N-fpc
 v20 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
 v20 וְלֹ֣א|wə·lō|so that you cannot|H3808|Conj-w | Adv-NegPrt
@@ -354,7 +354,7 @@ v22 וּכְמוֹת֣וֹ|ū·ḵə·mō·w·ṯōw|As he lay dying|H4191|Conj-
 v22 אָמַ֔ר|’ā·mar|[Zechariah] said|H559|V-Qal-Perf-3ms
 v22 יֵ֥רֶא|yê·re|see this|H7200|V-Qal-Imperf.Jus-3ms
 v22 יְהוָ֖ה|Yah·weh|May the LORD|H3068|N-proper-ms
-v22 וְיִדְרֹֽשׁ׃פ|wə·yiḏ·rōš|and call you to account|H1875|Conj-w | V-Qal-ConjImperf-3ms
+v22 וְיִדְרֹֽשׁ׃|wə·yiḏ·rōš|and call you to account|H1875|Conj-w | V-Qal-ConjImperf-3ms
 v23 וַיְהִ֣י׀|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v23 לִתְקוּפַ֣ת|liṯ·qū·p̄aṯ|In the spring|H8622|Prep-l | N-fsc
 v23 הַשָּׁנָ֗ה|haš·šā·nāh|...|H8141|Art | N-fs
@@ -401,7 +401,7 @@ v24 עָשׂ֥וּ|‘ā·śū|was executed|H6213|V-Qal-Perf-3cp
 v24 שְׁפָטִֽים׃|šə·p̄ā·ṭîm|judgment|H8201|N-mp
 v25 וּבְלֶכְתָּ֣ם|ū·ḇə·leḵ·tām|And when [the Arameans] had withdrawn|H1980|Conj-w, Prep | V-Qal-Inf | 3mp
 v25 מִמֶּ֗נּוּ|mim·men·nū|...|H4480|Prep | 3ms
-v25 כִּֽי־|kî-||H3588|Conj
+v25 כִּֽי־|kî-|-|H3588|Conj
 v25 עָזְב֣וּ|‘ā·zə·ḇū|they left|H5800|V-Qal-Perf-3cp
 v25 אֹתוֹ֮|’ō·ṯōw|[Joash]|H853|DirObjM | 3ms
 v25 בְּמַחֲלִיִּים|bə·ma·ḥă·lī·yīm|wounded|H4251|Prep-b | N-mp
@@ -423,7 +423,7 @@ v25 דָּוִ֔יד|dā·wîḏ|of David|H1732|N-proper-ms
 v25 וְלֹ֥א|wə·lō|but not|H3808|Conj-w | Adv-NegPrt
 v25 קְבָרֻ֖הוּ|qə·ḇā·ru·hū|-|H6912|V-Qal-Perf-3cp | 3ms
 v25 בְּקִבְר֥וֹת|bə·qiḇ·rō·wṯ|in the tombs|H6913|Prep-b | N-mpc
-v25 הַמְּלָכִֽים׃ס|ham·mə·lā·ḵîm|of the kings|H4428|Art | N-mp
+v25 הַמְּלָכִֽים׃|ham·mə·lā·ḵîm|of the kings|H4428|Art | N-mp
 v26 וְאֵ֖לֶּה|wə·’êl·leh|Those|H428|Conj-w | Pro-cp
 v26 הַמִּתְקַשְּׁרִ֣ים|ham·miṯ·qaš·šə·rîm|who conspired|H7194|Art | V-Hitpael-Prtcpl-mp
 v26 עָלָ֑יו|‘ā·lāw|against [Joash]|H5921|Prep | 3ms
@@ -451,4 +451,4 @@ v27 הַמְּלָכִ֑ים|ham·mə·lā·ḵîm|of the Kings|H4428|Art | N-mp
 v27 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v27 אֲמַצְיָ֥הוּ|’ă·maṣ·yā·hū|Amaziah|H558|N-proper-ms
 v27 בְנ֖וֹ|ḇə·nōw|And his son|H1121|N-msc | 3ms
-v27 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v27 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

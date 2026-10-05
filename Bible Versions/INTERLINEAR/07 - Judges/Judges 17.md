@@ -88,10 +88,10 @@ v6 בְּיִשְׂרָאֵ֑ל|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | 
 v6 אִ֛ישׁ|’îš|everyone|H376|N-ms
 v6 הַיָּשָׁ֥ר|hay·yā·šār|right|H3477|Art | Adj-ms
 v6 בְּעֵינָ֖יו|bə·‘ê·nāw|in his own eyes|H5869|Prep-b | N-cdc | 3ms
-v6 יַעֲשֶֽׂה׃פ|ya·‘ă·śeh|did [what was]|H6213|V-Qal-Imperf-3ms
+v6 יַעֲשֶֽׂה׃|ya·‘ă·śeh|did [what was]|H6213|V-Qal-Imperf-3ms
 v7 וַיְהִי־|way·hî-|And there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v7 נַ֗עַר|na·‘ar|a young|H5288|N-ms
-v7 מִבֵּ֥ית|mib·bêṯ|vvv|H1035|Prep
+v7 מִבֵּ֥ית|mib·bêṯ|...|H1035|Prep
 v7 לֶ֙חֶם֙|le·ḥem|from Bethlehem|H1035|Prep | N-proper-fs
 v7 יְהוּדָ֔ה|yə·hū·ḏāh|in Judah|H3063|N-proper-ms
 v7 מִמִּשְׁפַּ֖חַת|mim·miš·pa·ḥaṯ|within the clan|H4940|Prep-m | N-fsc
@@ -104,7 +104,7 @@ v7 שָֽׁם׃|šām|...|H8033|Adv
 v8 וַיֵּ֨לֶךְ|way·yê·leḵ|left|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v8 הָאִ֜ישׁ|hā·’îš|This man|H376|Art | N-ms
 v8 מֵהָעִ֗יר|mê·hā·‘îr|the city|H5892|Prep-m, Art | N-fs
-v8 מִבֵּ֥ית|mib·bêṯ|vvv|H1035|Prep
+v8 מִבֵּ֥ית|mib·bêṯ|...|H1035|Prep
 v8 לֶ֙חֶם֙|le·ḥem|of Bethlehem|H1035|Prep | N-proper-fs
 v8 יְהוּדָ֔ה|yə·hū·ḏāh|in Judah|H3063|N-proper-ms
 v8 לָג֖וּר|lā·ḡūr|to settle|H1481|Prep-l | V-Qal-Inf
@@ -127,7 +127,7 @@ v9 וַיֹּ֨אמֶר|way·yō·mer|he replied|H559|Conj-w | V-Qal-ConsecImper
 v9 אֵלָ֜יו|’ê·lāw|...|H413|Prep | 3ms
 v9 לֵוִ֣י|lê·wî|am a Levite|H3881|N-proper-ms
 v9 אָנֹ֗כִי|’ā·nō·ḵî|I|H595|Pro-1cs
-v9 מִבֵּ֥ית|mib·bêṯ|vvv|H1035|Prep
+v9 מִבֵּ֥ית|mib·bêṯ|...|H1035|Prep
 v9 לֶ֙חֶם֙|le·ḥem|from Bethlehem|H1035|Prep | N-proper-fs
 v9 יְהוּדָ֔ה|yə·hū·ḏāh|in Judah|H3063|N-proper-ms
 v9 וְאָנֹכִ֣י|wə·’ā·nō·ḵî|and I|H595|Conj-w | Pro-1cs

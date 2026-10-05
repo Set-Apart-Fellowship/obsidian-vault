@@ -192,7 +192,7 @@ v9 ἀδικίας|adikias|unrighteousness|G93|N-GFS
 v10 ἐὰν|ean|If|G1437|Conj
 v10 εἴπωμεν|eipōmen|we say|G2036|V-ASA-1P
 v10 ὅτι|hoti|-|G3754|Conj
-v10 οὐχ|ouch|vvv|G3756|Adv
+v10 οὐχ|ouch|...|G3756|Adv
 v10 ἡμαρτήκαμεν|hēmartēkamen|we have not sinned|G264|V-RIA-1P
 v10 ψεύστην|pseustēn|a liar|G5583|N-AMS
 v10 ποιοῦμεν|poioumen|we make Him out to be|G4160|V-PIA-1P

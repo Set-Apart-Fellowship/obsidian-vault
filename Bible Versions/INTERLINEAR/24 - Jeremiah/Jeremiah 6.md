@@ -7,7 +7,7 @@ v1 וּבִתְק֙וֹעַ֙|ū·ḇiṯ·qō·w·a‘|in Tekoa|H8620|Conj-w, P
 v1 תִּקְע֣וּ|tiq·‘ū|Sound|H8628|V-Qal-Imp-mp
 v1 שׁוֹפָ֔ר|šō·w·p̄ār|the ram's horn|H7782|N-ms
 v1 וְעַל־|wə·‘al-|over|H5921|Conj-w | Prep
-v1 בֵּ֥ית|bêṯ|vvv|H1021|Prep
+v1 בֵּ֥ית|bêṯ|...|H1021|Prep
 v1 הַכֶּ֖רֶם|hak·ke·rem|Beth-haccherem|H1021|N-proper-fs
 v1 שְׂא֣וּ|śə·’ū|send up|H5375|V-Qal-Imp-mp
 v1 מַשְׂאֵ֑ת|maś·’êṯ|a signal|H4864|N-fs
@@ -53,7 +53,7 @@ v5 ק֚וּמוּ|qū·mū|Rise up|H6965|V-Qal-Imp-mp
 v5 וְנַעֲלֶ֣ה|wə·na·‘ă·leh|let us attack|H5927|Conj-w | V-Qal-ConjImperf.h-1cp
 v5 בַלָּ֔יְלָה|ḇal·lā·yə·lāh|by night|H3915|Prep-b, Art | N-ms
 v5 וְנַשְׁחִ֖יתָה|wə·naš·ḥî·ṯāh|and destroy|H7843|Conj-w | V-Hifil-ConjImperf.Cohort-1cp
-v5 אַרְמְנוֹתֶֽיהָ׃ס|’ar·mə·nō·w·ṯe·hā|her fortresses|H759|N-mpc | 3fs
+v5 אַרְמְנוֹתֶֽיהָ׃|’ar·mə·nō·w·ṯe·hā|her fortresses|H759|N-mpc | 3fs
 v6 כִּ֣י|kî|For|H3588|Conj
 v6 כֹ֤ה|ḵōh|this is what|H3541|Adv
 v6 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -97,7 +97,7 @@ v8 אֲשִׂימֵ֣ךְ|’ă·śî·mêḵ|I will make|H7760|V-Qal-Imperf-1c
 v8 שְׁמָמָ֔ה|šə·mā·māh|you a desolation|H8077|N-fs
 v8 אֶ֖רֶץ|’e·reṣ|a land|H776|N-fs
 v8 ל֥וֹא|lō·w|without|H3808|Adv-NegPrt
-v8 נוֹשָֽׁבָה׃פ|nō·wō·šā·ḇāh|inhabitant|H3427|V-Nifal-Perf-3fs
+v8 נוֹשָֽׁבָה׃|nō·wō·šā·ḇāh|inhabitant|H3427|V-Nifal-Perf-3fs
 v9 כֹּ֤ה|kōh|This is what|H3541|Adv
 v9 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v9 יְהֹוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -185,10 +185,10 @@ v13 כֻּלּ֖וֹ|kul·lōw|all|H3605|N-msc | 3ms
 v13 עֹ֥שֶׂה|‘ō·śeh|practice|H6213|V-Qal-Prtcpl-ms
 v13 שָּֽׁקֶר׃|šā·qer|deceit|H8267|N-ms
 v14 וַֽיְרַפְּא֞וּ|way·rap·pə·’ū|They dress|H7495|Conj-w | V-Piel-ConsecImperf-3mp
-v14 אֶת־|’eṯ-||H853|DirObjM
+v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 שֶׁ֤בֶר|še·ḇer|the wound|H7667|N-msc
 v14 עַמִּי֙|‘am·mî|of My people|H5971|N-msc | 1cs
-v14 עַל־|‘al-||H5921|Prep
+v14 עַל־|‘al-|-|H5921|Prep
 v14 נְקַלָּ֔ה|nə·qal·lāh|with very little care|H7043|V-Nifal-Prtcpl-fs
 v14 לֵאמֹ֖ר|lê·mōr|saying|H559|Prep-l | V-Qal-Inf
 v14 שָׁל֣וֹם׀|šā·lō·wm|Peace|H7965|N-ms
@@ -214,7 +214,7 @@ v15 בְּעֵת־|bə·‘êṯ-|when|H6256|Prep-b | N-cs
 v15 פְּקַדְתִּ֥ים|pə·qaḏ·tîm|I punish them|H6485|V-Qal-Perf-1cs | 3mp
 v15 יִכָּשְׁל֖וּ|yik·kā·šə·lū|they will collapse|H3782|V-Nifal-Imperf-3mp
 v15 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v15 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v15 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v16 כֹּ֣ה|kōh|This is what|H3541|Adv
 v16 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v16 יְהוָ֡ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -272,7 +272,7 @@ v19 לֹ֣א|lō|they have paid no|H3808|Adv-NegPrt
 v19 הִקְשִׁ֔יבוּ|hiq·šî·ḇū|attention|H7181|V-Hifil-Perf-3cp
 v19 וְתוֹרָתִ֖י|wə·ṯō·w·rā·ṯî|My instruction|H8451|Conj-w | N-fsc | 1cs
 v19 וַיִּמְאֲסוּ־|way·yim·’ă·sū-|and have rejected|H3988|Conj-w | V-Qal-ConsecImperf-3mp
-v19 בָֽהּ׃|ḇāh||H0|Prep | 3fs
+v19 בָֽהּ׃|ḇāh|-|H0|Prep | 3fs
 v20 לָמָּה־|lām·māh-|What use|H4100|Prep-l | Interrog
 v20 זֶּ֨ה|zeh|...|H2088|Pro-ms
 v20 לִ֤י|lî|to Me|H0|Prep | 1cs
@@ -289,7 +289,7 @@ v20 לְרָצ֔וֹן|lə·rā·ṣō·wn|...|H7522|Prep-l | N-ms
 v20 וְזִבְחֵיכֶ֖ם|wə·ziḇ·ḥê·ḵem|your sacrifices|H2077|Conj-w | N-mpc | 2mp
 v20 לֹא־|lō-|do not|H3808|Adv-NegPrt
 v20 עָ֥רְבוּ|‘ā·rə·ḇū|please|H6149|V-Qal-Perf-3cp
-v20 לִֽי׃ס|lî|Me|H0|Prep | 1cs
+v20 לִֽי׃|lî|Me|H0|Prep | 1cs
 v21 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v21 כֹּ֚ה|kōh|this is what|H3541|Adv
 v21 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -301,13 +301,13 @@ v21 הָעָ֥ם|hā·‘ām|people|H5971|Art | N-ms
 v21 הַזֶּ֖ה|haz·zeh|this|H2088|Art | Pro-ms
 v21 מִכְשֹׁלִ֑ים|miḵ·šō·lîm|stumbling blocks|H4383|N-mp
 v21 וְכָ֣שְׁלוּ|wə·ḵā·šə·lū|will be staggered|H3782|Conj-w | V-Qal-ConjPerf-3cp
-v21 בָ֠ם|ḇām||H0|Prep | 3mp
+v21 בָ֠ם|ḇām|-|H0|Prep | 3mp
 v21 אָב֨וֹת|’ā·ḇō·wṯ|fathers|H1|N-mp
 v21 וּבָנִ֥ים|ū·ḇā·nîm|and sons|H1121|Conj-w | N-mp
 v21 יַחְדָּ֛ו|yaḥ·dāw|alike|H3162|Adv
 v21 שָׁכֵ֥ן|šā·ḵên|and neighbors|H7934|N-ms
 v21 וְרֵע֖וֹ|wə·rê·‘ōw|friends|H7453|Conj-w | N-msc | 3ms
-v21 יֹאבֵדוּ׃פ|yō·ḇē·ḏū|will perish|H6|Conj-w | V-Qal-ConjPerf-3cp
+v21 יֹאבֵדוּ׃|yō·ḇē·ḏū|will perish|H6|Conj-w | V-Qal-ConjPerf-3cp
 v22 כֹּ֚ה|kōh|This is what|H3541|Adv
 v22 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v22 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -326,7 +326,7 @@ v23 וְכִיד֞וֹן|wə·ḵî·ḏō·wn|and spear|H3591|Conj-w | N-ms
 v23 יַחֲזִ֗יקוּ|ya·ḥă·zî·qū|They grasp|H2388|V-Hifil-Imperf-3mp
 v23 אַכְזָרִ֥י|’aḵ·zā·rî|cruel|H394|Adj-ms
 v23 הוּא֙|hū|they [are]|H1931|Pro-3ms
-v23 וְלֹ֣א|wə·lō|vvv|H3808|Conj-w | Adv-NegPrt
+v23 וְלֹ֣א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v23 יְרַחֵ֔מוּ|yə·ra·ḥê·mū|and merciless|H7355|V-Piel-Imperf-3mp
 v23 קוֹלָם֙|qō·w·lām|Their voice|H6963|N-msc | 3mp
 v23 כַּיָּ֣ם|kay·yām|like the sea|H3220|Prep-k, Art | N-ms
@@ -369,7 +369,7 @@ v26 בָאֵ֔פֶר|ḇā·’ê·p̄er|in ashes|H665|Prep-b, Art | N-ms
 v26 אֵ֤בֶל|’ê·ḇel|Mourn|H60|N-ms
 v26 יָחִיד֙|yā·ḥîḏ|for an only son|H3173|Adj-ms
 v26 עֲשִׂ֣י|‘ă·śî|as you would|H6213|V-Qal-Imp-fs
-v26 לָ֔ךְ|lāḵ||H0|Prep | 2fs
+v26 לָ֔ךְ|lāḵ|-|H0|Prep | 2fs
 v26 מִסְפַּ֖ד|mis·paḏ|wailing|H4553|N-msc
 v26 תַּמְרוּרִ֑ים|tam·rū·rîm|with bitter|H8563|N-mp
 v26 כִּ֣י|kî|for|H3588|Conj
@@ -408,8 +408,8 @@ v29 נִתָּֽקוּ׃|nit·tā·qū|purged|H5423|V-Nifal-Perf-3cp
 v30 כֶּ֣סֶף|ke·sep̄|silver|H3701|N-ms
 v30 נִמְאָ֔ס|nim·’ās|rejected|H3988|V-Nifal-Prtcpl-ms
 v30 קָרְא֖וּ|qā·rə·’ū|They are called|H7121|V-Qal-Perf-3cp
-v30 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v30 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v30 כִּֽי־|kî-|because|H3588|Conj
 v30 מָאַ֥ס|mā·’as|has rejected|H3988|V-Qal-Perf-3ms
 v30 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v30 בָּהֶֽם׃פ|bā·hem|them|H0|Prep | 3mp
+v30 בָּהֶֽם׃|bā·hem|them|H0|Prep | 3mp

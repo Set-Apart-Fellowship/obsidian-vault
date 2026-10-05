@@ -20,7 +20,7 @@ v2 תַעֲנֶ֑ה|ṯa·‘ă·neh|but You do not answer|H6030|V-Qal-Imperf-2
 v2 וְ֝לַ֗יְלָה|wə·lay·lāh|and by night|H3915|Conj-w | N-ms
 v2 וְֽלֹא־|wə·lō-|but I have no|H3808|Conj-w | Adv-NegPrt
 v2 דֽוּמִיָּ֥ה|ḏū·mî·yāh|rest|H1747|N-fs
-v2 לִֽי׃|lî||H0|Prep | 1cs
+v2 לִֽי׃|lî|-|H0|Prep | 1cs
 v3 וְאַתָּ֥ה|wə·’at·tāh|Yet You|H859|Conj-w | Pro-2ms
 v3 קָד֑וֹשׁ|qā·ḏō·wōš|are holy|H6918|Adj-ms
 v3 י֝וֹשֵׁ֗ב|yō·wō·šêḇ|enthroned|H3427|V-Qal-Prtcpl-ms

@@ -85,9 +85,9 @@ v7 בַּת־|baṯ-|daughter|H1323|N-fsc
 v7 פַּרְעֹה֒|par·‘ōh|Pharaoh's|H6547|N-proper-ms
 v7 הַאֵלֵ֗ךְ|ha·’ê·lêḵ|Shall I go|H1980|V-Qal-Imperf-1cs
 v7 וְקָרָ֤אתִי|wə·qā·rā·ṯî|and call|H7121|Conj-w | V-Qal-ConjPerf-1cs
-v7 לָךְ֙|lāḵ||H0|Prep | 2fs
+v7 לָךְ֙|lāḵ|-|H0|Prep | 2fs
 v7 אִשָּׁ֣ה|’iš·šāh|women|H802|N-fs
-v7 מֵינֶ֔קֶת|mê·ne·qeṯ||H3243|V-Hifil-Prtcpl-fs
+v7 מֵינֶ֔קֶת|mê·ne·qeṯ|-|H3243|V-Hifil-Prtcpl-fs
 v7 מִ֖ן|min|one of|H4480|Prep
 v7 הָעִבְרִיֹּ֑ת|hā·‘iḇ·rî·yōṯ|the Hebrew|H5680|Art | N-proper-fp
 v7 וְתֵינִ֥ק|wə·ṯê·niq|to nurse|H3243|Conj-w | V-Hifil-ConjImperf-3fs
@@ -297,7 +297,7 @@ v22 אָמַ֔ר|’ā·mar|saying|H559|V-Qal-Perf-3ms
 v22 גֵּ֣ר|gêr|a foreigner|H1616|N-ms
 v22 הָיִ֔יתִי|hā·yî·ṯî|I have become|H1961|V-Qal-Perf-1cs
 v22 בְּאֶ֖רֶץ|bə·’e·reṣ|land|H776|Prep-b | N-fs
-v22 נָכְרִיָּֽה׃פ|nā·ḵə·rî·yāh|in a foreign|H5237|Adj-fs
+v22 נָכְרִיָּֽה׃|nā·ḵə·rî·yāh|in a foreign|H5237|Adj-fs
 v23 וַיְהִי֩|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v23 בַיָּמִ֨ים|ḇay·yā·mîm|time|H3117|Prep-b, Art | N-mp
 v23 הָֽרַבִּ֜ים|hā·rab·bîm|After a long|H7227|Art | Adj-mp
@@ -337,4 +337,4 @@ v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 בְּנֵ֣י|bə·nê|the Israelites|H1121|N-mpc
 v25 יִשְׂרָאֵ֑ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v25 וַיֵּ֖דַע|way·yê·ḏa‘|took notice|H3045|Conj-w | V-Qal-ConsecImperf-3ms
-v25 אֱלֹהִֽים׃ס|’ĕ·lō·hîm|and|H430|N-mp
+v25 אֱלֹהִֽים׃|’ĕ·lō·hîm|and|H430|N-mp

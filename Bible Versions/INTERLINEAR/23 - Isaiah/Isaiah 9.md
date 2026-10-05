@@ -3,7 +3,7 @@ v1 לֹ֣א|lō|there will be no more|H3808|Adv-NegPrt
 v1 מוּעָף֮|mū·‘āp̄|gloom|H4155|Adj-ms
 v1 לַאֲשֶׁ֣ר|la·’ă·šer|for those|H834|Prep-l | Pro-r
 v1 מוּצָ֣ק|mū·ṣāq|in distress|H4164|N-ms
-v1 לָהּ֒|lāh||H0|Prep | 3fs
+v1 לָהּ֒|lāh|-|H0|Prep | 3fs
 v1 כָּעֵ֣ת|kā·‘êṯ|...|H6256|Prep-k, Art | N-cs
 v1 הָרִאשׁ֗וֹן|hā·ri·šō·wn|In the past|H7223|Art | Adj-ms
 v1 הֵקַ֞ל|hê·qal|He humbled|H7043|V-Hifil-Perf-3ms
@@ -111,7 +111,7 @@ v7 קִנְאַ֛ת|qin·’aṯ|The zeal|H7068|N-fsc
 v7 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v7 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v7 תַּעֲשֶׂה־|ta·‘ă·śeh-|will accomplish|H6213|V-Qal-Imperf-3fs
-v7 זֹּֽאת׃ס|zōṯ|this|H2063|Pro-fs
+v7 זֹּֽאת׃|zōṯ|this|H2063|Pro-fs
 v8 דָּבָ֛ר|dā·ḇār|a message|H1697|N-ms
 v8 שָׁלַ֥ח|šā·laḥ|has sent|H7971|V-Qal-Perf-3ms
 v8 אֲדֹנָ֖י|’ă·ḏō·nāy|The Lord|H136|N-proper-ms
@@ -171,7 +171,7 @@ v13 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v13 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v13 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v13 לֹ֥א|lō|they did not|H3808|Adv-NegPrt
-v13 דָרָֽשׁוּ׃ס|ḏā·rā·šū|seek|H1875|V-Qal-Perf-3cp
+v13 דָרָֽשׁוּ׃|ḏā·rā·šū|seek|H1875|V-Qal-Perf-3cp
 v14 וַיַּכְרֵ֨ת|way·yaḵ·rêṯ|will cut off|H3772|Conj-w | V-Hifil-ConsecImperf-3ms
 v14 יְהוָ֜ה|Yah·weh|So the LORD|H3068|N-proper-ms
 v14 מִיִּשְׂרָאֵ֗ל|mî·yiś·rā·’êl|Israel's|H3478|Prep-m | N-proper-ms
@@ -183,7 +183,7 @@ v14 י֥וֹם|yō·wm|day|H3117|N-ms
 v14 אֶחָֽד׃|’e·ḥāḏ|in a single|H259|Number-ms
 v15 זָקֵ֥ן|zā·qên|is the elder|H2205|Adj-ms
 v15 וּנְשׂוּא־|ū·nə·śū-|and honorable|H5375|Conj-w | V-Qal-QalPassPrtcpl-msc
-v15 פָנִ֖ים|p̄ā·nîm||H6440|N-mp
+v15 פָנִ֖ים|p̄ā·nîm|-|H6440|N-mp
 v15 ה֣וּא|hū|man|H1931|Pro-3ms
 v15 הָרֹ֑אשׁ|hā·rōš|The head|H7218|Art | N-ms
 v15 וְנָבִ֥יא|wə·nā·ḇî|is the prophet|H5030|Conj-w | N-ms
@@ -284,4 +284,4 @@ v21 שָׁ֣ב|šāḇ|turned away|H7725|V-Qal-Perf-3ms
 v21 אַפּ֔וֹ|’ap·pōw|His anger|H639|N-msc | 3ms
 v21 וְע֖וֹד|wə·‘ō·wḏ|is still|H5750|Conj-w | Adv
 v21 יָד֥וֹ|yā·ḏōw|His hand|H3027|N-fsc | 3ms
-v21 נְטוּיָֽה׃ס|nə·ṭū·yāh|upraised|H5186|V-Qal-QalPassPrtcpl-fs
+v21 נְטוּיָֽה׃|nə·ṭū·yāh|upraised|H5186|V-Qal-QalPassPrtcpl-fs

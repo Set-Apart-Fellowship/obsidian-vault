@@ -26,7 +26,7 @@ v3 הָאֵ֔בֶר|hā·’ê·ḇer|pinions|H83|Art | N-ms
 v3 מָלֵא֙|mā·lê|full|H4392|Adj-ms
 v3 הַנּוֹצָ֔ה|han·nō·w·ṣāh|of feathers|H5133|Art | N-fs
 v3 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v3 ל֖וֹ|lōw||H0|Prep | 3ms
+v3 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v3 הָֽרִקְמָ֑ה|hā·riq·māh|of many colors|H7553|Art | N-fs
 v3 בָּ֚א|bā|came|H935|V-Qal-Perf-3ms
 v3 אֶל־|’el-|to|H413|Prep
@@ -111,7 +111,7 @@ v8 וְלָשֵׂ֣את|wə·lā·śêṯ|and bear|H5375|Conj-w, Prep-l | V-Qal-
 v8 פֶּ֔רִי|pe·rî|fruit|H6529|N-ms
 v8 לִהְי֖וֹת|lih·yō·wṯ|and become|H1961|Prep-l | V-Qal-Inf
 v8 לְגֶ֥פֶן|lə·ḡe·p̄en|vine|H1612|Prep-l | N-csc
-v8 אַדָּֽרֶת׃ס|’ad·dā·reṯ|a splendid|H155|N-fs
+v8 אַדָּֽרֶת׃|’ad·dā·reṯ|a splendid|H155|N-fs
 v9 אֱמֹ֗ר|’ĕ·mōr|So you are to tell them|H559|V-Qal-Imp-ms
 v9 כֹּ֥ה|kōh|that this is what|H3541|Adv
 v9 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -143,7 +143,7 @@ v10 שְׁתוּלָ֖ה|šə·ṯū·lāh|Even if it is transplanted|H8362|V-Qa
 v10 הֲתִצְלָ֑ח|hă·ṯiṣ·lāḥ|will it flourish|H6743|V-Qal-Imperf-3fs
 v10 הֲלוֹא֩|hă·lō·w|Will it not|H3808|Adv-NegPrt
 v10 כְגַ֨עַת|ḵə·ḡa·‘aṯ|strikes|H5060|Prep-k | V-Qal-Inf
-v10 בָּ֜הּ|bāh||H0|Prep | 3fs
+v10 בָּ֜הּ|bāh|-|H0|Prep | 3fs
 v10 ר֤וּחַ|rū·aḥ|wind|H7307|N-csc
 v10 הַקָּדִים֙|haq·qā·ḏîm|when the east|H6921|Art | N-ms
 v10 תִּיבַ֣שׁ|tî·ḇaš|completely wither|H3001|V-Qal-Imperf-3fs
@@ -151,7 +151,7 @@ v10 יָבֹ֔שׁ|yā·ḇōš|...|H3001|V-Qal-InfAbs
 v10 עַל־|‘al-|on|H5921|Prep
 v10 עֲרֻגֹ֥ת|‘ă·ru·ḡōṯ|the bed|H6170|N-fpc
 v10 צִמְחָ֖הּ|ṣim·ḥāh|where it sprouted|H6780|N-msc | 3fs
-v10 תִּיבָֽשׁ׃פ|tî·ḇāš|It will wither|H3001|V-Qal-Imperf-3fs
+v10 תִּיבָֽשׁ׃|tî·ḇāš|It will wither|H3001|V-Qal-Imperf-3fs
 v11 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v11 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v11 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -269,7 +269,7 @@ v18 וְכָל־|wə·ḵāl|all|H3605|Conj-w | N-msc
 v18 אֵ֥לֶּה|’êl·leh|these [things]|H428|Pro-cp
 v18 עָשָׂ֖ה|‘ā·śāh|yet did|H6213|V-Qal-Perf-3ms
 v18 לֹ֥א|lō|he will not|H3808|Adv-NegPrt
-v18 יִמָּלֵֽט׃ס|yim·mā·lêṭ|escape|H4422|V-Nifal-Imperf-3ms
+v18 יִמָּלֵֽט׃|yim·mā·lêṭ|escape|H4422|V-Nifal-Imperf-3ms
 v19 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v19 כֹּה־|kōh-|this is what|H3541|Adv
 v19 אָמַ֨ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -298,7 +298,7 @@ v20 וְנִשְׁפַּטְתִּ֤י|wə·niš·paṭ·tî|and execute judgmen
 v20 אִתּוֹ֙|’it·tōw|upon him|H854|Prep | 3ms
 v20 שָׁ֔ם|šām|there|H8033|Adv
 v20 מַעֲל֖וֹ|ma·‘ă·lōw|he committed|H4604|N-msc | 3ms
-v20 אֲשֶׁ֥ר|’ă·šer||H834|Pro-r
+v20 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v20 מָֽעַל־|mā·‘al-|for the treason|H4603|V-Qal-Perf-3ms
 v20 בִּֽי׃|bî|against Me|H0|Prep | 1cs
 v21 וְאֵ֨ת|wə·’êṯ|-|H853|Conj-w | DirObjM
@@ -316,7 +316,7 @@ v21 וִידַעְתֶּ֕ם|wî·ḏa‘·tem|Then you will know|H3045|Conj-w |
 v21 כִּ֛י|kî|that|H3588|Conj
 v21 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v21 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v21 דִּבַּֽרְתִּי׃ס|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
+v21 דִּבַּֽרְתִּי׃|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
 v22 כֹּ֤ה|kōh|This is what|H3541|Adv
 v22 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v22 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -350,7 +350,7 @@ v23 לְאֶ֣רֶז|lə·’e·rez|cedar|H730|Prep-l | N-ms
 v23 אַדִּ֑יר|’ad·dîr|a majestic|H117|Adj-ms
 v23 וְשָׁכְנ֣וּ|wə·šā·ḵə·nū|will nest|H7931|Conj-w | V-Qal-ConjPerf-3cp
 v23 תַחְתָּ֗יו|ṯaḥ·tāw|under it|H8478|Prep | 3ms
-v23 כֹּ֚ל|kōl||H3605|N-msc
+v23 כֹּ֚ל|kōl|-|H3605|N-msc
 v23 צִפּ֣וֹר|ṣip·pō·wr|Birds|H6833|N-cs
 v23 כָּל־|kāl-|of every|H3605|N-msc
 v23 כָּנָ֔ף|kā·nāp̄|kind|H3671|N-fs
@@ -379,4 +379,4 @@ v24 יָבֵ֑שׁ|yā·ḇêš|and make the withered|H3002|Adj-ms
 v24 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v24 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v24 דִּבַּ֥רְתִּי|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
-v24 וְעָשִֽׂיתִי׃פ|wə·‘ā·śî·ṯî|and I have done [it]|H6213|Conj-w | V-Qal-ConjPerf-1cs
+v24 וְעָשִֽׂיתִי׃|wə·‘ā·śî·ṯî|and I have done [it]|H6213|Conj-w | V-Qal-ConjPerf-1cs

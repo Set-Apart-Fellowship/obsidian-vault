@@ -27,7 +27,7 @@ v1 פְּלַטְיָ֥הוּ|pə·laṭ·yā·hū|and Pelatiah|H6410|N-proper-m
 v1 בֶן־|ḇen-|son|H1121|N-msc
 v1 בְּנָיָ֖הוּ|bə·nā·yā·hū|of Benaiah|H1141|N-proper-ms
 v1 שָׂרֵ֖י|śā·rê|who were leaders|H8269|N-mpc
-v1 הָעָֽם׃פ|hā·‘ām|of the people|H5971|Art | N-ms
+v1 הָעָֽם׃|hā·‘ām|of the people|H5971|Art | N-ms
 v2 וַיֹּ֖אמֶר|way·yō·mer|And [the LORD] said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 אֵלָ֑י|’ê·lāy|to me|H413|Prep | 1cs
 v2 בֶּן־|ben-|Son|H1121|N-msc
@@ -80,7 +80,7 @@ v6 בָּעִ֣יר|bā·‘îr|city|H5892|Prep-b, Art | N-fs
 v6 הַזֹּ֑את|haz·zōṯ|in this|H2063|Art | Pro-fs
 v6 וּמִלֵּאתֶ֥ם|ū·mil·lê·ṯem|and filled|H4390|Conj-w | V-Piel-ConjPerf-2mp
 v6 חוּצֹתֶ֖יהָ|ḥū·ṣō·ṯe·hā|its streets|H2351|N-mpc | 3fs
-v6 חָלָֽל׃פ|ḥā·lāl|with the dead|H2491|N-ms
+v6 חָלָֽל׃|ḥā·lāl|with the dead|H2491|N-ms
 v7 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v7 כֹּֽה־|kōh-|this is what|H3541|Adv
 v7 אָמַר֮|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -177,7 +177,7 @@ v13 אַתָּ֣ה|’at·tāh|will You|H859|Pro-2ms
 v13 עֹשֶׂ֔ה|‘ō·śeh|bring|H6213|V-Qal-Prtcpl-ms
 v13 אֵ֖ת|’êṯ|...|H854|DirObjM
 v13 שְׁאֵרִ֥ית|šə·’ê·rîṯ|the remnant|H7611|N-fsc
-v13 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v13 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v14 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v14 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v14 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -195,7 +195,7 @@ v15 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v15 כֻּלֹּ֑ה|kul·lōh|-|H3605|N-msc | 3ms
 v15 אֲשֶׁר֩|’ă·šer|are those of whom|H834|Pro-r
 v15 אָמְר֨וּ|’ā·mə·rū|have said|H559|V-Qal-Perf-3cp
-v15 לָהֶ֜ם|lā·hem||H0|Prep | 3mp
+v15 לָהֶ֜ם|lā·hem|-|H0|Prep | 3mp
 v15 יֹשְׁבֵ֣י|yō·šə·ḇê|the people|H3427|V-Qal-Prtcpl-mpc
 v15 יְרוּשָׁלִַ֗ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v15 רַֽחֲקוּ֙|ra·ḥă·qū|They are far away|H7368|V-Qal-Imp-mp
@@ -205,7 +205,7 @@ v15 לָ֥נוּ|lā·nū|to us|H0|Prep | 1cp
 v15 הִ֛יא|hî|this|H1931|Pro-3fs
 v15 נִתְּנָ֥ה|nit·tə·nāh|has been given|H5414|V-Nifal-Perf-3fs
 v15 הָאָ֖רֶץ|hā·’ā·reṣ|land|H776|Art | N-fs
-v15 לְמוֹרָשָֽׁה׃ס|lə·mō·w·rā·šāh|as a possession|H4181|Prep-l | N-fs
+v15 לְמוֹרָשָֽׁה׃|lə·mō·w·rā·šāh|as a possession|H4181|Prep-l | N-fs
 v16 לָכֵ֣ן|lā·ḵên|Therefore|H3651|Adv
 v16 אֱמֹ֗ר|’ĕ·mōr|declare|H559|V-Qal-Imp-ms
 v16 כֹּֽה־|kōh-|that this is what|H3541|Adv
@@ -225,7 +225,7 @@ v16 מְעַ֔ט|mə·‘aṭ|yet for a little while|H4592|Adj-ms
 v16 בָּאֲרָצ֖וֹת|bā·’ă·rā·ṣō·wṯ|in the countries|H776|Prep-b, Art | N-fp
 v16 אֲשֶׁר־|’ă·šer-|to which|H834|Pro-r
 v16 בָּ֥אוּ|bā·’ū|they have gone|H935|V-Qal-Perf-3cp
-v16 שָֽׁם׃ס|šām|...|H8033|Adv
+v16 שָֽׁם׃|šām|...|H8033|Adv
 v17 לָכֵ֣ן|lā·ḵên|Therefore|H3651|Adv
 v17 אֱמֹ֗ר|’ĕ·mōr|declare|H559|V-Qal-Imp-ms
 v17 כֹּֽה־|kōh-|that this is what|H3541|Adv
@@ -242,10 +242,10 @@ v17 מִן־|min-|you from|H4480|Prep
 v17 הָ֣אֲרָצ֔וֹת|hā·’ă·rā·ṣō·wṯ|the countries|H776|Art | N-fp
 v17 אֲשֶׁ֥ר|’ă·šer|to which|H834|Pro-r
 v17 נְפֹצוֹתֶ֖ם|nə·p̄ō·ṣō·w·ṯem|you have been scattered|H6327|V-Nifal-Perf-2mp
-v17 בָּהֶ֑ם|bā·hem||H0|Prep | 3mp
+v17 בָּהֶ֑ם|bā·hem|-|H0|Prep | 3mp
 v17 וְנָתַתִּ֥י|wə·nā·ṯat·tî|and I will give back|H5414|Conj-w | V-Qal-ConjPerf-1cs
 v17 לָכֶ֖ם|lā·ḵem|to you|H0|Prep | 2mp
-v17 אֶת־|’eṯ-||H853|DirObjM
+v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 אַדְמַ֥ת|’aḏ·maṯ|the land|H127|N-fsc
 v17 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v18 וּבָ֖אוּ־|ū·ḇā·’ū-|When they return|H935|Conj-w | V-Qal-ConjPerf-3cp
@@ -346,4 +346,4 @@ v25 כָּל־|kāl-|everything|H3605|N-msc
 v25 דִּבְרֵ֥י|diḇ·rê|...|H1697|N-mpc
 v25 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v25 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v25 הֶרְאָֽנִי׃פ|her·’ā·nî|had shown me|H7200|V-Hifil-Perf-3ms | 1cs
+v25 הֶרְאָֽנִי׃|her·’ā·nî|had shown me|H7200|V-Hifil-Perf-3ms | 1cs

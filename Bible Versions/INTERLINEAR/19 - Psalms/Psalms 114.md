@@ -23,7 +23,7 @@ v4 גְּ֝בָע֗וֹת|gə·ḇā·‘ō·wṯ|the hills|H1389|N-fp
 v4 כִּבְנֵי־|kiḇ·nê-|like lambs|H1121|Prep-k | N-mpc
 v4 צֹֽאן׃|ṣōn|...|H6629|N-cs
 v5 מַה־|mah-|Why was it|H4100|Interrog
-v5 לְּךָ֣|lə·ḵā||H0|Prep | 2ms
+v5 לְּךָ֣|lə·ḵā|-|H0|Prep | 2ms
 v5 הַ֭יָּם|hay·yām|O sea|H3220|Art | N-ms
 v5 כִּ֣י|kî|that|H3588|Conj
 v5 תָנ֑וּס|ṯā·nūs|you fled|H5127|V-Qal-Imperf-2ms

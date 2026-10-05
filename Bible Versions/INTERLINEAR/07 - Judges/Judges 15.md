@@ -34,7 +34,7 @@ v2 טוֹבָ֣ה|ṭō·w·ḇāh|more beautiful|H2896|Adj-fs
 v2 מִמֶּ֔נָּה|mim·men·nāh|than she|H4480|Prep | 3fs
 v2 תְּהִי־|tə·hî-|take her|H1961|V-Qal-Imperf.Jus-3fs
 v2 נָ֥א|nā|Please|H4994|Interjection
-v2 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v2 תַּחְתֶּֽיהָ׃|taḥ·te·hā|instead|H8478|Prep | 3fs
 v3 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v3 לָהֶם֙|lā·hem|to them|H0|Prep | 3mp
@@ -124,7 +124,7 @@ v8 וַיֵּ֣רֶד|way·yê·reḏ|and then went down|H3381|Conj-w | V-Qal-Co
 v8 וַיֵּ֔שֶׁב|way·yê·šeḇ|and stayed|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v8 בִּסְעִ֖יף|bis·‘îp̄|in the cave|H5585|Prep-b | N-msc
 v8 סֶ֥לַע|se·la‘|at the rock|H5553|N-msc
-v8 עֵיטָֽם׃ס|‘ê·ṭām|of Etam|H5862|N-proper-fs
+v8 עֵיטָֽם׃|‘ê·ṭām|of Etam|H5862|N-proper-fs
 v9 וַיַּעֲל֣וּ|way·ya·‘ă·lū|went up|H5927|Conj-w | V-Qal-ConsecImperf-3mp
 v9 פְלִשְׁתִּ֔ים|p̄ə·liš·tîm|Then the Philistines|H6430|N-proper-mp
 v9 וַֽיַּחֲנ֖וּ|way·ya·ḥă·nū|camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
@@ -143,7 +143,7 @@ v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 שִׁמְשׁוֹן֙|šim·šō·wn|Samson|H8123|N-proper-ms
 v10 עָלִ֔ינוּ|‘ā·lî·nū|We have come|H5927|V-Qal-Perf-1cp
 v10 לַעֲשׂ֣וֹת|la·‘ă·śō·wṯ|and pay him back|H6213|Prep-l | V-Qal-Inf
-v10 ל֔וֹ|lōw||H0|Prep | 3ms
+v10 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v10 כַּאֲשֶׁ֖ר|ka·’ă·šer|for what|H834|Prep-k | Pro-r
 v10 עָ֥שָׂה|‘ā·śāh|he has done|H6213|V-Qal-Perf-3ms
 v10 לָֽנוּ׃|lā·nū|to us|H0|Prep | 1cp
@@ -169,7 +169,7 @@ v11 זֹּ֖את|zōṯ|...|H2063|Pro-fs
 v11 עָשִׂ֣יתָ|‘ā·śî·ṯā|have you done|H6213|V-Qal-Perf-2ms
 v11 לָּ֑נוּ|lā·nū|to us|H0|Prep | 1cp
 v11 וַיֹּ֣אמֶר|way·yō·mer|he replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v11 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v11 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v11 כַּאֲשֶׁר֙|ka·’ă·šer|-|H834|Prep-k | Pro-r
 v11 עָ֣שׂוּ|‘ā·śū|I have done|H6213|V-Qal-Perf-3cp
 v11 לִ֔י|lî|to me|H0|Prep | 1cs
@@ -184,7 +184,7 @@ v12 לְתִתְּךָ֖|lə·ṯit·tə·ḵā|and hand you over to|H5414|Prep-
 v12 בְּיַד־|bə·yaḏ-|...|H3027|Prep-b | N-fsc
 v12 פְּלִשְׁתִּ֑ים|pə·liš·tîm|the Philistines|H6430|N-proper-mp
 v12 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v12 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v12 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v12 שִׁמְשׁ֔וֹן|šim·šō·wn|Samson|H8123|N-proper-ms
 v12 הִשָּׁבְע֣וּ|hiš·šā·ḇə·‘ū|Swear|H7650|V-Nifal-Imp-mp
 v12 לִ֔י|lî|to me|H0|Prep | 1cs
@@ -193,7 +193,7 @@ v12 תִּפְגְּע֥וּן|tip̄·gə·‘ūn|you will not kill me|H6293|V-Q
 v12 בִּ֖י|bî|{yourselves}|H0|Prep | 1cs
 v12 אַתֶּֽם׃|’at·tem|-|H859|Pro-2mp
 v13 וַיֹּ֧אמְרוּ|way·yō·mə·rū|they answered|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v13 ל֣וֹ|lōw||H0|Prep | 3ms
+v13 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v13 לֵאמֹ֗ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v13 לֹ֚א|lō|No|H3808|Adv-NegPrt
 v13 כִּֽי־|kî-|but|H3588|Conj
@@ -266,7 +266,7 @@ v17 מִיָּד֑וֹ|mî·yā·ḏōw|from his hand|H3027|Prep-m | N-fsc | 3ms
 v17 וַיִּקְרָ֛א|way·yiq·rā|and he named|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v17 לַמָּק֥וֹם|lam·mā·qō·wm|place|H4725|Prep-l, Art | N-ms
 v17 הַה֖וּא|ha·hū|that|H1931|Art | Pro-3ms
-v17 רָ֥מַת|rā·maṯ|vvv|H7437|
+v17 רָ֥מַת|rā·maṯ|...|H7437|
 v17 לֶֽחִי׃|le·ḥî|Ramath-lehi|H7437|N-proper-fs
 v18 וַיִּצְמָא֮|way·yiṣ·mā|thirsty|H6770|Conj-w | V-Qal-ConsecImperf-3ms
 v18 מְאֹד֒|mə·’ōḏ|And being very|H3966|Adv
@@ -292,7 +292,7 @@ v19 וַיִּבְקַ֨ע|way·yiḇ·qa‘|opened up|H1234|Conj-w | V-Qal-Cons
 v19 אֱלֹהִ֜ים|’ĕ·lō·hîm|So God|H430|N-mp
 v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 הַמַּכְתֵּ֣שׁ|ham·maḵ·têš|the hollow place|H4388|Art | N-ms
-v19 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v19 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v19 בַּלֶּ֗חִי|bal·le·ḥî|in Lehi|H3895|Prep-b, Art | N-proper-fs
 v19 וַיֵּצְא֨וּ|way·yê·ṣə·’ū|came out|H3318|Conj-w | V-Qal-ConsecImperf-3mp
 v19 מִמֶּ֤נּוּ|mim·men·nū|of it|H4480|Prep | 3ms
@@ -305,7 +305,7 @@ v19 עַל־|‘al-|That is why|H5921|Prep
 v19 כֵּ֣ן׀|kên|...|H3651|Adv
 v19 קָרָ֣א|qā·rā|he named it|H7121|V-Qal-Perf-3ms
 v19 שְׁמָ֗הּ|šə·māh|...|H8034|N-msc | 3fs
-v19 עֵ֤ין|‘ên|vvv|H5875|
+v19 עֵ֤ין|‘ên|...|H5875|
 v19 הַקּוֹרֵא֙|haq·qō·w·rê|En-hakkore|H5875|N-proper-fs
 v19 אֲשֶׁ֣ר|’ă·šer|and it remains|H834|Pro-r
 v19 בַּלֶּ֔חִי|bal·le·ḥî|in Lehi|H3896|Prep-b, Art | N-proper-fs
@@ -318,4 +318,4 @@ v20 יִשְׂרָאֵ֛ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v20 בִּימֵ֥י|bî·mê|in the days|H3117|Prep-b | N-mpc
 v20 פְלִשְׁתִּ֖ים|p̄ə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v20 עֶשְׂרִ֥ים|‘eś·rîm|for twenty|H6242|Number-cp
-v20 שָׁנָֽה׃פ|šā·nāh|years|H8141|N-fs
+v20 שָׁנָֽה׃|šā·nāh|years|H8141|N-fs

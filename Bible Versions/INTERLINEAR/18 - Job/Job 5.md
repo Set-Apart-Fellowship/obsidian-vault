@@ -1,6 +1,6 @@
 v1 קְֽרָא־|qə·rā-|Call out|H7121|V-Qal-Imp-ms
 v1 נָ֭א|nā|if you please|H4994|Interjection
-v1 הֲיֵ֣שׁ|hă·yêš|vvv|H3426|Adv
+v1 הֲיֵ֣שׁ|hă·yêš|...|H3426|Adv
 v1 עוֹנֶ֑ךָּ|‘ō·w·ne·kā|but who will answer|H6030|V-Qal-Prtcpl-msc | 2ms
 v1 וְאֶל־|wə·’el-|To|H413|Conj-w | Prep
 v1 מִ֖י|mî|which|H4310|Interrog
@@ -202,4 +202,4 @@ v27 הִ֑יא|hî|and it|H1931|Pro-3fs
 v27 שְׁ֝מָעֶ֗נָּה|šə·mā·ʿen·nāh|So hear it|H8085|V-Qal-Imp-ms | 3fs
 v27 וְאַתָּ֥ה|wə·’at·tāh|and|H859|Conj-w | Pro-2ms
 v27 דַֽע־|ḏa‘-|know|H3045|V-Qal-Imp-ms
-v27 לָֽךְ׃פ|lāḵ|for yourself|H0|Prep | 2fs
+v27 לָֽךְ׃|lāḵ|for yourself|H0|Prep | 2fs

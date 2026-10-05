@@ -36,7 +36,7 @@ v2 לְשֵׁ֣ם|lə·šêm|for the Name|H8034|Prep-l | N-msc
 v2 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v2 עַ֖ד|‘aḏ|yet|H5704|Prep
 v2 הַיָּמִ֥ים|hay·yā·mîm|...|H3117|Art | N-mp
-v2 הָהֵֽם׃פ|hā·hêm|...|H1992|Art | Pro-3mp
+v2 הָהֵֽם׃|hā·hêm|...|H1992|Art | Pro-3mp
 v3 וַיֶּאֱהַ֤ב|way·ye·’ĕ·haḇ|loved|H157|Conj-w | V-Qal-ConsecImperf-3ms
 v3 שְׁלֹמֹה֙|šə·lō·mōh|And Solomon|H8010|N-proper-ms
 v3 אֶת־|’eṯ-|-|H853|DirObjM
@@ -98,7 +98,7 @@ v6 וּבְיִשְׁרַ֥ת|ū·ḇə·yiš·raṯ|and uprightness|H3483|Conj-
 v6 לֵבָ֖ב|lê·ḇāḇ|of heart|H3824|N-ms
 v6 עִמָּ֑ךְ|‘im·māḵ|...|H5973|Prep | 2fs
 v6 וַתִּשְׁמָר־|wat·tiš·mār-|And You have maintained|H8104|Conj-w | V-Qal-ConsecImperf-2ms
-v6 ל֗וֹ|lōw||H0|Prep | 3ms
+v6 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 הַחֶ֤סֶד|ha·ḥe·seḏ|loving devotion|H2617|Art | N-ms
 v6 הַגָּדוֹל֙|hag·gā·ḏō·wl|-|H1419|Art | Adj-ms
@@ -181,11 +181,11 @@ v11 הַדָּבָ֣ר|had·dā·ḇār|-|H1697|Art | N-ms
 v11 הַזֶּ֗ה|haz·zeh|this|H2088|Art | Pro-ms
 v11 וְלֹֽא־|wə·lō-|instead of|H3808|Conj-w | Adv-NegPrt
 v11 שָׁאַ֨לְתָּ|šā·’al·tā|requesting|H7592|V-Qal-Perf-2ms
-v11 לְּךָ֜|lə·ḵā||H0|Prep | 2ms
+v11 לְּךָ֜|lə·ḵā|-|H0|Prep | 2ms
 v11 יָמִ֣ים|yā·mîm|life|H3117|N-mp
 v11 רַבִּ֗ים|rab·bîm|long|H7227|Adj-mp
 v11 וְלֹֽא־|wə·lō-|[or]|H3808|Conj-w | Adv-NegPrt
-v11 שָׁאַ֤לְתָּ|šā·’al·tā||H7592|V-Qal-Perf-2ms
+v11 שָׁאַ֤לְתָּ|šā·’al·tā|-|H7592|V-Qal-Perf-2ms
 v11 לְּךָ֙|lə·ḵā|for yourself|H0|Prep | 2ms
 v11 עֹ֔שֶׁר|‘ō·šer|wealth|H6239|N-ms
 v11 וְלֹ֥א|wə·lō|[or]|H3808|Conj-w | Adv-NegPrt
@@ -193,7 +193,7 @@ v11 שָׁאַ֖לְתָּ|šā·’al·tā|...|H7592|V-Qal-Perf-2ms
 v11 נֶ֣פֶשׁ|ne·p̄eš|death|H5315|N-fsc
 v11 אֹיְבֶ֑יךָ|’ō·yə·ḇe·ḵā|for your enemies|H341|V-Qal-Prtcpl-mpc | 2ms
 v11 וְשָׁאַ֧לְתָּ|wə·šā·’al·tā|but you have asked|H7592|Conj-w | V-Qal-ConjPerf-2ms
-v11 לְּךָ֛|lə·ḵā||H0|Prep | 2ms
+v11 לְּךָ֛|lə·ḵā|-|H0|Prep | 2ms
 v11 הָבִ֖ין|hā·ḇîn|for discernment|H995|V-Hifil-Inf
 v11 לִשְׁמֹ֥עַ|liš·mō·a‘|to administer|H8085|Prep-l | V-Qal-Inf
 v11 מִשְׁפָּֽט׃|miš·pāṭ|justice|H4941|N-ms
@@ -214,7 +214,7 @@ v12 לְפָנֶ֔יךָ|lə·p̄ā·ne·ḵā|-|H6440|Prep-l | N-cpc | 2ms
 v12 וְאַחֲרֶ֖יךָ|wə·’a·ḥă·re·ḵā|another|H310|Conj-w | Prep | 2ms
 v12 לֹא־|lō-|nor|H3808|Adv-NegPrt
 v12 יָק֥וּם|yā·qūm|will there ever be|H6965|V-Qal-Imperf-3ms
-v12 כָּמֽוֹךָ׃|kā·mō·w·ḵā||H3644|Prep | 2ms
+v12 כָּמֽוֹךָ׃|kā·mō·w·ḵā|-|H3644|Prep | 2ms
 v13 וְגַ֨ם|wə·ḡam|Moreover|H1571|Conj
 v13 אֲשֶׁ֤ר|’ă·šer|what|H834|Pro-r
 v13 לֹֽא־|lō-|you did not|H3808|Adv-NegPrt
@@ -244,8 +244,8 @@ v14 הָלַ֖ךְ|hā·laḵ|did|H1980|V-Qal-Perf-3ms
 v14 דָּוִ֣יד|dā·wîḏ|David|H1732|N-proper-ms
 v14 אָבִ֑יךָ|’ā·ḇî·ḵā|your father|H1|N-msc | 2ms
 v14 וְהַאַרַכְתִּ֖י|wə·ha·’a·raḵ·tî|I will prolong|H748|Conj-w | V-Hifil-ConjPerf-1cs
-v14 אֶת־|’eṯ-||H853|DirObjM
-v14 יָמֶֽיךָ׃ס|yā·me·ḵā|your days|H3117|N-mpc | 2ms
+v14 אֶת־|’eṯ-|-|H853|DirObjM
+v14 יָמֶֽיךָ׃|yā·me·ḵā|your days|H3117|N-mpc | 2ms
 v15 וַיִּקַ֥ץ|way·yi·qaṣ|awoke|H3364|Conj-w | V-Qal-ConsecImperf-3ms
 v15 שְׁלֹמֹ֖ה|šə·lō·mōh|Then Solomon|H8010|N-proper-ms
 v15 וְהִנֵּ֣ה|wə·hin·nêh|and indeed it had been|H2009|Conj-w | Interjection
@@ -264,11 +264,11 @@ v15 שְׁלָמִ֔ים|šə·lā·mîm|and peace offerings|H8002|N-mp
 v15 וַיַּ֥עַשׂ|way·ya·‘aś|...|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v15 מִשְׁתֶּ֖ה|miš·teh|a feast|H4960|N-ms
 v15 לְכָל־|lə·ḵāl|for all|H3605|Prep-l | N-msc
-v15 עֲבָדָֽיו׃פ|‘ă·ḇā·ḏāw|his servants|H5650|N-mpc | 3ms
+v15 עֲבָדָֽיו׃|‘ă·ḇā·ḏāw|his servants|H5650|N-mpc | 3ms
 v16 אָ֣ז|’āz|At that time|H227|Adv
 v16 תָּבֹ֗אנָה|tā·ḇō·nāh|came|H935|V-Qal-Imperf-3fp
 v16 שְׁתַּ֛יִם|šə·ta·yim|two|H8147|Number-fd
-v16 נָשִׁ֥ים|nā·šîm|vvv|H802|N-fp
+v16 נָשִׁ֥ים|nā·šîm|...|H802|N-fp
 v16 זֹנ֖וֹת|zō·nō·wṯ|prostitutes|H2181|N-fp
 v16 אֶל־|’el-|to|H413|Prep
 v16 הַמֶּ֑לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
@@ -382,7 +382,7 @@ v23 כִ֔י|ḵî|...|H3588|Conj
 v23 בְּנֵ֥ךְ|bə·nêḵ|your son|H1121|N-msc | 2fs
 v23 הַמֵּ֖ת|ham·mêṯ|is dead|H4191|Art | V-Qal-Prtcpl-ms
 v23 וּבְנִ֥י|ū·ḇə·nî|and mine|H1121|Conj-w | N-msc | 1cs
-v23 הֶחָֽי׃פ|he·ḥāy|is alive|H2416|Art | N-ms
+v23 הֶחָֽי׃|he·ḥāy|is alive|H2416|Art | N-ms
 v24 וַיֹּ֥אמֶר|way·yō·mer|continued|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v24 הַמֶּ֖לֶךְ|ham·me·leḵ|The king|H4428|Art | N-ms
 v24 קְח֣וּ|qə·ḥū|Bring|H3947|V-Qal-Imp-mp
@@ -431,7 +431,7 @@ v26 אַל־|’al-|Do not|H408|Adv
 v26 תְּמִיתֻ֑הוּ|tə·mî·ṯu·hū|kill him|H4191|V-Hifil-Imperf-2mp | 3ms
 v26 וְזֹ֣את|wə·zōṯ|But the other|H2063|Conj-w | Pro-fs
 v26 אֹמֶ֗רֶת|’ō·me·reṯ|[woman] said|H559|V-Qal-Prtcpl-fs
-v26 גַּם־|gam-||H1571|Conj
+v26 גַּם־|gam-|-|H1571|Conj
 v26 לִ֥י|lî|mine|H0|Prep | 1cs
 v26 גַם־|ḡam-|nor|H1571|Conj
 v26 לָ֛ךְ|lāḵ|yours|H0|Prep | 2fs
@@ -454,7 +454,7 @@ v27 אִמּֽוֹ׃|’im·mōw|is his mother|H517|N-fsc | 3ms
 v28 וַיִּשְׁמְע֣וּ|way·yiš·mə·‘ū|heard|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v28 כָל־|ḵāl|When all|H3605|N-msc
 v28 יִשְׂרָאֵ֗ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v28 אֶת־|’eṯ-||H853|DirObjM
+v28 אֶת־|’eṯ-|-|H853|DirObjM
 v28 הַמִּשְׁפָּט֙|ham·miš·pāṭ|of the judgment|H4941|Art | N-ms
 v28 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v28 שָׁפַ֣ט|šā·p̄aṭ|had given|H8199|V-Qal-Perf-3ms
@@ -469,4 +469,4 @@ v28 חָכְמַ֧ת|ḥā·ḵə·maṯ|the wisdom|H2451|N-fsc
 v28 אֱלֹהִ֛ים|’ĕ·lō·hîm|of God|H430|N-mp
 v28 בְּקִרְבּ֖וֹ|bə·qir·bōw|[was] in him|H7130|Prep-b | N-msc | 3ms
 v28 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|to administer|H6213|Prep-l | V-Qal-Inf
-v28 מִשְׁפָּֽט׃ס|miš·pāṭ|justice|H4941|N-ms
+v28 מִשְׁפָּֽט׃|miš·pāṭ|justice|H4941|N-ms

@@ -60,7 +60,7 @@ v6 הַיּ֔וֹם|hay·yō·wm|the day|H3117|Art | N-ms
 v6 וְנָ֖סוּ|wə·nā·sū|flee|H5127|Conj-w | V-Qal-ConjPerf-3cp
 v6 הַצְּלָלִ֑ים|haṣ·ṣə·lā·lîm|and the shadows|H6752|Art | N-mp
 v6 אֵ֤לֶךְ|’ê·leḵ|I will make my way|H1980|V-Qal-Imperf-1cs
-v6 לִי֙|lî||H0|Prep | 1cs
+v6 לִי֙|lî|-|H0|Prep | 1cs
 v6 אֶל־|’el-|to|H413|Prep
 v6 הַ֣ר|har|the mountain|H2022|N-msc
 v6 הַמּ֔וֹר|ham·mō·wr|of myrrh|H4753|Art | N-ms
@@ -72,7 +72,7 @@ v7 יָפָה֙|yā·p̄āh|beautiful|H3303|Adj-fs
 v7 רַעְיָתִ֔י|ra‘·yā·ṯî|my darling|H7474|N-fsc | 1cs
 v7 וּמ֖וּם|ū·mūm|flaw|H3971|Conj-w | N-ms
 v7 אֵ֥ין|’ên|[there is] no|H369|Adv
-v7 בָּֽךְ׃ס|bāḵ|in you|H0|Prep | 2fs
+v7 בָּֽךְ׃|bāḵ|in you|H0|Prep | 2fs
 v8 אִתִּ֤י|’it·tî|with me|H854|Prep | 1cs
 v8 מִלְּבָנוֹן֙|mil·lə·ḇā·nō·wn|from Lebanon|H3844|Prep-m | N-proper-fs
 v8 כַּלָּ֔ה|kal·lāh|my bride|H3618|N-fs
@@ -122,7 +122,7 @@ v11 לְשׁוֹנֵ֔ךְ|lə·šō·w·nêḵ|your tongue|H3956|N-csc | 2fs
 v11 וְרֵ֥יחַ|wə·rê·aḥ|and the fragrance|H7381|Conj-w | N-msc
 v11 שַׂלְמֹתַ֖יִךְ|śal·mō·ṯa·yiḵ|of your garments|H8008|N-fpc | 2fs
 v11 כְּרֵ֥יחַ|kə·rê·aḥ|is like the aroma|H7381|Prep-k | N-msc
-v11 לְבָנֽוֹן׃ס|lə·ḇā·nō·wn|of Lebanon|H3844|N-proper-fs
+v11 לְבָנֽוֹן׃|lə·ḇā·nō·wn|of Lebanon|H3844|N-proper-fs
 v12 גַּ֥ן׀|gan|[you are] a garden|H1588|N-cs
 v12 נָע֖וּל|nā·‘ūl|locked up|H5274|V-Qal-QalPassPrtcpl-ms
 v12 אֲחֹתִ֣י|’ă·ḥō·ṯî|My sister|H269|N-fsc | 1cs

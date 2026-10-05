@@ -2,7 +2,7 @@ v1 וַיְהִי֩|way·hî|Now there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v1 אִ֨ישׁ|’îš|man|H376|N-ms
 v1 אֶחָ֜ד|’e·ḥāḏ|a|H259|Number-ms
 v1 מִן־|min-|[who was] from|H4480|Prep
-v1 הָרָמָתַ֛יִם|hā·rā·mā·ṯa·yim|vvv|H7436|Art | N-proper-fs
+v1 הָרָמָתַ֛יִם|hā·rā·mā·ṯa·yim|...|H7436|Art | N-proper-fs
 v1 צוֹפִ֖ים|ṣō·w·p̄îm|Ramathaim-zophim|H7436|N-proper-fs
 v1 מֵהַ֣ר|mê·har|in the hill country|H2022|Prep-m | N-msc
 v1 אֶפְרָ֑יִם|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
@@ -83,7 +83,7 @@ v6 הַרְּעִמָ֑הּ|har·rə·‘i·māh|would provoke her|H7481|V-Hifil
 v6 כִּֽי־|kî-|Because|H3588|Conj
 v6 סָגַ֥ר|sā·ḡar|had closed|H5462|V-Qal-Perf-3ms
 v6 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v6 בְּעַ֥ד|bə·‘aḏ|vvv|H1157|Prep
+v6 בְּעַ֥ד|bə·‘aḏ|...|H1157|Prep
 v6 רַחְמָֽהּ׃|raḥ·māh|[Hannah's] womb|H7358|N-msc | 3fs
 v7 וְכֵ֨ן|wə·ḵên|And this went on|H3651|Conj-w | Adv
 v7 יַעֲשֶׂ֜ה|ya·‘ă·śeh|...|H6213|V-Qal-Imperf-3ms
@@ -99,7 +99,7 @@ v7 וַתִּבְכֶּ֖ה|wat·tiḇ·keh|until she wept|H1058|Conj-w | V-Qal-
 v7 וְלֹ֥א|wə·lō|and would not|H3808|Conj-w | Adv-NegPrt
 v7 תֹאכַֽל׃|ṯō·ḵal|eat|H398|V-Qal-Imperf-3fs
 v8 וַיֹּ֨אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v8 לָ֜הּ|lāh||H0|Prep | 3fs
+v8 לָ֜הּ|lāh|-|H0|Prep | 3fs
 v8 אֶלְקָנָ֣ה|’el·qā·nāh|Elkanah|H511|N-proper-ms
 v8 אִישָׁ֗הּ|’î·šāh|her husband|H376|N-msc | 3fs
 v8 חַנָּה֙|ḥan·nāh|Hannah|H2584|N-proper-fs
@@ -261,7 +261,7 @@ v18 וַתֹּאכַ֔ל|wat·tō·ḵal|and she began to eat|H398|Conj-w | V-Qa
 v18 וּפָנֶ֥יהָ|ū·p̄ā·ne·hā|and her face|H6440|Conj-w | N-mpc | 3fs
 v18 לֹא־|lō-|{was} no|H3808|Adv-NegPrt
 v18 הָיוּ־|hā·yū-|downcast|H1961|V-Qal-Perf-3cp
-v18 לָ֖הּ|lāh||H0|Prep | 3fs
+v18 לָ֖הּ|lāh|-|H0|Prep | 3fs
 v18 עֽוֹד׃|‘ō·wḏ|longer|H5750|Adv
 v19 וַיַּשְׁכִּ֣מוּ|way·yaš·ki·mū|they got up early|H7925|Conj-w | V-Hifil-ConsecImperf-3mp
 v19 בַבֹּ֗קֶר|ḇab·bō·qer|The next morning|H1242|Prep-b, Art | N-ms
@@ -325,7 +325,7 @@ v22 שָׁ֖ם|šām|there|H8033|Adv
 v22 עַד־|‘aḏ-|permanently|H5704|Prep
 v22 עוֹלָֽם׃|‘ō·w·lām|...|H5769|N-ms
 v23 וַיֹּ֣אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v23 לָהּ֩|lāh||H0|Prep | 3fs
+v23 לָהּ֩|lāh|-|H0|Prep | 3fs
 v23 אֶלְקָנָ֨ה|’el·qā·nāh|Elkanah|H511|N-proper-ms
 v23 אִישָׁ֜הּ|’î·šāh|her husband|H376|N-msc | 3fs
 v23 עֲשִׂ֧י|‘ă·śî|Do|H6213|V-Qal-Imp-fs
@@ -412,4 +412,4 @@ v28 שָׁא֖וּל|šā·’ūl|is dedicated|H7592|V-Qal-QalPassPrtcpl-ms
 v28 לַֽיהוָ֑ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v28 וַיִּשְׁתַּ֥חוּ|way·yiš·ta·ḥū|So they worshiped|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
 v28 שָׁ֖ם|šām|there|H8033|Adv
-v28 לַיהוָֽה׃פ|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
+v28 לַיהוָֽה׃|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms

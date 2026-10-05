@@ -6,7 +6,7 @@ v1 מִיהוּדָ֛ה|mî·hū·ḏāh|from Judah|H3063|Prep-m | N-proper-ms
 v1 בִּדְבַ֥ר|biḏ·ḇar|by the word|H1697|Prep-b | N-msc
 v1 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v1 אֶל־|’el-|to|H413|Prep
-v1 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v1 בֵּֽית־|bêṯ-|...|H1008|Prep
 v1 אֵ֑ל|’êl|Bethel|H1008|N-proper-fs
 v1 וְיָרָבְעָ֛ם|wə·yā·rā·ḇə·‘ām|as Jeroboam|H3379|Conj-w | N-proper-ms
 v1 עֹמֵ֥ד|‘ō·mêḏ|was standing|H5975|V-Qal-Prtcpl-ms
@@ -18,7 +18,7 @@ v2 עַל־|‘al-|against|H5921|Prep
 v2 הַמִּזְבֵּ֙חַ֙|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
 v2 בִּדְבַ֣ר|biḏ·ḇar|by the word|H1697|Prep-b | N-msc
 v2 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v2 וַיֹּ֙אמֶר֙|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
+v2 וַיֹּ֙אמֶר֙|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 מִזְבֵּ֣חַ|miz·bê·aḥ|O altar|H4196|N-ms
 v2 מִזְבֵּ֔חַ|miz·bê·aḥ|O altar|H4196|N-ms
 v2 כֹּ֖ה|kōh|this is what|H3541|Adv
@@ -191,15 +191,15 @@ v10 שָׁ֣ב|šāḇ|return|H7725|V-Qal-Perf-3ms
 v10 בַּדֶּ֔רֶךְ|bad·de·reḵ|by the way|H1870|Prep-b, Art | N-cs
 v10 אֲשֶׁ֛ר|’ă·šer|-|H834|Pro-r
 v10 בָּ֥א|bā|he had come|H935|V-Qal-Perf-3ms
-v10 בָ֖הּ|ḇāh||H0|Prep | 3fs
+v10 בָ֖הּ|ḇāh|-|H0|Prep | 3fs
 v10 אֶל־|’el-|to|H413|Prep
-v10 בֵּֽית־|bêṯ-|vvv|H1008|Prep
-v10 אֵֽל׃פ|’êl|Bethel|H1008|N-proper-fs
+v10 בֵּֽית־|bêṯ-|...|H1008|Prep
+v10 אֵֽל׃|’êl|Bethel|H1008|N-proper-fs
 v11 וְנָבִ֤יא|wə·nā·ḇî|prophet|H5030|Conj-w | N-ms
 v11 אֶחָד֙|’e·ḥāḏ|Now a certain|H259|Number-ms
 v11 זָקֵ֔ן|zā·qên|old|H2205|Adj-ms
 v11 יֹשֵׁ֖ב|yō·šêḇ|was living|H3427|V-Qal-Prtcpl-ms
-v11 בְּבֵֽית־|bə·ḇêṯ-|vvv|H1008|Prep
+v11 בְּבֵֽית־|bə·ḇêṯ-|...|H1008|Prep
 v11 אֵ֑ל|’êl|in Bethel|H1008|Prep | N-proper-fs
 v11 וַיָּב֣וֹא|way·yā·ḇō·w|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v11 בְנ֡וֹ|ḇə·nōw|and his sons|H1121|N-msc | 3ms
@@ -213,7 +213,7 @@ v11 עָשָׂה֩|‘ā·śāh|had done|H6213|V-Qal-Perf-3ms
 v11 אִישׁ־|’îš-|the man|H376|N-msc
 v11 הָאֱלֹהִ֨ים׀|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v11 הַיּ֜וֹם|hay·yō·wm|that day|H3117|Art | N-ms
-v11 בְּבֵֽית־|bə·ḇêṯ-|vvv|H1008|Prep
+v11 בְּבֵֽית־|bə·ḇêṯ-|...|H1008|Prep
 v11 אֵ֗ל|’êl|in Bethel|H1008|Prep | N-proper-fs
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 הַדְּבָרִים֙|had·də·ḇā·rîm|the words|H1697|Art | N-mp
@@ -311,7 +311,7 @@ v17 לָלֶ֔כֶת|lā·le·ḵeṯ|you came|H1980|Prep-l | V-Qal-Inf
 v17 בַּדֶּ֖רֶךְ|bad·de·reḵ|by the way|H1870|Prep-b, Art | N-cs
 v17 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v17 הָלַ֥כְתָּ|hā·laḵ·tā|...|H1980|V-Qal-Perf-2ms
-v17 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v17 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v18 וַיֹּ֣אמֶר|way·yō·mer|Then [the prophet] replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v18 ל֗וֹ|lōw|...|H0|Prep | 3ms
 v18 גַּם־|gam-|too [am]|H1571|Conj
@@ -446,7 +446,7 @@ v25 אֲשֶׁ֛ר|’ă·šer|where|H834|Pro-r
 v25 הַנָּבִ֥יא|han·nā·ḇî|prophet|H5030|Art | N-ms
 v25 הַזָּקֵ֖ן|haz·zā·qên|the old|H2205|Art | Adj-ms
 v25 יֹשֵׁ֥ב|yō·šêḇ|lived|H3427|V-Qal-Prtcpl-ms
-v25 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v25 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v26 וַיִּשְׁמַ֣ע|way·yiš·ma‘|heard this|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v26 הַנָּבִיא֮|han·nā·ḇî|When the prophet|H5030|Art | N-ms
 v26 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
@@ -542,7 +542,7 @@ v31 אֲשֶׁ֛ר|’ă·šer|where|H834|Pro-r
 v31 אִ֥ישׁ|’îš|the man|H376|N-msc
 v31 הָאֱלֹהִ֖ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v31 קָב֣וּר|qā·ḇūr|is buried|H6912|V-Qal-QalPassPrtcpl-ms
-v31 בּ֑וֹ|bōw||H0|Prep | 3ms
+v31 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v31 אֵ֚צֶל|’ê·ṣel|beside|H681|Prep
 v31 עַצְמֹתָ֔יו|‘aṣ·mō·ṯāw|my bones|H6106|N-fpc | 3ms
 v31 הַנִּ֖יחוּ|han·nî·ḥū|Lay|H5117|V-Hifil-Imp-mp
@@ -559,7 +559,7 @@ v32 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v32 עַל־|‘al-|against|H5921|Prep
 v32 הַמִּזְבֵּ֖חַ|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
 v32 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
-v32 בְּבֵֽית־|bə·ḇêṯ-|vvv|H1008|Prep
+v32 בְּבֵֽית־|bə·ḇêṯ-|...|H1008|Prep
 v32 אֵ֑ל|’êl|in Bethel|H1008|Prep | N-proper-fs
 v32 וְעַל֙|wə·‘al|and against|H5921|Conj-w | Prep
 v32 כָּל־|kāl-|all|H3605|N-msc
@@ -567,7 +567,7 @@ v32 בָּתֵּ֣י|bāt·tê|the shrines|H1004|N-mpc
 v32 הַבָּמ֔וֹת|hab·bā·mō·wṯ|on the high places|H1116|Art | N-fp
 v32 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v32 בְּעָרֵ֥י|bə·‘ā·rê|in the cities|H5892|Prep-b | N-fpc
-v32 שֹׁמְרֽוֹן׃פ|šō·mə·rō·wn|of Samaria|H8111|N-proper-fs
+v32 שֹׁמְרֽוֹן׃|šō·mə·rō·wn|of Samaria|H8111|N-proper-fs
 v33 אַחַר֙|’a·ḥar|Even after|H310|Adv
 v33 הַדָּבָ֣ר|had·dā·ḇār|events|H1697|Art | N-ms
 v33 הַזֶּ֔ה|haz·zeh|these|H2088|Art | Pro-ms
@@ -599,4 +599,4 @@ v34 וּלְהַכְחִיד֙|ū·lə·haḵ·ḥîḏ|that led to its extermin
 v34 וּלְהַשְׁמִ֔יד|ū·lə·haš·mîḏ|and destruction|H8045|Conj-w, Prep-l | V-Hifil-Inf
 v34 מֵעַ֖ל|mê·‘al|from|H5921|Prep-m
 v34 פְּנֵ֥י|pə·nê|the face|H6440|N-cpc
-v34 הָאֲדָמָֽה׃פ|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
+v34 הָאֲדָמָֽה׃|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs

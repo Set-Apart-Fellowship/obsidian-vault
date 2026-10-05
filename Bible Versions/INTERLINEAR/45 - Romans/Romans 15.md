@@ -72,8 +72,8 @@ v5 τῆς|tēs|-|G3588|Art-GFS
 v5 παρακλήσεως|paraklēseōs|encouragement|G3874|N-GFS
 v5 δῴη|dōē|grant|G1325|V-AOA-3S
 v5 ὑμῖν|hymin|you|G4771|PPro-D2P
-v5 τὸ|to|vvv|G3588|Art-ANS
-v5 αὐτὸ|auto|vvv|G846|PPro-AN3S
+v5 τὸ|to|...|G3588|Art-ANS
+v5 αὐτὸ|auto|...|G846|PPro-AN3S
 v5 φρονεῖν|phronein|harmony|G5426|V-PNA
 v5 ἐν|en|with|G1722|Prep
 v5 ἀλλήλοις|allēlois|one another|G240|RecPro-DMP
@@ -240,7 +240,7 @@ v15 ἔγραψα|egrapsa|I have written|G1125|V-AIA-1S
 v15 ὑμῖν|hymin|you|G4771|PPro-D2P
 v15 ἀπὸ|apo|on|G575|Prep
 v15 μέρους|merous|some points|G3313|N-GNS
-v15 ὡς|hōs|vvv|G5613|Adv
+v15 ὡς|hōs|...|G5613|Adv
 v15 ἐπαναμιμνήσκων|epanamimnēskōn|reminder|G1878|V-PPA-NMS
 v15 ὑμᾶς|hymas|-|G4771|PPro-A2P
 v15 διὰ|dia|because of|G1223|Prep
@@ -278,9 +278,9 @@ v16 ἡγιασμένη|hēgiasmenē|sanctified|G37|V-RPM/P-NFS
 v16 ἐν|en|by|G1722|Prep
 v16 Πνεύματι|Pneumati|Spirit|G4151|N-DNS
 v16 Ἁγίῳ|Hagiō|[the] Holy|G40|Adj-DNS
-v17 Ἔχω|Echō|vvv|G2192|V-PIA-1S
+v17 Ἔχω|Echō|...|G2192|V-PIA-1S
 v17 οὖν|oun|Therefore|G3767|Conj
-v17 τὴν|tēn|vvv|G3588|Art-AFS
+v17 τὴν|tēn|...|G3588|Art-AFS
 v17 καύχησιν|kauchēsin|I exult|G2746|N-AFS
 v17 ἐν|en|in|G1722|Prep
 v17 Χριστῷ|Christō|Christ|G5547|N-DMS
@@ -289,7 +289,7 @@ v17 τὰ|ta|in [ my service ]|G3588|Art-ANP
 v17 πρὸς|pros|to|G4314|Prep
 v17 τὸν|ton|-|G3588|Art-AMS
 v17 Θεόν|Theon|God|G2316|N-AMS
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 γὰρ|gar|-|G1063|Conj
 v18 τολμήσω|tolmēsō|I will not presume|G5111|V-FIA-1S
 v18 τι|ti|of anything|G5100|IPro-ANS
@@ -333,12 +333,12 @@ v20 οὕτως|houtōs|In this way|G3779|Adv
 v20 δὲ|de|-|G1161|Conj
 v20 φιλοτιμούμενον|philotimoumenon|I have aspired|G5389|V-PPM/P-AMS
 v20 εὐαγγελίζεσθαι|euangelizesthai|to preach the gospel|G2097|V-PNM
-v20 οὐχ|ouch|vvv|G3756|Adv
+v20 οὐχ|ouch|...|G3756|Adv
 v20 ὅπου|hopou|where|G3699|Adv
 v20 ὠνομάσθη|ōnomasthē|was not known|G3687|V-AIP-3S
 v20 Χριστός|Christos|Christ|G5547|N-NMS
 v20 ἵνα|hina|so that|G2443|Conj
-v20 μὴ|mē|vvv|G3361|Adv
+v20 μὴ|mē|...|G3361|Adv
 v20 ἐπ’|ep’|on|G1909|Prep
 v20 ἀλλότριον|allotrion|someone [else's]|G245|Adj-AMS
 v20 θεμέλιον|themelion|foundation|G2310|N-AMS
@@ -348,13 +348,13 @@ v21 καθὼς|kathōs|as|G2531|Adv
 v21 γέγραπται|gegraptai|it is written|G1125|V-RIM/P-3S
 v21 Ὄψονται|Opsontai|will see|G3708|V-FIM-3P
 v21 «οἷς|hois|Those who|G3739|RelPro-DMP
-v21 οὐκ|ouk|vvv|G3756|Adv
+v21 οὐκ|ouk|...|G3756|Adv
 v21 ἀνηγγέλη|anēngelē|were not told|G312|V-AIP-3S
 v21 περὶ|peri|about|G4012|Prep
 v21 αὐτοῦ»|autou|Him|G846|PPro-GM3S
 v21 καὶ|kai|and|G2532|Conj
 v21 οἳ|hoi|those who|G3739|RelPro-NMP
-v21 οὐκ|ouk|vvv|G3756|Adv
+v21 οὐκ|ouk|...|G3756|Adv
 v21 ἀκηκόασιν|akēkoasin|have not heard|G191|V-RIA-3P
 v21 συνήσουσιν|synēsousin|will understand|G4920|V-FIA-3P
 v22 Διὸ|Dio|That is why|G1352|Conj

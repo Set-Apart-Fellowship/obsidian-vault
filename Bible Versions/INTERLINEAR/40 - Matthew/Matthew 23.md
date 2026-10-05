@@ -38,7 +38,7 @@ v3 ποιεῖτε|poieite|do|G4160|V-PMA-2P
 v3 λέγουσιν|legousin|they preach|G3004|V-PIA-3P
 v3 γὰρ|gar|for|G1063|Conj
 v3 καὶ|kai|what|G2532|Conj
-v3 οὐ|ou|vvv|G3756|Adv
+v3 οὐ|ou|...|G3756|Adv
 v3 ποιοῦσιν|poiousin|they do not practice|G4160|V-PIA-3P
 v4 δεσμεύουσιν|desmeuousin|They tie up|G1195|V-PIA-3P
 v4 δὲ|de|-|G1161|Conj
@@ -55,10 +55,10 @@ v4 τῶν|tōn|-|G3588|Art-GMP
 v4 ἀνθρώπων|anthrōpōn|men's|G444|N-GMP
 v4 αὐτοὶ|autoi|they themselves|G846|PPro-NM3P
 v4 δὲ|de|but|G1161|Conj
-v4 τῷ|tō|vvv|G3588|Art-DMS
+v4 τῷ|tō|...|G3588|Art-DMS
 v4 δακτύλῳ|daktylō|to lift a finger|G1147|N-DMS
-v4 αὐτῶν|autōn|vvv|G846|PPro-GM3P
-v4 οὐ|ou|vvv|G3756|Adv
+v4 αὐτῶν|autōn|...|G846|PPro-GM3P
+v4 οὐ|ou|...|G3756|Adv
 v4 θέλουσιν|thelousin|are not willing|G2309|V-PIA-3P
 v4 κινῆσαι|kinēsai|to move|G2795|V-ANA
 v4 αὐτά|auta|them|G846|PPro-AN3P
@@ -109,7 +109,7 @@ v7 ἀνθρώπων|anthrōpōn|[which they are addressed]|G444|N-GMP
 v7 Ῥαββί|Rhabbi|of ‘Rabbi|G4461|N-NMS
 v8 Ὑμεῖς|Hymeis|you|G4771|PPro-N2P
 v8 δὲ|de|But|G1161|Conj
-v8 μὴ|mē|vvv|G3361|Adv
+v8 μὴ|mē|...|G3361|Adv
 v8 κληθῆτε|klēthēte|are not to be called|G2564|V-ASP-2P
 v8 Ῥαββί|Rhabbi|Rabbi|G4461|N-NMS
 v8 εἷς|heis|one|G1520|Adj-NMS
@@ -184,7 +184,7 @@ v13 τῶν|tōn|...|G3588|Art-GMP
 v13 ἀνθρώπων|anthrōpōn|...|G444|N-GMP
 v13 ὑμεῖς|hymeis|You yourselves|G4771|PPro-N2P
 v13 γὰρ|gar|-|G1063|Conj
-v13 οὐκ|ouk|vvv|G3756|Adv
+v13 οὐκ|ouk|...|G3756|Adv
 v13 εἰσέρχεσθε|eiserchesthe|do not enter|G1525|V-PIM/P-2P
 v13 οὐδὲ|oude|nor|G3761|Conj
 v13 τοὺς|tous|those who|G3588|Art-AMP
@@ -490,8 +490,8 @@ v30 ἡμέραις|hēmerais|days|G2250|N-DFP
 v30 τῶν|tōn|-|G3588|Art-GMP
 v30 πατέρων|paterōn|fathers|G3962|N-GMP
 v30 ἡμῶν|hēmōn|of our|G1473|PPro-G1P
-v30 οὐκ|ouk|vvv|G3756|Adv
-v30 ἂν|an|vvv|G302|Prtcl
+v30 οὐκ|ouk|...|G3756|Adv
+v30 ἂν|an|...|G302|Prtcl
 v30 ἤμεθα|ēmetha|we would not have been|G1510|V-IIM-1P
 v30 αὐτῶν|autōn|with them|G846|PPro-GM3P
 v30 κοινωνοὶ|koinōnoi|partners|G2844|N-NMP
@@ -629,7 +629,7 @@ v37 ὑπὸ|hypo|under|G5259|Prep
 v37 τὰς|tas|[her]|G3588|Art-AFP
 v37 πτέρυγας|pterygas|wings|G4420|N-AFP
 v37 καὶ|kai|but|G2532|Conj
-v37 οὐκ|ouk|vvv|G3756|Adv
+v37 οὐκ|ouk|...|G3756|Adv
 v37 ἠθελήσατε|ēthelēsate|you were unwilling|G2309|V-AIA-2P
 v38 ἰδοὺ|idou|Look|G2400|V-AMA-2S
 v38 ἀφίεται|aphietai|is left|G863|V-PIM/P-3S
@@ -641,8 +641,8 @@ v38 ‹ἔρημος›|erēmos|desolate|G2048|Adj-NMS
 v39 λέγω|legō|I tell|G3004|V-PIA-1S
 v39 γὰρ|gar|For|G1063|Conj
 v39 ὑμῖν|hymin|you [that]|G4771|PPro-D2P
-v39 οὐ|ou|vvv|G3756|Adv
-v39 μή|mē|vvv|G3361|Adv
+v39 οὐ|ou|...|G3756|Adv
+v39 μή|mē|...|G3361|Adv
 v39 με|me|Me|G1473|PPro-A1S
 v39 ἴδητε|idēte|you will not see|G3708|V-ASA-2P
 v39 ἀπ’|ap’|again|G575|Prep

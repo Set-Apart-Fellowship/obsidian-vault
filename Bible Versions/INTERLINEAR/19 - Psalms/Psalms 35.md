@@ -107,7 +107,7 @@ v13 חֵיקִ֥י|ḥê·qî|...|H2436|N-msc | 1cs
 v13 תָשֽׁוּב׃|ṯā·šūḇ|returned|H7725|V-Qal-Imperf-3fs
 v14 כְּרֵֽעַ־|kə·rê·a‘-|as for my friend|H7453|Prep-k | N-ms
 v14 כְּאָ֣ח|kə·’āḥ|or brother|H251|Prep-k | N-ms
-v14 לִ֭י|lî||H0|Prep | 1cs
+v14 לִ֭י|lî|-|H0|Prep | 1cs
 v14 הִתְהַלָּ֑כְתִּי|hiṯ·hal·lā·ḵə·tî|I paced about|H1980|V-Hitpael-Perf-1cs
 v14 כַּאֲבֶל־|ka·’ă·ḇel-|like one mourning|H57|Prep-k | Adj-msc
 v14 אֵ֝֗ם|’êm|[for his] mother|H517|N-fs

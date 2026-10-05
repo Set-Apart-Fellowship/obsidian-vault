@@ -23,7 +23,7 @@ v2 אָהַ֙בְתָּ֙|’ā·haḇ·tā|you love|H157|V-Qal-Perf-2ms
 v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 יִצְחָ֔ק|yiṣ·ḥāq|son Isaac|H3327|N-proper-ms
 v2 וְלֶךְ־|wə·leḵ-|and go|H1980|Conj-w | V-Qal-Imp-ms
-v2 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v2 אֶל־|’el-|to|H413|Prep
 v2 אֶ֖רֶץ|’e·reṣ|the land|H776|N-fsc
 v2 הַמֹּרִיָּ֑ה|ham·mō·rî·yāh|of Moriah|H4179|Art | N-proper-fs
@@ -76,7 +76,7 @@ v5 אַבְרָהָ֜ם|’aḇ·rā·hām|Abraham|H85|N-proper-ms
 v5 אֶל־|’el-|...|H413|Prep
 v5 נְעָרָ֗יו|nə·‘ā·rāw|his servants|H5288|N-mpc | 3ms
 v5 שְׁבוּ־|šə·ḇū-|Stay|H3427|V-Qal-Imp-mp
-v5 לָכֶ֥ם|lā·ḵem||H0|Prep | 2mp
+v5 לָכֶ֥ם|lā·ḵem|-|H0|Prep | 2mp
 v5 פֹּה֙|pōh|here|H6311|Adv
 v5 עִֽם־|‘im-|with|H5973|Prep
 v5 הַחֲמ֔וֹר|ha·ḥă·mō·wr|the donkey|H2543|Art | N-ms
@@ -137,7 +137,7 @@ v8 יַחְדָּֽו׃|yaḥ·dāw|together|H3162|Adv
 v9 וַיָּבֹ֗אוּ|way·yā·ḇō·’ū|When they arrived|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v9 אֶֽל־|’el-|at|H413|Prep
 v9 הַמָּקוֹם֮|ham·mā·qō·wm|the place|H4725|Art | N-ms
-v9 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v9 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v9 אָֽמַר־|’ā·mar-|had designated|H559|V-Qal-Perf-3ms
 v9 ל֣וֹ|lōw|...|H0|Prep | 3ms
 v9 הָאֱלֹהִים֒|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
@@ -209,7 +209,7 @@ v13 אַבְרָהָ֜ם|’aḇ·rā·hām|Then Abraham|H85|N-proper-ms
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 עֵינָ֗יו|‘ê·nāw|...|H5869|N-cdc | 3ms
 v13 וַיַּרְא֙|way·yar|and saw|H7200|Conj-w | V-Qal-ConsecImperf-3ms
-v13 וְהִנֵּה־|wə·hin·nêh-||H2009|Conj-w | Interjection
+v13 וְהִנֵּה־|wə·hin·nêh-|-|H2009|Conj-w | Interjection
 v13 אַ֔יִל|’a·yil|a ram|H352|N-ms
 v13 אַחַ֕ר|’a·ḥar|behind [him]|H310|Adv
 v13 נֶאֱחַ֥ז|ne·’ĕ·ḥaz|caught|H270|V-Nifal-Perf-3ms
@@ -299,12 +299,12 @@ v19 וַיָּקֻ֛מוּ|way·yā·qu·mū|and they got up|H6965|Conj-w | V-Qa
 v19 וַיֵּלְכ֥וּ|way·yê·lə·ḵū|and set out|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v19 יַחְדָּ֖ו|yaḥ·dāw|together|H3162|Adv
 v19 אֶל־|’el-|for|H413|Prep
-v19 בְּאֵ֣ר|bə·’êr|vvv|H884|Prep
+v19 בְּאֵ֣ר|bə·’êr|...|H884|Prep
 v19 שָׁ֑בַע|šā·ḇa‘|Beersheba|H884|N-proper-fs
 v19 וַיֵּ֥שֶׁב|way·yê·šeḇ|settled|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v19 אַבְרָהָ֖ם|’aḇ·rā·hām|And Abraham|H85|N-proper-ms
 v19 בִּבְאֵ֥ר|biḇ·’êr|in|H884|Prep
-v19 שָֽׁבַע׃פ|šā·ḇa‘|Beersheba|H884|Prep | N-proper-fs
+v19 שָֽׁבַע׃|šā·ḇa‘|Beersheba|H884|Prep | N-proper-fs
 v20 וַיְהִ֗י|way·hî|Some time later|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אַחֲרֵי֙|’a·ḥă·rê|...|H310|Prep
 v20 הַדְּבָרִ֣ים|had·də·ḇā·rîm|...|H1697|Art | N-mp
@@ -364,4 +364,4 @@ v24 גַּ֔חַם|ga·ḥam|Gaham|H1514|N-proper-ms
 v24 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v24 תַּ֖חַשׁ|ta·ḥaš|Tahash|H8477|N-proper-ms
 v24 וְאֶֽת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v24 מַעֲכָֽה׃ס|ma·‘ă·ḵāh|and Maacah|H4601|N-proper-ms
+v24 מַעֲכָֽה׃|ma·‘ă·ḵāh|and Maacah|H4601|N-proper-ms

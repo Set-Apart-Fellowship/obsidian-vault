@@ -161,7 +161,7 @@ v23 וְלֹֽא־|wə·lō-|not|H3808|Conj-w | Adv-NegPrt
 v23 יָ֝דַ֗ע|yā·ḏa‘|knowing|H3045|V-Qal-Perf-3ms
 v23 כִּֽי־|kî-|...|H3588|Conj
 v23 בְנַפְשׁ֥וֹ|ḇə·nap̄·šōw|will cost him his life|H5315|Prep-b | N-fsc | 3ms
-v23 הֽוּא׃פ|hū|it|H1931|Pro-3ms
+v23 הֽוּא׃|hū|it|H1931|Pro-3ms
 v24 וְעַתָּ֣ה|wə·‘at·tāh|Now|H6258|Conj-w | Adv
 v24 בָ֭נִים|ḇā·nîm|my sons|H1121|N-mp
 v24 שִׁמְעוּ־|šim·‘ū-|listen|H8085|V-Qal-Imp-mp
@@ -190,4 +190,4 @@ v27 בֵּיתָ֑הּ|bê·ṯāh|Her house|H1004|N-msc | 3fs
 v27 יֹ֝רְד֗וֹת|yō·rə·ḏō·wṯ|descending|H3381|V-Qal-Prtcpl-fp
 v27 אֶל־|’el-|to|H413|Prep
 v27 חַדְרֵי־|ḥaḏ·rê-|the chambers|H2315|N-mpc
-v27 מָֽוֶת׃פ|mā·weṯ|of death|H4194|N-ms
+v27 מָֽוֶת׃|mā·weṯ|of death|H4194|N-ms

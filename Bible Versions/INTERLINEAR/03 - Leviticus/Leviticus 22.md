@@ -17,10 +17,10 @@ v2 יְחַלְּל֖וּ|yə·ḥal·lə·lū|profane|H2490|V-Piel-Imperf-3mp
 v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 שֵׁ֣ם|šêm|name|H8034|N-msc
 v2 קָדְשִׁ֑י|qāḏ·šî|My holy|H6944|N-msc | 1cs
-v2 אֲשֶׁ֨ר|’ă·šer||H834|Pro-r
+v2 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v2 הֵ֧ם|hêm|-|H1992|Pro-3mp
 v2 מַקְדִּשִׁ֛ים|maq·di·šîm|have consecrated to Me|H6942|V-Hifil-Prtcpl-mp
-v2 לִ֖י|lî||H0|Prep | 1cs
+v2 לִ֖י|lî|-|H0|Prep | 1cs
 v2 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v2 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v3 אֱמֹ֣ר|’ĕ·mōr|Tell|H559|V-Qal-Imp-ms
@@ -28,7 +28,7 @@ v3 אֲלֵהֶ֗ם|’ă·lê·hem|them [that]|H413|Prep | 3mp
 v3 לְדֹרֹ֨תֵיכֶ֜ם|lə·ḏō·rō·ṯê·ḵem|for the generations to come|H1755|Prep-l | N-mpc | 2mp
 v3 כָּל־|kāl-|if any|H3605|N-msc
 v3 אִ֣ישׁ׀|’îš|-|H376|N-ms
-v3 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v3 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v3 יִקְרַ֣ב|yiq·raḇ|approaches|H7126|V-Qal-Imperf-3ms
 v3 מִכָּל־|mik·kāl|-|H3605|Prep-m | N-msc
 v3 זַרְעֲכֶ֗ם|zar·‘ă·ḵem|of [their] descendants|H2233|N-msc | 2mp
@@ -69,7 +69,7 @@ v4 א֣וֹ|’ōw|or|H176|Conj
 v4 אִ֔ישׁ|’îš|by a man|H376|N-ms
 v4 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
 v4 תֵּצֵ֥א|tê·ṣê|has|H3318|V-Qal-Imperf-3fs
-v4 מִמֶּ֖נּוּ|mim·men·nū||H4480|Prep | 3ms
+v4 מִמֶּ֖נּוּ|mim·men·nū|-|H4480|Prep | 3ms
 v4 שִׁכְבַת־|šiḵ·ḇaṯ-|an emission|H7902|N-fsc
 v4 זָֽרַע׃|zā·ra‘|of semen|H2233|N-ms
 v5 אוֹ־|’ōw-|or|H176|Conj
@@ -80,12 +80,12 @@ v5 בְּכָל־|bə·ḵāl|a|H3605|Prep-b | N-msc
 v5 שֶׁ֖רֶץ|še·reṣ|crawling creature|H8318|N-ms
 v5 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v5 יִטְמָא־|yiṭ·mā-|-|H2930|V-Qal-Imperf-3ms
-v5 ל֑וֹ|lōw||H0|Prep | 3ms
+v5 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v5 א֤וֹ|’ōw|or|H176|Conj
 v5 בְאָדָם֙|ḇə·’ā·ḏām|a person|H120|Prep-b | N-ms
 v5 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v5 יִטְמָא־|yiṭ·mā-|makes him unclean|H2930|V-Qal-Imperf-3ms
-v5 ל֔וֹ|lōw||H0|Prep | 3ms
+v5 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v5 לְכֹ֖ל|lə·ḵōl|whatever|H3605|Prep-l | N-msc
 v5 טֻמְאָתֽוֹ׃|ṭum·’ā·ṯōw|the uncleanness may be|H2932|N-fsc | 3ms
 v6 נֶ֚פֶשׁ|ne·p̄eš|the man|H5315|N-fs
@@ -119,7 +119,7 @@ v8 וּטְרֵפָ֛ה|ū·ṭə·rê·p̄āh|or torn by wild animals|H2966|Con
 v8 לֹ֥א|lō|He must not|H3808|Adv-NegPrt
 v8 יֹאכַ֖ל|yō·ḵal|eat|H398|V-Qal-Imperf-3ms
 v8 לְטָמְאָה־|lə·ṭā·mə·’āh-|which would make him unclean|H2930|Prep-l | V-Qal-Inf | 3fs
-v8 בָ֑הּ|ḇāh||H0|Prep | 3fs
+v8 בָ֑הּ|ḇāh|-|H0|Prep | 3fs
 v8 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v8 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v9 וְשָׁמְר֣וּ|wə·šā·mə·rū|[The priests] must keep|H8104|Conj-w | V-Qal-ConjPerf-3cp
@@ -130,7 +130,7 @@ v9 יִשְׂא֤וּ|yiś·’ū|they bear|H5375|V-Qal-Imperf-3mp
 v9 עָלָיו֙|‘ā·lāw|-|H5921|Prep | 3ms
 v9 חֵ֔טְא|ḥêṭ|the guilt|H2399|N-ms
 v9 וּמֵ֥תוּ|ū·mê·ṯū|and die|H4191|Conj-w | V-Qal-ConjPerf-3cp
-v9 ב֖וֹ|ḇōw||H0|Prep | 3ms
+v9 ב֖וֹ|ḇōw|-|H0|Prep | 3ms
 v9 כִּ֣י|kî|because|H3588|Conj
 v9 יְחַלְּלֻ֑הוּ|yə·ḥal·lə·lu·hū|they profane it|H2490|V-Piel-Imperf-3mp | 3ms
 v9 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
@@ -155,7 +155,7 @@ v11 קִנְיַ֣ן|qin·yan|with|H7075|N-msc
 v11 כַּסְפּ֔וֹ|kas·pōw|his own money|H3701|N-msc | 3ms
 v11 ה֖וּא|hū|that [slave]|H1931|Pro-3ms
 v11 יֹ֣אכַל|yō·ḵal|may eat|H398|V-Qal-Imperf-3ms
-v11 בּ֑וֹ|bōw||H0|Prep | 3ms
+v11 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v11 וִילִ֣יד|wî·lîḏ|is born|H3211|Conj-w | N-msc
 v11 בֵּית֔וֹ|bê·ṯōw|in his household|H1004|N-msc | 3ms
 v11 הֵ֖ם|hêm|or if [a slave]|H1992|Pro-3mp
@@ -193,7 +193,7 @@ v13 וְכָל־|wə·ḵāl|But no|H3605|Conj-w | N-msc
 v13 זָ֖ר|zār|outsider|H2114|Adj-ms
 v13 לֹא־|lō-|...|H3808|Adv-NegPrt
 v13 יֹ֥אכַל|yō·ḵal|may share|H398|V-Qal-Imperf-3ms
-v13 בּֽוֹ׃ס|bōw|it|H0|Prep | 3ms
+v13 בּֽוֹ׃|bōw|it|H0|Prep | 3ms
 v14 וְאִ֕ישׁ|wə·’îš|anyone|H376|Conj-w | N-ms
 v14 כִּֽי־|kî-|If|H3588|Conj
 v14 יֹאכַ֥ל|yō·ḵal|eats|H398|V-Qal-Imperf-3ms
@@ -226,7 +226,7 @@ v16 קָדְשֵׁיהֶ֑ם|qā·ḏə·šê·hem|the sacred offerings|H6944|N-
 v16 כִּ֛י|kî|For|H3588|Conj
 v16 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v16 יְהוָ֖ה|Yah·weh|am the LORD|H3068|N-proper-ms
-v16 מְקַדְּשָֽׁם׃פ|mə·qad·də·šām|who sanctifies them|H6942|V-Piel-Prtcpl-msc | 3mp
+v16 מְקַדְּשָֽׁם׃|mə·qad·də·šām|who sanctifies them|H6942|V-Piel-Prtcpl-msc | 3mp
 v17 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v17 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v17 אֶל־|’el-|to|H413|Prep
@@ -258,7 +258,7 @@ v18 נִדְרֵיהֶם֙|niḏ·rê·hem|whether to fulfill a vow|H5088|N-mpc 
 v18 וּלְכָל־|ū·lə·ḵāl-|or as a|H3605|Conj-w, Prep-l | N-msc
 v18 נִדְבוֹתָ֔ם|niḏ·ḇō·w·ṯām|freewill offering|H5071|N-fpc | 3mp
 v18 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v18 יַקְרִ֥יבוּ|yaq·rî·ḇū||H7126|V-Hifil-Imperf-3mp
+v18 יַקְרִ֥יבוּ|yaq·rî·ḇū|-|H7126|V-Hifil-Imperf-3mp
 v18 לַיהוָ֖ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v18 לְעֹלָֽה׃|lə·‘ō·lāh|for a burnt offering|H5930|Prep-l | N-fs
 v19 לִֽרְצֹנְכֶ֑ם|lir·ṣō·nə·ḵem|in order for it to be accepted on your behalf|H7522|Prep-l | N-msc | 2mp
@@ -269,7 +269,7 @@ v19 בַּכְּשָׂבִ֖ים|bak·kə·śā·ḇîm|sheep|H3775|Prep-b, Art 
 v19 וּבָֽעִזִּֽים׃|ū·ḇā·‘iz·zîm|or goats|H5795|Conj-w, Prep-b, Art | N-fp
 v20 כֹּ֛ל|kōl|anything|H3605|N-ms
 v20 אֲשֶׁר־|’ă·šer-|with|H834|Pro-r
-v20 בּ֥וֹ|bōw||H0|Prep | 3ms
+v20 בּ֥וֹ|bōw|-|H0|Prep | 3ms
 v20 מ֖וּם|mūm|a defect|H3971|N-ms
 v20 לֹ֣א|lō|You must not|H3808|Adv-NegPrt
 v20 תַקְרִ֑יבוּ|ṯaq·rî·ḇū|present|H7126|V-Hifil-Imperf-2mp
@@ -281,7 +281,7 @@ v20 לָכֶֽם׃|lā·ḵem|on your behalf|H0|Prep | 2mp
 v21 וְאִ֗ישׁ|wə·’îš|a man|H376|Conj-w | N-ms
 v21 כִּֽי־|kî-|When|H3588|Conj
 v21 יַקְרִ֤יב|yaq·rîḇ|presents|H7126|V-Hifil-Imperf-3ms
-v21 זֶֽבַח־|ze·ḇaḥ-|vvv|H2077|N-msc
+v21 זֶֽבַח־|ze·ḇaḥ-|...|H2077|N-msc
 v21 שְׁלָמִים֙|šə·lā·mîm|a peace offering|H8002|N-mp
 v21 לַיהוָ֔ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v21 לְפַלֵּא־|lə·p̄al·lê-|to fulfill|H6381|Prep-l | V-Piel-Inf
@@ -297,8 +297,8 @@ v21 לְרָצ֔וֹן|lə·rā·ṣō·wn|to be acceptable|H7522|Prep-l | N-ms
 v21 כָּל־|kāl-|-|H3605|N-msc
 v21 מ֖וּם|mūm|[or] defect|H3971|N-ms
 v21 לֹ֥א|lō|-|H3808|Adv-NegPrt
-v21 יִהְיֶה־|yih·yeh-||H1961|V-Qal-Imperf-3ms
-v21 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v21 יִהְיֶה־|yih·yeh-|-|H1961|V-Qal-Imperf-3ms
+v21 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v22 עַוֶּרֶת֩|‘aw·we·reṯ|that is blind|H5788|N-fs
 v22 א֨וֹ|’ōw|or|H176|Conj
 v22 שָׁב֜וּר|šā·ḇūr|injured|H7667|N-ms
@@ -353,12 +353,12 @@ v25 מִכָּל־|mik·kāl|from any|H3605|Prep-m | N-msc
 v25 אֵ֑לֶּה|’êl·leh|such [animal]|H428|Pro-cp
 v25 כִּ֣י|kî|because|H3588|Conj
 v25 מָשְׁחָתָ֤ם|mā·šə·ḥā·ṯām|they are deformed|H4893|N-msc | 3mp
-v25 בָּהֶם֙|bā·hem||H0|Prep | 3mp
+v25 בָּהֶם֙|bā·hem|-|H0|Prep | 3mp
 v25 מ֣וּם|mūm|and flawed|H3971|N-ms
-v25 בָּ֔ם|bām||H0|Prep | 3mp
+v25 בָּ֔ם|bām|-|H0|Prep | 3mp
 v25 לֹ֥א|lō|They will not|H3808|Adv-NegPrt
 v25 יֵרָצ֖וּ|yê·rā·ṣū|be accepted|H7521|V-Nifal-Imperf-3mp
-v25 לָכֶֽם׃פ|lā·ḵem|on your behalf|H0|Prep | 2mp
+v25 לָכֶֽם׃|lā·ḵem|on your behalf|H0|Prep | 2mp
 v26 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v26 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v26 אֶל־|’el-|to|H413|Prep
@@ -436,4 +436,4 @@ v33 לִהְי֥וֹת|lih·yō·wṯ|to be|H1961|Prep-l | V-Qal-Inf
 v33 לָכֶ֖ם|lā·ḵem|your|H0|Prep | 2mp
 v33 לֵאלֹהִ֑ים|lê·lō·hîm|God|H430|Prep-l | N-mp
 v33 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
-v33 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v33 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms

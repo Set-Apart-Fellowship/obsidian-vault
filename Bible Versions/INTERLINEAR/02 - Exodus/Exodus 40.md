@@ -139,7 +139,7 @@ v13 אֹת֛וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v13 וְקִדַּשְׁתָּ֥|wə·qid·daš·tā|and consecrate him|H6942|Conj-w | V-Piel-ConjPerf-2ms
 v13 אֹת֖וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v13 וְכִהֵ֥ן|wə·ḵi·hên|so that he may serve Me as a priest|H3547|Conj-w | V-Piel-ConjPerf-3ms
-v13 לִֽי׃|lî||H0|Prep | 1cs
+v13 לִֽי׃|lî|-|H0|Prep | 1cs
 v14 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v14 בָּנָ֖יו|bā·nāw|Bring his sons|H1121|N-mpc | 3ms
 v14 תַּקְרִ֑יב|taq·rîḇ|forward|H7126|V-Hifil-Imperf-2ms
@@ -153,9 +153,9 @@ v15 מָשַׁ֙חְתָּ֙|mā·šaḥ·tā|you anointed|H4886|V-Qal-Perf-2ms
 v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 אֲבִיהֶ֔ם|’ă·ḇî·hem|their father|H1|N-msc | 3mp
 v15 וְכִהֲנ֖וּ|wə·ḵi·hă·nū|so that they may also serve Me as priests|H3547|Conj-w | V-Piel-ConjPerf-3cp
-v15 לִ֑י|lî||H0|Prep | 1cs
+v15 לִ֑י|lî|-|H0|Prep | 1cs
 v15 וְ֠הָיְתָה|wə·hā·yə·ṯāh|will qualify|H1961|Conj-w | V-Qal-ConjPerf-3fs
-v15 לִהְיֹ֨ת|lih·yōṯ||H1961|Prep-l | V-Qal-Inf
+v15 לִהְיֹ֨ת|lih·yōṯ|-|H1961|Prep-l | V-Qal-Inf
 v15 לָהֶ֧ם|lā·hem|them|H0|Prep | 3mp
 v15 מָשְׁחָתָ֛ם|mā·šə·ḥā·ṯām|Their anointing|H4888|N-fsc | 3mp
 v15 לִכְהֻנַּ֥ת|liḵ·hun·naṯ|priesthood|H3550|Prep-l | N-fsc
@@ -169,7 +169,7 @@ v16 צִוָּ֧ה|ṣiw·wāh|had commanded him|H6680|V-Piel-Perf-3ms
 v16 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v16 אֹת֖וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v16 כֵּ֥ן|kên|-|H3651|Adv
-v16 עָשָֽׂה׃ס|‘ā·śāh|...|H6213|V-Qal-Perf-3ms
+v16 עָשָֽׂה׃|‘ā·śāh|...|H6213|V-Qal-Perf-3ms
 v17 וַיְהִ֞י|way·hî|So|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v17 בַּחֹ֧דֶשׁ|ba·ḥō·ḏeš|month|H2320|Prep-b, Art | N-ms
 v17 הָרִאשׁ֛וֹן|hā·ri·šō·wn|of the first|H7223|Art | Adj-ms
@@ -210,7 +210,7 @@ v19 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v19 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v19 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v19 אֶת־|’eṯ-|-|H853|DirObjM
-v19 מֹשֶֽׁה׃ס|mō·šeh|[him]|H4872|N-proper-ms
+v19 מֹשֶֽׁה׃|mō·šeh|[him]|H4872|N-proper-ms
 v20 וַיִּקַּ֞ח|way·yiq·qaḥ|Moses took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v20 וַיִּתֵּ֤ן|way·yit·tên|and placed|H5414|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
@@ -245,7 +245,7 @@ v21 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v21 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v21 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v21 אֶת־|’eṯ-|-|H853|DirObjM
-v21 מֹשֶֽׁה׃ס|mō·šeh|him|H4872|N-proper-ms
+v21 מֹשֶֽׁה׃|mō·šeh|him|H4872|N-proper-ms
 v22 וַיִּתֵּ֤ן|way·yit·tên|Moses placed|H5414|Conj-w | V-Qal-ConsecImperf-3ms
 v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 הַשֻּׁלְחָן֙|haš·šul·ḥān|the table|H7979|Art | N-ms
@@ -267,7 +267,7 @@ v23 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v23 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v23 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v23 אֶת־|’eṯ-|-|H853|DirObjM
-v23 מֹשֶֽׁה׃ס|mō·šeh|him|H4872|N-proper-ms
+v23 מֹשֶֽׁה׃|mō·šeh|him|H4872|N-proper-ms
 v24 וַיָּ֤שֶׂם|way·yā·śem|He also placed|H7760|Conj-w | V-Qal-ConsecImperf-3ms
 v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 הַמְּנֹרָה֙|ham·mə·nō·rāh|the lampstand|H4501|Art | N-fs
@@ -287,7 +287,7 @@ v25 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v25 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v25 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v25 אֶת־|’eṯ-|-|H853|DirObjM
-v25 מֹשֶֽׁה׃ס|mō·šeh|him|H4872|N-proper-ms
+v25 מֹשֶֽׁה׃|mō·šeh|him|H4872|N-proper-ms
 v26 וַיָּ֛שֶׂם|way·yā·śem|Moses placed|H7760|Conj-w | V-Qal-ConsecImperf-3ms
 v26 אֶת־|’eṯ-|-|H853|DirObjM
 v26 מִזְבַּ֥ח|miz·baḥ|altar|H4196|N-msc
@@ -304,7 +304,7 @@ v27 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v27 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v27 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v27 אֶת־|’eṯ-|-|H853|DirObjM
-v27 מֹשֶֽׁה׃פ|mō·šeh|him|H4872|N-proper-ms
+v27 מֹשֶֽׁה׃|mō·šeh|him|H4872|N-proper-ms
 v28 וַיָּ֛שֶׂם|way·yā·śem|Then he put up|H7760|Conj-w | V-Qal-ConsecImperf-3ms
 v28 אֶת־|’eṯ-|-|H853|DirObjM
 v28 מָסַ֥ךְ|mā·saḵ|the curtain|H4539|N-msc
@@ -328,7 +328,7 @@ v29 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v29 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v29 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v29 אֶת־|’eṯ-|-|H853|DirObjM
-v29 מֹשֶֽׁה׃ס|mō·šeh|him|H4872|N-proper-ms
+v29 מֹשֶֽׁה׃|mō·šeh|him|H4872|N-proper-ms
 v30 וַיָּ֙שֶׂם֙|way·yā·śem|He placed|H7760|Conj-w | V-Qal-ConsecImperf-3ms
 v30 אֶת־|’eṯ-|-|H853|DirObjM
 v30 הַכִּיֹּ֔ר|hak·kî·yōr|the basin|H3595|Art | N-ms
@@ -362,7 +362,7 @@ v32 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v32 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v32 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v32 אֶת־|’eṯ-|-|H853|DirObjM
-v32 מֹשֶֽׁה׃ס|mō·šeh|Moses|H4872|N-proper-ms
+v32 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v33 וַיָּ֣קֶם|way·yā·qem|And Moses set up|H6965|Conj-w | V-Hifil-ConsecImperf-3ms
 v33 אֶת־|’eṯ-|-|H853|DirObjM
 v33 הֶחָצֵ֗ר|he·ḥā·ṣêr|the courtyard|H2691|Art | N-cs
@@ -377,7 +377,7 @@ v33 הֶחָצֵ֑ר|he·ḥā·ṣêr|to the courtyard|H2691|Art | N-cs
 v33 וַיְכַ֥ל|way·ḵal|finished|H3615|Conj-w | V-Piel-ConsecImperf-3ms
 v33 מֹשֶׁ֖ה|mō·šeh|So Moses|H4872|N-proper-ms
 v33 אֶת־|’eṯ-|-|H853|DirObjM
-v33 הַמְּלָאכָֽה׃פ|ham·mə·lā·ḵāh|the work|H4399|Art | N-fs
+v33 הַמְּלָאכָֽה׃|ham·mə·lā·ḵāh|the work|H4399|Art | N-fs
 v34 וַיְכַ֥ס|way·ḵas|covered|H3680|Conj-w | V-Piel-ConsecImperf-3ms
 v34 הֶעָנָ֖ן|he·‘ā·nān|Then the cloud|H6051|Art | N-ms
 v34 אֶת־|’eṯ-|-|H853|DirObjM

@@ -90,7 +90,7 @@ v5 בְגָדִ֖ים|ḇə·ḡā·ḏîm|their garments|H899|N-mp
 v5 וּמִתְגֹּֽדְדִ֑ים|ū·miṯ·gō·ḏə·ḏîm|and cut themselves|H1413|Conj-w | V-Hitpael-Prtcpl-mp
 v5 וּמִנְחָ֤ה|ū·min·ḥāh|grain offerings|H4503|Conj-w | N-fs
 v5 וּלְבוֹנָה֙|ū·lə·ḇō·w·nāh|and frankincense|H3828|Conj-w | N-fs
-v5 בְּיָדָ֔ם|bə·yā·ḏām|vvv|H3027|Prep-b | N-fsc | 3mp
+v5 בְּיָדָ֔ם|bə·yā·ḏām|...|H3027|Prep-b | N-fsc | 3mp
 v5 לְהָבִ֖יא|lə·hā·ḇî|carrying|H935|Prep-l | V-Hifil-Inf
 v5 בֵּ֥ית|bêṯ|for the house|H1004|N-msc
 v5 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -113,7 +113,7 @@ v6 בֹּ֖אוּ|bō·’ū|Come|H935|V-Qal-Imp-mp
 v6 אֶל־|’el-|...|H413|Prep
 v6 גְּדַלְיָ֥הוּ|gə·ḏal·yā·hū|Gedaliah|H1436|N-proper-ms
 v6 בֶן־|ḇen-|son|H1121|N-msc
-v6 אֲחִיקָֽם׃ס|’ă·ḥî·qām|of Ahikam|H296|N-proper-ms
+v6 אֲחִיקָֽם׃|’ă·ḥî·qām|of Ahikam|H296|N-proper-ms
 v7 וַיְהִ֕י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v7 כְּבוֹאָ֖ם|kə·ḇō·w·’ām|And when they came|H935|Prep-k | V-Qal-Inf | 3mp
 v7 אֶל־|’el-|into|H413|Prep
@@ -132,7 +132,7 @@ v7 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v7 אִתּֽוֹ׃|’it·tōw|with him|H854|Prep | 3ms
 v8 וַעֲשָׂרָ֨ה|wa·‘ă·śā·rāh|But ten|H6235|Conj-w | Number-ms
 v8 אֲנָשִׁ֜ים|’ă·nā·šîm|of the men|H582|N-mp
-v8 נִמְצְאוּ־|nim·ṣə·’ū-||H4672|V-Nifal-Perf-3cp
+v8 נִמְצְאוּ־|nim·ṣə·’ū-|-|H4672|V-Nifal-Perf-3cp
 v8 בָ֗ם|ḇām|among them|H0|Prep | 3mp
 v8 וַיֹּאמְר֤וּ|way·yō·mə·rū|said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v8 אֶל־|’el-|to|H413|Prep
@@ -141,7 +141,7 @@ v8 אַל־|’al-|Do not|H408|Adv
 v8 תְּמִתֵ֔נוּ|tə·mi·ṯê·nū|kill us|H4191|V-Hifil-Imperf-2ms | 1cp
 v8 כִּֽי־|kî-|for|H3588|Conj
 v8 יֶשׁ־|yeš-|we have|H3426|Adv
-v8 לָ֤נוּ|lā·nū||H0|Prep | 1cp
+v8 לָ֤נוּ|lā·nū|-|H0|Prep | 1cp
 v8 מַטְמֹנִים֙|maṭ·mō·nîm|hidden treasure|H4301|N-mp
 v8 בַּשָּׂדֶ֔ה|baś·śā·ḏeh|in the field|H7704|Prep-b, Art | N-ms
 v8 חִטִּ֥ים|ḥiṭ·ṭîm|wheat|H2406|N-fp
@@ -187,7 +187,7 @@ v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 כָּל־|kāl-|all|H3605|N-msc
 v10 שְׁאֵרִ֨ית|šə·’ê·rîṯ|the remnant|H7611|N-fsc
 v10 הָעָ֜ם|hā·‘ām|of the people|H5971|Art | N-ms
-v10 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v10 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v10 בַּמִּצְפָּ֗ה|bam·miṣ·pāh|of Mizpah|H4709|Prep-b, Art | N-proper-fs
 v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 בְּנ֤וֹת|bə·nō·wṯ|the daughters|H1323|N-fpc
@@ -214,7 +214,7 @@ v10 וַיֵּ֕לֶךְ|way·yê·leḵ|and set off|H1980|Conj-w | V-Qal-Consec
 v10 לַעֲבֹ֖ר|la·‘ă·ḇōr|to cross over|H5674|Prep-l | V-Qal-Inf
 v10 אֶל־|’el-|to|H413|Prep
 v10 בְּנֵ֥י|bə·nê|the Ammonites|H1121|N-mpc
-v10 עַמּֽוֹן׃ס|‘am·mō·wn|...|H5983|N-proper-ms
+v10 עַמּֽוֹן׃|‘am·mō·wn|...|H5983|N-proper-ms
 v11 וַיִּשְׁמַע֙|way·yiš·ma‘|heard|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v11 יוֹחָנָ֣ן|yō·w·ḥā·nān|When Johanan|H3110|N-proper-ms
 v11 בֶּן־|ben-|son|H1121|N-msc
@@ -222,7 +222,7 @@ v11 קָרֵ֔חַ|qā·rê·aḥ|of Kareah|H7143|N-proper-ms
 v11 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v11 שָׂרֵ֥י|śā·rê|the commanders|H8269|N-mpc
 v11 הַחֲיָלִ֖ים|ha·ḥă·yā·lîm|of the armies|H2428|Art | N-mp
-v11 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v11 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v11 אִתּ֑וֹ|’it·tōw|with|H854|Prep | 3ms
 v11 אֵ֤ת|’êṯ|him|H853|DirObjM
 v11 כָּל־|kāl-|of all|H3605|N-msc
@@ -275,7 +275,7 @@ v14 שָׁבָ֥ה|šā·ḇāh|had taken captive|H7617|V-Qal-Perf-3ms
 v14 יִשְׁמָעֵ֖אל|yiš·mā·‘êl|Ishmael|H3458|N-proper-ms
 v14 מִן־|min-|at|H4480|Prep
 v14 הַמִּצְפָּ֑ה|ham·miṣ·pāh|Mizpah|H4709|Art | N-proper-fs
-v14 וַיָּשֻׁ֙בוּ֙|way·yā·šu·ḇū|vvv|H7725|Conj-w | V-Qal-ConsecImperf-3mp
+v14 וַיָּשֻׁ֙בוּ֙|way·yā·šu·ḇū|...|H7725|Conj-w | V-Qal-ConsecImperf-3mp
 v14 וַיֵּ֣לְכ֔וּ|way·yê·lə·ḵū|and went over|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v14 אֶל־|’el-|to|H413|Prep
 v14 יֽוֹחָנָ֖ן|yō·w·ḥā·nān|Johanan|H3110|N-proper-ms
@@ -292,7 +292,7 @@ v15 יֽוֹחָנָ֑ן|yō·w·ḥā·nān|Johanan|H3110|N-proper-ms
 v15 וַיֵּ֖לֶךְ|way·yê·leḵ|and went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v15 אֶל־|’el-|to|H413|Prep
 v15 בְּנֵ֥י|bə·nê|the Ammonites|H1121|N-mpc
-v15 עַמּֽוֹן׃ס|‘am·mō·wn|...|H5983|N-proper-ms
+v15 עַמּֽוֹן׃|‘am·mō·wn|...|H5983|N-proper-ms
 v16 וַיִּקַּח֩|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v16 יוֹחָנָ֨ן|yō·w·ḥā·nān|Then Johanan|H3110|N-proper-ms
 v16 בֶּן־|ben-|son|H1121|N-msc
@@ -300,9 +300,9 @@ v16 קָרֵ֜חַ|qā·rê·aḥ|of Kareah|H7143|N-proper-ms
 v16 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v16 שָׂרֵ֧י|śā·rê|the commanders|H8269|N-mpc
 v16 הַחֲיָלִ֣ים|ha·ḥă·yā·lîm|of the armies|H2428|Art | N-mp
-v16 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v16 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v16 אִתּ֗וֹ|’it·tōw|with him|H854|Prep | 3ms
-v16 אֵ֣ת|’êṯ||H853|DirObjM
+v16 אֵ֣ת|’êṯ|-|H853|DirObjM
 v16 כָּל־|kāl-|the whole|H3605|N-msc
 v16 שְׁאֵרִ֤ית|šə·’ê·rîṯ|remnant|H7611|N-fsc
 v16 הָעָם֙|hā·‘ām|of the people|H5971|Art | N-ms
@@ -333,9 +333,9 @@ v17 וַיֵּלְכ֗וּ|way·yê·lə·ḵū|And they went|H1980|Conj-w | V-Q
 v17 וַיֵּֽשְׁבוּ֙|way·yê·šə·ḇū|and stayed|H3427|Conj-w | V-Qal-ConsecImperf-3mp
 v17 בְּגֵר֣וּת|bə·ḡê·rūṯ|in Geruth|H1628|Prep-b | N-fsc
 v17 כְּמוֹהֶם|kə·mō·hɛm|Chimham|H3644|N-proper-ms
-v17 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v17 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v17 אֵ֖צֶל|’ê·ṣel|near|H681|Prep
-v17 בֵּ֣ית|bêṯ||H1035|Prep
+v17 בֵּ֣ית|bêṯ|-|H1035|Prep
 v17 לָ֑חֶם|lā·ḥem|Bethlehem|H1035|N-proper-fs
 v17 לָלֶ֖כֶת|lā·le·ḵeṯ|in order to proceed|H1980|Prep-l | V-Qal-Inf
 v17 לָב֥וֹא|lā·ḇō·w|...|H935|Prep-l | V-Qal-Inf
@@ -358,4 +358,4 @@ v18 אֲשֶׁר־|’ă·šer-|whom|H834|Pro-r
 v18 הִפְקִ֥יד|hip̄·qîḏ|had appointed|H6485|V-Hifil-Perf-3ms
 v18 מֶֽלֶךְ־|me·leḵ-|the king|H4428|N-msc
 v18 בָּבֶ֖ל|bā·ḇel|of Babylon|H894|N-proper-fs
-v18 בָּאָֽרֶץ׃ס|bā·’ā·reṣ|over the land|H776|Prep-b, Art | N-fs
+v18 בָּאָֽרֶץ׃|bā·’ā·reṣ|over the land|H776|Prep-b, Art | N-fs

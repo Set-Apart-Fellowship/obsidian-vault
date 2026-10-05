@@ -104,7 +104,7 @@ v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v9 כַּמַּ֖יִם|kam·ma·yim|of water|H4325|Prep-k, Art | N-mp
 v9 לַיָּ֥ם|lay·yām|as the sea|H3220|Prep-l, Art | N-ms
-v9 מְכַסִּֽים׃פ|mə·ḵas·sîm|is full|H3680|V-Piel-Prtcpl-mp
+v9 מְכַסִּֽים׃|mə·ḵas·sîm|is full|H3680|V-Piel-Prtcpl-mp
 v10 וְהָיָה֙|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v10 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v10 הַה֔וּא|ha·hū|On that|H1931|Art | Pro-3ms
@@ -119,7 +119,7 @@ v10 גּוֹיִ֣ם|gō·w·yim|The nations|H1471|N-mp
 v10 יִדְרֹ֑שׁוּ|yiḏ·rō·šū|will seek Him|H1875|V-Qal-Imperf-3mp
 v10 וְהָיְתָ֥ה|wə·hā·yə·ṯāh|...|H1961|Conj-w | V-Qal-ConjPerf-3fs
 v10 מְנֻחָת֖וֹ|mə·nu·ḥā·ṯōw|and His place of rest|H4496|N-fsc | 3ms
-v10 כָּבֽוֹד׃פ|kā·ḇō·wḏ|will be glorious|H3519|N-ms
+v10 כָּבֽוֹד׃|kā·ḇō·wḏ|will be glorious|H3519|N-ms
 v11 וְהָיָ֣ה׀|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v11 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v11 הַה֗וּא|ha·hū|On that|H1931|Art | Pro-3ms
@@ -163,12 +163,12 @@ v13 יִכָּרֵ֑תוּ|yik·kā·rê·ṯū|will be cut off|H3772|V-Nifal-Im
 v13 אֶפְרַ֙יִם֙|’ep̄·ra·yim|Ephraim|H669|N-proper-ms
 v13 לֹֽא־|lō-|will no longer|H3808|Adv-NegPrt
 v13 יְקַנֵּ֣א|yə·qan·nê|envy|H7065|V-Piel-Imperf-3ms
-v13 אֶת־|’eṯ-||H853|DirObjM
+v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 יְהוּדָ֔ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v13 וִֽיהוּדָ֖ה|wî·hū·ḏāh|Judah|H3063|Conj-w | N-proper-ms
 v13 לֹֽא־|lō-|nor will|H3808|Adv-NegPrt
 v13 יָצֹ֥ר|yā·ṣōr|harass|H6887|V-Qal-Imperf-3ms
-v13 אֶת־|’eṯ-||H853|DirObjM
+v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 אֶפְרָֽיִם׃|’ep̄·rā·yim|Ephraim|H669|N-proper-ms
 v14 וְעָפ֨וּ|wə·‘ā·p̄ū|They will swoop down|H5774|Conj-w | V-Qal-ConjPerf-3cp
 v14 בְכָתֵ֤ף|ḇə·ḵā·ṯêp̄|on the slopes|H3802|Prep-b | N-fs

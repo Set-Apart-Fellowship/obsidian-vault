@@ -5,7 +5,7 @@ v1 עֵינִ֑י|‘ê·nî|my eyes|H5869|N-csc | 1cs
 v1 שָֽׁמְעָ֥ה|šā·mə·‘āh|have heard|H8085|V-Qal-Perf-3fs
 v1 אָ֝זְנִ֗י|’ā·zə·nî|my ears|H241|N-fsc | 1cs
 v1 וַתָּ֥בֶן|wat·tā·ḇen|and understood|H995|Conj-w | V-Qal-ConsecImperf-3fs
-v1 לָֽהּ׃|lāh||H0|Prep | 3fs
+v1 לָֽהּ׃|lāh|-|H0|Prep | 3fs
 v2 כְּֽ֭דַעְתְּכֶם|kə·ḏa‘·tə·ḵem|What you know|H1847|Prep-k | N-fsc | 2mp
 v2 יָדַ֣עְתִּי|yā·ḏa‘·tî|know|H3045|V-Qal-Perf-1cs
 v2 גַם־|ḡam-|also|H1571|Conj
@@ -46,7 +46,7 @@ v6 הַקְשִֽׁיבוּ׃|haq·šî·ḇū|and listen|H7181|V-Hifil-Imp-mp
 v7 הַ֭לְאֵל|hal·’êl|on God's behalf|H410|Art, Prep-l | N-ms
 v7 תְּדַבְּר֣וּ|tə·ḏab·bə·rū|Will you speak|H1696|V-Piel-Imperf-2mp
 v7 עַוְלָ֑ה|‘aw·lāh|wickedly|H5766|N-fs
-v7 וְ֝ל֗וֹ|wə·lōw||H0|Conj-w | Prep | 3ms
+v7 וְ֝ל֗וֹ|wə·lōw|-|H0|Conj-w | Prep | 3ms
 v7 תְּֽדַבְּר֥וּ|tə·ḏab·bə·rū|or speak|H1696|V-Piel-Imperf-2mp
 v7 רְמִיָּֽה׃|rə·mî·yāh|deceitfully for Him|H7423|N-fs
 v8 הֲפָנָ֥יו|hă·p̄ā·nāw|Would you show Him partiality|H6440|Art | N-cpc | 3ms

@@ -28,7 +28,7 @@ v3 לְּךָ֛|lə·ḵā|you|H0|Prep | 2ms
 v3 גְּדֹל֥וֹת|gə·ḏō·lō·wṯ|great|H1419|Adj-fp
 v3 וּבְצֻר֖וֹת|ū·ḇə·ṣu·rō·wṯ|and unsearchable things|H1219|Conj-w | Adj-fp
 v3 לֹ֥א|lō|you do not|H3808|Adv-NegPrt
-v3 יְדַעְתָּֽם׃ס|yə·ḏa‘·tām|know|H3045|V-Qal-Perf-2ms | 3mp
+v3 יְדַעְתָּֽם׃|yə·ḏa‘·tām|know|H3045|V-Qal-Perf-2ms | 3mp
 v4 כִּי֩|kî|For|H3588|Conj
 v4 כֹ֨ה|ḵōh|this is what|H3541|Adv
 v4 אָמַ֤ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -99,8 +99,8 @@ v8 לְכוֹל|lə·ḵōl|all|H3605|Prep-l | N-msc
 v8 עֲוֺנֽוֹתֵיהֶם֙|‘ă·wō·nō·w·ṯê·hem|...|H5771|N-cpc | 3mp
 v8 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v8 חָֽטְאוּ־|ḥā·ṭə·’ū-|their sins|H2398|V-Qal-Perf-3cp
-v8 לִ֔י|lî||H0|Prep | 1cs
-v8 וַאֲשֶׁ֖ר|wa·’ă·šer||H834|Conj-w | Pro-r
+v8 לִ֔י|lî|-|H0|Prep | 1cs
+v8 וַאֲשֶׁ֖ר|wa·’ă·šer|-|H834|Conj-w | Pro-r
 v8 פָּ֥שְׁעוּ|pā·šə·‘ū|of rebellion|H6586|V-Qal-Perf-3cp
 v8 בִֽי׃|ḇî|against Me|H0|Prep | 1cs
 v9 וְהָ֣יְתָה|wə·hā·yə·ṯāh|So [this city] will bring|H1961|Conj-w | V-Qal-ConjPerf-3fs
@@ -132,7 +132,7 @@ v9 הַשָּׁל֔וֹם|haš·šā·lō·wm|prosperity|H7965|Art | N-ms
 v9 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v9 אָֽנֹכִ֖י|’ā·nō·ḵî|I|H595|Pro-1cs
 v9 עֹ֥שֶׂה|‘ō·śeh|will provide|H6213|V-Qal-Prtcpl-ms
-v9 לָּֽהּ׃ס|lāh|for it|H0|Prep | 3fs
+v9 לָּֽהּ׃|lāh|for it|H0|Prep | 3fs
 v10 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v10 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v10 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -154,7 +154,7 @@ v10 יְהוּדָה֙|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v10 וּבְחֻצ֣וֹת|ū·ḇə·ḥu·ṣō·wṯ|and in the streets|H2351|Conj-w, Prep-b | N-mpc
 v10 יְרוּשָׁלִַ֔ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v10 הַֽנְשַׁמּ֗וֹת|han·šam·mō·wṯ|that are deserted|H8074|Art | V-Nifal-Prtcpl-fp
-v10 מֵאֵ֥ין|mê·’ên||H369|Prep-m | Adv
+v10 מֵאֵ֥ין|mê·’ên|-|H369|Prep-m | Adv
 v10 אָדָ֛ם|’ā·ḏām|man|H120|N-ms
 v10 וּמֵאֵ֥ין|ū·mê·’ên|by neither|H369|Conj-w, Prep-m | Adv
 v10 יוֹשֵׁ֖ב|yō·wō·šêḇ|inhabited|H3427|V-Qal-Prtcpl-ms
@@ -177,7 +177,7 @@ v11 צְבָא֜וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v11 כִּֽי־|kî-|for|H3588|Conj
 v11 ט֤וֹב|ṭō·wḇ|is good|H2896|Adj-ms
 v11 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
-v11 כִּֽי־|kî-||H3588|Conj
+v11 כִּֽי־|kî-|-|H3588|Conj
 v11 לְעוֹלָ֣ם|lə·‘ō·w·lām|endures forever|H5769|Prep-l | N-ms
 v11 חַסְדּ֔וֹ|ḥas·dōw|His loving devotion|H2617|N-msc | 3ms
 v11 מְבִאִ֥ים|mə·ḇi·’îm|of those bringing|H935|V-Hifil-Prtcpl-mp
@@ -191,7 +191,7 @@ v11 שְׁבוּת־|šə·ḇūṯ-|from captivity|H7622|N-fsc
 v11 הָאָ֛רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v11 כְּבָרִאשֹׁנָ֖ה|kə·ḇā·ri·šō·nāh|as in former times|H7223|Prep-k, Prep-b, Art | Adj-fs
 v11 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v11 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v11 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v12 כֹּֽה־|kōh-|This is what|H3541|Adv
 v12 אָמַר֮|’ā·mar|says|H559|V-Qal-Perf-3ms
 v12 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -230,7 +230,7 @@ v13 עַל־|‘al-|under|H5921|Prep
 v13 יְדֵ֥י|yə·ḏê|the hands|H3027|N-fdc
 v13 מוֹנֶ֖ה|mō·w·neh|of the one who counts them|H4487|V-Qal-Prtcpl-ms
 v13 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v13 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v13 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v14 הִנֵּ֛ה|hin·nêh|Behold|H2009|Interjection
 v14 יָמִ֥ים|yā·mîm|the days|H3117|N-mp
 v14 בָּאִ֖ים|bā·’îm|are coming|H935|V-Qal-Prtcpl-mp
@@ -270,9 +270,9 @@ v16 לָבֶ֑טַח|lā·ḇe·ṭaḥ|...|H983|Prep-l | N-ms
 v16 וְזֶ֥ה|wə·zeh|and this|H2088|Conj-w | Pro-ms
 v16 אֲשֶׁר־|’ă·šer-|is the name|H834|Pro-r
 v16 יִקְרָא־|yiq·rā-|by which it will be called|H7121|V-Qal-Imperf-3ms
-v16 לָ֖הּ|lāh||H0|Prep | 3fs
+v16 לָ֖הּ|lāh|-|H0|Prep | 3fs
 v16 יְהוָ֥ה׀|Yah·weh|The LORD|H3068|N-proper-ms
-v16 צִדְקֵֽנוּ׃ס|ṣiḏ·qê·nū|Our Righteousness|H6664|N-msc | 1cp
+v16 צִדְקֵֽנוּ׃|ṣiḏ·qê·nū|Our Righteousness|H6664|N-msc | 1cp
 v17 כִּי־|kî-|For|H3588|Conj
 v17 כֹ֖ה|ḵōh|this is what|H3541|Adv
 v17 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -299,7 +299,7 @@ v18 מִנְחָ֛ה|min·ḥāh|grain offerings|H4503|N-fs
 v18 וְעֹ֥שֶׂה־|wə·‘ō·śeh-|and to present|H6213|Conj-w | V-Qal-Prtcpl-ms
 v18 זֶּ֖בַח|ze·ḇaḥ|sacrifices|H2077|N-ms
 v18 כָּל־|kāl-|ever|H3605|N-msc
-v18 הַיָּמִֽים׃ס|hay·yā·mîm|...|H3117|Art | N-mp
+v18 הַיָּמִֽים׃|hay·yā·mîm|...|H3117|Art | N-mp
 v19 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v19 דְּבַר־|də·ḇar-|And the word|H1697|N-msc
 v19 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -329,7 +329,7 @@ v21 אֶת־|’eṯ-|with|H854|Prep
 v21 דָּוִ֣ד|dā·wiḏ|David|H1732|N-proper-ms
 v21 עַבְדִּ֔י|‘aḇ·dî|My servant|H5650|N-msc | 1cs
 v21 מִהְיֽוֹת־|mih·yō·wṯ-|so that [David] will not have|H1961|Prep-m | V-Qal-Inf
-v21 ל֥וֹ|lōw||H0|Prep | 3ms
+v21 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v21 בֵ֖ן|ḇên|a son|H1121|N-ms
 v21 מֹלֵ֣ךְ|mō·lêḵ|to reign|H4427|V-Qal-Prtcpl-ms
 v21 עַל־|‘al-|on|H5921|Prep
@@ -356,7 +356,7 @@ v22 עַבְדִּ֔י|‘aḇ·dî|of My servant|H5650|N-msc | 1cs
 v22 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v22 הַלְוִיִּ֖ם|hal·wî·yim|and the Levites|H3881|Art | N-proper-mp
 v22 מְשָׁרְתֵ֥י|mə·šā·rə·ṯê|who minister|H8334|V-Piel-Prtcpl-mpc
-v22 אֹתִֽי׃ס|’ō·ṯî|before Me|H853|DirObjM | 1cs
+v22 אֹתִֽי׃|’ō·ṯî|before Me|H853|DirObjM | 1cs
 v23 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v23 דְּבַר־|də·ḇar-|Moreover, the word|H1697|N-msc
 v23 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -375,7 +375,7 @@ v24 הַמִּשְׁפָּח֗וֹת|ham·miš·pā·ḥō·wṯ|families|H4940|
 v24 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v24 בָּחַ֧ר|bā·ḥar|He had chosen|H977|V-Qal-Perf-3ms
 v24 יְהוָ֛ה|Yah·weh|The LORD|H3068|N-proper-ms
-v24 בָּהֶ֖ם|bā·hem||H0|Prep | 3mp
+v24 בָּהֶ֖ם|bā·hem|-|H0|Prep | 3mp
 v24 וַיִּמְאָסֵ֑ם|way·yim·’ā·sêm|has rejected|H3988|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
 v24 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v24 עַמִּי֙|‘am·mî|My people|H5971|N-msc | 1cs
@@ -383,12 +383,12 @@ v24 יִנְאָצ֔וּן|yin·’ā·ṣūn|So they despise|H5006|V-Qal-Imperf
 v24 מִֽהְי֥וֹת|mih·yō·wṯ|regard them|H1961|Prep-m | V-Qal-Inf
 v24 ע֖וֹד|‘ō·wḏ|and no longer|H5750|Adv
 v24 גּ֥וֹי|gō·w|as a nation|H1471|N-ms
-v24 לִפְנֵיהֶֽם׃ס|lip̄·nê·hem|-|H6440|Prep-l | N-mpc | 3mp
+v24 לִפְנֵיהֶֽם׃|lip̄·nê·hem|-|H6440|Prep-l | N-mpc | 3mp
 v25 כֹּ֚ה|kōh|This is what|H3541|Adv
 v25 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v25 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v25 אִם־|’im-|If|H518|Conj
-v25 לֹ֥א|lō||H3808|Adv-NegPrt
+v25 לֹ֥א|lō|-|H3808|Adv-NegPrt
 v25 בְרִיתִ֖י|ḇə·rî·ṯî|My covenant|H1285|N-fsc | 1cs
 v25 יוֹמָ֣ם|yō·w·mām|with the day|H3119|Adv
 v25 וָלָ֑יְלָה|wā·lā·yə·lāh|and the night|H3915|Conj-w | N-ms
@@ -415,4 +415,4 @@ v26 כִּֽי־|kî-|For|H3588|Conj
 v26 אָשׁוּב|ʾå̄·šūḇ|I will restore them|H7725|V-Hifil-Imperf-1cs
 v26 אֶת־|’eṯ-|-|H853|DirObjM
 v26 שְׁבוּתָ֖ם|šə·ḇū·ṯām|from captivity|H7622|N-fsc | 3mp
-v26 וְרִחַמְתִּֽים׃ס|wə·ri·ḥam·tîm|and will have compassion on them|H7355|Conj-w | V-Piel-ConjPerf-1cs | 3mp
+v26 וְרִחַמְתִּֽים׃|wə·ri·ḥam·tîm|and will have compassion on them|H7355|Conj-w | V-Piel-ConjPerf-1cs | 3mp

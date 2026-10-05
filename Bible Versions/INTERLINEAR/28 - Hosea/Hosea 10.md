@@ -59,13 +59,13 @@ v5 אָבַ֨ל|’ā·ḇal|will mourn|H56|V-Qal-Perf-3ms
 v5 עָלָ֜יו|‘ā·lāw|over it|H5921|Prep | 3ms
 v5 עַמּ֗וֹ|‘am·mōw|its people|H5971|N-msc | 3ms
 v5 וּכְמָרָיו֙|ū·ḵə·mā·rāw|with its idolatrous priests|H3649|Conj-w | N-mpc | 3ms
-v5 עָלָ֣יו|‘ā·lāw||H5921|Prep | 3ms
+v5 עָלָ֣יו|‘ā·lāw|-|H5921|Prep | 3ms
 v5 יָגִ֔ילוּ|yā·ḡî·lū|those who rejoiced|H1523|V-Qal-Imperf-3mp
 v5 עַל־|‘al-|in|H5921|Prep
 v5 כְּבוֹד֖וֹ|kə·ḇō·w·ḏōw|its glory|H3519|N-msc | 3ms
 v5 כִּֽי־|kî-|for|H3588|Conj
 v5 גָלָ֥ה|ḡā·lāh|it has been taken from them into exile|H1540|V-Qal-Perf-3ms
-v5 מִמֶּֽנּוּ׃|mim·men·nū||H4480|Prep | 3ms
+v5 מִמֶּֽנּוּ׃|mim·men·nū|-|H4480|Prep | 3ms
 v6 גַּם־|gam-|Yes|H1571|Conj
 v6 אוֹתוֹ֙|’ō·w·ṯōw|-|H853|DirObjM | 3ms
 v6 לְאַשּׁ֣וּר|lə·’aš·šūr|to Assyria|H804|Prep-l | N-proper-fs
@@ -101,7 +101,7 @@ v8 לֶֽהָרִים֙|le·hā·rîm|to the mountains|H2022|Prep-l, Art | N-mp
 v8 כַּסּ֔וּנוּ|kas·sū·nū|Cover us|H3680|V-Piel-Imp-mp | 1cp
 v8 וְלַגְּבָע֖וֹת|wə·lag·gə·ḇā·‘ō·wṯ|and to the hills|H1389|Conj-w, Prep-l, Art | N-fp
 v8 נִפְל֥וּ|nip̄·lū|Fall|H5307|V-Qal-Imp-mp
-v8 עָלֵֽינוּ׃ס|‘ā·lê·nū|on us|H5921|Prep | 1cp
+v8 עָלֵֽינוּ׃|‘ā·lê·nū|on us|H5921|Prep | 1cp
 v9 מִימֵי֙|mî·mê|Since the days|H3117|Prep-m | N-mpc
 v9 הַגִּבְעָ֔ה|hag·giḇ·‘āh|of Gibeah|H1390|Art | N-proper-fs
 v9 חָטָ֖אתָ|ḥā·ṭā·ṯā|you have sinned|H2398|V-Qal-Perf-2ms
@@ -112,7 +112,7 @@ v9 לֹֽא־|lō-|Did not|H3808|Adv-NegPrt
 v9 תַשִּׂיגֵ֧ם|ṯaś·śî·ḡêm|overtake|H5381|V-Hifil-Imperf-3fs | 3mp
 v9 בַּגִּבְעָ֛ה|bag·giḇ·‘āh|in Gibeah|H1390|Prep-b, Art | N-proper-fs
 v9 מִלְחָמָ֖ה|mil·ḥā·māh|the battle|H4421|N-fs
-v9 עַל־|‘al-||H5921|Prep
+v9 עַל־|‘al-|-|H5921|Prep
 v9 בְּנֵ֥י|bə·nê|the sons|H1121|N-mpc
 v9 עַֽלְוָֽה׃|‘al·wāh|of iniquity|H5932|N-fs
 v10 בְּאַוָּתִ֖י|bə·’aw·wā·ṯî|when I please|H185|Prep-b | N-fsc | 1cs
@@ -138,7 +138,7 @@ v11 אֶפְרַ֙יִם֙|’ep̄·ra·yim|Ephraim|H669|N-proper-ms
 v11 יַחֲר֣וֹשׁ|ya·ḥă·rō·wōš|will plow|H2790|V-Qal-Imperf-3ms
 v11 יְהוּדָ֔ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v11 יְשַׂדֶּד־|yə·śad·deḏ-|will break the hard ground|H7702|V-Piel-Imperf-3ms
-v11 ל֖וֹ|lōw||H0|Prep | 3ms
+v11 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v11 יַעֲקֹֽב׃|ya·‘ă·qōḇ|[and] Jacob|H3290|N-proper-ms
 v12 זִרְע֨וּ|zir·‘ū|Sow|H2232|V-Qal-Imp-mp
 v12 לָכֶ֤ם|lā·ḵem|for yourselves|H0|Prep | 2mp
@@ -178,7 +178,7 @@ v14 מִבְצָרֶ֣יךָ|miḇ·ṣā·re·ḵā|your fortresses|H4013|N-mpc
 v14 יוּשַּׁ֔ד|yūš·šaḏ|will be demolished|H7703|V-QalPass-Imperf-3ms
 v14 כְּשֹׁ֧ד|kə·šōḏ|devastated|H7701|Prep-k | N-msc
 v14 שַֽׁלְמַ֛ן|šal·man|as Shalman|H8020|N-proper-ms
-v14 בֵּ֥ית|bêṯ||H1009|Prep
+v14 בֵּ֥ית|bêṯ|-|H1009|Prep
 v14 אַֽרְבֵ֖אל|’ar·ḇêl|Beth-arbel|H1009|N-proper-fs
 v14 בְּי֣וֹם|bə·yō·wm|in the day|H3117|Prep-b | N-msc
 v14 מִלְחָמָ֑ה|mil·ḥā·māh|of battle|H4421|N-fs
@@ -189,7 +189,7 @@ v14 רֻטָּֽשָׁה׃|ruṭ·ṭā·šāh|were dashed to pieces|H7376|V-Pua
 v15 כָּ֗כָה|kā·ḵāh|Thus|H3602|Adv
 v15 עָשָׂ֤ה|‘ā·śāh|it will be done|H6213|V-Qal-Perf-3ms
 v15 לָכֶם֙|lā·ḵem|to you|H0|Prep | 2mp
-v15 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v15 בֵּֽית־|bêṯ-|...|H1008|Prep
 v15 אֵ֔ל|’êl|O Bethel|H1008|N-proper-fs
 v15 מִפְּנֵ֖י|mip·pə·nê|because of|H6440|Prep-m | N-cpc
 v15 רָעַ֣ת|rā·‘aṯ|wickedness|H7451|N-fsc

@@ -14,7 +14,7 @@ v1 יְשַׁלְּחֵ֔ם|yə·šal·lə·ḥêm|he will let [the people] go|H
 v1 וּבְיָ֣ד|ū·ḇə·yāḏ|hand|H3027|Conj-w, Prep-b | N-fs
 v1 חֲזָקָ֔ה|ḥă·zā·qāh|because of My strong|H2389|Adj-fs
 v1 יְגָרְשֵׁ֖ם|yə·ḡā·rə·šêm|he will drive them out of|H1644|V-Piel-Imperf-3ms | 3mp
-v1 מֵאַרְצֽוֹ׃ס|mê·’ar·ṣōw|his land|H776|Prep-m | N-fsc | 3ms
+v1 מֵאַרְצֽוֹ׃|mê·’ar·ṣōw|his land|H776|Prep-m | N-fsc | 3ms
 v2 וַיְדַבֵּ֥ר|way·ḏab·bêr|told|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v2 אֱלֹהִ֖ים|’ĕ·lō·hîm|God also|H430|N-mp
 v2 אֶל־|’el-|...|H413|Prep
@@ -52,13 +52,13 @@ v4 אֶ֥רֶץ|’e·reṣ|the land|H776|N-fsc
 v4 מְגֻרֵיהֶ֖ם|mə·ḡu·rê·hem|...|H4033|N-mpc | 3mp
 v4 אֲשֶׁר־|’ă·šer-|where|H834|Pro-r
 v4 גָּ֥רוּ|gā·rū|they lived as foreigners|H1481|V-Qal-Perf-3cp
-v4 בָֽהּ׃|ḇāh||H0|Prep | 3fs
+v4 בָֽהּ׃|ḇāh|-|H0|Prep | 3fs
 v5 וְגַ֣ם׀|wə·ḡam|Furthermore|H1571|Conj
 v5 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v5 שָׁמַ֗עְתִּי|šā·ma‘·tî|have heard|H8085|V-Qal-Perf-1cs
 v5 אֶֽת־|’eṯ-|-|H853|DirObjM
 v5 נַאֲקַת֙|na·’ă·qaṯ|the groaning|H5009|N-fsc
-v5 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v5 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v5 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v5 אֲשֶׁ֥ר|’ă·šer|whom|H834|Pro-r
 v5 מִצְרַ֖יִם|miṣ·ra·yim|the Egyptians|H4714|N-proper-fs
@@ -136,7 +136,7 @@ v9 מֹשֶׁ֔ה|mō·šeh|[him]|H4872|N-proper-ms
 v9 מִקֹּ֣צֶר|miq·qō·ṣer|but on account of their broken|H7115|Prep-m | N-msc
 v9 ר֔וּחַ|rū·aḥ|spirit|H7307|N-cs
 v9 וּמֵעֲבֹדָ֖ה|ū·mê·‘ă·ḇō·ḏāh|bondage|H5656|Conj-w, Prep-m | N-fs
-v9 קָשָֽׁה׃פ|qā·šāh|and cruel|H7186|Adj-fs
+v9 קָשָֽׁה׃|qā·šāh|and cruel|H7186|Adj-fs
 v10 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v10 יְהוָ֖ה|Yah·weh|So the LORD|H3068|N-proper-ms
 v10 אֶל־|’el-|to|H413|Prep
@@ -169,7 +169,7 @@ v12 יִשְׁמָעֵ֣נִי|yiš·mā·‘ê·nî|listen to me|H8085|V-Qal-Im
 v12 פַרְעֹ֔ה|p̄ar·‘ōh|would Pharaoh|H6547|N-proper-ms
 v12 וַאֲנִ֖י|wa·’ă·nî|since I|H589|Conj-w | Pro-1cs
 v12 עֲרַ֥ל|‘ă·ral|am unskilled|H6189|Adj-msc
-v12 שְׂפָתָֽיִם׃פ|śə·p̄ā·ṯā·yim|in speech|H8193|N-fd
+v12 שְׂפָתָֽיִם׃|śə·p̄ā·ṯā·yim|in speech|H8193|N-fd
 v13 וַיְדַבֵּ֣ר|way·ḏab·bêr|spoke|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v13 יְהוָה֮|Yah·weh|Then the LORD|H3068|N-proper-ms
 v13 אֶל־|’el-|to|H413|Prep
@@ -189,7 +189,7 @@ v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 בְּנֵֽי־|bə·nê-|the Israelites|H1121|N-mpc
 v13 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v13 מֵאֶ֥רֶץ|mê·’e·reṣ|out of the land|H776|Prep-m | N-fsc
-v13 מִצְרָֽיִם׃ס|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
+v13 מִצְרָֽיִם׃|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
 v14 אֵ֖לֶּה|’êl·leh|These|H428|Pro-cp
 v14 רָאשֵׁ֣י|rā·šê|were the heads|H7218|N-mpc
 v14 בֵית־|ḇêṯ-|houses|H1004|N-msc
@@ -244,7 +244,7 @@ v18 עַמְרָ֣ם|‘am·rām|Amram|H6019|N-proper-ms
 v18 וְיִצְהָ֔ר|wə·yiṣ·hār|Izhar|H3324|Conj-w | N-proper-ms
 v18 וְחֶבְר֖וֹן|wə·ḥeḇ·rō·wn|Hebron|H2275|Conj-w | N-proper-ms
 v18 וְעֻזִּיאֵ֑ל|wə·‘uz·zî·’êl|and Uzziel|H5816|Conj-w | N-proper-ms
-v18 וּשְׁנֵי֙|ū·šə·nê||H8141|Conj-w | N-fpc
+v18 וּשְׁנֵי֙|ū·šə·nê|-|H8141|Conj-w | N-fpc
 v18 חַיֵּ֣י|ḥay·yê|lived|H2416|N-mpc
 v18 קְהָ֔ת|qə·hāṯ|Kohath|H6955|N-proper-ms
 v18 שָׁלֹ֧שׁ|šā·lōš|133|H7969|Number-fs
@@ -264,7 +264,7 @@ v20 עַמְרָ֜ם|‘am·rām|And Amram|H6019|N-proper-ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 יוֹכֶ֤בֶד|yō·w·ḵe·ḇeḏ|Jochebed|H3115|N-proper-fs
 v20 דֹּֽדָתוֹ֙|dō·ḏā·ṯōw|his father's sister|H1733|N-fsc | 3ms
-v20 ל֣וֹ|lōw||H0|Prep | 3ms
+v20 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v20 לְאִשָּׁ֔ה|lə·’iš·šāh|...|H802|Prep-l | N-fs
 v20 וַתֵּ֣לֶד|wat·tê·leḏ|and she bore|H3205|Conj-w | V-Qal-ConsecImperf-3fs
 v20 ל֔וֹ|lōw|him|H0|Prep | 3ms
@@ -272,7 +272,7 @@ v20 אֶֽת־|’eṯ-|-|H853|DirObjM
 v20 אַהֲרֹ֖ן|’a·hă·rōn|Aaron|H175|N-proper-ms
 v20 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v20 מֹשֶׁ֑ה|mō·šeh|and Moses|H4872|N-proper-ms
-v20 וּשְׁנֵי֙|ū·šə·nê||H8141|Conj-w | N-fpc
+v20 וּשְׁנֵי֙|ū·šə·nê|-|H8141|Conj-w | N-fpc
 v20 חַיֵּ֣י|ḥay·yê|lived|H2416|N-mpc
 v20 עַמְרָ֔ם|‘am·rām|Amram|H6019|N-proper-ms
 v20 שֶׁ֧בַע|še·ḇa‘|137|H7651|Number-fs
@@ -297,7 +297,7 @@ v23 בַּת־|baṯ-|the daughter|H1323|N-fsc
 v23 עַמִּינָדָ֛ב|‘am·mî·nā·ḏāḇ|of Amminadab|H5992|N-proper-ms
 v23 אֲח֥וֹת|’ă·ḥō·wṯ|and sister|H269|N-fsc
 v23 נַחְשׁ֖וֹן|naḥ·šō·wn|of Nahshon|H5177|N-proper-ms
-v23 ל֣וֹ|lōw||H0|Prep | 3ms
+v23 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v23 לְאִשָּׁ֑ה|lə·’iš·šāh|...|H802|Prep-l | N-fs
 v23 וַתֵּ֣לֶד|wat·tê·leḏ|and she bore|H3205|Conj-w | V-Qal-ConsecImperf-3fs
 v23 ל֗וֹ|lōw|him|H0|Prep | 3ms
@@ -321,10 +321,10 @@ v25 וְאֶלְעָזָ֨ר|wə·’el·‘ā·zār|Eleazar|H499|Conj-w | N-pro
 v25 בֶּֽן־|ben-|son|H1121|N-msc
 v25 אַהֲרֹ֜ן|’a·hă·rōn|Aaron's|H175|N-proper-ms
 v25 לָקַֽח־|lā·qaḥ-|married|H3947|V-Qal-Perf-3ms
-v25 ל֨וֹ|lōw||H0|Prep | 3ms
+v25 ל֨וֹ|lōw|-|H0|Prep | 3ms
 v25 מִבְּנ֤וֹת|mib·bə·nō·wṯ|[one] of the daughters|H1323|Prep-m | N-fpc
 v25 פּֽוּטִיאֵל֙|pū·ṭî·’êl|of Putiel|H6317|N-proper-fs
-v25 ל֣וֹ|lōw||H0|Prep | 3ms
+v25 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v25 לְאִשָּׁ֔ה|lə·’iš·šāh|-|H802|Prep-l | N-fs
 v25 וַתֵּ֥לֶד|wat·tê·leḏ|and she bore|H3205|Conj-w | V-Qal-ConsecImperf-3fs
 v25 ל֖וֹ|lōw|him|H0|Prep | 3ms
@@ -341,7 +341,7 @@ v26 וּמֹשֶׁ֑ה|ū·mō·šeh|and Moses|H4872|Conj-w | N-proper-ms
 v26 אֲשֶׁ֨ר|’ă·šer|to whom|H834|Pro-r
 v26 אָמַ֤ר|’ā·mar|said|H559|V-Qal-Perf-3ms
 v26 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
-v26 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v26 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v26 הוֹצִ֜יאוּ|hō·w·ṣî·’ū|out|H3318|V-Hifil-Imp-mp
 v26 אֶת־|’eṯ-|-|H853|DirObjM
 v26 בְּנֵ֧י|bə·nê|Bring the Israelites|H1121|N-mpc
@@ -370,8 +370,8 @@ v28 דִּבֶּ֧ר|dib·ber|spoke|H1696|V-Piel-Perf-3ms
 v28 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v28 אֶל־|’el-|to|H413|Prep
 v28 מֹשֶׁ֖ה|mō·šeh|Moses|H4872|N-proper-ms
-v28 בְּאֶ֥רֶץ|bə·’e·reṣ|vvv|H776|Prep-b | N-fsc
-v28 מִצְרָֽיִם׃פ|miṣ·rā·yim|in Egypt|H4714|N-proper-fs
+v28 בְּאֶ֥רֶץ|bə·’e·reṣ|...|H776|Prep-b | N-fsc
+v28 מִצְרָֽיִם׃|miṣ·rā·yim|in Egypt|H4714|N-proper-fs
 v29 וַיְדַבֵּ֧ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v29 יְהוָ֛ה|Yah·weh|He|H3068|N-proper-ms
 v29 אֶל־|’el-|to|H413|Prep
@@ -401,4 +401,4 @@ v30 שְׂפָתַ֔יִם|śə·p̄ā·ṯa·yim|in speech|H8193|N-fd
 v30 וְאֵ֕יךְ|wə·’êḵ|why|H349|Conj-w | Interjection
 v30 יִשְׁמַ֥ע|yiš·ma‘|listen|H8085|V-Qal-Imperf-3ms
 v30 אֵלַ֖י|’ê·lay|to me|H413|Prep | 1cs
-v30 פַּרְעֹֽה׃פ|par·‘ōh|would Pharaoh|H6547|N-proper-ms
+v30 פַּרְעֹֽה׃|par·‘ōh|would Pharaoh|H6547|N-proper-ms

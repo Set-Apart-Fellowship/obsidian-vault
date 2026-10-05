@@ -89,7 +89,7 @@ v7 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v7 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v7 עֹשֶׂ֥ה|‘ō·śeh|do|H6213|V-Qal-Prtcpl-ms
 v7 כָל־|ḵāl|all|H3605|N-msc
-v7 אֵֽלֶּה׃ס|’êl·leh|these things|H428|Pro-cp
+v7 אֵֽלֶּה׃|’êl·leh|these things|H428|Pro-cp
 v8 הַרְעִ֤יפוּ|har·‘î·p̄ū|Drip down|H7491|V-Hifil-Imp-mp
 v8 שָׁמַ֙יִם֙|šā·ma·yim|O heavens|H8064|N-mp
 v8 מִמַּ֔עַל|mim·ma·‘al|from above|H4605|Prep-m | Adv
@@ -105,7 +105,7 @@ v8 תַצְמִ֙יחַ֙|ṯaṣ·mî·aḥ|spring up|H6779|V-Hifil-Imperf-3fs
 v8 יַ֔חַד|ya·ḥaḏ|with it|H3162|Adv
 v8 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v8 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v8 בְּרָאתִֽיו׃ס|bə·rā·ṯîw|have created it|H1254|V-Qal-Perf-1cs | 3ms
+v8 בְּרָאתִֽיו׃|bə·rā·ṯîw|have created it|H1254|V-Qal-Perf-1cs | 3ms
 v9 ה֗וֹי|hō·w|Woe|H1945|Interjection
 v9 רָ֚ב|rāḇ|to him who quarrels|H7378|V-Qal-Prtcpl-ms
 v9 אֶת־|’eṯ-|-|H854|DirObjM
@@ -122,7 +122,7 @@ v9 תַּעֲשֶׂ֔ה|ta·‘ă·śeh|are you making|H6213|V-Qal-Imperf-2ms
 v9 וּפָעָלְךָ֖|ū·p̄ā·‘ā·lə·ḵā|Does your work say|H6467|Conj-w | N-msc | 2ms
 v9 אֵין־|’ên-|He has no|H369|Adv
 v9 יָדַ֥יִם|yā·ḏa·yim|hands|H3027|N-fd
-v9 לֽוֹ׃ס|lōw||H0|Prep | 3ms
+v9 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v10 ה֛וֹי|hō·w|Woe|H1945|Interjection
 v10 אֹמֵ֥ר|’ō·mêr|to him who says|H559|V-Qal-Prtcpl-ms
 v10 לְאָ֖ב|lə·’āḇ|to his father|H1|Prep-l | N-ms
@@ -130,7 +130,7 @@ v10 מַה־|mah-|What|H4100|Interrog
 v10 תּוֹלִ֑יד|tō·w·lîḏ|have you begotten|H3205|V-Hifil-Imperf-2ms
 v10 וּלְאִשָּׁ֖ה|ū·lə·’iš·šāh|or to his mother|H802|Conj-w, Prep-l | N-fs
 v10 מַה־|mah-|What|H4100|Interrog
-v10 תְּחִילִֽין׃ס|tə·ḥî·lîn|have you brought forth|H2342|V-Qal-Imperf-2fs | Pn
+v10 תְּחִילִֽין׃|tə·ḥî·lîn|have you brought forth|H2342|V-Qal-Imperf-2fs | Pn
 v11 כֹּֽה־|kōh-|Thus|H3541|Adv
 v11 אָמַ֧ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v11 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -175,7 +175,7 @@ v13 וְלֹ֣א|wə·lō|[or]|H3808|Conj-w | Adv-NegPrt
 v13 בְשֹׁ֔חַד|ḇə·šō·ḥaḏ|reward|H7810|Prep-b | N-ms
 v13 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v13 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v13 צְבָאֽוֹת׃פ|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
+v13 צְבָאֽוֹת׃|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v14 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v14 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v14 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -232,7 +232,7 @@ v17 וְלֹא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v17 תִכָּלְמ֖וּ|ṯik·kā·lə·mū|or humiliated|H3637|V-Nifal-Imperf-2mp
 v17 עַד־|‘aḏ-|to|H5704|Prep
 v17 ע֥וֹלְמֵי|‘ō·wl·mê|ages|H5769|N-mpc
-v17 עַֽד׃פ|‘aḏ|everlasting|H5703|N-ms
+v17 עַֽד׃|‘aḏ|everlasting|H5703|N-ms
 v18 כִּ֣י|kî|For|H3588|Conj
 v18 כֹ֣ה|ḵōh|thus|H3541|Adv
 v18 אָֽמַר־|’ā·mar-|says|H559|V-Qal-Perf-3ms
@@ -279,7 +279,7 @@ v20 הִֽתְנַגְּשׁ֥וּ|hiṯ·nag·gə·šū|and draw near|H5066|V-H
 v20 יַחְדָּ֖ו|yaḥ·dāw|...|H3162|Adv
 v20 פְּלִיטֵ֣י|pə·lî·ṭê|you fugitives|H6412|N-mpc
 v20 הַגּוֹיִ֑ם|hag·gō·w·yim|from the nations|H1471|Art | N-mp
-v20 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v20 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v20 יָדְע֗וּ|yā·ḏə·‘ū|Ignorant [are]|H3045|V-Qal-Perf-3cp
 v20 הַנֹּֽשְׂאִים֙|han·nō·śə·’îm|those who carry|H5375|Art | V-Qal-Prtcpl-mp
 v20 אֶת־|’eṯ-|-|H853|DirObjM

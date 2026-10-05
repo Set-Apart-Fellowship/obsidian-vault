@@ -20,9 +20,9 @@ v2 κακῶς|kakōs|sick|G2560|Adv
 v2 ἔχων|echōn|was|G2192|V-PPA-NMS
 v2 ἤμελλεν|ēmellen|[and] about|G3195|V-IIA-3S
 v2 τελευτᾶν|teleutan|to die|G5053|V-PNA
-v2 ὃς|hos|vvv|G3739|RelPro-NMS
-v2 ἦν|ēn|vvv|G1510|V-IIA-3S
-v2 αὐτῷ|autō|vvv|G846|PPro-DM3S
+v2 ὃς|hos|...|G3739|RelPro-NMS
+v2 ἦν|ēn|...|G1510|V-IIA-3S
+v2 αὐτῷ|autō|...|G846|PPro-DM3S
 v2 ἔντιμος|entimos|highly valued|G1784|Adj-NMS
 v3 ἀκούσας|akousas|[the centurion] heard|G191|V-APA-NMS
 v3 δὲ|de|When|G1161|Conj
@@ -79,8 +79,8 @@ v6 αὐτοῖς|autois|them|G846|PPro-DM3P
 v6 ἤδη|ēdē|when|G2235|Adv
 v6 δὲ|de|But|G1161|Conj
 v6 αὐτοῦ|autou|He|G846|PPro-GM3S
-v6 οὐ|ou|vvv|G3756|Adv
-v6 μακρὰν|makran|vvv|G3112|Adj-AFS
+v6 οὐ|ou|...|G3756|Adv
+v6 μακρὰν|makran|...|G3112|Adj-AFS
 v6 ἀπέχοντος|apechontos|was not far|G568|V-PPA-GMS
 v6 ἀπὸ|apo|from|G575|Prep
 v6 τῆς|tēs|the|G3588|Art-GFS
@@ -105,7 +105,7 @@ v6 στέγην|stegēn|roof|G4721|N-AFS
 v6 μου|mou|my|G1473|PPro-G1S
 v6 εἰσέλθῃς|eiselthēs|You come|G1525|V-ASA-2S
 v7 διὸ|dio|That is why|G1352|Conj
-v7 οὐδὲ|oude|vvv|G3761|Adv
+v7 οὐδὲ|oude|...|G3761|Adv
 v7 ἐμαυτὸν|emauton|...|G1683|PPro-AM1S
 v7 ἠξίωσα|ēxiōsa|I did not consider myself worthy|G515|V-AIA-1S
 v7 πρὸς|pros|to|G4314|Prep
@@ -126,7 +126,7 @@ v8 ἄνθρωπός|anthrōpos|a man|G444|N-NMS
 v8 εἰμι|eimi|am|G1510|V-PIA-1S
 v8 ὑπὸ|hypo|under|G5259|Prep
 v8 ἐξουσίαν|exousian|authority|G1849|N-AFS
-v8 τασσόμενος|tassomenos|vvv|G5021|V-PPM/P-NMS
+v8 τασσόμενος|tassomenos|...|G5021|V-PPM/P-NMS
 v8 ἔχων|echōn|with|G2192|V-PPA-NMS
 v8 ὑπ’|hyp’|under|G5259|Prep
 v8 ἐμαυτὸν|emauton|me|G1683|PPro-AM1S
@@ -153,7 +153,7 @@ v8 ποιεῖ|poiei|he does [it]|G4160|V-PIA-3S
 v9 Ἀκούσας|Akousas|[Jesus] heard|G191|V-APA-NMS
 v9 δὲ|de|[When]|G1161|Conj
 v9 ταῦτα|tauta|[this]|G3778|DPro-ANP
-v9 ὁ|ho|vvv|G3588|Art-NMS
+v9 ὁ|ho|...|G3588|Art-NMS
 v9 Ἰησοῦς|Iēsous|[He]|G2424|N-NMS
 v9 ἐθαύμασεν|ethaumasen|marveled at|G2296|V-AIA-3S
 v9 αὐτόν|auton|[the centurion]|G846|PPro-AM3S
@@ -322,7 +322,7 @@ v18 τούτων|toutōn|these things|G3778|DPro-GNP
 v19 καὶ|kai|So|G2532|Conj
 v19 προσκαλεσάμενος|proskalesamenos|called|G4341|V-APM-NMS
 v19 δύο|dyo|two|G1417|Adj-AMP
-v19 τινὰς|tinas|vvv|G5100|IPro-AMP
+v19 τινὰς|tinas|...|G5100|IPro-AMP
 v19 τῶν|tōn|of|G3588|Art-GMP
 v19 μαθητῶν|mathētōn|disciples|G3101|N-GMP
 v19 αὐτοῦ|autou|his|G846|PPro-GM3S
@@ -566,11 +566,11 @@ v32 λέγει|legei|...|G3004|V-PIA-3S
 v32 Ηὐλήσαμεν|Ēulēsamen|We played the flute|G832|V-AIA-1P
 v32 ὑμῖν|hymin|for you|G4771|PPro-D2P
 v32 καὶ|kai|and|G2532|Conj
-v32 οὐκ|ouk|vvv|G3756|Adv
+v32 οὐκ|ouk|...|G3756|Adv
 v32 ὠρχήσασθε|ōrchēsasthe|you did not dance|G3738|V-AIM-2P
 v32 Ἐθρηνήσαμεν|Ethrēnēsamen|we sang a dirge|G2354|V-AIA-1P
 v32 καὶ|kai|and|G2532|Conj
-v32 οὐκ|ouk|vvv|G3756|Adv
+v32 οὐκ|ouk|...|G3756|Adv
 v32 ἐκλαύσατε|eklausate|you did not weep|G2799|V-AIA-2P
 v33 Ἐλήλυθεν|Elēlythen|came|G2064|V-RIA-3S
 v33 γὰρ|gar|For|G1063|Conj
@@ -636,8 +636,8 @@ v36 κατεκλίθη|kateklithē|[and] reclined at the table|G2625|V-AIP-3S
 v37 καὶ|kai|When|G2532|Conj
 v37 ἰδοὺ|idou|...|G2400|V-AMA-2S
 v37 γυνὴ|gynē|woman|G1135|N-NFS
-v37 ἥτις|hētis|vvv|G3748|RelPro-NFS
-v37 ἦν|ēn|vvv|G1510|V-IIA-3S
+v37 ἥτις|hētis|...|G3748|RelPro-NFS
+v37 ἦν|ēn|...|G1510|V-IIA-3S
 v37 ἐν|en|from|G1722|Prep
 v37 τῇ|tē|[that]|G3588|Art-DFS
 v37 πόλει|polei|town|G4172|N-DFS
@@ -646,11 +646,11 @@ v37 καὶ|kai|-|G2532|Conj
 v37 ἐπιγνοῦσα|epignousa|learned|G1921|V-APA-NFS
 v37 ὅτι|hoti|that|G3754|Conj
 v37 κατάκειται|katakeitai|[Jesus] was dining|G2621|V-PIM/P-3S
-v37 ἐν|en|vvv|G1722|Prep
-v37 τῇ|tē|vvv|G3588|Art-DFS
+v37 ἐν|en|...|G1722|Prep
+v37 τῇ|tē|...|G3588|Art-DFS
 v37 οἰκίᾳ|oikia|[there]|G3614|N-DFS
-v37 τοῦ|tou|vvv|G3588|Art-GMS
-v37 Φαρισαίου|Pharisaiou|vvv|G5330|N-GMS
+v37 τοῦ|tou|...|G3588|Art-GMS
+v37 Φαρισαίου|Pharisaiou|...|G5330|N-GMS
 v37 κομίσασα|komisasa|she brought|G2865|V-APA-NFS
 v37 ἀλάβαστρον|alabastron|an alabaster jar|G211|N-ANS
 v37 μύρου|myrou|of perfume|G3464|N-GNS
@@ -734,7 +734,7 @@ v41 Δύο|Dyo|Two [men]|G1417|Adj-NMP
 v41 χρεοφειλέται|chreopheiletai|debtors|G5533|N-NMP
 v41 ἦσαν|ēsan|were|G1510|V-IIA-3P
 v41 δανιστῇ|danistē|to a certain moneylender|G1157|N-DMS
-v41 τινι|tini|vvv|G5100|IPro-DMS
+v41 τινι|tini|...|G5100|IPro-DMS
 v41 ὁ|ho|-|G3588|Art-NMS
 v41 εἷς|heis|One|G1520|Adj-NMS
 v41 ὤφειλεν|ōpheilen|owed [him]|G3784|V-IIA-3S
@@ -809,14 +809,14 @@ v44 αὐτῆς|autēs|her|G846|PPro-GF3S
 v44 ἐξέμαξεν|exemaxen|wiped [them]|G1591|V-AIA-3S
 v45 φίλημά|philēma|with a kiss|G5370|N-ANS
 v45 μοι|moi|Me|G1473|PPro-D1S
-v45 οὐκ|ouk|vvv|G3756|Adv
+v45 οὐκ|ouk|...|G3756|Adv
 v45 ἔδωκας|edōkas|You did not greet|G1325|V-AIA-2S
 v45 αὕτη|hautē|she|G3778|PPro-NFS
 v45 δὲ|de|but|G1161|Conj
 v45 ἀφ’|aph’|since|G575|Prep
 v45 ἧς|hēs|...|G3739|RelPro-GFS
 v45 εἰσῆλθον|eisēlthon|I arrived|G1525|V-AIA-1S
-v45 οὐ|ou|vvv|G3756|Adv
+v45 οὐ|ou|...|G3756|Adv
 v45 διέλιπεν|dielipen|has not stopped|G1257|V-AIA-3S
 v45 καταφιλοῦσά|kataphilousa|kissing|G2705|V-PPA-NFS
 v45 μου|mou|My|G1473|PPro-G1S
@@ -826,7 +826,7 @@ v46 ἐλαίῳ|elaiō|with oil|G1637|N-DNS
 v46 τὴν|tēn|-|G3588|Art-AFS
 v46 κεφαλήν|kephalēn|head|G2776|N-AFS
 v46 μου|mou|My|G1473|PPro-G1S
-v46 οὐκ|ouk|vvv|G3756|Adv
+v46 οὐκ|ouk|...|G3756|Adv
 v46 ἤλειψας|ēleipsas|You did not anoint|G218|V-AIA-2S
 v46 αὕτη|hautē|she|G3778|PPro-NFS
 v46 δὲ|de|but|G1161|Conj

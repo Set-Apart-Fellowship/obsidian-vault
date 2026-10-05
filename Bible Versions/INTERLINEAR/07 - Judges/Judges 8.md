@@ -136,7 +136,7 @@ v9 בְשָׁל֔וֹם|ḇə·šā·lō·wm|in triumph|H7965|Prep-b | N-ms
 v9 אֶתֹּ֖ץ|’et·tōṣ|I will tear down|H5422|V-Qal-Imperf-1cs
 v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 הַמִּגְדָּ֥ל|ham·miḡ·dāl|tower|H4026|Art | N-ms
-v9 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v9 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v10 וְזֶ֨בַח|wə·ze·ḇaḥ|Now Zebah|H2078|Conj-w | N-proper-ms
 v10 וְצַלְמֻנָּ֜ע|wə·ṣal·mun·nā‘|and Zalmunna|H6759|Conj-w | N-proper-ms
 v10 בַּקַּרְקֹ֗ר|baq·qar·qōr|were in Karkor|H7174|Prep-b, Art | N-proper-fs
@@ -170,7 +170,7 @@ v11 וַיַּךְ֙|way·yaḵ|and he attacked|H5221|Conj-w | V-Hifil-ConsecImp
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 הַֽמַּחֲנֶ֔ה|ham·ma·ḥă·neh|their army|H4264|Art | N-cs
 v11 וְהַֽמַּחֲנֶ֖ה|wə·ham·ma·ḥă·neh|[taking them]|H4264|Conj-w, Art | N-cs
-v11 הָ֥יָה|hā·yāh|vvv|H1961|V-Qal-Perf-3ms
+v11 הָ֥יָה|hā·yāh|...|H1961|V-Qal-Perf-3ms
 v11 בֶֽטַח׃|ḇe·ṭaḥ|by surprise|H983|N-ms
 v12 וַיָּנ֗וּסוּ|way·yā·nū·sū|fled|H5127|Conj-w | V-Qal-ConsecImperf-3mp
 v12 זֶ֚בַח|ze·ḇaḥ|When Zebah|H2078|N-proper-ms
@@ -370,7 +370,7 @@ v24 שְׁלָל֑וֹ|šə·lā·lōw|from his plunder|H7998|N-msc | 3ms
 v24 כִּֽי־|kî-|For|H3588|Conj
 v24 נִזְמֵ֤י|niz·mê|earrings|H5141|N-mpc
 v24 זָהָב֙|zā·hāḇ|[the enemies] had gold|H2091|N-ms
-v24 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v24 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v24 כִּ֥י|kî|because|H3588|Conj
 v24 יִשְׁמְעֵאלִ֖ים|yiš·mə·‘ê·lîm|were Ishmaelites|H3459|N-proper-mp
 v24 הֵֽם׃|hêm|they|H1992|Pro-3mp
@@ -441,7 +441,7 @@ v28 הָאָ֛רֶץ|hā·’ā·reṣ|So the land|H776|Art | N-fs
 v28 אַרְבָּעִ֥ים|’ar·bā·‘îm|for forty|H705|Number-cp
 v28 שָׁנָ֖ה|šā·nāh|years|H8141|N-fs
 v28 בִּימֵ֥י|bî·mê|in the days|H3117|Prep-b | N-mpc
-v28 גִדְעֽוֹן׃פ|ḡiḏ·‘ō·wn|of Gideon|H1439|N-proper-ms
+v28 גִדְעֽוֹן׃|ḡiḏ·‘ō·wn|of Gideon|H1439|N-proper-ms
 v29 וַיֵּ֛לֶךְ|way·yê·leḵ|returned|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v29 יְרֻבַּ֥עַל|yə·rub·ba·‘al|and he — Jerubbaal|H3378|N-proper-ms
 v29 בֶּן־|ben-|son|H1121|N-msc
@@ -458,7 +458,7 @@ v30 כִּֽי־|kî-|since|H3588|Conj
 v30 נָשִׁ֥ים|nā·šîm|wives|H802|N-fp
 v30 רַבּ֖וֹת|rab·bō·wṯ|many|H7227|Adj-fp
 v30 הָ֥יוּ|hā·yū|he had|H1961|V-Qal-Perf-3cp
-v30 לֽוֹ׃|lōw||H0|Prep | 3ms
+v30 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v31 וּפִֽילַגְשׁוֹ֙|ū·p̄î·laḡ·šōw|His concubine|H6370|Conj-w | N-fsc | 3ms
 v31 אֲשֶׁ֣ר|’ă·šer|who [dwelt]|H834|Pro-r
 v31 בִּשְׁכֶ֔ם|biš·ḵem|in Shechem|H7927|Prep-b | N-proper-fs
@@ -482,8 +482,8 @@ v32 בְּקֶ֙בֶר֙|bə·qe·ḇer|in the tomb|H6913|Prep-b | N-msc
 v32 יוֹאָ֣שׁ|yō·w·’āš|Joash|H3101|N-proper-ms
 v32 אָבִ֔יו|’ā·ḇîw|of his father|H1|N-msc | 3ms
 v32 בְּעָפְרָ֖ה|bə·‘ā·p̄ə·rāh|in Ophrah|H6084|Prep-b | N-proper-fs
-v32 אֲבִ֥י|’ă·ḇî|vvv|H33|
-v32 הָֽעֶזְרִֽי׃פ|hā·‘ez·rî|of the Abiezrites|H33|N-proper-ms
+v32 אֲבִ֥י|’ă·ḇî|...|H33|
+v32 הָֽעֶזְרִֽי׃|hā·‘ez·rî|of the Abiezrites|H33|N-proper-ms
 v33 וַיְהִ֗י|way·hî|And|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v33 כַּֽאֲשֶׁר֙|ka·’ă·šer|as soon as|H834|Prep-k | Pro-r
 v33 מֵ֣ת|mêṯ|was dead|H4191|V-Qal-Perf-3ms
@@ -495,8 +495,8 @@ v33 וַיִּזְנ֖וּ|way·yiz·nū|and prostituted themselves|H2181|Conj-w
 v33 אַחֲרֵ֣י|’a·ḥă·rê|with|H310|Prep
 v33 הַבְּעָלִ֑ים|hab·bə·‘ā·lîm|the Baals|H1168|Art | N-mp
 v33 וַיָּשִׂ֧ימוּ|way·yā·śî·mū|and they set up|H7760|Conj-w | V-Qal-ConsecImperf-3mp
-v33 לָהֶ֛ם|lā·hem||H0|Prep | 3mp
-v33 בַּ֥עַל|ba·‘al|vvv|H1170|Prep
+v33 לָהֶ֛ם|lā·hem|-|H0|Prep | 3mp
+v33 בַּ֥עַל|ba·‘al|...|H1170|Prep
 v33 בְּרִ֖ית|bə·rîṯ|Baal-berith|H1170|N-proper-ms
 v33 לֵאלֹהִֽים׃|lê·lō·hîm|as their god|H430|Prep-l | N-mp
 v34 וְלֹ֤א|wə·lō|failed|H3808|Conj-w | Adv-NegPrt
@@ -524,4 +524,4 @@ v35 הַטּוֹבָ֔ה|haṭ·ṭō·w·ḇāh|the good things|H2896|Art | N-f
 v35 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v35 עָשָׂ֖ה|‘ā·śāh|he had done|H6213|V-Qal-Perf-3ms
 v35 עִם־|‘im-|for|H5973|Prep
-v35 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v35 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms

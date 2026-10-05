@@ -115,7 +115,7 @@ v11 עַל־|‘al-|against|H5921|Prep
 v11 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v11 רָעָ֑ה|rā·‘āh|of evil|H7451|Adj-fs
 v11 יֹעֵ֖ץ|yō·‘êṣ|a counselor|H3289|V-Qal-Prtcpl-msc
-v11 בְּלִיָּֽעַל׃ס|bə·lî·yā·‘al|of wickedness|H1100|N-ms
+v11 בְּלִיָּֽעַל׃|bə·lî·yā·‘al|of wickedness|H1100|N-ms
 v12 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v12 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v12 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -151,7 +151,7 @@ v14 וּמַסֵּכָ֛ה|ū·mas·sê·ḵāh|and cast idol|H4541|Conj-w | N-f
 v14 אָשִׂ֥ים|’ā·śîm|I will prepare|H7760|V-Qal-Imperf-1cs
 v14 קִבְרֶ֖ךָ|qiḇ·re·ḵā|your grave|H6913|N-msc | 2ms
 v14 כִּ֥י|kî|for|H3588|Conj
-v14 קַלּֽוֹתָ׃פ|qal·lō·w·ṯā|you are contemptible|H7043|V-Qal-Perf-2ms
+v14 קַלּֽוֹתָ׃|qal·lō·w·ṯā|you are contemptible|H7043|V-Qal-Perf-2ms
 v15 הִנֵּ֨ה|hin·nêh|Look|H2009|Interjection
 v15 עַל־|‘al-|to|H5921|Prep
 v15 הֶהָרִ֜ים|he·hā·rîm|the mountains|H2022|Art | N-mp

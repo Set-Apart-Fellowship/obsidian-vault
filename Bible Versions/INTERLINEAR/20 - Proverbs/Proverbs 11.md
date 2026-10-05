@@ -18,7 +18,7 @@ v3 תַּנְחֵ֑ם|tan·ḥêm|guides them|H5148|V-Hifil-Imperf-3fs | 3mp
 v3 וְסֶ֖לֶף|wə·se·lep̄|but the perversity|H5558|Conj-w | N-msc
 v3 בּוֹגְדִ֣ים|bō·wḡ·ḏîm|of the faithless|H898|V-Qal-Prtcpl-mp
 v3 וְשַׁדָּם׃|wə·šad·då̄m|destroys them|H7703|V-Qal-Imperf-3ms | 3mp
-v4 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v4 לֹא־|lō-|...|H3808|Adv-NegPrt
 v4 יוֹעִ֣יל|yō·w·‘îl|are worthless|H3276|V-Hifil-Imperf-3ms
 v4 ה֭וֹן|hō·wn|Riches|H1952|N-ms
 v4 בְּי֣וֹם|bə·yō·wm|in the day|H3117|Prep-b | N-msc
@@ -81,7 +81,7 @@ v12 לֵ֑ב|lêḇ|judgment|H3820|N-ms
 v12 וְאִ֖ישׁ|wə·’îš|but a man|H376|Conj-w | N-msc
 v12 תְּבוּנ֣וֹת|tə·ḇū·nō·wṯ|of understanding|H8394|N-fp
 v12 יַחֲרִֽישׁ׃|ya·ḥă·rîš|remains silent|H2790|V-Hifil-Imperf-3ms
-v13 הוֹלֵ֣ךְ|hō·w·lêḵ|vvv|H1980|V-Qal-Prtcpl-ms
+v13 הוֹלֵ֣ךְ|hō·w·lêḵ|...|H1980|V-Qal-Prtcpl-ms
 v13 רָ֭כִיל|rā·ḵîl|A gossip|H7400|N-ms
 v13 מְגַלֶּה־|mə·ḡal·leh-|reveals|H1540|V-Piel-Prtcpl-ms
 v13 סּ֑וֹד|sō·wḏ|a secret|H5475|N-ms

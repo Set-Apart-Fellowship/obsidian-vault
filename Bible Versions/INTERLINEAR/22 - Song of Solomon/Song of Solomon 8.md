@@ -39,7 +39,7 @@ v4 תְּעֹֽרְר֛וּ|tə·‘ō·rə·rū|or awaken|H5782|V-Piel-Imperf-2
 v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 הָאַהֲבָ֖ה|hā·’a·hă·ḇāh|love|H160|Art | N-fs
 v4 עַ֥ד|‘aḏ|until|H5704|Conj-w | V-Qal-ConjImperf-3fs
-v4 שֶׁתֶּחְפָּֽץ׃ס|šet·teḥ·pāṣ|the time is right|H2654|Verb
+v4 שֶׁתֶּחְפָּֽץ׃|šet·teḥ·pāṣ|the time is right|H2654|Verb
 v5 מִ֣י|mî|Who|H4310|Interrog
 v5 זֹ֗את|zōṯ|is this|H2063|Pro-fs
 v5 עֹלָה֙|‘ō·lāh|coming up|H5927|V-Qal-Prtcpl-fs
@@ -95,19 +95,19 @@ v7 בֵּיתוֹ֙|bê·ṯōw|of his house|H1004|N-msc | 3ms
 v7 בָּאַהֲבָ֔ה|bā·’a·hă·ḇāh|for love|H160|Prep-b, Art | N-fs
 v7 בּ֖וֹז|bō·wz|[his offer] would be utterly scorned|H936|V-Qal-InfAbs
 v7 יָב֥וּזוּ|yā·ḇū·zū|...|H936|V-Qal-Imperf-3mp
-v7 לֽוֹ׃ס|lōw||H0|Prep | 3ms
+v7 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v8 אָח֥וֹת|’ā·ḥō·wṯ|sister|H269|N-fs
 v8 לָ֙נוּ֙|lā·nū|-|H0|Prep | 1cp
 v8 קְטַנָּ֔ה|qə·ṭan·nāh|We have a little|H6996|Adj-fs
 v8 וְשָׁדַ֖יִם|wə·šā·ḏa·yim|and her breasts|H7699|Conj-w | N-md
 v8 אֵ֣ין|’ên|are not yet grown|H369|Adv
-v8 לָ֑הּ|lāh||H0|Prep | 3fs
+v8 לָ֑הּ|lāh|-|H0|Prep | 3fs
 v8 מַֽה־|mah-|What|H4100|Interrog
 v8 נַּעֲשֶׂה֙|na·‘ă·śeh|shall we do|H6213|V-Qal-Imperf-1cp
 v8 לַאֲחֹתֵ֔נוּ|la·’ă·ḥō·ṯê·nū|for our sister|H269|Prep-l | N-fsc | 1cp
 v8 בַּיּ֖וֹם|bay·yō·wm|on the day|H3117|Prep-b, Art | N-ms
 v8 שֶׁיְּדֻבַּר־|še·yə·ḏub·bar-|she is spoken for|H1696|Pro-r | V-Pual-Imperf-3ms
-v8 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v8 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v9 אִם־|’im-|If|H518|Conj
 v9 חוֹמָ֣ה|ḥō·w·māh|is a wall|H2346|N-fs
 v9 הִ֔יא|hî|she|H1931|Pro-3fs
@@ -130,11 +130,11 @@ v10 אָ֛ז|’āz|So|H227|Adv
 v10 הָיִ֥יתִי|hā·yî·ṯî|I have become|H1961|V-Qal-Perf-1cs
 v10 בְעֵינָ֖יו|ḇə·‘ê·nāw|in his eyes|H5869|Prep-b | N-cdc | 3ms
 v10 כְּמוֹצְאֵ֥ת|kə·mō·wṣ·’êṯ|like one who brings|H4672|Prep-k | V-Qal-Prtcpl-fs
-v10 שָׁלֽוֹם׃פ|šā·lō·wm|peace|H7965|N-ms
+v10 שָׁלֽוֹם׃|šā·lō·wm|peace|H7965|N-ms
 v11 כֶּ֣רֶם|ke·rem|a vineyard|H3754|N-ms
 v11 הָיָ֤ה|hā·yāh|had|H1961|V-Qal-Perf-3ms
 v11 לִשְׁלֹמֹה֙|liš·lō·mōh|Solomon|H8010|Prep-l | N-proper-ms
-v11 בְּבַ֣עַל|bə·ḇa·‘al|vvv|H1174|Prep
+v11 בְּבַ֣עַל|bə·ḇa·‘al|...|H1174|Prep
 v11 הָמ֔וֹן|hā·mō·wn|in Baal-hamon|H1174|Prep | N-proper-fs
 v11 נָתַ֥ן|nā·ṯan|He leased|H5414|V-Qal-Perf-3ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
@@ -146,7 +146,7 @@ v11 בְּפִרְי֖וֹ|bə·p̄ir·yōw|For its fruit|H6529|Prep-b | N-msc |
 v11 אֶ֥לֶף|’e·lep̄|a thousand [shekels]|H505|Number-msc
 v11 כָּֽסֶף׃|kā·sep̄|of silver|H3701|N-ms
 v12 כָּרְמִ֥י|kå̄·rə·mī|[But] my own vineyard|H3754|N-msc | 1cs
-v12 שֶׁלִּ֖י|šel·lî||H0|Pro-r | Prep | 1cs
+v12 שֶׁלִּ֖י|šel·lî|-|H0|Pro-r | Prep | 1cs
 v12 לְפָנָ֑י|lə·p̄ā·nāy|is mine to give|H6440|Prep-l | N-mpc | 1cs
 v12 הָאֶ֤לֶף|hā·’e·lep̄|the thousand [shekels]|H505|Art | Number-ms
 v12 לְךָ֙|lə·ḵā|are for you|H0|Prep | 2ms
@@ -164,7 +164,7 @@ v13 הַשְׁמִיעִֽינִי׃|haš·mî·‘î·nî|Let me hear it|H8085|
 v14 בְּרַ֣ח׀|bə·raḥ|Come away|H1272|V-Qal-Imp-ms
 v14 דּוֹדִ֗י|dō·w·ḏî|my beloved|H1730|N-msc | 1cs
 v14 וּֽדְמֵה־|ū·ḏə·mêh-|and be like|H1819|Conj-w | V-Qal-Imp-ms
-v14 לְךָ֤|lə·ḵā||H0|Prep | 2ms
+v14 לְךָ֤|lə·ḵā|-|H0|Prep | 2ms
 v14 לִצְבִי֙|liṣ·ḇî|a gazelle|H6643|Prep-l | N-ms
 v14 א֚וֹ|’ōw|or|H176|Conj
 v14 לְעֹ֣פֶר|lə·‘ō·p̄er|a young|H6082|Prep-l | N-msc

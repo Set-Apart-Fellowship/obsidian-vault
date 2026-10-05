@@ -58,7 +58,7 @@ v7 תְּעֽוֹרְר֛וּ|tə·‘ō·wr·rū|awaken|H5782|V-Piel-Imperf-2mp
 v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 הָאַהֲבָ֖ה|hā·’a·hă·ḇāh|love|H160|Art | N-fs
 v7 עַ֥ד|‘aḏ|until|H5704|Conj-w | V-Qal-ConjImperf-3fs
-v7 שֶׁתֶּחְפָּֽץ׃ס|šet·teḥ·pāṣ|the time is right|H2654|Verb
+v7 שֶׁתֶּחְפָּֽץ׃|šet·teḥ·pāṣ|the time is right|H2654|Verb
 v8 ק֣וֹל|qō·wl|Listen|H6963|N-msc
 v8 דּוֹדִ֔י|dō·w·ḏî|My beloved [approaches]|H1730|N-msc | 1cs
 v8 הִנֵּה־|hin·nêh-|Look|H2009|Interjection
@@ -89,10 +89,10 @@ v9 מִן־|min-|through|H4480|Prep
 v9 הַֽחֲרַכִּֽים׃|ha·ḥă·rak·kîm|the lattice|H2762|Art | N-mp
 v10 עָנָ֥ה|‘ā·nāh|calls|H6030|V-Qal-Perf-3ms
 v10 דוֹדִ֖י|ḏō·w·ḏî|My beloved|H1730|N-msc | 1cs
-v10 וְאָ֣מַר|wə·’ā·mar||H559|Conj-w | V-Qal-ConjPerf-3ms
+v10 וְאָ֣מַר|wə·’ā·mar|-|H559|Conj-w | V-Qal-ConjPerf-3ms
 v10 לִ֑י|lî|to me|H0|Prep | 1cs
 v10 ק֥וּמִי|qū·mî|Arise|H6965|V-Qal-Imp-fs
-v10 לָ֛ךְ|lāḵ||H0|Prep | 2fs
+v10 לָ֛ךְ|lāḵ|-|H0|Prep | 2fs
 v10 רַעְיָתִ֥י|ra‘·yā·ṯî|my darling|H7474|N-fsc | 1cs
 v10 יָפָתִ֖י|yā·p̄ā·ṯî|my beautiful one|H3303|Adj-fsc | 1cs
 v10 וּלְכִי־|ū·lə·ḵî-|Come away|H1980|Conj-w | V-Qal-Imp-fs
@@ -104,7 +104,7 @@ v11 עָבָ֑ר|‘ā·ḇār|is past|H5674|V-Qal-Perf-3ms
 v11 הַגֶּ֕שֶׁם|hag·ge·šem|the rain|H1653|Art | N-ms
 v11 חָלַ֖ף|ḥā·lap̄|is over|H2498|V-Qal-Perf-3ms
 v11 הָלַ֥ךְ|hā·laḵ|and gone|H1980|V-Qal-Perf-3ms
-v11 לֽוֹ׃|lōw||H0|Prep | 3ms
+v11 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v12 הַנִּצָּנִים֙|han·niṣ·ṣā·nîm|The flowers|H5339|Art | N-ms
 v12 נִרְא֣וּ|nir·’ū|have appeared|H7200|V-Nifal-Perf-3cp
 v12 בָאָ֔רֶץ|ḇā·’ā·reṣ|in the countryside|H776|Prep-b, Art | N-fs
@@ -127,7 +127,7 @@ v13 לְכִי|lə·ḵī|come away|H1980|Prep | 2fs
 v13 רַעְיָתִ֥י|ra‘·yā·ṯî|my darling|H7474|N-fsc | 1cs
 v13 יָפָתִ֖י|yā·p̄ā·ṯî|my beautiful one|H3303|Adj-fsc | 1cs
 v13 וּלְכִי־|ū·lə·ḵî-|come away|H1980|Conj-w | V-Qal-Imp-fs
-v13 לָֽךְ׃ס|lāḵ|with me|H0|Prep | 2fs
+v13 לָֽךְ׃|lāḵ|with me|H0|Prep | 2fs
 v14 יוֹנָתִ֞י|yō·w·nā·ṯî|O my dove|H3123|N-fsc | 1cs
 v14 בְּחַגְוֵ֣י|bə·ḥaḡ·wê|in the clefts|H2288|Prep-b | N-mpc
 v14 הַסֶּ֗לַע|has·se·la‘|of the rock|H5553|Art | N-ms
@@ -143,7 +143,7 @@ v14 כִּי־|kî-|for|H3588|Conj
 v14 קוֹלֵ֥ךְ|qō·w·lêḵ|your voice|H6963|N-msc | 2fs
 v14 עָרֵ֖ב|‘ā·rêḇ|is sweet|H6156|Adj-ms
 v14 וּמַרְאֵ֥יךְ|ū·mar·’êḵ|and your countenance|H4758|Conj-w | N-msc | 2fs
-v14 נָאוֶֽה׃ס|nā·weh|is lovely|H5000|Adj-ms
+v14 נָאוֶֽה׃|nā·weh|is lovely|H5000|Adj-ms
 v15 אֶֽחֱזוּ־|’e·ḥĕ·zū-|Catch|H270|V-Qal-Imp-mp
 v15 לָ֙נוּ֙|lā·nū|for us|H0|Prep | 1cp
 v15 שֽׁוּעָלִ֔ים|šū·‘ā·lîm|the foxes|H7776|N-mp
@@ -166,7 +166,7 @@ v17 וְנָ֖סוּ|wə·nā·sū|flee|H5127|Conj-w | V-Qal-ConjPerf-3cp
 v17 הַצְּלָלִ֑ים|haṣ·ṣə·lā·lîm|and shadows|H6752|Art | N-mp
 v17 סֹב֩|sōḇ|turn|H5437|V-Qal-Imp-ms
 v17 דְּמֵה־|də·mêh-|and be like|H1819|V-Qal-Imp-ms
-v17 לְךָ֨|lə·ḵā||H0|Prep | 2ms
+v17 לְךָ֨|lə·ḵā|-|H0|Prep | 2ms
 v17 דוֹדִ֜י|ḏō·w·ḏî|my beloved|H1730|N-msc | 1cs
 v17 לִצְבִ֗י|liṣ·ḇî|a gazelle|H6643|Prep-l | N-ms
 v17 א֛וֹ|’ōw|or|H176|Conj
@@ -174,4 +174,4 @@ v17 לְעֹ֥פֶר|lə·‘ō·p̄er|a young stag|H6082|Prep-l | N-msc
 v17 הָאַיָּלִ֖ים|hā·’ay·yā·lîm|...|H354|Art | N-mp
 v17 עַל־|‘al-|on|H5921|Prep
 v17 הָ֥רֵי|hā·rê|the mountains|H2022|N-mpc
-v17 בָֽתֶר׃ס|ḇā·ṯer|of Bether|H1336|N-ms
+v17 בָֽתֶר׃|ḇā·ṯer|of Bether|H1336|N-ms

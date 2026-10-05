@@ -1,4 +1,4 @@
-v1 וּבֶן־|ū·ḇen-|vvv|H1130|
+v1 וּבֶן־|ū·ḇen-|...|H1130|
 v1 הֲדַ֣ד|hă·ḏaḏ|Now Ben-hadad|H1130|Conj-w | N-proper-ms
 v1 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v1 אֲרָ֗ם|’ă·rām|of Aram|H758|N-proper-fs
@@ -26,10 +26,10 @@ v2 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v2 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 הָעִֽירָה׃|hā·‘î·rāh|into the city|H5892|Art | N-fs | 3fs
 v3 וַיֹּ֣אמֶר|way·yō·mer|saying|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v3 ל֗וֹ|lōw||H0|Prep | 3ms
+v3 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v3 כֹּ֚ה|kōh|This is what|H3541|Adv
 v3 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v3 בֶּן־|ben-|vvv|H1130|Prep
+v3 בֶּן־|ben-|...|H1130|Prep
 v3 הֲדַ֔ד|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v3 כַּסְפְּךָ֥|kas·pə·ḵā|Your silver|H3701|N-msc | 2ms
 v3 וּֽזְהָבְךָ֖|ū·zə·hā·ḇə·ḵā|and gold|H2091|Conj-w | N-msc | 2ms
@@ -47,7 +47,7 @@ v4 וַיֹּ֔אמֶר|way·yō·mer|...|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 כִּדְבָרְךָ֖|kiḏ·ḇā·rə·ḵā|Just as you say|H1697|Prep-k | N-msc | 2ms
 v4 אֲדֹנִ֣י|’ă·ḏō·nî|my lord|H113|N-msc | 1cs
 v4 הַמֶּ֑לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
-v4 לְךָ֥|lə·ḵā|vvv|H0|Prep | 2ms
+v4 לְךָ֥|lə·ḵā|...|H0|Prep | 2ms
 v4 אֲנִ֖י|’ă·nî|I am yours|H589|Pro-1cs
 v4 וְכָל־|wə·ḵāl|along with all|H3605|Conj-w | N-msc
 v4 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
@@ -57,7 +57,7 @@ v5 הַמַּלְאָכִ֔ים|ham·mal·’ā·ḵîm|The messengers|H4397|Art
 v5 וַיֹּ֣אמְר֔וּ|way·yō·mə·rū|and said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v5 כֹּֽה־|kōh-|This is what|H3541|Adv
 v5 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v5 בֶּן־|ben-||H1130|Prep
+v5 בֶּן־|ben-|-|H1130|Prep
 v5 הֲדַ֖ד|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v5 לֵאמֹ֑ר|lê·mōr|to demand|H559|Prep-l | V-Qal-Inf
 v5 כִּֽי־|kî-|...|H3588|Conj
@@ -77,7 +77,7 @@ v6 מָחָ֗ר|mā·ḥār|tomorrow|H4279|Adv
 v6 אֶשְׁלַ֤ח|’eš·laḥ|I will send|H7971|V-Qal-Imperf-1cs
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 עֲבָדַי֙|‘ă·ḇā·ḏay|my servants|H5650|N-mpc | 1cs
-v6 אֵלֶ֔יךָ|’ê·le·ḵā||H413|Prep | 2ms
+v6 אֵלֶ֔יךָ|’ê·le·ḵā|-|H413|Prep | 2ms
 v6 וְחִפְּשׂוּ֙|wə·ḥip·pə·śū|to search|H2664|Conj-w | V-Piel-ConjPerf-3cp
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 בֵּ֣יתְךָ֔|bê·ṯə·ḵā|your palace|H1004|N-msc | 2ms
@@ -127,7 +127,7 @@ v8 וְל֥וֹא|wə·lō·w|or|H3808|Conj-w | Adv-NegPrt
 v8 תֹאבֶֽה׃|ṯō·ḇeh|consent to his terms|H14|V-Qal-Imperf-2ms
 v9 וַיֹּ֜אמֶר|way·yō·mer|So [Ahab] answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 לְמַלְאֲכֵ֣י|lə·mal·’ă·ḵê|the messengers|H4397|Prep-l | N-mpc
-v9 בֶן־|ḇen-|vvv|H1130|Prep
+v9 בֶן־|ḇen-|...|H1130|Prep
 v9 הֲדַ֗ד|hă·ḏaḏ|of Ben-hadad|H1130|N-proper-ms
 v9 אִמְר֞וּ|’im·rū|Tell|H559|V-Qal-Imp-mp
 v9 לַֽאדֹנִ֤י|la·ḏō·nî|my lord|H113|Prep-l | N-msc | 1cs
@@ -150,11 +150,11 @@ v9 וַיְשִׁבֻ֖הוּ|way·ši·ḇu·hū|...|H7725|Conj-w | V-Hifil-Con
 v9 דָּבָֽר׃|dā·ḇār|and relayed the message to [Ben-hadad]|H1697|N-ms
 v10 וַיִּשְׁלַ֤ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v10 אֵלָיו֙|’ê·lāw|to [Ahab]|H413|Prep | 3ms
-v10 בֶּן־|ben-||H1130|Prep
+v10 בֶּן־|ben-|-|H1130|Prep
 v10 הֲדַ֔ד|hă·ḏaḏ|Then Ben-hadad|H1130|N-proper-ms
 v10 וַיֹּ֕אמֶר|way·yō·mer|another message|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v10 כֹּֽה־|kōh-|deal|H3541|Adv
-v10 יַעֲשׂ֥וּן|ya·‘ă·śūn||H6213|V-Qal-Imperf-3mp | Pn
+v10 יַעֲשׂ֥וּן|ya·‘ă·śūn|-|H6213|V-Qal-Imperf-3mp | Pn
 v10 לִ֛י|lî|with me|H0|Prep | 1cs
 v10 אֱלֹהִ֖ים|’ĕ·lō·hîm|May the gods|H430|N-mp
 v10 וְכֹ֣ה|wə·ḵōh|and ever so|H3541|Conj-w | Adv
@@ -253,11 +253,11 @@ v15 הָעָ֛ם|hā·‘ām|troops|H5971|Art | N-ms
 v15 כָּל־|kāl-|in all|H3605|N-msc
 v15 בְּנֵ֥י|bə·nê|the Israelite|H1121|N-mpc
 v15 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
-v15 שִׁבְעַ֥ת|šiḇ·‘aṯ|7,000 {}|H7651|Number-msc
+v15 שִׁבְעַ֥ת|šiḇ·‘aṯ|7,000|H7651|Number-msc
 v15 אֲלָפִֽים׃|’ă·lā·p̄îm|...|H505|Number-mp
 v16 וַיֵּצְא֖וּ|way·yê·ṣə·’ū|They marched out|H3318|Conj-w | V-Qal-ConsecImperf-3mp
 v16 בַּֽצָּהֳרָ֑יִם|baṣ·ṣā·ho·rā·yim|at noon|H6672|Prep-b, Art | N-mp
-v16 וּבֶן־|ū·ḇen-|vvv|H1130|
+v16 וּבֶן־|ū·ḇen-|...|H1130|
 v16 הֲדַד֩|hă·ḏaḏ|while Ben-hadad|H1130|Conj-w | N-proper-ms
 v16 שֹׁתֶ֨ה|šō·ṯeh|getting|H8354|V-Qal-Prtcpl-ms
 v16 שִׁכּ֜וֹר|šik·kō·wr|drunk|H7910|Adj-ms
@@ -275,11 +275,11 @@ v17 שָׂרֵ֥י|śā·rê|governors|H8269|N-mpc
 v17 הַמְּדִינ֖וֹת|ham·mə·ḏî·nō·wṯ|of the district|H4082|Art | N-fp
 v17 בָּרִֽאשֹׁנָ֑ה|bā·ri·šō·nāh|...|H7223|Prep-b, Art | Adj-fs
 v17 וַיִּשְׁלַ֣ח|way·yiš·laḥ|had sent out scouts|H7971|Conj-w | V-Qal-ConsecImperf-3ms
-v17 בֶּן־|ben-||H1130|Prep
+v17 בֶּן־|ben-|-|H1130|Prep
 v17 הֲדַ֗ד|hă·ḏaḏ|Now Ben-hadad|H1130|N-proper-ms
 v17 וַיַּגִּ֤ידוּ|way·yag·gî·ḏū|who reported|H5046|Conj-w | V-Hifil-ConsecImperf-3mp
 v17 לוֹ֙|lōw|to him|H0|Prep | 3ms
-v17 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v17 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v17 אֲנָשִׁ֕ים|’ă·nā·šîm|Men|H582|N-mp
 v17 יָצְא֖וּ|yā·ṣə·’ū|are marching out|H3318|V-Qal-Perf-3cp
 v17 מִשֹּׁמְרֽוֹן׃|miš·šō·mə·rō·wn|of Samaria|H8111|Prep-m | N-proper-fs
@@ -312,7 +312,7 @@ v20 אֲרָ֔ם|’ă·rām|So the Arameans|H758|N-proper-fs
 v20 וַֽיִּרְדְּפֵ֖ם|way·yir·də·p̄êm|in pursuit|H7291|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
 v20 יִשְׂרָאֵ֑ל|yiś·rā·’êl|with the Israelites|H3478|N-proper-ms
 v20 וַיִּמָּלֵ֗ט|way·yim·mā·lêṭ|escaped|H4422|Conj-w | V-Nifal-ConsecImperf-3ms
-v20 בֶּן־|ben-||H1130|Prep
+v20 בֶּן־|ben-|-|H1130|Prep
 v20 הֲדַד֙|hă·ḏaḏ|But Ben-hadad|H1130|N-proper-ms
 v20 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v20 אֲרָ֔ם|’ă·rām|of Aram|H758|N-proper-fs
@@ -337,7 +337,7 @@ v22 אֶל־|’el-|...|H413|Prep
 v22 מֶ֣לֶךְ|me·leḵ|the king|H4428|N-msc
 v22 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v22 וַיֹּ֤אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v22 לוֹ֙|lōw||H0|Prep | 3ms
+v22 לוֹ֙|lōw|-|H0|Prep | 3ms
 v22 לֵ֣ךְ|lêḵ|Go|H1980|V-Qal-Imp-ms
 v22 הִתְחַזַּ֔ק|hiṯ·ḥaz·zaq|and strengthen [your position]|H2388|V-Hitpael-Imp-ms
 v22 וְדַ֥ע|wə·ḏa‘|and take note|H3045|Conj-w | V-Qal-Imp-ms
@@ -351,7 +351,7 @@ v22 הַשָּׁנָ֔ה|haš·šā·nāh|...|H8141|Art | N-fs
 v22 מֶ֥לֶךְ|me·leḵ|the king|H4428|N-msc
 v22 אֲרָ֖ם|’ă·rām|of Aram|H758|N-proper-fs
 v22 עֹלֶ֥ה|‘ō·leh|will come up|H5927|V-Qal-Prtcpl-ms
-v22 עָלֶֽיךָ׃ס|‘ā·le·ḵā|against you|H5921|Prep | 2ms
+v22 עָלֶֽיךָ׃|‘ā·le·ḵā|against you|H5921|Prep | 2ms
 v23 וְעַבְדֵ֨י|wə·‘aḇ·ḏê|Meanwhile, the servants|H5650|Conj-w | N-mpc
 v23 מֶֽלֶךְ־|me·leḵ-|of the king|H4428|N-msc
 v23 אֲרָ֜ם|’ă·rām|of Aram|H758|N-proper-fs
@@ -369,9 +369,9 @@ v23 נִלָּחֵ֤ם|nil·lā·ḥêm|we should fight|H3898|V-Nifal-Imperf-1cp
 v23 אִתָּם֙|’it·tām|them|H854|Prep | 3mp
 v23 בַּמִּישׁ֔וֹר|bam·mî·šō·wr|on the plains|H4334|Prep-b, Art | N-ms
 v23 אִם־|’im-|surely then|H518|Conj
-v23 לֹ֥א|lō||H3808|Adv-NegPrt
+v23 לֹ֥א|lō|-|H3808|Adv-NegPrt
 v23 נֶחֱזַ֖ק|ne·ḥĕ·zaq|we will prevail|H2388|V-Qal-Imperf-1cp
-v23 מֵהֶֽם׃|mê·hem||H0|Prep-m | Pro-3mp
+v23 מֵהֶֽם׃|mê·hem|-|H0|Prep-m | Pro-3mp
 v24 וְאֶת־|wə·’eṯ-|So|H853|Conj-w | DirObjM
 v24 הַדָּבָ֥ר|had·dā·ḇār|-|H1697|Art | N-ms
 v24 הַזֶּ֖ה|haz·zeh|this|H2088|Art | Pro-ms
@@ -385,7 +385,7 @@ v24 פַּח֖וֹת|pa·ḥō·wṯ|with other officers|H6346|N-mp
 v24 תַּחְתֵּיהֶֽם׃|taḥ·tê·hem|...|H8478|Prep | 3mp
 v25 וְאַתָּ֣ה|wə·’at·tāh|And you|H859|Conj-w | Pro-2ms
 v25 תִֽמְנֶה־|ṯim·neh-|must raise|H4487|V-Qal-Imperf-2ms
-v25 לְךָ֣׀|lə·ḵā||H0|Prep | 2ms
+v25 לְךָ֣׀|lə·ḵā|-|H0|Prep | 2ms
 v25 חַ֡יִל|ḥa·yil|an army|H2428|N-ms
 v25 כַּחַיִל֩|ka·ḥa·yil|like the [one]|H2428|Prep-k, Art | N-ms
 v25 הַנֹּפֵ֨ל|han·nō·p̄êl|you have lost|H5307|Art | V-Qal-Prtcpl-ms
@@ -404,12 +404,12 @@ v25 מֵהֶ֑ם|mê·hem|...|H0|Prep-m | Pro-3mp
 v25 וַיִּשְׁמַ֥ע|way·yiš·ma‘|And [the king] approved|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v25 לְקֹלָ֖ם|lə·qō·lām|their plan|H6963|Prep-l | N-msc | 3mp
 v25 וַיַּ֥עַשׂ|way·ya·‘aś|and acted|H6213|Conj-w | V-Qal-ConsecImperf-3ms
-v25 כֵּֽן׃פ|kên|accordingly|H3651|Adv
+v25 כֵּֽן׃|kên|accordingly|H3651|Adv
 v26 וַֽיְהִי֙|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v26 לִתְשׁוּבַ֣ת|liṯ·šū·ḇaṯ|In the spring|H8666|Prep-l | N-fsc
 v26 הַשָּׁנָ֔ה|haš·šā·nāh|...|H8141|Art | N-fs
 v26 וַיִּפְקֹ֥ד|way·yip̄·qōḏ|mobilized|H6485|Conj-w | V-Qal-ConsecImperf-3ms
-v26 בֶּן־|ben-|vvv|H1130|Prep
+v26 בֶּן־|ben-|...|H1130|Prep
 v26 הֲדַ֖ד|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v26 אֶת־|’eṯ-|-|H853|DirObjM
 v26 אֲרָ֑ם|’ă·rām|the Arameans|H758|N-proper-fs
@@ -442,7 +442,7 @@ v28 וַיֹּאמֶר֮|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf
 v28 אֶל־|’el-|-|H413|Prep
 v28 מֶ֣לֶךְ|me·leḵ|the king|H4428|N-msc
 v28 יִשְׂרָאֵל֒|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v28 וַיֹּ֜אמֶר|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
+v28 וַיֹּ֜אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v28 כֹּֽה־|kōh-|This is what|H3541|Adv
 v28 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v28 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -502,14 +502,14 @@ v30 וְשִׁבְעָ֥ה|wə·šiḇ·‘āh|...|H7651|Conj-w | Number-ms
 v30 אֶ֛לֶף|’e·lep̄|thousand|H505|Number-ms
 v30 אִ֖ישׁ|’îš|men|H376|N-ms
 v30 הַנּוֹתָרִ֑ים|han·nō·w·ṯā·rîm|of the remaining|H3498|Art | V-Nifal-Prtcpl-mp
-v30 וּבֶן־|ū·ḇen-|vvv|H1130|
+v30 וּבֶן־|ū·ḇen-|...|H1130|
 v30 הֲדַ֣ד|hă·ḏaḏ|Ben-hadad|H1130|Conj-w | N-proper-ms
 v30 נָ֔ס|nās|also fled|H5127|V-Qal-Perf-3ms
 v30 וַיָּבֹ֥א|way·yā·ḇō|and hid|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v30 אֶל־|’el-|in|H413|Prep
 v30 הָעִ֖יר|hā·‘îr|to the city|H5892|Art | N-fs
 v30 חֶ֥דֶר|ḥe·ḏer|an inner room|H2315|N-ms
-v30 בְּחָֽדֶר׃ס|bə·ḥā·ḏer|...|H2315|Prep-b | N-ms
+v30 בְּחָֽדֶר׃|bə·ḥā·ḏer|...|H2315|Prep-b | N-ms
 v31 וַיֹּאמְר֣וּ|way·yō·mə·rū|said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v31 אֵלָיו֮|’ê·lāw|to him|H413|Prep | 3ms
 v31 עֲבָדָיו֒|‘ă·ḇā·ḏāw|Then the servants of [Ben-hadad]|H5650|N-mpc | 3ms
@@ -549,7 +549,7 @@ v32 מֶ֣לֶךְ|me·leḵ|the king|H4428|N-msc
 v32 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v32 וַיֹּ֣אמְר֔וּ|way·yō·mə·rū|and said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v32 עַבְדְּךָ֧|‘aḇ·də·ḵā|Your servant|H5650|N-msc | 2ms
-v32 בֶן־|ḇen-|vvv|H1130|Prep
+v32 בֶן־|ḇen-|...|H1130|Prep
 v32 הֲדַ֛ד|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v32 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v32 תְּחִֽי־|tə·ḥî-|spare|H2421|V-Qal-Imperf.Jus-3fs
@@ -567,14 +567,14 @@ v33 וַיַּחְלְט֣וּ|way·yaḥ·lə·ṭū|grasped [at this word]|H24
 v33 הֲמִמֶּ֗נּוּ|hă·mim·men·nū|...|H4480|Prep | 3ms
 v33 וַיֹּֽאמְרוּ֙|way·yō·mə·rū|and replied|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v33 אָחִ֣יךָ|’ā·ḥî·ḵā|Yes, your brother|H251|N-msc | 2ms
-v33 בֶן־|ḇen-|vvv|H1130|Prep
+v33 בֶן־|ḇen-|...|H1130|Prep
 v33 הֲדַ֔ד|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v33 וַיֹּ֖אמֶר|way·yō·mer|said [the king]|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v33 בֹּ֣אוּ|bō·’ū|Go|H935|V-Qal-Imp-mp
 v33 קָחֻ֑הוּ|qā·ḥu·hū|and get him|H3947|V-Qal-Imp-mp | 3ms
 v33 וַיֵּצֵ֤א|way·yê·ṣê|came out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v33 אֵלָיו֙|’ê·lāw|-|H413|Prep | 3ms
-v33 בֶּן־|ben-|vvv|H1130|Prep
+v33 בֶּן־|ben-|...|H1130|Prep
 v33 הֲדַ֔ד|hă·ḏaḏ|Then Ben-hadad|H1130|N-proper-ms
 v33 וַֽיַּעֲלֵ֖הוּ|way·ya·‘ă·lê·hū|and Ahab had him come up|H5927|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
 v33 עַל־|‘al-|into|H5921|Prep
@@ -602,8 +602,8 @@ v34 אֲשַׁלְּחֶ֑ךָּ|’ă·šal·lə·ḥe·kā|release you,” [A
 v34 וַיִּכְרָת־|way·yiḵ·rāṯ-|So he made|H3772|Conj-w | V-Qal-ConsecImperf-3ms
 v34 ל֥וֹ|lōw|with him|H0|Prep | 3ms
 v34 בְרִ֖ית|ḇə·rîṯ|a treaty|H1285|N-fs
-v34 וַֽיְשַׁלְּחֵֽהוּ׃ס|way·šal·lə·ḥê·hū|and sent him away|H7971|Conj-w | V-Piel-ConsecImperf-3ms | 3ms
-v35 וְאִ֨ישׁ|wə·’îš|vvv|H376|Conj-w | N-ms
+v34 וַֽיְשַׁלְּחֵֽהוּ׃|way·šal·lə·ḥê·hū|and sent him away|H7971|Conj-w | V-Piel-ConsecImperf-3ms | 3ms
+v35 וְאִ֨ישׁ|wə·’îš|...|H376|Conj-w | N-ms
 v35 אֶחָ֜ד|’e·ḥāḏ|one|H259|Number-ms
 v35 מִבְּנֵ֣י|mib·bə·nê|of the sons|H1121|Prep-m | N-mpc
 v35 הַנְּבִיאִ֗ים|han·nə·ḇî·’îm|of the prophets|H5030|Art | N-mp
@@ -743,4 +743,4 @@ v43 בֵּית֖וֹ|bê·ṯōw|home|H1004|N-msc | 3ms
 v43 סַ֣ר|sar|Sullen|H5620|Adj-ms
 v43 וְזָעֵ֑ף|wə·zā·‘êp̄|and angry|H2198|Conj-w | Adj-ms
 v43 וַיָּבֹ֖א|way·yā·ḇō|-|H935|Conj-w | V-Qal-ConsecImperf-3ms
-v43 שֹׁמְרֽוֹנָה׃פ|šō·mə·rō·w·nāh|to Samaria|H8111|N-proper-fs | 3fs
+v43 שֹׁמְרֽוֹנָה׃|šō·mə·rō·w·nāh|to Samaria|H8111|N-proper-fs | 3fs

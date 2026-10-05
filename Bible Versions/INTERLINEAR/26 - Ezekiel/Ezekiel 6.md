@@ -45,7 +45,7 @@ v4 גִּלּוּלֵיכֶֽם׃|gil·lū·lê·ḵem|your idols|H1544|N-mpc | 
 v5 וְנָתַתִּ֗י|wə·nā·ṯat·tî|I will lay|H5414|Conj-w | V-Qal-ConjPerf-1cs
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 פִּגְרֵי֙|piḡ·rê|the corpses|H6297|N-mpc
-v5 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v5 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v5 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v5 לִפְנֵ֖י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v5 גִּלּֽוּלֵיהֶ֑ם|gil·lū·lê·hem|their idols|H1544|N-mpc | 3mp
@@ -125,7 +125,7 @@ v10 דִּבַּ֔רְתִּי|dib·bar·tî|declare|H1696|V-Piel-Perf-1cs
 v10 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|that I would bring|H6213|Prep-l | V-Qal-Inf
 v10 לָהֶ֖ם|lā·hem|upon them|H0|Prep | 3mp
 v10 הָרָעָ֥ה|hā·rā·‘āh|calamity|H7451|Art | Adj-fs
-v10 הַזֹּֽאת׃פ|haz·zōṯ|this|H2063|Art | Pro-fs
+v10 הַזֹּֽאת׃|haz·zōṯ|this|H2063|Art | Pro-fs
 v11 כֹּֽה־|kōh-|This is what|H3541|Adv
 v11 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v11 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -209,4 +209,4 @@ v14 מוֹשְׁבֽוֹתֵיהֶ֑ם|mō·wō·šə·ḇō·w·ṯê·hem|they
 v14 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v14 כִּֽי־|kî-|that|H3588|Conj
 v14 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v14 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v14 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms

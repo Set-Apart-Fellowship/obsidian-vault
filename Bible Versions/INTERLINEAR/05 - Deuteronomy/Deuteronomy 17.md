@@ -6,7 +6,7 @@ v1 שׁ֣וֹר|šō·wr|an ox|H7794|N-ms
 v1 וָשֶׂ֗ה|wā·śeh|or a sheep|H7716|Conj-w | N-ms
 v1 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v1 יִהְיֶ֥ה|yih·yeh|-|H1961|V-Qal-Imperf-3ms
-v1 בוֹ֙|ḇōw||H0|Prep | 3ms
+v1 בוֹ֙|ḇōw|-|H0|Prep | 3ms
 v1 מ֔וּם|mūm|with any defect|H3971|N-ms
 v1 כֹּ֖ל|kōl|[or]|H3605|N-msc
 v1 דָּבָ֣ר|dā·ḇār|flaw|H1697|N-ms
@@ -15,7 +15,7 @@ v1 כִּ֧י|kî|for|H3588|Conj
 v1 תוֹעֲבַ֛ת|ṯō·w·‘ă·ḇaṯ|is detestable|H8441|N-fsc
 v1 יְהוָ֥ה|Yah·weh|to the LORD|H3068|N-proper-ms
 v1 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
-v1 הֽוּא׃ס|hū|that|H1931|Pro-3ms
+v1 הֽוּא׃|hū|that|H1931|Pro-3ms
 v2 כִּֽי־|kî-|If|H3588|Conj
 v2 יִמָּצֵ֤א|yim·mā·ṣê|is found|H4672|V-Nifal-Imperf-3ms
 v2 בְקִרְבְּךָ֙|ḇə·qir·bə·ḵā|among you|H7130|Prep-b | N-msc | 2ms
@@ -55,7 +55,7 @@ v3 אֲשֶׁ֥ר|’ă·šer|which|H834|Pro-r
 v3 לֹא־|lō-|I have forbidden|H3808|Adv-NegPrt
 v3 צִוִּֽיתִי׃|ṣiw·wî·ṯî|...|H6680|V-Piel-Perf-1cs
 v4 וְהֻֽגַּד־|wə·hug·gaḏ-|and if it is reported|H5046|Conj-w | V-Hofal-ConjPerf-3ms
-v4 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v4 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v4 וְשָׁמָ֑עְתָּ|wə·šā·mā·‘ə·tā|and you hear about it|H8085|Conj-w | V-Qal-ConjPerf-2ms
 v4 וְדָרַשְׁתָּ֣|wə·ḏā·raš·tā|you must investigate it|H1875|Conj-w | V-Qal-ConjPerf-2ms
 v4 הֵיטֵ֔ב|hê·ṭêḇ|thoroughly|H3190|V-Hifil-InfAbs
@@ -118,7 +118,7 @@ v7 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
 v7 בָּאַחֲרֹנָ֑ה|bā·’a·ḥă·rō·nāh|and after that|H314|Prep-b, Art | Adj-fs
 v7 וּבִֽעַרְתָּ֥|ū·ḇi·‘ar·tā|So you must purge|H1197|Conj-w | V-Piel-ConjPerf-2ms
 v7 הָרָ֖ע|hā·rā‘|the evil|H7451|Art | Adj-ms
-v7 מִקִּרְבֶּֽךָ׃פ|miq·qir·be·ḵā|from among you|H7130|Prep-m | N-msc | 2ms
+v7 מִקִּרְבֶּֽךָ׃|miq·qir·be·ḵā|from among you|H7130|Prep-m | N-msc | 2ms
 v8 כִּ֣י|kî|If|H3588|Conj
 v8 יִפָּלֵא֩|yip·pā·lê|is too difficult|H6381|V-Nifal-Imperf-3ms
 v8 מִמְּךָ֨|mim·mə·ḵā|for you|H4480|Prep | 2ms
@@ -188,7 +188,7 @@ v11 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v11 הַמִּשְׁפָּ֛ט|ham·miš·pāṭ|and the verdict|H4941|Art | N-ms
 v11 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v11 יֹאמְר֥וּ|yō·mə·rū|they proclaim|H559|V-Qal-Imperf-3mp
-v11 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v11 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v11 תַּעֲשֶׂ֑ה|ta·‘ă·śeh|-|H6213|V-Qal-Imperf-2ms
 v11 לֹ֣א|lō|Do not|H3808|Adv-NegPrt
 v11 תָס֗וּר|ṯā·sūr|turn aside|H5493|V-Qal-Imperf-2ms
@@ -228,7 +228,7 @@ v13 יִשְׁמְע֣וּ|yiš·mə·‘ū|will hear|H8085|V-Qal-Imperf-3mp
 v13 וְיִרָ֑אוּ|wə·yi·rā·’ū|and be afraid|H3372|Conj-w | V-Qal-ConjImperf-3mp
 v13 וְלֹ֥א|wə·lō|and will no|H3808|Conj-w | Adv-NegPrt
 v13 יְזִיד֖וּן|yə·zî·ḏūn|behave arrogantly|H2102|V-Hifil-Imperf-3mp | Pn
-v13 עֽוֹד׃ס|‘ō·wḏ|longer|H5750|Adv
+v13 עֽוֹד׃|‘ō·wḏ|longer|H5750|Adv
 v14 כִּֽי־|kî-|When|H3588|Conj
 v14 תָבֹ֣א|ṯā·ḇō|you enter|H935|V-Qal-Imperf-2ms
 v14 אֶל־|’el-|...|H413|Prep
@@ -257,7 +257,7 @@ v15 אֲשֶׁ֥ר|’ă·šer|whom|H834|Pro-r
 v15 יִבְחַ֛ר|yiḇ·ḥar|shall choose|H977|V-Qal-Imperf-3ms
 v15 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v15 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
-v15 בּ֑וֹ|bōw||H0|Prep | 3ms
+v15 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v15 מִקֶּ֣רֶב|miq·qe·reḇ|from among|H7130|Prep-m | N-msc
 v15 אַחֶ֗יךָ|’a·ḥe·ḵā|your brothers|H251|N-mpc | 2ms
 v15 תָּשִׂ֤ים|tā·śîm|...|H7760|V-Qal-Imperf-2ms
@@ -315,7 +315,7 @@ v18 כִּסֵּ֣א|kis·sê|throne|H3678|N-msc
 v18 מַמְלַכְתּ֑וֹ|mam·laḵ·tōw|his royal|H4467|N-fsc | 3ms
 v18 וְכָ֨תַב|wə·ḵā·ṯaḇ|he must write|H3789|Conj-w | V-Qal-ConjPerf-3ms
 v18 ל֜וֹ|lōw|for himself|H0|Prep | 3ms
-v18 אֶת־|’eṯ-||H853|DirObjM
+v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 מִשְׁנֵ֨ה|miš·nêh|a copy|H4932|N-msc
 v18 הַתּוֹרָ֤ה|hat·tō·w·rāh|instruction|H8451|Art | N-fs
 v18 הַזֹּאת֙|haz·zōṯ|of this|H2063|Art | Pro-fs
@@ -365,4 +365,4 @@ v20 מַמְלַכְתּ֛וֹ|mam·laḵ·tōw|his kingdom|H4467|N-fsc | 3ms
 v20 ה֥וּא|hū|he|H1931|Pro-3ms
 v20 וּבָנָ֖יו|ū·ḇā·nāw|and his sons|H1121|Conj-w | N-mpc | 3ms
 v20 בְּקֶ֥רֶב|bə·qe·reḇ|in|H7130|Prep-b | N-msc
-v20 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v20 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms

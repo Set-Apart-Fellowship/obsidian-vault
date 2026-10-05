@@ -24,7 +24,7 @@ v2 בְּאֶחָ֔יו|bə·’e·ḥāw|over his brothers|H251|Prep-b | N-mpc 
 v2 וּלְנָגִ֖יד|ū·lə·nā·ḡîḏ|and a ruler|H5057|Conj-w, Prep-l | N-ms
 v2 מִמֶּ֑נּוּ|mim·men·nū|came from him|H4480|Prep | 3ms
 v2 וְהַבְּכֹרָ֖ה|wə·hab·bə·ḵō·rāh|the birthright|H1062|Conj-w, Art | N-fs
-v2 לְיוֹסֵֽף׃ס|lə·yō·w·sêp̄|belonged to Joseph|H3130|Prep-l | N-proper-ms
+v2 לְיוֹסֵֽף׃|lə·yō·w·sêp̄|belonged to Joseph|H3130|Prep-l | N-proper-ms
 v3 בְּנֵ֥י|bə·nê|The sons|H1121|N-mpc
 v3 רְאוּבֵ֖ן|rə·’ū·ḇên|of Reuben|H7205|N-proper-ms
 v3 בְּכ֣וֹר|bə·ḵō·wr|the firstborn|H1060|N-msc
@@ -51,7 +51,7 @@ v6 בְּאֵרָ֣ה|bə·’ê·rāh|and Beerah|H880|N-proper-ms
 v6 בְנ֔וֹ|ḇə·nōw|his son|H1121|N-msc | 3ms
 v6 אֲשֶׁ֣ר|’ă·šer|whom|H834|Pro-r
 v6 הֶגְלָ֔ה|heḡ·lāh|carried into exile|H1540|V-Hifil-Perf-3ms
-v6 תִּלְּגַ֥ת|til·lə·ḡaṯ|vvv|H8407|
+v6 תִּלְּגַ֥ת|til·lə·ḡaṯ|...|H8407|
 v6 פִּלְנְאֶ֖סֶר|pil·nə·’e·ser|Tiglath-pileser|H8407|N-proper-ms
 v6 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v6 אַשֻּׁ֑ר|’aš·šur|of Assyria|H804|N-proper-fs
@@ -77,7 +77,7 @@ v8 יוֹשֵׁ֣ב|yō·wō·šêḇ|settled|H3427|V-Qal-Prtcpl-ms
 v8 בַּעֲרֹעֵ֔ר|ba·‘ă·rō·‘êr|in Aroer|H6177|Prep-b | N-proper-fs
 v8 וְעַד־|wə·‘aḏ-|and as far as|H5704|Conj-w | Prep
 v8 נְב֖וֹ|nə·ḇōw|Nebo|H5015|N-proper-fs
-v8 וּבַ֥עַל|ū·ḇa·‘al|vvv|H1186|
+v8 וּבַ֥עַל|ū·ḇa·‘al|...|H1186|
 v8 מְעֽוֹן׃|mə·‘ō·wn|and Baal-meon|H1186|Conj-w | N-proper-fs
 v9 וְלַמִּזְרָ֗ח|wə·lam·miz·rāḥ|in the east|H4217|Conj-w, Prep-l, Art | N-ms
 v9 יָשַׁב֙|yā·šaḇ|They also settled|H3427|V-Qal-Perf-3ms
@@ -106,7 +106,7 @@ v10 עַֽל־|‘al-|throughout|H5921|Prep
 v10 כָּל־|kāl-|...|H3605|N-msc
 v10 פְּנֵ֖י|pə·nê|the region|H6440|N-cpc
 v10 מִזְרָ֥ח|miz·rāḥ|east|H4217|N-ms
-v10 לַגִּלְעָֽד׃פ|lag·gil·‘āḏ|of Gilead|H1568|Prep-l, Art | N-proper-fs
+v10 לַגִּלְעָֽד׃|lag·gil·‘āḏ|of Gilead|H1568|Prep-l, Art | N-proper-fs
 v11 וּבְנֵי־|ū·ḇə·nê-|The descendants|H1121|Conj-w | N-mpc
 v11 גָ֣ד|ḡāḏ|of Gad|H1410|N-proper-ms
 v11 לְנֶגְדָּ֗ם|lə·neḡ·dām|next to [the Reubenites]|H5048|Prep-l | 3mp
@@ -132,7 +132,7 @@ v13 וְיוֹרַ֧י|wə·yō·w·ray|Jorai|H3140|Conj-w | N-proper-ms
 v13 וְיַעְכָּ֛ן|wə·ya‘·kān|Jacan|H3275|Conj-w | N-proper-ms
 v13 וְזִ֥יעַ|wə·zî·a‘|Zia|H2127|Conj-w | N-proper-ms
 v13 וָעֵ֖בֶר|wā·‘ê·ḇer|and Eber|H5677|Conj-w | N-proper-ms
-v13 שִׁבְעָֽה׃ס|šiḇ·‘āh|seven [in all]|H7651|Number-ms
+v13 שִׁבְעָֽה׃|šiḇ·‘āh|seven [in all]|H7651|Number-ms
 v14 אֵ֣לֶּה׀|’êl·leh|These|H428|Pro-cp
 v14 בְּנֵ֣י|bə·nê|were the sons|H1121|N-mpc
 v14 אֲבִיחַ֗יִל|’ă·ḇî·ḥa·yil|of Abihail|H32|N-proper-ms
@@ -176,7 +176,7 @@ v17 יְהוּדָ֑ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v17 וּבִימֵ֖י|ū·ḇî·mê|[and]|H3117|Conj-w, Prep-b | N-mpc
 v17 יָרָבְעָ֥ם|yā·rā·ḇə·‘ām|Jeroboam|H3379|N-proper-ms
 v17 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
-v17 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v17 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v18 בְּנֵֽי־|bə·nê-|The Reubenites|H1121|N-mpc
 v18 רְאוּבֵ֨ן|rə·’ū·ḇên|...|H7205|N-proper-ms
 v18 וְגָדִ֜י|wə·ḡā·ḏî|the Gadites|H1425|Conj-w | N-proper-ms
@@ -184,7 +184,7 @@ v18 וַחֲצִ֥י|wa·ḥă·ṣî|and the half-tribe|H2677|Conj-w | N-msc
 v18 שֵֽׁבֶט־|šê·ḇeṭ-|...|H7626|N-msc
 v18 מְנַשֶּׁה֮|mə·naš·šeh|of Manasseh|H4519|N-proper-ms
 v18 מִן־|min-|...|H4480|Prep
-v18 בְּנֵי־|bə·nê-|vvv|H1121|N-mpc
+v18 בְּנֵי־|bə·nê-|...|H1121|N-mpc
 v18 חַיִל֒|ḥa·yil|valiant|H2428|N-ms
 v18 אֲ֠נָשִׁים|’ă·nā·šîm|men|H582|N-mp
 v18 נֹשְׂאֵ֨י|nō·śə·’ê|who carried|H5375|V-Qal-Prtcpl-mpc
@@ -221,17 +221,17 @@ v20 לֵאלֹהִ֤ים|lê·lō·hîm|to God|H430|Prep-l | N-mp
 v20 זָעֲקוּ֙|zā·‘ă·qū|they cried out|H2199|V-Qal-Perf-3cp
 v20 בַּמִּלְחָמָ֔ה|bam·mil·ḥā·māh|in battle|H4421|Prep-b, Art | N-fs
 v20 וְנַעְתּ֥וֹר|wə·na‘·tō·wr|He answered their prayers|H6279|Conj-w | V-Nifal-InfAbs
-v20 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v20 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v20 כִּי־|kî-|Because|H3588|Conj
 v20 בָ֥טְחוּ|ḇā·ṭə·ḥū|they put their trust|H982|V-Qal-Perf-3cp
 v20 בֽוֹ׃|ḇōw|in [God]|H0|Prep | 3ms
 v21 וַיִּשְׁבּ֣וּ|way·yiš·bū|They seized|H7617|Conj-w | V-Qal-ConsecImperf-3mp
 v21 מִקְנֵיהֶ֗ם|miq·nê·hem|the livestock [of the Hagrites]|H4735|N-mpc | 3mp
 v21 גְּֽמַלֵּיהֶ֞ם|gə·mal·lê·hem|camels|H1581|N-mpc | 3mp
-v21 חֲמִשִּׁ֥ים|ḥă·miš·šîm|50,000 {}|H2572|Number-cp
+v21 חֲמִשִּׁ֥ים|ḥă·miš·šîm|50,000|H2572|Number-cp
 v21 אֶ֙לֶף֙|’e·lep̄|...|H505|Number-ms
 v21 וְצֹ֗אן|wə·ṣōn|sheep|H6629|Conj-w | N-cs
-v21 מָאתַ֤יִם|mā·ṯa·yim|250,000 {}|H3967|Number-fd
+v21 מָאתַ֤יִם|mā·ṯa·yim|250,000|H3967|Number-fd
 v21 וַחֲמִשִּׁים֙|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
 v21 אֶ֔לֶף|’e·lep̄|...|H505|Number-ms
 v21 וַחֲמוֹרִ֖ים|wa·ḥă·mō·w·rîm|donkeys|H2543|Conj-w | N-mp
@@ -250,7 +250,7 @@ v22 הַמִּלְחָמָ֑ה|ham·mil·ḥā·māh|the battle|H4421|Art | N-fs
 v22 וַיֵּשְׁב֥וּ|way·yê·šə·ḇū|And they occupied|H3427|Conj-w | V-Qal-ConsecImperf-3mp
 v22 תַחְתֵּיהֶ֖ם|ṯaḥ·tê·hem|the land|H8478|Prep | 3mp
 v22 עַד־|‘aḏ-|until|H5704|Prep
-v22 הַגֹּלָֽה׃פ|hag·gō·lāh|the exile|H1473|Art | N-fs
+v22 הַגֹּלָֽה׃|hag·gō·lāh|the exile|H1473|Art | N-fs
 v23 וּבְנֵ֗י|ū·ḇə·nê|Now the people|H1121|Conj-w | N-mpc
 v23 חֲצִי֙|ḥă·ṣî|of the half-tribe|H2677|N-msc
 v23 שֵׁ֣בֶט|šê·ḇeṭ|...|H7626|N-msc
@@ -259,12 +259,12 @@ v23 יָשְׁב֖וּ|yā·šə·ḇū|They settled|H3427|V-Qal-Perf-3cp
 v23 בָּאָ֑רֶץ|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
 v23 מִבָּשָׁ֞ן|mib·bā·šān|from Bashan|H1316|Prep-m | N-proper-fs
 v23 עַד־|‘aḏ-|to|H5704|Prep
-v23 בַּ֧עַל|ba·‘al|vvv|H1179|Prep
+v23 בַּ֧עַל|ba·‘al|...|H1179|Prep
 v23 חֶרְמ֛וֹן|ḥer·mō·wn|Baal-hermon (that is|H1179|N-proper-fs
 v23 וּשְׂנִ֥יר|ū·śə·nîr|Senir|H8149|Conj-w | N-proper-fs
 v23 וְהַר־|wə·har-|[also known as] Mount|H2022|Conj-w | N-msc
 v23 חֶרְמ֖וֹן|ḥer·mō·wn|Hermon|H2768|N-proper-fs
-v23 הֵ֥מָּה|hêm·māh|vvv|H1992|Pro-3mp
+v23 הֵ֥מָּה|hêm·māh|...|H1992|Pro-3mp
 v23 רָבֽוּ׃|rā·ḇū|were numerous|H7235|V-Qal-Perf-3cp
 v24 וְאֵ֖לֶּה|wə·’êl·leh|These|H428|Conj-w | Pro-cp
 v24 רָאשֵׁ֣י|rā·šê|were the heads|H7218|N-mpc
@@ -307,7 +307,7 @@ v26 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v26 אַשּׁ֗וּר|’aš·šūr|of Assyria|H804|N-proper-fs
 v26 וְאֶת־|wə·’eṯ-|that is|H853|Conj-w | DirObjM
 v26 ר֙וּחַ֙|rū·aḥ|...|H7307|N-csc
-v26 תִּלְּגַ֤ת|til·lə·ḡaṯ|vvv|H8407|
+v26 תִּלְּגַ֤ת|til·lə·ḡaṯ|...|H8407|
 v26 פִּלְנֶ֙סֶר֙|pil·ne·ser|Tiglath-pileser|H8407|N-proper-ms
 v26 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v26 אַשּׁ֔וּר|’aš·šūr|of Assyria|H804|N-proper-fs
@@ -325,4 +325,4 @@ v26 וּנְהַ֣ר|ū·nə·har|and the river|H5104|Conj-w | N-msc
 v26 גּוֹזָ֔ן|gō·w·zān|of Gozan|H1470|N-proper-fs
 v26 עַ֖ד|‘aḏ|where they remain to|H5704|Prep
 v26 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v26 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v26 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms

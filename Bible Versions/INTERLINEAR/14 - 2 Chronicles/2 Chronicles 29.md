@@ -44,7 +44,7 @@ v4 וַיַּֽאַסְפֵ֖ם|way·ya·’as·p̄êm|and gathered them|H622|Co
 v4 לִרְח֥וֹב|lir·ḥō·wḇ|in the square|H7339|Prep-l | N-fsc
 v4 הַמִּזְרָֽח׃|ham·miz·rāḥ|on the east side|H4217|Art | N-ms
 v5 וַיֹּ֥אמֶר|way·yō·mer|he said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v5 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v5 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v5 שְׁמָע֣וּנִי|šə·mā·‘ū·nî|Listen to me|H8085|V-Qal-Imp-mp | 1cs
 v5 הַלְוִיִּ֑ם|hal·wî·yim|O Levites|H3881|Art | N-proper-mp
 v5 עַתָּ֣ה|‘at·tāh|yourselves now|H6258|Adv
@@ -141,7 +141,7 @@ v11 לְשָׁ֣רְת֔וֹ|lə·šā·rə·ṯōw|to serve Him|H8334|Prep-l | 
 v11 וְלִהְי֥וֹת|wə·lih·yō·wṯ|to|H1961|Conj-w, Prep-l | V-Qal-Inf
 v11 ל֖וֹ|lōw|before Him|H0|Prep | 3ms
 v11 מְשָׁרְתִ֥ים|mə·šā·rə·ṯîm|minister|H8334|V-Piel-Prtcpl-mp
-v11 וּמַקְטִרִֽים׃ס|ū·maq·ṭi·rîm|and to burn incense|H6999|Conj-w | V-Hifil-Prtcpl-mp
+v11 וּמַקְטִרִֽים׃|ū·maq·ṭi·rîm|and to burn incense|H6999|Conj-w | V-Hifil-Prtcpl-mp
 v12 וַיָּקֻ֣מוּ|way·yā·qu·mū|set to work|H6965|Conj-w | V-Qal-ConsecImperf-3mp
 v12 הַ֠לְוִיִּם|hal·wî·yim|Then the Levites|H3881|Art | N-proper-mp
 v12 מַ֣חַת|ma·ḥaṯ|Mahath|H4287|N-proper-ms
@@ -153,8 +153,8 @@ v12 עֲזַרְיָהוּ֮|‘ă·zar·yā·hū|of Azariah|H5838|N-proper-ms
 v12 מִן־|min-|from|H4480|Prep
 v12 בְּנֵ֣י|bə·nê|the Kohathites|H1121|N-mpc
 v12 הַקְּהָתִי֒|haq·qə·hā·ṯî|...|H6956|Art | N-proper-ms
-v12 וּמִן־|ū·min-||H4480|Conj-w | Prep
-v12 בְּנֵ֣י|bə·nê||H1121|N-mpc
+v12 וּמִן־|ū·min-|-|H4480|Conj-w | Prep
+v12 בְּנֵ֣י|bə·nê|-|H1121|N-mpc
 v12 מְרָרִ֔י|mə·rā·rî|from the Merarites|H4847|N-proper-ms
 v12 קִ֚ישׁ|qîš|Kish|H7027|N-proper-ms
 v12 בֶּן־|ben-|son|H1121|N-msc
@@ -179,7 +179,7 @@ v13 וּמִן־|ū·min-|from|H4480|Conj-w | Prep
 v13 בְּנֵ֣י|bə·nê|the Asaphites|H1121|N-mpc
 v13 אָסָ֔ף|’ā·sāp̄|...|H623|N-proper-ms
 v13 זְכַרְיָ֖הוּ|zə·ḵar·yā·hū|Zechariah|H2148|N-proper-ms
-v13 וּמַתַּנְיָֽהוּ׃ס|ū·mat·tan·yā·hū|and Mattaniah|H4983|Conj-w | N-proper-ms
+v13 וּמַתַּנְיָֽהוּ׃|ū·mat·tan·yā·hū|and Mattaniah|H4983|Conj-w | N-proper-ms
 v14 וּמִן־|ū·min-|from|H4480|Conj-w | Prep
 v14 בְּנֵ֥י|bə·nê|the Hemanites|H1121|N-mpc
 v14 הֵימָ֖ן|hê·mān|...|H1968|N-proper-ms
@@ -247,7 +247,7 @@ v17 שִׁשָּׁ֥ה|šiš·šāh|on the sixteenth|H8337|Number-ms
 v17 עָשָׂ֛ר|‘ā·śār|...|H6240|Number-ms
 v17 לַחֹ֥דֶשׁ|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v17 הָרִאשׁ֖וֹן|hā·ri·šō·wn|of the first|H7223|Art | Adj-ms
-v17 כִּלּֽוּ׃ס|kil·lū|finishing|H3615|V-Piel-Perf-3cp
+v17 כִּלּֽוּ׃|kil·lū|finishing|H3615|V-Piel-Perf-3cp
 v18 וַיָּב֤וֹאוּ|way·yā·ḇō·w·’ū|Then they went|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v18 פְנִ֙ימָה֙|p̄ə·nî·māh|in|H6441|Adv
 v18 אֶל־|’el-|to|H413|Prep
@@ -285,7 +285,7 @@ v19 וְהִקְדָּ֑שְׁנוּ|wə·hiq·dā·šə·nū|and consecrated|H6
 v19 וְהִנָּ֕ם|wə·hin·nām|...|H2005|Conj-w | Interjection | 3mp
 v19 לִפְנֵ֖י|lip̄·nê|They are now in front|H6440|Prep-l | N-cpc
 v19 מִזְבַּ֥ח|miz·baḥ|of the altar|H4196|N-msc
-v19 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v19 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v20 וַיַּשְׁכֵּם֙|way·yaš·kêm|Early the next morning|H7925|Conj-w | V-Hifil-ConsecImperf-3ms
 v20 יְחִזְקִיָּ֣הוּ|yə·ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
 v20 הַמֶּ֔לֶךְ|ham·me·leḵ|King|H4428|Art | N-ms
@@ -386,13 +386,13 @@ v25 בְיַד־|ḇə·yaḏ-|had come from|H3027|Prep-b | N-fsc
 v25 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v25 הַמִּצְוָ֖ה|ham·miṣ·wāh|the command|H4687|Art | N-fs
 v25 בְּיַד־|bə·yaḏ-|through|H3027|Prep-b | N-fsc
-v25 נְבִיאָֽיו׃ס|nə·ḇî·’āw|His prophets|H5030|N-mpc | 3ms
+v25 נְבִיאָֽיו׃|nə·ḇî·’āw|His prophets|H5030|N-mpc | 3ms
 v26 וַיַּֽעַמְד֤וּ|way·ya·‘am·ḏū|stood|H5975|Conj-w | V-Qal-ConsecImperf-3mp
 v26 הַלְוִיִּם֙|hal·wî·yim|The Levites|H3881|Art | N-proper-mp
 v26 בִּכְלֵ֣י|biḵ·lê|with the instruments|H3627|Prep-b | N-mpc
 v26 דָוִ֔יד|ḏā·wîḏ|of David|H1732|N-proper-ms
 v26 וְהַכֹּהֲנִ֖ים|wə·hak·kō·hă·nîm|and the priests|H3548|Conj-w, Art | N-mp
-v26 בַּחֲצֹצְרֽוֹת׃ס|ba·ḥă·ṣō·ṣə·rō·wṯ|with the trumpets|H2689|Prep-b, Art | N-fp
+v26 בַּחֲצֹצְרֽוֹת׃|ba·ḥă·ṣō·ṣə·rō·wṯ|with the trumpets|H2689|Prep-b, Art | N-fp
 v27 וַיֹּ֙אמֶר֙|way·yō·mer|ordered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v27 חִזְקִיָּ֔הוּ|ḥiz·qî·yā·hū|And Hezekiah|H2396|N-proper-ms
 v27 לְהַעֲל֥וֹת|lə·ha·‘ă·lō·wṯ|be sacrificed|H5927|Prep-l | V-Hifil-Inf
@@ -445,7 +445,7 @@ v30 וַֽיְהַלְלוּ֙|way·hal·lū|So they sang praises|H1984|Conj-w |
 v30 עַד־|‘aḏ-|...|H5704|Prep
 v30 לְשִׂמְחָ֔ה|lə·śim·ḥāh|with gladness|H8057|Prep-l | N-fs
 v30 וַֽיִּקְּד֖וּ|way·yiq·qə·ḏū|and bowed down|H6915|Conj-w | V-Qal-ConsecImperf-3mp
-v30 וַיִּֽשְׁתַּחֲוֽוּ׃פ|way·yiš·ta·ḥă·wū|and worshiped|H7812|Conj-w | V-Hitpael-ConsecImperf-3mp
+v30 וַיִּֽשְׁתַּחֲוֽוּ׃|way·yiš·ta·ḥă·wū|and worshiped|H7812|Conj-w | V-Hitpael-ConsecImperf-3mp
 v31 וַיַּ֨עַן|way·ya·‘an|Then|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v31 יְחִזְקִיָּ֜הוּ|yə·ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
 v31 וַיֹּ֗אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -537,4 +537,4 @@ v36 לָעָ֑ם|lā·‘ām|for the people|H5971|Prep-l, Art | N-ms
 v36 כִּ֥י|kî|because|H3588|Conj
 v36 בְּפִתְאֹ֖ם|bə·p̄iṯ·’ōm|so quickly|H6597|Prep-b | Adv
 v36 הָיָ֥ה|hā·yāh|had been accomplished|H1961|V-Qal-Perf-3ms
-v36 הַדָּבָֽר׃פ|had·dā·ḇār|everything|H1697|Art | N-ms
+v36 הַדָּבָֽר׃|had·dā·ḇār|everything|H1697|Art | N-ms

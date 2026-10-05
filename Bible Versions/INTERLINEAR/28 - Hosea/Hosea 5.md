@@ -83,14 +83,14 @@ v7 עַתָּ֛ה|‘at·tāh|Now|H6258|Adv
 v7 יֹאכְלֵ֥ם|yō·ḵə·lêm|will devour them|H398|V-Qal-Imperf-3ms | 3mp
 v7 חֹ֖דֶשׁ|ḥō·ḏeš|the New Moon|H2320|N-ms
 v7 אֶת־|’eṯ-|...|H854|Prep
-v7 חֶלְקֵיהֶֽם׃ס|ḥel·qê·hem|along with their land|H2506|N-mpc | 3mp
+v7 חֶלְקֵיהֶֽם׃|ḥel·qê·hem|along with their land|H2506|N-mpc | 3mp
 v8 תִּקְע֤וּ|tiq·‘ū|Blow|H8628|V-Qal-Imp-mp
 v8 שׁוֹפָר֙|šō·w·p̄ār|the ram's horn|H7782|N-ms
 v8 בַּגִּבְעָ֔ה|bag·giḇ·‘āh|in Gibeah|H1390|Prep-b, Art | N-proper-fs
 v8 חֲצֹצְרָ֖ה|ḥă·ṣō·ṣə·rāh|the trumpet|H2689|N-fs
 v8 בָּרָמָ֑ה|bā·rā·māh|in Ramah|H7414|Prep-b, Art | N-proper-fs
 v8 הָרִ֙יעוּ֙|hā·rî·‘ū|raise the battle cry|H7321|V-Hifil-Imp-mp
-v8 בֵּ֣ית|bêṯ|vvv|H1007|Prep
+v8 בֵּ֣ית|bêṯ|...|H1007|Prep
 v8 אָ֔וֶן|’ā·wen|in Beth-aven|H1007|N-proper-fs
 v8 אַחֲרֶ֖יךָ|’a·ḥă·re·ḵā|Lead on|H310|Prep | 2ms
 v8 בִּנְיָמִֽין׃|bin·yā·mîn|O Benjamin|H1144|N-proper-ms

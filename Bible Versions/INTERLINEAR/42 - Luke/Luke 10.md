@@ -11,7 +11,7 @@ v1 ‹δύο›|dyo|...|G1417|Adj-AMP
 v1 καὶ|kai|and|G2532|Conj
 v1 ἀπέστειλεν|apesteilen|sent|G649|V-AIA-3S
 v1 αὐτοὺς|autous|them|G846|PPro-AM3P
-v1 ἀνὰ|ana|vvv|G303|Adv
+v1 ἀνὰ|ana|...|G303|Adv
 v1 δύο|dyo|two by two|G1417|Adj-AMP
 v1 ‹δύο›|dyo|...|G1417|Adj-AMP
 v1 πρὸ|pro|ahead of Him|G4253|Prep
@@ -57,7 +57,7 @@ v3 ἀποστέλλω|apostellō|I am sending you out|G649|V-PIA-1S
 v3 ὑμᾶς|hymas|...|G4771|PPro-A2P
 v3 ὡς|hōs|like|G5613|Adv
 v3 ἄρνας|arnas|lambs|G704|N-AMP
-v3 ἐν|en|vvv|G1722|Prep
+v3 ἐν|en|...|G1722|Prep
 v3 μέσῳ|mesō|among|G3319|Adj-DNS
 v3 λύκων|lykōn|wolves|G3074|N-GMP
 v4 μὴ|mē|no|G3361|Adv
@@ -144,7 +144,7 @@ v8 ὑμῖν|hymin|you|G4771|PPro-D2P
 v9 καὶ|kai|-|G2532|Conj
 v9 θεραπεύετε|therapeuete|Heal|G2323|V-PMA-2P
 v9 τοὺς|tous|the|G3588|Art-AMP
-v9 ἐν|en|vvv|G1722|Prep
+v9 ἐν|en|...|G1722|Prep
 v9 αὐτῇ|autē|[who are there]|G846|PPro-DF3S
 v9 ἀσθενεῖς|astheneis|sick|G772|Adj-AMP
 v9 καὶ|kai|and|G2532|Conj
@@ -164,7 +164,7 @@ v10 ἂν|an|...|G302|Prtcl
 v10 πόλιν|polin|town|G4172|N-AFS
 v10 εἰσέλθητε|eiselthēte|if you enter|G1525|V-ASA-2P
 v10 καὶ|kai|and|G2532|Conj
-v10 μὴ|mē|vvv|G3361|Adv
+v10 μὴ|mē|...|G3361|Adv
 v10 δέχωνται|dechōntai|they do not welcome|G1209|V-PSM/P-3P
 v10 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v10 ἐξελθόντες|exelthontes|go|G1831|V-APA-NMP
@@ -334,8 +334,8 @@ v19 οὐ|ou|...|G3756|Adv
 v19 μὴ|mē|...|G3361|Adv
 v19 ἀδικήσῃ*|adikēsē|will harm|G91|V-ASA-3S
 v20 πλὴν|plēn|Nevertheless|G4133|Conj
-v20 ἐν|en|vvv|G1722|Prep
-v20 τούτῳ|toutō|vvv|G3778|DPro-DNS
+v20 ἐν|en|...|G1722|Prep
+v20 τούτῳ|toutō|...|G3778|DPro-DNS
 v20 μὴ|mē|{do] not|G3361|Adv
 v20 χαίρετε|chairete|rejoice|G5463|V-PMA-2P
 v20 ὅτι|hoti|that|G3754|Conj
@@ -433,7 +433,7 @@ v23 στραφεὶς|strapheis|[Jesus] turned|G4762|V-APP-NMS
 v23 πρὸς|pros|to|G4314|Prep
 v23 τοὺς|tous|the|G3588|Art-AMP
 v23 μαθητὰς|mathētas|disciples|G3101|N-AMP
-v23 κατ’|kat’|vvv|G2596|Prep
+v23 κατ’|kat’|...|G2596|Prep
 v23 ἰδίαν|idian|privately|G2398|Adj-AFS
 v23 εἶπεν|eipen|[and] said|G2036|V-AIA-3S
 v23 Μακάριοι|Makarioi|Blessed [are]|G3107|Adj-NMP
@@ -457,14 +457,14 @@ v24 ἃ|ha|what|G3739|RelPro-ANP
 v24 ὑμεῖς|hymeis|you|G4771|PPro-N2P
 v24 βλέπετε|blepete|see|G991|V-PIA-2P
 v24 καὶ|kai|[but]|G2532|Conj
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 εἶδαν|eidan|did not see [it]|G3708|V-AIA-3P
 v24 καὶ|kai|and|G2532|Conj
 v24 ἀκοῦσαι|akousai|to hear|G191|V-ANA
 v24 ἃ|ha|what|G3739|RelPro-ANP
 v24 ἀκούετε|akouete|you hear|G191|V-PIA-2P
 v24 καὶ|kai|[but]|G2532|Conj
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 ἤκουσαν|ēkousan|did not hear [it]|G191|V-AIA-3P
 v25 Καὶ|Kai|One day|G2532|Conj
 v25 ἰδοὺ|idou|...|G2400|V-AMA-2S
@@ -494,7 +494,7 @@ v26 πῶς|pōs|How|G4459|Adv
 v26 ἀναγινώσκεις|anaginōskeis|do you read [it]|G314|V-PIA-2S
 v27 Ὁ|Ho|-|G3588|Art-NMS
 v27 δὲ|de|-|G1161|Conj
-v27 ἀποκριθεὶς|apokritheis|vvv|G611|V-APP-NMS
+v27 ἀποκριθεὶς|apokritheis|...|G611|V-APP-NMS
 v27 εἶπεν|eipen|He answered|G2036|V-AIA-3S
 v27 Ἀγαπήσεις|Agapēseis|Love|G25|V-FIA-2S
 v27 Κύριον|Kyrion|[the] Lord|G2962|N-AMS
@@ -596,7 +596,7 @@ v32 Ὁμοίως|Homoiōs|So too|G3668|Adv
 v32 δὲ|de|-|G1161|Conj
 v32 καὶ|kai|-|G2532|Conj
 v32 Λευίτης|Leuitēs|[when] a Levite|G3019|N-NMS
-v32 [γενόμενος]|genomenos|vvv|G1096|V-APM-NMS
+v32 [γενόμενος]|genomenos|...|G1096|V-APM-NMS
 v32 κατὰ|kata|to|G2596|Prep
 v32 τὸν|ton|that|G3588|Art-AMS
 v32 τόπον|topon|spot|G5117|N-AMS
@@ -728,7 +728,7 @@ v39 παρακαθεσθεῖσα|parakathestheisa|sat|G3869|V-APP-NFS
 v39 πρὸς|pros|at|G4314|Prep
 v39 τοὺς|tous|the|G3588|Art-AMP
 v39 πόδας|podas|feet|G4228|N-AMP
-v39 τοῦ|tou|vvv|G3588|Art-GMS
+v39 τοῦ|tou|...|G3588|Art-GMS
 v39 Κυρίου|Kyriou|Lord's|G2962|N-GMS
 v39 ἤκουεν|ēkouen|listening to|G191|V-IIA-3S
 v39 τὸν|ton|-|G3588|Art-AMS
@@ -745,7 +745,7 @@ v40 ἐπιστᾶσα|epistasa|She came to [Jesus]|G2186|V-APA-NFS
 v40 δὲ|de|-|G1161|Conj
 v40 εἶπεν|eipen|[and] said|G2036|V-AIA-3S
 v40 Κύριε|Kyrie|Lord|G2962|N-VMS
-v40 οὐ|ou|vvv|G3756|Adv
+v40 οὐ|ou|...|G3756|Adv
 v40 μέλει|melei|do You not care|G3199|V-PIA-3S
 v40 σοι|soi|...|G4771|PPro-D2S
 v40 ὅτι|hoti|that|G3754|Conj
@@ -788,6 +788,6 @@ v42 ἀγαθὴν|agathēn|good|G18|Adj-AFS
 v42 μερίδα|merida|portion|G3310|N-AFS
 v42 ἐξελέξατο|exelexato|has chosen|G1586|V-AIM-3S
 v42 ἥτις|hētis|[and it]|G3748|RelPro-NFS
-v42 οὐκ|ouk|vvv|G3756|Adv
+v42 οὐκ|ouk|...|G3756|Adv
 v42 ἀφαιρεθήσεται|aphairethēsetai|will not be taken away from|G851|V-FIP-3S
 v42 αὐτῆς|autēs|her|G846|PPro-GF3S

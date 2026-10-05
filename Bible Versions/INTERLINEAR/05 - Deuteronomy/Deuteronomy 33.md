@@ -25,7 +25,7 @@ v2 מֵרִבְבֹ֣ת|mê·riḇ·ḇōṯ|with myriads|H7233|Prep-m | Number-
 v2 קֹ֑דֶשׁ|qō·ḏeš|of holy ones|H6944|N-ms
 v2 מִֽימִינ֕וֹ|mî·mî·nōw|at His right hand|H3225|Prep-m | N-fsc | 3ms
 v2 אֵשְׁדָּת|ʾē·šə·då̄ṯ|with flaming fire|H799|N-csc
-v2 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v2 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v3 אַ֚ף|’ap̄|Surely|H637|Conj
 v3 חֹבֵ֣ב|ḥō·ḇêḇ|You love|H2245|V-Qal-Prtcpl-ms
 v3 עַמִּ֔ים|‘am·mîm|the people|H5971|N-mp
@@ -59,7 +59,7 @@ v6 וְאַל־|wə·’al-|and not|H408|Conj-w | Adv
 v6 יָמֹ֑ת|yā·mōṯ|die|H4191|V-Qal-Imperf.Jus-3ms
 v6 וִיהִ֥י|wî·hî|nor|H1961|Conj-w | V-Qal-ConjImperf.Jus-3ms
 v6 מְתָ֖יו|mə·ṯāw|his men|H4962|N-mpc | 3ms
-v6 מִסְפָּֽר׃ס|mis·pār|be few|H4557|N-ms
+v6 מִסְפָּֽר׃|mis·pār|be few|H4557|N-ms
 v7 וְזֹ֣את|wə·zōṯ|And|H2063|Conj-w | Pro-fs
 v7 לִֽיהוּדָה֮|lî·hū·ḏāh|concerning Judah|H3063|Prep-l | N-proper-ms
 v7 וַיֹּאמַר֒|way·yō·mar|he said|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -75,7 +75,7 @@ v7 רָ֣ב|rāḇ|he defends his cause|H7378|V-Qal-Perf-3ms
 v7 ל֔וֹ|lōw|...|H0|Prep | 3ms
 v7 וְעֵ֥זֶר|wə·‘ê·zer|a help|H5828|Conj-w | N-ms
 v7 מִצָּרָ֖יו|miṣ·ṣā·rāw|against his foes|H6862|Prep-m | N-mpc | 3ms
-v7 תִּהְיֶֽה׃ס|tih·yeh|but may You be|H1961|V-Qal-Imperf-2ms
+v7 תִּהְיֶֽה׃|tih·yeh|but may You be|H1961|V-Qal-Imperf-2ms
 v8 וּלְלֵוִ֣י|ū·lə·lê·wî|Concerning Levi|H3878|Conj-w, Prep-l | N-proper-ms
 v8 אָמַ֔ר|’ā·mar|he said|H559|V-Qal-Perf-3ms
 v8 תֻּמֶּ֥יךָ|tum·me·ḵā|[Give] Your Thummim [to Levi]|H8550|N-mpc | 2ms
@@ -129,7 +129,7 @@ v11 מָתְנַ֧יִם|mā·ṯə·na·yim|the loins|H4975|N-md
 v11 קָמָ֛יו|qā·māw|of those who rise against him|H6965|V-Qal-Prtcpl-mpc | 3ms
 v11 וּמְשַׂנְאָ֖יו|ū·mə·śan·’āw|and of his foes|H8130|Conj-w | V-Piel-Prtcpl-mpc | 3ms
 v11 מִן־|min-|so they can|H4480|Prep
-v11 יְקוּמֽוּן׃ס|yə·qū·mūn|rise [no more]|H6965|V-Qal-Imperf-3mp | Pn
+v11 יְקוּמֽוּן׃|yə·qū·mūn|rise [no more]|H6965|V-Qal-Imperf-3mp | Pn
 v12 לְבִנְיָמִ֣ן|lə·ḇin·yā·min|Concerning Benjamin|H1144|Prep-l | N-proper-ms
 v12 אָמַ֔ר|’ā·mar|he said|H559|V-Qal-Perf-3ms
 v12 יְדִ֣יד|yə·ḏîḏ|May the beloved|H3039|N-msc
@@ -143,7 +143,7 @@ v12 כָּל־|kāl-|all|H3605|N-msc
 v12 הַיּ֔וֹם|hay·yō·wm|day long|H3117|Art | N-ms
 v12 וּבֵ֥ין|ū·ḇên|...|H996|Conj-w | Prep
 v12 כְּתֵיפָ֖יו|kə·ṯê·p̄āw|and upon His shoulders|H3802|N-fpc | 3ms
-v12 שָׁכֵֽן׃ס|šā·ḵên|he rests|H7931|V-Qal-Perf-3ms
+v12 שָׁכֵֽן׃|šā·ḵên|he rests|H7931|V-Qal-Perf-3ms
 v13 וּלְיוֹסֵ֣ף|ū·lə·yō·w·sêp̄|Concerning Joseph|H3130|Conj-w, Prep-l | N-proper-ms
 v13 אָמַ֔ר|’ā·mar|he said|H559|V-Qal-Perf-3ms
 v13 מְבֹרֶ֥כֶת|mə·ḇō·re·ḵeṯ|be blessed|H1288|V-Pual-Prtcpl-fsc
@@ -186,7 +186,7 @@ v17 ל֗וֹ|lōw|His|H0|Prep | 3ms
 v17 וְקַרְנֵ֤י|wə·qar·nê|and his horns|H7161|Conj-w | N-fdc
 v17 רְאֵם֙|rə·’êm|of a wild ox|H7214|N-ms
 v17 קַרְנָ֔יו|qar·nāw|are like those|H7161|N-fdc | 3ms
-v17 בָּהֶ֗ם|bā·hem||H0|Prep | 3mp
+v17 בָּהֶ֗ם|bā·hem|-|H0|Prep | 3mp
 v17 עַמִּ֛ים|‘am·mîm|the nations|H5971|N-mp
 v17 יְנַגַּ֥ח|yə·nag·gaḥ|With them he will gore|H5055|V-Piel-Imperf-3ms
 v17 יַחְדָּ֖ו|yaḥ·dāw|...|H3162|Adv
@@ -197,7 +197,7 @@ v17 רִבְב֣וֹת|riḇ·ḇō·wṯ|are the myriads|H7233|Number-fpc
 v17 אֶפְרַ֔יִם|’ep̄·ra·yim|of Ephraim|H669|N-proper-ms
 v17 וְהֵ֖ם|wə·hêm|and such|H1992|Conj-w | Pro-3mp
 v17 אַלְפֵ֥י|’al·p̄ê|are the thousands|H505|Number-mpc
-v17 מְנַשֶּֽׁה׃ס|mə·naš·šeh|of Manasseh|H4519|N-proper-ms
+v17 מְנַשֶּֽׁה׃|mə·naš·šeh|of Manasseh|H4519|N-proper-ms
 v18 וְלִזְבוּלֻ֣ן|wə·liz·ḇū·lun|Concerning Zebulun|H2074|Conj-w, Prep-l | N-proper-ms
 v18 אָמַ֔ר|’ā·mar|he said|H559|V-Qal-Perf-3ms
 v18 שְׂמַ֥ח|śə·maḥ|Rejoice|H8055|V-Qal-Imp-ms
@@ -218,7 +218,7 @@ v19 יַמִּים֙|yam·mîm|of the seas|H3220|N-mp
 v19 יִינָ֔קוּ|yî·nā·qū|they will feast on|H3243|V-Qal-Imperf-3mp
 v19 וּשְׂפוּנֵ֖י|ū·śə·p̄ū·nê|and the hidden|H8226|Conj-w | V-Qal-QalPassPrtcpl-mpc
 v19 טְמ֥וּנֵי|ṭə·mū·nê|treasures|H2934|V-Qal-QalPassPrtcpl-mpc
-v19 חֽוֹל׃ס|ḥō·wl|of the sand|H2344|N-ms
+v19 חֽוֹל׃|ḥō·wl|of the sand|H2344|N-ms
 v20 וּלְגָ֣ד|ū·lə·ḡāḏ|Concerning Gad|H1410|Conj-w, Prep-l | N-proper-ms
 v20 אָמַ֔ר|’ā·mar|he said|H559|V-Qal-Perf-3ms
 v20 בָּר֖וּךְ|bā·rūḵ|Blessed [is]|H1288|V-Qal-QalPassPrtcpl-ms
@@ -246,7 +246,7 @@ v21 יְהוָה֙|Yah·weh|the LORD's|H3068|N-proper-ms
 v21 עָשָׂ֔ה|‘ā·śāh|he administered|H6213|V-Qal-Perf-3ms
 v21 וּמִשְׁפָּטָ֖יו|ū·miš·pā·ṭāw|and His ordinances|H4941|Conj-w | N-mpc | 3ms
 v21 עִם־|‘im-|for|H5973|Prep
-v21 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v21 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v22 וּלְדָ֣ן|ū·lə·ḏān|Concerning Dan|H1835|Conj-w, Prep-l | N-proper-ms
 v22 אָמַ֔ר|’ā·mar|he said|H559|V-Qal-Perf-3ms
 v22 דָּ֖ן|dān|Dan [is]|H1835|N-proper-ms
@@ -265,7 +265,7 @@ v23 בִּרְכַּ֣ת|bir·kaṯ|of the blessing|H1293|N-fsc
 v23 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v23 יָ֥ם|yām|of the sea|H3220|N-ms
 v23 וְדָר֖וֹם|wə·ḏā·rō·wm|and the south|H1864|Conj-w | N-ms
-v23 יְרָֽשָׁה׃ס|yə·rā·šāh|he shall take possession|H3423|V-Qal-Imp-ms | 3fs
+v23 יְרָֽשָׁה׃|yə·rā·šāh|he shall take possession|H3423|V-Qal-Imp-ms | 3fs
 v24 וּלְאָשֵׁ֣ר|ū·lə·’ā·šêr|And concerning Asher|H836|Conj-w, Prep-l | N-proper-ms
 v24 אָמַ֔ר|’ā·mar|he said|H559|V-Qal-Perf-3ms
 v24 בָּר֥וּךְ|bā·rūḵ|be the most blessed|H1288|V-Qal-QalPassPrtcpl-ms
@@ -329,8 +329,8 @@ v29 חֶ֖רֶב|ḥe·reḇ|the sword|H2719|N-fsc
 v29 גַּאֲוָתֶ֑ךָ|ga·’ă·wā·ṯe·ḵā|in which you boast|H1346|N-fsc | 2ms
 v29 וְיִכָּֽחֲשׁ֤וּ|wə·yik·kā·ḥă·šū|will cower before you|H3584|Conj-w | V-Nifal-ConjImperf-3mp
 v29 אֹיְבֶ֙יךָ֙|’ō·yə·ḇe·ḵā|Your enemies|H341|V-Qal-Prtcpl-mpc | 2ms
-v29 לָ֔ךְ|lāḵ||H0|Prep | 2ms
+v29 לָ֔ךְ|lāḵ|-|H0|Prep | 2ms
 v29 וְאַתָּ֖ה|wə·’at·tāh|and you|H859|Conj-w | Pro-2ms
-v29 עַל־|‘al-||H5921|Prep
+v29 עַל־|‘al-|-|H5921|Prep
 v29 בָּמוֹתֵ֥ימוֹ|bā·mō·w·ṯê·mōw|their high places|H1116|N-fpc | 3mp
-v29 תִדְרֹֽךְ׃ס|ṯiḏ·rōḵ|shall trample|H1869|V-Qal-Imperf-2ms
+v29 תִדְרֹֽךְ׃|ṯiḏ·rōḵ|shall trample|H1869|V-Qal-Imperf-2ms

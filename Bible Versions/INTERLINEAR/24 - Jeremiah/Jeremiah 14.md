@@ -78,7 +78,7 @@ v7 שְׁמֶ֑ךָ|šə·me·ḵā|of Your name|H8034|N-msc | 2ms
 v7 כִּֽי־|kî-|Indeed|H3588|Conj
 v7 רַבּ֥וּ|rab·bū|are many|H7231|V-Qal-Perf-3cp
 v7 מְשׁוּבֹתֵ֖ינוּ|mə·šū·ḇō·ṯê·nū|our rebellions|H4878|N-fpc | 1cp
-v7 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v7 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v7 חָטָֽאנוּ׃|ḥā·ṭā·nū|we have sinned against You|H2398|V-Qal-Perf-1cp
 v8 מִקְוֵה֙|miq·wêh|O Hope|H4723|N-msc
 v8 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -97,7 +97,7 @@ v9 תִֽהְיֶה֙|ṯih·yeh|are You|H1961|V-Qal-Imperf-2ms
 v9 כְּאִ֣ישׁ|kə·’îš|like a man|H376|Prep-k | N-ms
 v9 נִדְהָ֔ם|niḏ·hām|taken by surprise|H1724|V-Nifal-Prtcpl-ms
 v9 כְּגִבּ֖וֹר|kə·ḡib·bō·wr|like a warrior|H1368|Prep-k | Adj-ms
-v9 לֹא־|lō-||H3808|Adv-NegPrt
+v9 לֹא־|lō-|-|H3808|Adv-NegPrt
 v9 יוּכַ֣ל|yū·ḵal|powerless|H3201|V-Qal-Imperf-3ms
 v9 לְהוֹשִׁ֑יעַ|lə·hō·wō·šî·a‘|to save|H3467|Prep-l | V-Hifil-Inf
 v9 וְאַתָּ֧ה|wə·’at·tāh|Yet You|H859|Conj-w | Pro-2ms
@@ -107,7 +107,7 @@ v9 וְשִׁמְךָ֛|wə·šim·ḵā|by Your name|H8034|Conj-w | N-msc | 2ms
 v9 עָלֵ֥ינוּ|‘ā·lê·nū|...|H5921|Prep | 1cp
 v9 נִקְרָ֖א|niq·rā|and we are called|H7121|V-Nifal-Perf-3ms
 v9 אַל־|’al-|Do not|H408|Adv
-v9 תַּנִּחֵֽנוּ׃ס|tan·ni·ḥê·nū|forsake us|H5117|V-Hifil-Imperf-2ms | 1cp
+v9 תַּנִּחֵֽנוּ׃|tan·ni·ḥê·nū|forsake us|H5117|V-Hifil-Imperf-2ms | 1cp
 v10 כֹּֽה־|kōh-|This is what|H3541|Adv
 v10 אָמַ֨ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v10 יְהוָ֜ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -126,7 +126,7 @@ v10 עַתָּה֙|‘at·tāh|He will now|H6258|Adv
 v10 יִזְכֹּ֣ר|yiz·kōr|remember|H2142|V-Qal-Imperf-3ms
 v10 עֲוֺנָ֔ם|‘ă·wō·nām|their iniquity|H5771|N-csc | 3mp
 v10 וְיִפְקֹ֖ד|wə·yip̄·qōḏ|and punish them|H6485|Conj-w | V-Qal-ConjImperf-3ms
-v10 חַטֹּאתָֽם׃ס|ḥaṭ·ṭō·ṯām|for their sins|H2403|N-fpc | 3mp
+v10 חַטֹּאתָֽם׃|ḥaṭ·ṭō·ṯām|for their sins|H2403|N-fpc | 3mp
 v11 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v11 אֵלָ֑י|’ê·lāy|to me|H413|Prep | 1cs
@@ -154,7 +154,7 @@ v12 וּבָרָעָ֣ב|ū·ḇā·rā·‘āḇ|and famine|H7458|Conj-w, Prep-
 v12 וּבַדֶּ֔בֶר|ū·ḇad·de·ḇer|and plague|H1698|Conj-w, Prep-b, Art | N-ms
 v12 אָנֹכִ֖י|’ā·nō·ḵî|I|H595|Pro-1cs
 v12 מְכַלֶּ֥ה|mə·ḵal·leh|will finish them off|H3615|V-Piel-Prtcpl-ms
-v12 אוֹתָֽם׃ס|’ō·w·ṯām|-|H853|DirObjM | 3mp
+v12 אוֹתָֽם׃|’ō·w·ṯām|-|H853|DirObjM | 3mp
 v13 וָאֹמַ֞ר|wā·’ō·mar|I replied|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v13 אֲהָ֣הּ׀|’ă·hāh|Ah|H162|Interjection
 v13 אֲדֹנָ֣י|’ă·ḏō·nāy|Lord|H136|N-proper-ms
@@ -169,17 +169,17 @@ v13 חֶ֔רֶב|ḥe·reḇ|the sword|H2719|N-fs
 v13 וְרָעָ֖ב|wə·rā·‘āḇ|famine|H7458|Conj-w | N-ms
 v13 לֹֽא־|lō-|...|H3808|Adv-NegPrt
 v13 יִהְיֶ֣ה|yih·yeh|or suffer|H1961|V-Qal-Imperf-3ms
-v13 לָכֶ֑ם|lā·ḵem||H0|Prep | 2mp
+v13 לָכֶ֑ם|lā·ḵem|-|H0|Prep | 2mp
 v13 כִּֽי־|kî-|but|H3588|Conj
 v13 שְׁל֤וֹם|šə·lō·wm|peace|H7965|N-msc
 v13 אֱמֶת֙|’ĕ·meṯ|lasting|H571|N-fs
 v13 אֶתֵּ֣ן|’et·tên|I will give|H5414|V-Qal-Imperf-1cs
 v13 לָכֶ֔ם|lā·ḵem|you|H0|Prep | 2mp
 v13 בַּמָּק֖וֹם|bam·mā·qō·wm|place|H4725|Prep-b, Art | N-ms
-v13 הַזֶּֽה׃ס|haz·zeh|in this|H2088|Art | Pro-ms
+v13 הַזֶּֽה׃|haz·zeh|in this|H2088|Art | Pro-ms
 v14 וַיֹּ֨אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v14 יְהוָ֜ה|Yah·weh|the LORD|H3068|N-proper-ms
-v14 אֵלַ֗י|’ê·lay||H413|Prep | 1cs
+v14 אֵלַ֗י|’ê·lay|-|H413|Prep | 1cs
 v14 שֶׁ֚קֶר|še·qer|lies|H8267|N-ms
 v14 הַנְּבִאִים֙|han·nə·ḇi·’îm|The prophets|H5030|Art | N-mp
 v14 נִבְּאִ֣ים|nib·bə·’îm|are prophesying|H5012|V-Nifal-Prtcpl-mp
@@ -199,7 +199,7 @@ v14 וְתַרְמוּת|wə·ṯar·mūṯ|and delusion|H8649|Conj-w | N-fsc
 v14 לִבָּ֔ם|lib·bām|of their own minds|H3820|N-msc | 3mp
 v14 הֵ֖מָּה|hêm·māh|They|H1992|Pro-3mp
 v14 מִֽתְנַבְּאִ֥ים|miṯ·nab·bə·’îm|are prophesying|H5012|V-Hitpael-Prtcpl-mp
-v14 לָכֶֽם׃ס|lā·ḵem|to you|H0|Prep | 2mp
+v14 לָכֶֽם׃|lā·ḵem|to you|H0|Prep | 2mp
 v15 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v15 כֹּֽה־|kōh-|this is what|H3541|Adv
 v15 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -290,7 +290,7 @@ v18 סָחֲר֥וּ|sā·ḥă·rū|travel|H5503|V-Qal-Perf-3cp
 v18 אֶל־|’el-|to|H413|Prep
 v18 אֶ֖רֶץ|’e·reṣ|a land|H776|N-fs
 v18 וְלֹ֥א|wə·lō|they do not|H3808|Conj-w | Adv-NegPrt
-v18 יָדָֽעוּ׃ס|yā·ḏā·‘ū|know|H3045|V-Qal-Perf-3cp
+v18 יָדָֽעוּ׃|yā·ḏā·‘ū|know|H3045|V-Qal-Perf-3cp
 v19 הֲמָאֹ֨ס|hă·mā·’ōs|Have You rejected|H3988|V-Qal-InfAbs
 v19 מָאַ֜סְתָּ|mā·’as·tā|completely|H3988|V-Qal-Perf-2ms
 v19 אֶת־|’eṯ-|-|H853|DirObjM
@@ -302,7 +302,7 @@ v19 נַפְשֶׁ֔ךָ|nap̄·še·ḵā|Do You|H5315|N-fsc | 2ms
 v19 מַדּ֙וּעַ֙|mad·dū·a‘|Why|H4069|Interrog
 v19 הִכִּיתָ֔נוּ|hik·kî·ṯā·nū|have You stricken us|H5221|V-Hifil-Perf-2ms | 1cp
 v19 וְאֵ֥ין|wə·’ên|so that we are beyond|H369|Conj-w | Adv
-v19 לָ֖נוּ|lā·nū||H0|Prep | 1cp
+v19 לָ֖נוּ|lā·nū|-|H0|Prep | 1cp
 v19 מַרְפֵּ֑א|mar·pê|healing|H4832|N-ms
 v19 קַוֵּ֤ה|qaw·wêh|We hoped|H6960|V-Piel-InfAbs
 v19 לְשָׁלוֹם֙|lə·šā·lō·wm|for peace|H7965|Prep-l | N-ms
@@ -353,4 +353,4 @@ v22 אַתָּ֥ה|’at·tāh|You|H859|Pro-2ms
 v22 עָשִׂ֖יתָ|‘ā·śî·ṯā|have done|H6213|V-Qal-Perf-2ms
 v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 כָּל־|kāl-|all|H3605|N-msc
-v22 אֵֽלֶּה׃פ|’êl·leh|these things|H428|Pro-cp
+v22 אֵֽלֶּה׃|’êl·leh|these things|H428|Pro-cp

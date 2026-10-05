@@ -6,7 +6,7 @@ v1 לַיהוָ֑ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v1 עַל־|‘al-|concerning|H5921|Prep
 v1 דִּבְרֵי־|diḇ·rê-|the words|H1697|N-mpc
 v1 כ֝֗וּשׁ|ḵūš|of Cush|H3568|N-proper-ms
-v1 בֶּן־|ben-|vvv|H1145|N-msc
+v1 בֶּן־|ben-|...|H1145|N-msc
 v1 יְמִינִֽי׃|yə·mî·nî|a Benjamite|H1145|N-proper-ms
 v1 יְהוָ֣ה|Yah·weh|O LORD|H3068|N-proper-ms
 v1 אֱ֭לֹהַי|’ĕ·lō·hay|my God|H430|N-mpc | 1cs
@@ -106,7 +106,7 @@ v12 יִלְט֑וֹשׁ|yil·ṭō·wōš|God will sharpen|H3913|V-Qal-Imperf-3
 v12 קַשְׁתּ֥וֹ|qaš·tōw|His bow|H7198|N-fsc | 3ms
 v12 דָ֝רַ֗ךְ|ḏā·raḵ|He has bent|H1869|V-Qal-Perf-3ms
 v12 וַֽיְכוֹנְנֶֽהָ׃|way·ḵō·wn·ne·hā|and strung|H3559|Conj-w | V-Piel-ConsecImperf-3ms | 3fs
-v13 וְ֭לוֹ|wə·lōw||H0|Conj-w | Prep | 3ms
+v13 וְ֭לוֹ|wə·lōw|-|H0|Conj-w | Prep | 3ms
 v13 הֵכִ֣ין|hê·ḵîn|He has prepared|H3559|V-Hifil-Perf-3ms
 v13 כְּלֵי־|kə·lê-|weapons|H3627|N-mpc
 v13 מָ֑וֶת|mā·weṯ|His deadly|H4194|N-ms

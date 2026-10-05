@@ -143,7 +143,7 @@ v20 יֹאבֵֽדוּ׃|yō·ḇê·ḏū|they perish|H6|V-Qal-Imperf-3mp
 v21 הֲלֹא־|hă·lō-|-|H3808|Adv-NegPrt
 v21 נִסַּ֣ע|nis·sa‘|pulled up|H5265|V-Nifal-Perf-3ms
 v21 יִתְרָ֣ם|yiṯ·rām|Are not their tent cords|H3499|N-msc | 3mp
-v21 בָּ֑ם|bām||H0|Prep | 3mp
+v21 בָּ֑ם|bām|-|H0|Prep | 3mp
 v21 יָ֝מ֗וּתוּ|yā·mū·ṯū|so that they die|H4191|V-Qal-Imperf-3mp
 v21 וְלֹ֣א|wə·lō|without|H3808|Conj-w | Adv-NegPrt
 v21 בְחָכְמָֽה׃|ḇə·ḥā·ḵə·māh|wisdom|H2451|Prep-b | N-fs

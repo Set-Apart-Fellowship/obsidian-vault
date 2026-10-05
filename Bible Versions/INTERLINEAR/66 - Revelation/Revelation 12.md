@@ -25,8 +25,8 @@ v1 στέφανος|stephanos|a crown|G4735|N-NMS
 v1 ἀστέρων|asterōn|stars|G792|N-GMP
 v1 δώδεκα|dōdeka|of twelve|G1427|Adj-GMP
 v2 καὶ|kai|-|G2532|Conj
-v2 ἐν|en|vvv|G1722|Prep
-v2 γαστρὶ|gastri|vvv|G1064|N-DFS
+v2 ἐν|en|...|G1722|Prep
+v2 γαστρὶ|gastri|...|G1064|N-DFS
 v2 ἔχουσα|echousa|She was pregnant|G2192|V-PPA-NFS
 v2 καὶ|kai|and|G2532|Conj
 v2 κράζει|krazei|crying out|G2896|V-PIA-3S
@@ -168,7 +168,7 @@ v7 οἱ|hoi|-|G3588|Art-NMP
 v7 ἄγγελοι|angeloi|angels|G32|N-NMP
 v7 αὐτοῦ|autou|his|G846|PPro-GM3S
 v8 καὶ|kai|[But]|G2532|Conj
-v8 οὐκ|ouk|vvv|G3756|Adv
+v8 οὐκ|ouk|...|G3756|Adv
 v8 ἴσχυσεν*|ischysen|[the dragon] was not strong enough|G2480|V-AIA-3S
 v8 οὐδὲ|oude|[and] no longer|G3761|Conj
 v8 τόπος|topos|[was] any place|G5117|N-NMS
@@ -271,7 +271,7 @@ v11 τῆς|tēs|of|G3588|Art-GFS
 v11 μαρτυρίας|martyrias|testimony|G3141|N-GFS
 v11 αὐτῶν|autōn|their|G846|PPro-GM3P
 v11 καὶ|kai|And|G2532|Conj
-v11 οὐκ|ouk|vvv|G3756|Adv
+v11 οὐκ|ouk|...|G3756|Adv
 v11 ἠγάπησαν|ēgapēsan|they did not love|G25|V-AIA-3P
 v11 τὴν|tēn|-|G3588|Art-AFS
 v11 ψυχὴν|psychēn|lives|G5590|N-AFS

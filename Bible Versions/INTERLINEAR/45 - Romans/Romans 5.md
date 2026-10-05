@@ -40,7 +40,7 @@ v3 Οὐ|Ou|Not|G3756|Adv
 v3 μόνον|monon|only|G3440|Adv
 v3 δέ|de|[that]|G1161|Conj
 v3 ἀλλὰ|alla|but|G235|Conj
-v3 καὶ|kai|vvv|G2532|Conj
+v3 καὶ|kai|...|G2532|Conj
 v3 καυχώμεθα|kauchōmetha|we also rejoice|G2744|V-PIM/P-1P
 v3 ἐν|en|in|G1722|Prep
 v3 ταῖς|tais|[our]|G3588|Art-DFP
@@ -62,7 +62,7 @@ v4 ἐλπίδα|elpida|hope|G1680|N-AFS
 v5 ἡ|hē|-|G3588|Art-NFS
 v5 δὲ|de|And|G1161|Conj
 v5 ἐλπὶς|elpis|hope|G1680|N-NFS
-v5 οὐ|ou|vvv|G3756|Adv
+v5 οὐ|ou|...|G3756|Adv
 v5 καταισχύνει|kataischynei|does not disappoint [us]|G2617|V-PIA-3S
 v5 ὅτι|hoti|because|G3754|Conj
 v5 ἡ|hē|[His]|G3588|Art-NFS
@@ -165,7 +165,7 @@ v11 οὐ|ou|Not|G3756|Adv
 v11 μόνον|monon|only|G3440|Adv
 v11 δέ|de|that|G1161|Conj
 v11 ἀλλὰ|alla|but|G235|Conj
-v11 καὶ|kai|vvv|G2532|Conj
+v11 καὶ|kai|...|G2532|Conj
 v11 καυχώμενοι|kauchōmenoi|we also rejoice|G2744|V-PPM/P-NMP
 v11 ἐν|en|in|G1722|Prep
 v11 τῷ|tō|-|G3588|Art-DMS
@@ -178,7 +178,7 @@ v11 Ἰησοῦ|Iēsou|Jesus|G2424|N-GMS
 v11 Χριστοῦ|Christou|Christ|G5547|N-GMS
 v11 δι’|di’|through|G1223|Prep
 v11 οὗ|hou|whom|G3739|RelPro-GMS
-v11 νῦν|nyn|vvv|G3568|Adv
+v11 νῦν|nyn|...|G3568|Adv
 v11 τὴν|tēn|-|G3588|Art-AFS
 v11 καταλλαγὴν|katallagēn|reconciliation|G2643|N-AFS
 v11 ἐλάβομεν|elabomen|we have now received|G2983|V-AIA-1P
@@ -221,7 +221,7 @@ v13 ἐν|en|in|G1722|Prep
 v13 κόσμῳ|kosmō|[the] world|G2889|N-DMS
 v13 ἁμαρτία|hamartia|sin|G266|N-NFS
 v13 δὲ|de|but|G1161|Conj
-v13 οὐκ|ouk|vvv|G3756|Adv
+v13 οὐκ|ouk|...|G3756|Adv
 v13 ἐλλογεῖται|ellogeitai|is not taken into account|G1677|V-PIM/P-3S
 v13 μὴ|mē|no|G3361|Adv
 v13 ὄντος|ontos|when there is|G1510|V-PPA-GMS

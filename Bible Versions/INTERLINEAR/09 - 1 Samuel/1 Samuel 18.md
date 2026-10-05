@@ -61,9 +61,9 @@ v5 הָעָ֔ם|hā·‘ām|the people|H5971|Art | N-ms
 v5 וְגַ֕ם|wə·ḡam|as well|H1571|Conj
 v5 בְּעֵינֵ֖י|bə·‘ê·nê|...|H5869|Prep-b | N-cdc
 v5 עַבְדֵ֥י|‘aḇ·ḏê|officers|H5650|N-mpc
-v5 שָׁאֽוּל׃פ|šā·’ūl|and of Saul's|H7586|N-proper-ms
+v5 שָׁאֽוּל׃|šā·’ūl|and of Saul's|H7586|N-proper-ms
 v6 וַיְהִ֣י|way·hî|As the troops|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v6 בְּבוֹאָ֗ם|bə·ḇō·w·’ām|vvv|H935|Prep-b | V-Qal-Inf | 3mp
+v6 בְּבוֹאָ֗ם|bə·ḇō·w·’ām|...|H935|Prep-b | V-Qal-Inf | 3mp
 v6 בְּשׁ֤וּב|bə·šūḇ|were returning home|H7725|Prep-b | V-Qal-Inf
 v6 דָּוִד֙|dā·wiḏ|after David|H1732|N-proper-ms
 v6 מֵהַכּ֣וֹת|mê·hak·kō·wṯ|had killed|H5221|Prep-m | V-Hifil-Inf
@@ -85,7 +85,7 @@ v6 וּבְשָׁלִשִֽׁים׃|ū·ḇə·šā·li·šîm|and other instrum
 v7 וַֽתַּעֲנֶ֛ינָה|wat·ta·‘ă·ne·nāh|they sang out|H6030|Conj-w | V-Qal-ConsecImperf-3fp
 v7 הַנָּשִׁ֥ים|han·nā·šîm|...|H802|Art | N-fp
 v7 הַֽמְשַׂחֲק֖וֹת|ham·śa·ḥă·qō·wṯ|And as the women danced|H7832|Art | V-Piel-Prtcpl-fp
-v7 וַתֹּאמַ֑רְןָ|wat·tō·mar·nā|vvv|H559|Conj-w | V-Qal-ConsecImperf-3fp
+v7 וַתֹּאמַ֑רְןָ|wat·tō·mar·nā|...|H559|Conj-w | V-Qal-ConsecImperf-3fp
 v7 הִכָּ֤ה|hik·kāh|has slain|H5221|V-Hifil-Perf-3ms
 v7 שָׁאוּל֙|šā·’ūl|Saul|H7586|N-proper-ms
 v7 בְּאַלְפּוֹ|bə·ʾal·pō|[his] thousands|H505|Prep-b | Number-mpc | 3ms
@@ -116,7 +116,7 @@ v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 דָּוִ֑ד|dā·wiḏ|on David|H1732|N-proper-ms
 v9 מֵהַיּ֥וֹם|mê·hay·yō·wm|day|H3117|Prep-m, Art | N-ms
 v9 הַה֖וּא|ha·hū|from that|H1931|Art | Pro-3ms
-v9 וָהָֽלְאָה׃ס|wā·hā·lə·’āh|forward|H1973|Conj-w | Adv
+v9 וָהָֽלְאָה׃|wā·hā·lə·’āh|forward|H1973|Conj-w | Adv
 v10 וַיְהִ֣י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v10 מִֽמָּחֳרָ֗ת|mim·mā·ḥo·rāṯ|The next day|H4283|Prep-m | N-fs
 v10 וַתִּצְלַ֣ח|wat·tiṣ·laḥ|came|H6743|Conj-w | V-Qal-ConsecImperf-3fs
@@ -131,7 +131,7 @@ v10 הַבַּ֔יִת|hab·ba·yiṯ|house|H1004|Art | N-ms
 v10 וְדָוִ֛ד|wə·ḏā·wiḏ|while David|H1732|Conj-w | N-proper-ms
 v10 מְנַגֵּ֥ן|mə·nag·gên|played [the harp]|H5059|V-Piel-Prtcpl-ms
 v10 בְּיָד֖וֹ|bə·yā·ḏōw|was holding|H3027|Prep-b | N-fsc | 3ms
-v10 כְּי֣וֹם׀|kə·yō·wm|vvv|H3117|Prep-k | N-ms
+v10 כְּי֣וֹם׀|kə·yō·wm|...|H3117|Prep-k | N-ms
 v10 בְּי֑וֹם|bə·yō·wm|as usual|H3117|Prep-b | N-ms
 v10 וְהַחֲנִ֖ית|wə·ha·ḥă·nîṯ|a spear|H2595|Conj-w, Art | N-fs
 v10 בְּיַד־|bə·yaḏ-|...|H3027|Prep-b | N-fsc
@@ -169,7 +169,7 @@ v13 אָ֑לֶף|’ā·lep̄|of a thousand men|H505|Number-ms
 v13 וַיֵּצֵ֥א|way·yê·ṣê|David led|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v13 וַיָּבֹ֖א|way·yā·ḇō|and back|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v13 לִפְנֵ֥י|lip̄·nê|...|H6440|Prep-l | N-cpc
-v13 הָעָֽם׃פ|hā·‘ām|the troops {out to battle}|H5971|Art | N-ms
+v13 הָעָֽם׃|hā·‘ām|the troops {out to battle}|H5971|Art | N-ms
 v14 וַיְהִ֥י|way·hî|and he continued|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v14 דָוִ֛ד|ḏā·wiḏ|...|H1732|N-proper-ms
 v14 לְכָל־|lə·ḵāl|in all|H3605|Prep-l | N-msc
@@ -195,7 +195,7 @@ v16 כִּֽי־|kî-|because|H3588|Conj
 v16 ה֛וּא|hū|he|H1931|Pro-3ms
 v16 יוֹצֵ֥א|yō·w·ṣê|was leading them out to battle|H3318|V-Qal-Prtcpl-ms
 v16 וָבָ֖א|wā·ḇā|and back|H935|Conj-w | V-Qal-Prtcpl-ms
-v16 לִפְנֵיהֶֽם׃פ|lip̄·nê·hem|-|H6440|Prep-l | N-mpc | 3mp
+v16 לִפְנֵיהֶֽם׃|lip̄·nê·hem|-|H6440|Prep-l | N-mpc | 3mp
 v17 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v17 שָׁא֜וּל|šā·’ūl|Then Saul|H7586|N-proper-ms
 v17 אֶל־|’el-|to|H413|Prep
@@ -211,21 +211,21 @@ v17 לְאִשָּׁ֔ה|lə·’iš·šāh|in marriage|H802|Prep-l | N-fs
 v17 אַ֚ךְ|’aḵ|Only|H389|Adv
 v17 הֱיֵה־|hĕ·yêh-|be|H1961|V-Qal-Imp-ms
 v17 לִּ֣י|lî|for me|H0|Prep | 1cs
-v17 לְבֶן־|lə·ḇen-||H1121|Prep-l | N-msc
+v17 לְבֶן־|lə·ḇen-|-|H1121|Prep-l | N-msc
 v17 חַ֔יִל|ḥa·yil|valiant|H2428|N-ms
 v17 וְהִלָּחֵ֖ם|wə·hil·lā·ḥêm|and fight|H3898|Conj-w | V-Nifal-Imp-ms
 v17 מִלְחֲמ֣וֹת|mil·ḥă·mō·wṯ|battles|H4421|N-fpc
 v17 יְהוָ֑ה|Yah·weh|the LORD's|H3068|N-proper-ms
 v17 וְשָׁא֣וּל|wə·šā·’ūl|But Saul|H7586|Conj-w | N-proper-ms
 v17 אָמַ֗ר|’ā·mar|was thinking|H559|V-Qal-Perf-3ms
-v17 אַל־|’al-|vvv|H408|Adv
+v17 אַל־|’al-|...|H408|Adv
 v17 תְּהִ֤י|tə·hî|I need not raise|H1961|V-Qal-Imperf.Jus-3fs
 v17 יָדִי֙|yā·ḏî|my hand|H3027|N-fsc | 1cs
 v17 בּ֔וֹ|bōw|against him|H0|Prep | 3ms
 v17 וּתְהִי־|ū·ṯə·hî-|be|H1961|Conj-w | V-Qal-ConjImperf.Jus-3fs
 v17 ב֖וֹ|ḇōw|against him|H0|Prep | 3ms
 v17 יַד־|yaḏ-|let the hand|H3027|N-fsc
-v17 פְּלִשְׁתִּֽים׃ס|pə·liš·tîm|of the Philistines|H6430|N-proper-mp
+v17 פְּלִשְׁתִּֽים׃|pə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v18 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v18 דָּוִ֜ד|dā·wiḏ|And David|H1732|N-proper-ms
 v18 אֶל־|’el-|to|H413|Prep
@@ -282,7 +282,7 @@ v21 אֶל־|’el-|to|H413|Prep
 v21 דָּוִ֔ד|dā·wiḏ|David|H1732|N-proper-ms
 v21 בִּשְׁתַּ֛יִם|biš·ta·yim|For a second [time]|H8147|Prep-b | Number-fd
 v21 תִּתְחַתֵּ֥ן|tiṯ·ḥat·tên|you can be my son-in-law|H2859|V-Hitpael-Imperf-2ms
-v21 בִּ֖י|bî||H0|Prep | 1cs
+v21 בִּ֖י|bî|-|H0|Prep | 1cs
 v21 הַיּֽוֹם׃|hay·yō·wm|now|H3117|Art | N-ms
 v22 וַיְצַ֨ו|way·ṣaw|ordered|H6680|Conj-w | V-Piel-ConsecImperf-3ms
 v22 שָׁא֜וּל|šā·’ūl|Then Saul|H7586|N-proper-ms
@@ -324,12 +324,12 @@ v23 וְנִקְלֶֽה׃|wə·niq·leh|and lightly esteemed|H7034|Conj-w | V-N
 v24 וַיַּגִּ֜דוּ|way·yag·gi·ḏū|told|H5046|Conj-w | V-Hifil-ConsecImperf-3mp
 v24 עַבְדֵ֥י|‘aḇ·ḏê|And the servants|H5650|N-mpc
 v24 שָׁא֛וּל|šā·’ūl|Saul|H7586|N-proper-ms
-v24 ל֖וֹ|lōw||H0|Prep | 3ms
+v24 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v24 לֵאמֹ֑ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v24 כַּדְּבָרִ֥ים|kad·də·ḇā·rîm|...|H1697|Prep-k, Art | N-mp
 v24 הָאֵ֖לֶּה|hā·’êl·leh|what|H428|Art | Pro-cp
 v24 דִּבֶּ֥ר|dib·ber|had said|H1696|V-Piel-Perf-3ms
-v24 דָּוִֽד׃פ|dā·wiḏ|David|H1732|N-proper-ms
+v24 דָּוִֽד׃|dā·wiḏ|David|H1732|N-proper-ms
 v25 וַיֹּ֨אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v25 שָׁא֜וּל|šā·’ūl|Saul|H7586|N-proper-ms
 v25 כֹּֽה־|kōh-|-|H3541|Adv
@@ -366,7 +366,7 @@ v26 דָוִ֔ד|ḏā·wiḏ|[he]|H1732|N-proper-ms
 v26 לְהִתְחַתֵּ֖ן|lə·hiṯ·ḥat·tên|son-in-law|H2859|Prep-l | V-Hitpael-Inf
 v26 בַּמֶּ֑לֶךְ|bam·me·leḵ|to become the king's|H4428|Prep-b, Art | N-ms
 v26 וְלֹ֥א|wə·lō|-|H3808|Conj-w | Adv-NegPrt
-v26 מָלְא֖וּ|mā·lə·’ū|vvv|H4390|V-Qal-Perf-3cp
+v26 מָלְא֖וּ|mā·lə·’ū|...|H4390|V-Qal-Perf-3cp
 v26 הַיָּמִֽים׃|hay·yā·mîm|Before the wedding day arrived|H3117|Art | N-mp
 v27 וַיָּ֨קָם|way·yā·qām|-|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v27 דָּוִ֜ד|dā·wiḏ|David|H1732|N-proper-ms
@@ -391,7 +391,7 @@ v27 שָׁא֛וּל|šā·’ūl|Then Saul|H7586|N-proper-ms
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 מִיכַ֥ל|mî·ḵal|Michal|H4324|N-proper-fs
 v27 בִּתּ֖וֹ|bit·tōw|his daughter|H1323|N-fsc | 3ms
-v27 לְאִשָּֽׁה׃ס|lə·’iš·šāh|{in marriage}|H802|Prep-l | N-fs
+v27 לְאִשָּֽׁה׃|lə·’iš·šāh|{in marriage}|H802|Prep-l | N-fs
 v28 וַיַּ֤רְא|way·yar|realized|H7200|Conj-w | V-Qal-ConsecImperf-3ms
 v28 שָׁאוּל֙|šā·’ūl|When Saul|H7586|N-proper-ms
 v28 וַיֵּ֔דַע|way·yê·ḏa‘|...|H3045|Conj-w | V-Qal-ConsecImperf-3ms
@@ -415,7 +415,7 @@ v29 אֹיֵ֥ב|’ō·yêḇ|enemy|H341|V-Qal-Prtcpl-ms
 v29 אֶת־|’eṯ-|-|H853|DirObjM
 v29 דָּוִ֖ד|dā·wiḏ|David's|H1732|N-proper-ms
 v29 כָּל־|kāl-|So from then on|H3605|N-msc
-v29 הַיָּמִֽים׃ס|hay·yā·mîm|...|H3117|Art | N-mp
+v29 הַיָּמִֽים׃|hay·yā·mîm|...|H3117|Art | N-mp
 v30 וַיֵּצְא֖וּ|way·yê·ṣə·’ū|came out [for battle]|H3318|Conj-w | V-Qal-ConsecImperf-3mp
 v30 שָׂרֵ֣י|śā·rê|commanders|H8269|N-mpc
 v30 פְלִשְׁתִּ֑ים|p̄ə·liš·tîm|the Philistine|H6430|N-proper-mp
@@ -429,4 +429,4 @@ v30 עַבְדֵ֣י|‘aḇ·ḏê|officers|H5650|N-mpc
 v30 שָׁא֔וּל|šā·’ūl|of Saul's|H7586|N-proper-ms
 v30 וַיִּיקַ֥ר|way·yî·qar|esteemed|H3365|Conj-w | V-Qal-ConsecImperf-3ms
 v30 שְׁמ֖וֹ|šə·mōw|so that his name|H8034|N-msc | 3ms
-v30 מְאֹֽד׃ס|mə·’ōḏ|was highly|H3966|Adv
+v30 מְאֹֽד׃|mə·’ōḏ|was highly|H3966|Adv

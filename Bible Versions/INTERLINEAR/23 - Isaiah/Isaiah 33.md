@@ -6,14 +6,14 @@ v1 שָׁד֔וּד|šā·ḏūḏ|destroyed|H7703|V-Qal-QalPassPrtcpl-ms
 v1 וּבוֹגֵ֖ד|ū·ḇō·w·ḡêḏ|O traitor|H898|Conj-w | V-Qal-Prtcpl-ms
 v1 וְלֹא־|wə·lō-|never|H3808|Conj-w | Adv-NegPrt
 v1 בָ֣גְדוּ|ḇā·ḡə·ḏū|betrayed|H898|V-Qal-Perf-3cp
-v1 ב֑וֹ|ḇōw||H0|Prep | 3ms
+v1 ב֑וֹ|ḇōw|-|H0|Prep | 3ms
 v1 כַּהֲתִֽמְךָ֤|ka·hă·ṯim·ḵā|When you have finished|H8552|Prep-k | V-Hifil-Inf | 2ms
 v1 שׁוֹדֵד֙|šō·w·ḏêḏ|destroying|H7703|V-Qal-Prtcpl-ms
 v1 תּוּשַּׁ֔ד|tūš·šaḏ|you will be destroyed|H7703|V-QalPass-Imperf-2ms
 v1 כַּנְּלֹתְךָ֥|kan·nə·lō·ṯə·ḵā|When you have finished|H5239|Prep-k | V-Hifil-Inf | 2ms
 v1 לִבְגֹּ֖ד|liḇ·gōḏ|betraying|H898|Prep-l | V-Qal-Inf
 v1 יִבְגְּדוּ־|yiḇ·gə·ḏū-|you will be betrayed|H898|V-Qal-Imperf-3mp
-v1 בָֽךְ׃ס|ḇāḵ||H0|Prep | 2ms
+v1 בָֽךְ׃|ḇāḵ|-|H0|Prep | 2ms
 v2 יְהוָ֥ה|Yah·weh|O LORD|H3068|N-proper-ms
 v2 חָנֵּ֖נוּ|ḥān·nê·nū|be gracious to us|H2603|V-Qal-Imp-ms | 1cp
 v2 לְךָ֣|lə·ḵā|for You|H0|Prep | 2ms
@@ -59,7 +59,7 @@ v6 וָדָ֑עַת|wā·ḏā·‘aṯ|and knowledge|H1847|Conj-w | N-fs
 v6 יִרְאַ֥ת|yir·’aṯ|The fear|H3374|N-fsc
 v6 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v6 הִ֥יא|hî|...|H1931|Pro-3fs
-v6 אוֹצָרֽוֹ׃ס|’ō·w·ṣā·rōw|is [Zion's] treasure|H214|N-msc | 3ms
+v6 אוֹצָרֽוֹ׃|’ō·w·ṣā·rōw|is [Zion's] treasure|H214|N-msc | 3ms
 v7 הֵ֚ן|hên|Behold|H2005|Interjection
 v7 אֶרְאֶלָּ֔ם|’er·’el·lām|their valiant ones|H691|N-msc | 3mp
 v7 צָעֲק֖וּ|ṣā·‘ă·qū|cry aloud|H6817|V-Qal-Perf-3cp
@@ -114,7 +114,7 @@ v12 שִׂ֑יד|śîḏ|to ashes|H7875|N-ms
 v12 קוֹצִ֥ים|qō·w·ṣîm|like thorns|H6975|N-mp
 v12 כְּסוּחִ֖ים|kə·sū·ḥîm|cut down|H3683|V-Qal-QalPassPrtcpl-mp
 v12 בָּאֵ֥שׁ|bā·’êš|ablaze|H784|Prep-b, Art | N-cs
-v12 יִצַּֽתּוּ׃ס|yiṣ·ṣat·tū|and set|H3341|V-Qal-Imperf-3mp
+v12 יִצַּֽתּוּ׃|yiṣ·ṣat·tū|and set|H3341|V-Qal-Imperf-3mp
 v13 שִׁמְע֥וּ|šim·‘ū|hear|H8085|V-Qal-Imp-mp
 v13 רְחוֹקִ֖ים|rə·ḥō·w·qîm|You who are far off|H7350|Adj-mp
 v13 אֲשֶׁ֣ר|’ă·šer|what|H834|Pro-r
@@ -183,7 +183,7 @@ v18 אַיֵּ֣ה|’ay·yêh|Where|H346|Interrog
 v18 שֹׁקֵ֔ל|šō·qêl|is he who weighs|H8254|V-Qal-Prtcpl-ms
 v18 אַיֵּ֖ה|’ay·yêh|Where|H346|Interrog
 v18 סֹפֵ֥ר|sō·p̄êr|is he who counts|H5608|V-Qal-Prtcpl-ms
-v18 אֶת־|’eṯ-||H853|DirObjM
+v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 הַמִּגְדָּלִֽים׃|ham·miḡ·dā·lîm|the towers|H4026|Art | N-mp
 v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 עַ֥ם|‘am|...|H5971|N-ms
@@ -231,7 +231,7 @@ v21 רַחֲבֵ֣י|ra·ḥă·ḇê|and wide|H7342|Adj-mpc
 v21 יָדָ֑יִם|yā·ḏā·yim|...|H3027|N-fd
 v21 בַּל־|bal-|where no|H1077|Adv
 v21 תֵּ֤לֶךְ|tê·leḵ|will row|H1980|V-Qal-Imperf-3fs
-v21 בּוֹ֙|bōw||H0|Prep | 3ms
+v21 בּוֹ֙|bōw|-|H0|Prep | 3ms
 v21 אֳנִי־|’o·nî-|galley|H590|N-msc
 v21 שַׁ֔יִט|ša·yiṭ|with oars|H7885|N-ms
 v21 וְצִ֥י|wə·ṣî|vessel|H6716|Conj-w | N-ms
@@ -258,7 +258,7 @@ v23 פָּ֣רְשׂוּ|pā·rə·śū|or spread|H6566|V-Qal-Perf-3cp
 v23 נֵ֔ס|nês|the sail|H5251|N-ms
 v23 אָ֣ז|’āz|Then|H227|Adv
 v23 חֻלַּ֤ק|ḥul·laq|will be divided|H2505|V-Pual-Perf-3ms
-v23 עַֽד־|‘aḏ-|vvv|H5706|N-msc
+v23 עַֽד־|‘aḏ-|...|H5706|N-msc
 v23 שָׁלָל֙|šā·lāl|of spoils|H7998|N-ms
 v23 מַרְבֶּ֔ה|mar·beh|an abundance|H4766|Adv
 v23 פִּסְחִ֖ים|pis·ḥîm|[and even] the lame|H6455|Adj-mp

@@ -57,7 +57,7 @@ v4 γὰρ|gar|because|G1063|Conj
 v4 «ὁ|ho|-|G3588|Art-NMS
 v4 Ἰωάννης»|Iōannēs|John|G2491|N-NMS
 v4 αὐτῷ|autō|him|G846|PPro-DM3S
-v4 Οὐκ|Ouk|vvv|G3756|Adv
+v4 Οὐκ|Ouk|...|G3756|Adv
 v4 ἔξεστίν|exestin|It is not lawful|G1832|V-PIA-3S
 v4 σοι|soi|for you|G4771|PPro-D2S
 v4 ἔχειν|echein|to have|G2192|V-PNA
@@ -126,7 +126,7 @@ v9 διὰ|dia|but because of|G1223|Prep
 v9 τοὺς|tous|[his]|G3588|Art-AMP
 v9 ὅρκους|horkous|oaths|G3727|N-AMP
 v9 καὶ|kai|and|G2532|Conj
-v9 τοὺς|tous|vvv|G3588|Art-AMP
+v9 τοὺς|tous|...|G3588|Art-AMP
 v9 συνανακειμένους|synanakeimenous|his guests|G4873|V-PPM/P-AMP
 v9 ἐκέλευσεν|ekeleusen|he ordered that|G2753|V-AIA-3S
 v9 δοθῆναι|dothēnai|[her wish] be granted|G1325|V-ANP
@@ -181,7 +181,7 @@ v13 πλοίῳ|ploiō|boat|G4143|N-DNS
 v13 εἰς|eis|to|G1519|Prep
 v13 ἔρημον|erēmon|a solitary|G2048|Adj-AMS
 v13 τόπον|topon|place|G5117|N-AMS
-v13 κατ’|kat’|vvv|G2596|Prep
+v13 κατ’|kat’|...|G2596|Prep
 v13 ἰδίαν|idian|privately|G2398|Adj-AFS
 v13 καὶ|kai|But|G2532|Conj
 v13 ἀκούσαντες|akousantes|found out [about it]|G191|V-APA-NMP
@@ -305,7 +305,7 @@ v19 τοῖς|tois|[gave them] to the|G3588|Art-DMP
 v19 ὄχλοις|ochlois|people|G3793|N-DMP
 v20 Καὶ|Kai|-|G2532|Conj
 v20 ἔφαγον|ephagon|They all ate|G5315|V-AIA-3P
-v20 πάντες|pantes|vvv|G3956|Adj-NMP
+v20 πάντες|pantes|...|G3956|Adj-NMP
 v20 καὶ|kai|and|G2532|Conj
 v20 ἐχορτάσθησαν|echortasthēsan|were satisfied|G5526|V-AIP-3P
 v20 καὶ|kai|and|G2532|Conj
@@ -317,7 +317,7 @@ v20 κλασμάτων|klasmatōn|of broken pieces|G2801|N-GNP
 v20 δώδεκα|dōdeka|twelve|G1427|Adj-AMP
 v20 κοφίνους|kophinous|basketfuls|G2894|N-AMP
 v20 πλήρεις|plēreis|...|G4134|Adj-AMP
-v21 οἱ|hoi|vvv|G3588|Art-NMP
+v21 οἱ|hoi|...|G3588|Art-NMP
 v21 δὲ|de|-|G1161|Conj
 v21 ἐσθίοντες|esthiontes|fed|G2068|V-PPA-NMP
 v21 ἦσαν|ēsan|were|G1510|V-IIA-3P
@@ -328,7 +328,7 @@ v21 χωρὶς|chōris|besides|G5565|Prep
 v21 γυναικῶν|gynaikōn|women|G1135|N-GFP
 v21 καὶ|kai|and|G2532|Conj
 v21 παιδίων|paidiōn|children|G3813|N-GNP
-v22 Καὶ|Kai|vvv|G2532|Conj
+v22 Καὶ|Kai|...|G2532|Conj
 v22 εὐθέως|eutheōs|Immediately|G2112|Adv
 v22 ἠνάγκασεν|ēnankasen|[Jesus] made|G315|V-AIA-3S
 v22 τοὺς|tous|the|G3588|Art-AMP
@@ -385,7 +385,7 @@ v24 ἐναντίος|enantios|against it|G1727|Adj-NMS
 v24 ὁ|ho|the|G3588|Art-NMS
 v24 ἄνεμος|anemos|wind|G417|N-NMS
 v25 Τετάρτῃ|Tetartē|During the fourth|G5067|Adj-DFS
-v25 δὲ|de|vvv|G1161|Conj
+v25 δὲ|de|...|G1161|Conj
 v25 φυλακῇ|phylakē|watch|G5438|N-DFS
 v25 τῆς|tēs|of the|G3588|Art-GFS
 v25 νυκτὸς|nyktos|night|G3571|N-GFS
@@ -445,8 +445,8 @@ v28 σὲ|se|You|G4771|PPro-A2S
 v28 ἐπὶ|epi|on|G1909|Prep
 v28 τὰ|ta|the|G3588|Art-ANP
 v28 ὕδατα|hydata|water|G5204|N-ANP
-v29 Ὁ|Ho|vvv|G3588|Art-NMS
-v29 δὲ|de|vvv|G1161|Conj
+v29 Ὁ|Ho|...|G3588|Art-NMS
+v29 δὲ|de|...|G1161|Conj
 v29 εἶπεν|eipen|said [Jesus]|G2036|V-AIA-3S
 v29 Ἐλθέ|Elthe|Come|G2064|V-AMA-2S
 v29 Καὶ|Kai|Then|G2532|Conj

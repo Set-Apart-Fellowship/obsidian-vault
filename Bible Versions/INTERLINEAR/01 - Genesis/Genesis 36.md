@@ -255,7 +255,7 @@ v19 עֵשָׂ֛ו|‘ê·śāw|of Esau|H6215|N-proper-ms
 v19 וְאֵ֥לֶּה|wə·’êl·leh|and they|H428|Conj-w | Pro-cp
 v19 אַלּוּפֵיהֶ֖ם|’al·lū·p̄ê·hem|were their chiefs|H441|N-mpc | 3mp
 v19 ה֥וּא|hū|(that is|H1931|Pro-3ms
-v19 אֱדֽוֹם׃ס|’ĕ·ḏō·wm|Edom|H123|N-proper-ms
+v19 אֱדֽוֹם׃|’ĕ·ḏō·wm|Edom|H123|N-proper-ms
 v20 אֵ֤לֶּה|’êl·leh|These|H428|Pro-cp
 v20 בְנֵֽי־|ḇə·nê-|are the sons|H1121|N-mpc
 v20 שֵׂעִיר֙|śê·‘îr|of Seir|H8165|N-proper-ms
@@ -356,7 +356,7 @@ v30 אַלּוּפֵ֧י|’al·lū·p̄ê|are the chiefs|H441|N-mpc
 v30 הַחֹרִ֛י|ha·ḥō·rî|of the Horites|H2753|Art | N-proper-ms
 v30 לְאַלֻּפֵיהֶ֖ם|lə·’al·lu·p̄ê·hem|according to their divisions|H441|Prep-l | N-mpc | 3mp
 v30 בְּאֶ֥רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
-v30 שֵׂעִֽיר׃פ|śê·‘îr|of Seir|H8165|N-proper-fs
+v30 שֵׂעִֽיר׃|śê·‘îr|of Seir|H8165|N-proper-fs
 v31 וְאֵ֙לֶּה֙|wə·’êl·leh|These|H428|Conj-w | Pro-cp
 v31 הַמְּלָכִ֔ים|ham·mə·lā·ḵîm|are the kings|H4428|Art | N-mp
 v31 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
@@ -423,12 +423,12 @@ v38 וַיָּ֖מָת|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3
 v38 שָׁא֑וּל|šā·’ūl|When Shaul|H7586|N-proper-ms
 v38 וַיִּמְלֹ֣ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v38 תַּחְתָּ֔יו|taḥ·tāw|in his place|H8478|Prep | 3ms
-v38 בַּ֥עַל|ba·‘al|vvv|H1177|Prep
+v38 בַּ֥עַל|ba·‘al|...|H1177|Prep
 v38 חָנָ֖ן|ḥā·nān|Baal-hanan|H1177|N-proper-ms
 v38 בֶּן־|ben-|son|H1121|N-msc
 v38 עַכְבּֽוֹר׃|‘aḵ·bō·wr|of Achbor|H5907|N-proper-ms
 v39 וַיָּמָת֮|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
-v39 בַּ֣עַל|ba·‘al|vvv|H1177|Prep
+v39 בַּ֣עַל|ba·‘al|...|H1177|Prep
 v39 חָנָ֣ן|ḥā·nān|When Baal-hanan|H1177|N-proper-ms
 v39 בֶּן־|ben-|son|H1121|N-msc
 v39 עַכְבּוֹר֒|‘aḵ·bō·wr|of Achbor|H5907|N-proper-ms
@@ -444,7 +444,7 @@ v39 מְהֵֽיטַבְאֵל֙|mə·hê·ṭaḇ·’êl|was Mehetabel|H4105|N
 v39 בַּת־|baṯ-|daughter|H1323|N-fsc
 v39 מַטְרֵ֔ד|maṭ·rêḏ|of Matred|H4308|N-proper-fs
 v39 בַּ֖ת|baṯ|the daughter|H1323|N-fsc
-v39 מֵ֥י|mê|vvv|H4314|Prep
+v39 מֵ֥י|mê|...|H4314|Prep
 v39 זָהָֽב׃|zā·hāḇ|of Me-zahab|H4314|N-proper-ms
 v40 וְ֠אֵלֶּה|wə·’êl·leh|These|H428|Conj-w | Pro-cp
 v40 שְׁמ֞וֹת|šə·mō·wṯ|are the names|H8034|N-mpc
@@ -484,4 +484,4 @@ v43 אֲחֻזָּתָ֔ם|’ă·ḥuz·zā·ṯām|they possessed|H272|N-fsc 
 v43 ה֥וּא|hū|-|H1931|Pro-3ms
 v43 עֵשָׂ֖ו|‘ê·śāw|Esau|H6215|N-proper-ms
 v43 אֲבִ֥י|’ă·ḇî|was the father|H1|N-msc
-v43 אֱדֽוֹם׃פ|’ĕ·ḏō·wm|of the Edomites|H123|N-proper-ms
+v43 אֱדֽוֹם׃|’ĕ·ḏō·wm|of the Edomites|H123|N-proper-ms

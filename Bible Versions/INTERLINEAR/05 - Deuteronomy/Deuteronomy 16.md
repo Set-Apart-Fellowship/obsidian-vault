@@ -55,7 +55,7 @@ v3 יְמֵ֥י|yə·mê|the day|H3117|N-mpc
 v3 חַיֶּֽיךָ׃|ḥay·ye·ḵā|of your life|H2416|N-mpc | 2ms
 v4 וְלֹֽא־|wə·lō-|No|H3808|Conj-w | Adv-NegPrt
 v4 יֵרָאֶ֨ה|yê·rā·’eh|is to be found|H7200|V-Nifal-Imperf-3ms
-v4 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v4 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v4 שְׂאֹ֛ר|śə·’ōr|leaven|H7603|N-ms
 v4 בְּכָל־|bə·ḵāl|in all|H3605|Prep-b | N-msc
 v4 גְּבֻלְךָ֖|gə·ḇul·ḵā|your land|H1366|N-msc | 2ms
@@ -110,7 +110,7 @@ v7 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v7 יִבְחַ֛ר|yiḇ·ḥar|will choose|H977|V-Qal-Imperf-3ms
 v7 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v7 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
-v7 בּ֑וֹ|bōw||H0|Prep | 3ms
+v7 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v7 וּפָנִ֣יתָ|ū·p̄ā·nî·ṯā|-|H6437|Conj-w | V-Qal-ConjPerf-2ms
 v7 בַבֹּ֔קֶר|ḇab·bō·qer|and in the morning|H1242|Prep-b, Art | N-ms
 v7 וְהָלַכְתָּ֖|wə·hā·laḵ·tā|you shall return|H1980|Conj-w | V-Qal-ConjPerf-2ms
@@ -126,11 +126,11 @@ v8 לַיהוָ֣ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v8 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v8 לֹ֥א|lō|and you must not|H3808|Adv-NegPrt
 v8 תַעֲשֶׂ֖ה|ṯa·‘ă·śeh|do|H6213|V-Qal-Imperf-2ms
-v8 מְלָאכָֽה׃ס|mə·lā·ḵāh|any work|H4399|N-fs
+v8 מְלָאכָֽה׃|mə·lā·ḵāh|any work|H4399|N-fs
 v9 שִׁבְעָ֥ה|šiḇ·‘āh|seven|H7651|Number-ms
 v9 שָׁבֻעֹ֖ת|šā·ḇu·‘ōṯ|weeks|H7620|N-mp
 v9 תִּסְפָּר־|tis·pār-|You are to count off|H5608|V-Qal-Imperf-2ms
-v9 לָ֑ךְ|lāḵ||H0|Prep | 2ms
+v9 לָ֑ךְ|lāḵ|-|H0|Prep | 2ms
 v9 מֵהָחֵ֤ל|mê·hā·ḥêl|...|H2490|Prep-m | V-Hifil-Inf
 v9 חֶרְמֵשׁ֙|ḥer·mêš|you first put the sickle|H2770|N-ms
 v9 בַּקָּמָ֔ה|baq·qā·māh|to the standing grain|H7054|Prep-b, Art | N-fs
@@ -186,11 +186,11 @@ v12 וְשָׁמַרְתָּ֣|wə·šā·mar·tā|and carefully|H8104|Conj-w | 
 v12 וְעָשִׂ֔יתָ|wə·‘ā·śî·ṯā|follow|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 הַֽחֻקִּ֖ים|ha·ḥuq·qîm|statutes|H2706|Art | N-mp
-v12 הָאֵֽלֶּה׃פ|hā·’êl·leh|these|H428|Art | Pro-cp
+v12 הָאֵֽלֶּה׃|hā·’êl·leh|these|H428|Art | Pro-cp
 v13 חַ֧ג|ḥaḡ|the Feast|H2282|N-msc
 v13 הַסֻּכֹּ֛ת|has·suk·kōṯ|of Tabernacles|H5521|Art | N-fp
 v13 תַּעֲשֶׂ֥ה|ta·‘ă·śeh|You are to celebrate|H6213|V-Qal-Imperf-2ms
-v13 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v13 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v13 שִׁבְעַ֣ת|šiḇ·‘aṯ|for seven|H7651|Number-msc
 v13 יָמִ֑ים|yā·mîm|days|H3117|N-mp
 v13 בְּאָ֨סְפְּךָ֔|bə·’ā·sə·pə·ḵā|after you have gathered|H622|Prep-b | V-Qal-Inf | 2ms
@@ -263,11 +263,11 @@ v17 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v17 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v17 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v17 נָֽתַן־|nā·ṯan-|has given|H5414|V-Qal-Perf-3ms
-v17 לָֽךְ׃ס|lāḵ|you|H0|Prep | 2ms
+v17 לָֽךְ׃|lāḵ|you|H0|Prep | 2ms
 v18 שֹׁפְטִ֣ים|šō·p̄ə·ṭîm|judges|H8199|V-Qal-Prtcpl-mp
 v18 וְשֹֽׁטְרִ֗ים|wə·šō·ṭə·rîm|and officials|H7860|Conj-w | N-mp
 v18 תִּֽתֶּן־|tit·ten-|You are to appoint|H5414|V-Qal-Imperf-2ms
-v18 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v18 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v18 בְּכָל־|bə·ḵāl|in every|H3605|Prep-b | N-msc
 v18 שְׁעָרֶ֔יךָ|šə·‘ā·re·ḵā|town|H8179|N-mpc | 2ms
 v18 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
@@ -310,10 +310,10 @@ v20 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v20 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v20 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v20 נֹתֵ֥ן|nō·ṯên|is giving|H5414|V-Qal-Prtcpl-ms
-v20 לָֽךְ׃ס|lāḵ|you|H0|Prep | 2ms
+v20 לָֽךְ׃|lāḵ|you|H0|Prep | 2ms
 v21 לֹֽא־|lō-|Do not|H3808|Adv-NegPrt
 v21 תִטַּ֥ע|ṯiṭ·ṭa‘|set up|H5193|V-Qal-Imperf-2ms
-v21 לְךָ֛|lə·ḵā||H0|Prep | 2ms
+v21 לְךָ֛|lə·ḵā|-|H0|Prep | 2ms
 v21 אֲשֵׁרָ֖ה|’ă·šê·rāh|Asherah pole|H842|N-fs
 v21 כָּל־|kāl-|any|H3605|N-msc
 v21 עֵ֑ץ|‘êṣ|wooden|H6086|N-ms
@@ -323,7 +323,7 @@ v21 יְהוָ֥ה|Yah·weh|for the LORD|H3068|N-proper-ms
 v21 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v21 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v21 תַּעֲשֶׂה־|ta·‘ă·śeh-|you will build|H6213|V-Qal-Imperf-2ms
-v21 לָּֽךְ׃ס|lāḵ||H0|Prep | 2ms
+v21 לָּֽךְ׃|lāḵ|-|H0|Prep | 2ms
 v22 וְלֹֽא־|wə·lō-|and do not|H3808|Conj-w | Adv-NegPrt
 v22 תָקִ֥ים|ṯā·qîm|set up|H6965|V-Hifil-Imperf-2ms
 v22 לְךָ֖|lə·ḵā|for yourselves|H0|Prep | 2ms
@@ -331,4 +331,4 @@ v22 מַצֵּבָ֑ה|maṣ·ṣê·ḇāh|a sacred pillar|H4676|N-fs
 v22 אֲשֶׁ֥ר|’ă·šer|which|H834|Pro-r
 v22 שָׂנֵ֖א|śā·nê|hates|H8130|V-Qal-Perf-3ms
 v22 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v22 אֱלֹהֶֽיךָ׃ס|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
+v22 אֱלֹהֶֽיךָ׃|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms

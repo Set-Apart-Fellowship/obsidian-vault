@@ -56,7 +56,7 @@ v4 וַיָּ֣מָד|way·yā·māḏ|Then he measured off|H4058|Conj-w | V-Qal
 v4 אֶ֔לֶף|’e·lep̄|a thousand [cubits]|H505|Number-ms
 v4 וַיַּעֲבִרֵ֥נִי|way·ya·‘ă·ḇi·rê·nî|and led me through|H5674|Conj-w | V-Hifil-ConsecImperf-3ms | 1cs
 v4 בַמַּ֖יִם|ḇam·ma·yim|water|H4325|Prep-b, Art | N-mp
-v4 מַ֣יִם|ma·yim|vvv|H4325|N-mp
+v4 מַ֣יִם|ma·yim|...|H4325|N-mp
 v4 בִּרְכָּ֑יִם|bir·kā·yim|knee-deep|H1290|N-fd
 v4 וַיָּ֣מָד|way·yā·māḏ|Again he measured|H4058|Conj-w | V-Qal-ConsecImperf-3ms
 v4 אֶ֔לֶף|’e·lep̄|a thousand [cubits]|H505|Number-ms
@@ -112,15 +112,15 @@ v8 הָֽעֲרָבָ֑ה|hā·‘ă·rā·ḇāh|the Arabah|H6160|Art | N-fs
 v8 וּבָ֣אוּ|ū·ḇā·’ū|When it empties|H935|Conj-w | V-Qal-ConjPerf-3cp
 v8 הַיָּ֔מָּה|hay·yām·māh|the [Dead] Sea|H3220|Art | N-ms | 3fs
 v8 אֶל־|’el-|into|H413|Prep
-v8 הַיָּ֥מָּה|hay·yām·māh|vvv|H3220|Art | N-ms | 3fs
+v8 הַיָּ֥מָּה|hay·yām·māh|...|H3220|Art | N-ms | 3fs
 v8 הַמּֽוּצָאִ֖ים|ham·mū·ṣā·’îm|...|H3318|Art | V-Hofal-Prtcpl-mp
 v8 וְנִרְפְּאוּ|wə·nir·pə·ʾū|becomes fresh|H7495|Conj-w | V-Nifal-ConjPerf-3cp
 v8 הַמָּֽיִם׃|ham·mā·yim|the water there|H4325|Art | N-mp
 v9 וְהָיָ֣ה|wə·hā·yāh|there will be|H1961|Conj-w | V-Qal-ConjPerf-3ms
-v9 כָל־|ḵāl|vvv|H3605|N-msc
+v9 כָל־|ḵāl|...|H3605|N-msc
 v9 נֶ֣פֶשׁ|ne·p̄eš|of living|H5315|N-fs
 v9 חַיָּ֣ה׀|ḥay·yāh|creatures|H2416|Adj-fs
-v9 אֲ|’ăšer-|vvv|H834|Pro-r
+v9 אֲ|’ăšer-|...|H834|Pro-r
 v9 יִשְׁרֹ֡ץ|yiš·rōṣ|swarms|H8317|V-Qal-Imperf-3ms
 v9 אֶ֣ל|’el|Wherever|H413|Prep
 v9 כָּל־|kāl-|...|H3605|N-msc
@@ -145,14 +145,14 @@ v9 אֲשֶׁר־|’ă·šer-|so wherever|H834|Pro-r
 v9 יָ֥בוֹא|yā·ḇō·w|flows|H935|V-Qal-Imperf-3ms
 v9 שָׁ֖מָּה|šām·māh|-|H8033|Adv | 3fs
 v9 הַנָּֽחַל׃|han·nā·ḥal|the river|H5158|Art | N-ms
-v10 וְהָיָה֩|wə·hā·yāh||H1961|Conj-w | V-Qal-ConjPerf-3ms
+v10 וְהָיָה֩|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v10 יַעַמְדוּ|ya·ʿam·ḏū|will stand|H5975|V-Qal-Perf-3cp
 v10 עָלָ֜יו|‘ā·lāw|by the shore|H5921|Prep | 3ms
 v10 דַּוָּגִ֗ים|daw·wā·ḡîm|Fishermen|H1728|N-mp
-v10 מֵעֵ֥ין|mê·‘ên||H5872|Prep
+v10 מֵעֵ֥ין|mê·‘ên|-|H5872|Prep
 v10 גֶּ֙דִי֙|ge·ḏî|from En-gedi|H5872|Prep | N-proper-fs
 v10 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
-v10 עֵ֣ין|‘ên|vvv|H5882|
+v10 עֵ֣ין|‘ên|...|H5882|
 v10 עֶגְלַ֔יִם|‘eḡ·la·yim|En-eglaim|H5882|N-proper-fs
 v10 מִשְׁט֥וֹחַ|miš·ṭō·w·aḥ|spread|H4894|N-ms
 v10 לַֽחֲרָמִ֖ים|la·ḥă·rā·mîm|their nets|H2764|Prep-l, Art | N-mp
@@ -199,7 +199,7 @@ v12 וְהָיוּ|wə·hå̄·yū|will be used|H1961|Conj-w | V-Qal-ConjPerf-3m
 v12 פִרְיוֹ֙|p̄ir·yōw|Their fruit|H6529|N-msc | 3ms
 v12 לְמַֽאֲכָ֔ל|lə·ma·’ă·ḵāl|for food|H3978|Prep-l | N-ms
 v12 וְעָלֵ֖הוּ|wə·‘ā·lê·hū|and their leaves|H5929|Conj-w | N-msc | 3ms
-v12 לִתְרוּפָֽה׃ס|liṯ·rū·p̄āh|for healing|H8644|Prep-l | N-fs
+v12 לִתְרוּפָֽה׃|liṯ·rū·p̄āh|for healing|H8644|Prep-l | N-fs
 v13 כֹּ֤ה|kōh|This is what|H3541|Adv
 v13 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v13 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -253,7 +253,7 @@ v16 דַּמֶּ֔שֶׂק|dam·me·śeq|Damascus|H1834|N-proper-fs
 v16 וּבֵ֖ין|ū·ḇên|...|H996|Conj-w | Prep
 v16 גְּב֣וּל|gə·ḇūl|[and]|H1366|N-msc
 v16 חֲמָ֑ת|ḥă·māṯ|Hamath|H2574|N-proper-fs
-v16 חָצֵר֙|ḥā·ṣêr|vvv|H2694|
+v16 חָצֵר֙|ḥā·ṣêr|...|H2694|
 v16 הַתִּיכ֔וֹן|hat·tî·ḵō·wn|as far as Hazer-hatticon|H2694|N-proper-fs
 v16 אֲשֶׁ֖ר|’ă·šer|which|H834|Pro-r
 v16 אֶל־|’el-|is on|H413|Prep
@@ -263,7 +263,7 @@ v17 וְהָיָ֨ה|wə·hā·yāh|will run|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v17 גְב֜וּל|ḡə·ḇūl|So the border|H1366|N-ms
 v17 מִן־|min-|from|H4480|Prep
 v17 הַיָּ֗ם|hay·yām|the Sea|H3220|Art | N-ms
-v17 חֲצַ֤ר|ḥă·ṣar|vvv|H2703|
+v17 חֲצַ֤ר|ḥă·ṣar|...|H2703|
 v17 עֵינוֹן֙|‘ê·nō·wn|to Hazar-enan|H2703|N-proper-fs
 v17 גְּב֣וּל|gə·ḇūl|border|H1366|N-msc
 v17 דַּמֶּ֔שֶׂק|dam·me·śeq|of Damascus|H1834|N-proper-fs
@@ -308,7 +308,7 @@ v19 הַיָּ֣ם|hay·yām|Sea|H3220|Art | N-ms
 v19 הַגָּד֑וֹל|hag·gā·ḏō·wl|the Great|H1419|Art | Adj-ms
 v19 וְאֵ֥ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v19 פְּאַת־|pə·’aṯ-|boundary|H6285|N-fsc
-v19 תֵּימָ֖נָה|tê·mā·nāh|vvv|H8486|N-fs | 3fs
+v19 תֵּימָ֖נָה|tê·mā·nāh|...|H8486|N-fs | 3fs
 v19 נֶֽגְבָּה׃|neḡ·bāh|This will be the southern|H5045|N-ms | 3fs
 v20 וּפְאַת־|ū·p̄ə·’aṯ-|side|H6285|Conj-w | N-fsc
 v20 יָם֙|yām|And on the west|H3220|N-ms
@@ -329,7 +329,7 @@ v21 הַזֹּ֛את|haz·zōṯ|this|H2063|Art | Pro-fs
 v21 לָכֶ֖ם|lā·ḵem|among yourselves|H0|Prep | 2mp
 v21 לְשִׁבְטֵ֥י|lə·šiḇ·ṭê|according to the tribes|H7626|Prep-l | N-mpc
 v21 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v22 וְהָיָ֗ה|wə·hā·yāh|vvv|H1961|Conj-w | V-Qal-ConjPerf-3ms
+v22 וְהָיָ֗ה|wə·hā·yāh|...|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v22 תַּפִּ֣לוּ|tap·pi·lū|You shall allot|H5307|V-Hifil-Imperf-2mp
 v22 אוֹתָהּ֮|’ō·w·ṯāh|it|H853|DirObjM | 3fs
 v22 בְּנַחֲלָה֒|bə·na·ḥă·lāh|as an inheritance|H5159|Prep-b | N-fs
@@ -363,4 +363,4 @@ v23 תִּתְּנ֣וּ|tit·tə·nū|you are to assign|H5414|V-Qal-Imperf-2mp
 v23 נַחֲלָת֔וֹ|na·ḥă·lā·ṯōw|his inheritance|H5159|N-fsc | 3ms
 v23 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v23 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v23 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v23 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

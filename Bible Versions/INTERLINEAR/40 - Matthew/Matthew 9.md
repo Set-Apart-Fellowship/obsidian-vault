@@ -99,17 +99,17 @@ v6 τὴν|tēn|-|G3588|Art-AFS
 v6 κλίνην|klinēn|mat|G2825|N-AFS
 v6 καὶ|kai|and|G2532|Conj
 v6 ὕπαγε|hypage|go|G5217|V-PMA-2S
-v6 εἰς|eis|vvv|G1519|Prep
-v6 τὸν|ton|vvv|G3588|Art-AMS
+v6 εἰς|eis|...|G1519|Prep
+v6 τὸν|ton|...|G3588|Art-AMS
 v6 οἶκόν|oikon|home|G3624|N-AMS
-v6 σου|sou|vvv|G4771|PPro-G2S
+v6 σου|sou|...|G4771|PPro-G2S
 v7 καὶ|kai|And|G2532|Conj
 v7 ἐγερθεὶς|egertheis|[the man] got up|G1453|V-APP-NMS
 v7 ἀπῆλθεν|apēlthen|and went|G565|V-AIA-3S
-v7 εἰς|eis|vvv|G1519|Prep
-v7 τὸν|ton|vvv|G3588|Art-AMS
+v7 εἰς|eis|...|G1519|Prep
+v7 τὸν|ton|...|G3588|Art-AMS
 v7 οἶκον|oikon|home|G3624|N-AMS
-v7 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v7 αὐτοῦ|autou|...|G846|PPro-GM3S
 v8 Ἰδόντες|Idontes|saw this|G3708|V-APA-NMP
 v8 δὲ|de|When|G1161|Conj
 v8 οἱ|hoi|the|G3588|Art-NMP
@@ -200,7 +200,7 @@ v12 ἰατροῦ|iatrou|a doctor|G2395|N-GMS
 v12 ἀλλ’|all’|but|G235|Conj
 v12 οἱ|hoi|the|G3588|Art-NMP
 v12 κακῶς|kakōs|sick|G2560|Adv
-v12 ἔχοντες|echontes|vvv|G2192|V-PPA-NMP
+v12 ἔχοντες|echontes|...|G2192|V-PPA-NMP
 v13 πορευθέντες|poreuthentes|go|G4198|V-APP-NMP
 v13 δὲ|de|But|G1161|Conj
 v13 μάθετε|mathete|[and] learn|G3129|V-AMA-2P
@@ -251,7 +251,7 @@ v15 υἱοὶ|huioi|guests|G5207|N-NMP
 v15 τοῦ|tou|of the|G3588|Art-GMS
 v15 νυμφῶνος|nymphōnos|bridegroom|G3567|N-GMS
 v15 πενθεῖν|penthein|mourn|G3996|V-PNA
-v15 ἐφ’|eph’|vvv|G1909|Prep
+v15 ἐφ’|eph’|...|G1909|Prep
 v15 ὅσον|hoson|while|G3745|RelPro-AMS
 v15 μετ’|met’|with|G3326|Prep
 v15 αὐτῶν|autōn|them|G846|PPro-GM3P
@@ -337,7 +337,7 @@ v18 ὅτι|hoti|-|G3754|Conj
 v18 Ἡ|Hē|-|G3588|Art-NFS
 v18 θυγάτηρ|thygatēr|daughter|G2364|N-NFS
 v18 μου|mou|My|G1473|PPro-G1S
-v18 ἄρτι|arti|vvv|G737|Adv
+v18 ἄρτι|arti|...|G737|Adv
 v18 ἐτελεύτησεν|eteleutēsen|has just died|G5053|V-AIA-3S
 v18 ἀλλὰ|alla|But|G235|Conj
 v18 ἐλθὼν|elthōn|come|G2064|V-APA-NMS

@@ -97,7 +97,7 @@ v10 יְעַוֵּ֑ל|yə·‘aw·wêl|he acts unjustly|H5765|V-Piel-Imperf-3ms
 v10 וּבַל־|ū·ḇal-|and fails|H1077|Conj-w | Adv
 v10 יִרְאֶ֖ה|yir·’eh|to see|H7200|V-Qal-Imperf-3ms
 v10 גֵּא֥וּת|gê·’ūṯ|the majesty|H1348|N-fsc
-v10 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v10 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v11 יְהוָ֛ה|Yah·weh|O LORD|H3068|N-proper-ms
 v11 רָ֥מָה|rā·māh|is upraised|H7311|V-Qal-Perf-3fs
 v11 יָדְךָ֖|yā·ḏə·ḵā|Your hand|H3027|N-fsc | 2ms
@@ -110,7 +110,7 @@ v11 עָ֔ם|‘ām|for Your people|H5971|N-ms
 v11 אַף־|’ap̄-|...|H637|Conj
 v11 אֵ֖שׁ|’êš|The fire [set]|H784|N-csc
 v11 צָרֶ֥יךָ|ṣā·re·ḵā|for Your enemies|H6862|N-mpc | 2ms
-v11 תֹאכְלֵֽם׃ס|ṯō·ḵə·lêm|will consume them|H398|V-Qal-Imperf-3fs | 3mp
+v11 תֹאכְלֵֽם׃|ṯō·ḵə·lêm|will consume them|H398|V-Qal-Imperf-3fs | 3mp
 v12 יְהוָ֕ה|Yah·weh|O LORD|H3068|N-proper-ms
 v12 תִּשְׁפֹּ֥ת|tiš·pōṯ|You will establish|H8239|V-Qal-Imperf-2ms
 v12 שָׁל֖וֹם|šā·lō·wm|peace|H7965|N-ms
@@ -127,7 +127,7 @@ v13 בְּעָל֥וּנוּ|bə·‘ā·lū·nū|have ruled over us|H1166|V-Qal
 v13 אֲדֹנִ֖ים|’ă·ḏō·nîm|[other] lords|H113|N-mp
 v13 זֽוּלָתֶ֑ךָ|zū·lā·ṯe·ḵā|besides You|H2108|Prep | 2ms
 v13 לְבַד־|lə·ḇaḏ-|alone|H905|Prep-l | N-ms
-v13 בְּךָ֖|bə·ḵā||H0|Prep | 2ms
+v13 בְּךָ֖|bə·ḵā|-|H0|Prep | 2ms
 v13 נַזְכִּ֥יר|naz·kîr|do we confess|H2142|V-Hifil-Imperf-1cp
 v13 שְׁמֶֽךָ׃|šə·me·ḵā|but Your name|H8034|N-msc | 2ms
 v14 מֵתִים֙|mê·ṯîm|The dead|H4191|V-Qal-Prtcpl-mp
@@ -159,7 +159,7 @@ v16 פְּקָד֑וּךָ|pə·qā·ḏū·ḵā|they sought You|H6485|V-Qal-Pe
 v16 צָק֣וּן|ṣā·qūn|they poured out|H6694|V-Qal-Perf-3cp | Pn
 v16 לַ֔חַשׁ|la·ḥaš|a quiet prayer|H3908|N-ms
 v16 מוּסָרְךָ֖|mū·sā·rə·ḵā|when You disciplined them|H4148|N-msc | 2ms
-v16 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v16 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v17 כְּמ֤וֹ|kə·mōw|As|H3644|Prep
 v17 הָרָה֙|hā·rāh|a woman with child|H2030|Adj-fs
 v17 תַּקְרִ֣יב|taq·rîḇ|about|H7126|V-Hifil-Imperf-3fs
@@ -198,7 +198,7 @@ v19 אוֹרֹת֙|’ō·w·rōṯ|of the morning|H219|N-fp
 v19 טַלֶּ֔ךָ|ṭal·le·ḵā|is like the dew|H2919|N-msc | 2ms
 v19 וָאָ֖רֶץ|wā·’ā·reṣ|and the earth|H776|Conj-w | N-fs
 v19 רְפָאִ֥ים|rə·p̄ā·’îm|her dead|H7496|N-mp
-v19 תַּפִּֽיל׃ס|tap·pîl|will bring forth|H5307|V-Hifil-Imperf-3fs
+v19 תַּפִּֽיל׃|tap·pîl|will bring forth|H5307|V-Hifil-Imperf-3fs
 v20 לֵ֤ךְ|lêḵ|Go|H1980|V-Qal-Imp-ms
 v20 עַמִּי֙|‘am·mî|my people|H5971|N-msc | 1cs
 v20 בֹּ֣א|bō|enter|H935|V-Qal-Imp-ms
@@ -230,4 +230,4 @@ v21 וְלֹֽא־|wə·lō-|and will no|H3808|Conj-w | Adv-NegPrt
 v21 תְכַסֶּ֥ה|ṯə·ḵas·seh|conceal|H3680|V-Piel-Imperf-3fs
 v21 ע֖וֹד|‘ō·wḏ|longer|H5750|Adv
 v21 עַל־|‘al-|...|H5921|Prep
-v21 הֲרוּגֶֽיהָ׃ס|hă·rū·ḡe·hā|her slain|H2026|V-Qal-QalPassPrtcpl-mpc | 3fs
+v21 הֲרוּגֶֽיהָ׃|hă·rū·ḡe·hā|her slain|H2026|V-Qal-QalPassPrtcpl-mpc | 3fs

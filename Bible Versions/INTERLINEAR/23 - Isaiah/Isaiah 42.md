@@ -1,7 +1,7 @@
 v1 הֵ֤ן|hên|Here is|H2005|Interjection
 v1 עַבְדִּי֙|‘aḇ·dî|My Servant|H5650|N-msc | 1cs
 v1 אֶתְמָךְ־|’eṯ·māḵ-|whom I uphold|H8551|V-Qal-Imperf-1cs
-v1 בּ֔וֹ|bōw||H0|Prep | 3ms
+v1 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v1 בְּחִירִ֖י|bə·ḥî·rî|My Chosen One|H972|Adj-msc | 1cs
 v1 רָצְתָ֣ה|rā·ṣə·ṯāh|delights|H7521|V-Qal-Perf-3fs
 v1 נַפְשִׁ֑י|nap̄·šî|[in whom] My soul|H5315|N-fsc | 1cs
@@ -40,7 +40,7 @@ v4 בָּאָ֖רֶץ|bā·’ā·reṣ|on the earth|H776|Prep-b, Art | N-fs
 v4 מִשְׁפָּ֑ט|miš·pāṭ|justice|H4941|N-ms
 v4 וּלְתוֹרָת֖וֹ|ū·lə·ṯō·w·rā·ṯōw|In His law|H8451|Conj-w, Prep-l | N-fsc | 3ms
 v4 אִיִּ֥ים|’î·yîm|the islands|H339|N-mp
-v4 יְיַחֵֽילוּ׃פ|yə·ya·ḥê·lū|will put their hope|H3176|V-Piel-Imperf-3mp
+v4 יְיַחֵֽילוּ׃|yə·ya·ḥê·lū|will put their hope|H3176|V-Piel-Imperf-3mp
 v5 כֹּֽה־|kōh-|This is what|H3541|Adv
 v5 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v5 הָאֵ֣ל׀|hā·’êl|God|H410|Art | N-ms
@@ -99,7 +99,7 @@ v9 מַגִּ֔יד|mag·gîḏ|declare|H5046|V-Hifil-Prtcpl-ms
 v9 בְּטֶ֥רֶם|bə·ṭe·rem|Before|H2962|Prep-b | Adv
 v9 תִּצְמַ֖חְנָה|tiṣ·maḥ·nāh|they spring forth|H6779|V-Qal-Imperf-3fp
 v9 אַשְׁמִ֥יע|ʾaš·mīʿ|I proclaim them|H8085|V-Hifil-Imperf-1cs
-v9 אֶתְכֶֽם׃פ|’eṯ·ḵem|to you|H853|DirObjM | 2mp
+v9 אֶתְכֶֽם׃|’eṯ·ḵem|to you|H853|DirObjM | 2mp
 v10 שִׁ֤ירוּ|šî·rū|Sing|H7891|V-Qal-Imp-mp
 v10 לַֽיהוָה֙|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v10 שִׁ֣יר|šîr|song|H7892|N-ms
@@ -116,7 +116,7 @@ v11 יִשְׂא֤וּ|yiś·’ū|raise their voices|H5375|V-Qal-Imperf-3mp
 v11 מִדְבָּר֙|miḏ·bār|Let the desert|H4057|N-ms
 v11 וְעָרָ֔יו|wə·‘ā·rāw|and its cities|H5892|Conj-w | N-fpc | 3ms
 v11 חֲצֵרִ֖ים|ḥă·ṣê·rîm|[let] the villages|H2691|N-cp
-v11 תֵּשֵׁ֣ב|tê·šêḇ||H3427|V-Qal-Imperf-3fs
+v11 תֵּשֵׁ֣ב|tê·šêḇ|-|H3427|V-Qal-Imperf-3fs
 v11 קֵדָ֑ר|qê·ḏār|of Kedar [cry aloud]|H6938|N-proper-fs
 v11 יָרֹ֙נּוּ֙|yā·rōn·nū|sing for joy|H7442|V-Qal-Imperf-3mp
 v11 יֹ֣שְׁבֵי|yō·šə·ḇê|Let the people|H3427|V-Qal-Prtcpl-mpc
@@ -142,7 +142,7 @@ v13 אַף־|’ap̄-|yes|H637|Conj
 v13 יַצְרִ֔יחַ|yaṣ·rî·aḥ|He roars|H6873|V-Hifil-Imperf-3ms
 v13 עַל־|‘al-|over|H5921|Prep
 v13 אֹיְבָ֖יו|’ō·yə·ḇāw|His enemies|H341|V-Qal-Prtcpl-mpc | 3ms
-v13 יִתְגַּבָּֽר׃ס|yiṯ·gab·bār|in triumph|H1396|V-Hitpael-Imperf-3ms
+v13 יִתְגַּבָּֽר׃|yiṯ·gab·bār|in triumph|H1396|V-Hitpael-Imperf-3ms
 v14 הֶחֱשֵׁ֙יתִי֙|he·ḥĕ·šê·ṯî|I have kept silent|H2814|V-Hifil-Perf-1cs
 v14 מֵֽעוֹלָ֔ם|mê·‘ō·w·lām|from ages past|H5769|Prep-m | N-ms
 v14 אַחֲרִ֖ישׁ|’a·ḥă·rîš|I have remained quiet|H2790|V-Hifil-Imperf-1cs
@@ -192,7 +192,7 @@ v17 בַּפָּ֑סֶל|bap·pā·sel|in idols|H6459|Prep-b, Art | N-ms
 v17 הָאֹמְרִ֥ים|hā·’ō·mə·rîm|and say|H559|Art | V-Qal-Prtcpl-mp
 v17 לְמַסֵּכָ֖ה|lə·mas·sê·ḵāh|to molten images|H4541|Prep-l | N-fs
 v17 אַתֶּ֥ם|’at·tem|You|H859|Pro-2mp
-v17 אֱלֹהֵֽינוּ׃ס|’ĕ·lō·hê·nū|are our gods|H430|N-mpc | 1cp
+v17 אֱלֹהֵֽינוּ׃|’ĕ·lō·hê·nū|are our gods|H430|N-mpc | 1cp
 v18 הַחֵרְשִׁ֖ים|ha·ḥê·rə·šîm|you deaf [ones]|H2795|Art | Adj-mp
 v18 שְׁמָ֑עוּ|šə·mā·‘ū|Listen|H8085|V-Qal-Imp-mp
 v18 וְהַעִוְרִ֖ים|wə·ha·‘iw·rîm|you blind [ones]|H5787|Conj-w, Art | Adj-mp
@@ -262,8 +262,8 @@ v24 הֲל֣וֹא|hă·lō·w|Was it not|H3808|Adv-NegPrt
 v24 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v24 ז֚וּ|zū|against whom|H2098|Pro-r
 v24 חָטָ֣אנוּ|ḥā·ṭā·nū|we have sinned|H2398|V-Qal-Perf-1cp
-v24 ל֔וֹ|lōw||H0|Prep | 3ms
-v24 וְלֹֽא־|wə·lō-|vvv|H3808|Conj-w | Adv-NegPrt
+v24 ל֔וֹ|lōw|-|H0|Prep | 3ms
+v24 וְלֹֽא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v24 אָב֤וּ|’ā·ḇū|They were unwilling|H14|V-Qal-Perf-3cp
 v24 בִדְרָכָיו֙|ḇiḏ·rā·ḵāw|in His ways|H1870|Prep-b | N-cpc | 3ms
 v24 הָל֔וֹךְ|hā·lō·wḵ|to walk|H1980|V-Qal-InfAbs
@@ -281,8 +281,8 @@ v25 מִסָּבִיב֙|mis·sā·ḇîḇ|It enveloped them|H5439|Prep-m | Adv
 v25 וְלֹ֣א|wə·lō|but they did not|H3808|Conj-w | Adv-NegPrt
 v25 יָדָ֔ע|yā·ḏā‘|understand|H3045|V-Qal-Perf-3ms
 v25 וַתִּבְעַר־|wat·tiḇ·‘ar-|it consumed them|H1197|Conj-w | V-Qal-ConsecImperf-3fs
-v25 בּ֖וֹ|bōw||H0|Prep | 3ms
+v25 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v25 וְלֹא־|wə·lō-|but they did not|H3808|Conj-w | Adv-NegPrt
 v25 יָשִׂ֥ים|yā·śîm|take|H7760|V-Qal-Imperf-3ms
 v25 עַל־|‘al-|it to|H5921|Prep
-v25 לֵֽב׃פ|lêḇ|heart|H3820|N-ms
+v25 לֵֽב׃|lêḇ|heart|H3820|N-ms

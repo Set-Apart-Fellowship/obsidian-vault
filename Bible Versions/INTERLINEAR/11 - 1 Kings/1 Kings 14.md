@@ -12,7 +12,7 @@ v2 נָא֙|nā|Now|H4994|Interjection
 v2 וְהִשְׁתַּנִּ֔ית|wə·hiš·tan·nîṯ|disguise yourself|H8138|Conj-w | V-Hitpael-ConjPerf-2fs
 v2 וְלֹ֣א|wə·lō|so they will not|H3808|Conj-w | Adv-NegPrt
 v2 יֵֽדְע֔וּ|yê·ḏə·‘ū|recognize|H3045|V-Qal-Imperf-3mp
-v2 כִּי־|kî-||H3588|Conj
+v2 כִּי־|kî-|-|H3588|Conj
 v2 אַתִּי|ʾat·tī|you|H859|Pro-2fs
 v2 אֵ֣שֶׁת|’ê·šeṯ|as [my] wife|H802|N-fsc
 v2 יָרָבְעָ֑ם|yā·rā·ḇə·‘ām|...|H3379|N-proper-ms
@@ -61,7 +61,7 @@ v4 לִרְא֔וֹת|lir·’ō·wṯ|see|H7200|Prep-l | V-Qal-Inf
 v4 כִּ֛י|kî|for|H3588|Conj
 v4 קָ֥מוּ|qā·mū|were dim|H6965|V-Qal-Perf-3cp
 v4 עֵינָ֖יו|‘ê·nāw|his eyes|H5869|N-cdc | 3ms
-v4 מִשֵּׂיבֽוֹ׃ס|miś·śê·ḇōw|because of his age|H7869|Prep-m | N-msc | 3ms
+v4 מִשֵּׂיבֽוֹ׃|miś·śê·ḇōw|because of his age|H7869|Prep-m | N-msc | 3ms
 v5 וַיהוָ֞ה|Yah·weh|But the LORD|H3068|Conj-w | N-proper-ms
 v5 אָמַ֣ר|’ā·mar|had said|H559|V-Qal-Perf-3ms
 v5 אֶל־|’el-|to|H413|Prep
@@ -163,7 +163,7 @@ v9 לְהַכְעִיסֵ֔נִי|lə·haḵ·‘î·sê·nî|to provoke|H3707|P
 v9 וְאֹתִ֥י|wə·’ō·ṯî|Me|H853|Conj-w | DirObjM | 1cs
 v9 הִשְׁלַ֖כְתָּ|hiš·laḵ·tā|and you have flung Me|H7993|V-Hifil-Perf-2ms
 v9 אַחֲרֵ֥י|’a·ḥă·rê|behind|H310|Prep
-v9 גַוֶּֽךָ׃ס|ḡaw·we·ḵā|your back|H1458|N-msc | 2ms
+v9 גַוֶּֽךָ׃|ḡaw·we·ḵā|your back|H1458|N-msc | 2ms
 v10 לָכֵ֗ן|lā·ḵên|Because of all this|H3651|Adv
 v10 הִנְנִ֨י|hin·nî|behold|H2005|Interjection | 1cs
 v10 מֵבִ֤יא|mê·ḇî|I am bringing|H935|V-Hifil-Prtcpl-ms
@@ -344,7 +344,7 @@ v20 אֲבֹתָ֔יו|’ă·ḇō·ṯāw|his fathers|H1|N-mpc | 3ms
 v20 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v20 נָדָ֥ב|nā·ḏāḇ|Nadab|H5070|N-proper-ms
 v20 בְּנ֖וֹ|bə·nōw|and his son|H1121|N-msc | 3ms
-v20 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v20 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v21 וּרְחַבְעָם֙|ū·rə·ḥaḇ·‘ām|Meanwhile, Rehoboam|H7346|Conj-w | N-proper-ms
 v21 בֶּן־|ben-|son|H1121|N-msc
 v21 שְׁלֹמֹ֔ה|šə·lō·mōh|of Solomon|H8010|N-proper-ms
@@ -418,13 +418,13 @@ v24 הוֹרִ֣ישׁ|hō·w·rîš|had driven out|H3423|V-Hifil-Perf-3ms
 v24 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v24 מִפְּנֵ֖י|mip·pə·nê|before|H6440|Prep-m | N-cpc
 v24 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
-v24 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|...|H3478|N-proper-ms
+v24 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v25 וַיְהִ֛י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v25 בַּשָּׁנָ֥ה|baš·šā·nāh|year|H8141|Prep-b, Art | N-fs
 v25 הַחֲמִישִׁ֖ית|ha·ḥă·mî·šîṯ|In the fifth|H2549|Art | Number-ofs
 v25 לַמֶּ֣לֶךְ|lam·me·leḵ|reign|H4428|Prep-l, Art | N-ms
 v25 רְחַבְעָ֑ם|rə·ḥaḇ·‘ām|of Rehoboam's|H7346|N-proper-ms
-v25 עָלָ֛ה|‘ā·lāh|vvv|H5927|V-Qal-Perf-3ms
+v25 עָלָ֛ה|‘ā·lāh|...|H5927|V-Qal-Perf-3ms
 v25 שׁוּשַׁק|šū·šaq|Shishak|H7895|N-proper-ms
 v25 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v25 מִצְרַ֖יִם|miṣ·ra·yim|of Egypt|H4714|N-proper-fs
@@ -516,4 +516,4 @@ v31 הָעַמֹּנִ֑ית|hā·‘am·mō·nîṯ|the Ammonite|H5984|Art | N-
 v31 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v31 אֲבִיָּ֥ם|’ă·ḇî·yām|Abijam|H38|N-proper-ms
 v31 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v31 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v31 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

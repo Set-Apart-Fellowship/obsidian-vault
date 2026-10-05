@@ -28,7 +28,7 @@ v2 προσελθόντες|proselthontes|came|G4334|V-APA-NMP
 v2 Φαρισαῖοι|Pharisaioi|[Some] Pharisees|G5330|N-NMP
 v2 ἐπηρώτων|epērōtōn|they inquired|G1905|V-IIA-3P
 v2 αὐτὸν|auton|...|G846|PPro-AM3S
-v2 εἰ|ei|vvv|G1487|Conj
+v2 εἰ|ei|...|G1487|Conj
 v2 ἔξεστιν|exestin|Is it lawful|G1832|V-PIA-3S
 v2 ἀνδρὶ|andri|for a man|G435|N-DMS
 v2 γυναῖκα|gynaika|his wife|G1135|N-AFS
@@ -193,7 +193,7 @@ v15 λέγω|legō|I tell|G3004|V-PIA-1S
 v15 ὑμῖν|hymin|you|G4771|PPro-D2P
 v15 ὃς|hos|anyone who|G3739|RelPro-NMS
 v15 ἂν|an|...|G302|Prtcl
-v15 μὴ|mē|vvv|G3361|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 δέξηται|dexētai|does not receive|G1209|V-ASM-3S
 v15 τὴν|tēn|the|G3588|Art-AFS
 v15 βασιλείαν|basileian|kingdom|G932|N-AFS
@@ -201,8 +201,8 @@ v15 τοῦ|tou|-|G3588|Art-GMS
 v15 Θεοῦ|Theou|of God|G2316|N-GMS
 v15 ὡς|hōs|like|G5613|Adv
 v15 παιδίον|paidion|a little child|G3813|N-NNS
-v15 οὐ|ou|vvv|G3756|Adv
-v15 μὴ|mē|vvv|G3361|Adv
+v15 οὐ|ou|...|G3756|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 εἰσέλθῃ|eiselthē|will never enter|G1525|V-ASA-3S
 v15 εἰς|eis|...|G1519|Prep
 v15 αὐτήν|autēn|it|G846|PPro-AF3S
@@ -336,9 +336,9 @@ v23 αὐτοῦ|autou|His|G846|PPro-GM3S
 v23 Πῶς|Pōs|How|G4459|Adv
 v23 δυσκόλως|dyskolōs|hard {it is}|G1423|Adv
 v23 οἱ|hoi|for the|G3588|Art-NMP
-v23 τὰ|ta|vvv|G3588|Art-ANP
+v23 τὰ|ta|...|G3588|Art-ANP
 v23 χρήματα|chrēmata|rich|G5536|N-ANP
-v23 ἔχοντες|echontes|vvv|G2192|V-PPA-NMP
+v23 ἔχοντες|echontes|...|G2192|V-PPA-NMP
 v23 εἰς|eis|...|G1519|Prep
 v23 τὴν|tēn|the|G3588|Art-AFS
 v23 βασιλείαν|basileian|kingdom|G932|N-AFS
@@ -357,7 +357,7 @@ v24 ὁ|ho|-|G3588|Art-NMS
 v24 δὲ|de|But|G1161|Conj
 v24 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v24 πάλιν|palin|again|G3825|Adv
-v24 ἀποκριθεὶς|apokritheis|vvv|G611|V-APP-NMS
+v24 ἀποκριθεὶς|apokritheis|...|G611|V-APP-NMS
 v24 λέγει|legei|said|G3004|V-PIA-3S
 v24 αὐτοῖς|autois|to them|G846|PPro-DM3P
 v24 Τέκνα|Tekna|Children|G5043|N-VNP
@@ -389,7 +389,7 @@ v25 Θεοῦ|Theou|of God|G2316|N-GMS
 v25 εἰσελθεῖν|eiselthein|to enter|G1525|V-ANA
 v26 Οἱ|Hoi|-|G3588|Art-NMP
 v26 δὲ|de|-|G1161|Conj
-v26 περισσῶς|perissōs|vvv|G4057|Adv
+v26 περισσῶς|perissōs|...|G4057|Adv
 v26 ἐξεπλήσσοντο|exeplēssonto|They were even more astonished|G1605|V-IIM/P-3P
 v26 λέγοντες|legontes|[and] said|G3004|V-PPA-NMP
 v26 πρὸς|pros|to|G4314|Prep
@@ -457,8 +457,8 @@ v29 καὶ|kai|and|G2532|Conj
 v29 ἕνεκεν|heneken|for|G1752|Prep
 v29 τοῦ|tou|the|G3588|Art-GNS
 v29 εὐαγγελίου|euangeliou|gospel|G2098|N-GNS
-v30 ἐὰν|ean|vvv|G1437|Conj
-v30 μὴ|mē|vvv|G3361|Adv
+v30 ἐὰν|ean|...|G1437|Conj
+v30 μὴ|mē|...|G3361|Adv
 v30 λάβῃ|labē|will fail to receive|G2983|V-ASA-3S
 v30 ἑκατονταπλασίονα|hekatontaplasiona|a hundredfold|G1542|Adj-ANP
 v30 νῦν|nyn|...|G3568|Adv
@@ -623,7 +623,7 @@ v38 δὲ|de|-|G1161|Conj
 v38 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v38 εἶπεν|eipen|replied|G2036|V-AIA-3S
 v38 αὐτοῖς|autois|-|G846|PPro-DM3P
-v38 Οὐκ|Ouk|vvv|G3756|Adv
+v38 Οὐκ|Ouk|...|G3756|Adv
 v38 οἴδατε|oidate|You do not know|G1492|V-RIA-2P
 v38 τί|ti|what|G5101|IPro-ANS
 v38 αἰτεῖσθε|aiteisthe|you are asking|G154|V-PIM-2P
@@ -637,8 +637,8 @@ v38 πίνω|pinō|will drink|G4095|V-PIA-1S
 v38 ἢ|ē|[or]|G2228|Conj
 v38 τὸ|to|the|G3588|Art-ANS
 v38 βάπτισμα|baptisma|baptism|G908|N-ANS
-v38 ὃ|ho|vvv|G3739|RelPro-ANS
-v38 ἐγὼ|egō|vvv|G1473|PPro-N1S
+v38 ὃ|ho|...|G3739|RelPro-ANS
+v38 ἐγὼ|egō|...|G1473|PPro-N1S
 v38 βαπτίζομαι|baptizomai|[I will undergo]|G907|V-PIM/P-1S
 v38 βαπτισθῆναι|baptisthēnai|be baptized [with]|G907|V-ANP
 v39 Οἱ|Hoi|-|G3588|Art-NMP
@@ -860,7 +860,7 @@ v51 τυφλὸς|typhlos|blind [man]|G5185|Adj-NMS
 v51 εἶπεν|eipen|said|G2036|V-AIA-3S
 v51 αὐτῷ|autō|-|G846|PPro-DM3S
 v51 Ραββουνι|Rabbouni|Rabboni|G4462|N-VMS
-v51 ἵνα|hina|vvv|G2443|Conj
+v51 ἵνα|hina|...|G2443|Conj
 v51 ἀναβλέψω|anablepsō|let me see again|G308|V-ASA-1S
 v52 Καὶ|Kai|-|G2532|Conj
 v52 ὁ|ho|-|G3588|Art-NMS

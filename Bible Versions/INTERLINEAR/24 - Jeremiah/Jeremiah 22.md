@@ -25,7 +25,7 @@ v2 וַעֲבָדֶ֙יךָ֙|wa·‘ă·ḇā·ḏe·ḵā|and your officials|
 v2 וְעַמְּךָ֔|wə·‘am·mə·ḵā|and your people|H5971|Conj-w | N-msc | 2ms
 v2 הַבָּאִ֖ים|hab·bā·’îm|who enter|H935|Art | V-Qal-Prtcpl-mp
 v2 בַּשְּׁעָרִ֥ים|baš·šə·‘ā·rîm|gates|H8179|Prep-b, Art | N-mp
-v2 הָאֵֽלֶּה׃ס|hā·’êl·leh|these|H428|Art | Pro-cp
+v2 הָאֵֽלֶּה׃|hā·’êl·leh|these|H428|Art | Pro-cp
 v3 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v3 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v3 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -41,7 +41,7 @@ v3 יָת֨וֹם|yā·ṯō·wm|the fatherless|H3490|N-ms
 v3 וְאַלְמָנָ֤ה|wə·’al·mā·nāh|or the widow|H490|Conj-w | N-fs
 v3 אַל־|’al-|Do no|H408|Adv
 v3 תֹּנוּ֙|tō·nū|wrong|H3238|V-Hifil-Imperf-2mp
-v3 אַל־|’al-||H408|Adv
+v3 אַל־|’al-|-|H408|Adv
 v3 תַּחְמֹ֔סוּ|taḥ·mō·sū|or violence|H2554|V-Qal-Imperf-2mp
 v3 וְדָ֣ם|wə·ḏām|blood|H1818|Conj-w | N-ms
 v3 נָקִ֔י|nā·qî|innocent|H5355|Adj-ms
@@ -85,7 +85,7 @@ v5 כִּי־|kî-|that|H3588|Conj
 v5 לְחָרְבָּ֥ה|lə·ḥā·rə·bāh|a pile of rubble|H2723|Prep-l | N-fs
 v5 יִֽהְיֶ֖ה|yih·yeh|will become|H1961|V-Qal-Imperf-3ms
 v5 הַבַּ֥יִת|hab·ba·yiṯ|house|H1004|Art | N-ms
-v5 הַזֶּֽה׃ס|haz·zeh|this|H2088|Art | Pro-ms
+v5 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v6 כִּֽי־|kî-|For|H3588|Conj
 v6 כֹ֣ה׀|ḵōh|this is what|H3541|Adv
 v6 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -146,13 +146,13 @@ v9 אֱלֹֽהֵיהֶ֑ם|’ĕ·lō·hê·hem|their God|H430|N-mpc | 3mp
 v9 וַיִּֽשְׁתַּחֲו֛וּ|way·yiš·ta·ḥă·wū|and have worshiped|H7812|Conj-w | V-Hitpael-ConsecImperf-3mp
 v9 לֵאלֹהִ֥ים|lê·lō·hîm|gods|H430|Prep-l | N-mp
 v9 אֲחֵרִ֖ים|’ă·ḥê·rîm|other|H312|Adj-mp
-v9 וַיַּעַבְדֽוּם׃ס|way·ya·‘aḇ·ḏūm|and served|H5647|Conj-w | V-Qal-ConsecImperf-3mp | 3mp
+v9 וַיַּעַבְדֽוּם׃|way·ya·‘aḇ·ḏūm|and served|H5647|Conj-w | V-Qal-ConsecImperf-3mp | 3mp
 v10 אַל־|’al-|Do not|H408|Adv
 v10 תִּבְכּ֣וּ|tiḇ·kū|weep|H1058|V-Qal-Imperf-2mp
 v10 לְמֵ֔ת|lə·mêṯ|for him who is dead|H4191|Prep-l | V-Qal-Prtcpl-ms
 v10 וְאַל־|wə·’al-|do not|H408|Conj-w | Adv
 v10 תָּנֻ֖דוּ|tā·nu·ḏū|mourn his loss|H5110|V-Qal-Imperf-2mp
-v10 ל֑וֹ|lōw||H0|Prep | 3ms
+v10 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v10 בְּכ֤וּ|bə·ḵū|Weep bitterly|H1058|V-Qal-Imp-mp
 v10 בָכוֹ֙|ḇā·ḵōw|...|H1058|V-Qal-InfAbs
 v10 לַֽהֹלֵ֔ךְ|la·hō·lêḵ|for him who is exiled|H1980|Prep-l, Art | V-Qal-Prtcpl-ms
@@ -163,7 +163,7 @@ v10 ע֔וֹד|‘ō·wḏ|-|H5750|Adv
 v10 וְרָאָ֖ה|wə·rā·’āh|to see|H7200|Conj-w | V-Qal-ConjPerf-3ms
 v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 אֶ֥רֶץ|’e·reṣ|land|H776|N-fsc
-v10 מוֹלַדְתּֽוֹ׃ס|mō·w·laḏ·tōw|his native|H4138|N-fsc | 3ms
+v10 מוֹלַדְתּֽוֹ׃|mō·w·laḏ·tōw|his native|H4138|N-fsc | 3ms
 v11 כִּ֣י|kî|For|H3588|Conj
 v11 כֹ֣ה|ḵōh|this is what|H3541|Adv
 v11 אָֽמַר־|’ā·mar-|says|H559|V-Qal-Perf-3ms
@@ -199,7 +199,7 @@ v12 הָאָ֥רֶץ|hā·’ā·reṣ|land|H776|Art | N-fs
 v12 הַזֹּ֖את|haz·zōṯ|this|H2063|Art | Pro-fs
 v12 לֹֽא־|lō-|he will never|H3808|Adv-NegPrt
 v12 יִרְאֶ֥ה|yir·’eh|see|H7200|V-Qal-Imperf-3ms
-v12 עֽוֹד׃ס|‘ō·wḏ|again|H5750|Adv
+v12 עֽוֹד׃|‘ō·wḏ|again|H5750|Adv
 v13 ה֣וֹי|hō·w|Woe|H1945|Interjection
 v13 בֹּנֶ֤ה|bō·neh|to him who builds|H1129|V-Qal-Prtcpl-ms
 v13 בֵיתוֹ֙|ḇê·ṯōw|his palace|H1004|N-msc | 3ms
@@ -272,7 +272,7 @@ v17 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v17 הָעֹ֥שֶׁק|hā·‘ō·šeq|extortion|H6233|Art | N-ms
 v17 וְעַל־|wə·‘al-|and|H5921|Conj-w | Prep
 v17 הַמְּרוּצָ֖ה|ham·mə·rū·ṣāh|oppression|H4835|Art | N-fs
-v17 לַעֲשֽׂוֹת׃ס|la·‘ă·śō·wṯ|on practicing|H6213|Prep-l | V-Qal-Inf
+v17 לַעֲשֽׂוֹת׃|la·‘ă·śō·wṯ|on practicing|H6213|Prep-l | V-Qal-Inf
 v18 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v18 כֹּֽה־|kōh-|this is what|H3541|Adv
 v18 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -297,14 +297,14 @@ v18 ה֥וֹי|hō·w|Alas|H1945|Interjection
 v18 אָד֖וֹן|’ā·ḏō·wn|my master|H113|N-ms
 v18 וְה֥וֹי|wə·hō·w|Alas|H1945|Conj-w | Interjection
 v18 הֹדֹֽה׃|hō·ḏōh|his splendor|H1935|N-msc | 3ms
-v19 קְבוּרַ֥ת|qə·ḇū·raṯ|vvv|H6900|N-fsc
+v19 קְבוּרַ֥ת|qə·ḇū·raṯ|...|H6900|N-fsc
 v19 חֲמ֖וֹר|ḥă·mō·wr|like a donkey|H2543|N-ms
 v19 יִקָּבֵ֑ר|yiq·qā·ḇêr|He will be buried|H6912|V-Nifal-Imperf-3ms
 v19 סָח֣וֹב|sā·ḥō·wḇ|dragged away|H5498|V-Qal-InfAbs
 v19 וְהַשְׁלֵ֔ךְ|wə·haš·lêḵ|and thrown|H7993|Conj-w | V-Hifil-InfAbs
 v19 מֵהָ֖לְאָה|mê·hā·lə·’āh|outside|H1973|Prep-m | Adv
 v19 לְשַׁעֲרֵ֥י|lə·ša·‘ă·rê|the gates|H8179|Prep-l | N-mpc
-v19 יְרוּשָׁלִָֽם׃ס|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
+v19 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v20 עֲלִ֤י|‘ă·lî|Go up|H5927|V-Qal-Imp-fs
 v20 הַלְּבָנוֹן֙|hal·lə·ḇā·nō·wn|to Lebanon|H3844|Art | N-proper-fs
 v20 וּֽצְעָ֔קִי|ū·ṣə·‘ā·qî|and cry out|H6817|Conj-w | V-Qal-Imp-fs
@@ -414,7 +414,7 @@ v27 לָשׁ֣וּב|lā·šūḇ|...|H7725|Prep-l | V-Qal-Inf
 v27 שָׁ֑ם|šām|...|H8033|Adv
 v27 שָׁ֖מָּה|šām·māh|...|H8033|Adv | 3fs
 v27 לֹ֥א|lō|[You] will never|H3808|Adv-NegPrt
-v27 יָשֽׁוּבוּ׃ס|yā·šū·ḇū|return|H7725|V-Qal-Imperf-3mp
+v27 יָשֽׁוּבוּ׃|yā·šū·ḇū|return|H7725|V-Qal-Imperf-3mp
 v28 הַעֶ֨צֶב|ha·‘e·ṣeḇ|pot|H6089|Art | N-ms
 v28 נִבְזֶ֜ה|niḇ·zeh|a despised|H959|V-Nifal-Prtcpl-ms
 v28 נָפ֗וּץ|nā·p̄ūṣ|[and] shattered|H5310|V-Qal-QalPassPrtcpl-ms
@@ -425,7 +425,7 @@ v28 אִ֨ם־|’im-|...|H518|Conj
 v28 כְּלִ֔י|kə·lî|a jar|H3627|N-ms
 v28 אֵ֥ין|’ên|that no|H369|Adv
 v28 חֵ֖פֶץ|ḥê·p̄eṣ|one wants|H2656|N-ms
-v28 בּ֑וֹ|bōw||H0|Prep | 3ms
+v28 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v28 מַדּ֤וּעַ|mad·dū·a‘|Why|H4069|Interrog
 v28 הֽוּטֲלוּ֙|hū·ṭă·lū|hurled out|H2904|V-Hofal-Perf-3cp
 v28 ה֣וּא|hū|are he|H1931|Pro-3ms
@@ -441,7 +441,7 @@ v29 אֶ֖רֶץ|’e·reṣ|land|H776|N-fs
 v29 אָ֑רֶץ|’ā·reṣ|land|H776|N-fs
 v29 שִׁמְעִ֖י|šim·‘î|hear|H8085|V-Qal-Imp-fs
 v29 דְּבַר־|də·ḇar-|the word|H1697|N-msc
-v29 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v29 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v30 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v30 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v30 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms

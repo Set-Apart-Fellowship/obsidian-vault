@@ -100,13 +100,13 @@ v5 לָ֔ךְ|lāḵ|for you|H0|Prep | 2fs
 v5 וְה֥וֹי|wə·hō·w|Alas|H1945|Conj-w | Interjection
 v5 אָד֖וֹן|’ā·ḏō·wn|O master|H113|N-ms
 v5 יִסְפְּדוּ־|yis·pə·ḏū-|and lament|H5594|V-Qal-Imperf-3mp
-v5 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v5 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v5 כִּֽי־|kî-|For|H3588|Conj
 v5 דָבָ֥ר|ḏā·ḇār|this word|H1697|N-ms
 v5 אֲנִֽי־|’ă·nî-|I Myself|H589|Pro-1cs
 v5 דִבַּ֖רְתִּי|ḏib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
 v5 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v5 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v5 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v6 וַיְדַבֵּר֙|way·ḏab·bêr|relayed|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v6 יִרְמְיָ֣הוּ|yir·mə·yā·hū|Jeremiah|H3414|N-proper-ms
 v6 הַנָּבִ֔יא|han·nā·ḇî|the prophet|H5030|Art | N-ms
@@ -126,7 +126,7 @@ v7 נִלְחָמִים֙|nil·ḥā·mîm|was fighting|H3898|V-Nifal-Prtcpl-mp
 v7 עַל־|‘al-|against|H5921|Prep
 v7 יְר֣וּשָׁלִַ֔ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v7 וְעַ֛ל|wə·‘al|...|H5921|Conj-w | Prep
-v7 כָּל־|kāl-|vvv|H3605|N-msc
+v7 כָּל־|kāl-|...|H3605|N-msc
 v7 עָרֵ֥י|‘ā·rê|cities|H5892|N-fpc
 v7 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v7 הַנּֽוֹתָר֑וֹת|han·nō·w·ṯā·rō·wṯ|and the remaining|H3498|Art | V-Nifal-Prtcpl-fp
@@ -140,7 +140,7 @@ v7 נִשְׁאֲר֛וּ|niš·’ă·rū|remaining|H7604|V-Nifal-Perf-3cp
 v7 בְּעָרֵ֥י|bə·‘ā·rê|cities|H5892|Prep-b | N-fpc
 v7 יְהוּדָ֖ה|yə·hū·ḏāh|in Judah|H3063|N-proper-ms
 v7 עָרֵ֥י|‘ā·rê|-|H5892|N-fpc
-v7 מִבְצָֽר׃פ|miḇ·ṣār|fortified|H4013|N-ms
+v7 מִבְצָֽר׃|miḇ·ṣār|fortified|H4013|N-ms
 v8 הַדָּבָ֛ר|had·dā·ḇār|the word|H1697|Art | N-ms
 v8 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v8 הָיָ֥ה|hā·yāh|came|H1961|V-Qal-Perf-3ms
@@ -173,7 +173,7 @@ v9 וְהָעִבְרִיָּ֖ה|wə·hā·‘iḇ·rî·yāh|[both male] and f
 v9 חָפְשִׁ֑ים|ḥā·p̄ə·šîm|...|H2670|Adj-mp
 v9 לְבִלְתִּ֧י|lə·ḇil·tî|and no|H1115|Prep-l
 v9 עֲבָד־|‘ă·ḇāḏ-|should hold|H5647|V-Qal-Inf
-v9 בָּ֛ם|bām||H0|Prep | 3mp
+v9 בָּ֛ם|bām|-|H0|Prep | 3mp
 v9 בִּיהוּדִ֥י|bî·hū·ḏî|Jew {in bondage}|H3064|Prep-b | N-proper-ms
 v9 אָחִ֖יהוּ|’ā·ḥî·hū|his fellow|H251|N-msc | 3ms
 v9 אִֽישׁ׃|’îš|-|H376|N-ms
@@ -195,7 +195,7 @@ v10 שִׁפְחָתוֹ֙|šip̄·ḥā·ṯōw|and maidservants|H8198|N-fsc | 
 v10 חָפְשִׁ֔ים|ḥā·p̄ə·šîm|-|H2670|Adj-mp
 v10 לְבִלְתִּ֥י|lə·ḇil·tî|and no longer|H1115|Prep-l
 v10 עֲבָד־|‘ă·ḇāḏ-|hold them in bondage|H5647|V-Qal-Inf
-v10 בָּ֖ם|bām||H0|Prep | 3mp
+v10 בָּ֖ם|bām|-|H0|Prep | 3mp
 v10 ע֑וֹד|‘ō·wḏ|-|H5750|Adv
 v10 וַֽיִּשְׁמְע֖וּ|way·yiš·mə·‘ū|They obeyed|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v10 וַיְשַׁלֵּֽחוּ׃|way·šal·lê·ḥū|and released them|H7971|Conj-w | V-Piel-ConsecImperf-3mp
@@ -212,7 +212,7 @@ v11 שִׁלְּח֖וּ|šil·lə·ḥū|they had freed|H7971|V-Piel-Perf-3cp
 v11 חָפְשִׁ֑ים|ḥā·p̄ə·šîm|...|H2670|Adj-mp
 v11 וַיַּכְבִּישׁוּם|way·yaḵ·bī·šūm|and they forced them|H3533|Conj-w | V-Hifil-ConsecImperf-3mp | 3mp
 v11 לַעֲבָדִ֖ים|la·‘ă·ḇā·ḏîm|to become slaves|H5650|Prep-l | N-mp
-v11 וְלִשְׁפָחֽוֹת׃ס|wə·liš·p̄ā·ḥō·wṯ|again|H8198|Conj-w, Prep-l | N-fp
+v11 וְלִשְׁפָחֽוֹת׃|wə·liš·p̄ā·ḥō·wṯ|again|H8198|Conj-w, Prep-l | N-fp
 v12 וַיְהִ֤י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v12 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v12 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -303,7 +303,7 @@ v16 אֹתָ֔ם|’ō·ṯām|them|H853|DirObjM | 3mp
 v16 לִֽהְי֣וֹת|lih·yō·wṯ|to be|H1961|Prep-l | V-Qal-Inf
 v16 לָכֶ֔ם|lā·ḵem|your|H0|Prep | 2mp
 v16 לַעֲבָדִ֖ים|la·‘ă·ḇā·ḏîm|slaves|H5650|Prep-l | N-mp
-v16 וְלִשְׁפָחֽוֹת׃ס|wə·liš·p̄ā·ḥō·wṯ|...|H8198|Conj-w, Prep-l | N-fp
+v16 וְלִשְׁפָחֽוֹת׃|wə·liš·p̄ā·ḥō·wṯ|...|H8198|Conj-w, Prep-l | N-fp
 v17 לָכֵן֮|lā·ḵên|Therefore|H3651|Adv
 v17 כֹּה־|kōh-|this is what|H3541|Adv
 v17 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -422,4 +422,4 @@ v22 יְהוּדָ֛ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v22 אֶתֵּ֥ן|’et·tên|I will make|H5414|V-Qal-Imperf-1cs
 v22 שְׁמָמָ֖ה|šə·mā·māh|a desolation|H8077|N-fs
 v22 מֵאֵ֥ין|mê·’ên|without|H369|Prep-m | Adv
-v22 יֹשֵֽׁב׃פ|yō·šêḇ|inhabitant|H3427|V-Qal-Prtcpl-ms
+v22 יֹשֵֽׁב׃|yō·šêḇ|inhabitant|H3427|V-Qal-Prtcpl-ms

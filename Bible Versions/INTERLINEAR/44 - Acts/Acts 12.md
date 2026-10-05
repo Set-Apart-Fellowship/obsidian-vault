@@ -34,7 +34,7 @@ v3 συλλαβεῖν|syllabein|to seize|G4815|V-ANA
 v3 καὶ|kai|...|G2532|Conj
 v3 Πέτρον|Petron|Peter|G4074|N-AMS
 v3 ἦσαν|ēsan|during|G1510|V-IIA-3P
-v3 δὲ|de|vvv|G1161|Conj
+v3 δὲ|de|...|G1161|Conj
 v3 [αἱ]|hai|the|G3588|Art-NFP
 v3 ἡμέραι|hēmerai|-|G2250|N-NFP
 v3 τῶν|tōn|-|G3588|Art-GNP
@@ -129,7 +129,7 @@ v7 ἤγειρεν|ēgeiren|[and] woke him up|G1453|V-AIA-3S
 v7 αὐτὸν|auton|...|G846|PPro-AM3S
 v7 λέγων|legōn|saying|G3004|V-PPA-NMS
 v7 Ἀνάστα|Anasta|Get up|G450|V-AMA-2S
-v7 ἐν|en|vvv|G1722|Prep
+v7 ἐν|en|...|G1722|Prep
 v7 τάχει|tachei|quickly|G5034|N-DNS
 v7 καὶ|kai|And|G2532|Conj
 v7 ἐξέπεσαν|exepesan|fell|G1601|V-AIA-3P
@@ -168,7 +168,7 @@ v9 Καὶ|Kai|[So]|G2532|Conj
 v9 ἐξελθὼν|exelthōn|out|G1831|V-APA-NMS
 v9 ἠκολούθει|ēkolouthei|[Peter] followed him|G190|V-IIA-3S
 v9 καὶ|kai|[but]|G2532|Conj
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ᾔδει|ēdei|he was unaware|G1492|V-LIA-3S
 v9 ὅτι|hoti|that|G3754|Conj
 v9 ἀληθές|alēthes|real|G227|Adj-NNS
@@ -179,7 +179,7 @@ v9 διὰ|dia|-|G1223|Prep
 v9 τοῦ|tou|the|G3588|Art-GMS
 v9 ἀγγέλου|angelou|angel|G32|N-GMS
 v9 ἐδόκει|edokei|He thought|G1380|V-IIA-3S
-v9 δὲ|de|vvv|G1161|Conj
+v9 δὲ|de|...|G1161|Conj
 v9 ὅραμα|horama|a vision|G3705|N-ANS
 v9 βλέπειν|blepein|he was only seeing|G991|V-PNA
 v10 διελθόντες|dielthontes|They passed|G1330|V-APA-NMP
@@ -261,7 +261,7 @@ v12 τοῦ|tou|[also]|G3588|Art-GMS
 v12 ἐπικαλουμένου|epikaloumenou|called|G1941|V-PPM/P-GMS
 v12 Μάρκου|Markou|Mark|G3138|N-GMS
 v12 οὗ|hou|where|G3757|Adv
-v12 ἦσαν|ēsan|vvv|G1510|V-IIA-3P
+v12 ἦσαν|ēsan|...|G1510|V-IIA-3P
 v12 ἱκανοὶ|hikanoi|many [people]|G2425|Adj-NMP
 v12 συνηθροισμένοι|synēthroismenoi|had gathered together|G4867|V-RPM/P-NMP
 v12 καὶ|kai|and|G2532|Conj
@@ -270,8 +270,8 @@ v13 κρούσαντος|krousantos|knocked|G2925|V-APA-GMS
 v13 δὲ|de|-|G1161|Conj
 v13 αὐτοῦ|autou|He|G846|PPro-GM3S
 v13 τὴν|tēn|[at] the|G3588|Art-AFS
-v13 θύραν|thyran|vvv|G2374|N-AFS
-v13 τοῦ|tou|vvv|G3588|Art-GMS
+v13 θύραν|thyran|...|G2374|N-AFS
+v13 τοῦ|tou|...|G3588|Art-GMS
 v13 πυλῶνος|pylōnos|outer gate|G4440|N-GMS
 v13 προσῆλθεν|prosēlthen|came|G4334|V-AIA-3S
 v13 παιδίσκη|paidiskē|[and] a servant girl|G3814|N-NFS
@@ -284,10 +284,10 @@ v14 τὴν|tēn|-|G3588|Art-AFS
 v14 φωνὴν|phōnēn|voice|G5456|N-AFS
 v14 τοῦ|tou|-|G3588|Art-GMS
 v14 Πέτρου|Petrou|Peter's|G4074|N-GMS
-v14 ἀπὸ|apo|vvv|G575|Prep
-v14 τῆς|tēs|vvv|G3588|Art-GFS
+v14 ἀπὸ|apo|...|G575|Prep
+v14 τῆς|tēs|...|G3588|Art-GFS
 v14 χαρᾶς|charas|she was so overjoyed [that]|G5479|N-GFS
-v14 οὐκ|ouk|vvv|G3756|Adv
+v14 οὐκ|ouk|...|G3756|Adv
 v14 ἤνοιξεν|ēnoixen|she forgot to open|G455|V-AIA-3S
 v14 τὸν|ton|the|G3588|Art-AMS
 v14 πυλῶνα|pylōna|gate|G4440|N-AMS
@@ -378,8 +378,8 @@ v19 Ἡρῴδης|Hērōdēs|Herod|G2264|N-NMS
 v19 δὲ|de|[After]|G1161|Conj
 v19 ἐπιζητήσας|epizētēsas|had searched|G1934|V-APA-NMS
 v19 αὐτὸν|auton|for him|G846|PPro-AM3S
-v19 καὶ|kai|vvv|G2532|Conj
-v19 μὴ|mē|vvv|G3361|Adv
+v19 καὶ|kai|...|G2532|Conj
+v19 μὴ|mē|...|G3361|Adv
 v19 εὑρὼν|heurōn|[unsuccessfully]|G2147|V-APA-NMS
 v19 ἀνακρίνας|anakrinas|he examined|G350|V-APA-NMS
 v19 τοὺς|tous|the|G3588|Art-AMP
@@ -409,8 +409,8 @@ v20 καὶ|kai|-|G2532|Conj
 v20 πείσαντες|peisantes|Having secured the support|G3982|V-APA-NMP
 v20 Βλάστον|Blaston|of Blastus|G986|N-AMS
 v20 τὸν|ton|-|G3588|Art-AMS
-v20 ἐπὶ|epi|vvv|G1909|Prep
-v20 τοῦ|tou|vvv|G3588|Art-GMS
+v20 ἐπὶ|epi|...|G1909|Prep
+v20 τοῦ|tou|...|G3588|Art-GMS
 v20 κοιτῶνος|koitōnos|chamberlain|G2846|N-GMS
 v20 τοῦ|tou|the|G3588|Art-GMS
 v20 βασιλέως|basileōs|king's|G935|N-GMS
@@ -458,7 +458,7 @@ v23 ἄγγελος|angelos|an angel|G32|N-NMS
 v23 Κυρίου|Kyriou|of [the] Lord|G2962|N-GMS
 v23 ἀνθ’|anth’|because|G473|Prep
 v23 ὧν|hōn|...|G3739|RelPro-GNP
-v23 οὐκ|ouk|vvv|G3756|Adv
+v23 οὐκ|ouk|...|G3756|Adv
 v23 ἔδωκεν|edōken|[Herod] did not give|G1325|V-AIA-3S
 v23 τὴν|tēn|-|G3588|Art-AFS
 v23 δόξαν|doxan|glory|G1391|N-AFS

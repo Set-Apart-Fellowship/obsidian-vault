@@ -1,4 +1,4 @@
-v1 Ἄνδρες|Andres|vvv|G435|N-VMP
+v1 Ἄνδρες|Andres|...|G435|N-VMP
 v1 ἀδελφοὶ|adelphoi|Brothers|G80|N-VMP
 v1 καὶ|kai|and|G2532|Conj
 v1 πατέρες|pateres|fathers|G3962|N-VMP
@@ -12,7 +12,7 @@ v1 ἀπολογίας|apologias|defense|G627|N-GFS
 v2 ἀκούσαντες|akousantes|they heard|G191|V-APA-NMP
 v2 δὲ|de|[When]|G1161|Conj
 v2 ὅτι|hoti|-|G3754|Conj
-v2 τῇ|tē|vvv|G3588|Art-DFS
+v2 τῇ|tē|...|G3588|Art-DFS
 v2 Ἑβραΐδι|Hebraidi|in Hebrew|G1446|Adj-DFS
 v2 διαλέκτῳ|dialektō|...|G1258|N-DFS
 v2 προσεφώνει|prosephōnei|him speak to|G4377|V-IIA-3S
@@ -84,7 +84,7 @@ v5 τὸ|to|the|G3588|Art-NNS
 v5 πρεσβυτέριον|presbyterion|Council|G4244|N-NNS
 v5 παρ’|par’|from|G3844|Prep
 v5 ὧν|hōn|them|G3739|RelPro-GMP
-v5 καὶ|kai|vvv|G2532|Conj
+v5 καὶ|kai|...|G2532|Conj
 v5 ἐπιστολὰς|epistolas|letters|G1992|N-AFP
 v5 δεξάμενος|dexamenos|I even obtained|G1209|V-APM-NMS
 v5 πρὸς|pros|to|G4314|Prep
@@ -106,8 +106,8 @@ v5 τιμωρηθῶσιν|timōrēthōsin|be punished|G5097|V-ASP-3P
 v6 Ἐγένετο|Egeneto|[as]|G1096|V-AIM-3S
 v6 δέ|de|-|G1161|Conj
 v6 μοι|moi|I|G1473|PPro-D1S
-v6 πορευομένῳ|poreuomenō|vvv|G4198|V-PPM/P-DMS
-v6 καὶ|kai|vvv|G2532|Conj
+v6 πορευομένῳ|poreuomenō|...|G4198|V-PPM/P-DMS
+v6 καὶ|kai|...|G2532|Conj
 v6 ἐγγίζοντι|engizonti|was approaching|G1448|V-PPA-DMS
 v6 τῇ|tē|-|G3588|Art-DFS
 v6 Δαμασκῷ|Damaskō|Damascus|G1154|N-DFS
@@ -167,7 +167,7 @@ v9 ἐθεάσαντο|etheasanto|saw|G2300|V-AIM-3P
 v9 τὴν|tēn|the|G3588|Art-AFS
 v9 δὲ|de|but|G1161|Conj
 v9 φωνὴν|phōnēn|voice|G5456|N-AFS
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἤκουσαν|ēkousan|they could not understand|G191|V-AIA-3P
 v9 τοῦ|tou|of the [One]|G3588|Art-GMS
 v9 λαλοῦντός|lalountos|speaking|G2980|V-PPA-GMS
@@ -198,7 +198,7 @@ v10 σοι|soi|you|G4771|PPro-D2S
 v10 ποιῆσαι|poiēsai|to do|G4160|V-ANA
 v11 Ὡς|Hōs|Because|G5613|Adv
 v11 δὲ|de|-|G1161|Conj
-v11 οὐκ|ouk|vvv|G3756|Adv
+v11 οὐκ|ouk|...|G3756|Adv
 v11 ἐνέβλεπον|eneblepon|had blinded me|G1689|V-IIA-1S
 v11 ἀπὸ|apo|-|G575|Prep
 v11 τῆς|tēs|the|G3588|Art-GFS
@@ -211,7 +211,7 @@ v11 ὑπὸ|hypo|-|G5259|Prep
 v11 τῶν|tōn|my companions|G3588|Art-GMP
 v11 συνόντων|synontōn|...|G4895|V-PPA-GMP
 v11 μοι|moi|...|G1473|PPro-D1S
-v11 ἦλθον|ēlthon|vvv|G2064|V-AIA-1S
+v11 ἦλθον|ēlthon|...|G2064|V-AIA-1S
 v11 εἰς|eis|into|G1519|Prep
 v11 Δαμασκόν|Damaskon|Damascus|G1154|N-AFS
 v12 Ἁνανίας|Hananias|Ananias|G367|N-NMS
@@ -320,12 +320,12 @@ v18 μοι|moi|to me|G1473|PPro-D1S
 v18 Σπεῦσον|Speuson|Hurry|G4692|V-AMA-2S
 v18 καὶ|kai|-|G2532|Conj
 v18 ἔξελθε|exelthe|Leave|G1831|V-AMA-2S
-v18 ἐν|en|vvv|G1722|Prep
+v18 ἐν|en|...|G1722|Prep
 v18 τάχει|tachei|quickly|G5034|N-DNS
 v18 ἐξ|ex|...|G1537|Prep
 v18 Ἰερουσαλήμ|Ierousalēm|Jerusalem|G2419|N-GFS
 v18 διότι|dioti|because|G1360|Conj
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 παραδέξονταί|paradexontai|[the people here] will not accept|G3858|V-FIM-3P
 v18 σου|sou|your|G4771|PPro-G2S
 v18 μαρτυρίαν|martyrian|testimony|G3141|N-AFS
@@ -334,11 +334,11 @@ v18 ἐμοῦ|emou|Me|G1473|PPro-G1S
 v19 Κἀγὼ|Kagō|I|G2504|PPro-N1S
 v19 εἶπον|eipon|answered|G2036|V-AIA-1S
 v19 Κύριε|Kyrie|Lord|G2962|N-VMS
-v19 αὐτοὶ|autoi|vvv|G846|PPro-NM3P
+v19 αὐτοὶ|autoi|...|G846|PPro-NM3P
 v19 ἐπίστανται|epistantai|they know very well|G1987|V-PIM/P-3P
 v19 ὅτι|hoti|that|G3754|Conj
 v19 ἐγὼ|egō|I|G1473|PPro-N1S
-v19 ἤμην|ēmēn|vvv|G1510|V-IIM-1S
+v19 ἤμην|ēmēn|...|G1510|V-IIM-1S
 v19 φυλακίζων|phylakizōn|imprisoned|G5439|V-PPA-NMS
 v19 καὶ|kai|and|G2532|Conj
 v19 δέρων|derōn|beat|G1194|V-PPA-NMS
@@ -360,9 +360,9 @@ v20 μάρτυρός|martyros|witness|G3144|N-GMS
 v20 σου|sou|of Your|G4771|PPro-G2S
 v20 καὶ|kai|-|G2532|Conj
 v20 αὐτὸς|autos|I|G846|PPro-NM3S
-v20 ἤμην|ēmēn|vvv|G1510|V-IIM-1S
+v20 ἤμην|ēmēn|...|G1510|V-IIM-1S
 v20 ἐφεστὼς|ephestōs|stood there|G2186|V-RPA-NMS
-v20 καὶ|kai|vvv|G2532|Conj
+v20 καὶ|kai|...|G2532|Conj
 v20 συνευδοκῶν|syneudokōn|giving my approval|G4909|V-PPA-NMS
 v20 καὶ|kai|and|G2532|Conj
 v20 φυλάσσων|phylassōn|watching over|G5442|V-PPA-NMS
@@ -402,7 +402,7 @@ v22 τῆς|tēs|the|G3588|Art-GFS
 v22 γῆς|gēs|earth|G1093|N-GFS
 v22 τὸν|ton|-|G3588|Art-AMS
 v22 τοιοῦτον|toiouton|[him]|G5108|DPro-AMS
-v22 οὐ|ou|vvv|G3756|Adv
+v22 οὐ|ou|...|G3756|Adv
 v22 γὰρ|gar|-|G1063|Conj
 v22 καθῆκεν|kathēken|He is not fit|G2520|V-IIA-3S
 v22 αὐτὸν|auton|...|G846|PPro-AM3S
@@ -435,7 +435,7 @@ v24 αὐτὸν|auton|[Paul]|G846|PPro-AM3S
 v24 ἵνα|hina|to|G2443|Conj
 v24 ἐπιγνῷ|epignō|determine|G1921|V-ASA-3S
 v24 δι’|di’|for|G1223|Prep
-v24 ἣν|hēn|vvv|G3739|RelPro-AFS
+v24 ἣν|hēn|...|G3739|RelPro-AFS
 v24 αἰτίαν|aitian|the reason|G156|N-AFS
 v24 οὕτως|houtōs|this|G3779|Adv
 v24 ἐπεφώνουν|epephōnoun|outcry|G2019|V-IIA-3P
@@ -444,7 +444,7 @@ v25 Ὡς|Hōs|as|G5613|Adv
 v25 δὲ|de|But|G1161|Conj
 v25 προέτειναν|proeteinan|they stretched him out|G4385|V-AIA-3P
 v25 αὐτὸν|auton|...|G846|PPro-AM3S
-v25 τοῖς|tois|vvv|G3588|Art-DMP
+v25 τοῖς|tois|...|G3588|Art-DMP
 v25 ἱμᾶσιν|himasin|to strap him down|G2438|N-DMP
 v25 εἶπεν|eipen|said|G2036|V-AIA-3S
 v25 πρὸς|pros|to|G4314|Prep
@@ -453,7 +453,7 @@ v25 ἑστῶτα|hestōta|standing there|G2476|V-RPA-AMS
 v25 ἑκατόνταρχον|hekatontarchon|centurion|G1543|N-AMS
 v25 ὁ|ho|-|G3588|Art-NMS
 v25 Παῦλος|Paulos|Paul|G3972|N-NMS
-v25 Εἰ|Ei|vvv|G1487|Conj
+v25 Εἰ|Ei|...|G1487|Conj
 v25 ἄνθρωπον|anthrōpon|a|G444|N-AMS
 v25 Ῥωμαῖον|Rhōmaion|Roman citizen|G4514|Adj-AMS
 v25 καὶ|kai|-|G2532|Conj
@@ -511,7 +511,7 @@ v28 Παῦλος|Paulos|Paul|G3972|N-NMS
 v28 ἔφη|ephē|replied|G5346|V-IIA-3S
 v28 Ἐγὼ|Egō|I|G1473|PPro-N1S
 v28 δὲ|de|But|G1161|Conj
-v28 καὶ|kai|vvv|G2532|Conj
+v28 καὶ|kai|...|G2532|Conj
 v28 γεγέννημαι|gegennēmai|was born a citizen|G1080|V-RIM/P-1S
 v29 Εὐθέως|Eutheōs|...|G2112|Adv
 v29 οὖν|oun|At once|G3767|Conj
@@ -534,7 +534,7 @@ v29 ἐστιν|estin|...|G1510|V-PIA-3S
 v29 καὶ|kai|-|G2532|Conj
 v29 ὅτι|hoti|that|G3754|Conj
 v29 αὐτὸν|auton|-|G846|PPro-AM3S
-v29 ἦν|ēn|vvv|G1510|V-IIA-3S
+v29 ἦν|ēn|...|G1510|V-IIA-3S
 v29 δεδεκώς|dedekōs|he had put|G1210|V-RPA-NMS
 v30 Τῇ|Tē|The|G3588|Art-DFS
 v30 δὲ|de|-|G1161|Conj

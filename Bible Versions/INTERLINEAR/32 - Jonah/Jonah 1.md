@@ -79,7 +79,7 @@ v6 אֵלָיו֙|’ê·lāw|him|H413|Prep | 3ms
 v6 רַ֣ב|raḇ|The captain|H7227|N-msc
 v6 הַחֹבֵ֔ל|ha·ḥō·ḇêl|...|H2259|Art | N-ms
 v6 וַיֹּ֥אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v6 ל֖וֹ|lōw||H0|Prep | 3ms
+v6 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v6 מַה־|mah-|How|H4100|Interrog
 v6 לְּךָ֣|lə·ḵā|can you|H0|Prep | 2ms
 v6 נִרְדָּ֑ם|nir·dām|sleep|H7290|V-Nifal-Prtcpl-ms
@@ -94,7 +94,7 @@ v6 לָ֖נוּ|lā·nū|us|H0|Prep | 1cp
 v6 וְלֹ֥א|wə·lō|so that|H3808|Conj-w | Adv-NegPrt
 v6 נֹאבֵֽד׃|nō·ḇêḏ|we may not perish|H6|V-Qal-Imperf-1cp
 v7 וַיֹּאמְר֞וּ|way·yō·mə·rū|said the sailors|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v7 אִ֣ישׁ|’îš||H376|N-ms
+v7 אִ֣ישׁ|’îš|-|H376|N-ms
 v7 אֶל־|’el-|to|H413|Prep
 v7 רֵעֵ֗הוּ|rê·‘ê·hū|one another|H7453|N-msc | 3ms
 v7 לְכוּ֙|lə·ḵū|Come|H1980|V-Qal-Imp-mp
@@ -156,7 +156,7 @@ v10 אֵלָ֖יו|’ê·lāw|to him|H413|Prep | 3ms
 v10 מַה־|mah-|What|H4100|Interrog
 v10 זֹּ֣את|zōṯ|-|H2063|Pro-fs
 v10 עָשִׂ֑יתָ|‘ā·śî·ṯā|have you done|H6213|V-Qal-Perf-2ms
-v10 כִּֽי־|kî-||H3588|Conj
+v10 כִּֽי־|kî-|-|H3588|Conj
 v10 יָדְע֣וּ|yā·ḏə·‘ū|knew|H3045|V-Qal-Perf-3cp
 v10 הָאֲנָשִׁ֗ים|hā·’ă·nā·šîm|The men|H582|Art | N-mp
 v10 כִּֽי־|kî-|that|H3588|Conj

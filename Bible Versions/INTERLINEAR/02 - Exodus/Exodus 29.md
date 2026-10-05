@@ -2,11 +2,11 @@ v1 וְזֶ֨ה|wə·zeh|Now this|H2088|Conj-w | Pro-ms
 v1 הַדָּבָ֜ר|had·dā·ḇār|...|H1697|Art | N-ms
 v1 אֲשֶֽׁר־|’ă·šer-|is what|H834|Pro-r
 v1 תַּעֲשֶׂ֥ה|ta·‘ă·śeh|you are to do|H6213|V-Qal-Imperf-2ms
-v1 לָהֶ֛ם|lā·hem||H0|Prep | 3mp
+v1 לָהֶ֛ם|lā·hem|-|H0|Prep | 3mp
 v1 לְקַדֵּ֥שׁ|lə·qad·dêš|to consecrate|H6942|Prep-l | V-Piel-Inf
 v1 אֹתָ֖ם|’ō·ṯām|[Aaron and his sons]|H853|DirObjM | 3mp
 v1 לְכַהֵ֣ן|lə·ḵa·hên|to serve Me as priests|H3547|Prep-l | V-Piel-Inf
-v1 לִ֑י|lî||H0|Prep | 1cs
+v1 לִ֑י|lî|-|H0|Prep | 1cs
 v1 לְ֠קַח|lə·qaḥ|Take|H3947|V-Qal-Imp-ms
 v1 פַּ֣ר|par|bull|H6499|N-ms
 v1 אֶחָ֧ד|’e·ḥāḏ|a|H259|Number-ms
@@ -315,7 +315,7 @@ v22 הַכָּבֵד֙|hak·kā·ḇêḏ|of the liver|H3516|Art | N-fs
 v22 וְאֵ֣ת׀|wə·’êṯ|-|H853|Conj-w | DirObjM
 v22 שְׁתֵּ֣י|šə·tê|both|H8147|Number-fdc
 v22 הַכְּלָיֹ֗ת|hak·kə·lā·yōṯ|kidneys|H3629|Art | N-fp
-v22 וְאֶת־|wə·’eṯ-||H853|Conj-w | DirObjM
+v22 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v22 הַחֵ֙לֶב֙|ha·ḥê·leḇ|with the fat|H2459|Art | N-ms
 v22 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v22 עֲלֵהֶ֔ן|‘ă·lê·hen|on them|H5921|Prep | 3fp
@@ -427,9 +427,9 @@ v29 יִהְי֥וּ|yih·yū|will belong|H1961|V-Qal-Imperf-3mp
 v29 לְבָנָ֖יו|lə·ḇā·nāw|to his sons|H1121|Prep-l | N-mpc | 3ms
 v29 אַחֲרָ֑יו|’a·ḥă·rāw|after him|H310|Prep | 3ms
 v29 לְמָשְׁחָ֣ה|lə·mā·šə·ḥāh|so they can be anointed|H4888|Prep-l | N-fs
-v29 בָהֶ֔ם|ḇā·hem||H0|Prep | 3mp
+v29 בָהֶ֔ם|ḇā·hem|-|H0|Prep | 3mp
 v29 וּלְמַלֵּא־|ū·lə·mal·lê-|and ordained|H4390|Conj-w, Prep-l | V-Piel-Inf
-v29 בָ֖ם|ḇām||H0|Prep | 3mp
+v29 בָ֖ם|ḇām|-|H0|Prep | 3mp
 v29 אֶת־|’eṯ-|-|H853|DirObjM
 v29 יָדָֽם׃|yā·ḏām|in them|H3027|N-fsc | 3mp
 v30 שִׁבְעַ֣ת|šiḇ·‘aṯ|for seven|H7651|Number-msc
@@ -471,7 +471,7 @@ v33 וְאָכְל֤וּ|wə·’ā·ḵə·lū|They must eat|H398|Conj-w | V-Qa
 v33 אֹתָם֙|’ō·ṯām|-|H853|DirObjM | 3mp
 v33 אֲשֶׁ֣ר|’ă·šer|those things by which|H834|Pro-r
 v33 כֻּפַּ֣ר|kup·par|atonement was made|H3722|V-Pual-Perf-3ms
-v33 בָּהֶ֔ם|bā·hem||H0|Prep | 3mp
+v33 בָּהֶ֔ם|bā·hem|-|H0|Prep | 3mp
 v33 לְמַלֵּ֥א|lə·mal·lê|for their ordination|H4390|Prep-l | V-Piel-Inf
 v33 אֶת־|’eṯ-|-|H853|DirObjM
 v33 יָדָ֖ם|yā·ḏām|-|H3027|N-fsc | 3mp
@@ -540,7 +540,7 @@ v37 קָֽדָשִׁ֔ים|qā·ḏā·šîm|...|H6944|N-mp
 v37 כָּל־|kāl-|whatever|H3605|N-msc
 v37 הַנֹּגֵ֥עַ|han·nō·ḡê·a‘|touches|H5060|Art | V-Qal-Prtcpl-ms
 v37 בַּמִּזְבֵּ֖חַ|bam·miz·bê·aḥ|the altar|H4196|Prep-b, Art | N-ms
-v37 יִקְדָּֽשׁ׃ס|yiq·dāš|will be holy|H6942|V-Qal-Imperf-3ms
+v37 יִקְדָּֽשׁ׃|yiq·dāš|will be holy|H6942|V-Qal-Imperf-3ms
 v38 וְזֶ֕ה|wə·zeh|This|H2088|Conj-w | Pro-ms
 v38 אֲשֶׁ֥ר|’ă·šer|is what|H834|Pro-r
 v38 תַּעֲשֶׂ֖ה|ta·‘ă·śeh|you are to offer|H6213|V-Qal-Imperf-2ms
@@ -624,7 +624,7 @@ v44 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v44 בָּנָ֛יו|bā·nāw|and his sons|H1121|N-mpc | 3ms
 v44 אֲקַדֵּ֖שׁ|’ă·qad·dêš|and I will consecrate|H6942|V-Piel-Imperf-1cs
 v44 לְכַהֵ֥ן|lə·ḵa·hên|to serve Me as priests|H3547|Prep-l | V-Piel-Inf
-v44 לִֽי׃|lî||H0|Prep | 1cs
+v44 לִֽי׃|lî|-|H0|Prep | 1cs
 v45 וְשָׁ֣כַנְתִּ֔י|wə·šā·ḵan·tî|Then I will dwell|H7931|Conj-w | V-Qal-ConjPerf-1cs
 v45 בְּת֖וֹךְ|bə·ṯō·wḵ|among|H8432|Prep-b | N-msc
 v45 בְּנֵ֣י|bə·nê|the Israelites|H1121|N-mpc
@@ -646,4 +646,4 @@ v46 לְשָׁכְנִ֣י|lə·šā·ḵə·nî|so that I might dwell|H7931|Pre
 v46 בְתוֹכָ֑ם|ḇə·ṯō·w·ḵām|among them|H8432|Prep-b | N-msc | 3mp
 v46 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v46 יְהוָ֥ה|Yah·weh|am the LORD|H3068|N-proper-ms
-v46 אֱלֹהֵיהֶֽם׃פ|’ĕ·lō·hê·hem|their God|H430|N-mpc | 3mp
+v46 אֱלֹהֵיהֶֽם׃|’ĕ·lō·hê·hem|their God|H430|N-mpc | 3mp

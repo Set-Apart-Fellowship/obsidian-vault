@@ -33,7 +33,7 @@ v2 צֹ֔אן|ṣōn|sheep|H6629|N-cs
 v2 יַעֲנ֖וּ|ya·‘ă·nū|oppressed|H6031|V-Qal-Imperf-3mp
 v2 כִּֽי־|kî-|for|H3588|Conj
 v2 אֵ֥ין|’ên|lack|H369|Adv
-v2 רֹעֶֽה׃פ|rō·‘eh|of a shepherd|H7462|V-Qal-Prtcpl-ms
+v2 רֹעֶֽה׃|rō·‘eh|of a shepherd|H7462|V-Qal-Prtcpl-ms
 v3 עַל־|‘al-|against|H5921|Prep
 v3 הָֽרֹעִים֙|hā·rō·‘îm|the shepherds|H7462|Art | V-Qal-Prtcpl-mp
 v3 חָרָ֣ה|ḥā·rāh|burns|H2734|V-Qal-Perf-3ms
@@ -135,7 +135,7 @@ v10 מִצְרַ֔יִם|miṣ·ra·yim|Egypt|H4714|N-proper-fs
 v10 וּמֵֽאַשּׁ֖וּר|ū·mê·’aš·šūr|from Assyria|H804|Conj-w, Prep-m | N-proper-fs
 v10 אֲקַבְּצֵ֑ם|’ă·qab·bə·ṣêm|and gather them|H6908|V-Piel-Imperf-1cs | 3mp
 v10 וְאֶל־|wə·’el-|them|H413|Conj-w | Prep
-v10 אֶ֨רֶץ|’e·reṣ|vvv|H776|N-fsc
+v10 אֶ֨רֶץ|’e·reṣ|...|H776|N-fsc
 v10 גִּלְעָ֤ד|gil·‘āḏ|to Gilead|H1568|N-proper-fs
 v10 וּלְבָנוֹן֙|ū·lə·ḇā·nō·wn|and Lebanon|H3844|Conj-w | N-proper-fs
 v10 אֲבִיאֵ֔ם|’ă·ḇî·’êm|I will bring|H935|V-Hifil-Imperf-1cs | 3mp
@@ -163,4 +163,4 @@ v12 בַּֽיהוָ֔ה|Yah·weh|in the LORD|H3068|Prep-b | N-proper-ms
 v12 וּבִשְׁמ֖וֹ|ū·ḇiš·mōw|and in His name|H8034|Conj-w, Prep-b | N-msc | 3ms
 v12 יִתְהַלָּ֑כוּ|yiṯ·hal·lā·ḵū|they will walk|H1980|V-Hitpael-Imperf-3mp
 v12 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
-v12 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v12 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

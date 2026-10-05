@@ -42,7 +42,7 @@ v3 שָׁ֣ם|šām|there|H8033|Adv
 v3 גָּרִ֔ים|gā·rîm|as foreigners|H1481|V-Qal-Prtcpl-mp
 v3 עַ֖ד|‘aḏ|to|H5704|Prep
 v3 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v3 הַזֶּֽה׃ס|haz·zeh|this|H2088|Art | Pro-ms
+v3 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v4 וְלִיהֽוֹנָתָן֙|wə·lî·hō·w·nā·ṯān|And Jonathan|H3083|Conj-w, Prep-l | N-proper-ms
 v4 בֶּן־|ben-|son|H1121|N-msc
 v4 שָׁא֔וּל|šā·’ūl|of Saul|H7586|N-proper-ms
@@ -79,7 +79,7 @@ v5 כְּחֹ֣ם|kə·ḥōm|in the heat|H2527|Prep-k | N-msc
 v5 הַיּ֔וֹם|hay·yō·wm|of the day|H3117|Art | N-ms
 v5 אֶל־|’el-|at|H413|Prep
 v5 בֵּ֖ית|bêṯ|the house|H1004|N-msc
-v5 אִ֣ישׁ|’îš|vvv|H378|
+v5 אִ֣ישׁ|’îš|...|H378|
 v5 בֹּ֑שֶׁת|bō·šeṯ|of Ish-bosheth|H378|N-proper-ms
 v5 וְה֣וּא|wə·hū|while the king|H1931|Conj-w | Pro-3ms
 v5 שֹׁכֵ֔ב|šō·ḵêḇ|nap|H7901|V-Qal-Prtcpl-ms
@@ -124,7 +124,7 @@ v7 הַלָּֽיְלָה׃|hal·lā·yə·lāh|night|H3915|Art | N-ms
 v8 וַ֠יָּבִאוּ|way·yā·ḇi·’ū|They brought|H935|Conj-w | V-Hifil-ConsecImperf-3mp
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 רֹ֨אשׁ|rōš|the head|H7218|N-msc
-v8 אִֽישׁ־|’îš-|vvv|H378|
+v8 אִֽישׁ־|’îš-|...|H378|
 v8 בֹּ֥שֶׁת|bō·šeṯ|of Ish-bosheth|H378|N-proper-ms
 v8 אֶל־|’el-|to|H413|Prep
 v8 דָּוִד֮|dā·wiḏ|David|H1732|N-proper-ms
@@ -134,7 +134,7 @@ v8 אֶל־|’el-|to|H413|Prep
 v8 הַמֶּ֔לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v8 הִנֵּֽה־|hin·nêh-|Here is|H2009|Interjection
 v8 רֹ֣אשׁ|rōš|the head|H7218|N-msc
-v8 אִֽישׁ־|’îš-|vvv|H378|
+v8 אִֽישׁ־|’îš-|...|H378|
 v8 בֹּ֗שֶׁת|bō·šeṯ|of Ish-bosheth|H378|N-proper-ms
 v8 בֶּן־|ben-|son|H1121|N-msc
 v8 שָׁאוּל֙|šā·’ūl|of Saul|H7586|N-proper-ms
@@ -151,7 +151,7 @@ v8 נְקָמוֹת֙|nə·qā·mō·wṯ|vengeance|H5360|N-fp
 v8 הַיּ֣וֹם|hay·yō·wm|Today|H3117|Art | N-ms
 v8 הַזֶּ֔ה|haz·zeh|...|H2088|Art | Pro-ms
 v8 מִשָּׁא֖וּל|miš·šā·’ūl|against Saul|H7586|Prep-m | N-proper-ms
-v8 וּמִזַּרְעֽוֹ׃ס|ū·miz·zar·‘ōw|and his offspring|H2233|Conj-w, Prep-m | N-msc | 3ms
+v8 וּמִזַּרְעֽוֹ׃|ū·miz·zar·‘ōw|and his offspring|H2233|Conj-w, Prep-m | N-msc | 3ms
 v9 וַיַּ֨עַן|way·ya·‘an|answered|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v9 דָּוִ֜ד|dā·wiḏ|But David|H1732|N-proper-ms
 v9 אֶת־|’eṯ-|-|H853|DirObjM
@@ -189,7 +189,7 @@ v10 וָאֶהְרְגֵ֖הוּ|wā·’eh·rə·ḡê·hū|and put him to deat
 v10 בְּצִֽקְלָ֑ג|bə·ṣiq·lāḡ|at Ziklag|H6860|Prep-b | N-proper-fs
 v10 אֲשֶׁ֥ר|’ă·šer|That|H834|Pro-r
 v10 לְתִתִּי־|lə·ṯit·tî-|was his reward|H5414|Prep-l | V-Qal-Inf | 1cs
-v10 ל֖וֹ|lōw|vvv|H0|Prep | 3ms
+v10 ל֖וֹ|lōw|...|H0|Prep | 3ms
 v10 בְּשֹׂרָֽה׃|bə·śō·rāh|for [his] news|H1309|N-fs
 v11 אַ֞ף|’ap̄|How much more|H637|Conj
 v11 כִּֽי־|kî-|when|H3588|Conj
@@ -228,10 +228,10 @@ v12 הַבְּרֵכָ֖ה|hab·bə·rê·ḵāh|the pool|H1295|Art | N-fs
 v12 בְּחֶבְר֑וֹן|bə·ḥeḇ·rō·wn|in Hebron|H2275|Prep-b | N-proper-fs
 v12 וְאֵ֨ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v12 רֹ֤אשׁ|rōš|the head|H7218|N-msc
-v12 אִֽישׁ־|’îš-|vvv|H378|
+v12 אִֽישׁ־|’îš-|...|H378|
 v12 בֹּ֙שֶׁת֙|bō·šeṯ|of Ish-bosheth|H378|N-proper-ms
 v12 לָקָ֔חוּ|lā·qā·ḥū|but they took|H3947|V-Qal-Perf-3cp
 v12 וַיִּקְבְּר֥וּ|way·yiq·bə·rū|and buried|H6912|Conj-w | V-Qal-ConsecImperf-3mp
 v12 בְקֶֽבֶר־|ḇə·qe·ḇer-|tomb|H6913|Prep-b | N-msc
 v12 אַבְנֵ֖ר|’aḇ·nêr|it in Abner's|H74|N-proper-ms
-v12 בְּחֶבְרֽוֹן׃פ|bə·ḥeḇ·rō·wn|in Hebron|H2275|Prep-b | N-proper-fs
+v12 בְּחֶבְרֽוֹן׃|bə·ḥeḇ·rō·wn|in Hebron|H2275|Prep-b | N-proper-fs

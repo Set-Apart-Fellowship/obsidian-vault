@@ -46,7 +46,7 @@ v3 הָאִ֣ישׁ|hā·’îš|...|H376|Art | N-ms
 v3 הָאַחֲר֔וֹן|hā·’a·ḥă·rō·wn|...|H314|Art | Adj-ms
 v3 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v3 לְקָחָ֥הּ|lə·qā·ḥāh|-|H3947|V-Qal-Perf-3ms | 3fs
-v3 ל֖וֹ|lōw||H0|Prep | 3ms
+v3 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v3 לְאִשָּֽׁה׃|lə·’iš·šāh|-|H802|Prep-l | N-fs
 v4 לֹא־|lō-|not|H3808|Adv-NegPrt
 v4 יוּכַ֣ל|yū·ḵal|may|H3201|V-Qal-Imperf-3ms
@@ -54,7 +54,7 @@ v4 בַּעְלָ֣הּ|ba‘·lāh|then the husband|H1167|N-msc | 3fs
 v4 הָרִאשׁ֣וֹן|hā·ri·šō·wn|first|H7223|Art | Adj-ms
 v4 אֲשֶֽׁר־|’ă·še·rō·ši-|who|H834|Pro-r
 v4 שִׁ֠לְּחָהּ|šil·lə·ḥāh|divorced her|H7971|V-Piel-Perf-3ms | 3fs
-v4 לָשׁ֨וּב|lā·šūḇ|vvv|H7725|Prep-l | V-Qal-Inf
+v4 לָשׁ֨וּב|lā·šūḇ|...|H7725|Prep-l | V-Qal-Inf
 v4 לְקַחְתָּ֜הּ|lə·qaḥ·tāh|remarry|H3947|Prep-l | V-Qal-Inf | 3fs
 v4 לִהְי֧וֹת|lih·yō·wṯ|...|H1961|Prep-l | V-Qal-Inf
 v4 ל֣וֹ|lōw|...|H0|Prep | 3ms
@@ -76,7 +76,7 @@ v4 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v4 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v4 נֹתֵ֥ן|nō·ṯên|is giving|H5414|V-Qal-Prtcpl-ms
 v4 לְךָ֖|lə·ḵā|you|H0|Prep | 2ms
-v4 נַחֲלָֽה׃ס|na·ḥă·lāh|[as] an inheritance|H5159|N-fs
+v4 נַחֲלָֽה׃|na·ḥă·lāh|[as] an inheritance|H5159|N-fs
 v5 כִּֽי־|kî-|If|H3588|Conj
 v5 יִקַּ֥ח|yiq·qaḥ|married|H3947|V-Qal-Imperf-3ms
 v5 אִישׁ֙|’îš|a man|H376|N-ms
@@ -87,7 +87,7 @@ v5 יֵצֵא֙|yê·ṣê|be sent|H3318|V-Qal-Imperf-3ms
 v5 בַּצָּבָ֔א|baṣ·ṣā·ḇā|to war|H6635|Prep-b, Art | N-cs
 v5 וְלֹא־|wə·lō-|or|H3808|Conj-w | Adv-NegPrt
 v5 יַעֲבֹ֥ר|ya·‘ă·ḇōr|be pressed into|H5674|V-Qal-Imperf-3ms
-v5 עָלָ֖יו|‘ā·lāw||H5921|Prep | 3ms
+v5 עָלָ֖יו|‘ā·lāw|-|H5921|Prep | 3ms
 v5 לְכָל־|lə·ḵāl|any|H3605|Prep-l | N-msc
 v5 דָּבָ֑ר|dā·ḇār|duty|H1697|N-ms
 v5 נָקִ֞י|nā·qî|free|H5355|Adj-ms
@@ -99,7 +99,7 @@ v5 וְשִׂמַּ֖ח|wə·śim·maḥ|and bring joy|H8055|Conj-w | V-Piel-Con
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 אִשְׁתּ֥וֹ|’iš·tōw|to the wife|H802|N-fsc | 3ms
 v5 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v5 לָקָֽח׃ס|lā·qāḥ|he has married|H3947|V-Qal-Perf-3ms
+v5 לָקָֽח׃|lā·qāḥ|he has married|H3947|V-Qal-Perf-3ms
 v6 לֹא־|lō-|Do not|H3808|Adv-NegPrt
 v6 יַחֲבֹ֥ל|ya·ḥă·ḇōl|as security for a debt|H2254|V-Qal-Imperf-3ms
 v6 רֵחַ֖יִם|rê·ḥa·yim|take a pair of millstones|H7347|N-md
@@ -107,7 +107,7 @@ v6 וָרָ֑כֶב|wā·rā·ḵeḇ|or even an upper millstone|H7393|Conj-w | 
 v6 כִּי־|kî-|because|H3588|Conj
 v6 נֶ֖פֶשׁ|ne·p̄eš|taking one's livelihood|H5315|N-fs
 v6 ה֥וּא|hū|that would be|H1931|Pro-3ms
-v6 חֹבֵֽל׃ס|ḥō·ḇêl|as security|H2254|V-Qal-Prtcpl-ms
+v6 חֹבֵֽל׃|ḥō·ḇêl|as security|H2254|V-Qal-Prtcpl-ms
 v7 כִּי־|kî-|If|H3588|Conj
 v7 יִמָּצֵ֣א|yim·mā·ṣê|is caught|H4672|V-Nifal-Imperf-3ms
 v7 אִ֗ישׁ|’îš|a man|H376|N-ms
@@ -117,7 +117,7 @@ v7 מֵאֶחָיו֙|mê·’e·ḥāw|brothers|H251|Prep-m | N-mpc | 3ms
 v7 מִבְּנֵ֣י|mib·bə·nê|of his Israelite|H1121|Prep-m | N-mpc
 v7 יִשְׂרָאֵ֔ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v7 וְהִתְעַמֶּר־|wə·hiṯ·‘am·mer-|whether he treats him as a slave|H6014|Conj-w | V-Hitpael-ConjPerf-3ms
-v7 בּ֖וֹ|bōw||H0|Prep | 3ms
+v7 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v7 וּמְכָר֑וֹ|ū·mə·ḵā·rōw|or sells him|H4376|Conj-w | V-Qal-ConjPerf-3ms | 3ms
 v7 וּמֵת֙|ū·mêṯ|must die|H4191|Conj-w | V-Qal-ConjPerf-3ms
 v7 הַגַּנָּ֣ב|hag·gan·nāḇ|kidnapper|H1590|Art | N-ms
@@ -132,7 +132,7 @@ v8 לִשְׁמֹ֥ר|liš·mōr|to diligently|H8104|Prep-l | V-Qal-Inf
 v8 מְאֹ֖ד|mə·’ōḏ|...|H3966|Adv
 v8 וְלַעֲשׂ֑וֹת|wə·la·‘ă·śō·wṯ|follow|H6213|Conj-w, Prep-l | V-Qal-Inf
 v8 כְּכֹל֩|kə·ḵōl|everything|H3605|Prep-k | N-ms
-v8 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v8 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v8 יוֹר֨וּ|yō·w·rū|instruct|H3384|V-Hifil-Imperf-3mp
 v8 אֶתְכֶ֜ם|’eṯ·ḵem|you|H853|DirObjM | 2mp
 v8 הַכֹּהֲנִ֧ים|hak·kō·hă·nîm|priests|H3548|Art | N-mp
@@ -140,7 +140,7 @@ v8 הַלְוִיִּ֛ם|hal·wî·yim|the Levitical|H3881|Art | N-proper-mp
 v8 כַּאֲשֶׁ֥ר|ka·’ă·šer|-|H834|Prep-k | Pro-r
 v8 צִוִּיתִ֖ם|ṣiw·wî·ṯim|as I have commanded them|H6680|V-Piel-Perf-1cs | 3mp
 v8 תִּשְׁמְר֥וּ|tiš·mə·rū|Be careful|H8104|V-Qal-Imperf-2mp
-v8 לַעֲשֽׂוֹת׃ס|la·‘ă·śō·wṯ|to do|H6213|Prep-l | V-Qal-Inf
+v8 לַעֲשֽׂוֹת׃|la·‘ă·śō·wṯ|to do|H6213|Prep-l | V-Qal-Inf
 v9 זָכ֕וֹר|zā·ḵō·wr|Remember|H2142|V-Qal-InfAbs
 v9 אֵ֧ת|’êṯ|-|H853|DirObjM
 v9 אֲשֶׁר־|’ă·šer-|what|H834|Pro-r
@@ -150,7 +150,7 @@ v9 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v9 לְמִרְיָ֑ם|lə·mir·yām|to Miriam|H4813|Prep-l | N-proper-fs
 v9 בַּדֶּ֖רֶךְ|bad·de·reḵ|on the journey|H1870|Prep-b, Art | N-cs
 v9 בְּצֵאתְכֶ֥ם|bə·ṣê·ṯə·ḵem|after you came out|H3318|Prep-b | V-Qal-Inf | 2mp
-v9 מִמִּצְרָֽיִם׃ס|mim·miṣ·rā·yim|of Egypt|H4714|Prep-m | N-proper-fs
+v9 מִמִּצְרָֽיִם׃|mim·miṣ·rā·yim|of Egypt|H4714|Prep-m | N-proper-fs
 v10 כִּֽי־|kî-|When|H3588|Conj
 v10 תַשֶּׁ֥ה|ṯaš·šeh|you lend|H5383|V-Hifil-Imperf-2ms
 v10 בְרֵֽעֲךָ|ḇə·rē·ʿă·ḵå̄|to your neighbor|H7453|Prep-b | N-msc | 2ms
@@ -168,7 +168,7 @@ v11 וְהָאִ֗ישׁ|wə·hā·’îš|while the man|H376|Conj-w, Art | N-ms
 v11 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v11 אַתָּה֙|’at·tāh|to whom|H859|Pro-2ms
 v11 נֹשֶׁ֣ה|nō·šeh|you are lending|H5383|V-Qal-Prtcpl-ms
-v11 ב֔וֹ|ḇōw||H0|Prep | 3ms
+v11 ב֔וֹ|ḇōw|-|H0|Prep | 3ms
 v11 יוֹצִ֥יא|yō·w·ṣî|brings|H3318|V-Hifil-Imperf-3ms
 v11 אֵלֶ֛יךָ|’ê·le·ḵā|to you|H413|Prep | 2ms
 v11 אֶֽת־|’eṯ-|-|H853|DirObjM
@@ -196,7 +196,7 @@ v13 תִּהְיֶ֣ה|tih·yeh|and this will be|H1961|V-Qal-Imperf-3fs
 v13 צְדָקָ֔ה|ṣə·ḏā·qāh|credited to you as righteousness|H6666|N-fs
 v13 לִפְנֵ֖י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v13 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v13 אֱלֹהֶֽיךָ׃ס|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
+v13 אֱלֹהֶֽיךָ׃|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v14 לֹא־|lō-|Do not|H3808|Adv-NegPrt
 v14 תַעֲשֹׁ֥ק|ṯa·‘ă·šōq|oppress|H6231|V-Qal-Imperf-2ms
 v14 שָׂכִ֖יר|śā·ḵîr|a hired hand|H7916|Adj-ms
@@ -206,14 +206,14 @@ v14 מֵאַחֶ֕יךָ|mê·’a·ḥe·ḵā|[whether] he is a brother|H251|P
 v14 א֧וֹ|’ōw|or|H176|Conj
 v14 מִגֵּרְךָ֛|mig·gê·rə·ḵā|a foreigner residing|H1616|Prep-m | N-msc | 2ms
 v14 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v14 בְּאַרְצְךָ֖|bə·’ar·ṣə·ḵā||H776|Prep-b | N-fsc | 2ms
+v14 בְּאַרְצְךָ֖|bə·’ar·ṣə·ḵā|-|H776|Prep-b | N-fsc | 2ms
 v14 בִּשְׁעָרֶֽיךָ׃|biš·‘ā·re·ḵā|in one of your towns|H8179|Prep-b | N-mpc | 2ms
 v15 בְּיוֹמוֹ֩|bə·yō·w·mōw|each day|H3117|Prep-b | N-msc | 3ms
 v15 תִתֵּ֨ן|ṯit·tên|You are to pay|H5414|V-Qal-Imperf-2ms
 v15 שְׂכָר֜וֹ|śə·ḵā·rōw|his wages|H7939|N-msc | 3ms
 v15 וְֽלֹא־|wə·lō-|before|H3808|Conj-w | Adv-NegPrt
 v15 תָב֧וֹא|ṯā·ḇō·w|...|H935|V-Qal-Imperf-3fs
-v15 עָלָ֣יו|‘ā·lāw||H5921|Prep | 3ms
+v15 עָלָ֣יו|‘ā·lāw|-|H5921|Prep | 3ms
 v15 הַשֶּׁ֗מֶשׁ|haš·še·meš|sunset|H8121|Art | N-cs
 v15 כִּ֤י|kî|because|H3588|Conj
 v15 עָנִי֙|‘ā·nî|is poor|H6041|Adj-ms
@@ -229,8 +229,8 @@ v15 עָלֶ֙יךָ֙|‘ā·le·ḵā|against you|H5921|Prep | 2ms
 v15 אֶל־|’el-|on them|H413|Prep
 v15 יְהוָ֔ה|Yah·weh|to the LORD|H3068|N-proper-ms
 v15 וְהָיָ֥ה|wə·hā·yāh|...|H1961|Conj-w | V-Qal-ConjPerf-3ms
-v15 בְךָ֖|ḇə·ḵā||H0|Prep | 2ms
-v15 חֵֽטְא׃ס|ḥêṭ|and you will be guilty of sin|H2399|N-ms
+v15 בְךָ֖|ḇə·ḵā|-|H0|Prep | 2ms
+v15 חֵֽטְא׃|ḥêṭ|and you will be guilty of sin|H2399|N-ms
 v16 לֹֽא־|lō-|shall not|H3808|Adv-NegPrt
 v16 יוּמְת֤וּ|yū·mə·ṯū|be put to death|H4191|V-Hofal-Imperf-3mp
 v16 אָבוֹת֙|’ā·ḇō·wṯ|Fathers|H1|N-mp
@@ -243,7 +243,7 @@ v16 עַל־|‘al-|for|H5921|Prep
 v16 אָב֑וֹת|’ā·ḇō·wṯ|their fathers|H1|N-mp
 v16 אִ֥יש|ʾīš|each|H376|N-ms
 v16 בְּחֶטְא֖וֹ|bə·ḥeṭ·’ōw|for his own sin|H2399|Prep-b | N-msc | 3ms
-v16 יוּמָֽתוּ׃ס|yū·mā·ṯū|is to die|H4191|V-Hofal-Imperf-3mp
+v16 יוּמָֽתוּ׃|yū·mā·ṯū|is to die|H4191|V-Hofal-Imperf-3mp
 v17 לֹ֣א|lō|Do not|H3808|Adv-NegPrt
 v17 תַטֶּ֔ה|ṯaṭ·ṭeh|deny|H5186|V-Hifil-Imperf-2ms
 v17 מִשְׁפַּ֖ט|miš·paṭ|justice|H4941|N-msc
@@ -269,7 +269,7 @@ v18 מְצַוְּךָ֙|mə·ṣaw·wə·ḵā|am commanding|H6680|V-Piel-Prtcp
 v18 לַעֲשׂ֔וֹת|la·‘ă·śō·wṯ|you to do|H6213|Prep-l | V-Qal-Inf
 v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 הַדָּבָ֖ר|had·dā·ḇār|-|H1697|Art | N-ms
-v18 הַזֶּֽה׃ס|haz·zeh|this|H2088|Art | Pro-ms
+v18 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v19 כִּ֣י|kî|If|H3588|Conj
 v19 תִקְצֹר֩|ṯiq·ṣōr|you are harvesting|H7114|V-Qal-Imperf-2ms
 v19 קְצִֽירְךָ֨|qə·ṣî·rə·ḵā|...|H7105|N-msc | 2ms
@@ -300,7 +300,7 @@ v20 אַחֲרֶ֑יךָ|’a·ḥă·re·ḵā|the branches again|H310|Prep | 
 v20 לַגֵּ֛ר|lag·gêr|for the foreigner|H1616|Prep-l, Art | N-ms
 v20 לַיָּת֥וֹם|lay·yā·ṯō·wm|the fatherless|H3490|Prep-l, Art | N-ms
 v20 וְלָאַלְמָנָ֖ה|wə·lā·’al·mā·nāh|and the widow|H490|Conj-w, Prep-l, Art | N-fs
-v20 יִהְיֶֽה׃ס|yih·yeh|What remains will be|H1961|V-Qal-Imperf-3ms
+v20 יִהְיֶֽה׃|yih·yeh|What remains will be|H1961|V-Qal-Imperf-3ms
 v21 כִּ֤י|kî|When|H3588|Conj
 v21 תִבְצֹר֙|ṯiḇ·ṣōr|you gather the grapes|H1219|V-Qal-Imperf-2ms
 v21 כַּרְמְךָ֔|kar·mə·ḵā|of your vineyard|H3754|N-msc | 2ms
@@ -324,4 +324,4 @@ v22 מְצַוְּךָ֙|mə·ṣaw·wə·ḵā|am commanding|H6680|V-Piel-Prtcp
 v22 לַעֲשׂ֔וֹת|la·‘ă·śō·wṯ|you to do|H6213|Prep-l | V-Qal-Inf
 v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 הַדָּבָ֖ר|had·dā·ḇār|-|H1697|Art | N-ms
-v22 הַזֶּֽה׃ס|haz·zeh|this|H2088|Art | Pro-ms
+v22 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms

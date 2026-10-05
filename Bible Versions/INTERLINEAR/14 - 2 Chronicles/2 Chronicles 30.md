@@ -57,7 +57,7 @@ v5 לְהַעֲבִ֨יר|lə·ha·‘ă·ḇîr|to circulate|H5674|Prep-l | V-
 v5 ק֤וֹל|qō·wl|a proclamation|H6963|N-ms
 v5 בְּכָל־|bə·ḵāl|throughout|H3605|Prep-b | N-msc
 v5 יִשְׂרָאֵל֙|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v5 מִבְּאֵֽר־|mib·bə·’êr-|vvv|H884|Prep
+v5 מִבְּאֵֽר־|mib·bə·’êr-|...|H884|Prep
 v5 שֶׁ֣בַע|še·ḇa‘|from Beersheba|H884|Prep | N-proper-fs
 v5 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
 v5 דָּ֔ן|dān|Dan|H1835|N-proper-ms
@@ -100,7 +100,7 @@ v6 וְיָשֹׁב֙|wə·yā·šōḇ|so that He may return|H7725|Conj-w | V-Q
 v6 אֶל־|’el-|to|H413|Prep
 v6 הַפְּלֵיטָ֔ה|hap·pə·lê·ṭāh|who have escaped|H6413|Art | N-fs
 v6 הַנִּשְׁאֶ֣רֶת|han·niš·’e·reṯ|those of you who remain|H7604|Art | V-Nifal-Prtcpl-fs
-v6 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v6 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v6 מִכַּ֖ף|mik·kap̄|the grasp|H3709|Prep-m | N-fsc
 v6 מַלְכֵ֥י|mal·ḵê|of the kings|H4428|N-mpc
 v6 אַשּֽׁוּר׃|’aš·šūr|of Assyria|H804|N-proper-fs
@@ -162,7 +162,7 @@ v9 פָּנִים֙|pā·nîm|turn His face|H6440|N-mp
 v9 מִכֶּ֔ם|mik·kem|from you|H0|Prep | 2mp
 v9 אִם־|’im-|if|H518|Conj
 v9 תָּשׁ֖וּבוּ|tā·šū·ḇū|you return|H7725|V-Qal-Imperf-2mp
-v9 אֵלָֽיו׃פ|’ê·lāw|to Him|H413|Prep | 3ms
+v9 אֵלָֽיו׃|’ê·lāw|to Him|H413|Prep | 3ms
 v10 וַיִּֽהְי֨וּ|way·yih·yū|And|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v10 הָרָצִ֜ים|hā·rā·ṣîm|the couriers|H7323|Art | V-Qal-Prtcpl-mp
 v10 עֹבְרִ֨ים|‘ō·ḇə·rîm|traveled|H5674|V-Qal-Prtcpl-mp
@@ -270,7 +270,7 @@ v17 לֹ֣א|lō|unclean person|H3808|Adv-NegPrt
 v17 טָה֔וֹר|ṭā·hō·wr|...|H2889|Adj-ms
 v17 לְהַקְדִּ֖ישׁ|lə·haq·dîš|to consecrate [the lambs]|H6942|Prep-l | V-Hifil-Inf
 v17 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
-v18 כִּ֣י|kî||H3588|Conj
+v18 כִּ֣י|kî|-|H3588|Conj
 v18 מַרְבִּ֣ית|mar·bîṯ|A large number|H4768|N-fsc
 v18 הָעָ֡ם|hā·‘ām|of the people|H5971|Art | N-ms
 v18 רַ֠בַּת|rab·baṯ|many|H7227|Adj-fsc
@@ -305,14 +305,14 @@ v19 אֱלֹהֵ֣י|’ĕ·lō·hê|the God|H430|N-mpc
 v19 אֲבוֹתָ֑יו|’ă·ḇō·w·ṯāw|of his fathers|H1|N-mpc | 3ms
 v19 וְלֹ֖א|wə·lō|even if [he is] not [cleansed]|H3808|Conj-w | Adv-NegPrt
 v19 כְּטָהֳרַ֥ת|kə·ṭā·ho·raṯ|according to the purification|H2893|Prep-k | N-fsc
-v19 הַקֹּֽדֶשׁ׃ס|haq·qō·ḏeš|rules of the sanctuary|H6944|Art | N-ms
+v19 הַקֹּֽדֶשׁ׃|haq·qō·ḏeš|rules of the sanctuary|H6944|Art | N-ms
 v20 וַיִּשְׁמַ֤ע|way·yiš·ma‘|heard|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v20 יְהוָה֙|Yah·weh|And the LORD|H3068|N-proper-ms
 v20 אֶל־|’el-|...|H413|Prep
 v20 יְחִזְקִיָּ֔הוּ|yə·ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
 v20 וַיִּרְפָּ֖א|way·yir·pā|and healed|H7495|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
-v20 הָעָֽם׃ס|hā·‘ām|the people|H5971|Art | N-ms
+v20 הָעָֽם׃|hā·‘ām|the people|H5971|Art | N-ms
 v21 וַיַּעֲשׂ֣וּ|way·ya·‘ă·śū|celebrated|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v21 בְנֵֽי־|ḇə·nê-|The Israelites|H1121|N-mpc
 v21 יִ֠שְׂרָאֵל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -333,7 +333,7 @@ v21 הַלְוִיִּ֧ם|hal·wî·yim|and the Levites|H3881|Art | N-proper-mp
 v21 וְהַכֹּהֲנִ֛ים|wə·hak·kō·hă·nîm|and priests|H3548|Conj-w, Art | N-mp
 v21 בִּכְלֵי־|biḵ·lê-|instruments [of praise]|H3627|Prep-b | N-mpc
 v21 עֹ֖ז|‘ōz|accompanied by loud|H5797|N-ms
-v21 לַיהוָֽה׃ס|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v21 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v22 וַיְדַבֵּ֣ר|way·ḏab·bêr|encouraged|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v22 יְחִזְקִיָּ֗הוּ|yə·ḥiz·qî·yā·hū|And Hezekiah|H2396|N-proper-ms
 v22 עַל־|‘al-|...|H5921|Prep
@@ -355,7 +355,7 @@ v22 שְׁלָמִ֔ים|šə·lā·mîm|peace|H8002|N-mp
 v22 וּמִ֨תְוַדִּ֔ים|ū·miṯ·wad·dîm|and giving thanks|H3034|Conj-w | V-Hitpael-Prtcpl-mp
 v22 לַיהוָ֖ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v22 אֱלֹהֵ֥י|’ĕ·lō·hê|the God|H430|N-mpc
-v22 אֲבוֹתֵיהֶֽם׃ס|’ă·ḇō·w·ṯê·hem|of their fathers|H1|N-mpc | 3mp
+v22 אֲבוֹתֵיהֶֽם׃|’ă·ḇō·w·ṯê·hem|of their fathers|H1|N-mpc | 3mp
 v23 וַיִּוָּֽעֲצוּ֙|way·yiw·wā·‘ă·ṣū|agreed|H3289|Conj-w | V-Nifal-ConsecImperf-3mp
 v23 כָּל־|kāl-|The whole|H3605|N-msc
 v23 הַקָּהָ֔ל|haq·qā·hāl|assembly|H6951|Art | N-ms
@@ -401,7 +401,7 @@ v25 הַבָּאִ֣ים|hab·bā·’îm|that had come|H935|Art | V-Qal-Prtcpl-
 v25 מִיִּשְׂרָאֵ֑ל|mî·yiś·rā·’êl|from Israel|H3478|Prep-m | N-proper-ms
 v25 וְהַגֵּרִ֗ים|wə·hag·gê·rîm|including the foreigners|H1616|Conj-w, Art | N-mp
 v25 הַבָּאִים֙|hab·bā·’îm|who had come|H935|Art | V-Qal-Prtcpl-mp
-v25 מֵאֶ֣רֶץ|mê·’e·reṣ|vvv|H776|Prep-m | N-fsc
+v25 מֵאֶ֣רֶץ|mê·’e·reṣ|...|H776|Prep-m | N-fsc
 v25 יִשְׂרָאֵ֔ל|yiś·rā·’êl|from Israel|H3478|N-proper-ms
 v25 וְהַיּוֹשְׁבִ֖ים|wə·hay·yō·wō·šə·ḇîm|and those who lived|H3427|Conj-w, Art | V-Qal-Prtcpl-mp
 v25 בִּיהוּדָֽה׃|bî·hū·ḏāh|in Judah|H3063|Prep-b | N-proper-ms
@@ -418,7 +418,7 @@ v26 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v26 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v26 לֹ֥א|lō|nothing|H3808|Adv-NegPrt
 v26 כָזֹ֖את|ḵā·zōṯ|like this [had happened]|H2063|Prep-k | Pro-fs
-v26 בִּירוּשָׁלִָֽם׃ס|bî·rū·šā·lim|[there]|H3389|Prep-b | N-proper-fs
+v26 בִּירוּשָׁלִָֽם׃|bî·rū·šā·lim|[there]|H3389|Prep-b | N-proper-fs
 v27 וַיָּקֻ֜מוּ|way·yā·qu·mū|stood|H6965|Conj-w | V-Qal-ConsecImperf-3mp
 v27 הַכֹּהֲנִ֤ים|hak·kō·hă·nîm|Then the priests|H3548|Art | N-mp
 v27 הַלְוִיִּם֙|hal·wî·yim|and the Levites|H3881|Art | N-proper-mp
@@ -431,4 +431,4 @@ v27 וַתָּב֧וֹא|wat·tā·ḇō·w|came|H935|Conj-w | V-Qal-ConsecImper
 v27 תְפִלָּתָ֛ם|ṯə·p̄il·lā·ṯām|and their prayer|H8605|N-fsc | 3mp
 v27 לִמְע֥וֹן|lim·‘ō·wn|into His holy dwelling|H4583|Prep-l | N-msc
 v27 קָדְשׁ֖וֹ|qā·ḏə·šōw|place|H6944|N-msc | 3ms
-v27 לַשָּׁמָֽיִם׃פ|laš·šā·mā·yim|in heaven|H8064|Prep-l, Art | N-mp
+v27 לַשָּׁמָֽיִם׃|laš·šā·mā·yim|in heaven|H8064|Prep-l, Art | N-mp

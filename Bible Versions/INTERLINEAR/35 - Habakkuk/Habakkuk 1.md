@@ -108,7 +108,7 @@ v10 בַּמְּלָכִ֣ים|bam·mə·lā·ḵîm|kings|H4428|Prep-b, Art | N
 v10 יִתְקַלָּ֔ס|yiṯ·qal·lās|scoff at|H7046|V-Hitpael-Imperf-3ms
 v10 וְרֹזְנִ֖ים|wə·rō·zə·nîm|and {make} rulers|H7336|Conj-w | V-Qal-Prtcpl-mp
 v10 מִשְׂחָ֣ק|miś·ḥāq|an object of scorn|H4890|N-ms
-v10 ל֑וֹ|lōw||H0|Prep | 3ms
+v10 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v10 ה֚וּא|hū|They|H1931|Pro-3ms
 v10 לְכָל־|lə·ḵāl|at every|H3605|Prep-l | N-msc
 v10 מִבְצָ֣ר|miḇ·ṣār|fortress|H4013|N-ms
@@ -130,7 +130,7 @@ v12 מִקֶּ֗דֶם|miq·qe·ḏem|from everlasting|H6924|Prep-m | N-ms
 v12 יְהוָ֧ה|Yah·weh|O LORD|H3068|N-proper-ms
 v12 אֱלֹהַ֛י|’ĕ·lō·hay|my God|H430|N-mpc | 1cs
 v12 קְדֹשִׁ֖י|qə·ḏō·šî|my Holy One|H6918|Adj-msc | 1cs
-v12 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v12 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v12 נָמ֑וּת|nā·mūṯ|We will not die|H4191|V-Qal-Imperf-1cp
 v12 יְהוָה֙|Yah·weh|O LORD|H3068|N-proper-ms
 v12 לְמִשְׁפָּ֣ט|lə·miš·pāṭ|to execute judgment|H4941|Prep-l | N-ms
@@ -162,7 +162,7 @@ v14 הַיָּ֑ם|hay·yām|of the sea|H3220|Art | N-ms
 v14 כְּרֶ֖מֶשׂ|kə·re·meś|like creeping things|H7431|Prep-k | N-ms
 v14 לֹא־|lō-|[that have] no|H3808|Adv-NegPrt
 v14 מֹשֵׁ֥ל|mō·šêl|ruler|H4910|V-Qal-Prtcpl-ms
-v14 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v14 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v15 כֻּלֹּה֙|kul·lōh|[The foe] pulls all of them|H3605|N-msc | 3ms
 v15 בְּחַכָּ֣ה|bə·ḥak·kāh|with a hook|H2443|Prep-b | N-fs
 v15 הֵֽעֲלָ֔ה|hê·‘ă·lāh|up|H5927|V-Hifil-Perf-3ms
@@ -194,4 +194,4 @@ v17 וְתָמִ֛יד|wə·ṯā·mîḏ|and continue|H8548|Conj-w | Adv
 v17 לַהֲרֹ֥ג|la·hă·rōḡ|to slay|H2026|Prep-l | V-Qal-Inf
 v17 גּוֹיִ֖ם|gō·w·yim|nations|H1471|N-mp
 v17 לֹ֥א|lō|without|H3808|Adv-NegPrt
-v17 יַחְמֽוֹל׃ס|yaḥ·mō·wl|mercy|H2550|V-Qal-Imperf-3ms
+v17 יַחְמֽוֹל׃|yaḥ·mō·wl|mercy|H2550|V-Qal-Imperf-3ms

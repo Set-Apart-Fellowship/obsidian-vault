@@ -38,7 +38,7 @@ v4 כַּאֲשֶׁ֥ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v4 יָשַׁ֛ר|yā·šar|best|H3474|V-Qal-Perf-3ms
 v4 בְּעֵינֵ֥י|bə·‘ê·nê|it seemed|H5869|Prep-b | N-cdc
 v4 הַיּוֹצֵ֖ר|hay·yō·w·ṣêr|for him|H3335|Art | V-Qal-Prtcpl-ms
-v4 לַעֲשֽׂוֹת׃פ|la·‘ă·śō·wṯ|to do|H6213|Prep-l | V-Qal-Inf
+v4 לַעֲשֽׂוֹת׃|la·‘ă·śō·wṯ|to do|H6213|Prep-l | V-Qal-Inf
 v5 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v5 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v5 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -62,7 +62,7 @@ v6 כֵּן־|kên-|so|H3651|Adv
 v6 אַתֶּ֥ם|’at·tem|are you|H859|Pro-2mp
 v6 בְּיָדִ֖י|bə·yā·ḏî|in My hand|H3027|Prep-b | N-fsc | 1cs
 v6 בֵּ֥ית|bêṯ|O house|H1004|N-msc
-v6 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v6 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v7 רֶ֣גַע|re·ḡa‘|At any time|H7281|N-ms
 v7 אֲדַבֵּ֔ר|’ă·ḏab·bêr|I might announce|H1696|V-Piel-Imperf-1cs
 v7 עַל־|‘al-|that|H5921|Prep
@@ -78,14 +78,14 @@ v8 הַה֔וּא|ha·hū|But if that|H1931|Art | Pro-3ms
 v8 מֵרָ֣עָת֔וֹ|mê·rā·‘ā·ṯōw|from its evil|H7451|Prep-m | N-fsc | 3ms
 v8 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v8 דִּבַּ֖רְתִּי|dib·bar·tî|I warned|H1696|V-Piel-Perf-1cs
-v8 עָלָ֑יו|‘ā·lāw||H5921|Prep | 3ms
+v8 עָלָ֑יו|‘ā·lāw|-|H5921|Prep | 3ms
 v8 וְנִֽחַמְתִּי֙|wə·ni·ḥam·tî|then I will relent|H5162|Conj-w | V-Nifal-ConjPerf-1cs
 v8 עַל־|‘al-|of|H5921|Prep
 v8 הָ֣רָעָ֔ה|hā·rā·‘āh|the disaster|H7451|Art | Adj-fs
 v8 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v8 חָשַׁ֖בְתִּי|ḥā·šaḇ·tî|I had planned|H2803|V-Qal-Perf-1cs
 v8 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|to bring|H6213|Prep-l | V-Qal-Inf
-v8 לֽוֹ׃ס|lōw||H0|Prep | 3ms
+v8 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v9 וְרֶ֣גַע|wə·re·ḡa‘|And if at another time|H7281|Conj-w | N-ms
 v9 אֲדַבֵּ֔ר|’ă·ḏab·bêr|I announce|H1696|V-Piel-Imperf-1cs
 v9 עַל־|‘al-|...|H5921|Prep
@@ -106,7 +106,7 @@ v10 הַטּוֹבָ֔ה|haṭ·ṭō·w·ḇāh|the good|H2896|Art | N-fs
 v10 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v10 אָמַ֖רְתִּי|’ā·mar·tî|I had intended for it|H559|V-Qal-Perf-1cs
 v10 לְהֵיטִ֥יב|lə·hê·ṭîḇ|...|H3190|Prep-l | V-Hifil-Inf
-v10 אוֹתֽוֹ׃ס|’ō·w·ṯōw|-|H853|DirObjM | 3ms
+v10 אוֹתֽוֹ׃|’ō·w·ṯōw|-|H853|DirObjM | 3ms
 v11 וְעַתָּ֡ה|wə·‘at·tāh|Now|H6258|Conj-w | Adv
 v11 אֱמָר־|’ĕ·mār-|tell|H559|V-Qal-Imp-ms
 v11 נָ֣א|nā|therefore|H4994|Interjection
@@ -146,7 +146,7 @@ v12 וְאִ֛ישׁ|wə·’îš|and each of us|H376|Conj-w | N-ms
 v12 שְׁרִר֥וּת|šə·ri·rūṯ|according to the stubbornness|H8307|N-fsc
 v12 לִבּֽוֹ־|lib·bōw-|heart|H3820|N-msc | 3ms
 v12 הָרָ֖ע|hā·rā‘|of his evil|H7451|Art | Adj-ms
-v12 נַעֲשֶֽׂה׃ס|na·‘ă·śeh|will act|H6213|V-Qal-Imperf-1cp
+v12 נַעֲשֶֽׂה׃|na·‘ă·śeh|will act|H6213|V-Qal-Imperf-1cp
 v13 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v13 כֹּ֚ה|kōh|this is what|H3541|Adv
 v13 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -208,7 +208,7 @@ v17 וְלֹֽא־|wə·lō-|and not|H3808|Conj-w | Adv-NegPrt
 v17 פָנִ֛ים|p̄ā·nîm|My face|H6440|N-mp
 v17 אֶרְאֵ֖ם|’er·’êm|I will show them|H7200|V-Qal-Imperf-1cs | 3mp
 v17 בְּי֥וֹם|bə·yō·wm|in the day|H3117|Prep-b | N-msc
-v17 אֵידָֽם׃ס|’ê·ḏām|of their calamity|H343|N-msc | 3mp
+v17 אֵידָֽם׃|’ê·ḏām|of their calamity|H343|N-msc | 3mp
 v18 וַיֹּאמְר֗וּ|way·yō·mə·rū|Then [some] said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v18 לְכ֨וּ|lə·ḵū|Come|H1980|V-Qal-Imp-mp
 v18 וְנַחְשְׁבָ֣ה|wə·naḥ·šə·ḇāh|let us make plans|H2803|Conj-w | V-Qal-ConjImperf.Cohort-1cp
@@ -314,4 +314,4 @@ v23 לְפָנֶ֔יךָ|lə·p̄ā·ne·ḵā|before You|H6440|Prep-l | N-cpc |
 v23 בְּעֵ֥ת|bə·‘êṯ|in the time|H6256|Prep-b | N-csc
 v23 אַפְּךָ֖|’ap·pə·ḵā|of Your anger|H639|N-msc | 2ms
 v23 עֲשֵׂ֥ה|‘ă·śêh|deal|H6213|V-Qal-Imp-ms
-v23 בָהֶֽם׃ס|ḇā·hem|with them|H0|Prep | 3mp
+v23 בָהֶֽם׃|ḇā·hem|with them|H0|Prep | 3mp

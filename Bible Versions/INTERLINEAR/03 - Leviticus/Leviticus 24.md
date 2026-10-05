@@ -42,7 +42,7 @@ v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 הַנֵּר֑וֹת|han·nê·rō·wṯ|the lamps|H5216|Art | N-mp
 v4 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v4 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v4 תָּמִֽיד׃פ|tā·mîḏ|continually|H8548|Adv
+v4 תָּמִֽיד׃|tā·mîḏ|continually|H8548|Adv
 v5 וְלָקַחְתָּ֣|wə·lā·qaḥ·tā|You are also to take|H3947|Conj-w | V-Qal-ConjPerf-2ms
 v5 סֹ֔לֶת|sō·leṯ|fine flour|H5560|N-fs
 v5 וְאָפִיתָ֣|wə·’ā·p̄î·ṯā|and bake|H644|Conj-w | V-Qal-ConjPerf-2ms
@@ -85,7 +85,7 @@ v8 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v8 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v8 תָּמִ֑יד|tā·mîḏ|...|H8548|Adv
 v8 מֵאֵ֥ת|mê·’êṯ|...|H854|Prep-m | DirObjM
-v8 בְּנֵֽי־|bə·nê-|vvv|H1121|N-mpc
+v8 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v8 יִשְׂרָאֵ֖ל|yiś·rā·’êl|on behalf of the Israelites|H3478|N-proper-ms
 v8 בְּרִ֥ית|bə·rîṯ|covenant|H1285|N-fsc
 v8 עוֹלָֽם׃|‘ō·w·lām|as a permanent|H5769|N-ms
@@ -103,17 +103,17 @@ v9 ל֛וֹ|lōw|to him|H0|Prep | 3ms
 v9 מֵאִשֵּׁ֥י|mê·’iš·šê|of the food offerings|H801|Prep-m | N-mpc
 v9 יְהוָ֖ה|Yah·weh|to the LORD|H3068|N-proper-ms
 v9 חָק־|ḥāq-|[his] portion|H2706|N-msc
-v9 עוֹלָֽם׃ס|‘ō·w·lām|forever|H5769|N-ms
+v9 עוֹלָֽם׃|‘ō·w·lām|forever|H5769|N-ms
 v10 וַיֵּצֵא֙|way·yê·ṣê|went out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v10 בֶּן־|ben-|Now the son|H1121|N-msc
 v10 אִשָּׁ֣ה|’iš·šāh|mother|H802|N-fs
 v10 יִשְׂרְאֵלִ֔ית|yiś·rə·’ê·lîṯ|of an Israelite|H3481|N-proper-fs
 v10 וְהוּא֙|wə·hū|...|H1931|Conj-w | Pro-3ms
-v10 בֶּן־|ben-||H1121|N-msc
+v10 בֶּן־|ben-|-|H1121|N-msc
 v10 אִ֣ישׁ|’îš|father|H376|N-ms
 v10 מִצְרִ֔י|miṣ·rî|and an Egyptian|H4713|N-proper-ms
 v10 בְּת֖וֹךְ|bə·ṯō·wḵ|among|H8432|Prep-b | N-msc
-v10 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v10 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v10 יִשְׂרָאֵ֑ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v10 וַיִּנָּצוּ֙|way·yin·nā·ṣū|and a fight broke out|H5327|Conj-w | V-Nifal-ConsecImperf-3mp
 v10 בַּֽמַּחֲנֶ֔ה|bam·ma·ḥă·neh|in the camp|H4264|Prep-b, Art | N-cs
@@ -125,7 +125,7 @@ v11 וַ֠יִּקֹּב|way·yiq·qōḇ|blasphemed|H5344|Conj-w | V-Qal-Consec
 v11 בֶּן־|ben-|The son|H1121|N-msc
 v11 הָֽאִשָּׁ֨ה|hā·’iš·šāh|woman|H802|Art | N-fs
 v11 הַיִּשְׂרְאֵלִ֤ית|hay·yiś·rə·’ê·lîṯ|of the Israelite|H3481|Art | N-proper-fs
-v11 אֶת־|’eṯ-||H853|DirObjM
+v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 הַשֵּׁם֙|haš·šêm|the Name|H8034|Art | N-ms
 v11 וַיְקַלֵּ֔ל|way·qal·lêl|with a curse|H7043|Conj-w | V-Piel-ConsecImperf-3ms
 v11 וַיָּבִ֥יאוּ|way·yā·ḇî·’ū|So they brought|H935|Conj-w | V-Hifil-ConsecImperf-3mp
@@ -145,7 +145,7 @@ v12 לִפְרֹ֥שׁ|lip̄·rōš|should be made clear|H6567|Prep-l | V-Qal-In
 v12 לָהֶ֖ם|lā·hem|to them|H0|Prep-l | Pro-3mp
 v12 עַל־|‘al-|...|H5921|Prep
 v12 פִּ֥י|pî|until the will|H6310|N-msc
-v12 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v12 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v13 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v13 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v13 אֶל־|’el-|to|H413|Prep
@@ -245,7 +245,7 @@ v21 יוּמָֽת׃|yū·māṯ|must be put to death|H4191|V-Hofal-Imperf-3ms
 v22 מִשְׁפַּ֤ט|miš·paṭ|standard of law|H4941|N-msc
 v22 אֶחָד֙|’e·ḥāḏ|the same|H259|Number-ms
 v22 יִהְיֶ֣ה|yih·yeh|You are to have|H1961|V-Qal-Imperf-3ms
-v22 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v22 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v22 כַּגֵּ֥ר|kag·gêr|for the foreign resident|H1616|Prep-k, Art | N-ms
 v22 כָּאֶזְרָ֖ח|kā·’ez·rāḥ|and the native|H249|Prep-k, Art | N-ms
 v22 יִהְיֶ֑ה|yih·yeh|...|H1961|V-Qal-Imperf-3ms
@@ -261,7 +261,7 @@ v23 יִשְׂרָאֵל֒|yiś·rā·’êl|...|H3478|N-proper-ms
 v23 וַיּוֹצִ֣יאוּ|way·yō·w·ṣî·’ū|and they took|H3318|Conj-w | V-Hifil-ConsecImperf-3mp
 v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 הַֽמְקַלֵּ֗ל|ham·qal·lêl|the blasphemer|H7043|Art | V-Piel-Prtcpl-ms
-v23 אֶל־|’el-|vvv|H413|Prep
+v23 אֶל־|’el-|...|H413|Prep
 v23 מִחוּץ֙|mi·ḥūṣ|outside|H2351|Prep-m | N-msc
 v23 לַֽמַּחֲנֶ֔ה|lam·ma·ḥă·neh|the camp|H4264|Prep-l, Art | N-cs
 v23 וַיִּרְגְּמ֥וּ|way·yir·gə·mū|and stoned|H7275|Conj-w | V-Qal-ConsecImperf-3mp
@@ -274,4 +274,4 @@ v23 כַּֽאֲשֶׁ֛ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v23 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v23 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v23 אֶת־|’eṯ-|-|H853|DirObjM
-v23 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v23 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms

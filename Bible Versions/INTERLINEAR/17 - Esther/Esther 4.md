@@ -125,19 +125,19 @@ v8 נִתַּ֨ן|nit·tan|Mordecai also gave [Hathach]|H5414|V-Nifal-Perf-3ms
 v8 בְּשׁוּשָׁ֤ן|bə·šū·šān|in Susa|H7800|Prep-b | N-proper-ms
 v8 לְהַשְׁמִידָם֙|lə·haš·mî·ḏām|for the destruction [of the Jews]|H8045|Prep-l | V-Hifil-Inf | 3mp
 v8 נָ֣תַן|nā·ṯan|issued|H5414|V-Qal-Perf-3ms
-v8 ל֔וֹ|lōw||H0|Prep | 3ms
+v8 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v8 לְהַרְא֥וֹת|lə·har·’ō·wṯ|to show|H7200|Prep-l | V-Hifil-Inf
 v8 אֶת־|’eṯ-|to|H853|DirObjM
 v8 אֶסְתֵּ֖ר|’es·têr|Esther|H635|N-proper-fs
 v8 וּלְהַגִּ֣יד|ū·lə·hag·gîḏ|and explain|H5046|Conj-w, Prep-l | V-Hifil-Inf
-v8 לָ֑הּ|lāh||H0|Prep | 3fs
+v8 לָ֑הּ|lāh|-|H0|Prep | 3fs
 v8 וּלְצַוּ֣וֹת|ū·lə·ṣaw·wō·wṯ|urging|H6680|Conj-w, Prep-l | V-Piel-Inf
 v8 עָלֶ֗יהָ|‘ā·le·hā|her|H5921|Prep | 3fs
 v8 לָב֨וֹא|lā·ḇō·w|to approach|H935|Prep-l | V-Qal-Inf
 v8 אֶל־|’el-|...|H413|Prep
 v8 הַמֶּ֧לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v8 לְהִֽתְחַנֶּן־|lə·hiṯ·ḥan·nen-|implore his favor|H2603|Prep-l | V-Hitpael-Inf
-v8 ל֛וֹ|lōw||H0|Prep | 3ms
+v8 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v8 וּלְבַקֵּ֥שׁ|ū·lə·ḇaq·qêš|and plead|H1245|Conj-w, Prep-l | V-Piel-Inf
 v8 מִלְּפָנָ֖יו|mil·lə·p̄ā·nāw|before him|H6440|Prep-m, Prep-l | N-cpc | 3ms
 v8 עַל־|‘al-|for|H5921|Prep
@@ -182,7 +182,7 @@ v11 לְהָמִ֔ית|lə·hā·mîṯ|that he be put to death|H4191|Prep-l | V
 v11 לְ֠בַד|lə·ḇaḏ|Only if|H905|Prep | N-ms
 v11 מֵאֲשֶׁ֨ר|mê·’ă·šer|-|H834|Prep-m | Pro-r
 v11 יֽוֹשִׁיט־|yō·wō·šîṭ-|extends|H3447|V-Hifil-Imperf-3ms
-v11 ל֥וֹ|lōw||H0|Prep | 3ms
+v11 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v11 הַמֶּ֛לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 שַׁרְבִ֥יט|šar·ḇîṭ|scepter|H8275|N-msc
@@ -201,7 +201,7 @@ v12 וַיַּגִּ֣ידוּ|way·yag·gî·ḏū|were relayed|H5046|Conj-w | 
 v12 לְמָרְדֳּכָ֔י|lə·mā·rə·do·ḵāy|to Mordecai|H4782|Prep-l | N-proper-ms
 v12 אֵ֖ת|’êṯ|-|H853|DirObjM
 v12 דִּבְרֵ֥י|diḇ·rê|words|H1697|N-mpc
-v12 אֶסְתֵּֽר׃פ|’es·têr|When Esther's|H635|N-proper-fs
+v12 אֶסְתֵּֽר׃|’es·têr|When Esther's|H635|N-proper-fs
 v13 וַיֹּ֥אמֶר|way·yō·mer|sent back|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 מָרְדֳּכַ֖י|mā·rə·do·ḵay|he|H4782|N-proper-ms
 v13 לְהָשִׁ֣יב|lə·hā·šîḇ|this reply|H7725|Prep-l | V-Hifil-Inf
@@ -282,4 +282,4 @@ v17 כְּכֹ֛ל|kə·ḵōl|all|H3605|Prep-k | N-ms
 v17 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v17 צִוְּתָ֥ה|ṣiw·wə·ṯāh|had instructed|H6680|V-Piel-Perf-3fs
 v17 עָלָ֖יו|‘ā·lāw|him|H5921|Prep | 3ms
-v17 אֶסְתֵּֽר׃ס|’es·têr|Esther|H635|N-proper-fs
+v17 אֶסְתֵּֽר׃|’es·têr|Esther|H635|N-proper-fs

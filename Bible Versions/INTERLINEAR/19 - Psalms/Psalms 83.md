@@ -4,7 +4,7 @@ v1 לְאָסָֽף׃|lə·’ā·sāp̄|of Asaph|H623|Prep-l | N-proper-ms
 v1 אֱלֹהִ֥ים|’ĕ·lō·hîm|O God|H430|N-mp
 v1 אַל־|’al-|{be} not|H408|Adv
 v1 דֳּמִי־|do·mî-|silent|H1824|N-ms
-v1 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v1 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v1 אַל־|’al-|{be} not|H408|Adv
 v1 תֶּחֱרַ֖שׁ|te·ḥĕ·raš|speechless|H2790|V-Qal-Imperf-2ms
 v1 וְאַל־|wə·’al-|{be} not|H408|Conj-w | Adv
@@ -69,7 +69,7 @@ v9 כְ֝יָבִ֗ין|ḵə·yā·ḇîn|and Jabin|H2985|Prep-k | N-proper-ms
 v9 בְּנַ֣חַל|bə·na·ḥal|at the River|H5158|Prep-b | N-msc
 v9 קִישֽׁוֹן׃|qî·šō·wn|Kishon|H7028|N-proper-fs
 v10 נִשְׁמְד֥וּ|niš·mə·ḏū|who perished|H8045|V-Nifal-Perf-3cp
-v10 בְֽעֵין־|ḇə·‘ên-|vvv|H5874|Prep
+v10 בְֽעֵין־|ḇə·‘ên-|...|H5874|Prep
 v10 דֹּ֑אר|dōr|at Endor|H5874|Prep | N-proper-fs
 v10 הָ֥יוּ|hā·yū|and became|H1961|V-Qal-Perf-3cp
 v10 דֹּ֝֗מֶן|dō·men|[like] dung|H1828|N-ms
@@ -86,7 +86,7 @@ v12 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
 v12 אָ֭מְרוּ|’ā·mə·rū|said|H559|V-Qal-Perf-3cp
 v12 נִ֣ירֲשָׁה|nî·ră·šāh|Let us possess|H3423|V-Qal-Imperf.Cohort-1cp
 v12 לָּ֑נוּ|lā·nū|for ourselves|H0|Prep | 1cp
-v12 אֵ֝֗ת|’êṯ||H853|DirObjM
+v12 אֵ֝֗ת|’êṯ|-|H853|DirObjM
 v12 נְא֣וֹת|nə·’ō·wṯ|the pastures|H4999|N-fpc
 v12 אֱלֹהִֽים׃|’ĕ·lō·hîm|of God|H430|N-mp
 v13 אֱ|’ĕlō·hay|O my God|H430|N-mpc | 1cs

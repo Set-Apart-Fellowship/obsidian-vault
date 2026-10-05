@@ -42,7 +42,7 @@ v3 τῇ|tē|to|G3588|Art-DFS
 v3 δικαιοσύνῃ|dikaiosynē|righteousness|G1343|N-DFS
 v3 τοῦ|tou|-|G3588|Art-GMS
 v3 Θεοῦ|Theou|God's|G2316|N-GMS
-v3 οὐχ|ouch|vvv|G3756|Adv
+v3 οὐχ|ouch|...|G3756|Adv
 v3 ὑπετάγησαν|hypetagēsan|they did not submit|G5293|V-AIP-3P
 v4 τέλος|telos|[the] end|G5056|N-NNS
 v4 γὰρ|gar|For|G1063|Conj
@@ -78,7 +78,7 @@ v6 πίστεως|pisteōs|faith|G4102|N-GFS
 v6 δικαιοσύνη|dikaiosynē|righteousness|G1343|N-NFS
 v6 οὕτως|houtōs|-|G3779|Adv
 v6 λέγει|legei|says|G3004|V-PIA-3S
-v6 Μὴ|Mē|vvv|G3361|Adv
+v6 Μὴ|Mē|...|G3361|Adv
 v6 εἴπῃς|eipēs|Do not say|G2036|V-ASA-2S
 v6 ἐν|en|in|G1722|Prep
 v6 τῇ|tē|-|G3588|Art-DFS
@@ -207,13 +207,13 @@ v14 οὖν|oun|then|G3767|Conj
 v14 ἐπικαλέσωνται|epikalesōntai|can they call|G1941|V-ASM-3P
 v14 εἰς|eis|on|G1519|Prep
 v14 ὃν|hon|[the One]|G3739|RelPro-AMS
-v14 οὐκ|ouk|vvv|G3756|Adv
+v14 οὐκ|ouk|...|G3756|Adv
 v14 ἐπίστευσαν|episteusan|in whom they have not believed|G4100|V-AIA-3P
 v14 πῶς|pōs|how|G4459|Adv
 v14 δὲ|de|And|G1161|Conj
 v14 πιστεύσωσιν|pisteusōsin|can they believe in [the One]|G4100|V-ASA-3P
 v14 οὗ|hou|of whom|G3739|RelPro-GMS
-v14 οὐκ|ouk|vvv|G3756|Adv
+v14 οὐκ|ouk|...|G3756|Adv
 v14 ἤκουσαν|ēkousan|they have not heard|G191|V-AIA-3P
 v14 πῶς|pōs|how|G4459|Adv
 v14 δὲ|de|And|G1161|Conj
@@ -265,7 +265,7 @@ v17 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v18 Ἀλλὰ|Alla|But|G235|Conj
 v18 λέγω|legō|I ask|G3004|V-PIA-1S
 v18 μὴ|mē|...|G3361|Adv
-v18 οὐκ|ouk|vvv|G3756|Adv
+v18 οὐκ|ouk|...|G3756|Adv
 v18 ἤκουσαν|ēkousan|did they not hear|G191|V-AIA-3P
 v18 μενοῦνγε|menounge|Indeed [they did]|G3304|Prtcl
 v18 Εἰς|Eis|into|G1519|Prep
@@ -314,13 +314,13 @@ v20 Εὑρέθην|Heurethēn|I was found|G2147|V-AIP-1S
 v20 ‹ἐν›|en|by|G1722|Prep
 v20 τοῖς|tois|those who|G3588|Art-DMP
 v20 ἐμὲ|eme|Me|G1473|PPro-A1S
-v20 μὴ|mē|vvv|G3361|Adv
+v20 μὴ|mē|...|G3361|Adv
 v20 ζητοῦσιν|zētousin|did not seek|G2212|V-PPA-DMP
 v20 ἐμφανὴς|emphanēs|I revealed Myself|G1717|Adj-NMS
-v20 ἐγενόμην|egenomēn|vvv|G1096|V-AIM-1S
+v20 ἐγενόμην|egenomēn|...|G1096|V-AIM-1S
 v20 τοῖς|tois|to those who|G3588|Art-DMP
 v20 ἐμὲ|eme|Me|G1473|PPro-A1S
-v20 μὴ|mē|vvv|G3361|Adv
+v20 μὴ|mē|...|G3361|Adv
 v20 ἐπερωτῶσιν|eperōtōsin|did not ask for|G1905|V-PPA-DMP
 v21 Πρὸς|Pros|as for|G4314|Prep
 v21 δὲ|de|But|G1161|Conj

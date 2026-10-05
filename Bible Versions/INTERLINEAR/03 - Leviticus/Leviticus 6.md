@@ -98,14 +98,14 @@ v7 הַכֹּהֵ֛ן|hak·kō·hên|In this way the priest|H3548|Art | N-ms
 v7 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v7 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v7 וְנִסְלַ֣ח|wə·nis·laḥ|and he will be forgiven|H5545|Conj-w | V-Nifal-ConjPerf-3ms
-v7 ל֑וֹ|lōw||H0|Prep | 3ms
+v7 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v7 עַל־|‘al-|for|H5921|Prep
 v7 אַחַ֛ת|’a·ḥaṯ|anything|H259|Number-fs
 v7 מִכֹּ֥ל|mik·kōl|...|H3605|Prep-m | N-ms
 v7 אֲשֶֽׁר־|’ă·šer-|-|H834|Pro-r
 v7 יַעֲשֶׂ֖ה|ya·‘ă·śeh|he may have done|H6213|V-Qal-Imperf-3ms
 v7 לְאַשְׁמָ֥ה|lə·’aš·māh|to incur guilt|H819|Prep-l | N-fs
-v7 בָֽהּ׃פ|ḇāh||H0|Prep | 3fs
+v7 בָֽהּ׃|ḇāh|-|H0|Prep | 3fs
 v8 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v8 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v8 אֶל־|’el-|to|H413|Prep
@@ -133,7 +133,7 @@ v9 הַבֹּ֔קֶר|hab·bō·qer|morning|H1242|Art | N-ms
 v9 וְאֵ֥שׁ|wə·’êš|and the fire|H784|Conj-w | N-csc
 v9 הַמִּזְבֵּ֖חַ|ham·miz·bê·aḥ|on the altar|H4196|Art | N-ms
 v9 תּ֥וּקַד|tū·qaḏ|must be kept burning|H3344|V-Hofal-Imperf-3fs
-v9 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v9 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v10 וְלָבַ֨שׁ|wə·lā·ḇaš|shall put on|H3847|Conj-w | V-Qal-ConjPerf-3ms
 v10 הַכֹּהֵ֜ן|hak·kō·hên|And the priest|H3548|Art | N-ms
 v10 מִדּ֣וֹ|mid·dōw|robe|H4055|N-msc | 3ms
@@ -175,7 +175,7 @@ v12 וְהָאֵ֨שׁ|wə·hā·’êš|The fire|H784|Conj-w, Art | N-cs
 v12 עַל־|‘al-|on|H5921|Prep
 v12 הַמִּזְבֵּ֤חַ|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
 v12 תּֽוּקַד־|tū·qaḏ-|shall be kept burning|H3344|V-Hofal-Imperf-3fs
-v12 בּוֹ֙|bōw||H0|Prep | 3ms
+v12 בּוֹ֙|bōw|-|H0|Prep | 3ms
 v12 לֹ֣א|lō|it must not|H3808|Adv-NegPrt
 v12 תִכְבֶּ֔ה|ṯiḵ·beh|be extinguished|H3518|V-Qal-Imperf-3fs
 v12 וּבִעֵ֨ר|ū·ḇi·‘êr|is to add|H1197|Conj-w | V-Piel-ConjPerf-3ms
@@ -197,7 +197,7 @@ v13 תּוּקַ֥ד|tū·qaḏ|shall be kept burning|H3344|V-Hofal-Imperf-3fs
 v13 עַל־|‘al-|on|H5921|Prep
 v13 הַמִּזְבֵּ֖חַ|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
 v13 לֹ֥א|lō|it must not|H3808|Adv-NegPrt
-v13 תִכְבֶֽה׃ס|ṯiḵ·ḇɛh|be extinguished|H3518|V-Qal-Imperf-3fs
+v13 תִכְבֶֽה׃|ṯiḵ·ḇɛh|be extinguished|H3518|V-Qal-Imperf-3fs
 v14 וְזֹ֥את|wə·zōṯ|Now this|H2063|Conj-w | Pro-fs
 v14 תּוֹרַ֖ת|tō·w·raṯ|is the law|H8451|N-fsc
 v14 הַמִּנְחָ֑ה|ham·min·ḥāh|of the grain offering|H4503|Art | N-fs
@@ -219,8 +219,8 @@ v15 וּמִשַּׁמְנָ֔הּ|ū·miš·šam·nāh|and olive oil|H8081|Conj
 v15 וְאֵת֙|wə·’êṯ|-|H853|Conj-w | DirObjM
 v15 כָּל־|kāl-|together with all|H3605|N-msc
 v15 הַלְּבֹנָ֔ה|hal·lə·ḇō·nāh|the frankincense|H3828|Art | N-fs
-v15 אֲשֶׁ֖ר|’ă·šer||H834|Pro-r
-v15 עַל־|‘al-||H5921|Prep
+v15 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
+v15 עַל־|‘al-|-|H5921|Prep
 v15 הַמִּנְחָ֑ה|ham·min·ḥāh|from the grain offering|H4503|Art | N-fs
 v15 וְהִקְטִ֣יר|wə·hiq·ṭîr|and burn|H6999|Conj-w | V-Hifil-ConjPerf-3ms
 v15 הַמִּזְבֵּ֗חַ|ham·miz·bê·aḥ|on the altar|H4196|Art | N-ms
@@ -229,7 +229,7 @@ v15 נִיחֹ֛חַ|nî·ḥō·aḥ|as a pleasing|H5207|N-ms
 v15 אַזְכָּרָתָ֖הּ|’az·kā·rā·ṯāh|the memorial portion|H234|N-fsc | 3fs
 v15 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v16 וְהַנּוֹתֶ֣רֶת|wə·han·nō·w·ṯe·reṯ|the remainder|H3498|Conj-w, Art | V-Nifal-Prtcpl-fs
-v16 מִמֶּ֔נָּה|mim·men·nāh||H4480|Prep | 3fs
+v16 מִמֶּ֔נָּה|mim·men·nāh|-|H4480|Prep | 3fs
 v16 יֹאכְל֖וּ|yō·ḵə·lū|are to eat|H398|V-Qal-Imperf-3mp
 v16 אַהֲרֹ֣ן|’a·hă·rōn|Aaron|H175|N-proper-ms
 v16 וּבָנָ֑יו|ū·ḇā·nāw|and his sons|H1121|Conj-w | N-mpc | 3ms
@@ -267,7 +267,7 @@ v18 כֹּ֛ל|kōl|Anything|H3605|N-ms
 v18 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v18 יִגַּ֥ע|yig·ga‘|touches|H5060|V-Qal-Imperf-3ms
 v18 בָּהֶ֖ם|bā·hem|them|H0|Prep | 3mp
-v18 יִקְדָּֽשׁ׃פ|yiq·dāš|will become holy|H6942|V-Qal-Imperf-3ms
+v18 יִקְדָּֽשׁ׃|yiq·dāš|will become holy|H6942|V-Qal-Imperf-3ms
 v19 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v19 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v19 אֶל־|’el-|to|H413|Prep
@@ -322,7 +322,7 @@ v23 כֹּהֵ֛ן|kō·hên|for a priest|H3548|N-ms
 v23 כָּלִ֥יל|kā·lîl|completely|H3632|N-ms
 v23 תִּהְיֶ֖ה|tih·yeh|shall be burned|H1961|V-Qal-Imperf-3fs
 v23 לֹ֥א|lō|it is not|H3808|Adv-NegPrt
-v23 תֵאָכֵֽל׃פ|ṯê·’ā·ḵêl|to be eaten|H398|V-Nifal-Imperf-3fs
+v23 תֵאָכֵֽל׃|ṯê·’ā·ḵêl|to be eaten|H398|V-Nifal-Imperf-3fs
 v24 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v24 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v24 אֶל־|’el-|to|H413|Prep
@@ -378,7 +378,7 @@ v28 וּכְלִי־|ū·ḵə·lî-|pot|H3627|Conj-w | N-msc
 v28 חֶ֛רֶשׂ|ḥe·reś|The clay|H2789|N-ms
 v28 אֲשֶׁ֥ר|’ă·šer|in which|H834|Pro-r
 v28 תְּבֻשַּׁל־|tə·ḇuš·šal-|[the sin offering] is boiled|H1310|V-Pual-Imperf-3fs
-v28 בּ֖וֹ|bōw||H0|Prep | 3ms
+v28 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v28 יִשָּׁבֵ֑ר|yiš·šā·ḇêr|must be broken|H7665|V-Nifal-Imperf-3ms
 v28 וְאִם־|wə·’im-|if|H518|Conj
 v28 בִּכְלִ֤י|biḵ·lî|pot|H3627|Prep-b | N-msc
@@ -408,4 +408,4 @@ v30 בַּקֹּ֖דֶשׁ|baq·qō·ḏeš|in the Holy Place|H6944|Prep-b, Art 
 v30 לֹ֣א|lō|But no|H3808|Adv-NegPrt
 v30 תֵאָכֵ֑ל|ṯê·’ā·ḵêl|may be eaten|H398|V-Nifal-Imperf-3fs
 v30 בָּאֵ֖שׁ|bā·’êš|...|H784|Prep-b, Art | N-cs
-v30 תִּשָּׂרֵֽף׃פ|tiś·śā·rêp̄|it must be burned|H8313|V-Nifal-Imperf-3fs
+v30 תִּשָּׂרֵֽף׃|tiś·śā·rêp̄|it must be burned|H8313|V-Nifal-Imperf-3fs

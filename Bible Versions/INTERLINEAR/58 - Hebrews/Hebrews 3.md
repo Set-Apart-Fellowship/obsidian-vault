@@ -65,7 +65,7 @@ v5 οἴκῳ|oikō|house|G3624|N-DMS
 v5 αὐτοῦ|autou|[God's]|G846|PPro-GM3S
 v5 ὡς|hōs|as|G5613|Adv
 v5 θεράπων|therapōn|a servant|G2324|N-NMS
-v5 εἰς|eis|vvv|G1519|Prep
+v5 εἰς|eis|...|G1519|Prep
 v5 μαρτύριον|martyrion|testifying|G3142|N-ANS
 v5 τῶν|tōn|to what|G3588|Art-GNP
 v5 λαληθησομένων|lalēthēsomenōn|would be spoken later|G2980|V-FPP-GNP
@@ -147,7 +147,7 @@ v10 τῇ|tē|-|G3588|Art-DFS
 v10 καρδίᾳ|kardia|hearts|G2588|N-DFS
 v10 αὐτοὶ|autoi|Their|G846|PPro-NM3P
 v10 δὲ|de|and|G1161|Conj
-v10 οὐκ|ouk|vvv|G3756|Adv
+v10 οὐκ|ouk|...|G3756|Adv
 v10 ἔγνωσαν|egnōsan|they have not known|G1097|V-AIA-3P
 v10 τὰς|tas|-|G3588|Art-AFP
 v10 ὁδούς|hodous|ways|G3598|N-AFP
@@ -158,7 +158,7 @@ v11 ἐν|en|in|G1722|Prep
 v11 τῇ|tē|-|G3588|Art-DFS
 v11 ὀργῇ|orgē|anger|G3709|N-DFS
 v11 μου|mou|My|G1473|PPro-G1S
-v11 Εἰ|Ei|vvv|G1487|Conj
+v11 Εἰ|Ei|...|G1487|Conj
 v11 εἰσελεύσονται|eiseleusontai|They shall never enter|G1525|V-FIM-3P
 v11 εἰς|eis|...|G1519|Prep
 v11 τὴν|tēn|-|G3588|Art-AFS
@@ -166,7 +166,7 @@ v11 κατάπαυσίν|katapausin|rest|G2663|N-AFS
 v11 μου|mou|My|G1473|PPro-G1S
 v12 Βλέπετε|Blepete|See to it|G991|V-PMA-2P
 v12 ἀδελφοί|adelphoi|brothers|G80|N-VMP
-v12 μή‿|mē|vvv|G3361|Adv
+v12 μή‿|mē|...|G3361|Adv
 v12 ποτε|pote|[that]|G4219|Conj
 v12 ἔσται|estai|has|G1510|V-FIM-3S
 v12 ἔν|en|-|G1722|Prep
@@ -175,8 +175,8 @@ v12 ὑμῶν|hymōn|of you|G4771|PPro-G2P
 v12 καρδία|kardia|heart|G2588|N-NFS
 v12 πονηρὰ|ponēra|a wicked|G4190|Adj-NFS
 v12 ἀπιστίας|apistias|of unbelief|G570|N-GFS
-v12 ἐν|en|vvv|G1722|Prep
-v12 τῷ|tō|vvv|G3588|Art-DNS
+v12 ἐν|en|...|G1722|Prep
+v12 τῷ|tō|...|G3588|Art-DNS
 v12 ἀποστῆναι|apostēnai|that turns away|G868|V-ANA
 v12 ἀπὸ|apo|from|G575|Prep
 v12 Θεοῦ|Theou|God|G2316|N-GMS
@@ -185,7 +185,7 @@ v13 ἀλλὰ|alla|But|G235|Conj
 v13 παρακαλεῖτε|parakaleite|exhort|G3870|V-PMA-2P
 v13 ἑαυτοὺς|heautous|one another|G1438|RefPro-AM3P
 v13 καθ’|kath’|...|G2596|Prep
-v13 ἑκάστην|hekastēn|vvv|G1538|Adj-AFS
+v13 ἑκάστην|hekastēn|...|G1538|Adj-AFS
 v13 ἡμέραν|hēmeran|daily|G2250|N-AFS
 v13 ἄχρις|achris|as long as|G891|Prep
 v13 οὗ|hou|-|G3739|RelPro-GMS
@@ -193,7 +193,7 @@ v13 τὸ|to|-|G3588|Art-NNS
 v13 Σήμερον|Sēmeron|today|G4594|Adv
 v13 καλεῖται|kaleitai|it is called|G2564|V-PIM/P-3S
 v13 ἵνα|hina|so that|G2443|Conj
-v13 μὴ|mē|vvv|G3361|Adv
+v13 μὴ|mē|...|G3361|Adv
 v13 σκληρυνθῇ|sklērynthē|may be hardened|G4645|V-ASP-3S
 v13 τις|tis|none|G5100|IPro-NMS
 v13 ἐξ|ex|of|G1537|Prep
@@ -264,7 +264,7 @@ v17 ἐρήμῳ|erēmō|wilderness|G2048|Adj-DFS
 v18 τίσιν|tisin|to whom|G5101|IPro-DMP
 v18 δὲ|de|And|G1161|Conj
 v18 ὤμοσεν|ōmosen|did He swear [that they]|G3660|V-AIA-3S
-v18 μὴ|mē|vvv|G3361|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 εἰσελεύσεσθαι|eiseleusesthai|would never enter|G1525|V-FNM
 v18 εἰς|eis|...|G1519|Prep
 v18 τὴν|tēn|-|G3588|Art-AFS
@@ -277,7 +277,7 @@ v18 ἀπειθήσασιν|apeithēsasin|disobeyed|G544|V-APA-DMP
 v19 καὶ|kai|[So]|G2532|Conj
 v19 βλέπομεν|blepomen|we see|G991|V-PIA-1P
 v19 ὅτι|hoti|that [it was]|G3754|Conj
-v19 οὐκ|ouk|vvv|G3756|Adv
+v19 οὐκ|ouk|...|G3756|Adv
 v19 ἠδυνήθησαν|ēdynēthēsan|that they were unable|G1410|V-AIP-3P
 v19 εἰσελθεῖν|eiselthein|to enter|G1525|V-ANA
 v19 δι’|di’|because of|G1223|Prep

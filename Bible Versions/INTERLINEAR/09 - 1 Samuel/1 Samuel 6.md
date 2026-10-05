@@ -149,7 +149,7 @@ v9 אִם־|’im-|If|H518|Conj
 v9 דֶּ֨רֶךְ|de·reḵ|the road|H1870|N-csc
 v9 גְּבוּל֤וֹ|gə·ḇū·lōw|to its homeland|H1366|N-msc | 3ms
 v9 יַֽעֲלֶה֙|ya·‘ă·leh|it goes up|H5927|V-Qal-Imperf-3ms
-v9 בֵּ֣ית|bêṯ|vvv|H1053|Prep
+v9 בֵּ֣ית|bêṯ|...|H1053|Prep
 v9 שֶׁ֔מֶשׁ|še·meš|toward Beth-shemesh|H1053|N-proper-fs
 v9 ה֚וּא|hū|it is the LORD|H1931|Pro-3ms
 v9 עָ֣שָׂה|‘ā·śāh|who has brought|H6213|V-Qal-Perf-3ms
@@ -202,7 +202,7 @@ v12 הַפָּר֜וֹת|hap·pā·rō·wṯ|And the cows|H6510|Art | N-fp
 v12 בַּדֶּ֗רֶךְ|bad·de·reḵ|up the road|H1870|Prep-b, Art | N-cs
 v12 עַל־|‘al-|toward|H5921|Prep
 v12 דֶּ֙רֶךְ֙|de·reḵ|...|H1870|N-csc
-v12 בֵּ֣ית|bêṯ|vvv|H1053|Prep
+v12 בֵּ֣ית|bêṯ|...|H1053|Prep
 v12 שֶׁ֔מֶשׁ|še·meš|Beth-shemesh|H1053|N-proper-fs
 v12 בִּמְסִלָּ֣ה|bim·sil·lāh|highway|H4546|Prep-b | N-fs
 v12 אַחַ֗ת|’a·ḥaṯ|staying on that one|H259|Number-fs
@@ -219,9 +219,9 @@ v12 הֹלְכִ֣ים|hō·lə·ḵîm|followed|H1980|V-Qal-Prtcpl-mp
 v12 אַחֲרֵיהֶ֔ם|’a·ḥă·rê·hem|behind them|H310|Prep | 3mp
 v12 עַד־|‘aḏ-|to|H5704|Prep
 v12 גְּב֖וּל|gə·ḇūl|the border|H1366|N-msc
-v12 בֵּ֥ית|bêṯ|vvv|H1053|Prep
+v12 בֵּ֥ית|bêṯ|...|H1053|Prep
 v12 שָֽׁמֶשׁ׃|šā·meš|of Beth-shemesh|H1053|N-proper-fs
-v13 וּבֵ֣ית|ū·ḇêṯ|vvv|H1053|
+v13 וּבֵ֣ית|ū·ḇêṯ|...|H1053|
 v13 שֶׁ֔מֶשׁ|še·meš|Now [the people of] Beth-shemesh|H1053|Conj-w | N-proper-fs
 v13 קֹצְרִ֥ים|qō·ṣə·rîm|were harvesting|H7114|V-Qal-Prtcpl-mp
 v13 קְצִיר־|qə·ṣîr-|...|H7105|N-msc
@@ -240,7 +240,7 @@ v14 בָּ֠אָה|bā·’āh|came|H935|V-Qal-Perf-3fs
 v14 אֶל־|’el-|to|H413|Prep
 v14 שְׂדֵ֨ה|śə·ḏêh|the field|H7704|N-msc
 v14 יְהוֹשֻׁ֤עַ|yə·hō·wō·šu·a‘|of Joshua|H3091|N-proper-ms
-v14 בֵּֽית־|bêṯ-|vvv|H1030|Prep
+v14 בֵּֽית־|bêṯ-|...|H1030|Prep
 v14 הַשִּׁמְשִׁי֙|haš·šim·šî|of Beth-shemesh|H1030|N-proper-fs
 v14 וַתַּעֲמֹ֣ד|wat·ta·‘ă·mōḏ|and stopped|H5975|Conj-w | V-Qal-ConsecImperf-3fs
 v14 שָׁ֔ם|šām|there|H8033|Adv
@@ -255,7 +255,7 @@ v14 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v14 הַ֨פָּר֔וֹת|hap·pā·rō·wṯ|the cows|H6510|Art | N-fp
 v14 הֶעֱל֥וּ|he·‘ĕ·lū|and offered|H5927|V-Hifil-Perf-3cp
 v14 עֹלָ֖ה|‘ō·lāh|as a burnt offering|H5930|N-fs
-v14 לַיהוָֽה׃ס|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v14 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v15 וְהַלְוִיִּ֞ם|wə·hal·wî·yim|And the Levites|H3881|Conj-w, Art | N-proper-ms
 v15 הוֹרִ֣ידוּ׀|hō·w·rî·ḏū|took down|H3381|V-Hifil-Perf-3cp
 v15 אֶת־|’eṯ-|-|H853|DirObjM
@@ -274,7 +274,7 @@ v15 אֶל־|’el-|on|H413|Prep
 v15 הָאֶ֣בֶן|hā·’e·ḇen|rock|H68|Art | N-fs
 v15 הַגְּדוֹלָ֑ה|hag·gə·ḏō·w·lāh|the large|H1419|Art | Adj-fs
 v15 וְאַנְשֵׁ֣י|wə·’an·šê|the men|H582|Conj-w | N-mpc
-v15 בֵֽית־|ḇêṯ-|vvv|H1053|Prep
+v15 בֵֽית־|ḇêṯ-|...|H1053|Prep
 v15 שֶׁ֗מֶשׁ|še·meš|of Beth-shemesh|H1053|N-proper-fs
 v15 הֶעֱל֨וּ|he·‘ĕ·lū|offered|H5927|V-Hifil-Perf-3cp
 v15 עֹל֜וֹת|‘ō·lō·wṯ|burnt offerings|H5930|N-fp
@@ -290,7 +290,7 @@ v16 רָא֑וּ|rā·’ū|saw [this]|H7200|V-Qal-Perf-3cp
 v16 וַיָּשֻׁ֥בוּ|way·yā·šu·ḇū|they returned|H7725|Conj-w | V-Qal-ConsecImperf-3mp
 v16 עֶקְר֖וֹן|‘eq·rō·wn|to Ekron|H6138|N-proper-fs
 v16 בַּיּ֥וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
-v16 הַהֽוּא׃ס|ha·hū|that same|H1931|Art | Pro-3ms
+v16 הַהֽוּא׃|ha·hū|that same|H1931|Art | Pro-3ms
 v17 וְאֵ֙לֶּה֙|wə·’êl·leh|-|H428|Conj-w | Pro-cp
 v17 טְחֹרֵ֣י|ṭə·ḥō·rê|tumor [for each city]|H2914|N-mpc
 v17 הַזָּהָ֔ב|haz·zā·hāḇ|gold|H2091|Art | N-ms
@@ -308,7 +308,7 @@ v17 אֶחָ֔ד|’e·ḥāḏ|...|H259|Number-ms
 v17 לְגַ֥ת|lə·ḡaṯ|Gath|H1661|Prep-l | N-proper-fs
 v17 אֶחָ֖ד|’e·ḥāḏ|...|H259|Number-ms
 v17 לְעֶקְר֥וֹן|lə·‘eq·rō·wn|and Ekron|H6138|Prep-l | N-proper-fs
-v17 אֶחָֽד׃ס|’e·ḥāḏ|...|H259|Number-ms
+v17 אֶחָֽד׃|’e·ḥāḏ|...|H259|Number-ms
 v18 וְעַכְבְּרֵ֣י|wə·‘aḵ·bə·rê|rats|H5909|Conj-w | N-mpc
 v18 הַזָּהָ֗ב|haz·zā·hāḇ|The number of gold|H2091|Art | N-ms
 v18 מִסְפַּ֞ר|mis·par|also corresponded to the number|H4557|N-msc
@@ -336,7 +336,7 @@ v18 הַיּ֣וֹם|hay·yō·wm|day|H3117|Art | N-ms
 v18 הַזֶּ֔ה|haz·zeh|this|H2088|Art | Pro-ms
 v18 בִּשְׂדֵ֥ה|biś·ḏêh|in the field|H7704|Prep-b | N-msc
 v18 יְהוֹשֻׁ֖עַ|yə·hō·wō·šu·a‘|of Joshua|H3091|N-proper-ms
-v18 בֵּֽית־|bêṯ-|vvv|H1030|Prep
+v18 בֵּֽית־|bêṯ-|...|H1030|Prep
 v18 הַשִּׁמְשִֽׁי׃|haš·šim·šî|of Beth-shemesh|H1030|N-proper-fs
 v19 וַיַּ֞ךְ|way·yaḵ|But God struck down|H5221|Conj-w | V-Hifil-ConsecImperf-3ms
 v19 בְּאַנְשֵׁ֣י|bə·’an·šê|...|H582|Prep-b | N-mpc
@@ -363,7 +363,7 @@ v19 מַכָּ֥ה|mak·kāh|slaughter|H4347|N-fs
 v19 גְדוֹלָֽה|ḡə·ḏō·lå̄h|with a great|H1419|Adj-fs
 v20 וַיֹּֽאמְרוּ֙|way·yō·mə·rū|asked|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v20 אַנְשֵׁ֣י|’an·šê|The men|H582|N-mpc
-v20 בֵֽית־|ḇêṯ-|vvv|H1053|Prep
+v20 בֵֽית־|ḇêṯ-|...|H1053|Prep
 v20 שֶׁ֔מֶשׁ|še·meš|of Beth-shemesh|H1053|N-proper-fs
 v20 מִ֚י|mî|Who|H4310|Interrog
 v20 יוּכַ֣ל|yū·ḵal|can|H3201|V-Qal-Imperf-3ms
@@ -376,12 +376,12 @@ v20 הַזֶּ֑ה|haz·zeh|this|H2088|Art | Pro-ms
 v20 וְאֶל־|wə·’el-|To|H413|Conj-w | Prep
 v20 מִ֖י|mî|whom|H4310|Interrog
 v20 יַעֲלֶ֥ה|ya·‘ă·leh|should the ark go up|H5927|V-Qal-Imperf-3ms
-v20 מֵעָלֵֽינוּ׃ס|mê·‘ā·lê·nū|from here|H5921|Prep-m | 1cp
+v20 מֵעָלֵֽינוּ׃|mê·‘ā·lê·nū|from here|H5921|Prep-m | 1cp
 v21 וַֽיִּשְׁלְחוּ֙|way·yiš·lə·ḥū|So they sent|H7971|Conj-w | V-Qal-ConsecImperf-3mp
 v21 מַלְאָכִ֔ים|mal·’ā·ḵîm|messengers|H4397|N-mp
 v21 אֶל־|’el-|to|H413|Prep
 v21 יוֹשְׁבֵ֥י|yō·wō·šə·ḇê|the people|H3427|V-Qal-Prtcpl-mpc
-v21 קִרְיַת־|qir·yaṯ-|vvv|H7157|
+v21 קִרְיַת־|qir·yaṯ-|...|H7157|
 v21 יְעָרִ֖ים|yə·‘ā·rîm|of Kiriath-jearim|H7157|N-proper-fs
 v21 לֵאמֹ֑ר|lê·mōr|saying|H559|Prep-l | V-Qal-Inf
 v21 הֵשִׁ֤בוּ|hê·ši·ḇū|have returned|H7725|V-Hifil-Perf-3cp

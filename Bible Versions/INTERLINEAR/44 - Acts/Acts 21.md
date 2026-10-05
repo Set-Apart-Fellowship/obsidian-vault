@@ -1,6 +1,6 @@
 v1 Ὡς|Hōs|After|G5613|Adv
-v1 δὲ|de|vvv|G1161|Conj
-v1 ἐγένετο|egeneto|vvv|G1096|V-AIM-3S
+v1 δὲ|de|...|G1161|Conj
+v1 ἐγένετο|egeneto|...|G1096|V-AIM-3S
 v1 ἀναχθῆναι|anachthēnai|sailed|G321|V-ANP
 v1 ἡμᾶς|hēmas|we|G1473|PPro-A1P
 v1 ἀποσπασθέντας|apospasthentas|we had torn ourselves away|G645|V-APP-AMP
@@ -86,7 +86,7 @@ v5 σὺν|syn|with|G4862|Prep
 v5 γυναιξὶ|gynaixi|[their] wives|G1135|N-DFP
 v5 καὶ|kai|and|G2532|Conj
 v5 τέκνοις|teknois|children|G5043|N-DNP
-v5 ἕως|heōs|vvv|G2193|Prep
+v5 ἕως|heōs|...|G2193|Prep
 v5 ἔξω|exō|out of|G1854|Prep
 v5 τῆς|tēs|the|G3588|Art-GFS
 v5 πόλεως|poleōs|city|G4172|N-GFS
@@ -108,8 +108,8 @@ v6 πλοῖον|ploion|ship|G4143|N-ANS
 v6 ἐκεῖνοι|ekeinoi|they|G1565|DPro-NMP
 v6 δὲ|de|and|G1161|Conj
 v6 ὑπέστρεψαν|hypestrepsan|returned|G5290|V-AIA-3P
-v6 εἰς|eis|vvv|G1519|Prep
-v6 τὰ|ta|vvv|G3588|Art-ANP
+v6 εἰς|eis|...|G1519|Prep
+v6 τὰ|ta|...|G3588|Art-ANP
 v6 ἴδια|idia|home|G2398|Adj-ANP
 v7 Ἡμεῖς|Hēmeis|we|G1473|PPro-N1P
 v7 δὲ|de|[When]|G1161|Conj
@@ -138,7 +138,7 @@ v8 ἤλθομεν|ēlthomen|we went on|G2064|V-AIA-1P
 v8 εἰς|eis|to|G1519|Prep
 v8 Καισάρειαν|Kaisareian|Caesarea|G2542|N-AFS
 v8 καὶ|kai|and|G2532|Conj
-v8 εἰσελθόντες|eiselthontes|vvv|G1525|V-APA-NMP
+v8 εἰσελθόντες|eiselthontes|...|G1525|V-APA-NMP
 v8 εἰς|eis|at|G1519|Prep
 v8 τὸν|ton|the|G3588|Art-AMS
 v8 οἶκον|oikon|home|G3624|N-AMS
@@ -259,13 +259,13 @@ v13 ὀνόματος|onomatos|name|G3686|N-GNS
 v13 τοῦ|tou|of the|G3588|Art-GMS
 v13 Κυρίου|Kyriou|Lord|G2962|N-GMS
 v13 Ἰησοῦ|Iēsou|Jesus|G2424|N-GMS
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 πειθομένου|peithomenou|would not be dissuaded|G3982|V-PPM/P-GMS
 v14 δὲ|de|[When]|G1161|Conj
 v14 αὐτοῦ|autou|he|G846|PPro-GM3S
 v14 ἡσυχάσαμεν|hēsychasamen|we quieted down|G2270|V-AIA-1P
 v14 εἰπόντες|eipontes|[and] said|G2036|V-APA-NMP
-v14 Τοῦ|Tou|vvv|G3588|Art-GMS
+v14 Τοῦ|Tou|...|G3588|Art-GMS
 v14 Κυρίου|Kyriou|Lord's|G2962|N-GMS
 v14 τὸ|to|The|G3588|Art-NNS
 v14 θέλημα|thelēma|will|G2307|N-NNS
@@ -289,8 +289,8 @@ v16 Καισαρείας|Kaisareias|Caesarea|G2542|N-GFS
 v16 σὺν|syn|...|G4862|Prep
 v16 ἡμῖν|hēmin|us|G1473|PPro-D1P
 v16 ἄγοντες|agontes|[and] they took us|G71|V-PPA-NMP
-v16 παρ’|par’|vvv|G3844|Prep
-v16 ᾧ|hō|vvv|G3739|RelPro-DMS
+v16 παρ’|par’|...|G3844|Prep
+v16 ᾧ|hō|...|G3739|RelPro-DMS
 v16 ξενισθῶμεν|xenisthōmen|to stay at the home|G3579|V-ASP-1P
 v16 Μνάσωνί|Mnasōni|of Mnason|G3416|N-DMS
 v16 τινι|tini|-|G5100|IPro-DMS
@@ -393,11 +393,11 @@ v21 περιπατεῖν|peripatein|observe|G4043|V-PNA
 v22 τί|ti|What|G5101|IPro-NNS
 v22 οὖν|oun|then|G3767|Conj
 v22 ἐστιν|estin|should [we do]|G1510|V-PIA-3S
-v22 πάντως|pantōs|vvv|G3843|Adv
+v22 πάντως|pantōs|...|G3843|Adv
 v22 ἀκούσονται|akousontai|They will certainly hear|G191|V-FIM-3P
 v22 ὅτι|hoti|that|G3754|Conj
 v22 ἐλήλυθας|elēlythas|you have come|G2064|V-RIA-2S
-v23 Τοῦτο|Touto|vvv|G3778|DPro-ANS
+v23 Τοῦτο|Touto|...|G3778|DPro-ANS
 v23 οὖν|oun|Therefore|G3767|Conj
 v23 ποίησον|poiēson|do|G4160|V-AMA-2S
 v23 ὅ|ho|what|G3739|RelPro-ANS
@@ -409,8 +409,8 @@ v23 ἄνδρες|andres|men|G435|N-NMP
 v23 τέσσαρες|tessares|four|G5064|Adj-NMP
 v23 εὐχὴν|euchēn|a vow|G2171|N-AFS
 v23 ἔχοντες|echontes|who have taken|G2192|V-PPA-NMP
-v23 ἐφ’|eph’|vvv|G1909|Prep
-v23 ἑαυτῶν|heautōn|vvv|G1438|RefPro-GM3P
+v23 ἐφ’|eph’|...|G1909|Prep
+v23 ἑαυτῶν|heautōn|...|G1438|RefPro-GM3P
 v24 τούτους|toutous|these [men]|G3778|DPro-AMP
 v24 παραλαβὼν|paralabōn|Take|G3880|V-APA-NMS
 v24 ἁγνίσθητι|hagnisthēti|purify yourself|G48|V-AMP-2S
@@ -581,7 +581,7 @@ v30 ἡ|hē|The|G3588|Art-NFS
 v30 πόλις|polis|city|G4172|N-NFS
 v30 ὅλη|holē|whole|G3650|Adj-NFS
 v30 καὶ|kai|and|G2532|Conj
-v30 ἐγένετο|egeneto|vvv|G1096|V-AIM-3S
+v30 ἐγένετο|egeneto|...|G1096|V-AIM-3S
 v30 συνδρομὴ|syndromē|rushed together|G4890|N-NFS
 v30 τοῦ|tou|the|G3588|Art-GMS
 v30 λαοῦ|laou|people|G2992|N-GMS
@@ -651,7 +651,7 @@ v33 τίς|tis|who|G5101|IPro-NMS
 v33 εἴη|eiē|he was|G1510|V-POA-3S
 v33 καὶ|kai|and|G2532|Conj
 v33 τί|ti|what|G5101|IPro-ANS
-v33 ἐστιν|estin|vvv|G1510|V-PIA-3S
+v33 ἐστιν|estin|...|G1510|V-PIA-3S
 v33 πεποιηκώς|pepoiēkōs|he had done|G4160|V-RPA-NMS
 v34 Ἄλλοι|Alloi|[some]|G243|Adj-NMP
 v34 δὲ|de|[and]|G1161|Conj
@@ -661,7 +661,7 @@ v34 ἐπεφώνουν|epephōnoun|were shouting|G2019|V-IIA-3P
 v34 ἐν|en|[Some] in|G1722|Prep
 v34 τῷ|tō|the|G3588|Art-DMS
 v34 ὄχλῳ|ochlō|crowd|G3793|N-DMS
-v34 μὴ|mē|vvv|G3361|Adv
+v34 μὴ|mē|...|G3361|Adv
 v34 δυναμένου|dynamenou|could not|G1410|V-PPM/P-GMS
 v34 δὲ|de|And [since]|G1161|Conj
 v34 αὐτοῦ|autou|[the commander]|G846|PPro-GM3S
@@ -714,7 +714,7 @@ v37 Παῦλος|Paulos|Paul|G3972|N-NMS
 v37 λέγει|legei|he asked|G3004|V-PIA-3S
 v37 τῷ|tō|the|G3588|Art-DMS
 v37 χιλιάρχῳ|chiliarchō|commander|G5506|N-DMS
-v37 Εἰ|Ei|vvv|G1487|Conj
+v37 Εἰ|Ei|...|G1487|Conj
 v37 ἔξεστίν|exestin|May|G1832|V-PIA-3S
 v37 μοι|moi|I|G1473|PPro-D1S
 v37 εἰπεῖν|eipein|say|G2036|V-ANA
@@ -775,7 +775,7 @@ v39 τὸν|ton|the|G3588|Art-AMS
 v39 λαόν|laon|people|G2992|N-AMS
 v40 ἐπιτρέψαντος|epitrepsantos|Having received permission|G2010|V-APA-GMS
 v40 δὲ|de|-|G1161|Conj
-v40 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v40 αὐτοῦ|autou|...|G846|PPro-GM3S
 v40 ὁ|ho|-|G3588|Art-NMS
 v40 Παῦλος|Paulos|Paul|G3972|N-NMS
 v40 ἑστὼς|hestōs|stood|G2476|V-RPA-NMS

@@ -147,7 +147,7 @@ v21 תֵּ֣פֶן|tê·p̄en|to turn|H6437|V-Qal-Imperf.Jus-2ms
 v21 אֶל־|’el-|to|H413|Prep
 v21 אָ֑וֶן|’ā·wen|iniquity|H205|N-ms
 v21 כִּֽי־|kî-|for|H3588|Conj
-v21 עַל־|‘al-||H5921|Prep
+v21 עַל־|‘al-|-|H5921|Prep
 v21 זֶ֝֗ה|zeh|this|H2088|Pro-ms
 v21 בָּחַ֥רְתָּ|bā·ḥar·tā|you have preferred|H977|V-Qal-Perf-2ms
 v21 מֵעֹֽנִי׃|mê·‘ō·nî|to affliction|H6040|Prep-m | N-ms
@@ -167,7 +167,7 @@ v23 אָ֝מַ֗ר|’ā·mar|told Him|H559|V-Qal-Perf-3ms
 v23 פָּעַ֥לְתָּ|pā·‘al·tā|You have done|H6466|V-Qal-Perf-2ms
 v23 עַוְלָֽה׃|‘aw·lāh|wrong|H5766|N-fs
 v24 זְ֭כֹר|zə·ḵōr|Remember|H2142|V-Qal-Imp-ms
-v24 כִּֽי־|kî-||H3588|Conj
+v24 כִּֽי־|kî-|-|H3588|Conj
 v24 תַשְׂגִּ֣יא|ṯaś·gî|to magnify|H7679|V-Hifil-Imperf-2ms
 v24 פָעֳל֑וֹ|p̄ā·‘o·lōw|His work|H6467|N-msc | 3ms
 v24 אֲשֶׁ֖ר|’ă·šer|which|H834|Pro-r

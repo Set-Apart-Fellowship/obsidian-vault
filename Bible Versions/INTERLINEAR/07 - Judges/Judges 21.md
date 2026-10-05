@@ -12,7 +12,7 @@ v1 לְבִנְיָמִ֖ן|lə·ḇin·yā·min|to a Benjamite|H1144|Prep-l | N
 v1 לְאִשָּֽׁה׃|lə·’iš·šāh|...|H802|Prep-l | N-fs
 v2 וַיָּבֹ֤א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v2 הָעָם֙|hā·‘ām|So the people|H5971|Art | N-ms
-v2 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v2 בֵּֽית־|bêṯ-|...|H1008|Prep
 v2 אֵ֔ל|’êl|to Bethel|H1008|N-proper-fs
 v2 וַיֵּ֤שְׁבוּ|way·yê·šə·ḇū|and sat|H3427|Conj-w | V-Qal-ConsecImperf-3mp
 v2 שָׁם֙|šām|there|H8033|Adv
@@ -47,7 +47,7 @@ v4 שָׁ֖ם|šām|there|H8033|Adv
 v4 מִזְבֵּ֑חַ|miz·bê·aḥ|an altar|H4196|N-ms
 v4 וַיַּעֲל֥וּ|way·ya·‘ă·lū|and presented|H5927|Conj-w | V-Hifil-ConsecImperf-3mp
 v4 עֹל֖וֹת|‘ō·lō·wṯ|burnt offerings|H5930|N-fp
-v4 וּשְׁלָמִֽים׃פ|ū·šə·lā·mîm|and peace offerings|H8002|Conj-w | N-mp
+v4 וּשְׁלָמִֽים׃|ū·šə·lā·mîm|and peace offerings|H8002|Conj-w | N-mp
 v5 וַיֹּֽאמְרוּ֙|way·yō·mə·rū|asked|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v5 בְּנֵ֣י|bə·nê|The Israelites|H1121|N-mpc
 v5 יִשְׂרָאֵ֔ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -118,7 +118,7 @@ v8 אֶל־|’el-|to|H413|Prep
 v8 הַֽמַּחֲנֶ֛ה|ham·ma·ḥă·neh|the camp|H4264|Art | N-cs
 v8 מִיָּבֵ֥ישׁ|mî·yā·ḇêš|from Jabesh-gilead|H3003|N-proper-fs
 v8 גִּלְעָ֖ד|gil·‘āḏ|...|H1568|Prep | N-proper-fs
-v8 אֶל־|’el-||H413|Prep
+v8 אֶל־|’el-|-|H413|Prep
 v8 הַקָּהָֽל׃|haq·qā·hāl|for the assembly|H6951|Art | N-ms
 v9 וַיִּתְפָּקֵ֖ד|way·yiṯ·pā·qêḏ|were counted|H6485|Conj-w | V-Hitpael-ConsecImperf-3ms
 v9 הָעָ֑ם|hā·‘ām|For when the people|H5971|Art | N-ms
@@ -132,7 +132,7 @@ v9 גִּלְעָֽד׃|gil·‘āḏ|...|H1568|N-proper-fs
 v10 וַיִּשְׁלְחוּ־|way·yiš·lə·ḥū-|sent|H7971|Conj-w | V-Qal-ConsecImperf-3mp
 v10 שָׁ֣ם|šām|-|H8033|Adv
 v10 הָעֵדָ֗ה|hā·‘ê·ḏāh|So the congregation|H5712|Art | N-fs
-v10 שְׁנֵים־|šə·nêm-|12,000 {}|H8147|Number-md
+v10 שְׁנֵים־|šə·nêm-|12,000|H8147|Number-md
 v10 עָשָׂ֥ר|‘ā·śār|...|H6240|Number-ms
 v10 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v10 אִ֖ישׁ|’îš|men|H376|N-ms
@@ -147,7 +147,7 @@ v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 יוֹשְׁבֵ֨י|yō·wō·šə·ḇê|those living|H3427|V-Qal-Prtcpl-mpc
 v10 יָבֵ֤שׁ|yā·ḇêš|in Jabesh-gilead|H3003|N-proper-fs
 v10 גִּלְעָד֙|gil·‘āḏ|...|H1568|N-proper-fs
-v10 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v10 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v10 חֶ֔רֶב|ḥe·reḇ|to the sword|H2719|N-fs
 v10 וְהַנָּשִׁ֖ים|wə·han·nā·šîm|including women|H802|Conj-w, Art | N-fp
 v10 וְהַטָּֽף׃|wə·haṭ·ṭāp̄|and children|H2945|Conj-w, Art | N-ms
@@ -184,7 +184,7 @@ v12 הַֽמַּחֲנֶה֙|ham·ma·ḥă·neh|the camp|H4264|Art | N-cs
 v12 שִׁלֹ֔ה|ši·lōh|at Shiloh|H7887|N-proper-fs
 v12 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v12 בְּאֶ֥רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
-v12 כְּנָֽעַן׃ס|kə·nā·‘an|of Canaan|H3667|N-proper-ms
+v12 כְּנָֽעַן׃|kə·nā·‘an|of Canaan|H3667|N-proper-ms
 v13 וַֽיִּשְׁלְחוּ֙|way·yiš·lə·ḥū|sent|H7971|Conj-w | V-Qal-ConsecImperf-3mp
 v13 כָּל־|kāl-|Then the whole|H3605|N-msc
 v13 הָ֣עֵדָ֔ה|hā·‘ê·ḏāh|congregation|H5712|Art | N-fs
@@ -257,7 +257,7 @@ v18 לֵאמֹ֔ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v18 אָר֕וּר|’ā·rūr|Cursed is|H779|V-Qal-QalPassPrtcpl-ms
 v18 נֹתֵ֥ן|nō·ṯên|he who gives|H5414|V-Qal-Prtcpl-ms
 v18 אִשָּׁ֖ה|’iš·šāh|a wife|H802|N-fs
-v18 לְבִנְיָמִֽן׃ס|lə·ḇin·yā·min|to a Benjamite|H1144|Prep-l | N-proper-ms
+v18 לְבִנְיָמִֽן׃|lə·ḇin·yā·min|to a Benjamite|H1144|Prep-l | N-proper-ms
 v19 וַיֹּאמְר֡וּ|way·yō·mə·rū|they said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v19 הִנֵּה֩|hin·nêh|But look|H2009|Interjection
 v19 חַג־|ḥaḡ-|feast|H2282|N-msc
@@ -267,9 +267,9 @@ v19 מִיָּמִ֣ים׀|mî·yā·mîm|there is a yearly|H3117|Prep-m | N-mp
 v19 יָמִ֗ימָה|yā·mî·māh|...|H3117|N-mp | 3fs
 v19 אֲשֶׁ֞ר|’ă·šer|which [is]|H834|Pro-r
 v19 מִצְּפ֤וֹנָה|miṣ·ṣə·p̄ō·w·nāh|north|H6828|Prep-m | N-fs | 3fs
-v19 לְבֵֽית־|lə·ḇêṯ-|vvv|H1008|Prep
+v19 לְבֵֽית־|lə·ḇêṯ-|...|H1008|Prep
 v19 אֵל֙|’êl|of Bethel|H1008|Prep | N-proper-fs
-v19 מִזְרְחָ֣ה|miz·rə·ḥāh|vvv|H4217|N-ms | 3fs
+v19 מִזְרְחָ֣ה|miz·rə·ḥāh|...|H4217|N-ms | 3fs
 v19 הַשֶּׁ֔מֶשׁ|haš·še·meš|east|H8121|Art | N-cs
 v19 לִמְסִלָּ֔ה|lim·sil·lāh|of the road|H4546|Prep-l | N-fs
 v19 הָעֹלָ֥ה|hā·‘ō·lāh|that goes up|H5927|Art | V-Qal-Prtcpl-fs
@@ -330,7 +330,7 @@ v22 אַתֶּ֛ם|’at·tem|you|H859|Pro-2mp
 v22 נְתַתֶּ֥ם|nə·ṯat·tem|give them|H5414|V-Qal-Perf-2mp
 v22 לָהֶ֖ם|lā·hem|[your daughters]|H0|Prep | 3mp
 v22 כָּעֵ֥ת|kā·‘êṯ|actually|H6256|Prep-k, Art | N-cs
-v22 תֶּאְשָֽׁמוּ׃ס|te’·šā·mū|you have no guilt|H816|V-Qal-Imperf-2mp
+v22 תֶּאְשָֽׁמוּ׃|te’·šā·mū|you have no guilt|H816|V-Qal-Imperf-2mp
 v23 וַיַּֽעֲשׂוּ־|way·ya·‘ă·śū-|did|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v23 כֵן֙|ḵên|[as instructed]|H3651|Adv
 v23 בְּנֵ֣י|bə·nê|The Benjamites|H1121|N-mpc
@@ -353,7 +353,7 @@ v23 וַיֵּשְׁב֖וּ|way·yê·šə·ḇū|and settled|H3427|Conj-w | V-
 v23 בָּהֶֽם׃|bā·hem|in them|H0|Prep | 3mp
 v24 וַיִּתְהַלְּכ֨וּ|way·yiṯ·hal·lə·ḵū|returned|H1980|Conj-w | V-Hitpael-ConsecImperf-3mp
 v24 מִשָּׁ֤ם|miš·šām|from there|H8033|Prep-m | Adv
-v24 בְּנֵֽי־|bə·nê-|vvv|H1121|N-mpc
+v24 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v24 יִשְׂרָאֵל֙|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v24 בָּעֵ֣ת|bā·‘êṯ|time|H6256|Prep-b, Art | N-cs
 v24 הַהִ֔יא|ha·hî|And at that|H1931|Art | Pro-3fs

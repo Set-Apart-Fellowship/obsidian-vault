@@ -195,7 +195,7 @@ v14 אָדָם֙|’ā·ḏām|with men|H120|N-ms
 v14 כַּיֶּ֔לֶק|kay·ye·leq|as with locusts|H3218|Prep-k, Art | N-ms
 v14 וְעָנ֥וּ|wə·‘ā·nū|and they will shout in triumph|H6030|Conj-w | V-Qal-ConjPerf-3cp
 v14 עָלַ֖יִךְ|‘ā·la·yiḵ|over you|H5921|Prep | 2fs
-v14 הֵידָֽד׃ס|hê·ḏāḏ|...|H1959|N-ms
+v14 הֵידָֽד׃|hê·ḏāḏ|...|H1959|N-ms
 v15 עֹשֵׂ֥ה|‘ō·śêh|[The LORD] made|H6213|V-Qal-Prtcpl-msc
 v15 אֶ֙רֶץ֙|’e·reṣ|the earth|H776|N-fs
 v15 בְּכֹח֔וֹ|bə·ḵō·ḥōw|by His power|H3581|Prep-b | N-msc | 3ms
@@ -253,7 +253,7 @@ v19 וְשֵׁ֖בֶט|wə·šê·ḇeṭ|and of the tribe|H7626|Conj-w | N-msc
 v19 נַחֲלָת֑וֹ|na·ḥă·lā·ṯōw|of His inheritance|H5159|N-fsc | 3ms
 v19 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v19 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
-v19 שְׁמֽוֹ׃ס|šə·mōw|is His name|H8034|N-msc | 3ms
+v19 שְׁמֽוֹ׃|šə·mōw|is His name|H8034|N-msc | 3ms
 v20 מַפֵּץ־|map·pêṣ-|war club|H4661|N-ms
 v20 אַתָּ֣ה|’at·tāh|You [are]|H859|Pro-2ms
 v20 לִ֔י|lî|My|H0|Prep | 1cs
@@ -263,7 +263,7 @@ v20 וְנִפַּצְתִּ֤י|wə·nip·paṣ·tî|I shatter|H5310|Conj-w | V
 v20 בְךָ֙|ḇə·ḵā|With you|H0|Prep | 2ms
 v20 גּוֹיִ֔ם|gō·w·yim|nations|H1471|N-mp
 v20 וְהִשְׁחַתִּ֥י|wə·hiš·ḥat·tî|to ruin|H7843|Conj-w | V-Hifil-ConjPerf-1cs
-v20 בְךָ֖|ḇə·ḵā||H0|Prep | 2ms
+v20 בְךָ֖|ḇə·ḵā|-|H0|Prep | 2ms
 v20 מַמְלָכֽוֹת׃|mam·lā·ḵō·wṯ|with you I bring kingdoms|H4467|N-fp
 v21 וְנִפַּצְתִּ֣י|wə·nip·paṣ·tî|I shatter|H5310|Conj-w | V-Piel-ConjPerf-1cs
 v21 בְךָ֔|ḇə·ḵā|With you|H0|Prep | 2ms
@@ -310,7 +310,7 @@ v24 עָשׂ֥וּ|‘ā·śū|they have done|H6213|V-Qal-Perf-3cp
 v24 בְצִיּ֖וֹן|ḇə·ṣî·yō·wn|in Zion|H6726|Prep-b | N-proper-fs
 v24 לְעֵֽינֵיכֶ֑ם|lə·‘ê·nê·ḵem|Before your very eyes|H5869|Prep-l | N-cdc | 2mp
 v24 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
-v24 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v24 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v25 הִנְנִ֨י|hin·nî|Behold|H2005|Interjection | 1cs
 v25 אֵלֶ֜יךָ|’ê·le·ḵā|I am against you|H413|Prep | 2ms
 v25 הַ֤ר|har|mountain|H2022|N-msc
@@ -433,7 +433,7 @@ v32 שָׂרְפ֣וּ|śā·rə·p̄ū|set on fire|H8313|V-Qal-Perf-3cp
 v32 בָאֵ֑שׁ|ḇā·’êš|...|H784|Prep-b, Art | N-cs
 v32 וְאַנְשֵׁ֥י|wə·’an·šê|and the soldiers|H582|Conj-w | N-mpc
 v32 הַמִּלְחָמָ֖ה|ham·mil·ḥā·māh|...|H4421|Art | N-fs
-v32 נִבְהָֽלוּ׃ס|niḇ·hā·lū|are terrified|H926|V-Nifal-Perf-3cp
+v32 נִבְהָֽלוּ׃|niḇ·hā·lū|are terrified|H926|V-Nifal-Perf-3cp
 v33 כִּי֩|kî|For|H3588|Conj
 v33 כֹ֨ה|ḵōh|this is what|H3541|Adv
 v33 אָמַ֜ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -451,7 +451,7 @@ v33 מְעַ֔ט|mə·‘aṭ|...|H4592|Adj-ms
 v33 וּבָ֥אָה|ū·ḇā·’āh|will come|H935|Conj-w | V-Qal-ConjPerf-3fs
 v33 עֵֽת־|‘êṯ-|time|H6256|N-csc
 v33 הַקָּצִ֖יר|haq·qā·ṣîr|her harvest|H7105|Art | N-ms
-v33 לָֽהּ׃|lāh||H0|Prep | 3fs
+v33 לָֽהּ׃|lāh|-|H0|Prep | 3fs
 v34 אֲכָלָנוּ|ʾă·ḵå̄·lå̄·nū|has devoured me|H398|V-Qal-Perf-3ms | 1cs
 v34 הֲמָמָנוּ|hă·må̄·må̄·nū|he has crushed me|H2000|V-Qal-Perf-3ms | 1cs
 v34 נְבוּכַדְרֶאצַּר֮|nə·ḇū·ḵaḏ·reṣ·ṣar|Nebuchadnezzar|H5019|N-proper-ms
@@ -478,7 +478,7 @@ v35 אֶל־|’el-|be on|H413|Prep
 v35 יֹשְׁבֵ֣י|yō·šə·ḇê|the dwellers|H3427|V-Qal-Prtcpl-mpc
 v35 כַשְׂדִּ֔ים|ḵaś·dîm|of Chaldea|H3778|N-proper-ms
 v35 תֹּאמַ֖ר|tō·mar|says|H559|V-Qal-Imperf-3fs
-v35 יְרוּשָׁלִָֽם׃ס|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
+v35 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v36 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v36 כֹּ֚ה|kōh|this is what|H3541|Adv
 v36 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -679,7 +679,7 @@ v51 זָרִ֔ים|zā·rîm|foreigners|H2114|Adj-mp
 v51 עַֽל־|‘al-|...|H5921|Prep
 v51 מִקְדְּשֵׁ֖י|miq·də·šê|the holy places|H4720|N-mpc
 v51 בֵּ֥ית|bêṯ|house|H1004|N-msc
-v51 יְהוָֽה׃ס|Yah·weh|of the LORD's|H3068|N-proper-ms
+v51 יְהוָֽה׃|Yah·weh|of the LORD's|H3068|N-proper-ms
 v52 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v52 הִנֵּֽה־|hin·nêh-|behold|H2009|Interjection
 v52 יָמִ֤ים|yā·mîm|the days|H3117|N-mp
@@ -706,7 +706,7 @@ v53 יָבֹ֧אוּ|yā·ḇō·’ū|will come|H935|V-Qal-Imperf-3mp
 v53 שֹׁדְדִ֛ים|šō·ḏə·ḏîm|the destroyers|H7703|V-Qal-Prtcpl-mp
 v53 לָ֖הּ|lāh|against her|H0|Prep | 3fs
 v53 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v53 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v53 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v54 ק֥וֹל|qō·wl|The sound|H6963|N-msc
 v54 זְעָקָ֖ה|zə·‘ā·qāh|of a cry|H2201|N-fs
 v54 מִבָּבֶ֑ל|mib·bā·ḇel|[comes from] Babylon|H894|Prep-m | N-proper-fs
@@ -761,7 +761,7 @@ v57 נְאֻ֨ם־|nə·’um-|declares|H5002|N-msc
 v57 הַמֶּ֔לֶךְ|ham·me·leḵ|the King|H4428|Art | N-ms
 v57 יְהוָ֥ה|Yah·weh|is the LORD|H3068|N-proper-ms
 v57 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
-v57 שְׁמֽוֹ׃ס|šə·mōw|whose name|H8034|N-msc | 3ms
+v57 שְׁמֽוֹ׃|šə·mōw|whose name|H8034|N-msc | 3ms
 v58 כֹּֽה־|kōh-|This is what|H3541|Adv
 v58 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v58 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -777,12 +777,12 @@ v58 בָּאֵ֣שׁ|bā·’êš|by fire|H784|Prep-b, Art | N-cs
 v58 יִצַּ֑תּוּ|yiṣ·ṣat·tū|consumed|H3341|V-Qal-Imperf-3mp
 v58 וְיִֽגְע֨וּ|wə·yiḡ·‘ū|So the labor|H3021|Conj-w | V-Qal-ConjImperf-3mp
 v58 עַמִּ֧ים|‘am·mîm|of the people|H5971|N-mp
-v58 בְּדֵי־|bə·ḏê-|vvv|H1767|Prep-b | N-msc
+v58 בְּדֵי־|bə·ḏê-|...|H1767|Prep-b | N-msc
 v58 רִ֛יק|rîq|will be for nothing|H7385|N-ms
 v58 וּלְאֻמִּ֥ים|ū·lə·’um·mîm|the nations|H3816|Conj-w | N-mp
 v58 בְּדֵי־|bə·ḏê-|...|H1767|Prep-b | N-msc
 v58 אֵ֖שׁ|’êš|to fuel the flames|H784|N-cs
-v58 וְיָעֵֽפוּ׃ס|wə·yā·‘ê·p̄ū|will exhaust themselves|H3286|Conj-w | V-Qal-ConjPerf-3cp
+v58 וְיָעֵֽפוּ׃|wə·yā·‘ê·p̄ū|will exhaust themselves|H3286|Conj-w | V-Qal-ConjPerf-3cp
 v59 הַדָּבָ֞ר|had·dā·ḇār|[This is] the message|H1697|Art | N-ms
 v59 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v59 צִוָּ֣ה׀|ṣiw·wāh|gave|H6680|V-Piel-Perf-3ms
@@ -804,7 +804,7 @@ v59 בִּשְׁנַ֥ת|biš·naṯ|year|H8141|Prep-b | N-fsc
 v59 הָרְבִעִ֖ית|hā·rə·ḇi·‘îṯ|in the fourth|H7243|Art | Number-ofs
 v59 לְמָלְכ֑וֹ|lə·mā·lə·ḵōw|of Zedekiah's reign|H4427|Prep-l | V-Qal-Inf | 3ms
 v59 וּשְׂרָיָ֖ה|ū·śə·rā·yāh|-|H8304|Conj-w | N-proper-ms
-v59 שַׂ֥ר|śar|vvv|H8269|N-msc
+v59 שַׂ֥ר|śar|...|H8269|N-msc
 v59 מְנוּחָֽה׃|mə·nū·ḥāh|to the quartermaster|H4496|N-fs
 v60 וַיִּכְתֹּ֣ב|way·yiḵ·tōḇ|had written|H3789|Conj-w | V-Qal-ConsecImperf-3ms
 v60 יִרְמְיָ֗הוּ|yir·mə·yā·hū|Jeremiah|H3414|N-proper-ms
@@ -846,8 +846,8 @@ v62 הַמָּק֤וֹם|ham·mā·qō·wm|place|H4725|Art | N-ms
 v62 הַזֶּה֙|haz·zeh|this|H2088|Art | Pro-ms
 v62 לְהַכְרִית֔וֹ|lə·haḵ·rî·ṯōw|to cut off|H3772|Prep-l | V-Hifil-Inf | 3ms
 v62 לְבִלְתִּ֤י|lə·ḇil·tî|so that no one|H1115|Prep-l
-v62 הֱיֽוֹת־|hĕ·yō·wṯ-||H1961|V-Qal-Inf
-v62 בּוֹ֙|bōw||H0|Prep | 3ms
+v62 הֱיֽוֹת־|hĕ·yō·wṯ-|-|H1961|V-Qal-Inf
+v62 בּוֹ֙|bōw|-|H0|Prep | 3ms
 v62 יוֹשֵׁ֔ב|yō·wō·šêḇ|will remain|H3427|V-Qal-Prtcpl-ms
 v62 לְמֵאָדָ֖ם|lə·mê·’ā·ḏām|neither man|H120|Prep-l, Prep-m | N-ms
 v62 וְעַד־|wə·‘aḏ-|nor|H5704|Conj-w | Prep
@@ -885,4 +885,4 @@ v64 וְיָעֵ֑פוּ|wə·yā·‘ê·p̄ū|And [her people] will grow weary
 v64 עַד־|‘aḏ-|end|H5704|Prep
 v64 הֵ֖נָּה|hên·nāh|Here|H2008|Adv
 v64 דִּבְרֵ֥י|diḇ·rê|the words|H1697|N-mpc
-v64 יִרְמְיָֽהוּ׃ס|yir·mə·yā·hū|of Jeremiah|H3414|N-proper-ms
+v64 יִרְמְיָֽהוּ׃|yir·mə·yā·hū|of Jeremiah|H3414|N-proper-ms

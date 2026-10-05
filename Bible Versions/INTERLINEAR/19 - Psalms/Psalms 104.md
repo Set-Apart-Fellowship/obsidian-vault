@@ -127,7 +127,7 @@ v16 לְ֝בָנ֗וֹן|lə·ḇā·nō·wn|of Lebanon|H3844|N-proper-fs
 v16 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v16 נָטָֽע׃|nā·ṭā‘|He planted|H5193|V-Qal-Perf-3ms
 v17 אֲשֶׁר־|’ă·še·rō·šā-|where|H834|Pro-r
-v17 שָׁ֭ם|šām||H8033|Adv
+v17 שָׁ֭ם|šām|-|H8033|Adv
 v17 צִפֳּרִ֣ים|ṣip·po·rîm|the birds|H6833|N-cp
 v17 יְקַנֵּ֑נוּ|yə·qan·nê·nū|build their nests|H7077|V-Piel-Imperf-3mp
 v17 חֲ֝סִידָ֗ה|ḥă·sî·ḏāh|the stork|H2624|N-fs
@@ -149,7 +149,7 @@ v20 תָּֽשֶׁת־|tā·šeṯ-|You bring|H7896|V-Qal-Imperf-2ms
 v20 חֹ֭שֶׁךְ|ḥō·šeḵ|darkness|H2822|N-ms
 v20 וִ֣יהִי|wî·hî|and it becomes|H1961|Conj-w | V-Qal-ConjImperf.Jus-3ms
 v20 לָ֑יְלָה|lā·yə·lāh|night|H3915|N-ms
-v20 בּֽוֹ־|bōw-||H0|Prep | 3ms
+v20 בּֽוֹ־|bōw-|-|H0|Prep | 3ms
 v20 תִ֝רְמֹ֗שׂ|ṯir·mōś|prowl|H7430|V-Qal-Imperf-3fs
 v20 כָּל־|kāl-|when all|H3605|N-msc
 v20 חַיְתוֹ־|ḥay·ṯōw-|the beasts|H2416|N-fsc | 3ms

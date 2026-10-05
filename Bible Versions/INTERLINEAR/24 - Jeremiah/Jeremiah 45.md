@@ -22,7 +22,7 @@ v1 בֶּן־|ben-|son|H1121|N-msc
 v1 יֹאשִׁיָּ֛הוּ|yō·šî·yā·hū|of Josiah|H2977|N-proper-ms
 v1 מֶ֥לֶךְ|me·leḵ|king|H4428|N-msc
 v1 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
-v1 לֵאמֹֽר׃ס|lê·mōr|...|H559|Prep-l | V-Qal-Inf
+v1 לֵאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v2 כֹּֽה־|kōh-|This is what|H3541|Adv
 v2 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v2 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -44,7 +44,7 @@ v3 יָגַ֙עְתִּי֙|yā·ḡa‘·tî|I am worn out|H3021|V-Qal-Perf-1cs
 v3 בְּאַנְחָתִ֔י|bə·’an·ḥā·ṯî|with groaning|H585|Prep-b | N-fsc | 1cs
 v3 וּמְנוּחָ֖ה|ū·mə·nū·ḥāh|rest|H4496|Conj-w | N-fs
 v3 לֹ֥א|lō|no|H3808|Adv-NegPrt
-v3 מָצָֽאתִי׃ס|mā·ṣā·ṯî|and have found|H4672|V-Qal-Perf-1cs
+v3 מָצָֽאתִי׃|mā·ṣā·ṯî|and have found|H4672|V-Qal-Perf-1cs
 v4 כֹּ֣ה׀|kōh|Thus|H3541|Adv
 v4 תֹּאמַ֣ר|tō·mar|[Jeremiah] was to say|H559|V-Qal-Imperf-2ms
 v4 אֵלָ֗יו|’ê·lāw|to [Baruch}|H413|Prep | 3ms
@@ -90,4 +90,4 @@ v5 כָּל־|kāl-|but wherever|H3605|N-msc
 v5 הַמְּקֹמ֖וֹת|ham·mə·qō·mō·wṯ|...|H4725|Art | N-mp
 v5 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v5 תֵּֽלֶךְ־|tê·leḵ-|you go|H1980|V-Qal-Imperf-2ms
-v5 שָֽׁם׃ס|šām|...|H8033|Adv
+v5 שָֽׁם׃|šām|...|H8033|Adv

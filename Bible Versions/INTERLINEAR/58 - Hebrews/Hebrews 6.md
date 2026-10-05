@@ -43,7 +43,7 @@ v3 Θεός|Theos|God|G2316|N-NMS
 v4 Ἀδύνατον|Adynaton|[It is] impossible|G102|Adj-NNS
 v4 γὰρ|gar|-|G1063|Conj
 v4 τοὺς|tous|for those who|G3588|Art-AMP
-v4 ἅπαξ|hapax|vvv|G530|Adv
+v4 ἅπαξ|hapax|...|G530|Adv
 v4 φωτισθέντας|phōtisthentas|have once been enlightened|G5461|V-APP-AMP
 v4 γευσαμένους|geusamenous|[who] have tasted|G1089|V-APM-AMP
 v4 τε|te|-|G5037|Conj
@@ -115,7 +115,7 @@ v8 ἐγγύς|engys|is imminent|G1451|Prep
 v8 ἧς|hēs|[In]|G3739|RelPro-GFS
 v8 τὸ|to|the|G3588|Art-NNS
 v8 τέλος|telos|end|G5056|N-NNS
-v8 εἰς|eis|vvv|G1519|Prep
+v8 εἰς|eis|...|G1519|Prep
 v8 καῦσιν|kausin|it will be burned|G2740|N-AFS
 v9 Πεπείσμεθα|Pepeismetha|we are convinced|G3982|V-RIM/P-1P
 v9 δὲ|de|-|G1161|Conj
@@ -170,9 +170,9 @@ v11 ἐλπίδος|elpidos|hope|G1680|N-GFS
 v11 ἄχρι|achri|to|G891|Prep
 v11 τέλους|telous|[the very] end|G5056|N-GNS
 v12 ἵνα|hina|Then|G2443|Conj
-v12 μὴ|mē|vvv|G3361|Adv
+v12 μὴ|mē|...|G3361|Adv
 v12 νωθροὶ|nōthroi|you will not be sluggish|G3576|Adj-NMP
-v12 γένησθε|genēsthe|vvv|G1096|V-ASM-2P
+v12 γένησθε|genēsthe|...|G1096|V-ASM-2P
 v12 μιμηταὶ|mimētai|will imitate|G3402|N-NMP
 v12 δὲ|de|but|G1161|Conj
 v12 τῶν|tōn|those who|G3588|Art-GMP
@@ -201,7 +201,7 @@ v13 ἑαυτοῦ|heautou|Himself|G1438|RefPro-GM3S
 v14 λέγων|legōn|saying|G3004|V-PPA-NMS
 v14 Εἰ|Ei|...|G1487|Conj
 v14 μὴν|mēn|{I will} surely|G3375|Prtcl
-v14 εὐλογῶν|eulogōn|vvv|G2127|V-PPA-NMS
+v14 εὐλογῶν|eulogōn|...|G2127|V-PPA-NMS
 v14 εὐλογήσω|eulogēsō|bless|G2127|V-FIA-1S
 v14 σε|se|you|G4771|PPro-A2S
 v14 καὶ|kai|and|G2532|Conj
@@ -229,7 +229,7 @@ v16 εἰς|eis|serves as|G1519|Prep
 v16 βεβαίωσιν|bebaiōsin|a confirmation|G951|N-AFS
 v16 ὁ|ho|[their]|G3588|Art-NMS
 v16 ὅρκος|horkos|oath|G3727|N-NMS
-v17 ἐν|en|vvv|G1722|Prep
+v17 ἐν|en|...|G1722|Prep
 v17 ᾧ|hō|So when|G3739|RelPro-DNS
 v17 περισσότερον|perissoteron|very clear|G4053|Adj-ANS-C
 v17 βουλόμενος|boulomenos|wanted|G1014|V-PPM/P-NMS
@@ -286,7 +286,7 @@ v19 τοῦ|tou|[behind] the|G3588|Art-GNS
 v19 καταπετάσματος|katapetasmatos|curtain|G2665|N-GNS
 v20 ὅπου|hopou|where|G3699|Adv
 v20 πρόδρομος|prodromos|[our] forerunner|G4274|Adj-NMS
-v20 ὑπὲρ|hyper|vvv|G5228|Prep
+v20 ὑπὲρ|hyper|...|G5228|Prep
 v20 ἡμῶν|hēmōn|on our behalf|G1473|PPro-G1P
 v20 εἰσῆλθεν|eisēlthen|has entered|G1525|V-AIA-3S
 v20 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
@@ -296,6 +296,6 @@ v20 τάξιν|taxin|order|G5010|N-AFS
 v20 Μελχισέδεκ|Melchisedek|of Melchizedek|G3198|N-GMS
 v20 ἀρχιερεὺς|archiereus|a high priest|G749|N-NMS
 v20 γενόμενος|genomenos|He has become|G1096|V-APM-NMS
-v20 εἰς|eis|vvv|G1519|Prep
-v20 τὸν|ton|vvv|G3588|Art-AMS
+v20 εἰς|eis|...|G1519|Prep
+v20 τὸν|ton|...|G3588|Art-AMS
 v20 αἰῶνα|aiōna|forever|G165|N-AMS

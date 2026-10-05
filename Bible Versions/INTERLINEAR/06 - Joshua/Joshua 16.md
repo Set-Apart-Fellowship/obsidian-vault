@@ -11,7 +11,7 @@ v1 הַמִּדְבָּ֗ר|ham·miḏ·bār|through the wilderness|H4057|Art | 
 v1 עֹלֶ֧ה|‘ō·leh|that goes up|H5927|V-Qal-Prtcpl-ms
 v1 מִירִיח֛וֹ|mî·rî·ḥōw|from Jericho|H3405|Prep-m | N-proper-fs
 v1 בָּהָ֖ר|bā·hār|into the hill country|H2022|Prep-b, Art | N-ms
-v1 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v1 בֵּֽית־|bêṯ-|...|H1008|Prep
 v1 אֵֽל׃|’êl|of Bethel|H1008|N-proper-fs
 v2 וְיָצָ֥א|wə·yā·ṣā|It went on|H3318|Conj-w | V-Qal-ConjPerf-3ms
 v2 מִבֵּֽית־|mib·bêṯ-|from|H1008|Prep
@@ -51,10 +51,10 @@ v5 וַיְהִ֞י|way·hî|...|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v5 גְּב֤וּל|gə·ḇūl|The border|H1366|N-msc
 v5 נַחֲלָתָם֙|na·ḥă·lā·ṯām|of their inheritance|H5159|N-fsc | 3mp
 v5 מִזְרָ֔חָה|miz·rā·ḥāh|in the east|H4217|N-ms | 3fs
-v5 עַטְר֣וֹת|‘aṭ·rō·wṯ||H5853|N-proper-fs
+v5 עַטְר֣וֹת|‘aṭ·rō·wṯ|-|H5853|N-proper-fs
 v5 אַדָּ֔ר|’ad·dār|went from Ataroth-addar|H5853|Prep
 v5 עַד־|‘aḏ-|...|H5704|Prep
-v5 בֵּ֥ית|bêṯ|vvv|H1032|Prep
+v5 בֵּ֥ית|bêṯ|...|H1032|Prep
 v5 חוֹרֹ֖ן|ḥō·w·rōn|Beth-horon|H1032|N-proper-fs
 v5 עֶלְיֽוֹן׃|‘el·yō·wn|to Upper|H5945|Adj-ms
 v6 וְיָצָ֨א|wə·yā·ṣā|and out toward|H3318|Conj-w | V-Qal-ConjPerf-3ms
@@ -65,7 +65,7 @@ v6 מִצָּפ֔וֹן|miṣ·ṣā·p̄ō·wn|on the north|H6828|Prep-m | N-fs
 v6 וְנָסַ֧ב|wə·nā·saḇ|turned|H5437|Conj-w | V-Nifal-ConjPerf-3ms
 v6 הַגְּב֛וּל|hag·gə·ḇūl|it|H1366|Art | N-ms
 v6 מִזְרָ֖חָה|miz·rā·ḥāh|eastward|H4217|N-ms | 3fs
-v6 תַּאֲנַ֣ת|ta·’ă·naṯ|vvv|H8387|
+v6 תַּאֲנַ֣ת|ta·’ă·naṯ|...|H8387|
 v6 שִׁלֹ֑ה|ši·lōh|toward Taanath-shiloh|H8387|N-proper-fs
 v6 וְעָבַ֣ר|wə·‘ā·ḇar|and passed by|H5674|Conj-w | V-Qal-ConjPerf-3ms
 v6 אוֹת֔וֹ|’ō·w·ṯōw|it|H853|DirObjM | 3ms
@@ -91,7 +91,7 @@ v8 הַיָּ֑מָּה|hay·yām·māh|at the Sea|H3220|Art | N-ms | 3fs
 v8 זֹ֗את|zōṯ|This|H2063|Pro-fs
 v8 נַחֲלַ֛ת|na·ḥă·laṯ|was the inheritance|H5159|N-fsc
 v8 מַטֵּ֥ה|maṭ·ṭêh|of the tribe|H4294|N-msc
-v8 בְנֵי־|ḇə·nê-|vvv|H1121|N-mpc
+v8 בְנֵי־|ḇə·nê-|...|H1121|N-mpc
 v8 אֶפְרַ֖יִם|’ep̄·ra·yim|of Ephraim|H669|N-proper-ms
 v8 לְמִשְׁפְּחֹתָֽם׃|lə·miš·pə·ḥō·ṯām|of the clans|H4940|Prep-l | N-fpc | 3mp
 v9 וְהֶעָרִ֗ים|wə·he·‘ā·rîm|-|H5892|Conj-w, Art | N-fp
@@ -100,7 +100,7 @@ v9 לִבְנֵ֣י|liḇ·nê|for the descendants|H1121|Prep-l | N-mpc
 v9 אֶפְרַ֔יִם|’ep̄·ra·yim|of Ephraim|H669|N-proper-ms
 v9 בְּת֖וֹךְ|bə·ṯō·wḵ|within|H8432|Prep-b | N-msc
 v9 נַחֲלַ֣ת|na·ḥă·laṯ|the inheritance|H5159|N-fsc
-v9 בְּנֵֽי־|bə·nê-|vvv|H1121|N-mpc
+v9 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v9 מְנַשֶּׁ֑ה|mə·naš·šeh|of Manasseh|H4519|N-proper-ms
 v9 כָּֽל־|kāl-|[along] with all|H3605|N-msc
 v9 הֶעָרִ֖ים|he·‘ā·rîm|the cities|H5892|Art | N-fp
@@ -120,4 +120,4 @@ v10 הַיּ֣וֹם|hay·yō·wm|day|H3117|Art | N-ms
 v10 הַזֶּ֔ה|haz·zeh|this|H2088|Art | Pro-ms
 v10 וַיְהִ֖י|way·hî|but they are|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v10 לְמַס־|lə·mas-|forced|H4522|Prep-l | N-msc
-v10 עֹבֵֽד׃פ|‘ō·ḇêḏ|laborers|H5647|V-Qal-Prtcpl-ms
+v10 עֹבֵֽד׃|‘ō·ḇêḏ|laborers|H5647|V-Qal-Prtcpl-ms

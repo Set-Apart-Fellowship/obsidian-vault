@@ -33,7 +33,7 @@ v2 הַדְּבָרִ֔ים|had·də·ḇā·rîm|the words|H1697|Art | N-mp
 v2 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v2 צִוִּיתִ֖יךָ|ṣiw·wî·ṯî·ḵā|I have commanded|H6680|V-Piel-Perf-1cs | 2ms
 v2 לְדַבֵּ֣ר|lə·ḏab·bêr|you to speak|H1696|Prep-l | V-Piel-Inf
-v2 אֲלֵיהֶ֑ם|’ă·lê·hem||H413|Prep | 3mp
+v2 אֲלֵיהֶ֑ם|’ă·lê·hem|-|H413|Prep | 3mp
 v2 אַל־|’al-|Do not|H408|Adv
 v2 תִּגְרַ֖ע|tiḡ·ra‘|omit|H1639|V-Qal-Imperf-2ms
 v2 דָּבָֽר׃|dā·ḇār|a word|H1697|N-ms
@@ -93,7 +93,7 @@ v6 אֶתֵּ֣ן|’et·tên|I will make|H5414|V-Qal-Imperf-1cs
 v6 לִקְלָלָ֔ה|liq·lā·lāh|an object of cursing|H7045|Prep-l | N-fs
 v6 לְכֹ֖ל|lə·ḵōl|among all|H3605|Prep-l | N-msc
 v6 גּוֹיֵ֥י|gō·w·yê|the nations|H1471|N-mpc
-v6 הָאָֽרֶץ׃ס|hā·’ā·reṣ|of the earth|H776|Art | N-fs
+v6 הָאָֽרֶץ׃|hā·’ā·reṣ|of the earth|H776|Art | N-fs
 v7 וַֽיִּשְׁמְע֛וּ|way·yiš·mə·‘ū|heard|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v7 הַכֹּהֲנִ֥ים|hak·kō·hă·nîm|Now the priests|H3548|Art | N-mp
 v7 וְהַנְּבִאִ֖ים|wə·han·nə·ḇi·’îm|and prophets|H5030|Conj-w, Art | N-mp
@@ -111,13 +111,13 @@ v8 וַיְהִ֣י׀|way·hî|and as soon as|H1961|Conj-w | V-Qal-ConsecImperf-
 v8 כְּכַלּ֣וֹת|kə·ḵal·lō·wṯ|had finished|H3615|Prep-k | V-Piel-Inf
 v8 יִרְמְיָ֗הוּ|yir·mə·yā·hū|[he]|H3414|N-proper-ms
 v8 לְדַבֵּר֙|lə·ḏab·bêr|telling|H1696|Prep-l | V-Piel-Inf
-v8 אֵ֣ת|’êṯ||H853|DirObjM
+v8 אֵ֣ת|’êṯ|-|H853|DirObjM
 v8 כָּל־|kāl-|everything|H3605|N-msc
 v8 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v8 צִוָּ֣ה|ṣiw·wāh|had commanded him|H6680|V-Piel-Perf-3ms
 v8 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v8 לְדַבֵּ֖ר|lə·ḏab·bêr|to say|H1696|Prep-l | V-Piel-Inf
-v8 אֶל־|’el-||H413|Prep
+v8 אֶל־|’el-|-|H413|Prep
 v8 כָּל־|kāl-|all|H3605|N-msc
 v8 הָעָ֑ם|hā·‘ām|the people|H5971|Art | N-ms
 v8 וַיִּתְפְּשׂ֨וּ|way·yiṯ·pə·śū|seized him|H8610|Conj-w | V-Qal-ConsecImperf-3mp
@@ -141,7 +141,7 @@ v9 הַזֶּ֔ה|haz·zeh|this|H2088|Art | Pro-ms
 v9 וְהָעִ֥יר|wə·hā·‘îr|city|H5892|Conj-w, Art | N-fs
 v9 הַזֹּ֛את|haz·zōṯ|and this|H2063|Art | Pro-fs
 v9 תֶּחֱרַ֖ב|te·ḥĕ·raḇ|and deserted|H2717|V-Qal-Imperf-3fs
-v9 מֵאֵ֣ין|mê·’ên|vvv|H369|Prep-m | Adv
+v9 מֵאֵ֣ין|mê·’ên|...|H369|Prep-m | Adv
 v9 יוֹשֵׁ֑ב|yō·wō·šêḇ|will be desolate|H3427|V-Qal-Prtcpl-ms
 v9 וַיִּקָּהֵ֧ל|way·yiq·qā·hêl|assembled|H6950|Conj-w | V-Nifal-ConsecImperf-3ms
 v9 כָּל־|kāl-|And all|H3605|N-msc
@@ -165,7 +165,7 @@ v10 וַיֵּֽשְׁב֛וּ|way·yê·šə·ḇū|and sat|H3427|Conj-w | V-Qa
 v10 בְּפֶ֥תַח|bə·p̄e·ṯaḥ|at the entrance|H6607|Prep-b | N-msc
 v10 שַֽׁעַר־|ša·‘ar-|Gate|H8179|N-msc
 v10 יְהוָ֖ה|Yah·weh|[there]|H3068|N-proper-ms
-v10 הֶחָדָֽשׁ׃ס|he·ḥā·ḏāš|of the New|H2319|Art | Adj-ms
+v10 הֶחָדָֽשׁ׃|he·ḥā·ḏāš|of the New|H2319|Art | Adj-ms
 v11 וַיֹּ֨אמְר֜וּ|way·yō·mə·rū|said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v11 הַכֹּהֲנִ֤ים|hak·kō·hă·nîm|Then the priests|H3548|Art | N-mp
 v11 וְהַנְּבִאִים֙|wə·han·nə·ḇi·’îm|and prophets|H5030|Conj-w, Art | N-mp
@@ -240,8 +240,8 @@ v15 כִּ֣י|kî|that|H3588|Conj
 v15 אִם־|’im-|if|H518|Conj
 v15 מְמִתִ֣ים|mə·mi·ṯîm|put me to death|H4191|V-Hifil-Prtcpl-mp
 v15 אַתֶּם֮|’at·tem|you|H859|Pro-2mp
-v15 אֹתִי֒|’ō·ṯî||H853|DirObjM | 1cs
-v15 כִּי־|kî-||H3588|Conj
+v15 אֹתִי֒|’ō·ṯî|-|H853|DirObjM | 1cs
+v15 כִּי־|kî-|-|H3588|Conj
 v15 דָ֣ם|ḏām|blood|H1818|N-ms
 v15 נָקִ֗י|nā·qî|innocent|H5355|Adj-ms
 v15 אַתֶּם֙|’at·tem|you|H859|Pro-2mp
@@ -262,12 +262,12 @@ v15 בְּאָזְנֵיכֶ֔ם|bə·’ā·zə·nê·ḵem|in your hearing|H24
 v15 אֵ֥ת|’êṯ|-|H853|DirObjM
 v15 כָּל־|kāl-|all|H3605|N-msc
 v15 הַדְּבָרִ֖ים|had·də·ḇā·rîm|words|H1697|Art | N-mp
-v15 הָאֵֽלֶּה׃ס|hā·’êl·leh|these|H428|Art | Pro-cp
+v15 הָאֵֽלֶּה׃|hā·’êl·leh|these|H428|Art | Pro-cp
 v16 וַיֹּאמְר֤וּ|way·yō·mə·rū|told|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v16 הַשָּׂרִים֙|haś·śā·rîm|Then the officials|H8269|Art | N-mp
 v16 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v16 הָעָ֔ם|hā·‘ām|the people|H5971|Art | N-ms
-v16 אֶל־|’el-||H413|Prep
+v16 אֶל־|’el-|-|H413|Prep
 v16 הַכֹּהֲנִ֖ים|hak·kō·hă·nîm|the priests|H3548|Art | N-mp
 v16 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
 v16 הַנְּבִיאִ֑ים|han·nə·ḇî·’îm|and prophets|H5030|Art | N-mp
@@ -332,7 +332,7 @@ v19 יָרֵ֣א|yā·rê|fear|H3373|Adj-ms
 v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 יְהוָה֒|Yah·weh|the LORD|H3068|N-proper-ms
 v19 וַיְחַל֙|way·ḥal|and seek|H2470|Conj-w | V-Piel-ConsecImperf-3ms
-v19 אֶת־|’eṯ-||H853|DirObjM
+v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 פְּנֵ֣י|pə·nê|favor|H6440|N-cpc
 v19 יְהוָ֔ה|Yah·weh|[His]|H3068|N-proper-ms
 v19 וַיִּנָּ֣חֶם|way·yin·nā·ḥem|relent|H5162|Conj-w | V-Nifal-ConsecImperf-3ms
@@ -430,4 +430,4 @@ v24 תֵּת־|têṯ-|handed over to|H5414|V-Qal-Inf
 v24 אֹת֥וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v24 בְיַד־|ḇə·yaḏ-|-|H3027|Prep-b | N-fsc
 v24 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v24 לַהֲמִיתֽוֹ׃פ|la·hă·mî·ṯōw|to be put to death|H4191|Prep-l | V-Hifil-Inf | 3ms
+v24 לַהֲמִיתֽוֹ׃|la·hă·mî·ṯōw|to be put to death|H4191|Prep-l | V-Hifil-Inf | 3ms

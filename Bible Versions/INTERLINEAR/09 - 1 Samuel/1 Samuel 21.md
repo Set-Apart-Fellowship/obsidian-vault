@@ -25,7 +25,7 @@ v2 צִוַּ֣נִי|ṣiw·wa·nî|has given me|H6680|V-Piel-Perf-3ms | 1cs
 v2 דָבָר֒|ḏā·ḇār|a mission|H1697|N-ms
 v2 וַיֹּ֣אמֶר|way·yō·mer|He told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 אֵלַ֗י|’ê·lay|me|H413|Prep | 1cs
-v2 אִ֣ישׁ|’îš|vvv|H376|N-ms
+v2 אִ֣ישׁ|’îš|...|H376|N-ms
 v2 אַל־|’al-|no one|H408|Adv
 v2 יֵ֧דַע|yê·ḏa‘|is to know|H3045|V-Qal-Imperf-3ms
 v2 מְא֛וּמָה|mə·’ū·māh|-|H3972|N-ms
@@ -62,10 +62,10 @@ v4 וַיֹּ֔אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 אֵֽין־|’ên-|[There is] no|H369|Adv
 v4 לֶ֥חֶם|le·ḥem|bread|H3899|N-msc
 v4 חֹ֖ל|ḥōl|common|H2455|N-ms
-v4 אֶל־|’el-||H413|Prep
+v4 אֶל־|’el-|-|H413|Prep
 v4 תַּ֣חַת|ta·ḥaṯ|on|H8478|Prep
 v4 יָדִ֑י|yā·ḏî|hand|H3027|N-fsc | 1cs
-v4 כִּֽי־|kî-||H3588|Punc
+v4 כִּֽי־|kî-|-|H3588|Punc
 v4 אִם־|’im-|but|H518|Conj
 v4 לֶ֤חֶם|le·ḥem|bread|H3899|N-msc
 v4 קֹ֙דֶשׁ֙|qō·ḏeš|consecrated|H6944|N-ms
@@ -74,19 +74,19 @@ v4 אִם־|’im-|provided that|H518|Conj
 v4 נִשְׁמְר֥וּ|niš·mə·rū|have kept themselves|H8104|V-Nifal-Perf-3cp
 v4 הַנְּעָרִ֖ים|han·nə·‘ā·rîm|the young men|H5288|Art | N-mp
 v4 אַ֥ךְ|’aḵ|-|H389|Adv
-v4 מֵאִשָּֽׁה׃פ|mê·’iš·šāh|from women|H802|Prep-m | N-fs
+v4 מֵאִשָּֽׁה׃|mê·’iš·šāh|from women|H802|Prep-m | N-fs
 v5 וַיַּעַן֩|way·ya·‘an|answered|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v5 דָּוִ֨ד|dā·wiḏ|David|H1732|N-proper-ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 הַכֹּהֵ֜ן|hak·kō·hên|-|H3548|Art | N-ms
 v5 וַיֹּ֣אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v5 ל֗וֹ|lōw|-|H0|Prep | 3ms
-v5 כִּ֣י|kî||H3588|Conj
+v5 כִּ֣י|kî|-|H3588|Conj
 v5 אִם־|’im-|indeed|H518|Conj
 v5 אִשָּׁ֤ה|’iš·šāh|Women [have]|H802|N-fs
 v5 עֲצֻֽרָה־|‘ă·ṣu·rāh-|[been] kept|H6113|V-Qal-QalPassPrtcpl-fs
 v5 לָ֙נוּ֙|lā·nū|from us|H0|Prep | 1cp
-v5 כִּתְמ֣וֹל|kiṯ·mō·wl||H8543|Prep-k | Adv
+v5 כִּתְמ֣וֹל|kiṯ·mō·wl|-|H8543|Prep-k | Adv
 v5 שִׁלְשֹׁ֔ם|šil·šōm|as is usual|H8032|Adv
 v5 בְּצֵאתִ֕י|bə·ṣê·ṯî|when I set out|H3318|Prep-b | V-Qal-Inf | 1cs
 v5 וַיִּהְי֥וּ|way·yih·yū|are|H1961|Conj-w | V-Qal-ConsecImperf-3mp
@@ -110,7 +110,7 @@ v6 לֹא־|lō-|no|H3808|Adv-NegPrt
 v6 הָ֨יָה|hā·yāh|there was|H1961|V-Qal-Perf-3ms
 v6 שָׁ֜ם|šām|there|H8033|Adv
 v6 לֶ֗חֶם|le·ḥem|bread|H3899|N-ms
-v6 כִּֽי־|kî-||H3588|Conj
+v6 כִּֽי־|kî-|-|H3588|Conj
 v6 אִם־|’im-|but|H518|Conj
 v6 לֶ֤חֶם|le·ḥem|the Bread|H3899|N-msc
 v6 הַפָּנִים֙|hap·pā·nîm|of the Presence|H6440|Art | N-mp
@@ -161,7 +161,7 @@ v8 כִּֽי־|kî-|because|H3588|Conj
 v8 הָיָ֥ה|hā·yāh|was|H1961|V-Qal-Perf-3ms
 v8 דְבַר־|ḏə·ḇar-|mission|H1697|N-msc
 v8 הַמֶּ֖לֶךְ|ham·me·leḵ|the king's|H4428|Art | N-ms
-v8 נָחֽוּץ׃ס|nā·ḥūṣ|urgent|H5169|V-Qal-QalPassPrtcpl-ms
+v8 נָחֽוּץ׃|nā·ḥūṣ|urgent|H5169|V-Qal-QalPassPrtcpl-ms
 v9 וַיֹּ֣אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 הַכֹּהֵ֗ן|hak·kō·hên|The priest|H3548|Art | N-ms
 v9 חֶרֶב֩|ḥe·reḇ|The sword|H2719|N-fsc
@@ -193,7 +193,7 @@ v9 אֵ֥ין|’ên|[There is] none|H369|Adv
 v9 כָּמ֖וֹהָ|kā·mō·w·hā|like it|H3644|Prep | 3fs
 v9 תְּנֶ֥נָּה|tə·nen·nāh|give it|H5414|V-Qal-Imp-ms | 3fs
 v9 לִּֽי׃|lî|to me|H0|Prep | 1cs
-v10 וַיָּ֣קָם|way·yā·qām|vvv|H6965|Conj-w | V-Qal-ConsecImperf-3ms
+v10 וַיָּ֣קָם|way·yā·qām|...|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v10 דָּוִ֔ד|dā·wiḏ|David|H1732|N-proper-ms
 v10 וַיִּבְרַ֥ח|way·yiḇ·raḥ|fled|H1272|Conj-w | V-Qal-ConsecImperf-3ms
 v10 בַּיּוֹם־|bay·yō·wm-|day|H3117|Prep-b, Art | N-ms
@@ -274,4 +274,4 @@ v15 עָלָ֑י|‘ā·lāy|in my presence|H5921|Prep | 1cs
 v15 הֲזֶ֖ה|hă·zeh|Must this [man]|H2088|Art | Pro-ms
 v15 יָב֥וֹא|yā·ḇō·w|come|H935|V-Qal-Imperf-3ms
 v15 אֶל־|’el-|into|H413|Prep
-v15 בֵּיתִֽי׃ס|bê·ṯî|my house|H1004|N-msc | 1cs
+v15 בֵּיתִֽי׃|bê·ṯî|my house|H1004|N-msc | 1cs

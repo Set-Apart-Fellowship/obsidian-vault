@@ -189,7 +189,7 @@ v14 וְעֶשְׂרִ֛ים|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
 v14 י֖וֹם|yō·wm|day|H3117|N-ms
 v14 לַחֹ֑דֶשׁ|la·ḥō·ḏeš|...|H2320|Prep-l, Art | N-ms
 v14 יָבְשָׁ֖ה|yā·ḇə·šāh|was fully dry|H3001|V-Qal-Perf-3fs
-v14 הָאָֽרֶץ׃ס|hā·’ā·reṣ|the earth|H776|Art | N-fs
+v14 הָאָֽרֶץ׃|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v15 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v15 אֱלֹהִ֖ים|’ĕ·lō·hîm|Then God|H430|N-mp
 v15 אֶל־|’el-|to|H413|Prep

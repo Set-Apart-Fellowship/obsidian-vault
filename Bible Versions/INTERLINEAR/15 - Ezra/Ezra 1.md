@@ -53,7 +53,7 @@ v3 אֱלֹהָיו֙|’ĕ·lō·hāw|may his God|H430|N-mpc | 3ms
 v3 עִמּ֔וֹ|‘im·mōw|with him|H5973|Prep | 3ms
 v3 וְיַ֕עַל|wə·ya·‘al|and may he go|H5927|Conj-w | V-Qal-ConjImperf.Jus-3ms
 v3 לִירוּשָׁלִַ֖ם|lî·rū·šā·lim|to Jerusalem|H3389|Prep-l | N-proper-fs
-v3 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v3 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v3 בִּיהוּדָ֑ה|bî·hū·ḏāh|in Judah|H3063|Prep-b | N-proper-fs
 v3 וְיִ֗בֶן|wə·yi·ḇen|and build|H1129|Conj-w | V-Qal-ConjImperf.Jus-3ms
 v3 אֶת־|’eṯ-|-|H853|DirObjM
@@ -118,7 +118,7 @@ v6 וּבַמִּגְדָּנ֑וֹת|ū·ḇam·miḡ·dā·nō·wṯ|and with 
 v6 לְבַ֖ד|lə·ḇaḏ|in addition|H905|Prep-l | N-msc
 v6 עַל־|‘al-|to|H5921|Prep
 v6 כָּל־|kāl-|all|H3605|N-msc
-v6 הִתְנַדֵּֽב׃ס|hiṯ·nad·dêḇ|their freewill offerings|H5068|V-Hitpael-Inf
+v6 הִתְנַדֵּֽב׃|hiṯ·nad·dêḇ|their freewill offerings|H5068|V-Hitpael-Inf
 v7 וְהַמֶּ֣לֶךְ|wə·ham·me·leḵ|King|H4428|Conj-w, Art | N-ms
 v7 כּ֔וֹרֶשׁ|kō·w·reš|Cyrus|H3566|N-proper-ms
 v7 הוֹצִ֖יא|hō·w·ṣî|also brought out|H3318|V-Hifil-Perf-3ms
@@ -152,10 +152,10 @@ v9 זָהָ֜ב|zā·hāḇ|gold|H2091|N-ms
 v9 שְׁלֹשִׁ֗ים|šə·lō·šîm|30|H7970|Number-cp
 v9 אֲגַרְטְלֵי־|’ă·ḡar·ṭə·lê-|dishes|H105|N-mpc
 v9 כֶ֙סֶף֙|ḵe·sep̄|silver|H3701|N-ms
-v9 אָ֔לֶף|’ā·lep̄|1,000 {}|H505|Number-ms
+v9 אָ֔לֶף|’ā·lep̄|1,000|H505|Number-ms
 v9 מַחֲלָפִ֖ים|ma·ḥă·lā·p̄îm|silver utensils|H4252|N-mp
 v9 תִּשְׁעָ֥ה|tiš·‘āh|29|H8672|Number-ms
-v9 וְעֶשְׂרִֽים׃ס|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
+v9 וְעֶשְׂרִֽים׃|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
 v10 כְּפוֹרֵ֤י|kə·p̄ō·w·rê|bowls|H3713|N-mpc
 v10 זָהָב֙|zā·hāḇ|gold|H2091|N-ms
 v10 שְׁלֹשִׁ֔ים|šə·lō·šîm|30|H7970|Number-cp
@@ -167,7 +167,7 @@ v10 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v10 וַעֲשָׂרָ֑ה|wa·‘ă·śā·rāh|...|H6235|Conj-w | Number-ms
 v10 כֵּלִ֥ים|kê·lîm|articles|H3627|N-mp
 v10 אֲחֵרִ֖ים|’ă·ḥê·rîm|other|H312|Adj-mp
-v10 אָֽלֶף׃ס|’ā·lep̄|and 1,000|H505|Number-ms
+v10 אָֽלֶף׃|’ā·lep̄|and 1,000|H505|Number-ms
 v11 כָּל־|kāl-|In all, there were|H3605|N-msc
 v11 כֵּלִים֙|kê·lîm|articles|H3627|N-mp
 v11 לַזָּהָ֣ב|laz·zā·hāḇ|gold|H2091|Prep-l, Art | N-ms
@@ -183,4 +183,4 @@ v11 עִ֚ם|‘im|along|H5973|Prep
 v11 הֵעָל֣וֹת|hê·‘ā·lō·wṯ|went up|H5927|V-Nifal-Inf
 v11 הַגּוֹלָ֔ה|hag·gō·w·lāh|when the exiles|H1473|Art | N-fs
 v11 מִבָּבֶ֖ל|mib·bā·ḇel|from Babylon|H894|Prep-m | N-proper-fs
-v11 לִירוּשָׁלִָֽם׃פ|lî·rū·šā·lim|to Jerusalem|H3389|Prep-l | N-proper-fs
+v11 לִירוּשָׁלִָֽם׃|lî·rū·šā·lim|to Jerusalem|H3389|Prep-l | N-proper-fs

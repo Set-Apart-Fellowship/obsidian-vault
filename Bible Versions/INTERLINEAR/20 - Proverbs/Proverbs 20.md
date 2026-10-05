@@ -105,7 +105,7 @@ v14 רַ֭ע|ra‘|worthless|H7451|Adj-ms
 v14 יֹאמַ֣ר|yō·mar|says|H559|V-Qal-Imperf-3ms
 v14 הַקּוֹנֶ֑ה|haq·qō·w·neh|the buyer|H7069|Art | V-Qal-Prtcpl-ms
 v14 וְאֹזֵ֥ל|wə·’ō·zêl|but on the way out|H235|Conj-w | V-Qal-Prtcpl-ms
-v14 ל֝֗וֹ|lōw||H0|Prep | 3ms
+v14 ל֝֗וֹ|lōw|-|H0|Prep | 3ms
 v14 אָ֣ז|’āz|-|H227|Adv
 v14 יִתְהַלָּֽל׃|yiṯ·hal·lāl|he gloats|H1984|V-Hitpael-Imperf-3ms
 v15 יֵ֣שׁ|yêš|There is|H3426|Adv
@@ -144,7 +144,7 @@ v19 הוֹלֵ֣ךְ|hō·w·lêḵ|is a constant|H1980|V-Qal-Prtcpl-ms
 v19 רָכִ֑יל|rā·ḵîl|gossip|H7400|N-ms
 v19 וּלְפֹתֶ֥ה|ū·lə·p̄ō·ṯeh|the one who babbles|H6601|Conj-w, Prep-l | V-Qal-Prtcpl-ms
 v19 שְׂ֝פָתָ֗יו|śə·p̲ā·t̲āyw|with his lips|H8193|N-fdc | 3ms
-v19 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v19 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v19 תִתְעָרָֽב׃|ṯiṯ·‘ā·rāḇ|avoid|H6148|V-Hitpael-Imperf-2ms
 v20 מְ֭קַלֵּל|mə·qal·lêl|Whoever curses|H7043|V-Piel-Prtcpl-ms
 v20 אָבִ֣יו|’ā·ḇîw|his father|H1|N-msc | 3ms

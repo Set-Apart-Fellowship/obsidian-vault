@@ -268,7 +268,7 @@ v22 גַם־|ḡam-|...|H1571|Conj
 v22 הִ֗וא|hî|...|H1931|Pro-3fs
 v22 יָֽלְדָה֙|yā·lə·ḏāh|gave birth to|H3205|V-Qal-Perf-3fs
 v22 אֶת־|’eṯ-|-|H853|DirObjM
-v22 תּ֣וּבַל|tū·ḇal|vvv|H8423|
+v22 תּ֣וּבַל|tū·ḇal|...|H8423|
 v22 קַ֔יִן|qa·yin|Tubal-cain|H8423|N-proper-ms
 v22 לֹטֵ֕שׁ|lō·ṭêš|a forger|H3913|V-Qal-Prtcpl-msc
 v22 כָּל־|kāl-|of every|H3605|N-msc
@@ -276,7 +276,7 @@ v22 חֹרֵ֥שׁ|ḥō·rêš|implement|H2794|V-Qal-Prtcpl-msc
 v22 נְחֹ֖שֶׁת|nə·ḥō·šeṯ|of bronze|H5178|N-fs
 v22 וּבַרְזֶ֑ל|ū·ḇar·zel|and iron|H1270|Conj-w | N-ms
 v22 וַֽאֲח֥וֹת|wa·’ă·ḥō·wṯ|And the sister|H269|Conj-w | N-fsc
-v22 תּֽוּבַל־|tū·ḇal-|vvv|H8423|
+v22 תּֽוּבַל־|tū·ḇal-|...|H8423|
 v22 קַ֖יִן|qa·yin|of Tubal-cain|H8423|N-proper-ms
 v22 נַֽעֲמָֽה׃|na·‘ă·māh|[was] Naamah|H5279|N-proper-fs
 v23 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -301,7 +301,7 @@ v24 שִׁבְעָתַ֖יִם|šiḇ·‘ā·ṯa·yim|sevenfold|H7659|Number-f
 v24 יֻקַּם־|yuq·qam-|is avenged|H5358|V-Hofal-Imperf-3ms
 v24 קָ֑יִן|qā·yin|Cain|H7014|N-proper-ms
 v24 וְלֶ֖מֶךְ|wə·le·meḵ|then Lamech|H3929|Conj-w | N-proper-ms
-v24 שִׁבְעִ֥ים|šiḇ·‘îm|vvv|H7657|Number-cp
+v24 שִׁבְעִ֥ים|šiḇ·‘îm|...|H7657|Number-cp
 v24 וְשִׁבְעָֽה׃|wə·šiḇ·‘āh|seventy-sevenfold|H7651|Conj-w | Number-ms
 v25 וַיֵּ֨דַע|way·yê·ḏa‘|had relations with|H3045|Conj-w | V-Qal-ConsecImperf-3ms
 v25 אָדָ֥ם|’ā·ḏām|And Adam|H121|N-proper-ms
@@ -338,4 +338,4 @@ v26 אָ֣ז|’āz|At that time|H227|Adv
 v26 הוּחַ֔ל|hū·ḥal|[men] began|H2490|V-Hofal-Perf-3ms
 v26 לִקְרֹ֖א|liq·rō|to call upon|H7121|Prep-l | V-Qal-Inf
 v26 בְּשֵׁ֥ם|bə·šêm|the name|H8034|Prep-b | N-msc
-v26 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v26 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms

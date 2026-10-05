@@ -110,7 +110,7 @@ v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 אֶ֥בֶן|’e·ḇen|cover|H68|N-fsc
 v8 הָעֹפֶ֖רֶת|hā·‘ō·p̄e·reṯ|the lead|H5777|Art | N-fs
 v8 אֶל־|’el-|over|H413|Prep
-v8 פִּֽיהָ׃ס|pî·hā|its opening|H6310|N-msc | 3fs
+v8 פִּֽיהָ׃|pî·hā|its opening|H6310|N-msc | 3fs
 v9 וָאֶשָּׂ֨א|wā·’eś·śā|Then I lifted|H5375|Conj-w | V-Qal-ConsecImperf-1cs
 v9 עֵינַ֜י|‘ê·nay|up my eyes|H5869|N-cdc | 1cs
 v9 וָאֵ֗רֶא|wā·’ê·re|and saw|H7200|Conj-w | V-Qal-ConsecImperf-1cs
@@ -152,4 +152,4 @@ v11 וְהוּכַ֛ן|wə·hū·ḵan|And when it is ready|H3559|Conj-w | V-Hof
 v11 וְהֻנִּ֥יחָה|wə·hun·nî·ḥāh|the basket will be set|H5117|Conj-w | V-Hofal-ConjPerf-3fs
 v11 שָּׁ֖ם|šām|there|H8033|Adv
 v11 עַל־|‘al-|on|H5921|Prep
-v11 מְכֻנָתָֽהּ׃ס|mə·ḵu·nā·ṯāh|its pedestal|H4369|N-fsc | 3fs
+v11 מְכֻנָתָֽהּ׃|mə·ḵu·nā·ṯāh|its pedestal|H4369|N-fsc | 3fs

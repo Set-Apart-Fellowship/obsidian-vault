@@ -80,15 +80,15 @@ v4 πατριάρχης|patriarchēs|patriarch|G3966|N-NMS
 v5 καὶ|kai|Now|G2532|Conj
 v5 οἱ|hoi|the|G3588|Art-NMP
 v5 μὲν|men|...|G3303|Conj
-v5 ἐκ|ek|vvv|G1537|Prep
-v5 τῶν|tōn|vvv|G3588|Art-GMP
+v5 ἐκ|ek|...|G1537|Prep
+v5 τῶν|tōn|...|G3588|Art-GMP
 v5 υἱῶν|huiōn|sons|G5207|N-GMP
 v5 Λευὶ|Leui|of Levi|G3017|N-GMS
 v5 τὴν|tēn|-|G3588|Art-AFS
 v5 ἱερατείαν|hierateian|priests|G2405|N-AFS
 v5 λαμβάνοντες|lambanontes|who become|G2983|V-PPA-NMP
 v5 ἐντολὴν|entolēn|commands|G1785|N-AFS
-v5 ἔχουσιν|echousin|vvv|G2192|V-PIA-3P
+v5 ἔχουσιν|echousin|...|G2192|V-PIA-3P
 v5 ἀποδεκατοῦν|apodekatoun|to collect a tenth|G586|V-PNA
 v5 τὸν|ton|from the|G3588|Art-AMS
 v5 λαὸν|laon|people|G2992|N-AMS
@@ -108,7 +108,7 @@ v5 ὀσφύος|osphyos|...|G3751|N-GFS
 v5 Ἀβραάμ|Abraam|Abraham|G11|N-GMS
 v6 ὁ|ho|[Melchizedek]|G3588|Art-NMS
 v6 δὲ|de|But|G1161|Conj
-v6 μὴ|mē|vvv|G3361|Adv
+v6 μὴ|mē|...|G3361|Adv
 v6 γενεαλογούμενος|genealogoumenos|who did not trace his descent|G1075|V-PPM/P-NMS
 v6 ἐξ|ex|from|G1537|Prep
 v6 αὐτῶν|autōn|[Levi]|G846|PPro-GM3P
@@ -120,9 +120,9 @@ v6 ἔχοντα|echonta|had|G2192|V-PPA-AMS
 v6 τὰς|tas|the|G3588|Art-AFP
 v6 ἐπαγγελίας|epangelias|promises|G1860|N-AFP
 v6 εὐλόγηκεν|eulogēken|blessed|G2127|V-RIA-3S
-v7 χωρὶς|chōris|vvv|G5565|Prep
+v7 χωρὶς|chōris|...|G5565|Prep
 v7 δὲ|de|And|G1161|Conj
-v7 πάσης|pasēs|vvv|G3956|Adj-GFS
+v7 πάσης|pasēs|...|G3956|Adj-GFS
 v7 ἀντιλογίας|antilogias|indisputably|G485|N-GFS
 v7 τὸ|to|the|G3588|Art-NNS
 v7 ἔλαττον|elatton|lesser|G1640|Adj-NNS-C
@@ -130,9 +130,9 @@ v7 ὑπὸ|hypo|by|G5259|Prep
 v7 τοῦ|tou|the|G3588|Art-GMS
 v7 κρείττονος|kreittonos|greater|G2909|Adj-GMS-C
 v7 εὐλογεῖται|eulogeitai|is blessed|G2127|V-PIM/P-3S
-v8 Καὶ|Kai|vvv|G2532|Conj
+v8 Καὶ|Kai|...|G2532|Conj
 v8 ὧδε|hōde|In the case [of the Levites]|G5602|Adv
-v8 μὲν|men|vvv|G3303|Conj
+v8 μὲν|men|...|G3303|Conj
 v8 δεκάτας|dekatas|the tenth|G1181|Adj-AFP
 v8 ἀποθνῄσκοντες|apothnēskontes|mortal|G599|V-PPA-NMP
 v8 ἄνθρωποι|anthrōpoi|men|G444|N-NMP
@@ -144,7 +144,7 @@ v8 ὅτι|hoti|that|G3754|Conj
 v8 ζῇ|zē|he lives on|G2198|V-PIA-3S
 v9 καὶ|kai|And|G2532|Conj
 v9 ὡς|hōs|so|G5613|Adv
-v9 ἔπος|epos|vvv|G2031|N-ANS
+v9 ἔπος|epos|...|G2031|N-ANS
 v9 εἰπεῖν|eipein|to speak|G2036|V-ANA
 v9 δι’|di’|through|G1223|Prep
 v9 Ἀβραὰμ|Abraam|Abraham|G11|N-GMS
@@ -202,7 +202,7 @@ v12 μετατιθεμένης|metatithemenēs|is changed|G3346|V-PPM/P-GFS
 v12 γὰρ|gar|For [when]|G1063|Conj
 v12 τῆς|tēs|the|G3588|Art-GFS
 v12 ἱερωσύνης|hierōsynēs|priesthood|G2420|N-GFS
-v12 ἐξ|ex|vvv|G1537|Prep
+v12 ἐξ|ex|...|G1537|Prep
 v12 ἀνάγκης|anankēs|must|G318|N-GFS
 v12 καὶ|kai|as well|G2532|Conj
 v12 νόμου|nomou|[the] law|G3551|N-GMS
@@ -269,8 +269,8 @@ v17 γὰρ|gar|For|G1063|Conj
 v17 ὅτι|hoti|-|G3754|Conj
 v17 Σὺ|Sy|You [are]|G4771|PPro-N2S
 v17 ἱερεὺς|hiereus|a priest|G2409|N-NMS
-v17 εἰς|eis|vvv|G1519|Prep
-v17 τὸν|ton|vvv|G3588|Art-AMS
+v17 εἰς|eis|...|G1519|Prep
+v17 τὸν|ton|...|G3588|Art-AMS
 v17 αἰῶνα|aiōna|forever|G165|N-AMS
 v17 κατὰ|kata|in|G2596|Prep
 v17 τὴν|tēn|the|G3588|Art-AFS
@@ -328,12 +328,12 @@ v21 αὐτόν|auton|Him|G846|PPro-AM3S
 v21 Ὤμοσεν|Ōmosen|has sworn|G3660|V-AIA-3S
 v21 Κύριος|Kyrios|[The] Lord|G2962|N-NMS
 v21 καὶ|kai|and|G2532|Conj
-v21 οὐ|ou|vvv|G3756|Adv
+v21 οὐ|ou|...|G3756|Adv
 v21 μεταμεληθήσεται|metamelēthēsetai|will not change His mind|G3338|V-FIP-3S
 v21 Σὺ|Sy|You [are]|G4771|PPro-N2S
 v21 ἱερεὺς|hiereus|a priest|G2409|N-NMS
-v21 εἰς|eis|vvv|G1519|Prep
-v21 τὸν|ton|vvv|G3588|Art-AMS
+v21 εἰς|eis|...|G1519|Prep
+v21 τὸν|ton|...|G3588|Art-AMS
 v21 αἰῶνα|aiōna|forever|G165|N-AMS
 v22 Κατὰ|Kata|Because of|G2596|Prep
 v22 τοσοῦτο|tosouto|this|G5118|DPro-ANS
@@ -361,8 +361,8 @@ v24 διὰ|dia|because|G1223|Prep
 v24 τὸ|to|-|G3588|Art-ANS
 v24 μένειν|menein|lives|G3306|V-PNA
 v24 αὐτὸν|auton|[Jesus]|G846|PPro-AM3S
-v24 εἰς|eis|vvv|G1519|Prep
-v24 τὸν|ton|vvv|G3588|Art-AMS
+v24 εἰς|eis|...|G1519|Prep
+v24 τὸν|ton|...|G3588|Art-AMS
 v24 αἰῶνα|aiōna|forever|G165|N-AMS
 v24 ἀπαράβατον|aparabaton|a permanent|G531|Adj-AFS
 v24 ἔχει|echei|He has|G2192|V-PIA-3S
@@ -371,8 +371,8 @@ v24 ἱερωσύνην|hierōsynēn|priesthood|G2420|N-AFS
 v25 ὅθεν|hothen|Therefore|G3606|Conj
 v25 καὶ|kai|-|G2532|Conj
 v25 σῴζειν|sōzein|to save|G4982|V-PNA
-v25 εἰς|eis|vvv|G1519|Prep
-v25 τὸ|to|vvv|G3588|Art-ANS
+v25 εἰς|eis|...|G1519|Prep
+v25 τὸ|to|...|G3588|Art-ANS
 v25 παντελὲς|panteles|completely|G3838|Adj-ANS
 v25 δύναται|dynatai|He is able|G1410|V-PIM/P-3S
 v25 τοὺς|tous|those who|G3588|Art-AMP
@@ -409,7 +409,7 @@ v26 γενόμενος|genomenos|exalted|G1096|V-APM-NMS
 v27 ὃς|hos|[He]|G3739|RelPro-NMS
 v27 οὐκ|ouk|not|G3756|Adv
 v27 ἔχει|echei|does|G2192|V-PIA-3S
-v27 καθ’|kath’|vvv|G2596|Prep
+v27 καθ’|kath’|...|G2596|Prep
 v27 ἡμέραν|hēmeran|daily|G2250|N-AFS
 v27 ἀνάγκην|anankēn|need|G318|N-AFS
 v27 ὥσπερ|hōsper|[Unlike]|G5618|Adv
@@ -450,7 +450,7 @@ v28 μετὰ|meta|after|G3326|Prep
 v28 τὸν|ton|the|G3588|Art-AMS
 v28 νόμον|nomon|law|G3551|N-AMS
 v28 Υἱόν|Huion|[the] Son|G5207|N-AMS
-v28 εἰς|eis|vvv|G1519|Prep
-v28 τὸν|ton|vvv|G3588|Art-AMS
+v28 εἰς|eis|...|G1519|Prep
+v28 τὸν|ton|...|G3588|Art-AMS
 v28 αἰῶνα|aiōna|forever|G165|N-AMS
 v28 τετελειωμένον|teteleiōmenon|who has been made perfect|G5048|V-RPM/P-AMS

@@ -281,7 +281,7 @@ v19 Ἡ|Hē|-|G3588|Art-NFS
 v19 γὰρ|gar|-|G1063|Conj
 v19 ὑμῶν|hymōn|about your|G4771|PPro-G2P
 v19 ὑπακοὴ|hypakoē|obedience|G5218|N-NFS
-v19 εἰς|eis|vvv|G1519|Prep
+v19 εἰς|eis|...|G1519|Prep
 v19 πάντας|pantas|Everyone|G3956|Adj-AMP
 v19 ἀφίκετο|aphiketo|[has heard]|G864|V-AIM-3S
 v19 ἐφ’|eph’|over|G1909|Prep
@@ -302,7 +302,7 @@ v19 εἰς|eis|about|G1519|Prep
 v19 τὸ|to|what [is]|G3588|Art-ANS
 v19 κακόν|kakon|evil|G2556|Adj-ANS
 v20 Ὁ|Ho|The|G3588|Art-NMS
-v20 δὲ|de|vvv|G1161|Conj
+v20 δὲ|de|...|G1161|Conj
 v20 Θεὸς|Theos|God|G2316|N-NMS
 v20 τῆς|tēs|-|G3588|Art-GFS
 v20 εἰρήνης|eirēnēs|of peace|G1515|N-GFS
@@ -313,8 +313,8 @@ v20 ὑπὸ|hypo|under|G5259|Prep
 v20 τοὺς|tous|-|G3588|Art-AMP
 v20 πόδας|podas|feet|G4228|N-AMP
 v20 ὑμῶν|hymōn|your|G4771|PPro-G2P
-v20 ἐν|en|vvv|G1722|Prep
-v20 τάχει|tachei|vvv|G5034|N-DNS
+v20 ἐν|en|...|G1722|Prep
+v20 τάχει|tachei|...|G5034|N-DNS
 v20 Ἡ|HĒ|The|G3588|Art-NFS
 v20 χάρις|charis|grace|G5485|N-NFS
 v20 τοῦ|tou|-|G3588|Art-GMS
@@ -387,13 +387,13 @@ v25 Χριστοῦ|Christou|Christ|G5547|N-GMS
 v25 κατὰ|kata|according to|G2596|Prep
 v25 ἀποκάλυψιν|apokalypsin|[the] revelation|G602|N-AFS
 v25 μυστηρίου|mystēriou|of [the] mystery|G3466|N-GNS
-v25 χρόνοις|chronois|vvv|G5550|N-DMP
+v25 χρόνοις|chronois|...|G5550|N-DMP
 v25 αἰωνίοις|aiōniois|for ages past|G166|Adj-DMP
 v25 σεσιγημένου|sesigēmenou|concealed|G4601|V-RPM/P-GNS
 v26 φανερωθέντος|phanerōthentos|revealed|G5319|V-APP-GMS
 v26 δὲ|de|but|G1161|Conj
 v26 νῦν|nyn|now|G3568|Adv
-v26 διά|dia|vvv|G1223|Prep
+v26 διά|dia|...|G1223|Prep
 v26 τε|te|through|G5037|Conj
 v26 γραφῶν|graphōn|the writings|G1124|N-GFP
 v26 προφητικῶν|prophētikōn|of the prophets|G4397|Adj-GFP
@@ -419,8 +419,8 @@ v27 Χριστοῦ|Christou|Christ|G5547|N-GMS
 v27 ᾧ|hō|-|G3739|RelPro-DMS
 v27 ἡ|hē|[be]|G3588|Art-NFS
 v27 δόξα|doxa|glory|G1391|N-NFS
-v27 εἰς|eis|vvv|G1519|Prep
-v27 τοὺς|tous|vvv|G3588|Art-AMP
+v27 εἰς|eis|...|G1519|Prep
+v27 τοὺς|tous|...|G3588|Art-AMP
 v27 αἰῶνας|aiōnas|forever|G165|N-AMP
 v27 〈τῶν|tōn|...|G3588|Art-GMP
 v27 αἰώνων〉|aiōnōn|...|G165|N-GMP

@@ -202,7 +202,7 @@ v16 כִּ֣י|kî|that|H3588|Conj
 v16 אֵ֣ין|’ên|there was no one|H369|Adv
 v16 מַפְגִּ֑יעַ|map̄·gî·a‘|to intercede|H6293|V-Hifil-Prtcpl-ms
 v16 וַתּ֤וֹשַֽׁע|wat·tō·wō·ša‘|brought salvation|H3467|Conj-w | V-Hifil-ConsecImperf-3fs
-v16 לוֹ֙|lōw||H0|Prep | 3ms
+v16 לוֹ֙|lōw|-|H0|Prep | 3ms
 v16 זְרֹע֔וֹ|zə·rō·‘ōw|So His own arm|H2220|N-fsc | 3ms
 v16 וְצִדְקָת֖וֹ|wə·ṣiḏ·qā·ṯōw|and His own righteousness|H6666|Conj-w | N-fsc | 3ms
 v16 הִ֥יא|hî|...|H1931|Pro-3fs
@@ -247,7 +247,7 @@ v19 צָ֔ר|ṣār|like a raging|H6862|V-Qal-Prtcpl-ms
 v19 ר֥וּחַ|rū·aḥ|by the breath|H7307|N-csc
 v19 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v19 נֹ֥סְסָה|nō·sə·sāh|driven|H5127|V-Piel-Perf-3fs
-v19 בֽוֹ׃|ḇōw||H0|Prep | 3ms
+v19 בֽוֹ׃|ḇōw|-|H0|Prep | 3ms
 v20 וּבָ֤א|ū·ḇā|will come|H935|Conj-w | V-Qal-ConjPerf-3ms
 v20 לְצִיּוֹן֙|lə·ṣî·yō·wn|to Zion|H6726|Prep-l | N-proper-fs
 v20 גּוֹאֵ֔ל|gō·w·’êl|The Redeemer|H1350|V-Qal-Prtcpl-ms
@@ -275,10 +275,10 @@ v21 מִפִּיךָ֩|mip·pî·ḵā|from your mouth|H6310|Prep-m | N-msc | 2m
 v21 וּמִפִּ֨י|ū·mip·pî|or from the mouths|H6310|Conj-w, Prep-m | N-msc
 v21 זַרְעֲךָ֜|zar·‘ă·ḵā|of your children|H2233|N-msc | 2ms
 v21 וּמִפִּ֨י|ū·mip·pî|[and]|H6310|Conj-w, Prep-m | N-msc
-v21 זֶ֤רַע|ze·ra‘|vvv|H2233|N-msc
+v21 זֶ֤רַע|ze·ra‘|...|H2233|N-msc
 v21 זַרְעֲךָ֙|zar·‘ă·ḵā|grandchildren|H2233|N-msc | 2ms
 v21 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v21 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v21 מֵעַתָּ֖ה|mê·‘at·tāh|from now on|H6258|Prep-m | Adv
 v21 וְעַד־|wə·‘aḏ-|and|H5704|Conj-w | Prep
-v21 עוֹלָֽם׃ס|‘ō·w·lām|forevermore|H5769|N-ms
+v21 עוֹלָֽם׃|‘ō·w·lām|forevermore|H5769|N-ms

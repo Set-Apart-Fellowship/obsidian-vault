@@ -47,7 +47,7 @@ v4 וּשְׁלֹשִׁ֤ים|ū·šə·lō·šîm|thirty-three|H7970|Conj-w | N
 v4 וְשָׁלוֹשׁ֙|wə·šā·lō·wōš|...|H7969|Conj-w | Number-fs
 v4 שָׁנָ֔ה|šā·nāh|years|H8141|N-fs
 v4 מָלַ֖ךְ|mā·laḵ|And David reigned|H4427|V-Qal-Perf-3ms
-v4 בִּירוּשָׁלִָֽם׃ס|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
+v4 בִּירוּשָׁלִָֽם׃|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v5 וְאֵ֥לֶּה|wə·’êl·leh|and these [sons]|H428|Conj-w | Pro-cp
 v5 נוּלְּדוּ־|nūl·lə·ḏū-|were born|H3205|V-Nifal-Perf-3cp
 v5 ל֖וֹ|lōw|to him|H0|Prep | 3ms
@@ -57,7 +57,7 @@ v5 וְשׁוֹבָ֞ב|wə·šō·w·ḇāḇ|Shobab|H7727|Conj-w | N-proper-ms
 v5 וְנָתָ֤ן|wə·nā·ṯān|Nathan|H5416|Conj-w | N-proper-ms
 v5 וּשְׁלֹמֹה֙|ū·šə·lō·mōh|and Solomon|H8010|Conj-w | N-proper-ms
 v5 אַרְבָּעָ֔ה|’ar·bā·‘āh|These four [were born to him]|H702|Number-ms
-v5 לְבַת־|lə·ḇaṯ-|vvv|H1340|Prep
+v5 לְבַת־|lə·ḇaṯ-|...|H1340|Prep
 v5 שׁ֖וּעַ|šū·a‘|by Bathsheba|H1340|Prep | N-proper-fs
 v5 בַּת־|baṯ-|daughter|H1323|N-fsc
 v5 עַמִּיאֵֽל׃|‘am·mî·’êl|of Ammiel|H5988|N-proper-ms
@@ -78,7 +78,7 @@ v9 מִלְּבַ֥ד|mil·lə·ḇaḏ|besides|H905|Prep-m, Prep-l | N-ms
 v9 בְּֽנֵי־|bə·nê-|the sons|H1121|N-mpc
 v9 פִֽילַגְשִׁ֖ים|p̄î·laḡ·šîm|by his concubines|H6370|N-fp
 v9 וְתָמָ֥ר|wə·ṯā·mār|And Tamar|H8559|Conj-w | N-proper-fs
-v9 אֲחוֹתָֽם׃פ|’ă·ḥō·w·ṯām|[was] their sister|H269|N-fsc | 3mp
+v9 אֲחוֹתָֽם׃|’ă·ḥō·w·ṯām|[was] their sister|H269|N-fsc | 3mp
 v10 וּבֶן־|ū·ḇen-|son|H1121|Conj-w | N-msc
 v10 שְׁלֹמֹ֖ה|šə·lō·mōh|Solomon's|H8010|N-proper-ms
 v10 רְחַבְעָ֑ם|rə·ḥaḇ·‘ām|was Rehoboam|H7346|N-proper-ms
@@ -151,7 +151,7 @@ v20 וַחֲשֻׁבָ֡ה|wa·ḥă·šu·ḇāh|Hashubah|H2807|Conj-w | N-pro
 v20 וָ֠אֹהֶל|wā·’ō·hel|Ohel|H169|Conj-w | N-proper-ms
 v20 וּבֶרֶכְיָ֧ה|ū·ḇe·reḵ·yāh|Berechiah|H1296|Conj-w | N-proper-ms
 v20 וַֽחֲסַדְיָ֛ה|wa·ḥă·saḏ·yāh|Hasadiah|H2619|Conj-w | N-proper-ms
-v20 י֥וּשַׁב|yū·šaḇ|vvv|H3142|
+v20 י֥וּשַׁב|yū·šaḇ|...|H3142|
 v20 חֶ֖סֶד|ḥe·seḏ|and Jushab-hesed|H3142|N-proper-ms
 v20 חָמֵֽשׁ׃|ḥā·mêš|and five others|H2568|Number-fs
 v21 וּבֶן־|ū·ḇen-|The descendants|H1121|Conj-w | N-msc
@@ -165,7 +165,7 @@ v21 אַרְנָ֔ן|’ar·nān|of Arnan|H770|N-proper-ms
 v21 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v21 עֹבַדְיָ֖ה|‘ō·ḇaḏ·yāh|of Obadiah|H5662|N-proper-ms
 v21 בְּנֵ֥י|bə·nê|and|H1121|N-mpc
-v21 שְׁכַנְיָֽה׃ס|šə·ḵan·yāh|of Shecaniah|H7935|N-proper-ms
+v21 שְׁכַנְיָֽה׃|šə·ḵan·yāh|of Shecaniah|H7935|N-proper-ms
 v22 וּבְנֵ֥י|ū·ḇə·nê|descendants|H1121|Conj-w | N-mpc
 v22 שְׁכַנְיָ֖ה|šə·ḵan·yāh|of Shecaniah|H7935|N-proper-ms
 v22 שְׁמַעְיָ֑ה|šə·ma‘·yāh|[were] Shemaiah|H8098|N-proper-ms
@@ -192,4 +192,4 @@ v24 וְ֠עַקּוּב|wə·‘aq·qūḇ|Akkub|H6126|Conj-w | N-proper-ms
 v24 וְיוֹחָנָ֧ן|wə·yō·w·ḥā·nān|Johanan|H3110|Conj-w | N-proper-ms
 v24 וּדְלָיָ֛ה|ū·ḏə·lā·yāh|Delaiah|H1806|Conj-w | N-proper-ms
 v24 וַעֲנָ֖נִי|wa·‘ă·nā·nî|and Anani|H6054|Conj-w | N-proper-ms
-v24 שִׁבְעָֽה׃ס|šiḇ·‘āh|seven [in all]|H7651|Number-ms
+v24 שִׁבְעָֽה׃|šiḇ·‘āh|seven [in all]|H7651|Number-ms

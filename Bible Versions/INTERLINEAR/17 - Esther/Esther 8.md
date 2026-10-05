@@ -35,7 +35,7 @@ v2 אֶֽת־|’eṯ-|-|H853|DirObjM
 v2 מָרְדֳּכַ֖י|mā·rə·do·ḵay|Mordecai|H4782|N-proper-ms
 v2 עַל־|‘al-|over|H5921|Prep
 v2 בֵּ֥ית|bêṯ|the estate|H1004|N-msc
-v2 הָמָֽן׃פ|hā·mān|of Haman|H2001|N-proper-ms
+v2 הָמָֽן׃|hā·mān|of Haman|H2001|N-proper-ms
 v3 וַתּ֣וֹסֶף|wat·tō·w·sep̄|And once again|H3254|Conj-w | V-Hifil-ConsecImperf-3fs
 v3 אֶסְתֵּ֗ר|’es·têr|Esther|H635|N-proper-fs
 v3 וַתְּדַבֵּר֙|wat·tə·ḏab·bêr|addressed|H1696|Conj-w | V-Piel-ConsecImperf-3fs
@@ -116,7 +116,7 @@ v6 וְאֵֽיכָכָ֤ה|wə·’ê·ḵā·ḵāh|How|H349|Conj-w | Interjec
 v6 אוּכַל֙|’ū·ḵal|could I bear|H3201|V-Qal-Imperf-1cs
 v6 וְֽרָאִ֔יתִי|wə·rā·’î·ṯî|to see|H7200|Conj-w | V-Qal-ConjPerf-1cs
 v6 בְּאָבְדַ֖ן|bə·’ā·ḇə·ḏan|the destruction|H13|Prep-b | N-msc
-v6 מוֹלַדְתִּֽי׃ס|mō·w·laḏ·tî|of my kindred|H4138|N-fsc | 1cs
+v6 מוֹלַדְתִּֽי׃|mō·w·laḏ·tî|of my kindred|H4138|N-fsc | 1cs
 v7 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v7 הַמֶּ֤לֶךְ|ham·me·leḵ|So King|H4428|Art | N-ms
 v7 אֲחַשְׁוֵרֹשׁ֙|’ă·ḥaš·wê·rōš|Xerxes|H325|N-proper-ms
@@ -164,7 +164,7 @@ v9 וַיִּקָּרְא֣וּ|way·yiq·qā·rə·’ū|were summoned|H7121|Co
 v9 סֹפְרֵֽי־|sō·p̄ə·rê-|scribes|H5613|N-mpc
 v9 הַמֶּ֣לֶךְ|ham·me·leḵ|the royal|H4428|Art | N-ms
 v9 בָּֽעֵת־|bā·‘êṯ-|At once|H6256|Prep-b, Art | N-cs
-v9 הַ֠הִיא|ha·hî|vvv|H1931|Art | Pro-3fs
+v9 הַ֠הִיא|ha·hî|...|H1931|Art | Pro-3fs
 v9 בַּחֹ֨דֶשׁ|ba·ḥō·ḏeš|month|H2320|Prep-b, Art | N-ms
 v9 הַשְּׁלִישִׁ֜י|haš·šə·lî·šî|of the third|H7992|Art | Number-oms
 v9 הוּא־|hū-|...|H1931|Pro-3ms
@@ -172,7 +172,7 @@ v9 חֹ֣דֶשׁ|ḥō·ḏeš|the month|H2320|N-msc
 v9 סִיוָ֗ן|sî·wān|of Sivan|H5510|N-proper-fs
 v9 בִּשְׁלוֹשָׁ֣ה|biš·lō·wō·šāh|and on the twenty-third [day]|H7969|Prep-b | Number-ms
 v9 וְעֶשְׂרִים֮|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
-v9 בּוֹ֒|bōw||H0|Prep | 3ms
+v9 בּוֹ֒|bōw|-|H0|Prep | 3ms
 v9 וַיִּכָּתֵ֣ב|way·yik·kā·ṯêḇ|they recorded|H3789|Conj-w | V-Nifal-ConsecImperf-3ms
 v9 כְּֽכָל־|kə·ḵāl-|all of|H3605|Prep-k | N-msc
 v9 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
@@ -185,7 +185,7 @@ v9 הָאֲחַשְׁדַּרְפְּנִֽים־|hā·’ă·ḥaš·dar·pə�
 v9 וְהַפַּחוֹת֩|wə·hap·pa·ḥō·wṯ|governors|H6346|Conj-w, Art | N-mp
 v9 וְשָׂרֵ֨י|wə·śā·rê|and princes|H8269|Conj-w | N-mpc
 v9 הַמְּדִינ֜וֹת|ham·mə·ḏî·nō·wṯ|provinces|H4082|Art | N-fp
-v9 אֲשֶׁ֣ר׀|’ă·šer||H834|Pro-r
+v9 אֲשֶׁ֣ר׀|’ă·šer|-|H834|Pro-r
 v9 מֵהֹ֣דּוּ|mê·hōd·dū|from India|H1912|Prep-m | N-proper-fs
 v9 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
 v9 כּ֗וּשׁ|kūš|Cush|H3568|N-proper-fs
@@ -196,7 +196,7 @@ v9 מְדִינָ֔ה|mə·ḏî·nāh|[writing] to each province|H4082|N-fs
 v9 מְדִינָ֤ה|mə·ḏî·nāh|...|H4082|N-fs
 v9 וּמְדִינָה֙|ū·mə·ḏî·nāh|in its own script|H4082|Conj-w | N-fs
 v9 כִּכְתָבָ֔הּ|kiḵ·ṯā·ḇāh|...|H3791|Prep-k | N-msc | 3fs
-v9 וְעַ֥ם|wə·‘am|vvv|H5971|Conj-w | N-ms
+v9 וְעַ֥ם|wə·‘am|...|H5971|Conj-w | N-ms
 v9 וָעָ֖ם|wā·‘ām|to every people|H5971|Conj-w | N-ms
 v9 כִּלְשֹׁנ֑וֹ|kil·šō·nōw|in their own language|H3956|Prep-k | N-csc | 3ms
 v9 וְאֶ֨ל־|wə·’el-|and to|H413|Conj-w | Prep
@@ -289,7 +289,7 @@ v14 הַמֶּ֑לֶךְ|ham·me·leḵ|of the king|H4428|Art | N-ms
 v14 וְהַדָּ֥ת|wə·had·dāṯ|And the edict|H1881|Conj-w, Art | N-fs
 v14 נִתְּנָ֖ה|nit·tə·nāh|was also issued|H5414|V-Nifal-Perf-3fs
 v14 בְּשׁוּשַׁ֥ן|bə·šū·šan|of Susa|H7800|Prep-b | N-proper-ms
-v14 הַבִּירָֽה׃פ|hab·bî·rāh|in the citadel|H1002|Art | N-fs
+v14 הַבִּירָֽה׃|hab·bî·rāh|in the citadel|H1002|Art | N-fs
 v15 וּמָרְדֳּכַ֞י|ū·mā·rə·do·ḵay|Mordecai|H4782|Conj-w | N-proper-ms
 v15 יָצָ֣א׀|yā·ṣā|went out|H3318|V-Qal-Perf-3ms
 v15 מִלִּפְנֵ֣י|mil·lip̄·nê|from the presence|H6440|Prep-m, Prep-l | N-cpc

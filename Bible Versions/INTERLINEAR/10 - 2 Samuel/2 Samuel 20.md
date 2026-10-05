@@ -6,7 +6,7 @@ v1 וּשְׁמ֛וֹ|ū·šə·mōw|named|H8034|Conj-w | N-msc | 3ms
 v1 שֶׁ֥בַע|še·ḇa‘|Sheba|H7652|N-proper-ms
 v1 בֶּן־|ben-|son|H1121|N-msc
 v1 בִּכְרִ֖י|biḵ·rî|of Bichri|H1075|N-proper-ms
-v1 אִ֣ישׁ|’îš|vvv|H376|N-ms
+v1 אִ֣ישׁ|’îš|...|H376|N-ms
 v1 יְמִינִ֑י|yə·mî·nî|a Benjamite|H3228|N-proper-ms
 v1 וַיִּתְקַ֣ע|way·yiṯ·qa‘|and he blew|H8628|Conj-w | V-Qal-ConsecImperf-3ms
 v1 בַּשֹּׁפָ֗ר|baš·šō·p̄ār|the ram's horn|H7782|Prep-b, Art | N-ms
@@ -69,7 +69,7 @@ v3 עַד־|‘aḏ-|until|H5704|Prep
 v3 י֥וֹם|yō·wm|the day|H3117|N-msc
 v3 מֻתָ֖ן|mu·ṯān|of their death|H4191|V-Qal-Inf | 3fp
 v3 אַלְמְנ֥וּת|’al·mə·nūṯ|as widows|H491|N-fsc
-v3 חַיּֽוּת׃ס|ḥay·yūṯ|living|H2424|N-fs
+v3 חַיּֽוּת׃|ḥay·yūṯ|living|H2424|N-fs
 v4 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 הַמֶּ֙לֶךְ֙|ham·me·leḵ|Then the king|H4428|Art | N-ms
 v4 אֶל־|’el-|to|H413|Prep
@@ -93,7 +93,7 @@ v5 וַיֵּיחַר|way·yē·ḥar|but he took longer|H309|Conj-w | V-Hifil-C
 v5 מִן־|min-|than|H4480|Prep
 v5 הַמּוֹעֵ֖ד|ham·mō·w·‘êḏ|the time|H4150|Art | N-ms
 v5 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v5 יְעָדֽוֹ׃ס|yə·‘ā·ḏōw|allotted him|H3259|V-Qal-Perf-3ms | 3ms
+v5 יְעָדֽוֹ׃|yə·‘ā·ḏōw|allotted him|H3259|V-Qal-Perf-3ms | 3ms
 v6 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 דָּוִד֙|dā·wiḏ|And David|H1732|N-proper-ms
 v6 אֶל־|’el-|to|H413|Prep
@@ -157,7 +157,7 @@ v8 מָתְנָיו֙|mā·ṯə·nāw|...|H4975|N-mdc | 3ms
 v8 בְּתַעְרָ֔הּ|bə·ṯa‘·rāh|from its sheath|H8593|Prep-b | N-msc | 3fs
 v8 וְה֥וּא|wə·hū|And as he|H1931|Conj-w | Pro-3ms
 v8 יָצָ֖א|yā·ṣā|stepped forward|H3318|V-Qal-Perf-3ms
-v8 וַתִּפֹּֽל׃ס|wat·tip·pōl|he slipped the dagger|H5307|Conj-w | V-Qal-ConsecImperf-3fs
+v8 וַתִּפֹּֽל׃|wat·tip·pōl|he slipped the dagger|H5307|Conj-w | V-Qal-ConsecImperf-3fs
 v9 וַיֹּ֤אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יוֹאָב֙|yō·w·’āḇ|Joab|H3097|N-proper-ms
 v9 לַעֲמָשָׂ֔א|la·‘ă·mā·śā|Amasa|H6021|Prep-l | N-proper-ms
@@ -295,7 +295,7 @@ v16 שִׁמְע֤וּ|šim·‘ū|Listen|H8085|V-Qal-Imp-mp
 v16 שִׁמְעוּ֙|šim·‘ū|Listen|H8085|V-Qal-Imp-mp
 v16 אִמְרוּ־|’im·rū-|tell|H559|V-Qal-Imp-mp
 v16 נָ֣א|nā|Please|H4994|Interjection
-v16 אֶל־|’el-||H413|Prep
+v16 אֶל־|’el-|-|H413|Prep
 v16 יוֹאָ֔ב|yō·w·’āḇ|Joab|H3097|N-proper-ms
 v16 קְרַ֣ב|qə·raḇ|to come|H7126|V-Qal-Imp-ms
 v16 עַד־|‘aḏ-|...|H5704|Prep
@@ -311,7 +311,7 @@ v17 יוֹאָ֖ב|yō·w·’āḇ|Joab|H3097|N-proper-ms
 v17 וַיֹּ֣אמֶר|way·yō·mer|he replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v17 אָ֑נִי|’ā·nî|I [am]|H589|Pro-1cs
 v17 וַתֹּ֣אמֶר|wat·tō·mer|she said|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v17 ל֗וֹ|lōw||H0|Prep | 3ms
+v17 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v17 שְׁמַע֙|šə·ma‘|Listen|H8085|V-Qal-Imp-ms
 v17 דִּבְרֵ֣י|diḇ·rê|to the words|H1697|N-mpc
 v17 אֲמָתֶ֔ךָ|’ă·mā·ṯe·ḵā|of your servant|H519|N-fsc | 2ms
@@ -342,8 +342,8 @@ v19 בְּיִשְׂרָאֵ֔ל|bə·yiś·rā·’êl|in Israel|H3478|Prep-b |
 v19 לָ֥מָּה|lām·māh|Why|H4100|Interrog
 v19 תְבַלַּ֖ע|ṯə·ḇal·la‘|would you swallow up|H1104|V-Piel-Imperf-2ms
 v19 נַחֲלַ֥ת|na·ḥă·laṯ|inheritance|H5159|N-fsc
-v19 יְהוָֽה׃פ|Yah·weh|the LORD's|H3068|N-proper-ms
-v20 וַיַּ֥עַן|way·ya·‘an||H6030|Conj-w | V-Qal-ConsecImperf-3ms
+v19 יְהוָֽה׃|Yah·weh|the LORD's|H3068|N-proper-ms
+v20 וַיַּ֥עַן|way·ya·‘an|-|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v20 יוֹאָ֖ב|yō·w·’āḇ|Joab|H3097|N-proper-ms
 v20 וַיֹּאמַ֑ר|way·yō·mar|declared|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 חָלִ֤ילָה|ḥā·lî·lāh|Far be it|H2486|Interjection | 3fs
@@ -410,7 +410,7 @@ v22 וְיוֹאָ֛ב|wə·yō·w·’āḇ|And Joab|H3097|Conj-w | N-proper-ms
 v22 שָׁ֥ב|šāḇ|returned|H7725|V-Qal-Perf-3ms
 v22 יְרוּשָׁלִַ֖ם|yə·rū·šā·lim|in Jerusalem|H3389|N-proper-fs
 v22 אֶל־|’el-|to|H413|Prep
-v22 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|the king|H4428|Art | N-ms
+v22 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v23 וְיוֹאָ֕ב|wə·yō·w·’āḇ|Now Joab|H3097|Conj-w | N-proper-ms
 v23 אֶ֥ל|’el|was over|H413|Prep
 v23 כָּל־|kāl-|the whole|H3605|N-msc
@@ -440,4 +440,4 @@ v26 עִירָא֙|‘î·rā|Ira|H5896|N-proper-ms
 v26 הַיָּ֣אִרִ֔י|hay·yā·’i·rî|the Jairite|H2972|Art | N-proper-ms
 v26 הָיָ֥ה|hā·yāh|was|H1961|V-Qal-Perf-3ms
 v26 כֹהֵ֖ן|ḵō·hên|priest|H3548|N-ms
-v26 לְדָוִֽד׃ס|lə·ḏā·wiḏ|David's|H1732|Prep-l | N-proper-ms
+v26 לְדָוִֽד׃|lə·ḏā·wiḏ|David's|H1732|Prep-l | N-proper-ms

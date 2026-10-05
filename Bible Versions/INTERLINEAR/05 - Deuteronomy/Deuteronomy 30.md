@@ -7,7 +7,7 @@ v1 הַדְּבָרִ֣ים|had·də·ḇā·rîm|things|H1697|Art | N-mp
 v1 הָאֵ֗לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
 v1 הַבְּרָכָה֙|hab·bə·rā·ḵāh|the blessings|H1293|Art | N-fs
 v1 וְהַקְּלָלָ֔ה|wə·haq·qə·lā·lāh|and curses|H7045|Conj-w, Art | N-fs
-v1 אֲשֶׁ֥ר|’ă·šer||H834|Pro-r
+v1 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v1 נָתַ֖תִּי|nā·ṯat·tî|I have set|H5414|V-Qal-Perf-1cs
 v1 לְפָנֶ֑יךָ|lə·p̄ā·ne·ḵā|before you|H6440|Prep-l | N-cpc | 2ms
 v1 וַהֲשֵׁבֹתָ֙|wa·hă·šê·ḇō·ṯā|and you call [them]|H7725|Conj-w | V-Hifil-ConjPerf-2ms
@@ -162,7 +162,7 @@ v10 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|...|H430|N-mpc | 2ms
 v10 בְּכָל־|bə·ḵāl|with all|H3605|Prep-b | N-msc
 v10 לְבָבְךָ֖|lə·ḇā·ḇə·ḵā|your heart|H3824|N-msc | 2ms
 v10 וּבְכָל־|ū·ḇə·ḵāl|and with all|H3605|Conj-w, Prep-b | N-msc
-v10 נַפְשֶֽׁךָ׃פ|nap̄·še·ḵā|your soul|H5315|N-fsc | 2ms
+v10 נַפְשֶֽׁךָ׃|nap̄·še·ḵā|your soul|H5315|N-fsc | 2ms
 v11 כִּ֚י|kî|For|H3588|Conj
 v11 הַמִּצְוָ֣ה|ham·miṣ·wāh|commandment|H4687|Art | N-fs
 v11 הַזֹּ֔את|haz·zōṯ|this|H2063|Art | Pro-fs
@@ -213,7 +213,7 @@ v14 הַדָּבָ֖ר|had·dā·ḇār|the word [is]|H1697|Art | N-ms
 v14 מְאֹ֑ד|mə·’ōḏ|very|H3966|Adv
 v14 בְּפִ֥יךָ|bə·p̄î·ḵā|[it is] in your mouth|H6310|Prep-b | N-msc | 2ms
 v14 וּבִֽלְבָבְךָ֖|ū·ḇil·ḇā·ḇə·ḵā|and in your heart|H3824|Conj-w, Prep-b | N-msc | 2ms
-v14 לַעֲשֹׂתֽוֹ׃ס|la·‘ă·śō·ṯōw|so that you may obey it|H6213|Prep-l | V-Qal-Inf | 3ms
+v14 לַעֲשֹׂתֽוֹ׃|la·‘ă·śō·ṯōw|so that you may obey it|H6213|Prep-l | V-Qal-Inf | 3ms
 v15 רְאֵ֨ה|rə·’êh|See|H7200|V-Qal-Imp-ms
 v15 נָתַ֤תִּי|nā·ṯat·tî|I have set|H5414|V-Qal-Perf-1cs
 v15 לְפָנֶ֙יךָ֙|lə·p̄ā·ne·ḵā|before you|H6440|Prep-l | N-cpc | 2ms
@@ -267,7 +267,7 @@ v18 הַיּ֔וֹם|hay·yō·wm|today|H3117|Art | N-ms
 v18 כִּ֥י|kî|that|H3588|Conj
 v18 אָבֹ֖ד|’ā·ḇōḏ|you will surely perish|H6|V-Qal-InfAbs
 v18 תֹּאבֵד֑וּן|tō·ḇê·ḏūn|...|H6|V-Qal-Imperf-2mp | Pn
-v18 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v18 לֹא־|lō-|...|H3808|Adv-NegPrt
 v18 תַאֲרִיכֻ֤ן|ṯa·’ă·rî·ḵun|you shall not prolong|H748|V-Hifil-Imperf-2mp | Pn
 v18 יָמִים֙|yā·mîm|[your] days|H3117|N-mp
 v18 עַל־|‘al-|in|H5921|Prep
@@ -277,8 +277,8 @@ v18 אַתָּ֤ה|’at·tāh|you|H859|Pro-2ms
 v18 עֹבֵר֙|‘ō·ḇêr|are crossing|H5674|V-Qal-Prtcpl-ms
 v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 הַיַּרְדֵּ֔ן|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
-v18 לָבֹ֥א|lå̄·ḇō|vvv|H935|Prep-l | V-Qal-Inf
-v18 שָׁ֖מָּה|šām·māh|vvv|H8033|Adv | 3fs
+v18 לָבֹ֥א|lå̄·ḇō|...|H935|Prep-l | V-Qal-Inf
+v18 שָׁ֖מָּה|šām·māh|...|H8033|Adv | 3fs
 v18 לְרִשְׁתָּֽהּ׃|lə·riš·tāh|to possess|H3423|Prep-l | V-Qal-Inf | 3fs
 v19 הַעִידֹ֨תִי|ha·‘î·ḏō·ṯî|as witnesses|H5749|V-Hifil-Perf-1cs
 v19 בָכֶ֣ם|ḇā·ḵem|against you|H0|Prep | 2mp
@@ -323,4 +323,4 @@ v20 לְאַבְרָהָ֛ם|lə·’aḇ·rā·hām|to Abraham|H85|Prep-l | N-p
 v20 לְיִצְחָ֥ק|lə·yiṣ·ḥāq|Isaac|H3327|Prep-l | N-proper-ms
 v20 וּֽלְיַעֲקֹ֖ב|ū·lə·ya·‘ă·qōḇ|and Jacob|H3290|Conj-w, Prep-l | N-proper-ms
 v20 לָתֵ֥ת|lā·ṯêṯ|to give|H5414|Prep-l | V-Qal-Inf
-v20 לָהֶֽם׃פ|lā·hem|...|H0|Prep-l | Pro-3mp
+v20 לָהֶֽם׃|lā·hem|...|H0|Prep-l | Pro-3mp

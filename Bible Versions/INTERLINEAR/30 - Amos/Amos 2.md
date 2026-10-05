@@ -35,7 +35,7 @@ v3 שָׂרֶ֛יהָ|śā·re·hā|the officials|H8269|N-mpc | 3fs
 v3 אֶהֱר֥וֹג|’e·hĕ·rō·wḡ|and kill|H2026|V-Qal-Imperf-1cs
 v3 עִמּ֖וֹ|‘im·mōw|with him|H5973|Prep | 3ms
 v3 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v3 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v3 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v4 כֹּ֚ה|kōh|This is what|H3541|Adv
 v4 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v4 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -66,7 +66,7 @@ v5 אֵ֖שׁ|’êš|fire|H784|N-cs
 v5 בִּֽיהוּדָ֑ה|bî·hū·ḏāh|upon Judah|H3063|Prep-b | N-proper-ms
 v5 וְאָכְלָ֖ה|wə·’ā·ḵə·lāh|to consume|H398|Conj-w | V-Qal-ConjPerf-3fs
 v5 אַרְמְנ֥וֹת|’ar·mə·nō·wṯ|the citadels|H759|N-mpc
-v5 יְרוּשָׁלִָֽם׃פ|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
+v5 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v6 כֹּ֚ה|kōh|This is what|H3541|Adv
 v6 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v6 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -211,4 +211,4 @@ v16 יָנ֥וּס|yā·nūs|will flee|H5127|V-Qal-Imperf-3ms
 v16 בַּיּוֹם־|bay·yō·wm-|day|H3117|Prep-b, Art | N-ms
 v16 הַה֖וּא|ha·hū|on that|H1931|Art | Pro-3ms
 v16 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v16 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v16 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

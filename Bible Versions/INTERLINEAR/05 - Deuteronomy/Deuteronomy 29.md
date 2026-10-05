@@ -17,7 +17,7 @@ v1 הַבְּרִ֔ית|hab·bə·rîṯ|the covenant|H1285|Art | N-fs
 v1 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v1 כָּרַ֥ת|kā·raṯ|He had made|H3772|V-Qal-Perf-3ms
 v1 אִתָּ֖ם|’it·tām|with them|H854|Prep | 3mp
-v1 בְּחֹרֵֽב׃פ|bə·ḥō·rêḇ|at Horeb|H2722|Prep-b | N-proper-fs
+v1 בְּחֹרֵֽב׃|bə·ḥō·rêḇ|at Horeb|H2722|Prep-b | N-proper-fs
 v2 וַיִּקְרָ֥א|way·yiq·rā|summoned|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v2 מֹשֶׁ֛ה|mō·šeh|Moses|H4872|N-proper-ms
 v2 אֶל־|’el-|to them|H413|Prep
@@ -125,7 +125,7 @@ v9 תַּשְׂכִּ֔ילוּ|taś·kî·lū|you may prosper|H7919|V-Hifil-Imp
 v9 אֵ֖ת|’êṯ|-|H853|DirObjM
 v9 כָּל־|kāl-|in all|H3605|N-msc
 v9 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v9 תַּעֲשֽׂוּן׃פ|ta·‘ă·śūn|you do|H6213|V-Qal-Imperf-2mp | Pn
+v9 תַּעֲשֽׂוּן׃|ta·‘ă·śūn|you do|H6213|V-Qal-Imperf-2mp | Pn
 v10 אַתֶּ֨ם|’at·tem|of you|H859|Pro-2mp
 v10 נִצָּבִ֤ים|niṣ·ṣā·ḇîm|are standing|H5324|V-Nifal-Prtcpl-mp
 v10 הַיּוֹם֙|hay·yō·wm|today|H3117|Art | N-ms
@@ -408,7 +408,7 @@ v26 וַיַּֽעַבְדוּ֙|way·ya·‘aḇ·ḏū|and served|H5647|Conj-w
 v26 אֱלֹהִ֣ים|’ĕ·lō·hîm|gods|H430|N-mp
 v26 אֲחֵרִ֔ים|’ă·ḥê·rîm|other|H312|Adj-mp
 v26 וַיִּֽשְׁתַּחֲוּ֖וּ|way·yiš·ta·ḥăw·wū|and they worshiped|H7812|Conj-w | V-Hitpael-ConsecImperf-3mp
-v26 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v26 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v26 אֱלֹהִים֙|’ĕ·lō·hîm|gods|H430|N-mp
 v26 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v26 לֹֽא־|lō-|they had not|H3808|Adv-NegPrt
@@ -456,4 +456,4 @@ v29 אֶת־|’eṯ-|-|H853|DirObjM
 v29 כָּל־|kāl-|all|H3605|N-msc
 v29 דִּבְרֵ֖י|diḇ·rê|the words|H1697|N-mpc
 v29 הַתּוֹרָ֥ה|hat·tō·w·rāh|law|H8451|Art | N-fs
-v29 הַזֹּֽאת׃ס|haz·zōṯ|of this|H2063|Art | Pro-fs
+v29 הַזֹּֽאת׃|haz·zōṯ|of this|H2063|Art | Pro-fs

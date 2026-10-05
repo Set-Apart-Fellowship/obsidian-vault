@@ -71,7 +71,7 @@ v5 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v5 וְלִקְד֥וֹשׁ|wə·liq·ḏō·wōš|the Holy|H6918|Conj-w, Prep-l | Adj-msc
 v5 יִשְׂרָאֵ֖ל|yiś·rā·’êl|One of Israel|H3478|N-proper-ms
 v5 כִּ֥י|kî|For|H3588|Conj
-v5 פֵאֲרָֽךְ׃ס|p̄ê·’ă·rāḵ|has bestowed glory on you|H6286|V-Piel-Perf-3ms | 2ms
+v5 פֵאֲרָֽךְ׃|p̄ê·’ă·rāḵ|has bestowed glory on you|H6286|V-Piel-Perf-3ms | 2ms
 v6 דִּרְשׁ֥וּ|dir·šū|Seek|H1875|V-Qal-Imp-mp
 v6 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v6 בְּהִמָּצְא֑וֹ|bə·him·mā·ṣə·’ōw|while He may be found|H4672|Prep-b | V-Nifal-Inf | 3ms
@@ -182,4 +182,4 @@ v13 לְשֵׁ֔ם|lə·šêm|a name|H8034|Prep-l | N-ms
 v13 לְא֥וֹת|lə·’ō·wṯ|sign|H226|Prep-l | N-csc
 v13 עוֹלָ֖ם|‘ō·w·lām|an everlasting|H5769|N-ms
 v13 לֹ֥א|lō|never|H3808|Adv-NegPrt
-v13 יִכָּרֵֽת׃ס|yik·kā·rêṯ|to be destroyed|H3772|V-Nifal-Imperf-3ms
+v13 יִכָּרֵֽת׃|yik·kā·rêṯ|to be destroyed|H3772|V-Nifal-Imperf-3ms

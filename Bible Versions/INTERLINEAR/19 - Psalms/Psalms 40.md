@@ -63,7 +63,7 @@ v6 לֹֽא־|lō-|You did not|H3808|Adv-NegPrt
 v6 חָפַ֗צְתָּ|ḥā·p̄aṣ·tā|desire|H2654|V-Qal-Perf-2ms
 v6 אָ֭זְנַיִם|’ā·zə·na·yim|but my ears|H241|N-fd
 v6 כָּרִ֣יתָ|kā·rî·ṯā|You have opened|H3738|V-Qal-Perf-2ms
-v6 לִּ֑י|lî||H0|Prep | 1cs
+v6 לִּ֑י|lî|-|H0|Prep | 1cs
 v6 עוֹלָ֥ה|‘ō·w·lāh|Burnt offerings|H5930|N-fs
 v6 וַ֝חֲטָאָ֗ה|wa·ḥă·ṭā·’āh|and sin offerings|H2401|Conj-w | N-fs
 v6 לֹ֣א|lō|You did not|H3808|Adv-NegPrt
@@ -146,7 +146,7 @@ v14 וְיַחְפְּר֨וּ׀|wə·yaḥ·pə·rū|and confounded|H2659|Conj-
 v14 יַחַד֮|ya·ḥaḏ|...|H3162|Adv
 v14 מְבַקְשֵׁ֥י|mə·ḇaq·šê|May those who seek|H1245|V-Piel-Prtcpl-mpc
 v14 נַפְשִׁ֗י|nap̄·šî|my life|H5315|N-fsc | 1cs
-v14 לִסְפּ֫וֹתָ֥הּ|lis·pō·w·ṯāh|vvv|H5595|Prep-l | V-Qal-Inf | 3fs
+v14 לִסְפּ֫וֹתָ֥הּ|lis·pō·w·ṯāh|...|H5595|Prep-l | V-Qal-Inf | 3fs
 v14 יִסֹּ֣גוּ|yis·sō·ḡū|be repelled|H5472|V-Nifal-Imperf-3mp
 v14 אָ֭חוֹר|’ā·ḥō·wr|...|H268|N-ms
 v14 וְיִכָּלְמ֑וּ|wə·yik·kā·lə·mū|and humiliated|H3637|Conj-w | V-Nifal-ConjImperf-3mp

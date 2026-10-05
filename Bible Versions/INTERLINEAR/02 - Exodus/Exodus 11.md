@@ -13,7 +13,7 @@ v1 מִצְרַ֔יִם|miṣ·ra·yim|Egypt|H4714|N-proper-fs
 v1 אַֽחֲרֵי־|’a·ḥă·rê-|After|H310|Prep
 v1 כֵ֕ן|ḵên|that|H3651|Adv
 v1 יְשַׁלַּ֥ח|yə·šal·laḥ|he will allow you to leave|H7971|V-Piel-Imperf-3ms
-v1 אֶתְכֶ֖ם|’eṯ·ḵem||H853|DirObjM | 2mp
+v1 אֶתְכֶ֖ם|’eṯ·ḵem|-|H853|DirObjM | 2mp
 v1 מִזֶּ֑ה|miz·zeh|this place|H2088|Prep-m | Pro-ms
 v1 כְּשַׁ֨לְּח֔וֹ|kə·šal·lə·ḥōw|And when he lets you go|H7971|Prep-k | V-Piel-Inf | 3ms
 v1 כָּלָ֕ה|kā·lāh|completely|H3617|Adv
@@ -48,13 +48,13 @@ v3 הָאִ֣ישׁ|hā·’îš|himself|H376|Art | N-ms
 v3 מֹשֶׁ֗ה|mō·šeh|Moses|H4872|N-proper-ms
 v3 גָּד֤וֹל|gā·ḏō·wl|regarded|H1419|Adj-ms
 v3 מְאֹד֙|mə·’ōḏ|was highly|H3966|Adv
-v3 בְּאֶ֣רֶץ|bə·’e·reṣ||H776|Prep-b | N-fsc
+v3 בְּאֶ֣רֶץ|bə·’e·reṣ|-|H776|Prep-b | N-fsc
 v3 מִצְרַ֔יִם|miṣ·ra·yim|in Egypt|H4714|N-proper-fs
 v3 בְּעֵינֵ֥י|bə·‘ê·nê|by|H5869|Prep-b | N-cdc
 v3 עַבְדֵֽי־|‘aḇ·ḏê-|officials|H5650|N-mpc
 v3 פַרְעֹ֖ה|p̄ar·‘ōh|Pharaoh's|H6547|N-proper-ms
 v3 וּבְעֵינֵ֥י|ū·ḇə·‘ê·nê|...|H5869|Conj-w, Prep-b | N-cdc
-v3 הָעָֽם׃ס|hā·‘ām|and by the people|H5971|Art | N-ms
+v3 הָעָֽם׃|hā·‘ām|and by the people|H5971|Art | N-ms
 v4 וַיֹּ֣אמֶר|way·yō·mer|declared|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 מֹשֶׁ֔ה|mō·šeh|So Moses|H4872|N-proper-ms
 v4 כֹּ֖ה|kōh|This is what|H3541|Adv
@@ -138,7 +138,7 @@ v8 וַיֵּצֵ֥א|way·yê·ṣê|[Moses] left|H3318|Conj-w | V-Qal-ConsecIm
 v8 מֵֽעִם־|mê·‘im-|presence|H5973|Prep-m
 v8 פַּרְעֹ֖ה|par·‘ōh|Pharaoh's|H6547|N-proper-ms
 v8 בָּחֳרִי־|bā·ḥo·rî-|And hot|H2750|Prep-b | N-msc
-v8 אָֽף׃ס|’āp̄|with anger|H639|N-ms
+v8 אָֽף׃|’āp̄|with anger|H639|N-ms
 v9 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יְהוָה֙|Yah·weh|The LORD|H3068|N-proper-ms
 v9 אֶל־|’el-|to|H413|Prep
@@ -171,4 +171,4 @@ v10 שִׁלַּ֥ח|šil·laḥ|go out|H7971|V-Piel-Perf-3ms
 v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 בְּנֵֽי־|bə·nê-|let the Israelites|H1121|N-mpc
 v10 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
-v10 מֵאַרְצֽוֹ׃פ|mê·’ar·ṣōw|of his land|H776|Prep-m | N-fsc | 3ms
+v10 מֵאַרְצֽוֹ׃|mê·’ar·ṣōw|of his land|H776|Prep-m | N-fsc | 3ms

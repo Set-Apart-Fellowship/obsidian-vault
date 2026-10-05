@@ -55,14 +55,14 @@ v6 בָּֽךְ׃|bāḵ|of You|H0|Prep | 2ms
 v7 כִּֽי־|kî-|For|H3588|Conj
 v7 הָיִ֣יתָ|hā·yî·ṯā|You are|H1961|V-Qal-Perf-2ms
 v7 עֶזְרָ֣תָה|‘ez·rā·ṯāh|my help|H5833|N-fs | 3fs
-v7 לִּ֑י|lî||H0|Prep | 1cs
+v7 לִּ֑י|lî|-|H0|Prep | 1cs
 v7 וּבְצֵ֖ל|ū·ḇə·ṣêl|in the shadow|H6738|Conj-w, Prep-b | N-msc
 v7 כְּנָפֶ֣יךָ|kə·nā·p̄e·ḵā|of Your wings|H3671|N-fpc | 2ms
 v7 אֲרַנֵּֽן׃|’ă·ran·nên|I will sing for joy|H7442|V-Piel-Imperf-1cs
 v8 דָּבְקָ֣ה|dā·ḇə·qāh|clings|H1692|V-Qal-Perf-3fs
 v8 נַפְשִׁ֣י|nap̄·šî|My soul|H5315|N-fsc | 1cs
 v8 אַחֲרֶ֑יךָ|’a·ḥă·re·ḵā|to You|H310|Prep | 2ms
-v8 בִּ֝֗י|bî||H0|Prep | 1cs
+v8 בִּ֝֗י|bî|-|H0|Prep | 1cs
 v8 תָּמְכָ֥ה|tā·mə·ḵāh|upholds me|H8551|V-Qal-Perf-3fs
 v8 יְמִינֶֽךָ׃|yə·mî·ne·ḵā|Your right hand|H3225|N-fsc | 2ms
 v9 וְהֵ֗מָּה|wə·hêm·māh|But those|H1992|Conj-w | Pro-3mp

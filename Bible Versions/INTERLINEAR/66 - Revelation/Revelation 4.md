@@ -11,8 +11,8 @@ v1 οὐρανῷ|ouranō|heaven|G3772|N-DMS
 v1 καὶ|kai|And|G2532|Conj
 v1 ἡ|hē|the|G3588|Art-NFS
 v1 φωνὴ|phōnē|voice|G5456|N-NFS
-v1 ἡ|hē|vvv|G3588|Art-NFS
-v1 πρώτη|prōtē|vvv|G4413|Adj-NFS
+v1 ἡ|hē|...|G3588|Art-NFS
+v1 πρώτη|prōtē|...|G4413|Adj-NFS
 v1 ἣν|hēn|-|G3739|RelPro-AFS
 v1 ἤκουσα|ēkousa|I had previously heard|G191|V-AIA-1S
 v1 ὡς|hōs|like|G5613|Adv
@@ -188,7 +188,7 @@ v8 γέμουσιν|gemousin|[and was] covered with|G1073|V-PIA-3P
 v8 ὀφθαλμῶν|ophthalmōn|eyes|G3788|N-GMP
 v8 καὶ|kai|-|G2532|Conj
 v8 ἀνάπαυσιν|anapausin|stop|G372|N-AFS
-v8 οὐκ|ouk|vvv|G3756|Adv
+v8 οὐκ|ouk|...|G3756|Adv
 v8 ἔχουσιν|echousin|they never|G2192|V-PIA-3P
 v8 ἡμέρας|hēmeras|Day|G2250|N-GFS
 v8 καὶ|kai|and|G2532|Conj
@@ -227,8 +227,8 @@ v9 τῷ|tō|the|G3588|Art-DMS
 v9 θρόνῳ|thronō|throne|G2362|N-DMS
 v9 τῷ|tō|who|G3588|Art-DMS
 v9 ζῶντι|zōnti|lives|G2198|V-PPA-DMS
-v9 εἰς|eis|vvv|G1519|Prep
-v9 τοὺς|tous|vvv|G3588|Art-AMP
+v9 εἰς|eis|...|G1519|Prep
+v9 τοὺς|tous|...|G3588|Art-AMP
 v9 αἰῶνας|aiōnas|forever|G165|N-AMP
 v9 τῶν|tōn|[and]|G3588|Art-GMP
 v9 αἰώνων|aiōnōn|ever|G165|N-GMP
@@ -247,8 +247,8 @@ v10 καὶ|kai|and|G2532|Conj
 v10 προσκυνήσουσιν|proskynēsousin|they worship|G4352|V-FIA-3P
 v10 τῷ|tō|Him who|G3588|Art-DMS
 v10 ζῶντι|zōnti|lives|G2198|V-PPA-DMS
-v10 εἰς|eis|vvv|G1519|Prep
-v10 τοὺς|tous|vvv|G3588|Art-AMP
+v10 εἰς|eis|...|G1519|Prep
+v10 τοὺς|tous|...|G3588|Art-AMP
 v10 αἰῶνας|aiōnas|forever|G165|N-AMP
 v10 τῶν|tōn|[and]|G3588|Art-GMP
 v10 αἰώνων|aiōnōn|ever|G165|N-GMP

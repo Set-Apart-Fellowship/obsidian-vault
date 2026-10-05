@@ -61,7 +61,7 @@ v5 וּשְׂדֹתֵ֥ינוּ|ū·śə·ḏō·ṯê·nū|because our fields|H
 v5 וּכְרָמֵ֖ינוּ|ū·ḵə·rā·mê·nū|and vineyards|H3754|Conj-w | N-mpc | 1cp
 v5 לַאֲחֵרִֽים׃|la·’ă·ḥê·rîm|belong to others|H312|Prep-l | Adj-mp
 v6 וַיִּ֥חַר|way·yi·ḥar|angry|H2734|Conj-w | V-Qal-ConsecImperf-3ms
-v6 לִ֖י|lî||H0|Prep | 1cs
+v6 לִ֖י|lî|-|H0|Prep | 1cs
 v6 מְאֹ֑ד|mə·’ōḏ|I became extremely|H3966|Adv
 v6 כַּאֲשֶׁ֤ר|ka·’ă·šer|When|H834|Prep-k | Pro-r
 v6 שָׁמַ֙עְתִּי֙|šā·ma‘·tî|I heard|H8085|V-Qal-Perf-1cs
@@ -72,16 +72,16 @@ v6 הַדְּבָרִ֥ים|had·də·ḇā·rîm|complaints|H1697|Art | N-mp
 v6 הָאֵֽלֶּה׃|hā·’êl·leh|and these|H428|Art | Pro-cp
 v7 וַיִּמָּלֵ֨ךְ|way·yim·mā·lêḵ|thought|H4427|Conj-w | V-Nifal-ConsecImperf-3ms
 v7 לִבִּ֜י|lib·bî|and after serious|H3820|N-msc | 1cs
-v7 עָלַ֗י|‘ā·lay||H5921|Prep | 1cs
+v7 עָלַ֗י|‘ā·lay|-|H5921|Prep | 1cs
 v7 וָאָרִ֙יבָה֙|wā·’ā·rî·ḇāh|I rebuked|H7378|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
 v7 אֶת־|’eṯ-|-|H854|DirObjM
 v7 הַחֹרִ֣ים|ha·ḥō·rîm|the nobles|H2715|Art | N-mp
 v7 וְאֶת־|wə·’eṯ-|...|H854|Conj-w | DirObjM
 v7 הַסְּגָנִ֔ים|has·sə·ḡā·nîm|and officials|H5461|Art | N-mp
 v7 וָאֹמְרָ֣ה|wā·’ō·mə·rāh|saying|H559|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
-v7 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v7 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v7 מַשָּׁ֥א|maš·šā|usury|H4855|N-ms
-v7 אִישׁ־|’îš-|vvv|H376|N-ms
+v7 אִישׁ־|’îš-|...|H376|N-ms
 v7 בְּאָחִ֖יו|bə·’ā·ḥîw|from your own brothers|H251|Prep-b | N-msc | 3ms
 v7 אַתֶּ֣ם|’at·tem|You|H859|Pro-2mp
 v7 נֹשִׁ֑אים|nō·šim|are exacting|H5378|V-Qal-Prtcpl-mp
@@ -90,7 +90,7 @@ v7 עֲלֵיהֶ֖ם|‘ă·lê·hem|against them|H5921|Prep | 3mp
 v7 קְהִלָּ֥ה|qə·hil·lāh|assembly|H6952|N-fs
 v7 גְדוֹלָֽה׃|ḡə·ḏō·w·lāh|a large|H1419|Adj-fs
 v8 וָאֹמְרָ֣ה|wā·’ō·mə·rāh|and said|H559|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
-v8 לָהֶ֗ם|lā·hem||H0|Prep | 3mp
+v8 לָהֶ֗ם|lā·hem|-|H0|Prep | 3mp
 v8 אֲנַ֣חְנוּ|’ă·naḥ·nū|We|H587|Pro-1cp
 v8 קָ֠נִינוּ|qā·nî·nū|to buy back|H7069|V-Qal-Perf-1cp
 v8 אֶת־|’eṯ-|-|H853|DirObjM
@@ -99,7 +99,7 @@ v8 הַיְּהוּדִ֜ים|hay·yə·hū·ḏîm|our Jewish|H3064|Art | N-pro
 v8 הַנִּמְכָּרִ֤ים|han·nim·kā·rîm|who were sold|H4376|Art | V-Nifal-Prtcpl-mp
 v8 לַגּוֹיִם֙|lag·gō·w·yim|to foreigners|H1471|Prep-l, Art | N-mp
 v8 כְּדֵ֣י|kə·ḏê|have done our best|H1767|Prep-k | N-msc
-v8 בָ֔נוּ|ḇā·nū||H0|Prep | 1cp
+v8 בָ֔נוּ|ḇā·nū|-|H0|Prep | 1cp
 v8 וְגַם־|wə·ḡam-|-|H1571|Conj
 v8 אַתֶּ֛ם|’at·tem|but now you|H859|Pro-2mp
 v8 תִּמְכְּר֥וּ|tim·kə·rū|are selling|H4376|V-Qal-Imperf-2mp
@@ -110,7 +110,7 @@ v8 לָ֑נוּ|lā·nū|to us|H0|Prep | 1cp
 v8 וַֽיַּחֲרִ֔ישׁוּ|way·ya·ḥă·rî·šū|But they remained silent|H2790|Conj-w | V-Hifil-ConsecImperf-3mp
 v8 וְלֹ֥א|wə·lō|nothing|H3808|Conj-w | Adv-NegPrt
 v8 מָצְא֖וּ|mā·ṣə·’ū|for they could find|H4672|V-Qal-Perf-3cp
-v8 דָּבָֽר׃ס|dā·ḇār|to say|H1697|N-ms
+v8 דָּבָֽר׃|dā·ḇār|to say|H1697|N-ms
 v9 וַיֹּאמֶר|way·yō·mɛr|So I continued|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v9 לֹא־|lō-|is not|H3808|Adv-NegPrt
 v9 ט֥וֹב|ṭō·wḇ|right|H2896|Adj-ms
@@ -287,7 +287,7 @@ v17 עַל־|‘al-|at|H5921|Prep
 v17 שֻׁלְחָנִֽי׃|šul·ḥā·nî|my table|H7979|N-msc | 1cs
 v18 וַאֲשֶׁר֩|wa·’ă·šer|-|H834|Conj-w | Pro-r
 v18 הָיָ֨ה|hā·yāh|-|H1961|V-Qal-Perf-3ms
-v18 נַעֲשֶׂ֜ה|na·‘ă·śeh||H6213|V-Nifal-Prtcpl-ms
+v18 נַעֲשֶׂ֜ה|na·‘ă·śeh|-|H6213|V-Nifal-Prtcpl-ms
 v18 לְי֣וֹם|lə·yō·wm|day|H3117|Prep-l | N-ms
 v18 אֶחָ֗ד|’e·ḥāḏ|Each|H259|Number-ms
 v18 שׁ֣וֹר|šō·wr|ox|H7794|N-ms
@@ -305,7 +305,7 @@ v18 בְּכָל־|bə·ḵāl|of all kinds|H3605|Prep-b | N-msc
 v18 יַ֖יִן|ya·yin|of wine [was provided]|H3196|N-ms
 v18 לְהַרְבֵּ֑ה|lə·har·bêh|an abundance|H7235|Prep-l | V-Hifil-InfAbs
 v18 וְעִם־|wə·‘im-|...|H5973|Conj-w | Prep
-v18 זֶ֗ה|zeh||H2088|Pro-ms
+v18 זֶ֗ה|zeh|-|H2088|Pro-ms
 v18 לֶ֤חֶם|le·ḥem|the food|H3899|N-msc
 v18 הַפֶּחָה֙|hap·pe·ḥāh|allotted to the governor|H6346|Art | N-ms
 v18 לֹ֣א|lō|But I did not|H3808|Adv-NegPrt
@@ -325,4 +325,4 @@ v19 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v19 עָשִׂ֖יתִי|‘ā·śî·ṯî|I have done|H6213|V-Qal-Perf-1cs
 v19 עַל־|‘al-|for|H5921|Prep
 v19 הָעָ֥ם|hā·‘ām|people|H5971|Art | N-ms
-v19 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v19 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms

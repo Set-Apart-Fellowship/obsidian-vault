@@ -54,7 +54,7 @@ v3 מֵ֔ת|mêṯ|he died|H4191|V-Qal-Perf-3ms
 v3 וּבָנִ֖ים|ū·ḇā·nîm|sons|H1121|Conj-w | N-mp
 v3 לֹא־|lō-|no|H3808|Adv-NegPrt
 v3 הָ֥יוּ|hā·yū|and he had|H1961|V-Qal-Perf-3cp
-v3 לֽוֹ׃|lōw||H0|Prep | 3ms
+v3 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v4 לָ֣מָּה|lām·māh|Why|H4100|Interrog
 v4 יִגָּרַ֤ע|yig·gā·ra‘|disappear|H1639|V-Nifal-Imperf-3ms
 v4 שֵׁם־|šêm-|should the name|H8034|N-msc
@@ -63,7 +63,7 @@ v4 מִתּ֣וֹךְ|mit·tō·wḵ|from|H8432|Prep-m | N-msc
 v4 מִשְׁפַּחְתּ֔וֹ|miš·paḥ·tōw|his clan|H4940|N-fsc | 3ms
 v4 כִּ֛י|kî|because|H3588|Conj
 v4 אֵ֥ין|’ên|he had no|H369|Adv
-v4 ל֖וֹ|lōw||H0|Prep | 3ms
+v4 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v4 בֵּ֑ן|bên|sons|H1121|N-ms
 v4 תְּנָה־|tə·nāh-|Give|H5414|V-Qal-Imp-ms | 3fs
 v4 לָּ֣נוּ|lā·nū|us|H0|Prep | 1cp
@@ -76,7 +76,7 @@ v5 מֹשֶׁ֛ה|mō·šeh|So Moses|H4872|N-proper-ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 מִשְׁפָּטָ֖ן|miš·på̄·ṭå̄n|their case|H4941|N-msc | 3fp
 v5 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
-v5 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v5 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v6 וַיֹּ֥אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 יְהוָ֖ה|Yah·weh|and the LORD|H3068|N-proper-ms
 v6 אֶל־|’el-|...|H413|Prep
@@ -109,14 +109,14 @@ v8 כִּֽי־|kî-|If|H3588|Conj
 v8 יָמ֗וּת|yā·mūṯ|dies|H4191|V-Qal-Imperf-3ms
 v8 וּבֵן֙|ū·ḇên|son|H1121|Conj-w | N-ms
 v8 אֵ֣ין|’ên|and leaves no|H369|Adv
-v8 ל֔וֹ|lōw||H0|Prep | 3ms
+v8 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v8 וְהַֽעֲבַרְתֶּ֥ם|wə·ha·‘ă·ḇar·tem|you are to transfer|H5674|Conj-w | V-Hifil-ConjPerf-2mp
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 נַחֲלָת֖וֹ|na·ḥă·lā·ṯōw|his inheritance|H5159|N-fsc | 3ms
 v8 לְבִתּֽוֹ׃|lə·ḇit·tōw|to his daughter|H1323|Prep-l | N-fsc | 3ms
 v9 וְאִם־|wə·’im-|If|H518|Conj
 v9 אֵ֥ין|’ên|he has no|H369|Adv
-v9 ל֖וֹ|lōw||H0|Prep | 3ms
+v9 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v9 בַּ֑ת|baṯ|daughter|H1323|N-fs
 v9 וּנְתַתֶּ֥ם|ū·nə·ṯat·tem|give|H5414|Conj-w | V-Qal-ConjPerf-2mp
 v9 אֶת־|’eṯ-|-|H853|DirObjM
@@ -124,7 +124,7 @@ v9 נַחֲלָת֖וֹ|na·ḥă·lā·ṯōw|his inheritance|H5159|N-fsc | 3m
 v9 לְאֶחָיו׃|lə·ʾɛ·ḥå̄w|to his brothers|H251|Prep-l | N-mpc | 3ms
 v10 וְאִם־|wə·’im-|If|H518|Conj
 v10 אֵ֥ין|’ên|he has no|H369|Adv
-v10 ל֖וֹ|lōw||H0|Prep | 3ms
+v10 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v10 אַחִ֑ים|’a·ḥîm|brothers|H251|N-mp
 v10 וּנְתַתֶּ֥ם|ū·nə·ṯat·tem|give|H5414|Conj-w | V-Qal-ConjPerf-2mp
 v10 אֶת־|’eṯ-|-|H853|DirObjM
@@ -153,7 +153,7 @@ v11 כַּאֲשֶׁ֛ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v11 צִוָּ֥ה|ṣiw·wāh|has commanded|H6680|V-Piel-Perf-3ms
 v11 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
-v11 מֹשֶֽׁה׃ס|mō·šeh|Moses|H4872|N-proper-ms
+v11 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v12 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v12 אֶל־|’el-|to|H413|Prep
@@ -196,7 +196,7 @@ v14 מֵֽי־|mê-|were the waters|H4325|N-mpc
 v14 מְרִיבַ֥ת|mə·rî·ḇaṯ|of Meribah|H4809|N-proper-fs
 v14 קָדֵ֖שׁ|qā·ḏêš|in Kadesh|H6946|N-proper-fs
 v14 מִדְבַּר־|miḏ·bar-|in the Wilderness|H4057|N-msc
-v14 צִֽן׃פ|ṣin|of Zin|H6790|N-proper-fs
+v14 צִֽן׃|ṣin|of Zin|H6790|N-proper-fs
 v15 וַיְדַבֵּ֣ר|way·ḏab·bêr|appealed|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v15 מֹשֶׁ֔ה|mō·šeh|So Moses|H4872|N-proper-ms
 v15 אֶל־|’el-|to|H413|Prep
@@ -228,20 +228,20 @@ v17 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v17 כַּצֹּ֕אן|kaṣ·ṣōn|like sheep|H6629|Prep-k, Art | N-cs
 v17 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v17 אֵין־|’ên-|without|H369|Adv
-v17 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v17 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v17 רֹעֶֽה׃|rō·‘eh|a shepherd|H7462|V-Qal-Prtcpl-ms
 v18 וַיֹּ֨אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v18 יְהוָ֜ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v18 אֶל־|’el-|to|H413|Prep
 v18 מֹשֶׁ֗ה|mō·šeh|Moses|H4872|N-proper-ms
 v18 קַח־|qaḥ-|Take|H3947|V-Qal-Imp-ms
-v18 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v18 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 יְהוֹשֻׁ֣עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v18 בִּן־|bin-|son|H1121|N-msc
 v18 נ֔וּן|nūn|of Nun|H5126|N-proper-ms
 v18 אִ֖ישׁ|’îš|a man with|H376|N-ms
-v18 אֲשֶׁר־|’ă·šer-|vvv|H834|Pro-r
+v18 אֲשֶׁר־|’ă·šer-|...|H834|Pro-r
 v18 ר֣וּחַ|rū·aḥ|the Spirit|H7307|N-cs
 v18 בּ֑וֹ|bōw|in him|H0|Prep | 3ms
 v18 וְסָמַכְתָּ֥|wə·sā·maḵ·tā|and lay|H5564|Conj-w | V-Qal-ConjPerf-2ms
@@ -316,4 +316,4 @@ v23 כַּאֲשֶׁ֛ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v23 דִּבֶּ֥ר|dib·ber|had instructed|H1696|V-Piel-Perf-3ms
 v23 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v23 בְּיַד־|bə·yaḏ-|through|H3027|Prep-b | N-fsc
-v23 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v23 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms

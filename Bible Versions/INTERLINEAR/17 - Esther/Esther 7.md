@@ -28,14 +28,14 @@ v2 וְתֵעָֽשׂ׃|wə·ṯê·‘āś|it will be fulfilled|H6213|Conj-w | 
 v3 וַתַּ֨עַן|wat·ta·‘an|replied|H6030|Conj-w | V-Qal-ConsecImperf-3fs
 v3 אֶסְתֵּ֤ר|’es·têr|Esther|H635|N-proper-fs
 v3 הַמַּלְכָּה֙|ham·mal·kāh|Queen|H4436|Art | N-fs
-v3 וַתֹּאמַ֔ר|wat·tō·mar||H559|Conj-w | V-Qal-ConsecImperf-3fs
+v3 וַתֹּאמַ֔ר|wat·tō·mar|-|H559|Conj-w | V-Qal-ConsecImperf-3fs
 v3 אִם־|’im-|If|H518|Conj
 v3 מָצָ֨אתִי|mā·ṣā·ṯî|I have found|H4672|V-Qal-Perf-1cs
 v3 חֵ֤ן|ḥên|favor|H2580|N-ms
 v3 בְּעֵינֶ֙יךָ֙|bə·‘ê·ne·ḵā|in your sight|H5869|Prep-b | N-cdc | 2ms
 v3 הַמֶּ֔לֶךְ|ham·me·leḵ|O king|H4428|Art | N-ms
 v3 וְאִם־|wə·’im-|and if|H518|Conj
-v3 עַל־|‘al-||H5921|Prep
+v3 עַל־|‘al-|-|H5921|Prep
 v3 הַמֶּ֖לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v3 ט֑וֹב|ṭō·wḇ|it pleases|H2896|Adj-ms
 v3 תִּנָּֽתֶן־|tin·nā·ṯen-|grant|H5414|V-Nifal-Imperf-3fs
@@ -61,7 +61,7 @@ v4 אֵ֥ין|’ên|no|H369|Adv
 v4 הַצָּ֛ר|haṣ·ṣār|such distress|H6862|Art | Adj-ms
 v4 שֹׁוֶ֖ה|šō·weh|would justify|H7737|V-Qal-Prtcpl-ms
 v4 בְּנֵ֥זֶק|bə·nê·zeq|burdening|H5143|Prep-b | N-msc
-v4 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|the king|H4428|Art | N-ms
+v4 הַמֶּֽלֶךְ׃|ham·me·leḵ|the king|H4428|Art | N-ms
 v5 וַיֹּ֙אמֶר֙|way·yō·mer|spoke up|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v5 הַמֶּ֣לֶךְ|ham·me·leḵ|Then King|H4428|Art | N-ms
 v5 אֲחַשְׁוֵר֔וֹשׁ|’ă·ḥaš·wê·rō·wōš|Xerxes|H325|N-proper-ms
@@ -144,7 +144,7 @@ v8 מִפִּ֣י|mip·pî|mouth|H6310|Prep-m | N-msc
 v8 הַמֶּ֔לֶךְ|ham·me·leḵ|the king's|H4428|Art | N-ms
 v8 וּפְנֵ֥י|ū·p̄ə·nê|face|H6440|Conj-w | N-cpc
 v8 הָמָ֖ן|hā·mān|Haman's|H2001|N-proper-ms
-v8 חָפֽוּ׃ס|ḥā·p̄ū|they covered|H2645|V-Qal-Perf-3cp
+v8 חָפֽוּ׃|ḥā·p̄ū|they covered|H2645|V-Qal-Perf-3cp
 v9 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 חַ֠רְבוֹנָה|ḥar·ḇō·w·nāh|Then Harbonah|H2726|N-proper-ms
 v9 אֶחָ֨ד|’e·ḥāḏ|one|H259|Number-ms
@@ -184,4 +184,4 @@ v10 הֵכִ֣ין|hê·ḵîn|he had prepared|H3559|V-Hifil-Perf-3ms
 v10 לְמָרְדֳּכָ֑י|lə·mā·rə·do·ḵāy|for Mordecai|H4782|Prep-l | N-proper-ms
 v10 וַחֲמַ֥ת|wa·ḥă·maṯ|Then the fury|H2534|Conj-w | N-fsc
 v10 הַמֶּ֖לֶךְ|ham·me·leḵ|of the king|H4428|Art | N-ms
-v10 שָׁכָֽכָה׃פ|šā·ḵā·ḵāh|subsided|H7918|V-Qal-Perf-3fs
+v10 שָׁכָֽכָה׃|šā·ḵā·ḵāh|subsided|H7918|V-Qal-Perf-3fs

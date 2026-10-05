@@ -101,7 +101,7 @@ v7 Θεοῦ|Theou|God|G2316|N-GMS
 v8 Ἀλλὰ|Alla|-|G235|Conj
 v8 τότε|tote|Formerly|G5119|Adv
 v8 μὲν|men|-|G3303|Conj
-v8 οὐκ|ouk|vvv|G3756|Adv
+v8 οὐκ|ouk|...|G3756|Adv
 v8 εἰδότες|eidotes|when you did not know|G1492|V-RPA-NMP
 v8 Θεὸν|Theon|God|G2316|N-AMS
 v8 ἐδουλεύσατε|edouleusate|you were slaves|G1398|V-AIA-2P
@@ -115,7 +115,7 @@ v9 δὲ|de|But|G1161|Conj
 v9 γνόντες|gnontes|you know|G1097|V-APA-NMP
 v9 Θεόν|Theon|God|G2316|N-AMS
 v9 μᾶλλον|mallon|or rather|G3123|Adv
-v9 δὲ|de|vvv|G1161|Conj
+v9 δὲ|de|...|G1161|Conj
 v9 γνωσθέντες|gnōsthentes|are known|G1097|V-APP-NMP
 v9 ὑπὸ|hypo|by|G5259|Prep
 v9 Θεοῦ|Theou|God|G2316|N-GMS
@@ -181,7 +181,7 @@ v14 ἐν|en|[although]|G1722|Prep
 v14 τῇ|tē|-|G3588|Art-DFS
 v14 σαρκί|sarki|[illness]|G4561|N-DFS
 v14 μου|mou|my|G1473|PPro-G1S
-v14 οὐκ|ouk|vvv|G3756|Adv
+v14 οὐκ|ouk|...|G3756|Adv
 v14 ἐξουθενήσατε|exouthenēsate|you did not despise|G1848|V-AIA-2P
 v14 οὐδὲ|oude|[or]|G3761|Conj
 v14 ἐξεπτύσατε|exeptysate|reject [me]|G1609|V-AIA-2P
@@ -211,7 +211,7 @@ v15 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v15 ἐξορύξαντες|exoryxantes|you would have torn out|G1846|V-APA-NMP
 v15 ἐδώκατέ|edōkate|[and] given [them]|G1325|V-AIA-2P
 v15 μοι|moi|to me|G1473|PPro-D1S
-v16 ὥστε|hōste|vvv|G5620|Conj
+v16 ὥστε|hōste|...|G5620|Conj
 v16 ἐχθρὸς|echthros|enemy|G2190|Adj-NMS
 v16 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v16 γέγονα|gegona|Have I now become|G1096|V-RIA-1S
@@ -239,7 +239,7 @@ v18 μὴ|mē|not|G3361|Adv
 v18 μόνον|monon|only|G3440|Adv
 v18 ἐν|en|when|G1722|Prep
 v18 τῷ|tō|-|G3588|Art-DNS
-v18 παρεῖναί|pareinai|vvv|G3918|V-PNA
+v18 παρεῖναί|pareinai|...|G3918|V-PNA
 v18 με|me|I am|G1473|PPro-A1S
 v18 πρὸς|pros|with|G4314|Prep
 v18 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -278,7 +278,7 @@ v21 θέλοντες|thelontes|want|G2309|V-PPA-VMP
 v21 εἶναι|einai|to be|G1510|V-PNA
 v21 τὸν|ton|the|G3588|Art-AMS
 v21 νόμον|nomon|law [says]|G3551|N-AMS
-v21 οὐκ|ouk|vvv|G3756|Adv
+v21 οὐκ|ouk|...|G3756|Adv
 v21 ἀκούετε|akouete|do you not understand [what]|G191|V-PIA-2P
 v22 γέγραπται|gegraptai|it is written|G1125|V-RIM/P-3S
 v22 γὰρ|gar|For|G1063|Conj
@@ -314,7 +314,7 @@ v23 δι’*|di’|[was born] through|G1223|Prep
 v23 〈τῆς〉|tēs|the|G3588|Art-GFS
 v23 ἐπαγγελίας|epangelias|promise|G1860|N-GFS
 v24 ἅτινά|hatina|These [things]|G3748|RelPro-NNP
-v24 ἐστιν|estin|vvv|G1510|V-PIA-3S
+v24 ἐστιν|estin|...|G1510|V-PIA-3S
 v24 ἀλληγορούμενα|allēgoroumena|serve as illustrations|G238|V-PPM/P-NNP
 v24 αὗται|hautai|[the women]|G3778|DPro-NFP
 v24 γάρ|gar|for|G1063|Conj
@@ -367,7 +367,7 @@ v27 γάρ|gar|For|G1063|Conj
 v27 Εὐφράνθητι|Euphranthēti|Rejoice|G2165|V-AMP-2S
 v27 στεῖρα|steira|[O] barren woman|G4723|N-VFS
 v27 ἡ|hē|who|G3588|Art-VFS
-v27 οὐ|ou|vvv|G3756|Adv
+v27 οὐ|ou|...|G3756|Adv
 v27 τίκτουσα|tiktousa|bears no children|G5088|V-PPA-VFS
 v27 ῥῆξον|rhēxon|break forth|G4486|V-AMA-2S
 v27 καὶ|kai|and|G2532|Conj
@@ -376,7 +376,7 @@ v27 ἡ|hē|[you] who|G3588|Art-VFS
 v27 οὐκ|ouk|{have} never|G3756|Adv
 v27 ὠδίνουσα|ōdinousa|travailed|G5605|V-PPA-VFS
 v27 ὅτι|hoti|because|G3754|Conj
-v27 πολλὰ|polla|vvv|G4183|Adj-NNP
+v27 πολλὰ|polla|...|G4183|Adj-NNP
 v27 τὰ|ta|[are] the|G3588|Art-NNP
 v27 τέκνα|tekna|children|G5043|N-NNP
 v27 τῆς|tēs|of the|G3588|Art-GFS
@@ -396,7 +396,7 @@ v28 ἐπαγγελίας|epangelias|of promise|G1860|N-GFS
 v28 τέκνα|tekna|children|G5043|N-NNP
 v28 ἐστέ|este|are|G1510|V-PIA-2P
 v29 ἀλλ’|all’|however|G235|Conj
-v29 ὥσπερ|hōsper|vvv|G5618|Adv
+v29 ὥσπερ|hōsper|...|G5618|Adv
 v29 τότε|tote|At that time|G5119|Adv
 v29 ὁ|ho|the [son]|G3588|Art-NMS
 v29 κατὰ|kata|by|G2596|Prep
@@ -421,18 +421,18 @@ v30 καὶ|kai|and|G2532|Conj
 v30 τὸν|ton|-|G3588|Art-AMS
 v30 υἱὸν|huion|son|G5207|N-AMS
 v30 αὐτῆς|autēs|her|G846|PPro-GF3S
-v30 οὐ|ou|vvv|G3756|Adv
+v30 οὐ|ou|...|G3756|Adv
 v30 γὰρ|gar|for|G1063|Conj
-v30 μὴ|mē|vvv|G3361|Adv
+v30 μὴ|mē|...|G3361|Adv
 v30 κληρονομήσει|klēronomēsei|will never share in the inheritance|G2816|V-FIA-3S
 v30 ὁ|ho|the|G3588|Art-NMS
 v30 υἱὸς|huios|son|G5207|N-NMS
-v30 τῆς|tēs|vvv|G3588|Art-GFS
+v30 τῆς|tēs|...|G3588|Art-GFS
 v30 παιδίσκης|paidiskēs|slave woman's|G3814|N-GFS
 v30 μετὰ|meta|with|G3326|Prep
 v30 τοῦ|tou|the|G3588|Art-GMS
 v30 υἱοῦ|huiou|son|G5207|N-GMS
-v30 τῆς|tēs|vvv|G3588|Art-GFS
+v30 τῆς|tēs|...|G3588|Art-GFS
 v30 ἐλευθέρας|eleutheras|free [woman's]|G1658|Adj-GFS
 v31 διό|dio|Therefore|G1352|Conj
 v31 ἀδελφοί|adelphoi|brothers|G80|N-VMP

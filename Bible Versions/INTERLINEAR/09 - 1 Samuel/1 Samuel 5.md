@@ -76,7 +76,7 @@ v5 דָּג֖וֹן|dā·ḡō·wn|...|H1712|N-proper-ms
 v5 בְּאַשְׁדּ֑וֹד|bə·’aš·dō·wḏ|in Ashdod|H795|Prep-b | N-proper-fs
 v5 עַ֖ד|‘aḏ|to|H5704|Prep
 v5 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v5 הַזֶּֽה׃ס|haz·zeh|this|H2088|Art | Pro-ms
+v5 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v6 וַתִּכְבַּ֧ד|wat·tiḵ·baḏ|was heavy|H3513|Conj-w | V-Qal-ConsecImperf-3fs
 v6 יַד־|yaḏ-|Now the hand|H3027|N-fsc
 v6 יְהוָ֛ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -132,7 +132,7 @@ v8 וַיַּסֵּ֕בּוּ|way·yas·sêb·bū|So they carried away|H5437|Con
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 אֲר֖וֹן|’ă·rō·wn|the ark|H727|N-csc
 v8 אֱלֹהֵ֥י|’ĕ·lō·hê|of the God|H430|N-mpc
-v8 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v8 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v9 וַיְהִ֞י|way·hî|was also|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v9 אַחֲרֵ֣י׀|’a·ḥă·rê|But after|H310|Prep
 v9 הֵסַ֣בּוּ|hê·sab·bū|they had moved|H5437|V-Hifil-Perf-3cp
@@ -176,7 +176,7 @@ v10 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v10 לַהֲמִיתֵ֖נִי|la·hă·mî·ṯê·nî|in order to kill us|H4191|Prep-l | V-Hifil-Inf | 1cs
 v10 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v10 עַמִּֽי׃|‘am·mî|our people|H5971|N-msc | 1cs
-v11 וַיִּשְׁלְח֨וּ|way·yiš·lə·ḥū|vvv|H7971|Conj-w | V-Qal-ConsecImperf-3mp
+v11 וַיִּשְׁלְח֨וּ|way·yiš·lə·ḥū|...|H7971|Conj-w | V-Qal-ConsecImperf-3mp
 v11 וַיַּאַסְפ֜וּ|way·ya·’as·p̄ū|Then [the Ekronites] called together|H622|Conj-w | V-Qal-ConsecImperf-3mp
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 כָּל־|kāl-|all|H3605|N-msc

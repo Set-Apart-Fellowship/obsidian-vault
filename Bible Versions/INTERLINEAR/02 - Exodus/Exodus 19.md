@@ -173,7 +173,7 @@ v12 הָעָם֙|hā·‘ām|for the people|H5971|Art | N-ms
 v12 סָבִ֣יב|sā·ḇîḇ|around [the mountain]|H5439|Adv
 v12 לֵאמֹ֔ר|lê·mōr|and tell them|H559|Prep-l | V-Qal-Inf
 v12 הִשָּׁמְר֥וּ|hiš·šā·mə·rū|Be careful|H8104|V-Nifal-Imp-mp
-v12 לָכֶ֛ם|lā·ḵem||H0|Prep | 2mp
+v12 לָכֶ֛ם|lā·ḵem|-|H0|Prep | 2mp
 v12 עֲל֥וֹת|‘ă·lō·wṯ|not to go up|H5927|V-Qal-Inf
 v12 בָּהָ֖ר|bā·hār|on the mountain|H2022|Prep-b, Art | N-ms
 v12 וּנְגֹ֣עַ|ū·nə·ḡō·a‘|or touch|H5060|Conj-w | V-Qal-Inf
@@ -372,4 +372,4 @@ v25 מֹשֶׁ֖ה|mō·šeh|So Moses|H4872|N-proper-ms
 v25 אֶל־|’el-|to|H413|Prep
 v25 הָעָ֑ם|hā·‘ām|the people|H5971|Art | N-ms
 v25 וַיֹּ֖אמֶר|way·yō·mer|and spoke|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v25 אֲלֵהֶֽם׃ס|’ă·lê·hem|to them|H413|Prep | 3mp
+v25 אֲלֵהֶֽם׃|’ă·lê·hem|to them|H413|Prep | 3mp

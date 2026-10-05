@@ -86,7 +86,7 @@ v6 עִמָּ֔ךְ|‘im·māḵ|with you|H5973|Prep | 2ms
 v6 לֹ֥א|lō|He will never|H3808|Adv-NegPrt
 v6 יַרְפְּךָ֖|yar·pə·ḵā|leave you|H7503|V-Hifil-Imperf-3ms | 2ms
 v6 וְלֹ֥א|wə·lō|[nor]|H3808|Conj-w | Adv-NegPrt
-v6 יַעַזְבֶֽךָּ׃פ|ya·‘az·ḇe·kā|forsake you|H5800|V-Qal-Imperf-3ms | 2ms
+v6 יַעַזְבֶֽךָּ׃|ya·‘az·ḇe·kā|forsake you|H5800|V-Qal-Imperf-3ms | 2ms
 v7 וַיִּקְרָ֨א|way·yiq·rā|called|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v7 מֹשֶׁ֜ה|mō·šeh|Then Moses|H4872|N-proper-ms
 v7 לִֽיהוֹשֻׁ֗עַ|lî·hō·wō·šu·a‘|for Joshua|H3091|Prep-l | N-proper-ms
@@ -226,7 +226,7 @@ v13 עֹבְרִ֧ים|‘ō·ḇə·rîm|are crossing|H5674|V-Qal-Prtcpl-mp
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 הַיַּרְדֵּ֛ן|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
 v13 שָׁ֖מָּה|šām·māh|...|H8033|Adv | 3fs
-v13 לְרִשְׁתָּֽהּ׃פ|lə·riš·tāh|to possess|H3423|Prep-l | V-Qal-Inf | 3fs
+v13 לְרִשְׁתָּֽהּ׃|lə·riš·tāh|to possess|H3423|Prep-l | V-Qal-Inf | 3fs
 v14 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v14 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v14 אֶל־|’el-|to|H413|Prep
@@ -258,7 +258,7 @@ v15 עַמּ֥וּד|‘am·mūḏ|...|H5982|N-msc
 v15 הֶעָנָ֖ן|he·‘ā·nān|and the cloud|H6051|Art | N-ms
 v15 עַל־|‘al-|over|H5921|Prep
 v15 פֶּ֥תַח|pe·ṯaḥ|the entrance|H6607|N-msc
-v15 הָאֹֽהֶל׃ס|hā·’ō·hel|to the tent|H168|Art | N-ms
+v15 הָאֹֽהֶל׃|hā·’ō·hel|to the tent|H168|Art | N-ms
 v16 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 יְהוָה֙|Yah·weh|And the LORD|H3068|N-proper-ms
 v16 אֶל־|’el-|to|H413|Prep
@@ -385,7 +385,7 @@ v21 הַזֹּ֤את|haz·zōṯ|this|H2063|Art | Pro-fs
 v21 לְפָנָיו֙|lə·p̄ā·nāw|against them|H6440|Prep-l | N-cpc | 3ms
 v21 לְעֵ֔ד|lə·‘êḏ|...|H5707|Prep-l | N-ms
 v21 כִּ֛י|kî|because|H3588|Conj
-v21 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
+v21 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v21 תִשָּׁכַ֖ח|ṯiš·šā·ḵaḥ|it will not be forgotten|H7911|V-Nifal-Imperf-3fs
 v21 מִפִּ֣י|mip·pî|from the lips|H6310|Prep-m | N-msc
 v21 זַרְע֑וֹ|zar·‘ōw|of their descendants|H2233|N-msc | 3ms
@@ -481,7 +481,7 @@ v27 מֶרְיְךָ֔|mer·yə·ḵā|how rebellious|H4805|N-msc | 2ms
 v27 וְאֶֽת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v27 עָרְפְּךָ֖|‘ā·rə·pə·ḵā|and stiff-necked you are|H6203|N-msc | 2ms
 v27 הַקָּשֶׁ֑ה|haq·qā·šeh|...|H7186|Art | Adj-ms
-v27 הֵ֣ן|hên|vvv|H2005|Interjection
+v27 הֵ֣ן|hên|...|H2005|Interjection
 v27 בְּעוֹדֶנִּי֩|bə·‘ō·w·ḏen·nî|while I am still|H5750|Prep-b | Adv | 1cs
 v27 חַ֨י|ḥay|alive|H2416|Adj-ms
 v27 עִמָּכֶ֜ם|‘im·mā·ḵem|against|H5973|Prep | 2mp
@@ -550,4 +550,4 @@ v30 דִּבְרֵ֥י|diḇ·rê|the words|H1697|N-mpc
 v30 הַשִּׁירָ֖ה|haš·šî·rāh|song|H7892|Art | N-fs
 v30 הַזֹּ֑את|haz·zōṯ|of this|H2063|Art | Pro-fs
 v30 עַ֖ד|‘aḏ|[from beginning]|H5704|Prep
-v30 תֻּמָּֽם׃פ|tum·mām|to end|H8552|V-Qal-Inf | 3mp
+v30 תֻּמָּֽם׃|tum·mām|to end|H8552|V-Qal-Inf | 3mp

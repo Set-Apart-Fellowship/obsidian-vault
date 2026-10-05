@@ -154,7 +154,7 @@ v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 מֹשֶׁ֑ה|mō·šeh|Moses|H4872|N-proper-ms
 v19 וַֽיִּפְקְדֵ֖ם|way·yip̄·qə·ḏêm|So [Moses] numbered them|H6485|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
 v19 בְּמִדְבַּ֥ר|bə·miḏ·bar|in the Wilderness|H4057|Prep-b | N-msc
-v19 סִינָֽי׃פ|sî·nāy|of Sinai|H5514|N-proper-fs
+v19 סִינָֽי׃|sî·nāy|of Sinai|H5514|N-proper-fs
 v20 וַיִּהְי֤וּ|way·yih·yū|-|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v20 בְנֵֽי־|ḇə·nê-|From the sons|H1121|N-mpc
 v20 רְאוּבֵן֙|rə·’ū·ḇên|of Reuben|H7205|N-proper-ms
@@ -183,14 +183,14 @@ v21 שִׁשָּׁ֧ה|šiš·šāh|numbered 46,500|H8337|Number-ms
 v21 וְאַרְבָּעִ֛ים|wə·’ar·bā·‘îm|...|H705|Conj-w | Number-cp
 v21 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v21 וַחֲמֵ֥שׁ|wa·ḥă·mêš|...|H2568|Conj-w | Number-fsc
-v21 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v21 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v22 לִבְנֵ֣י|liḇ·nê|From the sons|H1121|Prep-l | N-mpc
 v22 שִׁמְע֔וֹן|šim·‘ō·wn|of Simeon|H8095|N-proper-ms
 v22 תּוֹלְדֹתָ֥ם|tō·wl·ḏō·ṯām|according to the records|H8435|N-fpc | 3mp
 v22 לְמִשְׁפְּחֹתָ֖ם|lə·miš·pə·ḥō·ṯām|of their clans|H4940|Prep-l | N-fpc | 3mp
 v22 לְבֵ֣ית|lə·ḇêṯ|...|H1004|Prep-l | N-msc
 v22 אֲבֹתָ֑ם|’ă·ḇō·ṯām|and families|H1|N-mpc | 3mp
-v22 פְּקֻדָ֗יו|pə·qu·ḏāw|vvv|H6485|V-Qal-QalPassPrtcpl-mpc | 3ms
+v22 פְּקֻדָ֗יו|pə·qu·ḏāw|...|H6485|V-Qal-QalPassPrtcpl-mpc | 3ms
 v22 בְּמִסְפַּ֤ר|bə·mis·par|counting|H4557|Prep-b | N-msc
 v22 שֵׁמוֹת֙|šê·mō·wṯ|the names|H8034|N-mp
 v22 לְגֻלְגְּלֹתָ֔ם|lə·ḡul·gə·lō·ṯām|one by one|H1538|Prep-l | N-fpc | 3mp
@@ -210,7 +210,7 @@ v23 תִּשְׁעָ֧ה|tiš·‘āh|numbered 59,300|H8672|Number-ms
 v23 וַחֲמִשִּׁ֛ים|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
 v23 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v23 וּשְׁלֹ֥שׁ|ū·šə·lōš|...|H7969|Conj-w | Number-fsc
-v23 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v23 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v24 לִבְנֵ֣י|liḇ·nê|From the sons|H1121|Prep-l | N-mpc
 v24 גָ֔ד|ḡāḏ|of Gad|H1410|N-proper-ms
 v24 תּוֹלְדֹתָ֥ם|tō·wl·ḏō·ṯām|according to the records|H8435|N-fpc | 3mp
@@ -234,7 +234,7 @@ v25 וְאַרְבָּעִים֙|wə·’ar·bā·‘îm|...|H705|Conj-w | Numbe
 v25 אֶ֔לֶף|’e·lep̄|...|H505|Number-ms
 v25 וְשֵׁ֥שׁ|wə·šêš|...|H8337|Conj-w | Number-fsc
 v25 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
-v25 וַחֲמִשִּֽׁים׃פ|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
+v25 וַחֲמִשִּֽׁים׃|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
 v26 לִבְנֵ֣י|liḇ·nê|From the sons|H1121|Prep-l | N-mpc
 v26 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v26 תּוֹלְדֹתָ֥ם|tō·wl·ḏō·ṯām|according to the records|H8435|N-fpc | 3mp
@@ -257,7 +257,7 @@ v27 אַרְבָּעָ֧ה|’ar·bā·‘āh|numbered 74,600|H702|Number-ms
 v27 וְשִׁבְעִ֛ים|wə·šiḇ·‘îm|...|H7657|Conj-w | Number-cp
 v27 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v27 וְשֵׁ֥שׁ|wə·šêš|...|H8337|Conj-w | Number-fsc
-v27 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v27 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v28 לִבְנֵ֣י|liḇ·nê|From the sons|H1121|Prep-l | N-mpc
 v28 יִשָּׂשכָ֔ר|yiś·śā·š·ḵār|of Issachar|H3485|N-proper-ms
 v28 תּוֹלְדֹתָ֥ם|tō·wl·ḏō·ṯām|according to the records|H8435|N-fpc | 3mp
@@ -280,7 +280,7 @@ v29 אַרְבָּעָ֧ה|’ar·bā·‘āh|numbered 54,400|H702|Number-ms
 v29 וַחֲמִשִּׁ֛ים|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
 v29 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v29 וְאַרְבַּ֥ע|wə·’ar·ba‘|...|H702|Conj-w | Number-fsc
-v29 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v29 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v30 לִבְנֵ֣י|liḇ·nê|From the sons|H1121|Prep-l | N-mpc
 v30 זְבוּלֻ֔ן|zə·ḇū·lun|of Zebulun|H2074|N-proper-ms
 v30 תּוֹלְדֹתָ֥ם|tō·wl·ḏō·ṯām|according to the records|H8435|N-fpc | 3mp
@@ -303,7 +303,7 @@ v31 שִׁבְעָ֧ה|šiḇ·‘āh|numbered 57,400|H7651|Number-ms
 v31 וַחֲמִשִּׁ֛ים|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
 v31 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v31 וְאַרְבַּ֥ע|wə·’ar·ba‘|...|H702|Conj-w | Number-fsc
-v31 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v31 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v32 לִבְנֵ֤י|liḇ·nê|From the sons|H1121|Prep-l | N-mpc
 v32 יוֹסֵף֙|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
 v32 לִבְנֵ֣י|liḇ·nê|From the sons|H1121|Prep-l | N-mpc
@@ -327,7 +327,7 @@ v33 אֶפְרָ֑יִם|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
 v33 אַרְבָּעִ֥ים|’ar·bā·‘îm|numbered 40,500|H705|Number-cp
 v33 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v33 וַחֲמֵ֥שׁ|wa·ḥă·mêš|...|H2568|Conj-w | Number-fsc
-v33 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v33 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v34 לִבְנֵ֣י|liḇ·nê|And from the sons|H1121|Prep-l | N-mpc
 v34 מְנַשֶּׁ֔ה|mə·naš·šeh|of Manasseh|H4519|N-proper-ms
 v34 תּוֹלְדֹתָ֥ם|tō·wl·ḏō·ṯām|according to the records|H8435|N-fpc | 3mp
@@ -349,7 +349,7 @@ v35 מְנַשֶּׁ֑ה|mə·naš·šeh|of Manasseh|H4519|N-proper-ms
 v35 שְׁנַ֧יִם|šə·na·yim|numbered 32,200|H8147|Number-md
 v35 וּשְׁלֹשִׁ֛ים|ū·šə·lō·šîm|...|H7970|Conj-w | Number-cp
 v35 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
-v35 וּמָאתָֽיִם׃פ|ū·mā·ṯā·yim|...|H3967|Conj-w | Number-fd
+v35 וּמָאתָֽיִם׃|ū·mā·ṯā·yim|...|H3967|Conj-w | Number-fd
 v36 לִבְנֵ֣י|liḇ·nê|From the sons|H1121|Prep-l | N-mpc
 v36 בִנְיָמִ֔ן|ḇin·yā·min|of Benjamin|H1144|N-proper-ms
 v36 תּוֹלְדֹתָ֥ם|tō·wl·ḏō·ṯām|according to the records|H8435|N-fpc | 3mp
@@ -372,7 +372,7 @@ v37 חֲמִשָּׁ֧ה|ḥă·miš·šāh|numbered 35,400|H2568|Number-ms
 v37 וּשְׁלֹשִׁ֛ים|ū·šə·lō·šîm|...|H7970|Conj-w | Number-cp
 v37 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v37 וְאַרְבַּ֥ע|wə·’ar·ba‘|...|H702|Conj-w | Number-fsc
-v37 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v37 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v38 לִבְנֵ֣י|liḇ·nê|From the sons|H1121|Prep-l | N-mpc
 v38 דָ֔ן|ḏān|of Dan|H1835|N-proper-ms
 v38 תּוֹלְדֹתָ֥ם|tō·wl·ḏō·ṯām|according to the records|H8435|N-fpc | 3mp
@@ -395,7 +395,7 @@ v39 שְׁנַ֧יִם|šə·na·yim|numbered 62,700|H8147|Number-md
 v39 וְשִׁשִּׁ֛ים|wə·šiš·šîm|...|H8346|Conj-w | Number-cp
 v39 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v39 וּשְׁבַ֥ע|ū·šə·ḇa‘|...|H7651|Conj-w | Number-fsc
-v39 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v39 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v40 לִבְנֵ֣י|liḇ·nê|From the sons|H1121|Prep-l | N-mpc
 v40 אָשֵׁ֔ר|’ā·šêr|of Asher|H836|N-proper-ms
 v40 תּוֹלְדֹתָ֥ם|tō·wl·ḏō·ṯām|according to the records|H8435|N-fpc | 3mp
@@ -418,7 +418,7 @@ v41 אֶחָ֧ד|’e·ḥāḏ|numbered 41,500|H259|Number-ms
 v41 וְאַרְבָּעִ֛ים|wə·’ar·bā·‘îm|...|H705|Conj-w | Number-cp
 v41 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v41 וַחֲמֵ֥שׁ|wa·ḥă·mêš|...|H2568|Conj-w | Number-fsc
-v41 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v41 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v42 בְּנֵ֣י|bə·nê|From the sons|H1121|N-mpc
 v42 נַפְתָּלִ֔י|nap̄·tā·lî|of Naphtali|H5321|N-proper-ms
 v42 תּוֹלְדֹתָ֥ם|tō·wl·ḏō·ṯām|according to the records|H8435|N-fpc | 3mp
@@ -441,7 +441,7 @@ v43 שְׁלֹשָׁ֧ה|šə·lō·šāh|numbered 53,400|H7969|Number-ms
 v43 וַחֲמִשִּׁ֛ים|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
 v43 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v43 וְאַרְבַּ֥ע|wə·’ar·ba‘|...|H702|Conj-w | Number-fsc
-v43 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v43 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v44 אֵ֣לֶּה|’êl·leh|These|H428|Pro-cp
 v44 הַפְּקֻדִ֡ים|hap·pə·qu·ḏîm|-|H6485|Art | V-Qal-QalPassPrtcpl-mp
 v44 אֲשֶׁר֩|’ă·šer|were the men|H834|Pro-r
@@ -489,7 +489,7 @@ v47 לְמַטֵּ֣ה|lə·maṭ·ṭêh|by the tribe|H4294|Prep-l | N-msc
 v47 אֲבֹתָ֑ם|’ă·ḇō·ṯām|of their fathers|H1|N-mpc | 3mp
 v47 לֹ֥א|lō|were not|H3808|Adv-NegPrt
 v47 הָתְפָּקְד֖וּ|hā·ṯə·pā·qə·ḏū|numbered|H6485|V-Hitpael-Perf-3cp
-v47 בְּתוֹכָֽם׃פ|bə·ṯō·w·ḵām|along with them|H8432|Prep-b | N-msc | 3mp
+v47 בְּתוֹכָֽם׃|bə·ṯō·w·ḵām|along with them|H8432|Prep-b | N-msc | 3mp
 v48 וַיְדַבֵּ֥ר|way·ḏab·bêr|had said to|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v48 יְהוָ֖ה|Yah·weh|For the LORD|H3068|N-proper-ms
 v48 אֶל־|’el-|...|H413|Prep
@@ -567,11 +567,11 @@ v53 יִהְיֶ֣ה|yih·yeh|will fall|H1961|V-Qal-Imperf-3ms
 v53 קֶ֔צֶף|qe·ṣep̄|wrath|H7110|N-ms
 v53 עַל־|‘al-|on|H5921|Prep
 v53 עֲדַ֖ת|‘ă·ḏaṯ|the congregation|H5712|N-fsc
-v53 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v53 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v53 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v53 וְשָׁמְרוּ֙|wə·šā·mə·rū|and watch over it|H8104|Conj-w | V-Qal-ConjPerf-3cp
 v53 הַלְוִיִּ֔ם|hal·wî·yim|So the Levites|H3881|Art | N-proper-mp
-v53 אֶת־|’eṯ-||H853|DirObjM
+v53 אֶת־|’eṯ-|-|H853|DirObjM
 v53 מִשְׁמֶ֖רֶת|miš·me·reṯ|are responsible|H4931|N-fsc
 v53 מִשְׁכַּ֥ן|miš·kan|for the tabernacle|H4908|N-msc
 v53 הָעֵדֽוּת׃|hā·‘ê·ḏūṯ|of the Testimony|H5715|Art | N-fs
@@ -585,4 +585,4 @@ v54 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v54 אֶת־|’eṯ-|-|H853|DirObjM
 v54 מֹשֶׁ֖ה|mō·šeh|Moses|H4872|N-proper-ms
 v54 כֵּ֥ן|kên|...|H3651|Adv
-v54 עָשֽׂוּ׃פ|‘ā·śū|...|H6213|V-Qal-Perf-3cp
+v54 עָשֽׂוּ׃|‘ā·śū|...|H6213|V-Qal-Perf-3cp

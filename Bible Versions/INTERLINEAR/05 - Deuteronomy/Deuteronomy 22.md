@@ -48,7 +48,7 @@ v3 מִמֶּ֖נּוּ|mim·men·nū|...|H4480|Prep | 3ms
 v3 וּמְצָאתָ֑הּ|ū·mə·ṣā·ṯāh|and you have found|H4672|Conj-w | V-Qal-ConjPerf-2ms | 3fs
 v3 לֹ֥א|lō|not|H3808|Adv-NegPrt
 v3 תוּכַ֖ל|ṯū·ḵal|You must|H3201|V-Qal-Imperf-2ms
-v3 לְהִתְעַלֵּֽם׃ס|lə·hiṯ·‘al·lêm|ignore it|H5956|Prep-l | V-Hitpael-Inf
+v3 לְהִתְעַלֵּֽם׃|lə·hiṯ·‘al·lêm|ignore it|H5956|Prep-l | V-Hitpael-Inf
 v4 לֹא־|lō-|you must not|H3808|Adv-NegPrt
 v4 תִרְאֶה֩|ṯir·’eh|If you see|H7200|V-Qal-Imperf-2ms
 v4 אֶת־|’eṯ-|-|H853|DirObjM
@@ -62,7 +62,7 @@ v4 וְהִתְעַלַּמְתָּ֖|wə·hiṯ·‘al·lam·tā|ignore it|H595
 v4 מֵהֶ֑ם|mê·hem|...|H0|Prep-m | Pro-3mp
 v4 הָקֵ֥ם|hā·qêm|you must help him lift it up|H6965|V-Hifil-InfAbs
 v4 תָּקִ֖ים|tā·qîm|...|H6965|V-Hifil-Imperf-2ms
-v4 עִמּֽוֹ׃ס|‘im·mōw|...|H5973|Prep | 3ms
+v4 עִמּֽוֹ׃|‘im·mōw|...|H5973|Prep | 3ms
 v5 לֹא־|lō-|must not|H3808|Adv-NegPrt
 v5 יִהְיֶ֤ה|yih·yeh|wear|H1961|V-Qal-Imperf-3ms
 v5 כְלִי־|ḵə·lî-|clothing|H3627|N-msc
@@ -80,7 +80,7 @@ v5 יְהוָ֥ה|Yah·weh|to the LORD|H3068|N-proper-ms
 v5 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v5 כָּל־|kāl-|whoever|H3605|N-msc
 v5 עֹ֥שֵׂה|‘ō·śêh|does|H6213|V-Qal-Prtcpl-msc
-v5 אֵֽלֶּה׃פ|’êl·leh|these things|H428|Pro-cp
+v5 אֵֽלֶּה׃|’êl·leh|these things|H428|Pro-cp
 v6 כִּ֣י|kî|If|H3588|Conj
 v6 יִקָּרֵ֣א|yiq·qā·rê|you come across|H7122|V-Nifal-Imperf-3ms
 v6 קַן־|qan-|nest|H7064|N-msc
@@ -114,12 +114,12 @@ v7 הָאֵ֔ם|hā·’êm|but be sure to let the mother|H517|Art | N-fs
 v7 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v7 הַבָּנִ֖ים|hab·bā·nîm|the young|H1121|Art | N-mp
 v7 תִּֽקַּֽח־|tiq·qaḥ-|You may take|H3947|V-Qal-Imperf-2ms
-v7 לָ֑ךְ|lāḵ||H0|Prep | 2ms
+v7 לָ֑ךְ|lāḵ|-|H0|Prep | 2ms
 v7 לְמַ֙עַן֙|lə·ma·‘an|so that|H4616|Conj
 v7 יִ֣יטַב|yî·ṭaḇ|it may be well|H3190|V-Qal-Imperf-3ms
 v7 לָ֔ךְ|lāḵ|with you|H0|Prep | 2ms
 v7 וְהַאֲרַכְתָּ֖|wə·ha·’ă·raḵ·tā|and that you may prolong|H748|Conj-w | V-Hifil-ConjPerf-2ms
-v7 יָמִֽים׃ס|yā·mîm|your days|H3117|N-mp
+v7 יָמִֽים׃|yā·mîm|your days|H3117|N-mp
 v8 כִּ֤י|kî|If|H3588|Conj
 v8 תִבְנֶה֙|ṯiḇ·neh|you build|H1129|V-Qal-Imperf-2ms
 v8 בַּ֣יִת|ba·yiṯ|house|H1004|N-ms
@@ -134,7 +134,7 @@ v8 בְּבֵיתֶ֔ךָ|bə·ḇê·ṯe·ḵā|on your house|H1004|Prep-b | N
 v8 כִּֽי־|kî-|if|H3588|Conj
 v8 יִפֹּ֥ל|yip·pōl|someone falls|H5307|V-Qal-Imperf-3ms
 v8 הַנֹּפֵ֖ל|han·nō·p̄êl|...|H5307|Art | V-Qal-Prtcpl-ms
-v8 מִמֶּֽנּוּ׃ס|mim·men·nū|from it|H4480|Prep | 3ms
+v8 מִמֶּֽנּוּ׃|mim·men·nū|from it|H4480|Prep | 3ms
 v9 לֹא־|lō-|Do not|H3808|Adv-NegPrt
 v9 תִזְרַ֥ע|ṯiz·ra‘|plant|H2232|V-Qal-Imperf-2ms
 v9 כַּרְמְךָ֖|kar·mə·ḵā|your vineyard|H3754|N-msc | 2ms
@@ -146,28 +146,28 @@ v9 הַזֶּ֙רַע֙|haz·ze·ra‘|both the crop|H2233|Art | N-ms
 v9 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v9 תִּזְרָ֔ע|tiz·rā‘|you plant|H2232|V-Qal-Imperf-2ms
 v9 וּתְבוּאַ֖ת|ū·ṯə·ḇū·’aṯ|and the fruit|H8393|Conj-w | N-fsc
-v9 הַכָּֽרֶם׃ס|hak·kā·rem|of your vineyard|H3754|Art | N-ms
+v9 הַכָּֽרֶם׃|hak·kā·rem|of your vineyard|H3754|Art | N-ms
 v10 לֹֽא־|lō-|Do not|H3808|Adv-NegPrt
 v10 תַחֲרֹ֥שׁ|ṯa·ḥă·rōš|plow|H2790|V-Qal-Imperf-2ms
 v10 בְּשׁוֹר־|bə·šō·wr-|with an ox|H7794|Prep-b | N-ms
 v10 וּבַחֲמֹ֖ר|ū·ḇa·ḥă·mōr|and a donkey|H2543|Conj-w, Prep-b, Art | N-ms
-v10 יַחְדָּֽו׃ס|yaḥ·dāw|[yoked] together|H3162|Adv
+v10 יַחְדָּֽו׃|yaḥ·dāw|[yoked] together|H3162|Adv
 v11 לֹ֤א|lō|Do not|H3808|Adv-NegPrt
 v11 תִלְבַּשׁ֙|ṯil·baš|wear|H3847|V-Qal-Imperf-2ms
 v11 שַֽׁעַטְנֵ֔ז|ša·‘aṭ·nêz|clothes|H8162|N-ms
 v11 צֶ֥מֶר|ṣe·mer|of wool|H6785|N-ms
 v11 וּפִשְׁתִּ֖ים|ū·p̄iš·tîm|and linen|H6593|Conj-w | N-fp
-v11 יַחְדָּֽו׃ס|yaḥ·dāw|woven together|H3162|Adv
+v11 יַחְדָּֽו׃|yaḥ·dāw|woven together|H3162|Adv
 v12 גְּדִלִ֖ים|gə·ḏi·lîm|tassels|H1434|N-mp
 v12 תַּעֲשֶׂה־|ta·‘ă·śeh-|You are to make|H6213|V-Qal-Imperf-2ms
-v12 לָּ֑ךְ|lāḵ||H0|Prep | 2ms
+v12 לָּ֑ךְ|lāḵ|-|H0|Prep | 2ms
 v12 עַל־|‘al-|on|H5921|Prep
 v12 אַרְבַּ֛ע|’ar·ba‘|the four|H702|Number-fsc
 v12 כַּנְפ֥וֹת|kan·p̄ō·wṯ|corners|H3671|N-fpc
 v12 כְּסוּתְךָ֖|kə·sū·ṯə·ḵā|of the cloak|H3682|N-fsc | 2ms
 v12 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v12 תְּכַסֶּה־|tə·ḵas·seh-|you wear|H3680|V-Piel-Imperf-2ms
-v12 בָּֽהּ׃ס|bāh||H0|Prep | 3fs
+v12 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v13 כִּֽי־|kî-|Suppose|H3588|Conj
 v13 יִקַּ֥ח|yiq·qaḥ|marries|H3947|V-Qal-Imperf-3ms
 v13 אִ֖ישׁ|’îš|a man|H376|N-ms
@@ -192,7 +192,7 @@ v14 וָאֶקְרַ֣ב|wā·’eq·raḇ|and had relations with|H7126|Conj-w |
 v14 אֵלֶ֔יהָ|’ê·le·hā|her|H413|Prep | 3fs
 v14 וְלֹא־|wə·lō-|she was not|H3808|Conj-w | Adv-NegPrt
 v14 מָצָ֥אתִי|mā·ṣā·ṯî|but I discovered|H4672|V-Qal-Perf-1cs
-v14 לָ֖הּ|lāh||H0|Prep | 3fs
+v14 לָ֖הּ|lāh|-|H0|Prep | 3fs
 v14 בְּתוּלִֽים׃|bə·ṯū·lîm|a virgin|H1331|N-mp
 v15 וְלָקַ֛ח|wə·lā·qaḥ|-|H3947|Conj-w | V-Qal-ConjPerf-3ms
 v15 אֲבִ֥י|’ă·ḇî|father|H1|N-msc
@@ -265,7 +265,7 @@ v19 לֹא־|lō-|he must not|H3808|Adv-NegPrt
 v19 יוּכַ֥ל|yū·ḵal|...|H3201|V-Qal-Imperf-3ms
 v19 לְשַּׁלְּחָ֖הּ|ləš·šal·lə·ḥå̄h|divorce her|H7971|Prep-l | V-Piel-Inf | 3fs
 v19 כָּל־|kāl-|as|H3605|N-msc
-v19 יָמָֽיו׃ס|yā·māw|long as he lives|H3117|N-mpc | 3ms
+v19 יָמָֽיו׃|yā·māw|long as he lives|H3117|N-mpc | 3ms
 v20 וְאִם־|wə·’im-|If, however|H518|Conj
 v20 אֱמֶ֣ת|’ĕ·meṯ|true|H571|N-fs
 v20 הָיָ֔ה|hā·yāh|is|H1961|V-Qal-Perf-3ms
@@ -296,7 +296,7 @@ v21 בֵּ֣ית|bêṯ|house|H1004|N-msc
 v21 אָבִ֑יהָ|’ā·ḇî·hā|in her father's|H1|N-msc | 3fs
 v21 וּבִֽעַרְתָּ֥|ū·ḇi·‘ar·tā|So you must purge|H1197|Conj-w | V-Piel-ConjPerf-2ms
 v21 הָרָ֖ע|hā·rā‘|the evil|H7451|Art | Adj-ms
-v21 מִקִּרְבֶּֽךָ׃ס|miq·qir·be·ḵā|from among you|H7130|Prep-m | N-msc | 2ms
+v21 מִקִּרְבֶּֽךָ׃|miq·qir·be·ḵā|from among you|H7130|Prep-m | N-msc | 2ms
 v22 כִּֽי־|kî-|If|H3588|Conj
 v22 יִמָּצֵ֨א|yim·mā·ṣê|is found|H4672|V-Nifal-Imperf-3ms
 v22 אִ֜ישׁ|’îš|a man|H376|N-ms
@@ -315,10 +315,10 @@ v22 הָאִשָּׁ֖ה|hā·’iš·šāh|[her]|H802|Art | N-fs
 v22 וְהָאִשָּׁ֑ה|wə·hā·’iš·šāh|and the woman|H802|Conj-w, Art | N-fs
 v22 וּבִֽעַרְתָּ֥|ū·ḇi·‘ar·tā|You must purge|H1197|Conj-w | V-Piel-ConjPerf-2ms
 v22 הָרָ֖ע|hā·rā‘|the evil|H7451|Art | Adj-ms
-v22 מִיִּשְׂרָאֵֽל׃ס|mî·yiś·rā·’êl|from Israel|H3478|Prep-m | N-proper-ms
+v22 מִיִּשְׂרָאֵֽל׃|mî·yiś·rā·’êl|from Israel|H3478|Prep-m | N-proper-ms
 v23 כִּ֤י|kî|If|H3588|Conj
 v23 יִהְיֶה֙|yih·yeh|there is|H1961|V-Qal-Imperf-3ms
-v23 נַעַר|na·ʿar|vvv|H5291|N-fs
+v23 נַעַר|na·ʿar|...|H5291|N-fs
 v23 בְתוּלָ֔ה|ḇə·ṯū·lāh|a virgin|H1330|N-fs
 v23 מְאֹרָשָׂ֖ה|mə·’ō·rā·śāh|pledged in marriage|H781|V-Pual-Prtcpl-fs
 v23 לְאִ֑ישׁ|lə·’îš|to a man|H376|Prep-l | N-ms
@@ -357,7 +357,7 @@ v24 אֵ֣שֶׁת|’ê·šeṯ|wife|H802|N-fsc
 v24 רֵעֵ֑הוּ|rê·‘ê·hū|his neighbor's|H7453|N-msc | 3ms
 v24 וּבִֽעַרְתָּ֥|ū·ḇi·‘ar·tā|So you must purge|H1197|Conj-w | V-Piel-ConjPerf-2ms
 v24 הָרָ֖ע|hā·rā‘|the evil|H7451|Art | Adj-ms
-v24 מִקִּרְבֶּֽךָ׃ס|miq·qir·be·ḵā|from among you|H7130|Prep-m | N-msc | 2ms
+v24 מִקִּרְבֶּֽךָ׃|miq·qir·be·ḵā|from among you|H7130|Prep-m | N-msc | 2ms
 v25 וְֽאִם־|wə·’im-|But if|H518|Conj
 v25 בַּשָּׂדֶ֞ה|baś·śā·ḏeh|in the open country|H7704|Prep-b, Art | N-ms
 v25 יִמְצָ֣א|yim·ṣā|encounters|H4672|V-Qal-Imperf-3ms
@@ -403,11 +403,11 @@ v27 הַנַּעַר|han·na·ʿar|woman|H5291|Art | N-fs
 v27 הַמְאֹ֣רָשָׂ֔ה|ham·’ō·rā·śāh|the betrothed|H781|Art | V-Pual-Prtcpl-fs
 v27 וְאֵ֥ין|wə·’ên|but there was no one|H369|Conj-w | Adv
 v27 מוֹשִׁ֖יעַ|mō·wō·šî·a‘|to save|H3467|V-Hifil-Prtcpl-ms
-v27 לָֽהּ׃ס|lāh|her|H0|Prep | 3fs
+v27 לָֽהּ׃|lāh|her|H0|Prep | 3fs
 v28 כִּֽי־|kî-|If|H3588|Conj
 v28 יִמְצָ֣א|yim·ṣā|encounters|H4672|V-Qal-Imperf-3ms
 v28 אִ֗ישׁ|’îš|a man|H376|N-ms
-v28 נַעַר|na·ʿar|vvv|H5291|N-fs
+v28 נַעַר|na·ʿar|...|H5291|N-fs
 v28 בְתוּלָה֙|ḇə·ṯū·lāh|a virgin|H1330|N-fs
 v28 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
 v28 לֹא־|lō-|is not|H3808|Adv-NegPrt
@@ -434,7 +434,7 @@ v29 לֹא־|lō-|He must not|H3808|Adv-NegPrt
 v29 יוּכַ֥ל|yū·ḵal|...|H3201|V-Qal-Imperf-3ms
 v29 שַׁלְּחָ֖ה|šal·lə·ḥå̄h|divorce her|H7971|V-Piel-Inf | 3fs
 v29 כָּל־|kāl-|as|H3605|N-msc
-v29 יָמָֽיו׃ס|yā·māw|long as he lives|H3117|N-mpc | 3ms
+v29 יָמָֽיו׃|yā·māw|long as he lives|H3117|N-mpc | 3ms
 v30 לֹא־|lō-|is not|H3808|Adv-NegPrt
 v30 יִקַּ֥ח|yiq·qaḥ|to marry|H3947|V-Qal-Imperf-3ms
 v30 אִ֖ישׁ|’îš|A man|H376|N-ms
@@ -444,4 +444,4 @@ v30 אָבִ֑יו|’ā·ḇîw|his father's|H1|N-msc | 3ms
 v30 וְלֹ֥א|wə·lō|so that he will not|H3808|Conj-w | Adv-NegPrt
 v30 יְגַלֶּ֖ה|yə·ḡal·leh|dishonor|H1540|V-Piel-Imperf-3ms
 v30 כְּנַ֥ף|kə·nap̄|marriage bed|H3671|N-fsc
-v30 אָבִֽיו׃ס|’ā·ḇîw|his father's|H1|N-msc | 3ms
+v30 אָבִֽיו׃|’ā·ḇîw|his father's|H1|N-msc | 3ms

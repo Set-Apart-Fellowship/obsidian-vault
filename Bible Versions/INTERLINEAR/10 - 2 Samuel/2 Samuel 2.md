@@ -61,7 +61,7 @@ v4 גִּלְעָ֔ד|gil·‘āḏ|...|H1568|N-proper-fs
 v4 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v4 קָבְר֖וּ|qā·ḇə·rū|who buried|H6912|V-Qal-Perf-3cp
 v4 אֶת־|’eṯ-|-|H853|DirObjM
-v4 שָׁאֽוּל׃ס|šā·’ūl|Saul|H7586|N-proper-ms
+v4 שָׁאֽוּל׃|šā·’ūl|Saul|H7586|N-proper-ms
 v5 וַיִּשְׁלַ֤ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v5 דָּוִד֙|dā·wiḏ|So David|H1732|N-proper-ms
 v5 מַלְאָכִ֔ים|mal·’ā·ḵîm|messengers|H4397|N-mp
@@ -116,7 +116,7 @@ v7 מָשְׁח֧וּ|mā·šə·ḥū|has anointed me|H4886|V-Qal-Perf-3cp
 v7 בֵית־|ḇêṯ-|the house|H1004|N-msc
 v7 יְהוּדָ֛ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v7 לְמֶ֖לֶךְ|lə·me·leḵ|as their king|H4428|Prep-l | N-ms
-v7 עֲלֵיהֶֽם׃פ|‘ă·lê·hem|...|H5921|Prep | 3mp
+v7 עֲלֵיהֶֽם׃|‘ă·lê·hem|...|H5921|Prep | 3mp
 v8 וְאַבְנֵ֣ר|wə·’aḇ·nêr|Meanwhile, Abner|H74|Conj-w | N-proper-ms
 v8 בֶּן־|ben-|son|H1121|N-msc
 v8 נֵ֔ר|nêr|of Ner|H5369|N-proper-ms
@@ -126,7 +126,7 @@ v8 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v8 לְשָׁא֑וּל|lə·šā·’ūl|of Saul's|H7586|Prep-l | N-proper-ms
 v8 לָקַ֗ח|lā·qaḥ|took|H3947|V-Qal-Perf-3ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
-v8 אִ֥ישׁ|’îš|vvv|H378|
+v8 אִ֥ישׁ|’îš|...|H378|
 v8 בֹּ֙שֶׁת֙|bō·šeṯ|Ish-bosheth|H378|N-proper-ms
 v8 בֶּן־|ben-|son|H1121|N-msc
 v8 שָׁא֔וּל|šā·’ūl|Saul's|H7586|N-proper-ms
@@ -145,11 +145,11 @@ v9 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v9 בִּנְיָמִ֔ן|bin·yā·min|and Benjamin|H1144|N-proper-ms
 v9 וְעַל־|wə·‘al-|over|H5921|Conj-w | Prep
 v9 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v9 כֻּלֹּֽה׃פ|kul·lōh|all|H3605|N-msc | 3ms
+v9 כֻּלֹּֽה׃|kul·lōh|all|H3605|N-msc | 3ms
 v10 בֶּן־|ben-|son|H1121|N-msc
 v10 אַרְבָּעִ֨ים|’ar·bā·‘îm|was forty|H705|Number-cp
 v10 שָׁנָ֜ה|šā·nāh|...|H8141|N-fs
-v10 אִֽישׁ־|’îš-|vvv|H378|
+v10 אִֽישׁ־|’îš-|...|H378|
 v10 בֹּ֣שֶׁת|bō·šeṯ|Ish-bosheth|H378|N-proper-ms
 v10 בֶּן־|ben-|years old|H1121|N-msc
 v10 שָׁא֗וּל|šā·’ūl|Saul's|H7586|N-proper-ms
@@ -179,13 +179,13 @@ v11 יְהוּדָ֑ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v11 שֶׁ֥בַע|še·ḇa‘|was seven|H7651|Number-fs
 v11 שָׁנִ֖ים|šā·nîm|years|H8141|N-fp
 v11 וְשִׁשָּׁ֥ה|wə·šiš·šāh|and six|H8337|Conj-w | Number-ms
-v11 חֳדָשִֽׁים׃ס|ḥo·ḏā·šîm|months|H2320|N-mp
+v11 חֳדָשִֽׁים׃|ḥo·ḏā·šîm|months|H2320|N-mp
 v12 וַיֵּצֵא֙|way·yê·ṣê|marched out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v12 אַבְנֵ֣ר|’aḇ·nêr|One day Abner|H74|N-proper-ms
 v12 בֶּן־|ben-|son|H1121|N-msc
 v12 נֵ֔ר|nêr|of Ner|H5369|N-proper-ms
 v12 וְעַבְדֵ֖י|wə·‘aḇ·ḏê|and the servants|H5650|Conj-w | N-mpc
-v12 אִֽישׁ־|’îš-|vvv|H378|
+v12 אִֽישׁ־|’îš-|...|H378|
 v12 בֹּ֣שֶׁת|bō·šeṯ|of Ish-bosheth|H378|N-proper-ms
 v12 בֶּן־|ben-|son|H1121|N-msc
 v12 שָׁא֑וּל|šā·’ūl|of Saul|H7586|N-proper-ms
@@ -229,7 +229,7 @@ v15 בְמִסְפָּ֑ר|ḇə·mis·pār|and were counted off|H4557|Prep-b | 
 v15 שְׁנֵ֧ים|šə·nêm|twelve|H8147|Number-md
 v15 עָשָׂ֣ר|‘ā·śār|...|H6240|Number-ms
 v15 לְבִנְיָמִ֗ן|lə·ḇin·yā·min|for Benjamin|H1144|Prep-l | N-proper-ms
-v15 וּלְאִ֥ישׁ|ū·lə·’îš|vvv|H378|
+v15 וּלְאִ֥ישׁ|ū·lə·’îš|...|H378|
 v15 בֹּ֙שֶׁת֙|bō·šeṯ|and Ish-bosheth|H378|Conj-w, Prep | N-proper-ms
 v15 בֶּן־|ben-|son|H1121|N-msc
 v15 שָׁא֔וּל|šā·’ūl|of Saul|H7586|N-proper-ms
@@ -249,7 +249,7 @@ v16 יַחְדָּ֑ו|yaḥ·dāw|together|H3162|Adv
 v16 וַיִּקְרָא֙|way·yiq·rā|is called|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v16 לַמָּק֣וֹם|lam·mā·qō·wm|place|H4725|Prep-l, Art | N-ms
 v16 הַה֔וּא|ha·hū|So this|H1931|Art | Pro-3ms
-v16 חֶלְקַ֥ת|ḥel·qaṯ|vvv|H2521|
+v16 חֶלְקַ֥ת|ḥel·qaṯ|...|H2521|
 v16 הַצֻּרִ֖ים|haṣ·ṣu·rîm|Helkath-hazzurim|H2521|N-proper-fs
 v16 אֲשֶׁ֥ר|’ă·šer|which|H834|Pro-r
 v16 בְּגִבְעֽוֹן׃|bə·ḡiḇ·‘ō·wn|is in Gibeon|H1391|Prep-b | N-proper-fs
@@ -257,7 +257,7 @@ v17 וַתְּהִ֧י|wat·tə·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v17 הַמִּלְחָמָ֛ה|ham·mil·ḥā·māh|The battle|H4421|Art | N-fs
 v17 קָשָׁ֥ה|qā·šāh|intense|H7186|Adj-fs
 v17 עַד־|‘aḏ-|-|H5704|Prep
-v17 מְאֹ֖ד|mə·’ōḏ|vvv|H3966|Adv
+v17 מְאֹ֖ד|mə·’ōḏ|...|H3966|Adv
 v17 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v17 הַה֑וּא|ha·hū|that|H1931|Art | Pro-3ms
 v17 וַיִּנָּ֤גֶף|way·yin·nā·ḡep̄|were defeated|H5062|Conj-w | V-Nifal-ConsecImperf-3ms
@@ -315,7 +315,7 @@ v21 א֣וֹ|’ōw|or|H176|Conj
 v21 עַל־|‘al-|to|H5921|Prep
 v21 שְׂמֹאלֶ֔ךָ|śə·mō·le·ḵā|your left|H8040|N-msc | 2ms
 v21 וֶאֱחֹ֣ז|we·’ĕ·ḥōz|seize|H270|Conj-w | V-Qal-Imp-ms
-v21 לְךָ֗|lə·ḵā||H0|Prep | 2ms
+v21 לְךָ֗|lə·ḵā|-|H0|Prep | 2ms
 v21 אֶחָד֙|’e·ḥāḏ|one|H259|Number-ms
 v21 מֵֽהַנְּעָרִ֔ים|mê·han·nə·‘ā·rîm|of the young men|H5288|Prep-m, Art | N-mp
 v21 וְקַח־|wə·qaḥ-|and take|H3947|Conj-w | V-Qal-Imp-ms
@@ -334,7 +334,7 @@ v22 לֵאמֹר֙|lê·mōr|warned|H559|Prep-l | V-Qal-Inf
 v22 אֶל־|’el-|...|H413|Prep
 v22 עֲשָׂהאֵ֔ל|‘ă·śā·h·’êl|Asahel|H6214|N-proper-ms
 v22 ס֥וּר|sūr|Stop|H5493|V-Qal-Imp-ms
-v22 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v22 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v22 מֵאַֽחֲרָ֑י|mê·’a·ḥă·rāy|chasing me|H310|Prep-m | 1cs
 v22 לָ֤מָּה|lām·māh|Why|H4100|Interrog
 v22 אַכֶּ֙כָּה֙|’ak·kek·kāh|should I strike|H5221|V-Hifil-Imperf-1cs | 2ms
@@ -399,7 +399,7 @@ v25 וַיִּהְי֖וּ|way·yih·yū|formed|H1961|Conj-w | V-Qal-ConsecImper
 v25 לַאֲגֻדָּ֣ה|la·’ă·ḡud·dāh|unit|H92|Prep-l | N-fs
 v25 אֶחָ֑ת|’e·ḥāṯ|a single|H259|Number-fs
 v25 וַיַּ֣עַמְד֔וּ|way·ya·‘am·ḏū|and took their stand|H5975|Conj-w | V-Qal-ConsecImperf-3mp
-v25 עַ֥ל|‘al|vvv|H5921|Prep
+v25 עַ֥ל|‘al|...|H5921|Prep
 v25 רֹאשׁ־|rōš-|atop|H7218|N-msc
 v25 גִּבְעָ֖ה|giḇ·‘āh|hill|H1389|N-fs
 v25 אֶחָֽת׃|’e·ḥāṯ|a|H259|Number-fs
@@ -407,7 +407,7 @@ v26 וַיִּקְרָ֨א|way·yiq·rā|called out|H7121|Conj-w | V-Qal-ConsecI
 v26 אַבְנֵ֜ר|’aḇ·nêr|Then Abner|H74|N-proper-ms
 v26 אֶל־|’el-|to|H413|Prep
 v26 יוֹאָ֗ב|yō·w·’āḇ|Joab|H3097|N-proper-ms
-v26 וַיֹּ֙אמֶר֙|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
+v26 וַיֹּ֙אמֶר֙|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v26 הֲלָנֶ֙צַח֙|hă·lā·ne·ṣaḥ|...|H5331|Art, Prep-l | N-ms
 v26 תֹּ֣אכַל|tō·ḵal|devour forever|H398|V-Qal-Imperf-3fs
 v26 חֶ֔רֶב|ḥe·reḇ|Must the sword|H2719|N-fs
@@ -490,7 +490,7 @@ v31 וְעַבְדֵ֣י|wə·‘aḇ·ḏê|but they|H5650|Conj-w | N-mpc
 v31 דָוִ֗ד|ḏā·wiḏ|...|H1732|N-proper-ms
 v31 הִכּוּ֙|hik·kū|had struck down|H5221|V-Hifil-Perf-3cp
 v31 מִבִּנְיָמִ֔ן|mib·bin·yā·min|Benjamites|H1144|Prep-m | N-proper-ms
-v31 וּבְאַנְשֵׁ֖י|ū·ḇə·’an·šê|vvv|H376|Conj-w, Prep-b | N-mpc
+v31 וּבְאַנְשֵׁ֖י|ū·ḇə·’an·šê|...|H376|Conj-w, Prep-b | N-mpc
 v31 אַבְנֵ֑ר|’aḇ·nêr|[who were with] Abner|H74|N-proper-ms
 v31 שְׁלֹשׁ־|šə·lōš-|360|H7969|Number-fsc
 v31 מֵא֧וֹת|mê·’ō·wṯ|...|H3967|Number-fp
@@ -504,7 +504,7 @@ v32 וַֽיִּקְבְּרֻ֙הוּ֙|way·yiq·bə·ru·hū|and buried him|H
 v32 בְּקֶ֣בֶר|bə·qe·ḇer|tomb|H6913|Prep-b | N-msc
 v32 אָבִ֔יו|’ā·ḇîw|in his father's|H1|N-msc | 3ms
 v32 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
-v32 בֵּ֣ית|bêṯ|vvv|H1035|Prep
+v32 בֵּ֣ית|bêṯ|...|H1035|Prep
 v32 לָ֑חֶם|lā·ḥem|in Bethlehem|H1035|N-proper-fs
 v32 וַיֵּלְכ֣וּ|way·yê·lə·ḵū|marched|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v32 כָל־|ḵāl|all|H3605|N-msc

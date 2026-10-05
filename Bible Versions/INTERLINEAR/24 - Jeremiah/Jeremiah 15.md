@@ -85,7 +85,7 @@ v5 וּמִ֣י|ū·mî|Who|H4310|Conj-w | Interrog
 v5 יָס֔וּר|yā·sūr|will turn aside|H5493|V-Qal-Imperf-3ms
 v5 לִשְׁאֹ֥ל|liš·’ōl|to ask|H7592|Prep-l | V-Qal-Inf
 v5 לְשָׁלֹ֖ם|lə·šā·lōm|about your welfare|H7965|Prep-l | N-ms
-v5 לָֽךְ׃|lāḵ||H0|Prep | 2fs
+v5 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs
 v6 אַ֣תְּ|’at|You|H859|Pro-2fs
 v6 נָטַ֥שְׁתְּ|nā·ṭašt|have forsaken|H5203|V-Qal-Perf-2fs
 v6 אֹתִ֛י|’ō·ṯî|Me|H853|DirObjM | 1cs
@@ -112,7 +112,7 @@ v7 מִדַּרְכֵיהֶ֖ם|mid·dar·ḵê·hem|from their ways|H1870|Prep-
 v7 לוֹא־|lō·w-|who have not|H3808|Adv-NegPrt
 v7 שָֽׁבוּ׃|šā·ḇū|turned|H7725|V-Qal-Perf-3cp
 v8 עָֽצְמוּ־|‘ā·ṣə·mū-|more numerous|H6105|V-Qal-Perf-3cp
-v8 לִ֤י|lî||H0|Prep | 1cs
+v8 לִ֤י|lî|-|H0|Prep | 1cs
 v8 אַלְמְנֹתָו֙|ʾal·mə·nō·ṯå̄w|I will make their widows|H490|N-fsc | 3ms
 v8 מֵח֣וֹל|mê·ḥō·wl|than the sand|H2344|Prep-m | N-msc
 v8 יַמִּ֔ים|yam·mîm|of the sea|H3220|N-mp
@@ -145,7 +145,7 @@ v9 אֶתֵּ֛ן|’et·tên|I will put|H5414|V-Qal-Imperf-1cs
 v9 לִפְנֵ֥י|lip̄·nê|in the presence|H6440|Prep-l | N-cpc
 v9 אֹיְבֵיהֶ֖ם|’ō·yə·ḇê·hem|of their enemies|H341|V-Qal-Prtcpl-mpc | 3mp
 v9 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v9 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v9 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v10 אֽוֹי־|’ō·w-|Woe|H188|Interjection
 v10 לִ֣י|lî|to me|H0|Prep | 1cs
 v10 אִמִּ֔י|’im·mî|my mother|H517|N-fsc | 1cs
@@ -161,9 +161,9 @@ v10 לֹֽא־|lō-|I have neither|H3808|Adv-NegPrt
 v10 נָשִׁ֥יתִי|nā·šî·ṯî|lent|H5383|V-Qal-Perf-1cs
 v10 וְלֹא־|wə·lō-|nor|H3808|Conj-w | Adv-NegPrt
 v10 נָֽשׁוּ־|nā·šū-|borrowed|H5383|V-Qal-Perf-3cp
-v10 בִ֖י|ḇî||H0|Prep | 1cs
+v10 בִ֖י|ḇî|-|H0|Prep | 1cs
 v10 כֻּלֹּ֥ה|kul·lōh|yet everyone|H3605|N-msc | 3ms
-v10 מְקַלְלַֽונִי׃ס|mə·qal·la·w·nî|curses me|H7043|V-Piel-Prtcpl-mpc | 1cs
+v10 מְקַלְלַֽונִי׃|mə·qal·la·w·nî|curses me|H7043|V-Piel-Prtcpl-mpc | 1cs
 v11 אָמַ֣ר|’ā·mar|said|H559|V-Qal-Perf-3ms
 v11 יְהוָ֔ה|Yah·weh|The LORD|H3068|N-proper-ms
 v11 אִם־|’im-|Surely|H518|Conj
@@ -206,7 +206,7 @@ v14 אֵ֛שׁ|’êš|a fire|H784|N-cs
 v14 קָדְחָ֥ה|qā·ḏə·ḥāh|will kindle|H6919|V-Qal-Perf-3fs
 v14 בְאַפִּ֖י|ḇə·’ap·pî|My anger|H639|Prep-b | N-msc | 1cs
 v14 עֲלֵיכֶ֥ם|‘ă·lê·ḵem|against you|H5921|Prep | 2mp
-v14 תּוּקָֽד׃ס|tū·qāḏ|that will burn|H3344|V-Hofal-Imperf-3fs
+v14 תּוּקָֽד׃|tū·qāḏ|that will burn|H3344|V-Hofal-Imperf-3fs
 v15 אַתָּ֧ה|’at·tāh|You|H859|Pro-2ms
 v15 יָדַ֣עְתָּ|yā·ḏa‘·tā|understand|H3045|V-Qal-Perf-2ms
 v15 יְהוָ֗ה|Yah·weh|O LORD|H3068|N-proper-ms
@@ -238,7 +238,7 @@ v16 שִׁמְךָ֙|šim·ḵā|Your name|H8034|N-msc | 2ms
 v16 עָלַ֔י|‘ā·lay|...|H5921|Prep | 1cs
 v16 יְהוָ֖ה|Yah·weh|O LORD|H3068|N-proper-ms
 v16 אֱלֹהֵ֥י|’ĕ·lō·hê|God|H430|N-mpc
-v16 צְבָאֽוֹת׃ס|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
+v16 צְבָאֽוֹת׃|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v17 לֹֽא־|lō-|I never|H3808|Adv-NegPrt
 v17 יָשַׁ֥בְתִּי|yā·šaḇ·tî|sat|H3427|V-Qal-Perf-1cs
 v17 בְסוֹד־|ḇə·sō·wḏ-|with the band|H5475|Prep-b | N-msc
@@ -250,7 +250,7 @@ v17 בָּדָ֣ד|bā·ḏāḏ|alone|H910|N-ms
 v17 יָשַׁ֔בְתִּי|yā·šaḇ·tî|I sat|H3427|V-Qal-Perf-1cs
 v17 כִּֽי־|kî-|for|H3588|Conj
 v17 זַ֖עַם|za·‘am|with indignation|H2195|N-ms
-v17 מִלֵּאתָֽנִי׃ס|mil·lê·ṯā·nî|You have filled me|H4390|V-Piel-Perf-2ms | 1cs
+v17 מִלֵּאתָֽנִי׃|mil·lê·ṯā·nî|You have filled me|H4390|V-Piel-Perf-2ms | 1cs
 v18 לָ֣מָּה|lām·māh|Why|H4100|Interrog
 v18 הָיָ֤ה|hā·yāh|is|H1961|V-Qal-Perf-3ms
 v18 כְאֵבִי֙|ḵə·’ê·ḇî|my pain|H3511|N-msc | 1cs
@@ -266,7 +266,7 @@ v18 כְּמ֣וֹ|kə·mōw|like|H3644|Prep
 v18 אַכְזָ֔ב|’aḵ·zāḇ|a mirage|H391|N-ms
 v18 מַ֖יִם|ma·yim|water|H4325|N-mp
 v18 לֹ֥א|lō|that is not|H3808|Adv-NegPrt
-v18 נֶאֱמָֽנוּ׃ס|ne·’ĕ·mā·nū|there|H539|V-Nifal-Perf-3cp
+v18 נֶאֱמָֽנוּ׃|ne·’ĕ·mā·nū|there|H539|V-Nifal-Perf-3cp
 v19 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v19 כֹּֽה־|kōh-|this is what|H3541|Adv
 v19 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -312,4 +312,4 @@ v21 מִיַּ֣ד|mî·yaḏ|from the hand|H3027|Prep-m | N-fsc
 v21 רָעִ֑ים|rā·‘îm|of the wicked|H7451|Adj-mp
 v21 וּפְדִתִ֖יךָ|ū·p̄ə·ḏi·ṯî·ḵā|and redeem you|H6299|Conj-w | V-Qal-ConjPerf-1cs | 2ms
 v21 מִכַּ֥ף|mik·kap̄|from the grasp|H3709|Prep-m | N-fsc
-v21 עָרִצִֽים׃פ|‘ā·ri·ṣîm|of the ruthless|H6184|Adj-mp
+v21 עָרִצִֽים׃|‘ā·ri·ṣîm|of the ruthless|H6184|Adj-mp

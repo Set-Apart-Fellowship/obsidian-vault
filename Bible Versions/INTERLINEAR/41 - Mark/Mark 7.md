@@ -52,7 +52,7 @@ v4 ἀγορᾶς|agoras|the market|G58|N-GFS
 v4 ἐὰν|ean|unless|G1437|Conj
 v4 μὴ|mē|...|G3361|Adv
 v4 βαπτίσωνται*|baptisōntai|they wash|G907|V-ASM-3P
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 ἐσθίουσιν|esthiousin|they do not eat|G2068|V-PIA-3P
 v4 καὶ|kai|And|G2532|Conj
 v4 ἄλλα|alla|other|G243|Adj-NNP
@@ -142,10 +142,10 @@ v8 τὴν|tēn|the|G3588|Art-AFS
 v8 παράδοσιν|paradosin|tradition|G3862|N-AFS
 v8 τῶν|tōn|-|G3588|Art-GMP
 v8 ἀνθρώπων|anthrōpōn|of men|G444|N-GMP
-v9 Καὶ|Kai|vvv|G2532|Conj
+v9 Καὶ|Kai|...|G2532|Conj
 v9 ἔλεγεν|elegen|He went on to say|G2036|V-IIA-3S
 v9 αὐτοῖς|autois|-|G846|PPro-DM3P
-v9 Καλῶς|Kalōs|vvv|G2573|Adv
+v9 Καλῶς|Kalōs|...|G2573|Adv
 v9 ἀθετεῖτε|atheteite|You neatly set aside|G114|V-PIA-2P
 v9 τὴν|tēn|the|G3588|Art-AFS
 v9 ἐντολὴν|entolēn|command|G1785|N-AFS
@@ -173,7 +173,7 @@ v10 κακολογῶν|kakologōn|curses|G2551|V-PPA-NMS
 v10 πατέρα|patera|[his] father|G3962|N-AMS
 v10 ἢ|ē|or|G2228|Conj
 v10 μητέρα|mētera|mother|G3384|N-AFS
-v10 θανάτῳ|thanatō|vvv|G2288|N-DMS
+v10 θανάτῳ|thanatō|...|G2288|N-DMS
 v10 τελευτάτω|teleutatō|must be put to death|G5053|V-PMA-3S
 v11 ὑμεῖς|hymeis|you|G4771|PPro-N2P
 v11 δὲ|de|But|G1161|Conj
@@ -278,7 +278,7 @@ v18 καὶ|kai|still|G2532|Conj
 v18 ὑμεῖς|hymeis|you|G4771|PPro-N2P
 v18 ἀσύνετοί|asynetoi|dull|G801|Adj-NMP
 v18 ἐστε|este|Are|G1510|V-PIA-2P
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 νοεῖτε|noeite|Do you not understand|G3539|V-PIA-2P
 v18 ὅτι|hoti|-|G3754|Conj
 v18 πᾶν|pan|Nothing|G3956|Adj-NNS
@@ -288,12 +288,12 @@ v18 εἰσπορευόμενον|eisporeuomenon|enters|G1531|V-PPM/P-NNS
 v18 εἰς|eis|...|G1519|Prep
 v18 τὸν|ton|a|G3588|Art-AMS
 v18 ἄνθρωπον|anthrōpon|man|G444|N-AMS
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 δύναται|dynatai|can|G1410|V-PIM/P-3S
 v18 αὐτὸν|auton|him|G846|PPro-AM3S
 v18 κοινῶσαι|koinōsai|defile|G2840|V-ANA
 v19 ὅτι|hoti|because|G3754|Conj
-v19 οὐκ|ouk|vvv|G3756|Adv
+v19 οὐκ|ouk|...|G3756|Adv
 v19 εἰσπορεύεται|eisporeuetai|it does not enter|G1531|V-PIM/P-3S
 v19 αὐτοῦ|autou|his|G846|PPro-GM3S
 v19 εἰς|eis|...|G1519|Prep
@@ -375,7 +375,7 @@ v24 οὐδένα|oudena|...|G3762|Adj-AMS
 v24 ἤθελεν|ēthelen|Not wanting anyone|G2309|V-IIA-3S
 v24 γνῶναι|gnōnai|to know [He was there]|G1097|V-ANA
 v24 καὶ|kai|but|G2532|Conj
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 ἠδυνήθη*|ēdynēthē|was unable|G1410|V-AIP-3S
 v24 λαθεῖν|lathein|to escape their notice|G2990|V-ANA
 v25 ἀλλ’|all’|Instead|G235|Conj
@@ -474,10 +474,10 @@ v29 τὸ|to|The|G3588|Art-NNS
 v29 δαιμόνιον|daimonion|demon|G1140|N-NNS
 v30 καὶ|kai|And|G2532|Conj
 v30 ἀπελθοῦσα|apelthousa|she went|G565|V-APA-NFS
-v30 εἰς|eis|vvv|G1519|Prep
-v30 τὸν|ton|vvv|G3588|Art-AMS
+v30 εἰς|eis|...|G1519|Prep
+v30 τὸν|ton|...|G3588|Art-AMS
 v30 οἶκον|oikon|home|G3624|N-AMS
-v30 αὐτῆς|autēs|vvv|G846|PPro-GF3S
+v30 αὐτῆς|autēs|...|G846|PPro-GF3S
 v30 εὗρεν|heuren|[and] found|G2147|V-AIA-3S
 v30 τὸ|to|[her]|G3588|Art-ANS
 v30 παιδίον|paidion|child|G3813|N-ANS
@@ -566,9 +566,9 @@ v35 ἀκοαί|akoai|ears|G189|N-NFP
 v35 καὶ»|kai|and|G2532|Conj
 v35 εὐθὺς|euthys|Immediately|G2112|Adv
 v35 ἐλύθη|elythē|was released|G3089|V-AIP-3S
-v35 ὁ|ho|vvv|G3588|Art-NMS
-v35 δεσμὸς|desmos|vvv|G1199|N-NMS
-v35 τῆς|tēs|vvv|G3588|Art-GFS
+v35 ὁ|ho|...|G3588|Art-NMS
+v35 δεσμὸς|desmos|...|G1199|N-NMS
+v35 τῆς|tēs|...|G3588|Art-GFS
 v35 γλώσσης|glōssēs|tongue|G1100|N-GFS
 v35 αὐτοῦ|autou|his|G846|PPro-GM3S
 v35 καὶ|kai|and|G2532|Conj

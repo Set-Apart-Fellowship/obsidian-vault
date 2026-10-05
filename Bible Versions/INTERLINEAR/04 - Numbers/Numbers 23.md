@@ -169,7 +169,7 @@ v13 מָק֤וֹם|mā·qō·wm|place|H4725|N-ms
 v13 אַחֵר֙|’a·ḥêr|another|H312|Adj-ms
 v13 אֲשֶׁ֣ר|’ă·šer|where|H834|Pro-r
 v13 תִּרְאֶ֣נּוּ|tir·’en·nū|you can see them|H7200|V-Qal-Imperf-2ms | 3ms
-v13 מִשָּׁ֔ם|miš·šām||H8033|Prep-m | Adv
+v13 מִשָּׁ֔ם|miš·šām|-|H8033|Prep-m | Adv
 v13 אֶ֚פֶס|’e·p̄es|You will only|H657|N-ms
 v13 קָצֵ֣הוּ|qā·ṣê·hū|the outskirts of their camp|H7097|N-msc | 3ms
 v13 תִרְאֶ֔ה|ṯir·’eh|see|H7200|V-Qal-Imperf-2ms
@@ -225,7 +225,7 @@ v17 וְשָׂרֵ֥י|wə·śā·rê|the princes|H8269|Conj-w | N-mpc
 v17 מוֹאָ֖ב|mō·w·’āḇ|of Moab|H4124|N-proper-fs
 v17 אִתּ֑וֹ|’it·tōw|with|H854|Prep | 3ms
 v17 וַיֹּ֤אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v17 לוֹ֙|lōw||H0|Prep | 3ms
+v17 לוֹ֙|lōw|-|H0|Prep | 3ms
 v17 בָּלָ֔ק|bā·lāq|Balak|H1111|N-proper-ms
 v17 מַה־|mah-|What|H4100|Interrog
 v17 דִּבֶּ֖ר|dib·ber|say|H1696|V-Piel-Perf-3ms
@@ -279,7 +279,7 @@ v22 מוֹצִיאָ֣ם|mō·w·ṣî·’ām|brought them out|H3318|V-Hifil-Pr
 v22 מִמִּצְרָ֑יִם|mim·miṣ·rā·yim|of Egypt|H4714|Prep-m | N-proper-fs
 v22 כְּתוֹעֲפֹ֥ת|kə·ṯō·w·‘ă·p̄ōṯ|with strength|H8443|Prep-k | N-fpc
 v22 רְאֵ֖ם|rə·’êm|like a wild ox|H7214|N-ms
-v22 לֽוֹ׃|lōw||H0|Prep | 3ms
+v22 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v23 כִּ֤י|kî|For|H3588|Conj
 v23 לֹא־|lō-|there is no|H3808|Adv-NegPrt
 v23 נַ֙חַשׁ֙|na·ḥaš|spell|H5173|N-ms

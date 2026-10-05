@@ -46,7 +46,7 @@ v4 וּבְהֵמָ֖ה|ū·ḇə·hê·māh|and livestock|H929|Conj-w | N-fs
 v4 בְּתוֹכָֽהּ׃|bə·ṯō·w·ḵāh|within it|H8432|Prep-b | N-msc | 3fs
 v5 וַאֲנִ֤י|wa·’ă·nî|For I|H589|Conj-w | Pro-1cs
 v5 אֶֽהְיֶה־|’eh·yeh-|will be|H1961|V-Qal-Imperf-1cs
-v5 לָּהּ֙|lāh||H0|Prep | 3fs
+v5 לָּהּ֙|lāh|-|H0|Prep | 3fs
 v5 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v5 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v5 ח֥וֹמַת|ḥō·w·maṯ|a wall|H2346|N-fsc
@@ -54,7 +54,7 @@ v5 אֵ֖שׁ|’êš|of fire|H784|N-cs
 v5 סָבִ֑יב|sā·ḇîḇ|around it|H5439|Adv
 v5 וּלְכָב֖וֹד|ū·lə·ḵā·ḇō·wḏ|the glory|H3519|Conj-w, Prep-l | N-ms
 v5 אֶֽהְיֶ֥ה|’eh·yeh|and I will be|H1961|V-Qal-Imperf-1cs
-v5 בְתוֹכָֽהּ׃פ|ḇə·ṯō·w·ḵāh|within it|H8432|Prep-b | N-msc | 3fs
+v5 בְתוֹכָֽהּ׃|ḇə·ṯō·w·ḵāh|within it|H8432|Prep-b | N-msc | 3fs
 v6 ה֣וֹי|hō·w|Get up|H1945|Interjection
 v6 ה֗וֹי|hō·w|Get up|H1945|Interjection
 v6 וְנֻ֛סוּ|wə·nu·sū|Flee|H5127|Conj-w | V-Qal-Imp-mp
@@ -75,7 +75,7 @@ v7 צִיּ֖וֹן|ṣî·yō·wn|O Zion|H6726|N-proper-fs
 v7 הִמָּלְטִ֑י|him·mā·lə·ṭî|Escape|H4422|V-Nifal-Imp-fs
 v7 יוֹשֶׁ֖בֶת|yō·wō·še·ḇeṯ|you who dwell|H3427|V-Qal-Prtcpl-fs
 v7 בַּת־|baṯ-|with the Daughter|H1323|N-fsc
-v7 בָּבֶֽל׃ס|bā·ḇel|of Babylon|H894|N-proper-fs
+v7 בָּבֶֽל׃|bā·ḇel|of Babylon|H894|N-proper-fs
 v8 כִּ֣י|kî|For|H3588|Conj
 v8 כֹ֣ה|ḵōh|this is what|H3541|Adv
 v8 אָמַר֮|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -107,7 +107,7 @@ v9 וִֽידַעְתֶּ֕ם|wî·ḏa‘·tem|Then you will know|H3045|Conj-w 
 v9 כִּֽי־|kî-|that|H3588|Conj
 v9 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v9 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
-v9 שְׁלָחָֽנִי׃ס|šə·lā·ḥā·nî|has sent Me|H7971|V-Qal-Perf-3ms | 1cs
+v9 שְׁלָחָֽנִי׃|šə·lā·ḥā·nî|has sent Me|H7971|V-Qal-Perf-3ms | 1cs
 v10 רָנִּ֥י|rān·nî|Shout for joy|H7442|V-Qal-Imp-fs
 v10 וְשִׂמְחִ֖י|wə·śim·ḥî|and be glad|H8055|Conj-w | V-Qal-Imp-fs
 v10 בַּת־|baṯ-|O Daughter|H1323|N-fsc
@@ -156,4 +156,4 @@ v13 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v13 כִּ֥י|kî|for|H3588|Conj
 v13 נֵע֖וֹר|nê·‘ō·wr|He has roused Himself|H5782|V-Nifal-Perf-3ms
 v13 מִמְּע֥וֹן|mim·mə·‘ō·wn|dwelling|H4583|Prep-m | N-msc
-v13 קָדְשֽׁוֹ׃ס|qā·ḏə·šōw|from His holy|H6944|N-msc | 3ms
+v13 קָדְשֽׁוֹ׃|qā·ḏə·šōw|from His holy|H6944|N-msc | 3ms

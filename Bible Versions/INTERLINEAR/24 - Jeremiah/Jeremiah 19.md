@@ -93,7 +93,7 @@ v5 דִבַּ֔רְתִּי|ḏib·bar·tî|or mentioned|H1696|V-Piel-Perf-1cs
 v5 וְלֹ֥א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v5 עָלְתָ֖ה|‘ā·lə·ṯāh|did it [even] enter|H5927|V-Qal-Perf-3fs
 v5 עַל־|‘al-|...|H5921|Prep
-v5 לִבִּֽי׃פ|lib·bî|My mind|H3820|N-msc | 1cs
+v5 לִבִּֽי׃|lib·bî|My mind|H3820|N-msc | 1cs
 v6 לָכֵ֞ן|lā·ḵên|So|H3651|Adv
 v6 הִנֵּֽה־|hin·nêh-|behold|H2009|Interjection
 v6 יָמִ֤ים|yā·mîm|the days|H3117|N-mp
@@ -154,7 +154,7 @@ v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 בְּשַׂ֣ר|bə·śar|the flesh|H1320|N-msc
 v9 בְּנֵיהֶ֗ם|bə·nê·hem|of their sons|H1121|N-mpc | 3mp
 v9 וְאֵת֙|wə·’êṯ|and|H853|Conj-w | DirObjM
-v9 בְּשַׂ֣ר|bə·śar||H1320|N-msc
+v9 בְּשַׂ֣ר|bə·śar|-|H1320|N-msc
 v9 בְּנֹתֵיהֶ֔ם|bə·nō·ṯê·hem|daughters|H1323|N-fpc | 3mp
 v9 וְאִ֥ישׁ|wə·’îš|one|H376|Conj-w | N-ms
 v9 בְּשַׂר־|bə·śar-|flesh|H1320|N-msc
@@ -236,7 +236,7 @@ v13 הַשָּׁמַ֔יִם|haš·šā·ma·yim|of heaven|H8064|Art | N-mp
 v13 וְהַסֵּ֥ךְ|wə·has·sêḵ|and poured out|H5258|Conj-w | V-Hifil-InfAbs
 v13 נְסָכִ֖ים|nə·sā·ḵîm|drink offerings|H5262|N-mp
 v13 לֵאלֹהִ֥ים|lê·lō·hîm|gods|H430|Prep-l | N-mp
-v13 אֲחֵרִֽים׃פ|’ă·ḥê·rîm|to other|H312|Adj-mp
+v13 אֲחֵרִֽים׃|’ă·ḥê·rîm|to other|H312|Adj-mp
 v14 וַיָּבֹ֤א|way·yā·ḇō|returned|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v14 יִרְמְיָ֙הוּ֙|yir·mə·yā·hū|Then Jeremiah|H3414|N-proper-ms
 v14 מֵֽהַתֹּ֔פֶת|mê·hat·tō·p̄eṯ|from Topheth|H8612|Prep-m, Art | N-proper-fs
@@ -252,7 +252,7 @@ v14 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v14 וַיֹּ֖אמֶר|way·yō·mer|and proclaimed|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v14 אֶל־|’el-|to|H413|Prep
 v14 כָּל־|kāl-|all|H3605|N-msc
-v14 הָעָֽם׃ס|hā·‘ām|the people|H5971|Art | N-ms
+v14 הָעָֽם׃|hā·‘ām|the people|H5971|Art | N-ms
 v15 כֹּֽה־|kōh-|This is what|H3541|Adv
 v15 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v15 יְהוָ֤ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -275,9 +275,9 @@ v15 דִּבַּ֖רְתִּי|dib·bar·tî|I have pronounced|H1696|V-Piel-Perf
 v15 עָלֶ֑יהָ|‘ā·le·hā|against them|H5921|Prep | 3fs
 v15 כִּ֤י|kî|because|H3588|Conj
 v15 הִקְשׁוּ֙|hiq·šū|they have stiffened|H7185|V-Hifil-Perf-3cp
-v15 אֶת־|’eṯ-||H853|DirObjM
+v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 עָרְפָּ֔ם|‘ā·rə·pām|their necks|H6203|N-msc | 3mp
 v15 לְבִלְתִּ֖י|lə·ḇil·tî|so as not|H1115|Prep-l
 v15 שְׁמ֥וֹעַ|šə·mō·w·a‘|to heed|H8085|V-Qal-Inf
-v15 אֶת־|’eṯ-||H853|DirObjM
+v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 דְּבָרָֽי׃|də·ḇā·rāy|My words|H1697|N-mpc | 1cs

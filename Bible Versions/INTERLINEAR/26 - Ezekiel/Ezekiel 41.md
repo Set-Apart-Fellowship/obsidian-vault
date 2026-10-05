@@ -23,7 +23,7 @@ v2 הַפֶּ֔תַח|hap·pe·ṯaḥ|of the entrance|H6607|Art | N-ms
 v2 חָמֵ֤שׁ|ḥā·mêš|[were] five|H2568|Number-fs
 v2 אַמּוֹת֙|’am·mō·wṯ|cubits|H520|N-fp
 v2 מִפּ֔וֹ|mip·pōw|on each|H6311|Prep-m | Adv
-v2 וְחָמֵ֥שׁ|wə·ḥā·mêš||H2568|Conj-w | Number-fs
+v2 וְחָמֵ֥שׁ|wə·ḥā·mêš|-|H2568|Conj-w | Number-fs
 v2 אַמּ֖וֹת|’am·mō·wṯ|cubits|H520|N-fp
 v2 מִפּ֑וֹ|mip·pōw|side|H6311|Prep-m | Adv
 v2 וַיָּ֤מָד|way·yā·māḏ|He also measured|H4058|Conj-w | V-Qal-ConsecImperf-3ms
@@ -32,7 +32,7 @@ v2 אַרְבָּעִ֣ים|’ar·bā·‘îm|[to be] forty|H705|Number-cp
 v2 אַמָּ֔ה|’am·māh|cubits|H520|N-fs
 v2 וְרֹ֖חַב|wə·rō·ḥaḇ|and the width|H7341|Conj-w | N-ms
 v2 עֶשְׂרִ֥ים|‘eś·rîm|[to be] twenty|H6242|Number-cp
-v2 אַמָּֽה׃|’am·māh|vvv|H520|N-fs
+v2 אַמָּֽה׃|’am·māh|...|H520|N-fs
 v3 וּבָ֣א|ū·ḇā|And he went|H935|Conj-w | V-Qal-ConjPerf-3ms
 v3 לִפְנִ֔ימָה|lip̄·nî·māh|into [the inner sanctuary]|H6441|Prep-l | Adv
 v3 וַיָּ֥מָד|way·yā·māḏ|and measured|H4058|Conj-w | V-Qal-ConsecImperf-3ms
@@ -137,7 +137,7 @@ v9 רֹ֣חַב|rō·ḥaḇ|thick|H7341|N-msc
 v9 הַקִּ֧יר|haq·qîr|wall|H7023|Art | N-ms
 v9 אֲ|’ăšer-|-|H834|Pro-r
 v9 לַצֵּלָ֛ע|laṣ·ṣê·lā‘|of the side rooms|H6763|Prep-l, Art | N-fs
-v9 אֶל־|’el-||H413|Prep
+v9 אֶל־|’el-|-|H413|Prep
 v9 הַח֖וּץ|ha·ḥūṣ|The outer|H2351|Art | N-ms
 v9 חָמֵ֣שׁ|ḥā·mêš|[was] five|H2568|Number-fs
 v9 אַמּ֑וֹת|’am·mō·wṯ|cubits|H520|N-fp
@@ -255,7 +255,7 @@ v17 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
 v17 הַבַּיִת֩|hab·ba·yiṯ|sanctuary|H1004|Art | N-ms
 v17 הַפְּנִימִ֨י|hap·pə·nî·mî|the inner|H6442|Art | Adj-ms
 v17 וְלַח֜וּץ|wə·la·ḥūṣ|on|H2351|Conj-w, Prep-l, Art | N-ms
-v17 וְאֶל־|wə·’el-||H413|Conj-w | Prep
+v17 וְאֶל־|wə·’el-|-|H413|Conj-w | Prep
 v17 כָּל־|kāl-|all|H3605|N-msc
 v17 הַקִּ֨יר|haq·qîr|the walls|H7023|Art | N-ms
 v17 סָבִ֧יב׀|sā·ḇîḇ|around|H5439|Adv
@@ -303,7 +303,7 @@ v21 מְזוּזַ֣ת|mə·zū·zaṯ|doorframe|H4201|N-fsc
 v21 רְבֻעָ֑ה|rə·ḇu·‘āh|had a rectangular|H7251|V-Qal-QalPassPrtcpl-fs
 v21 וּפְנֵ֣י|ū·p̄ə·nê|and the [doorframe]|H6440|Conj-w | N-cpc
 v21 הַקֹּ֔דֶשׁ|haq·qō·ḏeš|of the sanctuary|H6944|Art | N-ms
-v21 הַמַּרְאֶ֖ה|ham·mar·’eh|vvv|H4758|Art | N-ms
+v21 הַמַּרְאֶ֖ה|ham·mar·’eh|...|H4758|Art | N-ms
 v21 כַּמַּרְאֶֽה׃|kam·mar·’eh|was similar|H4758|Prep-k, Art | N-ms
 v22 הַמִּזְבֵּ֡חַ|ham·miz·bê·aḥ|There was an altar|H4196|Art | N-ms
 v22 עֵ֣ץ|‘êṣ|of wood|H6086|N-ms
@@ -314,7 +314,7 @@ v22 וְאָרְכּ֣וֹ|wə·’ā·rə·kōw|[square]|H753|Conj-w | N-msc | 
 v22 שְׁתַּֽיִם־|šə·ta·yim-|and two|H8147|Number-fd
 v22 אַמּ֗וֹת|’am·mō·wṯ|cubits|H520|N-fp
 v22 וּמִקְצֹֽעוֹתָיו֙|ū·miq·ṣō·‘ō·w·ṯāw|Its corners|H4740|Conj-w | N-mpc | 3ms
-v22 ל֔וֹ|lōw||H0|Prep | 3ms
+v22 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v22 וְאָרְכּ֥וֹ|wə·’ā·rə·kōw|base|H753|Conj-w | N-msc | 3ms
 v22 וְקִֽירֹתָ֖יו|wə·qî·rō·ṯāw|and sides|H7023|Conj-w | N-mpc | 3ms
 v22 עֵ֑ץ|‘êṣ|[were] of wood|H6086|N-ms
@@ -343,7 +343,7 @@ v24 דְלָת֖וֹת|ḏə·lā·ṯō·wṯ|...|H1817|N-fp
 v24 לָאַחֶֽרֶת׃|lā·’a·ḥe·reṯ|for the other|H312|Prep-l, Art | Adj-fs
 v25 וַעֲשׂוּיָ֨ה|wa·‘ă·śū·yāh|were carved|H6213|Conj-w | V-Qal-QalPassPrtcpl-fs
 v25 אֲלֵיהֶ֜ן|’ă·lê·hen|on|H413|Prep | 3fp
-v25 אֶל־|’el-||H413|Prep
+v25 אֶל־|’el-|-|H413|Prep
 v25 דַּלְת֤וֹת|dal·ṯō·wṯ|the doors|H1817|N-fpc
 v25 הַֽהֵיכָל֙|ha·hê·ḵāl|of the outer sanctuary|H1964|Art | N-ms
 v25 כְּרוּבִ֣ים|kə·rū·ḇîm|Cherubim|H3742|N-mp
@@ -360,7 +360,7 @@ v25 מֵהַחֽוּץ׃|mê·ha·ḥūṣ|outside|H2351|Prep-m, Art | N-ms
 v26 וְחַלּוֹנִ֨ים|wə·ḥal·lō·w·nîm|windows|H2474|Conj-w | N-cp
 v26 אֲטֻמ֤וֹת|’ă·ṭu·mō·wṯ|There were beveled|H331|V-Qal-QalPassPrtcpl-fp
 v26 וְתִֽמֹרִים֙|wə·ṯi·mō·rîm|and palm trees|H8561|Conj-w | N-fp
-v26 מִפּ֣וֹ|mip·pōw|vvv|H6311|Prep-m | Adv
+v26 מִפּ֣וֹ|mip·pōw|...|H6311|Prep-m | Adv
 v26 וּמִפּ֔וֹ|ū·mip·pōw|...|H6311|Conj-w, Prep-m | Adv
 v26 אֶל־|’el-|on|H413|Prep
 v26 כִּתְפ֖וֹת|kiṯ·p̄ō·wṯ|the sidewalls|H3802|N-fpc

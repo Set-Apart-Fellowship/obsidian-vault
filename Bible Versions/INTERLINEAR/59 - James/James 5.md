@@ -19,7 +19,7 @@ v2 τὰ|ta|-|G3588|Art-NNP
 v2 ἱμάτια|himatia|clothes|G2440|N-NNP
 v2 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v2 σητόβρωτα|sētobrōta|moths have eaten|G4598|Adj-NNP
-v2 γέγονεν|gegonen|vvv|G1096|V-RIA-3S
+v2 γέγονεν|gegonen|...|G1096|V-RIA-3S
 v3 ὁ|ho|-|G3588|Art-NMS
 v3 χρυσὸς|chrysos|gold|G5557|N-NMS
 v3 ὑμῶν|hymōn|Your|G4771|PPro-G2P
@@ -89,7 +89,7 @@ v6 κατεδικάσατε|katedikasate|You have condemned|G2613|V-AIA-2P
 v6 ἐφονεύσατε|ephoneusate|[and] murdered|G5407|V-AIA-2P
 v6 τὸν|ton|the|G3588|Art-AMS
 v6 δίκαιον|dikaion|righteous|G1342|Adj-AMS
-v6 οὐκ|ouk|vvv|G3756|Adv
+v6 οὐκ|ouk|...|G3756|Adv
 v6 ἀντιτάσσεται|antitassetai|who did not resist|G498|V-PIM-3S
 v6 ὑμῖν|hymin|you|G4771|PPro-D2P
 v7 Μακροθυμήσατε|Makrothymēsate|Be patient|G3114|V-AMA-2P
@@ -136,7 +136,7 @@ v9 ἀδελφοί|adelphoi|brothers|G80|N-VMP
 v9 κατ’|kat’|about|G2596|Prep
 v9 ἀλλήλων|allēlōn|one another|G240|RecPro-GMP
 v9 ἵνα|hina|so that|G2443|Conj
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 κριθῆτε|krithēte|you will not be judged|G2919|V-ASP-2P
 v9 ἰδοὺ|idou|Look|G2400|V-AMA-2S
 v9 ὁ|ho|the|G3588|Art-NMS
@@ -183,7 +183,7 @@ v11 καὶ|kai|and|G2532|Conj
 v11 οἰκτίρμων|oiktirmōn|mercy|G3629|Adj-NMS
 v12 Πρὸ|Pro|Above|G4253|Prep
 v12 πάντων|pantōn|all|G3956|Adj-GNP
-v12 δέ|de|vvv|G1161|Conj
+v12 δέ|de|...|G1161|Conj
 v12 ἀδελφοί|adelphoi|brothers|G80|N-VMP
 v12 μου|mou|my|G1473|PPro-G1S
 v12 μὴ|mē|{do} not|G3361|Adv
@@ -209,7 +209,7 @@ v12 τὸ|to|[your]|G3588|Art-NNS
 v12 Οὒ|Ou|No|G3756|Adv
 v12 οὔ|ou|no|G3756|Adv
 v12 ἵνα|hina|so that|G2443|Conj
-v12 μὴ|mē|vvv|G3361|Adv
+v12 μὴ|mē|...|G3361|Adv
 v12 ὑπὸ|hypo|under|G5259|Prep
 v12 κρίσιν|krisin|judgment|G2920|N-AFS
 v12 πέσητε|pesēte|you will not fall|G4098|V-ASA-2P
@@ -272,7 +272,7 @@ v16 ὑπὲρ|hyper|for|G5228|Prep
 v16 ἀλλήλων|allēlōn|each other|G240|RecPro-GMP
 v16 ὅπως|hopōs|so that|G3704|Conj
 v16 ἰαθῆτε|iathēte|you may be healed|G2390|V-ASP-2P
-v16 πολὺ|poly|vvv|G4183|Adj-ANS
+v16 πολὺ|poly|...|G4183|Adj-ANS
 v16 ἰσχύει|ischyei|to prevail|G2480|V-PIA-3S
 v16 δέησις|deēsis|[The] prayer|G1162|N-NFS
 v16 δικαίου|dikaiou|of a righteous [man]|G1342|Adj-GMS
@@ -289,7 +289,7 @@ v17 τοῦ|tou|-|G3588|Art-GNS
 v17 μὴ|mē|[that it would] not|G3361|Adv
 v17 βρέξαι|brexai|rain|G1026|V-ANA
 v17 καὶ|kai|and|G2532|Conj
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 ἔβρεξεν|ebrexen|it did not rain|G1026|V-AIA-3S
 v17 ἐπὶ|epi|on|G1909|Prep
 v17 τῆς|tēs|the|G3588|Art-GFS
@@ -299,7 +299,7 @@ v17 τρεῖς|treis|for three|G5140|Adj-AMP
 v17 καὶ|kai|and|G2532|Conj
 v17 μῆνας|mēnas|...|G3376|N-AMP
 v17 ἕξ|hex|[a half]|G1803|Adj-AMP
-v18 καὶ|kai|vvv|G2532|Conj
+v18 καὶ|kai|...|G2532|Conj
 v18 πάλιν|palin|Again|G3825|Adv
 v18 προσηύξατο|prosēuxato|he prayed|G4336|V-AIM-3S
 v18 καὶ|kai|and|G2532|Conj

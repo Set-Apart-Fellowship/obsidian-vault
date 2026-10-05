@@ -73,7 +73,7 @@ v7 אֲנָה֙|’ă·nāh|I|H576|Pro-1cs
 v7 קֳדָ֣מֵיה֔וֹן|qo·ḏā·mê·hō·wn|...|H6925|N-mpc | 3mp
 v7 וּפִשְׁרֵ֖הּ|ū·p̄iš·rêh|interpret it|H6591|Conj-w | N-msc | 3ms
 v7 לָא־|lā-|but they could not|H3809|Adv-NegPrt
-v7 מְהוֹדְעִ֥ין|mə·hō·wḏ·‘în||H3046|V-Hifil-Prtcpl-mp
+v7 מְהוֹדְעִ֥ין|mə·hō·wḏ·‘în|-|H3046|V-Hifil-Prtcpl-mp
 v7 לִֽי׃|lî|for me|H0|Prep | 1cs
 v8 וְעַ֣ד|wə·‘aḏ|But at|H5705|Conj-w | Prep
 v8 אָחֳרֵ֡ין|’ā·ḥo·rên|last|H318|Adj-ms
@@ -214,7 +214,7 @@ v16 יְשַׁנּ֔וֹן|yə·šan·nō·wn|be changed|H8133|V-Piel-Imperf-3mp
 v16 וּלְבַ֥ב|ū·lə·ḇaḇ|the mind|H3825|Conj-w | N-msc
 v16 חֵיוָ֖ה|ḥê·wāh|of a beast|H2423|N-fs
 v16 יִתְיְהִ֣ב|yiṯ·yə·hiḇ|and let him be given|H3052|V-Hitpael-Imperf-3ms
-v16 לֵ֑הּ|lêh||H0|Prep | 3ms
+v16 לֵ֑הּ|lêh|-|H0|Prep | 3ms
 v16 וְשִׁבְעָ֥ה|wə·šiḇ·‘āh|till seven|H7655|Conj-w | Number-ms
 v16 עִדָּנִ֖ין|‘id·dā·nîn|times|H5732|N-mp
 v16 יַחְלְפ֥וּן|yaḥ·lə·p̄ūn|pass him|H2499|V-Qal-Imperf-3mp
@@ -253,10 +253,10 @@ v18 וְאַנְתָּה|wə·ʾan·tå̄h|Now|H607|Conj-w | Pro-2ms
 v18 בֵּלְטְשַׁאצַּ֜ר|bê·lə·ṭə·šaṣ·ṣar|Belteshazzar|H1096|N-proper-ms
 v18 פִּשְׁרֵ֣א׀|piš·rê|the interpretation|H6591|N-msc | 3ms
 v18 אֱמַ֗ר|’ĕ·mar|tell me|H560|V-Qal-Imp-ms
-v18 כָּל־|kāl-||H3606|N-msc
+v18 כָּל־|kāl-|-|H3606|N-msc
 v18 קֳבֵל֙|qo·ḇêl|because|H6903|Prep
 v18 דִּ֣י׀|dî|...|H1768|Pro-r
-v18 כָּל־|kāl-||H3606|N-msc
+v18 כָּל־|kāl-|-|H3606|N-msc
 v18 חַכִּימֵ֣י|ḥak·kî·mê|of the wise men|H2445|N-mpc
 v18 מַלְכוּתִ֗י|mal·ḵū·ṯî|of my kingdom|H4437|N-fsc | 1cs
 v18 לָֽא־|lā-|none|H3809|Adv-NegPrt
@@ -297,7 +297,7 @@ v19 לְשָׂנְאַיִךְ|lə·śå̄·nə·ʾa·yiḵ|apply to those who h
 v19 וּפִשְׁרֵ֥הּ|ū·p̄iš·rêh|and its interpretation|H6591|Conj-w | N-msc | 3ms
 v19 לְעָרַיִךְ׃|lə·ʿå̄·ra·yiḵ|to your enemies|H6146|Prep-l | N-mpc | 2ms
 v20 אִֽילָנָא֙|’î·lā·nā|The tree|H363|N-msd
-v20 דִּ֣י|dî||H1768|Pro-r
+v20 דִּ֣י|dî|-|H1768|Pro-r
 v20 חֲזַ֔יְתָ|ḥă·zay·ṯā|you saw|H2370|V-Qal-Perf-2ms
 v20 דִּ֥י|dî|that|H1768|Pro-r
 v20 רְבָ֖ה|rə·ḇāh|grew large|H7236|V-Qal-Perf-3ms
@@ -314,7 +314,7 @@ v21 וְאִנְבֵּ֣הּ|wə·’in·bêh|and whose fruit|H4|Conj-w | N-msc 
 v21 שַׂגִּ֔יא|śag·gî|[was] abundant|H7690|Adj-ms
 v21 וּמָז֨וֹן|ū·mā·zō·wn|providing food|H4203|Conj-w | N-ms
 v21 לְכֹ֖לָּא־|lə·ḵōl·lā-|for all|H3606|Prep-l | N-msd
-v21 בֵ֑הּ|ḇêh||H0|Prep | 3ms
+v21 בֵ֑הּ|ḇêh|-|H0|Prep | 3ms
 v21 תְּחֹת֗וֹהִי|tə·ḥō·ṯō·w·hî|under which|H8460|Prep | 3ms
 v21 תְּדוּר֙|tə·ḏūr|lived|H1753|V-Qal-Imperf-3fs
 v21 חֵיוַ֣ת|ḥê·waṯ|the beasts|H2423|N-fsc
@@ -384,7 +384,7 @@ v24 מְטָ֖ת|mə·ṭāṯ|has issued|H4291|V-Qal-Perf-3fs
 v24 עַל־|‘al-|against|H5922|Prep
 v24 מַרְאִי|mar·ʾī|my lord|H4756|N-msc | 1cs
 v24 מַלְכָּֽא׃|mal·kā|the king|H4430|N-msd
-v25 וְלָ֣ךְ|wə·lāḵ||H0|Conj-w | Prep | 2ms
+v25 וְלָ֣ךְ|wə·lāḵ|-|H0|Conj-w | Prep | 2ms
 v25 טָֽרְדִ֣ין|ṭā·rə·ḏîn|You will be driven away|H2957|V-Qal-Prtcpl-mp
 v25 מִן־|min-|from|H4481|Prep
 v25 אֲנָשָׁ֡א|’ă·nā·šā|mankind|H606|N-msd
@@ -395,11 +395,11 @@ v25 לֶהֱוֵ֨ה|le·hĕ·wêh|will be|H1934|V-Qal-Imperf-3ms
 v25 מְדֹרָ֜ךְ|mə·ḏō·rāḵ|and your dwelling|H4070|N-msc | 2ms
 v25 וְעִשְׂבָּ֥א|wə·‘iś·bā|grass|H6211|Conj-w | N-msd
 v25 כְתוֹרִ֣ין׀|ḵə·ṯō·w·rîn|like an ox|H8450|Prep-k | N-mp
-v25 לָ֣ךְ|lāḵ||H0|Prep | 2ms
+v25 לָ֣ךְ|lāḵ|-|H0|Prep | 2ms
 v25 יְטַֽעֲמ֗וּן|yə·ṭa·‘ă·mūn|You will feed on|H2939|V-Piel-Imperf-3mp
 v25 וּמִטַּ֤ל|ū·miṭ·ṭal|with the dew|H2920|Conj-w | Prep
 v25 שְׁמַיָּא֙|šə·may·yā|of heaven|H8065|N-mdd
-v25 לָ֣ךְ|lāḵ||H0|Prep | 2ms
+v25 לָ֣ךְ|lāḵ|-|H0|Prep | 2ms
 v25 מְצַבְּעִ֔ין|mə·ṣab·bə·‘în|and be drenched|H6647|V-Piel-Prtcpl-mp
 v25 וְשִׁבְעָ֥ה|wə·šiḇ·‘āh|and seven|H7655|Conj-w | Number-ms
 v25 עִדָּנִ֖ין|‘id·dā·nîn|times|H5732|N-mp
@@ -425,7 +425,7 @@ v26 שָׁרְשׁ֙וֹהִי֙|šā·rə·šō·w·hî|with its roots|H8330|N-
 v26 דִּ֣י|dî|of|H1768|Pro-r
 v26 אִֽילָנָ֔א|’î·lā·nā|the tree|H363|N-msd
 v26 מַלְכוּתָ֖ךְ|mal·ḵū·ṯāḵ|your kingdom|H4437|N-fsc | 2ms
-v26 לָ֣ךְ|lāḵ||H0|Prep | 2ms
+v26 לָ֣ךְ|lāḵ|-|H0|Prep | 2ms
 v26 קַיָּמָ֑ה|qay·yā·māh|will be restored|H7011|Adj-fs
 v26 מִן־|min-|to you|H4481|Prep
 v26 דִּ֣י|dî|as soon as|H1768|Pro-r
@@ -452,7 +452,7 @@ v28 כֹּ֣לָּא|kōl·lā|All|H3606|N-msd
 v28 מְּטָ֔א|mə·ṭā|this happened|H4291|V-Qal-Perf-3ms
 v28 עַל־|‘al-|to|H5922|Prep
 v28 נְבוּכַדְנֶצַּ֖ר|nə·ḇū·ḵaḏ·neṣ·ṣar|Nebuchadnezzar|H5020|N-proper-ms
-v28 מַלְכָּֽא׃פ|mal·kā|King|H4430|N-msd
+v28 מַלְכָּֽא׃|mal·kā|King|H4430|N-msd
 v29 לִקְצָ֥ת|liq·ṣāṯ|later|H7118|Prep-l | N-fsc
 v29 יַרְחִ֖ין|yar·ḥîn|months|H3393|N-mp
 v29 תְּרֵֽי־|tə·rê-|Twelve|H8648|Number-msc
@@ -498,7 +498,7 @@ v31 עֲדָ֥ת|‘ă·ḏāṯ|has departed|H5709|V-Qal-Perf-3fs
 v31 מִנָּֽךְ׃|min·nāḵ|from you|H4481|Prep | 2ms
 v32 וּמִן־|ū·min-|from|H4481|Conj-w | Prep
 v32 אֲנָשָׁא֩|’ă·nā·šā|mankind|H606|N-msd
-v32 לָ֨ךְ|lāḵ||H0|Prep | 2ms
+v32 לָ֨ךְ|lāḵ|-|H0|Prep | 2ms
 v32 טָֽרְדִ֜ין|ṭā·rə·ḏîn|You will be driven away|H2957|V-Qal-Prtcpl-mp
 v32 וְֽעִם־|wə·‘im-|with|H5974|Conj-w | Prep
 v32 חֵיוַ֧ת|ḥê·waṯ|the beasts|H2423|N-fsc
@@ -506,7 +506,7 @@ v32 בָּרָ֣א|bā·rā|of the field|H1251|N-msd
 v32 מְדֹרָ֗ךְ|mə·ḏō·rāḵ|to live|H4070|N-msc | 2ms
 v32 עִשְׂבָּ֤א|‘iś·bā|grass|H6211|N-msd
 v32 כְתוֹרִין֙|ḵə·ṯō·w·rîn|like an ox|H8450|Prep-k | N-mp
-v32 לָ֣ךְ|lāḵ||H0|Prep | 2ms
+v32 לָ֣ךְ|lāḵ|-|H0|Prep | 2ms
 v32 יְטַעֲמ֔וּן|yə·ṭa·‘ă·mūn|and you will feed on|H2939|V-Piel-Imperf-3mp
 v32 וְשִׁבְעָ֥ה|wə·šiḇ·‘āh|And seven|H7655|Conj-w | Number-ms
 v32 עִדָּנִ֖ין|‘id·dā·nîn|times|H5732|N-mp
@@ -602,7 +602,7 @@ v36 הַדְרִ֤י|haḏ·rî|my honor|H1923|N-msc | 1cs
 v36 וְזִוִי֙|wə·zi·wî|and splendor|H2122|Conj-w | N-msc | 1cs
 v36 יְת֣וּב|yə·ṯūḇ|returned|H8421|V-Qal-Imperf-3ms
 v36 עֲלַ֔י|‘ă·lay|to me|H5922|Prep | 1cs
-v36 וְלִ֕י|wə·lî||H0|Conj-w | Prep | 1cs
+v36 וְלִ֕י|wə·lî|-|H0|Conj-w | Prep | 1cs
 v36 הַדָּֽבְרַ֥י|had·dā·ḇə·ray|My advisers|H1907|N-mpc | 1cs
 v36 וְרַבְרְבָנַ֖י|wə·raḇ·rə·ḇā·nay|and nobles|H7261|Conj-w | N-mpc | 1cs
 v36 יְבַע֑וֹן|yə·ḇa·‘ō·wn|sought me out|H1156|V-Piel-Imperf-3mp
@@ -631,4 +631,4 @@ v37 וְדִי֙|wə·ḏî|those|H1768|Conj-w | Pro-r
 v37 מַהְלְכִ֣ין|mah·lə·ḵîn|who walk|H1981|V-Hifil-Prtcpl-mp
 v37 בְּגֵוָ֔ה|bə·ḡê·wāh|in pride|H1467|Prep-b | N-fs
 v37 יָכִ֖ל|yā·ḵil|And He is able|H3202|V-Qal-Prtcpl-ms
-v37 לְהַשְׁפָּלָֽה׃פ|lə·haš·pā·lāh|to humble|H8214|Prep-l | V-Hifil-Inf
+v37 לְהַשְׁפָּלָֽה׃|lə·haš·pā·lāh|to humble|H8214|Prep-l | V-Hifil-Inf

@@ -43,7 +43,7 @@ v4 אֲלָפִים֙|’ă·lā·p̄îm|thousand|H505|Number-mp
 v4 פָּֽרָשִׁ֔ים|pā·rā·šîm|charioteers|H6571|N-mp
 v4 וְעֶשְׂרִ֥ים|wə·‘eś·rîm|and twenty|H6242|Conj-w | Number-cp
 v4 אֶ֖לֶף|’e·lep̄|thousand|H505|Number-msc
-v4 אִ֣ישׁ|’îš|vvv|H376|N-ms
+v4 אִ֣ישׁ|’îš|...|H376|N-ms
 v4 רַגְלִ֑י|raḡ·lî|foot soldiers|H7273|Adj-ms
 v4 וַיְעַקֵּ֤ר|way·‘aq·qêr|and he hamstrung|H6131|Conj-w | V-Piel-ConsecImperf-3ms
 v4 דָּוִיד֙|dā·wîḏ|...|H1732|N-proper-ms
@@ -115,7 +115,7 @@ v8 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v8 הָֽעַמּוּדִ֔ים|hā·‘am·mū·ḏîm|the pillars|H5982|Art | N-mp
 v8 וְאֵ֖ת|wə·’êṯ|and [various]|H853|Conj-w | DirObjM
 v8 כְּלֵ֥י|kə·lê|articles|H3627|N-mpc
-v8 הַנְּחֹֽשֶׁת׃פ|han·nə·ḥō·šeṯ|bronze|H5178|Art | N-fs
+v8 הַנְּחֹֽשֶׁת׃|han·nə·ḥō·šeṯ|bronze|H5178|Art | N-fs
 v9 וַיִּשְׁמַ֕ע|way·yiš·ma‘|heard|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v9 תֹּ֖עוּ|tō·‘ū|Tou|H8583|N-proper-ms
 v9 מֶ֣לֶךְ|me·leḵ|When King|H4428|N-msc
@@ -133,12 +133,12 @@ v10 וַיִּשְׁלַ֣ח|way·yiš·laḥ|he sent|H7971|Conj-w | V-Qal-Conse
 v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 הֲדֽוֹרָם־|hă·ḏō·w·rām-|Hadoram|H1913|N-proper-ms
 v10 בְּנ֣וֹ|bə·nōw|his son|H1121|N-msc | 3ms
-v10 אֶל־|’el-||H413|Prep
+v10 אֶל־|’el-|-|H413|Prep
 v10 הַמֶּֽלֶךְ־|ham·me·leḵ-|King|H4428|Art | N-ms
 v10 דָּ֠וִיד|dā·wîḏ|David|H1732|N-proper-ms
 v10 לִשְׁאוֹל|liš·ʾōl|to greet|H7592|Prep-l | V-Qal-Inf
 v10 ל֨וֹ|lōw|-|H7592|Prep | 3ms
-v10 לְשָׁל֜וֹם|lə·šā·lō·wm|vvv|H7965|Prep-l | N-ms
+v10 לְשָׁל֜וֹם|lə·šā·lō·wm|...|H7965|Prep-l | N-ms
 v10 וּֽלְבָרֲכ֗וֹ|ū·lə·ḇā·ră·ḵōw|and bless him|H1288|Conj-w, Prep-l | V-Piel-Inf | 3ms
 v10 עַל֩|‘al|for|H5921|Prep
 v10 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
@@ -240,4 +240,4 @@ v17 וּבְנֵי־|ū·ḇə·nê-|sons|H1121|Conj-w | N-mpc
 v17 דָוִ֥יד|ḏā·wîḏ|and David's|H1732|N-proper-ms
 v17 הָרִאשֹׁנִ֖ים|hā·ri·šō·nîm|were chief officials|H7223|Art | Adj-mp
 v17 לְיַ֥ד|lə·yaḏ|side|H3027|Prep-l | N-fsc
-v17 הַמֶּֽלֶךְ׃פ|ham·me·leḵ|at the king's|H4428|Art | N-ms
+v17 הַמֶּֽלֶךְ׃|ham·me·leḵ|at the king's|H4428|Art | N-ms

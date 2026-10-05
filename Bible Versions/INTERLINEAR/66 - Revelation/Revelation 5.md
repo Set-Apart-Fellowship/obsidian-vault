@@ -321,8 +321,8 @@ v13 δόξα|doxa|glory|G1391|N-NFS
 v13 καὶ|kai|and|G2532|Conj
 v13 τὸ|to|-|G3588|Art-NNS
 v13 κράτος|kratos|power|G2904|N-NNS
-v13 εἰς|eis|vvv|G1519|Prep
-v13 τοὺς|tous|vvv|G3588|Art-AMP
+v13 εἰς|eis|...|G1519|Prep
+v13 τοὺς|tous|...|G3588|Art-AMP
 v13 αἰῶνας|aiōnas|forever|G165|N-AMP
 v13 τῶν|tōn|[and]|G3588|Art-GMP
 v13 αἰώνων|aiōnōn|ever|G165|N-GMP

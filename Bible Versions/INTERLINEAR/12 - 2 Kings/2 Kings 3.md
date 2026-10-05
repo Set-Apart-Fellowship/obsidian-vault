@@ -42,7 +42,7 @@ v3 יִשְׂרָאֵ֖ל|yiś·rā·’êl|had caused Israel|H3478|N-proper-ms
 v3 דָּבֵ֑ק|dā·ḇêq|he clung|H1692|V-Qal-Perf-3ms
 v3 לֹא־|lō-|he did not|H3808|Adv-NegPrt
 v3 סָ֖ר|sār|turn away|H5493|V-Qal-Perf-3ms
-v3 מִמֶּֽנָּה׃ס|mim·men·nāh|from them|H4480|Prep | 3fs
+v3 מִמֶּֽנָּה׃|mim·men·nāh|from them|H4480|Prep | 3fs
 v4 וּמֵישַׁ֥ע|ū·mê·ša‘|Now Mesha|H4338|Conj-w | N-proper-ms
 v4 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v4 מוֹאָ֖ב|mō·w·’āḇ|of Moab|H4124|N-proper-fs
@@ -76,13 +76,13 @@ v6 וַיִּפְקֹ֖ד|way·yip̄·qōḏ|and mobilized|H6485|Conj-w | V-Qal-
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 כָּל־|kāl-|all|H3605|N-msc
 v6 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v7 וַיֵּ֡לֶךְ|way·yê·leḵ|vvv|H1980|Conj-w | V-Qal-ConsecImperf-3ms
+v7 וַיֵּ֡לֶךְ|way·yê·leḵ|...|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v7 וַיִּשְׁלַח֩|way·yiš·laḥ|And he sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v7 אֶל־|’el-|a message to|H413|Prep
 v7 יְהוֹשָׁפָ֨ט|yə·hō·wō·šā·p̄āṭ|Jehoshaphat|H3092|N-proper-ms
 v7 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v7 יְהוּדָ֜ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
-v7 לֵאמֹ֗ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v7 לֵאמֹ֗ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v7 מֶ֤לֶךְ|me·leḵ|The king|H4428|N-msc
 v7 מוֹאָב֙|mō·w·’āḇ|of Moab|H4124|N-proper-fs
 v7 פָּשַׁ֣ע|pā·ša‘|has rebelled|H6586|V-Qal-Perf-3ms
@@ -102,7 +102,7 @@ v7 כְּסוּסַ֥י|kə·sū·say|and my horses [are]|H5483|Prep-k | N-mpc |
 v7 כְּסוּסֶֽיךָ׃|kə·sū·se·ḵā|your horses|H5483|Prep-k | N-mpc | 2ms
 v8 וַיֹּ֕אמֶר|way·yō·mer|Then he asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 אֵי־|’ê-|Which|H335|Interrog
-v8 זֶ֥ה|zeh||H2088|Pro-ms
+v8 זֶ֥ה|zeh|-|H2088|Pro-ms
 v8 הַדֶּ֖רֶךְ|had·de·reḵ|way|H1870|Art | N-cs
 v8 נַעֲלֶ֑ה|na·‘ă·leh|shall we go up|H5927|V-Qal-Imperf-1cp
 v8 וַיֹּ֕אמֶר|way·yō·mer|replied Joram|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -196,7 +196,7 @@ v13 וְאֶל־|wə·’el-|and|H413|Conj-w | Prep
 v13 נְבִיאֵ֖י|nə·ḇî·’ê|...|H5030|N-mpc
 v13 אִמֶּ֑ךָ|’im·me·ḵā|of your mother|H517|N-fsc | 2ms
 v13 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v13 לוֹ֙|lōw||H0|Prep | 3ms
+v13 לוֹ֙|lōw|-|H0|Prep | 3ms
 v13 מֶ֣לֶךְ|me·leḵ|the king|H4428|N-msc
 v13 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v13 אַ֗ל|’al|No|H408|Adv
@@ -224,7 +224,7 @@ v14 פְּנֵ֛י|pə·nê|for the presence|H6440|N-cpc
 v14 יְהוֹשָׁפָ֥ט|yə·hō·wō·šā·p̄āṭ|of Jehoshaphat|H3092|N-proper-ms
 v14 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v14 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
-v14 אֲנִ֣י|’ă·nî|vvv|H589|Pro-1cs
+v14 אֲנִ֣י|’ă·nî|...|H589|Pro-1cs
 v14 נֹשֵׂ֑א|nō·śê|for my regard|H5375|V-Qal-Prtcpl-ms
 v14 אִם־|’im-|I would not|H518|Conj
 v14 אַבִּ֥יט|’ab·bîṭ|look|H5027|V-Hifil-Imperf-1cs
@@ -249,7 +249,7 @@ v16 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v16 עָשֹׂ֛ה|‘ā·śōh|Dig|H6213|V-Qal-InfAbs
 v16 הַנַּ֥חַל|han·na·ḥal|valley|H5158|Art | N-ms
 v16 הַזֶּ֖ה|haz·zeh|this|H2088|Art | Pro-ms
-v16 גֵּבִ֥ים׀|gê·ḇîm|vvv|H1356|N-mp
+v16 גֵּבִ֥ים׀|gê·ḇîm|...|H1356|N-mp
 v16 גֵּבִֽים׃|gê·ḇîm|full of ditches|H1356|N-mp
 v17 כִּֽי־|kî-|For|H3588|Conj
 v17 כֹ֣ה׀|ḵōh|...|H3541|Adv
@@ -364,7 +364,7 @@ v24 מוֹאָ֔ב|mō·w·’āḇ|them|H4124|N-proper-fs
 v24 וַיָּנֻ֖סוּ|way·yā·nu·sū|and they fled|H5127|Conj-w | V-Qal-ConsecImperf-3mp
 v24 מִפְּנֵיהֶ֑ם|mip·pə·nê·hem|before them|H6440|Prep-m | N-mpc | 3mp
 v24 וַיָּבוֹ|way·yå̄·ḇō|So [the Israelites] invaded [their land]|H935|Conj-w | V-Hifil-ConsecImperf-3mp
-v24 בָ֔הּ|ḇāh||H0|Prep | 3fs
+v24 בָ֔הּ|ḇāh|-|H0|Prep | 3fs
 v24 וְהַכּ֖וֹת|wə·hak·kō·wṯ|and struck down|H5221|Conj-w | V-Hifil-Inf
 v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 מוֹאָֽב׃|mō·w·’āḇ|the Moabites|H4124|N-proper-fs
@@ -388,7 +388,7 @@ v25 יַפִּ֔ילוּ|yap·pî·lū|and cut down|H5307|V-Hifil-Imperf-3mp
 v25 עַד־|‘aḏ-|Only|H5704|Prep
 v25 הִשְׁאִ֧יר|hiš·’îr|was left|H7604|V-Hifil-Perf-3ms
 v25 אֲבָנֶ֛יהָ|’ă·ḇā·ne·hā|with stones in place|H68|N-fpc | 3fs
-v25 בַּקִּ֖יר|baq·qîr|vvv|H7025|Prep
+v25 בַּקִּ֖יר|baq·qîr|...|H7025|Prep
 v25 חֲרָ֑שֶׂת|ḥă·rā·śeṯ|Kir-haraseth|H7025|Prep, Art | N-proper-fs
 v25 וַיָּסֹ֥בּוּ|way·yā·sōb·bū|surrounded it|H5437|Conj-w | V-Qal-ConsecImperf-3mp
 v25 הַקַּלָּעִ֖ים|haq·qal·lā·‘îm|but men with slings|H7051|Art | N-mp
@@ -432,4 +432,4 @@ v27 יִשְׂרָאֵ֑ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v27 וַיִּסְעוּ֙|way·yis·‘ū|so they withdrew|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v27 מֵֽעָלָ֔יו|mê·‘ā·lāw|...|H5921|Prep-m | 3ms
 v27 וַיָּשֻׁ֖בוּ|way·yā·šu·ḇū|and returned|H7725|Conj-w | V-Qal-ConsecImperf-3mp
-v27 לָאָֽרֶץ׃פ|lā·’ā·reṣ|to [their own] land|H776|Prep-l, Art | N-fs
+v27 לָאָֽרֶץ׃|lā·’ā·reṣ|to [their own] land|H776|Prep-l, Art | N-fs

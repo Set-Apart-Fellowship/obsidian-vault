@@ -1,6 +1,6 @@
 v1 אֵ֜לֶּה|’êl·leh|These|H428|Pro-cp
 v1 מַסְעֵ֣י|mas·‘ê|[are] the journeys|H4550|N-mpc
-v1 בְנֵֽי־|ḇə·nê-|vvv|H1121|N-mpc
+v1 בְנֵֽי־|ḇə·nê-|...|H1121|N-mpc
 v1 יִשְׂרָאֵ֗ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v1 אֲשֶׁ֥ר|’ă·šer|when|H834|Pro-r
 v1 יָצְא֛וּ|yā·ṣə·’ū|they came out|H3318|V-Qal-Perf-3cp
@@ -70,12 +70,12 @@ v7 וַיִּסְעוּ֙|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-Cons
 v7 מֵֽאֵתָ֔ם|mê·’ê·ṯām|from Etham|H864|Prep-m | N-proper-fs
 v7 וַיָּ֙שָׁב֙|way·yā·šāḇ|and turned back|H7725|Conj-w | V-Qal-ConsecImperf-3ms
 v7 עַל־|‘al-|to|H5921|Prep
-v7 פִּ֣י|pî|vvv|H6367|
+v7 פִּ֣י|pî|...|H6367|
 v7 הַחִירֹ֔ת|ha·ḥî·rōṯ|Pi-hahiroth|H6367|N-proper-fs
 v7 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v7 עַל־|‘al-|opposite|H5921|Prep
 v7 פְּנֵ֖י|pə·nê|...|H6440|N-cpc
-v7 בַּ֣עַל|ba·‘al|vvv|H1189|Prep
+v7 בַּ֣עַל|ba·‘al|...|H1189|Prep
 v7 צְפ֑וֹן|ṣə·p̄ō·wn|Baal-zephon|H1189|N-proper-fs
 v7 וַֽיַּחֲנ֖וּ|way·ya·ḥă·nū|and they camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
 v7 לִפְנֵ֥י|lip̄·nê|near|H6440|Prep-l | N-cpc
@@ -148,7 +148,7 @@ v16 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-Con
 v16 מִמִּדְבַּ֣ר|mim·miḏ·bar|from the Wilderness|H4057|Prep-m | N-msc
 v16 סִינָ֑י|sî·nāy|of Sinai|H5514|N-proper-fs
 v16 וַֽיַּחֲנ֖וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
-v16 בְּקִבְרֹ֥ת|bə·qiḇ·rōṯ|vvv|H6914|Prep
+v16 בְּקִבְרֹ֥ת|bə·qiḇ·rōṯ|...|H6914|Prep
 v16 הַֽתַּאֲוָֽה׃|hat·ta·’ă·wāh|at Kibroth-hattaavah|H6914|Prep | N-proper-fs
 v17 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v17 מִקִּבְרֹ֣ת|miq·qiḇ·rōṯ|from|H6914|Prep
@@ -162,7 +162,7 @@ v18 בְּרִתְמָֽה׃|bə·riṯ·māh|at Rithmah|H7575|Prep-b | N-proper
 v19 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v19 מֵרִתְמָ֑ה|mê·riṯ·māh|from Rithmah|H7575|Prep-m | N-proper-fs
 v19 וַֽיַּחֲנ֖וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
-v19 בְּרִמֹּ֥ן|bə·rim·mōn|vvv|H7428|Prep
+v19 בְּרִמֹּ֥ן|bə·rim·mōn|...|H7428|Prep
 v19 פָּֽרֶץ׃|pā·reṣ|at Rimmon-perez|H7428|Prep | N-proper-fs
 v20 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v20 מֵרִמֹּ֣ן|mê·rim·mōn|from|H7428|Prep
@@ -214,13 +214,13 @@ v30 בְּמֹסֵרֽוֹת׃|bə·mō·sê·rō·wṯ|at Moseroth|H4149|Prep-b
 v31 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v31 מִמֹּסֵר֑וֹת|mim·mō·sê·rō·wṯ|from Moseroth|H4149|Prep-m | N-proper-fs
 v31 וַֽיַּחֲנ֖וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
-v31 בִּבְנֵ֥י|biḇ·nê|vvv|H1142|Prep
+v31 בִּבְנֵ֥י|biḇ·nê|...|H1142|Prep
 v31 יַעֲקָֽן׃|ya·‘ă·qān|at Bene-jaakan|H1142|Prep | N-proper-fs
 v32 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v32 מִבְּנֵ֣י|mib·bə·nê|from|H1142|Prep
 v32 יַעֲקָ֑ן|ya·‘ă·qān|Bene-jaakan|H1142|Prep | N-proper-fs
 v32 וַֽיַּחֲנ֖וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
-v32 בְּחֹ֥ר|bə·ḥōr|vvv|H2735|Prep
+v32 בְּחֹ֥ר|bə·ḥōr|...|H2735|Prep
 v32 הַגִּדְגָּֽד׃|hag·giḏ·gāḏ|at Hor-haggidgad|H2735|Prep | N-proper-fs
 v33 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v33 מֵחֹ֣ר|mê·ḥōr|from|H2735|Prep
@@ -234,7 +234,7 @@ v34 בְּעַבְרֹנָֽה׃|bə·‘aḇ·rō·nāh|at Abronah|H5684|Prep-b
 v35 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v35 מֵֽעַבְרֹנָ֑ה|mê·‘aḇ·rō·nāh|from Abronah|H5684|Prep-m | N-proper-fs
 v35 וַֽיַּחֲנ֖וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
-v35 בְּעֶצְי֥וֹן|bə·‘eṣ·yō·wn|vvv|H6100|Prep
+v35 בְּעֶצְי֥וֹן|bə·‘eṣ·yō·wn|...|H6100|Prep
 v35 גָּֽבֶר׃|gā·ḇer|at Ezion-geber|H6100|Prep | N-proper-fs
 v36 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v36 מֵעֶצְי֣וֹן|mê·‘eṣ·yō·wn|from|H6100|Prep
@@ -282,7 +282,7 @@ v39 וּמְאַ֖ת|ū·mə·’aṯ|...|H3967|Conj-w | Number-fsc
 v39 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
 v39 בְּמֹת֖וֹ|bə·mō·ṯōw|when he died|H4191|Prep-b | V-Qal-Inf | 3ms
 v39 בְּהֹ֥ר|bə·hōr|Hor|H2023|Prep-b | N-proper-fs
-v39 הָהָֽר׃ס|hā·hār|on Mount|H2022|Art | N-ms
+v39 הָהָֽר׃|hā·hār|on Mount|H2022|Art | N-ms
 v40 וַיִּשְׁמַ֗ע|way·yiš·ma‘|heard|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v40 הַֽכְּנַעֲנִי֙|hak·kə·na·‘ă·nî|Now the Canaanite|H3669|Art | N-proper-ms
 v40 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
@@ -311,7 +311,7 @@ v43 בְּאֹבֹֽת׃|bə·’ō·ḇōṯ|at Oboth|H88|Prep-b | N-proper-fs
 v44 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v44 מֵאֹבֹ֑ת|mê·’ō·ḇōṯ|from Oboth|H88|Prep-m | N-proper-fs
 v44 וַֽיַּחֲנ֛וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
-v44 בְּעִיֵּ֥י|bə·‘î·yê|vvv|H5863|Prep
+v44 בְּעִיֵּ֥י|bə·‘î·yê|...|H5863|Prep
 v44 הָעֲבָרִ֖ים|hā·‘ă·ḇā·rîm|at Iye-abarim|H5863|Prep | N-proper-fs
 v44 בִּגְב֥וּל|biḡ·ḇūl|on the border|H1366|Prep-b | N-msc
 v44 מוֹאָֽב׃|mō·w·’āḇ|of Moab|H4124|N-proper-fs
@@ -324,7 +324,7 @@ v46 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-Con
 v46 מִדִּיבֹ֣ן|mid·dî·ḇōn|from Dibon-gad|H1769|Prep-m | N-proper-fs
 v46 גָּ֑ד|gāḏ|...|H1410|N-proper-ms
 v46 וַֽיַּחֲנ֖וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
-v46 בְּעַלְמֹ֥ן|bə·‘al·mōn|vvv|H5963|Prep
+v46 בְּעַלְמֹ֥ן|bə·‘al·mōn|...|H5963|Prep
 v46 דִּבְלָתָֽיְמָה׃|diḇ·lā·ṯā·yə·māh|at Almon-diblathaim|H5963|Prep | N-proper-fs
 v47 וַיִּסְע֖וּ|way·yis·‘ū|They set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v47 מֵעַלְמֹ֣ן|mê·‘al·mōn|from|H5963|Prep
@@ -346,13 +346,13 @@ v48 יְרֵחֽוֹ׃|yə·rê·ḥōw|across from Jericho|H3405|N-proper-fs
 v49 וַיַּחֲנ֤וּ|way·ya·ḥă·nū|they camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
 v49 עַל־|‘al-|by|H5921|Prep
 v49 הַיַּרְדֵּן֙|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
-v49 מִבֵּ֣ית|mib·bêṯ|vvv|H1020|Prep
+v49 מִבֵּ֣ית|mib·bêṯ|...|H1020|Prep
 v49 הַיְשִׁמֹ֔ת|hay·ši·mōṯ|from Beth-jeshimoth|H1020|Prep | N-proper-fs
 v49 עַ֖ד|‘aḏ|to|H5704|Prep
-v49 אָבֵ֣ל|’ā·ḇêl|vvv|H63|
+v49 אָבֵ֣ל|’ā·ḇêl|...|H63|
 v49 הַשִּׁטִּ֑ים|haš·šiṭ·ṭîm|Abel-shittim|H63|N-proper-fs
 v49 בְּעַֽרְבֹ֖ת|bə·‘ar·ḇōṯ|And there on the plains|H6160|Prep-b | N-fpc
-v49 מוֹאָֽב׃ס|mō·w·’āḇ|of Moab|H4124|N-proper-fs
+v49 מוֹאָֽב׃|mō·w·’āḇ|of Moab|H4124|N-proper-fs
 v50 וַיְדַבֵּ֧ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v50 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v50 אֶל־|’el-|to|H413|Prep
@@ -454,11 +454,11 @@ v55 הָאָ֕רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v55 אֲשֶׁ֥ר|’ă·šer|where|H834|Pro-r
 v55 אַתֶּ֖ם|’at·tem|you|H859|Pro-2mp
 v55 יֹשְׁבִ֥ים|yō·šə·ḇîm|settle|H3427|V-Qal-Prtcpl-mp
-v55 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v55 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v56 וְהָיָ֗ה|wə·hā·yāh|And then|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v56 כַּאֲשֶׁ֥ר|ka·’ă·šer|what|H834|Prep-k | Pro-r
 v56 דִּמִּ֛יתִי|dim·mî·ṯî|I had planned|H1819|V-Piel-Perf-1cs
 v56 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|to do|H6213|Prep-l | V-Qal-Inf
 v56 לָהֶ֖ם|lā·hem|to them|H0|Prep | 3mp
 v56 אֶֽעֱשֶׂ֥ה|’e·‘ĕ·śeh|I will do|H6213|V-Qal-Imperf-1cs
-v56 לָכֶֽם׃פ|lā·ḵem|to you|H0|Prep | 2mp
+v56 לָכֶֽם׃|lā·ḵem|to you|H0|Prep | 2mp

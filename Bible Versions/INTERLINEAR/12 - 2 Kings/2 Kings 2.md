@@ -21,7 +21,7 @@ v2 כִּ֤י|kî|for|H3588|Conj
 v2 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v2 שְׁלָחַ֣נִי|šə·lā·ḥa·nî|has sent me|H7971|V-Qal-Perf-3ms | 1cs
 v2 עַד־|‘aḏ-|on to|H5704|Prep
-v2 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v2 בֵּֽית־|bêṯ-|...|H1008|Prep
 v2 אֵ֔ל|’êl|Bethel|H1008|N-proper-fs
 v2 וַיֹּ֣אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 אֱלִישָׁ֔ע|’ĕ·lî·šā‘|But Elisha|H477|N-proper-ms
@@ -59,7 +59,7 @@ v3 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v3 יָדַ֖עְתִּי|yā·ḏa‘·tî|know|H3045|V-Qal-Perf-1cs
 v3 הֶחֱשֽׁוּ׃|he·ḥĕ·šū|Do not speak [of it]|H2814|V-Hifil-Imp-mp
 v4 וַיֹּאמֶר֩|way·yō·mer|said to|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v4 ל֨וֹ|lōw||H0|Prep | 3ms
+v4 ל֨וֹ|lōw|-|H0|Prep | 3ms
 v4 אֵלִיָּ֜הוּ|’ê·lî·yā·hū|And Elijah|H452|N-proper-ms
 v4 אֱלִישָׁ֣ע׀|’ĕ·lî·šā‘|Elisha|H477|N-proper-ms
 v4 שֵֽׁב־|šêḇ-|stay|H3427|V-Qal-Imp-ms
@@ -380,7 +380,7 @@ v22 הַזֶּ֑ה|haz·zeh|this|H2088|Art | Pro-ms
 v22 כִּדְבַ֥ר|kiḏ·ḇar|according to the word|H1697|Prep-k | N-msc
 v22 אֱלִישָׁ֖ע|’ĕ·lî·šā‘|by Elisha|H477|N-proper-ms
 v22 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v22 דִּבֵּֽר׃פ|dib·bêr|spoken|H1696|V-Piel-Perf-3ms
+v22 דִּבֵּֽר׃|dib·bêr|spoken|H1696|V-Piel-Perf-3ms
 v23 וַיַּ֥עַל|way·ya·‘al|Elisha went up|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v23 מִשָּׁ֖ם|miš·šām|From there|H8033|Prep-m | Adv
 v23 בֵּֽית־|bêṯ-|to|H1008|Prep
@@ -396,7 +396,7 @@ v23 הָעִ֔יר|hā·‘îr|the city|H5892|Art | N-fs
 v23 וַיִּתְקַלְּסוּ־|way·yiṯ·qal·lə·sū-|and jeered at|H7046|Conj-w | V-Hitpael-ConsecImperf-3mp
 v23 בוֹ֙|ḇōw|him|H0|Prep | 3ms
 v23 וַיֹּ֣אמְרוּ|way·yō·mə·rū|chanting|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v23 ל֔וֹ|lōw||H0|Prep | 3ms
+v23 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v23 עֲלֵ֥ה|‘ă·lêh|Go up|H5927|V-Qal-Imp-ms
 v23 קֵרֵ֖חַ|qê·rê·aḥ|you baldhead|H7142|Adj-ms
 v23 עֲלֵ֥ה|‘ă·lêh|Go up|H5927|V-Qal-Imp-ms
@@ -424,4 +424,4 @@ v25 הַ֣ר|har|Mount|H2022|N-msc
 v25 הַכַּרְמֶ֑ל|hak·kar·mel|Carmel|H3760|Art | N-proper-fs
 v25 וּמִשָּׁ֖ם|ū·miš·šām|and from there|H8033|Conj-w, Prep-m | Adv
 v25 שָׁ֥ב|šāḇ|he returned|H7725|V-Qal-Perf-3ms
-v25 שֹׁמְרֽוֹן׃פ|šō·mə·rō·wn|to Samaria|H8111|N-proper-fs
+v25 שֹׁמְרֽוֹן׃|šō·mə·rō·wn|to Samaria|H8111|N-proper-fs

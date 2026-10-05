@@ -233,7 +233,7 @@ v18 וּבֵ֤ית|ū·ḇêṯ|but the house|H1004|Conj-w | N-msc
 v18 עֵשָׂו֙|‘ê·śāw|of Esau|H6215|N-proper-ms
 v18 לְקַ֔שׁ|lə·qaš|will be stubble|H7179|Prep-l | N-ms
 v18 וְדָלְק֥וּ|wə·ḏā·lə·qū|Jacob will set it ablaze|H1814|Conj-w | V-Qal-ConjPerf-3cp
-v18 בָהֶ֖ם|ḇā·hem||H0|Prep | 3mp
+v18 בָהֶ֖ם|ḇā·hem|-|H0|Prep | 3mp
 v18 וַאֲכָל֑וּם|wa·’ă·ḵā·lūm|and consume it|H398|Conj-w | V-Qal-ConjPerf-3cp | 3mp
 v18 וְלֹֽא־|wə·lō-|Therefore no|H3808|Conj-w | Adv-NegPrt
 v18 יִֽהְיֶ֤ה|yih·yeh|will remain|H1961|V-Qal-Imperf-3ms
@@ -264,9 +264,9 @@ v19 הַגִּלְעָֽד׃|hag·gil·‘āḏ|Gilead|H1568|Art | N-proper-fs
 v20 וְגָלֻ֣ת|wə·ḡā·luṯ|And the exiles|H1546|Conj-w | N-fsc
 v20 הַֽחֵל־|ha·ḥêl-|host|H2426|Art | N-ms
 v20 הַ֠זֶּה|haz·zeh|of this|H2088|Art | Pro-ms
-v20 לִבְנֵ֨י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v20 לִבְנֵ֨י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v20 יִשְׂרָאֵ֤ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
-v20 אֲשֶֽׁר־|’ă·šer-||H834|Pro-r
+v20 אֲשֶֽׁר־|’ă·šer-|-|H834|Pro-r
 v20 כְּנַעֲנִים֙|kə·na·‘ă·nîm|[will possess the land] of the Canaanites|H3669|N-proper-mp
 v20 עַד־|‘aḏ-|as|H5704|Prep
 v20 צָ֣רְפַ֔ת|ṣā·rə·p̄aṯ|far as Zarephath|H6886|N-proper-fs

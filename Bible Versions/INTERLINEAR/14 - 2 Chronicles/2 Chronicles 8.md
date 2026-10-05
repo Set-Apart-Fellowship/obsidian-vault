@@ -25,7 +25,7 @@ v2 בְּנֵ֥י|bə·nê|Israelites|H1121|N-mpc
 v2 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v3 וַיֵּ֤לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v3 שְׁלֹמֹה֙|šə·lō·mōh|Then Solomon|H8010|N-proper-ms
-v3 חֲמָ֣ת|ḥă·māṯ|vvv|H2578|
+v3 חֲמָ֣ת|ḥă·māṯ|...|H2578|
 v3 צוֹבָ֔ה|ṣō·w·ḇāh|to Hamath-zobah|H2578|N-proper-fs
 v3 וַיֶּחֱזַ֖ק|way·ye·ḥĕ·zaq|and captured|H2388|Conj-w | V-Qal-ConsecImperf-3ms
 v3 עָלֶֽיהָ׃|‘ā·le·hā|it|H5921|Prep | 3fs
@@ -42,11 +42,11 @@ v4 בָּנָ֖ה|bā·nāh|he had built|H1129|V-Qal-Perf-3ms
 v4 בַּחֲמָֽת׃|ba·ḥă·māṯ|in Hamath|H2574|Prep-b | N-proper-fs
 v5 וַיִּ֜בֶן|way·yi·ḇen|He rebuilt|H1129|Conj-w | V-Qal-ConsecImperf-3ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
-v5 בֵּ֤ית|bêṯ||H1032|Prep
+v5 בֵּ֤ית|bêṯ|-|H1032|Prep
 v5 חוֹרוֹן֙|ḥō·w·rō·wn|-|H1032|N-proper-fs
 v5 הָֽעֶלְי֔וֹן|hā·‘el·yō·wn|Upper|H5945|Art | Adj-ms
 v5 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v5 בֵּ֥ית|bêṯ|vvv|H1032|Prep
+v5 בֵּ֥ית|bêṯ|...|H1032|Prep
 v5 חוֹר֖וֹן|ḥō·w·rō·wn|Beth-horon|H1032|N-proper-fs
 v5 הַתַּחְתּ֑וֹן|hat·taḥ·tō·wn|and Lower|H8481|Art | Adj-ms
 v5 עָרֵ֣י|‘ā·rê|cities|H5892|N-fpc
@@ -113,9 +113,9 @@ v8 עַ֖ד|‘aḏ|as they are to|H5704|Prep
 v8 הַיּ֥וֹם|hay·yō·wm|this|H3117|Art | N-ms
 v8 הַזֶּֽה׃|haz·zeh|day|H2088|Art | Pro-ms
 v9 וּמִן־|ū·min-|But|H4480|Conj-w | Prep
-v9 בְּנֵי֙|bə·nê|vvv|H1121|N-mpc
+v9 בְּנֵי֙|bə·nê|...|H1121|N-mpc
 v9 יִשְׂרָאֵ֔ל|yiś·rā·’êl|any of the Israelites|H3478|N-proper-ms
-v9 אֲ֠שֶׁר|’ă·šer||H834|Pro-r
+v9 אֲ֠שֶׁר|’ă·šer|-|H834|Pro-r
 v9 לֹא־|lō-|did not|H3808|Adv-NegPrt
 v9 נָתַ֧ן|nā·ṯan|consign|H5414|V-Qal-Perf-3ms
 v9 שְׁלֹמֹ֛ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -129,11 +129,11 @@ v9 וְשָׂרֵ֣י|wə·śā·rê|the leaders of|H8269|Conj-w | N-mpc
 v9 שָׁלִישָׁ֔יו|šā·lî·šāw|his captains|H7991|N-mpc | 3ms
 v9 וְשָׂרֵ֥י|wə·śā·rê|and the commanders|H8269|Conj-w | N-mpc
 v9 רִכְבּ֖וֹ|riḵ·bōw|of his chariots|H7393|N-msc | 3ms
-v9 וּפָרָשָֽׁיו׃פ|ū·p̄ā·rā·šāw|and cavalry|H6571|Conj-w | N-mpc | 3ms
+v9 וּפָרָשָֽׁיו׃|ū·p̄ā·rā·šāw|and cavalry|H6571|Conj-w | N-mpc | 3ms
 v10 וְאֵ֨לֶּה|wə·’êl·leh|[They]|H428|Conj-w | Pro-cp
 v10 שָׂרֵ֤י|śā·rê|[were also] the chief|H8269|N-mpc
 v10 הַנְּצִיבִים|han·nə·ṣī·ḇīm|officers|H5333|Art | V-Nifal-Prtcpl-mp
-v10 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v10 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v10 לַמֶּ֥לֶךְ|lam·me·leḵ|for King|H4428|Prep-l, Art | N-ms
 v10 שְׁלֹמֹ֖ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
 v10 חֲמִשִּׁ֣ים|ḥă·miš·šîm|250|H2572|Number-cp
@@ -166,9 +166,9 @@ v11 קֹ֣דֶשׁ|qō·ḏeš|are holy|H6944|N-ms
 v11 הֵ֔מָּה|hêm·māh|the places|H1992|Pro-3mp
 v11 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v11 בָּֽאָ֥ה|bā·’āh|has entered|H935|V-Qal-Perf-3fs
-v11 אֲלֵיהֶ֖ם|’ă·lê·hem||H413|Prep | 3mp
+v11 אֲלֵיהֶ֖ם|’ă·lê·hem|-|H413|Prep | 3mp
 v11 אֲר֥וֹן|’ă·rō·wn|the ark|H727|N-csc
-v11 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v11 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v12 אָ֣ז|’āz|At that time|H227|Adv
 v12 הֶעֱלָ֧ה|he·‘ĕ·lāh|offered|H5927|V-Hifil-Perf-3ms
 v12 שְׁלֹמֹ֛ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -251,11 +251,11 @@ v16 וְעַד־|wə·‘aḏ-|until|H5704|Conj-w | Prep
 v16 כְּלֹת֑וֹ|kə·lō·ṯōw|it was finished|H3615|V-Qal-Inf | 3ms
 v16 שָׁלֵ֖ם|šā·lêm|was completed|H8003|Adj-ms
 v16 בֵּ֥ית|bêṯ|So the house|H1004|N-msc
-v16 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v16 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v17 אָז֩|’āz|Then|H227|Adv
 v17 הָלַ֨ךְ|hā·laḵ|went|H1980|V-Qal-Perf-3ms
 v17 שְׁלֹמֹ֜ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
-v17 לְעֶצְיֽוֹן־|lə·‘eṣ·yō·wn-|vvv|H6100|Prep
+v17 לְעֶצְיֽוֹן־|lə·‘eṣ·yō·wn-|...|H6100|Prep
 v17 גֶּ֧בֶר|ge·ḇer|to Ezion-geber|H6100|Prep | N-proper-fs
 v17 וְאֶל־|wə·’el-|and to|H413|Conj-w | Prep
 v17 אֵיל֛וֹת|’ê·lō·wṯ|Eloth|H359|N-proper-fs
@@ -280,7 +280,7 @@ v18 שְׁלֹמֹה֙|šə·lō·mōh|Solomon's|H8010|N-proper-ms
 v18 אוֹפִ֔ירָה|’ō·w·p̄î·rāh|to Ophir|H211|N-proper-fs | 3fs
 v18 וַיִּקְח֣וּ|way·yiq·ḥū|and acquired|H3947|Conj-w | V-Qal-ConsecImperf-3mp
 v18 מִשָּׁ֔ם|miš·šām|from there|H8033|Prep-m | Adv
-v18 אַרְבַּע־|’ar·ba‘-|450 {}|H702|Number-fs
+v18 אַרְבַּע־|’ar·ba‘-|450|H702|Number-fs
 v18 מֵא֥וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v18 וַחֲמִשִּׁ֖ים|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
 v18 כִּכַּ֣ר|kik·kar|talents|H3603|N-fsc
@@ -288,4 +288,4 @@ v18 זָהָ֑ב|zā·hāḇ|of gold|H2091|N-ms
 v18 וַיָּבִ֖יאוּ|way·yā·ḇî·’ū|which they delivered|H935|Conj-w | V-Hifil-ConsecImperf-3mp
 v18 אֶל־|’el-|to|H413|Prep
 v18 הַמֶּ֥לֶךְ|ham·me·leḵ|King|H4428|Art | N-ms
-v18 שְׁלֹמֹֽה׃פ|šə·lō·mōh|Solomon|H8010|N-proper-ms
+v18 שְׁלֹמֹֽה׃|šə·lō·mōh|Solomon|H8010|N-proper-ms

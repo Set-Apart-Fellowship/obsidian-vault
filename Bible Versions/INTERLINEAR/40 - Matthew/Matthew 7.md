@@ -307,7 +307,7 @@ v18 καλοὺς|kalous|good|G2570|Adj-AMP
 v18 ποιεῖν*|poiein|bear|G4160|V-PNA
 v19 πᾶν|pan|Every|G3956|Adj-NNS
 v19 δένδρον|dendron|tree|G1186|N-NNS
-v19 μὴ|mē|vvv|G3361|Adv
+v19 μὴ|mē|...|G3361|Adv
 v19 ποιοῦν|poioun|that does not bear|G4160|V-PPA-NNS
 v19 καρπὸν|karpon|fruit|G2590|N-AMS
 v19 καλὸν|kalon|good|G2570|Adj-AMS
@@ -446,7 +446,7 @@ v26 τοὺς|tous|-|G3588|Art-AMP
 v26 λόγους|logous|words|G3056|N-AMP
 v26 τούτους|toutous|these|G3778|DPro-AMP
 v26 καὶ|kai|and|G2532|Conj
-v26 μὴ|mē|vvv|G3361|Adv
+v26 μὴ|mē|...|G3361|Adv
 v26 ποιῶν|poiōn|does not act on|G4160|V-PPA-NMS
 v26 αὐτοὺς|autous|them|G846|PPro-AM3P
 v26 ὁμοιωθήσεται|homoiōthēsetai|is like|G3666|V-FIP-3S
@@ -486,7 +486,7 @@ v27 πτῶσις|ptōsis|collapse|G4431|N-NFS
 v27 αὐτῆς|autēs|its|G846|PPro-GF3S
 v27 μεγάλη|megalē|great|G3173|Adj-NFS
 v28 Καὶ|Kai|-|G2532|Conj
-v28 ἐγένετο|egeneto|vvv|G1096|V-AIM-3S
+v28 ἐγένετο|egeneto|...|G1096|V-AIM-3S
 v28 ὅτε|hote|When|G3753|Adv
 v28 ἐτέλεσεν|etelesen|had finished|G5055|V-AIA-3S
 v28 ὁ|ho|-|G3588|Art-NMS

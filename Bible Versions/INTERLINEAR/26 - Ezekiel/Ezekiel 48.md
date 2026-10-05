@@ -9,16 +9,16 @@ v1 דֶּֽרֶךְ־|de·reḵ-|the road|H1870|N-csc
 v1 חֶתְלֹ֣ן׀|ḥeṯ·lōn|of Hethlon|H2855|N-proper-fs
 v1 לְֽבוֹא־|lə·ḇō·w-|...|H935|Prep | V-Qal-Inf
 v1 חֲמָ֡ת|ḥă·māṯ|to Lebo-hamath|H2574|N-proper-fs
-v1 חֲצַ֣ר|ḥă·ṣar|vvv|H2704|
+v1 חֲצַ֣ר|ḥă·ṣar|...|H2704|
 v1 עֵינָן֩|‘ê·nān|and running on to Hazar-enan|H2704|N-proper-fs
 v1 גְּב֨וּל|gə·ḇūl|on the border|H1366|N-msc
 v1 דַּמֶּ֤שֶׂק|dam·me·śeq|of Damascus|H1834|N-proper-fs
 v1 צָפ֙וֹנָה֙|ṣā·p̄ō·w·nāh|to the north|H6828|N-fs | 3fs
-v1 אֶל־|’el-|vvv|H413|Prep
+v1 אֶל־|’el-|...|H413|Prep
 v1 יַ֣ד|yaḏ|...|H3027|N-fsc
 v1 חֲמָ֔ת|ḥă·māṯ|with Hamath|H2574|N-proper-fs
-v1 וְהָיוּ־|wə·hā·yū-||H1961|Conj-w | V-Qal-ConjPerf-3cp
-v1 ל֧וֹ|lōw||H0|Prep | 3ms
+v1 וְהָיוּ־|wə·hā·yū-|-|H1961|Conj-w | V-Qal-ConjPerf-3cp
+v1 ל֧וֹ|lōw|-|H0|Prep | 3ms
 v1 פְאַת־|p̄ə·’aṯ-|side|H6285|N-fsc
 v1 קָדִ֛ים|qā·ḏîm|and extending from the east|H6921|N-ms
 v1 הַיָּ֖ם|hay·yām|to the west side|H3220|Art | N-ms
@@ -90,7 +90,7 @@ v8 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v8 מִפְּאַ֥ת|mip·pə·’aṯ|...|H6285|Prep-m | N-fsc
 v8 קָדִ֖ים|qā·ḏîm|from east|H6921|N-ms
 v8 עַד־|‘aḏ-|to|H5704|Prep
-v8 פְּאַת־|pə·’aṯ-||H6285|N-fsc
+v8 פְּאַת־|pə·’aṯ-|-|H6285|N-fsc
 v8 יָ֑מָּה|yām·māh|west|H3220|N-ms | 3fs
 v8 תִּהְיֶ֣ה|tih·yeh|will be|H1961|V-Qal-Imperf-3fs
 v8 הַתְּרוּמָ֣ה|hat·tə·rū·māh|the portion|H8641|Art | N-fs
@@ -155,7 +155,7 @@ v11 צָד֔וֹק|ṣā·ḏō·wq|of Zadok|H6659|N-proper-ms
 v11 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
 v11 שָׁמְר֖וּ|šā·mə·rū|kept|H8104|V-Qal-Perf-3cp
 v11 מִשְׁמַרְתִּ֑י|miš·mar·tî|My charge|H4931|N-fsc | 1cs
-v11 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v11 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v11 לֹֽא־|lō-|and did not|H3808|Adv-NegPrt
 v11 תָע֗וּ|ṯā·‘ū|go astray|H8582|V-Qal-Perf-3cp
 v11 בִּתְעוֹת֙|biṯ·‘ō·wṯ|went astray|H8582|Prep-b | V-Qal-Inf
@@ -163,7 +163,7 @@ v11 בְּנֵ֣י|bə·nê|when the Israelites|H1121|N-mpc
 v11 יִשְׂרָאֵ֔ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v11 כַּאֲשֶׁ֥ר|ka·’ă·šer|-|H834|Prep-k | Pro-r
 v11 תָּע֖וּ|tā·‘ū|[did]|H8582|V-Qal-Perf-3cp
-v11 הַלְוִיִּֽם׃ס|hal·wî·yim|as the Levites|H3881|Art | N-proper-mp
+v11 הַלְוִיִּֽם׃|hal·wî·yim|as the Levites|H3881|Art | N-proper-mp
 v12 וְהָיְתָ֨ה|wə·hā·yə·ṯāh|It will be|H1961|Conj-w | V-Qal-ConjPerf-3fs
 v12 לָהֶ֧ם|lā·hem|for them|H0|Prep | 3mp
 v12 תְּרוּמִיָּ֛ה|tə·rū·mî·yāh|a special portion|H8642|N-fs
@@ -209,13 +209,13 @@ v15 וַחֲמֵ֨שֶׁת|wa·ḥă·mê·šeṯ|5,000 [cubits]|H2568|Conj-w |
 v15 אֲלָפִ֜ים|’ă·lā·p̄îm|...|H505|Number-mp
 v15 הַנּוֹתָ֣ר|han·nō·w·ṯār|The remaining area|H3498|Art | V-Nifal-Prtcpl-ms
 v15 בָּרֹ֗חַב|bā·rō·ḥaḇ|wide|H7341|Prep-b, Art | N-ms
-v15 עַל־|‘al-||H5921|Prep
-v15 פְּנֵ֨י|pə·nê||H6440|N-cpc
+v15 עַל־|‘al-|-|H5921|Prep
+v15 פְּנֵ֨י|pə·nê|-|H6440|N-cpc
 v15 חֲמִשָּׁ֤ה|ḥă·miš·šāh|and 25,000 [cubits long]|H2568|Number-ms
 v15 וְעֶשְׂרִים֙|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
 v15 אֶ֔לֶף|’e·lep̄|...|H505|Number-ms
 v15 חֹֽל־|ḥōl-|will be for common use|H2455|N-ms
-v15 ה֣וּא|hū||H1931|Pro-3ms
+v15 ה֣וּא|hū|-|H1931|Pro-3ms
 v15 לָעִ֔יר|lā·‘îr|by the city|H5892|Prep-l, Art | N-fs
 v15 לְמוֹשָׁ֖ב|lə·mō·wō·šāḇ|for houses|H4186|Prep-l | N-ms
 v15 וּלְמִגְרָ֑שׁ|ū·lə·miḡ·rāš|and for pastureland|H4054|Conj-w, Prep-l | N-ms
@@ -233,7 +233,7 @@ v16 אֲלָפִ֔ים|’ă·lā·p̄îm|...|H505|Number-mp
 v16 וּפְאַת־|ū·p̄ə·’aṯ-|side|H6285|Conj-w | N-fsc
 v16 נֶ֕גֶב|ne·ḡeḇ|on the south|H5045|N-fs
 v16 חֲמֵ֥שׁ|ḥă·mêš|4,500 [cubits]|H2568|Number-fsc
-v16 חמש|ḥ·mš||H2568|Number-fsc
+v16 חמש|ḥ·mš|-|H2568|Number-fsc
 v16 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v16 וְאַרְבַּ֣עַת|wə·’ar·ba·‘aṯ|...|H702|Conj-w | Number-msc
 v16 אֲלָפִ֑ים|’ă·lā·p̄îm|...|H505|Number-mp
@@ -314,7 +314,7 @@ v21 לִתְרֽוּמַת־|liṯ·rū·maṯ-|portion|H8641|Prep-l | N-fsc
 v21 הַקֹּ֣דֶשׁ|haq·qō·ḏeš|of the holy|H6944|Art | N-ms
 v21 וְלַאֲחֻזַּ֪ת|wə·la·’ă·ḥuz·zaṯ|and of the property|H272|Conj-w, Prep-l | N-fsc
 v21 הָעִ֟יר|hā·‘îr|of the city|H5892|Art | N-fs
-v21 אֶל־|’el-|vvv|H413|Prep
+v21 אֶל־|’el-|...|H413|Prep
 v21 פְּנֵ֣י|pə·nê|extending [eastward]|H6440|N-cpc
 v21 חֲמִשָּׁה֩|ḥă·miš·šāh|from the 25,000 [cubits]|H2568|Number-ms
 v21 וְעֶשְׂרִ֨ים|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
@@ -324,7 +324,7 @@ v21 עַד־|‘aḏ-|toward|H5704|Prep
 v21 גְּב֣וּל|gə·ḇūl|border|H1366|N-msc
 v21 קָדִימָה֒|qā·ḏî·māh|the eastern|H6921|N-ms | 3fs
 v21 וְיָ֗מָּה|wə·yām·māh|[and] westward|H3220|Conj-w | N-ms | 3fs
-v21 עַל־|‘al-||H5921|Prep
+v21 עַל־|‘al-|-|H5921|Prep
 v21 פְּ֠נֵי|pə·nê|...|H6440|N-cpc
 v21 חֲמִשָּׁ֨ה|ḥă·miš·šāh|from the 25,000 [cubits]|H2568|Number-ms
 v21 וְעֶשְׂרִ֥ים|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
@@ -406,11 +406,11 @@ v27 פְּאַת־|pə·’aṯ-|...|H6285|N-fsc
 v27 יָ֖מָּה|yām·māh|west|H3220|N-ms | 3fs
 v27 גָּ֥ד|gāḏ|[And] Gad|H1410|N-proper-ms
 v27 אֶחָֽד׃|’e·ḥāḏ|will have one portion|H259|Number-ms
-v28 וְעַל֙|wə·‘al||H5921|Conj-w | Prep
-v28 גְּב֣וּל|gə·ḇūl||H1366|N-msc
+v28 וְעַל֙|wə·‘al|-|H5921|Conj-w | Prep
+v28 גְּב֣וּל|gə·ḇūl|-|H1366|N-msc
 v28 גָּ֔ד|gāḏ|of Gad|H1410|N-proper-ms
 v28 אֶל־|’el-|-|H413|Prep
-v28 פְּאַ֖ת|pə·’aṯ||H6285|N-fsc
+v28 פְּאַ֖ת|pə·’aṯ|-|H6285|N-fsc
 v28 נֶ֣גֶב|ne·ḡeḇ|The southern|H5045|N-fs
 v28 תֵּימָ֑נָה|tê·mā·nāh|...|H8486|N-fs | 3fs
 v28 וְהָיָ֨ה|wə·hā·yāh|will run|H1961|Conj-w | V-Qal-ConjPerf-3ms
@@ -434,7 +434,7 @@ v29 וְאֵ֙לֶּה֙|wə·’êl·leh|and these|H428|Conj-w | Pro-cp
 v29 מַחְלְקוֹתָ֔ם|maḥ·lə·qō·w·ṯām|will be their portions|H4256|N-fpc | 3mp
 v29 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v29 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v29 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v29 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v30 וְאֵ֖לֶּה|wə·’êl·leh|These|H428|Conj-w | Pro-cp
 v30 תּוֹצְאֹ֣ת|tō·wṣ·’ōṯ|will be the exits|H8444|N-fpc
 v30 הָעִ֑יר|hā·‘îr|of the city|H5892|Art | N-fs
@@ -456,13 +456,13 @@ v31 שְׁלוֹשָׁ֖ה|šə·lō·wō·šāh|[there will be] three|H7969|Num
 v31 צָפ֑וֹנָה|ṣā·p̄ō·w·nāh|On the north side|H6828|N-fs | 3fs
 v31 שַׁ֣עַר|ša·‘ar|the gate|H8179|N-msc
 v31 רְאוּבֵ֞ן|rə·’ū·ḇên|of Reuben|H7205|N-proper-ms
-v31 אֶחָ֗ד|’e·ḥāḏ||H259|Number-ms
+v31 אֶחָ֗ד|’e·ḥāḏ|-|H259|Number-ms
 v31 שַׁ֤עַר|ša·‘ar|the gate|H8179|N-msc
 v31 יְהוּדָה֙|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v31 אֶחָ֔ד|’e·ḥāḏ|-|H259|Number-ms
 v31 שַׁ֥עַר|ša·‘ar|and the gate|H8179|N-msc
 v31 לֵוִ֖י|lê·wî|of Levi|H3881|N-proper-ms
-v31 אֶחָֽד׃|’e·ḥāḏ||H259|Number-ms
+v31 אֶחָֽד׃|’e·ḥāḏ|-|H259|Number-ms
 v32 וְאֶל־|wə·’el-|On|H413|Conj-w | Prep
 v32 פְּאַ֣ת|pə·’aṯ|side|H6285|N-fsc
 v32 קָדִ֗ימָה|qā·ḏî·māh|the east|H6921|N-ms | 3fs
@@ -474,13 +474,13 @@ v32 וּשְׁעָרִ֖ים|ū·šə·‘ā·rîm|gates|H8179|Conj-w | N-mp
 v32 שְׁלֹשָׁ֑ה|šə·lō·šāh|there will be three|H7969|Number-ms
 v32 וְשַׁ֨עַר|wə·ša·‘ar|the gate|H8179|Conj-w | N-msc
 v32 יוֹסֵ֜ף|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
-v32 אֶחָ֗ד|’e·ḥāḏ||H259|Number-ms
+v32 אֶחָ֗ד|’e·ḥāḏ|-|H259|Number-ms
 v32 שַׁ֤עַר|ša·‘ar|the gate|H8179|N-msc
 v32 בִּנְיָמִן֙|bin·yā·min|of Benjamin|H1144|N-proper-ms
-v32 אֶחָ֔ד|’e·ḥāḏ||H259|Number-ms
+v32 אֶחָ֔ד|’e·ḥāḏ|-|H259|Number-ms
 v32 שַׁ֥עַר|ša·‘ar|and the gate|H8179|N-msc
 v32 דָּ֖ן|dān|of Dan|H1835|N-proper-ms
-v32 אֶחָֽד׃|’e·ḥāḏ||H259|Number-ms
+v32 אֶחָֽד׃|’e·ḥāḏ|-|H259|Number-ms
 v33 וּפְאַת־|ū·p̄ə·’aṯ-|side|H6285|Conj-w | N-fsc
 v33 נֶ֗גְבָּה|neḡ·bāh|On the south|H5045|N-ms | 3fs
 v33 חֲמֵ֨שׁ|ḥă·mêš|4,500 [cubits long]|H2568|Number-fsc
@@ -492,13 +492,13 @@ v33 וּשְׁעָרִ֖ים|ū·šə·‘ā·rîm|gates|H8179|Conj-w | N-mp
 v33 שְׁלֹשָׁ֑ה|šə·lō·šāh|there will be three|H7969|Number-ms
 v33 שַׁ֣עַר|ša·‘ar|the gate|H8179|N-msc
 v33 שִׁמְע֞וֹן|šim·‘ō·wn|of Simeon|H8095|N-proper-ms
-v33 אֶחָ֗ד|’e·ḥāḏ||H259|Number-ms
+v33 אֶחָ֗ד|’e·ḥāḏ|-|H259|Number-ms
 v33 שַׁ֤עַר|ša·‘ar|the gate|H8179|N-msc
 v33 יִשָּׂשכָר֙|yiś·śā·š·ḵār|of Issachar|H3485|N-proper-ms
-v33 אֶחָ֔ד|’e·ḥāḏ||H259|Number-ms
+v33 אֶחָ֔ד|’e·ḥāḏ|-|H259|Number-ms
 v33 שַׁ֥עַר|ša·‘ar|and the gate|H8179|N-msc
 v33 זְבוּלֻ֖ן|zə·ḇū·lun|of Zebulun|H2074|N-proper-ms
-v33 אֶחָֽד׃|’e·ḥāḏ||H259|Number-ms
+v33 אֶחָֽד׃|’e·ḥāḏ|-|H259|Number-ms
 v34 פְּאַת־|pə·’aṯ-|side|H6285|N-fsc
 v34 יָ֗מָּה|yām·māh|And on the west|H3220|N-ms | 3fs
 v34 חֲמֵ֤שׁ|ḥă·mêš|which will be 4,500 [cubits long]|H2568|Number-fsc
@@ -509,13 +509,13 @@ v34 שַֽׁעֲרֵיהֶ֖ם|ša·‘ă·rê·hem|gates|H8179|N-mpc | 3mp
 v34 שְׁלֹשָׁ֑ה|šə·lō·šāh|there will be three|H7969|Number-ms
 v34 שַׁ֣עַר|ša·‘ar|the gate|H8179|N-msc
 v34 גָּ֞ד|gāḏ|of Gad|H1410|N-proper-ms
-v34 אֶחָ֗ד|’e·ḥāḏ||H259|Number-ms
+v34 אֶחָ֗ד|’e·ḥāḏ|-|H259|Number-ms
 v34 שַׁ֤עַר|ša·‘ar|the gate|H8179|N-msc
 v34 אָשֵׁר֙|’ā·šêr|of Asher|H836|N-proper-ms
-v34 אֶחָ֔ד|’e·ḥāḏ||H259|Number-ms
+v34 אֶחָ֔ד|’e·ḥāḏ|-|H259|Number-ms
 v34 שַׁ֥עַר|ša·‘ar|and the gate|H8179|N-msc
 v34 נַפְתָּלִ֖י|nap̄·tā·lî|of Naphtali|H5321|N-proper-ms
-v34 אֶחָֽד׃|’e·ḥāḏ||H259|Number-ms
+v34 אֶחָֽד׃|’e·ḥāḏ|-|H259|Number-ms
 v35 סָבִ֕יב|sā·ḇîḇ|The perimeter|H5439|Adv
 v35 שְׁמֹנָ֥ה|šə·mō·nāh|[of the city will be] 18,000 [cubits]|H8083|Number-ms
 v35 עָשָׂ֖ר|‘ā·śār|...|H6240|Number-ms

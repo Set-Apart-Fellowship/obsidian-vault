@@ -72,7 +72,7 @@ v6 הַדַּ֣עַת|had·da·‘aṯ|knowledge|H1847|Art | N-fs
 v6 מָאַ֗סְתָּ|mā·’as·tā|have rejected|H3988|V-Qal-Perf-2ms
 v6 וְאֶמְאָֽסְאךָ֙|wə·’em·’ā·sə·ḵā|I will also reject you|H3988|Conj-w | V-Qal-ConjImperf-1cs | 2ms
 v6 מִכַּהֵ֣ן|mik·ka·hên|as My priests|H3547|Prep-m | V-Piel-Inf
-v6 לִ֔י|lî||H0|Prep | 1cs
+v6 לִ֔י|lî|-|H0|Prep | 1cs
 v6 וַתִּשְׁכַּח֙|wat·tiš·kaḥ|Since you have forgotten|H7911|Conj-w | V-Qal-ConsecImperf-2ms
 v6 תּוֹרַ֣ת|tō·w·raṯ|the law|H8451|N-fsc
 v6 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|of your God|H430|N-mpc | 2ms
@@ -186,7 +186,7 @@ v15 תָּבֹ֣אוּ|tā·ḇō·’ū|journey|H935|V-Qal-Imperf-2mp
 v15 הַגִּלְגָּ֗ל|hag·gil·gāl|to Gilgal|H1537|Art | N-proper-fs
 v15 וְאַֽל־|wə·’al-|and do not|H408|Conj-w | Adv
 v15 תַּעֲלוּ֙|ta·‘ă·lū|do not go up|H5927|V-Qal-Imperf-2mp
-v15 בֵּ֣ית|bêṯ|vvv|H1007|Prep
+v15 בֵּ֣ית|bêṯ|...|H1007|Prep
 v15 אָ֔וֶן|’ā·wen|to Beth-aven|H1007|N-proper-fs
 v15 וְאַל־|wə·’al-|...|H408|Conj-w | Adv
 v15 תִּשָּׁבְע֖וּ|tiš·šā·ḇə·‘ū|swear on oath|H7650|V-Nifal-Imperf-2mp
@@ -206,7 +206,7 @@ v17 חֲב֧וּר|ḥă·ḇūr|is joined|H2266|V-Qal-QalPassPrtcpl-msc
 v17 עֲצַבִּ֛ים|‘ă·ṣab·bîm|to idols|H6091|N-mp
 v17 אֶפְרָ֖יִם|’ep̄·rā·yim|Ephraim|H669|N-proper-ms
 v17 הַֽנַּֽח־|han·naḥ-|leave him alone|H5117|V-Hifil-Imp-ms
-v17 לֽוֹ׃|lōw||H0|Prep | 3ms
+v17 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v18 סָ֖ר|sār|is gone|H5493|V-Qal-Perf-3ms
 v18 סָבְאָ֑ם|sā·ḇə·’ām|When their liquor|H5435|N-msc | 3mp
 v18 הַזְנֵ֣ה|haz·nêh|they turn to prostitution|H2181|V-Hifil-InfAbs

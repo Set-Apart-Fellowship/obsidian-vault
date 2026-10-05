@@ -54,7 +54,7 @@ v3 הָהָ֔ר|hā·hār|of the mountain|H2022|Art | N-ms
 v3 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v3 עַל־|‘al-|overlooking|H5921|Prep
 v3 פְּנֵ֥י|pə·nê|...|H6440|N-cpc
-v3 חֶבְרֽוֹן׃פ|ḥeḇ·rō·wn|Hebron|H2275|N-proper-fs
+v3 חֶבְרֽוֹן׃|ḥeḇ·rō·wn|Hebron|H2275|N-proper-fs
 v4 וַֽיְהִי֙|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v4 אַחֲרֵי־|’a·ḥă·rê-|Some time later|H310|Prep
 v4 כֵ֔ן|ḵên|...|H3651|Adv
@@ -69,7 +69,7 @@ v5 אֵלֶ֜יהָ|’ê·le·hā|to her|H413|Prep | 3fs
 v5 סַרְנֵ֣י|sar·nê|The lords|H5633|N-mpc
 v5 פְלִשְׁתִּ֗ים|p̄ə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v5 וַיֹּ֨אמְרוּ|way·yō·mə·rū|and said|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v5 לָ֜הּ|lāh||H0|Prep | 3fs
+v5 לָ֜הּ|lāh|-|H0|Prep | 3fs
 v5 פַּתִּ֣י|pat·tî|Entice|H6601|V-Piel-Imp-fs
 v5 אוֹת֗וֹ|’ō·w·ṯōw|him|H853|DirObjM | 3ms
 v5 וּרְאִי֙|ū·rə·’î|and find out|H7200|Conj-w | V-Qal-Imp-fs
@@ -203,7 +203,7 @@ v13 וַתֹּ֨אמֶר|wat·tō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3fs
 v13 דְּלִילָ֜ה|də·lî·lāh|Then Delilah|H1807|N-proper-fs
 v13 אֶל־|’el-|to|H413|Prep
 v13 שִׁמְשׁ֗וֹן|šim·šō·wn|Samson|H8123|N-proper-ms
-v13 עַד־|‘aḏ-|vvv|H5704|Prep
+v13 עַד־|‘aḏ-|...|H5704|Prep
 v13 הֵ֜נָּה|hên·nāh|all along|H2008|Adv
 v13 הֵתַ֤לְתָּ|hê·ṯal·tā|You have mocked|H2048|V-Hifil-Perf-2ms
 v13 בִּי֙|bî|me|H0|Prep | 1cs
@@ -259,11 +259,11 @@ v15 בַּמֶּ֖ה|bam·meh|the source|H4100|Prep-b | Interrog
 v15 כֹּחֲךָ֥|kō·ḥă·ḵā|of your great strength|H3581|N-msc | 2ms
 v15 גָדֽוֹל׃|ḡā·ḏō·wl|...|H1419|Adj-ms
 v16 וַ֠יְהִי|way·hî|Finally, after|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v16 כִּֽי־|kî-||H3588|Conj
+v16 כִּֽי־|kî-|-|H3588|Conj
 v16 הֵצִ֨יקָה|hê·ṣî·qāh|she had pressed|H6693|V-Hifil-Perf-3fs
 v16 לּ֧וֹ|lōw|him|H0|Prep | 3ms
 v16 בִדְבָרֶ֛יהָ|ḇiḏ·ḇā·re·hā|with her words|H1697|Prep-b | N-mpc | 3fs
-v16 כָּל־|kāl-|vvv|H3605|N-msc
+v16 כָּל־|kāl-|...|H3605|N-msc
 v16 הַיָּמִ֖ים|hay·yā·mîm|daily|H3117|Art | N-mp
 v16 וַתְּאַֽלֲצֵ֑הוּ|wat·tə·’a·lă·ṣê·hū|and pleaded|H509|Conj-w | V-Piel-ConsecImperf-3fs | 3ms
 v16 וַתִּקְצַ֥ר|wat·tiq·ṣar|was sick|H7114|Conj-w | V-Qal-ConsecImperf-3fs
@@ -376,7 +376,7 @@ v22 שְׂעַר־|śə·‘ar-|However, the hair|H8181|N-msc
 v22 רֹאשׁ֛וֹ|rō·šōw|of his head|H7218|N-msc | 3ms
 v22 לְצַמֵּ֖חַ|lə·ṣam·mê·aḥ|to grow|H6779|Prep-l | V-Piel-Inf
 v22 כַּאֲשֶׁ֥ר|ka·’ă·šer|back after|H834|Prep-k | Pro-r
-v22 גֻּלָּֽח׃פ|gul·lāḥ|it had been shaved|H1548|V-Pual-Perf-3ms
+v22 גֻּלָּֽח׃|gul·lāḥ|it had been shaved|H1548|V-Pual-Perf-3ms
 v23 וְסַרְנֵ֣י|wə·sar·nê|Now the lords|H5633|Conj-w | N-mpc
 v23 פְלִשְׁתִּ֗ים|p̄ə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v23 נֶֽאֱסְפוּ֙|nɛ·ʾɛ̆s·p̄ū|gathered together|H622|V-Nifal-Perf-3cp
@@ -400,7 +400,7 @@ v24 וַֽיְהַלְל֖וּ|way·hal·lū|they praised|H1984|Conj-w | V-Piel-
 v24 אֶת־|’eṯ-|-|H853|DirObjM
 v24 אֱלֹהֵיהֶ֑ם|’ĕ·lō·hê·hem|their god|H430|N-mpc | 3mp
 v24 כִּ֣י|kî|saying|H3588|Conj
-v24 אָמְר֗וּ|’ā·mə·rū||H559|V-Qal-Perf-3cp
+v24 אָמְר֗וּ|’ā·mə·rū|-|H559|V-Qal-Perf-3cp
 v24 נָתַ֨ן|nā·ṯan|has delivered|H5414|V-Qal-Perf-3ms
 v24 אֱלֹהֵ֤ינוּ|’ĕ·lō·hê·nū|Our god|H430|N-mpc | 1cp
 v24 בְיָדֵ֙נוּ֙|ḇə·yā·ḏê·nū|into our hands|H3027|Prep-b | N-fsc | 1cp
@@ -519,10 +519,10 @@ v30 וְעַל־|wə·‘al-|and|H5921|Conj-w | Prep
 v30 כָּל־|kāl-|all|H3605|N-msc
 v30 הָעָ֖ם|hā·‘ām|the people in it|H5971|Art | N-ms
 v30 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v30 בּ֑וֹ|bōw||H0|Prep | 3ms
-v30 וַיִּהְי֤וּ|way·yih·yū||H1961|Conj-w | V-Qal-ConsecImperf-3mp
-v30 הַמֵּתִים֙|ham·mê·ṯîm|vvv|H4191|Art | V-Qal-Prtcpl-mp
-v30 אֲשֶׁ֣ר|’ă·šer|vvv|H834|Pro-r
+v30 בּ֑וֹ|bōw|-|H0|Prep | 3ms
+v30 וַיִּהְי֤וּ|way·yih·yū|-|H1961|Conj-w | V-Qal-ConsecImperf-3mp
+v30 הַמֵּתִים֙|ham·mê·ṯîm|...|H4191|Art | V-Qal-Prtcpl-mp
+v30 אֲשֶׁ֣ר|’ă·šer|...|H834|Pro-r
 v30 הֵמִ֣ית|hê·mîṯ|he killed|H4191|V-Hifil-Perf-3ms
 v30 בְּמוֹת֔וֹ|bə·mō·w·ṯōw|So in his death|H4194|Prep-b | N-msc | 3ms
 v30 רַבִּ֕ים|rab·bîm|more|H7227|Adj-mp
@@ -551,4 +551,4 @@ v31 שָׁפַ֥ט|šā·p̄aṭ|had judged|H8199|V-Qal-Perf-3ms
 v31 אֶת־|’eṯ-|-|H853|DirObjM
 v31 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v31 עֶשְׂרִ֥ים|‘eś·rîm|twenty|H6242|Number-cp
-v31 שָׁנָֽה׃פ|šā·nāh|years|H8141|N-fs
+v31 שָׁנָֽה׃|šā·nāh|years|H8141|N-fs

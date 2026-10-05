@@ -83,8 +83,8 @@ v6 ὁ|ho|the [one who]|G3588|Art-NMS
 v6 πιστεύων|pisteuōn|believes|G4100|V-PPA-NMS
 v6 ἐπ’|ep’|in|G1909|Prep
 v6 αὐτῷ|autō|Him|G846|PPro-DM3S
-v6 οὐ|ou|vvv|G3756|Adv
-v6 μὴ|mē|vvv|G3361|Adv
+v6 οὐ|ou|...|G3756|Adv
+v6 μὴ|mē|...|G3361|Adv
 v6 καταισχυνθῇ|kataischynthē|will never be put to shame|G2617|V-ASP-3S
 v7 Ὑμῖν|Hymin|To you|G4771|PPro-D2P
 v7 οὖν|oun|then|G3767|Conj
@@ -102,7 +102,7 @@ v7 οἰκοδομοῦντες|oikodomountes|builders|G3618|V-PPA-NMP
 v7 οὗτος|houtos|-|G3778|DPro-NMS
 v7 ἐγενήθη|egenēthē|has become|G1096|V-AIP-3S
 v7 εἰς|eis|...|G1519|Prep
-v7 κεφαλὴν|kephalēn|vvv|G2776|N-AFS
+v7 κεφαλὴν|kephalēn|...|G2776|N-AFS
 v7 γωνίας|gōnias|the cornerstone|G1137|N-GFS
 v8 Καὶ|Kai|and|G2532|Conj
 v8 Λίθος|Lithos|A stone|G3037|N-NMS
@@ -153,7 +153,7 @@ v10 δὲ|de|but|G1161|Conj
 v10 λαὸς|laos|[the] people|G2992|N-NMS
 v10 Θεοῦ|Theou|of God|G2316|N-GMS
 v10 οἱ|hoi|[once you]|G3588|Art-NMP
-v10 οὐκ|ouk|vvv|G3756|Adv
+v10 οὐκ|ouk|...|G3756|Adv
 v10 ἠλεημένοι|ēleēmenoi|had not received mercy|G1653|V-RPM/P-NMP
 v10 νῦν|nyn|now|G3568|Adv
 v10 δὲ|de|but|G1161|Conj
@@ -182,7 +182,7 @@ v12 ἔθνεσιν|ethnesin|Gentiles|G1484|N-DNP
 v12 ἔχοντες|echontes|Conduct|G2192|V-PPA-NMP
 v12 καλήν|kalēn|with such honor|G2570|Adj-AFS
 v12 ἵνα|hina|that|G2443|Conj
-v12 ἐν|en|vvv|G1722|Prep
+v12 ἐν|en|...|G1722|Prep
 v12 ᾧ|hō|though|G3739|RelPro-DNS
 v12 καταλαλοῦσιν|katalalousin|they slander|G2635|V-PIA-3P
 v12 ὑμῶν|hymōn|you|G4771|PPro-G2P
@@ -227,7 +227,7 @@ v15 οὕτως|houtōs|that|G3779|Adv
 v15 ἐστὶν|estin|it is|G1510|V-PIA-3S
 v15 τὸ|to|-|G3588|Art-NNS
 v15 θέλημα|thelēma|will|G2307|N-NNS
-v15 τοῦ|tou|vvv|G3588|Art-GMS
+v15 τοῦ|tou|...|G3588|Art-GMS
 v15 Θεοῦ|Theou|God's|G2316|N-GMS
 v15 ἀγαθοποιοῦντας|agathopoiountas|by doing good|G15|V-PPA-AMP
 v15 φιμοῦν|phimoun|you should silence|G5392|V-PNA
@@ -239,7 +239,7 @@ v15 ἀγνωσίαν|agnōsian|ignorance|G56|N-AFS
 v16 ὡς|hōs|[Live]|G5613|Adv
 v16 ἐλεύθεροι|eleutheroi|in freedom|G1658|Adj-NMP
 v16 καὶ|kai|[but]|G2532|Conj
-v16 μὴ|mē|vvv|G3361|Adv
+v16 μὴ|mē|...|G3361|Adv
 v16 ὡς|hōs|as|G5613|Adv
 v16 ἐπικάλυμμα|epikalymma|a cover-up|G1942|N-ANS
 v16 ἔχοντες|echontes|do not use|G2192|V-PPA-NMP
@@ -339,12 +339,12 @@ v22 ἐν|en|in|G1722|Prep
 v22 τῷ|tō|-|G3588|Art-DNS
 v22 στόματι|stomati|mouth|G4750|N-DNS
 v22 αὐτοῦ|autou|His|G846|PPro-GM3S
-v23 ὃς|hos|vvv|G3739|RelPro-NMS
+v23 ὃς|hos|...|G3739|RelPro-NMS
 v23 λοιδορούμενος|loidoroumenos|When they heaped abuse on Him|G3058|V-PPM/P-NMS
-v23 οὐκ|ouk|vvv|G3756|Adv
+v23 οὐκ|ouk|...|G3756|Adv
 v23 ἀντελοιδόρει|anteloidorei|He did not retaliate|G486|V-IIA-3S
 v23 πάσχων|paschōn|when He suffered|G3958|V-PPA-NMS
-v23 οὐκ|ouk|vvv|G3756|Adv
+v23 οὐκ|ouk|...|G3756|Adv
 v23 ἠπείλει|ēpeilei|He made no threats|G546|V-IIA-3S
 v23 παρεδίδου|paredidou|entrusted Himself|G3860|V-IIA-3S
 v23 δὲ|de|but|G1161|Conj

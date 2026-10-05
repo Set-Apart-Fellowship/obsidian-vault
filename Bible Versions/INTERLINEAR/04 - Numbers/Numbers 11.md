@@ -137,7 +137,7 @@ v11 מָצָ֥תִי|mā·ṣā·ṯî|found|H4672|V-Qal-Perf-1cs
 v11 חֵ֖ן|ḥên|favor|H2580|N-ms
 v11 בְּעֵינֶ֑יךָ|bə·‘ê·ne·ḵā|in Your sight|H5869|Prep-b | N-cdc | 2ms
 v11 לָשׂ֗וּם|lā·śūm|that You have laid|H7760|Prep-l | V-Qal-Inf
-v11 אֶת־|’eṯ-||H853|DirObjM
+v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 מַשָּׂ֛א|maś·śā|the burden|H4853|N-msc
 v11 כָּל־|kāl-|of all|H3605|N-msc
 v11 הָעָ֥ם|hā·‘ām|people|H5971|Art | N-ms
@@ -168,7 +168,7 @@ v12 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v12 נִשְׁבַּ֖עְתָּ|niš·ba‘·tā|You swore to give|H7650|V-Nifal-Perf-2ms
 v12 לַאֲבֹתָֽיו׃|la·’ă·ḇō·ṯāw|their fathers|H1|Prep-l | N-mpc | 3ms
 v13 מֵאַ֤יִן|mê·’a·yin|Where|H370|Prep-m | Adv
-v13 לִי֙|lî||H0|Prep | 1cs
+v13 לִי֙|lî|-|H0|Prep | 1cs
 v13 בָּשָׂ֔ר|bā·śār|can I get meat|H1320|N-ms
 v13 לָתֵ֖ת|lā·ṯêṯ|for|H5414|Prep-l | V-Qal-Inf
 v13 לְכָל־|lə·ḵāl|all|H3605|Prep-l | N-msc
@@ -199,7 +199,7 @@ v15 כָּ֣כָה׀|kā·ḵāh|this is how|H3602|Adv
 v15 אַתְּ־|’at-|You|H859|Pro-2ms
 v15 עֹ֣שֶׂה|‘ō·śeh|are going to treat|H6213|V-Qal-Prtcpl-ms
 v15 לִּ֗י|lî|me|H0|Prep | 1cs
-v15 הָרְגֵ֤נִי|hā·rə·ḡê·nî||H2026|V-Qal-Imp-ms | 1cs
+v15 הָרְגֵ֤נִי|hā·rə·ḡê·nî|-|H2026|V-Qal-Imp-ms | 1cs
 v15 נָא֙|nā|please|H4994|Interjection
 v15 הָרֹ֔ג|hā·rōḡ|kill me right now|H2026|V-Qal-InfAbs
 v15 אִם־|’im-|if|H518|Conj
@@ -208,7 +208,7 @@ v15 חֵ֖ן|ḥên|favor|H2580|N-ms
 v15 בְּעֵינֶ֑יךָ|bə·‘ê·ne·ḵā|in Your eyes|H5869|Prep-b | N-cdc | 2ms
 v15 וְאַל־|wə·’al-|and let me not|H408|Conj-w | Adv
 v15 אֶרְאֶ֖ה|’er·’eh|see|H7200|V-Qal-Imperf.h-1cs
-v15 בְּרָעָתִֽי׃פ|bə·rā·‘ā·ṯî|my own wretchedness|H7451|Prep-b | N-fsc | 1cs
+v15 בְּרָעָתִֽי׃|bə·rā·‘ā·ṯî|my own wretchedness|H7451|Prep-b | N-fsc | 1cs
 v16 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v16 אֶל־|’el-|to|H413|Prep
@@ -216,7 +216,7 @@ v16 מֹשֶׁ֗ה|mō·šeh|Moses|H4872|N-proper-ms
 v16 אֶסְפָה־|’es·p̄āh-|Bring|H622|V-Qal-Imp-ms | 3fs
 v16 לִּ֞י|lî|Me|H0|Prep | 1cs
 v16 שִׁבְעִ֣ים|šiḇ·‘îm|seventy|H7657|Number-cp
-v16 אִישׁ֮|’îš|vvv|H376|N-ms
+v16 אִישׁ֮|’îš|...|H376|N-ms
 v16 מִזִּקְנֵ֣י|miz·ziq·nê|of the elders|H2205|Prep-m | Adj-mpc
 v16 יִשְׂרָאֵל֒|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v16 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
@@ -270,7 +270,7 @@ v18 יַאֲכִלֵ֙נוּ֙|ya·’ă·ḵi·lê·nū|will feed us|H398|V-Hi
 v18 בָּשָׂ֔ר|bā·śār|meat|H1320|N-ms
 v18 כִּי־|kî-|For|H3588|Conj
 v18 ט֥וֹב|ṭō·wḇ|we were better off|H2895|V-Qal-Perf-3ms
-v18 לָ֖נוּ|lā·nū||H0|Prep | 1cp
+v18 לָ֖נוּ|lā·nū|-|H0|Prep | 1cp
 v18 בְּמִצְרָ֑יִם|bə·miṣ·rā·yim|in Egypt|H4714|Prep-b | N-proper-fs
 v18 וְנָתַ֨ן|wə·nā·ṯan|will give|H5414|Conj-w | V-Qal-ConjPerf-3ms
 v18 יְהוָ֥ה|Yah·weh|Therefore the LORD|H3068|N-proper-ms
@@ -318,7 +318,7 @@ v20 יָצָ֥אנוּ|yā·ṣā·nū|leave|H3318|V-Qal-Perf-1cp
 v20 מִמִּצְרָֽיִם׃|mim·miṣ·rā·yim|Egypt|H4714|Prep-m | N-proper-fs
 v21 וַיֹּאמֶר֮|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v21 מֹשֶׁה֒|mō·šeh|But Moses|H4872|N-proper-ms
-v21 שֵׁשׁ־|šêš-|600,000 {}|H8337|Number-fsc
+v21 שֵׁשׁ־|šêš-|600,000|H8337|Number-fsc
 v21 מֵא֥וֹת|mê·’ō·wṯ|...|H3967|Number-fpc
 v21 אֶ֙לֶף֙|’e·lep̄|...|H505|Number-ms
 v21 רַגְלִ֔י|raḡ·lî|on foot|H7273|Adj-ms
@@ -339,7 +339,7 @@ v22 וּבָקָ֛ר|ū·ḇā·qār|and herds|H1241|Conj-w | N-ms
 v22 יִשָּׁחֵ֥ט|yiš·šā·ḥêṭ|were slaughtered|H7819|V-Nifal-Imperf-3ms
 v22 לָהֶ֖ם|lā·hem|for them|H0|Prep | 3mp
 v22 וּמָצָ֣א|ū·mā·ṣā|would they have enough|H4672|Conj-w | V-Qal-ConjPerf-3ms
-v22 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v22 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v22 אִ֣ם|’im|Or if|H518|Conj
 v22 אֶֽת־|’eṯ-|-|H853|DirObjM
 v22 כָּל־|kāl-|all|H3605|N-msc
@@ -348,7 +348,7 @@ v22 הַיָּ֛ם|hay·yām|in the sea|H3220|Art | N-ms
 v22 יֵאָסֵ֥ף|yê·’ā·sêp̄|were caught|H622|V-Nifal-Imperf-3ms
 v22 לָהֶ֖ם|lā·hem|for them|H0|Prep | 3mp
 v22 וּמָצָ֥א|ū·mā·ṣā|would they have enough|H4672|Conj-w | V-Qal-ConjPerf-3ms
-v22 לָהֶֽם׃פ|lā·hem||H0|Prep | 3mp
+v22 לָהֶֽם׃|lā·hem|-|H0|Prep | 3mp
 v23 וַיֹּ֤אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v23 יְהוָה֙|Yah·weh|The LORD|H3068|N-proper-ms
 v23 אֶל־|’el-|...|H413|Prep
@@ -442,7 +442,7 @@ v28 אֲדֹנִ֥י|’ă·ḏō·nî|my lord|H113|N-msc | 1cs
 v28 מֹשֶׁ֖ה|mō·šeh|Moses|H4872|N-proper-ms
 v28 כְּלָאֵֽם׃|kə·lā·’êm|stop them|H3607|V-Qal-Imp-ms | 3mp
 v29 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v29 לוֹ֙|lōw||H0|Prep | 3ms
+v29 לוֹ֙|lōw|-|H0|Prep | 3ms
 v29 מֹשֶׁ֔ה|mō·šeh|But Moses|H4872|N-proper-ms
 v29 הַֽמְקַנֵּ֥א|ham·qan·nê|jealous|H7065|V-Piel-Prtcpl-ms
 v29 אַתָּ֖ה|’at·tāh|Are you|H859|Pro-2ms
@@ -507,7 +507,7 @@ v32 אָסַ֖ף|’ā·sap̄|No one gathered|H622|V-Qal-Perf-3ms
 v32 עֲשָׂרָ֣ה|‘ă·śā·rāh|ten|H6235|Number-ms
 v32 חֳמָרִ֑ים|ḥo·mā·rîm|homers|H2563|N-mp
 v32 וַיִּשְׁטְח֤וּ|way·yiš·ṭə·ḥū|and they spread them out|H7849|Conj-w | V-Qal-ConsecImperf-3mp
-v32 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v32 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v32 שָׁט֔וֹחַ|šā·ṭō·w·aḥ|-|H7849|V-Qal-InfAbs
 v32 סְבִיב֖וֹת|sə·ḇî·ḇō·wṯ|all around|H5439|Adv
 v32 הַֽמַּחֲנֶֽה׃|ham·ma·ḥă·neh|the camp|H4264|Art | N-cs
@@ -526,13 +526,13 @@ v33 יְהוָה֙|Yah·weh|and the LORD|H3068|N-proper-ms
 v33 בָּעָ֔ם|bā·‘ām|them|H5971|Prep-b, Art | N-ms
 v33 מַכָּ֖ה|mak·kāh|plague|H4347|N-fs
 v33 רַבָּ֥ה|rab·bāh|with a severe|H7227|Adj-fs
-v33 מְאֹֽד׃|mə·’ōḏ||H3966|Adv
+v33 מְאֹֽד׃|mə·’ōḏ|-|H3966|Adv
 v34 וַיִּקְרָ֛א|way·yiq·rā|So they called|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v34 אֶת־|’eṯ-|-|H853|DirObjM
 v34 שֵֽׁם־|šêm-|-|H8034|N-msc
 v34 הַמָּק֥וֹם|ham·mā·qō·wm|place|H4725|Art | N-ms
 v34 הַה֖וּא|ha·hū|that|H1931|Art | Pro-3ms
-v34 קִבְר֣וֹת|qiḇ·rō·wṯ|vvv|H6914|
+v34 קִבְר֣וֹת|qiḇ·rō·wṯ|...|H6914|
 v34 הַֽתַּאֲוָ֑ה|hat·ta·’ă·wāh|Kibroth-hattaavah|H6914|N-proper-fs
 v34 כִּי־|kî-|because|H3588|Conj
 v34 שָׁם֙|šām|there|H8033|Adv
@@ -546,4 +546,4 @@ v35 נָסְע֥וּ|nā·sə·‘ū|moved on|H5265|V-Qal-Perf-3cp
 v35 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
 v35 חֲצֵר֑וֹת|ḥă·ṣê·rō·wṯ|to Hazeroth|H2698|N-proper-fs
 v35 וַיִּהְי֖וּ|way·yih·yū|where they remained for some time|H1961|Conj-w | V-Qal-ConsecImperf-3mp
-v35 בַּחֲצֵרֽוֹת׃פ|ba·ḥă·ṣê·rō·wṯ|...|H2698|Prep-b | N-proper-fs
+v35 בַּחֲצֵרֽוֹת׃|ba·ḥă·ṣê·rō·wṯ|...|H2698|Prep-b | N-proper-fs

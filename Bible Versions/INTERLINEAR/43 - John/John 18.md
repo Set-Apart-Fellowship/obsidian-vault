@@ -17,11 +17,11 @@ v1 κῆπος|kēpos|a garden|G2779|N-NMS
 v1 εἰς|eis|...|G1519|Prep
 v1 ὃν|hon|-|G3739|RelPro-AMS
 v1 εἰσῆλθεν|eisēlthen|entered|G1525|V-AIA-3S
-v1 αὐτὸς|autos|vvv|G846|PPro-NM3S
-v1 καὶ|kai|vvv|G2532|Conj
-v1 οἱ|hoi|vvv|G3588|Art-NMP
+v1 αὐτὸς|autos|...|G846|PPro-NM3S
+v1 καὶ|kai|...|G2532|Conj
+v1 οἱ|hoi|...|G3588|Art-NMP
 v1 μαθηταὶ|mathētai|[they]|G3101|N-NMP
-v1 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v1 αὐτοῦ|autou|...|G846|PPro-GM3S
 v2 ᾔδει|ēdei|knew|G1492|V-LIA-3S
 v2 δὲ|de|Now|G1161|Conj
 v2 καὶ|kai|also|G2532|Conj
@@ -144,7 +144,7 @@ v9 ὅτι|hoti|-|G3754|Conj
 v9 Οὓς|Hous|those|G3739|RelPro-AMP
 v9 δέδωκάς|dedōkas|You have given|G1325|V-RIA-2S
 v9 μοι|moi|Me|G1473|PPro-D1S
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἀπώλεσα|apōlesa|I have not lost one|G622|V-AIA-1S
 v9 ἐξ|ex|of|G1537|Prep
 v9 αὐτῶν|autōn|-|G846|PPro-GM3P
@@ -194,8 +194,8 @@ v11 δέδωκέν|dedōken|has given|G1325|V-RIA-3S
 v11 μοι|moi|Me|G1473|PPro-D1S
 v11 ὁ|ho|the|G3588|Art-NMS
 v11 Πατήρ|Patēr|Father|G3962|N-NMS
-v11 οὐ|ou|vvv|G3756|Adv
-v11 μὴ|mē|vvv|G3361|Adv
+v11 οὐ|ou|...|G3756|Adv
+v11 μὴ|mē|...|G3361|Adv
 v11 πίω|piō|Shall I not drink|G4095|V-ASA-1S
 v11 αὐτό|auto|-|G846|PPro-AN3S
 v12 Ἡ|Hē|the|G3588|Art-NFS
@@ -263,7 +263,7 @@ v15 ἦν|ēn|was|G1510|V-IIA-3S
 v15 γνωστὸς|gnōstos|known|G1110|Adj-NMS
 v15 τῷ|tō|to the|G3588|Art-DMS
 v15 ἀρχιερεῖ|archierei|high priest|G749|N-DMS
-v15 καὶ|kai|vvv|G2532|Conj
+v15 καὶ|kai|...|G2532|Conj
 v15 συνεισῆλθεν|syneisēlthen|he also went|G4897|V-AIA-3S
 v15 τῷ|tō|-|G3588|Art-DMS
 v15 Ἰησοῦ|Iēsou|with Jesus|G2424|N-DMS
@@ -392,7 +392,7 @@ v21 ἐρωτᾷς|erōtas|are you asking|G2065|V-PIA-2S
 v21 ἐρώτησον|erōtēson|Ask|G2065|V-AMA-2S
 v21 τοὺς|tous|those who|G3588|Art-AMP
 v21 ἀκηκοότας|akēkootas|heard|G191|V-RPA-AMP
-v21 τί|ti|vvv|G5101|IPro-ANS
+v21 τί|ti|...|G5101|IPro-ANS
 v21 ἐλάλησα|elalēsa|My message|G2980|V-AIA-1S
 v21 αὐτοῖς|autois|...|G846|PPro-DM3P
 v21 ἴδε|ide|Surely|G2400|V-AMA-2S
@@ -409,7 +409,7 @@ v22 εἷς|heis|one|G1520|Adj-NMS
 v22 παρεστηκὼς|parestēkōs|standing nearby|G3936|V-RPA-NMS
 v22 τῶν|tōn|of the|G3588|Art-GMP
 v22 ὑπηρετῶν|hypēretōn|officers|G5257|N-GMP
-v22 ἔδωκεν|edōken|vvv|G1325|V-AIA-3S
+v22 ἔδωκεν|edōken|...|G1325|V-AIA-3S
 v22 ῥάπισμα|rhapisma|slapped [Him] in the face|G4475|N-ANS
 v22 τῷ|tō|...|G3588|Art-DMS
 v22 Ἰησοῦ|Iēsou|...|G2424|N-DMS
@@ -473,7 +473,7 @@ v26 εἷς|heis|One|G1520|Adj-NMS
 v26 ἐκ|ek|of|G1537|Prep
 v26 τῶν|tōn|the|G3588|Art-GMP
 v26 δούλων|doulōn|servants|G1401|N-GMP
-v26 τοῦ|tou|vvv|G3588|Art-GMS
+v26 τοῦ|tou|...|G3588|Art-GMS
 v26 ἀρχιερέως|archiereōs|high priest's|G749|N-GMS
 v26 συγγενὴς|syngenēs|a relative|G4773|Adj-NMS
 v26 ὢν|ōn|-|G1510|V-PPA-NMS
@@ -492,7 +492,7 @@ v26 κήπῳ|kēpō|garden|G2779|N-DMS
 v26 μετ’|met’|with|G3326|Prep
 v26 αὐτοῦ|autou|Him|G846|PPro-GM3S
 v27 Πάλιν|Palin|once more|G3825|Adv
-v27 οὖν|oun|vvv|G3767|Conj
+v27 οὖν|oun|...|G3767|Conj
 v27 ἠρνήσατο|ērnēsato|denied [it]|G720|V-AIM-3S
 v27 Πέτρος|Petros|Peter|G4074|N-NMS
 v27 καὶ|kai|and|G2532|Conj
@@ -551,9 +551,9 @@ v30 μὴ|mē|not|G3361|Adv
 v30 ἦν|ēn|were|G1510|V-IIA-3S
 v30 οὗτος|houtos|He|G3778|DPro-NMS
 v30 κακὸν|kakon|a criminal|G2556|Adj-ANS
-v30 ποιῶν|poiōn|vvv|G4160|V-PPA-NMS
-v30 οὐκ|ouk|vvv|G3756|Adv
-v30 ἄν|an|vvv|G302|Prtcl
+v30 ποιῶν|poiōn|...|G4160|V-PPA-NMS
+v30 οὐκ|ouk|...|G3756|Adv
+v30 ἄν|an|...|G302|Prtcl
 v30 σοι|soi|to you|G4771|PPro-D2S
 v30 παρεδώκαμεν|paredōkamen|we would not have handed Him over|G3860|V-AIA-1P
 v30 αὐτόν|auton|...|G846|PPro-AM3S
@@ -577,7 +577,7 @@ v31 αὐτῷ|autō|-|G846|PPro-DM3S
 v31 οἱ|hoi|the|G3588|Art-NMP
 v31 Ἰουδαῖοι|Ioudaioi|Jews|G2453|Adj-NMP
 v31 Ἡμῖν|Hēmin|...|G1473|PPro-D1P
-v31 οὐκ|ouk|vvv|G3756|Adv
+v31 οὐκ|ouk|...|G3756|Adv
 v31 ἔξεστιν|exestin|We are not permitted|G1832|V-PIA-3S
 v31 ἀποκτεῖναι|apokteinai|to execute anyone|G615|V-ANA
 v31 οὐδένα|oudena|...|G3762|Adj-AMS
@@ -665,10 +665,10 @@ v36 τοῦ|tou|-|G3588|Art-GMS
 v36 κόσμου|kosmou|-|G2889|N-GMS
 v36 τούτου|toutou|-|G3778|DPro-GMS
 v36 ἦν|ēn|were|G1510|V-IIA-3S
-v36 ἡ|hē|vvv|G3588|Art-NFS
+v36 ἡ|hē|...|G3588|Art-NFS
 v36 βασιλεία|basileia|[it]|G932|N-NFS
 v36 ἡ|hē|-|G3588|Art-NFS
-v36 ἐμή|emē|vvv|G1699|PPro-NF1S
+v36 ἐμή|emē|...|G1699|PPro-NF1S
 v36 οἱ|hoi|-|G3588|Art-NMP
 v36 ὑπηρέται|hypēretai|servants|G5257|N-NMP
 v36 ἄν|an|-|G302|Art-NMP
@@ -676,7 +676,7 @@ v36 «οἱ|hoi|-|G3588|Art-NMP
 v36 ἐμοὶ|emoi|My|G1699|PPro-D1S
 v36 ἠγωνίζοντο»|ēgōnizonto|would fight|G75|V-IIM/P-3P
 v36 ἵνα|hina|to|G2443|Conj
-v36 μὴ|mē|vvv|G3361|Adv
+v36 μὴ|mē|...|G3361|Adv
 v36 παραδοθῶ|paradothō|prevent My arrest|G3860|V-ASP-1S
 v36 τοῖς|tois|by the|G3588|Art-DMP
 v36 Ἰουδαίοις|Ioudaiois|Jews|G2453|Adj-DMP

@@ -34,7 +34,7 @@ v5 מַחְשְׁב֣וֹת|maḥ·šə·ḇō·wṯ|The plans|H4284|N-fpc
 v5 חָ֭רוּץ|ḥā·rūṣ|of the diligent|H2742|Adj-ms
 v5 אַךְ־|’aḵ-|-|H389|Adv
 v5 לְמוֹתָ֑ר|lə·mō·w·ṯār|bring plenty|H4195|Prep-l | N-ms
-v5 וְכָל־|wə·ḵāl||H3605|Conj-w | N-msc
+v5 וְכָל־|wə·ḵāl|-|H3605|Conj-w | N-msc
 v5 אָ֝֗ץ|’āṣ|as haste [leads]|H213|V-Qal-Prtcpl-ms
 v5 אַךְ־|’aḵ-|as surely|H389|Adv
 v5 לְמַחְסֽוֹר׃|lə·maḥ·sō·wr|to poverty|H4270|Prep-l | N-ms
@@ -99,7 +99,7 @@ v13 דָּ֑ל|dāl|of the poor|H1800|Adj-msc
 v13 גַּֽם־|gam-|too|H1571|Conj
 v13 ה֥וּא|hū|he|H1931|Pro-3ms
 v13 יִ֝קְרָ֗א|yiq·rā|shall cry out|H7121|V-Qal-Imperf-3ms
-v13 וְלֹ֣א|wə·lō|vvv|H3808|Conj-w | Adv-NegPrt
+v13 וְלֹ֣א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v13 יֵעָנֶֽה׃|yê·‘ā·neh|and receive no answer|H6030|V-Nifal-Imperf-3ms
 v14 מַתָּ֣ן|mat·tān|A gift|H4976|N-ms
 v14 בַּ֭סֵּתֶר|bas·sê·ṯer|in secret|H5643|Prep-b, Art | N-ms
@@ -224,7 +224,7 @@ v30 תְּבוּנָ֑ה|tə·ḇū·nāh|understanding|H8394|N-fs
 v30 וְאֵ֥ין|wə·’ên|no|H369|Conj-w | Adv
 v30 עֵ֝צָ֗ה|‘ê·ṣāh|counsel|H6098|N-fs
 v30 לְנֶ֣גֶד|lə·ne·ḡeḏ|[that] can prevail against|H5048|Prep-l
-v30 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v30 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v31 ס֗וּס|sūs|A horse|H5483|N-ms
 v31 מ֭וּכָן|mū·ḵān|is prepared|H3559|V-Hofal-Prtcpl-ms
 v31 לְי֣וֹם|lə·yō·wm|for the day|H3117|Prep-l | N-msc

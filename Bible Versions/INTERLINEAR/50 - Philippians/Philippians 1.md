@@ -34,9 +34,9 @@ v3 Εὐχαριστῶ|Eucharistō|I thank|G2168|V-PIA-1S
 v3 τῷ|tō|-|G3588|Art-DMS
 v3 Θεῷ|Theō|God|G2316|N-DMS
 v3 μου|mou|my|G1473|PPro-G1S
-v3 ἐπὶ|epi|vvv|G1909|Prep
+v3 ἐπὶ|epi|...|G1909|Prep
 v3 πάσῃ|pasē|every time|G3956|Adj-DFS
-v3 τῇ|tē|vvv|G3588|Art-DFS
+v3 τῇ|tē|...|G3588|Art-DFS
 v3 μνείᾳ|mneia|I remember|G3417|N-DFS
 v3 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v4 πάντοτε|pantote|always|G3842|Adv
@@ -49,9 +49,9 @@ v4 πάντων|pantōn|all|G3956|Adj-GMP
 v4 ὑμῶν|hymōn|of you|G4771|PPro-G2P
 v4 μετὰ|meta|with|G3326|Prep
 v4 χαρᾶς|charas|joy|G5479|N-GFS
-v4 τὴν|tēn|vvv|G3588|Art-AFS
+v4 τὴν|tēn|...|G3588|Art-AFS
 v4 δέησιν|deēsin|pray|G1162|N-AFS
-v4 ποιούμενος|poioumenos|vvv|G4160|V-PPM-NMS
+v4 ποιούμενος|poioumenos|...|G4160|V-PPM-NMS
 v5 ἐπὶ|epi|because of|G1909|Prep
 v5 τῇ|tē|-|G3588|Art-DFS
 v5 κοινωνίᾳ|koinōnia|partnership|G2842|N-DFS
@@ -138,7 +138,7 @@ v9 ἵνα|hina|that|G2443|Conj
 v9 ἡ|hē|-|G3588|Art-NFS
 v9 ἀγάπη|agapē|love|G26|N-NFS
 v9 ὑμῶν|hymōn|your|G4771|PPro-G2P
-v9 ἔτι|eti|vvv|G2089|Adv
+v9 ἔτι|eti|...|G2089|Adv
 v9 μᾶλλον|mallon|more|G3123|Adv
 v9 καὶ|kai|and|G2532|Conj
 v9 μᾶλλον|mallon|more|G3123|Adv
@@ -311,8 +311,8 @@ v20 ἐν|en|...|G1722|Prep
 v20 οὐδενὶ|oudeni|...|G3762|Adj-DNS
 v20 αἰσχυνθήσομαι|aischynthēsomai|I will in no way be ashamed|G153|V-FIP-1S
 v20 ἀλλ’|all’|but|G235|Conj
-v20 ἐν|en|vvv|G1722|Prep
-v20 πάσῃ|pasē|vvv|G3956|Adj-DFS
+v20 ἐν|en|...|G1722|Prep
+v20 πάσῃ|pasē|...|G3956|Adj-DFS
 v20 παρρησίᾳ|parrēsia|will have complete boldness|G3954|N-DFS
 v20 ὡς|hōs|as|G5613|Adv
 v20 πάντοτε|pantote|always|G3842|Adv
@@ -352,18 +352,18 @@ v22 ἔργου|ergou|labor|G2041|N-GNS
 v22 καὶ|kai|So|G2532|Conj
 v22 τί|ti|what|G5101|IPro-ANS
 v22 αἱρήσομαι|hairēsomai|shall I choose|G138|V-FIM-1S
-v22 οὐ|ou|vvv|G3756|Adv
+v22 οὐ|ou|...|G3756|Adv
 v22 γνωρίζω|gnōrizō|I do not know|G1107|V-PIA-1S
 v23 συνέχομαι|synechomai|I am torn|G4912|V-PIM/P-1S
 v23 δὲ|de|-|G1161|Conj
 v23 ἐκ|ek|between|G1537|Prep
 v23 τῶν|tōn|the|G3588|Art-GNP
 v23 δύο|dyo|two|G1417|Adj-GNP
-v23 τὴν|tēn|vvv|G3588|Art-AFS
+v23 τὴν|tēn|...|G3588|Art-AFS
 v23 ἐπιθυμίαν|epithymian|I desire|G1939|N-AFS
-v23 ἔχων|echōn|vvv|G2192|V-PPA-NMS
-v23 εἰς|eis|vvv|G1519|Prep
-v23 τὸ|to|vvv|G3588|Art-ANS
+v23 ἔχων|echōn|...|G2192|V-PPA-NMS
+v23 εἰς|eis|...|G1519|Prep
+v23 τὸ|to|...|G3588|Art-ANS
 v23 ἀναλῦσαι|analysai|to depart|G360|V-ANA
 v23 καὶ|kai|and|G2532|Conj
 v23 σὺν|syn|with|G4862|Prep
@@ -492,10 +492,10 @@ v30 ἀγῶνα|agōna|struggle|G73|N-AMS
 v30 ἔχοντες|echontes|[since] you are encountering|G2192|V-PPA-NMP
 v30 οἷον|hoion|-|G3634|RelPro-AMS
 v30 εἴδετε|eidete|you saw|G3708|V-AIA-2P
-v30 ἐν|en|vvv|G1722|Prep
+v30 ἐν|en|...|G1722|Prep
 v30 ἐμοὶ|emoi|I had|G1473|PPro-D1S
 v30 καὶ|kai|and [now]|G2532|Conj
 v30 νῦν|nyn|...|G3568|Adv
 v30 ἀκούετε|akouete|hear that|G191|V-PIA-2P
-v30 ἐν|en|vvv|G1722|Prep
+v30 ἐν|en|...|G1722|Prep
 v30 ἐμοί|emoi|I still have|G1473|PPro-D1S

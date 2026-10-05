@@ -11,7 +11,7 @@ v1 בַגּוֹיִ֗ם|ḇag·gō·w·yim|among the nations|H1471|Prep-b, Art |
 v1 שָׂרָ֙תִי֙|śā·rā·ṯî|The princess|H8282|N-fsc
 v1 בַּמְּדִינ֔וֹת|bam·mə·ḏî·nō·wṯ|of the provinces|H4082|Prep-b, Art | N-fp
 v1 הָיְתָ֖ה|hā·yə·ṯāh|has become|H1961|V-Qal-Perf-3fs
-v1 לָמַֽס׃ס|lā·mas|a slave|H4522|Prep-l | N-ms
+v1 לָמַֽס׃|lā·mas|a slave|H4522|Prep-l | N-ms
 v2 בָּכ֨וֹ|bā·ḵōw|She weeps aloud|H1058|V-Qal-InfAbs
 v2 תִבְכֶּ֜ה|ṯiḇ·keh|...|H1058|V-Qal-Imperf-3fs
 v2 בַּלַּ֗יְלָה|bal·lay·lāh|in the night|H3915|Prep-b, Art | N-ms
@@ -19,7 +19,7 @@ v2 וְדִמְעָתָהּ֙|wə·ḏim·‘ā·ṯāh|with tears|H1832|Conj-w 
 v2 עַ֣ל|‘al|upon|H5921|Prep
 v2 לֶֽחֱיָ֔הּ|le·ḥĕ·yāh|her cheeks|H3895|N-fsc | 3fs
 v2 אֵֽין־|’ên-|there is no one|H369|Adv
-v2 לָ֥הּ|lāh||H0|Prep | 3fs
+v2 לָ֥הּ|lāh|-|H0|Prep | 3fs
 v2 מְנַחֵ֖ם|mə·na·ḥêm|to comfort [her]|H5162|V-Piel-Prtcpl-ms
 v2 מִכָּל־|mik·kāl|Among all|H3605|Prep-m | N-msc
 v2 אֹהֲבֶ֑יהָ|’ō·hă·ḇe·hā|her lovers|H157|V-Qal-Prtcpl-mpc | 3fs
@@ -29,7 +29,7 @@ v2 בָּ֣גְדוּ|bā·ḡə·ḏū|have betrayed|H898|V-Qal-Perf-3cp
 v2 בָ֔הּ|ḇāh|her|H0|Prep | 3fs
 v2 הָ֥יוּ|hā·yū|they have become|H1961|V-Qal-Perf-3cp
 v2 לָ֖הּ|lāh|her|H0|Prep | 3fs
-v2 לְאֹיְבִֽים׃ס|lə·’ō·yə·ḇîm|enemies|H341|Prep-l | V-Qal-Prtcpl-mp
+v2 לְאֹיְבִֽים׃|lə·’ō·yə·ḇîm|enemies|H341|Prep-l | V-Qal-Prtcpl-mp
 v3 גָּֽלְתָ֨ה|gā·lə·ṯāh|has gone into exile|H1540|V-Qal-Perf-3fs
 v3 יְהוּדָ֤ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v3 מֵעֹ֙נִי֙|mê·‘ō·nî|under affliction|H6040|Prep-m | N-ms
@@ -45,7 +45,7 @@ v3 כָּל־|kāl-|All|H3605|N-msc
 v3 רֹדְפֶ֥יהָ|rō·ḏə·p̄e·hā|her pursuers|H7291|V-Qal-Prtcpl-mpc | 3fs
 v3 הִשִּׂיג֖וּהָ|hiś·śî·ḡū·hā|have overtaken her|H5381|V-Hifil-Perf-3cp | 3fs
 v3 בֵּ֥ין|bên|in the midst|H996|Prep
-v3 הַמְּצָרִֽים׃ס|ham·mə·ṣā·rîm|of her distress|H4712|Art | N-mp
+v3 הַמְּצָרִֽים׃|ham·mə·ṣā·rîm|of her distress|H4712|Art | N-mp
 v4 דַּרְכֵ֨י|dar·ḵê|The roads|H1870|N-cpc
 v4 צִיּ֜וֹן|ṣî·yō·wn|to Zion|H6726|N-proper-fs
 v4 אֲבֵל֗וֹת|’ă·ḇê·lō·wṯ|mourn|H57|Adj-fp
@@ -61,7 +61,7 @@ v4 בְּתוּלֹתֶ֥יהָ|bə·ṯū·lō·ṯe·hā|her maidens|H1330|N-f
 v4 נּוּג֖וֹת|nū·ḡōṯ|grieve|H3013|V-Nifal-Prtcpl-fp
 v4 וְהִ֥יא|wə·hî|and she herself|H1931|Conj-w | Pro-3fs
 v4 מַר־|mar-|is bitter with anguish|H4751|V-Qal-Perf-3ms
-v4 לָֽהּ׃ס|lāh||H0|Prep | 3fs
+v4 לָֽהּ׃|lāh|-|H0|Prep | 3fs
 v5 הָי֨וּ|hā·yū|have become|H1961|V-Qal-Perf-3cp
 v5 צָרֶ֤יהָ|ṣā·re·hā|Her foes|H6862|N-mpc | 3fs
 v5 לְרֹאשׁ֙|lə·rōš|her masters|H7218|Prep-l | N-ms
@@ -77,7 +77,7 @@ v5 עוֹלָלֶ֛יהָ|‘ō·w·lā·le·hā|Her children|H5768|N-mpc | 3fs
 v5 הָלְכ֥וּ|hā·lə·ḵū|have gone away|H1980|V-Qal-Perf-3cp
 v5 שְׁבִ֖י|šə·ḇî|as captives|H7628|N-ms
 v5 לִפְנֵי־|lip̄·nê-|before|H6440|Prep-l | N-mpc
-v5 צָֽר׃ס|ṣār|the enemy|H6862|N-ms
+v5 צָֽר׃|ṣār|the enemy|H6862|N-ms
 v6 וַיֵּצֵ֥א|way·yê·ṣê|has departed|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v6 מִן־|min-|from|H4480|Prep
 v6 בַּת|baṯ|the Daughter|H1323|N-fsc
@@ -94,7 +94,7 @@ v6 וַיֵּלְכ֥וּ|way·yê·lə·ḵū|to flee|H1980|Conj-w | V-Qal-Cons
 v6 בְלֹא־|ḇə·lō-|they lack|H3808|Prep-b | Adv-NegPrt
 v6 כֹ֖חַ|ḵō·aḥ|the strength|H3581|N-ms
 v6 לִפְנֵ֥י|lip̄·nê|in the face of|H6440|Prep-l | N-cpc
-v6 רוֹדֵֽף׃ס|rō·w·ḏêp̄|the hunter|H7291|V-Qal-Prtcpl-ms
+v6 רוֹדֵֽף׃|rō·w·ḏêp̄|the hunter|H7291|V-Qal-Prtcpl-ms
 v7 זָֽכְרָ֣ה|zā·ḵə·rāh|remembers|H2142|V-Qal-Perf-3fs
 v7 יְרוּשָׁלִַ֗ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v7 יְמֵ֤י|yə·mê|In the days|H3117|N-mpc
@@ -117,7 +117,7 @@ v7 רָא֣וּהָ|rā·’ū·hā|looked upon her|H7200|V-Qal-Perf-3cp | 3fs
 v7 צָרִ֔ים|ṣā·rîm|Her enemies|H6862|N-mp
 v7 שָׂחֲק֖וּ|śā·ḥă·qū|laughing|H7832|V-Qal-Perf-3cp
 v7 עַ֥ל|‘al|at|H5921|Prep
-v7 מִשְׁבַּתֶּֽהָ׃ס|miš·bat·te·hā|her downfall|H4868|N-fpc | 2ms
+v7 מִשְׁבַּתֶּֽהָ׃|miš·bat·te·hā|her downfall|H4868|N-fpc | 2ms
 v8 חֵ֤טְא|ḥêṭ|has sinned greatly|H2399|N-ms
 v8 חָֽטְאָה֙|ḥā·ṭə·’āh|...|H2398|V-Qal-Perf-3fs
 v8 יְר֣וּשָׁלִַ֔ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
@@ -135,7 +135,7 @@ v8 גַּם־|gam-|...|H1571|Conj
 v8 הִ֥יא|hî|she herself|H1931|Pro-3fs
 v8 נֶאֶנְחָ֖ה|ne·’en·ḥāh|groans|H584|V-Nifal-Perf-3fs
 v8 וַתָּ֥שָׁב|wat·tā·šāḇ|and turns|H7725|Conj-w | V-Qal-ConsecImperf-3fs
-v8 אָחֽוֹר׃ס|’ā·ḥō·wr|away|H268|N-ms
+v8 אָחֽוֹר׃|’ā·ḥō·wr|away|H268|N-ms
 v9 טֻמְאָתָ֣הּ|ṭum·’ā·ṯāh|Her uncleanness|H2932|N-fsc | 3fs
 v9 בְּשׁוּלֶ֗יהָ|bə·šū·le·hā|stains her skirts|H7757|Prep-b | N-mpc | 3fs
 v9 לֹ֤א|lō|she did not|H3808|Adv-NegPrt
@@ -152,7 +152,7 @@ v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 עָנְיִ֔י|‘ā·nə·yî|on my affliction|H6040|N-msc | 1cs
 v9 כִּ֥י|kî|for|H3588|Conj
 v9 הִגְדִּ֖יל|hiḡ·dîl|has triumphed|H1431|V-Hifil-Perf-3ms
-v9 אוֹיֵֽב׃ס|’ō·w·yêḇ|the enemy|H341|V-Qal-Prtcpl-ms
+v9 אוֹיֵֽב׃|’ō·w·yêḇ|the enemy|H341|V-Qal-Prtcpl-ms
 v10 יָדוֹ֙|yā·ḏōw|has seized|H3027|N-fsc | 3ms
 v10 פָּ֣רַשׂ|pā·raś|...|H6566|V-Qal-Perf-3ms
 v10 צָ֔ר|ṣār|The adversary|H6862|N-ms
@@ -169,7 +169,7 @@ v10 צִוִּ֔יתָה|ṣiw·wî·ṯāh|You had forbidden|H6680|V-Piel-Perf-
 v10 לֹא־|lō-|...|H3808|Adv-NegPrt
 v10 יָבֹ֥אוּ|yā·ḇō·’ū|to enter|H935|V-Qal-Imperf-3mp
 v10 בַקָּהָ֖ל|ḇaq·qā·hāl|Your assembly|H6951|Prep-b, Art | N-ms
-v10 לָֽךְ׃ס|lāḵ||H0|Prep | 2fs
+v10 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs
 v11 כָּל־|kāl-|All|H3605|N-msc
 v11 עַמָּ֤הּ|‘am·māh|her people|H5971|N-msc | 3fs
 v11 נֶאֱנָחִים֙|ne·’ĕ·nā·ḥîm|groan|H584|V-Nifal-Prtcpl-mp
@@ -185,7 +185,7 @@ v11 יְהוָה֙|Yah·weh|O LORD|H3068|N-proper-ms
 v11 וְֽהַבִּ֔יטָה|wə·hab·bî·ṭāh|and consider|H5027|Conj-w | V-Hifil-Imp-ms | 3fs
 v11 כִּ֥י|kî|for|H3588|Conj
 v11 הָיִ֖יתִי|hā·yî·ṯî|I have become|H1961|V-Qal-Perf-1cs
-v11 זוֹלֵלָֽה׃ס|zō·w·lê·lāh|despised|H2151|V-Qal-Prtcpl-fs
+v11 זוֹלֵלָֽה׃|zō·w·lê·lāh|despised|H2151|V-Qal-Prtcpl-fs
 v12 ל֣וֹא|lō·w|Is this nothing|H3808|Adv-NegPrt
 v12 אֲלֵיכֶם֮|’ă·lê·ḵem|to you|H413|Prep | 2mp
 v12 כָּל־|kāl-|all|H3605|N-msc
@@ -205,7 +205,7 @@ v12 הוֹגָ֣ה|hō·w·ḡāh|made me suffer|H3013|V-Hifil-Perf-3ms
 v12 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v12 בְּי֖וֹם|bə·yō·wm|on the day|H3117|Prep-b | N-msc
 v12 חֲר֥וֹן|ḥă·rō·wn|of His fierce|H2740|N-msc
-v12 אַפּֽוֹ׃ס|’ap·pōw|anger|H639|N-msc | 3ms
+v12 אַפּֽוֹ׃|’ap·pōw|anger|H639|N-msc | 3ms
 v13 מִמָּר֛וֹם|mim·mā·rō·wm|from on high|H4791|Prep-m | N-ms
 v13 שָֽׁלַח־|šā·laḥ-|He sent|H7971|V-Qal-Perf-3ms
 v13 אֵ֥שׁ|’êš|fire|H784|N-cs
@@ -220,7 +220,7 @@ v13 נְתָנַ֙נִי֙|nə·ṯā·na·nî|He made me|H5414|V-Qal-Perf-3ms |
 v13 שֹֽׁמֵמָ֔ה|šō·mê·māh|desolate|H8076|V-Qal-Prtcpl-fs
 v13 כָּל־|kāl-|all|H3605|N-msc
 v13 הַיּ֖וֹם|hay·yō·wm|the day long|H3117|Art | N-ms
-v13 דָּוָֽה׃ס|dā·wāh|faint|H1739|Adj-fs
+v13 דָּוָֽה׃|dā·wāh|faint|H1739|Adj-fs
 v14 נִשְׂקַד֩|niś·qaḏ|are bound into|H8244|V-Nifal-Perf-3ms
 v14 עֹ֨ל|‘ōl|a yoke|H5923|N-msc
 v14 פְּשָׁעַ֜י|pə·šā·‘ay|My transgressions|H6588|N-mpc | 1cs
@@ -236,7 +236,7 @@ v14 אֲדֹנָ֔י|’ă·ḏō·nāy|and the Lord|H136|N-proper-ms
 v14 בִּידֵ֖י|bî·ḏê|into the hands|H3027|Prep-b | N-fdc
 v14 לֹא־|lō-|of those I cannot|H3808|Adv-NegPrt
 v14 אוּכַ֥ל|’ū·ḵal|...|H3201|V-Qal-Imperf-1cs
-v14 קֽוּם׃ס|qūm|withstand|H6965|V-Qal-Inf
+v14 קֽוּם׃|qūm|withstand|H6965|V-Qal-Inf
 v15 סִלָּ֨ה|sil·lāh|has rejected|H5541|V-Piel-Perf-3ms
 v15 כָל־|ḵāl|all|H3605|N-msc
 v15 אַבִּירַ֤י׀|’ab·bî·ray|the mighty men|H47|Adj-mpc | 1cs
@@ -252,7 +252,7 @@ v15 דָּרַ֣ךְ|dā·raḵ|has trampled|H1869|V-Qal-Perf-3ms
 v15 אֲדֹנָ֔י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v15 לִבְתוּלַ֖ת|liḇ·ṯū·laṯ|the Virgin|H1330|Prep-l | N-fsc
 v15 בַּת־|baṯ-|Daughter|H1323|N-fsc
-v15 יְהוּדָֽה׃ס|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
+v15 יְהוּדָֽה׃|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v16 עַל־|‘al-|For|H5921|Prep
 v16 אֵ֣לֶּה׀|’êl·leh|these things|H428|Pro-cp
 v16 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
@@ -272,7 +272,7 @@ v16 בָנַי֙|ḇā·nay|My children|H1121|N-mpc | 1cs
 v16 שֽׁוֹמֵמִ֔ים|šō·w·mê·mîm|destitute|H8074|V-Qal-Prtcpl-mp
 v16 כִּ֥י|kî|because|H3588|Conj
 v16 גָבַ֖ר|ḡā·ḇar|has prevailed|H1396|V-Qal-Perf-3ms
-v16 אוֹיֵֽב׃ס|’ō·w·yêḇ|the enemy|H341|V-Qal-Prtcpl-ms
+v16 אוֹיֵֽב׃|’ō·w·yêḇ|the enemy|H341|V-Qal-Prtcpl-ms
 v17 פֵּֽרְשָׂ֨ה|pê·rə·śāh|stretches out|H6566|V-Piel-Perf-3fs
 v17 צִיּ֜וֹן|ṣî·yō·wn|Zion|H6726|N-proper-fs
 v17 בְּיָדֶ֗יהָ|bə·yā·ḏe·hā|her hands|H3027|Prep-b | N-fdc | 3fs
@@ -287,7 +287,7 @@ v17 צָרָ֑יו|ṣā·rāw|become his foes|H6862|N-mpc | 3ms
 v17 הָיְתָ֧ה|hā·yə·ṯāh|has become|H1961|V-Qal-Perf-3fs
 v17 יְרוּשָׁלִַ֛ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v17 לְנִדָּ֖ה|lə·nid·dāh|an unclean thing|H5079|Prep-l | N-fs
-v17 בֵּינֵיהֶֽם׃ס|bê·nê·hem|among them|H996|Prep | 3mp
+v17 בֵּינֵיהֶֽם׃|bê·nê·hem|among them|H996|Prep | 3mp
 v18 צַדִּ֥יק|ṣad·dîq|is righteous|H6662|Adj-ms
 v18 ה֛וּא|hū|...|H1931|Pro-3ms
 v18 יְהוָ֖ה|Yah·weh|The LORD|H3068|N-proper-ms
@@ -303,7 +303,7 @@ v18 מַכְאֹבִ֔י|maḵ·’ō·ḇî|my suffering|H4341|N-msc | 1cs
 v18 בְּתוּלֹתַ֥י|bə·ṯū·lō·ṯay|and maidens|H1330|N-fpc | 1cs
 v18 וּבַחוּרַ֖י|ū·ḇa·ḥū·ray|My young men|H970|Conj-w | N-mpc | 1cs
 v18 הָלְכ֥וּ|hā·lə·ḵū|have gone|H1980|V-Qal-Perf-3cp
-v18 בַשֶּֽׁבִי׃ס|ḇaš·še·ḇî|into captivity|H7628|Prep-b, Art | N-ms
+v18 בַשֶּֽׁבִי׃|ḇaš·še·ḇî|into captivity|H7628|Prep-b, Art | N-ms
 v19 קָרָ֤אתִי|qā·rā·ṯî|I called out|H7121|V-Qal-Perf-1cs
 v19 לַֽמְאַהֲבַי֙|lam·’a·hă·ḇay|to my lovers|H157|Prep-l, Art | V-Piel-Prtcpl-mpc | 1cs
 v19 הֵ֣מָּה|hêm·māh|but they|H1992|Pro-3mp
@@ -315,10 +315,10 @@ v19 גָּוָ֑עוּ|gā·wā·‘ū|perished|H1478|V-Qal-Perf-3cp
 v19 כִּֽי־|kî-|while|H3588|Conj
 v19 בִקְשׁ֥וּ|ḇiq·šū|they searched for|H1245|V-Piel-Perf-3cp
 v19 אֹ֙כֶל֙|’ō·ḵel|food|H400|N-ms
-v19 לָ֔מוֹ|lā·mōw||H0|Prep | 3mp
+v19 לָ֔מוֹ|lā·mōw|-|H0|Prep | 3mp
 v19 וְיָשִׁ֖יבוּ|wə·yā·šî·ḇū|to keep themselves|H7725|Conj-w | V-Hifil-ConjImperf-3mp
 v19 אֶת־|’eṯ-|-|H853|DirObjM
-v19 נַפְשָֽׁם׃ס|nap̄·šām|alive|H5315|N-fsc | 3mp
+v19 נַפְשָֽׁם׃|nap̄·šām|alive|H5315|N-fsc | 3mp
 v20 רְאֵ֨ה|rə·’êh|See|H7200|V-Qal-Imp-ms
 v20 יְהוָ֤ה|Yah·weh|O LORD|H3068|N-proper-ms
 v20 כִּֽי־|kî-|how|H3588|Conj
@@ -336,9 +336,9 @@ v20 מִח֥וּץ|mi·ḥūṣ|Outside|H2351|Prep-m | N-ms
 v20 שִׁכְּלָה־|šik·kə·lāh-|bereaves|H7921|V-Piel-Perf-3fs
 v20 חֶ֖רֶב|ḥe·reḇ|the sword|H2719|N-fs
 v20 בַּבַּ֥יִת|bab·ba·yiṯ|inside|H1004|Prep-b, Art | N-ms
-v20 כַּמָּֽוֶת׃ס|kam·mā·weṯ|there is death|H4194|Prep-k, Art | N-ms
+v20 כַּמָּֽוֶת׃|kam·mā·weṯ|there is death|H4194|Prep-k, Art | N-ms
 v21 שָׁמְע֞וּ|šā·mə·‘ū|People have heard|H8085|V-Qal-Perf-3cp
-v21 כִּ֧י|kî||H3588|Conj
+v21 כִּ֧י|kî|-|H3588|Conj
 v21 נֶאֱנָחָ֣ה|ne·’ĕ·nā·ḥāh|groaning|H584|V-Nifal-Prtcpl-fs
 v21 אָ֗נִי|’ā·nî|my|H589|Pro-1cs
 v21 אֵ֤ין|’ên|but there is no|H369|Adv
@@ -356,7 +356,7 @@ v21 הֵבֵ֥אתָ|hê·ḇê·ṯā|May You bring|H935|V-Hifil-Perf-2ms
 v21 יוֹם־|yō·wm-|the day|H3117|N-ms
 v21 קָרָ֖אתָ|qā·rā·ṯā|You have announced|H7121|V-Qal-Perf-2ms
 v21 וְיִֽהְי֥וּ|wə·yih·yū|so that they may become|H1961|Conj-w | V-Qal-ConjImperf-3mp
-v21 כָמֽוֹנִי׃ס|ḵā·mō·w·nî|like me|H3644|Prep | 1cs
+v21 כָמֽוֹנִי׃|ḵā·mō·w·nî|like me|H3644|Prep | 1cs
 v22 תָּבֹ֨א|tā·ḇō|come|H935|V-Qal-Imperf-3fs
 v22 כָל־|ḵāl|Let all|H3605|N-msc
 v22 רָעָתָ֤ם|rā·‘ā·ṯām|their wickedness|H7451|N-fsc | 3mp
@@ -373,4 +373,4 @@ v22 כִּֽי־|kî-|For|H3588|Conj
 v22 רַבּ֥וֹת|rab·bō·wṯ|are many|H7227|Adj-fp
 v22 אַנְחֹתַ֖י|’an·ḥō·ṯay|my groans|H585|N-fpc | 1cs
 v22 וְלִבִּ֥י|wə·lib·bî|and my heart|H3820|Conj-w | N-msc | 1cs
-v22 דַוָּֽי׃פ|ḏaw·wāy|is faint|H1742|Adj-ms
+v22 דַוָּֽי׃|ḏaw·wāy|is faint|H1742|Adj-ms

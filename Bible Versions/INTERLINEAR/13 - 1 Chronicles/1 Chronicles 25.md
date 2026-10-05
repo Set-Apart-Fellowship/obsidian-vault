@@ -49,7 +49,7 @@ v3 הַנִּבָּ֕א|han·nib·bā|who prophesied|H5012|Art | V-Nifal-Prtcpl-
 v3 עַל־|‘al-|-|H5921|Prep
 v3 הֹד֥וֹת|hō·ḏō·wṯ|giving thanks|H3034|V-Hifil-Inf
 v3 וְהַלֵּ֖ל|wə·hal·lêl|and praise|H1984|Conj-w | V-Piel-Inf
-v3 לַיהוָֽה׃ס|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v3 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v4 לְהֵימָ֑ן|lə·hê·mān|-|H1968|Prep-l | N-proper-ms
 v4 בְּנֵ֣י|bə·nê|From the sons|H1121|N-mpc
 v4 הֵימָ֡ן|hê·mān|of Heman|H1968|N-proper-ms
@@ -62,7 +62,7 @@ v4 חֲנַנְיָ֣ה|ḥă·nan·yāh|Hananiah|H2608|N-proper-ms
 v4 חֲנָ֗נִי|ḥă·nā·nî|Hanani|H2607|N-proper-ms
 v4 אֱלִיאָ֤תָה|’ĕ·lî·’ā·ṯāh|Eliathah|H448|N-proper-ms
 v4 גִדַּ֙לְתִּי֙|ḡid·dal·tî|Giddalti|H1437|N-proper-ms
-v4 וְרֹמַ֣מְתִּי|wə·rō·mam·tî|vvv|H7320|
+v4 וְרֹמַ֣מְתִּי|wə·rō·mam·tî|...|H7320|
 v4 עֶ֔זֶר|‘e·zer|Romamti-ezer|H7320|Conj-w | N-proper-ms
 v4 יָשְׁבְּקָ֣שָׁה|yā·šə·bə·qā·šāh|Joshbekashah|H3436|N-proper-ms
 v4 מַלּ֔וֹתִי|mal·lō·w·ṯî|Mallothi|H4413|N-proper-ms
@@ -126,7 +126,7 @@ v8 כַּקָּטֹ֣ן|kaq·qā·ṭōn|young|H6996|Prep-k, Art | Adj-ms
 v8 כַּגָּד֔וֹל|kag·gā·ḏō·wl|and old alike|H1419|Prep-k, Art | Adj-ms
 v8 מֵבִ֖ין|mê·ḇîn|teacher|H995|V-Hifil-Prtcpl-ms
 v8 עִם־|‘im-|as|H5973|Prep
-v8 תַּלְמִֽיד׃פ|tal·mîḏ|well as pupil|H8527|N-ms
+v8 תַּלְמִֽיד׃|tal·mîḏ|well as pupil|H8527|N-ms
 v9 וַיֵּצֵ֞א|way·yê·ṣê|fell|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v9 הַגּוֹרָ֧ל|hag·gō·w·rāl|lot|H1486|Art | N-ms
 v9 הָרִאשׁ֛וֹן|hā·ri·šō·wn|The first|H7223|Art | Adj-ms
@@ -279,9 +279,9 @@ v30 שְׁנֵ֥ים|šə·nêm|12 [in all]|H8147|Number-md
 v30 עָשָֽׂר׃|‘ā·śār|...|H6240|Number-ms
 v31 לְאַרְבָּעָ֤ה|lə·’ar·bā·‘āh|and the twenty-fourth|H702|Prep-l | Number-ms
 v31 וְעֶשְׂרִים֙|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
-v31 לְרוֹמַ֣מְתִּי|lə·rō·w·mam·tî|vvv|H7320|Prep
+v31 לְרוֹמַ֣מְתִּי|lə·rō·w·mam·tî|...|H7320|Prep
 v31 עָ֔זֶר|‘ā·zer|to Romamti-ezer|H7320|Prep | N-proper-ms
 v31 בָּנָ֥יו|bā·nāw|his sons|H1121|N-mpc | 3ms
 v31 וְאֶחָ֖יו|wə·’e·ḥāw|and his brothers|H251|Conj-w | N-mpc | 3ms
 v31 שְׁנֵ֥ים|šə·nêm|12 [in all]|H8147|Number-md
-v31 עָשָֽׂר׃פ|‘ā·śār|...|H6240|Number-ms
+v31 עָשָֽׂר׃|‘ā·śār|...|H6240|Number-ms

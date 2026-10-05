@@ -143,7 +143,7 @@ v19 כָּֽאֲפֵלָ֑ה|kā·’ă·p̄ê·lāh|is like the darkest gloom|
 v19 לֹ֥א|lō|they do not|H3808|Adv-NegPrt
 v19 יָ֝דְע֗וּ|yā·ḏə·‘ū|know|H3045|V-Qal-Perf-3cp
 v19 בַּמֶּ֥ה|bam·meh|what|H4100|Prep-b | Interrog
-v19 יִכָּשֵֽׁלוּ׃פ|yik·kā·šê·lū|makes them stumble|H3782|V-Nifal-Imperf-3mp
+v19 יִכָּשֵֽׁלוּ׃|yik·kā·šê·lū|makes them stumble|H3782|V-Nifal-Imperf-3mp
 v20 בְּ֭נִי|bə·nî|My son|H1121|N-msc | 1cs
 v20 לִדְבָרַ֣י|liḏ·ḇā·ray|to my words|H1697|Prep-l | N-mpc | 1cs
 v20 הַקְשִׁ֑יבָה|haq·šî·ḇāh|pay attention|H7181|V-Hifil-Imp-ms | 3fs

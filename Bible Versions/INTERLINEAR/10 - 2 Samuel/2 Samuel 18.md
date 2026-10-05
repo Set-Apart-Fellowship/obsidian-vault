@@ -45,7 +45,7 @@ v3 כִּי֩|kî|For|H3588|Conj
 v3 אִם־|’im-|if|H518|Conj
 v3 נֹ֨ס|nōs|we have to flee|H5127|V-Qal-InfAbs
 v3 נָנ֜וּס|nā·nūs|...|H5127|V-Qal-Imperf-1cp
-v3 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v3 לֹא־|lō-|...|H3808|Adv-NegPrt
 v3 יָשִׂ֧ימוּ|yā·śî·mū|they will not care|H7760|V-Qal-Imperf-3mp
 v3 אֵלֵ֣ינוּ|’ê·lê·nū|about us|H413|Prep | 1cp
 v3 לֵ֗ב|lêḇ|...|H3820|N-ms
@@ -67,7 +67,7 @@ v3 כִּי־|kî-|if|H3588|Conj
 v3 תִֽהְיֶה־|ṯih·yeh-|you|H1961|V-Qal-Imperf-2ms
 v3 לָּ֥נוּ|lā·nū|us|H0|Prep | 1cp
 v3 מֵעִ֖יר|mê·‘îr|from the city|H5892|Prep-m | N-fs
-v3 לַעְזִיר׃ס|laʿ·zīr|support|H5826|Prep-l | V-Qal-Inf
+v3 לַעְזִיר׃|laʿ·zīr|support|H5826|Prep-l | V-Qal-Inf
 v4 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 אֲלֵיהֶם֙|’ă·lê·hem|-|H413|Prep | 3mp
 v4 הַמֶּ֔לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
@@ -311,7 +311,7 @@ v17 וְכָל־|wə·ḵāl|Meanwhile, all|H3605|Conj-w | N-msc
 v17 יִשְׂרָאֵ֔ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v17 נָ֖סוּ|nā·sū|fled|H5127|V-Qal-Perf-3cp
 v17 אִ֥ישׁ|’îš|each|H376|N-ms
-v17 לְאָהֳלוֹ׃ס|lə·ʾå̄·ho·lō|to his home|H168|Prep-l | N-mpc | 3ms
+v17 לְאָהֳלוֹ׃|lə·ʾå̄·ho·lō|to his home|H168|Prep-l | N-mpc | 3ms
 v18 וְאַבְשָׁלֹ֣ם|wə·’aḇ·šā·lōm|Absalom|H53|Conj-w | N-proper-ms
 v18 לָקַ֗ח|lā·qaḥ|...|H3947|V-Qal-Perf-3ms
 v18 וַיַּצֶּב־|way·yaṣ·ṣeḇ-|had set up|H5324|Conj-w | V-Hifil-ConsecImperf-3ms
@@ -340,7 +340,7 @@ v18 יַ֣ד|yaḏ|Monument|H3027|N-fsc
 v18 אַבְשָׁלֹ֔ם|’aḇ·šā·lōm|Absalom's|H53|N-proper-ms
 v18 עַ֖ד|‘aḏ|and to|H5704|Prep
 v18 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v18 הַזֶּֽה׃ס|haz·zeh|this|H2088|Art | Pro-ms
+v18 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v19 וַאֲחִימַ֤עַץ|wa·’ă·ḥî·ma·‘aṣ|Then Ahimaaz|H290|Conj-w | N-proper-ms
 v19 בֶּן־|ben-|son|H1121|N-msc
 v19 צָדוֹק֙|ṣā·ḏō·wq|of Zadok|H6659|N-proper-ms
@@ -356,7 +356,7 @@ v19 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v19 מִיַּ֥ד|mî·yaḏ|of|H3027|Prep-m | N-fsc
 v19 אֹיְבָֽיו׃|’ō·yə·ḇāw|his enemies|H341|V-Qal-Prtcpl-mpc | 3ms
 v20 וַיֹּ֧אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v20 ל֣וֹ|lōw||H0|Prep | 3ms
+v20 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v20 יוֹאָ֗ב|yō·w·’āḇ|But Joab|H3097|N-proper-ms
 v20 לֹא֩|lō|are not|H3808|Adv-NegPrt
 v20 אִ֨ישׁ|’îš|the man|H376|N-msc
@@ -470,7 +470,7 @@ v26 וַיִּקְרָ֤א|way·yiq·rā|and he called out|H7121|Conj-w | V-Qal-
 v26 הַצֹּפֶה֙|haṣ·ṣō·p̄eh|...|H6822|Art | V-Qal-Prtcpl-ms
 v26 אֶל־|’el-|to|H413|Prep
 v26 הַשֹּׁעֵ֔ר|haš·šō·‘êr|the gatekeeper|H7778|Art | N-ms
-v26 וַיֹּ֕אמֶר|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
+v26 וַיֹּ֕אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v26 הִנֵּה־|hin·nêh-|Look|H2009|Interjection
 v26 אִ֖ישׁ|’îš|Another man|H376|N-ms
 v26 רָ֣ץ|rāṣ|is running alone|H7323|V-Qal-Prtcpl-ms
@@ -502,7 +502,7 @@ v27 טוֹבָ֖ה|ṭō·w·ḇāh|good|H2896|Adj-fs
 v27 יָבֽוֹא׃|yā·ḇō·w|He comes|H935|V-Qal-Imperf-3ms
 v28 וַיִּקְרָ֣א|way·yiq·rā|called out|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v28 אֲחִימַ֗עַץ|’ă·ḥî·ma·‘aṣ|Then Ahimaaz|H290|N-proper-ms
-v28 וַיֹּ֤אמֶר|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
+v28 וַיֹּ֤אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v28 אֶל־|’el-|to|H413|Prep
 v28 הַמֶּ֙לֶךְ֙|ham·me·leḵ|the king|H4428|Art | N-ms
 v28 שָׁל֔וֹם|šā·lō·wm|All is well|H7965|N-ms
@@ -566,7 +566,7 @@ v31 הַיּ֔וֹם|hay·yō·wm|Today|H3117|Art | N-ms
 v31 מִיַּ֖ד|mî·yaḏ|of|H3027|Prep-m | N-fsc
 v31 כָּל־|kāl-|all|H3605|N-msc
 v31 הַקָּמִ֥ים|haq·qā·mîm|who rose up|H6965|Art | V-Qal-Prtcpl-mp
-v31 עָלֶֽיךָ׃ס|‘ā·le·ḵā|against you|H5921|Prep | 2ms
+v31 עָלֶֽיךָ׃|‘ā·le·ḵā|against you|H5921|Prep | 2ms
 v32 וַיֹּ֤אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v32 הַמֶּ֙לֶךְ֙|ham·me·leḵ|The king|H4428|Art | N-ms
 v32 אֶל־|’el-|...|H413|Prep
@@ -585,7 +585,7 @@ v32 וְכֹ֛ל|wə·ḵōl|and all|H3605|Conj-w | N-ms
 v32 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
 v32 קָ֥מוּ|qā·mū|rise up|H6965|V-Qal-Perf-3cp
 v32 עָלֶ֖יךָ|‘ā·le·ḵā|against you|H5921|Prep | 2ms
-v32 לְרָעָֽה׃ס|lə·rā·‘āh|to harm you|H7451|Prep-l | Adj-fs
+v32 לְרָעָֽה׃|lə·rā·‘āh|to harm you|H7451|Prep-l | Adj-fs
 v33 וַיִּרְגַּ֣ז|way·yir·gaz|was shaken|H7264|Conj-w | V-Qal-ConsecImperf-3ms
 v33 הַמֶּ֗לֶךְ|ham·me·leḵ|The king|H4428|Art | N-ms
 v33 וַיַּ֛עַל|way·ya·‘al|and went up|H5927|Conj-w | V-Qal-ConsecImperf-3ms

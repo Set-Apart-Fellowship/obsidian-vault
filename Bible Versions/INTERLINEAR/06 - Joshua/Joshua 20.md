@@ -9,7 +9,7 @@ v2 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
 v2 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v2 לֵאמֹ֑ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v2 תְּנ֤וּ|tə·nū|to designate|H5414|V-Qal-Imp-mp
-v2 לָכֶם֙|lā·ḵem||H0|Prep | 2mp
+v2 לָכֶם֙|lā·ḵem|-|H0|Prep | 2mp
 v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 עָרֵ֣י|‘ā·rê|the cities|H5892|N-fpc
 v2 הַמִּקְלָ֔ט|ham·miq·lāṭ|of refuge|H4733|Art | N-ms
@@ -75,8 +75,8 @@ v5 רֵעֵ֔הוּ|rê·‘ê·hū|his neighbor|H7453|N-msc | 3ms
 v5 וְלֹֽא־|wə·lō-|without|H3808|Conj-w | Adv-NegPrt
 v5 שֹׂנֵ֥א|śō·nê|malice|H8130|V-Qal-Prtcpl-ms
 v5 ה֛וּא|hū|...|H1931|Pro-3ms
-v5 ל֖וֹ|lōw||H0|Prep | 3ms
-v5 מִתְּמ֥וֹל|mit·tə·mō·wl|vvv|H8543|Prep-m | Adv
+v5 ל֖וֹ|lōw|-|H0|Prep | 3ms
+v5 מִתְּמ֥וֹל|mit·tə·mō·wl|...|H8543|Prep-m | Adv
 v5 שִׁלְשֽׁוֹם׃|šil·šō·wm|prior|H8032|Adv
 v6 וְיָשַׁ֣ב׀|wə·yā·šaḇ|He is to stay|H3427|Conj-w | V-Qal-ConjPerf-3ms
 v6 בָּעִ֣יר|bā·‘îr|city|H5892|Prep-b, Art | N-fs
@@ -118,7 +118,7 @@ v7 שְׁכֶ֖ם|šə·ḵem|Shechem|H7927|N-proper-fs
 v7 בְּהַ֣ר|bə·har|in the hill country|H2022|Prep-b | N-msc
 v7 אֶפְרָ֑יִם|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
 v7 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v7 קִרְיַ֥ת|qir·yaṯ|vvv|H7153|
+v7 קִרְיַ֥ת|qir·yaṯ|...|H7153|
 v7 אַרְבַּ֛ע|’ar·ba‘|and Kiriath-arba|H7153|N-proper-fs
 v7 הִ֥יא|hî|(that is|H1931|Pro-3fs
 v7 חֶבְר֖וֹן|ḥeḇ·rō·wn|Hebron|H2275|N-proper-fs
@@ -169,4 +169,4 @@ v9 הַדָּ֔ם|had·dām|of blood|H1818|Art | N-ms
 v9 עַד־|‘aḏ-|prior|H5704|Prep
 v9 עָמְד֖וֹ|‘ā·mə·ḏōw|to standing [trial]|H5975|V-Qal-Inf | 3ms
 v9 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
-v9 הָעֵדָֽה׃פ|hā·‘ê·ḏāh|the assembly|H5712|Art | N-fs
+v9 הָעֵדָֽה׃|hā·‘ê·ḏāh|the assembly|H5712|Art | N-fs

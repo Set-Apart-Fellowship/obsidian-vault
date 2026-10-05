@@ -122,7 +122,7 @@ v9 הַבַּ֖יִת|hab·ba·yiṯ|the house|H1004|Art | N-ms
 v9 לִשְׁמִֽי׃|liš·mî|for My Name|H8034|Prep-l | N-msc | 1cs
 v10 וַיָּ֣קֶם|way·yā·qem|has fulfilled|H6965|Conj-w | V-Hifil-ConsecImperf-3ms
 v10 יְהוָ֔ה|Yah·weh|Now the LORD|H3068|N-proper-ms
-v10 אֶת־|’eṯ-||H853|DirObjM
+v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 דְּבָר֖וֹ|də·ḇā·rōw|the word|H1697|N-msc | 3ms
 v10 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v10 דִּבֵּ֑ר|dib·bêr|He spoke|H1696|V-Piel-Perf-3ms
@@ -151,7 +151,7 @@ v11 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v11 שָׁ֖ם|šām|which contains|H8033|Adv
 v11 בְּרִ֣ית|bə·rîṯ|the covenant|H1285|N-fsc
 v11 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v11 אֲשֶׁ֥ר|’ă·šer||H834|Pro-r
+v11 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v11 כָּרַ֖ת|kā·raṯ|He made|H3772|V-Qal-Perf-3ms
 v11 עִם־|‘im-|with|H5973|Prep
 v11 בְּנֵ֥י|bə·nê|the children|H1121|N-mpc
@@ -238,11 +238,11 @@ v16 אָבִי֙|’ā·ḇî|my father|H1|N-msc | 1cs
 v16 אֵת֩|’êṯ|-|H853|DirObjM
 v16 אֲשֶׁ֨ר|’ă·šer|what|H834|Pro-r
 v16 דִּבַּ֤רְתָּ|dib·bar·tā|You promised|H1696|V-Piel-Perf-2ms
-v16 לּוֹ֙|lōw||H0|Prep | 3ms
+v16 לּוֹ֙|lōw|-|H0|Prep | 3ms
 v16 לֵאמֹ֔ר|lê·mōr|when You said|H559|Prep-l | V-Qal-Inf
 v16 לֹא־|lō-|You will never|H3808|Adv-NegPrt
 v16 יִכָּרֵ֨ת|yik·kā·rêṯ|fail|H3772|V-Nifal-Imperf-3ms
-v16 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v16 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v16 אִישׁ֙|’îš|to have a man|H376|N-ms
 v16 מִלְּפָנַ֔י|mil·lə·p̄ā·nay|before Me|H6440|Prep-m, Prep-l | N-mpc | 1cs
 v16 יוֹשֵׁ֖ב|yō·wō·šêḇ|to sit|H3427|V-Qal-Prtcpl-ms
@@ -291,7 +291,7 @@ v18 הַזֶּ֖ה|haz·zeh|this|H2088|Art | Pro-ms
 v18 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v18 בָּנִֽיתִי׃|bā·nî·ṯî|I have built|H1129|V-Qal-Perf-1cs
 v19 וּפָנִ֜יתָ|ū·p̄ā·nî·ṯā|Yet regard|H6437|Conj-w | V-Qal-ConjPerf-2ms
-v19 אֶל־|’el-||H413|Prep
+v19 אֶל־|’el-|-|H413|Prep
 v19 תְּפִלַּ֧ת|tə·p̄il·laṯ|the prayer|H8605|N-fsc
 v19 עַבְדְּךָ֛|‘aḇ·də·ḵā|of Your servant|H5650|N-msc | 2ms
 v19 וְאֶל־|wə·’el-|and|H413|Conj-w | Prep
@@ -323,7 +323,7 @@ v20 לָשׂ֥וּם|lā·śūm|You would put|H7760|Prep-l | V-Qal-Inf
 v20 שִׁמְךָ֖|šim·ḵā|Your Name|H8034|N-msc | 2ms
 v20 שָׁ֑ם|šām|-|H8033|Adv
 v20 לִשְׁמ֙וֹעַ֙|liš·mō·w·a‘|so that You may hear|H8085|Prep-l | V-Qal-Inf
-v20 אֶל־|’el-||H413|Prep
+v20 אֶל־|’el-|-|H413|Prep
 v20 הַתְּפִלָּ֔ה|hat·tə·p̄il·lāh|the prayer|H8605|Art | N-fs
 v20 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v20 יִתְפַּלֵּ֣ל|yiṯ·pal·lêl|prays|H6419|V-Hitpael-Imperf-3ms
@@ -332,7 +332,7 @@ v20 אֶל־|’el-|toward|H413|Prep
 v20 הַמָּק֖וֹם|ham·mā·qō·wm|place|H4725|Art | N-ms
 v20 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v21 וְשָׁ֨מַעְתָּ֜|wə·šā·ma‘·tā|Hear|H8085|Conj-w | V-Qal-ConjPerf-2ms
-v21 אֶל־|’el-||H413|Prep
+v21 אֶל־|’el-|-|H413|Prep
 v21 תַּחֲנוּנֵ֤י|ta·ḥă·nū·nê|the plea|H8469|N-mpc
 v21 עַבְדְּךָ֙|‘aḇ·də·ḵā|of Your servant|H5650|N-msc | 2ms
 v21 וְעַמְּךָ֣|wə·‘am·mə·ḵā|and of Your people|H5971|Conj-w | N-msc | 2ms
@@ -355,7 +355,7 @@ v22 יֶחֱטָ֥א|ye·ḥĕ·ṭā|sins|H2398|V-Qal-Imperf-3ms
 v22 אִישׁ֙|’îš|a man|H376|N-ms
 v22 לְרֵעֵ֔הוּ|lə·rê·‘ê·hū|against his neighbor|H7453|Prep-l | N-msc | 3ms
 v22 וְנָֽשָׁא־|wə·nā·šā-|and is required|H5375|Conj-w | V-Qal-ConjPerf-3ms
-v22 ב֥וֹ|ḇōw||H0|Prep | 3ms
+v22 ב֥וֹ|ḇōw|-|H0|Prep | 3ms
 v22 אָלָ֖ה|’ā·lāh|to take an oath|H423|V-Qal-Perf-3ms
 v22 לְהַֽאֲלֹת֑וֹ|lə·ha·’ă·lō·ṯōw|to take an oath|H423|Prep-l | V-Hifil-Inf | 3ms
 v22 וּבָ֗א|ū·ḇā|and he comes|H935|Conj-w | V-Qal-ConjPerf-3ms
@@ -381,7 +381,7 @@ v23 וּלְהַצְדִּ֣יק|ū·lə·haṣ·dîq|and justifying|H6663|Conj-
 v23 צַדִּ֔יק|ṣad·dîq|the righteous man|H6662|Adj-ms
 v23 לָ֥תֶת|lā·ṯeṯ|by rewarding|H5414|Prep-l | V-Qal-Inf
 v23 ל֖וֹ|lōw|him|H0|Prep | 3ms
-v23 כְּצִדְקָתֽוֹ׃ס|kə·ṣiḏ·qā·ṯōw|according to his righteousness|H6666|Prep-k | N-fsc | 3ms
+v23 כְּצִדְקָתֽוֹ׃|kə·ṣiḏ·qā·ṯōw|according to his righteousness|H6666|Prep-k | N-fsc | 3ms
 v24 וְֽאִם־|wə·’im-|When|H518|Conj
 v24 יִנָּגֵ֞ף|yin·nā·ḡêp̄|are defeated|H5062|V-Nifal-Imperf-3ms
 v24 עַמְּךָ֧|‘am·mə·ḵā|Your people|H5971|N-msc | 2ms
@@ -414,7 +414,7 @@ v25 הָ֣אֲדָמָ֔ה|hā·’ă·ḏā·māh|the land|H127|Art | N-fs
 v25 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v25 נָתַ֥תָּה|nā·ṯat·tāh|You gave|H5414|V-Qal-Perf-2ms
 v25 לָהֶ֖ם|lā·hem|to them|H0|Prep-l | Pro-3mp
-v25 וְלַאֲבֹתֵיהֶֽם׃פ|wə·la·’ă·ḇō·ṯê·hem|and their fathers|H1|Conj-w, Prep-l | N-mpc | 3mp
+v25 וְלַאֲבֹתֵיהֶֽם׃|wə·la·’ă·ḇō·ṯê·hem|and their fathers|H1|Conj-w, Prep-l | N-mpc | 3mp
 v26 בְּהֵעָצֵ֧ר|bə·hê·‘ā·ṣêr|are shut|H6113|Prep-b | V-Nifal-Inf
 v26 הַשָּׁמַ֛יִם|haš·šā·ma·yim|When the skies|H8064|Art | N-mp
 v26 וְלֹֽא־|wə·lō-|no|H3808|Conj-w | Adv-NegPrt
@@ -449,7 +449,7 @@ v27 הַדֶּ֥רֶךְ|had·de·reḵ|way|H1870|Art | N-cs
 v27 הַטּוֹבָ֖ה|haṭ·ṭō·w·ḇāh|the good|H2896|Art | Adj-fs
 v27 אֲשֶׁ֣ר|’ă·šer|in which|H834|Pro-r
 v27 יֵֽלְכוּ־|yê·lə·ḵū-|they should walk|H1980|V-Qal-Imperf-3mp
-v27 בָ֑הּ|ḇāh||H0|Prep | 3fs
+v27 בָ֑הּ|ḇāh|-|H0|Prep | 3fs
 v27 וְנָתַתָּ֤ה|wə·nā·ṯat·tāh|May You send|H5414|Conj-w | V-Qal-ConjPerf-2ms
 v27 מָטָר֙|mā·ṭār|rain|H4306|N-ms
 v27 עַֽל־|‘al-|on|H5921|Prep
@@ -457,19 +457,19 @@ v27 אַרְצְךָ֔|’ar·ṣə·ḵā|the land|H776|N-fsc | 2ms
 v27 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v27 נָתַ֥תָּה|nā·ṯat·tāh|You gave|H5414|V-Qal-Perf-2ms
 v27 לְעַמְּךָ֖|lə·‘am·mə·ḵā|Your people|H5971|Prep-l | N-msc | 2ms
-v27 לְנַחֲלָֽה׃ס|lə·na·ḥă·lāh|as an inheritance|H5159|Prep-l | N-fs
+v27 לְנַחֲלָֽה׃|lə·na·ḥă·lāh|as an inheritance|H5159|Prep-l | N-fs
 v28 רָעָ֞ב|rā·‘āḇ|famine|H7458|N-ms
 v28 כִּֽי־|kî-|When|H3588|Conj
 v28 יִהְיֶ֣ה|yih·yeh|comes|H1961|V-Qal-Imperf-3ms
 v28 בָאָ֗רֶץ|ḇā·’ā·reṣ|upon the land|H776|Prep-b, Art | N-fs
 v28 דֶּ֣בֶר|de·ḇer|plague|H1698|N-ms
 v28 כִּֽי־|kî-|[or]|H3588|Conj
-v28 יִֽ֠הְיֶה|yih·yeh||H1961|V-Qal-Imperf-3ms
+v28 יִֽ֠הְיֶה|yih·yeh|-|H1961|V-Qal-Imperf-3ms
 v28 שִׁדָּפ֨וֹן|šid·dā·p̄ō·wn|[or] blight|H7711|N-ms
 v28 וְיֵרָק֜וֹן|wə·yê·rā·qō·wn|[or] mildew|H3420|Conj-w | N-ms
 v28 אַרְבֶּ֤ה|’ar·beh|[or] locusts|H697|N-ms
 v28 וְחָסִיל֙|wə·ḥā·sîl|[or] grasshoppers|H2625|Conj-w | N-ms
-v28 כִּ֣י|kî||H3588|Conj
+v28 כִּ֣י|kî|-|H3588|Conj
 v28 יִהְיֶ֔ה|yih·yeh|-|H1961|V-Qal-Imperf-3ms
 v28 כִּ֧י|kî|[or] when|H3588|Conj
 v28 יָֽצַר־|yā·ṣar-|besiege|H6696|V-Hifil-Imperf-3ms
@@ -523,7 +523,7 @@ v30 לְבַדְּךָ֣|lə·ḇad·də·ḵā|alone|H905|Prep-l | N-msc | 2ms
 v30 יָדַ֔עְתָּ|yā·ḏa‘·tā|know|H3045|V-Qal-Perf-2ms
 v30 אֶת־|’eṯ-|-|H853|DirObjM
 v30 לְבַ֖ב|lə·ḇaḇ|the hearts|H3824|N-msc
-v30 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v30 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v30 הָאָדָֽם׃|hā·’ā·ḏām|of men|H120|Art | N-ms
 v31 לְמַ֣עַן|lə·ma·‘an|so that|H4616|Conj
 v31 יִֽירָא֗וּךָ|yî·rā·’ū·ḵā|they may fear You|H3372|V-Qal-Imperf-3mp | 2ms
@@ -539,7 +539,7 @@ v31 פְּנֵ֣י|pə·nê|...|H6440|N-cpc
 v31 הָאֲדָמָ֑ה|hā·’ă·ḏā·māh|the land|H127|Art | N-fs
 v31 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v31 נָתַ֖תָּה|nā·ṯat·tāh|You gave|H5414|V-Qal-Perf-2ms
-v31 לַאֲבֹתֵֽינוּ׃ס|la·’ă·ḇō·ṯê·nū|to our fathers|H1|Prep-l | N-mpc | 1cp
+v31 לַאֲבֹתֵֽינוּ׃|la·’ă·ḇō·ṯê·nū|to our fathers|H1|Prep-l | N-mpc | 1cp
 v32 וְגַ֣ם|wə·ḡam|And|H1571|Conj
 v32 אֶל־|’el-|as for|H413|Prep
 v32 הַנָּכְרִ֗י|han·nā·ḵə·rî|the foreigner|H5237|Art | Adj-ms
@@ -608,10 +608,10 @@ v34 וְהִתְפַּֽלְל֣וּ|wə·hiṯ·pal·lū|and when they pray|H64
 v34 אֵלֶ֗יךָ|’ê·le·ḵā|to You|H413|Prep | 2ms
 v34 דֶּ֣רֶךְ|de·reḵ|in the direction|H1870|N-csc
 v34 הָעִ֤יר|hā·‘îr|of this city|H5892|Art | N-fs
-v34 הַזֹּאת֙|haz·zōṯ||H2063|Art | Pro-fs
+v34 הַזֹּאת֙|haz·zōṯ|-|H2063|Art | Pro-fs
 v34 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v34 בָּחַ֣רְתָּ|bā·ḥar·tā|You have chosen|H977|V-Qal-Perf-2ms
-v34 בָּ֔הּ|bāh||H0|Prep | 3fs
+v34 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v34 וְהַבַּ֖יִת|wə·hab·ba·yiṯ|and the house|H1004|Conj-w, Art | N-ms
 v34 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v34 בָּנִ֥יתִי|bā·nî·ṯî|I have built|H1129|V-Qal-Perf-1cs
@@ -712,7 +712,7 @@ v40 וְאָזְנֶ֖יךָ|wə·’ā·zə·ne·ḵā|and Your ears|H241|Conj-
 v40 קַשֻּׁב֑וֹת|qaš·šu·ḇō·wṯ|attentive|H7183|Adj-fp
 v40 לִתְפִלַּ֖ת|liṯ·p̄il·laṯ|to the prayer offered|H8605|Prep-l | N-fsc
 v40 הַמָּק֥וֹם|ham·mā·qō·wm|place|H4725|Art | N-ms
-v40 הַזֶּֽה׃ס|haz·zeh|in this|H2088|Art | Pro-ms
+v40 הַזֶּֽה׃|haz·zeh|in this|H2088|Art | Pro-ms
 v41 וְעַתָּ֗ה|wə·‘at·tāh|Now therefore|H6258|Conj-w | Adv
 v41 קוּמָ֞ה|qū·māh|arise|H6965|V-Qal-Imp-ms | 3fs
 v41 יְהוָ֤ה|Yah·weh|O LORD|H3068|N-proper-ms
@@ -738,4 +738,4 @@ v42 מְשִׁיחֶ֑יךָ|mə·šî·ḥe·ḵā|Your anointed one|H4899|Adj-
 v42 זָכְרָ֕ה|zā·ḵə·rāh|Remember|H2142|V-Qal-Imp-ms | 3fs
 v42 לְחַֽסְדֵ֖י|lə·ḥas·ḏê|[Your] loving devotion|H2617|Prep-l | N-mpc
 v42 דָּוִ֥יד|dā·wîḏ|David|H1732|N-proper-ms
-v42 עַבְדֶּֽךָ׃פ|‘aḇ·de·ḵā|to Your servant|H5650|N-msc | 2ms
+v42 עַבְדֶּֽךָ׃|‘aḇ·de·ḵā|to Your servant|H5650|N-msc | 2ms

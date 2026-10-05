@@ -11,12 +11,12 @@ v3 זֶ֤ה|zeh|now|H2088|Pro-ms
 v3 עֶ֣שֶׂר|‘e·śer|Ten|H6235|Number-fsc
 v3 פְּ֭עָמִים|pə·‘ā·mîm|times|H6471|N-fp
 v3 תַּכְלִימ֑וּנִי|taḵ·lî·mū·nî|you have reproached me|H3637|V-Hifil-Imperf-2mp | 1cs
-v3 לֹֽא־|lō-|vvv|H3808|Adv-NegPrt
+v3 לֹֽא־|lō-|...|H3808|Adv-NegPrt
 v3 תֵ֝בֹ֗שׁוּ|ṯê·ḇō·šū|you shamelessly|H954|V-Qal-Imperf-2mp
 v3 תַּהְכְּרוּ־|tah·kə·rū-|mistreat|H1970|V-Hifil-Imperf-2mp
 v3 לִֽי׃|lî|me|H0|Prep | 1cs
 v4 וְאַף־|wə·’ap̄-|Even if|H637|Conj
-v4 אָמְנָ֥ם|’ā·mə·nām|vvv|H551|Conj
+v4 אָמְנָ֥ם|’ā·mə·nām|...|H551|Conj
 v4 שָׁגִ֑יתִי|šā·ḡî·ṯî|I have truly gone astray|H7686|V-Qal-Perf-1cs
 v4 אִ֝תִּ֗י|’it·tî|alone|H854|Prep | 1cs
 v4 תָּלִ֥ין|tā·lîn|concerns me|H3885|V-Qal-Imperf-3fs
@@ -68,7 +68,7 @@ v11 וַיַּ֣חַר|way·ya·ḥar|burns|H2734|Conj-w | V-Hifil-ConsecImperf-
 v11 עָלַ֣י|‘ā·lay|against me|H5921|Prep | 1cs
 v11 אַפּ֑וֹ|’ap·pōw|His anger|H639|N-msc | 3ms
 v11 וַיַּחְשְׁבֵ֖נִי|way·yaḥ·šə·ḇê·nî|and He counts me|H2803|Conj-w | V-Qal-ConsecImperf-3ms | 1cs
-v11 ל֣וֹ|lōw||H0|Prep | 3ms
+v11 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v11 כְצָרָֽיו׃|ḵə·ṣā·rāw|among His enemies|H6862|Prep-k | N-mpc | 3ms
 v12 יַ֤חַד׀|ya·ḥaḏ|together|H3162|Adv
 v12 יָ֘בֹ֤אוּ|yā·ḇō·’ū|advance|H935|V-Qal-Imperf-3mp
@@ -90,7 +90,7 @@ v14 חָדְל֥וּ|ḥā·ḏə·lū|have failed me|H2308|V-Qal-Perf-3cp
 v14 קְרוֹבָ֑י|qə·rō·w·ḇāy|My kinsmen|H7138|Adj-mpc | 1cs
 v14 וּֽמְיֻדָּעַ֥י|ū·mə·yud·dā·‘ay|and my friends|H3045|Conj-w | V-Pual-Prtcpl-mpc | 1cs
 v14 שְׁכֵחֽוּנִי׃|šə·ḵê·ḥū·nî|have forgotten me|H7911|V-Qal-Perf-3cp | 1cs
-v15 גָּ֘רֵ֤י|gā·rê||H1481|V-Qal-Prtcpl-mpc
+v15 גָּ֘רֵ֤י|gā·rê|-|H1481|V-Qal-Prtcpl-mpc
 v15 בֵיתִ֣י|ḇê·ṯî|My guests|H1004|N-msc | 1cs
 v15 וְ֭אַמְהֹתַי|wə·’am·hō·ṯay|and maidservants|H519|Conj-w | N-fpc | 1cs
 v15 לְזָ֣ר|lə·zār|as a stranger|H2114|Prep-l | Adj-ms
@@ -210,4 +210,4 @@ v29 עֲוֺנ֣וֹת|‘ă·wō·nō·wṯ|brings punishment|H5771|N-cpc
 v29 חָ֑רֶב|ḥā·reḇ|by the sword|H2719|N-fs
 v29 לְמַ֖עַן|lə·ma·‘an|so that|H4616|Conj
 v29 תֵּדְע֣וּן|tê·ḏə·‘ūn|you may know|H3045|V-Qal-Imperf-2mp | Pn
-v29 שַׁדִּין׃ס|šad·dīn|[there is] a judgment|H1779|Pro-r | N-ms
+v29 שַׁדִּין׃|šad·dīn|[there is] a judgment|H1779|Pro-r | N-ms

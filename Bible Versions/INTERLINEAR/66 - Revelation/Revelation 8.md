@@ -184,8 +184,8 @@ v9 τῶν|tōn|-|G3588|Art-GNP
 v9 ἐν|en|in|G1722|Prep
 v9 τῇ|tē|the|G3588|Art-DFS
 v9 θαλάσσῃ|thalassē|sea|G2281|N-DFS
-v9 τὰ|ta|vvv|G3588|Art-NNP
-v9 ἔχοντα|echonta|vvv|G2192|V-PPA-NNP
+v9 τὰ|ta|...|G3588|Art-NNP
+v9 ἔχοντα|echonta|...|G2192|V-PPA-NNP
 v9 ψυχάς|psychas|living|G5590|N-AFP
 v9 καὶ|kai|and|G2532|Conj
 v9 τὸ|to|a|G3588|Art-NNS
@@ -276,7 +276,7 @@ v12 αὐτῶν|autōn|of [the stars]|G846|PPro-GM3P
 v12 καὶ|kai|-|G2532|Conj
 v12 ἡ|hē|the|G3588|Art-NFS
 v12 ἡμέρα|hēmera|day|G2250|N-NFS
-v12 μὴ|mē|vvv|G3361|Adv
+v12 μὴ|mē|...|G3361|Adv
 v12 φάνῃ|phanē|was without light|G5316|V-ASA-3S
 v12 τὸ|to|a|G3588|Art-NNS
 v12 τρίτον|triton|third|G5154|Adj-NNS
@@ -292,11 +292,11 @@ v13 ἤκουσα|ēkousa|I heard|G191|V-AIA-1S
 v13 ἑνὸς|henos|an|G1520|Adj-GMS
 v13 ἀετοῦ|aetou|eagle|G105|N-GMS
 v13 πετομένου|petomenou|flying|G4072|V-PPM/P-GMS
-v13 ἐν|en|vvv|G1722|Prep
+v13 ἐν|en|...|G1722|Prep
 v13 μεσουρανήματι|mesouranēmati|overhead|G3321|N-DNS
 v13 λέγοντος|legontos|calling|G3004|V-PPA-GMS
 v13 φωνῇ|phōnē|in a loud voice|G5456|N-DFS
-v13 μεγάλῃ|megalē|vvv|G3173|Adj-DFS
+v13 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v13 Οὐαὶ|Ouai|Woe|G3759|I
 v13 οὐαὶ|ouai|Woe|G3759|I
 v13 οὐαὶ|ouai|Woe|G3759|I

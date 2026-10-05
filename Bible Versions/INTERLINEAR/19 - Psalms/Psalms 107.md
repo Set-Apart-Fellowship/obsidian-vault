@@ -156,7 +156,7 @@ v24 וְ֝נִפְלְאוֹתָ֗יו|wə·nip̄·lə·’ō·w·ṯāw|and His
 v24 בִּמְצוּלָֽה׃׆|bim·ṣū·lå̄h|in the deep|H4688|Prep-b | N-fs
 v25 וַיֹּ֗אמֶר|way·yō·mer|For He spoke|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v25 וַֽ֭יַּעֲמֵד|way·ya·‘ă·mêḏ|and raised|H5975|Conj-w | V-Hifil-ConsecImperf-3ms
-v25 ר֣וּחַ|rū·aḥ|vvv|H7307|N-csc
+v25 ר֣וּחַ|rū·aḥ|...|H7307|N-csc
 v25 סְעָרָ֑ה|sə·‘ā·rāh|a tempest|H5591|N-fs
 v25 וַתְּרוֹמֵ֥ם|wat·tə·rō·w·mêm|that lifted|H7311|Conj-w | V-Piel-ConsecImperf-3fs
 v25 גַּלָּֽיו׃׆|gal·lå̄w|the waves [of the sea]|H1530|N-mpc | 3ms
@@ -215,7 +215,7 @@ v34 פְּ֭רִי|pə·rî|[and] fruitful|H6529|N-ms
 v34 לִמְלֵחָ֑ה|lim·lê·ḥāh|into fields of salt|H4420|Prep-l | N-fs
 v34 מֵ֝רָעַ֗ת|mê·rā·‘aṯ|because of the wickedness|H7451|Prep-m | N-fsc
 v34 יֹ֣שְׁבֵי|yō·šə·ḇê|of its dwellers|H3427|V-Qal-Prtcpl-mpc
-v34 בָֽהּ׃|ḇāh||H0|Prep | 3fs
+v34 בָֽהּ׃|ḇāh|-|H0|Prep | 3fs
 v35 יָשֵׂ֣ם|yā·śêm|He turns|H7760|V-Qal-Imperf.Jus-3ms
 v35 מִ֭דְבָּר|miḏ·bār|a desert|H4057|N-ms
 v35 לַֽאֲגַם־|la·’ă·ḡam-|into pools|H98|Prep-l | N-msc

@@ -23,7 +23,7 @@ v2 לְכֹל֙|lə·ḵōl|all|H3605|Prep-l | N-msc
 v2 הָֽאֲנָשִׁ֔ים|hā·’ă·nā·šîm|the men|H582|Art | N-mp
 v2 הַמִּֽתְנַדְּבִ֔ים|ham·miṯ·nad·də·ḇîm|who volunteered|H5068|Art | V-Hitpael-Prtcpl-mp
 v2 לָשֶׁ֖בֶת|lā·še·ḇeṯ|to live|H3427|Prep-l | V-Qal-Inf
-v2 בִּירוּשָׁלִָֽם׃פ|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
+v2 בִּירוּשָׁלִָֽם׃|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v3 וְאֵ֙לֶּה֙|wə·’êl·leh|These|H428|Conj-w | Pro-cp
 v3 רָאשֵׁ֣י|rā·šê|are the heads|H7218|N-mpc
 v3 הַמְּדִינָ֔ה|ham·mə·ḏî·nāh|of the provinces|H4082|Art | N-fs
@@ -68,7 +68,7 @@ v5 וּמַעֲשֵׂיָ֣ה|ū·ma·‘ă·śê·yāh|and Maaseiah|H4641|Conj
 v5 בֶן־|ḇen-|son|H1121|N-msc
 v5 בָּר֣וּךְ|bā·rūḵ|of Baruch|H1263|N-proper-ms
 v5 בֶּן־|ben-|the son|H1121|N-msc
-v5 כָּל־|kāl-|vvv|H3626|Prep
+v5 כָּל־|kāl-|...|H3626|Prep
 v5 חֹ֠זֶה|ḥō·zeh|of Col-hozeh|H3626|N-proper-ms
 v5 בֶּן־|ben-|the son|H1121|N-msc
 v5 חֲזָיָ֨ה|ḥă·zā·yāh|of Hazaiah|H2382|N-proper-ms
@@ -90,7 +90,7 @@ v6 מֵא֛וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v6 שִׁשִּׁ֥ים|šiš·šîm|...|H8346|Number-cp
 v6 וּשְׁמֹנָ֖ה|ū·šə·mō·nāh|...|H8083|Conj-w | Number-ms
 v6 אַנְשֵׁי־|’an·šê-|men|H582|N-mpc
-v6 חָֽיִל׃ס|ḥā·yil|of valor|H2428|N-ms
+v6 חָֽיִל׃|ḥā·yil|of valor|H2428|N-ms
 v7 וְאֵ֖לֶּה|wə·’êl·leh|From|H428|Conj-w | Pro-cp
 v7 בְּנֵ֣י|bə·nê|the descendants|H1121|N-mpc
 v7 בִנְיָמִ֑ן|ḇin·yā·min|of Benjamin|H1144|N-proper-ms
@@ -126,7 +126,7 @@ v9 בֶן־|ḇen-|son|H1121|N-msc
 v9 הַסְּנוּאָ֛ה|has·sə·nū·’āh|of Hassenuah|H5574|Art | N-proper-ms
 v9 עַל־|‘al-|[was] over|H5921|Prep
 v9 הָעִ֖יר|hā·‘îr|of the city|H5892|Art | N-fs
-v9 מִשְׁנֶֽה׃פ|miš·neh|the Second District|H4932|N-ms
+v9 מִשְׁנֶֽה׃|miš·neh|the Second District|H4932|N-ms
 v10 מִן־|min-|From|H4480|Prep
 v10 הַֽכֹּהֲנִ֑ים|hak·kō·hă·nîm|the priests|H3548|Art | N-mp
 v10 יְדַֽעְיָ֥ה|yə·ḏa‘·yāh|Jedaiah|H3048|N-proper-ms
@@ -193,7 +193,7 @@ v14 וּפָקִ֣יד|ū·p̄ā·qîḏ|was their overseer|H6496|Conj-w | N-ms
 v14 עֲלֵיהֶ֔ם|‘ă·lê·hem|...|H5921|Prep | 3mp
 v14 זַבְדִּיאֵ֖ל|zaḇ·dî·’êl|Zabdiel|H2068|N-proper-ms
 v14 בֶּן־|ben-|son of|H1121|N-msc
-v14 הַגְּדוֹלִֽים׃ס|hag·gə·ḏō·w·lîm|Haggedolim|H1419|Art | N-proper-ms
+v14 הַגְּדוֹלִֽים׃|hag·gə·ḏō·w·lîm|Haggedolim|H1419|Art | N-proper-ms
 v15 וּמִֽן־|ū·min-|From|H4480|Conj-w | Prep
 v15 הַלְוִיִּ֑ם|hal·wî·yim|the Levites|H3881|Art | N-proper-mp
 v15 שְׁמַעְיָ֧ה|šə·ma‘·yāh|Shemaiah|H8098|N-proper-ms
@@ -241,7 +241,7 @@ v18 בְּעִ֣יר|bə·‘îr|city|H5892|Prep-b | N-fsc
 v18 הַקֹּ֔דֶשׁ|haq·qō·ḏeš|in the holy|H6944|Art | N-ms
 v18 מָאתַ֖יִם|mā·ṯa·yim|284|H3967|Number-fd
 v18 שְׁמֹנִ֥ים|šə·mō·nîm|...|H8084|Number-cp
-v18 וְאַרְבָּעָֽה׃פ|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
+v18 וְאַרְבָּעָֽה׃|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
 v19 וְהַשּֽׁוֹעֲרִים֙|wə·haš·šō·w·‘ă·rîm|And the gatekeepers|H7778|Conj-w, Art | N-mp
 v19 עַקּ֣וּב|‘aq·qūḇ|Akkub|H6126|N-proper-ms
 v19 טַלְמ֔וֹן|ṭal·mō·wn|Talmon|H2929|N-proper-ms
@@ -266,7 +266,7 @@ v21 בָּעֹ֑פֶל|bā·‘ō·p̄el|on [the hill of] Ophel|H6077|Prep-b, Ar
 v21 וְצִיחָ֥א|wə·ṣî·ḥā|with Ziha|H6727|Conj-w | N-proper-ms
 v21 וְגִשְׁפָּ֖א|wə·ḡiš·pā|and Gishpa|H1658|Conj-w | N-proper-ms
 v21 עַל־|‘al-|over|H5921|Prep
-v21 הַנְּתִינִֽים׃פ|han·nə·ṯî·nîm|[them]|H5411|Art | N-mp
+v21 הַנְּתִינִֽים׃|han·nə·ṯî·nîm|[them]|H5411|Art | N-mp
 v22 וּפְקִ֤יד|ū·p̄ə·qîḏ|Now the overseer|H6496|Conj-w | N-msc
 v22 הַלְוִיִּם֙|hal·wî·yim|of the Levites|H3881|Art | N-proper-mp
 v22 בִּיר֣וּשָׁלִַ֔ם|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
@@ -314,7 +314,7 @@ v25 בִּשְׂדֹתָ֑ם|biś·ḏō·ṯām|with their fields|H7704|Prep-b 
 v25 מִבְּנֵ֣י|mib·bə·nê|some of the people|H1121|Prep-m | N-mpc
 v25 יְהוּדָ֗ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v25 יָֽשְׁב֞וּ|yā·šə·ḇū|lived|H3427|V-Qal-Perf-3cp
-v25 בְּקִרְיַ֤ת|bə·qir·yaṯ|vvv|H7153|Prep
+v25 בְּקִרְיַ֤ת|bə·qir·yaṯ|...|H7153|Prep
 v25 הָֽאַרְבַּע֙|hā·’ar·ba‘|in Kiriath-arba|H7153|Prep | N-proper-fs
 v25 וּבְנֹתֶ֔יהָ|ū·ḇə·nō·ṯe·hā|-|H1323|Conj-w | N-fpc | 3fs
 v25 וּבְדִיבֹן֙|ū·ḇə·ḏî·ḇōn|Dibon|H1769|Conj-w, Prep-b | N-proper-fs
@@ -323,17 +323,17 @@ v25 וּבִֽיקַּבְצְאֵ֖ל|ū·ḇîq·qaḇ·ṣə·’êl|Jekabzee
 v25 וַחֲצֵרֶֽיהָ׃|wa·ḥă·ṣê·re·hā|and their villages|H2691|Conj-w | N-cpc | 3fs
 v26 וּבְיֵשׁ֥וּעַ|ū·ḇə·yê·šū·a‘|in Jeshua|H3442|Conj-w, Prep-b | N-proper-fs
 v26 וּבְמוֹלָדָ֖ה|ū·ḇə·mō·w·lā·ḏāh|Moladah|H4137|Conj-w, Prep-b | N-proper-fs
-v26 וּבְבֵ֥ית|ū·ḇə·ḇêṯ|vvv|H1046|
+v26 וּבְבֵ֥ית|ū·ḇə·ḇêṯ|...|H1046|
 v26 פָּֽלֶט׃|pā·leṭ|and Beth-pelet|H1046|Conj-w, Prep | N-proper-fs
-v27 וּבַחֲצַ֥ר|ū·ḇa·ḥă·ṣar|vvv|H2705|
+v27 וּבַחֲצַ֥ר|ū·ḇa·ḥă·ṣar|...|H2705|
 v27 שׁוּעָ֛ל|šū·‘āl|in Hazar-shual|H2705|Conj-w, Prep | N-proper-fs
-v27 וּבִבְאֵ֥ר|ū·ḇiḇ·’êr|vvv|H884|
+v27 וּבִבְאֵ֥ר|ū·ḇiḇ·’êr|...|H884|
 v27 שֶׁ֖בַע|še·ḇa‘|in Beersheba|H884|Conj-w, Prep | N-proper-fs
 v27 וּבְנֹתֶֽיהָ׃|ū·ḇə·nō·ṯe·hā|and its villages|H1323|Conj-w | N-fpc | 3fs
 v28 וּבְצִֽקְלַ֥ג|ū·ḇə·ṣiq·laḡ|in Ziklag|H6860|Conj-w, Prep-b | N-proper-fs
 v28 וּבִמְכֹנָ֖ה|ū·ḇim·ḵō·nāh|in Meconah|H4368|Conj-w, Prep-b | N-proper-fs
 v28 וּבִבְנֹתֶֽיהָ׃|ū·ḇiḇ·nō·ṯe·hā|and its villages|H1323|Conj-w, Prep-b | N-fpc | 3fs
-v29 וּבְעֵ֥ין|ū·ḇə·‘ên|vvv|H5884|
+v29 וּבְעֵ֥ין|ū·ḇə·‘ên|...|H5884|
 v29 רִמּ֛וֹן|rim·mō·wn|in En-rimmon|H5884|Conj-w, Prep | N-proper-fs
 v29 וּבְצָרְעָ֖ה|ū·ḇə·ṣā·rə·‘āh|Zorah|H6881|Conj-w, Prep-b | N-proper-fs
 v29 וּבְיַרְמֽוּת׃|ū·ḇə·yar·mūṯ|Jarmuth|H3412|Conj-w, Prep-b | N-proper-fs
@@ -345,7 +345,7 @@ v30 וּשְׂדֹתֶ֔יהָ|ū·śə·ḏō·ṯe·hā|and its fields|H7704|C
 v30 עֲזֵקָ֖ה|‘ă·zê·qāh|and in Azekah|H5825|N-proper-fs
 v30 וּבְנֹתֶ֑יהָ|ū·ḇə·nō·ṯe·hā|and its villages|H1323|Conj-w | N-fpc | 3fs
 v30 וַיַּחֲנ֥וּ|way·ya·ḥă·nū|So they settled|H2583|Conj-w | V-Qal-ConsecImperf-3mp
-v30 מִבְּאֵֽר־|mib·bə·’êr-|vvv|H884|Prep
+v30 מִבְּאֵֽר־|mib·bə·’êr-|...|H884|Prep
 v30 שֶׁ֖בַע|še·ḇa‘|from Beersheba|H884|Prep | N-proper-fs
 v30 עַד־|‘aḏ-|all the way to|H5704|Prep
 v30 גֵּֽיא־|gê-|the Valley|H1516|N-proper-fs
@@ -355,7 +355,7 @@ v31 בִנְיָמִ֖ן|ḇin·yā·min|of Benjamin|H1144|N-proper-ms
 v31 מִגָּ֑בַע|mig·gā·ḇa‘|from Geba|H1387|Prep-m | N-proper-fs
 v31 מִכְמָ֣שׂ|miḵ·māś|[lived] in Michmash|H4363|N-proper-fs
 v31 וְעַיָּ֔ה|wə·‘ay·yāh|Aija|H5857|Conj-w | N-proper-fs
-v31 וּבֵֽית־|ū·ḇêṯ-|vvv|H1008|
+v31 וּבֵֽית־|ū·ḇêṯ-|...|H1008|
 v31 אֵ֖ל|’êl|and Bethel|H1008|Conj-w | N-proper-fs
 v31 וּבְנֹתֶֽיהָ׃|ū·ḇə·nō·ṯe·hā|with its villages|H1323|Conj-w | N-fpc | 3fs
 v32 עֲנָת֥וֹת|‘ă·nā·ṯō·wṯ|in Anathoth|H6068|N-proper-fs
@@ -375,4 +375,4 @@ v36 וּמִן־|ū·min-|And some|H4480|Conj-w | Prep
 v36 הַלְוִיִּ֔ם|hal·wî·yim|of the Levites|H3881|Art | N-proper-mp
 v36 מַחְלְק֥וֹת|maḥ·lə·qō·wṯ|divisions|H4256|N-fpc
 v36 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
-v36 לְבִנְיָמִֽין׃פ|lə·ḇin·yā·mîn|settled in Benjamin|H1144|Prep-l | N-proper-ms
+v36 לְבִנְיָמִֽין׃|lə·ḇin·yā·mîn|settled in Benjamin|H1144|Prep-l | N-proper-ms

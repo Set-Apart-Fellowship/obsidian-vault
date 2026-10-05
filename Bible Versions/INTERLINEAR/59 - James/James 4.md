@@ -25,13 +25,13 @@ v2 φονεύετε|phoneuete|you kill|G5407|V-PIA-2P
 v2 καὶ|kai|and|G2532|Conj
 v2 ζηλοῦτε|zēloute|covet|G2206|V-PIA-2P
 v2 καὶ|kai|but|G2532|Conj
-v2 οὐ|ou|vvv|G3756|Adv
+v2 οὐ|ou|...|G3756|Adv
 v2 δύνασθε|dynasthe|are unable|G1410|V-PIM/P-2P
 v2 ἐπιτυχεῖν|epitychein|to obtain [it]|G2013|V-ANA
 v2 μάχεσθε|machesthe|You quarrel|G3164|V-PIM/P-2P
 v2 καὶ|kai|and|G2532|Conj
 v2 πολεμεῖτε|polemeite|fight|G4170|V-PIA-2P
-v2 οὐκ|ouk|vvv|G3756|Adv
+v2 οὐκ|ouk|...|G3756|Adv
 v2 ἔχετε|echete|You do not have|G2192|V-PIA-2P
 v2 διὰ|dia|because|G1223|Prep
 v2 τὸ|to|-|G3588|Art-ANS
@@ -52,7 +52,7 @@ v3 ἡδοναῖς|hēdonais|pleasures|G2237|N-DFP
 v3 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v3 δαπανήσητε|dapanēsēte|you may squander [it]|G1159|V-ASA-2P
 v4 Μοιχαλίδες|Moichalides|[You] adulteresses|G3428|N-VFP
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 οἴδατε|oidate|Do you not know|G1492|V-RIA-2P
 v4 ὅτι|hoti|that|G3754|Conj
 v4 ἡ|hē|-|G3588|Art-NFS
@@ -161,9 +161,9 @@ v11 καταλαλῶν|katalalōn|speaks against|G2635|V-PPA-NMS
 v11 ἀδελφοῦ|adelphou|[his] brother|G80|N-GMS
 v11 ἢ|ē|or|G2228|Conj
 v11 κρίνων|krinōn|judges|G2919|V-PPA-NMS
-v11 τὸν|ton|vvv|G3588|Art-AMS
+v11 τὸν|ton|...|G3588|Art-AMS
 v11 ἀδελφὸν|adelphon|[him]|G80|N-AMS
-v11 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v11 αὐτοῦ|autou|...|G846|PPro-GM3S
 v11 καταλαλεῖ|katalalei|speaks against|G2635|V-PIA-3S
 v11 νόμου|nomou|[the] law|G3551|N-GMS
 v11 καὶ|kai|and|G2532|Conj
@@ -222,7 +222,7 @@ v14 οἵτινες|hoitines|You|G3748|RelPro-NMP
 v14 οὐκ|ouk|...|G3756|Adv
 v14 ἐπίστασθε|epistasthe|do not even know|G1987|V-PIM/P-2P
 v14 ‹τὸ›|to|what [will happen]|G3588|Art-ANS
-v14 τῆς|tēs|vvv|G3588|Art-GFS
+v14 τῆς|tēs|...|G3588|Art-GFS
 v14 αὔριον|aurion|tomorrow|G839|Adv
 v14 ποία|poia|What [is]|G4169|IPro-NFS
 v14 ἡ|hē|-|G3588|Art-NFS
@@ -231,8 +231,8 @@ v14 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v14 ἀτμὶς|atmis|a mist|G822|N-NFS
 v14 γάρ|gar|-|G1063|Conj
 v14 ἐστε|este|You are|G1510|V-PIA-2P
-v14 ἡ|hē|vvv|G3588|Art-NFS
-v14 πρὸς|pros|vvv|G4314|Prep
+v14 ἡ|hē|...|G3588|Art-NFS
+v14 πρὸς|pros|...|G4314|Prep
 v14 ὀλίγον|oligon|for a little [while]|G3641|Adj-ANS
 v14 φαινομένη|phainomenē|that appears|G5316|V-PPM/P-NFS
 v14 ἔπειτα|epeita|then|G1899|Adv
@@ -254,7 +254,7 @@ v15 τοῦτο|touto|this|G3778|DPro-ANS
 v15 ἢ|ē|or|G2228|Conj
 v15 ἐκεῖνο|ekeino|that|G1565|DPro-ANS
 v16 νῦν|nyn|As it is|G3568|Adv
-v16 δὲ|de|vvv|G1161|Conj
+v16 δὲ|de|...|G1161|Conj
 v16 καυχᾶσθε|kauchasthe|you boast|G2744|V-PIM/P-2P
 v16 ἐν|en|in|G1722|Prep
 v16 ταῖς|tais|-|G3588|Art-DFP

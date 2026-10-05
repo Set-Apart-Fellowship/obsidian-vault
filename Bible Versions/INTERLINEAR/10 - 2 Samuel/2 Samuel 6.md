@@ -14,7 +14,7 @@ v2 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v2 הָעָם֙|hā·‘ām|his troops|H5971|Art | N-ms
 v2 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v2 אִתּ֔וֹ|’it·tōw|-|H854|Prep | 3ms
-v2 מִֽבַּעֲלֵ֖י|mib·ba·‘ă·lê|vvv|H1184|Prep
+v2 מִֽבַּעֲלֵ֖י|mib·ba·‘ă·lê|...|H1184|Prep
 v2 יְהוּדָ֑ה|yə·hū·ḏāh|for Baale of Judah|H1184|Prep | N-proper-fs
 v2 לְהַעֲל֣וֹת|lə·ha·‘ă·lō·wṯ|to bring up|H5927|Prep-l | V-Hifil-Inf
 v2 מִשָּׁ֗ם|miš·šām|from there|H8033|Prep-m | Adv
@@ -116,7 +116,7 @@ v8 בְּעֻזָּ֑ה|bə·‘uz·zāh|against Uzzah|H5798|Prep-b | N-proper-m
 v8 וַיִּקְרָ֞א|way·yiq·rā|So he named|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v8 לַמָּק֤וֹם|lam·mā·qō·wm|place|H4725|Prep-l, Art | N-ms
 v8 הַהוּא֙|ha·hū|that|H1931|Art | Pro-3ms
-v8 פֶּ֣רֶץ|pe·reṣ|vvv|H6560|
+v8 פֶּ֣רֶץ|pe·reṣ|...|H6560|
 v8 עֻזָּ֔ה|‘uz·zāh|Perez-uzzah|H6560|N-proper-fs
 v8 עַ֖ד|‘aḏ|as it is [called] to|H5704|Prep
 v8 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
@@ -133,7 +133,7 @@ v9 יָב֥וֹא|yā·ḇō·w|ever come|H935|V-Qal-Imperf-3ms
 v9 אֵלַ֖י|’ê·lay|to me|H413|Prep | 1cs
 v9 אֲר֥וֹן|’ă·rō·wn|can the ark|H727|N-csc
 v9 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
-v10 וְלֹֽא־|wə·lō-|vvv|H3808|Conj-w | Adv-NegPrt
+v10 וְלֹֽא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v10 אָבָ֣ה|’ā·ḇāh|was unwilling|H14|V-Qal-Perf-3ms
 v10 דָוִ֗ד|ḏā·wiḏ|So he|H1732|N-proper-ms
 v10 לְהָסִ֥יר|lə·hā·sîr|to move|H5493|Prep-l | V-Hifil-Inf
@@ -147,14 +147,14 @@ v10 דָּוִ֑ד|dā·wiḏ|of David|H1732|N-proper-ms
 v10 וַיַּטֵּ֣הוּ|way·yaṭ·ṭê·hū|it aside|H5186|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
 v10 דָוִ֔ד|ḏā·wiḏ|instead, he took|H1732|N-proper-ms
 v10 בֵּ֥ית|bêṯ|to the house|H1004|N-msc
-v10 עֹבֵֽד־|‘ō·ḇêḏ-|vvv|H5654|
+v10 עֹבֵֽד־|‘ō·ḇêḏ-|...|H5654|
 v10 אֱד֖וֹם|’ĕ·ḏō·wm|of Obed-edom|H5654|N-proper-ms
 v10 הַגִּתִּֽי׃|hag·git·tî|the Gittite|H1663|Art | N-proper-ms
 v11 וַיֵּשֶׁב֩|way·yê·šeḇ|remained|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v11 אֲר֨וֹן|’ă·rō·wn|Thus the ark|H727|N-csc
 v11 יְהוָ֜ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v11 בֵּ֣ית|bêṯ|in the house|H1004|N-msc
-v11 עֹבֵ֥ד|‘ō·ḇêḏ|vvv|H5654|
+v11 עֹבֵ֥ד|‘ō·ḇêḏ|...|H5654|
 v11 אֱדֹ֛ם|’ĕ·ḏōm|of Obed-edom|H5654|N-proper-ms
 v11 הַגִּתִּ֖י|hag·git·tî|the Gittite|H1663|Art | N-proper-ms
 v11 שְׁלֹשָׁ֣ה|šə·lō·šāh|for three|H7969|Number-ms
@@ -162,7 +162,7 @@ v11 חֳדָשִׁ֑ים|ḥo·ḏā·šîm|months|H2320|N-mp
 v11 וַיְבָ֧רֶךְ|way·ḇā·reḵ|blessed|H1288|Conj-w | V-Piel-ConsecImperf-3ms
 v11 יְהוָ֛ה|Yah·weh|and the LORD|H3068|N-proper-ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
-v11 עֹבֵ֥ד|‘ō·ḇêḏ|vvv|H5654|
+v11 עֹבֵ֥ד|‘ō·ḇêḏ|...|H5654|
 v11 אֱדֹ֖ם|’ĕ·ḏōm|[him]|H5654|N-proper-ms
 v11 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v11 כָּל־|kāl-|and all|H3605|N-msc
@@ -175,7 +175,7 @@ v12 בֵּרַ֣ךְ|bê·raḵ|has blessed|H1288|V-Piel-Perf-3ms
 v12 יְהוָ֗ה|Yah·weh|The LORD|H3068|N-proper-ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 בֵּ֨ית|bêṯ|the house|H1004|N-msc
-v12 עֹבֵ֤ד|‘ō·ḇêḏ|vvv|H5654|
+v12 עֹבֵ֤ד|‘ō·ḇêḏ|...|H5654|
 v12 אֱדֹם֙|’ĕ·ḏōm|of Obed-edom|H5654|N-proper-ms
 v12 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v12 כָּל־|kāl-|all|H3605|N-msc
@@ -187,11 +187,11 @@ v12 הָאֱלֹהִ֑ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v12 וַיֵּ֣לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v12 דָּוִ֗ד|dā·wiḏ|So David|H1732|N-proper-ms
 v12 וַיַּעַל֩|way·ya·‘al|brought up|H5927|Conj-w | V-Hifil-ConsecImperf-3ms
-v12 אֶת־|’eṯ-||H853|DirObjM
+v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 אֲר֨וֹן|’ă·rō·wn|and had the ark|H727|N-csc
 v12 הָאֱלֹהִ֜ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v12 מִבֵּ֨ית|mib·bêṯ|from the house|H1004|Prep-m | N-msc
-v12 עֹבֵ֥ד|‘ō·ḇêḏ|vvv|H5654|
+v12 עֹבֵ֥ד|‘ō·ḇêḏ|...|H5654|
 v12 אֱדֹ֛ם|’ĕ·ḏōm|of Obed-edom|H5654|N-proper-ms
 v12 עִ֥יר|‘îr|into the City|H5892|N-fsc
 v12 דָּוִ֖ד|dā·wiḏ|of David|H1732|N-proper-ms
@@ -290,7 +290,7 @@ v19 יִשְׂרָאֵל֮|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v19 לְמֵאִ֣ישׁ|lə·mê·’îš|man|H376|Prep-l, Prep-m | N-ms
 v19 וְעַד־|wə·‘aḏ-|and|H5704|Conj-w | Prep
 v19 אִשָּׁה֒|’iš·šāh|woman|H802|N-fs
-v19 לְאִ֗ישׁ|lə·’îš||H376|Prep-l | N-ms
+v19 לְאִ֗ישׁ|lə·’îš|-|H376|Prep-l | N-ms
 v19 חַלַּ֥ת|ḥal·laṯ|loaf|H2471|N-fsc
 v19 לֶ֙חֶם֙|le·ḥem|of bread|H3899|N-ms
 v19 אַחַ֔ת|’a·ḥaṯ|a|H259|Number-fsc
@@ -370,8 +370,8 @@ v23 בַּת־|baṯ-|the daughter|H1323|N-fsc
 v23 שָׁא֔וּל|šā·’ūl|of Saul|H7586|N-proper-ms
 v23 לֹֽא־|lō-|no|H3808|Adv-NegPrt
 v23 הָ֥יָה|hā·yāh|had|H1961|V-Qal-Perf-3ms
-v23 לָ֖הּ|lāh||H0|Prep | 3fs
+v23 לָ֖הּ|lāh|-|H0|Prep | 3fs
 v23 יָ֑לֶד|yā·leḏ|children|H3206|N-ms
 v23 עַ֖ד|‘aḏ|to|H5704|Prep
 v23 י֥וֹם|yō·wm|the day|H3117|N-msc
-v23 מוֹתָֽהּ׃פ|mō·w·ṯāh|of her death|H4194|N-msc | 3fs
+v23 מוֹתָֽהּ׃|mō·w·ṯāh|of her death|H4194|N-msc | 3fs

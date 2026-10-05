@@ -11,7 +11,7 @@ v1 מָלַ֖ךְ|mā·laḵ|and he reigned|H4427|V-Qal-Perf-3ms
 v1 בִּירוּשָׁלִָ֑ם|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v1 וְשֵׁ֥ם|wə·šêm|name|H8034|Conj-w | N-msc
 v1 אִמּ֖וֹ|’im·mōw|His mother's|H517|N-fsc | 3ms
-v1 חֶפְצִי־|ḥep̄·ṣî-|vvv|H2657|
+v1 חֶפְצִי־|ḥep̄·ṣî-|...|H2657|
 v1 בָֽהּ׃|ḇāh|was Hephzibah|H2657|N-proper-fs
 v2 וַיַּ֥עַשׂ|way·ya·‘aś|And he did|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v2 הָרַ֖ע|hā·ra‘|evil|H7451|Art | Adj-ms
@@ -175,7 +175,7 @@ v11 וַיַּחֲטִ֥א|way·ya·ḥă·ṭi|to sin|H2398|Conj-w | V-Hifil-C
 v11 גַֽם־|ḡam-|and|H1571|Conj
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 יְהוּדָ֖ה|yə·hū·ḏāh|has caused Judah|H3063|N-proper-ms
-v11 בְּגִלּוּלָֽיו׃פ|bə·ḡil·lū·lāw|with his idols|H1544|Prep-b | N-mpc | 3ms
+v11 בְּגִלּוּלָֽיו׃|bə·ḡil·lū·lāw|with his idols|H1544|Prep-b | N-mpc | 3ms
 v12 לָכֵ֗ן|lā·ḵên|-|H3651|Adv
 v12 כֹּֽה־|kōh-|this is what|H3541|Adv
 v12 אָמַ֤ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -192,7 +192,7 @@ v12 אֲשֶׁר֙|’ă·šer|that [the news]|H834|Pro-r
 v12 כָּל־|kāl-|of all|H3605|N-msc
 v12 שֹׁמְעָיו|šō·mə·ʿå̄w|who hear it|H8085|V-Qal-Prtcpl-msc | 3fs
 v12 תִּצַּ֖לְנָה|tiṣ·ṣal·nāh|will reverberate|H6750|V-Qal-Imperf-3fp
-v12 שְׁתֵּ֥י|šə·tê|vvv|H8147|Number-fdc
+v12 שְׁתֵּ֥י|šə·tê|...|H8147|Number-fdc
 v12 אָזְנָֽיו׃|’ā·zə·nāw|in the ears|H241|N-fdc | 3ms
 v13 וְנָטִ֣יתִי|wə·nā·ṭî·ṯî|I will stretch out|H5186|Conj-w | V-Qal-ConjPerf-1cs
 v13 עַל־|‘al-|over|H5921|Prep
@@ -213,7 +213,7 @@ v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 הַצַּלַּ֙חַת֙|haṣ·ṣal·la·ḥaṯ|a bowl|H6747|Art | N-fs
 v13 מָחָ֔ה|mā·ḥāh|wiping [it]|H4229|V-Qal-Perf-3ms
 v13 וְהָפַ֖ךְ|wə·hā·p̄aḵ|and turning [it]|H2015|Conj-w | V-Qal-ConjPerf-3ms
-v13 עַל־|‘al-|vvv|H5921|Prep
+v13 עַל־|‘al-|...|H5921|Prep
 v13 פָּנֶֽיהָ׃|pā·ne·hā|upside down|H6440|N-mpc | 3fs
 v14 וְנָטַשְׁתִּ֗י|wə·nā·ṭaš·tî|So I will forsake|H5203|Conj-w | V-Qal-ConjPerf-1cs
 v14 אֵ֚ת|’êṯ|-|H853|DirObjM
@@ -299,7 +299,7 @@ v18 עֻזָּ֑א|‘uz·zā|of Uzza|H5798|N-proper-ms
 v18 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v18 אָמ֥וֹן|’ā·mō·wn|Amon|H526|N-proper-ms
 v18 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v18 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v18 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v19 בֶּן־|ben-|years old|H1121|N-msc
 v19 עֶשְׂרִ֨ים|‘eś·rîm|was twenty-two|H6242|Number-cp
 v19 וּשְׁתַּ֤יִם|ū·šə·ta·yim|...|H8147|Conj-w | Number-fd
@@ -338,7 +338,7 @@ v21 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v21 עָבַ֣ד|‘ā·ḇaḏ|had served|H5647|V-Qal-Perf-3ms
 v21 אָבִ֔יו|’ā·ḇîw|his father|H1|N-msc | 3ms
 v21 וַיִּשְׁתַּ֖חוּ|way·yiš·ta·ḥū|and worshiped|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
-v21 לָהֶֽם׃|lā·hem||H0|Prep | 3mp
+v21 לָהֶֽם׃|lā·hem|-|H0|Prep | 3mp
 v22 וַיַּעֲזֹ֕ב|way·ya·‘ă·zōḇ|He abandoned|H5800|Conj-w | V-Qal-ConsecImperf-3ms
 v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -359,7 +359,7 @@ v23 בְּבֵיתֽוֹ׃|bə·ḇê·ṯōw|in his palace|H1004|Prep-b | N-msc
 v24 וַיַּךְ֙|way·yaḵ|killed|H5221|Conj-w | V-Hifil-ConsecImperf-3ms
 v24 עַם־|‘am-|But the people|H5971|N-msc
 v24 הָאָ֔רֶץ|hā·’ā·reṣ|of the land|H776|Art | N-fs
-v24 אֵ֥ת|’êṯ||H853|DirObjM
+v24 אֵ֥ת|’êṯ|-|H853|DirObjM
 v24 כָּל־|kāl-|all [those]|H3605|N-msc
 v24 הַקֹּשְׁרִ֖ים|haq·qō·šə·rîm|who had conspired|H7194|Art | V-Qal-Prtcpl-mp
 v24 עַל־|‘al-|against|H5921|Prep
@@ -394,4 +394,4 @@ v26 עֻזָּ֑א|‘uz·zā|of Uzza|H5798|N-proper-ms
 v26 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v26 יֹאשִׁיָּ֥הוּ|yō·šî·yā·hū|Josiah|H2977|N-proper-ms
 v26 בְנ֖וֹ|ḇə·nōw|and his son|H1121|N-msc | 3ms
-v26 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v26 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

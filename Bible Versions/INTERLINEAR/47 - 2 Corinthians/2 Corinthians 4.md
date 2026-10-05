@@ -6,7 +6,7 @@ v1 διακονίαν|diakonian|ministry|G1248|N-AFS
 v1 ταύτην|tautēn|this|G3778|DPro-AFS
 v1 καθὼς|kathōs|[since God] in His|G2531|Adv
 v1 ἠλεήθημεν|ēleēthēmen|mercy|G1653|V-AIP-1P
-v1 οὐκ|ouk|vvv|G3756|Adv
+v1 οὐκ|ouk|...|G3756|Adv
 v1 ἐγκακοῦμεν|enkakoumen|we do not lose heart|G1573|V-PIA-1P
 v2 ἀλλὰ|alla|Instead|G235|Conj
 v2 ἀπειπάμεθα|apeipametha|we have renounced|G550|V-AIM-1P
@@ -14,7 +14,7 @@ v2 τὰ|ta|-|G3588|Art-ANP
 v2 κρυπτὰ|krypta|secret|G2927|Adj-ANP
 v2 τῆς|tēs|-|G3588|Art-GFS
 v2 αἰσχύνης|aischynēs|[and] shameful [ways]|G152|N-GFS
-v2 μὴ|mē|vvv|G3361|Adv
+v2 μὴ|mē|...|G3361|Adv
 v2 περιπατοῦντες|peripatountes|We do not practice|G4043|V-PPA-NMP
 v2 ἐν|en|...|G1722|Prep
 v2 πανουργίᾳ|panourgia|deceit|G3834|N-DFS
@@ -64,8 +64,8 @@ v4 νοήματα|noēmata|minds|G3540|N-ANP
 v4 τῶν|tōn|of|G3588|Art-GMP
 v4 ἀπίστων|apistōn|unbelievers|G571|Adj-GMP
 v4 εἰς|eis|so|G1519|Prep
-v4 τὸ|to|vvv|G3588|Art-ANS
-v4 μὴ|mē|vvv|G3361|Adv
+v4 τὸ|to|...|G3588|Art-ANS
+v4 μὴ|mē|...|G3361|Adv
 v4 αὐγάσαι|augasai|they cannot see|G826|V-ANA
 v4 τὸν|ton|the|G3588|Art-AMS
 v4 φωτισμὸν|phōtismon|light|G5462|N-AMS
@@ -80,7 +80,7 @@ v4 ἐστιν|estin|is|G1510|V-PIA-3S
 v4 εἰκὼν|eikōn|[the] image|G1504|N-NFS
 v4 τοῦ|tou|-|G3588|Art-GMS
 v4 Θεοῦ|Theou|of God|G2316|N-GMS
-v5 Οὐ|Ou|vvv|G3756|Adv
+v5 Οὐ|Ou|...|G3756|Adv
 v5 γὰρ|gar|For|G1063|Conj
 v5 ἑαυτοὺς|heautous|ourselves|G1438|RefPro-AM3P
 v5 κηρύσσομεν|kēryssomen|we do not proclaim|G2784|V-PIA-1P
@@ -238,7 +238,7 @@ v14 ἐγείρας|egeiras|raised|G1453|V-APA-NMS
 v14 τὸν|ton|the|G3588|Art-AMS
 v14 Κύριον|Kyrion|Lord|G2962|N-AMS
 v14 Ἰησοῦν|Iēsoun|Jesus|G2424|N-AMS
-v14 καὶ|kai|vvv|G2532|Conj
+v14 καὶ|kai|...|G2532|Conj
 v14 ἡμᾶς|hēmas|...|G1473|PPro-A1P
 v14 σὺν|syn|with|G4862|Prep
 v14 Ἰησοῦ|Iēsou|Jesus|G2424|N-DMS
@@ -268,7 +268,7 @@ v15 δόξαν|doxan|glory|G1391|N-AFS
 v15 τοῦ|tou|-|G3588|Art-GMS
 v15 Θεοῦ|Theou|of God|G2316|N-GMS
 v16 Διὸ|Dio|Therefore|G1352|Conj
-v16 οὐκ|ouk|vvv|G3756|Adv
+v16 οὐκ|ouk|...|G3756|Adv
 v16 ἐγκακοῦμεν|enkakoumen|we do not lose heart|G1573|V-PIA-1P
 v16 ἀλλ’|all’|[Though]|G235|Conj
 v16 εἰ|ei|...|G1487|Conj
@@ -309,7 +309,7 @@ v18 τὰ|ta|on what|G3588|Art-ANP
 v18 βλεπόμενα|blepomena|is seen|G991|V-PPM/P-ANP
 v18 ἀλλὰ|alla|but|G235|Conj
 v18 τὰ|ta|on what|G3588|Art-ANP
-v18 μὴ|mē|vvv|G3361|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 βλεπόμενα|blepomena|is unseen|G991|V-PPM/P-ANP
 v18 τὰ|ta|what|G3588|Art-NNP
 v18 γὰρ|gar|For|G1063|Conj
@@ -317,6 +317,6 @@ v18 βλεπόμενα|blepomena|is seen|G991|V-PPM/P-NNP
 v18 πρόσκαιρα|proskaira|[is] temporary|G4340|Adj-NNP
 v18 τὰ|ta|what|G3588|Art-NNP
 v18 δὲ|de|but|G1161|Conj
-v18 μὴ|mē|vvv|G3361|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 βλεπόμενα|blepomena|is unseen|G991|V-PPM/P-NNP
 v18 αἰώνια|aiōnia|[is] eternal|G166|Adj-NNP

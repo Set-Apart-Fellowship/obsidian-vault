@@ -15,7 +15,7 @@ v1 ῥῆμα|rhēma|matter|G4487|N-NNS
 v2 Προείρηκα|Proeirēka|I already warned [you]|G4302|V-RIA-1S
 v2 καὶ|kai|...|G2532|Conj
 v2 προλέγω|prolegō|I warn|G4302|V-PIA-1S
-v2 ὡς|hōs|vvv|G5613|Adv
+v2 ὡς|hōs|...|G5613|Adv
 v2 παρὼν|parōn|I was [with you]|G3918|V-PPA-NMS
 v2 τὸ|to|the|G3588|Art-ANS
 v2 δεύτερον|deuteron|second time|G1208|Adj-ANS
@@ -31,10 +31,10 @@ v2 πᾶσιν|pasin|everyone|G3956|Adj-DMP
 v2 ὅτι|hoti|-|G3754|Conj
 v2 ἐὰν|ean|If|G1437|Conj
 v2 ἔλθω|elthō|I return|G2064|V-ASA-1S
-v2 εἰς|eis|vvv|G1519|Prep
-v2 τὸ|to|vvv|G3588|Art-ANS
-v2 πάλιν|palin|vvv|G3825|Adv
-v2 οὐ|ou|vvv|G3756|Adv
+v2 εἰς|eis|...|G1519|Prep
+v2 τὸ|to|...|G3588|Art-ANS
+v2 πάλιν|palin|...|G3825|Adv
+v2 οὐ|ou|...|G3756|Adv
 v2 φείσομαι|pheisomai|I will not spare [anyone]|G5339|V-FIM-1S
 v3 ἐπεὶ|epei|since|G1893|Conj
 v3 δοκιμὴν|dokimēn|proof|G1382|N-AFS
@@ -47,13 +47,13 @@ v3 Χριστοῦ|Christou|Christ|G5547|N-GMS
 v3 ὃς|hos|[He]|G3739|RelPro-NMS
 v3 εἰς|eis|in dealing with|G1519|Prep
 v3 ὑμᾶς|hymas|you|G4771|PPro-A2P
-v3 οὐκ|ouk|vvv|G3756|Adv
+v3 οὐκ|ouk|...|G3756|Adv
 v3 ἀσθενεῖ|asthenei|is not weak|G770|V-PIA-3S
 v3 ἀλλὰ|alla|but|G235|Conj
 v3 δυνατεῖ|dynatei|is powerful|G1414|V-PIA-3S
 v3 ἐν|en|among|G1722|Prep
 v3 ὑμῖν|hymin|you|G4771|PPro-D2P
-v4 καὶ|kai|vvv|G2532|Conj
+v4 καὶ|kai|...|G2532|Conj
 v4 γὰρ|gar|For|G1063|Conj
 v4 ἐσταυρώθη|estaurōthē|He was indeed crucified|G4717|V-AIP-3S
 v4 ἐξ|ex|in|G1537|Prep
@@ -87,7 +87,7 @@ v5 τῇ|tē|the|G3588|Art-DFS
 v5 πίστει|pistei|faith|G4102|N-DFS
 v5 ἑαυτοὺς|heautous|yourselves|G1438|RefPro-AM3P
 v5 δοκιμάζετε|dokimazete|test|G1381|V-PMA-2P
-v5 ἢ|ē|vvv|G2228|Conj
+v5 ἢ|ē|...|G2228|Conj
 v5 οὐκ|ouk|Do you not|G3756|Adv
 v5 ἐπιγινώσκετε|epiginōskete|realize|G1921|V-PIA-2P
 v5 ἑαυτοὺς|heautous|-|G1438|RefPro-AM3P
@@ -114,7 +114,7 @@ v7 δὲ|de|Now|G1161|Conj
 v7 πρὸς|pros|to|G4314|Prep
 v7 τὸν|ton|-|G3588|Art-AMS
 v7 Θεὸν|Theon|God|G2316|N-AMS
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 ποιῆσαι|poiēsai|will not do|G4160|V-ANA
 v7 ὑμᾶς|hymas|[that] you|G4771|PPro-A2P
 v7 κακὸν|kakon|wrong|G2556|Adj-ANS
@@ -135,7 +135,7 @@ v7 δὲ|de|even if|G1161|Conj
 v7 ὡς|hōs|to|G5613|Adv
 v7 ἀδόκιμοι|adokimoi|have failed|G96|Adj-NMP
 v7 ὦμεν|ōmen|appear|G1510|V-PSA-1P
-v8 οὐ|ou|vvv|G3756|Adv
+v8 οὐ|ou|...|G3756|Adv
 v8 γὰρ|gar|For|G1063|Conj
 v8 δυνάμεθά|dynametha|we cannot do|G1410|V-PIM/P-1P
 v8 τι|ti|anything|G5100|IPro-ANS
@@ -168,7 +168,7 @@ v10 ἀπὼν|apōn|while absent|G548|V-PPA-NMS
 v10 γράφω|graphō|I write|G1125|V-PIA-1S
 v10 ἵνα|hina|so that|G2443|Conj
 v10 παρὼν|parōn|when I am present|G3918|V-PPA-NMS
-v10 μὴ|mē|vvv|G3361|Adv
+v10 μὴ|mē|...|G3361|Adv
 v10 ἀποτόμως|apotomōs|severe|G664|Adv
 v10 χρήσωμαι|chrēsōmai|I will not need to be|G5530|V-ASM-1S
 v10 κατὰ|kata|in my use of|G2596|Prep

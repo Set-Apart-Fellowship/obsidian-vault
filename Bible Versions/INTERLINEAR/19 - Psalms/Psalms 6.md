@@ -66,7 +66,7 @@ v8 אָ֑וֶן|’ā·wen|of iniquity|H205|N-ms
 v8 כִּֽי־|kî-|for|H3588|Conj
 v8 שָׁמַ֥ע|šā·ma‘|has heard|H8085|V-Qal-Perf-3ms
 v8 יְ֝הוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
-v8 ק֣וֹל|qō·wl|vvv|H6963|N-msc
+v8 ק֣וֹל|qō·wl|...|H6963|N-msc
 v8 בִּכְיִֽי׃|biḵ·yî|my weeping|H1065|N-msc | 1cs
 v9 שָׁמַ֣ע|šā·ma‘|has heard|H8085|V-Qal-Perf-3ms
 v9 יְ֭הוָה|Yah·weh|The LORD|H3068|N-proper-ms

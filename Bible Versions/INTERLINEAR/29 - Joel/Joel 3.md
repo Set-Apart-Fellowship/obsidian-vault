@@ -109,7 +109,7 @@ v8 גּ֣וֹי|gō·w|nation|H1471|N-ms
 v8 רָח֑וֹק|rā·ḥō·wq|a distant|H7350|Adj-ms
 v8 כִּ֥י|kî|Indeed|H3588|Conj
 v8 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v8 דִּבֵּֽר׃ס|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms
+v8 דִּבֵּֽר׃|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms
 v9 קִרְאוּ־|qir·’ū-|Proclaim|H7121|V-Qal-Imp-mp
 v9 זֹאת֙|zōṯ|this|H2063|Pro-fs
 v9 בַּגּוֹיִ֔ם|bag·gō·w·yim|among the nations|H1471|Prep-b, Art | N-mp
@@ -216,8 +216,8 @@ v17 קֹ֔דֶשׁ|qō·ḏeš|holy|H6944|N-ms
 v17 וְזָרִ֥ים|wə·zā·rîm|by foreigners|H2114|Conj-w | Adj-mp
 v17 לֹא־|lō-|never|H3808|Adv-NegPrt
 v17 יַֽעַבְרוּ־|ya·‘aḇ·rū-|to be overrun|H5674|V-Qal-Imperf-3mp
-v17 בָ֖הּ|ḇāh||H0|Prep | 3fs
-v17 עֽוֹד׃ס|‘ō·wḏ|again|H5750|Adv
+v17 בָ֖הּ|ḇāh|-|H0|Prep | 3fs
+v17 עֽוֹד׃|‘ō·wḏ|again|H5750|Adv
 v18 וְהָיָה֩|wə·hā·yāh|And|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v18 בַיּ֨וֹם|ḇay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v18 הַה֜וּא|ha·hū|in that|H1931|Art | Pro-3ms
@@ -246,7 +246,7 @@ v19 תִֽהְיֶ֔ה|ṯih·yeh|will become|H1961|V-Qal-Imperf-3fs
 v19 וֶאֱד֕וֹם|we·’ĕ·ḏō·wm|and Edom|H123|Conj-w | N-proper-ms
 v19 לְמִדְבַּ֥ר|lə·miḏ·bar|a desert|H4057|Prep-l | N-msc
 v19 שְׁמָמָ֖ה|šə·mā·māh|wasteland|H8077|N-fs
-v19 תִּֽהְיֶ֑ה|tih·yeh||H1961|V-Qal-Imperf-3fs
+v19 תִּֽהְיֶ֑ה|tih·yeh|-|H1961|V-Qal-Imperf-3fs
 v19 מֵֽחֲמַס֙|mê·ḥă·mas|because of the violence|H2555|Prep-m | N-msc
 v19 בְּנֵ֣י|bə·nê|done to the people|H1121|N-mpc
 v19 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms

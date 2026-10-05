@@ -3,7 +3,7 @@ v1 γὰρ|gar|For|G1063|Conj
 v1 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v1 εἰδέναι|eidenai|to know|G1492|V-RNA
 v1 ἡλίκον|hēlikon|how much|G2245|Adj-AMS
-v1 ἀγῶνα|agōna|vvv|G73|N-AMS
+v1 ἀγῶνα|agōna|...|G73|N-AMS
 v1 ἔχω|echō|I am struggling|G2192|V-PIA-1S
 v1 ὑπὲρ|hyper|for|G5228|Prep
 v1 ὑμῶν|hymōn|you|G4771|PPro-G2P
@@ -13,7 +13,7 @@ v1 ἐν|en|at|G1722|Prep
 v1 Λαοδικείᾳ|Laodikeia|Laodicea|G2993|N-DFS
 v1 καὶ|kai|and|G2532|Conj
 v1 ὅσοι|hosoi|for all who|G3745|RelPro-NMP
-v1 οὐχ|ouch|vvv|G3756|Adv
+v1 οὐχ|ouch|...|G3756|Adv
 v1 ἑόρακαν|heorakan|have not met|G3708|V-RIA-3P
 v1 τὸ|to|-|G3588|Art-ANS
 v1 πρόσωπόν|prosōpon|face to face|G4383|N-ANS
@@ -30,7 +30,7 @@ v2 ἐν|en|in|G1722|Prep
 v2 ἀγάπῃ|agapē|love|G26|N-DFS
 v2 καὶ|kai|and|G2532|Conj
 v2 εἰς|eis|filled with|G1519|Prep
-v2 πᾶν|pan|vvv|G3956|Adj-ANS
+v2 πᾶν|pan|...|G3956|Adj-ANS
 v2 πλοῦτος|ploutos|[the] full riches|G4149|N-ANS
 v2 τῆς|tēs|-|G3588|Art-GFS
 v2 πληροφορίας|plērophorias|of complete|G4136|N-GFS
@@ -129,14 +129,14 @@ v8 ἀπάτης|apatēs|deception|G539|N-GFS
 v8 κατὰ|kata|which are based on|G2596|Prep
 v8 τὴν|tēn|-|G3588|Art-AFS
 v8 παράδοσιν|paradosin|tradition|G3862|N-AFS
-v8 τῶν|tōn|vvv|G3588|Art-GMP
+v8 τῶν|tōn|...|G3588|Art-GMP
 v8 ἀνθρώπων|anthrōpōn|human|G444|N-GMP
 v8 κατὰ|kata|[and]|G2596|Prep
 v8 τὰ|ta|the|G3588|Art-ANP
 v8 στοιχεῖα|stoicheia|spiritual forces|G4747|N-ANP
 v8 τοῦ|tou|of the|G3588|Art-GMS
 v8 κόσμου|kosmou|world|G2889|N-GMS
-v8 καὶ|kai|vvv|G2532|Conj
+v8 καὶ|kai|...|G2532|Conj
 v8 οὐ|ou|rather than|G3756|Adv
 v8 κατὰ|kata|on|G2596|Prep
 v8 Χριστόν|Christon|Christ|G5547|N-AMS
@@ -165,7 +165,7 @@ v10 καὶ|kai|and|G2532|Conj
 v10 ἐξουσίας|exousias|authority|G1849|N-GFS
 v11 ἐν|en|In|G1722|Prep
 v11 ᾧ|hō|Him|G3739|RelPro-DMS
-v11 καὶ|kai|vvv|G2532|Conj
+v11 καὶ|kai|...|G2532|Conj
 v11 περιετμήθητε|perietmēthēte|you were also circumcised|G4059|V-AIP-2P
 v11 περιτομῇ|peritomē|[and]|G4061|N-DFS
 v11 ἀχειροποιήτῳ|acheiropoiētō|not by human hands|G886|Adj-DFS
@@ -174,7 +174,7 @@ v11 τῇ|tē|the|G3588|Art-DFS
 v11 ἀπεκδύσει|apekdysei|putting off|G555|N-DFS
 v11 τοῦ|tou|of [your]|G3588|Art-GNS
 v11 σώματος|sōmatos|...|G4983|N-GNS
-v11 τῆς|tēs|vvv|G3588|Art-GFS
+v11 τῆς|tēs|...|G3588|Art-GFS
 v11 σαρκός|sarkos|sinful nature|G4561|N-GFS
 v11 ἐν|en|with|G1722|Prep
 v11 τῇ|tē|the|G3588|Art-DFS
@@ -216,7 +216,7 @@ v13 τῆς|tēs|-|G3588|Art-GFS
 v13 σαρκὸς|sarkos|sinful nature|G4561|N-GFS
 v13 ὑμῶν|hymōn|of your|G4771|PPro-G2P
 v13 συνεζωοποίησεν|synezōopoiēsen|God made you alive|G4806|V-AIA-3S
-v13 ὑμᾶς|hymas|vvv|G4771|PPro-A2P
+v13 ὑμᾶς|hymas|...|G4771|PPro-A2P
 v13 σὺν|syn|with|G4862|Prep
 v13 αὐτῷ|autō|[Christ]|G846|PPro-DM3S
 v13 χαρισάμενος|charisamenos|He forgave|G5483|V-APM-NMS
@@ -304,11 +304,11 @@ v18 φυσιούμενος|physioumenos|[Such a person] is puffed up|G5448|V-PPM
 v18 ὑπὸ|hypo|by|G5259|Prep
 v18 τοῦ|tou|-|G3588|Art-GMS
 v18 νοὸς|noos|mind|G3563|N-GMS
-v18 τῆς|tēs|vvv|G3588|Art-GFS
+v18 τῆς|tēs|...|G3588|Art-GFS
 v18 σαρκὸς|sarkos|unspiritual|G4561|N-GFS
 v18 αὐτοῦ|autou|his|G846|PPro-GM3S
 v19 καὶ|kai|-|G2532|Conj
-v19 οὐ|ou|vvv|G3756|Adv
+v19 οὐ|ou|...|G3756|Adv
 v19 κρατῶν|kratōn|He has lost connection|G2902|V-PPA-NMS
 v19 τὴν|tēn|to the|G3588|Art-AFS
 v19 Κεφαλήν|Kephalēn|head|G2776|N-AFS
@@ -363,7 +363,7 @@ v22 τὰ|ta|-|G3588|Art-ANP
 v22 ἐντάλματα|entalmata|commands|G1778|N-ANP
 v22 καὶ|kai|and|G2532|Conj
 v22 διδασκαλίας|didaskalias|teachings|G1319|N-AFP
-v22 τῶν|tōn|vvv|G3588|Art-GMP
+v22 τῶν|tōn|...|G3588|Art-GMP
 v22 ἀνθρώπων|anthrōpōn|human|G444|N-GMP
 v23 ἅτινά|hatina|Such [restrictions]|G3748|RelPro-NNP
 v23 ἐστιν|estin|[but] they are|G1510|V-PIA-3S

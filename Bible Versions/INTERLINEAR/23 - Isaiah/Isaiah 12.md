@@ -59,4 +59,4 @@ v6 כִּֽי־|kî-|for|H3588|Conj
 v6 גָד֥וֹל|ḡā·ḏō·wl|great|H1419|Adj-ms
 v6 בְּקִרְבֵּ֖ךְ|bə·qir·bêḵ|among you|H7130|Prep-b | N-msc | 2fs
 v6 קְד֥וֹשׁ|qə·ḏō·wōš|[is] the Holy|H6918|Adj-msc
-v6 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|One of Israel|H3478|N-proper-ms
+v6 יִשְׂרָאֵֽל׃|yiś·rā·’êl|One of Israel|H3478|N-proper-ms

@@ -99,7 +99,7 @@ v8 עִדָּנָ֖א|‘id·dā·nā|for time|H5732|N-msd
 v8 אַנְתּ֣וּן|’an·tūn|you|H608|Pro-2mp
 v8 זָבְנִ֑ין|zā·ḇə·nîn|are stalling|H2084|V-Qal-Prtcpl-mp
 v8 כָּל־|kāl-|...|H3606|N-msc
-v8 קֳבֵל֙|qo·ḇêl||H6903|Prep
+v8 קֳבֵל֙|qo·ḇêl|-|H6903|Prep
 v8 דִּ֣י|dî|because|H1768|Pro-r
 v8 חֲזֵית֔וֹן|ḥă·zê·ṯō·wn|you see|H2370|V-Qal-Perf-2mp
 v8 דִּ֥י|dî|that|H1768|Pro-r
@@ -147,7 +147,7 @@ v10 מִלַּ֣ת|mil·laṯ|requests|H4406|N-fsc
 v10 מַלְכָּ֔א|mal·kā|what the king|H4430|N-msd
 v10 יוּכַ֖ל|yū·ḵal|can|H3202|V-Qal-Imperf-3ms
 v10 לְהַחֲוָיָ֑ה|lə·ha·ḥă·wā·yāh|do|H2324|Prep-l | V-Hifil-Inf
-v10 כָּל־|kāl-||H3606|N-msc
+v10 כָּל־|kāl-|-|H3606|N-msc
 v10 קֳבֵ֗ל|qo·ḇêl|-|H6903|Prep
 v10 דִּ֚י|dî|-|H1768|Pro-r
 v10 כָּל־|kāl-|...|H3606|N-msc
@@ -169,8 +169,8 @@ v11 שָׁאֵל֙|šā·’êl|requests|H7593|V-Qal-Prtcpl-ms
 v11 יַקִּירָ֔ה|yaq·qî·rāh|is so difficult|H3358|Adj-fs
 v11 וְאָחֳרָן֙|wə·’ā·ḥo·rān|one|H321|Conj-w | Adj-ms
 v11 לָ֣א|lā|that no|H3809|Adv-NegPrt
-v11 אִיתַ֔י|’î·ṯay||H383|Adv
-v11 דִּ֥י|dî||H1768|Pro-r
+v11 אִיתַ֔י|’î·ṯay|-|H383|Adv
+v11 דִּ֥י|dî|-|H1768|Pro-r
 v11 יְחַוִּנַּ֖הּ|yə·ḥaw·win·nah|can tell it|H2324|V-Piel-Imperf-3ms | 3fs
 v11 קֳדָ֣ם|qo·ḏām|to|H6925|Prep
 v11 מַלְכָּ֑א|mal·kā|him|H4430|N-msd
@@ -182,7 +182,7 @@ v11 עִם־|‘im-|with|H5974|Prep
 v11 בִּשְׂרָ֖א|biś·rā|mortals|H1321|N-msd
 v11 לָ֥א|lā|not|H3809|Adv-NegPrt
 v11 אִיתֽוֹהִי׃|’î·ṯō·w·hî|is|H383|Adv | 3ms
-v12 כָּל־|kāl-||H3606|N-msc
+v12 כָּל־|kāl-|-|H3606|N-msc
 v12 קֳבֵ֣ל|qo·ḇêl|This [response] {made}|H6903|Prep
 v12 דְּנָ֔ה|də·nāh|...|H1836|Pro-ms
 v12 מַלְכָּ֕א|mal·kā|the king|H4430|N-msd
@@ -201,7 +201,7 @@ v13 מִֽתְקַטְּלִ֑ין|miṯ·qaṭ·ṭə·lîn|were to be executed
 v13 וּבְע֛וֹ|ū·ḇə·‘ōw|and men went to look for|H1156|Conj-w | V-Qal-ConjPerf-3mp
 v13 דָּנִיֵּ֥אל|dā·nî·yêl|Daniel|H1841|N-proper-ms
 v13 וְחַבְר֖וֹהִי|wə·ḥaḇ·rō·w·hî|and his friends|H2269|Conj-w | N-mpc | 3ms
-v13 לְהִתְקְטָלָֽה׃פ|lə·hiṯ·qə·ṭā·lāh|to execute them|H6992|Prep-l | V-Hitpael-Inf
+v13 לְהִתְקְטָלָֽה׃|lə·hiṯ·qə·ṭā·lāh|to execute them|H6992|Prep-l | V-Hitpael-Inf
 v14 בֵּאדַ֣יִן|bê·ḏa·yin|When|H116|Prep-b | Adv
 v14 דָּנִיֵּ֗אל|dā·nî·yêl|Daniel|H1841|N-proper-ms
 v14 הֲתִיב֙|hă·ṯîḇ|responded|H8421|V-Hifil-Perf-3ms
@@ -246,7 +246,7 @@ v16 יִנְתֵּן־|yin·tên-|to give|H5415|V-Qal-Imperf-3ms
 v16 לֵ֔הּ|lêh|him|H0|Prep | 3ms
 v16 וּפִשְׁרָ֖א|ū·p̄iš·rā|the interpretation|H6591|Conj-w | N-msd
 v16 לְהַֽחֲוָיָ֥ה|lə·ha·ḥă·wā·yāh|so that he could give|H2324|Prep-l | V-Hifil-Inf
-v16 לְמַלְכָּֽא׃פ|lə·mal·kā|[him]|H4430|Prep-l | N-msd
+v16 לְמַלְכָּֽא׃|lə·mal·kā|[him]|H4430|Prep-l | N-msd
 v17 אֱדַ֥יִן|’ĕ·ḏa·yin|Then|H116|Adv
 v17 דָּֽנִיֵּ֖אל|dā·nî·yêl|Daniel|H1841|N-proper-ms
 v17 לְבַיְתֵ֣הּ|lə·ḇay·ṯêh|to his house|H1005|Prep-l | N-msc | 3ms
@@ -278,7 +278,7 @@ v18 בָבֶֽל׃|ḇā·ḇel|of Babylon|H895|N-proper-fs
 v19 אֱדַ֗יִן|’ĕ·ḏa·yin|During|H116|Adv
 v19 לְדָנִיֵּ֛אל|lə·ḏā·nî·yêl|to Daniel|H1841|Prep-l | N-proper-ms
 v19 בְּחֶזְוָ֥א|bə·ḥez·wā|in a vision|H2376|Prep-b | N-msd
-v19 דִֽי־|ḏî-||H1768|Pro-r
+v19 דִֽי־|ḏî-|-|H1768|Pro-r
 v19 לֵילְיָ֖א|lê·lə·yā|the night|H3916|N-msd
 v19 רָזָ֣ה|rā·zāh|the mystery|H7328|N-msd
 v19 גֲלִ֑י|ḡă·lî|was revealed|H1541|V-Nifal-Perf-3ms
@@ -295,7 +295,7 @@ v20 שְׁמֵ֤הּ|šə·mêh|the name|H8036|N-msc | 3ms
 v20 דִּֽי־|dî-|of|H1768|Pro-r
 v20 אֱלָהָא֙|’ĕ·lā·hā|God|H426|N-msd
 v20 מְבָרַ֔ךְ|mə·ḇā·raḵ|Blessed|H1289|V-Piel-QalPassPrtcpl-ms
-v20 מִן־|min-|vvv|H4481|Prep
+v20 מִן־|min-|...|H4481|Prep
 v20 עָלְמָ֖א|‘ā·lə·mā|forever|H5957|N-msd
 v20 וְעַ֣ד־|wə·‘aḏ-|and|H5705|Conj-w | Prep
 v20 עָלְמָ֑א|‘ā·lə·mā|ever|H5957|N-msd
@@ -362,8 +362,8 @@ v24 מַלְכָּ֔א|mal·kā|the king|H4430|N-msd
 v24 לְהוֹבָדָ֖ה|lə·hō·w·ḇā·ḏāh|to destroy|H7|Prep-l | V-Hifil-Inf
 v24 לְחַכִּימֵ֣י|lə·ḥak·kî·mê|the wise men|H2445|Prep-l | N-mpc
 v24 בָבֶ֑ל|ḇā·ḇel|of Babylon|H895|N-proper-fs
-v24 אֲזַ֣ל׀|’ă·zal|vvv|H236|V-Qal-Perf-3ms
-v24 וְכֵ֣ן|wə·ḵên|vvv|H3652|Conj-w | Adv
+v24 אֲזַ֣ל׀|’ă·zal|...|H236|V-Qal-Perf-3ms
+v24 וְכֵ֣ן|wə·ḵên|...|H3652|Conj-w | Adv
 v24 אֲמַר־|’ă·mar-|and said|H560|V-Qal-Perf-3ms
 v24 לֵ֗הּ|lêh|to him|H0|Prep | 3ms
 v24 לְחַכִּימֵ֤י|lə·ḥak·kî·mê|the wise men|H2445|Prep-l | N-mpc
@@ -375,7 +375,7 @@ v24 קֳדָ֣ם|qo·ḏām|before|H6925|Prep
 v24 מַלְכָּ֔א|mal·kā|the king|H4430|N-msd
 v24 וּפִשְׁרָ֖א|ū·p̄iš·rā|the interpretation|H6591|Conj-w | N-msd
 v24 לְמַלְכָּ֥א|lə·mal·kā|him|H4430|Prep-l | N-msd
-v24 אֲחַוֵּֽא׃ס|’ă·ḥaw·wê|and I will give|H2324|V-Piel-Imperf-1cs
+v24 אֲחַוֵּֽא׃|’ă·ḥaw·wê|and I will give|H2324|V-Piel-Imperf-1cs
 v25 אֱדַ֤יִן|’ĕ·ḏa·yin|...|H116|Adv
 v25 אַרְיוֹךְ֙|’ar·yō·wḵ|Arioch|H746|N-proper-ms
 v25 בְּהִתְבְּהָלָ֔ה|bə·hiṯ·bə·hā·lāh|hastily|H927|Prep-b | V-Hitpael-Inf
@@ -392,7 +392,7 @@ v25 גְּבַר֙|gə·ḇar|a man|H1400|N-ms
 v25 מִן־|min-|among|H4481|Prep
 v25 בְּנֵ֤י|bə·nê|the exiles|H1123|N-mpc
 v25 גָֽלוּתָא֙|ḡā·lū·ṯā|...|H1547|N-fsd
-v25 דִּ֣י|dî||H1768|Pro-r
+v25 דִּ֣י|dî|-|H1768|Pro-r
 v25 יְה֔וּד|yə·hūḏ|from Judah|H3061|N-proper-fs
 v25 דִּ֥י|dî|who|H1768|Pro-r
 v25 פִשְׁרָ֖א|p̄iš·rā|the interpretation|H6591|N-msd
@@ -449,7 +449,7 @@ v28 רֵאשָׁ֛ךְ|rê·šāḵ|that came into your mind|H7217|N-msc | 2ms
 v28 עַֽל־|‘al-|as you lay on|H5922|Prep
 v28 מִשְׁכְּבָ֖ךְ|miš·kə·ḇāḵ|your bed|H4903|N-msc | 2ms
 v28 דְּנָ֥ה|də·nāh|were these|H1836|Pro-ms
-v28 הֽוּא׃פ|hū|...|H1932|Pro-3ms
+v28 הֽוּא׃|hū|...|H1932|Pro-3ms
 v29 אַ֣נְתְּה|ʾan·təh|As you|H607|Pro-2ms
 v29 מַלְכָּ֗א|mal·kā|O king|H4430|N-msd
 v29 רַעְיוֹנָךְ֙|ra‘·yō·w·nāḵ|your thoughts|H7476|N-msc | 2ms
@@ -458,7 +458,7 @@ v29 מִשְׁכְּבָ֣ךְ|miš·kə·ḇāḵ|your bed|H4903|N-msc | 2ms
 v29 סְלִ֔קוּ|sə·li·qū|turned|H5559|V-Qal-Perf-3mp
 v29 מָ֛ה|māh|to|H4101|Interrog
 v29 דִּ֥י|dî|...|H1768|Pro-r
-v29 לֶהֱוֵ֖א|le·hĕ·wê|vvv|H1934|V-Qal-Imperf-3ms
+v29 לֶהֱוֵ֖א|le·hĕ·wê|...|H1934|V-Qal-Imperf-3ms
 v29 אַחֲרֵ֣י|’a·ḥă·rê|the future|H311|Prep
 v29 דְנָ֑ה|ḏə·nāh|...|H1836|Pro-ms
 v29 וְגָלֵ֧א|wə·ḡā·lê|and the Revealer|H1541|Conj-w | V-Qal-Prtcpl-ms
@@ -472,14 +472,14 @@ v30 לָ֤א|lā|not|H3809|Adv-NegPrt
 v30 בְחָכְמָה֙|ḇə·ḥā·ḵə·māh|more wisdom|H2452|Prep-b | N-fs
 v30 דִּֽי־|dî-|because|H1768|Pro-r
 v30 אִיתַ֥י|’î·ṯay|I have|H383|Adv
-v30 בִּי֙|bî||H0|Prep | 1cs
+v30 בִּי֙|bî|-|H0|Prep | 1cs
 v30 מִן־|min-|than|H4481|Prep
 v30 כָּל־|kāl-|any man|H3606|N-msc
 v30 חַיַּיָּ֔א|ḥay·yay·yā|alive|H2417|Adj-mpd
 v30 רָזָ֥א|rā·zā|mystery|H7328|N-msd
 v30 דְנָ֖ה|ḏə·nāh|this|H1836|Pro-ms
 v30 גֱּלִ֣י|gĕ·lî|has been revealed|H1541|V-Nifal-Perf-3ms
-v30 לִ֑י|lî||H0|Prep | 1cs
+v30 לִ֑י|lî|-|H0|Prep | 1cs
 v30 לָהֵ֗ן|lā·hên|but|H3861|Conj
 v30 עַל־|‘al-|in order that|H5922|Prep
 v30 דִּבְרַת֙|diḇ·raṯ|...|H1701|N-fsc
@@ -499,7 +499,7 @@ v31 צְלֵ֥ם|ṣə·lêm|statue|H6755|N-ms
 v31 חַד֙|ḥaḏ|a|H2298|Number-ms
 v31 שַׂגִּ֔יא|śag·gî|great|H7690|Adj-ms
 v31 צַלְמָ֨א|ṣal·mā|statue|H6755|N-msd
-v31 דִּכֵּ֥ן|dik·kên||H1797|Pro-cs
+v31 דִּכֵּ֥ן|dik·kên|-|H1797|Pro-cs
 v31 רַ֛ב|raḇ|A great|H7229|Adj-ms
 v31 וְזִיוֵ֥הּ|wə·zî·wêh|and dazzling|H2122|Conj-w | N-msc | 3ms
 v31 יַתִּ֖יר|yat·tîr|...|H3493|Adj-ms
@@ -534,7 +534,7 @@ v33 חֲסַֽף׃|ḥă·sap̄|clay|H2635|N-ms
 v34 חָזֵ֣ה|ḥā·zêh|watched|H2370|V-Qal-Prtcpl-ms
 v34 הֲוַ֗יְתָ|hă·way·ṯā|As you|H1934|V-Qal-Perf-2ms
 v34 עַ֠ד|‘aḏ|-|H5705|Prep
-v34 דִּ֣י|dî||H1768|Pro-r
+v34 דִּ֣י|dî|-|H1768|Pro-r
 v34 הִתְגְּזֶ֤רֶת|hiṯ·gə·ze·reṯ|was cut out|H1505|V-Hitpael-Perf-3fs
 v34 אֶ֙בֶן֙|’e·ḇen|a stone|H69|N-fs
 v34 דִּי־|dî-|...|H1768|Pro-r
@@ -637,7 +637,7 @@ v40 רְבִיעָיָה|rə·ḇī·ʿå̄·yå̄h|a fourth|H7244|Number-ofs
 v40 תֶּהֱוֵ֥א|te·hĕ·wê|Finally, there will be|H1934|V-Qal-Imperf-3fs
 v40 תַקִּיפָ֖ה|ṯaq·qî·p̄āh|as strong|H8624|Adj-fs
 v40 כְּפַרְזְלָ֑א|kə·p̄ar·zə·lā|as iron|H6523|Prep-k | N-msd
-v40 כָּל־|kāl-||H3606|N-msc
+v40 כָּל־|kāl-|-|H3606|N-msc
 v40 קֳבֵ֗ל|qo·ḇêl|for|H6903|Prep
 v40 דִּ֤י|dî|...|H1768|Pro-r
 v40 פַרְזְלָא֙|p̄ar·zə·lā|iron|H6523|N-msd
@@ -669,7 +669,7 @@ v41 נִצְבְּתָ֥א|niṣ·bə·ṯā|some of the strength|H5326|N-fsd
 v41 דִ֥י|ḏî|of|H1768|Pro-r
 v41 פַרְזְלָ֖א|p̄ar·zə·lā|iron|H6523|N-msd
 v41 לֶֽהֱוֵא־|le·hĕ·wê-|will be in it|H1934|V-Qal-Imperf-3ms
-v41 בַ֑הּ|ḇah||H0|Prep | 3fs
+v41 בַ֑הּ|ḇah|-|H0|Prep | 3fs
 v41 כָּל־|kāl-|-|H3606|N-msc
 v41 קֳבֵל֙|qo·ḇêl|just as|H6903|Prep
 v41 דִּ֣י|dî|...|H1768|Pro-r
@@ -716,7 +716,7 @@ v43 מִתְעָרַ֖ב|miṯ·‘ā·raḇ|mixes|H6151|V-Hitpael-Prtcpl-ms
 v43 עִם־|‘im-|with|H5974|Prep
 v43 חַסְפָּֽא׃|ḥas·pā|clay|H2635|N-msd
 v44 וּֽבְיוֹמֵיה֞וֹן|ū·ḇə·yō·w·mê·hō·wn|In the days|H3118|Conj-w, Prep-b | N-mpc
-v44 דִּ֧י|dî||H1768|Pro-r
+v44 דִּ֧י|dî|-|H1768|Pro-r
 v44 מַלְכַיָּ֣א|mal·ḵay·yā|kings|H4430|N-mpd
 v44 אִנּ֗וּן|’in·nūn|of those|H581|Pro-3mp
 v44 יְקִים֩|yə·qîm|will set up|H6966|V-Hifil-Imperf-3ms
@@ -769,7 +769,7 @@ v45 דְנָ֑ה|ḏə·nāh|...|H1836|Pro-ms
 v45 וְיַצִּ֥יב|wə·yaṣ·ṣîḇ|is true|H3330|Conj-w | Adj-ms
 v45 חֶלְמָ֖א|ḥel·mā|The dream|H2493|N-msd
 v45 וּמְהֵימַ֥ן|ū·mə·hê·man|is trustworthy|H540|Conj-w | V-Hifil-QalPassPrtcpl-ms
-v45 פִּשְׁרֵֽהּ׃פ|piš·rêh|and its interpretation|H6591|N-msc | 3ms
+v45 פִּשְׁרֵֽהּ׃|piš·rêh|and its interpretation|H6591|N-msc | 3ms
 v46 בֵּ֠אדַיִן|bê·ḏa·yin|At this|H116|Prep-b | Adv
 v46 מַלְכָּ֤א|mal·kā|King|H4430|N-msd
 v46 נְבֽוּכַדְנֶצַּר֙|nə·ḇū·ḵaḏ·neṣ·ṣar|Nebuchadnezzar|H5020|N-proper-ms
@@ -789,7 +789,7 @@ v47 לְדָנִיֵּ֜אל|lə·ḏā·nî·yêl|to Daniel|H1841|Prep-l | N-pr
 v47 וְאָמַ֗ר|wə·’ā·mar|...|H560|Conj-w | V-Qal-Prtcpl-ms
 v47 מִן־|min-|is truly|H4481|Prep
 v47 קְשֹׁט֙|qə·šōṭ|...|H7187|N-ms
-v47 דִּ֣י|dî||H1768|Pro-r
+v47 דִּ֣י|dî|-|H1768|Pro-r
 v47 אֱלָהֲכ֗וֹן|’ĕ·lā·hă·ḵō·wn|Your God|H426|N-msc | 2mp
 v47 ה֣וּא|hū|...|H1932|Pro-3ms
 v47 אֱלָ֧הּ|’ĕ·lāh|the God|H426|N-msc
@@ -835,8 +835,8 @@ v49 מְדִינַ֣ת|mə·ḏî·naṯ|the province|H4083|N-fsc
 v49 בָּבֶ֔ל|bā·ḇel|of Babylon|H895|N-proper-fs
 v49 לְשַׁדְרַ֥ךְ|lə·šaḏ·raḵ|Shadrach|H7715|Prep-l | N-proper-ms
 v49 מֵישַׁ֖ךְ|mê·šaḵ|Meshach|H4336|N-proper-ms
-v49 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v49 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v49 נְג֑וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v49 וְדָנִיֵּ֖אל|wə·ḏā·nî·yêl|while Daniel|H1841|Conj-w | N-proper-ms
 v49 בִּתְרַ֥ע|biṯ·ra‘|court|H8651|Prep-b | N-msc
-v49 מַלְכָּֽא׃פ|mal·kā|remained in the king's|H4430|N-msd
+v49 מַלְכָּֽא׃|mal·kā|remained in the king's|H4430|N-msd

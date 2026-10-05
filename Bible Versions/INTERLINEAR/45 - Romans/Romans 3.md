@@ -15,8 +15,8 @@ v2 κατὰ|kata|in|G2596|Prep
 v2 πάντα|panta|every|G3956|Adj-AMS
 v2 τρόπον|tropon|way|G5158|N-AMS
 v2 πρῶτον|prōton|First of all|G4412|Adv-S
-v2 μὲν|men|vvv|G3303|Prtcl
-v2 γὰρ|gar|vvv|G1063|Conj
+v2 μὲν|men|...|G3303|Prtcl
+v2 γὰρ|gar|...|G1063|Conj
 v2 ὅτι|hoti|-|G3754|Conj
 v2 ἐπιστεύθησαν|episteuthēsan|they have been entrusted with|G4100|V-AIP-3P
 v2 τὰ|ta|the|G3588|Art-ANP
@@ -28,7 +28,7 @@ v3 γάρ|gar|-|G1063|Conj
 v3 εἰ|ei|if|G1487|Conj
 v3 ἠπίστησάν|ēpistēsan|did not have faith|G569|V-AIA-3P
 v3 τινες|tines|some|G5100|IPro-NMP
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 ἡ|hē|-|G3588|Art-NFS
 v3 ἀπιστία|apistia|lack of faith|G570|N-NFS
 v3 αὐτῶν|autōn|{Will} their|G846|PPro-GM3P
@@ -37,7 +37,7 @@ v3 πίστιν|pistin|faithfulness|G4102|N-AFS
 v3 τοῦ|tou|-|G3588|Art-GMS
 v3 Θεοῦ|Theou|God's|G2316|N-GMS
 v3 καταργήσει|katargēsei|nullify|G2673|V-FIA-3S
-v4 μὴ|mē|vvv|G3361|Adv
+v4 μὴ|mē|...|G3361|Adv
 v4 γένοιτο|genoito|Certainly not|G1096|V-AOM-3S
 v4 γινέσθω|ginesthō|be|G1096|V-PMM/P-3S
 v4 δὲ|de|-|G1161|Conj
@@ -84,7 +84,7 @@ v5 ὀργήν|orgēn|wrath [on us]|G3709|N-AFS
 v5 κατὰ|kata|in|G2596|Prep
 v5 ἄνθρωπον|anthrōpon|human terms|G444|N-AMS
 v5 λέγω|legō|I am speaking|G3004|V-PIA-1S
-v6 μὴ|mē|vvv|G3361|Adv
+v6 μὴ|mē|...|G3361|Adv
 v6 γένοιτο|genoito|Certainly not|G1096|V-AOM-3S
 v6 ἐπεὶ|epei|In that case|G1893|Conj
 v6 πῶς|pōs|how|G4459|Adv
@@ -172,7 +172,7 @@ v11 τὸν|ton|-|G3588|Art-AMS
 v11 Θεόν|Theon|God|G2316|N-AMS
 v12 πάντες|pantes|All|G3956|Adj-NMP
 v12 ἐξέκλιναν|exeklinan|have turned away|G1578|V-AIA-3P
-v12 ἅμα|hama|vvv|G260|Adv
+v12 ἅμα|hama|...|G260|Adv
 v12 ἠχρεώθησαν|ēchreōthēsan|they have together become worthless|G889|V-AIP-3P
 v12 οὐκ|ouk|no one|G3756|Adv
 v12 ἔστιν|estin|there is|G1510|V-PIA-3S
@@ -221,7 +221,7 @@ v16 αὐτῶν|autōn|their|G846|PPro-GM3P
 v17 καὶ|kai|and|G2532|Conj
 v17 ὁδὸν|hodon|[the] way|G3598|N-AFS
 v17 εἰρήνης|eirēnēs|of peace|G1515|N-GFS
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 ἔγνωσαν|egnōsan|they have not known|G1097|V-AIA-3P
 v18 οὐκ|ouk|no|G3756|Adv
 v18 ἔστιν|estin|There is|G1510|V-PIA-3S
@@ -344,7 +344,7 @@ v25 τῶν|tōn|the|G3588|Art-GNP
 v25 προγεγονότων|progegonotōn|committed beforehand|G4266|V-RPA-GNP
 v25 ἁμαρτημάτων|hamartēmatōn|sins|G265|N-GNP
 v25 ἐν|en|in|G1722|Prep
-v25 τῇ|tē||G3588|Art-DFS
+v25 τῇ|tē|-|G3588|Art-DFS
 v25 ἀνοχῇ|anochē|forbearance|G463|N-DFS
 v25 τοῦ|tou|-|G3588|Art-GMS
 v25 Θεοῦ|Theou|[His]|G2316|N-GMS
@@ -418,12 +418,12 @@ v30 διὰ|dia|through|G1223|Prep
 v30 τῆς|tēs|that [same]|G3588|Art-GFS
 v30 πίστεως|pisteōs|faith|G4102|N-GFS
 v31 Νόμον|Nomon|[the] law|G3551|N-AMS
-v31 οὖν|oun|vvv|G3767|Conj
+v31 οὖν|oun|...|G3767|Conj
 v31 καταργοῦμεν|katargoumen|Do we, then, nullify|G2673|V-PIA-1P
 v31 διὰ|dia|by|G1223|Prep
 v31 τῆς|tēs|[this]|G3588|Art-GFS
 v31 πίστεως|pisteōs|faith|G4102|N-GFS
-v31 μὴ|mē|vvv|G3361|Adv
+v31 μὴ|mē|...|G3361|Adv
 v31 γένοιτο|genoito|Certainly not|G1096|V-AOM-3S
 v31 ἀλλὰ|alla|Instead|G235|Conj
 v31 νόμον|nomon|[the] law|G3551|N-AMS

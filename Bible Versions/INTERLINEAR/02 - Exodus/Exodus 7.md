@@ -79,8 +79,8 @@ v6 כַּאֲשֶׁ֨ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v6 צִוָּ֧ה|ṣiw·wāh|had commanded them|H6680|V-Piel-Perf-3ms
 v6 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v6 אֹתָ֖ם|’ō·ṯām|-|H853|DirObjM | 3mp
-v6 כֵּ֥ן|kên||H3651|Adv
-v6 עָשֽׂוּ׃|‘ā·śū||H6213|V-Qal-Perf-3cp
+v6 כֵּ֥ן|kên|-|H3651|Adv
+v6 עָשֽׂוּ׃|‘ā·śū|-|H6213|V-Qal-Perf-3cp
 v7 וּמֹשֶׁה֙|ū·mō·šeh|Moses|H4872|Conj-w | N-proper-ms
 v7 בֶּן־|ben-|years old|H1121|N-msc
 v7 שְׁמֹנִ֣ים|šə·mō·nîm|was eighty|H8084|Number-cp
@@ -92,7 +92,7 @@ v7 וּשְׁמֹנִ֖ים|ū·šə·mō·nîm|...|H8084|Conj-w | Number-cp
 v7 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
 v7 בְּדַבְּרָ֖ם|bə·ḏab·bə·rām|when they spoke|H1696|Prep-b | V-Piel-Inf | 3mp
 v7 אֶל־|’el-|to|H413|Prep
-v7 פַּרְעֹֽה׃פ|par·‘ōh|Pharaoh|H6547|N-proper-ms
+v7 פַּרְעֹֽה׃|par·‘ōh|Pharaoh|H6547|N-proper-ms
 v8 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 יְהוָ֔ה|Yah·weh|The LORD|H3068|N-proper-ms
 v8 אֶל־|’el-|to|H413|Prep
@@ -104,9 +104,9 @@ v9 כִּי֩|kî|When|H3588|Conj
 v9 יְדַבֵּ֨ר|yə·ḏab·bêr|tells you|H1696|V-Piel-Imperf-3ms
 v9 אֲלֵכֶ֤ם|’ă·lê·ḵem|...|H413|Prep | 2mp
 v9 פַּרְעֹה֙|par·‘ōh|Pharaoh|H6547|N-proper-ms
-v9 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v9 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v9 תְּנ֥וּ|tə·nū|Perform|H5414|V-Qal-Imp-mp
-v9 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v9 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v9 מוֹפֵ֑ת|mō·w·p̄êṯ|a miracle|H4159|N-ms
 v9 וְאָמַרְתָּ֣|wə·’ā·mar·tā|you are to say|H559|Conj-w | V-Qal-ConjPerf-2ms
 v9 אֶֽל־|’el-|...|H413|Prep
@@ -140,7 +140,7 @@ v10 עֲבָדָ֖יו|‘ă·ḇā·ḏāw|and his officials|H5650|N-mpc | 3ms
 v10 וַיְהִ֥י|way·hî|and it became|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v10 לְתַנִּֽין׃|lə·ṯan·nîn|a serpent|H8577|Prep-l | N-ms
 v11 וַיִּקְרָא֙|way·yiq·rā|called|H7121|Conj-w | V-Qal-ConsecImperf-3ms
-v11 גַּם־|gam-||H1571|Conj
+v11 גַּם־|gam-|-|H1571|Conj
 v11 פַּרְעֹ֔ה|par·‘ōh|But Pharaoh|H6547|N-proper-ms
 v11 לַֽחֲכָמִ֖ים|la·ḥă·ḵā·mîm|the wise men|H2450|Prep-l, Art | Adj-mp
 v11 וְלַֽמְכַשְּׁפִ֑ים|wə·lam·ḵaš·šə·p̄îm|and sorcerers|H3784|Conj-w, Prep-l, Art | V-Piel-Prtcpl-mp
@@ -169,7 +169,7 @@ v13 שָׁמַ֖ע|šā·ma‘|listen|H8085|V-Qal-Perf-3ms
 v13 אֲלֵהֶ֑ם|’ă·lê·hem|to them|H413|Prep | 3mp
 v13 כַּאֲשֶׁ֖ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v13 דִּבֶּ֥ר|dib·ber|had said|H1696|V-Piel-Perf-3ms
-v13 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v13 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v14 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v14 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v14 אֶל־|’el-|to|H413|Prep
@@ -246,8 +246,8 @@ v18 וְנִלְא֣וּ|wə·nil·’ū|will be unable|H3811|Conj-w | V-Nifal-C
 v18 מִצְרַ֔יִם|miṣ·ra·yim|and the Egyptians|H4713|N-proper-fs
 v18 לִשְׁתּ֥וֹת|liš·tō·wṯ|to drink|H8354|Prep-l | V-Qal-Inf
 v18 מַ֖יִם|ma·yim|water|H4325|N-mp
-v18 מִן־|min-|vvv|H4480|Prep
-v18 הַיְאֹֽר׃ס|hay·’ōr|its|H2975|Art | N-proper-fs
+v18 מִן־|min-|...|H4480|Prep
+v18 הַיְאֹֽר׃|hay·’ōr|its|H2975|Art | N-proper-fs
 v19 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v19 יְהוָ֜ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v19 אֶל־|’el-|to|H413|Prep
@@ -271,7 +271,7 @@ v19 אַגְמֵיהֶ֗ם|’aḡ·mê·hem|and ponds|H98|N-mpc | 3mp
 v19 וְעַ֛ל|wə·‘al|and|H5921|Conj-w | Prep
 v19 כָּל־|kāl-|all|H3605|N-msc
 v19 מִקְוֵ֥ה|miq·wêh|the reservoirs|H4723|N-msc
-v19 מֵימֵיהֶ֖ם|mê·mê·hem|vvv|H4325|N-mpc | 3mp
+v19 מֵימֵיהֶ֖ם|mê·mê·hem|...|H4325|N-mpc | 3mp
 v19 וְיִֽהְיוּ־|wə·yih·yū-|that they may become|H1961|Conj-w | V-Qal-ConjImperf-3mp
 v19 דָ֑ם|ḏām|blood|H1818|N-ms
 v19 וְהָ֤יָה|wə·hā·yāh|There will be|H1961|Conj-w | V-Qal-ConjPerf-3ms
@@ -316,7 +316,7 @@ v21 יָכְל֣וּ|yā·ḵə·lū|could|H3201|V-Qal-Perf-3cp
 v21 מִצְרַ֔יִם|miṣ·ra·yim|that the Egyptians|H4713|N-proper-fs
 v21 לִשְׁתּ֥וֹת|liš·tō·wṯ|drink|H8354|Prep-l | V-Qal-Inf
 v21 מַ֖יִם|ma·yim|water|H4325|N-mp
-v21 מִן־|min-|vvv|H4480|Prep
+v21 מִן־|min-|...|H4480|Prep
 v21 הַיְאֹ֑ר|hay·’ōr|its|H2975|Art | N-proper-fs
 v21 וַיְהִ֥י|way·hî|And there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v21 הַדָּ֖ם|had·dām|blood|H1818|Art | N-ms
@@ -367,4 +367,4 @@ v25 אַחֲרֵ֥י|’a·ḥă·rê|after|H310|Prep
 v25 הַכּוֹת־|hak·kō·wṯ-|had struck|H5221|V-Hifil-Inf
 v25 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v25 אֶת־|’eṯ-|-|H853|DirObjM
-v25 הַיְאֹֽר׃פ|hay·’ōr|the Nile|H2975|Art | N-ms
+v25 הַיְאֹֽר׃|hay·’ōr|the Nile|H2975|Art | N-ms

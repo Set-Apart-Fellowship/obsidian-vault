@@ -67,7 +67,7 @@ v5 מַעֲלֵ֣ה|ma·‘ă·lêh|the slope|H4608|N-msc
 v5 הַלּוּחִ֗ית|hal·lū·ḥîṯ|of Luhith|H3872|Art | N-proper-fs
 v5 בִּבְכִי֙|biḇ·ḵî|With weeping|H1065|Prep-b | N-ms
 v5 יַֽעֲלֶה־|ya·‘ă·leh-|they ascend|H5927|V-Qal-Imperf-3ms
-v5 בּ֔וֹ|bōw||H0|Prep | 3ms
+v5 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v5 כִּ֚י|kî|-|H3588|Conj
 v5 דֶּ֣רֶךְ|de·reḵ|on the road|H1870|N-csc
 v5 חוֹרֹנַ֔יִם|ḥō·w·rō·na·yim|to Horonaim|H2773|N-proper-fs
@@ -105,7 +105,7 @@ v8 מוֹאָ֑ב|mō·w·’āḇ|of Moab|H4124|N-proper-fs
 v8 עַד־|‘aḏ-|...|H5704|Prep
 v8 אֶגְלַ֙יִם֙|’eḡ·la·yim|reaches Eglaim|H97|N-proper-fs
 v8 יִלְלָתָ֔הּ|yil·lā·ṯāh|Their wailing|H3215|N-fsc | 3fs
-v8 וּבְאֵ֥ר|ū·ḇə·’êr|vvv|H879|
+v8 וּבְאֵ֥ר|ū·ḇə·’êr|...|H879|
 v8 אֵילִ֖ים|’ê·lîm|in Beer-elim|H879|Conj-w | N-proper-fs
 v8 יִלְלָתָֽהּ׃|yil·lā·ṯāh|[it is heard]|H3215|N-fsc | 3fs
 v9 כִּ֣י|kî|but|H3588|Conj

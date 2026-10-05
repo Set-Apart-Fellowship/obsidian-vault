@@ -7,7 +7,7 @@ v1 רָעָ֖ב|rā·‘āḇ|a famine|H7458|N-ms
 v1 בָּאָ֑רֶץ|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
 v1 וַיֵּ֨לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v1 אִ֜ישׁ|’îš|And a certain man|H376|N-ms
-v1 מִבֵּ֧ית|mib·bêṯ|vvv|H1035|Prep
+v1 מִבֵּ֧ית|mib·bêṯ|...|H1035|Prep
 v1 לֶ֣חֶם|le·ḥem|from Bethlehem|H1035|Prep | N-proper-fs
 v1 יְהוּדָ֗ה|yə·hū·ḏāh|in Judah|H3063|N-proper-ms
 v1 לָגוּר֙|lā·ḡūr|to reside|H1481|Prep-l | V-Qal-Inf
@@ -134,7 +134,7 @@ v9 וַתִּשֶּׂ֥אנָה|wat·tiś·śe·nāh|aloud|H5375|Conj-w | V-Qal-
 v9 קוֹלָ֖ן|qō·w·lān|...|H6963|N-msc | 3fp
 v9 וַתִּבְכֶּֽינָה׃|wat·tiḇ·ke·nāh|as they wept|H1058|Conj-w | V-Qal-ConsecImperf-3fp
 v10 וַתֹּאמַ֖רְנָה־|wat·tō·mar·nāh-|and said|H559|Conj-w | V-Qal-ConsecImperf-3fp
-v10 לָּ֑הּ|lāh||H0|Prep | 3fs
+v10 לָּ֑הּ|lāh|-|H0|Prep | 3fs
 v10 כִּי־|kî-|Surely|H3588|Conj
 v10 אִתָּ֥ךְ|’it·tāḵ|with you|H854|Prep | 2fs
 v10 נָשׁ֖וּב|nā·šūḇ|we will return|H7725|V-Qal-Imperf-1cp
@@ -147,7 +147,7 @@ v11 לָ֥מָּה|lām·māh|Why|H4100|Interrog
 v11 תֵלַ֖כְנָה|ṯê·laḵ·nāh|would you go|H1980|V-Qal-Imperf-2fp
 v11 עִמִּ֑י|‘im·mî|with me|H5973|Prep | 1cs
 v11 הַֽעֽוֹד־|ha·‘ō·wḏ-|[Are] there still|H5750|Adv
-v11 לִ֤י|lî|vvv|H0|Prep | 1cs
+v11 לִ֤י|lî|...|H0|Prep | 1cs
 v11 בָנִים֙|ḇā·nîm|sons|H1121|N-mp
 v11 בְּֽמֵעַ֔י|bə·mê·‘ay|in my womb|H4578|Prep-b | N-mpc | 1cs
 v11 וְהָי֥וּ|wə·hā·yū|to become|H1961|Conj-w | V-Qal-ConjPerf-3cp
@@ -240,7 +240,7 @@ v17 תָּמ֙וּתִי֙|tā·mū·ṯî|you die|H4191|V-Qal-Imperf-2fs
 v17 אָמ֔וּת|’ā·mūṯ|I will die|H4191|V-Qal-Imperf-1cs
 v17 וְשָׁ֖ם|wə·šām|and there|H8033|Conj-w | Adv
 v17 אֶקָּבֵ֑ר|’eq·qā·ḇêr|I will be buried|H6912|V-Nifal-Imperf-1cs
-v17 כֹּה֩|kōh|vvv|H3541|Adv
+v17 כֹּה֩|kōh|...|H3541|Adv
 v17 יַעֲשֶׂ֨ה|ya·‘ă·śeh|punish|H6213|V-Qal-Imperf-3ms
 v17 יְהוָ֥ה|Yah·weh|May the LORD|H3068|N-proper-ms
 v17 לִי֙|lî|me|H0|Prep | 1cs
@@ -268,7 +268,7 @@ v19 בֵּ֣ית|bêṯ|to|H1035|Prep
 v19 לָ֑חֶם|lā·ḥem|Bethlehem|H1035|N-proper-fs
 v19 וַיְהִ֗י|way·hî|When they|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v19 כְּבֹאָ֙נָה֙|kə·ḇō·’ā·nāh|entered|H935|Prep-k | V-Qal-Inf | 3fp
-v19 בֵּ֣ית|bêṯ|vvv|H1035|Prep
+v19 בֵּ֣ית|bêṯ|...|H1035|Prep
 v19 לֶ֔חֶם|le·ḥem|Bethlehem|H1035|N-proper-fs
 v19 וַתֵּהֹ֤ם|wat·tê·hōm|was stirred|H1949|Conj-w | V-Nifal-ConsecImperf-3fs
 v19 כָּל־|kāl-|the whole|H3605|N-msc
@@ -318,7 +318,7 @@ v22 מִשְּׂדֵ֣י|miś·śə·ḏê|from the land|H7704|Prep-m | N-mpc
 v22 מוֹאָ֑ב|mō·w·’āḇ|of Moab|H4124|N-proper-fs
 v22 וְהֵ֗מָּה|wə·hêm·māh|And they|H1992|Conj-w | Pro-3mp
 v22 בָּ֚אוּ|bā·’ū|arrived|H935|V-Qal-Perf-3cp
-v22 בֵּ֣ית|bêṯ|vvv|H1035|Prep
+v22 בֵּ֣ית|bêṯ|...|H1035|Prep
 v22 לֶ֔חֶם|le·ḥem|in Bethlehem|H1035|N-proper-fs
 v22 בִּתְחִלַּ֖ת|biṯ·ḥil·laṯ|at the beginning|H8462|Prep-b | N-fsc
 v22 קְצִ֥יר|qə·ṣîr|harvest|H7105|N-msc

@@ -74,7 +74,7 @@ v4 ἄνθρωπος|anthrōpos|a man|G444|N-NMS
 v4 γεννηθῆναι|gennēthēnai|be born|G1080|V-ANP
 v4 γέρων|gerōn|old|G1088|N-NMS
 v4 ὤν|ōn|when he is|G1510|V-PPA-NMS
-v4 μὴ|mē|vvv|G3361|Adv
+v4 μὴ|mē|...|G3361|Adv
 v4 δύναται|dynatai|Can he|G1410|V-PIM/P-3S
 v4 εἰς|eis|...|G1519|Prep
 v4 τὴν|tēn|-|G3588|Art-AFS
@@ -123,7 +123,7 @@ v6 τοῦ|tou|the|G3588|Art-GNS
 v6 Πνεύματος|Pneumatos|Spirit|G4151|N-GNS
 v6 πνεῦμά|pneuma|spirit|G4151|N-NNS
 v6 ἐστιν|estin|is|G1510|V-PIA-3S
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 θαυμάσῃς|thaumasēs|Do not be amazed|G2296|V-ASA-2S
 v7 ὅτι|hoti|that|G3754|Conj
 v7 εἶπόν|eipon|I said|G2036|V-AIA-1S
@@ -143,7 +143,7 @@ v8 φωνὴν|phōnēn|sound|G5456|N-AFS
 v8 αὐτοῦ|autou|its|G846|PPro-GN3S
 v8 ἀκούεις|akoueis|You hear|G191|V-PIA-2S
 v8 ἀλλ’|all’|but|G235|Conj
-v8 οὐκ|ouk|vvv|G3756|Adv
+v8 οὐκ|ouk|...|G3756|Adv
 v8 οἶδας|oidas|you do not know|G1492|V-RIA-2S
 v8 πόθεν|pothen|where|G4159|Adv
 v8 ἔρχεται|erchetai|it comes {from}|G2064|V-PIM/P-3S
@@ -180,7 +180,7 @@ v10 τοῦ|tou|-|G3588|Art-GMS
 v10 Ἰσραὴλ|Israēl|Israel's|G2474|N-GMS
 v10 καὶ|kai|and|G2532|Conj
 v10 ταῦτα|tauta|these things|G3778|DPro-ANP
-v10 οὐ|ou|vvv|G3756|Adv
+v10 οὐ|ou|...|G3756|Adv
 v10 γινώσκεις|ginōskeis|you do not understand|G1097|V-PIA-2S
 v11 ἀμὴν|amēn|Truly|G281|Heb
 v11 ἀμὴν|amēn|truly|G281|Heb
@@ -198,7 +198,7 @@ v11 καὶ|kai|and yet|G2532|Conj
 v11 τὴν|tēn|-|G3588|Art-AFS
 v11 μαρτυρίαν|martyrian|testimony|G3141|N-AFS
 v11 ἡμῶν|hēmōn|our|G1473|PPro-G1P
-v11 οὐ|ou|vvv|G3756|Adv
+v11 οὐ|ou|...|G3756|Adv
 v11 λαμβάνετε|lambanete|you people do not accept|G2983|V-PIA-2P
 v12 Εἰ|Ei|If|G1487|Conj
 v12 τὰ|ta|things|G3588|Art-ANP
@@ -206,7 +206,7 @@ v12 ἐπίγεια|epigeia|earthly|G1919|Adj-ANP
 v12 εἶπον|eipon|I have told|G2036|V-AIA-1S
 v12 ὑμῖν|hymin|you {about}|G4771|PPro-D2P
 v12 καὶ|kai|and|G2532|Conj
-v12 οὐ|ou|vvv|G3756|Adv
+v12 οὐ|ou|...|G3756|Adv
 v12 πιστεύετε|pisteuete|you do not believe|G4100|V-PIA-2P
 v12 πῶς|pōs|how|G4459|Adv
 v12 ἐὰν|ean|if|G1437|Conj
@@ -276,7 +276,7 @@ v16 ὁ|ho|who|G3588|Art-NMS
 v16 πιστεύων|pisteuōn|believes|G4100|V-PPA-NMS
 v16 εἰς|eis|in|G1519|Prep
 v16 αὐτὸν|auton|Him|G846|PPro-AM3S
-v16 μὴ|mē|vvv|G3361|Adv
+v16 μὴ|mē|...|G3361|Adv
 v16 ἀπόληται|apolētai|shall not perish|G622|V-ASM-3S
 v16 ἀλλ’|all’|but|G235|Conj
 v16 ἔχῃ|echē|have|G2192|V-PSA-3S
@@ -307,16 +307,16 @@ v18 ὁ|ho|Whoever|G3588|Art-NMS
 v18 πιστεύων|pisteuōn|believes|G4100|V-PPA-NMS
 v18 εἰς|eis|in|G1519|Prep
 v18 αὐτὸν|auton|Him|G846|PPro-AM3S
-v18 οὐ|ou|vvv|G3756|Adv
+v18 οὐ|ou|...|G3756|Adv
 v18 κρίνεται|krinetai|is not condemned|G2919|V-PIM/P-3S
 v18 ὁ|ho|whoever|G3588|Art-NMS
 v18 ‹δὲ›|de|but|G1161|Conj
-v18 μὴ|mē|vvv|G3361|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 πιστεύων|pisteuōn|does not believe|G4100|V-PPA-NMS
-v18 ἤδη|ēdē|vvv|G2235|Adv
+v18 ἤδη|ēdē|...|G2235|Adv
 v18 κέκριται|kekritai|has already been condemned|G2919|V-RIM/P-3S
 v18 ὅτι|hoti|because|G3754|Conj
-v18 μὴ|mē|vvv|G3361|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 πεπίστευκεν|pepisteuken|he has not believed|G4100|V-RIA-3S
 v18 εἰς|eis|in|G1519|Prep
 v18 τὸ|to|the|G3588|Art-ANS
@@ -484,7 +484,7 @@ v27 Ἀπεκρίθη|Apekrithē|replied|G611|V-AIP-3S
 v27 Ἰωάννης|Iōannēs|John|G2491|N-NMS
 v27 καὶ|kai|...|G2532|Conj
 v27 εἶπεν|eipen|...|G2036|V-AIA-3S
-v27 Οὐ|Ou|vvv|G3756|Adv
+v27 Οὐ|Ou|...|G3756|Adv
 v27 δύναται|dynatai|can|G1410|V-PIM/P-3S
 v27 ἄνθρωπος|anthrōpos|A man|G444|N-NMS
 v27 λαμβάνειν|lambanein|receive|G2983|V-PNA
@@ -537,7 +537,7 @@ v29 χαίρει|chairei|[and] is overjoyed|G5463|V-PIA-3S
 v29 διὰ|dia|[to hear]|G1223|Prep
 v29 τὴν|tēn|the|G3588|Art-AFS
 v29 φωνὴν|phōnēn|voice|G5456|N-AFS
-v29 τοῦ|tou|vvv|G3588|Art-GMS
+v29 τοῦ|tou|...|G3588|Art-GMS
 v29 νυμφίου|nymphiou|bridegroom's|G3566|N-GMS
 v29 αὕτη|hautē|...|G3778|DPro-NFS
 v29 οὖν|oun|That|G3767|Conj
@@ -645,7 +645,7 @@ v36 δὲ|de|-|G1161|Conj
 v36 ἀπειθῶν|apeithōn|rejects|G544|V-PPA-NMS
 v36 τῷ|tō|the|G3588|Art-DMS
 v36 Υἱῷ|Huiō|Son|G5207|N-DMS
-v36 οὐκ|ouk|vvv|G3756|Adv
+v36 οὐκ|ouk|...|G3756|Adv
 v36 ὄψεται|opsetai|will not see|G3708|V-FIM-3S
 v36 ζωήν|zōēn|life|G2222|N-AFS
 v36 ἀλλ’|all’|Instead|G235|Conj

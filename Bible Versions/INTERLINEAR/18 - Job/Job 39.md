@@ -24,7 +24,7 @@ v4 בַבָּ֑ר|ḇab·bār|in the open field|H1250|Prep-b, Art | N-ms
 v4 יָ֝צְא֗וּ|yā·ṣə·’ū|they leave|H3318|V-Qal-Perf-3cp
 v4 וְלֹא־|wə·lō-|and do not|H3808|Conj-w | Adv-NegPrt
 v4 שָׁ֥בוּ|šā·ḇū|return|H7725|V-Qal-Perf-3cp
-v4 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v4 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v5 מִֽי־|mî-|Who|H4310|Interrog
 v5 שִׁלַּ֣ח|šil·laḥ|set|H7971|V-Piel-Perf-3ms
 v5 פֶּ֣רֶא|pe·re|the wild donkey|H6501|N-ms
@@ -210,4 +210,4 @@ v30 דָ֑ם|ḏām|blood|H1818|N-ms
 v30 וּבַאֲשֶׁ֥ר|ū·ḇa·’ă·šer|and where|H834|Conj-w, Prep-b | Pro-r
 v30 חֲ֝לָלִ֗ים|ḥă·lā·lîm|the slain [are]|H2491|N-mp
 v30 שָׁ֣ם|šām|there|H8033|Adv
-v30 הֽוּא׃פ|hū|he [is]|H1931|Pro-3ms
+v30 הֽוּא׃|hū|he [is]|H1931|Pro-3ms

@@ -16,7 +16,7 @@ v2 יְהוָ֜ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v2 אֶל־|’el-|to|H413|Prep
 v2 מֹשֶׁ֗ה|mō·šeh|Moses|H4872|N-proper-ms
 v2 דַּבֵּר֮|dab·bêr|Tell|H1696|V-Piel-Imp-ms
-v2 אֶל־|’el-||H413|Prep
+v2 אֶל־|’el-|-|H413|Prep
 v2 אַהֲרֹ֣ן|’a·hă·rōn|Aaron|H175|N-proper-ms
 v2 אָחִיךָ֒|’ā·ḥî·ḵā|your brother|H251|N-msc | 2ms
 v2 וְאַל־|wə·’al-|not|H408|Conj-w | Adv
@@ -92,7 +92,7 @@ v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 פַּ֥ר|par|the bull|H6499|N-msc
 v6 הַחַטָּ֖את|ha·ḥaṭ·ṭāṯ|for his sin offering|H2403|Art | N-fs
 v6 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v6 ל֑וֹ|lōw||H0|Prep | 3ms
+v6 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v6 וְכִפֶּ֥ר|wə·ḵip·per|and make atonement|H3722|Conj-w | V-Piel-ConjPerf-3ms
 v6 בַּעֲד֖וֹ|ba·‘ă·ḏōw|for|H1157|Prep | 3ms
 v6 וּבְעַ֥ד|ū·ḇə·‘aḏ|himself|H1157|Conj-w | Prep
@@ -153,7 +153,7 @@ v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 פַּ֤ר|par|the bull|H6499|N-msc
 v11 הַֽחַטָּאת֙|ha·ḥaṭ·ṭāṯ|for his sin offering|H2403|Art | N-fs
 v11 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v11 ל֔וֹ|lōw||H0|Prep | 3ms
+v11 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v11 וְכִפֶּ֥ר|wə·ḵip·per|and makes atonement|H3722|Conj-w | V-Piel-ConjPerf-3ms
 v11 בַּֽעֲד֖וֹ|ba·‘ă·ḏōw|for himself|H1157|Prep | 3ms
 v11 וּבְעַ֣ד|ū·ḇə·‘aḏ|...|H1157|Conj-w | Prep
@@ -163,7 +163,7 @@ v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 פַּ֥ר|par|the bull|H6499|N-msc
 v11 הַֽחַטָּ֖את|ha·ḥaṭ·ṭāṯ|for his own sin offering|H2403|Art | N-fs
 v11 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v11 לֽוֹ׃|lōw||H0|Prep | 3ms
+v11 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v12 וְלָקַ֣ח|wə·lā·qaḥ|Then he must take|H3947|Conj-w | V-Qal-ConjPerf-3ms
 v12 מְלֹֽא־|mə·lō-|full|H4393|N-msc
 v12 הַ֠מַּחְתָּה|ham·maḥ·tāh|a censer|H4289|Art | N-fs
@@ -244,7 +244,7 @@ v16 וְכִפֶּ֣ר|wə·ḵip·per|So he shall make atonement|H3722|Conj-w |
 v16 עַל־|‘al-|for|H5921|Prep
 v16 הַקֹּ֗דֶשׁ|haq·qō·ḏeš|the Most Holy Place|H6944|Art | N-ms
 v16 מִטֻּמְאֹת֙|miṭ·ṭum·’ōṯ|because of the impurities|H2932|Prep-m | N-fpc
-v16 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v16 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v16 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v16 וּמִפִּשְׁעֵיהֶ֖ם|ū·mip·piš·‘ê·hem|and rebellious acts|H6588|Conj-w, Prep-m | N-mpc | 3mp
 v16 לְכָל־|lə·ḵāl|in regard to all|H3605|Prep-l | N-msc
@@ -304,7 +304,7 @@ v19 פְּעָמִ֑ים|pə·‘ā·mîm|times|H6471|N-fp
 v19 וְטִהֲר֣וֹ|wə·ṭi·hă·rōw|to cleanse it|H2891|Conj-w | V-Piel-ConjPerf-3ms | 3ms
 v19 וְקִדְּשׁ֔וֹ|wə·qid·də·šōw|and consecrate it|H6942|Conj-w | V-Piel-ConjPerf-3ms | 3ms
 v19 מִטֻּמְאֹ֖ת|miṭ·ṭum·’ōṯ|from the uncleanness|H2932|Prep-m | N-fpc
-v19 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v19 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v19 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v20 וְכִלָּה֙|wə·ḵil·lāh|When [Aaron] has finished|H3615|Conj-w | V-Piel-ConjPerf-3ms
 v20 מִכַּפֵּ֣ר|mik·kap·pêr|purifying|H3722|Prep-m | V-Piel-Inf
@@ -333,7 +333,7 @@ v21 עָלָ֗יו|‘ā·lāw|over|H5921|Prep | 3ms
 v21 אֶת־|’eṯ-|it|H853|DirObjM
 v21 כָּל־|kāl-|all|H3605|N-msc
 v21 עֲוֺנֹת֙|‘ă·wō·nōṯ|the iniquities|H5771|N-cpc
-v21 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v21 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v21 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v21 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v21 כָּל־|kāl-|all|H3605|N-msc
@@ -465,11 +465,11 @@ v29 הַ֠שְּׁבִיעִי|haš·šə·ḇî·‘î|of the seventh|H7637|Art
 v29 בֶּֽעָשׂ֨וֹר|be·‘ā·śō·wr|On the tenth|H6218|Prep-b, Art | N-ms
 v29 לַחֹ֜דֶשׁ|la·ḥō·ḏeš|day|H2320|Prep-l, Art | N-ms
 v29 תְּעַנּ֣וּ|tə·‘an·nū|you shall humble|H6031|V-Piel-Imperf-2mp
-v29 אֶת־|’eṯ-||H853|DirObjM
+v29 אֶת־|’eṯ-|-|H853|DirObjM
 v29 נַפְשֹֽׁתֵיכֶ֗ם|nap̄·šō·ṯê·ḵem|yourselves|H5315|N-fpc | 2mp
 v29 וְכָל־|wə·ḵāl|any|H3605|Conj-w | N-msc
 v29 מְלָאכָה֙|mə·lā·ḵāh|work|H4399|N-fs
-v29 לֹ֣א|lō||H3808|Adv-NegPrt
+v29 לֹ֣א|lō|-|H3808|Adv-NegPrt
 v29 תַעֲשׂ֔וּ|ṯa·‘ă·śū|and not do|H6213|V-Qal-Imperf-2mp
 v29 הָֽאֶזְרָ֔ח|hā·’ez·rāḥ|whether the native|H249|Art | N-ms
 v29 וְהַגֵּ֖ר|wə·hag·gêr|or the foreigner|H1616|Conj-w, Art | N-ms
@@ -492,7 +492,7 @@ v31 שַׁבָּת֥וֹן|šab·bā·ṯō·wn|of complete rest|H7677|N-ms
 v31 הִיא֙|hî|It|H1931|Pro-3fs
 v31 לָכֶ֔ם|lā·ḵem|for you|H0|Prep | 2mp
 v31 וְעִנִּיתֶ֖ם|wə·‘in·nî·ṯem|that you may humble|H6031|Conj-w | V-Piel-ConjPerf-2mp
-v31 אֶת־|’eṯ-||H853|DirObjM
+v31 אֶת־|’eṯ-|-|H853|DirObjM
 v31 נַפְשֹׁתֵיכֶ֑ם|nap̄·šō·ṯê·ḵem|yourselves|H5315|N-fpc | 2mp
 v31 חֻקַּ֖ת|ḥuq·qaṯ|statute|H2708|N-fsc
 v31 עוֹלָֽם׃|‘ō·w·lām|it is a permanent|H5769|N-ms
@@ -549,4 +549,4 @@ v34 כַּאֲשֶׁ֛ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v34 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v34 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v34 אֶת־|’eṯ-|-|H853|DirObjM
-v34 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v34 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms

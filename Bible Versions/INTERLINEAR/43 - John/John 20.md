@@ -48,7 +48,7 @@ v2 ἐκ|ek|out of|G1537|Prep
 v2 τοῦ|tou|the|G3588|Art-GNS
 v2 μνημείου|mnēmeiou|tomb|G3419|N-GNS
 v2 καὶ|kai|and|G2532|Conj
-v2 οὐκ|ouk|vvv|G3756|Adv
+v2 οὐκ|ouk|...|G3756|Adv
 v2 οἴδαμεν|oidamen|we do not know|G1492|V-RIA-1P
 v2 ποῦ|pou|where|G4226|Adv
 v2 ἔθηκαν|ethēkan|they have put|G5087|V-AIA-3P
@@ -91,7 +91,7 @@ v5 βλέπει|blepei|[and] looked in at|G991|V-PIA-3S
 v5 κείμενα|keimena|lying [there]|G2749|V-PPM/P-ANP
 v5 τὰ|ta|the|G3588|Art-ANP
 v5 ὀθόνια|othonia|linen cloths|G3608|N-ANP
-v5 οὐ|ou|vvv|G3756|Adv
+v5 οὐ|ou|...|G3756|Adv
 v5 μέντοι|mentoi|but|G3305|Conj
 v5 εἰσῆλθεν|eisēlthen|he did not go in|G1525|V-AIA-3S
 v6 Ἔρχεται|Erchetai|arrived|G2064|V-PIM/P-3S
@@ -128,8 +128,8 @@ v7 κείμενον|keimenon|lying|G2749|V-PPM/P-ANS
 v7 ἀλλὰ|alla|-|G235|Conj
 v7 χωρὶς|chōris|...|G5565|Adv
 v7 ἐντετυλιγμένον|entetyligmenon|was rolled up|G1794|V-RPM/P-ANS
-v7 εἰς|eis|vvv|G1519|Prep
-v7 ἕνα|hena|vvv|G1520|Adj-AMS
+v7 εἰς|eis|...|G1519|Prep
+v7 ἕνα|hena|...|G1520|Adj-AMS
 v7 τόπον|topon|separate|G5117|N-AMS
 v8 τότε|tote|...|G5119|Adv
 v8 οὖν|oun|Then|G3767|Conj
@@ -148,7 +148,7 @@ v8 καὶ|kai|And|G2532|Conj
 v8 εἶδεν|eiden|he saw|G3708|V-AIA-3S
 v8 καὶ|kai|and|G2532|Conj
 v8 ἐπίστευσεν|episteusen|believed|G4100|V-AIA-3S
-v9 οὐδέπω|oudepō|vvv|G3764|Adv
+v9 οὐδέπω|oudepō|...|G3764|Adv
 v9 γὰρ|gar|For|G1063|Conj
 v9 ᾔδεισαν|ēdeisan|they still did not understand|G1492|V-LIA-3P
 v9 τὴν|tēn|from the|G3588|Art-AFS
@@ -218,7 +218,7 @@ v13 τὸν|ton|-|G3588|Art-AMS
 v13 Κύριόν|Kyrion|Lord {away}|G2962|N-AMS
 v13 μου|mou|my|G1473|PPro-G1S
 v13 καὶ|kai|and|G2532|Conj
-v13 οὐκ|ouk|vvv|G3756|Adv
+v13 οὐκ|ouk|...|G3756|Adv
 v13 οἶδα|oida|I do not know|G1492|V-RIA-1S
 v13 ποῦ|pou|where|G4226|Adv
 v13 ἔθηκαν|ethēkan|they have put|G5087|V-AIA-3P
@@ -235,7 +235,7 @@ v14 τὸν|ton|-|G3588|Art-AMS
 v14 Ἰησοῦν|Iēsoun|Jesus|G2424|N-AMS
 v14 ἑστῶτα|hestōta|standing [there]|G2476|V-RPA-AMS
 v14 καὶ|kai|[But]|G2532|Conj
-v14 οὐκ|ouk|vvv|G3756|Adv
+v14 οὐκ|ouk|...|G3756|Adv
 v14 ᾔδει|ēdei|she did not recognize|G1492|V-LIA-3S
 v14 ὅτι|hoti|that|G3754|Conj
 v14 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
@@ -288,7 +288,7 @@ v17 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v17 Μή|Mē|{Do} not|G3361|Adv
 v17 μου|mou|Me|G1473|PPro-G1S
 v17 ἅπτου|haptou|cling to|G680|V-PMM-2S
-v17 οὔπω|oupō|vvv|G3768|Adv
+v17 οὔπω|oupō|...|G3768|Adv
 v17 γὰρ|gar|for|G1063|Conj
 v17 ἀναβέβηκα|anabebēka|I have not yet ascended|G305|V-RIA-1S
 v17 πρὸς|pros|to|G4314|Prep
@@ -359,8 +359,8 @@ v19 ὁ|ho|-|G3588|Art-NMS
 v19 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v19 καὶ|kai|and|G2532|Conj
 v19 ἔστη|estē|stood|G2476|V-AIA-3S
-v19 εἰς|eis|vvv|G1519|Prep
-v19 τὸ|to|vvv|G3588|Art-ANS
+v19 εἰς|eis|...|G1519|Prep
+v19 τὸ|to|...|G3588|Art-ANS
 v19 μέσον|meson|among them|G3319|Adj-ANS
 v19 καὶ|kai|-|G2532|Conj
 v19 λέγει|legei|He said|G3004|V-PIA-3S
@@ -481,8 +481,8 @@ v25 εἰς|eis|into|G1519|Prep
 v25 τὴν|tēn|-|G3588|Art-AFS
 v25 πλευρὰν|pleuran|side|G4125|N-AFS
 v25 αὐτοῦ|autou|His|G846|PPro-GM3S
-v25 οὐ|ou|vvv|G3756|Adv
-v25 μὴ|mē|vvv|G3361|Adv
+v25 οὐ|ou|...|G3756|Adv
+v25 μὴ|mē|...|G3361|Adv
 v25 πιστεύσω|pisteusō|I will never believe|G4100|V-ASA-1S
 v26 Καὶ|Kai|-|G2532|Conj
 v26 μεθ’|meth’|later|G3326|Prep
@@ -506,8 +506,8 @@ v26 θυρῶν|thyrōn|doors|G2374|N-GFP
 v26 κεκλεισμένων|kekleismenōn|locked|G2808|V-RPM/P-GFP
 v26 καὶ|kai|and|G2532|Conj
 v26 ἔστη|estē|stood|G2476|V-AIA-3S
-v26 εἰς|eis|vvv|G1519|Prep
-v26 τὸ|to|vvv|G3588|Art-ANS
+v26 εἰς|eis|...|G1519|Prep
+v26 τὸ|to|...|G3588|Art-ANS
 v26 μέσον|meson|among them|G3319|Adj-ANS
 v26 καὶ|kai|and|G2532|Conj
 v26 εἶπεν|eipen|said|G2036|V-AIA-3S
@@ -539,8 +539,8 @@ v27 τὴν|tēn|-|G3588|Art-AFS
 v27 πλευράν|pleuran|side|G4125|N-AFS
 v27 μου|mou|My|G1473|PPro-G1S
 v27 καὶ|kai|-|G2532|Conj
-v27 μὴ|mē|vvv|G3361|Adv
-v27 γίνου|ginou|vvv|G1096|V-PMM/P-2S
+v27 μὴ|mē|...|G3361|Adv
+v27 γίνου|ginou|...|G1096|V-PMM/P-2S
 v27 ἄπιστος|apistos|Stop doubting|G571|Adj-NMS
 v27 ἀλλὰ|alla|and|G235|Conj
 v27 πιστός|pistos|believe|G4103|Adj-NMS
@@ -566,14 +566,14 @@ v29 με|me|Me|G1473|PPro-A1S
 v29 πεπίστευκας|pepisteukas|you have believed|G4100|V-RIA-2S
 v29 μακάριοι|makarioi|blessed [are]|G3107|Adj-NMP
 v29 οἱ|hoi|those who|G3588|Art-NMP
-v29 μὴ|mē|vvv|G3361|Adv
+v29 μὴ|mē|...|G3361|Adv
 v29 ἰδόντες|idontes|have not seen|G3708|V-APA-NMP
 v29 καὶ|kai|and yet|G2532|Conj
 v29 πιστεύσαντες|pisteusantes|have believed|G4100|V-APA-NMP
 v30 Πολλὰ|Polla|many|G4183|Adj-ANP
-v30 μὲν|men|vvv|G3303|Conj
-v30 οὖν|oun|vvv|G3767|Conj
-v30 καὶ|kai|vvv|G2532|Conj
+v30 μὲν|men|...|G3303|Conj
+v30 οὖν|oun|...|G3767|Conj
+v30 καὶ|kai|...|G2532|Conj
 v30 ἄλλα|alla|other|G243|Adj-ANP
 v30 σημεῖα|sēmeia|signs|G4592|N-ANP
 v30 ἐποίησεν|epoiēsen|performed|G4160|V-AIA-3S

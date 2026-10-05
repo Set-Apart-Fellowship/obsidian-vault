@@ -56,8 +56,8 @@ v5 οὖν|oun|therefore|G3767|Conj
 v5 τὰ|ta|the|G3588|Art-ANP
 v5 μέλη|melē|components|G3196|N-ANP
 v5 τὰ|ta|of your|G3588|Art-ANP
-v5 ἐπὶ|epi|vvv|G1909|Prep
-v5 τῆς|tēs|vvv|G3588|Art-GFS
+v5 ἐπὶ|epi|...|G1909|Prep
+v5 τῆς|tēs|...|G3588|Art-GFS
 v5 γῆς|gēs|earthly nature|G1093|N-GFS
 v5 πορνείαν|porneian|sexual immorality|G4202|N-AFS
 v5 ἀκαθαρσίαν|akatharsian|impurity|G167|N-AFS
@@ -173,7 +173,7 @@ v13 ἀλλήλων|allēlōn|one another|G240|RecPro-GMP
 v13 καὶ|kai|and|G2532|Conj
 v13 χαριζόμενοι|charizomenoi|forgive|G5483|V-PPM/P-NMP
 v13 ἑαυτοῖς|heautois|-|G1438|RefPro-DM3P
-v13 ἐάν|ean|vvv|G1437|Conj
+v13 ἐάν|ean|...|G1437|Conj
 v13 τις|tis|[any]|G5100|IPro-NMS
 v13 πρός|pros|against|G4314|Prep
 v13 τινα|tina|someone else|G5100|IPro-AMS
@@ -185,8 +185,8 @@ v13 ὁ|ho|the|G3588|Art-NMS
 v13 Κύριος|Kyrios|Lord|G2962|N-NMS
 v13 ἐχαρίσατο|echarisato|forgave|G5483|V-AIM-3S
 v13 ὑμῖν|hymin|you|G4771|PPro-D2P
-v13 οὕτως|houtōs|vvv|G3779|Adv
-v13 καὶ|kai|vvv|G2532|Conj
+v13 οὕτως|houtōs|...|G3779|Adv
+v13 καὶ|kai|...|G2532|Conj
 v13 ὑμεῖς|hymeis|Forgive|G4771|PPro-N2P
 v14 ἐπὶ|epi|over|G1909|Prep
 v14 πᾶσιν|pasin|all|G3956|Adj-DNP
@@ -310,7 +310,7 @@ v21 τὰ|ta|-|G3588|Art-ANP
 v21 τέκνα|tekna|children|G5043|N-ANP
 v21 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v21 ἵνα|hina|so|G2443|Conj
-v21 μὴ|mē|vvv|G3361|Adv
+v21 μὴ|mē|...|G3361|Adv
 v21 ἀθυμῶσιν|athymōsin|they will not become discouraged|G120|V-PSA-3P
 v22 Οἱ|Hoi|-|G3588|Art-VMP
 v22 δοῦλοι|douloi|Slaves|G1401|N-VMP
@@ -322,9 +322,9 @@ v22 κατὰ|kata|earthly|G2596|Prep
 v22 σάρκα|sarka|...|G4561|N-AFS
 v22 κυρίοις|kyriois|masters|G2962|N-DMP
 v22 μὴ|mē|not [only]|G3361|Adv
-v22 ἐν|en|vvv|G1722|Prep
+v22 ἐν|en|...|G1722|Prep
 v22 ὀφθαλμοδουλίαις|ophthalmodouliais|while they are watching|G3787|N-DFP
-v22 ὡς|hōs|vvv|G5613|Adv
+v22 ὡς|hōs|...|G5613|Adv
 v22 ἀνθρωπάρεσκοι|anthrōpareskoi|to please them|G441|Adj-NMP
 v22 ἀλλ’|all’|but|G235|Conj
 v22 ἐν|en|with|G1722|Prep
@@ -336,7 +336,7 @@ v22 Κύριον|Kyrion|Lord|G2962|N-AMS
 v23 Ὃ|Ho|Whatever|G3739|RelPro-ANS
 v23 ἐὰν|ean|...|G1437|Conj
 v23 ποιῆτε|poiēte|you do|G4160|V-PSA-2P
-v23 ἐκ|ek|vvv|G1537|Prep
+v23 ἐκ|ek|...|G1537|Prep
 v23 ψυχῆς|psychēs|with your whole being|G5590|N-GFS
 v23 ἐργάζεσθε|ergazesthe|work at it|G2038|V-PMM/P-2P
 v23 ὡς|hōs|as for|G5613|Adv
@@ -362,7 +362,7 @@ v25 ὁ|ho|Whoever|G3588|Art-NMS
 v25 γὰρ|gar|-|G1063|Conj
 v25 ἀδικῶν|adikōn|does wrong|G91|V-PPA-NMS
 v25 κομίσεται|komisetai|will be repaid [for]|G2865|V-FIM-3S
-v25 ὃ|ho|vvv|G3739|RelPro-ANS
+v25 ὃ|ho|...|G3739|RelPro-ANS
 v25 ἠδίκησεν|ēdikēsen|his wrong|G91|V-AIA-3S
 v25 καὶ|kai|and|G2532|Conj
 v25 οὐκ|ouk|no|G3756|Adv

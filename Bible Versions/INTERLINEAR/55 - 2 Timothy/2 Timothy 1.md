@@ -63,7 +63,7 @@ v4 ἵνα|hina|so that|G2443|Conj
 v4 χαρᾶς|charas|with joy|G5479|N-GFS
 v4 πληρωθῶ|plērōthō|I may be filled|G4137|V-ASP-1S
 v5 ὑπόμνησιν|hypomnēsin|I am reminded|G5280|N-AFS
-v5 λαβὼν|labōn|vvv|G2983|V-APA-NMS
+v5 λαβὼν|labōn|...|G2983|V-APA-NMS
 v5 τῆς|tēs|of|G3588|Art-GFS
 v5 ἐν|en|-|G1722|Prep
 v5 σοὶ|soi|your|G4771|PPro-D2S
@@ -122,7 +122,7 @@ v7 καὶ|kai|-|G2532|Conj
 v7 ἀγάπης|agapēs|love|G26|N-GFS
 v7 καὶ|kai|and|G2532|Conj
 v7 σωφρονισμοῦ|sōphronismou|self-control|G4995|N-GMS
-v8 Μὴ|Mē|vvv|G3361|Adv
+v8 Μὴ|Mē|...|G3361|Adv
 v8 οὖν|oun|So|G3767|Conj
 v8 ἐπαισχυνθῇς|epaischynthēs|do not be ashamed of|G1870|V-ASP-2S
 v8 τὸ|to|the|G3588|Art-ANS
@@ -208,7 +208,7 @@ v12 καὶ|kai|even [though]|G2532|Conj
 v12 ταῦτα|tauta|[as I do]|G3778|DPro-ANP
 v12 πάσχω|paschō|I suffer|G3958|V-PIA-1S
 v12 ἀλλ’|all’|-|G235|Conj
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 ἐπαισχύνομαι|epaischynomai|I am not ashamed|G1870|V-PIM/P-1S
 v12 οἶδα|oida|I know|G1492|V-RIA-1S
 v12 γὰρ|gar|for|G1063|Conj
@@ -221,7 +221,7 @@ v12 δυνατός|dynatos|able|G1415|Adj-NMS
 v12 ἐστιν|estin|He is|G1510|V-PIA-3S
 v12 τὴν|tēn|what|G3588|Art-AFS
 v12 παραθήκην|parathēkēn|I have entrusted [to Him]|G3866|N-AFS
-v12 μου|mou|vvv|G1473|PPro-G1S
+v12 μου|mou|...|G1473|PPro-G1S
 v12 φυλάξαι|phylaxai|to guard|G5442|V-ANA
 v12 εἰς|eis|for|G1519|Prep
 v12 ἐκείνην|ekeinēn|that|G1565|DPro-AFS
@@ -284,13 +284,13 @@ v16 καὶ|kai|and|G2532|Conj
 v16 τὴν|tēn|-|G3588|Art-AFS
 v16 ἅλυσίν|halysin|chains|G254|N-AFS
 v16 μου|mou|my|G1473|PPro-G1S
-v16 οὐκ|ouk|vvv|G3756|Adv
+v16 οὐκ|ouk|...|G3756|Adv
 v16 ἐπαισχύνθη|epaischynthē|was unashamed of|G1870|V-AIP-3S
 v17 ἀλλὰ|alla|Indeed|G235|Conj
 v17 γενόμενος|genomenos|when he arrived|G1096|V-APM-NMS
 v17 ἐν|en|in|G1722|Prep
 v17 Ῥώμῃ|Rhōmē|Rome|G4516|N-DFS
-v17 σπουδαίως|spoudaiōs|vvv|G4709|Adv
+v17 σπουδαίως|spoudaiōs|...|G4709|Adv
 v17 ἐζήτησέν|ezētēsen|he searched diligently|G2212|V-AIA-3S
 v17 με|me|me|G1473|PPro-A1S
 v17 καὶ|kai|[until]|G2532|Conj
@@ -301,7 +301,7 @@ v18 ὁ|ho|{May} the|G3588|Art-NMS
 v18 Κύριος|Kyrios|Lord|G2962|N-NMS
 v18 εὑρεῖν|heurein|-|G2147|V-ANA
 v18 ἔλεος|eleos|mercy|G1656|N-ANS
-v18 παρὰ|para|vvv|G3844|Prep
+v18 παρὰ|para|...|G3844|Prep
 v18 Κυρίου|Kyriou|[His]|G2962|N-GMS
 v18 ἐν|en|on|G1722|Prep
 v18 ἐκείνῃ|ekeinē|that|G1565|DPro-DFS

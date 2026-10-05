@@ -47,7 +47,7 @@ v4 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v4 הָסִ֛ירוּ|hā·sî·rū|Take off|H5493|V-Hifil-Imp-mp
 v4 הַבְּגָדִ֥ים|hab·bə·ḡā·ḏîm|clothes|H899|Art | N-mp
 v4 הַצֹּאִ֖ים|haṣ·ṣō·’îm|his filthy|H6674|Art | Adj-mp
-v4 מֵעָלָ֑יו|mê·‘ā·lāw||H5921|Prep-m | 3ms
+v4 מֵעָלָ֑יו|mê·‘ā·lāw|-|H5921|Prep-m | 3ms
 v4 וַיֹּ֣אמֶר|way·yō·mer|Then he said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 אֵלָ֗יו|’ê·lāw|to [Joshua]|H413|Prep | 3ms
 v4 רְאֵ֨ה|rə·’êh|See|H7200|V-Qal-Imp-ms

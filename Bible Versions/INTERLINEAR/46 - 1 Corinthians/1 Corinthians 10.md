@@ -1,4 +1,4 @@
-v1 Οὐ|Ou|vvv|G3756|Adv
+v1 Οὐ|Ou|...|G3756|Adv
 v1 θέλω|thelō|I do not want|G2309|V-PIA-1S
 v1 γὰρ|gar|-|G1063|Conj
 v1 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -20,7 +20,7 @@ v1 τῆς|tēs|the|G3588|Art-GFS
 v1 θαλάσσης|thalassēs|sea|G2281|N-GFS
 v1 διῆλθον|diēlthon|passed|G1330|V-AIA-3P
 v2 καὶ|kai|-|G2532|Conj
-v2 πάντες|pantes|vvv|G3956|Adj-NMP
+v2 πάντες|pantes|...|G3956|Adj-NMP
 v2 εἰς|eis|into|G1519|Prep
 v2 τὸν|ton|-|G3588|Art-AMS
 v2 Μωϋσῆν|Mōusēn|Moses|G3475|N-AMS
@@ -59,7 +59,7 @@ v4 ἦν|ēn|was|G1510|V-IIA-3S
 v4 ὁ|ho|-|G3588|Art-NMS
 v4 Χριστός|Christos|Christ|G5547|N-NMS
 v5 ἀλλ’|all’|Nevertheless|G235|Conj
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 ἐν|en|with|G1722|Prep
 v5 τοῖς|tois|-|G3588|Art-DMP
 v5 πλείοσιν|pleiosin|most|G4119|Adj-DMP-C
@@ -78,16 +78,16 @@ v6 τύποι|typoi|as examples|G5179|N-NMP
 v6 ἡμῶν|hēmōn|-|G1473|PPro-G1P
 v6 ἐγενήθησαν|egenēthēsan|took place|G1096|V-AIP-3P
 v6 εἰς|eis|to keep|G1519|Prep
-v6 τὸ|to|vvv|G3588|Art-ANS
-v6 μὴ|mē|vvv|G3361|Adv
-v6 εἶναι|einai|vvv|G1510|V-PNA
+v6 τὸ|to|...|G3588|Art-ANS
+v6 μὴ|mē|...|G3361|Adv
+v6 εἶναι|einai|...|G1510|V-PNA
 v6 ἡμᾶς|hēmas|us|G1473|PPro-A1P
 v6 ἐπιθυμητὰς|epithymētas|from craving|G1938|N-AMP
 v6 κακῶν|kakōn|evil things|G2556|Adj-GNP
 v6 καθὼς|kathōs|as|G2531|Adv
 v6 κἀκεῖνοι|kakeinoi|they|G2548|DPro-NMP
 v6 ἐπεθύμησαν|epethymēsan|[did]|G1937|V-AIA-3P
-v7 μηδὲ|mēde|vvv|G3366|Conj
+v7 μηδὲ|mēde|...|G3366|Conj
 v7 εἰδωλολάτραι|eidōlolatrai|idolaters|G1496|N-NMP
 v7 γίνεσθε|ginesthe|Do not be|G1096|V-PMM/P-2P
 v7 καθώς|kathōs|as|G2531|Adv
@@ -104,7 +104,7 @@ v7 πεῖν|pein|drink|G4095|V-ANA
 v7 καὶ|kai|and|G2532|Conj
 v7 ἀνέστησαν|anestēsan|got up|G450|V-AIA-3P
 v7 παίζειν|paizein|to indulge in revelry|G3815|V-PNA
-v8 μηδὲ|mēde|vvv|G3366|Conj
+v8 μηδὲ|mēde|...|G3366|Conj
 v8 πορνεύωμεν|porneuōmen|We should not commit sexual immorality|G4203|V-PSA-1P
 v8 καθώς|kathōs|as|G2531|Adv
 v8 τινες|tines|some|G5100|IPro-NMP
@@ -130,7 +130,7 @@ v9 ὑπὸ|hypo|by|G5259|Prep
 v9 τῶν|tōn|-|G3588|Art-GMP
 v9 ὄφεων|opheōn|snakes|G3789|N-GMP
 v9 ἀπώλλυντο|apōllynto|were killed|G622|V-IIP-3P
-v10 μηδὲ|mēde|vvv|G3366|Conj
+v10 μηδὲ|mēde|...|G3366|Conj
 v10 γογγύζετε|gongyzete|And do not complain|G1111|V-PMA-2P
 v10 καθάπερ|kathaper|as|G2509|Adv
 v10 τινὲς|tines|some|G5100|IPro-NMP
@@ -177,7 +177,7 @@ v13 δὲ|de|And|G1161|Conj
 v13 ὁ|ho|-|G3588|Art-NMS
 v13 Θεός|Theos|God|G2316|N-NMS
 v13 ὃς|hos|[He]|G3739|RelPro-NMS
-v13 οὐκ|ouk|vvv|G3756|Adv
+v13 οὐκ|ouk|...|G3756|Adv
 v13 ἐάσει|easei|will not let|G1439|V-FIA-3S
 v13 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v13 πειρασθῆναι|peirasthēnai|be tempted|G3985|V-ANP
@@ -243,7 +243,7 @@ v17 πολλοί|polloi|many|G4183|Adj-NMP
 v17 ἐσμεν|esmen|are|G1510|V-PIA-1P
 v17 οἱ|hoi|-|G3588|Art-NMP
 v17 γὰρ|gar|for|G1063|Conj
-v17 πάντες|pantes|vvv|G3956|Adj-NMP
+v17 πάντες|pantes|...|G3956|Adj-NMP
 v17 ἐκ|ek|of|G1537|Prep
 v17 τοῦ|tou|the|G3588|Art-GMS
 v17 ἑνὸς|henos|one|G1520|Adj-GMS
@@ -252,7 +252,7 @@ v17 μετέχομεν|metechomen|we all partake|G3348|V-PIA-1P
 v18 βλέπετε|blepete|Consider|G991|V-PMA-2P
 v18 τὸν|ton|-|G3588|Art-AMS
 v18 Ἰσραὴλ|Israēl|of Israel|G2474|N-AMS
-v18 κατὰ|kata|vvv|G2596|Prep
+v18 κατὰ|kata|...|G2596|Prep
 v18 σάρκα|sarka|the people|G4561|N-AFS
 v18 οὐχ|ouch|not|G3756|Adv
 v18 οἱ|hoi|those who|G3588|Art-NMP
@@ -286,7 +286,7 @@ v20 καὶ|kai|-|G2532|Conj
 v20 οὐ|ou|not|G3756|Adv
 v20 Θεῷ|Theō|to God|G2316|N-DMS
 v20 θύουσιν|thyousin|are offered|G2380|V-PIA-3P
-v20 οὐ|ou|vvv|G3756|Adv
+v20 οὐ|ou|...|G3756|Adv
 v20 θέλω|thelō|I do not want|G2309|V-PIA-1S
 v20 δὲ|de|And|G1161|Conj
 v20 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -294,7 +294,7 @@ v20 κοινωνοὺς|koinōnous|participants|G2844|N-AMP
 v20 τῶν|tōn|-|G3588|Art-GNP
 v20 δαιμονίων|daimoniōn|with demons|G1140|N-GNP
 v20 γίνεσθαι|ginesthai|to be|G1096|V-PNM/P
-v21 οὐ|ou|vvv|G3756|Adv
+v21 οὐ|ou|...|G3756|Adv
 v21 δύνασθε|dynasthe|You cannot|G1410|V-PIM/P-2P
 v21 ποτήριον|potērion|[the] cup|G4221|N-ANS
 v21 Κυρίου|Kyriou|of [the] Lord|G2962|N-GMS
@@ -302,7 +302,7 @@ v21 πίνειν|pinein|drink|G4095|V-PNA
 v21 καὶ|kai|and|G2532|Conj
 v21 ποτήριον|potērion|[the] cup|G4221|N-ANS
 v21 δαιμονίων|daimoniōn|of demons [too]|G1140|N-GNP
-v21 οὐ|ou|vvv|G3756|Adv
+v21 οὐ|ou|...|G3756|Adv
 v21 δύνασθε|dynasthe|you cannot|G1410|V-PIM/P-2P
 v21 τραπέζης|trapezēs|in [the] table|G5132|N-GFS
 v21 Κυρίου|Kyriou|of [the] Lord|G2962|N-GMS
@@ -453,7 +453,7 @@ v33 κἀγὼ|kagō|I also|G2504|PPro-N1S
 v33 πάντα|panta|everyone|G3956|Adj-ANP
 v33 πᾶσιν|pasin|in all [I do]|G3956|Adj-DMP
 v33 ἀρέσκω|areskō|[try to] please|G700|V-PIA-1S
-v33 μὴ|mē|vvv|G3361|Adv
+v33 μὴ|mē|...|G3361|Adv
 v33 ζητῶν|zētōn|[For] I am not seeking|G2212|V-PPA-NMS
 v33 τὸ|to|-|G3588|Art-ANS
 v33 ἐμαυτοῦ|emautou|my [own]|G1683|PPro-GM1S

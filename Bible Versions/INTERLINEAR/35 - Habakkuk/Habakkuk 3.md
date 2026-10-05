@@ -36,7 +36,7 @@ v4 כָּא֣וֹר|kā·’ō·wr|like the sunlight|H216|Prep-k, Art | N-cs
 v4 תִּֽהְיֶ֔ה|tih·yeh|was|H1961|V-Qal-Imperf-3fs
 v4 קַרְנַ֥יִם|qar·na·yim|rays [flashed]|H7161|N-fd
 v4 מִיָּד֖וֹ|mî·yā·ḏōw|from His hand|H3027|Prep-m | N-fsc | 3ms
-v4 ל֑וֹ|lōw||H0|Prep | 3ms
+v4 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v4 וְשָׁ֖ם|wə·šām|where|H8033|Conj-w | Adv
 v4 חֶבְי֥וֹן|ḥeḇ·yō·wn|is hidden|H2253|N-msc
 v4 עֻזֹּֽה׃|ʿuz·zōh|His power|H5797|N-msc | 3ms
@@ -68,8 +68,8 @@ v7 אָהֳלֵ֣י|’ā·ho·lê|the tents|H168|N-mpc
 v7 כוּשָׁ֑ן|ḵū·šān|of Cushan|H3572|N-proper-fs
 v7 יִרְגְּז֕וּן|yir·gə·zūn|were trembling|H7264|V-Qal-Imperf-3mp | Pn
 v7 יְרִיע֖וֹת|yə·rî·‘ō·wṯ|the curtains|H3407|N-fpc
-v7 אֶ֥רֶץ|’e·reṣ|vvv|H776|N-fsc
-v7 מִדְיָֽן׃ס|miḏ·yān|of Midian|H4080|N-proper-fs
+v7 אֶ֥רֶץ|’e·reṣ|...|H776|N-fsc
+v7 מִדְיָֽן׃|miḏ·yān|of Midian|H4080|N-proper-fs
 v8 הֲבִנְהָרִים֙|hă·ḇin·hā·rîm|at the rivers|H5104|Art, Prep-b | N-mp
 v8 חָרָ֣ה|ḥā·rāh|Were You angry|H2734|V-Qal-Perf-3ms
 v8 יְהוָ֔ה|Yah·weh|O LORD|H3068|N-proper-ms
@@ -137,7 +137,7 @@ v13 עָר֛וֹת|‘ā·rō·wṯ|and stripped him|H6168|V-Piel-InfAbs
 v13 יְס֥וֹד|yə·sō·wḏ|toe|H3247|N-ms
 v13 עַד־|‘aḏ-|to|H5704|Prep
 v13 צַוָּ֖אר|ṣaw·wār|from head|H6677|N-ms
-v13 סֶֽלָה׃פ|se·lāh|Selah|H5542|Interjection
+v13 סֶֽלָה׃|se·lāh|Selah|H5542|Interjection
 v14 נָקַ֤בְתָּ|nā·qaḇ·tā|You pierced|H5344|V-Qal-Perf-2ms
 v14 בְמַטָּיו֙|ḇə·maṭ·ṭāw|With his own spear|H4294|Prep-b | N-mpc | 3ms
 v14 רֹ֣אשׁ|rōš|his head|H7218|N-msc

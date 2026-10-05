@@ -289,7 +289,7 @@ v12 τοῖς|tois|the|G3588|Art-DMP
 v12 πυλῶσιν|pylōsin|gates|G4440|N-DMP
 v12 ἀγγέλους|angelous|angels|G32|N-AMP
 v12 δώδεκα|dōdeka|twelve|G1427|Adj-AMP
-v12 καὶ|kai|vvv|G2532|Conj
+v12 καὶ|kai|...|G2532|Conj
 v12 ὀνόματα|onomata|-|G3686|N-ANP
 v12 ἐπιγεγραμμένα|epigegrammena|inscribed|G1924|V-RPM/P-ANP
 v12 ἅ|ha|-|G3739|RelPro-NNP
@@ -329,7 +329,7 @@ v14 ἔχων|echōn|had|G2192|V-PPA-NMS
 v14 θεμελίους|themelious|foundations|G2310|N-AMP
 v14 δώδεκα|dōdeka|twelve|G1427|Adj-AMP
 v14 καὶ|kai|-|G2532|Conj
-v14 ἐπ’|ep’|vvv|G1909|Prep
+v14 ἐπ’|ep’|...|G1909|Prep
 v14 αὐτῶν|autōn|[bearing]|G846|PPro-GM3P
 v14 δώδεκα|dōdeka|[the]|G1427|Adj-ANP
 v14 ὀνόματα|onomata|names|G3686|N-ANP
@@ -380,7 +380,7 @@ v16 τῷ|tō|with the|G3588|Art-DMS
 v16 καλάμῳ|kalamō|rod|G2563|N-DMS
 v16 ἐπὶ|epi|-|G1909|Prep
 v16 σταδίων|stadiōn|stadia|G4712|N-GMP
-v16 δώδεκα|dōdeka|12,000 {}|G1427|Adj-GNP
+v16 δώδεκα|dōdeka|12,000|G1427|Adj-GNP
 v16 χιλιάδων|chiliadōn|...|G5505|N-GFP
 v16 τὸ|to|in|G3588|Art-NNS
 v16 μῆκος|mēkos|length|G3372|N-NNS
@@ -398,7 +398,7 @@ v17 ἐμέτρησεν|emetrēsen|he measured|G3354|V-AIA-3S
 v17 τὸ|to|-|G3588|Art-ANS
 v17 τεῖχος|teichos|wall [to be]|G5038|N-ANS
 v17 αὐτῆς|autēs|its|G846|PPro-GF3S
-v17 ἑκατὸν|hekaton|144 {}|G1540|Adj-GMP
+v17 ἑκατὸν|hekaton|144|G1540|Adj-GMP
 v17 τεσσεράκοντα|tesserakonta|...|G5062|Adj-GMP
 v17 τεσσάρων|tessarōn|...|G5064|Adj-GMP
 v17 πηχῶν|pēchōn|cubits|G4083|N-GMP
@@ -476,7 +476,7 @@ v21 δώδεκα|dōdeka|twelve|G1427|Adj-NMP
 v21 πυλῶνες|pylōnes|gates [were]|G4440|N-NMP
 v21 δώδεκα|dōdeka|twelve|G1427|Adj-NMP
 v21 μαργαρῖται|margaritai|pearls|G3135|N-NMP
-v21 ἀνὰ|ana|vvv|G303|Adv
+v21 ἀνὰ|ana|...|G303|Adv
 v21 εἷς|heis|-|G1520|Adj-NMS
 v21 ἕκαστος|hekastos|[with] each|G1538|Adj-NMS
 v21 τῶν|tōn|-|G3588|Art-GMP
@@ -564,8 +564,8 @@ v25 καὶ|kai|-|G2532|Conj
 v25 οἱ|hoi|-|G3588|Art-NMP
 v25 πυλῶνες|pylōnes|gates|G4440|N-NMP
 v25 αὐτῆς|autēs|Its|G846|PPro-GF3S
-v25 οὐ|ou|vvv|G3756|Adv
-v25 μὴ|mē|vvv|G3361|Adv
+v25 οὐ|ou|...|G3756|Adv
+v25 μὴ|mē|...|G3361|Adv
 v25 κλεισθῶσιν|kleisthōsin|will never be shut|G2808|V-ASP-3P
 v25 ἡμέρας|hēmeras|at the end of the day|G2250|N-GFS
 v25 νὺξ|nyx|night|G3571|N-NFS
@@ -585,8 +585,8 @@ v26 ἐθνῶν|ethnōn|nations|G1484|N-GNP
 v26 εἰς|eis|into|G1519|Prep
 v26 αὐτήν|autēn|[the city]|G846|PPro-AF3S
 v27 καὶ|kai|[But]|G2532|Conj
-v27 οὐ|ou|vvv|G3756|Adv
-v27 μὴ|mē|vvv|G3361|Adv
+v27 οὐ|ou|...|G3756|Adv
+v27 μὴ|mē|...|G3361|Adv
 v27 εἰσέλθῃ|eiselthē|will ever enter|G1525|V-ASA-3S
 v27 εἰς|eis|...|G1519|Prep
 v27 αὐτὴν|autēn|it|G846|PPro-AF3S

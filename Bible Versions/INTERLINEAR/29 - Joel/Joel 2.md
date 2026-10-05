@@ -32,7 +32,7 @@ v2 לֹ֤א|lō|never|H3808|Adv-NegPrt
 v2 נִֽהְיָה֙|nih·yāh|was|H1961|V-Nifal-Perf-3ms
 v2 מִן־|min-|of|H4480|Prep
 v2 הָ֣עוֹלָ֔ם|hā·‘ō·w·lām|old|H5769|Art | N-ms
-v2 וְאַֽחֲרָיו֙|wə·’a·ḥă·rāw||H310|Conj-w | Prep | 3ms
+v2 וְאַֽחֲרָיו֙|wə·’a·ḥă·rāw|-|H310|Conj-w | Prep | 3ms
 v2 לֹ֣א|lō|nor will ever be|H3808|Adv-NegPrt
 v2 יוֹסֵ֔ף|yō·w·sêp̄|...|H3254|V-Hifil-Imperf.Jus-3ms
 v2 עַד־|‘aḏ-|...|H5704|Prep
@@ -66,7 +66,7 @@ v4 יְרוּצֽוּן׃|yə·rū·ṣūn|and they gallop|H7323|V-Qal-Imperf-3m
 v5 כְּק֣וֹל|kə·qō·wl|With a sound like|H6963|Prep-k | N-msc
 v5 מַרְכָּב֗וֹת|mar·kā·ḇō·wṯ|that of chariots|H4818|N-fp
 v5 עַל־|‘al-|over|H5921|Prep
-v5 רָאשֵׁ֤י|rā·šê|vvv|H7218|N-mpc
+v5 רָאשֵׁ֤י|rā·šê|...|H7218|N-mpc
 v5 הֶֽהָרִים֙|he·hā·rîm|the mountaintops|H2022|Art | N-mp
 v5 יְרַקֵּד֔וּן|yə·raq·qê·ḏūn|they bound|H7540|V-Piel-Imperf-3mp | Pn
 v5 כְּקוֹל֙|kə·qō·wl|like the crackling|H6963|Prep-k | N-msc
@@ -191,7 +191,7 @@ v14 בְּרָכָ֔ה|bə·rā·ḵāh|a blessing|H1293|N-fs
 v14 מִנְחָ֣ה|min·ḥāh|grain|H4503|N-fs
 v14 וָנֶ֔סֶךְ|wā·ne·seḵ|and drink offerings|H5262|Conj-w | N-ms
 v14 לַיהוָ֖ה|Yah·weh|for the LORD|H3068|Prep-l | N-proper-ms
-v14 אֱלֹהֵיכֶֽם׃פ|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
+v14 אֱלֹהֵיכֶֽם׃|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
 v15 תִּקְע֥וּ|tiq·‘ū|Blow|H8628|V-Qal-Imp-mp
 v15 שׁוֹפָ֖ר|šō·w·p̄ār|the ram's horn|H7782|N-ms
 v15 בְּצִיּ֑וֹן|bə·ṣî·yō·wn|in Zion|H6726|Prep-b | N-proper-fs
@@ -224,14 +224,14 @@ v17 יְהוָ֑ה|Yah·weh|before the LORD|H3068|N-proper-ms
 v17 וְֽיֹאמְר֞וּ|wə·yō·mə·rū|saying|H559|Conj-w | V-Qal-ConjImperf-3mp
 v17 ח֧וּסָה|ḥū·sāh|Spare|H2347|V-Qal-Imp-ms | 3fs
 v17 יְהוָ֣ה|Yah·weh|O LORD|H3068|N-proper-ms
-v17 עַל־|‘al-||H5921|Prep
+v17 עַל־|‘al-|-|H5921|Prep
 v17 עַמֶּ֗ךָ|‘am·me·ḵā|Your people|H5971|N-msc | 2ms
 v17 וְאַל־|wə·’al-|and do not|H408|Conj-w | Adv
 v17 תִּתֵּ֨ן|tit·tên|make|H5414|V-Qal-Imperf-2ms
 v17 נַחֲלָתְךָ֤|na·ḥă·lā·ṯə·ḵā|Your heritage|H5159|N-fsc | 2ms
 v17 לְחֶרְפָּה֙|lə·ḥer·pāh|a reproach|H2781|Prep-l | N-fs
 v17 לִמְשָׁל־|lim·šāl-|an object of scorn|H4910|Prep-l | N-msc
-v17 בָּ֣ם|bām||H0|Prep | 3mp
+v17 בָּ֣ם|bām|-|H0|Prep | 3mp
 v17 גּוֹיִ֔ם|gō·w·yim|among the nations|H1471|N-mp
 v17 לָ֚מָּה|lām·māh|Why|H4100|Interrog
 v17 יֹאמְר֣וּ|yō·mə·rū|should they say|H559|V-Qal-Imperf-3mp
@@ -305,7 +305,7 @@ v22 כִּ֥י|kî|for|H3588|Conj
 v22 דָשְׁא֖וּ|ḏā·šə·’ū|have turned green|H1876|V-Qal-Perf-3cp
 v22 נְא֣וֹת|nə·’ō·wṯ|pastures|H4999|N-fpc
 v22 מִדְבָּ֑ר|miḏ·bār|the open|H4057|N-ms
-v22 כִּֽי־|kî-||H3588|Conj
+v22 כִּֽי־|kî-|-|H3588|Conj
 v22 עֵץ֙|‘êṣ|the trees|H6086|N-ms
 v22 נָשָׂ֣א|nā·śā|bear|H5375|V-Qal-Perf-3ms
 v22 פִרְי֔וֹ|p̄ir·yōw|their fruit|H6529|N-msc | 3ms
@@ -382,7 +382,7 @@ v27 ע֑וֹד|‘ō·wḏ|other|H5750|Adv
 v27 וְלֹא־|wə·lō-|will never again|H3808|Conj-w | Adv-NegPrt
 v27 יֵבֹ֥שׁוּ|yê·ḇō·šū|be put to shame|H954|V-Qal-Imperf-3mp
 v27 עַמִּ֖י|‘am·mî|My people|H5971|N-msc | 1cs
-v27 לְעוֹלָֽם׃ס|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms
+v27 לְעוֹלָֽם׃|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms
 v28 וְהָיָ֣ה|wə·hā·yāh|And|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v28 אַֽחֲרֵי־|’a·ḥă·rê-|afterward|H310|Prep
 v28 כֵ֗ן|ḵên|...|H3651|Adv

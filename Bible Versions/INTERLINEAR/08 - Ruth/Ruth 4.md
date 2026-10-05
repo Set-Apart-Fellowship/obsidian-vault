@@ -202,7 +202,7 @@ v11 חַ֣יִל|ḥa·yil|prosperous|H2428|N-ms
 v11 בְּאֶפְרָ֔תָה|bə·’ep̄·rā·ṯāh|in Ephrathah|H672|Prep-b | N-proper-fs
 v11 וּקְרָא־|ū·qə·rā-|and famous|H7121|Conj-w | V-Qal-Imp-ms
 v11 שֵׁ֖ם|šêm|...|H8034|N-ms
-v11 בְּבֵ֥ית|bə·ḇêṯ|vvv|H1035|Prep
+v11 בְּבֵ֥ית|bə·ḇêṯ|...|H1035|Prep
 v11 לָֽחֶם׃|lā·ḥem|in Bethlehem|H1035|Prep | N-proper-fs
 v12 וִיהִ֤י|wî·hî|become|H1961|Conj-w | V-Qal-ConjImperf.Jus-3ms
 v12 בֵֽיתְךָ֙|ḇê·ṯə·ḵā|And may your house|H1004|N-msc | 2ms
@@ -293,7 +293,7 @@ v17 ה֥וּא|hū|He [became]|H1931|Pro-3ms
 v17 אֲבִי־|’ă·ḇî-|the father|H1|N-msc
 v17 יִשַׁ֖י|yi·šay|of Jesse|H3448|N-proper-ms
 v17 אֲבִ֥י|’ă·ḇî|the father|H1|N-msc
-v17 דָוִֽד׃פ|ḏā·wiḏ|of David|H1732|N-proper-ms
+v17 דָוִֽד׃|ḏā·wiḏ|of David|H1732|N-proper-ms
 v18 וְאֵ֙לֶּה֙|wə·’êl·leh|Now these [are]|H428|Conj-w | Pro-cp
 v18 תּוֹלְד֣וֹת|tō·wl·ḏō·wṯ|the generations|H8435|N-fpc
 v18 פָּ֔רֶץ|pā·reṣ|of Perez|H6557|N-proper-ms

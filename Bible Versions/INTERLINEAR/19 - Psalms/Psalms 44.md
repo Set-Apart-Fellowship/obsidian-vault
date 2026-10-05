@@ -82,7 +82,7 @@ v10 מִנִּי־|min·nî-|from|H4480|Prep
 v10 צָ֑ר|ṣār|the foe|H6862|N-ms
 v10 וּ֝מְשַׂנְאֵ֗ינוּ|ū·mə·śan·’ê·nū|and those who hate us|H8130|Conj-w | V-Piel-Prtcpl-mpc | 1cp
 v10 שָׁ֣סוּ|šā·sū|have plundered us|H8154|V-Qal-Perf-3cp
-v10 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v10 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v11 תִּ֭תְּנֵנוּ|tit·tə·nê·nū|You have given us up|H5414|V-Qal-Imperf-2ms | 1cp
 v11 כְּצֹ֣אן|kə·ṣōn|as sheep|H6629|Prep-k | N-csc
 v11 מַאֲכָ֑ל|ma·’ă·ḵāl|to be devoured|H3978|N-ms
@@ -192,7 +192,7 @@ v25 לָאָ֣רֶץ|lā·’ā·reṣ|to the earth|H776|Prep-l, Art | N-fs
 v25 בִּטְנֵֽנוּ׃|biṭ·nê·nū|our bodies|H990|N-fsc | 1cp
 v26 ק֭וּמָֽה|qū·māh|Rise up|H6965|V-Qal-Imp-ms | 3fs
 v26 עֶזְרָ֣תָה|‘ez·rā·ṯāh|be our help|H5833|N-fs | 3fs
-v26 לָּ֑נוּ|lā·nū||H0|Prep | 1cp
+v26 לָּ֑נוּ|lā·nū|-|H0|Prep | 1cp
 v26 וּ֝פְדֵ֗נוּ|ū·p̄ə·ḏê·nū|Redeem us|H6299|Conj-w | V-Qal-Imp-ms | 1cp
 v26 לְמַ֣עַן|lə·ma·‘an|on account of|H4616|Prep
 v26 חַסְדֶּֽךָ׃|ḥas·de·ḵā|Your loving devotion|H2617|N-msc | 2ms

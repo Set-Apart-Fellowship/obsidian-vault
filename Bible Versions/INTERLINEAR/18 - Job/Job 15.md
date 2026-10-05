@@ -16,7 +16,7 @@ v3 יִסְכּ֑וֹן|yis·kō·wn|...|H5532|V-Qal-Imperf-3ms
 v3 וּ֝מִלִּ֗ים|ū·mil·lîm|or speeches|H4405|Conj-w | N-fp
 v3 לֹא־|lō-|that serve no|H3808|Adv-NegPrt
 v3 יוֹעִ֥יל|yō·w·‘îl|purpose|H3276|V-Hifil-Imperf-3ms
-v3 בָּֽם׃|bām||H0|Prep | 3mp
+v3 בָּֽם׃|bām|-|H0|Prep | 3mp
 v4 אַף־|’ap̄-|But|H637|Conj
 v4 אַ֭תָּה|’at·tāh|you|H859|Pro-2ms
 v4 תָּפֵ֣ר|tā·p̄êr|even undermine|H6565|V-Hifil-Imperf-2ms
@@ -147,7 +147,7 @@ v21 בְּאָזְנָ֑יו|bə·’ā·zə·nāw|fill his ears|H241|Prep-b | N
 v21 בַּ֝שָּׁל֗וֹם|baš·šā·lō·wm|in his prosperity|H7965|Prep-b, Art | N-ms
 v21 שׁוֹדֵ֥ד|šō·w·ḏêḏ|the destroyer|H7703|V-Qal-Prtcpl-ms
 v21 יְבוֹאֶֽנּוּ׃|yə·ḇō·w·’en·nū|attacks him|H935|V-Qal-Imperf-3ms | 3ms
-v22 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v22 לֹא־|lō-|...|H3808|Adv-NegPrt
 v22 יַאֲמִ֣ין|ya·’ă·mîn|He despairs of|H539|V-Hifil-Imperf-3ms
 v22 שׁ֭וּב|šûb̲|his return|H7725|V-Qal-Inf
 v22 מִנִּי־|min·nî-|from|H4480|Prep
@@ -201,7 +201,7 @@ v28 נִכְחָד֗וֹת|niḵ·ḥā·ḏō·wṯ|in ruined|H3582|V-Nifal-Prt
 v28 בָּ֭תִּים|bāt·tîm|houses|H1004|N-mp
 v28 לֹא־|lō-|in abandoned|H3808|Adv-NegPrt
 v28 יֵ֣שְׁבוּ|yê·šə·ḇū|...|H3427|V-Qal-Imperf-3mp
-v28 לָ֑מוֹ|lā·mōw||H0|Prep | 3mp
+v28 לָ֑מוֹ|lā·mōw|-|H0|Prep | 3mp
 v28 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v28 הִתְעַתְּד֣וּ|hiṯ·‘at·tə·ḏū|destined|H6257|V-Hitpael-Perf-3cp
 v28 לְגַלִּֽים׃|lə·ḡal·lîm|to become rubble|H1530|Prep-l | N-mp
@@ -258,4 +258,4 @@ v35 וְיָ֣לֹד|wə·yā·lōḏ|and give birth to|H3205|Conj-w | V-Qal-Inf
 v35 אָ֑וֶן|’ā·wen|evil|H205|N-ms
 v35 וּ֝בִטְנָ֗ם|ū·ḇiṭ·nām|their womb|H990|Conj-w | N-fsc | 3mp
 v35 תָּכִ֥ין|tā·ḵîn|is pregnant with|H3559|V-Hifil-Imperf-3fs
-v35 מִרְמָֽה׃ס|mir·māh|deceit|H4820|N-fs
+v35 מִרְמָֽה׃|mir·māh|deceit|H4820|N-fs

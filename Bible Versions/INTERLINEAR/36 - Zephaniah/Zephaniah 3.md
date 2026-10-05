@@ -179,7 +179,7 @@ v13 הֵ֛מָּה|hêm·māh|they|H1992|Pro-3mp
 v13 יִרְע֥וּ|yir·‘ū|will feed|H7462|V-Qal-Imperf-3mp
 v13 וְרָבְצ֖וּ|wə·rā·ḇə·ṣū|and lie down|H7257|Conj-w | V-Qal-ConjPerf-3cp
 v13 וְאֵ֥ין|wə·’ên|with no one|H369|Conj-w | Adv
-v13 מַחֲרִֽיד׃ס|ma·ḥă·rîḏ|to make them tremble|H2729|V-Hifil-Prtcpl-ms
+v13 מַחֲרִֽיד׃|ma·ḥă·rîḏ|to make them tremble|H2729|V-Hifil-Prtcpl-ms
 v14 רָנִּי֙|rān·nî|Sing for joy|H7442|V-Qal-Imp-fs
 v14 בַּת־|baṯ-|O Daughter|H1323|N-fsc
 v14 צִיּ֔וֹן|ṣî·yō·wn|of Zion|H6726|N-proper-fs
@@ -233,7 +233,7 @@ v18 אָסַ֖פְתִּי|’ā·sap̄·tî|I will gather|H622|V-Qal-Perf-1cs
 v18 מִמֵּ֣ךְ|mim·mêḵ|those among you|H4480|Prep | 2fs
 v18 הָי֑וּ|hā·yū|so that|H1961|V-Qal-Perf-3cp
 v18 מַשְׂאֵ֥ת|maś·’êṯ|you will no longer suffer|H4864|N-fs
-v18 עָלֶ֖יהָ|‘ā·le·hā||H5921|Prep | 3fs
+v18 עָלֶ֖יהָ|‘ā·le·hā|-|H5921|Prep | 3fs
 v18 חֶרְפָּֽה׃|ḥer·pāh|reproach|H2781|N-fs
 v19 הִנְנִ֥י|hin·nî|Behold|H2005|Interjection | 1cs
 v19 עֹשֶׂ֛ה|‘ō·śeh|I will deal|H6213|V-Qal-Prtcpl-ms

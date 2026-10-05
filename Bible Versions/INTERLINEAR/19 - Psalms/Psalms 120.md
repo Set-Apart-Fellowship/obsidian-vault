@@ -3,7 +3,7 @@ v1 הַֽמַּ֫עֲל֥וֹת|ham·ma·‘ă·lō·wṯ|of ascents|H4609|Art 
 v1 אֶל־|’el-|to|H413|Prep
 v1 יְ֭הוָה|Yah·weh|the LORD|H3068|N-proper-ms
 v1 בַּצָּרָ֣תָה|baṣ·ṣā·rā·ṯāh|In my distress|H6869|Prep-b, Art | N-fs | 3fs
-v1 לִּ֑י|lî||H0|Prep | 1cs
+v1 לִּ֑י|lî|-|H0|Prep | 1cs
 v1 קָ֝רָ֗אתִי|qā·rā·ṯî|I cried|H7121|V-Qal-Perf-1cs
 v1 וַֽיַּעֲנֵֽנִי׃|way·ya·‘ă·nê·nî|and He answered me|H6030|Conj-w | V-Qal-ConsecImperf-3ms | 1cs
 v2 יְֽהוָ֗ה|Yah·weh|O LORD|H3068|N-proper-ms
@@ -38,7 +38,7 @@ v5 אָהֳלֵ֥י|’ā·ho·lê|the tents|H168|N-mpc
 v5 קֵדָֽר׃|qê·ḏār|of Kedar|H6938|N-proper-fs
 v6 רַ֭בַּת|rab·baṯ|Too long|H7227|Adj-fsc
 v6 שָֽׁכְנָה־|šā·ḵə·nāh-|dwelt|H7931|V-Qal-Perf-3fs
-v6 לָּ֣הּ|lāh||H0|Prep | 3fs
+v6 לָּ֣הּ|lāh|-|H0|Prep | 3fs
 v6 נַפְשִׁ֑י|nap̄·šî|have I|H5315|N-fsc | 1cs
 v6 עִ֝֗ם|‘im|among|H5973|Prep
 v6 שׂוֹנֵ֥א|śō·w·nê|those who hate|H8130|V-Qal-Prtcpl-msc

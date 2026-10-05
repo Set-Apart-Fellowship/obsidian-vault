@@ -195,15 +195,15 @@ v12 Ἡρῴδης|Hērōdēs|Herod|G2264|N-NMS
 v12 καὶ|kai|and|G2532|Conj
 v12 ὁ|ho|-|G3588|Art-NMS
 v12 Πιλᾶτος|Pilatos|Pilate|G4091|N-NMS
-v12 ἐν|en|vvv|G1722|Prep
+v12 ἐν|en|...|G1722|Prep
 v12 αὐτῇ|autē|That|G846|PPro-DF3S
-v12 τῇ|tē|vvv|G3588|Art-DFS
+v12 τῇ|tē|...|G3588|Art-DFS
 v12 ἡμέρᾳ|hēmera|day|G2250|N-DFS
 v12 μετ’|met’|-|G3326|Prep
 v12 ἀλλήλων|allēlōn|-|G240|RecPro-GMP
 v12 προϋπῆρχον|proupērchon|before this [time]|G4391|V-IIA-3P
 v12 γὰρ|gar|-|G1063|Conj
-v12 ἐν|en|vvv|G1722|Prep
+v12 ἐν|en|...|G1722|Prep
 v12 ἔχθρᾳ|echthra|enemies|G2189|N-DFS
 v12 ὄντες|ontes|they had been|G1510|V-PPA-NMP
 v12 πρὸς|pros|...|G4314|Prep
@@ -240,9 +240,9 @@ v14 ἀνακρίνας|anakrinas|have examined [Him]|G350|V-APA-NMS
 v14 οὐθὲν|outhen|not|G3762|Adj-ANS
 v14 εὗρον|heuron|[and] found|G2147|V-AIA-1S
 v14 ἐν|en|-|G1722|Prep
-v14 τῷ|tō|vvv|G3588|Art-DMS
+v14 τῷ|tō|...|G3588|Art-DMS
 v14 ἀνθρώπῳ|anthrōpō|[Him]|G444|N-DMS
-v14 τούτῳ|toutō|vvv|G3778|DPro-DMS
+v14 τούτῳ|toutō|...|G3778|DPro-DMS
 v14 αἴτιον|aition|guilty|G159|Adj-ANS
 v14 ὧν|hōn|of|G3739|RelPro-GNP
 v14 κατηγορεῖτε|katēgoreite|your charges|G2723|V-PIA-2P
@@ -430,7 +430,7 @@ v29 ὅτι|hoti|-|G3754|Conj
 v29 ἰδοὺ|idou|Look|G2400|V-AMA-2S
 v29 ἔρχονται|erchontai|are coming|G2064|V-PIM/P-3P
 v29 ἡμέραι|hēmerai|[the] days|G2250|N-NFP
-v29 ἐν|en|vvv|G1722|Prep
+v29 ἐν|en|...|G1722|Prep
 v29 αἷς|hais|when|G3739|RelPro-DFP
 v29 ἐροῦσιν|erousin|[people] will say|G2046|V-FIA-3P
 v29 Μακάριαι|Makariai|Blessed [are]|G3107|Adj-NFP
@@ -448,7 +448,7 @@ v29 οἳ|hoi|that|G3739|RelPro-NMP
 v29 οὐκ|ouk|never|G3756|Adv
 v29 ἔθρεψαν|ethrepsan|nursed|G5142|V-AIA-3P
 v30 τότε|tote|At that time|G5119|Adv
-v30 Ἄρξονται|Arxontai|vvv|G756|V-FIM-3P
+v30 Ἄρξονται|Arxontai|...|G756|V-FIM-3P
 v30 λέγειν|legein|they will say|G3004|V-PNA
 v30 τοῖς|tois|to the|G3588|Art-DNP
 v30 ὄρεσιν|oresin|mountains|G3735|N-DNP
@@ -475,7 +475,7 @@ v31 τί|ti|what|G5101|IPro-NNS
 v31 γένηται|genētai|will happen|G1096|V-ASM-3S
 v32 Ἤγοντο|Ēgonto|were also led away|G71|V-IIM/P-3P
 v32 δὲ|de|-|G1161|Conj
-v32 καὶ|kai|vvv|G2532|Conj
+v32 καὶ|kai|...|G2532|Conj
 v32 ἕτεροι|heteroi|others|G2087|Adj-NMP
 v32 κακοῦργοι|kakourgoi|[who were] criminals|G2557|Adj-NMP
 v32 δύο|dyo|Two|G1417|Adj-NMP
@@ -512,7 +512,7 @@ v34 ἔλεγεν|elegen|said|G2036|V-IIA-3S
 v34 Πάτερ|Pater|Father|G3962|N-VMS
 v34 ἄφες|aphes|forgive|G863|V-AMA-2S
 v34 αὐτοῖς|autois|them|G846|PPro-DM3P
-v34 οὐ|ou|vvv|G3756|Adv
+v34 οὐ|ou|...|G3756|Adv
 v34 γὰρ|gar|for|G1063|Conj
 v34 οἴδασιν|oidasin|they do not know|G1492|V-RIA-3P
 v34 τί|ti|what|G5101|IPro-ANS
@@ -590,14 +590,14 @@ v39 αὐτόν|auton|Him|G846|PPro-AM3S
 v39 ‹λέγων›|legōn|he said|G3004|V-PPA-NMS
 v39 Οὐχὶ|Ouchi|not|G3780|IntPrtcl
 v39 σὺ|sy|Are You|G4771|PPro-N2S
-v39 εἶ|ei|vvv|G1510|V-PIA-2S
+v39 εἶ|ei|...|G1510|V-PIA-2S
 v39 ὁ|ho|the|G3588|Art-NMS
 v39 Χριστός|Christos|Christ|G5547|N-NMS
 v39 σῶσον|sōson|Save|G4982|V-AMA-2S
 v39 σεαυτὸν|seauton|Yourself|G4572|PPro-AM2S
 v39 καὶ|kai|and|G2532|Conj
 v39 ἡμᾶς|hēmas|us|G1473|PPro-A1P
-v40 Ἀποκριθεὶς|Apokritheis|vvv|G611|V-APP-NMS
+v40 Ἀποκριθεὶς|Apokritheis|...|G611|V-APP-NMS
 v40 δὲ|de|But|G1161|Conj
 v40 ὁ|ho|the|G3588|Art-NMS
 v40 ἕτερος|heteros|other [one]|G2087|Adj-NMS
@@ -655,7 +655,7 @@ v43 τῷ|tō|-|G3588|Art-DMS
 v43 Παραδείσῳ|Paradeisō|Paradise|G3857|N-DMS
 v44 Καὶ|Kai|-|G2532|Conj
 v44 ἦν|ēn|It was now|G1510|V-IIA-3S
-v44 ἤδη|ēdē|vvv|G2235|Adv
+v44 ἤδη|ēdē|...|G2235|Adv
 v44 ὡσεὶ|hōsei|about|G5616|Adv
 v44 ὥρα|hōra|hour|G5610|N-NFS
 v44 ἕκτη|hektē|[the] sixth|G1623|Adj-NFS
@@ -682,7 +682,7 @@ v45 μέσον|meson|down [the] middle|G3319|Adj-ANS
 v46 Καὶ|Kai|Then|G2532|Conj
 v46 φωνήσας|phōnēsas|called out|G5455|V-APA-NMS
 v46 φωνῇ|phōnē|in a loud voice|G5456|N-DFS
-v46 μεγάλῃ|megalē|vvv|G3173|Adj-DFS
+v46 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v46 ὁ|ho|-|G3588|Art-NMS
 v46 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v46 εἶπεν|eipen|...|G2036|V-AIA-3S
@@ -750,19 +750,19 @@ v49 ὁρῶσαι|horōsai|watching|G3708|V-PPA-NFP
 v49 ταῦτα|tauta|these things|G3778|DPro-ANP
 v50 Καὶ|Kai|Now|G2532|Conj
 v50 ἰδοὺ|idou|[there was]|G2400|V-AMA-2S
-v50 ἀνὴρ|anēr|vvv|G435|N-NMS
+v50 ἀνὴρ|anēr|...|G435|N-NMS
 v50 ὀνόματι|onomati|named|G3686|N-DNS
 v50 Ἰωσὴφ|Iōsēph|Joseph|G2501|N-NMS
 v50 βουλευτὴς|bouleutēs|a Council member|G1010|N-NMS
-v50 ὑπάρχων|hyparchōn|vvv|G5225|V-PPA-NMS
-v50 [καὶ]|kai|vvv|G2532|Conj
+v50 ὑπάρχων|hyparchōn|...|G5225|V-PPA-NMS
+v50 [καὶ]|kai|...|G2532|Conj
 v50 ἀνὴρ|anēr|man|G435|N-NMS
 v50 ἀγαθὸς|agathos|a good|G18|Adj-NMS
 v50 καὶ|kai|and|G2532|Conj
 v50 δίκαιος|dikaios|righteous|G1342|Adj-NMS
 v51 οὗτος|houtos|[who]|G3778|DPro-NMS
-v51 οὐκ|ouk|vvv|G3756|Adv
-v51 ἦν|ēn|vvv|G1510|V-IIA-3S
+v51 οὐκ|ouk|...|G3756|Adv
+v51 ἦν|ēn|...|G1510|V-IIA-3S
 v51 συνκατατεθειμένος|synkatatetheimenos|had not consented|G4784|V-RPM/P-NMS
 v51 τῇ|tē|to|G3588|Art-DFS
 v51 βουλῇ|boulē|decision|G1012|N-DFS
@@ -805,7 +805,7 @@ v53 οὗ|hou|where|G3739|RelPro-GNS
 v53 οὐκ|ouk|...|G3756|Adv
 v53 ἦν|ēn|had yet|G1510|V-IIA-3S
 v53 οὐδεὶς|oudeis|no one|G3762|Adj-NMS
-v53 οὔπω|oupō|vvv|G3768|Adv
+v53 οὔπω|oupō|...|G3768|Adv
 v53 κείμενος|keimenos|been laid|G2749|V-PPM/P-NMS
 v54 καὶ|kai|-|G2532|Conj
 v54 ἡμέρα|hēmera|Day|G2250|N-NFS
@@ -819,7 +819,7 @@ v55 δὲ|de|-|G1161|Conj
 v55 αἱ|hai|The|G3588|Art-NFP
 v55 γυναῖκες|gynaikes|women|G1135|N-NFP
 v55 αἵτινες|haitines|who|G3748|RelPro-NFP
-v55 ἦσαν|ēsan|vvv|G1510|V-IIA-3P
+v55 ἦσαν|ēsan|...|G1510|V-IIA-3P
 v55 συνεληλυθυῖαι|synelēlythuiai|had come with|G4905|V-RPA-NFP
 v55 ἐκ|ek|from|G1537|Prep
 v55 τῆς|tēs|-|G3588|Art-GFS

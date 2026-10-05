@@ -8,7 +8,7 @@ v1 ἵνα|hina|so that|G2443|Conj
 v1 ἡ|hē|-|G3588|Art-NFS
 v1 χάρις|charis|grace|G5485|N-NFS
 v1 πλεονάσῃ|pleonasē|may increase|G4121|V-ASA-3S
-v2 μὴ|mē|vvv|G3361|Adv
+v2 μὴ|mē|...|G3361|Adv
 v2 γένοιτο|genoito|Certainly not|G1096|V-AOM-3S
 v2 οἵτινες|hoitines|who|G3748|RelPro-NMP
 v2 ἀπεθάνομεν|apethanomen|died|G599|V-AIA-1P
@@ -33,7 +33,7 @@ v3 θάνατον|thanaton|death|G2288|N-AMS
 v3 αὐτοῦ|autou|His|G846|PPro-GM3S
 v3 ἐβαπτίσθημεν|ebaptisthēmen|were baptized|G907|V-AIP-1P
 v4 συνετάφημεν|synetaphēmen|We were therefore buried|G4916|V-AIP-1P
-v4 οὖν|oun|vvv|G3767|Conj
+v4 οὖν|oun|...|G3767|Conj
 v4 αὐτῷ|autō|with Him|G846|PPro-DM3S
 v4 διὰ|dia|through|G1223|Prep
 v4 τοῦ|tou|-|G3588|Art-GNS
@@ -68,9 +68,9 @@ v5 ὁμοιώματι|homoiōmati|like this|G3667|N-DNS
 v5 τοῦ|tou|...|G3588|Art-GMS
 v5 θανάτου|thanatou|death|G2288|N-GMS
 v5 αὐτοῦ|autou|His|G846|PPro-GM3S
-v5 ἀλλὰ|alla|vvv|G235|Conj
-v5 καὶ|kai|vvv|G2532|Conj
-v5 τῆς|tēs|vvv|G3588|Art-GFS
+v5 ἀλλὰ|alla|...|G235|Conj
+v5 καὶ|kai|...|G2532|Conj
+v5 τῆς|tēs|...|G3588|Art-GFS
 v5 ἀναστάσεως|anastaseōs|in His resurrection|G386|N-GFS
 v5 ἐσόμεθα|esometha|we will certainly also be [united with Him]|G1510|V-FIM-1P
 v6 τοῦτο|touto|-|G3778|DPro-ANS
@@ -107,7 +107,7 @@ v8 σὺν|syn|with|G4862|Prep
 v8 Χριστῷ|Christō|Christ|G5547|N-DMS
 v8 πιστεύομεν|pisteuomen|we believe|G4100|V-PIA-1P
 v8 ὅτι|hoti|that|G3754|Conj
-v8 καὶ|kai|vvv|G2532|Conj
+v8 καὶ|kai|...|G2532|Conj
 v8 συζήσομεν*|syzēsomen|we will also live with|G4800|V-FIA-1P
 v8 αὐτῷ|autō|Him|G846|PPro-DM3S
 v9 εἰδότες|eidotes|[For] we know|G1492|V-RPA-NMP
@@ -152,7 +152,7 @@ v11 Θεῷ|Theō|to God|G2316|N-DMS
 v11 ἐν|en|in|G1722|Prep
 v11 Χριστῷ|Christō|Christ|G5547|N-DMS
 v11 Ἰησοῦ|Iēsou|Jesus|G2424|N-DMS
-v12 Μὴ|Mē|vvv|G3361|Adv
+v12 Μὴ|Mē|...|G3361|Adv
 v12 οὖν|oun|Therefore|G3767|Conj
 v12 βασιλευέτω|basileuetō|do not let sin reign|G936|V-PMA-3S
 v12 ἡ|hē|...|G3588|Art-NFS
@@ -197,7 +197,7 @@ v13 Θεῷ|Theō|to [Him]|G2316|N-DMS
 v14 ἁμαρτία|hamartia|sin|G266|N-NFS
 v14 γὰρ|gar|For|G1063|Conj
 v14 ὑμῶν|hymōn|...|G4771|PPro-G2P
-v14 οὐ|ou|vvv|G3756|Adv
+v14 οὐ|ou|...|G3756|Adv
 v14 κυριεύσει|kyrieusei|shall not be your master|G2961|V-FIA-3S
 v14 οὐ|ou|not|G3756|Adv
 v14 γάρ|gar|because|G1063|Conj
@@ -218,9 +218,9 @@ v15 νόμον|nomon|law|G3551|N-AMS
 v15 ἀλλὰ|alla|but|G235|Conj
 v15 ὑπὸ|hypo|under|G5259|Prep
 v15 χάριν|charin|grace|G5485|N-AFS
-v15 μὴ|mē|vvv|G3361|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 γένοιτο|genoito|Certainly not|G1096|V-AOM-3S
-v16 οὐκ|ouk|vvv|G3756|Adv
+v16 οὐκ|ouk|...|G3756|Adv
 v16 οἴδατε|oidate|Do you not know|G1492|V-RIA-2P
 v16 ὅτι|hoti|that|G3754|Conj
 v16 ᾧ|hō|[when]|G3739|RelPro-DMS
@@ -251,7 +251,7 @@ v17 δοῦλοι|douloi|slaves|G1401|N-NMP
 v17 τῆς|tēs|-|G3588|Art-GFS
 v17 ἁμαρτίας|hamartias|to sin|G266|N-GFS
 v17 ὑπηκούσατε|hypēkousate|you wholeheartedly obeyed|G5219|V-AIA-2P
-v17 δὲ|de|vvv|G1161|Conj
+v17 δὲ|de|...|G1161|Conj
 v17 ἐκ|ek|...|G1537|Prep
 v17 καρδίας|kardias|...|G2588|N-GFS
 v17 εἰς|eis|to|G1519|Prep
@@ -286,16 +286,16 @@ v19 τῇ|tē|-|G3588|Art-DFS
 v19 ἀκαθαρσίᾳ|akatharsia|to impurity|G167|N-DFS
 v19 καὶ|kai|and|G2532|Conj
 v19 τῇ|tē|to|G3588|Art-DFS
-v19 ἀνομίᾳ|anomia|vvv|G458|N-DFS
+v19 ἀνομίᾳ|anomia|...|G458|N-DFS
 v19 εἰς|eis|escalating|G1519|Prep
 v19 τὴν|tēn|-|G3588|Art-AFS
 v19 ἀνομίαν|anomian|wickedness|G458|N-AFS
 v19 οὕτως|houtōs|so|G3779|Adv
 v19 νῦν|nyn|now|G3568|Adv
 v19 παραστήσατε|parastēsate|offer|G3936|V-AMA-2P
-v19 τὰ|ta|vvv|G3588|Art-ANP
+v19 τὰ|ta|...|G3588|Art-ANP
 v19 μέλη|melē|[them]|G3196|N-ANP
-v19 ὑμῶν|hymōn|vvv|G4771|PPro-G2P
+v19 ὑμῶν|hymōn|...|G4771|PPro-G2P
 v19 δοῦλα|doula|in slavery|G1401|Adj-ANP
 v19 τῇ|tē|-|G3588|Art-DFS
 v19 δικαιοσύνῃ|dikaiosynē|to righteousness|G1343|N-DFS
@@ -318,7 +318,7 @@ v21 εἴχετε|eichete|did you reap|G2192|V-IIA-2P
 v21 τότε|tote|at that time|G5119|Adv
 v21 ἐφ’|eph’|from the [things]|G1909|Prep
 v21 οἷς|hois|of which|G3739|RelPro-DNP
-v21 νῦν|nyn|vvv|G3568|Adv
+v21 νῦν|nyn|...|G3568|Adv
 v21 ἐπαισχύνεσθε|epaischynesthe|you are now ashamed|G1870|V-PIM/P-2P
 v21 τὸ|to|The|G3588|Art-NNS
 v21 γὰρ|gar|-|G1063|Conj

@@ -90,7 +90,7 @@ v8 נֹגֵ֑שׂ|nō·ḡêś|will an oppressor|H5065|V-Qal-Prtcpl-ms
 v8 כִּ֥י|kî|for|H3588|Conj
 v8 עַתָּ֖ה|‘at·tāh|now|H6258|Adv
 v8 רָאִ֥יתִי|rā·’î·ṯî|I keep watch|H7200|V-Qal-Perf-1cs
-v8 בְעֵינָֽי׃ס|ḇə·‘ê·nāy|with My own eyes|H5869|Prep-b | N-cdc | 1cs
+v8 בְעֵינָֽי׃|ḇə·‘ê·nāy|with My own eyes|H5869|Prep-b | N-cdc | 1cs
 v9 גִּילִ֨י|gî·lî|Rejoice|H1523|V-Qal-Imp-fs
 v9 מְאֹ֜ד|mə·’ōḏ|greatly|H3966|Adv
 v9 בַּת־|baṯ-|O Daughter|H1323|N-fsc
@@ -104,7 +104,7 @@ v9 יָ֣בוֹא|yā·ḇō·w|comes|H935|V-Qal-Imperf-3ms
 v9 לָ֔ךְ|lāḵ|to you|H0|Prep | 2fs
 v9 צַדִּ֥יק|ṣad·dîq|righteous|H6662|Adj-ms
 v9 וְנוֹשָׁ֖ע|wə·nō·wō·šā‘|and victorious|H3467|Conj-w | V-Nifal-Prtcpl-ms
-v9 ה֑וּא|hū||H1931|Pro-3ms
+v9 ה֑וּא|hū|-|H1931|Pro-3ms
 v9 עָנִי֙|‘ā·nî|humble|H6041|Adj-ms
 v9 וְרֹכֵ֣ב|wə·rō·ḵêḇ|and riding|H7392|Conj-w | V-Qal-Prtcpl-ms
 v9 עַל־|‘al-|on|H5921|Prep
@@ -141,7 +141,7 @@ v11 אֲסִירַ֙יִךְ֙|ʾă·sī·ra·yiḵ|your prisoners|H615|N-mpc |
 v11 מִבּ֔וֹר|mib·bō·wr|pit|H953|Prep-m | N-msc
 v11 אֵ֥ין|’ên|from the waterless|H369|Adv
 v11 מַ֖יִם|ma·yim|...|H4325|N-mp
-v11 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v11 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v12 שׁ֚וּבוּ|šû·b̲û|Return|H7725|V-Qal-Imp-mp
 v12 לְבִצָּר֔וֹן|lə·ḇiṣ·ṣā·rō·wn|to your stronghold|H1225|Prep-l | N-ms
 v12 אֲסִירֵ֖י|’ă·sî·rê|O prisoners|H615|N-mpc
@@ -154,7 +154,7 @@ v12 אָשִׁ֥יב|’ā·šîḇ|that I will restore|H7725|V-Hifil-Imperf-1cs
 v12 לָֽךְ׃|lāḵ|to you|H0|Prep | 2fs
 v13 כִּֽי־|kî-|For|H3588|Conj
 v13 דָרַ֨כְתִּי|ḏā·raḵ·tî|I will bend|H1869|V-Qal-Perf-1cs
-v13 לִ֜י|lî||H0|Prep | 1cs
+v13 לִ֜י|lî|-|H0|Prep | 1cs
 v13 יְהוּדָ֗ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v13 קֶ֚שֶׁת|qe·šeṯ|as My bow|H7198|N-fs
 v13 מִלֵּ֣אתִי|mil·lê·ṯî|and fit it|H4390|V-Piel-Perf-1cs

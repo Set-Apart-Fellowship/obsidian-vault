@@ -19,8 +19,8 @@ v2 ἀνὴρ|anēr|man|G435|N-NMS
 v2 χωλὸς|chōlos|lame|G5560|Adj-NMS
 v2 ἐκ|ek|from|G1537|Prep
 v2 κοιλίας|koilias|birth|G2836|N-GFS
-v2 μητρὸς|mētros|vvv|G3384|N-GFS
-v2 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v2 μητρὸς|mētros|...|G3384|N-GFS
+v2 αὐτοῦ|autou|...|G846|PPro-GM3S
 v2 ὑπάρχων|hyparchōn|who was|G5225|V-PPA-NMS
 v2 ἐβαστάζετο|ebastazeto|was being carried|G941|V-IIM/P-3S
 v2 ὃν|hon|-|G3739|RelPro-AMS
@@ -157,8 +157,8 @@ v10 ὅτι|hoti|[as]|G3754|Conj
 v10 οὗτος|houtos|-|G3778|DPro-NMS
 v10 ἦν|ēn|-|G1510|V-IIA-3S
 v10 ὁ|ho|the [man]|G3588|Art-NMS
-v10 πρὸς|pros|vvv|G4314|Prep
-v10 τὴν|tēn|vvv|G3588|Art-AFS
+v10 πρὸς|pros|...|G4314|Prep
+v10 τὴν|tēn|...|G3588|Art-AFS
 v10 ἐλεημοσύνην|eleēmosynēn|[begging]|G1654|N-AFS
 v10 καθήμενος|kathēmenos|who used to sit|G2521|V-PPM/P-NMS
 v10 ἐπὶ|epi|at|G1909|Prep
@@ -251,7 +251,7 @@ v13 μὲν|men|-|G3303|Prtcl
 v13 παρεδώκατε|paredōkate|handed [Him over]|G3860|V-AIA-2P
 v13 καὶ|kai|and|G2532|Conj
 v13 ἠρνήσασθε|ērnēsasthe|rejected|G720|V-AIM-2P
-v13 κατὰ|kata|vvv|G2596|Prep
+v13 κατὰ|kata|...|G2596|Prep
 v13 πρόσωπον|prosōpon|before|G4383|N-ANS
 v13 Πιλάτου|Pilatou|Pilate|G4091|N-GMS
 v13 κρίναντος|krinantos|had decided|G2919|V-APA-GMS
@@ -266,7 +266,7 @@ v14 Δίκαιον|Dikaion|Righteous One|G1342|Adj-AMS
 v14 ἠρνήσασθε|ērnēsasthe|rejected|G720|V-AIM-2P
 v14 καὶ|kai|and|G2532|Conj
 v14 ᾐτήσασθε|ētēsasthe|asked that|G154|V-AIM-2P
-v14 ἄνδρα|andra|vvv|G435|N-AMS
+v14 ἄνδρα|andra|...|G435|N-AMS
 v14 φονέα|phonea|a murderer|G5406|N-AMS
 v14 χαρισθῆναι|charisthēnai|be released|G5483|V-ANP
 v14 ὑμῖν|hymin|to you|G4771|PPro-D2P
@@ -388,7 +388,7 @@ v21 διὰ|dia|through|G1223|Prep
 v21 στόματος|stomatos|...|G4750|N-GNS
 v21 τῶν|tōn|...|G3588|Art-GMP
 v21 ἁγίων|hagiōn|holy|G40|Adj-GMP
-v21 ἀπ’|ap’|vvv|G575|Prep
+v21 ἀπ’|ap’|...|G575|Prep
 v21 αἰῶνος|aiōnos|long ago|G165|N-GMS
 v21 αὐτοῦ|autou|His|G846|PPro-GM3S
 v21 προφητῶν|prophētōn|prophets|G4396|N-GMP
@@ -423,12 +423,12 @@ v23 δὲ|de|-|G1161|Conj
 v23 πᾶσα|pasa|Everyone|G3956|Adj-NFS
 v23 ψυχὴ|psychē|...|G5590|N-NFS
 v23 ἥτις|hētis|who|G3748|RelPro-NFS
-v23 ἐὰν|ean|vvv|G1437|Conj
-v23 μὴ|mē|vvv|G3361|Adv
+v23 ἐὰν|ean|...|G1437|Conj
+v23 μὴ|mē|...|G3361|Adv
 v23 ἀκούσῃ|akousē|does not listen|G191|V-ASA-3S
-v23 τοῦ|tou|vvv|G3588|Art-GMS
+v23 τοῦ|tou|...|G3588|Art-GMS
 v23 προφήτου|prophētou|[ to Him ]|G4396|N-GMS
-v23 ἐκείνου|ekeinou|vvv|G1565|DPro-GMS
+v23 ἐκείνου|ekeinou|...|G1565|DPro-GMS
 v23 ἐξολεθρευθήσεται|exolethreuthēsetai|will be completely cut off|G1842|V-FIP-3S
 v23 ἐκ|ek|from among|G1537|Prep
 v23 τοῦ|tou|[his]|G3588|Art-GMS
@@ -442,7 +442,7 @@ v24 ἀπὸ|apo|from|G575|Prep
 v24 Σαμουὴλ|Samouēl|Samuel on|G4545|N-GMS
 v24 καὶ|kai|-|G2532|Conj
 v24 τῶν|tōn|-|G3588|Art-GMP
-v24 καθεξῆς|kathexēs|vvv|G2517|Adv
+v24 καθεξῆς|kathexēs|...|G2517|Adv
 v24 ὅσοι|hosoi|as many as|G3745|RelPro-NMP
 v24 ἐλάλησαν|elalēsan|have spoken|G2980|V-AIA-3P
 v24 καὶ|kai|-|G2532|Conj

@@ -50,7 +50,7 @@ v7 הָלַ֣ךְ|hā·laḵ|...|H1980|V-Qal-Perf-3ms
 v7 לִבִּ֑י|lib·bî|if my heart|H3820|N-msc | 1cs
 v7 וּ֝בְכַפַּ֗י|ū·ḇə·ḵap·pay|to my hands|H3709|Conj-w, Prep-b | N-fdc | 1cs
 v7 דָּ֣בַק|dā·ḇaq|has stuck|H1692|V-Qal-Perf-3ms
-v7 מֻאֽוּם׃פ|mu·ʾūm|or if impurity|H3971|N-ms
+v7 מֻאֽוּם׃|mu·ʾūm|or if impurity|H3971|N-ms
 v8 אֶ֭זְרְעָה|’ez·rə·‘āh|what I have sown|H2232|V-Qal-Imperf.Cohort-1cs
 v8 וְאַחֵ֣ר|wə·’a·ḥêr|then may another|H312|Conj-w | Adj-ms
 v8 יֹאכֵ֑ל|yō·ḵêl|eat|H398|V-Qal-Imperf-3ms
@@ -154,7 +154,7 @@ v21 כִּֽי־|kî-|because|H3588|Conj
 v21 אֶרְאֶ֥ה|’er·’eh|I saw|H7200|V-Qal-Imperf-1cs
 v21 בַ֝שַּׁ֗עַר|ḇaš·ša·‘ar|in the gate|H8179|Prep-b, Art | N-ms
 v21 עֶזְרָתִֽי׃|‘ez·rā·ṯî|that I had support|H5833|N-fsc | 1cs
-v22 כְּ֭תֵפִי|kə·ṯê·p̄î|vvv|H3802|N-fsc | 1cs
+v22 כְּ֭תֵפִי|kə·ṯê·p̄î|...|H3802|N-fsc | 1cs
 v22 מִשִּׁכְמָ֣ה|miš·šiḵ·māh|from my shoulder|H7929|Prep-m | N-msc | 3fs
 v22 תִפּ֑וֹל|ṯip·pō·wl|fall|H5307|V-Qal-Imperf-3fs
 v22 וְ֝אֶזְרֹעִ֗י|wə·’ez·rō·‘î|then may my arm|H248|Conj-w | N-fsc | 1cs
@@ -258,7 +258,7 @@ v34 אֵ֥צֵא|’ê·ṣê|go outside|H3318|V-Qal-Imperf-1cs
 v34 פָֽתַח׃|p̄ā·ṯaḥ|...|H6607|N-ms
 v35 מִ֤י|mî|Oh, that|H4310|Interjection
 v35 יִתֶּן־|yit·ten-|I had|H5414|V-Qal-Imperf-3ms | 1cs
-v35 לִ֨י׀|lî||H0|Prep | 1cs
+v35 לִ֨י׀|lî|-|H0|Prep | 1cs
 v35 שֹׁ֘מֵ֤עַֽ|šō·mê·a‘|one to hear|H8085|V-Qal-Prtcpl-ms
 v35 לִ֗י|lî|me|H0|N-msc | 1cs
 v35 הֶן־|hen-|Here is|H2005|Interjection
@@ -276,7 +276,7 @@ v36 שִׁ֭כְמִי|šik̲·mî|my shoulder|H7926|N-msc | 1cs
 v36 אֶשָּׂאֶ֑נּוּ|’eś·śā·’en·nū|I would carry it|H5375|V-Qal-Imperf-1cs | 3ms
 v36 אֶֽעֶנְדֶ֖נּוּ|’e·‘en·ḏen·nū|and wear|H6029|V-Qal-Imperf-1cs | 3ms
 v36 עֲטָר֣וֹת|‘ă·ṭā·rō·wṯ|it like a crown|H5850|N-fp
-v36 לִֽי׃|lî||H0|Prep | 1cs
+v36 לִֽי׃|lî|-|H0|Prep | 1cs
 v37 מִסְפַּ֣ר|mis·par|account|H4557|N-msc
 v37 צְ֭עָדַי|ṣə·‘ā·ḏay|of all my steps|H6806|N-mpc | 1cs
 v37 אַגִּידֶ֑נּוּ|’ag·gî·ḏen·nū|I would give|H5046|V-Hifil-Imperf-1cs | 3ms
@@ -307,4 +307,4 @@ v40 שְׂעֹרָ֥ה|śə·‘ō·rāh|barley|H8184|N-fs
 v40 בָאְשָׁ֑ה|ḇā·’ə·šāh|and stinkweed|H890|N-fs
 v40 תַּ֝֗מּוּ|tam·mū|Thus conclude|H8552|V-Qal-Perf-3cp
 v40 דִּבְרֵ֥י|diḇ·rê|the words|H1697|N-mpc
-v40 אִיּֽוֹב׃פ|’î·yō·wḇ|of Job|H347|N-proper-ms
+v40 אִיּֽוֹב׃|’î·yō·wḇ|of Job|H347|N-proper-ms

@@ -27,7 +27,7 @@ v2 מוֹסְרֵ֣י|mō·ws·rê|the chains|H4147|N-mpc
 v2 צַוָּארֵ֔ךְ|ṣaw·wā·rêḵ|from your neck|H6677|N-msc | 2fs
 v2 שְׁבִיָּ֖ה|šə·ḇî·yāh|O captive|H7628|Adj-fs
 v2 בַּת־|baṯ-|Daughter|H1323|N-fsc
-v2 צִיּֽוֹן׃ס|ṣî·yō·wn|of Zion|H6726|N-proper-fs
+v2 צִיּֽוֹן׃|ṣî·yō·wn|of Zion|H6726|N-proper-fs
 v3 כִּֽי־|kî-|For|H3588|Conj
 v3 כֹה֙|ḵōh|this is what|H3541|Adv
 v3 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -53,7 +53,7 @@ v4 בְּאֶ֥פֶס|bə·’e·p̄es|without cause|H657|Prep-b | Adv
 v4 עֲשָׁקֽוֹ׃|‘ă·šā·qōw|oppressed them|H6231|V-Qal-Perf-3ms | 3ms
 v5 וְעַתָּ֤ה|wə·‘at·tāh|And now|H6258|Conj-w | Adv
 v5 מִי־|mī-|what|H4310|Interrog
-v5 לִי|lī||H0|Prep | 1cs
+v5 לִי|lī|-|H0|Prep | 1cs
 v5 פֹה֙|p̄ōh|have I here|H6311|Adv
 v5 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v5 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -136,7 +136,7 @@ v10 אַפְסֵי־|’ap̄·sê-|the ends|H657|Adv
 v10 אָ֔רֶץ|’ā·reṣ|of the earth|H776|N-fs
 v10 אֵ֖ת|’êṯ|-|H853|DirObjM
 v10 יְשׁוּעַ֥ת|yə·šū·‘aṯ|the salvation|H3444|N-fsc
-v10 אֱלֹהֵֽינוּ׃ס|’ĕ·lō·hê·nū|of our God|H430|N-mpc | 1cp
+v10 אֱלֹהֵֽינוּ׃|’ĕ·lō·hê·nū|of our God|H430|N-mpc | 1cp
 v11 ס֤וּרוּ|sū·rū|Depart|H5493|V-Qal-Imp-mp
 v11 ס֙וּרוּ֙|sū·rū|depart|H5493|V-Qal-Imp-mp
 v11 צְא֣וּ|ṣə·’ū|go out|H3318|V-Qal-Imp-mp
@@ -156,14 +156,14 @@ v12 בְחִפָּזוֹן֙|ḇə·ḥip·pā·zō·wn|in a hurry|H2649|Prep-b 
 v12 תֵּצֵ֔אוּ|tê·ṣê·’ū|leave|H3318|V-Qal-Imperf-2mp
 v12 וּבִמְנוּסָ֖ה|ū·ḇim·nū·sāh|flee in haste|H4499|Conj-w, Prep-b | N-fs
 v12 לֹ֣א|lō|nor|H3808|Adv-NegPrt
-v12 תֵלֵכ֑וּן|ṯê·lê·ḵūn||H1980|V-Qal-Imperf-2mp | Pn
+v12 תֵלֵכ֑וּן|ṯê·lê·ḵūn|-|H1980|V-Qal-Imperf-2mp | Pn
 v12 כִּֽי־|kî-|for|H3588|Conj
 v12 הֹלֵ֤ךְ|hō·lêḵ|goes|H1980|V-Qal-Prtcpl-ms
 v12 לִפְנֵיכֶם֙|lip̄·nê·ḵem|before you|H6440|Prep-l | N-mpc | 2mp
 v12 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v12 וּמְאַסִּפְכֶ֖ם|ū·mə·’as·sip̄·ḵem|is your rear guard|H622|Conj-w | V-Piel-Prtcpl-msc | 2mp
 v12 אֱלֹהֵ֥י|’ĕ·lō·hê|and the God|H430|N-mpc
-v12 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v12 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v13 הִנֵּ֥ה|hin·nêh|Behold|H2009|Interjection
 v13 יַשְׂכִּ֖יל|yaś·kîl|will prosper|H7919|V-Hifil-Imperf-3ms
 v13 עַבְדִּ֑י|‘aḇ·dî|My Servant|H5650|N-msc | 1cs
@@ -194,7 +194,7 @@ v15 כִּ֠י|kî|For|H3588|Conj
 v15 אֲשֶׁ֨ר|’ă·šer|what|H834|Pro-r
 v15 לֹֽא־|lō-|they have not|H3808|Adv-NegPrt
 v15 סֻפַּ֤ר|sup·par|been told|H5608|V-Pual-Perf-3ms
-v15 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v15 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v15 רָא֔וּ|rā·’ū|they will see|H7200|V-Qal-Perf-3cp
 v15 וַאֲשֶׁ֥ר|wa·’ă·šer|what|H834|Conj-w | Pro-r
 v15 לֹֽא־|lō-|they have not|H3808|Adv-NegPrt

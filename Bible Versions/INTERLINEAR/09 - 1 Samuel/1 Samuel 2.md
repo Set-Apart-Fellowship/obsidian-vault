@@ -113,7 +113,7 @@ v10 עֹ֣ז|‘ōz|power|H5797|N-ms
 v10 לְמַלְכּ֔וֹ|lə·mal·kōw|to His king|H4428|Prep-l | N-msc | 3ms
 v10 וְיָרֵ֖ם|wə·yā·rêm|He will exalt|H7311|Conj-w | V-Hifil-ConjImperf.Jus-3ms
 v10 קֶ֥רֶן|qe·ren|the horn|H7161|N-fsc
-v10 מְשִׁיחֽוֹ׃פ|mə·šî·ḥōw|of His anointed|H4899|Adj-msc | 3ms
+v10 מְשִׁיחֽוֹ׃|mə·šî·ḥōw|of His anointed|H4899|Adj-msc | 3ms
 v11 וַיֵּ֧לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v11 אֶלְקָנָ֛ה|’el·qā·nāh|Then Elkanah|H511|N-proper-ms
 v11 הָרָמָ֖תָה|hā·rā·mā·ṯāh|to Ramah|H7414|Art | N-proper-fs | 3fs
@@ -211,7 +211,7 @@ v16 כַּאֲשֶׁ֥ר|ka·’ă·šer|whatever|H834|Prep-k | Pro-r
 v16 תְּאַוֶּ֖ה|tə·’aw·weh|want|H183|V-Piel-Imperf-3fs
 v16 נַפְשֶׁ֑ךָ|nap̄·še·ḵā|you|H5315|N-fsc | 2ms
 v16 וְאָמַ֥ר׀|wə·’ā·mar|the servant would reply|H559|Conj-w | V-Qal-ConjPerf-3ms
-v16 לוֹ|lō||H0|Adv-NegPrt
+v16 לוֹ|lō|-|H0|Adv-NegPrt
 v16 כִּ֚י|kî|-|H3588|Conj
 v16 עַתָּ֣ה|‘at·tāh|right now|H6258|Adv
 v16 תִתֵּ֔ן|ṯit·tên|you must give [it to me]|H5414|V-Qal-Imperf-2ms
@@ -294,7 +294,7 @@ v21 וַיִּגְדַּ֛ל|way·yiḡ·dal|grew up|H1431|Conj-w | V-Qal-Consec
 v21 הַנַּ֥עַר|han·na·‘ar|Meanwhile, the boy|H5288|Art | N-ms
 v21 שְׁמוּאֵ֖ל|šə·mū·’êl|Samuel|H8050|N-proper-ms
 v21 עִם־|‘im-|in the presence of|H5973|Prep
-v21 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v21 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v22 וְעֵלִ֖י|wə·‘ê·lî|Now Eli|H5941|Conj-w | N-proper-ms
 v22 זָקֵ֣ן|zā·qên|old|H2204|V-Qal-Perf-3ms
 v22 מְאֹ֑ד|mə·’ōḏ|was very|H3966|Adv
@@ -374,7 +374,7 @@ v26 עִם־|‘im-|with|H5973|Prep
 v26 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v26 וְגַ֖ם|wə·ḡam|...|H1571|Conj
 v26 עִם־|‘im-|and with|H5973|Prep
-v26 אֲנָשִֽׁים׃ס|’ă·nā·šîm|man|H582|N-mp
+v26 אֲנָשִֽׁים׃|’ă·nā·šîm|man|H582|N-mp
 v27 וַיָּבֹ֥א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v27 אִישׁ־|’îš-|Then a man|H376|N-msc
 v27 אֱלֹהִ֖ים|’ĕ·lō·hîm|of God|H430|N-mp
@@ -415,7 +415,7 @@ v28 אָבִ֔יךָ|’ā·ḇî·ḵā|of your father|H1|N-msc | 2ms
 v28 אֶת־|’eṯ-|-|H853|DirObjM
 v28 כָּל־|kāl-|all|H3605|N-msc
 v28 אִשֵּׁ֖י|’iš·šê|the food offerings|H801|N-mpc
-v28 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v28 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v28 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v29 לָ֣מָּה|lām·māh|Why then|H4100|Interrog
 v29 תִבְעֲט֗וּ|ṯiḇ·‘ă·ṭū|do you kick at|H1163|V-Qal-Imperf-2mp
@@ -446,7 +446,7 @@ v30 וּבֵ֣ית|ū·ḇêṯ|and the house|H1004|Conj-w | N-msc
 v30 אָבִ֔יךָ|’ā·ḇî·ḵā|of your father|H1|N-msc | 2ms
 v30 יִתְהַלְּכ֥וּ|yiṯ·hal·lə·ḵū|would walk|H1980|V-Hitpael-Imperf-3mp
 v30 לְפָנַ֖י|lə·p̄ā·nay|before Me|H6440|Prep-l | N-mpc | 1cs
-v30 עַד־|‘aḏ-|vvv|H5704|Prep
+v30 עַד־|‘aḏ-|...|H5704|Prep
 v30 עוֹלָ֑ם|‘ō·w·lām|forever|H5769|N-ms
 v30 וְעַתָּ֤ה|wə·‘at·tāh|But now|H6258|Conj-w | Adv
 v30 נְאֻם־|nə·’um-|declares|H5002|N-msc
@@ -483,7 +483,7 @@ v32 וְלֹֽא־|wə·lō-|no one|H3808|Conj-w | Adv-NegPrt
 v32 יִהְיֶ֥ה|yih·yeh|reach|H1961|V-Qal-Imperf-3ms
 v32 זָקֵ֛ן|zā·qên|old age|H2205|Adj-ms
 v32 בְּבֵיתְךָ֖|bə·ḇê·ṯə·ḵā|in your house|H1004|Prep-b | N-msc | 2ms
-v32 כָּל־|kāl-|vvv|H3605|N-msc
+v32 כָּל־|kāl-|...|H3605|N-msc
 v32 הַיָּמִֽים׃|hay·yā·mîm|will ever again|H3117|Art | N-mp
 v33 וְאִ֗ישׁ|wə·’îš|And every one|H376|Conj-w | N-ms
 v33 לֹֽא־|lō-|that I do not|H3808|Adv-NegPrt
@@ -553,4 +553,4 @@ v36 אַחַ֥ת|’a·ḥaṯ|some|H259|Number-fsc
 v36 הַכְּהֻנּ֖וֹת|hak·kə·hun·nō·wṯ|priestly office|H3550|Art | N-fp
 v36 לֶאֱכֹ֥ל|le·’ĕ·ḵōl|so that I can eat|H398|Prep-l | V-Qal-Inf
 v36 פַּת־|paṯ-|a piece|H6595|N-fsc
-v36 לָֽחֶם׃ס|lā·ḥem|of bread|H3899|N-ms
+v36 לָֽחֶם׃|lā·ḥem|of bread|H3899|N-ms

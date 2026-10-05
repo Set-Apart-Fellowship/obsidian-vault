@@ -30,7 +30,7 @@ v4 נֹ֝בֵ֗עַ|nō·ḇê·a‘|is a bubbling|H5042|V-Qal-Prtcpl-ms
 v4 מְק֣וֹר|mə·qō·wr|the fountain|H4726|N-msc
 v4 חָכְמָֽה׃|ḥāḵ·māh|of wisdom|H2451|N-fs
 v5 שְׂאֵ֣ת|śə·’êṯ|Showing partiality|H5375|V-Qal-Inf
-v5 פְּנֵי־|pə·nê-|vvv|H6440|N-mpc
+v5 פְּנֵי־|pə·nê-|...|H6440|N-mpc
 v5 רָשָׁ֣ע|rā·šā‘|to the wicked|H7563|Adj-ms
 v5 לֹא־|lō-|is not|H3808|Adv-NegPrt
 v5 ט֑וֹב|ṭō·wḇ|good|H2896|Adj-ms
@@ -47,7 +47,7 @@ v6 יִקְרָֽא׃|yiq·rā|invites|H7121|V-Qal-Imperf-3ms
 v7 פִּֽי־|pî-|mouth|H6310|N-msc
 v7 כְ֭סִיל|ḵə·sîl|A fool's|H3684|N-ms
 v7 מְחִתָּה־|mə·ḥit·tāh-|is his ruin|H4288|N-fs
-v7 ל֑וֹ|lōw||H0|Prep | 3ms
+v7 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v7 וּ֝שְׂפָתָ֗יו|ū·śə·p̄ā·ṯāw|and his lips|H8193|Conj-w | N-fdc | 3ms
 v7 מוֹקֵ֥שׁ|mō·w·qêš|[are] a snare|H4170|N-msc
 v7 נַפְשֽׁוֹ׃|nap̄·šōw|to his soul|H5315|N-fsc | 3ms

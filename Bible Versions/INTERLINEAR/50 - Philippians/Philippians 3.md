@@ -41,7 +41,7 @@ v3 ἐν|en|in|G1722|Prep
 v3 Χριστῷ|Christō|Christ|G5547|N-DMS
 v3 Ἰησοῦ|Iēsou|Jesus|G2424|N-DMS
 v3 καὶ|kai|and [who]|G2532|Conj
-v3 οὐκ|ouk|vvv|G3756|Adv
+v3 οὐκ|ouk|...|G3756|Adv
 v3 ἐν|en|in|G1722|Prep
 v3 σαρκὶ|sarki|[the] flesh|G4561|N-DFS
 v3 πεποιθότες|pepoithotes|put no confidence|G3982|V-RPA-NMP
@@ -180,10 +180,10 @@ v11 ἐκ|ek|from|G1537|Prep
 v11 νεκρῶν|nekrōn|[the] dead|G3498|Adj-GMP
 v12 Οὐχ|Ouch|Not|G3756|Adv
 v12 ὅτι|hoti|that|G3754|Conj
-v12 ἤδη|ēdē|vvv|G2235|Adv
+v12 ἤδη|ēdē|...|G2235|Adv
 v12 ἔλαβον|elabon|I have already obtained [all this]|G2983|V-AIA-1S
 v12 ἢ|ē|or|G2228|Conj
-v12 ἤδη|ēdē|vvv|G2235|Adv
+v12 ἤδη|ēdē|...|G2235|Adv
 v12 τετελείωμαι|teteleiōmai|have already been made perfect|G5048|V-RIM/P-1S
 v12 διώκω|diōkō|I press on|G1377|V-PIA-1S
 v12 δὲ|de|but|G1161|Conj
@@ -230,7 +230,7 @@ v14 Ἰησοῦ|Iēsou|Jesus|G2424|N-DMS
 v15 Ὅσοι|Hosoi|All of us who|G3745|RelPro-NMP
 v15 οὖν|oun|-|G3767|Conj
 v15 τέλειοι|teleioi|[are] mature|G5046|Adj-NMP
-v15 τοῦτο|touto|vvv|G3778|DPro-ANS
+v15 τοῦτο|touto|...|G3778|DPro-ANS
 v15 φρονῶμεν|phronōmen|should embrace this point of view|G5426|V-PSA-1P
 v15 καὶ|kai|And|G2532|Conj
 v15 εἴ|ei|if|G1487|Conj
@@ -332,9 +332,9 @@ v21 αὐτοῦ|autou|His|G846|PPro-GM3S
 v21 κατὰ|kata|by|G2596|Prep
 v21 τὴν|tēn|the|G3588|Art-AFS
 v21 ἐνέργειαν|energeian|power|G1753|N-AFS
-v21 τοῦ|tou|vvv|G3588|Art-GNS
+v21 τοῦ|tou|...|G3588|Art-GNS
 v21 δύνασθαι|dynasthai|that enables Him|G1410|V-PNM/P
-v21 αὐτὸν|auton|vvv|G846|PPro-AM3S
+v21 αὐτὸν|auton|...|G846|PPro-AM3S
 v21 καὶ|kai|...|G2532|Conj
 v21 ὑποτάξαι|hypotaxai|to subject|G5293|V-ANA
 v21 αὑτῷ|hautō|to Himself|G848|PPro-DM3S

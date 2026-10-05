@@ -18,7 +18,7 @@ v1 כַּאֲשֶׁ֛ר|ka·’ă·šer|-|H834|Prep-k | Pro-r
 v1 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v1 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v1 אֶת־|’eṯ-|-|H853|DirObjM
-v1 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v1 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v2 וַיַּ֖עַשׂ|way·ya·‘aś|[Bezalel] made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 הָאֵפֹ֑ד|hā·’ê·p̄ōḏ|the ephod|H646|Art | N-ms
@@ -101,7 +101,7 @@ v7 כַּאֲשֶׁ֛ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v7 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v7 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
-v7 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v7 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v8 וַיַּ֧עַשׂ|way·ya·‘aś|He made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 הַחֹ֛שֶׁן|ha·ḥō·šen|the breastpiece|H2833|Art | N-ms
@@ -166,7 +166,7 @@ v14 הֵ֛נָּה|hên·nāh|...|H2007|Pro-3fp
 v14 שְׁתֵּ֥ים|šə·têm|The twelve|H8147|Number-fd
 v14 עֶשְׂרֵ֖ה|‘eś·rêh|...|H6240|Number-fs
 v14 עַל־|‘al-|...|H5921|Prep
-v14 שְׁמֹתָ֑ם|šə·mō·ṯām||H8034|N-mpc | 3mp
+v14 שְׁמֹתָ֑ם|šə·mō·ṯām|-|H8034|N-mpc | 3mp
 v14 פִּתּוּחֵ֤י|pit·tū·ḥê|stone was engraved|H6603|N-mpc
 v14 חֹתָם֙|ḥō·ṯām|like a seal|H2368|N-ms
 v14 אִ֣ישׁ|’îš|Each|H376|N-ms
@@ -337,7 +337,7 @@ v26 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v26 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v26 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v26 אֶת־|’eṯ-|-|H853|DirObjM
-v26 מֹשֶֽׁה׃ס|mō·šeh|Moses|H4872|N-proper-ms
+v26 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v27 וַֽיַּעֲשׂ֛וּ|way·ya·‘ă·śū|they made|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 הַכָּתְנֹ֥ת|hak·kā·ṯə·nōṯ|tunics|H3801|Art | N-fpc
@@ -372,7 +372,7 @@ v29 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v29 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v29 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v29 אֶת־|’eṯ-|-|H853|DirObjM
-v29 מֹשֶֽׁה׃ס|mō·šeh|Moses|H4872|N-proper-ms
+v29 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v30 וַֽיַּעֲשׂ֛וּ|way·ya·‘ă·śū|They also made|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v30 אֶת־|’eṯ-|-|H853|DirObjM
 v30 צִ֥יץ|ṣîṣ|the plate|H6731|N-msc
@@ -399,7 +399,7 @@ v31 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v31 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v31 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v31 אֶת־|’eṯ-|-|H853|DirObjM
-v31 מֹשֶֽׁה׃ס|mō·šeh|Moses|H4872|N-proper-ms
+v31 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v32 וַתֵּ֕כֶל|wat·tê·ḵel|was completed|H3615|Conj-w | V-Qal-ConsecImperf-3fs
 v32 כָּל־|kāl-|So all|H3605|N-msc
 v32 עֲבֹדַ֕ת|‘ă·ḇō·ḏaṯ|the work|H5656|N-fsc
@@ -416,7 +416,7 @@ v32 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v32 אֶת־|’eṯ-|-|H853|DirObjM
 v32 מֹשֶׁ֖ה|mō·šeh|Moses|H4872|N-proper-ms
 v32 כֵּ֥ן|kên|...|H3651|Adv
-v32 עָשֽׂוּ׃פ|‘ā·śū|...|H6213|V-Qal-Perf-3cp
+v32 עָשֽׂוּ׃|‘ā·śū|...|H6213|V-Qal-Perf-3cp
 v33 וַיָּבִ֤יאוּ|way·yā·ḇî·’ū|Then they brought|H935|Conj-w | V-Hifil-ConsecImperf-3mp
 v33 אֶת־|’eṯ-|-|H853|DirObjM
 v33 הַמִּשְׁכָּן֙|ham·miš·kān|the tabernacle|H4908|Art | N-ms
@@ -439,7 +439,7 @@ v34 הָֽאֵילִם֙|hā·’ê·lim|of ram|H352|Art | N-mp
 v34 הַמְאָדָּמִ֔ים|ham·’ād·dā·mîm|dyed red|H119|Art | V-Pual-Prtcpl-mp
 v34 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v34 מִכְסֵ֖ה|miḵ·sêh|the covering|H4372|N-msc
-v34 עֹרֹ֣ת|‘ō·rōṯ|vvv|H5785|N-mpc
+v34 עֹרֹ֣ת|‘ō·rōṯ|...|H5785|N-mpc
 v34 הַתְּחָשִׁ֑ים|hat·tə·ḥā·šîm|of fine leather|H8476|Art | N-mp
 v34 וְאֵ֖ת|wə·’êṯ|and|H853|Conj-w | DirObjM
 v34 פָּרֹ֥כֶת|pā·rō·ḵeṯ|the veil|H6532|N-fsc
@@ -565,4 +565,4 @@ v43 כֵּ֣ן|kên|...|H3651|Adv
 v43 עָשׂ֑וּ|‘ā·śū|-|H6213|V-Qal-Perf-3cp
 v43 וַיְבָ֥רֶךְ|way·ḇā·reḵ|blessed|H1288|Conj-w | V-Piel-ConsecImperf-3ms
 v43 אֹתָ֖ם|’ō·ṯām|them|H853|DirObjM | 3mp
-v43 מֹשֶֽׁה׃פ|mō·šeh|So Moses|H4872|N-proper-ms
+v43 מֹשֶֽׁה׃|mō·šeh|So Moses|H4872|N-proper-ms

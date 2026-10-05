@@ -11,7 +11,7 @@ v1 Θεσσαλονίκην|Thessalonikēn|Thessalonica|G2332|N-AFS
 v1 ὅπου|hopou|where|G3699|Adv
 v1 ἦν|ēn|there was|G1510|V-IIA-3S
 v1 συναγωγὴ|synagōgē|synagogue|G4864|N-NFS
-v1 τῶν|tōn|vvv|G3588|Art-GMP
+v1 τῶν|tōn|...|G3588|Art-GMP
 v1 Ἰουδαίων|Ioudaiōn|a Jewish|G2453|Adj-GMP
 v2 κατὰ|kata|As was|G2596|Prep
 v2 δὲ|de|-|G1161|Conj
@@ -106,7 +106,7 @@ v5 προαγαγεῖν|proagagein|[hoping] to bring them out|G4254|V-ANA
 v5 εἰς|eis|to|G1519|Prep
 v5 τὸν|ton|the|G3588|Art-AMS
 v5 δῆμον|dēmon|people|G1218|N-AMS
-v6 μὴ|mē|vvv|G3361|Adv
+v6 μὴ|mē|...|G3361|Adv
 v6 εὑρόντες|heurontes|they could not find|G2147|V-APA-NMP
 v6 δὲ|de|But when|G1161|Conj
 v6 αὐτοὺς|autous|them|G846|PPro-AM3P
@@ -121,7 +121,7 @@ v6 πολιτάρχας|politarchas|city officials|G4173|N-AMP
 v6 βοῶντες|boōntes|shouting|G994|V-PPA-NMP
 v6 ὅτι|hoti|-|G3754|Conj
 v6 Οἱ|Hoi|who|G3588|Art-NMP
-v6 τὴν|tēn|vvv|G3588|Art-AFS
+v6 τὴν|tēn|...|G3588|Art-AFS
 v6 οἰκουμένην|oikoumenēn|the world {upside down}|G3625|N-AFS
 v6 ἀναστατώσαντες|anastatōsantes|have turned|G387|V-APA-NMP
 v6 οὗτοι|houtoi|These [men]|G3778|DPro-NMP
@@ -193,7 +193,7 @@ v11 δὲ|de|Now|G1161|Conj
 v11 ἦσαν|ēsan|were|G1510|V-IIA-3P
 v11 εὐγενέστεροι|eugenesteroi|more noble-minded|G2104|Adj-NMP-C
 v11 τῶν|tōn|than the|G3588|Art-GMP
-v11 ἐν|en|vvv|G1722|Prep
+v11 ἐν|en|...|G1722|Prep
 v11 Θεσσαλονίκῃ|Thessalonikē|Thessalonians|G2332|N-DFS
 v11 οἵτινες|hoitines|[for]|G3748|RelPro-NMP
 v11 ἐδέξαντο|edexanto|they received|G1209|V-AIM-3P
@@ -202,7 +202,7 @@ v11 λόγον|logon|message|G3056|N-AMS
 v11 μετὰ|meta|with|G3326|Prep
 v11 πάσης|pasēs|great|G3956|Adj-GFS
 v11 προθυμίας|prothymias|eagerness|G4288|N-GFS
-v11 τὸ|to|vvv|G3588|Art-NNS
+v11 τὸ|to|...|G3588|Art-NNS
 v11 καθ’|kath’|every|G2596|Prep
 v11 ἡμέραν|hēmeran|day|G2250|N-AFS
 v11 ἀνακρίνοντες|anakrinontes|[and] examined|G350|V-PPA-NMP
@@ -237,7 +237,7 @@ v13 τῆς|tēs|-|G3588|Art-GFS
 v13 Θεσσαλονίκης|Thessalonikēs|Thessalonica|G2332|N-GFS
 v13 Ἰουδαῖοι|Ioudaioi|Jews|G2453|Adj-NMP
 v13 ὅτι|hoti|that|G3754|Conj
-v13 καὶ|kai|vvv|G2532|Conj
+v13 καὶ|kai|...|G2532|Conj
 v13 ἐν|en|in|G1722|Prep
 v13 τῇ|tē|-|G3588|Art-DFS
 v13 Βεροίᾳ|Beroia|Berea|G960|N-DFS
@@ -258,7 +258,7 @@ v13 τοὺς|tous|the|G3588|Art-AMP
 v13 ὄχλους|ochlous|crowds|G3793|N-AMP
 v14 εὐθέως|eutheōs|immediately|G2112|Adv
 v14 δὲ|de|-|G1161|Conj
-v14 τότε|tote|vvv|G5119|Adv
+v14 τότε|tote|...|G5119|Adv
 v14 τὸν|ton|-|G3588|Art-AMS
 v14 Παῦλον|Paulon|Paul|G3972|N-AMS
 v14 ἐξαπέστειλαν|exapesteilan|sent|G1821|V-AIA-3P
@@ -336,7 +336,7 @@ v17 καὶ|kai|and|G2532|Conj
 v17 ἐν|en|in|G1722|Prep
 v17 τῇ|tē|the|G3588|Art-DFS
 v17 ἀγορᾷ|agora|marketplace|G58|N-DFS
-v17 κατὰ|kata|vvv|G2596|Prep
+v17 κατὰ|kata|...|G2596|Prep
 v17 πᾶσαν|pasan|each|G3956|Adj-AFS
 v17 ἡμέραν|hēmeran|day|G2250|N-AFS
 v17 πρὸς|pros|with|G4314|Prep
@@ -392,7 +392,7 @@ v19 ἡ|hē|-|G3588|Art-NFS
 v19 καινὴ|kainē|new|G2537|Adj-NFS
 v19 αὕτη|hautē|this|G3778|DPro-NFS
 v19 ἡ|hē|-|G3588|Art-NFS
-v19 ὑπὸ|hypo|vvv|G5259|Prep
+v19 ὑπὸ|hypo|...|G5259|Prep
 v19 σοῦ|sou|[that] you|G4771|PPro-G2S
 v19 λαλουμένη|laloumenē|are presenting|G2980|V-PPM/P-NFS
 v19 διδαχή|didachē|teaching [is]|G1322|N-NFS
@@ -457,7 +457,7 @@ v23 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v23 εὗρον|heuron|I even found|G2147|V-AIA-1S
 v23 καὶ|kai|...|G2532|Conj
 v23 βωμὸν|bōmon|an altar|G1041|N-AMS
-v23 ἐν|en|vvv|G1722|Prep
+v23 ἐν|en|...|G1722|Prep
 v23 ᾧ|hō|with|G3739|RelPro-DMS
 v23 ἐπεγέγραπτο|epegegrapto|this inscription|G1924|V-LIM/P-3S
 v23 ΑΓΝΩΣΤΩ|AGNŌSTŌ|TO AN UNKNOWN|G57|Adj-DMS
@@ -533,7 +533,7 @@ v26 αὐτῶν|autōn|of their|G846|PPro-GM3P
 v27 ζητεῖν|zētein|[ God intended that ] they would seek|G2212|V-PNA
 v27 τὸν|ton|-|G3588|Art-AMS
 v27 Θεὸν|Theon|[Him]|G2316|N-AMS
-v27 εἰ|ei|vvv|G1487|Conj
+v27 εἰ|ei|...|G1487|Conj
 v27 ἄρα|ara|[and] perhaps|G687|Conj
 v27 γε|ge|-|G1065|Prtcl
 v27 ψηλαφήσειαν|psēlaphēseian|reach out for|G5584|V-AOA-3P
@@ -561,7 +561,7 @@ v28 ὡς|hōs|As|G5613|Adv
 v28 καί|kai|-|G2532|Conj
 v28 τινες|tines|some|G5100|IPro-NMP
 v28 τῶν|tōn|[own]|G3588|Art-GMP
-v28 καθ’|kath’|vvv|G2596|Prep
+v28 καθ’|kath’|...|G2596|Prep
 v28 ὑμᾶς|hymas|of your|G4771|PPro-A2P
 v28 ποιητῶν|poiētōn|poets|G4163|N-GMP
 v28 εἰρήκασιν|eirēkasin|have said|G2046|V-RIA-3P
@@ -602,7 +602,7 @@ v30 ὑπεριδὼν|hyperidōn|overlooked|G5237|V-APA-NMS
 v30 ὁ|ho|-|G3588|Art-NMS
 v30 Θεὸς|Theos|God|G2316|N-NMS
 v30 τὰ|ta|-|G3588|Art-ANP
-v30 νῦν|nyn|vvv|G3568|Adv
+v30 νῦν|nyn|...|G3568|Adv
 v30 παραγγέλλει*|parangellei|He now commands|G3853|V-PIA-3S
 v30 τοῖς|tois|-|G3588|Art-DMP
 v30 ἀνθρώποις|anthrōpois|people|G444|N-DMP
@@ -612,7 +612,7 @@ v30 μετανοεῖν|metanoein|to repent|G3340|V-PNA
 v31 καθότι|kathoti|For|G2530|Adv
 v31 ἔστησεν|estēsen|He has set|G2476|V-AIA-3S
 v31 ἡμέραν|hēmeran|a day|G2250|N-AFS
-v31 ἐν|en|vvv|G1722|Prep
+v31 ἐν|en|...|G1722|Prep
 v31 ᾗ|hē|when|G3739|RelPro-DFS
 v31 μέλλει|mellei|He will|G3195|V-PIA-3S
 v31 κρίνειν|krinein|judge|G2919|V-PNA
@@ -651,9 +651,9 @@ v33 οὕτως|houtōs|At that|G3779|Adv
 v33 ὁ|ho|-|G3588|Art-NMS
 v33 Παῦλος|Paulos|Paul|G3972|N-NMS
 v33 ἐξῆλθεν|exēlthen|left|G1831|V-AIA-3S
-v33 ἐκ|ek|vvv|G1537|Prep
+v33 ἐκ|ek|...|G1537|Prep
 v33 μέσου|mesou|[the Areopagus]|G3319|Adj-GNS
-v33 αὐτῶν|autōn|vvv|G846|PPro-GM3P
+v33 αὐτῶν|autōn|...|G846|PPro-GM3P
 v34 τινὲς|tines|some|G5100|IPro-NMP
 v34 δὲ|de|But|G1161|Conj
 v34 ἄνδρες|andres|-|G435|N-NMP

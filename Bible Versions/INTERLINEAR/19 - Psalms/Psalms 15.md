@@ -46,7 +46,7 @@ v5 בְּנֶשֶׁךְ֮|bə·ne·šeḵ|interest|H5392|Prep-b | N-ms
 v5 וְשֹׁ֥חַד|wə·šō·ḥaḏ|a bribe|H7810|Conj-w | N-ms
 v5 עַל־|‘al-|against|H5921|Prep
 v5 נָקִ֗י|nā·qî|the innocent|H5355|Adj-ms
-v5 לֹ֥א|lō||H3808|Adv-NegPrt
+v5 לֹ֥א|lō|-|H3808|Adv-NegPrt
 v5 לָ֫קָ֥ח|lā·qāḥ|and refuses|H3947|V-Qal-Perf-3ms
 v5 עֹֽשֵׂה־|‘ō·śêh-|He who does|H6213|V-Qal-Prtcpl-msc
 v5 אֵ֑לֶּה|’êl·leh|these things|H428|Pro-cp

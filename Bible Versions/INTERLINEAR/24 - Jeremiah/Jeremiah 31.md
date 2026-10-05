@@ -10,7 +10,7 @@ v1 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v1 וְהֵ֖מָּה|wə·hêm·māh|and they|H1992|Conj-w | Pro-3mp
 v1 יִֽהְיוּ־|yih·yū-|will be|H1961|V-Qal-Imperf-3mp
 v1 לִ֥י|lî|My|H0|Prep | 1cs
-v1 לְעָֽם׃ס|lə·‘ām|people|H5971|Prep-l | N-ms
+v1 לְעָֽם׃|lə·‘ām|people|H5971|Prep-l | N-ms
 v2 כֹּ֚ה|kōh|This is what|H3541|Adv
 v2 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v2 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -65,7 +65,7 @@ v6 וְנַעֲלֶ֣ה|wə·na·‘ă·leh|let us go up|H5927|Conj-w | V-Qal-C
 v6 צִיּ֔וֹן|ṣî·yō·wn|to Zion|H6726|N-proper-fs
 v6 אֶל־|’el-|to|H413|Prep
 v6 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v6 אֱלֹהֵֽינוּ׃פ|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
+v6 אֱלֹהֵֽינוּ׃|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
 v7 כִּי־|kî-|For|H3588|Conj
 v7 כֹ֣ה׀|ḵōh|this is what|H3541|Adv
 v7 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -116,14 +116,14 @@ v9 בְּדֶ֣רֶךְ|bə·ḏe·reḵ|path|H1870|Prep-b | N-cs
 v9 יָשָׁ֔ר|yā·šār|on a level|H3477|Adj-ms
 v9 לֹ֥א|lō|where they will not|H3808|Adv-NegPrt
 v9 יִכָּשְׁל֖וּ|yik·kā·šə·lū|stumble|H3782|V-Nifal-Imperf-3mp
-v9 בָּ֑הּ|bāh||H0|Prep | 3fs
+v9 בָּ֑הּ|bāh|-|H0|Prep | 3fs
 v9 כִּֽי־|kî-|For|H3588|Conj
 v9 הָיִ֤יתִי|hā·yî·ṯî|I am|H1961|V-Qal-Perf-1cs
 v9 לְיִשְׂרָאֵל֙|lə·yiś·rā·’êl|Israel's|H3478|Prep-l | N-proper-ms
 v9 לְאָ֔ב|lə·’āḇ|Father|H1|Prep-l | N-ms
 v9 וְאֶפְרַ֖יִם|wə·’ep̄·ra·yim|and Ephraim|H669|Conj-w | N-proper-ms
 v9 בְּכֹ֥רִי|bə·ḵō·rî|is My firstborn|H1060|N-msc | 1cs
-v9 הֽוּא׃ס|hū|...|H1931|Pro-3ms
+v9 הֽוּא׃|hū|...|H1931|Pro-3ms
 v10 שִׁמְע֤וּ|šim·‘ū|Hear|H8085|V-Qal-Imp-mp
 v10 דְבַר־|ḏə·ḇar-|the word|H1697|N-msc
 v10 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -172,7 +172,7 @@ v12 רָוֶ֔ה|rā·weh|like a well-watered|H7302|Adj-ms
 v12 וְלֹא־|wə·lō-|and never|H3808|Conj-w | Adv-NegPrt
 v12 יוֹסִ֥יפוּ|yō·w·sî·p̄ū|again|H3254|V-Hifil-Imperf-3mp
 v12 לְדַאֲבָ֖ה|lə·ḏa·’ă·ḇāh|will they languish|H1669|Prep-l | V-Qal-Inf | 3fs
-v12 עֽוֹד׃|‘ō·wḏ||H5750|Adv
+v12 עֽוֹד׃|‘ō·wḏ|-|H5750|Adv
 v13 אָ֣ז|’āz|Then|H227|Adv
 v13 תִּשְׂמַ֤ח|tiś·maḥ|will rejoice|H8055|V-Qal-Imperf-3fs
 v13 בְּתוּלָה֙|bə·ṯū·lāh|the maidens|H1330|N-fs
@@ -195,7 +195,7 @@ v14 אֶת־|’eṯ-|with|H853|Prep
 v14 טוּבִ֥י|ṭū·ḇî|My goodness|H2898|N-msc | 1cs
 v14 יִשְׂבָּ֖עוּ|yiś·bā·‘ū|and will fill|H7646|V-Qal-Imperf-3mp
 v14 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v14 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v14 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v15 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v15 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v15 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -214,7 +214,7 @@ v15 לְהִנָּחֵ֥ם|lə·hin·nā·ḥêm|to be comforted|H5162|Prep-l | 
 v15 עַל־|‘al-|-|H5921|Prep
 v15 בָּנֶ֖יהָ|bā·ne·hā|-|H1121|N-mpc | 3fs
 v15 כִּ֥י|kî|because|H3588|Conj
-v15 אֵינֶֽנּוּ׃ס|’ê·nen·nū|they are no more|H369|Adv | 3ms
+v15 אֵינֶֽנּוּ׃|’ê·nen·nū|they are no more|H369|Adv | 3ms
 v16 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v16 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v16 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -239,7 +239,7 @@ v17 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v17 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v17 וְשָׁ֥בוּ|wə·šā·ḇū|will return|H7725|Conj-w | V-Qal-ConjPerf-3cp
 v17 בָנִ֖ים|ḇā·nîm|and your children|H1121|N-mp
-v17 לִגְבוּלָֽם׃ס|liḡ·ḇū·lām|to their own land|H1366|Prep-l | N-msc | 3mp
+v17 לִגְבוּלָֽם׃|liḡ·ḇū·lām|to their own land|H1366|Prep-l | N-msc | 3mp
 v18 שָׁמ֣וֹעַ|šā·mō·w·a‘|I have surely heard|H8085|V-Qal-InfAbs
 v18 שָׁמַ֗עְתִּי|šā·ma‘·tî|...|H8085|V-Qal-Perf-1cs
 v18 אֶפְרַ֙יִם֙|’ep̄·ra·yim|Ephraim's|H669|N-proper-ms
@@ -255,7 +255,7 @@ v18 כִּ֥י|kî|for|H3588|Conj
 v18 אַתָּ֖ה|’at·tāh|You [are]|H859|Pro-2ms
 v18 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v18 אֱלֹהָֽי׃|’ĕ·lō·hāy|my God|H430|N-mpc | 1cs
-v19 כִּֽי־|kî-||H3588|Conj
+v19 כִּֽי־|kî-|-|H3588|Conj
 v19 אַחֲרֵ֤י|’a·ḥă·rê|After|H310|Prep
 v19 שׁוּבִי֙|šū·ḇî|I returned|H7725|V-Qal-Inf | 1cs
 v19 נִחַ֔מְתִּי|ni·ḥam·tî|I repented|H5162|V-Nifal-Perf-1cs
@@ -289,16 +289,16 @@ v20 עַל־|‘al-|Therefore|H5921|Prep
 v20 כֵּ֗ן|kên|...|H3651|Adv
 v20 הָמ֤וּ|hā·mū|yearns for him|H1993|V-Qal-Perf-3cp
 v20 מֵעַי֙|mê·‘ay|My heart|H4578|N-mpc | 1cs
-v20 ל֔וֹ|lōw||H0|Prep | 3ms
+v20 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v20 רַחֵ֥ם|ra·ḥêm|I have great compassion for him|H7355|V-Piel-InfAbs
 v20 אֲ|’ăra·ḥă·men·nū|...|H7355|V-Piel-Imperf-1cs | 3ms
 v20 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v20 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v20 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v21 הַצִּ֧יבִי|haṣ·ṣî·ḇî|Set up|H5324|V-Hifil-Imp-fs
-v21 לָ֣ךְ|lāḵ||H0|Prep | 2fs
+v21 לָ֣ךְ|lāḵ|-|H0|Prep | 2fs
 v21 צִיֻּנִ֗ים|ṣî·yu·nîm|the road markers|H6725|N-mp
 v21 שִׂ֤מִי|śi·mî|put up|H7760|V-Qal-Imp-fs
-v21 לָךְ֙|lāḵ||H0|Prep | 2fs
+v21 לָךְ֙|lāḵ|-|H0|Prep | 2fs
 v21 תַּמְרוּרִ֔ים|tam·rū·rîm|the signposts|H8564|N-mp
 v21 שִׁ֣תִי|ši·ṯî|in mind|H7896|V-Qal-Imp-fs
 v21 לִבֵּ֔ךְ|lib·bêḵ|...|H3820|N-msc | 2fs
@@ -324,7 +324,7 @@ v22 חֲדָשָׁה֙|ḥă·ḏā·šāh|a new thing|H2319|Adj-fs
 v22 בָּאָ֔רֶץ|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
 v22 נְקֵבָ֖ה|nə·qê·ḇāh|a woman|H5347|N-fs
 v22 תְּס֥וֹבֵֽב|tə·sō·w·ḇêḇ|will shelter|H5437|V-Piel-Imperf-3fs
-v22 גָּֽבֶר׃ס|gā·ḇer|a man|H1397|N-ms
+v22 גָּֽבֶר׃|gā·ḇer|a man|H1397|N-ms
 v23 כֹּֽה־|kōh-|This is what|H3541|Adv
 v23 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v23 יְהוָ֤ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -371,7 +371,7 @@ v26 הֱקִיצֹ֣תִי|hĕ·qî·ṣō·ṯî|I awoke|H6974|V-Hifil-Perf-1cs
 v26 וָאֶרְאֶ֑ה|wā·’er·’eh|and looked around|H7200|Conj-w | V-Qal-ConsecImperf-1cs
 v26 וּשְׁנָתִ֖י|ū·šə·nā·ṯî|My sleep|H8142|Conj-w | N-fsc | 1cs
 v26 עָ֥רְבָה|‘ā·rə·ḇāh|had been most pleasant|H6149|V-Qal-Perf-3fs
-v26 לִּֽי׃ס|lî|to me|H0|Prep | 1cs
+v26 לִּֽי׃|lî|to me|H0|Prep | 1cs
 v27 הִנֵּ֛ה|hin·nêh|-|H2009|Interjection
 v27 יָמִ֥ים|yā·mîm|The days|H3117|N-mp
 v27 בָּאִ֖ים|bā·’îm|are coming|H935|V-Qal-Prtcpl-mp
@@ -425,7 +425,7 @@ v30 הָֽאָדָ֛ם|hā·’ā·ḏām|...|H120|Art | N-ms
 v30 הָאֹכֵ֥ל|hā·’ō·ḵêl|eats|H398|Art | V-Qal-Prtcpl-ms
 v30 הַבֹּ֖סֶר|hab·bō·ser|the sour grapes|H1155|Art | N-ms
 v30 תִּקְהֶ֥ינָה|tiq·he·nāh|will be set on edge|H6949|V-Qal-Imperf-3fp
-v30 שִׁנָּֽיו׃ס|šin·nāw|his own teeth|H8127|N-cdc | 3ms
+v30 שִׁנָּֽיו׃|šin·nāw|his own teeth|H8127|N-cdc | 3ms
 v31 הִנֵּ֛ה|hin·nêh|Behold|H2009|Interjection
 v31 יָמִ֥ים|yā·mîm|the days|H3117|N-mp
 v31 בָּאִ֖ים|bā·’îm|are coming|H935|V-Qal-Prtcpl-mp
@@ -517,7 +517,7 @@ v34 לַֽעֲוֺנָ֔ם|la·‘ă·wō·nām|their iniquities|H5771|Prep-l |
 v34 וּלְחַטָּאתָ֖ם|ū·lə·ḥaṭ·ṭā·ṯām|their sins|H2403|Conj-w, Prep-l | N-fsc | 3mp
 v34 לֹ֥א|lō|no|H3808|Adv-NegPrt
 v34 אֶזְכָּר־|’ez·kār-|and will remember|H2142|V-Qal-Imperf-1cs
-v34 עֽוֹד׃ס|‘ō·wḏ|more|H5750|Adv
+v34 עֽוֹד׃|‘ō·wḏ|more|H5750|Adv
 v35 כֹּ֣ה׀|kōh|Thus|H3541|Adv
 v35 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v35 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -552,7 +552,7 @@ v36 מִֽהְי֥וֹת|mih·yō·wṯ|to be|H1961|Prep-m | V-Qal-Inf
 v36 גּ֛וֹי|gō·w|a nation|H1471|N-ms
 v36 לְפָנַ֖י|lə·p̄ā·nay|before Me|H6440|Prep-l | N-mpc | 1cs
 v36 כָּל־|kāl-|ever|H3605|N-msc
-v36 הַיָּמִֽים׃ס|hay·yā·mîm|...|H3117|Art | N-mp
+v36 הַיָּמִֽים׃|hay·yā·mîm|...|H3117|Art | N-mp
 v37 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v37 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v37 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -575,7 +575,7 @@ v37 כָּל־|kāl-|all|H3605|N-msc
 v37 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v37 עָשׂ֖וּ|‘ā·śū|they have done|H6213|V-Qal-Perf-3cp
 v37 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v37 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v37 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v38 הִנֵּ֛ה|hin·nêh|are coming|H2009|Interjection
 v38 יָמִ֥יםִָּ֖|yå̄·mī·må̄|The days|H3117|N-mp
 v38 נְאֻם־|nə·ʾum-|declares|H5002|V-Qal-Prtcpl-mp
@@ -618,4 +618,4 @@ v40 יִנָּתֵ֧שׁ|yin·nā·ṯêš|be uprooted|H5428|V-Nifal-Imperf-3ms
 v40 וְֽלֹא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v40 יֵהָרֵ֛ס|yê·hā·rês|or demolished|H2040|V-Nifal-Imperf-3ms
 v40 ע֖וֹד|‘ō·wḏ|again|H5750|Adv
-v40 לְעוֹלָֽם׃ס|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms
+v40 לְעוֹלָֽם׃|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms

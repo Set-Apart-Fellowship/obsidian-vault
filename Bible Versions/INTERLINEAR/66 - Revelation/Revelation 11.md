@@ -18,7 +18,7 @@ v1 θυσιαστήριον|thysiastērion|altar|G2379|N-ANS
 v1 καὶ|kai|and|G2532|Conj
 v1 τοὺς|tous|[ count the number ] of|G3588|Art-AMP
 v1 προσκυνοῦντας|proskynountas|worshipers|G4352|V-PPA-AMP
-v1 ἐν|en|vvv|G1722|Prep
+v1 ἐν|en|...|G1722|Prep
 v1 αὐτῷ|autō|[there]|G846|PPro-DM3S
 v2 καὶ|kai|[But]|G2532|Conj
 v2 τὴν|tēn|the|G3588|Art-AFS
@@ -138,7 +138,7 @@ v6 ἐν|en|with|G1722|Prep
 v6 πάσῃ|pasē|every kind of|G3956|Adj-DFS
 v6 πληγῇ|plēgē|plague|G4127|N-DFS
 v6 ὁσάκις|hosakis|as often as|G3740|Conj
-v6 ἐὰν|ean|vvv|G1437|Conj
+v6 ἐὰν|ean|...|G1437|Conj
 v6 θελήσωσιν|thelēsōsin|they wish|G2309|V-ASA-3P
 v7 Καὶ|Kai|-|G2532|Conj
 v7 ὅταν|hotan|When|G3752|Conj
@@ -181,7 +181,7 @@ v8 Σόδομα|Sodoma|Sodom|G4670|N-NNP
 v8 καὶ|kai|and|G2532|Conj
 v8 Αἴγυπτος|Aigyptos|Egypt|G125|N-NFS
 v8 ὅπου|hopou|where|G3699|Adv
-v8 καὶ|kai|vvv|G2532|Conj
+v8 καὶ|kai|...|G2532|Conj
 v8 ὁ|ho|-|G3588|Art-NMS
 v8 Κύριος|Kyrios|Lord|G2962|N-NMS
 v8 αὐτῶν|autōn|their|G846|PPro-GM3P
@@ -205,10 +205,10 @@ v9 τρεῖς|treis|For three|G5140|Adj-AFP
 v9 καὶ|kai|and|G2532|Conj
 v9 ἥμισυ|hēmisy|a half|G2255|Adj-ANS
 v9 καὶ|kai|and|G2532|Conj
-v9 τὰ|ta|vvv|G3588|Art-ANP
+v9 τὰ|ta|...|G3588|Art-ANP
 v9 πτώματα|ptōmata|[them]|G4430|N-ANP
-v9 αὐτῶν|autōn|vvv|G846|PPro-GM3P
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 αὐτῶν|autōn|...|G846|PPro-GM3P
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἀφίουσιν|aphiousin|will not permit|G863|V-PIA-3P
 v9 τεθῆναι|tethēnai|to be laid|G5087|V-ANP
 v9 εἰς|eis|in|G1519|Prep
@@ -234,10 +234,10 @@ v10 οἱ|hoi|-|G3588|Art-NMP
 v10 δύο|dyo|two|G1417|Adj-NMP
 v10 προφῆται|prophētai|prophets|G4396|N-NMP
 v10 ἐβασάνισαν|ebasanisan|had tormented|G928|V-AIA-3P
-v10 τοὺς|tous|vvv|G3588|Art-AMP
-v10 κατοικοῦντας|katoikountas|vvv|G2730|V-PPA-AMP
-v10 ἐπὶ|epi|vvv|G1909|Prep
-v10 τῆς|tēs|vvv|G3588|Art-GFS
+v10 τοὺς|tous|...|G3588|Art-AMP
+v10 κατοικοῦντας|katoikountas|...|G2730|V-PPA-AMP
+v10 ἐπὶ|epi|...|G1909|Prep
+v10 τῆς|tēs|...|G3588|Art-GFS
 v10 γῆς|gēs|[them]|G1093|N-GFS
 v11 Καὶ|Kai|[But]|G2532|Conj
 v11 μετὰ|meta|after|G3326|Prep
@@ -312,8 +312,8 @@ v13 ἀπεκτάνθησαν|apektanthēsan|were killed|G615|V-AIP-3P
 v13 ἐν|en|in|G1722|Prep
 v13 τῷ|tō|the|G3588|Art-DMS
 v13 σεισμῷ|seismō|quake|G4578|N-DMS
-v13 ὀνόματα|onomata|vvv|G3686|N-NNP
-v13 ἀνθρώπων|anthrōpōn|vvv|G444|N-GMP
+v13 ὀνόματα|onomata|...|G3686|N-NNP
+v13 ἀνθρώπων|anthrōpōn|...|G444|N-GMP
 v13 χιλιάδες|chiliades|thousand|G5505|N-NFP
 v13 ἑπτά|hepta|Seven|G2033|Adj-NFP
 v13 καὶ|kai|and|G2532|Conj
@@ -367,8 +367,8 @@ v15 Χριστοῦ|Christou|Christ|G5547|N-GMS
 v15 αὐτοῦ|autou|His|G846|PPro-GM3S
 v15 καὶ|kai|and|G2532|Conj
 v15 βασιλεύσει|basileusei|He will reign|G936|V-FIA-3S
-v15 εἰς|eis|vvv|G1519|Prep
-v15 τοὺς|tous|vvv|G3588|Art-AMP
+v15 εἰς|eis|...|G1519|Prep
+v15 τοὺς|tous|...|G3588|Art-AMP
 v15 αἰῶνας|aiōnas|forever|G165|N-AMP
 v15 τῶν|tōn|[and]|G3588|Art-GMP
 v15 αἰώνων|aiōnōn|ever|G165|N-GMP
@@ -433,8 +433,8 @@ v18 τῶν|tōn|the|G3588|Art-GMP
 v18 νεκρῶν|nekrōn|dead|G3498|Adj-GMP
 v18 κριθῆναι|krithēnai|to judge|G2919|V-ANP
 v18 καὶ|kai|and|G2532|Conj
-v18 δοῦναι|dounai|vvv|G1325|V-ANA
-v18 τὸν|ton|vvv|G3588|Art-AMS
+v18 δοῦναι|dounai|...|G1325|V-ANA
+v18 τὸν|ton|...|G3588|Art-AMS
 v18 μισθὸν|misthon|to reward|G3408|N-AMS
 v18 τοῖς|tois|-|G3588|Art-DMP
 v18 δούλοις|doulois|servants|G1401|N-DMP

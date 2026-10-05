@@ -49,7 +49,7 @@ v5 אֶ֣רֶץ|’e·reṣ|land|H776|N-fsc
 v5 הַבְּרִ֑ית|hab·bə·rîṯ|of the covenant|H1285|Art | N-fs
 v5 אִתָּ֖ם|’it·tām|with [Egypt]|H854|Prep | 3mp
 v5 בַּחֶ֥רֶב|ba·ḥe·reḇ|by the sword|H2719|Prep-b, Art | N-fs
-v5 יִפֹּֽלוּ׃פ|yip·pō·lū|will fall|H5307|V-Qal-Imperf-3mp
+v5 יִפֹּֽלוּ׃|yip·pō·lū|will fall|H5307|V-Qal-Imperf-3mp
 v6 כֹּ֚ה|kōh|For this is what|H3541|Adv
 v6 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v6 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -103,7 +103,7 @@ v9 בְּי֣וֹם|bə·yō·wm|on the day|H3117|Prep-b | N-msc
 v9 מִצְרַ֔יִם|miṣ·ra·yim|of Egypt's [doom]|H4714|N-proper-fs
 v9 כִּ֥י|kî|For|H3588|Conj
 v9 הִנֵּ֖ה|hin·nêh|it is indeed|H2009|Interjection
-v9 בָּאָֽה׃ס|bā·’āh|coming|H935|V-Qal-Prtcpl-fs
+v9 בָּאָֽה׃|bā·’āh|coming|H935|V-Qal-Prtcpl-fs
 v10 כֹּ֥ה|kōh|This is what|H3541|Adv
 v10 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v10 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -147,7 +147,7 @@ v12 בְּיַד־|bə·yaḏ-|By the hands|H3027|Prep-b | N-fsc
 v12 זָרִ֔ים|zā·rîm|of foreigners|H2114|Adj-mp
 v12 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v12 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v12 דִּבַּֽרְתִּי׃ס|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
+v12 דִּבַּֽרְתִּי׃|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
 v13 כֹּֽה־|kōh-|This is what|H3541|Adv
 v13 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v13 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -158,7 +158,7 @@ v13 וְהִשְׁבַּתִּ֤י|wə·hiš·bat·tî|and put an end|H7673|Conj
 v13 אֱלִילִים֙|’ĕ·lî·lîm|to the images|H457|N-mp
 v13 מִנֹּ֔ף|min·nōp̄|in Memphis|H5297|Prep-m | N-proper-fs
 v13 וְנָשִׂ֥יא|wə·nā·śî|a prince|H5387|Conj-w | N-ms
-v13 מֵאֶֽרֶץ־|mê·’e·reṣ-|vvv|H776|Prep-m | N-fsc
+v13 מֵאֶֽרֶץ־|mê·’e·reṣ-|...|H776|Prep-m | N-fsc
 v13 מִצְרַ֖יִם|miṣ·ra·yim|in Egypt|H4714|N-proper-fs
 v13 לֹ֣א|lō|There will no|H3808|Adv-NegPrt
 v13 יִֽהְיֶה־|yih·yeh-|be|H1961|V-Qal-Imperf-3ms
@@ -200,7 +200,7 @@ v16 צָרֵ֥י|ṣā·rê|distress|H6862|N-mpc
 v16 יוֹמָֽם׃|yō·w·mām|[will face] daily|H3119|Adv
 v17 בַּח֥וּרֵי|ba·ḥū·rê|The young men|H970|N-mpc
 v17 אָ֛וֶן|’ā·wen|of On|H204|N-proper-fs
-v17 וּפִי־|ū·p̄î-|vvv|H6364|
+v17 וּפִי־|ū·p̄î-|...|H6364|
 v17 בֶ֖סֶת|ḇe·seṯ|and Pi-beseth|H6364|Conj-w | N-proper-fs
 v17 בַּחֶ֣רֶב|ba·ḥe·reḇ|by the sword|H2719|Prep-b, Art | N-fs
 v17 יִפֹּ֑לוּ|yip·pō·lū|will fall|H5307|V-Qal-Imperf-3mp
@@ -231,8 +231,8 @@ v19 בְּמִצְרָ֑יִם|bə·miṣ·rā·yim|on Egypt|H4714|Prep-b | N-pr
 v19 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|and they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v19 כִּֽי־|kî-|that|H3588|Conj
 v19 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v19 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
-v20 וַיְהִ֗י|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v19 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
+v20 וַיְהִ֗י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v20 בְּאַחַ֤ת|bə·’a·ḥaṯ|In the eleventh|H259|Prep-b | Number-fsc
 v20 עֶשְׂרֵה֙|‘eś·rêh|...|H6240|Number-fs
 v20 שָׁנָ֔ה|šā·nāh|year|H8141|N-fs
@@ -257,12 +257,12 @@ v21 לֹֽא־|lō-|it has not|H3808|Adv-NegPrt
 v21 חֻ֠בְּשָׁה|ḥub·bə·šāh|been bound up|H2280|V-Pual-Perf-3fs
 v21 לָתֵ֨ת|lā·ṯêṯ|-|H5414|Prep-l | V-Qal-Inf
 v21 רְפֻא֜וֹת|rə·p̄u·’ō·wṯ|for healing|H7499|N-fp
-v21 לָשׂ֥וּם|lā·śūm|vvv|H7760|Prep-l | V-Qal-Inf
+v21 לָשׂ֥וּם|lā·śūm|...|H7760|Prep-l | V-Qal-Inf
 v21 חִתּ֛וּל|ḥit·tūl|or splinted|H2848|N-ms
 v21 לְחָבְשָׁ֥הּ|lə·ḥā·ḇə·šāh|...|H2280|Prep-l | V-Qal-Inf | 3fs
 v21 לְחָזְקָ֖הּ|lə·ḥā·zə·qāh|for strength|H2388|Prep-l | V-Qal-Inf | 3fs
 v21 לִתְפֹּ֥שׂ|liṯ·pōś|to hold|H8610|Prep-l | V-Qal-Inf
-v21 בֶּחָֽרֶב׃ס|be·ḥā·reḇ|the sword|H2719|Prep-b, Art | N-fs
+v21 בֶּחָֽרֶב׃|be·ḥā·reḇ|the sword|H2719|Prep-b, Art | N-fs
 v22 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v22 כֹּה־|kōh-|this is what|H3541|Adv
 v22 אָמַ֣ר׀|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -339,4 +339,4 @@ v26 בָּאֲרָצ֑וֹת|bā·’ă·rā·ṣō·wṯ|throughout the lands|
 v26 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v26 כִּֽי־|kî-|that|H3588|Conj
 v26 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v26 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v26 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms

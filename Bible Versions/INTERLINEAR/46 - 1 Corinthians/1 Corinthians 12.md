@@ -3,7 +3,7 @@ v1 δὲ|de|Now|G1161|Conj
 v1 τῶν|tōn|-|G3588|Art-GNP
 v1 πνευματικῶν|pneumatikōn|spiritual [gifts]|G4152|Adj-GNP
 v1 ἀδελφοί|adelphoi|brothers|G80|N-VMP
-v1 οὐ|ou|vvv|G3756|Adv
+v1 οὐ|ou|...|G3756|Adv
 v1 θέλω|thelō|I do not want|G2309|V-PIA-1S
 v1 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v1 ἀγνοεῖν|agnoein|to be uninformed|G50|V-PNA
@@ -17,8 +17,8 @@ v2 τὰ|ta|-|G3588|Art-ANP
 v2 εἴδωλα|eidōla|idols|G1497|N-ANP
 v2 τὰ|ta|-|G3588|Art-ANP
 v2 ἄφωνα|aphōna|mute|G880|Adj-ANP
-v2 ὡς|hōs|vvv|G5613|Adv
-v2 ἂν|an|vvv|G302|Prtcl
+v2 ὡς|hōs|...|G5613|Adv
+v2 ἂν|an|...|G302|Prtcl
 v2 ἤγεσθε|ēgesthe|you were influenced|G71|V-IIM/P-2P
 v2 ἀπαγόμενοι|apagomenoi|[and] led astray|G520|V-PPM/P-NMP
 v3 διὸ|dio|Therefore|G1352|Conj
@@ -127,7 +127,7 @@ v10 δὲ|de|-|G1161|Conj
 v10 διακρίσεις|diakriseis|distinguishing|G1253|N-NFP
 v10 πνευμάτων|pneumatōn|between spirits|G4151|N-GNP
 v10 ἑτέρῳ|heterō|to another|G2087|Adj-DMS
-v10 γένη|genē|vvv|G1085|N-NNP
+v10 γένη|genē|...|G1085|N-NNP
 v10 γλωσσῶν|glōssōn|speaking in various tongues|G1100|N-GFP
 v10 ἄλλῳ|allō|to [still] another|G243|Adj-DMS
 v10 δὲ|de|and|G1161|Conj
@@ -179,7 +179,7 @@ v13 ἐν|en|in|G1722|Prep
 v13 ἑνὶ|heni|one|G1520|Adj-DNS
 v13 Πνεύματι|Pneumati|Spirit|G4151|N-DNS
 v13 ἡμεῖς|hēmeis|we|G1473|PPro-N1P
-v13 πάντες|pantes|vvv|G3956|Adj-NMP
+v13 πάντες|pantes|...|G3956|Adj-NMP
 v13 εἰς|eis|into|G1519|Prep
 v13 ἓν|hen|one|G1520|Adj-ANS
 v13 σῶμα|sōma|body|G4983|N-ANS
@@ -193,7 +193,7 @@ v13 δοῦλοι|douloi|slave|G1401|N-NMP
 v13 εἴτε|eite|or|G1535|Conj
 v13 ἐλεύθεροι|eleutheroi|free|G1658|Adj-NMP
 v13 καὶ|kai|and|G2532|Conj
-v13 πάντες|pantes|vvv|G3956|Adj-NMP
+v13 πάντες|pantes|...|G3956|Adj-NMP
 v13 ἓν|hen|one|G1520|Adj-ANS
 v13 Πνεῦμα|Pneuma|Spirit {to drink}|G4151|N-ANS
 v13 ἐποτίσθημεν|epotisthēmen|we were all given|G4222|V-AIP-1P
@@ -297,7 +297,7 @@ v20 μέλη|melē|parts|G3196|N-NNP
 v20 ἓν|hen|one|G1520|Adj-NNS
 v20 δὲ|de|but|G1161|Conj
 v20 σῶμα|sōma|body|G4983|N-NNS
-v21 Οὐ|Ou|vvv|G3756|Adv
+v21 Οὐ|Ou|...|G3756|Adv
 v21 δύναται|dynatai|cannot|G1410|V-PIM/P-3S
 v21 δὲ|de|-|G1161|Conj
 v21 ὁ|ho|The|G3588|Art-NMS
@@ -464,7 +464,7 @@ v31 τὰ|ta|-|G3588|Art-ANP
 v31 μείζονα|meizona|greater|G3173|Adj-ANP-C
 v31 Καὶ|Kai|And|G2532|Conj
 v31 ἔτι|eti|now|G2089|Adv
-v31 καθ’|kath’|vvv|G2596|Prep
+v31 καθ’|kath’|...|G2596|Prep
 v31 ὑπερβολὴν|hyperbolēn|the most excellent|G5236|N-AFS
 v31 ὁδὸν|hodon|way|G3598|N-AFS
 v31 ὑμῖν|hymin|you|G4771|PPro-D2P

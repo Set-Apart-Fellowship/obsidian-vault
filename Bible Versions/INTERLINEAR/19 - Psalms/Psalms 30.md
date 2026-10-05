@@ -77,11 +77,11 @@ v10 וְחָנֵּ֑נִי|wə·ḥān·nê·nî|and have mercy|H2603|Conj-w | V
 v10 יְ֝הוָה|haš·šēm|O LORD|H3068|N-proper-ms
 v10 הֱ|hĕyêh-|be|H1961|V-Qal-Imp-ms
 v10 עֹזֵ֥ר|‘ō·zêr|my helper|H5826|V-Qal-Prtcpl-ms
-v10 לִֽי׃|lî||H0|Prep | 1cs
+v10 לִֽי׃|lî|-|H0|Prep | 1cs
 v11 הָפַ֣כְתָּ|hā·p̄aḵ·tā|You turned|H2015|V-Qal-Perf-2ms
 v11 מִסְפְּדִי֮|mis·pə·ḏî|my mourning|H4553|N-msc | 1cs
 v11 לְמָח֪וֹל|lə·mā·ḥō·wl|into dancing|H4234|Prep-l | N-ms
-v11 לִ֥י|lî||H0|Prep | 1cs
+v11 לִ֥י|lî|-|H0|Prep | 1cs
 v11 פִּתַּ֥חְתָּ|pit·taḥ·tā|You peeled off|H6605|V-Piel-Perf-2ms
 v11 שַׂקִּ֑י|śaq·qî|my sackcloth|H8242|N-msc | 1cs
 v11 וַֽתְּאַזְּרֵ֥נִי|wat·tə·’az·zə·rê·nî|and clothed me|H247|Conj-w | V-Piel-ConsecImperf-2ms | 1cs

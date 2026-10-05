@@ -98,7 +98,7 @@ v4 μου|mou|My|G1473|PPro-G1S
 v4 ἐξ|ex|out of|G1537|Prep
 v4 αὐτῆς|autēs|her|G846|PPro-GF3S
 v4 ἵνα|hina|so that|G2443|Conj
-v4 μὴ|mē|vvv|G3361|Adv
+v4 μὴ|mē|...|G3361|Adv
 v4 συνκοινωνήσητε|synkoinōnēsēte|you will not share|G4790|V-ASA-2P
 v4 ταῖς|tais|in|G3588|Art-DFP
 v4 ἁμαρτίαις|hamartiais|sins|G266|N-DFP
@@ -109,7 +109,7 @@ v4 τῶν|tōn|-|G3588|Art-GFP
 v4 πληγῶν|plēgōn|plagues|G4127|N-GFP
 v4 αὐτῆς|autēs|her|G846|PPro-GF3S
 v4 ἵνα|hina|-|G2443|Conj
-v4 μὴ|mē|vvv|G3361|Adv
+v4 μὴ|mē|...|G3361|Adv
 v4 λάβητε|labēte|contract|G2983|V-ASA-2P
 v5 ὅτι|hoti|For|G3754|Conj
 v5 ἐκολλήθησαν|ekollēthēsan|are piled|G2853|V-AIP-3P
@@ -219,7 +219,7 @@ v9 αὐτῆς|autēs|her|G846|PPro-GF3S
 v9 πορνεύσαντες|porneusantes|committed sexual immorality|G4203|V-APA-NMP
 v9 καὶ|kai|and|G2532|Conj
 v9 στρηνιάσαντες|strēniasantes|lived in luxury|G4763|V-APA-NMP
-v9 ὅταν|hotan|vvv|G3752|Conj
+v9 ὅταν|hotan|...|G3752|Conj
 v9 βλέπωσιν|blepōsin|the sight of|G991|V-PSA-3P
 v9 τὸν|ton|the|G3588|Art-AMS
 v9 καπνὸν|kapnon|smoke [rising]|G2586|N-AMS
@@ -362,8 +362,8 @@ v14 ἀπὸ|apo|-|G575|Prep
 v14 σοῦ|sou|-|G4771|PPro-G2S
 v14 καὶ|kai|-|G2532|Conj
 v14 οὐκέτι|ouketi|[again]|G3765|Adv
-v14 οὐ|ou|vvv|G3756|Adv
-v14 μὴ|mē|vvv|G3361|Adv
+v14 οὐ|ou|...|G3756|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 αὐτὰ|auta|-|G846|PPro-AN3P
 v14 εὑρήσουσιν|heurēsousin|never to be [seen]|G2147|V-FIA-3P
 v15 Οἱ|Hoi|The|G3588|Art-NMP
@@ -468,7 +468,7 @@ v19 ἡ|hē|to the|G3588|Art-NFS
 v19 πόλις|polis|city|G4172|N-NFS
 v19 ἡ|hē|-|G3588|Art-NFS
 v19 μεγάλη|megalē|great|G3173|Adj-NFS
-v19 ἐν|en|vvv|G1722|Prep
+v19 ἐν|en|...|G1722|Prep
 v19 ᾗ|hē|[where]|G3739|RelPro-DFS
 v19 ἐπλούτησαν|eploutēsan|were enriched|G4147|V-AIA-3P
 v19 πάντες|pantes|all|G3956|Adj-NMP
@@ -532,8 +532,8 @@ v21 ἡ|hē|the|G3588|Art-NFS
 v21 μεγάλη|megalē|great|G3173|Adj-NFS
 v21 πόλις|polis|city|G4172|N-NFS
 v21 καὶ|kai|-|G2532|Conj
-v21 οὐ|ou|vvv|G3756|Adv
-v21 μὴ|mē|vvv|G3361|Adv
+v21 οὐ|ou|...|G3756|Adv
+v21 μὴ|mē|...|G3361|Adv
 v21 εὑρεθῇ|heurethē|never to be [seen]|G2147|V-ASP-3S
 v21 ἔτι|eti|again|G2089|Adv
 v22 καὶ|kai|And|G2532|Conj
@@ -545,8 +545,8 @@ v22 καὶ|kai|-|G2532|Conj
 v22 αὐλητῶν|aulētōn|of flute players|G834|N-GMP
 v22 καὶ|kai|and|G2532|Conj
 v22 σαλπιστῶν|salpistōn|trumpeters|G4538|N-GMP
-v22 οὐ|ou|vvv|G3756|Adv
-v22 μὴ|mē|vvv|G3361|Adv
+v22 οὐ|ou|...|G3756|Adv
+v22 μὴ|mē|...|G3361|Adv
 v22 ἀκουσθῇ|akousthē|will never ring out|G191|V-ASP-3S
 v22 ἐν|en|in|G1722|Prep
 v22 σοὶ|soi|you|G4771|PPro-D2S
@@ -556,8 +556,8 @@ v22 πᾶς|pas|any|G3956|Adj-NMS
 v22 τεχνίτης|technitēs|craftsmen|G5079|N-NMS
 v22 πάσης|pasēs|of any|G3956|Adj-GFS
 v22 τέχνης|technēs|trade|G5078|N-GFS
-v22 οὐ|ou|vvv|G3756|Adv
-v22 μὴ|mē|vvv|G3361|Adv
+v22 οὐ|ou|...|G3756|Adv
+v22 μὴ|mē|...|G3361|Adv
 v22 εὑρεθῇ|heurethē|be [found]|G2147|V-ASP-3S
 v22 ἐν|en|in|G1722|Prep
 v22 σοὶ|soi|you|G4771|PPro-D2S
@@ -565,8 +565,8 @@ v22 ἔτι|eti|again|G2089|Adv
 v22 καὶ|kai|[nor]|G2532|Conj
 v22 φωνὴ|phōnē|[the] sound|G5456|N-NFS
 v22 μύλου|mylou|of a millstone|G3458|N-GMS
-v22 οὐ|ou|vvv|G3756|Adv
-v22 μὴ|mē|vvv|G3361|Adv
+v22 οὐ|ou|...|G3756|Adv
+v22 μὴ|mē|...|G3361|Adv
 v22 ἀκουσθῇ|akousthē|be heard|G191|V-ASP-3S
 v22 ἐν|en|in|G1722|Prep
 v22 σοὶ|soi|you|G4771|PPro-D2S
@@ -574,8 +574,8 @@ v22 ἔτι|eti|again|G2089|Adv
 v23 καὶ|kai|-|G2532|Conj
 v23 φῶς|phōs|[The] light|G5457|N-NNS
 v23 λύχνου|lychnou|of a lamp|G3088|N-GMS
-v23 οὐ|ou|vvv|G3756|Adv
-v23 μὴ|mē|vvv|G3361|Adv
+v23 οὐ|ou|...|G3756|Adv
+v23 μὴ|mē|...|G3361|Adv
 v23 φάνῃ|phanē|will never shine|G5316|V-ASA-3S
 v23 ἐν|en|in|G1722|Prep
 v23 σοὶ|soi|you|G4771|PPro-D2S
@@ -585,8 +585,8 @@ v23 φωνὴ|phōnē|[the] voices|G5456|N-NFS
 v23 νυμφίου|nymphiou|bridegroom|G3566|N-GMS
 v23 καὶ|kai|and|G2532|Conj
 v23 νύμφης|nymphēs|of a bride|G3565|N-GFS
-v23 οὐ|ou|vvv|G3756|Adv
-v23 μὴ|mē|vvv|G3361|Adv
+v23 οὐ|ou|...|G3756|Adv
+v23 μὴ|mē|...|G3361|Adv
 v23 ἀκουσθῇ|akousthē|will never call out|G191|V-ASP-3S
 v23 ἐν|en|in|G1722|Prep
 v23 σοὶ|soi|you|G4771|PPro-D2S

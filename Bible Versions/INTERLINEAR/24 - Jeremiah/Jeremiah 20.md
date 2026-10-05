@@ -48,8 +48,8 @@ v3 יְהוָה֙|Yah·weh|The LORD|H3068|N-proper-ms
 v3 שְׁמֶ֔ךָ|šə·me·ḵā|...|H8034|N-msc | 2ms
 v3 כִּ֖י|kî|but|H3588|Conj
 v3 אִם־|’im-|...|H518|Conj
-v3 מָג֥וֹר|mā·ḡō·wr|vvv|H4036|N-ms
-v3 מִסָּבִֽיב׃פ|mis·sā·ḇîḇ|Magor-missabib|H4036|Prep-m | Adv
+v3 מָג֥וֹר|mā·ḡō·wr|...|H4036|N-ms
+v3 מִסָּבִֽיב׃|mis·sā·ḇîḇ|Magor-missabib|H4036|Prep-m | Adv
 v4 כִּ֣י|kî|For|H3588|Conj
 v4 כֹ֣ה|ḵōh|this is what|H3541|Adv
 v4 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -119,7 +119,7 @@ v6 אֹ֣הֲבֶ֔יךָ|’ō·hă·ḇe·ḵā|your friends|H157|V-Qal-Prtcp
 v6 אֲשֶׁר־|’ă·šer-|to whom|H834|Pro-r
 v6 נִבֵּ֥אתָ|nib·bê·ṯā|you have prophesied|H5012|V-Nifal-Perf-2ms
 v6 לָהֶ֖ם|lā·hem|these|H0|Prep-l | Pro-3mp
-v6 בַּשָּֽׁקֶר׃ס|baš·šā·qer|lies|H8267|Prep-b, Art | N-ms
+v6 בַּשָּֽׁקֶר׃|baš·šā·qer|lies|H8267|Prep-b, Art | N-ms
 v7 פִּתִּיתַ֤נִי|pit·tî·ṯa·nî|You have deceived me|H6601|V-Piel-Perf-2ms | 1cs
 v7 יְהוָה֙|Yah·weh|O LORD|H3068|N-proper-ms
 v7 וָֽאֶפָּ֔ת|wā·’ep·pāṯ|and I was deceived|H6601|Conj-w | V-Nifal-ConsecImperf-1cs
@@ -218,7 +218,7 @@ v12 כִּ֥י|kî|for|H3588|Conj
 v12 אֵלֶ֖יךָ|’ê·le·ḵā|to You|H413|Prep | 2ms
 v12 גִּלִּ֥יתִי|gil·lî·ṯî|I have committed|H1540|V-Piel-Perf-1cs
 v12 אֶת־|’eṯ-|-|H853|DirObjM
-v12 רִיבִֽי׃ס|rî·ḇî|my cause|H7379|N-msc | 1cs
+v12 רִיבִֽי׃|rî·ḇî|my cause|H7379|N-msc | 1cs
 v13 שִׁ֚ירוּ|šî·rû|Sing|H7891|V-Qal-Imp-mp
 v13 לַֽיהוָ֔ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v13 הַֽלְל֖וּ|hal·lū|Praise|H1984|V-Piel-Imp-mp
@@ -230,12 +230,12 @@ v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 נֶ֥פֶשׁ|ne·p̄eš|the life|H5315|N-fs
 v13 אֶבְי֖וֹן|’eḇ·yō·wn|of the needy|H34|Adj-ms
 v13 מִיַּ֥ד|mî·yaḏ|from the hands|H3027|Prep-m | N-fsc
-v13 מְרֵעִֽים׃ס|mə·rê·‘îm|of evildoers|H7489|V-Hifil-Prtcpl-mp
+v13 מְרֵעִֽים׃|mə·rê·‘îm|of evildoers|H7489|V-Hifil-Prtcpl-mp
 v14 אָר֣וּר|’ā·rūr|Cursed be|H779|V-Qal-QalPassPrtcpl-ms
 v14 הַיּ֔וֹם|hay·yō·wm|the day|H3117|Art | N-ms
 v14 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v14 יֻלַּ֖דְתִּי|yul·laḏ·tî|I was born|H3205|V-QalPass-Perf-1cs
-v14 בּ֑וֹ|bōw||H0|Prep | 3ms
+v14 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v14 י֛וֹם|yō·wm|May the day|H3117|N-ms
 v14 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v14 יְלָדַ֥תְנִי|yə·lā·ḏaṯ·nî|bore me|H3205|V-Qal-Perf-3fs | 1cs
@@ -269,14 +269,14 @@ v16 וְשָׁמַ֤ע|wə·šā·ma‘|May he hear|H8085|Conj-w | V-Qal-ConjPer
 v16 זְעָקָה֙|zə·‘ā·qāh|an outcry|H2201|N-fs
 v16 בַּבֹּ֔קֶר|bab·bō·qer|in the morning|H1242|Prep-b, Art | N-ms
 v16 וּתְרוּעָ֖ה|ū·ṯə·rū·‘āh|and a battle cry|H8643|Conj-w | N-fs
-v16 בְּעֵ֥ת|bə·‘êṯ|vvv|H6256|Prep-b | N-csc
+v16 בְּעֵ֥ת|bə·‘êṯ|...|H6256|Prep-b | N-csc
 v16 צָהֳרָֽיִם׃|ṣā·ho·rā·yim|at noon|H6672|N-mp
 v17 אֲשֶׁ֥ר|’ă·šer|because|H834|Pro-r
 v17 לֹא־|lō-|he did not|H3808|Adv-NegPrt
 v17 מוֹתְתַ֖נִי|mō·wṯ·ṯa·nî|kill me|H4191|V-Piel-Perf-3ms | 1cs
 v17 מֵרָ֑חֶם|mê·rā·ḥem|in the womb|H7358|Prep-m | N-ms
 v17 וַתְּהִי־|wat·tə·hî-|might have been|H1961|Conj-w | V-Qal-ConsecImperf-3fs
-v17 לִ֤י|lî||H0|Prep | 1cs
+v17 לִ֤י|lî|-|H0|Prep | 1cs
 v17 אִמִּי֙|’im·mî|so that my mother|H517|N-fsc | 1cs
 v17 קִבְרִ֔י|qiḇ·rî|my grave|H6913|N-msc | 1cs
 v17 וְרַחְמָ֖הֿ|wə·raḥ·māh|and her womb|H7358|Conj-w | N-msc | 3fs
@@ -291,4 +291,4 @@ v18 עָמָ֖ל|‘ā·māl|only trouble|H5999|N-ms
 v18 וְיָג֑וֹן|wə·yā·ḡō·wn|and sorrow|H3015|Conj-w | N-ms
 v18 וַיִּכְל֥וּ|way·yiḵ·lū|and to end|H3615|Conj-w | V-Qal-ConsecImperf-3mp
 v18 בְּבֹ֖שֶׁת|bə·ḇō·šeṯ|in shame|H1322|Prep-b | N-fs
-v18 יָמָֽי׃פ|yā·māy|my days|H3117|N-mpc | 1cs
+v18 יָמָֽי׃|yā·māy|my days|H3117|N-mpc | 1cs

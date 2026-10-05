@@ -3,7 +3,7 @@ v1 בִשְׁמוֹנִ֣ים|ḇiš·mō·w·nîm|and eightieth|H8084|Prep-b | 
 v1 שָׁנָ֣ה|šā·nāh|year|H8141|N-fs
 v1 וְאַרְבַּ֣ע|wə·’ar·ba‘|In the four|H702|Conj-w | Number-fs
 v1 מֵא֣וֹת|mê·’ō·wṯ|hundred|H3967|Number-fp
-v1 שָׁנָ֡ה|šā·nāh||H8141|N-fs
+v1 שָׁנָ֡ה|šā·nāh|-|H8141|N-fs
 v1 לְצֵ֣את|lə·ṣêṯ|had come|H3318|Prep-l | V-Qal-Inf
 v1 בְּנֵֽי־|bə·nê-|after the Israelites|H1121|N-mpc
 v1 יִשְׂרָאֵ֣ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -70,7 +70,7 @@ v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 קִיר֤וֹת|qî·rō·wṯ|-|H7023|N-mpc
 v5 הַבַּ֙יִת֙|hab·ba·yiṯ|the temple|H1004|Art | N-ms
 v5 סָבִ֔יב|sā·ḇîḇ|in which|H5439|Adv
-v5 לַֽהֵיכָ֖ל|la·hê·ḵāl|vvv|H1964|Prep-l, Art | N-ms
+v5 לַֽהֵיכָ֖ל|la·hê·ḵāl|...|H1964|Prep-l, Art | N-ms
 v5 וְלַדְּבִ֑יר|wə·lad·də·ḇîr|and the inner sanctuary|H1687|Conj-w, Prep-l, Art | N-ms
 v5 וַיַּ֥עַשׂ|way·ya·‘aś|he constructed|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v5 צְלָע֖וֹת|ṣə·lā·‘ō·wṯ|the side rooms|H6763|N-fp
@@ -151,7 +151,7 @@ v10 וַיֶּאֱחֹ֥ז|way·ye·’ĕ·ḥōz|and attached|H270|Conj-w | V-Q
 v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 הַבַּ֖יִת|hab·ba·yiṯ|to the temple|H1004|Art | N-ms
 v10 בַּעֲצֵ֥י|ba·‘ă·ṣê|with beams|H6086|Prep-b | N-mpc
-v10 אֲרָזִֽים׃פ|’ă·rā·zîm|of cedar|H730|N-mp
+v10 אֲרָזִֽים׃|’ă·rā·zîm|of cedar|H730|N-mp
 v11 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v11 דְּבַר־|də·ḇar-|Then the word|H1697|N-msc
 v11 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -192,7 +192,7 @@ v13 וְלֹ֥א|wə·lō|and will not|H3808|Conj-w | Adv-NegPrt
 v13 אֶעֱזֹ֖ב|’e·‘ĕ·zōḇ|abandon|H5800|V-Qal-Imperf-1cs
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 עַמִּ֥י|‘am·mî|My people|H5971|N-msc | 1cs
-v13 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v13 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v14 וַיִּ֧בֶן|way·yi·ḇen|built|H1129|Conj-w | V-Qal-ConsecImperf-3ms
 v14 שְׁלֹמֹ֛ה|šə·lō·mōh|So Solomon|H8010|N-proper-ms
 v14 אֶת־|’eṯ-|it|H853|DirObjM
@@ -208,7 +208,7 @@ v15 אֲרָזִ֔ים|’ă·rā·zîm|with cedar|H730|N-mp
 v15 מִקַּרְקַ֤ע|miq·qar·qa‘|from the floor|H7172|Prep-m | N-fsc
 v15 הַבַּ֙יִת֙|hab·ba·yiṯ|of the temple|H1004|Art | N-ms
 v15 עַד־|‘aḏ-|to|H5704|Prep
-v15 קִיר֣וֹת|qî·rō·wṯ||H7023|N-mpc
+v15 קִיר֣וֹת|qî·rō·wṯ|-|H7023|N-mpc
 v15 הַסִּפֻּ֔ן|has·sip·pun|the ceiling|H5604|Art | N-ms
 v15 צִפָּ֥ה|ṣip·pāh|-|H6823|V-Piel-Perf-3ms
 v15 עֵ֖ץ|‘êṣ|-|H6086|N-ms
@@ -232,7 +232,7 @@ v16 הַקַּרְקַ֖ע|haq·qar·qa‘|from floor|H7172|Art | N-fs
 v16 עַד־|‘aḏ-|to|H5704|Prep
 v16 הַקִּיר֑וֹת|haq·qî·rō·wṯ|ceiling|H7023|Art | N-mp
 v16 וַיִּ֤בֶן|way·yi·ḇen|to form|H1129|Conj-w | V-Qal-ConsecImperf-3ms
-v16 לוֹ֙|lōw||H0|Prep | 3ms
+v16 לוֹ֙|lōw|-|H0|Prep | 3ms
 v16 מִבַּ֣יִת|mib·ba·yiṯ|within the temple|H1004|Prep-m | N-ms
 v16 לִדְבִ֔יר|liḏ·ḇîr|an inner sanctuary|H1687|Prep-l | N-ms
 v16 לְקֹ֖דֶשׁ|lə·qō·ḏeš|the Most Holy Place|H6944|Prep-l | N-msc
@@ -240,8 +240,8 @@ v16 הַקֳּדָשִֽׁים׃|haq·qo·ḏā·šîm|...|H6944|Art | N-mp
 v17 וְאַרְבָּעִ֥ים|wə·’ar·bā·‘îm|forty|H705|Conj-w | Number-cp
 v17 בָּאַמָּ֖ה|bā·’am·māh|cubits [long]|H520|Prep-b, Art | N-fs
 v17 הָיָ֣ה|hā·yāh|was|H1961|V-Qal-Perf-3ms
-v17 הַבָּ֑יִת|hab·bā·yiṯ|vvv|H1004|Art | N-ms
-v17 ה֖וּא|hū|vvv|H1931|Pro-3ms
+v17 הַבָּ֑יִת|hab·bā·yiṯ|...|H1004|Art | N-ms
+v17 ה֖וּא|hū|...|H1931|Pro-3ms
 v17 הַהֵיכָ֥ל|ha·hê·ḵāl|And the main hall|H1964|Art | N-ms
 v17 לִפְנָֽי׃|lip̄·nāy|in front of [this room]|H6440|Prep-l | N-msc | 1cs
 v18 וְאֶ֤רֶז|wə·’e·rez|The cedar|H730|Conj-w | N-ms
@@ -287,7 +287,7 @@ v20 מִזְבֵּ֖חַ|miz·bê·aḥ|the altar|H4196|N-ms
 v20 אָֽרֶז׃|’ā·rez|of cedar|H730|N-ms
 v21 וַיְצַ֨ף|way·ṣap̄|overlaid|H6823|Conj-w | V-Piel-ConsecImperf-3ms
 v21 שְׁלֹמֹ֧ה|šə·lō·mōh|So Solomon|H8010|N-proper-ms
-v21 אֶת־|’eṯ-||H853|DirObjM
+v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 הַבַּ֛יִת|hab·ba·yiṯ|of the temple|H1004|Art | N-ms
 v21 מִפְּנִ֖ימָה|mip·pə·nî·māh|the inside|H6441|Prep-m | Adv
 v21 זָהָ֣ב|zā·hāḇ|gold|H2091|N-ms
@@ -384,8 +384,8 @@ v27 תּ֣וֹךְ|tō·wḵ|the middle|H8432|N-msc
 v27 הַבַּ֔יִת|hab·ba·yiṯ|of the room|H1004|Art | N-ms
 v27 נֹגְעֹ֖ת|nō·ḡə·‘ōṯ|touched|H5060|V-Qal-Prtcpl-fp
 v27 כָּנָ֥ף|kā·nāp̄|...|H3671|N-fs
-v27 אֶל־|’el-||H413|Prep
-v27 כָּנָֽף׃|kā·nāp̄||H3671|N-fs
+v27 אֶל־|’el-|-|H413|Prep
+v27 כָּנָֽף׃|kā·nāp̄|-|H3671|N-fs
 v28 וַיְצַ֥ף|way·ṣap̄|He also overlaid|H6823|Conj-w | V-Piel-ConsecImperf-3ms
 v28 אֶת־|’eṯ-|-|H853|DirObjM
 v28 הַכְּרוּבִ֖ים|hak·kə·rū·ḇîm|the cherubim|H3742|Art | N-mp
@@ -418,7 +418,7 @@ v31 עָשָׂ֖ה|‘ā·śāh|[Solomon] constructed|H6213|V-Qal-Perf-3ms
 v31 דַּלְת֣וֹת|dal·ṯō·wṯ|doors|H1817|N-fpc
 v31 עֲצֵי־|‘ă·ṣê-|wood|H6086|N-mpc
 v31 שָׁ֑מֶן|šā·men|of olive|H8081|N-ms
-v31 הָאַ֥יִל|hā·’a·yil|vvv|H352|Art | N-ms
+v31 הָאַ֥יִל|hā·’a·yil|...|H352|Art | N-ms
 v31 מְזוּז֖וֹת|mə·zū·zō·wṯ|doorposts|H4201|N-fpc
 v31 חֲמִשִֽׁית׃|ḥă·mi·šîṯ|with five-sided|H2549|Number-ofs
 v32 וּשְׁתֵּי֮|ū·šə·tê|The double|H8147|Conj-w | Number-fdc
@@ -439,8 +439,8 @@ v32 עַל־|‘al-|...|H5921|Prep
 v32 הַכְּרוּבִ֥ים|hak·kə·rū·ḇîm|the cherubim|H3742|Art | N-mp
 v32 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v32 הַתִּֽמֹר֖וֹת|hat·ti·mō·rō·wṯ|and palm trees|H8561|Art | N-fp
-v32 אֶת־|’eṯ-||H853|DirObjM
-v32 הַזָּהָֽב׃|haz·zā·hāḇ||H2091|Art | N-ms
+v32 אֶת־|’eṯ-|-|H853|DirObjM
+v32 הַזָּהָֽב׃|haz·zā·hāḇ|-|H2091|Art | N-ms
 v33 וְכֵ֥ן|wə·ḵên|In the same way|H3651|Conj-w | Adv
 v33 עָשָׂ֛ה|‘ā·śāh|he made|H6213|V-Qal-Perf-3ms
 v33 לְפֶ֥תַח|lə·p̄e·ṯaḥ|entrance|H6607|Prep-l | N-msc

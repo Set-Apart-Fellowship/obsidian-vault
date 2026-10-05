@@ -22,7 +22,7 @@ v2 כָּל־|kāl-|anyone|H3605|N-msc
 v2 הָאִ֣ישׁ|hā·’îš|...|H376|Art | N-ms
 v2 אֲשֶֽׁר־|’ă·šer-|-|H834|Pro-r
 v2 יִהְיֶה־|yih·yeh-|had|H1961|V-Qal-Imperf-3ms
-v2 לּוֹ־|lōw-||H0|Prep | 3ms
+v2 לּוֹ־|lōw-|-|H0|Prep | 3ms
 v2 רִיב֩|rîḇ|a grievance|H7379|N-ms
 v2 לָב֨וֹא|lā·ḇō·w|to bring|H935|Prep-l | V-Qal-Inf
 v2 אֶל־|’el-|before|H413|Prep
@@ -65,7 +65,7 @@ v4 כָּל־|kāl-|then everyone|H3605|N-msc
 v4 אִ֛ישׁ|’îš|...|H376|N-ms
 v4 אֲשֶֽׁר־|’ă·šer-|with|H834|Pro-r
 v4 יִהְיֶה־|yih·yeh-|-|H1961|V-Qal-Imperf-3ms
-v4 לּוֹ־|lōw-||H0|Prep | 3ms
+v4 לּוֹ־|lōw-|-|H0|Prep | 3ms
 v4 רִ֥יב|rîḇ|a grievance|H7379|N-ms
 v4 וּמִשְׁפָּ֖ט|ū·miš·pāṭ|or dispute|H4941|Conj-w | N-ms
 v4 וְהִצְדַּקְתִּֽיו׃|wə·hiṣ·daq·tîw|and I would give him justice|H6663|Conj-w | V-Hifil-ConjPerf-1cs | 3ms
@@ -97,7 +97,7 @@ v6 אַבְשָׁל֔וֹם|’aḇ·šā·lō·wm|In this way he|H53|N-proper-m
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 לֵ֖ב|lêḇ|the hearts|H3820|N-msc
 v6 אַנְשֵׁ֥י|’an·šê|of the men|H582|N-mpc
-v6 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v6 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v7 וַיְהִ֕י|way·hî|had passed|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v7 מִקֵּ֖ץ|miq·qêṣ|After|H7093|Prep-m | N-msc
 v7 אַרְבָּעִ֣ים|’ar·bā·‘îm|four|H705|Number-cp
@@ -132,13 +132,13 @@ v8 וְעָבַדְתִּ֖י|wə·‘ā·ḇaḏ·tî|I will worship|H5647|Conj
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 יְהוָֽה׃|Yah·weh|the LORD [in Hebron]|H3068|N-proper-ms
 v9 וַיֹּֽאמֶר־|way·yō·mer-|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v9 ל֥וֹ|lōw||H0|Prep | 3ms
+v9 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v9 הַמֶּ֖לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v9 לֵ֣ךְ|lêḵ|Go|H1980|V-Qal-Imp-ms
 v9 בְּשָׁל֑וֹם|bə·šā·lō·wm|in peace|H7965|Prep-b | N-ms
 v9 וַיָּ֖קָם|way·yā·qām|So [Absalom] got up|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v9 וַיֵּ֥לֶךְ|way·yê·leḵ|and went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
-v9 חֶבְרֽוֹנָה׃פ|ḥeḇ·rō·w·nāh|to Hebron|H2275|N-proper-fs | 3fs
+v9 חֶבְרֽוֹנָה׃|ḥeḇ·rō·w·nāh|to Hebron|H2275|N-proper-fs | 3fs
 v10 וַיִּשְׁלַ֤ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v10 אַבְשָׁלוֹם֙|’aḇ·šā·lō·wm|Then Absalom|H53|N-proper-ms
 v10 מְרַגְּלִ֔ים|mə·rag·gə·lîm|spies|H7270|V-Piel-Prtcpl-mp
@@ -311,7 +311,7 @@ v20 עִמָּ֙נוּ֙|‘im·mā·nū|with us|H5973|Prep | 1cp
 v20 לָלֶ֔כֶת|lā·le·ḵeṯ|wander around|H1980|Prep-l | V-Qal-Inf
 v20 וַאֲנִ֣י|wa·’ă·nî|while I|H589|Conj-w | Pro-1cs
 v20 הוֹלֵ֔ךְ|hō·w·lêḵ|am going|H1980|V-Qal-Prtcpl-ms
-v20 עַ֥ל|‘al||H5921|Prep
+v20 עַ֥ל|‘al|-|H5921|Prep
 v20 אֲשֶׁר־|’ă·šer-|where|H834|Pro-r
 v20 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v20 הוֹלֵ֑ךְ|hō·w·lêḵ|do not know|H1980|V-Qal-Prtcpl-ms
@@ -324,7 +324,7 @@ v20 חֶ֥סֶד|ḥe·seḏ|[May the LORD show you] loving devotion|H2617|N-ms
 v20 וֶאֱמֶֽת׃|we·’ĕ·meṯ|and faithfulness|H571|Conj-w | N-fs
 v21 וַיַּ֧עַן|way·ya·‘an|answered|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v21 אִתַּ֛י|’it·tay|But Ittai|H863|N-proper-ms
-v21 אֶת־|’eṯ-||H853|DirObjM
+v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 הַמֶּ֖לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v21 וַיֹּאמַ֑ר|way·yō·mar|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v21 חַי־|ḥay-|lives|H2416|N-ms
@@ -379,7 +379,7 @@ v23 וְכָל־|wə·ḵāl|all|H3605|Conj-w | N-msc
 v23 הָעָם֙|hā·‘ām|the people|H5971|Art | N-ms
 v23 עֹבְרִ֔ים|‘ō·ḇə·rîm|also passed|H5674|V-Qal-Prtcpl-mp
 v23 עַל־|‘al-|toward|H5921|Prep
-v23 פְּנֵי־|pə·nê-||H6440|N-mpc
+v23 פְּנֵי־|pə·nê-|-|H6440|N-mpc
 v23 דֶ֖רֶךְ|ḏe·reḵ|the way|H1870|N-cs
 v23 אֶת־|’eṯ-|of|H853|DirObjM
 v23 הַמִּדְבָּֽר׃|ham·miḏ·bār|the wilderness|H4057|Art | N-ms
@@ -436,7 +436,7 @@ v26 יַֽעֲשֶׂה־|ya·‘ă·śeh-|let Him do|H6213|V-Qal-Imperf-3ms
 v26 לִּ֕י|lî|to me|H0|Prep | 1cs
 v26 כַּאֲשֶׁ֥ר|ka·’ă·šer|whatever|H834|Prep-k | Pro-r
 v26 ט֖וֹב|ṭō·wḇ|seems good|H2895|V-Qal-Perf-3ms
-v26 בְּעֵינָֽיו׃ס|bə·‘ê·nāw|to Him|H5869|Prep-b | N-cdc | 3ms
+v26 בְּעֵינָֽיו׃|bə·‘ê·nāw|to Him|H5869|Prep-b | N-cdc | 3ms
 v27 וַיֹּ֤אמֶר|way·yō·mer|also said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v27 הַמֶּ֙לֶךְ֙|ham·me·leḵ|The king|H4428|Art | N-ms
 v27 אֶל־|’el-|to|H413|Prep
@@ -482,7 +482,7 @@ v30 הַזֵּיתִ֜ים|haz·zê·ṯîm|the [Mount of] Olives|H2132|Art | N-
 v30 עֹלֶ֣ה׀|‘ō·leh|as he went up|H5927|V-Qal-Prtcpl-ms
 v30 וּבוֹכֶ֗ה|ū·ḇō·w·ḵeh|weeping|H1058|Conj-w | V-Qal-Prtcpl-ms
 v30 וְרֹ֥אשׁ|wə·rōš|His head|H7218|Conj-w | N-ms
-v30 לוֹ֙|lōw||H0|Prep | 3ms
+v30 לוֹ֙|lōw|-|H0|Prep | 3ms
 v30 חָפ֔וּי|ḥā·p̄ui|was covered|H2645|V-Qal-QalPassPrtcpl-ms
 v30 וְה֖וּא|wə·hū|and he|H1931|Conj-w | Pro-3ms
 v30 הֹלֵ֣ךְ|hō·lêḵ|was walking|H1980|V-Qal-Prtcpl-ms
@@ -499,7 +499,7 @@ v30 עָלֹ֖ה|‘ā·lōh|as they went|H5927|V-Qal-InfAbs
 v30 וּבָכֹֽה׃|ū·ḇā·ḵōh|weeping|H1058|Conj-w | V-Qal-InfAbs
 v31 וְדָוִד֙|wə·ḏā·wiḏ|David|H1732|Conj-w | N-proper-ms
 v31 הִגִּ֣יד|hig·gîḏ|Now someone told|H5046|V-Hifil-Perf-3ms
-v31 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v31 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v31 אֲחִיתֹ֥פֶל|’ă·ḥî·ṯō·p̄el|Ahithophel [is]|H302|N-proper-ms
 v31 בַּקֹּשְׁרִ֖ים|baq·qō·šə·rîm|among the conspirators|H7194|Prep-b, Art | V-Qal-Prtcpl-mp
 v31 עִם־|‘im-|with|H5973|Prep
@@ -557,7 +557,7 @@ v34 וַאֲנִ֣י|wa·’ă·nî|I|H589|Conj-w | Pro-1cs
 v34 עַבְדֶּ֑ךָ|‘aḇ·de·ḵā|will be your servant|H5650|N-msc | 2ms
 v34 וְהֵפַרְתָּ֣ה|wə·hê·p̄ar·tāh|But you can thwart|H6565|Conj-w | V-Hifil-ConjPerf-2ms
 v34 לִ֔י|lî|for me|H0|Prep | 1cs
-v34 אֵ֖ת|’êṯ||H853|DirObjM
+v34 אֵ֖ת|’êṯ|-|H853|DirObjM
 v34 עֲצַ֥ת|‘ă·ṣaṯ|the counsel|H6098|N-fsc
 v34 אֲחִיתֹֽפֶל׃|’ă·ḥî·ṯō·p̄el|of Ahithophel|H302|N-proper-ms
 v35 וַהֲל֤וֹא|wa·hă·lō·w|Will not|H3808|Conj-w, Pg | Adv-NegPrt

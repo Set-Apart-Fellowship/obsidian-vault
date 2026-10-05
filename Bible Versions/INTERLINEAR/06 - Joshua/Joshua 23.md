@@ -47,7 +47,7 @@ v3 הַנִּלְחָ֥ם|han·nil·ḥām|who fought|H3898|Art | V-Nifal-Prtcpl
 v3 לָכֶֽם׃|lā·ḵem|for you|H0|Prep | 2mp
 v4 רְאוּ֩|rə·’ū|See|H7200|V-Qal-Imp-mp
 v4 הִפַּ֨לְתִּי|hip·pal·tî|I have allotted|H5307|V-Hifil-Perf-1cs
-v4 לָכֶ֜ם|lā·ḵem||H0|Prep | 2mp
+v4 לָכֶ֜ם|lā·ḵem|-|H0|Prep | 2mp
 v4 אֶֽת־|’eṯ-|-|H853|DirObjM
 v4 הַ֠גּוֹיִם|hag·gō·w·yim|nations|H1471|Art | N-mp
 v4 הַנִּשְׁאָרִ֥ים|han·niš·’ā·rîm|remaining|H7604|Art | V-Nifal-Prtcpl-mp
@@ -137,7 +137,7 @@ v9 בִּפְנֵיכֶ֔ם|bip̄·nê·ḵem|against you|H6440|Prep-b | N-mpc |
 v9 עַ֖ד|‘aḏ|and to|H5704|Prep
 v9 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
 v9 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
-v10 אִישׁ־|’îš-|vvv|H376|N-ms
+v10 אִישׁ־|’îš-|...|H376|N-ms
 v10 אֶחָ֥ד|’e·ḥāḏ|One|H259|Number-ms
 v10 מִכֶּ֖ם|mik·kem|of you|H0|Prep | 2mp
 v10 יִרְדָּף־|yir·dāp̄-|can put|H7291|V-Qal-Imperf-3ms
@@ -150,7 +150,7 @@ v10 הַנִּלְחָ֣ם|han·nil·ḥām|fights|H3898|Art | V-Nifal-Prtcpl-ms
 v10 לָכֶ֔ם|lā·ḵem|for you|H0|Prep | 2mp
 v10 כַּאֲשֶׁ֖ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v10 דִּבֶּ֥ר|dib·ber|He promised|H1696|V-Piel-Perf-3ms
-v10 לָכֶֽם׃|lā·ḵem||H0|Prep | 2mp
+v10 לָכֶֽם׃|lā·ḵem|-|H0|Prep | 2mp
 v11 וְנִשְׁמַרְתֶּ֥ם|wə·niš·mar·tem|Therefore watch|H8104|Conj-w | V-Nifal-ConjPerf-2mp
 v11 מְאֹ֖ד|mə·’ōḏ|carefully|H3966|Adv
 v11 לְנַפְשֹֽׁתֵיכֶ֑ם|lə·nap̄·šō·ṯê·ḵem|yourselves|H5315|Prep-l | N-fpc | 2mp
@@ -170,11 +170,11 @@ v12 הַנִּשְׁאָרִ֥ים|han·niš·’ā·rîm|that remain|H7604|Art 
 v12 הָאֵ֖לֶּה|hā·’êl·leh|...|H428|Art | Pro-cp
 v12 אִתְּכֶ֑ם|’it·tə·ḵem|among you|H854|Prep | 2mp
 v12 וְהִֽתְחַתַּנְתֶּ֥ם|wə·hiṯ·ḥat·tan·tem|and if you intermarry|H2859|Conj-w | V-Hitpael-ConjPerf-2mp
-v12 בָּהֶ֛ם|bā·hem||H0|Prep | 3mp
+v12 בָּהֶ֛ם|bā·hem|-|H0|Prep | 3mp
 v12 וּבָאתֶ֥ם|ū·ḇā·ṯem|and associate|H935|Conj-w | V-Qal-ConjPerf-2mp
-v12 בָּהֶ֖ם|bā·hem||H0|Prep | 3mp
+v12 בָּהֶ֖ם|bā·hem|-|H0|Prep | 3mp
 v12 וְהֵ֥ם|wə·hêm|with them|H1992|Conj-w | Pro-3mp
-v12 בָּכֶֽם׃|bā·ḵem||H0|Prep | 2mp
+v12 בָּכֶֽם׃|bā·ḵem|-|H0|Prep | 2mp
 v13 יָד֙וֹעַ֙|yā·ḏō·w·a‘|know for sure|H3045|V-Qal-InfAbs
 v13 תֵּֽדְע֔וּ|tê·ḏə·‘ū|...|H3045|V-Qal-Imperf-2mp
 v13 כִּי֩|kî|that|H3588|Conj
@@ -221,9 +221,9 @@ v14 נַפְשְׁכֶ֗ם|nap̄·šə·ḵem|soul|H5315|N-fsc | 2mp
 v14 כִּ֣י|kî|that|H3588|Conj
 v14 לֹֽא־|lō-|not|H3808|Adv-NegPrt
 v14 נָפַל֩|nā·p̄al|has failed|H5307|V-Qal-Perf-3ms
-v14 דָּבָ֨ר|dā·ḇār||H1697|N-ms
+v14 דָּבָ֨ר|dā·ḇār|-|H1697|N-ms
 v14 אֶחָ֜ד|’e·ḥāḏ|one|H259|Number-ms
-v14 מִכֹּ֣ל׀|mik·kōl||H3605|Prep-m | N-msc
+v14 מִכֹּ֣ל׀|mik·kōl|-|H3605|Prep-m | N-msc
 v14 הַדְּבָרִ֣ים|had·də·ḇā·rîm|promises|H1697|Art | N-mp
 v14 הַטּוֹבִ֗ים|haṭ·ṭō·w·ḇîm|of the good|H2896|Art | Adj-mp
 v14 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
@@ -236,7 +236,7 @@ v14 בָּ֣אוּ|bā·’ū|was fulfilled|H935|V-Qal-Perf-3cp
 v14 לָכֶ֔ם|lā·ḵem|for you|H0|Prep | 2mp
 v14 לֹֽא־|lō-|not|H3808|Adv-NegPrt
 v14 נָפַ֥ל|nā·p̄al|has failed|H5307|V-Qal-Perf-3ms
-v14 מִמֶּ֖נּוּ|mim·men·nū||H4480|Prep | 3ms
+v14 מִמֶּ֖נּוּ|mim·men·nū|-|H4480|Prep | 3ms
 v14 דָּבָ֥ר|dā·ḇār|promise|H1697|N-ms
 v14 אֶחָֽד׃|’e·ḥāḏ|one|H259|Number-ms
 v15 וְהָיָ֗ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
@@ -257,7 +257,7 @@ v15 יְהוָ֜ה|Yah·weh|the LORD|H3068|N-proper-ms
 v15 עֲלֵיכֶ֗ם|‘ă·lê·ḵem|upon you|H5921|Prep | 2mp
 v15 אֵ֚ת|’êṯ|-|H853|DirObjM
 v15 כָּל־|kāl-|-|H3605|N-msc
-v15 הַדָּבָ֣ר|had·dā·ḇār||H1697|Art | N-ms
+v15 הַדָּבָ֣ר|had·dā·ḇār|-|H1697|Art | N-ms
 v15 הָרָ֔ע|hā·rā‘|the calamity He has threatened|H7451|Art | Adj-ms
 v15 עַד־|‘aḏ-|until|H5704|Prep
 v15 הַשְׁמִיד֣וֹ|haš·mî·ḏōw|He has destroyed|H8045|V-Hifil-Inf | 3ms
@@ -296,4 +296,4 @@ v16 הָאָ֣רֶץ|hā·’ā·reṣ|land|H776|Art | N-fs
 v16 הַטּוֹבָ֔ה|haṭ·ṭō·w·ḇāh|this good|H2896|Art | Adj-fs
 v16 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v16 נָתַ֥ן|nā·ṯan|He has given|H5414|V-Qal-Perf-3ms
-v16 לָכֶֽם׃פ|lā·ḵem|you|H0|Prep | 2mp
+v16 לָכֶֽם׃|lā·ḵem|you|H0|Prep | 2mp

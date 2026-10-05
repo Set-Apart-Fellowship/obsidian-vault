@@ -35,7 +35,7 @@ v5 נִפְרְד֞וּ|nip̄·rə·ḏū|separated|H6504|V-Nifal-Perf-3cp
 v5 אִיֵּ֤י|’î·yê|the maritime|H339|N-mpc
 v5 הַגּוֹיִם֙|hag·gō·w·yim|peoples|H1471|Art | N-mp
 v5 בְּאַרְצֹתָ֔ם|bə·’ar·ṣō·ṯām|into their territories|H776|Prep-b | N-fpc | 3mp
-v5 אִ֖ישׁ|’îš|vvv|H376|N-ms
+v5 אִ֖ישׁ|’îš|...|H376|N-ms
 v5 לִלְשֹׁנ֑וֹ|lil·šō·nōw|according to their languages|H3956|Prep-l | N-csc | 3ms
 v5 לְמִשְׁפְּחֹתָ֖ם|lə·miš·pə·ḥō·ṯām|by clans|H4940|Prep-l | N-fpc | 3mp
 v5 בְּגוֹיֵהֶֽם׃|bə·ḡō·w·yê·hem|within their nations|H1471|Prep-b | N-mpc | 3mp
@@ -129,7 +129,7 @@ v14 יָצְא֥וּ|yā·ṣə·’ū|came|H3318|V-Qal-Perf-3cp
 v14 מִשָּׁ֛ם|miš·šām|from|H8033|Prep-m | Adv
 v14 פְּלִשְׁתִּ֖ים|pə·liš·tîm|the Philistines|H6430|N-proper-mp
 v14 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
-v14 כַּפְתֹּרִֽים׃ס|kap̄·tō·rîm|the Caphtorites|H3732|N-proper-mp
+v14 כַּפְתֹּרִֽים׃|kap̄·tō·rîm|the Caphtorites|H3732|N-proper-mp
 v15 וּכְנַ֗עַן|ū·ḵə·na·‘an|And Canaan|H3667|Conj-w | N-proper-ms
 v15 יָלַ֛ד|yā·laḏ|was the father of|H3205|V-Qal-Perf-3ms
 v15 אֶת־|’eṯ-|-|H853|DirObjM
@@ -180,7 +180,7 @@ v20 חָ֔ם|ḥām|of Ham|H2526|N-proper-ms
 v20 לְמִשְׁפְּחֹתָ֖ם|lə·miš·pə·ḥō·ṯām|according to their clans|H4940|Prep-l | N-fpc | 3mp
 v20 לִלְשֹֽׁנֹתָ֑ם|lil·šō·nō·ṯām|languages|H3956|Prep-l | N-cpc | 3mp
 v20 בְּאַרְצֹתָ֖ם|bə·’ar·ṣō·ṯām|lands|H776|Prep-b | N-fpc | 3mp
-v20 בְּגוֹיֵהֶֽם׃ס|bə·ḡō·w·yê·hem|and nations|H1471|Prep-b | N-mpc | 3mp
+v20 בְּגוֹיֵהֶֽם׃|bə·ḡō·w·yê·hem|and nations|H1471|Prep-b | N-mpc | 3mp
 v21 וּלְשֵׁ֥ם|ū·lə·šêm|to Shem|H8035|Conj-w, Prep-l | N-proper-ms
 v21 יֻלַּ֖ד|yul·laḏ|And sons were also born|H3205|V-QalPass-Perf-3ms
 v21 גַּם־|gam-|...|H1571|Conj
@@ -284,4 +284,4 @@ v32 נִפְרְד֧וּ|nip̄·rə·ḏū|spread out|H6504|V-Nifal-Perf-3cp
 v32 הַגּוֹיִ֛ם|hag·gō·w·yim|the nations|H1471|Art | N-mp
 v32 בָּאָ֖רֶץ|bā·’ā·reṣ|of the earth|H776|Prep-b, Art | N-fs
 v32 אַחַ֥ר|’a·ḥar|after|H310|Adv
-v32 הַמַּבּֽוּל׃פ|ham·mab·būl|the flood|H3999|Art | N-ms
+v32 הַמַּבּֽוּל׃|ham·mab·būl|the flood|H3999|Art | N-ms

@@ -38,7 +38,7 @@ v3 הַהַרְמ֖וֹנָה|ha·har·mō·w·nāh|toward Harmon|H2038|Art | N-
 v3 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v3 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v4 בֹּ֤אוּ|bō·’ū|Go|H935|V-Qal-Imp-mp
-v4 בֵֽית־|ḇêṯ-|vvv|H1008|Prep
+v4 בֵֽית־|ḇêṯ-|...|H1008|Prep
 v4 אֵל֙|’êl|to Bethel|H1008|N-proper-fs
 v4 וּפִשְׁע֔וּ|ū·p̄iš·‘ū|and transgress|H6586|Conj-w | V-Qal-Imp-mp
 v4 הַגִּלְגָּ֖ל|hag·gil·gāl|at Gilgal|H1537|Art | N-proper-fs
@@ -67,7 +67,7 @@ v5 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v6 וְגַם־|wə·ḡam-|-|H1571|Conj
 v6 אֲנִי֩|’ă·nî|I|H589|Pro-1cs
 v6 נָתַ֨תִּי|nā·ṯat·tî|afflicted|H5414|V-Qal-Perf-1cs
-v6 לָכֶ֜ם|lā·ḵem|vvv|H0|Prep | 2mp
+v6 לָכֶ֜ם|lā·ḵem|...|H0|Prep | 2mp
 v6 נִקְי֤וֹן|niq·yō·wn|with cleanness|H5356|N-msc
 v6 שִׁנַּ֙יִם֙|šin·na·yim|of teeth|H8127|N-cd
 v6 בְּכָל־|bə·ḵāl|all|H3605|Prep-b | N-msc
@@ -110,12 +110,12 @@ v7 תַמְטִ֥יר|ṯam·ṭîr|rain|H4305|V-Hifil-Imperf-3fs
 v7 עָלֶ֖יהָ|‘ā·le·hā|...|H5921|Prep | 3fs
 v7 תִּיבָֽשׁ׃|tî·ḇāš|withered|H3001|V-Qal-Imperf-3fs
 v8 וְנָע֡וּ|wə·nā·‘ū|People staggered|H5128|Conj-w | V-Qal-ConjPerf-3cp
-v8 שְׁתַּיִם֩|šə·ta·yim|vvv|H8147|Number-fd
-v8 שָׁלֹ֨שׁ|šā·lōš|vvv|H7969|Number-fs
+v8 שְׁתַּיִם֩|šə·ta·yim|...|H8147|Number-fd
+v8 שָׁלֹ֨שׁ|šā·lōš|...|H7969|Number-fs
 v8 עָרִ֜ים|‘ā·rîm|from city|H5892|N-fp
 v8 אֶל־|’el-|to|H413|Prep
 v8 עִ֥יר|‘îr|city|H5892|N-fs
-v8 אַחַ֛ת|’a·ḥaṯ|vvv|H259|Number-fs
+v8 אַחַ֛ת|’a·ḥaṯ|...|H259|Number-fs
 v8 לִשְׁתּ֥וֹת|liš·tō·wṯ|to drink|H8354|Prep-l | V-Qal-Inf
 v8 מַ֖יִם|ma·yim|for water|H4325|N-mp
 v8 וְלֹ֣א|wə·lō|but they were not|H3808|Conj-w | Adv-NegPrt
@@ -140,7 +140,7 @@ v9 וְלֹֽא־|wə·lō-|yet you did not|H3808|Conj-w | Adv-NegPrt
 v9 שַׁבְתֶּ֥ם|šaḇ·tem|return|H7725|V-Qal-Perf-2mp
 v9 עָדַ֖י|‘ā·ḏay|to Me|H5704|Prep | 1cs
 v9 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v9 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v9 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v10 שִׁלַּ֨חְתִּי|šil·laḥ·tî|I sent|H7971|V-Piel-Perf-1cs
 v10 בָכֶ֥ם|ḇā·ḵem|among you|H0|Prep | 2mp
 v10 דֶּ֙בֶר֙|de·ḇer|plagues|H1698|N-ms
@@ -162,7 +162,7 @@ v10 עָדַ֖י|‘ā·ḏay|to Me|H5704|Prep | 1cs
 v10 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v10 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v11 הָפַ֣כְתִּי|hā·p̄aḵ·tî|Some of you I overthrew|H2015|V-Qal-Perf-1cs
-v11 בָכֶ֗ם|ḇā·ḵem||H0|Prep | 2mp
+v11 בָכֶ֗ם|ḇā·ḵem|-|H0|Prep | 2mp
 v11 כְּמַהְפֵּכַ֤ת|kə·mah·pê·ḵaṯ|as I overthrew|H4114|Prep-k | N-fsc
 v11 אֱלֹהִים֙|’ĕ·lō·hîm|...|H430|N-mp
 v11 אֶת־|’eṯ-|-|H853|DirObjM
@@ -177,7 +177,7 @@ v11 וְלֹֽא־|wə·lō-|yet you did not|H3808|Conj-w | Adv-NegPrt
 v11 שַׁבְתֶּ֥ם|šaḇ·tem|return|H7725|V-Qal-Perf-2mp
 v11 עָדַ֖י|‘ā·ḏay|to Me|H5704|Prep | 1cs
 v11 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v11 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v11 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v12 לָכֵ֕ן|lā·ḵên|Therefore|H3651|Adv
 v12 כֹּ֥ה|kōh|that is what|H3541|Adv
 v12 אֶעֱשֶׂה־|’e·‘ĕ·śeh-|I will do|H6213|V-Qal-Imperf-1cs
@@ -212,4 +212,4 @@ v13 אָ֑רֶץ|’ā·reṣ|of the earth|H776|N-fs
 v13 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v13 אֱלֹהֵֽי־|’ĕ·lō·hê-|the God|H430|N-mpc
 v13 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
-v13 שְׁמֽוֹ׃ס|šə·mōw|is His name|H8034|N-msc | 3ms
+v13 שְׁמֽוֹ׃|šə·mōw|is His name|H8034|N-msc | 3ms

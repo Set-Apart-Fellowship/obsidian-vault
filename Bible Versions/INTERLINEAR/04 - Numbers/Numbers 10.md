@@ -4,7 +4,7 @@ v1 אֶל־|’el-|to|H413|Prep
 v1 מֹשֶׁ֥ה|mō·šeh|Moses|H4872|N-proper-ms
 v1 לֵּאמֹֽר׃|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v2 עֲשֵׂ֣ה|‘ă·śêh|Make|H6213|V-Qal-Imp-ms
-v2 לְךָ֗|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֗|lə·ḵā|-|H0|Prep | 2ms
 v2 שְׁתֵּי֙|šə·tê|two|H8147|Number-fdc
 v2 חֲצֽוֹצְרֹ֣ת|ḥă·ṣō·wṣ·rōṯ|trumpets|H2689|N-fpc
 v2 כֶּ֔סֶף|ke·sep̄|silver|H3701|N-ms
@@ -12,14 +12,14 @@ v2 מִקְשָׁ֖ה|miq·šāh|of hammered|H4749|N-fs
 v2 תַּעֲשֶׂ֣ה|ta·‘ă·śeh|...|H6213|V-Qal-Imperf-2ms
 v2 אֹתָ֑ם|’ō·ṯām|-|H853|DirObjM | 3mp
 v2 וְהָי֤וּ|wə·hā·yū|to be used|H1961|Conj-w | V-Qal-ConjPerf-3cp
-v2 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v2 לְמִקְרָ֣א|lə·miq·rā|for calling|H4744|Prep-l | N-msc
 v2 הָֽעֵדָ֔ה|hā·‘ê·ḏāh|the congregation|H5712|Art | N-fs
 v2 וּלְמַסַּ֖ע|ū·lə·mas·sa‘|set out|H4550|Conj-w, Prep-l | N-ms
 v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 הַֽמַּחֲנֽוֹת׃|ham·ma·ḥă·nō·wṯ|and for having the camps|H4264|Art | N-cp
 v3 וְתָקְע֖וּ|wə·ṯā·qə·‘ū|When both are sounded|H8628|Conj-w | V-Qal-ConjPerf-3cp
-v3 בָּהֵ֑ן|bā·hên||H0|Prep | 3fp
+v3 בָּהֵ֑ן|bā·hên|-|H0|Prep | 3fp
 v3 וְנֽוֹעֲד֤וּ|wə·nō·w·‘ă·ḏū|is to assemble|H3259|Conj-w | V-Nifal-ConjPerf-3cp
 v3 אֵלֶ֙יךָ֙|’ê·le·ḵā|before|H413|Prep | 2ms
 v3 כָּל־|kāl-|the whole|H3605|N-msc
@@ -104,7 +104,7 @@ v10 לִפְנֵ֣י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v10 אֱלֹֽהֵיכֶ֔ם|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
 v10 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v10 יְהוָ֥ה|Yah·weh|am the LORD|H3068|N-proper-ms
-v10 אֱלֹהֵיכֶֽם׃פ|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
+v10 אֱלֹהֵיכֶֽם׃|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
 v11 וַיְהִ֞י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v11 בַּשָּׁנָ֧ה|baš·šā·nāh|year|H8141|Prep-b, Art | N-fs
 v11 הַשֵּׁנִ֛ית|haš·šê·nîṯ|of the second|H8145|Art | Number-ofs
@@ -152,7 +152,7 @@ v15 מַטֵּ֖ה|maṭ·ṭêh|of the tribe|H4294|N-msc
 v15 בְּנֵ֣י|bə·nê|son|H1121|N-mpc
 v15 יִשָׂשכָ֑ר|yi·śā·š·ḵār|of Issachar|H3485|N-proper-ms
 v15 נְתַנְאֵ֖ל|nə·ṯan·’êl|Nethanel|H5417|N-proper-ms
-v15 בֶּן־|ben-|vvv|H1121|N-msc
+v15 בֶּן־|ben-|...|H1121|N-msc
 v15 צוּעָֽר׃|ṣū·‘ār|of Zuar|H6686|N-proper-ms
 v16 וְעַ֨ל־|wə·‘al-|was over|H5921|Conj-w | Prep
 v16 צְבָ֔א|ṣə·ḇā|the division|H6635|N-csc
@@ -160,7 +160,7 @@ v16 מַטֵּ֖ה|maṭ·ṭêh|of the tribe|H4294|N-msc
 v16 בְּנֵ֣י|bə·nê|son|H1121|N-mpc
 v16 זְבוּלֻ֑ן|zə·ḇū·lun|of Zebulun|H2074|N-proper-ms
 v16 אֱלִיאָ֖ב|’ĕ·lî·’āḇ|and Eliab|H446|N-proper-ms
-v16 בֶּן־|ben-|vvv|H1121|N-msc
+v16 בֶּן־|ben-|...|H1121|N-msc
 v16 חֵלֽוֹן׃|ḥê·lō·wn|of Helon|H2497|N-proper-ms
 v17 וְהוּרַ֖ד|wə·hū·raḏ|was taken down|H3381|Conj-w | V-Hofal-ConjPerf-3ms
 v17 הַמִּשְׁכָּ֑ן|ham·miš·kān|Then the tabernacle|H4908|Art | N-ms
@@ -170,7 +170,7 @@ v17 גֵרְשׁוֹן֙|ḡê·rə·šō·wn|...|H1648|N-proper-ms
 v17 וּבְנֵ֣י|ū·ḇə·nê|and the Merarites|H1121|Conj-w | N-mpc
 v17 מְרָרִ֔י|mə·rā·rî|...|H4847|N-proper-ms
 v17 נֹשְׂאֵ֖י|nō·śə·’ê|transporting|H5375|V-Qal-Prtcpl-mpc
-v17 הַמִּשְׁכָּֽן׃ס|ham·miš·kān|[it]|H4908|Art | N-ms
+v17 הַמִּשְׁכָּֽן׃|ham·miš·kān|[it]|H4908|Art | N-ms
 v18 וְנָסַ֗ע|wə·nā·sa‘|set out|H5265|Conj-w | V-Qal-ConjPerf-3ms
 v18 דֶּ֛גֶל|de·ḡel|under their standard|H1714|N-msc
 v18 מַחֲנֵ֥ה|ma·ḥă·nêh|of the camp|H4264|N-csc
@@ -187,8 +187,8 @@ v19 מַטֵּ֖ה|maṭ·ṭêh|of the tribe|H4294|N-msc
 v19 בְּנֵ֣י|bə·nê|son|H1121|N-mpc
 v19 שִׁמְע֑וֹן|šim·‘ō·wn|of Simeon|H8095|N-proper-ms
 v19 שְׁלֻֽמִיאֵ֖ל|šə·lu·mî·’êl|Shelumiel|H8017|N-proper-ms
-v19 בֶּן־|ben-|vvv|H1121|N-msc
-v19 צוּרִֽי|ṣū·rî|vvv|H6701|
+v19 בֶּן־|ben-|...|H1121|N-msc
+v19 צוּרִֽי|ṣū·rî|...|H6701|
 v19 שַׁדָּֽי׃|šad·dāy|of Zurishaddai|H6701|N-proper-ms
 v20 וְעַל־|wə·‘al-|was over|H5921|Conj-w | Prep
 v20 צְבָ֖א|ṣə·ḇā|the division|H6635|N-csc
@@ -206,7 +206,7 @@ v21 וְהֵקִ֥ימוּ|wə·hê·qî·mū|was to be set up|H6965|Conj-w | V-
 v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 הַמִּשְׁכָּ֖ן|ham·miš·kān|the tabernacle|H4908|Art | N-ms
 v21 עַד־|‘aḏ-|before|H5704|Prep
-v21 בֹּאָֽם׃ס|bō·’ām|their arrival|H935|V-Qal-Inf | 3mp
+v21 בֹּאָֽם׃|bō·’ām|their arrival|H935|V-Qal-Inf | 3mp
 v22 וְנָסַ֗ע|wə·nā·sa‘|set out|H5265|Conj-w | V-Qal-ConjPerf-3ms
 v22 דֶּ֛גֶל|de·ḡel|under their standard|H1714|N-msc
 v22 מַחֲנֵ֥ה|ma·ḥă·nêh|of the camp|H4264|N-csc
@@ -234,7 +234,7 @@ v24 בְּנֵ֣י|bə·nê|son|H1121|N-mpc
 v24 בִנְיָמִ֑ן|ḇin·yā·min|of Benjamin|H1144|N-proper-ms
 v24 אֲבִידָ֖ן|’ă·ḇî·ḏān|and Abidan|H27|N-proper-ms
 v24 בֶּן־|ben-|...|H1121|N-msc
-v24 גִּדְעוֹנִֽי׃ס|giḏ·‘ō·w·nî|of Gideoni|H1441|N-proper-ms
+v24 גִּדְעוֹנִֽי׃|giḏ·‘ō·w·nî|of Gideoni|H1441|N-proper-ms
 v25 וְנָסַ֗ע|wə·nā·sa‘|set out|H5265|Conj-w | V-Qal-ConjPerf-3ms
 v25 דֶּ֚גֶל|de·ḡel|under their standard|H1714|N-msc
 v25 מַחֲנֵ֣ה|ma·ḥă·nêh|of the camp|H4264|N-csc
@@ -270,7 +270,7 @@ v28 מַסְעֵ֥י|mas·‘ê|was the order of march|H4550|N-mpc
 v28 בְנֵֽי־|ḇə·nê-|for the Israelite|H1121|N-mpc
 v28 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v28 לְצִבְאֹתָ֑ם|lə·ṣiḇ·’ō·ṯām|divisions|H6635|Prep-l | N-cpc | 3mp
-v28 וַיִּסָּֽעוּ׃ס|way·yis·sā·‘ū|as they set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
+v28 וַיִּסָּֽעוּ׃|way·yis·sā·‘ū|as they set out|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v29 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v29 מֹשֶׁ֗ה|mō·šeh|Then Moses|H4872|N-proper-ms
 v29 לְ֠חֹבָב|lə·ḥō·ḇāḇ|to Hobab|H2246|Prep-l | N-proper-ms
@@ -292,7 +292,7 @@ v29 לָכֶ֑ם|lā·ḵem|to you|H0|Prep | 2mp
 v29 לְכָ֤ה|lə·ḵāh|Come|H1980|V-Qal-Imp-ms | 3fs
 v29 אִתָּ֙נוּ֙|’it·tā·nū|with us|H854|Prep | 1cp
 v29 וְהֵטַ֣בְנוּ|wə·hê·ṭaḇ·nū|and we will treat you well|H3190|Conj-w | V-Hifil-ConjPerf-1cp
-v29 לָ֔ךְ|lāḵ||H0|Prep | 2fs
+v29 לָ֔ךְ|lāḵ|-|H0|Prep | 2fs
 v29 כִּֽי־|kî-|for|H3588|Conj
 v29 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v29 דִּבֶּר־|dib·ber-|has promised|H1696|V-Piel-Perf-3ms
@@ -360,7 +360,7 @@ v34 עֲלֵיהֶ֖ם|‘ă·lê·hem|was over them|H5921|Prep | 3mp
 v34 יוֹמָ֑ם|yō·w·mām|by day|H3119|Adv
 v34 בְּנָסְעָ֖ם|bə·nā·sə·‘ām|when they set out|H5265|Prep-b | V-Qal-Inf | 3mp
 v34 מִן־|min-|from|H4480|Prep
-v34 הַֽמַּחֲנֶֽה׃׆ס|ham·ma·ḥă·nɛ·hs|the camp|H4264|Art | N-cs
+v34 הַֽמַּחֲנֶֽה׃׆|ham·ma·ḥă·nɛ·h|the camp|H4264|Art | N-cs
 v35 וַיְהִ֛י|way·hî|Whenever|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v35 בִּנְסֹ֥עַ|bin·sō·a‘|set out|H5265|Prep-b | V-Qal-Inf
 v35 הָאָרֹ֖ן|hā·’ā·rōn|the ark|H727|Art | N-cs
@@ -379,4 +379,4 @@ v36 שׁוּבָ֣ה|šū·ḇāh|Return|H7725|V-Qal-Imp-ms | 3fs
 v36 יְהוָ֔ה|Yah·weh|O LORD|H3068|N-proper-ms
 v36 רִֽבְב֖וֹת|riḇ·ḇō·wṯ|to the countless|H7233|Number-fpc
 v36 אַלְפֵ֥י|’al·p̄ê|thousands|H505|Number-mpc
-v36 יִשְׂרָאֵֽל׃׆ס|yiś·rå̄·ʾē·ls|of Israel|H3478|N-proper-ms
+v36 יִשְׂרָאֵֽל׃׆|yiś·rå̄·ʾē·l|of Israel|H3478|N-proper-ms

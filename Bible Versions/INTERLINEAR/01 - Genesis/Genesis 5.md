@@ -20,7 +20,7 @@ v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 שְׁמָם֙|šə·mām|them|H8034|N-msc | 3mp
 v2 אָדָ֔ם|’ā·ḏām|man|H120|N-ms
 v2 בְּי֖וֹם|bə·yō·wm|And in the day|H3117|Prep-b | N-msc
-v2 הִבָּֽרְאָֽם׃ס|hib·bā·rə·’ām|they were created|H1254|V-Nifal-Inf | 3mp
+v2 הִבָּֽרְאָֽם׃|hib·bā·rə·’ām|they were created|H1254|V-Nifal-Inf | 3mp
 v3 וַֽיְחִ֣י|way·ḥî|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v3 אָדָ֗ם|’ā·ḏām|When Adam|H121|N-proper-ms
 v3 שְׁלֹשִׁ֤ים|šə·lō·šîm|130|H7970|Number-cp
@@ -57,7 +57,7 @@ v5 מֵאוֹת֙|mê·’ō·wṯ|...|H3967|Number-fp
 v5 שָׁנָ֔ה|šā·nāh|years|H8141|N-fs
 v5 וּשְׁלֹשִׁ֖ים|ū·šə·lō·šîm|...|H7970|Conj-w | Number-cp
 v5 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
-v5 וַיָּמֹֽת׃ס|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v5 וַיָּמֹֽת׃|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v6 וַֽיְחִי־|way·ḥî-|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v6 שֵׁ֕ת|šêṯ|When Seth|H8352|N-proper-ms
 v6 חָמֵ֥שׁ|ḥā·mêš|...|H2568|Number-fs
@@ -91,7 +91,7 @@ v8 שָׁנָ֔ה|šā·nāh|...|H8141|N-fs
 v8 וּתְשַׁ֥ע|ū·ṯə·ša‘|912|H8672|Conj-w | Number-fsc
 v8 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v8 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
-v8 וַיָּמֹֽת׃ס|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v8 וַיָּמֹֽת׃|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v9 וַֽיְחִ֥י|way·ḥî|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v9 אֱנ֖וֹשׁ|’ĕ·nō·wōš|When Enosh|H583|N-proper-ms
 v9 תִּשְׁעִ֣ים|tiš·‘îm|90|H8673|Number-cp
@@ -123,7 +123,7 @@ v11 שָׁנִ֔ים|šā·nîm|...|H8141|N-fp
 v11 וּתְשַׁ֥ע|ū·ṯə·ša‘|905|H8672|Conj-w | Number-fsc
 v11 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v11 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
-v11 וַיָּמֹֽת׃ס|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v11 וַיָּמֹֽת׃|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v12 וַֽיְחִ֥י|way·ḥî|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v12 קֵינָ֖ן|qê·nān|When Kenan|H7018|N-proper-ms
 v12 שִׁבְעִ֣ים|šiḇ·‘îm|70|H7657|Number-cp
@@ -154,7 +154,7 @@ v14 שָׁנִ֔ים|šā·nîm|...|H8141|N-fp
 v14 וּתְשַׁ֥ע|ū·ṯə·ša‘|910|H8672|Conj-w | Number-fsc
 v14 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v14 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
-v14 וַיָּמֹֽת׃ס|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v14 וַיָּמֹֽת׃|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v15 וַֽיְחִ֣י|way·ḥî|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v15 מַֽהֲלַלְאֵ֔ל|ma·hă·lal·’êl|When Mahalalel|H4111|N-proper-ms
 v15 חָמֵ֥שׁ|ḥā·mêš|...|H2568|Number-fs
@@ -188,7 +188,7 @@ v17 שָׁנָ֔ה|šā·nāh|...|H8141|N-fs
 v17 וּשְׁמֹנֶ֥ה|ū·šə·mō·neh|895|H8083|Conj-w | Number-fs
 v17 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v17 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
-v17 וַיָּמֹֽת׃ס|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v17 וַיָּמֹֽת׃|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v18 וַֽיְחִי־|way·ḥî-|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v18 יֶ֕רֶד|ye·reḏ|When Jared|H3382|N-proper-ms
 v18 שְׁתַּ֧יִם|šə·ta·yim|...|H8147|Number-fd
@@ -221,7 +221,7 @@ v20 שָׁנָ֔ה|šā·nāh|...|H8141|N-fs
 v20 וּתְשַׁ֥ע|ū·ṯə·ša‘|962|H8672|Conj-w | Number-fsc
 v20 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v20 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
-v20 וַיָּמֹֽת׃פ|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v20 וַיָּמֹֽת׃|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v21 וַֽיְחִ֣י|way·ḥî|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v21 חֲנ֔וֹךְ|ḥă·nō·wḵ|When Enoch|H2585|N-proper-ms
 v21 חָמֵ֥שׁ|ḥā·mêš|...|H2568|Number-fs
@@ -262,7 +262,7 @@ v24 וְאֵינֶ֕נּוּ|wə·’ê·nen·nū|and then [he was] no more|H369
 v24 כִּֽי־|kî-|because|H3588|Conj
 v24 לָקַ֥ח|lā·qaḥ|had taken him away|H3947|V-Qal-Perf-3ms
 v24 אֹת֖וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
-v24 אֱלֹהִֽים׃פ|’ĕ·lō·hîm|God|H430|N-mp
+v24 אֱלֹהִֽים׃|’ĕ·lō·hîm|God|H430|N-mp
 v25 וַיְחִ֣י|way·ḥî|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v25 מְתוּשֶׁ֔לַח|mə·ṯū·še·laḥ|When Methuselah|H4968|N-proper-ms
 v25 שֶׁ֧בַע|še·ḇa‘|...|H7651|Number-fs
@@ -298,7 +298,7 @@ v27 שָׁנָ֔ה|šā·nāh|...|H8141|N-fs
 v27 וּתְשַׁ֥ע|ū·ṯə·ša‘|...|H8672|Conj-w | Number-fsc
 v27 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v27 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
-v27 וַיָּמֹֽת׃פ|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v27 וַיָּמֹֽת׃|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v28 וַֽיְחִי־|way·ḥî-|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v28 לֶ֕מֶךְ|le·meḵ|When Lamech|H3929|N-proper-ms
 v28 שְׁתַּ֧יִם|šə·ta·yim|...|H8147|Number-fd
@@ -348,7 +348,7 @@ v31 שָׁנָ֔ה|šā·nāh|...|H8141|N-fs
 v31 וּשְׁבַ֥ע|ū·šə·ḇa‘|...|H7651|Conj-w | Number-fsc
 v31 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v31 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
-v31 וַיָּמֹֽת׃ס|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v31 וַיָּמֹֽת׃|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v32 וַֽיְהִי־|way·hî-|was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v32 נֹ֕חַ|nō·aḥ|Noah|H5146|N-proper-ms
 v32 בֶּן־|ben-|old|H1121|N-msc

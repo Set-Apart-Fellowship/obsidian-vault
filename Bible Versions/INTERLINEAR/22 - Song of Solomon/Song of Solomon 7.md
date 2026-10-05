@@ -36,7 +36,7 @@ v4 בְּרֵכ֣וֹת|bə·rê·ḵō·wṯ|are like the pools|H1295|N-fp
 v4 בְּחֶשְׁבּ֗וֹן|bə·ḥeš·bō·wn|of Heshbon|H2809|Prep-b | N-proper-fs
 v4 עַל־|‘al-|by|H5921|Prep
 v4 שַׁ֙עַר֙|ša·‘ar|the gate|H8179|N-msc
-v4 בַּת־|baṯ-|vvv|H1337|Prep
+v4 בַּת־|baṯ-|...|H1337|Prep
 v4 רַבִּ֔ים|rab·bîm|of Bath-rabbim|H1337|N-proper-fs
 v4 אַפֵּךְ֙|’ap·pêḵ|your nose|H639|N-msc | 2fs
 v4 כְּמִגְדַּ֣ל|kə·miḡ·dal|is like the tower|H4026|Prep-k | N-msc
@@ -90,7 +90,7 @@ v9 יְשֵׁנִֽים׃|yə·šê·nîm|and teeth|H3463|Adj-mp
 v10 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v10 לְדוֹדִ֔י|lə·ḏō·w·ḏî|belong to my beloved|H1730|Prep-l | N-msc | 1cs
 v10 וְעָלַ֖י|wə·‘ā·lay|is for me|H5921|Conj-w | Prep | 1cs
-v10 תְּשׁוּקָתֽוֹ׃ס|tə·šū·qā·ṯōw|and his desire|H8669|N-fsc | 3ms
+v10 תְּשׁוּקָתֽוֹ׃|tə·šū·qā·ṯōw|and his desire|H8669|N-fsc | 3ms
 v11 לְכָ֤ה|lə·ḵāh|Come|H1980|V-Qal-Imp-ms | 3fs
 v11 דוֹדִי֙|ḏō·w·ḏî|my beloved|H1730|N-msc | 1cs
 v11 נֵצֵ֣א|nê·ṣê|let us go|H3318|V-Qal-Imperf.h-1cp
@@ -111,7 +111,7 @@ v12 שָׁ֛ם|šām|there|H8033|Adv
 v12 אֶתֵּ֥ן|’et·tên|I will give|H5414|V-Qal-Imperf-1cs
 v12 אֶת־|’eṯ-|you|H853|DirObjM
 v12 דֹּדַ֖י|dō·ḏay|my love|H1730|N-mpc | 1cs
-v12 לָֽךְ׃|lāḵ||H0|Prep | 2fs
+v12 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs
 v13 הַֽדּוּדָאִ֣ים|had·dū·ḏā·’îm|The mandrakes|H1736|Art | N-mp
 v13 נָֽתְנוּ־|nā·ṯə·nū-|send forth|H5414|V-Qal-Perf-3cp
 v13 רֵ֗יחַ|rê·aḥ|a fragrance|H7381|N-ms

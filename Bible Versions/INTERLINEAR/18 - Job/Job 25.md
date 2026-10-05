@@ -40,4 +40,4 @@ v6 אֱנ֣וֹשׁ|’ĕ·nō·wōš|man|H582|N-ms
 v6 רִמָּ֑ה|rim·māh|who is but a maggot|H7415|N-fs
 v6 וּבֶן־|ū·ḇen-|and the son|H1121|Conj-w | N-msc
 v6 אָ֝דָ֗ם|’ā·ḏām|of man|H120|N-ms
-v6 תּוֹלֵעָֽה׃פ|tō·w·lê·‘āh|who is but a worm|H8438|N-fs
+v6 תּוֹלֵעָֽה׃|tō·w·lê·‘āh|who is but a worm|H8438|N-fs

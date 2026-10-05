@@ -14,7 +14,7 @@ v1 κρατοῦντας|kratountas|holding back|G2902|V-PPA-AMP
 v1 τοὺς|tous|-|G3588|Art-AMP
 v1 τέσσαρας|tessaras|four|G5064|Adj-AMP
 v1 ἀνέμους|anemous|winds|G417|N-AMP
-v1 τῆς|tēs|vvv|G3588|Art-GFS
+v1 τῆς|tēs|...|G3588|Art-GFS
 v1 γῆς|gēs|[its]|G1093|N-GFS
 v1 ἵνα|hina|so that|G2443|Conj
 v1 μὴ|mē|no|G3361|Adv
@@ -87,7 +87,7 @@ v4 τὸν|ton|the|G3588|Art-AMS
 v4 ἀριθμὸν|arithmon|number|G706|N-AMS
 v4 τῶν|tōn|of those who|G3588|Art-GMP
 v4 ἐσφραγισμένων|esphragismenōn|were sealed|G4972|V-RPM/P-GMP
-v4 ἑκατὸν|hekaton|144,000 {}|G1540|Adj-NFP
+v4 ἑκατὸν|hekaton|144,000|G1540|Adj-NFP
 v4 τεσσεράκοντα|tesserakonta|...|G5062|Adj-NFP
 v4 τέσσαρες|tessares|...|G5064|Adj-NFP
 v4 χιλιάδες|chiliades|...|G5505|N-NFP
@@ -95,68 +95,68 @@ v4 ἐσφραγισμένοι|esphragismenoi|-|G4972|V-RPM/P-NMP
 v4 ἐκ|ek|from|G1537|Prep
 v4 πάσης|pasēs|all the|G3956|Adj-GFS
 v4 φυλῆς|phylēs|tribes|G5443|N-GFS
-v4 υἱῶν|huiōn|vvv|G5207|N-GMP
+v4 υἱῶν|huiōn|...|G5207|N-GMP
 v4 Ἰσραήλ|Israēl|of Israel|G2474|N-GMS
 v5 Ἐκ|Ek|From|G1537|Prep
 v5 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v5 Ἰούδα|Iouda|of Judah|G2448|N-GMS
-v5 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v5 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v5 χιλιάδες|chiliades|...|G5505|N-NFP
 v5 ἐσφραγισμένοι|esphragismenoi|were sealed|G4972|V-RPM/P-NMP
 v5 ἐκ|ek|from|G1537|Prep
 v5 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v5 Ῥουβὴν|Rhoubēn|of Reuben|G4502|N-GMS
-v5 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v5 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v5 χιλιάδες|chiliades|...|G5505|N-NFP
 v5 ἐκ|ek|from|G1537|Prep
 v5 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v5 Γὰδ|Gad|of Gad|G1045|N-GMS
-v5 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v5 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v5 χιλιάδες|chiliades|...|G5505|N-NFP
 v6 Ἐκ|Ek|from|G1537|Prep
 v6 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v6 Ἀσὴρ|Asēr|of Asher|G768|N-GMS
-v6 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v6 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v6 χιλιάδες|chiliades|...|G5505|N-NFP
 v6 ἐκ|ek|from|G1537|Prep
 v6 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v6 Νεφθαλὶμ|Nephthalim|of Naphtali|G3508|N-GMS
-v6 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v6 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v6 χιλιάδες|chiliades|...|G5505|N-NFP
 v6 ἐκ|ek|from|G1537|Prep
 v6 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v6 Μανασσῆ|Manassē|of Manasseh|G3128|N-GMS
-v6 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v6 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v6 χιλιάδες|chiliades|...|G5505|N-NFP
 v7 Ἐκ|Ek|from|G1537|Prep
 v7 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v7 Συμεὼν|Symeōn|of Simeon|G4826|N-GMS
-v7 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v7 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v7 χιλιάδες|chiliades|...|G5505|N-NFP
 v7 ἐκ|ek|from|G1537|Prep
 v7 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v7 Λευὶ|Leui|of Levi|G3017|N-GMS
-v7 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v7 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v7 χιλιάδες|chiliades|...|G5505|N-NFP
 v7 ἐκ|ek|from|G1537|Prep
 v7 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v7 Ἰσσαχὰρ|Issachar|of Issachar|G2466|N-GMS
-v7 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v7 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v7 χιλιάδες|chiliades|...|G5505|N-NFP
 v8 Ἐκ|Ek|from|G1537|Prep
 v8 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v8 Ζαβουλὼν|Zaboulōn|of Zebulun|G2194|N-GMS
-v8 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v8 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v8 χιλιάδες|chiliades|...|G5505|N-NFP
 v8 ἐκ|ek|from|G1537|Prep
 v8 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v8 Ἰωσὴφ|Iōsēph|of Joseph|G2501|N-GMS
-v8 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v8 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v8 χιλιάδες|chiliades|...|G5505|N-NFP
 v8 ἐκ|ek|[and] from|G1537|Prep
 v8 φυλῆς|phylēs|[the] tribe|G5443|N-GFS
 v8 Βενιαμὶν|Beniamin|of Benjamin|G958|N-GMS
-v8 δώδεκα|dōdeka|12,000 {}|G1427|Adj-NFP
+v8 δώδεκα|dōdeka|12,000|G1427|Adj-NFP
 v8 χιλιάδες|chiliades|...|G5505|N-NFP
 v8 ἐσφραγισμένοι|esphragismenoi|-|G4972|V-RPM/P-NMP
 v9 Μετὰ|Meta|After|G3326|Prep
@@ -170,7 +170,7 @@ v9 ὃν|hon|...|G3739|RelPro-AMS
 v9 ἀριθμῆσαι|arithmēsai|to count|G705|V-ANA
 v9 αὐτὸν|auton|-|G846|PPro-AM3S
 v9 οὐδεὶς|oudeis|...|G3762|Adj-NMS
-v9 ἐδύνατο|edynato|vvv|G1410|V-IIM/P-3S
+v9 ἐδύνατο|edynato|...|G1410|V-IIM/P-3S
 v9 ἐκ|ek|from|G1537|Prep
 v9 παντὸς|pantos|every|G3956|Adj-GNS
 v9 ἔθνους|ethnous|nation|G1484|N-GNS
@@ -200,7 +200,7 @@ v9 αὐτῶν|autōn|their|G846|PPro-GM3P
 v10 καὶ|kai|And|G2532|Conj
 v10 κράζουσιν|krazousin|they cried out|G2896|V-PIA-3P
 v10 φωνῇ|phōnē|in a loud voice|G5456|N-DFS
-v10 μεγάλῃ|megalē|vvv|G3173|Adj-DFS
+v10 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v10 λέγοντες|legontes|-|G3004|V-PPA-NMP
 v10 Ἡ|Hē|-|G3588|Art-NFS
 v10 σωτηρία|sōtēria|Salvation|G4991|N-NFS
@@ -268,8 +268,8 @@ v12 ἰσχὺς|ischys|strength|G2479|N-NFS
 v12 τῷ|tō|[be] to|G3588|Art-DMS
 v12 Θεῷ|Theō|God|G2316|N-DMS
 v12 ἡμῶν|hēmōn|our|G1473|PPro-G1P
-v12 εἰς|eis|vvv|G1519|Prep
-v12 τοὺς|tous|vvv|G3588|Art-AMP
+v12 εἰς|eis|...|G1519|Prep
+v12 τοὺς|tous|...|G3588|Art-AMP
 v12 αἰῶνας|aiōnas|forever|G165|N-AMP
 v12 τῶν|tōn|[and]|G3588|Art-GMP
 v12 αἰώνων|aiōnōn|ever|G165|N-GMP
@@ -320,7 +320,7 @@ v14 στολὰς|stolas|robes|G4749|N-AFP
 v14 αὐτῶν|autōn|their|G846|PPro-GM3P
 v14 καὶ|kai|and|G2532|Conj
 v14 ἐλεύκαναν|eleukanan|made them white|G3021|V-AIA-3P
-v14 αὐτὰς|autas|vvv|G846|PPro-AF3P
+v14 αὐτὰς|autas|...|G846|PPro-AF3P
 v14 ἐν|en|in|G1722|Prep
 v14 τῷ|tō|the|G3588|Art-DNS
 v14 αἵματι|haimati|blood|G129|N-DNS

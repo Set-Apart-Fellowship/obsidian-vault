@@ -8,7 +8,7 @@ v1 הַדָּגָֽה׃|had·dā·ḡāh|the fish|H1710|Art | N-fs
 v2 וַיֹּ֗אמֶר|way·yō·mer|saying|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 קָ֠רָאתִי|qā·rā·ṯî|I called|H7121|V-Qal-Perf-1cs
 v2 מִצָּ֥רָה|miṣ·ṣā·rāh|In my distress|H6869|Prep-m | N-fs
-v2 לִ֛י|lî||H0|Prep | 1cs
+v2 לִ֛י|lî|-|H0|Prep | 1cs
 v2 אֶל־|’el-|to|H413|Prep
 v2 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v2 וַֽיַּעֲנֵ֑נִי|way·ya·‘ă·nê·nî|and He answered me|H6030|Conj-w | V-Qal-ConsecImperf-3ms | 1cs
@@ -86,7 +86,7 @@ v9 אֲשֶׁ֥ר|’ă·šer|what|H834|Pro-r
 v9 נָדַ֖רְתִּי|nā·ḏar·tî|I have vowed|H5087|V-Qal-Perf-1cs
 v9 אֲשַׁלֵּ֑מָה|’ă·šal·lê·māh|I will fulfill|H7999|V-Piel-Imperf.Cohort-1cs
 v9 יְשׁוּעָ֖תָה|yə·šū·‘ā·ṯāh|Salvation|H3444|N-fs | 3fs
-v9 לַיהוָֽה׃ס|Yah·weh|is from the LORD|H3068|Prep-l | N-proper-ms
+v9 לַיהוָֽה׃|Yah·weh|is from the LORD|H3068|Prep-l | N-proper-ms
 v10 וַיֹּ֥אמֶר|way·yō·mer|commanded|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v10 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v10 לַדָּ֑ג|lad·dāḡ|the fish|H1709|Prep-l, Art | N-ms
@@ -94,4 +94,4 @@ v10 וַיָּקֵ֥א|way·yā·qê|and it vomited|H6958|Conj-w | V-Hifil-Conse
 v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 יוֹנָ֖ה|yō·w·nāh|Jonah|H3124|N-proper-ms
 v10 אֶל־|’el-|onto|H413|Prep
-v10 הַיַּבָּשָֽׁה׃פ|hay·yab·bā·šāh|dry land|H3004|Art | N-fs
+v10 הַיַּבָּשָֽׁה׃|hay·yab·bā·šāh|dry land|H3004|Art | N-fs

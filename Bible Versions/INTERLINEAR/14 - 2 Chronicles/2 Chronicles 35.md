@@ -37,7 +37,7 @@ v3 דָּוִיד֙|dā·wîḏ|of David|H1732|N-proper-ms
 v3 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v3 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v3 אֵין־|’ên-|It is not to be|H369|Adv
-v3 לָכֶ֥ם|lā·ḵem||H0|Prep | 2mp
+v3 לָכֶ֥ם|lā·ḵem|-|H0|Prep | 2mp
 v3 מַשָּׂ֖א|maś·śā|carried around|H4853|N-ms
 v3 בַּכָּתֵ֑ף|bak·kā·ṯêp̄|on your shoulders|H3802|Prep-b, Art | N-fs
 v3 עַתָּ֗ה|‘at·tāh|Now|H6258|Adv
@@ -80,7 +80,7 @@ v6 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|to carry out|H6213|Prep-l | V-Qal
 v6 כִּדְבַר־|kiḏ·ḇar-|the word|H1697|Prep-k | N-msc
 v6 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v6 בְּיַד־|bə·yaḏ-|[given] by|H3027|Prep-b | N-fsc
-v6 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v6 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v7 וַיָּ֣רֶם|way·yā·rem|contributed|H7311|Conj-w | V-Hifil-ConsecImperf-3ms
 v7 יֹאשִׁיָּ֣הוּ|yō·šî·yā·hū|Josiah|H2977|N-proper-ms
 v7 לִבְנֵ֪י|liḇ·nê|-|H1121|Prep-l | N-mpc
@@ -89,19 +89,19 @@ v7 צֹ֞אן|ṣōn|flocks [and herds]|H6629|N-cs
 v7 כְּבָשִׂ֣ים|kə·ḇā·śîm|lambs|H3532|N-mp
 v7 וּבְנֵֽי־|ū·ḇə·nê-|and|H1121|Conj-w | N-mpc
 v7 עִזִּים֮|‘iz·zîm|goats|H5795|N-fp
-v7 הַכֹּ֣ל|hak·kōl||H3605|Art | N-ms
+v7 הַכֹּ֣ל|hak·kōl|-|H3605|Art | N-ms
 v7 לַפְּסָחִים֒|lap·pə·sā·ḥîm|for the Passover offerings|H6453|Prep-l, Art | N-mp
 v7 לְכָל־|lə·ḵāl|for all|H3605|Prep-l | N-msc
 v7 הַנִּמְצָ֗א|han·nim·ṣā|who were present|H4672|Art | V-Nifal-Prtcpl-ms
 v7 לְמִסְפַּר֙|lə·mis·par|...|H4557|Prep-l | N-msc
-v7 שְׁלֹשִׁ֣ים|šə·lō·šîm|30,000 {}|H7970|Number-cp
+v7 שְׁלֹשִׁ֣ים|šə·lō·šîm|30,000|H7970|Number-cp
 v7 אֶ֔לֶף|’e·lep̄|...|H505|Number-ms
 v7 וּבָקָ֖ר|ū·ḇā·qār|bulls|H1241|Conj-w | N-ms
 v7 שְׁלֹ֣שֶׁת|šə·lō·šeṯ|plus 3,000|H7969|Number-msc
 v7 אֲלָפִ֑ים|’ă·lā·p̄îm|...|H505|Number-mp
 v7 אֵ֖לֶּה|’êl·leh|...|H428|Pro-cp
 v7 מֵרְכ֥וּשׁ|mê·rə·ḵūš|own|H7399|Prep-m | N-msc
-v7 הַמֶּֽלֶךְ׃ס|ham·me·leḵ|From his|H4428|Art | N-ms
+v7 הַמֶּֽלֶךְ׃|ham·me·leḵ|From his|H4428|Art | N-ms
 v8 וְשָׂרָ֞יו|wə·śā·rāw|His officials|H8269|Conj-w | N-mpc | 3ms
 v8 לִנְדָבָ֥ה|lin·ḏā·ḇāh|willingly|H5071|Prep-l | N-fs
 v8 לָעָ֛ם|lā·‘ām|to the people|H5971|Prep-l, Art | N-ms
@@ -135,7 +135,7 @@ v9 הַלְוִיִּ֑ם|hal·wî·yim|of the Levites|H3881|Art | N-proper-mp
 v9 הֵרִ֨ימוּ|hê·rî·mū|contributed|H7311|V-Hifil-Perf-3cp
 v9 לַלְוִיִּ֤ם|lal·wî·yim|to the Levites|H3881|Prep-l | N-proper-mp
 v9 לַפְּסָחִים֙|lap·pə·sā·ḥîm|Passover offerings|H6453|Prep-l, Art | N-mp
-v9 חֲמֵ֣שֶׁת|ḥă·mê·šeṯ|5,000 {}|H2568|Number-msc
+v9 חֲמֵ֣שֶׁת|ḥă·mê·šeṯ|5,000|H2568|Number-msc
 v9 אֲלָפִ֔ים|’ă·lā·p̄îm|...|H505|Number-mp
 v9 וּבָקָ֖ר|ū·ḇā·qār|bulls|H1241|Conj-w | N-ms
 v9 חֲמֵ֥שׁ|ḥă·mêš|and 500|H2568|Number-fsc
@@ -164,7 +164,7 @@ v12 לְ֠תִתָּם|lə·ṯit·tām|to be given|H5414|Prep-l | V-Qal-Inf | 3
 v12 לְמִפְלַגּ֤וֹת|lə·mip̄·lag·gō·wṯ|to the divisions|H4653|Prep-l | N-fp
 v12 לְבֵית־|lə·ḇêṯ-|...|H1004|Prep-l | N-msc
 v12 אָבוֹת֙|’ā·ḇō·wṯ|of the families|H1|N-mp
-v12 לִבְנֵ֣י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v12 לִבְנֵ֣י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v12 הָעָ֔ם|hā·‘ām|of the people|H5971|Art | N-ms
 v12 לְהַקְרִיב֙|lə·haq·rîḇ|to offer|H7126|Prep-l | V-Hifil-Inf
 v12 לַיהוָ֔ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
@@ -184,7 +184,7 @@ v13 וּבַדְּוָדִים֙|ū·ḇad·də·wā·ḏîm|kettles|H1731|Conj-
 v13 וּבַצֵּ֣לָח֔וֹת|ū·ḇaṣ·ṣê·lā·ḥō·wṯ|and bowls|H6747|Conj-w, Prep-b, Art | N-fp
 v13 וַיָּרִ֖יצוּ|way·yā·rî·ṣū|and quickly brought them|H7323|Conj-w | V-Hifil-ConsecImperf-3mp
 v13 לְכָל־|lə·ḵāl|to all|H3605|Prep-l | N-msc
-v13 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v13 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v13 הָעָֽם׃|hā·‘ām|the people|H5971|Art | N-ms
 v14 וְאַחַ֗ר|wə·’a·ḥar|Afterward|H310|Conj-w | Adv
 v14 הֵכִ֤ינוּ|hê·ḵî·nū|they made preparations|H3559|V-Hifil-Perf-3cp
@@ -221,7 +221,7 @@ v15 וְהַשֹּׁעֲרִ֖ים|wə·haš·šō·‘ă·rîm|And the gatekee
 v15 לְשַׁ֣עַר|lə·ša·‘ar|at each gate|H8179|Prep-l | N-ms
 v15 וָשָׁ֑עַר|wå̄·šå̄·ʿar|...|H8179|Conj-w | N-ms
 v15 אֵ֣ין|’ên|did not|H369|Adv
-v15 לָהֶ֗ם|lā·hem||H0|Prep | 3mp
+v15 לָהֶ֗ם|lā·hem|-|H0|Prep | 3mp
 v15 לָסוּר֙|lā·sūr|need to leave|H5493|Prep-l | V-Qal-Inf
 v15 מֵעַ֣ל|mê·‘al|...|H5921|Prep-m
 v15 עֲבֹֽדָתָ֔ם|‘ă·ḇō·ḏā·ṯām|their posts|H5656|N-fsc | 3mp
@@ -283,7 +283,7 @@ v18 יְהוּדָה֙|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v18 וְיִשְׂרָאֵ֣ל|wə·yiś·rā·’êl|the Israelites|H3478|Conj-w | N-proper-ms
 v18 הַנִּמְצָ֔א|han·nim·ṣā|who were present|H4672|Art | V-Nifal-Prtcpl-ms
 v18 וְיוֹשְׁבֵ֖י|wə·yō·wō·šə·ḇê|and the people|H3427|Conj-w | V-Qal-Prtcpl-mpc
-v18 יְרוּשָׁלִָֽם׃ס|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
+v18 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v19 בִּשְׁמוֹנֶ֤ה|biš·mō·w·neh|In the eighteenth|H8083|Prep-b | Number-fs
 v19 עֶשְׂרֵה֙|‘eś·rêh|...|H6240|Number-fs
 v19 שָׁנָ֔ה|šā·nāh|year|H8141|N-fs
@@ -332,7 +332,7 @@ v21 וֵאלֹהִ֖ים|wê·lō·hîm|and God|H430|Conj-w | N-mp
 v21 אָמַ֣ר|’ā·mar|has told me|H559|V-Qal-Perf-3ms
 v21 לְבַֽהֲלֵ֑נִי|lə·ḇa·hă·lê·nî|to hurry|H926|Prep-l | V-Piel-Inf | 1cs
 v21 חֲדַל־|ḥă·ḏal-|So stop|H2308|V-Qal-Imp-ms
-v21 לְךָ֛|lə·ḵā||H0|Prep | 2ms
+v21 לְךָ֛|lə·ḵā|-|H0|Prep | 2ms
 v21 מֵאֱלֹהִ֥ים|mê·’ĕ·lō·hîm|opposing God|H430|Prep-m | N-mp
 v21 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
 v21 עִמִּ֖י|‘im·mî|is with me|H5973|Prep | 1cs
@@ -345,7 +345,7 @@ v22 פָנָ֜יו|p̄ā·nāw|...|H6440|N-cpc | 3ms
 v22 מִמֶּ֗נּוּ|mim·men·nū|from him|H4480|Prep | 3ms
 v22 כִּ֤י|kî|instead|H3588|Conj
 v22 לְהִלָּחֵֽם־|lə·hil·lā·ḥêm-|in order to engage him in battle|H3898|Prep-l | V-Nifal-Inf
-v22 בּוֹ֙|bōw||H0|Prep | 3ms
+v22 בּוֹ֙|bōw|-|H0|Prep | 3ms
 v22 הִתְחַפֵּ֔שׂ|hiṯ·ḥap·pêś|he disguised himself|H2664|V-Hitpael-Perf-3ms
 v22 וְלֹ֥א|wə·lō|He did not|H3808|Conj-w | Adv-NegPrt
 v22 שָׁמַ֛ע|šā·ma‘|listen|H8085|V-Qal-Perf-3ms
@@ -378,7 +378,7 @@ v24 עַ֣ל|‘al|in|H5921|Prep
 v24 רֶ֣כֶב|re·ḵeḇ|chariot|H7393|N-msc
 v24 הַמִּשְׁנֶה֮|ham·miš·neh|his second|H4932|Art | N-ms
 v24 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v24 לוֹ֒|lōw||H0|Prep | 3ms
+v24 לוֹ֒|lōw|-|H0|Prep | 3ms
 v24 וַיּוֹלִיכֻ֙הוּ֙|way·yō·w·lî·ḵu·hū|and brought him|H1980|Conj-w | V-Hifil-ConsecImperf-3mp | 3ms
 v24 יְר֣וּשָׁלִַ֔ם|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
 v24 וַיָּ֕מָת|way·yā·māṯ|where he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
@@ -390,7 +390,7 @@ v24 יְהוּדָה֙|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v24 וִיר֣וּשָׁלִַ֔ם|wî·rū·šā·lim|and Jerusalem|H3389|Conj-w | N-proper-fs
 v24 מִֽתְאַבְּלִ֖ים|miṯ·’ab·bə·lîm|mourned|H56|V-Hitpael-Prtcpl-mp
 v24 עַל־|‘al-|for|H5921|Prep
-v24 יֹאשִׁיָּֽהוּ׃פ|yō·šî·yā·hū|[him]|H2977|N-proper-ms
+v24 יֹאשִׁיָּֽהוּ׃|yō·šî·yā·hū|[him]|H2977|N-proper-ms
 v25 וַיְקוֹנֵ֣ן|way·qō·w·nên|lamented|H6969|Conj-w | V-Piel-ConsecImperf-3ms
 v25 יִרְמְיָהוּ֮|yir·mə·yā·hū|Then Jeremiah|H3414|N-proper-ms
 v25 עַל־|‘al-|over|H5921|Prep

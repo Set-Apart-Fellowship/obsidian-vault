@@ -224,7 +224,7 @@ v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 הַשּׁוֹר֙|haš·šō·wr|the ox|H7794|Art | N-ms
 v18 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v18 הָאַ֔יִל|hā·’a·yil|and the ram|H352|Art | N-ms
-v18 זֶ֥בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v18 זֶ֥בַח|ze·ḇaḥ|...|H2077|N-msc
 v18 הַשְּׁלָמִ֖ים|haš·šə·lā·mîm|peace offering|H8002|Art | N-mp
 v18 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v18 לָעָ֑ם|lā·‘ām|as the people's|H5971|Prep-l, Art | N-ms

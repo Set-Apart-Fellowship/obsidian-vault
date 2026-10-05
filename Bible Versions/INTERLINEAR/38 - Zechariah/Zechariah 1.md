@@ -90,7 +90,7 @@ v6 כִּדְרָכֵ֙ינוּ֙|kiḏ·rā·ḵê·nū|according to our ways|H
 v6 וּכְמַ֣עֲלָלֵ֔ינוּ|ū·ḵə·ma·‘ă·lā·lê·nū|and deeds|H4611|Conj-w, Prep-k | N-mpc | 1cp
 v6 כֵּ֖ן|kên|so|H3651|Adv
 v6 עָשָׂ֥ה|‘ā·śāh|He has done|H6213|V-Qal-Perf-3ms
-v6 אִתָּֽנוּ׃ס|’it·tā·nū|to us|H854|Prep | 1cp
+v6 אִתָּֽנוּ׃|’it·tā·nū|to us|H854|Prep | 1cp
 v7 בְּיוֹם֩|bə·yō·wm|day|H3117|Prep-b | N-msc
 v7 עֶשְׂרִ֨ים|‘eś·rîm|On the twenty-fourth|H6242|Number-cp
 v7 וְאַרְבָּעָ֜ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-ms
@@ -113,7 +113,7 @@ v7 בֶּ֣רֶכְיָ֔הוּ|be·reḵ·yā·hū|of Berechiah|H1296|N-proper-
 v7 בֶּן־|ben-|the son|H1121|N-msc
 v7 עִדּ֥וֹא|‘id·dō·w|of Iddo|H5714|N-proper-ms
 v7 הַנָּבִ֖יא|han·nā·ḇî|the prophet|H5030|Art | N-ms
-v7 לֵאמֹֽר׃|lê·mōr||H559|Prep-l | V-Qal-Inf
+v7 לֵאמֹֽר׃|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v8 רָאִ֣יתִי׀|rā·’î·ṯî|I looked out|H7200|V-Qal-Perf-1cs
 v8 הַלַּ֗יְלָה|hal·lay·lāh|into the night|H3915|Art | N-ms
 v8 וְהִנֵּה־|wə·hin·nêh-|and saw|H2009|Conj-w | Interjection
@@ -270,7 +270,7 @@ v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 צִיּ֔וֹן|ṣî·yō·wn|Zion|H6726|N-proper-fs
 v17 וּבָחַ֥ר|ū·ḇā·ḥar|choose|H977|Conj-w | V-Qal-ConjPerf-3ms
 v17 ע֖וֹד|‘ō·wḏ|[and]|H5750|Adv
-v17 בִּירוּשָׁלִָֽם׃ס|bî·rū·šā·lim|Jerusalem|H3389|Prep-b | N-proper-fs
+v17 בִּירוּשָׁלִָֽם׃|bî·rū·šā·lim|Jerusalem|H3389|Prep-b | N-proper-fs
 v18 וָאֶשָּׂ֥א|wā·’eś·śā|Then I looked up|H5375|Conj-w | V-Qal-ConsecImperf-1cs
 v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 עֵינַ֖י|‘ê·nay|-|H5869|N-cdc | 1cs
@@ -279,7 +279,7 @@ v18 וְהִנֵּ֖ה|wə·hin·nêh|...|H2009|Conj-w | Interjection
 v18 אַרְבַּ֥ע|’ar·ba‘|four|H702|Number-fsc
 v18 קְרָנֽוֹת׃|qə·rā·nō·wṯ|horns|H7161|N-fp
 v19 וָאֹמַ֗ר|wā·’ō·mar|So I asked|H559|Conj-w | V-Qal-ConsecImperf-1cs
-v19 אֶל־|’el-||H413|Prep
+v19 אֶל־|’el-|-|H413|Prep
 v19 הַמַּלְאָ֛ךְ|ham·mal·’āḵ|the angel|H4397|Art | N-ms
 v19 הַדֹּבֵ֥ר|had·dō·ḇêr|who was speaking|H1696|Art | V-Qal-Prtcpl-ms
 v19 בִּ֖י|bî|with me|H0|Prep | 1cs
@@ -295,7 +295,7 @@ v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 יְהוּדָ֔ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v19 וִירוּשָׁלָֽם׃ס|wī·rū·šå̄·lå̄m|and Jerusalem|H3389|Conj-w | N-proper-fs
+v19 וִירוּשָׁלָֽם׃|wī·rū·šå̄·lå̄m|and Jerusalem|H3389|Conj-w | N-proper-fs
 v20 וַיַּרְאֵ֣נִי|way·yar·’ê·nî|showed me|H7200|Conj-w | V-Hifil-ConsecImperf-3ms | 1cs
 v20 יְהוָ֔ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v20 אַרְבָּעָ֖ה|’ar·bā·‘āh|four|H702|Number-ms
@@ -331,4 +331,4 @@ v21 קֶ֛רֶן|qe·ren|their horns|H7161|N-fs
 v21 אֶל־|’el-|against|H413|Prep
 v21 אֶ֥רֶץ|’e·reṣ|the land|H776|N-fsc
 v21 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
-v21 לְזָרוֹתָֽהּ׃ס|lə·zā·rō·w·ṯāh|to scatter it|H2219|Prep-l | V-Piel-Inf | 3fs
+v21 לְזָרוֹתָֽהּ׃|lə·zā·rō·w·ṯāh|to scatter it|H2219|Prep-l | V-Piel-Inf | 3fs

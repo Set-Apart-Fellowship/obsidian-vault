@@ -95,7 +95,7 @@ v12 נִדְמֽוּ׃|niḏ·mū|that perish|H1820|V-Nifal-Perf-3cp
 v13 זֶ֣ה|zeh|This|H2088|Pro-ms
 v13 דַ֭רְכָּם|ḏar·kām|is the fate|H1870|N-csc | 3mp
 v13 כֵּ֣סֶל|kê·sel|of the foolish|H3689|N-ms
-v13 לָ֑מוֹ|lā·mōw||H0|Prep | 3mp
+v13 לָ֑מוֹ|lā·mōw|-|H0|Prep | 3mp
 v13 וְאַחֲרֵיהֶ֓ם׀|wə·’a·ḥă·rê·hem|and their followers|H310|Conj-w | Prep | 3mp
 v13 בְּפִיהֶ֖ם|bə·p̄î·hem|their sayings|H6310|Prep-b | N-msc | 3mp
 v13 יִרְצ֣וּ|yir·ṣū|who endorse|H7521|V-Qal-Imperf-3mp
@@ -113,7 +113,7 @@ v14 וְצִירָם|wə·ṣī·rå̄m|and their form|H6736|Conj-w | N-msc | 3m
 v14 לְבַלּ֥וֹת|lə·ḇal·lō·wṯ|will decay|H1086|Prep-l | V-Piel-Inf
 v14 שְׁא֗וֹל|šə·’ō·wl|in Sheol|H7585|N-cs
 v14 מִזְּבֻ֥ל|miz·zə·ḇul|far from their lofty abode|H2073|Prep-m | N-msc
-v14 לֽוֹ׃|lōw||H0|Prep | 3ms
+v14 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v15 אַךְ־|’aḵ-|But|H389|Adv
 v15 אֱלֹהִ֗ים|’ĕ·lō·hîm|God|H430|N-mp
 v15 יִפְדֶּ֣ה|yip̄·deh|will redeem|H6299|V-Qal-Imperf-3ms
@@ -148,7 +148,7 @@ v18 יְבָרֵ֑ךְ|yə·ḇā·rêḵ|he blesses|H1288|V-Piel-Imperf-3ms
 v18 וְ֝יוֹדֻ֗ךָ|wə·yō·w·ḏu·ḵā|and men praise|H3034|Conj-w | V-Hifil-ConjImperf-3mp | 2ms
 v18 כִּי־|kî-|you when|H3588|Conj
 v18 תֵיטִ֥יב|ṯê·ṭîḇ|you prosper|H3190|V-Hifil-Imperf-2ms
-v18 לָֽךְ׃|lāḵ||H0|Prep | 2fs
+v18 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs
 v19 תָּ֭בוֹא|tā·ḇō·w|he will join|H935|V-Qal-Imperf-3fs
 v19 עַד־|‘aḏ-|...|H5704|Prep
 v19 דּ֣וֹר|dō·wr|the generation|H1755|N-msc

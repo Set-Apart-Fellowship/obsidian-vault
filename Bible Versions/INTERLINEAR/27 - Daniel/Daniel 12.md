@@ -38,7 +38,7 @@ v2 עוֹלָ֔ם|‘ō·w·lām|to everlasting|H5769|N-ms
 v2 וְאֵ֥לֶּה|wə·’êl·leh|but others|H428|Conj-w | Pro-cp
 v2 לַחֲרָפ֖וֹת|la·ḥă·rā·p̄ō·wṯ|to shame|H2781|Prep-l, Art | N-fp
 v2 לְדִרְא֥וֹן|lə·ḏir·’ō·wn|contempt|H1860|Prep-l | N-msc
-v2 עוֹלָֽם׃ס|‘ō·w·lām|[and] everlasting|H5769|N-ms
+v2 עוֹלָֽם׃|‘ō·w·lām|[and] everlasting|H5769|N-ms
 v3 וְהַ֨מַּשְׂכִּלִ֔ים|wə·ham·maś·ki·lîm|Then the wise|H7919|Conj-w, Art | V-Hifil-Prtcpl-mp
 v3 יַזְהִ֖רוּ|yaz·hi·rū|will shine|H2094|V-Hifil-Imperf-3mp
 v3 כְּזֹ֣הַר|kə·zō·har|like the brightness|H2096|Prep-k | N-msc
@@ -47,7 +47,7 @@ v3 וּמַצְדִּיקֵי֙|ū·maṣ·dî·qê|to righteousness|H6663|Conj-
 v3 הָֽרַבִּ֔ים|hā·rab·bîm|and those who lead many|H7227|Art | Adj-mp
 v3 כַּכּוֹכָבִ֖ים|kak·kō·w·ḵā·ḇîm|[will shine] like the stars|H3556|Prep-k, Art | N-mp
 v3 לְעוֹלָ֥ם|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
-v3 וָעֶֽד׃פ|wā·‘eḏ|and ever|H5703|Conj-w | N-ms
+v3 וָעֶֽד׃|wā·‘eḏ|and ever|H5703|Conj-w | N-ms
 v4 וְאַתָּ֣ה|wə·’at·tāh|But you|H859|Conj-w | Pro-2ms
 v4 דָֽנִיֵּ֗אל|ḏā·nî·yêl|Daniel|H1841|N-proper-ms
 v4 סְתֹ֧ם|sə·ṯōm|shut up|H5640|V-Qal-Imp-ms
@@ -125,7 +125,7 @@ v8 וָאֹ֣מְרָ֔ה|wā·’ō·mə·rāh|So I asked|H559|Conj-w | V-Qal-C
 v8 אֲדֹנִ֕י|’ă·ḏō·nî|My lord|H113|N-msc | 1cs
 v8 מָ֥ה|māh|what|H4100|Interrog
 v8 אַחֲרִ֖ית|’a·ḥă·rîṯ|will be the outcome|H319|N-fs
-v8 אֵֽלֶּה׃פ|’êl·leh|of these [things]|H428|Pro-cp
+v8 אֵֽלֶּה׃|’êl·leh|of these [things]|H428|Pro-cp
 v9 וַיֹּ֖אמֶר|way·yō·mer|he replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 לֵ֣ךְ|lêḵ|Go on your way|H1980|V-Qal-Imp-ms
 v9 דָּנִיֵּ֑אל|dā·nî·yêl|Daniel|H1841|N-proper-ms

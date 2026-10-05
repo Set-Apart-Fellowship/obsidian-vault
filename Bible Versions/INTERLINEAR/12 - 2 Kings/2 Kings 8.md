@@ -68,7 +68,7 @@ v4 לִ֔י|lî|to me|H0|Prep | 1cs
 v4 אֵ֥ת|’êṯ|-|H853|DirObjM
 v4 כָּל־|kāl-|all|H3605|N-msc
 v4 הַגְּדֹל֖וֹת|hag·gə·ḏō·lō·wṯ|the great things|H1419|Art | Adj-fp
-v4 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v4 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v4 עָשָׂ֥ה|‘ā·śāh|has done|H6213|V-Qal-Perf-3ms
 v4 אֱלִישָֽׁע׃|’ĕ·lî·šā‘|Elisha|H477|N-proper-ms
 v5 וַ֠יְהִי|way·hî|And|H1961|Conj-w | V-Qal-ConsecImperf-3ms
@@ -129,17 +129,17 @@ v6 עָזְבָ֥ה|‘ā·zə·ḇāh|that she left|H5800|V-Qal-Perf-3fs
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 הָאָ֖רֶץ|hā·’ā·reṣ|the country|H776|Art | N-fs
 v6 וְעַד־|wə·‘aḏ-|until|H5704|Conj-w | Prep
-v6 עָֽתָּה׃פ|‘āt·tāh|now|H6258|Adv
+v6 עָֽתָּה׃|‘āt·tāh|now|H6258|Adv
 v7 וַיָּבֹ֤א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v7 אֱלִישָׁע֙|’ĕ·lî·šā‘|Then Elisha|H477|N-proper-ms
 v7 דַּמֶּ֔שֶׂק|dam·me·śeq|to Damascus|H1834|N-proper-fs
-v7 וּבֶן־|ū·ḇen-|vvv|H1130|
+v7 וּבֶן־|ū·ḇen-|...|H1130|
 v7 הֲדַ֥ד|hă·ḏaḏ|while Ben-hadad|H1130|Conj-w | N-proper-ms
 v7 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v7 אֲרָ֖ם|’ă·rām|of Aram|H758|N-proper-fs
 v7 חֹלֶ֑ה|ḥō·leh|was sick|H2470|V-Qal-Prtcpl-ms
 v7 וַיֻּגַּד־|way·yug·gaḏ-|and the king was told|H5046|Conj-w | V-Hofal-ConsecImperf-3ms
-v7 ל֣וֹ|lōw||H0|Prep | 3ms
+v7 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v7 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v7 בָּ֛א|bā|has come|H935|V-Qal-Perf-3ms
 v7 אִ֥ישׁ|’îš|The man|H376|N-msc
@@ -182,7 +182,7 @@ v9 וַיַּעֲמֹ֣ד|way·ya·‘ă·mōḏ|and stood|H5975|Conj-w | V-Qal
 v9 לְפָנָ֔יו|lə·p̄ā·nāw|before him|H6440|Prep-l | N-cpc | 3ms
 v9 וַיֹּ֗אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 בִּנְךָ֨|bin·ḵā|Your son|H1121|N-msc | 2ms
-v9 בֶן־|ḇen-|vvv|H1130|Prep
+v9 בֶן־|ḇen-|...|H1130|Prep
 v9 הֲדַ֤ד|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v9 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v9 אֲרָם֙|’ă·rām|of Aram|H758|N-proper-fs
@@ -206,7 +206,7 @@ v10 כִּֽי־|kî-|that|H3588|Conj
 v10 מ֥וֹת|mō·wṯ|in fact he will die|H4191|V-Qal-InfAbs
 v10 יָמֽוּת׃|yā·mūṯ|...|H4191|V-Qal-Imperf-3ms
 v11 וַיַּעֲמֵ֥ד|way·ya·‘ă·mêḏ|[Elisha] fixed|H5975|Conj-w | V-Hifil-ConsecImperf-3ms
-v11 אֶת־|’eṯ-||H853|DirObjM
+v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 פָּנָ֖יו|pā·nāw|his gaze|H6440|N-cpc | 3ms
 v11 וַיָּ֣שֶׂם|way·yā·śem|steadily|H7760|Conj-w | V-Qal-ConsecImperf-3ms
 v11 עַד־|‘aḏ-|[on him] until|H5704|Prep
@@ -225,7 +225,7 @@ v12 יָדַ֡עְתִּי|yā·ḏa‘·tî|I know|H3045|V-Qal-Perf-1cs
 v12 אֵ֣ת|’êṯ|-|H853|DirObjM
 v12 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v12 תַּעֲשֶׂה֩|ta·‘ă·śeh|you will do|H6213|V-Qal-Imperf-2ms
-v12 לִבְנֵ֨י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v12 לִבְנֵ֨י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v12 יִשְׂרָאֵ֜ל|yiś·rā·’êl|to the Israelites|H3478|N-proper-ms
 v12 רָעָ֗ה|rā·‘āh|the evil|H7451|Adj-fs
 v12 מִבְצְרֵיהֶ֞ם|miḇ·ṣə·rê·hem|to their fortresses|H4013|N-mpc | 3mp
@@ -258,7 +258,7 @@ v13 מֶ֥לֶךְ|me·leḵ|king|H4428|N-ms
 v13 עַל־|‘al-|over|H5921|Prep
 v13 אֲרָֽם׃|’ă·rām|Aram|H758|N-proper-fs
 v14 וַיֵּ֣לֶךְ׀|way·yê·leḵ|So Hazael left|H1980|Conj-w | V-Qal-ConsecImperf-3ms
-v14 מֵאֵ֣ת|mê·’êṯ||H854|Prep-m
+v14 מֵאֵ֣ת|mê·’êṯ|-|H854|Prep-m
 v14 אֱלִישָׁ֗ע|’ĕ·lî·šā‘|Elisha|H477|N-proper-ms
 v14 וַיָּבֹא֙|way·yā·ḇō|and went|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v14 אֶל־|’el-|to|H413|Prep
@@ -286,7 +286,7 @@ v15 פָּנָ֖יו|pā·nāw|the king's face|H6440|N-cpc | 3ms
 v15 וַיָּמֹ֑ת|way·yā·mōṯ|So Ben-hadad died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v15 וַיִּמְלֹ֥ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v15 חֲזָהאֵ֖ל|ḥă·zā·h·’êl|and Hazael|H2371|N-proper-ms
-v15 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v15 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v16 וּבִשְׁנַ֣ת|ū·ḇiš·naṯ|year|H8141|Conj-w, Prep-b | N-fsc
 v16 חָמֵ֗שׁ|ḥā·mêš|In the fifth|H2568|Number-fs
 v16 לְיוֹרָ֤ם|lə·yō·w·rām|of Joram|H3141|Prep-l | N-proper-ms
@@ -325,7 +325,7 @@ v18 כִּ֚י|kî|For|H3588|Conj
 v18 בַּת־|baṯ-|a daughter|H1323|N-fsc
 v18 אַחְאָ֔ב|’aḥ·’āḇ|of Ahab|H256|N-proper-ms
 v18 הָֽיְתָה־|hā·yə·ṯāh-|-|H1961|V-Qal-Perf-3fs
-v18 לּ֖וֹ|lōw||H0|Prep | 3ms
+v18 לּ֖וֹ|lōw|-|H0|Prep | 3ms
 v18 לְאִשָּׁ֑ה|lə·’iš·šāh|he married|H802|Prep-l | N-fs
 v18 וַיַּ֥עַשׂ|way·ya·‘aś|and did|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v18 הָרַ֖ע|hā·ra‘|evil|H7451|Art | Adj-ms
@@ -342,7 +342,7 @@ v19 דָּוִ֣ד|dā·wiḏ|David|H1732|N-proper-ms
 v19 עַבְדּ֑וֹ|‘aḇ·dōw|of His servant|H5650|N-msc | 3ms
 v19 כַּאֲשֶׁ֣ר|ka·’ă·šer|since|H834|Prep-k | Pro-r
 v19 אָֽמַר־|’ā·mar-|He had promised|H559|V-Qal-Perf-3ms
-v19 ל֗וֹ|lōw||H0|Prep | 3ms
+v19 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v19 לָתֵ֨ת|lā·ṯêṯ|to maintain|H5414|Prep-l | V-Qal-Inf
 v19 ל֥וֹ|lōw|for David|H0|Prep | 3ms
 v19 נִ֛יר|nîr|a lamp|H5216|N-ms
@@ -419,7 +419,7 @@ v24 דָּוִ֑ד|dā·wiḏ|of David|H1732|N-proper-ms
 v24 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v24 אֲחַזְיָ֥הוּ|’ă·ḥaz·yā·hū|Ahaziah|H274|N-proper-ms
 v24 בְנ֖וֹ|ḇə·nōw|And his son|H1121|N-msc | 3ms
-v24 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v24 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v25 בִּשְׁנַת֙|biš·naṯ|year|H8141|Prep-b | N-fsc
 v25 שְׁתֵּים־|šə·têm-|In the twelfth|H8147|Number-fd
 v25 עֶשְׂרֵ֣ה|‘eś·rêh|...|H6240|Number-fs
@@ -513,4 +513,4 @@ v29 אַחְאָ֛ב|’aḥ·’āḇ|of Ahab|H256|N-proper-ms
 v29 בְּיִזְרְעֶ֖אל|bə·yiz·rə·‘el|to Jezreel|H3157|Prep-b | N-proper-fs
 v29 כִּֽי־|kî-|because|H3588|Conj
 v29 חֹלֶ֥ה|ḥō·leh|had been wounded|H2470|V-Qal-Prtcpl-ms
-v29 הֽוּא׃פ|hū|[Joram]|H1931|Pro-3ms
+v29 הֽוּא׃|hū|[Joram]|H1931|Pro-3ms

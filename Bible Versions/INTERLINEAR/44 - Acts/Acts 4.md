@@ -48,7 +48,7 @@ v3 αὔριον|aurion|next day|G839|Adv
 v3 ἦν|ēn|it was|G1510|V-IIA-3S
 v3 γὰρ|gar|because|G1063|Conj
 v3 ἑσπέρα|hespera|evening|G2073|N-NFS
-v3 ἤδη|ēdē|vvv|G2235|Adv
+v3 ἤδη|ēdē|...|G2235|Adv
 v4 πολλοὶ|polloi|many|G4183|Adj-NMP
 v4 δὲ|de|But|G1161|Conj
 v4 τῶν|tōn|who|G3588|Art-GMP
@@ -101,8 +101,8 @@ v6 ἀρχιερατικοῦ|archieratikou|the high priest's|G748|Adj-GNS
 v7 καὶ|kai|-|G2532|Conj
 v7 στήσαντες|stēsantes|They had|G2476|V-APA-NMP
 v7 αὐτοὺς|autous|[Peter and John]|G846|PPro-AM3P
-v7 ἐν|en|vvv|G1722|Prep
-v7 τῷ|tō|vvv|G3588|Art-DNS
+v7 ἐν|en|...|G1722|Prep
+v7 τῷ|tō|...|G3588|Art-DNS
 v7 μέσῳ|mesō|{brought} in|G3319|Adj-DNS
 v7 ἐπυνθάνοντο|epynthanonto|[and] began to question them|G4441|V-IIM/P-3P
 v7 Ἐν|En|By|G1722|Prep
@@ -189,7 +189,7 @@ v11 εἰς|eis|...|G1519|Prep
 v11 κεφαλὴν|kephalēn|[the] cornerstone|G2776|N-AFS
 v11 γωνίας|gōnias|...|G1137|N-GFS
 v12 Καὶ|Kai|-|G2532|Conj
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 ἔστιν|estin|exists|G1510|V-PIA-3S
 v12 ἐν|en|in|G1722|Prep
 v12 ἄλλῳ|allō|else|G243|Adj-DMS
@@ -258,7 +258,7 @@ v15 τοῦ|tou|the|G3588|Art-GNS
 v15 συνεδρίου|synedriou|Sanhedrin|G4892|N-GNS
 v15 ἀπελθεῖν|apelthein|to leave|G565|V-ANA
 v15 συνέβαλλον|syneballon|[and] then conferred|G4820|V-IIA-3P
-v15 πρὸς|pros|vvv|G4314|Prep
+v15 πρὸς|pros|...|G4314|Prep
 v15 ἀλλήλους|allēlous|together|G240|RecPro-AMP
 v16 λέγοντες|legontes|they asked|G3004|V-PPA-NMP
 v16 Τί|Ti|What|G5101|IPro-ANS
@@ -267,7 +267,7 @@ v16 τοῖς|tois|with|G3588|Art-DMP
 v16 ἀνθρώποις|anthrōpois|men|G444|N-DMP
 v16 τούτοις|toutois|these|G3778|DPro-DMP
 v16 ὅτι|hoti|that|G3754|Conj
-v16 μὲν|men|vvv|G3303|Conj
+v16 μὲν|men|...|G3303|Conj
 v16 γὰρ|gar|-|G1063|Conj
 v16 γνωστὸν|gnōston|a remarkable|G1110|Adj-NNS
 v16 σημεῖον|sēmeion|miracle|G4592|N-NNS
@@ -280,13 +280,13 @@ v16 κατοικοῦσιν|katoikousin|living|G2730|V-PPA-DMP
 v16 Ἰερουσαλὴμ|Ierousalēm|[in] Jerusalem|G2419|N-AFS
 v16 φανερόν|phaneron|[It] is clear|G5318|Adj-NNS
 v16 καὶ|kai|and|G2532|Conj
-v16 οὐ|ou|vvv|G3756|Adv
+v16 οὐ|ou|...|G3756|Adv
 v16 δυνάμεθα|dynametha|we cannot|G1410|V-PIM/P-1P
 v16 ἀρνεῖσθαι|arneisthai|deny [it]|G720|V-PNM/P
 v17 ἀλλ’|all’|But|G235|Conj
 v17 ἵνα|hina|to|G2443|Conj
-v17 μὴ|mē|vvv|G3361|Adv
-v17 ἐπὶ|epi|vvv|G1909|Prep
+v17 μὴ|mē|...|G3361|Adv
+v17 ἐπὶ|epi|...|G1909|Prep
 v17 πλεῖον|pleion|any further|G4119|Adj-ANS-C
 v17 διανεμηθῇ|dianemēthē|keep [this message] from spreading|G1268|V-ASP-3S
 v17 εἰς|eis|among|G1519|Prep
@@ -339,7 +339,7 @@ v19 ἢ|ē|than|G2228|Conj
 v19 τοῦ|tou|-|G3588|Art-GMS
 v19 Θεοῦ|Theou|God|G2316|N-GMS
 v19 κρίνατε|krinate|Judge for yourselves|G2919|V-AMA-2P
-v20 οὐ|ou|vvv|G3756|Adv
+v20 οὐ|ou|...|G3756|Adv
 v20 δυνάμεθα|dynametha|cannot|G1410|V-PIM/P-1P
 v20 γὰρ|gar|For|G1063|Conj
 v20 ἡμεῖς|hēmeis|we|G1473|PPro-N1P
@@ -364,7 +364,7 @@ v21 διὰ|dia|because|G1223|Prep
 v21 τὸν|ton|{all} the|G3588|Art-AMS
 v21 λαόν|laon|people|G2992|N-AMS
 v21 ὅτι|hoti|-|G3754|Conj
-v21 πάντες|pantes|vvv|G3956|Adj-NMP
+v21 πάντες|pantes|...|G3956|Adj-NMP
 v21 ἐδόξαζον|edoxazon|were glorifying|G1392|V-IIA-3P
 v21 τὸν|ton|-|G3588|Art-AMS
 v21 Θεὸν|Theon|God|G2316|N-AMS
@@ -432,7 +432,7 @@ v24 τὰ|ta|-|G3588|Art-ANP
 v24 ἐν|en|in|G1722|Prep
 v24 αὐτοῖς|autois|them|G846|PPro-DN3P
 v25 ὁ|ho|[You]|G3588|Art-NMS
-v25 τοῦ|tou||G3588|Art-GMS
+v25 τοῦ|tou|-|G3588|Art-GMS
 v25 πατρὸς|patros|father|G3962|N-GMS
 v25 ἡμῶν|hēmōn|our|G1473|PPro-G1P
 v25 διὰ|dia|by|G1223|Prep
@@ -488,7 +488,7 @@ v27 Ἰησοῦν|Iēsoun|Jesus|G2424|N-AMS
 v27 ὃν|hon|whom|G3739|RelPro-AMS
 v27 ἔχρισας|echrisas|You anointed|G5548|V-AIA-2S
 v27 Ἡρῴδης|Hērōdēs|Herod|G2264|N-NMS
-v27 τε|te|vvv|G5037|Conj
+v27 τε|te|...|G5037|Conj
 v27 καὶ|kai|and|G2532|Conj
 v27 Πόντιος|Pontios|Pontius|G4194|N-NMS
 v27 Πιλᾶτος|Pilatos|Pilate|G4091|N-NMS
@@ -563,7 +563,7 @@ v31 ἦσαν|ēsan|[their]|G1510|V-IIA-3P
 v31 συνηγμένοι|synēgmenoi|meeting|G4863|V-RPM/P-NMP
 v31 καὶ|kai|and|G2532|Conj
 v31 ἐπλήσθησαν|eplēsthēsan|they were all filled with|G4130|V-AIP-3P
-v31 ἅπαντες|hapantes|vvv|G537|Adj-NMP
+v31 ἅπαντες|hapantes|...|G537|Adj-NMP
 v31 τοῦ|tou|the|G3588|Art-GNS
 v31 Ἁγίου|Hagiou|Holy|G40|Adj-GNS
 v31 Πνεύματος|Pneumatos|Spirit|G4151|N-GNS
@@ -573,7 +573,7 @@ v31 τὸν|ton|the|G3588|Art-AMS
 v31 λόγον|logon|word|G3056|N-AMS
 v31 τοῦ|tou|-|G3588|Art-GMS
 v31 Θεοῦ|Theou|of God|G2316|N-GMS
-v31 μετὰ|meta|vvv|G3326|Prep
+v31 μετὰ|meta|...|G3326|Prep
 v31 παρρησίας|parrēsias|boldly|G3954|N-GFS
 v32 Τοῦ|Tou|The|G3588|Art-GNS
 v32 δὲ|de|-|G1161|Conj
@@ -633,7 +633,7 @@ v34 κτήτορες|ktētores|owned|G2935|N-NMP
 v34 χωρίων|chōriōn|lands|G5564|N-GNP
 v34 ἢ|ē|or|G2228|Conj
 v34 οἰκιῶν|oikiōn|houses|G3614|N-GFP
-v34 ὑπῆρχον|hypērchon|vvv|G5225|V-IIA-3P
+v34 ὑπῆρχον|hypērchon|...|G5225|V-IIA-3P
 v34 πωλοῦντες|pōlountes|would sell [ their property ]|G4453|V-PPA-NMP
 v34 ἔφερον|epheron|bring|G5342|V-IIA-3P
 v34 τὰς|tas|the|G3588|Art-AFP
@@ -645,7 +645,7 @@ v35 ἐτίθουν|etithoun|lay [them]|G5087|V-IIA-3P
 v35 παρὰ|para|at|G3844|Prep
 v35 τοὺς|tous|the|G3588|Art-AMP
 v35 πόδας|podas|feet|G4228|N-AMP
-v35 τῶν|tōn|vvv|G3588|Art-GMP
+v35 τῶν|tōn|...|G3588|Art-GMP
 v35 ἀποστόλων|apostolōn|apostles'|G652|N-GMP
 v35 διεδίδετο|diedideto|for distribution|G1239|V-IIM/P-3S
 v35 δὲ|de|-|G1161|Conj
@@ -663,8 +663,8 @@ v36 Βαρνάβας|Barnabas|Barnabas|G921|N-NMS
 v36 ἀπὸ|apo|-|G575|Prep
 v36 τῶν|tōn|the|G3588|Art-GMP
 v36 ἀποστόλων|apostolōn|apostles|G652|N-GMP
-v36 ὅ|ho|(vvv|G3739|RelPro-NNS
-v36 ἐστιν|estin|vvv|G1510|V-PIA-3S
+v36 ὅ|ho|(...|G3739|RelPro-NNS
+v36 ἐστιν|estin|...|G1510|V-PIA-3S
 v36 μεθερμηνευόμενον|methermēneuomenon|meaning|G3177|V-PPM/P-NNS
 v36 Υἱὸς|Huios|Son|G5207|N-NMS
 v36 παρακλήσεως|paraklēseōs|of Encouragement|G3874|N-GFS
@@ -684,5 +684,5 @@ v37 ἔθηκεν|ethēken|laid [it]|G5087|V-AIA-3S
 v37 πρὸς|pros|at|G4314|Prep
 v37 τοὺς|tous|the|G3588|Art-AMP
 v37 πόδας|podas|feet|G4228|N-AMP
-v37 τῶν|tōn|vvv|G3588|Art-GMP
+v37 τῶν|tōn|...|G3588|Art-GMP
 v37 ἀποστόλων|apostolōn|apostles'|G652|N-GMP

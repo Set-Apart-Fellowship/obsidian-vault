@@ -4,7 +4,7 @@ v1 נְבִיאָה|nə·ḇī·ʾå̄h|Later, the prophets|H5029|N-msd
 v1 וּזְכַרְיָ֤ה|ū·zə·ḵar·yāh|and Zechariah|H2148|Conj-w | N-proper-ms
 v1 בַר־|ḇar-|son|H1247|N-msc
 v1 עִדּוֹא֙|‘id·dō·w|of Iddo|H5714|N-proper-ms
-v1 נְבִיאַיָּא|nə·ḇī·ʾay·yå̄||H5029|N-mpd
+v1 נְבִיאַיָּא|nə·ḇī·ʾay·yå̄|-|H5029|N-mpd
 v1 עַל־|‘al-|to|H5922|Prep
 v1 יְה֣וּדָיֵ֔א|yə·hū·ḏā·yê|the Jews|H3062|N-proper-ms
 v1 דִּ֥י|dî|-|H1768|Pro-r
@@ -13,7 +13,7 @@ v1 וּבִירוּשְׁלֶ֑ם|ū·ḇî·rū·šə·lem|and Jerusalem|H3390|
 v1 בְּשֻׁ֛ם|bə·šum|in the name|H8036|Prep-b | N-msc
 v1 אֱלָ֥הּ|’ĕ·lāh|of the God|H426|N-msc
 v1 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3479|N-proper-ms
-v1 עֲלֵיהֽוֹן׃ס|‘ă·lê·hō·wn|who was over them|H5922|Prep | 3mp
+v1 עֲלֵיהֽוֹן׃|‘ă·lê·hō·wn|who was over them|H5922|Prep | 3mp
 v2 בֵּאדַ֡יִן|bê·ḏa·yin|Then|H116|Prep-b | Adv
 v2 קָ֠מוּ|qā·mū|rose up|H6966|V-Qal-Perf-3mp
 v2 זְרֻבָּבֶ֤ל|zə·rub·bā·ḇel|Zerubbabel|H2217|N-proper-ms
@@ -33,8 +33,8 @@ v2 נְבִיאַיָּא|nə·ḇī·ʾay·yå̄|And the prophets|H5029|N-mpd
 v2 דִֽי־|ḏî-|...|H1768|Pro-r
 v2 אֱלָהָ֖א|’ĕ·lā·hā|God|H426|N-msd
 v2 מְסָעֲדִ֥ין|mə·sā·‘ă·ḏîn|helping|H5583|V-Piel-Prtcpl-mp
-v2 לְהֽוֹן׃פ|lə·hō·wn|them|H0|Prep | 3mp
-v3 בֵּהּ־|bêh-||H0|Prep | 3ms
+v2 לְהֽוֹן׃|lə·hō·wn|them|H0|Prep | 3mp
+v3 בֵּהּ־|bêh-|-|H0|Prep | 3ms
 v3 זִמְנָא֩|zim·nā|At that time|H2166|N-msd
 v3 אֲתָ֨א|’ă·ṯā|went|H858|V-Qal-Perf-3ms
 v3 עֲלֵיה֜וֹן|‘ă·lê·hō·wn|to [the Jews]|H5922|Prep | 3mp
@@ -42,26 +42,26 @@ v3 תַּ֠תְּנַי|tat·tə·nay|Tattenai|H8674|N-proper-ms
 v3 פַּחַ֧ת|pa·ḥaṯ|the governor|H6347|N-msc
 v3 עֲבַֽר־|‘ă·ḇar-|[of the region] west|H5675|N-msc
 v3 נַהֲרָ֛ה|na·hă·rāh|of the Euphrates|H5103|N-msd
-v3 וּשְׁתַ֥ר|ū·šə·ṯar|vvv|H8370|Conj-w | N-proper-ms
+v3 וּשְׁתַ֥ר|ū·šə·ṯar|...|H8370|Conj-w | N-proper-ms
 v3 בּוֹזְנַ֖י|bō·wz·nay|Shethar-bozenai|H8370|Conj-w | N-proper-ms
 v3 וּכְנָוָתְה֑וֹן|ū·ḵə·nā·wā·ṯə·hō·wn|and their associates|H3675|Conj-w | N-mpc | 3mp
 v3 וְכֵן֙|wə·ḵên|...|H3652|Conj-w | Adv
 v3 אָמְרִ֣ין|’ā·mə·rîn|and asked|H560|V-Qal-Prtcpl-mp
-v3 לְהֹ֔ם|lə·hōm||H0|Prep | 3mp
+v3 לְהֹ֔ם|lə·hōm|-|H0|Prep | 3mp
 v3 מַן־|man-|Who|H4479|Interrog
 v3 שָׂ֨ם|śām|authorized you|H7761|V-Qal-Perf-3ms
-v3 לְכֹ֜ם|lə·ḵōm||H0|Prep | 2mp
+v3 לְכֹ֜ם|lə·ḵōm|-|H0|Prep | 2mp
 v3 טְעֵ֗ם|ṭə·‘êm|-|H2942|N-ms
 v3 בַּיְתָ֤א|bay·ṯā|temple|H1005|N-msd
 v3 דְנָה֙|ḏə·nāh|this|H1836|Pro-ms
 v3 לִבְּנֵ֔א|lib·bə·nê|to rebuild|H1124|Prep-l | V-Qal-Inf
 v3 וְאֻשַּׁרְנָ֥א|wə·’uš·šar·nā|structure|H846|Conj-w | N-msd
 v3 דְנָ֖ה|ḏə·nāh|this|H1836|Pro-ms
-v3 לְשַׁכְלָלָֽה׃ס|lə·šaḵ·lā·lāh|and restore|H3635|Prep-l | V-Hifil-Inf
+v3 לְשַׁכְלָלָֽה׃|lə·šaḵ·lā·lāh|and restore|H3635|Prep-l | V-Hifil-Inf
 v4 אֱדַ֥יִן|’ĕ·ḏa·yin|They also|H116|Adv
 v4 כְּנֵ֖מָא|kə·nê·mā|...|H3660|Adv
 v4 אֲמַ֣רְנָא|’ă·mar·nā|asked|H560|V-Qal-Perf-1cp
-v4 לְּהֹ֑ם|lə·hōm||H0|Prep | 3mp
+v4 לְּהֹ֑ם|lə·hōm|-|H0|Prep | 3mp
 v4 מַן־|man-|What|H4479|Interrog
 v4 אִנּוּן֙|’in·nūn|are|H581|Pro-3mp
 v4 שְׁמָהָ֣ת|šə·mā·hāṯ|the names|H8036|N-mpc
@@ -87,7 +87,7 @@ v5 וֶאֱדַ֛יִן|we·’ĕ·ḏa·yin|and|H116|Conj-w | Adv
 v5 יְתִיב֥וּן|yə·ṯî·ḇūn|were returned|H8421|V-Hifil-Imperf-3mp
 v5 נִשְׁתְּוָנָ֖א|niš·tə·wā·nā|written instructions|H5407|N-msd
 v5 עַל־|‘al-|about|H5922|Prep
-v5 דְּנָֽה׃פ|də·nāh|this matter|H1836|Pro-ms
+v5 דְּנָֽה׃|də·nāh|this matter|H1836|Pro-ms
 v6 פַּרְשֶׁ֣גֶן|par·še·ḡen|This is the text|H6573|N-msc
 v6 אִ֠גַּרְתָּא|’ig·gar·tā|of the letter|H104|N-fsd
 v6 דִּֽי־|dî-|that|H1768|Pro-r
@@ -96,7 +96,7 @@ v6 תַּתְּנַ֣י׀|tat·tə·nay|Tattenai|H8674|N-proper-ms
 v6 פַּחַ֣ת|pa·ḥaṯ|the governor|H6347|N-msc
 v6 עֲבַֽר־|‘ă·ḇar-|of the region west|H5675|N-msc
 v6 נַהֲרָ֗ה|na·hă·rāh|of the Euphrates|H5103|N-msd
-v6 וּשְׁתַ֤ר|ū·šə·ṯar|vvv|H8370|Conj-w | N-proper-ms
+v6 וּשְׁתַ֤ר|ū·šə·ṯar|...|H8370|Conj-w | N-proper-ms
 v6 בּוֹזְנַי֙|bō·wz·nay|Shethar-bozenai|H8370|Conj-w | N-proper-ms
 v6 וּכְנָ֣וָתֵ֔הּ|ū·ḵə·nā·wā·ṯêh|and their associates|H3675|Conj-w | N-mpc | 3ms
 v6 אֲפַ֨רְסְכָיֵ֔א|’ă·p̄ar·sə·ḵā·yê|the officials|H671|N-proper-mpd
@@ -115,7 +115,7 @@ v7 בְּגַוֵּ֔הּ|bə·ḡaw·wêh|...|H1459|Prep-b | N-msc | 3ms
 v7 לְדָרְיָ֥וֶשׁ|lə·ḏā·rə·yā·weš|Darius|H1868|Prep-l | N-proper-ms
 v7 מַלְכָּ֖א|mal·kā|To King|H4430|N-msd
 v7 שְׁלָמָ֥א|šə·lā·mā|peace|H8001|N-msd
-v7 כֹֽלָּא׃ס|ḵōl·lā|All|H3606|N-msd
+v7 כֹֽלָּא׃|ḵōl·lā|All|H3606|N-msd
 v8 יְדִ֣יעַ׀|yə·ḏî·a‘|known|H3046|V-Qal-QalPassPrtcpl-ms
 v8 לֶהֱוֵ֣א|le·hĕ·wê|Let it be|H1934|V-Qal-Imperf-3ms
 v8 לְמַלְכָּ֗א|lə·mal·kā|to the king|H4430|Prep-l | N-msd
@@ -138,14 +138,14 @@ v8 דָ֛ךְ|ḏāḵ|This|H1791|Pro-fs
 v8 אָסְפַּ֥רְנָא|’ā·sə·par·nā|diligently|H629|Adv
 v8 מִתְעַבְדָ֖א|miṯ·‘aḇ·ḏā|is being carried out|H5648|V-Hitpael-Prtcpl-fs
 v8 וּמַצְלַ֥ח|ū·maṣ·laḥ|and is prospering|H6744|Conj-w | V-Hifil-Prtcpl-ms
-v8 בְּיֶדְהֹֽם׃ס|bə·yeḏ·hōm|in their hands|H3028|Prep-b | N-fsc | 3mp
+v8 בְּיֶדְהֹֽם׃|bə·yeḏ·hōm|in their hands|H3028|Prep-b | N-fsc | 3mp
 v9 אֱדַ֗יִן|’ĕ·ḏa·yin|So|H116|Adv
 v9 שְׁאֵ֙לְנָא֙|šə·’ê·lə·nā|we questioned|H7593|V-Qal-Perf-1cp
 v9 לְשָׂבַיָּ֣א|lə·śā·ḇay·yā|elders|H7868|Prep-l | N-mpd
 v9 אִלֵּ֔ךְ|’il·lêḵ|the|H479|Pro-cp
 v9 כְּנֵ֖מָא|kə·nê·mā|...|H3660|Adv
 v9 אֲמַ֣רְנָא|’ă·mar·nā|and asked|H560|V-Qal-Perf-1cp
-v9 לְּהֹ֑ם|lə·hōm||H0|Prep | 3mp
+v9 לְּהֹ֑ם|lə·hōm|-|H0|Prep | 3mp
 v9 מַן־|man-|Who|H4479|Interrog
 v9 שָׂ֨ם|śām|authorized|H7761|V-Qal-Perf-3ms
 v9 לְכֹ֜ם|lə·ḵōm|you|H0|Prep | 2mp
@@ -166,7 +166,7 @@ v10 נִכְתֻּ֥ב|niḵ·tuḇ|we could write down|H3790|V-Qal-Imperf-1cp
 v10 שֻׁם־|šum-|the names|H8036|N-msc
 v10 גֻּבְרַיָּ֖א|guḇ·ray·yā|of their leaders|H1400|N-mpd
 v10 דִּ֥י|dî|...|H1768|Pro-r
-v10 בְרָאשֵׁיהֹֽם׃ס|ḇə·rā·šê·hōm|...|H7217|Prep-b | N-mpc | 3mp
+v10 בְרָאשֵׁיהֹֽם׃|ḇə·rā·šê·hōm|...|H7217|Prep-b | N-mpc | 3mp
 v11 וּכְנֵ֥מָא|ū·ḵə·nê·mā|And this|H3660|Conj-w | Adv
 v11 פִתְגָמָ֖א|p̄iṯ·ḡā·mā|is the answer|H6600|N-msd
 v11 הֲתִיב֣וּנָא|hă·ṯî·ḇū·nā|they returned|H8421|V-Hifil-Perf-3mp | 1cp
@@ -174,7 +174,7 @@ v11 לְמֵמַ֑ר|lə·mê·mar|...|H560|Prep-l | V-Qal-Inf
 v11 אֲנַ֣חְנָא|’ă·naḥ·nā|We|H586|Pro-1cp
 v11 הִמּ֡וֹ|him·mōw|are|H1994|Pro-3mp
 v11 עַבְדוֹהִי֩|‘aḇ·ḏō·w·hî|servants|H5649|N-mpc | 3ms
-v11 דִֽי־|ḏî-||H1768|Pro-r
+v11 דִֽי־|ḏî-|-|H1768|Pro-r
 v11 אֱלָ֨הּ|’ĕ·lāh|of the God|H426|N-msc
 v11 שְׁמַיָּ֜א|šə·may·yā|of heaven|H8065|N-mpd
 v11 וְאַרְעָ֗א|wə·’ar·‘ā|and earth|H772|Conj-w | N-fsd
@@ -211,7 +211,7 @@ v12 דְנָה֙|ḏə·nāh|this|H1836|Pro-ms
 v12 סַתְרֵ֔הּ|saṯ·rêh|who destroyed|H5642|V-Qal-Perf-3ms | 3ms
 v12 וְעַמָּ֖ה|wə·‘am·māh|the people|H5972|Conj-w | N-msd
 v12 הַגְלִ֥י|haḡ·lî|and carried away|H1541|V-Hifil-Perf-3ms
-v12 לְבָבֶֽל׃ס|lə·ḇā·ḇel|to Babylon|H895|Prep-l | N-proper-fs
+v12 לְבָבֶֽל׃|lə·ḇā·ḇel|to Babylon|H895|Prep-l | N-proper-fs
 v13 בְּרַם֙|bə·ram|however|H1297|Conj
 v13 בִּשְׁנַ֣ת|biš·naṯ|year [of his reign]|H8140|Prep-b | N-fsc
 v13 חֲדָ֔ה|ḥă·ḏāh|In the first|H2298|Number-fs
@@ -262,7 +262,7 @@ v14 דִּ֥י|dî|...|H1768|Pro-r
 v14 פֶחָ֖ה|p̄e·ḥāh|governor|H6347|N-ms
 v14 שָׂמֵֽהּ׃|śā·mêh|whom he appointed|H7761|V-Qal-Perf-3ms | 3ms
 v15 וַאֲמַר־|wa·’ă·mar-|and instructed|H560|Conj-w | V-Qal-ConjPerf-3ms
-v15 לֵ֓הּ׀|lêh||H0|Prep | 3ms
+v15 לֵ֓הּ׀|lêh|-|H0|Prep | 3ms
 v15 אֵלֶּה|ʾēl·lɛh|these|H429|Pro-cp
 v15 מָֽאנַיָּ֔א|mā·nay·yā|articles|H3984|N-mpd
 v15 שֵׂ֚א|śē|Take|H5376|V-Qal-Imp-ms
@@ -276,7 +276,7 @@ v15 וּבֵ֥ית|ū·ḇêṯ|and let the house|H1005|Conj-w | N-msc
 v15 אֱלָהָ֖א|’ĕ·lā·hā|of God|H426|N-msd
 v15 יִתְבְּנֵ֥א|yiṯ·bə·nê|be rebuilt|H1124|V-Hitpael-Imperf-3ms
 v15 עַל־|‘al-|on|H5922|Prep
-v15 אַתְרֵֽהּ׃ס|’aṯ·rêh|its original site|H870|N-msc | 3ms
+v15 אַתְרֵֽהּ׃|’aṯ·rêh|its original site|H870|N-msc | 3ms
 v16 אֱדַ֙יִן֙|’ĕ·ḏa·yin|So|H116|Adv
 v16 שֵׁשְׁבַּצַּ֣ר|šê·šə·baṣ·ṣar|Sheshbazzar|H8340|N-proper-ms
 v16 דֵּ֔ךְ|dêḵ|this|H1791|Adj-ms
@@ -286,7 +286,7 @@ v16 אֻשַּׁיָּ֛א|’uš·šay·yā|the foundation|H787|N-mpd
 v16 דִּי־|dî-|of|H1768|Pro-r
 v16 בֵ֥ית|ḇêṯ|the house|H1005|N-msc
 v16 אֱלָהָ֖א|’ĕ·lā·hā|of God|H426|N-msd
-v16 דִּ֣י|dî||H1768|Pro-r
+v16 דִּ֣י|dî|-|H1768|Pro-r
 v16 בִירוּשְׁלֶ֑ם|ḇî·rū·šə·lem|in Jerusalem|H3390|Prep-b | N-proper-fs
 v16 וּמִן־|ū·min-|and from|H4481|Conj-w | Prep
 v16 אֱדַ֧יִן|’ĕ·ḏa·yin|that time|H116|Adv
@@ -306,7 +306,7 @@ v17 גִּנְזַיָּ֜א|gin·zay·yā|...|H1596|N-mpd
 v17 דִּי־|dî-|of the royal|H1768|Pro-r
 v17 מַלְכָּ֣א|mal·kā|...|H4430|N-msd
 v17 תַמָּה֮|ṯam·māh|...|H8536|Adv
-v17 דִּ֣י|dî||H1768|Pro-r
+v17 דִּ֣י|dî|-|H1768|Pro-r
 v17 בְּבָבֶל֒|bə·ḇā·ḇel|in Babylon|H895|Prep-b | N-proper-fs
 v17 הֵ֣ן|hên|to see if|H2006|Conj
 v17 אִיתַ֗י|’î·ṯay|...|H383|Adv
@@ -326,4 +326,4 @@ v17 מַלְכָּ֛א|mal·kā|Then let the king|H4430|N-msd
 v17 עַל־|‘al-|in|H5922|Prep
 v17 דְּנָ֖ה|də·nāh|this [matter]|H1836|Pro-ms
 v17 יִשְׁלַ֥ח|yiš·laḥ|send|H7972|V-Qal-Imperf-3ms
-v17 עֲלֶֽינָא׃ס|‘ă·le·nā|us|H5922|Prep | 1cp
+v17 עֲלֶֽינָא׃|‘ă·le·nā|us|H5922|Prep | 1cp

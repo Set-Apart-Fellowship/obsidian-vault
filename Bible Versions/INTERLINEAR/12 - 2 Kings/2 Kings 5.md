@@ -38,7 +38,7 @@ v3 אֶל־|’el-|to|H413|Prep
 v3 גְּבִרְתָּ֔הּ|gə·ḇir·tāh|her mistress|H1404|N-fsc | 3fs
 v3 אַחֲלֵ֣י|’a·ḥă·lê|If only|H305|Interjection
 v3 אֲדֹנִ֔י|’ă·ḏō·nî|my master|H113|N-msc | 1cs
-v3 לִפְנֵ֥י|lip̄·nê|vvv|H6440|Prep-l | N-cpc
+v3 לִפְנֵ֥י|lip̄·nê|...|H6440|Prep-l | N-cpc
 v3 הַנָּבִ֖יא|han·nā·ḇî|would go to the prophet|H5030|Art | N-ms
 v3 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
 v3 בְּשֹׁמְר֑וֹן|bə·šō·mə·rō·wn|is in Samaria|H8111|Prep-b | N-proper-fs
@@ -86,14 +86,14 @@ v6 מֶ֥לֶךְ|me·leḵ|the king|H4428|N-msc
 v6 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v6 לֵאמֹ֑ר|lê·mōr|stated|H559|Prep-l | V-Qal-Inf
 v6 וְעַתָּ֗ה|wə·‘at·tāh|With|H6258|Conj-w | Adv
-v6 כְּב֨וֹא|kə·ḇō·w||H935|Prep-k | V-Qal-Inf
+v6 כְּב֨וֹא|kə·ḇō·w|-|H935|Prep-k | V-Qal-Inf
 v6 הַסֵּ֤פֶר|has·sê·p̄er|letter|H5612|Art | N-ms
 v6 הַזֶּה֙|haz·zeh|this|H2088|Art | Pro-ms
 v6 אֵלֶ֔יךָ|’ê·le·ḵā|...|H413|Prep | 2ms
-v6 הִנֵּ֨ה|hin·nêh||H2009|Interjection
+v6 הִנֵּ֨ה|hin·nêh|-|H2009|Interjection
 v6 שָׁלַ֤חְתִּי|šā·laḥ·tî|I am sending|H7971|V-Qal-Perf-1cs
 v6 אֵלֶ֙יךָ֙|’ê·le·ḵā|-|H413|Prep | 2ms
-v6 אֶת־|’eṯ-||H853|DirObjM
+v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 נַעֲמָ֣ן|na·‘ă·mān|Naaman|H5283|N-proper-ms
 v6 עַבְדִּ֔י|‘aḇ·dî|my servant|H5650|N-msc | 1cs
 v6 וַאֲסַפְתּ֖וֹ|wa·’ă·sap̄·tōw|so that you may cure him|H622|Conj-w | V-Qal-ConjPerf-2ms | 3ms
@@ -116,9 +116,9 @@ v7 זֶה֙|zeh|this [man]|H2088|Pro-ms
 v7 שֹׁלֵ֣חַ|šō·lê·aḥ|expects|H7971|V-Qal-Prtcpl-ms
 v7 אֵלַ֔י|’ê·lay|me|H413|Prep | 1cs
 v7 לֶאֱסֹ֥ף|le·’ĕ·sōp̄|to cure|H622|Prep-l | V-Qal-Inf
-v7 אִ֖ישׁ|’îš|vvv|H376|N-ms
+v7 אִ֖ישׁ|’îš|...|H376|N-ms
 v7 מִצָּֽרַעְתּ֑וֹ|miṣ·ṣā·ra‘·tōw|a leper|H6883|Prep-m | N-fsc | 3ms
-v7 כִּ֤י|kî||H3588|Conj
+v7 כִּ֤י|kî|-|H3588|Conj
 v7 אַךְ־|’aḵ-|-|H389|Adv
 v7 דְּעֽוּ־|də·‘ū-|Surely you can|H3045|V-Qal-Imp-mp
 v7 נָא֙|nā|...|H4994|Interjection
@@ -173,7 +173,7 @@ v10 פְּעָמִים֙|pə·‘ā·mîm|times|H6471|N-fp
 v10 בַּיַּרְדֵּ֔ן|bay·yar·dên|in the Jordan|H3383|Prep-b, Art | N-proper-fs
 v10 וְיָשֹׁ֧ב|wə·yā·šōḇ|will be restored|H7725|Conj-w | V-Qal-ConjImperf.Jus-3ms
 v10 בְּשָׂרְךָ֛|bə·śā·rə·ḵā|and your flesh|H1320|N-msc | 2ms
-v10 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v10 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v10 וּטְהָֽר׃|ū·ṭə·hār|and you will be clean|H2891|Conj-w | V-Qal-Imp-ms
 v11 וַיִּקְצֹ֥ף|way·yiq·ṣōp̄|angry|H7107|Conj-w | V-Qal-ConsecImperf-3ms
 v11 נַעֲמָ֖ן|na·‘ă·mān|But Naaman|H5283|N-proper-ms
@@ -181,7 +181,7 @@ v11 וַיֵּלַ֑ךְ|way·yê·laḵ|went away|H1980|Conj-w | V-Qal-ConsecIm
 v11 וַיֹּאמֶר֩|way·yō·mer|saying|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 הִנֵּ֨ה|hin·nêh|...|H2009|Interjection
 v11 אָמַ֜רְתִּי|’ā·mar·tî|I thought that|H559|V-Qal-Perf-1cs
-v11 אֵלַ֣י׀|’ê·lay||H413|Prep | 1cs
+v11 אֵלַ֣י׀|’ê·lay|-|H413|Prep | 1cs
 v11 יֵצֵ֣א|yê·ṣê|he would surely come out|H3318|V-Qal-Imperf-3ms
 v11 יָצ֗וֹא|yā·ṣō·w|...|H3318|V-Qal-InfAbs
 v11 וְעָמַד֙|wə·‘ā·maḏ|stand|H5975|Conj-w | V-Qal-ConjPerf-3ms
@@ -303,7 +303,7 @@ v17 עֹלָ֤ה|‘ō·lāh|a burnt offering|H5930|N-fs
 v17 וָזֶ֙בַח֙|wā·ze·ḇaḥ|or a sacrifice|H2077|Conj-w | N-ms
 v17 לֵאלֹהִ֣ים|lê·lō·hîm|god|H430|Prep-l | N-mp
 v17 אֲחֵרִ֔ים|’ă·ḥê·rîm|to any other|H312|Adj-mp
-v17 כִּ֖י|kî||H3588|Conj
+v17 כִּ֖י|kî|-|H3588|Conj
 v17 אִם־|’im-|but|H518|Conj
 v17 לַיהוָֽה׃|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
 v18 לַדָּבָ֣ר|lad·dā·ḇār|one thing|H1697|Prep-l, Art | N-ms
@@ -334,13 +334,13 @@ v18 לְעַבְדְּךָ֖|lə·‘aḇ·də·ḵā|your servant|H5650|Prep-l 
 v18 בַּדָּבָ֥ר|bad·dā·ḇār|matter|H1697|Prep-b, Art | N-ms
 v18 הַזֶּֽה׃|haz·zeh|in this|H2088|Art | Pro-ms
 v19 וַיֹּ֥אמֶר|way·yō·mer|said [Elisha]|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v19 ל֖וֹ|lōw||H0|Prep | 3ms
+v19 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v19 לֵ֣ךְ|lêḵ|Go|H1980|V-Qal-Imp-ms
 v19 לְשָׁל֑וֹם|lə·šā·lō·wm|in peace|H7965|Prep-l | N-ms
 v19 וַיֵּ֥לֶךְ|way·yê·leḵ|But after [Naaman] had traveled|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v19 מֵאִתּ֖וֹ|mê·’it·tōw|...|H854|Prep-m | DirObjM | 3ms
 v19 כִּבְרַת־|kiḇ·raṯ-|a short distance|H3530|N-fsc
-v19 אָֽרֶץ׃ס|’ā·reṣ||H776|N-fs
+v19 אָֽרֶץ׃|’ā·reṣ|-|H776|N-fs
 v20 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 גֵּיחֲזִ֗י|gê·ḥă·zî|Gehazi|H1522|N-proper-ms
 v20 נַעַר֮|na·‘ar|the servant|H5288|N-msc
@@ -370,7 +370,7 @@ v20 מֵאִתּ֖וֹ|mê·’it·tōw|from him|H854|Prep-m | DirObjM | 3ms
 v20 מְאֽוּמָה׃|mə·’ū·māh|something|H3972|N-ms
 v21 וַיִּרְדֹּ֥ף|way·yir·dōp̄|pursued|H7291|Conj-w | V-Qal-ConsecImperf-3ms
 v21 גֵּיחֲזִ֖י|gê·ḥă·zî|So Gehazi|H1522|N-proper-ms
-v21 אַחֲרֵ֣י|’a·ḥă·rê||H310|Prep
+v21 אַחֲרֵ֣י|’a·ḥă·rê|-|H310|Prep
 v21 נַֽעֲמָ֑ן|na·‘ă·mān|Naaman|H5283|N-proper-ms
 v21 וַיִּרְאֶ֤ה|way·yir·’eh|saw [him]|H7200|Conj-w | V-Qal-ConsecImperf-3ms
 v21 נַֽעֲמָן֙|na·‘ă·mān|And when Naaman|H5283|N-proper-ms
@@ -486,4 +486,4 @@ v27 לְעוֹלָ֑ם|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
 v27 וַיֵּצֵ֥א|way·yê·ṣê|And as Gehazi left|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v27 מִלְּפָנָ֖יו|mil·lə·p̄ā·nāw|his presence|H6440|Prep-m, Prep-l | N-cpc | 3ms
 v27 מְצֹרָ֥ע|mə·ṣō·rā‘|[he was] leprous|H6879|V-Pual-Prtcpl-ms
-v27 כַּשָּֽׁלֶג׃ס|kaš·šā·leḡ|[as white] as snow|H7950|Prep-k, Art | N-ms
+v27 כַּשָּֽׁלֶג׃|kaš·šā·leḡ|[as white] as snow|H7950|Prep-k, Art | N-ms

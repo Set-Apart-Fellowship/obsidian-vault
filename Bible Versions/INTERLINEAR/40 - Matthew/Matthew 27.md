@@ -2,7 +2,7 @@ v1 Πρωΐας|Prōias|morning|G4405|N-GFS
 v1 δὲ|de|When|G1161|Conj
 v1 γενομένης|genomenēs|came|G1096|V-APM-GFS
 v1 συμβούλιον|symboulion|conspired|G4824|N-ANS
-v1 ἔλαβον|elabon|vvv|G2983|V-AIA-3P
+v1 ἔλαβον|elabon|...|G2983|V-AIA-3P
 v1 πάντες|pantes|all|G3956|Adj-NMP
 v1 οἱ|hoi|the|G3588|Art-NMP
 v1 ἀρχιερεῖς|archiereis|chief priests|G749|N-NMP
@@ -74,7 +74,7 @@ v6 λαβόντες|labontes|picked up|G2983|V-APA-NMP
 v6 τὰ|ta|the|G3588|Art-ANP
 v6 ἀργύρια|argyria|pieces of silver|G694|N-ANP
 v6 εἶπαν|eipan|[and] said|G2036|V-AIA-3P
-v6 Οὐκ|Ouk|vvv|G3756|Adv
+v6 Οὐκ|Ouk|...|G3756|Adv
 v6 ἔξεστιν|exestin|It is unlawful|G1832|V-PIA-3S
 v6 βαλεῖν|balein|to put|G906|V-ANA
 v6 αὐτὰ|auta|this|G846|PPro-AN3P
@@ -93,7 +93,7 @@ v7 ἐξ|ex|[they used]|G1537|Prep
 v7 αὐτῶν|autōn|[the money]|G846|PPro-GN3P
 v7 τὸν|ton|the|G3588|Art-AMS
 v7 ἀγρὸν|agron|field|G68|N-AMS
-v7 τοῦ|tou|vvv|G3588|Art-GMS
+v7 τοῦ|tou|...|G3588|Art-GMS
 v7 κεραμέως|kerameōs|potter's|G2763|N-GMS
 v7 εἰς|eis|as|G1519|Prep
 v7 ταφὴν|taphēn|a burial place|G5027|N-AFS
@@ -138,7 +138,7 @@ v10 αὐτὰ|auta|them|G846|PPro-AN3P
 v10 εἰς|eis|for|G1519|Prep
 v10 τὸν|ton|the|G3588|Art-AMS
 v10 ἀγρὸν|agron|field|G68|N-AMS
-v10 τοῦ|tou|vvv|G3588|Art-GMS
+v10 τοῦ|tou|...|G3588|Art-GMS
 v10 κεραμέως|kerameōs|potter's|G2763|N-GMS
 v10 καθὰ|katha|as|G2505|Adv
 v10 συνέταξέν|synetaxen|had commanded|G4929|V-AIA-3S
@@ -170,10 +170,10 @@ v11 ἔφη|ephē|replied|G5346|V-IIA-3S
 v11 Σὺ|Sy|You|G4771|PPro-N2S
 v11 λέγεις|legeis|have said [so]|G3004|V-PIA-2S
 v12 Καὶ|Kai|And|G2532|Conj
-v12 ἐν|en|vvv|G1722|Prep
-v12 τῷ|tō|vvv|G3588|Art-DNS
+v12 ἐν|en|...|G1722|Prep
+v12 τῷ|tō|...|G3588|Art-DNS
 v12 κατηγορεῖσθαι|katēgoreisthai|when He was accused|G2723|V-PNM/P
-v12 αὐτὸν|auton|vvv|G846|PPro-AM3S
+v12 αὐτὸν|auton|...|G846|PPro-AM3S
 v12 ὑπὸ|hypo|by|G5259|Prep
 v12 τῶν|tōn|the|G3588|Art-GMP
 v12 ἀρχιερέων|archiereōn|chief priests|G749|N-GMP
@@ -186,13 +186,13 @@ v13 λέγει|legei|asked|G3004|V-PIA-3S
 v13 αὐτῷ|autō|Him|G846|PPro-DM3S
 v13 ὁ|ho|-|G3588|Art-NMS
 v13 Πιλᾶτος|Pilatos|Pilate|G4091|N-NMS
-v13 Οὐκ|Ouk|vvv|G3756|Adv
+v13 Οὐκ|Ouk|...|G3756|Adv
 v13 ἀκούεις|akoueis|Do You not hear|G191|V-PIA-2S
 v13 πόσα|posa|how many|G4214|IPro-ANP
 v13 σου|sou|You|G4771|PPro-G2S
 v13 καταμαρτυροῦσιν|katamartyrousin|charges they are bringing against|G2649|V-PIA-3P
 v14 Καὶ|Kai|But|G2532|Conj
-v14 οὐκ|ouk|vvv|G3756|Adv
+v14 οὐκ|ouk|...|G3756|Adv
 v14 ἀπεκρίθη|apekrithē|[Jesus] gave no answer|G611|V-AIP-3S
 v14 αὐτῷ|autō|...|G846|PPro-DM3S
 v14 πρὸς|pros|to|G4314|Prep
@@ -226,7 +226,7 @@ v16 λεγόμενον|legomenon|named|G3004|V-PPM/P-AMS
 v16 Βαραββᾶν|Barabban|Barabbas|G912|N-AMS
 v17 συνηγμένων|synēgmenōn|when [the crowd] had assembled|G4863|V-RPM/P-GMP
 v17 οὖν|oun|So|G3767|Conj
-v17 αὐτῶν|autōn|vvv|G846|PPro-GM3P
+v17 αὐτῶν|autōn|...|G846|PPro-GM3P
 v17 εἶπεν|eipen|asked|G2036|V-AIA-3S
 v17 αὐτοῖς|autois|them|G846|PPro-DM3P
 v17 ὁ|ho|-|G3588|Art-NMS
@@ -251,7 +251,7 @@ v18 παρέδωκαν|paredōkan|they had handed [Jesus] over|G3860|V-AIA-3P
 v18 αὐτόν|auton|to him|G846|PPro-AM3S
 v19 Καθημένου|Kathēmenou|[Pilate] was sitting|G2521|V-PPM/P-GMS
 v19 δὲ|de|[While]|G1161|Conj
-v19 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v19 αὐτοῦ|autou|...|G846|PPro-GM3S
 v19 ἐπὶ|epi|on|G1909|Prep
 v19 τοῦ|tou|the|G3588|Art-GNS
 v19 βήματος|bēmatos|judgment seat|G968|N-GNS
@@ -323,7 +323,7 @@ v22 τὸν|ton|who|G3588|Art-AMS
 v22 λεγόμενον|legomenon|is called|G3004|V-PPM/P-AMS
 v22 Χριστόν|Christon|Christ|G5547|N-AMS
 v22 Λέγουσιν|Legousin|They all answered|G3004|V-PIA-3P
-v22 πάντες|pantes|vvv|G3956|Adj-NMP
+v22 πάντες|pantes|...|G3956|Adj-NMP
 v22 Σταυρωθήτω|Staurōthētō|Crucify Him|G4717|V-AMP-3S
 v23 Ὁ|Ho|-|G3588|Art-NMS
 v23 δὲ|de|-|G1161|Conj
@@ -605,7 +605,7 @@ v41 ἔλεγον|elegon|saying|G2036|V-IIA-3P
 v42 Ἄλλους|Allous|others|G243|Adj-AMP
 v42 ἔσωσεν|esōsen|He saved|G4982|V-AIA-3S
 v42 ἑαυτὸν|heauton|Himself|G1438|RefPro-AM3S
-v42 οὐ|ou|vvv|G3756|Adv
+v42 οὐ|ou|...|G3756|Adv
 v42 δύναται|dynatai|[but] He cannot|G1410|V-PIM/P-3S
 v42 σῶσαι|sōsai|save|G4982|V-ANA
 v42 Βασιλεὺς|Basileus|[the] King|G935|N-NMS
@@ -635,8 +635,8 @@ v43 ὅτι|hoti|-|G3754|Conj
 v43 Θεοῦ|Theou|of God|G2316|N-GMS
 v43 εἰμι|eimi|I am|G1510|V-PIA-1S
 v43 Υἱός|Huios|[the] Son|G5207|N-NMS
-v44 Τὸ|To|vvv|G3588|Art-ANS
-v44 δ’|d’|vvv|G1161|Conj
+v44 Τὸ|To|...|G3588|Art-ANS
+v44 δ’|d’|...|G1161|Conj
 v44 αὐτὸ|auto|In the same way|G846|PPro-AN3S
 v44 καὶ|kai|even|G2532|Conj
 v44 οἱ|hoi|the|G3588|Art-NMP
@@ -669,7 +669,7 @@ v46 ἀνεβόησεν|aneboēsen|cried out|G310|V-AIA-3S
 v46 ὁ|ho|-|G3588|Art-NMS
 v46 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v46 φωνῇ|phōnē|in a loud voice|G5456|N-DFS
-v46 μεγάλῃ|megalē|vvv|G3173|Adj-DFS
+v46 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v46 λέγων|legōn|-|G3004|V-PPA-NMS
 v46 Ἠλὶ*|Ēli|Eli|G2241|N-VMS
 v46 ἠλὶ*|ēli|Eli|G2241|N-VMS
@@ -730,7 +730,7 @@ v50 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v50 πάλιν|palin|again|G3825|Adv
 v50 κράξας|kraxas|had cried out|G2896|V-APA-NMS
 v50 φωνῇ|phōnē|in a loud voice|G5456|N-DFS
-v50 μεγάλῃ|megalē|vvv|G3173|Adj-DFS
+v50 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v50 ἀφῆκεν|aphēken|He yielded up|G863|V-AIA-3S
 v50 τὸ|to|[His]|G3588|Art-ANS
 v50 πνεῦμα|pneuma|spirit|G4151|N-ANS
@@ -998,8 +998,8 @@ v66 οἱ|hoi|-|G3588|Art-NMP
 v66 δὲ|de|So|G1161|Conj
 v66 πορευθέντες|poreuthentes|they went [and]|G4198|V-APP-NMP
 v66 ἠσφαλίσαντο|ēsphalisanto|secured the tomb|G805|V-AIM-3P
-v66 τὸν|ton|vvv|G3588|Art-AMS
-v66 τάφον|taphon|vvv|G5028|N-AMS
+v66 τὸν|ton|...|G3588|Art-AMS
+v66 τάφον|taphon|...|G5028|N-AMS
 v66 σφραγίσαντες|sphragisantes|by sealing|G4972|V-APA-NMP
 v66 τὸν|ton|the|G3588|Art-AMS
 v66 λίθον|lithon|stone|G3037|N-AMS

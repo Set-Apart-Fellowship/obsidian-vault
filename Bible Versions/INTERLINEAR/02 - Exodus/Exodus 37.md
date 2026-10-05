@@ -19,12 +19,12 @@ v2 טָה֖וֹר|ṭā·hō·wr|it with pure|H2889|Adj-ms
 v2 מִבַּ֣יִת|mib·ba·yiṯ|both inside|H1004|Prep-m | N-ms
 v2 וּמִח֑וּץ|ū·mi·ḥūṣ|and out|H2351|Conj-w, Prep-m | N-ms
 v2 וַיַּ֥עַשׂ|way·ya·‘aś|and made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
-v2 ל֛וֹ|lōw||H0|Prep | 3ms
+v2 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v2 זֵ֥ר|zêr|molding|H2213|N-ms
 v2 זָהָ֖ב|zā·hāḇ|a gold|H2091|N-ms
 v2 סָבִֽיב׃|sā·ḇîḇ|around it|H5439|Adv
 v3 וַיִּצֹ֣ק|way·yi·ṣōq|And he cast|H3332|Conj-w | V-Qal-ConsecImperf-3ms
-v3 ל֗וֹ|lōw||H0|Prep | 3ms
+v3 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v3 אַרְבַּע֙|’ar·ba‘|four|H702|Number-fs
 v3 טַבְּעֹ֣ת|ṭab·bə·‘ōṯ|rings|H2885|N-fpc
 v3 זָהָ֔ב|zā·hāḇ|gold|H2091|N-ms
@@ -90,7 +90,7 @@ v8 מִן־|min-|-|H4480|Prep
 v8 הַכַּפֹּ֛רֶת|hak·kap·pō·reṯ|-|H3727|Art | N-fs
 v8 עָשָׂ֥ה|‘ā·śāh|[all] made|H6213|V-Qal-Perf-3ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
-v8 הַכְּרֻבִ֖ים|hak·kə·ru·ḇîm||H3742|Art | N-mp
+v8 הַכְּרֻבִ֖ים|hak·kə·ru·ḇîm|-|H3742|Art | N-mp
 v8 מִשְּׁנֵ֥י|miš·šə·nê|-|H8147|Prep-m | Number-mdc
 v8 קִצְווֹתוֹ׃|qiṣ·wō·ṯō|[from one piece of gold]|H7117|N-fpc | 3ms
 v9 וַיִּהְי֣וּ|way·yih·yū|-|H1961|Conj-w | V-Qal-ConsecImperf-3mp
@@ -104,13 +104,13 @@ v9 עַל־|‘al-|-|H5921|Prep
 v9 הַכַּפֹּ֔רֶת|hak·kap·pō·reṯ|the mercy seat|H3727|Art | N-fs
 v9 וּפְנֵיהֶ֖ם|ū·p̄ə·nê·hem|[The cherubim] faced|H6440|Conj-w | N-mpc | 3mp
 v9 אִ֣ישׁ|’îš|each|H376|N-ms
-v9 אֶל־|’el-||H413|Prep
+v9 אֶל־|’el-|-|H413|Prep
 v9 אָחִ֑יו|’ā·ḥîw|other|H251|N-msc | 3ms
 v9 אֶל־|’el-|looking toward|H413|Prep
 v9 הַכַּפֹּ֔רֶת|hak·kap·pō·reṯ|the mercy seat|H3727|Art | N-fs
 v9 הָי֖וּ|hā·yū|...|H1961|V-Qal-Perf-3cp
 v9 פְּנֵ֥י|pə·nê|-|H6440|N-cpc
-v9 הַכְּרֻבִֽים׃פ|hak·kə·ru·ḇîm|-|H3742|Art | N-mp
+v9 הַכְּרֻבִֽים׃|hak·kə·ru·ḇîm|-|H3742|Art | N-mp
 v10 וַיַּ֥עַשׂ|way·ya·‘aś|He also made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 הַשֻּׁלְחָ֖ן|haš·šul·ḥān|the table|H7979|Art | N-ms
@@ -128,7 +128,7 @@ v11 אֹת֖וֹ|’ō·ṯōw|it|H853|DirObjM | 3ms
 v11 זָהָ֣ב|zā·hāḇ|gold|H2091|N-ms
 v11 טָה֑וֹר|ṭā·hō·wr|with pure|H2889|Adj-ms
 v11 וַיַּ֥עַשׂ|way·ya·‘aś|and made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
-v11 ל֛וֹ|lōw||H0|Prep | 3ms
+v11 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v11 זֵ֥ר|zêr|molding|H2213|N-ms
 v11 זָהָ֖ב|zā·hāḇ|a gold|H2091|N-ms
 v11 סָבִֽיב׃|sā·ḇîḇ|around it|H5439|Adv
@@ -194,7 +194,7 @@ v16 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v16 יֻסַּ֖ךְ|yus·saḵ|for pouring drink offerings|H5258|V-Hofal-Imperf-3ms
 v16 בָּהֵ֑ן|bā·hên|...|H0|Prep-b | Pro-3fp
 v16 זָהָ֖ב|zā·hāḇ|gold|H2091|N-ms
-v16 טָהֽוֹר׃פ|ṭā·hō·wr|out of pure|H2889|Adj-ms
+v16 טָהֽוֹר׃|ṭā·hō·wr|out of pure|H2889|Adj-ms
 v17 וַיַּ֥עַשׂ|way·ya·‘aś|Then he made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 הַמְּנֹרָ֖ה|ham·mə·nō·rāh|the lampstand|H4501|Art | N-fs
@@ -259,7 +259,7 @@ v21 מִמֶּ֗נָּה|mim·men·nāh|from [the lampstand]|H4480|Prep | 3fs
 v21 וְכַפְתֹּר֙|wə·ḵap̄·tōr|a bud|H3730|Conj-w | N-ms
 v21 תַּ֣חַת|ta·ḥaṯ|under|H8478|Prep
 v21 שְׁנֵ֤י|šə·nê|the second pair|H8147|Number-mdc
-v21 הַקָּנִים֙|haq·qā·nîm||H7070|Art | N-mp
+v21 הַקָּנִים֙|haq·qā·nîm|-|H7070|Art | N-mp
 v21 מִמֶּ֔נָּה|mim·men·nāh|-|H4480|Prep | 3fs
 v21 וְכַפְתֹּ֕ר|wə·ḵap̄·tōr|and a bud|H3730|Conj-w | N-ms
 v21 תַּֽחַת־|ta·ḥaṯ-|under|H8478|Prep
@@ -294,7 +294,7 @@ v24 עָשָׂ֣ה|‘ā·śāh|He made|H6213|V-Qal-Perf-3ms
 v24 אֹתָ֑הּ|’ō·ṯāh|[the lampstand]|H853|DirObjM | 3fs
 v24 וְאֵ֖ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v24 כָּל־|kāl-|and all|H3605|N-msc
-v24 כֵּלֶֽיהָ׃פ|kê·le·hā|its utensils|H3627|N-mpc | 3fs
+v24 כֵּלֶֽיהָ׃|kê·le·hā|its utensils|H3627|N-mpc | 3fs
 v25 וַיַּ֛עַשׂ|way·ya·‘aś|He made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 מִזְבַּ֥ח|miz·baḥ|the altar|H4196|N-msc
@@ -323,7 +323,7 @@ v26 סָבִ֖יב|sā·ḇîḇ|all|H5439|Adv
 v26 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v26 קַרְנֹתָ֑יו|qar·nō·ṯāw|and horns|H7161|N-fpc | 3ms
 v26 וַיַּ֥עַשׂ|way·ya·‘aś|Then he made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
-v26 ל֛וֹ|lōw||H0|Prep | 3ms
+v26 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v26 זֵ֥ר|zêr|a molding|H2213|N-ms
 v26 זָהָ֖ב|zā·hāḇ|of gold|H2091|N-ms
 v26 סָבִֽיב׃|sā·ḇîḇ|around it|H5439|Adv
@@ -331,7 +331,7 @@ v27 וּשְׁתֵּי֩|ū·šə·tê|two|H8147|Conj-w | Number-fdc
 v27 טַבְּעֹ֨ת|ṭab·bə·‘ōṯ|rings|H2885|N-fpc
 v27 זָהָ֜ב|zā·hāḇ|gold|H2091|N-ms
 v27 עָֽשָׂה־|‘ā·śāh-|He made|H6213|V-Qal-Perf-3ms
-v27 ל֣וֹ׀|lōw||H0|Prep | 3ms
+v27 ל֣וֹ׀|lōw|-|H0|Prep | 3ms
 v27 מִתַּ֣חַת|mit·ta·ḥaṯ|below|H8478|Prep-m
 v27 לְזֵר֗וֹ|lə·zê·rōw|the molding|H2213|Prep-l | N-msc | 3ms
 v27 עַ֚ל|‘al|on|H5921|Prep
@@ -344,7 +344,7 @@ v27 לְבָתִּ֣ים|lə·ḇāt·tîm|to hold|H1004|Prep-l | N-mp
 v27 לְבַדִּ֔ים|lə·ḇad·dîm|the poles|H905|Prep-l | N-mp
 v27 לָשֵׂ֥את|lā·śêṯ|used to carry|H5375|Prep-l | V-Qal-Inf
 v27 אֹת֖וֹ|’ō·ṯōw|it|H853|DirObjM | 3ms
-v27 בָּהֶֽם׃|bā·hem||H0|Prep | 3mp
+v27 בָּהֶֽם׃|bā·hem|-|H0|Prep | 3mp
 v28 וַיַּ֥עַשׂ|way·ya·‘aś|And he made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v28 אֶת־|’eṯ-|-|H853|DirObjM
 v28 הַבַּדִּ֖ים|hab·bad·dîm|the poles|H905|Art | N-mp
@@ -363,4 +363,4 @@ v29 קְטֹ֥רֶת|qə·ṭō·reṯ|incense|H7004|N-fsc
 v29 הַסַּמִּ֖ים|has·sam·mîm|fragrant|H5561|Art | N-mp
 v29 טָה֑וֹר|ṭā·hō·wr|and the pure|H2889|Adj-ms
 v29 מַעֲשֵׂ֖ה|ma·‘ă·śêh|...|H4639|N-msc
-v29 רֹקֵֽחַ׃פ|rō·qê·aḥ|[the work] of a perfumer|H7543|V-Qal-Prtcpl-ms
+v29 רֹקֵֽחַ׃|rō·qê·aḥ|[the work] of a perfumer|H7543|V-Qal-Prtcpl-ms

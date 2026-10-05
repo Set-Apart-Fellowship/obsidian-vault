@@ -81,7 +81,7 @@ v5 לְבָ֣בְךָ֔|lə·ḇā·ḇə·ḵā|of heart|H3824|N-msc | 2ms
 v5 אַתָּ֥ה|’at·tāh|that you|H859|Pro-2ms
 v5 בָ֖א|ḇā|are going in|H935|V-Qal-Prtcpl-ms
 v5 לָרֶ֣שֶׁת|lā·re·šeṯ|to possess|H3423|Prep-l | V-Qal-Inf
-v5 אֶת־|’eṯ-||H853|DirObjM
+v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 אַרְצָ֑ם|’ar·ṣām|their land|H776|N-fsc | 3mp
 v5 כִּ֞י|kî|but [it is] because|H3588|Conj
 v5 בְּרִשְׁעַ֣ת׀|bə·riš·‘aṯ|of their wickedness|H7564|Prep-b | N-fsc
@@ -151,7 +151,7 @@ v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v8 וַיִּתְאַנַּ֧ף|way·yiṯ·’an·nap̄|was angry enough|H599|Conj-w | V-Hitpael-ConsecImperf-3ms
 v8 יְהוָ֛ה|Yah·weh|and He|H3068|N-proper-ms
-v8 בָּכֶ֖ם|bā·ḵem||H0|Prep | 2mp
+v8 בָּכֶ֖ם|bā·ḵem|-|H0|Prep | 2mp
 v8 לְהַשְׁמִ֥יד|lə·haš·mîḏ|to destroy|H8045|Prep-l | V-Hifil-Inf
 v8 אֶתְכֶֽם׃|’eṯ·ḵem|you|H853|DirObjM | 2mp
 v9 בַּעֲלֹתִ֣י|ba·‘ă·lō·ṯî|When I went up|H5927|Prep-b | V-Qal-Inf | 1cs
@@ -367,7 +367,7 @@ v21 בָּאֵשׁ֒|bā·’êš|in the fire|H784|Prep-b, Art | N-cs
 v21 וָאֶכֹּ֨ת|wā·’ek·kōṯ|Then I crushed it|H3807|Conj-w | V-Qal-ConsecImperf-1cs
 v21 אֹת֤וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v21 טָחוֹן֙|ṭā·ḥō·wn|[and] ground|H2912|V-Qal-InfAbs
-v21 הֵיטֵ֔ב|hê·ṭêḇ||H3190|V-Hifil-InfAbs
+v21 הֵיטֵ֔ב|hê·ṭêḇ|-|H3190|V-Hifil-InfAbs
 v21 עַ֥ד|‘aḏ|it to|H5704|Prep
 v21 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v21 דַּ֖ק|daq|powder|H1854|V-Qal-Perf-3ms
@@ -382,7 +382,7 @@ v21 מִן־|min-|from|H4480|Prep
 v21 הָהָֽר׃|hā·hār|the mountain|H2022|Art | N-ms
 v22 וּבְתַבְעֵרָה֙|ū·ḇə·ṯaḇ·‘ê·rāh|at Taberah|H8404|Conj-w, Prep-b | N-proper-fs
 v22 וּבְמַסָּ֔ה|ū·ḇə·mas·sāh|at Massah|H4532|Conj-w, Prep-b | N-proper-fs
-v22 וּבְקִבְרֹ֖ת|ū·ḇə·qiḇ·rōṯ|vvv|H6914|
+v22 וּבְקִבְרֹ֖ת|ū·ḇə·qiḇ·rōṯ|...|H6914|
 v22 הַֽתַּאֲוָ֑ה|hat·ta·’ă·wāh|and at Kibroth-hattaavah|H6914|Conj-w, Prep | N-proper-fs
 v22 מַקְצִפִ֥ים|maq·ṣi·p̄îm|You continued to provoke|H7107|V-Hifil-Prtcpl-mp
 v22 הֱיִיתֶ֖ם|hĕ·yî·ṯem|...|H1961|V-Qal-Perf-2mp
@@ -496,4 +496,4 @@ v29 הוֹצֵ֙אתָ֙|hō·w·ṣê·ṯā|You brought out|H3318|V-Hifil-Perf
 v29 בְּכֹחֲךָ֣|bə·ḵō·ḥă·ḵā|power|H3581|Prep-b | N-msc | 2ms
 v29 הַגָּדֹ֔ל|hag·gā·ḏōl|by Your great|H1419|Art | Adj-ms
 v29 וּבִֽזְרֹעֲךָ֖|ū·ḇiz·rō·‘ă·ḵā|arm|H2220|Conj-w, Prep-b | N-fsc | 2ms
-v29 הַנְּטוּיָֽה׃פ|han·nə·ṭū·yāh|and outstretched|H5186|Art | V-Qal-QalPassPrtcpl-fs
+v29 הַנְּטוּיָֽה׃|han·nə·ṭū·yāh|and outstretched|H5186|Art | V-Qal-QalPassPrtcpl-fs

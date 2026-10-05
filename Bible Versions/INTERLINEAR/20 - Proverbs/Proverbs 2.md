@@ -140,4 +140,4 @@ v22 מֵאֶ֣רֶץ|mê·’e·reṣ|the land|H776|Prep-m | N-fs
 v22 יִכָּרֵ֑תוּ|yik·kā·rê·ṯū|will be cut off|H3772|V-Nifal-Imperf-3mp
 v22 וּ֝בוֹגְדִ֗ים|ū·ḇō·wḡ·ḏîm|and the unfaithful|H898|Conj-w | V-Qal-Prtcpl-mp
 v22 יִסְּח֥וּ|yis·sə·ḥū|{will} be uprooted|H5255|V-Qal-Imperf-3mp
-v22 מִמֶּֽנָּה׃פ|mim·men·nāh|from|H4480|Prep | 3fs
+v22 מִמֶּֽנָּה׃|mim·men·nāh|from|H4480|Prep | 3fs

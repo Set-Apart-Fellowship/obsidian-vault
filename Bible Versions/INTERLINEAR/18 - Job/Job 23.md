@@ -28,7 +28,7 @@ v5 יַעֲנֵ֑נִי|ya·‘ă·nê·nî|He would answer|H6030|V-Qal-Imperf-
 v5 וְ֝אָבִ֗ינָה|wə·’ā·ḇî·nāh|and consider|H995|Conj-w | V-Qal-ConjImperf.Cohort-1cs
 v5 מַה־|mah-|what|H4100|Interrog
 v5 יֹּ֥אמַר|yō·mar|He would say|H559|V-Qal-Imperf-3ms
-v5 לִֽי׃|lî||H0|Prep | 1cs
+v5 לִֽי׃|lî|-|H0|Prep | 1cs
 v6 הַבְּרָב־|hab·bə·rāḇ-|in His great|H7230|Art, Prep-b | N-msc
 v6 כֹּ֭חַ|kō·aḥ|power|H3581|N-ms
 v6 יָרִ֣יב|yā·rîḇ|Would He contend|H7378|V-Qal-Imperf-3ms

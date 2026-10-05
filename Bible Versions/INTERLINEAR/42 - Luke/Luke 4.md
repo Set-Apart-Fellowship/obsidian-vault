@@ -22,7 +22,7 @@ v2 ὑπὸ|hypo|by|G5259|Prep
 v2 τοῦ|tou|the|G3588|Art-GMS
 v2 διαβόλου|diabolou|devil|G1228|Adj-GMS
 v2 Καὶ|Kai|-|G2532|Conj
-v2 οὐκ|ouk|vvv|G3756|Adv
+v2 οὐκ|ouk|...|G3756|Adv
 v2 ἔφαγεν|ephagen|He ate|G5315|V-AIA-3S
 v2 οὐδὲν|ouden|nothing|G3762|Adj-ANS
 v2 ἐν|en|during|G1722|Prep
@@ -58,7 +58,7 @@ v4 ὁ|ho|-|G3588|Art-NMS
 v4 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v4 Γέγραπται|Gegraptai|It is written|G1125|V-RIM/P-3S
 v4 ὅτι|hoti|-|G3754|Conj
-v4 Οὐκ|Ouk|vvv|G3756|Adv
+v4 Οὐκ|Ouk|...|G3756|Adv
 v4 ἐπ’|ep’|on|G1909|Prep
 v4 ἄρτῳ|artō|bread|G740|N-DMS
 v4 μόνῳ|monō|alone|G3441|Adj-DMS
@@ -110,7 +110,7 @@ v7 ἐνώπιον|enōpion|...|G1799|Prep
 v7 ἐμοῦ|emou|me|G1473|PPro-G1S
 v7 ἔσται|estai|it will all be|G1510|V-FIM-3S
 v7 σοῦ|sou|Yours|G4771|PPro-G2S
-v7 πᾶσα|pasa|vvv|G3956|Adj-NFS
+v7 πᾶσα|pasa|...|G3956|Adj-NFS
 v8 Καὶ|Kai|But|G2532|Conj
 v8 ἀποκριθεὶς|apokritheis|answered|G611|V-APP-NMS
 v8 ὁ|ho|-|G3588|Art-NMS
@@ -185,7 +185,7 @@ v12 ὁ|ho|-|G3588|Art-NMS
 v12 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v12 ὅτι|hoti|-|G3754|Conj
 v12 Εἴρηται|Eirētai|It [also] says|G2046|V-RIM/P-3S
-v12 Οὐκ|Ouk|vvv|G3756|Adv
+v12 Οὐκ|Ouk|...|G3756|Adv
 v12 ἐκπειράσεις|ekpeiraseis|Do not put|G1598|V-FIA-2S
 v12 Κύριον|Kyrion|[the] Lord|G2962|N-AMS
 v12 τὸν|ton|-|G3588|Art-AMS
@@ -397,7 +397,7 @@ v24 ἐν|en|in|G1722|Prep
 v24 τῇ|tē|-|G3588|Art-DFS
 v24 πατρίδι|patridi|hometown|G3968|N-DFS
 v24 αὐτοῦ|autou|his|G846|PPro-GM3S
-v25 ἐπ’|ep’|vvv|G1909|Prep
+v25 ἐπ’|ep’|...|G1909|Prep
 v25 ἀληθείας|alētheias|truthfully [that]|G225|N-GFS
 v25 δὲ|de|But|G1161|Conj
 v25 λέγω|legō|I tell|G3004|V-PIA-1S
@@ -443,7 +443,7 @@ v26 Σάρεπτα|Sarepta|of Zarephath|G4558|N-ANP
 v26 τῆς|tēs|-|G3588|Art-GFS
 v26 Σιδωνίας|Sidōnias|in Sidon|G4606|N-GFS
 v26 πρὸς|pros|to|G4314|Prep
-v26 γυναῖκα|gynaika|vvv|G1135|N-AFS
+v26 γυναῖκα|gynaika|...|G1135|N-AFS
 v26 χήραν|chēran|[the] widow|G5503|Adj-AFS
 v27 καὶ|kai|And|G2532|Conj
 v27 πολλοὶ|polloi|many|G4183|Adj-NMP
@@ -502,7 +502,7 @@ v30 δὲ|de|But|G1161|Conj
 v30 διελθὼν|dielthōn|passed|G1330|V-APA-NMS
 v30 διὰ|dia|through|G1223|Prep
 v30 μέσου|mesou|[the crowd]|G3319|Adj-GNS
-v30 αὐτῶν|autōn|vvv|G846|PPro-GM3P
+v30 αὐτῶν|autōn|...|G846|PPro-GM3P
 v30 ἐπορεύετο|eporeueto|[and] went on His way|G4198|V-IIM/P-3S
 v31 Καὶ|Kai|Then|G2532|Conj
 v31 κατῆλθεν|katēlthen|He went down|G2718|V-AIA-3S
@@ -703,7 +703,7 @@ v41 τοῦ|tou|-|G3588|Art-GMS
 v41 Θεοῦ|Theou|of God|G2316|N-GMS
 v41 καὶ|kai|But|G2532|Conj
 v41 ἐπιτιμῶν|epitimōn|He rebuked [ the demons ]|G2008|V-PPA-NMS
-v41 οὐκ|ouk|vvv|G3756|Adv
+v41 οὐκ|ouk|...|G3756|Adv
 v41 εἴα|eia|[and] would not allow|G1439|V-IIA-3S
 v41 αὐτὰ|auta|them|G846|PPro-AN3P
 v41 λαλεῖν|lalein|to speak|G2980|V-PNA
@@ -713,8 +713,8 @@ v41 τὸν|ton|the|G3588|Art-AMS
 v41 Χριστὸν|Christon|Christ|G5547|N-AMS
 v41 αὐτὸν|auton|He|G846|PPro-AM3S
 v41 εἶναι|einai|was|G1510|V-PNA
-v42 Γενομένης|Genomenēs|vvv|G1096|V-APM-GFS
-v42 δὲ|de|vvv|G1161|Conj
+v42 Γενομένης|Genomenēs|...|G1096|V-APM-GFS
+v42 δὲ|de|...|G1161|Conj
 v42 ἡμέρας|hēmeras|At daybreak|G2250|N-GFS
 v42 ἐξελθὼν|exelthōn|[Jesus] went out|G1831|V-APA-NMS
 v42 ἐπορεύθη|eporeuthē|...|G4198|V-AIP-3S
@@ -756,7 +756,7 @@ v43 βασιλείαν|basileian|kingdom|G932|N-AFS
 v43 τοῦ|tou|-|G3588|Art-GMS
 v43 Θεοῦ|Theou|of God|G2316|N-GMS
 v43 ὅτι|hoti|because|G3754|Conj
-v43 ἐπὶ|epi|vvv|G1909|Prep
+v43 ἐπὶ|epi|...|G1909|Prep
 v43 τοῦτο|touto|that is why|G3778|DPro-ANS
 v43 ἀπεστάλην|apestalēn|I was sent|G649|V-AIP-1S
 v44 Καὶ|Kai|And|G2532|Conj

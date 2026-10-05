@@ -12,13 +12,13 @@ v1 וְהִנֵּ֣ה׀|wə·hin·nêh|[I] saw|H2009|Conj-w | Interjection
 v1 דִּמְעַ֣ת|dim·‘aṯ|the tears|H1832|N-fsc
 v1 הָעֲשֻׁקִ֗ים|hā·‘ă·šu·qîm|of the oppressed|H6217|Art | V-Qal-QalPassPrtcpl-mp
 v1 וְאֵ֤ין|wə·’ên|and they had no|H369|Conj-w | Adv
-v1 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v1 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v1 מְנַחֵ֔ם|mə·na·ḥêm|comforter|H5162|V-Piel-Prtcpl-ms
 v1 וּמִיַּ֤ד|ū·mî·yaḏ|in the hands|H3027|Conj-w, Prep-m | N-fsc
 v1 עֹֽשְׁקֵיהֶם֙|‘ō·šə·qê·hem|of their oppressors|H6231|V-Qal-Prtcpl-mpc | 3mp
 v1 כֹּ֔חַ|kō·aḥ|the power [lay]|H3581|N-ms
 v1 וְאֵ֥ין|wə·’ên|and there was no|H369|Conj-w | Adv
-v1 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v1 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v1 מְנַחֵֽם׃|mə·na·ḥêm|comforter|H5162|V-Piel-Prtcpl-ms
 v2 וְשַׁבֵּ֧חַ|wə·šab·bê·aḥ|admired|H7623|Conj-w | V-Piel-InfAbs
 v2 אֲנִ֛י|’ă·nî|So I|H589|Pro-1cs
@@ -98,7 +98,7 @@ v8 גַּ֣ם|gam|even|H1571|Conj
 v8 בֵּ֧ן|bên|a son|H1121|N-ms
 v8 וָאָ֣ח|wā·’āḥ|or brother|H251|Conj-w | N-ms
 v8 אֵֽין־|’ên-|without|H369|Adv
-v8 ל֗וֹ|lōw||H0|Prep | 3ms
+v8 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v8 וְאֵ֥ין|wə·’ên|And though there is no|H369|Conj-w | Adv
 v8 קֵץ֙|qêṣ|end|H7093|N-ms
 v8 לְכָל־|lə·ḵāl|-|H3605|Prep-l | N-msc
@@ -149,7 +149,7 @@ v11 אִם־|’im-|if|H518|Conj
 v11 יִשְׁכְּב֥וּ|yiš·kə·ḇū|lie down together|H7901|V-Qal-Imperf-3mp
 v11 שְׁנַ֖יִם|šə·na·yim|two|H8147|Number-md
 v11 וְחַ֣ם|wə·ḥam|they will keep warm|H2552|Conj-w | V-Qal-ConjPerf-3ms
-v11 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v11 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v11 וּלְאֶחָ֖ד|ū·lə·’e·ḥāḏ|can one|H259|Conj-w, Prep-l | Number-ms
 v11 אֵ֥יךְ|’êḵ|but how|H349|Interjection
 v11 יֵחָֽם׃|yê·ḥām|keep warm {alone}|H2552|V-Qal-Imperf-3ms

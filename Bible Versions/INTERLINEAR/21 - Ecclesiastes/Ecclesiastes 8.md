@@ -93,7 +93,7 @@ v8 יְמַלֵּ֥ט|yə·mal·lêṭ|release|H4422|V-Piel-Imperf-3ms
 v8 רֶ֖שַׁע|re·ša‘|so wickedness|H7562|N-ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 בְּעָלָֽיו׃|bə·‘ā·lāw|those who practice it|H1167|N-mpc | 3ms
-v9 אֶת־|’eṯ-||H853|Pro
+v9 אֶת־|’eṯ-|-|H853|Pro
 v9 כָּל־|kāl-|All|H3605|N-msc
 v9 זֶ֤ה|zeh|this|H2088|Pro-ms
 v9 רָאִ֙יתִי֙|rā·’î·ṯî|I have seen|H7200|V-Qal-Perf-1cs
@@ -112,7 +112,7 @@ v9 שָׁלַ֧ט|šā·laṭ|lords it|H7980|V-Qal-Perf-3ms
 v9 הָאָדָ֛ם|hā·’ā·ḏām|one man|H120|Art | N-ms
 v9 בְּאָדָ֖ם|bə·’ā·ḏām|over another|H120|Prep-l | N-ms
 v9 לְרַ֥ע|lə·ra‘|to his own detriment|H7451|Prep | Adj-ms
-v9 לֽוֹ׃|lōw||H0|Prep | 3ms
+v9 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v10 וּבְכֵ֡ן|ū·ḇə·ḵên|Then too|H3651|Conj-w, Prep-b | Adv
 v10 רָאִיתִי֩|rā·’î·ṯî|I saw|H7200|V-Qal-Perf-1cs
 v10 רְשָׁעִ֨ים|rə·šā·‘îm|of the wicked|H7563|Adj-mp
@@ -140,9 +140,9 @@ v11 עַל־|‘al-|...|H5921|Prep
 v11 כֵּ֡ן|kên|...|H3651|Adv
 v11 מָלֵ֞א|mā·lê|become fully set|H4390|V-Qal-Perf-3ms
 v11 לֵ֧ב|lêḇ|the hearts|H3820|N-msc
-v11 בְּֽנֵי־|bə·nê-|vvv|H1121|N-mpc
+v11 בְּֽנֵי־|bə·nê-|...|H1121|N-mpc
 v11 הָאָדָ֛ם|hā·’ā·ḏām|of men|H120|Art | N-ms
-v11 בָּהֶ֖ם|bā·hem||H0|Prep | 3mp
+v11 בָּהֶ֖ם|bā·hem|-|H0|Prep | 3mp
 v11 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|on doing|H6213|Prep-l | V-Qal-Inf
 v11 רָֽע׃|rā‘|evil|H7451|Adj-ms
 v12 אֲשֶׁ֣ר|’ă·šer|Although|H834|Pro-r
@@ -151,7 +151,7 @@ v12 עֹשֶׂ֥ה|‘ō·śeh|does|H6213|V-Qal-Prtcpl-ms
 v12 רָ֛ע|rā‘|evil|H7451|Adj-ms
 v12 מְאַ֖ת|mə·’aṯ|a hundred [times]|H3967|Number-fsc
 v12 וּמַאֲרִ֣יךְ|ū·ma·’ă·rîḵ|and still lives long|H748|Conj-w | V-Hifil-Prtcpl-ms
-v12 ל֑וֹ|lōw||H0|Prep | 3ms
+v12 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v12 כִּ֚י|kî|yet|H3588|Conj
 v12 גַּם־|gam-|also|H1571|Conj
 v12 יוֹדֵ֣עַ|yō·w·ḏê·a‘|know|H3045|V-Qal-Prtcpl-ms

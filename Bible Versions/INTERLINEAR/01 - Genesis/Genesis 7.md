@@ -26,7 +26,7 @@ v2 וְאִשְׁתּ֑וֹ|wə·’iš·tōw|and its mate|H802|Conj-w | N-fsc |
 v2 וּמִן־|ū·min-|of|H4480|Conj-w | Prep
 v2 הַבְּהֵמָ֡ה|hab·bə·hê·māh|animal|H929|Art | N-fs
 v2 אֲ֠שֶׁר|’ă·šer|[every kind of]|H834|Pro-r
-v2 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v2 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v2 טְהֹרָ֥ה|ṭə·hō·rāh|unclean|H2889|Adj-fs
 v2 הִ֛וא|hî|-|H1931|Pro-3fs
 v2 שְׁנַ֖יִם|šə·na·yim|a pair|H8147|Number-md
@@ -100,7 +100,7 @@ v8 הַטְּהוֹרָ֔ה|haṭ·ṭə·hō·w·rāh|clean|H2889|Art | Adj-fs
 v8 וּמִן־|ū·min-|and|H4480|Conj-w | Prep
 v8 הַ֨בְּהֵמָ֔ה|hab·bə·hê·māh|animals|H929|Art | N-fs
 v8 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v8 אֵינֶ֖נָּה|’ê·nen·nāh|vvv|H369|Adv | 3fs
+v8 אֵינֶ֖נָּה|’ê·nen·nāh|...|H369|Adv | 3fs
 v8 טְהֹרָ֑ה|ṭə·hō·rāh|unclean|H2889|Adj-fs
 v8 וּמִ֨ן־|ū·min-|-|H4480|Conj-w | Prep
 v8 הָע֔וֹף|hā·‘ō·wp̄|the birds|H5775|Art | N-ms

@@ -39,7 +39,7 @@ v4 שְׂפָתֵ֣ינוּ|śə·p̄ā·ṯê·nū|our lips|H8193|N-fdc | 1cp
 v4 אִתָּ֑נוּ|’it·tā·nū|We own|H854|DirObjM | 1cp
 v4 מִ֖י|mî|who|H4310|Interrog
 v4 אָד֣וֹן|’ā·ḏō·wn|can be our master|H113|N-ms
-v4 לָֽנוּ׃|lā·nū||H0|Prep | 1cp
+v4 לָֽנוּ׃|lā·nū|-|H0|Prep | 1cp
 v5 מִשֹּׁ֥ד|miš·šōḏ|For the cause|H7701|Prep-m | N-msc
 v5 עֲנִיִּים֮|‘ă·nî·yîm|of the oppressed|H6041|Adj-mp
 v5 מֵאַנְקַ֪ת|mê·’an·qaṯ|and for the groaning|H603|Prep-m | N-fsc
@@ -51,7 +51,7 @@ v5 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v5 אָשִׁ֥ית|’ā·šîṯ|I will bring|H7896|V-Qal-Imperf-1cs
 v5 בְּ֝יֵ֗שַׁע|bə·yê·ša‘|safety|H3468|Prep-b | N-ms
 v5 יָפִ֥יחַֽ|yā·p̄î·aḥ|to him who yearns|H6315|V-Hifil-Imperf-3ms
-v5 לֽוֹ׃|lōw||H0|Prep | 3ms
+v5 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v6 אִֽמֲר֣וֹת|’i·mă·rō·wṯ|The words|H565|N-fpc
 v6 יְהוָה֮|Yah·weh|of the LORD|H3068|N-proper-ms
 v6 אֲמָר֪וֹת|’ă·mā·rō·wṯ|...|H565|N-fp

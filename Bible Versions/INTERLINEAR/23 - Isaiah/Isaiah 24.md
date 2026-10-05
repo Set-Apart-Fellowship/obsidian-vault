@@ -62,7 +62,7 @@ v6 אָ֣כְלָה|’ā·ḵə·lāh|has consumed|H398|V-Qal-Perf-3fs
 v6 אֶ֔רֶץ|’e·reṣ|the earth|H776|N-fs
 v6 וַֽיֶּאְשְׁמ֖וּ|way·ye’·šə·mū|must bear the guilt|H816|Conj-w | V-Qal-ConsecImperf-3mp
 v6 יֹ֣שְׁבֵי|yō·šə·ḇê|and its inhabitants|H3427|V-Qal-Prtcpl-mpc
-v6 בָ֑הּ|ḇāh||H0|Prep | 3fs
+v6 בָ֑הּ|ḇāh|-|H0|Prep | 3fs
 v6 עַל־|‘al-|-|H5921|Prep
 v6 כֵּ֗ן|kên|-|H3651|Adv
 v6 חָרוּ֙|ḥā·rū|have been burned|H2787|V-Qal-Perf-3cp
@@ -149,7 +149,7 @@ v15 הַיָּ֔ם|hay·yām|of the sea|H3220|Art | N-ms
 v15 שֵׁ֥ם|šêm|Extol the name|H8034|N-msc
 v15 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v15 אֱלֹהֵ֥י|’ĕ·lō·hê|the God|H430|N-mpc
-v15 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v15 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v16 מִכְּנַ֨ף|mik·kə·nap̄|From the ends|H3671|Prep-m | N-fsc
 v16 הָאָ֜רֶץ|hā·’ā·reṣ|of the earth|H776|Art | N-fs
 v16 זְמִרֹ֤ת|zə·mi·rōṯ|singing|H2158|N-mp
@@ -158,9 +158,9 @@ v16 צְבִ֣י|ṣə·ḇî|Glory|H6643|N-ms
 v16 לַצַּדִּ֔יק|laṣ·ṣad·dîq|to the Righteous One|H6662|Prep-l, Art | Adj-ms
 v16 וָאֹמַ֛ר|wā·’ō·mar|But I said|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v16 רָזִי־|rā·zî-|I am wasting away|H7334|N-ms
-v16 לִ֥י|lî||H0|Prep | 1cs
+v16 לִ֥י|lî|-|H0|Prep | 1cs
 v16 רָֽזִי־|rā·zî-|I am wasting away|H7334|N-ms
-v16 לִ֖י|lî||H0|Prep | 1cs
+v16 לִ֖י|lî|-|H0|Prep | 1cs
 v16 א֣וֹי|’ō·w|Woe|H188|Interjection
 v16 לִ֑י|lî|is me|H0|Prep | 1cs
 v16 בֹּגְדִ֣ים|bō·ḡə·ḏîm|The treacherous|H898|V-Qal-Prtcpl-mp
@@ -214,13 +214,13 @@ v20 פִּשְׁעָ֔הּ|piš·‘āh|Earth's rebellion|H6588|N-msc | 3fs
 v20 וְנָפְלָ֖ה|wə·nā·p̄ə·lāh|and it falls|H5307|Conj-w | V-Qal-ConjPerf-3fs
 v20 וְלֹא־|wə·lō-|never|H3808|Conj-w | Adv-NegPrt
 v20 תֹסִ֥יף|ṯō·sîp̄|again|H3254|V-Hifil-Imperf-3fs
-v20 קֽוּם׃ס|qūm|to rise|H6965|V-Qal-Inf
+v20 קֽוּם׃|qūm|to rise|H6965|V-Qal-Inf
 v21 וְהָיָה֙|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v21 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v21 הַה֔וּא|ha·hū|In that|H1931|Art | Pro-3ms
 v21 יִפְקֹ֧ד|yip̄·qōḏ|will punish|H6485|V-Qal-Imperf-3ms
 v21 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
-v21 עַל־|‘al-||H5921|Prep
+v21 עַל־|‘al-|-|H5921|Prep
 v21 צְבָ֥א|ṣə·ḇā|the host|H6635|N-csc
 v21 הַמָּר֖וֹם|ham·mā·rō·wm|of heaven|H4791|Art | N-ms
 v21 בַּמָּר֑וֹם|bam·mā·rō·wm|above|H4791|Prep-b, Art | N-ms
@@ -253,4 +253,4 @@ v23 צִיּוֹן֙|ṣî·yō·wn|Zion|H6726|N-proper-fs
 v23 וּבִיר֣וּשָׁלִַ֔ם|ū·ḇî·rū·šā·lim|and in Jerusalem|H3389|Conj-w, Prep-b | N-proper-fs
 v23 וְנֶ֥גֶד|wə·ne·ḡeḏ|and before|H5048|Conj-w | Prep
 v23 זְקֵנָ֖יו|zə·qê·nāw|His elders|H2205|Adj-mpc | 3ms
-v23 כָּבֽוֹד׃פ|kā·ḇō·wḏ|with great glory|H3519|N-ms
+v23 כָּבֽוֹד׃|kā·ḇō·wḏ|with great glory|H3519|N-ms

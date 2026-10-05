@@ -133,7 +133,7 @@ v9 וַיִּקְרָ֨א|way·yiq·rā|called|H7121|Conj-w | V-Qal-ConsecImperf
 v9 אֲבִימֶ֜לֶךְ|’ă·ḇî·me·leḵ|Then Abimelech|H40|N-proper-ms
 v9 לְאַבְרָהָ֗ם|lə·’aḇ·rā·hām|Abraham|H85|Prep-l | N-proper-ms
 v9 וַיֹּ֨אמֶר|way·yō·mer|and asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v9 ל֜וֹ|lōw||H0|Prep | 3ms
+v9 ל֜וֹ|lōw|-|H0|Prep | 3ms
 v9 מֶֽה־|meh-|What|H4100|Interrog
 v9 עָשִׂ֤יתָ|‘ā·śî·ṯā|have you done|H6213|V-Qal-Perf-2ms
 v9 לָּ֙נוּ֙|lā·nū|to us|H0|Prep | 1cp
@@ -279,4 +279,4 @@ v18 עַל־|‘al-|on|H5921|Prep
 v18 דְּבַ֥ר|də·ḇar|account|H1697|N-msc
 v18 שָׂרָ֖ה|śā·rāh|Sarah|H8283|N-proper-fs
 v18 אֵ֥שֶׁת|’ê·šeṯ|wife|H802|N-fsc
-v18 אַבְרָהָֽם׃ס|’aḇ·rā·hām|of Abraham's|H85|N-proper-ms
+v18 אַבְרָהָֽם׃|’aḇ·rā·hām|of Abraham's|H85|N-proper-ms

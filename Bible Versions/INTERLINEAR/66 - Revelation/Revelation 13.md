@@ -154,7 +154,7 @@ v6 σκηνοῦντας|skēnountas|dwell|G4637|V-PPA-AMP
 v7 Καὶ|Kai|Then|G2532|Conj
 v7 ἐδόθη|edothē|was permitted|G1325|V-AIP-3S
 v7 αὐτῷ|autō|[the beast]|G846|PPro-DN3S
-v7 ποιῆσαι|poiēsai|vvv|G4160|V-ANA
+v7 ποιῆσαι|poiēsai|...|G4160|V-ANA
 v7 πόλεμον|polemon|to wage war|G4171|N-AMS
 v7 μετὰ|meta|against|G3326|Prep
 v7 τῶν|tōn|the|G3588|Art-GMP
@@ -185,7 +185,7 @@ v8 ἐπὶ|epi|on|G1909|Prep
 v8 τῆς|tēs|the|G3588|Art-GFS
 v8 γῆς|gēs|earth|G1093|N-GFS
 v8 οὗ|hou|[all] whose|G3739|RelPro-GMS
-v8 οὐ|ou|vvv|G3756|Adv
+v8 οὐ|ou|...|G3756|Adv
 v8 γέγραπται|gegraptai|have not been written|G1125|V-RIM/P-3S
 v8 τὸ|to|-|G3588|Art-NNS
 v8 ὄνομα|onoma|names|G3686|N-NNS
@@ -202,7 +202,7 @@ v8 ἐσφαγμένου|esphagmenou|was slain|G4969|V-RPM/P-GNS
 v8 ἀπὸ|apo|from|G575|Prep
 v8 καταβολῆς|katabolēs|[the] foundation|G2602|N-GFS
 v8 κόσμου|kosmou|of [the] world|G2889|N-GMS
-v9 Εἴ|Ei|vvv|G1487|Conj
+v9 Εἴ|Ei|...|G1487|Conj
 v9 τις|tis|He who|G5100|IPro-NMS
 v9 ἔχει|echei|has|G2192|V-PIA-3S
 v9 οὖς|ous|an ear|G3775|N-ANS
@@ -319,18 +319,18 @@ v14 ἐνώπιον|enōpion|on behalf|G1799|Prep
 v14 τοῦ|tou|of the [first]|G3588|Art-GNS
 v14 θηρίου|thēriou|beast|G2342|N-GNS
 v14 λέγων|legōn|telling|G3004|V-PPA-NMS
-v14 τοῖς|tois|vvv|G3588|Art-DMP
-v14 κατοικοῦσιν|katoikousin|vvv|G2730|V-PPA-DMP
-v14 ἐπὶ|epi|vvv|G1909|Prep
-v14 τῆς|tēs|vvv|G3588|Art-GFS
+v14 τοῖς|tois|...|G3588|Art-DMP
+v14 κατοικοῦσιν|katoikousin|...|G2730|V-PPA-DMP
+v14 ἐπὶ|epi|...|G1909|Prep
+v14 τῆς|tēs|...|G3588|Art-GFS
 v14 γῆς|gēs|[them]|G1093|N-GFS
 v14 ποιῆσαι|poiēsai|to make|G4160|V-ANA
 v14 εἰκόνα|eikona|an image|G1504|N-AFS
 v14 τῷ|tō|to the|G3588|Art-DNS
 v14 θηρίῳ|thēriō|beast|G2342|N-DNS
 v14 ὃς|hos|that|G3739|RelPro-NMS
-v14 ἔχει|echei|vvv|G2192|V-PIA-3S
-v14 τὴν|tēn|vvv|G3588|Art-AFS
+v14 ἔχει|echei|...|G2192|V-PIA-3S
+v14 τὴν|tēn|...|G3588|Art-AFS
 v14 πληγὴν|plēgēn|had been wounded|G4127|N-AFS
 v14 τῆς|tēs|by the|G3588|Art-GFS
 v14 μαχαίρης|machairēs|sword|G3162|N-GFS
@@ -346,7 +346,7 @@ v15 εἰκόνι|eikoni|image|G1504|N-DFS
 v15 τοῦ|tou|of the|G3588|Art-GNS
 v15 θηρίου|thēriou|[first] beast|G2342|N-GNS
 v15 ἵνα|hina|so that|G2443|Conj
-v15 καὶ|kai|vvv|G2532|Conj
+v15 καὶ|kai|...|G2532|Conj
 v15 λαλήσῃ|lalēsē|could speak|G2980|V-ASA-3S
 v15 ἡ|hē|the|G3588|Art-NFS
 v15 εἰκὼν|eikōn|image|G1504|N-NFS
@@ -356,12 +356,12 @@ v15 καὶ|kai|and|G2532|Conj
 v15 ποιήσῃ|poiēsē|cause|G4160|V-ASA-3S
 v15 ἵνα|hina|-|G2443|Conj
 v15 ὅσοι|hosoi|all who|G3745|RelPro-NMP
-v15 ἐὰν|ean|vvv|G1437|Conj
-v15 μὴ|mē|vvv|G3361|Adv
+v15 ἐὰν|ean|...|G1437|Conj
+v15 μὴ|mē|...|G3361|Adv
 v15 προσκυνήσωσιν|proskynēsōsin|refused to worship|G4352|V-ASA-3P
-v15 τῇ|tē|vvv|G3588|Art-DFS
-v15 εἰκόνι|eikoni|vvv|G1504|N-DFS
-v15 τοῦ|tou|vvv|G3588|Art-GNS
+v15 τῇ|tē|...|G3588|Art-DFS
+v15 εἰκόνι|eikoni|...|G1504|N-DFS
+v15 τοῦ|tou|...|G3588|Art-GNS
 v15 θηρίου|thēriou|[it]|G2342|N-GNS
 v15 ἀποκτανθῶσιν|apoktanthōsin|to be killed|G615|V-ASP-3P
 v16 Καὶ|Kai|And|G2532|Conj
@@ -443,6 +443,6 @@ v18 καὶ|kai|and|G2532|Conj
 v18 ὁ|ho|-|G3588|Art-NMS
 v18 ἀριθμὸς|arithmos|number [is]|G706|N-NMS
 v18 αὐτοῦ|autou|[that]|G846|PPro-GN3S
-v18 ἑξακόσιοι|hexakosioi|666 {}|G1812|Adj-NMP
+v18 ἑξακόσιοι|hexakosioi|666|G1812|Adj-NMP
 v18 ἑξήκοντα|hexēkonta|...|G1835|Adj-NMP
 v18 ἕξ|hex|...|G1803|Adj-NMP

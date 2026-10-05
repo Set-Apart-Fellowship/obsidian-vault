@@ -5,7 +5,7 @@ v1 נ֠וּן|nūn|of Nun|H5126|N-proper-ms
 v1 מִֽן־|min-|from|H4480|Prep
 v1 הַשִּׁטִּ֞ים|haš·šiṭ·ṭîm|Shittim|H7851|Art | N-proper-fs
 v1 שְׁנַֽיִם־|šə·na·yim-|two|H8147|Number-md
-v1 אֲנָשִׁ֤ים|’ă·nā·šîm|vvv|H582|N-mp
+v1 אֲנָשִׁ֤ים|’ă·nā·šîm|...|H582|N-mp
 v1 מְרַגְּלִים֙|mə·rag·gə·lîm|spies|H7270|V-Piel-Prtcpl-mp
 v1 חֶ֣רֶשׁ|ḥe·reš|secretly|H2791|N-ms
 v1 לֵאמֹ֔ר|lê·mōr|saying|H559|Prep-l | V-Qal-Inf
@@ -18,7 +18,7 @@ v1 יְרִיח֑וֹ|yə·rî·ḥōw|especially Jericho|H3405|N-proper-fs
 v1 וַיֵּ֨לְכ֜וּ|way·yê·lə·ḵū|So they went|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v1 וַ֠יָּבֹאוּ|way·yā·ḇō·’ū|and entered|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v1 בֵּית־|bêṯ-|the house|H1004|N-msc
-v1 אִשָּׁ֥ה|’iš·šāh|vvv|H802|N-fs
+v1 אִשָּׁ֥ה|’iš·šāh|...|H802|N-fs
 v1 זוֹנָ֛ה|zō·w·nāh|of a prostitute|H2181|N-fs
 v1 וּשְׁמָ֥הּ|ū·šə·māh|named|H8034|Conj-w | N-msc | 3fs
 v1 רָחָ֖ב|rā·ḥāḇ|Rahab|H7343|N-proper-fs
@@ -33,7 +33,7 @@ v2 אֲ֠נָשִׁים|’ă·nā·šîm|some men|H582|N-mp
 v2 בָּ֣אוּ|bā·’ū|have come|H935|V-Qal-Perf-3cp
 v2 הֵ֧נָּה|hên·nāh|here|H2008|Adv
 v2 הַלַּ֛יְלָה|hal·lay·lāh|tonight|H3915|Art | N-ms
-v2 מִבְּנֵ֥י|mib·bə·nê|vvv|H1121|Prep-m | N-mpc
+v2 מִבְּנֵ֥י|mib·bə·nê|...|H1121|Prep-m | N-mpc
 v2 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 לַחְפֹּ֥ר|laḥ·pōr|to spy out|H2658|Prep-l | V-Qal-Inf
 v2 אֶת־|’eṯ-|-|H853|DirObjM
@@ -95,8 +95,8 @@ v6 וַֽתִּטְמְנֵם֙|wat·tiṭ·mə·nêm|and hidden them|H2934|Conj
 v6 בְּפִשְׁתֵּ֣י|bə·p̄iš·tê|of flax|H6593|Prep-b | N-fpc
 v6 הָעֵ֔ץ|hā·‘êṣ|among the stalks|H6086|Art | N-ms
 v6 הָעֲרֻכ֥וֹת|hā·‘ă·ru·ḵō·wṯ|that she had laid out|H6186|Art | V-Qal-QalPassPrtcpl-fp
-v6 לָ֖הּ|lāh||H0|Prep | 3fs
-v6 עַל־|‘al-|vvv|H5921|Prep
+v6 לָ֖הּ|lāh|-|H0|Prep | 3fs
+v6 עַל־|‘al-|...|H5921|Prep
 v6 הַגָּֽג׃|hag·gāḡ|[there]|H1406|Art | N-ms
 v7 וְהָאֲנָשִׁ֗ים|wə·hā·’ă·nā·šîm|So the [king's] men|H582|Conj-w, Art | N-mp
 v7 רָדְפ֤וּ|rā·ḏə·p̄ū|set out in pursuit|H7291|V-Qal-Perf-3cp
@@ -128,7 +128,7 @@ v9 כִּֽי־|kî-|that|H3588|Conj
 v9 נָתַ֧ן|nā·ṯan|has given|H5414|V-Qal-Perf-3ms
 v9 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v9 לָכֶ֖ם|lā·ḵem|you|H0|Prep | 2mp
-v9 אֶת־|’eṯ-||H853|DirObjM
+v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 הָאָ֑רֶץ|hā·’ā·reṣ|this land|H776|Art | N-fs
 v9 וְכִֽי־|wə·ḵî-|and that|H3588|Conj
 v9 נָפְלָ֤ה|nā·p̄ə·lāh|has fallen|H5307|V-Qal-Perf-3fs
@@ -223,7 +223,7 @@ v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 נַפְשֹׁתֵ֖ינוּ|nap̄·šō·ṯê·nū|us|H5315|N-fpc | 1cp
 v13 מִמָּֽוֶת׃|mim·mā·weṯ|from death|H4194|Prep-m | N-ms
 v14 וַיֹּ֧אמְרוּ|way·yō·mə·rū|agreed|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v14 לָ֣הּ|lāh||H0|Prep | 3fs
+v14 לָ֣הּ|lāh|-|H0|Prep | 3fs
 v14 הָאֲנָשִׁ֗ים|hā·’ă·nā·šîm|the men|H582|Art | N-mp
 v14 נַפְשֵׁ֤נוּ|nap̄·šê·nū|Our lives|H5315|N-fsc | 1cp
 v14 תַחְתֵּיכֶם֙|ṯaḥ·tê·ḵem|for your|H8478|Prep | 2mp
@@ -256,7 +256,7 @@ v15 וּבַֽחוֹמָ֖ה|ū·ḇa·ḥō·w·māh|-|H2346|Conj-w, Prep-b, Ar
 v15 הִ֥יא|hî|where she|H1931|Pro-3fs
 v15 יוֹשָֽׁבֶת׃|yō·wō·šā·ḇeṯ|lived|H3427|V-Qal-Prtcpl-fs
 v16 וַתֹּ֤אמֶר|wat·tō·mer|she said|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v16 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v16 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v16 הָהָ֣רָה|hā·hā·rāh|to the hill country|H2022|Art | N-ms | 3fs
 v16 לֵּ֔כוּ|lê·ḵū|Go|H1980|V-Qal-Imp-mp
 v16 פֶּֽן־|pen-|will not|H6435|Conj
@@ -295,7 +295,7 @@ v18 תִּקְשְׁרִ֗י|tiq·šə·rî|you have tied|H7194|V-Qal-Imperf-2fs
 v18 בַּֽחַלּוֹן֙|ba·ḥal·lō·wn|in the window|H2474|Prep-b, Art | N-cs
 v18 אֲשֶׁ֣ר|’ă·šer|through which|H834|Pro-r
 v18 הוֹרַדְתֵּ֣נוּ|hō·w·raḏ·tê·nū|you let us down|H3381|V-Hifil-Perf-2fs | 1cp
-v18 ב֔וֹ|ḇōw||H0|Prep | 3ms
+v18 ב֔וֹ|ḇōw|-|H0|Prep | 3ms
 v18 וְאֶת־|wə·’eṯ-|and unless|H853|Conj-w | DirObjM
 v18 אָבִ֨יךְ|’ā·ḇîḵ|your father|H1|N-msc | 2fs
 v18 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
@@ -305,7 +305,7 @@ v18 אַחַ֗יִךְ|’a·ḥa·yiḵ|brothers|H251|N-mpc | 2fs
 v18 וְאֵת֙|wə·’êṯ|-|H853|Conj-w | DirObjM
 v18 כָּל־|kāl-|and all|H3605|N-msc
 v18 בֵּ֣ית|bêṯ|your family|H1004|N-msc
-v18 אָבִ֔יךְ|’ā·ḇîḵ|vvv|H1|N-msc | 2fs
+v18 אָבִ֔יךְ|’ā·ḇîḵ|...|H1|N-msc | 2fs
 v18 תַּאַסְפִ֥י|ta·’as·p̄î|you have brought|H622|V-Qal-Imperf-2fs
 v18 אֵלַ֖יִךְ|’ê·la·yiḵ|...|H413|Prep | 2fs
 v18 הַבָּֽיְתָה׃|hab·bā·yə·ṯāh|into your house|H1004|Art | N-ms | 3fs
@@ -400,4 +400,4 @@ v24 נָמֹ֛גוּ|nā·mō·ḡū|are melting in fear|H4127|V-Nifal-Perf-3cp
 v24 כָּל־|kāl-|all|H3605|N-msc
 v24 יֹשְׁבֵ֥י|yō·šə·ḇê|who dwell|H3427|V-Qal-Prtcpl-mpc
 v24 הָאָ֖רֶץ|hā·’ā·reṣ|in the land|H776|Art | N-fs
-v24 מִפָּנֵֽינוּ׃ס|mip·pā·nê·nū|of us|H6440|Prep-m | N-mpc | 1cp
+v24 מִפָּנֵֽינוּ׃|mip·pā·nê·nū|of us|H6440|Prep-m | N-mpc | 1cp

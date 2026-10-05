@@ -10,7 +10,7 @@ v1 ἁμαρτίαις|hamartiais|sins|G266|N-DFP
 v1 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v2 ἐν|en|in|G1722|Prep
 v2 αἷς|hais|which|G3739|RelPro-DFP
-v2 ποτε|pote|vvv|G4218|Prtcl
+v2 ποτε|pote|...|G4218|Prtcl
 v2 περιεπατήσατε|periepatēsate|you used to walk|G4043|V-AIA-2P
 v2 κατὰ|kata|when you conformed to|G2596|Prep
 v2 τὸν|ton|the|G3588|Art-AMS
@@ -302,7 +302,7 @@ v18 ἔχομεν|echomen|we both have|G2192|V-PIA-1P
 v18 τὴν|tēn|-|G3588|Art-AFS
 v18 προσαγωγὴν|prosagōgēn|access|G4318|N-AFS
 v18 οἱ|hoi|-|G3588|Art-NMP
-v18 ἀμφότεροι|amphoteroi|vvv|G297|Adj-NMP
+v18 ἀμφότεροι|amphoteroi|...|G297|Adj-NMP
 v18 ἐν|en|by|G1722|Prep
 v18 ἑνὶ|heni|one|G1520|Adj-DNS
 v18 Πνεύματι|Pneumati|Spirit|G4151|N-DNS

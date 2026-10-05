@@ -134,7 +134,7 @@ v18 בְּקִרְבּ֑וֹ|bə·qir·bōw|his body|H7130|Prep-b | N-msc | 3ms
 v18 וְ֝כַשֶּׁ֗מֶן|wə·ḵaš·še·men|like oil|H8081|Conj-w, Prep-k, Art | N-ms
 v18 בְּעַצְמוֹתָֽיו׃|bə·‘aṣ·mō·w·ṯāw|and into his bones|H6106|Prep-b | N-fpc | 3ms
 v19 תְּהִי־|tə·hî-|May it be|H1961|V-Qal-Imperf.Jus-3fs
-v19 ל֭וֹ|lōw||H0|Prep | 3ms
+v19 ל֭וֹ|lōw|-|H0|Prep | 3ms
 v19 כְּבֶ֣גֶד|kə·ḇe·ḡeḏ|like a robe|H899|Prep-k | N-ms
 v19 יַעְטֶ֑ה|ya‘·ṭeh|wrapped about him|H5844|V-Qal-Imperf-3ms
 v19 וּ֝לְמֵ֗זַח|ū·lə·mê·zaḥ|like a belt|H4206|Conj-w, Prep-l | N-ms

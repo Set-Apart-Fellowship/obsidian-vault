@@ -75,7 +75,7 @@ v6 רֶ֤גֶל|re·ḡel|of your foot|H7272|N-fs
 v6 וְעַד־|wə·‘aḏ-|to the top|H5704|Conj-w | Prep
 v6 רֹאשׁ֙|rōš|of your head|H7218|N-ms
 v6 אֵֽין־|’ên-|[there is] no|H369|Adv
-v6 בּ֣וֹ|bōw||H0|Prep | 3ms
+v6 בּ֣וֹ|bōw|-|H0|Prep | 3ms
 v6 מְתֹ֔ם|mə·ṯōm|soundness|H4974|N-ms
 v6 פֶּ֥צַע|pe·ṣa‘|only wounds|H6482|N-ms
 v6 וְחַבּוּרָ֖ה|wə·ḥab·bū·rāh|and welts|H2250|Conj-w | N-fs
@@ -120,7 +120,7 @@ v9 כִּמְעָ֑ט|kim·‘āṭ|a few|H4592|Prep-k | Adj-ms
 v9 כִּסְדֹ֣ם|kis·ḏōm|like Sodom|H5467|Prep-k | N-proper-fs
 v9 הָיִ֔ינוּ|hā·yî·nū|we would have become|H1961|V-Qal-Perf-1cp
 v9 לַעֲמֹרָ֖ה|la·‘ă·mō·rāh|Gomorrah|H6017|Prep-l | N-proper-fs
-v9 דָּמִֽינוּ׃ס|dā·mî·nū|we would have resembled|H1819|V-Qal-Perf-1cp
+v9 דָּמִֽינוּ׃|dā·mî·nū|we would have resembled|H1819|V-Qal-Perf-1cp
 v10 שִׁמְע֥וּ|šim·‘ū|Hear|H8085|V-Qal-Imp-mp
 v10 דְבַר־|ḏə·ḇar-|the word|H1697|N-msc
 v10 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -146,7 +146,7 @@ v11 וְדַ֨ם|wə·ḏam|in the blood|H1818|Conj-w | N-msc
 v11 פָּרִ֧ים|pā·rîm|of bulls|H6499|N-mp
 v11 וּכְבָשִׂ֛ים|ū·ḵə·ḇā·śîm|and lambs|H3532|Conj-w | N-mp
 v11 וְעַתּוּדִ֖ים|wə·‘at·tū·ḏîm|and goats|H6260|Conj-w | N-mp
-v11 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
+v11 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v11 חָפָֽצְתִּי׃|ḥā·p̄ā·ṣə·tî|I take no delight|H2654|V-Qal-Perf-1cs
 v12 כִּ֣י|kî|When|H3588|Conj
 v12 תָבֹ֔אוּ|ṯā·ḇō·’ū|you come|H935|V-Qal-Imperf-2mp
@@ -216,7 +216,7 @@ v17 חָמ֑וֹץ|ḥā·mō·wṣ|the oppressor|H2541|N-ms
 v17 שִׁפְט֣וּ|šip̄·ṭū|Defend|H8199|V-Qal-Imp-mp
 v17 יָת֔וֹם|yā·ṯō·wm|the fatherless|H3490|N-ms
 v17 רִ֖יבוּ|rî·ḇū|[and] plead the case|H7378|V-Qal-Imp-mp
-v17 אַלְמָנָֽה׃ס|’al·mā·nāh|of the widow|H490|N-fs
+v17 אַלְמָנָֽה׃|’al·mā·nāh|of the widow|H490|N-fs
 v18 לְכוּ־|lə·ḵū-|Come|H1980|V-Qal-Imp-mp
 v18 נָ֛א|nā|now|H4994|Interjection
 v18 וְנִוָּֽכְחָ֖ה|wə·niw·wā·ḵə·ḥāh|let us reason together|H3198|Conj-w | V-Nifal-ConjImperf.Cohort-1cp
@@ -247,7 +247,7 @@ v20 תְּאֻכְּל֔וּ|tə·’uk·kə·lū|you will be devoured|H398|V-Qa
 v20 כִּ֛י|kî|For|H3588|Conj
 v20 פִּ֥י|pî|the mouth|H6310|N-msc
 v20 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v20 דִּבֵּֽר׃ס|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms
+v20 דִּבֵּֽר׃|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms
 v21 אֵיכָה֙|’ê·ḵāh|[See] how|H349|Interjection
 v21 הָיְתָ֣ה|hā·yə·ṯāh|has become|H1961|V-Qal-Perf-3fs
 v21 לְזוֹנָ֔ה|lə·zō·w·nāh|a harlot|H2181|Prep-l | N-fs
@@ -282,7 +282,7 @@ v23 וְרִ֥יב|wə·rîḇ|and the plea|H7379|Conj-w | N-msc
 v23 אַלְמָנָ֖ה|’al·mā·nāh|of the widow|H490|N-fs
 v23 לֹֽא־|lō-|never|H3808|Adv-NegPrt
 v23 יָב֥וֹא|yā·ḇō·w|comes|H935|V-Qal-Imperf-3ms
-v23 אֲלֵיהֶֽם׃פ|’ă·lê·hem|before them|H413|Prep | 3mp
+v23 אֲלֵיהֶֽם׃|’ă·lê·hem|before them|H413|Prep | 3mp
 v24 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v24 נְאֻ֤ם|nə·’um|declares|H5002|N-msc
 v24 הָֽאָדוֹן֙|hā·’ā·ḏō·wn|the Lord|H113|Art | N-ms
@@ -312,7 +312,7 @@ v26 כְּבַתְּחִלָּ֑ה|kə·ḇat·tə·ḥil·lāh|as at the beginn
 v26 אַחֲרֵי־|’a·ḥă·rê-|After that|H310|Prep
 v26 כֵ֗ן|ḵên|...|H3651|Adv
 v26 יִקָּ֤רֵא|yiq·qā·rê|you will be called|H7121|V-Nifal-Imperf-3ms
-v26 לָךְ֙|lāḵ||H0|Prep | 2fs
+v26 לָךְ֙|lāḵ|-|H0|Prep | 2fs
 v26 עִ֣יר|‘îr|the City|H5892|N-fsc
 v26 הַצֶּ֔דֶק|haṣ·ṣe·ḏeq|of Righteousness|H6664|Art | N-ms
 v26 קִרְיָ֖ה|qir·yāh|City|H7151|N-fs
@@ -347,7 +347,7 @@ v30 וּֽכְגַנָּ֔ה|ū·ḵə·ḡan·nāh|like a garden|H1593|Conj-w, 
 v30 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v30 מַ֖יִם|ma·yim|water|H4325|N-mp
 v30 אֵ֥ין|’ên|without|H369|Adv
-v30 לָֽהּ׃|lāh||H0|Prep | 3fs
+v30 לָֽהּ׃|lāh|-|H0|Prep | 3fs
 v31 וְהָיָ֤ה|wə·hā·yāh|will become|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v31 הֶחָסֹן֙|he·ḥā·sōn|The strong man|H2634|Art | Adj-ms
 v31 לִנְעֹ֔רֶת|lin·‘ō·reṯ|tinder|H5296|Prep-l | N-fs
@@ -357,4 +357,4 @@ v31 וּבָעֲר֧וּ|ū·ḇā·‘ă·rū|will burn|H1197|Conj-w | V-Qal-C
 v31 שְׁנֵיהֶ֛ם|šə·nê·hem|both|H8147|Number-mdc | 3mp
 v31 יַחְדָּ֖ו|yaḥ·dāw|together|H3162|Adv
 v31 וְאֵ֥ין|wə·’ên|with no one|H369|Conj-w | Adv
-v31 מְכַבֶּֽה׃ס|mə·ḵab·beh|to quench the flames|H3518|V-Piel-Prtcpl-ms
+v31 מְכַבֶּֽה׃|mə·ḵab·beh|to quench the flames|H3518|V-Piel-Prtcpl-ms

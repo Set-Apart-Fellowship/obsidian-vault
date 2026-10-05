@@ -14,7 +14,7 @@ v1 בְּיָמָ֛יו|bə·yā·māw|and in his days|H3117|Prep-b | N-mpc | 3m
 v1 שָׁקְטָ֥ה|šā·qə·ṭāh|was at peace|H8252|V-Qal-Perf-3fs
 v1 הָאָ֖רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v1 עֶ֥שֶׂר|‘e·śer|[for] ten|H6235|Number-fsc
-v1 שָׁנִֽים׃פ|šā·nîm|years|H8141|N-fp
+v1 שָׁנִֽים׃|šā·nîm|years|H8141|N-fp
 v2 וַיַּ֤עַשׂ|way·ya·‘aś|did|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v2 אָסָא֙|’ā·sā|And Asa|H609|N-proper-ms
 v2 הַטּ֣וֹב|haṭ·ṭō·wḇ|what was good|H2896|Art | Adj-ms
@@ -94,7 +94,7 @@ v7 וַיָּ֥נַֽח|way·yā·naḥ|and He has given us rest|H5117|Conj-w | 
 v7 לָ֖נוּ|lā·nū|on|H0|Prep | 1cp
 v7 מִסָּבִ֑יב|mis·sā·ḇîḇ|every side|H5439|Prep-m | Adv
 v7 וַיִּבְנ֖וּ|way·yiḇ·nū|So they built|H1129|Conj-w | V-Qal-ConsecImperf-3mp
-v7 וַיַּצְלִֽיחוּ׃פ|way·yaṣ·lî·ḥū|and prospered|H6743|Conj-w | V-Hifil-ConsecImperf-3mp
+v7 וַיַּצְלִֽיחוּ׃|way·yaṣ·lî·ḥū|and prospered|H6743|Conj-w | V-Hifil-ConsecImperf-3mp
 v8 וַיְהִ֣י|way·hî|had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 לְאָסָ֗א|lə·’ā·sā|Asa|H609|Prep-l | N-proper-ms
 v8 חַיִל֮|ḥa·yil|an army|H2428|N-ms
@@ -169,7 +169,7 @@ v11 אַ֔תָּה|’at·tāh|You|H859|Pro-2ms
 v11 אַל־|’al-|Do not|H408|Adv
 v11 יַעְצֹ֥ר|ya‘·ṣōr|prevail|H6113|V-Qal-Imperf-3ms
 v11 עִמְּךָ֖|‘im·mə·ḵā|against You|H5973|Prep | 2ms
-v11 אֱנֽוֹשׁ׃ס|’ĕ·nō·wōš|let a mere mortal|H582|N-ms
+v11 אֱנֽוֹשׁ׃|’ĕ·nō·wōš|let a mere mortal|H582|N-ms
 v12 וַיִּגֹּ֤ף|way·yig·gōp̄|struck down|H5062|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יְהוָה֙|Yah·weh|So the LORD|H3068|N-proper-ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
@@ -231,4 +231,4 @@ v15 צֹ֤אן|ṣōn|sheep|H6629|N-cs
 v15 לָרֹב֙|lā·rōḇ|many|H7230|Prep-l, Art | N-ms
 v15 וּגְמַלִּ֔ים|ū·ḡə·mal·lîm|and camels|H1581|Conj-w | N-mp
 v15 וַיָּשֻׁ֖בוּ|way·yā·šu·ḇū|Then they returned|H7725|Conj-w | V-Qal-ConsecImperf-3mp
-v15 יְרוּשָׁלִָֽם׃ס|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
+v15 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs

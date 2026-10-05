@@ -68,7 +68,7 @@ v4 בֵּ֣ית|bêṯ|the house|H1004|N-msc
 v4 יֵה֔וּא|yê·hū|of Jehu|H3058|N-proper-ms
 v4 וְהִ֨שְׁבַּתִּ֔י|wə·hiš·bat·tî|and I will put an end|H7673|Conj-w | V-Hifil-ConjPerf-1cs
 v4 מַמְלְכ֖וּת|mam·lə·ḵūṯ|to the kingdom|H4468|N-fsc
-v4 בֵּ֥ית|bêṯ|vvv|H1004|N-msc
+v4 בֵּ֥ית|bêṯ|...|H1004|N-msc
 v4 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v5 וְהָיָ֖ה|wə·hā·yāh|And|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v5 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
@@ -87,7 +87,7 @@ v6 וַיֹּ֣אמֶר|way·yō·mer|and [the LORD] said|H559|Conj-w | V-Qal-Co
 v6 ל֔וֹ|lōw|to [Hosea]|H0|Prep | 3ms
 v6 קְרָ֥א|qə·rā|Name|H7121|V-Qal-Imp-ms
 v6 שְׁמָ֖הּ|šə·māh|her|H8034|N-msc | 3fs
-v6 לֹ֣א|lō|vvv|H3819|Prep
+v6 לֹ֣א|lō|...|H3819|Prep
 v6 רֻחָ֑מָה|ru·ḥā·māh|Lo-ruhamah|H3819|N-proper-fs
 v6 כִּי֩|kî|for|H3588|Conj
 v6 לֹ֨א|lō|I will no|H3808|Adv-NegPrt
@@ -117,7 +117,7 @@ v7 בְּסוּסִ֖ים|bə·sū·sîm|not by horses|H5483|Prep-b | N-mp
 v7 וּבְפָרָשִֽׁים׃|ū·ḇə·p̄ā·rā·šîm|and cavalry|H6571|Conj-w, Prep-b | N-mp
 v8 וַתִּגְמֹ֖ל|wat·tiḡ·mōl|After she had weaned|H1580|Conj-w | V-Qal-ConsecImperf-3fs
 v8 אֶת־|’eṯ-|-|H853|DirObjM
-v8 לֹ֣א|lō|vvv|H3819|Prep
+v8 לֹ֣א|lō|...|H3819|Prep
 v8 רֻחָ֑מָה|ru·ḥā·māh|Lo-ruhamah|H3819|N-proper-fs
 v8 וַתַּ֖הַר|wat·ta·har|[Gomer] conceived|H2029|Conj-w | V-Qal-ConsecImperf-3fs
 v8 וַתֵּ֥לֶד|wat·tê·leḏ|and gave birth to|H3205|Conj-w | V-Qal-ConsecImperf-3fs
@@ -125,7 +125,7 @@ v8 בֵּֽן׃|bên|a son|H1121|N-ms
 v9 וַיֹּ֕אמֶר|way·yō·mer|And [the LORD] said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 קְרָ֥א|qə·rā|Name|H7121|V-Qal-Imp-ms
 v9 שְׁמ֖וֹ|šə·mōw|him|H8034|N-msc | 3ms
-v9 לֹ֣א|lō|vvv|H3818|N-proper-ms
+v9 לֹ֣א|lō|...|H3818|N-proper-ms
 v9 עַמִּ֑י|‘am·mî|Lo-ammi|H3818|N-proper-ms
 v9 כִּ֤י|kî|for|H3588|Conj
 v9 אַתֶּם֙|’at·tem|you|H859|Pro-2mp
@@ -134,10 +134,10 @@ v9 עַמִּ֔י|‘am·mî|My people|H5971|N-msc | 1cs
 v9 וְאָנֹכִ֖י|wə·’ā·nō·ḵî|and I|H595|Conj-w | Pro-1cs
 v9 לֹֽא־|lō-|am not|H3808|Adv-NegPrt
 v9 אֶהְיֶ֥ה|’eh·yeh|your God|H1961|V-Qal-Imperf-1cs
-v9 לָכֶֽם׃ס|lå̄·ḵɛm|...|H0|Prep | 2mp
+v9 לָכֶֽם׃|lå̄·ḵɛm|...|H0|Prep | 2mp
 v10 וְֽ֠הָיָה|wə·hā·yāh|will be|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v10 מִסְפַּ֤ר|mis·par|Yet the number|H4557|N-msc
-v10 בְּנֵֽי־|bə·nê-|vvv|H1121|N-mpc
+v10 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v10 יִשְׂרָאֵל֙|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v10 כְּח֣וֹל|kə·ḥō·wl|like the sand|H2344|Prep-k | N-msc
 v10 הַיָּ֔ם|hay·yām|of the sea|H3220|Art | N-ms

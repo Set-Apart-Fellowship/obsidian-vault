@@ -20,8 +20,8 @@ v2 מִמַּ֙עַל֙|mim·ma·‘al|Above|H4605|Prep-m | Adv
 v2 ל֔וֹ|lōw|Him|H0|Prep | 3ms
 v2 שֵׁ֧שׁ|šêš|having six|H8337|Number-fs
 v2 כְּנָפַ֛יִם|kə·nā·p̄a·yim|wings|H3671|N-fd
-v2 שֵׁ֥שׁ|šêš||H8337|Number-fs
-v2 כְּנָפַ֖יִם|kə·nā·p̄a·yim||H3671|N-fd
+v2 שֵׁ֥שׁ|šêš|-|H8337|Number-fs
+v2 כְּנָפַ֖יִם|kə·nā·p̄a·yim|-|H3671|N-fd
 v2 לְאֶחָ֑ד|lə·’e·ḥāḏ|each|H259|Prep-l | Number-ms
 v2 בִּשְׁתַּ֣יִם׀|biš·ta·yim|With two [wings]|H8147|Prep-b | Number-fd
 v2 יְכַסֶּ֣ה|yə·ḵas·seh|they covered|H3680|V-Piel-Imperf-3ms
@@ -144,7 +144,7 @@ v10 וּלְבָב֥וֹ|ū·lə·ḇā·ḇōw|with their hearts|H3824|Conj-w |
 v10 יָבִ֛ין|yā·ḇîn|understand|H995|V-Qal-Imperf-3ms
 v10 וָשָׁ֖ב|wā·šāḇ|and turn|H7725|Conj-w | V-Qal-ConjPerf-3ms
 v10 וְרָ֥פָא|wə·rā·p̄ā|and be healed|H7495|Conj-w | V-Qal-ConjPerf-3ms
-v10 לֽוֹ׃|lōw||H0|Prep | 3ms
+v10 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v11 וָאֹמַ֕ר|wā·’ō·mar|Then I asked|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v11 עַד־|‘aḏ-|How long|H5704|Prep
 v11 מָתַ֖י|mā·ṯay|...|H4970|Interrog
@@ -182,7 +182,7 @@ v13 וְכָאַלּ֗וֹן|wə·ḵā·’al·lō·wn|and oak|H437|Conj-w, Pre
 v13 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v13 בְּשַׁלֶּ֙כֶת֙|bə·šal·le·ḵeṯ|when felled|H7995|Prep-b | N-fs
 v13 מַצֶּ֣בֶת|maṣ·ṣe·ḇeṯ|leave stumps|H4678|N-fs
-v13 בָּ֔ם|bām||H0|Prep | 3mp
+v13 בָּ֔ם|bām|-|H0|Prep | 3mp
 v13 זֶ֥רַע|ze·ra‘|seed|H2233|N-msc
 v13 קֹ֖דֶשׁ|qō·ḏeš|so the holy|H6944|N-ms
-v13 מַצַּבְתָּֽהּ׃פ|maṣ·ṣaḇ·tāh|will be a stump [in the land]|H4678|N-fsc | 3fs
+v13 מַצַּבְתָּֽהּ׃|maṣ·ṣaḇ·tāh|will be a stump [in the land]|H4678|N-fsc | 3fs

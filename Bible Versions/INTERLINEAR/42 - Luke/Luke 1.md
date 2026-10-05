@@ -62,10 +62,10 @@ v5 ἐκ|ek|[was]|G1537|Prep
 v5 τῶν|tōn|a|G3588|Art-GFP
 v5 θυγατέρων|thygaterōn|descendant|G2364|N-GFP
 v5 Ἀαρών|Aarōn|of Aaron|G2|N-GMS
-v5 καὶ|kai|vvv|G2532|Conj
-v5 τὸ|to|vvv|G3588|Art-NNS
-v5 ὄνομα|onoma|vvv|G3686|N-NNS
-v5 αὐτῆς|autēs|vvv|G846|PPro-GF3S
+v5 καὶ|kai|...|G2532|Conj
+v5 τὸ|to|...|G3588|Art-NNS
+v5 ὄνομα|onoma|...|G3686|N-NNS
+v5 αὐτῆς|autēs|...|G846|PPro-GF3S
 v5 Ἐλισάβετ|Elisabet|Elizabeth|G1665|N-NFS
 v6 ἦσαν|ēsan|of them were|G1510|V-IIA-3P
 v6 δὲ|de|-|G1161|Conj
@@ -108,8 +108,8 @@ v8 ἐν|en|[and]|G1722|Prep
 v8 τῷ|tō|-|G3588|Art-DNS
 v8 ἱερατεύειν|hierateuein|was serving as priest|G2407|V-PNA
 v8 αὐτὸν|auton|he|G846|PPro-AM3S
-v8 ἐν|en|vvv|G1722|Prep
-v8 τῇ|tē|vvv|G3588|Art-DFS
+v8 ἐν|en|...|G1722|Prep
+v8 τῇ|tē|...|G3588|Art-DFS
 v8 τάξει|taxei|was on duty|G5010|N-DFS
 v8 τῆς|tēs|while|G3588|Art-GFS
 v8 ἐφημερίας|ephēmerias|division|G2183|N-GFS
@@ -216,8 +216,8 @@ v15 καὶ|kai|-|G2532|Conj
 v15 οἶνον|oinon|wine|G3631|N-AMS
 v15 καὶ|kai|[or]|G2532|Conj
 v15 σίκερα|sikera|strong drink|G4608|N-ANS
-v15 οὐ|ou|vvv|G3756|Adv
-v15 μὴ|mē|vvv|G3361|Adv
+v15 οὐ|ou|...|G3756|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 πίῃ|piē|He shall never take|G4095|V-ASA-3S
 v15 καὶ|kai|and|G2532|Conj
 v15 Πνεύματος|Pneumatos|Spirit|G4151|N-GNS
@@ -269,7 +269,7 @@ v18 Ζαχαρίας|Zacharias|Zechariah|G2197|N-NMS
 v18 πρὸς|pros|...|G4314|Prep
 v18 τὸν|ton|the|G3588|Art-AMS
 v18 ἄγγελον|angelon|angel|G32|N-AMS
-v18 Κατὰ|Kata|vvv|G2596|Prep
+v18 Κατὰ|Kata|...|G2596|Prep
 v18 τί|ti|How|G5101|IPro-ANS
 v18 γνώσομαι|gnōsomai|can I be sure of|G1097|V-FIM-1S
 v18 τοῦτο|touto|this|G3778|DPro-ANS
@@ -314,7 +314,7 @@ v20 ἰδοὺ|idou|now|G2400|V-AMA-2S
 v20 ἔσῃ|esē|you will be|G1510|V-FIM-2S
 v20 σιωπῶν|siōpōn|silent|G4623|V-PPA-NMS
 v20 καὶ|kai|and|G2532|Conj
-v20 μὴ|mē|vvv|G3361|Adv
+v20 μὴ|mē|...|G3361|Adv
 v20 δυνάμενος|dynamenos|unable|G1410|V-PPM/P-NMS
 v20 λαλῆσαι|lalēsai|to speak|G2980|V-ANA
 v20 ἄχρι|achri|until|G891|Prep
@@ -324,7 +324,7 @@ v20 γένηται|genētai|comes to pass|G1096|V-ASM-3S
 v20 ταῦτα|tauta|[this]|G3778|DPro-NNP
 v20 ἀνθ’|anth’|because|G473|Prep
 v20 ὧν|hōn|...|G3739|RelPro-GNP
-v20 οὐκ|ouk|vvv|G3756|Adv
+v20 οὐκ|ouk|...|G3756|Adv
 v20 ἐπίστευσας|episteusas|you did not believe|G4100|V-AIA-2S
 v20 τοῖς|tois|-|G3588|Art-DMP
 v20 λόγοις|logois|words|G3056|N-DMP
@@ -353,7 +353,7 @@ v21 ναῷ|naō|temple|G3485|N-DMS
 v21 αὐτόν|auton|he|G846|PPro-AM3S
 v22 ἐξελθὼν|exelthōn|he came out|G1831|V-APA-NMS
 v22 δὲ|de|When|G1161|Conj
-v22 οὐκ|ouk|vvv|G3756|Adv
+v22 οὐκ|ouk|...|G3756|Adv
 v22 ἐδύνατο|edynato|[and] was unable|G1410|V-IIM/P-3S
 v22 λαλῆσαι|lalēsai|to speak|G2980|V-ANA
 v22 αὐτοῖς|autois|to them|G846|PPro-DM3P
@@ -383,10 +383,10 @@ v23 τῆς|tēs|-|G3588|Art-GFS
 v23 λειτουργίας|leitourgias|service|G3009|N-GFS
 v23 αὐτοῦ|autou|of his|G846|PPro-GM3S
 v23 ἀπῆλθεν|apēlthen|he returned|G565|V-AIA-3S
-v23 εἰς|eis|vvv|G1519|Prep
-v23 τὸν|ton|vvv|G3588|Art-AMS
+v23 εἰς|eis|...|G1519|Prep
+v23 τὸν|ton|...|G3588|Art-AMS
 v23 οἶκον|oikon|home|G3624|N-AMS
-v23 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v23 αὐτοῦ|autou|...|G846|PPro-GM3S
 v24 Μετὰ|Meta|After|G3326|Prep
 v24 δὲ|de|-|G1161|Conj
 v24 ταύτας|tautas|these|G3778|DPro-AFP
@@ -491,7 +491,7 @@ v30 χάριν|charin|favor|G5485|N-AFS
 v30 παρὰ|para|with|G3844|Prep
 v30 τῷ|tō|-|G3588|Art-DMS
 v30 Θεῷ|Theō|God|G2316|N-DMS
-v31 καὶ|kai|vvv|G2532|Conj
+v31 καὶ|kai|...|G2532|Conj
 v31 ἰδοὺ|idou|Behold|G2400|V-AMA-2S
 v31 συλλήμψῃ|syllēmpsē|you will conceive|G4815|V-FIM-2S
 v31 ἐν|en|...|G1722|Prep
@@ -530,8 +530,8 @@ v33 ἐπὶ|epi|over|G1909|Prep
 v33 τὸν|ton|the|G3588|Art-AMS
 v33 οἶκον|oikon|house|G3624|N-AMS
 v33 Ἰακὼβ|Iakōb|of Jacob|G2384|N-GMS
-v33 εἰς|eis|vvv|G1519|Prep
-v33 τοὺς|tous|vvv|G3588|Art-AMP
+v33 εἰς|eis|...|G1519|Prep
+v33 τοὺς|tous|...|G3588|Art-AMP
 v33 αἰῶνας|aiōnas|forever|G165|N-AMP
 v33 καὶ|kai|-|G2532|Conj
 v33 τῆς|tēs|-|G3588|Art-GFS
@@ -548,10 +548,10 @@ v34 τὸν|ton|the|G3588|Art-AMS
 v34 ἄγγελον|angelon|angel|G32|N-AMS
 v34 Πῶς|Pōs|How|G4459|Adv
 v34 ἔσται|estai|can this be|G1510|V-FIM-3S
-v34 τοῦτο|touto|vvv|G3778|DPro-NNS
+v34 τοῦτο|touto|...|G3778|DPro-NNS
 v34 ἐπεὶ|epei|since|G1893|Conj
 v34 ἄνδρα|andra|...|G435|N-AMS
-v34 οὐ|ou|vvv|G3756|Adv
+v34 οὐ|ou|...|G3756|Adv
 v34 γινώσκω|ginōskō|I am a virgin|G1097|V-PIA-1S
 v35 Καὶ|Kai|-|G2532|Conj
 v35 ἀποκριθεὶς|apokritheis|replied|G611|V-APP-NMS
@@ -734,7 +734,7 @@ v45 πιστεύσασα|pisteusasa|has believed|G4100|V-APA-NFS
 v45 ὅτι|hoti|that|G3754|Conj
 v45 ἔσται|estai|will be|G1510|V-FIM-3S
 v45 τελείωσις|teleiōsis|fulfilled|G5050|N-NFS
-v45 τοῖς|tois|vvv|G3588|Art-DNP
+v45 τοῖς|tois|...|G3588|Art-DNP
 v45 λελαλημένοις|lelalēmenois|word|G2980|V-RPM/P-DNP
 v45 αὐτῇ|autē|to her|G846|PPro-DF3S
 v45 παρὰ|para|-|G3844|Prep
@@ -767,13 +767,13 @@ v48 ταπείνωσιν|tapeinōsin|humble state|G5014|N-AFS
 v48 τῆς|tēs|of|G3588|Art-GFS
 v48 δούλης|doulēs|servant|G1399|N-GFS
 v48 αὐτοῦ|autou|His|G846|PPro-GM3S
-v48 ἰδοὺ|idou|vvv|G2400|V-AMA-2S
-v48 γὰρ|gar|vvv|G1063|Conj
+v48 ἰδοὺ|idou|...|G2400|V-AMA-2S
+v48 γὰρ|gar|...|G1063|Conj
 v48 ἀπὸ|apo|From|G575|Prep
 v48 τοῦ|tou|-|G3588|Art-GMS
 v48 νῦν|nyn|now on|G3568|Adv
 v48 μακαριοῦσίν|makariousin|will call me blessed|G3106|V-FIA-3P
-v48 με|me|vvv|G1473|PPro-A1S
+v48 με|me|...|G1473|PPro-A1S
 v48 πᾶσαι|pasai|all|G3956|Adj-NFP
 v48 αἱ|hai|-|G3588|Art-NFP
 v48 γενεαί|geneai|generations|G1074|N-NFP
@@ -841,8 +841,8 @@ v55 καὶ|kai|and|G2532|Conj
 v55 τῷ|tō|-|G3588|Art-DNS
 v55 σπέρματι|spermati|descendants|G4690|N-DNS
 v55 αὐτοῦ|autou|his|G846|PPro-GM3S
-v55 εἰς|eis|vvv|G1519|Prep
-v55 τὸν|ton|vvv|G3588|Art-AMS
+v55 εἰς|eis|...|G1519|Prep
+v55 τὸν|ton|...|G3588|Art-AMS
 v55 αἰῶνα|aiōna|forever|G165|N-AMS
 v56 Ἔμεινεν|Emeinen|stayed|G3306|V-AIA-3S
 v56 δὲ|de|-|G1161|Conj
@@ -854,10 +854,10 @@ v56 μῆνας|mēnas|months|G3376|N-AMP
 v56 τρεῖς|treis|three|G5140|Adj-AMP
 v56 καὶ|kai|and then|G2532|Conj
 v56 ὑπέστρεψεν|hypestrepsen|returned|G5290|V-AIA-3S
-v56 εἰς|eis|vvv|G1519|Prep
-v56 τὸν|ton|vvv|G3588|Art-AMS
+v56 εἰς|eis|...|G1519|Prep
+v56 τὸν|ton|...|G3588|Art-AMS
 v56 οἶκον|oikon|home|G3624|N-AMS
-v56 αὐτῆς|autēs|vvv|G846|PPro-GF3S
+v56 αὐτῆς|autēs|...|G846|PPro-GF3S
 v57 Τῇ|Tē|for|G3588|Art-DFS
 v57 δὲ|de|When|G1161|Conj
 v57 Ἐλισάβετ|Elisabet|Elizabeth|G1665|N-DFS
@@ -866,7 +866,7 @@ v57 ὁ|ho|the|G3588|Art-NMS
 v57 χρόνος|chronos|time|G5550|N-NMS
 v57 τοῦ|tou|-|G3588|Art-GNS
 v57 τεκεῖν|tekein|to have her child|G5088|V-ANA
-v57 αὐτήν|autēn|vvv|G846|PPro-AF3S
+v57 αὐτήν|autēn|...|G846|PPro-AF3S
 v57 καὶ|kai|-|G2532|Conj
 v57 ἐγέννησεν|egennēsen|she gave birth to|G1080|V-AIA-3S
 v57 υἱόν|huion|a son|G5207|N-AMS
@@ -958,7 +958,7 @@ v63 ὄνομα|onoma|name|G3686|N-NNS
 v63 αὐτοῦ|autou|His|G846|PPro-GM3S
 v63 καὶ|kai|And|G2532|Conj
 v63 ἐθαύμασαν|ethaumasan|they were all amazed|G2296|V-AIA-3P
-v63 πάντες|pantes|vvv|G3956|Adj-NMP
+v63 πάντες|pantes|...|G3956|Adj-NMP
 v64 ἀνεῴχθη|aneōchthē|was opened|G455|V-AIP-3S
 v64 δὲ|de|-|G1161|Conj
 v64 τὸ|to|-|G3588|Art-NNS
@@ -1037,7 +1037,7 @@ v68 Ἰσραήλ|Israēl|of Israel|G2474|N-GMS
 v68 ὅτι|hoti|because|G3754|Conj
 v68 ἐπεσκέψατο|epeskepsato|He has visited|G1980|V-AIM-3S
 v68 καὶ|kai|and|G2532|Conj
-v68 ἐποίησεν|epoiēsen|vvv|G4160|V-AIA-3S
+v68 ἐποίησεν|epoiēsen|...|G4160|V-AIA-3S
 v68 λύτρωσιν|lytrōsin|redeemed|G3085|N-AFS
 v68 τῷ|tō|-|G3588|Art-DMS
 v68 λαῷ|laō|people|G2992|N-DMS

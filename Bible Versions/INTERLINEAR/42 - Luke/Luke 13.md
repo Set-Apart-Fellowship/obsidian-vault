@@ -44,7 +44,7 @@ v3 ἀλλ’|all’|But|G235|Conj
 v3 ἐὰν|ean|unless|G1437|Conj
 v3 μὴ|mē|...|G3361|Adv
 v3 μετανοῆτε|metanoēte|you repent|G3340|V-PSA-2P
-v3 πάντες|pantes|vvv|G3956|Adj-NMP
+v3 πάντες|pantes|...|G3956|Adj-NMP
 v3 ὁμοίως|homoiōs|...|G3668|Adv
 v3 ἀπολεῖσθε|apoleisthe|you too will all perish|G622|V-FIM-2P
 v4 ἢ|ē|Or|G2228|Conj
@@ -82,7 +82,7 @@ v5 ἀλλ’|all’|But|G235|Conj
 v5 ἐὰν|ean|unless|G1437|Conj
 v5 μὴ|mē|...|G3361|Adv
 v5 μετανοῆτε*|metanoēte|you repent|G3340|V-PSA-2P
-v5 πάντες|pantes|vvv|G3956|Adj-NMP
+v5 πάντες|pantes|...|G3956|Adj-NMP
 v5 ὡσαύτως|hōsautōs|...|G5615|Adv
 v5 ἀπολεῖσθε|apoleisthe|you too will all perish|G622|V-FIM-2P
 v6 Ἔλεγεν|Elegen|[Jesus] told|G2036|V-IIA-3S
@@ -105,7 +105,7 @@ v6 καρπὸν|karpon|fruit|G2590|N-AMS
 v6 ἐν|en|on|G1722|Prep
 v6 αὐτῇ|autē|it|G846|PPro-DF3S
 v6 καὶ|kai|[but]|G2532|Conj
-v6 οὐχ|ouch|vvv|G3756|Adv
+v6 οὐχ|ouch|...|G3756|Adv
 v6 εὗρεν|heuren|did not find [any]|G2147|V-AIA-3S
 v7 εἶπεν|eipen|he said|G2036|V-AIA-3S
 v7 δὲ|de|So|G1161|Conj
@@ -125,7 +125,7 @@ v7 τῇ|tē|-|G3588|Art-DFS
 v7 συκῇ|sykē|fig tree|G4808|N-DFS
 v7 ταύτῃ|tautē|this|G3778|DPro-DFS
 v7 καὶ|kai|and|G2532|Conj
-v7 οὐχ|ouch|vvv|G3756|Adv
+v7 οὐχ|ouch|...|G3756|Adv
 v7 εὑρίσκω|heuriskō|haven't found [any]|G2147|V-PIA-1S
 v7 ἔκκοψον|ekkopson|cut it down|G1581|V-AMA-2S
 v7 [οὖν]|oun|Therefore|G3767|Conj
@@ -149,18 +149,18 @@ v8 τοῦτο|touto|this|G3778|DPro-ANS
 v8 τὸ|to|-|G3588|Art-ANS
 v8 ἔτος|etos|year|G2094|N-ANS
 v8 ἕως|heōs|until|G2193|Prep
-v8 ὅτου|hotou|vvv|G3755|RelPro-GMS
+v8 ὅτου|hotou|...|G3755|RelPro-GMS
 v8 σκάψω|skapsō|I dig|G4626|V-ASA-1S
 v8 περὶ|peri|around|G4012|Prep
 v8 αὐτὴν|autēn|it|G846|PPro-AF3S
 v8 καὶ|kai|and|G2532|Conj
-v8 βάλω|balō|vvv|G906|V-ASA-1S
+v8 βάλω|balō|...|G906|V-ASA-1S
 v8 κόπρια|kopria|fertilize [it]|G2874|N-ANP
 v9 κἂν|kan|If|G2579|Conj
 v9 μὲν|men|-|G3303|Conj
 v9 ποιήσῃ|poiēsē|it bears|G4160|V-ASA-3S
 v9 καρπὸν|karpon|fruit|G2590|N-AMS
-v9 εἰς|eis|vvv|G1519|Prep
+v9 εἰς|eis|...|G1519|Prep
 v9 τὸ|to|[next year]|G3588|Art-ANS
 v9 μέλλον|mellon|fine|G3195|V-PPA-ANS
 v9 εἰ|ei|if|G1487|Conj
@@ -253,8 +253,8 @@ v14 θεραπεύεσθε|therapeuesthe|[and] be healed|G2323|V-PMM/P-2P
 v14 καὶ|kai|and|G2532|Conj
 v14 μὴ|mē|not|G3361|Adv
 v14 τῇ|tē|on the|G3588|Art-DFS
-v14 ἡμέρᾳ|hēmera|vvv|G2250|N-DFS
-v14 τοῦ|tou|vvv|G3588|Art-GNS
+v14 ἡμέρᾳ|hēmera|...|G2250|N-DFS
+v14 τοῦ|tou|...|G3588|Art-GNS
 v14 σαββάτου|sabbatou|Sabbath|G4521|N-GNS
 v15 Ἀπεκρίθη|Apekrithē|replied|G611|V-AIP-3S
 v15 δὲ|de|-|G1161|Conj
@@ -286,7 +286,7 @@ v16 ταύτην|tautēn|this|G3778|DPro-AFS
 v16 δὲ|de|Then|G1161|Conj
 v16 θυγατέρα|thygatera|daughter|G2364|N-AFS
 v16 Ἀβραὰμ|Abraam|of Abraham|G11|N-GMS
-v16 οὖσαν|ousan|vvv|G1510|V-PPA-AFS
+v16 οὖσαν|ousan|...|G1510|V-PPA-AFS
 v16 ἣν|hēn|whom|G3739|RelPro-AFS
 v16 ἔδησεν|edēsen|has kept bound|G1210|V-AIA-3S
 v16 ὁ|ho|-|G3588|Art-NMS
@@ -344,10 +344,10 @@ v18 ὁμοιώσω|homoiōsō|can I compare|G3666|V-FIA-1S
 v18 αὐτήν|autēn|it|G846|PPro-AF3S
 v19 ὁμοία|homoia|like|G3664|Adj-NFS
 v19 ἐστὶν|estin|It is|G1510|V-PIA-3S
-v19 κόκκῳ|kokkō|vvv|G2848|N-DMS
+v19 κόκκῳ|kokkō|...|G2848|N-DMS
 v19 σινάπεως|sinapeōs|a mustard seed|G4615|N-GNS
 v19 ὃν|hon|that|G3739|RelPro-AMS
-v19 λαβὼν|labōn|vvv|G2983|V-APA-NMS
+v19 λαβὼν|labōn|...|G2983|V-APA-NMS
 v19 ἄνθρωπος|anthrōpos|a man|G444|N-NMS
 v19 ἔβαλεν|ebalen|tossed|G906|V-AIA-3S
 v19 εἰς|eis|into|G1519|Prep
@@ -432,7 +432,7 @@ v24 ὑμῖν|hymin|you|G4771|PPro-D2P
 v24 ζητήσουσιν|zētēsousin|will try|G2212|V-FIA-3P
 v24 εἰσελθεῖν|eiselthein|to enter|G1525|V-ANA
 v24 καὶ|kai|and|G2532|Conj
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 ἰσχύσουσιν|ischysousin|will not be able|G2480|V-FIA-3P
 v25 ἀφ’|aph’|After|G575|Prep
 v25 οὗ|hou|...|G3739|RelPro-GMS
@@ -460,7 +460,7 @@ v25 Καὶ|Kai|But|G2532|Conj
 v25 ἀποκριθεὶς|apokritheis|-|G611|V-APP-NMS
 v25 ἐρεῖ|erei|he will reply|G2046|V-FIA-3S
 v25 ὑμῖν|hymin|...|G4771|PPro-D2P
-v25 Οὐκ|Ouk|vvv|G3756|Adv
+v25 Οὐκ|Ouk|...|G3756|Adv
 v25 οἶδα|oida|I do not know|G1492|V-RIA-1S
 v25 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v25 πόθεν|pothen|where|G4159|Adv
@@ -483,7 +483,7 @@ v27 Καὶ|Kai|And|G2532|Conj
 v27 ἐρεῖ|erei|he will answer|G2046|V-FIA-3S
 v27 Λέγων|Legōn|I tell|G3004|V-PPA-NMS
 v27 ὑμῖν|hymin|you|G4771|PPro-D2P
-v27 Οὐκ|Ouk|vvv|G3756|Adv
+v27 Οὐκ|Ouk|...|G3756|Adv
 v27 οἶδα|oida|I do not know|G1492|V-RIA-1S
 v27 [ὑμᾶς]|hymas|you|G4771|PPro-A2P
 v27 πόθεν|pothen|where|G4159|Adv
@@ -585,7 +585,7 @@ v32 ἐκβάλλω|ekballō|I will keep driving out|G1544|V-PIA-1S
 v32 δαιμόνια|daimonia|demons|G1140|N-ANP
 v32 καὶ|kai|and|G2532|Conj
 v32 ἰάσεις|iaseis|healing [people]|G2392|N-AFP
-v32 ἀποτελῶ|apotelō|vvv|G658|V-PIA-1S
+v32 ἀποτελῶ|apotelō|...|G658|V-PIA-1S
 v32 σήμερον|sēmeron|today|G4594|Adv
 v32 καὶ|kai|and|G2532|Conj
 v32 αὔριον|aurion|tomorrow|G839|Adv
@@ -604,7 +604,7 @@ v33 τῇ|tē|the|G3588|Art-DFS
 v33 ἐχομένῃ|echomenē|next [day]|G2192|V-PPM/P-DFS
 v33 πορεύεσθαι|poreuesthai|keep going|G4198|V-PNM/P
 v33 ὅτι|hoti|for|G3754|Conj
-v33 οὐκ|ouk|vvv|G3756|Adv
+v33 οὐκ|ouk|...|G3756|Adv
 v33 ἐνδέχεται|endechetai|it is not admissible [for]|G1735|V-PIM/P-3S
 v33 προφήτην|prophētēn|a prophet|G4396|N-AMS
 v33 ἀπολέσθαι|apolesthai|to perish|G622|V-ANM
@@ -638,7 +638,7 @@ v34 ὑπὸ|hypo|under [her]|G5259|Prep
 v34 τὰς|tas|-|G3588|Art-AFP
 v34 πτέρυγας|pterygas|wings|G4420|N-AFP
 v34 καὶ|kai|but|G2532|Conj
-v34 οὐκ|ouk|vvv|G3756|Adv
+v34 οὐκ|ouk|...|G3756|Adv
 v34 ἠθελήσατε|ēthelēsate|you were unwilling|G2309|V-AIA-2P
 v35 ἰδοὺ|idou|Look|G2400|V-AMA-2S
 v35 ἀφίεται|aphietai|is left to you desolate|G863|V-PIM/P-3S
@@ -649,8 +649,8 @@ v35 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v35 λέγω|legō|I tell|G3004|V-PIA-1S
 v35 δὲ|de|And|G1161|Conj
 v35 ὑμῖν|hymin|you [that]|G4771|PPro-D2P
-v35 οὐ|ou|vvv|G3756|Adv
-v35 μὴ|mē|vvv|G3361|Adv
+v35 οὐ|ou|...|G3756|Adv
+v35 μὴ|mē|...|G3361|Adv
 v35 ἴδητέ|idēte|you will not see|G3708|V-ASA-2P
 v35 με|me|Me {again}|G1473|PPro-A1S
 v35 ἕως|heōs|until|G2193|Conj

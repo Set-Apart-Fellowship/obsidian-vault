@@ -69,7 +69,7 @@ v5 רְתָחֶ֔יהָ|rə·ṯā·ḥe·hā|Bring it to a boil|H7571|N-mpc | 3
 v5 גַּם־|gam-|and|H1571|Conj
 v5 בָּשְׁל֥וּ|bā·šə·lū|cook|H1310|V-Qal-Perf-3cp
 v5 עֲצָמֶ֖יהָ|‘ă·ṣā·me·hā|the bones|H6106|N-fpc | 3fs
-v5 בְּתוֹכָֽהּ׃ס|bə·ṯō·w·ḵāh|in it|H8432|Prep-b | N-msc | 3fs
+v5 בְּתוֹכָֽהּ׃|bə·ṯō·w·ḵāh|in it|H8432|Prep-b | N-msc | 3fs
 v6 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v6 כֹּה־|kōh-|this is what|H3541|Adv
 v6 אָמַ֣ר׀|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -79,9 +79,9 @@ v6 אוֹי֮|’ō·w|Woe|H188|Interjection
 v6 עִ֣יר|‘îr|to the city|H5892|N-fsc
 v6 הַדָּמִים֒|had·dā·mîm|of bloodshed|H1818|Art | N-mp
 v6 סִ֚יר|sîr|to the pot|H5518|N-cs
-v6 אֲשֶׁ֣ר|’ă·šer|vvv|H834|Pro-r
+v6 אֲשֶׁ֣ר|’ă·šer|...|H834|Pro-r
 v6 חֶלְאָתָ֣ה|ḥel·’ā·ṯāh|now rusted|H2457|N-fsc | 3fs
-v6 בָ֔הּ|ḇāh||H0|Prep | 3fs
+v6 בָ֔הּ|ḇāh|-|H0|Prep | 3fs
 v6 וְחֶ֨לְאָתָ֔הּ|wə·ḥel·’ā·ṯāh|whose rust|H2457|Conj-w | N-fsc | 3fs
 v6 לֹ֥א|lō|will not|H3808|Adv-NegPrt
 v6 יָצְאָ֖ה|yā·ṣə·’āh|come off|H3318|V-Qal-Perf-3fs
@@ -119,7 +119,7 @@ v8 עַל־|‘al-|on|H5921|Prep
 v8 צְחִ֣יחַ|ṣə·ḥî·aḥ|the bare|H6706|N-msc
 v8 סָ֑לַע|sā·la‘|rock|H5553|N-ms
 v8 לְבִלְתִּ֖י|lə·ḇil·tî|so that it would not|H1115|Prep-l
-v8 הִכָּסֽוֹת׃פ|hik·kā·sō·wṯ|be covered|H3680|V-Nifal-Inf
+v8 הִכָּסֽוֹת׃|hik·kā·sō·wṯ|be covered|H3680|V-Nifal-Inf
 v9 לָכֵ֗ן|lā·ḵên|Yes|H3651|Adv
 v9 כֹּ֤ה|kōh|this is what|H3541|Adv
 v9 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -195,7 +195,7 @@ v14 וְכַעֲלִילוֹתַ֙יִךְ֙|wə·ḵa·‘ă·lî·lō·w·ṯ
 v14 שְׁפָט֔וּךְ|šə·p̄ā·ṭūḵ|I will judge you|H8199|V-Qal-Perf-3cp | 2fs
 v14 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v14 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v14 יְהֹוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v14 יְהֹוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v15 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v15 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v15 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -222,7 +222,7 @@ v17 דֹּ֗ם|dōm|quietly|H1826|V-Qal-Imp-ms
 v17 מֵתִים֙|mê·ṯîm|for the dead|H4191|V-Qal-Prtcpl-mp
 v17 אֵ֣בֶל|’ê·ḇel|mourn|H60|N-ms
 v17 לֹֽא־|lō-|do not|H3808|Adv-NegPrt
-v17 תַֽעֲשֶׂ֔ה|ṯa·‘ă·śeh|vvv|H6213|V-Qal-Imperf-2ms
+v17 תַֽעֲשֶׂ֔ה|ṯa·‘ă·śeh|...|H6213|V-Qal-Imperf-2ms
 v17 פְאֵֽרְךָ֙|p̄ə·’ê·rə·ḵā|your turban|H6287|N-msc | 2ms
 v17 חֲב֣וֹשׁ|ḥă·ḇō·wōš|Put|H2280|V-Qal-Imp-ms
 v17 עָלֶ֔יךָ|‘ā·le·ḵā|on|H5921|Prep | 2ms
@@ -329,7 +329,7 @@ v24 וִֽידַעְתֶּ֕ם|wî·ḏa‘·tem|you will know|H3045|Conj-w | V-
 v24 כִּ֥י|kî|that|H3588|Conj
 v24 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v24 אֲדֹנָ֥י|’ă·ḏō·nāy|am the Lord|H136|N-proper-ms
-v24 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v24 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v25 וְאַתָּ֣ה|wə·’at·tāh|And you|H859|Conj-w | Pro-2ms
 v25 בֶן־|ḇen-|son|H1121|N-msc
 v25 אָדָ֔ם|’ā·ḏām|of man|H120|N-ms
@@ -353,7 +353,7 @@ v26 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v26 הַה֔וּא|ha·hū|on that|H1931|Art | Pro-3ms
 v26 יָב֥וֹא|yā·ḇō·w|will come|H935|V-Qal-Imperf-3ms
 v26 הַפָּלִ֖יט|hap·pā·lîṭ|a fugitive|H6412|Art | N-ms
-v26 אֵלֶ֑יךָ|’ê·le·ḵā|vvv|H413|Prep | 2ms
+v26 אֵלֶ֑יךָ|’ê·le·ḵā|...|H413|Prep | 2ms
 v26 לְהַשְׁמָע֖וּת|lə·haš·mā·‘ūṯ|and tell you the news|H2045|Prep-l | N-fsc
 v26 אָזְנָֽיִם׃|’ā·zə·nā·yim|...|H241|N-fd
 v27 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
@@ -372,4 +372,4 @@ v27 לְמוֹפֵ֔ת|lə·mō·w·p̄êṯ|a sign|H4159|Prep-l | N-ms
 v27 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|and they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v27 כִּֽי־|kî-|that|H3588|Conj
 v27 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v27 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v27 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms

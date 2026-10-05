@@ -20,7 +20,7 @@ v2 בְּתוֹכ֔וֹ|bə·ṯō·w·ḵōw|in the middle|H8432|Prep-b | N-msc
 v2 וְגַם־|wə·ḡam-|and|H1571|Conj
 v2 יֶ֖קֶב|ye·qeḇ|a winepress {as well}|H3342|N-ms
 v2 חָצֵ֣ב|ḥā·ṣêḇ|dug out|H2672|V-Qal-Perf-3ms
-v2 בּ֑וֹ|bōw||H0|Prep | 3ms
+v2 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v2 וַיְקַ֛ו|way·qaw|He waited for [the vineyard]|H6960|Conj-w | V-Piel-ConsecImperf-3ms
 v2 לַעֲשׂ֥וֹת|la·‘ă·śō·wṯ|to yield|H6213|Prep-l | V-Qal-Inf
 v2 עֲנָבִ֖ים|‘ă·nā·ḇîm|good grapes|H6025|N-mp
@@ -97,7 +97,7 @@ v7 וְהִנֵּ֣ה|wə·hin·nêh|but saw|H2009|Conj-w | Interjection
 v7 מִשְׂפָּ֔ח|miś·pāḥ|bloodshed|H4939|N-ms
 v7 לִצְדָקָ֖ה|liṣ·ḏā·qāh|for righteousness|H6666|Prep-l | N-fs
 v7 וְהִנֵּ֥ה|wə·hin·nêh|but heard|H2009|Conj-w | Interjection
-v7 צְעָקָֽה׃ס|ṣə·‘ā·qāh|a cry of distress|H6818|N-fs
+v7 צְעָקָֽה׃|ṣə·‘ā·qāh|a cry of distress|H6818|N-fs
 v8 ה֗וֹי|hō·w|Woe|H1945|Interjection
 v8 מַגִּיעֵ֥י|mag·gî·‘ê|to you who add|H5060|V-Hifil-Prtcpl-mpc
 v8 בַ֙יִת֙|ḇa·yiṯ|house|H1004|N-ms
@@ -123,7 +123,7 @@ v9 לְשַׁמָּ֣ה|lə·šam·māh|desolate|H8047|Prep-l | N-fs
 v9 יִֽהְי֔וּ|yih·yū|will become|H1961|V-Qal-Imperf-3mp
 v9 גְּדֹלִ֥ים|gə·ḏō·lîm|great mansions|H1419|Adj-mp
 v9 וְטוֹבִ֖ים|wə·ṭō·w·ḇîm|...|H2896|Conj-w | Adj-mp
-v9 מֵאֵ֥ין|mê·’ên|vvv|H369|Prep-m | Adv
+v9 מֵאֵ֥ין|mê·’ên|...|H369|Prep-m | Adv
 v9 יוֹשֵֽׁב׃|yō·wō·šêḇ|left unoccupied|H3427|V-Qal-Prtcpl-ms
 v10 כִּ֗י|kî|For|H3588|Conj
 v10 עֲשֶׂ֙רֶת֙|‘ă·śe·reṯ|ten|H6235|Number-msc
@@ -135,7 +135,7 @@ v10 אֶחָ֑ת|’e·ḥāṯ|[but] a|H259|Number-fs
 v10 וְזֶ֥רַע|wə·ze·ra‘|of seed|H2233|Conj-w | N-msc
 v10 חֹ֖מֶר|ḥō·mer|and a homer|H2563|N-ms
 v10 יַעֲשֶׂ֥ה|ya·‘ă·śeh|[only]|H6213|V-Qal-Imperf-3ms
-v10 אֵיפָֽה׃פ|’ê·p̄āh|an ephah [of grain]|H374|N-fs
+v10 אֵיפָֽה׃|’ê·p̄āh|an ephah [of grain]|H374|N-fs
 v11 ה֛וֹי|hō·w|Woe|H1945|Interjection
 v11 מַשְׁכִּימֵ֥י|maš·kî·mê|to those who rise early|H7925|V-Hifil-Prtcpl-mpc
 v11 בַבֹּ֖קֶר|ḇab·bō·qer|in the morning|H1242|Prep-b, Art | N-ms
@@ -185,7 +185,7 @@ v14 הֲדָרָ֧הּ|hă·ḏā·rāh|[Zion's] nobles|H1926|N-msc | 3fs
 v14 וַהֲמוֹנָ֛הּ|wa·hă·mō·w·nāh|[and] masses|H1995|Conj-w | N-msc | 3fs
 v14 וּשְׁאוֹנָ֖הּ|ū·šə·’ō·w·nāh|her revelers|H7588|Conj-w | N-msc | 3fs
 v14 וְעָלֵ֥ז|wə·‘ā·lêz|and carousers|H5938|Conj-w | Adj-ms
-v14 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v14 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v15 וַיִּשַּׁ֥ח|way·yiš·šaḥ|will be brought low|H7817|Conj-w | V-Nifal-ConsecImperf-3ms
 v15 אָדָ֖ם|’ā·ḏām|So mankind|H120|N-ms
 v15 וַיִּשְׁפַּל־|way·yiš·pal-|humbled|H8213|Conj-w | V-Qal-ConsecImperf-3ms
@@ -227,7 +227,7 @@ v19 וְתָב֗וֹאָה|wə·ṯā·ḇō·w·’āh|come|H935|Conj-w | V-Qal
 v19 עֲצַ֛ת|‘ă·ṣaṯ|Let the plan|H6098|N-fsc
 v19 קְד֥וֹשׁ|qə·ḏō·wōš|of the Holy|H6918|Adj-msc
 v19 יִשְׂרָאֵ֖ל|yiś·rā·’êl|One of Israel|H3478|N-proper-ms
-v19 וְנֵדָֽעָה׃ס|wə·nê·ḏā·‘āh|so that we may know it|H3045|Conj-w | V-Qal-ConjImperf.Cohort-1cp
+v19 וְנֵדָֽעָה׃|wə·nê·ḏā·‘āh|so that we may know it|H3045|Conj-w | V-Qal-ConjImperf.Cohort-1cp
 v20 ה֣וֹי|hō·w|Woe|H1945|Interjection
 v20 הָאֹמְרִ֥ים|hā·’ō·mə·rîm|to those who call|H559|Art | V-Qal-Prtcpl-mp
 v20 לָרַ֛ע|lā·ra‘|evil|H7451|Prep-l, Art | Adj-ms
@@ -243,7 +243,7 @@ v20 שָׂמִ֥ים|śā·mîm|who replace|H7760|V-Qal-Prtcpl-mp
 v20 מַ֛ר|mar|bitter|H4751|Adj-ms
 v20 לְמָת֖וֹק|lə·mā·ṯō·wq|with sweet|H4966|Prep-l | Adj-ms
 v20 וּמָת֥וֹק|ū·mā·ṯō·wq|and sweet|H4966|Conj-w | Adj-ms
-v20 לְמָֽר׃ס|lə·mār|with bitter|H4751|Prep-l | Adj-ms
+v20 לְמָֽר׃|lə·mār|with bitter|H4751|Prep-l | Adj-ms
 v21 ה֖וֹי|hō·w|Woe|H1945|Interjection
 v21 חֲכָמִ֣ים|ḥă·ḵā·mîm|to those who are wise|H2450|Adj-mp
 v21 בְּעֵֽינֵיהֶ֑ם|bə·‘ê·nê·hem|in their own eyes|H5869|Prep-b | N-cdc | 3mp
@@ -265,7 +265,7 @@ v23 שֹׁ֑חַד|šō·ḥaḏ|a bribe|H7810|N-ms
 v23 וְצִדְקַ֥ת|wə·ṣiḏ·qaṯ|of justice|H6666|Conj-w | N-fsc
 v23 צַדִּיקִ֖ים|ṣad·dî·qîm|the innocent|H6662|Adj-mp
 v23 יָסִ֥ירוּ|yā·sî·rū|and deprive|H5493|V-Hifil-Imperf-3mp
-v23 מִמֶּֽנּוּ׃ס|mim·men·nū|...|H4480|Prep | 3ms
+v23 מִמֶּֽנּוּ׃|mim·men·nū|...|H4480|Prep | 3ms
 v24 לָכֵן֩|lā·ḵên|Therefore|H3651|Adv
 v24 כֶּאֱכֹ֨ל|ke·’ĕ·ḵōl|consumes|H398|Prep-k | V-Qal-Inf
 v24 קַ֜שׁ|qaš|the straw|H7179|N-ms
@@ -381,4 +381,4 @@ v30 חֹ֔שֶׁךְ|ḥō·šeḵ|darkness|H2822|N-ms
 v30 צַ֣ר|ṣar|and distress|H6862|Adj-ms
 v30 וָא֔וֹר|wā·’ō·wr|even the light|H216|Conj-w | N-cs
 v30 חָשַׁ֖ךְ|ḥā·šaḵ|will be obscured|H2821|V-Qal-Perf-3ms
-v30 בַּעֲרִיפֶֽיהָ׃פ|ba·‘ă·rî·p̄e·hā|by clouds|H6183|Prep-b | N-mpc | 3fs
+v30 בַּעֲרִיפֶֽיהָ׃|ba·‘ă·rî·p̄e·hā|by clouds|H6183|Prep-b | N-mpc | 3fs

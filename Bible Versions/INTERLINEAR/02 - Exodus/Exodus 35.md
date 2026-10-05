@@ -37,7 +37,7 @@ v3 אֵ֔שׁ|’êš|a fire|H784|N-cs
 v3 בְּכֹ֖ל|bə·ḵōl|in any|H3605|Prep-b | N-msc
 v3 מֹשְׁבֹֽתֵיכֶ֑ם|mō·šə·ḇō·ṯê·ḵem|of your dwellings|H4186|N-mpc | 2mp
 v3 בְּי֖וֹם|bə·yō·wm|day|H3117|Prep-b | N-msc
-v3 הַשַּׁבָּֽת׃פ|haš·šab·bāṯ|on the Sabbath|H7676|Art | N-cs
+v3 הַשַּׁבָּֽת׃|haš·šab·bāṯ|on the Sabbath|H7676|Art | N-cs
 v4 וַיֹּ֣אמֶר|way·yō·mer|told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 מֹשֶׁ֔ה|mō·šeh|Moses also|H4872|N-proper-ms
 v4 אֶל־|’el-|-|H413|Prep
@@ -75,7 +75,7 @@ v6 וְעִזִּֽים׃|wə·‘iz·zîm|and goat hair|H5795|Conj-w | N-fp
 v7 וְעֹרֹ֨ת|wə·‘ō·rōṯ|skins|H5785|Conj-w | N-mpc
 v7 אֵילִ֧ם|’ê·lim|ram|H352|N-mp
 v7 מְאָדָּמִ֛ים|mə·’ād·dā·mîm|dyed red|H119|V-Pual-Prtcpl-mp
-v7 וְעֹרֹ֥ת|wə·‘ō·rōṯ|vvv|H5785|Conj-w | N-mpc
+v7 וְעֹרֹ֥ת|wə·‘ō·rōṯ|...|H5785|Conj-w | N-mpc
 v7 תְּחָשִׁ֖ים|tə·ḥā·šîm|and fine leather|H8476|N-mp
 v7 וַעֲצֵ֥י|wa·‘ă·ṣê|wood|H6086|Conj-w | N-mpc
 v7 שִׂטִּֽים׃|śiṭ·ṭīm|acacia|H7848|N-fp
@@ -364,10 +364,10 @@ v29 לַעֲשׂ֖וֹת|la·‘ă·śō·wṯ|to do|H6213|Prep-l | V-Qal-Inf
 v29 בְּיַד־|bə·yaḏ-|through|H3027|Prep-b | N-fsc
 v29 מֹשֶׁ֑ה|mō·šeh|Moses|H4872|N-proper-ms
 v29 הֵבִ֧יאוּ|hê·ḇî·’ū|-|H935|V-Hifil-Perf-3cp
-v29 בְנֵי־|ḇə·nê-|vvv|H1121|N-mpc
+v29 בְנֵי־|ḇə·nê-|...|H1121|N-mpc
 v29 יִשְׂרָאֵ֛ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v29 נְדָבָ֖ה|nə·ḏā·ḇāh|a freewill offering|H5071|N-fs
-v29 לַיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v29 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v30 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v30 מֹשֶׁה֙|mō·šeh|Then Moses|H4872|N-proper-ms
 v30 אֶל־|’el-|to|H413|Prep

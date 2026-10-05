@@ -134,7 +134,7 @@ v9 ὡς|hōs|how|G5613|Adv
 v9 ἀδιαλείπτως|adialeiptōs|constantly|G89|Adv
 v9 μνείαν|mneian|I remember|G3417|N-AFS
 v9 ὑμῶν|hymōn|you|G4771|PPro-G2P
-v9 ποιοῦμαι|poioumai|vvv|G4160|V-PIM-1S
+v9 ποιοῦμαι|poioumai|...|G4160|V-PIM-1S
 v10 πάντοτε|pantote|at all times|G3842|Adv
 v10 ἐπὶ|epi|in|G1909|Prep
 v10 τῶν|tōn|-|G3588|Art-GFP
@@ -183,7 +183,7 @@ v12 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v12 τε|te|[that]|G5037|Conj
 v12 καὶ|kai|and|G2532|Conj
 v12 ἐμοῦ|emou|I|G1473|PPro-G1S
-v13 Οὐ|Ou|vvv|G3756|Adv
+v13 Οὐ|Ou|...|G3756|Adv
 v13 θέλω|thelō|I do not want|G2309|V-PIA-1S
 v13 δὲ|de|-|G1161|Conj
 v13 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -198,7 +198,7 @@ v13 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v13 καὶ|kai|([but]|G2532|Conj
 v13 ἐκωλύθην|ekōlythēn|have been prevented [from visiting]|G2967|V-AIP-1S
 v13 ἄχρι|achri|until|G891|Prep
-v13 τοῦ|tou|vvv|G3588|Art-GMS
+v13 τοῦ|tou|...|G3588|Art-GMS
 v13 δεῦρο|deuro|now)|G1204|Adv
 v13 ἵνα|hina|in order that|G2443|Conj
 v13 τινὰ|tina|a|G5100|IPro-AMS
@@ -234,7 +234,7 @@ v15 τοῖς|tois|who [are]|G3588|Art-DMP
 v15 ἐν|en|in|G1722|Prep
 v15 Ῥώμῃ|Rhōmē|Rome|G4516|N-DFS
 v15 εὐαγγελίσασθαι|euangelisasthai|to preach the gospel|G2097|V-ANM
-v16 Οὐ|Ou|vvv|G3756|Adv
+v16 Οὐ|Ou|...|G3756|Adv
 v16 γὰρ|gar|-|G1063|Conj
 v16 ἐπαισχύνομαι|epaischynomai|I am not ashamed of|G1870|V-PIM/P-1S
 v16 τὸ|to|the|G3588|Art-ANS
@@ -360,7 +360,7 @@ v23 τοῦ|tou|of the|G3588|Art-GMS
 v23 ἀφθάρτου|aphthartou|immortal|G862|Adj-GMS
 v23 Θεοῦ|Theou|God|G2316|N-GMS
 v23 ἐν|en|for|G1722|Prep
-v23 ὁμοιώματι|homoiōmati|vvv|G3667|N-DNS
+v23 ὁμοιώματι|homoiōmati|...|G3667|N-DNS
 v23 εἰκόνος|eikonos|images|G1504|N-GFS
 v23 φθαρτοῦ|phthartou|of mortal|G5349|Adj-GMS
 v23 ἀνθρώπου|anthrōpou|man|G444|N-GMS
@@ -411,8 +411,8 @@ v25 Κτίσαντα|Ktisanta|Creator|G2936|V-APA-AMS
 v25 ὅς|hos|who|G3739|RelPro-NMS
 v25 ἐστιν|estin|is|G1510|V-PIA-3S
 v25 εὐλογητὸς|eulogētos|worthy of praise|G2128|Adj-NMS
-v25 εἰς|eis|vvv|G1519|Prep
-v25 τοὺς|tous|vvv|G3588|Art-AMP
+v25 εἰς|eis|...|G1519|Prep
+v25 τοὺς|tous|...|G3588|Art-AMP
 v25 αἰῶνας|aiōnas|forever|G165|N-AMP
 v25 ἀμήν|amēn|Amen|G281|Heb
 v26 Διὰ|Dia|For this reason|G1223|Prep
@@ -435,7 +435,7 @@ v26 φυσικὴν|physikēn|natural|G5446|Adj-AFS
 v26 χρῆσιν|chrēsin|relations|G5540|N-AFS
 v26 εἰς|eis|for|G1519|Prep
 v26 τὴν|tēn|[ones]|G3588|Art-AFS
-v26 παρὰ|para|vvv|G3844|Prep
+v26 παρὰ|para|...|G3844|Prep
 v26 φύσιν|physin|unnatural|G5449|N-AFS
 v27 ὁμοίως|homoiōs|Likewise|G3668|Adv
 v27 τε|te|-|G5037|Conj
@@ -474,7 +474,7 @@ v27 ἑαυτοῖς|heautois|themselves|G1438|RefPro-DM3P
 v27 ἀπολαμβάνοντες|apolambanontes|received|G618|V-PPA-NMP
 v28 Καὶ|Kai|Furthermore|G2532|Conj
 v28 καθὼς|kathōs|since|G2531|Adv
-v28 οὐκ|ouk|vvv|G3756|Adv
+v28 οὐκ|ouk|...|G3756|Adv
 v28 ἐδοκίμασαν|edokimasan|they did not see fit|G1381|V-AIA-3P
 v28 τὸν|ton|-|G3588|Art-AMS
 v28 Θεὸν|Theon|God|G2316|N-AMS
@@ -490,7 +490,7 @@ v28 ἀδόκιμον|adokimon|a depraved|G96|Adj-AMS
 v28 νοῦν|noun|mind|G3563|N-AMS
 v28 ποιεῖν|poiein|to do|G4160|V-PNA
 v28 τὰ|ta|what|G3588|Art-ANP
-v28 μὴ|mē|vvv|G3361|Adv
+v28 μὴ|mē|...|G3361|Adv
 v28 καθήκοντα|kathēkonta|ought not to be done|G2520|V-PPA-ANP
 v29 πεπληρωμένους|peplērōmenous|They have become filled with|G4137|V-RPM/P-AMP
 v29 πάσῃ|pasē|every kind of|G3956|Adj-DFS

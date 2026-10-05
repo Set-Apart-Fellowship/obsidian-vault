@@ -27,10 +27,10 @@ v2 מִֽירִיח֗וֹ|mî·rî·ḥōw|from Jericho|H3405|Prep-m | N-proper-
 v2 הָעַ֞י|hā·‘ay|to Ai|H5857|Art | N-proper-fs
 v2 אֲשֶׁ֨ר|’ă·šer|which|H834|Pro-r
 v2 עִם־|‘im-|is near|H5973|Prep
-v2 בֵּ֥ית|bêṯ|vvv|H1007|Prep
+v2 בֵּ֥ית|bêṯ|...|H1007|Prep
 v2 אָ֙וֶן֙|’ā·wen|Beth-aven|H1007|N-proper-fs
 v2 מִקֶּ֣דֶם|miq·qe·ḏem|to the east|H6924|Prep-m | N-ms
-v2 לְבֵֽית־|lə·ḇêṯ-|vvv|H1008|Prep
+v2 לְבֵֽית־|lə·ḇêṯ-|...|H1008|Prep
 v2 אֵ֔ל|’êl|of Bethel|H1008|Prep | N-proper-fs
 v2 וַיֹּ֤אמֶר|way·yō·mer|and told them|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 אֲלֵיהֶם֙|’ă·lê·hem|...|H413|Prep | 3mp
@@ -106,7 +106,7 @@ v6 וַיִּקְרַ֨ע|way·yiq·ra‘|tore|H7167|Conj-w | V-Qal-ConsecImperf
 v6 יְהוֹשֻׁ֜עַ|yə·hō·wō·šu·a‘|Then Joshua|H3091|N-proper-ms
 v6 שִׂמְלֹתָ֗יו|śim·lō·ṯāw|his clothes|H8071|N-fpc | 3ms
 v6 וַיִּפֹּל֩|way·yip·pōl|and fell|H5307|Conj-w | V-Qal-ConsecImperf-3ms
-v6 עַל־|‘al-||H5921|Prep
+v6 עַל־|‘al-|-|H5921|Prep
 v6 פָּנָ֨יו|pā·nāw|before|H6440|N-cpc | 3ms
 v6 אַ֜רְצָה|’ar·ṣāh|...|H776|N-fs | 3fs
 v6 לִפְנֵ֨י|lip̄·nê|facedown|H6440|Prep-l | N-cpc
@@ -170,13 +170,13 @@ v9 הָאָ֑רֶץ|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v9 וּמַֽה־|ū·mah-|Then what|H4100|Conj-w | Interrog
 v9 תַּעֲשֵׂ֖ה|ta·‘ă·śêh|will You do|H6213|V-Qal-Imperf-2ms
 v9 לְשִׁמְךָ֥|lə·šim·ḵā|name|H8034|Prep-l | N-msc | 2ms
-v9 הַגָּדֽוֹל׃ס|hag·gā·ḏō·wl|for Your great|H1419|Art | Adj-ms
+v9 הַגָּדֽוֹל׃|hag·gā·ḏō·wl|for Your great|H1419|Art | Adj-ms
 v10 וַיֹּ֧אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v10 יְהוָ֛ה|Yah·weh|But the LORD|H3068|N-proper-ms
 v10 אֶל־|’el-|to|H413|Prep
 v10 יְהוֹשֻׁ֖עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v10 קֻ֣ם|qum|Stand up|H6965|V-Qal-Imp-ms
-v10 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v10 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v10 לָ֣מָּה|lām·māh|Why|H4100|Interrog
 v10 זֶּ֔ה|zeh|...|H2088|Pro-ms
 v10 אַתָּ֖ה|’at·tāh|have you|H859|Pro-2ms
@@ -442,7 +442,7 @@ v24 אָהֳלוֹ֙|’ā·ho·lōw|his tent|H168|N-msc | 3ms
 v24 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v24 כָּל־|kāl-|and everything [else]|H3605|N-msc
 v24 אֲשֶׁר־|’ă·šer-|he owned|H834|Pro-r
-v24 ל֔וֹ|lōw||H0|Prep | 3ms
+v24 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v24 וְכָל־|wə·ḵāl|all|H3605|Conj-w | N-msc
 v24 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v24 עִמּ֑וֹ|‘im·mōw|together with|H5973|Prep | 3ms
@@ -491,4 +491,4 @@ v26 עֵ֣מֶק|‘ê·meq|the Valley|H6010|N-msc
 v26 עָכ֔וֹר|‘ā·ḵō·wr|of Achor|H5911|N-proper-fs
 v26 עַ֖ד|‘aḏ|to|H5704|Prep
 v26 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v26 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v26 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms

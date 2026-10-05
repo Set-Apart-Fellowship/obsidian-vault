@@ -24,7 +24,7 @@ v1 יוֹדֵ֙עַ֙|yō·w·ḏê·a‘|know|H3045|V-Qal-Prtcpl-ms
 v1 הָֽאָדָ֔ם|hā·’ā·ḏām|Man|H120|Art | N-ms
 v1 הַכֹּ֖ל|hak·kōl|what|H3605|Art | N-ms
 v1 לִפְנֵיהֶֽם׃|lip̄·nê·hem|lies ahead|H6440|Prep-l | N-mpc | 3mp
-v2 הַכֹּ֞ל|hak·kōl|vvv|H3605|Art | N-ms
+v2 הַכֹּ֞ל|hak·kōl|...|H3605|Art | N-ms
 v2 כַּאֲשֶׁ֣ר|ka·’ă·šer|It is the same|H834|Prep-k | Pro-r
 v2 לַכֹּ֗ל|lak·kōl|for all|H3605|Prep-l, Art | N-ms
 v2 מִקְרֶ֨ה|miq·reh|fate|H4745|N-ms
@@ -72,7 +72,7 @@ v4 מִי֙|mî|for anyone who|H4310|Interrog
 v4 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v4 יִבָּחֵר|yib·bå̄·ḥēr|is among|H977|V-Pual-Imperf-3ms
 v4 אֶ֥ל|’el|...|H413|Prep
-v4 כָּל־|kāl-|vvv|H3605|N-msc
+v4 כָּל־|kāl-|...|H3605|N-msc
 v4 הַחַיִּ֖ים|ha·ḥay·yîm|the living|H2416|Art | N-mp
 v4 יֵ֣שׁ|yêš|There is|H3426|Adv
 v4 בִּטָּח֑וֹן|biṭ·ṭā·ḥō·wn|hope|H986|N-ms
@@ -89,12 +89,12 @@ v5 הַֽחַיִּ֛ים|ha·ḥay·yîm|the living|H2416|Art | Adj-mp
 v5 יוֹדְעִ֖ים|yō·wḏ·‘îm|know|H3045|V-Qal-Prtcpl-mp
 v5 שֶׁיָּמֻ֑תוּ|še·yā·mu·ṯū|that they will die|H4191|Pro-r | V-Qal-Imperf-3mp
 v5 וְהַמֵּתִ֞ים|wə·ham·mê·ṯîm|but the dead|H4191|Conj-w, Art | V-Qal-Prtcpl-mp
-v5 אֵינָ֧ם|’ê·nām|vvv|H369|Adv | 3mp
+v5 אֵינָ֧ם|’ê·nām|...|H369|Adv | 3mp
 v5 יוֹדְעִ֣ים|yō·wḏ·‘îm|know|H3045|V-Qal-Prtcpl-mp
 v5 מְא֗וּמָה|mə·’ū·māh|nothing|H3972|N-ms
 v5 וְאֵֽין־|wə·’ên-|They have no|H369|Conj-w | Adv
 v5 ע֤וֹד|‘ō·wḏ|further|H5750|Adv
-v5 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v5 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v5 שָׂכָ֔ר|śā·ḵār|reward|H7939|N-ms
 v5 כִּ֥י|kî|because|H3588|Conj
 v5 נִשְׁכַּ֖ח|niš·kaḥ|of them is forgotten|H7911|V-Nifal-Perf-3ms
@@ -145,7 +145,7 @@ v9 רְאֵ֨ה|rə·’êh|Enjoy|H7200|V-Qal-Imp-ms
 v9 חַיִּ֜ים|ḥay·yîm|life|H2416|N-mp
 v9 עִם־|‘im-|with|H5973|Prep
 v9 אִשָּׁ֣ה|’iš·šāh|wife|H802|N-fs
-v9 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v9 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v9 אָהַ֗בְתָּ|’ā·haḇ·tā|your beloved|H157|V-Qal-Perf-2ms
 v9 כָּל־|kāl-|all|H3605|N-msc
 v9 יְמֵי֙|yə·mê|the days|H3117|N-mpc
@@ -186,7 +186,7 @@ v10 בִּשְׁא֕וֹל|biš·’ō·wl|in Sheol|H7585|Prep-b | N-cs
 v10 אֲשֶׁ֥ר|’ă·šer|where|H834|Pro-r
 v10 אַתָּ֖ה|’at·tāh|you|H859|Pro-2ms
 v10 הֹלֵ֥ךְ|hō·lêḵ|are going|H1980|V-Qal-Prtcpl-ms
-v10 שָֽׁמָּה׃ס|šām·māh|there is|H8033|Adv | 3fs
+v10 שָֽׁמָּה׃|šām·māh|there is|H8033|Adv | 3fs
 v11 שַׁ֜בְתִּי|šaḇ·tî|something else|H7725|V-Qal-Perf-1cs
 v11 וְרָאֹ֣ה|wə·rā·’ōh|I saw|H7200|Conj-w | V-Qal-InfAbs
 v11 תַֽחַת־|ṯa·ḥaṯ-|under|H8478|Prep
@@ -251,7 +251,7 @@ v13 אֵלָֽי׃|’ê·lāy|to me|H413|Prep | 1cs
 v14 עִ֣יר|‘îr|city|H5892|N-fs
 v14 קְטַנָּ֔ה|qə·ṭan·nāh|There was a small|H6996|Adj-fs
 v14 וַאֲנָשִׁ֥ים|wa·’ă·nā·šîm|men|H582|Conj-w | N-mp
-v14 בָּ֖הּ|bāh||H0|Prep | 3fs
+v14 בָּ֖הּ|bāh|-|H0|Prep | 3fs
 v14 מְעָ֑ט|mə·‘āṭ|with few|H4592|Adj-ms
 v14 וּבָֽא־|ū·ḇā-|came|H935|Conj-w | V-Qal-ConjPerf-3ms
 v14 אֵלֶ֜יהָ|’ê·le·hā|against it|H413|Prep | 3fs

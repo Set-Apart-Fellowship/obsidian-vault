@@ -197,7 +197,7 @@ v14 τὰς|tas|-|G3588|Art-AFP
 v14 ἀναγκαίας|anankaias|[the] pressing|G316|Adj-AFP
 v14 χρείας|chreias|needs [of others]|G5532|N-AFP
 v14 ἵνα|hina|so that|G2443|Conj
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 ὦσιν|ōsin|they will not be|G1510|V-PSA-3P
 v14 ἄκαρποι|akarpoi|unfruitful|G175|Adj-NMP
 v15 Ἀσπάζονταί|Aspazontai|send you greetings|G782|V-PIM/P-3P

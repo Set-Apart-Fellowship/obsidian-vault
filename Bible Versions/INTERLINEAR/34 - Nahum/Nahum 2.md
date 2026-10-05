@@ -149,4 +149,4 @@ v13 וְלֹֽא־|wə·lō-|will no longer|H3808|Conj-w | Adv-NegPrt
 v13 יִשָּׁמַ֥ע|yiš·šā·ma‘|be heard|H8085|V-Nifal-Imperf-3ms
 v13 ע֖וֹד|‘ō·wḏ|-|H5750|Adv
 v13 ק֥וֹל|qō·wl|and the voices|H6963|N-msc
-v13 מַלְאָכֵֽכֵה׃ס|mal·’ā·ḵê·ḵêh|of your messengers|H4397|N-mpc | 2fs
+v13 מַלְאָכֵֽכֵה׃|mal·’ā·ḵê·ḵêh|of your messengers|H4397|N-mpc | 2fs

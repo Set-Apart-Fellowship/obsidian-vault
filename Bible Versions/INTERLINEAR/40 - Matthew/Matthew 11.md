@@ -240,11 +240,11 @@ v17 λέγουσιν|legousin|-|G3004|V-PIA-3P
 v17 Ηὐλήσαμεν|Ēulēsamen|We played the flute|G832|V-AIA-1P
 v17 ὑμῖν|hymin|for you|G4771|PPro-D2P
 v17 Καὶ|Kai|and|G2532|Conj
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 ὠρχήσασθε|ōrchēsasthe|you did not dance|G3738|V-AIM-2P
 v17 Ἐθρηνήσαμεν|Ethrēnēsamen|we sang a dirge|G2354|V-AIA-1P
 v17 Καὶ|Kai|and|G2532|Conj
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 ἐκόψασθε|ekopsasthe|you did not mourn|G2875|V-AIM-2P
 v18 Ἦλθεν|Ēlthen|came|G2064|V-AIA-3S
 v18 γὰρ|gar|For|G1063|Conj
@@ -297,7 +297,7 @@ v20 πλεῖσται|pleistai|most|G4118|Adj-NFP-S
 v20 δυνάμεις|dynameis|miracles|G1411|N-NFP
 v20 αὐτοῦ|autou|of His|G846|PPro-GM3S
 v20 ὅτι|hoti|because|G3754|Conj
-v20 οὐ|ou|vvv|G3756|Adv
+v20 οὐ|ou|...|G3756|Adv
 v20 μετενόησαν|metenoēsan|they did not repent|G3340|V-AIA-3P
 v21 Οὐαί|Ouai|Woe|G3759|I
 v21 σοι|soi|to you|G4771|PPro-D2S
@@ -360,7 +360,7 @@ v23 γενόμεναι|genomenai|were performed|G1096|V-APM-NFP
 v23 ἐν|en|in|G1722|Prep
 v23 σοί|soi|you|G4771|PPro-D2S
 v23 ἔμεινεν|emeinen|it would have remained|G3306|V-AIA-3S
-v23 ἂν|an|vvv|G302|Prtcl
+v23 ἂν|an|...|G302|Prtcl
 v23 μέχρι|mechri|to|G3360|Prep
 v23 τῆς|tēs|this|G3588|Art-GFS
 v23 σήμερον|sēmeron|day|G4594|Adv
@@ -381,7 +381,7 @@ v25 Ἐν|En|At|G1722|Prep
 v25 ἐκείνῳ|ekeinō|that|G1565|DPro-DMS
 v25 τῷ|tō|-|G3588|Art-DMS
 v25 καιρῷ|kairō|time|G2540|N-DMS
-v25 ἀποκριθεὶς|apokritheis|vvv|G611|V-APP-NMS
+v25 ἀποκριθεὶς|apokritheis|...|G611|V-APP-NMS
 v25 ὁ|ho|-|G3588|Art-NMS
 v25 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v25 εἶπεν|eipen|declared|G2036|V-AIA-3S
@@ -456,7 +456,7 @@ v28 καὶ|kai|and|G2532|Conj
 v28 πεφορτισμένοι|pephortismenoi|burdened|G5412|V-RPM/P-VMP
 v28 κἀγὼ|kagō|and I|G2504|PPro-N1S
 v28 ἀναπαύσω|anapausō|will give you rest|G373|V-FIA-1S
-v28 ὑμᾶς|hymas|vvv|G4771|PPro-A2P
+v28 ὑμᾶς|hymas|...|G4771|PPro-A2P
 v29 ἄρατε|arate|Take|G142|V-AMA-2P
 v29 τὸν|ton|-|G3588|Art-AMS
 v29 ζυγόν|zygon|yoke|G2218|N-AMS

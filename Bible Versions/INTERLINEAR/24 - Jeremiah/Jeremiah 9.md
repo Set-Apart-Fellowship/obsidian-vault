@@ -28,7 +28,7 @@ v2 מְנָ֣אֲפִ֔ים|mə·nā·’ă·p̄îm|adulterers|H5003|V-Piel-Prt
 v2 עֲצֶ֖רֶת|‘ă·ṣe·reṯ|a crowd|H6116|N-fsc
 v2 בֹּגְדִֽים׃|bō·ḡə·ḏîm|of faithless people|H898|V-Qal-Prtcpl-mp
 v3 וַֽיַּדְרְכ֤וּ|way·yaḏ·rə·ḵū|They bend|H1869|Conj-w | V-Hifil-ConsecImperf-3mp
-v3 אֶת־|’eṯ-||H853|DirObjM
+v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 לְשׁוֹנָם֙|lə·šō·w·nām|their tongues|H3956|N-csc | 3mp
 v3 קַשְׁתָּ֣ם|qaš·tām|like bows|H7198|N-fsc | 3mp
 v3 שֶׁ֔קֶר|še·qer|lies|H8267|N-ms
@@ -45,7 +45,7 @@ v3 וְאֹתִ֥י|wə·’ō·ṯî|-|H853|Conj-w | DirObjM | 1cs
 v3 לֹֽא־|lō-|and they do not|H3808|Adv-NegPrt
 v3 יָדָ֖עוּ|yā·ḏā·‘ū|take Me into account|H3045|V-Qal-Perf-3cp
 v3 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v3 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v3 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v4 אִ֤ישׁ|’îš|Let everyone|H376|N-ms
 v4 מֵרֵעֵ֙הוּ֙|mê·rê·‘ê·hū|his neighbor|H7453|Prep-m | N-msc | 3ms
 v4 הִשָּׁמֵ֔רוּ|hiš·šā·mê·rū|guard|H8104|V-Nifal-Imp-mp
@@ -83,7 +83,7 @@ v6 מֵאֲנ֥וּ|mê·’ă·nū|they refuse|H3985|V-Piel-Perf-3cp
 v6 דַֽעַת־|ḏa·‘aṯ-|to know|H3045|V-Qal-Inf
 v6 אוֹתִ֖י|’ō·w·ṯî|Me|H853|DirObjM | 1cs
 v6 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v6 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v6 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v7 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v7 כֹּ֤ה|kōh|this is what|H3541|Adv
 v7 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -124,7 +124,7 @@ v9 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v9 כָּזֶ֔ה|kā·zeh|as this|H2088|Prep-k | Pro-ms
 v9 לֹ֥א|lō|Should I not|H3808|Adv-NegPrt
 v9 תִתְנַקֵּ֖ם|ṯiṯ·naq·qêm|avenge|H5358|V-Hitpael-Imperf-3fs
-v9 נַפְשִֽׁי׃ס|nap̄·šî|Myself|H5315|N-fsc | 1cs
+v9 נַפְשִֽׁי׃|nap̄·šî|Myself|H5315|N-fsc | 1cs
 v10 עַל־|‘al-|for|H5921|Prep
 v10 הֶ֨הָרִ֜ים|he·hā·rîm|the mountains|H2022|Art | N-mp
 v10 אֶשָּׂ֧א|’eś·śā|I will take up|H5375|V-Qal-Imperf-1cs
@@ -161,7 +161,7 @@ v11 יְהוּדָ֛ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v11 אֶתֵּ֥ן|’et·tên|and I will make|H5414|V-Qal-Imperf-1cs
 v11 שְׁמָמָ֖ה|šə·mā·māh|a desolation|H8077|N-fs
 v11 מִבְּלִ֖י|mib·bə·lî|without|H1097|Prep-m | Adv
-v11 יוֹשֵֽׁב׃ס|yō·wō·šêḇ|inhabitant|H3427|V-Qal-Prtcpl-ms
+v11 יוֹשֵֽׁב׃|yō·wō·šêḇ|inhabitant|H3427|V-Qal-Prtcpl-ms
 v12 מִֽי־|mî-|Who|H4310|Interrog
 v12 הָאִ֤ישׁ|hā·’îš|is the man|H376|Art | N-ms
 v12 הֶֽחָכָם֙|he·ḥā·ḵām|wise|H2450|Art | Adj-ms
@@ -181,7 +181,7 @@ v12 הָאָ֔רֶץ|hā·’ā·reṣ|is the land|H776|Art | N-fs
 v12 נִצְּתָ֥ה|niṣ·ṣə·ṯāh|and scorched|H5327|V-Nifal-Perf-3fs
 v12 כַמִּדְבָּ֖ר|ḵam·miḏ·bār|like a desert|H4057|Prep-k, Art | N-ms
 v12 מִבְּלִ֖י|mib·bə·lî|so no|H1097|Prep-m | Adv
-v12 עֹבֵֽר׃ס|‘ō·ḇêr|one can pass through it|H5674|V-Qal-Prtcpl-ms
+v12 עֹבֵֽר׃|‘ō·ḇêr|one can pass through it|H5674|V-Qal-Prtcpl-ms
 v13 וַיֹּ֣אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 יְהוָ֔ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v13 עַל־|‘al-|It is because|H5921|Prep
@@ -205,7 +205,7 @@ v14 וְאַחֲרֵי֙|wə·’a·ḥă·rê|and gone after|H310|Conj-w | Pre
 v14 הַבְּעָלִ֔ים|hab·bə·‘ā·lîm|the Baals|H1168|Art | N-mp
 v14 אֲשֶׁ֥ר|’ă·šer|as|H834|Pro-r
 v14 לִמְּד֖וּם|lim·mə·ḏūm|taught them|H3925|V-Piel-Perf-3cp | 3mp
-v14 אֲבוֹתָֽם׃ס|’ă·ḇō·w·ṯām|their fathers|H1|N-mpc | 3mp
+v14 אֲבוֹתָֽם׃|’ă·ḇō·w·ṯām|their fathers|H1|N-mpc | 3mp
 v15 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v15 כֹּֽה־|kōh-|this is what|H3541|Adv
 v15 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -235,7 +235,7 @@ v16 אֶת־|’eṯ-|them|H853|DirObjM
 v16 הַחֶ֔רֶב|ha·ḥe·reḇ|a sword|H2719|Art | N-fs
 v16 עַ֥ד|‘aḏ|until|H5704|Prep
 v16 כַּלּוֹתִ֖י|kal·lō·w·ṯî|I have finished them off|H3615|V-Piel-Inf | 1cs
-v16 אוֹתָֽם׃פ|’ō·w·ṯām|-|H853|DirObjM | 3mp
+v16 אוֹתָֽם׃|’ō·w·ṯām|-|H853|DirObjM | 3mp
 v17 כֹּ֤ה|kōh|This is what|H3541|Adv
 v17 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v17 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -272,7 +272,7 @@ v19 עָזַ֣בְנוּ|‘ā·zaḇ·nū|we have abandoned|H5800|V-Qal-Perf-1c
 v19 אָ֔רֶץ|’ā·reṣ|the land|H776|N-fs
 v19 כִּ֥י|kî|because|H3588|Conj
 v19 הִשְׁלִ֖יכוּ|hiš·lî·ḵū|have been torn down|H7993|V-Hifil-Perf-3cp
-v19 מִשְׁכְּנוֹתֵֽינוּ׃ס|miš·kə·nō·w·ṯê·nū|our dwellings|H4908|N-mpc | 1cp
+v19 מִשְׁכְּנוֹתֵֽינוּ׃|miš·kə·nō·w·ṯê·nū|our dwellings|H4908|N-mpc | 1cp
 v20 כִּֽי־|kî-|Now|H3588|Conj
 v20 שְׁמַ֤עְנָה|šə·ma‘·nāh|hear|H8085|V-Qal-Imp-fp
 v20 נָשִׁים֙|nā·šîm|O women|H802|N-fp
@@ -314,7 +314,7 @@ v22 וּכְעָמִ֛יר|ū·ḵə·‘ā·mîr|like newly cut grain|H5995|Con
 v22 מֵאַחֲרֵ֥י|mê·’a·ḥă·rê|behind|H310|Prep-m
 v22 הַקֹּצֵ֖ר|haq·qō·ṣêr|the reaper|H7114|Art | V-Qal-Prtcpl-ms
 v22 וְאֵ֥ין|wə·’ên|with no|H369|Conj-w | Adv
-v22 מְאַסֵּֽף׃ס|mə·’as·sêp̄|one to gather it|H622|V-Piel-Prtcpl-ms
+v22 מְאַסֵּֽף׃|mə·’as·sêp̄|one to gather it|H622|V-Piel-Prtcpl-ms
 v23 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v23 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v23 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -350,7 +350,7 @@ v24 כִּֽי־|kî-|for|H3588|Conj
 v24 בְאֵ֥לֶּה|ḇə·’êl·leh|in these things|H428|Prep-b | Pro-cp
 v24 חָפַ֖צְתִּי|ḥā·p̄aṣ·tî|I delight|H2654|V-Qal-Perf-1cs
 v24 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v24 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v24 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v25 הִנֵּ֛ה|hin·nêh|Behold|H2009|Interjection
 v25 יָמִ֥ים|yā·mîm|the days|H3117|N-mp
 v25 בָּאִ֖ים|bā·’îm|are coming|H935|V-Qal-Prtcpl-mp
@@ -368,7 +368,7 @@ v26 יְהוּדָ֗ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v26 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v26 אֱד֞וֹם|’ĕ·ḏō·wm|Edom|H123|N-proper-ms
 v26 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
-v26 בְּנֵ֤י|bə·nê|vvv|H1121|N-mpc
+v26 בְּנֵ֤י|bə·nê|...|H1121|N-mpc
 v26 עַמּוֹן֙|‘am·mō·wn|Ammon|H5983|N-proper-ms
 v26 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v26 מוֹאָ֔ב|mō·w·’āḇ|Moab|H4124|N-proper-fs
@@ -386,4 +386,4 @@ v26 וְכָל־|wə·ḵāl|and the whole|H3605|Conj-w | N-msc
 v26 בֵּ֥ית|bêṯ|house|H1004|N-msc
 v26 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v26 עַרְלֵי־|‘ar·lê-|is uncircumcised|H6189|Adj-mpc
-v26 לֵֽב׃ס|lêḇ|in heart|H3820|N-ms
+v26 לֵֽב׃|lêḇ|in heart|H3820|N-ms

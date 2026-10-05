@@ -9,7 +9,7 @@ v1 ἡμῶν|hēmōn|our|G1473|PPro-G1P
 v1 κατὰ|kata|according to|G2596|Prep
 v1 σάρκα|sarka|[the] flesh|G4561|N-AFS
 v2 εἰ|ei|If|G1487|Conj
-v2 γὰρ|gar|vvv|G1063|Conj
+v2 γὰρ|gar|...|G1063|Conj
 v2 Ἀβραὰμ|Abraam|Abraham|G11|N-NMS
 v2 ἐξ|ex|by|G1537|Prep
 v2 ἔργων|ergōn|works|G2041|N-GNP
@@ -40,7 +40,7 @@ v4 δὲ|de|Now|G1161|Conj
 v4 ἐργαζομένῳ|ergazomenō|[the] worker|G2038|V-PPM/P-DMS
 v4 ὁ|ho|the|G3588|Art-NMS
 v4 μισθὸς|misthos|wages|G3408|N-NMS
-v4 οὐ|ou|vvv|G3756|Adv
+v4 οὐ|ou|...|G3756|Adv
 v4 λογίζεται|logizetai|are not credited|G3049|V-PIM/P-3S
 v4 κατὰ|kata|as|G2596|Prep
 v4 χάριν|charin|a gift|G5485|N-AFS
@@ -49,7 +49,7 @@ v4 κατὰ|kata|as|G2596|Prep
 v4 ὀφείλημα|opheilēma|an obligation|G3783|N-ANS
 v5 τῷ|tō|to the [one who]|G3588|Art-DMS
 v5 δὲ|de|However|G1161|Conj
-v5 μὴ|mē|vvv|G3361|Adv
+v5 μὴ|mē|...|G3361|Adv
 v5 ἐργαζομένῳ|ergazomenō|does not work|G2038|V-PPM/P-DMS
 v5 πιστεύοντι|pisteuonti|believes|G4100|V-PPA-DMS
 v5 δὲ|de|but|G1161|Conj
@@ -92,8 +92,8 @@ v7 ἁμαρτίαι|hamartiai|sins|G266|N-NFP
 v8 μακάριος|makarios|Blessed [is]|G3107|Adj-NMS
 v8 ἀνὴρ|anēr|[the] man|G435|N-NMS
 v8 οὗ|hou|against him|G3739|RelPro-GMS
-v8 οὐ|ou|vvv|G3756|Adv
-v8 μὴ|mē|vvv|G3361|Adv
+v8 οὐ|ou|...|G3756|Adv
+v8 μὴ|mē|...|G3361|Adv
 v8 λογίσηται|logisētai|will never count|G3049|V-ASM-3S
 v8 Κύριος|Kyrios|[the] Lord|G2962|N-NMS
 v8 ἁμαρτίαν|hamartian|[whose] sin|G266|N-AFS
@@ -125,13 +125,13 @@ v10 ἐν|en|...|G1722|Prep
 v10 περιτομῇ|peritomē|his circumcision|G4061|N-DFS
 v10 ὄντι|onti|[Was it after]|G1510|V-PPA-DMS
 v10 ἢ|ē|or|G2228|Conj
-v10 ἐν|en|vvv|G1722|Prep
+v10 ἐν|en|...|G1722|Prep
 v10 ἀκροβυστίᾳ|akrobystia|[before]|G203|N-DFS
 v10 οὐκ|ouk|[It was] not|G3756|Adv
-v10 ἐν|en|vvv|G1722|Prep
+v10 ἐν|en|...|G1722|Prep
 v10 περιτομῇ|peritomē|[after]|G4061|N-DFS
 v10 ἀλλ’|all’|but|G235|Conj
-v10 ἐν|en|vvv|G1722|Prep
+v10 ἐν|en|...|G1722|Prep
 v10 ἀκροβυστίᾳ|akrobystia|[before]|G203|N-DFS
 v11 Καὶ|Kai|And|G2532|Conj
 v11 σημεῖον|sēmeion|[the] sign|G4592|N-ANS
@@ -154,7 +154,7 @@ v11 πατέρα|patera|[the] father|G3962|N-AMS
 v11 πάντων|pantōn|of all|G3956|Adj-GMP
 v11 τῶν|tōn|who|G3588|Art-GMP
 v11 πιστευόντων|pisteuontōn|believe|G4100|V-PPA-GMP
-v11 δι’|di’|vvv|G1223|Prep
+v11 δι’|di’|...|G1223|Prep
 v11 ἀκροβυστίας|akrobystias|are not circumcised|G203|N-GFS
 v11 εἰς|eis|in order that|G1519|Prep
 v11 τὸ|to|-|G3588|Art-ANS
@@ -178,7 +178,7 @@ v12 στοιχοῦσιν|stoichousin|walk|G4748|V-PPA-DMP
 v12 τοῖς|tois|in the|G3588|Art-DNP
 v12 ἴχνεσιν|ichnesin|footsteps|G2487|N-DNP
 v12 τῆς|tēs|of the|G3588|Art-GFS
-v12 ἐν|en|vvv|G1722|Prep
+v12 ἐν|en|...|G1722|Prep
 v12 ἀκροβυστίᾳ|akrobystia|had before he was circumcised|G203|N-DFS
 v12 πίστεως|pisteōs|faith|G4102|N-GFS
 v12 τοῦ|tou|[that]|G3588|Art-GMS
@@ -242,7 +242,7 @@ v16 εἰς|eis|...|G1519|Prep
 v16 τὸ|to|-|G3588|Art-ANS
 v16 εἶναι|einai|[and] may be|G1510|V-PNA
 v16 βεβαίαν|bebaian|guaranteed|G949|Adj-AFS
-v16 τὴν|tēn|vvv|G3588|Art-AFS
+v16 τὴν|tēn|...|G3588|Art-AFS
 v16 ἐπαγγελίαν|epangelian|[it]|G1860|N-AFS
 v16 παντὶ|panti|to all|G3956|Adj-DNS
 v16 τῷ|tō|[Abraham's]|G3588|Art-DNS
@@ -317,7 +317,7 @@ v19 κατενόησεν|katenoēsen|he acknowledged|G2657|V-AIA-3S
 v19 τὸ|to|the|G3588|Art-ANS
 v19 ἑαυτοῦ|heautou|of his|G1438|RefPro-GM3S
 v19 σῶμα|sōma|body|G4983|N-ANS
-v19 [ἤδη]|ēdē|vvv|G2235|Adv
+v19 [ἤδη]|ēdē|...|G2235|Adv
 v19 νενεκρωμένον|nenekrōmenon|decrepitness|G3499|V-RPM/P-ANS
 v19 ἑκατονταετής|hekatontaetēs|a hundred years old|G1541|Adj-NMS
 v19 που|pou|about|G4225|Adv
@@ -334,7 +334,7 @@ v20 τὴν|tēn|the|G3588|Art-AFS
 v20 ἐπαγγελίαν|epangelian|promise|G1860|N-AFS
 v20 τοῦ|tou|-|G3588|Art-GMS
 v20 Θεοῦ|Theou|of God|G2316|N-GMS
-v20 οὐ|ou|vvv|G3756|Adv
+v20 οὐ|ou|...|G3756|Adv
 v20 διεκρίθη|diekrithē|he did not waver|G1252|V-AIP-3S
 v20 τῇ|tē|-|G3588|Art-DFS
 v20 ἀπιστίᾳ|apistia|through disbelief|G570|N-DFS
@@ -375,7 +375,7 @@ v24 καὶ|kai|also|G2532|Conj
 v24 δι’|di’|for|G1223|Prep
 v24 ἡμᾶς|hēmas|us|G1473|PPro-A1P
 v24 οἷς|hois|to whom|G3739|RelPro-DMP
-v24 μέλλει|mellei|vvv|G3195|V-PIA-3S
+v24 μέλλει|mellei|...|G3195|V-PIA-3S
 v24 λογίζεσθαι|logizesthai|[righteousness] will be credited|G3049|V-PNM/P
 v24 τοῖς|tois|for us who|G3588|Art-DMP
 v24 πιστεύουσιν|pisteuousin|believe|G4100|V-PPA-DMP

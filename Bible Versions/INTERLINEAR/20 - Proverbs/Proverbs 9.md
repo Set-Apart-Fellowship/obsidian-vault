@@ -15,7 +15,7 @@ v3 שָֽׁלְחָ֣ה|šā·lə·ḥāh|She has sent out|H7971|V-Qal-Perf-3fs
 v3 נַעֲרֹתֶ֣יהָ|na·‘ă·rō·ṯe·hā|her maidservants|H5291|N-fpc | 3fs
 v3 תִקְרָ֑א|ṯiq·rā|she calls out|H7121|V-Qal-Imperf-3fs
 v3 עַל־|‘al-|from|H5921|Prep
-v3 גַּ֝פֵּ֗י|gap·pê|vvv|H1610|N-mpc
+v3 גַּ֝פֵּ֗י|gap·pê|...|H1610|N-mpc
 v3 מְרֹ֣מֵי|mə·rō·mê|the heights|H4791|N-mpc
 v3 קָֽרֶת׃|qā·reṯ|of the city|H7176|N-fs
 v4 מִי־|mî-|Whoever|H4310|Interrog
@@ -61,7 +61,7 @@ v9 ע֑וֹד|‘ō·wḏ|still|H5750|Adv
 v9 הוֹדַ֥ע|hō·w·ḏa‘|teach|H3045|V-Hifil-Imp-ms
 v9 לְ֝צַדִּ֗יק|lə·ṣad·dîq|a righteous man|H6662|Prep-l | Adj-ms
 v9 וְי֣וֹסֶף|wə·yō·w·sep̄|and he will increase|H3254|Conj-w | V-Hifil-ConjImperf.Jus-3ms
-v9 לֶֽקַח׃פ|le·qaḥ|[his] learning|H3948|N-ms
+v9 לֶֽקַח׃|le·qaḥ|[his] learning|H3948|N-ms
 v10 תְּחִלַּ֣ת|tə·ḥil·laṯ|is the beginning|H8462|N-fsc
 v10 חָ֭כְמָה|ḥāḵ·māh|of wisdom|H2451|N-fs
 v10 יִרְאַ֣ת|yir·’aṯ|The fear|H3374|N-fsc
@@ -74,7 +74,7 @@ v11 בִ֭י|ḇî|through [wisdom]|H0|Prep | 1cs
 v11 יִרְבּ֣וּ|yir·bū|will be multiplied|H7235|V-Qal-Imperf-3mp
 v11 יָמֶ֑יךָ|yā·me·ḵā|your days|H3117|N-mpc | 2ms
 v11 וְיוֹסִ֥יפוּ|wə·yō·w·sî·p̄ū|will be added|H3254|Conj-w | V-Hifil-ConjImperf-3mp
-v11 לְּ֝ךָ֗|lə·ḵā||H0|Prep | 2ms
+v11 לְּ֝ךָ֗|lə·ḵā|-|H0|Prep | 2ms
 v11 שְׁנ֣וֹת|šə·nō·wṯ|and years|H8141|N-fpc
 v11 חַיִּֽים׃|ḥay·yîm|to your life|H2416|N-mp
 v12 אִם־|’im-|If|H518|Conj
@@ -124,4 +124,4 @@ v18 רְפָאִ֣ים|rə·p̄ā·’îm|the dead|H7496|N-mp
 v18 שָׁ֑ם|šām|are there|H8033|Adv
 v18 בְּעִמְקֵ֖י|bə·‘im·qê|[are] in the depths|H6012|Prep-b | N-mpc
 v18 שְׁא֣וֹל|šə·’ō·wl|of Sheol|H7585|N-cs
-v18 קְרֻאֶֽיהָ׃פ|qə·ru·’e·hā|that her guests|H7121|V-Qal-QalPassPrtcpl-mpc | 3fs
+v18 קְרֻאֶֽיהָ׃|qə·ru·’e·hā|that her guests|H7121|V-Qal-QalPassPrtcpl-mpc | 3fs

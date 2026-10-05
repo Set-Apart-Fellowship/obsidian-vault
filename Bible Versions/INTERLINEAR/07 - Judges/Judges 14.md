@@ -22,7 +22,7 @@ v2 אוֹתָ֥הּ|’ō·w·ṯāh|her|H853|DirObjM | 3fs
 v2 לִּ֖י|lî|for me|H0|Prep | 1cs
 v2 לְאִשָּֽׁה׃|lə·’iš·šāh|as a wife|H802|Prep-l | N-fs
 v3 וַיֹּ֨אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v3 ל֜וֹ|lōw||H0|Prep | 3ms
+v3 ל֜וֹ|lōw|-|H0|Prep | 3ms
 v3 אָבִ֣יו|’ā·ḇîw|But his father|H1|N-msc | 3ms
 v3 וְאִמּ֗וֹ|wə·’im·mōw|and mother|H517|Conj-w | N-fsc | 3ms
 v3 הַאֵין֩|ha·’ên|Can't you [find]|H369|Adv
@@ -65,7 +65,7 @@ v4 וּבָעֵ֣ת|ū·ḇā·‘êṯ|time|H6256|Conj-w, Prep-b, Art | N-cs
 v4 הַהִ֔יא|ha·hî|for at that|H1931|Art | Pro-3fs
 v4 פְּלִשְׁתִּ֖ים|pə·liš·tîm|the Philistines|H6430|N-proper-mp
 v4 מֹשְׁלִ֥ים|mō·šə·lîm|were ruling|H4910|V-Qal-Prtcpl-mp
-v4 בְּיִשְׂרָאֵֽל׃פ|bə·yiś·rā·’êl|over Israel|H3478|Prep-b | N-proper-ms
+v4 בְּיִשְׂרָאֵֽל׃|bə·yiś·rā·’êl|over Israel|H3478|Prep-b | N-proper-ms
 v5 וַיֵּ֧רֶד|way·yê·reḏ|went down|H3381|Conj-w | V-Qal-ConsecImperf-3ms
 v5 שִׁמְשׁ֛וֹן|šim·šō·wn|Then Samson|H8123|N-proper-ms
 v5 וְאָבִ֥יו|wə·’ā·ḇîw|with his father|H1|Conj-w | N-msc | 3ms
@@ -186,7 +186,7 @@ v13 וְאִם־|wə·’im-|But if|H518|Conj
 v13 לֹ֣א|lō|you cannot|H3808|Adv-NegPrt
 v13 תוּכְלוּ֮|ṯū·ḵə·lū|...|H3201|V-Qal-Imperf-2mp
 v13 לְהַגִּ֣יד|lə·hag·gîḏ|solve it|H5046|Prep-l | V-Hifil-Inf
-v13 לִי֒|lî||H0|Prep | 1cs
+v13 לִי֒|lî|-|H0|Prep | 1cs
 v13 וּנְתַתֶּ֨ם|ū·nə·ṯat·tem|must give|H5414|Conj-w | V-Qal-ConjPerf-2mp
 v13 אַתֶּ֥ם|’at·tem|you|H859|Pro-2mp
 v13 לִי֙|lî|me|H0|Prep | 1cs
@@ -196,7 +196,7 @@ v13 וּשְׁלֹשִׁ֖ים|ū·šə·lō·šîm|and thirty|H7970|Conj-w | Nu
 v13 חֲלִיפ֣וֹת|ḥă·lî·p̄ō·wṯ|sets|H2487|N-fpc
 v13 בְּגָדִ֑ים|bə·ḡā·ḏîm|of clothes|H899|N-mp
 v13 וַיֹּ֣אמְרוּ|way·yō·mə·rū|they replied|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v13 ל֔וֹ|lōw||H0|Prep | 3ms
+v13 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v13 ח֥וּדָה|ḥū·ḏāh|Tell us|H2330|V-Qal-Imp-ms | 3fs
 v13 חִידָתְךָ֖|ḥî·ḏā·ṯə·ḵā|your riddle|H2420|N-fsc | 2ms
 v13 וְנִשְׁמָעֶֽנָּה׃|wə·niš·mā·‘en·nāh|Let us hear it|H8085|Conj-w | V-Qal-ConjImperf.h-1cp | 3fs
@@ -255,7 +255,7 @@ v16 וְלִ֖י|wə·lî|...|H0|Conj-w | Prep | 1cs
 v16 לֹ֣א|lō|but have not|H3808|Adv-NegPrt
 v16 הִגַּ֑דְתָּה|hig·gaḏ·tāh|explained it to me|H5046|V-Hifil-Perf-2ms
 v16 וַיֹּ֣אמֶר|way·yō·mer|he said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v16 לָ֗הּ|lāh||H0|Prep | 3fs
+v16 לָ֗הּ|lāh|-|H0|Prep | 3fs
 v16 הִנֵּ֨ה|hin·nêh|Look|H2009|Interjection
 v16 לְאָבִ֧י|lə·’ā·ḇî|it to my father|H1|Prep-l | N-msc | 1cs
 v16 וּלְאִמִּ֛י|ū·lə·’im·mî|or mother|H517|Conj-w, Prep-l | N-fsc | 1cs
@@ -269,7 +269,7 @@ v17 שִׁבְעַ֣ת|šiḇ·‘aṯ|the whole seven|H7651|Number-msc
 v17 הַיָּמִ֔ים|hay·yā·mîm|days|H3117|Art | N-mp
 v17 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v17 הָיָ֥ה|hā·yāh|-|H1961|V-Qal-Perf-3ms
-v17 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v17 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v17 הַמִּשְׁתֶּ֑ה|ham·miš·teh|of the feast|H4960|Art | N-ms
 v17 וַיְהִ֣י׀|way·hî|and finally|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v17 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
@@ -326,7 +326,7 @@ v19 וַיִּ֣חַר|way·yi·ḥar|And burning|H2734|Conj-w | V-Qal-ConsecImp
 v19 אַפּ֔וֹ|’ap·pōw|with anger|H639|N-msc | 3ms
 v19 וַיַּ֖עַל|way·ya·‘al|Samson returned|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v19 בֵּ֥ית|bêṯ|house|H1004|N-msc
-v19 אָבִֽיהוּ׃פ|’ā·ḇî·hū|to his father's|H1|N-msc | 3ms
+v19 אָבִֽיהוּ׃|’ā·ḇî·hū|to his father's|H1|N-msc | 3ms
 v20 וַתְּהִ֖י|wat·tə·hî|was given|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v20 אֵ֣שֶׁת|’ê·šeṯ|wife|H802|N-fsc
 v20 שִׁמְשׁ֑וֹן|šim·šō·wn|and his|H8123|N-proper-ms

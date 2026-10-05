@@ -177,7 +177,7 @@ v12 דוֹר־|ḏō·wr-|the age-old|H1755|N-ms
 v12 וָד֖וֹר|wā·ḏō·wr|foundations|H1755|Conj-w | N-ms
 v12 תְּקוֹמֵ֑ם|tə·qō·w·mêm|you will restore|H6965|V-Piel-Imperf-2ms
 v12 וְקֹרָ֤א|wə·qō·rā|you will be called|H7121|Conj-w | V-Pual-ConjPerf-3ms
-v12 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v12 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v12 גֹּדֵ֣ר|gō·ḏêr|Repairer|H1443|V-Qal-Prtcpl-ms
 v12 פֶּ֔רֶץ|pe·reṣ|of the Breach|H6556|N-ms
 v12 מְשֹׁבֵ֥ב|mə·šō·ḇêḇ|Restorer|H7725|V-Piel-Prtcpl-ms
@@ -219,4 +219,4 @@ v14 אָבִ֔יךָ|’ā·ḇî·ḵā|of your father|H1|N-msc | 2ms
 v14 כִּ֛י|kî|For|H3588|Conj
 v14 פִּ֥י|pî|the mouth|H6310|N-msc
 v14 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v14 דִּבֵּֽר׃ס|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms
+v14 דִּבֵּֽר׃|dib·bêr|has spoken|H1696|V-Piel-Perf-3ms

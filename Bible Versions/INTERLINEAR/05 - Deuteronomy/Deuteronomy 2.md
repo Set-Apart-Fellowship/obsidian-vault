@@ -13,19 +13,19 @@ v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 הַר־|har-|Mount|H2022|N-msc
 v1 שֵׂעִ֖יר|śê·‘îr|Seir|H8165|N-proper-fs
 v1 יָמִ֥ים|yā·mîm|days|H3117|N-mp
-v1 רַבִּֽים׃ס|rab·bîm|and for many|H7227|Adj-mp
+v1 רַבִּֽים׃|rab·bîm|and for many|H7227|Adj-mp
 v2 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 יְהוָ֖ה|Yah·weh|At this time the LORD|H3068|N-proper-ms
 v2 אֵלַ֥י|’ê·lay|to me|H413|Prep | 1cs
 v2 לֵאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v3 רַב־|raḇ-|long enough|H7227|Adv
-v3 לָכֶ֕ם|lā·ḵem||H0|Prep | 2mp
+v3 לָכֶ֕ם|lā·ḵem|-|H0|Prep | 2mp
 v3 סֹ֖ב|sōḇ|You have been wandering around|H5437|V-Qal-Inf
 v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 הָהָ֣ר|hā·hār|hill country|H2022|Art | N-ms
 v3 הַזֶּ֑ה|haz·zeh|this|H2088|Art | Pro-ms
 v3 פְּנ֥וּ|pə·nū|turn|H6437|V-Qal-Imp-mp
-v3 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v3 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v3 צָפֹֽנָה׃|ṣā·p̄ō·nāh|to the north|H6828|N-fs | 3fs
 v4 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v4 הָעָם֮|hā·‘ām|the people|H5971|Art | N-ms
@@ -105,7 +105,7 @@ v8 בְּשֵׂעִ֔יר|bə·śê·‘îr|in Seir|H8165|Prep-b | N-proper-fs
 v8 מִדֶּ֙רֶךְ֙|mid·de·reḵ|road|H1870|Prep-m | N-csc
 v8 הָֽעֲרָבָ֔ה|hā·‘ă·rā·ḇāh|from the Arabah|H6160|Art | N-fs
 v8 מֵאֵילַ֖ת|mê·’ê·laṯ|which comes up from Elath|H359|Prep-m | N-proper-fs
-v8 וּמֵעֶצְיֹ֣ן|ū·mê·‘eṣ·yōn|vvv|H6100|
+v8 וּמֵעֶצְיֹ֣ן|ū·mê·‘eṣ·yōn|...|H6100|
 v8 גָּ֑בֶרס|gå̄·ḇɛ·rs|and Ezion-geber|H6100|Conj-w, Prep | N-proper-fs
 v8 וַנֵּ֙פֶן֙|wan·nê·p̄en|We turned away|H6437|Conj-w | V-Qal-ConsecImperf-1cp
 v8 וַֽנַּעֲבֹ֔ר|wan·na·‘ă·ḇōr|and traveled|H5674|Conj-w | V-Qal-ConsecImperf-1cp
@@ -177,7 +177,7 @@ v12 לָהֶֽם׃|lā·hem|them|H0|Prep | 3mp
 v13 עַתָּ֗ה|‘at·tāh|Now|H6258|Adv
 v13 קֻ֛מוּ|qu·mū|arise|H6965|V-Qal-Imp-mp
 v13 וְעִבְר֥וּ|wə·‘iḇ·rū|and cross over|H5674|Conj-w | V-Qal-Imp-mp
-v13 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v13 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 נַ֣חַל|na·ḥal|the Brook|H5158|N-msc
 v13 זָ֑רֶד|zā·reḏ|of Zered|H2218|N-proper-fs
@@ -229,7 +229,7 @@ v16 אַנְשֵׁ֧י|’an·šê|men|H582|N-mpc
 v16 הַמִּלְחָמָ֛ה|ham·mil·ḥā·māh|the fighting|H4421|Art | N-fs
 v16 לָמ֖וּת|lā·mūṯ|had died|H4191|Prep-l | V-Qal-Inf
 v16 מִקֶּ֥רֶב|miq·qe·reḇ|among|H7130|Prep-m | N-msc
-v16 הָעָֽם׃ס|hā·‘ām|the people|H5971|Art | N-ms
+v16 הָעָֽם׃|hā·‘ām|the people|H5971|Art | N-ms
 v17 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v17 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v17 אֵלַ֥י|’ê·lay|to me|H413|Prep | 1cs
@@ -268,7 +268,7 @@ v20 אֶֽרֶץ־|’e·reṣ-|as the land|H776|N-fsc
 v20 רְפָאִ֥ים|rə·p̄ā·’îm|of the Rephaim|H7497|N-proper-mp
 v20 תֵּחָשֵׁ֖ב|tê·ḥā·šêḇ|was regarded|H2803|V-Nifal-Imperf-3fs
 v20 אַף־|’ap̄-|That too|H637|Conj
-v20 הִ֑וא|hî||H1931|Pro-3fs
+v20 הִ֑וא|hî|-|H1931|Pro-3fs
 v20 רְפָאִ֤ים|rə·p̄ā·’îm|[who]|H7497|N-proper-mp
 v20 יָֽשְׁבוּ־|yā·šə·ḇū-|used to live|H3427|V-Qal-Perf-3cp
 v20 בָהּ֙|ḇāh|there|H0|Prep | 3fs
@@ -344,7 +344,7 @@ v25 תֵּ֤ת|têṯ|to put|H5414|V-Qal-Inf
 v25 פַּחְדְּךָ֙|paḥ·də·ḵā|the dread|H6343|N-msc | 2ms
 v25 וְיִרְאָ֣תְךָ֔|wə·yir·’ā·ṯə·ḵā|and fear|H3374|Conj-w | N-fsc | 2ms
 v25 עַל־|‘al-|of you|H5921|Prep
-v25 פְּנֵי֙|pə·nê|vvv|H6440|N-cpc
+v25 פְּנֵי֙|pə·nê|...|H6440|N-cpc
 v25 הָֽעַמִּ֔ים|hā·‘am·mîm|the nations|H5971|Art | N-mp
 v25 תַּ֖חַת|ta·ḥaṯ|under|H8478|Prep
 v25 כָּל־|kāl-|upon all|H3605|N-msc
@@ -382,14 +382,14 @@ v28 וְאָכַ֔לְתִּי|wə·’ā·ḵal·tî|to eat|H398|Conj-w | V-Qal
 v28 וּמַ֛יִם|ū·ma·yim|water|H4325|Conj-w | N-mp
 v28 בַּכֶּ֥סֶף|bak·ke·sep̄|in exchange for silver|H3701|Prep-b, Art | N-ms
 v28 תִּתֶּן־|tit·ten-|[and]|H5414|V-Qal-Imperf-2ms
-v28 לִ֖י|lî||H0|Prep | 1cs
+v28 לִ֖י|lî|-|H0|Prep | 1cs
 v28 וְשָׁתִ֑יתִי|wə·šā·ṯî·ṯî|to drink|H8354|Conj-w | V-Qal-ConjPerf-1cs
 v28 רַ֖ק|raq|Only|H7535|Adv
 v28 אֶעְבְּרָ֥ה|’e‘·bə·rāh|let us pass through|H5674|V-Qal-Imperf.Cohort-1cs
 v28 בְרַגְלָֽי׃|ḇə·raḡ·lāy|on foot|H7272|Prep-b | N-fdc | 1cs
 v29 כַּאֲשֶׁ֨ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v29 עָֽשׂוּ־|‘ā·śū-|did for us|H6213|V-Qal-Perf-3cp
-v29 לִ֜י|lî||H0|Prep | 1cs
+v29 לִ֜י|lî|-|H0|Prep | 1cs
 v29 בְּנֵ֣י|bə·nê|the descendants|H1121|N-mpc
 v29 עֵשָׂ֗ו|‘ê·śāw|of Esau|H6215|N-proper-ms
 v29 הַיֹּֽשְׁבִים֙|hay·yō·šə·ḇîm|who live|H3427|Art | V-Qal-Prtcpl-mp
@@ -429,7 +429,7 @@ v30 לְמַ֛עַן|lə·ma·‘an|that|H4616|Conj
 v30 תִּתּ֥וֹ|tit·tōw|He might deliver him|H5414|V-Qal-Inf | 3ms
 v30 בְיָדְךָ֖|ḇə·yā·ḏə·ḵā|into your hand|H3027|Prep-b | N-fsc | 2ms
 v30 כַּיּ֥וֹם|kay·yō·wm|this day|H3117|Prep-k, Art | N-ms
-v30 הַזֶּֽה׃ס|haz·zeh|as is the case|H2088|Art | Pro-ms
+v30 הַזֶּֽה׃|haz·zeh|as is the case|H2088|Art | Pro-ms
 v31 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v31 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v31 אֵלַ֔י|’ê·lay|to me|H413|Prep | 1cs
@@ -483,8 +483,8 @@ v34 הִשְׁאַ֖רְנוּ|hiš·’ar·nū|We left|H7604|V-Hifil-Perf-1cp
 v34 שָׂרִֽיד׃|śā·rîḏ|survivors|H8300|N-ms
 v35 רַ֥ק|raq|We carried off for ourselves only|H7535|Adv
 v35 הַבְּהֵמָ֖ה|hab·bə·hê·māh|the livestock|H929|Art | N-fs
-v35 בָּזַ֣זְנוּ|bā·zaz·nū||H962|V-Qal-Perf-1cp
-v35 לָ֑נוּ|lā·nū||H0|Prep | 1cp
+v35 בָּזַ֣זְנוּ|bā·zaz·nū|-|H962|V-Qal-Perf-1cp
+v35 לָ֑נוּ|lā·nū|-|H0|Prep | 1cp
 v35 וּשְׁלַ֥ל|ū·šə·lal|and the plunder|H7998|Conj-w | N-msc
 v35 הֶעָרִ֖ים|he·‘ā·rîm|from the cities|H5892|Art | N-fp
 v35 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r

@@ -51,7 +51,7 @@ v3 אֲבֹתַי֙|’ă·ḇō·ṯay|my fathers|H1|N-mpc | 1cs
 v3 חֲרֵבָ֔ה|ḥă·rê·ḇāh|lies in ruins|H2720|Adj-fs
 v3 וּשְׁעָרֶ֖יהָ|ū·šə·‘ā·re·hā|and its gates|H8179|Conj-w | N-mpc | 3fs
 v3 אֻכְּל֥וּ|’uk·kə·lū|have been destroyed|H398|V-QalPass-Perf-3cp
-v3 בָאֵֽשׁ׃ס|ḇā·’êš|by fire|H784|Prep-b, Art | N-cs
+v3 בָאֵֽשׁ׃|ḇā·’êš|by fire|H784|Prep-b, Art | N-cs
 v4 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 לִי֙|lî|-|H0|Prep | 1cs
 v4 הַמֶּ֔לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
@@ -67,7 +67,7 @@ v4 הַשָּׁמָֽיִם׃|haš·šā·mā·yim|of heaven|H8064|Art | N-mp
 v5 וָאֹמַ֣ר|wā·’ō·mar|and answered|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v5 לַמֶּ֔לֶךְ|lam·me·leḵ|the king|H4428|Prep-l, Art | N-ms
 v5 אִם־|’im-|If|H518|Conj
-v5 עַל־|‘al-||H5921|Prep
+v5 עַל־|‘al-|-|H5921|Prep
 v5 הַמֶּ֣לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v5 ט֔וֹב|ṭō·wḇ|it pleases|H2896|Adj-ms
 v5 וְאִם־|wə·’im-|and if|H518|Conj
@@ -100,12 +100,12 @@ v6 לִפְנֵֽי־|lip̄·nê-|...|H6440|Prep-l | N-mpc
 v6 הַמֶּ֙לֶךְ֙|ham·me·leḵ|the king|H4428|Art | N-ms
 v6 וַיִּשְׁלָחֵ֔נִי|way·yiš·lā·ḥê·nî|to send me|H7971|Conj-w | V-Qal-ConsecImperf-3ms | 1cs
 v6 וָֽאֶתְּנָ֥ה|wā·’et·tə·nāh|and I set|H5414|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
-v6 ל֖וֹ|lōw||H0|Prep | 3ms
+v6 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v6 זְמָֽן׃|zə·mān|a time|H2165|N-ms
 v7 וָאוֹמַר֮|wā·’ō·w·mar|I also said|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v7 לַמֶּלֶךְ֒|lam·me·leḵ|to [him]|H4428|Prep-l, Art | N-ms
 v7 אִם־|’im-|If|H518|Conj
-v7 עַל־|‘al-||H5921|Prep
+v7 עַל־|‘al-|-|H5921|Prep
 v7 הַמֶּ֣לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v7 ט֔וֹב|ṭō·wḇ|it pleases|H2896|Adj-ms
 v7 אִגְּרוֹת֙|’ig·gə·rō·wṯ|may letters|H107|N-fp
@@ -167,7 +167,7 @@ v9 עִמִּי֙|‘im·mî|with me|H5973|Prep | 1cs
 v9 הַמֶּ֔לֶךְ|ham·me·leḵ|The king|H4428|Art | N-ms
 v9 שָׂ֥רֵי|śā·rê|officers|H8269|N-mpc
 v9 חַ֖יִל|ḥa·yil|army|H2428|N-ms
-v9 וּפָרָשִֽׁים׃פ|ū·p̄ā·rā·šîm|and cavalry|H6571|Conj-w | N-mp
+v9 וּפָרָשִֽׁים׃|ū·p̄ā·rā·šîm|and cavalry|H6571|Conj-w | N-mp
 v10 וַיִּשְׁמַ֞ע|way·yiš·ma‘|heard about this|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v10 סַנְבַלַּ֣ט|san·ḇal·laṭ|But when Sanballat|H5571|N-proper-ms
 v10 הַחֹרֹנִ֗י|ha·ḥō·rō·nî|the Horonite|H2772|Art | N-proper-ms
@@ -183,7 +183,7 @@ v10 בָּ֥א|bā|had come|H935|V-Qal-Perf-3ms
 v10 אָדָ֔ם|’ā·ḏām|someone|H120|N-ms
 v10 לְבַקֵּ֥שׁ|lə·ḇaq·qêš|to seek|H1245|Prep-l | V-Piel-Inf
 v10 טוֹבָ֖ה|ṭō·w·ḇāh|the well-being|H2896|N-fs
-v10 לִבְנֵ֥י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v10 לִבְנֵ֥י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v10 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v11 וָאָב֖וֹא|wā·’ā·ḇō·w|After I had arrived|H935|Conj-w | V-Qal-ConsecImperf-1cs
 v11 אֶל־|’el-|in|H413|Prep
@@ -217,7 +217,7 @@ v12 הַבְּהֵמָ֔ה|hab·bə·hê·māh|was the one|H929|Art | N-fs
 v12 אֲשֶׁ֥ר|’ă·šer|on which|H834|Pro-r
 v12 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v12 רֹכֵ֥ב|rō·ḵêḇ|was riding|H7392|V-Qal-Prtcpl-ms
-v12 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v12 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v13 וָאֵצְאָ֨ה|wā·’ê·ṣə·’āh|So I went out|H3318|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
 v13 בְשַֽׁעַר־|ḇə·ša·‘ar-|Gate|H8179|Prep-b | N-msc
 v13 הַגַּ֜יא|hag·gay|through the Valley|H1516|Art | N-ms
@@ -275,7 +275,7 @@ v16 וְלַכֹּהֲנִ֜ים|wə·lak·kō·hă·nîm|or priests|H3548|Conj
 v16 וְלַחֹרִ֣ים|wə·la·ḥō·rîm|or nobles|H2715|Conj-w, Prep-l, Art | N-mp
 v16 וְלַסְּגָנִ֗ים|wə·las·sə·ḡā·nîm|or officials|H5461|Conj-w, Prep-l, Art | N-mp
 v16 וּלְיֶ֙תֶר֙|ū·lə·ye·ṯer|or any other|H3499|Conj-w, Prep-l | N-msc
-v16 עֹשֵׂ֣ה|‘ō·śêh|vvv|H6213|V-Qal-Prtcpl-msc
+v16 עֹשֵׂ֣ה|‘ō·śêh|...|H6213|V-Qal-Prtcpl-msc
 v16 הַמְּלָאכָ֔ה|ham·mə·lā·ḵāh|workers|H4399|Art | N-fs
 v16 עַד־|‘aḏ-|yet|H5704|Prep
 v16 כֵּ֖ן|kên|...|H3651|Adv
@@ -324,7 +324,7 @@ v18 נָק֣וּם|nā·qūm|Let us start|H6965|V-Qal-Imperf.h-1cp
 v18 וּבָנִ֔ינוּ|ū·ḇā·nî·nū|rebuilding|H1129|Conj-w | V-Qal-ConjPerf-1cp
 v18 וַיְחַזְּק֥וּ|way·ḥaz·zə·qū|and they set|H2388|Conj-w | V-Piel-ConsecImperf-3mp
 v18 יְדֵיהֶ֖ם|yə·ḏê·hem|their hands|H3027|N-fdc | 3mp
-v18 לַטּוֹבָֽה׃פ|laṭ·ṭō·w·ḇāh|to [this] good [work]|H2896|Prep-l, Art | N-fs
+v18 לַטּוֹבָֽה׃|laṭ·ṭō·w·ḇāh|to [this] good [work]|H2896|Prep-l, Art | N-fs
 v19 וַיִּשְׁמַע֩|way·yiš·ma‘|heard about this|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v19 סַנְבַלַּ֨ט|san·ḇal·laṭ|But when Sanballat|H5571|N-proper-ms
 v19 הַחֹרֹנִ֜י|ha·ḥō·rō·nî|the Horonite|H2772|Art | N-proper-ms
@@ -350,14 +350,14 @@ v19 אַתֶּ֥ם|’at·tem|Are you|H859|Pro-2mp
 v19 מֹרְדִֽים׃|mō·rə·ḏîm|rebelling|H4775|V-Qal-Prtcpl-mp
 v20 וָאָשִׁ֨יב|wā·’ā·šîḇ|So I answered|H7725|Conj-w | V-Hifil-ConsecImperf-1cs
 v20 אוֹתָ֜ם|’ō·w·ṯām|them|H853|DirObjM | 3mp
-v20 דָּבָ֗ר|dā·ḇār||H1697|N-ms
+v20 דָּבָ֗ר|dā·ḇār|-|H1697|N-ms
 v20 וָאוֹמַ֤ר|wā·’ō·w·mar|and said|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v20 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v20 אֱלֹהֵ֣י|’ĕ·lō·hê|The God|H430|N-mpc
 v20 הַשָּׁמַ֔יִם|haš·šā·ma·yim|of heaven|H8064|Art | N-mp
 v20 ה֚וּא|hū|is the One|H1931|Pro-3ms
 v20 יַצְלִ֣יחַֽ|yaṣ·lî·aḥ|who will grant us success|H6743|V-Hifil-Imperf-3ms
-v20 לָ֔נוּ|lā·nū||H0|Prep | 1cp
+v20 לָ֔נוּ|lā·nū|-|H0|Prep | 1cp
 v20 וַאֲנַ֥חְנוּ|wa·’ă·naḥ·nū|We|H587|Conj-w | Pro-1cp
 v20 עֲבָדָ֖יו|‘ă·ḇā·ḏāw|His servants|H5650|N-mpc | 3ms
 v20 נָק֣וּם|nā·qūm|will start|H6965|V-Qal-Imperf-1cp

@@ -29,7 +29,7 @@ v3 עַבְדִּי־|‘aḇ·dî-|are My Servant|H5650|N-msc | 1cs
 v3 אָ֑תָּה|’āt·tāh|You|H859|Pro-2ms
 v3 יִשְׂרָאֵ֕ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v3 אֲשֶׁר־|’ă·šer-|in whom|H834|Pro-r
-v3 בְּךָ֖|bə·ḵā||H0|Prep | 2ms
+v3 בְּךָ֖|bə·ḵā|-|H0|Prep | 2ms
 v3 אֶתְפָּאָֽר׃|’eṯ·pā·’ār|I will display My glory|H6286|V-Hitpael-Imperf-1cs
 v4 וַאֲנִ֤י|wa·’ă·nî|But I|H589|Conj-w | Pro-1cs
 v4 אָמַ֙רְתִּי֙|’ā·mar·tî|said|H559|V-Qal-Perf-1cs
@@ -52,7 +52,7 @@ v5 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
 v5 יֹצְרִ֤י|yō·ṣə·rî|who formed Me|H3335|V-Qal-Prtcpl-msc | 1cs
 v5 מִבֶּ֙טֶן֙|mib·be·ṭen|from the womb|H990|Prep-m | N-fs
 v5 לְעֶ֣בֶד|lə·‘e·ḇeḏ|to be His Servant|H5650|Prep-l | N-ms
-v5 ל֔וֹ|lōw||H0|Prep | 3ms
+v5 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v5 לְשׁוֹבֵ֤ב|lə·šō·w·ḇêḇ|back|H7725|Prep-l | V-Piel-Inf
 v5 יַֽעֲקֹב֙|ya·‘ă·qōḇ|to bring Jacob|H3290|N-proper-ms
 v5 אֵלָ֔יו|’ê·lāw|to Him|H413|Prep | 3ms
@@ -84,7 +84,7 @@ v6 לִֽהְי֥וֹת|lih·yō·wṯ|to bring|H1961|Prep-l | V-Qal-Inf
 v6 יְשׁוּעָתִ֖י|yə·šū·‘ā·ṯî|My salvation|H3444|N-fsc | 1cs
 v6 עַד־|‘aḏ-|to|H5704|Prep
 v6 קְצֵ֥ה|qə·ṣêh|the ends|H7097|N-msc
-v6 הָאָֽרֶץ׃ס|hā·’ā·reṣ|of the earth|H776|Art | N-fs
+v6 הָאָֽרֶץ׃|hā·’ā·reṣ|of the earth|H776|Art | N-fs
 v7 כֹּ֣ה|kōh|Thus|H3541|Adv
 v7 אָֽמַר־|’ā·mar-|says|H559|V-Qal-Perf-3ms
 v7 יְהוָה֩|Yah·weh|the LORD|H3068|N-proper-ms
@@ -183,7 +183,7 @@ v13 נִחַ֤ם|ni·ḥam|has comforted|H5162|V-Piel-Perf-3ms
 v13 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v13 עַמּ֔וֹ|‘am·mōw|His people|H5971|N-msc | 3ms
 v13 וַעֲנִיָּ֖ו|wa·‘ă·nî·yāw|on His afflicted ones|H6041|Conj-w | Adj-mpc | 3ms
-v13 יְרַחֵֽם׃ס|yə·ra·ḥêm|and He will have compassion|H7355|V-Piel-Imperf-3ms
+v13 יְרַחֵֽם׃|yə·ra·ḥêm|and He will have compassion|H7355|V-Piel-Imperf-3ms
 v14 וַתֹּ֥אמֶר|wat·tō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3fs
 v14 צִיּ֖וֹן|ṣî·yō·wn|But Zion|H6726|N-proper-fs
 v14 עֲזָבַ֣נִי|‘ă·zā·ḇa·nî|has forsaken me|H5800|V-Qal-Perf-3ms | 1cs
@@ -250,7 +250,7 @@ v20 בְאָזְנַ֔יִךְ|ḇə·’ā·zə·na·yiḵ|in your hearing|H241
 v20 בְּנֵ֖י|bə·nê|the children|H1121|N-mpc
 v20 שִׁכֻּלָ֑יִךְ|šik·ku·lā·yiḵ|of your bereavement|H7923|N-mpc | 2fs
 v20 צַר־|ṣar-|is too small for us|H6862|V-Qal-Perf-3ms
-v20 לִ֥י|lî||H0|Prep | 1cs
+v20 לִ֥י|lî|-|H0|Prep | 1cs
 v20 הַמָּק֖וֹם|ham·mā·qō·wm|This place|H4725|Art | N-ms
 v20 גְּשָׁה־|gə·šāh-|make room|H5066|V-Qal-Imp-ms | 3fs
 v20 לִּ֥י|lî|for us|H0|Prep | 1cs
@@ -267,7 +267,7 @@ v21 שְׁכוּלָ֖ה|šə·ḵū·lāh|was bereaved|H7909|Adj-fs
 v21 וְגַלְמוּדָ֑ה|wə·ḡal·mū·ḏāh|and barren|H1565|Conj-w | Adj-fs
 v21 גֹּלָ֣ה׀|gō·lāh|I was exiled|H1540|V-Qal-Prtcpl-fs
 v21 וְסוּרָ֗ה|wə·sū·rāh|and rejected|H5494|Conj-w | Adj-fs
-v21 וְאֵ֙לֶּה֙|wə·’êl·leh|vvv|H428|Conj-w | Pro-cp
+v21 וְאֵ֙לֶּה֙|wə·’êl·leh|...|H428|Conj-w | Pro-cp
 v21 מִ֣י|mî|So who|H4310|Interrog
 v21 גִדֵּ֔ל|ḡid·dêl|has reared them|H1431|V-Piel-Perf-3ms
 v21 הֵ֤ן|hên|Look|H2005|Interjection
@@ -276,7 +276,7 @@ v21 נִשְׁאַ֣רְתִּי|niš·’ar·tî|was left|H7604|V-Nifal-Perf-1c
 v21 לְבַדִּ֔י|lə·ḇad·dî|all alone|H905|Prep-l | N-msc | 1cs
 v21 אֵ֖לֶּה|’êl·leh|so|H428|Pro-cp
 v21 אֵיפֹ֥ה|’ê·p̄ōh|where|H375|Interrog
-v21 הֵֽם׃פ|hêm|did they come from|H1992|Pro-3mp
+v21 הֵֽם׃|hêm|did they come from|H1992|Pro-3mp
 v22 כֹּֽה־|kōh-|This is what|H3541|Adv
 v22 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v22 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -316,7 +316,7 @@ v23 יְהוָ֔ה|Yah·weh|am the LORD|H3068|N-proper-ms
 v23 אֲשֶׁ֥ר|’ă·šer|those who|H834|Pro-r
 v23 לֹֽא־|lō-|will never|H3808|Adv-NegPrt
 v23 יֵבֹ֖שׁוּ|yê·ḇō·šū|be put to shame|H954|V-Qal-Imperf-3mp
-v23 קוָֹֽי׃ס|qō·wāy|hope in Me|H6960|V-Qal-Prtcpl-mpc | 1cs
+v23 קוָֹֽי׃|qō·wāy|hope in Me|H6960|V-Qal-Prtcpl-mpc | 1cs
 v24 הֲיֻקַּ֥ח|hă·yuq·qaḥ|be snatched|H3947|V-QalPass-Imperf-3ms
 v24 מִגִּבּ֖וֹר|mig·gib·bō·wr|from the mighty|H1368|Prep-m | Adj-ms
 v24 מַלְק֑וֹחַ|mal·qō·w·aḥ|Can the plunder|H4455|N-ms
@@ -360,4 +360,4 @@ v26 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v26 מֽוֹשִׁיעֵ֔ךְ|mō·wō·šî·‘êḵ|am your Savior|H3467|V-Hifil-Prtcpl-msc | 2fs
 v26 וְגֹאֲלֵ֖ךְ|wə·ḡō·’ă·lêḵ|and your Redeemer|H1350|Conj-w | V-Qal-Prtcpl-msc | 2fs
 v26 אֲבִ֥יר|’ă·ḇîr|the Mighty|H46|N-msc
-v26 יַעֲקֹֽב׃ס|ya·‘ă·qōḇ|One of Jacob|H3290|N-proper-ms
+v26 יַעֲקֹֽב׃|ya·‘ă·qōḇ|One of Jacob|H3290|N-proper-ms

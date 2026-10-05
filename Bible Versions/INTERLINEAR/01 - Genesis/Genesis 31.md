@@ -157,7 +157,7 @@ v12 עֹ֥שֶׂה|‘ō·śeh|has done|H6213|V-Qal-Prtcpl-ms
 v12 לָּֽךְ׃|lāḵ|to you|H0|Prep | 2fs
 v13 אָנֹכִ֤י|’ā·nō·ḵî|I|H595|Pro-1cs
 v13 הָאֵל֙|hā·’êl|am the God|H410|Art | N-ms
-v13 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v13 בֵּֽית־|bêṯ-|...|H1008|Prep
 v13 אֵ֔ל|’êl|of Bethel|H1008|N-proper-fs
 v13 אֲשֶׁ֨ר|’ă·šer|where|H834|Pro-r
 v13 מָשַׁ֤חְתָּ|mā·šaḥ·tā|you anointed|H4886|V-Qal-Perf-2ms
@@ -182,7 +182,7 @@ v14 וַתַּ֤עַן|wat·ta·‘an|replied|H6030|Conj-w | V-Qal-ConsecImperf-
 v14 רָחֵל֙|rā·ḥêl|And Rachel|H7354|N-proper-fs
 v14 וְלֵאָ֔ה|wə·lê·’āh|and Leah|H3812|Conj-w | N-proper-fs
 v14 וַתֹּאמַ֖רְנָה|wat·tō·mar·nāh|...|H559|Conj-w | V-Qal-ConsecImperf-3fp
-v14 ל֑וֹ|lōw||H0|Prep | 3ms
+v14 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v14 הַע֥וֹד|ha·‘ō·wḏ|left|H5750|Adv
 v14 לָ֛נוּ|lā·nū|Do we|H0|Prep | 1cp
 v14 חֵ֥לֶק|ḥê·leq|have any portion|H2506|N-ms
@@ -275,7 +275,7 @@ v21 וַיִּבְרַ֥ח|way·yiḇ·raḥ|fled|H1272|Conj-w | V-Qal-ConsecImp
 v21 הוּא֙|hū|So he|H1931|Pro-3ms
 v21 וְכָל־|wə·ḵāl|with all|H3605|Conj-w | N-msc
 v21 אֲשֶׁר־|’ă·šer-|his possessions|H834|Pro-r
-v21 ל֔וֹ|lōw||H0|Prep | 3ms
+v21 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v21 וַיָּ֖קָם|way·yā·qām|-|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v21 וַיַּעֲבֹ֣ר|way·ya·‘ă·ḇōr|crossed|H5674|Conj-w | V-Qal-ConsecImperf-3ms
 v21 אֶת־|’eṯ-|-|H853|DirObjM
@@ -315,7 +315,7 @@ v24 הַלָּ֑יְלָה|hal·lā·yə·lāh|But that night|H3915|Art | N-ms
 v24 וַיֹּ֣אמֶר|way·yō·mer|and warned|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v24 ל֗וֹ|lōw|him|H0|Prep | 3ms
 v24 הִשָּׁ֧מֶר|hiš·šā·mer|Be careful|H8104|V-Nifal-Imp-ms
-v24 לְךָ֛|lə·ḵā||H0|Prep | 2ms
+v24 לְךָ֛|lə·ḵā|-|H0|Prep | 2ms
 v24 פֶּן־|pen-|not|H6435|Conj
 v24 תְּדַבֵּ֥ר|tə·ḏab·bêr|to say|H1696|V-Piel-Imperf-2ms
 v24 עִֽם־|‘im-|anything to|H5973|Prep
@@ -385,7 +385,7 @@ v29 אָמַ֧ר|’ā·mar|said|H559|V-Qal-Perf-3ms
 v29 אֵלַ֣י|’ê·lay|to me|H413|Prep | 1cs
 v29 לֵאמֹ֗ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v29 הִשָּׁ֧מֶר|hiš·šā·mer|Be careful|H8104|V-Nifal-Imp-ms
-v29 לְךָ֛|lə·ḵā||H0|Prep | 2ms
+v29 לְךָ֛|lə·ḵā|-|H0|Prep | 2ms
 v29 מִדַּבֵּ֥ר|mid·dab·bêr|not to say|H1696|Prep-m | V-Piel-Inf
 v29 עִֽם־|‘im-|anything to|H5973|Prep
 v29 יַעֲקֹ֖ב|ya·‘ă·qōḇ|Jacob|H3290|N-proper-ms
@@ -408,7 +408,7 @@ v31 וַיַּ֥עַן|way·ya·‘an|answered|H6030|Conj-w | V-Qal-ConsecImperf
 v31 יַעֲקֹ֖ב|ya·‘ă·qōḇ|Jacob|H3290|N-proper-ms
 v31 וַיֹּ֣אמֶר|way·yō·mer|I thought|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v31 לְלָבָ֑ן|lə·lā·ḇān|[you]|H3837|Prep-l | N-proper-ms
-v31 כִּ֣י|kî|vvv|H3588|Conj
+v31 כִּ֣י|kî|...|H3588|Conj
 v31 יָרֵ֔אתִי|yā·rê·ṯî|I was afraid|H3372|V-Qal-Perf-1cs
 v31 כִּ֣י|kî|for|H3588|Conj
 v31 אָמַ֔רְתִּי|’ā·mar·tî|...|H559|V-Qal-Perf-1cs
@@ -486,7 +486,7 @@ v35 מִפָּנֶ֔יךָ|mip·pā·ne·ḵā|before you|H6440|Prep-m | N-cpc |
 v35 כִּי־|kî-|for|H3588|Conj
 v35 דֶ֥רֶךְ|ḏe·reḵ|I am having my period|H1870|N-csc
 v35 נָשִׁ֖ים|nā·šîm|...|H802|N-fp
-v35 לִ֑י|lî||H0|Prep | 1cs
+v35 לִ֑י|lî|-|H0|Prep | 1cs
 v35 וַיְחַפֵּ֕שׂ|way·ḥap·pêś|So Laban searched|H2664|Conj-w | V-Piel-ConsecImperf-3ms
 v35 וְלֹ֥א|wə·lō|but could not|H3808|Conj-w | Adv-NegPrt
 v35 מָצָ֖א|mā·ṣā|find|H4672|V-Qal-Perf-3ms
@@ -657,7 +657,7 @@ v46 הַגָּֽל׃|hag·gāl|the mound|H1530|Art | N-ms
 v47 וַיִּקְרָא־|way·yiq·rā-|called it|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v47 ל֣וֹ|lōw|...|H0|Prep | 3ms
 v47 לָבָ֔ן|lā·ḇān|Laban|H3837|N-proper-ms
-v47 יְגַ֖ר|yə·ḡar|vvv|H3026|N-proper-fs
+v47 יְגַ֖ר|yə·ḡar|...|H3026|N-proper-fs
 v47 שָׂהֲדוּתָ֑א|śā·hă·ḏū·ṯā|Jegar-sahadutha|H3026|Conj-w | N-proper-ms
 v47 וְיַֽעֲקֹ֔ב|wə·ya·‘ă·qōḇ|and Jacob|H3290|V-Qal-Perf-3ms
 v47 קָ֥רָא|qā·rā|called it|H7121|Prep | 3ms

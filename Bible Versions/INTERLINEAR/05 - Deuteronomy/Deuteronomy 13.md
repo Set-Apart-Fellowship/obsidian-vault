@@ -94,7 +94,7 @@ v5 צִוְּךָ֛|ṣiw·wə·ḵā|has commanded you|H6680|V-Piel-Perf-3ms | 
 v5 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v5 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v5 לָלֶ֣כֶת|lā·le·ḵeṯ|to walk|H1980|Prep-l | V-Qal-Inf
-v5 בָּ֑הּ|bāh||H0|Prep | 3fs
+v5 בָּ֑הּ|bāh|-|H0|Prep | 3fs
 v5 וּבִֽעַרְתָּ֥|ū·ḇi·‘ar·tā|So you must purge|H1197|Conj-w | V-Piel-ConjPerf-2ms
 v5 הָרָ֖ע|hā·rā‘|the evil|H7451|Art | Adj-ms
 v5 מִקִּרְבֶּֽךָ׃|miq·qir·be·ḵā|from among you|H7130|Prep-m | N-msc | 2ms
@@ -190,7 +190,7 @@ v11 לַעֲשׂ֗וֹת|la·‘ă·śō·wṯ|do|H6213|Prep-l | V-Qal-Inf
 v11 כַּדָּבָ֥ר|kad·dā·ḇār|such|H1697|Prep-k, Art | N-ms
 v11 הָרָ֛ע|hā·rā‘|a wicked|H7451|Art | Adj-ms
 v11 הַזֶּ֖ה|haz·zeh|thing|H2088|Art | Pro-ms
-v11 בְּקִרְבֶּֽךָ׃ס|bə·qir·be·ḵā|among you|H7130|Prep-b | N-msc | 2ms
+v11 בְּקִרְבֶּֽךָ׃|bə·qir·be·ḵā|among you|H7130|Prep-b | N-msc | 2ms
 v12 כִּֽי־|kî-|If|H3588|Conj
 v12 תִשְׁמַ֞ע|ṯiš·ma‘|you hear|H8085|V-Qal-Imperf-2ms
 v12 בְּאַחַ֣ת|bə·’a·ḥaṯ|regarding one|H259|Prep-b | Number-fsc
@@ -238,14 +238,14 @@ v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 יֹֽשְׁבֵ֛י|yō·šə·ḇê|the inhabitants|H3427|V-Qal-Prtcpl-mpc
 v15 הָעִ֥יר|hā·‘îr|city|H5892|Art | N-fs
 v15 הַהוּא|ha·hū|of that|H1931|Art | Pro-3fs
-v15 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v15 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v15 חָ֑רֶב|ḥā·reḇ|to the sword|H2719|N-fs
 v15 הַחֲרֵ֨ם|ha·ḥă·rêm|Devote to destruction|H2763|V-Hifil-Imp-ms
 v15 אֹתָ֧הּ|’ō·ṯāh|-|H853|DirObjM | 3fs
 v15 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v15 כָּל־|kāl-|all [its people]|H3605|N-msc
 v15 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v15 בָּ֛הּ|bāh||H0|Prep | 3fs
+v15 בָּ֛הּ|bāh|-|H0|Prep | 3fs
 v15 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v15 בְּהֶמְתָּ֖הּ|bə·hem·tāh|and livestock|H929|N-fsc | 3fs
 v15 לְפִי־|lə·p̄î-|-|H6310|Prep-l | N-msc
@@ -309,4 +309,4 @@ v18 לַעֲשׂוֹת֙|la·‘ă·śō·wṯ|[and] doing|H6213|Prep-l | V-Qal
 v18 הַיָּשָׁ֔ר|hay·yā·šār|what is right|H3477|Art | Adj-ms
 v18 בְּעֵינֵ֖י|bə·‘ê·nê|in the eyes|H5869|Prep-b | N-cdc
 v18 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v18 אֱלֹהֶֽיךָ׃ס|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
+v18 אֱלֹהֶֽיךָ׃|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms

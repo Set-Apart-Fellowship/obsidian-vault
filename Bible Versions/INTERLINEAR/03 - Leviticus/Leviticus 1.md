@@ -124,7 +124,7 @@ v9 עֹלָ֛ה|‘ō·lāh|as a burnt offering|H5930|N-fs
 v9 אִשֵּׁ֥ה|’iš·šêh|a food offering|H801|N-msc
 v9 רֵֽיחַ־|rê·aḥ-|aroma|H7381|N-msc
 v9 נִיח֖וֹחַ|nî·ḥō·w·aḥ|a pleasing|H5207|N-ms
-v9 לַֽיהוָֽה׃ס|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v9 לַֽיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v10 וְאִם־|wə·’im-|If, however|H518|Conj
 v10 מִן־|min-|from|H4480|Prep
 v10 הַצֹּ֨אן|haṣ·ṣōn|the flock|H6629|Art | N-cs
@@ -188,7 +188,7 @@ v13 ה֗וּא|hū|it|H1931|Pro-3ms
 v13 אִשֵּׁ֛ה|’iš·šêh|a food offering|H801|N-msc
 v13 רֵ֥יחַ|rê·aḥ|aroma|H7381|N-msc
 v13 נִיחֹ֖חַ|nî·ḥō·aḥ|a pleasing|H5207|N-ms
-v13 לַיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v13 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v14 וְאִ֧ם|wə·’im|If, instead|H518|Conj
 v14 מִן־|min-|of|H4480|Prep
 v14 הָע֛וֹף|hā·‘ō·wp̄|birds|H5775|Art | N-ms
@@ -249,4 +249,4 @@ v17 ה֗וּא|hū|It|H1931|Pro-3ms
 v17 אִשֵּׁ֛ה|’iš·šêh|a food offering|H801|N-msc
 v17 רֵ֥יחַ|rê·aḥ|aroma|H7381|N-msc
 v17 נִיחֹ֖חַ|nî·ḥō·aḥ|a pleasing|H5207|N-ms
-v17 לַיהוָֽה׃ס|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v17 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms

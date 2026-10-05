@@ -143,7 +143,7 @@ v19 נַ֝עֲרֹ֗ךְ|na·‘ă·rōḵ|draw up our case|H6186|V-Qal-Imperf-
 v19 מִפְּנֵי־|mip·pə·nê-|because of|H6440|Prep-m | N-mpc
 v19 חֹֽשֶׁךְ׃|ḥō·šeḵ|our darkness|H2822|N-ms
 v20 הַֽיְסֻפַּר־|hay·sup·par-|Should He be told|H5608|V-Pual-Imperf-3ms
-v20 ל֭וֹ|lōw||H0|Prep | 3ms
+v20 ל֭וֹ|lōw|-|H0|Prep | 3ms
 v20 כִּ֣י|kî|that|H3588|Conj
 v20 אֲדַבֵּ֑ר|’ă·ḏab·bêr|I want to speak|H1696|V-Piel-Imperf-1cs
 v20 אִֽם־|’im-|...|H518|Conj
@@ -185,4 +185,4 @@ v24 לֹֽא־|lō-|for He is not|H3808|Adv-NegPrt
 v24 יִ֝רְאֶ֗ה|yir·’eh|partial|H7200|V-Qal-Imperf-3ms
 v24 כָּל־|kāl-|to the|H3605|N-msc
 v24 חַכְמֵי־|ḥaḵ·mê-|wise|H2450|Adj-mpc
-v24 לֵֽב׃פ|lêḇ|in heart|H3820|N-ms
+v24 לֵֽב׃|lêḇ|in heart|H3820|N-ms

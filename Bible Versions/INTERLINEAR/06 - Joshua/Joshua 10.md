@@ -1,6 +1,6 @@
 v1 וַיְהִי֩|way·hî|Now|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v1 כִשְׁמֹ֨עַ|ḵiš·mō·a‘|heard|H8085|Prep-k | V-Qal-Inf
-v1 אֲדֹֽנִי־|’ă·ḏō·nî-|vvv|H139|
+v1 אֲדֹֽנִי־|’ă·ḏō·nî-|...|H139|
 v1 צֶ֜דֶק|ṣe·ḏeq|Adoni-zedek|H139|N-proper-ms
 v1 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v1 יְרוּשָׁלִַ֗ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
@@ -44,7 +44,7 @@ v2 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v2 אֲנָשֶׁ֖יהָ|’ă·nā·še·hā|its men|H582|N-mpc | 3fs
 v2 גִּבֹּרִֽים׃|gib·bō·rîm|were mighty|H1368|Adj-mp
 v3 וַיִּשְׁלַ֨ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
-v3 אֲדֹנִי־|’ă·ḏō·nî-|vvv|H139|
+v3 אֲדֹנִי־|’ă·ḏō·nî-|...|H139|
 v3 צֶ֜דֶק|ṣe·ḏeq|Therefore Adoni-zedek|H139|N-proper-ms
 v3 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v3 יְרוּשָׁלִַ֗ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
@@ -115,7 +115,7 @@ v6 תֶּ֥רֶף|te·rep̄|abandon|H7503|V-Hifil-Imperf.Jus-2ms
 v6 יָדֶ֖יךָ|yā·ḏe·ḵā|...|H3027|N-fdc | 2ms
 v6 מֵֽעֲבָדֶ֑יךָ|mê·‘ă·ḇā·ḏe·ḵā|your servants|H5650|Prep-m | N-mpc | 2ms
 v6 עֲלֵ֧ה|‘ă·lêh|Come|H5927|V-Qal-Imp-ms
-v6 אֵלֵ֣ינוּ|’ê·lê·nū||H413|Prep | 1cp
+v6 אֵלֵ֣ינוּ|’ê·lê·nū|-|H413|Prep | 1cp
 v6 מְהֵרָ֗ה|mə·hê·rāh|quickly|H4120|Adv
 v6 וְהוֹשִׁ֤יעָה|wə·hō·wō·šî·‘āh|and save|H3467|Conj-w | V-Hifil-Imp-ms | 3fs
 v6 לָּ֙נוּ֙|lā·nū|us|H0|Prep | 1cp
@@ -139,7 +139,7 @@ v7 הַמִּלְחָמָה֙|ham·mil·ḥā·māh|army|H4421|Art | N-fs
 v7 עִמּ֔וֹ|‘im·mōw|...|H5973|Prep | 3ms
 v7 וְכֹ֖ל|wə·ḵōl|including all|H3605|Conj-w | N-msc
 v7 גִּבּוֹרֵ֥י|gib·bō·w·rê|the mighty men|H1368|Adj-mpc
-v7 הֶחָֽיִל׃פ|he·ḥā·yil|of valor|H2428|Art | N-ms
+v7 הֶחָֽיִל׃|he·ḥā·yil|of valor|H2428|Art | N-ms
 v8 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 יְהוָ֤ה|Yah·weh|The LORD|H3068|N-proper-ms
 v8 אֶל־|’el-|to|H413|Prep
@@ -175,7 +175,7 @@ v10 בְּגִבְע֑וֹן|bə·ḡiḇ·‘ō·wn|at Gibeon|H1391|Prep-b | N-
 v10 וַֽיִּרְדְּפֵ֗ם|way·yir·də·p̄êm|pursued them|H7291|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
 v10 דֶּ֚רֶךְ|de·reḵ|along|H1870|N-csc
 v10 מַעֲלֵ֣ה|ma·‘ă·lêh|the ascent|H4608|N-msc
-v10 בֵית־|ḇêṯ-|vvv|H1032|Prep
+v10 בֵית־|ḇêṯ-|...|H1032|Prep
 v10 חוֹרֹ֔ן|ḥō·w·rōn|to Beth-horon|H1032|N-proper-fs
 v10 וַיַּכֵּ֥ם|way·yak·kêm|and struck them down|H5221|Conj-w | V-Hifil-ConsecImperf-3ms | 3mp
 v10 עַד־|‘aḏ-|as|H5704|Prep
@@ -188,7 +188,7 @@ v11 מִפְּנֵ֣י|mip·pə·nê|before|H6440|Prep-m | N-cpc
 v11 יִשְׂרָאֵ֗ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v11 הֵ֞ם|hêm|...|H1992|Pro-3mp
 v11 בְּמוֹרַ֤ד|bə·mō·w·raḏ|along the descent|H4174|Prep-b | N-msc
-v11 בֵּית־|bêṯ-|vvv|H1032|Prep
+v11 בֵּית־|bêṯ-|...|H1032|Prep
 v11 חוֹרֹן֙|ḥō·w·rōn|from Beth-horon|H1032|N-proper-fs
 v11 וַֽיהוָ֡ה|Yah·weh|the LORD|H3068|Conj-w | N-proper-ms
 v11 הִשְׁלִ֣יךְ|hiš·lîḵ|cast down|H7993|V-Hifil-Perf-3ms
@@ -207,9 +207,9 @@ v11 בְּאַבְנֵ֣י|bə·’aḇ·nê|by|H68|Prep-b | N-fpc
 v11 הַבָּרָ֔ד|hab·bā·rāḏ|the hailstones|H1259|Art | N-ms
 v11 מֵאֲשֶׁ֥ר|mê·’ă·šer|than|H834|Prep-m | Pro-r
 v11 הָרְג֛וּ|hā·rə·ḡū|-|H2026|V-Qal-Perf-3cp
-v11 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v11 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v11 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
-v11 בֶּחָֽרֶב׃ס|be·ḥā·reḇ|by the swords|H2719|Prep-b, Art | N-fs
+v11 בֶּחָֽרֶב׃|be·ḥā·reḇ|by the swords|H2719|Prep-b, Art | N-fs
 v12 אָ֣ז|’āz|-|H227|Adv
 v12 יְדַבֵּ֤ר|yə·ḏab·bêr|spoke|H1696|V-Piel-Imperf-3ms
 v12 יְהוֹשֻׁעַ֙|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
@@ -267,7 +267,7 @@ v14 אִ֑ישׁ|’îš|of a man|H376|N-ms
 v14 כִּ֣י|kî|because|H3588|Conj
 v14 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v14 נִלְחָ֖ם|nil·ḥām|fought|H3898|V-Nifal-Prtcpl-ms
-v14 לְיִשְׂרָאֵֽל׃פ|lə·yiś·rā·’êl|for Israel|H3478|Prep-l | N-proper-ms
+v14 לְיִשְׂרָאֵֽל׃|lə·yiś·rā·’êl|for Israel|H3478|Prep-l | N-proper-ms
 v15 וַיָּ֤שָׁב|way·yā·šāḇ|returned|H7725|Conj-w | V-Qal-ConsecImperf-3ms
 v15 יְהוֹשֻׁ֙עַ֙|yə·hō·wō·šu·a‘|Then Joshua|H3091|N-proper-ms
 v15 וְכָל־|wə·ḵāl|with all|H3605|Conj-w | N-msc
@@ -351,7 +351,7 @@ v21 מַקֵּדָ֖ה|maq·qê·ḏāh|at Makkedah|H4719|N-proper-fs
 v21 בְּשָׁל֑וֹם|bə·šā·lō·wm|safely|H7965|Prep-b | N-ms
 v21 לֹֽא־|lō-|[and] no one|H3808|Adv-NegPrt
 v21 חָרַ֞ץ|ḥā·raṣ|dared to utter|H2782|V-Qal-Perf-3ms
-v21 לִבְנֵ֧י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v21 לִבְנֵ֧י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v21 יִשְׂרָאֵ֛ל|yiś·rā·’êl|the Israelites|H3478|N-proper-ms
 v21 לְאִ֖ישׁ|lə·’îš|against|H376|Prep-l | N-ms
 v21 אֶת־|’eṯ-|-|H853|DirObjM
@@ -411,7 +411,7 @@ v24 יִשְׂרָאֵ֗ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v24 וַ֠יֹּאמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v24 אֶל־|’el-|...|H413|Prep
 v24 קְצִינֵ֞י|qə·ṣî·nê|commanders|H7101|N-mpc
-v24 אַנְשֵׁ֤י|’an·šê|vvv|H582|N-mpc
+v24 אַנְשֵׁ֤י|’an·šê|...|H582|N-mpc
 v24 הַמִּלְחָמָה֙|ham·mil·ḥā·māh|the army|H4421|Art | N-fs
 v24 הֶהָלְכ֣וּא|he·hā·lə·ḵū|who had accompanied|H1980|Art | V-Qal-Perf-3cp
 v24 אִתּ֔וֹ|’it·tōw|him|H854|Prep | 3ms
@@ -487,7 +487,7 @@ v27 הַמְּעָרָ֔ה|ham·mə·‘ā·rāh|of the cave|H4631|Art | N-fs
 v27 עַד־|‘aḏ-|and the stones|H5704|Prep
 v27 עֶ֖צֶם|‘e·ṣem|...|H6106|N-fsc
 v27 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v27 הַזֶּֽה׃פ|haz·zeh|are there to this|H2088|Art | Pro-ms
+v27 הַזֶּֽה׃|haz·zeh|are there to this|H2088|Art | Pro-ms
 v28 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v28 מַקֵּדָה֩|maq·qê·ḏāh|Makkedah|H4719|N-proper-fs
 v28 לָכַ֨ד|lā·ḵaḏ|captured|H3920|V-Qal-Perf-3ms
@@ -500,8 +500,8 @@ v28 חֶרֶב֮|ḥe·reḇ|to the sword|H2719|N-fs
 v28 וְאֶת־|wə·’eṯ-|along with|H853|Conj-w | DirObjM
 v28 מַלְכָּהּ֒|mal·kāh|its king|H4428|N-msc | 3fs
 v28 הֶחֱרִ֣ם|he·ḥĕ·rim|He devoted to destruction|H2763|V-Hifil-Perf-3ms
-v28 אוֹתָ֗ם|’ō·w·ṯām|vvv|H853|DirObjM | 3mp
-v28 וְאֶת־|wə·’eṯ-|vvv|H853|Conj-w | DirObjM
+v28 אוֹתָ֗ם|’ō·w·ṯām|...|H853|DirObjM | 3mp
+v28 וְאֶת־|wə·’eṯ-|...|H853|Conj-w | DirObjM
 v28 כָּל־|kāl-|everyone|H3605|N-msc
 v28 הַנֶּ֙פֶשׁ֙|han·ne·p̄eš|...|H5315|Art | N-fs
 v28 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
@@ -540,18 +540,18 @@ v30 חֶ֗רֶב|ḥe·reḇ|to the sword|H2719|N-fs
 v30 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v30 כָּל־|kāl-|all|H3605|N-msc
 v30 הַנֶּ֙פֶשׁ֙|han·ne·p̄eš|the people|H5315|Art | N-fs
-v30 אֲשֶׁר־|’ă·šer-||H834|Pro-r
-v30 בָּ֔הּ|bāh||H0|Prep | 3fs
+v30 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
+v30 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v30 לֹֽא־|lō-|no|H3808|Adv-NegPrt
 v30 הִשְׁאִ֥יר|hiš·’îr|leaving|H7604|V-Hifil-Perf-3ms
-v30 בָּ֖הּ|bāh||H0|Prep | 3fs
+v30 בָּ֖הּ|bāh|-|H0|Prep | 3fs
 v30 שָׂרִ֑יד|śā·rîḏ|survivors|H8300|N-ms
 v30 וַיַּ֣עַשׂ|way·ya·‘aś|And he did|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v30 לְמַלְכָּ֔הּ|lə·mal·kāh|to the king [of Libnah]|H4428|Prep-l | N-msc | 3fs
 v30 כַּאֲשֶׁ֥ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v30 עָשָׂ֖ה|‘ā·śāh|he had done|H6213|V-Qal-Perf-3ms
 v30 לְמֶ֥לֶךְ|lə·me·leḵ|to the king|H4428|Prep-l | N-msc
-v30 יְרִיחֽוֹ׃ס|yə·rî·ḥōw|of Jericho|H3405|N-proper-fs
+v30 יְרִיחֽוֹ׃|yə·rî·ḥōw|of Jericho|H3405|N-proper-fs
 v31 וַיַּעֲבֹ֣ר|way·ya·‘ă·ḇōr|moved on|H5674|Conj-w | V-Qal-ConsecImperf-3ms
 v31 יְ֠הוֹשֻׁעַ|yə·hō·wō·šu·a‘|And Joshua|H3091|N-proper-ms
 v31 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
@@ -579,11 +579,11 @@ v32 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v32 כָּל־|kāl-|all|H3605|N-msc
 v32 הַנֶּ֖פֶשׁ|han·ne·p̄eš|the people|H5315|Art | N-fs
 v32 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v32 בָּ֑הּ|bāh||H0|Prep | 3fs
+v32 בָּ֑הּ|bāh|-|H0|Prep | 3fs
 v32 כְּכֹ֥ל|kə·ḵōl|just as|H3605|Prep-k | N-ms
 v32 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v32 עָשָׂ֖ה|‘ā·śāh|he had done|H6213|V-Qal-Perf-3ms
-v32 לְלִבְנָֽה׃פ|lə·liḇ·nāh|to Libnah|H3841|Prep-l | N-proper-fs
+v32 לְלִבְנָֽה׃|lə·liḇ·nāh|to Libnah|H3841|Prep-l | N-proper-fs
 v33 אָ֣ז|’āz|At that time|H227|Adv
 v33 עָלָ֗ה|‘ā·lāh|went|H5927|V-Qal-Perf-3ms
 v33 הֹרָם֙|hō·rām|Horam|H2036|N-proper-ms
@@ -599,7 +599,7 @@ v33 עַמּ֔וֹ|‘am·mōw|along with his people|H5971|N-msc | 3ms
 v33 עַד־|‘aḏ-|...|H5704|Prep
 v33 בִּלְתִּ֥י|bil·tî|no|H1115|Prep
 v33 הִשְׁאִֽיר־|hiš·’îr-|leaving|H7604|V-Hifil-Perf-3ms
-v33 ל֖וֹ|lōw||H0|Prep | 3ms
+v33 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v33 שָׂרִֽיד׃|śā·rîḏ|survivors|H8300|N-ms
 v34 וַיַּעֲבֹ֣ר|way·ya·‘ă·ḇōr|moved on|H5674|Conj-w | V-Qal-ConsecImperf-3ms
 v34 יְ֠הוֹשֻׁעַ|yə·hō·wō·šu·a‘|So Joshua|H3091|N-proper-ms
@@ -629,7 +629,7 @@ v35 הֶחֱרִ֑ים|he·ḥĕ·rîm|[Joshua] devoted to destruction|H2763|V-H
 v35 כְּכֹ֥ל|kə·ḵōl|just as|H3605|Prep-k | N-ms
 v35 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v35 עָשָׂ֖ה|‘ā·śāh|he had done|H6213|V-Qal-Perf-3ms
-v35 לְלָכִֽישׁ׃פ|lə·lā·ḵîš|to Lachish|H3923|Prep-l | N-proper-fs
+v35 לְלָכִֽישׁ׃|lə·lā·ḵîš|to Lachish|H3923|Prep-l | N-proper-fs
 v36 וַיַּ֣עַל|way·ya·‘al|went up|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v36 יְ֠הוֹשֻׁעַ|yə·hō·wō·šu·a‘|Then Joshua|H3091|N-proper-ms
 v36 וְכָֽל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
@@ -666,7 +666,7 @@ v37 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v37 כָּל־|kāl-|everyone|H3605|N-msc
 v37 הַנֶּ֖פֶשׁ|han·ne·p̄eš|...|H5315|Art | N-fs
 v37 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v37 בָּֽהּ׃ס|bāh|in it|H0|Prep | 3fs
+v37 בָּֽהּ׃|bāh|in it|H0|Prep | 3fs
 v38 וַיָּ֧שָׁב|way·yā·šāḇ|turned|H7725|Conj-w | V-Qal-ConsecImperf-3ms
 v38 יְהוֹשֻׁ֛עַ|yə·hō·wō·šu·a‘|Finally Joshua|H3091|N-proper-ms
 v38 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
@@ -693,7 +693,7 @@ v39 בָּ֔הּ|bāh|in [the city]|H0|Prep | 3fs
 v39 לֹ֥א|lō|no|H3808|Adv-NegPrt
 v39 הִשְׁאִ֖יר|hiš·’îr|leaving|H7604|V-Hifil-Perf-3ms
 v39 שָׂרִ֑יד|śā·rîḏ|survivors|H8300|N-ms
-v39 כַּאֲשֶׁ֨ר|ka·’ă·šer||H834|Prep-k | Pro-r
+v39 כַּאֲשֶׁ֨ר|ka·’ă·šer|-|H834|Prep-k | Pro-r
 v39 עָשָׂ֜ה|‘ā·śāh|[Joshua] did to|H6213|V-Qal-Perf-3ms
 v39 לְחֶבְר֗וֹן|lə·ḥeḇ·rō·wn|to Hebron|H2275|Prep-l | N-proper-fs
 v39 כֵּן־|kên-|and as|H3651|Adv
@@ -763,4 +763,4 @@ v43 יִשְׂרָאֵ֣ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v43 עִמּ֔וֹ|‘im·mōw|with|H5973|Prep | 3ms
 v43 אֶל־|’el-|to|H413|Prep
 v43 הַֽמַּחֲנֶ֖ה|ham·ma·ḥă·neh|the camp|H4264|Art | N-cs
-v43 הַגִּלְגָּֽלָה׃פ|hag·gil·gā·lāh|at Gilgal|H1537|Art | N-proper-fs | 3fs
+v43 הַגִּלְגָּֽלָה׃|hag·gil·gā·lāh|at Gilgal|H1537|Art | N-proper-fs | 3fs

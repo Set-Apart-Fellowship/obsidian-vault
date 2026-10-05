@@ -12,7 +12,7 @@ v2 יוֹסֵ֣ף|yō·w·sêp̄|Joseph|H3130|N-proper-ms
 v2 וּבִנְיָמִ֔ן|ū·ḇin·yā·min|Benjamin|H1144|Conj-w | N-proper-ms
 v2 נַפְתָּלִ֖י|nap̄·tā·lî|Naphtali|H5321|N-proper-ms
 v2 גָּ֥ד|gāḏ|Gad|H1410|N-proper-ms
-v2 וְאָשֵֽׁר׃ס|wə·’ā·šêr|and Asher|H836|Conj-w | N-proper-ms
+v2 וְאָשֵֽׁר׃|wə·’ā·šêr|and Asher|H836|Conj-w | N-proper-ms
 v3 בְּנֵ֣י|bə·nê|The sons|H1121|N-mpc
 v3 יְהוּדָ֗ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v3 עֵ֤ר|‘êr|Er|H6147|N-proper-ms
@@ -31,7 +31,7 @@ v3 יְהוּדָ֗ה|yə·hū·ḏāh|Judah's|H3063|N-proper-ms
 v3 רַ֛ע|ra‘|wicked|H7451|Adj-ms
 v3 בְּעֵינֵ֥י|bə·‘ê·nê|in the sight|H5869|Prep-b | N-cdc
 v3 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v3 וַיְמִיתֵֽהוּ׃ס|way·mî·ṯê·hū|So [the LORD] put him to death|H4191|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
+v3 וַיְמִיתֵֽהוּ׃|way·mî·ṯê·hū|So [the LORD] put him to death|H4191|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
 v4 וְתָמָר֙|wə·ṯā·mār|Tamar|H8559|Conj-w | N-proper-fs
 v4 כַּלָּת֔וֹ|kal·lā·ṯōw|Judah's daughter-in-law|H3618|N-fsc | 3ms
 v4 יָ֥לְדָה|yā·lə·ḏāh|bore|H3205|V-Qal-Perf-3fs
@@ -43,11 +43,11 @@ v4 זָ֑רַח|zā·raḥ|and Zerah|H2226|N-proper-ms
 v4 כָּל־|kāl-|in all|H3605|N-msc
 v4 בְּנֵ֥י|bə·nê|sons|H1121|N-mpc
 v4 יְהוּדָ֖ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
-v4 חֲמִשָּֽׁה׃ס|ḥă·miš·šāh|had five|H2568|Number-ms
+v4 חֲמִשָּֽׁה׃|ḥă·miš·šāh|had five|H2568|Number-ms
 v5 בְּנֵי־|bə·nê-|The sons|H1121|N-mpc
 v5 פֶ֖רֶץ|p̄e·reṣ|of Perez|H6557|N-proper-ms
 v5 חֶצְר֥וֹן|ḥeṣ·rō·wn|Hezron|H2696|N-proper-ms
-v5 וְחָמֽוּל׃ס|wə·ḥā·mūl|and Hamul|H2538|Conj-w | N-proper-ms
+v5 וְחָמֽוּל׃|wə·ḥā·mūl|and Hamul|H2538|Conj-w | N-proper-ms
 v6 וּבְנֵ֣י|ū·ḇə·nê|The sons|H1121|Conj-w | N-mpc
 v6 זֶ֗רַח|ze·raḥ|of Zerah|H2226|N-proper-ms
 v6 זִ֠מְרִי|zim·rî|Zimri|H2174|N-proper-ms
@@ -56,7 +56,7 @@ v6 וְהֵימָ֛ן|wə·hê·mān|Heman|H1968|Conj-w | N-proper-ms
 v6 וְכַלְכֹּ֥ל|wə·ḵal·kōl|Calcol|H3633|Conj-w | N-proper-ms
 v6 וָדָ֖רַע|wā·ḏā·ra‘|and Dara|H1873|Conj-w | N-proper-ms
 v6 כֻּלָּ֥ם|kul·lām|in all|H3605|N-msc | 3mp
-v6 חֲמִשָּֽׁה׃ס|ḥă·miš·šāh|five|H2568|Number-ms
+v6 חֲמִשָּֽׁה׃|ḥă·miš·šāh|five|H2568|Number-ms
 v7 וּבְנֵ֖י|ū·ḇə·nê|The son|H1121|Conj-w | N-mpc
 v7 כַּרְמִ֑י|kar·mî|of Carmi|H3756|N-proper-ms
 v7 עָכָר֙|‘ā·ḵār|Achar|H5917|N-proper-ms
@@ -64,7 +64,7 @@ v7 עוֹכֵ֣ר|‘ō·w·ḵêr|who brought trouble|H5916|V-Qal-Prtcpl-ms
 v7 יִשְׂרָאֵ֔ל|yiś·rā·’êl|upon Israel|H3478|N-proper-ms
 v7 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v7 מָעַ֖ל|mā·‘al|by violating|H4603|V-Qal-Perf-3ms
-v7 בַּחֵֽרֶם׃ס|ba·ḥê·rem|the ban on devoted things|H2764|Prep-b, Art | N-ms
+v7 בַּחֵֽרֶם׃|ba·ḥê·rem|the ban on devoted things|H2764|Prep-b, Art | N-ms
 v8 וּבְנֵ֥י|ū·ḇə·nê|The son|H1121|Conj-w | N-mpc
 v8 אֵיתָ֖ן|’ê·ṯān|of Ethan|H387|N-proper-ms
 v8 עֲזַרְיָֽה׃|‘ă·zar·yāh|Azariah|H5838|N-proper-ms
@@ -72,7 +72,7 @@ v9 וּבְנֵ֥י|ū·ḇə·nê|The sons|H1121|Conj-w | N-mpc
 v9 חֶצְר֖וֹן|ḥeṣ·rō·wn|to Hezron|H2696|N-proper-ms
 v9 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
 v9 נוֹלַד־|nō·w·laḏ-|were born|H3205|V-Nifal-Perf-3ms
-v9 ל֑וֹ|lōw||H0|Prep | 3ms
+v9 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 יְרַחְמְאֵ֥ל|yə·raḥ·mə·’êl|Jerahmeel|H3396|N-proper-ms
 v9 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -131,7 +131,7 @@ v16 וּבְנֵ֣י|ū·ḇə·nê|sons|H1121|Conj-w | N-mpc
 v16 צְרוּיָ֗ה|ṣə·rū·yāh|of Zeruiah [were]|H6870|N-proper-ms
 v16 אַבְשַׁ֛י|’aḇ·šay|Abishai|H52|N-proper-ms
 v16 וְיוֹאָ֥ב|wə·yō·w·’āḇ|Joab|H3097|Conj-w | N-proper-ms
-v16 וַעֲשָׂה־|wa·‘ă·śāh-|vvv|H6214|
+v16 וַעֲשָׂה־|wa·‘ă·śāh-|...|H6214|
 v16 אֵ֖ל|’êl|and Asahel|H6214|Conj-w | N-proper-ms
 v16 שְׁלֹשָֽׁה׃|šə·lō·šāh|And the three|H7969|Number-ms
 v17 וַאֲבִיגַ֕יִל|wa·’ă·ḇî·ḡa·yil|Abigail|H26|Conj-w | N-proper-fs
@@ -174,7 +174,7 @@ v20 אוּרִ֔י|’ū·rî|Uri|H221|N-proper-ms
 v20 וְאוּרִ֖י|wə·’ū·rî|and Uri|H221|Conj-w | N-proper-ms
 v20 הוֹלִ֥יד|hō·w·lîḏ|was the father of|H3205|V-Hifil-Perf-3ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
-v20 בְּצַלְאֵֽל׃ס|bə·ṣal·’êl|Bezalel|H1212|N-proper-ms
+v20 בְּצַלְאֵֽל׃|bə·ṣal·’êl|Bezalel|H1212|N-proper-ms
 v21 וְאַחַ֗ר|wə·’a·ḥar|Later|H310|Conj-w | Adv
 v21 בָּ֤א|bā|slept with|H935|V-Qal-Perf-3ms
 v21 חֶצְרוֹן֙|ḥeṣ·rō·wn|Hezron|H2696|N-proper-ms
@@ -198,7 +198,7 @@ v22 הוֹלִ֣יד|hō·w·lîḏ|was the father of|H3205|V-Hifil-Perf-3ms
 v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 יָאִ֑יר|yā·’îr|Jair|H2971|N-proper-ms
 v22 וַֽיְהִי־|way·hî-|who had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v22 ל֗וֹ|lōw||H0|Prep | 3ms
+v22 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v22 עֶשְׂרִ֤ים|‘eś·rîm|twenty-three|H6242|Number-cp
 v22 וְשָׁלוֹשׁ֙|wə·šā·lō·wōš|...|H7969|Conj-w | Number-fs
 v22 עָרִ֔ים|‘ā·rîm|cities|H5892|N-fp
@@ -208,7 +208,7 @@ v23 וַיִּקַּ֣ח|way·yiq·qaḥ|captured|H3947|Conj-w | V-Qal-ConsecImp
 v23 גְּשֽׁוּר־|gə·šūr-|But Geshur|H1650|N-proper-fs
 v23 וַ֠אֲרָם|wa·’ă·rām|and Aram|H758|Conj-w | N-proper-fs
 v23 אֶת־|’eṯ-|-|H853|Prep
-v23 חַוֺּ֨ת|ḥaw·wōṯ|vvv|H2334|N-fpc
+v23 חַוֺּ֨ת|ḥaw·wōṯ|...|H2334|N-fpc
 v23 יָאִ֧יר|yā·’îr|Havvoth-jair|H2334|N-proper-ms
 v23 מֵאִתָּ֛ם|mê·’it·tām|-|H854|Prep-m | DirObjM | 3mp
 v23 אֶת־|’eṯ-|along with|H853|Prep
@@ -226,7 +226,7 @@ v23 גִלְעָֽד׃|ḡil·‘āḏ|of Gilead|H1568|N-proper-fs
 v24 וְאַחַ֥ר|wə·’a·ḥar|After|H310|Conj-w | Adv
 v24 מוֹת־|mō·wṯ-|died|H4194|N-msc
 v24 חֶצְר֖וֹן|ḥeṣ·rō·wn|Hezron|H2696|N-proper-ms
-v24 בְּכָלֵ֣ב|bə·ḵā·lêḇ|vvv|H3613|Prep
+v24 בְּכָלֵ֣ב|bə·ḵā·lêḇ|...|H3613|Prep
 v24 אֶפְרָ֑תָה|’ep̄·rā·ṯāh|in Caleb-ephrathah|H3613|Prep | N-proper-fs
 v24 וְאֵ֤שֶׁת|wə·’ê·šeṯ|wife|H802|Conj-w | N-fsc
 v24 חֶצְרוֹן֙|ḥeṣ·rō·wn|his|H2696|N-proper-ms
@@ -256,7 +256,7 @@ v26 וּשְׁמָ֣הּ|ū·šə·māh|named|H8034|Conj-w | N-msc | 3fs
 v26 עֲטָרָ֑ה|‘ă·ṭā·rāh|Atarah|H5851|N-proper-fs
 v26 הִ֖יא|hî|who|H1931|Pro-3fs
 v26 אֵ֥ם|’êm|was the mother|H517|N-fsc
-v26 אוֹנָֽם׃ס|’ō·w·nām|of Onam|H208|N-proper-ms
+v26 אוֹנָֽם׃|’ō·w·nām|of Onam|H208|N-proper-ms
 v27 וַיִּהְי֥וּ|way·yih·yū|-|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v27 בְנֵי־|ḇə·nê-|The sons|H1121|N-mpc
 v27 רָ֖ם|rām|of Ram|H7410|N-proper-ms
@@ -291,7 +291,7 @@ v30 וְאַפָּ֑יִם|wə·’ap·pā·yim|and Appaim|H649|Conj-w | N-prope
 v30 וַיָּ֥מָת|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v30 סֶ֖לֶד|se·leḏ|Seled|H5540|N-proper-ms
 v30 לֹ֥א|lō|without|H3808|Adv-NegPrt
-v30 בָנִֽים׃ס|ḇā·nîm|children|H1121|N-mp
+v30 בָנִֽים׃|ḇā·nîm|children|H1121|N-mp
 v31 וּבְנֵ֥י|ū·ḇə·nê|The son|H1121|Conj-w | N-mpc
 v31 אַפַּ֖יִם|’ap·pa·yim|of Appaim|H649|N-proper-ms
 v31 יִשְׁעִ֑י|yiš·‘î|Ishi|H3469|N-proper-ms
@@ -310,7 +310,7 @@ v32 וְיוֹנָתָ֑ן|wə·yō·w·nā·ṯān|and Jonathan|H3129|Conj-w | 
 v32 וַיָּ֥מָת|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v32 יֶ֖תֶר|ye·ṯer|Jether|H3500|N-proper-ms
 v32 לֹ֥א|lō|without|H3808|Adv-NegPrt
-v32 בָנִֽים׃ס|ḇā·nîm|children|H1121|N-mp
+v32 בָנִֽים׃|ḇā·nîm|children|H1121|N-mp
 v33 וּבְנֵ֥י|ū·ḇə·nê|The sons|H1121|Conj-w | N-mpc
 v33 יוֹנָתָ֖ן|yō·w·nā·ṯān|of Jonathan|H3129|N-proper-ms
 v33 פֶּ֣לֶת|pe·leṯ|Peleth|H6431|N-proper-ms
@@ -424,7 +424,7 @@ v45 שַׁמַּ֖י|šam·may|of Shammai|H8060|N-proper-ms
 v45 מָע֑וֹן|mā·‘ō·wn|was Maon|H4584|N-proper-ms
 v45 וּמָע֖וֹן|ū·mā·‘ō·wn|and Maon|H4584|Conj-w | N-proper-ms
 v45 אֲבִ֥י|’ă·ḇî|was the father of|H1|N-msc
-v45 בֵֽית־|ḇêṯ-|vvv|H1049|Prep
+v45 בֵֽית־|ḇêṯ-|...|H1049|Prep
 v45 צֽוּר׃|ṣūr|Beth-zur|H1049|N-proper-ms
 v46 וְעֵיפָה֙|wə·‘ê·p̄āh|Ephah|H5891|Conj-w | N-proper-fs
 v46 פִּילֶ֣גֶשׁ|pî·le·ḡeš|concubine|H6370|N-fsc
@@ -439,7 +439,7 @@ v46 גָּזֵ֑ז|gā·zêz|and Gazez|H1495|N-proper-ms
 v46 וְחָרָ֖ן|wə·ḥā·rān|Haran|H2771|Conj-w | N-proper-ms
 v46 הֹלִ֥יד|hō·lîḏ|was the father of|H3205|V-Hifil-Perf-3ms
 v46 אֶת־|’eṯ-|-|H853|DirObjM
-v46 גָּזֵֽז׃ס|gā·zêz|Gazez|H1495|N-proper-ms
+v46 גָּזֵֽז׃|gā·zêz|Gazez|H1495|N-proper-ms
 v47 וּבְנֵ֖י|ū·ḇə·nê|The sons|H1121|Conj-w | N-mpc
 v47 יָהְדָּ֑י|yā·hə·dāy|of Jahdai|H3056|N-proper-ms
 v47 רֶ֧גֶם|re·ḡem|Regem|H7276|N-proper-ms
@@ -467,7 +467,7 @@ v49 וַאֲבִ֣י|wa·’ă·ḇî|...|H1|Conj-w | N-msc
 v49 גִבְעָ֑א|ḡiḇ·‘ā|and Gibea|H1388|N-proper-ms
 v49 וּבַת־|ū·ḇaṯ-|daughter|H1323|Conj-w | N-fsc
 v49 כָּלֵ֖ב|kā·lêḇ|Caleb's|H3612|N-proper-ms
-v49 עַכְסָֽה׃ס|‘aḵ·sāh|was Acsah|H5915|N-proper-fs
+v49 עַכְסָֽה׃|‘aḵ·sāh|was Acsah|H5915|N-proper-fs
 v50 אֵ֤לֶּה|’êl·leh|These|H428|Pro-cp
 v50 הָיוּ֙|hā·yū|were|H1961|V-Qal-Perf-3cp
 v50 בְּנֵ֣י|bə·nê|the descendants|H1121|N-mpc
@@ -478,27 +478,27 @@ v50 בְּכ֣וֹר|bə·ḵō·wr|the firstborn|H1060|N-msc
 v50 אֶפְרָ֑תָה|’ep̄·rā·ṯāh|of Ephrathah|H672|N-proper-fs
 v50 שׁוֹבָ֕ל|šō·w·ḇāl|Shobal|H7732|N-proper-ms
 v50 אֲבִ֖י|’ă·ḇî|the father|H1|N-msc
-v50 קִרְיַ֥ת|qir·yaṯ|vvv|H7157|
+v50 קִרְיַ֥ת|qir·yaṯ|...|H7157|
 v50 יְעָרִֽים׃|yə·‘ā·rîm|of Kiriath-jearim|H7157|N-proper-fs
 v51 שַׂלְמָא֙|śal·mā|Salma|H8007|N-proper-ms
 v51 אֲבִ֣י|’ă·ḇî|the father of|H1|N-msc
-v51 בֵֽית־|ḇêṯ-|vvv|H1035|Prep
+v51 בֵֽית־|ḇêṯ-|...|H1035|Prep
 v51 לָ֔חֶם|lā·ḥem|Bethlehem|H1035|N-proper-fs
 v51 חָרֵ֖ף|ḥā·rêp̄|and Hareph|H2780|N-proper-ms
 v51 אֲבִ֥י|’ă·ḇî|the father|H1|N-msc
-v51 בֵית־|ḇêṯ-|vvv|H1013|Prep
+v51 בֵית־|ḇêṯ-|...|H1013|Prep
 v51 גָּדֵֽר׃|gā·ḏêr|of Beth-gader|H1013|N-proper-fs
 v52 וַיִּהְי֤וּ|way·yih·yū|These were|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v52 בָנִים֙|ḇā·nîm|the descendants|H1121|N-mp
 v52 לְשׁוֹבָ֔ל|lə·šō·w·ḇāl|of Shobal|H7732|Prep-l | N-proper-ms
 v52 אֲבִ֖י|’ă·ḇî|the father|H1|N-msc
-v52 קִרְיַ֣ת|qir·yaṯ|vvv|H7157|
+v52 קִרְיַ֣ת|qir·yaṯ|...|H7157|
 v52 יְעָרִ֑ים|yə·‘ā·rîm|of Kiriath-jearim|H7157|N-proper-fs
 v52 הָרֹאֶ֖ה|hā·rō·’eh|Haroeh|H7204|Art | N-ms
 v52 חֲצִ֥י|ḥă·ṣî|half|H2677|N-msc
 v52 הַמְּנֻחֽוֹת׃|ham·mə·nu·ḥō·wṯ|the Manahathites|H4506|Art | N-proper-ms
 v53 וּמִשְׁפְּחוֹת֙|ū·miš·pə·ḥō·wṯ|and the clans|H4940|Conj-w | N-fpc
-v53 קִרְיַ֣ת|qir·yaṯ|vvv|H7157|
+v53 קִרְיַ֣ת|qir·yaṯ|...|H7157|
 v53 יְעָרִ֔ים|yə·‘ā·rîm|of Kiriath-jearim|H7157|N-proper-fs
 v53 הַיִּתְרִי֙|hay·yiṯ·rî|the Ithrites|H3505|Art | N-proper-ms
 v53 וְהַפּוּתִ֔י|wə·hap·pū·ṯî|Puthites|H6336|Conj-w, Art | N-proper-ms
@@ -507,14 +507,14 @@ v53 וְהַמִּשְׁרָעִ֑י|wə·ham·miš·rā·‘î|and Mishraites|H
 v53 מֵאֵ֗לֶּה|mê·’êl·leh|From these|H428|Prep-m | Pro-cp
 v53 יָצְאוּ֙|yā·ṣə·’ū|descended|H3318|V-Qal-Perf-3cp
 v53 הַצָּ֣רְעָתִ֔י|haṣ·ṣā·rə·‘ā·ṯî|the Zorathites|H6882|Art | N-proper-ms
-v53 וְהָאֶשְׁתָּ֖אֻֽלִֽי׃ס|wə·hā·’eš·tā·’u·lî|and Eshtaolites|H848|Conj-w, Art | N-proper-ms
+v53 וְהָאֶשְׁתָּ֖אֻֽלִֽי׃|wə·hā·’eš·tā·’u·lî|and Eshtaolites|H848|Conj-w, Art | N-proper-ms
 v54 בְּנֵ֣י|bə·nê|The descendants|H1121|N-mpc
 v54 שַׂלְמָ֗א|śal·mā|of Salma|H8007|N-proper-ms
-v54 בֵּ֥ית|bêṯ|vvv|H1035|Prep
+v54 בֵּ֥ית|bêṯ|...|H1035|Prep
 v54 לֶ֙חֶם֙|le·ḥem|Bethlehem|H1035|N-proper-fs
 v54 וּנְט֣וֹפָתִ֔י|ū·nə·ṭō·w·p̄ā·ṯî|the Netophathites|H5200|Conj-w | N-proper-ms
-v54 עַטְר֖וֹת|‘aṭ·rō·wṯ|vvv|H5854|
-v54 בֵּ֣ית|bêṯ|vvv|H5854|Prep
+v54 עַטְר֖וֹת|‘aṭ·rō·wṯ|...|H5854|
+v54 בֵּ֣ית|bêṯ|...|H5854|Prep
 v54 יוֹאָ֑ב|yō·w·’āḇ|Atroth-beth-joab|H5854|N-proper-fs
 v54 וַחֲצִ֥י|wa·ḥă·ṣî|half|H2677|Conj-w | N-msc
 v54 הַמָּנַחְתִּ֖י|ham·mā·naḥ·tî|the Manahathites|H4506|Art | N-proper-ms
@@ -532,4 +532,4 @@ v55 הַבָּאִ֔ים|hab·bā·’îm|who came|H935|Art | V-Qal-Prtcpl-mp
 v55 מֵחַמַּ֖ת|mê·ḥam·maṯ|from Hammath|H2575|Prep-m | N-proper-ms
 v55 אֲבִ֥י|’ă·ḇî|the father|H1|N-msc
 v55 בֵית־|ḇêṯ-|of the house|H1004|N-msc
-v55 רֵכָֽב׃ס|rê·ḵāḇ|of Rechab|H7394|N-proper-ms
+v55 רֵכָֽב׃|rê·ḵāḇ|of Rechab|H7394|N-proper-ms

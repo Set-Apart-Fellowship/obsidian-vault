@@ -121,7 +121,7 @@ v7 ζωὴν|zōēn|life|G2222|N-AFS
 v7 αἰώνιον|aiōnion|[He will give] eternal|G166|Adj-AFS
 v8 τοῖς|tois|for those who|G3588|Art-DMP
 v8 δὲ|de|But|G1161|Conj
-v8 ἐξ|ex|vvv|G1537|Prep
+v8 ἐξ|ex|...|G1537|Prep
 v8 ἐριθείας|eritheias|[are] self-seeking|G2052|N-GFS
 v8 καὶ|kai|and|G2532|Conj
 v8 ἀπειθοῦσι|apeithousi|who reject|G544|V-PPA-DMP
@@ -178,7 +178,7 @@ v12 γὰρ|gar|-|G1063|Conj
 v12 ἀνόμως|anomōs|apart from the law|G460|Adv
 v12 ἥμαρτον|hēmarton|sin|G264|V-AIA-3P
 v12 ἀνόμως|anomōs|apart from the law|G460|Adv
-v12 καὶ|kai|vvv|G2532|Conj
+v12 καὶ|kai|...|G2532|Conj
 v12 ἀπολοῦνται|apolountai|will also perish|G622|V-FIM-3P
 v12 καὶ|kai|and|G2532|Conj
 v12 ὅσοι|hosoi|all who|G3745|RelPro-NMP
@@ -206,7 +206,7 @@ v14 Ὅταν|Hotan|when|G3752|Conj
 v14 γὰρ|gar|Indeed|G1063|Conj
 v14 ἔθνη|ethnē|Gentiles|G1484|N-NNP
 v14 τὰ|ta|who|G3588|Art-NNP
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 νόμον|nomon|[the] law|G3551|N-AMS
 v14 ἔχοντα|echonta|do not have|G2192|V-PPA-NNP
 v14 φύσει|physei|by nature|G5449|N-DFS
@@ -216,7 +216,7 @@ v14 νόμου|nomou|law [requires]|G3551|N-GMS
 v14 ποιῶσιν|poiōsin|do|G4160|V-PSA-3P
 v14 οὗτοι|houtoi|[even though] they|G3778|DPro-NMP
 v14 νόμον|nomon|[the] law|G3551|N-AMS
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 ἔχοντες|echontes|do not have|G2192|V-PPA-NMP
 v14 ἑαυτοῖς|heautois|to themselves|G1438|RefPro-DM3P
 v14 εἰσιν|eisin|they are|G1510|V-PIA-3P
@@ -317,7 +317,7 @@ v21 οὖν|oun|{you,} then|G3767|Conj
 v21 διδάσκων|didaskōn|teach|G1321|V-PPA-VMS
 v21 ἕτερον|heteron|others|G2087|Adj-AMS
 v21 σεαυτὸν|seauton|yourself|G4572|PPro-AM2S
-v21 οὐ|ou|vvv|G3756|Adv
+v21 οὐ|ou|...|G3756|Adv
 v21 διδάσκεις|didaskeis|do you not teach|G1321|V-PIA-2S
 v21 ὁ|ho|You who|G3588|Art-VMS
 v21 κηρύσσων|kēryssōn|preach|G2784|V-PPA-VMS
@@ -349,7 +349,7 @@ v23 ἀτιμάζεις|atimazeis|do you dishonor|G818|V-PIA-2S
 v24 τὸ|to|-|G3588|Art-NNS
 v24 γὰρ|gar|-|G1063|Conj
 v24 Ὄνομα|Onoma|name|G3686|N-NNS
-v24 τοῦ|tou|vvv|G3588|Art-GMS
+v24 τοῦ|tou|...|G3588|Art-GMS
 v24 Θεοῦ|Theou|God's|G2316|N-GMS
 v24 δι’|di’|because of|G1223|Prep
 v24 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -395,7 +395,7 @@ v26 λογισθήσεται|logisthēsetai|be regarded|G3049|V-FIP-3S
 v27 καὶ|kai|-|G2532|Conj
 v27 κρινεῖ|krinei|will condemn|G2919|V-FIA-3S
 v27 ἡ|hē|The [one who is]|G3588|Art-NFS
-v27 ἐκ|ek|vvv|G1537|Prep
+v27 ἐκ|ek|...|G1537|Prep
 v27 φύσεως|physeōs|physically|G5449|N-GFS
 v27 ἀκροβυστία|akrobystia|uncircumcised|G203|N-NFS
 v27 τὸν|ton|the|G3588|Art-AMS
@@ -419,8 +419,8 @@ v28 Ἰουδαῖός|Ioudaios|a Jew|G2453|Adj-NMS
 v28 ἐστιν|estin|is|G1510|V-PIA-3S
 v28 οὐδὲ|oude|nor|G3761|Conj
 v28 ἡ|hē|-|G3588|Art-NFS
-v28 ἐν|en|vvv|G1722|Prep
-v28 τῷ|tō|vvv|G3588|Art-DNS
+v28 ἐν|en|...|G1722|Prep
+v28 τῷ|tō|...|G3588|Art-DNS
 v28 φανερῷ|phanerō|[ only ] outward|G5318|Adj-DNS
 v28 ἐν|en|[and]|G1722|Prep
 v28 σαρκὶ|sarki|physical|G4561|N-DFS

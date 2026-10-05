@@ -60,7 +60,7 @@ v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 כָּל־|kāl-|whole|H3605|N-msc
 v3 הַקָּהָ֥ל|haq·qā·hāl|assembly|H6951|Art | N-ms
 v3 הַזֶּ֖ה|haz·zeh|this|H2088|Art | Pro-ms
-v3 בָּרָעָֽב׃ס|bā·rā·‘āḇ|to starve|H7458|Prep-b, Art | N-ms
+v3 בָּרָעָֽב׃|bā·rā·‘āḇ|to starve|H7458|Prep-b, Art | N-ms
 v4 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v4 אֶל־|’el-|to|H413|Prep
@@ -96,7 +96,7 @@ v5 עַ֥ל|‘al|as|H5921|Prep
 v5 אֲשֶֽׁר־|’ă·šer-|much|H834|Pro-r
 v5 יִלְקְט֖וּ|yil·qə·ṭū|as they gather|H3950|V-Qal-Imperf-3mp
 v5 י֥וֹם׀|yō·wm|on the other days|H3117|N-ms
-v5 יֽוֹם׃ס|yō·wm|...|H3117|N-ms
+v5 יֽוֹם׃|yō·wm|...|H3117|N-ms
 v6 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 מֹשֶׁה֙|mō·šeh|So Moses|H4872|N-proper-ms
 v6 וְאַהֲרֹ֔ן|wə·’a·hă·rōn|and Aaron|H175|Conj-w | N-proper-ms
@@ -186,7 +186,7 @@ v10 וְהִנֵּה֙|wə·hin·nêh|and there|H2009|Conj-w | Interjection
 v10 כְּב֣וֹד|kə·ḇō·wḏ|the glory|H3519|N-msc
 v10 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v10 נִרְאָ֖ה|nir·’āh|appeared|H7200|V-Nifal-Perf-3ms
-v10 בֶּעָנָֽן׃פ|be·‘ā·nān|in a cloud|H6051|Prep-b, Art | N-ms
+v10 בֶּעָנָֽן׃|be·‘ā·nān|in a cloud|H6051|Prep-b, Art | N-ms
 v11 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v11 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v11 אֶל־|’el-|to|H413|Prep
@@ -195,7 +195,7 @@ v11 לֵּאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v12 שָׁמַ֗עְתִּי|šā·ma‘·tî|I have heard|H8085|V-Qal-Perf-1cs
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 תְּלוּנֹּת֮|tə·lūn·nōṯ|the grumbling|H8519|N-fpc
-v12 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v12 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v12 יִשְׂרָאֵל֒|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v12 דַּבֵּ֨ר|dab·bêr|Tell them|H1696|V-Piel-Imp-ms
 v12 אֲלֵהֶ֜ם|’ă·lê·hem|...|H413|Prep | 3mp
@@ -212,7 +212,7 @@ v12 כִּ֛י|kî|that|H3588|Conj
 v12 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v12 יְהוָ֖ה|Yah·weh|am the LORD|H3068|N-proper-ms
 v12 אֱלֹהֵיכֶֽם׃|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
-v13 וַיְהִ֣י|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v13 וַיְהִ֣י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v13 בָעֶ֔רֶב|ḇā·‘e·reḇ|That evening|H6153|Prep-b, Art | N-ms
 v13 וַתַּ֣עַל|wat·ta·‘al|came|H5927|Conj-w | V-Qal-ConsecImperf-3fs
 v13 הַשְּׂלָ֔ו|haś·śə·lāw|quail|H7958|Art | N-fs
@@ -371,7 +371,7 @@ v23 וְאֵת֙|wə·’êṯ|-|H853|Conj-w | DirObjM
 v23 כָּל־|kāl-|whatever|H3605|N-msc
 v23 הָ֣עֹדֵ֔ף|hā·‘ō·ḏêp̄|remains|H5736|Art | V-Qal-Prtcpl-ms
 v23 הַנִּ֧יחוּ|han·nî·ḥū|Then set aside|H5117|V-Hifil-Imp-mp
-v23 לָכֶ֛ם|lā·ḵem||H0|Prep | 2mp
+v23 לָכֶ֛ם|lā·ḵem|-|H0|Prep | 2mp
 v23 לְמִשְׁמֶ֖רֶת|lə·miš·me·reṯ|and keep it|H4931|Prep-l | N-fs
 v23 עַד־|‘aḏ-|until|H5704|Prep
 v23 הַבֹּֽקֶר׃|hab·bō·qer|morning|H1242|Art | N-ms
@@ -417,7 +417,7 @@ v27 מִן־|min-|some of|H4480|Prep
 v27 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
 v27 לִלְקֹ֑ט|lil·qōṭ|to gather|H3950|Prep-l | V-Qal-Inf
 v27 וְלֹ֖א|wə·lō|but they did not|H3808|Conj-w | Adv-NegPrt
-v27 מָצָֽאוּ׃ס|mā·ṣā·’ū|find anything|H4672|V-Qal-Perf-3cp
+v27 מָצָֽאוּ׃|mā·ṣā·’ū|find anything|H4672|V-Qal-Perf-3cp
 v28 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v28 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v28 אֶל־|’el-|to|H413|Prep
@@ -540,9 +540,9 @@ v35 עַד־|‘aḏ-|until|H5704|Prep
 v35 בֹּאָ֕ם|bō·’ām|they reached|H935|V-Qal-Inf | 3mp
 v35 אֶל־|’el-|...|H413|Prep
 v35 קְצֵ֖ה|qə·ṣêh|the border|H7097|N-msc
-v35 אֶ֥רֶץ|’e·reṣ|vvv|H776|N-fsc
+v35 אֶ֥רֶץ|’e·reṣ|...|H776|N-fsc
 v35 כְּנָֽעַן׃|kə·nā·‘an|of Canaan|H3667|N-proper-ms
 v36 וְהָעֹ֕מֶר|wə·hā·‘ō·mer|(Now an omer|H6016|Conj-w, Art | N-ms
 v36 עֲשִׂרִ֥ית|‘ă·śi·rîṯ|is a tenth|H6224|Number-ofsc
 v36 הָאֵיפָ֖ה|hā·’ê·p̄āh|of an ephah|H374|Art | N-fs
-v36 הֽוּא׃פ|hū|...|H1931|Pro-3ms
+v36 הֽוּא׃|hū|...|H1931|Pro-3ms

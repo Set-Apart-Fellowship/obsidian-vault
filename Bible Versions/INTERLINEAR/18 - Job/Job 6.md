@@ -155,7 +155,7 @@ v21 וַתִּירָֽאוּ׃|wat·tî·rā·’ū|and you are afraid|H3372|Con
 v22 הֲ|hăḵî-|Have I ever|H3588|Conj
 v22 אָ֭מַרְתִּי|’ā·mar·tî|said|H559|V-Qal-Perf-1cs
 v22 הָ֣בוּ|hā·ḇū|Give me something|H3051|V-Qal-Imp-mp
-v22 לִ֑י|lî||H0|Prep | 1cs
+v22 לִ֑י|lî|-|H0|Prep | 1cs
 v22 וּ֝מִכֹּחֲכֶ֗ם|ū·mik·kō·ḥă·ḵem|from your wealth|H3581|Conj-w, Prep-m | N-msc | 2mp
 v22 שִׁחֲד֥וּ|ši·ḥă·ḏū|offer me a bribe|H7809|V-Qal-Imp-mp
 v22 בַעֲדִֽי׃|ḇa·‘ă·ḏî|...|H1157|Prep | 1cs
@@ -171,7 +171,7 @@ v24 אַחֲרִ֑ישׁ|’a·ḥă·rîš|will be silent|H2790|V-Hifil-Imperf
 v24 וּמַה־|ū·ma·hō·šā-|how|H4100|Conj-w | Interrog
 v24 שָּׁ֝גִ֗יתִי|šā·g̲î·t̲î|I have erred|H7686|V-Qal-Perf-1cs
 v24 הָבִ֥ינוּ|hā·ḇî·nū|Help me understand|H995|V-Hifil-Imp-mp
-v24 לִֽי׃|lî||H0|Prep | 1cs
+v24 לִֽי׃|lî|-|H0|Prep | 1cs
 v25 מַה־|mah-|How|H4100|Interrog
 v25 נִּמְרְצ֥וּ|nim·rə·ṣū|painful|H4834|V-Nifal-Perf-3cp
 v25 אִמְרֵי־|’im·rê-|words|H561|N-mpc

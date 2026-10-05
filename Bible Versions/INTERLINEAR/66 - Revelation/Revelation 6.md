@@ -118,7 +118,7 @@ v6 καὶ|kai|And|G2532|Conj
 v6 ἤκουσα|ēkousa|I heard|G191|V-AIA-1S
 v6 ὡς|hōs|[ what sounded ] like|G5613|Adv
 v6 φωνὴν|phōnēn|a voice|G5456|N-AFS
-v6 ἐν|en|vvv|G1722|Prep
+v6 ἐν|en|...|G1722|Prep
 v6 μέσῳ|mesō|from among|G3319|Adj-DNS
 v6 τῶν|tōn|the|G3588|Art-GNP
 v6 τεσσάρων|tessarōn|four|G5064|Adj-GNP
@@ -138,7 +138,7 @@ v6 ἔλαιον|elaion|oil|G1637|N-ANS
 v6 καὶ|kai|and|G2532|Conj
 v6 τὸν|ton|-|G3588|Art-AMS
 v6 οἶνον|oinon|wine|G3631|N-AMS
-v6 μὴ|mē|vvv|G3361|Adv
+v6 μὴ|mē|...|G3361|Adv
 v6 ἀδικήσῃς|adikēsēs|do not harm|G91|V-ASA-2S
 v7 Καὶ|Kai|And|G2532|Conj
 v7 ὅτε|hote|when|G3753|Adv
@@ -227,7 +227,7 @@ v9 εἶχον|eichon|they had upheld|G2192|V-IIA-3P
 v10 καὶ|kai|And|G2532|Conj
 v10 ἔκραξαν|ekraxan|they cried out|G2896|V-AIA-3P
 v10 φωνῇ|phōnē|in a loud voice|G5456|N-DFS
-v10 μεγάλῃ|megalē|vvv|G3173|Adj-DFS
+v10 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v10 λέγοντες|legontes|-|G3004|V-PPA-NMP
 v10 Ἕως|Heōs|until|G2193|Prep
 v10 πότε|pote|How long|G4219|Conj
@@ -282,7 +282,7 @@ v11 καὶ|kai|[had been killed]|G2532|Conj
 v11 αὐτοί|autoi|they|G846|PPro-NM3P
 v12 Καὶ|Kai|And|G2532|Conj
 v12 εἶδον|eidon|I watched as|G3708|V-AIA-1S
-v12 ὅτε|hote|vvv|G3753|Adv
+v12 ὅτε|hote|...|G3753|Adv
 v12 ἤνοιξεν|ēnoixen|[the Lamb] opened|G455|V-AIA-3S
 v12 τὴν|tēn|the|G3588|Art-AFS
 v12 σφραγῖδα|sphragida|seal|G4973|N-AFS

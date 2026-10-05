@@ -145,7 +145,7 @@ v9 וּלְזַרְעָ֑ם|ū·lə·zar·‘ām|and their descendants|H2233|Con
 v9 אֶ֛רֶץ|’e·reṣ|a land|H776|N-fs
 v9 זָבַ֥ת|zā·ḇaṯ|flowing|H2100|V-Qal-Prtcpl-fsc
 v9 חָלָ֖ב|ḥā·lāḇ|with milk|H2461|N-ms
-v9 וּדְבָֽשׁ׃ס|ū·ḏə·ḇāš|and honey|H1706|Conj-w | N-ms
+v9 וּדְבָֽשׁ׃|ū·ḏə·ḇāš|and honey|H1706|Conj-w | N-ms
 v10 כִּ֣י|kî|For|H3588|Conj
 v10 הָאָ֗רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v10 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
@@ -196,7 +196,7 @@ v12 מֵֽרֵשִׁית֙|mê·rê·šîṯ|from the beginning|H7225|Prep-m | N
 v12 הַשָּׁנָ֔ה|haš·šā·nāh|of the year|H8141|Art | N-fs
 v12 וְעַ֖ד|wə·‘aḏ|to|H5704|Conj-w | Prep
 v12 אַחֲרִ֥ית|’a·ḥă·rîṯ|the end|H319|N-fsc
-v12 שָׁנָֽה׃ס|šā·nāh|...|H8141|N-fs
+v12 שָׁנָֽה׃|šā·nāh|...|H8141|N-fs
 v13 וְהָיָ֗ה|wə·hā·yāh|So|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v13 אִם־|’im-|if|H518|Conj
 v13 שָׁמֹ֤עַ|šā·mō·a‘|you carefully obey|H8085|V-Qal-InfAbs
@@ -234,7 +234,7 @@ v15 לִבְהֶמְתֶּ֑ךָ|liḇ·hem·te·ḵā|for your livestock|H929|P
 v15 וְאָכַלְתָּ֖|wə·’ā·ḵal·tā|and you will eat|H398|Conj-w | V-Qal-ConjPerf-2ms
 v15 וְשָׂבָֽעְתָּ׃|wə·śā·ḇā·‘ə·tā|and be satisfied|H7646|Conj-w | V-Qal-ConjPerf-2ms
 v16 הִשָּֽׁמְר֣וּ|hiš·šā·mə·rū|But be careful|H8104|V-Nifal-Imp-mp
-v16 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v16 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v16 פֶּ֥ן|pen|that you are not|H6435|Conj
 v16 יִפְתֶּ֖ה|yip̄·teh|enticed|H6601|V-Qal-Imperf-3ms
 v16 לְבַבְכֶ֑ם|lə·ḇaḇ·ḵem|...|H3824|N-msc | 2mp
@@ -243,7 +243,7 @@ v16 וַעֲבַדְתֶּם֙|wa·‘ă·ḇaḏ·tem|to worship|H5647|Conj-w 
 v16 אֱלֹהִ֣ים|’ĕ·lō·hîm|gods|H430|N-mp
 v16 אֲחֵרִ֔ים|’ă·ḥê·rîm|to other|H312|Adj-mp
 v16 וְהִשְׁתַּחֲוִיתֶ֖ם|wə·hiš·ta·ḥă·wî·ṯem|and bow down|H7812|Conj-w | V-Hitpael-ConjPerf-2mp
-v16 לָהֶֽם׃|lā·hem||H0|Prep | 3mp
+v16 לָהֶֽם׃|lā·hem|-|H0|Prep | 3mp
 v17 וְחָרָ֨ה|wə·ḥā·rāh|will be kindled|H2734|Conj-w | V-Qal-ConjPerf-3ms
 v17 אַף־|’ap̄-|or the anger|H639|N-msc
 v17 יְהוָ֜ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -314,11 +314,11 @@ v21 נִשְׁבַּ֧ע|niš·ba‘|swore|H7650|V-Nifal-Perf-3ms
 v21 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v21 לַאֲבֹתֵיכֶ֖ם|la·’ă·ḇō·ṯê·ḵem|your fathers|H1|Prep-l | N-mpc | 2mp
 v21 לָתֵ֣ת|lā·ṯêṯ|to give|H5414|Prep-l | V-Qal-Inf
-v21 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v21 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v21 כִּימֵ֥י|kî·mê|as long as|H3117|Prep-k | N-mpc
 v21 הַשָּׁמַ֖יִם|haš·šā·ma·yim|the heavens|H8064|Art | N-mp
 v21 עַל־|‘al-|are above|H5921|Prep
-v21 הָאָֽרֶץ׃ס|hā·’ā·reṣ|the earth|H776|Art | N-fs
+v21 הָאָֽרֶץ׃|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v22 כִּי֩|kî|For|H3588|Conj
 v22 אִם־|’im-|if|H518|Conj
 v22 שָׁמֹ֨ר|šā·mōr|you carefully keep|H8104|V-Qal-InfAbs
@@ -359,8 +359,8 @@ v24 אֲשֶׁ֨ר|’ă·šer|where|H834|Pro-r
 v24 תִּדְרֹ֧ךְ|tiḏ·rōḵ|treads|H1869|V-Qal-Imperf-3fs
 v24 כַּֽף־|kap̄-|the sole|H3709|N-fsc
 v24 רַגְלְכֶ֛ם|raḡ·lə·ḵem|of your foot|H7272|N-fsc | 2mp
-v24 בּ֖וֹ|bōw||H0|Prep | 3ms
-v24 לָכֶ֣ם|lā·ḵem||H0|Prep | 2mp
+v24 בּ֖וֹ|bōw|-|H0|Prep | 3ms
+v24 לָכֶ֣ם|lā·ḵem|-|H0|Prep | 2mp
 v24 יִהְיֶ֑ה|yih·yeh|will be yours|H1961|V-Qal-Imperf-3ms
 v24 מִן־|min-|from|H4480|Prep
 v24 הַמִּדְבָּ֨ר|ham·miḏ·bār|the wilderness|H4057|Art | N-ms
@@ -389,10 +389,10 @@ v25 כָל־|ḵāl|all|H3605|N-msc
 v25 הָאָ֙רֶץ֙|hā·’ā·reṣ|the land|H776|Art | N-fs
 v25 אֲשֶׁ֣ר|’ă·šer|wherever|H834|Pro-r
 v25 תִּדְרְכוּ־|tiḏ·rə·ḵū-|you set foot|H1869|V-Qal-Imperf-2mp
-v25 בָ֔הּ|ḇāh||H0|Prep | 3fs
+v25 בָ֔הּ|ḇāh|-|H0|Prep | 3fs
 v25 כַּאֲשֶׁ֖ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v25 דִּבֶּ֥ר|dib·ber|He has promised|H1696|V-Piel-Perf-3ms
-v25 לָכֶֽם׃ס|lā·ḵem|you|H0|Prep | 2mp
+v25 לָכֶֽם׃|lā·ḵem|you|H0|Prep | 2mp
 v26 רְאֵ֗ה|rə·’êh|See|H7200|V-Qal-Imp-ms
 v26 אָנֹכִ֛י|’ā·nō·ḵî|I|H595|Pro-1cs
 v26 נֹתֵ֥ן|nō·ṯên|am setting|H5414|V-Qal-Prtcpl-ms
@@ -415,7 +415,7 @@ v27 אֶתְכֶ֖ם|’eṯ·ḵem|-|H853|DirObjM | 2mp
 v27 הַיּֽוֹם׃|hay·yō·wm|-|H3117|Art | N-ms
 v28 וְהַקְּלָלָ֗ה|wə·haq·qə·lā·lāh|but a curse|H7045|Conj-w, Art | N-fs
 v28 אִם־|’im-|if|H518|Conj
-v28 לֹ֤א|lō|vvv|H3808|Adv-NegPrt
+v28 לֹ֤א|lō|...|H3808|Adv-NegPrt
 v28 תִשְׁמְעוּ֙|ṯiš·mə·‘ū|you disobey|H8085|V-Qal-Imperf-2mp
 v28 אֶל־|’el-|...|H413|Prep
 v28 מִצְוֺת֙|miṣ·wōṯ|the commandments|H4687|N-fpc
@@ -435,7 +435,7 @@ v28 אֱלֹהִ֥ים|’ĕ·lō·hîm|gods|H430|N-mp
 v28 אֲחֵרִ֖ים|’ă·ḥê·rîm|other|H312|Adj-mp
 v28 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v28 לֹֽא־|lō-|which you have not|H3808|Adv-NegPrt
-v28 יְדַעְתֶּֽם׃ס|yə·ḏa‘·tem|known|H3045|V-Qal-Perf-2mp
+v28 יְדַעְתֶּֽם׃|yə·ḏa‘·tem|known|H3045|V-Qal-Perf-2mp
 v29 וְהָיָ֗ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v29 כִּ֤י|kî|When|H3588|Conj
 v29 יְבִֽיאֲךָ֙|yə·ḇî·’ă·ḵā|brings|H935|V-Hifil-Imperf-3ms | 2ms

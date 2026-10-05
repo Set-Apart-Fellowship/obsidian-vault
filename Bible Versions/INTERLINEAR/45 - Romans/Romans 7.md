@@ -109,8 +109,8 @@ v5 ἐν|en|in|G1722|Prep
 v5 τοῖς|tois|-|G3588|Art-DNP
 v5 μέλεσιν|melesin|bodies|G3196|N-DNP
 v5 ἡμῶν|hēmōn|our|G1473|PPro-G1P
-v5 εἰς|eis|vvv|G1519|Prep
-v5 τὸ|to|vvv|G3588|Art-ANS
+v5 εἰς|eis|...|G1519|Prep
+v5 τὸ|to|...|G3588|Art-ANS
 v5 καρποφορῆσαι|karpophorēsai|bearing fruit|G2592|V-ANA
 v5 τῷ|tō|-|G3588|Art-DMS
 v5 θανάτῳ|thanatō|for death|G2288|N-DMS
@@ -140,29 +140,29 @@ v7 ἐροῦμεν|eroumen|shall we say|G2046|V-FIA-1P
 v7 ὁ|ho|[Is] the|G3588|Art-NMS
 v7 νόμος|nomos|law|G3551|N-NMS
 v7 ἁμαρτία|hamartia|sin|G266|N-NFS
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 γένοιτο|genoito|Certainly not|G1096|V-AOM-3S
 v7 ἀλλὰ|alla|Indeed|G235|Conj
 v7 τὴν|tēn|-|G3588|Art-AFS
 v7 ἁμαρτίαν|hamartian|sin|G266|N-AFS
-v7 οὐκ|ouk|vvv|G3756|Adv
+v7 οὐκ|ouk|...|G3756|Adv
 v7 ἔγνων|egnōn|I would not have been mindful of|G1097|V-AIA-1S
 v7 εἰ|ei|if|G1487|Conj
 v7 μὴ|mē|not|G3361|Adv
 v7 διὰ|dia|for|G1223|Prep
 v7 νόμου|nomou|the law|G3551|N-GMS
 v7 τήν|tēn|-|G3588|Art-AFS
-v7 τε|te|vvv|G5037|Conj
+v7 τε|te|...|G5037|Conj
 v7 γὰρ|gar|For|G1063|Conj
 v7 ἐπιθυμίαν|epithymian|coveting|G1939|N-AFS
-v7 οὐκ|ouk|vvv|G3756|Adv
+v7 οὐκ|ouk|...|G3756|Adv
 v7 ᾔδειν|ēdein|I would not have been aware of|G1492|V-LIA-1S
 v7 εἰ|ei|if|G1487|Conj
 v7 μὴ|mē|{had} not|G3361|Adv
 v7 ὁ|ho|the|G3588|Art-NMS
 v7 νόμος|nomos|law|G3551|N-NMS
 v7 ἔλεγεν|elegen|said|G2036|V-IIA-3S
-v7 Οὐκ|Ouk|vvv|G3756|Adv
+v7 Οὐκ|Ouk|...|G3756|Adv
 v7 ἐπιθυμήσεις|epithymēseis|Do not covet|G1937|V-FIA-2S
 v8 ἀφορμὴν|aphormēn|[its] opportunity|G874|N-AFS
 v8 δὲ|de|But|G1161|Conj
@@ -242,7 +242,7 @@ v13 ἀγαθὸν|agathon|[is] good|G18|Adj-NNS
 v13 ἐμοὶ|emoi|to me|G1473|PPro-D1S
 v13 ἐγένετο|egeneto|become|G1096|V-AIM-3S
 v13 θάνατος|thanatos|death|G2288|N-NMS
-v13 μὴ|mē|vvv|G3361|Adv
+v13 μὴ|mē|...|G3361|Adv
 v13 γένοιτο|genoito|Certainly not|G1096|V-AOM-3S
 v13 ἀλλὰ|alla|But|G235|Conj
 v13 ἡ|hē|-|G3588|Art-NFS
@@ -258,7 +258,7 @@ v13 κατεργαζομένη|katergazomenē|it produced|G2716|V-PPM/P-NFS
 v13 θάνατον|thanaton|death|G2288|N-AMS
 v13 ἵνα|hina|so that|G2443|Conj
 v13 γένηται|genētai|might become|G1096|V-ASM-3S
-v13 καθ’|kath’|vvv|G2596|Prep
+v13 καθ’|kath’|...|G2596|Prep
 v13 ὑπερβολὴν|hyperbolēn|utterly|G5236|N-AFS
 v13 ἁμαρτωλὸς|hamartōlos|sinful|G268|Adj-NFS
 v13 ἡ|hē|-|G3588|Art-NFS
@@ -284,9 +284,9 @@ v14 ἁμαρτίαν|hamartian|sin|G266|N-AFS
 v15 ὃ|ho|what|G3739|RelPro-ANS
 v15 γὰρ|gar|-|G1063|Conj
 v15 κατεργάζομαι|katergazomai|I do|G2716|V-PIM/P-1S
-v15 οὐ|ou|vvv|G3756|Adv
+v15 οὐ|ou|...|G3756|Adv
 v15 γινώσκω|ginōskō|I do not understand|G1097|V-PIA-1S
-v15 οὐ|ou|vvv|G3756|Adv
+v15 οὐ|ou|...|G3756|Adv
 v15 γὰρ|gar|For|G1063|Conj
 v15 ὃ|ho|what|G3739|RelPro-ANS
 v15 θέλω|thelō|I want [to do]|G2309|V-PIA-1S
@@ -300,7 +300,7 @@ v15 ποιῶ|poiō|I do|G4160|V-PIA-1S
 v16 εἰ|ei|if|G1487|Conj
 v16 δὲ|de|And|G1161|Conj
 v16 ὃ|ho|what|G3739|RelPro-ANS
-v16 οὐ|ou|vvv|G3756|Adv
+v16 οὐ|ou|...|G3756|Adv
 v16 θέλω|thelō|I do not want [to do]|G2309|V-PIA-1S
 v16 τοῦτο|touto|-|G3778|DPro-ANS
 v16 ποιῶ|poiō|I do|G4160|V-PIA-1S
@@ -346,7 +346,7 @@ v18 κατεργάζεσθαι|katergazesthai|to do|G2716|V-PNM/P
 v18 τὸ|to|what is|G3588|Art-ANS
 v18 καλὸν|kalon|good|G2570|Adj-ANS
 v18 οὔ|ou|[I] cannot [carry it out]|G3756|Adv
-v19 οὐ|ou|vvv|G3756|Adv
+v19 οὐ|ou|...|G3756|Adv
 v19 γὰρ|gar|For|G1063|Conj
 v19 ὃ|ho|-|G3739|RelPro-ANS
 v19 θέλω|thelō|I want [to do]|G2309|V-PIA-1S
@@ -354,7 +354,7 @@ v19 ποιῶ|poiō|I do not do|G4160|V-PIA-1S
 v19 ἀγαθόν|agathon|[the] good|G18|Adj-ANS
 v19 ἀλλὰ|alla|Instead|G235|Conj
 v19 ὃ|ho|-|G3739|RelPro-ANS
-v19 οὐ|ou|vvv|G3756|Adv
+v19 οὐ|ou|...|G3756|Adv
 v19 θέλω|thelō|I do not want [to do]|G2309|V-PIA-1S
 v19 κακὸν|kakon|[the] evil|G2556|Adj-ANS
 v19 τοῦτο|touto|-|G3778|DPro-ANS
@@ -362,7 +362,7 @@ v19 πράσσω|prassō|I keep on doing|G4238|V-PIA-1S
 v20 εἰ|ei|if|G1487|Conj
 v20 δὲ|de|And|G1161|Conj
 v20 ὃ|ho|what|G3739|RelPro-ANS
-v20 οὐ|ou|vvv|G3756|Adv
+v20 οὐ|ou|...|G3756|Adv
 v20 θέλω|thelō|I do not want|G2309|V-PIA-1S
 v20 ἐγὼ|egō|I|G1473|PPro-N1S
 v20 τοῦτο|touto|-|G3778|DPro-ANS
@@ -418,7 +418,7 @@ v23 νοός|noos|mind|G3563|N-GMS
 v23 μου|mou|of my|G1473|PPro-G1S
 v23 καὶ|kai|and|G2532|Conj
 v23 αἰχμαλωτίζοντά|aichmalōtizonta|holding me captive|G163|V-PPA-AMS
-v23 με|me|vvv|G1473|PPro-A1S
+v23 με|me|...|G1473|PPro-A1S
 v23 ἐν|en|to|G1722|Prep
 v23 τῷ|tō|the|G3588|Art-DMS
 v23 νόμῳ|nomō|law|G3551|N-DMS
@@ -427,9 +427,9 @@ v23 ἁμαρτίας|hamartias|of sin|G266|N-GFS
 v23 τῷ|tō|-|G3588|Art-DMS
 v23 ὄντι|onti|that dwells|G1510|V-PPA-DMS
 v23 ἐν|en|within|G1722|Prep
-v23 τοῖς|tois|vvv|G3588|Art-DNP
+v23 τοῖς|tois|...|G3588|Art-DNP
 v23 μέλεσίν|melesin|[me]|G3196|N-DNP
-v23 μου|mou|vvv|G1473|PPro-G1S
+v23 μου|mou|...|G1473|PPro-G1S
 v24 Ταλαίπωρος|Talaipōros|[What a] wretched|G5005|Adj-NMS
 v24 ἐγὼ|egō|I am|G1473|PPro-N1S
 v24 ἄνθρωπος|anthrōpos|man|G444|N-NMS

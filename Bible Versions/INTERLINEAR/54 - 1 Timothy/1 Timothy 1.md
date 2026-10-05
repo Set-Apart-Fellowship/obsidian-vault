@@ -110,7 +110,7 @@ v9 τοῦτο|touto|-|G3778|DPro-ANS
 v9 ὅτι|hoti|that|G3754|Conj
 v9 δικαίῳ|dikaiō|for [the] righteous|G1342|Adj-DMS
 v9 νόμος|nomos|law|G3551|N-NMS
-v9 οὐ|ou|vvv|G3756|Adv
+v9 οὐ|ou|...|G3756|Adv
 v9 κεῖται|keitai|is not enacted|G2749|V-PIM/P-3S
 v9 ἀνόμοις|anomois|for [the] lawless|G459|Adj-DMP
 v9 δὲ|de|but|G1161|Conj
@@ -244,7 +244,7 @@ v16 αἰώνιον|aiōnion|eternal|G166|Adj-AFS
 v17 Τῷ|Tō|to|G3588|Art-DMS
 v17 δὲ|de|Now|G1161|Conj
 v17 Βασιλεῖ|Basilei|[the] King|G935|N-DMS
-v17 τῶν|tōn|vvv|G3588|Art-GMP
+v17 τῶν|tōn|...|G3588|Art-GMP
 v17 αἰώνων|aiōnōn|eternal|G165|N-GMP
 v17 ἀφθάρτῳ|aphthartō|immortal|G862|Adj-DMS
 v17 ἀοράτῳ|aoratō|[and] invisible|G517|Adj-DMS
@@ -253,8 +253,8 @@ v17 Θεῷ|Theō|God|G2316|N-DMS
 v17 τιμὴ|timē|[be] honor|G5092|N-NFS
 v17 καὶ|kai|and|G2532|Conj
 v17 δόξα|doxa|glory|G1391|N-NFS
-v17 εἰς|eis|vvv|G1519|Prep
-v17 τοὺς|tous|vvv|G3588|Art-AMP
+v17 εἰς|eis|...|G1519|Prep
+v17 τοὺς|tous|...|G3588|Art-AMP
 v17 αἰῶνας|aiōnas|forever|G165|N-AMP
 v17 τῶν|tōn|[and]|G3588|Art-GMP
 v17 αἰώνων|aiōnōn|ever|G165|N-GMP

@@ -106,7 +106,7 @@ v9 ὁ|ho|who|G3588|Art-NMS
 v9 φιλοπρωτεύων|philoprōteuōn|loves to be first|G5383|V-PPA-NMS
 v9 αὐτῶν|autōn|...|G846|PPro-GM3P
 v9 Διοτρεφὴς|Diotrephēs|Diotrephes|G1361|N-NMS
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἐπιδέχεται|epidechetai|will not accept|G1926|V-PIM/P-3S
 v9 ἡμᾶς|hēmas|our [instruction]|G1473|PPro-A1P
 v10 διὰ|dia|So|G1223|Prep
@@ -124,12 +124,12 @@ v10 πονηροῖς|ponērois|malicious|G4190|Adj-DMP
 v10 φλυαρῶν|phlyarōn|slander|G5396|V-PPA-NMS
 v10 ἡμᾶς|hēmas|[against] us|G1473|PPro-A1P
 v10 καὶ|kai|And|G2532|Conj
-v10 μὴ|mē|vvv|G3361|Adv
+v10 μὴ|mē|...|G3361|Adv
 v10 ἀρκούμενος|arkoumenos|unsatisfied|G714|V-PPM/P-NMS
 v10 ἐπὶ|epi|with|G1909|Prep
 v10 τούτοις|toutois|that|G3778|DPro-DNP
-v10 οὔτε|oute|vvv|G3777|Conj
-v10 αὐτὸς|autos|vvv|G846|PPro-NM3S
+v10 οὔτε|oute|...|G3777|Conj
+v10 αὐτὸς|autos|...|G846|PPro-NM3S
 v10 ἐπιδέχεται|epidechetai|he refuses to welcome|G1926|V-PIM/P-3S
 v10 τοὺς|tous|the|G3588|Art-AMP
 v10 ἀδελφοὺς|adelphous|brothers|G80|N-AMP
@@ -158,7 +158,7 @@ v11 Θεοῦ|Theou|God|G2316|N-GMS
 v11 ἐστιν|estin|is|G1510|V-PIA-3S
 v11 ὁ|ho|the [one who]|G3588|Art-NMS
 v11 κακοποιῶν|kakopoiōn|does evil|G2554|V-PPA-NMS
-v11 οὐχ|ouch|vvv|G3756|Adv
+v11 οὐχ|ouch|...|G3756|Adv
 v11 ἑώρακεν|heōraken|has not seen|G3708|V-RIA-3S
 v11 τὸν|ton|-|G3588|Art-AMS
 v11 Θεόν|Theon|God|G2316|N-AMS

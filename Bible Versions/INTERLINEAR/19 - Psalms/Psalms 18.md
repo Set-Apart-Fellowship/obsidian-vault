@@ -29,7 +29,7 @@ v2 וּמְפַ֫לְטִ֥י|ū·mə·p̄al·ṭî|and my deliverer|H6403|Conj-
 v2 אֵלִ֣י|’ê·lî|My God [is]|H410|N-msc | 1cs
 v2 צ֭וּרִי|ṣū·rî|my rock|H6697|N-msc | 1cs
 v2 אֶֽחֱסֶה־|’e·ḥĕ·seh-|in whom I take refuge|H2620|V-Qal-Imperf-1cs
-v2 בּ֑וֹ|bōw||H0|Prep | 3ms
+v2 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v2 מָֽגִנִּ֥י|mā·ḡin·nî|my shield|H4043|N-csc | 1cs
 v2 וְקֶֽרֶן־|wə·qe·ren-|and the horn|H7161|Conj-w | N-fsc
 v2 יִ֝שְׁעִ֗י|yiš·‘î|of my salvation|H3468|N-msc | 1cs
@@ -75,7 +75,7 @@ v7 יִרְגָּ֑זוּ|yir·gā·zū|trembled|H7264|V-Qal-Imperf-3mp
 v7 וַ֝יִּתְגָּֽעֲשׁ֗וּ|way·yiṯ·gā·‘ă·šū|they were shaken|H1607|Conj-w | V-Hitpael-ConsecImperf-3mp
 v7 כִּי־|kî-|because|H3588|Conj
 v7 חָ֥רָה|ḥā·rāh|He burned with anger|H2734|V-Qal-Perf-3ms
-v7 לֽוֹ׃|lōw||H0|Prep | 3ms
+v7 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v8 עָ֘לָ֤ה|‘ā·lāh|rose|H5927|V-Qal-Perf-3ms
 v8 עָשָׁ֨ן׀|‘ā·šān|Smoke|H6227|N-ms
 v8 בְּאַפּ֗וֹ|bə·’ap·pōw|from His nostrils|H639|Prep-b | N-msc | 3ms
@@ -160,7 +160,7 @@ v18 אֵידִ֑י|’ê·ḏî|of calamity|H343|N-msc | 1cs
 v18 וַֽיְהִי־|way·hî-|was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v18 יְהוָ֖ה|Yah·weh|but the LORD|H3068|N-proper-ms
 v18 לְמִשְׁעָ֣ן|lə·miš·‘ān|my support|H4937|Prep-l | N-ms
-v18 לִֽי׃|lî||H0|Prep | 1cs
+v18 לִֽי׃|lî|-|H0|Prep | 1cs
 v19 וַיּוֹצִיאֵ֥נִי|way·yō·w·ṣî·’ê·nî|He brought me out|H3318|Conj-w | V-Hifil-ConsecImperf-3ms | 1cs
 v19 לַמֶּרְחָ֑ב|lam·mer·ḥāḇ|into the open|H4800|Prep-l, Art | N-ms
 v19 יְ֝חַלְּצֵ֗נִי|yə·ḥal·lə·ṣê·nî|He rescued me|H2502|V-Piel-Imperf-3ms | 1cs
@@ -173,7 +173,7 @@ v20 כְּצִדְקִ֑י|kə·ṣiḏ·qî|according to my righteousness|H6664
 v20 כְּבֹ֥ר|kə·ḇōr|according to the cleanness|H1252|Prep-k | N-msc
 v20 יָ֝דַ֗י|yā·ḏay|of my hands|H3027|N-fdc | 1cs
 v20 יָשִׁ֥יב|yā·šîḇ|He has repaid me|H7725|V-Hifil-Imperf-3ms
-v20 לִֽי׃|lî||H0|Prep | 1cs
+v20 לִֽי׃|lî|-|H0|Prep | 1cs
 v21 כִּֽי־|kî·šā-|For|H3588|Conj
 v21 שָׁ֭מַרְתִּי|šā·mar·tî|I have kept|H8104|V-Qal-Perf-1cs
 v21 דַּרְכֵ֣י|dar·ḵê|the ways|H1870|N-cpc

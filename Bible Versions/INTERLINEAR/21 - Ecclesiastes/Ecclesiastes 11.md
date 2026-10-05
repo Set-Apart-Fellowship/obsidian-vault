@@ -61,7 +61,7 @@ v5 תֵדַע֙|ṯê·ḏa‘|understand|H3045|V-Qal-Imperf-2ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 מַעֲשֵׂ֣ה|ma·‘ă·śêh|the work|H4639|N-msc
 v5 הָֽאֱלֹהִ֔ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
-v5 אֲשֶׁ֥ר|’ă·šer|vvv|H834|Pro-r
+v5 אֲשֶׁ֥ר|’ă·šer|...|H834|Pro-r
 v5 יַעֲשֶׂ֖ה|ya·‘ă·śeh|the Maker|H6213|V-Qal-Imperf-3ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 הַכֹּֽל׃|hak·kōl|of all things|H3605|Art | N-ms

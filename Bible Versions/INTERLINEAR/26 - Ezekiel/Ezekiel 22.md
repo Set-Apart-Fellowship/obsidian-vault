@@ -28,7 +28,7 @@ v3 לָב֣וֹא|lā·ḇō·w|...|H935|Prep-l | V-Qal-Inf
 v3 עִתָּ֑הּ|‘it·tāh|who brings her own doom|H6256|N-csc | 3fs
 v3 וְעָשְׂתָ֧ה|wə·‘ā·śə·ṯāh|and making|H6213|Conj-w | V-Qal-ConjPerf-3fs
 v3 גִלּוּלִ֛ים|ḡil·lū·lîm|idols|H1544|N-mp
-v3 עָלֶ֖יהָ|‘ā·le·hā|vvv|H5921|Prep | 3fs
+v3 עָלֶ֖יהָ|‘ā·le·hā|...|H5921|Prep | 3fs
 v3 לְטָמְאָֽה׃|lə·ṭā·mə·’āh|to defile herself|H2930|Prep-l | V-Qal-Inf | 3fs
 v4 בְּדָמֵ֨ךְ|bə·ḏā·mêḵ|of the blood|H1818|Prep-b | N-msc | 2fs
 v4 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
@@ -81,7 +81,7 @@ v7 בְּתוֹכֵ֑ךְ|bə·ṯō·w·ḵêḵ|-|H8432|Prep-b | N-msc | 2fs
 v7 יָת֥וֹם|yā·ṯō·wm|the fatherless|H3490|N-ms
 v7 וְאַלְמָנָ֖ה|wə·’al·mā·nāh|and the widow|H490|Conj-w | N-fs
 v7 ה֥וֹנוּ|hō·w·nū|are oppressed|H3238|V-Hifil-Perf-3cp
-v7 בָֽךְ׃|ḇāḵ||H0|Prep | 2fs
+v7 בָֽךְ׃|ḇāḵ|-|H0|Prep | 2fs
 v8 קָדָשַׁ֖י|qā·ḏā·šay|My holy things|H6944|N-mpc | 1cs
 v8 בָּזִ֑ית|bā·zîṯ|You have despised|H959|V-Qal-Perf-2fs
 v8 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
@@ -126,7 +126,7 @@ v11 אֲחֹת֥וֹ|’ă·ḥō·ṯōw|his sister|H269|N-fsc | 3ms
 v11 בַת־|ḇaṯ-|daughter|H1323|N-fsc
 v11 אָבִ֖יו|’ā·ḇîw|his own father's|H1|N-msc | 3ms
 v11 עִנָּה־|‘in·nāh-|violates|H6031|V-Piel-Perf-3ms
-v11 בָֽךְ׃|ḇāḵ||H0|Prep | 2fs
+v11 בָֽךְ׃|ḇāḵ|-|H0|Prep | 2fs
 v12 שֹׁ֥חַד|šō·ḥaḏ|bribes|H7810|N-ms
 v12 לָֽקְחוּ־|lā·qə·ḥū-|they take|H3947|V-Qal-Perf-3cp
 v12 בָ֖ךְ|ḇāḵ|In you|H0|Prep | 2fs
@@ -185,7 +185,7 @@ v16 גוֹיִ֑ם|ḡō·w·yim|of the nations|H1471|N-mp
 v16 וְיָדַ֖עַתְּ|wə·yā·ḏa·‘at|then you will know|H3045|Conj-w | V-Qal-ConjPerf-2fs
 v16 כִּֽי־|kî-|that|H3588|Conj
 v16 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v16 יְהוָֽה׃פ|Yah·weh|am the LORD|H3068|N-proper-ms
+v16 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v17 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v17 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v17 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -207,7 +207,7 @@ v18 בְּת֣וֹךְ|bə·ṯō·wḵ|inside|H8432|Prep-b | N-msc
 v18 כּ֔וּר|kūr|the furnace|H3564|N-ms
 v18 סִגִ֥ים|si·ḡîm|the dross|H5509|N-mp
 v18 כֶּ֖סֶף|ke·sep̄|of silver|H3701|N-ms
-v18 הָיֽוּ׃ס|hā·yū|they are but|H1961|V-Qal-Perf-3cp
+v18 הָיֽוּ׃|hā·yū|they are but|H1961|V-Qal-Perf-3cp
 v19 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v19 כֹּ֤ה|kōh|this is what|H3541|Adv
 v19 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -217,7 +217,7 @@ v19 יַ֛עַן|ya·‘an|Because|H3282|Adv
 v19 הֱי֥וֹת|hĕ·yō·wṯ|of you have become|H1961|V-Qal-Inf
 v19 כֻּלְּכֶ֖ם|kul·lə·ḵem|all|H3605|N-msc | 2mp
 v19 לְסִגִ֑ים|lə·si·ḡîm|dross|H5509|Prep-l | N-mp
-v19 לָכֵן֙|lā·ḵên|vvv|H3651|Adv
+v19 לָכֵן֙|lā·ḵên|...|H3651|Adv
 v19 הִנְנִ֣י|hin·nî|behold|H2005|Interjection | 1cs
 v19 קֹבֵ֣ץ|qō·ḇêṣ|I will gather|H6908|V-Qal-Prtcpl-ms
 v19 אֶתְכֶ֔ם|’eṯ·ḵem|you|H853|DirObjM | 2mp
@@ -265,7 +265,7 @@ v22 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v22 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v22 שָׁפַ֥כְתִּי|šā·p̄aḵ·tî|have poured out|H8210|V-Qal-Perf-1cs
 v22 חֲמָתִ֖י|ḥă·mā·ṯî|My wrath|H2534|N-fsc | 1cs
-v22 עֲלֵיכֶֽם׃פ|‘ă·lê·ḵem|upon you|H5921|Prep | 2mp
+v22 עֲלֵיכֶֽם׃|‘ă·lê·ḵem|upon you|H5921|Prep | 2mp
 v23 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v23 דְבַר־|ḏə·ḇar-|And the word|H1697|N-msc
 v23 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -332,13 +332,13 @@ v27 לְמַ֖עַן|lə·ma·‘an|for|H4616|Conj
 v27 בְּצֹ֥עַ|bə·ṣō·a‘|dishonest gain|H1214|V-Qal-Inf
 v27 בָּֽצַע׃|bā·ṣa‘|...|H1215|N-ms
 v28 וּנְבִיאֶ֗יהָ|ū·nə·ḇî·’e·hā|Her prophets|H5030|Conj-w | N-mpc | 3fs
-v28 טָח֤וּ|ṭā·ḥū|vvv|H2902|V-Qal-Perf-3cp
+v28 טָח֤וּ|ṭā·ḥū|...|H2902|V-Qal-Perf-3cp
 v28 לָהֶם֙|lā·hem|[these deeds]|H0|Prep | 3mp
 v28 תָּפֵ֔ל|tā·p̄êl|whitewash|H8602|Adj-ms
 v28 חֹזִ֣ים|ḥō·zîm|visions|H2372|V-Qal-Prtcpl-mp
 v28 שָׁ֔וְא|šāw|by false|H7723|N-ms
 v28 וְקֹסְמִ֥ים|wə·qō·sə·mîm|divinations|H7080|Conj-w | V-Qal-Prtcpl-mp
-v28 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v28 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v28 כָּזָ֑ב|kā·zāḇ|and lying|H3577|N-ms
 v28 אֹמְרִ֗ים|’ō·mə·rîm|saying|H559|V-Qal-Prtcpl-mp
 v28 כֹּ֤ה|kōh|This is what|H3541|Adv
@@ -387,4 +387,4 @@ v31 בְּרֹאשָׁ֣ם|bə·rō·šām|down upon their own heads|H7218|Prep-
 v31 נָתַ֔תִּי|nā·ṯat·tî|I have brought|H5414|V-Qal-Perf-1cs
 v31 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v31 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v31 יְהֹוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v31 יְהֹוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

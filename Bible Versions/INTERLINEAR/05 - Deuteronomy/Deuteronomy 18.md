@@ -16,7 +16,7 @@ v1 יֹאכֵלֽוּן׃|yō·ḵê·lūn|They are to eat|H398|V-Qal-Imperf-3mp
 v2 וְנַחֲלָ֥ה|wə·na·ḥă·lāh|inheritance|H5159|Conj-w | N-fs
 v2 לֹא־|lō-|no|H3808|Adv-NegPrt
 v2 יִֽהְיֶה־|yih·yeh-|Although they have|H1961|V-Qal-Imperf-3ms
-v2 לּ֖וֹ|lōw||H0|Prep | 3ms
+v2 לּ֖וֹ|lōw|-|H0|Prep | 3ms
 v2 בְּקֶ֣רֶב|bə·qe·reḇ|among|H7130|Prep-b | N-msc
 v2 אֶחָ֑יו|’e·ḥāw|their brothers|H251|N-mpc | 3ms
 v2 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
@@ -24,7 +24,7 @@ v2 ה֣וּא|hū|...|H1931|Pro-3ms
 v2 נַחֲלָת֔וֹ|na·ḥă·lā·ṯōw|[is] their inheritance|H5159|N-fsc | 3ms
 v2 כַּאֲשֶׁ֖ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v2 דִּבֶּר־|dib·ber-|He promised|H1696|V-Piel-Perf-3ms
-v2 לֽוֹ׃ס|lōw|them|H0|Prep | 3ms
+v2 לֽוֹ׃|lōw|them|H0|Prep | 3ms
 v3 וְזֶ֡ה|wə·zeh|This|H2088|Conj-w | Pro-ms
 v3 יִהְיֶה֩|yih·yeh|shall be|H1961|V-Qal-Imperf-3ms
 v3 מִשְׁפַּ֨ט|miš·paṭ|share|H4941|N-msc
@@ -66,7 +66,7 @@ v5 יְהוָ֛ה|Yah·weh|in [His]|H3068|N-proper-ms
 v5 ה֥וּא|hū|...|H1931|Pro-3ms
 v5 וּבָנָ֖יו|ū·ḇā·nāw|and his sons|H1121|Conj-w | N-mpc | 3ms
 v5 כָּל־|kāl-|for all|H3605|N-msc
-v5 הַיָּמִֽים׃ס|hay·yā·mîm|time|H3117|Art | N-mp
+v5 הַיָּמִֽים׃|hay·yā·mîm|time|H3117|Art | N-mp
 v6 וְכִֽי־|wə·ḵî-|Now if|H3588|Conj
 v6 יָבֹ֨א|yā·ḇō|moves|H935|V-Qal-Imperf-3ms
 v6 הַלֵּוִ֜י|hal·lê·wî|a Levite|H3881|Art | N-proper-ms
@@ -74,8 +74,8 @@ v6 מֵאַחַ֤ד|mê·’a·ḥaḏ|from any|H259|Prep-m | Number-msc
 v6 שְׁעָרֶ֙יךָ֙|šə·‘ā·re·ḵā|town|H8179|N-mpc | 2ms
 v6 מִכָּל־|mik·kāl|...|H3605|Prep-m | N-msc
 v6 יִשְׂרָאֵ֔ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v6 אֲשֶׁר־|’ă·šer-|vvv|H834|Pro-r
-v6 ה֖וּא|hū|vvv|H1931|Pro-3ms
+v6 אֲשֶׁר־|’ă·šer-|...|H834|Pro-r
+v6 ה֖וּא|hū|...|H1931|Pro-3ms
 v6 גָּ֣ר|gār|of residence|H1481|V-Qal-Prtcpl-ms
 v6 שָׁ֑ם|šām|throughout|H8033|Adv
 v6 וּבָא֙|ū·ḇā|and comes|H935|Conj-w | V-Qal-ConjPerf-3ms
@@ -104,7 +104,7 @@ v8 יֹאכֵ֑לוּ|yō·ḵê·lū|They shall eat|H398|V-Qal-Imperf-3mp
 v8 לְבַ֥ד|lə·ḇaḏ|even though|H905|Prep-l | N-msc
 v8 מִמְכָּרָ֖יו|mim·kā·rāw|the sale|H4465|N-mpc | 3ms
 v8 עַל־|‘al-|he has received [money] from|H5921|Prep
-v8 הָאָבֽוֹת׃ס|hā·’ā·ḇō·wṯ|of his father's estate|H1|Art | N-mp
+v8 הָאָבֽוֹת׃|hā·’ā·ḇō·wṯ|of his father's estate|H1|Art | N-mp
 v9 כִּ֤י|kî|When|H3588|Conj
 v9 אַתָּה֙|’at·tāh|you|H859|Pro-2ms
 v9 בָּ֣א|bā|enter|H935|V-Qal-Prtcpl-ms
@@ -159,7 +159,7 @@ v13 תָּמִ֣ים|tā·mîm|blameless|H8549|Adj-ms
 v13 תִּֽהְיֶ֔ה|tih·yeh|You must be|H1961|V-Qal-Imperf-2ms
 v13 עִ֖ם|‘im|before|H5973|Prep
 v13 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v13 אֱלֹהֶֽיךָ׃ס|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
+v13 אֱלֹהֶֽיךָ׃|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v14 כִּ֣י׀|kî|Though|H3588|Conj
 v14 הַגּוֹיִ֣ם|hag·gō·w·yim|nations|H1471|Art | N-mp
 v14 הָאֵ֗לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
@@ -176,7 +176,7 @@ v14 וְאַתָּ֕ה|wə·’at·tāh|...|H859|Conj-w | Pro-2ms
 v14 לֹ֣א|lō|has not|H3808|Adv-NegPrt
 v14 כֵ֔ן|ḵên|to do so|H3651|Adv
 v14 נָ֛תַן|nå̄·ṯan|permitted you|H5414|V-Qal-Perf-3ms
-v14 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v14 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v14 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v14 אֱלֹהֶֽיךָ׃|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v15 נָבִ֨יא|nā·ḇî|a prophet|H5030|N-ms
@@ -210,7 +210,7 @@ v16 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v16 הָאֵ֨שׁ|hā·’êš|fire|H784|Art | N-cs
 v16 הַגְּדֹלָ֥ה|hag·gə·ḏō·lāh|great|H1419|Art | Adj-fs
 v16 הַזֹּ֛את|haz·zōṯ|this|H2063|Art | Pro-fs
-v16 לֹֽא־|lō-||H3808|Adv-NegPrt
+v16 לֹֽא־|lō-|-|H3808|Adv-NegPrt
 v16 אֶרְאֶ֥ה|’er·’eh|or see|H7200|V-Qal-Imperf.h-1cs
 v16 ע֖וֹד|‘ō·wḏ|anymore|H5750|Adv
 v16 וְלֹ֥א|wə·lō|so that we will not|H3808|Conj-w | Adv-NegPrt
@@ -301,4 +301,4 @@ v22 דִּבְּר֣וֹ|dib·bə·rōw|has spoken|H1696|V-Piel-Perf-3ms | 3ms
 v22 הַנָּבִ֔יא|han·nā·ḇî|The prophet|H5030|Art | N-ms
 v22 לֹ֥א|lō|has not|H3808|Adv-NegPrt
 v22 תָג֖וּר|ṯā·ḡūr|be afraid|H1481|V-Qal-Imperf-2ms
-v22 מִמֶּֽנּוּ׃ס|mim·men·nū|of him|H4480|Prep | 3ms
+v22 מִמֶּֽנּוּ׃|mim·men·nū|of him|H4480|Prep | 3ms

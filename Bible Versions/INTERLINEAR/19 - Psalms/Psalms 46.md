@@ -57,7 +57,7 @@ v7 יְהוָ֣ה|Yah·weh|The LORD|H3068|N-proper-ms
 v7 צְבָא֣וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v7 עִמָּ֑נוּ|‘im·mā·nū|is with us|H5973|Prep | 1cp
 v7 מִשְׂגָּֽב־|miś·gāḇ-|is our fortress|H4869|N-ms
-v7 לָ֝נוּ|lā·nū||H0|Prep | 1cp
+v7 לָ֝נוּ|lā·nū|-|H0|Prep | 1cp
 v7 אֱלֹהֵ֖י|’ĕ·lō·hê|the God|H430|N-mpc
 v7 יַעֲקֹ֣ב|ya·‘ă·qōḇ|of Jacob|H3290|N-proper-ms
 v7 סֶֽלָה׃|se·lāh|Selah|H5542|Interjection
@@ -94,7 +94,7 @@ v11 יְהוָ֣ה|Yah·weh|The LORD|H3068|N-proper-ms
 v11 צְבָא֣וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v11 עִמָּ֑נוּ|‘im·mā·nū|is with us|H5973|Prep | 1cp
 v11 מִשְׂגָּֽב־|miś·gāḇ-|is our fortress|H4869|N-ms
-v11 לָ֝נוּ|lā·nū||H0|Prep | 1cp
+v11 לָ֝נוּ|lā·nū|-|H0|Prep | 1cp
 v11 אֱלֹהֵ֖י|’ĕ·lō·hê|the God|H430|N-mpc
 v11 יַעֲקֹ֣ב|ya·‘ă·qōḇ|of Jacob|H3290|N-proper-ms
 v11 סֶֽלָה׃|se·lāh|Selah|H5542|Interjection

@@ -25,7 +25,7 @@ v3 וַיְהִ֨י|way·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v3 מִסְפָּרָ֤ם|mis·pā·rām|and the total number|H4557|N-msc | 3mp
 v3 לְגֻלְגְּלֹתָם֙|lə·ḡul·gə·lō·ṯām|-|H1538|Prep-l | N-fpc | 3mp
 v3 לִגְבָרִ֔ים|liḡ·ḇā·rîm|of men|H1397|Prep-l | N-mp
-v3 שְׁלֹשִׁ֥ים|šə·lō·šîm|38,000 {}|H7970|Number-cp
+v3 שְׁלֹשִׁ֥ים|šə·lō·šîm|38,000|H7970|Number-cp
 v3 וּשְׁמוֹנָ֖ה|ū·šə·mō·w·nāh|...|H8083|Conj-w | Number-ms
 v3 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v4 מֵאֵ֗לֶּה|mê·’êl·leh|Of these,” [said David,]|H428|Prep-m | Pro-cp
@@ -39,9 +39,9 @@ v4 וְאַרְבָּעָ֖ה|wə·’ar·bā·‘āh|...|H702|Conj-w | Number-m
 v4 אָ֑לֶף|’ā·lep̄|...|H505|Number-ms
 v4 וְשֹׁטְרִ֥ים|wə·šō·ṭə·rîm|are to be officers|H7860|Conj-w | N-mp
 v4 וְשֹׁפְטִ֖ים|wə·šō·p̄ə·ṭîm|and judges|H8199|Conj-w | V-Qal-Prtcpl-mp
-v4 שֵׁ֥שֶׁת|šê·šeṯ|6,000 {}|H8337|Number-msc
+v4 שֵׁ֥שֶׁת|šê·šeṯ|6,000|H8337|Number-msc
 v4 אֲלָפִֽים׃|’ă·lā·p̄îm|...|H505|Number-mp
-v5 וְאַרְבַּ֥עַת|wə·’ar·ba·‘aṯ|4,000 {}|H702|Conj-w | Number-msc
+v5 וְאַרְבַּ֥עַת|wə·’ar·ba·‘aṯ|4,000|H702|Conj-w | Number-msc
 v5 אֲלָפִ֖ים|’ă·lā·p̄îm|...|H505|Number-mp
 v5 שֹׁעֲרִ֑ים|šō·‘ă·rîm|are to be gatekeepers|H7778|N-mp
 v5 וְאַרְבַּ֤עַת|wə·’ar·ba·‘aṯ|and 4,000|H702|Conj-w | Number-msc
@@ -59,17 +59,17 @@ v6 לִבְנֵ֣י|liḇ·nê|according to the sons|H1121|Prep-l | N-mpc
 v6 לֵוִ֔י|lê·wî|of Levi|H3878|N-proper-ms
 v6 לְגֵרְשׁ֖וֹן|lə·ḡê·rə·šō·wn|Gershom|H1648|Prep-l | N-proper-ms
 v6 קְהָ֥ת|qə·hāṯ|Kohath|H6955|N-proper-ms
-v6 וּמְרָרִֽי׃ס|ū·mə·rā·rî|and Merari|H4847|Conj-w | N-proper-ms
+v6 וּמְרָרִֽי׃|ū·mə·rā·rî|and Merari|H4847|Conj-w | N-proper-ms
 v7 לַגֵּרְשֻׁנִּ֖י|lag·gê·rə·šun·nî|The Gershonites|H1649|Prep-l, Art | N-proper-ms
 v7 לַעְדָּ֥ן|la‘·dān|Ladan|H3936|N-proper-ms
-v7 וְשִׁמְעִֽי׃ס|wə·šim·‘î|and Shimei|H8096|Conj-w | N-proper-ms
+v7 וְשִׁמְעִֽי׃|wə·šim·‘î|and Shimei|H8096|Conj-w | N-proper-ms
 v8 בְּנֵ֣י|bə·nê|The sons|H1121|N-mpc
 v8 לַעְדָּ֗ן|la‘·dān|of Ladan|H3936|N-proper-ms
 v8 הָרֹ֧אשׁ|hā·rōš|the first|H7218|Art | N-ms
 v8 יְחִיאֵ֛ל|yə·ḥî·’êl|Jehiel|H3171|N-proper-ms
 v8 וְזֵתָ֥ם|wə·zê·ṯām|Zetham|H2241|Conj-w | N-proper-ms
 v8 וְיוֹאֵ֖ל|wə·yō·w·’êl|and Joel|H3100|Conj-w | N-proper-ms
-v8 שְׁלֹשָֽׁה׃ס|šə·lō·šāh|three [in all]|H7969|Number-ms
+v8 שְׁלֹשָֽׁה׃|šə·lō·šāh|three [in all]|H7969|Number-ms
 v9 בְּנֵ֣י|bə·nê|The sons|H1121|N-mpc
 v9 שִׁמְעִ֗י|šim·‘î|of Shimei|H8096|N-proper-ms
 v9 שְׁלֹמוֹת|šə·lō·mōṯ|Shelomoth|H8013|N-proper-fs
@@ -79,7 +79,7 @@ v9 שְׁלֹשָׁ֑ה|šə·lō·šāh|three [in all]|H7969|Number-ms
 v9 אֵ֛לֶּה|’êl·leh|These [were]|H428|Pro-cp
 v9 רָאשֵׁ֥י|rā·šê|the heads|H7218|N-mpc
 v9 הָאָב֖וֹת|hā·’ā·ḇō·wṯ|of the families|H1|Art | N-mp
-v9 לְלַעְדָּֽן׃ס|lə·la‘·dān|of Ladan|H3936|Prep-l | N-proper-ms
+v9 לְלַעְדָּֽן׃|lə·la‘·dān|of Ladan|H3936|Prep-l | N-proper-ms
 v10 וּבְנֵ֣י|ū·ḇə·nê|And the sons|H1121|Conj-w | N-mpc
 v10 שִׁמְעִ֔י|šim·‘î|of Shimei|H8096|N-proper-ms
 v10 יַ֣חַת|ya·ḥaṯ|Jahath|H3189|N-proper-ms
@@ -104,14 +104,14 @@ v11 וַיִּֽהְיוּ֙|way·yih·yū|so they were counted as|H1961|Conj-w 
 v11 לְבֵ֣ית|lə·ḇêṯ|...|H1004|Prep-l | N-msc
 v11 אָ֔ב|’āḇ|one family|H1|N-ms
 v11 לִפְקֻדָּ֖ה|lip̄·qud·dāh|assignment|H6486|Prep-l | N-fs
-v11 אֶחָֽת׃ס|’e·ḥāṯ|and received a single|H259|Number-fs
+v11 אֶחָֽת׃|’e·ḥāṯ|and received a single|H259|Number-fs
 v12 בְּנֵ֣י|bə·nê|The sons|H1121|N-mpc
 v12 קְהָ֗ת|qə·hāṯ|of Kohath|H6955|N-proper-ms
 v12 עַמְרָ֥ם|‘am·rām|Amram|H6019|N-proper-ms
 v12 יִצְהָ֛ר|yiṣ·hār|Izhar|H3324|N-proper-ms
 v12 חֶבְר֥וֹן|ḥeḇ·rō·wn|Hebron|H2275|N-proper-ms
 v12 וְעֻזִּיאֵ֖ל|wə·‘uz·zî·’êl|and Uzziel|H5816|Conj-w | N-proper-ms
-v12 אַרְבָּעָֽה׃ס|’ar·bā·‘āh|four [in all]|H702|Number-ms
+v12 אַרְבָּעָֽה׃|’ar·bā·‘āh|four [in all]|H702|Number-ms
 v13 בְּנֵ֥י|bə·nê|The sons|H1121|N-mpc
 v13 עַמְרָ֖ם|‘am·rām|of Amram|H6019|N-proper-ms
 v13 אַהֲרֹ֣ן|’a·hă·rōn|Aaron|H175|N-proper-ms
@@ -166,7 +166,7 @@ v17 לְמָֽעְלָה׃|lə·mā·‘ə·lāh|were very|H4605|Prep-l | Adv | 
 v18 בְּנֵ֥י|bə·nê|The sons|H1121|N-mpc
 v18 יִצְהָ֖ר|yiṣ·hār|of Izhar|H3324|N-proper-ms
 v18 שְׁלֹמִ֥ית|šə·lō·mîṯ|Shelomith|H8019|N-proper-ms
-v18 הָרֹֽאשׁ׃ס|hā·rōš|[was] the first|H7218|Art | N-ms
+v18 הָרֹֽאשׁ׃|hā·rōš|[was] the first|H7218|Art | N-ms
 v19 בְּנֵ֖י|bə·nê|The sons|H1121|N-mpc
 v19 חֶבְר֑וֹן|ḥeḇ·rō·wn|of Hebron|H2275|N-proper-ms
 v19 יְרִיָּ֤הוּ|yə·rî·yā·hū|Jeriah|H3404|N-proper-ms
@@ -182,7 +182,7 @@ v20 עֻזִּיאֵ֑ל|‘uz·zî·’êl|of Uzziel|H5816|N-proper-ms
 v20 מִיכָ֣ה|mî·ḵāh|Micah|H4318|N-proper-ms
 v20 הָרֹ֔אשׁ|hā·rōš|[was] the first|H7218|Art | N-ms
 v20 וְיִשִּׁיָּ֖ה|wə·yiš·šî·yāh|and Isshiah|H3449|Conj-w | N-proper-ms
-v20 הַשֵּׁנִֽי׃ס|haš·šê·nî|the second|H8145|Art | Number-oms
+v20 הַשֵּׁנִֽי׃|haš·šê·nî|the second|H8145|Art | Number-oms
 v21 בְּנֵ֤י|bə·nê|The sons|H1121|N-mpc
 v21 מְרָרִי֙|mə·rā·rî|of Merari|H4847|N-proper-ms
 v21 מַחְלִ֣י|maḥ·lî|Mahli|H4249|N-proper-ms
@@ -195,7 +195,7 @@ v22 וַיָּ֙מָת֙|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf
 v22 אֶלְעָזָ֔ר|’el·‘ā·zār|Eleazar|H499|N-proper-ms
 v22 וְלֹא־|wə·lō-|without|H3808|Conj-w | Adv-NegPrt
 v22 הָ֥יוּ|hā·yū|having [any]|H1961|V-Qal-Perf-3cp
-v22 ל֛וֹ|lōw||H0|Prep | 3ms
+v22 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v22 בָּנִ֖ים|bā·nîm|sons|H1121|N-mp
 v22 כִּ֣י|kî|he had only|H3588|Conj
 v22 אִם־|’im-|...|H518|Conj
@@ -330,4 +330,4 @@ v32 אַהֲרֹ֖ן|’a·hă·rōn|of Aaron|H175|N-proper-ms
 v32 אֲחֵיהֶ֑ם|’ă·ḥê·hem|their brothers|H251|N-mpc | 3mp
 v32 לַעֲבֹדַ֖ת|la·‘ă·ḇō·ḏaṯ|the service|H5656|Prep-l | N-fsc
 v32 בֵּ֥ית|bêṯ|of the house|H1004|N-msc
-v32 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v32 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms

@@ -5,7 +5,7 @@ v1 דַּכָּ֛א|dak·kā|...|H1795|N-ms
 v1 וּכְר֥וּת|ū·ḵə·rūṯ|or severed|H3772|Conj-w | V-Qal-QalPassPrtcpl-msc
 v1 שָׁפְכָ֖ה|šā·p̄ə·ḵāh|genitals|H8212|N-fs
 v1 בִּקְהַ֥ל|biq·hal|the assembly|H6951|Prep-b | N-msc
-v1 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v1 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v2 לֹא־|lō-|No|H3808|Adv-NegPrt
 v2 יָבֹ֥א|yā·ḇō|may enter|H935|V-Qal-Imperf-3ms
 v2 מַמְזֵ֖ר|mam·zêr|one of illegitimate birth|H4464|N-ms
@@ -16,9 +16,9 @@ v2 דּ֣וֹר|dō·wr|generation|H1755|N-ms
 v2 עֲשִׂירִ֔י|‘ă·śî·rî|to the tenth|H6224|Number-oms
 v2 לֹא־|lō-|nor may any of his descendants|H3808|Adv-NegPrt
 v2 יָ֥בֹא|yā·ḇō|-|H935|V-Qal-Imperf-3ms
-v2 ל֖וֹ|lōw||H0|Prep | 3ms
+v2 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v2 בִּקְהַ֥ל|biq·hal|-|H6951|Prep-b | N-msc
-v2 יְהוָֽה׃ס|Yah·weh|-|H3068|N-proper-ms
+v2 יְהוָֽה׃|Yah·weh|-|H3068|N-proper-ms
 v3 לֹֽא־|lō-|No|H3808|Adv-NegPrt
 v3 יָבֹ֧א|yā·ḇō|may enter|H935|V-Qal-Imperf-3ms
 v3 עַמּוֹנִ֛י|‘am·mō·w·nî|Ammonite|H5984|N-proper-ms
@@ -54,7 +54,7 @@ v4 בִּלְעָ֣ם|bil·‘ām|Balaam|H1109|N-proper-ms
 v4 בֶּן־|ben-|son|H1121|N-msc
 v4 בְּע֗וֹר|bə·‘ō·wr|of Beor|H1160|N-proper-ms
 v4 מִפְּת֛וֹר|mip·pə·ṯō·wr|from Pethor|H6604|Prep-m | N-proper-fs
-v4 אֲרַ֥ם|’ă·ram|vvv|H763|
+v4 אֲרַ֥ם|’ă·ram|...|H763|
 v4 נַהֲרַ֖יִם|na·hă·ra·yim|in Aram-naharaim|H763|N-proper-fs
 v4 לְקַֽלְלֶֽךָּ׃|lə·qal·le·kā|to curse you|H7043|Prep-l | V-Piel-Inf | 2ms
 v5 וְלֹֽא־|wə·lō-|not|H3808|Conj-w | Adv-NegPrt
@@ -68,7 +68,7 @@ v5 וַיַּהֲפֹךְ֩|way·ya·hă·p̄ōḵ|turned|H2015|Conj-w | V-Qal-
 v5 יְהוָ֨ה|Yah·weh|and the LORD|H3068|N-proper-ms
 v5 אֱלֹהֶ֧יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v5 לְּךָ֛|lə·ḵā|for you|H0|Prep | 2ms
-v5 אֶת־|’eṯ-||H853|DirObjM
+v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 הַקְּלָלָ֖ה|haq·qə·lā·lāh|the curse|H7045|Art | N-fs
 v5 לִבְרָכָ֑ה|liḇ·rā·ḵāh|into a blessing|H1293|Prep-l | N-fs
 v5 כִּ֥י|kî|because|H3588|Conj
@@ -81,7 +81,7 @@ v6 שְׁלֹמָ֖ם|šə·lō·mām|peace|H7965|N-msc | 3mp
 v6 וְטֹבָתָ֑ם|wə·ṭō·ḇā·ṯām|or prosperity from them|H2896|Conj-w | N-fsc | 3mp
 v6 כָּל־|kāl-|as long as you live|H3605|N-msc
 v6 יָמֶ֖יךָ|yā·me·ḵā|...|H3117|N-mpc | 2ms
-v6 לְעוֹלָֽם׃ס|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms
+v6 לְעוֹלָֽם׃|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms
 v7 לֹֽא־|lō-|Do not|H3808|Adv-NegPrt
 v7 תְתַעֵ֣ב|ṯə·ṯa·‘êḇ|despise|H8581|V-Piel-Imperf-2ms
 v7 אֲדֹמִ֔י|’ă·ḏō·mî|an Edomite|H130|N-proper-ms
@@ -102,9 +102,9 @@ v8 לָהֶ֖ם|lā·hem|to them|H0|Prep | 3mp
 v8 דּ֣וֹר|dō·wr|generation|H1755|N-ms
 v8 שְׁלִישִׁ֑י|šə·lî·šî|The third|H7992|Number-oms
 v8 יָבֹ֥א|yā·ḇō|may enter|H935|V-Qal-Imperf-3ms
-v8 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v8 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v8 בִּקְהַ֥ל|biq·hal|the assembly|H6951|Prep-b | N-msc
-v8 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v8 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v9 כִּֽי־|kî-|When|H3588|Conj
 v9 תֵצֵ֥א|ṯê·ṣê|you are encamped|H3318|V-Qal-Imperf-2ms
 v9 מַחֲנֶ֖ה|ma·ḥă·neh|...|H4264|N-cs
@@ -119,13 +119,13 @@ v10 יִהְיֶ֤ה|yih·yeh|-|H1961|V-Qal-Imperf-3ms
 v10 בְךָ֙|ḇə·ḵā|among you|H0|Prep | 2ms
 v10 אִ֔ישׁ|’îš|any man|H376|N-ms
 v10 אֲשֶׁ֛ר|’ă·šer|-|H834|Pro-r
-v10 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v10 לֹא־|lō-|...|H3808|Adv-NegPrt
 v10 יִהְיֶ֥ה|yih·yeh|becomes|H1961|V-Qal-Imperf-3ms
 v10 טָה֖וֹר|ṭā·hō·wr|unclean|H2889|Adj-ms
 v10 מִקְּרֵה־|miq·qə·rêh-|emission|H7137|Prep-m | N-msc
 v10 לָ֑יְלָה|lā·yə·lāh|because of a nocturnal|H3915|N-ms
 v10 וְיָצָא֙|wə·yā·ṣā|he must leave|H3318|Conj-w | V-Qal-ConjPerf-3ms
-v10 אֶל־|’el-||H413|Prep
+v10 אֶל־|’el-|-|H413|Prep
 v10 מִח֣וּץ|mi·ḥūṣ|outside|H2351|Prep-m | N-ms
 v10 לַֽמַּחֲנֶ֔ה|lam·ma·ḥă·neh|the camp|H4264|Prep-l, Art | N-cs
 v10 לֹ֥א|lō|-|H3808|Adv-NegPrt
@@ -146,7 +146,7 @@ v11 תּ֥וֹךְ|tō·wḵ|...|H8432|N-msc
 v11 הַֽמַּחֲנֶה׃|ham·ma·ḥă·nɛh|the camp|H4264|Art | N-cs
 v12 וְיָד֙|wə·yāḏ|a place|H3027|Conj-w | N-fs
 v12 תִּהְיֶ֣ה|tih·yeh|You must have|H1961|V-Qal-Imperf-3fs
-v12 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v12 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v12 מִח֖וּץ|mi·ḥūṣ|outside|H2351|Prep-m | N-ms
 v12 לַֽמַּחֲנֶ֑ה|lam·ma·ḥă·neh|the camp|H4264|Prep-l, Art | N-cs
 v12 וְיָצָ֥אתָ|wə·yā·ṣā·ṯā|to go|H3318|Conj-w | V-Qal-ConjPerf-2ms
@@ -154,14 +154,14 @@ v12 שָׁ֖מָּה|šām·māh|[and] relieve yourself|H8033|Adv | 3fs
 v12 חֽוּץ׃|ḥūṣ|...|H2351|N-ms
 v13 וְיָתֵ֛ד|wə·yā·ṯêḏ|a digging tool|H3489|Conj-w | N-fs
 v13 תִּהְיֶ֥ה|tih·yeh|And you must have|H1961|V-Qal-Imperf-3fs
-v13 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v13 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v13 עַל־|‘al-|in|H5921|Prep
 v13 אֲזֵנֶ֑ךָ|’ă·zê·ne·ḵā|your equipment|H240|N-msc | 2ms
 v13 וְהָיָה֙|wə·hā·yāh|so that|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v13 בְּשִׁבְתְּךָ֣|bə·šiḇ·tə·ḵā|when you relieve yourself|H3427|Prep-b | V-Qal-Inf | 2ms
 v13 ח֔וּץ|ḥūṣ|...|H2351|N-ms
 v13 וְחָפַרְתָּ֣ה|wə·ḥā·p̄ar·tāh|you can dig a hole|H2658|Conj-w | V-Qal-ConjPerf-2ms
-v13 בָ֔הּ|ḇāh||H0|Prep | 3fs
+v13 בָ֔הּ|ḇāh|-|H0|Prep | 3fs
 v13 וְשַׁבְתָּ֖|wə·šaḇ·tā|-|H7725|Conj-w | V-Qal-ConjPerf-2ms
 v13 וְכִסִּ֥יתָ|wə·ḵis·sî·ṯā|and cover up|H3680|Conj-w | V-Piel-ConjPerf-2ms
 v13 אֶת־|’eṯ-|-|H853|DirObjM
@@ -185,7 +185,7 @@ v14 בְךָ֙|ḇə·ḵā|among you|H0|Prep | 2ms
 v14 עֶרְוַ֣ת|‘er·waṯ|unclean|H6172|N-fsc
 v14 דָּבָ֔ר|dā·ḇār|anything|H1697|N-ms
 v14 וְשָׁ֖ב|wə·šāḇ|and turn away|H7725|Conj-w | V-Qal-ConjPerf-3ms
-v14 מֵאַחֲרֶֽיךָ׃ס|mê·’a·ḥă·re·ḵā|from you|H310|Prep-m | 2ms
+v14 מֵאַחֲרֶֽיךָ׃|mê·’a·ḥă·re·ḵā|from you|H310|Prep-m | 2ms
 v15 לֹא־|lō-|Do not|H3808|Adv-NegPrt
 v15 תַסְגִּ֥יר|ṯas·gîr|return|H5462|V-Hifil-Imperf-2ms
 v15 עֶ֖בֶד|‘e·ḇeḏ|a slave|H5650|N-ms
@@ -207,7 +207,7 @@ v16 שְׁעָרֶ֖יךָ|šə·‘ā·re·ḵā|the town|H8179|N-mpc | 2ms
 v16 בַּטּ֣וֹב|baṭ·ṭō·wḇ|of his pleasing|H2896|Prep-b, Art | Adj-ms
 v16 ל֑וֹ|lōw|...|H0|Prep | 3ms
 v16 לֹ֖א|lō|Do not|H3808|Adv-NegPrt
-v16 תּוֹנֶֽנּוּ׃ס|tō·w·nen·nū|oppress him|H3238|V-Hifil-Imperf-2ms | 3ms
+v16 תּוֹנֶֽנּוּ׃|tō·w·nen·nū|oppress him|H3238|V-Hifil-Imperf-2ms | 3ms
 v17 לֹא־|lō-|No|H3808|Adv-NegPrt
 v17 תִהְיֶ֥ה|ṯih·yeh|is to be|H1961|V-Qal-Imperf-3fs
 v17 קְדֵשָׁ֖ה|qə·ḏê·šāh|...|H6948|Adj-fs
@@ -265,7 +265,7 @@ v20 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v20 אַתָּ֥ה|’at·tāh|you|H859|Pro-2ms
 v20 בָא־|ḇā-|are entering|H935|V-Qal-Prtcpl-ms
 v20 שָׁ֖מָּה|šām·māh|...|H8033|Adv | 3fs
-v20 לְרִשְׁתָּֽהּ׃ס|lə·riš·tāh|to possess|H3423|Prep-l | V-Qal-Inf | 3fs
+v20 לְרִשְׁתָּֽהּ׃|lə·riš·tāh|to possess|H3423|Prep-l | V-Qal-Inf | 3fs
 v21 כִּֽי־|kî-|If|H3588|Conj
 v21 תִדֹּ֥ר|ṯid·dōr|you make|H5087|V-Qal-Imperf-2ms
 v21 נֶ֙דֶר֙|ne·ḏer|a vow|H5088|N-ms
@@ -281,7 +281,7 @@ v21 יְהוָ֤ה|Yah·weh|He|H3068|N-proper-ms
 v21 אֱלֹהֶ֙יךָ֙|’ĕ·lō·he·ḵā|...|H430|N-mpc | 2ms
 v21 מֵֽעִמָּ֔ךְ|mê·‘im·māḵ|of you|H5973|Prep-m | 2ms
 v21 וְהָיָ֥ה|wə·hā·yāh|and you will be|H1961|Conj-w | V-Qal-ConjPerf-3ms
-v21 בְךָ֖|ḇə·ḵā||H0|Prep | 2ms
+v21 בְךָ֖|ḇə·ḵā|-|H0|Prep | 2ms
 v21 חֵֽטְא׃|ḥêṭ|guilty of sin|H2399|N-ms
 v22 וְכִ֥י|wə·ḵî|But if|H3588|Conj
 v22 תֶחְדַּ֖ל|ṯeḥ·dal|you refrain|H2308|V-Qal-Imperf-2ms
@@ -300,8 +300,8 @@ v23 לַיהוָ֤ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v23 אֱלֹהֶ֙יךָ֙|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v23 נְדָבָ֔ה|nə·ḏā·ḇāh|you have freely|H5071|N-fs
 v23 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v23 דִּבַּ֖רְתָּ|dib·bar·tā|vvv|H1696|V-Piel-Perf-2ms
-v23 בְּפִֽיךָ׃ס|bə·p̄î·ḵā|with your own mouth|H6310|Prep-b | N-msc | 2ms
+v23 דִּבַּ֖רְתָּ|dib·bar·tā|...|H1696|V-Piel-Perf-2ms
+v23 בְּפִֽיךָ׃|bə·p̄î·ḵā|with your own mouth|H6310|Prep-b | N-msc | 2ms
 v24 כִּ֤י|kî|When|H3588|Conj
 v24 תָבֹא֙|ṯā·ḇō|you enter|H935|V-Qal-Imperf-2ms
 v24 בְּכֶ֣רֶם|bə·ḵe·rem|vineyard|H3754|Prep-b | N-msc
@@ -313,7 +313,7 @@ v24 שָׂבְעֶ֑ךָ|śā·ḇə·‘e·ḵā|fill of|H7648|N-msc | 2ms
 v24 וְאֶֽל־|wə·’el-|any in|H413|Conj-w | Prep
 v24 כֶּלְיְךָ֖|kel·yə·ḵā|your basket|H3627|N-msc | 2ms
 v24 לֹ֥א|lō|but you must not|H3808|Adv-NegPrt
-v24 תִתֵּֽן׃ס|ṯit·tên|put|H5414|V-Qal-Imperf-2ms
+v24 תִתֵּֽן׃|ṯit·tên|put|H5414|V-Qal-Imperf-2ms
 v25 כִּ֤י|kî|When|H3588|Conj
 v25 תָבֹא֙|ṯā·ḇō|you enter|H935|V-Qal-Imperf-2ms
 v25 בְּקָמַ֣ת|bə·qā·maṯ|grainfield|H7054|Prep-b | N-fsc
@@ -326,4 +326,4 @@ v25 לֹ֣א|lō|but you must not|H3808|Adv-NegPrt
 v25 תָנִ֔יף|ṯā·nîp̄|put|H5130|V-Hifil-Imperf-2ms
 v25 עַ֖ל|‘al|to|H5921|Prep
 v25 קָמַ֥ת|qā·maṯ|grain|H7054|N-fsc
-v25 רֵעֶֽךָ׃ס|rê·‘e·ḵā|your neighbor's|H7453|N-msc | 2ms
+v25 רֵעֶֽךָ׃|rê·‘e·ḵā|your neighbor's|H7453|N-msc | 2ms

@@ -101,7 +101,7 @@ v4 קִדְר֔וֹן|qiḏ·rō·wn|of Kidron|H6939|N-proper-fs
 v4 וְנָשָׂ֥א|wə·nā·śā|and carried|H5375|Conj-w | V-Qal-ConjPerf-3ms
 v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 עֲפָרָ֖ם|‘ă·p̄ā·rām|their ashes|H6083|N-msc | 3mp
-v4 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v4 בֵּֽית־|bêṯ-|...|H1008|Prep
 v4 אֵֽל׃|’êl|to Bethel|H1008|N-proper-fs
 v5 וְהִשְׁבִּ֣ית|wə·hiš·bîṯ|[Josiah] also did away with|H7673|Conj-w | V-Hifil-ConjPerf-3ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
@@ -176,7 +176,7 @@ v8 שָׁ֙מָּה֙|šām·māh|where|H8033|Adv | 3fs
 v8 הַכֹּ֣הֲנִ֔ים|hak·kō·hă·nîm|the priests|H3548|Art | N-mp
 v8 מִגֶּ֖בַע|mig·ge·ḇa‘|Geba|H1387|Prep-m | N-proper-fs
 v8 עַד־|‘aḏ-|to|H5704|Prep
-v8 בְּאֵ֣ר|bə·’êr|vvv|H884|Prep
+v8 בְּאֵ֣ר|bə·’êr|...|H884|Prep
 v8 שָׁ֑בַע|šā·ḇa‘|Beersheba|H884|N-proper-fs
 v8 וְנָתַ֞ץ|wə·nā·ṯaṣ|He tore down|H5422|Conj-w | V-Qal-ConjPerf-3ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
@@ -214,7 +214,7 @@ v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 הַתֹּ֔פֶת|hat·tō·p̄eṯ|Topheth|H8612|Art | N-proper-fs
 v10 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v10 בְּגֵ֣י|bə·ḡê|in the Valley|H1516|Prep-b | N-proper-fs
-v10 בְנֵי|ḇə·nē|vvv|H1121|N-mpc
+v10 בְנֵי|ḇə·nē|...|H1121|N-mpc
 v10 הִנֹּ֑ם|hin·nōm|of Ben-hinnom|H2011|N-proper
 v10 לְבִלְתִּ֗י|lə·ḇil·tî|so that no|H1115|Prep-l
 v10 לְהַעֲבִ֨יר|lə·ha·‘ă·ḇîr|could sacrifice|H5674|Prep-l | V-Hifil-Inf
@@ -238,7 +238,7 @@ v11 בֵית־|ḇêṯ-|to the house|H1004|N-msc
 v11 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v11 אֶל־|’el-|near|H413|Prep
 v11 לִשְׁכַּת֙|liš·kaṯ|the chamber|H3957|N-fsc
-v11 נְתַן־|nə·ṯan-|vvv|H5419|
+v11 נְתַן־|nə·ṯan-|...|H5419|
 v11 מֶ֣לֶךְ|me·leḵ|named Nathan-melech|H5419|N-proper
 v11 הַסָּרִ֔יס|has·sā·rîs|of an official|H5631|Art | N-ms
 v11 אֲשֶׁ֖ר|’ă·šer|They were|H834|Pro-r
@@ -284,7 +284,7 @@ v13 אֲשֶׁ֣ר׀|’ă·šer|-|H834|Pro-r
 v13 עַל־|‘al-|east|H5921|Prep
 v13 פְּנֵ֣י|pə·nê|of|H6440|N-cpc
 v13 יְרוּשָׁלִַ֗ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
-v13 אֲשֶׁר֮|’ă·šer||H834|Pro-r
+v13 אֲשֶׁר֮|’ă·šer|-|H834|Pro-r
 v13 מִימִ֣ין|mî·mîn|to the south|H3225|Prep-m | N-fsc
 v13 לְהַר־|lə·har-|of the Mount|H2022|Prep-l | N-msc
 v13 הַמַּשְׁחִית֒|ham·maš·ḥîṯ|of Corruption|H4889|Art | N-ms
@@ -320,17 +320,17 @@ v15 וְגַ֨ם|wə·ḡam|He even|H1571|Conj
 v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 הַמִּזְבֵּ֜חַ|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
 v15 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
-v15 בְּבֵֽית־|bə·ḇêṯ-||H1008|Prep
+v15 בְּבֵֽית־|bə·ḇêṯ-|-|H1008|Prep
 v15 אֵ֗ל|’êl|at Bethel|H1008|Prep | N-proper-fs
 v15 הַבָּמָה֙|hab·bā·māh|the high place|H1116|Art | N-fs
-v15 אֲשֶׁ֨ר|’ă·šer||H834|Pro-r
+v15 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v15 עָשָׂ֜ה|‘ā·śāh|set up|H6213|V-Qal-Perf-3ms
 v15 יָרָבְעָ֤ם|yā·rā·ḇə·‘ām|by Jeroboam|H3379|N-proper-ms
 v15 בֶּן־|ben-|son|H1121|N-msc
 v15 נְבָט֙|nə·ḇāṭ|of Nebat|H5028|N-proper-ms
 v15 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
 v15 הֶחֱטִ֣יא|he·ḥĕ·ṭî|to sin|H2398|V-Hifil-Perf-3ms
-v15 אֶת־|’eṯ-||H853|DirObjM
+v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 יִשְׂרָאֵ֔ל|yiś·rā·’êl|had caused Israel|H3478|N-proper-ms
 v15 גַּ֣ם|gam|-|H1571|Conj
 v15 אֶת־|’eṯ-|-|H853|DirObjM
@@ -351,7 +351,7 @@ v16 יֹאשִׁיָּ֗הוּ|yō·šî·yā·hū|And as Josiah|H2977|N-proper-
 v16 וַיַּ֨רְא|way·yar|he saw|H7200|Conj-w | V-Qal-ConsecImperf-3ms
 v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 הַקְּבָרִ֤ים|haq·qə·ḇā·rîm|the tombs|H6913|Art | N-mp
-v16 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v16 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v16 שָׁם֙|šām|there|H8033|Adv
 v16 בָּהָ֔ר|bā·hār|on the hillside|H2022|Prep-b, Art | N-ms
 v16 וַיִּשְׁלַ֗ח|way·yiš·laḥ|and he sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
@@ -379,7 +379,7 @@ v17 וַיֹּ֕אמֶר|way·yō·mer|Then [the king] asked|H559|Conj-w | V-Qal
 v17 מָ֚ה|māh|What|H4100|Interrog
 v17 הַצִּיּ֣וּן|haṣ·ṣî·yūn|monument|H6725|Art | N-ms
 v17 הַלָּ֔ז|hal·lāz|is this|H1975|Pro-ms
-v17 אֲשֶׁ֖ר|’ă·šer||H834|Pro-r
+v17 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v17 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v17 רֹאֶ֑ה|rō·’eh|see|H7200|V-Qal-Prtcpl-ms
 v17 וַיֹּאמְר֨וּ|way·yō·mə·rū|replied|H559|Conj-w | V-Qal-ConsecImperf-3mp
@@ -404,7 +404,7 @@ v17 בֵּֽית־|bêṯ-|of|H1008|Prep
 v17 אֵֽל׃|’êl|Bethel|H1008|N-proper-fs
 v18 וַיֹּ֙אמֶר֙|way·yō·mer|said [Josiah]|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v18 הַנִּ֣יחוּ|han·nî·ḥū|Let him rest|H5117|V-Hifil-Imp-mp
-v18 ל֔וֹ|lōw||H0|Prep | 3ms
+v18 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v18 אִ֖ישׁ|’îš|let anyone|H376|N-ms
 v18 אַל־|’al-|Do not|H408|Adv
 v18 יָנַ֣ע|yā·na‘|disturb|H5128|V-Hifil-Imperf.Jus-3ms
@@ -438,7 +438,7 @@ v19 כְּכָל־|kə·ḵāl-|...|H3605|Prep-k | N-msc
 v19 הַֽמַּעֲשִׂ֔ים|ham·ma·‘ă·śîm|...|H4639|Art | N-mp
 v19 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v19 עָשָׂ֖ה|‘ā·śāh|had done|H6213|V-Qal-Perf-3ms
-v19 בְּבֵֽית־|bə·ḇêṯ-|vvv|H1008|Prep
+v19 בְּבֵֽית־|bə·ḇêṯ-|...|H1008|Prep
 v19 אֵֽל׃|’êl|at Bethel|H1008|Prep | N-proper-fs
 v20 וַ֠יִּזְבַּח|way·yiz·baḥ|he slaughtered|H2076|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
@@ -553,7 +553,7 @@ v25 תּוֹרַ֣ת|tō·w·raṯ|the Law|H8451|N-fsc
 v25 מֹשֶׁ֑ה|mō·šeh|of Moses|H4872|N-proper-ms
 v25 וְאַחֲרָ֖יו|wə·’a·ḥă·rāw|after [Josiah]|H310|Conj-w | Prep | 3ms
 v25 לֹֽא־|lō-|nor|H3808|Adv-NegPrt
-v25 קָ֥ם|qām||H6965|V-Qal-Perf-3ms
+v25 קָ֥ם|qām|-|H6965|V-Qal-Perf-3ms
 v25 כָּמֹֽהוּ׃|kā·mō·hū|-|H3644|Prep | 3ms
 v26 אַ֣ךְ׀|’aḵ|Nevertheless|H389|Adv
 v26 לֹֽא־|lō-|did not|H3808|Adv-NegPrt
@@ -654,7 +654,7 @@ v30 אֹת֛וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v30 וַיַּמְלִ֥יכוּ|way·yam·lî·ḵū|and made him king|H4427|Conj-w | V-Hifil-ConsecImperf-3mp
 v30 אֹת֖וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v30 תַּ֥חַת|ta·ḥaṯ|in place of|H8478|Prep
-v30 אָבִֽיו׃פ|’ā·ḇîw|his father|H1|N-msc | 3ms
+v30 אָבִֽיו׃|’ā·ḇîw|his father|H1|N-msc | 3ms
 v31 בֶּן־|ben-|years old|H1121|N-msc
 v31 עֶשְׂרִ֨ים|‘eś·rîm|was twenty-three|H6242|Number-cp
 v31 וְשָׁלֹ֤שׁ|wə·šā·lōš|...|H7969|Conj-w | Number-fs
@@ -744,7 +744,7 @@ v35 עַ֣ם|‘am|from the people|H5971|N-msc
 v35 הָאָ֔רֶץ|hā·’ā·reṣ|...|H776|Art | N-fs
 v35 לָתֵ֖ת|lā·ṯêṯ|-|H5414|Prep-l | V-Qal-Inf
 v35 לְפַרְעֹ֥ה|lə·p̄ar·‘ōh|-|H6547|Prep-l | N-proper-ms
-v35 נְכֹֽה׃ס|nə·ḵōh|-|H5224|N-proper-ms
+v35 נְכֹֽה׃|nə·ḵōh|-|H5224|N-proper-ms
 v36 בֶּן־|ben-|years old|H1121|N-msc
 v36 עֶשְׂרִ֨ים|‘eś·rîm|was twenty-five|H6242|Number-cp
 v36 וְחָמֵ֤שׁ|wə·ḥā·mêš|...|H2568|Conj-w | Number-fs

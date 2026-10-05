@@ -18,7 +18,7 @@ v2 פָּנֶ֨יךָ׀|pā·ne·ḵā|Your face|H6440|N-cpc | 2ms
 v2 מִמֶּנִּי֮|mim·men·nî|from me|H4480|Prep | 1cs
 v2 בְּי֪וֹם|bə·yō·wm|in my day|H3117|Prep-b | N-ms
 v2 צַ֫ר|ṣar|of distress|H6887|V-Qal-Perf-3ms
-v2 לִ֥י|lî||H0|Prep | 1cs
+v2 לִ֥י|lî|-|H0|Prep | 1cs
 v2 הַטֵּֽה־|haṭ·ṭêh-|Incline|H5186|V-Hifil-Imp-ms
 v2 אֵלַ֥י|’ê·lay|to me|H413|Prep | 1cs
 v2 אָזְנֶ֑ךָ|’ā·zə·ne·ḵā|Your ear|H241|N-fsc | 2ms

@@ -11,10 +11,10 @@ v1 Κυρίου|Kyriou|Lord|G2962|N-GMS
 v1 ἡμῶν|hēmōn|our|G1473|PPro-G1P
 v1 Ἰησοῦ|Iēsou|Jesus|G2424|N-GMS
 v1 Χριστοῦ|Christou|Christ|G5547|N-GMS
-v1 τῆς|tēs|vvv|G3588|Art-GFS
+v1 τῆς|tēs|...|G3588|Art-GFS
 v1 δόξης|doxēs|glorious|G1391|N-GFS
 v2 Ἐὰν|Ean|Suppose|G1437|Conj
-v2 γὰρ|gar|vvv|G1063|Conj
+v2 γὰρ|gar|...|G1063|Conj
 v2 εἰσέλθῃ|eiselthē|comes|G1525|V-ASA-3S
 v2 εἰς|eis|into|G1519|Prep
 v2 συναγωγὴν|synagōgēn|meeting|G4864|N-AFS
@@ -52,7 +52,7 @@ v3 πτωχῷ|ptōchō|poor [man]|G4434|Adj-DMS
 v3 εἴπητε|eipēte|say|G2036|V-ASA-2P
 v3 Σὺ|Sy|You|G4771|PPro-N2S
 v3 στῆθι|stēthi|must stand|G2476|V-AMA-2S
-v3 ἐκεῖ|ekei|vvv|G1563|Adv
+v3 ἐκεῖ|ekei|...|G1563|Adv
 v3 «ἢ|ē|or|G2228|Conj
 v3 Κάθου»|Kathou|Sit|G2521|V-PMM/P-2S
 v3 ὑπὸ|hypo|at|G5259|Prep
@@ -60,7 +60,7 @@ v3 τὸ|to|-|G3588|Art-ANS
 v3 ὑποπόδιόν|hypopodion|feet|G5286|N-ANS
 v3 μου|mou|my|G1473|PPro-G1S
 v4 [καὶ]|kai|-|G2532|Conj
-v4 οὐ|ou|vvv|G3756|Adv
+v4 οὐ|ou|...|G3756|Adv
 v4 διεκρίθητε|diekrithēte|have you not discriminated|G1252|V-AIP-2P
 v4 ἐν|en|among|G1722|Prep
 v4 ἑαυτοῖς|heautois|yourselves|G1438|RefPro-DM3P
@@ -120,7 +120,7 @@ v7 ἐπικληθὲν|epiklēthen|have been called|G1941|V-APP-ANS
 v7 ἐφ’|eph’|by which|G1909|Prep
 v7 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v8 Εἰ|Ei|If|G1487|Conj
-v8 μέντοι|mentoi|vvv|G3305|Conj
+v8 μέντοι|mentoi|...|G3305|Conj
 v8 νόμον|nomon|law|G3551|N-AMS
 v8 τελεῖτε|teleite|you really fulfill|G5055|V-PIA-2P
 v8 βασιλικὸν|basilikon|[the] royal|G937|Adj-AMS
@@ -162,20 +162,20 @@ v10 ἔνοχος|enochos|guilty|G1777|Adj-NMS
 v11 ὁ|ho|He who|G3588|Art-NMS
 v11 γὰρ|gar|For|G1063|Conj
 v11 εἰπών|eipōn|said|G2036|V-APA-NMS
-v11 Μὴ|Mē|vvv|G3361|Adv
+v11 Μὴ|Mē|...|G3361|Adv
 v11 μοιχεύσῃς|moicheusēs|Do not commit adultery|G3431|V-ASA-2S
 v11 εἶπεν|eipen|said|G2036|V-AIA-3S
 v11 καί|kai|also|G2532|Conj
-v11 Μὴ|Mē|vvv|G3361|Adv
+v11 Μὴ|Mē|...|G3361|Adv
 v11 φονεύσῃς|phoneusēs|Do not murder|G5407|V-ASA-2S
 v11 εἰ|ei|If|G1487|Conj
 v11 δὲ|de|-|G1161|Conj
-v11 οὐ|ou|vvv|G3756|Adv
+v11 οὐ|ou|...|G3756|Adv
 v11 μοιχεύεις|moicheueis|you do not commit adultery|G3431|V-PIA-2S
 v11 φονεύεις|phoneueis|do commit murder|G5407|V-PIA-2S
 v11 δέ|de|but|G1161|Conj
 v11 γέγονας|gegonas|you have become|G1096|V-RIA-2S
-v11 παραβάτης|parabatēs|vvv|G3848|N-NMS
+v11 παραβάτης|parabatēs|...|G3848|N-NMS
 v11 νόμου|nomou|a lawbreaker|G3551|N-GMS
 v12 Οὕτως|Houtōs|-|G3779|Adv
 v12 λαλεῖτε|laleite|Speak|G2980|V-PMA-2P
@@ -193,7 +193,7 @@ v13 γὰρ|gar|For|G1063|Conj
 v13 κρίσις|krisis|judgment|G2920|N-NFS
 v13 ἀνέλεος|aneleos|without mercy [ will be shown to ]|G448|Adj-NFS
 v13 τῷ|tō|anyone who|G3588|Art-DMS
-v13 μὴ|mē|vvv|G3361|Adv
+v13 μὴ|mē|...|G3361|Adv
 v13 ποιήσαντι|poiēsanti|has not been merciful|G4160|V-APA-DMS
 v13 ἔλεος|eleos|...|G1656|N-ANS
 v13 κατακαυχᾶται|katakauchatai|triumphs over|G2620|V-PIM/P-3S
@@ -213,7 +213,7 @@ v14 ἔργα|erga|deeds|G2041|N-ANP
 v14 δὲ|de|but|G1161|Conj
 v14 μὴ|mē|no|G3361|Adv
 v14 ἔχῃ|echē|has|G2192|V-PSA-3S
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 δύναται|dynatai|Can|G1410|V-PIM/P-3S
 v14 ἡ|hē|such|G3588|Art-NFS
 v14 πίστις|pistis|faith|G4102|N-NFS
@@ -383,7 +383,7 @@ v24 ἐκ|ek|by|G1537|Prep
 v24 πίστεως|pisteōs|faith|G4102|N-GFS
 v24 μόνον|monon|alone|G3440|Adv
 v25 Ὁμοίως|Homoiōs|In the same way|G3668|Adv
-v25 δὲ|de|vvv|G1161|Conj
+v25 δὲ|de|...|G1161|Conj
 v25 καὶ|kai|even|G2532|Conj
 v25 Ῥαὰβ|Rhaab|Rahab|G4460|N-NFS
 v25 ἡ|hē|the|G3588|Art-NFS

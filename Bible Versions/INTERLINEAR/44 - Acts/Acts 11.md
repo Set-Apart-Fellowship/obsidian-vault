@@ -6,7 +6,7 @@ v1 καὶ|kai|and|G2532|Conj
 v1 οἱ|hoi|-|G3588|Art-NMP
 v1 ἀδελφοὶ|adelphoi|brothers|G80|N-NMP
 v1 οἱ|hoi|-|G3588|Art-NMP
-v1 ὄντες|ontes|vvv|G1510|V-PPA-NMP
+v1 ὄντες|ontes|...|G1510|V-PPA-NMP
 v1 κατὰ|kata|throughout|G2596|Prep
 v1 τὴν|tēn|-|G3588|Art-AFS
 v1 Ἰουδαίαν|Ioudaian|Judea|G2449|N-AFS
@@ -28,8 +28,8 @@ v2 Ἰερουσαλήμ|Ierousalēm|Jerusalem|G2419|N-AFS
 v2 διεκρίνοντο|diekrinonto|took issue|G1252|V-IIM-3P
 v2 πρὸς|pros|with|G4314|Prep
 v2 αὐτὸν|auton|him|G846|PPro-AM3S
-v2 οἱ|hoi|vvv|G3588|Art-NMP
-v2 ἐκ|ek|vvv|G1537|Prep
+v2 οἱ|hoi|...|G3588|Art-NMP
+v2 ἐκ|ek|...|G1537|Prep
 v2 περιτομῆς|peritomēs|[the] circumcised [believers]|G4061|N-GFS
 v3 λέγοντες|legontes|[and] said|G3004|V-PPA-NMP
 v3 ὅτι|hoti|-|G3754|Conj
@@ -37,7 +37,7 @@ v3 Εἰσῆλθες|Eisēlthes|You visited|G1525|V-AIA-2S
 v3 πρὸς|pros|...|G4314|Prep
 v3 ἄνδρας|andras|men|G435|N-AMP
 v3 ἀκροβυστίαν|akrobystian|uncircumcised|G203|N-AFS
-v3 ἔχοντας|echontas|vvv|G2192|V-PPA-AMP
+v3 ἔχοντας|echontas|...|G2192|V-PPA-AMP
 v3 καὶ|kai|and|G2532|Conj
 v3 συνέφαγες|synephages|ate with|G4906|V-AIA-2S
 v3 αὐτοῖς|autois|them|G846|PPro-DM3P
@@ -59,7 +59,7 @@ v5 εἶδον|eidon|I saw|G3708|V-AIA-1S
 v5 ἐν|en|in|G1722|Prep
 v5 ἐκστάσει|ekstasei|a trance|G1611|N-DFS
 v5 ὅραμα|horama|a vision|G3705|N-ANS
-v5 καταβαῖνον|katabainon|vvv|G2597|V-PPA-ANS
+v5 καταβαῖνον|katabainon|...|G2597|V-PPA-ANS
 v5 σκεῦός|skeuos|...|G4632|N-ANS
 v5 τι|ti|[of] something|G5100|IPro-ANS
 v5 ὡς|hōs|like|G5613|Adv
@@ -134,7 +134,7 @@ v9 ὁ|ho|-|G3588|Art-NMS
 v9 Θεὸς|Theos|God|G2316|N-NMS
 v9 ἐκαθάρισεν|ekatharisen|has made clean|G2511|V-AIA-3S
 v9 σὺ|sy|-|G4771|PPro-N2S
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 κοίνου|koinou|Do not call anything impure|G2840|V-PMA-2S
 v10 Τοῦτο|Touto|This|G3778|DPro-NNS
 v10 δὲ|de|-|G1161|Conj
@@ -157,7 +157,7 @@ v11 ἐπέστησαν|epestēsan|stopped|G2186|V-AIA-3P
 v11 ἐπὶ|epi|at|G1909|Prep
 v11 τὴν|tēn|the|G3588|Art-AFS
 v11 οἰκίαν|oikian|house|G3614|N-AFS
-v11 ἐν|en|vvv|G1722|Prep
+v11 ἐν|en|...|G1722|Prep
 v11 ᾗ|hē|[where]|G3739|RelPro-DFS
 v11 ἦμεν|ēmen|I was [staying]|G1510|V-IIA-1P
 v11 ἀπεσταλμένοι|apestalmenoi|sent|G649|V-RPM/P-NMP

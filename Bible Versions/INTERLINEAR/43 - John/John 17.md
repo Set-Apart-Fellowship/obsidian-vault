@@ -149,7 +149,7 @@ v9 Ἐγὼ|Egō|I|G1473|PPro-N1S
 v9 περὶ|peri|on|G4012|Prep
 v9 αὐτῶν|autōn|their behalf|G846|PPro-GM3P
 v9 ἐρωτῶ|erōtō|ask|G2065|V-PIA-1S
-v9 οὐ|ou|vvv|G3756|Adv
+v9 οὐ|ou|...|G3756|Adv
 v9 περὶ|peri|on behalf of|G4012|Prep
 v9 τοῦ|tou|the|G3588|Art-GMS
 v9 κόσμου|kosmou|world|G2889|N-GMS
@@ -283,7 +283,7 @@ v14 εἰμὶ|eimi|am|G1510|V-PIA-1S
 v14 ἐκ|ek|of|G1537|Prep
 v14 τοῦ|tou|the|G3588|Art-GMS
 v14 κόσμου|kosmou|world|G2889|N-GMS
-v15 Οὐκ|Ouk|vvv|G3756|Adv
+v15 Οὐκ|Ouk|...|G3756|Adv
 v15 ἐρωτῶ|erōtō|I am not asking|G2065|V-PIA-1S
 v15 ἵνα|hina|that|G2443|Conj
 v15 ἄρῃς|arēs|You take|G142|V-ASA-2S
@@ -346,7 +346,7 @@ v19 αὐτοὶ|autoi|they|G846|PPro-NM3P
 v19 ἡγιασμένοι|hēgiasmenoi|sanctified|G37|V-RPM/P-NMP
 v19 ἐν|en|by|G1722|Prep
 v19 ἀληθείᾳ|alētheia|[the] truth|G225|N-DFS
-v20 Οὐ|Ou|vvv|G3756|Adv
+v20 Οὐ|Ou|...|G3756|Adv
 v20 περὶ|peri|on behalf|G4012|Prep
 v20 τούτων|toutōn|of them|G3778|DPro-GMP
 v20 δὲ|de|-|G1161|Conj

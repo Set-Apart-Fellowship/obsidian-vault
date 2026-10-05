@@ -63,7 +63,7 @@ v5 יָרֵ֔עוּ|yā·rê·‘ū|harm|H7489|V-Hifil-Imperf-3mp
 v5 וְגַם־|wə·ḡam-|and|H1571|Conj
 v5 הֵיטֵ֖יב|hê·ṭêḇ|do any good|H3190|V-Hifil-InfAbs
 v5 אֵ֥ין|’ên|neither can they|H369|Adv
-v5 אוֹתָֽם׃ס|’ō·w·ṯām|...|H854|Prep | 3mp
+v5 אוֹתָֽם׃|’ō·w·ṯām|...|H854|Prep | 3mp
 v6 מֵאֵ֥ין|mê·’ên|There is none|H369|Prep-m | Adv
 v6 כָּמ֖וֹךָ|kā·mō·w·ḵā|like You|H3644|Prep | 2ms
 v6 יְהוָ֑ה|Yah·weh|O LORD|H3068|N-proper-ms
@@ -77,8 +77,8 @@ v7 לֹ֤א|lō|would not|H3808|Adv-NegPrt
 v7 יִֽרָאֲךָ֙|yi·rā·’ă·ḵā|fear You|H3372|V-Qal-Imperf-3ms | 2ms
 v7 מֶ֣לֶךְ|me·leḵ|O King|H4428|N-msc
 v7 הַגּוֹיִ֔ם|hag·gō·w·yim|of nations|H1471|Art | N-mp
-v7 כִּ֥י|kî||H3588|Conj
-v7 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v7 כִּ֥י|kî|-|H3588|Conj
+v7 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v7 יָאָ֑תָה|yā·’ā·ṯāh|This is Your due|H2969|V-Qal-Perf-3fs
 v7 כִּ֣י|kî|For|H3588|Conj
 v7 בְכָל־|ḇə·ḵāl-|among all|H3605|Prep-b | N-msc
@@ -125,7 +125,7 @@ v10 הָאָ֔רֶץ|hā·’ā·reṣ|The earth|H776|Art | N-fs
 v10 וְלֹֽא־|wə·lō-|cannot|H3808|Conj-w | Adv-NegPrt
 v10 יָכִ֥לוּ|yā·ḵi·lū|endure|H3557|V-Hifil-Imperf-3mp
 v10 גוֹיִ֖ם|ḡō·w·yim|and the nations|H1471|N-mp
-v10 זַעְמֽוֹ׃ס|za‘·mōw|His indignation|H2195|N-msc | 3ms
+v10 זַעְמֽוֹ׃|za‘·mōw|His indignation|H2195|N-msc | 3ms
 v11 כִּדְנָה֙|kiḏ·nāh|Thus|H1836|Prep-k | Pro-ms
 v11 תֵּאמְר֣וּן|tê·mə·rūn|you are to tell|H560|V-Qal-Imperf-2mp
 v11 לְה֔וֹם|lə·hō·wm|them|H0|Prep | 3mp
@@ -140,7 +140,7 @@ v11 מֵֽאַרְעָ֛א|mê·’ar·‘ā|from this earth|H772|Prep-m | N-fsd
 v11 וּמִן־|ū·min-|and from|H4481|Conj-w | Prep
 v11 תְּח֥וֹת|tə·ḥō·wṯ|under|H8460|Prep
 v11 שְׁמַיָּ֖א|šə·may·yā|heavens|H8065|N-mpd
-v11 אֵֽלֶּה׃ס|’êl·leh|these|H429|Pro-3cp
+v11 אֵֽלֶּה׃|’êl·leh|these|H429|Pro-3cp
 v12 עֹשֵׂ֥ה|‘ō·śêh|[The LORD] made|H6213|V-Qal-Prtcpl-msc
 v12 אֶ֙רֶץ֙|’e·reṣ|the earth|H776|N-fs
 v12 בְּכֹח֔וֹ|bə·ḵō·ḥōw|by His power|H3581|Prep-b | N-msc | 3ms
@@ -199,12 +199,12 @@ v16 שֵׁ֖בֶט|šê·ḇeṭ|the tribe|H7626|N-msc
 v16 נַֽחֲלָת֑וֹ|na·ḥă·lā·ṯōw|of His inheritance|H5159|N-fsc | 3ms
 v16 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v16 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
-v16 שְׁמֽוֹ׃ס|šə·mōw|is His name|H8034|N-msc | 3ms
+v16 שְׁמֽוֹ׃|šə·mōw|is His name|H8034|N-msc | 3ms
 v17 אִסְפִּ֥י|’is·pî|Gather up|H622|V-Qal-Imp-fs
 v17 מֵאֶ֖רֶץ|mê·’e·reṣ|from this land|H776|Prep-m | N-fsc
 v17 כִּנְעָתֵ֑ךְ|kin·‘ā·ṯêḵ|your belongings|H3666|N-fsc | 2fs
 v17 יֹשַׁבְתִּי|yō·šaḇ·tī|you who live|H3427|V-Qal-Prtcpl-fs
-v17 בַּמָּצֽוֹר׃ס|bam·mā·ṣō·wr|under siege|H4692|Prep-b, Art | N-ms
+v17 בַּמָּצֽוֹר׃|bam·mā·ṣō·wr|under siege|H4692|Prep-b, Art | N-ms
 v18 כִּֽי־|kî-|For|H3588|Conj
 v18 כֹה֙|ḵōh|this is what|H3541|Adv
 v18 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -219,7 +219,7 @@ v18 הַזֹּ֑את|haz·zōṯ|at this|H2063|Art | Pro-fs
 v18 וַהֲצֵר֥וֹתִי|wa·hă·ṣê·rō·w·ṯî|and bring distress|H6887|Conj-w | V-Hifil-ConjPerf-1cs
 v18 לָהֶ֖ם|lā·hem|upon them|H0|Prep-l | Pro-3mp
 v18 לְמַ֥עַן|lə·ma·‘an|so that they|H4616|Conj
-v18 יִמְצָֽאוּ׃ס|yim·ṣā·’ū|may be captured|H4672|V-Qal-Imperf-3mp
+v18 יִמְצָֽאוּ׃|yim·ṣā·’ū|may be captured|H4672|V-Qal-Imperf-3mp
 v19 א֥וֹי|’ō·w|Woe|H188|Interjection
 v19 לִי֙|lî|to me|H0|Prep | 1cs
 v19 עַל־|‘al-|because of|H5921|Prep
@@ -259,7 +259,7 @@ v21 לֹ֣א|lō|they have not|H3808|Adv-NegPrt
 v21 הִשְׂכִּ֔ילוּ|hiś·kî·lū|prospered|H7919|V-Hifil-Perf-3cp
 v21 וְכָל־|wə·ḵāl|and all their|H3605|Conj-w | N-msc
 v21 מַרְעִיתָ֖ם|mar·‘î·ṯām|flock|H4830|N-fsc | 3mp
-v21 נָפֽוֹצָה׃ס|nā·p̄ō·w·ṣāh|is scattered|H6327|V-Nifal-Perf-3fs
+v21 נָפֽוֹצָה׃|nā·p̄ō·w·ṣāh|is scattered|H6327|V-Nifal-Perf-3fs
 v22 ק֤וֹל|qō·wl|The sound|H6963|N-msc
 v22 שְׁמוּעָה֙|šə·mū·‘āh|of a report|H8052|N-fs
 v22 הִנֵּ֣ה|hin·nêh|Listen|H2009|Interjection
@@ -274,7 +274,7 @@ v22 עָרֵ֧י|‘ā·rê|the cities|H5892|N-fpc
 v22 יְהוּדָ֛ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v22 שְׁמָמָ֖ה|šə·mā·māh|a desolation|H8077|N-fs
 v22 מְע֥וֹן|mə·‘ō·wn|a haunt|H4583|N-msc
-v22 תַּנִּֽים׃ס|tan·nîm|for jackals|H8577|N-cp
+v22 תַּנִּֽים׃|tan·nîm|for jackals|H8577|N-cp
 v23 יָדַ֣עְתִּי|yā·ḏa‘·tî|I know|H3045|V-Qal-Perf-1cs
 v23 יְהוָ֔ה|Yah·weh|O LORD|H3068|N-proper-ms
 v23 כִּ֛י|kî|that|H3588|Conj
@@ -316,4 +316,4 @@ v25 וַאֲכָלֻ֙הוּ֙|wa·’ă·ḵā·lu·hū|they have consumed him
 v25 וַיְכַלֻּ֔הוּ|way·ḵal·lu·hū|and finished him off|H3615|Conj-w | V-Piel-ConsecImperf-3mp | 3ms
 v25 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v25 נָוֵ֖הוּ|nā·wê·hū|his homeland|H5116|N-msc | 3ms
-v25 הֵשַֽׁמּוּ׃פ|hê·šam·mū|they have devastated|H8074|V-Hifil-Perf-3cp
+v25 הֵשַֽׁמּוּ׃|hê·šam·mū|they have devastated|H8074|V-Hifil-Perf-3cp

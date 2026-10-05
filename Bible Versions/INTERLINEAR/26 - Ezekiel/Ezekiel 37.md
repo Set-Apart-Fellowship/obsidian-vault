@@ -140,7 +140,7 @@ v10 רַגְלֵיהֶ֔ם|raḡ·lê·hem|their feet|H7272|N-fdc | 3mp
 v10 חַ֖יִל|ḥa·yil|army|H2428|N-ms
 v10 גָּד֥וֹל|gā·ḏō·wl|a vast|H1419|Adj-ms
 v10 מְאֹד־|mə·’ōḏ-|...|H3966|Adv
-v10 מְאֹֽד׃ס|mə·’ōḏ|...|H3966|Adv
+v10 מְאֹֽד׃|mə·’ōḏ|...|H3966|Adv
 v11 וַיֹּאמֶר֮|way·yō·mer|Then He said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 אֵלַי֒|’ê·lay|to me|H413|Prep | 1cs
 v11 בֶּן־|ben-|Son|H1121|N-msc
@@ -158,7 +158,7 @@ v11 עַצְמוֹתֵ֛ינוּ|‘aṣ·mō·w·ṯê·nū|Our bones|H6106|N-f
 v11 וְאָבְדָ֥ה|wə·’ā·ḇə·ḏāh|has perished|H6|Conj-w | V-Qal-ConjPerf-3fs
 v11 תִקְוָתֵ֖נוּ|ṯiq·wā·ṯê·nū|and our hope|H8615|N-fsc | 1cp
 v11 נִגְזַ֥רְנוּ|niḡ·zar·nū|we are cut off|H1504|V-Nifal-Perf-1cp
-v11 לָֽנוּ׃|lā·nū||H0|Prep | 1cp
+v11 לָֽנוּ׃|lā·nū|-|H0|Prep | 1cp
 v12 לָכֵן֩|lā·ḵên|Therefore|H3651|Adv
 v12 הִנָּבֵ֨א|hin·nā·ḇê|prophesy|H5012|V-Nifal-Imp-ms
 v12 וְאָמַרְתָּ֜|wə·’ā·mar·tā|and tell|H559|Conj-w | V-Qal-ConjPerf-2ms
@@ -180,7 +180,7 @@ v12 וְהֵבֵאתִ֥י|wə·hê·ḇê·ṯî|and I will bring you back|H935
 v12 אֶתְכֶ֖ם|’eṯ·ḵem|-|H853|DirObjM | 2mp
 v12 אֶל־|’el-|to|H413|Prep
 v12 אַדְמַ֥ת|’aḏ·maṯ|the land|H127|N-fsc
-v12 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v12 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v13 וִֽידַעְתֶּ֖ם|wî·ḏa‘·tem|will know|H3045|Conj-w | V-Qal-ConjPerf-2mp
 v13 כִּֽי־|kî-|that|H3588|Conj
 v13 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
@@ -207,7 +207,7 @@ v14 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v14 דִּבַּ֥רְתִּי|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
 v14 וְעָשִׂ֖יתִי|wə·‘ā·śî·ṯî|and I will do it|H6213|Conj-w | V-Qal-ConjPerf-1cs
 v14 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v14 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v14 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v15 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v15 דְבַר־|ḏə·ḇar-|Again the word|H1697|N-msc
 v15 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -217,7 +217,7 @@ v16 וְאַתָּ֣ה|wə·’at·tāh|And you|H859|Conj-w | Pro-2ms
 v16 בֶן־|ḇen-|son|H1121|N-msc
 v16 אָדָ֗ם|’ā·ḏām|of man|H120|N-ms
 v16 קַח־|qaḥ-|take|H3947|V-Qal-Imp-ms
-v16 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v16 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v16 עֵ֣ץ|‘êṣ|stick|H6086|N-ms
 v16 אֶחָ֔ד|’e·ḥāḏ|a single|H259|Number-ms
 v16 וּכְתֹ֤ב|ū·ḵə·ṯōḇ|and write|H3789|Conj-w | V-Qal-Imp-ms
@@ -243,7 +243,7 @@ v17 אֹתָ֜ם|’ō·ṯām|them|H853|DirObjM | 3mp
 v17 אֶחָ֧ד|’e·ḥāḏ|together|H259|Number-ms
 v17 אֶל־|’el-|...|H413|Prep
 v17 אֶחָ֛ד|’e·ḥāḏ|...|H259|Number-ms
-v17 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v17 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v17 לְעֵ֣ץ|lə·‘êṣ|stick|H6086|Prep-l | N-ms
 v17 אֶחָ֑ד|’e·ḥāḏ|into one|H259|Number-ms
 v17 וְהָי֥וּ|wə·hā·yū|so that they become|H1961|Conj-w | V-Qal-ConjPerf-3cp
@@ -295,7 +295,7 @@ v20 וְהָי֨וּ|wə·hā·yū|are|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v20 הָעֵצִ֜ים|hā·‘ê·ṣîm|When the sticks|H6086|Art | N-mp
 v20 אֲ|’ăšer-|on which|H834|Pro-r
 v20 תִּכְתֹּ֧ב|tiḵ·tōḇ|you write|H3789|V-Qal-Imperf-2ms
-v20 עֲלֵיהֶ֛ם|‘ă·lê·hem||H5921|Prep | 3mp
+v20 עֲלֵיהֶ֛ם|‘ă·lê·hem|-|H5921|Prep | 3mp
 v20 בְּיָדְךָ֖|bə·yā·ḏə·ḵā|in your hand|H3027|Prep-b | N-fsc | 2ms
 v20 לְעֵינֵיהֶֽם׃|lə·‘ê·nê·hem|and in full view of the people|H5869|Prep-l | N-cdc | 3mp
 v21 וְדַבֵּ֣ר|wə·ḏab·bêr|you are to tell|H1696|Conj-w | V-Piel-Imp-ms
@@ -358,7 +358,7 @@ v23 מִכֹּ֤ל|mik·kōl|from all|H3605|Prep-m | N-msc
 v23 מוֹשְׁבֹֽתֵיהֶם֙|mō·wō·šə·ḇō·ṯê·hem|their apostasies|H4186|N-mpc | 3mp
 v23 אֲשֶׁ֣ר|’ă·šer|by which|H834|Pro-r
 v23 חָטְא֣וּ|ḥā·ṭə·’ū|they sinned|H2398|V-Qal-Perf-3cp
-v23 בָהֶ֔ם|ḇā·hem||H0|Prep | 3mp
+v23 בָהֶ֔ם|ḇā·hem|-|H0|Prep | 3mp
 v23 וְטִהַרְתִּ֤י|wə·ṭi·har·tî|and I will cleanse them|H2891|Conj-w | V-Piel-ConjPerf-1cs
 v23 אוֹתָם֙|’ō·w·ṯām|-|H853|DirObjM | 3mp
 v23 וְהָיוּ־|wə·hā·yū-|Then they will be|H1961|Conj-w | V-Qal-ConjPerf-3cp
@@ -391,7 +391,7 @@ v25 לְעַבְדִּ֣י|lə·‘aḇ·dî|to My servant|H5650|Prep-l | N-msc 
 v25 לְיַֽעֲקֹ֔ב|lə·ya·‘ă·qōḇ|Jacob|H3290|Prep-l | N-proper-ms
 v25 אֲשֶׁ֥ר|’ă·šer|where|H834|Pro-r
 v25 יָֽשְׁבוּ־|yā·šə·ḇū-|lived|H3427|V-Qal-Perf-3cp
-v25 בָ֖הּ|ḇāh||H0|Prep | 3fs
+v25 בָ֖הּ|ḇāh|-|H0|Prep | 3fs
 v25 אֲבֽוֹתֵיכֶ֑ם|’ă·ḇō·w·ṯê·ḵem|your fathers|H1|N-mpc | 2mp
 v25 וְיָשְׁב֣וּ|wə·yā·šə·ḇū|They will live|H3427|Conj-w | V-Qal-ConjPerf-3cp
 v25 עָלֶ֡יהָ|‘ā·le·hā|there|H5921|Prep | 3fs
@@ -404,7 +404,7 @@ v25 עוֹלָ֔ם|‘ō·w·lām|...|H5769|N-ms
 v25 וְדָוִ֣ד|wə·ḏā·wiḏ|David|H1732|Conj-w | N-proper-ms
 v25 עַבְדִּ֔י|‘aḇ·dî|and My servant|H5650|N-msc | 1cs
 v25 נָשִׂ֥יא|nā·śî|will be their prince|H5387|N-ms
-v25 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v25 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v25 לְעוֹלָֽם׃|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
 v26 וְכָרַתִּ֤י|wə·ḵā·rat·tî|And I will make|H3772|Conj-w | V-Qal-ConjPerf-1cs
 v26 לָהֶם֙|lā·hem|with them|H0|Prep | 3mp
@@ -443,4 +443,4 @@ v28 יִשְׂרָאֵ֑ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v28 בִּהְי֧וֹת|bih·yō·wṯ|is|H1961|Prep-b | V-Qal-Inf
 v28 מִקְדָּשִׁ֛י|miq·dā·šî|when My sanctuary|H4720|N-msc | 1cs
 v28 בְּתוֹכָ֖ם|bə·ṯō·w·ḵām|among them|H8432|Prep-b | N-msc | 3mp
-v28 לְעוֹלָֽם׃ס|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms
+v28 לְעוֹלָֽם׃|lə·‘ō·w·lām|forever|H5769|Prep-l | N-ms

@@ -261,7 +261,7 @@ v16 ἔγνωσαν|egnōsan|understand|G1097|V-AIA-3P
 v16 αὐτοῦ|autou|His|G846|PPro-GM3S
 v16 οἱ|hoi|-|G3588|Art-NMP
 v16 μαθηταὶ|mathētai|disciples|G3101|N-NMP
-v16 τὸ|to|vvv|G3588|Art-ANS
+v16 τὸ|to|...|G3588|Art-ANS
 v16 πρῶτον|prōton|At first|G4413|Adj-ANS
 v16 ἀλλ’|all’|but|G235|Conj
 v16 ὅτε|hote|after|G3753|Adv
@@ -575,8 +575,8 @@ v34 ὅτι|hoti|that|G3754|Conj
 v34 ὁ|ho|the|G3588|Art-NMS
 v34 Χριστὸς|Christos|Christ|G5547|N-NMS
 v34 μένει|menei|will remain|G3306|V-PIA-3S
-v34 εἰς|eis|vvv|G1519|Prep
-v34 τὸν|ton|vvv|G3588|Art-AMS
+v34 εἰς|eis|...|G1519|Prep
+v34 τὸν|ton|...|G3588|Art-AMS
 v34 αἰῶνα|aiōna|forever|G165|N-AMS
 v34 καὶ|kai|[So]|G2532|Conj
 v34 πῶς|pōs|how|G4459|Adv
@@ -615,7 +615,7 @@ v35 τὸ|to|the|G3588|Art-ANS
 v35 φῶς|phōs|Light|G5457|N-ANS
 v35 ἔχετε|echete|you have|G2192|V-PIA-2P
 v35 ἵνα|hina|so that|G2443|Conj
-v35 μὴ|mē|vvv|G3361|Adv
+v35 μὴ|mē|...|G3361|Adv
 v35 σκοτία|skotia|darkness|G4653|N-NFS
 v35 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v35 καταλάβῃ|katalabē|will not overtake|G2638|V-ASA-3S
@@ -656,7 +656,7 @@ v37 σημεῖα|sēmeia|signs|G4592|N-ANP
 v37 πεποιηκότος|pepoiēkotos|had performed|G4160|V-RPA-GMS
 v37 ἔμπροσθεν|emprosthen|in their presence|G1715|Prep
 v37 αὐτῶν|autōn|...|G846|PPro-GM3P
-v37 οὐκ|ouk|vvv|G3756|Adv
+v37 οὐκ|ouk|...|G3756|Adv
 v37 ἐπίστευον|episteuon|they still did not believe|G4100|V-IIA-3P
 v37 εἰς|eis|in|G1519|Prep
 v37 αὐτόν|auton|Him|G846|PPro-AM3S
@@ -700,7 +700,7 @@ v40 αὐτῶν|autōn|their|G846|PPro-GM3P
 v40 τὴν|tēn|-|G3588|Art-AFS
 v40 καρδίαν|kardian|hearts|G2588|N-AFS
 v40 ἵνα|hina|so that|G2443|Conj
-v40 μὴ|mē|vvv|G3361|Adv
+v40 μὴ|mē|...|G3361|Adv
 v40 ἴδωσιν|idōsin|they cannot see|G3708|V-ASA-3P
 v40 τοῖς|tois|with [their]|G3588|Art-DMP
 v40 ὀφθαλμοῖς|ophthalmois|eyes|G3788|N-DMP
@@ -739,7 +739,7 @@ v42 ἀλλὰ|alla|But|G235|Conj
 v42 διὰ|dia|because of|G1223|Prep
 v42 τοὺς|tous|the|G3588|Art-AMP
 v42 Φαρισαίους|Pharisaious|Pharisees|G5330|N-AMP
-v42 οὐχ|ouch|vvv|G3756|Adv
+v42 οὐχ|ouch|...|G3756|Adv
 v42 ὡμολόγουν|hōmologoun|they did not confess [Him]|G3670|V-IIA-3P
 v42 ἵνα|hina|for fear that|G2443|Conj
 v42 μὴ|mē|...|G3361|Adv
@@ -790,7 +790,7 @@ v46 τὸν|ton|the|G3588|Art-AMS
 v46 κόσμον|kosmon|world|G2889|N-AMS
 v46 ἐλήλυθα|elēlytha|have come|G2064|V-RIA-1S
 v46 ἵνα|hina|so that|G2443|Conj
-v46 πᾶς|pas|vvv|G3956|Adj-NMS
+v46 πᾶς|pas|...|G3956|Adj-NMS
 v46 ὁ|ho|who|G3588|Art-NMS
 v46 πιστεύων|pisteuōn|believes|G4100|V-PPA-NMS
 v46 εἰς|eis|in|G1519|Prep
@@ -814,7 +814,7 @@ v47 ἐγὼ|egō|I|G1473|PPro-N1S
 v47 οὐ|ou|{do} not|G3756|Adv
 v47 κρίνω|krinō|judge|G2919|V-PIA-1S
 v47 αὐτόν|auton|him|G846|PPro-AM3S
-v47 οὐ|ou|vvv|G3756|Adv
+v47 οὐ|ou|...|G3756|Adv
 v47 γὰρ|gar|For|G1063|Conj
 v47 ἦλθον|ēlthon|I have not come|G2064|V-AIA-1S
 v47 ἵνα|hina|to|G2443|Conj
@@ -830,7 +830,7 @@ v48 ὁ|ho|the [one who]|G3588|Art-NMS
 v48 ἀθετῶν|athetōn|rejects|G114|V-PPA-NMS
 v48 ἐμὲ|eme|Me|G1473|PPro-A1S
 v48 καὶ|kai|and|G2532|Conj
-v48 μὴ|mē|vvv|G3361|Adv
+v48 μὴ|mē|...|G3361|Adv
 v48 λαμβάνων|lambanōn|does not receive|G2983|V-PPA-NMS
 v48 τὰ|ta|-|G3588|Art-ANP
 v48 ῥήματά|rhēmata|words|G4487|N-ANP
@@ -862,9 +862,9 @@ v49 πέμψας|pempsas|[who] sent|G3992|V-APA-NMS
 v49 με|me|Me|G1473|PPro-A1S
 v49 Πατὴρ|Patēr|Father|G3962|N-NMS
 v49 αὐτός|autos|-|G846|PPro-NM3S
-v49 μοι|moi|vvv|G1473|PPro-D1S
+v49 μοι|moi|...|G1473|PPro-D1S
 v49 ἐντολὴν|entolēn|has commanded Me|G1785|N-AFS
-v49 δέδωκεν|dedōken|vvv|G1325|V-RIA-3S
+v49 δέδωκεν|dedōken|...|G1325|V-RIA-3S
 v49 τί|ti|what|G5101|IPro-ANS
 v49 εἴπω|eipō|to say|G2036|V-ASA-1S
 v49 καὶ|kai|and|G2532|Conj

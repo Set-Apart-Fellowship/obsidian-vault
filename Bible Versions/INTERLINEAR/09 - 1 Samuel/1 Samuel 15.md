@@ -15,7 +15,7 @@ v1 וְעַתָּ֣ה|wə·‘at·tāh|Now therefore|H6258|Conj-w | Adv
 v1 שְׁמַ֔ע|šə·ma‘|listen|H8085|V-Qal-Imp-ms
 v1 לְק֖וֹל|lə·qō·wl|...|H6963|Prep-l | N-msc
 v1 דִּבְרֵ֥י|diḇ·rê|to the words|H1697|N-mpc
-v1 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v1 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v2 כֹּ֤ה|kōh|This is what|H3541|Adv
 v2 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v2 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -57,14 +57,14 @@ v3 וְעַד־|wə·‘aḏ-|and|H5704|Conj-w | Prep
 v3 שֶׂ֔ה|śeh|sheep|H7716|N-ms
 v3 מִגָּמָ֖ל|mig·gā·māl|camels|H1581|Prep-m | N-ms
 v3 וְעַד־|wə·‘aḏ-|and|H5704|Conj-w | Prep
-v3 חֲמֽוֹר׃ס|ḥă·mō·wr|donkeys|H2543|N-ms
+v3 חֲמֽוֹר׃|ḥă·mō·wr|donkeys|H2543|N-ms
 v4 וַיְשַׁמַּ֤ע|way·šam·ma‘|summoned|H8085|Conj-w | V-Piel-ConsecImperf-3ms
 v4 שָׁאוּל֙|šā·’ūl|So Saul|H7586|N-proper-ms
 v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 הָעָ֔ם|hā·‘ām|the troops|H5971|Art | N-ms
 v4 וַֽיִּפְקְדֵם֙|way·yip̄·qə·ḏêm|and numbered them|H6485|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
 v4 בַּטְּלָאִ֔ים|baṭ·ṭə·lā·’îm|at Telaim|H2923|Prep-b, Art | N-proper-fs
-v4 מָאתַ֥יִם|mā·ṯa·yim|200,000 {}|H3967|Number-fd
+v4 מָאתַ֥יִם|mā·ṯa·yim|200,000|H3967|Number-fd
 v4 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v4 רַגְלִ֑י|raḡ·lî|foot soldiers|H7273|Adj-ms
 v4 וַעֲשֶׂ֥רֶת|wa·‘ă·śe·reṯ|and 10,000|H6235|Conj-w | Number-msc
@@ -84,7 +84,7 @@ v6 שָׁא֣וּל|šā·’ūl|And he|H7586|N-proper-ms
 v6 אֶֽל־|’el-|...|H413|Prep
 v6 הַקֵּינִ֡י|haq·qê·nî|the Kenites|H7017|Art | N-proper-ms
 v6 לְכוּ֩|lə·ḵū|go on|H1980|V-Qal-Imp-mp
-v6 סֻּ֨רוּ|su·rū|vvv|H5493|V-Qal-Imp-mp
+v6 סֻּ֨רוּ|su·rū|...|H5493|V-Qal-Imp-mp
 v6 רְד֜וּ|rə·ḏū|and get away|H3381|V-Qal-Imp-mp
 v6 מִתּ֣וֹךְ|mit·tō·wḵ|from|H8432|Prep-m | N-msc
 v6 עֲמָלֵקִ֗י|‘ă·mā·lê·qî|the Amalekites|H6003|N-proper-ms
@@ -142,15 +142,15 @@ v9 הַכָּרִים֙|hak·kā·rîm|lambs|H3733|Art | N-mp
 v9 וְעַל־|wə·‘al-|and|H5921|Conj-w | Prep
 v9 כָּל־|kāl-|of everything else|H3605|N-msc
 v9 הַטּ֔וֹב|haṭ·ṭō·wḇ|the best|H2896|Art | N-ms
-v9 וְלֹ֥א|wə·lō|vvv|H3808|Conj-w | Adv-NegPrt
+v9 וְלֹ֥א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v9 אָב֖וּ|’ā·ḇū|They were unwilling|H14|V-Qal-Perf-3cp
 v9 הַחֲרִימָ֑ם|ha·ḥă·rî·mām|to devote them to destruction|H2763|V-Hifil-Inf | 3mp
 v9 וְכָל־|wə·ḵāl|all|H3605|Conj-w | N-msc
-v9 הַמְּלָאכָ֛ה|ham·mə·lā·ḵāh|vvv|H4399|Art | N-fs
+v9 הַמְּלָאכָ֛ה|ham·mə·lā·ḵāh|...|H4399|Art | N-fs
 v9 נְמִבְזָ֥ה|nə·miḇ·zāh|that was despised|H5240|N-fs
 v9 וְנָמֵ֖ס|wə·nā·mês|and worthless|H4549|Conj-w | V-Nifal-Prtcpl-ms
 v9 אֹתָ֥הּ|’ō·ṯāh|-|H853|DirObjM | 3fs
-v9 הֶחֱרִֽימוּ׃פ|he·ḥĕ·rî·mū|but they devoted to destruction|H2763|V-Hifil-Perf-3cp
+v9 הֶחֱרִֽימוּ׃|he·ḥĕ·rî·mū|but they devoted to destruction|H2763|V-Hifil-Perf-3cp
 v10 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v10 דְּבַר־|də·ḇar-|Then the word|H1697|N-msc
 v10 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -239,7 +239,7 @@ v15 לַיהוָ֣ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v15 אֱלֹהֶ֑יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v15 וְאֶת־|wə·’eṯ-|but|H853|Conj-w | DirObjM
 v15 הַיּוֹתֵ֖ר|hay·yō·w·ṯêr|the rest|H3148|Art | N-ms
-v15 הֶחֱרַֽמְנוּ׃ס|he·ḥĕ·ram·nū|we devoted to destruction|H2763|V-Hifil-Perf-1cp
+v15 הֶחֱרַֽמְנוּ׃|he·ḥĕ·ram·nū|we devoted to destruction|H2763|V-Hifil-Perf-1cp
 v16 וַיֹּ֤אמֶר|way·yō·mer|exclaimed|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 שְׁמוּאֵל֙|šə·mū·’êl|Samuel|H8050|N-proper-ms
 v16 אֶל־|’el-|-|H413|Prep
@@ -254,8 +254,8 @@ v16 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v16 אֵלַ֖י|’ê·lay|to me|H413|Prep | 1cs
 v16 הַלָּ֑יְלָה|hal·lā·yə·lāh|last night|H3915|Art | N-ms
 v16 וַיֹּאמְרוּ|way·yō·mə·rū|Saul replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v16 ל֖וֹ|lōw||H0|Prep | 3ms
-v16 דַּבֵּֽר׃ס|dab·bêr|Tell me|H1696|V-Piel-Imp-ms
+v16 ל֖וֹ|lōw|-|H0|Prep | 3ms
+v16 דַּבֵּֽר׃|dab·bêr|Tell me|H1696|V-Piel-Imp-ms
 v17 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v17 שְׁמוּאֵ֔ל|šə·mū·’êl|And Samuel|H8050|N-proper-ms
 v17 הֲל֗וֹא|hă·lō·w|not|H3808|Adv-NegPrt
@@ -298,7 +298,7 @@ v19 הַשָּׁלָ֔ל|haš·šā·lāl|the plunder|H7998|Art | N-ms
 v19 וַתַּ֥עַשׂ|wat·ta·‘aś|and do|H6213|Conj-w | V-Qal-ConsecImperf-2ms
 v19 הָרַ֖ע|hā·ra‘|evil|H7451|Art | Adj-ms
 v19 בְּעֵינֵ֥י|bə·‘ê·nê|in the sight|H5869|Prep-b | N-cdc
-v19 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v19 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v20 וַיֹּ֨אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 שָׁא֜וּל|šā·’ūl|Saul|H7586|N-proper-ms
 v20 אֶל־|’el-|-|H413|Prep
@@ -360,7 +360,7 @@ v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 דְּבַ֣ר|də·ḇar|the word|H1697|N-msc
 v23 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v23 וַיִּמְאָסְךָ֖|way·yim·’ā·sə·ḵā|He has rejected you|H3988|Conj-w | V-Qal-ConsecImperf-3ms | 2ms
-v23 מִמֶּֽלֶךְ׃ס|mim·me·leḵ|as king|H4428|Prep-m | N-ms
+v23 מִמֶּֽלֶךְ׃|mim·me·leḵ|as king|H4428|Prep-m | N-ms
 v24 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v24 שָׁא֤וּל|šā·’ūl|Then Saul|H7586|N-proper-ms
 v24 אֶל־|’el-|to|H413|Prep
@@ -405,7 +405,7 @@ v26 יְהוָ֔ה|Yah·weh|and [He]|H3068|N-proper-ms
 v26 מִהְי֥וֹת|mih·yō·wṯ|as|H1961|Prep-m | V-Qal-Inf
 v26 מֶ֖לֶךְ|me·leḵ|king|H4428|N-ms
 v26 עַל־|‘al-|over|H5921|Prep
-v26 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v26 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v27 וַיִּסֹּ֥ב|way·yis·sōḇ|turned|H5437|Conj-w | V-Qal-ConsecImperf-3ms
 v27 שְׁמוּאֵ֖ל|šə·mū·’êl|As Samuel|H8050|N-proper-ms
 v27 לָלֶ֑כֶת|lā·le·ḵeṯ|to go|H1980|Prep-l | V-Qal-Inf
@@ -460,7 +460,7 @@ v31 אַחֲרֵ֣י|’a·ḥă·rê|with|H310|Prep
 v31 שָׁא֑וּל|šā·’ūl|Saul|H7586|N-proper-ms
 v31 וַיִּשְׁתַּ֥חוּ|way·yiš·ta·ḥū|worshiped|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
 v31 שָׁא֖וּל|šā·’ūl|and Saul|H7586|N-proper-ms
-v31 לַֽיהוָֽה׃ס|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
+v31 לַֽיהוָֽה׃|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
 v32 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v32 שְׁמוּאֵ֗ל|šə·mū·’êl|Then Samuel|H8050|N-proper-ms
 v32 הַגִּ֤ישׁוּ|hag·gî·šū|Bring|H5066|V-Hifil-Imp-mp
@@ -478,7 +478,7 @@ v32 אֲגָ֔ג|’ă·ḡāḡ|for he|H90|N-proper-ms
 v32 אָכֵ֖ן|’ā·ḵên|Surely|H403|Adv
 v32 סָ֥ר|sār|is past|H5493|V-Qal-Perf-3ms
 v32 מַר־|mar-|the bitterness|H4751|Adj-msc
-v32 הַמָּֽוֶת׃ס|ham·mā·weṯ|of death|H4194|Art | N-ms
+v32 הַמָּֽוֶת׃|ham·mā·weṯ|of death|H4194|Art | N-ms
 v33 וַיֹּ֣אמֶר|way·yō·mer|declared|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v33 שְׁמוּאֵ֔ל|šə·mū·’êl|But Samuel|H8050|N-proper-ms
 v33 כַּאֲשֶׁ֨ר|ka·’ă·šer|As|H834|Prep-k | Pro-r
@@ -495,7 +495,7 @@ v33 אֶת־|’eṯ-|-|H853|DirObjM
 v33 אֲגָ֛ג|’ă·ḡāḡ|hacked Agag|H90|N-proper-ms
 v33 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v33 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v33 בַּגִּלְגָּֽל׃ס|bag·gil·gāl|at Gilgal|H1537|Prep-b, Art | N-proper-fs
+v33 בַּגִּלְגָּֽל׃|bag·gil·gāl|at Gilgal|H1537|Prep-b, Art | N-proper-fs
 v34 וַיֵּ֥לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v34 שְׁמוּאֵ֖ל|šə·mū·’êl|Then Samuel|H8050|N-proper-ms
 v34 הָרָמָ֑תָה|hā·rā·mā·ṯāh|to Ramah|H7414|Art | N-proper-fs | 3fs
@@ -526,4 +526,4 @@ v35 הִמְלִ֥יךְ|him·lîḵ|king|H4427|V-Hifil-Perf-3ms
 v35 אֶת־|’eṯ-|-|H853|DirObjM
 v35 שָׁא֖וּל|šā·’ūl|He had made Saul|H7586|N-proper-ms
 v35 עַל־|‘al-|over|H5921|Prep
-v35 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v35 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms

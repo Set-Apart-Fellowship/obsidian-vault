@@ -93,7 +93,7 @@ v7 טָמֵ֥א|ṭā·mê|unclean|H2931|Adj-ms
 v7 ה֖וּא|hū|it [is]|H1931|Pro-3ms
 v7 לָכֶֽם׃|lā·ḵem|for you|H0|Prep | 2mp
 v8 מִבְּשָׂרָם֙|mib·bə·śā·rām|their meat|H1320|Prep-m | N-msc | 3mp
-v8 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v8 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v8 תֹאכֵ֔לוּ|ṯō·ḵê·lū|You must not eat|H398|V-Qal-Imperf-2mp
 v8 וּבְנִבְלָתָ֖ם|ū·ḇə·niḇ·lā·ṯām|their carcasses|H5038|Conj-w, Prep-b | N-fsc | 3mp
 v8 לֹ֣א|lō|...|H3808|Adv-NegPrt
@@ -108,8 +108,8 @@ v9 מִכֹּ֖ל|mik·kōl|Of all [the creatures]|H3605|Prep-m | N-ms
 v9 אֲשֶׁ֣ר|’ă·šer|that [live]|H834|Pro-r
 v9 בַּמָּ֑יִם|bam·mā·yim|in the water|H4325|Prep-b, Art | N-mp
 v9 כֹּ֣ל|kōl|anything|H3605|N-ms
-v9 אֲשֶׁר־|’ă·šer-||H834|Pro-r
-v9 לוֹ֩|lōw||H0|Prep | 3ms
+v9 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
+v9 לוֹ֩|lōw|-|H0|Prep | 3ms
 v9 סְנַפִּ֨יר|sə·nap·pîr|with fins|H5579|N-ms
 v9 וְקַשְׂקֶ֜שֶׂת|wə·qaś·qe·śeṯ|and scales|H7193|Conj-w | N-fs
 v9 בַּמַּ֗יִם|bam·ma·yim|...|H4325|Prep-b, Art | N-mp
@@ -120,7 +120,7 @@ v9 תֹּאכֵֽלוּ׃|tō·ḵê·lū|-|H398|V-Qal-Imperf-2mp
 v10 וְכֹל֩|wə·ḵōl|everything|H3605|Conj-w | N-ms
 v10 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
 v10 אֵֽין־|’ên-|does not|H369|Adv
-v10 ל֜וֹ|lōw||H0|Prep | 3ms
+v10 ל֜וֹ|lōw|-|H0|Prep | 3ms
 v10 סְנַפִּ֣יר|sə·nap·pîr|have fins|H5579|N-ms
 v10 וְקַשְׂקֶ֗שֶׂת|wə·qaś·qe·śeṯ|and scales|H7193|Conj-w | N-fs
 v10 בַּיַּמִּים֙|bay·yam·mîm|in the seas|H3220|Prep-b, Art | N-mp
@@ -180,7 +180,7 @@ v15 כָּל־|kāl-|any|H3605|N-msc
 v15 עֹרֵ֖ב|‘ō·rêḇ|of raven|H6158|N-ms
 v15 לְמִינֽוֹ׃|lə·mî·nōw|kind|H4327|Prep-l | N-msc | 3ms
 v16 וְאֵת֙|wə·’êṯ|-|H853|Conj-w | DirObjM
-v16 בַּ֣ת|baṯ|vvv|H1323|N-fsc
+v16 בַּ֣ת|baṯ|...|H1323|N-fsc
 v16 הַֽיַּעֲנָ֔ה|hay·ya·‘ă·nāh|the ostrich|H3284|Art | N-fs
 v16 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v16 הַתַּחְמָ֖ס|hat·taḥ·mās|the screech owl|H8464|Art | N-ms
@@ -217,7 +217,7 @@ v20 עַל־|‘al-|on|H5921|Prep
 v20 אַרְבַּ֑ע|’ar·ba‘|[all] fours|H702|Number-fs
 v20 שֶׁ֥קֶץ|še·qeṣ|are detestable|H8263|N-ms
 v20 ה֖וּא|hū|...|H1931|Pro-3ms
-v20 לָכֶֽם׃ס|lā·ḵem|to you|H0|Prep | 2mp
+v20 לָכֶֽם׃|lā·ḵem|to you|H0|Prep | 2mp
 v21 אַ֤ךְ|’aḵ|However|H389|Adv
 v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 זֶה֙|zeh|the following|H2088|Pro-ms
@@ -285,7 +285,7 @@ v26 אֲשֶׁ֣ר|’ă·šer|with|H834|Pro-r
 v26 הִוא֩|hî|...|H1931|Pro-3fs
 v26 מַפְרֶ֨סֶת|map̄·re·seṯ|completely divided|H6536|V-Hifil-Prtcpl-fs
 v26 פַּרְסָ֜ה|par·sāh|hooves|H6541|N-fs
-v26 וְשֶׁ֣סַע׀|wə·še·sa‘|vvv|H8157|Conj-w | N-ms
+v26 וְשֶׁ֣סַע׀|wə·še·sa‘|...|H8157|Conj-w | N-ms
 v26 אֵינֶ֣נָּה|’ê·nen·nāh|not|H369|Adv | 3fs
 v26 שֹׁסַ֗עַת|šō·sa·‘aṯ|...|H8156|V-Qal-Prtcpl-fs
 v26 וְגֵרָה֙|wə·ḡê·rāh|the cud|H1625|Conj-w | N-fs
@@ -326,7 +326,7 @@ v28 עַד־|‘aḏ-|until|H5704|Prep
 v28 הָעָ֑רֶב|hā·‘ā·reḇ|evening|H6153|Art | N-ms
 v28 טְמֵאִ֥ים|ṭə·mê·’îm|are unclean|H2931|Adj-mp
 v28 הֵ֖מָּה|hêm·māh|They|H1992|Pro-3mp
-v28 לָכֶֽם׃ס|lā·ḵem|for you|H0|Prep | 2mp
+v28 לָכֶֽם׃|lā·ḵem|for you|H0|Prep | 2mp
 v29 וְזֶ֤ה|wə·zeh|The following|H2088|Conj-w | Pro-ms
 v29 לָכֶם֙|lā·ḵem|for you|H0|Prep | 2mp
 v29 הַטָּמֵ֔א|haṭ·ṭā·mê|are unclean|H2931|Art | Adj-ms
@@ -376,7 +376,7 @@ v32 כְּלִ֕י|kə·lî|implement|H3627|N-ms
 v32 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v32 יֵעָשֶׂ֥ה|yê·‘ā·śeh|used|H6213|V-Nifal-Imperf-3ms
 v32 מְלָאכָ֖ה|mə·lā·ḵāh|for work|H4399|N-fs
-v32 בָּהֶ֑ם|bā·hem||H0|Prep | 3mp
+v32 בָּהֶ֑ם|bā·hem|-|H0|Prep | 3mp
 v32 בַּמַּ֧יִם|bam·ma·yim|must be rinsed with water|H4325|Prep-b, Art | N-mp
 v32 יוּבָ֛א|yū·ḇā|...|H935|V-Hofal-Imperf-3ms
 v32 וְטָמֵ֥א|wə·ṭā·mê|and will remain unclean|H2930|Conj-w | V-Qal-ConjPerf-3ms
@@ -400,8 +400,8 @@ v33 תִשְׁבֹּֽרוּ׃|ṯiš·bō·rū|you must break [the pot]|H7665|V
 v34 מִכָּל־|mik·kāl|Any|H3605|Prep-m | N-msc
 v34 הָאֹ֜כֶל|hā·’ō·ḵel|food|H400|Art | N-ms
 v34 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
-v34 יֵאָכֵ֗ל|yê·’ā·ḵêl|vvv|H398|V-Nifal-Imperf-3ms
-v34 אֲשֶׁ֨ר|’ă·šer|vvv|H834|Pro-r
+v34 יֵאָכֵ֗ל|yê·’ā·ḵêl|...|H398|V-Nifal-Imperf-3ms
+v34 אֲשֶׁ֨ר|’ă·šer|...|H834|Pro-r
 v34 יָב֥וֹא|yā·ḇō·w|coming|H935|V-Qal-Imperf-3ms
 v34 עָלָ֛יו|‘ā·lāw|into contact|H5921|Prep | 3ms
 v34 מַ֖יִם|ma·yim|with water [from that pot]|H4325|N-mp
@@ -458,7 +458,7 @@ v38 מִנִּבְלָתָ֖ם|min·niḇ·lā·ṯām|and a carcass|H5038|Prep-
 v38 עָלָ֑יו|‘ā·lāw|on it|H5921|Prep | 3ms
 v38 טָמֵ֥א|ṭā·mê|is unclean|H2931|Adj-ms
 v38 ה֖וּא|hū|it|H1931|Pro-3ms
-v38 לָכֶֽם׃ס|lā·ḵem|for you|H0|Prep | 2mp
+v38 לָכֶֽם׃|lā·ḵem|for you|H0|Prep | 2mp
 v39 וְכִ֤י|wə·ḵî|If|H3588|Conj
 v39 יָמוּת֙|yā·mūṯ|dies|H4191|V-Qal-Imperf-3ms
 v39 מִן־|min-|an|H4480|Prep
@@ -527,7 +527,7 @@ v43 הַשֶּׁ֖רֶץ|haš·še·reṣ|crawling creature|H8318|Art | N-ms
 v43 הַשֹּׁרֵ֑ץ|haš·šō·rêṣ|...|H8317|Art | V-Qal-Prtcpl-ms
 v43 וְלֹ֤א|wə·lō|do not|H3808|Conj-w | Adv-NegPrt
 v43 תִֽטַּמְּאוּ֙|ṯiṭ·ṭam·mə·’ū|become unclean|H2930|V-Hitpael-Imperf-2mp
-v43 בָּהֶ֔ם|bā·hem||H0|Prep | 3mp
+v43 בָּהֶ֔ם|bā·hem|-|H0|Prep | 3mp
 v43 וְנִטְמֵתֶ֖ם|wə·niṭ·mê·ṯem|or defiled|H2930|Conj-w | V-Nifal-ConjPerf-2mp
 v43 בָּֽם׃|bām|by them|H0|Prep | 3mp
 v44 כִּ֣י|kî|For|H3588|Conj
@@ -590,4 +590,4 @@ v47 וּבֵין֙|ū·ḇên|...|H996|Conj-w | Prep
 v47 הַֽחַיָּ֔ה|ha·ḥay·yāh|and those|H2416|Art | N-fs
 v47 אֲשֶׁ֖ר|’ă·šer|that|H834|Pro-r
 v47 לֹ֥א|lō|may not|H3808|Adv-NegPrt
-v47 תֵאָכֵֽל׃פ|ṯê·’ā·ḵêl|-|H398|V-Nifal-Imperf-3fs
+v47 תֵאָכֵֽל׃|ṯê·’ā·ḵêl|-|H398|V-Nifal-Imperf-3fs

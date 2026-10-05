@@ -39,8 +39,8 @@ v2 לָכֵ֗ן|lā·ḵên|Very well|H3651|Adv
 v2 שֹׁמֵ֧ר|šō·mêr|my bodyguard|H8104|V-Qal-Prtcpl-ms
 v2 לְרֹאשִׁ֛י|lə·rō·šî|...|H7218|Prep-l | N-msc | 1cs
 v2 אֲשִֽׂימְךָ֖|’ă·śî·mə·ḵā|I will make you|H7760|V-Qal-Imperf-1cs | 2ms
-v2 כָּל־|kāl-||H3605|N-msc
-v2 הַיָּמִֽים׃פ|hay·yā·mîm|for life|H3117|Art | N-mp
+v2 כָּל־|kāl-|-|H3605|N-msc
+v2 הַיָּמִֽים׃|hay·yā·mîm|for life|H3117|Art | N-mp
 v3 וּשְׁמוּאֵ֣ל|ū·šə·mū·’êl|Now by this time Samuel|H8050|Conj-w | N-proper-ms
 v3 מֵ֔ת|mêṯ|had died|H4191|V-Qal-Perf-3ms
 v3 וַיִּסְפְּדוּ־|way·yis·pə·ḏū-|had mourned|H5594|Conj-w | V-Qal-ConsecImperf-3mp
@@ -105,10 +105,10 @@ v7 וַיֹּאמְר֤וּ|way·yō·mə·rū|replied|H559|Conj-w | V-Qal-Conse
 v7 עֲבָדָיו֙|‘ă·ḇā·ḏāw|his servants|H5650|N-mpc | 3ms
 v7 אֵלָ֔יו|’ê·lāw|...|H413|Prep | 3ms
 v7 הִנֵּ֛ה|hin·nêh|There [is]|H2009|Interjection
-v7 אֵ֥שֶׁת|’ê·šeṯ|vvv|H802|N-fsc
-v7 בַּֽעֲלַת־|ba·‘ă·laṯ-|vvv|H1172|N-fsc
+v7 אֵ֥שֶׁת|’ê·šeṯ|...|H802|N-fsc
+v7 בַּֽעֲלַת־|ba·‘ă·laṯ-|...|H1172|N-fsc
 v7 א֖וֹב|’ō·wḇ|a medium|H178|N-ms
-v7 בְּעֵ֥ין|bə·‘ên|vvv|H5874|Prep
+v7 בְּעֵ֥ין|bə·‘ên|...|H5874|Prep
 v7 דּֽוֹר׃|dō·wr|at Endor|H5874|Prep | N-proper-fs
 v8 וַיִּתְחַפֵּ֣שׂ|way·yiṯ·ḥap·pêś|disguised himself|H2664|Conj-w | V-Hitpael-ConsecImperf-3ms
 v8 שָׁא֗וּל|šā·’ūl|So Saul|H7586|N-proper-ms
@@ -156,7 +156,7 @@ v9 הָאָ֑רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v9 וְלָמָ֥ה|wə·lā·māh|Why|H4100|Conj-w | Interrog
 v9 אַתָּ֛ה|’at·tāh|have you|H859|Pro-2ms
 v9 מִתְנַקֵּ֥שׁ|miṯ·naq·qêš|set a trap|H5367|V-Hitpael-Prtcpl-ms
-v9 בְּנַפְשִׁ֖י|bə·nap̄·šî|vvv|H5315|Prep-b | N-fsc | 1cs
+v9 בְּנַפְשִׁ֖י|bə·nap̄·šî|...|H5315|Prep-b | N-fsc | 1cs
 v9 לַהֲמִיתֵֽנִי׃|la·hă·mî·ṯê·nî|to get me killed|H4191|Prep-l | V-Hifil-Inf | 1cs
 v10 וַיִּשָּׁ֤בַֽע|way·yiš·šā·ḇa‘|swore|H7650|Conj-w | V-Nifal-ConsecImperf-3ms
 v10 לָהּ֙|lāh|to her|H0|Prep | 3fs
@@ -215,7 +215,7 @@ v13 עֹלִ֥ים|‘ō·lîm|coming up|H5927|V-Qal-Prtcpl-mp
 v13 מִן־|min-|out of|H4480|Prep
 v13 הָאָֽרֶץ׃|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v14 וַיֹּ֤אמֶר|way·yō·mer|asked Saul|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v14 לָהּ֙|lāh||H0|Prep | 3fs
+v14 לָהּ֙|lāh|-|H0|Prep | 3fs
 v14 מַֽה־|mah-|What|H4100|Interrog
 v14 תָּאֳר֔וֹ|tā·’o·rōw|does he look like?|H8389|N-msc | 3ms
 v14 וַתֹּ֗אמֶר|wat·tō·mer|she replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
@@ -233,7 +233,7 @@ v14 ה֔וּא|hū|it|H1931|Pro-3ms
 v14 וַיִּקֹּ֥ד|way·yiq·qōḏ|and he bowed|H6915|Conj-w | V-Qal-ConsecImperf-3ms
 v14 אַפַּ֛יִם|’ap·pa·yim|facedown|H639|N-md
 v14 אַ֖רְצָה|’ar·ṣāh|...|H776|N-fs | 3fs
-v14 וַיִּשְׁתָּֽחוּ׃ס|way·yiš·tā·ḥū|in reverence|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
+v14 וַיִּשְׁתָּֽחוּ׃|way·yiš·tā·ḥū|in reverence|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
 v15 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 שְׁמוּאֵל֙|šə·mū·’êl|Then Samuel|H8050|N-proper-ms
 v15 אֶל־|’el-|to|H413|Prep
@@ -265,7 +265,7 @@ v15 וָאֶקְרָאֶ֣ה|wā·’eq·rā·’eh|So I have called|H7121|Conj-
 v15 לְךָ֔|lə·ḵā|on you|H0|Prep | 2ms
 v15 לְהוֹדִיעֵ֖נִי|lə·hō·w·ḏî·‘ê·nî|to tell me|H3045|Prep-l | V-Hifil-Inf | 1cs
 v15 מָ֥ה|māh|what|H4100|Interrog
-v15 אֶעֱשֶֽׂה׃ס|’e·‘ĕ·śeh|to do|H6213|V-Qal-Imperf-1cs
+v15 אֶעֱשֶֽׂה׃|’e·‘ĕ·śeh|to do|H6213|V-Qal-Imperf-1cs
 v16 וַיֹּ֣אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 שְׁמוּאֵ֔ל|šə·mū·’êl|Samuel|H8050|N-proper-ms
 v16 וְלָ֖מָּה|wə·lām·māh|Why|H4100|Conj-w | Interrog
@@ -277,7 +277,7 @@ v16 וַיְהִ֥י|way·hî|and become|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v16 עָרֶֽךָ׃|‘ā·re·ḵā|your enemy|H6145|N-msc | 2ms
 v17 וַיַּ֤עַשׂ|way·ya·‘aś|has done|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v17 יְהוָה֙|Yah·weh|[He]|H3068|N-proper-ms
-v17 ל֔וֹ|lōw||H0|Prep | 3ms
+v17 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v17 כַּאֲשֶׁ֖ר|ka·’ă·šer|exactly what|H834|Prep-k | Pro-r
 v17 דִּבֶּ֣ר|dib·ber|He spoke|H1696|V-Piel-Perf-3ms
 v17 בְּיָדִ֑י|bə·yā·ḏî|through me|H3027|Prep-b | N-fsc | 1cs
@@ -428,4 +428,4 @@ v25 וַיֹּאכֵ֑לוּ|way·yō·ḵê·lū|and they ate|H398|Conj-w | V-Q
 v25 וַיָּקֻ֥מוּ|way·yā·qu·mū|they got up|H6965|Conj-w | V-Qal-ConsecImperf-3mp
 v25 וַיֵּלְכ֖וּ|way·yê·lə·ḵū|and left|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v25 בַּלַּ֥יְלָה|bal·lay·lāh|night|H3915|Prep-b, Art | N-ms
-v25 הַהֽוּא׃פ|ha·hū|And that|H1931|Art | Pro-3ms
+v25 הַהֽוּא׃|ha·hū|And that|H1931|Art | Pro-3ms

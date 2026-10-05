@@ -11,7 +11,7 @@ v2 רוֹעֵ֣י|rō·w·‘ê|the shepherds|H7462|V-Qal-Prtcpl-mpc
 v2 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 הִנָּבֵ֣א|hin·nā·ḇê|Prophesy|H5012|V-Nifal-Imp-ms
 v2 וְאָמַרְתָּ֩|wə·’ā·mar·tā|and tell|H559|Conj-w | V-Qal-ConjPerf-2ms
-v2 אֲלֵיהֶ֨ם|’ă·lê·hem||H413|Prep | 3mp
+v2 אֲלֵיהֶ֨ם|’ă·lê·hem|-|H413|Prep | 3mp
 v2 לָרֹעִ֜ים|lā·rō·‘îm|[them]|H7462|Prep-l, Art | V-Qal-Prtcpl-mp
 v2 כֹּ֥ה|kōh|that this is what|H3541|Adv
 v2 אָמַ֣ר׀|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -21,7 +21,7 @@ v2 ה֤וֹי|hō·w|Woe|H1945|Interjection
 v2 רֹעֵֽי־|rō·‘ê-|to the shepherds|H7462|V-Qal-Prtcpl-mpc
 v2 יִשְׂרָאֵל֙|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 אֲשֶׁ֤ר|’ă·šer|who|H834|Pro-r
-v2 הָיוּ֙|hā·yū|vvv|H1961|V-Qal-Perf-3cp
+v2 הָיוּ֙|hā·yū|...|H1961|V-Qal-Perf-3cp
 v2 רֹעִ֣ים|rō·‘îm|only feed|H7462|V-Qal-Prtcpl-mp
 v2 אוֹתָ֔ם|’ō·w·ṯām|themselves|H853|DirObjM | 3mp
 v2 הֲל֣וֹא|hă·lō·w|Should not|H3808|Adv-NegPrt
@@ -125,7 +125,7 @@ v8 אוֹתָ֔ם|’ō·w·ṯām|themselves|H853|DirObjM | 3mp
 v8 וְאֶת־|wə·’eṯ-|[instead]|H853|Conj-w | DirObjM
 v8 צֹאנִ֖י|ṣō·nî|...|H6629|N-fsc | 1cs
 v8 לֹ֥א|lō|...|H3808|Adv-NegPrt
-v8 רָעֽוּ׃ס|rā·‘ū|...|H7462|V-Qal-Perf-3cp
+v8 רָעֽוּ׃|rā·‘ū|...|H7462|V-Qal-Perf-3cp
 v9 לָכֵן֙|lā·ḵên|therefore|H3651|Adv
 v9 הָֽרֹעִ֔ים|hā·rō·‘îm|you shepherds|H7462|Art | V-Qal-Prtcpl-mp
 v9 שִׁמְע֖וּ|šim·‘ū|hear|H8085|V-Qal-Imp-mp
@@ -156,7 +156,7 @@ v10 מִפִּיהֶ֔ם|mip·pî·hem|from their mouths|H6310|Prep-m | N-msc | 
 v10 וְלֹֽא־|wə·lō-|and it will no longer|H3808|Conj-w | Adv-NegPrt
 v10 תִהְיֶ֥יןָ|ṯih·ye·nā|be|H1961|V-Qal-Imperf-3fp
 v10 לָהֶ֖ם|lā·hem|for them|H0|Prep | 3mp
-v10 לְאָכְלָֽה׃ס|lə·’āḵ·lāh|food|H402|Prep-l | N-fs
+v10 לְאָכְלָֽה׃|lə·’āḵ·lāh|food|H402|Prep-l | N-fs
 v11 כִּ֛י|kî|For|H3588|Conj
 v11 כֹּ֥ה|kōh|this is what|H3541|Adv
 v11 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -287,7 +287,7 @@ v19 רַגְלֵיכֶם֙|raḡ·lê·ḵem|what your feet|H7272|N-fdc | 2mp
 v19 תִּרְעֶ֔ינָה|tir·‘e·nāh|feed on|H7462|V-Qal-Imperf-3fp
 v19 וּמִרְפַּ֥שׂ|ū·mir·paś|have muddied|H4833|Conj-w | N-msc
 v19 רַגְלֵיכֶ֖ם|raḡ·lê·ḵem|what your feet|H7272|N-fdc | 2mp
-v19 תִּשְׁתֶּֽינָה׃ס|tiš·te·nāh|and drink|H8354|V-Qal-Imperf-3fp
+v19 תִּשְׁתֶּֽינָה׃|tiš·te·nāh|and drink|H8354|V-Qal-Imperf-3fp
 v20 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v20 כֹּ֥ה|kōh|this is what|H3541|Adv
 v20 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -315,7 +315,7 @@ v21 עַ֣ד|‘aḏ|until|H5704|Prep
 v21 אֲשֶׁ֧ר|’ă·šer|-|H834|Pro-r
 v21 הֲפִיצוֹתֶ֛ם|hă·p̄î·ṣō·w·ṯem|you have scattered|H6327|V-Hifil-Perf-2mp
 v21 אוֹתָ֖נָה|’ō·w·ṯā·nāh|them|H853|DirObjM | 3fp
-v21 אֶל־|’el-||H413|Prep
+v21 אֶל־|’el-|-|H413|Prep
 v21 הַחֽוּצָה׃|ha·ḥū·ṣāh|abroad|H2351|Art | N-ms | 3fs
 v22 וְהוֹשַׁעְתִּ֣י|wə·hō·wō·ša‘·tî|I will save|H3467|Conj-w | V-Hifil-ConjPerf-1cs
 v22 לְצֹאנִ֔י|lə·ṣō·nî|My flock|H6629|Prep-l | N-fsc | 1cs
@@ -455,4 +455,4 @@ v31 אֲנִי֙|’ă·nî|and I|H589|Pro-1cs
 v31 אֱלֹ֣הֵיכֶ֔ם|’ĕ·lō·hê·ḵem|am your God|H430|N-mpc | 2mp
 v31 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v31 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v31 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v31 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

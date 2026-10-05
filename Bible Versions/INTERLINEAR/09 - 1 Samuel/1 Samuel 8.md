@@ -16,7 +16,7 @@ v2 וְשֵׁ֥ם|wə·šêm|and the name|H8034|Conj-w | N-msc
 v2 מִשְׁנֵ֖הוּ|miš·nê·hū|of his second|H4932|N-msc | 3ms
 v2 אֲבִיָּ֑ה|’ă·ḇî·yāh|was Abijah|H29|N-proper-ms
 v2 שֹׁפְטִ֖ים|šō·p̄ə·ṭîm|They were judges|H8199|V-Qal-Prtcpl-mp
-v2 בִּבְאֵ֥ר|biḇ·’êr|vvv|H884|Prep
+v2 בִּבְאֵ֥ר|biḇ·’êr|...|H884|Prep
 v2 שָֽׁבַע׃|šā·ḇa‘|in Beersheba|H884|Prep | N-proper-fs
 v3 וְלֹֽא־|wə·lō-|did not|H3808|Conj-w | Adv-NegPrt
 v3 הָלְכ֤וּ|hā·lə·ḵū|walk|H1980|V-Qal-Perf-3cp
@@ -28,7 +28,7 @@ v3 הַבָּ֑צַע|hab·bā·ṣa‘|dishonest gain|H1215|Art | N-ms
 v3 וַיִּ֨קְחוּ־|way·yiq·ḥū-|accepting|H3947|Conj-w | V-Qal-ConsecImperf-3mp
 v3 שֹׁ֔חַד|šō·ḥaḏ|bribes|H7810|N-ms
 v3 וַיַּטּ֖וּ|way·yaṭ·ṭū|and perverting|H5186|Conj-w | V-Hifil-ConsecImperf-3mp
-v3 מִשְׁפָּֽט׃פ|miš·pāṭ|justice|H4941|N-ms
+v3 מִשְׁפָּֽט׃|miš·pāṭ|justice|H4941|N-ms
 v4 וַיִּֽתְקַבְּצ֔וּ|way·yiṯ·qab·bə·ṣū|gathered together|H6908|Conj-w | V-Hitpael-ConsecImperf-3mp
 v4 כֹּ֖ל|kōl|So all|H3605|N-msc
 v4 זִקְנֵ֣י|ziq·nê|the elders|H2205|Adj-mpc
@@ -66,7 +66,7 @@ v6 לְשָׁפְטֵ֑נוּ|lə·šā·p̄ə·ṭê·nū|to judge us|H8199|Pre
 v6 וַיִּתְפַּלֵּ֥ל|way·yiṯ·pal·lêl|prayed|H6419|Conj-w | V-Hitpael-ConsecImperf-3ms
 v6 שְׁמוּאֵ֖ל|šə·mū·’êl|so he|H8050|N-proper-ms
 v6 אֶל־|’el-|to|H413|Prep
-v6 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v6 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v7 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v7 יְהוָה֙|Yah·weh|And the LORD|H3068|N-proper-ms
 v7 אֶל־|’el-|to|H413|Prep
@@ -121,10 +121,10 @@ v9 מִשְׁפַּ֣ט|miš·paṭ|the manner|H4941|N-msc
 v9 הַמֶּ֔לֶךְ|ham·me·leḵ|of the king|H4428|Art | N-ms
 v9 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
 v9 יִמְלֹ֖ךְ|yim·lōḵ|will reign|H4427|V-Qal-Imperf-3ms
-v9 עֲלֵיהֶֽם׃ס|‘ă·lê·hem|over them|H5921|Prep | 3mp
+v9 עֲלֵיהֶֽם׃|‘ă·lê·hem|over them|H5921|Prep | 3mp
 v10 וַיֹּ֣אמֶר|way·yō·mer|spoke|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v10 שְׁמוּאֵ֔ל|šə·mū·’êl|So Samuel|H8050|N-proper-ms
-v10 אֵ֖ת|’êṯ||H853|DirObjM
+v10 אֵ֖ת|’êṯ|-|H853|DirObjM
 v10 כָּל־|kāl-|all|H3605|N-msc
 v10 דִּבְרֵ֣י|diḇ·rê|the words|H1697|N-mpc
 v10 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -132,7 +132,7 @@ v10 אֶל־|’el-|to|H413|Prep
 v10 הָעָ֕ם|hā·‘ām|the people|H5971|Art | N-ms
 v10 הַשֹּׁאֲלִ֥ים|haš·šō·’ă·lîm|who were asking him for|H7592|Art | V-Qal-Prtcpl-mp
 v10 מֵאִתּ֖וֹ|mê·’it·tōw|...|H854|Prep-m | DirObjM | 3ms
-v10 מֶֽלֶךְ׃ס|me·leḵ|a king|H4428|N-ms
+v10 מֶֽלֶךְ׃|me·leḵ|a king|H4428|N-ms
 v11 וַיֹּ֕אמֶר|way·yō·mer|He said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 זֶ֗ה|zeh|This|H2088|Pro-ms
 v11 יִֽהְיֶה֙|yih·yeh|will be|H1961|V-Qal-Imperf-3ms
@@ -251,7 +251,7 @@ v21 דִּבְרֵ֣י|diḇ·rê|the words|H1697|N-mpc
 v21 הָעָ֑ם|hā·‘ām|of the people|H5971|Art | N-ms
 v21 וַֽיְדַבְּרֵ֖ם|way·ḏab·bə·rêm|and repeated them|H1696|Conj-w | V-Piel-ConsecImperf-3ms | 3mp
 v21 בְּאָזְנֵ֥י|bə·’ā·zə·nê|in the hearing|H241|Prep-b | N-fdc
-v21 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v21 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v22 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v22 יְהוָ֤ה|Yah·weh|the LORD|H3068|N-proper-ms
 v22 אֶל־|’el-|to|H413|Prep
@@ -268,4 +268,4 @@ v22 אַנְשֵׁ֣י|’an·šê|the men|H582|N-mpc
 v22 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v22 לְכ֖וּ|lə·ḵū|must go back|H1980|V-Qal-Imp-mp
 v22 אִ֥ישׁ|’îš|Everyone|H376|N-ms
-v22 לְעִירֽוֹ׃פ|lə·‘î·rōw|to his city|H5892|Prep-l | N-fsc | 3ms
+v22 לְעִירֽוֹ׃|lə·‘î·rōw|to his city|H5892|Prep-l | N-fsc | 3ms

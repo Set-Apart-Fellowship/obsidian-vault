@@ -27,7 +27,7 @@ v8 מַֽעַזְיָ֥ה|ma·‘az·yāh|Maaziah|H4590|N-proper-ms
 v8 בִלְגַּ֖י|ḇil·gay|Bilgai|H1084|N-proper-ms
 v8 שְׁמַֽעְיָ֑ה|šə·ma‘·yāh|and Shemaiah|H8098|N-proper-ms
 v8 אֵ֖לֶּה|’êl·leh|These [were]|H428|Pro-cp
-v8 הַכֹּהֲנִֽים׃ס|hak·kō·hă·nîm|the priests|H3548|Art | N-mp
+v8 הַכֹּהֲנִֽים׃|hak·kō·hă·nîm|the priests|H3548|Art | N-mp
 v9 וְֽהַלְוִיִּ֑ם|wə·hal·wî·yim|The Levites:|H3881|Conj-w, Art | N-proper-mp
 v9 וְיֵשׁ֙וּעַ֙|wə·yê·šū·a‘|Jeshua|H3442|Conj-w | N-proper-ms
 v9 בֶּן־|ben-|son|H1121|N-msc
@@ -50,11 +50,11 @@ v12 שֵׁרֵֽבְיָ֖ה|šê·rê·ḇə·yāh|Sherebiah|H8274|N-proper-ms
 v12 שְׁבַנְיָֽה׃|šə·ḇan·yāh|Shebaniah|H7645|N-proper-ms
 v13 הוֹדִיָּ֥ה|hō·w·ḏî·yāh|Hodiah|H1941|N-proper-ms
 v13 בָנִ֖י|ḇā·nî|Bani|H1137|N-proper-ms
-v13 בְּנִֽינוּ׃ס|bə·nî·nū|and Beninu|H1148|N-proper-ms
+v13 בְּנִֽינוּ׃|bə·nî·nū|and Beninu|H1148|N-proper-ms
 v14 רָאשֵׁ֖י|rā·šê|[And] the leaders|H7218|N-mpc
 v14 הָעָ֑ם|hā·‘ām|of the people|H5971|Art | N-ms
 v14 פַּרְעֹשׁ֙|par·‘ōš|Parosh|H6551|N-proper-ms
-v14 פַּחַ֣ת|pa·ḥaṯ|vvv|H6355|
+v14 פַּחַ֣ת|pa·ḥaṯ|...|H6355|
 v14 מוֹאָ֔ב|mō·w·’āḇ|Pahath-moab|H6355|N-proper-ms
 v14 עֵילָ֥ם|‘ê·lām|Elam|H5867|N-proper-ms
 v14 זַתּ֖וּא|zat·tū|Zattu|H2240|N-proper-ms
@@ -116,7 +116,7 @@ v28 נְשֵׁיהֶ֖ם|nə·šê·hem|along with their wives|H802|N-fpc | 3mp
 v28 בְּנֵיהֶ֣ם|bə·nê·hem|their sons|H1121|N-mpc | 3mp
 v28 וּבְנֹתֵיהֶ֑ם|ū·ḇə·nō·ṯê·hem|and daughters|H1323|Conj-w | N-fpc | 3mp
 v28 כֹּ֖ל|kōl|and all|H3605|N-ms
-v28 יוֹדֵ֥עַ|yō·w·ḏê·a‘|vvv|H3045|V-Qal-Prtcpl-ms
+v28 יוֹדֵ֥עַ|yō·w·ḏê·a‘|...|H3045|V-Qal-Prtcpl-ms
 v28 מֵבִֽין׃|mê·ḇîn|who are able to understand|H995|V-Hifil-Prtcpl-ms
 v29 מַחֲזִיקִ֣ים|ma·ḥă·zî·qîm|hereby join|H2388|V-Hifil-Prtcpl-mp
 v29 עַל־|‘al-|with|H5921|Prep
@@ -205,7 +205,7 @@ v33 יִשְׂרָאֵ֑ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v33 וְכֹ֖ל|wə·ḵōl|and for all|H3605|Conj-w | N-ms
 v33 מְלֶ֥אכֶת|mə·le·ḵeṯ|the duties|H4399|N-fsc
 v33 בֵּית־|bêṯ-|of the house|H1004|N-msc
-v33 אֱלֹהֵֽינוּ׃ס|’ĕ·lō·hê·nū|of our God|H430|N-mpc | 1cp
+v33 אֱלֹהֵֽינוּ׃|’ĕ·lō·hê·nū|of our God|H430|N-mpc | 1cp
 v34 וְהַגּוֹרָל֨וֹת|wə·hag·gō·w·rā·lō·wṯ|lots|H1486|Conj-w, Art | N-mp
 v34 הִפַּ֜לְנוּ|hip·pal·nū|We have cast|H5307|V-Hifil-Perf-1cp
 v34 עַל־|‘al-|for|H5921|Prep

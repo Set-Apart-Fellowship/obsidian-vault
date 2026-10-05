@@ -12,7 +12,7 @@ v2 שָׂרֶ֑יהָ|śā·re·hā|rulers|H8269|N-mpc | 3fs
 v2 וּבְאָדָ֥ם|ū·ḇə·’ā·ḏām|but a man|H120|Conj-w, Prep-b | N-ms
 v2 מֵבִ֥ין|mê·ḇîn|of understanding|H995|V-Hifil-Prtcpl-ms
 v2 יֹ֝דֵ֗עַ|yō·ḏê·a‘|[and] knowledge|H3045|V-Qal-Prtcpl-ms
-v2 כֵּ֣ן|kên|vvv|H3651|Adv
+v2 כֵּ֣ן|kên|...|H3651|Adv
 v2 יַאֲרִֽיךְ׃|ya·’ă·rîḵ|maintains order|H748|V-Hifil-Imperf-3ms
 v3 גֶּ֣בֶר|ge·ḇer|leader|H1397|N-ms
 v3 רָ֭שׁ|rāš|A destitute|H7326|V-Qal-Prtcpl-ms
@@ -29,7 +29,7 @@ v4 רָשָׁ֑ע|rā·šā‘|the wicked|H7563|Adj-ms
 v4 וְשֹׁמְרֵ֥י|wə·šō·mə·rê|but those who keep|H8104|Conj-w | V-Qal-Prtcpl-mpc
 v4 ת֝וֹרָ֗ה|ṯō·w·rāh|the law|H8451|N-fs
 v4 יִתְגָּ֥רוּ|yiṯ·gā·rū|resist|H1624|V-Hitpael-Imperf-3mp
-v4 בָֽם׃פ|ḇām|them|H0|Prep | 3mp
+v4 בָֽם׃|ḇām|them|H0|Prep | 3mp
 v5 אַנְשֵׁי־|’an·šê-|men|H582|N-mpc
 v5 רָ֭ע|rā‘|Evil|H7451|Adj-ms
 v5 לֹא־|lō-|do not|H3808|Adv-NegPrt
@@ -126,7 +126,7 @@ v16 מַעֲשַׁקּ֑וֹת|ma·‘ă·šaq·qō·wṯ|oppressor|H4642|N-fp
 v16 שֹׂנְאֵי|śō·nə·ʾē|but he who hates|H8130|V-Qal-Prtcpl-msc
 v16 בֶ֝֗צַע|ḇe·ṣa‘|dishonest profit|H1215|N-ms
 v16 יַאֲרִ֥יךְ|ya·’ă·rîḵ|will prolong|H748|V-Hifil-Imperf-3ms
-v16 יָמִֽים׃פ|yā·mîm|[his] days|H3117|N-mp
+v16 יָמִֽים׃|yā·mîm|[his] days|H3117|N-mp
 v17 אָ֭דָם|’ā·ḏām|A man|H120|N-ms
 v17 עָשֻׁ֣ק|‘ā·šuq|burdened|H6231|V-Qal-QalPassPrtcpl-ms
 v17 בְּדַם־|bə·ḏam-|by bloodguilt|H1818|Prep-b | N-msc

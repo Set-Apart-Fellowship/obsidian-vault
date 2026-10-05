@@ -34,7 +34,7 @@ v3 עַל־|‘al-|along|H5921|Prep
 v3 יְדֵ֣י|yə·ḏê|the border|H3027|N-fdc
 v3 אֱד֑וֹם|’ĕ·ḏō·wm|of Edom|H123|N-proper-ms
 v3 וְהָיָ֤ה|wə·hā·yāh|will run|H1961|Conj-w | V-Qal-ConjPerf-3ms
-v3 לָכֶם֙|lā·ḵem||H0|Prep | 2mp
+v3 לָכֶם֙|lā·ḵem|-|H0|Prep | 2mp
 v3 גְּב֣וּל|gə·ḇūl|border|H1366|N-msc
 v3 נֶ֔גֶב|ne·ḡeḇ|your southern|H5045|N-proper-fs
 v3 מִקְצֵ֥ה|miq·ṣêh|from the end|H7097|Prep-m | N-msc
@@ -52,10 +52,10 @@ v4 צִ֔נָה|ṣi·nāh|to Zin|H6790|N-proper-fs | 3fs
 v4 וְהָיָה|wə·hå̄·yå̄h|and go|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v4 תּֽוֹצְאֹתָ֔יו|tō·wṣ·’ō·ṯāw|...|H8444|N-fpc | 3ms
 v4 מִנֶּ֖גֶב|min·ne·ḡeḇ|south|H5045|Prep-m | N-proper-fs
-v4 לְקָדֵ֣שׁ|lə·qā·ḏêš|vvv|H6947|Prep
+v4 לְקָדֵ֣שׁ|lə·qā·ḏêš|...|H6947|Prep
 v4 בַּרְנֵ֑עַ|bar·nê·a‘|of Kadesh-barnea|H6947|Prep | N-proper-fs
 v4 וְיָצָ֥א|wə·yā·ṣā|Then it will go on|H3318|Conj-w | V-Qal-ConjPerf-3ms
-v4 חֲצַר־|ḥă·ṣar-|vvv|H2692|
+v4 חֲצַר־|ḥă·ṣar-|...|H2692|
 v4 אַדָּ֖ר|’ad·dār|to Hazar-addar|H2692|N-proper-fs
 v4 וְעָבַ֥ר|wə·‘ā·ḇar|and proceed|H5674|Conj-w | V-Qal-ConjPerf-3ms
 v4 עַצְמֹֽנָה׃|‘aṣ·mō·nāh|to Azmon|H6111|N-proper-fs | 3fs
@@ -88,13 +88,13 @@ v7 מִן־|min-|from|H4480|Prep
 v7 הַיָּם֙|hay·yām|Sea|H3220|Art | N-ms
 v7 הַגָּדֹ֔ל|hag·gā·ḏōl|the Great|H1419|Art | Adj-ms
 v7 תְּתָא֥וּ|tə·ṯā·’ū|directly|H8376|V-Piel-Imperf-2mp
-v7 לָכֶ֖ם|lā·ḵem||H0|Prep | 2mp
+v7 לָכֶ֖ם|lā·ḵem|-|H0|Prep | 2mp
 v7 הֹ֥ר|hōr|Hor|H2023|N-proper-fs
 v7 הָהָֽר׃|hā·hār|to Mount|H2022|Art | N-ms
 v8 מֵהֹ֣ר|mê·hōr|Hor|H2023|Prep-m | N-proper-fs
 v8 הָהָ֔ר|hā·hār|and from Mount|H2022|Art | N-ms
-v8 תְּתָא֖וּ|tə·ṯā·’ū||H8376|V-Piel-Imperf-2mp
-v8 לְבֹ֣א|lə·ḇō|vvv|H935|Prep | V-Qal-Inf
+v8 תְּתָא֖וּ|tə·ṯā·’ū|-|H8376|V-Piel-Imperf-2mp
+v8 לְבֹ֣א|lə·ḇō|...|H935|Prep | V-Qal-Inf
 v8 חֲמָ֑ת|ḥă·māṯ|to Lebo-hamath|H2574|N-proper-fs
 v8 וְהָי֛וּ|wə·hā·yū|extend|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v8 תּוֹצְאֹ֥ת|tō·wṣ·’ōṯ|...|H8444|N-fpc
@@ -105,7 +105,7 @@ v9 הַגְּבֻל֙|hag·gə·ḇul|-|H1366|Art | N-ms
 v9 זִפְרֹ֔נָה|zip̄·rō·nāh|to Ziphron|H2202|N-proper-fs | 3fs
 v9 וְהָי֥וּ|wə·hā·yū|and end|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v9 תוֹצְאֹתָ֖יו|ṯō·wṣ·’ō·ṯāw|...|H8444|N-fpc | 3ms
-v9 חֲצַ֣ר|ḥă·ṣar|vvv|H2704|
+v9 חֲצַ֣ר|ḥă·ṣar|...|H2704|
 v9 עֵינָ֑ן|‘ê·nān|at Hazar-enan|H2704|N-proper-fs
 v9 זֶֽה־|zeh-|This|H2088|Pro-ms
 v9 יִהְיֶ֥ה|yih·yeh|will be|H1961|V-Qal-Imperf-3ms
@@ -116,7 +116,7 @@ v10 וְהִתְאַוִּיתֶ֥ם|wə·hiṯ·’aw·wî·ṯem|will run stra
 v10 לָכֶ֖ם|lā·ḵem|from|H0|Prep | 2mp
 v10 לִגְב֣וּל|liḡ·ḇūl|border|H1366|Prep-l | N-msc
 v10 קֵ֑דְמָה|qê·ḏə·māh|And your eastern|H6924|Adv | 3fs
-v10 מֵחֲצַ֥ר|mê·ḥă·ṣar||H2704|Prep
+v10 מֵחֲצַ֥ר|mê·ḥă·ṣar|-|H2704|Prep
 v10 עֵינָ֖ן|‘ê·nān|Hazar-enan|H2704|Prep | N-proper-fs
 v10 שְׁפָֽמָה׃|šə·p̄ā·māh|to Shepham|H8221|N-proper-fs | 3fs
 v11 וְיָרַ֨ד|wə·yā·raḏ|go down|H3381|Conj-w | V-Qal-ConjPerf-3ms
@@ -154,7 +154,7 @@ v13 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v13 לֵאמֹ֑ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v13 זֹ֣את|zōṯ|{Apportion} this|H2063|Pro-fs
 v13 הָאָ֗רֶץ|hā·’ā·reṣ|land|H776|Art | N-fs
-v13 אֲשֶׁ֨ר|’ă·šer||H834|Pro-r
+v13 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v13 תִּתְנַחֲל֤וּ|tiṯ·na·ḥă·lū|as an inheritance|H5157|V-Hitpael-Imperf-2mp
 v13 אֹתָהּ֙|’ō·ṯāh|-|H853|DirObjM | 3fs
 v13 בְּגוֹרָ֔ל|bə·ḡō·w·rāl|by lot|H1486|Prep-b | N-ms
@@ -192,8 +192,8 @@ v15 נַחֲלָתָ֗ם|na·ḥă·lā·ṯām|their inheritance|H5159|N-fsc |
 v15 מֵעֵ֛בֶר|mê·‘ê·ḇer|across|H5676|Prep-m | N-msc
 v15 לְיַרְדֵּ֥ן|lə·yar·dên|the Jordan|H3383|Prep-l | N-proper-fs
 v15 יְרֵח֖וֹ|yə·rê·ḥōw|from Jericho|H3405|N-proper-fs
-v15 קֵ֥דְמָה|qê·ḏə·māh|vvv|H6924|Adv | 3fs
-v15 מִזְרָֽחָה׃פ|miz·rā·ḥāh|toward the sunrise|H4217|N-ms | 3fs
+v15 קֵ֥דְמָה|qê·ḏə·māh|...|H6924|Adv | 3fs
+v15 מִזְרָֽחָה׃|miz·rā·ḥāh|toward the sunrise|H4217|N-ms | 3fs
 v16 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v16 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v16 אֶל־|’el-|to|H413|Prep
@@ -233,7 +233,7 @@ v20 וּלְמַטֵּה֙|ū·lə·maṭ·ṭêh|from the tribe|H4294|Conj-w, P
 v20 בְּנֵ֣י|bə·nê|son|H1121|N-mpc
 v20 שִׁמְע֔וֹן|šim·‘ō·wn|of Simeon|H8095|N-proper-ms
 v20 שְׁמוּאֵ֖ל|šə·mū·’êl|Shemuel|H8050|N-proper-ms
-v20 בֶּן־|ben-||H1121|N-msc
+v20 בֶּן־|ben-|-|H1121|N-msc
 v20 עַמִּיהֽוּד׃|‘am·mî·hūḏ|of Ammihud|H5989|N-proper-ms
 v21 לְמַטֵּ֣ה|lə·maṭ·ṭêh|from the tribe|H4294|Prep-l | N-msc
 v21 בִנְיָמִ֔ן|ḇin·yā·min|of Benjamin|H1144|N-proper-ms
@@ -245,7 +245,7 @@ v22 בְנֵי־|ḇə·nê-|son|H1121|N-mpc
 v22 דָ֖ן|ḏān|of Dan|H1835|N-proper-ms
 v22 נָשִׂ֑יא|nā·śî|a leader|H5387|N-ms
 v22 בֻּקִּ֖י|buq·qî|Bukki|H1231|N-proper-ms
-v22 בֶּן־|ben-||H1121|N-msc
+v22 בֶּן־|ben-|-|H1121|N-msc
 v22 יָגְלִֽי׃|yā·ḡə·lî|of Jogli|H3020|N-proper-ms
 v23 לִבְנֵ֣י|liḇ·nê|son|H1121|Prep-l | N-msc
 v23 יוֹסֵ֔ף|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
@@ -257,7 +257,7 @@ v23 חַנִּיאֵ֖ל|ḥan·nî·’êl|Hanniel|H2592|N-proper-ms
 v23 בֶּן־|ben-|of Manasseh|H1121|N-msc
 v23 אֵפֹֽד׃|’ê·p̄ōḏ|of Ephod|H641|N-proper-ms
 v24 וּלְמַטֵּ֥ה|ū·lə·maṭ·ṭêh|from the tribe|H4294|Conj-w, Prep-l | N-msc
-v24 בְנֵֽי־|ḇə·nê-||H1121|N-mpc
+v24 בְנֵֽי־|ḇə·nê-|-|H1121|N-mpc
 v24 אֶפְרַ֖יִם|’ep̄·ra·yim|of Ephraim|H669|N-proper-ms
 v24 נָשִׂ֑יא|nā·śî|a leader|H5387|N-ms
 v24 קְמוּאֵ֖ל|qə·mū·’êl|Kemuel|H7055|N-proper-ms
@@ -268,28 +268,28 @@ v25 בְנֵֽי־|ḇə·nê-|son|H1121|N-mpc
 v25 זְבוּלֻ֖ן|zə·ḇū·lun|of Zebulun|H2074|N-proper-ms
 v25 נָשִׂ֑יא|nā·śî|a leader|H5387|N-ms
 v25 אֱלִיצָפָ֖ן|’ĕ·lî·ṣā·p̄ān|Eli-zaphan|H469|N-proper-ms
-v25 בֶּן־|ben-||H1121|N-msc
+v25 בֶּן־|ben-|-|H1121|N-msc
 v25 פַּרְנָֽךְ׃|par·nāḵ|of Parnach|H6535|N-proper-ms
 v26 וּלְמַטֵּ֥ה|ū·lə·maṭ·ṭêh|from the tribe|H4294|Conj-w, Prep-l | N-msc
 v26 בְנֵֽי־|ḇə·nê-|son|H1121|N-mpc
 v26 יִשָׂשכָ֖ר|yi·śā·š·ḵār|of Issachar|H3485|N-proper-ms
 v26 נָשִׂ֑יא|nā·śî|a leader|H5387|N-ms
 v26 פַּלְטִיאֵ֖ל|pal·ṭî·’êl|Paltiel|H6409|N-proper-ms
-v26 בֶּן־|ben-||H1121|N-msc
+v26 בֶּן־|ben-|-|H1121|N-msc
 v26 עַזָּֽן׃|‘az·zān|of Azzan|H5821|N-proper-ms
 v27 וּלְמַטֵּ֥ה|ū·lə·maṭ·ṭêh|from the tribe|H4294|Conj-w, Prep-l | N-msc
 v27 בְנֵי־|ḇə·nê-|son|H1121|N-mpc
 v27 אָשֵׁ֖ר|’ā·šêr|of Asher|H836|N-proper-ms
 v27 נָשִׂ֑יא|nā·śî|a leader|H5387|N-ms
 v27 אֲחִיה֖וּד|’ă·ḥî·hūḏ|Ahihud|H282|N-proper-ms
-v27 בֶּן־|ben-||H1121|N-msc
+v27 בֶּן־|ben-|-|H1121|N-msc
 v27 שְׁלֹמִֽי׃|šə·lō·mî|of Shelomi|H8015|N-proper-ms
 v28 וּלְמַטֵּ֥ה|ū·lə·maṭ·ṭêh|from the tribe|H4294|Conj-w, Prep-l | N-msc
 v28 בְנֵֽי־|ḇə·nê-|son|H1121|N-mpc
 v28 נַפְתָּלִ֖י|nap̄·tā·lî|of Naphtali|H5321|N-proper-ms
 v28 נָשִׂ֑יא|nā·śî|a leader|H5387|N-ms
 v28 פְּדַהְאֵ֖ל|pə·ḏah·’êl|and Pedahel|H6300|N-proper-ms
-v28 בֶּן־|ben-||H1121|N-msc
+v28 בֶּן־|ben-|-|H1121|N-msc
 v28 עַמִּיהֽוּד׃|‘am·mî·hūḏ|of Ammihud|H5989|N-proper-ms
 v29 אֵ֕לֶּה|’êl·leh|These|H428|Pro-cp
 v29 אֲשֶׁ֖ר|’ă·šer|are the ones whom|H834|Pro-r
@@ -300,4 +300,4 @@ v29 אֶת־|’eṯ-|-|H853|DirObjM
 v29 בְּנֵֽי־|bə·nê-|to the Israelites|H1121|N-mpc
 v29 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v29 בְּאֶ֥רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
-v29 כְּנָֽעַן׃פ|kə·nā·‘an|of Canaan|H3667|N-proper-ms
+v29 כְּנָֽעַן׃|kə·nā·‘an|of Canaan|H3667|N-proper-ms

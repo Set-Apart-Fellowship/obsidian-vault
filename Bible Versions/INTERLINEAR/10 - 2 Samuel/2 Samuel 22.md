@@ -71,7 +71,7 @@ v8 יִרְגָּ֑זוּ|yir·gā·zū|trembled|H7264|V-Qal-Imperf-3mp
 v8 וַיִּֽתְגָּעֲשׁ֖וּ|way·yiṯ·gā·‘ă·šū|they were shaken|H1607|Conj-w | V-Hitpael-ConsecImperf-3mp
 v8 כִּֽי־|kî-|because|H3588|Conj
 v8 חָ֥רָה|ḥā·rāh|He burned with anger|H2734|V-Qal-Perf-3ms
-v8 לֽוֹ׃|lōw||H0|Prep | 3ms
+v8 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v9 עָלָ֤ה|‘ā·lāh|rose|H5927|V-Qal-Perf-3ms
 v9 עָשָׁן֙|‘ā·šān|Smoke|H6227|N-ms
 v9 בְּאַפּ֔וֹ|bə·’ap·pōw|from His nostrils|H639|Prep-b | N-msc | 3ms
@@ -150,7 +150,7 @@ v19 אֵידִ֑י|’ê·ḏî|of calamity|H343|N-msc | 1cs
 v19 וַיְהִ֧י|way·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v19 יְהוָ֛ה|Yah·weh|but the LORD|H3068|N-proper-ms
 v19 מִשְׁעָ֖ן|miš·‘ān|my support|H4937|N-ms
-v19 לִֽי׃|lî||H0|Prep | 1cs
+v19 לִֽי׃|lî|-|H0|Prep | 1cs
 v20 וַיֹּצֵ֥א|way·yō·ṣê|He brought me out|H3318|Conj-w | V-Hifil-ConsecImperf-3ms
 v20 לַמֶּרְחָ֖ב|lam·mer·ḥāḇ|into the open|H4800|Prep-l, Art | N-ms
 v20 אֹתִ֑י|’ō·ṯî|-|H853|DirObjM | 1cs
@@ -379,4 +379,4 @@ v51 לִמְשִׁיח֛וֹ|lim·šî·ḥōw|to His anointed|H4899|Prep-l | Ad
 v51 לְדָוִ֥ד|lə·ḏā·wiḏ|to David|H1732|Prep-l | N-proper-ms
 v51 וּלְזַרְע֖וֹ|ū·lə·zar·‘ōw|and his descendants|H2233|Conj-w, Prep-l | N-msc | 3ms
 v51 עַד־|‘aḏ-|forever|H5704|Prep
-v51 עוֹלָֽם׃פ|‘ō·w·lām|...|H5769|N-ms
+v51 עוֹלָֽם׃|‘ō·w·lām|...|H5769|N-ms

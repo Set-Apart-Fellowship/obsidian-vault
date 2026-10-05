@@ -29,7 +29,7 @@ v2 שִׁבְטֵ֤י|šiḇ·ṭê|the tribes|H7626|N-mpc
 v2 יִשְׂרָאֵל֙|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 מִדָּן֙|mid·dān|from Dan|H1835|Prep-m | N-proper-ms
 v2 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
-v2 בְּאֵ֣ר|bə·’êr|vvv|H884|Prep
+v2 בְּאֵ֣ר|bə·’êr|...|H884|Prep
 v2 שֶׁ֔בַע|še·ḇa‘|Beersheba|H884|N-proper-fs
 v2 וּפִקְד֖וּ|ū·p̄iq·ḏū|and register|H6485|Conj-w | V-Qal-Imp-mp
 v2 אֶת־|’eṯ-|-|H853|DirObjM
@@ -37,7 +37,7 @@ v2 הָעָ֑ם|hā·‘ām|the troops|H5971|Art | N-ms
 v2 וְיָ֣דַעְתִּ֔י|wə·yā·ḏa‘·tî|so that I may know|H3045|Conj-w | V-Qal-ConjPerf-1cs
 v2 אֵ֖ת|’êṯ|-|H853|DirObjM
 v2 מִסְפַּ֥ר|mis·par|their number|H4557|N-msc
-v2 הָעָֽם׃ס|hā·‘ām|...|H5971|Art | N-ms
+v2 הָעָֽם׃|hā·‘ām|...|H5971|Art | N-ms
 v3 וַיֹּ֨אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v3 יוֹאָ֜ב|yō·w·’āḇ|But Joab|H3097|N-proper-ms
 v3 אֶל־|’el-|to|H413|Prep
@@ -97,10 +97,10 @@ v6 וַיָּבֹ֙אוּ֙|way·yā·ḇō·’ū|Then they went|H935|Conj-w | 
 v6 הַגִּלְעָ֔דָה|hag·gil·‘ā·ḏāh|to Gilead|H1568|Art | N-proper-fs | 3fs
 v6 וְאֶל־|wə·’el-|and|H413|Conj-w | Prep
 v6 אֶ֥רֶץ|’e·reṣ|the land|H776|N-fsc
-v6 תַּחְתִּ֖ים|taḥ·tîm|vvv|H8483|
+v6 תַּחְתִּ֖ים|taḥ·tîm|...|H8483|
 v6 חָדְשִׁ֑י|ḥā·ḏə·šî|of Tahtim-hodshi|H8483|N-proper-fs
 v6 וַיָּבֹ֙אוּ֙|way·yā·ḇō·’ū|and|H935|Conj-w | V-Qal-ConsecImperf-3mp
-v6 דָּ֣נָה|dā·nāh|vvv|H1835|
+v6 דָּ֣נָה|dā·nāh|...|H1835|
 v6 יַּ֔עַן|ya·‘an|on to Dan-jaan|H1842|N-proper-fs | 3fs
 v6 וְסָבִ֖יב|wə·sā·ḇîḇ|and around|H5439|Conj-w | Adv
 v6 אֶל־|’el-|to|H413|Prep
@@ -116,7 +116,7 @@ v7 וַיֵּֽצְא֛וּ|way·yê·ṣə·’ū|Finally, they went on|H3318|C
 v7 אֶל־|’el-|to|H413|Prep
 v7 נֶ֥גֶב|ne·ḡeḇ|the Negev|H5045|N-proper-fs
 v7 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
-v7 בְּאֵ֥ר|bə·’êr|vvv|H884|Prep
+v7 בְּאֵ֥ר|bə·’êr|...|H884|Prep
 v7 שָֽׁבַע׃|šā·ḇa‘|[to] Beersheba|H884|N-proper-fs
 v8 וַיָּשֻׁ֖טוּ|way·yā·šu·ṭū|having gone|H7751|Conj-w | V-Qal-ConsecImperf-3mp
 v8 בְּכָל־|bə·ḵāl|through the whole|H3605|Prep-b | N-msc
@@ -138,7 +138,7 @@ v9 אֶל־|’el-|...|H413|Prep
 v9 הַמֶּ֑לֶךְ|ham·me·leḵ|to the king|H4428|Art | N-ms
 v9 וַתְּהִ֣י|wat·tə·hî|there were|H1961|Conj-w | V-Qal-ConsecImperf-3fs
 v9 יִשְׂרָאֵ֡ל|yiś·rā·’êl|In Israel|H3478|N-proper-ms
-v9 שְׁמֹנֶה֩|šə·mō·neh|800,000 {}|H8083|Number-fs
+v9 שְׁמֹנֶה֩|šə·mō·neh|800,000|H8083|Number-fs
 v9 מֵא֨וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v9 אֶ֤לֶף|’e·lep̄|...|H505|Number-ms
 v9 אִֽישׁ־|’îš-|men|H376|N-ms
@@ -192,7 +192,7 @@ v11 דָוִ֖ד|ḏā·wiḏ|David's|H1732|N-proper-ms
 v11 לֵאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v12 הָל֞וֹךְ|hā·lō·wḵ|Go|H1980|V-Qal-InfAbs
 v12 וְדִבַּרְתָּ֣|wə·ḏib·bar·tā|and tell|H1696|Conj-w | V-Piel-ConjPerf-2ms
-v12 אֶל־|’el-||H413|Prep
+v12 אֶל־|’el-|-|H413|Prep
 v12 דָּוִ֗ד|dā·wiḏ|David|H1732|N-proper-ms
 v12 כֹּ֚ה|kōh|that this is what|H3541|Adv
 v12 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -202,7 +202,7 @@ v12 אָנֹכִ֖י|’ā·nō·ḵî|I|H595|Pro-1cs
 v12 נוֹטֵ֣ל|nō·w·ṭêl|am offering|H5190|V-Qal-Prtcpl-ms
 v12 עָלֶ֑יךָ|‘ā·le·ḵā|...|H5921|Prep | 2ms
 v12 בְּחַר־|bə·ḥar-|Choose|H977|V-Qal-Imp-ms
-v12 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v12 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v12 אַֽחַת־|’a·ḥaṯ-|one|H259|Number-fs
 v12 מֵהֶ֖ם|mê·hem|of them|H0|Prep-m | Pro-3mp
 v12 וְאֶֽעֱשֶׂה־|wə·’e·‘ĕ·śeh-|and I will carry it out|H6213|Conj-w | V-Qal-ConjImperf.h-1cs
@@ -227,7 +227,7 @@ v13 חֳ֠דָשִׁים|ḥo·ḏā·šîm|months|H2320|N-mp
 v13 נֻסְךָ֨|nus·ḵā|of fleeing|H5127|V-Qal-Inf | 2ms
 v13 לִפְנֵֽי־|lip̄·nê-|of|H6440|Prep-l | N-mpc
 v13 צָרֶ֜יךָ|ṣā·re·ḵā|your enemies|H6862|N-mpc | 2ms
-v13 וְה֣וּא|wə·hū|vvv|H1931|Conj-w | Pro-3ms
+v13 וְה֣וּא|wə·hū|...|H1931|Conj-w | Pro-3ms
 v13 רֹדְפֶ֗ךָ|rō·ḏə·p̄e·ḵā|the pursuit|H7291|V-Qal-Prtcpl-msc | 2ms
 v13 וְאִם־|wə·’im-|or|H518|Conj
 v13 הֱ֠יוֹת|hĕ·yō·wṯ|of|H1961|V-Qal-Inf
@@ -241,7 +241,7 @@ v13 וּרְאֵ֔ה|ū·rə·’êh|and decide|H7200|Conj-w | V-Qal-Imp-ms
 v13 מָה־|māh-|how|H4100|Interrog
 v13 אָשִׁ֥יב|’ā·šîḇ|...|H7725|V-Hifil-Imperf-1cs
 v13 שֹׁלְחִ֖י|šō·lə·ḥî|to Him who sent me|H7971|V-Qal-Prtcpl-msc | 1cs
-v13 דָּבָֽר׃ס|dā·ḇār|I should reply|H1697|N-ms
+v13 דָּבָֽר׃|dā·ḇār|I should reply|H1697|N-ms
 v14 וַיֹּ֧אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v14 דָּוִ֛ד|dā·wiḏ|David|H1732|N-proper-ms
 v14 אֶל־|’el-|...|H413|Prep
@@ -273,7 +273,7 @@ v15 מִן־|min-|from|H4480|Prep
 v15 הָעָ֗ם|hā·‘ām|of the people|H5971|Art | N-ms
 v15 מִדָּן֙|mid·dān|Dan|H1835|Prep-m | N-proper-ms
 v15 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
-v15 בְּאֵ֣ר|bə·’êr|vvv|H884|Prep
+v15 בְּאֵ֣ר|bə·’êr|...|H884|Prep
 v15 שֶׁ֔בַע|še·ḇa‘|Beersheba|H884|N-proper-fs
 v15 שִׁבְעִ֥ים|šiḇ·‘îm|and seventy|H7657|Number-cp
 v15 אֶ֖לֶף|’e·lep̄|thousand|H505|Number-ms
@@ -301,7 +301,7 @@ v16 הָיָ֔ה|hā·yāh|was|H1961|V-Qal-Perf-3ms
 v16 עִם־|‘im-|by|H5973|Prep
 v16 גֹּ֖רֶן|gō·ren|the threshing floor|H1637|N-fsc
 v16 הָאוֹרְנָה|hå̄·ʾō·rə·nå̄h|of Araunah|H728|Art | N-proper-ms
-v16 הַיְבֻסִֽי׃ס|hay·ḇu·sî|the Jebusite|H2983|Art | N-proper-ms
+v16 הַיְבֻסִֽי׃|hay·ḇu·sî|the Jebusite|H2983|Art | N-proper-ms
 v17 וַיֹּאמֶר֩|way·yō·mer|he said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v17 דָּוִ֨ד|dā·wiḏ|When David|H1732|N-proper-ms
 v17 אֶל־|’el-|to|H413|Prep
@@ -326,7 +326,7 @@ v17 נָ֥א|nā|Please|H4994|Interjection
 v17 יָדְךָ֛|yā·ḏə·ḵā|let Your hand|H3027|N-fsc | 2ms
 v17 בִּ֖י|bî|me|H0|Prep | 1cs
 v17 וּבְבֵ֥ית|ū·ḇə·ḇêṯ|house|H1004|Conj-w, Prep-b | N-msc
-v17 אָבִֽי׃פ|’ā·ḇî|and my father's|H1|N-msc | 1cs
+v17 אָבִֽי׃|’ā·ḇî|and my father's|H1|N-msc | 1cs
 v18 וַיָּבֹא־|way·yā·ḇō-|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v18 גָ֥ד|ḡāḏ|Gad|H1410|N-proper-ms
 v18 אֶל־|’el-|to|H413|Prep

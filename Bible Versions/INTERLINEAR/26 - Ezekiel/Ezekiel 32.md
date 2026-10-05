@@ -1,4 +1,4 @@
-v1 וַֽיְהִי֙|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v1 וַֽיְהִי֙|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v1 בִּשְׁתֵּ֣י|biš·tê|In the twelfth|H8147|Prep-b | Number-fdc
 v1 עֶשְׂרֵ֣ה|‘eś·rêh|...|H6240|Number-fs
 v1 שָׁנָ֔ה|šā·nāh|year|H8141|N-fs
@@ -80,7 +80,7 @@ v6 אֶל־|’el-|all the way to|H413|Prep
 v6 הֶֽהָרִ֑ים|he·hā·rîm|the mountains|H2022|Art | N-mp
 v6 וַאֲפִקִ֖ים|wa·’ă·p̄i·qîm|the ravines|H650|Conj-w | N-mp
 v6 יִמָּלְא֥וּן|yim·mā·lə·’ūn|will be filled|H4390|V-Nifal-Imperf-3mp | Pn
-v6 מִמֶּֽךָּ׃|mim·me·kā||H4480|Prep | 2ms
+v6 מִמֶּֽךָּ׃|mim·me·kā|-|H4480|Prep | 2ms
 v7 וְכִסֵּיתִ֤י|wə·ḵis·sê·ṯî|I will cover|H3680|Conj-w | V-Piel-ConjPerf-1cs
 v7 בְכַבּֽוֹתְךָ֙|ḇə·ḵab·bō·wṯ·ḵā|When I extinguish you|H3518|Prep-b | V-Piel-Inf | 2ms
 v7 שָׁמַ֔יִם|šā·ma·yim|the heavens|H8064|N-mp
@@ -136,7 +136,7 @@ v10 לִרְגָעִים֙|lir·ḡā·‘îm|every moment|H7281|Prep-l | N-mp
 v10 אִ֣ישׁ|’îš|each of them|H376|N-ms
 v10 לְנַפְשׁ֔וֹ|lə·nap̄·šōw|for his life|H5315|Prep-l | N-fsc | 3ms
 v10 בְּי֖וֹם|bə·yō·wm|On the day|H3117|Prep-b | N-msc
-v10 מַפַּלְתֶּֽךָ׃ס|map·pal·te·ḵā|of your downfall|H4658|N-fsc | 2ms
+v10 מַפַּלְתֶּֽךָ׃|map·pal·te·ḵā|of your downfall|H4658|N-fsc | 2ms
 v11 כִּ֛י|kî|For|H3588|Conj
 v11 כֹּ֥ה|kōh|this is what|H3541|Adv
 v11 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -218,7 +218,7 @@ v16 תְּקוֹנֵ֣נָּה|tə·qō·w·nên·nāh|they will chant it|H6969|
 v16 אוֹתָ֔הּ|’ō·w·ṯāh|-|H853|DirObjM | 3fs
 v16 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v16 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v16 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v16 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v17 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v17 בִּשְׁתֵּ֣י|biš·tê|In the twelfth|H8147|Prep-b | Number-fdc
 v17 עֶשְׂרֵ֣ה|‘eś·rêh|...|H6240|Number-fs
@@ -265,7 +265,7 @@ v20 אוֹתָ֖הּ|’ō·w·ṯāh|-|H853|DirObjM | 3fs
 v20 וְכָל־|wə·ḵāl|along with all|H3605|Conj-w | N-msc
 v20 הֲמוֹנֶֽיהָ׃|hă·mō·w·ne·hā|her multitudes|H1995|N-mpc | 3fs
 v21 יְדַבְּרוּ־|yə·ḏab·bə·rū-|will speak|H1696|V-Piel-Imperf-3mp
-v21 ל֞וֹ|lōw||H0|Prep | 3ms
+v21 ל֞וֹ|lōw|-|H0|Prep | 3ms
 v21 אֵלֵ֧י|’ê·lê|chiefs|H352|N-mpc
 v21 גִבּוֹרִ֛ים|ḡib·bō·w·rîm|Mighty|H1368|Adj-mp
 v21 מִתּ֥וֹךְ|mit·tō·wḵ|from the midst|H8432|Prep-m | N-msc
@@ -479,4 +479,4 @@ v32 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v32 הֲמוֹנֹ֔ה|hă·mō·nōh|his multitude|H1995|N-msc | 3ms
 v32 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v32 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v32 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v32 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

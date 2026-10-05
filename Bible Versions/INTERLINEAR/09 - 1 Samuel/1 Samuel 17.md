@@ -12,7 +12,7 @@ v1 בֵּין־|bên-|between|H996|Prep
 v1 שׂוֹכֹ֥ה|śō·w·ḵōh|Socoh|H7755|N-proper-fs
 v1 וּבֵין־|ū·ḇên-|...|H996|Conj-w | Prep
 v1 עֲזֵקָ֖ה|‘ă·zê·qāh|and Azekah|H5825|N-proper-fs
-v1 בְּאֶ֥פֶס|bə·’e·p̄es|vvv|H658|Prep
+v1 בְּאֶ֥פֶס|bə·’e·p̄es|...|H658|Prep
 v1 דַּמִּֽים׃|dam·mîm|in Ephes-dammim|H658|Prep | N-proper-fs
 v2 וְשָׁא֤וּל|wə·šā·’ūl|Saul|H7586|Conj-w | N-proper-ms
 v2 וְאִֽישׁ־|wə·’îš-|and the men|H376|Conj-w | N-msc
@@ -91,7 +91,7 @@ v8 אֶל־|’el-|to|H413|Prep
 v8 מַעַרְכֹ֣ת|ma·‘ar·ḵōṯ|the ranks|H4634|N-fpc
 v8 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v8 וַיֹּ֣אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v8 לָהֶ֔ם|lā·hem||H0|Prep | 3mp
+v8 לָהֶ֔ם|lā·hem|-|H0|Prep | 3mp
 v8 לָ֥מָּה|lām·māh|Why|H4100|Interrog
 v8 תֵצְא֖וּ|ṯê·ṣə·’ū|do you come out|H3318|V-Qal-Imperf-2mp
 v8 לַעֲרֹ֣ךְ|la·‘ă·rōḵ|and array yourselves|H6186|Prep-l | V-Qal-Inf
@@ -103,7 +103,7 @@ v8 וְאַתֶּם֙|wə·’at·tem|and are you|H859|Conj-w | Pro-2mp
 v8 עֲבָדִ֣ים|‘ă·ḇā·ḏîm|not servants|H5650|N-mp
 v8 לְשָׁא֔וּל|lə·šā·’ūl|of Saul|H7586|Prep-l | N-proper-ms
 v8 בְּרוּ־|bə·rū-|Choose|H1262|V-Qal-Imp-mp
-v8 לָכֶ֥ם|lā·ḵem||H0|Prep | 2mp
+v8 לָכֶ֥ם|lā·ḵem|-|H0|Prep | 2mp
 v8 אִ֖ישׁ|’îš|one of your men|H376|N-ms
 v8 וְיֵרֵ֥ד|wə·yê·rêḏ|and have him come down|H3381|Conj-w | V-Qal-ConjImperf-3ms
 v8 אֵלָֽי׃|’ê·lāy|against me|H413|Prep | 1cs
@@ -149,13 +149,13 @@ v11 הַפְּלִשְׁתִּ֖י|hap·pə·liš·tî|of the Philistine|H6430|A
 v11 הָאֵ֑לֶּה|hā·’êl·leh|the|H428|Art | Pro-cp
 v11 וַיֵּחַ֥תּוּ|way·yê·ḥat·tū|were dismayed|H2865|Conj-w | V-Nifal-ConsecImperf-3mp
 v11 וַיִּֽרְא֖וּ|way·yir·’ū|afraid|H3372|Conj-w | V-Qal-ConsecImperf-3mp
-v11 מְאֹֽד׃פ|mə·’ōḏ|and greatly|H3966|Adv
+v11 מְאֹֽד׃|mə·’ōḏ|and greatly|H3966|Adv
 v12 וְדָוִד֩|wə·ḏā·wiḏ|Now David|H1732|Conj-w | N-proper-ms
 v12 בֶּן־|ben-|was the son|H1121|N-msc
 v12 אִ֨ישׁ|’îš|of a man|H376|N-ms
 v12 אֶפְרָתִ֜י|’ep̄·rā·ṯî|an Ephrathite|H673|N-proper-ms
 v12 הַזֶּ֗ה|haz·zeh|-|H2088|Art | Pro-ms
-v12 מִבֵּ֥ית|mib·bêṯ|vvv|H1035|Prep
+v12 מִבֵּ֥ית|mib·bêṯ|...|H1035|Prep
 v12 לֶ֙חֶם֙|le·ḥem|from Bethlehem|H1035|Prep | N-proper-fs
 v12 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v12 וּשְׁמ֣וֹ|ū·šə·mōw|named|H8034|Conj-w | N-msc | 3ms
@@ -197,7 +197,7 @@ v14 וּשְׁלֹשָׁה֙|ū·šə·lō·šāh|The three|H7969|Conj-w | Numbe
 v14 הַגְּדֹלִ֔ים|hag·gə·ḏō·lîm|oldest|H1419|Art | Adj-mp
 v14 הָלְכ֖וּ|hā·lə·ḵū|had followed|H1980|V-Qal-Perf-3cp
 v14 אַחֲרֵ֥י|’a·ḥă·rê|...|H310|Prep
-v14 שָׁאֽוּל׃ס|šā·’ūl|Saul|H7586|N-proper-ms
+v14 שָׁאֽוּל׃|šā·’ūl|Saul|H7586|N-proper-ms
 v15 וְדָוִ֛ד|wə·ḏā·wiḏ|but David|H1732|Conj-w | N-proper-ms
 v15 הֹלֵ֥ךְ|hō·lêḵ|went back and forth|H1980|V-Qal-Prtcpl-ms
 v15 וָשָׁ֖ב|wā·šāḇ|...|H7725|Conj-w | V-Qal-Prtcpl-ms
@@ -207,7 +207,7 @@ v15 לִרְע֛וֹת|lir·‘ō·wṯ|to tend|H7462|Prep-l | V-Qal-Inf
 v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 צֹ֥אן|ṣōn|sheep|H6629|N-csc
 v15 אָבִ֖יו|’ā·ḇîw|his father's|H1|N-msc | 3ms
-v15 בֵּֽית־|bêṯ-|vvv|H1035|Prep
+v15 בֵּֽית־|bêṯ-|...|H1035|Prep
 v15 לָֽחֶם׃|lā·ḥem|in Bethlehem|H1035|N-proper-fs
 v16 וַיִּגַּ֥שׁ|way·yig·gaš|came forward|H5066|Conj-w | V-Qal-ConsecImperf-3ms
 v16 הַפְּלִשְׁתִּ֖י|hap·pə·liš·tî|the Philistine|H6430|Art | N-proper-ms
@@ -215,7 +215,7 @@ v16 הַשְׁכֵּ֣ם|haš·kêm|every morning|H7925|V-Hifil-InfAbs
 v16 וְהַעֲרֵ֑ב|wə·ha·‘ă·rêḇ|and evening|H6150|Conj-w | V-Hifil-InfAbs
 v16 וַיִּתְיַצֵּ֖ב|way·yiṯ·yaṣ·ṣêḇ|to take his stand|H3320|Conj-w | V-Hitpael-ConsecImperf-3ms
 v16 אַרְבָּעִ֥ים|’ar·bā·‘îm|For forty|H705|Number-cp
-v16 יֽוֹם׃פ|yō·wm|days|H3117|N-ms
+v16 יֽוֹם׃|yō·wm|days|H3117|N-ms
 v17 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v17 יִשַׁ֜י|yi·šay|One day Jesse|H3448|N-proper-ms
 v17 לְדָוִ֣ד|lə·ḏā·wiḏ|David|H1732|Prep-l | N-proper-ms
@@ -494,7 +494,7 @@ v33 אַ֔תָּה|’at·tāh|You are|H859|Pro-2ms
 v33 וְה֛וּא|wə·hū|and he|H1931|Conj-w | Pro-3ms
 v33 אִ֥ישׁ|’îš|has been a warrior|H376|N-msc
 v33 מִלְחָמָ֖ה|mil·ḥā·māh|...|H4421|N-fs
-v33 מִנְּעֻרָֽיו׃ס|min·nə·‘u·rāw|from his youth|H5271|Prep-m | N-mpc | 3ms
+v33 מִנְּעֻרָֽיו׃|min·nə·‘u·rāw|from his youth|H5271|Prep-m | N-mpc | 3ms
 v34 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v34 דָּוִד֙|dā·wiḏ|David|H1732|N-proper-ms
 v34 אֶל־|’el-|-|H413|Prep
@@ -539,7 +539,7 @@ v36 כִּ֣י|kî|for|H3588|Conj
 v36 חֵרֵ֔ף|ḥê·rêp̄|he has defied|H2778|V-Piel-Perf-3ms
 v36 מַעַרְכֹ֖ת|ma·‘ar·ḵōṯ|the armies|H4634|N-fpc
 v36 אֱלֹהִ֥ים|’ĕ·lō·hîm|God|H430|N-mp
-v36 חַיִּֽים׃ס|ḥay·yîm|of the living|H2416|Adj-mp
+v36 חַיִּֽים׃|ḥay·yîm|of the living|H2416|Adj-mp
 v37 וַיֹּאמֶר֮|way·yō·mer|added|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v37 דָּוִד֒|dā·wiḏ|David|H1732|N-proper-ms
 v37 יְהוָ֗ה|Yah·weh|The LORD|H3068|N-proper-ms
@@ -604,7 +604,7 @@ v40 וַיִּקַּ֨ח|way·yiq·qaḥ|And [David] took|H3947|Conj-w | V-Qal-C
 v40 מַקְל֜וֹ|maq·lōw|his staff|H4731|N-msc | 3ms
 v40 בְּיָד֗וֹ|bə·yā·ḏōw|in his hand|H3027|Prep-b | N-fsc | 3ms
 v40 וַיִּבְחַר־|way·yiḇ·ḥar-|selected|H977|Conj-w | V-Qal-ConsecImperf-3ms
-v40 ל֣וֹ|lōw||H0|Prep | 3ms
+v40 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v40 חֲמִשָּׁ֣ה|ḥă·miš·šāh|five|H2568|Number-ms
 v40 חַלֻּקֵֽי־|ḥal·lu·qê-|smooth|H2512|N-mpc
 v40 אֲבָנִ֣ים׀|’ă·ḇā·nîm|stones|H68|N-fp
@@ -615,7 +615,7 @@ v40 אֹ֠תָם|’ō·ṯām|them|H853|DirObjM | 3mp
 v40 בִּכְלִ֨י|biḵ·lî|bag|H3627|Prep-b | N-msc
 v40 הָרֹעִ֧ים|hā·rō·‘îm|of his shepherd's|H7462|Art | V-Qal-Prtcpl-mp
 v40 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v40 ל֛וֹ|lōw||H0|Prep | 3ms
+v40 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v40 וּבַיַּלְק֖וּט|ū·ḇay·yal·qūṭ|in the pouch|H3219|Conj-w, Prep-b, Art | N-ms
 v40 וְקַלְּע֣וֹ|wə·qal·lə·‘ōw|And with his sling|H7050|Conj-w | N-msc | 3ms
 v40 בְיָד֑וֹ|ḇə·yā·ḏōw|in hand|H3027|Prep-b | N-fsc | 3ms
@@ -673,7 +673,7 @@ v44 בְּשָׂ֣רְךָ֔|bə·śā·rə·ḵā|your flesh|H1320|N-msc | 2ms
 v44 לְע֥וֹף|lə·‘ō·wp̄|to the birds|H5775|Prep-l | N-msc
 v44 הַשָּׁמַ֖יִם|haš·šā·ma·yim|of the air|H8064|Art | N-mp
 v44 וּלְבֶהֱמַ֥ת|ū·lə·ḇe·hĕ·maṯ|and the beasts|H929|Conj-w, Prep-l | N-fsc
-v44 הַשָּׂדֶֽה׃ס|haś·śā·ḏeh|of the field|H7704|Art | N-ms
+v44 הַשָּׂדֶֽה׃|haś·śā·ḏeh|of the field|H7704|Art | N-ms
 v45 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v45 דָּוִד֙|dā·wiḏ|But David|H1732|N-proper-ms
 v45 אֶל־|’el-|to|H413|Prep
@@ -771,7 +771,7 @@ v49 וַתִּטְבַּ֤ע|wat·tiṭ·ba‘|sank|H2883|Conj-w | V-Qal-ConsecI
 v49 הָאֶ֙בֶן֙|hā·’e·ḇen|The stone|H68|Art | N-fs
 v49 בְּמִצְח֔וֹ|bə·miṣ·ḥōw|into his forehead|H4696|Prep-b | N-msc | 3ms
 v49 וַיִּפֹּ֥ל|way·yip·pōl|and he fell|H5307|Conj-w | V-Qal-ConsecImperf-3ms
-v49 עַל־|‘al-|vvv|H5921|Prep
+v49 עַל־|‘al-|...|H5921|Prep
 v49 פָּנָ֖יו|pā·nāw|facedown|H6440|N-cpc | 3ms
 v49 אָֽרְצָה׃|’ā·rə·ṣāh|on the ground|H776|N-fs | 3fs
 v50 וַיֶּחֱזַ֨ק|way·ye·ḥĕ·zaq|prevailed|H2388|Conj-w | V-Qal-ConsecImperf-3ms
@@ -815,7 +815,7 @@ v52 יִשְׂרָאֵ֨ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v52 וִיהוּדָ֜ה|wî·hū·ḏāh|and Judah|H3063|Conj-w | N-proper-ms
 v52 וַיָּרִ֗עוּ|way·yā·ri·‘ū|with a shout|H7321|Conj-w | V-Hifil-ConsecImperf-3mp
 v52 וַֽיִּרְדְּפוּ֙|way·yir·də·p̄ū|and pursued|H7291|Conj-w | V-Qal-ConsecImperf-3mp
-v52 אֶת־|’eṯ-||H853|DirObjM
+v52 אֶת־|’eṯ-|-|H853|DirObjM
 v52 הַפְּלִשְׁתִּ֔ים|hap·pə·liš·tîm|the Philistines|H6430|Art | N-proper-mp
 v52 עַד־|‘aḏ-|to|H5704|Prep
 v52 בּוֹאֲךָ֣|bō·w·’ă·ḵā|the entrance|H935|V-Qal-Inf | 2ms
@@ -851,7 +851,7 @@ v54 יְרוּשָׁלִָ֑ם|yə·rū·šā·lim|it to Jerusalem|H3389|N-prope
 v54 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v54 כֵּלָ֖יו|kê·lāw|Goliath's weapons|H3627|N-mpc | 3ms
 v54 שָׂ֥ם|śām|he put|H7760|V-Qal-Perf-3ms
-v54 בְּאָהֳלֽוֹ׃ס|bə·’ā·ho·lōw|in his own tent|H168|Prep-b | N-msc | 3ms
+v54 בְּאָהֳלֽוֹ׃|bə·’ā·ho·lōw|in his own tent|H168|Prep-b | N-msc | 3ms
 v55 וְכִרְא֨וֹת|wə·ḵir·’ō·wṯ|had watched|H7200|Conj-w, Prep-k | V-Qal-Inf
 v55 שָׁא֜וּל|šā·’ūl|As Saul|H7586|N-proper-ms
 v55 אֶת־|’eṯ-|-|H853|DirObjM
@@ -883,7 +883,7 @@ v56 אַתָּ֔ה|’at·tāh|...|H859|Pro-2ms
 v56 בֶּן־|ben-|son|H1121|N-msc
 v56 מִי־|mî-|whose|H4310|Interrog
 v56 זֶ֖ה|zeh|this|H2088|Pro-ms
-v56 הָעָֽלֶם׃ס|hā·‘ā·lem|young man is!|H5958|Art | N-ms
+v56 הָעָֽלֶם׃|hā·‘ā·lem|young man is!|H5958|Art | N-ms
 v57 וּכְשׁ֣וּב|ū·ḵə·šūḇ|returned|H7725|Conj-w, Prep-k | V-Qal-Inf
 v57 דָּוִ֗ד|dā·wiḏ|So when David|H1732|N-proper-ms
 v57 מֵֽהַכּוֹת֙|mê·hak·kō·wṯ|from killing|H5221|Prep-m | V-Hifil-Inf
@@ -910,5 +910,5 @@ v58 דָּוִ֔ד|dā·wiḏ|David|H1732|N-proper-ms
 v58 בֶּֽן־|ben-|[I am] the son|H1121|N-msc
 v58 עַבְדְּךָ֥|‘aḇ·də·ḵā|of your servant|H5650|N-msc | 2ms
 v58 יִשַׁ֖י|yi·šay|Jesse|H3448|N-proper-ms
-v58 בֵּ֥ית|bêṯ|vvv|H1022|Prep
+v58 בֵּ֥ית|bêṯ|...|H1022|Prep
 v58 הַלַּחְמִֽי׃|hal·laḥ·mî|of Bethlehem|H1022|N-proper-ms

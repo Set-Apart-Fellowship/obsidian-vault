@@ -28,7 +28,7 @@ v2 וְלֹא|wə·lō|to Him since|H3808|Conj-w | Prep | 3ms
 v2 אֲנַ֣חְנוּ|’ă·naḥ·nū|...|H587|Pro-1cp
 v2 זֹבְחִ֗ים|zō·ḇə·ḥîm|and have been sacrificing|H2076|V-Qal-Prtcpl-mp
 v2 מִימֵי֙|mî·mê|the time|H3117|Prep-m | N-mpc
-v2 אֵסַ֤ר|’ê·sar||H634|
+v2 אֵסַ֤ר|’ê·sar|-|H634|
 v2 חַדֹּן֙|ḥad·dōn|Esar-haddon|H634|N-proper-ms
 v2 מֶ֣לֶךְ|me·leḵ|of King|H4428|N-msc
 v2 אַשּׁ֔וּר|’aš·šūr|of Assyria|H804|N-proper-fs
@@ -96,7 +96,7 @@ v6 שִׂטְנָ֔ה|śiṭ·nāh|an accusation|H7855|N-fs
 v6 עַל־|‘al-|against|H5921|Prep
 v6 יֹשְׁבֵ֥י|yō·šə·ḇê|the people|H3427|V-Qal-Prtcpl-mpc
 v6 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-fs
-v6 וִירוּשָׁלִָֽם׃ס|wî·rū·šā·lim|and Jerusalem|H3389|Conj-w | N-proper-fs
+v6 וִירוּשָׁלִָֽם׃|wî·rū·šā·lim|and Jerusalem|H3389|Conj-w | N-proper-fs
 v7 וּבִימֵ֣י|ū·ḇî·mê|And in the days|H3117|Conj-w, Prep-b | N-mpc
 v7 אַרְתַּחְשַׁ֗שְׂתָּא|’ar·taḥ·šaś·tā|of Artaxerxes [king]|H783|N-proper-ms
 v7 כָּתַ֨ב|kā·ṯaḇ|wrote [a letter]|H3789|V-Qal-Perf-3ms
@@ -107,14 +107,14 @@ v7 וּשְׁאָ֣ר|ū·šə·’ār|and the rest of|H7605|Conj-w | N-msc
 v7 כְּנָוֹתוֹ|kə·nå̄·wō·ṯō|his associates|H3674|N-mpc | 3ms
 v7 עַל־|‘al-|to|H5921|Prep
 v7 אַרְתַּחְשַׁשְׂתָּא|ʾar·taḥ·šaś·tå̄|Artaxerxes|H783|N-proper-ms
-v7 מֶ֣לֶךְ|me·leḵ|vvv|H4428|N-msc
+v7 מֶ֣לֶךְ|me·leḵ|...|H4428|N-msc
 v7 פָּרָ֑ס|pā·rās|of Persia|H6539|N-proper-fs
 v7 וּכְתָב֙|ū·ḵə·ṯāḇ|-|H3791|Conj-w | N-msc
 v7 הַֽנִּשְׁתְּוָ֔ן|han·niš·tə·wān|[It]|H5406|Art | N-ms
 v7 כָּת֥וּב|kā·ṯūḇ|was written|H3789|V-Qal-QalPassPrtcpl-ms
 v7 אֲרָמִ֖ית|’ă·rā·mîṯ|in Aramaic|H762|N-proper-fs
 v7 וּמְתֻרְגָּ֥ם|ū·mə·ṯur·gām|and then translated|H8638|Conj-w | V-Pual-Prtcpl-ms
-v7 אֲרָמִֽית׃פ|’ă·rā·mîṯ|-|H762|N-proper-fs
+v7 אֲרָמִֽית׃|’ă·rā·mîṯ|-|H762|N-proper-fs
 v8 רְח֣וּם|rə·ḥūm|Rehum|H7348|N-proper-ms
 v8 בְּעֵל־|bə·‘êl-|the commander|H1169|N-msc
 v8 טְעֵ֗ם|ṭə·‘êm|...|H2942|N-ms
@@ -143,7 +143,7 @@ v9 אֲפָֽרְסָיֵ֗א|’ă·p̄ā·rə·sā·yê|Persia|H670|N-proper-
 v9 אַרְכְּוָי|ʾar·kə·wå̄y|Erech|H756|N-proper-ms
 v9 בָבְלָיֵא֙|ḇā·ḇə·lā·yê|and Babylon|H896|N-proper-ms
 v9 שֽׁוּשַׁנְכָיֵ֔א|šū·šan·ḵā·yê|of Susa|H7801|N-proper-ms
-v9 דִּהוּא|di·hū||H1768|N-proper-ms
+v9 דִּהוּא|di·hū|-|H1768|N-proper-ms
 v9 עֵלְמָיֵֽא׃|‘ê·lə·mā·yê|the Elamites|H5962|N-proper-ms
 v10 וּשְׁאָ֣ר|ū·šə·’ār|and the rest|H7606|Conj-w | N-msc
 v10 אֻמַּיָּ֗א|’um·may·yā|of the peoples|H524|N-fpd
@@ -174,7 +174,7 @@ v11 עַבְדָ֛יךְ|ʿaḇ·ḏå̄yḵ|From your servants|H5649|N-msc | 2m
 v11 אֱנָ֥שׁ|’ĕ·nāš|the men|H606|N-msc
 v11 עֲבַֽר־|‘ă·ḇar-|west|H5675|N-msc
 v11 נַהֲרָ֖ה|na·hă·rāh|of the Euphrates|H5103|N-msd
-v11 וּכְעֶֽנֶת׃פ|ū·ḵə·‘e·neṯ|...|H3706|Conj-w | Adv
+v11 וּכְעֶֽנֶת׃|ū·ḵə·‘e·neṯ|...|H3706|Conj-w | Adv
 v12 יְדִ֙יעַ֙|yə·ḏî·a‘|known|H3046|V-Qal-QalPassPrtcpl-ms
 v12 לֶהֱוֵ֣א|le·hĕ·wê|Let it be|H1934|V-Qal-Imperf-3ms
 v12 לְמַלְכָּ֔א|lə·mal·kā|to the king|H4430|Prep-l | N-msd
@@ -216,14 +216,14 @@ v13 מַלְכִ֖ים|mal·ḵîm|and the royal|H4430|N-mp
 v13 תְּהַנְזִֽק׃|tə·han·ziq|will suffer|H5142|V-Hifil-Imperf-3fs
 v14 כְּעַ֗ן|kə·‘an|Now|H3705|Adv
 v14 כָּל־|kāl-|because|H3606|N-msc
-v14 קֳבֵל֙|qo·ḇêl||H6903|Prep
-v14 דִּֽי־|dî-||H1768|Pro-r
-v14 מְלַ֤ח|mə·laḥ||H4416|N-msc
+v14 קֳבֵל֙|qo·ḇêl|-|H6903|Prep
+v14 דִּֽי־|dî-|-|H1768|Pro-r
+v14 מְלַ֤ח|mə·laḥ|-|H4416|N-msc
 v14 הֵֽיכְלָא֙|hê·ḵə·lā|of the palace|H1965|N-msd
 v14 מְלַ֔חְנָא|mə·laḥ·nā|we are in the service|H4415|V-Qal-Perf-1cp
 v14 וְעַרְוַ֣ת|wə·‘ar·waṯ|to be dishonored|H6173|Conj-w | N-fsc
 v14 מַלְכָּ֔א|mal·kā|the king|H4430|N-msd
-v14 לָ֥א|lā|vvv|H3809|Adv-NegPrt
+v14 לָ֥א|lā|...|H3809|Adv-NegPrt
 v14 אֲ|’ărîḵ-|and it is not fitting|H749|Adj-ms
 v14 לַ֖נָא|la·nā|for us|H0|Prep | 1cp
 v14 לְמֶֽחֱזֵ֑א|lə·me·ḥĕ·zê|to allow|H2370|Prep-l | V-Qal-Inf
@@ -244,7 +244,7 @@ v15 דָּכְרָנַיָּא֮|dā·ḵə·rā·nay·yā|[In these]|H1799|N-mp
 v15 וְתִנְדַּע֒|wə·ṯin·da‘|and verify|H3046|Conj-w | V-Qal-ConjImperf-2ms
 v15 דִּי֩|dî|that|H1768|Pro-r
 v15 קִרְיְתָ֨א|qir·yə·ṯā|the city|H7149|N-fsd
-v15 דָ֜ךְ|ḏāḵ||H1791|Pro-fs
+v15 דָ֜ךְ|ḏāḵ|-|H1791|Pro-fs
 v15 קִרְיָ֣א|qir·yā|city|H7149|N-fs
 v15 מָֽרָדָ֗א|mā·rā·ḏā|is a rebellious|H4779|Adj-fs
 v15 וּֽמְהַנְזְקַ֤ת|ū·mə·han·zə·qaṯ|harmful|H5142|Conj-w | V-Hifil-Prtcpl-fsc
@@ -278,7 +278,7 @@ v16 בַּעֲבַ֣ר|ba·‘ă·ḇar|west|H5675|Prep-b | N-msc
 v16 נַהֲרָ֔א|na·hă·rā|of the Euphrates|H5103|N-msd
 v16 לָ֥א|lā|no|H3809|Adv-NegPrt
 v16 אִיתַ֖י|’î·ṯay|you will have|H383|Adv
-v16 לָֽךְ׃פ|lāḵ|-|H0|Prep | 2ms
+v16 לָֽךְ׃|lāḵ|-|H0|Prep | 2ms
 v17 פִּתְגָמָ֞א|piṯ·ḡā·mā|this reply|H6600|N-msd
 v17 שְׁלַ֣ח|šə·laḥ|sent|H7972|V-Qal-Perf-3ms
 v17 מַלְכָּ֗א|mal·kā|[Then] the king|H4430|N-msd
@@ -297,7 +297,7 @@ v17 וּשְׁאָ֧ר|ū·šə·’ār|and elsewhere|H7606|Conj-w | N-msc
 v17 עֲבַֽר־|‘ă·ḇar-|in the region west|H5675|N-msc
 v17 נַהֲרָ֛ה|na·hă·rāh|of the Euphrates|H5103|N-msd
 v17 שְׁלָ֖ם|šə·lām|Greetings|H8001|N-ms
-v17 וּכְעֶֽת׃ס|ū·ḵə·‘eṯ|...|H3706|Conj-w | Adv
+v17 וּכְעֶֽת׃|ū·ḵə·‘eṯ|...|H3706|Conj-w | Adv
 v18 נִשְׁתְּוָנָ֕א|niš·tə·wā·nā|The letter|H5407|N-msd
 v18 דִּ֥י|dî|...|H1768|Pro-r
 v18 שְׁלַחְתּ֖וּן|šə·laḥ·tūn|you sent|H7972|V-Qal-Perf-2mp
@@ -305,7 +305,7 @@ v18 עֲלֶ֑ינָא|‘ă·le·nā|us|H5922|Prep | 1cp
 v18 מְפָרַ֥שׁ|mə·p̄ā·raš|has been translated|H6568|V-Piel-QalPassPrtcpl-ms
 v18 קֱרִ֖י|qĕ·rî|and read|H7123|V-Nifal-Perf-3ms
 v18 קָדָמָֽי׃|qā·ḏā·māy|in my presence|H6925|Prep | 1cs
-v19 וּמִנִּי֮|ū·min·nî|vvv|H4481|Conj-w | Prep | 1cs
+v19 וּמִנִּי֮|ū·min·nî|...|H4481|Conj-w | Prep | 1cs
 v19 שִׂ֣ים|śîm|I issued|H7761|V-Nifal-Perf-3ms
 v19 טְעֵם֒|ṭə·‘êm|a decree|H2942|N-ms
 v19 וּבַקַּ֣רוּ|ū·ḇaq·qa·rū|and a search was conducted|H1240|Conj-w | V-Piel-ConjPerf-3mp
@@ -322,7 +322,7 @@ v19 מִֽתְנַשְּׂאָ֑ה|miṯ·naś·śə·’āh|has revolted|H5376|
 v19 וּמְרַ֥ד|ū·mə·raḏ|engaging in rebellion|H4776|Conj-w | N-ms
 v19 וְאֶשְׁתַּדּ֖וּר|wə·’eš·tad·dūr|and sedition|H849|Conj-w | N-ms
 v19 מִתְעֲבֶד־|miṯ·‘ă·ḇeḏ-|...|H5648|V-Hitpael-Prtcpl-ms
-v19 בַּֽהּ׃|bah||H0|Prep | 3fs
+v19 בַּֽהּ׃|bah|-|H0|Prep | 3fs
 v20 וּמַלְכִ֣ין|ū·mal·ḵîn|kings|H4430|Conj-w | N-mp
 v20 תַּקִּיפִ֗ין|taq·qî·p̄în|And mighty|H8624|Adj-mp
 v20 הֲווֹ֙|hă·wōw|...|H1934|V-Qal-Perf-3mp
@@ -361,13 +361,13 @@ v22 לְמָה֙|lə·māh|Why|H4101|Interrog
 v22 יִשְׂגֵּ֣א|yiś·gê|to increase|H7680|V-Qal-Imperf-3ms
 v22 חֲבָלָ֔א|ḥă·ḇā·lā|allow this threat|H2257|N-msd
 v22 לְהַנְזָקַ֖ת|lə·han·zā·qaṯ|interests to suffer|H5142|Prep-l | V-Hifil-Inf
-v22 מַלְכִֽין׃ס|mal·ḵîn|and the royal|H4430|N-mp
+v22 מַלְכִֽין׃|mal·ḵîn|and the royal|H4430|N-mp
 v23 אֱדַ֗יִן|’ĕ·ḏa·yin|When|H116|Adv
 v23 מִן־|min-|...|H4481|Prep
 v23 דִּ֞י|dî|...|H1768|Pro-r
 v23 פַּרְשֶׁ֤גֶן|par·še·ḡen|the text|H6573|N-msc
 v23 נִשְׁתְּוָנָא֙|niš·tə·wā·nā|of the letter|H5407|N-msd
-v23 דִּ֚י|dî||H1768|Pro-r
+v23 דִּ֚י|dî|-|H1768|Pro-r
 v23 אַרְתַּחְשַׁשְׂתָּא|ʾar·taḥ·šaś·tå̄|Artaxerxes|H783|N-proper-ms
 v23 מַלְכָּ֔א|mal·kā|from King|H4430|N-msd
 v23 קֱרִ֧י|qĕ·rî|was read|H7123|V-Nifal-Perf-3ms
@@ -384,7 +384,7 @@ v23 יְה֣וּדָיֵ֔א|yə·hū·ḏā·yê|the Jews|H3062|N-proper-ms
 v23 וּבַטִּ֥לוּ|ū·ḇaṭ·ṭi·lū|stopped|H989|Conj-w | V-Piel-ConjPerf-3mp
 v23 הִמּ֖וֹ|him·mōw|them|H1994|Pro-3mp
 v23 בְּאֶדְרָ֥ע|bə·’eḏ·rā‘|and forcibly|H153|Prep-b | N-fs
-v23 וְחָֽיִל׃ס|wə·ḥā·yil|...|H2429|Conj-w | N-ms
+v23 וְחָֽיִל׃|wə·ḥā·yil|...|H2429|Conj-w | N-ms
 v24 בֵּאדַ֗יִן|bê·ḏa·yin|Thus|H116|Prep-b | Adv
 v24 בְּטֵלַת֙|bə·ṭê·laṯ|ceased|H989|V-Qal-Perf-3fs
 v24 עֲבִידַ֣ת|‘ă·ḇî·ḏaṯ|the construction|H5673|N-fsc
@@ -400,4 +400,4 @@ v24 תַּרְתֵּ֔ין|tar·tên|the second|H8648|Number-fs
 v24 לְמַלְכ֖וּת|lə·mal·ḵūṯ|of the reign|H4437|Prep-l | N-fsc
 v24 דָּרְיָ֥וֶשׁ|dā·rə·yā·weš|of Darius|H1868|N-proper-ms
 v24 מֶֽלֶךְ־|me·leḵ-|king|H4430|N-msc
-v24 פָּרָֽס׃פ|pā·rās|of Persia|H6540|N-proper-fs
+v24 פָּרָֽס׃|pā·rās|of Persia|H6540|N-proper-fs

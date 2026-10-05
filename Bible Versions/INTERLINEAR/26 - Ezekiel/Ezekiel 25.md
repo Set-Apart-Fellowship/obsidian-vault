@@ -26,7 +26,7 @@ v3 יְהוִ֡ה|Yah·weh|GOD|H3069|N-proper-ms
 v3 יַעַן֩|ya·‘an|Because|H3282|Adv
 v3 אָמְרֵ֨ךְ|’ā·mə·rêḵ|you exclaimed|H559|V-Qal-Inf | 2fs
 v3 הֶאָ֜ח|he·’āḥ|Aha|H1889|Interjection
-v3 אֶל־|’el-||H413|Prep
+v3 אֶל־|’el-|-|H413|Prep
 v3 מִקְדָּשִׁ֣י|miq·dā·šî|when My sanctuary|H4720|N-msc | 1cs
 v3 כִֽי־|ḵî-|-|H3588|Conj
 v3 נִחָ֗ל|ni·ḥāl|was profaned|H2490|V-Nifal-Perf-3ms
@@ -49,7 +49,7 @@ v4 קֶ֜דֶם|qe·ḏem|of the East|H6924|N-ms
 v4 לְמֽוֹרָשָׁ֗ה|lə·mō·w·rā·šāh|as a possession|H4181|Prep-l | N-fs
 v4 וְיִשְּׁב֤וּ|wə·yiš·šə·ḇū|They will set up|H3427|Conj-w | V-Piel-ConjPerf-3cp
 v4 טִירֽוֹתֵיהֶם֙|ṭî·rō·w·ṯê·hem|their camps|H2918|N-fpc | 3mp
-v4 בָּ֔ךְ|bāḵ||H0|Prep | 2fs
+v4 בָּ֔ךְ|bāḵ|-|H0|Prep | 2fs
 v4 וְנָ֥תְנוּ|wə·nā·ṯə·nū|and pitch|H5414|Conj-w | V-Qal-ConjPerf-3cp
 v4 בָ֖ךְ|ḇāḵ|among you|H0|Prep | 2fs
 v4 מִשְׁכְּנֵיהֶ֑ם|miš·kə·nê·hem|their tents|H4908|N-mpc | 3mp
@@ -72,7 +72,7 @@ v5 צֹ֑אן|ṣōn|sheep|H6629|N-cs
 v5 וִֽידַעְתֶּ֖ם|wî·ḏa‘·tem|Then you will know|H3045|Conj-w | V-Qal-ConjPerf-2mp
 v5 כִּֽי־|kî-|that|H3588|Conj
 v5 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v5 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v5 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v6 כִּ֣י|kî|For|H3588|Conj
 v6 כֹ֤ה|ḵōh|this is what|H3541|Adv
 v6 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -109,7 +109,7 @@ v7 אַשְׁמִ֣ידְךָ֔|’aš·mî·ḏə·ḵā|I will destroy you|H80
 v7 וְיָדַעְתָּ֖|wə·yā·ḏa‘·tā|and you will know|H3045|Conj-w | V-Qal-ConjPerf-2ms
 v7 כִּֽי־|kî-|that|H3588|Conj
 v7 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v7 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v7 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v8 כֹּ֥ה|kōh|This is what|H3541|Adv
 v8 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v8 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -134,12 +134,12 @@ v9 מֵֽעָרָ֖יו|mê·‘ā·rāw|...|H5892|Prep-m | N-fpc | 3ms
 v9 מִקָּצֵ֑הוּ|miq·qā·ṣê·hū|beginning with its frontier|H7097|Prep-m | N-msc | 3ms
 v9 צְבִ֗י|ṣə·ḇî|the glory|H6643|N-msc
 v9 אֶ֚רֶץ|’e·reṣ|of the land|H776|N-fs
-v9 בֵּ֣ית|bêṯ|vvv|H1020|Prep
+v9 בֵּ֣ית|bêṯ|...|H1020|Prep
 v9 הַיְשִׁימֹ֔ת|hay·šî·mōṯ|Beth-jeshimoth|H1020|N-proper-fs
-v9 בַּ֥עַל|ba·‘al|vvv|H1186|Prep
+v9 בַּ֥עַל|ba·‘al|...|H1186|Prep
 v9 מְע֖וֹן|mə·‘ō·wn|Baal-meon|H1186|N-proper-fs
 v9 וְקִרְיָתְמָה׃|wə·qir·yå̄·ṯə·må̄h|and Kiriathaim|H7156|Conj-w | N-proper-fs | 3fs
-v10 לִבְנֵי־|liḇ·nê-|vvv|H1121|Prep-l | N-mpc
+v10 לִבְנֵי־|liḇ·nê-|...|H1121|Prep-l | N-mpc
 v10 קֶ֙דֶם֙|qe·ḏem|of the East|H6924|N-ms
 v10 עַל־|‘al-|along with|H5921|Prep
 v10 בְּנֵ֣י|bə·nê|to the people|H1121|N-mpc
@@ -149,7 +149,7 @@ v10 לְמֽוֹרָשָׁ֑ה|lə·mō·w·rā·šāh|as a possession|H4181|Pre
 v10 לְמַ֛עַן|lə·ma·‘an|so that|H4616|Conj
 v10 לֹֽא־|lō-|will no longer|H3808|Adv-NegPrt
 v10 תִזָּכֵ֥ר|ṯiz·zā·ḵêr|be remembered|H2142|V-Nifal-Imperf-3fs
-v10 בְּנֵֽי־|bə·nê-|vvv|H1121|N-mpc
+v10 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v10 עַמּ֖וֹן|‘am·mō·wn|the Ammonites|H5983|N-proper-ms
 v10 בַּגּוֹיִֽם׃|bag·gō·w·yim|among the nations|H1471|Prep-b, Art | N-mp
 v11 וּבְמוֹאָ֖ב|ū·ḇə·mō·w·’āḇ|on Moab|H4124|Conj-w, Prep-b | N-proper-fs
@@ -158,7 +158,7 @@ v11 שְׁפָטִ֑ים|šə·p̄ā·ṭîm|judgments|H8201|N-mp
 v11 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|and they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v11 כִּֽי־|kî-|that|H3588|Conj
 v11 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v11 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v11 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v12 כֹּ֤ה|kōh|This is what|H3541|Adv
 v12 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v12 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -209,7 +209,7 @@ v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 נִקְמָתִ֔י|niq·mā·ṯî|My vengeance|H5360|N-fsc | 1cs
 v14 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v14 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v14 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v14 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v15 כֹּ֤ה|kōh|This is what|H3541|Adv
 v15 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v15 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -256,4 +256,4 @@ v17 יְהוָ֔ה|Yah·weh|am the LORD|H3068|N-proper-ms
 v17 בְּתִתִּ֥י|bə·ṯit·tî|when I lay|H5414|Prep-b | V-Qal-Inf | 1cs
 v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 נִקְמָתִ֖י|niq·mā·ṯî|My vengeance|H5360|N-fsc | 1cs
-v17 בָּֽם׃ס|bām|upon them|H0|Prep | 3mp
+v17 בָּֽם׃|bām|upon them|H0|Prep | 3mp

@@ -14,7 +14,7 @@ v1 מִקָּטֹ֥ן|miq·qā·ṭōn|from the least|H6996|Prep-m | Adj-ms
 v1 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
 v1 גָּדֽוֹל׃|gā·ḏō·wl|the greatest|H1419|Adj-ms
 v2 וַיֹּאמְר֞וּ|way·yō·mə·rū|and said|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v2 אֶֽל־|’el-||H413|Prep
+v2 אֶֽל־|’el-|-|H413|Prep
 v2 יִרְמְיָ֣הוּ|yir·mə·yā·hū|Jeremiah|H3414|N-proper-ms
 v2 הַנָּבִ֗יא|han·nā·ḇî|the prophet|H5030|Art | N-ms
 v2 תִּפָּל־|tip·pāl-|come|H5307|V-Qal-Imperf.Jus-3fs
@@ -46,7 +46,7 @@ v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 הַדֶּ֖רֶךְ|had·de·reḵ|the way|H1870|Art | N-cs
 v3 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v3 נֵֽלֶךְ־|nê·leḵ-|we should walk|H1980|V-Qal-Imperf-1cp
-v3 בָּ֑הּ|bāh||H0|Prep | 3fs
+v3 בָּ֑הּ|bāh|-|H0|Prep | 3fs
 v3 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v3 הַדָּבָ֖ר|had·dā·ḇār|and the thing|H1697|Art | N-ms
 v3 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
@@ -70,7 +70,7 @@ v4 יַעֲנֶ֨ה|ya·‘ă·neh|answers|H6030|V-Qal-Imperf-3ms
 v4 יְהוָ֤ה|Yah·weh|the LORD|H3068|N-proper-ms
 v4 אֶתְכֶם֙|’eṯ·ḵem|-|H853|DirObjM | 2mp
 v4 אַגִּ֣יד|’ag·gîḏ|and I will tell you|H5046|V-Hifil-Imperf-1cs
-v4 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v4 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v4 לֹֽא־|lō-|I will not|H3808|Adv-NegPrt
 v4 אֶמְנַ֥ע|’em·na‘|withhold|H4513|V-Qal-Imperf-1cs
 v4 מִכֶּ֖ם|mik·kem|from you|H0|Prep | 2mp
@@ -107,17 +107,17 @@ v6 אֲשֶׁ֨ר|’ă·šer|to whom|H834|Pro-r
 v6 אֲנוּ|ʾă·nū|we|H580|Pro-1cp
 v6 שֹׁלְחִ֥ים|šō·lə·ḥîm|are sending|H7971|V-Qal-Prtcpl-mp
 v6 אֹתְךָ֛|’ō·ṯə·ḵā|you|H853|DirObjM | 2ms
-v6 אֵלָ֖יו|’ê·lāw||H413|Prep | 3ms
+v6 אֵלָ֖יו|’ê·lāw|-|H413|Prep | 3ms
 v6 נִשְׁמָ֑ע|niš·mā‘|we will obey|H8085|V-Qal-Imperf-1cp
 v6 לְמַ֙עַן֙|lə·ma·‘an|so that|H4616|Conj
 v6 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v6 יִֽיטַב־|yî·ṭaḇ-|it may go well with us|H3190|V-Qal-Imperf-3ms
-v6 לָ֔נוּ|lā·nū||H0|Prep | 1cp
+v6 לָ֔נוּ|lā·nū|-|H0|Prep | 1cp
 v6 כִּ֣י|kî|when|H3588|Conj
 v6 נִשְׁמַ֔ע|niš·ma‘|we obey|H8085|V-Qal-Imperf-1cp
 v6 בְּק֖וֹל|bə·qō·wl|the voice|H6963|Prep-b | N-msc
 v6 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v6 אֱלֹהֵֽינוּ׃ס|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
+v6 אֱלֹהֵֽינוּ׃|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
 v7 וַיְהִ֕י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v7 מִקֵּ֖ץ|miq·qêṣ|After|H7093|Prep-m | N-msc
 v7 עֲשֶׂ֣רֶת|‘ă·śe·reṯ|ten|H6235|Number-msc
@@ -185,7 +185,7 @@ v11 בָּבֶ֔ל|bā·ḇel|of Babylon|H894|N-proper-fs
 v11 אֲשֶׁר־|’ă·šer-|whom|H834|Pro-r
 v11 אַתֶּ֥ם|’at·tem|you|H859|Pro-2mp
 v11 יְרֵאִ֖ים|yə·rê·’îm|now fear|H3373|Adj-mp
-v11 מִפָּנָ֑יו|mip·pā·nāw||H6440|Prep-m | N-cpc | 3ms
+v11 מִפָּנָ֑יו|mip·pā·nāw|-|H6440|Prep-m | N-cpc | 3ms
 v11 אַל־|’al-|do not|H408|Adv
 v11 תִּֽירְא֤וּ|tî·rə·’ū|be afraid|H3372|V-Qal-Imperf-2mp
 v11 מִמֶּ֙נּוּ֙|mim·men·nū|of him|H4480|Prep | 3ms
@@ -215,7 +215,7 @@ v13 לֹ֥א|lō|We will not|H3808|Adv-NegPrt
 v13 נֵשֵׁ֖ב|nê·šêḇ|stay|H3427|V-Qal-Imperf-1cp
 v13 בָּאָ֣רֶץ|bā·’ā·reṣ|land|H776|Prep-b, Art | N-fs
 v13 הַזֹּ֑את|haz·zōṯ|in this|H2063|Art | Pro-fs
-v13 לְבִלְתִּ֣י|lə·ḇil·tî|vvv|H1115|Prep-l
+v13 לְבִלְתִּ֣י|lə·ḇil·tî|...|H1115|Prep-l
 v13 שְׁמֹ֔עַ|šə·mō·a‘|and you thus disobey|H8085|V-Qal-Inf
 v13 בְּק֖וֹל|bə·qō·wl|the voice|H6963|Prep-b | N-msc
 v13 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -309,7 +309,7 @@ v17 הָֽרָעָ֔ה|hā·rā·‘āh|the disaster|H7451|Art | Adj-fs
 v17 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v17 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v17 מֵבִ֥יא|mê·ḇî|will bring|H935|V-Hifil-Prtcpl-ms
-v17 עֲלֵיהֶֽם׃ס|‘ă·lê·hem|upon them|H5921|Prep | 3mp
+v17 עֲלֵיהֶֽם׃|‘ă·lê·hem|upon them|H5921|Prep | 3mp
 v18 כִּי֩|kî|For|H3588|Conj
 v18 כֹ֨ה|ḵōh|this is what|H3541|Adv
 v18 אָמַ֜ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -405,4 +405,4 @@ v22 אֲשֶׁ֣ר|’ă·šer|where|H834|Pro-r
 v22 חֲפַצְתֶּ֔ם|ḥă·p̄aṣ·tem|you desire|H2654|V-Qal-Perf-2mp
 v22 לָב֖וֹא|lā·ḇō·w|to go|H935|Prep-l | V-Qal-Inf
 v22 לָג֥וּר|lā·ḡūr|to reside|H1481|Prep-l | V-Qal-Inf
-v22 שָֽׁם׃ס|šām|...|H8033|Adv
+v22 שָֽׁם׃|šām|...|H8033|Adv

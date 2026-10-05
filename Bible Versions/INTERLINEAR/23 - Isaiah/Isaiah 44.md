@@ -4,7 +4,7 @@ v1 יַעֲקֹ֣ב|ya·‘ă·qōḇ|O Jacob|H3290|N-proper-ms
 v1 עַבְדִּ֑י|‘aḇ·dî|My servant|H5650|N-msc | 1cs
 v1 וְיִשְׂרָאֵ֖ל|wə·yiś·rā·’êl|Israel|H3478|Conj-w | N-proper-ms
 v1 בָּחַ֥רְתִּי|bā·ḥar·tî|whom I have chosen|H977|V-Qal-Perf-1cs
-v1 בֽוֹ׃|ḇōw||H0|Prep | 3ms
+v1 בֽוֹ׃|ḇōw|-|H0|Prep | 3ms
 v2 כֹּה־|kōh-|This|H3541|Adv
 v2 אָמַ֨ר|’ā·mar|is the word|H559|V-Qal-Perf-3ms
 v2 יְהוָ֥ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -18,7 +18,7 @@ v2 עַבְדִּ֣י|‘aḇ·dî|My servant|H5650|N-msc | 1cs
 v2 יַֽעֲקֹ֔ב|ya·‘ă·qōḇ|O Jacob|H3290|N-proper-ms
 v2 וִישֻׁר֖וּן|wî·šu·rūn|Jeshurun|H3484|Conj-w | N-proper-fs
 v2 בָּחַ֥רְתִּי|bā·ḥar·tî|whom I have chosen|H977|V-Qal-Perf-1cs
-v2 בֽוֹ׃|ḇōw||H0|Prep | 3ms
+v2 בֽוֹ׃|ḇōw|-|H0|Prep | 3ms
 v3 כִּ֤י|kî|For|H3588|Conj
 v3 אֶצָּק־|’eṣ·ṣāq-|I will pour|H3332|V-Qal-Imperf-1cs
 v3 מַ֙יִם֙|ma·yim|water|H4325|N-mp
@@ -55,7 +55,7 @@ v5 יָדוֹ֙|yā·ḏōw|on his hand|H3027|N-fsc | 3ms
 v5 לַֽיהוָ֔ה|Yah·weh|The LORD's|H3068|Prep-l | N-proper-ms
 v5 וּבְשֵׁ֥ם|ū·ḇə·šêm|the name|H8034|Conj-w, Prep-b | N-msc
 v5 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v5 יְכַנֶּֽה׃פ|yə·ḵan·neh|and will take|H3655|V-Piel-Imperf-3ms
+v5 יְכַנֶּֽה׃|yə·ḵan·neh|and will take|H3655|V-Piel-Imperf-3ms
 v6 כֹּֽה־|kōh-|Thus|H3541|Adv
 v6 אָמַ֨ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v6 יְהוָ֧ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -84,7 +84,7 @@ v7 וְאֹתִיּ֛וֹת|wə·’ō·ṯî·yō·wṯ|the things to come|H857
 v7 וַאֲשֶׁ֥ר|wa·’ă·šer|and what|H834|Conj-w | Pro-r
 v7 תָּבֹ֖אנָה|tā·ḇō·nāh|is to take place|H935|V-Qal-Imperf-3fp
 v7 יַגִּ֥ידוּ|yag·gî·ḏū|Let him foretell|H5046|V-Hifil-Imperf-3mp
-v7 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v7 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v8 אַֽל־|’al-|Do not|H408|Adv
 v8 תִּפְחֲדוּ֙|tip̄·ḥă·ḏū|tremble|H6342|V-Qal-Imperf-2mp
 v8 וְאַל־|wə·’al-|[or]|H408|Conj-w | Adv
@@ -107,7 +107,7 @@ v9 פֶ֤סֶל|p̄e·sel|of idols|H6459|N-ms
 v9 כֻּלָּם֙|kul·lām|All|H3605|N-msc | 3mp
 v9 תֹּ֔הוּ|tō·hū|are nothing|H8414|N-ms
 v9 וַחֲמוּדֵיהֶ֖ם|wa·ḥă·mū·ḏê·hem|and the things they treasure|H2530|Conj-w | V-Qal-QalPassPrtcpl-mpc | 3mp
-v9 בַּל־|bal-|vvv|H1077|Adv
+v9 בַּל־|bal-|...|H1077|Adv
 v9 יוֹעִ֑ילוּ|yō·w·‘î·lū|are worthless|H3276|V-Hifil-Imperf-3mp
 v9 וְעֵדֵיהֶ֣ם|wə·‘ê·ḏê·hem|Their witnesses|H5707|Conj-w | N-mpc | 3mp
 v9 הֵׄ֗מָּׄהׄ|hēm·må̄h|...|H1992|Pro-3mp
@@ -173,13 +173,13 @@ v13 אָדָ֖ם|’ā·ḏām|like man|H120|N-ms
 v13 לָשֶׁ֥בֶת|lā·še·ḇeṯ|that it may dwell|H3427|Prep-l | V-Qal-Inf
 v13 בָּֽיִת׃|bā·yiṯ|in a shrine|H1004|N-ms
 v14 לִכְרָת־|liḵ·rāṯ-|He cuts down|H3772|Prep-l | V-Qal-Inf
-v14 ל֣וֹ|lōw||H0|Prep | 3ms
+v14 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v14 אֲרָזִ֔ים|’ă·rā·zîm|cedars|H730|N-mp
 v14 וַיִּקַּ֤ח|way·yiq·qaḥ|or retrieves|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v14 תִּרְזָה֙|tir·zāh|a cypress|H8645|N-fs
 v14 וְאַלּ֔וֹן|wə·’al·lō·wn|or oak|H437|Conj-w | N-ms
 v14 וַיְאַמֶּץ־|way·’am·meṣ-|He lets it grow strong|H553|Conj-w | V-Piel-ConsecImperf-3ms
-v14 ל֖וֹ|lōw||H0|Prep | 3ms
+v14 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v14 בַּעֲצֵי־|ba·‘ă·ṣê-|among the trees|H6086|Prep-b | N-mpc
 v14 יָ֑עַר|yā·‘ar|of the forest|H3293|N-ms
 v14 נָטַ֥ע|nā·ṭa‘|He plants|H5193|V-Qal-Perf-3ms
@@ -286,7 +286,7 @@ v20 וְלֹ֣א|wə·lō|[or]|H3808|Conj-w | Adv-NegPrt
 v20 יֹאמַ֔ר|yō·mar|say|H559|V-Qal-Imperf-3ms
 v20 הֲל֥וֹא|hă·lō·w|Is not|H3808|Adv-NegPrt
 v20 שֶׁ֖קֶר|še·qer|a lie|H8267|N-ms
-v20 בִּימִינִֽי׃ס|bî·mî·nî|this thing in my right hand|H3225|Prep-b | N-fsc | 1cs
+v20 בִּימִינִֽי׃|bî·mî·nî|this thing in my right hand|H3225|Prep-b | N-fsc | 1cs
 v21 זְכָר־|zə·ḵār-|Remember|H2142|V-Qal-Imp-ms
 v21 אֵ֣לֶּה|’êl·leh|these things|H428|Pro-cp
 v21 יַעֲקֹ֔ב|ya·‘ă·qōḇ|O Jacob|H3290|N-proper-ms
@@ -296,7 +296,7 @@ v21 עַבְדִּי־|‘aḇ·dî-|are My servant|H5650|N-msc | 1cs
 v21 אָ֑תָּה|’āt·tāh|you|H859|Pro-2ms
 v21 יְצַרְתִּ֤יךָ|yə·ṣar·tî·ḵā|I have made you|H3335|V-Qal-Perf-1cs | 2ms
 v21 עֶֽבֶד־|‘e·ḇeḏ-|are My servant|H5650|N-ms
-v21 לִי֙|lî||H0|Prep | 1cs
+v21 לִי֙|lî|-|H0|Prep | 1cs
 v21 אַ֔תָּה|’at·tāh|[and] you|H859|Pro-2ms
 v21 יִשְׂרָאֵ֖ל|yiś·rā·’êl|O Israel|H3478|N-proper-ms
 v21 לֹ֥א|lō|[I] will never|H3808|Adv-NegPrt
@@ -324,13 +324,13 @@ v23 רִנָּ֔ה|rin·nāh|in song|H7440|N-fs
 v23 יַ֖עַר|ya·‘ar|you forests|H3293|N-ms
 v23 וְכָל־|wə·ḵāl|and all your|H3605|Conj-w | N-msc
 v23 עֵ֣ץ|‘êṣ|trees|H6086|N-ms
-v23 בּ֑וֹ|bōw||H0|Prep | 3ms
+v23 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v23 כִּֽי־|kî-|For|H3588|Conj
 v23 גָאַ֤ל|ḡā·’al|has redeemed|H1350|V-Qal-Perf-3ms
 v23 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v23 יַֽעֲקֹ֔ב|ya·‘ă·qōḇ|Jacob|H3290|N-proper-ms
 v23 וּבְיִשְׂרָאֵ֖ל|ū·ḇə·yiś·rā·’êl|in Israel|H3478|Conj-w, Prep-b | N-proper-ms
-v23 יִתְפָּאָֽר׃פ|yiṯ·pā·’ār|and revealed His glory|H6286|V-Hitpael-Imperf-3ms
+v23 יִתְפָּאָֽר׃|yiṯ·pā·’ār|and revealed His glory|H6286|V-Hitpael-Imperf-3ms
 v24 כֹּֽה־|kōh-|Thus|H3541|Adv
 v24 אָמַ֤ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v24 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
@@ -347,7 +347,7 @@ v24 לְבַדִּ֔י|lə·ḇad·dî|...|H905|Prep-l | N-msc | 1cs
 v24 רֹקַ֥ע|rō·qa‘|spread out|H7554|V-Qal-Prtcpl-ms
 v24 הָאָ֖רֶץ|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v24 מִי|mī|who by Myself|H4310|Prep-m | 1cs
-v24 אִתִּי׃|ʾit·tī||H854|Prep | 1cs
+v24 אִתִּי׃|ʾit·tī|-|H854|Prep | 1cs
 v25 מֵפֵר֙|mê·p̄êr|who foils|H6565|V-Hifil-Prtcpl-ms
 v25 אֹת֣וֹת|’ō·ṯō·wṯ|the signs|H226|N-cpc
 v25 בַּדִּ֔ים|bad·dîm|of false prophets|H907|N-mp
@@ -387,4 +387,4 @@ v28 וְלֵאמֹ֤ר|wə·lê·mōr|who says|H559|Conj-w, Prep-l | V-Qal-Inf
 v28 לִירוּשָׁלִַ֙ם֙|lî·rū·šā·lim|of Jerusalem|H3389|Prep-l | N-proper-fs
 v28 תִּבָּנֶ֔ה|tib·bā·neh|She will be rebuilt|H1129|V-Nifal-Imperf-3fs
 v28 וְהֵיכָ֖ל|wə·hê·ḵāl|and of the temple|H1964|Conj-w | N-ms
-v28 תִּוָּסֵֽד׃ס|tiw·wā·sêḏ|Let its foundation be laid|H3245|V-Nifal-Imperf-3fs
+v28 תִּוָּסֵֽד׃|tiw·wā·sêḏ|Let its foundation be laid|H3245|V-Nifal-Imperf-3fs

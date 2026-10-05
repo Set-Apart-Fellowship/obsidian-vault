@@ -33,7 +33,7 @@ v2 נְא֣וֹת|nə·’ō·wṯ|the pastures|H4999|N-fpc
 v2 הָרֹעִ֔ים|hā·rō·‘îm|of the shepherds|H7462|Art | V-Qal-Prtcpl-mp
 v2 וְיָבֵ֖שׁ|wə·yā·ḇêš|withers|H3001|Conj-w | V-Qal-ConjPerf-3ms
 v2 רֹ֥אשׁ|rōš|and the summit|H7218|N-msc
-v2 הַכַּרְמֶֽל׃פ|hak·kar·mel|of Carmel|H3760|Art | N-proper-fs
+v2 הַכַּרְמֶֽל׃|hak·kar·mel|of Carmel|H3760|Art | N-proper-fs
 v3 כֹּ֚ה|kōh|This is what|H3541|Adv
 v3 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v3 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -75,7 +75,7 @@ v5 עַם־|‘am-|The people|H5971|N-msc
 v5 אֲרָ֛ם|’ă·rām|of Aram|H758|N-proper-fs
 v5 קִ֖ירָה|qî·rāh|to Kir|H7024|N-proper-fs | 3fs
 v5 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v5 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v5 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v6 כֹּ֚ה|kōh|This is what|H3541|Adv
 v6 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v6 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -114,7 +114,7 @@ v8 שְׁאֵרִ֣ית|šə·’ê·rîṯ|and the remnant|H7611|N-fsc
 v8 פְּלִשְׁתִּ֔ים|pə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v8 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v8 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v8 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v8 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v9 כֹּ֚ה|kōh|This is what|H3541|Adv
 v9 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v9 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -140,7 +140,7 @@ v10 אֵ֖שׁ|’êš|fire|H784|N-cs
 v10 בְּח֣וֹמַת|bə·ḥō·w·maṯ|upon the walls|H2346|Prep-b | N-fsc
 v10 צֹ֑ר|ṣōr|of Tyre|H6865|N-proper-fs
 v10 וְאָכְלָ֖ה|wə·’ā·ḵə·lāh|to consume|H398|Conj-w | V-Qal-ConjPerf-3fs
-v10 אַרְמְנֹתֶֽיהָ׃פ|’ar·mə·nō·ṯe·hā|its citadels|H759|N-mpc | 3fs
+v10 אַרְמְנֹתֶֽיהָ׃|’ar·mə·nō·ṯe·hā|its citadels|H759|N-mpc | 3fs
 v11 כֹּ֚ה|kōh|This is what|H3541|Adv
 v11 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v11 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -169,7 +169,7 @@ v12 אֵ֖שׁ|’êš|fire|H784|N-cs
 v12 בְּתֵימָ֑ן|bə·ṯê·mān|upon Teman|H8487|Prep-b | N-proper-fs
 v12 וְאָכְלָ֖ה|wə·’ā·ḵə·lāh|to consume|H398|Conj-w | V-Qal-ConjPerf-3fs
 v12 אַרְמְנ֥וֹת|’ar·mə·nō·wṯ|the citadels|H759|N-mpc
-v12 בָּצְרָֽה׃פ|bāṣ·rāh|of Bozrah|H1224|N-proper-fs
+v12 בָּצְרָֽה׃|bāṣ·rāh|of Bozrah|H1224|N-proper-fs
 v13 כֹּ֚ה|kōh|This is what|H3541|Adv
 v13 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v13 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -209,4 +209,4 @@ v15 ה֧וּא|hū|he|H1931|Pro-3ms
 v15 וְשָׂרָ֛יו|wə·śā·rāw|and his princes|H8269|Conj-w | N-mpc | 3ms
 v15 יַחְדָּ֖ו|yaḥ·dāw|together|H3162|Adv
 v15 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v15 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v15 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

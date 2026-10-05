@@ -28,7 +28,7 @@ v3 שָׁת֪וּל|šā·ṯūl|planted|H8362|V-Qal-QalPassPrtcpl-ms
 v3 עַֽל־|‘al-|by|H5921|Prep
 v3 פַּלְגֵ֫י|pal·ḡê|streams|H6388|N-mpc
 v3 מָ֥יִם|mā·yim|of water|H4325|N-mp
-v3 אֲשֶׁ֤ר|’ă·šer|vvv|H834|Pro-r
+v3 אֲשֶׁ֤ר|’ă·šer|...|H834|Pro-r
 v3 פִּרְי֨וֹ׀|pir·yōw|its fruit|H6529|N-msc | 3ms
 v3 יִתֵּ֬ן|yit·tên|yielding|H5414|V-Qal-Imperf-3ms
 v3 בְּעִתּ֗וֹ|bə·‘it·tōw|in season|H6256|Prep-b | N-csc | 3ms

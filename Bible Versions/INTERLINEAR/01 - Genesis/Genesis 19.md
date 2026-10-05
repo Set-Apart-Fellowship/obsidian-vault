@@ -39,7 +39,7 @@ v3 בָּ֣ם|bām|...|H0|Prep | 3mp
 v3 מְאֹ֔ד|mə·’ōḏ|so strongly|H3966|Adv
 v3 וַיָּסֻ֣רוּ|way·yā·su·rū|that they followed|H5493|Conj-w | V-Qal-ConsecImperf-3mp
 v3 אֵלָ֔יו|’ê·lāw|him|H413|Prep | 3ms
-v3 וַיָּבֹ֖אוּ|way·yā·ḇō·’ū|vvv|H935|Conj-w | V-Qal-ConsecImperf-3mp
+v3 וַיָּבֹ֖אוּ|way·yā·ḇō·’ū|...|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v3 אֶל־|’el-|into|H413|Prep
 v3 בֵּית֑וֹ|bê·ṯōw|his house|H1004|N-msc | 3ms
 v3 וַיַּ֤עַשׂ|way·ya·‘aś|He prepared|H6213|Conj-w | V-Qal-ConsecImperf-3ms
@@ -67,7 +67,7 @@ v5 וַיִּקְרְא֤וּ|way·yiq·rə·’ū|They called out|H7121|Conj-w 
 v5 אֶל־|’el-|to|H413|Prep
 v5 לוֹט֙|lō·wṭ|Lot|H3876|N-proper-ms
 v5 וַיֹּ֣אמְרוּ|way·yō·mə·rū|saying|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v5 ל֔וֹ|lōw||H0|Prep | 3ms
+v5 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v5 אַיֵּ֧ה|’ay·yêh|Where|H346|Interrog
 v5 הָאֲנָשִׁ֛ים|hā·’ă·nā·šîm|are the men|H582|Art | N-mp
 v5 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
@@ -130,7 +130,7 @@ v9 וַיִּשְׁפֹּ֣ט|way·yiš·pōṭ|and he is already acting like a 
 v9 שָׁפ֔וֹט|šā·p̄ō·wṭ|...|H8199|V-Qal-InfAbs
 v9 עַתָּ֕ה|‘at·tāh|Now|H6258|Adv
 v9 נָרַ֥ע|nā·ra‘|we will treat you worse|H7489|V-Hifil-Imperf-1cp
-v9 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v9 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v9 מֵהֶ֑ם|mê·hem|than them|H0|Prep-m | Pro-3mp
 v9 וַיִּפְצְר֨וּ|way·yip̄·ṣə·rū|And they pressed|H6484|Conj-w | V-Qal-ConsecImperf-3mp
 v9 בָאִ֤ישׁ|ḇā·’îš|...|H376|Prep-b, Art | N-ms
@@ -548,16 +548,16 @@ v37 עַד־|‘aḏ-|of|H5704|Prep
 v37 הַיּֽוֹם׃|hay·yō·wm|today|H3117|Art | N-ms
 v38 וְהַצְּעִירָ֤ה|wə·haṣ·ṣə·‘î·rāh|The younger [daughter]|H6810|Conj-w, Art | Adj-fs
 v38 גַם־|ḡam-|also|H1571|Conj
-v38 הִוא֙|hî||H1931|Pro-3fs
+v38 הִוא֙|hî|-|H1931|Pro-3fs
 v38 יָ֣לְדָה|yā·lə·ḏāh|gave birth to|H3205|V-Qal-Perf-3fs
 v38 בֵּ֔ן|bên|a son|H1121|N-ms
 v38 וַתִּקְרָ֥א|wat·tiq·rā|and she named|H7121|Conj-w | V-Qal-ConsecImperf-3fs
 v38 שְׁמ֖וֹ|šə·mōw|him|H8034|N-msc | 3ms
-v38 בֶּן־|ben-|vvv|H1151|Prep
+v38 בֶּן־|ben-|...|H1151|Prep
 v38 עַמִּ֑י|‘am·mî|Ben-ammi|H1151|N-proper-ms
 v38 ה֛וּא|hū|...|H1931|Pro-3ms
 v38 אֲבִ֥י|’ă·ḇî|He is the father|H1|N-msc
 v38 בְנֵֽי־|ḇə·nê-|of the Ammonites|H1121|N-mpc
 v38 עַמּ֖וֹן|‘am·mō·wn|...|H5983|N-proper-ms
 v38 עַד־|‘aḏ-|of|H5704|Prep
-v38 הַיּֽוֹם׃ס|hay·yō·wm|today|H3117|Art | N-ms
+v38 הַיּֽוֹם׃|hay·yō·wm|today|H3117|Art | N-ms

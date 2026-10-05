@@ -124,7 +124,7 @@ v9 וַיִּסַּ֣ע|way·yis·sa‘|journeyed on|H5265|Conj-w | V-Qal-Consec
 v9 אַבְרָ֔ם|’aḇ·rām|And Abram|H87|N-proper-ms
 v9 הָל֥וֹךְ|hā·lō·wḵ|...|H1980|V-Qal-InfAbs
 v9 וְנָס֖וֹעַ|wə·nā·sō·w·a‘|toward|H5265|Conj-w | V-Qal-InfAbs
-v9 הַנֶּֽגְבָּה׃פ|han·neḡ·bāh|the Negev|H5045|Art | N-proper-fs | 3fs
+v9 הַנֶּֽגְבָּה׃|han·neḡ·bāh|the Negev|H5045|Art | N-proper-fs | 3fs
 v10 וַיְהִ֥י|way·hî|Now there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v10 רָעָ֖ב|rā·‘āḇ|a famine|H7458|N-ms
 v10 בָּאָ֑רֶץ|bā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
@@ -265,4 +265,4 @@ v20 אִשְׁתּ֖וֹ|’iš·tōw|with his wife|H802|N-fsc | 3ms
 v20 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v20 כָּל־|kāl-|and all his possessions|H3605|N-msc
 v20 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v20 לֽוֹ׃|lōw||H0|Prep | 3ms
+v20 לֽוֹ׃|lōw|-|H0|Prep | 3ms

@@ -17,19 +17,19 @@ v1 τὰς|tas|-|G3588|Art-AFP
 v1 οἰκοδομὰς|oikodomas|buildings|G3619|N-AFP
 v1 τοῦ|tou|-|G3588|Art-GNS
 v1 ἱεροῦ|hierou|[its]|G2411|N-GNS
-v2 ὁ|ho|vvv|G3588|Art-NMS
-v2 δὲ|de|vvv|G1161|Conj
-v2 ἀποκριθεὶς|apokritheis|vvv|G611|V-APP-NMS
+v2 ὁ|ho|...|G3588|Art-NMS
+v2 δὲ|de|...|G1161|Conj
+v2 ἀποκριθεὶς|apokritheis|...|G611|V-APP-NMS
 v2 εἶπεν|eipen|He replied|G2036|V-AIA-3S
 v2 αὐτοῖς|autois|...|G846|PPro-DM3P
-v2 Οὐ|Ou|vvv|G3756|Adv
+v2 Οὐ|Ou|...|G3756|Adv
 v2 βλέπετε|blepete|Do you see|G991|V-PIA-2P
 v2 ταῦτα|tauta|these things|G3778|DPro-ANP
 v2 πάντα|panta|all|G3956|Adj-ANP
 v2 ἀμὴν|amēn|Truly|G281|Heb
 v2 λέγω|legō|I tell|G3004|V-PIA-1S
 v2 ὑμῖν|hymin|you|G4771|PPro-D2P
-v2 οὐ|ou|vvv|G3756|Adv
+v2 οὐ|ou|...|G3756|Adv
 v2 μὴ|mē|not|G3361|Adv
 v2 ἀφεθῇ|aphethē|will be left|G863|V-ASP-3S
 v2 ὧδε|hōde|here|G5602|Adv
@@ -51,7 +51,7 @@ v3 προσῆλθον|prosēlthon|came to|G4334|V-AIA-3P
 v3 αὐτῷ|autō|Him|G846|PPro-DM3S
 v3 οἱ|hoi|the|G3588|Art-NMP
 v3 μαθηταὶ|mathētai|disciples|G3101|N-NMP
-v3 κατ’|kat’|vvv|G2596|Prep
+v3 κατ’|kat’|...|G2596|Prep
 v3 ἰδίαν|idian|privately|G2398|Adj-AFS
 v3 λέγοντες|legontes|they said|G3004|V-PPA-NMP
 v3 Εἰπὲ|Eipe|Tell|G2036|V-AMA-2S
@@ -104,7 +104,7 @@ v6 καὶ|kai|and|G2532|Conj
 v6 ἀκοὰς|akoas|rumors|G189|N-AFP
 v6 πολέμων|polemōn|of wars|G4171|N-GMP
 v6 ὁρᾶτε|horate|but see to it|G3708|V-PMA-2P
-v6 μὴ|mē|vvv|G3361|Adv
+v6 μὴ|mē|...|G3361|Adv
 v6 θροεῖσθε|throeisthe|that you are not alarmed|G2360|V-PMM/P-2P
 v6 δεῖ|dei|must|G1163|V-PIA-3S
 v6 γὰρ|gar|[These things]|G1063|Conj
@@ -279,7 +279,7 @@ v19 ἡμέραις|hēmerais|days [will be]|G2250|N-DFP
 v20 προσεύχεσθε|proseuchesthe|Pray|G4336|V-PMM/P-2P
 v20 δὲ|de|-|G1161|Conj
 v20 ἵνα|hina|that|G2443|Conj
-v20 μὴ|mē|vvv|G3361|Adv
+v20 μὴ|mē|...|G3361|Adv
 v20 γένηται|genētai|will not occur|G1096|V-ASM-3S
 v20 ἡ|hē|-|G3588|Art-NFS
 v20 φυγὴ|phygē|flight|G5437|N-NFS
@@ -303,7 +303,7 @@ v21 τοῦ|tou|-|G3588|Art-GMS
 v21 νῦν|nyn|now|G3568|Adv
 v21 οὐδ’|oud’|[and]|G3761|Conj
 v21 οὐ|ou|never|G3756|Adv
-v21 μὴ|mē|vvv|G3361|Adv
+v21 μὴ|mē|...|G3361|Adv
 v21 γένηται|genētai|to be [seen again]|G1096|V-ASM-3S
 v22 καὶ|kai|-|G2532|Conj
 v22 εἰ|ei|If|G1487|Conj
@@ -313,7 +313,7 @@ v22 αἱ|hai|-|G3588|Art-NFP
 v22 ἡμέραι|hēmerai|days|G2250|N-NFP
 v22 ἐκεῖναι|ekeinai|those|G1565|DPro-NFP
 v22 οὐκ|ouk|...|G3756|Adv
-v22 ἂν|an|vvv|G302|Prtcl
+v22 ἂν|an|...|G302|Prtcl
 v22 ἐσώθη|esōthē|would be saved|G4982|V-AIP-3S
 v22 πᾶσα|pasa|nobody|G3956|Adj-NFS
 v22 σάρξ|sarx|...|G4561|N-NFS
@@ -418,7 +418,7 @@ v29 σκοτισθήσεται|skotisthēsetai|will be darkened|G4654|V-FIP-3S
 v29 Καὶ|Kai|and|G2532|Conj
 v29 ἡ|hē|the|G3588|Art-NFS
 v29 σελήνη|selēnē|moon|G4582|N-NFS
-v29 οὐ|ou|vvv|G3756|Adv
+v29 οὐ|ou|...|G3756|Adv
 v29 δώσει|dōsei|will not give|G1325|V-FIA-3S
 v29 τὸ|to|-|G3588|Art-ANS
 v29 φέγγος|phengos|light|G5338|N-ANS
@@ -436,7 +436,7 @@ v29 δυνάμεις|dynameis|powers|G1411|N-NFP
 v29 τῶν|tōn|of the|G3588|Art-GMP
 v29 οὐρανῶν|ouranōn|heavens|G3772|N-GMP
 v29 σαλευθήσονται|saleuthēsontai|will be shaken|G4531|V-FIP-3P
-v30 Καὶ|Kai|vvv|G2532|Conj
+v30 Καὶ|Kai|...|G2532|Conj
 v30 τότε|tote|At that time|G5119|Adv
 v30 φανήσεται|phanēsetai|will appear|G5316|V-FIP-3S
 v30 τὸ|to|the|G3588|Art-NNS
@@ -623,7 +623,7 @@ v38 εἰς|eis|...|G1519|Prep
 v38 τὴν|tēn|the|G3588|Art-AFS
 v38 κιβωτόν|kibōton|ark|G2787|N-AFS
 v39 καὶ|kai|And|G2532|Conj
-v39 οὐκ|ouk|vvv|G3756|Adv
+v39 οὐκ|ouk|...|G3756|Adv
 v39 ἔγνωσαν|egnōsan|they were oblivious|G1097|V-AIA-3P
 v39 ἕως|heōs|until|G2193|Conj
 v39 ἦλθεν|ēlthen|came|G2064|V-AIA-3S
@@ -665,7 +665,7 @@ v41 ἀφίεται|aphietai|left|G863|V-PIM/P-3S
 v42 Γρηγορεῖτε|Grēgoreite|keep watch|G1127|V-PMA-2P
 v42 οὖν|oun|Therefore|G3767|Conj
 v42 ὅτι|hoti|because|G3754|Conj
-v42 οὐκ|ouk|vvv|G3756|Adv
+v42 οὐκ|ouk|...|G3756|Adv
 v42 οἴδατε|oidate|you do not know|G1492|V-RIA-2P
 v42 ποίᾳ|poia|on which|G4169|IPro-DFS
 v42 ἡμέρᾳ|hēmera|[the] day|G2250|N-DFS
@@ -687,10 +687,10 @@ v43 ὁ|ho|the|G3588|Art-NMS
 v43 κλέπτης|kleptēs|thief|G2812|N-NMS
 v43 ἔρχεται|erchetai|was coming|G2064|V-PIM/P-3S
 v43 ἐγρηγόρησεν|egrēgorēsen|he would have kept watch|G1127|V-AIA-3S
-v43 ἂν|an|vvv|G302|Prtcl
+v43 ἂν|an|...|G302|Prtcl
 v43 καὶ|kai|and|G2532|Conj
 v43 οὐκ|ouk|{would} not|G3756|Adv
-v43 ἂν|an|vvv|G302|Prtcl
+v43 ἂν|an|...|G302|Prtcl
 v43 εἴασεν|eiasen|have let|G1439|V-AIA-3S
 v43 διορυχθῆναι|diorychthēnai|be broken into|G1358|V-ANP
 v43 τὴν|tēn|-|G3588|Art-AFS
@@ -704,7 +704,7 @@ v44 γίνεσθε|ginesthe|must be|G1096|V-PMM/P-2P
 v44 ἕτοιμοι|hetoimoi|ready|G2092|Adj-NMP
 v44 ὅτι|hoti|because|G3754|Conj
 v44 ᾗ|hē|at an|G3739|RelPro-DFS
-v44 οὐ|ou|vvv|G3756|Adv
+v44 οὐ|ou|...|G3756|Adv
 v44 δοκεῖτε|dokeite|you do not expect|G1380|V-PIA-2P
 v44 ὥρᾳ|hōra|hour|G5610|N-DFS
 v44 ὁ|ho|the|G3588|Art-NMS
@@ -794,14 +794,14 @@ v50 δούλου|doulou|servant|G1401|N-GMS
 v50 ἐκείνου|ekeinou|of that|G1565|DPro-GMS
 v50 ἐν|en|on|G1722|Prep
 v50 ἡμέρᾳ|hēmera|a day|G2250|N-DFS
-v50 ᾗ|hē|vvv|G3739|RelPro-DFS
-v50 οὐ|ou|vvv|G3756|Adv
+v50 ᾗ|hē|...|G3739|RelPro-DFS
+v50 οὐ|ou|...|G3756|Adv
 v50 προσδοκᾷ|prosdoka|he does not expect|G4328|V-PIA-3S
 v50 καὶ|kai|and|G2532|Conj
 v50 ἐν|en|at|G1722|Prep
 v50 ὥρᾳ|hōra|an hour|G5610|N-DFS
-v50 ᾗ|hē|vvv|G3739|RelPro-DFS
-v50 οὐ|ou|vvv|G3756|Adv
+v50 ᾗ|hē|...|G3739|RelPro-DFS
+v50 οὐ|ou|...|G3756|Adv
 v50 γινώσκει|ginōskei|he does not anticipate|G1097|V-PIA-3S
 v51 καὶ|kai|Then|G2532|Conj
 v51 διχοτομήσει|dichotomēsei|he will cut him to pieces|G1371|V-FIA-3S

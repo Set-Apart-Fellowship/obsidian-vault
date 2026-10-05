@@ -11,9 +11,9 @@ v1 עַֽל־|‘al-|-|H5921|Prep
 v1 הַלְּחִ֔י|hal·lə·ḥî|the cheek|H3895|Art | N-fs
 v1 אֵ֖ת|’êṯ|-|H853|DirObjM
 v1 שֹׁפֵ֥ט|šō·p̄êṭ|of the judge|H8199|V-Qal-Prtcpl-msc
-v1 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v1 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 וְאַתָּ֞ה|wə·’at·tāh|But you|H859|Conj-w | Pro-2ms
-v2 בֵּֽית־|bêṯ-|vvv|H1035|Prep
+v2 בֵּֽית־|bêṯ-|...|H1035|Prep
 v2 לֶ֣חֶם|le·ḥem|Bethlehem|H1035|N-proper-fs
 v2 אֶפְרָ֗תָה|’ep̄·rā·ṯāh|Ephrathah|H672|N-proper-fs
 v2 צָעִיר֙|ṣā·‘îr|small|H6810|Adj-ms
@@ -90,7 +90,7 @@ v6 יָב֣וֹא|yā·ḇō·w|invades|H935|V-Qal-Imperf-3ms
 v6 בְאַרְצֵ֔נוּ|ḇə·’ar·ṣê·nū|our land|H776|Prep-b | N-fsc | 1cp
 v6 וְכִ֥י|wə·ḵî|and|H3588|Conj
 v6 יִדְרֹ֖ךְ|yiḏ·rōḵ|marches|H1869|V-Qal-Imperf-3ms
-v6 בִּגְבוּלֵֽנוּ׃ס|biḡ·ḇū·lê·nū|into our borders|H1366|Prep-b | N-msc | 1cp
+v6 בִּגְבוּלֵֽנוּ׃|biḡ·ḇū·lê·nū|into our borders|H1366|Prep-b | N-msc | 1cp
 v7 וְהָיָ֣ה׀|wə·hā·yāh|will be|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v7 שְׁאֵרִ֣ית|šə·’ê·rîṯ|Then the remnant|H7611|N-fsc
 v7 יַעֲקֹ֗ב|ya·‘ă·qōḇ|of Jacob|H3290|N-proper-ms
@@ -137,7 +137,7 @@ v9 עַל־|‘al-|over|H5921|Prep
 v9 צָרֶ֑יךָ|ṣā·re·ḵā|your foes|H6862|N-mpc | 2ms
 v9 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v9 אֹיְבֶ֖יךָ|’ō·yə·ḇe·ḵā|your enemies|H341|V-Qal-Prtcpl-mpc | 2ms
-v9 יִכָּרֵֽתוּ׃פ|yik·kā·rê·ṯū|will be cut off|H3772|V-Nifal-Imperf-3mp
+v9 יִכָּרֵֽתוּ׃|yik·kā·rê·ṯū|will be cut off|H3772|V-Nifal-Imperf-3mp
 v10 וְהָיָ֤ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v10 בַיּוֹם־|ḇay·yō·wm-|day|H3117|Prep-b, Art | N-ms
 v10 הַהוּא֙|ha·hū|In that|H1931|Art | Pro-3ms
@@ -160,7 +160,7 @@ v12 מִיָּדֶ֑ךָ|mî·yā·ḏe·ḵā|from your hand|H3027|Prep-m | N-f
 v12 וּֽמְעוֹנְנִ֖ים|ū·mə·‘ō·wn·nîm|fortune-tellers|H6049|Conj-w | V-Piel-Prtcpl-mp
 v12 לֹ֥א|lō|no|H3808|Adv-NegPrt
 v12 יִֽהְיוּ־|yih·yū-|and you will have|H1961|V-Qal-Imperf-3mp
-v12 לָֽךְ׃|lāḵ||H0|Prep | 2fs
+v12 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs
 v13 וְהִכְרַתִּ֧י|wə·hiḵ·rat·tî|I will also cut off|H3772|Conj-w | V-Hifil-ConjPerf-1cs
 v13 פְסִילֶ֛יךָ|p̄ə·sî·le·ḵā|the carved images|H6456|N-mpc | 2ms
 v13 וּמַצֵּבוֹתֶ֖יךָ|ū·maṣ·ṣê·ḇō·w·ṯe·ḵā|and sacred pillars|H4676|Conj-w | N-fpc | 2ms
@@ -183,4 +183,4 @@ v15 אֶת־|’eṯ-|...|H854|DirObjM
 v15 הַגּוֹיִ֑ם|hag·gō·w·yim|upon the nations|H1471|Art | N-mp
 v15 אֲשֶׁ֖ר|’ă·šer|that|H834|Pro-r
 v15 לֹ֥א|lō|have not|H3808|Adv-NegPrt
-v15 שָׁמֵֽעוּ׃ס|šā·mê·‘ū|obeyed Me|H8085|V-Qal-Perf-3cp
+v15 שָׁמֵֽעוּ׃|šā·mê·‘ū|obeyed Me|H8085|V-Qal-Perf-3cp

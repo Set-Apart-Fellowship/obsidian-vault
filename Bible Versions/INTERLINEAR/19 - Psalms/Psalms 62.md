@@ -72,7 +72,7 @@ v8 לְפָנָ֥יו|lə·p̄ā·nāw|before Him|H6440|Prep-l | N-cpc | 3ms
 v8 לְבַבְכֶ֑ם|lə·ḇaḇ·ḵem|your hearts|H3824|N-msc | 2mp
 v8 אֱלֹהִ֖ים|’ĕ·lō·hîm|God|H430|N-mp
 v8 מַחֲסֶה־|ma·ḥă·seh-|is our refuge|H4268|N-ms
-v8 לָּ֣נוּ|lā·nū||H0|Prep | 1cp
+v8 לָּ֣נוּ|lā·nū|-|H0|Prep | 1cp
 v8 סֶֽלָה׃|se·lāh|Selah|H5542|Interjection
 v9 אַ֤ךְ׀|’aḵ|[are] but|H389|Adv
 v9 הֶ֥בֶל|he·ḇel|a vapor|H1892|N-ms

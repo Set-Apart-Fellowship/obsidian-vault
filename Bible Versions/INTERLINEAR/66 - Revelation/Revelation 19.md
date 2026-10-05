@@ -62,8 +62,8 @@ v3 ὁ|ho|-|G3588|Art-NMS
 v3 καπνὸς|kapnos|smoke|G2586|N-NMS
 v3 αὐτῆς|autēs|Her|G846|PPro-GF3S
 v3 ἀναβαίνει|anabainei|rises|G305|V-PIA-3S
-v3 εἰς|eis|vvv|G1519|Prep
-v3 τοὺς|tous|vvv|G3588|Art-AMP
+v3 εἰς|eis|...|G1519|Prep
+v3 τοὺς|tous|...|G3588|Art-AMP
 v3 αἰῶνας|aiōnas|forever|G165|N-AMP
 v3 τῶν|tōn|[and]|G3588|Art-GMP
 v3 αἰώνων|aiōnōn|ever|G165|N-GMP
@@ -386,7 +386,7 @@ v17 τοῖς|tois|the|G3588|Art-DNP
 v17 ὀρνέοις|orneois|birds|G3732|N-DNP
 v17 τοῖς|tois|-|G3588|Art-DNP
 v17 πετομένοις|petomenois|flying|G4072|V-PPM/P-DNP
-v17 ἐν|en|vvv|G1722|Prep
+v17 ἐν|en|...|G1722|Prep
 v17 μεσουρανήματι|mesouranēmati|overhead|G3321|N-DNS
 v17 Δεῦτε|Deute|Come|G1205|V-M-2P
 v17 συνάχθητε|synachthēte|gather together|G4863|V-AMP-2P

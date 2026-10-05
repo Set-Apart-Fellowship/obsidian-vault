@@ -5,7 +5,7 @@ v1 לַחֹ֗דֶשׁ|la·ḥō·ḏeš|day|H2320|Prep-l, Art | N-ms
 v1 מִֽקְרָא־|miq·rā-|assembly|H4744|N-msc
 v1 קֹ֙דֶשׁ֙|qō·ḏeš|a sacred|H6944|N-ms
 v1 יִהְיֶ֣ה|yih·yeh|you are to hold|H1961|V-Qal-Imperf-3ms
-v1 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v1 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v1 כָּל־|kāl-|any|H3605|N-msc
 v1 מְלֶ֥אכֶת|mə·le·ḵeṯ|regular work|H4399|N-fsc
 v1 עֲבֹדָ֖ה|‘ă·ḇō·ḏāh|...|H5656|N-fs
@@ -65,7 +65,7 @@ v6 כְּמִשְׁפָּטָ֑ם|kə·miš·pā·ṭām|with their prescribed|H
 v6 לְרֵ֣יחַ|lə·rê·aḥ|aroma|H7381|Prep-l | N-msc
 v6 נִיחֹ֔חַ|nî·ḥō·aḥ|They are a pleasing|H5207|N-ms
 v6 אִשֶּׁ֖ה|’iš·šeh|a food offering|H801|N-ms
-v6 לַיהוָֽה׃ס|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v6 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v7 וּבֶעָשׂוֹר֩|ū·ḇe·‘ā·śō·wr|On the tenth|H6218|Conj-w, Prep-b, Art | N-ms
 v7 לַחֹ֨דֶשׁ|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v7 הַשְּׁבִיעִ֜י|haš·šə·ḇî·‘î|seventh|H7637|Art | Number-oms
@@ -73,9 +73,9 @@ v7 הַזֶּ֗ה|haz·zeh|day of this|H2088|Art | Pro-ms
 v7 מִֽקְרָא־|miq·rā-|assembly|H4744|N-msc
 v7 קֹ֙דֶשׁ֙|qō·ḏeš|a sacred|H6944|N-ms
 v7 יִהְיֶ֣ה|yih·yeh|you are to hold|H1961|V-Qal-Imperf-3ms
-v7 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v7 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v7 וְעִנִּיתֶ֖ם|wə·‘in·nî·ṯem|and you shall humble|H6031|Conj-w | V-Piel-ConjPerf-2mp
-v7 אֶת־|’eṯ-||H853|DirObjM
+v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 נַפְשֹׁתֵיכֶ֑ם|nap̄·šō·ṯê·ḵem|yourselves|H5315|N-fpc | 2mp
 v7 כָּל־|kāl-|any|H3605|N-msc
 v7 מְלָאכָ֖ה|mə·lā·ḵāh|work|H4399|N-fs
@@ -98,7 +98,7 @@ v8 שָׁנָה֙|šā·nāh|...|H8141|N-fs
 v8 שִׁבְעָ֔ה|šiḇ·‘āh|and seven|H7651|Number-ms
 v8 תְּמִימִ֖ם|tə·mî·mim|unblemished|H8549|Adj-mp
 v8 יִהְי֥וּ|yih·yū|all|H1961|V-Qal-Imperf-3mp
-v8 לָכֶֽם׃|lā·ḵem||H0|Prep | 2mp
+v8 לָכֶֽם׃|lā·ḵem|-|H0|Prep | 2mp
 v9 וּמִנְחָתָ֔ם|ū·min·ḥā·ṯām|together with their grain offerings|H4503|Conj-w | N-fsc | 3mp
 v9 סֹ֖לֶת|sō·leṯ|of fine flour|H5560|N-fs
 v9 בְּלוּלָ֣ה|bə·lū·lāh|mixed|H1101|V-Qal-QalPassPrtcpl-fs
@@ -126,7 +126,7 @@ v11 הַכִּפֻּרִים֙|hak·kip·pu·rîm|of atonement|H3725|Art | N-mp
 v11 וְעֹלַ֣ת|wə·‘ō·laṯ|burnt offering|H5930|Conj-w | N-fsc
 v11 הַתָּמִ֔יד|hat·tā·mîḏ|and the regular|H8548|Art | Adv
 v11 וּמִנְחָתָ֖הּ|ū·min·ḥā·ṯāh|with its grain offering|H4503|Conj-w | N-fsc | 3fs
-v11 וְנִסְכֵּיהֶֽם׃פ|wə·nis·kê·hem|and drink offerings|H5262|Conj-w | N-mpc | 3mp
+v11 וְנִסְכֵּיהֶֽם׃|wə·nis·kê·hem|and drink offerings|H5262|Conj-w | N-mpc | 3mp
 v12 וּבַחֲמִשָּׁה֩|ū·ḇa·ḥă·miš·šāh|On the fifteenth|H2568|Conj-w, Prep-b, Art | Number-ms
 v12 עָשָׂ֨ר|‘ā·śār|...|H6240|Number-ms
 v12 י֜וֹם|yō·wm|day|H3117|N-ms
@@ -135,7 +135,7 @@ v12 הַשְּׁבִיעִ֗י|haš·šə·ḇî·‘î|of the seventh|H7637|Art
 v12 מִֽקְרָא־|miq·rā-|assembly|H4744|N-msc
 v12 קֹ֙דֶשׁ֙|qō·ḏeš|a sacred|H6944|N-ms
 v12 יִהְיֶ֣ה|yih·yeh|you are to hold|H1961|V-Qal-Imperf-3ms
-v12 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v12 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v12 כָּל־|kāl-|any|H3605|N-msc
 v12 מְלֶ֥אכֶת|mə·le·ḵeṯ|regular work|H4399|N-fsc
 v12 עֲבֹדָ֖ה|‘ă·ḇō·ḏāh|...|H5656|N-fs
@@ -198,7 +198,7 @@ v16 מִלְּבַד֙|mil·lə·ḇaḏ|in addition to|H905|Prep-m, Prep-l | N-
 v16 עֹלַ֣ת|‘ō·laṯ|burnt offering|H5930|N-fsc
 v16 הַתָּמִ֔יד|hat·tā·mîḏ|the regular|H8548|Art | Adv
 v16 מִנְחָתָ֖הּ|min·ḥā·ṯāh|with its grain offering|H4503|N-fsc | 3fs
-v16 וְנִסְכָּֽהּ׃ס|wə·nis·kāh|and drink offering|H5262|Conj-w | N-msc | 3fs
+v16 וְנִסְכָּֽהּ׃|wə·nis·kāh|and drink offering|H5262|Conj-w | N-msc | 3fs
 v17 וּבַיּ֣וֹם|ū·ḇay·yō·wm|day|H3117|Conj-w, Prep-b, Art | N-ms
 v17 הַשֵּׁנִ֗י|haš·šê·nî|On the second|H8145|Art | Number-oms
 v17 פָּרִ֧ים|pā·rîm|young bulls|H6499|N-mp
@@ -229,7 +229,7 @@ v19 מִלְּבַד֙|mil·lə·ḇaḏ|in addition to|H905|Prep-m, Prep-l | N-
 v19 עֹלַ֣ת|‘ō·laṯ|burnt offering|H5930|N-fsc
 v19 הַתָּמִ֔יד|hat·tā·mîḏ|the regular|H8548|Art | Adv
 v19 וּמִנְחָתָ֖הּ|ū·min·ḥā·ṯāh|with its grain offering|H4503|Conj-w | N-fsc | 3fs
-v19 וְנִסְכֵּיהֶֽם׃ס|wə·nis·kê·hem|and drink offering|H5262|Conj-w | N-mpc | 3mp
+v19 וְנִסְכֵּיהֶֽם׃|wə·nis·kê·hem|and drink offering|H5262|Conj-w | N-mpc | 3mp
 v20 וּבַיּ֧וֹם|ū·ḇay·yō·wm|day|H3117|Conj-w, Prep-b, Art | N-ms
 v20 הַשְּׁלִישִׁ֛י|haš·šə·lî·šî|On the third|H7992|Art | Number-oms
 v20 פָּרִ֥ים|pā·rîm|bulls|H6499|N-mp
@@ -257,7 +257,7 @@ v22 מִלְּבַד֙|mil·lə·ḇaḏ|in addition to|H905|Prep-m, Prep-l | N-
 v22 עֹלַ֣ת|‘ō·laṯ|burnt offering|H5930|N-fsc
 v22 הַתָּמִ֔יד|hat·tā·mîḏ|the regular|H8548|Art | Adv
 v22 וּמִנְחָתָ֖הּ|ū·min·ḥā·ṯāh|with its grain offering|H4503|Conj-w | N-fsc | 3fs
-v22 וְנִסְכָּֽהּ׃ס|wə·nis·kāh|and drink offering|H5262|Conj-w | N-msc | 3fs
+v22 וְנִסְכָּֽהּ׃|wə·nis·kāh|and drink offering|H5262|Conj-w | N-msc | 3fs
 v23 וּבַיּ֧וֹם|ū·ḇay·yō·wm|day|H3117|Conj-w, Prep-b, Art | N-ms
 v23 הָרְבִיעִ֛י|hā·rə·ḇî·‘î|On the fourth|H7243|Art | Number-oms
 v23 פָּרִ֥ים|pā·rîm|bulls|H6499|N-mp
@@ -285,7 +285,7 @@ v25 מִלְּבַד֙|mil·lə·ḇaḏ|in addition to|H905|Prep-m, Prep-l | N-
 v25 עֹלַ֣ת|‘ō·laṯ|burnt offering|H5930|N-fsc
 v25 הַתָּמִ֔יד|hat·tā·mîḏ|the regular|H8548|Art | Adv
 v25 מִנְחָתָ֖הּ|min·ḥā·ṯāh|with its grain offering|H4503|N-fsc | 3fs
-v25 וְנִסְכָּֽהּ׃ס|wə·nis·kāh|and drink offering|H5262|Conj-w | N-msc | 3fs
+v25 וְנִסְכָּֽהּ׃|wə·nis·kāh|and drink offering|H5262|Conj-w | N-msc | 3fs
 v26 וּבַיּ֧וֹם|ū·ḇay·yō·wm|day|H3117|Conj-w, Prep-b, Art | N-ms
 v26 הַחֲמִישִׁ֛י|ha·ḥă·mî·šî|On the fifth|H2549|Art | Number-oms
 v26 פָּרִ֥ים|pā·rîm|bulls|H6499|N-mp
@@ -312,7 +312,7 @@ v28 מִלְּבַד֙|mil·lə·ḇaḏ|in addition to|H905|Prep-m, Prep-l | N-
 v28 עֹלַ֣ת|‘ō·laṯ|burnt offering|H5930|N-fsc
 v28 הַתָּמִ֔יד|hat·tā·mîḏ|the regular|H8548|Art | Adv
 v28 וּמִנְחָתָ֖הּ|ū·min·ḥā·ṯāh|with its grain offering|H4503|Conj-w | N-fsc | 3fs
-v28 וְנִסְכָּֽהּ׃ס|wə·nis·kāh|and drink offering|H5262|Conj-w | N-msc | 3fs
+v28 וְנִסְכָּֽהּ׃|wə·nis·kāh|and drink offering|H5262|Conj-w | N-msc | 3fs
 v29 וּבַיּ֧וֹם|ū·ḇay·yō·wm|day|H3117|Conj-w, Prep-b, Art | N-ms
 v29 הַשִּׁשִּׁ֛י|haš·šiš·šî|On the sixth|H8345|Art | Number-oms
 v29 פָּרִ֥ים|pā·rîm|bulls|H6499|N-mp
@@ -339,7 +339,7 @@ v31 מִלְּבַד֙|mil·lə·ḇaḏ|in addition to|H905|Prep-m, Prep-l | N-
 v31 עֹלַ֣ת|‘ō·laṯ|burnt offering|H5930|N-fsc
 v31 הַתָּמִ֔יד|hat·tā·mîḏ|the regular|H8548|Art | Adv
 v31 מִנְחָתָ֖הּ|min·ḥā·ṯāh|with its grain offering|H4503|N-fsc | 3fs
-v31 וּנְסָכֶֽיהָ׃פ|ū·nə·sā·ḵe·hā|and drink offering|H5262|Conj-w | N-mpc | 3fs
+v31 וּנְסָכֶֽיהָ׃|ū·nə·sā·ḵe·hā|and drink offering|H5262|Conj-w | N-mpc | 3fs
 v32 וּבַיּ֧וֹם|ū·ḇay·yō·wm|day|H3117|Conj-w, Prep-b, Art | N-ms
 v32 הַשְּׁבִיעִ֛י|haš·šə·ḇî·‘î|On the seventh|H7637|Art | Number-oms
 v32 פָּרִ֥ים|pā·rîm|bulls|H6499|N-mp
@@ -366,12 +366,12 @@ v34 מִלְּבַד֙|mil·lə·ḇaḏ|in addition to|H905|Prep-m, Prep-l | N-
 v34 עֹלַ֣ת|‘ō·laṯ|burnt offering|H5930|N-fsc
 v34 הַתָּמִ֔יד|hat·tā·mîḏ|the regular|H8548|Art | Adv
 v34 מִנְחָתָ֖הּ|min·ḥā·ṯāh|with its grain offering|H4503|N-fsc | 3fs
-v34 וְנִסְכָּֽהּ׃פ|wə·nis·kāh|and drink offering|H5262|Conj-w | N-msc | 3fs
+v34 וְנִסְכָּֽהּ׃|wə·nis·kāh|and drink offering|H5262|Conj-w | N-msc | 3fs
 v35 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v35 הַשְּׁמִינִ֔י|haš·šə·mî·nî|On the eighth|H8066|Art | Number-oms
 v35 עֲצֶ֖רֶת|‘ă·ṣe·reṯ|a solemn assembly|H6116|N-fs
 v35 תִּהְיֶ֣ה|tih·yeh|you are to hold|H1961|V-Qal-Imperf-3fs
-v35 לָכֶ֑ם|lā·ḵem||H0|Prep | 2mp
+v35 לָכֶ֑ם|lā·ḵem|-|H0|Prep | 2mp
 v35 כָּל־|kāl-|any|H3605|N-msc
 v35 מְלֶ֥אכֶת|mə·le·ḵeṯ|regular work|H4399|N-fsc
 v35 עֲבֹדָ֖ה|‘ă·ḇō·ḏāh|...|H5656|N-fs
@@ -428,4 +428,4 @@ v40 אֲשֶׁר־|’ă·šer-|just as|H834|Pro-r
 v40 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v40 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v40 אֶת־|’eṯ-|-|H853|DirObjM
-v40 מֹשֶֽׁה׃פ|mō·šeh|him|H4872|N-proper-ms
+v40 מֹשֶֽׁה׃|mō·šeh|him|H4872|N-proper-ms

@@ -240,7 +240,7 @@ v14 τὴν|tēn|-|G3588|Art-AFS
 v14 πενθερὰν|pentheran|mother-in-law|G3994|N-AFS
 v14 αὐτοῦ|autou|[Peter's]|G846|PPro-GM3S
 v14 βεβλημένην|beblēmenēn|sick in bed|G906|V-RPM/P-AFS
-v14 καὶ|kai|vvv|G2532|Conj
+v14 καὶ|kai|...|G2532|Conj
 v14 πυρέσσουσαν|pyressousan|with a fever|G4445|V-PPA-AFS
 v15 καὶ|kai|So|G2532|Conj
 v15 ἥψατο|hēpsato|He touched|G680|V-AIM-3S
@@ -273,7 +273,7 @@ v16 καὶ|kai|and|G2532|Conj
 v16 πάντας|pantas|all|G3956|Adj-AMP
 v16 τοὺς|tous|the|G3588|Art-AMP
 v16 κακῶς|kakōs|sick|G2560|Adv
-v16 ἔχοντας|echontas|vvv|G2192|V-PPA-AMP
+v16 ἔχοντας|echontas|...|G2192|V-PPA-AMP
 v16 ἐθεράπευσεν|etherapeusen|healed|G2323|V-AIA-3S
 v17 ὅπως|hopōs|This was|G3704|Conj
 v17 πληρωθῇ|plērōthē|to fulfill|G4137|V-ASP-3S

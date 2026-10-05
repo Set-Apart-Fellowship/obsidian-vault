@@ -52,18 +52,18 @@ v7 יִנְהָ֑קוּ|yin·hā·qū|They cried out|H5101|V-Qal-Imperf-3mp
 v7 תַּ֖חַת|ta·ḥaṯ|beneath|H8478|Prep
 v7 חָר֣וּל|ḥā·rūl|the nettles|H2738|N-ms
 v7 יְסֻפָּֽחוּ׃|yə·sup·pā·ḥū|and huddled|H5596|V-Pual-Imperf-3mp
-v8 בְּֽנֵי־|bə·nê-||H1121|N-mpc
+v8 בְּֽנֵי־|bə·nê-|-|H1121|N-mpc
 v8 נָ֭בָל|nā·ḇāl|A senseless|H5036|Adj-ms
 v8 גַּם־|gam-|and|H1571|Conj
 v8 בְּנֵ֣י|bə·nê|brood|H1121|N-mpc
-v8 בְלִי־|ḇə·lî-|vvv|H1097|Adv
+v8 בְלִי־|ḇə·lî-|...|H1097|Adv
 v8 שֵׁ֑ם|šêm|nameless|H8034|N-ms
 v8 נִ֝כְּא֗וּ|nik·kə·’ū|they were driven|H5217|V-Nifal-Perf-3cp
 v8 מִן־|min-|off|H4480|Prep
 v8 הָאָֽרֶץ׃|hā·’ā·reṣ|the land|H776|Art | N-fs
 v9 וְ֭עַתָּה|wə·‘at·tāh|And now|H6258|Conj-w | Adv
 v9 נְגִינָתָ֣ם|nə·ḡî·nā·ṯām|they mock me in song|H5058|N-fsc | 3mp
-v9 הָיִ֑יתִי|hā·yî·ṯî|vvv|H1961|V-Qal-Perf-1cs
+v9 הָיִ֑יתִי|hā·yî·ṯî|...|H1961|V-Qal-Perf-1cs
 v9 וָאֱהִ֖י|wā·’ĕ·hî|I have become|H1961|Conj-w | V-Qal-ConsecImperf-1cs
 v9 לָהֶ֣ם|lā·hem|among them|H0|Prep-l | Pro-3mp
 v9 לְמִלָּֽה׃|lə·mil·lāh|a byword|H4405|Prep-l | N-fs
@@ -147,7 +147,7 @@ v20 עָ֝מַ֗דְתִּי|‘ā·maḏ·tî|when I stand up|H5975|V-Qal-Perf-
 v20 וַתִּתְבֹּ֥נֶן|wat·tiṯ·bō·nen|You merely look|H995|Conj-w | V-Hitpael-ConsecImperf-2ms
 v20 בִּֽי׃|bî|at me|H0|Prep | 1cs
 v21 תֵּהָפֵ֣ךְ|tê·hā·p̄êḵ|You have ruthlessly turned|H2015|V-Nifal-Imperf-2ms
-v21 לְאַכְזָ֣ר|lə·’aḵ·zār||H393|Prep-l | Adj-ms
+v21 לְאַכְזָ֣ר|lə·’aḵ·zār|-|H393|Prep-l | Adj-ms
 v21 לִ֑י|lî|on me|H0|Prep | 1cs
 v21 בְּעֹ֖צֶם|bə·‘ō·ṣem|with Your strong|H6108|Prep-b | N-msc
 v21 יָדְךָ֣|yā·ḏə·ḵā|hand|H3027|N-fsc | 2ms
@@ -210,7 +210,7 @@ v29 אָ֭ח|’āḥ|a brother|H251|N-ms
 v29 הָיִ֣יתִי|hā·yî·ṯî|I have become|H1961|V-Qal-Perf-1cs
 v29 לְתַנִּ֑ים|lə·ṯan·nîm|of jackals|H8577|Prep-l | N-cp
 v29 וְ֝רֵ֗עַ|wə·rê·a‘|a companion|H7453|Conj-w | N-ms
-v29 לִבְנ֥וֹת|liḇ·nō·wṯ|vvv|H1323|Prep-l | N-fpc
+v29 לִבְנ֥וֹת|liḇ·nō·wṯ|...|H1323|Prep-l | N-fpc
 v29 יַעֲנָֽה׃|ya·‘ă·nāh|of ostriches|H3284|N-fs
 v30 ע֭וֹרִי|‘ō·w·rî|My skin|H5785|N-msc | 1cs
 v30 שָׁחַ֣ר|šā·ḥar|grows black|H7835|V-Qal-Perf-3ms

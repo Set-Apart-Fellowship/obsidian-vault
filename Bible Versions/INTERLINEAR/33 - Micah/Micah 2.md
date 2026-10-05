@@ -21,7 +21,7 @@ v2 וְעָֽשְׁקוּ֙|wə·‘ā·šə·qū|They deprive|H6231|Conj-w | V-
 v2 גֶּ֣בֶר|ge·ḇer|a man|H1397|N-ms
 v2 וּבֵית֔וֹ|ū·ḇê·ṯōw|of his home|H1004|Conj-w | N-msc | 3ms
 v2 וְאִ֖ישׁ|wə·’îš|a fellow man|H376|Conj-w | N-ms
-v2 וְנַחֲלָתֽוֹ׃פ|wə·na·ḥă·lā·ṯōw|of his inheritance|H5159|Conj-w | N-fsc | 3ms
+v2 וְנַחֲלָתֽוֹ׃|wə·na·ḥă·lā·ṯōw|of his inheritance|H5159|Conj-w | N-fsc | 3ms
 v3 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v3 כֹּ֚ה|kōh|this is what|H3541|Adv
 v3 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -67,7 +67,7 @@ v4 יְחַלֵּֽק׃|yə·ḥal·lêq|He has allotted|H2505|V-Piel-Imperf-3ms
 v5 לָכֵן֙|lā·ḵên|Therefore|H3651|Adv
 v5 לֹֽא־|lō-|no one|H3808|Adv-NegPrt
 v5 יִֽהְיֶ֣ה|yih·yeh|you will have|H1961|V-Qal-Imperf-3ms
-v5 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v5 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v5 מַשְׁלִ֥יךְ|maš·lîḵ|to divide|H7993|V-Hifil-Prtcpl-ms
 v5 חֶ֖בֶל|ḥe·ḇel|the land|H2256|N-ms
 v5 בְּגוֹרָ֑ל|bə·ḡō·w·rāl|by lot|H1486|Prep-b | N-ms
@@ -173,4 +173,4 @@ v13 וַיַּעֲבֹ֤ר|way·ya·‘ă·ḇōr|will pass through|H5674|Conj-
 v13 מַלְכָּם֙|mal·kām|Their King|H4428|N-msc | 3mp
 v13 לִפְנֵיהֶ֔ם|lip̄·nê·hem|before them|H6440|Prep-l | N-mpc | 3mp
 v13 וַיהוָ֖ה|Yah·weh|the LORD|H3068|Conj-w | N-proper-ms
-v13 בְּרֹאשָֽׁם׃פ|bə·rō·šām|as their leader|H7218|Prep-b | N-msc | 3mp
+v13 בְּרֹאשָֽׁם׃|bə·rō·šām|as their leader|H7218|Prep-b | N-msc | 3mp

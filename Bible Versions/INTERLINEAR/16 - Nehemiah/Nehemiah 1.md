@@ -2,7 +2,7 @@ v1 דִּבְרֵ֥י|diḇ·rê|[These are] the words|H1697|N-mpc
 v1 נְחֶמְיָ֖ה|nə·ḥem·yāh|of Nehemiah|H5166|N-proper-ms
 v1 בֶּן־|ben-|son|H1121|N-msc
 v1 חֲכַלְיָ֑ה|ḥă·ḵal·yāh|of Hacaliah|H2446|N-proper-ms
-v1 וַיְהִ֤י|way·hî|vvv|H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v1 וַיְהִ֤י|way·hî|...|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v1 בְחֹֽדֶשׁ־|ḇə·ḥō·ḏeš-|In the month|H2320|Prep-b | N-msc
 v1 כִּסְלֵו|kis·lēw|of Chislev|H3691|N-proper-fs
 v1 שְׁנַ֣ת|šə·naṯ|year|H8141|N-fsc
@@ -24,7 +24,7 @@ v2 הַיְּהוּדִ֧ים|hay·yə·hū·ḏîm|of the Jews|H3064|Art | N-pr
 v2 הַפְּלֵיטָ֛ה|hap·pə·lê·ṭāh|the remnant|H6413|Art | N-fs
 v2 אֲשֶֽׁר־|’ă·šer-|who|H834|Pro-r
 v2 נִשְׁאֲר֥וּ|niš·’ă·rū|had survived|H7604|V-Nifal-Perf-3cp
-v2 מִן־|min-||H4480|Prep
+v2 מִן־|min-|-|H4480|Prep
 v2 הַשֶּׁ֖בִי|haš·še·ḇî|the exile|H7628|Art | N-ms
 v2 וְעַל־|wə·‘al-|and also about|H5921|Conj-w | Prep
 v2 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
@@ -161,7 +161,7 @@ v9 בָּחַ֔רְתִּי|bā·ḥar·tî|I have chosen|H977|V-Qal-Perf-1cs
 v9 לְשַׁכֵּ֥ן|lə·šak·kên|as a dwelling|H7931|Prep-l | V-Piel-Inf
 v9 אֶת־|’eṯ-|for|H853|DirObjM
 v9 שְׁמִ֖י|šə·mî|My Name|H8034|N-msc | 1cs
-v9 שָֽׁם׃|šām||H8033|Adv
+v9 שָֽׁם׃|šām|-|H8033|Adv
 v10 וְהֵ֥ם|wə·hêm|They|H1992|Conj-w | Pro-3mp
 v10 עֲבָדֶ֖יךָ|‘ă·ḇā·ḏe·ḵā|are Your servants|H5650|N-mpc | 2ms
 v10 וְעַמֶּ֑ךָ|wə·‘am·me·ḵā|and Your people|H5971|Conj-w | N-msc | 2ms
@@ -199,4 +199,4 @@ v11 הַזֶּ֑ה|haz·zeh|of this|H2088|Art | Pro-ms
 v11 וַאֲנִ֛י|wa·’ă·nî|At that time I|H589|Conj-w | Pro-1cs
 v11 הָיִ֥יתִי|hā·yî·ṯî|was|H1961|V-Qal-Perf-1cs
 v11 מַשְׁקֶ֖ה|maš·qeh|the cupbearer|H4945|N-ms
-v11 לַמֶּֽלֶךְ׃פ|lam·me·leḵ|to the king|H4428|Prep-l, Art | N-ms
+v11 לַמֶּֽלֶךְ׃|lam·me·leḵ|to the king|H4428|Prep-l, Art | N-ms

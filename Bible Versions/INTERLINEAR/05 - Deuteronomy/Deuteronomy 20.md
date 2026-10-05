@@ -141,9 +141,9 @@ v9 אֶל־|’el-|...|H413|Prep
 v9 הָעָ֑ם|hā·‘ām|the army|H5971|Art | N-ms
 v9 וּפָֽקְד֛וּ|ū·p̄ā·qə·ḏū|they are to appoint|H6485|Conj-w | V-Qal-ConjPerf-3cp
 v9 שָׂרֵ֥י|śā·rê|commanders|H8269|N-mpc
-v9 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|vvv|H6635|N-cp
+v9 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|...|H6635|N-cp
 v9 בְּרֹ֥אשׁ|bə·rōš|to lead it|H7218|Prep-b | N-msc
-v9 הָעָֽם׃ס|hā·‘ām|...|H5971|Art | N-ms
+v9 הָעָֽם׃|hā·‘ām|...|H5971|Art | N-ms
 v10 כִּֽי־|kî-|When|H3588|Conj
 v10 תִקְרַ֣ב|ṯiq·raḇ|you approach|H7126|V-Qal-Imperf-2ms
 v10 אֶל־|’el-|...|H413|Prep
@@ -153,17 +153,17 @@ v10 עָלֶ֑יהָ|‘ā·le·hā|against it|H5921|Prep | 3fs
 v10 וְקָרָ֥אתָ|wə·qā·rā·ṯā|you are to make an offer|H7121|Conj-w | V-Qal-ConjPerf-2ms
 v10 אֵלֶ֖יהָ|’ê·le·hā|...|H413|Prep | 3fs
 v10 לְשָׁלֽוֹם׃|lə·šā·lō·wm|of peace|H7965|Prep-l | N-ms
-v11 וְהָיָה֙|wə·hā·yāh||H1961|Conj-w | V-Qal-ConjPerf-3ms
+v11 וְהָיָה֙|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v11 אִם־|’im-|If|H518|Conj
 v11 שָׁל֣וֹם|šā·lō·wm|your offer of peace|H7965|N-ms
 v11 תַּֽעַנְךָ֔|ta·‘an·ḵā|they accept|H6030|V-Qal-Imperf-3fs | 2ms
 v11 וּפָתְחָ֖ה|ū·p̄ā·ṯə·ḥāh|and open [their gates]|H6605|Conj-w | V-Qal-ConjPerf-3fs
-v11 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v11 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v11 וְהָיָ֞ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v11 כָּל־|kāl-|all|H3605|N-msc
 v11 הָעָ֣ם|hā·‘ām|the people|H5971|Art | N-ms
 v11 הַנִּמְצָא־|han·nim·ṣā-|[there]|H4672|Art | V-Nifal-Prtcpl-ms
-v11 בָ֗הּ|ḇāh||H0|Prep | 3fs
+v11 בָ֗הּ|ḇāh|-|H0|Prep | 3fs
 v11 יִהְי֥וּ|yih·yū|will become|H1961|V-Qal-Imperf-3mp
 v11 לְךָ֛|lə·ḵā|you|H0|Prep | 2ms
 v11 לָמַ֖ס|lā·mas|forced laborers|H4522|Prep-l | N-ms
@@ -185,7 +185,7 @@ v13 וְהִכִּיתָ֥|wə·hik·kî·ṯā|you must put|H5221|Conj-w | V-Hi
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 כָּל־|kāl-|every|H3605|N-msc
 v13 זְכוּרָ֖הּ|zə·ḵū·rāh|male|H2138|N-msc | 3fs
-v13 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v13 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v13 חָֽרֶב׃|ḥā·reḇ|to the sword|H2719|N-fs
 v14 רַ֣ק|raq|But|H7535|Adv
 v14 הַ֠נָּשִׁים|han·nā·šîm|the women|H802|Art | N-fp
@@ -198,7 +198,7 @@ v14 בָעִ֛יר|ḇā·‘îr|in the city|H5892|Prep-b, Art | N-fs
 v14 כָּל־|kāl-|all|H3605|N-msc
 v14 שְׁלָלָ֖הּ|šə·lā·lāh|its spoil|H7998|N-msc | 3fs
 v14 תָּבֹ֣ז|tā·ḇōz|you may take as plunder|H962|V-Qal-Imperf-2ms
-v14 לָ֑ךְ|lāḵ||H0|Prep | 2ms
+v14 לָ֑ךְ|lāḵ|-|H0|Prep | 2ms
 v14 וְאָֽכַלְתָּ֙|wə·’ā·ḵal·tā|and you shall use|H398|Conj-w | V-Qal-ConjPerf-2ms
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 שְׁלַ֣ל|šə·lal|the spoil|H7998|N-msc
@@ -231,7 +231,7 @@ v16 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v16 נֹתֵ֥ן|nō·ṯên|is giving|H5414|V-Qal-Prtcpl-ms
 v16 לְךָ֖|lə·ḵā|you|H0|Prep | 2ms
 v16 נַחֲלָ֑ה|na·ḥă·lāh|as an inheritance|H5159|N-fs
-v16 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
+v16 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v16 תְחַיֶּ֖ה|ṯə·ḥay·yeh|you must not leave alive|H2421|V-Piel-Imperf-2ms
 v16 כָּל־|kāl-|anything|H3605|N-msc
 v16 נְשָׁמָֽה׃|nə·šā·māh|that breathes|H5397|N-fs
@@ -261,7 +261,7 @@ v18 עָשׂ֖וּ|‘ā·śū|they do|H6213|V-Qal-Perf-3cp
 v18 לֵֽאלֹהֵיהֶ֑ם|lê·lō·hê·hem|for their gods|H430|Prep-l | N-mpc | 3mp
 v18 וַחֲטָאתֶ֖ם|wa·ḥă·ṭā·ṯem|and so cause you to sin|H2398|Conj-w | V-Qal-ConjPerf-2mp
 v18 לַיהוָ֥ה|Yah·weh|against the LORD|H3068|Prep-l | N-proper-ms
-v18 אֱלֹהֵיכֶֽם׃ס|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
+v18 אֱלֹהֵיכֶֽם׃|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
 v19 כִּֽי־|kî-|When|H3588|Conj
 v19 תָצ֣וּר|ṯā·ṣūr|you lay siege|H6696|V-Qal-Imperf-2ms
 v19 אֶל־|’el-|to|H413|Prep
@@ -288,8 +288,8 @@ v19 כִּ֤י|kî|...|H3588|Conj
 v19 הָֽאָדָם֙|hā·’ā·ḏām|human|H120|Art | N-ms
 v19 עֵ֣ץ|‘êṣ|Are the trees|H6086|N-msc
 v19 הַשָּׂדֶ֔ה|haś·śā·ḏeh|of the field|H7704|Art | N-ms
-v19 לָבֹ֥א|lā·ḇō|vvv|H935|Prep-l | V-Qal-Inf
-v19 מִפָּנֶ֖יךָ|mip·pā·ne·ḵā|vvv|H6440|Prep-m | N-cpc | 2ms
+v19 לָבֹ֥א|lā·ḇō|...|H935|Prep-l | V-Qal-Inf
+v19 מִפָּנֶ֖יךָ|mip·pā·ne·ḵā|...|H6440|Prep-m | N-cpc | 2ms
 v19 בַּמָּצֽוֹר׃|bam·mā·ṣō·wr|that you should besiege them|H4692|Prep-b, Art | N-ms
 v20 רַ֞ק|raq|But|H7535|Adv
 v20 עֵ֣ץ|‘êṣ|the trees|H6086|N-msc
@@ -313,4 +313,4 @@ v20 עֹשָׂ֧ה|‘ō·śāh|is waging|H6213|V-Qal-Prtcpl-fs
 v20 עִמְּךָ֛|‘im·mə·ḵā|against you|H5973|Prep | 2ms
 v20 מִלְחָמָ֖ה|mil·ḥā·māh|war|H4421|N-fs
 v20 עַ֥ד|‘aḏ|until|H5704|Prep
-v20 רִדְתָּֽהּ׃פ|riḏ·tāh|it falls|H3381|V-Qal-Inf | 3fs
+v20 רִדְתָּֽהּ׃|riḏ·tāh|it falls|H3381|V-Qal-Inf | 3fs

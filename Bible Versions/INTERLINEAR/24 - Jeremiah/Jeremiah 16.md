@@ -5,11 +5,11 @@ v1 אֵלַ֥י|’ê·lay|to me|H413|Prep | 1cs
 v1 לֵאמֹֽר׃|lê·mōr|saying|H559|Prep-l | V-Qal-Inf
 v2 לֹֽא־|lō-|You must not|H3808|Adv-NegPrt
 v2 תִקַּ֥ח|ṯiq·qaḥ|marry|H3947|V-Qal-Imperf-2ms
-v2 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v2 אִשָּׁ֑ה|’iš·šāh|-|H802|N-fs
 v2 וְלֹֽא־|wə·lō-|[or]|H3808|Conj-w | Adv-NegPrt
 v2 יִהְי֤וּ|yih·yū|have|H1961|V-Qal-Imperf-3mp
-v2 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v2 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v2 בָּנִ֣ים|bā·nîm|sons|H1121|N-mp
 v2 וּבָנ֔וֹת|ū·ḇā·nō·wṯ|or daughters|H1323|Conj-w | N-fp
 v2 בַּמָּק֖וֹם|bam·mā·qō·wm|place|H4725|Prep-b, Art | N-ms
@@ -29,7 +29,7 @@ v3 וְעַֽל־|wə·‘al-|and|H5921|Conj-w | Prep
 v3 אִמֹּתָ֞ם|’im·mō·ṯām|the mothers|H517|N-fpc | 3mp
 v3 הַיֹּלְד֣וֹת|hay·yō·lə·ḏō·wṯ|who fathered|H3205|Art | V-Qal-Prtcpl-fp
 v3 אוֹתָ֗ם|’ō·w·ṯām|them|H853|DirObjM | 3mp
-v3 וְעַל־|wə·‘al-||H5921|Conj-w | Prep
+v3 וְעַל־|wə·‘al-|-|H5921|Conj-w | Prep
 v3 אֲבוֹתָ֛ם|’ă·ḇō·w·ṯām|and the fathers|H1|N-mpc | 3mp
 v3 הַמּוֹלִדִ֥ים|ham·mō·w·li·ḏîm|...|H3205|Art | V-Hifil-Prtcpl-mp
 v3 אוֹתָ֖ם|’ō·w·ṯām|-|H853|DirObjM | 3mp
@@ -44,7 +44,7 @@ v4 וְלֹ֣א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v4 יִקָּבֵ֔רוּ|yiq·qā·ḇê·rū|or buried|H6912|V-Nifal-Imperf-3mp
 v4 לְדֹ֛מֶן|lə·ḏō·men|like dung|H1828|Prep-l | N-ms
 v4 עַל־|‘al-|on|H5921|Prep
-v4 פְּנֵ֥י|pə·nê|vvv|H6440|N-cpc
+v4 פְּנֵ֥י|pə·nê|...|H6440|N-cpc
 v4 הָאֲדָמָ֖ה|hā·’ă·ḏā·māh|the ground|H127|Art | N-fs
 v4 יִֽהְי֑וּ|yih·yū|but will lie|H1961|V-Qal-Imperf-3mp
 v4 וּבַחֶ֤רֶב|ū·ḇa·ḥe·reḇ|by sword|H2719|Conj-w, Prep-b, Art | N-fs
@@ -56,7 +56,7 @@ v4 לְמַאֲכָ֔ל|lə·ma·’ă·ḵāl|food|H3978|Prep-l | N-ms
 v4 לְע֥וֹף|lə·‘ō·wp̄|for the birds|H5775|Prep-l | N-msc
 v4 הַשָּׁמַ֖יִם|haš·šā·ma·yim|of the air|H8064|Art | N-mp
 v4 וּלְבֶהֱמַ֥ת|ū·lə·ḇe·hĕ·maṯ|and beasts|H929|Conj-w, Prep-l | N-fsc
-v4 הָאָֽרֶץ׃ס|hā·’ā·reṣ|of the earth|H776|Art | N-fs
+v4 הָאָֽרֶץ׃|hā·’ā·reṣ|of the earth|H776|Art | N-fs
 v5 כִּֽי־|kî-|Indeed|H3588|Conj
 v5 כֹ֣ה׀|ḵōh|this is what|H3541|Adv
 v5 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -70,7 +70,7 @@ v5 תֵּלֵ֣ךְ|tê·lêḵ|go|H1980|V-Qal-Imperf-2ms
 v5 לִסְפּ֔וֹד|lis·pō·wḏ|to mourn|H5594|Prep-l | V-Qal-Inf
 v5 וְאַל־|wə·’al-|...|H408|Conj-w | Adv
 v5 תָּנֹ֖ד|tā·nōḏ|or show sympathy|H5110|V-Qal-Imperf.Jus-2ms
-v5 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v5 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v5 כִּֽי־|kî-|for|H3588|Conj
 v5 אָסַ֨פְתִּי|’ā·sap̄·tî|I have removed|H622|V-Qal-Perf-1cs
 v5 אֶת־|’eṯ-|-|H853|DirObjM
@@ -80,7 +80,7 @@ v5 הָעָ֤ם־|hā·‘ām-|people|H5971|Art | N-ms
 v5 הַזֶּה֙|haz·zeh|this|H2088|Art | Pro-ms
 v5 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v5 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
-v5 אֶת־|’eṯ-||H853|DirObjM
+v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 הַחֶ֖סֶד|ha·ḥe·seḏ|My loving devotion|H2617|Art | N-ms
 v5 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v5 הָֽרַחֲמִֽים׃|hā·ra·ḥă·mîm|My compassion|H7356|Art | N-mp
@@ -101,8 +101,8 @@ v6 יִקָּרֵ֖חַ|yiq·qā·rê·aḥ|or shave his head|H7139|V-Nifal-Impe
 v6 לָהֶֽם׃|lā·hem|for them|H0|Prep-l | Pro-3mp
 v7 וְלֹֽא־|wə·lō-|No food|H3808|Conj-w | Adv-NegPrt
 v7 יִפְרְס֥וּ|yip̄·rə·sū|will be offered|H6536|V-Qal-Imperf-3mp
-v7 לָהֶ֛ם|lā·hem||H0|Prep | 3mp
-v7 עַל־|‘al-||H5921|Prep
+v7 לָהֶ֛ם|lā·hem|-|H0|Prep | 3mp
+v7 עַל־|‘al-|-|H5921|Prep
 v7 אֵ֖בֶל|’ê·ḇel|those who mourn|H60|N-ms
 v7 לְנַחֲמ֣וֹ|lə·na·ḥă·mōw|to comfort|H5162|Prep-l | V-Piel-Inf | 3ms
 v7 עַל־|‘al-|...|H5921|Prep
@@ -123,7 +123,7 @@ v8 תָב֖וֹא|ṯā·ḇō·w|enter|H935|V-Qal-Imperf-2ms
 v8 לָשֶׁ֣בֶת|lā·še·ḇeṯ|and sit down|H3427|Prep-l | V-Qal-Inf
 v8 אוֹתָ֑ם|’ō·w·ṯām|with them|H854|Prep | 3mp
 v8 לֶאֱכֹ֖ל|le·’ĕ·ḵōl|to eat|H398|Prep-l | V-Qal-Inf
-v8 וְלִשְׁתּֽוֹת׃ס|wə·liš·tō·wṯ|and drink|H8354|Conj-w, Prep-l | V-Qal-Inf
+v8 וְלִשְׁתּֽוֹת׃|wə·liš·tō·wṯ|and drink|H8354|Conj-w, Prep-l | V-Qal-Inf
 v9 כִּי֩|kî|For|H3588|Conj
 v9 כֹ֨ה|ḵōh|this is what|H3541|Adv
 v9 אָמַ֜ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -234,7 +234,7 @@ v13 אֲשֶׁ֛ר|’ă·šer|for|H834|Pro-r
 v13 לֹֽא־|lō-|no|H3808|Adv-NegPrt
 v13 אֶתֵּ֥ן|’et·tên|I will show|H5414|V-Qal-Imperf-1cs
 v13 לָכֶ֖ם|lā·ḵem|you|H0|Prep | 2mp
-v13 חֲנִינָֽה׃ס|ḥă·nî·nāh|favor|H2594|N-fs
+v13 חֲנִינָֽה׃|ḥă·nî·nāh|favor|H2594|N-fs
 v14 לָכֵ֛ן|lā·ḵên|Yet|H3651|Adv
 v14 הִנֵּֽה־|hin·nêh-|behold|H2009|Interjection
 v14 יָמִ֥ים|yā·mîm|the days|H3117|N-mp
@@ -274,7 +274,7 @@ v15 עַל־|‘al-|to|H5921|Prep
 v15 אַדְמָתָ֔ם|’aḏ·mā·ṯām|their land|H127|N-fsc | 3mp
 v15 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v15 נָתַ֖תִּי|nā·ṯat·tî|I gave|H5414|V-Qal-Perf-1cs
-v15 לַאֲבוֹתָֽם׃ס|la·’ă·ḇō·w·ṯām|to their forefathers|H1|Prep-l | N-mpc | 3mp
+v15 לַאֲבוֹתָֽם׃|la·’ă·ḇō·w·ṯām|to their forefathers|H1|Prep-l | N-mpc | 3mp
 v16 הִנְנִ֨י|hin·nî|But for now|H2005|Interjection | 1cs
 v16 שֹׁלֵ֜חַ|šō·lê·aḥ|I will send for|H7971|V-Qal-Prtcpl-ms
 v16 לְדַוָּגִים|lə·ḏaw·wå̄·ḡīm|fishermen|H1728|Prep-l | N-mp
@@ -323,7 +323,7 @@ v18 שִׁקּֽוּצֵיהֶם֙|šiq·qū·ṣê·hem|of their detestable ido
 v18 וְתוֹעֲב֣וֹתֵיהֶ֔ם|wə·ṯō·w·‘ă·ḇō·w·ṯê·hem|with their abominations|H8441|Conj-w | N-fpc | 3mp
 v18 מָלְא֖וּ|mā·lə·’ū|and they have filled|H4390|V-Qal-Perf-3cp
 v18 אֶת־|’eṯ-|-|H853|DirObjM
-v18 נַחֲלָתִֽי׃ס|na·ḥă·lā·ṯî|My inheritance|H5159|N-fsc | 1cs
+v18 נַחֲלָתִֽי׃|na·ḥă·lā·ṯî|My inheritance|H5159|N-fsc | 1cs
 v19 יְהוָ֞ה|Yah·weh|O LORD|H3068|N-proper-ms
 v19 עֻזִּ֧י|‘uz·zî|my strength|H5797|N-msc | 1cs
 v19 וּמָעֻזִּ֛י|ū·mā·‘uz·zî|and my fortress|H4581|Conj-w | N-msc | 1cs
@@ -342,7 +342,7 @@ v19 נָחֲל֣וּ|nā·ḥă·lū|inherited|H5157|V-Qal-Perf-3cp
 v19 אֲבוֹתֵ֔ינוּ|’ă·ḇō·w·ṯê·nū|Our fathers|H1|N-mpc | 1cp
 v19 הֶ֖בֶל|he·ḇel|worthless idols|H1892|N-ms
 v19 וְאֵֽין־|wə·’ên-|of no|H369|Conj-w | Adv
-v19 בָּ֥ם|bām||H0|Prep | 3mp
+v19 בָּ֥ם|bām|-|H0|Prep | 3mp
 v19 מוֹעִֽיל׃|mō·w·‘îl|benefit at all|H3276|V-Hifil-Prtcpl-ms
 v20 הֲיַעֲשֶׂה־|hă·ya·‘ă·śeh-|make|H6213|V-Qal-Imperf-3ms
 v20 לּ֥וֹ|lōw|for himself|H0|Prep | 3ms
@@ -364,4 +364,4 @@ v21 גְּבֽוּרָתִ֑י|gə·ḇū·rā·ṯî|and My might|H1369|N-fsc |
 v21 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|then they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v21 כִּֽי־|kî-|that|H3588|Conj
 v21 שְׁמִ֥י|šə·mî|My name|H8034|N-msc | 1cs
-v21 יְהוָֽה׃ס|Yah·weh|is the LORD|H3068|N-proper-ms
+v21 יְהוָֽה׃|Yah·weh|is the LORD|H3068|N-proper-ms

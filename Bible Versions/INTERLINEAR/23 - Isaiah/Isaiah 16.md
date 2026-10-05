@@ -38,7 +38,7 @@ v4 נִדָּחַ֔י|nid·dā·ḥay|Let my fugitives|H5080|V-Nifal-Prtcpl-mpc 
 v4 מוֹאָ֛ב|mō·w·’āḇ|for Moab|H4124|N-proper-fs
 v4 הֱוִי־|hĕ·wî-|be|H1933|V-Qal-Imp-fs
 v4 סֵ֥תֶר|sê·ṯer|a refuge|H5643|N-ms
-v4 לָ֖מוֹ|lā·mōw||H0|Prep | 3mp
+v4 לָ֖מוֹ|lā·mōw|-|H0|Prep | 3mp
 v4 מִפְּנֵ֣י|mip·pə·nê|from|H6440|Prep-m | N-cpc
 v4 שׁוֹדֵ֑ד|šō·w·ḏêḏ|the destroyer|H7703|V-Qal-Prtcpl-ms
 v4 כִּֽי־|kî-|When|H3588|Conj
@@ -73,7 +73,7 @@ v6 וּגְאוֹנ֛וֹ|ū·ḡə·’ō·w·nōw|arrogance|H1347|Conj-w | N-m
 v6 וְעֶבְרָת֖וֹ|wə·‘eḇ·rā·ṯōw|his overflowing|H5678|Conj-w | N-fsc | 3ms
 v6 לֹא־|lō-|is empty|H3808|Adv-NegPrt
 v6 כֵ֥ן|ḵên|...|H3651|Adv
-v6 בַּדָּֽיו׃ס|bad·dāw|But his boasting|H907|N-mpc | 3ms
+v6 בַּדָּֽיו׃|bad·dāw|But his boasting|H907|N-mpc | 3ms
 v7 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v7 יְיֵלִ֥יל|yə·yê·lîl|wail|H3213|V-Hifil-Imperf-3ms
 v7 מוֹאָ֛ב|mō·w·’āḇ|let Moab|H4124|N-proper-fs
@@ -81,7 +81,7 @@ v7 לְמוֹאָ֖ב|lə·mō·w·’āḇ|for Moab|H4124|Prep-l | N-proper-fs
 v7 כֻּלֹּ֣ה|kul·lōh|together|H3605|N-msc | 3ms
 v7 יְיֵלִ֑יל|yə·yê·lîl|let them wail|H3213|V-Hifil-Imperf-3ms
 v7 לַאֲשִׁישֵׁ֧י|la·’ă·šî·šê|for the raisin cakes|H809|Prep-l | N-mpc
-v7 קִיר־|qîr-|vvv|H7025|
+v7 קִיר־|qîr-|...|H7025|
 v7 חֲרֶ֛שֶׂת|ḥă·re·śeṯ|of Kir-hareseth|H7025|N-proper-fs
 v7 תֶּהְגּ֖וּ|teh·gū|Moan|H1897|V-Qal-Imperf-2mp
 v7 אַךְ־|’aḵ-|you who are utterly|H389|Adv
@@ -147,7 +147,7 @@ v11 לְמוֹאָ֔ב|lə·mō·w·’āḇ|for Moab|H4124|Prep-l | N-proper-fs
 v11 כַּכִּנּ֖וֹר|kak·kin·nō·wr|like a harp|H3658|Prep-k, Art | N-ms
 v11 יֶֽהֱמ֑וּ|ye·hĕ·mū|laments|H1993|V-Qal-Imperf-3mp
 v11 וְקִרְבִּ֖י|wə·qir·bî|my inmost being|H7130|Conj-w | N-msc | 1cs
-v11 לְקִ֥יר|lə·qîr|vvv|H7025|Prep
+v11 לְקִ֥יר|lə·qîr|...|H7025|Prep
 v11 חָֽרֶשׂ׃|ḥā·reś|for Kir-heres|H7025|Prep | N-proper-fs
 v12 וְהָיָ֧ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v12 כִֽי־|ḵî-|When|H3588|Conj
@@ -189,4 +189,4 @@ v14 וּשְׁאָ֥ר|ū·šə·’ār|And those who are left|H7605|Conj-w | N-
 v14 מְעַ֛ט|mə·‘aṭ|will be few|H4592|Adj-ms
 v14 מִזְעָ֖ר|miz·‘ār|...|H4213|Adv
 v14 ל֥וֹא|lō·w|[and] feeble|H3808|Adv-NegPrt
-v14 כַבִּֽיר׃ס|ḵab·bîr|...|H3524|Adj-ms
+v14 כַבִּֽיר׃|ḵab·bîr|...|H3524|Adj-ms

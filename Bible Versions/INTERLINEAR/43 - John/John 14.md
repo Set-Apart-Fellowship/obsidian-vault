@@ -63,7 +63,7 @@ v5 Λέγει|Legei|said|G3004|V-PIA-3S
 v5 αὐτῷ|autō|-|G846|PPro-DM3S
 v5 Θωμᾶς|Thōmas|Thomas|G2381|N-NMS
 v5 Κύριε|Kyrie|Lord|G2962|N-VMS
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 οἴδαμεν|oidamen|we do not know|G1492|V-RIA-1P
 v5 ποῦ|pou|where|G4226|Adv
 v5 ὑπάγεις|hypageis|You are going|G5217|V-PIA-2S
@@ -132,7 +132,7 @@ v9 μεθ’|meth’|with|G3326|Prep
 v9 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v9 εἰμι|eimi|I have been|G1510|V-PIA-1S
 v9 καὶ|kai|and|G2532|Conj
-v9 οὐκ|ouk|vvv|G3756|Adv
+v9 οὐκ|ouk|...|G3756|Adv
 v9 ἔγνωκάς|egnōkas|still you do not know|G1097|V-RIA-2S
 v9 με|me|Me|G1473|PPro-A1S
 v9 Φίλιππε|Philippe|Philip|G5376|N-VMS
@@ -149,7 +149,7 @@ v9 Δεῖξον|Deixon|Show|G1166|V-AMA-2S
 v9 ἡμῖν|hēmin|us|G1473|PPro-D1P
 v9 τὸν|ton|the|G3588|Art-AMS
 v9 Πατέρα|Patera|Father|G3962|N-AMS
-v10 οὐ|ou|vvv|G3756|Adv
+v10 οὐ|ou|...|G3756|Adv
 v10 πιστεύεις|pisteueis|Do you not believe|G4100|V-PIA-2S
 v10 ὅτι|hoti|that|G3754|Conj
 v10 ἐγὼ|egō|I [am]|G1473|PPro-N1S
@@ -170,7 +170,7 @@ v10 λέγω|legō|say|G3004|V-PIA-1S
 v10 ὑμῖν|hymin|to you|G4771|PPro-D2P
 v10 ἀπ’|ap’|on|G575|Prep
 v10 ἐμαυτοῦ|emautou|My own|G1683|PPro-GM1S
-v10 οὐ|ou|vvv|G3756|Adv
+v10 οὐ|ou|...|G3756|Adv
 v10 λαλῶ|lalō|I do not speak|G2980|V-PIA-1S
 v10 ὁ|ho|{it is} the|G3588|Art-NMS
 v10 δὲ|de|Instead|G1161|Conj
@@ -215,7 +215,7 @@ v12 ἔργα|erga|works|G2041|N-ANP
 v12 ἃ|ha|that|G3739|RelPro-ANP
 v12 ἐγὼ|egō|I|G1473|PPro-N1S
 v12 ποιῶ|poiō|am doing|G4160|V-PIA-1S
-v12 κἀκεῖνος|kakeinos|vvv|G2548|DPro-NMS
+v12 κἀκεῖνος|kakeinos|...|G2548|DPro-NMS
 v12 ποιήσει|poiēsei|will also do|G4160|V-FIA-3S
 v12 καὶ|kai|even|G2532|Conj
 v12 μείζονα|meizona|greater [things]|G3173|Adj-ANP-C
@@ -275,8 +275,8 @@ v16 ἵνα|hina|to|G2443|Conj
 v16 ᾖ|ē|be|G1510|V-PSA-3S
 v16 «μεθ’|meth’|with|G3326|Prep
 v16 ὑμῶν|hymōn|you|G4771|PPro-G2P
-v16 εἰς|eis|vvv|G1519|Prep
-v16 τὸν|ton|vvv|G3588|Art-AMS
+v16 εἰς|eis|...|G1519|Prep
+v16 τὸν|ton|...|G3588|Art-AMS
 v16 αἰῶνα»|aiōna|forever|G165|N-AMS
 v17 τὸ|to|the|G3588|Art-ANS
 v17 Πνεῦμα|Pneuma|Spirit|G4151|N-ANS
@@ -285,11 +285,11 @@ v17 ἀληθείας|alētheias|of truth|G225|N-GFS
 v17 ὃ|ho|[Him]|G3739|RelPro-ANS
 v17 ὁ|ho|The|G3588|Art-NMS
 v17 κόσμος|kosmos|world|G2889|N-NMS
-v17 οὐ|ou|vvv|G3756|Adv
+v17 οὐ|ou|...|G3756|Adv
 v17 δύναται|dynatai|cannot|G1410|V-PIM/P-3S
 v17 λαβεῖν|labein|receive|G2983|V-ANA
 v17 ὅτι|hoti|because|G3754|Conj
-v17 οὐ|ou|vvv|G3756|Adv
+v17 οὐ|ou|...|G3756|Adv
 v17 θεωρεῖ|theōrei|it neither sees|G2334|V-PIA-3S
 v17 αὐτὸ|auto|Him|G846|PPro-AN3S
 v17 οὐδὲ|oude|nor|G3761|Conj
@@ -305,7 +305,7 @@ v17 καὶ|kai|and|G2532|Conj
 v17 ἐν|en|in|G1722|Prep
 v17 ὑμῖν|hymin|you|G4771|PPro-D2P
 v17 ἔσται|estai|will be|G1510|V-FIM-3S
-v18 Οὐκ|Ouk|vvv|G3756|Adv
+v18 Οὐκ|Ouk|...|G3756|Adv
 v18 ἀφήσω|aphēsō|I will not leave|G863|V-FIA-1S
 v18 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v18 ὀρφανούς|orphanous|as orphans|G3737|Adj-AMP
@@ -426,13 +426,13 @@ v23 παρ’|par’|with|G3844|Prep
 v23 αὐτῷ|autō|him|G846|PPro-DM3S
 v23 ποιησόμεθα|poiēsometha|make|G4160|V-FIM-1P
 v24 ὁ|ho|Whoever|G3588|Art-NMS
-v24 μὴ|mē|vvv|G3361|Adv
+v24 μὴ|mē|...|G3361|Adv
 v24 ἀγαπῶν|agapōn|does not love|G25|V-PPA-NMS
 v24 με|me|Me|G1473|PPro-A1S
 v24 τοὺς|tous|-|G3588|Art-AMP
 v24 λόγους|logous|words|G3056|N-AMP
 v24 μου|mou|My|G1473|PPro-G1S
-v24 οὐ|ou|vvv|G3756|Adv
+v24 οὐ|ou|...|G3756|Adv
 v24 τηρεῖ|tērei|does not keep|G5083|V-PIA-3S
 v24 καὶ|kai|-|G2532|Conj
 v24 ὁ|ho|The|G3588|Art-NMS
@@ -474,7 +474,7 @@ v26 διδάξει|didaxei|will teach|G1321|V-FIA-3S
 v26 πάντα|panta|all things|G3956|Adj-ANP
 v26 καὶ|kai|and|G2532|Conj
 v26 ὑπομνήσει|hypomnēsei|will remind you of|G5279|V-FIA-3S
-v26 ὑμᾶς|hymas|vvv|G4771|PPro-A2P
+v26 ὑμᾶς|hymas|...|G4771|PPro-A2P
 v26 πάντα|panta|everything|G3956|Adj-ANP
 v26 ἃ|ha|...|G3739|RelPro-ANP
 v26 εἶπον|eipon|have told|G2036|V-AIA-1S
@@ -517,7 +517,7 @@ v28 εἰ|ei|If|G1487|Conj
 v28 ἠγαπᾶτέ|ēgapate|you loved|G25|V-IIA-2P
 v28 με|me|Me|G1473|PPro-A1S
 v28 ἐχάρητε|echarēte|you would rejoice|G5463|V-AIP-2P
-v28 ἄν|an|vvv|G302|Prtcl
+v28 ἄν|an|...|G302|Prtcl
 v28 ὅτι|hoti|that|G3754|Conj
 v28 πορεύομαι|poreuomai|I am going|G4198|V-PIM/P-1S
 v28 πρὸς|pros|to|G4314|Prep

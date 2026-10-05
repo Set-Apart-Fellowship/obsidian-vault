@@ -71,7 +71,7 @@ v3 וַיָּ֧שָׁב|way·yā·šāḇ|returned|H7725|Conj-w | V-Qal-ConsecIm
 v3 דָּוִ֛יד|dā·wîḏ|Then [David]|H1732|N-proper-ms
 v3 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v3 הָעָ֖ם|hā·‘ām|his troops|H5971|Art | N-ms
-v3 יְרוּשָׁלִָֽם׃פ|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
+v3 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
 v4 וַיְהִי֙|way·hî|Some time later|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v4 אַחֲרֵיכֵ֔ן|’a·ḥă·rê·ḵên|...|H310|Prep
 v4 וַתַּעֲמֹ֧ד|wat·ta·‘ă·mōḏ|broke out|H5975|Conj-w | V-Qal-ConsecImperf-3fs
@@ -139,4 +139,4 @@ v8 וַיִּפְּל֥וּ|way·yip·pə·lū|fell|H5307|Conj-w | V-Qal-ConsecI
 v8 בְיַד־|ḇə·yaḏ-|at the hands|H3027|Prep-b | N-fsc
 v8 דָּוִ֖יד|dā·wîḏ|of David|H1732|N-proper-ms
 v8 וּבְיַד־|ū·ḇə·yaḏ-|...|H3027|Conj-w, Prep-b | N-fsc
-v8 עֲבָדָֽיו׃פ|‘ă·ḇā·ḏāw|and his servants|H5650|N-mpc | 3ms
+v8 עֲבָדָֽיו׃|‘ă·ḇā·ḏāw|and his servants|H5650|N-mpc | 3ms

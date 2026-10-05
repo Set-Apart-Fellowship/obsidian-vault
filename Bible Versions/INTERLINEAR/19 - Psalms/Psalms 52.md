@@ -6,7 +6,7 @@ v1 דּוֹאֵ֣ג|dō·w·’êḡ|After Doeg|H1673|N-proper-ms
 v1 הָאֲדֹמִי֮|hā·’ă·ḏō·mî|the Edomite|H130|Art | N-proper-ms
 v1 וַיַּגֵּ֪ד|way·yag·gêḏ|and told|H5046|Conj-w | V-Hifil-ConsecImperf-3ms
 v1 לְשָׁ֫א֥וּל|lə·šā·’ūl|to Saul|H7586|Prep-l | N-proper-ms
-v1 וַיֹּ֥אמֶר|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
+v1 וַיֹּ֥אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v1 ל֑וֹ|lōw|him|H0|Prep | 3ms
 v1 בָּ֥א|bā|has gone|H935|V-Qal-Perf-3ms
 v1 דָ֝וִ֗ד|ḏā·wiḏ|David|H1732|N-proper-ms
@@ -55,7 +55,7 @@ v5 סֶֽלָה׃|se·lāh|Selah|H5542|Interjection
 v6 וְיִרְא֖וּ|wə·yir·’ū|will see|H7200|Conj-w | V-Qal-ConjImperf-3mp
 v6 צַדִּיקִ֥ים|ṣad·dî·qîm|The righteous|H6662|Adj-mp
 v6 וְיִירָ֗אוּ|wə·yî·rā·’ū|and fear|H3372|Conj-w | V-Qal-ConjImperf-3mp
-v6 וְעָלָ֥יו|wə·‘ā·lāw|vvv|H5921|Conj-w | Prep | 3ms
+v6 וְעָלָ֥יו|wə·‘ā·lāw|...|H5921|Conj-w | Prep | 3ms
 v6 יִשְׂחָֽקוּ׃|yiś·ḥā·qū|they will mock [the evildoer], saying|H7832|V-Qal-Imperf-3mp
 v7 הִנֵּ֤ה|hin·nêh|Look at|H2009|Interjection
 v7 הַגֶּ֗בֶר|hag·ge·ḇer|the man|H1397|Art | N-ms

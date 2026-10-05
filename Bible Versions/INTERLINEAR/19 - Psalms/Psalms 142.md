@@ -67,7 +67,7 @@ v7 נַפְשִׁי֮|nap̄·šî|my soul|H5315|N-fsc | 1cs
 v7 לְהוֹד֪וֹת|lə·hō·w·ḏō·wṯ|that I may praise|H3034|Prep-l | V-Hifil-Inf
 v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 שְׁ֫מֶ֥ךָ|šə·me·ḵā|Your name|H8034|N-msc | 2ms
-v7 בִּ֭י|bî||H0|Prep | 1cs
+v7 בִּ֭י|bî|-|H0|Prep | 1cs
 v7 יַכְתִּ֣רוּ|yaḵ·ti·rū|will gather around me|H3803|V-Hifil-Imperf-3mp
 v7 צַדִּיקִ֑ים|ṣad·dî·qîm|The righteous|H6662|Adj-mp
 v7 כִּ֖י|kî|because|H3588|Conj

@@ -19,7 +19,7 @@ v2 שָׁא֜וּל|šā·’ūl|Saul|H7586|N-proper-ms
 v2 אַלְפַּ֗יִם|’al·pa·yim|Two thousand|H505|Number-md
 v2 בְּמִכְמָשׂ֙|bə·miḵ·māś|at Michmash|H4363|Prep-b | N-proper-fs
 v2 וּבְהַ֣ר|ū·ḇə·har|and in the hill country|H2022|Conj-w, Prep-b | N-msc
-v2 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v2 בֵּֽית־|bêṯ-|...|H1008|Prep
 v2 אֵ֔ל|’êl|of Bethel|H1008|N-proper-fs
 v2 וְאֶ֗לֶף|wə·’e·lep̄|and a thousand|H505|Conj-w | Number-ms
 v2 הָיוּ֙|hā·yū|were|H1961|V-Qal-Perf-3cp
@@ -37,7 +37,7 @@ v3 יוֹנָתָ֗ן|yō·w·nā·ṯān|Then Jonathan|H3129|N-proper-ms
 v3 אֵ֣ת|’êṯ|-|H853|DirObjM
 v3 נְצִ֤יב|nə·ṣîḇ|outpost|H5333|N-msc
 v3 פְּלִשְׁתִּים֙|pə·liš·tîm|the Philistine|H6430|N-proper-mp
-v3 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v3 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v3 בְּגֶ֔בַע|bə·ḡe·ḇa‘|at Geba|H1387|Prep-b | N-proper-fs
 v3 וַֽיִּשְׁמְע֖וּ|way·yiš·mə·‘ū|heard [about it]|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v3 פְּלִשְׁתִּ֑ים|pə·liš·tîm|and the Philistines|H6430|N-proper-mp
@@ -89,7 +89,7 @@ v5 וַֽיַּעֲלוּ֙|way·ya·‘ă·lū|They went up|H5927|Conj-w | V-Q
 v5 וַיַּחֲנ֣וּ|way·ya·ḥă·nū|and camped|H2583|Conj-w | V-Qal-ConsecImperf-3mp
 v5 בְמִכְמָ֔שׂ|ḇə·miḵ·māś|at Michmash|H4363|Prep-b | N-proper-fs
 v5 קִדְמַ֖ת|qiḏ·maṯ|east|H6926|N-fsc
-v5 בֵּ֥ית|bêṯ|vvv|H1007|Prep
+v5 בֵּ֥ית|bêṯ|...|H1007|Prep
 v5 אָֽוֶן׃|’ā·wen|of Beth-aven|H1007|N-proper-fs
 v6 וְאִ֨ישׁ|wə·’îš|the men|H376|Conj-w | N-msc
 v6 יִשְׂרָאֵ֤ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -151,7 +151,7 @@ v10 שְׁמוּאֵ֖ל|šə·mū·’êl|Samuel|H8050|N-proper-ms
 v10 בָּ֑א|bā|arrived|H935|V-Qal-Prtcpl-ms
 v10 וַיֵּצֵ֥א|way·yê·ṣê|went out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v10 שָׁא֛וּל|šā·’ūl|and Saul|H7586|N-proper-ms
-v10 לִקְרָאת֖וֹ|liq·rā·ṯōw|vvv|H7122|Prep-l | V-Qal-Inf | 3ms
+v10 לִקְרָאת֖וֹ|liq·rā·ṯōw|...|H7122|Prep-l | V-Qal-Inf | 3ms
 v10 לְבָרֲכֽוֹ׃|lə·ḇā·ră·ḵōw|to greet him|H1288|Prep-l | V-Piel-Inf | 3ms
 v11 וַיֹּ֥אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 שְׁמוּאֵ֖ל|šə·mū·’êl|Samuel|H8050|N-proper-ms
@@ -185,7 +185,7 @@ v12 לֹ֣א|lō|and I have not|H3808|Adv-NegPrt
 v12 חִלִּ֑יתִי|ḥil·lî·ṯî|sought|H2470|V-Piel-Perf-1cs
 v12 וָֽאֶתְאַפַּ֔ק|wā·’eṯ·’ap·paq|So I felt compelled|H662|Conj-w | V-Hitpael-ConsecImperf-1cs
 v12 וָאַעֲלֶ֖ה|wā·’a·‘ă·leh|to offer|H5927|Conj-w | V-Hifil-ConsecImperf-1cs
-v12 הָעֹלָֽה׃ס|hā·‘ō·lāh|the burnt offering|H5930|Art | N-fs
+v12 הָעֹלָֽה׃|hā·‘ō·lāh|the burnt offering|H5930|Art | N-fs
 v13 וַיֹּ֧אמֶר|way·yō·mer|declared|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 שְׁמוּאֵ֛ל|šə·mū·’êl|Samuel|H8050|N-proper-ms
 v13 אֶל־|’el-|-|H413|Prep
@@ -215,7 +215,7 @@ v14 לֹא־|lō-|will not|H3808|Adv-NegPrt
 v14 תָק֑וּם|ṯā·qūm|endure|H6965|V-Qal-Imperf-3fs
 v14 בִּקֵּשׁ֩|biq·qêš|has sought|H1245|V-Piel-Perf-3ms
 v14 יְהוָ֨ה|Yah·weh|the LORD|H3068|N-proper-ms
-v14 ל֜וֹ|lōw||H0|Prep | 3ms
+v14 ל֜וֹ|lōw|-|H0|Prep | 3ms
 v14 אִ֣ישׁ|’îš|a man|H376|N-ms
 v14 כִּלְבָב֗וֹ|kil·ḇā·ḇōw|after His own heart|H3824|Prep-k | N-msc | 3ms
 v14 וַיְצַוֵּ֨הוּ|way·ṣaw·wê·hū|and appointed him|H6680|Conj-w | V-Piel-ConsecImperf-3ms | 3ms
@@ -229,7 +229,7 @@ v14 שָׁמַ֔רְתָּ|šā·mar·tā|kept|H8104|V-Qal-Perf-2ms
 v14 אֵ֥ת|’êṯ|-|H853|DirObjM
 v14 אֲשֶֽׁר־|’ă·šer-|-|H834|Pro-r
 v14 צִוְּךָ֖|ṣiw·wə·ḵā|the command|H6680|V-Piel-Perf-3ms | 2ms
-v14 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v14 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v15 וַיָּ֣קָם|way·yā·qām|set out|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v15 שְׁמוּאֵ֗ל|šə·mū·’êl|Then Samuel|H8050|N-proper-ms
 v15 וַיַּ֛עַל|way·ya·‘al|and went|H5927|Conj-w | V-Qal-ConsecImperf-3ms
@@ -239,7 +239,7 @@ v15 גִּבְעַ֣ת|giḇ·‘aṯ|up to Gibeah|H1390|N-proper-fs
 v15 בִּנְיָמִ֑ן|bin·yā·min|in Benjamin|H1144|N-proper-ms
 v15 וַיִּפְקֹ֣ד|way·yip̄·qōḏ|numbered|H6485|Conj-w | V-Qal-ConsecImperf-3ms
 v15 שָׁא֗וּל|šā·’ūl|And Saul|H7586|N-proper-ms
-v15 אֶת־|’eṯ-||H853|DirObjM
+v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 הָעָם֙|hā·‘ām|the troops|H5971|Art | N-ms
 v15 הַנִּמְצְאִ֣ים|han·nim·ṣə·’îm|...|H4672|Art | V-Nifal-Prtcpl-mp
 v15 עִמּ֔וֹ|‘im·mōw|who were with him|H5973|Prep | 3ms
@@ -277,7 +277,7 @@ v18 וְהָרֹ֤אשׁ|wə·hā·rōš|-|H7218|Conj-w, Art | N-ms
 v18 אֶחָד֙|’e·ḥāḏ|another|H259|Number-ms
 v18 יִפְנֶ֔ה|yip̄·neh|-|H6437|V-Qal-Imperf-3ms
 v18 דֶּ֖רֶךְ|de·reḵ|-|H1870|N-csc
-v18 בֵּ֣ית|bêṯ|vvv|H1032|Prep
+v18 בֵּ֣ית|bêṯ|...|H1032|Prep
 v18 חֹר֑וֹן|ḥō·rō·wn|toward Beth-horon|H1032|N-proper-fs
 v18 וְהָרֹ֨אשׁ|wə·hā·rōš|and the [third]|H7218|Conj-w, Art | N-ms
 v18 אֶחָ֤ד|’e·ḥāḏ|...|H259|Number-ms
@@ -288,7 +288,7 @@ v18 הַנִּשְׁקָ֛ף|han·niš·qāp̄|overlooking|H8259|Art | V-Nifal-P
 v18 עַל־|‘al-|...|H5921|Prep
 v18 גֵּ֥י|gê|the Valley|H1516|N-proper-fs
 v18 הַצְּבֹעִ֖ים|haṣ·ṣə·ḇō·‘îm|of Zeboim|H6650|N-proper-fs
-v18 הַמִּדְבָּֽרָה׃ס|ham·miḏ·bā·rāh|facing the wilderness|H4057|Art | N-ms | 3fs
+v18 הַמִּדְבָּֽרָה׃|ham·miḏ·bā·rāh|facing the wilderness|H4057|Art | N-ms | 3fs
 v19 וְחָרָשׁ֙|wə·ḥā·rāš|blacksmith|H2796|Conj-w | N-ms
 v19 לֹ֣א|lō|And no|H3808|Adv-NegPrt
 v19 יִמָּצֵ֔א|yim·mā·ṣê|could be found|H4672|V-Nifal-Imperf-3ms
@@ -336,7 +336,7 @@ v22 נִמְצָ֜א|nim·ṣā|could be found|H4672|V-Nifal-Perf-3ms
 v22 חֶ֤רֶב|ḥe·reḇ|a sword|H2719|N-fs
 v22 וַחֲנִית֙|wa·ḥă·nîṯ|or spear|H2595|Conj-w | N-fs
 v22 בְּיַ֣ד|bə·yaḏ|in the hands|H3027|Prep-b | N-fsc
-v22 כָּל־|kāl-|vvv|H3605|N-msc
+v22 כָּל־|kāl-|...|H3605|N-msc
 v22 הָעָ֔ם|hā·‘ām|of the troops|H5971|Art | N-ms
 v22 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v22 אֶת־|’eṯ-|with|H854|Prep
@@ -352,4 +352,4 @@ v23 מַצַּ֣ב|maṣ·ṣaḇ|And a garrison|H4673|N-msc
 v23 פְּלִשְׁתִּ֔ים|pə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v23 אֶֽל־|’el-|...|H413|Prep
 v23 מַעֲבַ֖ר|ma·‘ă·ḇar|to the pass|H4569|N-msc
-v23 מִכְמָֽשׂ׃ס|miḵ·māś|at Michmash|H4363|N-proper-fs
+v23 מִכְמָֽשׂ׃|miḵ·māś|at Michmash|H4363|N-proper-fs

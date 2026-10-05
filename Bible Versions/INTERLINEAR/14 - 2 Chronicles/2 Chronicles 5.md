@@ -22,7 +22,7 @@ v1 הַכֵּלִ֔ים|hak·kê·lîm|the furnishings|H3627|Art | N-mp
 v1 נָתַ֕ן|nā·ṯan|and he placed them|H5414|V-Qal-Perf-3ms
 v1 בְּאֹצְר֖וֹת|bə·’ō·ṣə·rō·wṯ|in the treasuries|H214|Prep-b | N-mpc
 v1 בֵּ֥ית|bêṯ|of the house|H1004|N-msc
-v1 הָאֱלֹהִֽים׃פ|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
+v1 הָאֱלֹהִֽים׃|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v2 אָז֩|’āz|At that time|H227|Adv
 v2 יַקְהֵ֨יל|yaq·hêl|assembled|H6950|V-Hifil-Imperf-3ms
 v2 שְׁלֹמֹ֜ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
@@ -35,7 +35,7 @@ v2 רָאשֵׁ֨י|rā·šê|heads|H7218|N-mpc
 v2 הַמַּטּ֜וֹת|ham·maṭ·ṭō·wṯ|the tribal|H4294|Art | N-mp
 v2 נְשִׂיאֵ֧י|nə·śî·’ê|...|H5387|N-mpc
 v2 הָאָב֛וֹת|hā·’ā·ḇō·wṯ|and family leaders|H1|Art | N-mp
-v2 לִבְנֵ֥י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v2 לִבְנֵ֥י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v2 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v2 אֶל־|’el-|in|H413|Prep
 v2 יְרוּשָׁלִָ֑ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
@@ -55,7 +55,7 @@ v3 כָּל־|kāl-|So all|H3605|N-msc
 v3 אִ֥ישׁ|’îš|the men|H376|N-msc
 v3 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v3 בֶּחָ֑ג|be·ḥāḡ|at the feast|H2282|Prep-b, Art | N-ms
-v3 ה֖וּא|hū||H1931|Pro-3ms
+v3 ה֖וּא|hū|-|H1931|Pro-3ms
 v3 הַחֹ֥דֶשׁ|ha·ḥō·ḏeš|month|H2320|Art | N-ms
 v3 הַשְּׁבִעִֽי׃|haš·šə·ḇi·‘î|in the seventh|H7637|Art | Number-oms
 v4 וַיָּבֹ֕אוּ|way·yā·ḇō·’ū|had arrived|H935|Conj-w | V-Qal-ConsecImperf-3mp
@@ -127,7 +127,7 @@ v8 מְק֖וֹם|mə·qō·wm|the place|H4725|N-msc
 v8 הָאָר֑וֹן|hā·’ā·rō·wn|of the ark|H727|Art | N-cs
 v8 וַיְכַסּ֧וּ|way·ḵas·sū|and overshadowed|H3680|Conj-w | V-Piel-ConsecImperf-3mp
 v8 הַכְּרוּבִ֛ים|hak·kə·rū·ḇîm|-|H3742|Art | N-mp
-v8 עַל־|‘al-||H5921|Prep
+v8 עַל־|‘al-|-|H5921|Prep
 v8 הָאָר֥וֹן|hā·’ā·rō·wn|the ark|H727|Art | N-cs
 v8 וְעַל־|wə·‘al-|and|H5921|Conj-w | Prep
 v8 בַּדָּ֖יו|bad·dāw|its poles|H905|N-mpc | 3ms
@@ -166,7 +166,7 @@ v10 עִם־|‘im-|with|H5973|Prep
 v10 בְּנֵ֣י|bə·nê|the Israelites|H1121|N-mpc
 v10 יִשְׂרָאֵ֔ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v10 בְּצֵאתָ֖ם|bə·ṣê·ṯām|after they had come out|H3318|Prep-b | V-Qal-Inf | 3mp
-v10 מִמִּצְרָֽיִם׃פ|mim·miṣ·rā·yim|of Egypt|H4714|Prep-m | N-proper-fs
+v10 מִמִּצְרָֽיִם׃|mim·miṣ·rā·yim|of Egypt|H4714|Prep-m | N-proper-fs
 v11 וַיְהִ֕י|way·hî|And when|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v11 בְּצֵ֥את|bə·ṣêṯ|came out|H3318|Prep-b | V-Qal-Inf
 v11 הַכֹּהֲנִ֖ים|hak·kō·hă·nîm|the priests|H3548|Art | N-mp
@@ -243,4 +243,4 @@ v14 כְבוֹד־|ḵə·ḇō·wḏ-|the glory|H3519|N-msc
 v14 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 בֵּ֥ית|bêṯ|the house|H1004|N-msc
-v14 הָאֱלֹהִֽים׃פ|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
+v14 הָאֱלֹהִֽים׃|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp

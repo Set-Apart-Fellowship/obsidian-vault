@@ -13,7 +13,7 @@ v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 הַ֣חוֹמָ֔ה|ha·ḥō·w·māh|the wall|H2346|Art | N-fs
 v1 וְלֹא־|wə·lō-|and not|H3808|Conj-w | Adv-NegPrt
 v1 נ֥וֹתַר|nō·w·ṯar|was left|H3498|V-Nifal-Perf-3ms
-v1 בָּ֖הּ|bāh||H0|Prep | 3fs
+v1 בָּ֖הּ|bāh|-|H0|Prep | 3fs
 v1 פָּ֑רֶץ|pā·reṣ|a gap|H6556|N-ms
 v1 גַּ֚ם|gam|though|H1571|Conj
 v1 עַד־|‘aḏ-|to|H5704|Prep
@@ -66,7 +66,7 @@ v4 פְּעָמִ֑ים|pə·‘ā·mîm|times|H6471|N-fp
 v4 וָאָשִׁ֥יב|wā·’ā·šîḇ|and each time I gave|H7725|Conj-w | V-Hifil-ConsecImperf-1cs
 v4 אוֹתָ֖ם|’ō·w·ṯām|-|H853|DirObjM | 3mp
 v4 כַּדָּבָ֥ר|kad·dā·ḇār|reply|H1697|Prep-k, Art | N-ms
-v4 הַזֶּֽה׃ס|haz·zeh|the same|H2088|Art | Pro-ms
+v4 הַזֶּֽה׃|haz·zeh|the same|H2088|Art | Pro-ms
 v5 וַיִּשְׁלַח֩|way·yiš·laḥ|sent me|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v5 אֵלַ֨י|’ê·lay|...|H413|Prep | 1cs
 v5 סַנְבַלַּ֜ט|san·ḇal·laṭ|Sanballat|H5571|N-proper-ms
@@ -80,7 +80,7 @@ v5 וְאִגֶּ֥רֶת|wə·’ig·ge·reṯ|letter|H107|Conj-w | N-fsc
 v5 פְּתוּחָ֖ה|pə·ṯū·ḥāh|an unsealed|H6605|V-Qal-QalPassPrtcpl-fs
 v5 בְּיָדֽוֹ׃|bə·yā·ḏōw|who had in his hand|H3027|Prep-b | N-fsc | 3ms
 v6 כָּת֣וּב|kā·ṯūḇ|that read|H3789|V-Qal-QalPassPrtcpl-ms
-v6 בָּ֗הּ|bāh||H0|Prep | 3fs
+v6 בָּ֗הּ|bāh|-|H0|Prep | 3fs
 v6 בַּגּוֹיִ֤ם|bag·gō·w·yim|among the nations|H1471|Prep-b, Art | N-mp
 v6 נִשְׁמָע֙|niš·mā‘|It is reported|H8085|V-Nifal-Perf-3ms
 v6 וְגַשְׁמ֣וּ|wə·ḡaš·mū|and Geshem|H1654|Conj-w | N-proper-ms
@@ -117,7 +117,7 @@ v7 הָאֵ֑לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
 v7 וְעַתָּ֣ה|wə·‘at·tāh|Soon|H6258|Conj-w | Adv
 v7 לְכָ֔ה|lə·ḵāh|come|H1980|V-Qal-Imp-ms | 3fs
 v7 וְנִֽוָּעֲצָ֖ה|wə·niw·wā·‘ă·ṣāh|let us confer|H3289|Conj-w | V-Nifal-ConjImperf.Cohort-1cp
-v7 יַחְדָּֽו׃ס|yaḥ·dāw|together|H3162|Adv
+v7 יַחְדָּֽו׃|yaḥ·dāw|together|H3162|Adv
 v8 וָאֶשְׁלְחָ֤ה|wā·’eš·lə·ḥāh|Then I sent|H7971|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
 v8 אֵלָיו֙|’ê·lāw|him|H413|Prep | 3ms
 v8 לֵאמֹ֔ר|lê·mōr|this reply|H559|Prep-l | V-Qal-Inf
@@ -202,7 +202,7 @@ v12 שְׂכָרֽוֹ׃|śə·ḵā·rōw|had hired him|H7936|V-Qal-Perf-3ms | 
 v13 לְמַ֤עַן|lə·ma·‘an|to|H4616|Prep
 v13 שָׂכוּר֙|śā·ḵūr|had been hired|H7936|V-Qal-QalPassPrtcpl-ms
 v13 ה֔וּא|hū|He|H1931|Pro-3ms
-v13 לְמַֽעַן־|lə·ma·‘an-||H4616|Conj
+v13 לְמַֽעַן־|lə·ma·‘an-|-|H4616|Conj
 v13 אִירָ֥א|’î·rā|intimidate me|H3372|V-Qal-Imperf-1cs
 v13 וְאֶֽעֱשֶׂה־|wə·’e·‘ĕ·śeh-|by doing|H6213|Conj-w | V-Qal-ConjImperf-1cs
 v13 כֵּ֖ן|kên|as he suggested|H3651|Adv
@@ -212,7 +212,7 @@ v13 לָהֶם֙|lā·hem|...|H0|Prep-l | Pro-3mp
 v13 לְשֵׁ֣ם|lə·šêm|name|H8034|Prep-l | N-ms
 v13 רָ֔ע|rā‘|a bad|H7451|Adj-ms
 v13 לְמַ֖עַן|lə·ma·‘an|in order to|H4616|Conj
-v13 יְחָֽרְפֽוּנִי׃פ|yə·ḥā·rə·p̄ū·nî|discredit me|H2778|V-Piel-Imperf-3mp | 1cs
+v13 יְחָֽרְפֽוּנִי׃|yə·ḥā·rə·p̄ū·nî|discredit me|H2778|V-Piel-Imperf-3mp | 1cs
 v14 זָכְרָ֧ה|zā·ḵə·rāh|remember|H2142|V-Qal-Imp-ms | 3fs
 v14 אֱלֹהַ֛י|’ĕ·lō·hay|O my God|H430|N-mpc | 1cs
 v14 לְטוֹבִיָּ֥ה|lə·ṭō·w·ḇî·yāh|Tobiah|H2900|Prep-l | N-proper-ms
@@ -235,7 +235,7 @@ v15 וַחֲמִשָּׁ֖ה|wa·ḥă·miš·šāh|...|H2568|Conj-w | Number-m
 v15 לֶאֱל֑וּל|le·’ĕ·lūl|of Elul|H435|Prep-l | N-proper-fs
 v15 לַחֲמִשִּׁ֥ים|la·ḥă·miš·šîm|in fifty-two|H2572|Prep-l, Art | Number-cp
 v15 וּשְׁנַ֖יִם|ū·šə·na·yim|...|H8147|Conj-w | Number-md
-v15 יֽוֹם׃פ|yō·wm|days|H3117|N-ms
+v15 יֽוֹם׃|yō·wm|days|H3117|N-ms
 v16 וַיְהִ֗י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v16 כַּאֲשֶׁ֤ר|ka·’ă·šer|When|H834|Prep-k | Pro-r
 v16 שָֽׁמְעוּ֙|šā·mə·‘ū|heard about this|H8085|V-Qal-Perf-3cp
@@ -248,7 +248,7 @@ v16 אֲשֶׁ֣ר|’ă·šer|were afraid|H834|Pro-r
 v16 סְבִֽיבֹתֵ֔ינוּ|sə·ḇî·ḇō·ṯê·nū|the surrounding|H5439|Adv | 1cp
 v16 וַיִּפְּל֥וּ|way·yip·pə·lū|and disheartened|H5307|Conj-w | V-Qal-ConsecImperf-3mp
 v16 מְאֹ֖ד|mə·’ōḏ|...|H3966|Adv
-v16 בְּעֵינֵיהֶ֑ם|bə·‘ê·nê·hem|vvv|H5869|Prep-b | N-cdc | 3mp
+v16 בְּעֵינֵיהֶ֑ם|bə·‘ê·nê·hem|...|H5869|Prep-b | N-cdc | 3mp
 v16 וַיֵּ֣דְע֔וּ|way·yê·ḏə·‘ū|for they realized|H3045|Conj-w | V-Qal-ConsecImperf-3mp
 v16 כִּ֚י|kî|that|H3588|Conj
 v16 מֵאֵ֣ת|mê·’êṯ|by|H854|Prep-m

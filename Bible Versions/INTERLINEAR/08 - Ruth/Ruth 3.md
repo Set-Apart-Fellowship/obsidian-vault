@@ -148,7 +148,7 @@ v12 וְעַתָּה֙|wə·‘at·tāh|-|H6258|Conj-w | Adv
 v12 כִּ֣י|kî|Yes|H3588|Conj
 v12 אָמְנָ֔ם|’ā·mə·nām|it is true|H551|Conj
 v12 כִּ֥י|kî|that|H3588|Conj
-v12 אם|m||H518|Conj
+v12 אם|m|-|H518|Conj
 v12 גֹאֵ֖ל|ḡō·’êl|a kinsman-redeemer|H1350|V-Qal-Prtcpl-ms
 v12 אָנֹ֑כִי|’ā·nō·ḵî|I [am]|H595|Pro-1cs
 v12 וְגַ֛ם|wə·ḡam|but|H1571|Conj

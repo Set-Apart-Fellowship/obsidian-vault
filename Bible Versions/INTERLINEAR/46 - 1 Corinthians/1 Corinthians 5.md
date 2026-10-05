@@ -36,7 +36,7 @@ v2 ἔργον|ergon|...|G2041|N-ANS
 v2 τοῦτο|touto|this|G3778|DPro-ANS
 v2 πράξας|praxas|did|G4238|V-APA-NMS
 v3 Ἐγὼ|Egō|I|G1473|PPro-N1S
-v3 μὲν|men|vvv|G3303|Prtcl
+v3 μὲν|men|...|G3303|Prtcl
 v3 γάρ|gar|Although|G1063|Conj
 v3 ἀπὼν|apōn|am absent [ from you ]|G548|V-PPA-NMS
 v3 τῷ|tō|-|G3588|Art-DNS
@@ -45,7 +45,7 @@ v3 παρὼν|parōn|I am present [with you ]|G3918|V-PPA-NMS
 v3 δὲ|de|-|G1161|Conj
 v3 τῷ|tō|-|G3588|Art-DNS
 v3 πνεύματι|pneumati|in spirit|G4151|N-DNS
-v3 ἤδη|ēdē|vvv|G2235|Adv
+v3 ἤδη|ēdē|...|G2235|Adv
 v3 κέκρικα|kekrika|and I have already pronounced judgment|G2919|V-RIA-1S
 v3 ὡς|hōs|just as if|G5613|Adv
 v3 παρὼν|parōn|I were present|G3918|V-PPA-NMS
@@ -96,7 +96,7 @@ v6 καλὸν|kalon|good|G2570|Adj-NNS
 v6 τὸ|to|-|G3588|Art-NNS
 v6 καύχημα|kauchēma|boasting|G2745|N-NNS
 v6 ὑμῶν|hymōn|Your|G4771|PPro-G2P
-v6 οὐκ|ouk|vvv|G3756|Adv
+v6 οὐκ|ouk|...|G3756|Adv
 v6 οἴδατε|oidate|Do you not know|G1492|V-RIA-2P
 v6 ὅτι|hoti|that|G3754|Conj
 v6 μικρὰ|mikra|a little|G3398|Adj-NFS

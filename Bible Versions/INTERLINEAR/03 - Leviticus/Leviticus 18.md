@@ -17,8 +17,8 @@ v3 אֶֽרֶץ־|’e·reṣ-|of the land|H776|N-fsc
 v3 מִצְרַ֛יִם|miṣ·ra·yim|of Egypt|H4714|N-proper-fs
 v3 אֲשֶׁ֥ר|’ă·šer|where|H834|Pro-r
 v3 יְשַׁבְתֶּם־|yə·šaḇ·tem-|you used to live|H3427|V-Qal-Perf-2mp
-v3 בָּ֖הּ|bāh||H0|Prep | 3fs
-v3 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v3 בָּ֖הּ|bāh|-|H0|Prep | 3fs
+v3 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v3 תַעֲשׂ֑וּ|ṯa·‘ă·śū|You must not follow|H6213|V-Qal-Imperf-2mp
 v3 וּכְמַעֲשֵׂ֣ה|ū·ḵə·ma·‘ă·śêh|[and you must not follow] the practices|H4639|Conj-w, Prep-k | N-msc
 v3 אֶֽרֶץ־|’e·reṣ-|of the land|H776|N-fsc
@@ -56,19 +56,19 @@ v5 הָאָדָ֖ם|hā·’ā·ḏām|the man|H120|Art | N-ms
 v5 וָחַ֣י|wā·ḥay|will live|H2421|Conj-w | V-Qal-ConjPerf-3ms
 v5 בָּהֶ֑ם|bā·hem|by them|H0|Prep | 3mp
 v5 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
-v5 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v5 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v6 אִ֥ישׁ|’îš|None of|H376|N-ms
 v6 אִישׁ֙|’îš|...|H376|N-ms
 v6 אֶל־|’el-|...|H413|Prep
 v6 כָּל־|kāl-|any|H3605|N-msc
 v6 שְׁאֵ֣ר|šə·’êr|close relative|H7607|N-msc
 v6 בְּשָׂר֔וֹ|bə·śā·rōw|...|H1320|N-msc | 3ms
-v6 לֹ֥א|lō||H3808|Adv-NegPrt
+v6 לֹ֥א|lō|-|H3808|Adv-NegPrt
 v6 תִקְרְב֖וּ|ṯiq·rə·ḇū|you are to approach|H7126|V-Qal-Imperf-2mp
 v6 לְגַלּ֣וֹת|lə·ḡal·lō·wṯ|to have sexual relations|H1540|Prep-l | V-Piel-Inf
 v6 עֶרְוָ֑ה|‘er·wāh|...|H6172|N-fs
 v6 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
-v6 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v6 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v7 עֶרְוַ֥ת|‘er·waṯ|expose the nakedness|H6172|N-fsc
 v7 אָבִ֛יךָ|’ā·ḇî·ḵā|of your father|H1|N-msc | 2ms
 v7 וְעֶרְוַ֥ת|wə·‘er·waṯ|-|H6172|Conj-w | N-fsc
@@ -79,7 +79,7 @@ v7 אִמְּךָ֣|’im·mə·ḵā|is your mother|H517|N-fsc | 2ms
 v7 הִ֔וא|hî|She|H1931|Pro-3fs
 v7 לֹ֥א|lō|you must not|H3808|Adv-NegPrt
 v7 תְגַלֶּ֖ה|ṯə·ḡal·leh|have sexual relations with her|H1540|V-Piel-Imperf-2ms
-v7 עֶרְוָתָֽהּ׃ס|‘er·wā·ṯāh|...|H6172|N-fsc | 3fs
+v7 עֶרְוָתָֽהּ׃|‘er·wā·ṯāh|...|H6172|N-fsc | 3fs
 v8 עֶרְוַ֥ת|‘er·waṯ|have sexual relations with|H6172|N-fsc
 v8 אֵֽשֶׁת־|’ê·šeṯ-|wife|H802|N-fsc
 v8 אָבִ֖יךָ|’ā·ḇî·ḵā|your father's|H1|N-msc | 2ms
@@ -87,7 +87,7 @@ v8 לֹ֣א|lō|You must not|H3808|Adv-NegPrt
 v8 תְגַלֵּ֑ה|ṯə·ḡal·lêh|...|H1540|V-Piel-Imperf-2ms
 v8 עֶרְוַ֥ת|‘er·waṯ|would dishonor|H6172|N-fsc
 v8 אָבִ֖יךָ|’ā·ḇî·ḵā|your father|H1|N-msc | 2ms
-v8 הִֽוא׃ס|hî|it|H1931|Pro-3fs
+v8 הִֽוא׃|hî|it|H1931|Pro-3fs
 v9 עֶרְוַ֨ת|‘er·waṯ|-|H6172|N-fsc
 v9 אֲחֽוֹתְךָ֤|’ă·ḥō·wṯ·ḵā|your sister|H269|N-fsc | 2ms
 v9 בַת־|ḇaṯ-|daughter|H1323|N-fsc
@@ -102,8 +102,8 @@ v9 מוֹלֶ֣דֶת|mō·w·le·ḏeṯ|-|H4138|N-fsc
 v9 ח֑וּץ|ḥūṣ|elsewhere|H2351|N-ms
 v9 לֹ֥א|lō|You must not|H3808|Adv-NegPrt
 v9 תְגַלֶּ֖ה|ṯə·ḡal·leh|have sexual relations with|H1540|V-Piel-Imperf-2ms
-v9 עֶרְוָתָֽן׃ס|‘er·wā·ṯān|...|H6172|N-fsc | 3fp
-v10 עֶרְוַ֤ת|‘er·waṯ||H6172|N-fsc
+v9 עֶרְוָתָֽן׃|‘er·wā·ṯān|...|H6172|N-fsc | 3fp
+v10 עֶרְוַ֤ת|‘er·waṯ|-|H6172|N-fsc
 v10 בַּת־|baṯ-|daughter|H1323|N-fsc
 v10 בִּנְךָ֙|bin·ḵā|your son's|H1121|N-msc | 2ms
 v10 א֣וֹ|’ōw|or|H176|Conj
@@ -114,7 +114,7 @@ v10 תְגַלֶּ֖ה|ṯə·ḡal·leh|have sexual relations with|H1540|V-Piel
 v10 עֶרְוָתָ֑ן|‘er·wā·ṯān|would shame your family|H6172|N-fsc | 3fp
 v10 כִּ֥י|kî|for|H3588|Conj
 v10 עֶרְוָתְךָ֖|‘er·wā·ṯə·ḵā|...|H6172|N-fsc | 2ms
-v10 הֵֽנָּה׃ס|hên·nāh|that|H2007|Pro-3fp
+v10 הֵֽנָּה׃|hên·nāh|that|H2007|Pro-3fp
 v11 עֶרְוַ֨ת|‘er·waṯ|have sexual relations with|H6172|N-fsc
 v11 בַּת־|baṯ-|the daughter|H1323|N-fsc
 v11 אֵ֤שֶׁת|’ê·šeṯ|wife|H802|N-fsc
@@ -125,7 +125,7 @@ v11 אֲחוֹתְךָ֖|’ă·ḥō·wṯ·ḵā|is your sister|H269|N-fsc | 
 v11 הִ֑וא|hî|she|H1931|Pro-3fs
 v11 לֹ֥א|lō|You must not|H3808|Adv-NegPrt
 v11 תְגַלֶּ֖ה|ṯə·ḡal·leh|...|H1540|V-Piel-Imperf-2ms
-v11 עֶרְוָתָֽהּ׃ס|‘er·wā·ṯāh|...|H6172|N-fsc | 3fs
+v11 עֶרְוָתָֽהּ׃|‘er·wā·ṯāh|...|H6172|N-fsc | 3fs
 v12 עֶרְוַ֥ת|‘er·waṯ|have sexual relations with|H6172|N-fsc
 v12 אֲחוֹת־|’ă·ḥō·wṯ-|sister|H269|N-fsc
 v12 אָבִ֖יךָ|’ā·ḇî·ḵā|your father's|H1|N-msc | 2ms
@@ -133,7 +133,7 @@ v12 לֹ֣א|lō|You must not|H3808|Adv-NegPrt
 v12 תְגַלֵּ֑ה|ṯə·ḡal·lêh|...|H1540|V-Piel-Imperf-2ms
 v12 שְׁאֵ֥ר|šə·’êr|close relative|H7607|N-msc
 v12 אָבִ֖יךָ|’ā·ḇî·ḵā|is your father's|H1|N-msc | 2ms
-v12 הִֽוא׃ס|hî|she|H1931|Pro-3fs
+v12 הִֽוא׃|hî|she|H1931|Pro-3fs
 v13 עֶרְוַ֥ת|‘er·waṯ|have sexual relations with|H6172|N-fsc
 v13 אֲחֽוֹת־|’ă·ḥō·wṯ-|sister|H269|N-fsc
 v13 אִמְּךָ֖|’im·mə·ḵā|your mother's|H517|N-fsc | 2ms
@@ -142,18 +142,18 @@ v13 תְגַלֵּ֑ה|ṯə·ḡal·lêh|...|H1540|V-Piel-Imperf-2ms
 v13 כִּֽי־|kî-|for|H3588|Conj
 v13 שְׁאֵ֥ר|šə·’êr|close relative|H7607|N-msc
 v13 אִמְּךָ֖|’im·mə·ḵā|is your mother's|H517|N-fsc | 2ms
-v13 הִֽוא׃ס|hî|she|H1931|Pro-3fs
+v13 הִֽוא׃|hî|she|H1931|Pro-3fs
 v14 עֶרְוַ֥ת|‘er·waṯ|...|H6172|N-fsc
 v14 אֲחִֽי־|’ă·ḥî-|brother|H251|N-msc
 v14 אָבִ֖יךָ|’ā·ḇî·ḵā|your father's|H1|N-msc | 2ms
 v14 לֹ֣א|lō|You must not {dishonor}|H3808|Adv-NegPrt
 v14 תְגַלֵּ֑ה|ṯə·ḡal·lêh|to have sexual relations with her|H1540|V-Piel-Imperf-2ms
-v14 אֶל־|’el-||H413|Prep
+v14 אֶל־|’el-|-|H413|Prep
 v14 אִשְׁתּוֹ֙|’iš·tōw|his wife|H802|N-fsc | 3ms
 v14 לֹ֣א|lō|-|H3808|Adv-NegPrt
 v14 תִקְרָ֔ב|ṯiq·rāḇ|by approaching|H7126|V-Qal-Imperf-2ms
 v14 דֹּדָֽתְךָ֖|dō·ḏā·ṯə·ḵā|your aunt|H1733|N-fsc | 2ms
-v14 הִֽוא׃ס|hî|she [is]|H1931|Pro-3fs
+v14 הִֽוא׃|hî|she [is]|H1931|Pro-3fs
 v15 עֶרְוַ֥ת|‘er·waṯ|have sexual relations with|H6172|N-fsc
 v15 כַּלָּֽתְךָ֖|kal·lā·ṯə·ḵā|your daughter-in-law|H3618|N-fsc | 2ms
 v15 לֹ֣א|lō|You must not|H3808|Adv-NegPrt
@@ -163,7 +163,7 @@ v15 בִּנְךָ֙|bin·ḵā|is your son's|H1121|N-msc | 2ms
 v15 הִ֔וא|hî|She|H1931|Pro-3fs
 v15 לֹ֥א|lō|you are not|H3808|Adv-NegPrt
 v15 תְגַלֶּ֖ה|ṯə·ḡal·leh|to have sexual relations with her|H1540|V-Piel-Imperf-2ms
-v15 עֶרְוָתָֽהּ׃ס|‘er·wā·ṯāh|...|H6172|N-fsc | 3fs
+v15 עֶרְוָתָֽהּ׃|‘er·wā·ṯāh|...|H6172|N-fsc | 3fs
 v16 עֶרְוַ֥ת|‘er·waṯ|have sexual relations with|H6172|N-fsc
 v16 אֵֽשֶׁת־|’ê·šeṯ-|wife|H802|N-fsc
 v16 אָחִ֖יךָ|’ā·ḥî·ḵā|your brother's|H251|N-msc | 2ms
@@ -171,7 +171,7 @@ v16 לֹ֣א|lō|You must not|H3808|Adv-NegPrt
 v16 תְגַלֵּ֑ה|ṯə·ḡal·lêh|...|H1540|V-Piel-Imperf-2ms
 v16 עֶרְוַ֥ת|‘er·waṯ|would shame|H6172|N-fsc
 v16 אָחִ֖יךָ|’ā·ḥî·ḵā|your brother|H251|N-msc | 2ms
-v16 הִֽוא׃ס|hî|that|H1931|Pro-3fs
+v16 הִֽוא׃|hî|that|H1931|Pro-3fs
 v17 עֶרְוַ֥ת|‘er·waṯ|have sexual relations with both|H6172|N-fsc
 v17 אִשָּׁ֛ה|’iš·šāh|a woman|H802|N-fs
 v17 וּבִתָּ֖הּ|ū·ḇit·tāh|and her daughter|H1323|Conj-w | N-fsc | 3fs
@@ -199,7 +199,7 @@ v18 תִקָּ֑ח|ṯiq·qāḥ|take|H3947|V-Qal-Imperf-2ms
 v18 לִצְרֹ֗ר|liṣ·rōr|as a rival wife|H6887|Prep-l | V-Qal-Inf
 v18 לְגַלּ֧וֹת|lə·ḡal·lō·wṯ|and have sexual relations with her|H1540|Prep-l | V-Piel-Inf
 v18 עֶרְוָתָ֛הּ|‘er·wā·ṯāh|...|H6172|N-fsc | 3fs
-v18 עָלֶ֖יהָ|‘ā·le·hā||H5921|Prep | 3fs
+v18 עָלֶ֖יהָ|‘ā·le·hā|-|H5921|Prep | 3fs
 v18 בְּחַיֶּֽיהָ׃|bə·ḥay·ye·hā|while your wife is still alive|H2416|Prep-b | N-mpc | 3fs
 v19 וְאֶל־|wə·’el-|-|H413|Conj-w | Prep
 v19 אִשָּׁ֖ה|’iš·šāh|a woman|H802|N-fs
@@ -341,4 +341,4 @@ v30 תִֽטַּמְּא֖וּ|ṯiṭ·ṭam·mə·’ū|defile yourselves|H293
 v30 בָּהֶ֑ם|bā·hem|by them|H0|Prep | 3mp
 v30 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v30 יְהוָ֥ה|Yah·weh|am the LORD|H3068|N-proper-ms
-v30 אֱלֹהֵיכֶֽם׃פ|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
+v30 אֱלֹהֵיכֶֽם׃|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp

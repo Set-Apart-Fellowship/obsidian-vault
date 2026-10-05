@@ -36,7 +36,7 @@ v3 λόγον|logon|word {evident}|G3056|N-AMS
 v3 αὐτοῦ|autou|His|G846|PPro-GM3S
 v3 ἐν|en|in|G1722|Prep
 v3 κηρύγματι|kērygmati|[the] proclamation|G2782|N-DNS
-v3 ὃ|ho|vvv|G3739|RelPro-ANS
+v3 ὃ|ho|...|G3739|RelPro-ANS
 v3 ἐπιστεύθην|episteuthēn|entrusted|G4100|V-AIP-1S
 v3 ἐγὼ|egō|to me|G1473|PPro-N1S
 v3 κατ’|kat’|by|G2596|Prep
@@ -191,8 +191,8 @@ v13 μαρτυρία|martyria|testimony|G3141|N-NFS
 v13 αὕτη|hautē|This|G3778|DPro-NFS
 v13 ἐστὶν|estin|is|G1510|V-PIA-3S
 v13 ἀληθής|alēthēs|true|G227|Adj-NFS
-v13 δι’|di’|vvv|G1223|Prep
-v13 ἣν|hēn|vvv|G3739|RelPro-AFS
+v13 δι’|di’|...|G1223|Prep
+v13 ἣν|hēn|...|G3739|RelPro-AFS
 v13 αἰτίαν|aitian|Therefore|G156|N-AFS
 v13 ἔλεγχε|elenche|rebuke|G1651|V-PMA-2S
 v13 αὐτοὺς|autous|them|G846|PPro-AM3P
@@ -202,7 +202,7 @@ v13 ὑγιαίνωσιν|hygiainōsin|they will be sound|G5198|V-PSA-3P
 v13 ἐν|en|in|G1722|Prep
 v13 τῇ|tē|the|G3588|Art-DFS
 v13 πίστει|pistei|faith|G4102|N-DFS
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 προσέχοντες|prosechontes|[and] will pay no attention|G4337|V-PPA-NMP
 v14 Ἰουδαϊκοῖς|Ioudaikois|to Jewish|G2451|Adj-DMP
 v14 μύθοις|mythois|myths|G3454|N-DMP

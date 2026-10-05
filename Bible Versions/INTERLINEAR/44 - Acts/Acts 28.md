@@ -11,8 +11,8 @@ v2 οἵ|hoi|The|G3588|Art-NMP
 v2 τε|te|-|G5037|Conj
 v2 βάρβαροι|barbaroi|islanders|G915|Adj-NMP
 v2 παρεῖχον*|pareichon|showed|G3930|V-IIA-3P
-v2 οὐ|ou|vvv|G3756|Adv
-v2 τὴν|tēn|vvv|G3588|Art-AFS
+v2 οὐ|ou|...|G3756|Adv
+v2 τὴν|tēn|...|G3588|Art-AFS
 v2 τυχοῦσαν|tychousan|extraordinary|G5177|V-APA-AFS
 v2 φιλανθρωπίαν|philanthrōpian|kindness|G5363|N-AFS
 v2 ἡμῖν|hēmin|us|G1473|PPro-D1P
@@ -135,7 +135,7 @@ v7 τῷ|tō|belonging to|G3588|Art-DMS
 v7 πρώτῳ|prōtō|[the] chief official|G4413|Adj-DMS
 v7 τῆς|tēs|of the|G3588|Art-GFS
 v7 νήσου|nēsou|island|G3520|N-GFS
-v7 ὀνόματι|onomati|vvv|G3686|N-DNS
+v7 ὀνόματι|onomati|...|G3686|N-DNS
 v7 Ποπλίῳ|Popliō|Publius|G4196|N-DMS
 v7 ὃς|hos|[He]|G3739|RelPro-NMS
 v7 ἀναδεξάμενος|anadexamenos|welcomed|G324|V-APM-NMS
@@ -178,7 +178,7 @@ v9 οἱ|hoi|of the|G3588|Art-NMP
 v9 ἐν|en|on|G1722|Prep
 v9 τῇ|tē|the|G3588|Art-DFS
 v9 νήσῳ|nēsō|island|G3520|N-DFS
-v9 ἔχοντες|echontes|vvv|G2192|V-PPA-NMP
+v9 ἔχοντες|echontes|...|G2192|V-PPA-NMP
 v9 ἀσθενείας|astheneias|sick|G769|N-AFP
 v9 προσήρχοντο|prosērchonto|came|G4334|V-IIM/P-3P
 v9 καὶ|kai|and|G2532|Conj
@@ -271,7 +271,7 @@ v15 Παῦλος|Paulos|Paul|G3972|N-NMS
 v15 εὐχαριστήσας|eucharistēsas|and gave thanks|G2168|V-APA-NMS
 v15 τῷ|tō|-|G3588|Art-DMS
 v15 Θεῷ|Theō|to God|G2316|N-DMS
-v15 ἔλαβε|elabe|vvv|G2983|V-AIA-3S
+v15 ἔλαβε|elabe|...|G2983|V-AIA-3S
 v15 θάρσος|tharsos|he was encouraged|G2294|N-ANS
 v16 Ὅτε|Hote|When|G3753|Adv
 v16 δὲ|de|-|G1161|Conj
@@ -308,7 +308,7 @@ v17 ἔλεγεν|elegen|he said|G2036|V-IIA-3S
 v17 πρὸς|pros|to|G4314|Prep
 v17 αὐτούς|autous|them|G846|PPro-AM3P
 v17 Ἐγώ|Egō|I|G1473|PPro-N1S
-v17 ἄνδρες|andres|vvv|G435|N-VMP
+v17 ἄνδρες|andres|...|G435|N-VMP
 v17 ἀδελφοί|adelphoi|Brothers|G80|N-VMP
 v17 οὐδὲν|ouden|nothing|G3762|Adj-ANS
 v17 ἐναντίον|enantion|against|G1727|Adj-ANS
@@ -405,10 +405,10 @@ v21 σοῦ|sou|you|G4771|PPro-G2S
 v21 πονηρόν|ponēron|bad|G4190|Adj-ANS
 v22 ἀξιοῦμεν|axioumen|we consider|G515|V-PIA-1P
 v22 δὲ|de|But|G1161|Conj
-v22 παρὰ|para|vvv|G3844|Prep
-v22 σοῦ|sou|vvv|G4771|PPro-G2S
+v22 παρὰ|para|...|G3844|Prep
+v22 σοῦ|sou|...|G4771|PPro-G2S
 v22 ἀκοῦσαι|akousai|{worth} hearing|G191|V-ANA
-v22 ἃ|ha|vvv|G3739|RelPro-ANP
+v22 ἃ|ha|...|G3739|RelPro-ANP
 v22 φρονεῖς|phroneis|your views|G5426|V-PIA-2S
 v22 περὶ|peri|-|G4012|Prep
 v22 μὲν|men|-|G3303|Prtcl
@@ -469,7 +469,7 @@ v24 δὲ|de|but|G1161|Conj
 v24 ἠπίστουν|ēpistoun|refused to believe|G569|V-IIA-3P
 v25 ἀσύμφωνοι|asymphōnoi|They disagreed|G800|Adj-NMP
 v25 δὲ|de|-|G1161|Conj
-v25 ὄντες|ontes|vvv|G1510|V-PPA-NMP
+v25 ὄντες|ontes|...|G1510|V-PPA-NMP
 v25 πρὸς|pros|among|G4314|Prep
 v25 ἀλλήλους|allēlous|[themselves]|G240|RecPro-AMP
 v25 ἀπελύοντο|apelyonto|[and] began to leave|G630|V-IIM-3P
@@ -592,7 +592,7 @@ v31 τοῦ|tou|the|G3588|Art-GMS
 v31 Κυρίου|Kyriou|Lord|G2962|N-GMS
 v31 Ἰησοῦ|Iēsou|Jesus|G2424|N-GMS
 v31 Χριστοῦ|Christou|Christ|G5547|N-GMS
-v31 μετὰ|meta|vvv|G3326|Prep
-v31 πάσης|pasēs|vvv|G3956|Adj-GFS
+v31 μετὰ|meta|...|G3326|Prep
+v31 πάσης|pasēs|...|G3956|Adj-GFS
 v31 παρρησίας|parrēsias|Boldly|G3954|N-GFS
 v31 ἀκωλύτως|akōlytōs|[and] freely|G209|Adv

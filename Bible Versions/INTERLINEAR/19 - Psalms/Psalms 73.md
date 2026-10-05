@@ -64,7 +64,7 @@ v10 הֲלֹ֑ם|hă·lōm|to this place|H1988|Adv
 v10 וּמֵ֥י|ū·mê|waters|H4325|Conj-w | N-mpc
 v10 מָ֝לֵ֗א|mā·lê|in abundance|H4392|Adj-ms
 v10 יִמָּ֥צוּ|yim·mā·ṣū|and drink up|H4680|V-Nifal-Imperf-3mp
-v10 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v10 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v11 וְֽאָמְר֗וּ|wə·’ā·mə·rū|The wicked say|H559|Conj-w | V-Qal-ConjPerf-3cp
 v11 אֵיכָ֥ה|’ê·ḵāh|How|H349|Interjection
 v11 יָדַֽע־|yā·ḏa‘-|know|H3045|V-Qal-Perf-3ms
@@ -97,7 +97,7 @@ v15 אָ֭מַרְתִּי|’ā·mar·tî|I had said|H559|V-Qal-Perf-1cs
 v15 אֲסַפְּרָ֥ה|’ă·sap·pə·rāh|I will speak|H5608|V-Piel-Imperf.Cohort-1cs
 v15 כְמ֑וֹ|ḵə·mōw|this way|H3644|Prep
 v15 הִנֵּ֤ה|hin·nêh|then|H2009|Interjection
-v15 ד֭וֹר|ḏō·wr|vvv|H1755|N-msc
+v15 ד֭וֹר|ḏō·wr|...|H1755|N-msc
 v15 בָּנֶ֣יךָ|bā·ne·ḵā|Your children|H1121|N-mpc | 2ms
 v15 בָגָֽדְתִּי׃|ḇā·ḡā·ḏə·tî|I would have betrayed|H898|V-Qal-Perf-1cs
 v16 וָֽ֭אֲחַשְּׁבָה|wā·’ă·ḥaš·šə·ḇāh|When I tried|H2803|Conj-w | V-Piel-ConsecImperf-1cs | 3fs
@@ -157,7 +157,7 @@ v24 וְ֝אַחַ֗ר|wə·’a·ḥar|and later|H310|Conj-w | Adv
 v24 כָּב֥וֹד|kā·ḇō·wḏ|in glory|H3519|N-ms
 v24 תִּקָּחֵֽנִי׃|tiq·qā·ḥê·nî|receive me|H3947|V-Qal-Imperf-2ms | 1cs
 v25 מִי־|mî-|Whom have I|H4310|Interrog
-v25 לִ֥י|lî||H0|Prep | 1cs
+v25 לִ֥י|lî|-|H0|Prep | 1cs
 v25 בַשָּׁמָ֑יִם|ḇaš·šā·mā·yim|in heaven but You|H8064|Prep-b, Art | N-mp
 v25 וְ֝עִמְּךָ֗|wə·‘im·mə·ḵā|besides You|H5973|Conj-w | Prep | 2ms
 v25 לֹא־|lō-|no one|H3808|Adv-NegPrt

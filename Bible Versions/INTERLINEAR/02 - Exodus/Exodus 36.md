@@ -50,7 +50,7 @@ v2 אֹתָֽהּ׃|’ō·ṯāh|-|H853|DirObjM | 3fs
 v3 וַיִּקְח֞וּ|way·yiq·ḥū|They received|H3947|Conj-w | V-Qal-ConsecImperf-3mp
 v3 מִלִּפְנֵ֣י|mil·lip̄·nê|from|H6440|Prep-m, Prep-l | N-cpc
 v3 מֹשֶׁ֗ה|mō·šeh|Moses|H4872|N-proper-ms
-v3 אֵ֤ת|’êṯ||H853|DirObjM
+v3 אֵ֤ת|’êṯ|-|H853|DirObjM
 v3 כָּל־|kāl-|all|H3605|N-msc
 v3 הַתְּרוּמָה֙|hat·tə·rū·māh|the contributions|H8641|Art | N-fs
 v3 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
@@ -122,7 +122,7 @@ v7 לְכָל־|lə·ḵāl|all|H3605|Prep-l | N-msc
 v7 הַמְּלָאכָ֖ה|ham·mə·lā·ḵāh|...|H4399|Art | N-fs
 v7 לַעֲשׂ֣וֹת|la·‘ă·śō·wṯ|to perform|H6213|Prep-l | V-Qal-Inf
 v7 אֹתָ֑הּ|’ō·ṯāh|-|H853|DirObjM | 3fs
-v7 וְהוֹתֵֽר׃ס|wə·hō·w·ṯêr|was more|H3498|Conj-w | V-Hifil-InfAbs
+v7 וְהוֹתֵֽר׃|wə·hō·w·ṯêr|was more|H3498|Conj-w | V-Hifil-InfAbs
 v8 וַיַּעֲשׂ֨וּ|way·ya·‘ă·śū|among the workmen|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v8 כָל־|ḵāl|All|H3605|N-msc
 v8 חֲכַם־|ḥă·ḵam-|the skilled craftsmen|H2450|Adj-msc
@@ -148,7 +148,7 @@ v9 אֹ֜רֶךְ|’ō·reḵ|long|H753|N-msc
 v9 הַיְרִיעָ֣ה|hay·rî·‘āh|curtain|H3407|Art | N-fs
 v9 הָֽאַחַ֗ת|hā·’a·ḥaṯ|Each|H259|Art | Number-fs
 v9 שְׁמֹנֶ֤ה|šə·mō·neh|was twenty-eight|H8083|Number-fs
-v9 וְעֶשְׂרִים֙|wə·‘eś·rîm||H6242|Conj-w | Number-cp
+v9 וְעֶשְׂרִים֙|wə·‘eś·rîm|-|H6242|Conj-w | Number-cp
 v9 בָּֽאַמָּ֔ה|bā·’am·māh|cubits|H520|Prep-b, Art | N-fs
 v9 וְרֹ֙חַב֙|wə·rō·ḥaḇ|wide|H7341|Conj-w | N-ms
 v9 אַרְבַּ֣ע|’ar·ba‘|[and] four|H702|Number-fs
@@ -219,7 +219,7 @@ v13 אַחַת֙|’a·ḥaṯ|...|H259|Number-fs
 v13 בַּקְּרָסִ֔ים|baq·qə·rā·sîm|...|H7165|Prep-b, Art | N-mp
 v13 וַֽיְהִ֥י|way·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v13 הַמִּשְׁכָּ֖ן|ham·miš·kān|so that the tabernacle|H4908|Art | N-ms
-v13 אֶחָֽד׃ס|’e·ḥāḏ|a unit|H259|Number-ms
+v13 אֶחָֽד׃|’e·ḥāḏ|a unit|H259|Number-ms
 v14 וַיַּ֙עַשׂ֙|way·ya·‘aś|He then made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v14 יְרִיעֹ֣ת|yə·rî·‘ōṯ|curtains|H3407|N-fpc
 v14 עִזִּ֔ים|‘iz·zîm|of goat hair|H5795|N-fp
@@ -287,9 +287,9 @@ v19 עֹרֹ֥ת|‘ō·rōṯ|skins|H5785|N-mpc
 v19 אֵלִ֖ים|’ê·lîm|of ram|H352|N-mp
 v19 מְאָדָּמִ֑ים|mə·’ād·dā·mîm|dyed red|H119|V-Pual-Prtcpl-mp
 v19 וּמִכְסֵ֛ה|ū·miḵ·sêh|a covering|H4372|Conj-w | N-msc
-v19 עֹרֹ֥ת|‘ō·rōṯ|vvv|H5785|N-mpc
+v19 עֹרֹ֥ת|‘ō·rōṯ|...|H5785|N-mpc
 v19 תְּחָשִׁ֖ים|tə·ḥā·šîm|of fine leather|H8476|N-mp
-v19 מִלְמָֽעְלָה׃ס|mil·mā·‘ə·lāh|and over that|H4605|Prep-m, Prep-l | Adv | 3fs
+v19 מִלְמָֽעְלָה׃|mil·mā·‘ə·lāh|and over that|H4605|Prep-m, Prep-l | Adv | 3fs
 v20 וַיַּ֥עַשׂ|way·ya·‘aś|Next, he constructed|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 הַקְּרָשִׁ֖ים|haq·qə·rā·šîm|frames|H7175|Art | N-mp
@@ -306,7 +306,7 @@ v21 וַחֲצִ֣י|wa·ḥă·ṣî|and a half|H2677|Conj-w | N-msc
 v21 הָֽאַמָּ֔ה|hā·’am·māh|...|H520|Art | N-fs
 v21 רֹ֖חַב|rō·ḥaḇ|wide|H7341|N-msc
 v21 הַקֶּ֥רֶשׁ|haq·qe·reš|...|H7175|Art | N-ms
-v21 הָאֶחָֽד׃|hā·’e·ḥāḏ||H259|Art | Number-ms
+v21 הָאֶחָֽד׃|hā·’e·ḥāḏ|-|H259|Art | Number-ms
 v22 שְׁתֵּ֣י|šə·tê|Two|H8147|Number-fdc
 v22 יָדֹ֗ת|yā·ḏōṯ|tenons|H3027|N-fp
 v22 לַקֶּ֙רֶשׁ֙|laq·qe·reš|frame|H7175|Prep-l, Art | N-ms
@@ -511,4 +511,4 @@ v38 וַחֲשֻׁקֵיהֶ֖ם|wa·ḥă·šu·qê·hem|of the posts and thei
 v38 זָהָ֑ב|zā·hāḇ|with gold|H2091|N-ms
 v38 וְאַדְנֵיהֶ֥ם|wə·’aḏ·nê·hem|bases|H134|Conj-w | N-mpc | 3mp
 v38 חֲמִשָּׁ֖ה|ḥă·miš·šāh|and their five|H2568|Number-ms
-v38 נְחֹֽשֶׁת׃פ|nə·ḥō·šeṯ|were bronze|H5178|N-fs
+v38 נְחֹֽשֶׁת׃|nə·ḥō·šeṯ|were bronze|H5178|N-fs

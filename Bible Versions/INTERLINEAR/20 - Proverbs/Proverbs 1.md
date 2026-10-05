@@ -42,7 +42,7 @@ v7 דָּ֑עַת|dā·‘aṯ|of knowledge|H1847|N-fs
 v7 חָכְמָ֥ה|ḥāḵ·māh|wisdom|H2451|N-fs
 v7 וּ֝מוּסָ֗ר|ū·mū·sār|and discipline|H4148|Conj-w | N-ms
 v7 אֱוִילִ֥ים|’ĕ·wî·lîm|[but] fools|H191|N-mp
-v7 בָּֽזוּ׃פ|bā·zū|despise|H936|V-Qal-Perf-3cp
+v7 בָּֽזוּ׃|bā·zū|despise|H936|V-Qal-Perf-3cp
 v8 שְׁמַ֣ע|šə·ma‘|Listen|H8085|V-Qal-Imp-ms
 v8 בְּ֭נִי|bə·nî|my son|H1121|N-msc | 1cs
 v8 מוּסַ֣ר|mū·sar|instruction|H4148|N-msc
@@ -129,7 +129,7 @@ v19 בָּ֑צַע|bā·ṣa‘|whose unjust gain|H1215|N-ms
 v19 אֶת־|’eṯ-|-|H853|DirObjM
 v19 נֶ֖פֶשׁ|ne·p̄eš|the lives|H5315|N-fsc
 v19 בְּעָלָ֣יו|bə·‘ā·lāw|of its possessors|H1167|N-mpc | 3ms
-v19 יִקָּֽח׃פ|yiq·qāḥ|takes|H3947|V-Qal-Imperf-3ms
+v19 יִקָּֽח׃|yiq·qāḥ|takes|H3947|V-Qal-Imperf-3ms
 v20 חָ֭כְמוֹת|ḥā·ḵə·mō·wṯ|Wisdom|H2451|N-fp
 v20 בַּח֣וּץ|ba·ḥūṣ|in the street|H2351|Prep-b, Art | N-ms
 v20 תָּרֹ֑נָּה|tā·rōn·nāh|calls out|H7442|V-Qal-Imperf-3fp
@@ -139,7 +139,7 @@ v20 קוֹלָֽהּ׃|qō·w·lāh|her voice|H6963|N-msc | 3fs
 v21 בְּרֹ֥אשׁ|bə·rōš|in the main|H7218|Prep-b | N-ms
 v21 הֹמִיּ֗וֹת|hō·mî·yō·wṯ|concourse|H1993|V-Qal-Prtcpl-fp
 v21 תִּ֫קְרָ֥א|tiq·rā|she cries aloud|H7121|V-Qal-Imperf-3fs
-v21 בְּפִתְחֵ֖י|bə·p̄iṯ·ḥê|vvv|H6607|Prep-b | N-mpc
+v21 בְּפִתְחֵ֖י|bə·p̄iṯ·ḥê|...|H6607|Prep-b | N-mpc
 v21 שְׁעָרִ֥ים|šə·‘ā·rîm|gates|H8179|N-mp
 v21 בָּעִ֗יר|bā·‘îr|at the city|H5892|Prep-b, Art | N-fs
 v21 אֲמָרֶ֥יהָ|’ă·mā·re·hā|her speech|H561|N-mpc | 3fs
@@ -202,7 +202,7 @@ v28 אֶֽעֱנֶ֑ה|’e·‘ĕ·neh|answer|H6030|V-Qal-Imperf-1cs
 v28 יְ֝שַׁחֲרֻ֗נְנִי|yə·ša·ḥă·run·nî|they {will} earnestly seek me|H7836|V-Piel-Imperf-3mp | 1cs, Pn
 v28 וְלֹ֣א|wə·lō|but {will} not|H3808|Conj-w | Adv-NegPrt
 v28 יִמְצָאֻֽנְנִי׃|yim·ṣā·’un·nî|find me|H4672|V-Qal-Imperf-3mp | 1cs, Pn
-v29 תַּ֭חַת|ta·ḥaṯ|vvv|H8478|Prep
+v29 תַּ֭חַת|ta·ḥaṯ|...|H8478|Prep
 v29 כִּי־|kî-|For|H3588|Conj
 v29 שָׂ֣נְאוּ|śā·nə·’ū|they hated|H8130|V-Qal-Perf-3cp
 v29 דָ֑עַת|ḏā·‘aṯ|knowledge|H1847|N-fs
@@ -234,4 +234,4 @@ v33 יִשְׁכָּן־|yiš·kān-|{will} dwell|H7931|V-Qal-Imperf-3ms
 v33 בֶּ֑טַח|be·ṭaḥ|in safety|H983|N-ms
 v33 וְ֝שַׁאֲנַ֗ן|wə·ša·’ă·nan|secure|H7599|Conj-w | V-Piel-ConjPerf-3ms
 v33 מִפַּ֥חַד|mip·pa·ḥaḏ|from the fear|H6343|Prep-m | N-msc
-v33 רָעָֽה׃פ|rā·‘āh|of evil|H7451|Adj-fs
+v33 רָעָֽה׃|rā·‘āh|of evil|H7451|Adj-fs

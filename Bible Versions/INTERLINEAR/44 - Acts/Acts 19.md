@@ -23,7 +23,7 @@ v2 εἶπέν|eipen|asked|G2036|V-AIA-3S
 v2 τε|te|and|G5037|Conj
 v2 πρὸς|pros|-|G4314|Prep
 v2 αὐτούς|autous|them|G846|PPro-AM3P
-v2 Εἰ|Ei|vvv|G1487|Conj
+v2 Εἰ|Ei|...|G1487|Conj
 v2 Πνεῦμα|Pneuma|Spirit|G4151|N-ANS
 v2 Ἅγιον|Hagion|[the] Holy|G40|Adj-ANS
 v2 ἐλάβετε|elabete|Did you receive|G2983|V-AIA-2P
@@ -33,7 +33,7 @@ v2 δὲ|de|[they answered]|G1161|Conj
 v2 πρὸς|pros|...|G4314|Prep
 v2 αὐτόν|auton|...|G846|PPro-AM3S
 v2 Ἀλλ’|All’|No|G235|Conj
-v2 οὐδ’|oud’|vvv|G3761|Adv
+v2 οὐδ’|oud’|...|G3761|Adv
 v2 εἰ|ei|that|G1487|Conj
 v2 Πνεῦμα|Pneuma|Spirit|G4151|N-NNS
 v2 Ἅγιον|Hagion|[a] Holy|G40|Adj-NNS
@@ -136,8 +136,8 @@ v9 ἠπείθουν|ēpeithoun|refused to believe|G544|V-IIA-3P
 v9 κακολογοῦντες|kakologountes|maligned|G2551|V-PPA-NMP
 v9 τὴν|tēn|the|G3588|Art-AFS
 v9 Ὁδὸν|Hodon|Way|G3598|N-AFS
-v9 ἐνώπιον|enōpion|vvv|G1799|Prep
-v9 τοῦ|tou|vvv|G3588|Art-GNS
+v9 ἐνώπιον|enōpion|...|G1799|Prep
+v9 τοῦ|tou|...|G3588|Art-GNS
 v9 πλήθους|plēthous|[and] publicly|G4128|N-GNS
 v9 ἀποστὰς|apostas|[and] left|G868|V-APA-NMS
 v9 ἀπ’|ap’|...|G575|Prep
@@ -175,8 +175,8 @@ v10 καὶ|kai|and|G2532|Conj
 v10 Ἕλληνας|Hellēnas|Greeks|G1672|N-AMP
 v11 Δυνάμεις|Dynameis|miracles|G1411|N-AFP
 v11 τε|te|-|G5037|Conj
-v11 οὐ|ou|vvv|G3756|Adv
-v11 τὰς|tas|vvv|G3588|Art-AFP
+v11 οὐ|ou|...|G3756|Adv
+v11 τὰς|tas|...|G3588|Art-AFP
 v11 τυχούσας|tychousas|extraordinary|G5177|V-APA-AFP
 v11 ὁ|ho|-|G3588|Art-NMS
 v11 Θεὸς|Theos|God|G2316|N-NMS
@@ -191,10 +191,10 @@ v12 ἐπὶ|epi|to|G1909|Prep
 v12 τοὺς|tous|the|G3588|Art-AMP
 v12 ἀσθενοῦντας|asthenountas|sick|G770|V-PPA-AMP
 v12 ἀποφέρεσθαι|apopheresthai|were taken|G667|V-PNM/P
-v12 ἀπὸ|apo|vvv|G575|Prep
-v12 τοῦ|tou|vvv|G3588|Art-GMS
+v12 ἀπὸ|apo|...|G575|Prep
+v12 τοῦ|tou|...|G3588|Art-GMS
 v12 χρωτὸς|chrōtos|that had touched him|G5559|N-GMS
-v12 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v12 αὐτοῦ|autou|...|G846|PPro-GM3S
 v12 σουδάρια|soudaria|handkerchiefs|G4676|N-ANP
 v12 ἢ|ē|and|G2228|Conj
 v12 σιμικίνθια|simikinthia|aprons|G4612|N-ANP
@@ -241,7 +241,7 @@ v13 Παῦλος|Paulos|Paul|G3972|N-NMS
 v13 κηρύσσει|kēryssei|proclaims|G2784|V-PIA-3S
 v14 ἦσαν|ēsan|were|G1510|V-IIA-3P
 v14 δέ|de|-|G1161|Conj
-v14 τινος|tinos|vvv|G5100|IPro-GMS
+v14 τινος|tinos|...|G5100|IPro-GMS
 v14 Σκευᾶ|Skeua|of Sceva|G4630|N-GMS
 v14 Ἰουδαίου|Ioudaiou|a Jewish|G2453|Adj-GMS
 v14 ἀρχιερέως|archiereōs|chief priest|G749|N-GMS
@@ -356,7 +356,7 @@ v19 ἀργυρίου|argyriou|drachmas|G694|N-GNS
 v19 μυριάδας|myriadas|...|G3461|N-AFP
 v19 πέντε|pente|fifty thousand|G4002|Adj-AFP
 v20 Οὕτως|Houtōs|So|G3779|Adv
-v20 κατὰ|kata|vvv|G2596|Prep
+v20 κατὰ|kata|...|G2596|Prep
 v20 κράτος|kratos|powerfully|G2904|N-ANS
 v20 τοῦ|tou|of the|G3588|Art-GMS
 v20 Κυρίου|Kyriou|Lord|G2962|N-GMS
@@ -420,7 +420,7 @@ v23 τὸν|ton|-|G3588|Art-AMS
 v23 καιρὸν|kairon|time|G2540|N-AMS
 v23 ἐκεῖνον|ekeinon|that|G1565|DPro-AMS
 v23 τάραχος|tarachos|disturbance|G5017|N-NMS
-v23 οὐκ|ouk|vvv|G3756|Adv
+v23 οὐκ|ouk|...|G3756|Adv
 v23 ὀλίγος|oligos|a great|G3641|Adj-NMS
 v23 περὶ|peri|about|G4012|Prep
 v23 τῆς|tēs|the|G3588|Art-GFS
@@ -437,10 +437,10 @@ v24 Ἀρτέμιδος|Artemidos|of Artemis|G735|N-GFS
 v24 παρείχετο|pareicheto|bringing|G3930|V-IIM-3S
 v24 τοῖς|tois|to the|G3588|Art-DMP
 v24 τεχνίταις|technitais|craftsmen|G5079|N-DMP
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 ὀλίγην|oligēn|much|G3641|Adj-AFS
 v24 ἐργασίαν|ergasian|business|G2039|N-AFS
-v25 οὓς|hous|vvv|G3739|RelPro-AMP
+v25 οὓς|hous|...|G3739|RelPro-AMP
 v25 συναθροίσας|synathroisas|[Demetrius] assembled [the craftsmen]|G4867|V-APA-NMS
 v25 καὶ|kai|along with|G2532|Conj
 v25 τοὺς|tous|the|G3588|Art-AMP
@@ -530,7 +530,7 @@ v28 Ἀκούσαντες|Akousantes|[the men] heard [this]|G191|V-APA-NMP
 v28 δὲ|de|[When]|G1161|Conj
 v28 καὶ|kai|-|G2532|Conj
 v28 γενόμενοι|genomenoi|they were|G1096|V-APM-NMP
-v28 πλήρεις|plēreis|vvv|G4134|Adj-NMP
+v28 πλήρεις|plēreis|...|G4134|Adj-NMP
 v28 θυμοῦ|thymou|enraged|G2372|N-GMS
 v28 ἔκραζον|ekrazon|[and] began shouting|G2896|V-IIA-3P
 v28 λέγοντες|legontes|...|G3004|V-PPA-NMP
@@ -539,7 +539,7 @@ v28 ἡ|hē|-|G3588|Art-NFS
 v28 Ἄρτεμις|Artemis|Artemis|G735|N-NFS
 v28 Ἐφεσίων|Ephesiōn|of [the] Ephesians|G2180|Adj-GMP
 v29 καὶ|kai|[Soon]|G2532|Conj
-v29 ἐπλήσθη|eplēsthē|vvv|G4130|V-AIP-3S
+v29 ἐπλήσθη|eplēsthē|...|G4130|V-AIP-3S
 v29 ἡ|hē|the|G3588|Art-NFS
 v29 πόλις|polis|city|G4172|N-NFS
 v29 τῆς|tēs|whole|G3588|Art-GFS
@@ -564,7 +564,7 @@ v30 εἰσελθεῖν|eiselthein|to go before|G1525|V-ANA
 v30 εἰς|eis|...|G1519|Prep
 v30 τὸν|ton|the|G3588|Art-AMS
 v30 δῆμον|dēmon|assembly|G1218|N-AMS
-v30 οὐκ|ouk|vvv|G3756|Adv
+v30 οὐκ|ouk|...|G3756|Adv
 v30 εἴων|eiōn|would not allow|G1439|V-IIA-3P
 v30 αὐτὸν|auton|him|G846|PPro-AM3S
 v30 οἱ|hoi|[but] the|G3588|Art-NMP
@@ -601,7 +601,7 @@ v32 συγκεχυμένη|synkechymenē|in turmoil|G4797|V-RPM/P-NFS
 v32 καὶ|kai|and|G2532|Conj
 v32 οἱ|hoi|-|G3588|Art-NMP
 v32 πλείους|pleious|most [of them]|G4119|Adj-NMP-C
-v32 οὐκ|ouk|vvv|G3756|Adv
+v32 οὐκ|ouk|...|G3756|Adv
 v32 ᾔδεισαν|ēdeisan|did not [even] know|G1492|V-LIA-3P
 v32 τίνος|tinos|why|G5101|IPro-GNS
 v32 ἕνεκα|heneka|...|G1752|Prep
@@ -677,12 +677,12 @@ v36 οὖν|oun|Since|G3767|Conj
 v36 ὄντων|ontōn|are|G1510|V-PPA-GNP
 v36 τούτων|toutōn|these things|G3778|DPro-GNP
 v36 δέον|deon|ought|G1163|V-PPA-NNS
-v36 ἐστὶν|estin|vvv|G1510|V-PIA-3S
+v36 ἐστὶν|estin|...|G1510|V-PIA-3S
 v36 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v36 κατεσταλμένους|katestalmenous|calm|G2687|V-RPM/P-AMP
 v36 ὑπάρχειν|hyparchein|to be|G5225|V-PNA
 v36 καὶ|kai|and|G2532|Conj
-v36 μηδὲν|mēden|vvv|G3367|Adj-ANS
+v36 μηδὲν|mēden|...|G3367|Adj-ANS
 v36 προπετὲς|propetes|rash|G4312|Adj-ANS
 v36 πράσσειν|prassein|not do anything|G4238|V-PNA
 v37 ἠγάγετε|ēgagete|you have brought|G71|V-AIA-2P
@@ -702,8 +702,8 @@ v38 μὲν|men|-|G3303|Conj
 v38 οὖν|oun|So|G3767|Conj
 v38 Δημήτριος|Dēmētrios|Demetrius|G1216|N-NMS
 v38 καὶ|kai|and|G2532|Conj
-v38 οἱ|hoi|vvv|G3588|Art-NMP
-v38 σὺν|syn|vvv|G4862|Prep
+v38 οἱ|hoi|...|G3588|Art-NMP
+v38 σὺν|syn|...|G4862|Prep
 v38 αὐτῷ|autō|his fellow|G846|PPro-DM3S
 v38 τεχνῖται|technitai|craftsmen|G5079|N-NMP
 v38 ἔχουσι|echousi|have|G2192|V-PIA-3P
@@ -728,7 +728,7 @@ v39 ἐννόμῳ|ennomō|legal|G1772|Adj-DFS
 v39 ἐκκλησίᾳ|ekklēsia|assembly|G1577|N-DFS
 v39 ἐπιλυθήσεται|epilythēsetai|it must be settled|G1956|V-FIP-3S
 v40 καὶ|kai|For|G2532|Conj
-v40 γὰρ|gar|vvv|G1063|Conj
+v40 γὰρ|gar|...|G1063|Conj
 v40 κινδυνεύομεν|kindyneuomen|we are in jeopardy of|G2793|V-PIA-1P
 v40 ἐγκαλεῖσθαι|enkaleisthai|being charged|G1458|V-PNM/P
 v40 στάσεως|staseōs|with rioting|G4714|N-GFS
@@ -737,10 +737,10 @@ v40 τῆς|tēs|-|G3588|Art-GFS
 v40 σήμερον|sēmeron|today's [events]|G4594|Adv
 v40 μηδενὸς|mēdenos|no|G3367|Adj-GNS
 v40 αἰτίου|aitiou|justification|G159|Adj-GNS
-v40 ὑπάρχοντος|hyparchontos|vvv|G5225|V-PPA-GNS
+v40 ὑπάρχοντος|hyparchontos|...|G5225|V-PPA-GNS
 v40 περὶ|peri|...|G4012|Prep
-v40 οὗ|hou|vvv|G3739|RelPro-GNS
-v40 οὐ|ou|vvv|G3756|Adv
+v40 οὗ|hou|...|G3739|RelPro-GNS
+v40 οὐ|ou|...|G3756|Adv
 v40 δυνησόμεθα|dynēsometha|[and] we have|G1410|V-FIM-1P
 v40 ἀποδοῦναι|apodounai|...|G591|V-ANA
 v40 λόγον|logon|to account|G3056|N-AMS

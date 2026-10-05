@@ -33,11 +33,11 @@ v5 וְֽאֵ֫ינֶ֥נּוּ|wə·’ê·nen·nū|it disappears|H369|Conj-w |
 v5 כִּ֤י|kî|for|H3588|Conj
 v5 עָשֹׂ֣ה|‘ā·śōh|it makes|H6213|V-Qal-InfAbs
 v5 יַעֲשֶׂה־|ya·‘ă·śeh-|...|H6213|V-Qal-Imperf-3ms
-v5 לּ֣וֹ|lōw||H0|Prep | 3ms
+v5 לּ֣וֹ|lōw|-|H0|Prep | 3ms
 v5 כְנָפַ֑יִם|ḵə·nā·p̄a·yim|wings for itself|H3671|N-fd
 v5 כְּ֝נֶ֗שֶׁר|kə·ne·šer|like an eagle|H5404|Prep-k | N-ms
 v5 וְעָיֵף|wə·ʿå̄·yēp̄|and flies|H5774|V-Qal-Imperf-3ms
-v5 הַשָּׁמָֽיִם׃פ|haš·šā·mā·yim|to the sky|H8064|Art | N-mp
+v5 הַשָּׁמָֽיִם׃|haš·šā·mā·yim|to the sky|H8064|Art | N-mp
 v6 אַל־|’al-|Do not|H408|Adv
 v6 תִּלְחַ֗ם|til·ḥam|eat|H3898|V-Qal-Imperf-2ms
 v6 אֶת־|’eṯ-|-|H853|DirObjM
@@ -154,7 +154,7 @@ v20 בְסֹֽבְאֵי־|ḇə·sō·ḇə·’ê-|those who drink too much|H5
 v20 יָ֑יִן|yā·yin|wine|H3196|N-ms
 v20 בְּזֹלֲלֵ֖י|bə·zō·lă·lê|or gorge|H2151|Prep-b | V-Qal-Prtcpl-mpc
 v20 בָשָׂ֣ר|ḇā·śār|themselves on meat|H1320|N-ms
-v20 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v20 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v21 כִּי־|kî-|For|H3588|Conj
 v21 סֹבֵ֣א|sō·ḇê|the drunkard|H5433|V-Qal-Prtcpl-ms
 v21 וְ֭זוֹלֵל|wə·zō·w·lêl|and the glutton|H2151|Conj-w | V-Qal-Prtcpl-ms
@@ -194,7 +194,7 @@ v25 יֽוֹלַדְתֶּֽךָ׃|yō·w·laḏ·te·ḵā|and may she who gave
 v26 תְּנָֽה־|tə·nāh-|give me|H5414|V-Qal-Imp-ms | 3fs
 v26 בְנִ֣י|ḇə·nî|My son|H1121|N-msc | 1cs
 v26 לִבְּךָ֣|lib·bə·ḵā|your heart|H3820|N-msc | 2ms
-v26 לִ֑י|lî||H0|Prep | 1cs
+v26 לִ֑י|lî|-|H0|Prep | 1cs
 v26 וְ֝עֵינֶ֗יךָ|wə·‘ê·ne·ḵā|and let your eyes|H5869|Conj-w | N-cdc | 2ms
 v26 דְּרָכַ֥י|də·rā·ḵay|in my ways|H1870|N-cpc | 1cs
 v26 תִּרְצֶנָה׃|tir·ṣɛ·nå̄h|delight|H7521|V-Qal-Imperf-3fp

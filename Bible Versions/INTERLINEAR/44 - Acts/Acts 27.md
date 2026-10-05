@@ -110,7 +110,7 @@ v7 γενόμενοι|genomenoi|we arrived|G1096|V-APM-NMP
 v7 κατὰ|kata|off|G2596|Prep
 v7 τὴν|tēn|-|G3588|Art-AFS
 v7 Κνίδον|Knidon|Cnidus|G2834|N-AFS
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 προσεῶντος|proseōntos|impeded|G4330|V-PPA-GMS
 v7 ἡμᾶς|hēmas|us|G1473|PPro-A1P
 v7 τοῦ|tou|[When] the|G3588|Art-GMS
@@ -142,7 +142,7 @@ v9 χρόνου|chronou|time|G5550|N-GMS
 v9 διαγενομένου|diagenomenou|had passed|G1230|V-APM-GMS
 v9 καὶ|kai|and|G2532|Conj
 v9 ὄντος|ontos|had already become|G1510|V-PPA-GMS
-v9 ἤδη|ēdē|vvv|G2235|Adv
+v9 ἤδη|ēdē|...|G2235|Adv
 v9 ἐπισφαλοῦς|episphalous|dangerous|G2000|Adj-GMS
 v9 τοῦ|tou|the|G3588|Art-GMS
 v9 πλοὸς|ploos|voyage|G4144|N-GMS
@@ -206,7 +206,7 @@ v12 πρὸς|pros|to|G4314|Prep
 v12 παραχειμασίαν|paracheimasian|winter in|G3915|N-AFS
 v12 οἱ|hoi|the|G3588|Art-NMP
 v12 πλείονες|pleiones|majority|G4119|Adj-NMP-C
-v12 ἔθεντο|ethento|vvv|G5087|V-AIM-3P
+v12 ἔθεντο|ethento|...|G5087|V-AIM-3P
 v12 βουλὴν|boulēn|decided|G1012|N-AFS
 v12 ἀναχθῆναι|anachthēnai|to sail|G321|V-ANP
 v12 ἐκεῖθεν|ekeithen|on|G1564|Adv
@@ -255,7 +255,7 @@ v15 δὲ|de|-|G1161|Conj
 v15 τοῦ|tou|the|G3588|Art-GNS
 v15 πλοίου|ploiou|ship|G4143|N-GNS
 v15 καὶ|kai|-|G2532|Conj
-v15 μὴ|mē|vvv|G3361|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 δυναμένου|dynamenou|Unable|G1410|V-PPM/P-GNS
 v15 ἀντοφθαλμεῖν|antophthalmein|to head into|G503|V-PNA
 v15 τῷ|tō|the|G3588|Art-DMS
@@ -307,7 +307,7 @@ v19 τρίτῃ|tritē|third [day]|G5154|Adj-DFS
 v19 αὐτόχειρες|autocheires|with [their] own hands|G849|Adj-NMP
 v19 τὴν|tēn|the|G3588|Art-AFS
 v19 σκευὴν|skeuēn|tackle {overboard}|G4631|N-AFS
-v19 τοῦ|tou|vvv|G3588|Art-GNS
+v19 τοῦ|tou|...|G3588|Art-GNS
 v19 πλοίου|ploiou|ship's|G4143|N-GNS
 v19 ἔρριψαν*|erripsan|they threw|G4496|V-AIA-3P
 v20 μήτε|mēte|neither|G3383|Conj
@@ -321,7 +321,7 @@ v20 πλείονας|pleionas|many|G4119|Adj-AFP-C
 v20 ἡμέρας|hēmeras|days|G2250|N-AFP
 v20 χειμῶνός|cheimōnos|storm|G5494|N-GMS
 v20 τε|te|and|G5037|Conj
-v20 οὐκ|ouk|vvv|G3756|Adv
+v20 οὐκ|ouk|...|G3756|Adv
 v20 ὀλίγου|oligou|[the great]|G3641|Adj-GMS
 v20 ἐπικειμένου|epikeimenou|continued to batter us|G1945|V-PPM/P-GMS
 v20 λοιπὸν|loipon|-|G3063|Adj-ANS
@@ -423,7 +423,7 @@ v25 ὅτι|hoti|that|G3754|Conj
 v25 οὕτως|houtōs|just|G3779|Adv
 v25 ἔσται|estai|it will happen|G1510|V-FIM-3S
 v25 καθ’|kath’|...|G2596|Prep
-v25 ὃν|hon|vvv|G3739|RelPro-AMS
+v25 ὃν|hon|...|G3739|RelPro-AMS
 v25 τρόπον|tropon|as|G5158|N-AMS
 v25 λελάληταί|lelalētai|He told|G2980|V-RIM/P-3S
 v25 μοι|moi|me|G1473|PPro-D1S
@@ -452,7 +452,7 @@ v27 ὑπενόουν|hypenooun|sensed|G5282|V-IIA-3P
 v27 οἱ|hoi|the|G3588|Art-NMP
 v27 ναῦται|nautai|sailors|G3492|N-NMP
 v27 προσάγειν|prosagein|were approaching|G4317|V-PNA
-v27 τινὰ|tina|vvv|G5100|IPro-AFS
+v27 τινὰ|tina|...|G5100|IPro-AFS
 v27 αὐτοῖς|autois|they|G846|PPro-DM3P
 v27 χώραν|chōran|land|G5561|N-AFS
 v28 καὶ|kai|-|G2532|Conj
@@ -524,7 +524,7 @@ v31 τῷ|tō|the|G3588|Art-DNS
 v31 πλοίῳ|ploiō|ship|G4143|N-DNS
 v31 ὑμεῖς|hymeis|you|G4771|PPro-N2P
 v31 σωθῆναι|sōthēnai|be saved|G4982|V-ANP
-v31 οὐ|ou|vvv|G3756|Adv
+v31 οὐ|ou|...|G3756|Adv
 v31 δύνασθε|dynasthe|cannot|G1410|V-PIM/P-2P
 v32 τότε|tote|[So]|G5119|Adv
 v32 ἀπέκοψαν|apekopsan|cut|G609|V-AIA-3P
@@ -556,7 +556,7 @@ v33 σήμερον|sēmeron|Today|G4594|Adv
 v33 ἡμέραν|hēmeran|day|G2250|N-AFS
 v33 προσδοκῶντες|prosdokōntes|in constant suspense|G4328|V-PPA-NMP
 v33 ἄσιτοι|asitoi|...|G777|Adj-NMP
-v33 διατελεῖτε|diateleite|vvv|G1300|V-PIA-2P
+v33 διατελεῖτε|diateleite|...|G1300|V-PIA-2P
 v33 μηθὲν|mēthen|...|G3367|Adj-ANS
 v33 προσλαβόμενοι|proslabomenoi|without taking any food|G4355|V-APM-NMP
 v34 διὸ|dio|So|G1352|Conj
@@ -610,7 +610,7 @@ v37 ψυχαὶ|psychai|of us|G5590|N-NFP
 v37 ἐν|en|on|G1722|Prep
 v37 τῷ|tō|-|G3588|Art-DNS
 v37 πλοίῳ|ploiō|[board]|G4143|N-DNS
-v37 διακόσιαι|diakosiai|276 {}|G1250|Adj-NFP
+v37 διακόσιαι|diakosiai|276|G1250|Adj-NFP
 v37 ἑβδομήκοντα|hebdomēkonta|...|G1440|Adj-NFP
 v37 ἕξ|hex|...|G1803|Adj-NFP
 v38 κορεσθέντες|koresthentes|[the men] had eaten their fill|G2880|V-APP-NMP
@@ -631,7 +631,7 @@ v39 ἡμέρα|hēmera|daylight|G2250|N-NFS
 v39 ἐγένετο|egeneto|came|G1096|V-AIM-3S
 v39 τὴν|tēn|the|G3588|Art-AFS
 v39 γῆν|gēn|land|G1093|N-AFS
-v39 οὐκ|ouk|vvv|G3756|Adv
+v39 οὐκ|ouk|...|G3756|Adv
 v39 ἐπεγίνωσκον|epeginōskon|they did not recognize|G1921|V-IIA-3P
 v39 κόλπον|kolpon|bay|G2859|N-AMS
 v39 δέ|de|but|G1161|Conj
@@ -639,7 +639,7 @@ v39 τινα|tina|a|G5100|IPro-AMS
 v39 κατενόουν|katenooun|they sighted|G2657|V-IIA-3P
 v39 ἔχοντα|echonta|with|G2192|V-PPA-AMS
 v39 αἰγιαλὸν|aigialon|a sandy beach|G123|N-AMS
-v39 εἰς|eis|vvv|G1519|Prep
+v39 εἰς|eis|...|G1519|Prep
 v39 ὃν|hon|where|G3739|RelPro-AMS
 v39 ἐβουλεύοντο|ebouleuonto|they decided|G1011|V-IIM/P-3P
 v39 εἰ|ei|if|G1487|Conj
@@ -684,7 +684,7 @@ v41 ἡ|hē|The|G3588|Art-NFS
 v41 μὲν|men|-|G3303|Conj
 v41 πρῷρα|prōra|bow|G4408|N-NFS
 v41 ἐρείσασα|ereisasa|stuck fast|G2043|V-APA-NFS
-v41 ἔμεινεν|emeinen|vvv|G3306|V-AIA-3S
+v41 ἔμεινεν|emeinen|...|G3306|V-AIA-3S
 v41 ἀσάλευτος|asaleutos|[and] would not move|G761|Adj-NFS
 v41 ἡ|hē|the|G3588|Art-NFS
 v41 δὲ|de|and|G1161|Conj
@@ -717,7 +717,7 @@ v43 τὸν|ton|-|G3588|Art-AMS
 v43 Παῦλον|Paulon|Paul's [ life ]|G3972|N-AMS
 v43 ἐκώλυσεν|ekōlysen|thwarted|G2967|V-AIA-3S
 v43 αὐτοὺς|autous|their|G846|PPro-AM3P
-v43 τοῦ|tou|vvv|G3588|Art-GNS
+v43 τοῦ|tou|...|G3588|Art-GNS
 v43 βουλήματος|boulēmatos|plan|G1013|N-GNS
 v43 ἐκέλευσέν|ekeleusen|He commanded|G2753|V-AIA-3S
 v43 τε|te|-|G5037|Conj

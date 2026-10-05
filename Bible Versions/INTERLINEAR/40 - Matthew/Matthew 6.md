@@ -8,8 +8,8 @@ v1 ποιεῖν|poiein|to perform|G4160|V-PNA
 v1 ἔμπροσθεν|emprosthen|before|G1715|Prep
 v1 τῶν|tōn|-|G3588|Art-GMP
 v1 ἀνθρώπων|anthrōpōn|men|G444|N-GMP
-v1 πρὸς|pros|vvv|G4314|Prep
-v1 τὸ|to|vvv|G3588|Art-ANS
+v1 πρὸς|pros|...|G4314|Prep
+v1 τὸ|to|...|G3588|Art-ANS
 v1 θεαθῆναι|theathēnai|to be seen|G2300|V-ANP
 v1 αὐτοῖς|autois|by them|G846|PPro-DM3P
 v1 εἰ|ei|If|G1487|Conj
@@ -85,7 +85,7 @@ v4 Πατήρ|Patēr|Father|G3962|N-NMS
 v4 σου|sou|your|G4771|PPro-G2S
 v4 ὁ|ho|-|G3588|Art-NMS
 v4 βλέπων|blepōn|who sees|G991|V-PPA-NMS
-v4 ἐν|en|vvv|G1722|Prep
+v4 ἐν|en|...|G1722|Prep
 v4 τῷ|tō|what is done|G3588|Art-DNS
 v4 κρυπτῷ|kryptō|in secret|G2927|Adj-DNS
 v4 ἀποδώσει|apodōsei|will reward|G591|V-FIA-3S
@@ -111,7 +111,7 @@ v5 τῶν|tōn|-|G3588|Art-GFP
 v5 πλατειῶν|plateiōn|street|G4113|N-GFP
 v5 ἑστῶτες|hestōtes|standing|G2476|V-RPA-NMP
 v5 προσεύχεσθαι|proseuchesthai|to pray|G4336|V-PNM/P
-v5 ὅπως|hopōs|vvv|G3704|Conj
+v5 ὅπως|hopōs|...|G3704|Conj
 v5 φανῶσιν|phanōsin|to be seen|G5316|V-ASP-3P
 v5 τοῖς|tois|-|G3588|Art-DMP
 v5 ἀνθρώποις|anthrōpois|by men|G444|N-DMP
@@ -141,8 +141,8 @@ v6 τῷ|tō|to|G3588|Art-DMS
 v6 Πατρί|Patri|Father|G3962|N-DMS
 v6 σου|sou|your|G4771|PPro-G2S
 v6 τῷ|tō|who [is]|G3588|Art-DMS
-v6 ἐν|en|vvv|G1722|Prep
-v6 τῷ|tō|vvv|G3588|Art-DNS
+v6 ἐν|en|...|G1722|Prep
+v6 τῷ|tō|...|G3588|Art-DNS
 v6 κρυπτῷ|kryptō|unseen|G2927|Adj-DNS
 v6 καὶ|kai|And|G2532|Conj
 v6 ὁ|ho|-|G3588|Art-NMS
@@ -150,7 +150,7 @@ v6 Πατήρ|Patēr|Father|G3962|N-NMS
 v6 σου|sou|your|G4771|PPro-G2S
 v6 ὁ|ho|who|G3588|Art-NMS
 v6 βλέπων|blepōn|sees|G991|V-PPA-NMS
-v6 ἐν|en|vvv|G1722|Prep
+v6 ἐν|en|...|G1722|Prep
 v6 τῷ|tō|what is done|G3588|Art-DNS
 v6 κρυπτῷ|kryptō|in secret|G2927|Adj-DNS
 v6 ἀποδώσει|apodōsei|will reward|G591|V-FIA-3S
@@ -176,7 +176,7 @@ v8 ὁμοιωθῆτε|homoiōthēte|be like|G3666|V-ASP-2P
 v8 αὐτοῖς|autois|them|G846|PPro-DM3P
 v8 οἶδεν|oiden|knows|G1492|V-RIA-3S
 v8 γὰρ|gar|for|G1063|Conj
-v8 ὁ|ho|vvv|G3588|Art-NMS
+v8 ὁ|ho|...|G3588|Art-NMS
 v8 Πατὴρ|Patēr|Father|G3962|N-NMS
 v8 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v8 ὧν|hōn|what|G3739|RelPro-GNP
@@ -295,7 +295,7 @@ v16 γὰρ|gar|for|G1063|Conj
 v16 τὰ|ta|-|G3588|Art-ANP
 v16 πρόσωπα|prosōpa|faces|G4383|N-ANP
 v16 αὐτῶν|autōn|their|G846|PPro-GM3P
-v16 ὅπως|hopōs|vvv|G3704|Conj
+v16 ὅπως|hopōs|...|G3704|Conj
 v16 φανῶσιν|phanōsin|to show|G5316|V-ASP-3P
 v16 τοῖς|tois|-|G3588|Art-DMP
 v16 ἀνθρώποις|anthrōpois|men|G444|N-DMP
@@ -330,8 +330,8 @@ v18 τῷ|tō|to|G3588|Art-DMS
 v18 Πατρί|Patri|Father|G3962|N-DMS
 v18 σου|sou|your|G4771|PPro-G2S
 v18 τῷ|tō|who [is]|G3588|Art-DMS
-v18 ἐν|en|vvv|G1722|Prep
-v18 τῷ|tō|vvv|G3588|Art-DNS
+v18 ἐν|en|...|G1722|Prep
+v18 τῷ|tō|...|G3588|Art-DNS
 v18 κρυφαίῳ|kryphaiō|unseen|G2927|Adj-DNS
 v18 καὶ|kai|And|G2532|Conj
 v18 ὁ|ho|-|G3588|Art-NMS
@@ -339,7 +339,7 @@ v18 Πατήρ|Patēr|Father|G3962|N-NMS
 v18 σου|sou|your|G4771|PPro-G2S
 v18 ὁ|ho|who|G3588|Art-NMS
 v18 βλέπων|blepōn|sees|G991|V-PPA-NMS
-v18 ἐν|en|vvv|G1722|Prep
+v18 ἐν|en|...|G1722|Prep
 v18 τῷ|tō|what is done|G3588|Art-DNS
 v18 κρυφαίῳ|kryphaiō|in secret|G2927|Adj-DNS
 v18 ἀποδώσει|apodōsei|will reward|G591|V-FIA-3S
@@ -369,7 +369,7 @@ v20 θησαυροὺς|thēsaurous|treasures|G2344|N-AMP
 v20 ἐν|en|in|G1722|Prep
 v20 οὐρανῷ|ouranō|heaven|G3772|N-DMS
 v20 ὅπου|hopou|where|G3699|Adv
-v20 οὔτε|oute|vvv|G3777|Conj
+v20 οὔτε|oute|...|G3777|Conj
 v20 σὴς|sēs|moth|G4597|N-NMS
 v20 οὔτε|oute|[and]|G3777|Conj
 v20 βρῶσις|brōsis|rust|G1035|N-NFS
@@ -648,7 +648,7 @@ v34 αὔριον|aurion|tomorrow|G839|Adv
 v34 μεριμνήσει|merimnēsei|will worry about|G3309|V-FIA-3S
 v34 ἑαυτῆς|heautēs|itself|G1438|RefPro-GF3S
 v34 ἀρκετὸν|arketon|[has] enough|G713|Adj-NNS
-v34 τῇ|tē|vvv|G3588|Art-DFS
+v34 τῇ|tē|...|G3588|Art-DFS
 v34 ἡμέρᾳ|hēmera|Today|G2250|N-DFS
 v34 ἡ|hē|-|G3588|Art-NFS
 v34 κακία|kakia|trouble|G2549|N-NFS

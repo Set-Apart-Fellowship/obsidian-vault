@@ -72,7 +72,7 @@ v9 כְמוֹ־|ḵə·mōw-|with|H3644|Prep
 v9 הֶֽגֶה׃|he·ḡeh|a sigh|H1899|N-ms
 v10 יְמֵֽי־|yə·mê-|The length of our days|H3117|N-mpc
 v10 שְׁנוֹתֵ֨ינוּ|šə·nō·w·ṯê·nū|...|H8141|N-fpc | 1cp
-v10 בָהֶ֥ם|ḇā·hem||H0|Prep | 3mp
+v10 בָהֶ֥ם|ḇā·hem|-|H0|Prep | 3mp
 v10 שִׁבְעִ֪ים|šiḇ·‘îm|is seventy|H7657|Number-cp
 v10 שָׁנָ֡ה|šā·nāh|years|H8141|N-fs
 v10 וְאִ֤ם|wə·’im|if we are strong|H518|Conj

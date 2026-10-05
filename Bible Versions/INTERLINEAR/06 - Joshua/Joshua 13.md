@@ -61,13 +61,13 @@ v5 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v5 הַלְּבָנוֹן֙|hal·lə·ḇā·nō·wn|Lebanon|H3844|Art | N-proper-fs
 v5 מִזְרַ֣ח|miz·raḥ|to the east|H4217|N-msc
 v5 הַשֶּׁ֔מֶשׁ|haš·še·meš|...|H8121|Art | N-cs
-v5 מִבַּ֣עַל|mib·ba·‘al|vvv|H1171|Prep
+v5 מִבַּ֣עַל|mib·ba·‘al|...|H1171|Prep
 v5 גָּ֔ד|gāḏ|from Baal-gad|H1171|Prep | N-proper-fs
 v5 תַּ֖חַת|ta·ḥaṯ|below|H8478|Prep
 v5 הַר־|har-|Mount|H2022|N-msc
 v5 חֶרְמ֑וֹן|ḥer·mō·wn|Hermon|H2768|N-proper-fs
 v5 עַ֖ד|‘aḏ|to|H5704|Prep
-v5 לְב֥וֹא|lə·ḇō·w|vvv|H935|Prep | V-Qal-Inf
+v5 לְב֥וֹא|lə·ḇō·w|...|H935|Prep | V-Qal-Inf
 v5 חֲמָֽת׃|ḥă·māṯ|Lebo-hamath|H2574|N-proper-fs
 v6 כָּל־|kāl-|All|H3605|N-msc
 v6 יֹשְׁבֵ֣י|yō·šə·ḇê|the inhabitants|H3427|V-Qal-Prtcpl-mpc
@@ -75,7 +75,7 @@ v6 הָ֠הָר|hā·hār|of the hill country|H2022|Art | N-ms
 v6 מִֽן־|min-|from|H4480|Prep
 v6 הַלְּבָנ֞וֹן|hal·lə·ḇā·nō·wn|Lebanon|H3844|Art | N-proper-fs
 v6 עַד־|‘aḏ-|to|H5704|Prep
-v6 מִשְׂרְפֹ֥ת|miś·rə·p̄ōṯ|vvv|H4956|Prep
+v6 מִשְׂרְפֹ֥ת|miś·rə·p̄ōṯ|...|H4956|Prep
 v6 מַ֙יִם֙|ma·yim|Misrephoth-maim|H4956|N-proper-fs
 v6 כָּל־|kāl-|all|H3605|N-msc
 v6 צִ֣ידֹנִ֔ים|ṣî·ḏō·nîm|the Sidonians|H6722|N-proper-mp
@@ -106,7 +106,7 @@ v8 הָרֽאוּבֵנִי֙|hā·r·’ū·ḇê·nî|along with the Reubenite
 v8 וְהַגָּדִ֔י|wə·hag·gā·ḏî|and Gadites|H1425|Conj-w, Art | N-proper-ms
 v8 לָקְח֖וּ|lā·qə·ḥū|had received|H3947|V-Qal-Perf-3cp
 v8 נַחֲלָתָ֑ם|na·ḥă·lā·ṯām|the inheritance|H5159|N-fsc | 3mp
-v8 אֲשֶׁר֩|’ă·šer||H834|Pro-r
+v8 אֲשֶׁר֩|’ă·šer|-|H834|Pro-r
 v8 נָתַ֨ן|nā·ṯan|had given|H5414|V-Qal-Perf-3ms
 v8 לָהֶ֜ם|lā·hem|them|H0|Prep | 3mp
 v8 מֹשֶׁ֗ה|mō·šeh|Moses|H4872|N-proper-ms
@@ -202,11 +202,11 @@ v14 ה֣וּא|hū|are|H1931|Pro-3ms
 v14 נַחֲלָת֔וֹ|na·ḥă·lā·ṯōw|their inheritance|H5159|N-fsc | 3ms
 v14 כַּאֲשֶׁ֖ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v14 דִּבֶּר־|dib·ber-|He had promised|H1696|V-Piel-Perf-3ms
-v14 לֽוֹ׃ס|lōw|them|H0|Prep | 3ms
+v14 לֽוֹ׃|lōw|them|H0|Prep | 3ms
 v15 וַיִּתֵּ֣ן|way·yit·tên|had given|H5414|Conj-w | V-Qal-ConsecImperf-3ms
 v15 מֹשֶׁ֔ה|mō·šeh|[This is what] Moses|H4872|N-proper-ms
 v15 לְמַטֵּ֥ה|lə·maṭ·ṭêh|of the tribe|H4294|Prep-l | N-msc
-v15 בְנֵֽי־|ḇə·nê-|vvv|H1121|N-mpc
+v15 בְנֵֽי־|ḇə·nê-|...|H1121|N-mpc
 v15 רְאוּבֵ֖ן|rə·’ū·ḇên|of Reuben|H7205|N-proper-ms
 v15 לְמִשְׁפְּחֹתָֽם׃|lə·miš·pə·ḥō·ṯām|to the clans|H4940|Prep-l | N-fpc | 3mp
 v16 וַיְהִ֨י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
@@ -232,25 +232,25 @@ v17 עָרֶ֖יהָ|‘ā·re·hā|its cities|H5892|N-fpc | 3fs
 v17 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v17 בַּמִּישֹׁ֑ר|bam·mî·šōr|on the plateau|H4334|Prep-b, Art | N-ms
 v17 דִּיבוֹן֙|dî·ḇō·wn|including Dibon|H1769|N-proper-fs
-v17 וּבָמ֣וֹת|ū·ḇā·mō·wṯ|vvv|H1120|
+v17 וּבָמ֣וֹת|ū·ḇā·mō·wṯ|...|H1120|
 v17 בַּ֔עַל|ba·‘al|Bamoth-baal|H1168|Conj-w | N-proper-fs
-v17 וּבֵ֖ית|ū·ḇêṯ|vvv|H1010|
-v17 בַּ֥עַל|ba·‘al|vvv|H1010|Prep
+v17 וּבֵ֖ית|ū·ḇêṯ|...|H1010|
+v17 בַּ֥עַל|ba·‘al|...|H1010|Prep
 v17 מְעֽוֹן׃|mə·‘ō·wn|Beth-baal-meon|H1010|Conj-w | N-proper-fs
 v18 וְיַ֥הְצָה|wə·yah·ṣāh|Jahaz|H3096|Conj-w | N-proper-fs | 3fs
 v18 וּקְדֵמֹ֖ת|ū·qə·ḏê·mōṯ|Kedemoth|H6932|Conj-w | N-proper-fs
 v18 וּמֵפָֽעַת׃|ū·mê·p̄ā·‘aṯ|Mephaath|H4158|Conj-w | N-proper-fs
 v19 וְקִרְיָתַ֣יִם|wə·qir·yā·ṯa·yim|Kiriathaim|H7156|Conj-w | N-proper-fs
 v19 וְשִׂבְמָ֔ה|wə·śiḇ·māh|Sibmah|H7643|Conj-w | N-proper-fs
-v19 וְצֶ֥רֶת|wə·ṣe·reṯ|vvv|H6890|
+v19 וְצֶ֥רֶת|wə·ṣe·reṯ|...|H6890|
 v19 הַשַּׁ֖חַר|haš·ša·ḥar|Zereth-shahar|H6890|Conj-w | N-proper-fs
 v19 בְּהַ֥ר|bə·har|on the hill|H2022|Prep-b | N-msc
 v19 הָעֵֽמֶק׃|hā·‘ê·meq|in the valley|H6010|Art | N-ms
-v20 וּבֵ֥ית|ū·ḇêṯ|vvv|H1047|
+v20 וּבֵ֥ית|ū·ḇêṯ|...|H1047|
 v20 פְּע֛וֹר|pə·‘ō·wr|Beth-peor|H1047|Conj-w | N-proper-fs
 v20 וְאַשְׁדּ֥וֹת|wə·’aš·dō·wṯ|the slopes|H794|Conj-w | N-cpc
 v20 הַפִּסְגָּ֖ה|hap·pis·gāh|of Pisgah|H6449|Art | N-proper-fs
-v20 וּבֵ֥ית|ū·ḇêṯ|vvv|H1020|
+v20 וּבֵ֥ית|ū·ḇêṯ|...|H1020|
 v20 הַיְשִׁמֽוֹת׃|hay·ši·mō·wṯ|and Beth-jeshimoth|H1020|Conj-w | N-proper-fs
 v21 וְכֹל֙|wə·ḵōl|all|H3605|Conj-w | N-msc
 v21 עָרֵ֣י|‘ā·rê|the cities|H5892|N-fpc
@@ -290,7 +290,7 @@ v22 בֶּן־|ben-|The Israelites|H1121|N-msc
 v22 בְּע֖וֹר|bə·‘ō·wr|son of Beor|H1160|N-proper-ms
 v22 הַקּוֹסֵ֑ם|haq·qō·w·sêm|the diviner|H7080|Art | V-Qal-Prtcpl-ms
 v22 הָרְג֧וּ|hā·rə·ḡū|[ along with the others] they put|H2026|V-Qal-Perf-3cp
-v22 בְנֵֽי־|ḇə·nê-||H1121|N-mpc
+v22 בְנֵֽי־|ḇə·nê-|-|H1121|N-mpc
 v22 יִשְׂרָאֵ֛ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v22 בַּחֶ֖רֶב|ba·ḥe·reḇ|to the sword|H2719|Prep-b, Art | N-fs
 v22 אֶל־|’el-|...|H413|Prep
@@ -307,7 +307,7 @@ v23 בְּנֵֽי־|bə·nê-|of the Reubenites|H1121|N-mpc
 v23 רְאוּבֵן֙|rə·’ū·ḇên|...|H7205|N-proper-ms
 v23 לְמִשְׁפְּחֹתָ֔ם|lə·miš·pə·ḥō·ṯām|of the clans|H4940|Prep-l | N-fpc | 3mp
 v23 הֶעָרִ֖ים|he·‘ā·rîm|including the cities|H5892|Art | N-fp
-v23 וְחַצְרֵיהֶֽן׃פ|wə·ḥaṣ·rê·hen|and villages|H2691|Conj-w | N-cpc | 3fp
+v23 וְחַצְרֵיהֶֽן׃|wə·ḥaṣ·rê·hen|and villages|H2691|Conj-w | N-cpc | 3fp
 v24 וַיִּתֵּ֤ן|way·yit·tên|had given|H5414|Conj-w | V-Qal-ConsecImperf-3ms
 v24 מֹשֶׁה֙|mō·šeh|[This is what] Moses|H4872|N-proper-ms
 v24 לְמַטֵּה־|lə·maṭ·ṭêh-|of the tribe|H4294|Prep-l | N-msc
@@ -316,7 +316,7 @@ v24 לִבְנֵי־|liḇ·nê-|of Gad|H1121|Prep-l | N-mpc
 v24 גָ֖ד|ḡāḏ|...|H1410|N-proper-ms
 v24 לְמִשְׁפְּחֹתָֽם׃|lə·miš·pə·ḥō·ṯām|to the clans|H4940|Prep-l | N-fpc | 3mp
 v25 וַיְהִ֤י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v25 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v25 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v25 הַגְּב֔וּל|hag·gə·ḇūl|The territory|H1366|Art | N-ms
 v25 יַעְזֵר֙|ya‘·zêr|of Jazer|H3270|N-proper-fs
 v25 וְכָל־|wə·ḵāl|all|H3605|Conj-w | N-msc
@@ -342,9 +342,9 @@ v26 עַד־|‘aḏ-|to|H5704|Prep
 v26 גְּב֥וּל|gə·ḇūl|the border|H1366|N-msc
 v26 לִדְבִֽר׃|liḏ·ḇir|of Debir|H1688|N-proper-fs
 v27 וּבָעֵ֡מֶק|ū·ḇā·‘ê·meq|and in the valley|H6010|Conj-w, Prep-b, Art | N-ms
-v27 בֵּ֣ית|bêṯ|vvv|H1027|Prep
+v27 בֵּ֣ית|bêṯ|...|H1027|Prep
 v27 הָרָם֩|hā·rām|Beth-haram|H1027|N-proper-fs
-v27 וּבֵ֨ית|ū·ḇêṯ|vvv|H1039|
+v27 וּבֵ֨ית|ū·ḇêṯ|...|H1039|
 v27 נִמְרָ֜ה|nim·rāh|Beth-nimrah|H1039|Conj-w | N-proper-fs
 v27 וְסֻכּ֣וֹת|wə·suk·kō·wṯ|Succoth|H5523|Conj-w | N-proper-fs
 v27 וְצָפ֗וֹן|wə·ṣā·p̄ō·wn|and Zaphon|H6829|Conj-w | N-proper-fs
@@ -422,7 +422,7 @@ v32 מוֹאָ֑ב|mō·w·’āḇ|of Moab|H4124|N-proper-fs
 v32 מֵעֵ֛בֶר|mê·‘ê·ḇer|beyond|H5676|Prep-m | N-msc
 v32 לְיַרְדֵּ֥ן|lə·yar·dên|the Jordan|H3383|Prep-l | N-proper-fs
 v32 יְרִיח֖וֹ|yə·rî·ḥōw|of Jericho|H3405|N-proper-fs
-v32 מִזְרָֽחָה׃ס|miz·rā·ḥāh|east|H4217|N-ms | 3fs
+v32 מִזְרָֽחָה׃|miz·rā·ḥāh|east|H4217|N-ms | 3fs
 v33 וּלְשֵׁ֙בֶט֙|ū·lə·šê·ḇeṭ|To the tribe|H7626|Conj-w, Prep-l | N-msc
 v33 הַלֵּוִ֔י|hal·lê·wî|of Levi|H3878|Art | N-proper-ms
 v33 לֹֽא־|lō-|no|H3808|Adv-NegPrt

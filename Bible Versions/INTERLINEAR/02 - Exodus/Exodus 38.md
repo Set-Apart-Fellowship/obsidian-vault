@@ -81,11 +81,11 @@ v7 צַלְעֹ֣ת|ṣal·‘ōṯ|the sides|H6763|N-fpc
 v7 הַמִּזְבֵּ֔חַ|ham·miz·bê·aḥ|of the altar|H4196|Art | N-ms
 v7 לָשֵׂ֥את|lā·śêṯ|for carrying|H5375|Prep-l | V-Qal-Inf
 v7 אֹת֖וֹ|’ō·ṯōw|it|H853|DirObjM | 3ms
-v7 בָּהֶ֑ם|bā·hem||H0|Prep | 3mp
+v7 בָּהֶ֑ם|bā·hem|-|H0|Prep | 3mp
 v7 נְב֥וּב|nə·ḇūḇ|so that it was hollow|H5014|V-Qal-QalPassPrtcpl-msc
 v7 לֻחֹ֖ת|lu·ḥōṯ|with boards|H3871|N-mp
 v7 עָשָׂ֥ה|‘ā·śāh|He made|H6213|V-Qal-Perf-3ms
-v7 אֹתֽוֹ׃ס|’ō·ṯōw|[the altar]|H853|DirObjM | 3ms
+v7 אֹתֽוֹ׃|’ō·ṯōw|[the altar]|H853|DirObjM | 3ms
 v8 וַיַּ֗עַשׂ|way·ya·‘aś|Next he made|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v8 אֵ֚ת|’êṯ|-|H853|DirObjM
 v8 הַכִּיּ֣וֹר|hak·kî·yō·wr|basin|H3595|Art | N-ms
@@ -99,7 +99,7 @@ v8 אֲשֶׁ֣ר|’ă·šer|of the women who|H834|Pro-r
 v8 צָֽבְא֔וּ|ṣā·ḇə·’ū|...|H6633|V-Qal-Perf-3cp
 v8 פֶּ֖תַח|pe·ṯaḥ|at the entrance|H6607|N-msc
 v8 אֹ֥הֶל|’ō·hel|to the Tent|H168|N-msc
-v8 מוֹעֵֽד׃ס|mō·w·‘êḏ|of Meeting|H4150|N-ms
+v8 מוֹעֵֽד׃|mō·w·‘êḏ|of Meeting|H4150|N-ms
 v9 וַיַּ֖עַשׂ|way·ya·‘aś|Then he constructed|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 הֶחָצֵ֑ר|he·ḥā·ṣêr|the courtyard|H2691|Art | N-cs
@@ -235,7 +235,7 @@ v20 הַיְתֵדֹ֞ת|hay·ṯê·ḏōṯ|the tent pegs|H3489|Art | N-fp
 v20 לַמִּשְׁכָּ֧ן|lam·miš·kān|for the tabernacle|H4908|Prep-l, Art | N-ms
 v20 וְלֶחָצֵ֛ר|wə·le·ḥā·ṣêr|courtyard|H2691|Conj-w, Prep-l, Art | N-cs
 v20 סָבִ֖יב|sā·ḇîḇ|and for the surrounding|H5439|Adv
-v20 נְחֹֽשֶׁת׃ס|nə·ḥō·šeṯ|were bronze|H5178|N-fs
+v20 נְחֹֽשֶׁת׃|nə·ḥō·šeṯ|were bronze|H5178|N-fs
 v21 אֵ֣לֶּה|’êl·leh|This|H428|Pro-cp
 v21 פְקוּדֵ֤י|p̄ə·qū·ḏê|is the inventory|H6485|V-Qal-QalPassPrtcpl-mpc
 v21 הַמִּשְׁכָּן֙|ham·miš·kān|for the tabernacle|H4908|Art | N-ms
@@ -281,7 +281,7 @@ v23 בַּתְּכֵ֙לֶת֙|bat·tə·ḵê·leṯ|in blue|H8504|Prep-b, Art 
 v23 וּבָֽאַרְגָּמָ֔ן|ū·ḇā·’ar·gā·mān|purple|H713|Conj-w, Prep-b, Art | N-ms
 v23 וּבְתוֹלַ֥עַת|ū·ḇə·ṯō·w·la·‘aṯ|and scarlet yarn|H8438|Conj-w, Prep-b | N-fsc
 v23 הַשָּׁנִ֖י|haš·šā·nî|...|H8144|Art | N-ms
-v23 וּבַשֵּֽׁשׁ׃ס|ū·ḇaš·šêš|and fine linen|H8336|Conj-w, Prep-b, Art | N-ms
+v23 וּבַשֵּֽׁשׁ׃|ū·ḇaš·šêš|and fine linen|H8336|Conj-w, Prep-b, Art | N-ms
 v24 כָּל־|kāl-|All|H3605|N-msc
 v24 הַזָּהָ֗ב|haz·zā·hāḇ|the gold|H2091|Art | N-ms
 v24 הֶֽעָשׂוּי֙|he·‘ā·śui|used|H6213|Art | V-Qal-QalPassPrtcpl-ms
@@ -371,11 +371,11 @@ v29 הַתְּנוּפָ֖ה|hat·tə·nū·p̄āh|from the wave offering|H8573|
 v29 שִׁבְעִ֣ים|šiḇ·‘îm|totaled 70|H7657|Number-cp
 v29 כִּכָּ֑ר|kik·kār|talents|H3603|N-fs
 v29 וְאַלְפַּ֥יִם|wə·’al·pa·yim|and 2,400|H505|Conj-w | Number-md
-v29 וְאַרְבַּע־|wə·’ar·ba‘-||H702|Conj-w | Number-fsc
-v29 מֵא֖וֹת|mê·’ō·wṯ||H3967|Number-fp
+v29 וְאַרְבַּע־|wə·’ar·ba‘-|-|H702|Conj-w | Number-fsc
+v29 מֵא֖וֹת|mê·’ō·wṯ|-|H3967|Number-fp
 v29 שָֽׁקֶל׃|šā·qel|shekels|H8255|N-ms
 v30 וַיַּ֣עַשׂ|way·ya·‘aś|He used it to make|H6213|Conj-w | V-Qal-ConsecImperf-3ms
-v30 בָּ֗הּ|bāh||H0|Prep | 3fs
+v30 בָּ֗הּ|bāh|-|H0|Prep | 3fs
 v30 אֶת־|’eṯ-|-|H853|DirObjM
 v30 אַדְנֵי֙|’aḏ·nê|the bases|H134|N-mpc
 v30 פֶּ֚תַח|pe·ṯaḥ|for the entrance|H6607|N-msc
@@ -388,7 +388,7 @@ v30 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v30 מִכְבַּ֥ר|miḵ·bar|grating|H4345|N-msc
 v30 הַנְּחֹ֖שֶׁת|han·nə·ḥō·šeṯ|and its bronze|H5178|Art | N-fs
 v30 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v30 ל֑וֹ|lōw||H0|Prep | 3ms
+v30 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v30 וְאֵ֖ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v30 כָּל־|kāl-|all|H3605|N-msc
 v30 כְּלֵ֥י|kə·lê|the utensils|H3627|N-mpc

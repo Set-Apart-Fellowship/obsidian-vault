@@ -10,7 +10,7 @@ v1 הַשְּׁלִישִֽׁי׃|haš·šə·lî·šî|the third|H7992|Art | Nu
 v2 נוֹחָה֙|nō·w·ḥāh|Nohah|H5119|N-proper-ms
 v2 הָֽרְבִיעִ֔י|hā·rə·ḇî·‘î|the fourth|H7243|Art | Number-oms
 v2 וְרָפָ֖א|wə·rā·p̄ā|and Rapha|H7498|Conj-w | N-proper-ms
-v2 הַחֲמִישִֽׁי׃ס|ha·ḥă·mî·šî|the fifth|H2549|Art | Number-oms
+v2 הַחֲמִישִֽׁי׃|ha·ḥă·mî·šî|the fifth|H2549|Art | Number-oms
 v3 וַיִּהְי֥וּ|way·yih·yū|-|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v3 בָנִ֖ים|ḇā·nîm|The sons|H1121|N-mp
 v3 לְבָ֑לַע|lə·ḇā·la‘|of Bela|H1106|Prep-l | N-proper-ms
@@ -167,7 +167,7 @@ v28 לְתֹלְדוֹתָ֖ם|lə·ṯō·lə·ḏō·w·ṯām|according to th
 v28 רָאשִׁ֑ים|rā·šîm|the chiefs|H7218|N-mp
 v28 אֵ֖לֶּה|’êl·leh|...|H428|Pro-cp
 v28 יָשְׁב֥וּ|yā·šə·ḇū|and they lived|H3427|V-Qal-Perf-3cp
-v28 בִירוּשָׁלִָֽם׃ס|ḇî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
+v28 בִירוּשָׁלִָֽם׃|ḇî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v29 וּבְגִבְע֥וֹן|ū·ḇə·ḡiḇ·‘ō·wn|of Gibeon|H1391|Conj-w, Prep-b | N-proper-fs
 v29 יָשְׁב֖וּ|yā·šə·ḇū|lived|H3427|V-Qal-Perf-3cp
 v29 אֲבִ֣י|’ă·ḇî|[Jeiel] the father|H1|N-msc
@@ -196,7 +196,7 @@ v32 אֲחֵיהֶ֛ם|’ă·ḥê·hem|their relatives|H251|N-mpc | 3mp
 v32 יָשְׁב֥וּ|yā·šə·ḇū|lived|H3427|V-Qal-Perf-3cp
 v32 בִירוּשָׁלִַ֖ם|ḇî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v32 עִם־|‘im-|-|H5973|Prep
-v32 אֲחֵיהֶֽם׃ס|’ă·ḥê·hem|-|H251|N-mpc | 3mp
+v32 אֲחֵיהֶֽם׃|’ă·ḥê·hem|-|H251|N-mpc | 3mp
 v33 וְנֵר֙|wə·nêr|Ner|H5369|Conj-w | N-proper-ms
 v33 הוֹלִ֣יד|hō·w·lîḏ|was the father of|H3205|V-Hifil-Perf-3ms
 v33 אֶת־|’eṯ-|-|H853|DirObjM
@@ -210,7 +210,7 @@ v33 הוֹלִ֤יד|hō·w·lîḏ|was the father of|H3205|V-Hifil-Perf-3ms
 v33 אֶת־|’eṯ-|-|H853|DirObjM
 v33 יְהֽוֹנָתָן֙|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
 v33 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v33 מַלְכִּי־|mal·kî-|vvv|H4444|Prep
+v33 מַלְכִּי־|mal·kî-|...|H4444|Prep
 v33 שׁ֔וּעַ|šū·a‘|Malchishua|H4444|N-proper-ms
 v33 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v33 אֲבִֽינָדָ֖ב|’ă·ḇî·nā·ḏāḇ|Abinadab|H41|N-proper-ms
@@ -218,13 +218,13 @@ v33 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v33 אֶשְׁבָּֽעַל׃|’eš·bā·‘al|and Esh-baal|H792|N-proper-ms
 v34 וּבֶן־|ū·ḇen-|The son|H1121|Conj-w | N-msc
 v34 יְהוֹנָתָ֖ן|yə·hō·w·nā·ṯān|of Jonathan|H3083|N-proper-ms
-v34 מְרִ֣יב|mə·rîḇ|vvv|H4807|Prep
+v34 מְרִ֣יב|mə·rîḇ|...|H4807|Prep
 v34 בָּ֑עַל|bā·‘al|Merib-baal|H4807|N-proper-ms
-v34 וּמְרִ֥יב|ū·mə·rîḇ|vvv|H4807|
+v34 וּמְרִ֥יב|ū·mə·rîḇ|...|H4807|
 v34 בַּ֖עַל|ba·‘al|and Merib-baal|H4807|Conj-w | N-proper-ms
 v34 הוֹלִ֥יד|hō·w·lîḏ|was the father of|H3205|V-Hifil-Perf-3ms
 v34 אֶת־|’eṯ-|-|H853|DirObjM
-v34 מִיכָֽה׃ס|mî·ḵāh|Micah|H4318|N-proper-ms
+v34 מִיכָֽה׃|mî·ḵāh|Micah|H4318|N-proper-ms
 v35 וּבְנֵ֖י|ū·ḇə·nê|The sons|H1121|Conj-w | N-mpc
 v35 מִיכָ֑ה|mî·ḵāh|of Micah|H4318|N-proper-ms
 v35 פִּית֥וֹן|pî·ṯō·wn|Pithon|H6377|N-proper-ms
@@ -298,4 +298,4 @@ v40 וַחֲמִשִּׁ֑ים|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number
 v40 כָּל־|kāl-|All|H3605|N-msc
 v40 אֵ֖לֶּה|’êl·leh|these|H428|Pro-cp
 v40 מִבְּנֵ֥י|mib·bə·nê|[were] the descendants|H1121|Prep-m | N-mpc
-v40 בִנְיָמִֽן׃פ|ḇin·yā·min|of Benjamin|H1144|N-proper-ms
+v40 בִנְיָמִֽן׃|ḇin·yā·min|of Benjamin|H1144|N-proper-ms

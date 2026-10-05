@@ -12,7 +12,7 @@ v2 וַיִּבְרַ֥ח|way·yiḇ·raḥ|...|H1272|Conj-w | V-Qal-ConsecImper
 v2 כַּ֝צֵּ֗ל|kaṣ·ṣêl|like a fleeting shadow|H6738|Prep-k, Art | N-ms
 v2 וְלֹ֣א|wə·lō|he does not|H3808|Conj-w | Adv-NegPrt
 v2 יַעֲמֽוֹד׃|ya·‘ă·mō·wḏ|endure|H5975|V-Qal-Imperf-3ms
-v3 אַף־|’ap̄-||H637|Conj
+v3 אַף־|’ap̄-|-|H637|Conj
 v3 עַל־|‘al-|You|H5921|Prep
 v3 זֶ֭ה|zeh|to one like this|H2088|Pro-ms
 v3 פָּקַ֣חְתָּ|pā·qaḥ·tā|Do You open|H6491|V-Qal-Perf-2ms
@@ -167,11 +167,11 @@ v21 יֵדָ֑ע|yê·ḏā‘|know it|H3045|V-Qal-Imperf-3ms
 v21 וְ֝יִצְעֲר֗וּ|wə·yiṣ·‘ă·rū|if they are brought low|H6819|Conj-w | V-Qal-ConjImperf-3mp
 v21 וְֽלֹא־|wə·lō-|he is unaware|H3808|Conj-w | Adv-NegPrt
 v21 יָבִ֥ין|yā·ḇîn|...|H995|V-Qal-Imperf-3ms
-v21 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v21 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v22 אַךְ־|’aḵ-|He feels only|H389|Adv
 v22 בְּ֭שָׂרוֹ|bə·śā·rōw|of his own body|H1320|N-msc | 3ms
 v22 עָלָ֣יו|‘ā·lāw|only for|H5921|Prep | 3ms
 v22 יִכְאָ֑ב|yiḵ·’āḇ|the pain|H3510|V-Qal-Imperf-3ms
 v22 וְ֝נַפְשׁ֗וֹ|wə·nap̄·šōw|himself|H5315|Conj-w | N-fsc | 3ms
 v22 עָלָ֥יו|‘ā·lāw|...|H5921|Prep | 3ms
-v22 תֶּאֱבָֽל׃פ|te·’ĕ·ḇāl|and mourns|H56|V-Qal-Imperf-3fs
+v22 תֶּאֱבָֽל׃|te·’ĕ·ḇāl|and mourns|H56|V-Qal-Imperf-3fs

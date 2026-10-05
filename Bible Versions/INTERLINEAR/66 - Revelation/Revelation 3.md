@@ -31,7 +31,7 @@ v1 ζῇς|zēs|being alive|G2198|V-PIA-2S
 v1 καὶ|kai|yet|G2532|Conj
 v1 νεκρὸς|nekros|dead|G3498|Adj-NMS
 v1 εἶ|ei|you are|G1510|V-PIA-2S
-v2 γίνου|ginou|vvv|G1096|V-PMM/P-2S
+v2 γίνου|ginou|...|G1096|V-PMM/P-2S
 v2 γρηγορῶν|grēgorōn|Wake up|G1127|V-PPA-NMS
 v2 καὶ|kai|and|G2532|Conj
 v2 στήρισον|stērison|strengthen|G4741|V-AMA-2S
@@ -40,7 +40,7 @@ v2 λοιπὰ|loipa|remains|G3062|Adj-ANP
 v2 ἃ|ha|which|G3739|RelPro-NNP
 v2 ἔμελλον|emellon|is about|G3195|V-IIA-3P
 v2 ἀποθανεῖν|apothanein|to die|G599|V-ANA
-v2 οὐ|ou|vvv|G3756|Adv
+v2 οὐ|ou|...|G3756|Adv
 v2 γὰρ|gar|for|G1063|Conj
 v2 εὕρηκά|heurēka|I have found|G2147|V-RIA-1S
 v2 σου|sou|your|G4771|PPro-G2S
@@ -63,14 +63,14 @@ v3 καὶ|kai|and|G2532|Conj
 v3 μετανόησον|metanoēson|repent|G3340|V-AMA-2S
 v3 ἐὰν|ean|If|G1437|Conj
 v3 οὖν|oun|-|G3767|Conj
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 γρηγορήσῃς|grēgorēsēs|you do not wake up|G1127|V-ASA-2S
 v3 ἥξω|hēxō|I will come|G2240|V-FIA-1S
 v3 ὡς|hōs|like|G5613|Adv
 v3 κλέπτης|kleptēs|a thief|G2812|N-NMS
 v3 καὶ|kai|and|G2532|Conj
-v3 οὐ|ou|vvv|G3756|Adv
-v3 μὴ|mē|vvv|G3361|Adv
+v3 οὐ|ou|...|G3756|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 γνῷς|gnōs|you will not know|G1097|V-ASA-2S
 v3 ποίαν|poian|when|G4169|IPro-AFS
 v3 ὥραν|hōran|the hour|G5610|N-AFS
@@ -84,7 +84,7 @@ v4 ὀνόματα|onomata|people|G3686|N-ANP
 v4 ἐν|en|in|G1722|Prep
 v4 Σάρδεσιν|Sardesin|Sardis|G4554|N-DFP
 v4 ἃ|ha|who|G3739|RelPro-NNP
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 ἐμόλυναν|emolynan|have not soiled|G3435|V-AIA-3P
 v4 τὰ|ta|-|G3588|Art-ANP
 v4 ἱμάτια|himatia|garments|G2440|N-ANP
@@ -106,8 +106,8 @@ v5 ἐν|en|in|G1722|Prep
 v5 ἱματίοις|himatiois|-|G2440|N-DNP
 v5 λευκοῖς|leukois|white|G3022|Adj-DNP
 v5 καὶ|kai|And|G2532|Conj
-v5 οὐ|ou|vvv|G3756|Adv
-v5 μὴ|mē|vvv|G3361|Adv
+v5 οὐ|ou|...|G3756|Adv
+v5 μὴ|mē|...|G3361|Adv
 v5 ἐξαλείψω|exaleipsō|I will never blot out|G1813|V-FIA-1S
 v5 τὸ|to|-|G3588|Art-ANS
 v5 ὄνομα|onoma|name|G3686|N-ANS
@@ -195,13 +195,13 @@ v8 μου|mou|My|G1473|PPro-G1S
 v8 τὸν|ton|-|G3588|Art-AMS
 v8 λόγον|logon|word|G3056|N-AMS
 v8 καὶ|kai|and|G2532|Conj
-v8 οὐκ|ouk|vvv|G3756|Adv
+v8 οὐκ|ouk|...|G3756|Adv
 v8 ἠρνήσω|ērnēsō|have not denied|G720|V-AIM-2S
 v8 τὸ|to|-|G3588|Art-ANS
 v8 ὄνομά|onoma|name|G3686|N-ANS
 v8 μου|mou|My|G1473|PPro-G1S
 v9 ἰδοὺ|idou|As for|G2400|V-AMA-2S
-v9 διδῶ|didō|vvv|G1325|V-PSA-1S
+v9 διδῶ|didō|...|G1325|V-PSA-1S
 v9 ἐκ|ek|[those who belong] to|G1537|Prep
 v9 τῆς|tēs|the|G3588|Art-GFS
 v9 συναγωγῆς|synagōgēs|synagogue|G4864|N-GFS
@@ -241,7 +241,7 @@ v10 λόγον|logon|command|G3056|N-AMS
 v10 τῆς|tēs|-|G3588|Art-GFS
 v10 ὑπομονῆς|hypomonēs|to persevere|G5281|N-GFS
 v10 μου|mou|My|G1473|PPro-G1S
-v10 κἀγώ|kagō|vvv|G2504|PPro-N1S
+v10 κἀγώ|kagō|...|G2504|PPro-N1S
 v10 σε|se|you|G4771|PPro-A2S
 v10 τηρήσω|tērēsō|I will also keep|G5083|V-FIA-1S
 v10 ἐκ|ek|from|G1537|Prep
@@ -286,10 +286,10 @@ v12 Θεοῦ|Theou|God|G2316|N-GMS
 v12 μου|mou|My|G1473|PPro-G1S
 v12 καὶ|kai|and|G2532|Conj
 v12 ἔξω|exō|...|G1854|Adv
-v12 οὐ|ou|vvv|G3756|Adv
-v12 μὴ|mē|vvv|G3361|Adv
+v12 οὐ|ou|...|G3756|Adv
+v12 μὴ|mē|...|G3361|Adv
 v12 ἐξέλθῃ|exelthē|he will never again leave [it]|G1831|V-ASA-3S
-v12 ἔτι|eti|vvv|G2089|Adv
+v12 ἔτι|eti|...|G2089|Adv
 v12 καὶ|kai|-|G2532|Conj
 v12 γράψω|grapsō|I will write|G1125|V-FIA-1S
 v12 ἐπ’|ep’|Upon|G1909|Prep
@@ -400,9 +400,9 @@ v17 πεπλούτηκα|peploutēka|I have grown wealthy|G4147|V-RIA-1S
 v17 καὶ|kai|and|G2532|Conj
 v17 οὐδὲν|ouden|nothing|G3762|Adj-ANS
 v17 χρείαν|chreian|need|G5532|N-AFS
-v17 ἔχω|echō|vvv|G2192|V-PIA-1S
+v17 ἔχω|echō|...|G2192|V-PIA-1S
 v17 καὶ|kai|[But]|G2532|Conj
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 οἶδας|oidas|you do not realize|G1492|V-RIA-2S
 v17 ὅτι|hoti|that|G3754|Conj
 v17 σὺ|sy|you|G4771|PPro-N2S
@@ -434,7 +434,7 @@ v18 λευκὰ|leuka|white|G3022|Adj-ANP
 v18 ἵνα|hina|so that|G2443|Conj
 v18 περιβάλῃ|peribalē|you may be clothed|G4016|V-ASM-2S
 v18 καὶ|kai|and|G2532|Conj
-v18 μὴ|mē|vvv|G3361|Adv
+v18 μὴ|mē|...|G3361|Adv
 v18 φανερωθῇ|phanerōthē|not exposed|G5319|V-ASP-3S
 v18 ἡ|hē|-|G3588|Art-NFS
 v18 αἰσχύνη|aischynē|shameful|G152|N-NFS
@@ -451,7 +451,7 @@ v18 ἵνα|hina|so that|G2443|Conj
 v18 βλέπῃς|blepēs|you may see|G991|V-PSA-2S
 v19 ἐγὼ|egō|I|G1473|PPro-N1S
 v19 ὅσους|hosous|Those|G3745|RelPro-AMP
-v19 ἐὰν|ean|vvv|G1437|Conj
+v19 ἐὰν|ean|...|G1437|Conj
 v19 φιλῶ|philō|love|G5368|V-PSA-1S
 v19 ἐλέγχω|elenchō|I rebuke|G1651|V-PIA-1S
 v19 καὶ|kai|and|G2532|Conj

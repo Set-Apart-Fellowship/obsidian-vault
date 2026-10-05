@@ -18,8 +18,8 @@ v2 παρακαλῶ|parakalō|I urge|G3870|V-PIA-1S
 v2 καὶ|kai|and|G2532|Conj
 v2 Συντύχην|Syntychēn|Syntyche|G4941|N-AFS
 v2 παρακαλῶ|parakalō|-|G3870|V-PIA-1S
-v2 τὸ|to|vvv|G3588|Art-ANS
-v2 αὐτὸ|auto|vvv|G846|PPro-AN3S
+v2 τὸ|to|...|G3588|Art-ANS
+v2 αὐτὸ|auto|...|G846|PPro-AN3S
 v2 φρονεῖν|phronein|to agree [with each other]|G5426|V-PNA
 v2 ἐν|en|in|G1722|Prep
 v2 Κυρίῳ|Kyriō|[the] Lord|G2962|N-DMS
@@ -158,20 +158,20 @@ v10 ἐν|en|in|G1722|Prep
 v10 Κυρίῳ|Kyriō|[the] Lord|G2962|N-DMS
 v10 μεγάλως|megalōs|greatly|G3171|Adv
 v10 ὅτι|hoti|that|G3754|Conj
-v10 ἤδη|ēdē|vvv|G2235|Adv
+v10 ἤδη|ēdē|...|G2235|Adv
 v10 ποτὲ|pote|at last|G4218|Adv
 v10 ἀνεθάλετε|anethalete|you have revived|G330|V-AIA-2P
 v10 τὸ|to|[your]|G3588|Art-ANS
 v10 ὑπὲρ|hyper|for|G5228|Prep
 v10 ἐμοῦ|emou|me|G1473|PPro-G1S
 v10 φρονεῖν|phronein|concern|G5426|V-PNA
-v10 ἐφ’|eph’|vvv|G1909|Prep
-v10 ᾧ|hō|vvv|G3739|RelPro-DNS
-v10 καὶ|kai|vvv|G2532|Conj
+v10 ἐφ’|eph’|...|G1909|Prep
+v10 ᾧ|hō|...|G3739|RelPro-DNS
+v10 καὶ|kai|...|G2532|Conj
 v10 ἐφρονεῖτε|ephroneite|You were indeed concerned|G5426|V-IIA-2P
 v10 ἠκαιρεῖσθε|ēkaireisthe|you had no opportunity [to show it]|G170|V-IIM/P-2P
 v10 δέ|de|but|G1161|Conj
-v11 οὐχ|ouch|vvv|G3756|Adv
+v11 οὐχ|ouch|...|G3756|Adv
 v11 ὅτι|hoti|-|G3754|Conj
 v11 καθ’|kath’|out of|G2596|Prep
 v11 ὑστέρησιν|hysterēsin|need|G5304|N-AFS
@@ -248,7 +248,7 @@ v16 ὅτι|hoti|For|G3754|Conj
 v16 καὶ|kai|even|G2532|Conj
 v16 ἐν|en|[while I was] in|G1722|Prep
 v16 Θεσσαλονίκῃ|Thessalonikē|Thessalonica|G2332|N-DFS
-v16 καὶ|kai|vvv|G2532|Conj
+v16 καὶ|kai|...|G2532|Conj
 v16 ἅπαξ|hapax|again|G530|Adv
 v16 καὶ|kai|and|G2532|Conj
 v16 δὶς|dis|again|G1364|Adv
@@ -281,7 +281,7 @@ v18 δεξάμενος|dexamenos|now that I have received|G1209|V-APM-NMS
 v18 παρὰ|para|from|G3844|Prep
 v18 Ἐπαφροδίτου|Epaphroditou|Epaphroditus|G1891|N-GMS
 v18 τὰ|ta|gifts|G3588|Art-ANP
-v18 παρ’|par’|vvv|G3844|Prep
+v18 παρ’|par’|...|G3844|Prep
 v18 ὑμῶν|hymōn|your|G4771|PPro-G2P
 v18 ὀσμὴν|osmēn|...|G3744|N-AFS
 v18 εὐωδίας|euōdias|[They are] a fragrant [offering]|G2175|N-GFS
@@ -302,7 +302,7 @@ v19 κατὰ|kata|according to|G2596|Prep
 v19 τὸ|to|-|G3588|Art-ANS
 v19 πλοῦτος|ploutos|riches|G4149|N-ANS
 v19 αὐτοῦ|autou|His|G846|PPro-GM3S
-v19 ἐν|en|vvv|G1722|Prep
+v19 ἐν|en|...|G1722|Prep
 v19 δόξῃ|doxē|glorious|G1391|N-DFS
 v19 ἐν|en|in|G1722|Prep
 v19 Χριστῷ|Christō|Christ|G5547|N-DMS
@@ -315,8 +315,8 @@ v20 Πατρὶ|Patri|Father|G3962|N-DMS
 v20 ἡμῶν|hēmōn|our|G1473|PPro-G1P
 v20 ἡ|hē|[be]|G3588|Art-NFS
 v20 δόξα|doxa|glory|G1391|N-NFS
-v20 εἰς|eis|vvv|G1519|Prep
-v20 τοὺς|tous|vvv|G3588|Art-AMP
+v20 εἰς|eis|...|G1519|Prep
+v20 τοὺς|tous|...|G3588|Art-AMP
 v20 αἰῶνας|aiōnas|forever|G165|N-AMP
 v20 τῶν|tōn|[and]|G3588|Art-GMP
 v20 αἰώνων|aiōnōn|ever|G165|N-GMP

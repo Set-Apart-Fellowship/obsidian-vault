@@ -88,7 +88,7 @@ v10 אוֹיְבֶֽיךָ׃|’ō·wy·ḇe·ḵā|Your enemies|H341|V-Qal-Prtc
 v11 לְךָ֣|lə·ḵā|are Yours|H0|Prep | 2ms
 v11 שָׁ֭מַיִם|šā·ma·yim|The heavens|H8064|N-mp
 v11 אַף־|’ap̄-|and also|H637|Conj
-v11 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v11 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v11 אָ֑רֶץ|’ā·reṣ|the earth|H776|N-fs
 v11 תֵּבֵ֥ל|tê·ḇêl|The earth|H8398|N-fs
 v11 וּ֝מְלֹאָ֗הּ|ū·mə·lō·’āh|and its fullness|H4393|Conj-w | N-msc | 3fs
@@ -102,7 +102,7 @@ v12 תָּב֥וֹר|tā·ḇō·wr|Tabor|H8396|N-proper-fs
 v12 וְ֝חֶרְמ֗וֹן|wə·ḥer·mō·wn|and Hermon|H2768|Conj-w | N-proper-fs
 v12 בְּשִׁמְךָ֥|bə·šim·ḵā|at Your name|H8034|Prep-b | N-msc | 2ms
 v12 יְרַנֵּֽנוּ׃|yə·ran·nê·nū|shout for joy|H7442|V-Piel-Imperf-3mp
-v13 לְךָ֣|lə·ḵā||H0|Prep | 2ms
+v13 לְךָ֣|lə·ḵā|-|H0|Prep | 2ms
 v13 זְ֭רוֹעַ|zə·rō·w·a‘|arm|H2220|N-fs
 v13 עִם־|‘im-|is Your|H5973|Prep
 v13 גְּבוּרָ֑ה|gə·ḇū·rāh|Mighty|H1369|N-fs
@@ -173,7 +173,7 @@ v21 תְאַמְּצֶֽנּוּ׃|ṯə·’am·mə·ṣen·nū|will strengthen
 v22 לֹֽא־|lō-|No|H3808|Adv-NegPrt
 v22 יַשִּׁ֣א|yaš·ši|will exact tribute|H5377|V-Hifil-Imperf-3ms
 v22 אוֹיֵ֣ב|’ō·w·yêḇ|enemy|H341|V-Qal-Prtcpl-ms
-v22 בּ֑וֹ|bōw||H0|Prep | 3ms
+v22 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v22 וּבֶן־|ū·ḇen-|man|H1121|Conj-w | N-msc
 v22 עַ֝וְלָ֗ה|‘aw·lāh|wicked|H5766|N-fs
 v22 לֹ֣א|lō|no|H3808|Adv-NegPrt
@@ -333,14 +333,14 @@ v46 אֵ֣שׁ|’êš|fire|H784|N-cs
 v46 חֲמָתֶֽךָ׃|ḥă·mā·ṯe·ḵā|Will Your wrath|H2534|N-fsc | 2ms
 v47 זְכָר־|zə·ḵār-|Remember|H2142|V-Qal-Imp-ms
 v47 אֲנִ֥י|’ă·nî|of my lifespan|H589|Pro-1cs
-v47 מֶה־|meh-|vvv|H4100|Interrog
+v47 מֶה־|meh-|...|H4100|Interrog
 v47 חָ֑לֶד|ḥā·leḏ|the briefness|H2465|N-ms
 v47 עַל־|‘al-|For|H5921|Prep
 v47 מַה־|ma·hō·šā-|what|H4100|Interrog
 v47 שָּׁ֝֗וְא|šā·wəʾ|futility|H7723|N-ms
 v47 בָּרָ֥אתָ|bā·rā·ṯā|You have created|H1254|V-Qal-Perf-2ms
 v47 כָל־|ḵāl|all|H3605|N-msc
-v47 בְּנֵי־|bə·nê-|vvv|H1121|N-mpc
+v47 בְּנֵי־|bə·nê-|...|H1121|N-mpc
 v47 אָדָֽם׃|’ā·ḏām|men|H120|N-ms
 v48 מִ֤י|mî|What|H4310|Interrog
 v48 גֶ֣בֶר|ḡe·ḇer|man|H1397|N-ms

@@ -142,7 +142,7 @@ v8 וְהַיְבוּסִֽי׃|wə·hay·ḇū·sî|and Jebusites|H2983|Conj-w,
 v9 וְעַתָּ֕ה|wə·‘at·tāh|And now|H6258|Conj-w | Adv
 v9 הִנֵּ֛ה|hin·nêh|...|H2009|Interjection
 v9 צַעֲקַ֥ת|ṣa·‘ă·qaṯ|the cry|H6818|N-fsc
-v9 בְּנֵי־|bə·nê-|vvv|H1121|N-mpc
+v9 בְּנֵי־|bə·nê-|...|H1121|N-mpc
 v9 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v9 בָּ֣אָה|bā·’āh|has reached|H935|V-Qal-Perf-3fs
 v9 אֵלָ֑י|’ê·lāy|Me|H413|Prep | 1cs
@@ -167,7 +167,7 @@ v10 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v10 מִמִּצְרָֽיִם׃|mim·miṣ·rā·yim|out of Egypt|H4714|Prep-m | N-proper-fs
 v11 וַיֹּ֤אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 מֹשֶׁה֙|mō·šeh|But Moses|H4872|N-proper-ms
-v11 אֶל־|’el-||H413|Prep
+v11 אֶל־|’el-|-|H413|Prep
 v11 הָ֣אֱלֹהִ֔ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
 v11 מִ֣י|mî|Who|H4310|Interrog
 v11 אָנֹ֔כִי|’ā·nō·ḵî|am I|H595|Pro-1cs
@@ -203,7 +203,7 @@ v12 הָהָ֥ר|hā·hār|mountain|H2022|Art | N-ms
 v12 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v13 וַיֹּ֨אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 מֹשֶׁ֜ה|mō·šeh|Then Moses|H4872|N-proper-ms
-v13 אֶל־|’el-||H413|Prep
+v13 אֶל־|’el-|-|H413|Prep
 v13 הָֽאֱלֹהִ֗ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
 v13 הִנֵּ֨ה|hin·nêh|Suppose|H2009|Interjection
 v13 אָנֹכִ֣י|’ā·nō·ḵî|I|H595|Pro-1cs

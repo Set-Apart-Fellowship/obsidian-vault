@@ -177,7 +177,7 @@ v12 וַֽיְבָרֲכֵ֖הוּ|way·ḇā·ră·ḵê·hū|blessed him|H128
 v12 יְהוָֽה׃|Yah·weh|And the LORD|H3068|N-proper-ms
 v13 וַיִּגְדַּ֖ל|way·yiḡ·dal|became richer and richer|H1431|Conj-w | V-Qal-ConsecImperf-3ms
 v13 הָאִ֑ישׁ|hā·’îš|and [he]|H376|Art | N-ms
-v13 וַיֵּ֤לֶךְ|way·yê·leḵ|vvv|H1980|Conj-w | V-Qal-ConsecImperf-3ms
+v13 וַיֵּ֤לֶךְ|way·yê·leḵ|...|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v13 הָלוֹךְ֙|hā·lō·wḵ|...|H1980|V-Qal-InfAbs
 v13 וְגָדֵ֔ל|wə·ḡā·ḏêl|wealthy|H1432|Conj-w | V-Qal-Prtcpl-ms
 v13 עַ֥ד|‘aḏ|until|H5704|Prep
@@ -185,7 +185,7 @@ v13 כִּֽי־|kî-|...|H3588|Conj
 v13 גָדַ֖ל|ḡā·ḏal|...|H1431|V-Qal-Perf-3ms
 v13 מְאֹֽד׃|mə·’ōḏ|he was exceedingly|H3966|Adv
 v14 וַֽיְהִי־|way·hî-|He owned so many|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v14 ל֤וֹ|lōw||H0|Prep | 3ms
+v14 ל֤וֹ|lōw|-|H0|Prep | 3ms
 v14 מִקְנֵה־|miq·nêh-|flocks|H4735|N-msc
 v14 צֹאן֙|ṣōn|...|H6629|N-csc
 v14 וּמִקְנֵ֣ה|ū·miq·nêh|and herds|H4735|Conj-w | N-msc
@@ -266,7 +266,7 @@ v20 עִם־|‘im-|with|H5973|Prep
 v20 רֹעֵ֥י|rō·‘ê|herdsmen|H7462|V-Qal-Prtcpl-mpc
 v20 יִצְחָ֛ק|yiṣ·ḥāq|Isaac's|H3327|N-proper-ms
 v20 לֵאמֹ֖ר|lê·mōr|and said|H559|Prep-l | V-Qal-Inf
-v20 לָ֣נוּ|lā·nū||H0|Prep | 1cp
+v20 לָ֣נוּ|lā·nū|-|H0|Prep | 1cp
 v20 הַמָּ֑יִם|ham·mā·yim|The water is ours|H4325|Art | N-mp
 v20 וַיִּקְרָ֤א|way·yiq·rā|So he named|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v20 שֵֽׁם־|šêm-|...|H8034|N-msc
@@ -305,7 +305,7 @@ v22 וּפָרִ֥ינוּ|ū·p̄ā·rî·nū|and we will be fruitful|H6509|Con
 v22 בָאָֽרֶץ׃|ḇā·’ā·reṣ|in the land|H776|Prep-b, Art | N-fs
 v23 וַיַּ֥עַל|way·ya·‘al|[Isaac] went up|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v23 מִשָּׁ֖ם|miš·šām|From there|H8033|Prep-m | Adv
-v23 בְּאֵ֥ר|bə·’êr||H884|Prep
+v23 בְּאֵ֥ר|bə·’êr|-|H884|Prep
 v23 שָֽׁבַע׃|šā·ḇa‘|to Beersheba|H884|N-proper-fs
 v24 וַיֵּרָ֨א|way·yê·rā|appeared|H7200|Conj-w | V-Nifal-ConsecImperf-3ms
 v24 אֵלָ֤יו|’ê·lāw|to him|H413|Prep | 3ms
@@ -381,7 +381,7 @@ v28 וְנִכְרְתָ֥ה|wə·niḵ·rə·ṯāh|Let us make|H3772|Conj-w | 
 v28 בְרִ֖ית|ḇə·rîṯ|a covenant|H1285|N-fs
 v28 עִמָּֽךְ׃|‘im·māḵ|with you|H5973|Prep | 2fs
 v29 אִם־|’im-|that you will not|H518|Conj
-v29 תַּעֲשֵׂ֨ה|ta·ʿă·śēh||H6213|V-Qal-Imperf-2ms
+v29 תַּעֲשֵׂ֨ה|ta·ʿă·śēh|-|H6213|V-Qal-Imperf-2ms
 v29 עִמָּ֜נוּ|‘im·mā·nū|us|H5973|Prep | 1cp
 v29 רָעָ֗ה|rā·‘āh|harm|H7451|Adj-fs
 v29 כַּאֲשֶׁר֙|ka·’ă·šer|just as|H834|Prep-k | Pro-r
@@ -437,11 +437,11 @@ v33 עַל־|‘al-|and|H5921|Prep
 v33 כֵּ֤ן|kên|-|H3651|Adv
 v33 שֵׁם־|šêm-|the name|H8034|N-msc
 v33 הָעִיר֙|hā·‘îr|of the city|H5892|Art | N-fs
-v33 בְּאֵ֣ר|bə·’êr|vvv|H884|Prep
+v33 בְּאֵ֣ר|bə·’êr|...|H884|Prep
 v33 שֶׁ֔בַע|še·ḇa‘|is Beersheba|H884|N-proper-fs
 v33 עַ֖ד|‘aḏ|to|H5704|Prep
 v33 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v33 הַזֶּֽה׃ס|haz·zeh|this|H2088|Art | Pro-ms
+v33 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v34 וַיְהִ֤י|way·hî|was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v34 עֵשָׂו֙|‘ê·śāw|When Esau|H6215|N-proper-ms
 v34 בֶּן־|ben-|years old|H1121|N-msc
@@ -463,4 +463,4 @@ v35 וַתִּהְיֶ֖יןָ|wat·tih·ye·nā|And|H1961|Conj-w | V-Qal-Consec
 v35 מֹ֣רַת|mō·raṯ|grief|H4786|N-fsc
 v35 ר֑וּחַ|rū·aḥ|they brought|H7307|N-cs
 v35 לְיִצְחָ֖ק|lə·yiṣ·ḥāq|to Isaac|H3327|Prep-l | N-proper-ms
-v35 וּלְרִבְקָֽה׃ס|ū·lə·riḇ·qāh|and Rebekah|H7259|Conj-w, Prep-l | N-proper-fs
+v35 וּלְרִבְקָֽה׃|ū·lə·riḇ·qāh|and Rebekah|H7259|Conj-w, Prep-l | N-proper-fs

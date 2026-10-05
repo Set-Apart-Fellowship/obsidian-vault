@@ -69,9 +69,9 @@ v5 ὡς|hōs|just as|G5613|Adv
 v5 τῷ|tō|[ you would obey ]|G3588|Art-DMS
 v5 Χριστῷ|Christō|Christ|G5547|N-DMS
 v6 μὴ|mē|[And do this] not only|G3361|Adv
-v6 κατ’|kat’|vvv|G2596|Prep
+v6 κατ’|kat’|...|G2596|Prep
 v6 ὀφθαλμοδουλίαν|ophthalmodoulian|while they are watching|G3787|N-AFS
-v6 ὡς|hōs|vvv|G5613|Adv
+v6 ὡς|hōs|...|G5613|Adv
 v6 ἀνθρωπάρεσκοι|anthrōpareskoi|to please them|G441|Adj-NMP
 v6 ἀλλ’|all’|but|G235|Conj
 v6 ὡς|hōs|as|G5613|Adv
@@ -96,7 +96,7 @@ v7 ἀνθρώποις|anthrōpois|to men|G444|N-DMP
 v8 εἰδότες|eidotes|because you know|G1492|V-RPA-NMP
 v8 ὅτι|hoti|that|G3754|Conj
 v8 ἕκαστος|hekastos|each one|G1538|Adj-NMS
-v8 ἐάν|ean|vvv|G1437|Conj
+v8 ἐάν|ean|...|G1437|Conj
 v8 τι|ti|for whatever|G5100|IPro-ANS
 v8 ποιήσῃ|poiēsē|he does|G4160|V-ASA-3S
 v8 ἀγαθόν|agathon|good|G18|Adj-ANS
@@ -145,7 +145,7 @@ v10 καὶ|kai|and|G2532|Conj
 v10 ἐν|en|in|G1722|Prep
 v10 τῷ|tō|-|G3588|Art-DNS
 v10 κράτει|kratei|mighty|G2904|N-DNS
-v10 τῆς|tēs|vvv|G3588|Art-GFS
+v10 τῆς|tēs|...|G3588|Art-GFS
 v10 ἰσχύος|ischyos|power|G2479|N-GFS
 v10 αὐτοῦ|autou|His|G846|PPro-GM3S
 v11 ἐνδύσασθε|endysasthe|Put on|G1746|V-AMM-2P
@@ -306,7 +306,7 @@ v19 ἀνοίξει|anoixei|I open|G457|N-DFS
 v19 τοῦ|tou|-|G3588|Art-GNS
 v19 στόματός|stomatos|mouth|G4750|N-GNS
 v19 μου|mou|my|G1473|PPro-G1S
-v19 ἐν|en|vvv|G1722|Prep
+v19 ἐν|en|...|G1722|Prep
 v19 παρρησίᾳ|parrēsia|[so that I will] boldly|G3954|N-DFS
 v19 γνωρίσαι|gnōrisai|make known|G1107|V-ANA
 v19 τὸ|to|the|G3588|Art-ANS

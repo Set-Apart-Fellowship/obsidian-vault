@@ -50,7 +50,7 @@ v4 מִתּ֥וֹךְ|mit·tō·wḵ|from|H8432|Prep-m | N-msc
 v4 מַרְבֵּֽק׃|mar·bêq|the stall|H4770|N-ms
 v5 הַפֹּרְטִ֖ים|hap·pō·rə·ṭîm|You improvise|H6527|Art | V-Qal-Prtcpl-mp
 v5 עַל־|‘al-|songs|H5921|Prep
-v5 פִּ֣י|pî|vvv|H6310|N-msc
+v5 פִּ֣י|pî|...|H6310|N-msc
 v5 הַנָּ֑בֶל|han·nā·ḇel|on the harp|H5035|Art | N-ms
 v5 כְּדָוִ֕יד|kə·ḏā·wîḏ|like David|H1732|Prep-k | N-proper-ms
 v5 חָשְׁב֥וּ|ḥā·šə·ḇū|and invent|H2803|V-Qal-Perf-3cp
@@ -75,7 +75,7 @@ v7 בְּרֹ֣אשׁ|bə·rōš|as the first|H7218|Prep-b | N-ms
 v7 גֹּלִ֑ים|gō·lîm|of the captives|H1540|V-Qal-Prtcpl-mp
 v7 וְסָ֖ר|wə·sār|will come to an end|H5493|Conj-w | V-Qal-ConjPerf-3ms
 v7 מִרְזַ֥ח|mir·zaḥ|and your feasting|H4797|N-msc
-v7 סְרוּחִֽים׃פ|sə·rū·ḥîm|and lounging|H5628|Adj-mp
+v7 סְרוּחִֽים׃|sə·rū·ḥîm|and lounging|H5628|Adj-mp
 v8 נִשְׁבַּע֩|niš·ba‘|has sworn|H7650|V-Nifal-Perf-3ms
 v8 אֲדֹנָ֨י|’ă·ḏō·nāy|The Lord|H136|N-proper-ms
 v8 יְהוִ֜ה|Yah·weh|GOD|H3069|N-proper-ms
@@ -149,7 +149,7 @@ v12 וּפְרִ֥י|ū·p̄ə·rî|and the fruit|H6529|Conj-w | N-msc
 v12 צְדָקָ֖ה|ṣə·ḏā·qāh|of righteousness|H6666|N-fs
 v12 לְלַעֲנָֽה׃|lə·la·‘ă·nāh|into wormwood|H3939|Prep-l | N-fs
 v13 הַשְּׂמֵחִ֖ים|haś·śə·mê·ḥîm|you who rejoice|H8056|Art | Adj-mp
-v13 לְלֹ֣א|lə·lō|vvv|H3810|Adv-NegPrt
+v13 לְלֹ֣א|lə·lō|...|H3810|Adv-NegPrt
 v13 דָבָ֑ר|ḏā·ḇār|in Lo-debar|H3810|Prep | N-proper-fs
 v13 הָאֹ֣מְרִ֔ים|hā·’ō·mə·rîm|and say|H559|Art | V-Qal-Prtcpl-mp
 v13 הֲל֣וֹא|hă·lō·w|Did we not|H3808|Adv-NegPrt
@@ -174,4 +174,4 @@ v14 מִלְּב֥וֹא|mil·lə·ḇō·w|from Lebo-hamath|H935|Prep-m, Prep-l
 v14 חֲמָ֖ת|ḥă·māṯ|...|H2574|N-proper-fs
 v14 עַד־|‘aḏ-|to|H5704|Prep
 v14 נַ֥חַל|na·ḥal|the Brook|H5158|N-msc
-v14 הָעֲרָבָֽה׃ס|hā·‘ă·rā·ḇāh|of the Arabah|H6160|Art | N-fs
+v14 הָעֲרָבָֽה׃|hā·‘ă·rā·ḇāh|of the Arabah|H6160|Art | N-fs

@@ -58,7 +58,7 @@ v6 רֹכְבֵ֖י|rō·ḵə·ḇê|mounted on|H7392|V-Qal-Prtcpl-mpc
 v6 סוּסִֽים׃|sū·sîm|steeds|H5483|N-mp
 v7 וַתִּתֵּ֤ן|wat·tit·tên|She offered|H5414|Conj-w | V-Qal-ConsecImperf-3fs
 v7 תַּזְנוּתֶ֙יהָ֙|taz·nū·ṯe·hā|sexual favors|H8457|N-fpc | 3fs
-v7 עֲלֵיהֶ֔ם|‘ă·lê·hem|vvv|H5921|Prep | 3mp
+v7 עֲלֵיהֶ֔ם|‘ă·lê·hem|...|H5921|Prep | 3mp
 v7 מִבְחַ֥ר|miḇ·ḥar|the elite|H4005|N-msc
 v7 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v7 אַשּׁ֖וּר|’aš·šūr|of Assyria|H804|N-proper-fs
@@ -94,7 +94,7 @@ v9 בְּנֵ֣י|bə·nê|the Assyrians|H1121|N-mpc
 v9 אַשּׁ֔וּר|’aš·šūr|...|H804|N-proper-fs
 v9 אֲשֶׁ֥ר|’ă·šer|for whom|H834|Pro-r
 v9 עָגְבָ֖ה|‘ā·ḡə·ḇāh|she lusted|H5689|V-Qal-Perf-3fs
-v9 עֲלֵיהֶֽם׃|‘ă·lê·hem||H5921|Prep | 3mp
+v9 עֲלֵיהֶֽם׃|‘ă·lê·hem|-|H5921|Prep | 3mp
 v10 הֵמָּה֮|hêm·māh|They|H1992|Pro-3mp
 v10 גִּלּ֣וּ|gil·lū|exposed|H1540|V-Piel-Perf-3cp
 v10 עֶרְוָתָהּ֒|‘er·wā·ṯāh|her nakedness|H6172|N-fsc | 3fs
@@ -109,7 +109,7 @@ v10 שֵׁם֙|šêm|a byword|H8034|N-ms
 v10 לַנָּשִׁ֔ים|lan·nā·šîm|among women|H802|Prep-l, Art | N-fp
 v10 וּשְׁפוּטִ֖ים|ū·šə·p̄ū·ṭîm|judgment|H8196|Conj-w | N-mp
 v10 עָ֥שׂוּ|‘ā·śū|and they executed|H6213|V-Qal-Perf-3cp
-v10 בָֽהּ׃ס|ḇāh|against her|H0|Prep | 3fs
+v10 בָֽהּ׃|ḇāh|against her|H0|Prep | 3fs
 v11 וַתֵּ֙רֶא֙|wat·tê·re|saw [this]|H7200|Conj-w | V-Qal-ConsecImperf-3fs
 v11 אֲחוֹתָ֣הּ|’ă·ḥō·w·ṯāh|Her sister|H269|N-fsc | 3fs
 v11 אָהֳלִיבָ֔ה|’ā·ho·lî·ḇāh|Oholibah|H172|N-proper-fs
@@ -233,7 +233,7 @@ v21 מִמִּצְרַ֙יִם֙|mim·miṣ·ra·yim|when the Egyptians|H4714|Pr
 v21 דַּדַּ֔יִךְ|dad·da·yiḵ|your bosom|H1717|N-mdc | 2fs
 v21 לְמַ֖עַן|lə·ma·‘an|and pressed|H4616|Conj
 v21 שְׁדֵ֥י|šə·ḏê|breasts|H7699|N-mdc
-v21 נְעוּרָֽיִךְ׃ס|nə·‘ū·rā·yiḵ|your young|H5271|N-mpc | 2fs
+v21 נְעוּרָֽיִךְ׃|nə·‘ū·rā·yiḵ|your young|H5271|N-mpc | 2fs
 v22 לָכֵ֣ן|lā·ḵên|Therefore|H3651|Adv
 v22 אָהֳלִיבָ֗ה|’ā·ho·lî·ḇāh|Oholibah|H172|N-proper-fs
 v22 כֹּֽה־|kōh-|this is what|H3541|Adv
@@ -273,7 +273,7 @@ v23 שָֽׁלִשִׁים֙|šā·li·šîm|officers|H7991|N-mp
 v23 וּקְרוּאִ֔ים|ū·qə·rū·’îm|and men of renown|H7121|Conj-w | V-Qal-QalPassPrtcpl-mp
 v23 רֹכְבֵ֥י|rō·ḵə·ḇê|mounted on|H7392|V-Qal-Prtcpl-mpc
 v23 סוּסִ֖ים|sū·sîm|horses|H5483|N-mp
-v23 כֻּלָּֽם׃|kul·lām||H3605|N-msc | 3mp
+v23 כֻּלָּֽם׃|kul·lām|-|H3605|N-msc | 3mp
 v24 וּבָ֣אוּ|ū·ḇā·’ū|They will come|H935|Conj-w | V-Qal-ConjPerf-3cp
 v24 עָלַ֡יִךְ|‘ā·la·yiḵ|against you|H5921|Prep | 2fs
 v24 הֹ֠צֶן|hō·ṣen|with weapons|H2021|N-msc
@@ -331,7 +331,7 @@ v27 אֲלֵיהֶ֔ם|’ă·lê·hem|to them|H413|Prep | 3mp
 v27 וּמִצְרַ֖יִם|ū·miṣ·ra·yim|Egypt|H4714|Conj-w | N-proper-fs
 v27 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v27 תִזְכְּרִי־|ṯiz·kə·rî-|or remember|H2142|V-Qal-Imperf-2fs
-v27 עֽוֹד׃ס|‘ō·wḏ|anymore|H5750|Adv
+v27 עֽוֹד׃|‘ō·wḏ|anymore|H5750|Adv
 v28 כִּ֣י|kî|For|H3588|Conj
 v28 כֹ֤ה|ḵōh|this is what|H3541|Adv
 v28 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -376,7 +376,7 @@ v31 אֲחוֹתֵ֖ךְ|’ă·ḥō·w·ṯêḵ|of your sister|H269|N-fsc | 
 v31 הָלָ֑כְתְּ|hā·lā·ḵət|Because you have followed|H1980|V-Qal-Perf-2fs
 v31 וְנָתַתִּ֥י|wə·nā·ṯat·tî|I will put|H5414|Conj-w | V-Qal-ConjPerf-1cs
 v31 כוֹסָ֖הּ|ḵō·w·sāh|her cup|H3563|N-fsc | 3fs
-v31 בְּיָדֵֽךְ׃ס|bə·yā·ḏêḵ|into your hand|H3027|Prep-b | N-fsc | 2fs
+v31 בְּיָדֵֽךְ׃|bə·yā·ḏêḵ|into your hand|H3027|Prep-b | N-fsc | 2fs
 v32 כֹּ֤ה|kōh|This is what|H3541|Adv
 v32 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v32 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -413,7 +413,7 @@ v34 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v34 דִבַּ֔רְתִּי|ḏib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
 v34 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v34 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v34 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v34 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v35 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v35 כֹּ֤ה|kōh|this is what|H3541|Adv
 v35 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -431,7 +431,7 @@ v35 אַ֛תְּ|’at|you|H859|Pro-2fs
 v35 שְׂאִ֥י|śə·’î|must bear the consequences|H5375|V-Qal-Imp-fs
 v35 זִמָּתֵ֖ךְ|zim·mā·ṯêḵ|[of] your indecency|H2154|N-fsc | 2fs
 v35 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
-v35 תַּזְנוּתָֽיִךְ׃ס|taz·nū·ṯā·yiḵ|prostitution|H8457|N-fpc | 2fs
+v35 תַּזְנוּתָֽיִךְ׃|taz·nū·ṯā·yiḵ|prostitution|H8457|N-fpc | 2fs
 v36 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v36 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v36 אֵלַ֔י|’ê·lay|to me|H413|Prep | 1cs
@@ -547,10 +547,10 @@ v43 וָהִֽיא׃|wā·hî|for that is all she is|H1931|Conj-w | Pro-3fs
 v44 וַיָּב֣וֹא|way·yā·ḇō·w|And they slept|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v44 אֵלֶ֔יהָ|’ê·le·hā|with her|H413|Prep | 3fs
 v44 כְּב֖וֹא|kə·ḇō·w|as with|H935|Prep-k | V-Qal-Inf
-v44 אֶל־|’el-||H413|Prep
+v44 אֶל־|’el-|-|H413|Prep
 v44 אִשָּׁ֣ה|’iš·šāh|a prostitute|H802|N-fs
 v44 זוֹנָ֑ה|zō·w·nāh|...|H2181|N-fs
-v44 כֵּ֣ן|kên||H3651|Adv
+v44 כֵּ֣ן|kên|-|H3651|Adv
 v44 בָּ֗אוּ|bā·’ū|they slept with|H935|V-Qal-Perf-3cp
 v44 אֶֽל־|’el-|...|H413|Prep
 v44 אָֽהֳלָה֙|’ā·ho·lāh|Oholah|H170|N-proper-fs
@@ -572,7 +572,7 @@ v45 כִּ֤י|kî|because|H3588|Conj
 v45 נֹֽאֲפֹת֙|nō·’ă·p̄ōṯ|are adulteresses|H5003|V-Qal-Prtcpl-fp
 v45 הֵ֔נָּה|hên·nāh|they|H2007|Pro-3fp
 v45 וְדָ֖ם|wə·ḏām|with blood|H1818|Conj-w | N-ms
-v45 בִּֽידֵיהֶֽן׃ס|bî·ḏê·hen|on their hands|H3027|Prep-b | N-fdc | 3fp
+v45 בִּֽידֵיהֶֽן׃|bî·ḏê·hen|on their hands|H3027|Prep-b | N-fdc | 3fp
 v46 כִּ֛י|kî|-|H3588|Conj
 v46 כֹּ֥ה|kōh|This is what|H3541|Adv
 v46 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -618,4 +618,4 @@ v49 וִידַעְתֶּ֕ם|wî·ḏa‘·tem|Then you will know|H3045|Conj-w |
 v49 כִּ֥י|kî|that|H3588|Conj
 v49 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v49 אֲדֹנָ֥י|’ă·ḏō·nāy|am the Lord|H136|N-proper-ms
-v49 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v49 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

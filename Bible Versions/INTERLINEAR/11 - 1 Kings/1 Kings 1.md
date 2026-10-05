@@ -7,7 +7,7 @@ v1 וַיְכַסֻּ֙הוּ֙|way·ḵas·su·hū|and though they covered him|
 v1 בַּבְּגָדִ֔ים|bab·bə·ḡā·ḏîm|with blankets|H899|Prep-b, Art | N-mp
 v1 וְלֹ֥א|wə·lō|he could not|H3808|Conj-w | Adv-NegPrt
 v1 יִחַ֖ם|yi·ḥam|keep warm|H2552|V-Qal-Imperf-3ms
-v1 לֽוֹ׃|lōw||H0|Prep | 3ms
+v1 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v2 וַיֹּ֧אמְרוּ|way·yō·mə·rū|said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v2 ל֣וֹ|lōw|to him|H0|Prep | 3ms
 v2 עֲבָדָ֗יו|‘ă·ḇā·ḏāw|So his servants|H5650|N-mpc | 3ms
@@ -121,7 +121,7 @@ v9 אֶ֣בֶן|’e·ḇen|the stone|H68|N-fsc
 v9 הַזֹּחֶ֔לֶת|haz·zō·ḥe·leṯ|of Zoheleth|H2120|N-proper-fs
 v9 אֲשֶׁר־|’ă·šer-|which|H834|Pro-r
 v9 אֵ֖צֶל|’ê·ṣel|is next to|H681|Prep
-v9 עֵ֣ין|‘ên|vvv|H5883|
+v9 עֵ֣ין|‘ên|...|H5883|
 v9 רֹגֵ֑ל|rō·ḡêl|En-rogel|H5883|N-proper-fs
 v9 וַיִּקְרָ֗א|way·yiq·rā|He invited|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v9 אֶת־|’eṯ-|-|H853|DirObjM
@@ -148,7 +148,7 @@ v10 קָרָֽא׃|qā·rā|invite|H7121|V-Qal-Perf-3ms
 v11 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 נָתָ֗ן|nā·ṯān|Then Nathan|H5416|N-proper-ms
 v11 אֶל־|’el-|to|H413|Prep
-v11 בַּת־|baṯ-|vvv|H1339|Prep
+v11 בַּת־|baṯ-|...|H1339|Prep
 v11 שֶׁ֤בַע|še·ḇa‘|Bathsheba|H1339|N-proper-fs
 v11 אֵם־|’êm-|the mother|H517|N-fsc
 v11 שְׁלֹמֹה֙|šə·lō·mōh|of Solomon|H8010|N-proper-ms
@@ -215,7 +215,7 @@ v14 וּמִלֵּאתִ֖י|ū·mil·lê·ṯî|and confirm|H4390|Conj-w | V-Pi
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 דְּבָרָֽיִךְ׃|də·ḇā·rā·yiḵ|your words|H1697|N-mpc | 2fs
 v15 וַתָּבֹ֨א|wat·tā·ḇō|went|H935|Conj-w | V-Qal-ConsecImperf-3fs
-v15 בַת־|ḇaṯ-|vvv|H1339|Prep
+v15 בַת־|ḇaṯ-|...|H1339|Prep
 v15 שֶׁ֤בֶע|še·ḇe‘|So Bathsheba|H1339|N-proper-fs
 v15 אֶל־|’el-|to see|H413|Prep
 v15 הַמֶּ֙לֶךְ֙|ham·me·leḵ|the king|H4428|Art | N-ms
@@ -229,7 +229,7 @@ v15 מְשָׁרַ֖ת|mə·šā·raṯ|was serving|H8334|V-Piel-Prtcpl-fs
 v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 הַמֶּֽלֶךְ׃|ham·me·leḵ|him|H4428|Art | N-ms
 v16 וַתִּקֹּ֣ד|wat·tiq·qōḏ|bowed down|H6915|Conj-w | V-Qal-ConsecImperf-3fs
-v16 בַּת־|baṯ-|vvv|H1339|Prep
+v16 בַּת־|baṯ-|...|H1339|Prep
 v16 שֶׁ֔בַע|še·ḇa‘|And Bathsheba|H1339|N-proper-fs
 v16 וַתִּשְׁתַּ֖חוּ|wat·tiš·ta·ḥū|in homage|H7812|Conj-w | V-Hitpael-ConsecImperf-3fs
 v16 לַמֶּ֑לֶךְ|lam·me·leḵ|to the king|H4428|Prep-l, Art | N-ms
@@ -238,7 +238,7 @@ v16 הַמֶּ֖לֶךְ|ham·me·leḵ|[who]|H4428|Art | N-ms
 v16 מַה־|mah-|What|H4100|Interrog
 v16 לָּֽךְ׃|lāḵ|is your desire|H0|Prep | 2fs
 v17 וַתֹּ֣אמֶר|wat·tō·mer|she replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v17 ל֗וֹ|lōw||H0|Prep | 3ms
+v17 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v17 אֲדֹנִי֙|’ă·ḏō·nî|My lord|H113|N-msc | 1cs
 v17 אַתָּ֨ה|’at·tāh|you yourself|H859|Pro-2ms
 v17 נִשְׁבַּ֜עְתָּ|niš·ba‘·tā|swore|H7650|V-Nifal-Perf-2ms
@@ -396,14 +396,14 @@ v27 עַל־|‘al-|on|H5921|Prep
 v27 כִּסֵּ֥א|kis·sê|the throne|H3678|N-msc
 v27 אֲדֹנִֽי־|’ă·ḏō·nî-|my lord|H113|N-msc | 1cs
 v27 הַמֶּ֖לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
-v27 אַחֲרָֽיו׃ס|’a·ḥă·rāw|after|H310|Prep | 3ms
+v27 אַחֲרָֽיו׃|’a·ḥă·rāw|after|H310|Prep | 3ms
 v28 וַיַּ֨עַן|way·ya·‘an|said|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v28 הַמֶּ֤לֶךְ|ham·me·leḵ|Then King|H4428|Art | N-ms
 v28 דָּוִד֙|dā·wiḏ|David|H1732|N-proper-ms
 v28 וַיֹּ֔אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v28 קִרְאוּ־|qir·’ū-|Call in|H7121|V-Qal-Imp-mp
 v28 לִ֖י|lî|for me|H0|Prep | 1cs
-v28 לְבַת־|lə·ḇaṯ-|vvv|H1339|Prep
+v28 לְבַת־|lə·ḇaṯ-|...|H1339|Prep
 v28 שָׁ֑בַע|šā·ḇa‘|Bathsheba|H1339|Prep | N-proper-fs
 v28 וַתָּבֹא֙|wat·tā·ḇō|So she came|H935|Conj-w | V-Qal-ConsecImperf-3fs
 v28 לִפְנֵ֣י|lip̄·nê|presence|H6440|Prep-l | N-cpc
@@ -446,7 +446,7 @@ v30 אֶעֱשֶׂ֖ה|’e·‘ĕ·śeh|I will carry out|H6213|V-Qal-Imperf-1cs
 v30 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
 v30 הַזֶּֽה׃|haz·zeh|this very|H2088|Art | Pro-ms
 v31 וַתִּקֹּ֨ד|wat·tiq·qōḏ|bowed|H6915|Conj-w | V-Qal-ConsecImperf-3fs
-v31 בַּת־|baṯ-|vvv|H1339|Prep
+v31 בַּת־|baṯ-|...|H1339|Prep
 v31 שֶׁ֤בַע|še·ḇa‘|Bathsheba|H1339|N-proper-fs
 v31 אַפַּ֙יִם֙|’ap·pa·yim|facedown|H639|N-md
 v31 אֶ֔רֶץ|’e·reṣ|...|H776|N-fs
@@ -457,7 +457,7 @@ v31 יְחִ֗י|yə·ḥî|live|H2421|V-Qal-Imperf.Jus-3ms
 v31 אֲדֹנִ֛י|’ă·ḏō·nî|May my lord|H113|N-msc | 1cs
 v31 הַמֶּ֥לֶךְ|ham·me·leḵ|King|H4428|Art | N-ms
 v31 דָּוִ֖ד|dā·wiḏ|David|H1732|N-proper-ms
-v31 לְעֹלָֽם׃פ|lə·‘ō·lām|forever|H5769|Prep-l | N-ms
+v31 לְעֹלָֽם׃|lə·‘ō·lām|forever|H5769|Prep-l | N-ms
 v32 וַיֹּ֣אמֶר׀|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v32 הַמֶּ֣לֶךְ|ham·me·leḵ|Then King|H4428|Art | N-ms
 v32 דָּוִ֗ד|dā·wiḏ|David|H1732|N-proper-ms
@@ -488,7 +488,7 @@ v33 בְנִ֔י|ḇə·nî|my son|H1121|N-msc | 1cs
 v33 עַל־|‘al-|on|H5921|Prep
 v33 הַפִּרְדָּ֖ה|hap·pir·dāh|my own mule|H6506|Art | N-fs
 v33 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v33 לִ֑י|lî||H0|Prep | 1cs
+v33 לִ֑י|lî|-|H0|Prep | 1cs
 v33 וְהוֹרַדְתֶּ֥ם|wə·hō·w·raḏ·tem|and take him down|H3381|Conj-w | V-Hifil-ConjPerf-2mp
 v33 אֹת֖וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
 v33 אֶל־|’el-|to|H413|Prep
@@ -759,7 +759,7 @@ v50 בְּקַרְנ֥וֹת|bə·qar·nō·wṯ|of the horns|H7161|Prep-b | N-f
 v50 הַמִּזְבֵּֽחַ׃|ham·miz·bê·aḥ|of the altar|H4196|Art | N-ms
 v51 וַיֻּגַּ֤ד|way·yug·gaḏ|It was reported|H5046|Conj-w | V-Hofal-ConsecImperf-3ms
 v51 לִשְׁלֹמֹה֙|liš·lō·mōh|to Solomon|H8010|Prep-l | N-proper-ms
-v51 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v51 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v51 הִנֵּה֙|hin·nêh|Behold|H2009|Interjection
 v51 אֲדֹ֣נִיָּ֔הוּ|’ă·ḏō·nî·yā·hū|Adonijah|H138|N-proper-ms
 v51 יָרֵ֖א|yā·rê|fears|H3372|V-Qal-Perf-3ms
@@ -810,4 +810,4 @@ v53 וַיֹּֽאמֶר־|way·yō·mer-|said|H559|Conj-w | V-Qal-ConsecImperf-
 v53 ל֥וֹ|lōw|to him|H0|Prep | 3ms
 v53 שְׁלֹמֹ֖ה|šə·lō·mōh|[who]|H8010|N-proper-ms
 v53 לֵ֥ךְ|lêḵ|Go|H1980|V-Qal-Imp-ms
-v53 לְבֵיתֶֽךָ׃פ|lə·ḇê·ṯe·ḵā|to your home|H1004|Prep-l | N-msc | 2ms
+v53 לְבֵיתֶֽךָ׃|lə·ḇê·ṯe·ḵā|to your home|H1004|Prep-l | N-msc | 2ms

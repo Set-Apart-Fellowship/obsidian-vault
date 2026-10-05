@@ -59,13 +59,13 @@ v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 הַדֶּ֙רֶךְ֙|had·de·reḵ|the way|H1870|Art | N-cs
 v4 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v4 תֵּֽלְכוּ־|tê·lə·ḵū-|to go|H1980|V-Qal-Imperf-2mp
-v4 בָ֔הּ|ḇāh||H0|Prep | 3fs
+v4 בָ֔הּ|ḇāh|-|H0|Prep | 3fs
 v4 כִּ֣י|kî|since|H3588|Conj
 v4 לֹ֧א|lō|you have never|H3808|Adv-NegPrt
 v4 עֲבַרְתֶּ֛ם|‘ă·ḇar·tem|traveled|H5674|V-Qal-Perf-2mp
 v4 בַּדֶּ֖רֶךְ|bad·de·reḵ|this way|H1870|Prep-b, Art | N-cs
 v4 מִתְּמ֥וֹל|mit·tə·mō·wl|before|H8543|Prep-m | Adv
-v4 שִׁלְשֽׁוֹם׃ס|šil·šō·wm|...|H8032|Adv
+v4 שִׁלְשֽׁוֹם׃|šil·šō·wm|...|H8032|Adv
 v5 וַיֹּ֧אמֶר|way·yō·mer|told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v5 יְהוֹשֻׁ֛עַ|yə·hō·wō·šu·a‘|Then Joshua|H3091|N-proper-ms
 v5 אֶל־|’el-|...|H413|Prep
@@ -95,7 +95,7 @@ v6 אֲר֣וֹן|’ă·rō·wn|the ark|H727|N-csc
 v6 הַבְּרִ֔ית|hab·bə·rîṯ|of the covenant|H1285|Art | N-fs
 v6 וַיֵּלְכ֖וּ|way·yê·lə·ḵū|and went|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v6 לִפְנֵ֥י|lip̄·nê|ahead|H6440|Prep-l | N-cpc
-v6 הָעָֽם׃ס|hā·‘ām|of them|H5971|Art | N-ms
+v6 הָעָֽם׃|hā·‘ām|of them|H5971|Art | N-ms
 v7 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v7 יְהוָה֙|Yah·weh|Now the LORD|H3068|N-proper-ms
 v7 אֶל־|’el-|to|H413|Prep
@@ -130,7 +130,7 @@ v8 קְצֵה֙|qə·ṣêh|the edge|H7097|N-msc
 v8 מֵ֣י|mê|of the waters|H4325|N-mpc
 v8 הַיַּרְדֵּ֔ן|hay·yar·dên|-|H3383|Art | N-proper-fs
 v8 בַּיַּרְדֵּ֖ן|bay·yar·dên|in the Jordan|H3383|Prep-b, Art | N-proper-fs
-v8 תַּעֲמֹֽדוּ׃פ|ta·‘ă·mō·ḏū|stand|H5975|V-Qal-Imperf-2mp
+v8 תַּעֲמֹֽדוּ׃|ta·‘ă·mō·ḏū|stand|H5975|V-Qal-Imperf-2mp
 v9 וַיֹּ֥אמֶר|way·yō·mer|told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יְהוֹשֻׁ֖עַ|yə·hō·wō·šu·a‘|So Joshua|H3091|N-proper-ms
 v9 אֶל־|’el-|...|H413|Prep
@@ -177,7 +177,7 @@ v11 לִפְנֵיכֶ֖ם|lip̄·nê·ḵem|ahead of you|H6440|Prep-l | N-mpc |
 v11 בַּיַּרְדֵּֽן׃|bay·yar·dên|into the Jordan|H3383|Prep-b, Art | N-proper-fs
 v12 וְעַתָּ֗ה|wə·‘at·tāh|Now|H6258|Conj-w | Adv
 v12 קְח֤וּ|qə·ḥū|choose|H3947|V-Qal-Imp-mp
-v12 לָכֶם֙|lā·ḵem||H0|Prep | 2mp
+v12 לָכֶם֙|lā·ḵem|-|H0|Prep | 2mp
 v12 שְׁנֵ֣י|šə·nê|twelve|H8147|Number-mdc
 v12 עָשָׂ֣ר|‘ā·śār|...|H6240|Number-msc
 v12 אִ֔ישׁ|’îš|men|H376|N-ms
@@ -285,7 +285,7 @@ v17 עֹֽבְרִים֙|‘ō·ḇə·rîm|crossed over|H5674|V-Qal-Prtcpl-mp
 v17 בֶּחָ֣רָבָ֔ה|be·ḥā·rā·ḇāh|the dry ground|H2724|Prep-b, Art | N-fs
 v17 עַ֤ד|‘aḏ|until|H5704|Prep
 v17 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v17 תַּ֙מּוּ֙|tam·mū|vvv|H8552|V-Qal-Perf-3cp
+v17 תַּ֙מּוּ֙|tam·mū|...|H8552|V-Qal-Perf-3cp
 v17 כָּל־|kāl-|the entire|H3605|N-msc
 v17 הַגּ֔וֹי|hag·gō·w|nation|H1471|Art | N-ms
 v17 לַעֲבֹ֖ר|la·‘ă·ḇōr|had crossed|H5674|Prep-l | V-Qal-Inf

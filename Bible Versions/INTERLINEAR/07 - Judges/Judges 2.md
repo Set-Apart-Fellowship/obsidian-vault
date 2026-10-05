@@ -73,10 +73,10 @@ v5 הַה֖וּא|ha·hū|that|H1931|Art | Pro-3ms
 v5 בֹּכִ֑ים|bō·ḵîm|Bochim|H1066|N-proper-fs
 v5 וַיִּזְבְּחוּ־|way·yiz·bə·ḥū-|and offered sacrifices|H2076|Conj-w | V-Qal-ConsecImperf-3mp
 v5 שָׁ֖ם|šām|there|H8033|Adv
-v5 לַֽיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v5 לַֽיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v6 וַיְשַׁלַּ֥ח|way·šal·laḥ|had dismissed|H7971|Conj-w | V-Piel-ConsecImperf-3ms
 v6 יְהוֹשֻׁ֖עַ|yə·hō·wō·šu·a‘|After Joshua|H3091|N-proper-ms
-v6 אֶת־|’eṯ-||H853|DirObjM
+v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 הָעָ֑ם|hā·‘ām|the people|H5971|Art | N-ms
 v6 וַיֵּלְכ֧וּ|way·yê·lə·ḵū|went out|H1980|Conj-w | V-Qal-ConsecImperf-3mp
 v6 בְנֵֽי־|ḇə·nê-|the Israelites|H1121|N-mpc
@@ -125,7 +125,7 @@ v9 וַיִּקְבְּר֤וּ|way·yiq·bə·rū|They buried|H6912|Conj-w | V-
 v9 אוֹתוֹ֙|’ō·w·ṯōw|him|H853|DirObjM | 3ms
 v9 בִּגְב֣וּל|biḡ·ḇūl|in the land|H1366|Prep-b | N-msc
 v9 נַחֲלָת֔וֹ|na·ḥă·lā·ṯōw|of his inheritance|H5159|N-fsc | 3ms
-v9 בְּתִמְנַת־|bə·ṯim·naṯ-|vvv|H8556|Prep
+v9 בְּתִמְנַת־|bə·ṯim·naṯ-|...|H8556|Prep
 v9 חֶ֖רֶס|ḥe·res|at Timnath-heres|H8556|Prep | N-proper-fs
 v9 בְּהַ֣ר|bə·har|in the hill country|H2022|Prep-b | N-msc
 v9 אֶפְרָ֑יִם|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
@@ -153,7 +153,7 @@ v10 אֶת־|’eṯ-|-|H853|DirObjM
 v10 הַֽמַּעֲשֶׂ֔ה|ham·ma·‘ă·śeh|the works|H4639|Art | N-ms
 v10 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v10 עָשָׂ֖ה|‘ā·śāh|He had done|H6213|V-Qal-Perf-3ms
-v10 לְיִשְׂרָאֵֽל׃ס|lə·yiś·rā·’êl|for Israel|H3478|Prep-l | N-proper-ms
+v10 לְיִשְׂרָאֵֽל׃|lə·yiś·rā·’êl|for Israel|H3478|Prep-l | N-proper-ms
 v11 וַיַּעֲשׂ֧וּ|way·ya·‘ă·śū|did|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v11 בְנֵֽי־|ḇə·nê-|And the Israelites|H1121|N-mpc
 v11 יִשְׂרָאֵ֛ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -198,7 +198,7 @@ v14 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
 v14 בְּיִשְׂרָאֵ֔ל|bə·yiś·rā·’êl|against Israel|H3478|Prep-b | N-proper-ms
 v14 וַֽיִּתְּנֵם֙|way·yit·tə·nêm|and He delivered them|H5414|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
 v14 בְּיַד־|bə·yaḏ-|into the hands|H3027|Prep-b | N-fsc
-v14 שֹׁסִ֔ים|šō·sîm|vvv|H8154|V-Qal-Prtcpl-mp
+v14 שֹׁסִ֔ים|šō·sîm|...|H8154|V-Qal-Prtcpl-mp
 v14 וַיָּשֹׁ֖סּוּ|way·yā·šōs·sū|of those who plundered|H8155|Conj-w | V-Qal-ConsecImperf-3mp
 v14 אוֹתָ֑ם|’ō·w·ṯām|them|H853|DirObjM | 3mp
 v14 וַֽיִּמְכְּרֵ֞ם|way·yim·kə·rêm|He sold them|H4376|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
@@ -220,7 +220,7 @@ v15 הָיְתָה־|hā·yə·ṯāh-|was|H1961|V-Qal-Perf-3fs
 v15 בָּ֣ם|bām|against them|H0|Prep | 3mp
 v15 לְרָעָ֔ה|lə·rā·‘āh|to bring calamity|H7451|Prep-l | Adj-fs
 v15 כַּֽאֲשֶׁר֙|ka·’ă·šer|just as|H834|Prep-k | Pro-r
-v15 דִּבֶּ֣ר|dib·ber|vvv|H1696|V-Piel-Perf-3ms
+v15 דִּבֶּ֣ר|dib·ber|...|H1696|V-Piel-Perf-3ms
 v15 יְהוָ֔ה|Yah·weh|He|H3068|N-proper-ms
 v15 וְכַאֲשֶׁ֛ר|wə·ḵa·’ă·šer|-|H834|Conj-w, Prep-k | Pro-r
 v15 נִשְׁבַּ֥ע|niš·ba‘|had sworn|H7650|V-Nifal-Perf-3ms
@@ -334,7 +334,7 @@ v21 יְהוֹשֻׁ֖עַ|yə·hō·wō·šu·a‘|Joshua|H3091|N-proper-ms
 v21 וַיָּמֹֽת׃|way·yā·mōṯ|when he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v22 לְמַ֛עַן|lə·ma·‘an|In this way|H4616|Conj
 v22 נַסּ֥וֹת|nas·sō·wṯ|I will test|H5254|V-Piel-Inf
-v22 בָּ֖ם|bām||H0|Prep | 3mp
+v22 בָּ֖ם|bām|-|H0|Prep | 3mp
 v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 יִשְׂרָאֵ֑ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v22 הֲשֹׁמְרִ֣ים|hă·šō·mə·rîm|will keep|H8104|V-Qal-Prtcpl-mp
@@ -360,4 +360,4 @@ v23 מַהֵ֑ר|ma·hêr|immediately|H4118|Adv
 v23 וְלֹ֥א|wə·lō|-|H3808|Conj-w | Adv-NegPrt
 v23 נְתָנָ֖ם|nə·ṯā·nām|by delivering them|H5414|V-Qal-Perf-3ms | 3mp
 v23 בְּיַד־|bə·yaḏ-|into the hand|H3027|Prep-b | N-fsc
-v23 יְהוֹשֻֽׁעַ׃פ|yə·hō·wō·šu·a‘|of Joshua|H3091|N-proper-ms
+v23 יְהוֹשֻֽׁעַ׃|yə·hō·wō·šu·a‘|of Joshua|H3091|N-proper-ms

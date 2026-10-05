@@ -70,9 +70,9 @@ v4 δοκιμάζοντι|dokimazonti|examines|G1381|V-PPA-DMS
 v4 τὰς|tas|-|G3588|Art-AFP
 v4 καρδίας|kardias|hearts|G2588|N-AFP
 v4 ἡμῶν|hēmōn|our|G1473|PPro-G1P
-v5 οὔτε|oute|vvv|G3777|Conj
-v5 γάρ|gar|vvv|G1063|Conj
-v5 ποτε|pote|vvv|G4218|Prtcl
+v5 οὔτε|oute|...|G3777|Conj
+v5 γάρ|gar|...|G1063|Conj
+v5 ποτε|pote|...|G4218|Prtcl
 v5 ἐν|en|...|G1722|Prep
 v5 λόγῳ|logō|words|G3056|N-DMS
 v5 κολακείας*|kolakeias|of flattery|G2850|N-GFS
@@ -99,7 +99,7 @@ v6 ἄλλων|allōn|anyone else|G243|Adj-GMP
 v6 δυνάμενοι|dynamenoi|we had authority|G1410|V-PPM/P-NMP
 v6 ἐν|en|...|G1722|Prep
 v6 βάρει|barei|to demand [it]|G922|N-DNS
-v6 εἶναι|einai|vvv|G1510|V-PNA
+v6 εἶναι|einai|...|G1510|V-PNA
 v6 ὡς|hōs|[although] as|G5613|Adv
 v6 Χριστοῦ|Christou|of Christ|G5547|N-GMS
 v6 ἀπόστολοι|apostoloi|apostles|G652|N-NMP
@@ -110,13 +110,13 @@ v7 ἐν|en|among|G1722|Prep
 v7 μέσῳ|mesō|-|G3319|Adj-DNS
 v7 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v7 ὡς|hōs|like|G5613|Adv
-v7 ἐὰν|ean|vvv|G1437|Conj
+v7 ἐὰν|ean|...|G1437|Conj
 v7 τροφὸς|trophos|a nursing mother|G5162|N-NFS
 v7 θάλπῃ|thalpē|caring for|G2282|V-PSA-3S
 v7 τὰ|ta|-|G3588|Art-ANP
 v7 ἑαυτῆς|heautēs|her|G1438|RefPro-GF3S
 v7 τέκνα|tekna|children|G5043|N-ANP
-v8 οὕτως|houtōs|vvv|G3779|Adv
+v8 οὕτως|houtōs|...|G3779|Adv
 v8 ὁμειρόμενοι|homeiromenoi|We cared so deeply|G2442|V-PPM/P-NMP
 v8 ὑμῶν|hymōn|-|G4771|PPro-G2P
 v8 εὐδοκοῦμεν|eudokoumen|[that] we were delighted|G2106|V-IIA-1P
@@ -151,8 +151,8 @@ v9 καὶ|kai|and|G2532|Conj
 v9 ἡμέρας|hēmeras|day|G2250|N-GFS
 v9 ἐργαζόμενοι|ergazomenoi|We worked|G2038|V-PPM/P-NMP
 v9 πρὸς|pros|so that|G4314|Prep
-v9 τὸ|to|vvv|G3588|Art-ANS
-v9 μὴ|mē|vvv|G3361|Adv
+v9 τὸ|to|...|G3588|Art-ANS
+v9 μὴ|mē|...|G3361|Adv
 v9 ἐπιβαρῆσαί|epibarēsai|we would not be a burden|G1912|V-ANA
 v9 τινα|tina|to anyone|G5100|IPro-AMS
 v9 ὑμῶν|hymōn|-|G4771|PPro-G2P
@@ -291,7 +291,7 @@ v15 ἡμᾶς|hēmas|...|G1473|PPro-A1P
 v15 ἐκδιωξάντων|ekdiōxantōn|drove us out {as well}|G1559|V-APA-GMP
 v15 καὶ|kai|-|G2532|Conj
 v15 Θεῷ|Theō|to God|G2316|N-DMS
-v15 μὴ|mē|vvv|G3361|Adv
+v15 μὴ|mē|...|G3361|Adv
 v15 ἀρεσκόντων|areskontōn|They are displeasing|G700|V-PPA-GMP
 v15 καὶ|kai|and|G2532|Conj
 v15 πᾶσιν|pasin|to all|G3956|Adj-DMP
@@ -331,7 +331,7 @@ v17 ὥρας|hōras|...|G5610|N-GFS
 v17 προσώπῳ|prosōpō|(in person|G4383|N-DNS
 v17 οὐ|ou|not|G3756|Adv
 v17 καρδίᾳ|kardia|in heart)|G2588|N-DFS
-v17 περισσοτέρως|perissoterōs|vvv|G4057|Adv
+v17 περισσοτέρως|perissoterōs|...|G4057|Adv
 v17 ἐσπουδάσαμεν|espoudasamen|was even more intense|G4704|V-AIA-1P
 v17 τὸ|to|-|G3588|Art-ANS
 v17 πρόσωπον|prosōpon|face [to face]|G4383|N-ANS

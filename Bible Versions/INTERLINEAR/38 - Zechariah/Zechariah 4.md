@@ -29,7 +29,7 @@ v2 וְשִׁבְעָה֙|wə·šiḇ·‘āh|with seven|H7651|Conj-w | Number-m
 v2 מֽוּצָק֔וֹת|mū·ṣā·qō·wṯ|spouts|H4166|N-fp
 v2 לַנֵּר֖וֹת|lan·nê·rō·wṯ|to the lamps|H5216|Prep-l, Art | N-mp
 v2 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v2 עַל־|‘al-||H5921|Prep
+v2 עַל־|‘al-|-|H5921|Prep
 v2 רֹאשָֽׁהּ׃|rō·šāh|-|H7218|N-msc | 3fs
 v3 וּשְׁנַ֥יִם|ū·šə·na·yim|There are also two|H8147|Conj-w | Number-md
 v3 זֵיתִ֖ים|zê·ṯîm|olive trees|H2132|N-mp
@@ -53,9 +53,9 @@ v4 אֲדֹנִֽי׃|’ă·ḏō·nî|my lord|H113|N-msc | 1cs
 v5 וַ֠יַּעַן|way·ya·‘an|replied|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v5 הַמַּלְאָ֞ךְ|ham·mal·’āḵ|the angel|H4397|Art | N-ms
 v5 הַדֹּבֵ֥ר|had·dō·ḇêr|-|H1696|Art | V-Qal-Prtcpl-ms
-v5 בִּי֙|bî||H0|Prep | 1cs
-v5 וַיֹּ֣אמֶר|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
-v5 אֵלַ֔י|’ê·lay||H413|Prep | 1cs
+v5 בִּי֙|bî|-|H0|Prep | 1cs
+v5 וַיֹּ֣אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
+v5 אֵלַ֔י|’ê·lay|-|H413|Prep | 1cs
 v5 הֲל֥וֹא|hă·lō·w|Do you not|H3808|Adv-NegPrt
 v5 יָדַ֖עְתָּ|yā·ḏa‘·tā|know|H3045|V-Qal-Perf-2ms
 v5 מָה־|māh-|what|H4100|Interrog
@@ -65,7 +65,7 @@ v5 וָאֹמַ֖ר|wā·’ō·mar|...|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v5 לֹ֥א|lō|No|H3808|Adv-NegPrt
 v5 אֲדֹנִֽי׃|’ă·ḏō·nî|my lord|H113|N-msc | 1cs
 v6 וַיַּ֜עַן|way·ya·‘an|So he said to me|H6030|Conj-w | V-Qal-ConsecImperf-3ms
-v6 וַיֹּ֤אמֶר|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
+v6 וַיֹּ֤אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v6 אֵלַי֙|’ê·lay|to|H413|Prep | 1cs
 v6 לֵאמֹ֔ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v6 זֶ֚ה|zeh|This|H2088|Pro-ms
@@ -98,7 +98,7 @@ v7 הָרֹאשָׁ֔ה|hā·rō·šāh|...|H7222|Art | N-fs
 v7 תְּשֻׁא֕וֹת|tə·šu·’ō·wṯ|accompanied by shouts of|H8663|N-fpc
 v7 חֵ֥ן|ḥên|Grace|H2580|N-msc
 v7 חֵ֖ן|ḥên|grace|H2580|N-ms
-v7 לָֽהּ׃פ|lāh|to it|H0|Prep | 3fs
+v7 לָֽהּ׃|lāh|to it|H0|Prep | 3fs
 v8 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v8 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -138,7 +138,7 @@ v10 מְשׁוֹטְטִ֖ים|mə·šō·wṭ·ṭîm|scan|H7751|V-Piel-Prtcpl-
 v10 בְּכָל־|bə·ḵāl|the whole|H3605|Prep-b | N-msc
 v10 הָאָֽרֶץ׃|hā·’ā·reṣ|earth|H776|Art | N-fs
 v11 וָאַ֖עַן|wā·’a·‘an|Then I asked|H6030|Conj-w | V-Qal-ConsecImperf-1cs
-v11 וָאֹמַ֣ר|wā·’ō·mar||H559|Conj-w | V-Qal-ConsecImperf-1cs
+v11 וָאֹמַ֣ר|wā·’ō·mar|-|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v11 אֵלָ֑יו|’ê·lāw|[the angel]|H413|Prep | 3ms
 v11 מַה־|mah-|What|H4100|Interrog
 v11 שְּׁנֵ֤י|šə·nê|two|H8147|Number-mdc
@@ -167,7 +167,7 @@ v12 מֵעֲלֵיהֶ֖ם|mê·‘ă·lê·hem|from which|H5921|Prep-m | 3mp
 v12 הַזָּהָֽב׃|haz·zā·hāḇ|the golden [oil]|H2091|Art | N-ms
 v13 וַיֹּ֤אמֶר|way·yō·mer|he inquired|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 אֵלַי֙|’ê·lay|-|H413|Prep | 1cs
-v13 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v13 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v13 הֲל֥וֹא|hă·lō·w|Do you not|H3808|Adv-NegPrt
 v13 יָדַ֖עְתָּ|yā·ḏa‘·tā|know|H3045|V-Qal-Perf-2ms
 v13 מָה־|māh-|what|H4100|Interrog

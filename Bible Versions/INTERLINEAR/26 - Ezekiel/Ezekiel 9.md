@@ -57,7 +57,7 @@ v3 הַבַּדִּ֔ים|hab·bad·dîm|in linen|H906|Art | N-mp
 v3 אֲשֶׁ֛ר|’ă·šer|-|H834|Pro-r
 v3 קֶ֥סֶת|qe·seṯ|who had the writing kit|H7083|N-fsc
 v3 הַסֹּפֵ֖ר|has·sō·p̄êr|...|H5608|Art | N-ms
-v3 בְּמָתְנָֽיו׃ס|bə·mā·ṯə·nāw|at his side|H4975|Prep-b | N-mdc | 3ms
+v3 בְּמָתְנָֽיו׃|bə·mā·ṯə·nāw|at his side|H4975|Prep-b | N-mdc | 3ms
 v4 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v4 אֵלוֹ|ʾē·lō|-|H413|Prep | 3ms
@@ -195,4 +195,4 @@ v11 דָּבָ֖ר|dā·ḇār|...|H1697|N-ms
 v11 לֵאמֹ֑ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v11 עָשִׂ֕יתִי|‘ā·śî·ṯî|I have done|H6213|V-Qal-Perf-1cs
 v11 כַאֲשֶׁר|ḵa·ʾă·šɛr|as|H834|Prep-k | N-ms
-v11 צִוִּיתָֽנִי׃ס|ṣiw·wî·ṯā·nî|You commanded|H6680|V-Piel-Perf-2ms | 1cs
+v11 צִוִּיתָֽנִי׃|ṣiw·wî·ṯā·nî|You commanded|H6680|V-Piel-Perf-2ms | 1cs

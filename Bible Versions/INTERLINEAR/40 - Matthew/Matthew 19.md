@@ -38,7 +38,7 @@ v3 πειράζοντες|peirazontes|[and] tested|G3985|V-PPA-NMP
 v3 αὐτὸν|auton|Him|G846|PPro-AM3S
 v3 καὶ|kai|-|G2532|Conj
 v3 λέγοντες|legontes|by asking|G3004|V-PPA-NMP
-v3 Εἰ|Ei|vvv|G1487|Conj
+v3 Εἰ|Ei|...|G1487|Conj
 v3 ἔξεστιν|exestin|Is it lawful|G1832|V-PIA-3S
 v3 ‹ἀνθρώπῳ›|anthrōpō|for a man|G444|N-DMS
 v3 ἀπολῦσαι|apolysai|to divorce|G630|V-ANA
@@ -52,7 +52,7 @@ v4 Ὁ|Ho|-|G3588|Art-NMS
 v4 δὲ|de|-|G1161|Conj
 v4 ἀποκριθεὶς|apokritheis|[Jesus] answered|G611|V-APP-NMS
 v4 εἶπεν|eipen|-|G2036|V-AIA-3S
-v4 Οὐκ|Ouk|vvv|G3756|Adv
+v4 Οὐκ|Ouk|...|G3756|Adv
 v4 ἀνέγνωτε|anegnōte|Have you not read|G314|V-AIA-2P
 v4 ὅτι|hoti|that|G3754|Conj
 v4 ὁ|ho|the|G3588|Art-NMS
@@ -186,9 +186,9 @@ v12 εἰσὶν|eisin|there are|G1510|V-PIA-3P
 v12 γὰρ|gar|For|G1063|Conj
 v12 εὐνοῦχοι|eunouchoi|eunuchs|G2135|N-NMP
 v12 οἵτινες|hoitines|who|G3748|RelPro-NMP
-v12 ἐκ|ek|vvv|G1537|Prep
-v12 κοιλίας|koilias|vvv|G2836|N-GFS
-v12 μητρὸς|mētros|vvv|G3384|N-GFS
+v12 ἐκ|ek|...|G1537|Prep
+v12 κοιλίας|koilias|...|G2836|N-GFS
+v12 μητρὸς|mētros|...|G3384|N-GFS
 v12 ἐγεννήθησαν|egennēthēsan|were born|G1080|V-AIP-3P
 v12 οὕτως|houtōs|that way|G3779|Adv
 v12 καὶ|kai|-|G2532|Conj
@@ -204,7 +204,7 @@ v12 εἰσὶν|eisin|-|G1510|V-PIA-3P
 v12 εὐνοῦχοι|eunouchoi|[still others]|G2135|N-NMP
 v12 οἵτινες|hoitines|-|G3748|RelPro-NMP
 v12 εὐνούχισαν|eunouchisan|live like eunuchs|G2134|V-AIA-3P
-v12 ἑαυτοὺς|heautous|vvv|G1438|RefPro-AM3P
+v12 ἑαυτοὺς|heautous|...|G1438|RefPro-AM3P
 v12 διὰ|dia|for the sake of|G1223|Prep
 v12 τὴν|tēn|the|G3588|Art-AFS
 v12 βασιλείαν|basileian|kingdom|G932|N-AFS
@@ -238,7 +238,7 @@ v14 Ἄφετε|Aphete|Let|G863|V-AMA-2P
 v14 τὰ|ta|the|G3588|Art-ANP
 v14 παιδία|paidia|little children|G3813|N-ANP
 v14 καὶ|kai|and|G2532|Conj
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 κωλύετε|kōlyete|do not hinder|G2967|V-PMA-2P
 v14 αὐτὰ|auta|them|G846|PPro-AN3P
 v14 ἐλθεῖν|elthein|come|G2064|V-ANA
@@ -305,13 +305,13 @@ v18 δὲ|de|-|G1161|Conj
 v18 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v18 εἶπεν*|eipen|answered|G2036|V-AIA-3S
 v18 Τὸ|To|-|G3588|Art-ANS
-v18 Οὐ|Ou|vvv|G3756|Adv
+v18 Οὐ|Ou|...|G3756|Adv
 v18 φονεύσεις|phoneuseis|Do not murder|G5407|V-FIA-2S
-v18 Οὐ|Ou|vvv|G3756|Adv
+v18 Οὐ|Ou|...|G3756|Adv
 v18 μοιχεύσεις|moicheuseis|do not commit adultery|G3431|V-FIA-2S
-v18 Οὐ|Ou|vvv|G3756|Adv
+v18 Οὐ|Ou|...|G3756|Adv
 v18 κλέψεις|klepseis|do not steal|G2813|V-FIA-2S
-v18 Οὐ|Ou|vvv|G3756|Adv
+v18 Οὐ|Ou|...|G3756|Adv
 v18 ψευδομαρτυρήσεις|pseudomartyrēseis|do not bear false witness|G5576|V-FIA-2S
 v19 Τίμα|Tima|honor|G5091|V-PMA-2S
 v19 τὸν|ton|[your]|G3588|Art-AMS
@@ -330,11 +330,11 @@ v20 Λέγει|Legei|said|G3004|V-PIA-3S
 v20 αὐτῷ|autō|...|G846|PPro-DM3S
 v20 ὁ|ho|the|G3588|Art-NMS
 v20 νεανίσκος|neaniskos|young man|G3495|N-NMS
-v20 Ταῦτα|Tauta|vvv|G3778|DPro-ANP
+v20 Ταῦτα|Tauta|...|G3778|DPro-ANP
 v20 πάντα|panta|All these|G3956|Adj-ANP
 v20 ἐφύλαξα|ephylaxa|I have kept|G5442|V-AIA-1S
 v20 τί|ti|What|G5101|IPro-ANS
-v20 ἔτι|eti|vvv|G2089|Adv
+v20 ἔτι|eti|...|G2089|Adv
 v20 ὑστερῶ|hysterō|do I still lack|G5302|V-PIA-1S
 v21 Ἔφη|Ephē|told|G5346|V-IIA-3S
 v21 αὐτῷ|autō|him|G846|PPro-DM3S
@@ -396,7 +396,7 @@ v23 βασιλείαν|basileian|kingdom|G932|N-AFS
 v23 τῶν|tōn|of|G3588|Art-GMP
 v23 οὐρανῶν|ouranōn|heaven|G3772|N-GMP
 v24 πάλιν|palin|Again|G3825|Adv
-v24 δὲ|de|vvv|G1161|Conj
+v24 δὲ|de|...|G1161|Conj
 v24 λέγω|legō|I tell|G3004|V-PIA-1S
 v24 ὑμῖν|hymin|you|G4771|PPro-D2P
 v24 εὐκοπώτερόν|eukopōteron|easier for|G2123|Adj-NNS-C
@@ -485,7 +485,7 @@ v28 θρόνου|thronou|throne|G2362|N-GMS
 v28 δόξης|doxēs|glorious|G1391|N-GFS
 v28 αὐτοῦ|autou|His|G846|PPro-GM3S
 v28 καθήσεσθε|kathēsesthe|will also sit|G2521|V-FIM-2P
-v28 καὶ|kai|vvv|G2532|Conj
+v28 καὶ|kai|...|G2532|Conj
 v28 ὑμεῖς*|hymeis|-|G4771|PPro-N2P
 v28 ἐπὶ|epi|on|G1909|Prep
 v28 δώδεκα|dōdeka|twelve|G1427|Adj-AMP

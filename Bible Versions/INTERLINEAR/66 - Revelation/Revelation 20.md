@@ -49,7 +49,7 @@ v3 ἐσφράγισεν|esphragisen|sealed [it]|G4972|V-AIA-3S
 v3 ἐπάνω|epanō|over|G1883|Prep
 v3 αὐτοῦ|autou|him|G846|PPro-GM3S
 v3 ἵνα|hina|so that|G2443|Conj
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 πλανήσῃ|planēsē|he could not deceive|G4105|V-ASA-3S
 v3 ἔτι|eti|...|G2089|Adv
 v3 τὰ|ta|the|G3588|Art-ANP
@@ -94,7 +94,7 @@ v4 τοῦ|tou|-|G3588|Art-GMS
 v4 θεοῦ|theou|of God|G2316|N-GMS
 v4 καὶ|kai|and|G2532|Conj
 v4 οἵτινες|hoitines|those who|G3748|RelPro-NMP
-v4 οὐ|ou|vvv|G3756|Adv
+v4 οὐ|ou|...|G3756|Adv
 v4 προσεκύνησαν|prosekynēsan|had not worshiped|G4352|V-AIA-3P
 v4 τὸ|to|the|G3588|Art-ANS
 v4 θηρίον|thērion|beast|G2342|N-ANS
@@ -103,7 +103,7 @@ v4 τὴν|tēn|-|G3588|Art-AFS
 v4 εἰκόνα|eikona|image|G1504|N-AFS
 v4 αὐτοῦ|autou|its|G846|PPro-GN3S
 v4 καὶ|kai|and|G2532|Conj
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 ἔλαβον|elabon|had not received|G2983|V-AIA-3P
 v4 τὸ|to|[its]|G3588|Art-ANS
 v4 χάραγμα|charagma|mark|G5480|N-ANS
@@ -344,8 +344,8 @@ v13 ἡ|hē|The|G3588|Art-NFS
 v13 θάλασσα|thalassa|sea|G2281|N-NFS
 v13 τοὺς|tous|-|G3588|Art-AMP
 v13 νεκροὺς|nekrous|dead|G3498|Adj-AMP
-v13 τοὺς|tous|vvv|G3588|Art-AMP
-v13 ἐν|en|vvv|G1722|Prep
+v13 τοὺς|tous|...|G3588|Art-AMP
+v13 ἐν|en|...|G1722|Prep
 v13 αὐτῇ|autē|its|G846|PPro-DF3S
 v13 καὶ|kai|and|G2532|Conj
 v13 ὁ|ho|-|G3588|Art-NMS

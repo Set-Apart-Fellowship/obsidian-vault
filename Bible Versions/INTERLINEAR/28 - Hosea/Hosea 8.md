@@ -66,7 +66,7 @@ v7 וְסוּפָ֣תָה|wə·sū·p̄ā·ṯāh|the whirlwind|H5492|Conj-w | N
 v7 יִקְצֹ֑רוּ|yiq·ṣō·rū|and they shall reap|H7114|V-Qal-Imperf-3mp
 v7 קָמָ֣ה|qā·māh|standing grain|H7054|N-fs
 v7 אֵֽין־|’ên-|There is no|H369|Adv
-v7 ל֗וֹ|lōw||H0|Prep | 3ms
+v7 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v7 צֶ֚מַח|ṣe·maḥ|what sprouts|H6780|N-ms
 v7 בְּלִ֣י|bə·lî|fails|H1097|Adv
 v7 יַֽעֲשֶׂה־|ya·‘ă·śeh-|to yield|H6213|V-Qal-Imperf-3ms
@@ -83,7 +83,7 @@ v8 בַגּוֹיִ֔ם|ḇag·gō·w·yim|among the nations|H1471|Prep-b, Art |
 v8 כִּכְלִ֖י|kiḵ·lî|vessel|H3627|Prep-k | N-ms
 v8 אֵֽין־|’ên-|like a worthless|H369|Adv
 v8 חֵ֥פֶץ|ḥê·p̄eṣ|...|H2656|N-ms
-v8 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v8 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v9 כִּֽי־|kî-|For|H3588|Conj
 v9 הֵ֙מָּה֙|hêm·māh|they|H1992|Pro-3mp
 v9 עָל֣וּ|‘ā·lū|have gone up|H5927|V-Qal-Perf-3cp
@@ -151,4 +151,4 @@ v14 וְשִׁלַּחְתִּי־|wə·šil·laḥ·tî-|But I will send|H7971|
 v14 אֵ֣שׁ|’êš|fire|H784|N-cs
 v14 בְּעָרָ֔יו|bə·‘ā·rāw|upon their cities|H5892|Prep-b | N-fpc | 3ms
 v14 וְאָכְלָ֖ה|wə·’ā·ḵə·lāh|and it will consume|H398|Conj-w | V-Qal-ConjPerf-3fs
-v14 אַרְמְנֹתֶֽיהָ׃ס|’ar·mə·nō·ṯe·hā|their citadels|H759|N-mpc | 3fs
+v14 אַרְמְנֹתֶֽיהָ׃|’ar·mə·nō·ṯe·hā|their citadels|H759|N-mpc | 3fs

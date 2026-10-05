@@ -10,7 +10,7 @@ v1 יְהוָ֛ה|Yah·weh|so [He]|H3068|N-proper-ms
 v1 בְּיַד־|bə·yaḏ-|into the hand|H3027|Prep-b | N-fsc
 v1 פְּלִשְׁתִּ֖ים|pə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v1 אַרְבָּעִ֥ים|’ar·bā·‘îm|for forty|H705|Number-cp
-v1 שָׁנָֽה׃פ|šā·nāh|years|H8141|N-fs
+v1 שָׁנָֽה׃|šā·nāh|years|H8141|N-fs
 v2 וַיְהִי֩|way·hî|Now there was|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v2 אִ֨ישׁ|’îš|man|H376|N-ms
 v2 אֶחָ֧ד|’e·ḥāḏ|a|H259|Number-ms
@@ -84,7 +84,7 @@ v6 הָאֱלֹהִים֙|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v6 בָּ֣א|bā|came|H935|V-Qal-Perf-3ms
 v6 אֵלַ֔י|’ê·lay|to me|H413|Prep | 1cs
 v6 וּמַרְאֵ֕הוּ|ū·mar·’ê·hū|His appearance was like|H4758|Conj-w | N-msc | 3ms
-v6 כְּמַרְאֵ֛ה|kə·mar·’êh||H4758|Prep-k | N-msc
+v6 כְּמַרְאֵ֛ה|kə·mar·’êh|-|H4758|Prep-k | N-msc
 v6 מַלְאַ֥ךְ|mal·’aḵ|the angel|H4397|N-msc
 v6 הָאֱלֹהִ֖ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v6 נוֹרָ֣א|nō·w·rā|awesome|H3372|V-Nifal-Prtcpl-ms
@@ -93,7 +93,7 @@ v6 וְלֹ֤א|wə·lō|I did not|H3808|Conj-w | Adv-NegPrt
 v6 שְׁאִלְתִּ֙יהוּ֙|šə·’il·tî·hū|ask him|H7592|V-Qal-Perf-1cs | 3ms
 v6 אֵֽי־|’ê-|where|H335|Interrog
 v6 מִזֶּ֣ה|miz·zeh|he came from|H2088|Prep-m | Pro-ms
-v6 ה֔וּא|hū||H1931|Pro-3ms
+v6 ה֔וּא|hū|-|H1931|Pro-3ms
 v6 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v6 שְׁמ֖וֹ|šə·mōw|his name|H8034|N-msc | 3ms
 v6 לֹֽא־|lō-|and he did not|H3808|Adv-NegPrt
@@ -123,7 +123,7 @@ v7 מִן־|min-|from|H4480|Prep
 v7 הַבֶּ֖טֶן|hab·be·ṭen|the womb|H990|Art | N-fs
 v7 עַד־|‘aḏ-|until|H5704|Prep
 v7 י֥וֹם|yō·wm|the day|H3117|N-msc
-v7 מוֹתֽוֹ׃פ|mō·w·ṯōw|of his death|H4194|N-msc | 3ms
+v7 מוֹתֽוֹ׃|mō·w·ṯōw|of his death|H4194|N-msc | 3ms
 v8 וַיֶּעְתַּ֥ר|way·ye‘·tar|prayed|H6279|Conj-w | V-Qal-ConsecImperf-3ms
 v8 מָנ֛וֹחַ|mā·nō·w·aḥ|Then Manoah|H4495|N-proper-ms
 v8 אֶל־|’el-|to|H413|Prep
@@ -167,7 +167,7 @@ v10 וַתָּ֖רָץ|wat·tā·rāṣ|ran|H7323|Conj-w | V-Qal-ConsecImperf-3f
 v10 וַתַּגֵּ֣ד|wat·tag·gêḏ|...|H5046|Conj-w | V-Hifil-ConsecImperf-3fs
 v10 לְאִישָׁ֑הּ|lə·’î·šāh|The woman|H376|Prep-l | N-msc | 3fs
 v10 וַתֹּ֣אמֶר|wat·tō·mer|to tell|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v10 אֵלָ֔יו|’ê·lāw||H413|Prep | 3ms
+v10 אֵלָ֔יו|’ê·lāw|-|H413|Prep | 3ms
 v10 הִנֵּ֨ה|hin·nêh|Behold|H2009|Interjection
 v10 נִרְאָ֤ה|nir·’āh|has reappeared|H7200|V-Nifal-Perf-3ms
 v10 אֵלַי֙|’ê·lay|...|H413|Prep | 1cs
@@ -185,7 +185,7 @@ v11 וַיָּבֹא֙|way·yā·ḇō|When he came|H935|Conj-w | V-Qal-ConsecIm
 v11 אֶל־|’el-|to|H413|Prep
 v11 הָאִ֔ישׁ|hā·’îš|the man|H376|Art | N-ms
 v11 וַיֹּ֣אמֶר|way·yō·mer|he asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v11 ל֗וֹ|lōw||H0|Prep | 3ms
+v11 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v11 הַאַתָּ֥ה|ha·’at·tāh|Are you|H859|Art | Pro-2ms
 v11 הָאִ֛ישׁ|hā·’îš|the man|H376|Art | N-ms
 v11 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
@@ -249,8 +249,8 @@ v15 עִזִּֽים׃|‘iz·zîm|...|H5795|N-fp
 v16 וַיֹּאמֶר֩|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 מַלְאַ֨ךְ|mal·’aḵ|And the angel|H4397|N-msc
 v16 יְהוָ֜ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v16 אֶל־|’el-||H413|Prep
-v16 מָנ֗וֹחַ|mā·nō·w·aḥ||H4495|N-proper-ms
+v16 אֶל־|’el-|-|H413|Prep
+v16 מָנ֗וֹחַ|mā·nō·w·aḥ|-|H4495|N-proper-ms
 v16 אִם־|’im-|Even if|H518|Conj
 v16 תַּעְצְרֵ֙נִי֙|ta‘·ṣə·rê·nî|I stay|H6113|V-Qal-Imperf-2ms | 1cs
 v16 לֹא־|lō-|I will not|H3808|Adv-NegPrt
@@ -289,7 +289,7 @@ v18 זֶּ֖ה|zeh|...|H2088|Pro-ms
 v18 תִּשְׁאַ֣ל|tiš·’al|do you ask|H7592|V-Qal-Imperf-2ms
 v18 לִשְׁמִ֑י|liš·mî|my name|H8034|Prep-l | N-msc | 1cs
 v18 וְהוּא־|wə·hū-|since it|H1931|Conj-w | Pro-3ms
-v18 פֶ֛לִאי׃ס|p̄ɛ·li|is beyond comprehension|H6383|Adj-ms
+v18 פֶ֛לִאי׃|p̄ɛ·li|is beyond comprehension|H6383|Adj-ms
 v19 וַיִּקַּ֨ח|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v19 מָנ֜וֹחַ|mā·nō·w·aḥ|Then Manoah|H4495|N-proper-ms
 v19 אֶת־|’eṯ-|-|H853|DirObjM
@@ -351,7 +351,7 @@ v22 כִּ֥י|kî|for|H3588|Conj
 v22 אֱלֹהִ֖ים|’ĕ·lō·hîm|God|H430|N-mp
 v22 רָאִֽינוּ׃|rā·’î·nū|we have seen|H7200|V-Qal-Perf-1cp
 v23 וַתֹּ֧אמֶר|wat·tō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v23 ל֣וֹ|lōw||H0|Prep | 3ms
+v23 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v23 אִשְׁתּ֗וֹ|’iš·tōw|But his wife|H802|N-fsc | 3ms
 v23 לוּ֩|lū|If|H3863|Prep
 v23 חָפֵ֨ץ|ḥā·p̄êṣ|had intended|H2654|V-Qal-Perf-3ms
@@ -391,4 +391,4 @@ v25 דָ֑ן|ḏān|...|H4265|Prep | N-proper-fs
 v25 בֵּ֥ין|bên|between|H996|Prep
 v25 צָרְעָ֖ה|ṣā·rə·‘āh|Zorah|H6881|N-proper-fs
 v25 וּבֵ֥ין|ū·ḇên|...|H996|Conj-w | Prep
-v25 אֶשְׁתָּאֹֽל׃פ|’eš·tā·’ōl|and Eshtaol|H847|N-proper-fs
+v25 אֶשְׁתָּאֹֽל׃|’eš·tā·’ōl|and Eshtaol|H847|N-proper-fs

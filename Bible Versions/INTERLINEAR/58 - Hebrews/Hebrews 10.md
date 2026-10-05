@@ -12,23 +12,23 @@ v1 τὴν|tēn|the|G3588|Art-AFS
 v1 εἰκόνα|eikona|realities|G1504|N-AFS
 v1 τῶν|tōn|...|G3588|Art-GNP
 v1 πραγμάτων|pragmatōn|...|G4229|N-GNP
-v1 κατ’|kat’|vvv|G2596|Prep
+v1 κατ’|kat’|...|G2596|Prep
 v1 ἐνιαυτὸν|eniauton|year after year|G1763|N-AMS
 v1 ταῖς|tais|by the|G3588|Art-DFP
 v1 αὐταῖς|autais|same|G846|PPro-DF3P
 v1 θυσίαις|thysiais|sacrifices|G2378|N-DFP
 v1 ἃς|has|-|G3739|RelPro-AFP
 v1 προσφέρουσιν|prospherousin|offered|G4374|V-PIA-3P
-v1 εἰς|eis|vvv|G1519|Prep
-v1 τὸ|to|vvv|G3588|Art-ANS
-v1 διηνεκὲς|diēnekes|vvv|G1336|Adj-ANS
+v1 εἰς|eis|...|G1519|Prep
+v1 τὸ|to|...|G3588|Art-ANS
+v1 διηνεκὲς|diēnekes|...|G1336|Adj-ANS
 v1 οὐδέποτε|oudepote|never|G3763|Adv
 v1 δύναται|dynatai|It can|G1410|V-PIM/P-3S
 v1 τοὺς|tous|those who|G3588|Art-AMP
 v1 προσερχομένους|proserchomenous|draw near [ to worship ]|G4334|V-PPM/P-AMP
 v1 τελειῶσαι|teleiōsai|make perfect|G5048|V-ANA
 v2 ἐπεὶ|epei|[If it could]|G1893|Conj
-v2 οὐκ|ouk|vvv|G3756|Adv
+v2 οὐκ|ouk|...|G3756|Adv
 v2 ἂν|an|...|G302|Prtcl
 v2 ἐπαύσαντο|epausanto|would not the offerings have ceased|G3973|V-AIM-3P
 v2 προσφερόμεναι|prospheromenai|...|G4374|V-PPM/P-NFP
@@ -67,7 +67,7 @@ v5 λέγει|legei|He said|G3004|V-PIA-3S
 v5 Θυσίαν|Thysian|Sacrifice|G2378|N-AFS
 v5 καὶ|kai|and|G2532|Conj
 v5 προσφορὰν|prosphoran|offering|G4376|N-AFS
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 ἠθέλησας|ēthelēsas|You did not desire|G2309|V-AIA-2S
 v5 Σῶμα|Sōma|a body|G4983|N-ANS
 v5 δὲ|de|but|G1161|Conj
@@ -75,16 +75,16 @@ v5 κατηρτίσω|katērtisō|You prepared|G2675|V-AIM-2S
 v5 μοι|moi|for Me|G1473|PPro-D1S
 v6 Ὁλοκαυτώματα|Holokautōmata|In burnt offerings|G3646|N-ANP
 v6 καὶ|kai|and|G2532|Conj
-v6 περὶ|peri|vvv|G4012|Prep
+v6 περὶ|peri|...|G4012|Prep
 v6 ἁμαρτίας|hamartias|sin [offerings]|G266|N-GFS
-v6 Οὐκ|Ouk|vvv|G3756|Adv
+v6 Οὐκ|Ouk|...|G3756|Adv
 v6 εὐδόκησας|eudokēsas|You took no delight|G2106|V-AIA-2S
 v7 Τότε|Tote|Then|G5119|Adv
 v7 εἶπον|eipon|I said|G2036|V-AIA-1S
 v7 Ἰδοὺ|Idou|Here I am|G2400|V-AMA-2S
 v7 ἥκω|hēkō|I have come|G2240|V-PIA-1S
 v7 Ἐν|En|in|G1722|Prep
-v7 κεφαλίδι|kephalidi|vvv|G2777|N-DFS
+v7 κεφαλίδι|kephalidi|...|G2777|N-DFS
 v7 βιβλίου|bibliou|[the] scroll|G975|N-GNS
 v7 γέγραπται|gegraptai|it is written|G1125|V-RIM/P-3S
 v7 περὶ|peri|about|G4012|Prep
@@ -105,9 +105,9 @@ v8 προσφορὰς|prosphoras|offerings|G4376|N-AFP
 v8 καὶ|kai|-|G2532|Conj
 v8 ὁλοκαυτώματα|holokautōmata|burnt offerings|G3646|N-ANP
 v8 καὶ|kai|and|G2532|Conj
-v8 περὶ|peri|vvv|G4012|Prep
+v8 περὶ|peri|...|G4012|Prep
 v8 ἁμαρτίας|hamartias|sin [offerings]|G266|N-GFS
-v8 οὐκ|ouk|vvv|G3756|Adv
+v8 οὐκ|ouk|...|G3756|Adv
 v8 ἠθέλησας|ēthelēsas|You did not desire|G2309|V-AIA-2S
 v8 οὐδὲ|oude|nor|G3761|Conj
 v8 εὐδόκησας|eudokēsas|did You delight in [them]|G2106|V-AIA-2S
@@ -149,7 +149,7 @@ v11 πᾶς|pas|every|G3956|Adj-NMS
 v11 μὲν|men|-|G3303|Conj
 v11 ἱερεὺς|hiereus|priest|G2409|N-NMS
 v11 ἕστηκεν|hestēken|stands|G2476|V-RIA-3S
-v11 καθ’|kath’|vvv|G2596|Prep
+v11 καθ’|kath’|...|G2596|Prep
 v11 ἡμέραν|hēmeran|Day after day|G2250|N-AFS
 v11 λειτουργῶν|leitourgōn|to minister|G3008|V-PPA-NMS
 v11 καὶ|kai|and|G2532|Conj
@@ -170,15 +170,15 @@ v12 ὑπὲρ|hyper|for|G5228|Prep
 v12 ἁμαρτιῶν|hamartiōn|sins|G266|N-GFP
 v12 προσενέγκας|prosenenkas|had offered|G4374|V-APA-NMS
 v12 θυσίαν|thysian|sacrifice|G2378|N-AFS
-v12 εἰς|eis|vvv|G1519|Prep
-v12 τὸ|to|vvv|G3588|Art-ANS
+v12 εἰς|eis|...|G1519|Prep
+v12 τὸ|to|...|G3588|Art-ANS
 v12 διηνεκὲς|diēnekes|for all time|G1336|Adj-ANS
 v12 ἐκάθισεν|ekathisen|He sat down|G2523|V-AIA-3S
 v12 ἐν|en|at|G1722|Prep
 v12 δεξιᾷ|dexia|[the] right hand|G1188|Adj-DFS
 v12 τοῦ|tou|-|G3588|Art-GMS
 v12 Θεοῦ|Theou|of God|G2316|N-GMS
-v13 τὸ|to|vvv|G3588|Art-ANS
+v13 τὸ|to|...|G3588|Art-ANS
 v13 λοιπὸν|loipon|Since that time|G3063|Adj-ANS
 v13 ἐκδεχόμενος|ekdechomenos|He waits|G1551|V-PPM/P-NMS
 v13 ἕως|heōs|for|G2193|Conj
@@ -331,7 +331,7 @@ v24 ἀγάπης|agapēs|to love|G26|N-GFS
 v24 καὶ|kai|and|G2532|Conj
 v24 καλῶν|kalōn|good|G2570|Adj-GNP
 v24 ἔργων|ergōn|deeds|G2041|N-GNP
-v25 μὴ|mē|vvv|G3361|Adv
+v25 μὴ|mē|...|G3361|Adv
 v25 ἐγκαταλείποντες|enkataleipontes|Let us not neglect|G1459|V-PPA-NMP
 v25 τὴν|tēn|-|G3588|Art-AFS
 v25 ἐπισυναγωγὴν|episynagōgēn|meeting together|G1997|N-AFS
@@ -406,8 +406,8 @@ v29 αἷμα|haima|blood|G129|N-ANS
 v29 τῆς|tēs|of the|G3588|Art-GFS
 v29 διαθήκης|diathēkēs|covenant|G1242|N-GFS
 v29 κοινὸν|koinon|profaned|G2839|Adj-ANS
-v29 ἡγησάμενος|hēgēsamenos|vvv|G2233|V-APM-NMS
-v29 ἐν|en|vvv|G1722|Prep
+v29 ἡγησάμενος|hēgēsamenos|...|G2233|V-APM-NMS
+v29 ἐν|en|...|G1722|Prep
 v29 ᾧ|hō|that|G3739|RelPro-DNS
 v29 ἡγιάσθη|hēgiasthē|sanctified him|G37|V-AIP-3S
 v29 καὶ|kai|and|G2532|Conj
@@ -475,7 +475,7 @@ v34 ἁρπαγὴν|harpagēn|confiscation|G724|N-AFS
 v34 τῶν|tōn|of|G3588|Art-GNP
 v34 ὑπαρχόντων|hyparchontōn|property|G5225|V-PPA-GNP
 v34 ὑμῶν|hymōn|your|G4771|PPro-G2P
-v34 μετὰ|meta|vvv|G3326|Prep
+v34 μετὰ|meta|...|G3326|Prep
 v34 χαρᾶς|charas|joyfully|G5479|N-GFS
 v34 προσεδέξασθε|prosedexasthe|accepted|G4327|V-AIM-2P
 v34 γινώσκοντες|ginōskontes|knowing that|G1097|V-PPA-NMP
@@ -508,7 +508,7 @@ v36 ποιήσαντες|poiēsantes|after you have done|G4160|V-APA-NMP
 v36 κομίσησθε|komisēsthe|you will receive|G2865|V-ASM-2P
 v36 τὴν|tēn|what|G3588|Art-AFS
 v36 ἐπαγγελίαν|epangelian|He has promised|G1860|N-AFS
-v37 ἔτι|eti|vvv|G2089|Adv
+v37 ἔτι|eti|...|G2089|Adv
 v37 γὰρ|gar|For|G1063|Conj
 v37 Μικρὸν|Mikron|little|G3398|Adj-AMS
 v37 ὅσον|hoson|In just a|G3745|RelPro-AMS
@@ -517,7 +517,7 @@ v37 ὁ|ho|He who|G3588|Art-NMS
 v37 ἐρχόμενος|erchomenos|is coming|G2064|V-PPM/P-NMS
 v37 ἥξει|hēxei|will come|G2240|V-FIA-3S
 v37 καὶ|kai|and|G2532|Conj
-v37 οὐ|ou|vvv|G3756|Adv
+v37 οὐ|ou|...|G3756|Adv
 v37 χρονίσει|chronisei|will not delay|G5549|V-FIA-3S
 v38 ὁ|ho|one|G3588|Art-NMS
 v38 δὲ|de|But|G1161|Conj

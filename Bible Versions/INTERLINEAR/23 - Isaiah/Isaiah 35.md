@@ -23,7 +23,7 @@ v2 יִרְא֥וּ|yir·’ū|will see|H7200|V-Qal-Imperf-3mp
 v2 כְבוֹד־|ḵə·ḇō·wḏ-|the glory|H3519|N-msc
 v2 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v2 הֲדַ֥ר|hă·ḏar|the splendor|H1926|N-msc
-v2 אֱלֹהֵֽינוּ׃ס|’ĕ·lō·hê·nū|of our God|H430|N-mpc | 1cp
+v2 אֱלֹהֵֽינוּ׃|’ĕ·lō·hê·nū|of our God|H430|N-mpc | 1cp
 v3 חַזְּק֖וּ|ḥaz·zə·qū|Strengthen|H2388|V-Piel-Imp-mp
 v3 יָדַ֣יִם|yā·ḏa·yim|hands|H3027|N-fd
 v3 רָפ֑וֹת|rā·p̄ō·wṯ|the limp|H7504|Adj-fp
@@ -84,7 +84,7 @@ v8 וָדֶ֗רֶךְ|wā·ḏe·reḵ|...|H1870|Conj-w | N-cs
 v8 וְדֶ֤רֶךְ|wə·ḏe·reḵ|the Way|H1870|Conj-w | N-csc
 v8 הַקֹּ֙דֶשׁ֙|haq·qō·ḏeš|of Holiness|H6944|Art | N-ms
 v8 יִקָּ֣רֵא|yiq·qā·rê|called|H7121|V-Nifal-Imperf-3ms
-v8 לָ֔הּ|lāh||H0|Prep | 3fs
+v8 לָ֔הּ|lāh|-|H0|Prep | 3fs
 v8 לֹֽא־|lō-|will not|H3808|Adv-NegPrt
 v8 יַעַבְרֶ֥נּוּ|ya·‘aḇ·ren·nū|travel it|H5674|V-Qal-Imperf-3ms | 3ms
 v8 טָמֵ֖א|ṭā·mê|The unclean|H2931|Adj-ms
@@ -123,4 +123,4 @@ v10 וְשִׂמְחָה֙|wə·śim·ḥāh|and joy|H8057|Conj-w | N-fs
 v10 יַשִּׂ֔יגוּ|yaś·śî·ḡū|will overtake them|H5381|V-Hifil-Imperf-3mp
 v10 וְנָ֖סוּ|wə·nā·sū|will flee|H5127|Conj-w | V-Qal-ConjPerf-3cp
 v10 יָג֥וֹן|yā·ḡō·wn|and sorrow|H3015|N-ms
-v10 וַאֲנָחָֽה׃פ|wa·’ă·nā·ḥāh|and sighing|H585|Conj-w | N-fs
+v10 וַאֲנָחָֽה׃|wa·’ă·nā·ḥāh|and sighing|H585|Conj-w | N-fs

@@ -83,7 +83,7 @@ v8 מִדְיָ֜ן|miḏ·yān|-|H4080|N-proper-ms
 v8 הָרְג֣וּ|hā·rə·ḡū|[were]|H2026|V-Qal-Perf-3cp
 v8 עַל־|‘al-|Among|H5921|Prep
 v8 חַלְלֵיהֶ֗ם|ḥal·lê·hem|the slain|H2491|N-mpc | 3mp
-v8 אֶת־|’eṯ-||H853|DirObjM
+v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 אֱוִ֤י|’ĕ·wî|Evi|H189|N-proper-ms
 v8 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v8 רֶ֙קֶם֙|re·qem|Rekem|H7552|N-proper-ms
@@ -148,7 +148,7 @@ v12 וְאֶל־|wə·’el-|and to|H413|Conj-w | Prep
 v12 עֲדַ֣ת|‘ă·ḏaṯ|the congregation|H5712|N-fsc
 v12 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v12 יִשְׂרָאֵ֗ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v12 אֶת־|’eṯ-||H853|DirObjM
+v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 הַשְּׁבִ֧י|haš·šə·ḇî|the captives|H7628|Art | N-ms
 v12 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v12 הַמַּלְק֛וֹחַ|ham·mal·qō·w·aḥ|spoils|H4455|Art | N-ms
@@ -162,7 +162,7 @@ v12 מוֹאָ֔ב|mō·w·’āḇ|of Moab|H4124|N-proper-fs
 v12 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v12 עַל־|‘al-|by|H5921|Prep
 v12 יַרְדֵּ֥ן|yar·dên|the Jordan|H3383|N-proper-fs
-v12 יְרֵחֽוֹ׃ס|yə·rê·ḥōw|across from Jericho|H3405|N-proper-fs
+v12 יְרֵחֽוֹ׃|yə·rê·ḥōw|across from Jericho|H3405|N-proper-fs
 v13 וַיֵּ֨צְא֜וּ|way·yê·ṣə·’ū|went|H3318|Conj-w | V-Qal-ConsecImperf-3mp
 v13 מֹשֶׁ֨ה|mō·šeh|And Moses|H4872|N-proper-ms
 v13 וְאֶלְעָזָ֧ר|wə·’el·‘ā·zār|Eleazar|H499|Conj-w | N-proper-ms
@@ -261,7 +261,7 @@ v20 עִזִּ֖ים|‘iz·zîm|made of goat's hair|H5795|N-fp
 v20 וְכָל־|wə·ḵāl|and every|H3605|Conj-w | N-msc
 v20 כְּלִי־|kə·lî-|article|H3627|N-msc
 v20 עֵ֑ץ|‘êṣ|of wood|H6086|N-ms
-v20 תִּתְחַטָּֽאוּ׃ס|tiṯ·ḥaṭ·ṭā·’ū|And purify|H2398|V-Hitpael-Imperf-2mp
+v20 תִּתְחַטָּֽאוּ׃|tiṯ·ḥaṭ·ṭā·’ū|And purify|H2398|V-Hitpael-Imperf-2mp
 v21 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v21 אֶלְעָזָ֤ר|’el·‘ā·zār|Then Eleazar|H499|N-proper-ms
 v21 הַכֹּהֵן֙|hak·kō·hên|the priest|H3548|Art | N-ms
@@ -318,7 +318,7 @@ v24 וּטְהַרְתֶּ֑ם|ū·ṭə·har·tem|and you will be clean|H2891|C
 v24 וְאַחַ֖ר|wə·’a·ḥar|After that|H310|Conj-w | Adv
 v24 תָּבֹ֥אוּ|tā·ḇō·’ū|you may enter|H935|V-Qal-Imperf-2mp
 v24 אֶל־|’el-|...|H413|Prep
-v24 הַֽמַּחֲנֶֽה׃פ|ham·ma·ḥă·neh|the camp|H4264|Art | N-cs
+v24 הַֽמַּחֲנֶֽה׃|ham·ma·ḥă·neh|the camp|H4264|Art | N-cs
 v25 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v25 יְהוָ֖ה|Yah·weh|The LORD|H3068|N-proper-ms
 v25 אֶל־|’el-|to|H413|Prep
@@ -385,7 +385,7 @@ v30 מִן־|min-|From|H4480|Prep
 v30 הַחֲמִשִּׁ֗ים|ha·ḥă·miš·šîm|every fifty|H2572|Art | Number-cp
 v30 מִן־|min-|out of|H4480|Prep
 v30 הָאָדָ֧ם|hā·’ā·ḏām|whether persons|H120|Art | N-ms
-v30 מִן־|min-||H4480|Prep
+v30 מִן־|min-|-|H4480|Prep
 v30 הַבָּקָ֛ר|hab·bā·qār|cattle|H1241|Art | N-ms
 v30 מִן־|min-|...|H4480|Prep
 v30 הַחֲמֹרִ֥ים|ha·ḥă·mō·rîm|donkeys|H2543|Art | N-mp
@@ -418,7 +418,7 @@ v32 בָּזְז֖וּ|bā·zə·zū|had taken|H962|V-Qal-Perf-3cp
 v32 עַ֣ם|‘am|the soldiers|H5971|N-msc
 v32 הַצָּבָ֑א|haṣ·ṣā·ḇā|...|H6635|Art | N-cs
 v32 צֹ֗אן|ṣōn|sheep|H6629|N-cs
-v32 שֵׁשׁ־|šêš-|675,000 {}|H8337|Number-fsc
+v32 שֵׁשׁ־|šêš-|675,000|H8337|Number-fsc
 v32 מֵא֥וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v32 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v32 וְשִׁבְעִ֥ים|wə·šiḇ·‘îm|...|H7657|Conj-w | Number-cp
@@ -426,11 +426,11 @@ v32 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v32 וַחֲמֵֽשֶׁת־|wa·ḥă·mê·šeṯ-|...|H2568|Conj-w | Number-msc
 v32 אֲלָפִֽים׃|’ă·lā·p̄îm|...|H505|Number-mp
 v33 וּבָקָ֕ר|ū·ḇā·qār|cattle|H1241|Conj-w | N-ms
-v33 שְׁנַ֥יִם|šə·na·yim|72,000 {}|H8147|Number-md
+v33 שְׁנַ֥יִם|šə·na·yim|72,000|H8147|Number-md
 v33 וְשִׁבְעִ֖ים|wə·šiḇ·‘îm|...|H7657|Conj-w | Number-cp
 v33 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v34 וַחֲמֹרִ֕ים|wa·ḥă·mō·rîm|donkeys|H2543|Conj-w | N-mp
-v34 אֶחָ֥ד|’e·ḥāḏ|61,000 {}|H259|Number-ms
+v34 אֶחָ֥ד|’e·ḥāḏ|61,000|H259|Number-ms
 v34 וְשִׁשִּׁ֖ים|wə·šiš·šîm|...|H8346|Conj-w | Number-cp
 v34 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v35 וְנֶ֣פֶשׁ|wə·ne·p̄eš|and|H5315|Conj-w | N-fsc
@@ -444,7 +444,7 @@ v35 מִשְׁכַּ֣ב|miš·kaḇ|...|H4904|N-msc
 v35 זָכָ֑ר|zā·ḵār|a man|H2145|N-ms
 v35 כָּל־|kāl-|-|H3605|N-msc
 v35 נֶ֕פֶשׁ|ne·p̄eš|-|H5315|N-fs
-v35 שְׁנַ֥יִם|šə·na·yim|32,000 {}|H8147|Number-md
+v35 שְׁנַ֥יִם|šə·na·yim|32,000|H8147|Number-md
 v35 וּשְׁלֹשִׁ֖ים|ū·šə·lō·šîm|...|H7970|Conj-w | Number-cp
 v35 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v36 וַתְּהִי֙|wat·tə·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3fs
@@ -473,7 +473,7 @@ v37 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v37 חָמֵ֥שׁ|ḥā·mêš|...|H2568|Number-fs
 v37 וְשִׁבְעִֽים׃|wə·šiḇ·‘îm|...|H7657|Conj-w | Number-cp
 v38 וְהַ֨בָּקָ֔ר|wə·hab·bā·qār|cattle|H1241|Conj-w, Art | N-ms
-v38 שִׁשָּׁ֥ה|šiš·šāh|36,000 {}|H8337|Number-ms
+v38 שִׁשָּׁ֥ה|šiš·šāh|36,000|H8337|Number-ms
 v38 וּשְׁלֹשִׁ֖ים|ū·šə·lō·šîm|...|H7970|Conj-w | Number-cp
 v38 אָ֑לֶף|’ā·lep̄|...|H505|Number-ms
 v38 וּמִכְסָ֥ם|ū·miḵ·sām|including a tribute|H4371|Conj-w | N-msc | 3mp
@@ -481,7 +481,7 @@ v38 לַיהוָ֖ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v38 שְׁנַ֥יִם|šə·na·yim|of 72|H8147|Number-md
 v38 וְשִׁבְעִֽים׃|wə·šiḇ·‘îm|...|H7657|Conj-w | Number-cp
 v39 וַחֲמֹרִ֕ים|wa·ḥă·mō·rîm|donkeys|H2543|Conj-w | N-mp
-v39 שְׁלֹשִׁ֥ים|šə·lō·šîm|{} 30,500|H7970|Number-cp
+v39 שְׁלֹשִׁ֥ים|šə·lō·šîm|30,500|H7970|Number-cp
 v39 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v39 וַחֲמֵ֣שׁ|wa·ḥă·mêš|...|H2568|Conj-w | Number-fsc
 v39 מֵא֑וֹת|mê·’ō·wṯ|...|H3967|Number-fp
@@ -536,7 +536,7 @@ v43 אֲלָפִ֖ים|’ă·lā·p̄îm|...|H505|Number-mp
 v43 וַחֲמֵ֥שׁ|wa·ḥă·mêš|...|H2568|Conj-w | Number-fsc
 v43 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v44 וּבָקָ֕ר|ū·ḇā·qār|cattle|H1241|Conj-w | N-ms
-v44 שִׁשָּׁ֥ה|šiš·šāh|36,000 {}|H8337|Number-ms
+v44 שִׁשָּׁ֥ה|šiš·šāh|36,000|H8337|Number-ms
 v44 וּשְׁלֹשִׁ֖ים|ū·šə·lō·šîm|...|H7970|Conj-w | Number-cp
 v44 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v45 וַחֲמֹרִ֕ים|wa·ḥă·mō·rîm|donkeys|H2543|Conj-w | N-mp
@@ -549,7 +549,7 @@ v46 אָדָ֔ם|’ā·ḏām|...|H120|N-ms
 v46 שִׁשָּׁ֥ה|šiš·šāh|and 16,000|H8337|Number-ms
 v46 עָשָׂ֖ר|‘ā·śār|...|H6240|Number-ms
 v46 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
-v47 וַיִּקַּ֨ח|way·yiq·qaḥ||H3947|Conj-w | V-Qal-ConsecImperf-3ms
+v47 וַיִּקַּ֨ח|way·yiq·qaḥ|-|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v47 מֹשֶׁ֜ה|mō·šeh|Moses|H4872|N-proper-ms
 v47 מִמַּחֲצִ֣ת|mim·ma·ḥă·ṣiṯ|half|H4276|Prep-m | N-fsc
 v47 בְּנֵֽי־|bə·nê-|From the Israelites'|H1121|N-mpc
@@ -624,7 +624,7 @@ v51 וַיִּקַּ֨ח|way·yiq·qaḥ|received|H3947|Conj-w | V-Qal-ConsecImp
 v51 מֹשֶׁ֜ה|mō·šeh|So Moses|H4872|N-proper-ms
 v51 וְאֶלְעָזָ֧ר|wə·’el·‘ā·zār|and Eleazar|H499|Conj-w | N-proper-ms
 v51 הַכֹּהֵ֛ן|hak·kō·hên|the priest|H3548|Art | N-ms
-v51 אֶת־|’eṯ-||H853|DirObjM
+v51 אֶת־|’eṯ-|-|H853|DirObjM
 v51 הַזָּהָ֖ב|haz·zā·hāḇ|out of gold|H2091|Art | N-ms
 v51 מֵֽאִתָּ֑ם|mê·’it·tām|from them|H854|Prep-m | DirObjM | 3mp
 v51 כֹּ֖ל|kōl|all|H3605|N-msc
@@ -674,4 +674,4 @@ v54 זִכָּר֥וֹן|zik·kā·rō·wn|as a memorial|H2146|N-ms
 v54 לִבְנֵֽי־|liḇ·nê-|for the Israelites|H1121|Prep-l | N-mpc
 v54 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v54 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
-v54 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v54 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

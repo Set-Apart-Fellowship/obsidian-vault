@@ -63,7 +63,7 @@ v4 יִשְׂרָאֵל֙|yiś·rā·’êl|...|H3478|N-proper-ms
 v4 מְקַטְּרִ֣ים|mə·qaṭ·ṭə·rîm|had burned incense|H6999|V-Piel-Prtcpl-mp
 v4 ל֔וֹ|lōw|to it|H0|Prep | 3ms
 v4 וַיִּקְרָא־|way·yiq·rā-|called|H7121|Conj-w | V-Qal-ConsecImperf-3ms
-v4 ל֖וֹ|lōw||H0|Prep | 3ms
+v4 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v4 נְחֻשְׁתָּֽן׃|nə·ḥuš·tān|Nehushtan|H5180|N-proper-ms
 v5 בַּיהוָ֥ה|Yah·weh|in the LORD|H3068|Prep-b | N-proper-ms
 v5 אֱלֹהֵֽי־|’ĕ·lō·hê-|the God|H430|N-mpc
@@ -115,7 +115,7 @@ v8 מִמִּגְדַּ֥ל|mim·miḡ·dal|from|H4026|Prep-m | N-msc
 v8 נוֹצְרִ֖ים|nō·wṣ·rîm|watchtower|H5341|V-Qal-Prtcpl-mp
 v8 עַד־|‘aḏ-|to|H5704|Prep
 v8 עִ֥יר|‘îr|city|H5892|N-fsc
-v8 מִבְצָֽר׃פ|miḇ·ṣār|fortified|H4013|N-ms
+v8 מִבְצָֽר׃|miḇ·ṣār|fortified|H4013|N-ms
 v9 וַֽיְהִ֞י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v9 בַּשָּׁנָ֤ה|baš·šā·nāh|year|H8141|Prep-b, Art | N-fs
 v9 הָֽרְבִיעִית֙|hā·rə·ḇî·‘îṯ|In the fourth|H7243|Art | Number-ofs
@@ -185,7 +185,7 @@ v12 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v12 וְלֹ֥א|wə·lō|and would neither|H3808|Conj-w | Adv-NegPrt
 v12 שָׁמְע֖וּ|šā·mə·‘ū|listen|H8085|V-Qal-Perf-3cp
 v12 וְלֹ֥א|wə·lō|nor|H3808|Conj-w | Adv-NegPrt
-v12 עָשֽׂוּ׃פ|‘ā·śū|obey|H6213|V-Qal-Perf-3cp
+v12 עָשֽׂוּ׃|‘ā·śū|obey|H6213|V-Qal-Perf-3cp
 v13 וּבְאַרְבַּע֩|ū·ḇə·’ar·ba‘|In the fourteenth|H702|Conj-w, Prep-b | Number-fs
 v13 עֶשְׂרֵ֨ה|‘eś·rêh|...|H6240|Number-fs
 v13 שָׁנָ֜ה|šā·nāh|year|H8141|N-fs
@@ -260,17 +260,17 @@ v16 מֶ֣לֶךְ|me·leḵ|and [he]|H4428|N-msc
 v16 יְהוּדָ֑ה|yə·hū·ḏāh|...|H3063|N-proper-ms
 v16 וַֽיִּתְּנֵ֖ם|way·yit·tə·nêm|gave it|H5414|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
 v16 לְמֶ֥לֶךְ|lə·me·leḵ|to the king|H4428|Prep-l | N-msc
-v16 אַשּֽׁוּר׃פ|’aš·šūr|of Assyria|H804|N-proper-fs
+v16 אַשּֽׁוּר׃|’aš·šūr|of Assyria|H804|N-proper-fs
 v17 וַיִּשְׁלַ֣ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v17 מֶֽלֶךְ־|me·leḵ-|Nevertheless, the king|H4428|N-msc
 v17 אַשּׁ֡וּר|’aš·šūr|of Assyria|H804|N-proper-fs
 v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 תַּרְתָּ֥ן|tar·tān|the Tartan|H8661|N-ms
 v17 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v17 רַב־|raḇ-|vvv|H7249|N-ms
+v17 רַב־|raḇ-|...|H7249|N-ms
 v17 סָרִ֣יס׀|sā·rîs|the Rabsaris|H7249|N-ms
 v17 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v17 רַב־|raḇ-|vvv|H7262|N-ms
+v17 רַב־|raḇ-|...|H7262|N-ms
 v17 שָׁקֵ֨ה|šā·qêh|and the Rabshakeh|H7262|N-ms
 v17 מִן־|min-|from|H4480|Prep
 v17 לָכִ֜ישׁ|lā·ḵîš|Lachish|H3923|N-proper-fs
@@ -312,7 +312,7 @@ v18 אָסָ֖ף|’ā·sāp̄|of Asaph|H623|N-proper-ms
 v18 הַמַּזְכִּֽיר׃|ham·maz·kîr|the recorder|H2142|Art | V-Hifil-Prtcpl-ms
 v19 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v19 אֲלֵהֶם֙|’ă·lê·hem|to them|H413|Prep | 3mp
-v19 רַב־|raḇ-|vvv|H7262|N-ms
+v19 רַב־|raḇ-|...|H7262|N-ms
 v19 שָׁקֵ֔ה|šā·qêh|The Rabshakeh|H7262|N-ms
 v19 אִמְרוּ־|’im·rū-|Tell|H559|V-Qal-Imp-mp
 v19 נָ֖א|nā|...|H4994|Interjection
@@ -346,19 +346,19 @@ v20 בִּֽי׃|bî|against me|H0|Prep | 1cs
 v21 עַתָּ֡ה|‘at·tāh|now|H6258|Adv
 v21 הִנֵּ֣ה|hin·nêh|Look|H2009|Interjection
 v21 בָטַ֣חְתָּ|ḇā·ṭaḥ·tā|you are trusting|H982|V-Qal-Perf-2ms
-v21 לְּךָ֡|lə·ḵā||H0|Prep | 2ms
-v21 עַל־|‘al-||H5921|Prep
+v21 לְּךָ֡|lə·ḵā|-|H0|Prep | 2ms
+v21 עַל־|‘al-|-|H5921|Prep
 v21 מִשְׁעֶנֶת֩|miš·‘e·neṯ|of a staff|H4938|N-fsc
 v21 הַקָּנֶ֨ה|haq·qā·neh|reed|H7070|Art | N-ms
 v21 הָרָצ֤וּץ|hā·rā·ṣūṣ|that splintered|H7533|Art | V-Qal-QalPassPrtcpl-ms
 v21 הַזֶּה֙|haz·zeh|...|H2088|Art | Pro-ms
-v21 עַל־|‘al-||H5921|Prep
+v21 עַל־|‘al-|-|H5921|Prep
 v21 מִצְרַ֔יִם|miṣ·ra·yim|in Egypt|H4714|N-proper-fs
 v21 אֲשֶׁ֨ר|’ă·šer|who|H834|Pro-r
 v21 יִסָּמֵ֥ךְ|yis·sā·mêḵ|leans on it|H5564|V-Nifal-Imperf-3ms
 v21 אִישׁ֙|’îš|of anyone|H376|N-ms
-v21 עָלָ֔יו|‘ā·lāw||H5921|Prep | 3ms
-v21 וּבָ֥א|ū·ḇā|vvv|H935|Conj-w | V-Qal-ConjPerf-3ms
+v21 עָלָ֔יו|‘ā·lāw|-|H5921|Prep | 3ms
+v21 וּבָ֥א|ū·ḇā|...|H935|Conj-w | V-Qal-ConjPerf-3ms
 v21 בְכַפּ֖וֹ|ḇə·ḵap·pōw|the hand|H3709|Prep-b | N-fsc | 3ms
 v21 וּנְקָבָ֑הּ|ū·nə·qā·ḇāh|that will pierce|H5344|Conj-w | V-Qal-ConjPerf-3ms | 3fs
 v21 כֵּ֚ן|kên|Such is|H3651|Adv
@@ -407,7 +407,7 @@ v23 סוּסִ֔ים|sū·sîm|horses|H5483|N-mp
 v23 אִם־|’im-|if|H518|Conj
 v23 תּוּכַ֕ל|tū·ḵal|you can|H3201|V-Qal-Imperf-2ms
 v23 לָ֥תֶת|lā·ṯeṯ|put|H5414|Prep-l | V-Qal-Inf
-v23 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v23 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v23 רֹכְבִ֥ים|rō·ḵə·ḇîm|riders|H7392|V-Qal-Prtcpl-mp
 v23 עֲלֵיהֶֽם׃|‘ă·lê·hem|on them|H5921|Prep | 3mp
 v24 וְאֵ֣יךְ|wə·’êḵ|For how|H349|Conj-w | Interjection
@@ -448,7 +448,7 @@ v26 חִ֠לְקִיָּהוּ|ḥil·qî·yā·hū|of Hilkiah|H2518|N-proper-ms
 v26 וְשֶׁבְנָ֨ה|wə·šeḇ·nāh|along with Shebnah|H7644|Conj-w | N-proper-ms
 v26 וְיוֹאָ֜ח|wə·yō·w·’āḥ|and Joah|H3098|Conj-w | N-proper-ms
 v26 אֶל־|’el-|to|H413|Prep
-v26 רַב־|raḇ-|vvv|H7262|N-ms
+v26 רַב־|raḇ-|...|H7262|N-ms
 v26 שָׁקֵ֗ה|šā·qêh|the Rabshakeh|H7262|N-ms
 v26 דַּבֶּר־|dab·ber-|speak|H1696|V-Piel-Imp-ms
 v26 נָ֤א|nā|Please|H4994|Interjection
@@ -469,7 +469,7 @@ v26 עַל־|‘al-|on|H5921|Prep
 v26 הַחֹמָֽה׃|ha·ḥō·māh|the wall|H2346|Art | N-fs
 v27 וַיֹּ֨אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v27 אֲלֵיהֶ֜ם|’ă·lê·hem|...|H413|Prep | 3mp
-v27 רַב־|raḇ-|vvv|H7262|N-ms
+v27 רַב־|raḇ-|...|H7262|N-ms
 v27 שָׁקֵ֗ה|šā·qêh|But the Rabshakeh|H7262|N-ms
 v27 הַעַ֨ל|ha·‘al|only to|H5921|Prep
 v27 אֲדֹנֶ֤יךָ|’ă·ḏō·ne·ḵā|Has my master|H113|N-mpc | 2ms
@@ -494,7 +494,7 @@ v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 שֵׁינֵיהֶם|šē·nē·hɛm|their own urine|H7890|N-fdc | 3mp
 v27 עִמָּכֶֽם׃|‘im·mā·ḵem|who are destined with you|H5973|Prep | 2mp
 v28 וַֽיַּעֲמֹד֙|way·ya·‘ă·mōḏ|stood|H5975|Conj-w | V-Qal-ConsecImperf-3ms
-v28 רַב־|raḇ-|vvv|H7262|N-ms
+v28 רַב־|raḇ-|...|H7262|N-ms
 v28 שָׁקֵ֔ה|šā·qêh|Then the Rabshakeh|H7262|N-ms
 v28 וַיִּקְרָ֥א|way·yiq·rā|and called out|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v28 בְקוֹל־|ḇə·qō·wl-|loudly|H6963|Prep-b | N-ms
@@ -664,5 +664,5 @@ v37 בְגָדִ֑ים|ḇə·ḡā·ḏîm|with their clothes|H899|N-mp
 v37 וַיַּגִּ֣דוּ|way·yag·gi·ḏū|and they relayed|H5046|Conj-w | V-Hifil-ConsecImperf-3mp
 v37 ל֔וֹ|lōw|to him|H0|Prep | 3ms
 v37 דִּבְרֵ֖י|diḇ·rê|the words|H1697|N-mpc
-v37 רַב־|raḇ-|vvv|H7262|N-ms
+v37 רַב־|raḇ-|...|H7262|N-ms
 v37 שָׁקֵֽה׃|šā·qêh|of [the] Rabshakeh|H7262|N-ms

@@ -107,7 +107,7 @@ v8 הַגּוֹיִ֔ם|hag·gō·w·yim|nations|H1471|Art | N-mp
 v8 הַצֹּבְאִ֖ים|haṣ·ṣō·ḇə·’îm|who go to battle|H6633|Art | V-Qal-Prtcpl-mp
 v8 עַל־|‘al-|against|H5921|Prep
 v8 הַ֥ר|har|Mount|H2022|N-msc
-v8 צִיּֽוֹן׃ס|ṣî·yō·wn|Zion|H6726|N-proper-fs
+v8 צִיּֽוֹן׃|ṣî·yō·wn|Zion|H6726|N-proper-fs
 v9 הִתְמַהְמְה֣וּ|hiṯ·mah·mə·hū|Stop|H4102|V-Hitpael-Imp-mp
 v9 וּתְמָ֔הוּ|ū·ṯə·mā·hū|and be astonished|H8539|Conj-w | V-Qal-Imp-mp
 v9 הִשְׁתַּֽעַשְׁע֖וּ|hiš·ta·‘aš·‘ū|blind yourselves|H8173|V-Hitpael-Imp-mp
@@ -170,7 +170,7 @@ v12 זֶ֑ה|zeh|...|H2088|Pro-ms
 v12 וְאָמַ֕ר|wə·’ā·mar|he will say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v12 לֹ֥א|lō|I cannot read|H3808|Adv-NegPrt
 v12 יָדַ֖עְתִּי|yā·ḏa‘·tî|...|H3045|V-Qal-Perf-1cs
-v12 סֵֽפֶר׃ס|sê·p̄er|...|H5612|N-ms
+v12 סֵֽפֶר׃|sê·p̄er|...|H5612|N-ms
 v13 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 אֲדֹנָ֗י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v13 יַ֚עַן|ya·‘an|Therefore|H3282|Adv
@@ -204,7 +204,7 @@ v14 חָכְמַ֣ת|ḥā·ḵə·maṯ|The wisdom|H2451|N-fsc
 v14 חֲכָמָ֔יו|ḥă·ḵā·māw|of the wise|H2450|Adj-mpc | 3ms
 v14 וּבִינַ֥ת|ū·ḇî·naṯ|and the intelligence|H998|Conj-w | N-fsc
 v14 נְבֹנָ֖יו|nə·ḇō·nāw|of the intelligent|H995|V-Nifal-Prtcpl-mpc | 3ms
-v14 תִּסְתַּתָּֽר׃ס|tis·tat·tār|will be hidden|H5641|V-Hitpael-Imperf-3fs
+v14 תִּסְתַּתָּֽר׃|tis·tat·tār|will be hidden|H5641|V-Hitpael-Imperf-3fs
 v15 ה֛וֹי|hō·w|Woe|H1945|Interjection
 v15 הַמַּעֲמִיקִ֥ים|ham·ma·‘ă·mî·qîm|to those who dig deep|H6009|Art | V-Hifil-Prtcpl-mp
 v15 מֵֽיהוָ֖ה|Yah·weh|from the LORD|H3068|Prep-m | N-proper-ms
@@ -234,7 +234,7 @@ v16 אָמַ֥ר|’ā·mar|say|H559|V-Qal-Perf-3ms
 v16 לְיוֹצְר֖וֹ|lə·yō·wṣ·rōw|of the potter|H3335|Prep-l | V-Qal-Prtcpl-msc | 3ms
 v16 לֹ֥א|lō|He has no|H3808|Adv-NegPrt
 v16 הֵבִֽין׃|hê·ḇîn|understanding|H995|V-Hifil-Perf-3ms
-v17 הֲלוֹא־|hă·lō·w-|vvv|H3808|Adv-NegPrt
+v17 הֲלוֹא־|hă·lō·w-|...|H3808|Adv-NegPrt
 v17 עוֹד֙|‘ō·wḏ|In a very|H5750|Adv
 v17 מְעַ֣ט|mə·‘aṭ|short|H4592|Adj-msc
 v17 מִזְעָ֔ר|miz·‘ār|time|H4213|Adv
@@ -281,7 +281,7 @@ v21 בַּשַּׁ֖עַר|baš·ša·‘ar|at the gate|H8179|Prep-b, Art | N-ms
 v21 יְקֹשׁ֑וּן|yə·qō·šūn|who ensnare|H6983|V-Qal-Imperf-3mp | Pn
 v21 וַיַּטּ֥וּ|way·yaṭ·ṭū|of justice|H5186|Conj-w | V-Hifil-ConsecImperf-3mp
 v21 בַתֹּ֖הוּ|ḇat·tō·hū|and who with false charges|H8414|Prep-b, Art | N-ms
-v21 צַדִּֽיק׃ס|ṣad·dîq|deprive the innocent|H6662|Adj-ms
+v21 צַדִּֽיק׃|ṣad·dîq|deprive the innocent|H6662|Adj-ms
 v22 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v22 כֹּֽה־|kōh-|-|H3541|Adv
 v22 אָמַ֤ר|’ā·mar|says|H559|V-Qal-Perf-3ms

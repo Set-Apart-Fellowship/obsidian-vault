@@ -10,7 +10,7 @@ v2 מַחְסִ֣י|maḥ·sî|[You are] my refuge|H4268|N-msc | 1cs
 v2 וּמְצוּדָתִ֑י|ū·mə·ṣū·ḏā·ṯî|and my fortress|H4686|Conj-w | N-fsc | 1cs
 v2 אֱ֝לֹהַ֗י|’ĕ·lō·hay|my God|H430|N-mpc | 1cs
 v2 אֶבְטַח־|’eḇ·ṭaḥ-|in whom I trust|H982|V-Qal-Imperf-1cs
-v2 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v2 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v3 כִּ֤י|kî|Surely|H3588|Conj
 v3 ה֣וּא|hū|He|H1931|Pro-3ms
 v3 יַ֭צִּֽילְךָ|yaṣ·ṣî·lə·ḵā|will deliver you|H5337|V-Hifil-Imperf-3ms | 2ms

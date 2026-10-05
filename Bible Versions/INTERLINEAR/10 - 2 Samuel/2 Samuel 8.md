@@ -9,7 +9,7 @@ v1 וַיַּכְנִיעֵ֑ם|way·yaḵ·nî·‘êm|subdued them|H3665|Conj-
 v1 וַיִּקַּ֥ח|way·yiq·qaḥ|and took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v1 דָּוִ֛ד|dā·wiḏ|...|H1732|N-proper-ms
 v1 אֶת־|’eṯ-|-|H853|DirObjM
-v1 מֶ֥תֶג|me·ṯeḡ|vvv|H4965|N-msc
+v1 מֶ֥תֶג|me·ṯeḡ|...|H4965|N-msc
 v1 הָאַמָּ֖ה|hā·’am·māh|Metheg-ammah|H4965|Art | N-fs
 v1 מִיַּ֥ד|mî·yaḏ|from the hand|H3027|Prep-m | N-fsc
 v1 פְּלִשְׁתִּֽים׃|pə·liš·tîm|of the Philistines|H6430|N-proper-mp
@@ -119,7 +119,7 @@ v8 הַמֶּ֧לֶךְ|ham·me·leḵ|King|H4428|Art | N-ms
 v8 דָּוִ֛ד|dā·wiḏ|David|H1732|N-proper-ms
 v8 נְחֹ֖שֶׁת|nə·ḥō·šeṯ|of bronze|H5178|N-fs
 v8 הַרְבֵּ֥ה|har·bêh|amount|H7235|V-Hifil-InfAbs
-v8 מְאֹֽד׃ס|mə·’ōḏ|a large|H3966|Adv
+v8 מְאֹֽד׃|mə·’ōḏ|a large|H3966|Adv
 v9 וַיִּשְׁמַ֕ע|way·yiš·ma‘|heard|H8085|Conj-w | V-Qal-ConsecImperf-3ms
 v9 תֹּ֖עִי|tō·‘î|Toi|H8583|N-proper-ms
 v9 מֶ֣לֶךְ|me·leḵ|When King|H4428|N-msc
@@ -141,7 +141,7 @@ v10 הַמֶּֽלֶךְ־|ham·me·leḵ-|King|H4428|Art | N-ms
 v10 דָּ֠וִד|dā·wiḏ|David|H1732|N-proper-ms
 v10 לִשְׁאָל־|liš·’āl-|to greet|H7592|Prep-l | V-Qal-Inf
 v10 ל֨וֹ|lōw|-|H0|Prep | 3ms
-v10 לְשָׁל֜וֹם|lə·šā·lō·wm|vvv|H7965|Prep-l | N-ms
+v10 לְשָׁל֜וֹם|lə·šā·lō·wm|...|H7965|Prep-l | N-ms
 v10 וּֽלְבָרֲכ֗וֹ|ū·lə·ḇā·ră·ḵōw|and bless him|H1288|Conj-w, Prep-l | V-Piel-Inf | 3ms
 v10 עַל֩|‘al|for|H5921|Prep
 v10 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
@@ -225,8 +225,8 @@ v15 דָּוִ֖ד|dā·wiḏ|Thus David|H1732|N-proper-ms
 v15 עַל־|‘al-|over|H5921|Prep
 v15 כָּל־|kāl-|all|H3605|N-msc
 v15 יִשְׂרָאֵ֑ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
-v15 וַיְהִ֣י|way·hî|vvv|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v15 דָוִ֗ד|ḏā·wiḏ|vvv|H1732|N-proper-ms
+v15 וַיְהִ֣י|way·hî|...|H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v15 דָוִ֗ד|ḏā·wiḏ|...|H1732|N-proper-ms
 v15 עֹשֶׂ֛ה|‘ō·śeh|and administered|H6213|V-Qal-Prtcpl-ms
 v15 מִשְׁפָּ֥ט|miš·pāṭ|justice|H4941|N-ms
 v15 וּצְדָקָ֖ה|ū·ṣə·ḏā·qāh|and righteousness|H6666|Conj-w | N-fs
@@ -258,4 +258,4 @@ v18 וְהַפְּלֵתִ֑י|wə·hap·pə·lê·ṯî|and Pelethites|H6432|Co
 v18 וּבְנֵ֥י|ū·ḇə·nê|sons|H1121|Conj-w | N-mpc
 v18 דָוִ֖ד|ḏā·wiḏ|and David's|H1732|N-proper-ms
 v18 כֹּהֲנִ֥ים|kō·hă·nîm|priestly leaders|H3548|N-mp
-v18 הָיֽוּ׃פ|hā·yū|were|H1961|V-Qal-Perf-3cp
+v18 הָיֽוּ׃|hā·yū|were|H1961|V-Qal-Perf-3cp

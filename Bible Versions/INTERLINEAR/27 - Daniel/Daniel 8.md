@@ -14,8 +14,8 @@ v1 אֵלַ֖י|’ê·lay|to me|H413|Prep | 1cs
 v1 בַּתְּחִלָּֽה׃|bat·tə·ḥil·lāh|earlier|H8462|Prep-b, Art | N-fs
 v2 וָֽאֶרְאֶה֮|wā·’er·’eh|I saw|H7200|Conj-w | V-Qal-ConsecImperf-1cs
 v2 בֶּחָזוֹן֒|be·ḥā·zō·wn|And in the vision|H2377|Prep-b, Art | N-ms
-v2 וַיְהִי֙|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v2 בִּרְאֹתִ֔י|bir·’ō·ṯî||H7200|Prep-b | V-Qal-Inf | 1cs
+v2 וַיְהִי֙|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v2 בִּרְאֹתִ֔י|bir·’ō·ṯî|-|H7200|Prep-b | V-Qal-Inf | 1cs
 v2 וַאֲנִי֙|wa·’ă·nî|myself|H589|Conj-w | Pro-1cs
 v2 בְּשׁוּשַׁ֣ן|bə·šū·šan|of Susa|H7800|Prep-b | N-proper-fs
 v2 הַבִּירָ֔ה|hab·bî·rāh|in the citadel|H1002|Art | N-fs
@@ -115,7 +115,7 @@ v7 וַיְשַׁבֵּר֙|way·šab·bêr|and shattered|H7665|Conj-w | V-Piel-
 v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 שְׁתֵּ֣י|šə·tê|his two|H8147|Number-fdc
 v7 קְרָנָ֔יו|qə·rā·nāw|horns|H7161|N-fdc | 3ms
-v7 וְלֹא־|wə·lō-|vvv|H3808|Conj-w | Adv-NegPrt
+v7 וְלֹא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v7 הָ֥יָה|hā·yāh|was|H1961|V-Qal-Perf-3ms
 v7 כֹ֛חַ|ḵō·aḥ|powerless|H3581|N-ms
 v7 בָּאַ֖יִל|bā·’a·yil|The ram|H352|Prep-b, Art | N-ms
@@ -248,7 +248,7 @@ v16 הַמַּרְאֶֽה׃|ham·mar·’eh|the vision|H4758|Art | N-ms
 v17 וַיָּבֹא֙|way·yā·ḇō|As he came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v17 אֵ֣צֶל|’ê·ṣel|near|H681|Prep
 v17 עָמְדִ֔י|‘ā·mə·ḏî|to where I stood|H5977|N-msc | 1cs
-v17 וּבְבֹא֣וֹ|ū·ḇə·ḇō·’ōw||H935|Conj-w, Prep-b | V-Qal-Inf | 3ms
+v17 וּבְבֹא֣וֹ|ū·ḇə·ḇō·’ōw|-|H935|Conj-w, Prep-b | V-Qal-Inf | 3ms
 v17 נִבְעַ֔תִּי|niḇ·‘at·tî|I was terrified|H1204|V-Nifal-Perf-1cs
 v17 וָאֶפְּלָ֖ה|wā·’ep·pə·lāh|and fell|H5307|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
 v17 עַל־|‘al-|facedown|H5921|Prep
@@ -380,4 +380,4 @@ v27 וָאֶשְׁתּוֹמֵ֥ם|wā·’eš·tō·w·mêm|I was confounded|H8
 v27 עַל־|‘al-|by|H5921|Prep
 v27 הַמַּרְאֶ֖ה|ham·mar·’eh|the vision|H4758|Art | N-ms
 v27 וְאֵ֥ין|wə·’ên|it was beyond|H369|Conj-w | Adv
-v27 מֵבִֽין׃פ|mê·ḇîn|understanding|H995|V-Hifil-Prtcpl-ms
+v27 מֵבִֽין׃|mê·ḇîn|understanding|H995|V-Hifil-Prtcpl-ms

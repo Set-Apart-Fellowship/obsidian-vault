@@ -50,9 +50,9 @@ v2 ὀνόματος|onomatos|name|G3686|N-GNS
 v2 αὐτοῦ|autou|of its|G846|PPro-GN3S
 v2 ἑστῶτας|hestōtas|stood|G2476|V-RPA-AMP
 v2 ἐπὶ|epi|beside|G1909|Prep
-v2 τὴν|tēn|vvv|G3588|Art-AFS
-v2 θάλασσαν|thalassan|vvv|G2281|N-AFS
-v2 τὴν|tēn|vvv|G3588|Art-AFS
+v2 τὴν|tēn|...|G3588|Art-AFS
+v2 θάλασσαν|thalassan|...|G2281|N-AFS
+v2 τὴν|tēn|...|G3588|Art-AFS
 v2 ὑαλίνην|hyalinēn|[which]|G5193|Adj-AFS
 v2 ἔχοντας|echontas|They were holding|G2192|V-PPA-AMP
 v2 κιθάρας|kitharas|harps|G2788|N-AFP
@@ -95,8 +95,8 @@ v3 Βασιλεὺς|Basileus|King|G935|N-NMS
 v3 τῶν|tōn|of the|G3588|Art-GMP
 v3 ἐθνῶν|ethnōn|nations|G1484|N-GNP
 v4 τίς|tis|Who|G5101|IPro-NMS
-v4 οὐ|ou|vvv|G3756|Adv
-v4 μὴ|mē|vvv|G3361|Adv
+v4 οὐ|ou|...|G3756|Adv
+v4 μὴ|mē|...|G3361|Adv
 v4 φοβηθῇ|phobēthē|will not fear [You]|G5399|V-ASP-3S
 v4 Κύριε|Kyrie|O Lord|G2962|N-VMS
 v4 καὶ|kai|and|G2532|Conj
@@ -180,8 +180,8 @@ v7 τοῦ|tou|-|G3588|Art-GMS
 v7 Θεοῦ|Theou|of God|G2316|N-GMS
 v7 τοῦ|tou|who|G3588|Art-GMS
 v7 ζῶντος|zōntos|lives|G2198|V-PPA-GMS
-v7 εἰς|eis|vvv|G1519|Prep
-v7 τοὺς|tous|vvv|G3588|Art-AMP
+v7 εἰς|eis|...|G1519|Prep
+v7 τοὺς|tous|...|G3588|Art-AMP
 v7 αἰῶνας|aiōnas|forever|G165|N-AMP
 v7 τῶν|tōn|[and]|G3588|Art-GMP
 v7 αἰώνων|aiōnōn|ever|G165|N-GMP

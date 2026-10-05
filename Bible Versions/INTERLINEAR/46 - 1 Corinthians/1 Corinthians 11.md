@@ -66,11 +66,11 @@ v5 καταισχύνει|kataischynei|dishonors|G2617|V-PIA-3S
 v5 τὴν|tēn|-|G3588|Art-AFS
 v5 κεφαλὴν|kephalēn|head|G2776|N-AFS
 v5 αὐτῆς|autēs|her|G846|PPro-GF3S
-v5 ἓν|hen|vvv|G1520|Adj-NNS
+v5 ἓν|hen|...|G1520|Adj-NNS
 v5 γάρ|gar|for|G1063|Conj
 v5 ἐστιν|estin|it is|G1510|V-PIA-3S
-v5 καὶ|kai|vvv|G2532|Conj
-v5 τὸ|to|vvv|G3588|Art-NNS
+v5 καὶ|kai|...|G2532|Conj
+v5 τὸ|to|...|G3588|Art-NNS
 v5 αὐτὸ|auto|just [as if]|G846|PPro-NN3S
 v5 τῇ|tē|-|G3588|Art-DFS
 v5 ἐξυρημένῃ|exyrēmenē|her head were shaved|G3587|V-RPM/P-DFS
@@ -177,7 +177,7 @@ v12 ἐκ|ek|[comes] from|G1537|Prep
 v12 τοῦ|tou|-|G3588|Art-GMS
 v12 Θεοῦ|Theou|God|G2316|N-GMS
 v13 Ἐν|En|for|G1722|Prep
-v13 ὑμῖν|hymin|vvv|G4771|PPro-D2P
+v13 ὑμῖν|hymin|...|G4771|PPro-D2P
 v13 αὐτοῖς|autois|yourselves|G846|PPro-DM3P
 v13 κρίνατε|krinate|Judge|G2919|V-AMA-2P
 v13 πρέπον|prepon|proper|G4241|V-PPA-NNS
@@ -195,7 +195,7 @@ v14 διδάσκει|didaskei|teach|G1321|V-PIA-3S
 v14 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v14 ὅτι|hoti|that|G3754|Conj
 v14 ἀνὴρ|anēr|a man|G435|N-NMS
-v14 μὲν|men|vvv|G3303|Conj
+v14 μὲν|men|...|G3303|Conj
 v14 ἐὰν|ean|if|G1437|Conj
 v14 κομᾷ|koma|has long hair|G2863|V-PSA-3S
 v14 ἀτιμία|atimia|a disgrace|G819|N-NFS
@@ -234,21 +234,21 @@ v16 Θεοῦ|Theou|of God|G2316|N-GMS
 v17 Τοῦτο|Touto|In the [following]|G3778|DPro-ANS
 v17 δὲ|de|-|G1161|Conj
 v17 παραγγέλλων|parangellōn|instructions|G3853|V-PPA-NMS
-v17 οὐκ|ouk|vvv|G3756|Adv
+v17 οὐκ|ouk|...|G3756|Adv
 v17 ἐπαινῶ|epainō|I have no praise to offer|G1867|V-PIA-1S
 v17 ὅτι|hoti|because|G3754|Conj
-v17 οὐκ|ouk|vvv|G3756|Adv
-v17 εἰς|eis|vvv|G1519|Prep
-v17 τὸ|to|vvv|G3588|Art-ANS
+v17 οὐκ|ouk|...|G3756|Adv
+v17 εἰς|eis|...|G1519|Prep
+v17 τὸ|to|...|G3588|Art-ANS
 v17 κρεῖσσον|kreisson|than good|G2908|Adj-ANS-C
-v17 ἀλλὰ|alla|vvv|G235|Conj
-v17 εἰς|eis|vvv|G1519|Prep
-v17 τὸ|to|vvv|G3588|Art-ANS
+v17 ἀλλὰ|alla|...|G235|Conj
+v17 εἰς|eis|...|G1519|Prep
+v17 τὸ|to|...|G3588|Art-ANS
 v17 ἧσσον|hēsson|do more harm|G2276|Adj-ANS-C
 v17 συνέρχεσθε|synerchesthe|your gatherings|G4905|V-PIM/P-2P
 v18 πρῶτον|prōton|First of all|G4412|Adv-S
-v18 μὲν|men|vvv|G3303|Conj
-v18 γὰρ|gar|vvv|G1063|Conj
+v18 μὲν|men|...|G3303|Conj
+v18 γὰρ|gar|...|G1063|Conj
 v18 συνερχομένων|synerchomenōn|come together|G4905|V-PPM/P-GMP
 v18 ὑμῶν|hymōn|[when] you|G4771|PPro-G2P
 v18 ἐν|en|as|G1722|Prep
@@ -274,7 +274,7 @@ v19 καὶ|kai|-|G2532|Conj
 v19 οἱ|hoi|which|G3588|Art-NMP
 v19 δόκιμοι|dokimoi|are approved|G1384|Adj-NMP
 v19 φανεροὶ|phaneroi|show|G5318|Adj-NMP
-v19 γένωνται|genōntai|vvv|G1096|V-ASM-3P
+v19 γένωνται|genōntai|...|G1096|V-ASM-3P
 v19 ἐν|en|of|G1722|Prep
 v19 ὑμῖν|hymin|you|G4771|PPro-D2P
 v20 Συνερχομένων|Synerchomenōn|come together|G4905|V-PPM/P-GMP
@@ -341,7 +341,7 @@ v23 ἀπὸ|apo|from|G575|Prep
 v23 τοῦ|tou|the|G3588|Art-GMS
 v23 Κυρίου|Kyriou|Lord|G2962|N-GMS
 v23 ὃ|ho|what|G3739|RelPro-ANS
-v23 καὶ|kai|vvv|G2532|Conj
+v23 καὶ|kai|...|G2532|Conj
 v23 παρέδωκα|paredōka|I also passed on|G3860|V-AIA-1S
 v23 ὑμῖν|hymin|to you|G4771|PPro-D2P
 v23 ὅτι|hoti|-|G3754|Conj
@@ -396,7 +396,7 @@ v25 αἵματι|haimati|blood|G129|N-DNS
 v25 τοῦτο|touto|this|G3778|DPro-ANS
 v25 ποιεῖτε|poieite|do|G4160|V-PMA-2P
 v25 ὁσάκις|hosakis|as often as|G3740|Conj
-v25 ἐὰν|ean|vvv|G1437|Conj
+v25 ἐὰν|ean|...|G1437|Conj
 v25 πίνητε|pinēte|you drink [it]|G4095|V-PSA-2P
 v25 εἰς|eis|in|G1519|Prep
 v25 τὴν|tēn|-|G3588|Art-AFS
@@ -404,7 +404,7 @@ v25 ἐμὴν|emēn|of Me|G1699|PPro-AF1S
 v25 ἀνάμνησιν|anamnēsin|remembrance|G364|N-AFS
 v26 ὁσάκις|hosakis|as often as|G3740|Conj
 v26 γὰρ|gar|For|G1063|Conj
-v26 ἐὰν|ean|vvv|G1437|Conj
+v26 ἐὰν|ean|...|G1437|Conj
 v26 ἐσθίητε|esthiēte|you eat|G2068|V-PSA-2P
 v26 τὸν|ton|-|G3588|Art-AMS
 v26 ἄρτον|arton|bread|G740|N-AMS
@@ -487,8 +487,8 @@ v31 Εἰ|Ei|if|G1487|Conj
 v31 δὲ|de|Now|G1161|Conj
 v31 ἑαυτοὺς|heautous|ourselves {properly}|G1438|RefPro-AM3P
 v31 διεκρίνομεν|diekrinomen|we judged|G1252|V-IIA-1P
-v31 οὐκ|ouk|vvv|G3756|Adv
-v31 ἂν|an|vvv|G302|Prtcl
+v31 οὐκ|ouk|...|G3756|Adv
+v31 ἂν|an|...|G302|Prtcl
 v31 ἐκρινόμεθα|ekrinometha|we would not come under judgment|G2919|V-IIM/P-1P
 v32 κρινόμενοι|krinomenoi|when we are judged|G2919|V-PPM/P-NMP
 v32 δὲ|de|But|G1161|Conj
@@ -497,7 +497,7 @@ v32 τοῦ|tou|the|G3588|Art-GMS
 v32 Κυρίου|Kyriou|Lord|G2962|N-GMS
 v32 παιδευόμεθα|paideuometha|we are being disciplined|G3811|V-PIM/P-1P
 v32 ἵνα|hina|so that|G2443|Conj
-v32 μὴ|mē|vvv|G3361|Adv
+v32 μὴ|mē|...|G3361|Adv
 v32 σὺν|syn|with|G4862|Prep
 v32 τῷ|tō|the|G3588|Art-DMS
 v32 κόσμῳ|kosmō|world|G2889|N-DMS
@@ -526,6 +526,6 @@ v34 Τὰ|Ta|about the|G3588|Art-ANP
 v34 δὲ|de|And|G1161|Conj
 v34 λοιπὰ|loipa|remaining matters|G3062|Adj-ANP
 v34 ὡς|hōs|when|G5613|Adv
-v34 ἂν|an|vvv|G302|Prtcl
+v34 ἂν|an|...|G302|Prtcl
 v34 ἔλθω|elthō|I come|G2064|V-ASA-1S
 v34 διατάξομαι|diataxomai|I will give instructions|G1299|V-FIM-1S

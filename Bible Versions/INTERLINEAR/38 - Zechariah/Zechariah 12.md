@@ -12,7 +12,7 @@ v1 אָ֔רֶץ|’ā·reṣ|of the earth|H776|N-fs
 v1 וְיֹצֵ֥ר|wə·yō·ṣêr|who forms|H3335|Conj-w | V-Qal-Prtcpl-ms
 v1 רֽוּחַ־|rū·aḥ-|the spirit|H7307|N-csc
 v1 אָדָ֖ם|’ā·ḏām|of man|H120|N-ms
-v1 בְּקִרְבּֽוֹ׃פ|bə·qir·bōw|within him|H7130|Prep-b | N-msc | 3ms
+v1 בְּקִרְבּֽוֹ׃|bə·qir·bōw|within him|H7130|Prep-b | N-msc | 3ms
 v2 הִנֵּ֣ה|hin·nêh|Behold|H2009|Interjection
 v2 אָ֠נֹכִי|’ā·nō·ḵî|I|H595|Pro-1cs
 v2 שָׂ֣ם|śām|will make|H7760|V-Qal-Prtcpl-ms
@@ -23,7 +23,7 @@ v2 רַ֛עַל|ra·‘al|of drunkenness|H7478|N-ms
 v2 לְכָל־|lə·ḵāl|to all|H3605|Prep-l | N-msc
 v2 הָעַמִּ֖ים|hā·‘am·mîm|peoples|H5971|Art | N-mp
 v2 סָבִ֑יב|sā·ḇîḇ|the surrounding|H5439|Adv
-v2 וְגַ֧ם|wə·ḡam||H1571|Conj
+v2 וְגַ֧ם|wə·ḡam|-|H1571|Conj
 v2 עַל־|‘al-|-|H5921|Prep
 v2 יְהוּדָ֛ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v2 יִֽהְיֶ֥ה|yih·yeh|will be|H1961|V-Qal-Imperf-3ms
@@ -75,7 +75,7 @@ v5 אַלֻּפֵ֥י|’al·lu·p̄ê|Then the leaders|H441|N-mpc
 v5 יְהוּדָ֖ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v5 בְּלִבָּ֑ם|bə·lib·bām|in their hearts|H3820|Prep-b | N-msc | 3mp
 v5 אַמְצָ֥ה|’am·ṣāh|are my strength|H556|N-fs
-v5 לִי֙|lî||H0|Prep | 1cs
+v5 לִי֙|lî|-|H0|Prep | 1cs
 v5 יֹשְׁבֵ֣י|yō·šə·ḇê|The people|H3427|V-Qal-Prtcpl-mpc
 v5 יְרוּשָׁלִַ֔ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v5 בַּיהוָ֥ה|Yah·weh|for the LORD|H3068|Prep-b | N-proper-ms
@@ -106,7 +106,7 @@ v6 וְיָשְׁבָ֨ה|wə·yā·šə·ḇāh|while the people|H3427|Conj-w |
 v6 יְרוּשָׁלִַ֥ם|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v6 ע֛וֹד|‘ō·wḏ|remain|H5750|Adv
 v6 תַּחְתֶּ֖יהָ|taḥ·te·hā|secure|H8478|Prep | 3fs
-v6 בִּירוּשָׁלִָֽם׃פ|bî·rū·šā·lim|[there]|H3389|Prep-b | N-proper-fs
+v6 בִּירוּשָׁלִָֽם׃|bî·rū·šā·lim|[there]|H3389|Prep-b | N-proper-fs
 v7 וְהוֹשִׁ֧יעַ|wə·hō·wō·šî·a‘|will save|H3467|Conj-w | V-Hifil-ConjPerf-3ms
 v7 יְהוָ֛ה|Yah·weh|The LORD|H3068|N-proper-ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
@@ -185,7 +185,7 @@ v11 יִגְדַּ֤ל|yiḡ·dal|will be as great|H1431|V-Qal-Imperf-3ms
 v11 הַמִּסְפֵּד֙|ham·mis·pêḏ|the wailing|H4553|Art | N-ms
 v11 בִּיר֣וּשָׁלִַ֔ם|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v11 כְּמִסְפַּ֥ד|kə·mis·paḏ|as the wailing|H4553|Prep-k | N-msc
-v11 הֲדַדְ־|hă·ḏaḏ-|vvv|H1910|
+v11 הֲדַדְ־|hă·ḏaḏ-|...|H1910|
 v11 רִמּ֖וֹן|rim·mō·wn|of Hadad-rimmon|H1910|N-proper-fs
 v11 בְּבִקְעַ֥ת|bə·ḇiq·‘aṯ|in the plain|H1237|Prep-b | N-fsc
 v11 מְגִדּֽוֹן׃|mə·ḡid·dō·wn|of Megiddo|H4023|N-proper-fs
@@ -224,4 +224,4 @@ v14 מִשְׁפָּחֹ֥ת|miš·pā·ḥōṯ|-|H4940|N-fp
 v14 מִשְׁפָּחֹ֖ת|miš·pā·ḥōṯ|-|H4940|N-fp
 v14 לְבָ֑ד|lə·ḇāḏ|-|H905|Prep-l | N-ms
 v14 וּנְשֵׁיהֶ֖ם|ū·nə·šê·hem|and their wives|H802|Conj-w | N-fpc | 3mp
-v14 לְבָֽד׃ס|lə·ḇāḏ|...|H905|Prep-l | N-ms
+v14 לְבָֽד׃|lə·ḇāḏ|...|H905|Prep-l | N-ms

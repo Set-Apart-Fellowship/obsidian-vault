@@ -175,18 +175,18 @@ v13 Μηδεὶς|Mēdeis|no one|G3367|Adj-NMS
 v13 πειραζόμενος|peirazomenos|When tempted|G3985|V-PPM/P-NMS
 v13 λεγέτω|legetō|should say|G3004|V-PMA-3S
 v13 ὅτι|hoti|-|G3754|Conj
-v13 Ἀπὸ|Apo|vvv|G575|Prep
+v13 Ἀπὸ|Apo|...|G575|Prep
 v13 Θεοῦ|Theou|God|G2316|N-GMS
 v13 πειράζομαι|peirazomai|is tempting me|G3985|V-PIM/P-1S
 v13 ὁ|ho|-|G3588|Art-NMS
 v13 γὰρ|gar|For|G1063|Conj
 v13 Θεὸς|Theos|God|G2316|N-NMS
 v13 ἀπείραστός|apeirastos|cannot be tempted|G551|Adj-NMS
-v13 ἐστιν|estin|vvv|G1510|V-PIA-3S
+v13 ἐστιν|estin|...|G1510|V-PIA-3S
 v13 κακῶν|kakōn|by evil|G2556|Adj-GNP
 v13 πειράζει|peirazei|does He tempt|G3985|V-PIA-3S
 v13 δὲ|de|[nor]|G1161|Conj
-v13 αὐτὸς|autos|vvv|G846|PPro-NM3S
+v13 αὐτὸς|autos|...|G846|PPro-NM3S
 v13 οὐδένα|oudena|[anyone]|G3762|Adj-AMS
 v14 ἕκαστος|hekastos|each one|G1538|Adj-NMS
 v14 δὲ|de|But|G1161|Conj
@@ -217,7 +217,7 @@ v16 μου|mou|my|G1473|PPro-G1S
 v16 ἀγαπητοί|agapētoi|beloved|G27|Adj-VMP
 v17 πᾶσα|pasa|Every|G3956|Adj-NFS
 v17 δόσις|dosis|good|G1394|N-NFS
-v17 ἀγαθὴ|agathē|vvv|G18|Adj-NFS
+v17 ἀγαθὴ|agathē|...|G18|Adj-NFS
 v17 καὶ|kai|and|G2532|Conj
 v17 πᾶν|pan|-|G3956|Adj-NNS
 v17 δώρημα|dōrēma|gift|G1434|N-NNS
@@ -285,7 +285,7 @@ v21 ῥυπαρίαν|rhyparian|moral filth|G4507|N-AFS
 v21 καὶ|kai|and|G2532|Conj
 v21 περισσείαν|perisseian|every expression|G4050|N-AFS
 v21 κακίας|kakias|of evil|G2549|N-GFS
-v21 ἐν|en|vvv|G1722|Prep
+v21 ἐν|en|...|G1722|Prep
 v21 πραΰτητι|prautēti|[and] humbly|G4240|N-DFS
 v21 δέξασθε|dexasthe|accept|G1209|V-AMM-2P
 v21 τὸν|ton|the|G3588|Art-AMS
@@ -312,9 +312,9 @@ v23 εἴ|ei|-|G1487|Conj
 v23 τις|tis|anyone|G5100|IPro-NMS
 v23 ἀκροατὴς|akroatēs|who hears|G202|N-NMS
 v23 λόγου|logou|[the] word|G3056|N-GMS
-v23 ἐστὶν|estin|vvv|G1510|V-PIA-3S
+v23 ἐστὶν|estin|...|G1510|V-PIA-3S
 v23 καὶ|kai|but|G2532|Conj
-v23 οὐ|ou|vvv|G3756|Adv
+v23 οὐ|ou|...|G3756|Adv
 v23 ποιητής|poiētēs|does not carry it out|G4163|N-NMS
 v23 οὗτος|houtos|-|G3778|DPro-NMS
 v23 ἔοικεν|eoiken|is like|G1503|V-RIA-3S
@@ -323,7 +323,7 @@ v23 κατανοοῦντι|katanoounti|looks|G2657|V-PPA-DMS
 v23 τὸ|to|-|G3588|Art-ANS
 v23 πρόσωπον|prosōpon|face|G4383|N-ANS
 v23 τῆς|tēs|-|G3588|Art-GFS
-v23 γενέσεως|geneseōs|vvv|G1078|N-GFS
+v23 γενέσεως|geneseōs|...|G1078|N-GFS
 v23 αὐτοῦ|autou|at his|G846|PPro-GM3S
 v23 ἐν|en|in|G1722|Prep
 v23 ἐσόπτρῳ|esoptrō|a mirror|G2072|N-DNS
@@ -335,7 +335,7 @@ v24 ἀπελήλυθεν|apelēlythen|goes away|G565|V-RIA-3S
 v24 καὶ|kai|and|G2532|Conj
 v24 εὐθέως|eutheōs|immediately|G2112|Adv
 v24 ἐπελάθετο|epelatheto|forgets|G1950|V-AIM-3S
-v24 ὁποῖος|hopoios|vvv|G3697|Adj-NNS
+v24 ὁποῖος|hopoios|...|G3697|Adj-NNS
 v24 ἦν|ēn|what he [looks] like|G1510|V-IIA-3S
 v25 ὁ|ho|the [one who]|G3588|Art-NMS
 v25 δὲ|de|But|G1161|Conj
@@ -367,7 +367,7 @@ v26 τις|tis|anyone|G5100|IPro-NMS
 v26 δοκεῖ|dokei|considers himself|G1380|V-PIA-3S
 v26 θρησκὸς|thrēskos|religious|G2357|Adj-NMS
 v26 εἶναι|einai|...|G1510|V-PNA
-v26 μὴ|mē|vvv|G3361|Adv
+v26 μὴ|mē|...|G3361|Adv
 v26 χαλιναγωγῶν|chalinagōgōn|[and yet] does not bridle|G5468|V-PPA-NMS
 v26 γλῶσσαν|glōssan|tongue|G1100|N-AFS
 v26 αὐτοῦ*|autou|his|G846|PPro-GM3S

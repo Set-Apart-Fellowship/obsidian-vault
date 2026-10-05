@@ -20,7 +20,7 @@ v2 דָנִיֵּ֖אל|ḏā·nî·yêl|including Daniel|H1841|N-proper-ms
 v2 חַֽד־|ḥaḏ-|...|H2298|Number-ms
 v2 מִנְּה֑וֹן|min·nə·hō·wn|...|H4481|Prep | 3mp
 v2 דִּֽי־|dî-|...|H1768|Pro-r
-v2 לֶהֱוֺ֞ן|le·hĕ·wōn||H1934|V-Qal-Imperf-3mp
+v2 לֶהֱוֺ֞ן|le·hĕ·wōn|-|H1934|V-Qal-Imperf-3mp
 v2 אֲחַשְׁדַּרְפְּנַיָּ֣א|’ă·ḥaš·dar·pə·nay·yā|satraps|H324|N-mpd
 v2 אִלֵּ֗ין|’il·lên|these|H459|Pro-cp
 v2 יָהֲבִ֤ין|yā·hă·ḇîn|...|H3052|V-Qal-Prtcpl-mp
@@ -38,12 +38,12 @@ v3 מִתְנַצַּ֔ח|miṯ·naṣ·ṣaḥ|distinguished himself|H5330|V-Hi
 v3 עַל־|‘al-|among|H5922|Prep
 v3 סָרְכַיָּ֖א|sā·rə·ḵay·yā|the administrators|H5632|N-mpd
 v3 וַאֲחַשְׁדַּרְפְּנַיָּ֑א|wa·’ă·ḥaš·dar·pə·nay·yā|and satraps|H324|Conj-w | N-mpd
-v3 כָּל־|kāl-||H3606|N-msc
+v3 כָּל־|kāl-|-|H3606|N-msc
 v3 קֳבֵ֗ל|qo·ḇêl|by|H6903|Prep
 v3 דִּ֣י|dî|...|H1768|Pro-r
 v3 ר֤וּחַ|rū·aḥ|spirit|H7308|N-cs
 v3 יַתִּירָא֙|yat·tî·rā|his extraordinary|H3493|Adj-fs
-v3 בֵּ֔הּ|bêh||H0|Prep | 3ms
+v3 בֵּ֔הּ|bêh|-|H0|Prep | 3ms
 v3 וּמַלְכָּ֣א|ū·mal·kā|So the king|H4430|Conj-w | N-msd
 v3 עֲשִׁ֔ית|‘ă·šîṯ|planned|H6246|V-Qal-QalPassPrtcpl-ms
 v3 לַהֲקָמוּתֵ֖הּ|la·hă·qā·mū·ṯêh|to set him|H6966|Prep-l | V-Hifil-Inf | 3ms
@@ -66,7 +66,7 @@ v4 וּשְׁחִיתָ֜ה|ū·šə·ḥî·ṯāh|or corruption|H7844|Conj-w |
 v4 לָא־|lā-|...|H3809|Adv-NegPrt
 v4 יָכְלִ֣ין|yā·ḵə·lîn|but they could|H3202|V-Qal-Prtcpl-mp
 v4 לְהַשְׁכָּחָ֗ה|lə·haš·kā·ḥāh|find|H7912|Prep-l | V-Hifil-Inf
-v4 כָּל־|kāl-||H3606|N-msc
+v4 כָּל־|kāl-|-|H3606|N-msc
 v4 קֳבֵל֙|qo·ḇêl|because|H6903|Prep
 v4 דִּֽי־|dî-|...|H1768|Pro-r
 v4 מְהֵימַ֣ן|mə·hê·man|was trustworthy|H540|V-Hifil-QalPassPrtcpl-ms
@@ -92,7 +92,7 @@ v5 לָהֵ֕ן|lā·hên|unless|H3861|Conj
 v5 הַשְׁכַּ֥חְנָֽה|haš·kaḥ·nāh|we find [something]|H7912|V-Hifil-Perf-1cp
 v5 עֲל֖וֹהִי|‘ă·lō·w·hî|against him|H5922|Prep | 3ms
 v5 בְּדָ֥ת|bə·ḏāṯ|concerning the law|H1882|Prep-b | N-fsc
-v5 אֱלָהֵֽהּ׃ס|’ĕ·lā·hêh|of his God|H426|N-msc | 3ms
+v5 אֱלָהֵֽהּ׃|’ĕ·lā·hêh|of his God|H426|N-msc | 3ms
 v6 אֱ֠דַיִן|’ĕ·ḏa·yin|So|H116|Adv
 v6 סָרְכַיָּ֤א|sā·rə·ḵay·yā|the administrators|H5632|N-mpd
 v6 וַאֲחַשְׁדַּרְפְּנַיָּא֙|wa·’ă·ḥaš·dar·pə·nay·yā|and satraps|H324|Conj-w | N-mpd
@@ -102,7 +102,7 @@ v6 עַל־|‘al-|to|H5922|Prep
 v6 מַלְכָּ֑א|mal·kā|the king|H4430|N-msd
 v6 וְכֵן֙|wə·ḵên|...|H3652|Conj-w | Adv
 v6 אָמְרִ֣ין|’ā·mə·rîn|and said|H560|V-Qal-Prtcpl-mp
-v6 לֵ֔הּ|lêh||H0|Prep | 3ms
+v6 לֵ֔הּ|lêh|-|H0|Prep | 3ms
 v6 דָּרְיָ֥וֶשׁ|dā·rə·yā·weš|Darius|H1868|N-proper-ms
 v6 מַלְכָּ֖א|mal·kā|O King|H4430|N-msd
 v6 לְעָלְמִ֥ין|lə·‘ā·lə·mîn|forever|H5957|Prep-l | N-mp
@@ -193,7 +193,7 @@ v10 הֲוָ֣א|hă·wā|...|H1934|V-Qal-Perf-3ms
 v10 עָבֵ֔ד|‘ā·ḇêḏ|he had done|H5648|V-Qal-Prtcpl-ms
 v10 מִן־|min-|before|H4481|Prep
 v10 קַדְמַ֖ת|qaḏ·maṯ|...|H6928|N-fsc
-v10 דְּנָֽה׃ס|də·nāh|...|H1836|Pro-ms
+v10 דְּנָֽה׃|də·nāh|...|H1836|Pro-ms
 v11 אֱ֠דַיִן|’ĕ·ḏa·yin|Then|H116|Adv
 v11 גֻּבְרַיָּ֤א|guḇ·ray·yā|men|H1400|N-mpd
 v11 אִלֵּךְ֙|’il·lêḵ|these|H479|Pro-cp
@@ -251,7 +251,7 @@ v13 קֳדָ֣ם|qo·ḏām|...|H6925|Prep
 v13 מַלְכָּא֒|mal·kā|the king|H4430|N-msd
 v13 דִּ֣י|dî|one|H1768|Pro-r
 v13 דָנִיֵּ֡אל|ḏā·nî·yêl|Daniel|H1841|N-proper-ms
-v13 דִּי֩|dî|vvv|H1768|Pro-r
+v13 דִּי֩|dî|...|H1768|Pro-r
 v13 מִן־|min-|of|H4481|Prep
 v13 בְּנֵ֨י|bə·nê|the exiles|H1123|N-mpc
 v13 גָלוּתָ֜א|ḡā·lū·ṯā|...|H1547|N-fsd
@@ -261,7 +261,7 @@ v13 לָא־|lā-|shows no|H3809|Adv-NegPrt
 v13 שָׂ֨ם|śām|regard|H7761|V-Qal-Perf-3ms
 v13 עֲלַיִךְ|ʿă·la·yiḵ|for you|H5922|Prep | 2ms
 v13 מַלְכָּא֙|mal·kā|O king|H4430|N-msd
-v13 טְעֵ֔ם|ṭə·‘êm||H2942|N-ms
+v13 טְעֵ֔ם|ṭə·‘êm|-|H2942|N-ms
 v13 וְעַל־|wə·‘al-|or for|H5922|Conj-w | Prep
 v13 אֱסָרָ֖א|’ĕ·sā·rā|the decree|H633|N-msd
 v13 דִּ֣י|dî|that|H1768|Pro-r
@@ -311,7 +311,7 @@ v15 וּקְיָ֛ם|ū·qə·yām|or ordinance|H7010|Conj-w | N-ms
 v15 דִּֽי־|dî-|...|H1768|Pro-r
 v15 מַלְכָּ֥א|mal·kā|by the king|H4430|N-msd
 v15 יְהָקֵ֖ים|yə·hā·qêm|established|H6966|V-Hifil-Imperf-3ms
-v15 לָ֥א|lā||H3809|Adv-NegPrt
+v15 לָ֥א|lā|-|H3809|Adv-NegPrt
 v15 לְהַשְׁנָיָֽה׃|lə·haš·nā·yāh|can be changed|H8133|Prep-l | V-Hifil-Inf
 v16 בֵּאדַ֜יִן|bê·ḏa·yin|So|H116|Prep-b | Adv
 v16 מַלְכָּ֣א|mal·kā|the king|H4430|N-msd
@@ -330,7 +330,7 @@ v16 אֱלָהָ֗ךְ|’ĕ·lā·hāḵ|May your God|H426|N-msc | 2ms
 v16 דִּ֣י|dî|whom|H1768|Pro-r
 v16 אַנְתָּה|ʾan·tå̄h|you|H607|Pro-2ms
 v16 פָּֽלַֽח־|pā·laḥ-|serve|H6399|V-Qal-Prtcpl-ms
-v16 לֵהּ֙|lêh||H0|Prep | 3ms
+v16 לֵהּ֙|lêh|-|H0|Prep | 3ms
 v16 בִּתְדִירָ֔א|biṯ·ḏî·rā|continually|H8411|Prep-b | N-fsd
 v16 ה֖וּא|hū|...|H1932|Pro-3ms
 v16 יְשֵׁיזְבִנָּֽךְ׃|yə·šê·zə·ḇin·nāḵ|deliver you|H7804|V-Hifil-Imperf-3ms | 2ms
@@ -383,7 +383,7 @@ v20 זְעִ֑ק|zə·‘iq|he cried out|H2200|V-Qal-Perf-3ms
 v20 עָנֵ֨ה|‘ā·nêh|-|H6032|V-Qal-Prtcpl-ms
 v20 מַלְכָּ֜א|mal·kā|-|H4430|N-msd
 v20 וְאָמַ֣ר|wə·’ā·mar|-|H560|Conj-w | V-Qal-Prtcpl-ms
-v20 לְדָנִיֵּ֗אל|lə·ḏā·nî·yêl|vvv|H1841|Prep-l | N-proper-ms
+v20 לְדָנִיֵּ֗אל|lə·ḏā·nî·yêl|...|H1841|Prep-l | N-proper-ms
 v20 דָּֽנִיֵּאל֙|dā·nî·yêl|O Daniel|H1841|N-proper-ms
 v20 עֲבֵד֙|‘ă·ḇêḏ|servant|H5649|N-msc
 v20 אֱלָהָ֣א|’ĕ·lā·hā|God|H426|N-msd
@@ -392,7 +392,7 @@ v20 אֱלָהָ֗ךְ|’ĕ·lā·hāḵ|has your God|H426|N-msc | 2ms
 v20 דִּ֣י|dî|whom|H1768|Pro-r
 v20 אַנְתָּה|ʾan·tå̄h|you|H607|Pro-2ms
 v20 פָּֽלַֽח־|pā·laḥ-|serve|H6399|V-Qal-Prtcpl-ms
-v20 לֵהּ֙|lêh||H0|Prep | 3ms
+v20 לֵהּ֙|lêh|-|H0|Prep | 3ms
 v20 בִּתְדִירָ֔א|biṯ·ḏî·rā|continually|H8411|Prep-b | N-fsd
 v20 הַיְכִ֥ל|hay·ḵil|been able|H3202|V-Qal-Perf-3ms
 v20 לְשֵׁיזָבוּתָ֖ךְ|lə·šê·zā·ḇū·ṯāḵ|to deliver you|H7804|Prep-l | V-Hifil-Inf | 2ms
@@ -420,7 +420,7 @@ v22 דִּ֤י|dî|...|H1768|Pro-r
 v22 קָֽדָמ֙וֹהִי֙|qā·ḏā·mō·w·hî|in His sight|H6925|Prep | 3ms
 v22 זָכוּ֙|zā·ḵū|innocent|H2136|N-fs
 v22 הִשְׁתְּכַ֣חַת|hiš·tə·ḵa·ḥaṯ|I was found|H7912|V-Hitpael-Perf-3fs
-v22 לִ֔י|lî||H0|Prep | 1cs
+v22 לִ֔י|lî|-|H0|Prep | 1cs
 v22 וְאַ֤ף|wə·’ap̄|and|H638|Conj
 v22 קָדָמַיִךְ|qå̄·ḏå̄·ma·yiḵ|against you|H6925|Prep | 2ms
 v22 מַלְכָּ֔א|mal·kā|O king|H4430|N-msd
@@ -491,7 +491,7 @@ v25 בְּכָל־|bə·ḵāl|...|H3606|Prep-b | N-msc
 v25 אַרְעָ֖א|’ar·‘ā|the land|H772|N-fsd
 v25 שְׁלָמְכ֥וֹן|šə·lā·mə·ḵō·wn|May your prosperity|H8001|N-msc | 2mp
 v25 יִשְׂגֵּֽא׃|yiś·gê|abound|H7680|V-Qal-Imperf-3ms
-v26 מִן־|min-||H4481|Prep
+v26 מִן־|min-|-|H4481|Prep
 v26 קֳדָמַי֮|qo·ḏā·may|-|H6925|Prep | 1cs
 v26 שִׂ֣ים|śîm|I hereby|H7761|V-Nifal-Perf-3ms
 v26 טְעֵם֒|ṭə·‘êm|decree|H2942|N-ms
@@ -499,7 +499,7 @@ v26 דִּ֣י׀|dî|that|H1768|Pro-r
 v26 בְּכָל־|bə·ḵāl|in every|H3606|Prep-b | N-msc
 v26 שָׁלְטָ֣ן|šā·lə·ṭān|part|H7985|N-msc
 v26 מַלְכוּתִ֗י|mal·ḵū·ṯî|of my kingdom|H4437|N-fsc | 1cs
-v26 לֶהֱוֺ֤ן|le·hĕ·wōn||H1934|V-Qal-Imperf-3mp
+v26 לֶהֱוֺ֤ן|le·hĕ·wōn|-|H1934|V-Qal-Imperf-3mp
 v26 זָאֲעִין|zå̄·ʾă·ʿīn|[men are to] tremble|H2112|V-Qal-Prtcpl-mp
 v26 וְדָ֣חֲלִ֔ין|wə·ḏā·ḥă·lîn|in fear|H1763|Conj-w | V-Qal-Prtcpl-mp
 v26 מִן־|min-|...|H4481|Prep
@@ -540,4 +540,4 @@ v28 בְּמַלְכ֣וּת|bə·mal·ḵūṯ|during the reign|H4437|Prep-b | 
 v28 דָּרְיָ֑וֶשׁ|dā·rə·yā·weš|of Darius|H1868|N-proper-ms
 v28 וּבְמַלְכ֖וּת|ū·ḇə·mal·ḵūṯ|and the reign|H4437|Conj-w, Prep-b | N-fsc
 v28 כּ֥וֹרֶשׁ|kō·w·reš|of Cyrus|H3567|N-proper-ms
-v28 פָּרְסָיָא׃פ|på̄·rə·så̄·yå̄|the Persian|H6543|N-proper-ms
+v28 פָּרְסָיָא׃|på̄·rə·så̄·yå̄|the Persian|H6543|N-proper-ms

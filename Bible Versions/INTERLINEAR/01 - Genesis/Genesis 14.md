@@ -76,7 +76,7 @@ v6 הַחֹרִ֖י|ha·ḥō·rî|the Horites|H2752|Art | N-proper-ms
 v6 בְּהַרְרָ֣ם|bə·har·rām|in [the area of] Mount|H2022|Prep-b | N-msc | 3mp
 v6 שֵׂעִ֑יר|śê·‘îr|Seir|H8165|N-proper-fs
 v6 עַ֚ד|‘aḏ|as far as|H5704|Prep
-v6 אֵ֣יל|’êl|vvv|H364|
+v6 אֵ֣יל|’êl|...|H364|
 v6 פָּארָ֔ן|pā·rān|El-paran|H364|N-proper-fs
 v6 אֲשֶׁ֖ר|’ă·šer|which [is]|H834|Pro-r
 v6 עַל־|‘al-|near|H5921|Prep
@@ -84,7 +84,7 @@ v6 הַמִּדְבָּֽר׃|ham·miḏ·bār|the desert|H4057|Art | N-ms
 v7 וַ֠יָּשֻׁבוּ|way·yā·šu·ḇū|Then they turned back|H7725|Conj-w | V-Qal-ConsecImperf-3mp
 v7 וַיָּבֹ֜אוּ|way·yā·ḇō·’ū|to invade|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v7 אֶל־|’el-|...|H413|Prep
-v7 עֵ֤ין|‘ên|vvv|H5880|
+v7 עֵ֤ין|‘ên|...|H5880|
 v7 מִשְׁפָּט֙|miš·pāṭ|En-mishpat|H5880|N-proper-fs
 v7 הִ֣וא|hî|(that is|H1931|Pro-3fs
 v7 קָדֵ֔שׁ|qā·ḏêš|Kadesh)|H6946|N-proper-fs
@@ -97,7 +97,7 @@ v7 וְגַם֙|wə·ḡam|as|H1571|Conj
 v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 הָ֣אֱמֹרִ֔י|hā·’ĕ·mō·rî|well as the Amorites|H567|Art | N-proper-ms
 v7 הַיֹּשֵׁ֖ב|hay·yō·šêḇ|who lived|H3427|Art | V-Qal-Prtcpl-ms
-v7 בְּחַֽצְצֹ֥ן|bə·ḥaṣ·ṣōn|vvv|H2688|Prep
+v7 בְּחַֽצְצֹ֥ן|bə·ḥaṣ·ṣōn|...|H2688|Prep
 v7 תָּמָֽר׃|tā·mār|in Hazazon-tamar|H2688|Prep | N-proper-fs
 v8 וַיֵּצֵ֨א|way·yê·ṣê|marched out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v8 מֶֽלֶךְ־|me·leḵ-|Then the king|H4428|N-msc
@@ -240,11 +240,11 @@ v17 אַחֲרֵ֣י|’a·ḥă·rê|After|H310|Prep
 v17 שׁוּב֗וֹ|šū·ḇōw|Abram returned|H7725|V-Qal-Inf | 3ms
 v17 מֵֽהַכּוֹת֙|mê·hak·kō·wṯ|from defeating|H5221|Prep-m | V-Hifil-Inf
 v17 אֶת־|’eṯ-|-|H853|DirObjM
-v17 כְּדָר־|kə·ḏå̄r-|vvv|H3540|N-proper-ms
+v17 כְּדָר־|kə·ḏå̄r-|...|H3540|N-proper-ms
 v17 לָעֹ֔מֶר|lå̄·ʿō·mɛr|Chedorlaomer|H3540|N-proper-ms
 v17 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v17 הַמְּלָכִ֖ים|ham·mə·lā·ḵîm|and the kings|H4428|Art | N-mp
-v17 אֲשֶׁ֣ר|’ă·šer|vvv|H834|Pro-r
+v17 אֲשֶׁ֣ר|’ă·šer|...|H834|Pro-r
 v17 אִתּ֑וֹ|’it·tōw|allied with him|H854|Prep | 3ms
 v17 אֶל־|’el-|in|H413|Prep
 v17 עֵ֣מֶק|‘ê·meq|the Valley|H6010|N-msc
@@ -252,7 +252,7 @@ v17 שָׁוֵ֔ה|šā·wêh|of Shaveh|H7740|N-proper-fs
 v17 ה֖וּא|hū|(that is|H1931|Pro-3ms
 v17 עֵ֥מֶק|‘ê·meq|Valley)|H6010|N-msc
 v17 הַמֶּֽלֶךְ׃|ham·me·leḵ|the King's|H4428|Art | N-ms
-v18 וּמַלְכִּי־|ū·mal·kî-|vvv|H4442|
+v18 וּמַלְכִּי־|ū·mal·kî-|...|H4442|
 v18 צֶ֙דֶק֙|ṣe·ḏeq|Then Melchizedek|H4442|Conj-w | N-proper-ms
 v18 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v18 שָׁלֵ֔ם|šā·lêm|of Salem|H8004|N-proper-fs
@@ -339,4 +339,4 @@ v24 אֶשְׁכֹּ֣ל|’eš·kōl|Eshcol|H812|N-proper-ms
 v24 וּמַמְרֵ֔א|ū·mam·rê|and Mamre|H4471|Conj-w | N-proper-ms
 v24 הֵ֖ם|hêm|They|H1992|Pro-3mp
 v24 יִקְח֥וּ|yiq·ḥū|may take|H3947|V-Qal-Imperf-3mp
-v24 חֶלְקָֽם׃ס|ḥel·qām|their portion|H2506|N-msc | 3mp
+v24 חֶלְקָֽם׃|ḥel·qām|their portion|H2506|N-msc | 3mp

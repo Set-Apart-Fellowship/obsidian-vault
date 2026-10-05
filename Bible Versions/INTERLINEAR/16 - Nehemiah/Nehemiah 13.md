@@ -109,7 +109,7 @@ v7 בְּחַצְרֵ֖י|bə·ḥaṣ·rê|in the courts|H2691|Prep-b | N-cpc
 v7 בֵּ֥ית|bêṯ|of the house|H1004|N-msc
 v7 הָאֱלֹהִֽים׃|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v8 וַיֵּ֥רַֽע|way·yê·ra‘|displeased|H7489|Conj-w | V-Qal-ConsecImperf-3ms
-v8 לִ֖י|lî||H0|Prep | 1cs
+v8 לִ֖י|lî|-|H0|Prep | 1cs
 v8 מְאֹ֑ד|mə·’ōḏ|And I was greatly|H3966|Adv
 v8 וָֽאַשְׁלִ֜יכָה|wā·’aš·lî·ḵāh|and threw|H7993|Conj-w | V-Hifil-ConsecImperf-1cs | 3fs
 v8 אֶֽת־|’eṯ-|-|H853|DirObjM
@@ -130,7 +130,7 @@ v9 בֵּ֣ית|bêṯ|of the house|H1004|N-msc
 v9 הָאֱלֹהִ֔ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v9 אֶת־|’eṯ-|-|H853|Prep
 v9 הַמִּנְחָ֖ה|ham·min·ḥāh|along with the grain offerings|H4503|Art | N-fs
-v9 וְהַלְּבוֹנָֽה׃פ|wə·hal·lə·ḇō·w·nāh|and frankincense|H3828|Conj-w, Art | N-fs
+v9 וְהַלְּבוֹנָֽה׃|wə·hal·lə·ḇō·w·nāh|and frankincense|H3828|Conj-w, Art | N-fs
 v10 וָאֵ֣דְעָ֔ה|wā·’ê·ḏə·‘āh|I also learned|H3045|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
 v10 כִּֽי־|kî-|that|H3588|Conj
 v10 מְנָי֥וֹת|mə·nā·yō·wṯ|because the portions|H4521|N-fpc
@@ -145,7 +145,7 @@ v10 וְהַמְשֹׁרְרִ֖ים|wə·ham·šō·rə·rîm|and singers|H7891
 v10 עֹשֵׂ֥י|‘ō·śê|responsible for performing|H6213|V-Qal-Prtcpl-mpc
 v10 הַמְּלָאכָֽה׃|ham·mə·lā·ḵāh|the service|H4399|Art | N-fs
 v11 וָאָרִ֙יבָה֙|wā·’ā·rî·ḇāh|So I rebuked|H7378|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
-v11 אֶת־|’eṯ-||H854|Prep
+v11 אֶת־|’eṯ-|-|H854|Prep
 v11 הַסְּגָנִ֔ים|has·sə·ḡā·nîm|the officials|H5461|Art | N-mp
 v11 וָאֹ֣מְרָ֔ה|wā·’ō·mə·rāh|and asked|H559|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
 v11 מַדּ֖וּעַ|mad·dū·a‘|Why|H4069|Interrog
@@ -186,7 +186,7 @@ v13 נֶאֱמָנִים֙|ne·’ĕ·mā·nîm|trustworthy|H539|V-Nifal-Prtcpl-
 v13 נֶחְשָׁ֔בוּ|neḥ·šā·ḇū|they were considered|H2803|V-Nifal-Perf-3cp
 v13 וַעֲלֵיהֶ֖ם|wa·‘ă·lê·hem|They were responsible for|H5921|Conj-w | Prep | 3mp
 v13 לַחֲלֹ֥ק|la·ḥă·lōq|distributing the supplies|H2505|Prep-l | V-Qal-Inf
-v13 לַאֲחֵיהֶֽם׃פ|la·’ă·ḥê·hem|to their fellow [Levites]|H251|Prep-l | N-mpc | 3mp
+v13 לַאֲחֵיהֶֽם׃|la·’ă·ḥê·hem|to their fellow [Levites]|H251|Prep-l | N-mpc | 3mp
 v14 זָכְרָה־|zā·ḵə·rāh-|Remember|H2142|V-Qal-Imp-ms | 3fs
 v14 לִּ֥י|lî|me|H0|Prep | 1cs
 v14 אֱלֹהַ֖י|’ĕ·lō·hay|O my God|H430|N-mpc | 1cs
@@ -243,7 +243,7 @@ v17 אֵ֖ת|’êṯ|...|H854|Prep
 v17 חֹרֵ֣י|ḥō·rê|the nobles|H2715|N-mpc
 v17 יְהוּדָ֑ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v17 וָאֹמְרָ֣ה|wā·’ō·mə·rāh|and asked|H559|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
-v17 לָהֶ֗ם|lā·hem||H0|Prep | 3mp
+v17 לָהֶ֗ם|lā·hem|-|H0|Prep | 3mp
 v17 מָֽה־|māh-|What|H4100|Interrog
 v17 הַדָּבָ֨ר|had·dā·ḇār|...|H1697|Art | N-ms
 v17 הָרָ֤ע|hā·rā‘|evil|H7451|Art | Adj-ms
@@ -276,7 +276,7 @@ v18 עַל־|‘al-|against|H5921|Prep
 v18 יִשְׂרָאֵ֔ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v18 לְחַלֵּ֖ל|lə·ḥal·lêl|by profaning|H2490|Prep-l | V-Piel-Inf
 v18 אֶת־|’eṯ-|-|H853|DirObjM
-v18 הַשַּׁבָּֽת׃פ|haš·šab·bāṯ|the Sabbath|H7676|Art | N-cs
+v18 הַשַּׁבָּֽת׃|haš·šab·bāṯ|the Sabbath|H7676|Art | N-cs
 v19 וַיְהִ֡י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v19 כַּאֲשֶׁ֣ר|ka·’ă·šer|When|H834|Prep-k | Pro-r
 v19 צָֽלֲלוּ֩|ṣā·lă·lū|the evening shadows|H6751|V-Qal-Perf-3cp
@@ -331,7 +331,7 @@ v21 הָעֵ֣ת|hā·‘êṯ|time on|H6256|Art | N-cs
 v21 הַהִ֔יא|ha·hî|that|H1931|Art | Pro-3fs
 v21 לֹא־|lō-|they did not|H3808|Adv-NegPrt
 v21 בָ֖אוּ|ḇā·’ū|return|H935|V-Qal-Perf-3cp
-v21 בַּשַּׁבָּֽת׃ס|baš·šab·bāṯ|on the Sabbath|H7676|Prep-b, Art | N-cs
+v21 בַּשַּׁבָּֽת׃|baš·šab·bāṯ|on the Sabbath|H7676|Prep-b, Art | N-cs
 v22 וָאֹמְרָ֣ה|wā·’ō·mə·rāh|Then I instructed|H559|Conj-w | V-Qal-ConsecImperf-1cs | 3fs
 v22 לַלְוִיִּ֗ם|lal·wî·yim|the Levites|H3881|Prep-l | N-proper-mp
 v22 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
@@ -352,7 +352,7 @@ v22 אֱלֹהַ֔י|’ĕ·lō·hay|O my God|H430|N-mpc | 1cs
 v22 וְח֥וּסָה|wə·ḥū·sāh|mercy|H2347|Conj-w | V-Qal-Imp-ms | 3fs
 v22 עָלַ֖י|‘ā·lay|and {show} me|H5921|Prep | 1cs
 v22 כְּרֹ֥ב|kə·rōḇ|according to Your abundant|H7230|Prep-k | N-msc
-v22 חַסְדֶּֽךָ׃פ|ḥas·de·ḵā|loving devotion|H2617|N-msc | 2ms
+v22 חַסְדֶּֽךָ׃|ḥas·de·ḵā|loving devotion|H2617|N-msc | 2ms
 v23 גַּ֣ם׀|gam|I also|H1571|Conj
 v23 בַּיָּמִ֣ים|bay·yā·mîm|days|H3117|Prep-b, Art | N-mp
 v23 הָהֵ֗ם|hā·hêm|In those|H1992|Art | Pro-3mp
@@ -416,11 +416,11 @@ v26 עַל־|‘al-|over|H5921|Prep
 v26 כָּל־|kāl-|all|H3605|N-msc
 v26 יִשְׂרָאֵ֑ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v26 גַּם־|gam-|yet|H1571|Conj
-v26 אוֹת֣וֹ|’ō·w·ṯōw|vvv|H853|DirObjM | 3ms
+v26 אוֹת֣וֹ|’ō·w·ṯōw|...|H853|DirObjM | 3ms
 v26 הֶחֱטִ֔יאוּ|he·ḥĕ·ṭî·’ū|drew him into sin|H2398|V-Hifil-Perf-3cp
 v26 הַנָּשִׁ֖ים|han·nā·šîm|women|H802|Art | N-fp
 v26 הַנָּכְרִיּֽוֹת׃|han·nā·ḵə·rî·yō·wṯ|foreign|H5237|Art | Adj-fp
-v27 וְלָכֶ֣ם|wə·lā·ḵem|vvv|H0|Conj-w | Prep | 2mp
+v27 וְלָכֶ֣ם|wə·lā·ḵem|...|H0|Conj-w | Prep | 2mp
 v27 הֲנִשְׁמַ֗ע|hă·niš·ma‘|Must we now hear|H8085|V-Nifal-Perf-3ms
 v27 לַעֲשֹׂת֙|la·‘ă·śōṯ|that you too are doing|H6213|Prep-l | V-Qal-Inf
 v27 אֵ֣ת|’êṯ|-|H853|DirObjM

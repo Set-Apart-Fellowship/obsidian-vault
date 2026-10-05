@@ -99,7 +99,7 @@ v7 בְּכָל־|bə·ḵāl|throughout|H3605|Prep-b | N-msc
 v7 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fsc
 v7 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v7 וַיָּ֖שָׁב|way·yā·šāḇ|Then he returned|H7725|Conj-w | V-Qal-ConsecImperf-3ms
-v7 לִירוּשָׁלִָֽם׃ס|lî·rū·šā·lim|to Jerusalem|H3389|Prep-l | N-proper-fs
+v7 לִירוּשָׁלִָֽם׃|lî·rū·šā·lim|to Jerusalem|H3389|Prep-l | N-proper-fs
 v8 וּבִשְׁנַ֨ת|ū·ḇiš·naṯ|year|H8141|Conj-w, Prep-b | N-fsc
 v8 שְׁמוֹנֶ֤ה|šə·mō·w·neh|Now in the eighteenth|H8083|Number-fs
 v8 עֶשְׂרֵה֙|‘eś·rêh|...|H6240|Number-fs
@@ -171,7 +171,7 @@ v10 בְּבֵ֣ית|bə·ḇêṯ|the house|H1004|Prep-b | N-msc
 v10 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v10 לִבְדּ֥וֹק|liḇ·dō·wq|restoring|H918|Prep-l | V-Qal-Inf
 v10 וּלְחַזֵּ֖ק|ū·lə·ḥaz·zêq|and repairing|H2388|Conj-w, Prep-l | V-Piel-Inf
-v10 הַבָּֽיִת׃|hab·bā·yiṯ||H1004|Art | N-ms
+v10 הַבָּֽיִת׃|hab·bā·yiṯ|-|H1004|Art | N-ms
 v11 וַֽיִּתְּנ֗וּ|way·yit·tə·nū|They also gave [money]|H5414|Conj-w | V-Qal-ConsecImperf-3mp
 v11 לֶחָֽרָשִׁים֙|le·ḥā·rā·šîm|to the carpenters|H2796|Prep-l, Art | N-mp
 v11 וְלַבֹּנִ֔ים|wə·lab·bō·nîm|and builders|H1129|Conj-w, Prep-l, Art | V-Qal-Prtcpl-mp
@@ -196,7 +196,7 @@ v12 מֻ֠פְקָדִים|mup̄·qā·ḏîm|overseeing them|H6485|V-Hofal-Prtc
 v12 יַ֣חַת|ya·ḥaṯ|were Jahath|H3189|N-proper-ms
 v12 וְעֹבַדְיָ֤הוּ|wə·‘ō·ḇaḏ·yā·hū|and Obadiah|H5662|Conj-w | N-proper-ms
 v12 הַלְוִיִּם֙|hal·wî·yim|The Levites|H3881|Art | N-proper-mp
-v12 מִן־|min-||H4480|Prep
+v12 מִן־|min-|-|H4480|Prep
 v12 בְּנֵ֣י|bə·nê|descendants|H1121|N-mpc
 v12 מְרָרִ֔י|mə·rā·rî|of Merari|H4847|N-proper-ms
 v12 וּזְכַרְיָ֧ה|ū·zə·ḵar·yāh|and Zechariah|H2148|Conj-w | N-proper-ms
@@ -239,7 +239,7 @@ v14 בְּיַד־|bə·yaḏ-|[given] by|H3027|Prep-b | N-fsc
 v14 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v15 וַיַּ֣עַן|way·ya·‘an|said|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v15 חִלְקִיָּ֗הוּ|ḥil·qî·yā·hū|And Hilkiah|H2518|N-proper-ms
-v15 וַיֹּ֙אמֶר֙|way·yō·mer|vvv|H559|Conj-w | V-Qal-ConsecImperf-3ms
+v15 וַיֹּ֙אמֶר֙|way·yō·mer|...|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 אֶל־|’el-|to|H413|Prep
 v15 שָׁפָ֣ן|šā·p̄ān|Shaphan|H8227|N-proper-ms
 v15 הַסּוֹפֵ֔ר|has·sō·w·p̄êr|the scribe|H5608|Art | N-ms
@@ -285,7 +285,7 @@ v17 יַד֙|yaḏ|the hands|H3027|N-fsc
 v17 הַמֻּפְקָדִ֔ים|ham·mup̄·qā·ḏîm|of the supervisors|H6485|Art | V-Hofal-Prtcpl-mp
 v17 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v17 יַ֖ד|yaḏ|[and]|H3027|N-fsc
-v17 עוֹשֵׂ֥י|‘ō·w·śê|vvv|H6213|V-Qal-Prtcpl-mpc
+v17 עוֹשֵׂ֥י|‘ō·w·śê|...|H6213|V-Qal-Prtcpl-mpc
 v17 הַמְּלָאכָֽה׃|ham·mə·lā·ḵāh|workers|H4399|Art | N-fs
 v18 וַיַּגֵּ֞ד|way·yag·gêḏ|told|H5046|Conj-w | V-Hifil-ConsecImperf-3ms
 v18 שָׁפָ֤ן|šā·p̄ān|Moreover, Shaphan|H8227|N-proper-ms
@@ -365,7 +365,7 @@ v21 כְּכָל־|kə·ḵāl-|all|H3605|Prep-k | N-msc
 v21 הַכָּת֖וּב|hak·kā·ṯūḇ|that is written|H3789|Art | V-Qal-QalPassPrtcpl-ms
 v21 עַל־|‘al-|in|H5921|Prep
 v21 הַסֵּ֥פֶר|has·sê·p̄er|book|H5612|Art | N-ms
-v21 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v21 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v22 וַיֵּ֨לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v22 חִלְקִיָּ֜הוּ|ḥil·qî·yā·hū|So Hilkiah|H2518|N-proper-ms
 v22 וַאֲשֶׁ֣ר|wa·’ă·šer|and those|H834|Conj-w | Pro-r
@@ -387,7 +387,7 @@ v22 בִּירוּשָׁלִַ֖ם|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b
 v22 בַּמִּשְׁנֶ֑ה|bam·miš·neh|in the Second District|H4932|Prep-b, Art | N-ms
 v22 וַיְדַבְּר֥וּ|way·ḏab·bə·rū|and spoke|H1696|Conj-w | V-Piel-ConsecImperf-3mp
 v22 אֵלֶ֖יהָ|’ê·le·hā|-|H413|Prep | 3fs
-v22 כָּזֹֽאת׃ס|kā·zōṯ|-|H2063|Prep-k | Pro-fs
+v22 כָּזֹֽאת׃|kā·zōṯ|-|H2063|Prep-k | Pro-fs
 v23 וַתֹּ֣אמֶר|wat·tō·mer|And [Huldah] said|H559|Conj-w | V-Qal-ConsecImperf-3fs
 v23 לָהֶ֔ם|lā·hem|to them|H0|Prep | 3mp
 v23 כֹּה־|kōh-|This is what|H3541|Adv
@@ -400,7 +400,7 @@ v23 לָאִ֔ישׁ|lā·’îš|the man|H376|Prep-l, Art | N-ms
 v23 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
 v23 שָׁלַ֥ח|šā·laḥ|sent|H7971|V-Qal-Perf-3ms
 v23 אֶתְכֶ֖ם|’eṯ·ḵem|you|H853|DirObjM | 2mp
-v23 אֵלָֽי׃ס|’ê·lāy|-|H413|Prep | 1cs
+v23 אֵלָֽי׃|’ê·lāy|-|H413|Prep | 1cs
 v24 כֹּ֚ה|kōh|that this is what|H3541|Adv
 v24 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v24 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -508,7 +508,7 @@ v28 יֹשְׁבָ֑יו|yō·šə·ḇāw|its people|H3427|V-Qal-Prtcpl-mpc | 3
 v28 וַיָּשִׁ֥יבוּ|way·yā·šî·ḇū|So they brought|H7725|Conj-w | V-Hifil-ConsecImperf-3mp
 v28 אֶת־|’eṯ-|her|H853|DirObjM
 v28 הַמֶּ֖לֶךְ|ham·me·leḵ|back to the king|H4428|Art | N-ms
-v28 דָּבָֽר׃פ|dā·ḇār|answer|H1697|N-ms
+v28 דָּבָֽר׃|dā·ḇār|answer|H1697|N-ms
 v29 וַיִּשְׁלַ֖ח|way·yiš·laḥ|summoned|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v29 הַמֶּ֑לֶךְ|ham·me·leḵ|Then the king|H4428|Art | N-ms
 v29 וַיֶּאֱסֹ֕ף|way·ye·’ĕ·sōp̄|...|H622|Conj-w | V-Qal-ConsecImperf-3ms
@@ -611,4 +611,4 @@ v33 סָ֔רוּ|sā·rū|turn aside|H5493|V-Qal-Perf-3cp
 v33 מֵֽאַחֲרֵ֕י|mê·’a·ḥă·rê|from following|H310|Prep-m
 v33 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v33 אֱלֹהֵ֥י|’ĕ·lō·hê|the God|H430|N-mpc
-v33 אֲבוֹתֵיהֶֽם׃פ|’ă·ḇō·w·ṯê·hem|of their fathers|H1|N-mpc | 3mp
+v33 אֲבוֹתֵיהֶֽם׃|’ă·ḇō·w·ṯê·hem|of their fathers|H1|N-mpc | 3mp

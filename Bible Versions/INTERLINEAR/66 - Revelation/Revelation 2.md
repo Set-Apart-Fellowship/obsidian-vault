@@ -18,7 +18,7 @@ v1 δεξιᾷ|dexia|right hand|G1188|Adj-DFS
 v1 αὐτοῦ|autou|His|G846|PPro-GM3S
 v1 ὁ|ho|-|G3588|Art-NMS
 v1 περιπατῶν|peripatōn|[and] walks|G4043|V-PPA-NMS
-v1 ἐν|en|vvv|G1722|Prep
+v1 ἐν|en|...|G1722|Prep
 v1 μέσῳ|mesō|among|G3319|Adj-DNS
 v1 τῶν|tōn|the|G3588|Art-GFP
 v1 ἑπτὰ|hepta|seven|G2033|Adj-GFP
@@ -38,7 +38,7 @@ v2 ὑπομονήν|hypomonēn|perseverance|G5281|N-AFS
 v2 σου|sou|your|G4771|PPro-G2S
 v2 καὶ|kai|[I know]|G2532|Conj
 v2 ὅτι|hoti|that|G3754|Conj
-v2 οὐ|ou|vvv|G3756|Adv
+v2 οὐ|ou|...|G3756|Adv
 v2 δύνῃ|dynē|you cannot|G1410|V-PIM/P-2S
 v2 βαστάσαι|bastasai|tolerate|G941|V-ANA
 v2 κακούς|kakous|[those who are] evil|G2556|Adj-AMP
@@ -48,9 +48,9 @@ v2 τοὺς|tous|those who|G3588|Art-AMP
 v2 λέγοντας|legontas|claim|G3004|V-PPA-AMP
 v2 ἑαυτοὺς|heautous|to be|G1438|RefPro-AM3P
 v2 ἀποστόλους|apostolous|apostles|G652|N-AMP
-v2 καὶ|kai|vvv|G2532|Conj
+v2 καὶ|kai|...|G2532|Conj
 v2 οὐκ|ouk|falsely|G3756|Adv
-v2 εἰσίν|eisin|vvv|G1510|V-PIA-3P
+v2 εἰσίν|eisin|...|G1510|V-PIA-3P
 v2 καὶ|kai|and|G2532|Conj
 v2 εὗρες|heures|exposed|G2147|V-AIA-2S
 v2 αὐτοὺς|autous|-|G846|PPro-AM3P
@@ -91,7 +91,7 @@ v5 ἔργα|erga|deeds [you did]|G2041|N-ANP
 v5 ποίησον|poiēson|perform|G4160|V-AMA-2S
 v5 εἰ|ei|if|G1487|Conj
 v5 δὲ|de|But|G1161|Conj
-v5 μή|mē|vvv|G3361|Adv
+v5 μή|mē|...|G3361|Adv
 v5 ἔρχομαί|erchomai|I will come|G2064|V-PIM/P-1S
 v5 σοι|soi|to you|G4771|PPro-D2S
 v5 καὶ|kai|and|G2532|Conj
@@ -103,8 +103,8 @@ v5 ἐκ|ek|from|G1537|Prep
 v5 τοῦ|tou|-|G3588|Art-GMS
 v5 τόπου|topou|place|G5117|N-GMS
 v5 αὐτῆς|autēs|its|G846|PPro-GF3S
-v5 ἐὰν|ean|vvv|G1437|Conj
-v5 μὴ|mē|vvv|G3361|Adv
+v5 ἐὰν|ean|...|G1437|Conj
+v5 μὴ|mē|...|G3361|Adv
 v5 μετανοήσῃς|metanoēsēs|you do not repent|G3340|V-ASA-2S
 v6 Ἀλλὰ|Alla|But|G235|Conj
 v6 τοῦτο|touto|this|G3778|DPro-ANS
@@ -235,8 +235,8 @@ v11 ταῖς|tais|to the|G3588|Art-DFP
 v11 ἐκκλησίαις|ekklēsiais|churches|G1577|N-DFP
 v11 Ὁ|HO|The [one who]|G3588|Art-NMS
 v11 νικῶν|nikōn|overcomes|G3528|V-PPA-NMS
-v11 οὐ|ou|vvv|G3756|Adv
-v11 μὴ|mē|vvv|G3361|Adv
+v11 οὐ|ou|...|G3756|Adv
+v11 μὴ|mē|...|G3361|Adv
 v11 ἀδικηθῇ|adikēthē|will not be harmed|G91|V-ASP-3S
 v11 ἐκ|ek|by|G1537|Prep
 v11 τοῦ|tou|the|G3588|Art-GMS
@@ -275,7 +275,7 @@ v13 τὸ|to|-|G3588|Art-ANS
 v13 ὄνομά|onoma|name|G3686|N-ANS
 v13 μου|mou|to My|G1473|PPro-G1S
 v13 καὶ|kai|-|G2532|Conj
-v13 οὐκ|ouk|vvv|G3756|Adv
+v13 οὐκ|ouk|...|G3756|Adv
 v13 ἠρνήσω|ērnēsō|You did not deny|G720|V-AIM-2S
 v13 τὴν|tēn|[your]|G3588|Art-AFS
 v13 πίστιν|pistin|faith|G4102|N-AFS
@@ -319,13 +319,13 @@ v14 βαλεῖν|balein|to place|G906|V-ANA
 v14 σκάνδαλον|skandalon|a stumbling block|G4625|N-ANS
 v14 ἐνώπιον|enōpion|before|G1799|Prep
 v14 τῶν|tōn|the|G3588|Art-GMP
-v14 υἱῶν|huiōn|vvv|G5207|N-GMP
+v14 υἱῶν|huiōn|...|G5207|N-GMP
 v14 Ἰσραήλ|Israēl|Israelites|G2474|N-GMS
 v14 φαγεῖν|phagein|so they would eat|G5315|V-ANA
 v14 εἰδωλόθυτα|eidōlothyta|food sacrificed to idols|G1494|Adj-ANP
 v14 καὶ|kai|and|G2532|Conj
 v14 πορνεῦσαι|porneusai|commit sexual immorality|G4203|V-ANA
-v15 οὕτως|houtōs|vvv|G3779|Adv
+v15 οὕτως|houtōs|...|G3779|Adv
 v15 ἔχεις|echeis|-|G2192|V-PIA-2S
 v15 καὶ|kai|also|G2532|Conj
 v15 σὺ|sy|[some of] you|G4771|PPro-N2S
@@ -371,7 +371,7 @@ v17 τοῦ|tou|-|G3588|Art-GNS
 v17 μάννα|manna|manna|G3131|N-GNS
 v17 τοῦ|tou|the|G3588|Art-GNS
 v17 κεκρυμμένου|kekrymmenou|hidden|G2928|V-RPM/P-GNS
-v17 καὶ|kai|vvv|G2532|Conj
+v17 καὶ|kai|...|G2532|Conj
 v17 δώσω|dōsō|I will also give|G1325|V-FIA-1S
 v17 αὐτῷ|autō|him|G846|PPro-DM3S
 v17 ψῆφον|psēphon|stone|G5586|N-AFS
@@ -475,7 +475,7 @@ v21 χρόνον|chronon|time|G5550|N-AMS
 v21 ἵνα|hina|to|G2443|Conj
 v21 μετανοήσῃ|metanoēsē|repent|G3340|V-ASA-3S
 v21 καὶ|kai|-|G2532|Conj
-v21 οὐ|ou|vvv|G3756|Adv
+v21 οὐ|ou|...|G3756|Adv
 v21 θέλει|thelei|she is unwilling|G2309|V-PIA-3S
 v21 μετανοῆσαι|metanoēsai|-|G3340|V-ANA
 v21 ἐκ|ek|of|G1537|Prep
@@ -551,7 +551,7 @@ v24 τὰ|ta|the|G3588|Art-ANP
 v24 βαθέα|bathea|deep things|G901|Adj-ANP
 v24 τοῦ|tou|-|G3588|Art-GMS
 v24 Σατανᾶ|Satana|of Satan|G4567|N-GMS
-v24 ὡς|hōs|vvv|G5613|Adv
+v24 ὡς|hōs|...|G5613|Adv
 v24 λέγουσιν|legousin|so-called|G3004|V-PIA-3P
 v24 οὐ|ou|no|G3756|Adv
 v24 βάλλω|ballō|I will place|G906|V-PIA-1S
@@ -592,8 +592,8 @@ v27 ῥάβδῳ|rhabdō|scepter|G4464|N-DFS
 v27 σιδηρᾷ|sidēra|an iron|G4603|Adj-DFS
 v27 ὡς|hōs|like|G5613|Adv
 v27 τὰ|ta|-|G3588|Art-NNP
-v27 σκεύη|skeuē|vvv|G4632|N-NNP
-v27 τὰ|ta|vvv|G3588|Art-NNP
+v27 σκεύη|skeuē|...|G4632|N-NNP
+v27 τὰ|ta|...|G3588|Art-NNP
 v27 κεραμικὰ|keramika|pottery|G2764|Adj-NNP
 v27 συντρίβεται|syntribetai|[and] shatter [them]|G4937|V-PIM/P-3S
 v27 ὡς|hōs|just as|G5613|Adv

@@ -78,7 +78,7 @@ v6 בַגַּיְ֙|ḇag·gay|in a valley|H1516|Prep-b, Art | N-cs
 v6 בְּאֶ֣רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
 v6 מוֹאָ֔ב|mō·w·’āḇ|of Moab|H4124|N-proper-fs
 v6 מ֖וּל|mūl|facing|H4136|Prep
-v6 בֵּ֣ית|bêṯ|vvv|H1047|Prep
+v6 בֵּ֣ית|bêṯ|...|H1047|Prep
 v6 פְּע֑וֹר|pə·‘ō·wr|Beth-peor|H1047|N-proper-fs
 v6 וְלֹֽא־|wə·lō-|and no|H3808|Conj-w | Adv-NegPrt
 v6 יָדַ֥ע|yā·ḏa‘|knows|H3045|V-Qal-Perf-3ms

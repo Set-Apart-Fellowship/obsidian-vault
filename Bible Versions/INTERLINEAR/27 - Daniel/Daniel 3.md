@@ -63,7 +63,7 @@ v3 נְבוּכַדְנֶצַּֽר׃|nə·ḇū·ḵaḏ·neṣ·ṣar|...|H502
 v4 וְכָרוֹזָ֖א|wə·ḵā·rō·w·zā|Then the herald|H3744|Conj-w | N-msd
 v4 קָרֵ֣א|qā·rê|proclaimed|H7123|V-Qal-Prtcpl-ms
 v4 בְחָ֑יִל|ḇə·ḥā·yil|loudly|H2429|Prep-b | N-ms
-v4 לְכ֤וֹן|lə·ḵō·wn||H0|Prep | 2mp
+v4 לְכ֤וֹן|lə·ḵō·wn|-|H0|Prep | 2mp
 v4 אָֽמְרִין֙|’ā·mə·rîn|[this is what] you are commanded|H560|V-Qal-Prtcpl-mp
 v4 עַֽמְמַיָּ֔א|‘am·may·yā|O people|H5972|N-mpd
 v4 אֻמַּיָּ֖א|’um·may·yā|of [every] nation|H524|N-fpd
@@ -94,18 +94,18 @@ v6 דִּי־|dî-|...|H1768|Pro-r
 v6 לָ֥א|lā|does not|H3809|Adv-NegPrt
 v6 יִפֵּ֖ל|yip·pêl|fall down|H5308|V-Qal-Imperf-3ms
 v6 וְיִסְגֻּ֑ד|wə·yis·guḏ|and worship|H5457|Conj-w | V-Qal-ConjImperf-3ms
-v6 בַּהּ־|bah-||H0|Prep | 3fs
+v6 בַּהּ־|bah-|-|H0|Prep | 3fs
 v6 שַׁעֲתָ֣א|ša·‘ă·ṯā|will immediately|H8160|N-fsd
 v6 יִתְרְמֵ֔א|yiṯ·rə·mê|be thrown|H7412|V-Hitpael-Imperf-3ms
 v6 לְגֽוֹא־|lə·ḡō·w-|into|H1459|Prep | N-msc
 v6 אַתּ֥וּן|’at·tūn|furnace|H861|N-msc
 v6 נוּרָ֖א|nū·rā|fiery|H5135|N-csd
 v6 יָקִֽדְתָּֽא׃|yā·qiḏ·tā|the blazing|H3345|V-Qal-Prtcpl-fsd
-v7 כָּל־|kāl-|vvv|H3606|N-msc
-v7 קֳבֵ֣ל|qo·ḇêl|vvv|H6903|Prep
+v7 כָּל־|kāl-|...|H3606|N-msc
+v7 קֳבֵ֣ל|qo·ḇêl|...|H6903|Prep
 v7 דְּנָ֡ה|də·nāh|Therefore|H1836|Pro-ms
-v7 בֵּהּ־|bêh-||H0|Prep | 3ms
-v7 זִמְנָ֡א|zim·nā|vvv|H2166|N-msd
+v7 בֵּהּ־|bêh-|-|H0|Prep | 3ms
+v7 זִמְנָ֡א|zim·nā|...|H2166|N-msd
 v7 כְּדִ֣י|kə·ḏî|as soon as|H1768|Prep-k | Pro-r
 v7 שָֽׁמְעִ֣ין|šā·mə·‘în|heard|H8086|V-Qal-Prtcpl-mp
 v7 כָּֽל־|kāl-|all|H3606|N-msc
@@ -134,7 +134,7 @@ v7 מַלְכָּֽא׃|mal·kā|King|H4430|N-msd
 v8 כָּל־|kāl-|-|H3606|N-msc
 v8 קֳבֵ֤ל|qo·ḇêl|-|H6903|Prep
 v8 דְּנָה֙|də·nāh|At this time|H1836|Pro-ms
-v8 בֵּהּ־|bêh-||H0|Prep | 3ms
+v8 בֵּהּ־|bêh-|-|H0|Prep | 3ms
 v8 זִמְנָ֔א|zim·nā|...|H2166|N-msd
 v8 קְרִ֖בוּ|qə·ri·ḇū|came forward|H7127|V-Qal-Perf-3mp
 v8 גֻּבְרִ֣ין|guḇ·rîn|...|H1400|N-mp
@@ -195,7 +195,7 @@ v12 מְדִינַ֣ת|mə·ḏî·naṯ|the province|H4083|N-fsc
 v12 בָּבֶ֔ל|bā·ḇel|of Babylon|H895|N-proper-fs
 v12 שַׁדְרַ֥ךְ|šaḏ·raḵ|Shadrach|H7715|N-proper-ms
 v12 מֵישַׁ֖ךְ|mê·šaḵ|Meshach|H4336|N-proper-ms
-v12 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v12 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v12 נְג֑וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v12 גֻּבְרַיָּ֣א|guḇ·ray·yā|...|H1400|N-mpd
 v12 אִלֵּ֗ךְ|’il·lêḵ|[who]|H479|Pro-cp
@@ -212,7 +212,7 @@ v12 דַּהֲבָ֛א|da·hă·ḇā|the golden|H1722|N-msd
 v12 דִּ֥י|dî|-|H1768|Pro-r
 v12 הֲקֵ֖ימְתָּ|hă·qê·mə·tā|you have set up|H6966|V-Hifil-Perf-2ms
 v12 לָ֥א|lā|-|H3809|Adv-NegPrt
-v12 סָגְדִֽין׃ס|sā·ḡə·ḏîn|or worship|H5457|V-Qal-Prtcpl-mp
+v12 סָגְדִֽין׃|sā·ḡə·ḏîn|or worship|H5457|V-Qal-Prtcpl-mp
 v13 בֵּאדַ֤יִן|bê·ḏa·yin|Then|H116|Prep-b | Adv
 v13 נְבוּכַדְנֶצַּר֙|nə·ḇū·ḵaḏ·neṣ·ṣar|Nebuchadnezzar|H5020|N-proper-ms
 v13 בִּרְגַ֣ז|bir·ḡaz|with rage|H7266|Prep-b | N-ms
@@ -221,7 +221,7 @@ v13 אֲמַר֙|’ă·mar|summoned|H560|V-Qal-Perf-3ms
 v13 לְהַיְתָיָ֔ה|lə·hay·ṯā·yāh|...|H858|Prep-l | V-Hifil-Inf
 v13 לְשַׁדְרַ֥ךְ|lə·šaḏ·raḵ|Shadrach|H7715|Prep-l | N-proper-ms
 v13 מֵישַׁ֖ךְ|mê·šaḵ|Meshach|H4336|N-proper-ms
-v13 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v13 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v13 נְג֑וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v13 בֵּאדַ֙יִן֙|bê·ḏa·yin|So|H116|Prep-b | Adv
 v13 גֻּבְרַיָּ֣א|guḇ·ray·yā|men|H1400|N-mpd
@@ -236,7 +236,7 @@ v14 לְה֔וֹן|lə·hō·wn|to them|H0|Prep | 3mp
 v14 הַצְדָּ֕א|haṣ·dā|is it true|H6656|Art | N-ms
 v14 שַׁדְרַ֥ךְ|šaḏ·raḵ|Shadrach|H7715|N-proper-ms
 v14 מֵישַׁ֖ךְ|mê·šaḵ|Meshach|H4336|N-proper-ms
-v14 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v14 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v14 נְג֑וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v14 לֵֽאלָהַ֗י|lê·lā·hay|my gods|H426|Prep-l | N-mpc | 1cs
 v14 לָ֤א|lā|that you do not|H3809|Adv-NegPrt
@@ -252,7 +252,7 @@ v15 כְּעַ֞ן|kə·‘an|Now|H3705|Adv
 v15 הֵ֧ן|hên|if|H2006|Conj
 v15 אִֽיתֵיכ֣וֹן|’î·ṯê·ḵō·wn|you are|H383|Adv | 2mp
 v15 עֲתִידִ֗ין|‘ă·ṯî·ḏîn|ready|H6263|Adj-mp
-v15 דִּ֣י|dî|vvv|H1768|Pro-r
+v15 דִּ֣י|dî|...|H1768|Pro-r
 v15 בְעִדָּנָ֡א|ḇə·‘id·dā·nā|when|H5732|Prep-b | N-msd
 v15 דִּֽי־|dî-|...|H1768|Pro-r
 v15 תִשְׁמְע֡וּן|ṯiš·mə·‘ūn|you hear|H8086|V-Qal-Imperf-2mp
@@ -274,7 +274,7 @@ v15 עַבְדֵת֒|‘aḇ·ḏêṯ|I have made, [very good]|H5648|V-Qal-Perf
 v15 וְהֵן֙|wə·hên|But if|H2006|Conj
 v15 לָ֣א|lā|you refuse|H3809|Adv-NegPrt
 v15 תִסְגְּד֔וּן|ṯis·gə·ḏūn|to worship|H5457|V-Qal-Imperf-2mp
-v15 בַּהּ־|bah-||H0|Prep | 3fs
+v15 בַּהּ־|bah-|-|H0|Prep | 3fs
 v15 שַׁעֲתָ֣ה|ša·‘ă·ṯāh|at once|H8160|N-fsd
 v15 תִתְרְמ֔וֹן|ṯiṯ·rə·mō·wn|you will be thrown|H7412|V-Hitpael-Imperf-2mp
 v15 לְגֽוֹא־|lə·ḡō·w-|into|H1459|Prep-l | N-msc
@@ -291,7 +291,7 @@ v15 יְדָֽי׃|yə·ḏāy|my hands|H3028|N-fpc | 1cs
 v16 עֲנ֗וֹ|‘ă·nōw|replied|H6032|V-Qal-Perf-3mp
 v16 שַׁדְרַ֤ךְ|šaḏ·raḵ|Shadrach|H7715|N-proper-ms
 v16 מֵישַׁךְ֙|mê·šaḵ|Meshach|H4336|N-proper-ms
-v16 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v16 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v16 נְג֔וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v16 וְאָמְרִ֖ין|wə·’ā·mə·rîn|...|H560|Conj-w | V-Qal-Prtcpl-mp
 v16 לְמַלְכָּ֑א|lə·mal·kā|to the king|H4430|Prep-l | N-msd
@@ -335,7 +335,7 @@ v18 דַּהֲבָ֛א|da·hă·ḇā|the golden|H1722|N-msd
 v18 דִּ֥י|dî|-|H1768|Pro-r
 v18 הֲקֵ֖ימְתָּ|hă·qê·mə·tā|you have set up|H6966|V-Hifil-Perf-2ms
 v18 לָ֥א|lā|-|H3809|Adv-NegPrt
-v18 נִסְגֻּֽד׃ס|nis·guḏ|or worship|H5457|V-Qal-Imperf-1cp
+v18 נִסְגֻּֽד׃|nis·guḏ|or worship|H5457|V-Qal-Imperf-1cp
 v19 בֵּאדַ֨יִן|bê·ḏa·yin|At this|H116|Prep-b | Adv
 v19 נְבוּכַדְנֶצַּ֜ר|nə·ḇū·ḵaḏ·neṣ·ṣar|Nebuchadnezzar|H5020|N-proper-ms
 v19 הִתְמְלִ֣י|hiṯ·mə·lî|was filled|H4391|V-Hitpael-Perf-3ms
@@ -346,7 +346,7 @@ v19 אֶשְׁתַּנּוּ|ʾɛš·tan·nū|changed|H8133|V-Hitpael-Perf-3ms
 v19 עַל־|‘al-|toward|H5922|Prep
 v19 שַׁדְרַ֥ךְ|šaḏ·raḵ|Shadrach|H7715|N-proper-ms
 v19 מֵישַׁ֖ךְ|mê·šaḵ|Meshach|H4336|N-proper-ms
-v19 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v19 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v19 נְג֑וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v19 עָנֵ֤ה|‘ā·nêh|He gave orders|H6032|V-Qal-Prtcpl-ms
 v19 וְאָמַר֙|wə·’ā·mar|...|H560|Conj-w | V-Qal-Prtcpl-ms
@@ -367,7 +367,7 @@ v20 אֲמַר֙|’ă·mar|and he commanded|H560|V-Qal-Perf-3ms
 v20 לְכַפָּתָ֔ה|lə·ḵap·pā·ṯāh|to tie up|H3729|Prep-l | V-Piel-Inf
 v20 לְשַׁדְרַ֥ךְ|lə·šaḏ·raḵ|Shadrach|H7715|Prep-l | N-proper-ms
 v20 מֵישַׁ֖ךְ|mê·šaḵ|Meshach|H4336|N-proper-ms
-v20 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v20 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v20 נְג֑וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v20 לְמִרְמֵ֕א|lə·mir·mê|and throw them|H7412|Prep-l | V-Qal-Inf
 v20 לְאַתּ֥וּן|lə·’at·tūn|furnace|H861|Prep-l | N-msc
@@ -403,33 +403,33 @@ v22 דִּ֤י|dî|who|H1768|Pro-r
 v22 הַסִּ֙קוּ֙|has·si·qū|carried up|H5559|V-Hifil-Perf-3mp
 v22 לְשַׁדְרַ֤ךְ|lə·šaḏ·raḵ|Shadrach|H7715|Prep-l | N-proper-ms
 v22 מֵישַׁךְ֙|mê·šaḵ|Meshach|H4336|N-proper-ms
-v22 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v22 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v22 נְג֔וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v22 קַטִּ֣ל|qaṭ·ṭil|killed|H6992|V-Piel-Perf-3ms
 v22 הִמּ֔וֹן|him·mō·wn|...|H1994|Pro-3mp
 v22 שְׁבִיבָ֖א|šə·ḇî·ḇā|flames|H7631|N-msd
-v22 דִּ֥י|dî||H1768|Pro-r
+v22 דִּ֥י|dî|-|H1768|Pro-r
 v22 נוּרָֽא׃|nū·rā|that the fiery|H5135|N-csd
 v23 וְגֻבְרַיָּ֤א|wə·ḡuḇ·ray·yā|men|H1400|Conj-w | N-mpd
 v23 אִלֵּךְ֙|’il·lêḵ|And these|H479|Pro-cp
 v23 תְּלָ֣תֵּה֔וֹן|tə·lāt·tê·hō·wn|three|H8532|Number-msc | 3mp
 v23 שַׁדְרַ֥ךְ|šaḏ·raḵ|Shadrach|H7715|N-proper-ms
 v23 מֵישַׁ֖ךְ|mê·šaḵ|Meshach|H4336|N-proper-ms
-v23 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v23 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v23 נְג֑וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v23 נְפַ֛לוּ|nə·p̄a·lū|fell|H5308|V-Qal-Perf-3mp
 v23 לְגֽוֹא־|lə·ḡō·w-|into|H1459|Prep-l | N-msc
 v23 אַתּוּן־|’at·tūn-|furnace|H861|N-msc
 v23 נוּרָ֥א|nū·rā|fiery|H5135|N-csd
 v23 יָֽקִדְתָּ֖א|yā·qiḏ·tā|the blazing|H3345|V-Qal-Prtcpl-fsd
-v23 מְכַפְּתִֽין׃פ|mə·ḵap·pə·ṯîn|firmly bound|H3729|V-Piel-QalPassPrtcpl-mp
+v23 מְכַפְּתִֽין׃|mə·ḵap·pə·ṯîn|firmly bound|H3729|V-Piel-QalPassPrtcpl-mp
 v24 אֱדַ֙יִן֙|’ĕ·ḏa·yin|Suddenly|H116|Adv
 v24 נְבוּכַדְנֶצַּ֣ר|nə·ḇū·ḵaḏ·neṣ·ṣar|Nebuchadnezzar|H5020|N-proper-ms
 v24 מַלְכָּ֔א|mal·kā|King|H4430|N-msd
 v24 תְּוַ֖הּ|tə·wah|...|H8429|V-Qal-Perf-3ms
 v24 וְקָ֣ם|wə·qām|jumped up|H6966|Conj-w | V-Qal-ConjPerf-3ms
 v24 בְּהִתְבְּהָלָ֑ה|bə·hiṯ·bə·hā·lāh|in amazement|H927|Prep-b | V-Hitpael-Inf
-v24 עָנֵ֨ה|‘ā·nêh|vvv|H6032|V-Qal-Prtcpl-ms
+v24 עָנֵ֨ה|‘ā·nêh|...|H6032|V-Qal-Prtcpl-ms
 v24 וְאָמַ֜ר|wə·’ā·mar|and asked|H560|Conj-w | V-Qal-Prtcpl-ms
 v24 לְהַדָּֽבְר֗וֹהִי|lə·had·dā·ḇə·rō·w·hî|his advisers|H1907|Prep-l | N-mpc | 3ms
 v24 הֲלָא֩|hă·lā|Did we not|H3809|Adv-NegPrt
@@ -441,7 +441,7 @@ v24 נוּרָא֙|nū·rā|the fire|H5135|N-csd
 v24 מְכַפְּתִ֔ין|mə·ḵap·pə·ṯîn|firmly bound|H3729|V-Piel-QalPassPrtcpl-mp
 v24 עָנַ֤יִן|‘ā·na·yin|they replied|H6032|V-Qal-Prtcpl-mp
 v24 וְאָמְרִין֙|wə·’ā·mə·rîn|...|H560|Conj-w | V-Qal-Prtcpl-mp
-v24 לְמַלְכָּ֔א|lə·mal·kā||H4430|Prep-l | N-msd
+v24 לְמַלְכָּ֔א|lə·mal·kā|-|H4430|Prep-l | N-msd
 v24 יַצִּיבָ֖א|yaṣ·ṣî·ḇā|Certainly|H3330|Adj-fs
 v24 מַלְכָּֽא׃|mal·kā|O king|H4430|N-msd
 v25 עָנֵ֣ה|‘ā·nêh|...|H6032|V-Qal-Prtcpl-ms
@@ -458,13 +458,13 @@ v25 נוּרָ֔א|nū·rā|the fire|H5135|N-csd
 v25 וַחֲבָ֖ל|wa·ḥă·ḇāl|and unharmed|H2257|Conj-w | N-ms
 v25 לָא־|lā-|...|H3809|Adv-NegPrt
 v25 אִיתַ֣י|’î·ṯay|...|H383|Adv
-v25 בְּה֑וֹן|bə·hō·wn||H0|Prep | 3mp
+v25 בְּה֑וֹן|bə·hō·wn|-|H0|Prep | 3mp
 v25 וְרֵוֵהּ֙|wə·rê·wêh|looks|H7299|Conj-w | N-msc | 3ms
 v25 דִּ֣י|dî|...|H1768|Pro-r
 v25 רְבִיעָיָא|rə·ḇī·ʿå̄·yå̄|and the fourth|H7244|Number-omsd
 v25 דָּמֵ֖ה|dā·mêh|like|H1821|V-Qal-Prtcpl-ms
 v25 לְבַר־|lə·ḇar-|a son|H1247|Prep-l | N-msc
-v25 אֱלָהִֽין׃ס|’ĕ·lā·hîn|of the gods|H426|N-mp
+v25 אֱלָהִֽין׃|’ĕ·lā·hîn|of the gods|H426|N-mp
 v26 בֵּאדַ֜יִן|bê·ḏa·yin|Then|H116|Prep-b | Adv
 v26 קְרֵ֣ב|qə·rêḇ|approached|H7127|V-Qal-Perf-3ms
 v26 נְבוּכַדְנֶצַּ֗ר|nə·ḇū·ḵaḏ·neṣ·ṣar|Nebuchadnezzar|H5020|N-proper-ms
@@ -476,7 +476,7 @@ v26 עָנֵ֣ה|‘ā·nêh|...|H6032|V-Qal-Prtcpl-ms
 v26 וְאָמַ֗ר|wə·’ā·mar|and called out|H560|Conj-w | V-Qal-Prtcpl-ms
 v26 שַׁדְרַ֨ךְ|šaḏ·raḵ|Shadrach|H7715|N-proper-ms
 v26 מֵישַׁ֧ךְ|mê·šaḵ|Meshach|H4336|N-proper-ms
-v26 וַעֲבֵד־|wa·‘ă·ḇêḏ-|vvv|H5665|Conj-w | N-proper-ms
+v26 וַעֲבֵד־|wa·‘ă·ḇêḏ-|...|H5665|Conj-w | N-proper-ms
 v26 נְג֛וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v26 עַבְד֛וֹהִי|‘aḇ·ḏō·w·hî|servants|H5649|N-mpc | 3ms
 v26 דִּֽי־|dî-|...|H1768|Pro-r
@@ -488,7 +488,7 @@ v26 בֵּאדַ֣יִן|bê·ḏa·yin|So|H116|Prep-b | Adv
 v26 נָֽפְקִ֗ין|nā·p̄ə·qîn|came out|H5312|V-Qal-Prtcpl-mp
 v26 שַׁדְרַ֥ךְ|šaḏ·raḵ|Shadrach|H7715|N-proper-ms
 v26 מֵישַׁ֛ךְ|mê·šaḵ|Meshach|H4336|N-proper-ms
-v26 וַעֲבֵ֥ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v26 וַעֲבֵ֥ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v26 נְג֖וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v26 מִן־|min-|of|H4481|Prep
 v26 גּ֥וֹא|gō·w|...|H1459|N-msc
@@ -527,7 +527,7 @@ v28 אֱלָהֲהוֹן֙|’ĕ·lā·hă·hō·wn|be the God|H426|N-msc | 3mp
 v28 דִּֽי־|dî-|of|H1768|Pro-r
 v28 שַׁדְרַ֤ךְ|šaḏ·raḵ|Shadrach|H7715|N-proper-ms
 v28 מֵישַׁךְ֙|mê·šaḵ|Meshach|H4336|N-proper-ms
-v28 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v28 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v28 נְג֔וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v28 דִּֽי־|dî-|who|H1768|Pro-r
 v28 שְׁלַ֤ח|šə·laḥ|who has sent|H7972|V-Qal-Perf-3ms
@@ -567,7 +567,7 @@ v29 אֱלָהֲה֗וֹן|’ĕ·lā·hă·hō·wn|the God|H426|N-msc | 3mp
 v29 דִּֽי־|dî-|of|H1768|Pro-r
 v29 שַׁדְרַ֤ךְ|šaḏ·raḵ|Shadrach|H7715|N-proper-ms
 v29 מֵישַׁךְ֙|mê·šaḵ|Meshach|H4336|N-proper-ms
-v29 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v29 וַעֲבֵ֣ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v29 נְג֔וֹא|nə·ḡō·w|and Abednego|H5665|Conj-w | N-proper-ms
 v29 הַדָּמִ֣ין|had·dā·mîn|into pieces|H1917|N-mp
 v29 יִתְעֲבֵ֔ד|yiṯ·‘ă·ḇêḏ|will be cut|H5648|V-Hitpael-Imperf-3ms
@@ -590,7 +590,7 @@ v30 מַלְכָּ֗א|mal·kā|the king|H4430|N-msd
 v30 הַצְלַ֛ח|haṣ·laḥ|promoted|H6744|V-Hifil-Perf-3ms
 v30 לְשַׁדְרַ֥ךְ|lə·šaḏ·raḵ|Shadrach|H7715|Prep-l | N-proper-ms
 v30 מֵישַׁ֛ךְ|mê·šaḵ|Meshach|H4336|N-proper-ms
-v30 וַעֲבֵ֥ד|wa·‘ă·ḇêḏ|vvv|H5665|Conj-w | N-proper-ms
+v30 וַעֲבֵ֥ד|wa·‘ă·ḇêḏ|...|H5665|Conj-w | N-proper-ms
 v30 נְג֖וֹ|nə·ḡōw|and Abednego|H5665|Conj-w | N-proper-ms
 v30 בִּמְדִינַ֥ת|bim·ḏî·naṯ|in the province|H4083|Prep-b | N-fsc
-v30 בָּבֶֽל׃פ|bā·ḇel|of Babylon|H895|N-proper-fs
+v30 בָּבֶֽל׃|bā·ḇel|of Babylon|H895|N-proper-fs

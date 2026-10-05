@@ -33,7 +33,7 @@ v2 וְהָיוּ֙|wə·hā·yū|They will make|H1961|Conj-w | V-Qal-ConjPerf-3
 v2 שֹׁבִ֣ים|šō·ḇîm|captives|H7617|V-Qal-Prtcpl-mp
 v2 לְשֹֽׁבֵיהֶ֔ם|lə·šō·ḇê·hem|of their captors|H7617|Prep-l | V-Qal-Prtcpl-mpc | 3mp
 v2 וְרָד֖וּ|wə·rā·ḏū|and rule|H7287|Conj-w | V-Qal-ConjPerf-3cp
-v2 בְּנֹגְשֵׂיהֶֽם׃ס|bə·nō·ḡə·śê·hem|over their oppressors|H5065|Prep-b | V-Qal-Prtcpl-mpc | 3mp
+v2 בְּנֹגְשֵׂיהֶֽם׃|bə·nō·ḡə·śê·hem|over their oppressors|H5065|Prep-b | V-Qal-Prtcpl-mpc | 3mp
 v3 וְהָיָ֗ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v3 בְּי֨וֹם|bə·yō·wm|On the day that|H3117|Prep-b | N-msc
 v3 הָנִ֤יחַ|hā·nî·aḥ|gives you rest|H5117|V-Hifil-Inf
@@ -46,7 +46,7 @@ v3 הָעֲבֹדָ֥ה|hā·‘ă·ḇō·ḏāh|labor|H5656|Art | N-fs
 v3 הַקָּשָׁ֖ה|haq·qā·šāh|and from the hard|H7186|Art | Adj-fs
 v3 אֲשֶׁ֥ר|’ă·šer|into which|H834|Pro-r
 v3 עֻבַּד־|‘ub·baḏ-|you were forced|H5647|V-QalPass-Perf-3ms
-v3 בָּֽךְ׃|bāḵ||H0|Prep | 2ms
+v3 בָּֽךְ׃|bāḵ|-|H0|Prep | 2ms
 v4 וְנָשָׂ֜אתָ|wə·nā·śā·ṯā|you will sing|H5375|Conj-w | V-Qal-ConjPerf-2ms
 v4 הַמָּשָׁ֥ל|ham·mā·šāl|song of contempt|H4912|Art | N-ms
 v4 הַזֶּ֛ה|haz·zeh|this|H2088|Art | Pro-ms
@@ -264,7 +264,7 @@ v23 בְּמַטְאֲטֵ֣א|bə·maṭ·’ă·ṭê|with the broom|H4292|Pr
 v23 הַשְׁמֵ֔ד|haš·mêḏ|of destruction|H8045|V-Hifil-InfAbs
 v23 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v23 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
-v23 צְבָאֽוֹת׃פ|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
+v23 צְבָאֽוֹת׃|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v24 נִשְׁבַּ֛ע|niš·ba‘|has sworn|H7650|V-Nifal-Perf-3ms
 v24 יְהוָ֥ה|Yah·weh|The LORD|H3068|N-proper-ms
 v24 צְבָא֖וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
@@ -313,7 +313,7 @@ v27 יָפֵ֑ר|yā·p̄êr|can thwart Him|H6565|V-Hifil-Imperf-3ms
 v27 וְיָד֥וֹ|wə·yā·ḏōw|His hand|H3027|Conj-w | N-fsc | 3ms
 v27 הַנְּטוּיָ֖ה|han·nə·ṭū·yāh|is outstretched|H5186|Art | V-Qal-QalPassPrtcpl-fs
 v27 וּֽמִ֥י|ū·mî|so who|H4310|Conj-w | Interrog
-v27 יְשִׁיבֶֽנָּה׃פ|yə·šî·ḇen·nāh|can turn it back|H7725|V-Hifil-Imperf-3ms | 3fs
+v27 יְשִׁיבֶֽנָּה׃|yə·šî·ḇen·nāh|can turn it back|H7725|V-Hifil-Imperf-3ms | 3fs
 v28 בִּשְׁנַת־|biš·naṯ-|In the year|H8141|Prep-b | N-fsc
 v28 מ֖וֹת|mō·wṯ|died|H4194|N-msc
 v28 הַמֶּ֣לֶךְ|ham·me·leḵ|that King|H4428|Art | N-ms
@@ -370,7 +370,7 @@ v32 כִּ֤י|kî|...|H3588|Conj
 v32 יְהוָה֙|Yah·weh|The LORD|H3068|N-proper-ms
 v32 יִסַּ֣ד|yis·saḏ|has founded|H3245|V-Piel-Perf-3ms
 v32 צִיּ֔וֹן|ṣî·yō·wn|Zion|H6726|N-proper-fs
-v32 וּבָ֥הּ|ū·ḇāh||H0|Conj-w | Prep | 3fs
+v32 וּבָ֥הּ|ū·ḇāh|-|H0|Conj-w | Prep | 3fs
 v32 יֶחֱס֖וּ|ye·ḥĕ·sū|will find refuge|H2620|V-Qal-Imperf-3mp
 v32 עֲנִיֵּ֥י|‘ă·nî·yê|where His afflicted|H6041|Adj-mpc
-v32 עַמּֽוֹ׃ס|‘am·mōw|people|H5971|N-msc | 3ms
+v32 עַמּֽוֹ׃|‘am·mōw|people|H5971|N-msc | 3ms

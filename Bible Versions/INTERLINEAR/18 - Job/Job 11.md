@@ -145,4 +145,4 @@ v20 אָבַ֣ד|’ā·ḇaḏ|will elude them|H6|V-Qal-Perf-3ms
 v20 מִנְהֶ֑ם|min·hem|...|H4480|Prep | 3mp
 v20 וְ֝תִקְוָתָ֗ם|wə·ṯiq·wā·ṯām|they will hope|H8615|Conj-w | N-fsc | 3mp
 v20 מַֽפַּח־|map·paḥ-|for their last breath|H4646|N-msc
-v20 נָֽפֶשׁ׃פ|nā·p̄eš|...|H5315|N-fs
+v20 נָֽפֶשׁ׃|nā·p̄eš|...|H5315|N-fs

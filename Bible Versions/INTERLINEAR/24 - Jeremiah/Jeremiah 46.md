@@ -96,7 +96,7 @@ v8 אֶ֔רֶץ|’e·reṣ|the earth|H776|N-fs
 v8 אֹבִ֥ידָה|’ō·ḇî·ḏāh|I will destroy|H6|V-Hifil-Imperf.Cohort-1cs
 v8 עִ֖יר|‘îr|the cities|H5892|N-fs
 v8 וְיֹ֥שְׁבֵי|wə·yō·šə·ḇê|and their people|H3427|Conj-w | V-Qal-Prtcpl-mpc
-v8 בָֽהּ׃|ḇāh||H0|Prep | 3fs
+v8 בָֽהּ׃|ḇāh|-|H0|Prep | 3fs
 v9 עֲל֤וּ|‘ă·lū|Advance|H5927|V-Qal-Imp-mp
 v9 הַסּוּסִים֙|has·sū·sîm|O horses|H5483|Art | N-mp
 v9 וְהִתְהֹלְל֣וּ|wə·hiṯ·hō·lə·lū|Race furiously|H1984|Conj-w | V-Hitpael-Imp-mp
@@ -108,7 +108,7 @@ v9 וּפוּט֙|ū·p̄ūṭ|and Put|H6316|Conj-w | N-proper-fs
 v9 תֹּפְשֵׂ֣י|tō·p̄ə·śê|carrying|H8610|V-Qal-Prtcpl-mpc
 v9 מָגֵ֔ן|mā·ḡên|their shields|H4043|N-cs
 v9 וְלוּדִ֕ים|wə·lū·ḏîm|men of Lydia|H3866|Conj-w | N-proper-mp
-v9 תֹּפְשֵׂ֖י|tō·p̄ə·śê|vvv|H8610|V-Qal-Prtcpl-mpc
+v9 תֹּפְשֵׂ֖י|tō·p̄ə·śê|...|H8610|V-Qal-Prtcpl-mpc
 v9 דֹּ֥רְכֵי|dō·rə·ḵê|drawing|H1869|V-Qal-Prtcpl-mpc
 v9 קָֽשֶׁת׃|qā·šeṯ|the bow|H7198|N-fs
 v10 וְֽהַיּ֨וֹם|wə·hay·yō·wm|day [belongs]|H3117|Conj-w, Art | N-ms
@@ -160,7 +160,7 @@ v12 בְּגִבּוֹר֙|bə·ḡib·bō·wr|over warrior|H1368|Prep-b | Adj-m
 v12 כָּשָׁ֔לוּ|kā·šā·lū|stumbles|H3782|V-Qal-Perf-3cp
 v12 יַחְדָּ֖יו|yaḥ·dāw|together|H3162|Adv
 v12 נָפְל֥וּ|nā·p̄ə·lū|of them have fallen|H5307|V-Qal-Perf-3cp
-v12 שְׁנֵיהֶֽם׃פ|šə·nê·hem|and both|H8147|Number-mdc | 3mp
+v12 שְׁנֵיהֶֽם׃|šə·nê·hem|and both|H8147|Number-mdc | 3mp
 v13 הַדָּבָר֙|had·dā·ḇār|This is the word|H1697|Art | N-ms
 v13 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v13 דִּבֶּ֣ר|dib·ber|spoke|H1696|V-Piel-Perf-3ms
@@ -241,7 +241,7 @@ v18 יָבֽוֹא׃|yā·ḇō·w|will come one [who is]|H935|V-Qal-Imperf-3ms
 v19 כְּלֵ֤י|kə·lê|your bags|H3627|N-mpc
 v19 גוֹלָה֙|ḡō·w·lāh|for exile|H1473|N-fs
 v19 עֲשִׂ֣י|‘ă·śî|Pack|H6213|V-Qal-Imp-fs
-v19 לָ֔ךְ|lāḵ||H0|Prep | 2fs
+v19 לָ֔ךְ|lāḵ|-|H0|Prep | 2fs
 v19 יוֹשֶׁ֖בֶת|yō·wō·še·ḇeṯ|dwelling|H3427|V-Qal-Prtcpl-fsc
 v19 בַּת־|baṯ-|O daughter|H1323|N-fsc
 v19 מִצְרָ֑יִם|miṣ·rā·yim|in Egypt|H4714|N-proper-fs
@@ -250,10 +250,10 @@ v19 נֹף֙|nōp̄|Memphis|H5297|N-proper-fs
 v19 לְשַׁמָּ֣ה|lə·šam·māh|laid waste|H8047|Prep-l | N-fs
 v19 תִֽהְיֶ֔ה|ṯih·yeh|will be|H1961|V-Qal-Imperf-3fs
 v19 וְנִצְּתָ֖ה|wə·niṣ·ṣə·ṯāh|destroyed|H5327|Conj-w | V-Nifal-ConjPerf-3fs
-v19 מֵאֵ֥ין|mê·’ên|vvv|H369|Prep-m | Adv
-v19 יוֹשֵֽׁב׃ס|yō·wō·šêḇ|and uninhabited|H3427|V-Qal-Prtcpl-ms
+v19 מֵאֵ֥ין|mê·’ên|...|H369|Prep-m | Adv
+v19 יוֹשֵֽׁב׃|yō·wō·šêḇ|and uninhabited|H3427|V-Qal-Prtcpl-ms
 v20 עֶגְלָ֥ה|‘eḡ·lāh|heifer|H5697|N-fs
-v20 יְפֵֽה־|yə·p̄êh-|vvv|H3304|Adj-fs
+v20 יְפֵֽה־|yə·p̄êh-|...|H3304|Adj-fs
 v20 פִיָּ֖ה|p̄î·yāh|is a beautiful|H3304|Adj-fs
 v20 מִצְרָ֑יִם|miṣ·rā·yim|Egypt|H4714|N-proper-fs
 v20 קֶ֥רֶץ|qe·reṣ|but a gadfly|H7171|N-ms
@@ -265,7 +265,7 @@ v21 שְׂכִרֶ֤יהָ|śə·ḵi·re·hā|the mercenaries|H7916|Adj-mpc | 3
 v21 בְקִרְבָּהּ֙|ḇə·qir·bāh|among her|H7130|Prep-b | N-msc | 3fs
 v21 כְּעֶגְלֵ֣י|kə·‘eḡ·lê|calves|H5695|Prep-k | N-mpc
 v21 מַרְבֵּ֔ק|mar·bêq|are like fattened|H4770|N-ms
-v21 כִּֽי־|kî-||H3588|Conj
+v21 כִּֽי־|kî-|-|H3588|Conj
 v21 גַם־|ḡam-|too|H1571|Conj
 v21 הֵ֧מָּה|hêm·māh|They|H1992|Pro-3mp
 v21 הִפְנ֛וּ|hip̄·nū|will turn back|H6437|V-Hifil-Perf-3cp
@@ -333,7 +333,7 @@ v25 וְעַ֨ל־|wə·‘al-|...|H5921|Conj-w | Prep
 v25 פַּרְעֹ֔ה|par·‘ōh|in Pharaoh|H6547|N-proper-ms
 v25 וְעַ֥ל|wə·‘al|...|H5921|Conj-w | Prep
 v25 הַבֹּטְחִ֖ים|hab·bō·ṭə·ḥîm|and those who trust|H982|Art | V-Qal-Prtcpl-mp
-v25 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v25 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v26 וּנְתַתִּ֗ים|ū·nə·ṯat·tîm|I will deliver them|H5414|Conj-w | V-Qal-ConjPerf-1cs | 3mp
 v26 בְּיַד֙|bə·yaḏ|into the hands|H3027|Prep-b | N-fsc
 v26 מְבַקְשֵׁ֣י|mə·ḇaq·šê|of those who seek|H1245|V-Piel-Prtcpl-mpc
@@ -350,7 +350,7 @@ v26 תִּשְׁכֹּ֥ן|tiš·kōn|[Egypt] will be inhabited|H7931|V-Qal-Impe
 v26 כִּֽימֵי־|kî·mê-|as in days|H3117|Prep-k | N-mpc
 v26 קֶ֖דֶם|qe·ḏem|of old|H6924|N-ms
 v26 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v26 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v26 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v27 וְ֠אַתָּה|wə·’at·tāh|But you|H859|Conj-w | Pro-2ms
 v27 אַל־|’al-|do not|H408|Adv
 v27 תִּירָ֞א|tî·rā|be afraid|H3372|V-Qal-Imperf-2ms
@@ -360,7 +360,7 @@ v27 וְאַל־|wə·’al-|and do not|H408|Conj-w | Adv
 v27 תֵּחַ֣ת|tê·ḥaṯ|be dismayed|H2865|V-Nifal-Imperf-2ms
 v27 יִשְׂרָאֵ֔ל|yiś·rā·’êl|O Israel|H3478|N-proper-ms
 v27 כִּ֠י|kî|For|H3588|Conj
-v27 הִנְנִ֤י|hin·nî|vvv|H2005|Interjection | 1cs
+v27 הִנְנִ֤י|hin·nî|...|H2005|Interjection | 1cs
 v27 מוֹשִֽׁעֲךָ֙|mō·wō·ši·‘ă·ḵā|I will surely save you|H3467|V-Hifil-Prtcpl-msc | 2ms
 v27 מֵֽרָח֔וֹק|mê·rā·ḥō·wq|out of a distant place|H7350|Prep-m | Adj-ms
 v27 וְאֶֽת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -372,7 +372,7 @@ v27 יַעֲק֛וֹב|ya·‘ă·qō·wḇ|Jacob|H3290|N-proper-ms
 v27 וְשָׁקַ֥ט|wə·šā·qaṭ|to quiet|H8252|Conj-w | V-Qal-ConjPerf-3ms
 v27 וְשַׁאֲנַ֖ן|wə·ša·’ă·nan|and ease|H7599|Conj-w | V-Piel-ConjPerf-3ms
 v27 וְאֵ֥ין|wə·’ên|with no one|H369|Conj-w | Adv
-v27 מַחֲרִֽיד׃ס|ma·ḥă·rîḏ|to make him afraid|H2729|V-Hifil-Prtcpl-ms
+v27 מַחֲרִֽיד׃|ma·ḥă·rîḏ|to make him afraid|H2729|V-Hifil-Prtcpl-ms
 v28 אַ֠תָּה|’at·tāh|And you|H859|Pro-2ms
 v28 אַל־|’al-|do not|H408|Adv
 v28 תִּירָ֞א|tî·rā|be afraid|H3372|V-Qal-Imperf-2ms
@@ -399,4 +399,4 @@ v28 וְיִסַּרְתִּ֙יךָ֙|wə·yis·sar·tî·ḵā|Yet I will disc
 v28 לַמִּשְׁפָּ֔ט|lam·miš·pāṭ|justly|H4941|Prep-l, Art | N-ms
 v28 וְנַקֵּ֖ה|wə·naq·qêh|leave you unpunished|H5352|Conj-w | V-Piel-InfAbs
 v28 לֹ֥א|lō|and will by no means|H3808|Adv-NegPrt
-v28 אֲנַקֶּֽךָּ׃ס|’ă·naq·qe·kā|...|H5352|V-Piel-Imperf-1cs | 2ms
+v28 אֲנַקֶּֽךָּ׃|’ă·naq·qe·kā|...|H5352|V-Piel-Imperf-1cs | 2ms

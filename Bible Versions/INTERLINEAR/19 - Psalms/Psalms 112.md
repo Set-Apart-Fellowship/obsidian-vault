@@ -56,7 +56,7 @@ v8 לִ֭בּוֹ|lib·bōw|His heart|H3820|N-msc | 3ms
 v8 לֹ֣א|lō|he does not|H3808|Adv-NegPrt
 v8 יִירָ֑א|yî·rā|fear|H3372|V-Qal-Imperf-3ms
 v8 עַ֖ד|‘aḏ|until|H5704|Prep
-v8 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v8 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v8 יִרְאֶ֣ה|yir·’eh|he looks in triumph|H7200|V-Qal-Imperf-3ms
 v8 בְצָרָֽיו׃|ḇə·ṣā·rāw|on his foes|H6862|Prep-b | N-mpc | 3ms
 v9 פִּזַּ֤ר׀|piz·zar|He has scattered abroad|H6340|V-Piel-Perf-3ms

@@ -26,7 +26,7 @@ v2 τι|ti|a|G5100|IPro-ANS
 v2 παρὰ|para|at|G3844|Prep
 v2 τοὺς|tous|the|G3588|Art-AMP
 v2 πόδας|podas|feet|G4228|N-AMP
-v2 τῶν|tōn|vvv|G3588|Art-GMP
+v2 τῶν|tōn|...|G3588|Art-GMP
 v2 ἀποστόλων|apostolōn|apostles'|G652|N-GMP
 v2 ἔθηκεν|ethēken|[and] laid [it]|G5087|V-AIA-3S
 v3 Εἶπεν|Eipen|said|G2036|V-AIA-3S
@@ -43,7 +43,7 @@ v3 τὴν|tēn|-|G3588|Art-AFS
 v3 καρδίαν|kardian|heart|G2588|N-AFS
 v3 σου|sou|your|G4771|PPro-G2S
 v3 ψεύσασθαί|pseusasthai|to lie|G5574|V-ANM
-v3 σε|se|vvv|G4771|PPro-A2S
+v3 σε|se|...|G4771|PPro-A2S
 v3 τὸ|to|to the|G3588|Art-ANS
 v3 Πνεῦμα|Pneuma|Spirit|G4151|N-ANS
 v3 τὸ|to|-|G3588|Art-ANS
@@ -55,7 +55,7 @@ v3 τῆς|tēs|the|G3588|Art-GFS
 v3 τιμῆς|timēs|proceeds|G5092|N-GFS
 v3 τοῦ|tou|from the|G3588|Art-GNS
 v3 χωρίου|chōriou|land|G5564|N-GNS
-v4 οὐχὶ|ouchi|vvv|G3780|IntPrtcl
+v4 οὐχὶ|ouchi|...|G3780|IntPrtcl
 v4 μένον|menon|before it was sold|G3306|V-PPA-NNS
 v4 σοὶ|soi|to you|G4771|PPro-D2S
 v4 ἔμενεν|emenen|Did it not belong|G3306|V-IIA-3S
@@ -76,7 +76,7 @@ v4 σου|sou|your|G4771|PPro-G2S
 v4 τὸ|to|-|G3588|Art-ANS
 v4 πρᾶγμα|pragma|a deed|G4229|N-ANS
 v4 τοῦτο|touto|such|G3778|DPro-ANS
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 ἐψεύσω|epseusō|You have not lied|G5574|V-AIM-2S
 v4 ἀνθρώποις|anthrōpois|to men|G444|N-DMP
 v4 ἀλλὰ|alla|but|G235|Conj
@@ -118,7 +118,7 @@ v7 καὶ|kai|also|G2532|Conj
 v7 ἡ|hē|-|G3588|Art-NFS
 v7 γυνὴ|gynē|wife|G1135|N-NFS
 v7 αὐτοῦ|autou|his|G846|PPro-GM3S
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 εἰδυῖα|eiduia|unaware of|G1492|V-RPA-NFS
 v7 τὸ|to|what|G3588|Art-ANS
 v7 γεγονὸς|gegonos|had happened|G1096|V-RPA-ANS
@@ -204,10 +204,10 @@ v11 πάντας|pantas|all|G3956|Adj-AMP
 v11 τοὺς|tous|who|G3588|Art-AMP
 v11 ἀκούοντας|akouontas|heard about|G191|V-PPA-AMP
 v11 ταῦτα|tauta|these [events]|G3778|DPro-ANP
-v12 Διὰ|Dia|vvv|G1223|Prep
+v12 Διὰ|Dia|...|G1223|Prep
 v12 δὲ|de|-|G1161|Conj
-v12 τῶν|tōn|vvv|G3588|Art-GFP
-v12 χειρῶν|cheirōn|vvv|G5495|N-GFP
+v12 τῶν|tōn|...|G3588|Art-GFP
+v12 χειρῶν|cheirōn|...|G5495|N-GFP
 v12 τῶν|tōn|The|G3588|Art-GMP
 v12 ἀποστόλων|apostolōn|apostles|G652|N-GMP
 v12 ἐγίνετο|egineto|performed|G1096|V-IIM/P-3S
@@ -332,7 +332,7 @@ v19 τῆς|tēs|of the|G3588|Art-GFS
 v19 φυλακῆς|phylakēs|jail|G5438|N-GFS
 v19 ἐξαγαγών|exagagōn|[and] brought them out|G1806|V-APA-NMS
 v19 τε|te|-|G5037|Conj
-v19 αὐτοὺς|autous|vvv|G846|PPro-AM3P
+v19 αὐτοὺς|autous|...|G846|PPro-AM3P
 v19 εἶπεν|eipen|saying|G2036|V-AIA-3S
 v20 Πορεύεσθε|Poreuesthe|Go|G4198|V-PMM/P-2P
 v20 καὶ|kai|-|G2532|Conj
@@ -376,7 +376,7 @@ v21 πᾶσαν|pasan|full|G3956|Adj-AFS
 v21 τὴν|tēn|the|G3588|Art-AFS
 v21 γερουσίαν|gerousian|assembly|G1087|N-AFS
 v21 τῶν|tōn|of the|G3588|Art-GMP
-v21 υἱῶν|huiōn|vvv|G5207|N-GMP
+v21 υἱῶν|huiōn|...|G5207|N-GMP
 v21 Ἰσραήλ|Israēl|elders of Israel|G2474|N-GMS
 v21 καὶ|kai|and|G2532|Conj
 v21 ἀπέστειλαν|apesteilan|sent|G649|V-AIA-3P
@@ -389,7 +389,7 @@ v22 οἱ|hoi|the|G3588|Art-NMP
 v22 δὲ|de|But|G1161|Conj
 v22 παραγενόμενοι|paragenomenoi|on arriving|G3854|V-APM-NMP
 v22 ὑπηρέται|hypēretai|officers|G5257|N-NMP
-v22 οὐχ|ouch|vvv|G3756|Adv
+v22 οὐχ|ouch|...|G3756|Adv
 v22 εὗρον|heuron|did not find|G2147|V-AIA-3P
 v22 αὐτοὺς|autous|them [there]|G846|PPro-AM3P
 v22 ἐν|en|at|G1722|Prep
@@ -404,8 +404,8 @@ v23 Τὸ|To|the|G3588|Art-ANS
 v23 δεσμωτήριον|desmōtērion|jail|G1201|N-ANS
 v23 εὕρομεν|heuromen|We found|G2147|V-AIA-1P
 v23 κεκλεισμένον|kekleismenon|locked|G2808|V-RPM/P-ANS
-v23 ἐν|en|vvv|G1722|Prep
-v23 πάσῃ|pasē|vvv|G3956|Adj-DFS
+v23 ἐν|en|...|G1722|Prep
+v23 πάσῃ|pasē|...|G3956|Adj-DFS
 v23 ἀσφαλείᾳ|asphaleia|securely|G803|N-DFS
 v23 καὶ|kai|[with]|G2532|Conj
 v23 τοὺς|tous|the|G3588|Art-AMP
@@ -494,7 +494,7 @@ v27 αὐτοὺς|autous|them|G846|PPro-AM3P
 v27 ὁ|ho|the|G3588|Art-NMS
 v27 ἀρχιερεὺς|archiereus|high priest|G749|N-NMS
 v28 λέγων|legōn|he said|G3004|V-PPA-NMS
-v28 [Οὐ]|Ou|vvv|G3756|Prtcl
+v28 [Οὐ]|Ou|...|G3756|Prtcl
 v28 Παραγγελίᾳ|Parangelia|We gave you strict orders|G3852|N-DFS
 v28 παρηγγείλαμεν|parēngeilamen|...|G3853|V-AIA-1P
 v28 ὑμῖν|hymin|...|G4771|PPro-D2P
@@ -530,7 +530,7 @@ v29 οἱ|hoi|the|G3588|Art-NMP
 v29 ἀπόστολοι|apostoloi|other apostles|G652|N-NMP
 v29 εἶπαν|eipan|...|G2036|V-AIA-3P
 v29 Πειθαρχεῖν|Peitharchein|We must obey|G3980|V-PNA
-v29 δεῖ|dei|vvv|G1163|V-PIA-3S
+v29 δεῖ|dei|...|G1163|V-PIA-3S
 v29 Θεῷ|Theō|God|G2316|N-DMS
 v29 μᾶλλον|mallon|rather|G3123|Adv
 v29 ἢ|ē|than|G2228|Conj
@@ -712,13 +712,13 @@ v39 δὲ|de|But|G1161|Conj
 v39 ἐκ|ek|from|G1537|Prep
 v39 Θεοῦ|Theou|God|G2316|N-GMS
 v39 ἐστιν|estin|it is|G1510|V-PIA-3S
-v39 οὐ|ou|vvv|G3756|Adv
+v39 οὐ|ou|...|G3756|Adv
 v39 δυνήσεσθε|dynēsesthe|you will not be able|G1410|V-FIM-2P
 v39 καταλῦσαι|katalysai|to stop|G2647|V-ANA
 v39 αὐτούς|autous|them|G846|PPro-AM3P
-v39 μή‿|mē|vvv|G3361|Adv
-v39 ποτε|pote|vvv|G4219|Conj
-v39 καὶ|kai|vvv|G2532|Conj
+v39 μή‿|mē|...|G3361|Adv
+v39 ποτε|pote|...|G4219|Conj
+v39 καὶ|kai|...|G2532|Conj
 v39 θεομάχοι|theomachoi|fighting against God|G2314|Adj-NMP
 v39 εὑρεθῆτε|heurethēte|You may even find yourselves|G2147|V-ASP-2P
 v40 Ἐπείσθησαν|Epeisthēsan|they yielded|G3982|V-AIP-3P
@@ -763,7 +763,7 @@ v42 ἱερῷ|hierō|temple [courts]|G2411|N-DNS
 v42 καὶ|kai|and|G2532|Conj
 v42 κατ’|kat’|from|G2596|Prep
 v42 οἶκον|oikon|house [to house]|G3624|N-AMS
-v42 οὐκ|ouk|vvv|G3756|Adv
+v42 οὐκ|ouk|...|G3756|Adv
 v42 ἐπαύοντο|epauonto|they did not stop|G3973|V-IIM-3P
 v42 διδάσκοντες|didaskontes|teaching|G1321|V-PPA-NMP
 v42 καὶ|kai|and|G2532|Conj

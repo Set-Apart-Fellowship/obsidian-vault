@@ -109,7 +109,7 @@ v7 כֹּ֛ל|kōl|all|H3605|N-ms
 v7 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v7 הָיְתָ֖ה|hā·yə·ṯāh|his territory|H1961|V-Qal-Perf-3fs
 v7 לְמֶ֥לֶךְ|lə·me·leḵ|...|H4428|Prep-l | N-msc
-v7 מִצְרָֽיִם׃פ|miṣ·rā·yim|...|H4714|N-proper-fs
+v7 מִצְרָֽיִם׃|miṣ·rā·yim|...|H4714|N-proper-fs
 v8 בֶּן־|ben-|years old|H1121|N-msc
 v8 שְׁמֹנֶ֨ה|šə·mō·neh|was eighteen|H8083|Number-fs
 v8 עֶשְׂרֵ֤ה|‘eś·rêh|...|H6240|Number-fs
@@ -206,7 +206,7 @@ v14 וְֽאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v14 כָּל־|kāl-|all|H3605|N-msc
 v14 הַשָּׂרִ֞ים|haś·śā·rîm|the commanders|H8269|Art | N-mp
 v14 וְאֵ֣ת׀|wə·’êṯ|and|H853|Conj-w | DirObjM
-v14 כָּל־|kāl-||H3605|N-msc
+v14 כָּל־|kāl-|-|H3605|N-msc
 v14 גִּבּוֹרֵ֣י|gib·bō·w·rê|mighty men|H1368|Adj-mpc
 v14 הַחַ֗יִל|ha·ḥa·yil|of valor|H2428|Art | N-ms
 v14 עֲשָׂרָה|ʿă·śå̄·rå̄h|ten|H6235|Number-msc
@@ -268,7 +268,7 @@ v17 תַּחְתָּ֑יו|taḥ·tāw|in his place|H8478|Prep | 3ms
 v17 וַיַּסֵּ֥ב|way·yas·sêḇ|and changed|H5437|Conj-w | V-Hifil-ConsecImperf-3ms
 v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 שְׁמ֖וֹ|šə·mōw|his name|H8034|N-msc | 3ms
-v17 צִדְקִיָּֽהוּ׃פ|ṣiḏ·qî·yā·hū|to Zedekiah|H6667|N-proper-ms
+v17 צִדְקִיָּֽהוּ׃|ṣiḏ·qî·yā·hū|to Zedekiah|H6667|N-proper-ms
 v18 בֶּן־|ben-|years old|H1121|N-msc
 v18 עֶשְׂרִ֨ים|‘eś·rîm|was twenty-one|H6242|Number-cp
 v18 וְאַחַ֤ת|wə·’a·ḥaṯ|...|H259|Conj-w | Number-fsc
@@ -309,4 +309,4 @@ v20 פָּנָ֑יו|pā·nāw|His presence|H6440|N-cpc | 3ms
 v20 וַיִּמְרֹ֥ד|way·yim·rōḏ|rebelled|H4775|Conj-w | V-Qal-ConsecImperf-3ms
 v20 צִדְקִיָּ֖הוּ|ṣiḏ·qî·yā·hū|And Zedekiah also|H6667|N-proper-ms
 v20 בְּמֶ֥לֶךְ|bə·me·leḵ|against the king|H4428|Prep-b | N-msc
-v20 בָּבֶֽל׃ס|bā·ḇel|of Babylon|H894|N-proper-fs
+v20 בָּבֶֽל׃|bā·ḇel|of Babylon|H894|N-proper-fs

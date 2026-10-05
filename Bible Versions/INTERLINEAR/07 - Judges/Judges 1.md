@@ -14,7 +14,7 @@ v1 אֶל־|’el-|against|H413|Prep
 v1 הַֽכְּנַעֲנִ֛י|hak·kə·na·‘ă·nî|the Canaanites|H3669|Art | N-proper-ms
 v1 בַּתְּחִלָּ֖ה|bat·tə·ḥil·lāh|will be the first|H8462|Prep-b, Art | N-fs
 v1 לְהִלָּ֥חֶם|lə·hil·lā·ḥem|and fight|H3898|Prep-l | V-Nifal-Inf
-v1 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v1 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v2 וַיֹּ֣אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v2 יְהוּדָ֣ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
@@ -56,7 +56,7 @@ v4 אֲלָפִ֖ים|’ă·lā·p̄îm|thousand|H505|Number-mp
 v4 אִֽישׁ׃|’îš|men|H376|N-ms
 v5 וַֽ֠יִּמְצְאוּ|way·yim·ṣə·’ū|they found|H4672|Conj-w | V-Qal-ConsecImperf-3mp
 v5 אֶת־|’eṯ-|-|H853|DirObjM
-v5 אֲדֹנִ֥י|’ă·ḏō·nî|vvv|H137|
+v5 אֲדֹנִ֥י|’ă·ḏō·nî|...|H137|
 v5 בֶ֙זֶק֙|ḇe·zeq|Adoni-bezek|H137|N-proper-ms
 v5 בְּבֶ֔זֶק|bə·ḇe·zeq|And [there]|H966|Prep-b | N-proper-fs
 v5 וַיִּֽלָּחֲמ֖וּ|way·yil·lā·ḥă·mū|and fought|H3898|Conj-w | V-Nifal-ConsecImperf-3mp
@@ -79,7 +79,7 @@ v6 בְּהֹנ֥וֹת|bə·hō·nō·wṯ|his thumbs|H931|N-fdc | 3ms
 v6 יָדָ֖יו|yā·ḏāw|...|H3027|N-fdc
 v6 וְרַגְלָֽיו׃|wə·raḡ·lāw|and big toes|H7272|Conj-w | N-fdc | 3ms
 v7 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v7 אֲדֹֽנִי־|’ă·ḏō·nî-||H137|
+v7 אֲדֹֽנִי־|’ă·ḏō·nî-|-|H137|
 v7 בֶ֗זֶק|ḇe·zeq|Then Adoni-bezek|H137|N-proper-ms
 v7 שִׁבְעִ֣ים׀|šiḇ·‘îm|Seventy|H7657|Number-cp
 v7 מְלָכִ֡ים|mə·lā·ḵîm|kings|H4428|N-mp
@@ -100,7 +100,7 @@ v7 אֱלֹהִ֑ים|’ĕ·lō·hîm|God|H430|N-mp
 v7 וַיְבִיאֻ֥הוּ|way·ḇî·’u·hū|And they brought him|H935|Conj-w | V-Hifil-ConsecImperf-3mp | 3ms
 v7 יְרוּשָׁלִַ֖ם|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
 v7 וַיָּ֥מָת|way·yā·māṯ|where he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
-v7 שָֽׁם׃פ|šām|...|H8033|Adv
+v7 שָֽׁם׃|šām|...|H8033|Adv
 v8 וַיִּלָּחֲמ֤וּ|way·yil·lā·ḥă·mū|fought|H3898|Conj-w | V-Nifal-ConsecImperf-3mp
 v8 בְנֵֽי־|ḇə·nê-|Then the men|H1121|N-mpc
 v8 יְהוּדָה֙|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
@@ -108,7 +108,7 @@ v8 בִּיר֣וּשָׁלִַ֔ם|bî·rū·šā·lim|against Jerusalem|H3389|
 v8 וַיִּלְכְּד֣וּ|way·yil·kə·ḏū|and captured it|H3920|Conj-w | V-Qal-ConsecImperf-3mp
 v8 אוֹתָ֔הּ|’ō·w·ṯāh|-|H853|DirObjM | 3fs
 v8 וַיַּכּ֖וּהָ|way·yak·kū·hā|They put [the city]|H5221|Conj-w | V-Hifil-ConsecImperf-3mp | 3fs
-v8 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v8 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v8 חָ֑רֶב|ḥā·reḇ|to the sword|H2719|N-fs
 v8 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v8 הָעִ֖יר|hā·‘îr|it|H5892|Art | N-fs
@@ -133,7 +133,7 @@ v10 בְּחֶבְר֔וֹן|bə·ḥeḇ·rō·wn|in Hebron|H2275|Prep-b | N-pr
 v10 וְשֵׁם־|wə·šêm-|known as|H8034|Conj-w | N-msc
 v10 חֶבְר֥וֹן|ḥeḇ·rō·wn|-|H2275|N-proper-fs
 v10 לְפָנִ֖ים|lə·p̄ā·nîm|formerly|H6440|Prep-l | N-mp
-v10 קִרְיַ֣ת|qir·yaṯ|vvv|H7153|
+v10 קִרְיַ֣ת|qir·yaṯ|...|H7153|
 v10 אַרְבַּ֑ע|’ar·ba‘|Kiriath-arba|H7153|N-proper-fs
 v10 וַיַּכּ֛וּ|way·yak·kū|and they struck down|H5221|Conj-w | V-Hifil-ConsecImperf-3mp
 v10 אֶת־|’eṯ-|-|H853|DirObjM
@@ -150,18 +150,18 @@ v11 דְּבִ֑יר|də·ḇîr|of Debir|H1688|N-proper-fs
 v11 וְשֵׁם־|wə·šêm-|known as|H8034|Conj-w | N-msc
 v11 דְּבִ֥יר|də·ḇîr|-|H1688|N-proper-fs
 v11 לְפָנִ֖ים|lə·p̄ā·nîm|formerly|H6440|Prep-l | N-mp
-v11 קִרְיַת־|qir·yaṯ-|vvv|H7158|
+v11 קִרְיַת־|qir·yaṯ-|...|H7158|
 v11 סֵֽפֶר׃|sê·p̄er|Kiriath-sepher|H7158|N-proper-fs
 v12 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 כָּלֵ֔ב|kā·lêḇ|And Caleb|H3612|N-proper-ms
 v12 אֲשֶׁר־|’ă·šer-|To the man|H834|Pro-r
 v12 יַכֶּ֥ה|yak·keh|who strikes down|H5221|V-Hifil-Imperf-3ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
-v12 קִרְיַת־|qir·yaṯ-|vvv|H7158|
+v12 קִרְיַת־|qir·yaṯ-|...|H7158|
 v12 סֵ֖פֶר|sê·p̄er|Kiriath-sepher|H7158|N-proper-fs
 v12 וּלְכָדָ֑הּ|ū·lə·ḵā·ḏāh|and captures it|H3920|Conj-w | V-Qal-ConjPerf-3ms | 3fs
 v12 וְנָתַ֥תִּי|wə·nā·ṯat·tî|I will give|H5414|Conj-w | V-Qal-ConjPerf-1cs
-v12 ל֛וֹ|lōw||H0|Prep | 3ms
+v12 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 עַכְסָ֥ה|‘aḵ·sāh|Acsah|H5915|N-proper-fs
 v12 בִתִּ֖י|ḇit·tî|my daughter|H1323|N-fsc | 1cs
@@ -196,7 +196,7 @@ v14 כָּלֵ֖ב|kā·lêḇ|Caleb|H3612|N-proper-ms
 v14 מַה־|mah-|What|H4100|Interrog
 v14 לָּֽךְ׃|lāḵ|do you desire|H0|Prep | 2fs
 v15 וַתֹּ֨אמֶר|wat·tō·mer|she answered|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v15 ל֜וֹ|lōw||H0|Prep | 3ms
+v15 ל֜וֹ|lōw|-|H0|Prep | 3ms
 v15 הָֽבָה־|hā·ḇāh-|Give|H3051|V-Qal-Imp-ms | 3fs
 v15 לִּ֣י|lî|me|H0|Prep | 1cs
 v15 בְרָכָ֗ה|ḇə·rā·ḵāh|a blessing|H1293|N-fs
@@ -216,7 +216,7 @@ v15 גֻּלֹּ֣ת|gul·lōṯ|springs|H1543|N-fpc
 v15 עִלִּ֔ית|‘il·lîṯ|both the upper|H5942|Adj-fsc
 v15 וְאֵ֖ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v15 גֻּלֹּ֥ת|gul·lōṯ|-|H1543|N-fpc
-v15 תַּחְתִּֽית׃פ|taḥ·tîṯ|and lower|H8482|Adj-fs
+v15 תַּחְתִּֽית׃|taḥ·tîṯ|and lower|H8482|Adj-fs
 v16 וּבְנֵ֣י|ū·ḇə·nê|Now the descendants|H1121|Conj-w | N-mpc
 v16 קֵינִי֩|qê·nî|the Kenite|H7017|N-proper-ms
 v16 חֹתֵ֨ן|ḥō·ṯên|father-in-law|H2859|N-msc
@@ -313,23 +313,23 @@ v21 בִנְיָמִן֙|ḇin·yā·min|...|H1144|N-proper-ms
 v21 בִּיר֣וּשָׁלִַ֔ם|bî·rū·šā·lim|[there]|H3389|Prep-b | N-proper-fs
 v21 עַ֖ד|‘aḏ|So to|H5704|Prep
 v21 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v21 הַזֶּֽה׃ס|haz·zeh|this|H2088|Art | Pro-ms
+v21 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v22 וַיַּעֲל֧וּ|way·ya·‘ă·lū|attacked|H5927|Conj-w | V-Qal-ConsecImperf-3mp
 v22 בֵית־|ḇêṯ-|The house|H1004|N-msc
 v22 יוֹסֵ֛ף|yō·w·sêp̄|of Joseph|H3130|N-proper-ms
 v22 גַּם־|gam-|also|H1571|Conj
 v22 הֵ֖ם|hêm|...|H1992|Pro-3mp
-v22 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v22 בֵּֽית־|bêṯ-|...|H1008|Prep
 v22 אֵ֑ל|’êl|Bethel|H1008|N-proper-fs
 v22 וַֽיהוָ֖ה|Yah·weh|and the LORD|H3068|Conj-w | N-proper-ms
 v22 עִמָּֽם׃|‘im·mām|was with them|H5973|Prep | 3mp
 v23 וַיָּתִ֥ירוּ|way·yā·ṯî·rū|sent spies|H8446|Conj-w | V-Hifil-ConsecImperf-3mp
 v23 בֵית־|ḇêṯ-|[They]|H1004|N-msc
 v23 יוֹסֵ֖ף|yō·w·sêp̄|...|H3130|N-proper-ms
-v23 בְּבֵֽית־|bə·ḇêṯ-||H1008|Prep
+v23 בְּבֵֽית־|bə·ḇêṯ-|-|H1008|Prep
 v23 אֵ֑ל|’êl|to Bethel|H1008|Prep | N-proper-fs
 v23 וְשֵׁם־|wə·šêm-|known as|H8034|Conj-w | N-msc
-v23 הָעִ֥יר|hā·‘îr||H5892|Art | N-fs
+v23 הָעִ֥יר|hā·‘îr|-|H5892|Art | N-fs
 v23 לְפָנִ֖ים|lə·p̄ā·nîm|formerly|H6440|Prep-l | N-mp
 v23 לֽוּז׃|lūz|Luz)|H3870|N-proper-fs
 v24 וַיִּרְאוּ֙|way·yir·’ū|saw|H7200|Conj-w | V-Qal-ConsecImperf-3mp
@@ -355,7 +355,7 @@ v25 הָעִ֔יר|hā·‘îr|to the city|H5892|Art | N-fs
 v25 וַיַּכּ֥וּ|way·yak·kū|and they put|H5221|Conj-w | V-Hifil-ConsecImperf-3mp
 v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 הָעִ֖יר|hā·‘îr|the city|H5892|Art | N-fs
-v25 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v25 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v25 חָ֑רֶב|ḥā·reḇ|to the sword|H2719|N-fs
 v25 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v25 הָאִ֥ישׁ|hā·’îš|that man|H376|Art | N-ms
@@ -376,12 +376,12 @@ v26 ה֣וּא|hū|which|H1931|Pro-3ms
 v26 שְׁמָ֔הּ|šə·māh|is its name|H8034|N-msc | 3fs
 v26 עַ֖ד|‘aḏ|to|H5704|Prep
 v26 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v26 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v26 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v27 וְלֹא־|wə·lō-|failed|H3808|Conj-w | Adv-NegPrt
 v27 הוֹרִ֣ישׁ|hō·w·rîš|to drive out the inhabitants|H3423|V-Hifil-Perf-3ms
 v27 מְנַשֶּׁ֗ה|mə·naš·šeh|At that time Manasseh|H4519|N-proper-ms
 v27 אֶת־|’eṯ-|-|H853|DirObjM
-v27 בֵּית־|bêṯ-|vvv|H1052|Prep
+v27 בֵּית־|bêṯ-|...|H1052|Prep
 v27 שְׁאָ֣ן|šə·’ān|of Beth-shean|H1052|N-proper-fs
 v27 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v27 בְּנוֹתֶיהָ֮|bə·nō·w·ṯe·hā|-|H1323|N-fpc | 3fs
@@ -419,7 +419,7 @@ v28 הַֽכְּנַעֲנִ֖י|hak·kə·na·‘ă·nî|the Canaanites|H3669|
 v28 לָמַ֑ס|lā·mas|into forced labor|H4522|Prep-l | N-ms
 v28 וְהוֹרֵ֖ישׁ|wə·hō·w·rêš|drove them out|H3423|Conj-w | V-Hifil-InfAbs
 v28 לֹ֥א|lō|but they never|H3808|Adv-NegPrt
-v28 הוֹרִישֽׁוֹ׃ס|hō·w·rî·šōw|completely|H3423|V-Hifil-Perf-3ms | 3ms
+v28 הוֹרִישֽׁוֹ׃|hō·w·rî·šōw|completely|H3423|V-Hifil-Perf-3ms | 3ms
 v29 וְאֶפְרַ֙יִם֙|wə·’ep̄·ra·yim|Ephraim|H669|Conj-w | N-proper-ms
 v29 לֹ֣א|lō|also failed|H3808|Adv-NegPrt
 v29 הוֹרִ֔ישׁ|hō·w·rîš|to drive out|H3423|V-Hifil-Perf-3ms
@@ -430,7 +430,7 @@ v29 בְּגָ֑זֶר|bə·ḡā·zer|in Gezer|H1507|Prep-b | N-proper-fs
 v29 וַיֵּ֧שֶׁב|way·yê·šeḇ|continued to dwell|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v29 הַֽכְּנַעֲנִ֛י|hak·kə·na·‘ă·nî|so the Canaanites|H3669|Art | N-proper-ms
 v29 בְּקִרְבּ֖וֹ|bə·qir·bōw|among them|H7130|Prep-b | N-msc | 3ms
-v29 בְּגָֽזֶר׃פ|bə·ḡā·zer|in Gezer|H1507|Prep-b | N-proper-fs
+v29 בְּגָֽזֶר׃|bə·ḡā·zer|in Gezer|H1507|Prep-b | N-proper-fs
 v30 זְבוּלֻ֗ן|zə·ḇū·lun|Zebulun|H2074|N-proper-ms
 v30 לֹ֤א|lō|failed|H3808|Adv-NegPrt
 v30 הוֹרִישׁ֙|hō·w·rîš|to drive out|H3423|V-Hifil-Perf-3ms
@@ -444,7 +444,7 @@ v30 וַיֵּ֤שֶׁב|way·yê·šeḇ|lived|H3427|Conj-w | V-Qal-ConsecImper
 v30 הַֽכְּנַעֲנִי֙|hak·kə·na·‘ă·nî|so the Canaanites|H3669|Art | N-proper-ms
 v30 בְּקִרְבּ֔וֹ|bə·qir·bōw|among them|H7130|Prep-b | N-msc | 3ms
 v30 וַיִּֽהְי֖וּ|way·yih·yū|and served|H1961|Conj-w | V-Qal-ConsecImperf-3mp
-v30 לָמַֽס׃ס|lā·mas|as forced laborers|H4522|Prep-l | N-ms
+v30 לָמַֽס׃|lā·mas|as forced laborers|H4522|Prep-l | N-ms
 v31 אָשֵׁ֗ר|’ā·šêr|Asher|H836|N-proper-ms
 v31 לֹ֤א|lō|failed|H3808|Adv-NegPrt
 v31 הוֹרִישׁ֙|hō·w·rîš|to drive out|H3423|V-Hifil-Perf-3ms
@@ -472,17 +472,17 @@ v32 יֹשְׁבֵ֣י|yō·šə·ḇê|inhabitants|H3427|V-Qal-Prtcpl-mpc
 v32 הָאָ֑רֶץ|hā·’ā·reṣ|of the land|H776|Art | N-fs
 v32 כִּ֖י|kî|because|H3588|Conj
 v32 לֹ֥א|lō|they did not|H3808|Adv-NegPrt
-v32 הוֹרִישֽׁוֹ׃ס|hō·w·rî·šōw|drive them out|H3423|V-Hifil-Perf-3ms | 3ms
+v32 הוֹרִישֽׁוֹ׃|hō·w·rî·šōw|drive them out|H3423|V-Hifil-Perf-3ms | 3ms
 v33 נַפְתָּלִ֗י|nap̄·tā·lî|Naphtali|H5321|N-proper-ms
 v33 לֹֽא־|lō-|failed|H3808|Adv-NegPrt
 v33 הוֹרִ֞ישׁ|hō·w·rîš|to drive out|H3423|V-Hifil-Perf-3ms
 v33 אֶת־|’eṯ-|-|H853|DirObjM
 v33 יֹשְׁבֵ֤י|yō·šə·ḇê|the inhabitants|H3427|V-Qal-Prtcpl-mpc
-v33 בֵֽית־|ḇêṯ-|vvv|H1053|Prep
+v33 בֵֽית־|ḇêṯ-|...|H1053|Prep
 v33 שֶׁ֙מֶשׁ֙|še·meš|of Beth-shemesh|H1053|N-proper-fs
 v33 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v33 יֹשְׁבֵ֣י|yō·šə·ḇê|-|H3427|V-Qal-Prtcpl-mpc
-v33 בֵית־|ḇêṯ-|vvv|H1043|Prep
+v33 בֵית־|ḇêṯ-|...|H1043|Prep
 v33 עֲנָ֔ת|‘ă·nāṯ|Beth-anath|H1043|N-proper-fs
 v33 וַיֵּ֕שֶׁב|way·yê·šeḇ|So [the Naphtalites] also lived|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v33 בְּקֶ֥רֶב|bə·qe·reḇ|among|H7130|Prep-b | N-msc
@@ -490,13 +490,13 @@ v33 הַֽכְּנַעֲנִ֖י|hak·kə·na·‘ă·nî|the Canaanite|H3669|A
 v33 יֹשְׁבֵ֣י|yō·šə·ḇê|inhabitants|H3427|V-Qal-Prtcpl-mpc
 v33 הָאָ֑רֶץ|hā·’ā·reṣ|of the land|H776|Art | N-fs
 v33 וְיֹשְׁבֵ֤י|wə·yō·šə·ḇê|but the inhabitants|H3427|Conj-w | V-Qal-Prtcpl-mpc
-v33 בֵֽית־|ḇêṯ-|vvv|H1053|Prep
+v33 בֵֽית־|ḇêṯ-|...|H1053|Prep
 v33 שֶׁ֙מֶשׁ֙|še·meš|of Beth-shemesh|H1053|N-proper-fs
-v33 וּבֵ֣ית|ū·ḇêṯ|vvv|H1043|
+v33 וּבֵ֣ית|ū·ḇêṯ|...|H1043|
 v33 עֲנָ֔ת|‘ă·nāṯ|and Beth-anath|H1043|Conj-w | N-proper-fs
 v33 הָי֥וּ|hā·yū|served|H1961|V-Qal-Perf-3cp
 v33 לָהֶ֖ם|lā·hem|them|H0|Prep | 3mp
-v33 לָמַֽס׃ס|lā·mas|as forced laborers|H4522|Prep-l | N-ms
+v33 לָמַֽס׃|lā·mas|as forced laborers|H4522|Prep-l | N-ms
 v34 וַיִּלְחֲצ֧וּ|way·yil·ḥă·ṣū|forced|H3905|Conj-w | V-Qal-ConsecImperf-3mp
 v34 הָאֱמֹרִ֛י|hā·’ĕ·mō·rî|The Amorites|H567|Art | N-proper-ms
 v34 אֶת־|’eṯ-|-|H853|DirObjM
@@ -526,4 +526,4 @@ v36 הָאֱמֹרִ֔י|hā·’ĕ·mō·rî|of the Amorites|H567|Art | N-prope
 v36 מִֽמַּעֲלֵ֖ה|mim·ma·‘ă·lêh|[extended] from the Ascent|H4610|Prep-m | N-msc
 v36 עַקְרַבִּ֑ים|‘aq·rab·bîm|of Akrabbim|H4610|N-mp
 v36 מֵהַסֶּ֖לַע|mê·has·se·la‘|to Sela|H5554|Prep-m, Art | N-proper-fs
-v36 וָמָֽעְלָה׃פ|wā·mā·‘ə·lāh|and beyond|H4605|Conj-w | Adv | 3fs
+v36 וָמָֽעְלָה׃|wā·mā·‘ə·lāh|and beyond|H4605|Conj-w | Adv | 3fs

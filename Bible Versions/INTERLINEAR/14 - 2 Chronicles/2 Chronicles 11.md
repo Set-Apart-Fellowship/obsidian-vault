@@ -6,7 +6,7 @@ v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 בֵּ֨ית|bêṯ|the house|H1004|N-msc
 v1 יְהוּדָ֜ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v1 וּבִנְיָמִ֗ן|ū·ḇin·yā·min|and Benjamin|H1144|Conj-w | N-proper-ms
-v1 מֵאָ֨ה|mê·’āh|180,000 {}|H3967|Number-fs
+v1 מֵאָ֨ה|mê·’āh|180,000|H3967|Number-fs
 v1 וּשְׁמוֹנִ֥ים|ū·šə·mō·w·nîm|...|H8084|Conj-w | Number-cp
 v1 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v1 בָּח֖וּר|bā·ḥūr|chosen|H977|V-Qal-QalPassPrtcpl-ms
@@ -18,7 +18,7 @@ v1 יִשְׂרָאֵ֔ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v1 לְהָשִׁ֥יב|lə·hā·šîḇ|and restore|H7725|Prep-l | V-Hifil-Inf
 v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 הַמַּמְלָכָ֖ה|ham·mam·lā·ḵāh|the kingdom|H4467|Art | N-fs
-v1 לִרְחַבְעָֽם׃פ|lir·ḥaḇ·‘ām|to Rehoboam|H7346|Prep-l | N-proper-ms
+v1 לִרְחַבְעָֽם׃|lir·ḥaḇ·‘ām|to Rehoboam|H7346|Prep-l | N-proper-ms
 v2 וַיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v2 דְּבַר־|də·ḇar-|But the word|H1697|N-msc
 v2 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -64,7 +64,7 @@ v4 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v4 וַיָּשֻׁ֖בוּ|way·yā·šu·ḇū|and turned back|H7725|Conj-w | V-Qal-ConsecImperf-3mp
 v4 מִלֶּ֥כֶת|mil·le·ḵeṯ|from going|H1980|Prep-m | V-Qal-Inf
 v4 אֶל־|’el-|against|H413|Prep
-v4 יָרָבְעָֽם׃פ|yā·rā·ḇə·‘ām|Jeroboam|H3379|N-proper-ms
+v4 יָרָבְעָֽם׃|yā·rā·ḇə·‘ām|Jeroboam|H3379|N-proper-ms
 v5 וַיֵּ֥שֶׁב|way·yê·šeḇ|lived|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v5 רְחַבְעָ֖ם|rə·ḥaḇ·‘ām|Rehoboam|H7346|N-proper-ms
 v5 בִּירוּשָׁלִָ֑ם|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
@@ -74,14 +74,14 @@ v5 לְמָצ֖וֹר|lə·mā·ṣō·wr|for defense|H4692|Prep-l | N-ms
 v5 בִּיהוּדָֽה׃|bî·hū·ḏāh|in Judah|H3063|Prep-b | N-proper-ms
 v6 וַיִּ֧בֶן|way·yi·ḇen|He built up|H1129|Conj-w | V-Qal-ConsecImperf-3ms
 v6 אֶת־|’eṯ-|-|H853|DirObjM
-v6 בֵּֽית־|bêṯ-|vvv|H1035|Prep
+v6 בֵּֽית־|bêṯ-|...|H1035|Prep
 v6 לֶ֛חֶם|le·ḥem|Bethlehem|H1035|N-proper-fs
 v6 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v6 עֵיטָ֖ם|‘ê·ṭām|Etam|H5862|N-proper-fs
 v6 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v6 תְּקֽוֹעַ׃|tə·qō·w·a‘|Tekoa|H8620|N-proper-fs
 v7 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v7 בֵּֽית־|bêṯ-|vvv|H1049|Prep
+v7 בֵּֽית־|bêṯ-|...|H1049|Prep
 v7 צ֥וּר|ṣūr|Beth-zur|H1049|N-proper-fs
 v7 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v7 שׂוֹכ֖וֹ|śō·w·ḵōw|Soco|H7755|N-proper-fs
@@ -121,7 +121,7 @@ v11 מַאֲכָ֖ל|ma·’ă·ḵāl|of food|H3978|N-ms
 v11 וְשֶׁ֥מֶן|wə·še·men|oil|H8081|Conj-w | N-ms
 v11 וָיָֽיִן׃|wā·yā·yin|and wine|H3196|Conj-w | N-ms
 v12 וּבְכָל־|ū·ḇə·ḵāl|in all|H3605|Conj-w, Prep-b | N-msc
-v12 עִ֤יר|‘îr|vvv|H5892|N-fs
+v12 עִ֤יר|‘îr|...|H5892|N-fs
 v12 וָעִיר֙|wā·‘îr|the cities|H5892|Conj-w | N-fs
 v12 צִנּ֣וֹת|ṣin·nō·wṯ|He also put shields|H6793|N-fp
 v12 וּרְמָחִ֔ים|ū·rə·mā·ḥîm|and spears|H7420|Conj-w | N-mp
@@ -131,7 +131,7 @@ v12 מְאֹ֑ד|mə·’ōḏ|...|H3966|Adv
 v12 וַיְהִי־|way·hî-|belonged|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v12 ל֖וֹ|lōw|to him|H0|Prep | 3ms
 v12 יְהוּדָ֥ה|yə·hū·ḏāh|So Judah|H3063|N-proper-ms
-v12 וּבִנְיָמִֽן׃ס|ū·ḇin·yā·min|and Benjamin|H1144|Conj-w | N-proper-ms
+v12 וּבִנְיָמִֽן׃|ū·ḇin·yā·min|and Benjamin|H1144|Conj-w | N-proper-ms
 v13 וְהַכֹּהֲנִים֙|wə·hak·kō·hă·nîm|Moreover, the priests|H3548|Conj-w, Art | N-mp
 v13 וְהַלְוִיִּ֔ם|wə·hal·wî·yim|and Levites|H3881|Conj-w, Art | N-proper-mp
 v13 אֲשֶׁ֖ר|’ă·šer|from|H834|Pro-r
@@ -164,7 +164,7 @@ v15 וְלַשְּׂעִירִ֑ים|wə·laś·śə·‘î·rîm|and for the go
 v15 וְלָעֲגָלִ֖ים|wə·lā·‘ă·ḡā·lîm|and calf idols|H5695|Conj-w, Prep-l, Art | N-mp
 v15 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v15 עָשָֽׂה׃|‘ā·śāh|he had made|H6213|V-Qal-Perf-3ms
-v16 וְאַחֲרֵיהֶ֗ם|wə·’a·ḥă·rê·hem|vvv|H310|Conj-w | Prep | 3mp
+v16 וְאַחֲרֵיהֶ֗ם|wə·’a·ḥă·rê·hem|...|H310|Conj-w | Prep | 3mp
 v16 מִכֹּל֙|mik·kōl|Those from every|H3605|Prep-m | N-msc
 v16 שִׁבְטֵ֣י|šiḇ·ṭê|tribe|H7626|N-mpc
 v16 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -271,7 +271,7 @@ v22 בֶֽן־|ḇen-|son|H1121|N-msc
 v22 מַעֲכָ֖ה|ma·‘ă·ḵāh|of Maacah|H4601|N-proper-ms
 v22 לְנָגִ֣יד|lə·nā·ḡîḏ|prince|H5057|Prep-l | N-ms
 v22 בְּאֶחָ֑יו|bə·’e·ḥāw|among his brothers|H251|Prep-b | N-mpc | 3ms
-v22 כִּ֖י|kî|vvv|H3588|Conj
+v22 כִּ֖י|kî|...|H3588|Conj
 v22 לְהַמְלִיכֽוֹ׃|lə·ham·lî·ḵōw|intending to make him king|H4427|Prep-l | V-Hifil-Inf | 3ms
 v23 וַיָּבֶן֩|way·yā·ḇen|Rehoboam also acted wisely|H995|Conj-w | V-Hifil-ConsecImperf-3ms
 v23 וַיִּפְרֹ֨ץ|way·yip̄·rōṣ|by dispersing|H6555|Conj-w | V-Qal-ConsecImperf-3ms

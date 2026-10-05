@@ -16,7 +16,7 @@ v2 וַיִּקְרָ֛א|way·yiq·rā|So he named|H7121|Conj-w | V-Qal-ConsecI
 v2 שֵֽׁם־|šêm-|...|H8034|N-msc
 v2 הַמָּק֥וֹם|ham·mā·qō·wm|place|H4725|Art | N-ms
 v2 הַה֖וּא|ha·hū|that|H1931|Art | Pro-3ms
-v2 מַֽחֲנָֽיִם׃פ|ma·ḥă·nā·yim|Mahanaim|H4266|N-proper-fs
+v2 מַֽחֲנָֽיִם׃|ma·ḥă·nā·yim|Mahanaim|H4266|N-proper-fs
 v3 וַיִּשְׁלַ֨ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v3 יַעֲקֹ֤ב|ya·‘ă·qōḇ|Jacob|H3290|N-proper-ms
 v3 מַלְאָכִים֙|mal·’ā·ḵîm|messengers|H4397|N-mp
@@ -46,7 +46,7 @@ v4 וָאֵחַ֖ר|wā·’ê·ḥar|and have remained there|H309|Conj-w | V-Qa
 v4 עַד־|‘aḏ-|until|H5704|Prep
 v4 עָֽתָּה׃|‘āt·tāh|now|H6258|Adv
 v5 וַֽיְהִי־|way·hî-|I have|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v5 לִי֙|lî||H0|Prep | 1cs
+v5 לִי֙|lî|-|H0|Prep | 1cs
 v5 שׁ֣וֹר|šō·wr|oxen|H7794|N-ms
 v5 וַחֲמ֔וֹר|wa·ḥă·mō·wr|donkeys|H2543|Conj-w | N-ms
 v5 צֹ֖אן|ṣōn|flocks|H6629|N-cs
@@ -79,7 +79,7 @@ v7 וַיִּירָ֧א|way·yî·rā|fear|H3372|Conj-w | V-Qal-ConsecImperf-3ms
 v7 יַעֲקֹ֛ב|ya·‘ă·qōḇ|Jacob|H3290|N-proper-ms
 v7 מְאֹ֖ד|mə·’ōḏ|In great|H3966|Adv
 v7 וַיֵּ֣צֶר|way·yê·ṣer|and distress|H3334|Conj-w | V-Qal-ConsecImperf-3ms
-v7 ל֑וֹ|lōw||H0|Prep | 3ms
+v7 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v7 וַיַּ֜חַץ|way·ya·ḥaṣ|divided|H2673|Conj-w | V-Qal-ConsecImperf-3ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 הָעָ֣ם|hā·‘ām|people|H5971|Art | N-ms
@@ -149,7 +149,7 @@ v11 כִּֽי־|kî-|for|H3588|Conj
 v11 יָרֵ֤א|yā·rê|am afraid that|H3373|Adj-ms
 v11 אָנֹכִי֙|’ā·nō·ḵî|I|H595|Pro-1cs
 v11 אֹת֔וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
-v11 פֶּן־|pen-|vvv|H6435|Conj
+v11 פֶּן־|pen-|...|H6435|Conj
 v11 יָב֣וֹא|yā·ḇō·w|he may come|H935|V-Qal-Imperf-3ms
 v11 וְהִכַּ֔נִי|wə·hik·ka·nî|and attack me|H5221|Conj-w | V-Hifil-ConjPerf-3ms | 1cs
 v11 אֵ֖ם|’êm|and the mothers|H517|N-fs
@@ -321,7 +321,7 @@ v23 הַנָּ֑חַל|han·nā·ḥal|the stream|H5158|Art | N-ms
 v23 וַֽיַּעֲבֵ֖ר|way·ya·‘ă·ḇêr|...|H5674|Conj-w | V-Hifil-ConsecImperf-3ms
 v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 אֲשֶׁר־|’ă·šer-|along with all his possessions|H834|Pro-r
-v23 לוֹ׃|lō||H0|Prep | 3ms
+v23 לוֹ׃|lō|-|H0|Prep | 3ms
 v24 וַיִּוָּתֵ֥ר|way·yiw·wā·ṯêr|was left|H3498|Conj-w | V-Nifal-ConsecImperf-3ms
 v24 יַעֲקֹ֖ב|ya·‘ă·qōḇ|So Jacob|H3290|N-proper-ms
 v24 לְבַדּ֑וֹ|lə·ḇad·dōw|all alone|H905|Prep-l | N-msc | 3ms

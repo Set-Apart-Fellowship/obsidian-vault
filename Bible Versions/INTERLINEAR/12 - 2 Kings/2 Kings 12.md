@@ -60,7 +60,7 @@ v4 לְהָבִ֖יא|lə·hā·ḇî|brought|H935|Prep-l | V-Hifil-Inf
 v4 בֵּ֥ית|bêṯ|into the house|H1004|N-msc
 v4 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v5 יִקְח֤וּ|yiq·ḥū|receive [it]|H3947|V-Qal-Imperf-3mp
-v5 לָהֶם֙|lā·hem|vvv|H0|Prep | 3mp
+v5 לָהֶם֙|lā·hem|...|H0|Prep | 3mp
 v5 הַכֹּ֣הֲנִ֔ים|hak·kō·hă·nîm|priest|H3548|Art | N-mp
 v5 אִ֖ישׁ|’îš|Let every|H376|N-ms
 v5 מֵאֵ֣ת|mê·’êṯ|...|H854|Prep-m | DirObjM
@@ -70,11 +70,11 @@ v5 יְחַזְּקוּ֙|yə·ḥaz·zə·qū|to repair|H2388|V-Piel-Imperf-3mp
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 בֶּ֣דֶק|be·ḏeq|any damage|H919|N-msc
 v5 הַבַּ֔יִת|hab·ba·yiṯ|in the temple|H1004|Art | N-ms
-v5 לְכֹ֛ל|lə·ḵōl|vvv|H3605|Prep-l | N-ms
-v5 אֲשֶׁר־|’ă·šer-|vvv|H834|Pro-r
+v5 לְכֹ֛ל|lə·ḵōl|...|H3605|Prep-l | N-ms
+v5 אֲשֶׁר־|’ă·šer-|...|H834|Pro-r
 v5 יִמָּצֵ֥א|yim·mā·ṣê|found|H4672|V-Nifal-Imperf-3ms
 v5 שָׁ֖ם|šām|...|H8033|Adv
-v5 בָּֽדֶק׃פ|bā·ḏeq|...|H919|N-ms
+v5 בָּֽדֶק׃|bā·ḏeq|...|H919|N-ms
 v6 וַיְהִ֗י|way·hî|however|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v6 בִּשְׁנַ֨ת|biš·naṯ|year|H8141|Prep-b | N-fsc
 v6 עֶשְׂרִ֧ים|‘eś·rîm|By the twenty-third|H6242|Number-cp
@@ -121,8 +121,8 @@ v8 מֵאֵ֣ת|mê·’êṯ|from|H854|Prep-m | DirObjM
 v8 הָעָ֔ם|hā·‘ām|the people|H5971|Art | N-ms
 v8 וּלְבִלְתִּ֥י|ū·lə·ḇil·tî|and that they would not|H1115|Conj-w, Prep-l
 v8 חַזֵּ֖ק|ḥaz·zêq|repair|H2388|V-Piel-Inf
-v8 אֶת־|’eṯ-|vvv|H853|DirObjM
-v8 בֶּ֥דֶק|be·ḏeq|vvv|H919|N-msc
+v8 אֶת־|’eṯ-|...|H853|DirObjM
+v8 בֶּ֥דֶק|be·ḏeq|...|H919|N-msc
 v8 הַבָּֽיִת׃|hab·bā·yiṯ|the temple {themselves}|H1004|Art | N-ms
 v9 וַיִּקַּ֞ח|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יְהוֹיָדָ֤ע|yə·hō·w·yā·ḏā‘|Then Jehoiada|H3077|N-proper-ms
@@ -203,7 +203,7 @@ v12 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v12 וּלְכֹ֛ל|ū·lə·ḵōl|the other expenses|H3605|Conj-w, Prep-l | N-ms
 v12 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v12 יֵצֵ֥א|yê·ṣê|and they paid|H3318|V-Qal-Imperf-3ms
-v12 עַל־|‘al-|vvv|H5921|Prep
+v12 עַל־|‘al-|...|H5921|Prep
 v12 הַבַּ֖יִת|hab·ba·yiṯ|of the temple|H1004|Art | N-ms
 v12 לְחָזְקָֽה׃|lə·ḥā·zə·qāh|repairs|H2388|Prep-l | V-Qal-Inf | 3fs
 v13 אַךְ֩|’aḵ|However|H389|Adv
@@ -261,7 +261,7 @@ v16 יוּבָ֖א|yū·ḇā|brought|H935|V-Hofal-Imperf-3ms
 v16 בֵּ֣ית|bêṯ|into the house|H1004|N-msc
 v16 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v16 לַכֹּהֲנִ֖ים|lak·kō·hă·nîm|the priests|H3548|Prep-l, Art | N-mp
-v16 יִהְיֽוּ׃פ|yih·yū|it belonged to|H1961|V-Qal-Imperf-3mp
+v16 יִהְיֽוּ׃|yih·yū|it belonged to|H1961|V-Qal-Imperf-3mp
 v17 אָ֣ז|’āz|At that time|H227|Adv
 v17 יַעֲלֶ֗ה|ya·‘ă·leh|marched up|H5927|V-Qal-Imperf-3ms
 v17 חֲזָאֵל֙|ḥă·zā·’êl|Hazael|H2371|N-proper-ms
@@ -354,4 +354,4 @@ v21 דָּוִ֑ד|dā·wiḏ|of David|H1732|N-proper-ms
 v21 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v21 אֲמַצְיָ֥ה|’ă·maṣ·yāh|Amaziah|H558|N-proper-ms
 v21 בְנ֖וֹ|ḇə·nōw|and his son|H1121|N-msc | 3ms
-v21 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v21 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

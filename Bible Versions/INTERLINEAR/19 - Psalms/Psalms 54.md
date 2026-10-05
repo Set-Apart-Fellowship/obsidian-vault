@@ -36,7 +36,7 @@ v3 סֶֽלָה׃|se·lāh|Selah|H5542|Interjection
 v4 הִנֵּ֣ה|hin·nêh|Surely|H2009|Interjection
 v4 אֱ֭לֹהִים|’ĕ·lō·hîm|God|H430|N-mp
 v4 עֹזֵ֣ר|‘ō·zêr|is my helper|H5826|V-Qal-Prtcpl-ms
-v4 לִ֑י|lî||H0|Prep | 1cs
+v4 לִ֑י|lî|-|H0|Prep | 1cs
 v4 אֲ֝דֹנָ֗י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v4 בְּֽסֹמְכֵ֥י|bə·sō·mə·ḵê|is the sustainer|H5564|Prep-b | V-Qal-Prtcpl-mpc
 v4 נַפְשִֽׁי׃|nap̄·šî|of my soul|H5315|N-fsc | 1cs

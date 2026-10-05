@@ -99,7 +99,7 @@ v14 וּתְח֥וֹלֵֽל|ū·ṯə·ḥō·w·lêl|and you must wait|H2342|C
 v14 לֽוֹ׃|lōw|for Him|H0|Prep | 3ms
 v15 וְעַתָּ֗ה|wə·‘at·tāh|and further|H6258|Conj-w | Adv
 v15 כִּי־|kî-|that|H3588|Conj
-v15 אַ֭יִן|’a·yin|vvv|H369|Adv
+v15 אַ֭יִן|’a·yin|...|H369|Adv
 v15 פָּקַ֣ד|pā·qaḏ|He has not punished|H6485|V-Qal-Perf-3ms
 v15 אַפּ֑וֹ|’ap·pōw|[in] His anger|H639|N-msc | 3ms
 v15 וְלֹֽא־|wə·lō-|[or]|H3808|Conj-w | Adv-NegPrt
@@ -113,4 +113,4 @@ v16 פִּ֑יהוּ|pî·hū|his mouth|H6310|N-msc | 3ms
 v16 בִּבְלִי־|biḇ·lî-|without|H1097|Prep-b | Adv
 v16 דַ֝֗עַת|ḏa·‘aṯ|knowledge|H1847|N-fs
 v16 מִלִּ֥ין|mil·lîn|words|H4405|N-fp
-v16 יַכְבִּֽר׃פ|yaḵ·bir|and multiplies|H3527|V-Hifil-Imperf-3ms
+v16 יַכְבִּֽר׃|yaḵ·bir|and multiplies|H3527|V-Hifil-Imperf-3ms

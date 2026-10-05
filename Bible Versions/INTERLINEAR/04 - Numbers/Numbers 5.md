@@ -39,7 +39,7 @@ v4 בְּנֵ֣י|bə·nê|So the Israelites|H1121|N-mpc
 v4 יִשְׂרָאֵ֔ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v4 וַיְשַׁלְּח֣וּ|way·šal·lə·ḥū|sending|H7971|Conj-w | V-Piel-ConsecImperf-3mp
 v4 אוֹתָ֔ם|’ō·w·ṯām|[such people]|H853|DirObjM | 3mp
-v4 אֶל־|’el-|vvv|H413|Prep
+v4 אֶל־|’el-|...|H413|Prep
 v4 מִח֖וּץ|mi·ḥūṣ|outside|H2351|Prep-m | N-msc
 v4 לַֽמַּחֲנֶ֑ה|lam·ma·ḥă·neh|the camp|H4264|Prep-l, Art | N-cs
 v4 כַּאֲשֶׁ֨ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
@@ -50,7 +50,7 @@ v4 מֹשֶׁ֔ה|mō·šeh|Moses|H4872|N-proper-ms
 v4 כֵּ֥ן|kên|...|H3651|Adv
 v4 עָשׂ֖וּ|‘ā·śū|did|H6213|V-Qal-Perf-3cp
 v4 בְּנֵ֥י|bə·nê|[They]|H1121|N-mpc
-v4 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|...|H3478|N-proper-ms
+v4 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v5 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v5 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v5 אֶל־|’el-|to|H413|Prep
@@ -89,7 +89,7 @@ v7 עָלָ֑יו|‘ā·lāw|to its value|H5921|Prep | 3ms
 v7 וְנָתַ֕ן|wə·nā·ṯan|and give all this|H5414|Conj-w | V-Qal-ConjPerf-3ms
 v7 לַאֲשֶׁ֖ר|la·’ă·šer|to the one|H834|Prep-l | Pro-r
 v7 אָשַׁ֥ם|’ā·šam|he has wronged|H816|V-Qal-Perf-3ms
-v7 לֽוֹ׃|lōw||H0|Prep | 3ms
+v7 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v8 וְאִם־|wə·’im-|But if|H518|Conj
 v8 אֵ֨ין|’ên|has no|H369|Adv
 v8 לָאִ֜ישׁ|lā·’îš|the man|H376|Prep-l, Art | N-ms
@@ -97,7 +97,7 @@ v8 גֹּאֵ֗ל|gō·’êl|relative|H1350|V-Qal-Prtcpl-ms
 v8 לְהָשִׁ֤יב|lə·hā·šîḇ|to whom restitution can be made for|H7725|Prep-l | V-Hifil-Inf
 v8 הָאָשָׁם֙|hā·’ā·šām|the wrong|H817|Art | N-ms
 v8 אֵלָ֔יו|’ê·lāw|...|H413|Prep | 3ms
-v8 הָאָשָׁ֛ם|hā·’ā·šām|vvv|H817|Art | N-ms
+v8 הָאָשָׁ֛ם|hā·’ā·šām|...|H817|Art | N-ms
 v8 הַמּוּשָׁ֥ב|ham·mū·šāḇ|the restitution|H7725|Art | V-Hofal-Prtcpl-ms
 v8 לַיהוָ֖ה|Yah·weh|belongs to the LORD|H3068|Prep-l | N-proper-ms
 v8 לַכֹּהֵ֑ן|lak·kō·hên|and must be given to the priest|H3548|Prep-l, Art | N-ms
@@ -129,7 +129,7 @@ v10 אֲשֶׁר־|’ă·šer-|[but] whatever|H834|Pro-r
 v10 יִתֵּ֥ן|yit·tên|gives|H5414|V-Qal-Imperf-3ms
 v10 לַכֹּהֵ֖ן|lak·kō·hên|to the priest|H3548|Prep-l, Art | N-ms
 v10 ל֥וֹ|lōw|[the priest]|H0|Prep | 3ms
-v10 יִהְיֶֽה׃פ|yih·yeh|will belong to|H1961|V-Qal-Imperf-3ms
+v10 יִהְיֶֽה׃|yih·yeh|will belong to|H1961|V-Qal-Imperf-3ms
 v11 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v11 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v11 אֶל־|’el-|to|H413|Prep
@@ -148,7 +148,7 @@ v12 תִשְׂטֶ֣ה|ṯiś·ṭeh|goes astray|H7847|V-Qal-Imperf-3fs
 v12 אִשְׁתּ֔וֹ|’iš·tōw|wife|H802|N-fsc | 3ms
 v12 וּמָעֲלָ֥ה|ū·mā·‘ă·lāh|and is unfaithful|H4603|Conj-w | V-Qal-ConjPerf-3fs
 v12 ב֖וֹ|ḇōw|to him|H0|Prep | 3ms
-v12 מָֽעַל׃|mā·‘al||H4604|N-ms
+v12 מָֽעַל׃|mā·‘al|-|H4604|N-ms
 v13 וְשָׁכַ֨ב|wə·šā·ḵaḇ|by sleeping with|H7901|Conj-w | V-Qal-ConjPerf-3ms
 v13 אִ֣ישׁ|’îš|another man|H376|N-ms
 v13 אֹתָהּ֮|’ō·ṯāh|...|H854|Prep | 3fs
@@ -295,14 +295,14 @@ v20 וְכִ֣י|wə·ḵî|and|H3588|Conj
 v20 נִטְמֵ֑את|niṭ·mêṯ|have defiled yourself|H2930|V-Nifal-Perf-2fs
 v20 וַיִּתֵּ֨ן|way·yit·tên|and lain|H5414|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אִ֥ישׁ|’îš|with a man|H376|N-ms
-v20 בָּךְ֙|bāḵ||H0|Prep | 2fs
+v20 בָּךְ֙|bāḵ|-|H0|Prep | 2fs
 v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 שְׁכָבְתּ֔וֹ|šə·ḵā·ḇə·tōw|carnally|H7903|N-fsc | 3ms
 v20 מִֽבַּלְעֲדֵ֖י|mib·bal·‘ă·ḏê|other than|H1107|Prep-m
 v20 אִישֵֽׁךְ׃|’î·šêḵ|your husband|H376|N-msc | 2fs
 v21 וְהִשְׁבִּ֨יעַ|wə·hiš·bî·a‘|swear|H7650|Conj-w | V-Hifil-ConjPerf-3ms
 v21 הַכֹּהֵ֥ן|hak·kō·hên|and the priest|H3548|Art | N-ms
-v21 אֶֽת־|’eṯ-||H853|DirObjM
+v21 אֶֽת־|’eṯ-|-|H853|DirObjM
 v21 הָֽאִשָּׁה֮|hā·’iš·šāh|shall have the woman|H802|Art | N-fs
 v21 בִּשְׁבֻעַ֣ת|biš·ḇu·‘aṯ|under the oath|H7621|Prep-b | N-fsc
 v21 הָאָלָה֒|hā·’ā·lāh|of the curse|H423|Art | N-fs
@@ -318,7 +318,7 @@ v21 בְּת֣וֹךְ|bə·ṯō·wḵ|among|H8432|Prep-b | N-msc
 v21 עַמֵּ֑ךְ|‘am·mêḵ|your people|H5971|N-msc | 2fs
 v21 בְּתֵ֨ת|bə·ṯêṯ|by making|H5414|Prep-b | V-Qal-Inf
 v21 יְהוָ֤ה|Yah·weh|-|H3068|N-proper-ms
-v21 אֶת־|’eṯ-||H853|DirObjM
+v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 יְרֵכֵךְ֙|yə·rê·ḵêḵ|your thigh|H3409|N-fsc | 2fs
 v21 נֹפֶ֔לֶת|nō·p̄e·leṯ|shrivel|H5307|V-Qal-Prtcpl-fs
 v21 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -392,7 +392,7 @@ v26 הַמָּֽיִם׃|ham·mā·yim|the water|H4325|Art | N-mp
 v27 וְהִשְׁקָ֣הּ|wə·hiš·qāh|When he has made her drink|H8248|Conj-w | V-Hifil-ConjPerf-3ms | 3fs
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 הַמַּ֗יִם|ham·ma·yim|the water|H4325|Art | N-mp
-v27 וְהָיְתָ֣ה|wə·hā·yə·ṯāh||H1961|Conj-w | V-Qal-ConjPerf-3fs
+v27 וְהָיְתָ֣ה|wə·hā·yə·ṯāh|-|H1961|Conj-w | V-Qal-ConjPerf-3fs
 v27 אִֽם־|’im-|if|H518|Conj
 v27 נִטְמְאָה֮|niṭ·mə·’āh|she has defiled herself|H2930|V-Nifal-Perf-3fs
 v27 וַתִּמְעֹ֣ל|wat·tim·‘ōl|and been unfaithful|H4603|Conj-w | V-Qal-ConsecImperf-3fs
@@ -459,4 +459,4 @@ v31 וְהָאִשָּׁ֣ה|wə·hā·’iš·šāh|woman|H802|Conj-w, Art | N-
 v31 הַהִ֔וא|ha·hi·w|but the|H1931|Art | Pro-3fs
 v31 תִּשָּׂ֖א|tiś·śā|shall bear|H5375|V-Qal-Imperf-3fs
 v31 אֶת־|’eṯ-|her|H853|DirObjM
-v31 עֲוֺנָֽהּ׃פ|‘ă·wō·nāh|iniquity|H5771|N-csc | 3fs
+v31 עֲוֺנָֽהּ׃|‘ă·wō·nāh|iniquity|H5771|N-csc | 3fs

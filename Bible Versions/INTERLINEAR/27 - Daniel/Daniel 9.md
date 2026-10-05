@@ -85,7 +85,7 @@ v6 הָאָֽרֶץ׃|hā·’ā·reṣ|of the land|H776|Art | N-fs
 v7 לְךָ֤|lə·ḵā|To You|H0|Prep | 2ms
 v7 אֲדֹנָי֙|’ă·ḏō·nāy|O Lord|H136|N-proper-ms
 v7 הַצְּדָקָ֔ה|haṣ·ṣə·ḏā·qāh|[belongs] righteousness|H6666|Art | N-fs
-v7 וְלָ֛נוּ|wə·lā·nū||H0|Conj-w | Prep | 1cp
+v7 וְלָ֛נוּ|wə·lā·nū|-|H0|Conj-w | Prep | 1cp
 v7 בֹּ֥שֶׁת|bō·šeṯ|with shame|H1322|N-fsc
 v7 הַפָּנִ֖ים|hap·pā·nîm|we are covered|H6440|Art | N-mp
 v7 כַּיּ֣וֹם|kay·yō·wm|day|H3117|Prep-k, Art | N-ms
@@ -105,7 +105,7 @@ v7 הִדַּחְתָּ֣ם|hid·daḥ·tām|You have driven us|H5080|V-Hifil-Pe
 v7 שָׁ֔ם|šām|...|H8033|Adv
 v7 בְּמַעֲלָ֖ם|bə·ma·‘ă·lām|because of our unfaithfulness|H4604|Prep-b | N-msc | 3mp
 v7 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v7 מָֽעֲלוּ־|mā·‘ă·lū-||H4603|V-Qal-Perf-3cp
+v7 מָֽעֲלוּ־|mā·‘ă·lū-|-|H4603|V-Qal-Perf-3cp
 v7 בָֽךְ׃|ḇāḵ|to You|H0|Prep | 2ms
 v8 יְהוָ֗ה|Yah·weh|O LORD|H3068|N-proper-ms
 v8 לָ֚נוּ|lā·nū|we|H0|Prep | 1cp
@@ -150,7 +150,7 @@ v11 וַתִּתַּ֨ךְ|wat·tit·taḵ|has been poured out|H5413|Conj-w | V-
 v11 עָלֵ֜ינוּ|‘ā·lê·nū|on us|H5921|Prep | 1cp
 v11 הָאָלָ֣ה|hā·’ā·lāh|so the oath|H423|Art | N-fs
 v11 וְהַשְּׁבֻעָ֗ה|wə·haš·šə·ḇu·‘āh|and the curse|H7621|Conj-w, Art | N-fs
-v11 אֲשֶׁ֤ר|’ă·šer||H834|Pro-r
+v11 אֲשֶׁ֤ר|’ă·šer|-|H834|Pro-r
 v11 כְּתוּבָה֙|kə·ṯū·ḇāh|written|H3789|V-Qal-QalPassPrtcpl-fs
 v11 בְּתוֹרַת֙|bə·ṯō·w·raṯ|in the Law|H8451|Prep-b | N-fsc
 v11 מֹשֶׁ֣ה|mō·šeh|of Moses|H4872|N-proper-ms
@@ -173,7 +173,7 @@ v12 לְהָבִ֥יא|lə·hā·ḇî|by bringing|H935|Prep-l | V-Hifil-Inf
 v12 עָלֵ֖ינוּ|‘ā·lê·nū|upon us|H5921|Prep | 1cp
 v12 רָעָ֣ה|rā·‘āh|disaster|H7451|Adj-fs
 v12 גְדֹלָ֑ה|ḡə·ḏō·lāh|a great|H1419|Adj-fs
-v12 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v12 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v12 לֹֽא־|lō-|nothing|H3808|Adv-NegPrt
 v12 נֶעֶשְׂתָ֗ה|ne·‘eś·ṯāh|has ever been done|H6213|V-Nifal-Perf-3fs
 v12 תַּ֚חַת|ta·ḥaṯ|For under|H8478|Prep
@@ -204,7 +204,7 @@ v13 וּלְהַשְׂכִּ֖יל|ū·lə·haś·kîl|and giving attention|H791
 v13 בַּאֲמִתֶּֽךָ׃|ba·’ă·mit·te·ḵā|to Your truth|H571|Prep-b | N-fsc | 2ms
 v14 וַיִּשְׁקֹ֤ד|way·yiš·qōḏ|in store|H8245|Conj-w | V-Qal-ConsecImperf-3ms
 v14 יְהוָה֙|Yah·weh|Therefore the LORD|H3068|N-proper-ms
-v14 עַל־|‘al-||H5921|Prep
+v14 עַל־|‘al-|-|H5921|Prep
 v14 הָ֣רָעָ֔ה|hā·rā·‘āh|has kept the calamity|H7451|Art | Adj-fs
 v14 וַיְבִיאֶ֖הָ|way·ḇî·’e·hā|and brought it|H935|Conj-w | V-Hifil-ConsecImperf-3ms | 3fs
 v14 עָלֵ֑ינוּ|‘ā·lê·nū|upon us|H5921|Prep | 1cp
@@ -285,7 +285,7 @@ v18 וְהָעִ֕יר|wə·hā·‘îr|of the city|H5892|Conj-w, Art | N-fs
 v18 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v18 נִקְרָ֥א|niq·rā|that bears|H7121|V-Nifal-Perf-3ms
 v18 שִׁמְךָ֖|šim·ḵā|Your name|H8034|N-msc | 2ms
-v18 עָלֶ֑יהָ|‘ā·le·hā||H5921|Prep | 3fs
+v18 עָלֶ֑יהָ|‘ā·le·hā|-|H5921|Prep | 3fs
 v18 כִּ֣י׀|kî|For|H3588|Conj
 v18 לֹ֣א|lō|are not|H3808|Adv-NegPrt
 v18 עַל־|‘al-|because of|H5921|Prep
@@ -426,7 +426,7 @@ v26 וּשְׁנַ֔יִם|ū·šə·na·yim|...|H8147|Conj-w | Number-md
 v26 יִכָּרֵ֥ת|yik·kā·rêṯ|will be cut off|H3772|V-Nifal-Imperf-3ms
 v26 מָשִׁ֖יחַ|mā·šî·aḥ|the Messiah|H4899|Adj-ms
 v26 וְאֵ֣ין|wə·’ên|and will have nothing|H369|Conj-w | Adv
-v26 ל֑וֹ|lōw||H0|Prep | 3ms
+v26 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v26 וְהָעִ֨יר|wə·hā·‘îr|the city|H5892|Conj-w, Art | N-fs
 v26 וְהַקֹּ֜דֶשׁ|wə·haq·qō·ḏeš|and the sanctuary|H6944|Conj-w, Art | N-ms
 v26 יַ֠שְׁחִית|yaš·ḥîṯ|will destroy|H7843|V-Hifil-Imperf-3ms
@@ -459,4 +459,4 @@ v27 כָּלָה֙|kā·lāh|destruction|H3617|N-fs
 v27 וְנֶ֣חֱרָצָ֔ה|wə·ne·ḥĕ·rā·ṣāh|the decreed|H2782|Conj-w | V-Nifal-Prtcpl-fs
 v27 תִּתַּ֖ךְ|tit·taḵ|is poured out|H5413|V-Qal-Imperf-3fs
 v27 עַל־|‘al-|upon|H5921|Prep
-v27 שֹׁמֵֽם׃פ|šō·mêm|[him]|H8074|V-Qal-Prtcpl-ms
+v27 שֹׁמֵֽם׃|šō·mêm|[him]|H8074|V-Qal-Prtcpl-ms

@@ -39,7 +39,7 @@ v4 לָֽךְ׃|lāḵ|against You|H0|Prep | 2fs
 v5 אוֹיְבַ֗י|’ō·wy·ḇay|My enemies|H341|V-Qal-Prtcpl-mpc | 1cs
 v5 יֹאמְר֣וּ|yō·mə·rū|say|H559|V-Qal-Imperf-3mp
 v5 רַ֣ע|ra‘|with malice|H7451|Adj-ms
-v5 לִ֑י|lî||H0|Prep | 1cs
+v5 לִ֑י|lî|-|H0|Prep | 1cs
 v5 מָתַ֥י|mā·ṯay|When|H4970|Interrog
 v5 יָ֝מ֗וּת|yā·mūṯ|will he die|H4191|V-Qal-Imperf-3ms
 v5 וְאָבַ֥ד|wə·’ā·ḇaḏ|and be forgotten|H6|Conj-w | V-Qal-ConjPerf-3ms
@@ -79,7 +79,7 @@ v9 אִ֤ישׁ|’îš|my close friend|H376|N-msc
 v9 שְׁלוֹמִ֨י׀|šə·lō·w·mî|...|H7965|N-msc | 1cs
 v9 אֲשֶׁר־|’ă·šer-|whom|H834|Pro-r
 v9 בָּטַ֣חְתִּי|bā·ṭaḥ·tî|I trusted|H982|V-Qal-Perf-1cs
-v9 ב֭וֹ|ḇōw||H0|Prep | 3ms
+v9 ב֭וֹ|ḇōw|-|H0|Prep | 3ms
 v9 אוֹכֵ֣ל|’ō·w·ḵêl|the one who shared|H398|V-Qal-Prtcpl-ms
 v9 לַחְמִ֑י|laḥ·mî|my bread|H3899|N-msc | 1cs
 v9 הִגְדִּ֖יל|hiḡ·dîl|has lifted up|H1431|V-Hifil-Perf-3ms

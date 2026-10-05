@@ -81,7 +81,7 @@ v7 בְּאַרְצֶ֑ךָ|bə·’ar·ṣe·ḵā|in your land|H776|Prep-b | N
 v7 תִּהְיֶ֥ה|tih·yeh|may serve|H1961|V-Qal-Imperf-3fs
 v7 כָל־|ḵāl|All|H3605|N-msc
 v7 תְּבוּאָתָ֖הּ|tə·ḇū·’ā·ṯāh|its growth|H8393|N-fsc | 3fs
-v7 לֶאֱכֹֽל׃ס|le·’ĕ·ḵōl|as food|H398|Prep-l | V-Qal-Inf
+v7 לֶאֱכֹֽל׃|le·’ĕ·ḵōl|as food|H398|Prep-l | V-Qal-Inf
 v8 וְסָפַרְתָּ֣|wə·sā·p̄ar·tā|shall count off|H5608|Conj-w | V-Qal-ConjPerf-2ms
 v8 לְךָ֗|lə·ḵā|And you|H0|Prep | 2ms
 v8 שֶׁ֚בַע|še·b̲aʿ|seven|H7651|Number-fs
@@ -93,7 +93,7 @@ v8 שֶׁ֣בַע|še·ḇa‘|seven|H7651|Number-fs
 v8 פְּעָמִ֑ים|pə·‘ā·mîm|times|H6471|N-fp
 v8 וְהָי֣וּ|wə·hā·yū|...|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v8 לְךָ֗|lə·ḵā|-|H0|Prep | 2ms
-v8 יְמֵי֙|yə·mê|vvv|H3117|N-mpc
+v8 יְמֵי֙|yə·mê|...|H3117|N-mpc
 v8 שֶׁ֚בַע|še·b̲aʿ|so that the seven|H7651|Number-fs
 v8 שַׁבְּתֹ֣ת|šab·bə·ṯōṯ|Sabbaths|H7676|N-cpc
 v8 הַשָּׁנִ֔ים|haš·šā·nîm|of years|H8141|Art | N-fp
@@ -299,7 +299,7 @@ v24 אֶ֣רֶץ|’e·reṣ|piece of property|H776|N-fsc
 v24 אֲחֻזַּתְכֶ֑ם|’ă·ḥuz·zaṯ·ḵem|you possess|H272|N-fsc | 2mp
 v24 גְּאֻלָּ֖ה|gə·’ul·lāh|the redemption|H1353|N-fs
 v24 תִּתְּנ֥וּ|tit·tə·nū|you must provide for|H5414|V-Qal-Imperf-2mp
-v24 לָאָֽרֶץ׃ס|lā·’ā·reṣ|of the land|H776|Prep-l, Art | N-fs
+v24 לָאָֽרֶץ׃|lā·’ā·reṣ|of the land|H776|Prep-l, Art | N-fs
 v25 כִּֽי־|kî-|If|H3588|Conj
 v25 יָמ֣וּךְ|yā·mūḵ|becomes impoverished|H4134|V-Qal-Imperf-3ms
 v25 אָחִ֔יךָ|’ā·ḥî·ḵā|your brother|H251|N-msc | 2ms
@@ -407,7 +407,7 @@ v31 הָאָ֖רֶץ|hā·’ā·reṣ|...|H776|Art | N-fs
 v31 יֵחָשֵׁ֑ב|yê·ḥā·šêḇ|are to be considered|H2803|V-Nifal-Imperf-3ms
 v31 גְּאֻלָּה֙|gə·’ul·lāh|They may be redeemed|H1353|N-fs
 v31 תִּהְיֶה־|tih·yeh-|and they shall be|H1961|V-Qal-Imperf-3fs
-v31 לּ֔וֹ|lōw||H0|Prep | 3ms
+v31 לּ֔וֹ|lōw|-|H0|Prep | 3ms
 v31 וּבַיֹּבֵ֖ל|ū·ḇay·yō·ḇêl|in the Jubilee|H3104|Conj-w, Prep-b, Art | N-ms
 v31 יֵצֵֽא׃|yê·ṣê|released|H3318|V-Qal-Imperf-3ms
 v32 וְעָרֵי֙|wə·‘ā·rê|As for the cities|H5892|Conj-w | N-fpc
@@ -447,7 +447,7 @@ v34 כִּֽי־|kî-|for|H3588|Conj
 v34 אֲחֻזַּ֥ת|’ă·ḥuz·zaṯ|possession|H272|N-fsc
 v34 עוֹלָ֛ם|‘ō·w·lām|permanent|H5769|N-ms
 v34 ה֖וּא|hū|this|H1931|Pro-3ms
-v34 לָהֶֽם׃ס|lā·hem|is their|H0|Prep | 3mp
+v34 לָהֶֽם׃|lā·hem|is their|H0|Prep | 3mp
 v35 וְכִֽי־|wə·ḵî-|Now if|H3588|Conj
 v35 יָמ֣וּךְ|yā·mūḵ|becomes destitute|H4134|V-Qal-Imperf-3ms
 v35 אָחִ֔יךָ|’ā·ḥî·ḵā|your countryman|H251|N-msc | 2ms
@@ -495,7 +495,7 @@ v38 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fsc
 v38 כְּנַ֔עַן|kə·na·‘an|of Canaan|H3667|N-proper-ms
 v38 לִהְי֥וֹת|lih·yō·wṯ|and to be|H1961|Prep-l | V-Qal-Inf
 v38 לָכֶ֖ם|lā·ḵem|your|H0|Prep | 2mp
-v38 לֵאלֹהִֽים׃ס|lê·lō·hîm|God|H430|Prep-l | N-mp
+v38 לֵאלֹהִֽים׃|lê·lō·hîm|God|H430|Prep-l | N-mp
 v39 וְכִֽי־|wə·ḵî-|If|H3588|Conj
 v39 יָמ֥וּךְ|yā·mūḵ|becomes destitute|H4134|V-Qal-Imperf-3ms
 v39 אָחִ֛יךָ|’ā·ḥî·ḵā|a countryman|H251|N-msc | 2ms
@@ -550,7 +550,7 @@ v44 וְעַבְדְּךָ֥|wə·‘aḇ·də·ḵā|Your menservants|H5650|Con
 v44 וַאֲמָתְךָ֖|wa·’ă·mā·ṯə·ḵā|and maidservants|H519|Conj-w | N-fsc | 2ms
 v44 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v44 יִהְיוּ־|yih·yū-|shall come|H1961|V-Qal-Imperf-3mp
-v44 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v44 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v44 מֵאֵ֣ת|mê·’êṯ|from|H854|Prep-m | DirObjM
 v44 הַגּוֹיִ֗ם|hag·gō·w·yim|the nations|H1471|Art | N-mp
 v44 אֲשֶׁר֙|’ă·šer|-|H834|Pro-r
@@ -564,7 +564,7 @@ v45 מִבְּנֵ֨י|mib·bə·nê|from the|H1121|Prep-m | N-mpc
 v45 הַתּוֹשָׁבִ֜ים|hat·tō·wō·šā·ḇîm|foreigners|H8453|Art | N-mp
 v45 הַגָּרִ֤ים|hag·gā·rîm|residing|H1481|Art | V-Qal-Prtcpl-mp
 v45 עִמָּכֶם֙|‘im·mā·ḵem|among you|H5973|Prep | 2mp
-v45 מֵהֶ֣ם|mê·hem|vvv|H0|Prep-m | Pro-3mp
+v45 מֵהֶ֣ם|mê·hem|...|H0|Prep-m | Pro-3mp
 v45 תִּקְנ֔וּ|tiq·nū|purchase them|H7069|V-Qal-Imperf-2mp
 v45 וּמִמִּשְׁפַּחְתָּם֙|ū·mim·miš·paḥ·tām|or their clans|H4940|Conj-w, Prep-m | N-fsc | 3mp
 v45 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
@@ -582,7 +582,7 @@ v46 אַחֲרֵיכֶם֙|’a·ḥă·rê·ḵem|after|H310|Prep | 2mp
 v46 לָרֶ֣שֶׁת|lā·re·šeṯ|you to inherit|H3423|Prep-l | V-Qal-Inf
 v46 אֲחֻזָּ֔ה|’ă·ḥuz·zāh|as property|H272|N-fs
 v46 לְעֹלָ֖ם|lə·‘ō·lām|for life|H5769|Prep-l | N-ms
-v46 בָּהֶ֣ם|bā·hem||H0|Prep | 3mp
+v46 בָּהֶ֣ם|bā·hem|-|H0|Prep | 3mp
 v46 תַּעֲבֹ֑דוּ|ta·‘ă·ḇō·ḏū|you can make them slaves|H5647|V-Qal-Imperf-2mp
 v46 וּבְאַ֨חֵיכֶ֤ם|ū·ḇə·’a·ḥê·ḵem|But as for your brothers|H251|Conj-w, Prep-b | N-mpc | 2mp
 v46 בְּנֵֽי־|bə·nê-|the Israelites|H1121|N-mpc
@@ -591,8 +591,8 @@ v46 אִ֣ישׁ|’îš|man|H376|N-ms
 v46 בְּאָחִ֔יו|bə·’ā·ḥîw|over his brother|H251|Prep-b | N-msc | 3ms
 v46 לֹא־|lō-|no|H3808|Adv-NegPrt
 v46 תִרְדֶּ֥ה|ṯir·deh|may rule|H7287|V-Qal-Imperf-2ms
-v46 ב֖וֹ|ḇōw||H0|Prep | 3ms
-v46 בְּפָֽרֶךְ׃ס|bə·p̄ā·reḵ|harshly|H6531|Prep-b | N-ms
+v46 ב֖וֹ|ḇōw|-|H0|Prep | 3ms
+v46 בְּפָֽרֶךְ׃|bə·p̄ā·reḵ|harshly|H6531|Prep-b | N-ms
 v47 וְכִ֣י|wə·ḵî|If|H3588|Conj
 v47 תַשִּׂ֗יג|ṯaś·śîḡ|prospers|H5381|V-Hifil-Imperf-3fs
 v47 יַ֣ד|yaḏ|...|H3027|N-fsc
@@ -614,7 +614,7 @@ v48 אַחֲרֵ֣י|’a·ḥă·rê|after|H310|Prep
 v48 נִמְכַּ֔ר|nim·kar|he has sold himself|H4376|V-Nifal-Perf-3ms
 v48 גְּאֻלָּ֖ה|gə·’ul·lāh|the right of redemption|H1353|N-fs
 v48 תִּהְיֶה־|tih·yeh-|he retains|H1961|V-Qal-Imperf-3fs
-v48 לּ֑וֹ|lōw||H0|Prep | 3ms
+v48 לּ֑וֹ|lōw|-|H0|Prep | 3ms
 v48 אֶחָ֥ד|’e·ḥāḏ|One|H259|Number-ms
 v48 מֵאֶחָ֖יו|mê·’e·ḥāw|of his brothers|H251|Prep-m | N-mpc | 3ms
 v48 יִגְאָלֶֽנּוּ׃|yiḡ·’ā·len·nū|may redeem him|H1350|V-Qal-Imperf-3ms | 3ms

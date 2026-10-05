@@ -23,7 +23,7 @@ v2 כִּי־|kî-|When|H3588|Conj
 v2 אֶחָ֣ד|’e·ḥāḏ|he was but one|H259|Number-ms
 v2 קְרָאתִ֔יו|qə·rā·ṯîw|I called him|H7121|V-Qal-Perf-1cs | 3ms
 v2 וַאֲבָרְכֵ֖הוּ|wa·’ă·ḇā·rə·ḵê·hū|then I blessed him|H1288|Conj-w | V-Piel-ConjImperf-1cs | 3ms
-v2 וְאַרְבֵּֽהוּ׃ס|wə·’ar·bê·hū|and multiplied him|H7235|Conj-w | V-Hifil-ConjImperf-1cs | 3ms
+v2 וְאַרְבֵּֽהוּ׃|wə·’ar·bê·hū|and multiplied him|H7235|Conj-w | V-Hifil-ConjImperf-1cs | 3ms
 v3 כִּֽי־|kî-|For|H3588|Conj
 v3 נִחַ֨ם|ni·ḥam|will comfort|H5162|V-Piel-Perf-3ms
 v3 יְהוָ֜ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -43,7 +43,7 @@ v3 יִמָּ֣צֵא|yim·mā·ṣê|will be found|H4672|V-Nifal-Imperf-3ms
 v3 בָ֔הּ|ḇāh|in her|H0|Prep | 3fs
 v3 תּוֹדָ֖ה|tō·w·ḏāh|thanksgiving|H8426|N-fs
 v3 וְק֥וֹל|wə·qō·wl|song|H6963|Conj-w | N-msc
-v3 זִמְרָֽה׃ס|zim·rāh|and melodious|H2172|N-fs
+v3 זִמְרָֽה׃|zim·rāh|and melodious|H2172|N-fs
 v4 הַקְשִׁ֤יבוּ|haq·šî·ḇū|Pay attention|H7181|V-Hifil-Imp-mp
 v4 אֵלַי֙|’ê·lay|to Me|H413|Prep | 1cs
 v4 עַמִּ֔י|‘am·mî|My people|H5971|N-msc | 1cs
@@ -94,7 +94,7 @@ v6 לְעוֹלָ֣ם|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms
 v6 תִּֽהְיֶ֔ה|tih·yeh|will last forever|H1961|V-Qal-Imperf-3fs
 v6 וְצִדְקָתִ֖י|wə·ṣiḏ·qā·ṯî|and My righteousness|H6666|Conj-w | N-fsc | 1cs
 v6 לֹ֥א|lō|will never|H3808|Adv-NegPrt
-v6 תֵחָֽת׃ס|ṯê·ḥāṯ|fail|H2865|V-Nifal-Imperf-3fs
+v6 תֵחָֽת׃|ṯê·ḥāṯ|fail|H2865|V-Nifal-Imperf-3fs
 v7 שִׁמְע֤וּ|šim·‘ū|Listen|H8085|V-Qal-Imp-mp
 v7 אֵלַי֙|’ê·lay|to Me|H413|Prep | 1cs
 v7 יֹ֣דְעֵי|yō·ḏə·‘ê|you who know|H3045|V-Qal-Prtcpl-mpc
@@ -121,7 +121,7 @@ v8 לְעוֹלָ֣ם|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms
 v8 תִּֽהְיֶ֔ה|tih·yeh|will last forever|H1961|V-Qal-Imperf-3fs
 v8 וִישׁוּעָתִ֖י|wî·šū·‘ā·ṯî|My salvation|H3444|Conj-w | N-fsc | 1cs
 v8 לְד֥וֹר|lə·ḏō·wr|through all generations|H1755|Prep-l | N-msc
-v8 דּוֹרִֽים׃ס|dō·w·rîm|...|H1755|N-mp
+v8 דּוֹרִֽים׃|dō·w·rîm|...|H1755|N-mp
 v9 עוּרִ֨י|‘ū·rî|Awake|H5782|V-Qal-Imp-fs
 v9 עוּרִ֤י|‘ū·rî|awake|H5782|V-Qal-Imp-fs
 v9 לִבְשִׁי־|liḇ·šî-|put on|H3847|V-Qal-Imp-fs
@@ -169,7 +169,7 @@ v11 וְשִׂמְחָה֙|wə·śim·ḥāh|and joy|H8057|Conj-w | N-fs
 v11 יַשִּׂיג֔וּן|yaś·śî·ḡūn|will overtake them|H5381|V-Hifil-Imperf-3mp | Pn
 v11 נָ֖סוּ|nā·sū|will flee|H5127|V-Qal-Perf-3cp
 v11 יָג֥וֹן|yā·ḡō·wn|and sorrow|H3015|N-ms
-v11 וַאֲנָחָֽה׃ס|wa·’ă·nā·ḥāh|and sighing|H585|Conj-w | N-fs
+v11 וַאֲנָחָֽה׃|wa·’ă·nā·ḥāh|and sighing|H585|Conj-w | N-fs
 v12 אָנֹכִ֧י|’ā·nō·ḵî|I|H595|Pro-1cs
 v12 אָנֹכִ֛י|’ā·nō·ḵî|even I|H595|Pro-1cs
 v12 ה֖וּא|hū|am He|H1931|Pro-3ms
@@ -191,7 +191,7 @@ v13 שָׁמַיִם֮|šā·ma·yim|the heavens|H8064|N-mp
 v13 וְיֹסֵ֣ד|wə·yō·sêḏ|and laid the foundations|H3245|Conj-w | V-Qal-Prtcpl-ms
 v13 אָרֶץ֒|’ā·reṣ|of the earth|H776|N-fs
 v13 וַתְּפַחֵ֨ד|wat·tə·p̄a·ḥêḏ|You live in terror|H6342|Conj-w | V-Piel-ConsecImperf-2ms
-v13 תָּמִ֜יד|tā·mîḏ|vvv|H8548|Adv
+v13 תָּמִ֜יד|tā·mîḏ|...|H8548|Adv
 v13 כָּל־|kāl-|all day long|H3605|N-msc
 v13 הַיּ֗וֹם|hay·yō·wm|...|H3117|Art | N-ms
 v13 מִפְּנֵי֙|mip·pə·nê|because of|H6440|Prep-m | N-cpc
@@ -235,7 +235,7 @@ v16 אָ֔רֶץ|’ā·reṣ|the earth|H776|N-fs
 v16 וְלֵאמֹ֥ר|wə·lê·mōr|and to say|H559|Conj-w, Prep-l | V-Qal-Inf
 v16 לְצִיּ֖וֹן|lə·ṣî·yō·wn|to Zion|H6726|Prep-l | N-proper-fs
 v16 עַמִּי־|‘am·mî-|are My people|H5971|N-msc | 1cs
-v16 אָֽתָּה׃ס|’āt·tāh|You|H859|Pro-2ms
+v16 אָֽתָּה׃|’āt·tāh|You|H859|Pro-2ms
 v17 הִתְעוֹרְרִ֣י|hiṯ·‘ō·wr·rî|Awake|H5782|V-Hitpael-Imp-fs
 v17 הִֽתְעוֹרְרִ֗י|hiṯ·‘ō·wr·rî|awake|H5782|V-Hitpael-Imp-fs
 v17 ק֚וּמִי|qū·mî|Rise up|H6965|V-Qal-Imp-fs
@@ -247,7 +247,7 @@ v17 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 כּ֣וֹס|kō·ws|the cup|H3563|N-fsc
 v17 חֲמָת֑וֹ|ḥă·mā·ṯōw|of His fury|H2534|N-fsc | 3ms
-v17 אֶת־|’eṯ-||H853|DirObjM
+v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 קֻבַּ֜עַת|qub·ba·‘aṯ|the goblet|H6907|N-fsc
 v17 כּ֧וֹס|kō·ws|the cup|H3563|N-fsc
 v17 הַתַּרְעֵלָ֛ה|hat·tar·‘ê·lāh|that makes men stagger|H8653|Art | N-fs
@@ -297,7 +297,7 @@ v21 זֹ֖את|zōṯ|this|H2063|Pro-fs
 v21 עֲנִיָּ֑ה|‘ă·nî·yāh|you afflicted one|H6041|Adj-fs
 v21 וּשְׁכֻרַ֖ת|ū·šə·ḵu·raṯ|drunken|H7937|Conj-w | Adj-fsc
 v21 וְלֹ֥א|wə·lō|but not|H3808|Conj-w | Adv-NegPrt
-v21 מִיָּֽיִן׃ס|mî·yā·yin|with wine|H3196|Prep-m | N-ms
+v21 מִיָּֽיִן׃|mî·yā·yin|with wine|H3196|Prep-m | N-ms
 v22 כֹּֽה־|kōh-|Thus|H3541|Adv
 v22 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v22 אֲדֹנַ֣יִךְ|’ă·ḏō·na·yiḵ|your Lord|H113|N-mpc | 2fs
@@ -331,4 +331,4 @@ v23 וַתָּשִׂ֤ימִי|wat·tā·śî·mî|so that you made|H7760|Conj-w
 v23 כָאָ֙רֶץ֙|ḵā·’ā·reṣ|like the ground|H776|Prep-k, Art | N-fs
 v23 גֵּוֵ֔ךְ|gê·wêḵ|your back|H1460|N-msc | 2fs
 v23 וְכַח֖וּץ|wə·ḵa·ḥūṣ|like a street|H2351|Conj-w, Prep-k, Art | N-ms
-v23 לַעֹבְרִֽים׃ס|la·‘ō·ḇə·rîm|to be traversed|H5674|Prep-l, Art | V-Qal-Prtcpl-mp
+v23 לַעֹבְרִֽים׃|la·‘ō·ḇə·rîm|to be traversed|H5674|Prep-l, Art | V-Qal-Prtcpl-mp

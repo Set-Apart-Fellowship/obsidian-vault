@@ -70,7 +70,7 @@ v10 וְשַׁדַּ֥י|wə·šad·day|and from the Almighty|H7706|Conj-w | N-p
 v10 מֵעָֽוֶל׃|mê·‘ā·wel|to act unjustly|H5766|Prep-m | N-ms
 v11 כִּ֤י|kî|For|H3588|Conj
 v11 פֹ֣עַל|p̄ō·‘al|according to a man's deeds|H6467|N-msc
-v11 אָ֭דָם|’ā·ḏām|vvv|H120|N-ms
+v11 אָ֭דָם|’ā·ḏām|...|H120|N-ms
 v11 יְשַׁלֶּם־|yə·šal·lem-|He repays|H7999|V-Piel-Imperf-3ms
 v11 ל֑וֹ|lōw|him|H0|Prep | 3ms
 v11 וּֽכְאֹ֥רַח|ū·ḵə·’ō·raḥ|ways|H734|Conj-w, Prep-k | N-csc
@@ -87,7 +87,7 @@ v12 יְעַוֵּ֥ת|yə·‘aw·wêṯ|pervert|H5791|V-Piel-Imperf-3ms
 v12 מִשְׁפָּֽט׃|miš·pāṭ|justice|H4941|N-ms
 v13 מִֽי־|mî-|Who|H4310|Interrog
 v13 פָקַ֣ד|p̄ā·qaḏ|gave Him charge|H6485|V-Qal-Perf-3ms
-v13 עָלָ֣יו|‘ā·lāw||H5921|Prep | 3ms
+v13 עָלָ֣יו|‘ā·lāw|-|H5921|Prep | 3ms
 v13 אָ֑רְצָה|’ā·rə·ṣāh|over the earth|H776|N-fs | 3fs
 v13 וּמִ֥י|ū·mî|Who|H4310|Conj-w | Interrog
 v13 שָׂ֝֗ם|śām|appointed [Him]|H7760|V-Qal-Perf-3ms
@@ -160,7 +160,7 @@ v21 עֵ֭ינָיו|‘ê·nāw|His eyes [are]|H5869|N-cdc | 3ms
 v21 עַל־|‘al-|on|H5921|Prep
 v21 דַּרְכֵי־|dar·ḵê-|the ways|H1870|N-cpc
 v21 אִ֑ישׁ|’îš|of a man|H376|N-ms
-v21 וְֽכָל־|wə·ḵāl|vvv|H3605|Conj-w | N-msc
+v21 וְֽכָל־|wə·ḵāl|...|H3605|Conj-w | N-msc
 v21 צְעָדָ֥יו|ṣə·‘ā·ḏāw|his every step|H6806|N-mpc | 3ms
 v21 יִרְאֶֽה׃|yir·’eh|and He sees|H7200|V-Qal-Imperf-3ms
 v22 אֵֽין־|’ên-|There is no|H369|Adv
@@ -294,4 +294,4 @@ v37 בֵּינֵ֣ינוּ|bê·nê·nū|among us|H996|Prep | 1cp
 v37 יִסְפּ֑וֹק|yis·pō·wq|he claps [his hands]|H5606|V-Qal-Imperf-3ms
 v37 וְיֶ֖רֶב|wə·ye·reḇ|and multiplies|H7235|Conj-w | V-Hifil-ConjImperf.Jus-3ms
 v37 אֲמָרָ֣יו|’ă·mā·rāw|his words|H561|N-mpc | 3ms
-v37 לָאֵֽל׃ס|lā·’êl|against God|H410|Prep-l | N-ms
+v37 לָאֵֽל׃|lā·’êl|against God|H410|Prep-l | N-ms

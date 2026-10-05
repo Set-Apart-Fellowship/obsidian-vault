@@ -11,7 +11,7 @@ v1 בְּטֶ֛רֶם|bə·ṭe·rem|before|H2962|Prep-b | Adv
 v1 יַכֶּ֥ה|yak·keh|struck down|H5221|V-Hifil-Imperf-3ms
 v1 פַרְעֹ֖ה|p̄ar·‘ōh|Pharaoh|H6547|N-proper-ms
 v1 אֶת־|’eṯ-|-|H853|DirObjM
-v1 עַזָּֽה׃ס|‘az·zāh|Gaza|H5804|N-proper-fs
+v1 עַזָּֽה׃|‘az·zāh|Gaza|H5804|N-proper-fs
 v2 כֹּ֣ה׀|kōh|This is what|H3541|Adv
 v2 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v2 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -27,7 +27,7 @@ v2 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fs
 v2 וּמְלוֹאָ֔הּ|ū·mə·lō·w·’āh|and its fullness|H4393|Conj-w | N-msc | 3fs
 v2 עִ֖יר|‘îr|the cities|H5892|N-fs
 v2 וְיֹ֣שְׁבֵי|wə·yō·šə·ḇê|and their inhabitants|H3427|Conj-w | V-Qal-Prtcpl-mpc
-v2 בָ֑הּ|ḇāh||H0|Prep | 3fs
+v2 בָ֑הּ|ḇāh|-|H0|Prep | 3fs
 v2 וְזָֽעֲקוּ֙|wə·zā·‘ă·qū|will cry out|H2199|Conj-w | V-Qal-ConjPerf-3cp
 v2 הָֽאָדָ֔ם|hā·’ā·ḏām|The people|H120|Art | N-ms
 v2 וְהֵילִ֕ל|wə·hê·lil|will wail|H3213|Conj-w | V-Hifil-ConjPerf-3ms
@@ -80,7 +80,7 @@ v5 שְׁאֵרִ֣ית|šə·’ê·rîṯ|O remnant|H7611|N-fsc
 v5 עִמְקָ֑ם|‘im·qām|of their valley|H6010|N-msc | 3mp
 v5 עַד־|‘aḏ-|how long|H5704|Prep
 v5 מָתַ֖י|mā·ṯay|...|H4970|Interrog
-v5 תִּתְגּוֹדָֽדִי׃ס|tiṯ·gō·w·ḏā·ḏî|will you gash yourself|H1413|V-Hitpael-Imperf-2fs
+v5 תִּתְגּוֹדָֽדִי׃|tiṯ·gō·w·ḏā·ḏî|will you gash yourself|H1413|V-Hitpael-Imperf-2fs
 v6 ה֗וֹי|hō·w|Alas|H1945|Interjection
 v6 חֶ֚רֶב|ḥe·reḇ|O sword|H2719|N-fs
 v6 לַֽיהוָ֔ה|Yah·weh|of the LORD|H3068|Prep-l | N-proper-ms
@@ -104,4 +104,4 @@ v7 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
 v7 ח֥וֹף|ḥō·wp̄|and the shore|H2348|N-msc
 v7 הַיָּ֖ם|hay·yām|of its coastland|H3220|Art | N-ms
 v7 שָׁ֥ם|šām|...|H8033|Adv
-v7 יְעָדָֽהּ׃ס|yə·‘ā·ḏāh|He has appointed it|H3259|V-Qal-Perf-3ms | 3fs
+v7 יְעָדָֽהּ׃|yə·‘ā·ḏāh|He has appointed it|H3259|V-Qal-Perf-3ms | 3fs

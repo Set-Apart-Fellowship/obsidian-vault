@@ -49,7 +49,7 @@ v3 οἷς|hois|against them|G3739|RelPro-DMP
 v3 τὸ|to|The|G3588|Art-NNS
 v3 κρίμα|krima|verdict|G2917|N-NNS
 v3 ἔκπαλαι|ekpalai|longstanding|G1597|Adv
-v3 οὐκ|ouk|vvv|G3756|Adv
+v3 οὐκ|ouk|...|G3756|Adv
 v3 ἀργεῖ|argei|remains in force|G691|V-PIA-3S
 v3 καὶ|kai|and|G2532|Conj
 v3 ἡ|hē|-|G3588|Art-NFS
@@ -76,7 +76,7 @@ v4 τηρουμένους|tēroumenous|to be held|G5083|V-PPM/P-AMP
 v5 καὶ|kai|[if]|G2532|Conj
 v5 ἀρχαίου|archaiou|[the] ancient|G744|Adj-GMS
 v5 κόσμου|kosmou|world|G2889|N-GMS
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 ἐφείσατο|epheisato|He did not spare|G5339|V-AIM-3S
 v5 ἀλλὰ|alla|but|G235|Conj
 v5 ὄγδοον|ogdoon|among the eight|G3590|Adj-AMS
@@ -108,7 +108,7 @@ v7 ὑπὸ|hypo|by|G5259|Prep
 v7 τῆς|tēs|the|G3588|Art-GFS
 v7 τῶν|tōn|of the|G3588|Art-GMP
 v7 ἀθέσμων|athesmōn|lawless|G113|Adj-GMP
-v7 ἐν|en|vvv|G1722|Prep
+v7 ἐν|en|...|G1722|Prep
 v7 ἀσελγείᾳ|aselgeia|depraved|G766|N-DFS
 v7 ἀναστροφῆς|anastrophēs|conduct|G391|N-GFS
 v7 ἐρρύσατο|errysato|[if] He rescued|G4506|V-AIM-3S
@@ -157,7 +157,7 @@ v10 καταφρονοῦντας|kataphronountas|despise|G2706|V-PPA-AMP
 v10 τολμηταὶ|tolmētai|Bold|G5113|N-NMP
 v10 αὐθάδεις|authadeis|[and] self-willed|G829|Adj-NMP
 v10 δόξας|doxas|glorious beings|G1391|N-AFP
-v10 οὐ|ou|vvv|G3756|Adv
+v10 οὐ|ou|...|G3756|Adv
 v10 τρέμουσιν|tremousin|they are unafraid|G5141|V-PIA-3P
 v10 βλασφημοῦντες|blasphēmountes|to slander|G987|V-PPA-NMP
 v11 ὅπου|hopou|Yet not even|G3699|Adv
@@ -194,7 +194,7 @@ v12 ἐν|en|[and like such creatures]|G1722|Prep
 v12 τῇ|tē|...|G3588|Art-DFS
 v12 φθορᾷ|phthora|...|G5356|N-DFS
 v12 αὐτῶν|autōn|...|G846|PPro-GM3P
-v12 καὶ|kai|vvv|G2532|Conj
+v12 καὶ|kai|...|G2532|Conj
 v12 φθαρήσονται|phtharēsontai|they too will be destroyed|G5351|V-FIP-3P
 v13 ἀδικούμενοι|adikoumenoi|The harm they will suffer|G91|V-PPM/P-NMP
 v13 μισθὸν|misthon|[is the] wages|G3408|N-AMS
@@ -303,10 +303,10 @@ v19 τῆς|tēs|-|G3588|Art-GFS
 v19 φθορᾶς|phthoras|to depravity|G5356|N-GFS
 v19 ᾧ|hō|to whatever|G3739|RelPro-DMS
 v19 γάρ|gar|For|G1063|Conj
-v19 τις|tis|vvv|G5100|IPro-NMS
+v19 τις|tis|...|G5100|IPro-NMS
 v19 ἥττηται|hēttētai|has mastered him|G2274|V-RIM/P-3S
-v19 τούτῳ|toutō|vvv|G3778|DPro-DMS
-v19 ‹καὶ›|kai|vvv|G2532|Conj
+v19 τούτῳ|toutō|...|G3778|DPro-DMS
+v19 ‹καὶ›|kai|...|G2532|Conj
 v19 δεδούλωται|dedoulōtai|a man is a slave|G1402|V-RIM/P-3S
 v20 Εἰ|Ei|If|G1487|Conj
 v20 γὰρ|gar|indeed|G1063|Conj

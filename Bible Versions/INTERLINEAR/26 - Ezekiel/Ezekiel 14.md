@@ -4,7 +4,7 @@ v1 אֲנָשִׁ֔ים|’ă·nā·šîm|-|H582|N-mp
 v1 מִזִּקְנֵ֖י|miz·ziq·nê|Then some of the elders|H2205|Prep-m | Adj-mpc
 v1 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v1 וַיֵּשְׁב֖וּ|way·yê·šə·ḇū|and sat down|H3427|Conj-w | V-Qal-ConsecImperf-3mp
-v1 לְפָנָֽי׃פ|lə·p̄ā·nāy|before me|H6440|Prep-l | N-mpc | 1cs
+v1 לְפָנָֽי׃|lə·p̄ā·nāy|before me|H6440|Prep-l | N-mpc | 1cs
 v2 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v2 דְבַר־|ḏə·ḇar-|And the word|H1697|N-msc
 v2 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -25,7 +25,7 @@ v3 נֹ֣כַח|nō·ḵaḥ|before|H5227|Prep
 v3 פְּנֵיהֶ֑ם|pə·nê·hem|their faces|H6440|N-mpc | 3mp
 v3 הַאִדָּרֹ֥שׁ|ha·’id·dā·rōš|Should I consult|H1875|V-Nifal-InfAbs
 v3 אִדָּרֵ֖שׁ|’id·dā·rêš|in any way|H1875|V-Nifal-Imperf-1cs
-v3 לָהֶֽם׃ס|lā·hem|with them|H0|Prep | 3mp
+v3 לָהֶֽם׃|lā·hem|with them|H0|Prep | 3mp
 v4 לָכֵ֣ן|lā·ḵên|Therefore|H3651|Adv
 v4 דַּבֵּר־|dab·bêr-|speak|H1696|V-Piel-Imp-ms
 v4 א֠וֹתָם|’ō·w·ṯām|to them|H854|DirObjM | 3mp
@@ -37,7 +37,7 @@ v4 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
 v4 יְהוִ֗ה|Yah·weh|GOD|H3069|N-proper-ms
 v4 אִ֣ישׁ|’îš|any|H376|N-ms
 v4 אִ֣ישׁ|’îš|...|H376|N-ms
-v4 מִבֵּ֣ית|mib·bêṯ|vvv|H1004|Prep-m | N-msc
+v4 מִבֵּ֣ית|mib·bêṯ|...|H1004|Prep-m | N-msc
 v4 יִשְׂרָאֵ֡ל|yiś·rā·’êl|Israelite|H3478|N-proper-ms
 v4 אֲשֶׁר֩|’ă·šer|When|H834|Pro-r
 v4 יַעֲלֶ֨ה|ya·‘ă·leh|sets up|H5927|V-Hifil-Imperf-3ms
@@ -57,7 +57,7 @@ v4 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v4 יְהוָ֗ה|Yah·weh|the LORD|H3068|N-proper-ms
 v4 נַעֲנֵ֧יתִי|na·‘ă·nê·ṯî|will answer|H6030|V-Nifal-Perf-1cs
 v4 ל֦וֹ|lōw|him|H0|Prep | 3ms
-v4 בָהּ|ḇå̄h||H0|Prep | 3fs
+v4 בָהּ|ḇå̄h|-|H0|Prep | 3fs
 v4 בְּרֹ֥ב|bə·rōḇ|according to his great|H7230|Prep-b | N-msc
 v4 גִּלּוּלָֽיו׃|gil·lū·lāw|idolatry|H1544|N-mpc | 3ms
 v5 לְמַ֛עַן|lə·ma·‘an|so that|H4616|Conj
@@ -70,7 +70,7 @@ v5 אֲשֶׁ֤ר|’ă·šer|For|H834|Pro-r
 v5 נָזֹ֙רוּ֙|nā·zō·rū|estranged|H2114|V-Nifal-Perf-3cp
 v5 מֵֽעָלַ֔י|mê·‘ā·lay|from Me|H5921|Prep-m | 1cs
 v5 בְּגִלּֽוּלֵיהֶ֖ם|bə·ḡil·lū·lê·hem|because of their idols|H1544|Prep-b | N-mpc | 3mp
-v5 כֻּלָּֽם׃ס|kul·lām|they are all|H3605|N-msc | 3mp
+v5 כֻּלָּֽם׃|kul·lām|they are all|H3605|N-msc | 3mp
 v6 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v6 אֱמֹ֣ר׀|’ĕ·mōr|tell|H559|V-Qal-Imp-ms
 v6 אֶל־|’el-|...|H413|Prep
@@ -92,10 +92,10 @@ v6 פְנֵיכֶֽם׃|p̄ə·nê·ḵem|turn your faces|H6440|N-mpc | 2mp
 v7 כִּי֩|kî|For when|H3588|Conj
 v7 אִ֨ישׁ|’îš|any|H376|N-ms
 v7 אִ֜ישׁ|’îš|...|H376|N-ms
-v7 מִבֵּ֣ית|mib·bêṯ|vvv|H1004|Prep-m | N-msc
+v7 מִבֵּ֣ית|mib·bêṯ|...|H1004|Prep-m | N-msc
 v7 יִשְׂרָאֵ֗ל|yiś·rā·’êl|Israelite|H3478|N-proper-ms
 v7 וּמֵהַגֵּר֮|ū·mê·hag·gêr|or any foreigner|H1616|Conj-w, Prep-m, Art | N-ms
-v7 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v7 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v7 יָג֣וּר|yā·ḡūr|dwelling|H1481|V-Qal-Imperf-3ms
 v7 בְּיִשְׂרָאֵל֒|bə·yiś·rā·’êl|in Israel|H3478|Prep-b | N-proper-ms
 v7 וְיִנָּזֵ֣ר|wə·yin·nā·zêr|separates himself|H5144|Conj-w | V-Nifal-ConjImperf-3ms
@@ -113,7 +113,7 @@ v7 וּבָ֤א|ū·ḇā|and then comes|H935|Conj-w | V-Qal-ConjPerf-3ms
 v7 אֶל־|’el-|to|H413|Prep
 v7 הַנָּבִיא֙|han·nā·ḇî|the prophet|H5030|Art | N-ms
 v7 לִדְרָשׁ־|liḏ·rāš-|to inquire|H1875|Prep-l | V-Qal-Inf
-v7 ל֣וֹ|lōw||H0|Prep | 3ms
+v7 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v7 בִ֔י|ḇî|of Me|H0|Prep | 1cs
 v7 אֲנִ֣י|’ă·nî|I|H589|Pro-1cs
 v7 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -133,7 +133,7 @@ v8 עַמִּ֑י|‘am·mî|My people|H5971|N-msc | 1cs
 v8 וִֽידַעְתֶּ֖ם|wî·ḏa‘·tem|Then you will know|H3045|Conj-w | V-Qal-ConjPerf-2mp
 v8 כִּֽי־|kî-|that|H3588|Conj
 v8 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v8 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v8 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v9 וְהַנָּבִ֤יא|wə·han·nā·ḇî|the prophet|H5030|Conj-w, Art | N-ms
 v9 כִֽי־|ḵî-|But if|H3588|Conj
 v9 יְפֻתֶּה֙|yə·p̄ut·teh|is enticed|H6601|V-Pual-Imperf-3ms
@@ -181,7 +181,7 @@ v11 לָהֶם֙|lā·hem|their|H0|Prep | 3mp
 v11 לֵֽאלֹהִ֔ים|lê·lō·hîm|God|H430|Prep-l | N-mp
 v11 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v11 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v11 יְהוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v11 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v12 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v12 דְבַר־|ḏə·ḇar-|And the word|H1697|N-msc
 v12 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -217,7 +217,7 @@ v14 בְּתוֹכָ֔הּ|bə·ṯō·w·ḵāh|in it|H8432|Prep-b | N-msc | 3f
 v14 נֹ֖חַ|nō·aḥ|Noah|H5146|N-proper-ms
 v14 דָּנִאֵל|då̄·ni·ʾēl|Daniel|H1840|N-proper-ms
 v14 וְאִיּ֑וֹב|wə·’î·yō·wḇ|and Job|H347|Conj-w | N-proper-ms
-v14 הֵ֤מָּה|hêm·māh|vvv|H1992|Pro-3mp
+v14 הֵ֤מָּה|hêm·māh|...|H1992|Pro-3mp
 v14 בְצִדְקָתָם֙|ḇə·ṣiḏ·qā·ṯām|their righteousness|H6666|Prep-b | N-fsc | 3mp
 v14 יְנַצְּל֣וּ|yə·naṣ·ṣə·lū|could deliver|H5337|V-Piel-Imperf-3mp
 v14 נַפְשָׁ֔ם|nap̄·šām|only themselves|H5315|N-fsc | 3mp
@@ -315,10 +315,10 @@ v20 בֵּ֥ן|bên|[their own] sons|H1121|N-ms
 v20 אִם־|’im-|or|H518|Conj
 v20 בַּ֖ת|baṯ|daughters|H1323|N-fs
 v20 יַצִּ֑ילוּ|yaṣ·ṣî·lū|deliver|H5337|V-Hifil-Imperf-3mp
-v20 הֵ֥מָּה|hêm·māh|vvv|H1992|Pro-3mp
+v20 הֵ֥מָּה|hêm·māh|...|H1992|Pro-3mp
 v20 בְצִדְקָתָ֖ם|ḇə·ṣiḏ·qā·ṯām|Their righteousness|H6666|Prep-b | N-fsc | 3mp
 v20 יַצִּ֥ילוּ|yaṣ·ṣî·lū|could deliver|H5337|V-Hifil-Imperf-3mp
-v20 נַפְשָֽׁם׃פ|nap̄·šām|only themselves|H5315|N-fsc | 3mp
+v20 נַפְשָֽׁם׃|nap̄·šām|only themselves|H5315|N-fsc | 3mp
 v21 כִּי֩|kî|For|H3588|Conj
 v21 כֹ֨ה|ḵōh|this is what|H3541|Adv
 v21 אָמַ֜ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -388,4 +388,4 @@ v23 עָשִׂ֣יתִי|‘ā·śî·ṯî|-|H6213|V-Qal-Perf-1cs
 v23 בָ֔הּ|ḇāh|within it|H0|Prep | 3fs
 v23 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v23 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v23 יְהֹוִֽה׃פ|Yah·weh|GOD|H3069|N-proper-ms
+v23 יְהֹוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms

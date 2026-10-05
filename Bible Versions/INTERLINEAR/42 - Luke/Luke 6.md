@@ -26,7 +26,7 @@ v2 εἶπαν|eipan|asked|G2036|V-AIA-3P
 v2 Τί|Ti|Why|G5101|IPro-ANS
 v2 ποιεῖτε|poieite|are you doing|G4160|V-PIA-2P
 v2 ὃ|ho|what|G3739|RelPro-NNS
-v2 οὐκ|ouk|vvv|G3756|Adv
+v2 οὐκ|ouk|...|G3756|Adv
 v2 ἔξεστιν|exestin|is unlawful|G1832|V-PIA-3S
 v2 τοῖς|tois|[on] the|G3588|Art-DNP
 v2 σάββασιν|sabbasin|Sabbath|G4521|N-DNP
@@ -37,8 +37,8 @@ v3 αὐτοὺς|autous|...|G846|PPro-AM3P
 v3 εἶπεν|eipen|...|G2036|V-AIA-3S
 v3 ὁ|ho|-|G3588|Art-NMS
 v3 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
-v3 Οὐδὲ|Oude|vvv|G3761|Adv
-v3 τοῦτο|touto|vvv|G3778|DPro-ANS
+v3 Οὐδὲ|Oude|...|G3761|Adv
+v3 τοῦτο|touto|...|G3778|DPro-ANS
 v3 ἀνέγνωτε|anegnōte|Have you not read|G314|V-AIA-2P
 v3 ὃ|ho|what|G3739|RelPro-ANS
 v3 ἐποίησεν|epoiēsen|did|G4160|V-AIA-3S
@@ -127,7 +127,7 @@ v7 ἐν|en|on|G1722|Prep
 v7 τῷ|tō|the|G3588|Art-DNS
 v7 σαββάτῳ|sabbatō|Sabbath|G4521|N-DNS
 v7 θεραπεύει|therapeuei|He would heal|G2323|V-PIA-3S
-v7 ἵνα|hina|vvv|G2443|Conj
+v7 ἵνα|hina|...|G2443|Conj
 v7 εὕρωσιν|heurōsin|Looking for a reason|G2147|V-ASA-3P
 v7 κατηγορεῖν|katēgorein|to accuse|G2723|V-PNA
 v7 αὐτοῦ|autou|[Jesus]|G846|PPro-GM3S
@@ -149,8 +149,8 @@ v8 χεῖρα|cheira|hand|G5495|N-AFS
 v8 Ἔγειρε|Egeire|Get up|G1453|V-PMA-2S
 v8 καὶ|kai|and|G2532|Conj
 v8 στῆθι|stēthi|stand|G2476|V-AMA-2S
-v8 εἰς|eis|vvv|G1519|Prep
-v8 τὸ|to|vvv|G3588|Art-ANS
+v8 εἰς|eis|...|G1519|Prep
+v8 τὸ|to|...|G3588|Art-ANS
 v8 μέσον|meson|among [us]|G3319|Adj-ANS
 v8 καὶ|kai|So|G2532|Conj
 v8 ἀναστὰς|anastas|he got up|G450|V-APA-NMS
@@ -189,9 +189,9 @@ v10 δὲ|de|-|G1161|Conj
 v10 ἐποίησεν|epoiēsen|He did [so]|G4160|V-AIA-3S
 v10 καὶ|kai|and|G2532|Conj
 v10 ἀπεκατεστάθη|apekatestathē|was restored|G600|V-AIP-3S
-v10 ἡ|hē|vvv|G3588|Art-NFS
+v10 ἡ|hē|...|G3588|Art-NFS
 v10 χεὶρ|cheir|[it]|G5495|N-NFS
-v10 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v10 αὐτοῦ|autou|...|G846|PPro-GM3S
 v11 αὐτοὶ|autoi|[the scribes and Pharisees]|G846|PPro-NM3P
 v11 δὲ|de|But|G1161|Conj
 v11 ἐπλήσθησαν|eplēsthēsan|were filled|G4130|V-AIP-3P
@@ -212,13 +212,13 @@ v12 ταῖς|tais|-|G3588|Art-DFP
 v12 ἡμέραις|hēmerais|days|G2250|N-DFP
 v12 ταύταις|tautais|those|G3778|DPro-DFP
 v12 ἐξελθεῖν|exelthein|[Jesus] went out|G1831|V-ANA
-v12 αὐτὸν|auton|vvv|G846|PPro-AM3S
+v12 αὐτὸν|auton|...|G846|PPro-AM3S
 v12 εἰς|eis|to|G1519|Prep
 v12 τὸ|to|the|G3588|Art-ANS
 v12 ὄρος|oros|mountain|G3735|N-ANS
 v12 προσεύξασθαι|proseuxasthai|to pray|G4336|V-ANM
 v12 καὶ|kai|and|G2532|Conj
-v12 ἦν|ēn|vvv|G1510|V-IIA-3S
+v12 ἦν|ēn|...|G1510|V-IIA-3S
 v12 διανυκτερεύων|dianyktereuōn|He spent the night|G1273|V-PPA-NMS
 v12 ἐν|en|in|G1722|Prep
 v12 τῇ|tē|-|G3588|Art-DFS
@@ -417,8 +417,8 @@ v23 πολὺς|polys|great [is]|G4183|Adj-NMS
 v23 ἐν|en|in|G1722|Prep
 v23 τῷ|tō|-|G3588|Art-DMS
 v23 οὐρανῷ|ouranō|heaven|G3772|N-DMS
-v23 κατὰ|kata|vvv|G2596|Prep
-v23 τὰ|ta|vvv|G3588|Art-ANP
+v23 κατὰ|kata|...|G2596|Prep
+v23 τὰ|ta|...|G3588|Art-ANP
 v23 αὐτὰ|auta|their|G846|PPro-AN3P
 v23 γὰρ|gar|For|G1063|Conj
 v23 ἐποίουν|epoioun|treated|G4160|V-IIA-3P
@@ -460,8 +460,8 @@ v26 εἴπωσιν|eipōsin|speak|G2036|V-ASA-3P
 v26 πάντες|pantes|all|G3956|Adj-NMP
 v26 οἱ|hoi|-|G3588|Art-NMP
 v26 ἄνθρωποι|anthrōpoi|men|G444|N-NMP
-v26 Κατὰ|Kata|vvv|G2596|Prep
-v26 τὰ|ta|vvv|G3588|Art-ANP
+v26 Κατὰ|Kata|...|G2596|Prep
+v26 τὰ|ta|...|G3588|Art-ANP
 v26 αὐτὰ|auta|their|G846|PPro-AN3P
 v26 γὰρ|gar|for|G1063|Conj
 v26 ἐποίουν|epoioun|treated|G4160|V-IIA-3P
@@ -504,7 +504,7 @@ v29 καὶ|kai|also|G2532|Conj
 v29 τὴν|tēn|the|G3588|Art-AFS
 v29 ἄλλην|allēn|other|G243|Adj-AFS
 v29 καὶ|kai|And|G2532|Conj
-v29 ἀπὸ|apo|vvv|G575|Prep
+v29 ἀπὸ|apo|...|G575|Prep
 v29 τοῦ|tou|[if someone]|G3588|Art-GMS
 v29 αἴροντός|airontos|takes|G142|V-PPA-GMS
 v29 σου|sou|your|G4771|PPro-G2S
@@ -520,7 +520,7 @@ v30 αἰτοῦντί|aitounti|asks|G154|V-PPA-DMS
 v30 σε|se|you|G4771|PPro-A2S
 v30 δίδου|didou|Give|G1325|V-PMA-2S
 v30 καὶ|kai|and|G2532|Conj
-v30 ἀπὸ|apo|vvv|G575|Prep
+v30 ἀπὸ|apo|...|G575|Prep
 v30 τοῦ|tou|[if anyone]|G3588|Art-GMS
 v30 αἴροντος|airontos|takes|G142|V-PPA-GMS
 v30 τὰ|ta|what [is]|G3588|Art-ANP
@@ -635,15 +635,15 @@ v37 Καὶ|Kai|-|G2532|Conj
 v37 μὴ|mē|{Do} not|G3361|Adv
 v37 κρίνετε|krinete|judge|G2919|V-PMA-2P
 v37 καὶ|kai|and|G2532|Conj
-v37 οὐ|ou|vvv|G3756|Adv
-v37 μὴ|mē|vvv|G3361|Adv
+v37 οὐ|ou|...|G3756|Adv
+v37 μὴ|mē|...|G3361|Adv
 v37 κριθῆτε|krithēte|you will not be judged|G2919|V-ASP-2P
 v37 καὶ|kai|-|G2532|Conj
 v37 μὴ|mē|{Do} not|G3361|Adv
 v37 καταδικάζετε|katadikazete|condemn|G2613|V-PMA-2P
 v37 καὶ|kai|and|G2532|Conj
-v37 οὐ|ou|vvv|G3756|Adv
-v37 μὴ|mē|vvv|G3361|Adv
+v37 οὐ|ou|...|G3756|Adv
+v37 μὴ|mē|...|G3361|Adv
 v37 καταδικασθῆτε|katadikasthēte|you will not be condemned|G2613|V-ASP-2P
 v37 ἀπολύετε|apolyete|Forgive|G630|V-PMA-2P
 v37 καὶ|kai|and|G2532|Conj
@@ -673,7 +673,7 @@ v39 δὲ|de|-|G1161|Conj
 v39 καὶ|kai|...|G2532|Conj
 v39 παραβολὴν|parabolēn|a parable|G3850|N-AFS
 v39 αὐτοῖς|autois|them|G846|PPro-DM3P
-v39 Μήτι|Mēti|vvv|G3385|IntPrtcl
+v39 Μήτι|Mēti|...|G3385|IntPrtcl
 v39 δύναται|dynatai|Can|G1410|V-PIM/P-3S
 v39 τυφλὸς|typhlos|a blind [man]|G5185|Adj-NMS
 v39 τυφλὸν|typhlon|a blind [man]|G5185|Adj-AMS
@@ -742,7 +742,7 @@ v42 τῷ|tō|-|G3588|Art-DMS
 v42 ὀφθαλμῷ|ophthalmō|eye|G3788|N-DMS
 v42 σοῦ|sou|your own|G4771|PPro-G2S
 v42 δοκὸν|dokon|[the] beam|G1385|N-AFS
-v42 οὐ|ou|vvv|G3756|Adv
+v42 οὐ|ou|...|G3756|Adv
 v42 βλέπων|blepōn|fail to see|G991|V-PPA-NMS
 v42 ὑποκριτά|hypokrita|[You] hypocrite|G5273|N-VMS
 v42 ἔκβαλε|ekbale|take|G1544|V-AMA-2S
@@ -789,7 +789,7 @@ v44 τοῦ|tou|its|G3588|Art-GMS
 v44 ἰδίου|idiou|own|G2398|Adj-GMS
 v44 καρποῦ|karpou|fruit|G2590|N-GMS
 v44 γινώσκεται|ginōsketai|is known|G1097|V-PIM/P-3S
-v44 οὐ|ou|vvv|G3756|Adv
+v44 οὐ|ou|...|G3756|Adv
 v44 γὰρ|gar|Indeed|G1063|Conj
 v44 ἐξ|ex|from|G1537|Prep
 v44 ἀκανθῶν|akanthōn|thornbushes|G173|N-GFP
@@ -918,9 +918,9 @@ v49 εὐθὺς|euthys|immediately|G2112|Adv
 v49 συνέπεσεν|synepesen|it fell|G4098|V-AIA-3S
 v49 καὶ|kai|and|G2532|Conj
 v49 ἐγένετο|egeneto|was|G1096|V-AIM-3S
-v49 τὸ|to|vvv|G3588|Art-NNS
+v49 τὸ|to|...|G3588|Art-NNS
 v49 ῥῆγμα|rhēgma|destruction|G4485|N-NNS
-v49 τῆς|tēs|vvv|G3588|Art-GFS
-v49 οἰκίας|oikias|vvv|G3614|N-GFS
+v49 τῆς|tēs|...|G3588|Art-GFS
+v49 οἰκίας|oikias|...|G3614|N-GFS
 v49 ἐκείνης|ekeinēs|[its]|G1565|DPro-GFS
 v49 μέγα|mega|great|G3173|Adj-NNS

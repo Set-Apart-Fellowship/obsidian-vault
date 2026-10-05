@@ -16,7 +16,7 @@ v3 יְרוּשָׁלִַ֥ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v3 הַבְּנוּיָ֑ה|hab·bə·nū·yāh|is built up|H1129|Art | V-Qal-QalPassPrtcpl-fs
 v3 כְּ֝עִ֗יר|kə·‘îr|as a city|H5892|Prep-k | N-fs
 v3 שֶׁחֻבְּרָה־|še·ḥub·bə·rāh-|united|H2266|Pro-r | V-Pual-Perf-3fs
-v3 לָּ֥הּ|lāh||H0|Prep | 3fs
+v3 לָּ֥הּ|lāh|-|H0|Prep | 3fs
 v3 יַחְדָּֽו׃|yaḥ·dāw|together|H3162|Adv
 v4 שֶׁשָּׁ֨ם|šeš·šām|where|H8033|Pro-r | Adv
 v4 עָל֪וּ|‘ā·lū|go up|H5927|V-Qal-Perf-3cp
@@ -59,4 +59,4 @@ v9 יְהוָ֣ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v9 אֱלֹהֵ֑ינוּ|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
 v9 אֲבַקְשָׁ֖ה|’ă·ḇaq·šāh|I will seek|H1245|V-Piel-Imperf.Cohort-1cs
 v9 ט֣וֹב|ṭō·wḇ|your prosperity|H2896|N-ms
-v9 לָֽךְ׃|lāḵ||H0|Prep | 2fs
+v9 לָֽךְ׃|lāḵ|-|H0|Prep | 2fs

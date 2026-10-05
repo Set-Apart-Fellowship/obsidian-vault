@@ -74,7 +74,7 @@ v7 הַכֹּהֵ֛ן|hak·kō·hên|the priest|H3548|Art | N-ms
 v7 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
 v7 יְכַפֶּר־|yə·ḵap·per-|makes atonement|H3722|V-Piel-Imperf-3ms
 v7 בּ֖וֹ|bōw|with it|H0|Prep | 3ms
-v7 ל֥וֹ|lōw||H0|Prep | 3ms
+v7 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v7 יִהְיֶֽה׃|yih·yeh|It belongs to|H1961|V-Qal-Imperf-3ms
 v8 וְהַ֨כֹּהֵ֔ן|wə·hak·kō·hên|As for the priest|H3548|Conj-w, Art | N-ms
 v8 הַמַּקְרִ֖יב|ham·maq·rîḇ|who presents|H7126|Art | V-Hifil-Prtcpl-ms
@@ -113,10 +113,10 @@ v10 בְּנֵ֧י|bə·nê|the sons|H1121|N-mpc
 v10 אַהֲרֹ֛ן|’a·hă·rōn|of Aaron|H175|N-proper-ms
 v10 תִּהְיֶ֖ה|tih·yeh|to|H1961|V-Qal-Imperf-3fs
 v10 אִ֥ישׁ|’îš|belongs equally|H376|N-ms
-v10 כְּאָחִֽיו׃פ|kə·’ā·ḥîw|...|H251|Prep-k | N-msc | 3ms
+v10 כְּאָחִֽיו׃|kə·’ā·ḥîw|...|H251|Prep-k | N-msc | 3ms
 v11 וְזֹ֥את|wə·zōṯ|Now this|H2063|Conj-w | Pro-fs
 v11 תּוֹרַ֖ת|tō·w·raṯ|is the law|H8451|N-fsc
-v11 זֶ֣בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v11 זֶ֣בַח|ze·ḇaḥ|...|H2077|N-msc
 v11 הַשְּׁלָמִ֑ים|haš·šə·lā·mîm|of the peace offering|H8002|Art | N-mp
 v11 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v11 יַקְרִ֖יב|yaq·rîḇ|one may present|H7126|V-Hifil-Imperf-3ms
@@ -149,7 +149,7 @@ v13 חָמֵ֔ץ|ḥā·mêṣ|of leavened|H2557|N-ms
 v13 יַקְרִ֖יב|yaq·rîḇ|he is to present|H7126|V-Hifil-Imperf-3ms
 v13 קָרְבָּנ֑וֹ|qā·rə·bā·nōw|an offering|H7133|N-msc | 3ms
 v13 עַל־|‘al-|with|H5921|Prep
-v13 זֶ֖בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v13 זֶ֖בַח|ze·ḇaḥ|...|H2077|N-msc
 v13 תּוֹדַ֥ת|tō·w·ḏaṯ|of thanksgiving|H8426|N-fsc
 v13 שְׁלָמָֽיו׃|šə·lā·māw|his peace offering|H8002|N-mpc | 3ms
 v14 וְהִקְרִ֨יב|wə·hiq·rîḇ|the cakes he must present|H7126|Conj-w | V-Hifil-ConjPerf-3ms
@@ -198,13 +198,13 @@ v17 מִבְּשַׂ֣ר|mib·bə·śar|But any meat|H1320|Prep-m | N-msc
 v17 הַזָּ֑בַח|haz·zā·ḇaḥ|of the sacrifice|H2077|Art | N-ms
 v17 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v17 הַשְּׁלִישִׁ֔י|haš·šə·lî·šî|until the third|H7992|Art | Number-oms
-v17 בָּאֵ֖שׁ|bā·’êš|vvv|H784|Prep-b, Art | N-cs
+v17 בָּאֵ֖שׁ|bā·’êš|...|H784|Prep-b, Art | N-cs
 v17 יִשָּׂרֵֽף׃|yiś·śā·rêp̄|must be burned up|H8313|V-Nifal-Imperf-3ms
 v18 וְאִ֣ם|wə·’im|If|H518|Conj
 v18 הֵאָכֹ֣ל|hê·’ā·ḵōl|any of|H398|V-Nifal-InfAbs
 v18 יֵ֠אָכֵל|yê·’ā·ḵêl|is eaten|H398|V-Nifal-Imperf-3ms
 v18 מִבְּשַׂר־|mib·bə·śar-|the meat|H1320|Prep-m | N-msc
-v18 זֶ֨בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v18 זֶ֨בַח|ze·ḇaḥ|...|H2077|N-msc
 v18 שְׁלָמָ֜יו|šə·lā·māw|from his peace offering|H8002|N-mpc | 3ms
 v18 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v18 הַשְּׁלִישִׁי֮|haš·šə·lî·šî|on the third|H7992|Art | Number-oms
@@ -229,7 +229,7 @@ v19 בְּכָל־|bə·ḵāl|anything|H3605|Prep-b | N-msc
 v19 טָמֵא֙|ṭā·mê|unclean|H2931|Adj-ms
 v19 לֹ֣א|lō|must not|H3808|Adv-NegPrt
 v19 יֵֽאָכֵ֔ל|yê·’ā·ḵêl|be eaten|H398|V-Nifal-Imperf-3ms
-v19 בָּאֵ֖שׁ|bā·’êš|vvv|H784|Prep-b, Art | N-cs
+v19 בָּאֵ֖שׁ|bā·’êš|...|H784|Prep-b, Art | N-cs
 v19 יִשָּׂרֵ֑ף|yiś·śā·rêp̄|it is to be burned up|H8313|V-Nifal-Imperf-3ms
 v19 וְהַ֨בָּשָׂ֔ר|wə·hab·bā·śār|any other meat|H1320|Conj-w, Art | N-ms
 v19 כָּל־|kāl-|anyone|H3605|N-msc
@@ -240,7 +240,7 @@ v20 וְהַנֶּ֜פֶשׁ|wə·han·ne·p̄eš|But if anyone|H5315|Conj-w, Ar
 v20 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
 v20 תֹּאכַ֣ל|tō·ḵal|eats|H398|V-Qal-Imperf-3fs
 v20 בָּשָׂ֗ר|bā·śār|meat|H1320|N-ms
-v20 מִזֶּ֤בַח|miz·ze·ḇaḥ|vvv|H2077|Prep-m | N-msc
+v20 מִזֶּ֤בַח|miz·ze·ḇaḥ|...|H2077|Prep-m | N-msc
 v20 הַשְּׁלָמִים֙|haš·šə·lā·mîm|from the peace offering|H8002|Art | N-mp
 v20 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v20 לַיהוָ֔ה|Yah·weh|belongs to the LORD|H3068|Prep-l | N-proper-ms
@@ -266,14 +266,14 @@ v21 שֶׁ֣קֶץ|še·qeṣ|detestable thing|H8263|N-ms
 v21 טָמֵ֔א|ṭā·mê|unclean|H2931|Adj-ms
 v21 וְאָכַ֛ל|wə·’ā·ḵal|and then eats|H398|Conj-w | V-Qal-ConjPerf-3ms
 v21 מִבְּשַׂר־|mib·bə·śar-|any of the meat|H1320|Prep-m | N-msc
-v21 זֶ֥בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v21 זֶ֥בַח|ze·ḇaḥ|...|H2077|N-msc
 v21 הַשְּׁלָמִ֖ים|haš·šə·lā·mîm|of the peace offering|H8002|Art | N-mp
 v21 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v21 לַיהוָ֑ה|Yah·weh|belongs to the LORD|H3068|Prep-l | N-proper-ms
 v21 וְנִכְרְתָ֛ה|wə·niḵ·rə·ṯāh|must be cut off|H3772|Conj-w | V-Nifal-ConjPerf-3fs
 v21 הַנֶּ֥פֶשׁ|han·ne·p̄eš|person|H5315|Art | N-fs
 v21 הַהִ֖וא|ha·hi·w|that|H1931|Art | Pro-3fs
-v21 מֵעַמֶּֽיהָ׃פ|mê·‘am·me·hā|from his people|H5971|Prep-m | N-mpc | 3fs
+v21 מֵעַמֶּֽיהָ׃|mê·‘am·me·hā|from his people|H5971|Prep-m | N-mpc | 3fs
 v22 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v22 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v22 אֶל־|’el-|to|H413|Prep
@@ -309,14 +309,14 @@ v25 מִן־|min-|from which|H4480|Prep
 v25 הַ֨בְּהֵמָ֔ה|hab·bə·hê·māh|of an animal|H929|Art | N-fs
 v25 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v25 יַקְרִ֥יב|yaq·rîḇ|may be presented|H7126|V-Hifil-Imperf-3ms
-v25 מִמֶּ֛נָּה|mim·men·nāh||H4480|Prep | 3fs
+v25 מִמֶּ֛נָּה|mim·men·nāh|-|H4480|Prep | 3fs
 v25 אִשֶּׁ֖ה|’iš·šeh|a food offering|H801|N-ms
 v25 לַיהוָ֑ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v25 וְנִכְרְתָ֛ה|wə·niḵ·rə·ṯāh|must be cut off|H3772|Conj-w | V-Nifal-ConjPerf-3fs
 v25 הַנֶּ֥פֶשׁ|han·ne·p̄eš|the one|H5315|Art | N-fs
 v25 הָאֹכֶ֖לֶת|hā·’ō·ḵe·leṯ|who eats it|H398|Art | V-Qal-Prtcpl-fs
 v25 מֵֽעַמֶּֽיהָ׃|mê·‘am·me·hā|from his people|H5971|Prep-m | N-mpc | 3fs
-v26 וְכָל־|wə·ḵāl||H3605|Conj-w | N-msc
+v26 וְכָל־|wə·ḵāl|-|H3605|Conj-w | N-msc
 v26 דָּם֙|dām|the blood|H1818|N-ms
 v26 לֹ֣א|lō|You must not|H3808|Adv-NegPrt
 v26 תֹאכְל֔וּ|ṯō·ḵə·lū|eat|H398|V-Qal-Imperf-2mp
@@ -333,7 +333,7 @@ v27 דָּ֑ם|dām|blood|H1818|N-ms
 v27 וְנִכְרְתָ֛ה|wə·niḵ·rə·ṯāh|must be cut off|H3772|Conj-w | V-Nifal-ConjPerf-3fs
 v27 הַנֶּ֥פֶשׁ|han·ne·p̄eš|person|H5315|Art | N-fs
 v27 הַהִ֖וא|ha·hi·w|that|H1931|Art | Pro-3fs
-v27 מֵֽעַמֶּֽיהָ׃פ|mê·‘am·me·hā|from his people|H5971|Prep-m | N-mpc | 3fs
+v27 מֵֽעַמֶּֽיהָ׃|mê·‘am·me·hā|from his people|H5971|Prep-m | N-mpc | 3fs
 v28 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v28 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v28 אֶל־|’el-|to|H413|Prep
@@ -346,7 +346,7 @@ v29 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v29 לֵאמֹ֑ר|lê·mōr|[and] say|H559|Prep-l | V-Qal-Inf
 v29 הַמַּקְרִ֞יב|ham·maq·rîḇ|Anyone who presents|H7126|Art | V-Hifil-Prtcpl-ms
 v29 אֶת־|’eṯ-|-|H853|DirObjM
-v29 זֶ֤בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v29 זֶ֤בַח|ze·ḇaḥ|...|H2077|N-msc
 v29 שְׁלָמָיו֙|šə·lā·māw|a peace offering|H8002|N-mpc | 3ms
 v29 לַיהוָ֔ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v29 יָבִ֧יא|yā·ḇî|must bring|H935|V-Hifil-Imperf-3ms
@@ -387,7 +387,7 @@ v32 הַיָּמִ֔ין|hay·yā·mîn|the right|H3225|Art | N-fs
 v32 תִּתְּנ֥וּ|tit·tə·nū|you are to give|H5414|V-Qal-Imperf-2mp
 v32 תְרוּמָ֖ה|ṯə·rū·māh|as a contribution|H8641|N-fs
 v32 לַכֹּהֵ֑ן|lak·kō·hên|to the priest|H3548|Prep-l, Art | N-ms
-v32 מִזִּבְחֵ֖י|miz·ziḇ·ḥê|vvv|H2077|Prep-m | N-mpc
+v32 מִזִּבְחֵ֖י|miz·ziḇ·ḥê|...|H2077|Prep-m | N-mpc
 v32 שַׁלְמֵיכֶֽם׃|šal·mê·ḵem|from your peace offering|H8002|N-mpc | 2mp
 v33 הַמַּקְרִ֞יב|ham·maq·rîḇ|who presents|H7126|Art | V-Hifil-Prtcpl-ms
 v33 אֶת־|’eṯ-|-|H853|DirObjM
@@ -397,7 +397,7 @@ v33 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v33 הַחֵ֖לֶב|ha·ḥê·leḇ|fat|H2459|Art | N-ms
 v33 מִבְּנֵ֣י|mib·bə·nê|The son|H1121|Prep-m | N-mpc
 v33 אַהֲרֹ֑ן|’a·hă·rōn|of Aaron|H175|N-proper-ms
-v33 ל֧וֹ|lōw||H0|Prep | 3ms
+v33 ל֧וֹ|lōw|-|H0|Prep | 3ms
 v33 תִהְיֶ֛ה|ṯih·yeh|shall have|H1961|V-Qal-Imperf-3fs
 v33 שׁ֥וֹק|šō·wq|thigh|H7785|N-fsc
 v33 הַיָּמִ֖ין|hay·yā·mîn|the right|H3225|Art | N-fs
@@ -413,7 +413,7 @@ v34 לָקַ֙חְתִּי֙|lā·qaḥ·tî|I have taken|H3947|V-Qal-Perf-1cs
 v34 מֵאֵ֣ת|mê·’êṯ|-|H854|Prep-m | DirObjM
 v34 בְּנֵֽי־|bə·nê-|from the sons|H1121|N-mpc
 v34 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v34 מִזִּבְחֵ֖י|miz·ziḇ·ḥê|vvv|H2077|Prep-m | N-mpc
+v34 מִזִּבְחֵ֖י|miz·ziḇ·ḥê|...|H2077|Prep-m | N-mpc
 v34 שַׁלְמֵיהֶ֑ם|šal·mê·hem|of their peace offerings|H8002|N-mpc | 3mp
 v34 וָאֶתֵּ֣ן|wā·’et·tên|and I have given|H5414|Conj-w | V-Qal-ConsecImperf-1cs
 v34 אֹ֠תָם|’ō·ṯām|them|H853|DirObjM | 3mp
@@ -458,7 +458,7 @@ v37 לַמִּנְחָ֔ה|lam·min·ḥāh|the grain offering|H4503|Prep-l, Art
 v37 וְלַֽחַטָּ֖את|wə·la·ḥaṭ·ṭāṯ|the sin offering|H2403|Conj-w, Prep-l, Art | N-fs
 v37 וְלָאָשָׁ֑ם|wə·lā·’ā·šām|the guilt offering|H817|Conj-w, Prep-l, Art | N-ms
 v37 וְלַ֨מִּלּוּאִ֔ים|wə·lam·mil·lū·’îm|the ordination offering|H4394|Conj-w, Prep-l, Art | N-mp
-v37 וּלְזֶ֖בַח|ū·lə·ze·ḇaḥ|vvv|H2077|Conj-w, Prep-l | N-msc
+v37 וּלְזֶ֖בַח|ū·lə·ze·ḇaḥ|...|H2077|Conj-w, Prep-l | N-msc
 v37 הַשְּׁלָמִֽים׃|haš·šə·lā·mîm|and the peace offering|H8002|Art | N-mp
 v38 אֲשֶׁ֨ר|’ă·šer|which|H834|Pro-r
 v38 צִוָּ֧ה|ṣiw·wāh|gave|H6680|V-Piel-Perf-3ms
@@ -477,4 +477,4 @@ v38 אֶת־|’eṯ-|-|H853|DirObjM
 v38 קָרְבְּנֵיהֶ֛ם|qā·rə·bə·nê·hem|their offerings|H7133|N-mpc | 3mp
 v38 לַיהוָ֖ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v38 בְּמִדְבַּ֥ר|bə·miḏ·bar|in the Wilderness|H4057|Prep-b | N-msc
-v38 סִינָֽי׃פ|sî·nāy|of Sinai|H5514|N-proper-fs
+v38 סִינָֽי׃|sî·nāy|of Sinai|H5514|N-proper-fs

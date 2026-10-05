@@ -49,7 +49,7 @@ v4 Ἰησοῦ|Iēsou|Jesus|G2424|N-DMS
 v4 καὶ|kai|and|G2532|Conj
 v4 τὴν|tēn|-|G3588|Art-AFS
 v4 ἀγάπην|agapēn|love|G26|N-AFS
-v4 ἣν|hēn|vvv|G3739|RelPro-AFS
+v4 ἣν|hēn|...|G3739|RelPro-AFS
 v4 ἔχετε|echete|your|G2192|V-PIA-2P
 v4 εἰς|eis|for|G1519|Prep
 v4 πάντας|pantas|all|G3956|Adj-AMP
@@ -101,7 +101,7 @@ v6 τὴν|tēn|the|G3588|Art-AFS
 v6 χάριν|charin|grace|G5485|N-AFS
 v6 τοῦ|tou|-|G3588|Art-GMS
 v6 Θεοῦ|Theou|of God|G2316|N-GMS
-v6 ἐν|en|vvv|G1722|Prep
+v6 ἐν|en|...|G1722|Prep
 v6 ἀληθείᾳ|alētheia|truly|G225|N-DFS
 v7 καθὼς|kathōs|-|G2531|Adv
 v7 ἐμάθετε|emathete|You learned [it]|G3129|V-AIA-2P
@@ -197,8 +197,8 @@ v12 Πατρὶ|Patri|Father|G3962|N-DMS
 v12 τῷ|tō|who|G3588|Art-DMS
 v12 ἱκανώσαντι|hikanōsanti|has qualified|G2427|V-APA-DMS
 v12 ὑμᾶς|hymas|you|G4771|PPro-A2P
-v12 εἰς|eis|vvv|G1519|Prep
-v12 τὴν|tēn|vvv|G3588|Art-AFS
+v12 εἰς|eis|...|G1519|Prep
+v12 τὴν|tēn|...|G3588|Art-AFS
 v12 μερίδα|merida|to share|G3310|N-AFS
 v12 τοῦ|tou|in the|G3588|Art-GMS
 v12 κλήρου|klērou|inheritance|G2819|N-GMS
@@ -367,7 +367,7 @@ v22 ἀποκατήλλαξεν|apokatēllaxen|He has reconciled [you]|G604|V-AI
 v22 ἐν|en|by|G1722|Prep
 v22 τῷ|tō|-|G3588|Art-DNS
 v22 σώματι|sōmati|body|G4983|N-DNS
-v22 τῆς|tēs|vvv|G3588|Art-GFS
+v22 τῆς|tēs|...|G3588|Art-GFS
 v22 σαρκὸς|sarkos|physical|G4561|N-GFS
 v22 αὐτοῦ|autou|[Christ's]|G846|PPro-GM3S
 v22 διὰ|dia|through|G1223|Prep
@@ -471,7 +471,7 @@ v26 καὶ|kai|and|G2532|Conj
 v26 ἀπὸ|apo|-|G575|Prep
 v26 τῶν|tōn|-|G3588|Art-GFP
 v26 γενεῶν|geneōn|generations|G1074|N-GFP
-v26 νῦν|nyn|vvv|G3568|Adv
+v26 νῦν|nyn|...|G3568|Adv
 v26 δὲ|de|but|G1161|Conj
 v26 ἐφανερώθη|ephanerōthē|is now revealed|G5319|V-AIP-3S
 v26 τοῖς|tois|to|G3588|Art-DMP
@@ -535,5 +535,5 @@ v29 τὴν|tēn|-|G3588|Art-AFS
 v29 ἐνεργουμένην|energoumenēn|working|G1754|V-PPM-AFS
 v29 ἐν|en|within|G1722|Prep
 v29 ἐμοὶ|emoi|me|G1473|PPro-D1S
-v29 ἐν|en|vvv|G1722|Prep
+v29 ἐν|en|...|G1722|Prep
 v29 δυνάμει|dynamei|powerfully|G1411|N-DFS

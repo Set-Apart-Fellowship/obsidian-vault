@@ -153,7 +153,7 @@ v13 וְהָיְתָה֙|wə·hā·yə·ṯāh|She will become|H1961|Conj-w | V-
 v13 נְוֵ֣ה|nə·wêh|a haunt|H5116|N-msc
 v13 תַנִּ֔ים|ṯan·nîm|for jackals|H8577|N-cp
 v13 חָצִ֖יר|ḥā·ṣîr|an abode|H2681|N-ms
-v13 לִבְנ֥וֹת|liḇ·nō·wṯ|vvv|H1323|Prep-l | N-fpc
+v13 לִבְנ֥וֹת|liḇ·nō·wṯ|...|H1323|Prep-l | N-fpc
 v13 יַעֲנָֽה׃|ya·‘ă·nāh|for ostriches|H3284|N-fs
 v14 וּפָגְשׁ֤וּ|ū·p̄ā·ḡə·šū|will meet|H6298|Conj-w | V-Qal-ConjPerf-3cp
 v14 צִיִּים֙|ṣî·yîm|The desert creatures|H6728|N-mp
@@ -163,7 +163,7 @@ v14 וְשָׂעִ֖יר|wə·śā·‘îr|and one wild goat|H8163|Conj-w | N-ms
 v14 עַל־|‘al-|to|H5921|Prep
 v14 רֵעֵ֣הוּ|rê·‘ê·hū|another|H7453|N-msc | 3ms
 v14 יִקְרָ֑א|yiq·rā|will call|H7121|V-Qal-Imperf-3ms
-v14 אַךְ־|’aḵ-|vvv|H389|Adv
+v14 אַךְ־|’aḵ-|...|H389|Adv
 v14 שָׁם֙|šām|There|H8033|Adv
 v14 הִרְגִּ֣יעָה|hir·gî·‘āh|will settle|H7280|V-Hifil-Perf-3fs
 v14 לִּילִ֔ית|lî·lîṯ|the night creature|H3917|N-fs
@@ -217,4 +217,4 @@ v17 יִֽירָשׁ֔וּהָ|yî·rā·šū·hā|They will possess|H3423|V-Qal
 v17 לְד֥וֹר|lə·ḏō·wr|from generation|H1755|Prep-l | N-ms
 v17 וָד֖וֹר|wā·ḏō·wr|to generation|H1755|Conj-w | N-ms
 v17 יִשְׁכְּנוּ־|yiš·kə·nū-|they will dwell|H7931|V-Qal-Imperf-3mp
-v17 בָֽהּ׃ס|ḇāh|in it|H0|Prep | 3fs
+v17 בָֽהּ׃|ḇāh|in it|H0|Prep | 3fs

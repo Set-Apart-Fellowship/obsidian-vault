@@ -10,14 +10,14 @@ v2 יִשְׂרָאֵל֒|yiś·rā·’êl|...|H3478|N-proper-ms
 v2 וְיָשֻׁ֗בוּ|wə·yā·šu·ḇū|turn back|H7725|Conj-w | V-Qal-ConjImperf-3mp
 v2 וְיַחֲנוּ֙|wə·ya·ḥă·nū|and encamp|H2583|Conj-w | V-Qal-ConjImperf-3mp
 v2 לִפְנֵי֙|lip̄·nê|before|H6440|Prep-l | N-cpc
-v2 פִּ֣י|pî|vvv|H6367|
+v2 פִּ֣י|pî|...|H6367|
 v2 הַחִירֹ֔ת|ha·ḥî·rōṯ|Pi-hahiroth|H6367|N-proper-fs
 v2 בֵּ֥ין|bên|between|H996|Prep
 v2 מִגְדֹּ֖ל|miḡ·dōl|Migdol|H4024|N-proper-fs
 v2 וּבֵ֣ין|ū·ḇên|...|H996|Conj-w | Prep
 v2 הַיָּ֑ם|hay·yām|and the sea|H3220|Art | N-ms
 v2 לִפְנֵי֙|lip̄·nê|directly opposite|H6440|Prep-l | N-cpc
-v2 בַּ֣עַל|ba·‘al|vvv|H1189|Prep
+v2 בַּ֣עַל|ba·‘al|...|H1189|Prep
 v2 צְפֹ֔ן|ṣə·p̄ōn|Baal-zephon|H1189|N-proper-fs
 v2 נִכְח֥וֹ|niḵ·ḥōw|...|H5227|Prep | 3ms
 v2 תַחֲנ֖וּ|ṯa·ḥă·nū|You are to encamp|H2583|V-Qal-Imperf-2mp
@@ -25,7 +25,7 @@ v2 עַל־|‘al-|by|H5921|Prep
 v2 הַיָּֽם׃|hay·yām|the sea|H3220|Art | N-ms
 v3 וְאָמַ֤ר|wə·’ā·mar|will say|H559|Conj-w | V-Qal-ConjPerf-3ms
 v3 פַּרְעֹה֙|par·‘ōh|For Pharaoh|H6547|N-proper-ms
-v3 לִבְנֵ֣י|liḇ·nê|vvv|H1121|Prep-l | N-mpc
+v3 לִבְנֵ֣י|liḇ·nê|...|H1121|Prep-l | N-mpc
 v3 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v3 נְבֻכִ֥ים|nə·ḇu·ḵîm|in confusion|H943|V-Nifal-Prtcpl-mp
 v3 הֵ֖ם|hêm|They|H1992|Pro-3mp
@@ -120,10 +120,10 @@ v9 פַּרְעֹ֔ה|par·‘ōh|Pharaoh's|H6547|N-proper-ms
 v9 וּפָרָשָׁ֖יו|ū·p̄ā·rā·šāw|horsemen|H6571|Conj-w | N-mpc | 3ms
 v9 וְחֵיל֑וֹ|wə·ḥê·lōw|and troops|H2428|Conj-w | N-msc | 3ms
 v9 עַל־|‘al-|near|H5921|Prep
-v9 פִּי֙|pî|vvv|H6367|
+v9 פִּי֙|pî|...|H6367|
 v9 הַֽחִירֹ֔ת|ha·ḥî·rōṯ|Pi-hahiroth|H6367|N-proper-fs
 v9 לִפְנֵ֖י|lip̄·nê|opposite|H6440|Prep-l | N-cpc
-v9 בַּ֥עַל|ba·‘al|vvv|H1189|Prep
+v9 בַּ֥עַל|ba·‘al|...|H1189|Prep
 v9 צְפֹֽן׃|ṣə·p̄ōn|Baal-zephon|H1189|N-proper-fs
 v10 וּפַרְעֹ֖ה|ū·p̄ar·‘ōh|As Pharaoh|H6547|Conj-w | N-proper-ms
 v10 הִקְרִ֑יב|hiq·rîḇ|approached|H7126|V-Hifil-Perf-3ms
@@ -211,7 +211,7 @@ v14 יְהוָ֖ה|Yah·weh|The LORD|H3068|N-proper-ms
 v14 יִלָּחֵ֣ם|yil·lā·ḥêm|will fight|H3898|V-Nifal-Imperf-3ms
 v14 לָכֶ֑ם|lā·ḵem|for you|H0|Prep | 2mp
 v14 וְאַתֶּ֖ם|wə·’at·tem|you|H859|Conj-w | Pro-2mp
-v14 תַּחֲרִישֽׁוּן׃פ|ta·ḥă·rî·šūn|need only to be still|H2790|V-Hifil-Imperf-2mp | Pn
+v14 תַּחֲרִישֽׁוּן׃|ta·ḥă·rî·šūn|need only to be still|H2790|V-Hifil-Imperf-2mp | Pn
 v15 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v15 אֶל־|’el-|to|H413|Prep
@@ -372,7 +372,7 @@ v25 כִּ֣י|kî|for|H3588|Conj
 v25 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v25 נִלְחָ֥ם|nil·ḥām|is fighting|H3898|V-Nifal-Prtcpl-ms
 v25 לָהֶ֖ם|lā·hem|for them|H0|Prep | 3mp
-v25 בְּמִצְרָֽיִם׃פ|bə·miṣ·rå̄·yim|against Egypt|H4714|Prep-b | N-proper-fs
+v25 בְּמִצְרָֽיִם׃|bə·miṣ·rå̄·yim|against Egypt|H4714|Prep-b | N-proper-fs
 v26 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v26 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v26 אֶל־|’el-|to|H413|Prep
@@ -471,4 +471,4 @@ v31 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v31 וַיַּֽאֲמִ֙ינוּ֙|way·ya·’ă·mî·nū|and believed|H539|Conj-w | V-Hifil-ConsecImperf-3mp
 v31 בַּֽיהוָ֔ה|Yah·weh|in Him|H3068|Prep-b | N-proper-ms
 v31 וּבְמֹשֶׁ֖ה|ū·ḇə·mō·šeh|Moses|H4872|Conj-w, Prep-b | N-proper-ms
-v31 עַבְדּֽוֹ׃פ|‘aḇ·dōw|and in His servant|H5650|N-msc | 3ms
+v31 עַבְדּֽוֹ׃|‘aḇ·dōw|and in His servant|H5650|N-msc | 3ms

@@ -102,14 +102,14 @@ v7 וְיִקְצ֖וּ|wə·yiq·ṣū|awaken|H3364|Conj-w | V-Qal-ConjImperf-3
 v7 מְזַעְזְעֶ֑יךָ|mə·za‘·zə·‘e·ḵā|and those who disturb you|H2111|V-Piel-Prtcpl-mpc | 2ms
 v7 וְהָיִ֥יתָ|wə·hā·yî·ṯā|Then you will become|H1961|Conj-w | V-Qal-ConjPerf-2ms
 v7 לִמְשִׁסּ֖וֹת|lim·šis·sō·wṯ|their prey|H4933|Prep-l | N-fp
-v7 לָֽמוֹ׃|lā·mōw||H0|Prep | 3mp
+v7 לָֽמוֹ׃|lā·mōw|-|H0|Prep | 3mp
 v8 כִּֽי|kī|Because|H3588|Conj
 v8 אַתָּ֤ה|’at·tāh|you|H859|Pro-2ms
 v8 שַׁלּ֙וֹתָ֙|šal·lō·w·ṯā|have plundered|H7997|V-Qal-Perf-2ms
 v8 גּוֹיִ֣ם|gō·w·yim|nations|H1471|N-mp
 v8 רַבִּ֔ים|rab·bîm|many|H7227|Adj-mp
 v8 יְשָׁלּ֖וּךָ|yə·šāl·lū·ḵā|will plunder you|H7997|V-Qal-Imperf-3mp | 2ms
-v8 כָּל־|kāl-|vvv|H3605|N-msc
+v8 כָּל־|kāl-|...|H3605|N-msc
 v8 יֶ֣תֶר|ye·ṯer|the remnant|H3499|N-msc
 v8 עַמִּ֑ים|‘am·mîm|of the people|H5971|N-mp
 v8 מִדְּמֵ֤י|mid·də·mê|because of your bloodshed|H1818|Prep-m | N-mpc
@@ -119,7 +119,7 @@ v8 אֶ֔רֶץ|’e·reṣ|against the land|H776|N-fs
 v8 קִרְיָ֖ה|qir·yāh|the city|H7151|N-fs
 v8 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v8 יֹ֥שְׁבֵי|yō·šə·ḇê|their dwellers|H3427|V-Qal-Prtcpl-mpc
-v8 בָֽהּ׃פ|ḇāh|...|H0|Prep | 3fs
+v8 בָֽהּ׃|ḇāh|...|H0|Prep | 3fs
 v9 ה֗וֹי|hō·w|Woe|H1945|Interjection
 v9 בֹּצֵ֛עַ|bō·ṣê·a‘|to him who builds|H1214|V-Qal-Prtcpl-ms
 v9 בֶּ֥צַע|be·ṣa‘|gain|H1215|N-ms
@@ -145,7 +145,7 @@ v11 מִקִּ֣יר|miq·qîr|from the wall|H7023|Prep-m | N-ms
 v11 תִּזְעָ֑ק|tiz·‘āq|will cry out|H2199|V-Qal-Imperf-3fs
 v11 וְכָפִ֖יס|wə·ḵā·p̄îs|and the rafters|H3714|Conj-w | N-ms
 v11 מֵעֵ֥ץ|mê·‘êṣ|from the woodwork|H6086|Prep-m | N-ms
-v11 יַעֲנֶֽנָּה׃פ|ya·‘ă·nen·nāh|will echo it|H6030|V-Qal-Imperf-3ms | 3fs
+v11 יַעֲנֶֽנָּה׃|ya·‘ă·nen·nāh|will echo it|H6030|V-Qal-Imperf-3ms | 3fs
 v12 ה֛וֹי|hō·w|Woe|H1945|Interjection
 v12 בֹּנֶ֥ה|bō·neh|to him who builds|H1129|V-Qal-Prtcpl-ms
 v12 עִ֖יר|‘îr|a city|H5892|N-fs
@@ -176,7 +176,7 @@ v14 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v14 כַּמַּ֖יִם|kam·ma·yim|as the waters|H4325|Prep-k, Art | N-mp
 v14 יְכַסּ֥וּ|yə·ḵas·sū|cover|H3680|V-Piel-Imperf-3mp
 v14 עַל־|‘al-|...|H5921|Prep
-v14 יָֽם׃ס|yām|the sea|H3220|N-ms
+v14 יָֽם׃|yām|the sea|H3220|N-ms
 v15 ה֚וֹי|hō·w|Woe|H1945|Interjection
 v15 מַשְׁקֵ֣ה|maš·qêh|to him who gives drink|H8248|V-Hifil-Prtcpl-msc
 v15 רֵעֵ֔הוּ|rê·‘ê·hū|to his neighbors|H7453|N-msc | 3ms
@@ -217,7 +217,7 @@ v17 אֶ֔רֶץ|’e·reṣ|against the land|H776|N-fs
 v17 קִרְיָ֖ה|qir·yāh|the city|H7151|N-fs
 v17 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v17 יֹ֥שְׁבֵי|yō·šə·ḇê|their dwellers|H3427|V-Qal-Prtcpl-mpc
-v17 בָֽהּ׃ס|ḇāh|...|H0|Prep | 3fs
+v17 בָֽהּ׃|ḇāh|...|H0|Prep | 3fs
 v18 מָֽה־|māh-|What|H4100|Interrog
 v18 הוֹעִ֣יל|hō·w·‘îl|use|H3276|V-Hifil-Perf-3ms
 v18 פֶּ֗סֶל|pe·sel|is an idol|H6459|N-ms
@@ -234,7 +234,7 @@ v18 יִצְרוֹ֙|yiṣ·rōw|in his own creation|H3336|N-msc | 3ms
 v18 עָלָ֔יו|‘ā·lāw|...|H5921|Prep | 3ms
 v18 לַעֲשׂ֖וֹת|la·‘ă·śō·wṯ|he makes|H6213|Prep-l | V-Qal-Inf
 v18 אֱלִילִ֥ים|’ĕ·lî·lîm|idols|H457|N-mp
-v18 אִלְּמִֽים׃ס|’il·lə·mîm|that cannot speak|H483|Adj-mp
+v18 אִלְּמִֽים׃|’il·lə·mîm|that cannot speak|H483|Adj-mp
 v19 ה֣וֹי|hō·w|Woe|H1945|Interjection
 v19 אֹמֵ֤ר|’ō·mêr|to him who says|H559|V-Qal-Prtcpl-ms
 v19 לָעֵץ֙|lā·‘êṣ|to wood|H6086|Prep-l, Art | N-ms
@@ -259,4 +259,4 @@ v20 קָדְשׁ֑וֹ|qā·ḏə·šōw|is in His holy|H6944|N-msc | 3ms
 v20 הַ֥ס|has|be silent|H2013|Interjection
 v20 מִפָּנָ֖יו|mip·pā·nāw|before Him|H6440|Prep-m | N-cpc | 3ms
 v20 כָּל־|kāl-|let all|H3605|N-msc
-v20 הָאָֽרֶץ׃פ|hā·’ā·reṣ|the earth|H776|Art | N-fs
+v20 הָאָֽרֶץ׃|hā·’ā·reṣ|the earth|H776|Art | N-fs

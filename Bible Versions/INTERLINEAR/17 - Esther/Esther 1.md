@@ -107,8 +107,8 @@ v8 וְהַשְּׁתִיָּ֥ה|wə·haš·šə·ṯî·yāh|on the drinking|H
 v8 כַדָּ֖ת|ḵad·dāṯ|By|H1881|Prep-k, Art | N-fs
 v8 אֵ֣ין|’ên|no|H369|Adv
 v8 אֹנֵ֑ס|’ō·nês|limit was placed|H597|V-Qal-Prtcpl-ms
-v8 כִּי־|kî-||H3588|Conj
-v8 כֵ֣ן׀|ḵên||H3651|Adv
+v8 כִּי־|kî-|-|H3588|Conj
+v8 כֵ֣ן׀|ḵên|-|H3651|Adv
 v8 יִסַּ֣ד|yis·saḏ|order|H3245|V-Piel-Perf-3ms
 v8 הַמֶּ֗לֶךְ|ham·me·leḵ|of the king|H4428|Art | N-ms
 v8 עַ֚ל|‘al|...|H5921|Prep
@@ -129,7 +129,7 @@ v9 בֵּ֚ית|bêṯ|palace|H1004|N-msc
 v9 הַמַּלְכ֔וּת|ham·mal·ḵūṯ|in the royal|H4438|Art | N-fs
 v9 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v9 לַמֶּ֥לֶךְ|lam·me·leḵ|of King|H4428|Prep-l, Art | N-ms
-v9 אֲחַשְׁוֵרֽוֹשׁ׃ס|’ă·ḥaš·wê·rō·wōš|Xerxes|H325|N-proper-ms
+v9 אֲחַשְׁוֵרֽוֹשׁ׃|’ă·ḥaš·wê·rō·wōš|Xerxes|H325|N-proper-ms
 v10 בַּיּוֹם֙|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v10 הַשְּׁבִיעִ֔י|haš·šə·ḇî·‘î|On the seventh|H7637|Art | Number-oms
 v10 כְּט֥וֹב|kə·ṭō·wḇ|was merry|H2895|Prep-k | V-Qal-Inf
@@ -198,7 +198,7 @@ v13 יֹדְעֵ֖י|yō·ḏə·‘ê|the experts|H3045|V-Qal-Prtcpl-mpc
 v13 דָּ֥ת|dāṯ|in law|H1881|N-fs
 v13 וָדִֽין׃|wā·ḏîn|and justice|H1779|Conj-w | N-ms
 v14 וְהַקָּרֹ֣ב|wə·haq·qā·rōḇ|His closest advisors [were]|H7138|Conj-w, Art | Adj-ms
-v14 אֵלָ֗יו|ʾē·lå̄w||H413|Prep | 3ms
+v14 אֵלָ֗יו|ʾē·lå̄w|-|H413|Prep | 3ms
 v14 כַּרְשְׁנָ֤א|kar·šə·nā|Carshena|H3771|N-proper-ms
 v14 שֵׁתָר֙|šê·ṯār|Shethar|H8369|N-proper-ms
 v14 אַדְמָ֣תָא|’aḏ·mā·ṯā|Admatha|H133|N-proper-ms
@@ -230,7 +230,7 @@ v15 מַאֲמַר֙|ma·’ă·mar|the command|H3982|N-msc
 v15 הַמֶּ֣לֶךְ|ham·me·leḵ|of King|H4428|Art | N-ms
 v15 אֲחַשְׁוֵר֔וֹשׁ|’ă·ḥaš·wê·rō·wōš|Xerxes|H325|N-proper-ms
 v15 בְּיַ֖ד|bə·yaḏ|delivered by|H3027|Prep-b | N-fsc
-v15 הַסָּרִיסִֽים׃ס|has·sā·rî·sîm|the eunuchs|H5631|Art | N-mp
+v15 הַסָּרִיסִֽים׃|has·sā·rî·sîm|the eunuchs|H5631|Art | N-mp
 v16 וַיֹּ֣אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v16 מוּמְכָן|mū·mə·ḵå̄n|Memucan|H4462|N-proper-ms
 v16 לִפְנֵ֤י|lip̄·nê|And in the presence|H6440|Prep-l | N-cpc
@@ -368,4 +368,4 @@ v22 שֹׂרֵ֣ר|śō·rêr|master|H8323|V-Qal-Prtcpl-ms
 v22 בְּבֵית֔וֹ|bə·ḇê·ṯōw|of his own household|H1004|Prep-b | N-msc | 3ms
 v22 וּמְדַבֵּ֖ר|ū·mə·ḏab·bêr|proclaiming|H1696|Conj-w | V-Piel-Prtcpl-ms
 v22 כִּלְשׁ֥וֹן|kil·šō·wn|-|H3956|Prep-k | N-csc
-v22 עַמּֽוֹ׃פ|‘am·mōw|-|H5971|N-msc | 3ms
+v22 עַמּֽוֹ׃|‘am·mōw|-|H5971|N-msc | 3ms

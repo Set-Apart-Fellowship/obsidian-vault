@@ -23,7 +23,7 @@ v1 עַל־|‘al-|...|H5921|Prep
 v1 רַבָּ֑ה|rab·bāh|Rabbah|H7237|N-proper-fs
 v1 וְדָוִ֖ד|wə·ḏā·wiḏ|but David|H1732|Conj-w | N-proper-ms
 v1 יוֹשֵׁ֥ב|yō·wō·šêḇ|remained|H3427|V-Qal-Prtcpl-ms
-v1 בִּירוּשָׁלִָֽם׃ס|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
+v1 בִּירוּשָׁלִָֽם׃|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v2 וַיְהִ֣י׀|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v2 לְעֵ֣ת|lə·‘êṯ|-|H6256|Prep-l | N-csc
 v2 הָעֶ֗רֶב|hā·‘e·reḇ|One evening|H6153|Art | N-ms
@@ -52,7 +52,7 @@ v3 לָֽאִשָּׁ֑ה|lā·’iš·šāh|about the woman|H802|Prep-l, Art | 
 v3 וַיֹּ֗אמֶר|way·yō·mer|and he was told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v3 הֲלוֹא־|hă·lō·w-|...|H3808|Adv-NegPrt
 v3 זֹאת֙|zōṯ|This|H2063|Pro-fs
-v3 בַּת־|baṯ-|vvv|H1339|Prep
+v3 בַּת־|baṯ-|...|H1339|Prep
 v3 שֶׁ֣בַע|še·ḇa‘|is Bathsheba|H1339|N-proper-fs
 v3 בַּת־|baṯ-|the daughter|H1323|N-fsc
 v3 אֱלִיעָ֔ם|’ĕ·lî·‘ām|of Eliam|H463|N-proper-ms
@@ -137,7 +137,7 @@ v9 אֶל־|’el-|to|H413|Prep
 v9 בֵּיתֽוֹ׃|bê·ṯōw|his house|H1004|N-msc | 3ms
 v10 וַיַּגִּ֤דוּ|way·yag·gi·ḏū|was told|H5046|Conj-w | V-Hifil-ConsecImperf-3mp
 v10 לְדָוִד֙|lə·ḏā·wiḏ|And David|H1732|Prep-l | N-proper-ms
-v10 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v10 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v10 לֹֽא־|lō-|did not|H3808|Adv-NegPrt
 v10 יָרַ֥ד|yā·raḏ|go|H3381|V-Qal-Perf-3ms
 v10 אוּרִיָּ֖ה|’ū·rî·yāh|Uriah|H223|N-proper-ms
@@ -248,7 +248,7 @@ v15 הַֽחֲזָקָ֔ה|ha·ḥă·zā·qāh|of the fiercest|H2389|Art | Adj
 v15 וְשַׁבְתֶּ֥ם|wə·šaḇ·tem|then withdraw|H7725|Conj-w | V-Qal-ConjPerf-2mp
 v15 מֵאַחֲרָ֖יו|mê·’a·ḥă·rāw|from him|H310|Prep-m | 3ms
 v15 וְנִכָּ֥ה|wə·nik·kāh|so that he may be struck down|H5221|Conj-w | V-Nifal-ConjPerf-3ms
-v15 וָמֵֽת׃ס|wā·mêṯ|and killed|H4191|Conj-w | V-Qal-ConjPerf-3ms
+v15 וָמֵֽת׃|wā·mêṯ|and killed|H4191|Conj-w | V-Qal-ConjPerf-3ms
 v16 וַיְהִ֕י|way·hî|So as|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v16 בִּשְׁמ֥וֹר|biš·mō·wr|besieged|H8104|Prep-b | V-Qal-Inf
 v16 יוֹאָ֖ב|yō·w·’āḇ|Joab|H3097|N-proper-ms
@@ -273,7 +273,7 @@ v17 אֶת־|’eṯ-|against|H854|Prep
 v17 יוֹאָ֔ב|yō·w·’āḇ|Joab|H3097|N-proper-ms
 v17 וַיִּפֹּ֥ל|way·yip·pōl|fell|H5307|Conj-w | V-Qal-ConsecImperf-3ms
 v17 מִן־|min-|some of|H4480|Prep
-v17 הָעָ֖ם|hā·‘ām|vvv|H5971|Art | N-ms
+v17 הָעָ֖ם|hā·‘ām|...|H5971|Art | N-ms
 v17 מֵעַבְדֵ֣י|mê·‘aḇ·ḏê|servants|H5650|Prep-m | N-mpc
 v17 דָוִ֑ד|ḏā·wiḏ|David's|H1732|N-proper-ms
 v17 וַיָּ֕מָת|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
@@ -384,7 +384,7 @@ v24 וְגַ֗ם|wə·ḡam|as well|H1571|Conj
 v24 עַבְדְּךָ֛|‘aḇ·də·ḵā|And your servant|H5650|N-msc | 2ms
 v24 אוּרִיָּ֥ה|’ū·rî·yāh|Uriah|H223|N-proper-ms
 v24 הַחִתִּ֖י|ha·ḥit·tî|the Hittite|H2850|Art | N-proper-ms
-v24 מֵֽת׃ס|mêṯ|is dead|H4191|V-Qal-Perf-3ms
+v24 מֵֽת׃|mêṯ|is dead|H4191|V-Qal-Perf-3ms
 v25 וַיֹּ֨אמֶר|way·yō·mer|told|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v25 דָּוִ֜ד|dā·wiḏ|Then David|H1732|N-proper-ms
 v25 אֶל־|’el-|-|H413|Prep
@@ -439,4 +439,4 @@ v27 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v27 עָשָׂ֥ה|‘ā·śāh|had done|H6213|V-Qal-Perf-3ms
 v27 דָוִ֖ד|ḏā·wiḏ|David|H1732|N-proper-ms
 v27 בְּעֵינֵ֥י|bə·‘ê·nê|in the sight|H5869|Prep-b | N-cdc
-v27 יְהוָֽה׃פ|Yah·weh|of the LORD|H3068|N-proper-ms
+v27 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms

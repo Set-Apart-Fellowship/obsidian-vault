@@ -5,11 +5,11 @@ v1 ἐλπιζομένων|elpizomenōn|of what [we] hope for|G1679|V-PPM/P-GNP
 v1 ὑπόστασις|hypostasis|[the] assurance|G5287|N-NFS
 v1 πραγμάτων|pragmatōn|of what|G4229|N-GNP
 v1 ἔλεγχος|elenchos|[and the] certainty|G1650|N-NMS
-v1 οὐ|ou|vvv|G3756|Adv
+v1 οὐ|ou|...|G3756|Adv
 v1 βλεπομένων|blepomenōn|we do not see|G991|V-PPM/P-GNP
-v2 ἐν|en|vvv|G1722|Prep
+v2 ἐν|en|...|G1722|Prep
 v2 ταύτῃ|tautē|This is why|G3778|DPro-DFS
-v2 γὰρ|gar|vvv|G1063|Conj
+v2 γὰρ|gar|...|G1063|Conj
 v2 ἐμαρτυρήθησαν|emartyrēthēsan|were commended|G3140|V-AIP-3P
 v2 οἱ|hoi|the|G3588|Art-NMP
 v2 πρεσβύτεροι|presbyteroi|ancients|G4245|Adj-NMP
@@ -22,7 +22,7 @@ v3 ῥήματι|rhēmati|at God's command|G4487|N-DNS
 v3 Θεοῦ|Theou|...|G2316|N-GMS
 v3 εἰς|eis|so that|G1519|Prep
 v3 τὸ|to|what|G3588|Art-ANS
-v3 μὴ|mē|vvv|G3361|Adv
+v3 μὴ|mē|...|G3361|Adv
 v3 ἐκ|ek|out of|G1537|Prep
 v3 φαινομένων|phainomenōn|was visible|G5316|V-PPM/P-GNP
 v3 τὸ|to|what|G3588|Art-ANS
@@ -53,17 +53,17 @@ v4 καὶ|kai|And|G2532|Conj
 v4 δι’|di’|by|G1223|Prep
 v4 αὐτῆς|autēs|[faith]|G846|PPro-GF3S
 v4 ἀποθανὼν|apothanōn|[even though] he is dead|G599|V-APA-NMS
-v4 ἔτι|eti|vvv|G2089|Adv
+v4 ἔτι|eti|...|G2089|Adv
 v4 λαλεῖ|lalei|he still speaks|G2980|V-PIA-3S
 v5 Πίστει|Pistei|By faith|G4102|N-DFS
 v5 Ἑνὼχ|Henōch|Enoch|G1802|N-NMS
 v5 μετετέθη|metetethē|was taken up|G3346|V-AIP-3S
 v5 τοῦ|tou|[so that]|G3588|Art-GNS
-v5 μὴ|mē|vvv|G3361|Adv
+v5 μὴ|mē|...|G3361|Adv
 v5 ἰδεῖν|idein|he did not see|G3708|V-ANA
 v5 θάνατον|thanaton|death|G2288|N-AMS
 v5 καὶ|kai|-|G2532|Conj
-v5 οὐχ|ouch|vvv|G3756|Adv
+v5 οὐχ|ouch|...|G3756|Adv
 v5 ηὑρίσκετο|hēurisketo|He could not be found|G2147|V-IIM/P-3S
 v5 διότι|dioti|because|G1360|Conj
 v5 μετέθηκεν|metethēken|had taken him away|G3346|V-AIA-3S
@@ -97,7 +97,7 @@ v6 τοῖς|tois|those who|G3588|Art-DMP
 v6 ἐκζητοῦσιν|ekzētousin|earnestly seek|G1567|V-PPA-DMP
 v6 αὐτὸν|auton|Him|G846|PPro-AM3S
 v6 μισθαποδότης|misthapodotēs|He rewards|G3406|N-NMS
-v6 γίνεται|ginetai|vvv|G1096|V-PIM/P-3S
+v6 γίνεται|ginetai|...|G1096|V-PIM/P-3S
 v7 Πίστει|Pistei|By faith|G4102|N-DFS
 v7 χρηματισθεὶς|chrēmatistheis|when warned|G5537|V-APP-NMS
 v7 Νῶε|Nōe|Noah|G3575|N-NMS
@@ -259,13 +259,13 @@ v14 ἐπιζητοῦσιν|epizētousin|they are seeking|G1934|V-PIA-3P
 v15 καὶ|kai|-|G2532|Conj
 v15 εἰ|ei|If|G1487|Conj
 v15 μὲν|men|-|G3303|Conj
-v15 ἐκείνης|ekeinēs|vvv|G1565|DPro-GFS
+v15 ἐκείνης|ekeinēs|...|G1565|DPro-GFS
 v15 ἐμνημόνευον|emnēmoneuon|they had been thinking of|G3421|V-IIA-3P
-v15 ἀφ’|aph’|vvv|G575|Prep
+v15 ἀφ’|aph’|...|G575|Prep
 v15 ἧς|hēs|[the country]|G3739|RelPro-GFS
 v15 ἐξέβησαν|exebēsan|they had left|G1545|V-AIA-3P
 v15 εἶχον|eichon|they would have had|G2192|V-IIA-3P
-v15 ἂν|an|vvv|G302|Prtcl
+v15 ἂν|an|...|G302|Prtcl
 v15 καιρὸν|kairon|opportunity|G2540|N-AMS
 v15 ἀνακάμψαι|anakampsai|to return|G344|V-ANA
 v16 νῦν|nyn|...|G3568|Adv
@@ -276,7 +276,7 @@ v16 τοῦτ’|tout’|-|G3778|DPro-NNS
 v16 ἔστιν|estin|-|G1510|V-PIA-3S
 v16 ἐπουρανίου|epouraniou|a heavenly [one]|G2032|Adj-GFS
 v16 διὸ|dio|Therefore|G1352|Conj
-v16 οὐκ|ouk|vvv|G3756|Adv
+v16 οὐκ|ouk|...|G3756|Adv
 v16 ἐπαισχύνεται|epaischynetai|is not ashamed|G1870|V-PIM/P-3S
 v16 αὐτοὺς|autous|-|G846|PPro-AM3P
 v16 ὁ|ho|-|G3588|Art-NMS
@@ -360,7 +360,7 @@ v22 περὶ|peri|...|G4012|Prep
 v22 τῆς|tēs|the|G3588|Art-GFS
 v22 ἐξόδου|exodou|exodus|G1841|N-GFS
 v22 τῶν|tōn|of the|G3588|Art-GMP
-v22 υἱῶν|huiōn|vvv|G5207|N-GMP
+v22 υἱῶν|huiōn|...|G5207|N-GMP
 v22 Ἰσραὴλ|Israēl|Israelites|G2474|N-GMS
 v22 ἐμνημόνευσεν|emnēmoneusen|spoke about|G3421|V-AIA-3S
 v22 καὶ|kai|and|G2532|Conj
@@ -384,11 +384,11 @@ v23 ἀστεῖον|asteion|a beautiful|G791|Adj-ANS
 v23 τὸ|to|[that he was]|G3588|Art-ANS
 v23 παιδίον|paidion|child|G3813|N-ANS
 v23 καὶ|kai|and|G2532|Conj
-v23 οὐκ|ouk|vvv|G3756|Adv
+v23 οὐκ|ouk|...|G3756|Adv
 v23 ἐφοβήθησαν|ephobēthēsan|they were unafraid|G5399|V-AIP-3P
 v23 τὸ|to|of the|G3588|Art-ANS
 v23 διάταγμα|diatagma|edict|G1297|N-ANS
-v23 τοῦ|tou|vvv|G3588|Art-GMS
+v23 τοῦ|tou|...|G3588|Art-GMS
 v23 βασιλέως|basileōs|king's|G935|N-GMS
 v24 Πίστει|Pistei|By faith|G4102|N-DFS
 v24 Μωϋσῆς|Mōusēs|Moses|G3475|N-NMS
@@ -411,8 +411,8 @@ v25 πρόσκαιρον|proskairon|[the] fleeting|G4340|Adj-AFS
 v25 ἔχειν|echein|to experience|G2192|V-PNA
 v25 ἁμαρτίας|hamartias|of sin|G266|N-GFS
 v25 ἀπόλαυσιν|apolausin|enjoyment|G619|N-AFS
-v26 μείζονα|meizona|vvv|G3173|Adj-AMS-C
-v26 πλοῦτον|plouton|vvv|G4149|N-AMS
+v26 μείζονα|meizona|...|G3173|Adj-AMS-C
+v26 πλοῦτον|plouton|...|G4149|N-AMS
 v26 ἡγησάμενος|hēgēsamenos|He valued|G2233|V-APM-NMS
 v26 τῶν|tōn|{above} the|G3588|Art-GMP
 v26 Αἰγύπτου|Aigyptou|of Egypt|G125|N-GFS
@@ -451,7 +451,7 @@ v28 πρόσχυσιν|proschysin|sprinkling|G4378|N-AFS
 v28 τοῦ|tou|-|G3588|Art-GNS
 v28 αἵματος|haimatos|of blood|G129|N-GNS
 v28 ἵνα|hina|so that|G2443|Conj
-v28 μὴ|mē|vvv|G3361|Adv
+v28 μὴ|mē|...|G3361|Adv
 v28 ὁ|ho|the|G3588|Art-NMS
 v28 ὀλοθρεύων|olothreuōn|destroyer|G3645|V-PPA-NMS
 v28 τὰ|ta|[of] the|G3588|Art-ANP
@@ -486,7 +486,7 @@ v31 Πίστει|Pistei|By faith|G4102|N-DFS
 v31 Ῥαὰβ|Rhaab|Rahab|G4460|N-NFS
 v31 ἡ|hē|the|G3588|Art-NFS
 v31 πόρνη|pornē|prostitute|G4204|N-NFS
-v31 οὐ|ou|vvv|G3756|Adv
+v31 οὐ|ou|...|G3756|Adv
 v31 συναπώλετο|synapōleto|did not perish with|G4881|V-AIM-3S
 v31 τοῖς|tois|those who|G3588|Art-DMP
 v31 ἀπειθήσασιν|apeithēsasin|were disobedient|G544|V-APA-DMP
@@ -547,7 +547,7 @@ v34 ἔκλιναν|eklinan|[and] put|G2827|V-AIA-3P
 v34 ἀλλοτρίων|allotriōn|foreign|G245|Adj-GMP
 v35 Ἔλαβον|Elabon|received back|G2983|V-AIA-3P
 v35 γυναῖκες|gynaikes|Women|G1135|N-NFP
-v35 ἐξ|ex|vvv|G1537|Prep
+v35 ἐξ|ex|...|G1537|Prep
 v35 ἀναστάσεως|anastaseōs|raised to life again|G386|N-GFS
 v35 τοὺς|tous|-|G3588|Art-AMP
 v35 νεκροὺς|nekrous|dead|G3498|Adj-AMP
@@ -555,7 +555,7 @@ v35 αὐτῶν|autōn|their|G846|PPro-GF3P
 v35 ἄλλοι|alloi|Others|G243|Adj-NMP
 v35 δὲ|de|-|G1161|Conj
 v35 ἐτυμπανίσθησαν|etympanisthēsan|were tortured|G5178|V-AIP-3P
-v35 οὐ|ou|vvv|G3756|Adv
+v35 οὐ|ou|...|G3756|Adv
 v35 προσδεξάμενοι|prosdexamenoi|[and] refused|G4327|V-APM-NMP
 v35 τὴν|tēn|[their]|G3588|Art-AFS
 v35 ἀπολύτρωσιν|apolytrōsin|release|G629|N-AFS
@@ -615,7 +615,7 @@ v39 μαρτυρηθέντες|martyrēthentes|commended|G3140|V-APP-NMP
 v39 διὰ|dia|for|G1223|Prep
 v39 τῆς|tēs|[their]|G3588|Art-GFS
 v39 πίστεως|pisteōs|faith|G4102|N-GFS
-v39 οὐκ|ouk|vvv|G3756|Adv
+v39 οὐκ|ouk|...|G3756|Adv
 v39 ἐκομίσαντο|ekomisanto|[yet] they did not receive|G2865|V-AIM-3P
 v39 τὴν|tēn|what [was]|G3588|Art-AFS
 v39 ἐπαγγελίαν|epangelian|promised|G1860|N-AFS
@@ -627,7 +627,7 @@ v40 κρεῖττόν|kreitton|better|G2909|Adj-ANS-C
 v40 τι|ti|something|G5100|IPro-ANS
 v40 προβλεψαμένου|problepsamenou|had planned|G4265|V-APM-GMS
 v40 ἵνα|hina|so that|G2443|Conj
-v40 μὴ|mē|vvv|G3361|Adv
+v40 μὴ|mē|...|G3361|Adv
 v40 χωρὶς|chōris|together with|G5565|Prep
 v40 ἡμῶν|hēmōn|us|G1473|PPro-G1P
 v40 τελειωθῶσιν|teleiōthōsin|they would be made perfect|G5048|V-ASP-3P

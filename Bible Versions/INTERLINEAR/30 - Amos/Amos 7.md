@@ -77,7 +77,7 @@ v6 לֹ֣א|lō|will not|H3808|Adv-NegPrt
 v6 תִֽהְיֶ֔ה|ṯih·yeh|happen|H1961|V-Qal-Imperf-3fs
 v6 אָמַ֖ר|’ā·mar|said|H559|V-Qal-Perf-3ms
 v6 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v6 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v6 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v7 כֹּ֣ה|kōh|This is what|H3541|Adv
 v7 הִרְאַ֔נִי|hir·’a·nî|He showed me|H7200|V-Hifil-Perf-3ms | 1cs
 v7 וְהִנֵּ֧ה|wə·hin·nêh|Behold|H2009|Conj-w | Interjection
@@ -120,11 +120,11 @@ v9 וְקַמְתִּ֛י|wə·qam·tî|and I will rise up|H6965|Conj-w | V-Qal-
 v9 עַל־|‘al-|against|H5921|Prep
 v9 בֵּ֥ית|bêṯ|the house|H1004|N-msc
 v9 יָרָבְעָ֖ם|yā·rā·ḇə·‘ām|of Jeroboam|H3379|N-proper-ms
-v9 בֶּחָֽרֶב׃פ|be·ḥā·reḇ|with My sword|H2719|Prep-b, Art | N-fs
+v9 בֶּחָֽרֶב׃|be·ḥā·reḇ|with My sword|H2719|Prep-b, Art | N-fs
 v10 וַיִּשְׁלַ֗ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v10 אֲמַצְיָה֙|’ă·maṣ·yāh|Then Amaziah|H558|N-proper-ms
 v10 כֹּהֵ֣ן|kō·hên|the priest|H3548|N-msc
-v10 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v10 בֵּֽית־|bêṯ-|...|H1008|Prep
 v10 אֵ֔ל|’êl|of Bethel|H1008|N-proper-fs
 v10 אֶל־|’el-|word to|H413|Prep
 v10 יָרָבְעָ֥ם|yā·rā·ḇə·‘ām|Jeroboam|H3379|N-proper-ms
@@ -155,7 +155,7 @@ v11 וְיִ֨שְׂרָאֵ֔ל|wə·yiś·rā·’êl|and Israel|H3478|Conj-w 
 v11 גָּלֹ֥ה|gā·lōh|will surely go into exile|H1540|V-Qal-InfAbs
 v11 יִגְלֶ֖ה|yiḡ·leh|...|H1540|V-Qal-Imperf-3ms
 v11 מֵעַ֥ל|mê·‘al|away from|H5921|Prep-m
-v11 אַדְמָתֽוֹ׃ס|’aḏ·mā·ṯōw|their homeland|H127|N-fsc | 3ms
+v11 אַדְמָתֽוֹ׃|’aḏ·mā·ṯōw|their homeland|H127|N-fsc | 3ms
 v12 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 אֲמַצְיָה֙|’ă·maṣ·yāh|And Amaziah|H558|N-proper-ms
 v12 אֶל־|’el-|to|H413|Prep
@@ -163,7 +163,7 @@ v12 עָמ֔וֹס|‘ā·mō·ws|Amos|H5986|N-proper-ms
 v12 חֹזֶ֕ה|ḥō·zeh|you seer|H2374|N-ms
 v12 לֵ֥ךְ|lêḵ|Go away|H1980|V-Qal-Imp-ms
 v12 בְּרַח־|bə·raḥ-|Flee|H1272|V-Qal-Imp-ms
-v12 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v12 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v12 אֶל־|’el-|to|H413|Prep
 v12 אֶ֣רֶץ|’e·reṣ|the land|H776|N-fsc
 v12 יְהוּדָ֑ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
@@ -172,7 +172,7 @@ v12 שָׁ֣ם|šām|there|H8033|Adv
 v12 לֶ֔חֶם|le·ḥem|...|H3899|N-ms
 v12 וְשָׁ֖ם|wə·šām|there|H8033|Conj-w | Adv
 v12 תִּנָּבֵֽא׃|tin·nā·ḇê|and do your prophesying|H5012|V-Nifal-Imperf-2ms
-v13 וּבֵֽית־|ū·ḇêṯ-|vvv|H1008|
+v13 וּבֵֽית־|ū·ḇêṯ-|...|H1008|
 v13 אֵ֔ל|’êl|at Bethel|H1008|Conj-w | N-proper-fs
 v13 לֹֽא־|lō-|But never|H3808|Adv-NegPrt
 v13 תוֹסִ֥יף|ṯō·w·sîp̄|again|H3254|V-Hifil-Imperf-2ms
@@ -184,11 +184,11 @@ v13 מֶ֙לֶךְ֙|me·leḵ|of the king|H4428|N-ms
 v13 ה֔וּא|hū|it [is]|H1931|Pro-3ms
 v13 וּבֵ֥ית|ū·ḇêṯ|and the temple|H1004|Conj-w | N-msc
 v13 מַמְלָכָ֖ה|mam·lā·ḵāh|of the kingdom|H4467|N-fs
-v13 הֽוּא׃ס|hū||H1931|Pro-3ms
+v13 הֽוּא׃|hū|-|H1931|Pro-3ms
 v14 וַיַּ֤עַן|way·ya·‘an|replied|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v14 עָמוֹס֙|‘ā·mō·ws|Amos|H5986|N-proper-ms
-v14 וַיֹּ֣אמֶר|way·yō·mer||H559|Conj-w | V-Qal-ConsecImperf-3ms
-v14 אֶל־|’el-||H413|Prep
+v14 וַיֹּ֣אמֶר|way·yō·mer|-|H559|Conj-w | V-Qal-ConsecImperf-3ms
+v14 אֶל־|’el-|-|H413|Prep
 v14 אֲמַצְיָ֔ה|’ă·maṣ·yāh|-|H558|N-proper-ms
 v14 לֹא־|lō-|was not|H3808|Adv-NegPrt
 v14 נָבִ֣יא|nā·ḇî|a prophet|H5030|N-ms
@@ -252,4 +252,4 @@ v17 וְיִ֨שְׂרָאֵ֔ל|wə·yiś·rā·’êl|And Israel|H3478|Conj-w 
 v17 גָּלֹ֥ה|gā·lōh|will surely go into exile|H1540|V-Qal-InfAbs
 v17 יִגְלֶ֖ה|yiḡ·leh|...|H1540|V-Qal-Imperf-3ms
 v17 מֵעַ֥ל|mê·‘al|away from|H5921|Prep-m
-v17 אַדְמָתֽוֹ׃ס|’aḏ·mā·ṯōw|their homeland|H127|N-fsc | 3ms
+v17 אַדְמָתֽוֹ׃|’aḏ·mā·ṯōw|their homeland|H127|N-fsc | 3ms

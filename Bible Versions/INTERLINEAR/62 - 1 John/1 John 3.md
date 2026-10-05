@@ -15,11 +15,11 @@ v1 διὰ|dia|The reason|G1223|Prep
 v1 τοῦτο|touto|...|G3778|DPro-ANS
 v1 ὁ|ho|the|G3588|Art-NMS
 v1 κόσμος|kosmos|world|G2889|N-NMS
-v1 οὐ|ou|vvv|G3756|Adv
+v1 οὐ|ou|...|G3756|Adv
 v1 γινώσκει|ginōskei|does not know|G1097|V-PIA-3S
 v1 ἡμᾶς|hēmas|us|G1473|PPro-A1P
 v1 ὅτι|hoti|[is] that|G3754|Conj
-v1 οὐκ|ouk|vvv|G3756|Adv
+v1 οὐκ|ouk|...|G3756|Adv
 v1 ἔγνω|egnō|it did not know|G1097|V-AIA-3S
 v1 αὐτόν|auton|Him|G846|PPro-AM3S
 v2 Ἀγαπητοί|Agapētoi|Beloved|G27|Adj-VMP
@@ -153,7 +153,7 @@ v9 ἐκ|ek|of|G1537|Prep
 v9 τοῦ|tou|-|G3588|Art-GMS
 v9 Θεοῦ|Theou|God|G2316|N-GMS
 v9 ἁμαρτίαν|hamartian|sin|G266|N-AFS
-v9 οὐ|ou|vvv|G3756|Adv
+v9 οὐ|ou|...|G3756|Adv
 v9 ποιεῖ|poiei|refuses to practice|G4160|V-PIA-3S
 v9 ὅτι|hoti|because|G3754|Conj
 v9 σπέρμα|sperma|seed|G4690|N-NNS
@@ -162,7 +162,7 @@ v9 ἐν|en|in|G1722|Prep
 v9 αὐτῷ|autō|him|G846|PPro-DM3S
 v9 μένει|menei|abides|G3306|V-PIA-3S
 v9 καὶ|kai|-|G2532|Conj
-v9 οὐ|ou|vvv|G3756|Adv
+v9 οὐ|ou|...|G3756|Adv
 v9 δύναται|dynatai|he cannot|G1410|V-PIM/P-3S
 v9 ἁμαρτάνειν|hamartanein|go on sinning|G264|V-PNA
 v9 ὅτι|hoti|because|G3754|Conj
@@ -185,7 +185,7 @@ v10 τοῦ|tou|of the|G3588|Art-GMS
 v10 διαβόλου|diabolou|devil|G1228|Adj-GMS
 v10 πᾶς|pas|Anyone|G3956|Adj-NMS
 v10 ὁ|ho|who|G3588|Art-NMS
-v10 μὴ|mē|vvv|G3361|Adv
+v10 μὴ|mē|...|G3361|Adv
 v10 ποιῶν|poiōn|does not practice|G4160|V-PPA-NMS
 v10 δικαιοσύνην|dikaiosynēn|righteousness|G1343|N-AFS
 v10 οὐκ|ouk|not|G3756|Adv
@@ -195,7 +195,7 @@ v10 τοῦ|tou|-|G3588|Art-GMS
 v10 Θεοῦ|Theou|God|G2316|N-GMS
 v10 καὶ|kai|[nor is]|G2532|Conj
 v10 ὁ|ho|anyone who|G3588|Art-NMS
-v10 μὴ|mē|vvv|G3361|Adv
+v10 μὴ|mē|...|G3361|Adv
 v10 ἀγαπῶν|agapōn|does not love|G25|V-PPA-NMS
 v10 τὸν|ton|-|G3588|Art-AMS
 v10 ἀδελφὸν|adelphon|brother|G80|N-AMS
@@ -265,7 +265,7 @@ v14 ἀγαπῶμεν|agapōmen|we love|G25|V-PIA-1P
 v14 τοὺς|tous|[our]|G3588|Art-AMP
 v14 ἀδελφούς|adelphous|brothers|G80|N-AMP
 v14 ὁ|ho|The [one who]|G3588|Art-NMS
-v14 μὴ|mē|vvv|G3361|Adv
+v14 μὴ|mē|...|G3361|Adv
 v14 ἀγαπῶν|agapōn|does not love|G25|V-PPA-NMS
 v14 μένει|menei|remains|G3306|V-PIA-3S
 v14 ἐν|en|in|G1722|Prep
@@ -393,7 +393,7 @@ v21 ἐὰν|ean|if|G1437|Conj
 v21 ἡ|hē|-|G3588|Art-NFS
 v21 καρδία|kardia|hearts|G2588|N-NFS
 v21 ‹ἡμῶν›|hēmōn|our|G1473|PPro-G1P
-v21 «μὴ|mē|vvv|G3361|Adv
+v21 «μὴ|mē|...|G3361|Adv
 v21 καταγινώσκῃ»|kataginōskē|do not condemn [us]|G2607|V-PSA-3S
 v21 παρρησίαν|parrēsian|confidence|G3954|N-AFS
 v21 ἔχομεν|echomen|we have|G2192|V-PIA-1P
@@ -437,7 +437,7 @@ v23 καὶ|kai|and|G2532|Conj
 v23 ἀγαπῶμεν|agapōmen|we should love|G25|V-PSA-1P
 v23 ἀλλήλους|allēlous|one another|G240|RecPro-AMP
 v23 καθὼς|kathōs|just as|G2531|Adv
-v23 ἔδωκεν|edōken|vvv|G1325|V-AIA-3S
+v23 ἔδωκεν|edōken|...|G1325|V-AIA-3S
 v23 ἐντολὴν|entolēn|He commanded|G1785|N-AFS
 v23 ἡμῖν|hēmin|us|G1473|PPro-D1P
 v24 καὶ|kai|-|G2532|Conj

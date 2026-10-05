@@ -84,7 +84,7 @@ v6 קָדוֹשׁ֙|qā·ḏō·wōš|holy|H6918|Adj-ms
 v6 אַתָּ֔ה|’at·tāh|you|H859|Pro-2ms
 v6 לַיהוָ֖ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v6 אֱלֹהֶ֑יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
-v6 בְּךָ֞|bə·ḵā||H0|Prep | 2ms
+v6 בְּךָ֞|bə·ḵā|-|H0|Prep | 2ms
 v6 בָּחַ֣ר׀|bā·ḥar|has chosen you|H977|V-Qal-Perf-3ms
 v6 יְהוָ֣ה|Yah·weh|The LORD|H3068|N-proper-ms
 v6 אֱלֹהֶ֗יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
@@ -97,7 +97,7 @@ v6 הָֽעַמִּ֔ים|hā·‘am·mîm|peoples|H5971|Art | N-mp
 v6 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v6 עַל־|‘al-|on|H5921|Prep
 v6 פְּנֵ֥י|pə·nê|the face|H6440|N-cpc
-v6 הָאֲדָמָֽה׃ס|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
+v6 הָאֲדָמָֽה׃|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
 v7 לֹ֣א|lō|did not|H3808|Adv-NegPrt
 v7 מֵֽרֻבְּכֶ֞ם|mê·rub·bə·ḵem|because you were more numerous|H7231|Prep-m | V-Qal-Inf | 2mp
 v7 מִכָּל־|mik·kāl|than the other|H3605|Prep-m | N-msc
@@ -161,7 +161,7 @@ v10 לְשֹׂ֣נְא֔וֹ|lə·śō·nə·’ōw|the one who hates Him|H8130|
 v10 אֶל־|’el-|to|H413|Prep
 v10 פָּנָ֖יו|pā·nāw|his face|H6440|N-cpc | 3ms
 v10 יְשַׁלֶּם־|yə·šal·lem-|to repay|H7999|V-Piel-Imperf-3ms
-v10 לֽוֹ׃|lōw||H0|Prep | 3ms
+v10 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v11 וְשָׁמַרְתָּ֨|wə·šā·mar·tā|So keep|H8104|Conj-w | V-Qal-ConjPerf-2ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 הַמִּצְוָ֜ה|ham·miṣ·wāh|the commandments|H4687|Art | N-fs
@@ -173,7 +173,7 @@ v11 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
 v11 אָנֹכִ֧י|’ā·nō·ḵî|I|H595|Pro-1cs
 v11 מְצַוְּךָ֛|mə·ṣaw·wə·ḵā|am giving you|H6680|V-Piel-Prtcpl-msc | 2ms
 v11 הַיּ֖וֹם|hay·yō·wm|this day|H3117|Art | N-ms
-v11 לַעֲשׂוֹתָֽם׃פ|la·‘ă·śō·w·ṯām|to follow|H6213|Prep-l | V-Qal-Inf | 3mp
+v11 לַעֲשׂוֹתָֽם׃|la·‘ă·śō·w·ṯām|to follow|H6213|Prep-l | V-Qal-Inf | 3mp
 v12 וְהָיָ֣ה׀|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v12 עֵ֣קֶב|‘ê·qeḇ|If|H6118|Conj
 v12 תִּשְׁמְע֗וּן|tiš·mə·‘ūn|you listen to|H8085|V-Qal-Imperf-2mp | Pn
@@ -181,12 +181,12 @@ v12 אֵ֤ת|’êṯ|-|H853|DirObjM
 v12 הַמִּשְׁפָּטִים֙|ham·miš·pā·ṭîm|ordinances|H4941|Art | N-mp
 v12 הָאֵ֔לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
 v12 וּשְׁמַרְתֶּ֥ם|ū·šə·mar·tem|and keep them carefully|H8104|Conj-w | V-Qal-ConjPerf-2mp
-v12 וַעֲשִׂיתֶ֖ם|wa·‘ă·śî·ṯem||H6213|Conj-w | V-Qal-ConjPerf-2mp
-v12 אֹתָ֑ם|’ō·ṯām||H853|DirObjM | 3mp
+v12 וַעֲשִׂיתֶ֖ם|wa·‘ă·śî·ṯem|-|H6213|Conj-w | V-Qal-ConjPerf-2mp
+v12 אֹתָ֑ם|’ō·ṯām|-|H853|DirObjM | 3mp
 v12 וְשָׁמַר֩|wə·šā·mar|will keep|H8104|Conj-w | V-Qal-ConjPerf-3ms
 v12 יְהוָ֨ה|Yah·weh|then the LORD|H3068|N-proper-ms
 v12 אֱלֹהֶ֜יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
-v12 לְךָ֗|lə·ḵā||H0|Prep | 2ms
+v12 לְךָ֗|lə·ḵā|-|H0|Prep | 2ms
 v12 אֶֽת־|’eṯ-|-|H853|DirObjM
 v12 הַבְּרִית֙|hab·bə·rîṯ|His covenant|H1285|Art | N-fs
 v12 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
@@ -263,8 +263,8 @@ v16 אֱלֹ֣הֵיהֶ֔ם|’ĕ·lō·hê·hem|their gods|H430|N-mpc | 3mp
 v16 כִּֽי־|kî-|for|H3588|Conj
 v16 מוֹקֵ֥שׁ|mō·w·qêš|will be a snare|H4170|N-ms
 v16 ה֖וּא|hū|that|H1931|Pro-3ms
-v16 לָֽךְ׃ס|lāḵ|to you|H0|Prep | 2ms
-v17 כִּ֤י|kî|vvv|H3588|Conj
+v16 לָֽךְ׃|lāḵ|to you|H0|Prep | 2ms
+v17 כִּ֤י|kî|...|H3588|Conj
 v17 תֹאמַר֙|ṯō·mar|You may say|H559|V-Qal-Imperf-2ms
 v17 בִּלְבָ֣בְךָ֔|bil·ḇā·ḇə·ḵā|in your heart|H3824|Prep-b | N-msc | 2ms
 v17 רַבִּ֛ים|rab·bîm|are greater|H7227|Adj-mp
@@ -313,7 +313,7 @@ v19 אַתָּ֥ה|’at·tāh|you|H859|Pro-2ms
 v19 יָרֵ֖א|yā·rê|now fear|H3373|Adj-ms
 v19 מִפְּנֵיהֶֽם׃|mip·pə·nê·hem|...|H6440|Prep-m | N-mpc | 3mp
 v20 וְגַם֙|wə·ḡam|Moreover|H1571|Conj
-v20 אֶת־|’eṯ-||H853|DirObjM
+v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 הַצִּרְעָ֔ה|haṣ·ṣir·‘āh|the hornet|H6880|Art | N-fs
 v20 יְשַׁלַּ֛ח|yə·šal·laḥ|will send|H7971|V-Piel-Imperf-3ms
 v20 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -409,4 +409,4 @@ v26 וְתַעֵ֥ב׀|wə·ṯa·‘êḇ|and abhor it|H8581|Conj-w | V-Piel-In
 v26 תְּֽתַעֲבֶ֖נּוּ|tə·ṯa·‘ă·ḇen·nū|...|H8581|V-Piel-Imperf-2ms | 3ms
 v26 כִּי־|kî-|because|H3588|Conj
 v26 חֵ֥רֶם|ḥê·rem|is set apart for destruction|H2764|N-ms
-v26 הֽוּא׃פ|hū|it|H1931|Pro-3ms
+v26 הֽוּא׃|hū|it|H1931|Pro-3ms

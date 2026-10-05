@@ -20,7 +20,7 @@ v2 תַנְחֵֽנִי׃|ṯan·ḥê·nî|Lead me|H5148|V-Hifil-Imperf-2ms | 1
 v3 כִּֽי־|kî-|For|H3588|Conj
 v3 הָיִ֣יתָ|hā·yî·ṯā|You have been|H1961|V-Qal-Perf-2ms
 v3 מַחְסֶ֣ה|maḥ·seh|my refuge|H4268|N-ms
-v3 לִ֑י|lî||H0|Prep | 1cs
+v3 לִ֑י|lî|-|H0|Prep | 1cs
 v3 מִגְדַּל־|miḡ·dal-|a tower|H4026|N-msc
 v3 עֹ֝֗ז|‘ōz|of strength|H5797|N-ms
 v3 מִפְּנֵ֥י|mip·pə·nê|against|H6440|Prep-m | N-cpc

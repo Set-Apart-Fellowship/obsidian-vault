@@ -57,7 +57,7 @@ v8 לָבֽוּז׃|lā·ḇūz|despised|H937|Prep-l | N-ms
 v9 ט֣וֹב|ṭō·wḇ|Better|H2896|Adj-ms
 v9 נִ֭קְלֶה|niq·leh|to be lightly esteemed|H7034|V-Nifal-Prtcpl-ms
 v9 וְעֶ֣בֶד|wə·‘e·ḇeḏ|yet have a servant|H5650|Conj-w | N-ms
-v9 ל֑וֹ|lōw||H0|Prep | 3ms
+v9 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v9 מִ֝מְּתַכַּבֵּ֗ד|mim·mə·ṯak·kab·bêḏ|than to be self-important|H3513|Prep-m | V-Hitpael-Prtcpl-ms
 v9 וַחֲסַר־|wa·ḥă·sar-|but lack|H2638|Conj-w | Adj-msc
 v9 לָֽחֶם׃|lā·ḥem|food|H3899|N-ms
@@ -121,7 +121,7 @@ v17 צֶ֑דֶק|ṣe·ḏeq|what is right|H6664|N-ms
 v17 וְעֵ֖ד|wə·‘êḏ|witness|H5707|Conj-w | N-msc
 v17 שְׁקָרִ֣ים|šə·qā·rîm|but a false|H8267|N-mp
 v17 מִרְמָֽה׃|mir·māh|[speaks] deceit|H4820|N-fs
-v18 יֵ֣שׁ|yêš|vvv|H3426|Adv
+v18 יֵ֣שׁ|yêš|...|H3426|Adv
 v18 בּ֭וֹטֶה|bō·w·ṭeh|Speaking rashly|H981|V-Qal-Prtcpl-ms
 v18 כְּמַדְקְר֣וֹת|kə·maḏ·qə·rō·wṯ|is like a piercing|H4094|Prep-k | N-fpc
 v18 חָ֑רֶב|ḥā·reḇ|sword|H2719|N-fs

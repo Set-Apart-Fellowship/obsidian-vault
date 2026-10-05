@@ -254,7 +254,7 @@ v18 ἂν|an|...|G302|Prtcl
 v18 πάντα|panta|everything|G3956|Adj-NNP
 v18 γένηται|genētai|is accomplished|G1096|V-ASM-3S
 v19 Ὃς|Hos|whoever|G3739|RelPro-NMS
-v19 ἐὰν|ean|vvv|G1437|Conj
+v19 ἐὰν|ean|...|G1437|Conj
 v19 οὖν|oun|So then|G3767|Conj
 v19 λύσῃ|lysē|breaks|G3089|V-ASA-3S
 v19 μίαν|mian|one|G1520|Adj-AFS
@@ -407,7 +407,7 @@ v24 πρόσφερε|prosphere|offer|G4374|V-PMA-2S
 v24 τὸ|to|-|G3588|Art-ANS
 v24 δῶρόν|dōron|gift|G1435|N-ANS
 v24 σου|sou|your|G4771|PPro-G2S
-v25 ἴσθι|Isthi|vvv|G1510|V-PMA-2S
+v25 ἴσθι|Isthi|...|G1510|V-PMA-2S
 v25 εὐνοῶν|eunoōn|Reconcile|G2132|V-PPA-NMS
 v25 τῷ|tō|with|G3588|Art-DMS
 v25 ἀντιδίκῳ|antidikō|adversary|G476|N-DMS
@@ -441,8 +441,8 @@ v25 βληθήσῃ|blēthēsē|you may be thrown|G906|V-FIP-2S
 v26 ἀμὴν|amēn|Truly|G281|Heb
 v26 λέγω|legō|I tell|G3004|V-PIA-1S
 v26 σοι|soi|you|G4771|PPro-D2S
-v26 οὐ|ou|vvv|G3756|Adv
-v26 μὴ|mē|vvv|G3361|Adv
+v26 οὐ|ou|...|G3756|Adv
+v26 μὴ|mē|...|G3361|Adv
 v26 ἐξέλθῃς|exelthēs|you will not get out|G1831|V-ASA-2S
 v26 ἐκεῖθεν|ekeithen|-|G1564|Adv
 v26 ἕως|heōs|until|G2193|Conj
@@ -497,9 +497,9 @@ v29 σοι|soi|for you|G4771|PPro-D2S
 v29 ἵνα|hina|to|G2443|Conj
 v29 ἀπόληται|apolētai|lose|G622|V-ASM-3S
 v29 ἓν|hen|one|G1520|Adj-NNS
-v29 τῶν|tōn|vvv|G3588|Art-GNP
+v29 τῶν|tōn|...|G3588|Art-GNP
 v29 μελῶν|melōn|part of your body|G3196|N-GNP
-v29 σου|sou|vvv|G4771|PPro-G2S
+v29 σου|sou|...|G4771|PPro-G2S
 v29 καὶ|kai|[than for]|G2532|Conj
 v29 μὴ|mē|...|G3361|Adv
 v29 ὅλον|holon|whole|G3650|Adj-NNS
@@ -529,9 +529,9 @@ v30 σοι|soi|for you|G4771|PPro-D2S
 v30 ἵνα|hina|to|G2443|Conj
 v30 ἀπόληται|apolētai|lose|G622|V-ASM-3S
 v30 ἓν|hen|one|G1520|Adj-NNS
-v30 τῶν|tōn|vvv|G3588|Art-GNP
+v30 τῶν|tōn|...|G3588|Art-GNP
 v30 μελῶν|melōn|part of your body|G3196|N-GNP
-v30 σου|sou|vvv|G4771|PPro-G2S
+v30 σου|sou|...|G4771|PPro-G2S
 v30 καὶ|kai|[than for]|G2532|Conj
 v30 μὴ|mē|...|G3361|Adv
 v30 ὅλον|holon|whole|G3650|Adj-NNS

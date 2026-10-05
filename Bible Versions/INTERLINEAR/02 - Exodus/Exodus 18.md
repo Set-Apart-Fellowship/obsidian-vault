@@ -413,6 +413,6 @@ v27 מֹשֶׁ֖ה|mō·šeh|Then Moses|H4872|N-proper-ms
 v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 חֹתְנ֑וֹ|ḥō·ṯə·nōw|his father-in-law {on his way}|H2859|N-msc | 3ms
 v27 וַיֵּ֥לֶךְ|way·yê·leḵ|and [Jethro] returned|H1980|Conj-w | V-Qal-ConsecImperf-3ms
-v27 ל֖וֹ|lōw||H0|Prep | 3ms
+v27 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v27 אֶל־|’el-|to|H413|Prep
-v27 אַרְצֽוֹ׃פ|’ar·ṣōw|his own land|H776|N-fsc | 3ms
+v27 אַרְצֽוֹ׃|’ar·ṣōw|his own land|H776|N-fsc | 3ms

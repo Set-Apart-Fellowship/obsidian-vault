@@ -25,7 +25,7 @@ v3 וְאֶת־|wə·’eṯ-|but|H853|Conj-w | DirObjM
 v3 עֵשָׂ֖ו|‘ê·śāw|Esau|H6215|N-proper-ms
 v3 שָׂנֵ֑אתִי|śā·nê·ṯî|I have hated|H8130|V-Qal-Perf-1cs
 v3 וָאָשִׂ֤ים|wā·’ā·śîm|and I have made|H7760|Conj-w | V-Qal-ConsecImperf-1cs
-v3 אֶת־|’eṯ-||H853|DirObjM
+v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 הָרָיו֙|hā·rāw|his mountains|H2022|N-mpc | 3ms
 v3 שְׁמָמָ֔ה|šə·mā·māh|a wasteland|H8077|N-fs
 v3 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -48,7 +48,7 @@ v4 יִבְנ֖וּ|yiḇ·nū|may build|H1129|V-Qal-Imperf-3mp
 v4 וַאֲנִ֣י|wa·’ă·nî|but I|H589|Conj-w | Pro-1cs
 v4 אֶהֱר֑וֹס|’e·hĕ·rō·ws|will demolish|H2040|V-Qal-Imperf-1cs
 v4 וְקָרְא֤וּ|wə·qā·rə·’ū|They will be called|H7121|Conj-w | V-Qal-ConjPerf-3cp
-v4 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v4 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v4 גְּב֣וּל|gə·ḇūl|the Land|H1366|N-msc
 v4 רִשְׁעָ֔ה|riš·‘āh|of Wickedness|H7564|N-fs
 v4 וְהָעָ֛ם|wə·hā·‘ām|and a people|H5971|Conj-w, Art | N-ms
@@ -153,7 +153,7 @@ v10 תָאִ֥ירוּ|ṯā·’î·rū|longer kindle|H215|V-Hifil-Imperf-2mp
 v10 מִזְבְּחִ֖י|miz·bə·ḥî|fires on My altar|H4196|N-msc | 1cs
 v10 חִנָּ֑ם|ḥin·nām|useless|H2600|Adv
 v10 אֵֽין־|’ên-|I take no|H369|Adv
-v10 לִ֨י|lî||H0|Prep | 1cs
+v10 לִ֨י|lî|-|H0|Prep | 1cs
 v10 חֵ֜פֶץ|ḥê·p̄eṣ|pleasure|H2656|N-ms
 v10 בָּכֶ֗ם|bā·ḵem|in you|H0|Prep | 2mp
 v10 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -210,14 +210,14 @@ v13 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v13 הַפִּסֵּ֙חַ֙|hap·pis·sê·aḥ|lame|H6455|Art | Adj-ms
 v13 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v13 הַ֣חוֹלֶ֔ה|ha·ḥō·w·leh|or sick|H2470|Art | V-Qal-Prtcpl-ms
-v13 וַהֲבֵאתֶ֖ם|wa·hă·ḇê·ṯem||H935|Conj-w | V-Hifil-ConjPerf-2mp
+v13 וַהֲבֵאתֶ֖ם|wa·hă·ḇê·ṯem|-|H935|Conj-w | V-Hifil-ConjPerf-2mp
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 הַמִּנְחָ֑ה|ham·min·ḥāh|offerings|H4503|Art | N-fs
 v13 הַאֶרְצֶ֥ה|ha·’er·ṣeh|Should I accept|H7521|V-Qal-Imperf-1cs
 v13 אוֹתָ֛הּ|’ō·w·ṯāh|these|H853|DirObjM | 3fs
 v13 מִיֶּדְכֶ֖ם|mî·yeḏ·ḵem|from your hands|H3027|Prep-m | N-fsc | 2mp
 v13 אָמַ֥ר|’ā·mar|asks|H559|V-Qal-Perf-3ms
-v13 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v13 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v14 וְאָר֣וּר|wə·’ā·rūr|But cursed|H779|Conj-w | V-Qal-QalPassPrtcpl-ms
 v14 נוֹכֵ֗ל|nō·w·ḵêl|[is] the deceiver|H5230|V-Qal-Prtcpl-ms
 v14 וְיֵ֤שׁ|wə·yêš|who has|H3426|Conj-w | Adv

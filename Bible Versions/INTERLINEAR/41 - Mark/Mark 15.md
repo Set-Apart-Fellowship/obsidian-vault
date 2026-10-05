@@ -52,7 +52,7 @@ v4 πάλιν|palin|again|G3825|Adv
 v4 ἐπηρώτα|epērōta|questioned|G1905|V-IIA-3S
 v4 αὐτὸν|auton|Him|G846|PPro-AM3S
 v4 λέγων|legōn|...|G3004|V-PPA-NMS
-v4 Οὐκ|Ouk|vvv|G3756|Adv
+v4 Οὐκ|Ouk|...|G3756|Adv
 v4 ἀποκρίνῃ|apokrinē|Have You no answer|G611|V-PIM/P-2S
 v4 οὐδέν|ouden|...|G3762|Adj-ANS
 v4 ἴδε|ide|Look|G2400|V-AMA-2S
@@ -76,7 +76,7 @@ v6 ἀπέλυεν|apelyen|to release|G630|V-IIA-3S
 v6 αὐτοῖς|autois|to [the people]|G846|PPro-DM3P
 v6 ἕνα|hena|a|G1520|Adj-AMS
 v6 δέσμιον|desmion|prisoner|G1198|N-AMS
-v6 ὃν|hon|vvv|G3739|RelPro-AMS
+v6 ὃν|hon|...|G3739|RelPro-AMS
 v6 παρῃτοῦντο|parētounto|of their choosing|G3868|V-IIM/P-3P
 v7 ἦν|ēn|was|G1510|V-IIA-3S
 v7 δὲ|de|And|G1161|Conj
@@ -291,7 +291,7 @@ v22 τὸν|ton|-|G3588|Art-AMS
 v22 Γολγοθᾶν|Golgothan|[called] Golgotha|G1115|N-AFS
 v22 τόπον|topon|a place|G5117|N-AMS
 v22 ὅ|ho|which|G3739|RelPro-NNS
-v22 ἐστιν|estin|vvv|G1510|V-PIA-3S
+v22 ἐστιν|estin|...|G1510|V-PIA-3S
 v22 μεθερμηνευόμενον*|methermēneuomenon|means|G3177|V-PPM/P-NNS
 v22 Κρανίου|Kraniou|of the Skull|G2898|N-GNS
 v22 τόπος|topos|[The] Place|G5117|N-NMS
@@ -302,12 +302,12 @@ v23 ἐσμυρνισμένον|esmyrnismenon|mixed with myrrh|G4669|V-RPM/P-AMS
 v23 οἶνον|oinon|wine|G3631|N-AMS
 v23 ὃς|hos|He|G3739|RelPro-NMS
 v23 δὲ|de|but|G1161|Conj
-v23 οὐκ|ouk|vvv|G3756|Adv
+v23 οὐκ|ouk|...|G3756|Adv
 v23 ἔλαβεν|elaben|did not take [it]|G2983|V-AIA-3S
 v24 Καὶ|Kai|And|G2532|Conj
 v24 σταυροῦσιν|staurousin|they crucified|G4717|V-PIA-3P
 v24 αὐτὸν|auton|Him|G846|PPro-AM3S
-v24 καὶ|kai|vvv|G2532|Conj
+v24 καὶ|kai|...|G2532|Conj
 v24 διαμερίζονται|diamerizontai|They also divided|G1266|V-PIM-3P
 v24 τὰ|ta|-|G3588|Art-ANP
 v24 ἱμάτια|himatia|garments|G2440|N-ANP
@@ -327,7 +327,7 @@ v25 καὶ|kai|when|G2532|Conj
 v25 ἐσταύρωσαν|estaurōsan|they crucified|G4717|V-AIA-3P
 v25 αὐτόν|auton|Him|G846|PPro-AM3S
 v26 καὶ|kai|And|G2532|Conj
-v26 ἦν|ēn|vvv|G1510|V-IIA-3S
+v26 ἦν|ēn|...|G1510|V-IIA-3S
 v26 ἡ|hē|the|G3588|Art-NFS
 v26 ἐπιγραφὴ|epigraphē|inscribed|G1923|N-NFS
 v26 τῆς|tēs|-|G3588|Art-GFS
@@ -393,7 +393,7 @@ v31 ἔλεγον|elegon|saying|G2036|V-IIA-3P
 v31 Ἄλλους|Allous|others|G243|Adj-AMP
 v31 ἔσωσεν|esōsen|He saved|G4982|V-AIA-3S
 v31 ἑαυτὸν|heauton|Himself|G1438|RefPro-AM3S
-v31 οὐ|ou|vvv|G3756|Adv
+v31 οὐ|ou|...|G3756|Adv
 v31 δύναται|dynatai|[but] He cannot|G1410|V-PIM/P-3S
 v31 σῶσαι|sōsai|save|G4982|V-ANA
 v32 ὁ|ho|{Let} the|G3588|Art-NMS
@@ -438,13 +438,13 @@ v34 ἐβόησεν|eboēsen|cried out|G994|V-AIA-3S
 v34 ὁ|ho|-|G3588|Art-NMS
 v34 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v34 φωνῇ|phōnē|in a loud voice|G5456|N-DFS
-v34 μεγάλῃ|megalē|vvv|G3173|Adj-DFS
+v34 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v34 Ἐλωῒ|Elōi|Eloi|G1682|N-VMS
 v34 Ἐλωῒ|Elōi|Eloi|G1682|N-VMS
 v34 λεμὰ*|lema|lema|G2982|Adv
 v34 σαβαχθάνι*|sabachthani|sabachthani|G4518|V-AIA-2S
 v34 ὅ|ho|which|G3739|RelPro-NNS
-v34 ἐστιν|estin|vvv|G1510|V-PIA-3S
+v34 ἐστιν|estin|...|G1510|V-PIA-3S
 v34 μεθερμηνευόμενον|methermēneuomenon|means|G3177|V-PPM/P-NNS
 v34 Ὁ|Ho|-|G3588|Art-VMS
 v34 Θεός|Theos|God|G2316|N-NMS
@@ -489,7 +489,7 @@ v37 δὲ|de|But|G1161|Conj
 v37 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v37 ἀφεὶς|apheis|let out|G863|V-APA-NMS
 v37 φωνὴν|phōnēn|a loud cry|G5456|N-AFS
-v37 μεγάλην|megalēn|vvv|G3173|Adj-AFS
+v37 μεγάλην|megalēn|...|G3173|Adj-AFS
 v37 ἐξέπνευσεν|exepneusen|[and] breathed His last|G1606|V-AIA-3S
 v38 Καὶ|Kai|And|G2532|Conj
 v38 τὸ|to|the|G3588|Art-NNS
@@ -509,7 +509,7 @@ v39 ὁ|ho|the|G3588|Art-NMS
 v39 κεντυρίων|kentyriōn|centurion|G2760|N-NMS
 v39 ὁ|ho|-|G3588|Art-NMS
 v39 παρεστηκὼς|parestēkōs|standing there|G3936|V-RPA-NMS
-v39 ἐξ|ex|vvv|G1537|Prep
+v39 ἐξ|ex|...|G1537|Prep
 v39 ἐναντίας|enantias|in front of|G1727|Adj-GFS
 v39 αὐτοῦ|autou|[Jesus]|G846|PPro-GM3S
 v39 ὅτι|hoti|-|G3754|Conj
@@ -608,7 +608,7 @@ v44 δὲ|de|-|G1161|Conj
 v44 Πιλᾶτος|Pilatos|Pilate|G4091|N-NMS
 v44 ἐθαύμασεν|ethaumasen|was surprised [to hear]|G2296|V-AIA-3S
 v44 εἰ|ei|that|G1487|Conj
-v44 ἤδη|ēdē|vvv|G2235|Adv
+v44 ἤδη|ēdē|...|G2235|Adv
 v44 τέθνηκεν|tethnēken|[Jesus] was already dead|G2348|V-RIA-3S
 v44 καὶ|kai|so|G2532|Conj
 v44 προσκαλεσάμενος|proskalesamenos|he summoned|G4341|V-APM-NMS

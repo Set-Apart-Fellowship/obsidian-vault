@@ -14,7 +14,7 @@ v1 חֵ֣שֶׁק|ḥê·šeq|had desired|H2837|N-msc
 v1 שְׁלֹמֹ֔ה|šə·lō·mōh|[he]|H8010|N-proper-ms
 v1 אֲשֶׁ֥ר|’ă·šer|that|H834|Pro-r
 v1 חָפֵ֖ץ|ḥā·p̄êṣ|to do|H2654|V-Qal-Perf-3ms
-v1 לַעֲשֽׂוֹת׃פ|la·‘ă·śō·wṯ|and had achieved|H6213|Prep-l | V-Qal-Inf
+v1 לַעֲשֽׂוֹת׃|la·‘ă·śō·wṯ|and had achieved|H6213|Prep-l | V-Qal-Inf
 v2 וַיֵּרָ֧א|way·yê·rā|appeared|H7200|Conj-w | V-Nifal-ConsecImperf-3ms
 v2 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v2 אֶל־|’el-|to|H413|Prep
@@ -79,13 +79,13 @@ v5 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel forever|H3478|N-proper-ms
 v5 לְעֹלָ֑ם|lə·‘ō·lām|...|H5769|Prep-l | N-ms
 v5 כַּאֲשֶׁ֣ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v5 דִּבַּ֗רְתִּי|dib·bar·tî|I promised|H1696|V-Piel-Perf-1cs
-v5 עַל־|‘al-||H5921|Prep
+v5 עַל־|‘al-|-|H5921|Prep
 v5 דָּוִ֤ד|dā·wiḏ|David|H1732|N-proper-ms
 v5 אָבִ֙יךָ֙|’ā·ḇî·ḵā|your father|H1|N-msc | 2ms
 v5 לֵאמֹ֔ר|lê·mōr|when I said|H559|Prep-l | V-Qal-Inf
 v5 לֹֽא־|lō-|You will never|H3808|Adv-NegPrt
 v5 יִכָּרֵ֤ת|yik·kā·rêṯ|fail|H3772|V-Nifal-Imperf-3ms
-v5 לְךָ֙|lə·ḵā||H0|Prep | 2ms
+v5 לְךָ֙|lə·ḵā|-|H0|Prep | 2ms
 v5 אִ֔ישׁ|’îš|to have a man|H376|N-ms
 v5 מֵעַ֖ל|mê·‘al|on|H5921|Prep-m
 v5 כִּסֵּ֥א|kis·sê|the throne|H3678|N-msc
@@ -113,7 +113,7 @@ v7 וְהִכְרַתִּ֣י|wə·hiḵ·rat·tî|then I will cut off|H3772|Con
 v7 אֶת־|’eṯ-|-|H853|DirObjM
 v7 יִשְׂרָאֵ֗ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v7 מֵעַ֨ל|mê·‘al|from|H5921|Prep-m
-v7 פְּנֵ֤י|pə·nê||H6440|N-cpc
+v7 פְּנֵ֤י|pə·nê|-|H6440|N-cpc
 v7 הָאֲדָמָה֙|hā·’ă·ḏā·māh|the land|H127|Art | N-fs
 v7 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v7 נָתַ֣תִּי|nā·ṯat·tî|I have given|H5414|V-Qal-Perf-1cs
@@ -168,7 +168,7 @@ v9 וַֽיַּחֲזִ֙קוּ֙|way·ya·ḥă·zi·qū|and have embraced|H23
 v9 בֵּאלֹהִ֣ים|bê·lō·hîm|gods|H430|Prep-b | N-mp
 v9 אֲחֵרִ֔ים|’ă·ḥê·rîm|other|H312|Adj-mp
 v9 וַיִּשְׁתַּחוּ|way·yiš·ta·ḥū|worshiping|H7812|Conj-w | V-Hitpael-ConsecImperf-3mp
-v9 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v9 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v9 וַיַּעַבְדֻ֑ם|way·ya·‘aḇ·ḏum|and serving them|H5647|Conj-w | V-Qal-ConsecImperf-3mp | 3mp
 v9 עַל־|‘al-|because of|H5921|Prep
 v9 כֵּ֗ן|kên|this|H3651|Adv
@@ -178,7 +178,7 @@ v9 עֲלֵיהֶ֔ם|‘ă·lê·hem|upon them|H5921|Prep | 3mp
 v9 אֵ֥ת|’êṯ|-|H853|DirObjM
 v9 כָּל־|kāl-|all|H3605|N-msc
 v9 הָרָעָ֖ה|hā·rā·‘āh|disaster|H7451|Art | Adj-fs
-v9 הַזֹּֽאת׃פ|haz·zōṯ|this|H2063|Art | Pro-fs
+v9 הַזֹּֽאת׃|haz·zōṯ|this|H2063|Art | Pro-fs
 v10 וַיְהִ֗י|way·hî|Now|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v10 מִקְצֵה֙|miq·ṣêh|at the end|H7097|Prep-m | N-msc
 v10 עֶשְׂרִ֣ים|‘eś·rîm|of the twenty|H6242|Number-cp
@@ -244,7 +244,7 @@ v13 אֶ֣רֶץ|’e·reṣ|the Land|H776|N-fsc
 v13 כָּב֔וּל|kā·ḇūl|of Cabul|H3521|N-proper-fs
 v13 עַ֖ד|‘aḏ|as they are [called] to|H5704|Prep
 v13 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
-v13 הַזֶּֽה׃פ|haz·zeh|this|H2088|Art | Pro-ms
+v13 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
 v14 וַיִּשְׁלַ֥ח|way·yiš·laḥ|had sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v14 חִירָ֖ם|ḥî·rām|And Hiram|H2438|N-proper-ms
 v14 לַמֶּ֑לֶךְ|lam·me·leḵ|the king|H4428|Prep-l, Art | N-ms
@@ -263,7 +263,7 @@ v15 לִבְנוֹת֩|liḇ·nō·wṯ|to build|H1129|Prep-l | V-Qal-Inf
 v15 אֶת־|’eṯ-|-|H853|DirObjM
 v15 בֵּ֨ית|bêṯ|the house|H1004|N-msc
 v15 יְהוָ֤ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v15 וְאֶת־|wə·’eṯ-||H853|Conj-w | DirObjM
+v15 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v15 בֵּיתוֹ֙|bê·ṯōw|his own palace|H1004|N-msc | 3ms
 v15 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v15 הַמִּלּ֔וֹא|ham·mil·lō·w|the supporting terraces|H4407|Art | N-proper-fs
@@ -300,7 +300,7 @@ v17 שְׁלֹמֹה֙|šə·lō·mōh|So Solomon|H8010|N-proper-ms
 v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 גָּ֔זֶר|gā·zer|Gezer|H1507|N-proper-fs
 v17 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v17 בֵּ֥ית|bêṯ|vvv|H1032|Prep
+v17 בֵּ֥ית|bêṯ|...|H1032|Prep
 v17 חֹרֹ֖ן|ḥō·rōn|Beth-horon|H1032|N-proper-fs
 v17 תַּחְתּֽוֹן׃|taḥ·tō·wn|Lower|H8481|Adj-ms
 v18 וְאֶֽת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
@@ -365,7 +365,7 @@ v21 עֹבֵ֔ד|‘ō·ḇêḏ|laborers|H5647|V-Qal-Prtcpl-ms
 v21 עַ֖ד|‘aḏ|as they are to|H5704|Prep
 v21 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
 v21 הַזֶּֽה׃|haz·zeh|this|H2088|Art | Pro-ms
-v22 וּמִבְּנֵי֙|ū·mib·bə·nê|vvv|H1121|Conj-w, Prep-m | N-mpc
+v22 וּמִבְּנֵי֙|ū·mib·bə·nê|...|H1121|Conj-w, Prep-m | N-mpc
 v22 יִשְׂרָאֵ֔ל|yiś·rā·’êl|any of the Israelites|H3478|N-proper-ms
 v22 לֹֽא־|lō-|did not|H3808|Adv-NegPrt
 v22 נָתַ֥ן|nā·ṯan|consign|H5414|V-Qal-Perf-3ms
@@ -380,7 +380,7 @@ v22 וְשָׂרָ֣יו|wə·śā·rāw|his officers|H8269|Conj-w | N-mpc | 3ms
 v22 וְשָׁלִשָׁ֔יו|wə·šā·li·šāw|his captains|H7991|Conj-w | N-mpc | 3ms
 v22 וְשָׂרֵ֥י|wə·śā·rê|and the commanders|H8269|Conj-w | N-mpc
 v22 רִכְבּ֖וֹ|riḵ·bōw|of his chariots|H7393|N-msc | 3ms
-v22 וּפָרָשָֽׁיו׃ס|ū·p̄ā·rā·šāw|and cavalry|H6571|Conj-w | N-mpc | 3ms
+v22 וּפָרָשָֽׁיו׃|ū·p̄ā·rā·šāw|and cavalry|H6571|Conj-w | N-mpc | 3ms
 v23 אֵ֣לֶּה׀|’êl·leh|[They]|H428|Pro-cp
 v23 שָׂרֵ֣י|śā·rê|[were also] the chief|H8269|N-mpc
 v23 הַנִּצָּבִ֗ים|han·niṣ·ṣā·ḇîm|officers|H5324|Art | V-Nifal-Prtcpl-mp
@@ -434,7 +434,7 @@ v26 וָאֳנִ֡י|wā·’o·nî|a fleet of ships|H590|Conj-w | N-ms
 v26 עָשָׂה֩|‘ā·śāh|also assembled|H6213|V-Qal-Perf-3ms
 v26 הַמֶּ֨לֶךְ|ham·me·leḵ|King|H4428|Art | N-ms
 v26 שְׁלֹמֹ֜ה|šə·lō·mōh|Solomon|H8010|N-proper-ms
-v26 בְּעֶצְיֽוֹן־|bə·‘eṣ·yō·wn-|vvv|H6100|Prep
+v26 בְּעֶצְיֽוֹן־|bə·‘eṣ·yō·wn-|...|H6100|Prep
 v26 גֶּ֨בֶר|ge·ḇer|at Ezion-geber|H6100|Prep | N-proper-fs
 v26 אֲשֶׁ֧ר|’ă·šer|which|H834|Pro-r
 v26 אֶת־|’eṯ-|is near|H854|Prep
@@ -448,9 +448,9 @@ v26 אֱדֽוֹם׃|’ĕ·ḏō·wm|Edom|H123|N-proper-ms
 v27 וַיִּשְׁלַ֨ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v27 חִירָ֤ם|ḥî·rām|And Hiram|H2438|N-proper-ms
 v27 בָּֽאֳנִי֙|bā·’o·nî|[to serve] in the fleet|H590|Prep-b | N-ms
-v27 אֶת־|’eṯ-||H853|DirObjM
+v27 אֶת־|’eṯ-|-|H853|DirObjM
 v27 עֲבָדָ֔יו|‘ă·ḇā·ḏāw|his servants|H5650|N-mpc | 3ms
-v27 אַנְשֵׁ֣י|’an·šê|vvv|H582|N-mpc
+v27 אַנְשֵׁ֣י|’an·šê|...|H582|N-mpc
 v27 אֳנִיּ֔וֹת|’o·nî·yō·wṯ|sailors|H591|N-fp
 v27 יֹדְעֵ֖י|yō·ḏə·‘ê|who knew|H3045|V-Qal-Prtcpl-mpc
 v27 הַיָּ֑ם|hay·yām|the sea|H3220|Art | N-ms
@@ -469,4 +469,4 @@ v28 כִּכָּ֑ר|kik·kār|talents|H3603|N-fs
 v28 וַיָּבִ֖אוּ|way·yā·ḇi·’ū|and delivered|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v28 אֶל־|’el-|it to|H413|Prep
 v28 הַמֶּ֥לֶךְ|ham·me·leḵ|...|H4428|Art | N-ms
-v28 שְׁלֹמֹֽה׃פ|šə·lō·mōh|Solomon|H8010|N-proper-ms
+v28 שְׁלֹמֹֽה׃|šə·lō·mōh|Solomon|H8010|N-proper-ms

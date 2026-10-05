@@ -324,7 +324,7 @@ v25 לָהֶ֛ם|lā·hem|them|H0|Prep | 3mp
 v25 צֵדָ֖ה|ṣê·ḏāh|provisions|H6720|N-fs
 v25 לַדָּ֑רֶךְ|lad·dā·reḵ|for their journey|H1870|Prep-l, Art | N-cs
 v25 וַיַּ֥עַשׂ|way·ya·‘aś|order was carried out|H6213|Conj-w | V-Qal-ConsecImperf-3ms
-v25 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v25 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v25 כֵּֽן׃|kên|This|H3651|Adv
 v26 וַיִּשְׂא֥וּ|way·yiś·’ū|and they loaded|H5375|Conj-w | V-Qal-ConsecImperf-3mp
 v26 אֶת־|’eṯ-|-|H853|DirObjM

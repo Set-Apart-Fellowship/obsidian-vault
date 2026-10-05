@@ -47,7 +47,7 @@ v4 מִנֹּ֥גַהּ|min·nō·ḡah|the glistening|H5051|Prep-m | N-fs
 v4 מִמָּטָ֖ר|mim·mā·ṭār|after the rain|H4306|Prep-m | N-ms
 v4 דֶּ֥שֶׁא|de·še|on the sprouting grass|H1877|N-ms
 v4 מֵאָֽרֶץ׃|mê·’ā·reṣ|of the earth|H776|Prep-m | N-fs
-v5 כִּֽי־|kî-||H3588|Conj
+v5 כִּֽי־|kî-|-|H3588|Conj
 v5 לֹא־|lō-|Is not|H3808|Adv-NegPrt
 v5 כֵ֥ן|ḵên|right|H3651|Adv
 v5 בֵּיתִ֖י|bê·ṯî|my house|H1004|N-msc | 1cs
@@ -87,7 +87,7 @@ v7 חֲנִ֑ית|ḥă·nîṯ|of a spear|H2595|N-fs
 v7 וּבָאֵ֕שׁ|ū·ḇā·’êš|The fire|H784|Conj-w, Prep-b, Art | N-cs
 v7 שָׂר֥וֹף|śā·rō·wp̄|burns them to ashes|H8313|V-Qal-InfAbs
 v7 יִשָּׂרְפ֖וּ|yiś·śā·rə·p̄ū|...|H8313|V-Nifal-Imperf-3mp
-v7 בַּשָּֽׁבֶת׃פ|baš·šā·ḇeṯ|in [the] place [where they lie]|H7675|Prep-b, Art | Adj-fs
+v7 בַּשָּֽׁבֶת׃|baš·šā·ḇeṯ|in [the] place [where they lie]|H7675|Prep-b, Art | Adj-fs
 v8 אֵ֛לֶּה|’êl·leh|These|H428|Pro-cp
 v8 שְׁמ֥וֹת|šə·mō·wṯ|are the names|H8034|N-mpc
 v8 הַגִּבֹּרִ֖ים|hag·gib·bō·rîm|mighty men|H1368|Art | Adj-mp
@@ -106,12 +106,12 @@ v8 שְׁמֹנֶ֥ה|šə·mō·neh|eight|H8083|Number-fs
 v8 מֵא֛וֹת|mê·’ō·wṯ|hundred [men]|H3967|Number-fp
 v8 חָלָ֖ל|ḥā·lāl|whom he killed|H2491|N-ms
 v8 בְּפַ֥עַם|bə·p̄a·‘am|time|H6471|Prep-b | N-fs
-v8 אֶחָד׃ס|ʾɛ·ḥå̄ḏ|at one|H259|Number-fs
+v8 אֶחָד׃|ʾɛ·ḥå̄ḏ|at one|H259|Number-fs
 v9 וְאַחֲרוֹ|wə·ʾa·ḥă·rō|Next in command was|H310|Conj-w | Prep | 3ms
 v9 אֶלְעָזָ֥ר|’el·‘ā·zār|Eleazar|H499|N-proper-ms
 v9 בֶּן־|ben-|son|H1121|N-msc
 v9 דֹּדִי|dō·ḏī|of Dodo|H1734|N-proper-ms
-v9 בֶּן־|ben-|vvv|H1121|N-msc
+v9 בֶּן־|ben-|...|H1121|N-msc
 v9 אֲחֹחִ֑י|’ă·ḥō·ḥî|the Ahohite|H266|N-proper-ms
 v9 בִּשְׁלֹשָׁ֨ה|biš·lō·šāh|As one of the three|H7969|Prep-b | Number-ms
 v9 גִבֹּרִים|ḡib·bō·rīm|mighty men|H1368|Art | Adj-mp
@@ -147,7 +147,7 @@ v10 וְהָעָ֛ם|wə·hā·‘ām|Then the troops|H5971|Conj-w, Art | N-ms
 v10 יָשֻׁ֥בוּ|yā·šu·ḇū|returned|H7725|V-Qal-Imperf-3mp
 v10 אַחֲרָ֖יו|’a·ḥă·rāw|to him|H310|Prep | 3ms
 v10 אַךְ־|’aḵ-|but only|H389|Adv
-v10 לְפַשֵּֽׁט׃ס|lə·p̄aš·šêṭ|to plunder the dead|H6584|Prep-l | V-Piel-Inf
+v10 לְפַשֵּֽׁט׃|lə·p̄aš·šêṭ|to plunder the dead|H6584|Prep-l | V-Piel-Inf
 v11 וְאַחֲרָ֛יו|wə·’a·ḥă·rāw|And after him|H310|Conj-w | Prep | 3ms
 v11 שַׁמָּ֥א|šam·mā|was Shammah|H8037|N-proper-ms
 v11 בֶן־|ḇen-|son|H1121|N-msc
@@ -176,7 +176,7 @@ v12 פְּלִשְׁתִּ֑ים|pə·liš·tîm|the Philistines|H6430|N-proper-
 v12 וַיַּ֥עַשׂ|way·ya·‘aś|brought about|H6213|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יְהוָ֖ה|Yah·weh|So the LORD|H3068|N-proper-ms
 v12 תְּשׁוּעָ֥ה|tə·šū·‘āh|victory|H8668|N-fs
-v12 גְדוֹלָֽה׃ס|ḡə·ḏō·w·lāh|a great|H1419|Adj-fs
+v12 גְדוֹלָֽה׃|ḡə·ḏō·w·lāh|a great|H1419|Adj-fs
 v13 וַיֵּרְד֨וּ|way·yê·rə·ḏū|went down|H3381|Conj-w | V-Qal-ConsecImperf-3mp
 v13 שְׁלֹשִׁים|šə·lō·šīm|three|H7970|Number-ms
 v13 מֵהַשְּׁלֹשִׁ֣ים|mê·haš·šə·lō·šîm|of the thirty|H7970|Prep-m, Art | Number-cp
@@ -200,7 +200,7 @@ v14 בַּמְּצוּדָ֑ה|bam·mə·ṣū·ḏāh|was in the stronghold|H46
 v14 וּמַצַּ֣ב|ū·maṣ·ṣaḇ|and the garrison|H4673|Conj-w | N-msc
 v14 פְּלִשְׁתִּ֔ים|pə·liš·tîm|of the Philistines|H6430|N-proper-mp
 v14 אָ֖ז|’āz|...|H227|Adv
-v14 בֵּ֥ית|bêṯ|vvv|H1035|Prep
+v14 בֵּ֥ית|bêṯ|...|H1035|Prep
 v14 לָֽחֶם׃|lā·ḥem|was at Bethlehem|H1035|N-proper-fs
 v15 וַיִּתְאַוֶּ֥ה|way·yiṯ·’aw·weh|longed [for water]|H183|Conj-w | V-Hitpael-ConsecImperf-3ms
 v15 דָוִ֖ד|ḏā·wiḏ|David|H1732|N-proper-ms
@@ -209,7 +209,7 @@ v15 מִ֚י|mî|Oh, that someone|H4310|Interrog
 v15 יַשְׁקֵ֣נִי|yaš·qê·nî|would get me a drink|H8248|V-Hifil-Imperf-3ms | 1cs
 v15 מַ֔יִם|ma·yim|of water|H4325|N-mp
 v15 מִבֹּ֥אר|mib·bōr|from the well|H877|Prep-m | N-msc
-v15 בֵּֽית־|bêṯ-|vvv|H1035|Prep
+v15 בֵּֽית־|bêṯ-|...|H1035|Prep
 v15 לֶ֖חֶם|le·ḥem|of Bethlehem|H1035|N-proper-fs
 v15 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v15 בַּשָּֽׁעַר׃|baš·šā·‘ar|near the gate|H8179|Prep-b, Art | N-ms
@@ -221,7 +221,7 @@ v16 פְלִשְׁתִּ֗ים|p̄ə·liš·tîm|through the Philistine|H6430|N-
 v16 וַיִּֽשְׁאֲבוּ־|way·yiš·’ă·ḇū-|drew|H7579|Conj-w | V-Qal-ConsecImperf-3mp
 v16 מַ֙יִם֙|ma·yim|water|H4325|N-mp
 v16 מִבֹּ֤אר|mib·bōr|from the well|H877|Prep-m | N-msc
-v16 בֵּֽית־|bêṯ-|vvv|H1035|Prep
+v16 בֵּֽית־|bêṯ-|...|H1035|Prep
 v16 לֶ֙חֶם֙|le·ḥem|of Bethlehem|H1035|N-proper-fs
 v16 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v16 בַּשַּׁ֔עַר|baš·ša·‘ar|near the gate|H8179|Prep-b, Art | N-ms
@@ -251,7 +251,7 @@ v17 לִשְׁתּוֹתָ֑ם|liš·tō·w·ṯām|to drink it|H8354|Prep-l | V
 v17 אֵ֣לֶּה|’êl·leh|Such|H428|Pro-cp
 v17 עָשׂ֔וּ|‘ā·śū|were the exploits|H6213|V-Qal-Perf-3cp
 v17 שְׁלֹ֖שֶׁת|šə·lō·šeṯ|of the three|H7969|Number-msc
-v17 הַגִּבֹּרִֽים׃ס|hag·gib·bō·rîm|mighty men|H1368|Art | Adj-mp
+v17 הַגִּבֹּרִֽים׃|hag·gib·bō·rîm|mighty men|H1368|Art | Adj-mp
 v18 וַאֲבִישַׁ֞י|wa·’ă·ḇî·šay|Now Abishai|H52|Conj-w | N-proper-ms
 v18 אֲחִ֣י׀|’ă·ḥî|the brother|H251|N-msc
 v18 יוֹאָ֣ב|yō·w·’āḇ|of Joab|H3097|N-proper-ms
@@ -281,11 +281,11 @@ v19 לְשָׂ֑ר|lə·śār|commander|H8269|Prep-l | N-ms
 v19 וְעַד־|wə·‘aḏ-|...|H5704|Conj-w | Prep
 v19 הַשְּׁלֹשָׁ֖ה|haš·šə·lō·šāh|among the Three|H7969|Art | Number-ms
 v19 לֹא־|lō-|even though he was not|H3808|Adv-NegPrt
-v19 בָֽא׃ס|ḇā|included|H935|V-Qal-Perf-3ms
+v19 בָֽא׃|ḇā|included|H935|V-Qal-Perf-3ms
 v20 וּבְנָיָ֨הוּ|ū·ḇə·nā·yā·hū|And Benaiah|H1141|Conj-w | N-proper-ms
 v20 בֶן־|ḇen-|son|H1121|N-msc
 v20 יְהוֹיָדָ֧ע|yə·hō·w·yā·ḏā‘|of Jehoiada|H3077|N-proper-ms
-v20 בֶּן־|ben-|vvv|H1121|N-msc
+v20 בֶּן־|ben-|...|H1121|N-msc
 v20 אִֽישׁ־|’îš-|[was] a man|H376|N-msc
 v20 חַי|ḥay|of valor|H2416|N-ms
 v20 רַב־|raḇ-|a man of many|H7227|Adj-msc
@@ -338,15 +338,15 @@ v22 הַגִּבֹּרִֽים׃|hag·gib·bō·rîm|mighty men|H1368|Art | Adj-
 v23 מִן־|min-|among|H4480|Prep
 v23 הַשְּׁלֹשִׁ֣ים|haš·šə·lō·šîm|the Thirty|H7970|Art | Number-cp
 v23 נִכְבָּ֔ד|niḵ·bāḏ|He was most honored|H3513|V-Nifal-Prtcpl-ms
-v23 וְאֶל־|wə·’el-||H413|Conj-w | Prep
+v23 וְאֶל־|wə·’el-|-|H413|Conj-w | Prep
 v23 הַשְּׁלֹשָׁ֖ה|haš·šə·lō·šāh|one of the Three|H7969|Art | Number-ms
 v23 לֹא־|lō-|but he did not|H3808|Adv-NegPrt
 v23 בָ֑א|ḇā|become|H935|V-Qal-Perf-3ms
 v23 וַיְשִׂמֵ֥הוּ|way·śi·mê·hū|appointed him|H7760|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
 v23 דָוִ֖ד|ḏā·wiḏ|And David|H1732|N-proper-ms
 v23 אֶל־|’el-|over|H413|Prep
-v23 מִשְׁמַעְתּֽוֹ׃ס|miš·ma‘·tōw|his guard|H4928|N-fsc | 3ms
-v24 עֲשָׂה־|‘ă·śāh-|vvv|H6214|N-proper-ms
+v23 מִשְׁמַעְתּֽוֹ׃|miš·ma‘·tōw|his guard|H4928|N-fsc | 3ms
+v24 עֲשָׂה־|‘ă·śāh-|...|H6214|N-proper-ms
 v24 אֵ֥ל|’êl|Asahel|H6214|N-msc
 v24 אֲחִֽי־|’ă·ḥî-|the brother|H251|N-proper-ms
 v24 יוֹאָ֖ב|yō·w·’āḇ|of Joab|H3097|Prep, Art | Number-cp
@@ -354,26 +354,26 @@ v24 בַּשְּׁלֹשִׁ֑ים|baš·šə·lō·šîm|Now [these were member
 v24 אֶלְחָנָ֥ן|’el·ḥā·nān|Elhanan|H445|N-msc
 v24 בֶּן־|ben-|son|H1121|N-proper-ms
 v24 דֹּד֖וֹ|dō·ḏōw|of Dodo|H1734|N-proper-ms
-v24 בֵּ֥ית|bêṯ|vvv|H1035|Prep
+v24 בֵּ֥ית|bêṯ|...|H1035|Prep
 v24 לָֽחֶם׃|lā·ḥem|of Bethlehem|H1035|N-proper-fs
 v25 שַׁמָּה֙|šam·māh|Shammah|H8048|N-proper-ms
 v25 הַֽחֲרֹדִ֔י|ha·ḥă·rō·ḏî|the Harodite|H2733|Art | N-proper-ms
 v25 אֱלִיקָ֖א|’ĕ·lî·qā|Elika|H470|N-proper-ms
-v25 הַחֲרֹדִֽי׃ס|ha·ḥă·rō·ḏî|the Harodite|H2733|Art | N-proper-ms
+v25 הַחֲרֹדִֽי׃|ha·ḥă·rō·ḏî|the Harodite|H2733|Art | N-proper-ms
 v26 חֶ֚לֶץ|ḥe·leṣ|Helez|H2503|N-proper-ms
 v26 הַפַּלְטִ֔י|hap·pal·ṭî|the Paltite|H6407|Art | N-proper-ms
 v26 עִירָ֥א|‘î·rā|Ira|H5896|N-proper-ms
 v26 בֶן־|ḇen-|son|H1121|N-msc
 v26 עִקֵּ֖שׁ|‘iq·qêš|of Ikkesh|H6142|N-proper-ms
-v26 הַתְּקוֹעִֽי׃ס|hat·tə·qō·w·‘î|the Tekoite|H8621|Art | N-proper-ms
+v26 הַתְּקוֹעִֽי׃|hat·tə·qō·w·‘î|the Tekoite|H8621|Art | N-proper-ms
 v27 אֲבִיעֶ֙זֶר֙|’ă·ḇî·‘e·zer|Abiezer|H44|N-proper-ms
 v27 הָֽעַנְּתֹתִ֔י|hā·‘an·nə·ṯō·ṯî|the Anathothite|H6069|Art | N-proper-ms
 v27 מְבֻנַּ֖י|mə·ḇun·nay|Mebunnai|H4012|N-proper-ms
-v27 הַחֻשָׁתִֽי׃ס|ha·ḥu·šā·ṯî|the Hushathite|H2843|Art | N-proper-ms
+v27 הַחֻשָׁתִֽי׃|ha·ḥu·šā·ṯî|the Hushathite|H2843|Art | N-proper-ms
 v28 צַלְמוֹן֙|ṣal·mō·wn|Zalmon|H6756|N-proper-ms
 v28 הָֽאֲחֹחִ֔י|hā·’ă·ḥō·ḥî|the Ahohite|H266|Art | N-proper-ms
 v28 מַהְרַ֖י|mah·ray|Maharai|H4121|N-proper-ms
-v28 הַנְּטֹפָתִֽי׃ס|han·nə·ṭō·p̄ā·ṯî|the Netophathite|H5200|Art | N-proper-ms
+v28 הַנְּטֹפָתִֽי׃|han·nə·ṭō·p̄ā·ṯî|the Netophathite|H5200|Art | N-proper-ms
 v29 חֵ֥לֶב|ḥê·leḇ|Heled|H2460|N-proper-ms
 v29 בֶּֽן־|ben-|son|H1121|N-msc
 v29 בַּעֲנָ֖ה|ba·‘ă·nāh|of Baanah|H1196|N-proper-ms
@@ -383,28 +383,28 @@ v29 בֶּן־|ben-|son|H1121|N-msc
 v29 רִיבַ֔י|rî·ḇay|of Ribai|H7380|N-proper-ms
 v29 מִגִּבְעַ֖ת|mig·giḇ·‘aṯ|from Gibeah|H1390|Prep-m | N-proper-fs
 v29 בְּנֵ֥י|bə·nê|of the Benjamites|H1121|N-mpc
-v29 בִנְיָמִֽן׃ס|ḇin·yā·min|...|H1144|N-proper-ms
+v29 בִנְיָמִֽן׃|ḇin·yā·min|...|H1144|N-proper-ms
 v30 בְּנָיָ֙הוּ֙|bə·nā·yā·hū|Benaiah|H1141|N-proper-ms
 v30 פִּרְעָ֣תֹנִ֔י|pir·‘ā·ṯō·nî|the Pirathonite|H6553|N-proper-ms
 v30 הִדַּ֖י|hid·day|Hiddai|H1914|N-proper-ms
 v30 מִנַּ֥חֲלֵי|min·na·ḥă·lê|from the brooks|H5158|Prep-m | N-mpc
-v30 גָֽעַשׁ׃ס|ḡā·‘aš|of Gaash|H1608|N-proper-ms
-v31 אֲבִֽי־|’ă·ḇî-|vvv|H45|
+v30 גָֽעַשׁ׃|ḡā·‘aš|of Gaash|H1608|N-proper-ms
+v31 אֲבִֽי־|’ă·ḇî-|...|H45|
 v31 עַלְבוֹן֙|‘al·ḇō·wn|Abi-albon|H45|N-proper-ms
 v31 הָֽעַרְבָתִ֔י|hā·‘ar·ḇā·ṯî|the Arbathite|H6164|Art | N-proper-ms
 v31 עַזְמָ֖וֶת|‘az·mā·weṯ|Azmaveth|H5820|N-proper-ms
-v31 הַבַּרְחֻמִֽי׃ס|hab·bar·ḥu·mî|the Barhumite|H1273|Art | N-proper-ms
+v31 הַבַּרְחֻמִֽי׃|hab·bar·ḥu·mî|the Barhumite|H1273|Art | N-proper-ms
 v32 אֶלְיַחְבָּא֙|’el·yaḥ·bā|Eliahba|H455|N-proper-ms
 v32 הַשַּׁ֣עַלְבֹנִ֔י|haš·ša·‘al·ḇō·nî|the Shaalbonite|H8170|Art | N-proper-ms
 v32 בְּנֵ֥י|bə·nê|the sons|H1121|N-mpc
 v32 יָשֵׁ֖ן|yā·šên|of Jashen|H3464|N-proper-ms
-v32 יְהוֹנָתָֽן׃ס|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
+v32 יְהוֹנָתָֽן׃|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
 v33 שַׁמָּה֙|šam·māh|[son of] Shammah|H8048|N-proper-ms
 v33 הַֽהֲרָרִ֔י|ha·hă·rā·rî|the Hararite|H2043|Art | N-proper-ms
 v33 אֲחִיאָ֥ם|’ă·ḥî·’ām|Ahiam|H279|N-proper-ms
 v33 בֶּן־|ben-|son|H1121|N-msc
 v33 שָׁרָ֖ר|šā·rār|of Sharar|H8325|N-proper-ms
-v33 הָארָרִֽי׃ס|hā·rā·rî|the Hararite|H2043|N-proper-ms
+v33 הָארָרִֽי׃|hā·rā·rî|the Hararite|H2043|N-proper-ms
 v34 אֱלִיפֶ֥לֶט|’ĕ·lî·p̄e·leṭ|Eliphelet|H467|N-proper-ms
 v34 בֶּן־|ben-|son|H1121|N-msc
 v34 אֲחַסְבַּ֖י|’ă·ḥas·bay|of Ahasbai|H308|N-proper-ms
@@ -413,17 +413,17 @@ v34 הַמַּֽעֲכָתִ֑יס|ham·ma·ʿă·ḵå̄·ṯīs|the Maacathit
 v34 אֱלִיעָ֥ם|’ĕ·lî·‘ām|Eliam|H463|N-proper-ms
 v34 בֶּן־|ben-|son|H1121|N-msc
 v34 אֲחִיתֹ֖פֶל|’ă·ḥî·ṯō·p̄el|of Ahithophel|H302|N-proper-ms
-v34 הַגִּלֹנִֽי׃ס|hag·gi·lō·nî|the Gilonite|H1526|Art | N-proper-ms
+v34 הַגִּלֹנִֽי׃|hag·gi·lō·nî|the Gilonite|H1526|Art | N-proper-ms
 v35 חֶצְרוֹ|ḥɛṣ·rō|Hezro|H2695|N-proper-ms
 v35 הַֽכַּרְמְלִ֔י|hak·kar·mə·lî|the Carmelite|H3761|Art | N-proper-ms
 v35 פַּעֲרַ֖י|pa·‘ă·ray|Paarai|H6474|N-proper-ms
-v35 הָאַרְבִּֽי׃ס|hā·’ar·bî|the Arbite|H701|Art | N-proper-ms
+v35 הָאַרְבִּֽי׃|hā·’ar·bî|the Arbite|H701|Art | N-proper-ms
 v36 יִגְאָ֤ל|yiḡ·’āl|Igal|H3008|N-proper-ms
 v36 בֶּן־|ben-|son|H1121|N-msc
 v36 נָתָן֙|nā·ṯān|of Nathan|H5416|N-proper-ms
 v36 מִצֹּבָ֔הס|miṣ·ṣō·ḇå̄·hs|of Zobah|H6678|Prep-m | N-proper-fs
 v36 בָּנִ֖י|bā·nî|Bani|H1137|N-proper-ms
-v36 הַגָּדִֽי׃ס|hag·gā·ḏî|the Gadite|H1425|Art | N-proper-ms
+v36 הַגָּדִֽי׃|hag·gā·ḏî|the Gadite|H1425|Art | N-proper-ms
 v37 צֶ֖לֶק|ṣe·leq|Zelek|H6768|N-proper-ms
 v37 הָעַמֹּנִ֑יס|hå̄·ʿam·mō·nīs|the Ammonite|H5984|Art | N-proper-ms
 v37 נַחְרַי֙|naḥ·ray|Naharai|H5171|N-proper-ms
@@ -432,13 +432,13 @@ v37 נֹשְׂאֵי|nō·śə·ʾē|the armor-bearer|H5375|V-Qal-Prtcpl-msc
 v37 כְּלֵ֖י|kə·lê|...|H3627|N-mpc
 v37 יוֹאָ֥ב|yō·w·’āḇ|of Joab|H3097|N-proper-ms
 v37 בֶּן־|ben-|son|H1121|N-msc
-v37 צְרֻיָֽה׃ס|ṣə·ru·yāh|of Zeruiah|H6870|N-proper-ms
+v37 צְרֻיָֽה׃|ṣə·ru·yāh|of Zeruiah|H6870|N-proper-ms
 v38 עִירָא֙|‘î·rā|Ira|H5896|N-proper-ms
 v38 הַיִּתְרִ֔י|hay·yiṯ·rî|the Ithrite|H3505|Art | N-proper-ms
 v38 גָּרֵ֖ב|gā·rêḇ|Gareb|H1619|N-proper-ms
-v38 הַיִּתְרִֽי׃ס|hay·yiṯ·rî|the Ithrite|H3505|Art | N-proper-ms
+v38 הַיִּתְרִֽי׃|hay·yiṯ·rî|the Ithrite|H3505|Art | N-proper-ms
 v39 אֽוּרִיָּה֙|’ū·rî·yāh|and Uriah|H223|N-proper-ms
 v39 הַֽחִתִּ֔י|ha·ḥit·tî|the Hittite|H2850|Art | N-proper-ms
 v39 כֹּ֖ל|kōl|in all|H3605|N-ms
 v39 שְׁלֹשִׁ֥ים|šə·lō·šîm|There were thirty-seven|H7970|Number-cp
-v39 וְשִׁבְעָֽה׃פ|wə·šiḇ·‘āh|...|H7651|Conj-w | Number-ms
+v39 וְשִׁבְעָֽה׃|wə·šiḇ·‘āh|...|H7651|Conj-w | Number-ms

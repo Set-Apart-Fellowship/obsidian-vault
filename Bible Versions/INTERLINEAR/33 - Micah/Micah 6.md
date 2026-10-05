@@ -113,7 +113,7 @@ v8 חֶ֔סֶד|ḥe·seḏ|mercy|H2617|N-ms
 v8 וְהַצְנֵ֥עַ|wə·haṣ·nê·a‘|humbly|H6800|Conj-w | V-Hifil-InfAbs
 v8 לֶ֖כֶת|le·ḵeṯ|and to walk|H1980|V-Qal-Inf
 v8 עִם־|‘im-|with|H5973|Prep
-v8 אֱלֹהֶֽיךָ׃פ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
+v8 אֱלֹהֶֽיךָ׃|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v9 ק֤וֹל|qō·wl|The voice|H6963|N-msc
 v9 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
 v9 לָעִ֣יר|lā·‘îr|to the city|H5892|Prep-l, Art | N-fs
@@ -201,4 +201,4 @@ v16 וְיֹשְׁבֶ֙יהָ֙|wə·yō·šə·ḇe·hā|and your inhabitants|
 v16 לִשְׁרֵקָ֔ה|liš·rê·qāh|an object of contempt|H8322|Prep-l | N-fs
 v16 וְחֶרְפַּ֥ת|wə·ḥer·paṯ|the scorn|H2781|Conj-w | N-fsc
 v16 עַמִּ֖י|‘am·mî|of the nations|H5971|N-msc | 1cs
-v16 תִּשָּֽׂאוּ׃פ|tiś·śā·’ū|you will bear|H5375|V-Qal-Imperf-2mp
+v16 תִּשָּֽׂאוּ׃|tiś·śā·’ū|you will bear|H5375|V-Qal-Imperf-2mp

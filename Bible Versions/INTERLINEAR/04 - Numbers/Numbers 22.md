@@ -6,7 +6,7 @@ v1 בְּעַֽרְב֣וֹת|bə·‘ar·ḇō·wṯ|in the plains|H6160|Prep-b
 v1 מוֹאָ֔ב|mō·w·’āḇ|of Moab|H4124|N-proper-fs
 v1 מֵעֵ֖בֶר|mê·‘ê·ḇer|across from|H5676|Prep-m | N-msc
 v1 לְיַרְדֵּ֥ן|lə·yar·dên|near the Jordan|H3383|Prep-l | N-proper-fs
-v1 יְרֵחֽוֹ׃ס|yə·rê·ḥōw|Jericho|H3405|N-proper-fs
+v1 יְרֵחֽוֹ׃|yə·rê·ḥōw|Jericho|H3405|N-proper-fs
 v2 וַיַּ֥רְא|way·yar|saw|H7200|Conj-w | V-Qal-ConsecImperf-3ms
 v2 בָּלָ֖ק|bā·lāq|Now Balak|H1111|N-proper-ms
 v2 בֶּן־|ben-|son|H1121|N-msc
@@ -67,7 +67,7 @@ v5 אֶ֥רֶץ|’e·reṣ|in the land|H776|N-fsc
 v5 בְּנֵי־|bə·nê-|of his people|H1121|N-mpc
 v5 עַמּ֖וֹ|‘am·mōw|...|H5971|N-msc | 3ms
 v5 לִקְרֹא־|liq·rō-|said Balak|H7121|Prep-l | V-Qal-Inf
-v5 ל֑וֹ|lōw||H0|Prep | 3ms
+v5 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v5 לֵאמֹ֗ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v5 הִ֠נֵּה|hin·nêh|Behold|H2009|Interjection
 v5 עַ֣ם|‘am|a people|H5971|N-ms
@@ -85,7 +85,7 @@ v6 וְעַתָּה֩|wə·‘at·tāh|now|H6258|Conj-w | Adv
 v6 לְכָה־|lə·ḵāh-|come|H1980|V-Qal-Imp-ms | 3fs
 v6 נָּ֨א|nā|So please|H4994|Interjection
 v6 אָֽרָה־|’ā·rāh-|and put a curse|H779|V-Qal-Imp-ms | 3fs
-v6 לִּ֜י|lî||H0|Prep | 1cs
+v6 לִּ֜י|lî|-|H0|Prep | 1cs
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 הָעָ֣ם|hā·‘ām|people|H5971|Art | N-ms
 v6 הַזֶּ֗ה|haz·zeh|on this|H2088|Art | Pro-ms
@@ -231,7 +231,7 @@ v16 וַיָּבֹ֖אוּ|way·yā·ḇō·’ū|They came|H935|Conj-w | V-Qal-
 v16 אֶל־|’el-|to|H413|Prep
 v16 בִּלְעָ֑ם|bil·‘ām|Balaam|H1109|N-proper-ms
 v16 וַיֹּ֣אמְרוּ|way·yō·mə·rū|and said|H559|Conj-w | V-Qal-ConsecImperf-3mp
-v16 ל֗וֹ|lōw||H0|Prep | 3ms
+v16 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v16 כֹּ֤ה|kōh|This is what|H3541|Adv
 v16 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v16 בָּלָ֣ק|bā·lāq|Balak|H1111|N-proper-ms
@@ -254,7 +254,7 @@ v17 אֶֽעֱשֶׂ֑ה|’e·‘ĕ·śeh|and do|H6213|V-Qal-Imperf-1cs
 v17 וּלְכָה־|ū·lə·ḵāh-|come|H1980|Conj-w | V-Qal-Imp-ms | 3fs
 v17 נָּא֙|nā|So please|H4994|Interjection
 v17 קָֽבָה־|qā·ḇāh-|and put a curse|H6895|V-Qal-Imp-ms | 3fs
-v17 לִּ֔י|lî||H0|Prep | 1cs
+v17 לִּ֔י|lî|-|H0|Prep | 1cs
 v17 אֵ֖ת|’êṯ|-|H853|DirObjM
 v17 הָעָ֥ם|hā·‘ām|people for me|H5971|Art | N-ms
 v17 הַזֶּֽה׃|haz·zeh|on this|H2088|Art | Pro-ms
@@ -302,7 +302,7 @@ v20 אֶל־|’el-|to|H413|Prep
 v20 בִּלְעָם֮|bil·‘ām|Balaam|H1109|N-proper-ms
 v20 לַיְלָה֒|lay·lāh|That night|H3915|N-ms
 v20 וַיֹּ֣אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v20 ל֗וֹ|lōw||H0|Prep | 3ms
+v20 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v20 אִם־|’im-|Since|H518|Conj
 v20 לִקְרֹ֤א|liq·rō|to summon|H7121|Prep-l | V-Qal-Inf
 v20 לְךָ֙|lə·ḵā|you|H0|Prep | 2ms
@@ -519,7 +519,7 @@ v33 רְגָלִ֑ים|rə·ḡā·lîm|times|H7272|N-fp
 v33 אוּלַי֙|’ū·lay|If she had not|H194|Adv
 v33 נָטְתָ֣ה|nā·ṭə·ṯāh|turned away|H5186|V-Qal-Perf-3fs
 v33 מִפָּנַ֔י|mip·pā·nay|-|H6440|Prep-m | N-mpc | 1cs
-v33 כִּ֥י|kî|vvv|H3588|Conj
+v33 כִּ֥י|kî|...|H3588|Conj
 v33 עַתָּ֛ה|‘at·tāh|then by now|H6258|Adv
 v33 גַּם־|gam-|...|H1571|Conj
 v33 אֹתְכָ֥ה|’ō·ṯə·ḵāh|you|H853|DirObjM | 2ms
@@ -595,7 +595,7 @@ v37 אֵלֶ֙יךָ֙|’ê·le·ḵā|...|H413|Prep | 2ms
 v37 לִקְרֹא־|liq·rō-|...|H7121|Prep-l | V-Qal-Inf
 v37 לָ֔ךְ|lāḵ|...|H0|Prep | 2fs
 v37 לָ֥מָּה|lām·māh|Why|H4100|Interrog
-v37 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v37 לֹא־|lō-|...|H3808|Adv-NegPrt
 v37 הָלַ֖כְתָּ|hā·laḵ·tā|did you not come|H1980|V-Qal-Perf-2ms
 v37 אֵלָ֑י|’ê·lāy|to me|H413|Prep | 1cs
 v37 הַֽאֻמְנָ֔ם|ha·’um·nām|Am I really|H552|Conj
@@ -626,7 +626,7 @@ v39 בִּלְעָ֖ם|bil·‘ām|So Balaam|H1109|N-proper-ms
 v39 עִם־|‘im-|...|H5973|Prep
 v39 בָּלָ֑ק|bā·lāq|Balak|H1111|N-proper-ms
 v39 וַיָּבֹ֖אוּ|way·yā·ḇō·’ū|and they came|H935|Conj-w | V-Qal-ConsecImperf-3mp
-v39 קִרְיַ֥ת|qir·yaṯ|vvv|H7155|
+v39 קִרְיַ֥ת|qir·yaṯ|...|H7155|
 v39 חֻצֽוֹת׃|ḥu·ṣō·wṯ|to Kiriath-huzoth|H7155|N-proper-fs
 v40 וַיִּזְבַּ֥ח|way·yiz·baḥ|sacrificed|H2076|Conj-w | V-Qal-ConsecImperf-3ms
 v40 בָּלָ֖ק|bā·lāq|Balak|H1111|N-proper-ms
@@ -637,7 +637,7 @@ v40 לְבִלְעָ֔ם|lə·ḇil·‘ām|to Balaam|H1109|Prep-l | N-proper-ms
 v40 וְלַשָּׂרִ֖ים|wə·laś·śā·rîm|and the princes|H8269|Conj-w, Prep-l, Art | N-mp
 v40 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
 v40 אִתּֽוֹ׃|’it·tōw|were with him|H854|Prep | 3ms
-v41 וַיְהִ֣י|way·hî|vvv|H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v41 וַיְהִ֣י|way·hî|...|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v41 בַבֹּ֔קֶר|ḇab·bō·qer|The next morning|H1242|Prep-b, Art | N-ms
 v41 וַיִּקַּ֤ח|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v41 בָּלָק֙|bā·lāq|Balak|H1111|N-proper-ms

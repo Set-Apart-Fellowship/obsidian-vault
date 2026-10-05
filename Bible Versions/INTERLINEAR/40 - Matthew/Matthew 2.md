@@ -157,7 +157,7 @@ v9 ἀνατολῇ|anatolē|east|G395|N-DFS
 v9 προῆγεν|proēgen|went ahead of|G4254|V-IIA-3S
 v9 αὐτούς|autous|them|G846|PPro-AM3P
 v9 ἕως|heōs|until|G2193|Conj
-v9 ἐλθὼν|elthōn|vvv|G2064|V-APA-NMS
+v9 ἐλθὼν|elthōn|...|G2064|V-APA-NMS
 v9 ἐστάθη|estathē|it stood|G2476|V-AIP-3S
 v9 ἐπάνω|epanō|over|G1883|Prep
 v9 οὗ|hou|the place where|G3757|Adv
@@ -170,8 +170,8 @@ v10 τὸν|ton|the|G3588|Art-AMS
 v10 ἀστέρα|astera|star|G792|N-AMS
 v10 ἐχάρησαν|echarēsan|they rejoiced|G5463|V-AIP-3P
 v10 χαρὰν|charan|with great delight|G5479|N-AFS
-v10 μεγάλην|megalēn|vvv|G3173|Adj-AFS
-v10 σφόδρα|sphodra|vvv|G4970|Adv
+v10 μεγάλην|megalēn|...|G3173|Adj-AFS
+v10 σφόδρα|sphodra|...|G4970|Adv
 v11 καὶ|kai|[On]|G2532|Conj
 v11 ἐλθόντες|elthontes|coming|G2064|V-APA-NMP
 v11 εἰς|eis|to|G1519|Prep
@@ -305,7 +305,7 @@ v16 ὑπὸ|hypo|by|G5259|Prep
 v16 τῶν|tōn|the|G3588|Art-GMP
 v16 μάγων|magōn|Magi|G3097|N-GMP
 v16 ἐθυμώθη|ethymōthē|he was filled with rage|G2373|V-AIP-3S
-v16 λίαν|lian|vvv|G3029|Adv
+v16 λίαν|lian|...|G3029|Adv
 v16 καὶ|kai|-|G2532|Conj
 v16 ἀποστείλας|aposteilas|Sending orders|G649|V-APA-NMS
 v16 ἀνεῖλεν|aneilen|he put to death|G337|V-AIA-3S
@@ -396,7 +396,7 @@ v20 οἱ|hoi|those|G3588|Art-NMP
 v20 ζητοῦντες|zētountes|seeking|G2212|V-PPA-NMP
 v20 τὴν|tēn|the|G3588|Art-AFS
 v20 ψυχὴν|psychēn|life|G5590|N-AFS
-v20 τοῦ|tou|vvv|G3588|Art-GNS
+v20 τοῦ|tou|...|G3588|Art-GNS
 v20 παιδίου|paidiou|Child's|G3813|N-GNS
 v21 Ὁ|Ho|-|G3588|Art-NMS
 v21 δὲ|de|So|G1161|Conj

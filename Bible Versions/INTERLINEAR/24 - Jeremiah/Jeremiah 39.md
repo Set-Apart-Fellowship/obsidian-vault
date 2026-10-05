@@ -14,7 +14,7 @@ v1 חֵילוֹ֙|ḥê·lōw|army|H2428|N-msc | 3ms
 v1 אֶל־|’el-|against|H413|Prep
 v1 יְר֣וּשָׁלִַ֔ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v1 וַיָּצֻ֖רוּ|way·yā·ṣu·rū|and laid siege|H6696|Conj-w | V-Qal-ConsecImperf-3mp
-v1 עָלֶֽיהָ׃ס|‘ā·le·hā|to [the city]|H5921|Prep | 3fs
+v1 עָלֶֽיהָ׃|‘ā·le·hā|to [the city]|H5921|Prep | 3fs
 v2 בְּעַשְׁתֵּֽי־|bə·‘aš·tê-|eleventh|H6249|Prep-b | Number-csc
 v2 עֶשְׂרֵ֤ה|‘eś·rêh|...|H6240|Number-fs
 v2 שָׁנָה֙|šā·nāh|year|H8141|N-fs
@@ -33,19 +33,19 @@ v3 בָּבֶ֔ל|bā·ḇel|of Babylon|H894|N-proper-fs
 v3 וַיֵּשְׁב֖וּ|way·yê·šə·ḇū|and sat|H3427|Conj-w | V-Qal-ConsecImperf-3mp
 v3 בְּשַׁ֣עַר|bə·ša·‘ar|Gate|H8179|Prep-b | N-msc
 v3 הַתָּ֑וֶךְ|hat·tā·weḵ|in the Middle|H8432|Art | N-ms
-v3 נֵרְגַ֣ל|nê·rə·ḡal|vvv|H5371|
-v3 שַׂר־|śar-|vvv|H5371|
+v3 נֵרְגַ֣ל|nê·rə·ḡal|...|H5371|
+v3 שַׂר־|śar-|...|H5371|
 v3 אֶ֠צֶר|’e·ṣer|Nergal-sharezer|H5371|N-proper-ms
 v3 סַֽמְגַּר־|sam·gar-|of Samgar|H5562|
-v3 נְב֞וּ|nə·ḇū|vvv|H5562|N-proper-ms
-v3 שַׂר־|śar-|vvv|H8310|
+v3 נְב֞וּ|nə·ḇū|...|H5562|N-proper-ms
+v3 שַׂר־|śar-|...|H8310|
 v3 סְכִ֣ים|sə·ḵîm|Nebo-sarsekim|H8310|N-proper-ms
-v3 רַב־|raḇ-|vvv|H7249|N-ms
+v3 רַב־|raḇ-|...|H7249|N-ms
 v3 סָרִ֗יס|sā·rîs|the Rabsaris|H7249|N-ms
-v3 נֵרְגַ֤ל|nê·rə·ḡal|vvv|H5371|
-v3 שַׂר־|śar-|vvv|H5371|
+v3 נֵרְגַ֤ל|nê·rə·ḡal|...|H5371|
+v3 שַׂר־|śar-|...|H5371|
 v3 אֶ֙צֶר֙|’e·ṣer|Nergal-sharezer|H5371|N-proper-ms
-v3 רַב־|raḇ-|vvv|H7248|N-ms
+v3 רַב־|raḇ-|...|H7248|N-ms
 v3 מָ֔ג|māḡ|the Rabmag|H7248|N-ms
 v3 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v3 שְׁאֵרִ֔ית|šə·’ê·rîṯ|the rest|H7611|N-fsc
@@ -149,7 +149,7 @@ v9 יֶ֥תֶר|ye·ṯer|-|H3499|N-msc
 v9 הָעָ֖ם|hā·‘ām|-|H5971|Art | N-ms
 v9 הַנִּשְׁאָרִ֑ים|han·niš·’ā·rîm|-|H7604|Art | V-Nifal-Prtcpl-mp
 v9 הֶגְלָ֛ה|heḡ·lāh|carried|H1540|V-Hifil-Perf-3ms
-v9 נְבֽוּזַר־|nə·ḇū·zar-|vvv|H5018|
+v9 נְבֽוּזַר־|nə·ḇū·zar-|...|H5018|
 v9 אֲדָ֥ן|ʾă·ḏå̄n|Nebuzaradan|H5018|N-proper-ms
 v9 רַב־|raḇ-|captain|H7227|N-msc
 v9 טַבָּחִ֖ים|ṭab·bā·ḥîm|of the guard|H2876|N-mp
@@ -194,7 +194,7 @@ v12 ל֖וֹ|lōw|to him|H0|Prep | 3ms
 v12 מְא֣וּמָה|mə·’ū·māh|let any|H3972|N-ms
 v12 רָּ֑ע|rā‘|harm|H7451|Adj-ms
 v12 כִּ֗י|kî|...|H3588|Conj
-v12 אם|m||H518|Conj
+v12 אם|m|-|H518|Conj
 v12 כַּֽאֲשֶׁר֙|ka·’ă·šer|whatever|H834|Prep-k | Pro-r
 v12 יְדַבֵּ֣ר|yə·ḏab·bêr|he says|H1696|V-Piel-Imperf-3ms
 v12 אֵלֶ֔יךָ|’ê·le·ḵā|...|H413|Prep | 2ms
@@ -206,12 +206,12 @@ v13 נְבֽוּזַרְאֲדָ֣ן|nə·ḇū·zar·’ă·ḏān|So Nebuzara
 v13 רַב־|raḇ-|captain|H7227|N-msc
 v13 טַבָּחִ֗ים|ṭab·bā·ḥîm|of the guard|H2876|N-mp
 v13 וּנְבֽוּשַׁזְבָּן֙|ū·nə·ḇū·šaz·bå̄n|Nebushazban|H5021|Conj-w | N-proper-ms
-v13 רַב־|raḇ-|vvv|H7249|N-ms
+v13 רַב־|raḇ-|...|H7249|N-ms
 v13 סָרִ֔יס|sā·rîs|the Rabsaris|H7249|N-ms
-v13 וְנֵרְגַ֥ל|wə·nê·rə·ḡal|vvv|H5371|
-v13 שַׂר־|śar-|vvv|H5371|
+v13 וְנֵרְגַ֥ל|wə·nê·rə·ḡal|...|H5371|
+v13 שַׂר־|śar-|...|H5371|
 v13 אֶ֖צֶר|’e·ṣer|Nergal-sharezer|H5371|Conj-w | N-proper-ms
-v13 רַב־|raḇ-|vvv|H7248|N-msc
+v13 רַב־|raḇ-|...|H7248|N-msc
 v13 מָ֑ג|māḡ|the Rabmag|H7248|N-ms
 v13 וְכֹ֖ל|wə·ḵōl|and all|H3605|Conj-w | N-msc
 v13 רַבֵּ֥י|rab·bê|the captains|H7227|N-mpc
@@ -236,7 +236,7 @@ v14 אֶל־|’el-|him|H413|Prep
 v14 הַבָּ֑יִת|hab·bā·yiṯ|home|H1004|Art | N-ms
 v14 וַיֵּ֖שֶׁב|way·yê·šeḇ|So [Jeremiah] remained|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v14 בְּת֥וֹךְ|bə·ṯō·wḵ|among|H8432|Prep-b | N-msc
-v14 הָעָֽם׃ס|hā·‘ām|his own people|H5971|Art | N-ms
+v14 הָעָֽם׃|hā·‘ām|his own people|H5971|Art | N-ms
 v15 וְאֶֽל־|wə·’el-|to|H413|Conj-w | Prep
 v15 יִרְמְיָ֖הוּ|yir·mə·yā·hū|[him]|H3414|N-proper-ms
 v15 הָיָ֣ה|hā·yāh|had come|H1961|V-Qal-Perf-3ms
@@ -249,7 +249,7 @@ v15 הַמַּטָּרָ֖ה|ham·maṭ·ṭā·rāh|of the guard|H4307|Art | N-
 v15 לֵאמֹֽר׃|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v16 הָל֣וֹךְ|hā·lō·wḵ|Go|H1980|V-Qal-InfAbs
 v16 וְאָמַרְתָּ֡|wə·’ā·mar·tā|and tell|H559|Conj-w | V-Qal-ConjPerf-2ms
-v16 לְעֶבֶד־|lə·‘e·ḇeḏ-|vvv|H5663|Prep
+v16 לְעֶבֶד־|lə·‘e·ḇeḏ-|...|H5663|Prep
 v16 מֶ֨לֶךְ|mɛ·lɛḵ|Ebed-melech|H5663|Prep | N-proper-ms
 v16 הַכּוּשִׁ֜י|hak·kū·šî|the Cushite that|H3569|Art | N-proper-ms
 v16 לֵאמֹ֗ר|lê·mōr|says|H559|Prep-l | V-Qal-Inf
@@ -300,4 +300,4 @@ v18 כִּֽי־|kî-|Because|H3588|Conj
 v18 בָטַ֥חְתָּ|ḇā·ṭaḥ·tā|you have trusted|H982|V-Qal-Perf-2ms
 v18 בִּ֖י|bî|in Me|H0|Prep | 1cs
 v18 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v18 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v18 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms

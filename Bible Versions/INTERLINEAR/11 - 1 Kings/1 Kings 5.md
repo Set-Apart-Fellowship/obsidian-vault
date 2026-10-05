@@ -20,7 +20,7 @@ v1 הָיָ֥ה|hā·yāh|been|H1961|V-Qal-Perf-3ms
 v1 חִירָ֛ם|ḥî·rām|Hiram|H2438|N-proper-ms
 v1 לְדָוִ֖ד|lə·ḏā·wiḏ|of David|H1732|Prep-l | N-proper-ms
 v1 כָּל־|kāl-|had always|H3605|N-msc
-v1 הַיָּמִֽים׃ס|hay·yā·mîm|...|H3117|Art | N-mp
+v1 הַיָּמִֽים׃|hay·yā·mîm|...|H3117|Art | N-mp
 v2 וַיִּשְׁלַ֣ח|way·yiš·laḥ|relayed|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v2 שְׁלֹמֹ֔ה|šə·lō·mōh|And Solomon|H8010|N-proper-ms
 v2 אֶל־|’el-|to|H413|Prep
@@ -31,7 +31,7 @@ v3 יָדַ֜עְתָּ|yā·ḏa‘·tā|are well aware|H3045|V-Qal-Perf-2ms
 v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 דָּוִ֣ד|dā·wiḏ|David|H1732|N-proper-ms
 v3 אָבִ֗י|’ā·ḇî|against my father|H1|N-msc | 1cs
-v3 כִּ֣י|kî||H3588|Conj
+v3 כִּ֣י|kî|-|H3588|Conj
 v3 לֹ֤א|lō|not|H3808|Adv-NegPrt
 v3 יָכֹל֙|yā·ḵōl|he could|H3201|V-Qal-Perf-3ms
 v3 לִבְנ֣וֹת|liḇ·nō·wṯ|build|H1129|Prep-l | V-Qal-Inf
@@ -109,7 +109,7 @@ v6 יָדַ֗עְתָּ|yā·ḏa‘·tā|know|H3045|V-Qal-Perf-2ms
 v6 כִּ֣י|kî|that|H3588|Conj
 v6 אֵ֥ין|’ên|[there are] none|H369|Adv
 v6 בָּ֛נוּ|bā·nū|among us|H0|Prep | 1cp
-v6 אִ֛ישׁ|’îš||H376|N-ms
+v6 אִ֛ישׁ|’îš|-|H376|N-ms
 v6 יֹדֵ֥עַ|yō·ḏê·a‘|as skilled|H3045|V-Qal-Prtcpl-ms
 v6 לִכְרָת־|liḵ·rāṯ-|in logging|H3772|Prep-l | V-Qal-Inf
 v6 עֵצִ֖ים|‘ê·ṣîm|...|H6086|N-mp
@@ -165,7 +165,7 @@ v9 דֹּבְר֤וֹת|dō·ḇə·rō·wṯ|as rafts|H1702|N-fp
 v9 בַּיָּם֙|bay·yām|by sea|H3220|Prep-b, Art | N-ms
 v9 עַֽד־|‘aḏ-|to|H5704|Prep
 v9 הַמָּק֞וֹם|ham·mā·qō·wm|the place|H4725|Art | N-ms
-v9 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v9 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v9 תִּשְׁלַ֥ח|tiš·laḥ|you specify|H7971|V-Qal-Imperf-2ms
 v9 אֵלַ֛י|’ê·lay|...|H413|Prep | 1cs
 v9 וְנִפַּצְתִּ֥ים|wə·nip·paṣ·tîm|I will separate [the logs]|H5310|Conj-w | V-Piel-ConjPerf-1cs | 3mp
@@ -207,7 +207,7 @@ v11 יִתֵּ֧ן|yit·tên|-|H5414|V-Qal-Imperf-3ms
 v11 שְׁלֹמֹ֛ה|šə·lō·mōh|-|H8010|N-proper-ms
 v11 לְחִירָ֖ם|lə·ḥî·rām|-|H2438|Prep-l | N-proper-ms
 v11 שָׁנָ֥ה|šā·nāh|and year|H8141|N-fs
-v11 בְשָׁנָֽה׃פ|ḇə·šā·nāh|after year|H8141|Prep-b | N-fs
+v11 בְשָׁנָֽה׃|ḇə·šā·nāh|after year|H8141|Prep-b | N-fs
 v12 וַיהוָ֗ה|Yah·weh|And the LORD|H3068|Conj-w | N-proper-ms
 v12 נָתַ֤ן|nā·ṯan|gave|H5414|V-Qal-Perf-3ms
 v12 חָכְמָה֙|ḥāḵ·māh|wisdom|H2451|N-fs
@@ -249,14 +249,14 @@ v14 חֳדָשִׁ֖ים|ḥo·ḏā·šîm|months|H2320|N-mp
 v14 בְּבֵית֑וֹ|bə·ḇê·ṯōw|at home|H1004|Prep-b | N-msc | 3ms
 v14 וַאֲדֹנִירָ֖ם|wa·’ă·ḏō·nî·rām|And Adoniram [was]|H141|Conj-w | N-proper-ms
 v14 עַל־|‘al-|in charge|H5921|Prep
-v14 הַמַּֽס׃ס|ham·mas|of the forced labor|H4522|Art | N-ms
+v14 הַמַּֽס׃|ham·mas|of the forced labor|H4522|Art | N-ms
 v15 וַיְהִ֧י|way·hî|had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v15 לִשְׁלֹמֹ֛ה|liš·lō·mōh|Solomon|H8010|Prep-l | N-proper-ms
-v15 שִׁבְעִ֥ים|šiḇ·‘îm|70,000 {}|H7657|Number-cp
+v15 שִׁבְעִ֥ים|šiḇ·‘îm|70,000|H7657|Number-cp
 v15 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v15 נֹשֵׂ֣א|nō·śê|porters|H5375|V-Qal-Prtcpl-ms
 v15 סַבָּ֑ל|sab·bāl|...|H5449|N-ms
-v15 וּשְׁמֹנִ֥ים|ū·šə·mō·nîm|and 80,000 {}|H8084|Conj-w | Number-cp
+v15 וּשְׁמֹנִ֥ים|ū·šə·mō·nîm|and 80,000|H8084|Conj-w | Number-cp
 v15 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v15 חֹצֵ֥ב|ḥō·ṣêḇ|stonecutters|H2672|N-ms
 v15 בָּהָֽר׃|bā·hār|in the mountains|H2022|Prep-b, Art | N-ms
@@ -267,7 +267,7 @@ v16 לִשְׁלֹמֹה֙|liš·lō·mōh|his|H8010|Prep-l | N-proper-ms
 v16 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v16 עַל־|‘al-|...|H5921|Prep
 v16 הַמְּלָאכָ֔ה|ham·mə·lā·ḵāh|...|H4399|Art | N-fs
-v16 שְׁלֹ֥שֶׁת|šə·lō·šeṯ|3,300 {}|H7969|Number-msc
+v16 שְׁלֹ֥שֶׁת|šə·lō·šeṯ|3,300|H7969|Number-msc
 v16 אֲלָפִ֖ים|’ă·lā·p̄îm|...|H505|Number-mp
 v16 וּשְׁלֹ֣שׁ|ū·šə·lōš|...|H7969|Conj-w | Number-fsc
 v16 מֵא֑וֹת|mê·’ō·wṯ|...|H3967|Number-fp
@@ -296,4 +296,4 @@ v18 וַיָּכִ֛ינוּ|way·yā·ḵî·nū|and prepared|H3559|Conj-w | V-
 v18 הָעֵצִ֥ים|hā·‘ê·ṣîm|the timber|H6086|Art | N-mp
 v18 וְהָאֲבָנִ֖ים|wə·hā·’ă·ḇā·nîm|and stone|H68|Conj-w, Art | N-fp
 v18 לִבְנ֥וֹת|liḇ·nō·wṯ|for the construction|H1129|Prep-l | V-Qal-Inf
-v18 הַבָּֽיִת׃פ|hab·bā·yiṯ|of the temple|H1004|Art | N-ms
+v18 הַבָּֽיִת׃|hab·bā·yiṯ|of the temple|H1004|Art | N-ms

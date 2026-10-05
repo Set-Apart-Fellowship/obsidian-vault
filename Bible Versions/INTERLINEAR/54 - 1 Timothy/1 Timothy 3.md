@@ -57,8 +57,8 @@ v5 Θεοῦ|Theou|of God|G2316|N-GMS
 v5 ἐπιμελήσεται|epimelēsetai|[how] can he care for|G1959|V-FIP-3S
 v6 μὴ|mē|[He must] not [be]|G3361|Adv
 v6 νεόφυτον|neophyton|a recent convert|G3504|Adj-AMS
-v6 ἵνα|hina|vvv|G2443|Conj
-v6 μὴ|mē|vvv|G3361|Adv
+v6 ἵνα|hina|...|G2443|Conj
+v6 μὴ|mē|...|G3361|Adv
 v6 τυφωθεὶς|typhōtheis|or he may become conceited|G5187|V-APP-NMS
 v6 εἰς|eis|under|G1519|Prep
 v6 κρίμα|krima|[ the same ] condemnation|G2917|N-ANS
@@ -72,10 +72,10 @@ v7 μαρτυρίαν|martyrian|reputation|G3141|N-AFS
 v7 καλὴν|kalēn|a good|G2570|Adj-AFS
 v7 ἔχειν|echein|have|G2192|V-PNA
 v7 ἀπὸ|apo|with|G575|Prep
-v7 τῶν|tōn|vvv|G3588|Art-GMP
+v7 τῶν|tōn|...|G3588|Art-GMP
 v7 ἔξωθεν|exōthen|outsiders|G1855|Adv
 v7 ἵνα|hina|so that|G2443|Conj
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 εἰς|eis|into|G1519|Prep
 v7 ὀνειδισμὸν|oneidismon|disgrace|G3680|N-AMS
 v7 ἐμπέσῃ|empesē|he will not fall|G1706|V-ASA-3S
@@ -156,7 +156,7 @@ v14 ἐλπίζων|elpizōn|[Although] I hope|G1679|V-PPA-NMS
 v14 ἐλθεῖν|elthein|to come|G2064|V-ANA
 v14 πρὸς|pros|to|G4314|Prep
 v14 σὲ|se|you|G4771|PPro-A2S
-v14 ‹ἐν|en|vvv|G1722|Prep
+v14 ‹ἐν|en|...|G1722|Prep
 v14 τάχει›|tachei|soon|G5034|N-DNS
 v15 ἐὰν|ean|in case|G1437|Conj
 v15 δὲ|de|-|G1161|Conj
@@ -179,7 +179,7 @@ v15 καὶ|kai|and|G2532|Conj
 v15 ἑδραίωμα|hedraiōma|foundation|G1477|N-NNS
 v15 τῆς|tēs|of the|G3588|Art-GFS
 v15 ἀληθείας|alētheias|truth|G225|N-GFS
-v16 Καὶ|Kai|vvv|G2532|Conj
+v16 Καὶ|Kai|...|G2532|Conj
 v16 ὁμολογουμένως|homologoumenōs|By common confession|G3672|Adv
 v16 μέγα|mega|great|G3173|Adj-NNS
 v16 ἐστὶν|estin|is|G1510|V-PIA-3S

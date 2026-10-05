@@ -207,7 +207,7 @@ v13 אֶ֣רֶץ׀|’e·reṣ|a land|H776|N-fs
 v13 אֲשֶׁ֧ר|’ă·šer|on which|H834|Pro-r
 v13 לֹֽא־|lō-|you did not|H3808|Adv-NegPrt
 v13 יָגַ֣עְתָּ|yā·ḡa‘·tā|toil|H3021|V-Qal-Perf-2ms
-v13 בָּ֗הּ|bāh||H0|Prep | 3fs
+v13 בָּ֗הּ|bāh|-|H0|Prep | 3fs
 v13 וְעָרִים֙|wə·‘ā·rîm|and cities|H5892|Conj-w | N-fp
 v13 אֲשֶׁ֣ר|’ă·šer|that|H834|Pro-r
 v13 לֹא־|lō-|you did not|H3808|Adv-NegPrt
@@ -274,7 +274,7 @@ v15 וְאָנֹכִ֣י|wə·’ā·nō·ḵî|As for me|H595|Conj-w | Pro-1cs
 v15 וּבֵיתִ֔י|ū·ḇê·ṯî|and my house|H1004|Conj-w | N-msc | 1cs
 v15 נַעֲבֹ֖ד|na·‘ă·ḇōḏ|we will serve|H5647|V-Qal-Imperf-1cp
 v15 אֶת־|’eṯ-|-|H853|DirObjM
-v15 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v15 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v16 וַיַּ֤עַן|way·ya·‘an|replied|H6030|Conj-w | V-Qal-ConsecImperf-3ms
 v16 הָעָם֙|hā·‘ām|The people|H5971|Art | N-ms
 v16 וַיֹּ֔אמֶר|way·yō·mer|...|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -308,9 +308,9 @@ v17 הָאֵ֔לֶּה|hā·’êl·leh|these|H428|Art | Pro-cp
 v17 וַֽיִּשְׁמְרֵ֗נוּ|way·yiš·mə·rê·nū|He also protected us|H8104|Conj-w | V-Qal-ConsecImperf-3ms | 1cp
 v17 בְּכָל־|bə·ḵāl|throughout|H3605|Prep-b | N-msc
 v17 הַדֶּ֙רֶךְ֙|had·de·reḵ|our journey|H1870|Art | N-cs
-v17 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
-v17 הָלַ֣כְנוּ|hā·laḵ·nū||H1980|V-Qal-Perf-1cp
-v17 בָ֔הּ|ḇāh||H0|Prep | 3fs
+v17 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
+v17 הָלַ֣כְנוּ|hā·laḵ·nū|-|H1980|V-Qal-Perf-1cp
+v17 בָ֔הּ|ḇāh|-|H0|Prep | 3fs
 v17 וּבְכֹל֙|ū·ḇə·ḵōl|and among all|H3605|Conj-w, Prep-b | N-msc
 v17 הָֽעַמִּ֔ים|hā·‘am·mîm|the nations|H5971|Art | N-mp
 v17 אֲשֶׁ֥ר|’ă·šer|through which|H834|Pro-r
@@ -333,7 +333,7 @@ v18 אֶת־|’eṯ-|-|H853|DirObjM
 v18 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v18 כִּי־|kî-|because|H3588|Conj
 v18 ה֖וּא|hū|He|H1931|Pro-3ms
-v18 אֱלֹהֵֽינוּ׃ס|’ĕ·lō·hê·nū|is our God|H430|N-mpc | 1cp
+v18 אֱלֹהֵֽינוּ׃|’ĕ·lō·hê·nū|is our God|H430|N-mpc | 1cp
 v19 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v19 יְהוֹשֻׁ֜עַ|yə·hō·wō·šu·a‘|But Joshua|H3091|N-proper-ms
 v19 אֶל־|’el-|to|H413|Prep
@@ -389,7 +389,7 @@ v22 בָּכֶ֔ם|bā·ḵem|against yourselves|H0|Prep | 2mp
 v22 כִּֽי־|kî-|that|H3588|Conj
 v22 אַתֶּ֞ם|’at·tem|you|H859|Pro-2mp
 v22 בְּחַרְתֶּ֥ם|bə·ḥar·tem|have chosen|H977|V-Qal-Perf-2mp
-v22 לָכֶ֛ם|lā·ḵem||H0|Prep | 2mp
+v22 לָכֶ֛ם|lā·ḵem|-|H0|Prep | 2mp
 v22 אֶת־|’eṯ-|-|H853|DirObjM
 v22 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v22 לַעֲבֹ֣ד|la·‘ă·ḇōḏ|to serve|H5647|Prep-l | V-Qal-Inf
@@ -448,7 +448,7 @@ v26 תַּ֚חַת|ta·ḥaṯ|under|H8478|Prep
 v26 הָֽאַלָּ֔ה|hā·’al·lāh|the oak|H427|Art | N-fs
 v26 אֲשֶׁ֖ר|’ă·šer|that [was]|H834|Pro-r
 v26 בְּמִקְדַּ֥שׁ|bə·miq·daš|near the sanctuary|H4720|Prep-b | N-msc
-v26 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v26 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v27 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v27 יְהוֹשֻׁ֜עַ|yə·hō·wō·šu·a‘|And Joshua|H3091|N-proper-ms
 v27 אֶל־|’el-|to|H413|Prep
@@ -481,7 +481,7 @@ v28 יְהוֹשֻׁ֙עַ֙|yə·hō·wō·šu·a‘|Then Joshua|H3091|N-proper
 v28 אֶת־|’eṯ-|-|H853|DirObjM
 v28 הָעָ֔ם|hā·‘ām|sent the people|H5971|Art | N-ms
 v28 אִ֖ישׁ|’îš|each|H376|N-ms
-v28 לְנַחֲלָתֽוֹ׃פ|lə·na·ḥă·lā·ṯōw|to his own inheritance|H5159|Prep-l | N-fsc | 3ms
+v28 לְנַחֲלָתֽוֹ׃|lə·na·ḥă·lā·ṯōw|to his own inheritance|H5159|Prep-l | N-fsc | 3ms
 v29 וַיְהִ֗י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v29 אַֽחֲרֵי֙|’a·ḥă·rê|Some time later|H310|Prep
 v29 הַדְּבָרִ֣ים|had·də·ḇā·rîm|...|H1697|Art | N-mp
@@ -494,13 +494,13 @@ v29 עֶ֣בֶד|‘e·ḇeḏ|the servant|H5650|N-msc
 v29 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v29 בֶּן־|ben-|at the age|H1121|N-msc
 v29 מֵאָ֥ה|mê·’āh|of 110|H3967|Number-fs
-v29 וָעֶ֖שֶׂר|wā·‘e·śer||H6235|Conj-w | Number-fs
+v29 וָעֶ֖שֶׂר|wā·‘e·śer|-|H6235|Conj-w | Number-fs
 v29 שָׁנִֽים׃|šā·nîm|...|H8141|N-fp
 v30 וַיִּקְבְּר֤וּ|way·yiq·bə·rū|And they buried|H6912|Conj-w | V-Qal-ConsecImperf-3mp
 v30 אֹתוֹ֙|’ō·ṯōw|him|H853|DirObjM | 3ms
 v30 בִּגְב֣וּל|biḡ·ḇūl|in the land|H1366|Prep-b | N-msc
 v30 נַחֲלָת֔וֹ|na·ḥă·lā·ṯōw|of his inheritance|H5159|N-fsc | 3ms
-v30 בְּתִמְנַת־|bə·ṯim·naṯ-|vvv|H8556|Prep
+v30 בְּתִמְנַת־|bə·ṯim·naṯ-|...|H8556|Prep
 v30 סֶ֖רַח|se·raḥ|at Timnath-serah|H8556|Prep | N-proper-fs
 v30 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v30 בְּהַר־|bə·har-|in the hill country|H2022|Prep-b | N-msc

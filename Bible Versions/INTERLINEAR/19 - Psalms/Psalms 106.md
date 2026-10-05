@@ -183,7 +183,7 @@ v27 בַּגּוֹיִ֑ם|bag·gō·w·yim|among the nations|H1471|Prep-b, Art 
 v27 וּ֝לְזָרוֹתָ֗ם|ū·lə·zā·rō·w·ṯām|and scatter them|H2219|Conj-w, Prep-l | V-Piel-Inf | 3mp
 v27 בָּאֲרָצֽוֹת׃|bā·’ă·rā·ṣō·wṯ|throughout the lands|H776|Prep-b, Art | N-fp
 v28 וַ֭יִּצָּ֣מְדוּ|way·yiṣ·ṣā·mə·ḏū|They yoked themselves|H6775|Conj-w | V-Nifal-ConsecImperf-3mp
-v28 לְבַ֣עַל|lə·ḇa·‘al|vvv|H1187|Prep
+v28 לְבַ֣עַל|lə·ḇa·‘al|...|H1187|Prep
 v28 פְּע֑וֹר|pə·‘ō·wr|to Baal of Peor|H1187|Prep | N-proper-fs
 v28 וַ֝יֹּאכְל֗וּ|way·yō·ḵə·lū|and ate|H398|Conj-w | V-Qal-ConsecImperf-3mp
 v28 זִבְחֵ֥י|ziḇ·ḥê|sacrifices|H2077|N-mpc

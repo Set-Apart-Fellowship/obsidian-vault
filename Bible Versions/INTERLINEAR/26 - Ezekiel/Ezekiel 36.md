@@ -74,7 +74,7 @@ v4 וּלְלַ֔עַג|ū·lə·la·‘aḡ|and a mockery|H3933|Conj-w, Prep-l 
 v4 לִשְׁאֵרִ֥ית|liš·’ê·rîṯ|to the rest|H7611|Prep-l | N-fsc
 v4 הַגּוֹיִ֖ם|hag·gō·w·yim|of the nations|H1471|Art | N-mp
 v4 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v4 מִסָּבִֽיב׃ס|mis·sā·ḇîḇ|around you|H5439|Prep-m | Adv
+v4 מִסָּבִֽיב׃|mis·sā·ḇîḇ|around you|H5439|Prep-m | Adv
 v5 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v5 כֹּֽה־|kōh-|this is what|H3541|Adv
 v5 אָמַר֮|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -192,7 +192,7 @@ v11 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v11 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v12 וְהוֹלַכְתִּי֩|wə·hō·w·laḵ·tî|to walk|H1980|Conj-w | V-Hifil-ConjPerf-1cs
 v12 עֲלֵיכֶ֨ם|‘ă·lê·ḵem|upon you|H5921|Prep | 2mp
-v12 אָדָ֜ם|’ā·ḏām||H120|N-ms
+v12 אָדָ֜ם|’ā·ḏām|-|H120|N-ms
 v12 אֶת־|’eṯ-|Yes, {I will cause}|H853|DirObjM
 v12 עַמִּ֤י|‘am·mî|My people|H5971|N-msc | 1cs
 v12 יִשְׂרָאֵל֙|yiś·rā·’êl|Israel|H3478|N-proper-ms
@@ -203,7 +203,7 @@ v12 לְנַחֲלָ֑ה|lə·na·ḥă·lāh|inheritance|H5159|Prep-l | N-fs
 v12 וְלֹא־|wə·lō-|and you will no|H3808|Conj-w | Adv-NegPrt
 v12 תוֹסִ֥ף|ṯō·w·sip̄|longer|H3254|V-Hifil-Imperf-2ms
 v12 ע֖וֹד|‘ō·wḏ|...|H5750|Adv
-v12 לְשַׁכְּלָֽם׃ס|lə·šak·kə·lām|deprive them [of their children]|H7921|Prep-l | V-Piel-Inf | 3mp
+v12 לְשַׁכְּלָֽם׃|lə·šak·kə·lām|deprive them [of their children]|H7921|Prep-l | V-Piel-Inf | 3mp
 v13 כֹּ֤ה|kōh|For this is what|H3541|Adv
 v13 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v13 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -246,7 +246,7 @@ v15 תַכְשִׁ֣לִי|ṯaḵ·ši·lî|to stumble|H3782|V-Hifil-Imperf-2fs
 v15 ע֔וֹד|‘ō·wḏ|...|H5750|Adv
 v15 נְאֻ֖ם|nə·’um|declares|H5002|N-msc
 v15 אֲדֹנָ֥י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
-v15 יְהוִֽה׃ס|Yah·weh|GOD|H3069|N-proper-ms
+v15 יְהוִֽה׃|Yah·weh|GOD|H3069|N-proper-ms
 v16 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v16 דְבַר־|ḏə·ḇar-|Again the word|H1697|N-msc
 v16 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -315,7 +315,7 @@ v21 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v21 בַּגּוֹיִ֖ם|bag·gō·w·yim|among the nations|H1471|Prep-b, Art | N-mp
 v21 אֲשֶׁר־|’ă·šer-|to which|H834|Pro-r
 v21 בָּ֥אוּ|bā·’ū|they had gone|H935|V-Qal-Perf-3cp
-v21 שָֽׁמָּה׃ס|šām·māh|...|H8033|Adv | 3fs
+v21 שָֽׁמָּה׃|šām·māh|...|H8033|Adv | 3fs
 v22 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v22 אֱמֹ֣ר|’ĕ·mōr|tell|H559|V-Qal-Imp-ms
 v22 לְבֵֽית־|lə·ḇêṯ-|the house|H1004|Prep-l | N-msc
@@ -478,7 +478,7 @@ v32 בּ֧וֹשׁוּ|bō·wō·šū|Be ashamed|H954|V-Qal-Imp-mp
 v32 וְהִכָּלְמ֛וּ|wə·hik·kā·lə·mū|and disgraced|H3637|Conj-w | V-Nifal-Imp-mp
 v32 מִדַּרְכֵיכֶ֖ם|mid·dar·ḵê·ḵem|for your ways|H1870|Prep-m | N-cpc | 2mp
 v32 בֵּ֥ית|bêṯ|O house|H1004|N-msc
-v32 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v32 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v33 כֹּ֤ה|kōh|This is what|H3541|Adv
 v33 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v33 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -531,7 +531,7 @@ v36 הַנְּשַׁמָּ֑ה|han·nə·šam·māh|what was desolate|H8074|Art 
 v36 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v36 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v36 דִּבַּ֥רְתִּי|dib·bar·tî|have spoken|H1696|V-Piel-Perf-1cs
-v36 וְעָשִֽׂיתִי׃ס|wə·‘ā·śî·ṯî|and I will do it|H6213|Conj-w | V-Qal-ConjPerf-1cs
+v36 וְעָשִֽׂיתִי׃|wə·‘ā·śî·ṯî|and I will do it|H6213|Conj-w | V-Qal-ConjPerf-1cs
 v37 כֹּ֤ה|kōh|This is what|H3541|Adv
 v37 אָמַר֙|’ā·mar|says|H559|V-Qal-Perf-3ms
 v37 אֲדֹנָ֣י|’ă·ḏō·nāy|the Lord|H136|N-proper-ms
@@ -562,4 +562,4 @@ v38 אָדָ֑ם|’ā·ḏām|of people|H120|N-ms
 v38 וְיָדְע֖וּ|wə·yā·ḏə·‘ū|Then they will know|H3045|Conj-w | V-Qal-ConjPerf-3cp
 v38 כִּֽי־|kî-|that|H3588|Conj
 v38 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
-v38 יְהוָֽה׃ס|Yah·weh|am the LORD|H3068|N-proper-ms
+v38 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms

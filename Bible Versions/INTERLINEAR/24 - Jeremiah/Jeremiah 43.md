@@ -18,7 +18,7 @@ v1 אֲלֵיהֶ֑ם|’ă·lê·hem|to [say]|H413|Prep | 3mp
 v1 אֵ֥ת|’êṯ|-|H853|DirObjM
 v1 כָּל־|kāl-|everything that|H3605|N-msc
 v1 הַדְּבָרִ֖ים|had·də·ḇā·rîm|...|H1697|Art | N-mp
-v1 הָאֵֽלֶּה׃ס|hā·’êl·leh|...|H428|Art | Pro-cp
+v1 הָאֵֽלֶּה׃|hā·’êl·leh|...|H428|Art | Pro-cp
 v2 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v2 עֲזַרְיָ֤ה|‘ă·zar·yāh|Azariah|H5838|N-proper-ms
 v2 בֶן־|ḇen-|son|H1121|N-msc
@@ -29,12 +29,12 @@ v2 קָרֵ֔חַ|qā·rê·aḥ|of Kareah|H7143|N-proper-ms
 v2 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v2 הָאֲנָשִׁ֖ים|hā·’ă·nā·šîm|men|H582|Art | N-mp
 v2 הַזֵּדִ֑ים|haz·zê·ḏîm|the arrogant|H2086|Art | Adj-mp
-v2 אֹמְרִ֣ים|’ō·mə·rîm||H559|V-Qal-Prtcpl-mp
+v2 אֹמְרִ֣ים|’ō·mə·rîm|-|H559|V-Qal-Prtcpl-mp
 v2 אֶֽל־|’el-|to|H413|Prep
 v2 יִרְמְיָ֗הוּ|yir·mə·yā·hū|Jeremiah|H3414|N-proper-ms
 v2 שֶׁ֚קֶר|še·qer|are lying|H8267|N-ms
 v2 אַתָּ֣ה|’at·tāh|You|H859|Pro-2ms
-v2 מְדַבֵּ֔ר|mə·ḏab·bêr|vvv|H1696|V-Piel-Prtcpl-ms
+v2 מְדַבֵּ֔ר|mə·ḏab·bêr|...|H1696|V-Piel-Prtcpl-ms
 v2 לֹ֣א|lō|has not|H3808|Adv-NegPrt
 v2 שְׁלָחֲךָ֞|šə·lā·ḥă·ḵā|sent you|H7971|V-Qal-Perf-3ms | 2ms
 v2 יְהוָ֤ה|Yah·weh|The LORD|H3068|N-proper-ms
@@ -62,7 +62,7 @@ v3 אֹתָ֔נוּ|’ō·ṯā·nū|-|H853|DirObjM | 1cp
 v3 וּלְהַגְל֥וֹת|ū·lə·haḡ·lō·wṯ|or exile|H1540|Conj-w, Prep-l | V-Hifil-Inf
 v3 אֹתָ֖נוּ|’ō·ṯā·nū|us|H853|DirObjM | 1cp
 v3 בָּבֶֽל׃|bā·ḇel|to Babylon|H894|N-proper-fs
-v4 וְלֹֽא־|wə·lō-|vvv|H3808|Conj-w | Adv-NegPrt
+v4 וְלֹֽא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v4 שָׁמַע֩|šā·ma‘|disobeyed|H8085|V-Qal-Perf-3ms
 v4 יוֹחָנָ֨ן|yō·w·ḥā·nān|So Johanan|H3110|N-proper-ms
 v4 בֶּן־|ben-|son|H1121|N-msc
@@ -138,7 +138,7 @@ v7 בְּק֣וֹל|bə·qō·wl|the voice|H6963|Prep-b | N-msc
 v7 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v7 וַיָּבֹ֖אוּ|way·yā·ḇō·’ū|and they went|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v7 עַד־|‘aḏ-|as far as|H5704|Prep
-v7 תַּחְפַּנְחֵֽס׃ס|taḥ·pan·ḥês|Tahpanhes|H8471|N-proper-fs
+v7 תַּחְפַּנְחֵֽס׃|taḥ·pan·ḥês|Tahpanhes|H8471|N-proper-fs
 v8 וַיְהִ֤י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v8 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v8 יְהוָה֙|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -159,7 +159,7 @@ v9 בֵּית־|bêṯ-|palace|H1004|N-msc
 v9 פַּרְעֹ֖ה|par·‘ōh|to Pharaoh's|H6547|N-proper-ms
 v9 בְּתַחְפַּנְחֵ֑ס|bə·ṯaḥ·pan·ḥês|at Tahpanhes|H8471|Prep-b | N-proper-fs
 v9 לְעֵינֵ֖י|lə·‘ê·nê|In the sight|H5869|Prep-l | N-cdc
-v9 אֲנָשִׁ֥ים|’ă·nā·šîm|vvv|H582|N-mp
+v9 אֲנָשִׁ֥ים|’ă·nā·šîm|...|H582|N-mp
 v9 יְהוּדִֽים׃|yə·hū·ḏîm|[of the] Jews|H3064|N-proper-mp
 v10 וְאָמַרְתָּ֣|wə·’ā·mar·tā|Then tell them|H559|Conj-w | V-Qal-ConjPerf-2ms
 v10 אֲלֵיהֶ֡ם|’ă·lê·hem|that|H413|Prep | 3mp
@@ -224,7 +224,7 @@ v12 בְּשָׁלֽוֹם׃|bə·šā·lō·wm|unscathed|H7965|Prep-b | N-ms
 v13 וְשִׁבַּ֗ר|wə·šib·bar|He will demolish|H7665|Conj-w | V-Piel-ConjPerf-3ms
 v13 אֶֽת־|’eṯ-|-|H853|DirObjM
 v13 מַצְּבוֹת֙|maṣ·ṣə·ḇō·wṯ|the sacred pillars|H4676|N-fpc
-v13 בֵּ֣ית|bêṯ|vvv|H1053|Prep
+v13 בֵּ֣ית|bêṯ|...|H1053|Prep
 v13 שֶׁ֔מֶשׁ|še·meš|of the temple of the sun|H1053|N-proper-fs
 v13 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v13 בְּאֶ֣רֶץ|bə·’e·reṣ|in the land|H776|Prep-b | N-fsc
@@ -234,4 +234,4 @@ v13 בָּתֵּ֥י|bāt·tê|the temples|H1004|N-mpc
 v13 אֱלֹהֵֽי־|’ĕ·lō·hê-|of the gods|H430|N-mpc
 v13 מִצְרַ֖יִם|miṣ·ra·yim|of Egypt|H4714|N-proper-fs
 v13 יִשְׂרֹ֥ף|yiś·rōp̄|he will burn down|H8313|V-Qal-Imperf-3ms
-v13 בָּאֵֽשׁ׃ס|bā·’êš|...|H784|Prep-b, Art | N-cs
+v13 בָּאֵֽשׁ׃|bā·’êš|...|H784|Prep-b, Art | N-cs

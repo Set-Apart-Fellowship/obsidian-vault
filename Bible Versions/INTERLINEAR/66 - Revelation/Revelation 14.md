@@ -12,7 +12,7 @@ v1 Σιών|Siōn|Zion|G4622|N-GFS
 v1 καὶ|kai|and|G2532|Conj
 v1 μετ’|met’|with|G3326|Prep
 v1 αὐτοῦ|autou|Him|G846|PPro-GM3S
-v1 ἑκατὸν|hekaton|144,000 {}|G1540|Adj-NFP
+v1 ἑκατὸν|hekaton|144,000|G1540|Adj-NFP
 v1 τεσσεράκοντα|tesserakonta|...|G5062|Adj-NFP
 v1 τέσσαρες|tessares|...|G5064|Adj-NFP
 v1 χιλιάδες|chiliades|...|G5505|N-NFP
@@ -83,7 +83,7 @@ v3 ᾠδὴν|ōdēn|song|G5603|N-AFS
 v3 εἰ|ei|except|G1487|Conj
 v3 μὴ|mē|...|G3361|Adv
 v3 αἱ|hai|the|G3588|Art-NFP
-v3 ἑκατὸν|hekaton|144,000 {}|G1540|Adj-NFP
+v3 ἑκατὸν|hekaton|144,000|G1540|Adj-NFP
 v3 τεσσεράκοντα|tesserakonta|...|G5062|Adj-NFP
 v3 τέσσαρες|tessares|...|G5064|Adj-NFP
 v3 χιλιάδες|chiliades|...|G5505|N-NFP
@@ -97,7 +97,7 @@ v4 εἰσιν|eisin|are|G1510|V-PIA-3P
 v4 οἳ|hoi|the ones who|G3739|RelPro-NMP
 v4 μετὰ|meta|with|G3326|Prep
 v4 γυναικῶν|gynaikōn|women|G1135|N-GFP
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 ἐμολύνθησαν|emolynthēsan|have not been defiled|G3435|V-AIP-3P
 v4 παρθένοι|parthenoi|virgins|G3933|N-NMP
 v4 γάρ|gar|for|G1063|Conj
@@ -108,7 +108,7 @@ v4 ἀκολουθοῦντες|akolouthountes|follow|G190|V-PPA-NMP
 v4 τῷ|tō|the|G3588|Art-DNS
 v4 Ἀρνίῳ|Arniō|Lamb|G721|N-DNS
 v4 ὅπου|hopou|wherever|G3699|Adv
-v4 ἂν|an|vvv|G302|Prtcl
+v4 ἂν|an|...|G302|Prtcl
 v4 ὑπάγῃ|hypagē|He goes|G5217|V-PSA-3S
 v4 οὗτοι|houtoi|They|G3778|DPro-NMP
 v4 ἠγοράσθησαν|ēgorasthēsan|have been redeemed|G59|V-AIP-3P
@@ -136,7 +136,7 @@ v6 εἶδον|eidon|I saw|G3708|V-AIA-1S
 v6 ἄλλον|allon|another|G243|Adj-AMS
 v6 ἄγγελον|angelon|angel|G32|N-AMS
 v6 πετόμενον|petomenon|flying|G4072|V-PPM/P-AMS
-v6 ἐν|en|vvv|G1722|Prep
+v6 ἐν|en|...|G1722|Prep
 v6 μεσουρανήματι|mesouranēmati|overhead|G3321|N-DNS
 v6 ἔχοντα|echonta|with|G2192|V-PPA-AMS
 v6 εὐαγγέλιον|euangelion|gospel|G2098|N-ANS
@@ -215,7 +215,7 @@ v8 πάντα|panta|all|G3956|Adj-ANP
 v8 τὰ|ta|the|G3588|Art-ANP
 v8 ἔθνη|ethnē|nations|G1484|N-ANP
 v9 Καὶ|Kai|And|G2532|Conj
-v9 ἄλλος|allos|vvv|G243|Adj-NMS
+v9 ἄλλος|allos|...|G243|Adj-NMS
 v9 ἄγγελος|angelos|angel|G32|N-NMS
 v9 τρίτος|tritos|a third|G5154|Adj-NMS
 v9 ἠκολούθησεν|ēkolouthēsen|followed|G190|V-AIA-3S
@@ -283,7 +283,7 @@ v11 καπνὸς|kapnos|smoke|G2586|N-NMS
 v11 τοῦ|tou|of|G3588|Art-GMS
 v11 βασανισμοῦ|basanismou|torment|G929|N-GMS
 v11 αὐτῶν|autōn|their|G846|PPro-GM3P
-v11 εἰς|eis|vvv|G1519|Prep
+v11 εἰς|eis|...|G1519|Prep
 v11 αἰῶνας|aiōnas|forever|G165|N-AMP
 v11 αἰώνων|aiōnōn|[and] ever|G165|N-GMP
 v11 ἀναβαίνει|anabainei|rises|G305|V-PIA-3S
@@ -536,7 +536,7 @@ v20 καὶ|kai|and|G2532|Conj
 v20 ἐξῆλθεν|exēlthen|[that] flowed|G1831|V-AIA-3S
 v20 αἷμα|haima|[the] blood|G129|N-NNS
 v20 ἐκ|ek|from|G1537|Prep
-v20 τῆς|tēs|vvv|G3588|Art-GFS
+v20 τῆς|tēs|...|G3588|Art-GFS
 v20 ληνοῦ|lēnou|[it]|G3025|N-GFS
 v20 ἄχρι|achri|[rose] as high as|G891|Prep
 v20 τῶν|tōn|the|G3588|Art-GMP
@@ -545,5 +545,5 @@ v20 τῶν|tōn|of the|G3588|Art-GMP
 v20 ἵππων|hippōn|horses|G2462|N-GMP
 v20 ἀπὸ|apo|for a distance of|G575|Prep
 v20 σταδίων|stadiōn|stadia|G4712|N-GMP
-v20 χιλίων|chiliōn|1,600 {}|G5507|Adj-GMP
+v20 χιλίων|chiliōn|1,600|G5507|Adj-GMP
 v20 ἑξακοσίων|hexakosiōn|...|G1812|Adj-GMP

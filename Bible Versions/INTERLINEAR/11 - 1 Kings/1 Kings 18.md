@@ -34,7 +34,7 @@ v3 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
 v3 עַל־|‘al-|was in charge of|H5921|Prep
 v3 הַבָּ֑יִת|hab·bā·yiṯ|the palace|H1004|Art | N-ms
 v3 וְעֹבַדְיָ֗הוּ|wə·‘ō·ḇaḏ·yā·hū|Now Obadiah|H5662|Conj-w | N-proper-ms
-v3 הָיָ֥ה|hā·yāh|vvv|H1961|V-Qal-Perf-3ms
+v3 הָיָ֥ה|hā·yāh|...|H1961|V-Qal-Perf-3ms
 v3 יָרֵ֛א|yā·rê|feared|H3373|Adj-ms
 v3 אֶת־|’eṯ-|-|H853|DirObjM
 v3 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -83,7 +83,7 @@ v6 לָהֶ֛ם|lā·hem|...|H0|Prep-l | Pro-3mp
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 הָאָ֖רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v6 לַֽעֲבָר־|la·‘ă·ḇār-|to explore|H5674|Prep-l | V-Qal-Inf
-v6 בָּ֑הּ|bāh||H0|Prep | 3fs
+v6 בָּ֑הּ|bāh|-|H0|Prep | 3fs
 v6 אַחְאָ֞ב|’aḥ·’āḇ|Ahab|H256|N-proper-ms
 v6 הָלַ֨ךְ|hā·laḵ|went|H1980|V-Qal-Perf-3ms
 v6 בְּדֶ֤רֶךְ|bə·ḏe·reḵ|way|H1870|Prep-b | N-cs
@@ -102,7 +102,7 @@ v7 אֵלִיָּ֖הוּ|’ê·lî·yā·hū|Elijah|H452|N-proper-ms
 v7 לִקְרָאת֑וֹ|liq·rā·ṯōw|met him|H7122|Prep-l | V-Qal-Inf | 3ms
 v7 וַיַּכִּרֵ֙הוּ֙|way·yak·ki·rê·hū|When Obadiah recognized him|H5234|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
 v7 וַיִּפֹּ֣ל|way·yip·pōl|he fell|H5307|Conj-w | V-Qal-ConsecImperf-3ms
-v7 עַל־|‘al-|vvv|H5921|Prep
+v7 עַל־|‘al-|...|H5921|Prep
 v7 פָּנָ֔יו|pā·nāw|facedown|H6440|N-cpc | 3ms
 v7 וַיֹּ֕אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v7 הַאַתָּ֥ה|ha·’at·tāh|you|H859|Art | Pro-2ms
@@ -212,7 +212,7 @@ v14 אֱמֹ֥ר|’ĕ·mōr|tell|H559|V-Qal-Imp-ms
 v14 לַֽאדֹנֶ֖יךָ|la·ḏō·ne·ḵā|your lord|H113|Prep-l | N-mpc | 2ms
 v14 הִנֵּ֣ה|hin·nêh|is here|H2009|Interjection
 v14 אֵלִיָּ֑הוּ|’ê·lî·yā·hū|that Elijah|H452|N-proper-ms
-v14 וַהֲרָגָֽנִי׃ס|wa·hă·rā·ḡā·nî|He will kill me|H2026|Conj-w | V-Qal-ConjPerf-3ms | 1cs
+v14 וַהֲרָגָֽנִי׃|wa·hă·rā·ḡā·nî|He will kill me|H2026|Conj-w | V-Qal-ConjPerf-3ms | 1cs
 v15 וַיֹּ֙אמֶר֙|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 אֵֽלִיָּ֔הוּ|’ê·lî·yā·hū|Then Elijah|H452|N-proper-ms
 v15 חַ֚י|ḥay|lives|H2416|N-ms
@@ -230,7 +230,7 @@ v16 עֹבַדְיָ֛הוּ|‘ō·ḇaḏ·yā·hū|So Obadiah|H5662|N-proper-
 v16 לִקְרַ֥את|liq·raṯ|to|H7122|Prep-l | V-Qal-Inf
 v16 אַחְאָ֖ב|’aḥ·’āḇ|Ahab|H256|N-proper-ms
 v16 וַיַּגֶּד־|way·yag·geḏ-|inform|H5046|Conj-w | V-Hifil-ConsecImperf-3ms
-v16 ל֑וֹ|lōw||H0|Prep | 3ms
+v16 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v16 וַיֵּ֥לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v16 אַחְאָ֖ב|’aḥ·’āḇ|[who]|H256|N-proper-ms
 v16 לִקְרַ֥את|liq·raṯ|to meet|H7122|Prep-l | V-Qal-Inf
@@ -373,7 +373,7 @@ v24 וַֽאֲנִי֙|wa·’ă·nî|and I|H589|Conj-w | Pro-1cs
 v24 אֶקְרָ֣א|’eq·rā|will call|H7121|V-Qal-Imperf-1cs
 v24 בְשֵׁם־|ḇə·šêm-|on the name|H8034|Prep-b | N-msc
 v24 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
-v24 וְהָיָ֧ה|wə·hā·yāh||H1961|Conj-w | V-Qal-ConjPerf-3ms
+v24 וְהָיָ֧ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v24 הָאֱלֹהִ֛ים|hā·’ĕ·lō·hîm|The God|H430|Art | N-mp
 v24 אֲשֶׁר־|’ă·šer-|who|H834|Pro-r
 v24 יַעֲנֶ֥ה|ya·‘ă·neh|answers|H6030|V-Qal-Imperf-3ms
@@ -446,10 +446,10 @@ v27 כִּ֣י|kî|...|H3588|Conj
 v27 שִׂ֧יחַ|śî·aḥ|Perhaps he is deep in thought|H7879|N-ms
 v27 וְכִֽי־|wə·ḵî-|...|H3588|Conj
 v27 שִׂ֛יג|śîḡ|or occupied|H7873|N-ms
-v27 ל֖וֹ|lōw||H0|Prep | 3ms
+v27 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v27 וְכִֽי־|wə·ḵî-|-|H3588|Conj
 v27 דֶ֣רֶךְ|ḏe·reḵ|or on a journey|H1870|N-cs
-v27 ל֑וֹ|lōw||H0|Prep | 3ms
+v27 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v27 אוּלַ֛י|’ū·lay|Perhaps|H194|Adv
 v27 יָשֵׁ֥ן|yā·šên|sleeping|H3463|Adj-ms
 v27 ה֖וּא|hū|he is|H1931|Pro-3ms
@@ -465,7 +465,7 @@ v28 עַד־|‘aḏ-|until|H5704|Prep
 v28 שְׁפָךְ־|šə·p̄āḵ-|gushed|H8210|V-Qal-Inf
 v28 דָּ֖ם|dām|the blood|H1818|N-ms
 v28 עֲלֵיהֶֽם׃|‘ă·lê·hem|over them|H5921|Prep | 3mp
-v29 וַֽיְהִי֙|way·hî||H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v29 וַֽיְהִי֙|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v29 כַּעֲבֹ֣ר|ka·‘ă·ḇōr|Midday passed|H5674|Prep-k | V-Qal-Inf
 v29 הַֽצָּהֳרַ֔יִם|haṣ·ṣā·ho·ra·yim|...|H6672|Art | N-mp
 v29 וַיִּֽתְנַבְּא֔וּ|way·yiṯ·nab·bə·’ū|and they kept on raving|H5012|Conj-w | V-Hitpael-ConsecImperf-3mp
@@ -536,7 +536,7 @@ v33 הָעֵצִֽים׃|hā·‘ê·ṣîm|the wood|H6086|Art | N-mp
 v34 וַיֹּ֗אמֶר|way·yō·mer|and said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v34 מִלְא֨וּ|mil·’ū|Fill|H4390|V-Qal-Imp-mp
 v34 אַרְבָּעָ֤ה|’ar·bā·‘āh|four|H702|Number-ms
-v34 כַדִּים֙|ḵad·dîm|vvv|H3537|N-fp
+v34 כַדִּים֙|ḵad·dîm|...|H3537|N-fp
 v34 מַ֔יִם|ma·yim|waterpots|H4325|N-mp
 v34 וְיִֽצְק֥וּ|wə·yiṣ·qū|and pour [the water]|H3332|Conj-w | V-Qal-Imp-mp
 v34 עַל־|‘al-|on|H5921|Prep

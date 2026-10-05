@@ -35,7 +35,7 @@ v2 וַיִּפֹּ֥ל|way·yip·pōl|he fell|H5307|Conj-w | V-Qal-ConsecImperf
 v2 אַ֖רְצָה|’ar·ṣāh|to the ground|H776|N-fs | 3fs
 v2 וַיִּשְׁתָּֽחוּ׃|way·yiš·tā·ḥū|to pay him homage|H7812|Conj-w | V-Hitpael-ConsecImperf-3ms
 v3 וַיֹּ֤אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v3 לוֹ֙|lōw||H0|Prep | 3ms
+v3 לוֹ֙|lōw|-|H0|Prep | 3ms
 v3 דָּוִ֔ד|dā·wiḏ|David|H1732|N-proper-ms
 v3 אֵ֥י|’ê|Where|H335|Interrog
 v3 מִזֶּ֖ה|miz·zeh|...|H2088|Pro-ms
@@ -110,7 +110,7 @@ v7 אֵלָ֔י|’ê·lāy|to me|H413|Prep | 1cs
 v7 וָאֹמַ֖ר|wā·’ō·mar|and I answered|H559|Conj-w | V-Qal-ConsecImperf-1cs
 v7 הִנֵּֽנִי׃|hin·nê·nî|Here I am|H2005|Interjection | 1cs
 v8 וַיֹּ֥אמֶר|way·yō·mer|he asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v8 לִ֖י|lî||H0|Prep | 1cs
+v8 לִ֖י|lî|-|H0|Prep | 1cs
 v8 מִי־|mî-|Who|H4310|Interrog
 v8 אָ֑תָּה|’āt·tāh|are you|H859|Pro-2ms
 v8 וַיֹּאמֶר|way·yō·mɛr|So I told|H559|Conj-w | V-Qal-ConsecImperf-1cs
@@ -181,7 +181,7 @@ v12 בֵּ֣ית|bêṯ|and the house|H1004|N-msc
 v12 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v12 כִּ֥י|kî|because|H3588|Conj
 v12 נָפְל֖וּ|nā·p̄ə·lū|they had fallen|H5307|V-Qal-Perf-3cp
-v12 בֶּחָֽרֶב׃ס|be·ḥā·reḇ|by the sword|H2719|Prep-b, Art | N-fs
+v12 בֶּחָֽרֶב׃|be·ḥā·reḇ|by the sword|H2719|Prep-b, Art | N-fs
 v13 וַיֹּ֣אמֶר|way·yō·mer|inquired|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 דָּוִ֗ד|dā·wiḏ|And David|H1732|N-proper-ms
 v13 אֶל־|’el-|of|H413|Prep
@@ -234,7 +234,7 @@ v16 אָנֹכִ֥י|’ā·nō·ḵî|I|H595|Pro-1cs
 v16 מֹתַ֖תִּי|mō·ṯat·tî|killed|H4191|V-Piel-Perf-1cs
 v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 מְשִׁ֥יחַ|mə·šî·aḥ|anointed|H4899|Adj-msc
-v16 יְהוָֽה׃ס|Yah·weh|the LORD's|H3068|N-proper-ms
+v16 יְהוָֽה׃|Yah·weh|the LORD's|H3068|N-proper-ms
 v17 וַיְקֹנֵ֣ן|way·qō·nên|took up|H6969|Conj-w | V-Piel-ConsecImperf-3ms
 v17 דָּוִ֔ד|dā·wiḏ|Then David|H1732|N-proper-ms
 v17 אֶת־|’eṯ-|-|H853|Prep
@@ -364,4 +364,4 @@ v27 נָפְל֣וּ|nā·p̄ə·lū|have fallen|H5307|V-Qal-Perf-3cp
 v27 גִבּוֹרִ֔ים|ḡib·bō·w·rîm|the mighty|H1368|Adj-mp
 v27 וַיֹּאבְד֖וּ|way·yō·ḇə·ḏū|have perished|H6|Conj-w | V-Qal-ConsecImperf-3mp
 v27 כְּלֵ֥י|kə·lê|and the weapons|H3627|N-mpc
-v27 מִלְחָמָֽה׃פ|mil·ḥā·māh|of war|H4421|N-fs
+v27 מִלְחָמָֽה׃|mil·ḥā·māh|of war|H4421|N-fs

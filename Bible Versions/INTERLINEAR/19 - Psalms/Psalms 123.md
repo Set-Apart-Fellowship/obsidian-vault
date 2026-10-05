@@ -33,7 +33,7 @@ v3 שָׂבַ֥עְנוּ|śā·ḇa‘·nū|we have endured|H7646|V-Qal-Perf-1c
 v3 בֽוּז׃|ḇūz|contempt|H937|N-ms
 v4 רַבַּת֮|rab·baṯ|much|H7227|Adj-fsc
 v4 שָֽׂבְעָה־|śā·ḇə·‘āh-|have endured|H7646|V-Qal-Perf-3fs
-v4 לָּ֪הּ|lāh||H0|Prep | 3fs
+v4 לָּ֪הּ|lāh|-|H0|Prep | 3fs
 v4 נַ֫פְשֵׁ֥נוּ|nap̄·šê·nū|We|H5315|N-fsc | 1cp
 v4 הַלַּ֥עַג|hal·la·‘aḡ|scorn|H3933|Art | N-msc
 v4 הַשַּׁאֲנַנִּ֑ים|haš·ša·’ă·nan·nîm|from the arrogant|H7600|Art | Adj-mp

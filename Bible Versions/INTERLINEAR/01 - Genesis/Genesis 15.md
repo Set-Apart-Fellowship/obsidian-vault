@@ -255,4 +255,4 @@ v21 הַֽכְּנַעֲנִ֔י|hak·kə·na·‘ă·nî|Canaanites|H3669|Art 
 v21 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v21 הַגִּרְגָּשִׁ֖י|hag·gir·gā·šî|Girgashites|H1622|Art | N-proper-ms
 v21 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v21 הַיְבוּסִֽי׃ס|hay·ḇū·sî|and Jebusites|H2983|Art | N-proper-ms
+v21 הַיְבוּסִֽי׃|hay·ḇū·sî|and Jebusites|H2983|Art | N-proper-ms

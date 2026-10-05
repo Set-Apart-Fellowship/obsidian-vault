@@ -37,7 +37,7 @@ v2 אוֹתָ֙נוּ֙|’ō·w·ṯā·nū|for us|H854|Prep | 1cp
 v2 כְּכָל־|kə·ḵāl-|something like all|H3605|Prep-k | N-msc
 v2 נִפְלְאֹתָ֔יו|nip̄·lə·’ō·ṯāw|His past wonders|H6381|V-Nifal-Prtcpl-fpc | 3ms
 v2 וְיַעֲלֶ֖ה|wə·ya·‘ă·leh|so that [Nebuchadnezzar] will withdraw|H5927|Conj-w | V-Qal-ConjImperf-3ms
-v2 מֵעָלֵֽינוּ׃ס|mê·‘ā·lê·nū|from us|H5921|Prep-m | 1cp
+v2 מֵעָלֵֽינוּ׃|mê·‘ā·lê·nū|from us|H5921|Prep-m | 1cp
 v3 וַיֹּ֥אמֶר|way·yō·mer|answered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v3 יִרְמְיָ֖הוּ|yir·mə·yā·hū|But Jeremiah|H3414|N-proper-ms
 v3 אֲלֵיהֶ֑ם|’ă·lê·hem|-|H413|Prep | 3mp
@@ -55,12 +55,12 @@ v4 מֵסֵב֮|mê·sêḇ|I will turn|H5437|V-Hifil-Prtcpl-ms
 v4 אֶת־|’eṯ-|against you|H853|DirObjM
 v4 כְּלֵ֣י|kə·lê|the weapons|H3627|N-mpc
 v4 הַמִּלְחָמָה֮|ham·mil·ḥā·māh|of war|H4421|Art | N-fs
-v4 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v4 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v4 בְּיֶדְכֶם֒|bə·yeḏ·ḵem|in your hands|H3027|Prep-b | N-fsc | 2mp
 v4 אֲשֶׁ֨ר|’ă·šer|with which|H834|Pro-r
 v4 אַתֶּ֜ם|’at·tem|you|H859|Pro-2mp
 v4 נִלְחָמִ֣ים|nil·ḥā·mîm|are fighting|H3898|V-Nifal-Prtcpl-mp
-v4 בָּ֗ם|bām||H0|Prep | 3mp
+v4 בָּ֗ם|bām|-|H0|Prep | 3mp
 v4 אֶת־|’eṯ-|-|H854|DirObjM
 v4 מֶ֤לֶךְ|me·leḵ|the king|H4428|N-msc
 v4 בָּבֶל֙|bā·ḇel|of Babylon|H894|N-proper-fs
@@ -132,7 +132,7 @@ v7 וּבְיַ֖ד|ū·ḇə·yaḏ|...|H3027|Conj-w, Prep-b | N-fsc
 v7 מְבַקְשֵׁ֣י|mə·ḇaq·šê|who seek|H1245|V-Piel-Prtcpl-mpc
 v7 נַפְשָׁ֑ם|nap̄·šām|their lives|H5315|N-fsc | 3mp
 v7 וְהִכָּ֣ם|wə·hik·kām|He will put them|H5221|Conj-w | V-Hifil-ConjPerf-3ms | 3mp
-v7 לְפִי־|lə·p̄î-|vvv|H6310|Prep-l | N-msc
+v7 לְפִי־|lə·p̄î-|...|H6310|Prep-l | N-msc
 v7 חֶ֔רֶב|ḥe·reḇ|to the sword|H2719|N-fs
 v7 לֹֽא־|lō-|he will not|H3808|Adv-NegPrt
 v7 יָח֣וּס|yā·ḥūs|spare|H2347|V-Qal-Imperf-3ms
@@ -190,7 +190,7 @@ v10 מֶ֤לֶךְ|me·leḵ|of the king|H4428|N-msc
 v10 בָּבֶל֙|bā·ḇel|of Babylon|H894|N-proper-fs
 v10 תִּנָּתֵ֔ן|tin·nā·ṯên|It will be delivered|H5414|V-Nifal-Imperf-3fs
 v10 וּשְׂרָפָ֖הּ|ū·śə·rā·p̄āh|who will destroy it|H8313|Conj-w | V-Qal-ConjPerf-3ms | 3fs
-v10 בָּאֵֽשׁ׃ס|bā·’êš|with fire|H784|Prep-b, Art | N-cs
+v10 בָּאֵֽשׁ׃|bā·’êš|with fire|H784|Prep-b, Art | N-cs
 v11 וּלְבֵית֙|ū·lə·ḇêṯ|Moreover, [tell] the house|H1004|Conj-w, Prep-l | N-msc
 v11 מֶ֣לֶךְ|me·leḵ|of the king|H4428|N-msc
 v11 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
@@ -245,4 +245,4 @@ v14 אֵשׁ֙|’êš|a fire|H784|N-cs
 v14 בְּיַעְרָ֔הּ|bə·ya‘·rāh|in your forest|H3293|Prep-b | N-msc | 3fs
 v14 וְאָכְלָ֖ה|wə·’ā·ḵə·lāh|that will consume|H398|Conj-w | V-Qal-ConjPerf-3fs
 v14 כָּל־|kāl-|everything|H3605|N-msc
-v14 סְבִיבֶֽיהָ׃ס|sə·ḇî·ḇe·hā|around you|H5439|Adv | 3fs
+v14 סְבִיבֶֽיהָ׃|sə·ḇî·ḇe·hā|around you|H5439|Adv | 3fs

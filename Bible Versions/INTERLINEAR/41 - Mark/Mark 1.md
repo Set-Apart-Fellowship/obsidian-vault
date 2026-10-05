@@ -4,7 +4,7 @@ v1 εὐαγγελίου|euangeliou|gospel|G2098|N-GNS
 v1 Ἰησοῦ|Iēsou|of Jesus|G2424|N-GMS
 v1 Χριστοῦ|Christou|Christ|G5547|N-GMS
 v1 Υἱοῦ|Huiou|[the] Son|G5207|N-GMS
-v1 τοῦ|tou||G3588|Art-GNS
+v1 τοῦ|tou|-|G3588|Art-GNS
 v1 Θεοῦ|Theou|of God|G2316|N-GMS
 v2 Καθὼς|Kathōs|As|G2531|Adv
 v2 γέγραπται|gegraptai|it is written|G1125|V-RIM/P-3S
@@ -148,7 +148,7 @@ v9 τὸν|ton|the|G3588|Art-AMS
 v9 Ἰορδάνην|Iordanēn|Jordan|G2446|N-AMS
 v9 ὑπὸ|hypo|by|G5259|Prep
 v9 Ἰωάννου|Iōannou|John|G2491|N-GMS
-v10 καὶ|kai|vvv|G2532|Conj
+v10 καὶ|kai|...|G2532|Conj
 v10 εὐθὺς|euthys|As soon [as Jesus]|G2112|Adv
 v10 ἀναβαίνων|anabainōn|came up|G305|V-PPA-NMS
 v10 ἐκ|ek|out of|G1537|Prep
@@ -193,8 +193,8 @@ v12 τὴν|tēn|the|G3588|Art-AFS
 v12 ἔρημον|erēmon|wilderness|G2048|Adj-AFS
 v13 καὶ|kai|and|G2532|Conj
 v13 ἦν|ēn|He was|G1510|V-IIA-3S
-v13 ἐν|en|vvv|G1722|Prep
-v13 τῇ|tē|vvv|G3588|Art-DFS
+v13 ἐν|en|...|G1722|Prep
+v13 τῇ|tē|...|G3588|Art-DFS
 v13 ἐρήμῳ|erēmō|[there]|G2048|Adj-DFS
 v13 τεσσεράκοντα|tesserakonta|for forty|G5062|Adj-AFP
 v13 ἡμέρας|hēmeras|days|G2250|N-AFP
@@ -348,7 +348,7 @@ v22 ἐπὶ|epi|at|G1909|Prep
 v22 τῇ|tē|-|G3588|Art-DFS
 v22 διδαχῇ|didachē|teaching|G1322|N-DFS
 v22 αὐτοῦ|autou|His|G846|PPro-GM3S
-v22 ἦν|ēn|vvv|G1510|V-IIA-3S
+v22 ἦν|ēn|...|G1510|V-IIA-3S
 v22 γὰρ|gar|because|G1063|Conj
 v22 διδάσκων|didaskōn|He taught|G1321|V-PPA-NMS
 v22 αὐτοὺς|autous|-|G846|PPro-AM3P
@@ -410,7 +410,7 @@ v26 πνεῦμα|pneuma|spirit|G4151|N-NNS
 v26 τὸ|to|-|G3588|Art-NNS
 v26 ἀκάθαρτον|akatharton|unclean|G169|Adj-NNS
 v26 καὶ|kai|-|G2532|Conj
-v26 φωνῆσαν|phōnēsan|vvv|G5455|V-APA-NNS
+v26 φωνῆσαν|phōnēsan|...|G5455|V-APA-NNS
 v26 φωνῇ|phōnē|with a loud shriek|G5456|N-DFS
 v26 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v26 ἐξῆλθεν|exēlthen|[and] came|G1831|V-AIA-3S
@@ -421,7 +421,7 @@ v27 ἐθαμβήθησαν|ethambēthēsan|were amazed|G2284|V-AIP-3P
 v27 ἅπαντες|hapantes|All [the people]|G537|Adj-NMP
 v27 ὥστε|hōste|[and]|G5620|Conj
 v27 ‹συζητεῖν|syzētein|began to ask|G4802|V-PNA
-v27 πρὸς|pros|vvv|G4314|Prep
+v27 πρὸς|pros|...|G4314|Prep
 v27 ἑαυτοὺς›|heautous|one another|G1438|RefPro-AM3P
 v27 λέγοντας|legontas|-|G3004|V-PPA-AMP
 v27 Τί|Ti|What|G5101|IPro-NNS
@@ -510,12 +510,12 @@ v32 αὐτὸν|auton|[Jesus]|G846|PPro-AM3S
 v32 πάντας|pantas|all|G3956|Adj-AMP
 v32 τοὺς|tous|the|G3588|Art-AMP
 v32 κακῶς|kakōs|sick|G2560|Adv
-v32 ἔχοντας|echontas|vvv|G2192|V-PPA-AMP
+v32 ἔχοντας|echontas|...|G2192|V-PPA-AMP
 v32 καὶ|kai|and|G2532|Conj
 v32 τοὺς|tous|-|G3588|Art-AMP
 v32 δαιμονιζομένους|daimonizomenous|demon-possessed|G1139|V-PPM/P-AMP
 v33 καὶ|kai|and|G2532|Conj
-v33 ἦν|ēn|vvv|G1510|V-IIA-3S
+v33 ἦν|ēn|...|G1510|V-IIA-3S
 v33 ὅλη|holē|whole|G3650|Adj-NFS
 v33 ἡ|hē|the|G3588|Art-NFS
 v33 πόλις|polis|town|G4172|N-NFS
@@ -535,7 +535,7 @@ v34 δαιμόνια|daimonia|demons|G1140|N-ANP
 v34 πολλὰ|polla|many|G4183|Adj-ANP
 v34 ἐξέβαλεν|exebalen|drove out|G1544|V-AIA-3S
 v34 καὶ|kai|But|G2532|Conj
-v34 οὐκ|ouk|vvv|G3756|Adv
+v34 οὐκ|ouk|...|G3756|Adv
 v34 ἤφιεν|ēphien|He would not allow|G863|V-IIA-3S
 v34 λαλεῖν|lalein|to speak|G2980|V-PNA
 v34 τὰ|ta|the|G3588|Art-ANP
@@ -613,7 +613,7 @@ v40 αὐτὸν|auton|[Jesus]|G846|PPro-AM3S
 v40 λεπρὸς|lepros|a leper|G3015|Adj-NMS
 v40 παρακαλῶν|parakalōn|begging|G3870|V-PPA-NMS
 v40 αὐτὸν|auton|-|G846|PPro-AM3S
-v40 καὶ|kai|vvv|G2532|Conj
+v40 καὶ|kai|...|G2532|Conj
 v40 γονυπετῶν|gonypetōn|on his knees|G1120|V-PPA-NMS
 v40 [καὶ]|kai|-|G2532|Conj
 v40 λέγων|legōn|-|G3004|V-PPA-NMS
@@ -648,7 +648,7 @@ v42 ἐκαθαρίσθη*|ekatharisthē|[the man] was cleansed|G2511|V-AIP-3S
 v43 Καὶ|Kai|-|G2532|Conj
 v43 ἐμβριμησάμενος|embrimēsamenos|with a stern warning|G1690|V-APM-NMS
 v43 αὐτῷ|autō|...|G846|PPro-DM3S
-v43 εὐθὺς|euthys|vvv|G2112|Adv
+v43 εὐθὺς|euthys|...|G2112|Adv
 v43 ἐξέβαλεν|exebalen|[Jesus] promptly sent him away|G1544|V-AIA-3S
 v43 αὐτόν|auton|...|G846|PPro-AM3S
 v44 καὶ|kai|-|G2532|Conj

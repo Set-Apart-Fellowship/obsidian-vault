@@ -57,7 +57,7 @@ v3 לָ֔ךְ|lāḵ|you|H0|Prep | 2ms
 v3 אֶ֛רֶץ|’e·reṣ|in a land|H776|N-fs
 v3 זָבַ֥ת|zā·ḇaṯ|flowing|H2100|V-Qal-Prtcpl-fsc
 v3 חָלָ֖ב|ḥā·lāḇ|with milk|H2461|N-ms
-v3 וּדְבָֽשׁ׃פ|ū·ḏə·ḇāš|and honey|H1706|Conj-w | N-ms
+v3 וּדְבָֽשׁ׃|ū·ḏə·ḇāš|and honey|H1706|Conj-w | N-ms
 v4 שְׁמַ֖ע|šə·maʿ|Hear|H8085|V-Qal-Imp-ms
 v4 יִשְׂרָאֵ֑ל|yiś·rā·’êl|O Israel|H3478|N-proper-ms
 v4 יְהוָ֥ה|Yah·weh|The LORD|H3068|N-proper-ms
@@ -105,7 +105,7 @@ v9 וּכְתַבְתָּ֛ם|ū·ḵə·ṯaḇ·tām|Write them|H3789|Conj-w |
 v9 עַל־|‘al-|on|H5921|Prep
 v9 מְזוּזֹ֥ת|mə·zū·zōṯ|the doorposts|H4201|N-fpc
 v9 בֵּיתֶ֖ךָ|bê·ṯe·ḵā|of your houses|H1004|N-msc | 2ms
-v9 וּבִשְׁעָרֶֽיךָ׃ס|ū·ḇiš·‘ā·re·ḵā|and on your gates|H8179|Conj-w, Prep-b | N-mpc | 2ms
+v9 וּבִשְׁעָרֶֽיךָ׃|ū·ḇiš·‘ā·re·ḵā|and on your gates|H8179|Conj-w, Prep-b | N-mpc | 2ms
 v10 וְהָיָ֞ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v10 כִּ֥י|kî|And when|H3588|Conj
 v10 יְבִיאֲךָ֣׀|yə·ḇî·’ă·ḵā|brings|H935|V-Hifil-Imperf-3ms | 2ms
@@ -113,7 +113,7 @@ v10 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v10 אֱלֹהֶ֗יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v10 אֶל־|’el-|you into|H413|Prep
 v10 הָאָ֜רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
-v10 אֲשֶׁ֨ר|’ă·šer||H834|Pro-r
+v10 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v10 נִשְׁבַּ֧ע|niš·ba‘|He swore|H7650|V-Nifal-Perf-3ms
 v10 לַאֲבֹתֶ֛יךָ|la·’ă·ḇō·ṯe·ḵā|to your fathers|H1|Prep-l | N-mpc | 2ms
 v10 לְאַבְרָהָ֛ם|lə·’aḇ·rā·hām|to Abraham|H85|Prep-l | N-proper-ms
@@ -147,7 +147,7 @@ v11 נָטָ֑עְתָּ|nā·ṭā·‘ə·tā|plant|H5193|V-Qal-Perf-2ms
 v11 וְאָכַלְתָּ֖|wə·’ā·ḵal·tā|and when you eat|H398|Conj-w | V-Qal-ConjPerf-2ms
 v11 וְשָׂבָֽעְתָּ׃|wə·śā·ḇā·‘ə·tā|and are satisfied|H7646|Conj-w | V-Qal-ConjPerf-2ms
 v12 הִשָּׁ֣מֶר|hiš·šā·mer|be careful|H8104|V-Nifal-Imp-ms
-v12 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v12 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v12 פֶּן־|pen-|not|H6435|Conj
 v12 תִּשְׁכַּ֖ח|tiš·kaḥ|to forget|H7911|V-Qal-Imperf-2ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
@@ -190,7 +190,7 @@ v15 בָּ֔ךְ|bāḵ|against you|H0|Prep | 2ms
 v15 וְהִשְׁמִ֣ידְךָ֔|wə·hiš·mî·ḏə·ḵā|and He will wipe you|H8045|Conj-w | V-Hifil-ConjPerf-3ms | 2ms
 v15 מֵעַ֖ל|mê·‘al|off|H5921|Prep-m
 v15 פְּנֵ֥י|pə·nê|the face|H6440|N-cpc
-v15 הָאֲדָמָֽה׃ס|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
+v15 הָאֲדָמָֽה׃|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
 v16 לֹ֣א|lō|Do not|H3808|Adv-NegPrt
 v16 תְנַסּ֔וּ|ṯə·nas·sū|test|H5254|V-Piel-Imperf-2mp
 v16 אֶת־|’eṯ-|-|H853|DirObjM
@@ -233,7 +233,7 @@ v19 אֹיְבֶ֖יךָ|’ō·yə·ḇe·ḵā|your enemies|H341|V-Qal-Prtcpl-
 v19 מִפָּנֶ֑יךָ|mip·pā·ne·ḵā|before you|H6440|Prep-m | N-cpc | 2ms
 v19 כַּאֲשֶׁ֖ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v19 דִּבֶּ֥ר|dib·ber|has said|H1696|V-Piel-Perf-3ms
-v19 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v19 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v20 כִּֽי־|kî-|when|H3588|Conj
 v20 יִשְׁאָלְךָ֥|yiš·’ā·lə·ḵā|asks|H7592|V-Qal-Imperf-3ms | 2ms
 v20 בִנְךָ֛|ḇin·ḵā|your son|H1121|N-msc | 2ms
@@ -315,4 +315,4 @@ v25 לִפְנֵ֛י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v25 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v25 אֱלֹהֵ֖ינוּ|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
 v25 כַּאֲשֶׁ֥ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
-v25 צִוָּֽנוּ׃ס|ṣiw·wā·nū|He has commanded us|H6680|V-Piel-Perf-3ms | 1cp
+v25 צִוָּֽנוּ׃|ṣiw·wā·nū|He has commanded us|H6680|V-Piel-Perf-3ms | 1cp

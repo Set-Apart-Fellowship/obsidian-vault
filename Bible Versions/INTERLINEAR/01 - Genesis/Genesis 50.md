@@ -21,13 +21,13 @@ v2 הָרֹפְאִ֖ים|hā·rō·p̄ə·’îm|So they|H7495|Art | V-Qal-Prtc
 v2 אֶת־|’eṯ-|-|H853|DirObjM
 v2 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v3 וַיִּמְלְאוּ־|way·yim·lə·’ū-|required to complete|H4390|Conj-w | V-Qal-ConsecImperf-3mp
-v3 לוֹ֙|lōw||H0|Prep | 3ms
+v3 לוֹ֙|lōw|-|H0|Prep | 3ms
 v3 אַרְבָּעִ֣ים|’ar·bā·‘îm|taking the forty|H705|Number-cp
 v3 י֔וֹם|yō·wm|days|H3117|N-ms
 v3 כִּ֛י|kî|-|H3588|Conj
 v3 כֵּ֥ן|kên|-|H3651|Adv
 v3 יִמְלְא֖וּ|yim·lə·’ū|...|H4390|V-Qal-Imperf-3mp
-v3 יְמֵ֣י|yə·mê||H3117|N-mpc
+v3 יְמֵ֣י|yə·mê|-|H3117|N-mpc
 v3 הַחֲנֻטִ֑ים|ha·ḥă·nu·ṭîm|the embalming|H2590|Art | Adj-mp
 v3 וַיִּבְכּ֥וּ|way·yiḇ·kū|mourned|H1058|Conj-w | V-Qal-ConsecImperf-3mp
 v3 אֹת֛וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
@@ -62,7 +62,7 @@ v5 מֵת֒|mêṯ|am about to die|H4191|V-Qal-Prtcpl-ms
 v5 בְּקִבְרִ֗י|bə·qiḇ·rî|in the tomb|H6913|Prep-b | N-msc | 1cs
 v5 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
 v5 כָּרִ֤יתִי|kā·rî·ṯî|I dug|H3738|V-Qal-Perf-1cs
-v5 לִי֙|lî||H0|Prep | 1cs
+v5 לִי֙|lî|-|H0|Prep | 1cs
 v5 בְּאֶ֣רֶץ|bə·’e·reṣ|for myself in the land|H776|Prep-b | N-fsc
 v5 כְּנַ֔עַן|kə·na·‘an|of Canaan|H3667|N-proper-ms
 v5 שָׁ֖מָּה|šām·māh|...|H8033|Adv | 3fs
@@ -109,7 +109,7 @@ v8 טַפָּם֙|ṭap·pām|their children|H2945|N-msc | 3mp
 v8 וְצֹאנָ֣ם|wə·ṣō·nām|and flocks|H6629|Conj-w | N-fsc | 3mp
 v8 וּבְקָרָ֔ם|ū·ḇə·qā·rām|and herds|H1241|Conj-w | N-msc | 3mp
 v8 עָזְב֖וּ|‘ā·zə·ḇū|were left|H5800|V-Qal-Perf-3cp
-v8 בְּאֶ֥רֶץ|bə·’e·reṣ|vvv|H776|Prep-b | N-fsc
+v8 בְּאֶ֥רֶץ|bə·’e·reṣ|...|H776|Prep-b | N-fsc
 v8 גֹּֽשֶׁן׃|gō·šen|in Goshen|H1657|N-proper-fs
 v9 וַיַּ֣עַל|way·ya·‘al|went up|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v9 עִמּ֔וֹ|‘im·mōw|with him|H5973|Prep | 3ms
@@ -140,7 +140,7 @@ v10 אֵ֖בֶל|’ê·ḇel|...|H60|N-ms
 v10 שִׁבְעַ֥ת|šiḇ·‘aṯ|seven|H7651|Number-msc
 v10 יָמִֽים׃|yā·mîm|days|H3117|N-mp
 v11 וַיַּ֡רְא|way·yar|saw|H7200|Conj-w | V-Qal-ConsecImperf-3ms
-v11 יוֹשֵׁב֩|yō·wō·šêḇ|vvv|H3427|V-Qal-Prtcpl-msc
+v11 יוֹשֵׁב֩|yō·wō·šêḇ|...|H3427|V-Qal-Prtcpl-msc
 v11 הָאָ֨רֶץ|hā·’ā·reṣ|of the land|H776|Art | N-fs
 v11 הַֽכְּנַעֲנִ֜י|hak·kə·na·‘ă·nî|When the Canaanites|H3669|Art | N-proper-ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
@@ -156,14 +156,14 @@ v11 עַל־|‘al-|Thus|H5921|Prep
 v11 כֵּ֞ן|kên|...|H3651|Adv
 v11 קָרָ֤א|qā·rā|is called|H7121|V-Qal-Perf-3ms
 v11 שְׁמָהּ֙|šə·māh|...|H8034|N-msc | 3fs
-v11 אָבֵ֣ל|’ā·ḇêl|vvv|H67|
+v11 אָבֵ֣ל|’ā·ḇêl|...|H67|
 v11 מִצְרַ֔יִם|miṣ·ra·yim|Abel-mizraim|H67|N-proper-fs
 v11 אֲשֶׁ֖ר|’ă·šer|the place|H834|Pro-r
 v11 בְּעֵ֥בֶר|bə·‘ê·ḇer|across|H5676|Prep-b | N-msc
 v11 הַיַּרְדֵּֽן׃|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
 v12 וַיַּעֲשׂ֥וּ|way·ya·‘ă·śū|did|H6213|Conj-w | V-Qal-ConsecImperf-3mp
 v12 בָנָ֖יו|ḇā·nāw|So Jacob's sons|H1121|N-mpc | 3ms
-v12 ל֑וֹ|lōw||H0|Prep | 3ms
+v12 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v12 כֵּ֖ן|kên|-|H3651|Adv
 v12 כַּאֲשֶׁ֥ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v12 צִוָּֽם׃|ṣiw·wām|he had charged them|H6680|V-Piel-Perf-3ms | 3mp
@@ -263,7 +263,7 @@ v18 וַֽיִּפְּל֖וּ|way·yip·pə·lū|bowed down|H5307|Conj-w | V-Qa
 v18 לְפָנָ֑יו|lə·p̄ā·nāw|before him|H6440|Prep-l | N-cpc | 3ms
 v18 וַיֹּ֣אמְר֔וּ|way·yō·mə·rū|and said|H559|Conj-w | V-Qal-ConsecImperf-3mp
 v18 הִנֶּ֥נּֽוּ|hin·nen·nū|...|H2009|Interjection | 3ms
-v18 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v18 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v18 לַעֲבָדִֽים׃|la·‘ă·ḇā·ḏîm|We are your slaves|H5650|Prep-l | N-mp
 v19 וַיֹּ֧אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v19 אֲלֵהֶ֛ם|’ă·lê·hem|...|H413|Prep | 3mp
@@ -359,7 +359,7 @@ v25 יִפְקֹ֤ד|yip̄·qōḏ|...|H6485|V-Qal-Imperf-3ms
 v25 אֱלֹהִים֙|’ĕ·lō·hîm|God|H430|N-mp
 v25 אֶתְכֶ֔ם|’eṯ·ḵem|you|H853|DirObjM | 2mp
 v25 וְהַעֲלִתֶ֥ם|wə·ha·‘ă·li·ṯem|and then you must carry|H5927|Conj-w | V-Hifil-ConjPerf-2mp
-v25 אֶת־|’eṯ-||H853|DirObjM
+v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 עַצְמֹתַ֖י|‘aṣ·mō·ṯay|my bones|H6106|N-fpc | 1cs
 v25 מִזֶּֽה׃|miz·zeh|up from this place|H2088|Prep-m | Pro-ms
 v26 וַיָּ֣מָת|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3ms

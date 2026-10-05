@@ -19,7 +19,7 @@ v1 מְדַבֵּ֥ר|mə·ḏab·bêr|had been telling|H1696|V-Piel-Prtcpl-ms
 v1 אֶל־|’el-|...|H413|Prep
 v1 כָּל־|kāl-|all|H3605|N-msc
 v1 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v1 לֵאמֹֽר׃ס|lê·mōr|-|H559|Prep-l | V-Qal-Inf
+v1 לֵאמֹֽר׃|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v2 כֹּה֮|kōh|This is what|H3541|Adv
 v2 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v2 יְהוָה֒|Yah·weh|the LORD|H3068|N-proper-ms
@@ -35,10 +35,10 @@ v2 אֶל־|’el-|to|H413|Prep
 v2 הַכַּשְׂדִּים֙|hak·kaś·dîm|the Chaldeans|H3778|Art | N-proper-mp
 v2 יִחְיֶה|yiḥ·yɛh|will live|H2421|Conj-w | V-Qal-ConjPerf-3ms
 v2 וְהָיְתָה־|wə·hā·yə·ṯāh-|he will retain|H1961|Conj-w | V-Qal-ConjPerf-3fs
-v2 לּ֥וֹ|lōw||H0|Prep | 3ms
+v2 לּ֥וֹ|lōw|-|H0|Prep | 3ms
 v2 נַפְשׁ֛וֹ|nap̄·šōw|his life|H5315|N-fsc | 3ms
 v2 לְשָׁלָ֖ל|lə·šā·lāl|like a spoil of war|H7998|Prep-l | N-ms
-v2 וָחָֽי׃ס|wā·ḥāy|and he will live|H2421|Conj-w | V-Qal-ConjPerf-3ms
+v2 וָחָֽי׃|wā·ḥāy|and he will live|H2421|Conj-w | V-Qal-ConjPerf-3ms
 v3 כֹּ֖ה|kōh|This is what|H3541|Adv
 v3 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v3 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -80,7 +80,7 @@ v4 לְדַבֵּ֣ר|lə·ḏab·bêr|by speaking|H1696|Prep | V-Piel-Inf
 v4 אֲלֵיהֶ֔ם|’ă·lê·hem|to them|H413|Prep | 3mp
 v4 כַּדְּבָרִ֖ים|kad·də·ḇā·rîm|words|H1697|Prep, Art | N-mp
 v4 הָאֵ֑לֶּה|hā·’êl·leh|such|H428|Art | Pro-cp
-v4 כִּ֣י׀|kî||H3588|Conj
+v4 כִּ֣י׀|kî|-|H3588|Conj
 v4 הָאִ֣ישׁ|hā·’îš|man|H376|Art | N-ms
 v4 הַזֶּ֗ה|haz·zeh|this|H2088|Art | Pro-ms
 v4 אֵינֶ֨נּוּ|’ê·nen·nū|is not|H369|Adv | 3ms
@@ -128,9 +128,9 @@ v6 אִם־|’im-|...|H518|Conj
 v6 טִ֔יט|ṭîṭ|mud|H2916|N-ms
 v6 וַיִּטְבַּ֥ע|way·yiṭ·ba‘|sank down|H2883|Conj-w | V-Qal-ConsecImperf-3ms
 v6 יִרְמְיָ֖הוּ|yir·mə·yā·hū|and Jeremiah|H3414|N-proper-ms
-v6 בַּטִּֽיט׃ס|baṭ·ṭîṭ|into the mud|H2916|Prep-b, Art | N-ms
+v6 בַּטִּֽיט׃|baṭ·ṭîṭ|into the mud|H2916|Prep-b, Art | N-ms
 v7 וַיִּשְׁמַ֡ע|way·yiš·ma‘|heard|H8085|Conj-w | V-Qal-ConsecImperf-3ms
-v7 עֶֽבֶד־|‘e·ḇeḏ-|vvv|H5663|
+v7 עֶֽבֶד־|‘e·ḇeḏ-|...|H5663|
 v7 מֶ֨לֶךְ|me·leḵ|Now Ebed-melech|H5663|N-proper-ms
 v7 הַכּוּשִׁ֜י|hak·kū·šî|the Cushite|H3569|Art | N-proper-ms
 v7 אִ֣ישׁ|’îš|...|H376|N-msc
@@ -149,7 +149,7 @@ v7 יוֹשֵׁ֖ב|yō·wō·šêḇ|was sitting|H3427|V-Qal-Prtcpl-ms
 v7 בְּשַׁ֥עַר|bə·ša·‘ar|at the Gate|H8179|Prep-b | N-msc
 v7 בִּנְיָמִֽן׃|bin·yā·min|of Benjamin|H1144|N-proper-ms
 v8 וַיֵּצֵ֥א|way·yê·ṣê|went out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
-v8 עֶֽבֶד־|‘e·ḇeḏ-|vvv|H5663|
+v8 עֶֽבֶד־|‘e·ḇeḏ-|...|H5663|
 v8 מֶ֖לֶךְ|me·leḵ|Ebed-melech|H5663|N-proper-ms
 v8 מִבֵּ֣ית|mib·bêṯ|palace|H1004|Prep-m | N-msc
 v8 הַמֶּ֑לֶךְ|ham·me·leḵ|from the king's|H4428|Art | N-ms
@@ -185,7 +185,7 @@ v9 בָּעִֽיר׃|bā·‘îr|in the city|H5892|Prep-b, Art | N-fs
 v10 וַיְצַוֶּ֣ה|way·ṣaw·weh|commanded|H6680|Conj-w | V-Piel-ConsecImperf-3ms
 v10 הַמֶּ֔לֶךְ|ham·me·leḵ|So the king|H4428|Art | N-ms
 v10 אֵ֛ת|’êṯ|-|H853|DirObjM
-v10 עֶֽבֶד־|‘e·ḇeḏ-|vvv|H5663|
+v10 עֶֽבֶד־|‘e·ḇeḏ-|...|H5663|
 v10 מֶ֥לֶךְ|me·leḵ|Ebed-melech|H5663|N-proper-ms
 v10 הַכּוּשִׁ֖י|hak·kū·šî|the Cushite|H3569|Art | N-proper-ms
 v10 לֵאמֹ֑ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
@@ -203,7 +203,7 @@ v10 הַבּ֖וֹר|hab·bō·wr|out of the cistern|H953|Art | N-ms
 v10 בְּטֶ֥רֶם|bə·ṭe·rem|before|H2962|Prep-b | Adv
 v10 יָמֽוּת׃|yā·mūṯ|he dies|H4191|V-Qal-Imperf-3ms
 v11 וַיִּקַּ֣ח׀|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
-v11 עֶֽבֶד־|‘e·ḇeḏ-|vvv|H5663|
+v11 עֶֽבֶד־|‘e·ḇeḏ-|...|H5663|
 v11 מֶ֨לֶךְ|me·leḵ|Then Ebed-melech|H5663|N-proper-ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 הָאֲנָשִׁ֜ים|hā·’ă·nā·šîm|the men|H582|Art | N-mp
@@ -227,7 +227,7 @@ v11 אֶל־|’el-|in|H413|Prep
 v11 הַבּ֖וֹר|hab·bō·wr|the cistern|H953|Art | N-ms
 v11 בַּחֲבָלִֽים׃|ba·ḥă·ḇā·lîm|with ropes|H2256|Prep-b, Art | N-mp
 v12 וַיֹּ֡אמֶר|way·yō·mer|cried out|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v12 עֶבֶד־|‘e·ḇeḏ-|vvv|H5663|
+v12 עֶבֶד־|‘e·ḇeḏ-|...|H5663|
 v12 מֶ֨לֶךְ|me·leḵ|Ebed-melech|H5663|N-proper-ms
 v12 הַכּוּשִׁ֜י|hak·kū·šî|the Cushite|H3569|Art | N-proper-ms
 v12 אֶֽל־|’el-|to|H413|Prep
@@ -256,7 +256,7 @@ v13 הַבּ֑וֹר|hab·bō·wr|the cistern|H953|Art | N-ms
 v13 וַיֵּ֣שֶׁב|way·yê·šeḇ|remained|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v13 יִרְמְיָ֔הוּ|yir·mə·yā·hū|And Jeremiah|H3414|N-proper-ms
 v13 בַּחֲצַ֖ר|ba·ḥă·ṣar|in the courtyard|H2691|Prep-b | N-csc
-v13 הַמַּטָּרָֽה׃ס|ham·maṭ·ṭā·rāh|of the guard|H4307|Art | N-fs
+v13 הַמַּטָּרָֽה׃|ham·maṭ·ṭā·rāh|of the guard|H4307|Art | N-fs
 v14 וַיִּשְׁלַ֞ח|way·yiš·laḥ|sent for|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v14 הַמֶּ֣לֶךְ|ham·me·leḵ|Then King|H4428|Art | N-ms
 v14 צִדְקִיָּ֗הוּ|ṣiḏ·qî·yā·hū|Zedekiah|H6667|N-proper-ms
@@ -289,7 +289,7 @@ v15 אֶל־|’el-|-|H413|Prep
 v15 צִדְקִיָּ֔הוּ|ṣiḏ·qî·yā·hū|-|H6667|N-proper-ms
 v15 כִּ֚י|kî|If|H3588|Conj
 v15 אַגִּ֣יד|’ag·gîḏ|I tell you|H5046|V-Hifil-Imperf-1cs
-v15 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v15 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v15 הֲל֖וֹא|hă·lō·w|-|H3808|Adv-NegPrt
 v15 הָמֵ֣ת|hā·mêṯ|you will surely put me to death|H4191|V-Hifil-InfAbs
 v15 תְּמִיתֵ֑נִי|tə·mî·ṯê·nî|...|H4191|V-Hifil-Imperf-2ms | 1cs
@@ -307,7 +307,7 @@ v16 בַּסֵּ֣תֶר|bas·sê·ṯer|secretly|H5643|Prep-b, Art | N-ms
 v16 לֵאמֹ֑ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v16 חַי־|ḥay-|lives|H2416|N-ms
 v16 יְהוָ֞ה|Yah·weh|As surely as the LORD|H3068|N-proper-ms
-v16 את|ṯ||H853|Prep
+v16 את|ṯ|-|H853|Prep
 v16 אֲשֶׁר֩|’ă·šer|who|H834|Adv-NegPrt
 v16 עָשָׂה־|‘ā·śāh-|has given|H6213|V-Qal-Perf-3ms
 v16 לָ֨נוּ|lā·nū|us|H0|Prep | 1cp
@@ -324,7 +324,7 @@ v16 הָאֵ֔לֶּה|hā·’êl·leh|of these|H428|Art | Pro-cp
 v16 אֲשֶׁ֥ר|’ă·šer|who|H834|Pro-r
 v16 מְבַקְשִׁ֖ים|mə·ḇaq·šîm|are seeking|H1245|V-Piel-Prtcpl-mp
 v16 אֶת־|’eṯ-|-|H853|DirObjM
-v16 נַפְשֶֽׁךָ׃ס|nap̄·še·ḵā|your life|H5315|N-fsc | 2ms
+v16 נַפְשֶֽׁךָ׃|nap̄·še·ḵā|your life|H5315|N-fsc | 2ms
 v17 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v17 יִרְמְיָ֣הוּ|yir·mə·yā·hū|Then Jeremiah|H3414|N-proper-ms
 v17 אֶל־|’el-|to|H413|Prep
@@ -370,7 +370,7 @@ v18 בָּאֵ֑שׁ|bā·’êš|...|H784|Prep-b, Art | N-cs
 v18 וְאַתָּ֖ה|wə·’at·tāh|and you|H859|Conj-w | Pro-2ms
 v18 לֹֽא־|lō-|yourself will not|H3808|Adv-NegPrt
 v18 תִמָּלֵ֥ט|ṯim·mā·lêṭ|escape|H4422|V-Nifal-Imperf-2ms
-v18 מִיָּדָֽם׃ס|mî·yā·ḏām|their grasp|H3027|Prep-m | N-fsc | 3mp
+v18 מִיָּדָֽם׃|mî·yā·ḏām|their grasp|H3027|Prep-m | N-fsc | 3mp
 v19 וַיֹּ֛אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v19 הַמֶּ֥לֶךְ|ham·me·leḵ|But King|H4428|Art | N-ms
 v19 צִדְקִיָּ֖הוּ|ṣiḏ·qî·yā·hū|Zedekiah|H6667|N-proper-ms
@@ -389,7 +389,7 @@ v19 יִתְּנ֥וּ|yit·tə·nū|may deliver|H5414|V-Qal-Imperf-3mp
 v19 אֹתִ֛י|’ō·ṯî|me|H853|DirObjM | 1cs
 v19 בְּיָדָ֖ם|bə·yā·ḏām|into their hands|H3027|Prep-b | N-fsc | 3mp
 v19 וְהִתְעַלְּלוּ־|wə·hiṯ·‘al·lə·lū-|to abuse|H5953|Conj-w | V-Hitpael-ConjPerf-3cp
-v19 בִֽי׃פ|ḇî|me|H0|Prep | 1cs
+v19 בִֽי׃|ḇî|me|H0|Prep | 1cs
 v20 וַיֹּ֥אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 יִרְמְיָ֖הוּ|yir·mə·yā·hū|Jeremiah|H3414|N-proper-ms
 v20 לֹ֣א|lō|They will not|H3808|Adv-NegPrt
@@ -461,7 +461,7 @@ v23 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | Pro
 v23 הָעִ֥יר|hā·‘îr|city|H5892|Art | N-fs
 v23 הַזֹּ֖את|haz·zōṯ|and this|H2063|Art | Pro-fs
 v23 תִּשְׂרֹ֥ף|tiś·rōp̄|will be burned down|H8313|V-Qal-Imperf-3fs
-v23 בָּאֵֽשׁ׃פ|bā·’êš|...|H784|Prep, Art | N-cs
+v23 בָּאֵֽשׁ׃|bā·’êš|...|H784|Prep, Art | N-cs
 v24 וַיֹּ֨אמֶר|way·yō·mer|warned|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v24 צִדְקִיָּ֜הוּ|ṣiḏ·qî·yā·hū|Then Zedekiah|H6667|N-proper-ms
 v24 אֶֽל־|’el-|...|H413|Prep
@@ -482,7 +482,7 @@ v25 אִתָּךְ֒|’it·tāḵ|with you|H854|Prep | 2ms
 v25 וּבָ֣אוּ|ū·ḇā·’ū|and they come|H935|Conj-w | V-Qal-ConjPerf-3cp
 v25 אֵלֶ֣יךָ|’ê·le·ḵā|of you|H413|Prep | 2ms
 v25 וְֽאָמְר֪וּ|wə·’ā·mə·rū|and demand|H559|Conj-w | V-Qal-ConjPerf-3cp
-v25 אֵלֶ֟יךָ|’ê·le·ḵā||H413|Prep | 2ms
+v25 אֵלֶ֟יךָ|’ê·le·ḵā|-|H413|Prep | 2ms
 v25 הַגִּֽידָה־|hag·gî·ḏāh-|Tell|H5046|V-Hifil-Imp-ms | 3fs
 v25 נָּ֨א|nā|...|H4994|Interjection
 v25 לָ֜נוּ|lā·nū|us|H0|Prep | 1cp
@@ -511,7 +511,7 @@ v26 הֲשִׁיבֵ֛נִי|hă·šî·ḇê·nî|return me|H7725|V-Hifil-Inf 
 v26 בֵּ֥ית|bêṯ|to the house|H1004|N-msc
 v26 יְהוֹנָתָ֖ן|yə·hō·w·nā·ṯān|of Jonathan|H3083|N-proper-ms
 v26 לָמ֥וּת|lā·mūṯ|to die|H4191|Prep-l | V-Qal-Inf
-v26 שָֽׁם׃פ|šām|there|H8033|Adv
+v26 שָֽׁם׃|šām|there|H8033|Adv
 v27 וַיָּבֹ֨אוּ|way·yā·ḇō·’ū|came|H935|Conj-w | V-Qal-ConsecImperf-3mp
 v27 כָל־|ḵāl|When all|H3605|N-msc
 v27 הַשָּׂרִ֤ים|haś·śā·rîm|the officials|H8269|Art | N-mp
@@ -532,7 +532,7 @@ v27 מִמֶּ֔נּוּ|mim·men·nū|to him|H4480|Prep | 3ms
 v27 כִּ֥י|kî|for|H3588|Conj
 v27 לֹֽא־|lō-|no one|H3808|Adv-NegPrt
 v27 נִשְׁמַ֖ע|niš·ma‘|had overheard|H8085|V-Nifal-Perf-3ms
-v27 הַדָּבָֽר׃פ|had·dā·ḇār|the conversation|H1697|Art | N-ms
+v27 הַדָּבָֽר׃|had·dā·ḇār|the conversation|H1697|Art | N-ms
 v28 וַיֵּ֤שֶׁב|way·yê·šeḇ|remained|H3427|Conj-w | V-Qal-ConsecImperf-3ms
 v28 יִרְמְיָ֙הוּ֙|yir·mə·yā·hū|And Jeremiah|H3414|N-proper-ms
 v28 בַּחֲצַ֣ר|ba·ḥă·ṣar|in the courtyard|H2691|Prep-b | N-csc
@@ -545,4 +545,4 @@ v28 יְרוּשָׁלִָ֑םס|yə·rū·šå̄·lå̄·ms|Jerusalem|H3389|N-p
 v28 וְהָיָ֕ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v28 כַּאֲשֶׁ֥ר|ka·’ă·šer|-|H834|Prep-k | Pro-r
 v28 נִלְכְּדָ֖ה|nil·kə·ḏāh|-|H3920|V-Nifal-Perf-3fs
-v28 יְרוּשָׁלִָֽם׃פ|yə·rū·šā·lim|...|H3389|N-proper-fs
+v28 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|...|H3389|N-proper-fs

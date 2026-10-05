@@ -16,7 +16,7 @@ v1 וְאֵי־|wə·’ê-|Or where [will]|H335|Conj-w | Interrog
 v1 זֶ֥ה|zeh|...|H2088|Pro-ms
 v1 מָק֖וֹם|mā·qō·wm|My place|H4725|N-ms
 v1 מְנוּחָתִֽי׃|mə·nū·ḥā·ṯî|of repose [be]|H4496|N-fsc | 1cs
-v2 וְאֶת־|wə·’eṯ-||H853|Conj-w | Pro
+v2 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | Pro
 v2 כָּל־|kāl-|-|H3605|N-msc
 v2 אֵ֙לֶּה֙|’êl·leh|these things|H428|Pro-cp
 v2 יָדִ֣י|yā·ḏî|[Has not] My hand|H3027|N-fsc | 1cs
@@ -79,7 +79,7 @@ v4 בְּעֵינַ֔י|bə·‘ê·nay|in My sight|H5869|Prep-b | N-cdc | 1cs
 v4 וּבַאֲשֶׁ֥ר|ū·ḇa·’ă·šer|that in which|H834|Conj-w, Prep-b | Pro-r
 v4 לֹֽא־|lō-|I did not|H3808|Adv-NegPrt
 v4 חָפַ֖צְתִּי|ḥā·p̄aṣ·tî|delight|H2654|V-Qal-Perf-1cs
-v4 בָּחָֽרוּ׃ס|bā·ḥā·rū|and chose|H977|V-Qal-Perf-3cp
+v4 בָּחָֽרוּ׃|bā·ḥā·rū|and chose|H977|V-Qal-Perf-3cp
 v5 שִׁמְעוּ֙|šim·‘ū|hear|H8085|V-Qal-Imp-mp
 v5 דְּבַר־|də·ḇar-|the word|H1697|N-msc
 v5 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -114,7 +114,7 @@ v7 יָלָ֑דָה|yā·lā·ḏāh|she gave birth|H3205|V-Qal-Perf-3fs
 v7 בְּטֶ֨רֶם|bə·ṭe·rem|before|H2962|Prep-b | Adv
 v7 יָב֥וֹא|yā·ḇō·w|...|H935|V-Qal-Imperf-3ms
 v7 חֵ֛בֶל|ḥê·ḇel|she was in pain|H2256|N-ms
-v7 לָ֖הּ|lāh||H0|Prep | 3fs
+v7 לָ֖הּ|lāh|-|H0|Prep | 3fs
 v7 וְהִמְלִ֥יטָה|wə·him·lî·ṭāh|she delivered|H4422|Conj-w | V-Hifil-ConjPerf-3fs
 v7 זָכָֽר׃|zā·ḵār|a boy|H2145|N-ms
 v8 מִֽי־|mî-|Who|H4310|Interrog
@@ -150,7 +150,7 @@ v9 אֲנִ֧י|’ă·nî|will I|H589|Pro-1cs
 v9 הַמּוֹלִ֛יד|ham·mō·w·lîḏ|who deliver|H3205|Art | V-Hifil-Prtcpl-ms
 v9 וְעָצַ֖רְתִּי|wə·‘ā·ṣar·tî|close the womb|H6113|Conj-w | V-Qal-ConjPerf-1cs
 v9 אָמַ֥ר|’ā·mar|says|H559|V-Qal-Perf-3ms
-v9 אֱלֹהָֽיִךְ׃ס|’ĕ·lō·hā·yiḵ|your God|H430|N-mpc | 2fs
+v9 אֱלֹהָֽיִךְ׃|’ĕ·lō·hā·yiḵ|your God|H430|N-mpc | 2fs
 v10 שִׂמְח֧וּ|śim·ḥū|Be glad|H8055|V-Qal-Imp-mp
 v10 אֶת־|’eṯ-|for|H854|Prep
 v10 יְרוּשָׁלִַ֛ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
@@ -173,7 +173,7 @@ v11 לְמַ֧עַן|lə·ma·‘an|...|H4616|Conj
 v11 תָּמֹ֛צּוּ|tā·mōṣ·ṣū|you may drink deeply|H4711|V-Qal-Imperf-2mp
 v11 וְהִתְעַנַּגְתֶּ֖ם|wə·hiṯ·‘an·naḡ·tem|and delight yourselves|H6026|Conj-w | V-Hitpael-ConjPerf-2mp
 v11 מִזִּ֥יז|miz·zîz|abundance|H2123|Prep-m | N-msc
-v11 כְּבוֹדָֽהּ׃ס|kə·ḇō·w·ḏāh|in her glorious|H3519|N-msc | 3fs
+v11 כְּבוֹדָֽהּ׃|kə·ḇō·w·ḏāh|in her glorious|H3519|N-msc | 3fs
 v12 כִּֽי־|kî-|For|H3588|Conj
 v12 כֹ֣ה׀|ḵōh|this is what|H3541|Adv
 v12 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -199,7 +199,7 @@ v13 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v13 אִמּ֖וֹ|’im·mōw|As a mother|H517|N-fsc | 3ms
 v13 תְּנַחֲמֶ֑נּוּ|tə·na·ḥă·men·nū|comforts her son|H5162|V-Piel-Imperf-3fs | 3ms
 v13 כֵּ֤ן|kên|so|H3651|Adv
-v13 אָֽנֹכִי֙|’ā·nō·ḵî|vvv|H595|Pro-1cs
+v13 אָֽנֹכִי֙|’ā·nō·ḵî|...|H595|Pro-1cs
 v13 אֲנַ֣חֶמְכֶ֔ם|’ă·na·ḥem·ḵem|will I comfort you|H5162|V-Piel-Imperf-1cs | 2mp
 v13 וּבִירֽוּשָׁלִַ֖ם|ū·ḇî·rū·šā·lim|over Jerusalem|H3389|Conj-w, Prep-b | N-proper-fs
 v13 תְּנֻחָֽמוּ׃|tə·nu·ḥā·mū|and you will be consoled|H5162|V-Pual-Imperf-2mp

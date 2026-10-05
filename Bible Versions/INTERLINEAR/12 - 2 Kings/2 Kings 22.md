@@ -26,7 +26,7 @@ v2 אָבִ֔יו|’ā·ḇîw|of his father|H1|N-msc | 3ms
 v2 וְלֹא־|wə·lō-|he did not|H3808|Conj-w | Adv-NegPrt
 v2 סָ֖ר|sār|turn aside|H5493|V-Qal-Perf-3ms
 v2 יָמִ֥ין|yā·mîn|to the right|H3225|N-fs
-v2 וּשְׂמֹֽאול׃פ|ū·śə·mō·wl|or to the left|H8040|Conj-w | N-ms
+v2 וּשְׂמֹֽאול׃|ū·śə·mō·wl|or to the left|H8040|Conj-w | N-ms
 v3 וַיְהִ֗י|way·hî|Now|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v3 בִּשְׁמֹנֶ֤ה|biš·mō·neh|in the eighteenth|H8083|Prep-b | Number-fs
 v3 עֶשְׂרֵה֙|‘eś·rêh|...|H6240|Number-fs
@@ -58,7 +58,7 @@ v4 בֵּ֣ית|bêṯ|into the house|H1004|N-msc
 v4 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v4 אֲשֶׁ֥ר|’ă·šer|which|H834|Pro-r
 v4 אָסְפ֛וּ|’ā·sə·p̄ū|have collected|H622|V-Qal-Perf-3cp
-v4 שֹׁמְרֵ֥י|šō·mə·rê|vvv|H8104|V-Qal-Prtcpl-mpc
+v4 שֹׁמְרֵ֥י|šō·mə·rê|...|H8104|V-Qal-Prtcpl-mpc
 v4 הַסַּ֖ף|has·sap̄|the doorkeepers|H5592|Art | N-ms
 v4 מֵאֵ֥ת|mê·’êṯ|...|H854|Prep-m | DirObjM
 v4 הָעָֽם׃|hā·‘ām|from the people|H5971|Art | N-ms
@@ -93,7 +93,7 @@ v6 הַבָּֽיִת׃|hab·bā·yiṯ|the temple|H1004|Art | N-ms
 v7 אַ֚ךְ|’aḵ|But|H389|Adv
 v7 לֹא־|lō-|they need not|H3808|Adv-NegPrt
 v7 יֵחָשֵׁ֣ב|yê·ḥā·šêḇ|account|H2803|V-Nifal-Imperf-3ms
-v7 אִתָּ֔ם|’it·tām|vvv|H854|Prep | 3mp
+v7 אִתָּ֔ם|’it·tām|...|H854|Prep | 3mp
 v7 הַכֶּ֖סֶף|hak·ke·sep̄|for the money|H3701|Art | N-ms
 v7 הַנִּתָּ֣ן|han·nit·tān|put|H5414|Art | V-Nifal-Prtcpl-ms
 v7 עַל־|‘al-|into|H5921|Prep
@@ -213,12 +213,12 @@ v13 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v13 הִיא֙|hî|...|H1931|Pro-3fs
 v13 נִצְּתָ֣ה|niṣ·ṣə·ṯāh|burns|H3341|V-Nifal-Perf-3fs
 v13 בָ֔נוּ|ḇā·nū|against us|H0|Prep | 1cp
-v13 עַל֩|‘al||H5921|Prep
+v13 עַל֩|‘al|-|H5921|Prep
 v13 אֲשֶׁ֨ר|’ă·šer|because|H834|Pro-r
 v13 לֹֽא־|lō-|have not|H3808|Adv-NegPrt
 v13 שָׁמְע֜וּ|šā·mə·‘ū|obeyed|H8085|V-Qal-Perf-3cp
 v13 אֲבֹתֵ֗ינוּ|’ă·ḇō·ṯê·nū|our fathers|H1|N-mpc | 1cp
-v13 עַל־|‘al-||H5921|Prep
+v13 עַל־|‘al-|-|H5921|Prep
 v13 דִּבְרֵי֙|diḇ·rê|the words|H1697|N-mpc
 v13 הַסֵּ֣פֶר|has·sê·p̄er|book|H5612|Art | N-ms
 v13 הַזֶּ֔ה|haz·zeh|of this|H2088|Art | Pro-ms
@@ -346,7 +346,7 @@ v19 שָׁמַ֖עְתִּי|šā·ma‘·tî|have heard [you]|H8085|V-Qal-Perf-
 v19 נְאֻם־|nə·’um-|declares|H5002|N-msc
 v19 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v20 לָכֵן֩|lā·ḵên|Therefore|H3651|Adv
-v20 הִנְנִ֨י|hin·nî|vvv|H2005|Interjection | 1cs
+v20 הִנְנִ֨י|hin·nî|...|H2005|Interjection | 1cs
 v20 אֹֽסִפְךָ֜|’ō·sip̄·ḵā|I will indeed gather|H622|V-Qal-Prtcpl-msc | 2ms
 v20 עַל־|‘al-|you to|H5921|Prep
 v20 אֲבֹתֶ֗יךָ|’ă·ḇō·ṯe·ḵā|your fathers|H1|N-mpc | 2ms

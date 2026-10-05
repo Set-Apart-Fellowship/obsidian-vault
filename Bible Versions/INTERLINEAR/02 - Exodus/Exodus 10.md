@@ -83,8 +83,8 @@ v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 יֶ֣תֶר|ye·ṯer|whatever is|H3499|N-msc
 v5 הַפְּלֵטָ֗ה|hap·pə·lê·ṭāh|after|H6413|Art | N-fs
 v5 הַנִּשְׁאֶ֤רֶת|han·niš·’e·reṯ|left|H7604|Art | V-Nifal-Prtcpl-fs
-v5 לָכֶם֙|lā·ḵem||H0|Prep | 2mp
-v5 מִן־|min-||H4480|Prep
+v5 לָכֶם֙|lā·ḵem|-|H0|Prep | 2mp
+v5 מִן־|min-|-|H4480|Prep
 v5 הַבָּרָ֔ד|hab·bā·rāḏ|the hail|H1259|Art | N-ms
 v5 וְאָכַל֙|wə·’ā·ḵal|and eat|H398|Conj-w | V-Qal-ConjPerf-3ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
@@ -171,7 +171,7 @@ v9 נֵלֵ֔ךְ|nê·lêḵ|We will go|H1980|V-Qal-Imperf-1cp
 v9 כִּ֥י|kî|for|H3588|Conj
 v9 חַג־|ḥaḡ-|[we must hold] a feast|H2282|N-msc
 v9 יְהוָ֖ה|Yah·weh|to the LORD|H3068|N-proper-ms
-v9 לָֽנוּ׃|lā·nū||H0|Prep | 1cp
+v9 לָֽנוּ׃|lā·nū|-|H0|Prep | 1cp
 v10 וַיֹּ֣אמֶר|way·yō·mer|Then [Pharaoh]|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v10 אֲלֵהֶ֗ם|’ă·lê·hem|told them|H413|Prep | 3mp
 v10 יְהִ֨י|yə·hî|be|H1961|V-Qal-Imperf.Jus-3ms
@@ -204,7 +204,7 @@ v11 וַיְגָ֣רֶשׁ|way·ḡā·reš|And [Moses and Aaron] were driven|H1
 v11 אֹתָ֔ם|’ō·ṯām|-|H853|DirObjM | 3mp
 v11 מֵאֵ֖ת|mê·’êṯ|from|H854|Prep-m | DirObjM
 v11 פְּנֵ֥י|pə·nê|presence|H6440|N-cpc
-v11 פַרְעֹֽה׃פ|p̄ar·‘ōh|Pharaoh's|H6547|N-proper-ms
+v11 פַרְעֹֽה׃|p̄ar·‘ōh|Pharaoh's|H6547|N-proper-ms
 v12 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v12 אֶל־|’el-|to|H413|Prep
@@ -363,7 +363,7 @@ v20 וְלֹ֥א|wə·lō|and he would not|H3808|Conj-w | Adv-NegPrt
 v20 שִׁלַּ֖ח|šil·laḥ|go|H7971|V-Piel-Perf-3ms
 v20 אֶת־|’eṯ-|-|H853|DirObjM
 v20 בְּנֵ֥י|bə·nê|let the Israelites|H1121|N-mpc
-v20 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|...|H3478|N-proper-ms
+v20 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v21 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v21 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v21 אֶל־|’el-|to|H413|Prep
@@ -494,4 +494,4 @@ v29 לֹא־|lō-|I will never|H3808|Adv-NegPrt
 v29 אֹסִ֥ף|’ō·sip̄|again|H3254|V-Hifil-Imperf-1cs
 v29 ע֖וֹד|‘ō·wḏ|...|H5750|Adv
 v29 רְא֥וֹת|rə·’ō·wṯ|see|H7200|V-Qal-Inf
-v29 פָּנֶֽיךָ׃פ|pā·ne·ḵā|your face|H6440|N-cpc | 2ms
+v29 פָּנֶֽיךָ׃|pā·ne·ḵā|your face|H6440|N-cpc | 2ms

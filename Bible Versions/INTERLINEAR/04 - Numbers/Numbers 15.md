@@ -117,7 +117,7 @@ v11 כָּ֣כָה|kā·ḵāh|This|H3602|Adv
 v11 יֵעָשֶׂ֗ה|yê·‘ā·śeh|is to be done|H6213|V-Nifal-Imperf-3ms
 v11 לַשּׁוֹר֙|laš·šō·wr|bull|H7794|Prep-l, Art | N-ms
 v11 הָֽאֶחָ֔ד|hā·’e·ḥāḏ|for each|H259|Art | Number-ms
-v11 א֖וֹ|’ōw||H176|Conj
+v11 א֖וֹ|’ōw|-|H176|Conj
 v11 לָאַ֣יִל|lā·’a·yil|ram|H352|Prep-l, Art | N-ms
 v11 הָאֶחָ֑ד|hā·’e·ḥāḏ|...|H259|Art | Number-ms
 v11 אֽוֹ־|’ōw-|...|H176|Conj
@@ -169,7 +169,7 @@ v15 הַגָּ֑ר|hag·gār|...|H1481|Art | V-Qal-Prtcpl-ms
 v15 חֻקַּ֤ת|ḥuq·qaṯ|statute|H2708|N-fsc
 v15 עוֹלָם֙|‘ō·w·lām|it is a permanent|H5769|N-ms
 v15 לְדֹרֹ֣תֵיכֶ֔ם|lə·ḏō·rō·ṯê·ḵem|for the generations to come|H1755|Prep-l | N-mpc | 2mp
-v15 כָּכֶ֛ם|kā·ḵem||H0|Prep | 2mp
+v15 כָּכֶ֛ם|kā·ḵem|-|H0|Prep | 2mp
 v15 כַּגֵּ֥ר|kag·gêr|You and the foreigner|H1616|Prep-k, Art | N-ms
 v15 יִהְיֶ֖ה|yih·yeh|shall be|H1961|V-Qal-Imperf-3ms
 v15 לִפְנֵ֥י|lip̄·nê|the same before|H6440|Prep-l | N-cpc
@@ -182,7 +182,7 @@ v16 יִהְיֶ֣ה|yih·yeh|will apply|H1961|V-Qal-Imperf-3ms
 v16 לָכֶ֑ם|lā·ḵem|both to you|H0|Prep | 2mp
 v16 וְלַגֵּ֖ר|wə·lag·gêr|and to the foreigner|H1616|Conj-w, Prep-l, Art | N-ms
 v16 הַגָּ֥ר|hag·gār|residing|H1481|Art | V-Qal-Prtcpl-ms
-v16 אִתְּכֶֽם׃פ|’it·tə·ḵem|with you|H854|Prep | 2mp
+v16 אִתְּכֶֽם׃|’it·tə·ḵem|with you|H854|Prep | 2mp
 v17 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v17 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v17 אֶל־|’el-|...|H413|Prep
@@ -224,7 +224,7 @@ v21 עֲרִסֹ֣תֵיכֶ֔ם|‘ă·ri·sō·ṯê·ḵem|of your dough|H61
 v21 תִּתְּנ֥וּ|tit·tə·nū|you are to give|H5414|V-Qal-Imperf-2mp
 v21 לַיהוָ֖ה|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
 v21 תְּרוּמָ֑ה|tə·rū·māh|an offering|H8641|N-fs
-v21 לְדֹרֹ֖תֵיכֶֽם׃ס|lə·ḏō·rō·ṯê·ḵem|Throughout your generations|H1755|Prep-l | N-mpc | 2mp
+v21 לְדֹרֹ֖תֵיכֶֽם׃|lə·ḏō·rō·ṯê·ḵem|Throughout your generations|H1755|Prep-l | N-mpc | 2mp
 v22 וְכִ֣י|wə·ḵî|Now if|H3588|Conj
 v22 תִשְׁגּ֔וּ|ṯiš·gū|you stray unintentionally|H7686|V-Qal-Imperf-2mp
 v22 וְלֹ֣א|wə·lō|and do not|H3808|Conj-w | Adv-NegPrt
@@ -285,14 +285,14 @@ v25 עֲדַ֛ת|‘ă·ḏaṯ|congregation|H5712|N-fsc
 v25 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v25 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v25 וְנִסְלַ֣ח|wə·nis·laḥ|so that they may be forgiven|H5545|Conj-w | V-Nifal-ConjPerf-3ms
-v25 לָהֶ֑ם|lā·hem||H0|Prep | 3mp
+v25 לָהֶ֑ם|lā·hem|-|H0|Prep | 3mp
 v25 כִּֽי־|kî-|for|H3588|Conj
 v25 שְׁגָגָ֣ה|šə·ḡā·ḡāh|was unintentional|H7684|N-fs
 v25 הִ֔וא|hî|[the sin]|H1931|Pro-3fs
 v25 וְהֵם֩|wə·hêm|and they|H1992|Conj-w | Pro-3mp
 v25 הֵבִ֨יאוּ|hê·ḇî·’ū|have brought|H935|V-Hifil-Perf-3cp
 v25 אֶת־|’eṯ-|-|H853|DirObjM
-v25 קָרְבָּנָ֜ם|qā·rə·bā·nām|vvv|H7133|N-msc | 3mp
+v25 קָרְבָּנָ֜ם|qā·rə·bā·nām|...|H7133|N-msc | 3mp
 v25 אִשֶּׁ֣ה|’iš·šeh|a food offering|H801|N-ms
 v25 לַֽיהוָ֗ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v25 וְחַטָּאתָ֛ם|wə·ḥaṭ·ṭā·ṯām|and a sin offering|H2403|Conj-w | N-fsc | 3mp
@@ -311,7 +311,7 @@ v26 בְּתוֹכָ֑ם|bə·ṯō·w·ḵām|among them|H8432|Prep-b | N-msc |
 v26 כִּ֥י|kî|since|H3588|Conj
 v26 לְכָל־|lə·ḵāl|it happened to all|H3605|Prep-l | N-msc
 v26 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
-v26 בִּשְׁגָגָֽה׃ס|biš·ḡā·ḡāh|unintentionally|H7684|Prep-b | N-fs
+v26 בִּשְׁגָגָֽה׃|biš·ḡā·ḡāh|unintentionally|H7684|Prep-b | N-fs
 v27 וְאִם־|wə·’im-|Also, if|H518|Conj
 v27 נֶ֥פֶשׁ|ne·p̄eš|person|H5315|N-fsc
 v27 אַחַ֖ת|’a·ḥaṯ|one|H259|Number-fs
@@ -334,7 +334,7 @@ v28 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v28 לְכַפֵּ֥ר|lə·ḵap·pêr|and when atonement has been made|H3722|Prep-l | V-Piel-Inf
 v28 עָלָ֖יו|‘ā·lāw|for him|H5921|Prep | 3ms
 v28 וְנִסְלַ֥ח|wə·nis·laḥ|he will be forgiven|H5545|Conj-w | V-Nifal-ConjPerf-3ms
-v28 לֽוֹ׃|lōw||H0|Prep | 3ms
+v28 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v29 הָֽאֶזְרָח֙|hā·’ez·rāḥ|whether he is a native-born|H249|Art | N-ms
 v29 בִּבְנֵ֣י|biḇ·nê|Israelite|H1121|Prep-b | N-mpc
 v29 יִשְׂרָאֵ֔ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -349,7 +349,7 @@ v29 לָעֹשֶׂ֖ה|lā·‘ō·śeh|for the one who acts|H6213|Prep-l, Art |
 v29 בִּשְׁגָגָֽה׃|biš·ḡā·ḡāh|in error|H7684|Prep-b | N-fs
 v30 וְהַנֶּ֜פֶשׁ|wə·han·ne·p̄eš|But the person|H5315|Conj-w, Art | N-fs
 v30 אֲשֶֽׁר־|’ă·šer-|who|H834|Pro-r
-v30 תַּעֲשֶׂ֣ה׀|ta·‘ă·śeh|vvv|H6213|V-Qal-Imperf-3fs
+v30 תַּעֲשֶׂ֣ה׀|ta·‘ă·śeh|...|H6213|V-Qal-Imperf-3fs
 v30 בְּיָ֣ד|bə·yāḏ|sins defiantly|H3027|Prep-b | N-fs
 v30 רָמָ֗ה|rā·māh|...|H7311|V-Qal-Prtcpl-fs
 v30 מִן־|min-|whether|H4480|Prep
@@ -377,7 +377,7 @@ v31 תִּכָּרֵ֛ת|tik·kā·rêṯ|...|H3772|V-Nifal-Imperf-3fs
 v31 הַנֶּ֥פֶשׁ|han·ne·p̄eš|He|H5315|Art | N-fs
 v31 הַהִ֖וא|ha·hi·w|...|H1931|Art | Pro-3fs
 v31 עֲוֺנָ֥ה|‘ă·wō·nāh|his guilt [remains]|H5771|N-csc | 3fs
-v31 בָֽהּ׃פ|ḇāh|on him|H0|Prep | 3fs
+v31 בָֽהּ׃|ḇāh|on him|H0|Prep | 3fs
 v32 וַיִּהְי֥וּ|way·yih·yū|were|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v32 בְנֵֽי־|ḇə·nê-|While the Israelites|H1121|N-mpc
 v32 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -409,7 +409,7 @@ v34 לֹ֣א|lō|it had not been|H3808|Adv-NegPrt
 v34 פֹרַ֔שׁ|p̄ō·raš|declared|H6567|V-Pual-Perf-3ms
 v34 מַה־|mah-|what|H4100|Interrog
 v34 יֵּעָשֶׂ֖ה|yê·‘ā·śeh|should be done|H6213|V-Nifal-Imperf-3ms
-v34 לֽוֹ׃ס|lōw|to him|H0|Prep | 3ms
+v34 לֽוֹ׃|lōw|to him|H0|Prep | 3ms
 v35 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v35 יְהוָה֙|Yah·weh|And the LORD|H3068|N-proper-ms
 v35 אֶל־|’el-|to|H413|Prep
@@ -439,7 +439,7 @@ v36 כַּאֲשֶׁ֛ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v36 צִוָּ֥ה|ṣiw·wāh|had commanded|H6680|V-Piel-Perf-3ms
 v36 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v36 אֶת־|’eṯ-|-|H853|DirObjM
-v36 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v36 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms
 v37 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v37 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v37 אֶל־|’el-|to|H413|Prep
@@ -465,7 +465,7 @@ v38 הַכָּנָ֖ף|hak·kā·nāp̄|...|H3671|Art | N-fs
 v38 פְּתִ֥יל|pə·ṯîl|cord|H6616|N-msc
 v38 תְּכֵֽלֶת׃|tə·ḵê·leṯ|a blue|H8504|N-fs
 v39 וְהָיָ֣ה|wə·hā·yāh|These will serve|H1961|Conj-w | V-Qal-ConjPerf-3ms
-v39 לָכֶם֮|lā·ḵem||H0|Prep | 2mp
+v39 לָכֶם֮|lā·ḵem|-|H0|Prep | 2mp
 v39 לְצִיצִת֒|lə·ṣî·ṣiṯ|as tassels|H6734|Prep-l | N-fs
 v39 וּרְאִיתֶ֣ם|ū·rə·’î·ṯem|for you to look at|H7200|Conj-w | V-Qal-ConjPerf-2mp
 v39 אֹת֗וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
@@ -508,4 +508,4 @@ v41 לָכֶ֖ם|lā·ḵem|your|H0|Prep | 2mp
 v41 לֵאלֹהִ֑ים|lê·lō·hîm|God|H430|Prep-l | N-mp
 v41 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v41 יְהוָ֥ה|Yah·weh|am the LORD|H3068|N-proper-ms
-v41 אֱלֹהֵיכֶֽם׃פ|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp
+v41 אֱלֹהֵיכֶֽם׃|’ĕ·lō·hê·ḵem|your God|H430|N-mpc | 2mp

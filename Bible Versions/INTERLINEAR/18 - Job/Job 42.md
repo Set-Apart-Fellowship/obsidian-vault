@@ -43,7 +43,7 @@ v6 אֶמְאַ֣ס|’em·’as|I despise [myself]|H3988|V-Qal-Imperf-1cs
 v6 וְנִחַ֑מְתִּי|wə·ni·ḥam·tî|and I repent|H5162|Conj-w | V-Nifal-ConjPerf-1cs
 v6 עַל־|‘al-|in|H5921|Prep
 v6 עָפָ֥ר|‘ā·p̄ār|dust|H6083|N-ms
-v6 וָאֵֽפֶר׃פ|wā·’ê·p̄er|and ashes|H665|Conj-w | N-ms
+v6 וָאֵֽפֶר׃|wā·’ê·p̄er|and ashes|H665|Conj-w | N-ms
 v7 וַיְהִ֗י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v7 אַחַ֨ר|’a·ḥar|After|H310|Prep
 v7 דִּבֶּ֧ר|dib·ber|had spoken|H1696|V-Piel-Perf-3ms
@@ -72,7 +72,7 @@ v7 כְּעַבְדִּ֥י|kə·‘aḇ·dî|as My servant|H5650|Prep-k | N-msc
 v7 אִיּֽוֹב׃|’î·yō·wḇ|Job has|H347|N-proper-ms
 v8 וְעַתָּ֡ה|wə·‘at·tāh|So now|H6258|Conj-w | Adv
 v8 קְחֽוּ־|qə·ḥū-|take|H3947|V-Qal-Imp-mp
-v8 לָכֶ֣ם|lā·ḵem||H0|Prep | 2mp
+v8 לָכֶ֣ם|lā·ḵem|-|H0|Prep | 2mp
 v8 שִׁבְעָֽה־|šiḇ·‘āh-|seven|H7651|Number-ms
 v8 פָרִים֩|p̄ā·rîm|bulls|H6499|N-mp
 v8 וְשִׁבְעָ֨ה|wə·šiḇ·‘āh|and seven|H7651|Conj-w | Number-ms
@@ -136,7 +136,7 @@ v10 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v10 לְאִיּ֖וֹב|lə·’î·yō·wḇ|his|H347|Prep-l | N-proper-ms
 v10 לְמִשְׁנֶֽה׃|lə·miš·neh|-|H4932|Prep-l | N-ms
 v11 וַיָּבֹ֣אוּ|way·yā·ḇō·’ū|came|H935|Conj-w | V-Qal-ConsecImperf-3mp
-v11 אֵ֠לָיו|’ê·lāw||H413|Prep | 3ms
+v11 אֵ֠לָיו|’ê·lāw|-|H413|Prep | 3ms
 v11 כָּל־|kāl-|All|H3605|N-msc
 v11 אֶחָ֨יו|’e·ḥāw|his brothers|H251|N-mpc | 3ms
 v11 וְכָל־|wə·ḵāl|and|H3605|Conj-w | N-msc
@@ -167,7 +167,7 @@ v11 אֶחָ֔ת|’e·ḥāṯ|a|H259|Number-fs
 v11 וְאִ֕ישׁ|wə·’îš|...|H376|Conj-w | N-ms
 v11 נֶ֥זֶם|ne·zem|ring|H5141|N-msc
 v11 זָהָ֖ב|zā·hāḇ|gold|H2091|N-ms
-v11 אֶחָֽד׃ס|’e·ḥāḏ|and a|H259|Number-ms
+v11 אֶחָֽד׃|’e·ḥāḏ|and a|H259|Number-ms
 v12 וַֽיהוָ֗ה|Yah·weh|So the LORD|H3068|Conj-w | N-proper-ms
 v12 בֵּרַ֛ךְ|bê·raḵ|blessed|H1288|V-Piel-Perf-3ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
@@ -175,21 +175,21 @@ v12 אַחֲרִ֥ית|’a·ḥă·rîṯ|latter [days]|H319|N-fsc
 v12 אִיּ֖וֹב|’î·yō·wḇ|Job's|H347|N-proper-ms
 v12 מֵרֵאשִׁת֑וֹ|mê·rê·ši·ṯōw|more than his first|H7225|Prep-m | N-fsc | 3ms
 v12 וַֽיְהִי־|way·hî-|He owned|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v12 ל֡וֹ|lōw||H0|Prep | 3ms
-v12 אַרְבָּעָה֩|’ar·bā·‘āh|14,000 {}|H702|Number-ms
+v12 ל֡וֹ|lōw|-|H0|Prep | 3ms
+v12 אַרְבָּעָה֩|’ar·bā·‘āh|14,000|H702|Number-ms
 v12 עָשָׂ֨ר|‘ā·śār|...|H6240|Number-ms
 v12 אֶ֜לֶף|’e·lep̄|...|H505|Number-msc
 v12 צֹ֗אן|ṣōn|sheep|H6629|N-cs
-v12 וְשֵׁ֤שֶׁת|wə·šê·šeṯ|6,000 {}|H8337|Conj-w | Number-msc
+v12 וְשֵׁ֤שֶׁת|wə·šê·šeṯ|6,000|H8337|Conj-w | Number-msc
 v12 אֲלָפִים֙|’ă·lā·p̄îm|...|H505|Number-mp
 v12 גְּמַלִּ֔ים|gə·mal·lîm|camels|H1581|N-mp
-v12 וְאֶֽלֶף־|wə·’e·lep̄-|1,000 {}|H505|Conj-w | Number-msc
+v12 וְאֶֽלֶף־|wə·’e·lep̄-|1,000|H505|Conj-w | Number-msc
 v12 צֶ֥מֶד|ṣe·meḏ|yoke|H6776|N-ms
 v12 בָּקָ֖ר|bā·qār|of oxen|H1241|N-ms
 v12 וְאֶ֥לֶף|wə·’e·lep̄|and 1,000|H505|Conj-w | Number-msc
 v12 אֲתוֹנֽוֹת׃|’ă·ṯō·w·nō·wṯ|female donkeys|H860|N-fp
 v13 וַֽיְהִי־|way·hî-|And he also had|H1961|Conj-w | V-Qal-ConsecImperf-3ms
-v13 ל֛וֹ|lōw||H0|Prep | 3ms
+v13 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v13 שִׁבְעָ֥נָה|šiḇ·‘ā·nāh|seven|H7658|Adv
 v13 בָנִ֖ים|ḇā·nîm|sons|H1121|N-mp
 v13 וְשָׁל֥וֹשׁ|wə·šā·lō·wōš|and three|H7969|Conj-w | Number-fs
@@ -203,7 +203,7 @@ v14 הַשֵּׁנִ֖ית|haš·šê·nîṯ|his second|H8145|Art | Number-ofs
 v14 קְצִיעָ֑ה|qə·ṣî·‘āh|Keziah|H7103|N-proper-fs
 v14 וְשֵׁ֥ם|wə·šêm|...|H8034|Conj-w | N-msc
 v14 הַשְּׁלִישִׁ֖ית|haš·šə·lî·šîṯ|and his third|H7992|Art | Number-ofs
-v14 קֶ֥רֶן|qe·ren|vvv|H7163|
+v14 קֶ֥רֶן|qe·ren|...|H7163|
 v14 הַפּֽוּךְ׃|hap·pūḵ|Keren-happuch|H7163|N-proper-fs
 v15 וְלֹ֨א|wə·lō|No|H3808|Conj-w | Adv-NegPrt
 v15 נִמְצָ֜א|nim·ṣā|could be found|H4672|V-Nifal-Perf-3ms
@@ -218,7 +218,7 @@ v15 לָהֶ֧ם|lā·hem|them|H0|Prep-l | Pro-3mp
 v15 אֲבִיהֶ֛ם|’ă·ḇî·hem|and their father|H1|N-msc | 3mp
 v15 נַחֲלָ֖ה|na·ḥă·lāh|an inheritance|H5159|N-fs
 v15 בְּת֥וֹךְ|bə·ṯō·wḵ|among|H8432|Prep-b | N-msc
-v15 אֲחֵיהֶֽם׃ס|’ă·ḥê·hem|their brothers|H251|N-mpc | 3mp
+v15 אֲחֵיהֶֽם׃|’ă·ḥê·hem|their brothers|H251|N-mpc | 3mp
 v16 וַיְחִ֤י|way·ḥî|lived|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v16 אִיּוֹב֙|’î·yō·wḇ|Job|H347|N-proper-ms
 v16 אַֽחֲרֵי־|’a·ḥă·rê-|After|H310|Prep

@@ -87,7 +87,7 @@ v7 וּרְב֑וּ|ū·rə·ḇū|and multiply|H7235|Conj-w | V-Qal-Imp-mp
 v7 שִׁרְצ֥וּ|šir·ṣū|spread out|H8317|V-Qal-Imp-mp
 v7 בָאָ֖רֶץ|ḇā·’ā·reṣ|across the earth|H776|Prep-b, Art | N-fs
 v7 וּרְבוּ־|ū·rə·ḇū-|and multiply|H7235|Conj-w | V-Qal-Imp-mp
-v7 בָֽהּ׃ס|ḇāh|upon it|H0|Prep | 3fs
+v7 בָֽהּ׃|ḇāh|upon it|H0|Prep | 3fs
 v8 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 אֱלֹהִים֙|’ĕ·lō·hîm|Then God|H430|N-mp
 v8 אֶל־|’el-|to|H413|Prep
@@ -229,7 +229,7 @@ v17 כָּל־|kāl-|and every|H3605|N-msc
 v17 בָּשָׂ֖ר|bā·śār|creature|H1320|N-ms
 v17 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v17 עַל־|‘al-|on|H5921|Prep
-v17 הָאָֽרֶץ׃פ|hā·’ā·reṣ|the earth|H776|Art | N-fs
+v17 הָאָֽרֶץ׃|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v18 וַיִּֽהְי֣וּ|way·yih·yū|were|H1961|Conj-w | V-Qal-ConsecImperf-3mp
 v18 בְנֵי־|ḇə·nê-|The sons|H1121|N-mpc
 v18 נֹ֗חַ|nō·aḥ|of Noah|H5146|N-proper-ms
@@ -350,4 +350,4 @@ v29 מֵאוֹת֙|mê·’ō·wṯ|...|H3967|Number-fp
 v29 שָׁנָ֔ה|šā·nāh|years|H8141|N-fs
 v29 וַחֲמִשִּׁ֖ים|wa·ḥă·miš·šîm|...|H2572|Conj-w | Number-cp
 v29 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
-v29 וַיָּמֹֽת׃פ|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
+v29 וַיָּמֹֽת׃|way·yā·mōṯ|and then he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms

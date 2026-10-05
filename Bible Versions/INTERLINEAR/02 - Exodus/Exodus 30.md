@@ -28,7 +28,7 @@ v3 סָבִ֖יב|sā·ḇîḇ|and all|H5439|Adv
 v3 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v3 קַרְנֹתָ֑יו|qar·nō·ṯāw|and horns|H7161|N-fpc | 3ms
 v3 וְעָשִׂ֥יתָ|wə·‘ā·śî·ṯā|and make|H6213|Conj-w | V-Qal-ConjPerf-2ms
-v3 לּ֛וֹ|lōw||H0|Prep | 3ms
+v3 לּ֛וֹ|lōw|-|H0|Prep | 3ms
 v3 זֵ֥ר|zêr|a molding|H2213|N-ms
 v3 זָהָ֖ב|zā·hāḇ|of gold|H2091|N-ms
 v3 סָבִֽיב׃|sā·ḇîḇ|around it|H5439|Adv
@@ -128,7 +128,7 @@ v10 לְדֹרֹ֣תֵיכֶ֔ם|lə·ḏō·rō·ṯê·ḵem|Throughout your g
 v10 קֹֽדֶשׁ־|qō·ḏeš-|most|H6944|N-msc
 v10 קָֽדָשִׁ֥ים|qā·ḏā·šîm|holy|H6944|N-mp
 v10 ה֖וּא|hū|The altar [is]|H1931|Pro-3ms
-v10 לַיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v10 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v11 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v11 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v11 אֶל־|’el-|to|H413|Prep
@@ -138,7 +138,7 @@ v12 כִּ֣י|kî|When|H3588|Conj
 v12 תִשָּׂ֞א|ṯiś·śā|you take a census|H5375|V-Qal-Imperf-2ms
 v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 רֹ֥אשׁ|rōš|-|H7218|N-msc
-v12 בְּנֵֽי־|bə·nê-|vvv|H1121|N-mpc
+v12 בְּנֵֽי־|bə·nê-|...|H1121|N-mpc
 v12 יִשְׂרָאֵ֘ל|yiś·rå̄·ʾēl|of the Israelites|H3478|N-proper-ms
 v12 לִפְקֻדֵיהֶם֒|lip̄·qu·ḏê·hem|to number them|H6485|Prep-l | V-Qal-QalPassPrtcpl-mpc | 3mp
 v12 וְנָ֨תְנ֜וּ|wə·nā·ṯə·nū|must pay|H5414|Conj-w | V-Qal-ConjPerf-3cp
@@ -218,7 +218,7 @@ v16 לִפְנֵ֣י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v16 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v16 לְכַפֵּ֖ר|lə·ḵap·pêr|to make atonement|H3722|Prep-l | V-Piel-Inf
 v16 עַל־|‘al-|for|H5921|Prep
-v16 נַפְשֹׁתֵיכֶֽם׃פ|nap̄·šō·ṯê·ḵem|your lives|H5315|N-fpc | 2mp
+v16 נַפְשֹׁתֵיכֶֽם׃|nap̄·šō·ṯê·ḵem|your lives|H5315|N-fpc | 2mp
 v17 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v17 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v17 אֶל־|’el-|to|H413|Prep
@@ -270,12 +270,12 @@ v21 וְרַגְלֵיהֶ֖ם|wə·raḡ·lê·hem|and feet|H7272|Conj-w | N-fd
 v21 וְלֹ֣א|wə·lō|so that they will not|H3808|Conj-w | Adv-NegPrt
 v21 יָמֻ֑תוּ|yā·mu·ṯū|die|H4191|V-Qal-Imperf-3mp
 v21 וְהָיְתָ֨ה|wə·hā·yə·ṯāh|this shall be|H1961|Conj-w | V-Qal-ConjPerf-3fs
-v21 לָהֶ֧ם|lā·hem||H0|Prep | 3mp
+v21 לָהֶ֧ם|lā·hem|-|H0|Prep | 3mp
 v21 חָק־|ḥāq-|statute|H2706|N-msc
 v21 עוֹלָ֛ם|‘ō·w·lām|a permanent|H5769|N-ms
-v21 ל֥וֹ|lōw||H0|Prep | 3ms
+v21 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v21 וּלְזַרְע֖וֹ|ū·lə·zar·‘ōw|for Aaron and his descendants|H2233|Conj-w, Prep-l | N-msc | 3ms
-v21 לְדֹרֹתָֽם׃פ|lə·ḏō·rō·ṯām|for the generations to come|H1755|Prep-l | N-mpc | 3mp
+v21 לְדֹרֹתָֽם׃|lə·ḏō·rō·ṯām|for the generations to come|H1755|Prep-l | N-mpc | 3mp
 v22 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v22 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v22 אֶל־|’el-|to|H413|Prep
@@ -283,7 +283,7 @@ v22 מֹשֶׁ֥ה|mō·šeh|Moses|H4872|N-proper-ms
 v22 לֵּאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v23 וְאַתָּ֣ה|wə·’at·tāh|-|H859|Conj-w | Pro-2ms
 v23 קַח־|qaḥ-|Take|H3947|V-Qal-Imp-ms
-v23 לְךָ֮|lə·ḵā||H0|Prep | 2ms
+v23 לְךָ֮|lə·ḵā|-|H0|Prep | 2ms
 v23 בְּשָׂמִ֣ים|bə·śā·mîm|spices|H1314|N-mp
 v23 רֹאשׁ֒|rōš|the finest|H7218|N-msc
 v23 מָר־|mār-|myrrh|H4753|N-msc
@@ -321,7 +321,7 @@ v25 מִשְׁחַת־|miš·ḥaṯ-|anointing|H4888|N-fsc
 v25 קֹ֖דֶשׁ|qō·ḏeš|a sacred|H6944|N-ms
 v25 יִהְיֶֽה׃|yih·yeh|it will be|H1961|V-Qal-Imperf-3ms
 v26 וּמָשַׁחְתָּ֥|ū·mā·šaḥ·tā|Use [this oil] to anoint|H4886|Conj-w | V-Qal-ConjPerf-2ms
-v26 ב֖וֹ|ḇōw||H0|Prep | 3ms
+v26 ב֖וֹ|ḇōw|-|H0|Prep | 3ms
 v26 אֶת־|’eṯ-|-|H853|DirObjM
 v26 אֹ֣הֶל|’ō·hel|the Tent|H168|N-msc
 v26 מוֹעֵ֑ד|mō·w·‘êḏ|of Meeting|H4150|N-ms
@@ -367,7 +367,7 @@ v30 תִּמְשָׁ֑ח|tim·šāḥ|Anoint|H4886|V-Qal-Imperf-2ms
 v30 וְקִדַּשְׁתָּ֥|wə·qid·daš·tā|and consecrate|H6942|Conj-w | V-Piel-ConjPerf-2ms
 v30 אֹתָ֖ם|’ō·ṯām|them|H853|DirObjM | 3mp
 v30 לְכַהֵ֥ן|lə·ḵa·hên|to serve Me as priests|H3547|Prep-l | V-Piel-Inf
-v30 לִֽי׃|lî||H0|Prep | 1cs
+v30 לִֽי׃|lî|-|H0|Prep | 1cs
 v31 וְאֶל־|wə·’el-|...|H413|Conj-w | Prep
 v31 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
 v31 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -404,13 +404,13 @@ v33 מִמֶּ֖נּוּ|mim·men·nū|-|H4480|Prep | 3ms
 v33 עַל־|‘al-|it on|H5921|Prep
 v33 זָ֑ר|zār|an outsider|H2114|Adj-ms
 v33 וְנִכְרַ֖ת|wə·niḵ·raṯ|shall be cut off|H3772|Conj-w | V-Nifal-ConjPerf-3ms
-v33 מֵעַמָּֽיו׃ס|mê·‘am·māw|from his people|H5971|Prep-m | N-mpc | 3ms
+v33 מֵעַמָּֽיו׃|mê·‘am·māw|from his people|H5971|Prep-m | N-mpc | 3ms
 v34 וַיֹּאמֶר֩|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v34 יְהוָ֨ה|Yah·weh|The LORD also|H3068|N-proper-ms
 v34 אֶל־|’el-|to|H413|Prep
 v34 מֹשֶׁ֜ה|mō·šeh|Moses|H4872|N-proper-ms
 v34 קַח־|qaḥ-|Take|H3947|V-Qal-Imp-ms
-v34 לְךָ֣|lə·ḵā||H0|Prep | 2ms
+v34 לְךָ֣|lə·ḵā|-|H0|Prep | 2ms
 v34 סַמִּ֗ים|sam·mîm|fragrant spices|H5561|N-mp
 v34 נָטָ֤ף׀|nā·ṭāp̄|gum resin|H5198|N-ms
 v34 וּשְׁחֵ֙לֶת֙|ū·šə·ḥê·leṯ|onycha|H7827|Conj-w | N-fs
@@ -424,7 +424,7 @@ v34 יִהְיֶֽה׃|yih·yeh|-|H1961|V-Qal-Imperf-3ms
 v35 וְעָשִׂ֤יתָ|wə·‘ā·śî·ṯā|and make|H6213|Conj-w | V-Qal-ConjPerf-2ms
 v35 אֹתָהּ֙|’ō·ṯāh|-|H853|DirObjM | 3fs
 v35 קְטֹ֔רֶת|qə·ṭō·reṯ|a fragrant blend of incense|H7004|N-fsc
-v35 רֹ֖קַח|rō·qaḥ||H7545|N-ms
+v35 רֹ֖קַח|rō·qaḥ|-|H7545|N-ms
 v35 מַעֲשֵׂ֣ה|ma·‘ă·śêh|-|H4639|N-msc
 v35 רוֹקֵ֑חַ|rō·w·qê·aḥ|the work of a perfumer|H7543|V-Qal-Prtcpl-ms
 v35 מְמֻלָּ֖ח|mə·mul·lāḥ|seasoned with salt|H4414|V-Pual-Prtcpl-ms
@@ -465,4 +465,4 @@ v38 כָמ֖וֹהָ|ḵā·mō·w·hā|something like|H3644|Prep | 3fs
 v38 לְהָרִ֣יחַ|lə·hā·rî·aḥ|it to enjoy|H7306|Prep-l | V-Hifil-Inf
 v38 בָּ֑הּ|bāh|its fragrance|H0|Prep | 3fs
 v38 וְנִכְרַ֖ת|wə·niḵ·raṯ|shall be cut off|H3772|Conj-w | V-Nifal-ConjPerf-3ms
-v38 מֵעַמָּֽיו׃ס|mê·‘am·māw|from his people|H5971|Prep-m | N-mpc | 3ms
+v38 מֵעַמָּֽיו׃|mê·‘am·māw|from his people|H5971|Prep-m | N-mpc | 3ms

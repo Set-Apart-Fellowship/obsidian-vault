@@ -40,7 +40,7 @@ v4 יָפְיֵֽךְ׃|yā·p̄ə·yêḵ|your beauty|H3308|N-msc | 2fs
 v5 בְּרוֹשִׁ֤ים|bə·rō·wō·šîm|with cypress|H1265|N-mp
 v5 מִשְּׂנִיר֙|miś·śə·nîr|from Senir|H8149|Prep-m | N-proper-fs
 v5 בָּ֣נוּ|bā·nū|They constructed|H1129|V-Qal-Perf-3cp
-v5 לָ֔ךְ|lāḵ||H0|Prep | 2fs
+v5 לָ֔ךְ|lāḵ|-|H0|Prep | 2fs
 v5 אֵ֖ת|’êṯ|-|H853|DirObjM
 v5 כָּל־|kāl-|all|H3605|N-msc
 v5 לֻֽחֹתָ֑יִם|lu·ḥō·ṯā·yim|your planking|H3871|N-md
@@ -80,12 +80,12 @@ v8 צִידוֹן֙|ṣî·ḏō·wn|of Sidon|H6721|N-proper-fs
 v8 וְאַרְוַ֔ד|wə·’ar·waḏ|and Arvad|H719|Conj-w | N-proper-fs
 v8 הָי֥וּ|hā·yū|were|H1961|V-Qal-Perf-3cp
 v8 שָׁטִ֖ים|šā·ṭîm|your oarsmen|H7751|V-Qal-Prtcpl-mp
-v8 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v8 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v8 חֲכָמַ֤יִךְ|ḥă·ḵā·ma·yiḵ|Your men of skill|H2450|Adj-mpc | 2fs
 v8 צוֹר֙|ṣō·wr|O Tyre|H6865|N-proper-fs
 v8 הָ֣יוּ|hā·yū|were [there]|H1961|V-Qal-Perf-3cp
-v8 בָ֔ךְ|ḇāḵ||H0|Prep | 2fs
-v8 הֵ֖מָּה|hêm·māh||H1992|Pro-3mp
+v8 בָ֔ךְ|ḇāḵ|-|H0|Prep | 2fs
+v8 הֵ֖מָּה|hêm·māh|-|H1992|Pro-3mp
 v8 חֹבְלָֽיִךְ׃|ḥō·ḇə·lā·yiḵ|as your captains|H2259|N-mpc | 2fs
 v9 זִקְנֵ֨י|ziq·nê|The elders|H2205|Adj-mpc
 v9 גְבַ֤ל|ḡə·ḇal|of Gebal|H1380|N-proper-fs
@@ -136,7 +136,7 @@ v11 יָפְיֵֽךְ׃|yā·p̄ə·yêḵ|your beauty|H3308|N-msc | 2fs
 v12 תַּרְשִׁ֥ישׁ|tar·šîš|Tarshish [was]|H8659|N-proper-ms
 v12 סֹחַרְתֵּ֖ךְ|sō·ḥar·têḵ|your merchant|H5503|V-Qal-Prtcpl-fsc | 2fs
 v12 מֵרֹ֣ב|mê·rōḇ|because of your great|H7230|Prep-m | N-msc
-v12 כָּל־|kāl-|vvv|H3605|N-msc
+v12 כָּל־|kāl-|...|H3605|N-msc
 v12 ה֑וֹן|hō·wn|wealth of goods|H1952|N-ms
 v12 בְּכֶ֤סֶף|bə·ḵe·sep̄|silver|H3701|Prep-b | N-ms
 v12 בַּרְזֶל֙|bar·zel|iron|H1270|N-ms
@@ -204,7 +204,7 @@ v18 סֹחַרְתֵּ֛ךְ|sō·ḥar·têḵ|traded with you|H5503|V-Qal-Prtc
 v18 בְּרֹ֥ב|bə·rōḇ|Because of your many|H7230|Prep-b | N-msc
 v18 מַעֲשַׂ֖יִךְ|ma·‘ă·śa·yiḵ|products|H4639|N-mpc | 2fs
 v18 מֵרֹ֣ב|mê·rōḇ|and your great|H7230|Prep-m | N-msc
-v18 כָּל־|kāl-|vvv|H3605|N-msc
+v18 כָּל־|kāl-|...|H3605|N-msc
 v18 ה֑וֹן|hō·wn|wealth of goods|H1952|N-ms
 v18 בְּיֵ֥ין|bə·yên|wine|H3196|Prep-b | N-msc
 v18 חֶלְבּ֖וֹן|ḥel·bō·wn|from Helbon|H2463|N-proper-fs
@@ -236,7 +236,7 @@ v21 יָדֵ֑ךְ|yā·ḏêḵ|...|H3027|N-fsc | 2fs
 v21 בְּכָרִ֤ים|bə·ḵā·rîm|in lambs|H3733|Prep-b | N-mp
 v21 וְאֵילִים֙|wə·’ê·lîm|rams|H352|Conj-w | N-mp
 v21 וְעַתּוּדִ֔ים|wə·‘at·tū·ḏîm|and goats|H6260|Conj-w | N-mp
-v21 בָּ֖ם|bām||H0|Prep | 3mp
+v21 בָּ֖ם|bām|-|H0|Prep | 3mp
 v21 סֹחֲרָֽיִךְ׃|sō·ḥă·rā·yiḵ|trading|H5503|V-Qal-Prtcpl-mpc | 2fs
 v22 רֹכְלֵ֤י|rō·ḵə·lê|The merchants|H7402|V-Qal-Prtcpl-mpc
 v22 שְׁבָא֙|šə·ḇā|of Sheba|H7614|N-proper-fs
@@ -303,7 +303,7 @@ v27 מַ֠עֲרָבֵךְ|ma·‘ă·rā·ḇêḵ|...|H4627|N-msc | 2fs
 v27 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v27 אַנְשֵׁ֨י|’an·šê|the warriors|H582|N-mpc
 v27 מִלְחַמְתֵּ֜ךְ|mil·ḥam·têḵ|...|H4421|N-fsc | 2fs
-v27 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v27 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v27 בָּ֗ךְ|bāḵ|within you|H0|Prep | 2fs
 v27 וּבְכָל־|ū·ḇə·ḵāl|with all|H3605|Conj-w, Prep-b | N-msc
 v27 קְהָלֵךְ֙|qə·hā·lêḵ|the other people on board|H6951|N-msc | 2fs
@@ -314,7 +314,7 @@ v27 בְּלֵ֣ב|bə·lêḇ|into the heart|H3820|Prep-b | N-msc
 v27 יַמִּ֔ים|yam·mîm|of the sea|H3220|N-mp
 v27 בְּי֖וֹם|bə·yō·wm|on the day|H3117|Prep-b | N-msc
 v27 מַפַּלְתֵּֽךְ׃|map·pal·têḵ|of your downfall|H4658|N-fsc | 2fs
-v28 לְק֖וֹל|lə·qō·wl|vvv|H6963|Prep-l | N-msc
+v28 לְק֖וֹל|lə·qō·wl|...|H6963|Prep-l | N-msc
 v28 זַעֲקַ֣ת|za·‘ă·qaṯ|cry out|H2201|N-fsc
 v28 חֹבְלָ֑יִךְ|ḥō·ḇə·lā·yiḵ|when your sailors|H2259|N-mpc | 2fs
 v28 יִרְעֲשׁ֖וּ|yir·‘ă·šū|will shake|H7493|V-Qal-Imperf-3mp
@@ -404,4 +404,4 @@ v36 בַּלָּה֣וֹת|bal·lā·hō·wṯ|to a horrible end|H1091|N-fp
 v36 הָיִ֔ית|hā·yîṯ|you have come|H1961|V-Qal-Perf-2fs
 v36 וְאֵינֵ֖ךְ|wə·’ê·nêḵ|and will be no more|H369|Conj-w | Adv | 2fs
 v36 עַד־|‘aḏ-|...|H5704|Prep
-v36 עוֹלָֽם׃ס|‘ō·w·lām|...|H5769|N-ms
+v36 עוֹלָֽם׃|‘ō·w·lām|...|H5769|N-ms

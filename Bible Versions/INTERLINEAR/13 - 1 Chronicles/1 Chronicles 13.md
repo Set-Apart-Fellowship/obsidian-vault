@@ -68,7 +68,7 @@ v5 לְהָבִיא֙|lə·hā·ḇî|...|H935|Prep-l | V-Hifil-Inf
 v5 אֶת־|’eṯ-|-|H853|DirObjM
 v5 אֲר֣וֹן|’ă·rō·wn|the ark|H727|N-csc
 v5 הָאֱלֹהִ֔ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
-v5 מִקִּרְיַ֖ת|miq·qir·yaṯ|vvv|H7157|Prep
+v5 מִקִּרְיַ֖ת|miq·qir·yaṯ|...|H7157|Prep
 v5 יְעָרִֽים׃|yə·‘ā·rîm|from Kiriath-jearim|H7157|Prep | N-proper-fs
 v6 וַיַּ֨עַל|way·ya·‘al|went up|H5927|Conj-w | V-Qal-ConsecImperf-3ms
 v6 דָּוִ֤יד|dā·wîḏ|David|H1732|N-proper-ms
@@ -76,7 +76,7 @@ v6 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v6 יִשְׂרָאֵל֙|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v6 בַּעֲלָ֔תָה|ba·‘ă·lā·ṯāh|to Baalah|H1173|N-proper-fs | 3fs
 v6 אֶל־|’el-|...|H413|Prep
-v6 קִרְיַ֥ת|qir·yaṯ|vvv|H7157|
+v6 קִרְיַ֥ת|qir·yaṯ|...|H7157|
 v6 יְעָרִ֖ים|yə·‘ā·rîm|that is, Kiriath-jearim|H7157|N-proper-fs
 v6 אֲשֶׁ֣ר|’ă·šer|of|H834|Pro-r
 v6 לִיהוּדָ֑ה|lî·hū·ḏāh|Judah|H3063|Prep-l | N-proper-ms
@@ -157,7 +157,7 @@ v11 בְּעֻזָּ֑א|bə·‘uz·zā|against Uzzah|H5798|Prep-b | N-proper-m
 v11 וַיִּקְרָ֞א|way·yiq·rā|So he named|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v11 לַמָּק֤וֹם|lam·mā·qō·wm|place|H4725|Prep-l, Art | N-ms
 v11 הַהוּא֙|ha·hū|that|H1931|Art | Pro-3ms
-v11 פֶּ֣רֶץ|pe·reṣ|vvv|H6560|
+v11 פֶּ֣רֶץ|pe·reṣ|...|H6560|
 v11 עֻזָּ֔א|‘uz·zā|Perez-uzzah|H6560|N-proper-fs
 v11 עַ֖ד|‘aḏ|as it is [called] to|H5704|Prep
 v11 הַיּ֥וֹם|hay·yō·wm|day|H3117|Art | N-ms
@@ -187,7 +187,7 @@ v13 דָּוִ֑יד|dā·wîḏ|of David|H1732|N-proper-ms
 v13 וַיַּטֵּ֕הוּ|way·yaṭ·ṭê·hū|instead, he took|H5186|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
 v13 אֶל־|’el-|it aside|H413|Prep
 v13 בֵּ֥ית|bêṯ|the house|H1004|N-msc
-v13 עֹבֵֽד־|‘ō·ḇêḏ-|vvv|H5654|
+v13 עֹבֵֽד־|‘ō·ḇêḏ-|...|H5654|
 v13 אֱדֹ֖ם|’ĕ·ḏōm|of Obed-edom|H5654|N-proper-ms
 v13 הַגִּתִּֽי׃|hag·git·tî|the Gittite|H1663|Art | N-proper-ms
 v14 וַיֵּשֶׁב֩|way·yê·šeḇ|remained|H3427|Conj-w | V-Qal-ConsecImperf-3ms
@@ -195,7 +195,7 @@ v14 אֲר֨וֹן|’ă·rō·wn|Thus the ark|H727|N-csc
 v14 הָאֱלֹהִ֜ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v14 עִם־|‘im-|with|H5973|Prep
 v14 בֵּ֨ית|bêṯ|the family|H1004|N-msc
-v14 עֹבֵ֥ד|‘ō·ḇêḏ|vvv|H5654|
+v14 עֹבֵ֥ד|‘ō·ḇêḏ|...|H5654|
 v14 אֱדֹ֛ם|’ĕ·ḏōm|of Obed-edom|H5654|N-proper-ms
 v14 בְּבֵית֖וֹ|bə·ḇê·ṯōw|in his house|H1004|Prep-b | N-msc | 3ms
 v14 שְׁלֹשָׁ֣ה|šə·lō·šāh|for three|H7969|Number-ms
@@ -204,9 +204,9 @@ v14 וַיְבָ֧רֶךְ|way·ḇā·reḵ|blessed|H1288|Conj-w | V-Piel-Conse
 v14 יְהוָ֛ה|Yah·weh|and the LORD|H3068|N-proper-ms
 v14 אֶת־|’eṯ-|-|H853|DirObjM
 v14 בֵּ֥ית|bêṯ|household|H1004|N-msc
-v14 עֹבֵֽד־|‘ō·ḇêḏ-|vvv|H5654|
+v14 עֹבֵֽד־|‘ō·ḇêḏ-|...|H5654|
 v14 אֱדֹ֖ם|’ĕ·ḏōm|[his]|H5654|N-proper-ms
 v14 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v14 כָּל־|kāl-|and everything|H3605|N-msc
 v14 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v14 לֽוֹ׃פ|lōw|he owned|H0|Prep | 3ms
+v14 לֽוֹ׃|lōw|he owned|H0|Prep | 3ms

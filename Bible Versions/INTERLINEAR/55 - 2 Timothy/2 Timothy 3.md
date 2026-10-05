@@ -45,7 +45,7 @@ v5 ἠρνημένοι|ērnēmenoi|denying|G720|V-RPM/P-NMP
 v5 καὶ|kai|-|G2532|Conj
 v5 τούτους|toutous|[such] as these|G3778|DPro-AMP
 v5 ἀποτρέπου|apotrepou|Turn away from|G665|V-PMM-2S
-v6 Ἐκ|Ek|vvv|G1537|Prep
+v6 Ἐκ|Ek|...|G1537|Prep
 v6 τούτων|toutōn|the kind who|G3778|DPro-GMP
 v6 γάρ|gar|-|G1063|Conj
 v6 εἰσιν|eisin|They are|G1510|V-PIA-3P
@@ -94,7 +94,7 @@ v8 περὶ|peri|from|G4012|Prep
 v8 τὴν|tēn|the|G3588|Art-AFS
 v8 πίστιν|pistin|faith|G4102|N-AFS
 v9 ἀλλ’|all’|But|G235|Conj
-v9 οὐ|ou|vvv|G3756|Adv
+v9 οὐ|ou|...|G3756|Adv
 v9 προκόψουσιν|prokopsousin|they will not advance|G4298|V-FIA-3P
 v9 ἐπὶ|epi|further|G1909|Prep
 v9 πλεῖον|pleion|much|G4119|Adj-ANS-C
@@ -196,7 +196,7 @@ v15 γράμματα|grammata|Scriptures|G1121|N-ANP
 v15 οἶδας|oidas|you have known|G1492|V-RIA-2S
 v15 τὰ|ta|which|G3588|Art-ANP
 v15 δυνάμενά|dynamena|are able|G1410|V-PPM/P-ANP
-v15 σε|se|vvv|G4771|PPro-A2S
+v15 σε|se|...|G4771|PPro-A2S
 v15 σοφίσαι|sophisai|to make you wise|G4679|V-ANA
 v15 εἰς|eis|for|G1519|Prep
 v15 σωτηρίαν|sōtērian|salvation|G4991|N-AFS

@@ -54,7 +54,7 @@ v3 אֶל־|’el-|to|H413|Prep
 v3 פֶּ֜תַח|pe·ṯaḥ|the entrance|H6607|N-msc
 v3 שַׁ֤עַר|ša·‘ar|gate|H8179|N-ms
 v3 הַפְּנִימִית֙|hap·pə·nî·mîṯ|of the inner court|H6442|Art | Adj-fs
-v3 הַפּוֹנֶ֣ה|hap·pō·w·neh|vvv|H6437|Art | V-Qal-Prtcpl-ms
+v3 הַפּוֹנֶ֣ה|hap·pō·w·neh|...|H6437|Art | V-Qal-Prtcpl-ms
 v3 צָפ֔וֹנָה|ṣā·p̄ō·w·nāh|of the north|H6828|N-fs | 3fs
 v3 אֲשֶׁר־|’ă·šer-|where|H834|Pro-r
 v3 שָׁ֣ם|šām|...|H8033|Adv
@@ -114,7 +114,7 @@ v6 וְעוֹד֙|wə·‘ō·wḏ|Yet|H5750|Conj-w | Adv
 v6 תָּשׁ֣וּב|tā·šūḇ|...|H7725|V-Qal-Imperf-2ms
 v6 תִּרְאֶ֔ה|tir·’eh|you will see|H7200|V-Qal-Imperf-2ms
 v6 תּוֹעֵב֖וֹת|tō·w·‘ê·ḇō·wṯ|abominations|H8441|N-fp
-v6 גְּדֹלֽוֹת׃ס|gə·ḏō·lō·wṯ|even greater|H1419|Adj-fp
+v6 גְּדֹלֽוֹת׃|gə·ḏō·lō·wṯ|even greater|H1419|Adj-fp
 v7 וַיָּבֵ֥א|way·yā·ḇê|Then He brought|H935|Conj-w | V-Hifil-ConsecImperf-3ms
 v7 אֹתִ֖י|’ō·ṯî|me|H853|DirObjM | 1cs
 v7 אֶל־|’el-|to|H413|Prep
@@ -144,7 +144,7 @@ v9 וּרְאֵה֙|ū·rə·’êh|and see|H7200|Conj-w | V-Qal-Imp-ms
 v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 הַתּוֹעֵב֣וֹת|hat·tō·w·‘ê·ḇō·wṯ|abominations|H8441|Art | N-fp
 v9 הָרָע֔וֹת|hā·rā·‘ō·wṯ|the wicked|H7451|Art | Adj-fp
-v9 אֲשֶׁ֛ר|’ă·šer||H834|Pro-r
+v9 אֲשֶׁ֛ר|’ă·šer|-|H834|Pro-r
 v9 הֵ֥ם|hêm|they|H1992|Pro-3mp
 v9 עֹשִׂ֖ים|‘ō·śîm|are committing|H6213|V-Qal-Prtcpl-mp
 v9 פֹּֽה׃|pōh|here|H6311|Adv
@@ -166,7 +166,7 @@ v10 הַקִּ֖יר|haq·qîr|the wall|H7023|Art | N-ms
 v10 סָבִ֥יב׀|sā·ḇîḇ|all|H5439|Adv
 v10 סָבִֽיב׃|sā·ḇîḇ|around|H5439|Adv
 v11 וְשִׁבְעִ֣ים|wə·šiḇ·‘îm|seventy|H7657|Conj-w | Number-cp
-v11 אִ֣ישׁ|’îš|vvv|H376|N-ms
+v11 אִ֣ישׁ|’îš|...|H376|N-ms
 v11 מִזִּקְנֵ֣י|miz·ziq·nê|elders|H2205|Prep-m | Adj-mpc
 v11 בֵֽית־|ḇêṯ-|of the house|H1004|N-msc
 v11 יִ֠שְׂרָאֵל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -234,7 +234,7 @@ v14 הַנָּשִׁ֣ים|han·nā·šîm|women|H802|Art | N-fp
 v14 יֹֽשְׁב֔וֹת|yō·šə·ḇō·wṯ|sitting|H3427|V-Qal-Prtcpl-fp
 v14 מְבַכּ֖וֹת|mə·ḇak·kō·wṯ|weeping|H1058|V-Piel-Prtcpl-fp
 v14 אֶת־|’eṯ-|-|H853|DirObjM
-v14 הַתַּמּֽוּז׃ס|hat·tam·mūz|for Tammuz|H8542|Art | N-proper-ms
+v14 הַתַּמּֽוּז׃|hat·tam·mūz|for Tammuz|H8542|Art | N-proper-ms
 v15 וַיֹּ֥אמֶר|way·yō·mer|He said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 אֵלַ֖י|’ê·lay|to me|H413|Prep | 1cs
 v15 הֲרָאִ֣יתָ|hă·rā·’î·ṯā|do you see [this]|H7200|V-Qal-Perf-2ms

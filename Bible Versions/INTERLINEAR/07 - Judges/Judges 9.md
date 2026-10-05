@@ -66,7 +66,7 @@ v4 לוֹ֙|lōw|him|H0|Prep | 3ms
 v4 שִׁבְעִ֣ים|šiḇ·‘îm|seventy [shekels]|H7657|Number-cp
 v4 כֶּ֔סֶף|ke·sep̄|of silver|H3701|N-ms
 v4 מִבֵּ֖יתּ|mib·bēt|from the temple|H1004|Prep-m | N-msc
-v4 בַ֣עַל|ḇa·ʿal|vvv|H1170|Prep
+v4 בַ֣עַל|ḇa·ʿal|...|H1170|Prep
 v4 בְּרִ֑ית|bə·rîṯ|of Baal-berith|H1170|N-proper-ms
 v4 וַיִּשְׂכֹּ֨ר|way·yiś·kōr|hired|H7936|Conj-w | V-Qal-ConsecImperf-3ms
 v4 בָּהֶ֜ם|bā·hem|with which|H0|Prep | 3mp
@@ -96,7 +96,7 @@ v5 בֶּן־|ben-|son|H1121|N-msc
 v5 יְרֻבַּ֛עַל|yə·rub·ba·‘al|of Jerubbaal|H3378|N-proper-ms
 v5 הַקָּטֹ֖ן|haq·qā·ṭōn|the youngest|H6996|Art | Adj-ms
 v5 כִּ֥י|kî|because|H3588|Conj
-v5 נֶחְבָּֽא׃ס|neḥ·bā|he hid himself|H2244|V-Nifal-Perf-3ms
+v5 נֶחְבָּֽא׃|neḥ·bā|he hid himself|H2244|V-Nifal-Perf-3ms
 v6 וַיֵּאָ֨סְפ֜וּ|way·yê·’ā·sə·p̄ū|gathered|H622|Conj-w | V-Nifal-ConsecImperf-3mp
 v6 כָּל־|kāl-|Then all|H3605|N-msc
 v6 בַּעֲלֵ֤י|ba·‘ă·lê|the leaders|H1167|N-mpc
@@ -144,13 +144,13 @@ v8 לַזַּ֖יִת|laz·za·yiṯ|to the olive tree|H2132|Prep-l, Art | N-ms
 v8 מְלוֹכָה|mə·lō·ḵå̄h|Reign|H4427|V-Qal-Imp-ms | 3fs
 v8 עָלֵֽינוּ׃|‘ā·lê·nū|over us|H5921|Prep | 1cp
 v9 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v9 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v9 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v9 הַזַּ֔יִת|haz·za·yiṯ|But the olive tree|H2132|Art | N-ms
 v9 הֶחֳדַ֙לְתִּי֙|he·ḥo·ḏal·tî|Should I stop giving|H2308|V-Qal-Perf-1cs
 v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 דִּשְׁנִ֔י|diš·nî|my oil|H1880|N-msc | 1cs
 v9 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
-v9 בִּ֛י|bî||H0|Prep | 1cs
+v9 בִּ֛י|bî|-|H0|Prep | 1cs
 v9 יְכַבְּד֥וּ|yə·ḵab·bə·ḏū|honors|H3513|V-Piel-Imperf-3mp
 v9 אֱלֹהִ֖ים|’ĕ·lō·hîm|both God|H430|N-mp
 v9 וַאֲנָשִׁ֑ים|wa·’ă·nā·šîm|and man|H582|Conj-w | N-mp
@@ -166,7 +166,7 @@ v10 אַ֖תְּ|’at|...|H859|Pro-2fs
 v10 מָלְכִ֥י|mā·lə·ḵî|and reign|H4427|V-Qal-Imp-fs
 v10 עָלֵֽינוּ׃|‘ā·lê·nū|over us|H5921|Prep | 1cp
 v11 וַתֹּ֤אמֶר|wat·tō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v11 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v11 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v11 הַתְּאֵנָ֔ה|hat·tə·’ê·nāh|But the fig tree|H8384|Art | N-fs
 v11 הֶחֳדַ֙לְתִּי֙|he·ḥo·ḏal·tî|Should I stop giving|H2308|V-Qal-Perf-1cs
 v11 אֶת־|’eṯ-|-|H853|DirObjM
@@ -186,7 +186,7 @@ v12 אַ֖תְּ|’at|...|H859|Pro-2fs
 v12 מָלוֹכִי|må̄·lō·ḵī|and reign|H4427|V-Qal-Imp-fs
 v12 עָלֵֽינוּ׃|‘ā·lê·nū|over us|H5921|Prep | 1cp
 v13 וַתֹּ֤אמֶר|wat·tō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3fs
-v13 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v13 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v13 הַגֶּ֔פֶן|hag·ge·p̄en|But the grapevine|H1612|Art | N-cs
 v13 הֶחֳדַ֙לְתִּי֙|he·ḥo·ḏal·tî|Should I stop giving|H2308|V-Qal-Perf-1cs
 v13 אֶת־|’eṯ-|-|H853|DirObjM
@@ -320,7 +320,7 @@ v20 וְתֵצֵ֨א|wə·ṯê·ṣê|come|H3318|Conj-w | V-Qal-ConjImperf-3fs
 v20 אֵ֜שׁ|’êš|and may fire|H784|N-cs
 v20 מִבַּעֲלֵ֤י|mib·ba·‘ă·lê|from the leaders|H1167|Prep-m | N-mpc
 v20 שְׁכֶם֙|šə·ḵem|of Shechem|H7927|N-proper-fs
-v20 וּמִבֵּ֣ית|ū·mib·bêṯ|vvv|H1037|N-msc
+v20 וּמִבֵּ֣ית|ū·mib·bêṯ|...|H1037|N-msc
 v20 מִלּ֔וֹא|mil·lō·w|and Beth-millo|H1037|Conj-w, Prep | N-proper-fs
 v20 וְתֹאכַ֖ל|wə·ṯō·ḵal|and consume|H398|Conj-w | V-Qal-ConjImperf-3fs
 v20 אֶת־|’eṯ-|-|H853|DirObjM
@@ -334,7 +334,7 @@ v21 וַיֵּ֣שֶׁב|way·yê·šeḇ|and he lived|H3427|Conj-w | V-Qal-Cons
 v21 שָׁ֔ם|šām|there|H8033|Adv
 v21 מִפְּנֵ֖י|mip·pə·nê|for fear|H6440|Prep-m | N-cpc
 v21 אֲבִימֶ֥לֶךְ|’ă·ḇî·me·leḵ|Abimelech|H40|N-proper-ms
-v21 אָחִֽיו׃פ|’ā·ḥîw|of his brother|H251|N-msc | 3ms
+v21 אָחִֽיו׃|’ā·ḥîw|of his brother|H251|N-msc | 3ms
 v22 וַיָּ֧שַׂר|way·yā·śar|had reigned|H7786|Conj-w | V-Qal-ConsecImperf-3ms
 v22 אֲבִימֶ֛לֶךְ|’ă·ḇî·me·leḵ|After Abimelech|H40|N-proper-ms
 v22 עַל־|‘al-|over|H5921|Prep
@@ -393,7 +393,7 @@ v25 יַעֲבֹ֥ר|ya·‘ă·ḇōr|passed|H5674|V-Qal-Imperf-3ms
 v25 עֲלֵיהֶ֖ם|‘ă·lê·hem|by them|H5921|Prep | 3mp
 v25 בַּדָּ֑רֶךְ|bad·dā·reḵ|on the road|H1870|Prep-b, Art | N-cs
 v25 וַיֻּגַּ֖ד|way·yug·gaḏ|So this was reported|H5046|Conj-w | V-Hofal-ConsecImperf-3ms
-v25 לַאֲבִימֶֽלֶךְ׃פ|la·’ă·ḇî·me·leḵ|to Abimelech|H40|Prep-l | N-proper-ms
+v25 לַאֲבִימֶֽלֶךְ׃|la·’ă·ḇî·me·leḵ|to Abimelech|H40|Prep-l | N-proper-ms
 v26 וַיָּבֹ֞א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v26 גַּ֤עַל|ga·‘al|Meanwhile, Gaal|H1603|N-proper-ms
 v26 בֶּן־|ben-|son|H1121|N-msc
@@ -516,7 +516,7 @@ v33 וְעָשִׂ֣יתָ|wə·‘ā·śî·ṯā|do|H6213|Conj-w | V-Qal-ConjP
 v33 לּ֔וֹ|lōw|to them|H0|Prep | 3ms
 v33 כַּאֲשֶׁ֖ר|ka·’ă·šer|whatever|H834|Prep-k | Pro-r
 v33 תִּמְצָ֥א|tim·ṣā|you are able|H4672|V-Qal-Imperf-3fs
-v33 יָדֶֽךָ׃ס|yā·ḏe·ḵā|...|H3027|N-fsc | 2ms
+v33 יָדֶֽךָ׃|yā·ḏe·ḵā|...|H3027|N-fsc | 2ms
 v34 וַיָּ֧קָם|way·yā·qām|set out|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v34 אֲבִימֶ֛לֶךְ|’ă·ḇî·me·leḵ|So Abimelech|H40|N-proper-ms
 v34 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
@@ -564,7 +564,7 @@ v36 צֵ֧ל|ṣêl|The shadows|H6738|N-msc
 v36 הֶהָרִ֛ים|he·hā·rîm|of the mountains|H2022|Art | N-mp
 v36 אַתָּ֥ה|’at·tāh|to you|H859|Pro-2ms
 v36 רֹאֶ֖ה|rō·’eh|look|H7200|V-Qal-Prtcpl-ms
-v36 כָּאֲנָשִֽׁים׃ס|kā·’ă·nā·šîm|like men|H582|Prep-k, Art | N-mp
+v36 כָּאֲנָשִֽׁים׃|kā·’ă·nā·šîm|like men|H582|Prep-k, Art | N-mp
 v37 וַיֹּ֨סֶף|way·yō·sep̄|again|H3254|Conj-w | V-Hifil-ConsecImperf-3ms
 v37 ע֣וֹד|‘ō·wḏ|...|H5750|Adv
 v37 גַּעַל֮|ga·‘al|Then Gaal|H1603|N-proper-ms
@@ -599,12 +599,12 @@ v38 זֶ֤ה|zeh|...|H2088|Pro-ms
 v38 הָעָם֙|hā·‘ām|the people|H5971|Art | N-ms
 v38 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v38 מָאַ֣סְתָּה|mā·’as·tāh|you ridiculed|H3988|V-Qal-Perf-2ms
-v38 בּ֔וֹ|bōw||H0|Prep | 3ms
+v38 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v38 צֵא־|ṣê-|Go out|H3318|V-Qal-Imp-ms
 v38 נָ֥א|nā|...|H4994|Interjection
 v38 עַתָּ֖ה|‘at·tāh|now|H6258|Adv
 v38 וְהִלָּ֥חֶם|wə·hil·lā·ḥem|and fight|H3898|Conj-w | V-Nifal-Imp-ms
-v38 בּֽוֹ׃ס|bōw|them|H0|Prep | 3ms
+v38 בּֽוֹ׃|bōw|them|H0|Prep | 3ms
 v39 וַיֵּ֣צֵא|way·yê·ṣê|went out|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v39 גַ֔עַל|ḡa·‘al|So Gaal|H1603|N-proper-ms
 v39 לִפְנֵ֖י|lip̄·nê|before|H6440|Prep-l | N-cpc
@@ -692,7 +692,7 @@ v45 וַיִּתֹּץ֙|way·yit·tōṣ|Then he demolished|H5422|Conj-w | V-Qa
 v45 אֶת־|’eṯ-|-|H853|DirObjM
 v45 הָעִ֔יר|hā·‘îr|the city|H5892|Art | N-fs
 v45 וַיִּזְרָעֶ֖הָ|way·yiz·rā·‘e·hā|and sowed|H2232|Conj-w | V-Qal-ConsecImperf-3ms | 3fs
-v45 מֶֽלַח׃פ|me·laḥ|it with salt|H4417|N-ms
+v45 מֶֽלַח׃|me·laḥ|it with salt|H4417|N-ms
 v46 וַֽיִּשְׁמְע֔וּ|way·yiš·mə·‘ū|On hearing of this|H8085|Conj-w | V-Qal-ConsecImperf-3mp
 v46 כָּֽל־|kāl-|all|H3605|N-msc
 v46 בַּעֲלֵ֖י|ba·‘ă·lê|the leaders|H1167|N-mpc
@@ -702,7 +702,7 @@ v46 וַיָּבֹ֣אוּ|way·yā·ḇō·’ū|entered|H935|Conj-w | V-Qal-Co
 v46 אֶל־|’el-|...|H413|Prep
 v46 צְרִ֔יחַ|ṣə·rî·aḥ|the inner chamber|H6877|N-msc
 v46 בֵּ֖ית|bêṯ|of the temple|H1004|N-msc
-v46 אֵ֥ל|’êl|vvv|H410|N-proper-ms
+v46 אֵ֥ל|’êl|...|H410|N-proper-ms
 v46 בְּרִֽית׃|bə·rîṯ|of El-berith|H1286|N-proper
 v47 וַיֻּגַּ֖ד|way·yug·gaḏ|was told|H5046|Conj-w | V-Hofal-ConsecImperf-3ms
 v47 לַאֲבִימֶ֑לֶךְ|la·’ă·ḇî·me·leḵ|And when Abimelech|H40|Prep-l | N-proper-ms
@@ -730,7 +730,7 @@ v48 וַיִּכְרֹת֙|way·yiḵ·rōṯ|and cut|H3772|Conj-w | V-Qal-Conse
 v48 שׂוֹכַ֣ת|śō·w·ḵaṯ|a branch|H7754|N-fsc
 v48 עֵצִ֔ים|‘ê·ṣîm|from the trees|H6086|N-mp
 v48 וַיִּ֨שָּׂאֶ֔הָ|way·yiś·śā·’e·hā|which he lifted|H5375|Conj-w | V-Qal-ConsecImperf-3ms | 3fs
-v48 וַיָּ֖שֶׂם|way·yā·śem||H7760|Conj-w | V-Qal-ConsecImperf-3ms
+v48 וַיָּ֖שֶׂם|way·yā·śem|-|H7760|Conj-w | V-Qal-ConsecImperf-3ms
 v48 עַל־|‘al-|to|H5921|Prep
 v48 שִׁכְמ֑וֹ|šiḵ·mōw|his shoulder|H7926|N-msc | 3ms
 v48 וַיֹּ֜אמֶר|way·yō·mer|saying|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -769,7 +769,7 @@ v49 מִֽגְדַּל־|miḡ·dal-|in the tower|H4026|N-proper-fs
 v49 שְׁכֶ֛ם|šə·ḵem|of Shechem|H7927|N-proper-fs
 v49 כְּאֶ֖לֶף|kə·’e·lep̄|about a thousand|H505|Prep-k | Number-msc
 v49 אִ֥ישׁ|’îš|men|H376|N-ms
-v49 וְאִשָּֽׁה׃פ|wə·’iš·šāh|and women|H802|Conj-w | N-fs
+v49 וְאִשָּֽׁה׃|wə·’iš·šāh|and women|H802|Conj-w | N-fs
 v50 וַיֵּ֥לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v50 אֲבִימֶ֖לֶךְ|’ă·ḇî·me·leḵ|Then Abimelech|H40|N-proper-ms
 v50 אֶל־|’el-|to|H413|Prep
@@ -801,7 +801,7 @@ v52 אֲבִימֶ֙לֶךְ֙|’ă·ḇî·me·leḵ|When Abimelech|H40|N-pro
 v52 עַד־|‘aḏ-|to|H5704|Prep
 v52 הַמִּגְדָּ֔ל|ham·miḡ·dāl|the tower|H4026|Art | N-ms
 v52 וַיִּלָּ֖חֶם|way·yil·lā·ḥem|attack|H3898|Conj-w | V-Nifal-ConsecImperf-3ms
-v52 בּ֑וֹ|bōw||H0|Prep | 3ms
+v52 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v52 וַיִּגַּ֛שׁ|way·yig·gaš|he approached|H5066|Conj-w | V-Qal-ConsecImperf-3ms
 v52 עַד־|‘aḏ-|...|H5704|Prep
 v52 פֶּ֥תַח|pe·ṯaḥ|entrance|H6607|N-msc
@@ -826,7 +826,7 @@ v54 הַנַּ֣עַר׀|han·na·‘ar|...|H5288|Art | N-ms
 v54 נֹשֵׂ֣א|nō·śê|his armor-bearer|H5375|V-Qal-Prtcpl-msc
 v54 כֵלָ֗יו|ḵê·lāw|...|H3627|N-mpc | 3ms
 v54 וַיֹּ֤אמֶר|way·yō·mer|saying|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v54 לוֹ֙|lōw||H0|Prep | 3ms
+v54 לוֹ֙|lōw|-|H0|Prep | 3ms
 v54 שְׁלֹ֤ף|šə·lōp̄|Draw|H8025|V-Qal-Imp-ms
 v54 חַרְבְּךָ֙|ḥar·bə·ḵā|your sword|H2719|N-fsc | 2ms
 v54 וּמ֣וֹתְתֵ֔נִי|ū·mō·wṯ·ṯê·nî|and kill me|H4191|Conj-w | V-Piel-Imp-ms | 1cs
@@ -872,4 +872,4 @@ v57 אֲלֵיהֶ֔ם|’ă·lê·hem|upon them|H413|Prep | 3mp
 v57 קִֽלֲלַ֖ת|qi·lă·laṯ|So the curse|H7045|N-fsc
 v57 יוֹתָ֥ם|yō·w·ṯām|of Jotham|H3147|N-proper-ms
 v57 בֶּן־|ben-|son|H1121|N-msc
-v57 יְרֻבָּֽעַל׃פ|yə·rub·bā·‘al|of Jerubbaal|H3378|N-proper-ms
+v57 יְרֻבָּֽעַל׃|yə·rub·bā·‘al|of Jerubbaal|H3378|N-proper-ms

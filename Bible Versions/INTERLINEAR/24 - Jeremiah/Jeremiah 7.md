@@ -25,7 +25,7 @@ v2 הַבָּאִים֙|hab·bā·’îm|who enter|H935|Art | V-Qal-Prtcpl-mp
 v2 בַּשְּׁעָרִ֣ים|baš·šə·‘ā·rîm|gates|H8179|Prep-b, Art | N-mp
 v2 הָאֵ֔לֶּה|hā·’êl·leh|through these|H428|Art | Pro-cp
 v2 לְהִֽשְׁתַּחֲוֺ֖ת|lə·hiš·ta·ḥă·wōṯ|to worship|H7812|Prep-l | V-Hitpael-Inf
-v2 לַיהוָֽה׃ס|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
+v2 לַיהוָֽה׃|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
 v3 כֹּֽה־|kōh-|Thus|H3541|Adv
 v3 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v3 יְהוָ֤ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -41,7 +41,7 @@ v3 בַּמָּק֥וֹם|bam·mā·qō·wm|place|H4725|Prep-b, Art | N-ms
 v3 הַזֶּֽה׃|haz·zeh|in this|H2088|Art | Pro-ms
 v4 אַל־|’al-|Do not|H408|Adv
 v4 תִּבְטְח֣וּ|tiḇ·ṭə·ḥū|trust|H982|V-Qal-Imperf-2mp
-v4 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v4 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v4 אֶל־|’el-|in|H413|Prep
 v4 דִּבְרֵ֥י|diḇ·rê|words|H1697|N-mpc
 v4 הַשֶּׁ֖קֶר|haš·še·qer|deceptive|H8267|Art | N-ms
@@ -86,7 +86,7 @@ v6 אֲחֵרִ֛ים|’ă·ḥê·rîm|other|H312|Adj-mp
 v6 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v6 תֵלְכ֖וּ|ṯê·lə·ḵū|...|H1980|V-Qal-Imperf-2mp
 v6 לְרַ֥ע|lə·ra‘|to your own harm|H7451|Prep-l | Adj-ms
-v6 לָכֶֽם׃|lā·ḵem||H0|Prep | 2mp
+v6 לָכֶֽם׃|lā·ḵem|-|H0|Prep | 2mp
 v7 וְשִׁכַּנְתִּ֤י|wə·šik·kan·tî|then I will let you live|H7931|Conj-w | V-Piel-ConjPerf-1cs
 v7 אֶתְכֶם֙|’eṯ·ḵem|-|H853|DirObjM | 2mp
 v7 בַּמָּק֣וֹם|bam·mā·qō·wm|place|H4725|Prep-b, Art | N-ms
@@ -102,7 +102,7 @@ v7 עוֹלָֽם׃|‘ō·w·lām|ever|H5769|N-ms
 v8 הִנֵּ֤ה|hin·nêh|But look|H2009|Interjection
 v8 אַתֶּם֙|’at·tem|you|H859|Pro-2mp
 v8 בֹּטְחִ֣ים|bō·ṭə·ḥîm|keep trusting|H982|V-Qal-Prtcpl-mp
-v8 לָכֶ֔ם|lā·ḵem||H0|Prep | 2mp
+v8 לָכֶ֔ם|lā·ḵem|-|H0|Prep | 2mp
 v8 עַל־|‘al-|in|H5921|Prep
 v8 דִּבְרֵ֖י|diḇ·rê|words|H1697|N-mpc
 v8 הַשָּׁ֑קֶר|haš·šā·qer|deceptive|H8267|Art | N-ms
@@ -154,7 +154,7 @@ v11 אָנֹכִ֛י|’ā·nō·ḵî|I|H595|Pro-1cs
 v11 הִנֵּ֥ה|hin·nêh|Yes|H2009|Interjection
 v11 רָאִ֖יתִי|rā·’î·ṯî|have seen it|H7200|V-Qal-Perf-1cs
 v11 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v11 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v11 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v12 כִּ֣י|kî|But|H3588|Conj
 v12 לְכוּ־|lə·ḵū-|go|H1980|V-Qal-Imp-mp
 v12 נָ֗א|nā|now|H4994|Interjection
@@ -204,13 +204,13 @@ v14 עָלָ֗יו|‘ā·lāw|...|H5921|Prep | 3ms
 v14 אֲשֶׁ֤ר|’ă·šer|[the house] in which|H834|Pro-r
 v14 אַתֶּם֙|’at·tem|you|H859|Pro-2mp
 v14 בֹּטְחִ֣ים|bō·ṭə·ḥîm|trust|H982|V-Qal-Prtcpl-mp
-v14 בּ֔וֹ|bōw||H0|Prep | 3ms
+v14 בּ֔וֹ|bōw|-|H0|Prep | 3ms
 v14 וְלַ֨מָּק֔וֹם|wə·lam·mā·qō·wm|the place|H4725|Conj-w, Prep-l, Art | N-ms
 v14 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v14 נָתַ֥תִּי|nā·ṯat·tî|I gave|H5414|V-Qal-Perf-1cs
 v14 לָכֶ֖ם|lā·ḵem|to you|H0|Prep | 2mp
 v14 וְלַאֲבֽוֹתֵיכֶ֑ם|wə·la·’ă·ḇō·w·ṯê·ḵem|and your fathers|H1|Conj-w, Prep-l | N-mpc | 2mp
-v14 כַּאֲשֶׁ֥ר|ka·’ă·šer||H834|Prep-k | Pro-r
+v14 כַּאֲשֶׁ֥ר|ka·’ă·šer|-|H834|Prep-k | Pro-r
 v14 עָשִׂ֖יתִי|‘ā·śî·ṯî|therefore what I did|H6213|V-Qal-Perf-1cs
 v14 לְשִׁלֽוֹ׃|lə·ši·lōw|to Shiloh|H7887|Prep-l | N-proper-fs
 v15 וְהִשְׁלַכְתִּ֥י|wə·hiš·laḵ·tî|And I will cast|H7993|Conj-w | V-Hifil-ConjPerf-1cs
@@ -225,7 +225,7 @@ v15 אֲחֵיכֶ֔ם|’ă·ḥê·ḵem|your brothers|H251|N-mpc | 2mp
 v15 אֵ֖ת|’êṯ|-|H853|DirObjM
 v15 כָּל־|kāl-|all|H3605|N-msc
 v15 זֶ֥רַע|ze·ra‘|the descendants|H2233|N-msc
-v15 אֶפְרָֽיִם׃ס|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
+v15 אֶפְרָֽיִם׃|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
 v16 וְאַתָּ֞ה|wə·’at·tāh|As for you|H859|Conj-w | Pro-2ms
 v16 אַל־|’al-|do not|H408|Adv
 v16 תִּתְפַּלֵּ֣ל׀|tiṯ·pal·lêl|pray|H6419|V-Hitpael-Imperf-2ms
@@ -282,7 +282,7 @@ v19 הֲל֣וֹא|hă·lō·w|Is it not|H3808|Adv-NegPrt
 v19 אֹתָ֔ם|’ō·ṯām|themselves|H853|DirObjM | 3mp
 v19 לְמַ֖עַן|lə·ma·‘an|they spite|H4616|Prep
 v19 בֹּ֥שֶׁת|bō·šeṯ|to their own shame|H1322|N-fsc
-v19 פְּנֵיהֶֽם׃ס|pə·nê·hem|...|H6440|N-mpc | 3mp
+v19 פְּנֵיהֶֽם׃|pə·nê·hem|...|H6440|N-mpc | 3mp
 v20 לָכֵ֞ן|lā·ḵên|Therefore|H3651|Adv
 v20 כֹּה־|kōh-|this is what|H3541|Adv
 v20 אָמַ֣ר׀|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -307,7 +307,7 @@ v20 פְּרִ֣י|pə·rî|the produce|H6529|N-msc
 v20 הָֽאֲדָמָ֑ה|hā·’ă·ḏā·māh|of the land|H127|Art | N-fs
 v20 וּבָעֲרָ֖ה|ū·ḇā·‘ă·rāh|and it will burn|H1197|Conj-w | V-Qal-ConjPerf-3fs
 v20 וְלֹ֥א|wə·lō|and not|H3808|Conj-w | Adv-NegPrt
-v20 תִכְבֶּֽה׃ס|ṯiḵ·beh|be extinguished|H3518|V-Qal-Imperf-3fs
+v20 תִכְבֶּֽה׃|ṯiḵ·beh|be extinguished|H3518|V-Qal-Imperf-3fs
 v21 כֹּ֥ה|kōh|This is what|H3541|Adv
 v21 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v21 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -322,8 +322,8 @@ v21 וְאִכְל֥וּ|wə·’iḵ·lū|and eat|H398|Conj-w | V-Qal-Imp-mp
 v21 בָשָֽׂר׃|ḇā·śār|the meat yourselves|H1320|N-ms
 v22 כִּ֠י|kî|For|H3588|Conj
 v22 לֹֽא־|lō-|I did not merely|H3808|Adv-NegPrt
-v22 דִבַּ֤רְתִּי|ḏib·bar·tî|vvv|H1696|V-Piel-Perf-1cs
-v22 אֶת־|’eṯ-|vvv|H854|Prep
+v22 דִבַּ֤רְתִּי|ḏib·bar·tî|...|H1696|V-Piel-Perf-1cs
+v22 אֶת־|’eṯ-|...|H854|Prep
 v22 אֲבֽוֹתֵיכֶם֙|’ă·ḇō·w·ṯê·ḵem|your fathers|H1|N-mpc | 2mp
 v22 וְלֹ֣א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v22 צִוִּיתִ֔ים|ṣiw·wî·ṯîm|command them|H6680|V-Piel-Perf-1cs | 3mp
@@ -404,7 +404,7 @@ v26 הִטּ֖וּ|hiṭ·ṭū|incline|H5186|V-Hifil-Perf-3cp
 v26 אֶת־|’eṯ-|-|H853|DirObjM
 v26 אָזְנָ֑ם|’ā·zə·nām|their ear|H241|N-fsc | 3mp
 v26 וַיַּקְשׁוּ֙|way·yaq·šū|but they stiffened|H7185|Conj-w | V-Hifil-ConsecImperf-3mp
-v26 אֶת־|’eṯ-||H853|DirObjM
+v26 אֶת־|’eṯ-|-|H853|DirObjM
 v26 עָרְפָּ֔ם|‘ā·rə·pām|their necks|H6203|N-msc | 3mp
 v26 הֵרֵ֖עוּ|hê·rê·‘ū|[and] did more evil|H7489|V-Hifil-Perf-3cp
 v26 מֵאֲבוֹתָֽם׃|mê·’ă·ḇō·w·ṯām|than their fathers|H1|Prep-m | N-mpc | 3mp
@@ -437,7 +437,7 @@ v28 מוּסָ֑ר|mū·sār|correction|H4148|N-ms
 v28 אָֽבְדָה֙|’ā·ḇə·ḏāh|has perished|H6|V-Qal-Perf-3fs
 v28 הָֽאֱמוּנָ֔ה|hā·’ĕ·mū·nāh|Truth|H530|Art | N-fs
 v28 וְנִכְרְתָ֖ה|wə·niḵ·rə·ṯāh|it has disappeared|H3772|Conj-w | V-Nifal-ConjPerf-3fs
-v28 מִפִּיהֶֽם׃ס|mip·pî·hem|from their lips|H6310|Prep-m | N-msc | 3mp
+v28 מִפִּיהֶֽם׃|mip·pî·hem|from their lips|H6310|Prep-m | N-msc | 3mp
 v29 גָּזִּ֤י|gāz·zî|Cut off|H1494|V-Qal-Imp-fs
 v29 נִזְרֵךְ֙|niz·rêḵ|your hair|H5145|N-msc | 2fs
 v29 וְֽהַשְׁלִ֔יכִי|wə·haš·lî·ḵî|and throw it away|H7993|Conj-w | V-Hifil-Imp-fs
@@ -487,7 +487,7 @@ v31 צִוִּ֔יתִי|ṣiw·wî·ṯî|commanded|H6680|V-Piel-Perf-1cs
 v31 וְלֹ֥א|wə·lō|nor|H3808|Conj-w | Adv-NegPrt
 v31 עָלְתָ֖ה|‘ā·lə·ṯāh|did it [even] enter|H5927|V-Qal-Perf-3fs
 v31 עַל־|‘al-|...|H5921|Prep
-v31 לִבִּֽי׃ס|lib·bî|My mind|H3820|N-msc | 1cs
+v31 לִבִּֽי׃|lib·bî|My mind|H3820|N-msc | 1cs
 v32 לָכֵ֞ן|lā·ḵên|So|H3651|Adv
 v32 הִנֵּֽה־|hin·nêh-|behold|H2009|Interjection
 v32 יָמִ֤ים|yā·mîm|the days|H3117|N-mp

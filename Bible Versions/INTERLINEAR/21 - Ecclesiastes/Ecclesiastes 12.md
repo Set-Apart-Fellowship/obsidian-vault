@@ -14,7 +14,7 @@ v1 שָׁנִ֔ים|šā·nîm|and the years|H8141|N-fp
 v1 אֲשֶׁ֣ר|’ă·šer|of which|H834|Pro-r
 v1 תֹּאמַ֔ר|tō·mar|you will say|H559|V-Qal-Imperf-2ms
 v1 אֵֽין־|’ên-|I find no|H369|Adv
-v1 לִ֥י|lî||H0|Prep | 1cs
+v1 לִ֥י|lî|-|H0|Prep | 1cs
 v1 בָהֶ֖ם|ḇā·hem|in them|H0|Prep | 3mp
 v1 חֵֽפֶץ׃|ḥê·p̄eṣ|pleasure|H2656|N-ms
 v2 עַ֠ד|‘aḏ|before|H5704|Prep

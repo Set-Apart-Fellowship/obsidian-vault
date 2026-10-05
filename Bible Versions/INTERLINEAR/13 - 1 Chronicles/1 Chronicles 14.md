@@ -28,7 +28,7 @@ v2 לְמַ֙עְלָה֙|lə·ma‘·lāh|had highly|H4605|Prep-l | Adv | 3fs
 v2 מַלְכוּת֔וֹ|mal·ḵū·ṯōw|his kingdom|H4438|N-fsc | 3ms
 v2 בַּעֲב֖וּר|ba·‘ă·ḇūr|for the sake|H5668|Prep-b | N-ms
 v2 עַמּ֥וֹ|‘am·mōw|of His people|H5971|N-msc | 3ms
-v2 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v2 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v3 וַיִּקַּ֨ח|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v3 דָּוִ֥יד|dā·wîḏ|And David|H1732|N-proper-ms
 v3 ע֛וֹד|‘ō·wḏ|more|H5750|Adv
@@ -86,20 +86,20 @@ v9 רְפָאִֽים׃|rə·p̄ā·’îm|of Rephaim|H7497|N-proper-mp
 v10 וַיִּשְׁאַ֨ל|way·yiš·’al|inquired|H7592|Conj-w | V-Qal-ConsecImperf-3ms
 v10 דָּוִ֤יד|dā·wîḏ|So David|H1732|N-proper-ms
 v10 בֵּאלֹהִים֙|bê·lō·hîm|of God|H430|Prep-b | N-mp
-v10 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v10 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v10 הַאֶֽעֱלֶה֙|ha·’e·‘ĕ·leh|Should I go up|H5927|V-Qal-Imperf-1cs
 v10 עַל־|‘al-|against|H5921|Prep
 v10 פְּלִשְׁתִּיִּים|pə·liš·tī·yīm|the Philistines|H6430|N-proper-mp
 v10 וּנְתַתָּ֖ם|ū·nə·ṯat·tām|Will You deliver them|H5414|Conj-w | V-Qal-ConjPerf-2ms | 3mp
 v10 בְּיָדִ֑י|bə·yā·ḏî|into my hand|H3027|Prep-b | N-fsc | 1cs
 v10 וַיֹּ֨אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v10 ל֤וֹ|lōw||H0|Prep | 3ms
+v10 ל֤וֹ|lōw|-|H0|Prep | 3ms
 v10 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v10 עֲלֵ֔ה|‘ă·lêh|Go|H5927|V-Qal-Imp-ms
 v10 וּנְתַתִּ֖ים|ū·nə·ṯat·tîm|for I will deliver them|H5414|Conj-w | V-Qal-ConjPerf-1cs | 3mp
 v10 בְּיָדֶֽךָ׃|bə·yā·ḏe·ḵā|into your hand|H3027|Prep-b | N-fsc | 2ms
 v11 וַיַּעֲל֥וּ|way·ya·‘ă·lū|So [David and his men] went up|H5927|Conj-w | V-Qal-ConsecImperf-3mp
-v11 בְּבַֽעַל־|bə·ḇa·‘al-|vvv|H1188|Prep
+v11 בְּבַֽעַל־|bə·ḇa·‘al-|...|H1188|Prep
 v11 פְּרָצִים֮|pə·rā·ṣîm|to Baal-perazim|H1188|Prep | N-proper-fs
 v11 וַיַּכֵּ֣ם|way·yak·kêm|defeated|H5221|Conj-w | V-Hifil-ConsecImperf-3ms | 3mp
 v11 שָׁ֣ם|šām|the Philistines|H8033|Adv
@@ -119,7 +119,7 @@ v11 קָֽרְא֛וּ|qā·rə·’ū|they called|H7121|V-Qal-Perf-3cp
 v11 שֵֽׁם־|šêm-|...|H8034|N-msc
 v11 הַמָּק֥וֹם|ham·mā·qō·wm|place|H4725|Art | N-ms
 v11 הַה֖וּא|ha·hū|that|H1931|Art | Pro-3ms
-v11 בַּ֥עַל|ba·‘al|vvv|H1188|Prep
+v11 בַּ֥עַל|ba·‘al|...|H1188|Prep
 v11 פְּרָצִֽים׃|pə·rā·ṣîm|Baal-perazim|H1188|N-proper-fs
 v12 וַיַּעַזְבוּ־|way·ya·‘az·ḇū-|the Philistines abandoned|H5800|Conj-w | V-Qal-ConsecImperf-3mp
 v12 שָׁ֖ם|šām|There|H8033|Adv
@@ -128,7 +128,7 @@ v12 אֱלֹֽהֵיהֶ֑ם|’ĕ·lō·hê·hem|their gods|H430|N-mpc | 3mp
 v12 וַיֹּ֣אמֶר|way·yō·mer|ordered|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v12 דָּוִ֔יד|dā·wîḏ|and David|H1732|N-proper-ms
 v12 וַיִּשָּׂרְפ֖וּ|way·yiś·śā·rə·p̄ū|that they be burned|H8313|Conj-w | V-Nifal-ConsecImperf-3mp
-v12 בָּאֵֽשׁ׃פ|bā·’êš|in the fire|H784|Prep-b, Art | N-cs
+v12 בָּאֵֽשׁ׃|bā·’êš|in the fire|H784|Prep-b, Art | N-cs
 v13 וַיֹּסִ֤יפוּ|way·yō·sî·p̄ū|Once again|H3254|Conj-w | V-Hifil-ConsecImperf-3mp
 v13 עוֹד֙|‘ō·wḏ|...|H5750|Adv
 v13 פְּלִשְׁתִּ֔ים|pə·liš·tîm|the Philistines|H6430|N-proper-mp
@@ -157,7 +157,7 @@ v15 ק֤וֹל|qō·wl|the sound|H6963|N-msc
 v15 הַצְּעָדָה֙|haṣ·ṣə·‘ā·ḏāh|of marching|H6807|Art | N-fs
 v15 בְּרָאשֵׁ֣י|bə·rā·šê|in the tops|H7218|Prep-b | N-mpc
 v15 הַבְּכָאִ֔ים|hab·bə·ḵā·’îm|of the balsam trees|H1057|Art | N-mp
-v15 אָ֖ז|’āz|vvv|H227|Adv
+v15 אָ֖ז|’āz|...|H227|Adv
 v15 תֵּצֵ֣א|tê·ṣê|move out|H3318|V-Qal-Imperf-2ms
 v15 בַמִּלְחָמָ֑ה|ḇam·mil·ḥā·māh|to battle|H4421|Prep-b, Art | N-fs
 v15 כִּֽי־|kî-|because this will mean that|H3588|Conj

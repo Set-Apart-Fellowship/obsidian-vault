@@ -64,9 +64,9 @@ v4 οὐδεὶς|oudeis|[there was] no one|G3762|Adj-NMS
 v4 ἴσχυεν|ischyen|with the strength|G2480|V-IIA-3S
 v4 αὐτὸν|auton|him|G846|PPro-AM3S
 v4 δαμάσαι|damasai|to subdue|G1150|V-ANA
-v5 καὶ|kai|vvv|G2532|Conj
+v5 καὶ|kai|...|G2532|Conj
 v5 διὰ|dia|kept|G1223|Prep
-v5 παντὸς|pantos|vvv|G3956|Adj-GMS
+v5 παντὸς|pantos|...|G3956|Adj-GMS
 v5 νυκτὸς|nyktos|Night|G3571|N-GFS
 v5 καὶ|kai|and|G2532|Conj
 v5 ἡμέρας|hēmeras|day|G2250|N-GFS
@@ -96,7 +96,7 @@ v6 αὐτόν|auton|before Him|G846|PPro-AM3S
 v7 καὶ|kai|And|G2532|Conj
 v7 κράξας|kraxas|he shouted|G2896|V-APA-NMS
 v7 φωνῇ|phōnē|in a loud voice|G5456|N-DFS
-v7 μεγάλῃ|megalē|vvv|G3173|Adj-DFS
+v7 μεγάλῃ|megalē|...|G3173|Adj-DFS
 v7 λέγει|legei|-|G3004|V-PIA-3S
 v7 Τί|Ti|What|G5101|IPro-NNS
 v7 ἐμοὶ|emoi|with me|G1473|PPro-D1S
@@ -133,7 +133,7 @@ v9 Τί|Ti|What [is]|G5101|IPro-NNS
 v9 ὄνομά|onoma|name|G3686|N-NNS
 v9 σοι|soi|your|G4771|PPro-D2S
 v9 Καὶ|Kai|-|G2532|Conj
-v9 λέγει|legei|vvv|G3004|V-PIA-3S
+v9 λέγει|legei|...|G3004|V-PIA-3S
 v9 αὐτῷ|autō|he replied|G846|PPro-DM3S
 v9 Λεγιὼν|Legiōn|Legion|G3003|N-NFS
 v9 ὄνομά|onoma|name [is]|G3686|N-NNS
@@ -145,8 +145,8 @@ v10 καὶ|kai|And|G2532|Conj
 v10 παρεκάλει|parekalei|he begged|G3870|V-IIA-3S
 v10 αὐτὸν|auton|[Jesus]|G846|PPro-AM3S
 v10 πολλὰ|polla|repeatedly|G4183|Adj-ANP
-v10 ἵνα|hina|vvv|G2443|Conj
-v10 μὴ|mē|vvv|G3361|Adv
+v10 ἵνα|hina|...|G2443|Conj
+v10 μὴ|mē|...|G3361|Adv
 v10 αὐτὰ|auta|them|G846|PPro-AN3P
 v10 ἀποστείλῃ|aposteilē|not to send|G649|V-ASA-3S
 v10 ἔξω|exō|out of|G1854|Prep
@@ -223,8 +223,8 @@ v14 καὶ|kai|and|G2532|Conj
 v14 ἦλθον|ēlthon|[the people] went out|G2064|V-AIA-3P
 v14 ἰδεῖν|idein|to see|G3708|V-ANA
 v14 τί|ti|what|G5101|IPro-NNS
-v14 ἐστιν|estin|vvv|G1510|V-PIA-3S
-v14 τὸ|to|vvv|G3588|Art-NNS
+v14 ἐστιν|estin|...|G1510|V-PIA-3S
+v14 τὸ|to|...|G3588|Art-NNS
 v14 γεγονός|gegonos|had happened|G1096|V-RPA-NNS
 v15 καὶ|kai|When|G2532|Conj
 v15 ἔρχονται|erchontai|they came|G2064|V-PIM/P-3P
@@ -282,15 +282,15 @@ v18 μετ’|met’|with|G3326|Prep
 v18 αὐτοῦ|autou|Him|G846|PPro-GM3S
 v18 ᾖ|ē|go|G1510|V-PSA-3S
 v19 καὶ|kai|But|G2532|Conj
-v19 οὐκ|ouk|vvv|G3756|Adv
+v19 οὐκ|ouk|...|G3756|Adv
 v19 ἀφῆκεν|aphēken|[Jesus] would not allow|G863|V-AIA-3S
 v19 αὐτόν|auton|him|G846|PPro-AM3S
 v19 ἀλλὰ|alla|-|G235|Conj
 v19 λέγει|legei|He said|G3004|V-PIA-3S
 v19 αὐτῷ|autō|-|G846|PPro-DM3S
 v19 Ὕπαγε|Hypage|Go|G5217|V-PMA-2S
-v19 εἰς|eis|vvv|G1519|Prep
-v19 τὸν|ton|vvv|G3588|Art-AMS
+v19 εἰς|eis|...|G1519|Prep
+v19 τὸν|ton|...|G3588|Art-AMS
 v19 οἶκόν|oikon|home|G3624|N-AMS
 v19 σου|sou|...|G4771|PPro-G2S
 v19 πρὸς|pros|to|G4314|Prep
@@ -395,8 +395,8 @@ v24 αὐτόν|auton|Him|G846|PPro-AM3S
 v25 Καὶ|Kai|And|G2532|Conj
 v25 γυνὴ|gynē|a woman [was there]|G1135|N-NFS
 v25 οὖσα|ousa|who had suffered|G1510|V-PPA-NFS
-v25 ἐν|en|vvv|G1722|Prep
-v25 ῥύσει|rhysei|vvv|G4511|N-DFS
+v25 ἐν|en|...|G1722|Prep
+v25 ῥύσει|rhysei|...|G4511|N-DFS
 v25 αἵματος|haimatos|from bleeding|G129|N-GNS
 v25 δώδεκα|dōdeka|for twelve|G1427|Adj-ANP
 v25 ἔτη|etē|years|G2094|N-ANP
@@ -409,16 +409,16 @@ v26 ἰατρῶν|iatrōn|physicians|G2395|N-GMP
 v26 καὶ|kai|and|G2532|Conj
 v26 δαπανήσασα|dapanēsasa|had spent|G1159|V-APA-NFS
 v26 τὰ|ta|-|G3588|Art-ANP
-v26 παρ’|par’|vvv|G3844|Prep
+v26 παρ’|par’|...|G3844|Prep
 v26 αὐτῆς|autēs|she had|G846|PPro-GF3S
 v26 πάντα|panta|all|G3956|Adj-ANP
 v26 καὶ|kai|but|G2532|Conj
 v26 μηδὲν|mēden|to no|G3367|Adj-ANS
 v26 ὠφεληθεῖσα|ōphelētheisa|avail|G5623|V-APP-NFS
-v26 ἀλλὰ|alla|vvv|G235|Conj
+v26 ἀλλὰ|alla|...|G235|Conj
 v26 μᾶλλον|mallon|Instead|G3123|Adv
-v26 εἰς|eis|vvv|G1519|Prep
-v26 τὸ|to|vvv|G3588|Art-ANS
+v26 εἰς|eis|...|G1519|Prep
+v26 τὸ|to|...|G3588|Art-ANS
 v26 χεῖρον|cheiron|worse|G5501|Adj-ANS-C
 v26 ἐλθοῦσα|elthousa|[her condition] had only grown|G2064|V-APA-NFS
 v27 ἀκούσασα|akousasa|When [the woman] heard|G191|V-APA-NFS
@@ -445,12 +445,12 @@ v28 τῶν|tōn|-|G3588|Art-GNP
 v28 ἱματίων|himatiōn|garments|G2440|N-GNP
 v28 αὐτοῦ|autou|His|G846|PPro-GM3S
 v28 σωθήσομαι|sōthēsomai|I will be healed|G4982|V-FIP-1S
-v29 καὶ|kai|vvv|G2532|Conj
+v29 καὶ|kai|...|G2532|Conj
 v29 εὐθὺς|euthys|Immediately|G2112|Adv
 v29 ἐξηράνθη|exēranthē|stopped|G3583|V-AIP-3S
 v29 ἡ|hē|-|G3588|Art-NFS
-v29 πηγὴ|pēgē|vvv|G4077|N-NFS
-v29 τοῦ|tou|vvv|G3588|Art-GNS
+v29 πηγὴ|pēgē|...|G4077|N-NFS
+v29 τοῦ|tou|...|G3588|Art-GNS
 v29 αἵματος|haimatos|bleeding|G129|N-GNS
 v29 αὐτῆς|autēs|her|G846|PPro-GF3S
 v29 καὶ|kai|and|G2532|Conj
@@ -546,8 +546,8 @@ v34 ἀπὸ|apo|of|G575|Prep
 v34 τῆς|tēs|-|G3588|Art-GFS
 v34 μάστιγός|mastigos|affliction|G3148|N-GFS
 v34 σου|sou|your|G4771|PPro-G2S
-v35 Ἔτι|Eti|vvv|G2089|Adv
-v35 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v35 Ἔτι|Eti|...|G2089|Adv
+v35 αὐτοῦ|autou|...|G846|PPro-GM3S
 v35 λαλοῦντος|lalountos|While He was still speaking|G2980|V-PPA-GMS
 v35 ἔρχονται|erchontai|arrived|G2064|V-PIM/P-3P
 v35 ἀπὸ|apo|[ messengers ] from|G575|Prep
@@ -568,8 +568,8 @@ v36 Ὁ|Ho|-|G3588|Art-NMS
 v36 δὲ|de|But|G1161|Conj
 v36 Ἰησοῦς|Iēsous|Jesus|G2424|N-NMS
 v36 παρακούσας|parakousas|overheard|G3878|V-APA-NMS
-v36 τὸν|ton|vvv|G3588|Art-AMS
-v36 λόγον|logon|vvv|G3056|N-AMS
+v36 τὸν|ton|...|G3588|Art-AMS
+v36 λόγον|logon|...|G3056|N-AMS
 v36 λαλούμενον|laloumenon|their conversation|G2980|V-PPM/P-AMS
 v36 λέγει|legei|and said|G3004|V-PIA-3S
 v36 τῷ|tō|to|G3588|Art-DMS
@@ -579,7 +579,7 @@ v36 φοβοῦ|phobou|be afraid|G5399|V-PMM/P-2S
 v36 μόνον|monon|just|G3440|Adv
 v36 πίστευε|pisteue|believe|G4100|V-PMA-2S
 v37 καὶ|kai|And|G2532|Conj
-v37 οὐκ|ouk|vvv|G3756|Adv
+v37 οὐκ|ouk|...|G3756|Adv
 v37 ἀφῆκεν|aphēken|He did not allow|G863|V-AIA-3S
 v37 οὐδένα|oudena|anyone|G3762|Adj-AMS
 v37 μετ’|met’|...|G3326|Prep
@@ -621,7 +621,7 @@ v39 καὶ|kai|and|G2532|Conj
 v39 κλαίετε|klaiete|weeping|G2799|V-PIA-2P
 v39 τὸ|to|The|G3588|Art-NNS
 v39 παιδίον|paidion|child|G3813|N-NNS
-v39 οὐκ|ouk|vvv|G3756|Adv
+v39 οὐκ|ouk|...|G3756|Adv
 v39 ἀπέθανεν|apethanen|is not dead|G599|V-AIA-3S
 v39 ἀλλὰ|alla|but|G235|Conj
 v39 καθεύδει|katheudei|asleep|G2518|V-PIA-3S
@@ -661,7 +661,7 @@ v41 αὐτῇ|autē|-|G846|PPro-DF3S
 v41 Ταλιθὰ|Talitha|Talitha|G5008|N-VFS
 v41 κούμ|koum|koum|G2891|V-AMA-2S
 v41 ὅ|ho|which|G3739|RelPro-NNS
-v41 ἐστιν|estin|vvv|G1510|V-PIA-3S
+v41 ἐστιν|estin|...|G1510|V-PIA-3S
 v41 μεθερμηνευόμενον|methermēneuomenon|means|G3177|V-PPM/P-NNS
 v41 Τὸ|To|-|G3588|Art-VNS
 v41 Κοράσιον|Korasion|Little girl|G2877|N-VNS

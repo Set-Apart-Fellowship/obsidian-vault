@@ -46,7 +46,7 @@ v4 שָׁ֣ב|šāḇ|turned away|H7725|V-Qal-Perf-3ms
 v4 אַפּ֔וֹ|’ap·pōw|His anger|H639|N-msc | 3ms
 v4 וְע֖וֹד|wə·‘ō·wḏ|is still|H5750|Conj-w | Adv
 v4 יָד֥וֹ|yā·ḏōw|His hand|H3027|N-fsc | 3ms
-v4 נְטוּיָֽה׃ס|nə·ṭū·yāh|upraised|H5186|V-Qal-QalPassPrtcpl-fs
+v4 נְטוּיָֽה׃|nə·ṭū·yāh|upraised|H5186|V-Qal-QalPassPrtcpl-fs
 v5 ה֥וֹי|hō·w|Woe|H1945|Interjection
 v5 אַשּׁ֖וּר|’aš·šūr|to Assyria|H804|N-proper-fs
 v5 שֵׁ֣בֶט|šê·ḇeṭ|the rod|H7626|N-msc
@@ -72,7 +72,7 @@ v6 כְּחֹ֥מֶר|kə·ḥō·mer|like clay|H2563|Prep-k | N-msc
 v6 חוּצֽוֹת׃|ḥū·ṣō·wṯ|in the streets|H2351|N-mp
 v7 וְהוּא֙|wə·hū|But this|H1931|Conj-w | Pro-3ms
 v7 לֹא־|lō-|is not|H3808|Adv-NegPrt
-v7 כֵ֣ן|ḵên|vvv|H3651|Adv
+v7 כֵ֣ן|ḵên|...|H3651|Adv
 v7 יְדַמֶּ֔ה|yə·ḏam·meh|his intention|H1819|V-Piel-Imperf-3ms
 v7 וּלְבָב֖וֹ|ū·lə·ḇā·ḇōw|his plan|H3824|Conj-w | N-msc | 3ms
 v7 לֹא־|lō-|this is not|H3808|Adv-NegPrt
@@ -118,7 +118,7 @@ v11 וְלֶאֱלִילֶ֑יהָ|wə·le·’ĕ·lî·le·hā|and its idols|H4
 v11 כֵּ֛ן|kên|also|H3651|Adv
 v11 אֶעֱשֶׂ֥ה|’e·‘ĕ·śeh|do|H6213|V-Qal-Imperf-1cs
 v11 לִירוּשָׁלִַ֖ם|lî·rū·šā·lim|to Jerusalem|H3389|Prep-l | N-proper-fs
-v11 וְלַעֲצַבֶּֽיהָ׃ס|wə·la·‘ă·ṣab·be·hā|and her idols|H6091|Conj-w, Prep-l | N-mpc | 3fs
+v11 וְלַעֲצַבֶּֽיהָ׃|wə·la·‘ă·ṣab·be·hā|and her idols|H6091|Conj-w, Prep-l | N-mpc | 3fs
 v12 וְהָיָ֗ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v12 כִּֽי־|kî-|So when|H3588|Conj
 v12 יְבַצַּ֤ע|yə·ḇaṣ·ṣa‘|has completed|H1214|V-Piel-Imperf-3ms
@@ -234,7 +234,7 @@ v19 יַעְר֖וֹ|ya‘·rōw|of its forests|H3293|N-msc | 3ms
 v19 מִסְפָּ֣ר|mis·pār|so few|H4557|N-ms
 v19 יִֽהְי֑וּ|yih·yū|will be|H1961|V-Qal-Imperf-3mp
 v19 וְנַ֖עַר|wə·na·‘ar|that a child|H5288|Conj-w | N-ms
-v19 יִכְתְּבֵֽם׃פ|yiḵ·tə·ḇêm|could count them|H3789|V-Qal-Imperf-3ms | 3mp
+v19 יִכְתְּבֵֽם׃|yiḵ·tə·ḇêm|could count them|H3789|V-Qal-Imperf-3ms | 3mp
 v20 וְהָיָ֣ה׀|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v20 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v20 הַה֗וּא|ha·hū|On that|H1931|Art | Pro-3ms
@@ -271,7 +271,7 @@ v22 כְּח֣וֹל|kə·ḥō·wl|like the sand|H2344|Prep-k | N-msc
 v22 הַיָּ֔ם|hay·yām|of the sea|H3220|Art | N-ms
 v22 שְׁאָ֖ר|šə·’ār|only a remnant|H7605|N-ms
 v22 יָשׁ֣וּב|yā·šūḇ|will return|H7725|V-Qal-Imperf-3ms
-v22 בּ֑וֹ|bōw||H0|Prep | 3ms
+v22 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v22 כִּלָּי֥וֹן|kil·lā·yō·wn|Destruction|H3631|N-ms
 v22 חָר֖וּץ|ḥā·rūṣ|has been decreed|H2782|V-Qal-QalPassPrtcpl-ms
 v22 שׁוֹטֵ֥ף|šō·w·ṭêp̄|overflowing|H7857|V-Qal-Prtcpl-ms
@@ -285,7 +285,7 @@ v23 צְבָא֔וֹת|ṣə·ḇā·’ō·wṯ|of Hosts|H6635|N-cp
 v23 עֹשֶׂ֖ה|‘ō·śeh|will carry out|H6213|V-Qal-Prtcpl-ms
 v23 בְּקֶ֥רֶב|bə·qe·reḇ|upon|H7130|Prep-b | N-msc
 v23 כָּל־|kāl-|the whole|H3605|N-msc
-v23 הָאָֽרֶץ׃ס|hā·’ā·reṣ|land|H776|Art | N-fs
+v23 הָאָֽרֶץ׃|hā·’ā·reṣ|land|H776|Art | N-fs
 v24 לָכֵ֗ן|lā·ḵên|Therefore|H3651|Adv
 v24 כֹּֽה־|kōh-|this is what|H3541|Adv
 v24 אָמַ֞ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -355,7 +355,7 @@ v29 עָֽבְרוּ֙|‘ā·ḇə·rū|They have crossed|H5674|V-Qal-Perf-3cp
 v29 מַעְבָּרָ֔ה|ma‘·bā·rāh|at the ford|H4569|N-fs
 v29 גֶּ֖בַע|ge·ḇa‘|at Geba|H1387|N-proper-fs
 v29 מָל֣וֹן|mā·lō·wn|We will spend the night|H4411|N-ms
-v29 לָ֑נוּ|lā·nū||H0|Prep | 1cp
+v29 לָ֑נוּ|lā·nū|-|H0|Prep | 1cp
 v29 חָֽרְדָה֙|ḥā·rə·ḏāh|trembles|H2729|V-Qal-Perf-3fs
 v29 הָֽרָמָ֔ה|hā·rā·māh|Ramah|H7414|Art | N-proper-fs
 v29 גִּבְעַ֥ת|giḇ·‘aṯ|Gibeah|H1390|N-proper-fs
@@ -384,7 +384,7 @@ v32 הַ֣ר|har|at the mount|H2022|N-msc
 v32 בֵּית|bēṯ|of Daughter|H1004|N-fsc
 v32 צִיּ֔וֹן|ṣî·yō·wn|Zion|H6726|N-proper-fs
 v32 גִּבְעַ֖ת|giḇ·‘aṯ|at the hill|H1389|N-fsc
-v32 יְרוּשָׁלִָֽם׃ס|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
+v32 יְרוּשָׁלִָֽם׃|yə·rū·šā·lim|of Jerusalem|H3389|N-proper-fs
 v33 הִנֵּ֤ה|hin·nêh|Behold|H2009|Interjection
 v33 הָאָדוֹן֙|hā·’ā·ḏō·wn|the Lord|H113|Art | N-ms
 v33 יְהוָ֣ה|Yah·weh|GOD|H3068|N-proper-ms
@@ -403,4 +403,4 @@ v34 הַיַּ֖עַר|hay·ya·‘ar|the forest|H3293|Art | N-ms
 v34 בַּבַּרְזֶ֑ל|bab·bar·zel|with an axe|H1270|Prep-b, Art | N-ms
 v34 וְהַלְּבָנ֖וֹן|wə·hal·lə·ḇā·nō·wn|and Lebanon|H3844|Conj-w, Art | N-proper-fs
 v34 בְּאַדִּ֥יר|bə·’ad·dîr|before the Mighty One|H117|Prep-b | Adj-ms
-v34 יִפּֽוֹל׃ס|yip·pō·wl|will fall|H5307|V-Qal-Imperf-3ms
+v34 יִפּֽוֹל׃|yip·pō·wl|will fall|H5307|V-Qal-Imperf-3ms

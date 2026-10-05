@@ -8,7 +8,7 @@ v1 הַנָּבִ֑יא|han·nā·ḇî|the prophet|H5030|Art | N-ms
 v1 כַּֽאֲשֶׁר־|ka·’ă·šer-|after|H834|Prep-k | Pro-r
 v1 בָּ֝֗א|bā|his adultery|H935|V-Qal-Perf-3ms
 v1 אֶל־|’el-|with|H413|Prep
-v1 בַּת־|baṯ-|vvv|H1339|Prep
+v1 בַּת־|baṯ-|...|H1339|Prep
 v1 שָֽׁבַע׃|šā·ḇa‘|Bathsheba|H1339|N-proper-fs
 v1 חָנֵּ֣נִי|ḥān·nê·nî|Have mercy on me|H2603|V-Qal-Imp-ms | 1cs
 v1 אֱלֹהִ֣ים|’ĕ·lō·hîm|O God|H430|N-mp
@@ -121,7 +121,7 @@ v16 תַחְפֹּ֣ץ|ṯaḥ·pōṣ|delight|H2654|V-Qal-Imperf-2ms
 v16 זֶ֣בַח|ze·ḇaḥ|in sacrifice|H2077|N-ms
 v16 וְאֶתֵּ֑נָה|wə·’et·tê·nāh|or I would bring it|H5414|Conj-w | V-Qal-ConjImperf.Cohort-1cs
 v16 ע֝וֹלָ֗ה|‘ō·w·lāh|in burnt offerings|H5930|N-fs
-v16 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v16 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v16 תִרְצֶֽה׃|ṯir·ṣeh|You take no pleasure|H7521|V-Qal-Imperf-2ms
 v17 זִֽבְחֵ֣י|ziḇ·ḥê|The sacrifices|H2077|N-mpc
 v17 אֱלֹהִים֮|’ĕ·lō·hîm|of God|H430|N-mp

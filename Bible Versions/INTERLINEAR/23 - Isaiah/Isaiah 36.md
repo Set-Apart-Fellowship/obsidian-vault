@@ -18,7 +18,7 @@ v2 וַיִּשְׁלַ֣ח|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImp
 v2 מֶֽלֶךְ־|me·leḵ-|And the king|H4428|N-msc
 v2 אַשּׁ֣וּר׀|’aš·šūr|of Assyria|H804|N-proper-fs
 v2 אֶת־|’eṯ-|-|H853|DirObjM
-v2 רַב־|raḇ-|vvv|H7262|N-ms
+v2 רַב־|raḇ-|...|H7262|N-ms
 v2 שָׁקֵ֨ה|šā·qêh|[the] Rabshakeh|H7262|N-ms
 v2 מִלָּכִ֧ישׁ|mil·lā·ḵîš|from Lachish|H3923|Prep-m | N-proper-fs
 v2 יְרוּשָׁלְַ֛מָה|yə·rū·šā·lə·māh|at Jerusalem|H3389|N-proper-fs | 3fs
@@ -50,7 +50,7 @@ v3 אָסָ֖ף|’ā·sāp̄|of Asaph|H623|N-proper-ms
 v3 הַמַּזְכִּֽיר׃|ham·maz·kîr|the recorder|H2142|Art | V-Hifil-Prtcpl-ms
 v4 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v4 אֲלֵיהֶם֙|’ă·lê·hem|to them|H413|Prep | 3mp
-v4 רַב־|raḇ-|vvv|H7262|N-ms
+v4 רַב־|raḇ-|...|H7262|N-ms
 v4 שָׁקֵ֔ה|šā·qêh|The Rabshakeh|H7262|N-ms
 v4 אִמְרוּ־|’im·rū-|Tell|H559|V-Qal-Imp-mp
 v4 נָ֖א|nā|...|H4994|Interjection
@@ -88,13 +88,13 @@ v6 מִשְׁעֶנֶת֩|miš·‘e·neṯ|of a staff|H4938|N-fsc
 v6 הַקָּנֶ֨ה|haq·qā·neh|reed|H7070|Art | N-ms
 v6 הָרָצ֤וּץ|hā·rā·ṣūṣ|splintered|H7533|Art | V-Qal-QalPassPrtcpl-ms
 v6 הַזֶּה֙|haz·zeh|that|H2088|Art | Pro-ms
-v6 עַל־|‘al-||H5921|Prep
+v6 עַל־|‘al-|-|H5921|Prep
 v6 מִצְרַ֔יִם|miṣ·ra·yim|Egypt|H4714|N-proper-fs
 v6 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
 v6 יִסָּמֵ֥ךְ|yis·sā·mêḵ|who leans|H5564|V-Nifal-Imperf-3ms
 v6 אִישׁ֙|’îš|of anyone|H376|N-ms
 v6 עָלָ֔יו|‘ā·lāw|on it|H5921|Prep | 3ms
-v6 וּבָ֥א|ū·ḇā|vvv|H935|Conj-w | V-Qal-ConjPerf-3ms
+v6 וּבָ֥א|ū·ḇā|...|H935|Conj-w | V-Qal-ConjPerf-3ms
 v6 בְכַפּ֖וֹ|ḇə·ḵap·pōw|the hand|H3709|Prep-b | N-fsc | 3ms
 v6 וּנְקָבָ֑הּ|ū·nə·qā·ḇāh|will pierce|H5344|Conj-w | V-Qal-ConjPerf-3ms | 3fs
 v6 כֵּ֚ן|kên|Such is|H3651|Adv
@@ -141,7 +141,7 @@ v8 סוּסִ֔ים|sū·sîm|horses|H5483|N-mp
 v8 אִם־|’im-|if|H518|Conj
 v8 תּוּכַ֕ל|tū·ḵal|you can|H3201|V-Qal-Imperf-2ms
 v8 לָ֥תֶת|lā·ṯeṯ|put|H5414|Prep-l | V-Qal-Inf
-v8 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v8 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v8 רֹכְבִ֥ים|rō·ḵə·ḇîm|riders|H7392|V-Qal-Prtcpl-mp
 v8 עֲלֵיהֶֽם׃|‘ă·lê·hem|on them|H5921|Prep | 3mp
 v9 וְאֵ֣יךְ|wə·’êḵ|For how|H349|Conj-w | Interjection
@@ -180,7 +180,7 @@ v11 אֶלְיָקִים֩|’el·yā·qîm|Then Eliakim|H471|N-proper-ms
 v11 וְשֶׁבְנָ֨א|wə·šeḇ·nā|Shebna|H7644|Conj-w | N-proper-ms
 v11 וְיוֹאָ֜ח|wə·yō·w·’āḥ|and Joah|H3098|Conj-w | N-proper-ms
 v11 אֶל־|’el-|to|H413|Prep
-v11 רַב־|raḇ-|vvv|H7262|N-ms
+v11 רַב־|raḇ-|...|H7262|N-ms
 v11 שָׁקֵ֗ה|šā·qêh|the Rabshakeh|H7262|N-ms
 v11 דַּבֶּר־|dab·ber-|speak|H1696|V-Piel-Imp-ms
 v11 נָ֤א|nā|Please|H4994|Interjection
@@ -200,7 +200,7 @@ v11 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v11 עַל־|‘al-|on|H5921|Prep
 v11 הַחוֹמָֽה׃|ha·ḥō·w·māh|the wall|H2346|Art | N-fs
 v12 וַיֹּ֣אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v12 רַב־|raḇ-|vvv|H7262|N-ms
+v12 רַב־|raḇ-|...|H7262|N-ms
 v12 שָׁקֵ֗ה|šā·qêh|But the Rabshakeh|H7262|N-ms
 v12 הַאֶ֨ל|ha·’el|only to|H413|Prep
 v12 אֲדֹנֶ֤יךָ|’ă·ḏō·ne·ḵā|Has my master|H113|N-mpc | 2ms
@@ -225,7 +225,7 @@ v12 אֶת־|’eṯ-|-|H853|DirObjM
 v12 שֵׁינֵיהֶם|šē·nē·hɛm|their own urine|H7890|N-cdc | 3mp
 v12 עִמָּכֶֽם׃|‘im·mā·ḵem|who are destined with you|H5973|Prep | 2mp
 v13 וַֽיַּעֲמֹד֙|way·ya·‘ă·mōḏ|stood|H5975|Conj-w | V-Qal-ConsecImperf-3ms
-v13 רַב־|raḇ-|vvv|H7262|N-ms
+v13 רַב־|raḇ-|...|H7262|N-ms
 v13 שָׁקֵ֔ה|šā·qêh|Then the Rabshakeh|H7262|N-ms
 v13 וַיִּקְרָ֥א|way·yiq·rā|and called out|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v13 בְקוֹל־|ḇə·qō·wl-|loudly|H6963|Prep-b | N-ms
@@ -357,7 +357,7 @@ v21 כִּֽי־|kî-|for|H3588|Conj
 v21 מִצְוַ֨ת|miṣ·waṯ|had commanded|H4687|N-fsc
 v21 הַמֶּ֥לֶךְ|ham·me·leḵ|[Hezekiah]|H4428|Art | N-ms
 v21 הִ֛יא|hî|...|H1931|Pro-3fs
-v21 לֵאמֹ֖ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v21 לֵאמֹ֖ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v21 לֹ֥א|lō|Do not|H3808|Adv-NegPrt
 v21 תַעֲנֻֽהוּ׃|ṯa·‘ă·nu·hū|answer him|H6030|V-Qal-Imperf-2mp | 3ms
 v22 וַיָּבֹ֣א|way·yā·ḇō|came|H935|Conj-w | V-Qal-ConsecImperf-3ms
@@ -381,5 +381,5 @@ v22 וַיַּגִּ֣ידוּ|way·yag·gî·ḏū|and they relayed|H5046|Conj-
 v22 ל֔וֹ|lōw|to him|H0|Prep | 3ms
 v22 אֵ֖ת|’êṯ|-|H853|DirObjM
 v22 דִּבְרֵ֥י|diḇ·rê|the words|H1697|N-mpc
-v22 רַב־|raḇ-|vvv|H7262|N-ms
-v22 שָׁקֵֽה׃ס|šā·qêh|of [the] Rabshakeh|H7262|N-ms
+v22 רַב־|raḇ-|...|H7262|N-ms
+v22 שָׁקֵֽה׃|šā·qêh|of [the] Rabshakeh|H7262|N-ms

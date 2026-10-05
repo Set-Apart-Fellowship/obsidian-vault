@@ -13,7 +13,7 @@ v1 αὐτοῦ|autou|His|G846|PPro-GM3S
 v1 ἃ|ha|what|G3739|RelPro-ANP
 v1 δεῖ|dei|must|G1163|V-PIA-3S
 v1 γενέσθαι|genesthai|come to pass|G1096|V-ANM
-v1 ἐν|en|vvv|G1722|Prep
+v1 ἐν|en|...|G1722|Prep
 v1 τάχει|tachei|soon|G5034|N-DNS
 v1 καὶ|kai|-|G2532|Conj
 v1 ἐσήμανεν|esēmanen|He made it known|G4591|V-AIA-3S
@@ -139,8 +139,8 @@ v6 δόξα|doxa|glory|G1391|N-NFS
 v6 καὶ|kai|and|G2532|Conj
 v6 τὸ|to|-|G3588|Art-NNS
 v6 κράτος|kratos|power|G2904|N-NNS
-v6 εἰς|eis|vvv|G1519|Prep
-v6 τοὺς|tous|vvv|G3588|Art-AMP
+v6 εἰς|eis|...|G1519|Prep
+v6 τοὺς|tous|...|G3588|Art-AMP
 v6 αἰῶνας|aiōnas|forever|G165|N-AMP
 v6 τῶν|tōn|[and]|G3588|Art-GMP
 v6 αἰώνων|aiōnōn|ever|G165|N-GMP
@@ -285,7 +285,7 @@ v12 ἑπτὰ|hepta|seven|G2033|Adj-AFP
 v12 λυχνίας|lychnias|lampstands|G3087|N-AFP
 v12 χρυσᾶς|chrysas|golden|G5552|Adj-AFP
 v13 καὶ|kai|and|G2532|Conj
-v13 ἐν|en|vvv|G1722|Prep
+v13 ἐν|en|...|G1722|Prep
 v13 μέσῳ|mesō|among|G3319|Adj-DNS
 v13 τῶν|tōn|the|G3588|Art-GFP
 v13 λυχνιῶν|lychniōn|lampstands|G3087|N-GFP
@@ -407,8 +407,8 @@ v18 καὶ|kai|and|G2532|Conj
 v18 ἰδοὺ|idou|behold|G2400|V-AMA-2S
 v18 ζῶν|zōn|alive|G2198|V-PPA-NMS
 v18 εἰμι|eimi|[now] I am|G1510|V-PIA-1S
-v18 εἰς|eis|vvv|G1519|Prep
-v18 τοὺς|tous|vvv|G3588|Art-AMP
+v18 εἰς|eis|...|G1519|Prep
+v18 τοὺς|tous|...|G3588|Art-AMP
 v18 αἰῶνας|aiōnas|forever|G165|N-AMP
 v18 τῶν|tōn|[and]|G3588|Art-GMP
 v18 αἰώνων|aiōnōn|ever|G165|N-GMP

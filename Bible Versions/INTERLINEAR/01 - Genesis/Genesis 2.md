@@ -32,7 +32,7 @@ v3 מְלַאכְתּ֔וֹ|mə·laḵ·tōw|the work|H4399|N-fsc | 3ms
 v3 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v3 בָּרָ֥א|bā·rā|of creation|H1254|V-Qal-Perf-3ms
 v3 אֱלֹהִ֖ים|’ĕ·lō·hîm|[He]|H430|N-mp
-v3 לַעֲשֽׂוֹת׃פ|la·‘ă·śō·wṯ|had accomplished|H6213|Prep-l | V-Qal-Inf
+v3 לַעֲשֽׂוֹת׃|la·‘ă·śō·wṯ|had accomplished|H6213|Prep-l | V-Qal-Inf
 v4 אֵ֣לֶּה|’êl·leh|This|H428|Pro-cp
 v4 תוֹלְד֧וֹת|ṯō·wl·ḏō·wṯ|[is] the account|H8435|N-fpc
 v4 הַשָּׁמַ֛יִם|haš·šā·ma·yim|of the heavens|H8064|Art | N-mp
@@ -152,7 +152,7 @@ v12 הַהִ֖וא|ha·hi·w|of that|H1931|Art | Pro-3fs
 v12 ט֑וֹב|ṭō·wḇ|[is] pure|H2896|Adj-ms
 v12 שָׁ֥ם|šām|[are found] there|H8033|Adv
 v12 הַבְּדֹ֖לַח|hab·bə·ḏō·laḥ|[and] bdellium|H916|Art | N-ms
-v12 וְאֶ֥בֶן|wə·’e·ḇen|vvv|H68|Conj-w | N-fsc
+v12 וְאֶ֥בֶן|wə·’e·ḇen|...|H68|Conj-w | N-fsc
 v12 הַשֹּֽׁהַם׃|haš·šō·ham|and onyx|H7718|Art | N-ms
 v13 וְשֵֽׁם־|wə·šêm-|The name|H8034|Conj-w | N-msc
 v13 הַנָּהָ֥ר|han·nā·hār|river|H5104|Art | N-ms

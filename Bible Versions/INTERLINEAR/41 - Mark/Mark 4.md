@@ -75,7 +75,7 @@ v5 ἐπὶ|epi|on|G1909|Prep
 v5 τὸ|to|-|G3588|Art-ANS
 v5 πετρῶδες|petrōdes|rocky ground|G4075|Adj-ANS
 v5 ὅπου|hopou|where|G3699|Adv
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 εἶχεν|eichen|it did not have|G2192|V-IIA-3S
 v5 γῆν|gēn|soil|G1093|N-AFS
 v5 πολλήν|pollēn|much|G4183|Adj-AFS
@@ -152,7 +152,7 @@ v9 ἀκουέτω|akouetō|let him hear|G191|V-PMA-3S
 v10 Καὶ|Kai|As soon as|G2532|Conj
 v10 ὅτε|hote|...|G3753|Adv
 v10 ἐγένετο|egeneto|[Jesus] was|G1096|V-AIM-3S
-v10 κατὰ|kata|vvv|G2596|Prep
+v10 κατὰ|kata|...|G2596|Prep
 v10 μόνας|monas|alone|G3441|Adj-AFP
 v10 ἠρώτων|ērōtōn|they asked|G2065|V-IIA-3P
 v10 αὐτὸν|auton|Him|G846|PPro-AM3S
@@ -185,13 +185,13 @@ v11 τὰ|ta|-|G3588|Art-NNP
 v11 πάντα|panta|everything|G3956|Adj-NNP
 v11 γίνεται|ginetai|is expressed|G1096|V-PIM/P-3S
 v12 ἵνα|hina|so that|G2443|Conj
-v12 Βλέποντες|Blepontes|vvv|G991|V-PPA-NMP
+v12 Βλέποντες|Blepontes|...|G991|V-PPA-NMP
 v12 βλέπωσιν|blepōsin|they may be ever seeing|G991|V-PSA-3P
 v12 καὶ|kai|[but]|G2532|Conj
 v12 μὴ|mē|never|G3361|Adv
 v12 ἴδωσιν|idōsin|perceiving|G3708|V-ASA-3P
 v12 Καὶ|Kai|and|G2532|Conj
-v12 ἀκούοντες|akouontes|vvv|G191|V-PPA-NMP
+v12 ἀκούοντες|akouontes|...|G191|V-PPA-NMP
 v12 ἀκούωσιν|akouōsin|ever hearing|G191|V-PSA-3P
 v12 καὶ|kai|[but]|G2532|Conj
 v12 μὴ|mē|never|G3361|Adv
@@ -205,7 +205,7 @@ v12 αὐτοῖς|autois|...|G846|PPro-DM3P
 v13 Καὶ|Kai|Then|G2532|Conj
 v13 λέγει|legei|[Jesus] said|G3004|V-PIA-3S
 v13 αὐτοῖς|autois|to them|G846|PPro-DM3P
-v13 Οὐκ|Ouk|vvv|G3756|Adv
+v13 Οὐκ|Ouk|...|G3756|Adv
 v13 οἴδατε|oidate|Do you not understand|G1492|V-RIA-2P
 v13 τὴν|tēn|-|G3588|Art-AFS
 v13 παραβολὴν|parabolēn|parable|G3850|N-AFS
@@ -283,7 +283,7 @@ v17 διωγμοῦ|diōgmou|persecution|G1375|N-GMS
 v17 διὰ|dia|because of|G1223|Prep
 v17 τὸν|ton|the|G3588|Art-AMS
 v17 λόγον|logon|word|G3056|N-AMS
-v17 εὐθὺς|euthys|vvv|G2112|Adv
+v17 εὐθὺς|euthys|...|G2112|Adv
 v17 σκανδαλίζονται|skandalizontai|they quickly fall away|G4624|V-PIM/P-3P
 v18 Καὶ|Kai|[Others]|G2532|Conj
 v18 ἄλλοι|alloi|...|G243|Adj-NMP
@@ -348,11 +348,11 @@ v20 ἑξήκοντα|hexēkonta|sixtyfold|G1835|Adj-ANP
 v20 καὶ|kai|[or]|G2532|Conj
 v20 ἓν|hen|a|G1520|Adj-NNS
 v20 ἑκατόν|hekaton|hundredfold|G1540|Adj-ANP
-v21 Καὶ|Kai|vvv|G2532|Conj
+v21 Καὶ|Kai|...|G2532|Conj
 v21 ἔλεγεν|elegen|[Jesus] also said|G2036|V-IIA-3S
 v21 αὐτοῖς|autois|to them|G846|PPro-DM3P
 v21 〈ὅτι〉|hoti|-|G3754|Conj
-v21 Μήτι|Mēti|vvv|G3385|IntPrtcl
+v21 Μήτι|Mēti|...|G3385|IntPrtcl
 v21 ἔρχεται|erchetai|Does [anyone] bring in|G2064|V-PIM/P-3S
 v21 ὁ|ho|a|G3588|Art-NMS
 v21 λύχνος|lychnos|lamp|G3088|N-NMS
@@ -381,7 +381,7 @@ v22 μὴ|mē|will not be|G3361|Adv
 v22 ἵνα|hina|that|G2443|Conj
 v22 φανερωθῇ|phanerōthē|disclosed|G5319|V-ASP-3S
 v22 οὐδὲ|oude|and nothing|G3761|Conj
-v22 ἐγένετο|egeneto|vvv|G1096|V-AIM-3S
+v22 ἐγένετο|egeneto|...|G1096|V-AIM-3S
 v22 ἀπόκρυφον|apokryphon|concealed|G614|Adj-NNS
 v22 ἀλλ’|all’|-|G235|Conj
 v22 ἵνα|hina|that|G2443|Conj
@@ -416,7 +416,7 @@ v25 δοθήσεται|dothēsetai|will be given|G1325|V-FIP-3S
 v25 αὐτῷ|autō|[more]|G846|PPro-DM3S
 v25 καὶ|kai|[But]|G2532|Conj
 v25 ὃς|hos|whoever|G3739|RelPro-NMS
-v25 οὐκ|ouk|vvv|G3756|Adv
+v25 οὐκ|ouk|...|G3756|Adv
 v25 ἔχει|echei|does not have|G2192|V-PIA-3S
 v25 καὶ|kai|even|G2532|Conj
 v25 ὃ|ho|what|G3739|RelPro-ANS
@@ -424,7 +424,7 @@ v25 ἔχει|echei|he has|G2192|V-PIA-3S
 v25 ἀρθήσεται|arthēsetai|will be taken away|G142|V-FIP-3S
 v25 ἀπ’|ap’|from|G575|Prep
 v25 αὐτοῦ|autou|him|G846|PPro-GM3S
-v26 Καὶ|Kai|vvv|G2532|Conj
+v26 Καὶ|Kai|...|G2532|Conj
 v26 ἔλεγεν|elegen|[Jesus] also said|G2036|V-IIA-3S
 v26 Οὕτως|Houtōs|like|G3779|Adv
 v26 ἐστὶν|estin|is|G1510|V-PIA-3S
@@ -542,7 +542,7 @@ v32 τοῦ|tou|of the|G3588|Art-GMS
 v32 οὐρανοῦ|ouranou|air|G3772|N-GMS
 v32 κατασκηνοῦν*|kataskēnoun|nest|G2681|V-PNA
 v33 Καὶ|Kai|-|G2532|Conj
-v33 τοιαύταις|toiautais|vvv|G5108|DPro-DFP
+v33 τοιαύταις|toiautais|...|G5108|DPro-DFP
 v33 παραβολαῖς|parabolais|parables|G3850|N-DFP
 v33 πολλαῖς|pollais|With many such|G4183|Adj-DFP
 v33 ἐλάλει|elalei|[Jesus] spoke|G2980|V-IIA-3S
@@ -555,10 +555,10 @@ v33 ἀκούειν|akouein|understand|G191|V-PNA
 v34 χωρὶς|chōris|without using|G5565|Prep
 v34 δὲ|de|-|G1161|Conj
 v34 παραβολῆς|parabolēs|a parable|G3850|N-GFS
-v34 οὐκ|ouk|vvv|G3756|Adv
+v34 οὐκ|ouk|...|G3756|Adv
 v34 ἐλάλει|elalei|He did not tell them [anything]|G2980|V-IIA-3S
 v34 αὐτοῖς|autois|...|G846|PPro-DM3P
-v34 κατ’|kat’|vvv|G2596|Prep
+v34 κατ’|kat’|...|G2596|Prep
 v34 ἰδίαν|idian|privately|G2398|Adj-AFS
 v34 δὲ|de|But|G1161|Conj
 v34 τοῖς|tois|to His|G3588|Art-DMP
@@ -572,9 +572,9 @@ v35 αὐτοῖς|autois|to [His disciples]|G846|PPro-DM3P
 v35 ἐν|en|-|G1722|Prep
 v35 ἐκείνῃ|ekeinē|that|G1565|DPro-DFS
 v35 τῇ|tē|-|G3588|Art-DFS
-v35 ἡμέρᾳ|hēmera|vvv|G2250|N-DFS
+v35 ἡμέρᾳ|hēmera|...|G2250|N-DFS
 v35 ὀψίας|opsias|evening came|G3798|Adj-GFS
-v35 γενομένης|genomenēs|vvv|G1096|V-APM-GFS
+v35 γενομένης|genomenēs|...|G1096|V-APM-GFS
 v35 Διέλθωμεν|Dielthōmen|Let us cross|G1330|V-ASA-1P
 v35 εἰς|eis|to|G1519|Prep
 v35 τὸ|to|the|G3588|Art-ANS
@@ -609,7 +609,7 @@ v37 εἰς|eis|over|G1519|Prep
 v37 τὸ|to|the|G3588|Art-ANS
 v37 πλοῖον|ploion|boat|G4143|N-ANS
 v37 ὥστε|hōste|so that|G5620|Conj
-v37 ἤδη|ēdē|vvv|G2235|Adv
+v37 ἤδη|ēdē|...|G2235|Adv
 v37 γεμίζεσθαι|gemizesthai|was being swamped|G1072|V-PNM/P
 v37 τὸ|to|-|G3588|Art-ANS
 v37 πλοῖον|ploion|[it]|G4143|N-ANS
@@ -630,7 +630,7 @@ v38 καὶ|kai|and|G2532|Conj
 v38 λέγουσιν|legousin|said|G3004|V-PIA-3P
 v38 αὐτῷ|autō|-|G846|PPro-DM3S
 v38 Διδάσκαλε|Didaskale|Teacher|G1320|N-VMS
-v38 οὐ|ou|vvv|G3756|Adv
+v38 οὐ|ou|...|G3756|Adv
 v38 μέλει|melei|don't You care|G3199|V-PIA-3S
 v38 σοι|soi|...|G4771|PPro-D2S
 v38 ὅτι|hoti|that|G3754|Conj

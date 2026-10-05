@@ -111,7 +111,7 @@ v8 ὡς|hōs|viewed as|G5613|Adv
 v8 πλάνοι|planoi|imposters|G4108|Adj-NMP
 v8 καὶ|kai|yet|G2532|Conj
 v8 ἀληθεῖς|alētheis|genuine|G227|Adj-NMP
-v9 ὡς|hōs|vvv|G5613|Adv
+v9 ὡς|hōs|...|G5613|Adv
 v9 ἀγνοούμενοι|agnooumenoi|unknown|G50|V-PPM/P-NMP
 v9 καὶ|kai|yet|G2532|Conj
 v9 ἐπιγινωσκόμενοι|epiginōskomenoi|well-known|G1921|V-PPM/P-NMP
@@ -123,7 +123,7 @@ v9 ζῶμεν|zōmen|we live on|G2198|V-PIA-1P
 v9 ὡς|hōs|-|G5613|Adv
 v9 παιδευόμενοι|paideuomenoi|punished|G3811|V-PPM/P-NMP
 v9 καὶ|kai|yet|G2532|Conj
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 θανατούμενοι|thanatoumenoi|not killed|G2289|V-PPM/P-NMP
 v10 ὡς|hōs|-|G5613|Adv
 v10 λυπούμενοι|lypoumenoi|sorrowful|G3076|V-PPM/P-NMP
@@ -142,7 +142,7 @@ v10 καὶ|kai|and yet|G2532|Conj
 v10 πάντα|panta|everything|G3956|Adj-ANP
 v10 κατέχοντες|katechontes|possessing|G2722|V-PPA-NMP
 v11 Τὸ|To|-|G3588|Art-NNS
-v11 στόμα|stoma|vvv|G4750|N-NNS
+v11 στόμα|stoma|...|G4750|N-NNS
 v11 ἡμῶν|hēmōn|We|G1473|PPro-G1P
 v11 ἀνέῳγεν|aneōgen|have spoken freely|G455|V-RIA-3S
 v11 πρὸς|pros|to|G4314|Prep
@@ -154,7 +154,7 @@ v11 ἡμῶν|hēmōn|Our|G1473|PPro-G1P
 v11 πεπλάτυνται|peplatyntai|are open wide|G4115|V-RIM/P-3S
 v12 οὐ|ou|not|G3756|Adv
 v12 στενοχωρεῖσθε|stenochōreisthe|-|G4729|V-PIM/P-2P
-v12 ἐν|en|vvv|G1722|Prep
+v12 ἐν|en|...|G1722|Prep
 v12 ἡμῖν|hēmin|our|G1473|PPro-D1P
 v12 στενοχωρεῖσθε|stenochōreisthe|that is restrained|G4729|V-PIM/P-2P
 v12 δὲ|de|[It is]|G1161|Conj

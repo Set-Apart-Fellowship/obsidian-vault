@@ -118,7 +118,7 @@ v9 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v9 עַל־|‘al-|over|H5921|Prep
 v9 פְּנֵ֖י|pə·nê|the face|H6440|N-cpc
 v9 כָּל־|kāl-|of all|H3605|N-msc
-v9 הָאָֽרֶץ׃פ|hā·’ā·reṣ|the earth|H776|Art | N-fs
+v9 הָאָֽרֶץ׃|hā·’ā·reṣ|the earth|H776|Art | N-fs
 v10 אֵ֚לֶּה|’êl·leh|This|H428|Pro-cp
 v10 תּוֹלְדֹ֣ת|tō·wl·ḏōṯ|is the account|H8435|N-fpc
 v10 שֵׁ֔ם|šêm|of Shem|H8035|N-proper-ms
@@ -143,7 +143,7 @@ v11 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v11 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
 v11 וַיּ֥וֹלֶד|way·yō·w·leḏ|and had|H3205|Conj-w | V-Hifil-ConsecImperf-3ms
 v11 בָּנִ֖ים|bā·nîm|other sons|H1121|N-mp
-v11 וּבָנֽוֹת׃ס|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
+v11 וּבָנֽוֹת׃|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
 v12 וְאַרְפַּכְשַׁ֣ד|wə·’ar·paḵ·šaḏ|When Arphaxad|H775|Conj-w | N-proper-ms
 v12 חַ֔י|ḥay|was|H2421|V-Qal-Perf-3ms
 v12 חָמֵ֥שׁ|ḥā·mêš|35|H2568|Number-fs
@@ -165,7 +165,7 @@ v13 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v13 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
 v13 וַיּ֥וֹלֶד|way·yō·w·leḏ|and had|H3205|Conj-w | V-Hifil-ConsecImperf-3ms
 v13 בָּנִ֖ים|bā·nîm|other sons|H1121|N-mp
-v13 וּבָנֽוֹת׃ס|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
+v13 וּבָנֽוֹת׃|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
 v14 וְשֶׁ֥לַח|wə·še·laḥ|When Shelah|H7974|Conj-w | N-proper-ms
 v14 חַ֖י|ḥay|was|H2421|V-Qal-Perf-3ms
 v14 שְׁלֹשִׁ֣ים|šə·lō·šîm|30|H7970|Number-cp
@@ -186,7 +186,7 @@ v15 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v15 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
 v15 וַיּ֥וֹלֶד|way·yō·w·leḏ|and had|H3205|Conj-w | V-Hifil-ConsecImperf-3ms
 v15 בָּנִ֖ים|bā·nîm|other sons|H1121|N-mp
-v15 וּבָנֽוֹת׃ס|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
+v15 וּבָנֽוֹת׃|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
 v16 וַֽיְחִי־|way·ḥî-|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v16 עֵ֕בֶר|‘ê·ḇer|When Eber|H5677|N-proper-ms
 v16 אַרְבַּ֥ע|’ar·ba‘|34|H702|Number-fs
@@ -208,7 +208,7 @@ v17 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v17 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
 v17 וַיּ֥וֹלֶד|way·yō·w·leḏ|and had|H3205|Conj-w | V-Hifil-ConsecImperf-3ms
 v17 בָּנִ֖ים|bā·nîm|other sons|H1121|N-mp
-v17 וּבָנֽוֹת׃ס|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
+v17 וּבָנֽוֹת׃|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
 v18 וַֽיְחִי־|way·ḥî-|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v18 פֶ֖לֶג|p̄e·leḡ|When Peleg|H6389|N-proper-ms
 v18 שְׁלֹשִׁ֣ים|šə·lō·šîm|30|H7970|Number-cp
@@ -228,7 +228,7 @@ v19 וּמָאתַ֣יִם|ū·mā·ṯa·yim|...|H3967|Conj-w | Number-fd
 v19 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
 v19 וַיּ֥וֹלֶד|way·yō·w·leḏ|and had|H3205|Conj-w | V-Hifil-ConsecImperf-3ms
 v19 בָּנִ֖ים|bā·nîm|other sons|H1121|N-mp
-v19 וּבָנֽוֹת׃ס|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
+v19 וּבָנֽוֹת׃|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
 v20 וַיְחִ֣י|way·ḥî|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v20 רְע֔וּ|rə·‘ū|When Reu|H7466|N-proper-ms
 v20 שְׁתַּ֥יִם|šə·ta·yim|32|H8147|Number-fd
@@ -249,7 +249,7 @@ v21 וּמָאתַ֣יִם|ū·mā·ṯa·yim|...|H3967|Conj-w | Number-fd
 v21 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
 v21 וַיּ֥וֹלֶד|way·yō·w·leḏ|and had|H3205|Conj-w | V-Hifil-ConsecImperf-3ms
 v21 בָּנִ֖ים|bā·nîm|other sons|H1121|N-mp
-v21 וּבָנֽוֹת׃ס|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
+v21 וּבָנֽוֹת׃|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
 v22 וַיְחִ֥י|way·ḥî|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v22 שְׂר֖וּג|śə·rūḡ|When Serug|H8286|N-proper-ms
 v22 שְׁלֹשִׁ֣ים|šə·lō·šîm|30|H7970|Number-cp
@@ -267,7 +267,7 @@ v23 מָאתַ֣יִם|mā·ṯa·yim|200|H3967|Number-fd
 v23 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
 v23 וַיּ֥וֹלֶד|way·yō·w·leḏ|and had|H3205|Conj-w | V-Hifil-ConsecImperf-3ms
 v23 בָּנִ֖ים|bā·nîm|other sons|H1121|N-mp
-v23 וּבָנֽוֹת׃ס|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
+v23 וּבָנֽוֹת׃|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
 v24 וַיְחִ֣י|way·ḥî|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v24 נָח֔וֹר|nā·ḥō·wr|When Nahor|H5152|N-proper-ms
 v24 תֵּ֥שַׁע|tê·ša‘|29|H8672|Number-fs
@@ -289,7 +289,7 @@ v25 וּמְאַ֣ת|ū·mə·’aṯ|...|H3967|Conj-w | Number-fsc
 v25 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
 v25 וַיּ֥וֹלֶד|way·yō·w·leḏ|and had|H3205|Conj-w | V-Hifil-ConsecImperf-3ms
 v25 בָּנִ֖ים|bā·nîm|other sons|H1121|N-mp
-v25 וּבָנֽוֹת׃ס|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
+v25 וּבָנֽוֹת׃|ū·ḇā·nō·wṯ|and daughters|H1323|Conj-w | N-fp
 v26 וַֽיְחִי־|way·ḥî-|was|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v26 תֶ֖רַח|ṯe·raḥ|When Terah|H8646|N-proper-ms
 v26 שִׁבְעִ֣ים|šiḇ·‘îm|70|H7657|Number-cp
@@ -389,4 +389,4 @@ v32 וּמָאתַ֣יִם|ū·mā·ṯa·yim|...|H3967|Conj-w | Number-fd
 v32 שָׁנָ֑ה|šā·nāh|...|H8141|N-fs
 v32 וַיָּ֥מָת|way·yā·māṯ|and he died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v32 תֶּ֖רַח|te·raḥ|...|H8646|N-proper-ms
-v32 בְּחָרָֽן׃ס|bə·ḥā·rān|in Haran|H2771|Prep-b | N-proper-fs
+v32 בְּחָרָֽן׃|bə·ḥā·rān|in Haran|H2771|Prep-b | N-proper-fs

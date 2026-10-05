@@ -44,7 +44,7 @@ v2 מְאֹ֔ד|mə·’ōḏ|contained very|H3966|Adv
 v2 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v2 לֹא־|lō-|they could not|H3808|Adv-NegPrt
 v2 תֵֽאָכַ֖לְנָה|ṯê·’ā·ḵal·nāh|be eaten|H398|V-Nifal-Imperf-3fp
-v2 מֵרֹֽעַ׃ס|mê·rō·a‘|so bad|H7455|Prep-m | N-ms
+v2 מֵרֹֽעַ׃|mê·rō·a‘|so bad|H7455|Prep-m | N-ms
 v3 וַיֹּ֨אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v3 יְהוָ֜ה|Yah·weh|the LORD|H3068|N-proper-ms
 v3 אֵלַ֗י|’ê·lay|-|H413|Prep | 1cs
@@ -64,7 +64,7 @@ v3 מְאֹ֔ד|mə·’ōḏ|are very|H3966|Adv
 v3 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v3 לֹא־|lō-|they cannot|H3808|Adv-NegPrt
 v3 תֵאָכַ֖לְנָה|ṯê·’ā·ḵal·nāh|be eaten|H398|V-Nifal-Imperf-3fp
-v3 מֵרֹֽעַ׃פ|mê·rō·a‘|so bad|H7455|Prep-m | N-ms
+v3 מֵרֹֽעַ׃|mê·rō·a‘|so bad|H7455|Prep-m | N-ms
 v4 וַיְהִ֥י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v4 דְבַר־|ḏə·ḇar-|Then the word|H1697|N-msc
 v4 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -124,7 +124,7 @@ v7 כִּֽי־|kî-|for|H3588|Conj
 v7 יָשֻׁ֥בוּ|yā·šu·ḇū|they will return|H7725|V-Qal-Imperf-3mp
 v7 אֵלַ֖י|’ê·lay|to Me|H413|Prep | 1cs
 v7 בְּכָל־|bə·ḵāl|with all|H3605|Prep-b | N-msc
-v7 לִבָּֽם׃ס|lib·bām|their heart|H3820|N-msc | 3mp
+v7 לִבָּֽם׃|lib·bām|their heart|H3820|N-msc | 3mp
 v8 וְכַתְּאֵנִים֙|wə·ḵat·tə·’ê·nîm|figs|H8384|Conj-w, Prep-k, Art | N-fp
 v8 הָֽרָע֔וֹת|hā·rā·‘ō·wṯ|But like the bad|H7451|Art | Adj-fp
 v8 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
@@ -182,4 +182,4 @@ v10 הָאֲדָמָ֔ה|hā·’ă·ḏā·māh|the land|H127|Art | N-fs
 v10 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v10 נָתַ֥תִּי|nā·ṯat·tî|I gave|H5414|V-Qal-Perf-1cs
 v10 לָהֶ֖ם|lā·hem|to them|H0|Prep-l | Pro-3mp
-v10 וְלַאֲבוֹתֵיהֶֽם׃פ|wə·la·’ă·ḇō·w·ṯê·hem|and their fathers|H1|Conj-w, Prep-l | N-mpc | 3mp
+v10 וְלַאֲבוֹתֵיהֶֽם׃|wə·la·’ă·ḇō·w·ṯê·hem|and their fathers|H1|Conj-w, Prep-l | N-mpc | 3mp

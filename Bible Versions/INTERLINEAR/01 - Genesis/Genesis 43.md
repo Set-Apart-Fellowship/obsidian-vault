@@ -74,7 +74,7 @@ v7 שָֽׁאַל־|šā·’al-|in detail|H7592|V-Qal-Perf-3ms
 v7 הָ֠אִישׁ|hā·’îš|The man|H376|Art | N-ms
 v7 לָ֣נוּ|lā·nū|us|H0|Prep | 1cp
 v7 וּלְמֽוֹלַדְתֵּ֜נוּ|ū·lə·mō·w·laḏ·tê·nū|about ourselves and our family|H4138|Conj-w, Prep-l | N-fsc | 1cp
-v7 לֵאמֹ֗ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v7 לֵאמֹ֗ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v7 הַע֨וֹד|ha·‘ō·wḏ|still|H5750|Adv
 v7 אֲבִיכֶ֥ם|’ă·ḇî·ḵem|Is your father|H1|N-msc | 2mp
 v7 חַי֙|ḥay|alive|H2416|Adj-ms
@@ -102,7 +102,7 @@ v8 אָבִ֗יו|’ā·ḇîw|his father|H1|N-msc | 3ms
 v8 שִׁלְחָ֥ה|šil·ḥāh|Send|H7971|V-Qal-Imp-ms | 3fs
 v8 הַנַּ֛עַר|han·na·‘ar|the boy|H5288|Art | N-ms
 v8 אִתִּ֖י|’it·tî|with me|H854|Prep | 1cs
-v8 וְנָק֣וּמָה|wə·nā·qū·māh|vvv|H6965|Conj-w | V-Qal-Imperf.Cohort-1cp
+v8 וְנָק֣וּמָה|wə·nā·qū·māh|...|H6965|Conj-w | V-Qal-Imperf.Cohort-1cp
 v8 וְנֵלֵ֑כָה|wə·nê·lê·ḵāh|and we will go at once|H1980|Conj-w | V-Qal-ConjImperf.Cohort-1cp
 v8 וְנִֽחְיֶה֙|wə·niḥ·yeh|so that we may live|H2421|Conj-w | V-Qal-ConjImperf.h-1cp
 v8 וְלֹ֣א|wə·lō|and not|H3808|Conj-w | Adv-NegPrt
@@ -209,7 +209,7 @@ v15 לָקְח֥וּ|lā·qə·ḥū|...|H3947|V-Qal-Perf-3cp
 v15 בְיָדָ֖ם|ḇə·yā·ḏām|...|H3027|Prep-b | N-fsc | 3mp
 v15 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v15 בִּנְיָמִ֑ן|bin·yā·min|Benjamin as well|H1144|N-proper-ms
-v15 וַיָּקֻ֙מוּ֙|way·yā·qu·mū|vvv|H6965|Conj-w | V-Qal-ConsecImperf-3mp
+v15 וַיָּקֻ֙מוּ֙|way·yā·qu·mū|...|H6965|Conj-w | V-Qal-ConsecImperf-3mp
 v15 וַיֵּרְד֣וּ|way·yê·rə·ḏū|Then they hurried down|H3381|Conj-w | V-Qal-ConsecImperf-3mp
 v15 מִצְרַ֔יִם|miṣ·ra·yim|to Egypt|H4714|N-proper-fs
 v15 וַיַּֽעַמְד֖וּ|way·ya·‘am·ḏū|and stood|H5975|Conj-w | V-Qal-ConsecImperf-3mp
@@ -225,7 +225,7 @@ v16 לַֽאֲשֶׁ֣ר|la·’ă·šer|to the steward|H834|Prep-l | Pro-r
 v16 עַל־|‘al-|of|H5921|Prep
 v16 בֵּית֔וֹ|bê·ṯōw|his house|H1004|N-msc | 3ms
 v16 הָבֵ֥א|hā·ḇê|Take|H935|V-Hifil-Imp-ms
-v16 אֶת־|’eṯ-||H853|DirObjM
+v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 הָאֲנָשִׁ֖ים|hā·’ă·nā·šîm|these men|H582|Art | N-mp
 v16 הַבָּ֑יְתָה|hab·bā·yə·ṯāh|to my house|H1004|Art | N-ms | 3fs
 v16 וּטְבֹ֤חַ|ū·ṭə·ḇō·aḥ|Slaughter|H2873|Conj-w | V-Qal-Imp-ms
@@ -382,7 +382,7 @@ v27 וַיִּשְׁאַ֤ל|way·yiš·’al|He asked|H7592|Conj-w | V-Qal-Cons
 v27 לָהֶם֙|lā·hem|...|H0|Prep | 3mp
 v27 לְשָׁל֔וֹם|lə·šā·lō·wm|if they were well|H7965|Prep-l | N-ms
 v27 וַיֹּ֗אמֶר|way·yō·mer|and then he asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v27 הֲשָׁל֛וֹם|hă·šā·lō·wm|vvv|H7965|Art | N-ms
+v27 הֲשָׁל֛וֹם|hă·šā·lō·wm|...|H7965|Art | N-ms
 v27 אֲבִיכֶ֥ם|’ă·ḇî·ḵem|father|H1|N-msc | 2mp
 v27 הַזָּקֵ֖ן|haz·zā·qên|How is your elderly|H2205|Art | Adj-ms
 v27 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
@@ -437,9 +437,9 @@ v31 וַיֹּ֖אמֶר|way·yō·mer|he said|H559|Conj-w | V-Qal-ConsecImperf-
 v31 שִׂ֥ימוּ|śî·mū|Serve|H7760|V-Qal-Imp-mp
 v31 לָֽחֶם׃|lā·ḥem|the meal|H3899|N-ms
 v32 וַיָּשִׂ֥ימוּ|way·yā·śî·mū|They separately served|H7760|Conj-w | V-Qal-ConsecImperf-3mp
-v32 ל֛וֹ|lōw||H0|Prep | 3ms
+v32 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v32 לְבַדּ֖וֹ|lə·ḇad·dōw|Joseph|H905|Prep-l | N-msc | 3ms
-v32 וְלָהֶ֣ם|wə·lā·hem||H0|Conj-w | Prep | 3mp
+v32 וְלָהֶ֣ם|wə·lā·hem|-|H0|Conj-w | Prep | 3mp
 v32 לְבַדָּ֑ם|lə·ḇad·dām|[his brothers]|H905|Prep-l | N-msc | 3mp
 v32 וְלַמִּצְרִ֞ים|wə·lam·miṣ·rîm|and the Egyptians|H4713|Conj-w, Prep-l, Art | N-proper-mp
 v32 הָאֹכְלִ֤ים|hā·’ō·ḵə·lîm|They ate|H398|Art | V-Qal-Prtcpl-mp

@@ -52,7 +52,7 @@ v3 בִּרְצוֹתִי֙|bir·ṣō·w·ṯî|because of my delight|H7521|Pre
 v3 בְּבֵ֣ית|bə·ḇêṯ|in the house|H1004|Prep-b | N-msc
 v3 אֱלֹהַ֔י|’ĕ·lō·hay|of my God|H430|N-mpc | 1cs
 v3 יֶשׁ־|yeš-|...|H3426|Adv
-v3 לִ֥י|lî||H0|Prep | 1cs
+v3 לִ֥י|lî|-|H0|Prep | 1cs
 v3 סְגֻלָּ֖ה|sə·ḡul·lāh|my personal treasures|H5459|N-fs
 v3 זָהָ֣ב|zā·hāḇ|of gold|H2091|N-ms
 v3 וָכָ֑סֶף|wā·ḵā·sep̄|and silver|H3701|Conj-w | N-ms
@@ -78,7 +78,7 @@ v4 מְזֻקָּ֔ק|mə·zuq·qāq|of refined|H2212|V-Pual-Prtcpl-ms
 v4 לָט֖וּחַ|lā·ṭū·aḥ|to overlay|H2902|Prep-l | V-Qal-Inf
 v4 קִיר֥וֹת|qî·rō·wṯ|the walls|H7023|N-mpc
 v4 הַבָּתִּֽים׃|hab·bāt·tîm|of the buildings|H1004|Art | N-mp
-v5 לַזָּהָ֤ב|laz·zā·hāḇ|vvv|H2091|Prep-l, Art | N-ms
+v5 לַזָּהָ֤ב|laz·zā·hāḇ|...|H2091|Prep-l, Art | N-ms
 v5 לַזָּהָב֙|laz·zā·hāḇ|for the gold work|H2091|Prep-l, Art | N-ms
 v5 וְלַכֶּ֣סֶף|wə·lak·ke·sep̄|and the silver work|H3701|Conj-w, Prep-l, Art | N-ms
 v5 לַכֶּ֔סֶף|lak·ke·sep̄|...|H3701|Prep-l, Art | N-ms
@@ -110,16 +110,16 @@ v7 בֵּית־|bêṯ-|house|H1004|N-msc
 v7 הָאֱלֹהִ֗ים|hā·’ĕ·lō·hîm|of God's|H430|Art | N-mp
 v7 זָהָ֞ב|zā·hāḇ|of gold|H2091|N-ms
 v7 כִּכָּרִ֣ים|kik·kā·rîm|talents|H3603|N-fp
-v7 חֲמֵֽשֶׁת־|ḥă·mê·šeṯ-|5,000 {}|H2568|Number-msc
+v7 חֲמֵֽשֶׁת־|ḥă·mê·šeṯ-|5,000|H2568|Number-msc
 v7 אֲלָפִים֮|’ă·lā·p̄îm|...|H505|Number-mp
 v7 וַאֲדַרְכֹנִ֣ים|wa·’ă·ḏar·ḵō·nîm|darics|H150|Conj-w | N-mp
 v7 רִבּוֹ֒|rib·bōw|and 10,000|H7239|Number-fs
 v7 וְכֶ֗סֶף|wə·ḵe·sep̄|of silver|H3701|Conj-w | N-ms
 v7 כִּכָּרִים֙|kik·kā·rîm|talents|H3603|N-fp
-v7 עֲשֶׂ֣רֶת|‘ă·śe·reṯ|10,000 {}|H6235|Number-msc
+v7 עֲשֶׂ֣רֶת|‘ă·śe·reṯ|10,000|H6235|Number-msc
 v7 אֲלָפִ֔ים|’ă·lā·p̄îm|...|H505|Number-mp
 v7 וּנְחֹ֕שֶׁת|ū·nə·ḥō·šeṯ|of bronze|H5178|Conj-w | N-fs
-v7 רִבּ֛וֹ|rib·bōw|18,000 {}|H7239|Number-fs
+v7 רִבּ֛וֹ|rib·bōw|18,000|H7239|Number-fs
 v7 וּשְׁמוֹנַ֥ת|ū·šə·mō·w·naṯ|...|H8083|Conj-w | Number-msc
 v7 אֲלָפִ֖ים|’ă·lā·p̄îm|...|H505|Number-mp
 v7 כִּכָּרִ֑ים|kik·kā·rîm|talents|H3603|N-fp
@@ -143,7 +143,7 @@ v9 הָעָם֙|hā·‘ām|And the people|H5971|Art | N-ms
 v9 עַל־|‘al-|at|H5921|Prep
 v9 הִֽתְנַדְּבָ֔ם|hiṯ·nad·də·ḇām|the willing response of their leaders|H5068|V-Hitpael-Inf | 3mp
 v9 כִּ֚י|kî|for|H3588|Conj
-v9 בְּלֵ֣ב|bə·lêḇ|vvv|H3820|Prep-b | N-ms
+v9 בְּלֵ֣ב|bə·lêḇ|...|H3820|Prep-b | N-ms
 v9 שָׁלֵ֔ם|šā·lêm|and wholeheartedly|H8003|Adj-ms
 v9 הִֽתְנַדְּב֖וּ|hiṯ·nad·də·ḇū|they had given|H5068|V-Hitpael-Perf-3cp
 v9 לַיהוָ֑ה|Yah·weh|to the LORD {freely}|H3068|Prep-l | N-proper-ms
@@ -152,7 +152,7 @@ v9 דָּוִ֣יד|dā·wîḏ|David|H1732|N-proper-ms
 v9 הַמֶּ֔לֶךְ|ham·me·leḵ|And King|H4428|Art | N-ms
 v9 שָׂמַ֖ח|śā·maḥ|rejoiced|H8055|V-Qal-Perf-3ms
 v9 שִׂמְחָ֥ה|śim·ḥāh|...|H8057|N-fs
-v9 גְדוֹלָֽה׃פ|ḡə·ḏō·w·lāh|greatly|H1419|Adj-fs
+v9 גְדוֹלָֽה׃|ḡə·ḏō·w·lāh|greatly|H1419|Adj-fs
 v10 וַיְבָ֤רֶךְ|way·ḇā·reḵ|blessed|H1288|Conj-w | V-Piel-ConsecImperf-3ms
 v10 דָּוִיד֙|dā·wîḏ|Then David|H1732|N-proper-ms
 v10 אֶת־|’eṯ-|-|H853|DirObjM
@@ -205,7 +205,7 @@ v13 וְעַתָּ֣ה|wə·‘at·tāh|Now therefore|H6258|Conj-w | Adv
 v13 אֱלֹהֵ֔ינוּ|’ĕ·lō·hê·nū|our God|H430|N-mpc | 1cp
 v13 מוֹדִ֥ים|mō·w·ḏîm|give You thanks|H3034|V-Hifil-Prtcpl-mp
 v13 אֲנַ֖חְנוּ|’ă·naḥ·nū|we|H587|Pro-1cp
-v13 לָ֑ךְ|lāḵ|vvv|H0|Prep | 2fs
+v13 לָ֑ךְ|lāḵ|...|H0|Prep | 2fs
 v13 וּֽמְהַֽלְלִ֖ים|ū·mə·hal·lîm|and we praise|H1984|Conj-w | V-Piel-Prtcpl-mp
 v13 לְשֵׁ֥ם|lə·šêm|name|H8034|Prep-l | N-msc
 v13 תִּפְאַרְתֶּֽךָ׃|tip̄·’ar·te·ḵā|Your glorious|H8597|N-fsc | 2ms
@@ -306,7 +306,7 @@ v19 הַכֹּ֔ל|hak·kōl|all|H3605|Art | N-ms
 v19 וְלִבְנ֖וֹת|wə·liḇ·nō·wṯ|and to build|H1129|Conj-w, Prep-l | V-Qal-Inf
 v19 הַבִּירָ֥ה|hab·bî·rāh|[Your] palace|H1002|Art | N-fs
 v19 אֲשֶׁר־|’ă·šer-|for which|H834|Pro-r
-v19 הֲכִינֽוֹתִי׃פ|hă·ḵî·nō·w·ṯî|I have made provision|H3559|V-Hifil-Perf-1cs
+v19 הֲכִינֽוֹתִי׃|hă·ḵî·nō·w·ṯî|I have made provision|H3559|V-Hifil-Perf-1cs
 v20 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v20 דָּוִיד֙|dā·wîḏ|Then David|H1732|N-proper-ms
 v20 לְכָל־|lə·ḵāl|to the whole|H3605|Prep-l | N-msc
@@ -411,7 +411,7 @@ v25 כָּל־|kāl-|any|H3605|N-msc
 v25 מֶ֛לֶךְ|me·leḵ|king|H4428|N-ms
 v25 לְפָנָ֖יו|lə·p̄ā·nāw|before him|H6440|Prep-l | N-cpc | 3ms
 v25 עַל־|‘al-|in|H5921|Prep
-v25 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|Israel|H3478|N-proper-ms
+v25 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v26 וְדָוִיד֙|wə·ḏā·wîḏ|David|H1732|Conj-w | N-proper-ms
 v26 בֶּן־|ben-|son|H1121|N-msc
 v26 יִשָׁ֔י|yi·šāy|of Jesse|H3448|N-proper-ms
@@ -427,7 +427,7 @@ v27 יִשְׂרָאֵ֔ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v27 אַרְבָּעִ֖ים|’ar·bā·‘îm|[was] forty|H705|Number-cp
 v27 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
 v27 בְּחֶבְר֤וֹן|bə·ḥeḇ·rō·wn|in Hebron|H2275|Prep-b | N-proper-fs
-v27 מָלַךְ֙|mā·laḵ||H4427|V-Qal-Perf-3ms
+v27 מָלַךְ֙|mā·laḵ|-|H4427|V-Qal-Perf-3ms
 v27 שֶׁ֣בַע|še·ḇa‘|seven|H7651|Number-fs
 v27 שָׁנִ֔ים|šā·nîm|years|H8141|N-fp
 v27 וּבִירוּשָׁלִַ֥ם|ū·ḇî·rū·šā·lim|in Jerusalem|H3389|Conj-w, Prep-b | N-proper-fs
@@ -477,4 +477,4 @@ v30 יִשְׂרָאֵ֔ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v30 וְעַ֖ל|wə·‘al|[and]|H5921|Conj-w | Prep
 v30 כָּל־|kāl-|all|H3605|N-msc
 v30 מַמְלְכ֥וֹת|mam·lə·ḵō·wṯ|the kingdoms|H4467|N-fpc
-v30 הָאֲרָצֽוֹת׃פ|hā·’ă·rā·ṣō·wṯ|of the lands|H776|Art | N-fp
+v30 הָאֲרָצֽוֹת׃|hā·’ă·rā·ṣō·wṯ|of the lands|H776|Art | N-fp

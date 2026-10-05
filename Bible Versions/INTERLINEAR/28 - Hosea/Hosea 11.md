@@ -29,8 +29,8 @@ v4 אָדָ֤ם|’ā·ḏām|of kindness|H120|N-ms
 v4 אֶמְשְׁכֵם֙|’em·šə·ḵêm|I led them|H4900|V-Qal-Imperf-1cs | 3mp
 v4 בַּעֲבֹת֣וֹת|ba·‘ă·ḇō·ṯō·wṯ|with ropes|H5688|Prep-b | N-cpc
 v4 אַהֲבָ֔ה|’a·hă·ḇāh|of love|H160|N-fs
-v4 וָאֶהְיֶ֥ה|wā·’eh·yeh|vvv|H1961|Conj-w | V-Qal-ConsecImperf-1cs
-v4 לָהֶ֛ם|lā·hem|vvv|H0|Prep | 3mp
+v4 וָאֶהְיֶ֥ה|wā·’eh·yeh|...|H1961|Conj-w | V-Qal-ConsecImperf-1cs
+v4 לָהֶ֛ם|lā·hem|...|H0|Prep | 3mp
 v4 כִּמְרִ֥ימֵי|kim·rî·mê|I lifted|H7311|Prep-k | V-Hifil-Prtcpl-mpc
 v4 עֹ֖ל|‘ōl|the yoke|H5923|N-ms
 v4 עַ֣ל|‘al|from|H5921|Prep
@@ -78,7 +78,7 @@ v8 כִּצְבֹאיִ֑ם|kiṣ·ḇō·yim|you like Zeboiim|H6636|Prep-k | N-
 v8 נֶהְפַּ֤ךְ|neh·paḵ|is turned|H2015|V-Nifal-Perf-3ms
 v8 עָלַי֙|‘ā·lay|within Me|H5921|Prep | 1cs
 v8 לִבִּ֔י|lib·bî|My heart|H3820|N-msc | 1cs
-v8 יַ֖חַד|ya·ḥaḏ||H3162|Adv
+v8 יַ֖חַד|ya·ḥaḏ|-|H3162|Adv
 v8 נִכְמְר֥וּ|niḵ·mə·rū|is stirred|H3648|V-Nifal-Perf-3cp
 v8 נִחוּמָֽי׃|ni·ḥū·māy|My compassion|H5150|N-mpc | 1cs
 v9 לֹ֤א|lō|I will not|H3808|Adv-NegPrt
@@ -120,7 +120,7 @@ v11 וְהוֹשַׁבְתִּ֥ים|wə·hō·wō·šaḇ·tîm|Then I will set
 v11 עַל־|‘al-|in|H5921|Prep
 v11 בָּתֵּיהֶ֖ם|bāt·tê·hem|their homes|H1004|N-mpc | 3mp
 v11 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v11 יְהוָֽה׃ס|Yah·weh|the LORD|H3068|N-proper-ms
+v11 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v12 סְבָבֻ֤נִי|sə·ḇā·ḇu·nî|surrounds Me|H5437|V-Qal-Perf-3cp | 1cs
 v12 בְכַ֙חַשׁ֙|ḇə·ḵa·ḥaš|with lies|H3585|Prep-b | N-ms
 v12 אֶפְרַ֔יִם|’ep̄·ra·yim|Ephraim|H669|N-proper-ms

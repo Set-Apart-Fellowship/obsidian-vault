@@ -152,9 +152,9 @@ v9 לְשִׁבְתֵּ֑נוּ|lə·šiḇ·tê·nū|in which to live|H3427|Pre
 v9 וְכֶ֧רֶם|wə·ḵe·rem|any vineyards|H3754|Conj-w | N-ms
 v9 וְשָׂדֶ֛ה|wə·śā·ḏeh|or fields|H7704|Conj-w | N-ms
 v9 וָזֶ֖רַע|wā·ze·ra‘|or crops|H2233|Conj-w | N-ms
-v9 לֹ֥א|lō|vvv|H3808|Adv-NegPrt
+v9 לֹ֥א|lō|...|H3808|Adv-NegPrt
 v9 יִֽהְיֶה־|yih·yeh-|and we have not owned|H1961|V-Qal-Imperf-3ms
-v9 לָּֽנוּ׃|lā·nū||H0|Prep | 1cp
+v9 לָּֽנוּ׃|lā·nū|-|H0|Prep | 1cp
 v10 וַנֵּ֖שֶׁב|wan·nê·šeḇ|But we have lived|H3427|Conj-w | V-Qal-ConsecImperf-1cp
 v10 בָּֽאֳהָלִ֑ים|bā·’o·hā·lîm|in tents|H168|Prep-b | N-mp
 v10 וַנִּשְׁמַ֣ע|wan·niš·ma‘|and have obeyed|H8085|Conj-w | V-Qal-ConsecImperf-1cp
@@ -182,7 +182,7 @@ v11 וּמִפְּנֵ֖י|ū·mip·pə·nê|...|H6440|Conj-w, Prep-m | N-cpc
 v11 חֵ֣יל|ḥêl|...|H2428|N-msc
 v11 אֲרָ֑ם|’ă·rām|and the Arameans|H758|N-proper-fs
 v11 וַנֵּ֖שֶׁב|wan·nê·šeḇ|So we have remained|H3427|Conj-w | V-Qal-ConsecImperf-1cp
-v11 בִּירוּשָׁלִָֽם׃פ|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
+v11 בִּירוּשָׁלִָֽם׃|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v12 וַֽיְהִי֙|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v12 דְּבַר־|də·ḇar-|Then the word|H1697|N-msc
 v12 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -271,7 +271,7 @@ v15 לָכֶ֖ם|lā·ḵem|to you|H0|Prep | 2mp
 v15 וְלַאֲבֹֽתֵיכֶ֑ם|wə·la·’ă·ḇō·ṯê·ḵem|and your fathers|H1|Conj-w, Prep-l | N-mpc | 2mp
 v15 וְלֹ֤א|wə·lō|But you have not|H3808|Conj-w | Adv-NegPrt
 v15 הִטִּיתֶם֙|hiṭ·ṭî·ṯem|inclined|H5186|V-Hifil-Perf-2mp
-v15 אֶֽת־|’eṯ-||H853|DirObjM
+v15 אֶֽת־|’eṯ-|-|H853|DirObjM
 v15 אָזְנְכֶ֔ם|’ā·zə·nə·ḵem|your ear|H241|N-fsc | 2mp
 v15 וְלֹ֥א|wə·lō|[or]|H3808|Conj-w | Adv-NegPrt
 v15 שְׁמַעְתֶּ֖ם|šə·ma‘·tem|listened|H8085|V-Qal-Perf-2mp
@@ -285,13 +285,13 @@ v16 רֵכָ֔ב|rê·ḵāḇ|of Rechab|H7394|N-proper-ms
 v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 מִצְוַ֥ת|miṣ·waṯ|the command|H4687|N-fsc
 v16 אֲבִיהֶ֖ם|’ă·ḇî·hem|their forefather|H1|N-msc | 3mp
-v16 אֲשֶׁ֣ר|’ă·šer||H834|Pro-r
+v16 אֲשֶׁ֣ר|’ă·šer|-|H834|Pro-r
 v16 צִוָּ֑ם|ṣiw·wām|gave them|H6680|V-Piel-Perf-3ms | 3mp
 v16 וְהָעָ֣ם|wə·hā·‘ām|people|H5971|Conj-w, Art | N-ms
 v16 הַזֶּ֔ה|haz·zeh|but these|H2088|Art | Pro-ms
 v16 לֹ֥א|lō|have not|H3808|Adv-NegPrt
 v16 שָׁמְע֖וּ|šā·mə·‘ū|listened|H8085|V-Qal-Perf-3cp
-v16 אֵלָֽי׃ס|’ê·lāy|to Me|H413|Prep | 1cs
+v16 אֵלָֽי׃|’ê·lāy|to Me|H413|Prep | 1cs
 v17 לָ֠כֵן|lā·ḵên|Therefore|H3651|Adv
 v17 כֹּֽה־|kōh-|this is what|H3541|Adv
 v17 אָמַ֨ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -348,7 +348,7 @@ v18 וַֽתַּעֲשׂ֔וּ|wat·ta·‘ă·śū|and have done|H6213|Conj-w 
 v18 כְּכֹ֥ל|kə·ḵōl|all|H3605|Prep-k | N-ms
 v18 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v18 צִוָּ֖ה|ṣiw·wāh|he charged you to do|H6680|V-Piel-Perf-3ms
-v18 אֶתְכֶֽם׃ס|’eṯ·ḵem|-|H853|DirObjM | 2mp
+v18 אֶתְכֶֽם׃|’eṯ·ḵem|-|H853|DirObjM | 2mp
 v19 לָכֵ֗ן|lā·ḵên|-|H3651|Adv
 v19 כֹּ֥ה|kōh|this is what|H3541|Adv
 v19 אָמַ֛ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -365,4 +365,4 @@ v19 רֵכָ֛ב|rê·ḵāḇ|of Rechab|H7394|N-proper-ms
 v19 עֹמֵ֥ד|‘ō·mêḏ|to stand|H5975|V-Qal-Prtcpl-ms
 v19 לְפָנַ֖י|lə·p̄ā·nay|before Me|H6440|Prep-l | N-mpc | 1cs
 v19 כָּל־|kāl-|...|H3605|N-msc
-v19 הַיָּמִֽים׃פ|hay·yā·mîm|...|H3117|Art | N-mp
+v19 הַיָּמִֽים׃|hay·yā·mîm|...|H3117|Art | N-mp

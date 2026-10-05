@@ -88,7 +88,7 @@ v12 בְ֭אִבּוֹ|ḇə·’ib·bōw|the shoots|H3|Prep-b | N-msc | 3ms
 v12 לֹ֣א|lō|are still uncut|H3808|Adv-NegPrt
 v12 יִקָּטֵ֑ף|yiq·qā·ṭêp̄|...|H6998|V-Nifal-Imperf-3ms
 v12 וְלִפְנֵ֖י|wə·lip̄·nê|more quickly than|H6440|Conj-w, Prep-l | N-cpc
-v12 כָל־|ḵāl|vvv|H3605|N-msc
+v12 כָל־|ḵāl|...|H3605|N-msc
 v12 חָצִ֣יר|ḥā·ṣîr|grass|H2682|N-ms
 v12 יִיבָֽשׁ׃|yî·ḇāš|they dry up|H3001|V-Qal-Imperf-3ms
 v13 כֵּ֗ן|kên|Such|H3651|Adv
@@ -108,10 +108,10 @@ v14 מִבְטַחֽוֹ׃|miḇ·ṭa·ḥōw|his security|H4009|N-msc | 3ms
 v15 יִשָּׁעֵ֣ן|yiš·šā·‘ên|He leans|H8172|V-Nifal-Imperf-3ms
 v15 עַל־|‘al-|on|H5921|Prep
 v15 בֵּ֭יתוֹ|bê·ṯōw|his web|H1004|N-msc | 3ms
-v15 וְלֹ֣א|wə·lō|vvv|H3808|Conj-w | Adv-NegPrt
+v15 וְלֹ֣א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v15 יַעֲמֹ֑ד|ya·‘ă·mōḏ|but it gives way|H5975|V-Qal-Imperf-3ms
 v15 יַחֲזִ֥יק|ya·ḥă·zîq|he holds fast|H2388|V-Hifil-Imperf-3ms
-v15 בּ֝֗וֹ|bōw||H0|Prep | 3ms
+v15 בּ֝֗וֹ|bōw|-|H0|Prep | 3ms
 v15 וְלֹ֣א|wə·lō|but it does not|H3808|Conj-w | Adv-NegPrt
 v15 יָקֽוּם׃|yā·qūm|endure|H6965|V-Qal-Imperf-3ms
 v16 רָטֹ֣ב|rā·ṭōḇ|is a well-watered plant|H7373|Adj-ms
@@ -163,4 +163,4 @@ v22 יִלְבְּשׁוּ־|yil·bə·šū-|will be clothed|H3847|V-Qal-Imperf-
 v22 בֹ֑שֶׁת|ḇō·šeṯ|in shame|H1322|N-fs
 v22 וְאֹ֖הֶל|wə·’ō·hel|and the tent|H168|Conj-w | N-msc
 v22 רְשָׁעִ֣ים|rə·šā·‘îm|of the wicked|H7563|Adj-mp
-v22 אֵינֶֽנּוּ׃פ|’ê·nen·nū|will be no more|H369|Adv | 3ms
+v22 אֵינֶֽנּוּ׃|’ê·nen·nū|will be no more|H369|Adv | 3ms

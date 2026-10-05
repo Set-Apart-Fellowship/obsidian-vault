@@ -70,7 +70,7 @@ v5 בַיַּעַר֮|ḇay·ya·‘ar|into the forest|H3293|Prep-b, Art | N-ms
 v5 לַחְטֹ֣ב|laḥ·ṭōḇ|to cut|H2404|Prep-l | V-Qal-Inf
 v5 עֵצִים֒|‘ê·ṣîm|timber|H6086|N-mp
 v5 וְנִדְּחָ֨ה|wə·nid·də·ḥāh|and swings|H5080|Conj-w | V-Nifal-ConjPerf-3fs
-v5 יָד֤וֹ|yā·ḏōw|vvv|H3027|N-fsc | 3ms
+v5 יָד֤וֹ|yā·ḏōw|...|H3027|N-fsc | 3ms
 v5 בַגַּרְזֶן֙|ḇag·gar·zen|his axe|H1631|Prep-b, Art | N-ms
 v5 לִכְרֹ֣ת|liḵ·rōṯ|to chop down|H3772|Prep-l | V-Qal-Inf
 v5 הָעֵ֔ץ|hā·‘êṣ|a tree|H6086|Art | N-ms
@@ -93,7 +93,7 @@ v6 פֶּן־|pen-|Otherwise|H6435|Conj
 v6 יִרְדֹּף֩|yir·dōp̄|might pursue|H7291|V-Qal-Imperf-3ms
 v6 גֹּאֵ֨ל|gō·’êl|the avenger|H1350|V-Qal-Prtcpl-msc
 v6 הַדָּ֜ם|had·dām|of blood|H1818|Art | N-ms
-v6 אַחֲרֵ֣י|’a·ḥă·rê||H310|Prep
+v6 אַחֲרֵ֣י|’a·ḥă·rê|-|H310|Prep
 v6 הָרֹצֵ֗חַ|hā·rō·ṣê·aḥ|the manslayer|H7523|Art | V-Qal-Prtcpl-ms
 v6 כִּי־|kî-|-|H3588|Conj
 v6 יֵחַם֮|yê·ḥam|-|H2552|V-Qal-Imperf-3ms
@@ -112,7 +112,7 @@ v6 כִּ֠י|kî|since|H3588|Conj
 v6 לֹ֣א|lō|did not|H3808|Adv-NegPrt
 v6 שֹׂנֵ֥א|śō·nê|intend any harm|H8130|V-Qal-Prtcpl-ms
 v6 ה֛וּא|hū|he|H1931|Pro-3ms
-v6 ל֖וֹ|lōw||H0|Prep | 3ms
+v6 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v6 מִתְּמ֥וֹל|mit·tə·mō·wl|...|H8543|Prep-m | Adv
 v6 שִׁלְשֽׁוֹם׃|šil·šō·wm|...|H8032|Adv
 v7 עַל־|‘al-|This is why|H5921|Prep
@@ -123,7 +123,7 @@ v7 לֵאמֹ֑ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v7 שָׁלֹ֥שׁ|šā·lōš|three|H7969|Number-fs
 v7 עָרִ֖ים|‘ā·rîm|cities|H5892|N-fp
 v7 תַּבְדִּ֥יל|taḇ·dîl|you to set apart|H914|V-Hifil-Imperf-2ms
-v7 לָֽךְ׃ס|lāḵ|for yourselves|H0|Prep | 2ms
+v7 לָֽךְ׃|lāḵ|for yourselves|H0|Prep | 2ms
 v8 וְאִם־|wə·’im-|And if|H518|Conj
 v8 יַרְחִ֞יב|yar·ḥîḇ|enlarges|H7337|V-Hifil-Imperf-3ms
 v8 יְהוָ֤ה|Yah·weh|the LORD|H3068|N-proper-ms
@@ -162,7 +162,7 @@ v9 בִּדְרָכָ֖יו|biḏ·rā·ḵāw|in His ways|H1870|Prep-b | N-cpc 
 v9 כָּל־|kāl-|at all times|H3605|N-msc
 v9 הַיָּמִ֑ים|hay·yā·mîm|...|H3117|Art | N-mp
 v9 וְיָסַפְתָּ֨|wə·yā·sap̄·tā|then you are to add|H3254|Conj-w | V-Qal-ConjPerf-2ms
-v9 לְךָ֥|lə·ḵā||H0|Prep | 2ms
+v9 לְךָ֥|lə·ḵā|-|H0|Prep | 2ms
 v9 עוֹד֙|‘ō·wḏ|more|H5750|Adv
 v9 שָׁלֹ֣שׁ|šā·lōš|three|H7969|Number-fs
 v9 עָרִ֔ים|‘ā·rîm|cities|H5892|N-fp
@@ -183,14 +183,14 @@ v10 לְךָ֖|lə·ḵā|you|H0|Prep | 2ms
 v10 נַחֲלָ֑ה|na·ḥă·lāh|[as] an inheritance|H5159|N-fs
 v10 וְהָיָ֥ה|wə·hā·yāh|so that you will not be|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v10 עָלֶ֖יךָ|‘ā·le·ḵā|...|H5921|Prep | 2ms
-v10 דָּמִֽים׃ס|dā·mîm|guilty of bloodshed|H1818|N-mp
+v10 דָּמִֽים׃|dā·mîm|guilty of bloodshed|H1818|N-mp
 v11 וְכִֽי־|wə·ḵî-|If, however|H3588|Conj
 v11 יִהְיֶ֥ה|yih·yeh|...|H1961|V-Qal-Imperf-3ms
 v11 אִישׁ֙|’îš|a man|H376|N-ms
 v11 שֹׂנֵ֣א|śō·nê|hates|H8130|V-Qal-Prtcpl-ms
 v11 לְרֵעֵ֔הוּ|lə·rê·‘ê·hū|his neighbor|H7453|Prep-l | N-msc | 3ms
 v11 וְאָ֤רַב|wə·’ā·raḇ|and lies in wait|H693|Conj-w | V-Qal-ConjPerf-3ms
-v11 לוֹ֙|lōw||H0|Prep | 3ms
+v11 לוֹ֙|lōw|-|H0|Prep | 3ms
 v11 וְקָ֣ם|wə·qām|attacks|H6965|Conj-w | V-Qal-ConjPerf-3ms
 v11 עָלָ֔יו|‘ā·lāw|him|H5921|Prep | 3ms
 v11 וְהִכָּ֥הוּ|wə·hik·kā·hū|and kills him|H5221|Conj-w | V-Hifil-ConjPerf-3ms | 3ms
@@ -213,7 +213,7 @@ v12 בְּיַ֛ד|bə·yaḏ|-|H3027|Prep-b | N-fsc
 v12 גֹּאֵ֥ל|gō·’êl|the avenger|H1350|V-Qal-Prtcpl-msc
 v12 הַדָּ֖ם|had·dām|of blood|H1818|Art | N-ms
 v12 וָמֵֽת׃|wā·mêṯ|to die|H4191|Conj-w | V-Qal-ConjPerf-3ms
-v13 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v13 לֹא־|lō-|...|H3808|Adv-NegPrt
 v13 תָח֥וֹס|ṯā·ḥō·ws|You must show him no pity|H2347|V-Qal-Imperf-3fs
 v13 עֵֽינְךָ֖|‘ê·nə·ḵā|...|H5869|N-csc | 2ms
 v13 עָלָ֑יו|‘ā·lāw|...|H5921|Prep | 3ms
@@ -222,7 +222,7 @@ v13 דַֽם־|ḏam-|blood|H1818|N-msc
 v13 הַנָּקִ֛י|han·nā·qî|the guilt of shedding innocent|H5355|Art | Adj-ms
 v13 מִיִּשְׂרָאֵ֖ל|mî·yiś·rā·’êl|from Israel|H3478|Prep-m | N-proper-ms
 v13 וְט֥וֹב|wə·ṭō·wḇ|that it may go well|H2896|Conj-w | Adj-ms
-v13 לָֽךְ׃ס|lāḵ|with you|H0|Prep | 2ms
+v13 לָֽךְ׃|lāḵ|with you|H0|Prep | 2ms
 v14 לֹ֤א|lō|You must not|H3808|Adv-NegPrt
 v14 תַסִּיג֙|ṯas·sîḡ|move|H5253|V-Hifil-Imperf-2ms
 v14 גְּב֣וּל|gə·ḇūl|boundary marker|H1366|N-msc
@@ -239,7 +239,7 @@ v14 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v14 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v14 נֹתֵ֥ן|nō·ṯên|is giving|H5414|V-Qal-Prtcpl-ms
 v14 לְךָ֖|lə·ḵā|you|H0|Prep | 2ms
-v14 לְרִשְׁתָּֽהּ׃ס|lə·riš·tāh|to possess|H3423|Prep-l | V-Qal-Inf | 3fs
+v14 לְרִשְׁתָּֽהּ׃|lə·riš·tāh|to possess|H3423|Prep-l | V-Qal-Inf | 3fs
 v15 לֹֽא־|lō-|is not sufficient|H3808|Adv-NegPrt
 v15 יָקוּם֩|yā·qūm|to establish|H6965|V-Qal-Imperf-3ms
 v15 עֵ֨ד|‘êḏ|witness|H5707|N-ms
@@ -276,7 +276,7 @@ v17 וְעָמְד֧וּ|wə·‘ā·mə·ḏū|must stand|H5975|Conj-w | V-Qal-
 v17 שְׁנֵֽי־|šə·nê-|both|H8147|Number-mdc
 v17 הָאֲנָשִׁ֛ים|hā·’ă·nā·šîm|parties|H582|Art | N-mp
 v17 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
-v17 לָהֶ֥ם|lā·hem||H0|Prep-l | Pro-3mp
+v17 לָהֶ֥ם|lā·hem|-|H0|Prep-l | Pro-3mp
 v17 הָרִ֖יב|hā·rîḇ|to the dispute|H7379|Art | N-ms
 v17 לִפְנֵ֣י|lip̄·nê|in the presence|H6440|Prep-l | N-cpc
 v17 יְהוָ֑ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -329,4 +329,4 @@ v21 בְּשֵׁ֔ן|bə·šên|for tooth|H8127|Prep-b | N-cs
 v21 יָ֥ד|yāḏ|hand|H3027|N-fs
 v21 בְּיָ֖ד|bə·yāḏ|for hand|H3027|Prep-b | N-fs
 v21 רֶ֥גֶל|re·ḡel|[and] foot|H7272|N-fs
-v21 בְּרָֽגֶל׃ס|bə·rā·ḡel|for foot|H7272|Prep-b | N-fs
+v21 בְּרָֽגֶל׃|bə·rā·ḡel|for foot|H7272|Prep-b | N-fs

@@ -26,7 +26,7 @@ v3 מִן־|min-|-|H4480|Prep
 v3 בְּנֵ֣י|bə·nê|descendant|H1121|N-mpc
 v3 אֶלְעָזָ֔ר|’el·‘ā·zār|With the help of Eleazar's|H499|N-proper-ms
 v3 וַאֲחִימֶ֖לֶךְ|wa·’ă·ḥî·me·leḵ|Ahimelech|H288|Conj-w | N-proper-ms
-v3 מִן־|min-||H4480|Prep
+v3 מִן־|min-|-|H4480|Prep
 v3 בְּנֵ֣י|bə·nê|descendant|H1121|N-mpc
 v3 אִיתָמָ֑ר|’î·ṯā·mār|and Ithamar's|H385|N-proper-ms
 v3 לִפְקֻדָּתָ֖ם|lip̄·qud·dā·ṯām|according to the offices|H6486|Prep-l | N-fsc | 3mp
@@ -67,7 +67,7 @@ v5 הָאֱלֹהִ֔ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v5 מִבְּנֵ֥י|mib·bə·nê|descendants|H1121|Prep-m | N-mpc
 v5 אֶלְעָזָ֖ר|’el·‘ā·zār|among both Eleazar's|H499|N-proper-ms
 v5 וּבִבְנֵ֥י|ū·ḇiḇ·nê|...|H1121|Conj-w, Prep-b | N-mpc
-v5 אִיתָמָֽר׃ס|’î·ṯā·mār|and Ithamar's|H385|N-proper-ms
+v5 אִיתָמָֽר׃|’î·ṯā·mār|and Ithamar's|H385|N-proper-ms
 v6 וַֽיִּכְתְּבֵ֡ם|way·yiḵ·tə·ḇêm|recorded [their names]|H3789|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
 v6 שְֽׁמַֽעְיָה֩|šə·ma‘·yāh|Shemaiah|H8098|N-proper-ms
 v6 בֶן־|ḇen-|son|H1121|N-msc
@@ -94,7 +94,7 @@ v6 אָחֻז֙|’ā·ḥuz|being taken|H270|V-Qal-QalPassPrtcpl-ms
 v6 לְאֶלְעָזָ֔ר|lə·’el·‘ā·zār|from Eleazar|H499|Prep-l | N-proper-ms
 v6 וְאָחֻ֥ז׀|wə·’ā·ḥuz|...|H270|Conj-w | V-Qal-QalPassPrtcpl-ms
 v6 אָחֻ֖ז|’ā·ḥuz|and then one|H270|V-Qal-QalPassPrtcpl-ms
-v6 לְאִיתָמָֽר׃פ|lə·’î·ṯā·mār|from Ithamar|H385|Prep-l | N-proper-ms
+v6 לְאִיתָמָֽר׃|lə·’î·ṯā·mār|from Ithamar|H385|Prep-l | N-proper-ms
 v7 וַיֵּצֵ֞א|way·yê·ṣê|fell|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v7 הַגּוֹרָ֤ל|hag·gō·w·rāl|lot|H1486|Art | N-ms
 v7 הָרִאשׁוֹן֙|hā·ri·šō·wn|The first|H7223|Art | Adj-ms
@@ -157,7 +157,7 @@ v18 שְׁלֹשָׁ֣ה|šə·lō·šāh|the twenty-third|H7969|Number-ms
 v18 וְעֶשְׂרִ֔ים|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
 v18 לְמַֽעַזְיָ֖הוּ|lə·ma·‘az·yā·hū|to Maaziah|H4590|Prep-l | N-proper-ms
 v18 אַרְבָּעָ֥ה|’ar·bā·‘āh|and the twenty-fourth|H702|Number-ms
-v18 וְעֶשְׂרִֽים׃פ|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
+v18 וְעֶשְׂרִֽים׃|wə·‘eś·rîm|...|H6242|Conj-w | Number-cp
 v19 אֵ֣לֶּה|’êl·leh|This was|H428|Pro-cp
 v19 פְקֻדָּתָ֞ם|p̄ə·qud·dā·ṯām|their appointed order|H6486|N-fsc | 3mp
 v19 לַעֲבֹדָתָ֗ם|la·‘ă·ḇō·ḏā·ṯām|for service|H5656|Prep-l | N-fsc | 3mp
@@ -172,7 +172,7 @@ v19 כַּאֲשֶׁ֣ר|ka·’ă·šer|as|H834|Prep-k | Pro-r
 v19 צִוָּ֔הוּ|ṣiw·wā·hū|had commanded him|H6680|V-Piel-Perf-3ms | 3ms
 v19 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v19 אֱלֹהֵ֥י|’ĕ·lō·hê|the God|H430|N-mpc
-v19 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v19 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v20 וְלִבְנֵ֥י|wə·liḇ·nê|descendants|H1121|Conj-w, Prep-l | N-mpc
 v20 לֵוִ֖י|lê·wî|of Levi|H3878|N-proper-ms
 v20 הַנּוֹתָרִ֑ים|han·nō·w·ṯā·rîm|Now [these were] the rest of the|H3498|Art | V-Nifal-Prtcpl-mp
@@ -230,7 +230,7 @@ v28 לְמַחְלִי֙|lə·maḥ·lî|From Mahli|H4249|Prep-l | N-proper-ms
 v28 אֶלְעָזָ֔ר|’el·‘ā·zār|Eleazar|H499|N-proper-ms
 v28 וְלֹא־|wə·lō-|no|H3808|Conj-w | Adv-NegPrt
 v28 הָ֥יָה|hā·yāh|who had|H1961|V-Qal-Perf-3ms
-v28 ל֖וֹ|lōw||H0|Prep | 3ms
+v28 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v28 בָּנִֽים׃|bā·nîm|sons|H1121|N-mp
 v29 לְקִ֖ישׁ|lə·qîš|From Kish|H7027|Prep-l | N-proper-ms
 v29 בְּנֵי־|bə·nê-|the son|H1121|N-mpc
@@ -267,4 +267,4 @@ v31 אָב֣וֹת|’ā·ḇō·wṯ|the family|H1|N-mp
 v31 הָרֹ֔אשׁ|hā·rōš|heads|H7218|Art | N-ms
 v31 לְעֻמַּ֖ת|lə·‘um·maṯ|alike|H5980|Prep-l
 v31 אָחִ֥יו|’ā·ḥîw|brothers|H251|N-msc | 3ms
-v31 הַקָּטָֽן׃ס|haq·qā·ṭān|and their younger|H6996|Art | Adj-ms
+v31 הַקָּטָֽן׃|haq·qā·ṭān|and their younger|H6996|Art | Adj-ms

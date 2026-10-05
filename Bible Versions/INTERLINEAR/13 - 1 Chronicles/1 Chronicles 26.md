@@ -23,7 +23,7 @@ v3 יְהוֹחָנָ֣ן|yə·hō·w·ḥā·nān|Jehohanan|H3076|N-proper-ms
 v3 הַשִּׁשִּׁ֔י|haš·šiš·šî|the sixth|H8345|Art | Number-oms
 v3 אֶלְיְהוֹעֵינַ֖י|’el·yə·hō·w·‘ê·nay|and Eliehoenai|H454|N-proper-ms
 v3 הַשְּׁבִיעִֽי׃|haš·šə·ḇî·‘î|the seventh|H7637|Art | Number-oms
-v4 וּלְעֹבֵ֥ד|ū·lə·‘ō·ḇêḏ|vvv|H5654|
+v4 וּלְעֹבֵ֥ד|ū·lə·‘ō·ḇêḏ|...|H5654|
 v4 אֱדֹ֖ם|’ĕ·ḏōm|And Obed-edom|H5654|Conj-w, Prep | N-proper-ms
 v4 בָּנִ֑ים|bā·nîm|also had sons|H1121|N-mp
 v4 שְׁמַֽעְיָ֤ה|šə·ma‘·yāh|Shemaiah|H8098|N-proper-ms
@@ -44,7 +44,7 @@ v5 פְּעֻלְּתַ֖י|pə·‘ul·lə·ṯay|and Peullethai|H6469|N-proper
 v5 הַשְּׁמִינִ֑י|haš·šə·mî·nî|the eighth|H8066|Art | Number-oms
 v5 כִּ֥י|kî|For|H3588|Conj
 v5 בֵרֲכ֖וֹ|ḇê·ră·ḵōw|had blessed [Obed-edom]|H1288|V-Piel-Perf-3ms | 3ms
-v5 אֱלֹהִֽים׃פ|’ĕ·lō·hîm|God|H430|N-mp
+v5 אֱלֹהִֽים׃|’ĕ·lō·hîm|God|H430|N-mp
 v6 וְלִֽשְׁמַֽעְיָ֤ה|wə·liš·ma‘·yāh|Shemaiah|H8098|Conj-w, Prep-l | N-proper-ms
 v6 בְנוֹ֙|ḇə·nōw|Also to his son|H1121|N-msc | 3ms
 v6 נוֹלַ֣ד|nō·w·laḏ|were born|H3205|V-Nifal-Perf-3ms
@@ -70,7 +70,7 @@ v7 וּסְמַכְיָֽהוּ׃|ū·sə·maḵ·yā·hū|and Semachiah|H5565|C
 v8 כָּל־|kāl-|All|H3605|N-msc
 v8 אֵ֜לֶּה|’êl·leh|these [were]|H428|Pro-cp
 v8 מִבְּנֵ֣י׀|mib·bə·nê|descendants|H1121|Prep-m | N-mpc
-v8 עֹבֵ֣ד|‘ō·ḇêḏ|vvv|H5654|
+v8 עֹבֵ֣ד|‘ō·ḇêḏ|...|H5654|
 v8 אֱדֹ֗ם|’ĕ·ḏōm|of Obed-edom|H5654|N-proper-ms
 v8 הֵ֤מָּה|hêm·māh|they|H1992|Pro-3mp
 v8 וּבְנֵיהֶם֙|ū·ḇə·nê·hem|and their sons|H1121|Conj-w | N-mpc | 3mp
@@ -89,7 +89,7 @@ v9 וְאַחִ֛ים|wə·’a·ḥîm|and brothers|H251|Conj-w | N-mp
 v9 בְּנֵי־|bə·nê-|men|H1121|N-mpc
 v9 חָ֖יִל|ḥā·yil|who were capable|H2428|N-ms
 v9 שְׁמוֹנָ֥ה|šə·mō·w·nāh|18 [in all]|H8083|Number-ms
-v9 עָשָֽׂר׃ס|‘ā·śār|...|H6240|Number-ms
+v9 עָשָֽׂר׃|‘ā·śār|...|H6240|Number-ms
 v10 וּלְחֹסָ֥ה|ū·lə·ḥō·sāh|Hosah|H2621|Conj-w, Prep-l | N-proper-ms
 v10 מִן־|min-|-|H4480|Prep
 v10 בְּנֵי־|bə·nê-|the Merarite|H1121|N-mpc
@@ -134,7 +134,7 @@ v13 כַּגָּד֛וֹל|kag·gā·ḏō·wl|and old alike|H1419|Prep-k, Art |
 v13 לְבֵ֥ית|lə·ḇêṯ|...|H1004|Prep-l | N-msc
 v13 אֲבוֹתָ֖ם|’ă·ḇō·w·ṯām|according to their families|H1|N-mpc | 3mp
 v13 לְשַׁ֥עַר|lə·ša·‘ar|for each gate|H8179|Prep-l | N-ms
-v13 וָשָֽׁעַר׃פ|wā·šā·‘ar|...|H8179|Conj-w | N-ms
+v13 וָשָֽׁעַר׃|wā·šā·‘ar|...|H8179|Conj-w | N-ms
 v14 וַיִּפֹּ֧ל|way·yip·pōl|fell|H5307|Conj-w | V-Qal-ConsecImperf-3ms
 v14 הַגּוֹרָ֛ל|hag·gō·w·rāl|The lot|H1486|Art | N-ms
 v14 מִזְרָ֖חָה|miz·rā·ḥāh|for the East [Gate]|H4217|N-ms | 3fs
@@ -147,7 +147,7 @@ v14 הִפִּ֙ילוּ֙|hip·pî·lū|were cast|H5307|V-Hifil-Perf-3cp
 v14 גּֽוֹרָל֔וֹת|gō·w·rā·lō·wṯ|Then lots|H1486|N-mp
 v14 וַיֵּצֵ֥א|way·yê·ṣê|fell to him|H3318|Conj-w | V-Qal-ConsecImperf-3ms
 v14 גוֹרָל֖וֹ|ḡō·w·rā·lōw|and the lot|H1486|N-msc | 3ms
-v14 צָפֽוֹנָה׃ס|ṣā·p̄ō·w·nāh|for the North Gate|H6828|N-fs | 3fs
+v14 צָפֽוֹנָה׃|ṣā·p̄ō·w·nāh|for the North Gate|H6828|N-fs | 3fs
 v15 לְעֹבֵ֥ד|lə·‘ō·ḇêḏ|[fell] to|H5654|Prep
 v15 אֱדֹ֖ם|’ĕ·ḏōm|Obed-edom|H5654|Prep | N-proper-ms
 v15 נֶ֑גְבָּה|neḡ·bāh|[The lot for] the South [Gate]|H5045|N-ms | 3fs
@@ -285,7 +285,7 @@ v28 הַמַּקְדִּ֔ישׁ|ham·maq·dîš|that was dedicated|H6942|Art | 
 v28 עַ֥ל|‘al|was under|H5921|Prep
 v28 יַד־|yaḏ-|the care|H3027|N-fsc
 v28 שְׁלֹמִ֖ית|šə·lō·mîṯ|of Shelomith|H8019|N-proper-fs
-v28 וְאֶחָֽיו׃פ|wə·’e·ḥāw|and his brothers|H251|Conj-w | N-mpc | 3ms
+v28 וְאֶחָֽיו׃|wə·’e·ḥāw|and his brothers|H251|Conj-w | N-mpc | 3ms
 v29 לַיִּצְהָרִ֞י|lay·yiṣ·hā·rî|From the Izharites|H3325|Prep-l, Art | N-proper-ms
 v29 כְּנַנְיָ֣הוּ|kə·nan·yā·hū|Chenaniah|H3663|N-proper-ms
 v29 וּבָנָ֗יו|ū·ḇā·nāw|and his sons|H1121|Conj-w | N-mpc | 3ms
@@ -352,4 +352,4 @@ v32 לְכָל־|lə·ḵāl|for every|H3605|Prep-l | N-msc
 v32 דְּבַ֥ר|də·ḇar|matter [pertaining to]|H1697|N-msc
 v32 הָאֱלֹהִ֖ים|hā·’ĕ·lō·hîm|God|H430|Art | N-mp
 v32 וּדְבַ֥ר|ū·ḏə·ḇar|and for the affairs|H1697|Conj-w | N-msc
-v32 הַמֶּֽלֶךְ׃פ|ham·me·leḵ|of the king|H4428|Art | N-ms
+v32 הַמֶּֽלֶךְ׃|ham·me·leḵ|of the king|H4428|Art | N-ms

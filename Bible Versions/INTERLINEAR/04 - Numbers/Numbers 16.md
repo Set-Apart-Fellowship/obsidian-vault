@@ -13,13 +13,13 @@ v1 אֱלִיאָ֛ב|’ĕ·lî·’āḇ|of Eliab|H446|N-proper-ms
 v1 וְא֥וֹן|wə·’ō·wn|and On|H203|Conj-w | N-proper-ms
 v1 בֶּן־|ben-|son|H1121|N-msc
 v1 פֶּ֖לֶת|pe·leṯ|of Peleth|H6431|N-proper-ms
-v1 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v1 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v1 רְאוּבֵֽן׃|rə·’ū·ḇên|along with some Reubenites|H7205|N-proper-ms
 v2 וַיָּקֻ֙מוּ֙|way·yā·qu·mū|a rebellion|H6965|Conj-w | V-Qal-ConsecImperf-3mp
 v2 לִפְנֵ֣י|lip̄·nê|against|H6440|Prep-l | N-cpc
 v2 מֹשֶׁ֔ה|mō·šeh|Moses|H4872|N-proper-ms
 v2 וַאֲנָשִׁ֥ים|wa·’ă·nā·šîm|...|H582|Conj-w | N-mp
-v2 מִבְּנֵֽי־|mib·bə·nê-|vvv|H1121|Prep-m | N-mpc
+v2 מִבְּנֵֽי־|mib·bə·nê-|...|H1121|Prep-m | N-mpc
 v2 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v2 חֲמִשִּׁ֣ים|ḥă·miš·šîm|along with 250|H2572|Number-cp
 v2 וּמָאתָ֑יִם|ū·mā·ṯā·yim|...|H3967|Conj-w | Number-fd
@@ -75,13 +75,13 @@ v5 אֵלָ֑יו|’ê·lāw|to Himself|H413|Prep | 3ms
 v5 וְאֵ֛ת|wə·’êṯ|-|H853|Conj-w | DirObjM
 v5 אֲשֶׁ֥ר|’ă·šer|The one|H834|Pro-r
 v5 יִבְחַר־|yiḇ·ḥar-|He chooses|H977|V-Qal-Imperf-3ms
-v5 בּ֖וֹ|bōw||H0|Prep | 3ms
+v5 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v5 יַקְרִ֥יב|yaq·rîḇ|He will bring near|H7126|V-Hifil-Imperf-3ms
 v5 אֵלָֽיו׃|’ê·lāw|to Himself|H413|Prep | 3ms
 v6 זֹ֖את|zōṯ|as follows|H2063|Pro-fs
 v6 עֲשׂ֑וּ|‘ă·śū|are to do|H6213|V-Qal-Imp-mp
 v6 קְחוּ־|qə·ḥū-|Take|H3947|V-Qal-Imp-mp
-v6 לָכֶ֣ם|lā·ḵem||H0|Prep | 2mp
+v6 לָכֶ֣ם|lā·ḵem|-|H0|Prep | 2mp
 v6 מַחְתּ֔וֹת|maḥ·tō·wṯ|censers|H4289|N-fp
 v6 קֹ֖רַח|qō·raḥ|[You,] Korah|H7141|N-proper-ms
 v6 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
@@ -284,7 +284,7 @@ v19 כְבוֹד־|ḵə·ḇō·wḏ-|the glory|H3519|N-msc
 v19 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v19 אֶל־|’el-|to|H413|Prep
 v19 כָּל־|kāl-|the whole|H3605|N-msc
-v19 הָעֵדָֽה׃פ|hā·‘ê·ḏāh|congregation|H5712|Art | N-fs
+v19 הָעֵדָֽה׃|hā·‘ê·ḏāh|congregation|H5712|Art | N-fs
 v20 וַיְדַבֵּ֣ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v20 יְהוָ֔ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v20 אֶל־|’el-|to|H413|Prep
@@ -314,7 +314,7 @@ v22 יֶחֱטָ֔א|ye·ḥĕ·ṭā|sins|H2398|V-Qal-Imperf-3ms
 v22 וְעַ֥ל|wə·‘al|with|H5921|Conj-w | Prep
 v22 כָּל־|kāl-|the whole|H3605|N-msc
 v22 הָעֵדָ֖ה|hā·‘ê·ḏāh|congregation|H5712|Art | N-fs
-v22 תִּקְצֹֽף׃פ|tiq·ṣōp̄|will You be angry|H7107|V-Qal-Imperf-2ms
+v22 תִּקְצֹֽף׃|tiq·ṣōp̄|will You be angry|H7107|V-Qal-Imperf-2ms
 v23 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v23 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v23 אֶל־|’el-|to|H413|Prep
@@ -460,7 +460,7 @@ v33 וַיֵּ֨רְד֜וּ|way·yê·rə·ḏū|went down|H3381|Conj-w | V-Qal
 v33 הֵ֣ם|hêm|They|H1992|Pro-3mp
 v33 וְכָל־|wə·ḵāl|with all|H3605|Conj-w | N-msc
 v33 אֲשֶׁ֥ר|’ă·šer|they owned|H834|Pro-r
-v33 לָהֶ֛ם|lā·hem||H0|Prep | 3mp
+v33 לָהֶ֛ם|lā·hem|-|H0|Prep | 3mp
 v33 חַיִּ֖ים|ḥay·yîm|alive|H2416|N-mp
 v33 שְׁאֹ֑לָה|šə·’ō·lāh|into Sheol|H7585|N-cs | 3fs
 v33 וַתְּכַ֤ס|wat·tə·ḵas|closed|H3680|Conj-w | V-Piel-ConsecImperf-3fs
@@ -490,7 +490,7 @@ v35 הַחֲמִשִּׁ֤ים|ha·ḥă·miš·šîm|the 250|H2572|Art | Numbe
 v35 וּמָאתַ֙יִם֙|ū·mā·ṯa·yim|...|H3967|Conj-w | Number-fd
 v35 אִ֔ישׁ|’îš|men|H376|N-ms
 v35 מַקְרִיבֵ֖י|maq·rî·ḇê|who were offering|H7126|V-Hifil-Prtcpl-mpc
-v35 הַקְּטֹֽרֶת׃פ|haq·qə·ṭō·reṯ|the incense|H7004|Art | N-fs
+v35 הַקְּטֹֽרֶת׃|haq·qə·ṭō·reṯ|the incense|H7004|Art | N-fs
 v36 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v36 יְהוָ֖ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v36 אֶל־|’el-|to|H413|Prep
@@ -518,8 +518,8 @@ v38 מַחְתּוֹת֩|maḥ·tō·wṯ|As for the censers|H4289|N-fpc
 v38 הַֽחַטָּאִ֨ים|ha·ḥaṭ·ṭā·’îm|who sinned|H2400|Art | Adj-mp
 v38 הָאֵ֜לֶּה|hā·’êl·leh|of those|H428|Art | Pro-cp
 v38 בְּנַפְשֹׁתָ֗ם|bə·nap̄·šō·ṯām|at the cost of their own lives|H5315|Prep-b | N-fpc | 3mp
-v38 וְעָשׂ֨וּ|wə·‘ā·śū|vvv|H6213|Conj-w | V-Qal-ConjPerf-3cp
-v38 אֹתָ֜ם|’ō·ṯām|vvv|H853|DirObjM | 3mp
+v38 וְעָשׂ֨וּ|wə·‘ā·śū|...|H6213|Conj-w | V-Qal-ConjPerf-3cp
+v38 אֹתָ֜ם|’ō·ṯām|...|H853|DirObjM | 3mp
 v38 רִקֻּעֵ֤י|riq·qu·‘ê|hammer them into|H7555|N-mpc
 v38 פַחִים֙|p̄a·ḥîm|sheets|H6341|N-mp
 v38 צִפּ֣וּי|ṣip·pui|to overlay|H6826|N-ms
@@ -572,7 +572,7 @@ v40 דִּבֶּ֧ר|dib·ber|commanded him|H1696|V-Piel-Perf-3ms
 v40 יְהוָ֛ה|Yah·weh|the LORD|H3068|N-proper-ms
 v40 בְּיַד־|bə·yaḏ-|through|H3027|Prep-b | N-fsc
 v40 מֹשֶׁ֖ה|mō·šeh|Moses|H4872|N-proper-ms
-v40 לֽוֹ׃|lōw||H0|Prep | 3ms
+v40 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v41 וַיִּלֹּ֜נוּ|way·yil·lō·nū|grumbled|H3885|Conj-w | V-Nifal-ConsecImperf-3mp
 v41 כָּל־|kāl-|the whole|H3605|N-msc
 v41 עֲדַ֤ת|‘ă·ḏaṯ|congregation|H5712|N-fsc
@@ -612,7 +612,7 @@ v43 וְאַהֲרֹ֔ן|wə·’a·hă·rōn|and Aaron|H175|Conj-w | N-proper-
 v43 אֶל־|’el-|to|H413|Prep
 v43 פְּנֵ֖י|pə·nê|the front|H6440|N-cpc
 v43 אֹ֥הֶל|’ō·hel|of the Tent|H168|N-msc
-v43 מוֹעֵֽד׃פ|mō·w·‘êḏ|of Meeting|H4150|N-ms
+v43 מוֹעֵֽד׃|mō·w·‘êḏ|of Meeting|H4150|N-ms
 v44 וַיְדַבֵּ֥ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v44 יְהוָ֖ה|Yah·weh|and the LORD|H3068|N-proper-ms
 v44 אֶל־|’el-|to|H413|Prep
@@ -703,4 +703,4 @@ v50 פֶּ֖תַח|pe·ṯaḥ|the entrance|H6607|N-msc
 v50 אֹ֣הֶל|’ō·hel|to the Tent|H168|N-ms
 v50 מוֹעֵ֑ד|mō·w·‘êḏ|of Meeting|H4150|N-ms
 v50 וְהַמַּגֵּפָ֖ה|wə·ham·mag·gê·p̄āh|since the plague|H4046|Conj-w, Art | N-fs
-v50 נֶעֱצָֽרָה׃פ|ne·‘ĕ·ṣā·rāh|had been halted|H6113|V-Nifal-Perf-3fs
+v50 נֶעֱצָֽרָה׃|ne·‘ĕ·ṣā·rāh|had been halted|H6113|V-Nifal-Perf-3fs

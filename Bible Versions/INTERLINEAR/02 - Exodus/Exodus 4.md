@@ -141,7 +141,7 @@ v10 דְּבָרִ֜ים|də·ḇā·rîm|been eloquent|H1697|N-mp
 v10 אָנֹ֗כִי|’ā·nō·ḵî|I|H595|Pro-1cs
 v10 גַּ֤ם|gam|neither|H1571|Conj
 v10 מִתְּמוֹל֙|mit·tə·mō·wl|in the past|H8543|Prep-m | Adv
-v10 גַּ֣ם|gam||H1571|Conj
+v10 גַּ֣ם|gam|-|H1571|Conj
 v10 מִשִּׁלְשֹׁ֔ם|miš·šil·šōm|-|H8032|Prep-m | Adv
 v10 גַּ֛ם|gam|nor|H1571|Conj
 v10 מֵאָ֥ז|mê·’āz|since|H227|Prep-m | Adv
@@ -236,7 +236,7 @@ v16 אֶל־|’el-|to|H413|Prep
 v16 הָעָ֑ם|hā·‘ām|the people|H5971|Art | N-ms
 v16 וְהָ֤יָה|wə·hā·yāh|will be|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v16 הוּא֙|hū|He|H1931|Pro-3ms
-v16 יִֽהְיֶה־|yih·yeh-||H1961|V-Qal-Imperf-3ms
+v16 יִֽהְיֶה־|yih·yeh-|-|H1961|V-Qal-Imperf-3ms
 v16 לְּךָ֣|lə·ḵā|your|H0|Prep | 2ms
 v16 לְפֶ֔ה|lə·p̄eh|spokesman|H6310|Prep-l | N-ms
 v16 וְאַתָּ֖ה|wə·’at·tāh|as if you were|H859|Conj-w | Pro-2ms
@@ -250,9 +250,9 @@ v17 תִּקַּ֣ח|tiq·qaḥ|take|H3947|V-Qal-Imperf-2ms
 v17 בְּיָדֶ֑ךָ|bə·yā·ḏe·ḵā|in your hand|H3027|Prep-b | N-fsc | 2ms
 v17 אֲשֶׁ֥ר|’ă·šer|so|H834|Pro-r
 v17 תַּעֲשֶׂה־|ta·‘ă·śeh-|you can perform|H6213|V-Qal-Imperf-2ms
-v17 בּ֖וֹ|bōw||H0|Prep | 3ms
+v17 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v17 אֶת־|’eṯ-|-|H853|DirObjM
-v17 הָאֹתֹֽת׃פ|hā·’ō·ṯōṯ|signs with it|H226|Art | N-cp
+v17 הָאֹתֹֽת׃|hā·’ō·ṯōṯ|signs with it|H226|Art | N-cp
 v18 וַיֵּ֨לֶךְ|way·yê·leḵ|went|H1980|Conj-w | V-Qal-ConsecImperf-3ms
 v18 מֹשֶׁ֜ה|mō·šeh|Then Moses|H4872|N-proper-ms
 v18 וַיָּ֣שָׁב׀|way·yā·šāḇ|back|H7725|Conj-w | V-Qal-ConsecImperf-3ms
@@ -301,7 +301,7 @@ v20 וַיַּרְכִּבֵם֙|way·yar·ki·ḇêm|put them|H7392|Conj-w | V-
 v20 עַֽל־|‘al-|on|H5921|Prep
 v20 הַחֲמֹ֔ר|ha·ḥă·mōr|a donkey|H2543|Art | N-ms
 v20 וַיָּ֖שָׁב|way·yā·šāḇ|and headed back|H7725|Conj-w | V-Qal-ConsecImperf-3ms
-v20 אַ֣רְצָה|’ar·ṣāh|vvv|H776|N-fs | 3fs
+v20 אַ֣רְצָה|’ar·ṣāh|...|H776|N-fs | 3fs
 v20 מִצְרָ֑יִם|miṣ·rā·yim|to Egypt|H4714|N-proper-fs
 v20 וַיִּקַּ֥ח|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-3ms
 v20 מֹשֶׁ֛ה|mō·šeh|And [he]|H4872|N-proper-ms
@@ -356,7 +356,7 @@ v23 הֹרֵ֔ג|hō·rêḡ|will kill|H2026|V-Qal-Prtcpl-ms
 v23 אֶת־|’eṯ-|-|H853|DirObjM
 v23 בִּנְךָ֖|bin·ḵā|son|H1121|N-msc | 2ms
 v23 בְּכֹרֶֽךָ׃|bə·ḵō·re·ḵā|your firstborn|H1060|N-msc | 2ms
-v24 וַיְהִ֥י|way·hî|vvv|H1961|Conj-w | V-Qal-ConsecImperf-3ms
+v24 וַיְהִ֥י|way·hî|...|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v24 בַדֶּ֖רֶךְ|ḇad·de·reḵ|along the way|H1870|Prep-b, Art | N-cs
 v24 בַּמָּל֑וֹן|bam·mā·lō·wn|Now at a lodging place|H4411|Prep-b, Art | N-ms
 v24 וַיִּפְגְּשֵׁ֣הוּ|way·yip̄·gə·šê·hū|met [Moses]|H6298|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
@@ -384,7 +384,7 @@ v26 אָ֚ז|’āz|When|H227|Adv
 v26 אָֽמְרָ֔ה|’ā·mə·rāh|she said|H559|V-Qal-Perf-3fs
 v26 חֲתַ֥ן|ḥă·ṯan|bridegroom|H2860|N-msc
 v26 דָּמִ֖ים|dā·mîm|of blood|H1818|N-mp
-v26 לַמּוּלֹֽת׃פ|lam·mū·lōṯ|she was referring to the circumcision|H4139|Prep-l, Art | N-fp
+v26 לַמּוּלֹֽת׃|lam·mū·lōṯ|she was referring to the circumcision|H4139|Prep-l, Art | N-fp
 v27 וַיֹּ֤אמֶר|way·yō·mer|had said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v27 יְהוָה֙|Yah·weh|Meanwhile, the LORD|H3068|N-proper-ms
 v27 אֶֽל־|’el-|to|H413|Prep
@@ -420,7 +420,7 @@ v29 וַיַּ֣אַסְפ֔וּ|way·ya·’as·p̄ū|and assembled|H622|Conj-w
 v29 אֶת־|’eṯ-|-|H853|DirObjM
 v29 כָּל־|kāl-|all|H3605|N-msc
 v29 זִקְנֵ֖י|ziq·nê|the elders|H2205|Adj-mpc
-v29 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v29 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v29 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v30 וַיְדַבֵּ֣ר|way·ḏab·bêr|relayed|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v30 אַהֲרֹ֔ן|’a·hă·rōn|and Aaron|H175|N-proper-ms

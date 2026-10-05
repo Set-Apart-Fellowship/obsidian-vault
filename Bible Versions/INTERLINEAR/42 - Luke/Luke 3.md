@@ -22,11 +22,11 @@ v1 τοῦ|tou|-|G3588|Art-GMS
 v1 ἀδελφοῦ|adelphou|brother|G80|N-GMS
 v1 αὐτοῦ|autou|his|G846|PPro-GM3S
 v1 τετρααρχοῦντος|tetraarchountos|tetrarch|G5075|V-PPA-GMS
-v1 τῆς|tēs|vvv|G3588|Art-GFS
+v1 τῆς|tēs|...|G3588|Art-GFS
 v1 Ἰτουραίας|Itouraias|of Ituraea|G2484|Adj-GFS
 v1 καὶ|kai|and|G2532|Conj
 v1 Τραχωνίτιδος|Trachōnitidos|Trachonitis|G5139|N-GFS
-v1 χώρας|chōras|vvv|G5561|N-GFS
+v1 χώρας|chōras|...|G5561|N-GFS
 v1 καὶ|kai|and|G2532|Conj
 v1 Λυσανίου|Lysaniou|Lysanias|G3078|N-GMS
 v1 τῆς|tēs|-|G3588|Art-GFS
@@ -162,9 +162,9 @@ v8 ἐγεῖραι|egeirai|raise up|G1453|V-ANA
 v8 τέκνα|tekna|children|G5043|N-ANP
 v8 τῷ|tō|-|G3588|Art-DMS
 v8 Ἀβραάμ|Abraam|for Abraham|G11|N-DMS
-v9 ἤδη|ēdē|vvv|G2235|Adv
-v9 δὲ|de|vvv|G1161|Conj
-v9 καὶ|kai|vvv|G2532|Conj
+v9 ἤδη|ēdē|...|G2235|Adv
+v9 δὲ|de|...|G1161|Conj
+v9 καὶ|kai|...|G2532|Conj
 v9 ἡ|hē|The|G3588|Art-NFS
 v9 ἀξίνη|axinē|axe|G513|N-NFS
 v9 πρὸς|pros|at|G4314|Prep
@@ -176,7 +176,7 @@ v9 κεῖται|keitai|lies ready|G2749|V-PIM/P-3S
 v9 πᾶν|pan|every|G3956|Adj-NNS
 v9 οὖν|oun|and|G3767|Conj
 v9 δένδρον|dendron|tree|G1186|N-NNS
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 ποιοῦν|poioun|that does not produce|G4160|V-PPA-NNS
 v9 καρπὸν|karpon|fruit|G2590|N-AMS
 v9 καλὸν|kalon|good|G2570|Adj-AMS
@@ -245,7 +245,7 @@ v14 λέγοντες|legontes|-|G3004|V-PPA-NMP
 v14 Τί|Ti|what|G5101|IPro-ANS
 v14 ποιήσωμεν|poiēsōmen|should we do|G4160|V-ASA-1P
 v14 καὶ|kai|And|G2532|Conj
-v14 ἡμεῖς|hēmeis|vvv|G1473|PPro-N1P
+v14 ἡμεῖς|hēmeis|...|G1473|PPro-N1P
 v14 Καὶ|Kai|-|G2532|Conj
 v14 εἶπεν|eipen|he said|G2036|V-AIA-3S
 v14 αὐτοῖς|autois|...|G846|PPro-DM3P
@@ -338,7 +338,7 @@ v17 πυρὶ|pyri|fire|G4442|N-DNS
 v17 ἀσβέστῳ|asbestō|with unquenchable|G762|Adj-DNS
 v18 Πολλὰ|Polla|many|G4183|Adj-ANP
 v18 μὲν|men|[With these and]|G3303|Conj
-v18 οὖν|oun|vvv|G3767|Conj
+v18 οὖν|oun|...|G3767|Conj
 v18 καὶ|kai|-|G2532|Conj
 v18 ἕτερα|hetera|other|G2087|Adj-ANP
 v18 παρακαλῶν|parakalōn|exhortations|G3870|V-PPA-NMS

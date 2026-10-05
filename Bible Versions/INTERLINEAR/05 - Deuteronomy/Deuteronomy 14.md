@@ -6,7 +6,7 @@ v1 לֹ֣א|lō|do not|H3808|Adv-NegPrt
 v1 תִתְגֹּֽדְד֗וּ|ṯiṯ·gō·ḏə·ḏū|cut|H1413|V-Hitpael-Imperf-2mp
 v1 וְלֹֽא־|wə·lō-|yourselves|H3808|Conj-w | Adv-NegPrt
 v1 תָשִׂ֧ימוּ|ṯā·śî·mū|or shave|H7760|V-Qal-Imperf-2mp
-v1 קָרְחָ֛ה|qā·rə·ḥāh||H7144|N-fs
+v1 קָרְחָ֛ה|qā·rə·ḥāh|-|H7144|N-fs
 v1 בֵּ֥ין|bên|your foreheads|H996|Prep
 v1 עֵינֵיכֶ֖ם|‘ê·nê·ḵem|...|H5869|N-cdc | 2mp
 v1 לָמֵֽת׃|lā·mêṯ|on behalf of the dead|H4191|Prep-l | V-Qal-Prtcpl-ms
@@ -16,7 +16,7 @@ v2 קָדוֹשׁ֙|qā·ḏō·wōš|holy|H6918|Adj-ms
 v2 אַתָּ֔ה|’at·tāh|you|H859|Pro-2ms
 v2 לַיהוָ֖ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v2 אֱלֹהֶ֑יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
-v2 וּבְךָ֞|ū·ḇə·ḵā||H0|Conj-w | Prep | 2ms
+v2 וּבְךָ֞|ū·ḇə·ḵā|-|H0|Conj-w | Prep | 2ms
 v2 בָּחַ֣ר|bā·ḥar|has chosen|H977|V-Qal-Perf-3ms
 v2 יְהוָ֗ה|Yah·weh|The LORD|H3068|N-proper-ms
 v2 לִֽהְי֥וֹת|lih·yō·wṯ|you to be|H1961|Prep-l | V-Qal-Inf
@@ -28,7 +28,7 @@ v2 הָֽעַמִּ֔ים|hā·‘am·mîm|the peoples|H5971|Art | N-mp
 v2 אֲשֶׁ֖ר|’ă·šer|-|H834|Pro-r
 v2 עַל־|‘al-|on|H5921|Prep
 v2 פְּנֵ֥י|pə·nê|the face|H6440|N-cpc
-v2 הָאֲדָמָֽה׃ס|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
+v2 הָאֲדָמָֽה׃|hā·’ă·ḏā·māh|of the earth|H127|Art | N-fs
 v3 לֹ֥א|lō|You must not|H3808|Adv-NegPrt
 v3 תֹאכַ֖ל|ṯō·ḵal|eat|H398|V-Qal-Imperf-2ms
 v3 כָּל־|kāl-|any|H3605|N-msc
@@ -104,7 +104,7 @@ v8 לֹ֣א|lō|You must not|H3808|Adv-NegPrt
 v8 תֹאכֵ֔לוּ|ṯō·ḵê·lū|eat|H398|V-Qal-Imperf-2mp
 v8 וּבְנִבְלָתָ֖ם|ū·ḇə·niḇ·lā·ṯām|its carcass|H5038|Conj-w, Prep-b | N-fsc | 3mp
 v8 לֹ֥א|lō|...|H3808|Adv-NegPrt
-v8 תִגָּֽעוּ׃ס|ṯig·gā·‘ū|or touch|H5060|V-Qal-Imperf-2mp
+v8 תִגָּֽעוּ׃|ṯig·gā·‘ū|or touch|H5060|V-Qal-Imperf-2mp
 v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 זֶה֙|zeh|-|H2088|Pro-ms
 v9 תֹּֽאכְל֔וּ|tō·ḵə·lū|you may eat|H398|V-Qal-Imperf-2mp
@@ -120,14 +120,14 @@ v9 תֹּאכֵֽלוּ׃|tō·ḵê·lū|...|H398|V-Qal-Imperf-2mp
 v10 וְכֹ֨ל|wə·ḵōl|anything|H3605|Conj-w | N-ms
 v10 אֲשֶׁ֧ר|’ă·šer|that|H834|Pro-r
 v10 אֵֽין־|’ên-|does not|H369|Adv
-v10 ל֛וֹ|lōw||H0|Prep | 3ms
+v10 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v10 סְנַפִּ֥יר|sə·nap·pîr|have fins|H5579|N-ms
 v10 וְקַשְׂקֶ֖שֶׂת|wə·qaś·qe·śeṯ|and scales|H7193|Conj-w | N-fs
 v10 לֹ֣א|lō|but you may not|H3808|Adv-NegPrt
 v10 תֹאכֵ֑לוּ|ṯō·ḵê·lū|eat|H398|V-Qal-Imperf-2mp
 v10 טָמֵ֥א|ṭā·mê|is unclean|H2931|Adj-ms
 v10 ה֖וּא|hū|it|H1931|Pro-3ms
-v10 לָכֶֽם׃ס|lā·ḵem|for you|H0|Prep | 2mp
+v10 לָכֶֽם׃|lā·ḵem|for you|H0|Prep | 2mp
 v11 כָּל־|kāl-|any|H3605|N-msc
 v11 צִפּ֥וֹר|ṣip·pō·wr|bird|H6833|N-cs
 v11 טְהֹרָ֖ה|ṭə·hō·rāh|clean|H2889|Adj-fs
@@ -150,7 +150,7 @@ v14 כָּל־|kāl-|any|H3605|N-msc
 v14 עֹרֵ֖ב|‘ō·rêḇ|of raven|H6158|N-ms
 v14 לְמִינֽוֹ׃|lə·mî·nōw|kind|H4327|Prep-l | N-msc | 3ms
 v15 וְאֵת֙|wə·’êṯ|-|H853|Conj-w | DirObjM
-v15 בַּ֣ת|baṯ|vvv|H1323|N-fsc
+v15 בַּ֣ת|baṯ|...|H1323|N-fsc
 v15 הַֽיַּעֲנָ֔ה|hay·ya·‘ă·nāh|the ostrich|H3284|Art | N-fs
 v15 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v15 הַתַּחְמָ֖ס|hat·taḥ·mās|the screech owl|H8464|Art | N-ms
@@ -208,7 +208,7 @@ v21 לֹֽא־|lō-|You must not|H3808|Adv-NegPrt
 v21 תְבַשֵּׁ֥ל|ṯə·ḇaš·šêl|cook|H1310|V-Piel-Imperf-2ms
 v21 גְּדִ֖י|gə·ḏî|a young goat|H1423|N-ms
 v21 בַּחֲלֵ֥ב|ba·ḥă·lêḇ|milk|H2461|Prep-b | N-msc
-v21 אִמּֽוֹ׃פ|’im·mōw|in its mother's|H517|N-fsc | 3ms
+v21 אִמּֽוֹ׃|’im·mōw|in its mother's|H517|N-fsc | 3ms
 v22 עַשֵּׂ֣ר|‘aś·śêr|You must be sure to set aside a tenth|H6237|V-Piel-InfAbs
 v22 תְּעַשֵּׂ֔ר|tə·‘aś·śêr|...|H6237|V-Piel-Imperf-2ms
 v22 אֵ֖ת|’êṯ|-|H853|DirObjM
@@ -279,7 +279,7 @@ v25 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v25 יִבְחַ֛ר|yiḇ·ḥar|will choose|H977|V-Qal-Imperf-3ms
 v25 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v25 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
-v25 בּֽוֹ׃|bōw||H0|Prep | 3ms
+v25 בּֽוֹ׃|bōw|-|H0|Prep | 3ms
 v26 וְנָתַתָּ֣ה|wə·nā·ṯat·tāh|Then you may spend|H5414|Conj-w | V-Qal-ConjPerf-2ms
 v26 הַכֶּ֡סֶף|hak·ke·sep̄|the money|H3701|Art | N-ms
 v26 בְּכֹל֩|bə·ḵōl|on anything|H3605|Prep-b | N-ms
@@ -309,10 +309,10 @@ v27 לֹ֣א|lō|And do not|H3808|Adv-NegPrt
 v27 תַֽעַזְבֶ֑נּוּ|ṯa·‘az·ḇen·nū|neglect|H5800|V-Qal-Imperf-2ms | 3ms
 v27 כִּ֣י|kî|since|H3588|Conj
 v27 אֵ֥ין|’ên|he has no|H369|Adv
-v27 ל֛וֹ|lōw||H0|Prep | 3ms
+v27 ל֛וֹ|lōw|-|H0|Prep | 3ms
 v27 חֵ֥לֶק|ḥê·leq|portion|H2506|N-ms
 v27 וְנַחֲלָ֖ה|wə·na·ḥă·lāh|or inheritance|H5159|Conj-w | N-fs
-v27 עִמָּֽךְ׃ס|‘im·māḵ|among you|H5973|Prep | 2ms
+v27 עִמָּֽךְ׃|‘im·māḵ|among you|H5973|Prep | 2ms
 v28 מִקְצֵ֣ה׀|miq·ṣêh|At the end|H7097|Prep-m | N-msc
 v28 שָׁלֹ֣שׁ|šā·lōš|of every three|H7969|Number-fs
 v28 שָׁנִ֗ים|šā·nîm|years|H8141|N-fp
@@ -329,7 +329,7 @@ v29 וּבָ֣א|ū·ḇā|may come|H935|Conj-w | V-Qal-ConjPerf-3ms
 v29 הַלֵּוִ֡י|hal·lê·wî|Then the Levite|H3881|Art | N-proper-ms
 v29 כִּ֣י|kî|because|H3588|Conj
 v29 אֵֽין־|’ên-|he has no|H369|Adv
-v29 לוֹ֩|lōw||H0|Prep | 3ms
+v29 לוֹ֩|lōw|-|H0|Prep | 3ms
 v29 חֵ֨לֶק|ḥê·leq|portion|H2506|N-ms
 v29 וְנַחֲלָ֜ה|wə·na·ḥă·lāh|or inheritance|H5159|Conj-w | N-fs
 v29 עִמָּ֗ךְ|‘im·māḵ|among you|H5973|Prep | 2ms
@@ -348,4 +348,4 @@ v29 בְּכָל־|bə·ḵāl|you in all|H3605|Prep-b | N-msc
 v29 מַעֲשֵׂ֥ה|ma·‘ă·śêh|the work|H4639|N-msc
 v29 יָדְךָ֖|yā·ḏə·ḵā|of your hands|H3027|N-fsc | 2ms
 v29 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v29 תַּעֲשֶֽׂה׃ס|ta·‘ă·śeh|-|H6213|V-Qal-Imperf-2ms
+v29 תַּעֲשֶֽׂה׃|ta·‘ă·śeh|-|H6213|V-Qal-Imperf-2ms

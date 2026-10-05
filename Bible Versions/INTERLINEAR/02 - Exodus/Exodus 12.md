@@ -27,7 +27,7 @@ v3 בֶּעָשֹׂ֖ר|be·‘ā·śōr|that on the tenth|H6218|Prep-b, Art | N
 v3 לַחֹ֣דֶשׁ|la·ḥō·ḏeš|month|H2320|Prep-l, Art | N-ms
 v3 הַזֶּ֑ה|haz·zeh|day of this|H2088|Art | Pro-ms
 v3 וְיִקְח֣וּ|wə·yiq·ḥū|must select|H3947|Conj-w | V-Qal-ConjImperf-3mp
-v3 לָהֶ֗ם|lā·hem||H0|Prep | 3mp
+v3 לָהֶ֗ם|lā·hem|-|H0|Prep | 3mp
 v3 אִ֛ישׁ|’îš|each man|H376|N-ms
 v3 שֶׂ֥ה|śeh|a lamb|H7716|N-ms
 v3 לְבֵית־|lə·ḇêṯ-|...|H1004|Prep-l | N-msc
@@ -48,7 +48,7 @@ v4 בֵּית֖וֹ|bê·ṯōw|...|H1004|N-msc | 3ms
 v4 בְּמִכְסַ֣ת|bə·miḵ·saṯ|based on the number|H4373|Prep-b | N-fsc
 v4 נְפָשֹׁ֑ת|nə·p̄ā·šōṯ|of people|H5315|N-fp
 v4 אִ֚ישׁ|’îš|accordingly|H376|N-ms
-v4 לְפִ֣י|lə·p̄î||H6310|Prep-l | N-msc
+v4 לְפִ֣י|lə·p̄î|-|H6310|Prep-l | N-msc
 v4 אָכְל֔וֹ|’ā·ḵə·lōw|-|H400|V-Qal-Inf | 3ms
 v4 תָּכֹ֖סּוּ|tā·ḵōs·sū|and apportion|H3699|V-Qal-Imperf-2mp
 v4 עַל־|‘al-|...|H5921|Prep
@@ -87,7 +87,7 @@ v7 מִן־|min-|some of|H4480|Prep
 v7 הַדָּ֔ם|had·dām|the blood|H1818|Art | N-ms
 v7 וְנָֽתְנ֛וּ|wə·nā·ṯə·nū|and put|H5414|Conj-w | V-Qal-ConjPerf-3cp
 v7 עַל־|‘al-|it on|H5921|Prep
-v7 שְׁתֵּ֥י|šə·tê|vvv|H8147|Number-fdc
+v7 שְׁתֵּ֥י|šə·tê|...|H8147|Number-fdc
 v7 הַמְּזוּזֹ֖ת|ham·mə·zū·zōṯ|the sides|H4201|Art | N-fp
 v7 וְעַל־|wə·‘al-|and|H5921|Conj-w | Prep
 v7 הַמַּשְׁק֑וֹף|ham·maš·qō·wp̄|tops of the doorframes|H4947|Art | N-ms
@@ -96,7 +96,7 @@ v7 הַבָּ֣תִּ֔ים|hab·bāt·tîm|the houses|H1004|Art | N-mp
 v7 אֲשֶׁר־|’ă·šer-|where|H834|Pro-r
 v7 יֹאכְל֥וּ|yō·ḵə·lū|they eat [the lambs]|H398|V-Qal-Imperf-3mp
 v7 אֹת֖וֹ|’ō·ṯōw|-|H853|DirObjM | 3ms
-v7 בָּהֶֽם׃|bā·hem||H0|Prep | 3mp
+v7 בָּהֶֽם׃|bā·hem|-|H0|Prep | 3mp
 v8 וְאָכְל֥וּ|wə·’ā·ḵə·lū|They are to eat|H398|Conj-w | V-Qal-ConjPerf-3cp
 v8 אֶת־|’eṯ-|-|H853|DirObjM
 v8 הַבָּשָׂ֖ר|hab·bā·śār|the meat|H1320|Art | N-ms
@@ -172,7 +172,7 @@ v12 אֲנִ֥י|’ă·nî|I|H589|Pro-1cs
 v12 יְהוָֽה׃|Yah·weh|am the LORD|H3068|N-proper-ms
 v13 וְהָיָה֩|wə·hā·yāh|will be|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v13 הַדָּ֨ם|had·dām|The blood|H1818|Art | N-ms
-v13 לָכֶ֜ם|lā·ḵem||H0|Prep | 2mp
+v13 לָכֶ֜ם|lā·ḵem|-|H0|Prep | 2mp
 v13 לְאֹ֗ת|lə·’ōṯ|a sign|H226|Prep-l | N-cs
 v13 עַ֤ל|‘al|on|H5921|Prep
 v13 הַבָּתִּים֙|hab·bāt·tîm|the houses|H1004|Art | N-mp
@@ -237,7 +237,7 @@ v16 הַשְּׁבִיעִ֔י|haš·šə·ḇî·‘î|on the seventh|H7637|Art
 v16 מִקְרָא־|miq·rā-|...|H4744|N-msc
 v16 קֹ֖דֶשׁ|qō·ḏeš|and another|H6944|N-ms
 v16 יִהְיֶ֣ה|yih·yeh|you are to hold|H1961|V-Qal-Imperf-3ms
-v16 לָכֶ֑ם|lā·ḵem||H0|Prep | 2mp
+v16 לָכֶ֑ם|lā·ḵem|-|H0|Prep | 2mp
 v16 כָּל־|kāl-|-|H3605|N-msc
 v16 מְלָאכָה֙|mə·lā·ḵāh|any work|H4399|N-fs
 v16 לֹא־|lō-|not|H3808|Adv-NegPrt
@@ -251,7 +251,7 @@ v16 נֶ֔פֶשׁ|ne·p̄eš|-|H5315|N-fs
 v16 ה֥וּא|hū|that|H1931|Pro-3ms
 v16 לְבַדּ֖וֹ|lə·ḇad·dōw|is all|H905|Prep-l | N-msc | 3ms
 v16 יֵעָשֶׂ֥ה|yê·‘ā·śeh|you may do|H6213|V-Nifal-Imperf-3ms
-v16 לָכֶֽם׃|lā·ḵem||H0|Prep | 2mp
+v16 לָכֶֽם׃|lā·ḵem|-|H0|Prep | 2mp
 v17 וּשְׁמַרְתֶּם֮|ū·šə·mar·tem|So you are to keep|H8104|Conj-w | V-Qal-ConjPerf-2mp
 v17 אֶת־|’eṯ-|-|H853|DirObjM
 v17 הַמַּצּוֹת֒|ham·maṣ·ṣō·wṯ|the Feast of Unleavened Bread|H4682|Art | N-fp
@@ -310,7 +310,7 @@ v20 תֹאכֵ֑לוּ|ṯō·ḵê·lū|to eat|H398|V-Qal-Imperf-2mp
 v20 בְּכֹל֙|bə·ḵōl|in all|H3605|Prep-b | N-msc
 v20 מוֹשְׁבֹ֣תֵיכֶ֔ם|mō·wō·šə·ḇō·ṯê·ḵem|your homes|H4186|N-mpc | 2mp
 v20 תֹּאכְל֖וּ|tō·ḵə·lū|eat|H398|V-Qal-Imperf-2mp
-v20 מַצּֽוֹת׃פ|maṣ·ṣō·wṯ|unleavened bread|H4682|N-fp
+v20 מַצּֽוֹת׃|maṣ·ṣō·wṯ|unleavened bread|H4682|N-fp
 v21 וַיִּקְרָ֥א|way·yiq·rā|summoned|H7121|Conj-w | V-Qal-ConsecImperf-3ms
 v21 מֹשֶׁ֛ה|mō·šeh|Then Moses|H4872|N-proper-ms
 v21 לְכָל־|lə·ḵāl|all|H3605|Prep-l | N-msc
@@ -336,7 +336,7 @@ v22 וְהִגַּעְתֶּ֤ם|wə·hig·ga‘·tem|and brush|H5060|Conj-w | V
 v22 אֶל־|’el-|on|H413|Prep
 v22 הַמַּשְׁקוֹף֙|ham·maš·qō·wp̄|the top|H4947|Art | N-ms
 v22 וְאֶל־|wə·’el-|and|H413|Conj-w | Prep
-v22 שְׁתֵּ֣י|šə·tê|vvv|H8147|Number-fdc
+v22 שְׁתֵּ֣י|šə·tê|...|H8147|Number-fdc
 v22 הַמְּזוּזֹ֔ת|ham·mə·zū·zōṯ|sides of the doorframe|H4201|Art | N-fp
 v22 מִן־|min-|-|H4480|Prep
 v22 הַדָּ֖ם|had·dām|the blood|H1818|Art | N-ms
@@ -361,7 +361,7 @@ v23 הַדָּם֙|had·dām|the blood|H1818|Art | N-ms
 v23 עַל־|‘al-|on|H5921|Prep
 v23 הַמַּשְׁק֔וֹף|ham·maš·qō·wp̄|the top|H4947|Art | N-ms
 v23 וְעַ֖ל|wə·‘al|and|H5921|Conj-w | Prep
-v23 שְׁתֵּ֣י|šə·tê|vvv|H8147|Number-fdc
+v23 שְׁתֵּ֣י|šə·tê|...|H8147|Number-fdc
 v23 הַמְּזוּזֹ֑ת|ham·mə·zū·zōṯ|sides of the doorframe|H4201|Art | N-fp
 v23 וּפָסַ֤ח|ū·p̄ā·saḥ|and will pass|H6452|Conj-w | V-Qal-ConjPerf-3ms
 v23 יְהוָה֙|Yah·weh|-|H3068|N-proper-ms
@@ -416,7 +416,7 @@ v27 אֲשֶׁ֣ר|’ă·šer|who|H834|Pro-r
 v27 פָּ֠סַח|pā·saḥ|passed|H6452|V-Qal-Perf-3ms
 v27 עַל־|‘al-|over|H5921|Prep
 v27 בָּתֵּ֤י|bāt·tê|the houses|H1004|N-mpc
-v27 בְנֵֽי־|ḇə·nê-|vvv|H1121|N-mpc
+v27 בְנֵֽי־|ḇə·nê-|...|H1121|N-mpc
 v27 יִשְׂרָאֵל֙|yiś·rā·’êl|of the Israelites|H3478|N-proper-ms
 v27 בְּמִצְרַ֔יִם|bə·miṣ·ra·yim|in Egypt|H4714|Prep-b | N-proper-fs
 v27 בְּנָגְפּ֥וֹ|bə·nā·ḡə·pōw|when He struck down|H5062|Prep-b | V-Qal-Inf | 3ms
@@ -439,7 +439,7 @@ v28 אֶת־|’eṯ-|-|H853|DirObjM
 v28 מֹשֶׁ֥ה|mō·šeh|Moses|H4872|N-proper-ms
 v28 וְאַהֲרֹ֖ן|wə·’a·hă·rōn|and Aaron|H175|Conj-w | N-proper-ms
 v28 כֵּ֥ן|kên|-|H3651|Adv
-v28 עָשֽׂוּ׃ס|‘ā·śū|-|H6213|V-Qal-Perf-3cp
+v28 עָשֽׂוּ׃|‘ā·śū|-|H6213|V-Qal-Perf-3cp
 v29 וַיְהִ֣י׀|way·hî|Now|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v29 בַּחֲצִ֣י|ba·ḥă·ṣî|at midnight|H2677|Prep-b | N-msc
 v29 הַלַּ֗יְלָה|hal·lay·lāh|...|H3915|Art | N-ms
@@ -557,7 +557,7 @@ v36 מִצְרַ֖יִם|miṣ·ra·yim|of the Egyptians|H4714|N-proper-fs
 v36 וַיַּשְׁאִל֑וּם|way·yaš·’i·lūm|that they granted their request|H7592|Conj-w | V-Hifil-ConsecImperf-3mp | 3mp
 v36 וַֽיְנַצְּל֖וּ|way·naṣ·ṣə·lū|In this way they plundered|H5337|Conj-w | V-Piel-ConsecImperf-3mp
 v36 אֶת־|’eṯ-|-|H853|DirObjM
-v36 מִצְרָֽיִם׃פ|miṣ·rā·yim|the Egyptians|H4714|N-proper-fs
+v36 מִצְרָֽיִם׃|miṣ·rā·yim|the Egyptians|H4714|N-proper-fs
 v37 וַיִּסְע֧וּ|way·yis·‘ū|journeyed|H5265|Conj-w | V-Qal-ConsecImperf-3mp
 v37 בְנֵֽי־|ḇə·nê-|The Israelites|H1121|N-mpc
 v37 יִשְׂרָאֵ֛ל|yiś·rā·’êl|...|H3478|N-proper-ms
@@ -603,7 +603,7 @@ v39 לֹא־|lō-|had not|H3808|Adv-NegPrt
 v39 עָשׂ֥וּ|‘ā·śū|prepared|H6213|V-Qal-Perf-3cp
 v39 לָהֶֽם׃|lā·hem|for themselves|H0|Prep | 3mp
 v40 וּמוֹשַׁב֙|ū·mō·wō·šaḇ|Now the duration|H4186|Conj-w | N-msc
-v40 בְּנֵ֣י|bə·nê|vvv|H1121|N-mpc
+v40 בְּנֵ֣י|bə·nê|...|H1121|N-mpc
 v40 יִשְׂרָאֵ֔ל|yiś·rā·’êl|of the Israelites'|H3478|N-proper-ms
 v40 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v40 יָשְׁב֖וּ|yā·šə·ḇū|stay|H3427|V-Qal-Perf-3cp
@@ -645,7 +645,7 @@ v42 שִׁמֻּרִ֛ים|šim·mu·rîm|to be observed|H8107|N-mp
 v42 לְכָל־|lə·ḵāl|by all|H3605|Prep-l | N-msc
 v42 בְּנֵ֥י|bə·nê|the Israelites|H1121|N-mpc
 v42 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
-v42 לְדֹרֹתָֽם׃פ|lə·ḏō·rō·ṯām|for the generations to come|H1755|Prep-l | N-mpc | 3mp
+v42 לְדֹרֹתָֽם׃|lə·ḏō·rō·ṯām|for the generations to come|H1755|Prep-l | N-mpc | 3mp
 v43 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v43 יְהוָה֙|Yah·weh|And the LORD|H3068|N-proper-ms
 v43 אֶל־|’el-|to|H413|Prep
@@ -662,7 +662,7 @@ v43 יֹ֥אכַל|yō·ḵal|is to eat|H398|V-Qal-Imperf-3ms
 v43 בּֽוֹ׃|bōw|of it|H0|Prep | 3ms
 v44 וְכָל־|wə·ḵāl|But any|H3605|Conj-w | N-msc
 v44 עֶ֥בֶד|‘e·ḇeḏ|slave [who]|H5650|N-msc
-v44 אִ֖ישׁ|’îš|vvv|H376|N-ms
+v44 אִ֖ישׁ|’îš|...|H376|N-ms
 v44 מִקְנַת־|miq·naṯ-|has been purchased|H4736|N-fsc
 v44 כָּ֑סֶף|kā·sep̄|...|H3701|N-ms
 v44 וּמַלְתָּ֣ה|ū·mal·tāh|after you have circumcised him|H4135|Conj-w | V-Qal-ConjPerf-2ms
@@ -688,7 +688,7 @@ v46 ח֑וּצָה|ḥū·ṣāh|...|H2351|N-ms | 3fs
 v46 וְעֶ֖צֶם|wə·‘e·ṣem|any of the bones|H6106|Conj-w | N-fs
 v46 לֹ֥א|lō|and you may not|H3808|Adv-NegPrt
 v46 תִשְׁבְּרוּ־|ṯiš·bə·rū-|break|H7665|V-Qal-Imperf-2mp
-v46 בֽוֹ׃|ḇōw||H0|Prep | 3ms
+v46 בֽוֹ׃|ḇōw|-|H0|Prep | 3ms
 v47 כָּל־|kāl-|The whole|H3605|N-msc
 v47 עֲדַ֥ת|‘ă·ḏaṯ|congregation|H5712|N-fsc
 v47 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
@@ -702,7 +702,7 @@ v48 וְעָ֣שָׂה|wə·‘ā·śāh|you and wants to celebrate|H6213|Conj-w
 v48 פֶסַח֮|p̄e·saḥ|Passover|H6453|N-ms
 v48 לַיהוָה֒|Yah·weh|the LORD's|H3068|Prep-l | N-proper-ms
 v48 הִמּ֧וֹל|him·mō·wl|must be circumcised|H4135|V-Nifal-InfAbs
-v48 ל֣וֹ|lōw||H0|Prep | 3ms
+v48 ל֣וֹ|lōw|-|H0|Prep | 3ms
 v48 כָל־|ḵāl|all the|H3605|N-msc
 v48 זָכָ֗ר|zā·ḵār|males [in the household]|H2145|N-ms
 v48 וְאָז֙|wə·’āz|then|H227|Conj-w | Adv
@@ -735,7 +735,7 @@ v50 מֹשֶׁ֥ה|mō·šeh|Moses|H4872|N-proper-ms
 v50 וְאֶֽת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v50 אַהֲרֹ֖ן|’a·hă·rōn|and Aaron|H175|N-proper-ms
 v50 כֵּ֥ן|kên|this|H3651|Adv
-v50 עָשֽׂוּ׃ס|‘ā·śū|they did|H6213|V-Qal-Perf-3cp
+v50 עָשֽׂוּ׃|‘ā·śū|they did|H6213|V-Qal-Perf-3cp
 v51 וַיְהִ֕י|way·hî|And|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v51 בְּעֶ֖צֶם|bə·‘e·ṣem|very|H6106|Prep-b | N-fsc
 v51 הַיּ֣וֹם|hay·yō·wm|day|H3117|Art | N-ms
@@ -748,4 +748,4 @@ v51 יִשְׂרָאֵ֛ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v51 מֵאֶ֥רֶץ|mê·’e·reṣ|out of the land|H776|Prep-m | N-fsc
 v51 מִצְרַ֖יִם|miṣ·ra·yim|of Egypt|H4714|N-proper-fs
 v51 עַל־|‘al-|by|H5921|Prep
-v51 צִבְאֹתָֽם׃פ|ṣiḇ·’ō·ṯām|their divisions|H6635|N-cpc | 3mp
+v51 צִבְאֹתָֽם׃|ṣiḇ·’ō·ṯām|their divisions|H6635|N-cpc | 3mp

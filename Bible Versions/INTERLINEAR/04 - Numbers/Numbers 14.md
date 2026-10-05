@@ -2,7 +2,7 @@ v1 וַתִּשָּׂא֙|wat·tiś·śā|lifted up|H5375|Conj-w | V-Qal-ConsecI
 v1 כָּל־|kāl-|Then the whole|H3605|N-msc
 v1 הָ֣עֵדָ֔ה|hā·‘ê·ḏāh|congregation|H5712|Art | N-fs
 v1 וַֽיִּתְּנ֖וּ|way·yit·tə·nū|and cried out|H5414|Conj-w | V-Qal-ConsecImperf-3mp
-v1 אֶת־|’eṯ-||H853|DirObjM
+v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 קוֹלָ֑ם|qō·w·lām|their voices|H6963|N-msc | 3mp
 v1 וַיִּבְכּ֥וּ|way·yiḇ·kū|wept|H1058|Conj-w | V-Qal-ConsecImperf-3mp
 v1 הָעָ֖ם|hā·‘ām|the people|H5971|Art | N-ms
@@ -58,7 +58,7 @@ v4 מִצְרָֽיְמָה׃|miṣ·rā·yə·māh|to Egypt|H4714|N-proper-fs |
 v5 וַיִּפֹּ֥ל|way·yip·pōl|fell|H5307|Conj-w | V-Qal-ConsecImperf-3ms
 v5 מֹשֶׁ֛ה|mō·šeh|Then Moses|H4872|N-proper-ms
 v5 וְאַהֲרֹ֖ן|wə·’a·hă·rōn|and Aaron|H175|Conj-w | N-proper-ms
-v5 עַל־|‘al-||H5921|Prep
+v5 עַל־|‘al-|-|H5921|Prep
 v5 פְּנֵיהֶ֑ם|pə·nê·hem|facedown|H6440|N-mpc | 3mp
 v5 לִפְנֵ֕י|lip̄·nê|before|H6440|Prep-l | N-cpc
 v5 כָּל־|kāl-|the whole|H3605|N-msc
@@ -88,7 +88,7 @@ v7 לֵאמֹ֑ר|lê·mōr|...|H559|Prep-l | V-Qal-Inf
 v7 הָאָ֗רֶץ|hā·’ā·reṣ|The land|H776|Art | N-fs
 v7 אֲשֶׁ֨ר|’ă·šer|-|H834|Pro-r
 v7 עָבַ֤רְנוּ|‘ā·ḇar·nū|we passed through|H5674|V-Qal-Perf-1cp
-v7 בָהּ֙|ḇāh||H0|Prep | 3fs
+v7 בָהּ֙|ḇāh|-|H0|Prep | 3fs
 v7 לָת֣וּר|lā·ṯūr|and explored|H8446|Prep-l | V-Qal-Inf
 v7 אֹתָ֔הּ|’ō·ṯāh|-|H853|DirObjM | 3fs
 v7 טוֹבָ֥ה|ṭō·w·ḇāh|good|H2896|Adj-fs
@@ -146,7 +146,7 @@ v10 מוֹעֵ֔ד|mō·w·‘êḏ|of Meeting|H4150|N-ms
 v10 אֶֽל־|’el-|to|H413|Prep
 v10 כָּל־|kāl-|all|H3605|N-msc
 v10 בְּנֵ֖י|bə·nê|the Israelites|H1121|N-mpc
-v10 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|...|H3478|N-proper-ms
+v10 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v11 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v11 יְהוָה֙|Yah·weh|And the LORD|H3068|N-proper-ms
 v11 אֶל־|’el-|to|H413|Prep
@@ -231,7 +231,7 @@ v15 שָׁמְע֥וּ|šā·mə·‘ū|have heard|H8085|V-Qal-Perf-3cp
 v15 אֶֽת־|’eṯ-|-|H853|DirObjM
 v15 שִׁמְעֲךָ֖|šim·‘ă·ḵā|of Your fame|H8088|N-msc | 2ms
 v15 לֵאמֹֽר׃|lê·mōr|...|H559|Prep-l | V-Qal-Inf
-v16 מִבִּלְתִּ֞י|mib·bil·tî|vvv|H1115|Prep-m
+v16 מִבִּלְתִּ֞י|mib·bil·tî|...|H1115|Prep-m
 v16 יְכֹ֣לֶת|yə·ḵō·leṯ|was unable|H3201|V-Qal-Inf
 v16 יְהוָ֗ה|Yah·weh|Because the LORD|H3068|N-proper-ms
 v16 לְהָבִיא֙|lə·hā·ḇî|to bring|H935|Prep-l | V-Hifil-Inf
@@ -317,7 +317,7 @@ v22 אֹתִ֗י|’ō·ṯî|Me|H853|DirObjM | 1cs
 v22 זֶ֚ה|zeh|these|H2088|Pro-ms
 v22 עֶ֣שֶׂר|‘e·śer|ten|H6235|Number-fs
 v22 פְּעָמִ֔ים|pə·‘ā·mîm|times|H6471|N-fp
-v22 וְלֹ֥א|wə·lō|vvv|H3808|Conj-w | Adv-NegPrt
+v22 וְלֹ֥א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v22 שָׁמְע֖וּ|šā·mə·‘ū|and disobeyed|H8085|V-Qal-Perf-3cp
 v22 בְּקוֹלִֽי׃|bə·qō·w·lî|Me|H6963|Prep-b | N-msc | 1cs
 v23 אִם־|’im-|not one|H518|Conj
@@ -343,7 +343,7 @@ v24 אַחֲרָ֑י|’a·ḥă·rāy|and has followed Me|H310|Prep | 1cs
 v24 וַהֲבִֽיאֹתִ֗יו|wa·hă·ḇî·’ō·ṯîw|I will bring him|H935|Conj-w | V-Hifil-ConjPerf-1cs | 3ms
 v24 אֶל־|’el-|into|H413|Prep
 v24 הָאָ֙רֶץ֙|hā·’ā·reṣ|the land|H776|Art | N-fs
-v24 אֲשֶׁר־|’ă·šer-||H834|Pro-r
+v24 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v24 בָּ֣א|bā|he has entered|H935|V-Qal-Perf-3ms
 v24 שָׁ֔מָּה|šām·māh|...|H8033|Adv | 3fs
 v24 וְזַרְע֖וֹ|wə·zar·‘ōw|and his descendants|H2233|Conj-w | N-msc | 3ms
@@ -355,11 +355,11 @@ v25 בָּעֵ֑מֶק|bā·‘ê·meq|in the valleys|H6010|Prep-b, Art | N-ms
 v25 מָחָ֗ר|mā·ḥār|tomorrow|H4279|Adv
 v25 פְּנ֨וּ|pə·nū|turn back|H6437|V-Qal-Imp-mp
 v25 וּסְע֥וּ|ū·sə·‘ū|and head for|H5265|Conj-w | V-Qal-Imp-mp
-v25 לָכֶ֛ם|lā·ḵem||H0|Prep | 2mp
+v25 לָכֶ֛ם|lā·ḵem|-|H0|Prep | 2mp
 v25 הַמִּדְבָּ֖ר|ham·miḏ·bār|the wilderness|H4057|Art | N-ms
 v25 דֶּ֥רֶךְ|de·reḵ|along the route to|H1870|N-csc
 v25 יַם־|yam-|Sea|H3220|N-msc
-v25 סֽוּף׃פ|sūp̄|the Red|H5488|N-ms
+v25 סֽוּף׃|sūp̄|the Red|H5488|N-ms
 v26 וַיְדַבֵּ֣ר|way·ḏab·bêr|said|H1696|Conj-w | V-Piel-ConsecImperf-3ms
 v26 יְהוָ֔ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v26 אֶל־|’el-|to|H413|Prep
@@ -372,7 +372,7 @@ v27 מָתַ֗י|mā·ṯay|...|H4970|Interrog
 v27 לָעֵדָ֤ה|lā·‘ê·ḏāh|congregation|H5712|Prep-l, Art | N-fs
 v27 הָֽרָעָה֙|hā·rā·‘āh|wicked|H7451|Art | Adj-fs
 v27 הַזֹּ֔את|haz·zōṯ|will this|H2063|Art | Pro-fs
-v27 אֲשֶׁ֛ר|’ă·šer||H834|Pro-r
+v27 אֲשֶׁ֛ר|’ă·šer|-|H834|Pro-r
 v27 הֵ֥מָּה|hêm·māh|-|H1992|Pro-3mp
 v27 מַלִּינִ֖ים|mal·lî·nîm|grumble|H3885|V-Hifil-Prtcpl-mp
 v27 עָלָ֑י|‘ā·lāy|against|H5921|Prep | 1cs
@@ -421,11 +421,11 @@ v30 אֶל־|’el-|...|H413|Prep
 v30 הָאָ֔רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v30 אֲשֶׁ֤ר|’ă·šer|in which|H834|Pro-r
 v30 נָשָׂ֙אתִי֙|nā·śā·ṯî|I swore|H5375|V-Qal-Perf-1cs
-v30 אֶת־|’eṯ-||H853|DirObjM
-v30 יָדִ֔י|yā·ḏî||H3027|N-fsc | 1cs
+v30 אֶת־|’eṯ-|-|H853|DirObjM
+v30 יָדִ֔י|yā·ḏî|-|H3027|N-fsc | 1cs
 v30 לְשַׁכֵּ֥ן|lə·šak·kên|to settle you|H7931|Prep-l | V-Piel-Inf
 v30 אֶתְכֶ֖ם|’eṯ·ḵem|-|H853|DirObjM | 2mp
-v30 בָּ֑הּ|bāh||H0|Prep | 3fs
+v30 בָּ֑הּ|bāh|-|H0|Prep | 3fs
 v30 כִּ֚י|kî|except|H3588|Conj
 v30 אִם־|’im-|...|H518|Conj
 v30 כָּלֵ֣ב|kā·lêḇ|Caleb|H3612|N-proper-ms
@@ -446,7 +446,7 @@ v31 אֶת־|’eṯ-|-|H853|DirObjM
 v31 הָאָ֔רֶץ|hā·’ā·reṣ|the land|H776|Art | N-fs
 v31 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v31 מְאַסְתֶּ֖ם|mə·’as·tem|you have rejected|H3988|V-Qal-Perf-2mp
-v31 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v31 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v32 וּפִגְרֵיכֶ֖ם|ū·p̄iḡ·rê·ḵem|however, your bodies|H6297|Conj-w | N-mpc | 2mp
 v32 אַתֶּ֑ם|’at·tem|As for you|H859|Pro-2mp
 v32 יִפְּל֖וּ|yip·pə·lū|will fall|H5307|V-Qal-Imperf-3mp
@@ -459,7 +459,7 @@ v33 בַּמִּדְבָּר֙|bam·miḏ·bār|in the wilderness|H4057|Prep-b, 
 v33 אַרְבָּעִ֣ים|’ar·bā·‘îm|for forty|H705|Number-cp
 v33 שָׁנָ֔ה|šā·nāh|years|H8141|N-fs
 v33 וְנָשְׂא֖וּ|wə·nā·śə·’ū|and they will suffer|H5375|Conj-w | V-Qal-ConjPerf-3cp
-v33 אֶת־|’eṯ-||H853|DirObjM
+v33 אֶת־|’eṯ-|-|H853|DirObjM
 v33 זְנוּתֵיכֶ֑ם|zə·nū·ṯê·ḵem|[for] your unfaithfulness|H2184|N-fpc | 2mp
 v33 עַד־|‘aḏ-|until the last|H5704|Prep
 v33 תֹּ֥ם|tōm|lies|H8552|V-Qal-Inf
@@ -469,7 +469,7 @@ v34 בְּמִסְפַּ֨ר|bə·mis·par|In keeping with the|H4557|Prep-b | N-
 v34 הַיָּמִ֜ים|hay·yā·mîm|days|H3117|Art | N-mp
 v34 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v34 תַּרְתֶּ֣ם|tar·tem|you spied|H8446|V-Qal-Perf-2mp
-v34 אֶת־|’eṯ-||H853|DirObjM
+v34 אֶת־|’eṯ-|-|H853|DirObjM
 v34 הָאָרֶץ֮|hā·’ā·reṣ|out the land|H776|Art | N-fs
 v34 אַרְבָּעִ֣ים|’ar·bā·‘îm|forty|H705|Number-cp
 v34 יוֹם֒|yō·wm|-|H3117|N-ms
@@ -478,7 +478,7 @@ v34 לַשָּׁנָ֞ה|laš·šā·nāh|for each day|H8141|Prep-l, Art | N-fs
 v34 י֣וֹם|yō·wm|-|H3117|N-ms
 v34 לַשָּׁנָ֗ה|laš·šā·nāh|a year|H8141|Prep-l, Art | N-fs
 v34 תִּשְׂאוּ֙|tiś·’ū|you shall bear|H5375|V-Qal-Imperf-2mp
-v34 אֶת־|’eṯ-||H853|DirObjM
+v34 אֶת־|’eṯ-|-|H853|DirObjM
 v34 עֲוֺנֹ֣תֵיכֶ֔ם|‘ă·wō·nō·ṯê·ḵem|your guilt|H5771|N-cpc | 2mp
 v34 אַרְבָּעִ֖ים|’ar·bā·‘îm|forty|H705|Number-cp
 v34 שָׁנָ֑ה|šā·nāh|years|H8141|N-fs
@@ -569,7 +569,7 @@ v40 הַמָּק֛וֹם|ham·mā·qō·wm|the place|H4725|Art | N-ms
 v40 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v40 אָמַ֥ר|’ā·mar|has promised|H559|V-Qal-Perf-3ms
 v40 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v40 כִּ֥י|kî||H3588|Conj
+v40 כִּ֥י|kî|-|H3588|Conj
 v40 חָטָֽאנוּ׃|ḥā·ṭā·nū|sinned|H2398|V-Qal-Perf-1cp
 v41 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v41 מֹשֶׁ֔ה|mō·šeh|But Moses|H4872|N-proper-ms
@@ -632,4 +632,4 @@ v45 הַה֑וּא|ha·hū|in that|H1931|Art | Pro-3ms
 v45 וַיַּכּ֥וּם|way·yak·kūm|attacked them|H5221|Conj-w | V-Hifil-ConsecImperf-3mp | 3mp
 v45 וַֽיַּכְּת֖וּם|way·yak·kə·ṯūm|and routed them|H3807|Conj-w | V-Hifil-ConsecImperf-3mp | 3mp
 v45 עַד־|‘aḏ-|all the way|H5704|Prep
-v45 הַֽחָרְמָֽה׃פ|ha·ḥā·rə·māh|to Hormah|H2767|Art | N-proper-fs
+v45 הַֽחָרְמָֽה׃|ha·ḥā·rə·māh|to Hormah|H2767|Art | N-proper-fs

@@ -109,7 +109,7 @@ v6 ἔχετε|echete|you have preserved|G2192|V-PIA-2P
 v6 μνείαν|mneian|memories|G3417|N-AFS
 v6 ἡμῶν|hēmōn|-|G1473|PPro-G1P
 v6 ἀγαθὴν|agathēn|[the] fond|G18|Adj-AFS
-v6 πάντοτε|pantote|vvv|G3842|Adv
+v6 πάντοτε|pantote|...|G3842|Adv
 v6 ἐπιποθοῦντες|epipothountes|longing|G1971|V-PPA-NMP
 v6 ἡμᾶς|hēmas|us|G1473|PPro-A1P
 v6 ἰδεῖν|idein|to see|G3708|V-ANA
@@ -148,14 +148,14 @@ v9 εὐχαριστίαν|eucharistian|[adequately] thank|G2169|N-AFS
 v9 δυνάμεθα|dynametha|can we|G1410|V-PIM/P-1P
 v9 τῷ|tō|-|G3588|Art-DMS
 v9 Θεῷ|Theō|God|G2316|N-DMS
-v9 ἀνταποδοῦναι|antapodounai|vvv|G467|V-ANA
+v9 ἀνταποδοῦναι|antapodounai|...|G467|V-ANA
 v9 περὶ|peri|for|G4012|Prep
 v9 ὑμῶν|hymōn|you|G4771|PPro-G2P
 v9 ἐπὶ|epi|in return for|G1909|Prep
-v9 πάσῃ|pasē|vvv|G3956|Adj-DFS
-v9 τῇ|tē|vvv|G3588|Art-DFS
-v9 χαρᾷ|chara|vvv|G5479|N-DFS
-v9 ᾗ|hē|vvv|G3739|RelPro-DFS
+v9 πάσῃ|pasē|...|G3956|Adj-DFS
+v9 τῇ|tē|...|G3588|Art-DFS
+v9 χαρᾷ|chara|...|G5479|N-DFS
+v9 ᾗ|hē|...|G3739|RelPro-DFS
 v9 χαίρομεν|chairomen|our great joy|G5463|V-PIA-1P
 v9 δι’|di’|over|G1223|Prep
 v9 ὑμᾶς|hymas|you|G4771|PPro-A2P
@@ -199,7 +199,7 @@ v11 ὁδὸν|hodon|way|G3598|N-AFS
 v11 ἡμῶν|hēmōn|our|G1473|PPro-G1P
 v11 πρὸς|pros|to|G4314|Prep
 v11 ὑμᾶς|hymas|you|G4771|PPro-A2P
-v12 ὑμᾶς|hymas|vvv|G4771|PPro-A2P
+v12 ὑμᾶς|hymas|...|G4771|PPro-A2P
 v12 δὲ|de|And|G1161|Conj
 v12 ὁ|ho|{may} the|G3588|Art-NMS
 v12 Κύριος|Kyrios|Lord|G2962|N-NMS

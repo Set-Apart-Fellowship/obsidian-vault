@@ -31,13 +31,13 @@ v3 כְּפִירִ֔ים|kə·p̄î·rîm|of the young lions|H3715|N-mp
 v3 כִּ֥י|kî|for|H3588|Conj
 v3 שֻׁדַּ֖ד|šud·daḏ|are destroyed|H7703|V-Pual-Perf-3ms
 v3 גְּא֥וֹן|gə·’ō·wn|the thickets|H1347|N-msc
-v3 הַיַּרְדֵּֽן׃ס|hay·yar·dên|of the Jordan|H3383|Art | N-proper-fs
+v3 הַיַּרְדֵּֽן׃|hay·yar·dên|of the Jordan|H3383|Art | N-proper-fs
 v4 כֹּ֥ה|kōh|This is what|H3541|Adv
 v4 אָמַ֖ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v4 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v4 אֱלֹהָ֑י|’ĕ·lō·hāy|my God|H430|N-mpc | 1cs
 v4 רְעֵ֖ה|rə·‘êh|Pasture|H7462|V-Qal-Imp-ms
-v4 אֶת־|’eṯ-||H853|DirObjM
+v4 אֶת־|’eṯ-|-|H853|DirObjM
 v4 צֹ֥אן|ṣōn|the flock|H6629|N-csc
 v4 הַהֲרֵגָֽה׃|ha·hă·rê·ḡāh|[marked] for slaughter|H2028|Art | N-fs
 v5 אֲשֶׁ֨ר|’ă·šer|whose|H834|Pro-r
@@ -66,7 +66,7 @@ v6 יְהוָ֑ה|Yah·weh|the LORD|H3068|N-proper-ms
 v6 וְהִנֵּ֨ה|wə·hin·nêh|but behold|H2009|Conj-w | Interjection
 v6 אָנֹכִ֜י|’ā·nō·ḵî|I|H595|Pro-1cs
 v6 מַמְצִ֣יא|mam·ṣî|to fall|H4672|V-Hifil-Prtcpl-ms
-v6 אֶת־|’eṯ-||H853|DirObjM
+v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 הָאָדָ֗ם|hā·’ā·ḏām|man|H120|Art | N-ms
 v6 אִ֤ישׁ|’îš|will cause each|H376|N-ms
 v6 בְּיַד־|bə·yaḏ-|into the hands|H3027|Prep-b | N-fsc
@@ -123,7 +123,7 @@ v9 תִּכָּחֵ֔ד|tik·kā·ḥêḏ|perish|H3582|V-Nifal-Imperf-3fs
 v9 וְהַ֨נִּשְׁאָר֔וֹת|wə·han·niš·’ā·rō·wṯ|and let those who remain|H7604|Conj-w, Art | V-Nifal-Prtcpl-fp
 v9 תֹּאכַ֕לְנָה|tō·ḵal·nāh|devour|H398|V-Qal-Imperf-3fp
 v9 אִשָּׁ֖ה|’iš·šāh|one|H802|N-fs
-v9 אֶת־|’eṯ-||H853|DirObjM
+v9 אֶת־|’eṯ-|-|H853|DirObjM
 v9 בְּשַׂ֥ר|bə·śar|flesh|H1320|N-msc
 v9 רְעוּתָֽהּ׃|rə·‘ū·ṯāh|another's|H7468|N-fsc | 3fs
 v10 וָאֶקַּ֤ח|wā·’eq·qaḥ|Next I took|H3947|Conj-w | V-Qal-ConsecImperf-1cs
@@ -201,13 +201,13 @@ v14 הָֽאַחֲוָ֔ה|hā·’a·ḥă·wāh|the brotherhood|H264|Art | N-
 v14 בֵּ֥ין|bên|between|H996|Prep
 v14 יְהוּדָ֖ה|yə·hū·ḏāh|Judah|H3063|N-proper-ms
 v14 וּבֵ֥ין|ū·ḇên|...|H996|Conj-w | Prep
-v14 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|and Israel|H3478|N-proper-ms
+v14 יִשְׂרָאֵֽל׃|yiś·rā·’êl|and Israel|H3478|N-proper-ms
 v15 וַיֹּ֥אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v15 יְהוָ֖ה|Yah·weh|And the LORD|H3068|N-proper-ms
 v15 אֵלָ֑י|’ê·lāy|to me|H413|Prep | 1cs
 v15 ע֣וֹד|‘ō·wḏ|once more|H5750|Adv
 v15 קַח־|qaḥ-|Take up|H3947|V-Qal-Imp-ms
-v15 לְךָ֔|lə·ḵā||H0|Prep | 2ms
+v15 לְךָ֔|lə·ḵā|-|H0|Prep | 2ms
 v15 כְּלִ֖י|kə·lî|the equipment|H3627|N-msc
 v15 רֹעֶ֥ה|rō·‘eh|shepherd|H7462|V-Qal-Prtcpl-ms
 v15 אֱוִלִֽי׃|’ĕ·wi·lî|of a foolish|H196|Adj-ms
@@ -233,7 +233,7 @@ v16 וּבְשַׂ֤ר|ū·ḇə·śar|the flesh|H1320|Conj-w | N-msc
 v16 הַבְּרִיאָה֙|hab·bə·rî·’āh|of the choice [sheep]|H1277|Art | Adj-fs
 v16 יֹאכַ֔ל|yō·ḵal|but he will devour|H398|V-Qal-Imperf-3ms
 v16 וּפַרְסֵיהֶ֖ן|ū·p̄ar·sê·hen|their hooves|H6541|Conj-w | N-fpc | 3fp
-v16 יְפָרֵֽק׃ס|yə·p̄ā·rêq|and tear off|H6561|V-Piel-Imperf-3ms
+v16 יְפָרֵֽק׃|yə·p̄ā·rêq|and tear off|H6561|V-Piel-Imperf-3ms
 v17 ה֣וֹי|hō·w|Woe|H1945|Interjection
 v17 רֹעִ֤י|rō·‘î|shepherd|H7462|V-Qal-Prtcpl-msc
 v17 הָֽאֱלִיל֙|hā·’ĕ·lîl|to the worthless|H457|Art | Adj-ms
@@ -251,4 +251,4 @@ v17 תִּיבָ֔שׁ|tî·ḇāš|...|H3001|V-Qal-Imperf-3fs
 v17 וְעֵ֥ין|wə·‘ên|eye|H5869|Conj-w | N-csc
 v17 יְמִינ֖וֹ|yə·mî·nōw|and his right|H3225|N-fsc | 3ms
 v17 כָּהֹ֥ה|kā·hōh|utterly blinded|H3543|V-Qal-InfAbs
-v17 תִכְהֶֽה׃ס|ṯiḵ·heh|...|H3543|V-Qal-Imperf-3fs
+v17 תִכְהֶֽה׃|ṯiḵ·heh|...|H3543|V-Qal-Imperf-3fs

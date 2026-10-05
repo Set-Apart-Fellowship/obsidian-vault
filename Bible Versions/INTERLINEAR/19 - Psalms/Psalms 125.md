@@ -11,7 +11,7 @@ v1 יֵשֵֽׁב׃|yê·šêḇ|it abides|H3427|V-Qal-Imperf-3ms
 v2 יְֽרוּשָׁלִַ֗ם|yə·rū·šā·lim|Jerusalem|H3389|N-proper-fs
 v2 הָרִים֮|hā·rîm|As the mountains|H2022|N-mp
 v2 סָבִ֪יב|sā·ḇîḇ|surround|H5439|Adv
-v2 לָ֥הּ|lāh||H0|Prep | 3fs
+v2 לָ֥הּ|lāh|-|H0|Prep | 3fs
 v2 וַ֭יהוָה|Yah·weh|so the LORD|H3068|Conj-w | N-proper-ms
 v2 סָבִ֣יב|sā·ḇîḇ|surrounds|H5439|Adv
 v2 לְעַמּ֑וֹ|lə·‘am·mōw|His people|H5971|Prep-l | N-msc | 3ms

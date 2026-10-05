@@ -33,7 +33,7 @@ v5 בְּ֭פָעֳלָם|bə·p̄ā·‘o·lām|to work|H6467|Prep-b | N-msc | 
 v5 מְשַׁחֲרֵ֣י|mə·ša·ḥă·rê|foraging|H7836|V-Piel-Prtcpl-mpc
 v5 לַטָּ֑רֶף|laṭ·ṭā·rep̄|for food|H2964|Prep-l, Art | N-ms
 v5 עֲרָבָ֥ה|‘ă·rā·ḇāh|the wasteland|H6160|N-fs
-v5 ל֥וֹ|lōw||H0|Prep | 3ms
+v5 ל֥וֹ|lōw|-|H0|Prep | 3ms
 v5 לֶ֝֗חֶם|le·ḥem|is food|H3899|N-ms
 v5 לַנְּעָרִֽים׃|lan·nə·‘ā·rîm|for their children|H5288|Prep-l, Art | N-mp
 v6 בַּ֭שָּׂדֶה|baś·śā·ḏeh|in the fields|H7704|Prep-b, Art | N-ms
@@ -120,7 +120,7 @@ v16 בַּחֹ֗שֶׁךְ|ba·ḥō·šeḵ|In the dark|H2822|Prep-b, Art | N-m
 v16 בָּ֫תִּ֥ים|bāt·tîm|houses|H1004|N-mp
 v16 יוֹמָ֥ם|yō·w·mām|by day|H3119|Adv
 v16 חִתְּמוּ־|ḥit·tə·mū-|they shut themselves in|H2856|V-Piel-Perf-3cp
-v16 לָ֗מוֹ|lā·mōw||H0|Prep | 3mp
+v16 לָ֗מוֹ|lā·mōw|-|H0|Prep | 3mp
 v16 לֹא־|lō-|never|H3808|Adv-NegPrt
 v16 יָ֥דְעוּ|yā·ḏə·‘ū|to experience|H3045|V-Qal-Perf-3cp
 v16 אֽוֹר׃|’ō·wr|the light|H216|N-cs
@@ -149,7 +149,7 @@ v19 צִיָּ֤ה|ṣî·yāh|As drought|H6723|N-fs
 v19 גַם־|ḡam-|and|H1571|Conj
 v19 חֹ֗ם|ḥōm|heat|H2527|N-ms
 v19 יִגְזְל֥וּ|yiḡ·zə·lū|consume|H1497|V-Qal-Imperf-3mp
-v19 מֵֽימֵי־|mê·mê-|vvv|H4325|N-mpc
+v19 מֵֽימֵי־|mê·mê-|...|H4325|N-mpc
 v19 שֶׁ֗לֶג|še·leḡ|the melting snow|H7950|N-ms
 v19 שְׁא֣וֹל|šə·’ō·wl|so Sheol|H7585|N-csc
 v19 חָטָֽאוּ׃|ḥā·ṭā·’ū|steals those who have sinned|H2398|V-Qal-Perf-3cp
@@ -200,4 +200,4 @@ v25 מִ֣י|mî|who|H4310|Interrog
 v25 יַכְזִיבֵ֑נִי|yaḵ·zî·ḇê·nî|can prove me a liar|H3576|V-Hifil-Imperf-3ms | 1cs
 v25 וְיָשֵׂ֥ם|wə·yā·śêm|and reduce|H7760|Conj-w | V-Qal-ConjImperf.Jus-3ms
 v25 לְ֝אַ֗ל|lə·’al|to nothing|H408|Prep-l | Adv
-v25 מִלָּתִֽי׃ס|mil·lā·ṯî|my words|H4405|N-fsc | 1cs
+v25 מִלָּתִֽי׃|mil·lā·ṯî|my words|H4405|N-fsc | 1cs

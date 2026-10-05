@@ -249,4 +249,4 @@ v16 אָ֣ב|’āḇ|a father|H1|N-ms
 v16 לְבִתּ֔וֹ|lə·ḇit·tōw|and a young daughter|H1323|Prep-l | N-fsc | 3ms
 v16 בִּנְעֻרֶ֖יהָ|bin·‘u·re·hā|...|H5271|Prep-b | N-mpc | 3fs
 v16 בֵּ֥ית|bêṯ|home|H1004|N-msc
-v16 אָבִֽיהָ׃פ|’ā·ḇî·hā|still in his|H1|N-msc | 3fs
+v16 אָבִֽיהָ׃|’ā·ḇî·hā|still in his|H1|N-msc | 3fs

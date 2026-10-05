@@ -35,7 +35,7 @@ v5 כֹּֽחַ׃|kō·aḥ|his strength|H3581|N-ms
 v6 כִּ֣י|kî|Only|H3588|Conj
 v6 בְ֭תַחְבֻּלוֹת|ḇə·ṯaḥ·bu·lō·wṯ|with sound guidance|H8458|Prep-b | N-fp
 v6 תַּעֲשֶׂה־|ta·‘ă·śeh-|should you wage|H6213|V-Qal-Imperf-2ms
-v6 לְּךָ֣|lə·ḵā||H0|Prep | 2ms
+v6 לְּךָ֣|lə·ḵā|-|H0|Prep | 2ms
 v6 מִלְחָמָ֑ה|mil·ḥā·māh|war|H4421|N-fs
 v6 וּ֝תְשׁוּעָ֗ה|ū·ṯə·šū·‘āh|and victory|H8668|Conj-w | N-fs
 v6 בְּרֹ֣ב|bə·rōḇ|lies in a multitude|H7230|Prep-b | N-ms
@@ -49,7 +49,7 @@ v7 יִפְתַּח־|yip̄·taḥ-|open|H6605|V-Qal-Imperf-3ms
 v7 פִּֽיהוּ׃|pî·hū|his mouth|H6310|N-msc | 3ms
 v8 מְחַשֵּׁ֥ב|mə·ḥaš·šêḇ|He who plots|H2803|V-Piel-Prtcpl-ms
 v8 לְהָרֵ֑עַ|lə·hā·rê·a‘|evil|H7489|Prep-l | V-Hifil-Inf
-v8 ל֝֗וֹ|lōw||H0|Prep | 3ms
+v8 ל֝֗וֹ|lōw|-|H0|Prep | 3ms
 v8 בַּֽעַל־|ba·‘al-|a schemer|H1167|N-msc
 v8 מְזִמּ֥וֹת|mə·zim·mō·wṯ|...|H4209|N-fp
 v8 יִקְרָֽאוּ׃|yiq·rā·’ū|will be called|H7121|V-Qal-Imperf-3mp
@@ -108,7 +108,7 @@ v14 וְיֵ֣שׁ|wə·yêš|there is|H3426|Conj-w | Adv
 v14 אַחֲרִ֑ית|’a·ḥă·rîṯ|a future [for you]|H319|N-fs
 v14 וְ֝תִקְוָתְךָ֗|wə·ṯiq·wā·ṯə·ḵā|and your hope|H8615|Conj-w | N-fsc | 2ms
 v14 לֹ֣א|lō|will never|H3808|Adv-NegPrt
-v14 תִכָּרֵֽת׃פ|ṯik·kā·rêṯ|be cut off|H3772|V-Nifal-Imperf-3fs
+v14 תִכָּרֵֽת׃|ṯik·kā·rêṯ|be cut off|H3772|V-Nifal-Imperf-3fs
 v15 אַל־|’al-|Do not|H408|Adv
 v15 תֶּאֱרֹ֣ב|te·’ĕ·rōḇ|lie in wait|H693|V-Qal-Imperf-2ms
 v15 רָ֭שָׁע|rā·šā‘|O wicked [man]|H7563|Adj-ms
@@ -171,7 +171,7 @@ v22 אֵידָ֑ם|’ê·ḏām|destruction|H343|N-msc | 3mp
 v22 וּפִ֥יד|ū·p̄îḏ|what ruin|H6365|Conj-w | N-msc
 v22 שְׁ֝נֵיהֶ֗ם|šə·nê·hem|[they] can bring|H8147|Number-mdc | 3mp
 v22 מִ֣י|mî|Who|H4310|Interrog
-v22 יוֹדֵֽעַ׃ס|yō·w·ḏê·a‘|knows|H3045|V-Qal-Prtcpl-ms
+v22 יוֹדֵֽעַ׃|yō·w·ḏê·a‘|knows|H3045|V-Qal-Prtcpl-ms
 v23 גַּם־|gam-|also|H1571|Conj
 v23 אֵ֥לֶּה|’êl·leh|These|H428|Pro-cp
 v23 לַֽחֲכָמִ֑ים|la·ḥă·ḵā·mîm|are sayings of the wise|H2450|Prep-l, Art | Adj-mp
@@ -204,10 +204,10 @@ v27 בַּח֨וּץ׀|ba·ḥūṣ|your outdoor|H2351|Prep-b, Art | N-ms
 v27 מְלַאכְתֶּ֗ךָ|mə·laḵ·te·ḵā|work|H4399|N-fsc | 2ms
 v27 וְעַתְּדָ֣הּ|wə·‘at·tə·ḏāh|and prepare|H6257|Conj-w | V-Piel-Imp-ms | 3fs
 v27 בַּשָּׂדֶ֣ה|baś·śā·ḏeh|your field|H7704|Prep-b, Art | N-ms
-v27 לָ֑ךְ|lāḵ||H0|Prep | 2fs
+v27 לָ֑ךְ|lāḵ|-|H0|Prep | 2fs
 v27 אַ֝חַ֗ר|’a·ḥar|after that|H310|Adv
 v27 וּבָנִ֥יתָ|ū·ḇā·nî·ṯā|you may build|H1129|Conj-w | V-Qal-ConjPerf-2ms
-v27 בֵיתֶֽךָ׃פ|ḇê·ṯe·ḵā|your house|H1004|N-msc | 2ms
+v27 בֵיתֶֽךָ׃|ḇê·ṯe·ḵā|your house|H1004|N-msc | 2ms
 v28 אַל־|’al-|Do not|H408|Adv
 v28 תְּהִ֣י|tə·hî|testify|H1961|V-Qal-Imperf.Jus-2ms
 v28 עֵד־|‘êḏ-|...|H5707|N-ms
@@ -266,4 +266,4 @@ v34 מִתְהַלֵּ֥ךְ|miṯ·hal·lêḵ|like a robber|H1980|V-Hitpael-Pr
 v34 רֵישֶׁ֑ךָ|rê·še·ḵā|and poverty|H7389|N-msc | 2ms
 v34 וּ֝מַחְסֹרֶ֗יךָ|ū·maḥ·sō·re·ḵā|and need|H4270|Conj-w | N-mpc | 2ms
 v34 כְּאִ֣ישׁ|kə·’îš|like a bandit|H376|Prep-k | N-ms
-v34 מָגֵֽן׃פ|mā·ḡên|...|H4043|N-ms
+v34 מָגֵֽן׃|mā·ḡên|...|H4043|N-ms

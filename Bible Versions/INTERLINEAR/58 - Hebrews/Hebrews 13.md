@@ -23,7 +23,7 @@ v3 ὡς|hōs|as if|G5613|Adv
 v3 καὶ|kai|-|G2532|Conj
 v3 αὐτοὶ|autoi|you|G846|PPro-NM3P
 v3 ὄντες|ontes|were|G1510|V-PPA-NMP
-v3 ἐν|en|vvv|G1722|Prep
+v3 ἐν|en|...|G1722|Prep
 v3 σώματι|sōmati|[suffering with them]|G4983|N-DNS
 v4 Τίμιος|Timios|should be honored|G5093|Adj-NMS
 v4 ὁ|ho|-|G3588|Art-NMS
@@ -42,7 +42,7 @@ v4 κρινεῖ|krinei|will judge|G2919|V-FIA-3S
 v4 ὁ|ho|-|G3588|Art-NMS
 v4 Θεός|Theos|God|G2316|N-NMS
 v5 Ἀφιλάργυρος|Aphilargyros|free from the love of money|G866|Adj-NMS
-v5 ὁ|ho|vvv|G3588|Art-NMS
+v5 ὁ|ho|...|G3588|Art-NMS
 v5 τρόπος|tropos|Keep your lives|G5158|N-NMS
 v5 ἀρκούμενοι|arkoumenoi|[and] be content|G714|V-PPM/P-NMP
 v5 τοῖς|tois|with what|G3588|Art-DNP
@@ -51,12 +51,12 @@ v5 αὐτὸς|autos|[God]|G846|PPro-NM3S
 v5 γὰρ|gar|for|G1063|Conj
 v5 εἴρηκεν|eirēken|has said|G2046|V-RIA-3S
 v5 Οὐ|Ou|Never|G3756|Adv
-v5 μή|mē|vvv|G3361|Adv
+v5 μή|mē|...|G3361|Adv
 v5 σε|se|you|G4771|PPro-A2S
 v5 ἀνῶ|anō|will I leave|G447|V-ASA-1S
-v5 οὐδ’|oud’|vvv|G3761|Conj
+v5 οὐδ’|oud’|...|G3761|Conj
 v5 οὐ|ou|never|G3756|Adv
-v5 μή|mē|vvv|G3361|Adv
+v5 μή|mē|...|G3361|Adv
 v5 σε|se|you|G4771|PPro-A2S
 v5 ἐγκαταλίπω|enkatalipō|will I forsake|G1459|V-ASA-1S
 v6 Ὥστε|Hōste|So|G5620|Conj
@@ -67,7 +67,7 @@ v6 Κύριος|Kyrios|[The] Lord [is]|G2962|N-NMS
 v6 ἐμοὶ|emoi|my|G1473|PPro-D1S
 v6 βοηθός|boēthos|helper|G998|N-NMS
 v6 [καὶ]|kai|-|G2532|Conj
-v6 οὐ|ou|vvv|G3756|Adv
+v6 οὐ|ou|...|G3756|Adv
 v6 φοβηθήσομαι|phobēthēsomai|I will not be afraid|G5399|V-FIP-1S
 v6 τί|ti|What|G5101|IPro-ANS
 v6 ποιήσει|poiēsei|do|G4160|V-FIA-3S
@@ -101,8 +101,8 @@ v8 σήμερον|sēmeron|today|G4594|Adv
 v8 ὁ|ho|[is] the|G3588|Art-NMS
 v8 αὐτός|autos|same|G846|PPro-NM3S
 v8 καὶ|kai|and|G2532|Conj
-v8 εἰς|eis|vvv|G1519|Prep
-v8 τοὺς|tous|vvv|G3588|Art-AMP
+v8 εἰς|eis|...|G1519|Prep
+v8 τοὺς|tous|...|G3588|Art-AMP
 v8 αἰῶνας|aiōnas|forever|G165|N-AMP
 v9 Διδαχαῖς|Didachais|teachings|G1322|N-DFP
 v9 ποικίλαις|poikilais|all kinds|G4164|Adj-DFP
@@ -183,7 +183,7 @@ v13 τὸν|ton|the|G3588|Art-AMS
 v13 ὀνειδισμὸν|oneidismon|disgrace|G3680|N-AMS
 v13 αὐτοῦ|autou|He [bore]|G846|PPro-GM3S
 v13 φέροντες|pherontes|bearing|G5342|V-PPA-NMP
-v14 οὐ|ou|vvv|G3756|Adv
+v14 οὐ|ou|...|G3756|Adv
 v14 γὰρ|gar|For|G1063|Conj
 v14 ἔχομεν|echomen|we do not have|G2192|V-PIA-1P
 v14 ὧδε|hōde|here|G5602|Adv
@@ -322,8 +322,8 @@ v21 Χριστοῦ|Christou|Christ|G5547|N-GMS
 v21 ᾧ|hō|to whom [be]|G3739|RelPro-DMS
 v21 ἡ|hē|-|G3588|Art-NFS
 v21 δόξα|doxa|glory|G1391|N-NFS
-v21 εἰς|eis|vvv|G1519|Prep
-v21 τοὺς|tous|vvv|G3588|Art-AMP
+v21 εἰς|eis|...|G1519|Prep
+v21 τοὺς|tous|...|G3588|Art-AMP
 v21 αἰῶνας|aiōnas|forever|G165|N-AMP
 v21 τῶν|tōn|[and]|G3588|Art-GMP
 v21 αἰώνων|aiōnōn|ever|G165|N-GMP
@@ -339,7 +339,7 @@ v22 τῆς|tēs|-|G3588|Art-GFS
 v22 παρακλήσεως|paraklēseōs|of exhortation|G3874|N-GFS
 v22 καὶ|kai|-|G2532|Conj
 v22 γὰρ|gar|for|G1063|Conj
-v22 διὰ|dia|vvv|G1223|Prep
+v22 διὰ|dia|...|G1223|Prep
 v22 βραχέων|bracheōn|briefly|G1024|Adj-GMP
 v22 ἐπέστειλα|epesteila|I have {only} written|G1989|V-AIA-1S
 v22 ὑμῖν|hymin|to you|G4771|PPro-D2P

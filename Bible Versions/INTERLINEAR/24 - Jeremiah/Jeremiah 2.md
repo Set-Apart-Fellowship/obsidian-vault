@@ -12,7 +12,7 @@ v2 כֹּ֚ה|kōh|that this is what|H3541|Adv
 v2 אָמַ֣ר|’ā·mar|...|H559|V-Qal-Perf-3ms
 v2 יְהוָ֔ה|Yah·weh|the LORD|H3068|N-proper-ms
 v2 זָכַ֤רְתִּי|zā·ḵar·tî|I remember|H2142|V-Qal-Perf-1cs
-v2 לָךְ֙|lāḵ||H0|Prep | 2fs
+v2 לָךְ֙|lāḵ|-|H0|Prep | 2fs
 v2 חֶ֣סֶד|ḥe·seḏ|the devotion|H2617|N-msc
 v2 נְעוּרַ֔יִךְ|nə·‘ū·ra·yiḵ|of your youth|H5271|N-mpc | 2fs
 v2 אַהֲבַ֖ת|’a·hă·ḇaṯ|your love|H160|N-fsc
@@ -35,7 +35,7 @@ v3 רָעָ֛ה|rā·‘āh|disaster|H7451|Adj-fs
 v3 תָּבֹ֥א|tā·ḇō|came|H935|V-Qal-Imperf-3fs
 v3 אֲלֵיהֶ֖ם|’ă·lê·hem|upon them|H413|Prep | 3mp
 v3 נְאֻם־|nə·’um-|declares|H5002|N-msc
-v3 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v3 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v4 שִׁמְע֥וּ|šim·‘ū|Hear|H8085|V-Qal-Imp-mp
 v4 דְבַר־|ḏə·ḇar-|the word|H1697|N-msc
 v4 יְהוָ֖ה|Yah·weh|of the LORD|H3068|N-proper-ms
@@ -65,7 +65,7 @@ v6 אָמְר֔וּ|’ā·mə·rū|ask|H559|V-Qal-Perf-3cp
 v6 אַיֵּ֣ה|’ay·yêh|Where|H346|Interrog
 v6 יְהוָ֔ה|Yah·weh|is the LORD|H3068|N-proper-ms
 v6 הַמַּעֲלֶ֥ה|ham·ma·‘ă·leh|who brought us up|H5927|Art | V-Hifil-Prtcpl-ms
-v6 אֹתָ֖נוּ|’ō·ṯā·nū||H853|DirObjM | 1cp
+v6 אֹתָ֖נוּ|’ō·ṯā·nū|-|H853|DirObjM | 1cp
 v6 מֵאֶ֣רֶץ|mê·’e·reṣ|from the land|H776|Prep-m | N-fsc
 v6 מִצְרָ֑יִם|miṣ·rā·yim|of Egypt|H4714|N-proper-fs
 v6 הַמּוֹלִ֨יךְ|ham·mō·w·lîḵ|who led|H1980|Art | V-Hifil-Prtcpl-ms
@@ -80,7 +80,7 @@ v6 וְצַלְמָ֔וֶת|wə·ṣal·mā·weṯ|and darkness|H6757|Conj-w | N
 v6 בְּאֶ֗רֶץ|bə·’e·reṣ|a land|H776|Prep-b | N-fs
 v6 לֹֽא־|lō-|where no|H3808|Adv-NegPrt
 v6 עָ֤בַר|‘ā·ḇar|travels|H5674|V-Qal-Perf-3ms
-v6 בָּהּ֙|bāh||H0|Prep | 3fs
+v6 בָּהּ֙|bāh|-|H0|Prep | 3fs
 v6 אִ֔ישׁ|’îš|one|H376|N-ms
 v6 וְלֹֽא־|wə·lō-|no|H3808|Conj-w | Adv-NegPrt
 v6 יָשַׁ֥ב|yā·šaḇ|lives|H3427|V-Qal-Perf-3ms
@@ -222,14 +222,14 @@ v17 מוֹלִיכֵ֥ךְ|mō·w·lî·ḵêḵ|He led you|H1980|V-Hifil-Prtcpl
 v17 בַּדָּֽרֶךְ׃|bad·dā·reḵ|in the way|H1870|Prep-b, Art | N-cs
 v18 וְעַתָּ֗ה|wə·‘at·tāh|Now|H6258|Conj-w | Adv
 v18 מַה־|mah-|what will you gain|H4100|Interrog
-v18 לָּךְ֙|lāḵ||H0|Prep | 2fs
+v18 לָּךְ֙|lāḵ|-|H0|Prep | 2fs
 v18 לְדֶ֣רֶךְ|lə·ḏe·reḵ|on your way|H1870|Prep-l | N-csc
 v18 מִצְרַ֔יִם|miṣ·ra·yim|to Egypt|H4714|N-proper-fs
 v18 לִשְׁתּ֖וֹת|liš·tō·wṯ|to drink|H8354|Prep-l | V-Qal-Inf
 v18 מֵ֣י|mê|the waters|H4325|N-mpc
 v18 שִׁח֑וֹר|ši·ḥō·wr|of the Nile|H7883|N-proper-fs
 v18 וּמַה־|ū·mah-|What will you gain|H4100|Conj-w | Interrog
-v18 לָּךְ֙|lāḵ||H0|Prep | 2fs
+v18 לָּךְ֙|lāḵ|-|H0|Prep | 2fs
 v18 לְדֶ֣רֶךְ|lə·ḏe·reḵ|on your way|H1870|Prep-l | N-csc
 v18 אַשּׁ֔וּר|’aš·šūr|to Assyria|H804|N-proper-fs
 v18 לִשְׁתּ֖וֹת|liš·tō·wṯ|to drink|H8354|Prep-l | V-Qal-Inf
@@ -293,7 +293,7 @@ v22 אִם־|’im-|...|H518|Conj
 v22 תְּכַבְּסִי֙|tə·ḵab·bə·sî|you wash|H3526|V-Piel-Imperf-2fs
 v22 בַּנֶּ֔תֶר|ban·ne·ṯer|with lye|H5427|Prep-b, Art | N-ms
 v22 וְתַרְבִּי־|wə·ṯar·bî-|and use an abundance|H7235|Conj-w | V-Hifil-ConjImperf-2fs
-v22 לָ֖ךְ|lāḵ||H0|Prep | 2fs
+v22 לָ֖ךְ|lāḵ|-|H0|Prep | 2fs
 v22 בֹּרִ֑ית|bō·rîṯ|of soap|H1287|N-fs
 v22 נִכְתָּ֤ם|niḵ·tām|the stain|H3799|V-Nifal-Prtcpl-ms
 v22 עֲוֺנֵךְ֙|‘ă·wō·nêḵ|of your guilt|H5771|N-csc | 2fs
@@ -394,7 +394,7 @@ v28 מִסְפַּ֣ר|mis·par|as numerous|H4557|N-msc
 v28 עָרֶ֔יךָ|‘ā·re·ḵā|as your cities|H5892|N-fpc | 2ms
 v28 הָי֥וּ|hā·yū|are|H1961|V-Qal-Perf-3cp
 v28 אֱלֹהֶ֖יךָ|’ĕ·lō·he·ḵā|your gods|H430|N-mpc | 2ms
-v28 יְהוּדָֽה׃ס|yə·hū·ḏāh|O Judah|H3063|N-proper-ms
+v28 יְהוּדָֽה׃|yə·hū·ḏāh|O Judah|H3063|N-proper-ms
 v29 לָ֥מָּה|lām·māh|Why|H4100|Interrog
 v29 תָרִ֖יבוּ|ṯā·rî·ḇū|do you bring a case|H7378|V-Qal-Imperf-2mp
 v29 אֵלָ֑י|’ê·lāy|against Me|H413|Prep | 1cs

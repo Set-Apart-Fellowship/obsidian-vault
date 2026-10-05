@@ -85,7 +85,7 @@ v7 וְהִנֵּ֗ה|wə·hin·nêh|and found that|H2009|Conj-w | Interjection
 v7 לֹא־|lō-|none|H3808|Adv-NegPrt
 v7 מֵ֛ת|mêṯ|had died|H4191|V-Qal-Perf-3ms
 v7 מִמִּקְנֵ֥ה|mim·miq·nêh|of the livestock|H4735|Prep-m | N-msc
-v7 יִשְׂרָאֵ֖ל|yiś·rā·’êl|vvv|H3478|N-proper-ms
+v7 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v7 עַד־|‘aḏ-|of the Israelites|H5704|Prep
 v7 אֶחָ֑ד|’e·ḥāḏ|...|H259|Number-ms
 v7 וַיִּכְבַּד֙|way·yiḵ·baḏ|was hardened|H3513|Conj-w | V-Qal-ConsecImperf-3ms
@@ -94,7 +94,7 @@ v7 פַּרְעֹ֔ה|par·‘ōh|But Pharaoh's|H6547|N-proper-ms
 v7 וְלֹ֥א|wə·lō|and he would not|H3808|Conj-w | Adv-NegPrt
 v7 שִׁלַּ֖ח|šil·laḥ|go|H7971|V-Piel-Perf-3ms
 v7 אֶת־|’eṯ-|-|H853|DirObjM
-v7 הָעָֽם׃פ|hā·‘ām|let the people|H5971|Art | N-ms
+v7 הָעָֽם׃|hā·‘ām|let the people|H5971|Art | N-ms
 v8 וַיֹּ֣אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v8 יְהוָה֮|Yah·weh|Then the LORD|H3068|N-proper-ms
 v8 אֶל־|’el-|to|H413|Prep
@@ -102,7 +102,7 @@ v8 מֹשֶׁ֣ה|mō·šeh|Moses|H4872|N-proper-ms
 v8 וְאֶֽל־|wə·’el-|...|H413|Conj-w | Prep
 v8 אַהֲרֹן֒|’a·hă·rōn|and Aaron|H175|N-proper-ms
 v8 קְח֤וּ|qə·ḥū|Take|H3947|V-Qal-Imp-mp
-v8 לָכֶם֙|lā·ḵem||H0|Prep | 2mp
+v8 לָכֶם֙|lā·ḵem|-|H0|Prep | 2mp
 v8 מְלֹ֣א|mə·lō|handfuls|H4393|N-msc
 v8 חָפְנֵיכֶ֔ם|ḥā·p̄ə·nê·ḵem|...|H2651|N-mdc | 2mp
 v8 פִּ֖יחַ|pî·aḥ|of soot|H6368|N-msc
@@ -172,7 +172,7 @@ v12 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v12 דִּבֶּ֥ר|dib·ber|had said|H1696|V-Piel-Perf-3ms
 v12 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v12 אֶל־|’el-|...|H413|Prep
-v12 מֹשֶֽׁה׃ס|mō·šeh|to Moses|H4872|N-proper-ms
+v12 מֹשֶֽׁה׃|mō·šeh|to Moses|H4872|N-proper-ms
 v13 וַיֹּ֤אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v13 יְהוָה֙|Yah·weh|Then the LORD|H3068|N-proper-ms
 v13 אֶל־|’el-|to|H413|Prep
@@ -297,7 +297,7 @@ v20 מִקְנֵ֖הוּ|miq·nê·hū|and livestock|H4735|N-msc | 3ms
 v20 אֶל־|’el-|to|H413|Prep
 v20 הַבָּתִּֽים׃|hab·bāt·tîm|shelter|H1004|Art | N-mp
 v21 וַאֲשֶׁ֥ר|wa·’ă·šer|but those who|H834|Conj-w | Pro-r
-v21 לֹא־|lō-|vvv|H3808|Adv-NegPrt
+v21 לֹא־|lō-|...|H3808|Adv-NegPrt
 v21 שָׂ֛ם|śām|disregarded|H7760|V-Qal-Perf-3ms
 v21 לִבּ֖וֹ|lib·bōw|...|H3820|N-msc | 3ms
 v21 אֶל־|’el-|...|H413|Prep
@@ -308,7 +308,7 @@ v21 אֶת־|’eṯ-|-|H853|DirObjM
 v21 עֲבָדָ֥יו|‘ă·ḇā·ḏāw|their servants|H5650|N-mpc | 3ms
 v21 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v21 מִקְנֵ֖הוּ|miq·nê·hū|and livestock|H4735|N-msc | 3ms
-v21 בַּשָּׂדֶֽה׃פ|baś·śā·ḏeh|in the field|H7704|Prep-b, Art | N-ms
+v21 בַּשָּׂדֶֽה׃|baś·śā·ḏeh|in the field|H7704|Prep-b, Art | N-ms
 v22 וַיֹּ֨אמֶר|way·yō·mer|said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v22 יְהוָ֜ה|Yah·weh|Then the LORD|H3068|N-proper-ms
 v22 אֶל־|’el-|to|H413|Prep
@@ -518,4 +518,4 @@ v35 כַּאֲשֶׁ֛ר|ka·’ă·šer|just as|H834|Prep-k | Pro-r
 v35 דִּבֶּ֥ר|dib·ber|had said|H1696|V-Piel-Perf-3ms
 v35 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
 v35 בְּיַד־|bə·yaḏ-|through|H3027|Prep-b | N-fsc
-v35 מֹשֶֽׁה׃פ|mō·šeh|Moses|H4872|N-proper-ms
+v35 מֹשֶֽׁה׃|mō·šeh|Moses|H4872|N-proper-ms

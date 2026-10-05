@@ -49,7 +49,7 @@ v4 וּלְהוֹד֣וֹת|ū·lə·hō·w·ḏō·wṯ|to give thanks|H3034|Co
 v4 וּלְהַלֵּ֔ל|ū·lə·hal·lêl|and to praise|H1984|Conj-w, Prep-l | V-Piel-Inf
 v4 לַיהוָ֖ה|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
 v4 אֱלֹהֵ֥י|’ĕ·lō·hê|the God|H430|N-mpc
-v4 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v4 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v5 אָסָ֥ף|’ā·sāp̄|Asaph|H623|N-proper-ms
 v5 הָרֹ֖אשׁ|hā·rōš|was the chief|H7218|Art | N-ms
 v5 וּמִשְׁנֵ֣הוּ|ū·miš·nê·hū|was second|H4932|Conj-w | N-msc | 3ms
@@ -60,7 +60,7 @@ v5 וִֽיחִיאֵ֡ל|wî·ḥî·’êl|Jehiel|H3171|Conj-w | N-proper-ms
 v5 וּמַתִּתְיָ֡ה|ū·mat·tiṯ·yāh|Mattithiah|H4993|Conj-w | N-proper-ms
 v5 וֶאֱלִיאָ֡ב|we·’ĕ·lî·’āḇ|Eliab|H446|Conj-w | N-proper-ms
 v5 וּבְנָיָהוּ֩|ū·ḇə·nā·yā·hū|Benaiah|H1141|Conj-w | N-proper-ms
-v5 וְעֹבֵ֨ד|wə·‘ō·ḇêḏ|vvv|H5654|
+v5 וְעֹבֵ֨ד|wə·‘ō·ḇêḏ|...|H5654|
 v5 אֱדֹ֜ם|’ĕ·ḏōm|Obed-edom|H5654|Conj-w | N-proper-ms
 v5 וִֽיעִיאֵ֗ל|wî·‘î·’êl|and Jeiel|H3273|Conj-w | N-proper-ms
 v5 בִּכְלֵ֤י|biḵ·lê|...|H3627|Prep-b | N-mpc
@@ -88,7 +88,7 @@ v7 לְהֹד֖וֹת|lə·hō·ḏō·wṯ|[this song] of thanksgiving|H3034|Pr
 v7 לַיהוָ֑ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v7 בְּיַד־|bə·yaḏ-|to|H3027|Prep-b | N-fsc
 v7 אָסָ֖ף|’ā·sāp̄|Asaph|H623|N-proper-ms
-v7 וְאֶחָֽיו׃פ|wə·’e·ḥāw|and his associates|H251|Conj-w | N-mpc | 3ms
+v7 וְאֶחָֽיו׃|wə·’e·ḥāw|and his associates|H251|Conj-w | N-mpc | 3ms
 v8 הוֹד֤וּ|hō·w·ḏū|Give thanks|H3034|V-Hifil-Imp-mp
 v8 לַֽיהוָה֙|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v8 קִרְא֣וּ|qir·’ū|call|H7121|V-Qal-Imp-mp
@@ -187,7 +187,7 @@ v22 תִּגְּעוּ֙|tig·gə·‘ū|touch|H5060|V-Qal-Imperf-2mp
 v22 בִּמְשִׁיחָ֔י|bim·šî·ḥāy|My anointed ones|H4899|Prep-b | Adj-mpc | 1cs
 v22 וּבִנְבִיאַ֖י|ū·ḇin·ḇî·’ay|to My prophets|H5030|Conj-w, Prep-b | N-mpc | 1cs
 v22 אַל־|’al-|Do no|H408|Adv
-v22 תָּרֵֽעוּ׃פ|tā·rê·‘ū|harm|H7489|V-Hifil-Imperf-2mp
+v22 תָּרֵֽעוּ׃|tā·rê·‘ū|harm|H7489|V-Hifil-Imperf-2mp
 v23 שִׁ֤ירוּ|šî·rū|Sing|H7891|V-Qal-Imp-mp
 v23 לַֽיהוָה֙|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v23 כָּל־|kāl-|all|H3605|N-msc
@@ -317,7 +317,7 @@ v36 כָל־|ḵāl|Then all|H3605|N-msc
 v36 הָעָם֙|hā·‘ām|the people|H5971|Art | N-ms
 v36 אָמֵ֔ן|’ā·mên|Amen|H543|Adv
 v36 וְהַלֵּ֖ל|wə·hal·lêl|and “Praise|H1984|Conj-w | V-Piel-InfAbs
-v36 לַֽיהוָֽה׃פ|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
+v36 לַֽיהוָֽה׃|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms
 v37 וַיַּֽעֲזָב־|way·ya·‘ă·zāḇ-|So David left|H5800|Conj-w | V-Qal-ConsecImperf-3ms
 v37 שָׁ֗ם|šām|there|H8033|Adv
 v37 לִפְנֵי֙|lip̄·nê|before|H6440|Prep-l | N-cpc
@@ -333,12 +333,12 @@ v37 תָּמִ֖יד|tā·mîḏ|regularly|H8548|Adv
 v37 לִדְבַר־|liḏ·ḇar-|requirements|H1697|Prep-l | N-msc
 v37 י֥וֹם|yō·wm|according to the daily|H3117|N-ms
 v37 בְּיוֹמֽוֹ׃|bə·yō·w·mōw|...|H3117|Prep-b | N-msc | 3ms
-v38 וְעֹבֵ֥ד|wə·‘ō·ḇêḏ|vvv|H5654|
+v38 וְעֹבֵ֥ד|wə·‘ō·ḇêḏ|...|H5654|
 v38 אֱדֹ֛ם|’ĕ·ḏōm|along with Obed-edom|H5654|Conj-w | N-proper-ms
 v38 וַאֲחֵיהֶ֖ם|wa·’ă·ḥê·hem|relatives|H251|Conj-w | N-mpc | 3mp
 v38 שִׁשִּׁ֣ים|šiš·šîm|and his sixty-eight|H8346|Number-cp
 v38 וּשְׁמוֹנָ֑ה|ū·šə·mō·w·nāh|...|H8083|Conj-w | Number-ms
-v38 וְעֹבֵ֨ד|wə·‘ō·ḇêḏ||H5654|
+v38 וְעֹבֵ֨ד|wə·‘ō·ḇêḏ|-|H5654|
 v38 אֱדֹ֧ם|’ĕ·ḏōm|Obed-edom|H5654|Conj-w | N-proper-ms
 v38 בֶּן־|ben-|son|H1121|N-msc
 v38 יְדִית֛וּן|yə·ḏî·ṯūn|of Jeduthun|H3038|N-proper-ms
@@ -406,4 +406,4 @@ v43 וַיִּסֹּ֥ב|way·yis·sōḇ|returned home|H5437|Conj-w | V-Qal-Con
 v43 דָּוִ֖יד|dā·wîḏ|and David|H1732|N-proper-ms
 v43 לְבָרֵ֥ךְ|lə·ḇā·rêḵ|to bless|H1288|Prep-l | V-Piel-Inf
 v43 אֶת־|’eṯ-|-|H853|DirObjM
-v43 בֵּיתֽוֹ׃פ|bê·ṯōw|his household|H1004|N-msc | 3ms
+v43 בֵּיתֽוֹ׃|bê·ṯōw|his household|H1004|N-msc | 3ms

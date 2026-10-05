@@ -18,7 +18,7 @@ v2 זֹּ֔את|zōṯ|this|H2063|Pro-fs
 v2 וּבֶן־|ū·ḇen-|and the son|H1121|Conj-w | N-msc
 v2 אָדָ֖ם|’ā·ḏām|of man|H120|N-ms
 v2 יַחֲזִ֣יק|ya·ḥă·zîq|who holds it fast|H2388|V-Hifil-Imperf-3ms
-v2 בָּ֑הּ|bāh||H0|Prep | 3fs
+v2 בָּ֑הּ|bāh|-|H0|Prep | 3fs
 v2 שֹׁמֵ֤ר|šō·mêr|who keeps|H8104|V-Qal-Prtcpl-ms
 v2 שַׁבָּת֙|šab·bāṯ|the Sabbath|H7676|N-cs
 v2 מֵֽחַלְּל֔וֹ|mê·ḥal·lə·lōw|without profaning it|H2490|Prep-m | V-Piel-Inf | 3ms
@@ -26,7 +26,7 @@ v2 וְשֹׁמֵ֥ר|wə·šō·mêr|and keeps|H8104|Conj-w | V-Qal-Prtcpl-ms
 v2 יָד֖וֹ|yā·ḏōw|his hand|H3027|N-fsc | 3ms
 v2 מֵעֲשׂ֥וֹת|mê·‘ă·śō·wṯ|from doing|H6213|Prep-m | V-Qal-Inf
 v2 כָּל־|kāl-|any|H3605|N-msc
-v2 רָֽע׃ס|rā‘|evil|H7451|Adj-ms
+v2 רָֽע׃|rā‘|evil|H7451|Adj-ms
 v3 וְאַל־|wə·’al-|Let no|H408|Conj-w | Adv
 v3 יֹאמַ֣ר|yō·mar|say|H559|V-Qal-Imperf-3ms
 v3 בֶּן־|ben-|foreigner|H1121|N-msc
@@ -34,7 +34,7 @@ v3 הַנֵּכָ֗ר|han·nê·ḵār|...|H5236|Art | N-ms
 v3 הַנִּלְוָ֤ה|han·nil·wāh|who has joined himself|H3867|Art | V-Nifal-Perf-3ms
 v3 אֶל־|’el-|to|H413|Prep
 v3 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
-v3 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v3 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v3 הַבְדֵּ֧ל|haḇ·dêl|will utterly exclude me|H914|V-Hifil-InfAbs
 v3 יַבְדִּילַ֛נִי|yaḇ·dî·la·nî|...|H914|V-Hifil-Imperf-3ms | 1cs
 v3 יְהוָ֖ה|Yah·weh|The LORD|H3068|N-proper-ms
@@ -46,7 +46,7 @@ v3 הַסָּרִ֔יס|has·sā·rîs|And let the eunuch|H5631|Art | N-ms
 v3 הֵ֥ן|hên|am but|H2005|Interjection
 v3 אֲנִ֖י|’ă·nî|I|H589|Pro-1cs
 v3 עֵ֥ץ|‘êṣ|tree|H6086|N-ms
-v3 יָבֵֽשׁ׃ס|yā·ḇêš|a dry|H3002|Adj-ms
+v3 יָבֵֽשׁ׃|yā·ḇêš|a dry|H3002|Adj-ms
 v4 כִּי־|kî-|For|H3588|Conj
 v4 כֹ֣ה׀|ḵōh|this is what|H3541|Adv
 v4 אָמַ֣ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -76,7 +76,7 @@ v5 אֶתֶּן־|’et·ten-|I will give|H5414|V-Qal-Imperf-1cs
 v5 ל֔וֹ|lōw|them|H0|Prep | 3ms
 v5 אֲשֶׁ֖ר|’ă·šer|that|H834|Pro-r
 v5 לֹ֥א|lō|will not|H3808|Adv-NegPrt
-v5 יִכָּרֵֽת׃ס|yik·kā·rêṯ|be cut off|H3772|V-Nifal-Imperf-3ms
+v5 יִכָּרֵֽת׃|yik·kā·rêṯ|be cut off|H3772|V-Nifal-Imperf-3ms
 v6 וּבְנֵ֣י|ū·ḇə·nê|And the foreigners|H1121|Conj-w | N-mpc
 v6 הַנֵּכָ֗ר|han·nê·ḵār|...|H5236|Art | N-ms
 v6 הַנִּלְוִ֤ים|han·nil·wîm|who join|H3867|Art | V-Nifal-Prtcpl-mp
@@ -132,7 +132,7 @@ v9 אֵתָ֕יוּ|’ê·ṯā·yū|Come|H857|V-Qal-Imp-mp
 v9 לֶאֱכֹ֥ל|le·’ĕ·ḵōl|eat greedily|H398|Prep-l | V-Qal-Inf
 v9 כָּל־|kāl-|all|H3605|N-msc
 v9 חַיְת֖וֹ|ḥay·ṯōw|you beasts|H2416|N-fsc | 3ms
-v9 בַּיָּֽעַר׃ס|bay·yā·‘ar|of the forest|H3293|Prep-b, Art | N-ms
+v9 בַּיָּֽעַר׃|bay·yā·‘ar|of the forest|H3293|Prep-b, Art | N-ms
 v10 צָפוּ|ṣå̄·p̄ū|[Israel's] watchmen|H6822|V-Qal-Prtcpl-mpc | 3ms
 v10 עִוְרִ֤ים|‘iw·rîm|are blind|H5787|Adj-mp
 v10 כֻּלָּם֙|kul·lām|they are all|H3605|N-msc | 3mp

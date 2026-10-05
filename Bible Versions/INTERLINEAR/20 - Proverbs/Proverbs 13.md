@@ -21,7 +21,7 @@ v3 נַפְשׁ֑וֹ|nap̄·šōw|his life|H5315|N-fsc | 3ms
 v3 פֹּשֵׂ֥ק|pō·śêq|[but] the one who opens|H6589|V-Qal-Prtcpl-ms
 v3 שְׂ֝פָתָ֗יו|śə·p̲ā·t̲āyw|his lips|H8193|N-fdc | 3ms
 v3 מְחִתָּה־|mə·ḥit·tāh-|invites his own ruin|H4288|N-fs
-v3 לֽוֹ׃|lōw||H0|Prep | 3ms
+v3 לֽוֹ׃|lōw|-|H0|Prep | 3ms
 v4 מִתְאַוָּ֣ה|miṯ·’aw·wāh|craves|H183|V-Hitpael-Prtcpl-ms
 v4 וָ֭אַיִן|wā·’a·yin|yet [has] nothing|H369|Conj-w | Adv
 v4 נַפְשׁ֣וֹ|nap̄·šōw|but the soul|H5315|N-fsc | 3ms
@@ -89,7 +89,7 @@ v12 בָאָֽה׃|ḇā·’āh|fulfilled|H935|V-Qal-Prtcpl-fs
 v13 בָּ֣ז|bāz|He who despises|H936|V-Qal-Prtcpl-ms
 v13 לְ֭דָבָר|lə·ḏā·ḇār|instruction|H1697|Prep-l | N-ms
 v13 יֵחָ֣בֶל|yê·ḥā·ḇel|will pay the penalty|H2254|V-Nifal-Imperf-3ms
-v13 ל֑וֹ|lōw||H0|Prep | 3ms
+v13 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v13 וִירֵ֥א|wî·rê|but the one who respects|H3373|Conj-w | Adj-msc
 v13 מִ֝צְוָ֗ה|miṣ·wāh|a command|H4687|N-fs
 v13 ה֣וּא|hū|...|H1931|Pro-3ms
@@ -180,4 +180,4 @@ v25 לְשֹׂ֣בַע|lə·śō·ḇa‘|content|H7648|Prep-l | N-msc
 v25 נַפְשׁ֑וֹ|nap̄·šōw|to his heart's|H5315|N-fsc | 3ms
 v25 וּבֶ֖טֶן|ū·ḇe·ṭen|but the stomach|H990|Conj-w | N-fsc
 v25 רְשָׁעִ֣ים|rə·šā·‘îm|of the wicked|H7563|Adj-mp
-v25 תֶּחְסָֽר׃פ|teḥ·sār|is empty|H2637|V-Qal-Imperf-3fs
+v25 תֶּחְסָֽר׃|teḥ·sār|is empty|H2637|V-Qal-Imperf-3fs

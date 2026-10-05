@@ -15,7 +15,7 @@ v2 מֵאִ֑ישׁ|mê·’îš|of men|H376|Prep-m | N-ms
 v2 וְלֹֽא־|wə·lō-|and I lack|H3808|Conj-w | Adv-NegPrt
 v2 בִינַ֖ת|ḇî·naṯ|the understanding|H998|N-fsc
 v2 אָדָ֣ם|’ā·ḏām|of a man|H120|N-ms
-v2 לִֽי׃|lî||H0|Prep | 1cs
+v2 לִֽי׃|lî|-|H0|Prep | 1cs
 v3 וְלֹֽא־|wə·lō-|I have not|H3808|Conj-w | Adv-NegPrt
 v3 לָמַ֥דְתִּי|lā·maḏ·tî|learned|H3925|V-Qal-Perf-1cs
 v3 חָכְמָ֑ה|ḥāḵ·māh|wisdom|H2451|N-fs
@@ -61,7 +61,7 @@ v6 דְּבָרָ֑יו|də·ḇā·rāw|His words|H1697|N-mpc | 3ms
 v6 פֶּן־|pen-|lest|H6435|Conj
 v6 יוֹכִ֖יחַ|yō·w·ḵî·aḥ|He rebuke|H3198|V-Hifil-Imperf-3ms
 v6 בְּךָ֣|bə·ḵā|you|H0|Prep | 2ms
-v6 וְנִכְזָֽבְתָּ׃פ|wə·niḵ·zā·ḇə·tā|and prove you a liar|H3576|Conj-w | V-Nifal-ConjPerf-2ms
+v6 וְנִכְזָֽבְתָּ׃|wə·niḵ·zā·ḇə·tā|and prove you a liar|H3576|Conj-w | V-Nifal-ConjPerf-2ms
 v7 שְׁ֭תַּיִם|šə·ta·yim|Two|H8147|Number-fd
 v7 שָׁאַ֣לְתִּי|šā·’al·tî|things I ask|H7592|V-Qal-Perf-1cs
 v7 מֵאִתָּ֑ךְ|mê·’it·tāḵ|...|H854|Prep-m | DirObjM | 2ms
@@ -94,7 +94,7 @@ v9 אִוָּרֵ֥שׁ|’iw·wā·rêš|I may become poor|H3423|V-Nifal-Imperf
 v9 וְגָנַ֑בְתִּי|wə·ḡā·naḇ·tî|and steal|H1589|Conj-w | V-Qal-ConjPerf-1cs
 v9 וְ֝תָפַ֗שְׂתִּי|wə·ṯā·p̄aś·tî|profaning|H8610|Conj-w | V-Qal-ConjPerf-1cs
 v9 שֵׁ֣ם|šêm|the name|H8034|N-msc
-v9 אֱלֹהָֽי׃פ|’ĕ·lō·hāy|of my God|H430|N-mpc | 1cs
+v9 אֱלֹהָֽי׃|’ĕ·lō·hāy|of my God|H430|N-mpc | 1cs
 v10 אַל־|’al-|Do not|H408|Adv
 v10 תַּלְשֵׁ֣ן|tal·šên|slander|H3960|V-Hifil-Imperf.Jus-2ms
 v10 עֶ֭בֶד|‘e·ḇeḏ|a servant|H5650|N-ms
@@ -114,7 +114,7 @@ v12 דּ֭וֹר|dō·wr|There is a generation|H1755|N-ms
 v12 טָה֣וֹר|ṭā·hō·wr|of those who are pure|H2889|Adj-ms
 v12 בְּעֵינָ֑יו|bə·‘ê·nāw|in their own eyes|H5869|Prep-b | N-cdc | 3ms
 v12 וּ֝מִצֹּאָת֗וֹ|ū·miṣ·ṣō·’ā·ṯōw|of their filth|H6675|Conj-w, Prep-m | N-fsc | 3ms
-v12 לֹ֣א|lō|vvv|H3808|Adv-NegPrt
+v12 לֹ֣א|lō|...|H3808|Adv-NegPrt
 v12 רֻחָֽץ׃|ru·ḥāṣ|and yet unwashed|H7364|V-Pual-Perf-3ms
 v13 דּ֭וֹר|dō·wr|There is a generation|H1755|N-ms
 v13 מָה־|māh-|how|H4100|Interrog
@@ -131,7 +131,7 @@ v14 לֶאֱכֹ֣ל|le·’ĕ·ḵōl|devouring|H398|Prep-l | V-Qal-Inf
 v14 עֲנִיִּ֣ים|‘ă·nî·yîm|the oppressed|H6041|Adj-mp
 v14 מֵאֶ֑רֶץ|mê·’e·reṣ|from the earth|H776|Prep-m | N-fs
 v14 וְ֝אֶבְיוֹנִ֗ים|wə·’eḇ·yō·w·nîm|and the needy|H34|Conj-w | N-mp
-v14 מֵאָדָֽם׃פ|mê·’ā·ḏām|from [among] men|H120|Prep-m | N-ms
+v14 מֵאָדָֽם׃|mê·’ā·ḏām|from [among] men|H120|Prep-m | N-ms
 v15 לַֽעֲלוּקָ֨ה׀|la·‘ă·lū·qāh|The leech|H5936|Prep-l | N-fs
 v15 שְׁתֵּ֥י|šə·tê|has two|H8147|Number-fdc
 v15 בָנוֹת֮|ḇā·nō·wṯ|daughters|H1323|N-fp
@@ -167,7 +167,7 @@ v17 עֹרְבֵי־|‘ō·rə·ḇê-|may the ravens|H6158|N-mpc
 v17 נַ֑חַל|na·ḥal|of the valley|H5158|N-ms
 v17 וְֽיֹאכְל֥וּהָ|wə·yō·ḵə·lū·hā|devour it|H398|Conj-w | V-Qal-ConjImperf-3mp | 3fs
 v17 בְנֵי־|ḇə·nê-|and young|H1121|N-mpc
-v17 נָֽשֶׁר׃פ|nā·šer|vultures|H5404|N-ms
+v17 נָֽשֶׁר׃|nā·šer|vultures|H5404|N-ms
 v18 שְׁלֹשָׁ֣ה|šə·lō·šāh|are three [things]|H7969|Number-ms
 v18 הֵ֭מָּה|hêm·māh|There|H1992|Pro-3mp
 v18 נִפְלְא֣וּ|nip̄·lə·’ū|too wonderful|H6381|V-Nifal-Perf-3cp
@@ -184,7 +184,7 @@ v19 עֲלֵ֫י|‘ă·lê|on|H5921|Prep
 v19 צ֥וּר|ṣūr|a rock|H6697|N-ms
 v19 דֶּֽרֶךְ־|de·reḵ-|the way|H1870|N-csc
 v19 אֳנִיָּ֥ה|’o·nî·yāh|of a ship|H591|N-fs
-v19 בְלֶב־|ḇə·leḇ-|vvv|H3820|Prep-b | N-msc
+v19 בְלֶב־|ḇə·leḇ-|...|H3820|Prep-b | N-msc
 v19 יָ֑ם|yām|at sea|H3220|N-ms
 v19 וְדֶ֖רֶךְ|wə·ḏe·reḵ|and the way|H1870|Conj-w | N-csc
 v19 גֶּ֣בֶר|ge·ḇer|of a man|H1397|N-ms
@@ -199,7 +199,7 @@ v20 פִ֑יהָ|p̄î·hā|her mouth|H6310|N-msc | 3fs
 v20 וְ֝אָמְרָ֗ה|wə·’ā·mə·rāh|and says|H559|Conj-w | V-Qal-ConjPerf-3fs
 v20 לֹֽא־|lō-|nothing|H3808|Adv-NegPrt
 v20 פָעַ֥לְתִּי|p̄ā·‘al·tî|I have done|H6466|V-Qal-Perf-1cs
-v20 אָֽוֶן׃פ|’ā·wen|wrong|H205|N-ms
+v20 אָֽוֶן׃|’ā·wen|wrong|H205|N-ms
 v21 תַּ֣חַת|ta·ḥaṯ|Under|H8478|Prep
 v21 שָׁ֭לוֹשׁ|lō·wōš|three things|H7969|Number-fs
 v21 רָ֣גְזָה|rā·ḡə·zāh|trembles|H7264|V-Qal-Perf-3fs
@@ -224,7 +224,7 @@ v23 תִבָּעֵ֑ל|ṯib·bā·‘êl|marries|H1166|V-Nifal-Imperf-3fs
 v23 וְ֝שִׁפְחָ֗ה|wə·šip̄·ḥāh|and a maidservant|H8198|Conj-w | N-fs
 v23 כִּֽי־|kî-|who|H3588|Conj
 v23 תִירַ֥שׁ|ṯî·raš|supplants|H3423|V-Qal-Imperf-3fs
-v23 גְּבִרְתָּֽהּ׃פ|gə·ḇir·tāh|her mistress|H1404|N-fsc | 3fs
+v23 גְּבִרְתָּֽהּ׃|gə·ḇir·tāh|her mistress|H1404|N-fsc | 3fs
 v24 אַרְבָּ֣עָה|’ar·bā·‘āh|Four|H702|Number-ms
 v24 הֵ֭ם|hêm|yet they|H1992|Pro-3mp
 v24 קְטַנֵּי־|qə·ṭan·nê-|are small|H6996|Adj-mpc
@@ -257,7 +257,7 @@ v28 בְּיָדַ֣יִם|bə·yā·ḏa·yim|in one's hands|H3027|Prep-b | N-f
 v28 תְּתַפֵּ֑שׂ|tə·ṯap·pêś|can be caught|H8610|V-Piel-Imperf-2ms
 v28 וְ֝הִ֗יא|wə·hî|yet it|H1931|Conj-w | Pro-3fs
 v28 בְּהֵ֣יכְלֵי|bə·hê·ḵə·lê|[is found] in the palaces|H1964|Prep-b | N-mpc
-v28 מֶֽלֶךְ׃פ|me·leḵ|of kings|H4428|N-ms
+v28 מֶֽלֶךְ׃|me·leḵ|of kings|H4428|N-ms
 v29 שְׁלֹשָׁ֣ה|šə·lō·šāh|are three things|H7969|Number-ms
 v29 הֵ֭מָּה|hêm·māh|There|H1992|Pro-3mp
 v29 מֵיטִ֣יבֵי|mê·ṭî·ḇê|that are stately|H3190|V-Hifil-Prtcpl-mpc
@@ -298,4 +298,4 @@ v33 דָ֑ם|ḏām|blood|H1818|N-ms
 v33 וּמִ֥יץ|ū·mîṣ|so the stirring|H4330|Conj-w | N-ms
 v33 אַ֝פַּ֗יִם|’ap·pa·yim|of anger|H639|N-md
 v33 י֣וֹצִיא|yō·w·ṣî|brings forth|H3318|V-Hifil-Imperf-3ms
-v33 רִֽיב׃פ|rîḇ|strife|H7379|N-ms
+v33 רִֽיב׃|rîḇ|strife|H7379|N-ms

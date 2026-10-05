@@ -18,13 +18,13 @@ v1 וְהָרַ֥ג|wə·hā·raḡ|and He will slay|H2026|Conj-w | V-Qal-ConjPe
 v1 אֶת־|’eṯ-|-|H853|DirObjM
 v1 הַתַּנִּ֖ין|hat·tan·nîn|the dragon|H8577|Art | N-ms
 v1 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v1 בַּיָּֽם׃ס|bay·yām|of the sea|H3220|Prep-b, Art | N-ms
+v1 בַּיָּֽם׃|bay·yām|of the sea|H3220|Prep-b, Art | N-ms
 v2 בַּיּ֖וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v2 הַה֑וּא|ha·hū|In that|H1931|Art | Pro-3ms
 v2 כֶּ֥רֶם|ke·rem|vineyard|H3754|N-msc
 v2 חֶ֖מֶד|ḥɛ·mɛḏ|about a fruitful|H2531|N-ms
 v2 עַנּוּ־|‘an·nū-|Sing|H6030|V-Piel-Imp-mp
-v2 לָֽהּ׃|lāh||H0|Prep | 3fs
+v2 לָֽהּ׃|lāh|-|H0|Prep | 3fs
 v3 אֲנִ֤י|’ă·nî|I|H589|Pro-1cs
 v3 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
 v3 נֹֽצְרָ֔הּ|nō·ṣə·rāh|am its keeper|H5341|V-Qal-Prtcpl-msc | 3fs
@@ -38,14 +38,14 @@ v3 וָי֖וֹם|wā·yō·wm|and day|H3117|Conj-w | N-ms
 v3 אֶצֳּרֶֽנָּה׃|’eṣ·ṣo·ren·nāh|I guard it|H5341|V-Qal-Imperf-1cs | 3fs
 v4 חֵמָ֖ה|ḥê·māh|angry|H2534|N-fs
 v4 אֵ֣ין|’ên|I am not|H369|Adv
-v4 לִ֑י|lî||H0|Prep | 1cs
+v4 לִ֑י|lî|-|H0|Prep | 1cs
 v4 מִֽי־|mî-|-|H4310|Interrog
 v4 יִתְּנֵ֜נִי|yit·tə·nê·nî|confronted Me|H5414|V-Qal-Imperf-3ms | 1cs
 v4 שָׁמִ֥יר|šā·mîr|and briers|H8068|N-ms
 v4 שַׁ֙יִת֙|ša·yiṯ|If only thorns|H7898|N-ms
 v4 בַּמִּלְחָמָ֔ה|bam·mil·ḥā·māh|I would march|H4421|Prep-b, Art | N-fs
 v4 אֶפְשְׂעָ֥ה|’ep̄·śə·‘āh|and trample them|H6585|V-Qal-Imperf.Cohort-1cs
-v4 בָ֖הּ|ḇāh||H0|Prep | 3fs
+v4 בָ֖הּ|ḇāh|-|H0|Prep | 3fs
 v4 אֲצִיתֶ֥נָּה|’ă·ṣî·ṯen·nāh|I would burn them|H6702|V-Hifil-Imperf.h-1cs | 3fs
 v4 יָּֽחַד׃|yā·ḥaḏ|to the ground|H3162|Adv
 v5 א֚וֹ|’ōw|Or|H176|Conj
@@ -66,7 +66,7 @@ v6 יִשְׂרָאֵ֑ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v6 וּמָלְא֥וּ|ū·mā·lə·’ū|and fill|H4390|Conj-w | V-Qal-ConjPerf-3cp
 v6 פְנֵי־|p̄ə·nê-|the whole world|H6440|N-mpc
 v6 תֵבֵ֖ל|ṯê·ḇêl|...|H8398|N-fs
-v6 תְּנוּבָֽה׃ס|tə·nū·ḇāh|with fruit|H8570|N-fs
+v6 תְּנוּבָֽה׃|tə·nū·ḇāh|with fruit|H8570|N-fs
 v7 הַכְּמַכַּ֥ת|hak·kə·mak·kaṯ|as He struck|H4347|Art, Prep-k | N-fsc
 v7 מַכֵּ֖הוּ|mak·kê·hū|Has the LORD struck Israel|H5221|V-Hifil-Prtcpl-msc | 3ms
 v7 הִכָּ֑הוּ|hik·kā·hū|her oppressors|H5221|V-Hifil-Perf-3ms | 3ms
@@ -137,7 +137,7 @@ v11 יְרַחֲמֶ֣נּוּ|yə·ra·ḥă·men·nū|compassion on them|H735
 v11 עֹשֵׂ֔הוּ|‘ō·śê·hū|their Maker|H6213|V-Qal-Prtcpl-msc | 3ms
 v11 וְיֹצְר֖וֹ|wə·yō·ṣə·rōw|and their Creator|H3335|Conj-w | V-Qal-Prtcpl-msc | 3ms
 v11 לֹ֥א|lō|shows them no|H3808|Adv-NegPrt
-v11 יְחֻנֶּֽנּוּ׃ס|yə·ḥun·nen·nū|favor|H2603|V-Qal-Imperf-3ms | 3ms
+v11 יְחֻנֶּֽנּוּ׃|yə·ḥun·nen·nū|favor|H2603|V-Qal-Imperf-3ms | 3ms
 v12 וְהָיָה֙|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v12 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v12 הַה֔וּא|ha·hū|In that|H1931|Art | Pro-3ms
@@ -153,7 +153,7 @@ v12 תְּלֻקְּט֛וּ|tə·luq·qə·ṭū|will be gathered|H3950|V-Pual-
 v12 לְאַחַ֥ד|lə·’a·ḥaḏ|one|H259|Prep-l | Number-msc
 v12 אֶחָ֖ד|’e·ḥāḏ|by one|H259|Number-ms
 v12 בְּנֵ֥י|bə·nê|O Israelites|H1121|N-mpc
-v12 יִשְׂרָאֵֽל׃ס|yiś·rā·’êl|...|H3478|N-proper-ms
+v12 יִשְׂרָאֵֽל׃|yiś·rā·’êl|...|H3478|N-proper-ms
 v13 וְהָיָ֣ה׀|wə·hā·yāh|And|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v13 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v13 הַה֗וּא|ha·hū|in that|H1931|Art | Pro-3ms
@@ -162,10 +162,10 @@ v13 בְּשׁוֹפָ֣ר|bə·šō·w·p̄ār|ram's horn|H7782|Prep-b | N-ms
 v13 גָּדוֹל֒|gā·ḏō·wl|a great|H1419|Adj-ms
 v13 וּבָ֗אוּ|ū·ḇā·’ū|will come forth|H935|Conj-w | V-Qal-ConjPerf-3cp
 v13 הָאֹֽבְדִים֙|hā·’ō·ḇə·ḏîm|and those who were perishing|H6|Art | V-Qal-Prtcpl-mp
-v13 בְּאֶ֣רֶץ|bə·’e·reṣ|vvv|H776|Prep-b | N-fsc
+v13 בְּאֶ֣רֶץ|bə·’e·reṣ|...|H776|Prep-b | N-fsc
 v13 אַשּׁ֔וּר|’aš·šūr|in Assyria|H804|N-proper-fs
 v13 וְהַנִּדָּחִ֖ים|wə·han·nid·dā·ḥîm|with those who were exiles|H5080|Conj-w, Art | V-Nifal-Prtcpl-mp
-v13 בְּאֶ֣רֶץ|bə·’e·reṣ|vvv|H776|Prep-b | N-fsc
+v13 בְּאֶ֣רֶץ|bə·’e·reṣ|...|H776|Prep-b | N-fsc
 v13 מִצְרָ֑יִם|miṣ·rā·yim|in Egypt|H4714|N-proper-fs
 v13 וְהִשְׁתַּחֲו֧וּ|wə·hiš·ta·ḥă·wū|And they will worship|H7812|Conj-w | V-Hitpael-ConjPerf-3cp
 v13 לַיהוָ֛ה|Yah·weh|the LORD|H3068|Prep-l | N-proper-ms

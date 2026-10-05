@@ -65,7 +65,7 @@ v5 הַחַ֙יִל֙|ha·ḥa·yil|the army|H2428|Art | N-ms
 v5 יֹֽשְׁבִ֔ים|yō·šə·ḇîm|were sitting|H3427|V-Qal-Prtcpl-mp
 v5 וַיֹּ֕אמֶר|way·yō·mer|he said|H559|Conj-w | V-Qal-ConsecImperf-3ms
 v5 דָּבָ֥ר|dā·ḇār|I have a message|H1697|N-ms
-v5 לִ֛י|lî||H0|Prep | 1cs
+v5 לִ֛י|lî|-|H0|Prep | 1cs
 v5 אֵלֶ֖יךָ|’ê·le·ḵā|for you|H413|Prep | 2ms
 v5 הַשָּׂ֑ר|haś·śār|commander|H8269|Art | N-ms
 v5 וַיֹּ֤אמֶר|way·yō·mer|asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
@@ -84,7 +84,7 @@ v6 הַשֶּׁ֖מֶן|haš·še·men|the oil|H8081|Art | N-ms
 v6 אֶל־|’el-|on|H413|Prep
 v6 רֹאשׁ֑וֹ|rō·šōw|his head|H7218|N-msc | 3ms
 v6 וַיֹּ֣אמֶר|way·yō·mer|and declared|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v6 ל֗וֹ|lōw||H0|Prep | 3ms
+v6 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v6 כֹּֽה־|kōh-|This is what|H3541|Adv
 v6 אָמַ֤ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v6 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
@@ -152,7 +152,7 @@ v11 אֶל־|’el-|to|H413|Prep
 v11 עַבְדֵ֣י|‘aḇ·ḏê|the servants|H5650|N-mpc
 v11 אֲדֹנָ֔יו|’ă·ḏō·nāw|of his master|H113|N-mpc | 3ms
 v11 וַיֹּ֤אמֶר|way·yō·mer|they asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v11 לוֹ֙|lōw||H0|Prep | 3ms
+v11 לוֹ֙|lōw|-|H0|Prep | 3ms
 v11 הֲשָׁל֔וֹם|hă·šā·lō·wm|Is everything all right|H7965|Art | N-ms
 v11 מַדּ֛וּעַ|mad·dū·a‘|Why|H4069|Interrog
 v11 בָּֽא־|bā-|come|H935|V-Qal-Perf-3ms
@@ -412,7 +412,7 @@ v25 בִּדְקַר֙|biḏ·qar|Bidkar|H920|N-proper-ms
 v25 שְׁלֹשָׁה|šə·lō·šå̄h|his officer|H7969|N-msc | 3ms
 v25 שָׂ֚א|śā|Pick him up|H5375|V-Qal-Imp-ms
 v25 הַשְׁלִכֵ֔הוּ|haš·li·ḵê·hū|[and] throw him|H7993|V-Hifil-Imp-ms | 3ms
-v25 בְּחֶלְקַ֕ת|bə·ḥel·qaṯ|vvv|H2513|Prep-b | N-fsc
+v25 בְּחֶלְקַ֕ת|bə·ḥel·qaṯ|...|H2513|Prep-b | N-fsc
 v25 שְׂדֵ֖ה|śə·ḏêh|into the field|H7704|N-msc
 v25 נָב֣וֹת|nā·ḇō·wṯ|of Naboth|H5022|N-proper-ms
 v25 הַיִּזְרְעֵאלִ֑י|hay·yiz·rə·‘ê·lî|the Jezreelite|H3158|Art | N-proper-ms
@@ -462,7 +462,7 @@ v27 יְהוּדָה֙|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v27 רָאָ֔ה|rā·’āh|saw [this]|H7200|V-Qal-Perf-3ms
 v27 וַיָּ֕נָס|way·yā·nās|he fled|H5127|Conj-w | V-Qal-ConsecImperf-3ms
 v27 דֶּ֖רֶךְ|de·reḵ|up the road|H1870|N-csc
-v27 בֵּ֣ית|bêṯ|vvv|H1004|N-msc
+v27 בֵּ֣ית|bêṯ|...|H1004|N-msc
 v27 הַגָּ֑ן|hag·gān|toward Beth-haggan|H1588|N-proper-fs
 v27 וַיִּרְדֹּ֨ף|way·yir·dōp̄|pursued him|H7291|Conj-w | V-Qal-ConsecImperf-3ms
 v27 אַחֲרָ֜יו|’a·ḥă·rāw|...|H310|Prep | 3ms
@@ -492,7 +492,7 @@ v28 בִקְבֻרָת֛וֹ|ḇiq·ḇu·rā·ṯōw|in his tomb|H6900|Prep-b |
 v28 עִם־|‘im-|...|H5973|Prep
 v28 אֲבֹתָ֖יו|’ă·ḇō·ṯāw|with his fathers|H1|N-mpc | 3ms
 v28 בְּעִ֥יר|bə·‘îr|in the City|H5892|Prep-b | N-fsc
-v28 דָּוִֽד׃פ|dā·wiḏ|of David|H1732|N-proper-ms
+v28 דָּוִֽד׃|dā·wiḏ|of David|H1732|N-proper-ms
 v29 וּבִשְׁנַת֙|ū·ḇiš·naṯ|year|H8141|Conj-w, Prep-b | N-fsc
 v29 אַחַ֣ת|’a·ḥaṯ|In the eleventh|H259|Number-fsc
 v29 עֶשְׂרֵ֣ה|‘eś·rêh|...|H6240|Number-fs
@@ -599,8 +599,8 @@ v37 וְהָיָת|wə·hå̄·yå̄ṯ|will lie|H1961|Conj-w | V-Qal-ConjPerf-3
 v37 נִבְלַ֣ת|niḇ·laṯ|body|H5038|N-fsc
 v37 אִיזֶ֗בֶל|’î·ze·ḇel|And Jezebel's|H348|N-proper-fs
 v37 כְּדֹ֛מֶן|kə·ḏō·men|like dung|H1828|Prep-k | N-ms
-v37 עַל־|‘al-|vvv|H5921|Prep
-v37 פְּנֵ֥י|pə·nê|vvv|H6440|N-cpc
+v37 עַל־|‘al-|...|H5921|Prep
+v37 פְּנֵ֥י|pə·nê|...|H6440|N-cpc
 v37 הַשָּׂדֶ֖ה|haś·śā·ḏeh|in the field|H7704|Art | N-ms
 v37 בְּחֵ֣לֶק|bə·ḥê·leq|on the plot [of ground]|H2506|Prep-b | N-msc
 v37 יִזְרְעֶ֑אל|yiz·rə·‘el|at Jezreel|H3157|N-proper-fs
@@ -608,4 +608,4 @@ v37 אֲשֶׁ֥ר|’ă·šer|so that|H834|Pro-r
 v37 לֹֽא־|lō-|no one|H3808|Adv-NegPrt
 v37 יֹאמְר֖וּ|yō·mə·rū|can say|H559|V-Qal-Imperf-3mp
 v37 זֹ֥את|zōṯ|This|H2063|Pro-fs
-v37 אִיזָֽבֶל׃פ|’î·zā·ḇel|is Jezebel|H348|N-proper-fs
+v37 אִיזָֽבֶל׃|’î·zā·ḇel|is Jezebel|H348|N-proper-fs

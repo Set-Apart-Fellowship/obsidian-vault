@@ -1,5 +1,5 @@
 v1 וְאִם־|wə·’im-|If|H518|Conj
-v1 זֶ֥בַח|ze·ḇaḥ|vvv|H2077|N-msc
+v1 זֶ֥בַח|ze·ḇaḥ|...|H2077|N-msc
 v1 שְׁלָמִ֖ים|šə·lā·mîm|[is] a peace offering|H8002|N-mp
 v1 קָרְבָּנ֑וֹ|qā·rə·bā·nōw|one's offering|H7133|N-msc | 3ms
 v1 אִ֤ם|’im|whether|H518|Conj
@@ -34,7 +34,7 @@ v2 עַל־|‘al-|of|H5921|Prep
 v2 הַמִּזְבֵּ֖חַ|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
 v2 סָבִֽיב׃|sā·ḇîḇ|on all sides|H5439|Adv
 v3 וְהִקְרִיב֙|wə·hiq·rîḇ|he is to bring|H7126|Conj-w | V-Hifil-ConjPerf-3ms
-v3 מִזֶּ֣בַח|miz·ze·ḇaḥ|vvv|H2077|Prep-m | N-msc
+v3 מִזֶּ֣בַח|miz·ze·ḇaḥ|...|H2077|Prep-m | N-msc
 v3 הַשְּׁלָמִ֔ים|haš·šə·lā·mîm|From the peace offering|H8002|Art | N-mp
 v3 אִשֶּׁ֖ה|’iš·šeh|a food offering|H801|N-ms
 v3 לַיהוָ֑ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
@@ -82,11 +82,11 @@ v5 הָאֵ֑שׁ|hā·’êš|the burning|H784|Art | N-cs
 v5 אִשֵּׁ֛ה|’iš·šêh|as a food offering|H801|N-msc
 v5 רֵ֥יחַ|rê·aḥ|aroma|H7381|N-msc
 v5 נִיחֹ֖חַ|nî·ḥō·aḥ|a pleasing|H5207|N-ms
-v5 לַֽיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v5 לַֽיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v6 וְאִם־|wə·’im-|If, however|H518|Conj
 v6 מִן־|min-|is from|H4480|Prep
 v6 הַצֹּ֧אן|haṣ·ṣōn|the flock|H6629|Art | N-cs
-v6 קָרְבָּנ֛וֹ|qā·rə·bā·nōw|vvv|H7133|N-msc | 3ms
+v6 קָרְבָּנ֛וֹ|qā·rə·bā·nōw|...|H7133|N-msc | 3ms
 v6 לְזֶ֥בַח|lə·ze·ḇaḥ|...|H2077|Prep-l | N-msc
 v6 שְׁלָמִ֖ים|šə·lā·mîm|one's peace offering|H8002|N-mp
 v6 לַיהוָ֑ה|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
@@ -125,7 +125,7 @@ v8 עַל־|‘al-|of|H5921|Prep
 v8 הַמִּזְבֵּ֖חַ|ham·miz·bê·aḥ|the altar|H4196|Art | N-ms
 v8 סָבִֽיב׃|sā·ḇîḇ|on all sides|H5439|Adv
 v9 וְהִקְרִ֨יב|wə·hiq·rîḇ|he shall bring|H7126|Conj-w | V-Hifil-ConjPerf-3ms
-v9 מִזֶּ֣בַח|miz·ze·ḇaḥ|vvv|H2077|Prep-m | N-msc
+v9 מִזֶּ֣בַח|miz·ze·ḇaḥ|...|H2077|Prep-m | N-msc
 v9 הַשְּׁלָמִים֮|haš·šə·lā·mîm|And from the peace offering|H8002|Art | N-mp
 v9 אִשֶּׁ֣ה|’iš·šeh|a food offering|H801|N-ms
 v9 לַיהוָה֒|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
@@ -168,7 +168,7 @@ v11 הַכֹּהֵ֖ן|hak·kō·hên|Then the priest|H3548|Art | N-ms
 v11 הַמִּזְבֵּ֑חָה|ham·miz·bê·ḥāh|on the altar|H4196|Art | N-ms | 3fs
 v11 לֶ֥חֶם|le·ḥem|as food|H3899|N-msc
 v11 אִשֶּׁ֖ה|’iš·šeh|a food offering|H801|N-ms
-v11 לַיהוָֽה׃פ|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
+v11 לַיהוָֽה׃|Yah·weh|to the LORD|H3068|Prep-l | N-proper-ms
 v12 וְאִ֥ם|wə·’im|If|H518|Conj
 v12 עֵ֖ז|‘êz|is a goat|H5795|N-fs
 v12 קָרְבָּנ֑וֹ|qā·rə·bā·nōw|one's offering|H7133|N-msc | 3ms
@@ -246,4 +246,4 @@ v17 חֵ֥לֶב|ḥê·leḇ|fat|H2459|N-ms
 v17 וְכָל־|wə·ḵāl|or any|H3605|Conj-w | N-msc
 v17 דָּ֖ם|dām|blood|H1818|N-ms
 v17 לֹ֥א|lō|You must not|H3808|Adv-NegPrt
-v17 תֹאכֵֽלוּ׃פ|ṯō·ḵê·lū|eat|H398|V-Qal-Imperf-2mp
+v17 תֹאכֵֽלוּ׃|ṯō·ḵê·lū|eat|H398|V-Qal-Imperf-2mp

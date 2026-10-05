@@ -15,7 +15,7 @@ v1 יִקָּרֵ֤א|yiq·qā·rê|let us be called|H7121|V-Nifal-Imperf-3ms
 v1 שִׁמְךָ֙|šim·ḵā|by your name|H8034|N-msc | 2ms
 v1 עָלֵ֔ינוּ|‘ā·lê·nū|...|H5921|Prep | 1cp
 v1 אֱסֹ֖ף|’ĕ·sōp̄|Take away|H622|V-Qal-Imp-ms
-v1 חֶרְפָּתֵֽנוּ׃ס|ḥer·pā·ṯê·nū|our disgrace|H2781|N-fsc | 1cp
+v1 חֶרְפָּתֵֽנוּ׃|ḥer·pā·ṯê·nū|our disgrace|H2781|N-fsc | 1cp
 v2 בַּיּ֣וֹם|bay·yō·wm|day|H3117|Prep-b, Art | N-ms
 v2 הַה֗וּא|ha·hū|On that|H1931|Art | Pro-3ms
 v2 יִֽהְיֶה֙|yih·yeh|will be|H1961|V-Qal-Imperf-3ms
@@ -36,7 +36,7 @@ v3 וְהַנּוֹתָר֙|wə·han·nō·w·ṯār|and whoever is left|H3498|C
 v3 בִּיר֣וּשָׁלִַ֔ם|bî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v3 קָד֖וֹשׁ|qā·ḏō·wōš|holy|H6918|Adj-ms
 v3 יֵאָ֣מֶר|yê·’ā·mer|will be called|H559|V-Nifal-Imperf-3ms
-v3 ל֑וֹ|lōw||H0|Prep | 3ms
+v3 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v3 כָּל־|kāl-|all|H3605|N-msc
 v3 הַכָּת֥וּב|hak·kā·ṯūḇ|who are recorded|H3789|Art | V-Qal-QalPassPrtcpl-ms
 v3 לַחַיִּ֖ים|la·ḥay·yîm|among the living|H2416|Prep-l, Art | N-mp
@@ -86,4 +86,4 @@ v6 מֵחֹ֑רֶב|mê·ḥō·reḇ|from the heat|H2721|Prep-m | N-ms
 v6 וּלְמַחְסֶה֙|ū·lə·maḥ·seh|and a refuge|H4268|Conj-w, Prep-l | N-ms
 v6 וּלְמִסְתּ֔וֹר|ū·lə·mis·tō·wr|and hiding place|H4563|Conj-w, Prep-l | N-ms
 v6 מִזֶּ֖רֶם|miz·ze·rem|from the storm|H2230|Prep-m | N-ms
-v6 וּמִמָּטָֽר׃פ|ū·mim·mā·ṭār|and the rain|H4306|Conj-w, Prep-m | N-ms
+v6 וּמִמָּטָֽר׃|ū·mim·mā·ṭār|and the rain|H4306|Conj-w, Prep-m | N-ms

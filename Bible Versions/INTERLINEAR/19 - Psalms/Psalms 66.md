@@ -19,7 +19,7 @@ v3 מַעֲשֶׂ֑יךָ|ma·‘ă·śe·ḵā|are Your deeds|H4639|N-mpc | 2m
 v3 בְּרֹ֥ב|bə·rōḇ|So great is Your|H7230|Prep-b | N-msc
 v3 עֻ֝זְּךָ֗|‘uz·zə·ḵā|power|H5797|N-msc | 2ms
 v3 יְֽכַחֲשׁ֖וּ|yə·ḵa·ḥă·šū|cower before You|H3584|V-Piel-Imperf-3mp
-v3 לְךָ֣|lə·ḵā||H0|Prep | 2ms
+v3 לְךָ֣|lə·ḵā|-|H0|Prep | 2ms
 v3 אֹיְבֶֽיךָ׃|’ō·yə·ḇe·ḵā|that Your enemies|H341|V-Qal-Prtcpl-mpc | 2ms
 v4 כָּל־|kāl-|All|H3605|N-msc
 v4 הָאָ֤רֶץ׀|hā·’ā·reṣ|the earth|H776|Art | N-fs
@@ -37,7 +37,7 @@ v5 אֱלֹהִ֑ים|’ĕ·lō·hîm|of God|H430|N-mp
 v5 נוֹרָ֥א|nō·w·rā|how awesome|H3372|V-Nifal-Prtcpl-msc
 v5 עֲ֝לִילָ֗ה|‘ă·lî·lāh|are His deeds|H5949|N-fs
 v5 עַל־|‘al-|toward|H5921|Prep
-v5 בְּנֵ֥י|bə·nê|vvv|H1121|N-mpc
+v5 בְּנֵ֥י|bə·nê|...|H1121|N-mpc
 v5 אָדָֽם׃|’ā·ḏām|mankind|H120|N-ms
 v6 הָ֤פַךְ|hā·p̄aḵ|He turned|H2015|V-Qal-Perf-3ms
 v6 יָ֨ם׀|yām|the sea|H3220|N-ms
@@ -103,7 +103,7 @@ v14 שְׂפָתָ֑י|śə·p̄ā·ṯāy|my lips|H8193|N-fdc | 1cs
 v14 וְדִבֶּר־|wə·ḏib·ber-|spoke|H1696|Conj-w | V-Piel-ConjPerf-3ms
 v14 פִּ֝֗י|pî|and my mouth|H6310|N-msc | 1cs
 v14 בַּצַּר־|baṣ·ṣar-|in my distress|H6862|Prep-b, Art | Adj-ms
-v14 לִֽי׃|lî||H0|Prep | 1cs
+v14 לִֽי׃|lî|-|H0|Prep | 1cs
 v15 עֹ֘ל֤וֹת|‘ō·lō·wṯ|as burnt offerings|H5930|N-fpc
 v15 מֵחִ֣ים|mê·ḥîm|fatlings|H4220|N-mp
 v15 אַעֲלֶה־|’a·‘ă·leh-|I will offer|H5927|V-Hifil-Imperf-1cs

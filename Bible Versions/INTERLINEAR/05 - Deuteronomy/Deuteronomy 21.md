@@ -37,10 +37,10 @@ v3 בָּקָ֗ר|bā·qār|...|H1241|N-ms
 v3 אֲשֶׁ֤ר|’ă·šer|that|H834|Pro-r
 v3 לֹֽא־|lō-|has never|H3808|Adv-NegPrt
 v3 עֻבַּד֙|‘ub·baḏ|or used for work|H5647|V-QalPass-Perf-3ms
-v3 בָּ֔הּ|bāh||H0|Prep | 3fs
-v3 אֲשֶׁ֥ר|’ă·šer||H834|Pro-r
-v3 לֹא־|lō-||H3808|Adv-NegPrt
-v3 מָשְׁכָ֖ה|mā·šə·ḵāh||H4900|V-Qal-Perf-3fs
+v3 בָּ֔הּ|bāh|-|H0|Prep | 3fs
+v3 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
+v3 לֹא־|lō-|-|H3808|Adv-NegPrt
+v3 מָשְׁכָ֖ה|mā·šə·ḵāh|-|H4900|V-Qal-Perf-3fs
 v3 בְּעֹֽל׃|bə·‘ōl|been yoked|H5923|Prep-b | N-ms
 v4 וְהוֹרִ֡דוּ|wə·hō·w·ri·ḏū|bring|H3381|Conj-w | V-Hifil-ConjPerf-3cp
 v4 זִקְנֵי֩|ziq·nê|-|H2205|Adj-mpc
@@ -54,7 +54,7 @@ v4 אֵיתָ֔ן|’ê·ṯān|with running water|H386|Adj-ms
 v4 אֲשֶׁ֛ר|’ă·šer|that|H834|Pro-r
 v4 לֹא־|lō-|has not|H3808|Adv-NegPrt
 v4 יֵעָבֵ֥ד|yê·‘ā·ḇêḏ|been plowed|H5647|V-Nifal-Imperf-3ms
-v4 בּ֖וֹ|bōw||H0|Prep | 3ms
+v4 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v4 וְלֹ֣א|wə·lō|-|H3808|Conj-w | Adv-NegPrt
 v4 יִזָּרֵ֑עַ|yiz·zā·rê·a‘|or sown|H2232|V-Nifal-Imperf-3ms
 v4 וְעָֽרְפוּ־|wə·‘ā·rə·p̄ū-|neck|H6202|Conj-w | V-Qal-ConjPerf-3cp
@@ -67,7 +67,7 @@ v5 הַכֹּהֲנִים֮|hak·kō·hă·nîm|And the priests|H3548|Art | N-m
 v5 בְּנֵ֣י|bə·nê|the sons|H1121|N-mpc
 v5 לֵוִי֒|lê·wî|of Levi|H3878|N-proper-ms
 v5 כִּ֣י|kî|for|H3588|Conj
-v5 בָ֗ם|ḇām||H0|Prep | 3mp
+v5 בָ֗ם|ḇām|-|H0|Prep | 3mp
 v5 בָּחַ֞ר|bā·ḥar|has chosen them|H977|V-Qal-Perf-3ms
 v5 יְהוָ֤ה|Yah·weh|the LORD|H3068|N-proper-ms
 v5 אֱלֹהֶ֙יךָ֙|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
@@ -132,7 +132,7 @@ v9 כִּֽי־|kî-|since|H3588|Conj
 v9 תַעֲשֶׂ֥ה|ṯa·‘ă·śeh|you have done|H6213|V-Qal-Imperf-2ms
 v9 הַיָּשָׁ֖ר|hay·yā·šār|what is right|H3477|Art | Adj-ms
 v9 בְּעֵינֵ֥י|bə·‘ê·nê|in the eyes|H5869|Prep-b | N-cdc
-v9 יְהוָֽה׃ס|Yah·weh|of the LORD|H3068|N-proper-ms
+v9 יְהוָֽה׃|Yah·weh|of the LORD|H3068|N-proper-ms
 v10 כִּֽי־|kî-|When|H3588|Conj
 v10 תֵצֵ֥א|ṯê·ṣê|you go|H3318|V-Qal-Imperf-2ms
 v10 לַמִּלְחָמָ֖ה|lam·mil·ḥā·māh|to war|H4421|Prep-l, Art | N-fs
@@ -168,7 +168,7 @@ v13 וְהֵסִ֩ירָה֩|wə·hê·sî·rāh|and put aside|H5493|Conj-w | V-
 v13 אֶת־|’eṯ-|-|H853|DirObjM
 v13 שִׂמְלַ֨ת|śim·laṯ|the clothing|H8071|N-fsc
 v13 שִׁבְיָ֜הּ|šiḇ·yāh|of her captivity|H7628|N-msc | 3fs
-v13 מֵעָלֶ֗יהָ|mê·‘ā·le·hā||H5921|Prep-m | 3fs
+v13 מֵעָלֶ֗יהָ|mê·‘ā·le·hā|-|H5921|Prep-m | 3fs
 v13 וְיָֽשְׁבָה֙|wə·yā·šə·ḇāh|she has lived|H3427|Conj-w | V-Qal-ConjPerf-3fs
 v13 בְּבֵיתֶ֔ךָ|bə·ḇê·ṯe·ḵā|in your house|H1004|Prep-b | N-msc | 2ms
 v13 וּבָֽכְתָ֛ה|ū·ḇā·ḵə·ṯāh|and mourned|H1058|Conj-w | V-Qal-ConjPerf-3fs
@@ -179,12 +179,12 @@ v13 אִמָּ֖הּ|’im·māh|and mother|H517|N-fsc | 3fs
 v13 יֶ֣רַח|ye·raḥ|a full month|H3391|N-msc
 v13 יָמִ֑ים|yā·mîm|...|H3117|N-mp
 v13 וְאַ֨חַר|wə·’a·ḥar|After|H310|Conj-w | Prep
-v13 כֵּ֜ן|kên||H3651|Adv
+v13 כֵּ֜ן|kên|-|H3651|Adv
 v13 תָּב֤וֹא|tā·ḇō·w|you may have relations with|H935|V-Qal-Imperf-2ms
 v13 אֵלֶ֙יהָ֙|’ê·le·hā|her|H413|Prep | 3fs
 v13 וּבְעַלְתָּ֔הּ|ū·ḇə·‘al·tāh|and be her husband|H1166|Conj-w | V-Qal-ConjPerf-2ms | 3fs
 v13 וְהָיְתָ֥ה|wə·hā·yə·ṯāh|and she shall be|H1961|Conj-w | V-Qal-ConjPerf-3fs
-v13 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v13 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v13 לְאִשָּֽׁה׃|lə·’iš·šāh|your wife|H802|Prep-l | N-fs
 v14 וְהָיָ֞ה|wə·hā·yāh|And|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v14 אִם־|’im-|if|H518|Conj
@@ -199,10 +199,10 @@ v14 תִמְכְּרֶ֖נָּה|ṯim·kə·ren·nāh|...|H4376|V-Qal-Imperf-2m
 v14 בַּכָּ֑סֶף|bak·kā·sep̄|for money|H3701|Prep-b, Art | N-ms
 v14 לֹא־|lō-|...|H3808|Adv-NegPrt
 v14 תִתְעַמֵּ֣ר|ṯiṯ·‘am·mêr|or treat her as a slave|H6014|V-Hitpael-Imperf-2ms
-v14 בָּ֔הּ|bāh||H0|Prep | 3fs
+v14 בָּ֔הּ|bāh|-|H0|Prep | 3fs
 v14 תַּ֖חַת|ta·ḥaṯ|since|H8478|Prep
 v14 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
-v14 עִנִּיתָֽהּ׃ס|‘in·nî·ṯāh|you have dishonored her|H6031|V-Piel-Perf-2ms | 3fs
+v14 עִנִּיתָֽהּ׃|‘in·nî·ṯāh|you have dishonored her|H6031|V-Piel-Perf-2ms | 3fs
 v15 כִּֽי־|kî-|If|H3588|Conj
 v15 תִהְיֶ֨יןָ|ṯih·ye·nā|has|H1961|V-Qal-Imperf-3fp
 v15 לְאִ֜ישׁ|lə·’îš|a man|H376|Prep-l | N-ms
@@ -221,7 +221,7 @@ v15 וְהָיָ֛ה|wə·hā·yāh|wife has|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v15 הַבֵּ֥ן|hab·bên|son|H1121|Art | N-ms
 v15 הַבְּכ֖וֹר|hab·bə·ḵō·wr|the firstborn|H1060|Art | N-ms
 v15 לַשְּׂנִיאָֽה׃|laś·śə·nî·’āh|but the unloved|H8146|Prep-l, Art | Adj-fs
-v16 וְהָיָ֗ה|wə·hā·yāh||H1961|Conj-w | V-Qal-ConjPerf-3ms
+v16 וְהָיָ֗ה|wə·hā·yāh|-|H1961|Conj-w | V-Qal-ConjPerf-3ms
 v16 בְּיוֹם֙|bə·yō·wm|when|H3117|Prep-b | N-ms
 v16 הַנְחִיל֣וֹ|han·ḥî·lōw|assigns his inheritance|H5157|V-Hifil-Inf | 3ms
 v16 אֶת־|’eṯ-|-|H853|DirObjM
@@ -229,7 +229,7 @@ v16 בָּנָ֔יו|bā·nāw|to his sons|H1121|N-mpc | 3ms
 v16 אֵ֥ת|’êṯ|-|H853|DirObjM
 v16 אֲשֶׁר־|’ă·šer-|that man|H834|Pro-r
 v16 יִהְיֶ֖ה|yih·yeh|...|H1961|V-Qal-Imperf-3ms
-v16 ל֑וֹ|lōw||H0|Prep | 3ms
+v16 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v16 לֹ֣א|lō|he must not|H3808|Adv-NegPrt
 v16 יוּכַ֗ל|yū·ḵal|appoint|H3201|V-Qal-Imperf-3ms
 v16 לְבַכֵּר֙|lə·ḇak·kêr|[the son]|H1069|Prep-l | V-Piel-Inf
@@ -254,14 +254,14 @@ v17 שְׁנַ֔יִם|šə·na·yim|a double|H8147|Number-md
 v17 בְּכֹ֥ל|bə·ḵōl|of all|H3605|Prep-b | N-ms
 v17 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v17 יִמָּצֵ֖א|yim·mā·ṣê|he has|H4672|V-Nifal-Imperf-3ms
-v17 ל֑וֹ|lōw||H0|Prep | 3ms
+v17 ל֑וֹ|lōw|-|H0|Prep | 3ms
 v17 כִּי־|kî-|For|H3588|Conj
 v17 הוּא֙|hū|[that son]|H1931|Pro-3ms
 v17 רֵאשִׁ֣ית|rê·šîṯ|is the firstfruits|H7225|N-fsc
 v17 אֹנ֔וֹ|’ō·nōw|of his [father's] strength|H202|N-msc | 3ms
 v17 ל֖וֹ|lōw|belongs to him|H0|Prep | 3ms
 v17 מִשְׁפַּ֥ט|miš·paṭ|the right|H4941|N-msc
-v17 הַבְּכֹרָֽה׃ס|hab·bə·ḵō·rāh|of the firstborn|H1062|Art | N-fs
+v17 הַבְּכֹרָֽה׃|hab·bə·ḵō·rāh|of the firstborn|H1062|Art | N-fs
 v18 כִּֽי־|kî-|If|H3588|Conj
 v18 יִהְיֶ֣ה|yih·yeh|has|H1961|V-Qal-Imperf-3ms
 v18 לְאִ֗ישׁ|lə·’îš|a man|H376|Prep-l | N-ms
@@ -316,7 +316,7 @@ v21 מִקִּרְבֶּ֑ךָ|miq·qir·be·ḵā|from among you|H7130|Prep-m |
 v21 וְכָל־|wə·ḵāl|and all|H3605|Conj-w | N-msc
 v21 יִשְׂרָאֵ֖ל|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v21 יִשְׁמְע֥וּ|yiš·mə·‘ū|will hear|H8085|V-Qal-Imperf-3mp
-v21 וְיִרָֽאוּ׃ס|wə·yi·rā·’ū|and be afraid|H3372|Conj-w | V-Qal-ConjImperf-3mp
+v21 וְיִרָֽאוּ׃|wə·yi·rā·’ū|and be afraid|H3372|Conj-w | V-Qal-ConjImperf-3mp
 v22 וְכִֽי־|wə·ḵî-|If|H3588|Conj
 v22 יִהְיֶ֣ה|yih·yeh|has committed|H1961|V-Qal-Imperf-3ms
 v22 בְאִ֗ישׁ|ḇə·’îš|a man|H376|Prep-b | N-ms
@@ -351,4 +351,4 @@ v23 יְהוָ֣ה|Yah·weh|the LORD|H3068|N-proper-ms
 v23 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v23 נֹתֵ֥ן|nō·ṯên|is giving|H5414|V-Qal-Prtcpl-ms
 v23 לְךָ֖|lə·ḵā|you|H0|Prep | 2ms
-v23 נַחֲלָֽה׃ס|na·ḥă·lāh|as an inheritance|H5159|N-fs
+v23 נַחֲלָֽה׃|na·ḥă·lāh|as an inheritance|H5159|N-fs

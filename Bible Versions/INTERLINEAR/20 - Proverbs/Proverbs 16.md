@@ -202,7 +202,7 @@ v27 אִ֣ישׁ|’îš|man|H376|N-msc
 v27 בְּ֭לִיַּעַל|bə·lî·ya·‘al|A worthless|H1100|N-ms
 v27 כֹּרֶ֣ה|kō·reh|digs up|H3738|V-Qal-Prtcpl-ms
 v27 רָעָ֑ה|rā·‘āh|evil|H7451|Adj-fs
-v27 וְעַל־|wə·‘al-|vvv|H5921|Conj-w | Prep
+v27 וְעַל־|wə·‘al-|...|H5921|Conj-w | Prep
 v27 שְׂפָתָיו|śə·p̄å̄·ṯå̄w|and his speech|H8193|N-fsc | 3ms
 v27 כְּאֵ֣שׁ|kə·’êš|fire|H784|Prep-k | N-cs
 v27 צָרָֽבֶת׃|ṣā·rā·ḇeṯ|is like a scorching|H6867|Adj-fs

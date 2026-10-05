@@ -1,5 +1,5 @@
 v1 Εἶχε|Eiche|had|G2192|V-IIA-3S
-v1 μὲν|men|vvv|G3303|Conj
+v1 μὲν|men|...|G3303|Conj
 v1 οὖν|oun|Now|G3767|Conj
 v1 καὶ|kai|-|G2532|Conj
 v1 ἡ|hē|the|G3588|Art-NFS
@@ -78,9 +78,9 @@ v5 δόξης|doxēs|of glory|G1391|N-GFS
 v5 κατασκιάζοντα|kataskiazonta|overshadowing|G2683|V-PPA-NNP
 v5 τὸ|to|the|G3588|Art-ANS
 v5 ἱλαστήριον|hilastērion|mercy seat|G2435|N-ANS
-v5 περὶ|peri|vvv|G4012|Prep
+v5 περὶ|peri|...|G4012|Prep
 v5 ὧν|hōn|[these things]|G3739|RelPro-GNP
-v5 οὐκ|ouk|vvv|G3756|Adv
+v5 οὐκ|ouk|...|G3756|Adv
 v5 ἔστιν|estin|-|G1510|V-PIA-3S
 v5 νῦν|nyn|now|G3568|Adv
 v5 λέγειν|legein|[But] we cannot discuss|G3004|V-PNA
@@ -122,8 +122,8 @@ v7 ὑπὲρ|hyper|for|G5228|Prep
 v7 ἑαυτοῦ|heautou|himself|G1438|RefPro-GM3S
 v7 καὶ|kai|and|G2532|Conj
 v7 τῶν|tōn|for the|G3588|Art-GNP
-v7 τοῦ|tou|vvv|G3588|Art-GMS
-v7 λαοῦ|laou|vvv|G2992|N-GMS
+v7 τοῦ|tou|...|G3588|Art-GMS
+v7 λαοῦ|laou|...|G2992|N-GMS
 v7 ἀγνοημάτων|agnoēmatōn|sins the people had committed in ignorance|G51|N-GNP
 v8 Τοῦτο|Touto|By this [arrangement]|G3778|DPro-ANS
 v8 δηλοῦντος|dēlountos|was showing|G1213|V-PPA-GNS
@@ -157,7 +157,7 @@ v9 τε|te|-|G5037|Conj
 v9 καὶ|kai|and|G2532|Conj
 v9 θυσίαι|thysiai|sacrifices|G2378|N-NFP
 v9 προσφέρονται|prospherontai|being offered|G4374|V-PIM/P-3P
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 δυνάμεναι|dynamenai|were unable|G1410|V-PPM/P-NFP
 v9 κατὰ|kata|...|G2596|Prep
 v9 συνείδησιν|syneidēsin|[the] conscience|G4893|N-AFS
@@ -304,15 +304,15 @@ v17 ἐπὶ|epi|until|G1909|Prep
 v17 νεκροῖς|nekrois|has died|G3498|Adj-DMP
 v17 βεβαία|bebaia|[does not] take effect|G949|Adj-NFS
 v17 ἐπεὶ|epei|-|G1893|Conj
-v17 μή‿|mē|vvv|G3361|Adv
-v17 ποτε|pote|vvv|G4218|Adv
+v17 μή‿|mē|...|G3361|Adv
+v17 ποτε|pote|...|G4218|Adv
 v17 ἰσχύει|ischyei|it cannot be executed|G2480|V-PIA-3S
 v17 ὅτε|hote|while|G3753|Adv
 v17 ζῇ|zē|he is still alive|G2198|V-PIA-3S
 v17 ὁ|ho|the [one who]|G3588|Art-NMS
 v17 διαθέμενος|diathemenos|made [it]|G1303|V-APM-NMS
 v18 Ὅθεν|Hothen|That is why|G3606|Conj
-v18 οὐδὲ|oude|vvv|G3761|Adv
+v18 οὐδὲ|oude|...|G3761|Adv
 v18 ἡ|hē|{even} the|G3588|Art-NFS
 v18 πρώτη|prōtē|first [covenant]|G4413|Adj-NFS
 v18 χωρὶς|chōris|without|G5565|Prep
@@ -401,8 +401,8 @@ v23 τὰ|ta|[for] the|G3588|Art-ANP
 v23 μὲν|men|-|G3303|Conj
 v23 ὑποδείγματα|hypodeigmata|copies|G5262|N-ANP
 v23 τῶν|tōn|things|G3588|Art-GNP
-v23 ἐν|en|vvv|G1722|Prep
-v23 τοῖς|tois|vvv|G3588|Art-DMP
+v23 ἐν|en|...|G1722|Prep
+v23 τοῖς|tois|...|G3588|Art-DMP
 v23 οὐρανοῖς|ouranois|[of] the heavenly|G3772|N-DMP
 v23 τούτοις|toutois|with these [sacrifices]|G3778|DPro-DNP
 v23 καθαρίζεσθαι|katharizesthai|to be purified|G2511|V-PNM/P

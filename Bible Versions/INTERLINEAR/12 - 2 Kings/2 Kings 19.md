@@ -54,7 +54,7 @@ v4 אֱלֹהֶ֜יךָ|’ĕ·lō·he·ḵā|your God|H430|N-mpc | 2ms
 v4 אֵ֣ת׀|’êṯ|-|H853|DirObjM
 v4 כָּל־|kāl-|all|H3605|N-msc
 v4 דִּבְרֵ֣י|diḇ·rê|the words|H1697|N-mpc
-v4 רַב־|raḇ-|vvv|H7262|N-ms
+v4 רַב־|raḇ-|...|H7262|N-ms
 v4 שָׁקֵ֗ה|šā·qêh|of the Rabshakeh|H7262|N-ms
 v4 אֲשֶׁר֩|’ă·šer|whom|H834|Pro-r
 v4 שְׁלָח֨וֹ|šə·lā·ḥōw|has sent|H7971|V-Qal-Perf-3ms | 3ms
@@ -82,7 +82,7 @@ v5 חִזְקִיָּ֖הוּ|ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
 v5 אֶל־|’el-|to|H413|Prep
 v5 יְשַֽׁעַיָֽהוּ׃|yə·ša·‘a·yā·hū|Isaiah|H3470|N-proper-ms
 v6 וַיֹּ֤אמֶר|way·yō·mer|replied|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v6 לָהֶם֙|lā·hem||H0|Prep | 3mp
+v6 לָהֶם֙|lā·hem|-|H0|Prep | 3mp
 v6 יְשַֽׁעְיָ֔הוּ|yə·ša‘·yā·hū|who|H3470|N-proper-ms
 v6 כֹּ֥ה|kōh|that this is what|H3541|Adv
 v6 תֹאמְר֖וּן|ṯō·mə·rūn|Tell|H559|V-Qal-Imperf-2mp | Pn
@@ -115,7 +115,7 @@ v7 וְהִפַּלְתִּ֥יו|wə·hip·pal·tîw|I will cause him to fall|H
 v7 בַּחֶ֖רֶב|ba·ḥe·reḇ|by the sword|H2719|Prep-b, Art | N-fs
 v7 בְּאַרְצֽוֹ׃|bə·’ar·ṣōw|where|H776|Prep-b | N-fsc | 3ms
 v8 וַיָּ֙שָׁב֙|way·yā·šāḇ|he withdrew|H7725|Conj-w | V-Qal-ConsecImperf-3ms
-v8 רַב־|raḇ-|vvv|H7262|N-ms
+v8 רַב־|raḇ-|...|H7262|N-ms
 v8 שָׁקֵ֔ה|šā·qêh|the Rabshakeh|H7262|N-ms
 v8 וַיִּמְצָא֙|way·yim·ṣā|and found|H4672|Conj-w | V-Qal-ConsecImperf-3ms
 v8 אֶת־|’eṯ-|-|H853|DirObjM
@@ -134,7 +134,7 @@ v9 אֶל־|’el-|about|H413|Prep
 v9 תִּרְהָ֤קָה|tir·hā·qāh|Tirhakah|H8640|N-proper-ms
 v9 מֶֽלֶך־|me·leḵ-|king|H4428|N-msc
 v9 כּוּשׁ֙|kūš|of Cush|H3568|N-proper-fs
-v9 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v9 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v9 הִנֵּ֥ה|hin·nêh|Look|H2009|Interjection
 v9 יָצָ֖א|yā·ṣā|he has set out|H3318|V-Qal-Perf-3ms
 v9 לְהִלָּחֵ֣ם|lə·hil·lā·ḥêm|to fight|H3898|Prep-l | V-Nifal-Inf
@@ -151,14 +151,14 @@ v10 אֶל־|’el-|to|H413|Prep
 v10 חִזְקִיָּ֤הוּ|ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
 v10 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v10 יְהוּדָה֙|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
-v10 לֵאמֹ֔ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v10 לֵאמֹ֔ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v10 אַל־|’al-|Do not|H408|Adv
 v10 יַשִּׁאֲךָ֣|yaš·ši·’ă·ḵā|deceive you|H5377|V-Hifil-Imperf.Jus-3ms | 2ms
 v10 אֱלֹהֶ֔יךָ|’ĕ·lō·he·ḵā|let your God|H430|N-mpc | 2ms
 v10 אֲשֶׁ֥ר|’ă·šer|in whom|H834|Pro-r
 v10 אַתָּ֛ה|’at·tāh|you|H859|Pro-2ms
 v10 בֹּטֵ֥חַ|bō·ṭê·aḥ|trust|H982|V-Qal-Prtcpl-ms
-v10 בּ֖וֹ|bōw||H0|Prep | 3ms
+v10 בּ֖וֹ|bōw|-|H0|Prep | 3ms
 v10 לֵאמֹ֑ר|lê·mōr|by saying|H559|Prep-l | V-Qal-Inf
 v10 לֹ֤א|lō|will not|H3808|Adv-NegPrt
 v10 תִנָּתֵן֙|ṯin·nā·ṯên|be delivered|H5414|V-Nifal-Imperf-3fs
@@ -201,7 +201,7 @@ v13 חֲמָת֙|ḥă·māṯ|of Hamath|H2574|N-proper-fs
 v13 וּמֶ֣לֶךְ|ū·me·leḵ|-|H4428|Conj-w | N-msc
 v13 אַרְפָּ֔ד|’ar·pāḏ|Arpad|H774|N-proper-fs
 v13 וּמֶ֖לֶךְ|ū·me·leḵ|-|H4428|Conj-w | N-ms
-v13 לָעִ֣יר|lā·‘îr|vvv|H5892|Prep-l, Art | N-fs
+v13 לָעִ֣יר|lā·‘îr|...|H5892|Prep-l, Art | N-fs
 v13 סְפַרְוָ֑יִם|sə·p̄ar·wā·yim|Sepharvaim|H5617|N-proper-fs
 v13 הֵנַ֖ע|hê·na‘|Hena|H2012|N-proper-fs
 v13 וְעִוָּֽה׃|wə·‘iw·wāh|and Ivvah|H5755|Conj-w | N-proper-fs
@@ -218,7 +218,7 @@ v14 יְהוָ֔ה|Yah·weh|of the LORD|H3068|N-proper-ms
 v14 וַיִּפְרְשֵׂ֥הוּ|way·yip̄·rə·śê·hū|and spread it out|H6566|Conj-w | V-Qal-ConsecImperf-3ms | 3ms
 v14 חִזְקִיָּ֖הוּ|ḥiz·qî·yā·hū|...|H2396|N-proper-ms
 v14 לִפְנֵ֥י|lip̄·nê|before|H6440|Prep-l | N-cpc
-v14 יְהוָֽה׃פ|Yah·weh|the LORD|H3068|N-proper-ms
+v14 יְהוָֽה׃|Yah·weh|the LORD|H3068|N-proper-ms
 v15 וַיִּתְפַּלֵּ֨ל|way·yiṯ·pal·lêl|prayed|H6419|Conj-w | V-Hitpael-ConsecImperf-3ms
 v15 חִזְקִיָּ֜הוּ|ḥiz·qî·yā·hū|And Hezekiah|H2396|N-proper-ms
 v15 לִפְנֵ֣י|lip̄·nê|before|H6440|Prep-l | N-cpc
@@ -298,14 +298,14 @@ v19 כִּ֥י|kî|that|H3588|Conj
 v19 אַתָּ֛ה|’at·tāh|You|H859|Pro-2ms
 v19 יְהוָ֥ה|Yah·weh|O LORD|H3068|N-proper-ms
 v19 אֱלֹהִ֖ים|’ĕ·lō·hîm|are God|H430|N-mp
-v19 לְבַדֶּֽךָ׃ס|lə·ḇad·de·ḵā|alone|H905|Prep-l | N-msc | 2ms
+v19 לְבַדֶּֽךָ׃|lə·ḇad·de·ḵā|alone|H905|Prep-l | N-msc | 2ms
 v20 וַיִּשְׁלַח֙|way·yiš·laḥ|sent|H7971|Conj-w | V-Qal-ConsecImperf-3ms
 v20 יְשַֽׁעְיָ֣הוּ|yə·ša‘·yā·hū|Then Isaiah|H3470|N-proper-ms
 v20 בֶן־|ḇen-|son|H1121|N-msc
 v20 אָמ֔וֹץ|’ā·mō·wṣ|of Amoz|H531|N-proper-ms
 v20 אֶל־|’el-|a message to|H413|Prep
 v20 חִזְקִיָּ֖הוּ|ḥiz·qî·yā·hū|Hezekiah|H2396|N-proper-ms
-v20 לֵאמֹ֑ר|lê·mōr||H559|Prep-l | V-Qal-Inf
+v20 לֵאמֹ֑ר|lê·mōr|-|H559|Prep-l | V-Qal-Inf
 v20 כֹּֽה־|kōh-|This is what|H3541|Adv
 v20 אָמַ֤ר|’ā·mar|says|H559|V-Qal-Perf-3ms
 v20 יְהוָה֙|Yah·weh|the LORD|H3068|N-proper-ms
@@ -438,7 +438,7 @@ v28 וַהֲשִׁ֣בֹתִ֔יךָ|wa·hă·ši·ḇō·ṯî·ḵā|I will s
 v28 בַּדֶּ֖רֶךְ|bad·de·reḵ|the way|H1870|Prep-b, Art | N-cs
 v28 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v28 בָּ֥אתָ|bā·ṯā|you came|H935|V-Qal-Perf-2ms
-v28 בָּֽהּ׃|bāh||H0|Prep | 3fs
+v28 בָּֽהּ׃|bāh|-|H0|Prep | 3fs
 v29 וְזֶה־|wə·zeh-|And this|H2088|Conj-w | Pro-ms
 v29 לְּךָ֣|lə·ḵā|to you, [O Hezekiah]|H0|Prep | 2ms
 v29 הָא֔וֹת|hā·’ō·wṯ|will be a sign|H226|Art | N-cs
@@ -476,7 +476,7 @@ v31 צִיּ֑וֹן|ṣî·yō·wn|Zion|H6726|N-proper-fs
 v31 קִנְאַ֛ת|qin·’aṯ|The zeal|H7068|N-fsc
 v31 יְהוָ֥הֳ֖|ha·šēm|of the LORD [of Hosts]|H3068|N-proper-ms
 v31 תַּֽעֲשֶׂה־|ta·‘ă·śeh-|will accomplish|H6213|V-Qal-Imperf-3fs
-v31 זֹּֽאת׃ס|zōṯ|this|H2063|Pro-fs
+v31 זֹּֽאת׃|zōṯ|this|H2063|Pro-fs
 v32 לָכֵ֗ן|lā·ḵên|So|H3651|Adv
 v32 כֹּֽה־|kōh-|this is what|H3541|Adv
 v32 אָמַ֤ר|’ā·mar|says|H559|V-Qal-Perf-3ms
@@ -489,11 +489,11 @@ v32 יָבֹא֙|yā·ḇō|enter|H935|V-Qal-Imperf-3ms
 v32 אֶל־|’el-|...|H413|Prep
 v32 הָעִ֣יר|hā·‘îr|city|H5892|Art | N-fs
 v32 הַזֹּ֔את|haz·zōṯ|this|H2063|Art | Pro-fs
-v32 וְלֹֽא־|wə·lō-|vvv|H3808|Conj-w | Adv-NegPrt
+v32 וְלֹֽא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v32 יוֹרֶ֥ה|yō·w·reh|or shoot|H3384|V-Hifil-Imperf-3ms
 v32 שָׁ֖ם|šām|into it|H8033|Adv
 v32 חֵ֑ץ|ḥêṣ|an arrow|H2671|N-ms
-v32 וְלֹֽא־|wə·lō-|vvv|H3808|Conj-w | Adv-NegPrt
+v32 וְלֹֽא־|wə·lō-|...|H3808|Conj-w | Adv-NegPrt
 v32 יְקַדְּמֶ֣נָּה|yə·qad·də·men·nāh|He will not come before it|H6923|V-Piel-Imperf-3ms | 3fs
 v32 מָגֵ֔ן|mā·ḡên|with a shield|H4043|N-cs
 v32 וְלֹֽא־|wə·lō-|[or]|H3808|Conj-w | Adv-NegPrt
@@ -503,7 +503,7 @@ v32 סֹלְלָֽה׃|sō·lə·lāh|a siege ramp|H5550|N-fs
 v33 בַּדֶּ֥רֶךְ|bad·de·reḵ|the way|H1870|Prep-b, Art | N-cs
 v33 אֲשֶׁר־|’ă·šer-|-|H834|Pro-r
 v33 יָבֹ֖א|yā·ḇō|he came|H935|V-Qal-Imperf-3ms
-v33 בָּ֣הּ|bāh||H0|Prep | 3fs
+v33 בָּ֣הּ|bāh|-|H0|Prep | 3fs
 v33 יָשׁ֑וּב|yā·šūḇ|He will go back|H7725|V-Qal-Imperf-3ms
 v33 וְאֶל־|wə·’el-|enter|H413|Conj-w | Prep
 v33 הָעִ֥יר|hā·‘îr|city|H5892|Art | N-fs
@@ -566,4 +566,4 @@ v37 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-Conse
 v37 אֵֽסַר־|’ê·sar-|Esar-haddon|H634|N-mpc | 3ms
 v37 חַדֹּ֥ן|ḥad·dōn|...|H634|N-proper-ms
 v37 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v37 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v37 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms

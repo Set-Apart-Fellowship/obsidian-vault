@@ -4,7 +4,7 @@ v1 πρὸς|pros|to|G4314|Prep
 v1 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v1 ἀδελφοί|adelphoi|brothers|G80|N-VMP
 v1 ἦλθον|ēlthon|I did not come|G2064|V-AIA-1S
-v1 οὐ|ou|vvv|G3756|Adv
+v1 οὐ|ou|...|G3756|Adv
 v1 καθ’|kath’|with|G2596|Prep
 v1 ὑπεροχὴν|hyperochēn|eloquence|G5247|N-AFS
 v1 λόγου|logou|...|G3056|N-GMS
@@ -66,7 +66,7 @@ v5 ἵνα|hina|so that|G2443|Conj
 v5 ἡ|hē|-|G3588|Art-NFS
 v5 πίστις|pistis|faith|G4102|N-NFS
 v5 ὑμῶν|hymōn|your|G4771|PPro-G2P
-v5 μὴ|mē|vvv|G3361|Adv
+v5 μὴ|mē|...|G3361|Adv
 v5 ᾖ|ē|would not rest|G1510|V-PSA-3S
 v5 ἐν|en|on|G1722|Prep
 v5 σοφίᾳ|sophia|wisdom|G4678|N-DFS
@@ -99,7 +99,7 @@ v7 ἀλλὰ|alla|No|G235|Conj
 v7 λαλοῦμεν|laloumen|we speak of|G2980|V-PIA-1P
 v7 Θεοῦ|Theou|of God|G2316|N-GMS
 v7 σοφίαν|sophian|wisdom|G4678|N-AFS
-v7 ἐν|en|vvv|G1722|Prep
+v7 ἐν|en|...|G1722|Prep
 v7 μυστηρίῳ|mystēriō|[the] mysterious|G3466|N-DNS
 v7 τὴν|tēn|-|G3588|Art-AFS
 v7 ἀποκεκρυμμένην|apokekrymmenēn|[and] hidden|G613|V-RPM/P-AFS
@@ -124,8 +124,8 @@ v8 ἔγνωκεν|egnōken|understood|G1097|V-RIA-3S
 v8 εἰ|ei|if|G1487|Conj
 v8 γὰρ|gar|For|G1063|Conj
 v8 ἔγνωσαν|egnōsan|they had|G1097|V-AIA-3P
-v8 οὐκ|ouk|vvv|G3756|Adv
-v8 ἂν|an|vvv|G302|Prtcl
+v8 οὐκ|ouk|...|G3756|Adv
+v8 ἂν|an|...|G302|Prtcl
 v8 τὸν|ton|the|G3588|Art-AMS
 v8 Κύριον|Kyrion|Lord|G2962|N-AMS
 v8 τῆς|tēs|-|G3588|Art-GFS
@@ -182,9 +182,9 @@ v11 τοῦ|tou|-|G3588|Art-GMS
 v11 ἀνθρώπου|anthrōpou|of man|G444|N-GMS
 v11 εἰ|ei|except|G1487|Conj
 v11 μὴ|mē|...|G3361|Adv
-v11 τὸ|to|vvv|G3588|Art-NNS
+v11 τὸ|to|...|G3588|Art-NNS
 v11 πνεῦμα|pneuma|spirit|G4151|N-NNS
-v11 τοῦ|tou|vvv|G3588|Art-GMS
+v11 τοῦ|tou|...|G3588|Art-GMS
 v11 ἀνθρώπου|anthrōpou|[his own]|G444|N-GMS
 v11 τὸ|to|-|G3588|Art-NNS
 v11 ἐν|en|within|G1722|Prep
@@ -256,7 +256,7 @@ v14 γὰρ|gar|For|G1063|Conj
 v14 αὐτῷ|autō|to him|G846|PPro-DM3S
 v14 ἐστίν|estin|they are|G1510|V-PIA-3S
 v14 καὶ|kai|and|G2532|Conj
-v14 οὐ|ou|vvv|G3756|Adv
+v14 οὐ|ou|...|G3756|Adv
 v14 δύναται|dynatai|he cannot|G1410|V-PIM/P-3S
 v14 γνῶναι|gnōnai|understand [them]|G1097|V-ANA
 v14 ὅτι|hoti|because|G3754|Conj

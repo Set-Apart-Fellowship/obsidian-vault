@@ -126,7 +126,7 @@ v7 עַֽל־|‘al-|placed around|H5922|Prep
 v7 צַוְּארֵ֔הּ|ṣaw·wə·rêh|his neck|H6676|N-msc | 3ms
 v7 וְתַלְתִּ֥י|wə·ṯal·tî|and he will be made the third|H8523|Conj-w | Adj-ms
 v7 בְמַלְכוּתָ֖א|ḇə·mal·ḵū·ṯā|in the kingdom|H4437|Prep-b | N-fsd
-v7 יִשְׁלַֽט׃ס|yiš·laṭ|highest ruler|H7981|V-Qal-Imperf-3ms
+v7 יִשְׁלַֽט׃|yiš·laṭ|highest ruler|H7981|V-Qal-Imperf-3ms
 v8 אֱדַ֙יִן֙|’ĕ·ḏa·yin|So|H116|Adv
 v8 עָלֲלִין|ʿå̄·lă·līn|came in|H5954|V-Qal-Prtcpl-mp
 v8 כֹּ֖ל|kōl|all|H3606|N-msc
@@ -185,7 +185,7 @@ v11 וְחָכְמָ֥ה|wə·ḥā·ḵə·māh|and wisdom|H2452|Conj-w | N-fs
 v11 כְּחָכְמַת־|kə·ḥā·ḵə·maṯ-|like [that]|H2452|Prep-k | N-fsc
 v11 אֱלָהִ֖ין|’ĕ·lā·hîn|of the gods|H426|N-mp
 v11 הִשְׁתְּכַ֣חַת|hiš·tə·ḵa·ḥaṯ|he was found|H7912|V-Hitpael-Perf-3fs
-v11 בֵּ֑הּ|bêh||H0|Prep | 3ms
+v11 בֵּ֑הּ|bêh|-|H0|Prep | 3ms
 v11 וּמַלְכָּ֤א|ū·mal·kā|King|H4430|Conj-w | N-msd
 v11 נְבֻֽכַדְנֶצַּר֙|nə·ḇu·ḵaḏ·neṣ·ṣar|Nebuchadnezzar|H5020|N-proper-ms
 v11 אֲב֔וּךְ|’ă·ḇūḵ|Your father|H2|N-msc | 2ms
@@ -211,7 +211,7 @@ v12 אֲחִידָ֜ן|’ă·ḥî·ḏān|riddles|H280|N-mp
 v12 וּמְשָׁרֵ֣א|ū·mə·šā·rê|and solve|H8271|Conj-w | V-Piel-Prtcpl-msc
 v12 קִטְרִ֗ין|qiṭ·rîn|difficult problems|H7001|N-mp
 v12 הִשְׁתְּכַ֤חַת|hiš·tə·ḵa·ḥaṯ|was found|H7912|V-Hitpael-Perf-3fs
-v12 בֵּהּ֙|bêh||H0|Prep | 3ms
+v12 בֵּהּ֙|bêh|-|H0|Prep | 3ms
 v12 בְּדָ֣נִיֵּ֔אל|bə·ḏā·nî·yêl|Daniel|H1841|Prep-b | N-proper-ms
 v12 דִּֽי־|dî-|the one|H1768|Pro-r
 v12 מַלְכָּ֥א|mal·kā|[he]|H4430|N-msd
@@ -222,7 +222,7 @@ v12 כְּעַ֛ן|kə·‘an|therefore|H3705|Adv
 v12 דָּנִיֵּ֥אל|dā·nî·yêl|Daniel|H1841|N-proper-ms
 v12 יִתְקְרֵ֖י|yiṯ·qə·rê|Summon|H7123|V-Hitpael-Imperf.Jus-3ms
 v12 וּפִשְׁרָ֥ה|ū·p̄iš·rāh|the interpretation|H6591|Conj-w | N-msd
-v12 יְהַֽחֲוֵֽה׃פ|yə·ha·ḥă·wêh|and he will give you|H2324|V-Hifil-Imperf-3ms
+v12 יְהַֽחֲוֵֽה׃|yə·ha·ḥă·wêh|and he will give you|H2324|V-Hifil-Imperf-3ms
 v13 בֵּאדַ֙יִן֙|bê·ḏa·yin|So|H116|Prep-b | Adv
 v13 דָּֽנִיֵּ֔אל|dā·nî·yêl|Daniel|H1841|N-proper-ms
 v13 הֻעַ֖ל|hu·‘al|was brought|H5954|V-Hofal-Perf-3ms
@@ -257,8 +257,8 @@ v14 וְנַהִיר֧וּ|wə·na·hî·rū|and that you have insight|H5094|Con
 v14 וְשָׂכְלְתָנ֛וּ|wə·śā·ḵə·lə·ṯā·nū|intelligence|H7924|Conj-w | N-fs
 v14 וְחָכְמָ֥ה|wə·ḥā·ḵə·māh|wisdom|H2452|Conj-w | N-fs
 v14 יַתִּירָ֖ה|yat·tî·rāh|and extraordinary|H3493|Adj-fs
-v14 הִשְׁתְּכַ֥חַת|hiš·tə·ḵa·ḥaṯ||H7912|V-Hitpael-Perf-3fs
-v14 בָּֽךְ׃|bāḵ||H0|Prep | 2ms
+v14 הִשְׁתְּכַ֥חַת|hiš·tə·ḵa·ḥaṯ|-|H7912|V-Hitpael-Perf-3fs
+v14 בָּֽךְ׃|bāḵ|-|H0|Prep | 2ms
 v15 וּכְעַ֞ן|ū·ḵə·‘an|Now|H3705|Conj-w | Adv
 v15 הֻעַ֣לּוּ|hu·‘al·lū|were brought|H5954|V-Hofal-Perf-3mp
 v15 קָֽדָמַ֗י|qā·ḏā·may|before me|H6925|Prep | 1cs
@@ -294,13 +294,13 @@ v16 לְהוֹדָ֣עֻתַ֔נִי|lə·hō·w·ḏā·‘u·ṯa·nî|and giv
 v16 אַרְגְּוָנָ֣א|’ar·gə·wā·nā|in purple|H711|N-msd
 v16 תִלְבַּ֗שׁ|ṯil·baš|you will be clothed|H3848|V-Qal-Imperf-2ms
 v16 וְהַמּוֹנְכָא|wə·ham·mō·nə·ḵå̄|chain|H2002|Conj-w | N-msd
-v16 דִֽי־|ḏî-||H1768|Pro-r
+v16 דִֽי־|ḏî-|-|H1768|Pro-r
 v16 דַהֲבָא֙|ḏa·hă·ḇā|and have a gold|H1722|N-msd
 v16 עַֽל־|‘al-|placed around|H5922|Prep
 v16 צַוְּארָ֔ךְ|ṣaw·wə·rāḵ|your neck|H6676|N-msc | 2ms
 v16 וְתַלְתָּ֥א|wə·ṯal·tā|and you will be made the third|H8531|Conj-w | Adj-ms
 v16 בְמַלְכוּתָ֖א|ḇə·mal·ḵū·ṯā|in the kingdom|H4437|Prep-b | N-fsd
-v16 תִּשְׁלַֽט׃פ|tiš·laṭ|highest ruler|H7981|V-Qal-Imperf-2ms
+v16 תִּשְׁלַֽט׃|tiš·laṭ|highest ruler|H7981|V-Qal-Imperf-2ms
 v17 בֵּאדַ֜יִן|bê·ḏa·yin|In response|H116|Prep-b | Adv
 v17 עָנֵ֣ה|‘ā·nêh|...|H6032|V-Qal-Prtcpl-ms
 v17 דָנִיֵּ֗אל|ḏā·nî·yêl|Daniel|H1841|N-proper-ms
@@ -339,7 +339,7 @@ v19 כֹּ֣ל|kōl|of every|H3606|N-msc
 v19 עַֽמְמַיָּ֗א|‘am·may·yā|the people|H5972|N-mpd
 v19 אֻמַיָּא֙|’u·may·yā|nation|H524|N-fpd
 v19 וְלִשָּׁ֣נַיָּ֔א|wə·liš·šā·nay·yā|and language|H3961|Conj-w | N-mpd
-v19 הֲו֛וֹ|hă·wōw|vvv|H1934|V-Qal-Perf-3mp
+v19 הֲו֛וֹ|hă·wōw|...|H1934|V-Qal-Perf-3mp
 v19 זָאֲעִין|zå̄·ʾă·ʿīn|trembled|H2112|V-Qal-Prtcpl-mp
 v19 וְדָחֲלִ֖ין|wə·ḏā·ḥă·lîn|in fear|H1763|Conj-w | V-Qal-Prtcpl-mp
 v19 מִן־|min-|before|H4481|Prep
@@ -505,7 +505,7 @@ v29 וְהַלְבִּ֤ישׁוּ|wə·hal·bî·šū|and they clothed|H3848|Co
 v29 לְדָֽנִיֵּאל֙|lə·ḏā·nî·yêl|Daniel|H1841|Prep-l | N-proper-ms
 v29 אַרְגְּוָנָ֔א|’ar·gə·wā·nā|in purple|H711|N-msd
 v29 וְהַמּוֹנְכָא|wə·ham·mō·nə·ḵå̄|chain|H2002|Conj-w | N-msd
-v29 דִֽי־|ḏî-||H1768|Pro-r
+v29 דִֽי־|ḏî-|-|H1768|Pro-r
 v29 דַהֲבָ֖א|ḏa·hă·ḇā|placed a gold|H1722|N-msd
 v29 עַֽל־|‘al-|around|H5922|Prep
 v29 צַוְּארֵ֑הּ|ṣaw·wə·rêh|his neck|H6676|N-msc | 3ms
@@ -521,7 +521,7 @@ v30 בְּלֵ֣ילְיָ֔א|bə·lê·lə·yā|very night|H3916|Prep-b | N-ms
 v30 קְטִ֕יל|qə·ṭîl|was slain|H6992|V-Nifal-Perf-3ms
 v30 בֵּלְאשַׁצַּ֖ר|bê·lə·šaṣ·ṣar|Belshazzar|H1113|N-proper-ms
 v30 מַלְכָּ֥א|mal·kā|king|H4430|N-msd
-v30 כַשְׂדָּיָא׃פ|ḵaś·då̄·yå̄|of the Chaldeans|H3779|N-proper-mp
+v30 כַשְׂדָּיָא׃|ḵaś·då̄·yå̄|of the Chaldeans|H3779|N-proper-mp
 v31 וְדָרְיָ֙וֶשׁ֙|wə·ḏā·rə·yā·weš|and Darius|H1868|Conj-w | N-proper-ms
 v31 מָֽדָיאָ֔|må̄·ḏå̄y·ʾå̄|the Mede|H4076|N-proper-ms
 v31 קַבֵּ֖ל|qab·bêl|received|H6902|V-Piel-Perf-3ms

@@ -26,7 +26,7 @@ v2 לָכֶ֔ם|lā·ḵem|by you|H0|Prep | 2mp
 v2 וְאִם־|wə·’im-|but if|H518|Conj
 v2 תַּעַזְבֻ֖הוּ|ta·‘az·ḇu·hū|you forsake Him|H5800|V-Qal-Imperf-2mp | 3ms
 v2 יַעֲזֹ֥ב|ya·‘ă·zōḇ|He will forsake|H5800|V-Qal-Imperf-3ms
-v2 אֶתְכֶֽם׃ס|’eṯ·ḵem|you|H853|DirObjM | 2mp
+v2 אֶתְכֶֽם׃|’eṯ·ḵem|you|H853|DirObjM | 2mp
 v3 וְיָמִ֥ים|wə·yā·mîm|years|H3117|Conj-w | N-mp
 v3 רַבִּ֖ים|rab·bîm|For many|H7227|Adj-mp
 v3 לְיִשְׂרָאֵ֑ל|lə·yiś·rā·’êl|Israel|H3478|Prep-l | N-proper-ms
@@ -79,7 +79,7 @@ v7 יְדֵיכֶ֑ם|yə·ḏê·ḵem|...|H3027|N-fdc | 2mp
 v7 כִּ֛י|kî|for|H3588|Conj
 v7 יֵ֥שׁ|yêš|will be|H3426|Adv
 v7 שָׂכָ֖ר|śā·ḵār|rewarded|H7939|N-ms
-v7 לִפְעֻלַּתְכֶֽם׃ס|lip̄·‘ul·laṯ·ḵem|your work|H6468|Prep-l | N-fsc | 2mp
+v7 לִפְעֻלַּתְכֶֽם׃|lip̄·‘ul·laṯ·ḵem|your work|H6468|Prep-l | N-fsc | 2mp
 v8 וְכִשְׁמֹ֨עַ|wə·ḵiš·mō·a‘|heard|H8085|Conj-w, Prep-k | V-Qal-Inf
 v8 אָסָ֜א|’ā·sā|When Asa|H609|N-proper-ms
 v8 הַדְּבָרִ֣ים|had·də·ḇā·rîm|words|H1697|Art | N-mp
@@ -96,7 +96,7 @@ v8 יְהוּדָה֙|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v8 וּבִנְיָמִ֔ן|ū·ḇin·yā·min|and Benjamin|H1144|Conj-w | N-proper-ms
 v8 וּמִן־|ū·min-|from|H4480|Conj-w | Prep
 v8 הֶ֣עָרִ֔ים|he·‘ā·rîm|and from the cities|H5892|Art | N-fp
-v8 אֲשֶׁ֥ר|’ă·šer||H834|Pro-r
+v8 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v8 לָכַ֖ד|lā·ḵaḏ|he had captured|H3920|V-Qal-Perf-3ms
 v8 מֵהַ֣ר|mê·har|in the hill country|H2022|Prep-m | N-msc
 v8 אֶפְרָ֑יִם|’ep̄·rā·yim|of Ephraim|H669|N-proper-ms
@@ -127,7 +127,7 @@ v9 בִּרְאֹתָ֕ם|bir·’ō·ṯām|when they saw|H7200|Prep-b | V-Qal-
 v9 כִּֽי־|kî-|that|H3588|Conj
 v9 יְהוָ֥ה|Yah·weh|the LORD|H3068|N-proper-ms
 v9 אֱלֹהָ֖יו|’ĕ·lō·hāw|his God|H430|N-mpc | 3ms
-v9 עִמּֽוֹ׃פ|‘im·mōw|was with him|H5973|Prep | 3ms
+v9 עִמּֽוֹ׃|‘im·mōw|was with him|H5973|Prep | 3ms
 v10 וַיִּקָּבְצ֥וּ|way·yiq·qā·ḇə·ṣū|So they gathered together|H6908|Conj-w | V-Nifal-ConsecImperf-3mp
 v10 יְרוּשָׁלִַ֖ם|yə·rū·šā·lim|in Jerusalem|H3389|N-proper-fs
 v10 בַּחֹ֣דֶשׁ|ba·ḥō·ḏeš|month|H2320|Prep-b, Art | N-ms
@@ -199,7 +199,7 @@ v15 וַיִּמָּצֵ֖א|way·yim·mā·ṣê|and He was found|H4672|Conj-w 
 v15 לָהֶ֑ם|lā·hem|by them|H0|Prep | 3mp
 v15 וַיָּ֧נַח|way·yā·naḥ|gave them rest|H5117|Conj-w | V-Hifil-ConsecImperf-3ms
 v15 יְהוָ֛ה|Yah·weh|So the LORD|H3068|N-proper-ms
-v15 לָהֶ֖ם|lā·hem||H0|Prep | 3mp
+v15 לָהֶ֖ם|lā·hem|-|H0|Prep | 3mp
 v15 מִסָּבִֽיב׃|mis·sā·ḇîḇ|on every side|H5439|Prep-m | Adv
 v16 וְגַֽם־|wə·ḡam-|also|H1571|Conj
 v16 מַעֲכָ֞ה|ma·‘ă·ḵāh|Maacah|H4601|N-proper-fs
@@ -249,4 +249,4 @@ v19 שְׁנַת־|šə·naṯ-|year|H8141|N-fsc
 v19 שְׁלֹשִׁ֥ים|šə·lō·šîm|the thirty-fifth|H7970|Number-cp
 v19 וְחָמֵ֖שׁ|wə·ḥā·mêš|...|H2568|Conj-w | Number-fs
 v19 לְמַלְכ֥וּת|lə·mal·ḵūṯ|reign|H4438|Prep-l | N-fsc
-v19 אָסָֽא׃ס|’ā·sā|of Asa's|H609|N-proper-ms
+v19 אָסָֽא׃|’ā·sā|of Asa's|H609|N-proper-ms

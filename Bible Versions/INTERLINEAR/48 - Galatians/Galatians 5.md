@@ -24,7 +24,7 @@ v2 ὑμᾶς|hymas|to you {at all}|G4771|PPro-A2P
 v2 οὐδὲν|ouden|...|G3762|Adj-ANS
 v2 ὠφελήσει|ōphelēsei|will be of no value|G5623|V-FIA-3S
 v3 μαρτύρομαι|martyromai|I testify|G3143|V-PIM/P-1S
-v3 δὲ|de|vvv|G1161|Conj
+v3 δὲ|de|...|G1161|Conj
 v3 πάλιν|palin|Again|G3825|Adv
 v3 παντὶ|panti|to every|G3956|Adj-DMS
 v3 ἀνθρώπῳ|anthrōpō|man|G444|N-DMS
@@ -76,7 +76,7 @@ v7 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v7 ἐνέκοψεν|enekopsen|has obstructed|G1465|V-AIA-3S
 v7 ‹τῇ›|tē|the|G3588|Art-DFS
 v7 ἀληθείᾳ|alētheia|truth|G225|N-DFS
-v7 μὴ|mē|vvv|G3361|Adv
+v7 μὴ|mē|...|G3361|Adv
 v7 πείθεσθαι|peithesthai|from obeying|G3982|V-PNM/P
 v8 ἡ|hē|[Such]|G3588|Art-NFS
 v8 πεισμονὴ|peismonē|persuasion|G3988|N-NFS
@@ -119,7 +119,7 @@ v11 περιτομὴν|peritomēn|circumcision|G4061|N-AFS
 v11 ἔτι|eti|{am} still|G2089|Adv
 v11 κηρύσσω|kēryssō|preaching|G2784|V-PIA-1S
 v11 τί|ti|why|G5101|IPro-ANS
-v11 ἔτι|eti|vvv|G2089|Adv
+v11 ἔτι|eti|...|G2089|Adv
 v11 διώκομαι|diōkomai|am I still being persecuted|G1377|V-PIM/P-1S
 v11 ἄρα|ara|In that case|G686|Conj
 v11 κατήργηται|katērgētai|has been abolished|G2673|V-RIM/P-3S
@@ -128,7 +128,7 @@ v11 σκάνδαλον|skandalon|offense|G4625|N-NNS
 v11 τοῦ|tou|of the|G3588|Art-GMS
 v11 σταυροῦ|staurou|cross|G4716|N-GMS
 v12 Ὄφελον|Ophelon|I wish|G3785|I
-v12 καὶ|kai|vvv|G2532|Conj
+v12 καὶ|kai|...|G2532|Conj
 v12 ἀποκόψονται|apokopsontai|they would proceed to emasculate themselves|G609|V-FIM-3P
 v12 οἱ|hoi|As for those who|G3588|Art-NMP
 v12 ἀναστατοῦντες|anastatountes|are agitating|G387|V-PPA-NMP
@@ -187,8 +187,8 @@ v16 περιπατεῖτε|peripateite|walk|G4043|V-PMA-2P
 v16 καὶ|kai|and|G2532|Conj
 v16 ἐπιθυμίαν|epithymian|[the] desires|G1939|N-AFS
 v16 σαρκὸς|sarkos|[of the] flesh|G4561|N-GFS
-v16 οὐ|ou|vvv|G3756|Adv
-v16 μὴ|mē|vvv|G3361|Adv
+v16 οὐ|ou|...|G3756|Adv
+v16 μὴ|mē|...|G3361|Adv
 v16 τελέσητε|telesēte|you will not gratify|G5055|V-ASA-2P
 v17 ἡ|hē|the|G3588|Art-NFS
 v17 γὰρ|gar|For|G1063|Conj
@@ -208,9 +208,9 @@ v17 γὰρ|gar|-|G1063|Conj
 v17 ἀλλήλοις|allēlois|to each other|G240|RecPro-DNP
 v17 ἀντίκειται|antikeitai|are opposed|G480|V-PIM/P-3S
 v17 ἵνα|hina|so that|G2443|Conj
-v17 μὴ|mē|vvv|G3361|Adv
+v17 μὴ|mē|...|G3361|Adv
 v17 ἃ|ha|...|G3739|RelPro-ANP
-v17 ἐὰν|ean|vvv|G1437|Conj
+v17 ἐὰν|ean|...|G1437|Conj
 v17 θέλητε|thelēte|you want|G2309|V-PSA-2P
 v17 ταῦτα|tauta|what|G3778|DPro-ANP
 v17 ποιῆτε|poiēte|you do not do|G4160|V-PSA-2P
@@ -262,7 +262,7 @@ v21 τοιαῦτα|toiauta|things|G5108|DPro-ANP
 v21 πράσσοντες|prassontes|who practice|G4238|V-PPA-NMP
 v21 βασιλείαν|basileian|[the] kingdom|G932|N-AFS
 v21 Θεοῦ|Theou|of God|G2316|N-GMS
-v21 οὐ|ou|vvv|G3756|Adv
+v21 οὐ|ou|...|G3756|Adv
 v21 κληρονομήσουσιν|klēronomēsousin|will not inherit|G2816|V-FIA-3P
 v22 Ὁ|Ho|the|G3588|Art-NMS
 v22 δὲ|de|But|G1161|Conj
@@ -303,9 +303,9 @@ v25 Εἰ|Ei|Since|G1487|Conj
 v25 ζῶμεν|zōmen|we live|G2198|V-PIA-1P
 v25 Πνεύματι|Pneumati|by [the] Spirit|G4151|N-DNS
 v25 Πνεύματι|Pneumati|with [the] Spirit|G4151|N-DNS
-v25 καὶ|kai|vvv|G2532|Conj
+v25 καὶ|kai|...|G2532|Conj
 v25 στοιχῶμεν|stoichōmen|let us walk in step|G4748|V-PSA-1P
-v26 μὴ|mē|vvv|G3361|Adv
+v26 μὴ|mē|...|G3361|Adv
 v26 γινώμεθα|ginōmetha|Let us not become|G1096|V-PSM/P-1P
 v26 κενόδοξοι|kenodoxoi|conceited|G2755|Adj-NMP
 v26 ἀλλήλους|allēlous|-|G240|RecPro-AMP

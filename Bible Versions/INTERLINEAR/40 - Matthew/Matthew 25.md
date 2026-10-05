@@ -54,7 +54,7 @@ v5 δὲ|de|[When]|G1161|Conj
 v5 τοῦ|tou|the|G3588|Art-GMS
 v5 νυμφίου|nymphiou|bridegroom|G3566|N-GMS
 v5 ἐνύσταξαν|enystaxan|they all became drowsy|G3573|V-AIA-3P
-v5 πᾶσαι|pasai|vvv|G3956|Adj-NFP
+v5 πᾶσαι|pasai|...|G3956|Adj-NFP
 v5 καὶ|kai|and|G2532|Conj
 v5 ἐκάθευδον|ekatheudon|fell asleep|G2518|V-IIA-3P
 v6 Μέσης|Mesēs|At midnight|G3319|Adj-GFS
@@ -104,7 +104,7 @@ v9 φρόνιμοι|phronimoi|wise [ones]|G5429|Adj-NFP
 v9 λέγουσαι|legousai|...|G3004|V-PPA-NFP
 v9 Μή¦Ποτε|Mē¦Pote|or|G3379|Adv
 v9 οὐ|ou|No|G3756|Adv
-v9 μὴ|mē|vvv|G3361|Adv
+v9 μὴ|mē|...|G3361|Adv
 v9 ἀρκέσῃ|arkesē|there may not be enough|G714|V-ASA-3S
 v9 ἡμῖν|hēmin|for [both] us|G1473|PPro-D1P
 v9 καὶ|kai|and|G2532|Conj
@@ -138,7 +138,7 @@ v10 ἐκλείσθη|ekleisthē|was shut|G2808|V-AIP-3S
 v10 ἡ|hē|the|G3588|Art-NFS
 v10 θύρα|thyra|door|G2374|N-NFS
 v11 Ὕστερον|Hysteron|Later|G5305|Adv
-v11 δὲ|de|vvv|G1161|Conj
+v11 δὲ|de|...|G1161|Conj
 v11 ἔρχονται|erchontai|arrived|G2064|V-PIM/P-3P
 v11 καὶ|kai|and|G2532|Conj
 v11 αἱ|hai|the|G3588|Art-NFP
@@ -156,13 +156,13 @@ v12 εἶπεν|eipen|...|G2036|V-AIA-3S
 v12 Ἀμὴν|Amēn|Truly|G281|Heb
 v12 λέγω|legō|I tell|G3004|V-PIA-1S
 v12 ὑμῖν|hymin|you|G4771|PPro-D2P
-v12 οὐκ|ouk|vvv|G3756|Adv
+v12 οὐκ|ouk|...|G3756|Adv
 v12 οἶδα|oida|I do not know|G1492|V-RIA-1S
 v12 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v13 Γρηγορεῖτε|Grēgoreite|keep watch|G1127|V-PMA-2P
 v13 οὖν|oun|Therefore|G3767|Conj
 v13 ὅτι|hoti|because|G3754|Conj
-v13 οὐκ|ouk|vvv|G3756|Adv
+v13 οὐκ|ouk|...|G3756|Adv
 v13 οἴδατε|oidate|you do not know|G1492|V-RIA-2P
 v13 τὴν|tēn|the|G3588|Art-AFS
 v13 ἡμέραν|hēmeran|day|G2250|N-AFS
@@ -239,7 +239,7 @@ v18 τοῦ|tou|-|G3588|Art-GMS
 v18 κυρίου|kyriou|master's|G2962|N-GMS
 v18 αὐτοῦ|autou|his|G846|PPro-GM3S
 v19 Μετὰ|Meta|After|G3326|Prep
-v19 δὲ|de|vvv|G1161|Conj
+v19 δὲ|de|...|G1161|Conj
 v19 πολὺν|polyn|a long|G4183|Adj-AMS
 v19 χρόνον|chronon|time|G5550|N-AMS
 v19 ἔρχεται|erchetai|returned|G2064|V-PIM/P-3S
@@ -361,12 +361,12 @@ v24 εἶ|ei|you are|G1510|V-PIA-2S
 v24 ἄνθρωπος|anthrōpos|man|G444|N-NMS
 v24 θερίζων|therizōn|reaping|G2325|V-PPA-NMS
 v24 ὅπου|hopou|where|G3699|Adv
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 ἔσπειρας|espeiras|you have not sown|G4687|V-AIA-2S
 v24 καὶ|kai|and|G2532|Conj
 v24 συνάγων|synagōn|gathering|G4863|V-PPA-NMS
 v24 ὅθεν|hothen|where|G3606|Conj
-v24 οὐ|ou|vvv|G3756|Adv
+v24 οὐ|ou|...|G3756|Adv
 v24 διεσκόρπισας|dieskorpisas|you have not scattered seed|G1287|V-AIA-2S
 v25 καὶ|kai|So|G2532|Conj
 v25 φοβηθεὶς|phobētheis|I was afraid|G5399|V-APP-NMS
@@ -397,7 +397,7 @@ v26 ᾔδεις|ēdeis|You knew|G1492|V-LIA-2S
 v26 ὅτι|hoti|that|G3754|Conj
 v26 θερίζω|therizō|I reap|G2325|V-PIA-1S
 v26 ὅπου|hopou|where|G3699|Adv
-v26 οὐκ|ouk|vvv|G3756|Adv
+v26 οὐκ|ouk|...|G3756|Adv
 v26 ἔσπειρα|espeira|I have not sown|G4687|V-AIA-1S
 v26 καὶ|kai|and|G2532|Conj
 v26 συνάγω|synagō|gather|G4863|V-PIA-1S
@@ -415,9 +415,9 @@ v27 τοῖς|tois|with the|G3588|Art-DMP
 v27 τραπεζίταις|trapezitais|bankers|G5133|N-DMP
 v27 καὶ|kai|and|G2532|Conj
 v27 ἐλθὼν|elthōn|on my return|G2064|V-APA-NMS
-v27 ἐγὼ|egō|vvv|G1473|PPro-N1S
+v27 ἐγὼ|egō|...|G1473|PPro-N1S
 v27 ἐκομισάμην|ekomisamēn|I would have received|G2865|V-AIM-1S
-v27 ἂν|an|vvv|G302|Prtcl
+v27 ἂν|an|...|G302|Prtcl
 v27 τὸ|to|-|G3588|Art-ANS
 v27 ἐμὸν|emon|it {back}|G1699|PPro-AN1S
 v27 σὺν|syn|with|G4862|Prep
@@ -504,7 +504,7 @@ v32 ἔθνη|ethnē|nations|G1484|N-NNP
 v32 καὶ|kai|and|G2532|Conj
 v32 ἀφορίσει|aphorisei|He will separate|G873|V-FIA-3S
 v32 αὐτοὺς|autous|[the people]|G846|PPro-AM3P
-v32 ἀπ’|ap’|vvv|G575|Prep
+v32 ἀπ’|ap’|...|G575|Prep
 v32 ἀλλήλων|allēlōn|one from another|G240|RecPro-GMP
 v32 ὥσπερ|hōsper|as|G5618|Adv
 v32 ὁ|ho|-|G3588|Art-NMS
@@ -559,7 +559,7 @@ v35 φαγεῖν|phagein|[something] to eat|G5315|V-ANA
 v35 ἐδίψησα|edipsēsa|I was thirsty|G1372|V-AIA-1S
 v35 καὶ|kai|and|G2532|Conj
 v35 ἐποτίσατέ|epotisate|you gave Me [something] to drink|G4222|V-AIA-2P
-v35 με|me|vvv|G1473|PPro-A1S
+v35 με|me|...|G1473|PPro-A1S
 v35 ξένος|xenos|a stranger|G3581|Adj-NMS
 v35 ἤμην|ēmēn|I was|G1510|V-IIM-1S
 v35 καὶ|kai|and|G2532|Conj
@@ -621,7 +621,7 @@ v39 ἤλθομεν|ēlthomen|visit|G2064|V-AIA-1P
 v39 πρός|pros|...|G4314|Prep
 v39 σε|se|You|G4771|PPro-A2S
 v40 Καὶ|Kai|And|G2532|Conj
-v40 ἀποκριθεὶς|apokritheis|vvv|G611|V-APP-NMS
+v40 ἀποκριθεὶς|apokritheis|...|G611|V-APP-NMS
 v40 ὁ|ho|the|G3588|Art-NMS
 v40 Βασιλεὺς|Basileus|King|G935|N-NMS
 v40 ἐρεῖ|erei|will reply|G2046|V-FIA-3S
@@ -681,12 +681,12 @@ v42 με|me|...|G1473|PPro-A1S
 v43 ξένος|xenos|a stranger|G3581|Adj-NMS
 v43 ἤμην|ēmēn|I was|G1510|V-IIM-1S
 v43 καὶ|kai|and|G2532|Conj
-v43 οὐ|ou|vvv|G3756|Adv
+v43 οὐ|ou|...|G3756|Adv
 v43 συνηγάγετέ|synēgagete|you did not take Me in|G4863|V-AIA-2P
 v43 με|me|...|G1473|PPro-A1S
 v43 γυμνὸς|gymnos|[I was] naked|G1131|Adj-NMS
 v43 καὶ|kai|and|G2532|Conj
-v43 οὐ|ou|vvv|G3756|Adv
+v43 οὐ|ou|...|G3756|Adv
 v43 περιεβάλετέ|periebalete|you did not clothe|G4016|V-AIA-2P
 v43 με|me|Me|G1473|PPro-A1S
 v43 ἀσθενὴς|asthenēs|[I was] sick|G772|Adj-AMS
@@ -694,7 +694,7 @@ v43 καὶ|kai|and|G2532|Conj
 v43 ἐν|en|in|G1722|Prep
 v43 φυλακῇ|phylakē|prison|G5438|N-DFS
 v43 καὶ|kai|and|G2532|Conj
-v43 οὐκ|ouk|vvv|G3756|Adv
+v43 οὐκ|ouk|...|G3756|Adv
 v43 ἐπεσκέψασθέ|epeskepsasthe|you did not look after|G1980|V-AIM-2P
 v43 με|me|Me|G1473|PPro-A1S
 v44 Τότε|Tote|And|G5119|Adv
@@ -719,7 +719,7 @@ v44 ἢ|ē|or|G2228|Conj
 v44 ἐν|en|in|G1722|Prep
 v44 φυλακῇ|phylakē|prison|G5438|N-DFS
 v44 καὶ|kai|and|G2532|Conj
-v44 οὐ|ou|vvv|G3756|Adv
+v44 οὐ|ou|...|G3756|Adv
 v44 διηκονήσαμέν|diēkonēsamen|did not minister|G1247|V-AIA-1P
 v44 σοι|soi|to You|G4771|PPro-D2S
 v45 Τότε|Tote|Then|G5119|Adv
@@ -731,13 +731,13 @@ v45 λέγω|legō|I tell|G3004|V-PIA-1S
 v45 ὑμῖν|hymin|you|G4771|PPro-D2P
 v45 ἐφ’|eph’|whatever|G1909|Prep
 v45 ὅσον|hoson|...|G3745|RelPro-ANS
-v45 οὐκ|ouk|vvv|G3756|Adv
+v45 οὐκ|ouk|...|G3756|Adv
 v45 ἐποιήσατε|epoiēsate|you did not do|G4160|V-AIA-2P
 v45 ἑνὶ|heni|for one|G1520|Adj-DMS
 v45 τούτων|toutōn|of these|G3778|DPro-GMP
 v45 τῶν|tōn|of the|G3588|Art-GMP
 v45 ἐλαχίστων|elachistōn|least|G1646|Adj-GMP-S
-v45 οὐδὲ|oude|vvv|G3761|Adv
+v45 οὐδὲ|oude|...|G3761|Adv
 v45 ἐμοὶ|emoi|for Me|G1473|PPro-D1S
 v45 ἐποιήσατε|epoiēsate|you did not do|G4160|V-AIA-2P
 v46 Καὶ|Kai|And|G2532|Conj

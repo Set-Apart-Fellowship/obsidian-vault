@@ -1,5 +1,5 @@
 v1 לַמְנַצֵּ֥חַ|lam·naṣ·ṣê·aḥ|For the choirmaster|H5329|Prep-l, Art | V-Piel-Prtcpl-ms
-v1 אַל־|’al-|vvv|H516|Adv
+v1 אַל־|’al-|...|H516|Adv
 v1 תַּשְׁחֵ֑ת|taš·ḥêṯ|[To the tune of] “Do Not Destroy|H516|V-Hifil-Imperf.Jus-2ms
 v1 מִזְמ֖וֹר|miz·mō·wr|A Psalm|H4210|N-ms
 v1 לְאָסָ֣ף|lə·’ā·sāp̄|of Asaph|H623|Prep-l | N-proper-ms

@@ -5,7 +5,7 @@ v1 הַמֶּ֖לֶךְ|ham·me·leḵ|the king|H4428|Art | N-ms
 v1 בְּבֵית֑וֹ|bə·ḇê·ṯōw|into his palace|H1004|Prep-b | N-msc | 3ms
 v1 וַיהוָ֛ה|Yah·weh|and the LORD|H3068|Conj-w | N-proper-ms
 v1 הֵנִֽיחַ־|hê·nî·aḥ-|had given him rest|H5117|V-Hifil-Perf-3ms
-v1 ל֥וֹ|lōw|vvv|H0|Prep | 3ms
+v1 ל֥וֹ|lōw|...|H0|Prep | 3ms
 v1 מִסָּבִ֖יב|mis·sā·ḇîḇ|around him|H5439|Prep-m | Adv
 v1 מִכָּל־|mik·kāl|from all|H3605|Prep-m | N-msc
 v1 אֹיְבָֽיו׃|’ō·yə·ḇāw|his enemies|H341|V-Qal-Prtcpl-mpc | 3ms
@@ -36,7 +36,7 @@ v3 לֵ֣ךְ|lêḵ|Go|H1980|V-Qal-Imp-ms
 v3 עֲשֵׂ֑ה|‘ă·śêh|and do|H6213|V-Qal-Imp-ms
 v3 כִּ֥י|kî|for|H3588|Conj
 v3 יְהוָ֖ה|Yah·weh|the LORD|H3068|N-proper-ms
-v3 עִמָּֽךְ׃ס|‘im·māḵ|is with you|H5973|Prep | 2fs
+v3 עִמָּֽךְ׃|‘im·māḵ|is with you|H5973|Prep | 2fs
 v4 וַיְהִ֖י|way·hî|came|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v4 בַּלַּ֣יְלָה|bal·lay·lāh|night|H3915|Prep-b, Art | N-ms
 v4 הַה֑וּא|ha·hū|But that|H1931|Art | Pro-3ms
@@ -48,7 +48,7 @@ v4 נָתָ֖ן|nā·ṯān|Nathan|H5416|N-proper-ms
 v4 לֵאמֹֽר׃|lê·mōr|saying|H559|Prep-l | V-Qal-Inf
 v5 לֵ֤ךְ|lêḵ|Go|H1980|V-Qal-Imp-ms
 v5 וְאָֽמַרְתָּ֙|wə·’ā·mar·tā|and tell|H559|Conj-w | V-Qal-ConjPerf-2ms
-v5 אֶל־|’el-||H413|Prep
+v5 אֶל־|’el-|-|H413|Prep
 v5 עַבְדִּ֣י|‘aḇ·dî|My servant|H5650|N-msc | 1cs
 v5 אֶל־|’el-|...|H413|Prep
 v5 דָּוִ֔ד|dā·wiḏ|David|H1732|N-proper-ms
@@ -126,7 +126,7 @@ v8 עַל־|‘al-|...|H5921|Prep
 v8 יִשְׂרָאֵֽל׃|yiś·rā·’êl|Israel|H3478|N-proper-ms
 v9 וָאֶהְיֶ֣ה|wā·’eh·yeh|I have been|H1961|Conj-w | V-Qal-ConsecImperf-1cs
 v9 עִמְּךָ֗|‘im·mə·ḵā|with you|H5973|Prep | 2ms
-v9 בְּכֹל֙|bə·ḵōl|vvv|H3605|Prep-b | N-ms
+v9 בְּכֹל֙|bə·ḵōl|...|H3605|Prep-b | N-ms
 v9 אֲשֶׁ֣ר|’ă·šer|wherever|H834|Pro-r
 v9 הָלַ֔כְתָּ|hā·laḵ·tā|you have gone|H1980|V-Qal-Perf-2ms
 v9 וָאַכְרִ֥תָה|wā·’aḵ·ri·ṯāh|and I have cut off|H3772|Conj-w | V-Hifil-ConsecImperf-1cs | 3fs
@@ -253,7 +253,7 @@ v17 כֵּ֛ן|kên|So|H3651|Adv
 v17 דִּבֶּ֥ר|dib·ber|relayed|H1696|V-Piel-Perf-3ms
 v17 נָתָ֖ן|nā·ṯān|Nathan|H5416|N-proper-ms
 v17 אֶל־|’el-|to|H413|Prep
-v17 דָּוִֽד׃ס|dā·wiḏ|David|H1732|N-proper-ms
+v17 דָּוִֽד׃|dā·wiḏ|David|H1732|N-proper-ms
 v18 וַיָּבֹא֙|way·yā·ḇō|went in|H935|Conj-w | V-Qal-ConsecImperf-3ms
 v18 הַמֶּ֣לֶךְ|ham·me·leḵ|Then King|H4428|Art | N-ms
 v18 דָּוִ֔ד|dā·wiḏ|David|H1732|N-proper-ms
@@ -269,7 +269,7 @@ v18 וּמִ֣י|ū·mî|and what|H4310|Conj-w | Interrog
 v18 בֵיתִ֔י|ḇê·ṯî|is my house|H1004|N-msc | 1cs
 v18 כִּ֥י|kî|that|H3588|Conj
 v18 הֲבִיאֹתַ֖נִי|hă·ḇî·’ō·ṯa·nî|You have brought me|H935|V-Hifil-Perf-2ms | 1cs
-v18 עַד־|‘aḏ-|vvv|H5704|Prep
+v18 עַד־|‘aḏ-|...|H5704|Prep
 v18 הֲלֹֽם׃|hă·lōm|this far|H1988|Adv
 v19 וַתִּקְטַן֩|wat·tiq·ṭan|was a small thing|H6994|Conj-w | V-Qal-ConsecImperf-3fs
 v19 ע֨וֹד|‘ō·wḏ|And as if|H5750|Adv
@@ -305,7 +305,7 @@ v21 דְּבָֽרְךָ֙|də·ḇā·rə·ḵā|of Your word|H1697|N-msc | 2ms
 v21 וּֽכְלִבְּךָ֔|ū·ḵə·lib·bə·ḵā|and according to Your own heart|H3820|Conj-w, Prep-k | N-msc | 2ms
 v21 עָשִׂ֕יתָ|‘ā·śî·ṯā|You have accomplished|H6213|V-Qal-Perf-2ms
 v21 אֵ֥ת|’êṯ|-|H853|DirObjM
-v21 כָּל־|kāl-|vvv|H3605|N-msc
+v21 כָּל־|kāl-|...|H3605|N-msc
 v21 הַגְּדוּלָּ֖ה|hag·gə·ḏūl·lāh|great thing|H1420|Art | N-fs
 v21 הַזֹּ֑את|haz·zōṯ|this|H2063|Art | Pro-fs
 v21 לְהוֹדִ֖יעַ|lə·hō·w·ḏî·a‘|and revealed it|H3045|Prep-l | V-Hifil-Inf
@@ -367,7 +367,7 @@ v24 וְאַתָּ֣ה|wə·’at·tāh|and You|H859|Conj-w | Pro-2ms
 v24 יְהוָ֔ה|Yah·weh|O LORD|H3068|N-proper-ms
 v24 הָיִ֥יתָ|hā·yî·ṯā|have become|H1961|V-Qal-Perf-2ms
 v24 לָהֶ֖ם|lā·hem|their|H0|Prep | 3mp
-v24 לֵאלֹהִֽים׃ס|lê·lō·hîm|God|H430|Prep-l | N-mp
+v24 לֵאלֹהִֽים׃|lê·lō·hîm|God|H430|Prep-l | N-mp
 v25 וְעַתָּה֙|wə·‘at·tāh|And now|H6258|Conj-w | Adv
 v25 יְהוָ֣ה|Yah·weh|O LORD|H3068|N-proper-ms
 v25 אֱלֹהִ֔ים|’ĕ·lō·hîm|God|H430|N-mp
@@ -458,4 +458,4 @@ v29 וּמִבִּרְכָ֣תְךָ֔|ū·mib·bir·ḵā·ṯə·ḵā|and wit
 v29 יְבֹרַ֥ךְ|yə·ḇō·raḵ|will be blessed forever|H1288|V-Pual-Imperf-3ms
 v29 בֵּֽית־|bêṯ-|the house|H1004|N-msc
 v29 עַבְדְּךָ֖|‘aḇ·də·ḵā|of Your servant|H5650|N-msc | 2ms
-v29 לְעוֹלָֽם׃פ|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms
+v29 לְעוֹלָֽם׃|lə·‘ō·w·lām|...|H5769|Prep-l | N-ms

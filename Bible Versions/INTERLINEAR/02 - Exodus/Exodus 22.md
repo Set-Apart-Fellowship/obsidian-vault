@@ -23,7 +23,7 @@ v2 הַגַּנָּ֖ב|hag·gan·nāḇ|a thief|H1590|Art | N-ms
 v2 וְהֻכָּ֣ה|wə·huk·kāh|and is beaten|H5221|Conj-w | V-Hofal-ConjPerf-3ms
 v2 וָמֵ֑ת|wā·mêṯ|to death|H4191|Conj-w | V-Qal-ConjPerf-3ms
 v2 אֵ֥ין|’ên|no one|H369|Adv
-v2 ל֖וֹ|lōw|vvv|H0|Prep | 3ms
+v2 ל֖וֹ|lōw|...|H0|Prep | 3ms
 v2 דָּמִֽים׃|dā·mîm|shall be guilty of bloodshed|H1818|N-mp
 v3 אִם־|’im-|But if|H518|Conj
 v3 זָרְחָ֥ה|zā·rə·ḥāh|it happens after sunrise|H2224|V-Qal-Perf-3fs
@@ -35,7 +35,7 @@ v3 שַׁלֵּ֣ם|šal·lêm|A thief must make full restitution|H7999|V-Piel-I
 v3 יְשַׁלֵּ֔ם|yə·šal·lêm|...|H7999|V-Piel-Imperf-3ms
 v3 אִם־|’im-|if|H518|Conj
 v3 אֵ֣ין|’ên|he has nothing|H369|Adv
-v3 ל֔וֹ|lōw||H0|Prep | 3ms
+v3 ל֔וֹ|lōw|-|H0|Prep | 3ms
 v3 וְנִמְכַּ֖ר|wə·nim·kar|he himself shall be sold|H4376|Conj-w | V-Nifal-ConjPerf-3ms
 v3 בִּגְנֵבָתֽוֹ׃|biḡ·nê·ḇā·ṯōw|for his theft|H1591|Prep-b | N-fsc | 3ms
 v4 אִֽם־|’im-|If what was stolen|H518|Conj
@@ -50,7 +50,7 @@ v4 עַד־|‘aḏ-|or|H5704|Prep
 v4 שֶׂ֖ה|śeh|sheep|H7716|N-ms
 v4 חַיִּ֑ים|ḥay·yîm|alive|H2416|Adj-mp
 v4 שְׁנַ֖יִם|šə·na·yim|double|H8147|Number-md
-v4 יְשַׁלֵּֽם׃ס|yə·šal·lêm|he must pay back|H7999|V-Piel-Imperf-3ms
+v4 יְשַׁלֵּֽם׃|yə·šal·lêm|he must pay back|H7999|V-Piel-Imperf-3ms
 v5 כִּ֤י|kî|If|H3588|Conj
 v5 יַבְעֶר־|yaḇ·‘er-|grazes his livestock|H1197|V-Hifil-Imperf.Jus-3ms
 v5 אִישׁ֙|’îš|a man|H376|N-ms
@@ -67,7 +67,7 @@ v5 מֵיטַ֥ב|mê·ṭaḇ|from the best|H4315|N-msc
 v5 שָׂדֵ֛הוּ|śā·ḏê·hū|of his own field|H7704|N-msc | 3ms
 v5 וּמֵיטַ֥ב|ū·mê·ṭaḇ|...|H4315|Conj-w | N-msc
 v5 כַּרְמ֖וֹ|kar·mōw|or vineyard|H3754|N-msc | 3ms
-v5 יְשַׁלֵּֽם׃ס|yə·šal·lêm|he must make restitution|H7999|V-Piel-Imperf-3ms
+v5 יְשַׁלֵּֽם׃|yə·šal·lêm|he must make restitution|H7999|V-Piel-Imperf-3ms
 v6 כִּֽי־|kî-|If|H3588|Conj
 v6 תֵצֵ֨א|ṯê·ṣê|breaks out|H3318|V-Qal-Imperf-3fs
 v6 אֵ֜שׁ|’êš|a fire|H784|N-cs
@@ -83,7 +83,7 @@ v6 שַׁלֵּ֣ם|šal·lêm|must make full restitution|H7999|V-Piel-InfAbs
 v6 יְשַׁלֵּ֔ם|yə·šal·lêm|...|H7999|V-Piel-Imperf-3ms
 v6 הַמַּבְעִ֖ר|ham·maḇ·‘ir|the one who started|H1197|Art | V-Hifil-Prtcpl-ms
 v6 אֶת־|’eṯ-|-|H853|DirObjM
-v6 הַבְּעֵרָֽה׃ס|hab·bə·‘ê·rāh|the fire|H1200|Art | N-fs
+v6 הַבְּעֵרָֽה׃|hab·bə·‘ê·rāh|the fire|H1200|Art | N-fs
 v7 כִּֽי־|kî-|If|H3588|Conj
 v7 יִתֵּן֩|yit·tên|gives|H5414|V-Qal-Imperf-3ms
 v7 אִ֨ישׁ|’îš|a man|H376|N-ms
@@ -146,14 +146,14 @@ v9 יַרְשִׁיעֻן֙|yar·šî·‘un|find guilty|H7561|V-Hifil-Imperf-3m
 v9 אֱלֹהִ֔ים|’ĕ·lō·hîm|The one whom the judges|H430|N-mp
 v9 יְשַׁלֵּ֥ם|yə·šal·lêm|must pay back|H7999|V-Piel-Imperf-3ms
 v9 שְׁנַ֖יִם|šə·na·yim|double|H8147|Number-md
-v9 לְרֵעֵֽהוּ׃ס|lə·rê·‘ê·hū|to his neighbor|H7453|Prep-l | N-msc | 3ms
+v9 לְרֵעֵֽהוּ׃|lə·rê·‘ê·hū|to his neighbor|H7453|Prep-l | N-msc | 3ms
 v10 כִּֽי־|kî-|If|H3588|Conj
 v10 יִתֵּן֩|yit·tên|gives|H5414|V-Qal-Imperf-3ms
 v10 אִ֨ישׁ|’îš|a man|H376|N-ms
 v10 אֶל־|’el-|...|H413|Prep
 v10 רֵעֵ֜הוּ|rê·‘ê·hū|by his neighbor|H7453|N-msc | 3ms
 v10 חֲמ֨וֹר|ḥă·mō·wr|a donkey|H2543|N-ms
-v10 אוֹ־|’ōw-||H176|Conj
+v10 אוֹ־|’ōw-|-|H176|Conj
 v10 שׁ֥וֹר|šō·wr|an ox|H7794|N-ms
 v10 אוֹ־|’ōw-|-|H176|Conj
 v10 שֶׂ֛ה|śeh|a sheep|H7716|N-ms
@@ -195,7 +195,7 @@ v13 יְבִאֵ֣הוּ|yə·ḇi·’ê·hū|he shall bring|H935|V-Hifil-Imper
 v13 עֵ֑ד|‘êḏ|it as evidence|H5707|N-msc
 v13 הַטְּרֵפָ֖ה|haṭ·ṭə·rê·p̄āh|for the torn carcass|H2966|Art | N-fs
 v13 לֹ֥א|lō|he need not|H3808|Adv-NegPrt
-v13 יְשַׁלֵּֽם׃פ|yə·šal·lêm|make restitution|H7999|V-Piel-Imperf-3ms
+v13 יְשַׁלֵּֽם׃|yə·šal·lêm|make restitution|H7999|V-Piel-Imperf-3ms
 v14 וְכִֽי־|wə·ḵî-|If|H3588|Conj
 v14 יִשְׁאַ֥ל|yiš·’al|borrows|H7592|V-Qal-Imperf-3ms
 v14 אִ֛ישׁ|’îš|a man|H376|N-ms
@@ -218,7 +218,7 @@ v15 אִם־|’im-|If|H518|Conj
 v15 שָׂכִ֣יר|śā·ḵîr|was rented|H7916|Adj-ms
 v15 ה֔וּא|hū|[the animal]|H1931|Pro-3ms
 v15 בָּ֖א|bā|...|H935|V-Qal-Perf-3ms
-v15 בִּשְׂכָרֽוֹ׃ס|biś·ḵā·rōw|the fee covers the loss|H7939|Prep-b | N-msc | 3ms
+v15 בִּשְׂכָרֽוֹ׃|biś·ḵā·rōw|the fee covers the loss|H7939|Prep-b | N-msc | 3ms
 v16 וְכִֽי־|wə·ḵî-|If|H3588|Conj
 v16 יְפַתֶּ֣ה|yə·p̄at·teh|seduces|H6601|V-Piel-Imperf-3ms
 v16 אִ֗ישׁ|’îš|a man|H376|N-ms
@@ -241,16 +241,16 @@ v17 ל֑וֹ|lōw|to him|H0|Prep | 3ms
 v17 כֶּ֣סֶף|ke·sep̄|an amount comparable|H3701|N-ms
 v17 יִשְׁקֹ֔ל|yiš·qōl|[the man] still must pay|H8254|V-Qal-Imperf-3ms
 v17 כְּמֹ֖הַר|kə·mō·har|to the bridal price|H4119|Prep-k | N-msc
-v17 הַבְּתוּלֹֽת׃ס|hab·bə·ṯū·lōṯ|of a virgin|H1330|Art | N-fp
+v17 הַבְּתוּלֹֽת׃|hab·bə·ṯū·lōṯ|of a virgin|H1330|Art | N-fp
 v18 מְכַשֵּׁפָ֖ה|mə·ḵaš·šê·p̄āh|allow a sorceress|H3784|V-Piel-Prtcpl-fs
 v18 לֹ֥א|lō|You must not|H3808|Adv-NegPrt
-v18 תְחַיֶּֽה׃ס|ṯə·ḥay·yeh|to live|H2421|V-Piel-Imperf-2ms
+v18 תְחַיֶּֽה׃|ṯə·ḥay·yeh|to live|H2421|V-Piel-Imperf-2ms
 v19 כָּל־|kāl-|Whoever|H3605|N-msc
 v19 שֹׁכֵ֥ב|šō·ḵêḇ|lies|H7901|V-Qal-Prtcpl-ms
 v19 עִם־|‘im-|with|H5973|Prep
 v19 בְּהֵמָ֖ה|bə·hê·māh|an animal|H929|N-fs
 v19 מ֥וֹת|mō·wṯ|must surely be put to death|H4191|V-Qal-InfAbs
-v19 יוּמָֽת׃ס|yū·māṯ|...|H4191|V-Hofal-Imperf-3ms
+v19 יוּמָֽת׃|yū·māṯ|...|H4191|V-Hofal-Imperf-3ms
 v20 זֹבֵ֥חַ|zō·ḇê·aḥ|[If] anyone sacrifices|H2076|V-Qal-Prtcpl-ms
 v20 לָאֱלֹהִ֖ים|lā·’ĕ·lō·hîm|to any god|H430|Prep-l, Art | N-mp
 v20 יָֽחֳרָ֑ם|yā·ḥo·rām|he must be set apart for destruction|H2763|V-Hofal-Imperf-3ms
@@ -293,7 +293,7 @@ v24 וְהָי֤וּ|wə·hā·yū|will become|H1961|Conj-w | V-Qal-ConjPerf-3cp
 v24 נְשֵׁיכֶם֙|nə·šê·ḵem|then your wives|H802|N-fpc | 2mp
 v24 אַלְמָנ֔וֹת|’al·mā·nō·wṯ|widows|H490|N-fp
 v24 וּבְנֵיכֶ֖ם|ū·ḇə·nê·ḵem|and your children|H1121|Conj-w | N-mpc | 2mp
-v24 יְתֹמִֽים׃פ|yə·ṯō·mîm|[will be] fatherless|H3490|N-mp
+v24 יְתֹמִֽים׃|yə·ṯō·mîm|[will be] fatherless|H3490|N-mp
 v25 אִם־|’im-|If|H518|Conj
 v25 כֶּ֣סֶף׀|ke·sep̄|money|H3701|N-ms
 v25 תַּלְוֶ֣ה|tal·weh|you lend|H3867|V-Hifil-Imperf-2ms
@@ -336,7 +336,7 @@ v27 אֵלַ֔י|’ê·lay|to Me|H413|Prep | 1cs
 v27 וְשָׁמַעְתִּ֖י|wə·šā·ma‘·tî|I will hear|H8085|Conj-w | V-Qal-ConjPerf-1cs
 v27 כִּֽי־|kî-|for|H3588|Conj
 v27 חַנּ֥וּן|ḥan·nūn|am compassionate|H2587|Adj-ms
-v27 אָֽנִי׃ס|’ā·nî|I|H589|Pro-1cs
+v27 אָֽנִי׃|’ā·nî|I|H589|Pro-1cs
 v28 אֱלֹהִ֖ים|’ĕ·lō·hîm|God|H430|N-mp
 v28 לֹ֣א|lō|You must not|H3808|Adv-NegPrt
 v28 תְקַלֵּ֑ל|ṯə·qal·lêl|blaspheme|H7043|V-Piel-Imperf-2ms
@@ -376,4 +376,4 @@ v31 לֹ֣א|lō|You must not|H3808|Adv-NegPrt
 v31 תֹאכֵ֔לוּ|ṯō·ḵê·lū|eat|H398|V-Qal-Imperf-2mp
 v31 לַכֶּ֖לֶב|lak·ke·leḇ|to the dogs|H3611|Prep-l, Art | N-ms
 v31 תַּשְׁלִכ֥וּן|taš·li·ḵūn|you are to throw|H7993|V-Hifil-Imperf-2mp | Pn
-v31 אֹתֽוֹ׃ס|’ō·ṯōw|it|H853|DirObjM | 3ms
+v31 אֹתֽוֹ׃|’ō·ṯōw|it|H853|DirObjM | 3ms

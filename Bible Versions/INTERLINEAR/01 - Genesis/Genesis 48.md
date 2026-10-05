@@ -63,7 +63,7 @@ v5 שְׁנֵֽי־|šə·nê-|your two|H8147|Number-mdc
 v5 בָנֶיךָ֩|ḇā·ne·ḵā|sons|H1121|N-mpc | 2ms
 v5 הַנּוֹלָדִ֨ים|han·nō·w·lā·ḏîm|born|H3205|Art | V-Nifal-Prtcpl-mp
 v5 לְךָ֜|lə·ḵā|to you|H0|Prep | 2ms
-v5 בְּאֶ֣רֶץ|bə·’e·reṣ|vvv|H776|Prep-b | N-fsc
+v5 בְּאֶ֣רֶץ|bə·’e·reṣ|...|H776|Prep-b | N-fsc
 v5 מִצְרַ֗יִם|miṣ·ra·yim|in Egypt|H4714|N-proper-fs
 v5 עַד־|‘aḏ-|before|H5704|Prep
 v5 בֹּאִ֥י|bō·’î|I came|H935|V-Qal-Inf | 1cs
@@ -234,7 +234,7 @@ v16 יְבָרֵךְ֮|yə·ḇā·rêḵ|may He bless|H1288|V-Piel-Imperf-3ms
 v16 אֶת־|’eṯ-|-|H853|DirObjM
 v16 הַנְּעָרִים֒|han·nə·‘ā·rîm|these boys|H5288|Art | N-mp
 v16 וְיִקָּרֵ֤א|wə·yiq·qā·rê|And may they be called|H7121|Conj-w | V-Nifal-ConjImperf-3ms
-v16 בָהֶם֙|ḇā·hem||H0|Prep | 3mp
+v16 בָהֶם֙|ḇā·hem|-|H0|Prep | 3mp
 v16 שְׁמִ֔י|šə·mî|by my name|H8034|N-msc | 1cs
 v16 וְשֵׁ֥ם|wə·šêm|and the names|H8034|Conj-w | N-msc
 v16 אֲבֹתַ֖י|’ă·ḇō·ṯay|of my fathers|H1|N-mpc | 1cs
@@ -347,4 +347,4 @@ v22 לָקַ֙חְתִּי֙|lā·qaḥ·tî|I took|H3947|V-Qal-Perf-1cs
 v22 מִיַּ֣ד|mî·yaḏ|from|H3027|Prep-m | N-fsc
 v22 הָֽאֱמֹרִ֔י|hā·’ĕ·mō·rî|the Amorites|H567|Art | N-proper-ms
 v22 בְּחַרְבִּ֖י|bə·ḥar·bî|with my sword|H2719|Prep-b | N-fsc | 1cs
-v22 וּבְקַשְׁתִּֽי׃פ|ū·ḇə·qaš·tî|and bow|H7198|Conj-w, Prep-b | N-fsc | 1cs
+v22 וּבְקַשְׁתִּֽי׃|ū·ḇə·qaš·tî|and bow|H7198|Conj-w, Prep-b | N-fsc | 1cs

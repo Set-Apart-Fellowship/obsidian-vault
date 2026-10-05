@@ -27,7 +27,7 @@ v2 θυσίαν|thysian|sacrificial|G2378|N-AFS
 v2 τῷ|tō|-|G3588|Art-DMS
 v2 Θεῷ|Theō|to God|G2316|N-DMS
 v2 εἰς|eis|as|G1519|Prep
-v2 ὀσμὴν|osmēn|vvv|G3744|N-AFS
+v2 ὀσμὴν|osmēn|...|G3744|N-AFS
 v2 εὐωδίας|euōdias|a fragrant|G2175|N-GFS
 v3 Πορνεία|Porneia|of sexual immorality|G4202|N-NFS
 v3 δὲ|de|But|G1161|Conj
@@ -36,7 +36,7 @@ v3 ἀκαθαρσία|akatharsia|of impurity|G167|N-NFS
 v3 πᾶσα|pasa|of any kind|G3956|Adj-NFS
 v3 ἢ|ē|or|G2228|Conj
 v3 πλεονεξία|pleonexia|of greed|G4124|N-NFS
-v3 μηδὲ|mēde|vvv|G3366|Conj
+v3 μηδὲ|mēde|...|G3366|Conj
 v3 ὀνομαζέσθω|onomazesthō|there must not be even a hint|G3687|V-PMM/P-3S
 v3 ἐν|en|among|G1722|Prep
 v3 ὑμῖν|hymin|you|G4771|PPro-D2P
@@ -50,14 +50,14 @@ v4 μωρολογία|mōrologia|foolish talk|G3473|N-NFS
 v4 ἢ|ē|or|G2228|Conj
 v4 εὐτραπελία|eutrapelia|crude joking|G2160|N-NFS
 v4 ἃ|ha|which|G3739|RelPro-NNP
-v4 οὐκ|ouk|vvv|G3756|Adv
+v4 οὐκ|ouk|...|G3756|Adv
 v4 ἀνῆκεν|anēken|are out of character|G433|V-IIA-3S
 v4 ἀλλὰ|alla|but|G235|Conj
 v4 μᾶλλον|mallon|rather|G3123|Adv
 v4 εὐχαριστία|eucharistia|thanksgiving|G2169|N-NFS
 v5 τοῦτο|touto|of this|G3778|DPro-ANS
 v5 γὰρ|gar|For|G1063|Conj
-v5 ἴστε|iste|vvv|G1492|V-RMA-2P
+v5 ἴστε|iste|...|G1492|V-RMA-2P
 v5 γινώσκοντες|ginōskontes|you can be sure|G1097|V-PPA-NMP
 v5 ὅτι|hoti|-|G3754|Conj
 v5 πᾶς|pas|[No]|G3956|Adj-NMS
@@ -129,12 +129,12 @@ v9 καὶ|kai|and|G2532|Conj
 v9 ἀληθείᾳ|alētheia|truth|G225|N-DFS
 v10 δοκιμάζοντες|dokimazontes|Test and prove|G1381|V-PPA-NMP
 v10 τί|ti|what|G5101|IPro-NNS
-v10 ἐστιν|estin|vvv|G1510|V-PIA-3S
+v10 ἐστιν|estin|...|G1510|V-PIA-3S
 v10 εὐάρεστον|euareston|pleases|G2101|Adj-NNS
 v10 τῷ|tō|the|G3588|Art-DMS
 v10 Κυρίῳ|Kyriō|Lord|G2962|N-DMS
 v11 Καὶ|Kai|-|G2532|Conj
-v11 μὴ|mē|vvv|G3361|Adv
+v11 μὴ|mē|...|G3361|Adv
 v11 συνκοινωνεῖτε|synkoinōneite|Have no fellowship with|G4790|V-PMA-2P
 v11 τοῖς|tois|the|G3588|Art-DNP
 v11 ἔργοις|ergois|deeds|G2041|N-DNP
@@ -339,7 +339,7 @@ v27 ἑαυτῷ|heautō|to Himself|G1438|RefPro-DM3S
 v27 ἔνδοξον|endoxon|as a glorious|G1741|Adj-AFS
 v27 τὴν|tēn|-|G3588|Art-AFS
 v27 ἐκκλησίαν|ekklēsian|church|G1577|N-AFS
-v27 μὴ|mē|vvv|G3361|Adv
+v27 μὴ|mē|...|G3361|Adv
 v27 ἔχουσαν|echousan|without|G2192|V-PPA-AFS
 v27 σπίλον|spilon|stain|G4696|N-AMS
 v27 ἢ|ē|or|G2228|Conj

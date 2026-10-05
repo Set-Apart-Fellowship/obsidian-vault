@@ -59,7 +59,7 @@ v4 אָב֔וֹת|’ā·ḇō·wṯ|their fathers|H1|N-mp
 v4 כִּ֛י|kî|-|H3588|Conj
 v4 אִ֥ישׁ|’îš|each|H376|N-ms
 v4 בְּחֶטְא֖וֹ|bə·ḥeṭ·’ōw|for his own sin|H2399|Prep-b | N-msc | 3ms
-v4 יָמֽוּתוּ׃פ|yā·mū·ṯū|is to die|H4191|V-Qal-Imperf-3mp
+v4 יָמֽוּתוּ׃|yā·mū·ṯū|is to die|H4191|V-Qal-Imperf-3mp
 v5 וַיִּקְבֹּ֤ץ|way·yiq·bōṣ|gathered|H6908|Conj-w | V-Qal-ConsecImperf-3ms
 v5 אֲמַצְיָ֙הוּ֙|’ă·maṣ·yā·hū|Then Amaziah|H558|N-proper-ms
 v5 אֶת־|’eṯ-|-|H853|DirObjM
@@ -80,7 +80,7 @@ v5 עֶשְׂרִ֤ים|‘eś·rîm|those twenty|H6242|Number-cp
 v5 שָׁנָה֙|šā·nāh|...|H8141|N-fs
 v5 וָמַ֔עְלָה|wā·ma‘·lāh|or older|H4605|Conj-w | Adv | 3fs
 v5 וַיִּמְצָאֵ֗ם|way·yim·ṣā·’êm|and found|H4672|Conj-w | V-Qal-ConsecImperf-3ms | 3mp
-v5 שְׁלֹשׁ־|šə·lōš-|300,000 {}|H7969|Number-fsc
+v5 שְׁלֹשׁ־|šə·lōš-|300,000|H7969|Number-fsc
 v5 מֵא֨וֹת|mê·’ō·wṯ|...|H3967|Number-fp
 v5 אֶ֤לֶף|’e·lep̄|...|H505|Number-ms
 v5 בָּחוּר֙|bā·ḥūr|chosen [men]|H977|V-Qal-QalPassPrtcpl-ms
@@ -95,7 +95,7 @@ v6 מֵ֥אָה|mê·’āh|for a hundred|H3967|Number-fs
 v6 אֶ֛לֶף|’e·lep̄|...|H505|Number-ms
 v6 גִּבּ֥וֹר|gib·bō·wr|mighty men|H1368|Adj-msc
 v6 חָ֖יִל|ḥā·yil|of valor|H2428|N-ms
-v6 בְּמֵאָ֥ה|bə·mê·’āh|100,000 {}|H3967|Prep-b | Number-fs
+v6 בְּמֵאָ֥ה|bə·mê·’āh|100,000|H3967|Prep-b | Number-fs
 v6 כִכַּר־|ḵik·kar-|talents|H3603|N-fsc
 v6 כָּֽסֶף׃|kā·sep̄|of silver|H3701|N-ms
 v7 וְאִ֣ישׁ|wə·’îš|But a man|H376|Conj-w | N-msc
@@ -171,7 +171,7 @@ v10 בִּֽיהוּדָ֔ה|bî·hū·ḏāh|with Judah|H3063|Prep-b | N-proper
 v10 וַיָּשׁ֥וּבוּ|way·yā·šū·ḇū|and returned|H7725|Conj-w | V-Qal-ConsecImperf-3mp
 v10 לִמְקוֹמָ֖ם|lim·qō·w·mām|home|H4725|Prep-l | N-msc | 3mp
 v10 בָּחֳרִי־|bā·ḥo·rî-|in great|H2750|Prep-b | N-msc
-v10 אָֽף׃פ|’āp̄|anger|H639|N-ms
+v10 אָֽף׃|’āp̄|anger|H639|N-ms
 v11 וַאֲמַצְיָ֙הוּ֙|wa·’ă·maṣ·yā·hū|Amaziah, however|H558|Conj-w | N-proper-ms
 v11 הִתְחַזַּ֔ק|hiṯ·ḥaz·zaq|summoned his strength|H2388|V-Hitpael-Perf-3ms
 v11 וַיִּנְהַג֙|way·yin·haḡ|and led|H5090|Conj-w | V-Qal-ConsecImperf-3ms
@@ -184,7 +184,7 @@ v11 וַיַּ֥ךְ|way·yaḵ|where he struck down|H5221|Conj-w | V-Hifil-Cons
 v11 אֶת־|’eṯ-|-|H853|Prep
 v11 בְּנֵי־|bə·nê-|men|H1121|N-mpc
 v11 שֵׂעִ֖יר|śê·‘îr|of Seir|H8165|N-proper-fs
-v11 עֲשֶׂ֥רֶת|‘ă·śe·reṯ|10,000 {}|H6235|Number-msc
+v11 עֲשֶׂ֥רֶת|‘ă·śe·reṯ|10,000|H6235|Number-msc
 v11 אֲלָפִֽים׃|’ă·lā·p̄îm|...|H505|Number-mp
 v12 וַעֲשֶׂ֨רֶת|wa·‘ă·śe·reṯ|10,000 [men]|H6235|Conj-w | Number-msc
 v12 אֲלָפִ֜ים|’ă·lā·p̄îm|...|H505|Number-mp
@@ -199,21 +199,21 @@ v12 וַיַּשְׁלִיכ֛וּם|way·yaš·lî·ḵūm|and threw them down|
 v12 מֵֽרֹאשׁ־|mê·rōš-|...|H7218|Prep-m | N-msc
 v12 הַסֶּ֖לַע|has·se·la‘|...|H5553|Art | N-ms
 v12 וְכֻלָּ֥ם|wə·ḵul·lām|so that all|H3605|Conj-w | N-msc | 3mp
-v12 נִבְקָֽעוּ׃ס|niḇ·qā·‘ū|were dashed to pieces|H1234|V-Nifal-Perf-3cp
+v12 נִבְקָֽעוּ׃|niḇ·qā·‘ū|were dashed to pieces|H1234|V-Nifal-Perf-3cp
 v13 וּבְנֵ֣י|ū·ḇə·nê|Meanwhile|H1121|Conj-w | N-mpc
 v13 הַגְּד֗וּד|hag·gə·ḏūḏ|the troops|H1416|Art | N-ms
 v13 אֲשֶׁ֨ר|’ă·šer|that|H834|Pro-r
 v13 הֵשִׁ֤יב|hê·šîḇ|had dismissed|H7725|V-Hifil-Perf-3ms
 v13 אֲמַצְיָ֙הוּ֙|’ă·maṣ·yā·hū|Amaziah|H558|N-proper-ms
-v13 מִלֶּ֤כֶת|mil·le·ḵeṯ|vvv|H1980|Prep-m | V-Qal-Inf
-v13 עִמּוֹ֙|‘im·mōw|vvv|H5973|Prep | 3ms
+v13 מִלֶּ֤כֶת|mil·le·ḵeṯ|...|H1980|Prep-m | V-Qal-Inf
+v13 עִמּוֹ֙|‘im·mōw|...|H5973|Prep | 3ms
 v13 לַמִּלְחָמָ֔ה|lam·mil·ḥā·māh|from battle|H4421|Prep-l, Art | N-fs
 v13 וַֽיִּפְשְׁטוּ֙|way·yip̄·šə·ṭū|raided|H6584|Conj-w | V-Qal-ConsecImperf-3mp
 v13 בְּעָרֵ֣י|bə·‘ā·rê|the cities|H5892|Prep-b | N-fpc
 v13 יְהוּדָ֔ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v13 מִשֹּׁמְר֖וֹן|miš·šō·mə·rō·wn|from Samaria|H8111|Prep-m | N-proper-fs
 v13 וְעַד־|wə·‘aḏ-|to|H5704|Conj-w | Prep
-v13 בֵּ֣ית|bêṯ|vvv|H1032|Prep
+v13 בֵּ֣ית|bêṯ|...|H1032|Prep
 v13 חוֹר֑וֹן|ḥō·w·rō·wn|Beth-horon|H1032|N-proper-fs
 v13 וַיַּכּ֤וּ|way·yak·kū|They struck down|H5221|Conj-w | V-Hifil-ConsecImperf-3mp
 v13 מֵהֶם֙|mê·hem|...|H0|Prep | 3mp
@@ -221,7 +221,7 @@ v13 שְׁלֹ֣שֶׁת|šə·lō·šeṯ|3,000 [people]|H7969|Number-msc
 v13 אֲלָפִ֔ים|’ă·lā·p̄îm|...|H505|Number-mp
 v13 וַיָּבֹ֖זּוּ|way·yā·ḇōz·zū|and carried off|H962|Conj-w | V-Qal-ConsecImperf-3mp
 v13 בִּזָּ֥ה|biz·zāh|plunder|H961|N-fs
-v13 רַבָּֽה׃ס|rab·bāh|a great deal of|H7227|Adj-fs
+v13 רַבָּֽה׃|rab·bāh|a great deal of|H7227|Adj-fs
 v14 וַיְהִ֗י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v14 אַחֲרֵ֨י|’a·ḥă·rê|When|H310|Prep
 v14 ב֤וֹא|ḇō·w|returned|H935|V-Qal-Inf
@@ -249,7 +249,7 @@ v15 וַיִּשְׁלַ֤ח|way·yiš·laḥ|and He sent|H7971|Conj-w | V-Qal-C
 v15 אֵלָיו֙|’ê·lāw|him|H413|Prep | 3ms
 v15 נָבִ֔יא|nā·ḇî|a prophet|H5030|N-ms
 v15 וַיֹּ֣אמֶר|way·yō·mer|who said|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v15 ל֗וֹ|lōw||H0|Prep | 3ms
+v15 ל֗וֹ|lōw|-|H0|Prep | 3ms
 v15 לָ֤מָּה|lām·māh|Why|H4100|Interrog
 v15 דָרַ֙שְׁתָּ֙|ḏā·raš·tā|have you sought|H1875|V-Qal-Perf-2ms
 v15 אֶת־|’eṯ-|-|H853|DirObjM
@@ -265,12 +265,12 @@ v16 וַיְהִ֣י׀|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v16 בְּדַבְּר֣וֹ|bə·ḏab·bə·rōw|While he was still speaking|H1696|Prep-b | V-Piel-Inf | 3ms
 v16 אֵלָ֗יו|’ê·lāw|-|H413|Prep | 3ms
 v16 וַיֹּ֤אמֶר|way·yō·mer|the king asked|H559|Conj-w | V-Qal-ConsecImperf-3ms
-v16 לוֹ֙|lōw||H0|Prep | 3ms
+v16 לוֹ֙|lōw|-|H0|Prep | 3ms
 v16 הַלְיוֹעֵ֤ץ|hal·yō·w·‘êṣ|the counselor|H3289|Prep-l | V-Qal-Prtcpl-ms
 v16 לַמֶּ֙לֶךְ֙|lam·me·leḵ|to the king|H4428|Prep-l, Art | N-ms
 v16 נְתַנּ֔וּךָ|nə·ṯan·nū·ḵā|Have we made you|H5414|V-Qal-Perf-1cp | 2ms
 v16 חֲדַל־|ḥă·ḏal-|Stop|H2308|V-Qal-Imp-ms
-v16 לְךָ֖|lə·ḵā||H0|Prep | 2ms
+v16 לְךָ֖|lə·ḵā|-|H0|Prep | 2ms
 v16 לָ֣מָּה|lām·māh|Why|H4100|Interrog
 v16 יַכּ֑וּךָ|yak·kū·ḵā|be struck down|H5221|V-Hifil-Imperf-3mp | 2ms
 v16 וַיֶּחְדַּ֣ל|way·yeḥ·dal|stopped|H2308|Conj-w | V-Qal-ConsecImperf-3ms
@@ -286,7 +286,7 @@ v16 עָשִׂ֣יתָ|‘ā·śî·ṯā|you have done|H6213|V-Qal-Perf-2ms
 v16 זֹּ֔את|zōṯ|this|H2063|Pro-fs
 v16 וְלֹ֥א|wə·lō|and have not|H3808|Conj-w | Adv-NegPrt
 v16 שָׁמַ֖עְתָּ|šā·ma‘·tā|heeded|H8085|V-Qal-Perf-2ms
-v16 לַעֲצָתִֽי׃פ|la·‘ă·ṣā·ṯî|my advice|H6098|Prep-l | N-fsc | 1cs
+v16 לַעֲצָתִֽי׃|la·‘ă·ṣā·ṯî|my advice|H6098|Prep-l | N-fsc | 1cs
 v17 וַיִּוָּעַ֗ץ|way·yiw·wā·‘aṣ|took counsel|H3289|Conj-w | V-Nifal-ConsecImperf-3ms
 v17 אֲמַצְיָ֙הוּ֙|’ă·maṣ·yā·hū|Then Amaziah|H558|N-proper-ms
 v17 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
@@ -377,7 +377,7 @@ v21 ה֖וּא|hū|and he|H1931|Pro-3ms
 v21 וַאֲמַצְיָ֣הוּ|wa·’ă·maṣ·yā·hū|and Amaziah|H558|Conj-w | N-proper-ms
 v21 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v21 יְהוּדָ֑ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
-v21 בְּבֵ֥ית|bə·ḇêṯ|vvv|H1053|Prep
+v21 בְּבֵ֥ית|bə·ḇêṯ|...|H1053|Prep
 v21 שֶׁ֖מֶשׁ|še·meš|at Beth-shemesh|H1053|Prep | N-proper-fs
 v21 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
 v21 לִיהוּדָֽה׃|lî·hū·ḏāh|in Judah|H3063|Prep-l | N-proper-ms
@@ -400,7 +400,7 @@ v23 תָּפַ֛שׂ|tā·p̄aś|captured|H8610|V-Qal-Perf-3ms
 v23 יוֹאָ֥שׁ|yō·w·’āš|of Joash|H3101|N-proper-ms
 v23 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v23 יִשְׂרָאֵ֖ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
-v23 בְּבֵ֣ית|bə·ḇêṯ|vvv|H1053|Prep
+v23 בְּבֵ֣ית|bə·ḇêṯ|...|H1053|Prep
 v23 שָׁ֑מֶשׁ|šā·meš|There at Beth-shemesh|H1053|Prep | N-proper-fs
 v23 וַיְבִיאֵ֙הוּ֙|way·ḇî·’ê·hū|Then Jehoash brought him|H935|Conj-w | V-Hifil-ConsecImperf-3ms | 3ms
 v23 יְר֣וּשָׁלִַ֔ם|yə·rū·šā·lim|to Jerusalem|H3389|N-proper-fs
@@ -425,7 +425,7 @@ v24 הַנִּמְצְאִ֨ים|han·nim·ṣə·’îm|found|H4672|Art | V-Nif
 v24 בְּבֵית־|bə·ḇêṯ-|in the house|H1004|Prep-b | N-msc
 v24 הָאֱלֹהִ֜ים|hā·’ĕ·lō·hîm|of God|H430|Art | N-mp
 v24 עִם־|‘im-|with|H5973|Prep
-v24 עֹבֵ֣ד|‘ō·ḇêḏ|vvv|H5654|
+v24 עֹבֵ֣ד|‘ō·ḇêḏ|...|H5654|
 v24 אֱד֗וֹם|’ĕ·ḏō·wm|Obed-edom|H5654|N-proper-ms
 v24 וְאֶת־|wə·’eṯ-|and|H853|Conj-w | DirObjM
 v24 אֹצְרוֹת֙|’ō·ṣə·rō·wṯ|in the treasuries|H214|N-mpc
@@ -435,7 +435,7 @@ v24 וְאֵ֖ת|wə·’êṯ|as well as|H853|Conj-w | DirObjM
 v24 בְּנֵ֣י|bə·nê|some hostages|H1121|N-mpc
 v24 הַתַּֽעֲרֻב֑וֹת|hat·ta·‘ă·ru·ḇō·wṯ|...|H8594|Art | N-fp
 v24 וַיָּ֖שָׁב|way·yā·šāḇ|Then he returned|H7725|Conj-w | V-Qal-ConsecImperf-3ms
-v24 שֹׁמְרֽוֹן׃פ|šō·mə·rō·wn|to Samaria|H8111|N-proper-fs
+v24 שֹׁמְרֽוֹן׃|šō·mə·rō·wn|to Samaria|H8111|N-proper-fs
 v25 וַיְחִ֨י|way·ḥî|lived|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v25 אֲמַצְיָ֤הוּ|’ă·maṣ·yā·hū|Amaziah|H558|N-proper-ms
 v25 בֶן־|ḇen-|son|H1121|N-msc

@@ -44,7 +44,7 @@ v3 חֲזָאֵ֣ל|ḥă·zā·’êl|of Hazael|H2371|N-proper-ms
 v3 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v3 אֲרָ֗ם|’ă·rām|of Aram|H758|N-proper-fs
 v3 וּבְיַ֛ד|ū·ḇə·yaḏ|...|H3027|Conj-w, Prep-b | N-fsc
-v3 בֶּן־|ben-||H1130|Prep
+v3 בֶּן־|ben-|-|H1130|Prep
 v3 הֲדַ֥ד|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v3 בֶּן־|ben-|son|H1121|N-msc
 v3 חֲזָאֵ֖ל|ḥă·zā·’êl|and his|H2371|N-proper-ms
@@ -92,13 +92,13 @@ v6 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v6 הֶחֱטִי|hɛ·ḥɛ̆·ṭī|to commit|H2398|V-Hifil-Perf-3ms
 v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 יִשְׂרָאֵ֖ל|yiś·rā·’êl|had caused Israel|H3478|N-proper-ms
-v6 בָּ֣הּ|bāh||H0|Prep | 3fs
+v6 בָּ֣הּ|bāh|-|H0|Prep | 3fs
 v6 הָלָ֑ךְ|hā·lāḵ|[but] they continued to walk in them|H1980|V-Qal-Perf-3ms
 v6 וְגַם֙|wə·ḡam|even|H1571|Conj
 v6 הָאֲשֵׁרָ֔ה|hā·’ă·šê·rāh|The Asherah [pole]|H842|Art | N-fs
 v6 עָמְדָ֖ה|‘ā·mə·ḏāh|remained standing|H5975|V-Qal-Perf-3fs
 v6 בְּשֹׁמְרֽוֹן׃|bə·šō·mə·rō·wn|in Samaria|H8111|Prep-b | N-proper-fs
-v7 כִּ֣י|kî||H3588|Conj
+v7 כִּ֣י|kî|-|H3588|Conj
 v7 לֹא֩|lō|had no|H3808|Adv-NegPrt
 v7 הִשְׁאִ֨יר|hiš·’îr|left|H7604|V-Hifil-Perf-3ms
 v7 לִיהוֹאָחָ֜ז|lî·hō·w·’ā·ḥāz|Jehoahaz|H3059|Prep-l | N-proper-ms
@@ -144,11 +144,11 @@ v9 בְּשֹׁמְר֑וֹן|bə·šō·mə·rō·wn|in Samaria|H8111|Prep-b | 
 v9 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
 v9 יוֹאָ֥שׁ|yō·w·’āš|Jehoash|H3101|N-proper-ms
 v9 בְּנ֖וֹ|bə·nōw|And his son|H1121|N-msc | 3ms
-v9 תַּחְתָּֽיו׃פ|taḥ·tāw|in his place|H8478|Prep | 3ms
+v9 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
 v10 בִּשְׁנַ֨ת|biš·naṯ|year|H8141|Prep-b | N-fsc
 v10 שְׁלֹשִׁ֤ים|šə·lō·šîm|In the thirty-seventh|H7970|Number-cp
 v10 וָשֶׁ֙בַע֙|wā·še·ḇa‘|...|H7651|Conj-w | Number-fs
-v10 שָׁנָ֔ה|šā·nāh||H8141|N-fs
+v10 שָׁנָ֔ה|šā·nāh|-|H8141|N-fs
 v10 לְיוֹאָ֖שׁ|lə·yō·w·’āš|of Joash|H3101|Prep-l | N-proper-ms
 v10 מֶ֣לֶךְ|me·leḵ|of the reign|H4428|N-msc
 v10 יְהוּדָ֑ה|yə·hū·ḏāh|over Judah|H3063|N-proper-ms
@@ -177,7 +177,7 @@ v11 אֲשֶׁר־|’ă·šer-|that|H834|Pro-r
 v11 הֶחֱטִ֥יא|he·ḥĕ·ṭî|to commit|H2398|V-Hifil-Perf-3ms
 v11 אֶת־|’eṯ-|-|H853|DirObjM
 v11 יִשְׂרָאֵ֖ל|yiś·rā·’êl|had caused Israel|H3478|N-proper-ms
-v11 בָּ֥הּ|bāh||H0|Prep | 3fs
+v11 בָּ֥הּ|bāh|-|H0|Prep | 3fs
 v11 הָלָֽךְ׃|hā·lāḵ|but he walked in them|H1980|V-Qal-Perf-3ms
 v12 וְיֶ֨תֶר|wə·ye·ṯer|As for the rest|H3499|Conj-w | N-msc
 v12 דִּבְרֵ֤י|diḇ·rê|of the acts|H1697|N-mpc
@@ -214,14 +214,14 @@ v13 יוֹאָשׁ֙|yō·w·’āš|Jehoash|H3101|N-proper-ms
 v13 בְּשֹׁ֣מְר֔וֹן|bə·šō·mə·rō·wn|in Samaria|H8111|Prep-b | N-proper-fs
 v13 עִ֖ם|‘im|with|H5973|Prep
 v13 מַלְכֵ֥י|mal·ḵê|the kings|H4428|N-mpc
-v13 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v13 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v14 וֶֽאֱלִישָׁע֙|we·’ĕ·lî·šā‘|When Elisha|H477|Conj-w | N-proper-ms
 v14 חָלָ֣ה|ḥā·lāh|had fallen sick|H2470|V-Qal-Perf-3ms
 v14 אֶת־|’eṯ-|-|H853|Prep
 v14 חָלְי֔וֹ|ḥā·lə·yōw|with the illness|H2483|N-msc | 3ms
 v14 אֲשֶׁ֥ר|’ă·šer|from which|H834|Pro-r
 v14 יָמ֖וּת|yā·mūṯ|he would die|H4191|V-Qal-Imperf-3ms
-v14 בּ֑וֹ|bōw||H0|Prep | 3ms
+v14 בּ֑וֹ|bōw|-|H0|Prep | 3ms
 v14 וַיֵּ֨רֶד|way·yê·reḏ|came down|H3381|Conj-w | V-Qal-ConsecImperf-3ms
 v14 אֵלָ֜יו|’ê·lāw|to him|H413|Prep | 3ms
 v14 יוֹאָ֣שׁ|yō·w·’āš|Jehoash|H3101|N-proper-ms
@@ -317,7 +317,7 @@ v19 שָׁלֹ֥שׁ|šā·lōš|[only] three|H7969|Number-fs
 v19 פְּעָמִ֖ים|pə·‘ā·mîm|times|H6471|N-fp
 v19 תַּכֶּ֥ה|tak·keh|you will strike down|H5221|V-Hifil-Imperf-2ms
 v19 אֶת־|’eṯ-|-|H853|DirObjM
-v19 אֲרָֽם׃ס|’ă·rām|Aram|H758|N-proper-fs
+v19 אֲרָֽם׃|’ă·rām|Aram|H758|N-proper-fs
 v20 וַיָּ֥מָת|way·yā·māṯ|died|H4191|Conj-w | V-Qal-ConsecImperf-3ms
 v20 אֱלִישָׁ֖ע|’ĕ·lî·šā‘|And Elisha|H477|N-proper-ms
 v20 וַֽיִּקְבְּרֻ֑הוּ|way·yiq·bə·ru·hū|and was buried|H6912|Conj-w | V-Qal-ConsecImperf-3mp | 3ms
@@ -348,7 +348,7 @@ v21 אֱלִישָׁ֔ע|’ĕ·lî·šā‘|of Elisha|H477|N-proper-ms
 v21 וַיְחִ֖י|way·ḥî|was revived|H2421|Conj-w | V-Qal-ConsecImperf-3ms
 v21 וַיָּ֥קָם|way·yā·qām|and stood|H6965|Conj-w | V-Qal-ConsecImperf-3ms
 v21 עַל־|‘al-|up on|H5921|Prep
-v21 רַגְלָֽיו׃פ|raḡ·lāw|his feet|H7272|N-fdc | 3ms
+v21 רַגְלָֽיו׃|raḡ·lāw|his feet|H7272|N-fdc | 3ms
 v22 וַֽחֲזָאֵל֙|wa·ḥă·zā·’êl|And Hazael|H2371|Conj-w | N-proper-ms
 v22 מֶ֣לֶךְ|me·leḵ|king|H4428|N-msc
 v22 אֲרָ֔ם|’ă·rām|of Aram|H758|N-proper-fs
@@ -370,7 +370,7 @@ v23 אֶת־|’eṯ-|with|H854|Prep
 v23 אַבְרָהָ֖ם|’aḇ·rā·hām|Abraham|H85|N-proper-ms
 v23 יִצְחָ֣ק|yiṣ·ḥāq|Isaac|H3327|N-proper-ms
 v23 וְיַֽעֲקֹ֑ב|wə·ya·‘ă·qōḇ|and Jacob|H3290|Conj-w | N-proper-ms
-v23 וְלֹ֤א|wə·lō|vvv|H3808|Conj-w | Adv-NegPrt
+v23 וְלֹ֤א|wə·lō|...|H3808|Conj-w | Adv-NegPrt
 v23 אָבָה֙|’ā·ḇāh|[the LORD] has been unwilling|H14|V-Qal-Perf-3ms
 v23 הַשְׁחִיתָ֔ם|haš·ḥî·ṯām|to destroy them|H7843|V-Hifil-Inf | 3mp
 v23 וְלֹֽא־|wə·lō-|or|H3808|Conj-w | Adv-NegPrt
@@ -384,7 +384,7 @@ v24 חֲזָאֵ֣ל|ḥă·zā·’êl|When Hazael|H2371|N-proper-ms
 v24 מֶֽלֶךְ־|me·leḵ-|king|H4428|N-msc
 v24 אֲרָ֑ם|’ă·rām|of Aram|H758|N-proper-fs
 v24 וַיִּמְלֹ֛ךְ|way·yim·lōḵ|reigned|H4427|Conj-w | V-Qal-ConsecImperf-3ms
-v24 בֶּן־|ben-|vvv|H1130|Prep
+v24 בֶּן־|ben-|...|H1130|Prep
 v24 הֲדַ֥ד|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v24 בְּנ֖וֹ|bə·nōw|his son|H1121|N-msc | 3ms
 v24 תַּחְתָּֽיו׃|taḥ·tāw|in his place|H8478|Prep | 3ms
@@ -396,7 +396,7 @@ v25 וַיִּקַּ֤ח|way·yiq·qaḥ|took|H3947|Conj-w | V-Qal-ConsecImperf-
 v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 הֶֽעָרִים֙|he·‘ā·rîm|the cities|H5892|Art | N-fp
 v25 מִיַּד֙|mî·yaḏ|from|H3027|Prep-m | N-fsc
-v25 בֶּן־|ben-|vvv|H1130|Prep
+v25 בֶּן־|ben-|...|H1130|Prep
 v25 הֲדַ֣ד|hă·ḏaḏ|Ben-hadad|H1130|N-proper-ms
 v25 בֶּן־|ben-|son|H1121|N-msc
 v25 חֲזָאֵ֔ל|ḥă·zā·’êl|of Hazael|H2371|N-proper-ms
@@ -413,4 +413,4 @@ v25 יוֹאָ֔שׁ|yō·w·’āš|Jehoash|H3101|N-proper-ms
 v25 וַיָּ֖שֶׁב|way·yā·šeḇ|and so recovered|H7725|Conj-w | V-Hifil-ConsecImperf-3ms
 v25 אֶת־|’eṯ-|-|H853|DirObjM
 v25 עָרֵ֥י|‘ā·rê|the cities|H5892|N-fpc
-v25 יִשְׂרָאֵֽל׃פ|yiś·rā·’êl|of Israel|H3478|N-proper-ms
+v25 יִשְׂרָאֵֽל׃|yiś·rā·’êl|of Israel|H3478|N-proper-ms

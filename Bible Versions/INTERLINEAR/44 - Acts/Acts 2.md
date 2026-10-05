@@ -107,7 +107,7 @@ v7 εἰσιν|eisin|Are|G1510|V-PIA-3P
 v7 οἱ|hoi|who|G3588|Art-NMP
 v7 λαλοῦντες|lalountes|are speaking|G2980|V-PPA-NMP
 v7 Γαλιλαῖοι|Galilaioi|Galileans|G1057|N-NMP
-v8 καὶ|kai|vvv|G2532|Conj
+v8 καὶ|kai|...|G2532|Conj
 v8 πῶς|pōs|How is it then that|G4459|Adv
 v8 ἡμεῖς|hēmeis|of us|G1473|PPro-N1P
 v8 ἀκούομεν|akouomen|hears [them]|G191|V-PIA-1P
@@ -125,7 +125,7 @@ v9 Μῆδοι|Mēdoi|Medes|G3370|N-NMP
 v9 καὶ|kai|and|G2532|Conj
 v9 Ἐλαμῖται*|Elamitai|Elamites|G1639|N-NMP
 v9 καὶ|kai|-|G2532|Conj
-v9 οἱ|hoi|vvv|G3588|Art-NMP
+v9 οἱ|hoi|...|G3588|Art-NMP
 v9 κατοικοῦντες|katoikountes|residents|G2730|V-PPA-NMP
 v9 τὴν|tēn|of|G3588|Art-AFS
 v9 Μεσοποταμίαν|Mesopotamian|Mesopotamia|G3318|N-AFS
@@ -213,7 +213,7 @@ v14 οἱ|hoi|who|G3588|Art-VMP
 v14 κατοικοῦντες|katoikountes|dwell|G2730|V-PPA-VMP
 v14 Ἰερουσαλὴμ|Ierousalēm|in Jerusalem|G2419|N-AFS
 v14 πάντες|pantes|all|G3956|Adj-VMP
-v14 τοῦτο|touto|vvv|G3778|DPro-NNS
+v14 τοῦτο|touto|...|G3778|DPro-NNS
 v14 ὑμῖν|hymin|to you|G4771|PPro-D2P
 v14 γνωστὸν|gnōston|known|G1110|Adj-NNS
 v14 ἔστω|estō|let this be|G1510|V-PMA-3S
@@ -222,7 +222,7 @@ v14 ἐνωτίσασθε|enōtisasthe|listen carefully to|G1801|V-AMM-2P
 v14 τὰ|ta|-|G3588|Art-ANP
 v14 ῥήματά|rhēmata|words|G4487|N-ANP
 v14 μου|mou|my|G1473|PPro-G1S
-v15 οὐ|ou|vvv|G3756|Adv
+v15 οὐ|ou|...|G3756|Adv
 v15 γὰρ|gar|-|G1063|Conj
 v15 ὡς|hōs|as|G5613|Adv
 v15 ὑμεῖς|hymeis|you|G4771|PPro-N2P
@@ -345,7 +345,7 @@ v21 καὶ|kai|And|G2532|Conj
 v21 ἔσται|estai|-|G1510|V-FIM-3S
 v21 πᾶς|pas|everyone|G3956|Adj-NMS
 v21 ὃς|hos|who|G3739|RelPro-NMS
-v21 ἐὰν|ean|vvv|G1437|Prtcl
+v21 ἐὰν|ean|...|G1437|Prtcl
 v21 ἐπικαλέσηται|epikalesētai|calls|G1941|V-ASM-3S
 v21 τὸ|to|on the|G3588|Art-ANS
 v21 ὄνομα|onoma|name|G3686|N-ANS
@@ -378,9 +378,9 @@ v22 δι’|di’|through|G1223|Prep
 v22 αὐτοῦ|autou|Him|G846|PPro-GM3S
 v22 ὁ|ho|-|G3588|Art-NMS
 v22 Θεὸς|Theos|God|G2316|N-NMS
-v22 ἐν|en|vvv|G1722|Prep
+v22 ἐν|en|...|G1722|Prep
 v22 μέσῳ|mesō|among you|G3319|Adj-DNS
-v22 ὑμῶν|hymōn|vvv|G4771|PPro-G2P
+v22 ὑμῶν|hymōn|...|G4771|PPro-G2P
 v22 καθὼς|kathōs|as|G2531|Adv
 v22 αὐτοὶ|autoi|you yourselves|G846|PPro-NM3P
 v22 οἴδατε|oidate|know|G1492|V-RIA-2P
@@ -390,7 +390,7 @@ v23 ὡρισμένῃ|hōrismenē|set|G3724|V-RPM/P-DFS
 v23 βουλῇ|boulē|plan|G1012|N-DFS
 v23 καὶ|kai|and|G2532|Conj
 v23 προγνώσει|prognōsei|foreknowledge|G4268|N-DFS
-v23 τοῦ|tou|vvv|G3588|Art-GMS
+v23 τοῦ|tou|...|G3588|Art-GMS
 v23 Θεοῦ|Theou|God's|G2316|N-GMS
 v23 ἔκδοτον|ekdoton|was delivered up|G1560|Adj-AMS
 v23 διὰ|dia|{and you}, by|G1223|Prep
@@ -398,7 +398,7 @@ v23 χειρὸς|cheiros|the hands|G5495|N-GFS
 v23 ἀνόμων|anomōn|of the lawless|G459|Adj-GMP
 v23 προσπήξαντες|prospēxantes|by nailing [Him] to the cross|G4362|V-APA-NMP
 v23 ἀνείλατε|aneilate|put [Him] to death|G337|V-AIA-2P
-v24 ὃν|hon|vvv|G3739|RelPro-AMS
+v24 ὃν|hon|...|G3739|RelPro-AMS
 v24 ὁ|ho|[But]|G3588|Art-NMS
 v24 Θεὸς|Theos|God|G2316|N-NMS
 v24 ἀνέστησεν|anestēsen|raised Him from the dead|G450|V-AIA-3S
@@ -408,7 +408,7 @@ v24 ὠδῖνας|ōdinas|agony|G5604|N-AFP
 v24 τοῦ|tou|of|G3588|Art-GMS
 v24 θανάτου|thanatou|death|G2288|N-GMS
 v24 καθότι|kathoti|because|G2530|Adv
-v24 οὐκ|ouk|vvv|G3756|Adv
+v24 οὐκ|ouk|...|G3756|Adv
 v24 ἦν|ēn|it was|G1510|V-IIA-3S
 v24 δυνατὸν|dynaton|impossible|G1415|Adj-NNS
 v24 κρατεῖσθαι|krateisthai|[for death] to keep|G2902|V-PNM/P
@@ -432,8 +432,8 @@ v25 ἐκ|ek|at|G1537|Prep
 v25 δεξιῶν|dexiōn|right hand|G1188|Adj-GNP
 v25 μού|mou|my|G1473|PPro-G1S
 v25 ἐστιν|estin|He is|G1510|V-PIA-3S
-v25 ἵνα|hina|vvv|G2443|Conj
-v25 μὴ|mē|vvv|G3361|Adv
+v25 ἵνα|hina|...|G2443|Conj
+v25 μὴ|mē|...|G3361|Adv
 v25 σαλευθῶ|saleuthō|I will not be shaken|G4531|V-ASP-1S
 v26 διὰ|dia|Therefore|G1223|Prep
 v26 τοῦτο|touto|...|G3778|DPro-ANS
@@ -456,7 +456,7 @@ v26 κατασκηνώσει|kataskēnōsei|will dwell|G2681|V-FIA-3S
 v26 ἐπ’|ep’|in|G1909|Prep
 v26 ἐλπίδι|elpidi|hope|G1680|N-DFS
 v27 ὅτι|hoti|because|G3754|Conj
-v27 οὐκ|ouk|vvv|G3756|Adv
+v27 οὐκ|ouk|...|G3756|Adv
 v27 ἐνκαταλείψεις|enkataleipseis|You will not abandon|G1459|V-FIA-2S
 v27 τὴν|tēn|-|G3588|Art-AFS
 v27 ψυχήν|psychēn|soul|G5590|N-AFS
@@ -481,13 +481,13 @@ v28 μετὰ|meta|in|G3326|Prep
 v28 τοῦ|tou|-|G3588|Art-GNS
 v28 προσώπου|prosōpou|presence|G4383|N-GNS
 v28 σου|sou|Your|G4771|PPro-G2S
-v29 Ἄνδρες|Andres|vvv|G435|N-VMP
+v29 Ἄνδρες|Andres|...|G435|N-VMP
 v29 ἀδελφοί|adelphoi|Brothers|G80|N-VMP
 v29 ἐξὸν|exon|I can|G1832|V-PPA-NNS
 v29 εἰπεῖν|eipein|tell|G2036|V-ANA
-v29 μετὰ|meta|vvv|G3326|Prep
+v29 μετὰ|meta|...|G3326|Prep
 v29 παρρησίας|parrēsias|with confidence|G3954|N-GFS
-v29 πρὸς|pros|vvv|G4314|Prep
+v29 πρὸς|pros|...|G4314|Prep
 v29 ὑμᾶς|hymas|you|G4771|PPro-A2P
 v29 περὶ|peri|-|G4012|Prep
 v29 τοῦ|tou|the|G3588|Art-GMS
@@ -521,10 +521,10 @@ v30 αὐτῷ|autō|him|G846|PPro-DM3S
 v30 ὁ|ho|-|G3588|Art-NMS
 v30 Θεὸς|Theos|God|G2316|N-NMS
 v30 ἐκ|ek|[one] of|G1537|Prep
-v30 καρποῦ|karpou|vvv|G2590|N-GMS
-v30 τῆς|tēs|vvv|G3588|Art-GFS
+v30 καρποῦ|karpou|...|G2590|N-GMS
+v30 τῆς|tēs|...|G3588|Art-GFS
 v30 ὀσφύος|osphyos|[his descendants]|G3751|N-GFS
-v30 αὐτοῦ|autou|vvv|G846|PPro-GM3S
+v30 αὐτοῦ|autou|...|G846|PPro-GM3S
 v30 καθίσαι|kathisai|that He would place|G2523|V-ANA
 v30 ἐπὶ|epi|on|G1909|Prep
 v30 τὸν|ton|-|G3588|Art-AMS
@@ -538,7 +538,7 @@ v31 ἀναστάσεως|anastaseōs|resurrection|G386|N-GFS
 v31 τοῦ|tou|of the|G3588|Art-GMS
 v31 Χριστοῦ|Christou|Christ|G5547|N-GMS
 v31 ὅτι|hoti|that|G3754|Conj
-v31 οὔτε|oute|vvv|G3777|Conj
+v31 οὔτε|oute|...|G3777|Conj
 v31 ἐνκατελείφθη|enkateleiphthē|He was not abandoned|G1459|V-AIP-3S
 v31 εἰς|eis|to|G1519|Prep
 v31 ᾅδην|hadēn|Hades|G86|N-AMS
@@ -618,7 +618,7 @@ v36 Ἀσφαλῶς|Asphalōs|with certainty|G806|Adv
 v36 οὖν|oun|Therefore|G3767|Conj
 v36 γινωσκέτω|ginōsketō|know|G1097|V-PMA-3S
 v36 πᾶς|pas|{let} all|G3956|Adj-NMS
-v36 οἶκος|oikos|vvv|G3624|N-NMS
+v36 οἶκος|oikos|...|G3624|N-NMS
 v36 Ἰσραὴλ|Israēl|Israel|G2474|N-GMS
 v36 ὅτι|hoti|that|G3754|Conj
 v36 καὶ|kai|both|G2532|Conj
@@ -651,7 +651,7 @@ v37 λοιποὺς|loipous|other|G3062|Adj-AMP
 v37 ἀποστόλους|apostolous|apostles|G652|N-AMP
 v37 Τί|Ti|what|G5101|IPro-ANS
 v37 ποιήσωμεν|poiēsōmen|shall we do|G4160|V-ASA-1P
-v37 ἄνδρες|andres|vvv|G435|N-VMP
+v37 ἄνδρες|andres|...|G435|N-VMP
 v37 ἀδελφοί|adelphoi|Brothers|G80|N-VMP
 v38 Πέτρος|Petros|Peter|G4074|N-NMS
 v38 δὲ|de|-|G1161|Conj
@@ -793,7 +793,7 @@ v45 ἄν|an|...|G302|Prtcl
 v45 τις|tis|anyone|G5100|IPro-NMS
 v45 χρείαν|chreian|need|G5532|N-AFS
 v45 εἶχεν|eichen|who was in|G2192|V-IIA-3S
-v46 Καθ’|Kath’|vvv|G2596|Prep
+v46 Καθ’|Kath’|...|G2596|Prep
 v46 ἡμέραν|hēmeran|daily|G2250|N-AFS
 v46 τε|te|-|G5037|Conj
 v46 προσκαρτεροῦντες|proskarterountes|they continued [to meet]|G4342|V-PPA-NMP
@@ -829,7 +829,7 @@ v47 Κύριος|Kyrios|Lord|G2962|N-NMS
 v47 προσετίθει|prosetithei|added|G4369|V-IIA-3S
 v47 τοὺς|tous|those who|G3588|Art-AMP
 v47 σῳζομένους|sōzomenous|were being saved|G4982|V-PPM/P-AMP
-v47 καθ’|kath’|vvv|G2596|Prep
+v47 καθ’|kath’|...|G2596|Prep
 v47 ἡμέραν|hēmeran|daily|G2250|N-AFS
 v47 ἐπὶ|epi|to|G1909|Prep
 v47 τὸ|to|their|G3588|Art-ANS

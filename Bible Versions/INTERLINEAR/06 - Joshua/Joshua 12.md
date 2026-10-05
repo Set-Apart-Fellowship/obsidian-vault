@@ -54,7 +54,7 @@ v3 יָם־|yām-|(the Salt Sea|H3220|N-msc
 v3 הַמֶּ֙לַח֙|ham·me·laḥ|...|H4417|Art | N-ms
 v3 מִזְרָ֔חָה|miz·rā·ḥāh|eastward|H4217|N-ms | 3fs
 v3 דֶּ֖רֶךְ|de·reḵ|through|H1870|N-csc
-v3 בֵּ֣ית|bêṯ|vvv|H1020|Prep
+v3 בֵּ֣ית|bêṯ|...|H1020|Prep
 v3 הַיְשִׁמ֑וֹת|hay·ši·mō·wṯ|Beth-jeshimoth|H1020|N-proper-fs
 v3 וּמִ֨תֵּימָ֔ן|ū·mit·tê·mān|and southward|H8486|Conj-w, Prep-m | N-fs
 v3 תַּ֖חַת|ta·ḥaṯ|below|H8478|Prep
@@ -93,14 +93,14 @@ v6 יִשְׂרָאֵ֖ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v6 הִכּ֑וּם|hik·kūm|had struck them down|H5221|V-Hifil-Perf-3cp | 3mp
 v6 וַֽ֠יִּתְּנָהּ|way·yit·tə·nāh|given|H5414|Conj-w | V-Qal-ConsecImperf-3ms | 3fs
 v6 מֹשֶׁ֨ה|mō·šeh|[and]|H4872|N-proper-ms
-v6 עֶֽבֶד־|‘e·ḇeḏ-||H5650|N-msc
-v6 יְהוָ֜ה|Yah·weh||H3068|N-proper-ms
+v6 עֶֽבֶד־|‘e·ḇeḏ-|-|H5650|N-msc
+v6 יְהוָ֜ה|Yah·weh|-|H3068|N-proper-ms
 v6 יְרֻשָּׁ֗ה|yə·ruš·šāh|their land as an inheritance|H3425|N-fs
 v6 לָרֻֽאוּבֵנִי֙|lā·ru·’ū·ḇê·nî|to the Reubenites|H7206|Prep-l | N-proper-ms
 v6 וְלַגָּדִ֔י|wə·lag·gā·ḏî|the Gadites|H1425|Conj-w, Prep-l, Art | N-proper-ms
 v6 וְלַחֲצִ֖י|wə·la·ḥă·ṣî|and the half-tribe|H2677|Conj-w, Prep-l, Art | N-msc
 v6 שֵׁ֥בֶט|šê·ḇeṭ|...|H7626|N-msc
-v6 הַֽמְנַשֶּֽׁה׃ס|ham·naš·šeh|of Manasseh|H4519|Art | N-proper-ms
+v6 הַֽמְנַשֶּֽׁה׃|ham·naš·šeh|of Manasseh|H4519|Art | N-proper-ms
 v7 וְאֵ֣לֶּה|wə·’êl·leh|And these [are]|H428|Conj-w | Pro-cp
 v7 מַלְכֵ֣י|mal·ḵê|the kings|H4428|N-mpc
 v7 הָאָ֡רֶץ|hā·’ā·reṣ|of the land|H776|Art | N-fs
@@ -112,7 +112,7 @@ v7 יִשְׂרָאֵ֗ל|yiś·rā·’êl|...|H3478|N-proper-ms
 v7 בְּעֵ֤בֶר|bə·‘ê·ḇer|beyond|H5676|Prep-b | N-msc
 v7 הַיַּרְדֵּן֙|hay·yar·dên|the Jordan|H3383|Art | N-proper-fs
 v7 יָ֔מָּה|yām·māh|to the west|H3220|N-ms | 3fs
-v7 מִבַּ֤עַל|mib·ba·‘al|vvv|H1171|Prep
+v7 מִבַּ֤עַל|mib·ba·‘al|...|H1171|Prep
 v7 גָּד֙|gāḏ|from Baal-gad|H1171|Prep | N-proper-fs
 v7 בְּבִקְעַ֣ת|bə·ḇiq·‘aṯ|in the Valley|H1237|Prep-b | N-fsc
 v7 הַלְּבָנ֔וֹן|hal·lə·ḇā·nō·wn|of Lebanon|H3844|Art | N-proper-fs
@@ -138,7 +138,7 @@ v8 הָֽאֱמֹרִ֔י|hā·’ĕ·mō·rî|Amorites|H567|Art | N-proper-ms
 v8 וְהַֽכְּנַעֲנִי֙|wə·hak·kə·na·‘ă·nî|Canaanites|H3669|Conj-w, Art | N-proper-ms
 v8 הַפְּרִזִּ֔י|hap·pə·riz·zî|Perizzites|H6522|Art | N-proper-ms
 v8 הַחִוִּ֖י|ha·ḥiw·wî|Hivites|H2340|Art | N-proper-ms
-v8 וְהַיְבוּסִֽי׃פ|wə·hay·ḇū·sî|and Jebusites|H2983|Conj-w, Art | N-proper-ms
+v8 וְהַיְבוּסִֽי׃|wə·hay·ḇū·sî|and Jebusites|H2983|Conj-w, Art | N-proper-ms
 v9 מֶ֥לֶךְ|me·leḵ|the king|H4428|N-msc
 v9 יְרִיח֖וֹ|yə·rî·ḥōw|of Jericho|H3405|N-proper-fs
 v9 אֶחָ֑ד|’e·ḥāḏ|one|H259|Number-ms
@@ -146,7 +146,7 @@ v9 מֶ֧לֶךְ|me·leḵ|the king|H4428|N-msc
 v9 הָעַ֛י|hā·‘ay|of Ai|H5857|Art | N-proper-fs
 v9 אֲשֶׁר־|’ă·šer-|which [is]|H834|Pro-r
 v9 מִצַּ֥ד|miṣ·ṣaḏ|near|H6654|Prep-m | N-msc
-v9 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v9 בֵּֽית־|bêṯ-|...|H1008|Prep
 v9 אֵ֖ל|’êl|Bethel|H1008|N-proper-fs
 v9 אֶחָֽד׃|’e·ḥāḏ|one|H259|Number-ms
 v10 מֶ֤לֶךְ|me·leḵ|the king|H4428|N-msc
@@ -189,7 +189,7 @@ v16 מֶ֤לֶךְ|me·leḵ|the king|H4428|N-msc
 v16 מַקֵּדָה֙|maq·qê·ḏāh|of Makkedah|H4719|N-proper-fs
 v16 אֶחָ֔ד|’e·ḥāḏ|one|H259|Number-ms
 v16 מֶ֥לֶךְ|me·leḵ|the king|H4428|N-msc
-v16 בֵּֽית־|bêṯ-|vvv|H1008|Prep
+v16 בֵּֽית־|bêṯ-|...|H1008|Prep
 v16 אֵ֖ל|’êl|of Bethel|H1008|N-proper-fs
 v16 אֶחָֽד׃|’e·ḥāḏ|one|H259|Number-ms
 v17 מֶ֤לֶךְ|me·leḵ|the king|H4428|N-msc
@@ -211,7 +211,7 @@ v19 מֶ֥לֶךְ|me·leḵ|the king|H4428|N-msc
 v19 חָצ֖וֹר|ḥā·ṣō·wr|of Hazor|H2674|N-proper-fs
 v19 אֶחָֽד׃|’e·ḥāḏ|one|H259|Number-ms
 v20 מֶ֣לֶךְ|me·leḵ|the king|H4428|N-msc
-v20 שִׁמְר֤וֹן|šim·rō·wn|vvv|H8112|
+v20 שִׁמְר֤וֹן|šim·rō·wn|...|H8112|
 v20 מְראוֹן֙|mə·r·’ō·wn|of Shimron-meron|H8112|N-proper-fs
 v20 אֶחָ֔ד|’e·ḥāḏ|one|H259|Number-ms
 v20 מֶ֥לֶךְ|me·leḵ|the king|H4428|N-msc
@@ -232,7 +232,7 @@ v22 לַכַּרְמֶ֖ל|lak·kar·mel|in Carmel|H3760|Prep-l, Art | N-proper-
 v22 אֶחָֽד׃|’e·ḥāḏ|one|H259|Number-ms
 v23 מֶ֥לֶךְ|me·leḵ|the king|H4428|N-msc
 v23 דּ֛וֹר|dō·wr|of Dor|H1756|N-proper-fs
-v23 לְנָפַ֥ת|lə·nā·p̄aṯ|vvv|H5316|Prep-l | N-fsc
+v23 לְנָפַ֥ת|lə·nā·p̄aṯ|...|H5316|Prep-l | N-fsc
 v23 דּ֖וֹר|dō·wr|in Naphath-dor|H1756|N-proper-fs
 v23 אֶחָ֑ד|’e·ḥāḏ|one|H259|Number-ms
 v23 מֶֽלֶךְ־|me·leḵ-|the king|H4428|N-msc
@@ -245,4 +245,4 @@ v24 אֶחָ֑ד|’e·ḥāḏ|one|H259|Number-ms
 v24 כָּל־|kāl-|in all|H3605|N-msc
 v24 מְלָכִ֖ים|mə·lā·ḵîm|kings|H4428|N-mp
 v24 שְׁלֹשִׁ֥ים|šə·lō·šîm|[So there were] thirty-one|H7970|Number-cp
-v24 וְאֶחָֽד׃פ|wə·’e·ḥāḏ||H259|Conj-w | Number-ms
+v24 וְאֶחָֽד׃|wə·’e·ḥāḏ|-|H259|Conj-w | Number-ms

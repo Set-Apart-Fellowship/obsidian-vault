@@ -68,13 +68,13 @@ v6 אֶת־|’eṯ-|-|H853|DirObjM
 v6 הַבָּמ֥וֹת|hab·bā·mō·wṯ|the high places|H1116|Art | N-fp
 v6 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
 v6 הָאֲשֵׁרִ֖ים|hā·’ă·šê·rîm|and Asherah poles|H842|Art | N-fp
-v6 מִיהוּדָֽה׃פ|mî·hū·ḏāh|from Judah|H3063|Prep-m | N-proper-ms
+v6 מִיהוּדָֽה׃|mî·hū·ḏāh|from Judah|H3063|Prep-m | N-proper-ms
 v7 וּבִשְׁנַ֨ת|ū·ḇiš·naṯ|year|H8141|Conj-w, Prep-b | N-fsc
 v7 שָׁל֜וֹשׁ|šā·lō·wōš|In the third|H7969|Number-fs
 v7 לְמָלְכ֗וֹ|lə·mā·lə·ḵōw|of his reign|H4427|Prep-l | V-Qal-Inf | 3ms
 v7 שָׁלַ֤ח|šā·laḥ|Jehoshaphat sent|H7971|V-Qal-Perf-3ms
 v7 לְשָׂרָיו֙|lə·śā·rāw|his officials|H8269|Prep-l | N-mpc | 3ms
-v7 לְבֶן־|lə·ḇen-|vvv|H1134|Prep
+v7 לְבֶן־|lə·ḇen-|...|H1134|Prep
 v7 חַ֙יִל֙|ḥa·yil|Ben-hail|H1134|Prep | N-proper-ms
 v7 וּלְעֹבַדְיָ֣ה|ū·lə·‘ō·ḇaḏ·yāh|Obadiah|H5662|Conj-w, Prep-l | N-proper-ms
 v7 וְלִזְכַרְיָ֔ה|wə·liz·ḵar·yāh|Zechariah|H2148|Conj-w, Prep-l | N-proper-ms
@@ -93,7 +93,7 @@ v8 וּשְׁמִרִימוֹת|ū·šə·mi·rī·mōṯ|Shemiramoth|H8070|Conj
 v8 וִֽיהוֹנָתָן֩|wî·hō·w·nā·ṯān|Jehonathan|H3083|Conj-w | N-proper-ms
 v8 וַאֲדֹ֨נִיָּ֧הוּ|wa·’ă·ḏō·nî·yā·hū|Adonijah|H138|Conj-w | N-proper-ms
 v8 וְטֽוֹבִיָּ֛הוּ|wə·ṭō·w·ḇî·yā·hū|Tobijah|H2900|Conj-w | N-proper-ms
-v8 וְט֥וֹב|wə·ṭō·wḇ|vvv|H2899|
+v8 וְט֥וֹב|wə·ṭō·wḇ|...|H2899|
 v8 אֲדוֹנִיָּ֖ה|’ă·ḏō·w·nî·yāh|and Tob-adonijah|H2899|Conj-w | N-proper-ms
 v8 הַלְוִיִּ֑ם|hal·wî·yim|-|H3881|Art | N-proper-mp
 v8 וְעִמָּהֶ֛ם|wə·‘im·mā·hem|along with|H5973|Conj-w | Prep | 3mp
@@ -147,7 +147,7 @@ v11 וּתְיָשִׁ֕ים|ū·ṯə·yā·šîm|goats|H8495|Conj-w | N-mp
 v11 שִׁבְעַ֥ת|šiḇ·‘aṯ|and 7,700|H7651|Number-msc
 v11 אֲלָפִ֖ים|’ă·lā·p̄îm|...|H505|Number-mp
 v11 וּשְׁבַ֥ע|ū·šə·ḇa‘|...|H7651|Conj-w | Number-fsc
-v11 מֵאֽוֹת׃פ|mê·’ō·wṯ|...|H3967|Number-fp
+v11 מֵאֽוֹת׃|mê·’ō·wṯ|...|H3967|Number-fp
 v12 וַיְהִ֧י|way·hî|-|H1961|Conj-w | V-Qal-ConsecImperf-3ms
 v12 יְהוֹשָׁפָ֛ט|yə·hō·wō·šā·p̄āṭ|Jehoshaphat|H3092|N-proper-ms
 v12 הֹלֵ֥ךְ|hō·lêḵ|grew stronger|H1980|V-Qal-Prtcpl-ms
@@ -162,7 +162,7 @@ v12 מִסְכְּנֽוֹת׃|mis·kə·nō·wṯ|and store|H4543|N-fp
 v13 וּמְלָאכָ֥ה|ū·mə·lā·ḵāh|supplies|H4399|Conj-w | N-fs
 v13 רַבָּ֛ה|rab·bāh|and kept vast|H7227|Adj-fs
 v13 הָ֥יָה|hā·yāh|He also had|H1961|V-Qal-Perf-3ms
-v13 ל֖וֹ|lōw||H0|Prep | 3ms
+v13 ל֖וֹ|lōw|-|H0|Prep | 3ms
 v13 בְּעָרֵ֣י|bə·‘ā·rê|in the cities|H5892|Prep-b | N-fpc
 v13 יְהוּדָ֑ה|yə·hū·ḏāh|of Judah|H3063|N-proper-ms
 v13 וְאַנְשֵׁ֧י|wə·’an·šê|...|H582|Conj-w | N-mpc
@@ -182,17 +182,17 @@ v14 הַשָּׂ֔ר|haś·śār|the commander|H8269|Art | N-ms
 v14 וְעִמּוֹ֙|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v14 גִּבּ֣וֹרֵי|gib·bō·w·rê|mighty men|H1368|Adj-mpc
 v14 חַ֔יִל|ḥa·yil|of valor|H2428|N-ms
-v14 שְׁלֹ֥שׁ|šə·lōš|300,000 {}|H7969|Number-fsc
+v14 שְׁלֹ֥שׁ|šə·lōš|300,000|H7969|Number-fsc
 v14 מֵא֖וֹת|mê·’ō·wṯ|...|H3967|Number-fp
-v14 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v14 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v15 וְעַל־|wə·‘al-|next to|H5921|Conj-w | Prep
 v15 יָד֖וֹ|yā·ḏōw|him|H3027|N-fsc | 3ms
 v15 יְהוֹחָנָ֣ן|yə·hō·w·ḥā·nān|Jehohanan|H3076|N-proper-ms
 v15 הַשָּׂ֑ר|haś·śār|the commander|H8269|Art | N-ms
 v15 וְעִמּ֕וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
-v15 מָאתַ֥יִם|mā·ṯa·yim|280,000 {}|H3967|Number-fd
+v15 מָאתַ֥יִם|mā·ṯa·yim|280,000|H3967|Number-fd
 v15 וּשְׁמוֹנִ֖ים|ū·šə·mō·w·nîm|...|H8084|Conj-w | Number-cp
-v15 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v15 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v16 וְעַל־|wə·‘al-|and next to|H5921|Conj-w | Prep
 v16 יָדוֹ֙|yā·ḏōw|him|H3027|N-fsc | 3ms
 v16 עֲמַסְיָ֣ה|‘ă·mas·yāh|Amasiah|H6007|N-proper-ms
@@ -201,10 +201,10 @@ v16 זִכְרִ֔י|ziḵ·rî|of Zichri|H2147|N-proper-ms
 v16 הַמִּתְנַדֵּ֖ב|ham·miṯ·nad·dêḇ|the volunteer|H5068|Art | V-Hitpael-Prtcpl-ms
 v16 לַיהוָ֑ה|Yah·weh|for the LORD|H3068|Prep-l | N-proper-ms
 v16 וְעִמּ֛וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
-v16 מָאתַ֥יִם|mā·ṯa·yim|200,000 {}|H3967|Number-fd
+v16 מָאתַ֥יִם|mā·ṯa·yim|200,000|H3967|Number-fd
 v16 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v16 גִּבּ֥וֹר|gib·bō·wr|mighty men|H1368|Adj-msc
-v16 חָֽיִל׃ס|ḥā·yil|of valor|H2428|N-ms
+v16 חָֽיִל׃|ḥā·yil|of valor|H2428|N-ms
 v17 וּמִ֨ן־|ū·min-|From|H4480|Conj-w | Prep
 v17 בִּנְיָמִ֔ן|bin·yā·min|Benjamin|H1144|N-proper-ms
 v17 גִּבּ֥וֹר|gib·bō·wr|a mighty man|H1368|Adj-msc
@@ -214,17 +214,17 @@ v17 וְעִמּ֛וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
 v17 נֹֽשְׁקֵי־|nō·šə·qê-|armed|H5401|V-Qal-Prtcpl-mpc
 v17 קֶ֥שֶׁת|qe·šeṯ|with bows|H7198|N-fs
 v17 וּמָגֵ֖ן|ū·mā·ḡên|and shields|H4043|Conj-w | N-cs
-v17 מָאתַ֥יִם|mā·ṯa·yim|200,000 {}|H3967|Number-fd
-v17 אָֽלֶף׃ס|’ā·lep̄|...|H505|Number-ms
+v17 מָאתַ֥יִם|mā·ṯa·yim|200,000|H3967|Number-fd
+v17 אָֽלֶף׃|’ā·lep̄|...|H505|Number-ms
 v18 וְעַל־|wə·‘al-|and next to|H5921|Conj-w | Prep
 v18 יָד֖וֹ|yā·ḏōw|him|H3027|N-fsc | 3ms
 v18 יְהוֹזָבָ֑ד|yə·hō·w·zā·ḇāḏ|Jehozabad|H3075|N-proper-ms
 v18 וְעִמּ֛וֹ|wə·‘im·mōw|and with him|H5973|Conj-w | Prep | 3ms
-v18 מֵאָֽה־|mê·’āh-|180,000 {}|H3967|Number-fs
+v18 מֵאָֽה־|mê·’āh-|180,000|H3967|Number-fs
 v18 וּשְׁמוֹנִ֥ים|ū·šə·mō·w·nîm|...|H8084|Conj-w | Number-cp
 v18 אֶ֖לֶף|’e·lep̄|...|H505|Number-ms
 v18 חֲלוּצֵ֥י|ḥă·lū·ṣê|armed|H2502|V-Qal-QalPassPrtcpl-mpc
-v18 צָבָֽא׃ס|ṣā·ḇā|for battle|H6635|N-cs
+v18 צָבָֽא׃|ṣā·ḇā|for battle|H6635|N-cs
 v19 אֵ֖לֶּה|’êl·leh|These were the men|H428|Pro-cp
 v19 הַמְשָׁרְתִ֣ים|ham·šā·rə·ṯîm|who served|H8334|Art | V-Piel-Prtcpl-mp
 v19 אֶת־|’eṯ-|-|H853|DirObjM
@@ -236,4 +236,4 @@ v19 הַמֶּ֛לֶךְ|ham·me·leḵ|he|H4428|Art | N-ms
 v19 בְּעָרֵ֥י|bə·‘ā·rê|cities|H5892|Prep-b | N-fpc
 v19 הַמִּבְצָ֖ר|ham·miḇ·ṣār|in the fortified|H4013|Art | N-ms
 v19 בְּכָל־|bə·ḵāl|throughout|H3605|Prep-b | N-msc
-v19 יְהוּדָֽה׃פ|yə·hū·ḏāh|Judah|H3063|N-proper-ms
+v19 יְהוּדָֽה׃|yə·hū·ḏāh|Judah|H3063|N-proper-ms

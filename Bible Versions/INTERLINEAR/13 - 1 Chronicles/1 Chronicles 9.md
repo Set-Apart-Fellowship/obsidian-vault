@@ -10,7 +10,7 @@ v1 יִשְׂרָאֵ֑ל|yiś·rā·’êl|of Israel|H3478|N-proper-ms
 v1 וִיהוּדָ֛ה|wî·hū·ḏāh|But Judah|H3063|Conj-w | N-proper-ms
 v1 הָגְל֥וּ|hā·ḡə·lū|was exiled|H1540|V-Hofal-Perf-3cp
 v1 לְבָבֶ֖ל|lə·ḇā·ḇel|to Babylon|H894|Prep-l | N-proper-fs
-v1 בְּמַעֲלָֽם׃ס|bə·ma·‘ă·lām|because of their unfaithfulness|H4604|Prep-b | N-msc | 3mp
+v1 בְּמַעֲלָֽם׃|bə·ma·‘ă·lām|because of their unfaithfulness|H4604|Prep-b | N-msc | 3mp
 v2 וְהַיּוֹשְׁבִים֙|wə·hay·yō·wō·šə·ḇîm|to resettle|H3427|Conj-w, Art | V-Qal-Prtcpl-mp
 v2 הָרִ֣אשֹׁנִ֔ים|hā·ri·šō·nîm|Now the first|H7223|Art | Adj-mp
 v2 אֲשֶׁ֥ר|’ă·šer|-|H834|Pro-r
@@ -40,7 +40,7 @@ v4 עָמְרִי֙|‘ā·mə·rî|of Omri|H6018|N-proper-ms
 v4 בֶּן־|ben-|the son|H1121|N-msc
 v4 אִמְרִ֣י|’im·rî|of Imri|H566|N-proper-ms
 v4 בֶן־|ḇen-|the son|H1121|N-msc
-v4 בָּנִימִן־|bå̄·nī·min-||H1144|N-proper-ms
+v4 בָּנִימִן־|bå̄·nī·min-|-|H1144|N-proper-ms
 v4 בְּנֵי־|bə·nê-|of Bani|H1121|N-mpc
 v4 פֶ֖רֶץ|p̄e·reṣ|of Perez|H6557|N-proper-ms
 v4 בֶּן־|ben-|a descendant|H1121|N-msc
@@ -51,7 +51,7 @@ v5 עֲשָׂיָ֥ה|‘ă·śā·yāh|Asaiah|H6222|N-proper-ms
 v5 הַבְּכ֖וֹר|hab·bə·ḵō·wr|the firstborn|H1060|Art | N-ms
 v5 וּבָנָֽיו׃|ū·ḇā·nāw|and his sons|H1121|Conj-w | N-mpc | 3ms
 v6 וּמִן־|ū·min-|From|H4480|Conj-w | Prep
-v6 בְּנֵי־|bə·nê-|vvv|H1121|N-mpc
+v6 בְּנֵי־|bə·nê-|...|H1121|N-mpc
 v6 זֶ֖רַח|ze·raḥ|the Zerahites|H2226|N-proper-ms
 v6 יְעוּאֵ֑ל|yə·‘ū·’êl|Jeuel|H3262|N-proper-ms
 v6 וַאֲחֵיהֶ֖ם|wa·’ă·ḥê·hem|relatives|H251|Conj-w | N-mpc | 3mp
@@ -95,7 +95,7 @@ v9 אֲנָשִׁ֔ים|’ă·nā·šîm|men|H582|N-mp
 v9 רָאשֵׁ֥י|rā·šê|were heads|H7218|N-mpc
 v9 אָב֖וֹת|’ā·ḇō·wṯ|of their families|H1|N-mp
 v9 לְבֵ֥ית|lə·ḇêṯ|...|H1004|Prep-l | N-msc
-v9 אֲבֹתֵיהֶֽם׃ס|’ă·ḇō·ṯê·hem|...|H1|N-mpc | 3mp
+v9 אֲבֹתֵיהֶֽם׃|’ă·ḇō·ṯê·hem|...|H1|N-mpc | 3mp
 v10 וּמִן־|ū·min-|From|H4480|Conj-w | Prep
 v10 הַֽכֹּהֲנִ֑ים|hak·kō·hă·nîm|the priests|H3548|Art | N-mp
 v10 יְדַֽעְיָ֥ה|yə·ḏa‘·yāh|Jedaiah|H3048|N-proper-ms
@@ -114,7 +114,7 @@ v11 בֶּן־|ben-|the son|H1121|N-msc
 v11 אֲחִיט֔וּב|’ă·ḥî·ṭūḇ|of Ahitub|H285|N-proper-ms
 v11 נְגִ֖יד|nə·ḡîḏ|the chief official|H5057|N-msc
 v11 בֵּ֥ית|bêṯ|temple|H1004|N-msc
-v11 הָאֱלֹהִֽים׃ס|hā·’ĕ·lō·hîm|of God's|H430|Art | N-mp
+v11 הָאֱלֹהִֽים׃|hā·’ĕ·lō·hîm|of God's|H430|Art | N-mp
 v12 וַעֲדָיָה֙|wa·‘ă·ḏā·yāh|Adaiah|H5718|Conj-w | N-proper-ms
 v12 בֶּן־|ben-|son|H1121|N-msc
 v12 יְרֹחָ֔ם|yə·rō·ḥām|of Jeroham|H3395|N-proper-ms
@@ -210,8 +210,8 @@ v19 אֶבְיָסָ֨ף|’eḇ·yā·sāp̄|of Ebiasaph|H43|N-proper-ms
 v19 בֶּן־|ben-|the son|H1121|N-msc
 v19 קֹ֜רַח|qō·raḥ|of Korah|H7141|N-proper-ms
 v19 וְֽאֶחָ֧יו|wə·’e·ḥāw|and his relatives|H251|Conj-w | N-mpc | 3ms
-v19 לְבֵית־|lə·ḇêṯ-|vvv|H1004|Prep-l | N-msc
-v19 אָבִ֣יו|’ā·ḇîw|vvv|H1|N-msc | 3ms
+v19 לְבֵית־|lə·ḇêṯ-|...|H1004|Prep-l | N-msc
+v19 אָבִ֣יו|’ā·ḇîw|...|H1|N-msc | 3ms
 v19 הַקָּרְחִ֗ים|haq·qā·rə·ḥîm|from the Korahites|H7145|Art | N-proper-mp
 v19 עַ֚ל|‘al|had been assigned to|H5921|Prep
 v19 מְלֶ֣אכֶת|mə·le·ḵeṯ|...|H4399|N-fsc
@@ -361,7 +361,7 @@ v32 לֶ֣חֶם|le·ḥem|of the showbread|H3899|N-msc
 v32 הַֽמַּעֲרָ֑כֶת|ham·ma·‘ă·rā·ḵeṯ|the rows|H4635|Art | N-fs
 v32 לְהָכִ֖ין|lə·hā·ḵîn|preparing|H3559|Prep-l | V-Hifil-Inf
 v32 שַׁבַּ֥ת|šab·baṯ|every Sabbath|H7676|N-csc
-v32 שַׁבָּֽת׃ס|šab·bāṯ|...|H7676|N-cs
+v32 שַׁבָּֽת׃|šab·bāṯ|...|H7676|N-cs
 v33 וְאֵ֣לֶּה|wə·’êl·leh|Those who were|H428|Conj-w | Pro-cp
 v33 הַ֠מְשֹׁרְרִים|ham·šō·rə·rîm|musicians|H7891|Art | V-Piel-Prtcpl-mp
 v33 רָאשֵׁ֨י|rā·šê|the heads|H7218|N-mpc
@@ -382,7 +382,7 @@ v34 לְתֹלְדוֹתָ֖ם|lə·ṯō·lə·ḏō·w·ṯām|according to th
 v34 רָאשִׁ֑ים|rā·šîm|chiefs|H7218|N-mp
 v34 אֵ֖לֶּה|’êl·leh|...|H428|Pro-cp
 v34 יָשְׁב֥וּ|yā·šə·ḇū|and they lived|H3427|V-Qal-Perf-3cp
-v34 בִירוּשָׁלִָֽם׃פ|ḇî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
+v34 בִירוּשָׁלִָֽם׃|ḇî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v35 וּבְגִבְע֛וֹן|ū·ḇə·ḡiḇ·‘ō·wn|of Gibeon|H1391|Conj-w, Prep-b | N-proper-fs
 v35 יָשְׁב֥וּ|yā·šə·ḇū|lived|H3427|V-Qal-Perf-3cp
 v35 אֲבִֽי־|’ă·ḇî-|the father|H1|N-msc
@@ -414,7 +414,7 @@ v38 אֲחֵיהֶ֛ם|’ă·ḥê·hem|their relatives|H251|N-mpc | 3mp
 v38 יָשְׁב֥וּ|yā·šə·ḇū|lived|H3427|V-Qal-Perf-3cp
 v38 בִירֽוּשָׁלִַ֖ם|ḇî·rū·šā·lim|in Jerusalem|H3389|Prep-b | N-proper-fs
 v38 עִם־|‘im-|-|H5973|Prep
-v38 אֲחֵיהֶֽם׃ס|’ă·ḥê·hem|-|H251|N-mpc | 3mp
+v38 אֲחֵיהֶֽם׃|’ă·ḥê·hem|-|H251|N-mpc | 3mp
 v39 וְנֵר֙|wə·nêr|Ner|H5369|Conj-w | N-proper-ms
 v39 הוֹלִ֣יד|hō·w·lîḏ|was the father of|H3205|V-Hifil-Perf-3ms
 v39 אֶת־|’eṯ-|-|H853|DirObjM
@@ -428,7 +428,7 @@ v39 הוֹלִ֤יד|hō·w·lîḏ|was the father of|H3205|V-Hifil-Perf-3ms
 v39 אֶת־|’eṯ-|-|H853|DirObjM
 v39 יְהֽוֹנָתָן֙|yə·hō·w·nā·ṯān|Jonathan|H3083|N-proper-ms
 v39 וְאֶת־|wə·’eṯ-|-|H853|Conj-w | DirObjM
-v39 מַלְכִּי־|mal·kî-|vvv|H4444|N-proper-ms
+v39 מַלְכִּי־|mal·kî-|...|H4444|N-proper-ms
 v39 שׁ֔וּעַ|šū·a‘|Malchishua|H4444|Conj-w | DirObjM
 v39 וְאֶת־|wə·’eṯ-|-|H853|N-proper-ms
 v39 אֲבִינָדָ֖ב|’ă·ḇî·nā·ḏāḇ|Abinadab|H41|Conj-w | DirObjM
@@ -436,9 +436,9 @@ v39 וְאֶת־|wə·’eṯ-|-|H853|DirObjM
 v39 אֶשְׁבָּֽעַל׃|’eš·bā·‘al|and Esh-baal|H792|N-proper-ms
 v40 וּבֶן־|ū·ḇen-|The son|H1121|Conj-w | N-msc
 v40 יְהוֹנָתָ֖ן|yə·hō·w·nā·ṯān|of Jonathan|H3083|N-proper-ms
-v40 מְרִ֣יב|mə·rîḇ|vvv|H4807|Prep
+v40 מְרִ֣יב|mə·rîḇ|...|H4807|Prep
 v40 בָּ֑עַל|bā·‘al|Merib-baal|H4807|N-proper-ms
-v40 וּמְרִי־|ū·mə·rî-|vvv|H4810|
+v40 וּמְרִי־|ū·mə·rî-|...|H4810|
 v40 בַ֖עַל|ḇa·‘al|[who]|H4810|Conj-w | N-proper-ms
 v40 הוֹלִ֥יד|hō·w·lîḏ|was the father of|H3205|V-Hifil-Perf-3ms
 v40 אֶת־|’eṯ-|-|H853|DirObjM
@@ -487,4 +487,4 @@ v44 וְעֹבַדְיָ֖ה|wə·‘ō·ḇaḏ·yāh|Obadiah|H5662|Conj-w | N-
 v44 וְחָנָ֑ן|wə·ḥā·nān|and Hanan|H2605|Conj-w | N-proper-ms
 v44 אֵ֖לֶּה|’êl·leh|These [were]|H428|Pro-cp
 v44 בְּנֵ֥י|bə·nê|the sons|H1121|N-mpc
-v44 אָצַֽל׃פ|’ā·ṣal|of Azel|H682|N-proper-ms
+v44 אָצַֽל׃|’ā·ṣal|of Azel|H682|N-proper-ms
