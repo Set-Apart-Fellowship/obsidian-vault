@@ -164,7 +164,8 @@ This creates `Utilities/data/lxx-lemma-index.json`. After that, the script works
 | INTERLINEAR | Hebrew/Greek with transliteration, Strong's, and morphology |
 | INTERLINEAR (NT) | Greek text from bereanbible.com. Not the Textus Receptus: Mark 7:19 reads καθαρίζων (TR: καθαρίζον). |
 
-> **BASIC (Bible in Basic English)** is not included in this repo. It is public domain in the United States, but its copyright status outside the US is ambiguous due to GATT restoration and UK considerations. Users who want BBE can source it themselves and add it locally. KJV is public domain everywhere except the United Kingdom, where printing rights are held under Crown letters patent. UK users should be aware of this before reproducing it.
+> **BASIC (Bible in Basic English)** is not included in this repo. It is public domain in the United States, but its copyright status outside the US is ambiguous due to GATT restoration and UK considerations. Users who want BBE can source it themselves and add it locally.
+> **KJV** is public domain everywhere except the United Kingdom, where printing rights are held under Crown letters patent. UK users should be aware of this before reproducing it.
 
 ---
 
